@@ -10,3 +10,4 @@ url: /net/text-and-measurements/
 
 ## Text and Measurements Tutorials
 ### [Measure Text in Aspose.Imaging for .NET](./measure-text/)
+Measure text in images using Aspose.Imaging for .NET. A powerful .NET library. Precise and efficient text measurement.
