@@ -16,7 +16,7 @@ Before we dive into the tutorial, make sure you have the following prerequisites
 
 ### 1. Aspose.Imaging for .NET
 
-You should have Aspose.Imaging for .NET installed. If you don't have it, you can download it from the official website at [Download Aspose.Imaging for .NET](https://releases.aspose.com/imaging/net/).
+You should have Aspose.Imaging for .NET installed. If you don't have it, you can download it from the   website at [Download Aspose.Imaging for .NET](https://releases.aspose.com/imaging/net/).
 
 ### 2. .NET Development Environment
 
@@ -100,8 +100,8 @@ In this tutorial, we have demonstrated how to convert vector images to raster im
 ### What is Aspose.Imaging for .NET?
 Aspose.Imaging for .NET is a .NET library that provides powerful image processing features, including the ability to work with various image formats, convert images, and perform advanced image manipulation tasks.
 
-### Where can I find the official documentation for Aspose.Imaging for .NET?
-You can find the official documentation for Aspose.Imaging for .NET [here](https://reference.aspose.com/imaging/net/).
+### Where can I find the   documentation for Aspose.Imaging for .NET?
+You can find the   documentation for Aspose.Imaging for .NET [here](https://reference.aspose.com/imaging/net/).
 
 ### Is there a free trial version available?
 Yes, you can access a free trial of Aspose.Imaging for .NET [here](https://releases.aspose.com/).

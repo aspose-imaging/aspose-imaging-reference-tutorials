@@ -13,7 +13,7 @@ Are you ready to learn how to convert CMX files to TIFF format using Aspose.Imag
 
 Before we dive into the conversion process, let's ensure you have everything you need:
 
-- Aspose.Imaging for .NET Library: You should have the Aspose.Imaging for .NET library installed. You can download it from the official website [here](https://releases.aspose.com/imaging/net/).
+- Aspose.Imaging for .NET Library: You should have the Aspose.Imaging for .NET library installed. You can download it from the   website [here](https://releases.aspose.com/imaging/net/).
 
 - Your CMX File: You'll need the CMX file that you want to convert to TIFF. Make sure you have it available in your working directory.
 

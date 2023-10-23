@@ -113,4 +113,4 @@ A4: Aspose.Imaging for .NET is compatible with various versions of the .NET Fram
 
 ### Q5: Where can I find more Aspose.Imaging for .NET tutorials?
 
-A5: You can explore the official [Aspose.Imaging for .NET documentation](https://reference.aspose.com/imaging/net/) for a wide range of tutorials and examples.
+A5: You can explore the   [Aspose.Imaging for .NET documentation](https://reference.aspose.com/imaging/net/) for a wide range of tutorials and examples.

@@ -95,7 +95,7 @@ using (WmfImage resultImage = graphics.EndRecording())
 
 In this step-by-step guide, we've explored how to draw a raster image on a WMF document using Aspose.Imaging for .NET. This functionality allows you to combine vector and raster images, opening up endless possibilities for creative projects.
 
-Remember to obtain the Aspose.Imaging for .NET library from the official website, and ensure you have the necessary image files ready for your project. With these steps and the provided code snippets, you can seamlessly integrate image drawing into your .NET applications.
+Remember to obtain the Aspose.Imaging for .NET library from the   website, and ensure you have the necessary image files ready for your project. With these steps and the provided code snippets, you can seamlessly integrate image drawing into your .NET applications.
 
 ### Frequently Asked Questions
 
