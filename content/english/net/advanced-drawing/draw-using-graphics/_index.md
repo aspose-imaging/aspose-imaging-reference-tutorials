@@ -25,9 +25,9 @@ Ensure that you have a working development environment for .NET, such as Visual 
 
 You should have a basic understanding of C# programming.
 
-## Import Packages
+## Import Namespaces
 
-To get started with creating images in Aspose.Imaging for .NET, you need to import the necessary packages. Here's how you can do that:
+To get started with creating images in Aspose.Imaging for .NET, you need to import the necessary Namespaces. Here's how you can do that:
 
 ### Step 1: Add Aspose.Imaging Namespace
 

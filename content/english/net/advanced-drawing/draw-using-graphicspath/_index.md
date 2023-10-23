@@ -19,9 +19,9 @@ Before we dive into the step-by-step guide, make sure you have the following pre
 
 3. Basic C# Knowledge: Familiarity with C# programming will be beneficial, as this tutorial assumes you have a fundamental understanding of the language.
 
-## Import Packages
+## Import Namespaces
 
-To get started, open your Visual Studio project and import the necessary packages. Ensure you have the Aspose.Imaging namespace available in your code. If it's not already added, you can do so using the following statement:
+To get started, open your Visual Studio project and import the necessary Namespaces. Ensure you have the Aspose.Imaging namespace available in your code. If it's not already added, you can do so using the following statement:
 
 ```csharp
 using Aspose.Imaging;

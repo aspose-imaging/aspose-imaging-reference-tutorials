@@ -22,9 +22,9 @@ Before we begin, you'll need to ensure that you have the necessary prerequisites
 3. A BigTiff Image
 - Of course, you'll need a BigTiff image to work with. Make sure you have one handy in your document directory.
 
-## Import Packages
+## Import Namespaces
 
-Now that you have your prerequisites sorted, let's import the necessary packages to get started with the BigTiff image manipulation. In your Visual Studio project, add the following using statements:
+Now that you have your prerequisites sorted, let's import the necessary Namespaces to get started with the BigTiff image manipulation. In your Visual Studio project, add the following using statements:
 
 ```csharp
 using Aspose.Imaging;

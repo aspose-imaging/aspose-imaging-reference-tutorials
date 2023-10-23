@@ -19,7 +19,7 @@ Before we dive into the details, you'll need to have the following prerequisites
 
 3. Image Files: Prepare the image files you intend to combine. Place them in a directory accessible to your application.
 
-## Import Packages
+## Import Namespaces
 
 In your Visual Studio project, you need to import the Aspose.Imaging for .NET package. To do this, follow these steps:
 
@@ -46,7 +46,7 @@ In your code file, add the following using statement to include the Aspose.Imagi
 using Aspose.Imaging;
 ```
 
-Now that you have imported the necessary packages, you're ready to combine images in Aspose.Imaging for .NET.
+Now that you have imported the necessary Namespaces, you're ready to combine images in Aspose.Imaging for .NET.
 
 ## Combining Images - Step by Step
 

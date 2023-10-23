@@ -42,9 +42,10 @@ With Aspose.Imaging, you can easily overlay additional images onto your base ima
 
 Once your image composition is complete, save your masterpiece in the format of your choice. Aspose.Imaging allows you to export your creation in various formats, ensuring compatibility with your intended use.
 
-## Conclusion
-
-Image composition is a captivating and valuable skill, and Aspose.Imaging for .NET simplifies the process, making it accessible to both beginners and professionals. Start your journey to becoming a master of image composition today, and watch your creative projects come to life. Whether you're working on web design, digital art, or photography, the possibilities are endless with Aspose.Imaging.
 ## Image Composition Tutorials
 ### [Combine Images in Aspose.Imaging for .NET](./combine-images/)
 Learn to combine images in Aspose.Imaging for .NET. A step-by-step guide to powerful image processing.
+
+## Conclusion
+
+Image composition is a captivating and valuable skill, and Aspose.Imaging for .NET simplifies the process, making it accessible to both beginners and professionals. Start your journey to becoming a master of image composition today, and watch your creative projects come to life. Whether you're working on web design, digital art, or photography, the possibilities are endless with Aspose.Imaging.

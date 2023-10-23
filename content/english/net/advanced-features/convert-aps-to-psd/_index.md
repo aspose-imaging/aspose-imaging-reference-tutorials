@@ -19,9 +19,9 @@ Before we dive into the process, make sure you have the following prerequisites 
 
 3. Basic Knowledge of C#: Familiarity with C# programming language is essential to implement the conversion process.
 
-## Import Packages
+## Import Namespaces
 
-Let's start by importing the necessary packages to work with Aspose.Imaging for .NET. Ensure that you've added the reference to the Aspose.Imaging library in your project.
+Let's start by importing the necessary Namespaces to work with Aspose.Imaging for .NET. Ensure that you've added the reference to the Aspose.Imaging library in your project.
 
 ```csharp
 using Aspose.Imaging;

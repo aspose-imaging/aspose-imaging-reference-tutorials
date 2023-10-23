@@ -19,9 +19,9 @@ Before we begin, make sure you have the following prerequisites in place:
 
 Now, let's jump into the exciting world of Pantone Goe Coated Palette.
 
-## Import Packages
+## Import Namespaces
 
-First, you need to import the necessary packages to get started. Open your Visual Studio project and make sure to add references to Aspose.Imaging for .NET.
+First, you need to import the necessary Namespaces to get started. Open your Visual Studio project and make sure to add references to Aspose.Imaging for .NET.
 
 ```csharp
 using Aspose.Imaging;

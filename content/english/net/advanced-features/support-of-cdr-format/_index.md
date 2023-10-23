@@ -21,15 +21,15 @@ You should have Aspose.Imaging for .NET installed in your development environmen
 
 Make sure you have some CorelDRAW files (CDR) that you want to work with. Without these files, you won't be able to practice the CDR format support.
 
-## Import Packages
+## Import Namespaces
 
-Before you can start using Aspose.Imaging for .NET to handle CDR files, you need to import the necessary packages into your .NET project. Below is an example of how to do this:
+Before you can start using Aspose.Imaging for .NET to handle CDR files, you need to import the necessary Namespaces into your .NET project. Below is an example of how to do this:
 
 ```csharp
 using Aspose.Imaging;
 ```
 
-Now that you have the prerequisites in place and the required packages imported, let's break down the process of supporting CDR files using Aspose.Imaging for .NET into step-by-step instructions.
+Now that you have the prerequisites in place and the required Namespaces imported, let's break down the process of supporting CDR files using Aspose.Imaging for .NET into step-by-step instructions.
 
 ## Step 1: Load the CDR File
 
@@ -62,7 +62,7 @@ This step ensures that you are indeed working with a CDR file.
 
 ## Conclusion
 
-Aspose.Imaging for .NET offers robust support for CorelDRAW files (CDR), making it a valuable tool for developers and designers. In this tutorial, we explored the process of handling CDR files step by step. By following the prerequisites and importing the required packages, you can effortlessly load and verify CDR files. With Aspose.Imaging for .NET, you're equipped to integrate CDR format support into your applications, unlocking new possibilities in the world of digital graphics.
+Aspose.Imaging for .NET offers robust support for CorelDRAW files (CDR), making it a valuable tool for developers and designers. In this tutorial, we explored the process of handling CDR files step by step. By following the prerequisites and importing the required Namespaces, you can effortlessly load and verify CDR files. With Aspose.Imaging for .NET, you're equipped to integrate CDR format support into your applications, unlocking new possibilities in the world of digital graphics.
 
 If you have any questions or encounter any issues, don't hesitate to seek help from the [Aspose.Imaging community](https://forum.aspose.com/). Now, let's address some common queries.
 

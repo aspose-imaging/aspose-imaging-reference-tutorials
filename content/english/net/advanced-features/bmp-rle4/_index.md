@@ -23,9 +23,9 @@ Before we dive into the BMP RLE4 compression tutorial, make sure you have the fo
 
 Now that you have all the prerequisites in place, let's dive into the BMP RLE4 compression tutorial.
 
-## Import Packages
+## Import Namespaces
 
-Before you can start working with BMP RLE4 compression, you need to import the necessary packages from Aspose.Imaging. Here's how you can do it:
+Before you can start working with BMP RLE4 compression, you need to import the necessary Namespaces from Aspose.Imaging. Here's how you can do it:
 
 ### Step 1: Import Aspose.Imaging Namespace
 

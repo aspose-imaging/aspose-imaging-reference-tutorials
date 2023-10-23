@@ -31,9 +31,9 @@ Familiarity with C# programming is essential for understanding the code examples
 
 Now that you've got everything set up, let's move on to the fun part.
 
-## Import Packages
+## Import Namespaces
 
-In this section, we will import the necessary packages to work with Aspose.Imaging for .NET.
+In this section, we will import the necessary Namespaces to work with Aspose.Imaging for .NET.
 
 ### Step 1: Import Required Aspose.Imaging Namespace
 
