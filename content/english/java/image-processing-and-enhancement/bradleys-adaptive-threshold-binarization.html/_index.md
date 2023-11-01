@@ -15,11 +15,11 @@ Before diving into the world of image binarization with Aspose.Imaging for Java,
 
 ### Java Development Environment
 
-You should have a Java development environment set up on your system. If you haven't already, you can download and install the Java Development Kit (JDK) from the official Oracle website.
+You should have a Java development environment set up on your system. If you haven't already, you can download and install the Java Development Kit (JDK) from the Oracle website.
 
 ### Aspose.Imaging for Java
 
-To follow along with this tutorial, you'll need to have Aspose.Imaging for Java installed. You can download it from the official Aspose website using the following link: [Download Aspose.Imaging for Java](https://releases.aspose.com/imaging/java/).
+To follow along with this tutorial, you'll need to have Aspose.Imaging for Java installed. You can download it from the Aspose website using the following link: [Download Aspose.Imaging for Java](https://releases.aspose.com/imaging/java/).
 
 ### A DICOM Image
 
@@ -98,7 +98,7 @@ A1: DICOM stands for Digital Imaging and Communications in Medicine, and it's a 
 
 ### Q2: Can I use Aspose.Imaging for Java in my commercial projects?
 
-A2: Yes, Aspose.Imaging for Java offers both free trials and commercial licenses. You can explore your options and acquire the necessary licensing from [Aspose's official website](https://purchase.aspose.com/buy).
+A2: Yes, Aspose.Imaging for Java offers both free trials and commercial licenses. You can explore your options and acquire the necessary licensing from [Aspose's website](https://purchase.aspose.com/buy).
 
 ### Q3: Are there any temporary licenses available for testing purposes?
 
