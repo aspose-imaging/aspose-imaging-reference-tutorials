@@ -15,7 +15,7 @@ Before we dive into the conversion process, you'll need to ensure that you have 
 
 ### 1. Java Development Environment
 
-Make sure you have a Java development environment set up on your computer. You can download and install Java from the official website.
+Make sure you have a Java development environment set up on your computer. You can download and install Java from the website.
 
 ### 2. Aspose.Imaging for Java
 

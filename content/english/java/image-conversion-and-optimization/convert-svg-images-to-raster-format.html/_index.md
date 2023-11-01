@@ -17,7 +17,7 @@ Before we dive into the conversion process, let's make sure you have everything 
 You should have a Java development environment set up on your system. If not, you can download and install Java from [here](https://www.oracle.com/java/technologies/javase-downloads.html).
 
 ### Aspose.Imaging for Java
-Make sure you have the Aspose.Imaging for Java library. You can download it from the official Aspose website [here](https://releases.aspose.com/imaging/java/).
+Make sure you have the Aspose.Imaging for Java library. You can download it from the Aspose website [here](https://releases.aspose.com/imaging/java/).
 
 ### SVG Image
 Prepare the SVG image that you want to convert. You can use any SVG image of your choice.
