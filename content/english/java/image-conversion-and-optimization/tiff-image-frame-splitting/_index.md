@@ -7,13 +7,13 @@ type: docs
 weight: 21
 url: /java/image-conversion-and-optimization/tiff-image-frame-splitting/
 ---
-# Introduction
+## Introduction
 
 In today's digital world, where images play a pivotal role in conveying information, Aspose.Imaging for Java stands as a powerful tool for developers. This versatile Java library empowers you to manipulate and process various image formats, opening doors to endless creative possibilities. Whether you're working on a project that requires image frame splitting, format conversion, or image enhancement, Aspose.Imaging for Java has got your back.
 
 In this comprehensive guide, we'll delve into the world of Aspose.Imaging for Java. We'll start with the prerequisites, which are essential to set the stage for our journey. Then, we'll guide you through the process of importing the necessary packages. Next, we'll break down the example of TIFF image frame splitting into multiple, easy-to-follow steps, making sure you grasp every detail. So, let's get started and unravel the wonders of Aspose.Imaging for Java.
 
-# Prerequisites
+## Prerequisites
 
 Before we embark on our journey with Aspose.Imaging for Java, it's essential to ensure you have the following prerequisites in place:
 
@@ -96,7 +96,7 @@ Aspose.Imaging for Java is a powerful tool that simplifies image manipulation an
 
 With the knowledge gained from this tutorial, you're now equipped to explore the vast world of image processing and unleash your creativity. So, go ahead and dive into your image-related projects with confidence.
 
-# FAQ's
+## FAQ's
 
 ### Q1: Where can I download Aspose.Imaging for Java?
 

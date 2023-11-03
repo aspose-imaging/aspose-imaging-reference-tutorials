@@ -34,7 +34,7 @@ import com.aspose.imaging.fileformats.tiff.TiffFrame;
 
 Now, let's break down the process into multiple steps:
 
-### Step 1: Load the TIFF Image
+## Step 1: Load the TIFF Image
 
 Begin by initializing your data directory and loading the TIFF image that you want to process.
 
@@ -43,7 +43,7 @@ String dataDir = "Your Document Directory" + "ModifyingImages/";
 try (TiffImage multiImage = (TiffImage) Image.load(dataDir + "SampleTiff1.tiff")) {
 ```
 
-### Step 2: Save Frames in Different Raster Formats
+## Step 2: Save Frames in Different Raster Formats
 
 Next, we'll iterate over the frames of the TIFF image and save each frame in the desired raster format. In this example, we'll save frames in PNG format.
 
