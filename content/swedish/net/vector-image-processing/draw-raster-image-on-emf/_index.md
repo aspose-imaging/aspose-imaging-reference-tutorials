@@ -26,7 +26,7 @@ Innan vi dyker in i handledningen bör du ha följande förutsättningar på pla
 
 ## Importera namnområden
 
-I ditt Visual Studio-projekt måste du importera de nödvändiga namnområdena för att arbeta med Aspose.Imaging. Lägg till följande namnområden i din kodfil:
+ditt Visual Studio-projekt måste du importera de nödvändiga namnområdena för att arbeta med Aspose.Imaging. Lägg till följande namnområden i din kodfil:
 
 ```csharp
 using Aspose.Imaging;

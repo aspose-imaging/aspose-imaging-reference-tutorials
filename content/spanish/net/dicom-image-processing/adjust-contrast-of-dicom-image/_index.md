@@ -81,7 +81,7 @@ image.AdjustContrast(50);
 image.Save(dataDir + "AdjustContrastDICOM_out.bmp", new BmpOptions());
 ```
 
- Reemplazar`"AdjustContrastDICOM_out.bmp"` con el nombre del archivo de salida que desee.
+ Reemplazar`"AdjustContrastDICOM_out.bmp"`con el nombre del archivo de salida que desee.
 
 ## Conclusión
 

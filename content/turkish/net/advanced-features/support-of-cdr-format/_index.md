@@ -48,7 +48,7 @@ using (Image image = Image.Load(inputFileName))
 
 ## 2. Adım: Dosya Formatını Kontrol Edin
 
-Yüklenen görüntünün CDR formatında olduğunu doğrulamak önemlidir. Bunu kullanarak beklenen dosya formatıyla (CDR) karşılaştırabilirsiniz.`image.FileFormat` mülk. İşte nasıl:
+ Yüklenen görüntünün CDR formatında olduğunu doğrulamak önemlidir. Bunu kullanarak beklenen dosya formatıyla (CDR) karşılaştırabilirsiniz.`image.FileFormat`mülk. İşte nasıl:
 
 ```csharp
 FileFormat expectedFileFormat = FileFormat.Cdr;

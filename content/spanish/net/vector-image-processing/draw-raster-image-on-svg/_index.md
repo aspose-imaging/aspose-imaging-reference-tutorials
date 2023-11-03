@@ -48,7 +48,7 @@ using (SvgImage canvasImage = (SvgImage)Image.Load(dataDir + "asposenet_220_src0
 
 ## Paso 3: dibujar en la imagen SVG
 
- Ahora puedes empezar a dibujar en la imagen SVG existente. Para hacer esto, necesita crear una instancia de`SvgGraphics2D`:
+Ahora puedes empezar a dibujar en la imagen SVG existente. Para hacer esto, necesita crear una instancia de`SvgGraphics2D`:
 
 ```csharp
 SvgGraphics2D graphics = new SvgGraphics2D(canvasImage);

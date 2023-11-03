@@ -19,7 +19,7 @@ Avant de plonger dans le didacticiel, vous devez vous assurer que les conditions
 
 Maintenant, décomposons le processus en plusieurs étapes pour vous aider à réaliser cette tâche :
 
-## Étape 1 : Importer les espaces de noms
+## Étape 1 : Importer des espaces de noms
 
 Tout d’abord, vous devez importer les espaces de noms nécessaires pour travailler avec Aspose.Imaging for .NET. Ajoutez le code suivant au début de votre projet .NET :
 

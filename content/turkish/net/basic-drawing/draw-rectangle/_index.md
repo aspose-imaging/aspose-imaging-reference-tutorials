@@ -38,7 +38,7 @@ Yukarıdaki kodda, görüntü işleme için gerekli sınıfları ve yöntemleri 
 
 Şimdi bir görüntü üzerinde dikdörtgenler çizmeye devam edelim.
 
-### Adım 2: Bir Resim Oluşturun
+### Adım 2: Bir Görüntü Oluşturun
 
 ```csharp
 string dataDir = "Your Document Directory";  // Belge dizininizin yolunu ayarlayın

@@ -7,7 +7,7 @@ type: docs
 weight: 11
 url: /sv/net/dicom-image-processing/adjust-contrast-of-dicom-image/
 ---
-I världen av medicinsk bildbehandling är exakt kontroll över bildkvaliteten avgörande. Aspose.Imaging för .NET tillhandahåller en kraftfull lösning för att enkelt manipulera DICOM-bilder. I denna steg-för-steg-handledning går vi igenom processen att justera kontrasten för en DICOM-bild med Aspose.Imaging för .NET. Denna handledning är designad för dig som vill förbättra synligheten för medicinska bilder för diagnostiska eller forskningsändamål. 
+världen av medicinsk bildbehandling är exakt kontroll över bildkvaliteten avgörande. Aspose.Imaging för .NET tillhandahåller en kraftfull lösning för att enkelt manipulera DICOM-bilder. I denna steg-för-steg-handledning går vi igenom processen att justera kontrasten för en DICOM-bild med Aspose.Imaging för .NET. Denna handledning är designad för dig som vill förbättra synligheten för medicinska bilder för diagnostiska eller forskningsändamål. 
 
 ## Förutsättningar
 
@@ -81,7 +81,7 @@ image.AdjustContrast(50);
 image.Save(dataDir + "AdjustContrastDICOM_out.bmp", new BmpOptions());
 ```
 
- Byta ut`"AdjustContrastDICOM_out.bmp"` med önskat utdatafilnamn.
+ Byta ut`"AdjustContrastDICOM_out.bmp"`med önskat utdatafilnamn.
 
 ## Slutsats
 

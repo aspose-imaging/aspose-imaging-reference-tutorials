@@ -87,7 +87,7 @@ A1: Aspose.Imaging für .NET ist eine leistungsstarke Bibliothek, mit der Sie Bi
 
 ### F4: Wie kaufe ich eine Lizenz?
 
-A4: Sie können eine Lizenz für Aspose.Imaging für .NET erwerben unter[Aspose.Imaging-Kauf](https://purchase.aspose.com/buy).
+ A4: Sie können eine Lizenz für Aspose.Imaging für .NET erwerben unter[Aspose.Imaging-Kauf](https://purchase.aspose.com/buy).
 
 ### F5: Wo kann ich Unterstützung bekommen oder Fragen stellen?
 

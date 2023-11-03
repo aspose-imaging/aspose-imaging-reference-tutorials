@@ -52,7 +52,7 @@ Lassen Sie uns nun den bereitgestellten Beispielcode in mehrere Schritte aufteil
 string dataDir = "Your Document Directory";
 ```
 
- Im Code müssen Sie das Verzeichnis angeben, in dem sich Ihr DICOM-Bild befindet. Unbedingt austauschen`"Your Document Directory"`mit dem tatsächlichen Pfad zu Ihrer DICOM-Datei.
+ Im Code müssen Sie das Verzeichnis angeben, in dem sich Ihr DICOM-Bild befindet. Unbedingt austauschen`"Your Document Directory"` mit dem tatsächlichen Pfad zu Ihrer DICOM-Datei.
 
 ### Schritt 2: Öffnen und laden Sie das DICOM-Bild
 
@@ -83,7 +83,7 @@ In diesem Schritt wird das resultierende Binärbild als BMP-Datei (Bitmap) mit d
 
 Glückwunsch! Sie haben erfolgreich gelernt, wie Sie mit Aspose.Imaging für .NET eine Binärisierung mit einem festen Schwellenwert für ein DICOM-Bild durchführen. Diese Technik ist in verschiedenen Bereichen von unschätzbarem Wert, einschließlich medizinischer Bildgebung, Dokumentenverarbeitung und mehr. Aspose.Imaging vereinfacht die Bildverarbeitungsaufgaben und macht es zu einem leistungsstarken Tool für .NET-Entwickler.
 
- Wenn Sie auf Probleme stoßen oder weitere Fragen haben, wenden Sie sich bitte an die Aspose.Imaging-Community[Hilfeforum](https://forum.aspose.com/).
+Wenn Sie auf Probleme stoßen oder weitere Fragen haben, wenden Sie sich bitte an die Aspose.Imaging-Community[Hilfeforum](https://forum.aspose.com/).
 
 ## FAQs
 
@@ -105,4 +105,4 @@ Absolut! Während Aspose.Imaging häufig im medizinischen Bereich verwendet wird
 
 ### F5: Gibt es eine Testversion von Aspose.Imaging für .NET?
 
- Ja, Sie können Aspose.Imaging für .NET ausprobieren, indem Sie die Testversion von herunterladen[Hier](https://releases.aspose.com/)Es ermöglicht Ihnen, die Features und Funktionalitäten zu erkunden, bevor Sie einen Kauf tätigen.
+ Ja, Sie können Aspose.Imaging für .NET ausprobieren, indem Sie die Testversion von herunterladen[Hier](https://releases.aspose.com/). Es ermöglicht Ihnen, die Features und Funktionalitäten zu erkunden, bevor Sie einen Kauf tätigen.

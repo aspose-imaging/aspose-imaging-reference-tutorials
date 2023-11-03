@@ -13,7 +13,7 @@ url: /zh/net/dicom-image-processing/dicom-simple-resizing/
 
 在我们深入了解分步指南之前，请确保您具备以下先决条件：
 
-1. Aspose.Imaging for .NET：您必须在开发环境中安装 Aspose.Imaging for .NET 库。如果您还没有，您可以从以下位置下载[这里](https://releases.aspose.com/imaging/net/).
+1.  Aspose.Imaging for .NET：您必须在开发环境中安装 Aspose.Imaging for .NET 库。如果您还没有，您可以从以下位置下载[这里](https://releases.aspose.com/imaging/net/).
 
 2. .NET 开发环境：需要 C# 和 .NET 开发环境的应用知识。
 
@@ -113,4 +113,4 @@ A4：Aspose.Imaging for .NET 与.NET Framework 的各个版本兼容，包括.NE
 
 ### Q5：在哪里可以找到更多 Aspose.Imaging for .NET 教程？
 
- A5：你可以探索官方[Aspose.Imaging for .NET 文档](https://reference.aspose.com/imaging/net/)获取广泛的教程和示例。
+ A5：您可以探索[Aspose.Imaging for .NET 文档](https://reference.aspose.com/imaging/net/)获取广泛的教程和示例。

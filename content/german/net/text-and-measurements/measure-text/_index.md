@@ -70,7 +70,7 @@ Als Nächstes erstellen Sie ein Grafikobjekt, das für die Textmessung unerläss
 
 ## Abschluss
 
-In diesem Tutorial haben wir die wesentlichen Schritte zum Messen von Text in einem Bild mit Aspose.Imaging für .NET behandelt. Mit der richtigen Einrichtung, dem Importieren der erforderlichen Namespaces und der Nutzung der`MeasureString` Mit dieser Methode können Sie den Text in Ihren Bildern präzise messen. Dies ist nur ein Beispiel dafür, was Aspose.Imaging für .NET für Ihre Bildbearbeitungsanforderungen tun kann.
+ In diesem Tutorial haben wir die wesentlichen Schritte zum Messen von Text in einem Bild mit Aspose.Imaging für .NET behandelt. Mit der richtigen Einrichtung, dem Importieren der erforderlichen Namespaces und der Nutzung der`MeasureString`Mit dieser Methode können Sie den Text in Ihren Bildern präzise messen. Dies ist nur ein Beispiel dafür, was Aspose.Imaging für .NET für Ihre Bildbearbeitungsanforderungen leisten kann.
 
  Ausführlichere Anleitungen und Dokumentation finden Sie unter[Aspose.Imaging für .NET-Dokumentation](https://reference.aspose.com/imaging/net/).
 

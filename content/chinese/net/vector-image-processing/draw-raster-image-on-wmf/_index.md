@@ -95,7 +95,7 @@ using (WmfImage resultImage = graphics.EndRecording())
 
 在本分步指南中，我们探索了如何使用 Aspose.Imaging for .NET 在 WMF 文档上绘制光栅图像。此功能允许您组合矢量和光栅图像，为创意项目带来无限的可能性。
 
-请记住从官方网站获取 Aspose.Imaging for .NET 库，并确保您已准备好项目所需的图像文件。通过这些步骤和提供的代码片段，您可以将图像绘制无缝集成到您的 .NET 应用程序中。
+请记住从网站获取 Aspose.Imaging for .NET 库，并确保您已准备好项目所需的图像文件。通过这些步骤和提供的代码片段，您可以将图像绘制无缝集成到您的 .NET 应用程序中。
 
 ### 经常问的问题
 

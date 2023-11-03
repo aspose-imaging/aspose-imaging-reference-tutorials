@@ -13,7 +13,7 @@ url: /zh/net/dicom-image-processing/grayscale-on-dicom/
 
 在开始之前，请确保您具备以下先决条件：
 
-1.  Aspose.Imaging for .NET：您应该安装此库。您可以从[Aspose.Imaging for .NET 下载页面](https://releases.aspose.com/imaging/net/).
+1.  Aspose.Imaging for .NET：您应该安装这个库。您可以从[Aspose.Imaging for .NET 下载页面](https://releases.aspose.com/imaging/net/).
 
 2. DICOM 图像：您应该有一个想要灰度化的 DICOM 图像。如果您没有，您可以找到示例 DICOM 图像用于测试目的。
 

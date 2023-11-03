@@ -95,7 +95,7 @@ using (WmfImage resultImage = graphics.EndRecording())
 
 En esta guía paso a paso, exploramos cómo dibujar una imagen rasterizada en un documento WMF usando Aspose.Imaging para .NET. Esta funcionalidad le permite combinar imágenes vectoriales y rasterizadas, abriendo infinitas posibilidades para proyectos creativos.
 
-Recuerde obtener la biblioteca Aspose.Imaging para .NET del sitio web oficial y asegúrese de tener listos los archivos de imagen necesarios para su proyecto. Con estos pasos y los fragmentos de código proporcionados, puede integrar perfectamente el dibujo de imágenes en sus aplicaciones .NET.
+Recuerde obtener la biblioteca Aspose.Imaging para .NET del sitio web y asegúrese de tener listos los archivos de imagen necesarios para su proyecto. Con estos pasos y los fragmentos de código proporcionados, puede integrar perfectamente el dibujo de imágenes en sus aplicaciones .NET.
 
 ### Preguntas frecuentes
 
@@ -112,7 +112,7 @@ Recuerde obtener la biblioteca Aspose.Imaging para .NET del sitio web oficial y 
    - Aspose.Imaging para .NET ofrece una amplia gama de funcionalidades para agregar texto y formas a documentos WMF. Puede consultar la documentación para ver ejemplos detallados.
 
 ### ¿Dónde puedo encontrar soporte y recursos adicionales para Aspose.Imaging para .NET?
-   - Puede encontrar documentación extensa y buscar ayuda de la comunidad Aspose.Imaging en el[Foro de soporte de Aspose.Imaging](https://forum.aspose.com/).
+   -  Puede encontrar documentación extensa y buscar ayuda de la comunidad Aspose.Imaging en el[Foro de soporte de Aspose.Imaging](https://forum.aspose.com/).
 
 
 Ahora tiene el conocimiento para integrar perfectamente el dibujo de imágenes en sus aplicaciones .NET utilizando Aspose.Imaging para .NET. Esta capacidad creativa abre la puerta a un mundo de posibilidades para mejorar sus proyectos con superposiciones de imágenes. Si tiene alguna pregunta o necesita más ayuda, no dude en comunicarse con la comunidad Aspose.Imaging en su foro de soporte. ¡Feliz codificación!

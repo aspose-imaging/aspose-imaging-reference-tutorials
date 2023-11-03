@@ -19,7 +19,7 @@ Bevor wir in die Welt der Bilderstellung eintauchen, stellen Sie sicher, dass Si
 
 3. Grundkenntnisse in C#: Vertrautheit mit der C#-Programmierung ist für das Verständnis der Codebeispiele von Vorteil.
 
-4.  Ihr Dokumentenverzeichnis: Ersetzen`"Your Document Directory"`Geben Sie im Code den tatsächlichen Verzeichnispfad an, in dem Sie Ihr Bild speichern möchten.
+4.  Ihr Dokumentenverzeichnis: Ersetzen`"Your Document Directory"` Geben Sie im Code den tatsächlichen Verzeichnispfad an, in dem Sie Ihr Bild speichern möchten.
 
 Nachdem Sie nun alles eingerichtet haben, beginnen wir mit der Schritt-für-Schritt-Anleitung.
 
@@ -95,7 +95,7 @@ A1:Aspose.Imaging für .NET unterstützt eine Vielzahl von Bildformaten, darunte
 
 ### F2: Gibt es eine kostenlose Testversion für Aspose.Imaging für .NET?
 
-A2: Ja, Sie können eine kostenlose Testversion von Aspose.Imaging für .NET erhalten von[Hier](https://releases.aspose.com/).
+ A2: Ja, Sie können eine kostenlose Testversion von Aspose.Imaging für .NET erhalten von[Hier](https://releases.aspose.com/).
 
 ### F3: Kann ich mit Aspose.Imaging für .NET eine erweiterte Bildverarbeitung durchführen?
 

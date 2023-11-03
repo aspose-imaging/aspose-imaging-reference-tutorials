@@ -111,8 +111,8 @@ A2：是的，Aspose.Imaging for .NET 支持多种图像格式，包括 JPEG、P
 
 ### Q4：有免费试用吗？
 
- A4：是的，您可以免费试用 Aspose.Imaging for .NET。开始使用[这里](https://releases.aspose.com/).
+A4：是的，您可以免费试用 Aspose.Imaging for .NET。开始使用[这里](https://releases.aspose.com/).
 
 ### Q5：在哪里可以找到更多示例和文档？
 
-A5：您可以在以下位置探索全面的文档和示例[Aspose.Imaging 文档](https://reference.aspose.com/imaging/net/).
+ A5：您可以在以下位置探索全面的文档和示例[Aspose.Imaging 文档](https://reference.aspose.com/imaging/net/).

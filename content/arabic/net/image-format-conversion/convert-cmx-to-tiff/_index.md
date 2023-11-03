@@ -13,7 +13,7 @@ url: /ar/net/image-format-conversion/convert-cmx-to-tiff/
 
 قبل أن نتعمق في عملية التحويل، دعونا نتأكد من أن لديك كل ما تحتاجه:
 
--  Aspose.Imaging for .NET Library: يجب أن يكون Aspose.Imaging for .NET Library مثبتًا لديك. يمكنك تنزيله من الموقع الرسمي[هنا](https://releases.aspose.com/imaging/net/).
+-  Aspose.Imaging for .NET Library: يجب أن يكون Aspose.Imaging for .NET Library مثبتًا لديك. يمكنك تنزيله من الموقع[هنا](https://releases.aspose.com/imaging/net/).
 
 - ملف CMX الخاص بك: ستحتاج إلى ملف CMX الذي تريد تحويله إلى TIFF. تأكد من توفره في دليل العمل الخاص بك.
 
@@ -109,7 +109,7 @@ A1: Aspose.Imaging for .NET عبارة عن مكتبة .NET قوية توفر ن
 
 ### س2: أين يمكنني العثور على الوثائق الخاصة بـ Aspose.Imaging لـ .NET؟
 
- ج٢: يمكنك الوصول إلى الوثائق[هنا](https://reference.aspose.com/imaging/net/)أنه يحتوي على معلومات مفصلة عن استخدام ميزات المكتبة.
+ ج٢: يمكنك الوصول إلى الوثائق[هنا](https://reference.aspose.com/imaging/net/). أنه يحتوي على معلومات مفصلة عن استخدام ميزات المكتبة.
 
 ### س3: هل يتوفر Aspose.Imaging for .NET للتجربة المجانية؟
 

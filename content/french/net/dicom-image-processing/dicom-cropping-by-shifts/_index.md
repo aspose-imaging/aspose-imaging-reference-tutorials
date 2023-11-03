@@ -57,7 +57,7 @@ using (DicomImage image = new DicomImage(fileStream))
 
 ## Étape 2 : Recadrer l'image DICOM
 
- Dans cette étape, vous appellerez le`Crop` et fournissez les quatre valeurs pour définir la zone de recadrage. Ici,`1, 1, 1, 1`sont utilisées comme exemples de valeurs. Vous devez remplacer ces valeurs par les coordonnées et dimensions réelles que vous souhaitez utiliser pour le recadrage :
+ Dans cette étape, vous appellerez le`Crop` et fournissez les quatre valeurs pour définir la zone de recadrage. Ici,`1, 1, 1, 1` sont utilisées comme exemples de valeurs. Vous devez remplacer ces valeurs par les coordonnées et dimensions réelles que vous souhaitez utiliser pour le recadrage :
 
 ```csharp
 image.Crop(1, 1, 1, 1);

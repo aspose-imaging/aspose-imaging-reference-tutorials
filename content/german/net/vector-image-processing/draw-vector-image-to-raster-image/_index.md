@@ -16,7 +16,7 @@ Bevor wir uns mit dem Tutorial befassen, stellen Sie sicher, dass die folgenden 
 
 ### 1. Aspose.Imaging für .NET
 
- Sie sollten Aspose.Imaging für .NET installiert haben. Wenn Sie es nicht haben, können Sie es von der offiziellen Website unter herunterladen[Laden Sie Aspose.Imaging für .NET herunter](https://releases.aspose.com/imaging/net/).
+ Sie sollten Aspose.Imaging für .NET installiert haben. Wenn Sie es nicht haben, können Sie es von der Website unter herunterladen[Laden Sie Aspose.Imaging für .NET herunter](https://releases.aspose.com/imaging/net/).
 
 ### 2. .NET-Entwicklungsumgebung
 
@@ -98,10 +98,10 @@ In diesem Tutorial haben wir gezeigt, wie Sie mit Aspose.Imaging für .NET Vekto
 ### Häufig gestellte Fragen
 
 ### Was ist Aspose.Imaging für .NET?
-Aspose.Imaging für .NET ist eine .NET-Bibliothek, die leistungsstarke Bildverarbeitungsfunktionen bietet, einschließlich der Möglichkeit, mit verschiedenen Bildformaten zu arbeiten, Bilder zu konvertieren und erweiterte Bildbearbeitungsaufgaben auszuführen.
+Aspose.Imaging für .NET ist eine .NET-Bibliothek, die leistungsstarke Bildverarbeitungsfunktionen bietet, einschließlich der Möglichkeit, mit verschiedenen Bildformaten zu arbeiten, Bilder zu konvertieren und erweiterte Bildbearbeitungsaufgaben durchzuführen.
 
-### Wo finde ich die offizielle Dokumentation für Aspose.Imaging für .NET?
- Sie finden die offizielle Dokumentation für Aspose.Imaging für .NET[Hier](https://reference.aspose.com/imaging/net/).
+### Wo finde ich die Dokumentation für Aspose.Imaging für .NET?
+ Sie finden die Dokumentation für Aspose.Imaging für .NET[Hier](https://reference.aspose.com/imaging/net/).
 
 ### Gibt es eine kostenlose Testversion?
  Ja, Sie können auf eine kostenlose Testversion von Aspose.Imaging für .NET zugreifen[Hier](https://releases.aspose.com/).

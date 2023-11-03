@@ -88,7 +88,7 @@ A1: عتبة التكيف الخاصة برادلي هي أسلوب يستخدم
 
 ### س3: أين يمكنني العثور على المزيد من وثائق Aspose.Imaging لـ .NET؟
 
- ج3: يمكنك استكشاف الوثائق[هنا](https://reference.aspose.com/imaging/net/) للحصول على معلومات تفصيلية حول استخدام Aspose.Imaging لـ .NET.
+ ج3: يمكنك استكشاف الوثائق[هنا](https://reference.aspose.com/imaging/net/)للحصول على معلومات تفصيلية حول استخدام Aspose.Imaging لـ .NET.
 
 ### س4: هل هناك إصدار تجريبي متاح لـ Aspose.Imaging for .NET؟
 

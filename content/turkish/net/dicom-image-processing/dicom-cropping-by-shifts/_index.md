@@ -57,7 +57,7 @@ using (DicomImage image = new DicomImage(fileStream))
 
 ## Adım 2: DICOM Görüntüsünü Kırpın
 
- Bu adımda,`Crop` yöntemini kullanın ve kırpma alanını tanımlamak için dört değeri sağlayın. Burada,`1, 1, 1, 1`örnek değerler olarak kullanılır. Bu değerleri, kırpma için kullanmak istediğiniz gerçek koordinatlar ve boyutlarla değiştirmelisiniz:
+ Bu adımda,`Crop` yöntemini kullanın ve kırpma alanını tanımlamak için dört değeri sağlayın. Burada,`1, 1, 1, 1` örnek değerler olarak kullanılır. Bu değerleri, kırpma için kullanmak istediğiniz gerçek koordinatlar ve boyutlarla değiştirmelisiniz:
 
 ```csharp
 image.Crop(1, 1, 1, 1);

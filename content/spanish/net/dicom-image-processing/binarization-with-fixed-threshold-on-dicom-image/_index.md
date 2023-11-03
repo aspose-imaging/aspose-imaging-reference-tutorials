@@ -52,7 +52,7 @@ Ahora, dividamos el código de ejemplo proporcionado en varios pasos para compre
 string dataDir = "Your Document Directory";
 ```
 
- En el código, debe especificar el directorio donde se encuentra su imagen DICOM. Asegúrate de reemplazar`"Your Document Directory"`con la ruta real a su archivo DICOM.
+ En el código, debe especificar el directorio donde se encuentra su imagen DICOM. Asegúrate de reemplazar`"Your Document Directory"` con la ruta real a su archivo DICOM.
 
 ### Paso 2: abra y cargue la imagen DICOM
 
@@ -83,7 +83,7 @@ En este paso, la imagen binaria resultante se guarda como un archivo BMP (mapa d
 
 ¡Felicidades! Ha aprendido con éxito cómo realizar la binarización con un umbral fijo en una imagen DICOM usando Aspose.Imaging para .NET. Esta técnica es invaluable en varios dominios, incluidas las imágenes médicas, el procesamiento de documentos y más. Aspose.Imaging simplifica las tareas de procesamiento de imágenes, convirtiéndola en una poderosa herramienta para desarrolladores .NET.
 
- Si tiene algún problema o tiene más preguntas, no dude en buscar ayuda de la comunidad Aspose.Imaging en su[Foro de soporte](https://forum.aspose.com/).
+Si tiene algún problema o tiene más preguntas, no dude en buscar ayuda de la comunidad Aspose.Imaging en su[Foro de soporte](https://forum.aspose.com/).
 
 ## Preguntas frecuentes
 
@@ -105,4 +105,4 @@ Sí, Aspose.Imaging ofrece una amplia gama de técnicas de procesamiento de imá
 
 ### P5: ¿Existe una versión de prueba de Aspose.Imaging para .NET disponible?
 
- Sí, puedes probar Aspose.Imaging para .NET descargando la versión de prueba desde[aquí](https://releases.aspose.com/)Le permite explorar sus características y funcionalidades antes de realizar una compra.
+ Sí, puedes probar Aspose.Imaging para .NET descargando la versión de prueba desde[aquí](https://releases.aspose.com/). Le permite explorar sus características y funcionalidades antes de realizar una compra.

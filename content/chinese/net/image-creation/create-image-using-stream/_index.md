@@ -25,7 +25,7 @@ url: /zh/net/image-creation/create-image-using-stream/
 
 ## 导入命名空间
 
-第一步是导入必要的名称空间。这些命名空间提供对 Aspose.Imaging for .NET 功能的访问。在 C# 文件的开头添加以下代码：
+第一步是导入必要的命名空间。这些命名空间提供对 Aspose.Imaging for .NET 功能的访问。在 C# 文件的开头添加以下代码：
 
 ```csharp
 using Aspose.Imaging;
@@ -95,7 +95,7 @@ A1：Aspose.Imaging for .NET 支持多种图像格式，包括 BMP、JPEG、PNG�
 
 ### 问题 2：Aspose.Imaging for .NET 是否有免费试用版？
 
-A2：是的，您可以从以下位置获取 Aspose.Imaging for .NET 的免费试用版：[这里](https://releases.aspose.com/).
+ A2：是的，您可以从以下位置获取 Aspose.Imaging for .NET 的免费试用版：[这里](https://releases.aspose.com/).
 
 ### Q3：我可以使用 Aspose.Imaging for .NET 执行高级图像处理吗？
 

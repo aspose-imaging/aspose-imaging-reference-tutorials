@@ -90,7 +90,7 @@ using (var image = Image.Create(imageOptions, 600, 600))
 
 ### Paso 6: agregue imágenes al lienzo
 
- Utilizar el`Graphics` clase para agregar y posicionar las imágenes en el lienzo. El`DrawImage` El método le permite especificar el archivo de imagen, la posición y las dimensiones de cada imagen que desee combinar:
+ Utilizar el`Graphics`clase para agregar y posicionar las imágenes en el lienzo. El`DrawImage` El método le permite especificar el archivo de imagen, la posición y las dimensiones de cada imagen que desee combinar:
 
 ```csharp
 var graphics = new Graphics(image);
@@ -115,7 +115,7 @@ En este tutorial, exploramos cómo combinar imágenes usando Aspose.Imaging para
 
 ### P1: ¿Qué formatos admite Aspose.Imaging para .NET para el procesamiento de imágenes?
 
-R1: Aspose.Imaging para .NET admite una amplia gama de formatos de imagen, incluidos JPEG, PNG, BMP, GIF, TIFF y muchos más. Puede encontrar una lista completa en el[documentación](https://reference.aspose.com/imaging/net/).
+ R1: Aspose.Imaging para .NET admite una amplia gama de formatos de imagen, incluidos JPEG, PNG, BMP, GIF, TIFF y muchos más. Puede encontrar una lista completa en el[documentación](https://reference.aspose.com/imaging/net/).
 
 ### P2: ¿Aspose.Imaging para .NET es de uso gratuito?
 

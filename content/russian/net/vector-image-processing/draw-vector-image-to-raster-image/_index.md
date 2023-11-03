@@ -16,7 +16,7 @@ url: /ru/net/vector-image-processing/draw-vector-image-to-raster-image/
 
 ### 1. Aspose.Imaging для .NET
 
- У вас должен быть установлен Aspose.Imaging for .NET. Если у вас его нет, вы можете скачать его с официального сайта по адресу[Скачать Aspose.Imaging для .NET](https://releases.aspose.com/imaging/net/).
+ У вас должен быть установлен Aspose.Imaging for .NET. Если у вас его нет, вы можете скачать его с сайта по адресу[Скачать Aspose.Imaging для .NET](https://releases.aspose.com/imaging/net/).
 
 ### 2. Среда разработки .NET.
 
@@ -100,13 +100,13 @@ using (SvgImage resultImage = graphics.EndRecording())
 ### Что такое Aspose.Imaging для .NET?
 Aspose.Imaging for .NET — это библиотека .NET, предоставляющая мощные функции обработки изображений, включая возможность работать с различными форматами изображений, конвертировать изображения и выполнять сложные задачи по манипулированию изображениями.
 
-### Где я могу найти официальную документацию Aspose.Imaging для .NET?
- Вы можете найти официальную документацию для Aspose.Imaging for .NET.[здесь](https://reference.aspose.com/imaging/net/).
+### Где я могу найти документацию по Aspose.Imaging для .NET?
+ Вы можете найти документацию по Aspose.Imaging для .NET.[здесь](https://reference.aspose.com/imaging/net/).
 
 ### Доступна ли бесплатная пробная версия?
  Да, вы можете получить доступ к бесплатной пробной версии Aspose.Imaging для .NET.[здесь](https://releases.aspose.com/).
 
-### Как получить временную лицензию на Aspose.Imaging for .NET?
+### Как мне получить временную лицензию на Aspose.Imaging for .NET?
  Если вам нужна временная лицензия, вы можете получить ее[здесь](https://purchase.aspose.com/temporary-license/).
 
 ### Где я могу получить поддержку Aspose.Imaging для .NET?

@@ -8,7 +8,7 @@ weight: 11
 url: /sv/net/vector-image-processing/draw-raster-image-on-svg/
 ---
 
-I en värld av .NET-programmering står Aspose.Imaging som ett pålitligt och mångsidigt bibliotek för att hantera olika bildrelaterade uppgifter. En fascinerande funktion som den erbjuder är möjligheten att rita en rasterbild på en SVG-duk. I den här steg-för-steg-guiden går vi igenom processen att rita en rasterbild på en SVG med Aspose.Imaging för .NET.
+en värld av .NET-programmering står Aspose.Imaging som ett pålitligt och mångsidigt bibliotek för att hantera olika bildrelaterade uppgifter. En fascinerande funktion som den erbjuder är möjligheten att rita en rasterbild på en SVG-duk. I den här steg-för-steg-guiden går vi igenom processen att rita en rasterbild på en SVG med Aspose.Imaging för .NET.
 
 ## Förutsättningar
 
@@ -48,7 +48,7 @@ using (SvgImage canvasImage = (SvgImage)Image.Load(dataDir + "asposenet_220_src0
 
 ## Steg 3: Rita på SVG-bilden
 
- Nu kan du börja rita på den befintliga SVG-bilden. För att göra detta måste du skapa en instans av`SvgGraphics2D`:
+Nu kan du börja rita på den befintliga SVG-bilden. För att göra detta måste du skapa en instans av`SvgGraphics2D`:
 
 ```csharp
 SvgGraphics2D graphics = new SvgGraphics2D(canvasImage);

@@ -48,7 +48,7 @@ using (Image image = Image.Load(inputFileName))
 
 ## الخطوة 2: التحقق من تنسيق الملف
 
-من الضروري التحقق من أن الصورة المحملة بتنسيق CDR. يمكنك مقارنتها بتنسيق الملف المتوقع (CDR) باستخدام ملف`image.FileFormat` ملكية. إليك الطريقة:
+ من الضروري التحقق من أن الصورة المحملة بتنسيق CDR. يمكنك مقارنتها بتنسيق الملف المتوقع (CDR) باستخدام ملف`image.FileFormat`ملكية. إليك الطريقة:
 
 ```csharp
 FileFormat expectedFileFormat = FileFormat.Cdr;

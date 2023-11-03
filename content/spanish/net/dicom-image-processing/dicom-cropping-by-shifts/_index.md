@@ -57,7 +57,7 @@ using (DicomImage image = new DicomImage(fileStream))
 
 ## Paso 2: recorta la imagen DICOM
 
- En este paso, llamará al`Crop` método y proporcione los cuatro valores para definir el área de cultivo. Aquí,`1, 1, 1, 1`se utilizan como valores de muestra. Debe reemplazar estos valores con las coordenadas y dimensiones reales que desea utilizar para recortar:
+ En este paso, llamará al`Crop` método y proporcione los cuatro valores para definir el área de cultivo. Aquí,`1, 1, 1, 1` se utilizan como valores de muestra. Debe reemplazar estos valores con las coordenadas y dimensiones reales que desea utilizar para recortar:
 
 ```csharp
 image.Crop(1, 1, 1, 1);
@@ -95,7 +95,7 @@ R2: Sí, Aspose.Imaging para .NET es una biblioteca versátil que puede manejar 
 
 ### P4: ¿Dónde puedo obtener soporte para Aspose.Imaging para .NET?
 
- R4: Puede buscar soporte y unirse a discusiones sobre Aspose.Imaging para .NET en el[aspose foro](https://forum.aspose.com/).
+ R4: Puede buscar soporte y unirse a discusiones sobre Aspose.Imaging para .NET en el[asponer foro](https://forum.aspose.com/).
 
 ### P5: ¿Puedo utilizar Aspose.Imaging para .NET en aplicaciones de procesamiento de imágenes no médicas?
 

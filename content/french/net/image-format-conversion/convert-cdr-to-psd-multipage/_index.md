@@ -13,13 +13,13 @@ Cherchez-vous à convertir des fichiers CorelDRAW (CDR) au format Photoshop (PSD
 
 Avant de nous lancer dans le processus de conversion, assurez-vous que les conditions préalables suivantes sont remplies :
 
-1.  Aspose.Imaging pour .NET : assurez-vous qu'Aspose.Imaging pour .NET est installé et configuré dans votre environnement de développement. Vous pouvez le télécharger sur le site officiel à l'adresse[Télécharger Aspose.Imaging pour .NET](https://releases.aspose.com/imaging/net/).
+1.  Aspose.Imaging pour .NET : assurez-vous qu'Aspose.Imaging pour .NET est installé et configuré dans votre environnement de développement. Vous pouvez le télécharger sur le site Web à l'adresse[Télécharger Aspose.Imaging pour .NET](https://releases.aspose.com/imaging/net/).
 
 2. Exemple de fichier CDR : vous aurez besoin d’un exemple de fichier CDR que vous souhaitez convertir au format multipage PSD. Assurez-vous d'avoir un fichier CDR prêt pour ce didacticiel.
 
 Maintenant que tout est configuré, commençons le processus de conversion.
 
-## Étape 1 : Importer les espaces de noms
+## Étape 1 : Importer des espaces de noms
 
 Tout d’abord, vous devez importer les espaces de noms nécessaires pour accéder aux fonctionnalités d’Aspose.Imaging. Incluez les espaces de noms suivants dans votre code :
 
@@ -108,7 +108,7 @@ A1 : Aspose.Imaging for .NET est une bibliothèque puissante permettant de trava
 
 ### Q2 : Puis-je utiliser Aspose.Imaging gratuitement ?
 
-A2 : Aspose.Imaging propose une version d'essai gratuite qui vous permet d'évaluer ses fonctionnalités. Pour une utilisation à long terme et un accès à toutes les fonctionnalités, vous pouvez acheter une licence auprès de[Achat Aspose.Imaging](https://purchase.aspose.com/buy).
+ A2 : Aspose.Imaging propose une version d'essai gratuite qui vous permet d'évaluer ses fonctionnalités. Pour une utilisation à long terme et un accès à toutes les fonctionnalités, vous pouvez acheter une licence auprès de[Achat Aspose.Imaging](https://purchase.aspose.com/buy).
 
 ### Q3 : Aspose.Imaging pour .NET est-il adapté aux conversions par lots ?
 

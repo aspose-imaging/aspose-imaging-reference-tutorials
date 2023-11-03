@@ -61,7 +61,7 @@ string outputFilePath = Path.Combine(dataDir, "result.tiff");
 ```csharp
 using (var image = Image.Load(inputFilePath) as BigTiffImage)
 {
-    //Din kod för bildmanipulation går här
+    // Din kod för bildmanipulation går här
 }
 ```
 
@@ -91,7 +91,7 @@ Det är allt! Du har framgångsrikt laddat, manipulerat och sparat en BigTiff-bi
 
 I den här handledningen har vi utforskat hur man arbetar med BigTiff-bilder med Aspose.Imaging för .NET. Med de rätta förutsättningarna på plats kan du sömlöst ladda, manipulera och spara dessa bilder för att uppfylla dina specifika krav. Detta kraftfulla bibliotek förenklar bildhanteringsuppgifter, vilket gör det till en värdefull tillgång för alla .NET-utvecklare.
 
- Utforska gärna Aspose.Imaging[dokumentation](https://reference.aspose.com/imaging/net/)och engagera dig i Aspose-gemenskapen genom deras[supportforum](https://forum.aspose.com/) för eventuella frågor eller ytterligare hjälp.
+ Utforska gärna Aspose.Imaging[dokumentation](https://reference.aspose.com/imaging/net/) och engagera dig i Aspose-gemenskapen genom deras[supportforum](https://forum.aspose.com/)för eventuella frågor eller ytterligare hjälp.
 
 Nu är det din tur att utnyttja kraften i Aspose.Imaging för .NET och skapa fantastiska applikationer som involverar BigTiff-bildbehandling.
 
@@ -115,4 +115,4 @@ S2: Ja, Aspose.Imaging för .NET stöder ett brett utbud av bildformat, inklusiv
 
 ### F5: Var kan jag hitta fler exempel och dokumentation?
 
-S5: Du kan utforska omfattande dokumentation och exempel i[Aspose.Imaging dokumentation](https://reference.aspose.com/imaging/net/).
+ S5: Du kan utforska omfattande dokumentation och exempel i[Aspose.Imaging dokumentation](https://reference.aspose.com/imaging/net/).

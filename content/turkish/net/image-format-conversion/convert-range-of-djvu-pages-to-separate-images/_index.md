@@ -53,7 +53,7 @@ using (DjvuImage image = (DjvuImage)Image.Load(dataDir + "Sample.djvu"))
 
 ### 2. Adım: Dışa Aktarma Seçeneklerini Ayarlayın
 
- Şimdi bir örneğini oluşturun`BmpOptions` ve ortaya çıkan görüntüler için istenen seçenekleri yapılandırın. Bu örnekte,`BitsPerPixel` 32'ye kadar.
+Şimdi bir örneğini oluşturun`BmpOptions` ve ortaya çıkan görüntüler için istenen seçenekleri yapılandırın. Bu örnekte,`BitsPerPixel` 32'ye kadar.
 
 ```csharp
 BmpOptions exportOptions = new BmpOptions();

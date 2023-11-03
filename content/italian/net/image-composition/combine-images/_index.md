@@ -90,7 +90,7 @@ using (var image = Image.Create(imageOptions, 600, 600))
 
 ### Passaggio 6: aggiungi immagini alla tela
 
- Usa il`Graphics` classe per aggiungere e posizionare le immagini sulla tela. IL`DrawImage` Il metodo ti consente di specificare il file immagine, la posizione e le dimensioni per ciascuna immagine che desideri combinare:
+ Usa il`Graphics`classe per aggiungere e posizionare le immagini sulla tela. IL`DrawImage` Il metodo ti consente di specificare il file immagine, la posizione e le dimensioni per ciascuna immagine che desideri combinare:
 
 ```csharp
 var graphics = new Graphics(image);
@@ -115,7 +115,7 @@ In questo tutorial, abbiamo esplorato come combinare immagini utilizzando Aspose
 
 ### Q1: Quali formati supporta Aspose.Imaging per .NET per l'elaborazione delle immagini?
 
-R1: Aspose.Imaging per .NET supporta un'ampia gamma di formati di immagine, inclusi JPEG, PNG, BMP, GIF, TIFF e molti altri. Puoi trovare un elenco completo in[documentazione](https://reference.aspose.com/imaging/net/).
+ R1: Aspose.Imaging per .NET supporta un'ampia gamma di formati di immagine, inclusi JPEG, PNG, BMP, GIF, TIFF e molti altri. Puoi trovare un elenco completo in[documentazione](https://reference.aspose.com/imaging/net/).
 
 ### Q2: Aspose.Imaging per .NET è gratuito?
 

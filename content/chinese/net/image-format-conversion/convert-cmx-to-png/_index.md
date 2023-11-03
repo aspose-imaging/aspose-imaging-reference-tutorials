@@ -13,7 +13,7 @@ url: /zh/net/image-format-conversion/convert-cmx-to-png/
 
 在我们深入了解转换过程之前，您需要做好以下几件事：
 
-- Aspose.Imaging for .NET 库：确保您已安装 Aspose.Imaging for .NET 库。您可以从以下位置下载：[这里](https://releases.aspose.com/imaging/net/).
+-  Aspose.Imaging for .NET 库：确保您已安装 Aspose.Imaging for .NET 库。您可以从以下位置下载：[这里](https://releases.aspose.com/imaging/net/).
 
 - 您的 CMX 文件：您的文档目录中应该有要转换为 PNG 的 CMX 文件。
 

@@ -104,7 +104,7 @@ Dans ce didacticiel, nous avons couvert les bases du dessin à l'aide de Graphic
 
 ### Q1 : Aspose.Imaging pour .NET est-il compatible avec les derniers frameworks .NET ?
 
-A1 : Oui, Aspose.Imaging for .NET est régulièrement mis à jour pour garantir la compatibilité avec les derniers frameworks .NET.
+A1 : Oui, Aspose.Imaging pour .NET est régulièrement mis à jour pour garantir la compatibilité avec les derniers frameworks .NET.
 
 ### Q2 : Puis-je utiliser Aspose.Imaging pour .NET pour la conversion de format d'image ?
 

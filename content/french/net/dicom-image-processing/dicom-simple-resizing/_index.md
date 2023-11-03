@@ -13,7 +13,7 @@ Dans le domaine en constante évolution de l’imagerie médicale, le besoin de 
 
 Avant de plonger dans le guide étape par étape, assurez-vous que les conditions préalables suivantes sont remplies :
 
-1. Aspose.Imaging for .NET : la bibliothèque Aspose.Imaging for .NET doit être installée dans votre environnement de développement. Si ce n'est pas déjà fait, vous pouvez le télécharger depuis[ici](https://releases.aspose.com/imaging/net/).
+1.  Aspose.Imaging for .NET : la bibliothèque Aspose.Imaging for .NET doit être installée dans votre environnement de développement. Si ce n'est pas déjà fait, vous pouvez le télécharger depuis[ici](https://releases.aspose.com/imaging/net/).
 
 2. Environnement de développement .NET : une connaissance pratique de C# et d'un environnement de développement .NET est requise.
 
@@ -23,7 +23,7 @@ Avant de plonger dans le guide étape par étape, assurez-vous que les condition
 
 Maintenant, décomposons le processus de redimensionnement d'une image DICOM en étapes simples et exploitables.
 
-## Étape 1 : Importer les espaces de noms
+## Étape 1 : Importer des espaces de noms
 
 La première étape consiste à importer les espaces de noms nécessaires pour travailler avec Aspose.Imaging. Dans votre projet C#, incluez les espaces de noms suivants :
 
@@ -62,7 +62,7 @@ using (var fileStream = new FileStream(dataDir + "file.dcm", FileMode.Open, File
 
 ### Étape 2.3 : Charger l'image DICOM
 
- Chargez l'image DICOM à partir du`fileStream`. Cela vous permet d'accéder à l'image et d'effectuer des opérations dessus.
+ Chargez l'image DICOM à partir du`fileStream`Cela vous permet d'accéder à l'image et d'effectuer des opérations dessus.
 
 ```csharp
 using (DicomImage image = new DicomImage(fileStream))
@@ -113,4 +113,4 @@ A4 : Aspose.Imaging pour .NET est compatible avec différentes versions du .NET
 
 ### Q5 : Où puis-je trouver d’autres didacticiels Aspose.Imaging pour .NET ?
 
- A5 : Vous pouvez explorer le site officiel[Documentation Aspose.Imaging pour .NET](https://reference.aspose.com/imaging/net/) pour un large éventail de tutoriels et d’exemples.
+ A5 : Vous pouvez explorer le[Documentation Aspose.Imaging pour .NET](https://reference.aspose.com/imaging/net/) pour un large éventail de tutoriels et d’exemples.

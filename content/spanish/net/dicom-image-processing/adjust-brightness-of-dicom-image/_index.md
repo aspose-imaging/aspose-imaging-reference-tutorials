@@ -48,7 +48,7 @@ using (DicomImage image = new DicomImage(fileStream))
 
 ## Paso 2: ajusta el brillo
 
- Dentro de`using` bloque, ahora puede ajustar el brillo de la imagen DICOM. En este ejemplo, aumentamos el brillo en 50 unidades, pero puedes ajustar este valor según sea necesario:
+ Dentro de`using`bloque, ahora puede ajustar el brillo de la imagen DICOM. En este ejemplo, aumentamos el brillo en 50 unidades, pero puedes ajustar este valor según sea necesario:
 
 ```csharp
 // Ajustar el brillo
@@ -59,7 +59,7 @@ Este paso garantiza que el brillo de su imagen DICOM se modifique según sus req
 
 ## Paso 3: guarde la imagen resultante
 
- Una vez que hayas ajustado el brillo, es imprescindible guardar la imagen modificada. Para hacer esto, cree una instancia de`BmpOptions`para la imagen resultante y guárdela como un archivo BMP:
+ Una vez que hayas ajustado el brillo, es imprescindible guardar la imagen modificada. Para hacer esto, cree una instancia de`BmpOptions` para la imagen resultante y guárdela como un archivo BMP:
 
 ```csharp
 // Cree una instancia de BmpOptions para la imagen resultante y guarde la imagen resultante.
@@ -70,9 +70,9 @@ image.Save(dataDir + "AdjustBrightnessDICOM_out.bmp", new BmpOptions());
 
 ## Conclusión
 
-En este tutorial, hemos demostrado cómo ajustar el brillo de una imagen DICOM usando Aspose.Imaging para .NET. Esta biblioteca simplifica el proceso de trabajar con datos de imágenes médicas, lo que facilita la mejora y modificación de imágenes para diversos fines médicos.
+En este tutorial, hemos demostrado cómo ajustar el brillo de una imagen DICOM usando Aspose.Imaging para .NET. Esta biblioteca simplifica el proceso de trabajar con datos de imágenes médicas, facilitando la mejora y modificación de imágenes para diversos fines médicos.
 
-A medida que explore las capacidades de Aspose.Imaging, descubrirá que es una herramienta valiosa en su flujo de trabajo de imágenes médicas. Siéntase libre de experimentar con diferentes valores de brillo para lograr los resultados deseados. Con este conocimiento, podrá gestionar y mejorar eficazmente las imágenes DICOM en sus proyectos médicos.
+medida que explore las capacidades de Aspose.Imaging, descubrirá que es una herramienta valiosa en su flujo de trabajo de imágenes médicas. Siéntase libre de experimentar con diferentes valores de brillo para lograr los resultados deseados. Con este conocimiento, podrá gestionar y mejorar eficazmente las imágenes DICOM en sus proyectos médicos.
 
 ## Preguntas frecuentes
 
@@ -90,7 +90,7 @@ R1: Sí, Aspose.Imaging es una biblioteca versátil utilizada por profesionales 
 
 ### P4: ¿Dónde puedo encontrar soporte o asistencia adicional con Aspose.Imaging?
 
- R4: Puede obtener soporte y conectarse con la comunidad Aspose.Imaging en el[Asponer foros](https://forum.aspose.com/).
+R4: Puede obtener soporte y conectarse con la comunidad Aspose.Imaging en el[asponer foros](https://forum.aspose.com/).
 
 ### P5: ¿Qué otras funciones de manipulación de imágenes ofrece Aspose.Imaging?
 

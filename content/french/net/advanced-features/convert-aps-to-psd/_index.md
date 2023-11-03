@@ -101,4 +101,4 @@ A4 : Actuellement, Aspose.Imaging prend en charge l'exportation de formes peu co
 
 ### Q5 : Où puis-je obtenir de l'aide ou poser des questions relatives à Aspose.Imaging pour .NET ?
 
- A5 : Si vous avez des questions ou avez besoin d'aide, vous pouvez visiter le[Forums Aspose.Imaging](https://forum.aspose.com/) à l'aide.
+ A5 : Si vous avez des questions ou avez besoin d'aide, vous pouvez visiter le[Forums Aspose.Imaging](https://forum.aspose.com/)à l'aide.

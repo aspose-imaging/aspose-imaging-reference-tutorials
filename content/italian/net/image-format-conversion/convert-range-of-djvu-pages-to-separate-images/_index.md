@@ -53,7 +53,7 @@ using (DjvuImage image = (DjvuImage)Image.Load(dataDir + "Sample.djvu"))
 
 ### Passaggio 2: imposta le opzioni di esportazione
 
- Ora crea un'istanza di`BmpOptions` e configurare le opzioni desiderate per le immagini risultanti. In questo esempio impostiamo il file`BitsPerPixel` a 32.
+Ora crea un'istanza di`BmpOptions` e configurare le opzioni desiderate per le immagini risultanti. In questo esempio impostiamo il file`BitsPerPixel` a 32.
 
 ```csharp
 BmpOptions exportOptions = new BmpOptions();

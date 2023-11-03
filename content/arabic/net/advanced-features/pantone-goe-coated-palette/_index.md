@@ -87,7 +87,7 @@ File.Delete(dataDir + "result.png");
 
 ### س4: كيف يمكنني شراء ترخيص؟
 
-ج4: يمكنك شراء ترخيص Aspose.Imaging لـ .NET على[Aspose.شراء التصوير](https://purchase.aspose.com/buy).
+ ج4: يمكنك شراء ترخيص Aspose.Imaging لـ .NET على[Aspose.شراء التصوير](https://purchase.aspose.com/buy).
 
 ### س5: أين يمكنني الحصول على الدعم أو طرح الأسئلة؟
 

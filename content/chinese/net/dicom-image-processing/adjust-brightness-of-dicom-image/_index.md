@@ -90,7 +90,7 @@ A1：是的，Aspose.Imaging 是一个多功能库，供医学成像领域的专
 
 ### 问题 4：我在哪里可以找到有关 Aspose.Imaging 的其他支持或帮助？
 
- A4：您可以获得支持并与 Aspose.Imaging 社区联系[Aspose 论坛](https://forum.aspose.com/).
+A4：您可以获得支持并与 Aspose.Imaging 社区联系[Aspose 论坛](https://forum.aspose.com/).
 
 ### Q5：Aspose.Imaging 还提供哪些其他图像处理功能？
 

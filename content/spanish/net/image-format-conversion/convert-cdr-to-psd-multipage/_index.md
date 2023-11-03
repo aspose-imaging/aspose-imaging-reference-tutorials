@@ -13,7 +13,7 @@ url: /es/net/image-format-conversion/convert-cdr-to-psd-multipage/
 
 Antes de sumergirnos en el proceso de conversión, asegúrese de cumplir con los siguientes requisitos previos:
 
-1.  Aspose.Imaging para .NET: asegúrese de tener Aspose.Imaging para .NET instalado y configurado en su entorno de desarrollo. Puedes descargarlo desde el sitio web oficial en[Descargar Aspose.Imaging para .NET](https://releases.aspose.com/imaging/net/).
+1.  Aspose.Imaging para .NET: asegúrese de tener Aspose.Imaging para .NET instalado y configurado en su entorno de desarrollo. Puedes descargarlo desde el sitio web en[Descargar Aspose.Imaging para .NET](https://releases.aspose.com/imaging/net/).
 
 2. Archivo CDR de muestra: necesitará un archivo CDR de muestra que desee convertir al formato PSD de varias páginas. Asegúrese de tener un archivo CDR listo para este tutorial.
 
@@ -108,7 +108,7 @@ A1: Aspose.Imaging para .NET es una poderosa biblioteca para trabajar con varios
 
 ### P2: ¿Puedo utilizar Aspose.Imaging gratis?
 
-R2: Aspose.Imaging ofrece una versión de prueba gratuita que le permite evaluar sus funciones. Para uso a largo plazo y acceso a todas las funcionalidades, puede comprar una licencia en[Aspose.Compra de imágenes](https://purchase.aspose.com/buy).
+ R2: Aspose.Imaging ofrece una versión de prueba gratuita que le permite evaluar sus funciones. Para uso a largo plazo y acceso a todas las funcionalidades, puede comprar una licencia en[Aspose.Compra de imágenes](https://purchase.aspose.com/buy).
 
 ### P3: ¿Aspose.Imaging para .NET es adecuado para conversiones por lotes?
 

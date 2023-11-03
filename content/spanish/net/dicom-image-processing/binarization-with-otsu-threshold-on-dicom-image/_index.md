@@ -13,7 +13,7 @@ En el mundo del procesamiento y manipulación de imágenes, las herramientas y b
 
 Antes de sumergirnos en el tutorial, hay algunos requisitos previos que debe cumplir:
 
-1. Aspose.Imaging para .NET: asegúrese de tener la biblioteca Aspose.Imaging para .NET instalada y referenciada en su proyecto. Puedes descargarlo desde el[Página Aspose.Imaging para .NET](https://releases.aspose.com/imaging/net/).
+1.  Aspose.Imaging para .NET: asegúrese de tener la biblioteca Aspose.Imaging para .NET instalada y referenciada en su proyecto. Puedes descargarlo desde el[Página Aspose.Imaging para .NET](https://releases.aspose.com/imaging/net/).
 
 2. Imagen DICOM: debe tener un archivo de imagen DICOM listo para procesar. Si no tiene una, puede encontrar imágenes de muestra DICOM en línea o utilizar sus datos de imágenes médicas.
 
@@ -61,7 +61,7 @@ using (DicomImage image = new DicomImage(fileStream))
 }
 ```
 
- El`image.BinarizeOtsu()`El método aplica Otsu Thresholding a la imagen DICOM, binarizándola efectivamente. Luego guardamos la imagen resultante en formato BMP.
+ El`image.BinarizeOtsu()` El método aplica Otsu Thresholding a la imagen DICOM, binarizándola efectivamente. Luego guardamos la imagen resultante en formato BMP.
 
 ## Conclusión
 

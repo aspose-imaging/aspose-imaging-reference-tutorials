@@ -90,7 +90,7 @@ using (var image = Image.Create(imageOptions, 600, 600))
 
 ### الخطوة 6: إضافة الصور إلى اللوحة القماشية
 
- استخدم ال`Graphics` فئة لإضافة الصور ووضعها على القماش. ال`DrawImage` تتيح لك الطريقة تحديد ملف الصورة وموضعها وأبعادها لكل صورة تريد دمجها:
+ استخدم ال`Graphics`فئة لإضافة الصور ووضعها على القماش. ال`DrawImage` تتيح لك الطريقة تحديد ملف الصورة وموضعها وأبعادها لكل صورة تريد دمجها:
 
 ```csharp
 var graphics = new Graphics(image);
@@ -115,7 +115,7 @@ image.Save();
 
 ### س1: ما هي التنسيقات التي يدعمها Aspose.Imaging for .NET لمعالجة الصور؟
 
-ج1: يدعم Aspose.Imaging for .NET نطاقًا واسعًا من تنسيقات الصور، بما في ذلك JPEG وPNG وBMP وGIF وTIFF وغيرها الكثير. يمكنك العثور على قائمة شاملة في[توثيق](https://reference.aspose.com/imaging/net/).
+ ج1: يدعم Aspose.Imaging for .NET نطاقًا واسعًا من تنسيقات الصور، بما في ذلك JPEG وPNG وBMP وGIF وTIFF وغيرها الكثير. يمكنك العثور على قائمة شاملة في[توثيق](https://reference.aspose.com/imaging/net/).
 
 ### س2: هل Aspose.Imaging for .NET مجاني للاستخدام؟
 

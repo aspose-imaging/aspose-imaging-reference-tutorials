@@ -52,7 +52,7 @@ Bu kullanma ifadeleri, Aspose.Imaging for .NET tarafından sağlanan DICOM gör�
 string dataDir = "Your Document Directory";
 ```
 
- Kodda DICOM görüntünüzün bulunduğu dizini belirtmeniz gerekir. Değiştirdiğinizden emin olun`"Your Document Directory"`DICOM dosyanızın gerçek yolunu belirtin.
+ Kodda DICOM görüntünüzün bulunduğu dizini belirtmeniz gerekir. Değiştirdiğinizden emin olun`"Your Document Directory"` DICOM dosyanızın gerçek yolunu belirtin.
 
 ### Adım 2: DICOM Görüntüsünü Açın ve Yükleyin
 
@@ -83,7 +83,7 @@ Bu adımda, ortaya çıkan ikili görüntü, belirtilen adla bir BMP (Bitmap) do
 
 Tebrikler! Aspose.Imaging for .NET'i kullanarak bir DICOM görüntüsü üzerinde sabit bir eşikle ikilileştirme işlemini nasıl gerçekleştireceğinizi başarıyla öğrendiniz. Bu teknik, tıbbi görüntüleme, belge işleme ve daha fazlası dahil olmak üzere çeşitli alanlarda çok değerlidir. Aspose.Imaging, görüntü işleme görevlerini basitleştirerek onu .NET geliştiricileri için güçlü bir araç haline getirir.
 
- Herhangi bir sorunla karşılaşırsanız veya başka sorularınız varsa Aspose.Imaging topluluğundan yardım istemekten çekinmeyin.[destek Forumu](https://forum.aspose.com/).
+Herhangi bir sorunla karşılaşırsanız veya başka sorularınız varsa Aspose.Imaging topluluğundan yardım istemekten çekinmeyin.[destek Forumu](https://forum.aspose.com/).
 
 ## SSS'ler
 
@@ -105,4 +105,4 @@ Kesinlikle! Aspose.Imaging yaygın olarak tıp alanında kullanılsa da, sağlı
 
 ### S5: Aspose.Imaging for .NET'in deneme sürümü mevcut mu?
 
- Evet, Aspose.Imaging for .NET'in deneme sürümünü adresinden indirerek deneyebilirsiniz.[Burada](https://releases.aspose.com/)Bir satın alma işlemi yapmadan önce özelliklerini ve işlevlerini keşfetmenize olanak tanır.
+ Evet, Aspose.Imaging for .NET'in deneme sürümünü adresinden indirerek deneyebilirsiniz.[Burada](https://releases.aspose.com/). Bir satın alma işlemi yapmadan önce özelliklerini ve işlevlerini keşfetmenize olanak tanır.

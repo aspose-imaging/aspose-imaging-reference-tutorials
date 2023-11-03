@@ -26,7 +26,7 @@ Du bör ha en DICOM-bildfil (t.ex. "file.dcm") som du vill ändra storlek på me
 
 ## Importera namnområden
 
-din C#-kod måste du importera de nödvändiga namnrymden för att använda Aspose.Imaging. Så här gör du:
+I din C#-kod måste du importera de nödvändiga namnrymden för att använda Aspose.Imaging. Så här gör du:
 
 ```csharp
 using Aspose.Imaging;
@@ -84,7 +84,7 @@ I den här handledningen utforskade vi "DICOMs andra alternativ för bildstorlek
 Har du fler frågor eller behöver hjälp med Aspose.Imaging för .NET? Kolla in dokumentationen eller besök Aspose community-forum för support:
 
 - [Aspose.Imaging för .NET-dokumentation](https://reference.aspose.com/imaging/net/)
-- [Aspose.Imaging för .NET Support](https://forum.aspose.com/)
+- [Aspose.Imaging för .NET-stöd](https://forum.aspose.com/)
 
 ## FAQ's
 

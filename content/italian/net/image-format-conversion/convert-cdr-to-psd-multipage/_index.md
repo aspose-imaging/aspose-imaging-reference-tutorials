@@ -13,7 +13,7 @@ Stai cercando di convertire file CorelDRAW (CDR) in formato Photoshop (PSD) util
 
 Prima di immergerci nel processo di conversione, assicurati di disporre dei seguenti prerequisiti:
 
-1.  Aspose.Imaging per .NET: assicurati di avere Aspose.Imaging per .NET installato e configurato nel tuo ambiente di sviluppo. Puoi scaricarlo dal sito ufficiale all'indirizzo[Scarica Aspose.Imaging per .NET](https://releases.aspose.com/imaging/net/).
+1.  Aspose.Imaging per .NET: assicurati di avere Aspose.Imaging per .NET installato e configurato nel tuo ambiente di sviluppo. Puoi scaricarlo dal sito web all'indirizzo[Scarica Aspose.Imaging per .NET](https://releases.aspose.com/imaging/net/).
 
 2. File CDR di esempio: avrai bisogno di un file CDR di esempio che desideri convertire in formato PSD multipagina. Assicurati di avere un file CDR pronto per questo tutorial.
 
@@ -108,7 +108,7 @@ A1: Aspose.Imaging per .NET è una potente libreria per lavorare con vari format
 
 ### Q2: Posso utilizzare Aspose.Imaging gratuitamente?
 
-R2: Aspose.Imaging offre una versione di prova gratuita che consente di valutarne le funzionalità. Per un utilizzo a lungo termine e l'accesso a tutte le funzionalità, puoi acquistare una licenza da[Aspose.Acquisto di immagini](https://purchase.aspose.com/buy).
+ R2: Aspose.Imaging offre una versione di prova gratuita che consente di valutarne le funzionalità. Per un utilizzo a lungo termine e l'accesso a tutte le funzionalità, puoi acquistare una licenza da[Aspose.Acquisto di immagini](https://purchase.aspose.com/buy).
 
 ### Q3: Aspose.Imaging per .NET è adatto per le conversioni batch?
 

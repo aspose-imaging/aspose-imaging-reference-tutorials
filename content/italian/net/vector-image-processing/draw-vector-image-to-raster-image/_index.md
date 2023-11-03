@@ -16,7 +16,7 @@ Prima di immergerci nel tutorial, assicurati di disporre dei seguenti prerequisi
 
 ### 1. Aspose.Imaging per .NET
 
- Dovresti avere Aspose.Imaging per .NET installato. Se non ce l'hai, puoi scaricarlo dal sito ufficiale all'indirizzo[Scarica Aspose.Imaging per .NET](https://releases.aspose.com/imaging/net/).
+ Dovresti avere Aspose.Imaging per .NET installato. Se non ce l'hai, puoi scaricarlo dal sito web all'indirizzo[Scarica Aspose.Imaging per .NET](https://releases.aspose.com/imaging/net/).
 
 ### 2. Ambiente di sviluppo .NET
 
@@ -100,8 +100,8 @@ In questo tutorial, abbiamo dimostrato come convertire immagini vettoriali in im
 ### Cos'è Aspose.Imaging per .NET?
 Aspose.Imaging per .NET è una libreria .NET che fornisce potenti funzionalità di elaborazione delle immagini, inclusa la capacità di lavorare con vari formati di immagine, convertire immagini ed eseguire attività avanzate di manipolazione delle immagini.
 
-### Dove posso trovare la documentazione ufficiale per Aspose.Imaging per .NET?
- È possibile trovare la documentazione ufficiale per Aspose.Imaging per .NET[Qui](https://reference.aspose.com/imaging/net/).
+### Dove posso trovare la documentazione per Aspose.Imaging per .NET?
+ È possibile trovare la documentazione per Aspose.Imaging per .NET[Qui](https://reference.aspose.com/imaging/net/).
 
 ### È disponibile una versione di prova gratuita?
  Sì, puoi accedere a una prova gratuita di Aspose.Imaging per .NET[Qui](https://releases.aspose.com/).

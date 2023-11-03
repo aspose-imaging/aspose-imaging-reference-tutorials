@@ -21,7 +21,7 @@ Nu när vi har våra förutsättningar klara, låt oss sätta igång!
 
 ## Importera nödvändiga namnområden
 
-I ditt C#-projekt måste du importera de nödvändiga namnrymden för att arbeta med Aspose.Imaging för .NET. Så här gör du:
+ditt C#-projekt måste du importera de nödvändiga namnrymden för att arbeta med Aspose.Imaging för .NET. Så här gör du:
 
 ### Steg 1: Importera namnområdena
 
@@ -63,7 +63,7 @@ I det här steget skapar vi en ny bild och anger katalogen där bilden ska spara
 ### Steg 2: Initiera grafik och rensa ytan
 
 ```csharp
-        // Skapa och initiera en instans av grafikklassen och rensa grafikytan
+        //Skapa och initiera en instans av grafikklassen och rensa grafikytan
         Graphics graphic = new Graphics(image);
         graphic.Clear(Color.Yellow);
 ```

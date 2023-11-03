@@ -113,7 +113,7 @@ A3: Sì, Aspose.Imaging per .NET supporta la conversione di vari formati di imma
 
 ### Q4: Aspose.Imaging per .NET è adatto per le conversioni batch?
 
-A4: Assolutamente! È possibile utilizzare Aspose.Imaging per .NET per eseguire conversioni batch di più file di immagine in PDF.
+A4: Assolutamente! È possibile utilizzare Aspose.Imaging for .NET per eseguire conversioni batch di più file di immagine in PDF.
 
 ### Q5: Dove posso trovare ulteriore documentazione e supporto?
 

@@ -38,7 +38,7 @@ Lassen Sie uns nun den Prozess des Exportierens von Bildern nach DICOM mit Aspos
 
 ## Schritt 1: Umgebung einrichten
 
- Stellen Sie sicher, dass Sie in Ihrer Entwicklungsumgebung ein .NET-Projekt erstellt und Aspose.Imaging für .NET als Referenz hinzugefügt haben. Wenn nicht, lesen Sie die Aspose.Imaging-Dokumentation[Hier](https://reference.aspose.com/imaging/net/)als Orientierungshilfe für den Einstieg.
+ Stellen Sie sicher, dass Sie in Ihrer Entwicklungsumgebung ein .NET-Projekt erstellt und Aspose.Imaging für .NET als Referenz hinzugefügt haben. Wenn nicht, lesen Sie die Aspose.Imaging-Dokumentation[Hier](https://reference.aspose.com/imaging/net/) als Orientierungshilfe für den Einstieg.
 
 ## Schritt 2: Dateipfade definieren
 

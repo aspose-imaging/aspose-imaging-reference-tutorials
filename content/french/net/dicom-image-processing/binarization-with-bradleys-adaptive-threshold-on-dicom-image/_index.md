@@ -88,7 +88,7 @@ A2 : Oui, vous pouvez parcourir plusieurs images DICOM et appliquer le processu
 
 ### Q3 : Où puis-je trouver davantage de documentation sur Aspose.Imaging pour .NET ?
 
- A3 : Vous pouvez explorer la documentation[ici](https://reference.aspose.com/imaging/net/) pour des informations détaillées sur l’utilisation d’Aspose.Imaging pour .NET.
+ A3 : Vous pouvez explorer la documentation[ici](https://reference.aspose.com/imaging/net/)pour des informations détaillées sur l’utilisation d’Aspose.Imaging pour .NET.
 
 ### Q4 : Existe-t-il une version d'essai disponible pour Aspose.Imaging pour .NET ?
 

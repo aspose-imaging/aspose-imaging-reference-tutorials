@@ -13,7 +13,7 @@ Aspose.Imaging for .NET'i kullanarak CorelDRAW (CDR) dosyalarını Photoshop (PS
 
 Dönüşüm sürecine dalmadan önce aşağıdaki önkoşulların mevcut olduğundan emin olun:
 
-1.  Aspose.Imaging for .NET: Geliştirme ortamınızda Aspose.Imaging for .NET'in yüklü olduğundan ve kurulduğundan emin olun. Resmi web sitesinden indirebilirsiniz.[Aspose.Imaging for .NET'i indirin](https://releases.aspose.com/imaging/net/).
+1.  Aspose.Imaging for .NET: Geliştirme ortamınızda Aspose.Imaging for .NET'in yüklü olduğundan ve kurulduğundan emin olun. adresindeki web sitesinden indirebilirsiniz.[Aspose.Imaging for .NET'i indirin](https://releases.aspose.com/imaging/net/).
 
 2. Örnek CDR Dosyası: PSD çok sayfalı formata dönüştürmek istediğiniz örnek bir CDR dosyasına ihtiyacınız olacak. Bu eğitim için hazır bir CDR dosyanız olduğundan emin olun.
 
@@ -108,7 +108,7 @@ Cevap1: Aspose.Imaging for .NET, .NET uygulamalarında çeşitli görüntü form
 
 ### S2: Aspose.Imaging'i ücretsiz kullanabilir miyim?
 
-Cevap2: Aspose.Imaging, özelliklerini değerlendirmenize olanak tanıyan ücretsiz bir deneme sürümü sunuyor. Uzun süreli kullanım ve tüm işlevlere erişim için adresinden lisans satın alabilirsiniz.[Aspose.Imaging Satın Alma](https://purchase.aspose.com/buy).
+ Cevap2: Aspose.Imaging, özelliklerini değerlendirmenize olanak tanıyan ücretsiz bir deneme sürümü sunuyor. Uzun süreli kullanım ve tüm işlevlere erişim için adresinden lisans satın alabilirsiniz.[Aspose.Imaging Satın Alma](https://purchase.aspose.com/buy).
 
 ### S3: Aspose.Imaging for .NET toplu dönüştürmeler için uygun mudur?
 

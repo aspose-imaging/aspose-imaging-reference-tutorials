@@ -98,4 +98,4 @@ A2 : Absolument ! Aspose.Imaging for .NET est bien adapté aux projets d'imageri
  A4 : Oui, vous pouvez obtenir une version d'essai gratuite d'Aspose.Imaging for .NET à partir de[ici](https://releases.aspose.com/).
 
 ### Q5 : Quelles autres fonctionnalités de manipulation d’images Aspose.Imaging for .NET propose-t-il ?
-A5 : Aspose.Imaging pour .NET offre un large éventail de fonctionnalités, notamment le redimensionnement, le recadrage, le filtrage et bien plus encore. Vous pouvez explorer toutes les capacités de la bibliothèque dans la documentation.
+A5 : Aspose.Imaging pour .NET offre un large éventail de fonctionnalités, notamment le redimensionnement, le recadrage, le filtrage et bien plus encore. Vous pouvez explorer toutes les fonctionnalités de la bibliothèque dans la documentation.

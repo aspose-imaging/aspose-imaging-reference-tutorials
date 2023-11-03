@@ -106,7 +106,7 @@ Et c'est tout! Vous avez réussi à créer et à dessiner sur une image à l'aid
 
 Dans ce didacticiel, nous avons exploré les bases du dessin à l'aide de Graphics dans Aspose.Imaging pour .NET. Avec les bons outils et connaissances, vous pouvez libérer votre créativité dans la manipulation et la création d’images.
 
- Si vous rencontrez des problèmes ou avez des questions, n'hésitez pas à visiter le[Forum d'assistance Aspose.Imaging](https://forum.aspose.com/) à l'aide.
+ Si vous rencontrez des problèmes ou avez des questions, n'hésitez pas à visiter le[Forum d'assistance Aspose.Imaging](https://forum.aspose.com/)à l'aide.
 
 ## FAQ
 

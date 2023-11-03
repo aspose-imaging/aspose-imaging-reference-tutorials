@@ -71,7 +71,7 @@ image.Save(dataDir + "AdjustGammaDICOM_out.bmp", bmpOptions);
 
 ## Slutsats
 
-den här handledningen har vi lärt oss hur man justerar gamma för en DICOM-bild med Aspose.Imaging för .NET. Detta bibliotek gör det enkelt att utföra bildbehandlingsuppgifter på medicinska bilder, vilket säkerställer högsta kvalitet och tydlighet för medicinsk personal.
+I den här handledningen har vi lärt oss hur man justerar gamma för en DICOM-bild med Aspose.Imaging för .NET. Detta bibliotek gör det enkelt att utföra bildbehandlingsuppgifter på medicinska bilder, vilket säkerställer högsta kvalitet och tydlighet för medicinsk personal.
 
 Genom att följa dessa enkla steg kan du förbättra den visuella kvaliteten på DICOM-bilder, vilket gör dem mer informativa och användbara för medicinsk diagnostik.
 

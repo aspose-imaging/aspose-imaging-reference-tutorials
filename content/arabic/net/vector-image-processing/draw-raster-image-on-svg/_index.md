@@ -48,7 +48,7 @@ using (SvgImage canvasImage = (SvgImage)Image.Load(dataDir + "asposenet_220_src0
 
 ## الخطوة 3: الرسم على صورة SVG
 
- الآن، يمكنك البدء في الرسم على صورة SVG الموجودة. للقيام بذلك، تحتاج إلى إنشاء مثيل`SvgGraphics2D`:
+الآن، يمكنك البدء في الرسم على صورة SVG الموجودة. للقيام بذلك، تحتاج إلى إنشاء مثيل`SvgGraphics2D`:
 
 ```csharp
 SvgGraphics2D graphics = new SvgGraphics2D(canvasImage);

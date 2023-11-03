@@ -41,7 +41,7 @@ Bu ad alanlarının içe aktarılmasıyla Aspose.Imaging for .NET'te çizgiler �
 
 Şimdi çizgi çizme sürecini ayrı adımlara ayıralım.
 
-### Adım 2: Bir Resim Oluşturun
+### Adım 2: Bir Görüntü Oluşturun
 
 Öncelikle çizgiler çizebileceğimiz bir görsel oluşturacağız.
 

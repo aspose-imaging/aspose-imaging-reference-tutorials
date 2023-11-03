@@ -95,7 +95,7 @@ using (WmfImage resultImage = graphics.EndRecording())
 
 I den här steg-för-steg-guiden har vi utforskat hur man ritar en rasterbild på ett WMF-dokument med Aspose.Imaging för .NET. Denna funktion låter dig kombinera vektor- och rasterbilder, vilket öppnar upp för oändliga möjligheter för kreativa projekt.
 
-Kom ihåg att skaffa Aspose.Imaging for .NET-biblioteket från den officiella webbplatsen och se till att du har de nödvändiga bildfilerna redo för ditt projekt. Med dessa steg och de medföljande kodavsnitten kan du sömlöst integrera bildritning i dina .NET-applikationer.
+Kom ihåg att skaffa Aspose.Imaging for .NET-biblioteket från webbplatsen och se till att du har de nödvändiga bildfilerna redo för ditt projekt. Med dessa steg och de medföljande kodavsnitten kan du sömlöst integrera bildritning i dina .NET-applikationer.
 
 ### Vanliga frågor
 
@@ -112,7 +112,7 @@ Kom ihåg att skaffa Aspose.Imaging for .NET-biblioteket från den officiella we
    - Aspose.Imaging för .NET erbjuder ett brett utbud av funktioner för att lägga till text och former till WMF-dokument. Du kan hänvisa till dokumentationen för detaljerade exempel.
 
 ### Var kan jag hitta support och ytterligare resurser för Aspose.Imaging för .NET?
-   - Du kan hitta omfattande dokumentation och söka hjälp från Aspose.Imaging-communityt på[Aspose.Imaging supportforum](https://forum.aspose.com/).
+   -  Du kan hitta omfattande dokumentation och söka hjälp från Aspose.Imaging-communityt på[Aspose.Imaging supportforum](https://forum.aspose.com/).
 
 
 Nu har du kunskapen att sömlöst integrera bildritning i dina .NET-applikationer med Aspose.Imaging för .NET. Denna kreativa förmåga öppnar dörren till en värld av möjligheter för att förbättra dina projekt med bildöverlägg. Om du har några frågor eller behöver ytterligare hjälp, tveka inte att kontakta Aspose.Imaging-communityt på deras supportforum. Glad kodning!

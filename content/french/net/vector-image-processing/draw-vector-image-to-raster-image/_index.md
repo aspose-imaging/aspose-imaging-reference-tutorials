@@ -16,7 +16,7 @@ Avant de plonger dans le didacticiel, assurez-vous que les conditions préalable
 
 ### 1. Aspose.Imaging pour .NET
 
- Aspose.Imaging pour .NET devrait être installé. Si vous ne l'avez pas, vous pouvez le télécharger sur le site officiel à l'adresse[Télécharger Aspose.Imaging pour .NET](https://releases.aspose.com/imaging/net/).
+ Aspose.Imaging pour .NET devrait être installé. Si vous ne l'avez pas, vous pouvez le télécharger sur le site Web à l'adresse[Télécharger Aspose.Imaging pour .NET](https://releases.aspose.com/imaging/net/).
 
 ### 2. Environnement de développement .NET
 
@@ -100,8 +100,8 @@ Dans ce didacticiel, nous avons montré comment convertir des images vectorielle
 ### Qu’est-ce qu’Aspose.Imaging pour .NET ?
 Aspose.Imaging for .NET est une bibliothèque .NET qui fournit de puissantes fonctionnalités de traitement d'image, notamment la possibilité de travailler avec différents formats d'image, de convertir des images et d'effectuer des tâches avancées de manipulation d'images.
 
-### Où puis-je trouver la documentation officielle d’Aspose.Imaging pour .NET ?
- Vous pouvez trouver la documentation officielle d'Aspose.Imaging pour .NET[ici](https://reference.aspose.com/imaging/net/).
+### Où puis-je trouver la documentation d’Aspose.Imaging pour .NET ?
+ Vous pouvez trouver la documentation d'Aspose.Imaging pour .NET[ici](https://reference.aspose.com/imaging/net/).
 
 ### Existe-t-il une version d'essai gratuite disponible ?
  Oui, vous pouvez accéder à un essai gratuit d'Aspose.Imaging pour .NET[ici](https://releases.aspose.com/).

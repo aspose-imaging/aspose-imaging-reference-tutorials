@@ -9,7 +9,7 @@ url: /sv/net/image-transformation/rotate-dicom-image/
 ---
 ## Introduktion
 
-I dagens digitala tidsålder har bildbehandling blivit en integrerad del av olika branscher, från sjukvård till design och vidare. Om du är en .NET-utvecklare som vill manipulera och förbättra medicinska bilder, är Aspose.Imaging för .NET ett kraftfullt verktyg till ditt förfogande. I den här omfattande guiden går vi igenom processen att rotera en DICOM-bild med Aspose.Imaging för .NET.
+dagens digitala tidsålder har bildbehandling blivit en integrerad del av olika branscher, från sjukvård till design och vidare. Om du är en .NET-utvecklare som vill manipulera och förbättra medicinska bilder, är Aspose.Imaging för .NET ett kraftfullt verktyg till ditt förfogande. I den här omfattande guiden går vi igenom processen att rotera en DICOM-bild med Aspose.Imaging för .NET.
 
 Oavsett om du är en erfaren utvecklare eller precis har börjat din resa in i en värld av bildbehandling, kommer den här handledningen att ge dig tydliga, steg-för-steg-instruktioner för att säkerställa att du framgångsrikt kan rotera DICOM-bilder och integrera denna funktion i dina .NET-applikationer . Låt oss dyka direkt in!
 
@@ -19,7 +19,7 @@ Innan vi går in i den spännande världen av roterande DICOM-bilder med Aspose.
 
 1. Miljöinställningar: Se till att du har en fungerande utvecklingsmiljö med Visual Studio och .NET Framework installerat.
 
-2.  Aspose.Imaging for .NET Library: Ladda ner och installera Aspose.Imaging for .NET från[nedladdningslänk](https://releases.aspose.com/imaging/net/).
+2. Aspose.Imaging for .NET Library: Ladda ner och installera Aspose.Imaging for .NET från[nedladdningslänk](https://releases.aspose.com/imaging/net/).
 
 3. DICOM-bild: Du behöver en DICOM-bildfil att arbeta med. Om du inte har någon kan du hitta exempel på DICOM-bilder online eller använda dina egna.
 

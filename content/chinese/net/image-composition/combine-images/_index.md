@@ -109,13 +109,13 @@ image.Save();
 
 ## 结论
 
-在本教程中，我们探索了如何使用 Aspose.Imaging for .NET 组合图像。通过遵循这些步骤并利用 Aspose.Imaging 的强大功能，您可以轻松地操作和增强应用程序的图像。无论您是在处理 Web 项目、图形设计工具还是任何其他基于图像的应用程序，Aspose.Imaging for .NET 都能为您的所有图像处理需求提供多功能解决方案。
+在本教程中，我们探索了如何使用 Aspose.Imaging for .NET 组合图像。通过遵循这些步骤并利用 Aspose.Imaging 的强大功能，您可以轻松地操作和增强应用程序的图像。无论您是在开发 Web 项目、图形设计工具还是任何其他基于图像的应用程序，Aspose.Imaging for .NET 都能为您的所有图像处理需求提供多功能解决方案。
 
 ## 常见问题解答
 
 ### Q1：Aspose.Imaging for .NET 支持哪些格式的图像处理？
 
-A1：Aspose.Imaging for .NET 支持多种图像格式，包括 JPEG、PNG、BMP、GIF、TIFF 等。您可以在以下位置找到完整的列表：[文档](https://reference.aspose.com/imaging/net/).
+ A1：Aspose.Imaging for .NET 支持多种图像格式，包括 JPEG、PNG、BMP、GIF、TIFF 等。您可以在以下位置找到完整的列表：[文档](https://reference.aspose.com/imaging/net/).
 
 ### Q2：Aspose.Imaging for .NET 可以免费使用吗？
 

@@ -106,7 +106,7 @@ Und das ist es! Sie haben mit Aspose.Imaging für .NET erfolgreich ein Bild erst
 
 In diesem Tutorial haben wir die Grundlagen des Zeichnens mit Grafiken in Aspose.Imaging für .NET erkundet. Mit den richtigen Werkzeugen und Kenntnissen können Sie Ihrer Kreativität bei der Bildbearbeitung und -erstellung freien Lauf lassen.
 
- Wenn Sie auf Probleme stoßen oder Fragen haben, besuchen Sie bitte die[Aspose.Imaging-Supportforum](https://forum.aspose.com/) zur Hilfe.
+ Wenn Sie auf Probleme stoßen oder Fragen haben, besuchen Sie bitte die[Aspose.Imaging-Supportforum](https://forum.aspose.com/)zur Hilfe.
 
 ## FAQs
 
