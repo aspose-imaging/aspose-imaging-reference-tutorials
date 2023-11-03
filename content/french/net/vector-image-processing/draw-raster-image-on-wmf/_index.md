@@ -95,7 +95,7 @@ using (WmfImage resultImage = graphics.EndRecording())
 
 Dans ce guide étape par étape, nous avons expliqué comment dessiner une image raster sur un document WMF à l'aide d'Aspose.Imaging pour .NET. Cette fonctionnalité vous permet de combiner des images vectorielles et raster, ouvrant ainsi des possibilités infinies pour des projets créatifs.
 
-N'oubliez pas d'obtenir la bibliothèque Aspose.Imaging for .NET sur le site officiel et assurez-vous que vous disposez des fichiers image nécessaires pour votre projet. Avec ces étapes et les extraits de code fournis, vous pouvez intégrer de manière transparente le dessin d'images dans vos applications .NET.
+N'oubliez pas d'obtenir la bibliothèque Aspose.Imaging for .NET sur le site Web et assurez-vous que vous disposez des fichiers image nécessaires pour votre projet. Avec ces étapes et les extraits de code fournis, vous pouvez intégrer de manière transparente le dessin d'images dans vos applications .NET.
 
 ### Questions fréquemment posées
 
@@ -112,7 +112,7 @@ N'oubliez pas d'obtenir la bibliothèque Aspose.Imaging for .NET sur le site off
    - Aspose.Imaging for .NET offre une large gamme de fonctionnalités pour ajouter du texte et des formes aux documents WMF. Vous pouvez vous référer à la documentation pour des exemples détaillés.
 
 ### Où puis-je trouver une assistance et des ressources supplémentaires pour Aspose.Imaging for .NET ?
-   - Vous pouvez trouver une documentation complète et demander de l'aide à la communauté Aspose.Imaging sur le[Forum d'assistance Aspose.Imaging](https://forum.aspose.com/).
+   -  Vous pouvez trouver une documentation complète et demander de l'aide à la communauté Aspose.Imaging sur le[Forum d'assistance Aspose.Imaging](https://forum.aspose.com/).
 
 
 Vous disposez désormais des connaissances nécessaires pour intégrer de manière transparente le dessin d’images dans vos applications .NET à l’aide d’Aspose.Imaging for .NET. Cette capacité créative ouvre la porte à un monde de possibilités pour améliorer vos projets avec des superpositions d'images. Si vous avez des questions ou avez besoin d'aide supplémentaire, n'hésitez pas à contacter la communauté Aspose.Imaging sur son forum d'assistance. Bon codage !

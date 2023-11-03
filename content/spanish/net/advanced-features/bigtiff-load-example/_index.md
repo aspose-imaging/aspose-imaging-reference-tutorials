@@ -61,7 +61,7 @@ string outputFilePath = Path.Combine(dataDir, "result.tiff");
 ```csharp
 using (var image = Image.Load(inputFilePath) as BigTiffImage)
 {
-    //Su código para manipulación de imágenes va aquí
+    // Su código para manipulación de imágenes va aquí
 }
 ```
 
@@ -91,7 +91,7 @@ File.Delete(outputFilePath);
 
 En este tutorial, exploramos cómo trabajar con imágenes BigTiff usando Aspose.Imaging para .NET. Con los requisitos previos adecuados, puede cargar, manipular y guardar estas imágenes sin problemas para cumplir con sus requisitos específicos. Esta poderosa biblioteca simplifica las tareas de manejo de imágenes, lo que la convierte en un activo valioso para cualquier desarrollador de .NET.
 
- Siéntete libre de explorar Aspose.Imaging[documentación](https://reference.aspose.com/imaging/net/) involucrarse en la comunidad Aspose a través de su[Foro de soporte](https://forum.aspose.com/) para cualquier pregunta o ayuda adicional.
+ Siéntete libre de explorar Aspose.Imaging[documentación](https://reference.aspose.com/imaging/net/) e involucrarse en la comunidad Aspose a través de su[Foro de soporte](https://forum.aspose.com/)para cualquier pregunta o ayuda adicional.
 
 Ahora es su turno de aprovechar el poder de Aspose.Imaging para .NET y crear aplicaciones impresionantes que involucran el procesamiento de imágenes BigTiff.
 
@@ -99,7 +99,7 @@ Ahora es su turno de aprovechar el poder de Aspose.Imaging para .NET y crear apl
 
 ### P1: ¿Qué es una imagen BigTiff?
 
-R1: BigTiff es una extensión del formato de imagen TIFF diseñada para manejar archivos de imágenes grandes que exceden las limitaciones del TIFF estándar.
+R1: BigTiff es una extensión del formato de imagen TIFF diseñada para manejar archivos de imágenes grandes que superan las limitaciones del TIFF estándar.
 
 ### P2: ¿Puedo usar Aspose.Imaging para otros formatos de imagen?
 
@@ -115,4 +115,4 @@ R2: Sí, Aspose.Imaging para .NET admite una amplia gama de formatos de imagen, 
 
 ### P5: ¿Dónde puedo encontrar más ejemplos y documentación?
 
-R5: Puede explorar documentación completa y ejemplos en el[Aspose.Documentación de imágenes](https://reference.aspose.com/imaging/net/).
+ R5: Puede explorar documentación completa y ejemplos en el[Aspose.Documentación de imágenes](https://reference.aspose.com/imaging/net/).

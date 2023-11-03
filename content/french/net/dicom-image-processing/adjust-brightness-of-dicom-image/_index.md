@@ -48,7 +48,7 @@ using (DicomImage image = new DicomImage(fileStream))
 
 ## Étape 2 : Ajustez la luminosité
 
- À l'intérieur de`using` bloc, vous pouvez maintenant régler la luminosité de l’image DICOM. Dans cet exemple, nous augmentons la luminosité de 50 unités, mais vous pouvez ajuster cette valeur selon vos besoins :
+ À l'intérieur de`using`bloc, vous pouvez maintenant régler la luminosité de l’image DICOM. Dans cet exemple, nous augmentons la luminosité de 50 unités, mais vous pouvez ajuster cette valeur selon vos besoins :
 
 ```csharp
 // Ajuster la luminosité
@@ -59,7 +59,7 @@ Cette étape garantit que la luminosité de votre image DICOM est modifiée selo
 
 ## Étape 3 : Enregistrez l'image résultante
 
- Une fois que vous avez ajusté la luminosité, il est essentiel de sauvegarder l'image modifiée. Pour ce faire, créez une instance de`BmpOptions`pour l'image résultante et enregistrez-la sous forme de fichier BMP :
+ Une fois que vous avez ajusté la luminosité, il est essentiel de sauvegarder l'image modifiée. Pour ce faire, créez une instance de`BmpOptions` pour l'image résultante et enregistrez-la sous forme de fichier BMP :
 
 ```csharp
 // Créez une instance de BmpOptions pour l'image résultante et enregistrez l'image résultante
@@ -90,7 +90,7 @@ A1 : Oui, Aspose.Imaging est une bibliothèque polyvalente utilisée par les pro
 
 ### Q4 : Où puis-je trouver une assistance ou une assistance supplémentaire avec Aspose.Imaging ?
 
- A4 : Vous pouvez obtenir de l'aide et vous connecter avec la communauté Aspose.Imaging sur le[Forums Aspose](https://forum.aspose.com/).
+A4 : Vous pouvez obtenir de l'aide et vous connecter avec la communauté Aspose.Imaging sur le[Forums Aspose](https://forum.aspose.com/).
 
 ### Q5 : Quelles autres fonctionnalités de manipulation d’images Aspose.Imaging propose-t-il ?
 

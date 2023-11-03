@@ -19,7 +19,7 @@ Antes de profundizar en el apasionante mundo de la rotación de imágenes DICOM 
 
 1. Configuración del entorno: asegúrese de tener un entorno de desarrollo funcional con Visual Studio y .NET Framework instalados.
 
-2.  Biblioteca Aspose.Imaging para .NET: descargue e instale Aspose.Imaging para .NET desde[enlace de descarga](https://releases.aspose.com/imaging/net/).
+2. Biblioteca Aspose.Imaging para .NET: descargue e instale Aspose.Imaging para .NET desde[enlace de descarga](https://releases.aspose.com/imaging/net/).
 
 3. Imagen DICOM: necesitará un archivo de imagen DICOM para trabajar. Si no tiene una, puede encontrar imágenes DICOM de muestra en línea o usar las suyas propias.
 

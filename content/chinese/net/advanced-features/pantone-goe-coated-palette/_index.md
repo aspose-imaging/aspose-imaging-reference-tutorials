@@ -87,7 +87,7 @@ A1：Aspose.Imaging for .NET 是一个功能强大的库，允许您在 .NET 应
 
 ### Q4：如何购买许可证？
 
-A4：您可以在以下网址购买 Aspose.Imaging for .NET 的许可证：[Aspose.Imaging 购买](https://purchase.aspose.com/buy).
+ A4：您可以在以下网址购买 Aspose.Imaging for .NET 的许可证：[Aspose.Imaging 购买](https://purchase.aspose.com/buy).
 
 ### Q5：我在哪里可以获得支持或提问？
 

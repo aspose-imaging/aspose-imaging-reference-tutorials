@@ -13,7 +13,7 @@ url: /fr/net/image-creation/create-an-image/
 
 Avant de commencer à créer des images avec Aspose.Imaging pour .NET, assurez-vous que les conditions préalables suivantes sont remplies :
 
-1.  Bibliothèque Aspose.Imaging for .NET : assurez-vous que la bibliothèque Aspose.Imaging for .NET est installée. Vous pouvez le télécharger depuis[ici](https://releases.aspose.com/imaging/net/).
+1. Bibliothèque Aspose.Imaging for .NET : assurez-vous que la bibliothèque Aspose.Imaging for .NET est installée. Vous pouvez le télécharger depuis[ici](https://releases.aspose.com/imaging/net/).
 
 2. Environnement de développement : vous avez besoin d'un environnement de développement avec le framework .NET installé.
 
@@ -54,7 +54,7 @@ ImageOptions.BitsPerPixel = 24;
 
 ## Étape 3 : définir la propriété source
 
- Définir la propriété source pour l'instance de`BmpOptions`. Le deuxième paramètre booléen détermine si le fichier est temporel ou non.
+Définir la propriété source pour l'instance de`BmpOptions`. Le deuxième paramètre booléen détermine si le fichier est temporel ou non.
 
 ```csharp
 ImageOptions.Source = new FileCreateSource(dataDir + "CreatingAnImageBySettingPath_out.bmp", false);

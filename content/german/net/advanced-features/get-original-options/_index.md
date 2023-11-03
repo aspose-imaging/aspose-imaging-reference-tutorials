@@ -67,7 +67,7 @@ Der obige Code liest das Bild „SteamEngine.png“ und bereitet es für die wei
 
 ### Schritt 3: Erhalten Sie Originaloptionen
 
-Jetzt rufen wir die ursprünglichen Optionen des Bildes mithilfe von ab`GetOriginalOptions` Methode:
+ Jetzt rufen wir die ursprünglichen Optionen des Bildes mithilfe von ab`GetOriginalOptions` Methode:
 
 ```csharp
 ApngOptions options = (ApngOptions)image.GetOriginalOptions();

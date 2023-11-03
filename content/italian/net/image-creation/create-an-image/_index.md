@@ -13,7 +13,7 @@ Nell'era digitale di oggi, la creazione e la manipolazione delle immagini è un 
 
 Prima di iniziare a creare immagini con Aspose.Imaging per .NET, assicurati di disporre dei seguenti prerequisiti:
 
-1.  Libreria Aspose.Imaging per .NET: assicurarsi di aver installato la libreria Aspose.Imaging per .NET. Puoi scaricarlo da[Qui](https://releases.aspose.com/imaging/net/).
+1. Libreria Aspose.Imaging per .NET: assicurarsi di aver installato la libreria Aspose.Imaging per .NET. Puoi scaricarlo da[Qui](https://releases.aspose.com/imaging/net/).
 
 2. Ambiente di sviluppo: è necessario un ambiente di sviluppo con il framework .NET installato.
 
@@ -54,7 +54,7 @@ ImageOptions.BitsPerPixel = 24;
 
 ## Passaggio 3: definire la proprietà sorgente
 
- Definire la proprietà sorgente per l'istanza di`BmpOptions`. Il secondo parametro booleano determina se il file è temporaneo o meno.
+Definire la proprietà sorgente per l'istanza di`BmpOptions`. Il secondo parametro booleano determina se il file è temporaneo o meno.
 
 ```csharp
 ImageOptions.Source = new FileCreateSource(dataDir + "CreatingAnImageBySettingPath_out.bmp", false);

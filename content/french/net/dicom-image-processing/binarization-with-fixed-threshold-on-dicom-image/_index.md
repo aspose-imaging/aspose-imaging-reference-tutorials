@@ -52,7 +52,7 @@ Décomposons maintenant l'exemple de code fourni en plusieurs étapes pour une m
 string dataDir = "Your Document Directory";
 ```
 
- Dans le code, vous devez spécifier le répertoire où se trouve votre image DICOM. Assurez-vous de remplacer`"Your Document Directory"`avec le chemin réel de votre fichier DICOM.
+ Dans le code, vous devez spécifier le répertoire où se trouve votre image DICOM. Assurez-vous de remplacer`"Your Document Directory"` avec le chemin réel de votre fichier DICOM.
 
 ### Étape 2 : ouvrir et charger l'image DICOM
 
@@ -83,7 +83,7 @@ Au cours de cette étape, l'image binaire résultante est enregistrée sous form
 
 Toutes nos félicitations! Vous avez appris avec succès comment effectuer une binarisation avec un seuil fixe sur une image DICOM à l'aide d'Aspose.Imaging pour .NET. Cette technique est inestimable dans divers domaines, notamment l’imagerie médicale, le traitement de documents, etc. Aspose.Imaging simplifie les tâches de traitement d'image, ce qui en fait un outil puissant pour les développeurs .NET.
 
- Si vous rencontrez des problèmes ou avez d'autres questions, n'hésitez pas à demander de l'aide à la communauté Aspose.Imaging sur leur site.[forum d'entraide](https://forum.aspose.com/).
+Si vous rencontrez des problèmes ou avez d'autres questions, n'hésitez pas à demander de l'aide à la communauté Aspose.Imaging sur leur site.[forum d'entraide](https://forum.aspose.com/).
 
 ## FAQ
 
@@ -105,4 +105,4 @@ Absolument! Bien qu'Aspose.Imaging soit couramment utilisé dans le domaine méd
 
 ### Q5 : Existe-t-il une version d’essai d’Aspose.Imaging pour .NET ?
 
- Oui, vous pouvez essayer Aspose.Imaging pour .NET en téléchargeant la version d'essai depuis[ici](https://releases.aspose.com/)Il vous permet d’explorer ses caractéristiques et fonctionnalités avant de procéder à un achat.
+ Oui, vous pouvez essayer Aspose.Imaging pour .NET en téléchargeant la version d'essai depuis[ici](https://releases.aspose.com/). Il vous permet d’explorer ses caractéristiques et fonctionnalités avant de procéder à un achat.

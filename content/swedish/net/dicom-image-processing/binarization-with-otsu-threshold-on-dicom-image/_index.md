@@ -7,13 +7,13 @@ type: docs
 weight: 16
 url: /sv/net/dicom-image-processing/binarization-with-otsu-threshold-on-dicom-image/
 ---
-I en värld av bildbehandling och manipulation är effektiva verktyg och bibliotek viktiga. Aspose.Imaging for .NET är ett sådant kraftfullt bibliotek som ger utvecklare möjlighet att arbeta med olika bildformat, inklusive DICOM-filer (Digital Imaging and Communications in Medicine). I den här omfattande guiden kommer vi att utforska processen för binarisering med Otsu Threshold på en DICOM-bild med Aspose.Imaging för .NET. Vi kommer att dela upp processen i steg som är lätta att följa, så att du kan implementera den här funktionen sömlöst i dina projekt.
+en värld av bildbehandling och manipulation är effektiva verktyg och bibliotek viktiga. Aspose.Imaging for .NET är ett sådant kraftfullt bibliotek som ger utvecklare möjlighet att arbeta med olika bildformat, inklusive DICOM-filer (Digital Imaging and Communications in Medicine). I den här omfattande guiden kommer vi att utforska processen för binarisering med Otsu Threshold på en DICOM-bild med Aspose.Imaging för .NET. Vi kommer att dela upp processen i steg som är lätta att följa, så att du kan implementera den här funktionen sömlöst i dina projekt.
 
 ## Förutsättningar
 
 Innan vi dyker in i handledningen finns det några förutsättningar du måste ha på plats:
 
-1. Aspose.Imaging for .NET: Se till att du har Aspose.Imaging for .NET-biblioteket installerat och refererat till i ditt projekt. Du kan ladda ner den från[Aspose.Imaging för .NET-sida](https://releases.aspose.com/imaging/net/).
+1.  Aspose.Imaging for .NET: Se till att du har Aspose.Imaging for .NET-biblioteket installerat och refererat till i ditt projekt. Du kan ladda ner den från[Aspose.Imaging för .NET-sida](https://releases.aspose.com/imaging/net/).
 
 2. DICOM-bild: Du bör ha en DICOM-bildfil redo för bearbetning. Om du inte har en kan du hitta DICOM-exempelbilder online eller använda dina medicinska bilddata.
 
@@ -61,11 +61,11 @@ using (DicomImage image = new DicomImage(fileStream))
 }
 ```
 
- De`image.BinarizeOtsu()`Metoden tillämpar Otsu Thresholding på DICOM-avbildningen, och binariserar den effektivt. Vi sparar sedan den resulterande bilden i BMP-format.
+ De`image.BinarizeOtsu()` Metoden tillämpar Otsu Thresholding på DICOM-avbildningen, och binariserar den effektivt. Vi sparar sedan den resulterande bilden i BMP-format.
 
 ## Slutsats
 
-I den här handledningen har vi lärt oss hur man utför binarisering med Otsu Threshold på en DICOM-bild med Aspose.Imaging för .NET. Det här biblioteket tillhandahåller en rad kraftfulla bildbehandlingsverktyg som hjälper dig att arbeta med olika bildformat sömlöst. Genom att följa stegen som beskrivs i den här guiden kan du förbättra dina medicinska bildbehandlingsapplikationer och extrahera värdefull information med lätthet.
+den här handledningen har vi lärt oss hur man utför binarisering med Otsu Threshold på en DICOM-bild med Aspose.Imaging för .NET. Det här biblioteket tillhandahåller en rad kraftfulla bildbehandlingsverktyg som hjälper dig att arbeta med olika bildformat sömlöst. Genom att följa stegen som beskrivs i den här guiden kan du förbättra dina medicinska bildbehandlingsapplikationer och extrahera värdefull information med lätthet.
 
 Nu har du kunskapen och verktygen för att utnyttja Aspose.Imaging för .NET i dina projekt. Utforska gärna fler funktioner och funktioner som tillhandahålls av detta mångsidiga bibliotek för att ta dina bildbehandlingsmöjligheter till nästa nivå.
 

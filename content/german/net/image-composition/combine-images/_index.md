@@ -90,7 +90,7 @@ using (var image = Image.Create(imageOptions, 600, 600))
 
 ### Schritt 6: Bilder zur Leinwand hinzufügen
 
- Benutzen Sie die`Graphics` Klasse zum Hinzufügen und Positionieren der Bilder auf der Leinwand. Der`DrawImage` Mit der Methode können Sie die Bilddatei, Position und Abmessungen für jedes Bild angeben, das Sie kombinieren möchten:
+ Benutzen Sie die`Graphics`Klasse zum Hinzufügen und Positionieren der Bilder auf der Leinwand. Der`DrawImage` Mit der Methode können Sie die Bilddatei, Position und Abmessungen für jedes Bild angeben, das Sie kombinieren möchten:
 
 ```csharp
 var graphics = new Graphics(image);
@@ -115,7 +115,7 @@ In diesem Tutorial haben wir untersucht, wie man Bilder mit Aspose.Imaging für 
 
 ### F1: Welche Formate unterstützt Aspose.Imaging für .NET für die Bildverarbeitung?
 
-A1: Aspose.Imaging für .NET unterstützt eine Vielzahl von Bildformaten, darunter JPEG, PNG, BMP, GIF, TIFF und viele mehr. Eine umfassende Liste finden Sie im[Dokumentation](https://reference.aspose.com/imaging/net/).
+ A1: Aspose.Imaging für .NET unterstützt eine Vielzahl von Bildformaten, darunter JPEG, PNG, BMP, GIF, TIFF und viele mehr. Eine umfassende Liste finden Sie im[Dokumentation](https://reference.aspose.com/imaging/net/).
 
 ### F2: Ist die Nutzung von Aspose.Imaging für .NET kostenlos?
 

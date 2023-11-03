@@ -63,7 +63,7 @@ In diesem Schritt erstellen wir ein neues Bild und geben das Verzeichnis an, in 
 ### Schritt 2: Grafiken initialisieren und Oberfläche reinigen
 
 ```csharp
-        // Erstellen und initialisieren Sie eine Instanz der Graphics-Klasse und löschen Sie die Grafikoberfläche
+        //Erstellen und initialisieren Sie eine Instanz der Graphics-Klasse und löschen Sie die Grafikoberfläche
         Graphics graphic = new Graphics(image);
         graphic.Clear(Color.Yellow);
 ```

@@ -45,7 +45,7 @@ using (DicomImage image = new DicomImage(fileStream))
 
 ## Steg 2: Använd filtret
 
- Nu när du har laddat DICOM-bilden är det dags att använda ett filter. För det här exemplet kommer vi att använda`MedianFilter`. Detta filter hjälper till att minska brus i bilden. Så här kan du tillämpa det:
+ Nu när du har laddat DICOM-bilden är det dags att använda ett filter. För det här exemplet kommer vi att använda`MedianFilter`Detta filter hjälper till att minska brus i bilden. Så här kan du tillämpa det:
 
 ```csharp
     // Tillför filtren till DICOM-bilden och spara resultaten i utmatningsvägen.

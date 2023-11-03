@@ -13,7 +13,7 @@ url: /ru/net/image-format-conversion/convert-cmx-to-png/
 
 Прежде чем мы углубимся в процесс преобразования, вам необходимо выполнить несколько действий:
 
-- Библиотека Aspose.Imaging for .NET: убедитесь, что у вас установлена библиотека Aspose.Imaging for .NET. Вы можете скачать его с[здесь](https://releases.aspose.com/imaging/net/).
+-  Библиотека Aspose.Imaging for .NET: убедитесь, что у вас установлена библиотека Aspose.Imaging for .NET. Вы можете скачать его с[здесь](https://releases.aspose.com/imaging/net/).
 
 - Ваши файлы CMX. В каталоге документов у вас должны быть файлы CMX, которые вы хотите преобразовать в PNG.
 
@@ -57,7 +57,7 @@ string[] fileNames = new string[] {
 };
 ```
 
- Не стесняйтесь изменять`fileNames`массив для включения имеющихся у вас файлов CMX.
+ Не стесняйтесь изменять`fileNames` массив для включения имеющихся у вас файлов CMX.
 
 ## Шаг 3. Выполните преобразование
 

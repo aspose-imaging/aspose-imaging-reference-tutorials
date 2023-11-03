@@ -18,7 +18,7 @@ Bu eğitimde size Aspose.Imaging for .NET'te yay çizme adımlarını anlatacağ
 
 ## Aspose.Imaging for .NET ile Bezier Eğrilerinin Çizilmesi
 
-Bezier eğrileri, grafik dünyasındaki pürüzsüz, kavisli tasarımların temelidir. Aspose.Imaging for .NET, bu zarif eğrileri kolaylıkla oluşturmanıza olanak tanır. İster logo, illüstrasyon veya infografik tasarlıyor olun, Bezier eğrilerinde ustalaşmak sahip olmaya değer bir beceridir.
+Bezier eğrileri, grafik dünyasındaki pürüzsüz, kavisli tasarımların temelidir. Aspose.Imaging for .NET, bu zarif eğrileri kolaylıkla oluşturmanıza olanak sağlar. İster logo, illüstrasyon veya infografik tasarlıyor olun, Bezier eğrilerinde ustalaşmak sahip olmaya değer bir beceridir.
 
 Bu eğitimde Aspose.Imaging for .NET'te Bezier eğrilerini çizme konusunda size rehberlik edeceğiz. Gelişmiş grafikler oluşturmanıza olanak sağlayacak şekilde eğrileri, kontrol noktalarını ve bağlantı noktalarını değiştirmeyi öğreneceksiniz. .NET grafik becerilerinizi geliştirmeye yönelik adım adım bir yolculuktur.
 

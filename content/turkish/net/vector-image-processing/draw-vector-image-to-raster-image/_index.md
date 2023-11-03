@@ -14,9 +14,9 @@ url: /tr/net/vector-image-processing/draw-vector-image-to-raster-image/
 
 Eğiticiye dalmadan önce aşağıdaki önkoşulların mevcut olduğundan emin olun:
 
-### 1. Aspose.Imaging for .NET
+### 1. .NET için Aspose.Imaging
 
- Aspose.Imaging for .NET'in kurulu olması gerekir. Eğer elinizde yoksa, resmi web sitesinden indirebilirsiniz.[Aspose.Imaging for .NET'i indirin](https://releases.aspose.com/imaging/net/).
+ Aspose.Imaging for .NET'in kurulu olması gerekir. Eğer elinizde yoksa, adresindeki web sitesinden indirebilirsiniz.[Aspose.Imaging for .NET'i indirin](https://releases.aspose.com/imaging/net/).
 
 ### 2. .NET Geliştirme Ortamı
 
@@ -100,8 +100,8 @@ Bu derste Aspose.Imaging for .NET kullanarak vektör görüntülerin raster gör
 ### Aspose.Imaging for .NET nedir?
 Aspose.Imaging for .NET, çeşitli görüntü formatlarıyla çalışma, görüntüleri dönüştürme ve gelişmiş görüntü işleme görevlerini gerçekleştirme gibi güçlü görüntü işleme özellikleri sağlayan bir .NET kitaplığıdır.
 
-### Aspose.Imaging for .NET'in resmi belgelerini nerede bulabilirim?
- Aspose.Imaging for .NET'in resmi belgelerini burada bulabilirsiniz[Burada](https://reference.aspose.com/imaging/net/).
+### Aspose.Imaging for .NET belgelerini nerede bulabilirim?
+ Aspose.Imaging for .NET belgelerini bulabilirsiniz[Burada](https://reference.aspose.com/imaging/net/).
 
 ### Ücretsiz deneme sürümü mevcut mu?
  Evet, Aspose.Imaging for .NET'in ücretsiz deneme sürümüne erişebilirsiniz[Burada](https://releases.aspose.com/).

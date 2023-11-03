@@ -7,7 +7,7 @@ type: docs
 weight: 22
 url: /de/net/dicom-image-processing/dithering-for-dicom-image/
 ---
-Dithering ist eine grundlegende Bildverarbeitungstechnik, mit der die Anzahl der Farben in einem Bild reduziert und gleichzeitig die visuelle Qualität erhalten bleibt. In dieser Schritt-für-Schritt-Anleitung erfahren Sie, wie Sie mit Aspose.Imaging für .NET Dithering für ein DICOM-Bild durchführen. Diese leistungsstarke Bibliothek bietet eine breite Palette an Funktionen zur Bildmanipulation und -verarbeitung und ist somit eine ausgezeichnete Wahl für Entwickler, die mit medizinischen Bildern arbeiten. 
+Dithering ist eine grundlegende Bildverarbeitungstechnik, mit der die Anzahl der Farben in einem Bild reduziert und gleichzeitig die visuelle Qualität erhalten bleibt. In dieser Schritt-für-Schritt-Anleitung erfahren Sie, wie Sie mit Aspose.Imaging für .NET Dithering für ein DICOM-Bild durchführen. Diese leistungsstarke Bibliothek bietet eine breite Palette an Funktionen zur Bildbearbeitung und -verarbeitung und ist somit eine ausgezeichnete Wahl für Entwickler, die mit medizinischen Bildern arbeiten. 
 
 ## Voraussetzungen
 

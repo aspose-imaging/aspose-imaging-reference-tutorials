@@ -57,7 +57,7 @@ using (DicomImage image = new DicomImage(fileStream))
 
 ## Passaggio 2: ritaglia l'immagine DICOM
 
- In questo passaggio chiamerai il`Crop` metodo e fornire i quattro valori per definire l'area di ritaglio. Qui,`1, 1, 1, 1`vengono utilizzati come valori campione. Dovresti sostituire questi valori con le coordinate e le dimensioni effettive che desideri utilizzare per il ritaglio:
+ In questo passaggio chiamerai il`Crop` metodo e fornire i quattro valori per definire l'area di ritaglio. Qui,`1, 1, 1, 1` vengono utilizzati come valori campione. Dovresti sostituire questi valori con le coordinate e le dimensioni effettive che desideri utilizzare per il ritaglio:
 
 ```csharp
 image.Crop(1, 1, 1, 1);

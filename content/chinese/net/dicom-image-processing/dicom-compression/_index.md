@@ -150,4 +150,4 @@ A3：是的，Aspose.Imaging for .NET 提供了广泛的图像处理功能，可
 
 ### Q5：Aspose.Imaging for .NET 有试用版可供测试吗？
 
-A5：是的，您可以获得[免费试用许可证](https://releases.aspose.com/)在购买之前测试 Aspose.Imaging for .NET。
+ A5：是的，您可以获得[免费试用许可证](https://releases.aspose.com/)在购买之前测试 Aspose.Imaging for .NET。

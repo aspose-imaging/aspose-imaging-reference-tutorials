@@ -106,7 +106,7 @@ Ve bu kadar! Aspose.Imaging for .NET'i kullanarak başarıyla bir görüntü olu
 
 Bu eğitimde Aspose.Imaging for .NET'te Grafik kullanarak çizim yapmanın temellerini inceledik. Doğru araçlar ve bilgiyle görüntü işleme ve oluşturmada yaratıcılığınızı ortaya çıkarabilirsiniz.
 
- Herhangi bir sorunla karşılaşırsanız veya sorularınız varsa adresini ziyaret etmekten çekinmeyin.[Aspose.Imaging destek forumu](https://forum.aspose.com/) yardım için.
+ Herhangi bir sorunla karşılaşırsanız veya sorularınız varsa adresini ziyaret etmekten çekinmeyin.[Aspose.Imaging destek forumu](https://forum.aspose.com/)yardım için.
 
 ## SSS'ler
 

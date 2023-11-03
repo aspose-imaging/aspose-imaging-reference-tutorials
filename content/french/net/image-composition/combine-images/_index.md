@@ -90,7 +90,7 @@ using (var image = Image.Create(imageOptions, 600, 600))
 
 ### Étape 6 : ajouter des images au canevas
 
- Utilisez le`Graphics` classe pour ajouter et positionner les images sur le canevas. Le`DrawImage` La méthode vous permet de spécifier le fichier image, la position et les dimensions de chaque image que vous souhaitez combiner :
+ Utilisez le`Graphics`classe pour ajouter et positionner les images sur le canevas. Le`DrawImage` La méthode vous permet de spécifier le fichier image, la position et les dimensions de chaque image que vous souhaitez combiner :
 
 ```csharp
 var graphics = new Graphics(image);
@@ -115,7 +115,7 @@ Dans ce didacticiel, nous avons exploré comment combiner des images à l'aide d
 
 ### Q1 : Quels formats Aspose.Imaging for .NET prend-il en charge pour le traitement des images ?
 
-A1 : Aspose.Imaging pour .NET prend en charge un large éventail de formats d'image, notamment JPEG, PNG, BMP, GIF, TIFF et bien d'autres. Vous pouvez trouver une liste complète dans le[Documentation](https://reference.aspose.com/imaging/net/).
+ A1 : Aspose.Imaging pour .NET prend en charge un large éventail de formats d'image, notamment JPEG, PNG, BMP, GIF, TIFF et bien d'autres. Vous pouvez trouver une liste complète dans le[Documentation](https://reference.aspose.com/imaging/net/).
 
 ### Q2 : L'utilisation d'Aspose.Imaging pour .NET est-elle gratuite ?
 

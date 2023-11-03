@@ -88,7 +88,7 @@ C2: Evet, birden fazla DICOM görüntüsü arasında geçiş yapabilir ve ikilil
 
 ### S3: Daha fazla Aspose.Imaging for .NET belgesini nerede bulabilirim?
 
- A3: Belgeleri inceleyebilirsiniz[Burada](https://reference.aspose.com/imaging/net/) Aspose.Imaging for .NET kullanımı hakkında ayrıntılı bilgi için.
+ A3: Belgeleri inceleyebilirsiniz[Burada](https://reference.aspose.com/imaging/net/)Aspose.Imaging for .NET kullanımı hakkında ayrıntılı bilgi için.
 
 ### S4: Aspose.Imaging for .NET'in deneme sürümü mevcut mu?
 

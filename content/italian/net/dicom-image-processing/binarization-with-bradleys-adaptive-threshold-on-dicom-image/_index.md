@@ -88,7 +88,7 @@ R2: Sì, puoi scorrere più immagini DICOM e applicare il processo di binarizzaz
 
 ### Q3: Dove posso trovare altra documentazione su Aspose.Imaging per .NET?
 
- A3: È possibile esplorare la documentazione[Qui](https://reference.aspose.com/imaging/net/) per informazioni dettagliate sull'utilizzo di Aspose.Imaging per .NET.
+ A3: È possibile esplorare la documentazione[Qui](https://reference.aspose.com/imaging/net/)per informazioni dettagliate sull'utilizzo di Aspose.Imaging per .NET.
 
 ### Q4: È disponibile una versione di prova per Aspose.Imaging per .NET?
 

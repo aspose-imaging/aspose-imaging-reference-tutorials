@@ -38,7 +38,7 @@ using Aspose.Imaging.Dicom;
 
 ## 1. Adım: Ortamı Ayarlayın
 
- Geliştirme ortamınızda bir .NET projesi oluşturduğunuzdan ve Aspose.Imaging for .NET'i referans olarak eklediğinizden emin olun. Henüz yapmadıysanız Aspose.Imaging belgelerine bakın.[Burada](https://reference.aspose.com/imaging/net/)başlama konusunda rehberlik için.
+ Geliştirme ortamınızda bir .NET projesi oluşturduğunuzdan ve Aspose.Imaging for .NET'i referans olarak eklediğinizden emin olun. Henüz yapmadıysanız Aspose.Imaging belgelerine bakın.[Burada](https://reference.aspose.com/imaging/net/) başlama konusunda rehberlik için.
 
 ## 2. Adım: Dosya Yollarını Tanımlayın
 

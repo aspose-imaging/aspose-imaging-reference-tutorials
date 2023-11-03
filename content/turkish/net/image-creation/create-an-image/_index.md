@@ -13,7 +13,7 @@ Günümüzün dijital çağında, görüntülerin oluşturulması ve işlenmesi 
 
 Aspose.Imaging for .NET ile görseller oluşturmaya başlamadan önce aşağıdaki önkoşulların mevcut olduğundan emin olun:
 
-1.  Aspose.Imaging for .NET Library: Aspose.Imaging for .NET kütüphanesinin kurulu olduğundan emin olun. Şuradan indirebilirsiniz[Burada](https://releases.aspose.com/imaging/net/).
+1. Aspose.Imaging for .NET Library: Aspose.Imaging for .NET kütüphanesinin kurulu olduğundan emin olun. Şuradan indirebilirsiniz[Burada](https://releases.aspose.com/imaging/net/).
 
 2. Geliştirme Ortamı: .NET çerçevesinin kurulu olduğu bir geliştirme ortamına ihtiyacınız var.
 
@@ -54,7 +54,7 @@ ImageOptions.BitsPerPixel = 24;
 
 ## 3. Adım: Kaynak Özelliği Tanımlayın
 
- Örnek için kaynak özelliğini tanımlayın`BmpOptions`. İkinci boolean parametresi dosyanın geçici olup olmadığını belirler.
+Örnek için kaynak özelliğini tanımlayın`BmpOptions`. İkinci boolean parametresi dosyanın geçici olup olmadığını belirler.
 
 ```csharp
 ImageOptions.Source = new FileCreateSource(dataDir + "CreatingAnImageBySettingPath_out.bmp", false);

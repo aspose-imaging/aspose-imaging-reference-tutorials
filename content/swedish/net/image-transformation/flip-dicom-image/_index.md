@@ -79,7 +79,7 @@ Du är nästan klar! Nu kan du slutföra din kod och köra programmet för att s
 
 ## Slutsats
 
-I den här handledningen har vi utforskat hur man vänder DICOM-bilder med Aspose.Imaging för .NET. Det här biblioteket förenklar bildmanipuleringsuppgifter och ger ett bekvämt sätt att förbättra dina bildbehandlingsapplikationer. Oavsett om du arbetar med medicinska bilder, kreativ design eller någon annan domän, har Aspose.Imaging för .NET dig täckt.
+den här handledningen har vi utforskat hur man vänder DICOM-bilder med Aspose.Imaging för .NET. Det här biblioteket förenklar bildmanipuleringsuppgifter och ger ett bekvämt sätt att förbättra dina bildbehandlingsapplikationer. Oavsett om du arbetar med medicinska bilder, kreativ design eller någon annan domän, har Aspose.Imaging för .NET dig täckt.
 
 Genom att följa stegen som beskrivs i den här guiden och använda de medföljande kodavsnitten kan du effektivt vända DICOM-bilder och integrera denna funktion i dina projekt. Omfamna kraften i Aspose.Imaging för .NET och låt dina bildmanipuleringsuppgifter bli en bris.
 

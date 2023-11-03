@@ -106,7 +106,7 @@ image.Save();
 
 En este tutorial, exploramos los conceptos básicos del dibujo usando gráficos en Aspose.Imaging para .NET. Con las herramientas y el conocimiento adecuados, puedes dar rienda suelta a tu creatividad en la manipulación y creación de imágenes.
 
- Si tiene algún problema o tiene preguntas, no dude en visitar el[Foro de soporte de Aspose.Imaging](https://forum.aspose.com/) para asistencia.
+ Si tiene algún problema o tiene preguntas, no dude en visitar el[Foro de soporte de Aspose.Imaging](https://forum.aspose.com/)para asistencia.
 
 ## Preguntas frecuentes
 

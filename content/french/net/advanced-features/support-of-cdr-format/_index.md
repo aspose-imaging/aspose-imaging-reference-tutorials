@@ -48,7 +48,7 @@ using (Image image = Image.Load(inputFileName))
 
 ## Étape 2 : Vérifiez le format du fichier
 
-Il est essentiel de vérifier que l'image chargée est au format CDR. Vous pouvez le comparer avec le format de fichier attendu (CDR) en utilisant le`image.FileFormat` propriété. Voici comment:
+ Il est essentiel de vérifier que l'image chargée est au format CDR. Vous pouvez le comparer avec le format de fichier attendu (CDR) en utilisant le`image.FileFormat`propriété. Voici comment:
 
 ```csharp
 FileFormat expectedFileFormat = FileFormat.Cdr;

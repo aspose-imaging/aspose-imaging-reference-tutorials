@@ -81,7 +81,7 @@ image.AdjustContrast(50);
 image.Save(dataDir + "AdjustContrastDICOM_out.bmp", new BmpOptions());
 ```
 
- Yer değiştirmek`"AdjustContrastDICOM_out.bmp"` İstediğiniz çıktı dosyası adı ile.
+ Yer değiştirmek`"AdjustContrastDICOM_out.bmp"`İstediğiniz çıktı dosyası adı ile.
 
 ## Çözüm
 

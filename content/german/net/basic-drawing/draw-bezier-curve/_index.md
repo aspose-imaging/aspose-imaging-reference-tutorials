@@ -72,7 +72,7 @@ Graphics graphic = new Graphics(image);
 graphic.Clear(Color.Yellow);
 ```
 
- Wir erstellen ein`Graphics` Objekt und stellen Sie die Hintergrundfarbe des Bildes auf Gelb ein.
+ Wir erstellen eine`Graphics` Objekt und stellen Sie die Hintergrundfarbe des Bildes auf Gelb ein.
 
 ### Schritt 2.5: Bezier-Parameter definieren
 

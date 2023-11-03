@@ -16,7 +16,7 @@ Innan vi dyker in i handledningen, se till att du har följande förutsättninga
 
 ### 1. Aspose.Imaging för .NET
 
- Du bör ha Aspose.Imaging för .NET installerat. Om du inte har det kan du ladda ner det från den officiella webbplatsen på[Ladda ner Aspose.Imaging för .NET](https://releases.aspose.com/imaging/net/).
+ Du bör ha Aspose.Imaging för .NET installerat. Om du inte har det kan du ladda ner det från webbplatsen på[Ladda ner Aspose.Imaging för .NET](https://releases.aspose.com/imaging/net/).
 
 ### 2. .NET utvecklingsmiljö
 
@@ -100,8 +100,8 @@ I den här handledningen har vi visat hur man konverterar vektorbilder till rast
 ### Vad är Aspose.Imaging för .NET?
 Aspose.Imaging for .NET är ett .NET-bibliotek som tillhandahåller kraftfulla bildbehandlingsfunktioner, inklusive möjligheten att arbeta med olika bildformat, konvertera bilder och utföra avancerade bildmanipuleringsuppgifter.
 
-### Var kan jag hitta den officiella dokumentationen för Aspose.Imaging för .NET?
- Du kan hitta den officiella dokumentationen för Aspose.Imaging för .NET[här](https://reference.aspose.com/imaging/net/).
+### Var kan jag hitta dokumentationen för Aspose.Imaging för .NET?
+ Du kan hitta dokumentationen för Aspose.Imaging för .NET[här](https://reference.aspose.com/imaging/net/).
 
 ### Finns det en gratis testversion tillgänglig?
  Ja, du kan få tillgång till en gratis testversion av Aspose.Imaging för .NET[här](https://releases.aspose.com/).

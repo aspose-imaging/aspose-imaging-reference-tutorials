@@ -72,7 +72,7 @@ image.Save(dataDir + "BinarizationWithBradleysAdaptiveThreshold_out.bmp", new Bm
 
 ## Slutsats
 
-I den här handledningen har vi täckt hela processen för binarisering med Bradleys Adaptive Threshold på en DICOM-bild med Aspose.Imaging för .NET. Du har lärt dig förutsättningarna, hur man importerar namnutrymmen och en steg-för-steg-guide för att binarisera en bild. Med denna kunskap kan du effektivt bearbeta DICOM-bilder för dina specifika behov.
+den här handledningen har vi täckt hela processen för binarisering med Bradleys Adaptive Threshold på en DICOM-bild med Aspose.Imaging för .NET. Du har lärt dig förutsättningarna, hur man importerar namnutrymmen och en steg-för-steg-guide för att binarisera en bild. Med denna kunskap kan du effektivt bearbeta DICOM-bilder för dina specifika behov.
 
 Nu har du verktygen och kunskapen för att förbättra dina bildbehandlingsmöjligheter med Aspose.Imaging för .NET.
 
@@ -88,7 +88,7 @@ S2: Ja, du kan gå igenom flera DICOM-bilder och tillämpa binariseringsprocesse
 
 ### F3: Var kan jag hitta mer Aspose.Imaging för .NET-dokumentation?
 
- S3: Du kan utforska dokumentationen[här](https://reference.aspose.com/imaging/net/) för detaljerad information om hur du använder Aspose.Imaging för .NET.
+ S3: Du kan utforska dokumentationen[här](https://reference.aspose.com/imaging/net/)för detaljerad information om hur du använder Aspose.Imaging för .NET.
 
 ### F4: Finns det en testversion tillgänglig för Aspose.Imaging för .NET?
 

@@ -63,7 +63,7 @@ Bu adımda yeni bir görsel oluşturup görselin kaydedileceği dizini belirliyo
 ### Adım 2: Grafiği Başlatın ve Yüzeyi Temizleyin
 
 ```csharp
-        // Graphics sınıfının bir örneğini oluşturup başlatın ve grafik yüzeyini temizleyin
+        //Graphics sınıfının bir örneğini oluşturup başlatın ve grafik yüzeyini temizleyin
         Graphics graphic = new Graphics(image);
         graphic.Clear(Color.Yellow);
 ```

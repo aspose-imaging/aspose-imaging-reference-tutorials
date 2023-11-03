@@ -90,7 +90,7 @@ using (var image = Image.Create(imageOptions, 600, 600))
 
 ### Adım 6: Tuvale Görüntü Ekleme
 
- Kullan`Graphics` görüntüleri tuval üzerine eklemek ve konumlandırmak için sınıf.`DrawImage` yöntemi, birleştirmek istediğiniz her görüntü için görüntü dosyasını, konumunu ve boyutlarını belirtmenize olanak tanır:
+ Kullan`Graphics`görüntüleri tuval üzerine eklemek ve konumlandırmak için sınıf.`DrawImage` yöntemi, birleştirmek istediğiniz her görüntü için görüntü dosyasını, konumunu ve boyutlarını belirtmenize olanak tanır:
 
 ```csharp
 var graphics = new Graphics(image);
@@ -115,7 +115,7 @@ Bu eğitimde Aspose.Imaging for .NET kullanarak görüntülerin nasıl birleşti
 
 ### S1: Aspose.Imaging for .NET görüntü işleme için hangi formatları destekliyor?
 
-Cevap1: Aspose.Imaging for .NET, JPEG, PNG, BMP, GIF, TIFF ve çok daha fazlasını içeren çok çeşitli görüntü formatlarını destekler. Kapsamlı bir listeyi şurada bulabilirsiniz:[dokümantasyon](https://reference.aspose.com/imaging/net/).
+ Cevap1: Aspose.Imaging for .NET, JPEG, PNG, BMP, GIF, TIFF ve çok daha fazlasını içeren çok çeşitli görüntü formatlarını destekler. Kapsamlı bir listeyi şurada bulabilirsiniz:[dokümantasyon](https://reference.aspose.com/imaging/net/).
 
 ### S2: Aspose.Imaging for .NET'in kullanımı ücretsiz midir?
 

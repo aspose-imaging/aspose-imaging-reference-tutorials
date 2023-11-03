@@ -13,7 +13,7 @@ url: /zh/net/image-creation/create-an-image/
 
 在开始使用 Aspose.Imaging for .NET 创建图像之前，请确保满足以下先决条件：
 
-1.  Aspose.Imaging for .NET 库：确保您已安装 Aspose.Imaging for .NET 库。您可以从以下位置下载：[这里](https://releases.aspose.com/imaging/net/).
+1. Aspose.Imaging for .NET 库：确保您已安装 Aspose.Imaging for .NET 库。您可以从以下位置下载：[这里](https://releases.aspose.com/imaging/net/).
 
 2. 开发环境：您需要一个安装了.NET框架的开发环境。
 

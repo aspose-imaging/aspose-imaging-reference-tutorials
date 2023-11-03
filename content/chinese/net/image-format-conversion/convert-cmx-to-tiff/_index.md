@@ -13,7 +13,7 @@ url: /zh/net/image-format-conversion/convert-cmx-to-tiff/
 
 在我们深入了解转换过程之前，让我们确保您拥有所需的一切：
 
--  Aspose.Imaging for .NET 库：您应该安装 Aspose.Imaging for .NET 库。您可以从官方网站下载[这里](https://releases.aspose.com/imaging/net/).
+-  Aspose.Imaging for .NET 库：您应该安装 Aspose.Imaging for .NET 库。您可以从网站下载[这里](https://releases.aspose.com/imaging/net/).
 
 - 您的 CMX 文件：您需要要转换为 TIFF 的 CMX 文件。确保它在您的工作目录中可用。
 

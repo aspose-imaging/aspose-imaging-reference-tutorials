@@ -19,7 +19,7 @@ Innan vi dyker in i handledningen finns det några förutsättningar du måste h
 
 ## Importera namnområden
 
-ditt .NET-projekt måste du importera de nödvändiga namnrymden för att arbeta med Aspose.Imaging. Lägg till följande kod i början av din .cs-fil:
+I ditt .NET-projekt måste du importera de nödvändiga namnrymden för att arbeta med Aspose.Imaging. Lägg till följande kod i början av din .cs-fil:
 
 ```csharp
 using System;
@@ -73,7 +73,7 @@ Genom att följa dessa steg kan du effektivt minska antalet färger i dina DICOM
 
 ## FAQ's
 
-### F1: Vad är vibrering i bildbehandling?
+### F1: Vad är dithering i bildbehandling?
 
 S1: Dithering är en teknik som används för att minska antalet färger i en bild samtidigt som den visuella kvaliteten bevaras. Det används ofta för att förbättra visningen av bilder med begränsade färgpaletter.
 

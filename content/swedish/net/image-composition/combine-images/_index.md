@@ -90,7 +90,7 @@ using (var image = Image.Create(imageOptions, 600, 600))
 
 ### Steg 6: Lägg till bilder på arbetsytan
 
- Använd`Graphics` klass för att lägga till och placera bilderna på duken. De`DrawImage` metoden låter dig ange bildfil, position och dimensioner för varje bild du vill kombinera:
+ Använd`Graphics`klass för att lägga till och placera bilderna på duken. De`DrawImage` metoden låter dig ange bildfil, position och dimensioner för varje bild du vill kombinera:
 
 ```csharp
 var graphics = new Graphics(image);
@@ -115,7 +115,7 @@ I den här handledningen har vi utforskat hur man kombinerar bilder med Aspose.I
 
 ### F1: Vilka format stöder Aspose.Imaging for .NET för bildbehandling?
 
-S1: Aspose.Imaging för .NET stöder ett brett utbud av bildformat, inklusive JPEG, PNG, BMP, GIF, TIFF och många fler. Du hittar en omfattande lista i[dokumentation](https://reference.aspose.com/imaging/net/).
+ S1: Aspose.Imaging för .NET stöder ett brett utbud av bildformat, inklusive JPEG, PNG, BMP, GIF, TIFF och många fler. Du hittar en omfattande lista i[dokumentation](https://reference.aspose.com/imaging/net/).
 
 ### F2: Är Aspose.Imaging för .NET gratis att använda?
 

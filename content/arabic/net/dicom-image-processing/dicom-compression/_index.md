@@ -150,4 +150,4 @@ inputImage.Save(output4, options);
 
 ### س5: هل هناك إصدار تجريبي من Aspose.Imaging for .NET متاح للاختبار؟
 
-ج5: نعم يمكنك الحصول على[رخصة تجريبية مجانية](https://releases.aspose.com/) لاختبار Aspose.Imaging لـ .NET قبل إجراء عملية شراء.
+ ج5: نعم يمكنك الحصول على[رخصة تجريبية مجانية](https://releases.aspose.com/) لاختبار Aspose.Imaging لـ .NET قبل إجراء عملية شراء.

@@ -150,4 +150,4 @@ A3: Sì, Aspose.Imaging per .NET fornisce un'ampia gamma di funzionalità di ela
 
 ### Q5: È disponibile una versione di prova di Aspose.Imaging per .NET per il test?
 
-A5: Sì, puoi ottenere a[licenza di prova gratuita](https://releases.aspose.com/) per testare Aspose.Imaging per .NET prima di effettuare un acquisto.
+ A5: Sì, puoi ottenere a[licenza di prova gratuita](https://releases.aspose.com/) per testare Aspose.Imaging per .NET prima di effettuare un acquisto.

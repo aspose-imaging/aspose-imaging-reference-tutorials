@@ -63,7 +63,7 @@ using (FileStream stream = new FileStream(dataDir + "DrawingArc_out.bmp", FileMo
 ### الخطوة 2: تهيئة الرسومات ومسح السطح
 
 ```csharp
-        // إنشاء وتهيئة مثيل لفئة الرسومات ومسح سطح الرسومات
+        //إنشاء وتهيئة مثيل لفئة الرسومات ومسح سطح الرسومات
         Graphics graphic = new Graphics(image);
         graphic.Clear(Color.Yellow);
 ```

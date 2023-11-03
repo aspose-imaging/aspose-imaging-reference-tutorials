@@ -87,7 +87,7 @@ S1: Aspose.Imaging för .NET är ett kraftfullt bibliotek som låter dig skapa, 
 
 ### F4: Hur köper jag en licens?
 
-S4: Du kan köpa en licens för Aspose.Imaging för .NET på[Aspose.Imaging Köp](https://purchase.aspose.com/buy).
+ S4: Du kan köpa en licens för Aspose.Imaging för .NET på[Aspose.Imaging Köp](https://purchase.aspose.com/buy).
 
 ### F5: Var kan jag få support eller ställa frågor?
 

@@ -19,7 +19,7 @@ Innan vi dyker in i världen av bildskapande, se till att du har följande föru
 
 3. Grundläggande kunskaper i C#: Förtrogenhet med C#-programmering kommer att vara fördelaktigt för att förstå kodexemplen.
 
-4.  Din dokumentkatalog: Ersätt`"Your Document Directory"` koden med den faktiska katalogsökvägen där du vill spara din bild.
+4.  Din dokumentkatalog: Ersätt`"Your Document Directory"` i koden med den faktiska katalogsökvägen där du vill spara din bild.
 
 Nu när du har allt inställt, låt oss hoppa in i steg-för-steg-guiden.
 
@@ -95,7 +95,7 @@ A1:Aspose.Imaging för .NET stöder ett brett utbud av bildformat, inklusive BMP
 
 ### F2: Finns det en gratis testversion tillgänglig för Aspose.Imaging för .NET?
 
-S2: Ja, du kan få en gratis testversion av Aspose.Imaging för .NET från[här](https://releases.aspose.com/).
+ S2: Ja, du kan få en gratis testversion av Aspose.Imaging för .NET från[här](https://releases.aspose.com/).
 
 ### F3: Kan jag utföra avancerad bildbehandling med Aspose.Imaging för .NET?
 

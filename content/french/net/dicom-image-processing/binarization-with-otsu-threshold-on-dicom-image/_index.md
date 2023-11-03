@@ -13,13 +13,13 @@ Dans le monde du traitement et de la manipulation d’images, des outils et bibl
 
 Avant de plonger dans le didacticiel, vous devez remplir quelques conditions préalables :
 
-1. Aspose.Imaging for .NET : assurez-vous que la bibliothèque Aspose.Imaging for .NET est installée et référencée dans votre projet. Vous pouvez le télécharger depuis le[Page Aspose.Imaging pour .NET](https://releases.aspose.com/imaging/net/).
+1.  Aspose.Imaging for .NET : assurez-vous que la bibliothèque Aspose.Imaging for .NET est installée et référencée dans votre projet. Vous pouvez le télécharger depuis le[Page Aspose.Imaging pour .NET](https://releases.aspose.com/imaging/net/).
 
 2. Image DICOM : vous devez disposer d'un fichier image DICOM prêt à être traité. Si vous n'en avez pas, vous pouvez trouver des exemples d'images DICOM en ligne ou utiliser vos données d'imagerie médicale.
 
 Commençons maintenant par le guide étape par étape.
 
-## Étape 1 : Importer les espaces de noms
+## Étape 1 : Importer des espaces de noms
 
 Pour commencer, vous devez importer les espaces de noms nécessaires pour accéder à la fonctionnalité Aspose.Imaging. Ajoutez les directives using suivantes à votre code C# :
 
@@ -61,7 +61,7 @@ using (DicomImage image = new DicomImage(fileStream))
 }
 ```
 
- Le`image.BinarizeOtsu()`La méthode applique le seuil Otsu à l’image DICOM, la binarisant ainsi. Nous enregistrons ensuite l'image résultante au format BMP.
+ Le`image.BinarizeOtsu()` La méthode applique le seuil Otsu à l’image DICOM, la binarisant ainsi. Nous enregistrons ensuite l'image résultante au format BMP.
 
 ## Conclusion
 

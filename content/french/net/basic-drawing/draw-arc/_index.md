@@ -63,7 +63,7 @@ Dans cette étape, nous créons une nouvelle image et spécifions le répertoire
 ### Étape 2 : initialiser les graphiques et effacer la surface
 
 ```csharp
-        // Créez et initialisez une instance de la classe Graphics et effacez la surface graphique
+        //Créez et initialisez une instance de la classe Graphics et effacez la surface graphique
         Graphics graphic = new Graphics(image);
         graphic.Clear(Color.Yellow);
 ```

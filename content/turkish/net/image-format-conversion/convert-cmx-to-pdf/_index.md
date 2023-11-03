@@ -88,7 +88,7 @@ Dönüştürme tamamlandıktan sonra bu adım geçici PDF dosyasını siler ve �
 
 ## Çözüm
 
- Aspose.Imaging for .NET, CMX dosyalarını PDF'ye dönüştürme işlemini basitleştiren güçlü bir araçtır. Bu basit adımlarla bu dönüşümü zahmetsizce gerçekleştirebilirsiniz. Keşfetmeyi unutmayın[dokümantasyon](https://reference.aspose.com/imaging/net/) Daha gelişmiş özellikler ve seçenekler için.
+Aspose.Imaging for .NET, CMX dosyalarını PDF'ye dönüştürme işlemini basitleştiren güçlü bir araçtır. Bu basit adımlarla bu dönüşümü zahmetsizce gerçekleştirebilirsiniz. Keşfetmeyi unutmayın[dokümantasyon](https://reference.aspose.com/imaging/net/) Daha gelişmiş özellikler ve seçenekler için.
 
 ## SSS'ler
 
@@ -110,4 +110,4 @@ Cevap4: Aspose.Imaging for .NET, diğerlerinin yanı sıra BMP, JPEG, PNG ve TIF
 
 ### S5: Aspose.Imaging for .NET için bir destek topluluğu var mı?
 
- C5: Evet, Aspose.Imaging for .NET'te destek bulabilir ve toplulukla etkileşime geçebilirsiniz.[forum](https://forum.aspose.com/).
+C5: Evet, Aspose.Imaging for .NET'te destek bulabilir ve toplulukla etkileşime geçebilirsiniz.[forum](https://forum.aspose.com/).

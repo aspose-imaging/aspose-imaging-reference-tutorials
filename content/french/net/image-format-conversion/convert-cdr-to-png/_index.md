@@ -23,7 +23,7 @@ Avant de nous lancer dans le processus de conversion, assurez-vous que les condi
 
 Commençons maintenant par le processus de conversion proprement dit.
 
-## Étape 1 : Importer les espaces de noms
+## Étape 1 : Importer des espaces de noms
 
 La première étape consiste à importer les espaces de noms nécessaires. Les espaces de noms sont comme des conteneurs contenant les classes et les méthodes que vous utiliserez tout au long de votre projet. Dans votre fichier C#, ajoutez les espaces de noms suivants :
 

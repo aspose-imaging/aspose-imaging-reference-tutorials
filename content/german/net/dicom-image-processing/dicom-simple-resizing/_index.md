@@ -13,7 +13,7 @@ Im sich ständig weiterentwickelnden Bereich der medizinischen Bildgebung ist de
 
 Bevor wir uns mit der Schritt-für-Schritt-Anleitung befassen, stellen Sie sicher, dass die folgenden Voraussetzungen erfüllt sind:
 
-1. Aspose.Imaging für .NET: In Ihrer Entwicklungsumgebung muss die Aspose.Imaging für .NET-Bibliothek installiert sein. Wenn Sie es noch nicht getan haben, können Sie es hier herunterladen[Hier](https://releases.aspose.com/imaging/net/).
+1.  Aspose.Imaging für .NET: In Ihrer Entwicklungsumgebung muss die Aspose.Imaging für .NET-Bibliothek installiert sein. Wenn Sie es noch nicht getan haben, können Sie es hier herunterladen[Hier](https://releases.aspose.com/imaging/net/).
 
 2. .NET-Entwicklungsumgebung: Kenntnisse in C# und einer .NET-Entwicklungsumgebung sind erforderlich.
 
@@ -62,7 +62,7 @@ using (var fileStream = new FileStream(dataDir + "file.dcm", FileMode.Open, File
 
 ### Schritt 2.3: Laden Sie das DICOM-Bild
 
- Laden Sie das DICOM-Bild von`fileStream`. Dadurch können Sie auf das Bild zugreifen und Vorgänge daran ausführen.
+ Laden Sie das DICOM-Bild von`fileStream`Dadurch können Sie auf das Bild zugreifen und Vorgänge daran ausführen.
 
 ```csharp
 using (DicomImage image = new DicomImage(fileStream))
@@ -113,4 +113,4 @@ A4: Aspose.Imaging für .NET ist mit verschiedenen Versionen des .NET Frameworks
 
 ### F5: Wo finde ich weitere Aspose.Imaging für .NET-Tutorials?
 
- A5: Sie können den Beamten erkunden[Aspose.Imaging für .NET-Dokumentation](https://reference.aspose.com/imaging/net/) für eine große Auswahl an Tutorials und Beispielen.
+ A5: Sie können das erkunden[Aspose.Imaging für .NET-Dokumentation](https://reference.aspose.com/imaging/net/) für eine große Auswahl an Tutorials und Beispielen.

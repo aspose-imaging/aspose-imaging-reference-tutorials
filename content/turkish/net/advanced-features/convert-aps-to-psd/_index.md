@@ -101,4 +101,4 @@ Cevap4: Aspose.Imaging şu anda doku fırçaları olmadan çok karmaşık olmaya
 
 ### S5: Aspose.Imaging for .NET ile ilgili nereden destek alabilirim veya soru sorabilirim?
 
- A5: Herhangi bir sorunuz varsa veya desteğe ihtiyacınız varsa, şu adresi ziyaret edebilirsiniz:[Aspose.Görüntüleme forumları](https://forum.aspose.com/) yardım için.
+ A5: Herhangi bir sorunuz varsa veya desteğe ihtiyacınız varsa, şu adresi ziyaret edebilirsiniz:[Aspose.Görüntüleme forumları](https://forum.aspose.com/)yardım için.

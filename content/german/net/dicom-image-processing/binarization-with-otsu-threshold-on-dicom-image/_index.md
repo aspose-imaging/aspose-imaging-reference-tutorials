@@ -13,7 +13,7 @@ In der Welt der Bildverarbeitung und -manipulation sind effiziente Werkzeuge und
 
 Bevor wir uns mit dem Tutorial befassen, müssen einige Voraussetzungen erfüllt sein:
 
-1. Aspose.Imaging für .NET: Stellen Sie sicher, dass die Aspose.Imaging für .NET-Bibliothek in Ihrem Projekt installiert und referenziert ist. Sie können es hier herunterladen[Aspose.Imaging für .NET-Seite](https://releases.aspose.com/imaging/net/).
+1.  Aspose.Imaging für .NET: Stellen Sie sicher, dass die Aspose.Imaging für .NET-Bibliothek in Ihrem Projekt installiert und referenziert ist. Sie können es hier herunterladen[Aspose.Imaging für .NET-Seite](https://releases.aspose.com/imaging/net/).
 
 2. DICOM-Bild: Sie sollten eine DICOM-Bilddatei zur Verarbeitung bereit haben. Wenn Sie noch keines haben, können Sie DICOM-Beispielbilder online finden oder Ihre medizinischen Bilddaten verwenden.
 
@@ -61,7 +61,7 @@ using (DicomImage image = new DicomImage(fileStream))
 }
 ```
 
- Der`image.BinarizeOtsu()`Die Methode wendet Otsu Thresholding auf das DICOM-Bild an und digitalisiert es effektiv. Das resultierende Bild speichern wir dann im BMP-Format.
+ Der`image.BinarizeOtsu()` Die Methode wendet Otsu Thresholding auf das DICOM-Bild an und digitalisiert es effektiv. Das resultierende Bild speichern wir dann im BMP-Format.
 
 ## Abschluss
 

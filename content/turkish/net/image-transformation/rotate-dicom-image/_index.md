@@ -19,7 +19,7 @@ Aspose.Imaging for .NET kullanarak DICOM görüntülerini döndürmenin heyecan 
 
 1. Ortam Kurulumu: Visual Studio ve .NET Framework'ün yüklü olduğu, çalışan bir geliştirme ortamınızın olduğundan emin olun.
 
-2.  Aspose.Imaging for .NET Library: Aspose.Imaging for .NET'i şu adresten indirip yükleyin:[İndirme: {link](https://releases.aspose.com/imaging/net/).
+2. Aspose.Imaging for .NET Library: Aspose.Imaging for .NET'i şu adresten indirip yükleyin:[İndirme: {link](https://releases.aspose.com/imaging/net/).
 
 3. DICOM Görüntüsü: Çalışmak için bir DICOM görüntü dosyasına ihtiyacınız olacak. Eğer elinizde yoksa örnek DICOM görüntülerini çevrimiçi olarak bulabilir veya kendinizinkini kullanabilirsiniz.
 

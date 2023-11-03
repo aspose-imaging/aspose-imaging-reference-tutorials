@@ -48,7 +48,7 @@ using (DicomImage image = new DicomImage(fileStream))
 
 ## Schritt 2: Passen Sie die Helligkeit an
 
- Im Inneren`using` Block können Sie nun die Helligkeit des DICOM-Bildes anpassen. In diesem Beispiel erhöhen wir die Helligkeit um 50 Einheiten, Sie können diesen Wert jedoch nach Bedarf anpassen:
+ Im Inneren`using`Block können Sie nun die Helligkeit des DICOM-Bildes anpassen. In diesem Beispiel erhöhen wir die Helligkeit um 50 Einheiten, Sie können diesen Wert jedoch nach Bedarf anpassen:
 
 ```csharp
 // Passen Sie die Helligkeit an
@@ -59,7 +59,7 @@ Dieser Schritt stellt sicher, dass die Helligkeit Ihres DICOM-Bildes entsprechen
 
 ## Schritt 3: Speichern Sie das resultierende Bild
 
- Nachdem Sie die Helligkeit angepasst haben, müssen Sie das geänderte Bild unbedingt speichern. Erstellen Sie dazu eine Instanz von`BmpOptions`für das resultierende Bild und speichern Sie es als BMP-Datei:
+ Nachdem Sie die Helligkeit angepasst haben, müssen Sie das geänderte Bild unbedingt speichern. Erstellen Sie dazu eine Instanz von`BmpOptions` für das resultierende Bild und speichern Sie es als BMP-Datei:
 
 ```csharp
 // Erstellen Sie eine Instanz von BmpOptions für das resultierende Bild und speichern Sie das resultierende Bild
@@ -90,7 +90,7 @@ A1: Ja, Aspose.Imaging ist eine vielseitige Bibliothek, die von Fachleuten im Be
 
 ### F4: Wo finde ich zusätzliche Unterstützung oder Hilfe zu Aspose.Imaging?
 
- A4: Sie können Unterstützung erhalten und sich mit der Aspose.Imaging-Community verbinden[Aspose-Foren](https://forum.aspose.com/).
+A4: Sie können Unterstützung erhalten und sich mit der Aspose.Imaging-Community verbinden[Aspose-Foren](https://forum.aspose.com/).
 
 ### F5: Welche weiteren Bildbearbeitungsfunktionen bietet Aspose.Imaging?
 

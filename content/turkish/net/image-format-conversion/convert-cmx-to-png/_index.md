@@ -13,7 +13,7 @@ Görüntü işleme ve manipülasyon dünyasında Aspose.Imaging for .NET, geliş
 
 Dönüşüm sürecine dalmadan önce, yerine getirmeniz gereken birkaç şey var:
 
-- Aspose.Imaging for .NET Library: Aspose.Imaging for .NET kütüphanesinin kurulu olduğundan emin olun. Şuradan indirebilirsiniz[Burada](https://releases.aspose.com/imaging/net/).
+-  Aspose.Imaging for .NET Library: Aspose.Imaging for .NET kütüphanesinin kurulu olduğundan emin olun. Şuradan indirebilirsiniz[Burada](https://releases.aspose.com/imaging/net/).
 
 - CMX Dosyalarınız: PNG'ye dönüştürmek istediğiniz CMX dosyalarının belge dizininizde bulunması gerekir.
 
@@ -57,7 +57,7 @@ string[] fileNames = new string[] {
 };
 ```
 
- Değiştirmekten çekinmeyin`fileNames`Sahip olduğunuz CMX dosyalarını içerecek dizi.
+ Değiştirmekten çekinmeyin`fileNames` Sahip olduğunuz CMX dosyalarını içerecek dizi.
 
 ## 3. Adım: Dönüşümü Gerçekleştirin
 
@@ -110,4 +110,4 @@ Cevap4: Aspose.Imaging for .NET, kullanıcı dostu olacak şekilde tasarlanmış
 
 ### S5. Aspose.Imaging for .NET belgelerini nerede bulabilirim?
 
- C5: Belgelere şu adresten erişebilirsiniz:[Aspose.Imaging for .NET Belgeleri](https://reference.aspose.com/imaging/net/).
+ Cevap5: Belgelere şu adresten erişebilirsiniz:[Aspose.Imaging for .NET Belgeleri](https://reference.aspose.com/imaging/net/).

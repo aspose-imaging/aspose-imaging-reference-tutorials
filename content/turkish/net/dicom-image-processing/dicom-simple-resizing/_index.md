@@ -13,7 +13,7 @@ Sürekli gelişen tıbbi görüntüleme alanında, DICOM (Tıpta Dijital Görün
 
 Adım adım kılavuza geçmeden önce aşağıdaki önkoşulların mevcut olduğundan emin olun:
 
-1. Aspose.Imaging for .NET: Geliştirme ortamınızda Aspose.Imaging for .NET kütüphanesinin kurulu olması gerekir. Henüz yapmadıysanız adresinden indirebilirsiniz.[Burada](https://releases.aspose.com/imaging/net/).
+1.  Aspose.Imaging for .NET: Geliştirme ortamınızda Aspose.Imaging for .NET kütüphanesinin kurulu olması gerekir. Henüz yapmadıysanız adresinden indirebilirsiniz.[Burada](https://releases.aspose.com/imaging/net/).
 
 2. .NET Geliştirme Ortamı: C# ve .NET geliştirme ortamı hakkında çalışma bilgisi gereklidir.
 
@@ -62,7 +62,7 @@ using (var fileStream = new FileStream(dataDir + "file.dcm", FileMode.Open, File
 
 ### Adım 2.3: DICOM Görüntüsünü Yükleyin
 
- DICOM görüntüsünü şuradan yükleyin:`fileStream`. Bu, görüntüye erişmenizi ve üzerinde işlem yapmanızı sağlar.
+ DICOM görüntüsünü şuradan yükleyin:`fileStream`Bu, görüntüye erişmenizi ve üzerinde işlem yapmanızı sağlar.
 
 ```csharp
 using (DicomImage image = new DicomImage(fileStream))
@@ -113,4 +113,4 @@ Cevap4: Aspose.Imaging for .NET, .NET Core ve .NET Standard dahil olmak üzere .
 
 ### S5: Daha fazla Aspose.Imaging for .NET eğitimini nerede bulabilirim?
 
- A5: Yetkiliyi keşfedebilirsiniz[Aspose.Imaging for .NET belgeleri](https://reference.aspose.com/imaging/net/) Çok çeşitli eğitimler ve örnekler için.
+ A5: keşfedebilirsiniz[Aspose.Imaging for .NET belgeleri](https://reference.aspose.com/imaging/net/) Çok çeşitli eğitimler ve örnekler için.

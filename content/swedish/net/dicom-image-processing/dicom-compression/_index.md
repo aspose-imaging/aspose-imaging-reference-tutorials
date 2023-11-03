@@ -56,7 +56,7 @@ using (var inputImage = Image.Load(inputFile))
 
 ## Steg 2: Utför okomprimerad DICOM-komprimering
 
-I det här steget kommer vi att utföra en okomprimerad DICOM-komprimering. Här är koden för det:
+det här steget kommer vi att utföra en okomprimerad DICOM-komprimering. Här är koden för det:
 
 ```csharp
 string output1 = Path.Combine(dataDir, "original_Uncompressed.dcm");
@@ -150,4 +150,4 @@ S3: Ja, Aspose.Imaging för .NET tillhandahåller ett brett utbud av bildbehandl
 
 ### F5: Finns det en testversion av Aspose.Imaging för .NET tillgänglig för testning?
 
-A5: Ja, du kan få en[gratis testlicens](https://releases.aspose.com/) att testa Aspose.Imaging för .NET innan du gör ett köp.
+ A5: Ja, du kan få en[gratis testlicens](https://releases.aspose.com/) att testa Aspose.Imaging för .NET innan du gör ett köp.

@@ -16,7 +16,7 @@ url: /ar/net/vector-image-processing/draw-vector-image-to-raster-image/
 
 ### 1. Aspose.Imaging لـ .NET
 
- يجب أن يكون Aspose.Imaging for .NET مثبتًا لديك. إذا لم يكن لديك، يمكنك تنزيله من الموقع الرسمي على[قم بتنزيل Aspose.Imaging لـ .NET](https://releases.aspose.com/imaging/net/).
+ يجب أن يكون Aspose.Imaging for .NET مثبتًا لديك. إذا لم يكن لديك، يمكنك تنزيله من الموقع على[قم بتنزيل Aspose.Imaging لـ .NET](https://releases.aspose.com/imaging/net/).
 
 ### 2. بيئة تطوير .NET
 
@@ -100,8 +100,8 @@ using (SvgImage resultImage = graphics.EndRecording())
 ### ما هو Aspose.Imaging لـ .NET؟
 Aspose.Imaging for .NET هي مكتبة .NET توفر ميزات قوية لمعالجة الصور، بما في ذلك القدرة على العمل مع تنسيقات الصور المختلفة، وتحويل الصور، وتنفيذ مهام معالجة الصور المتقدمة.
 
-### أين يمكنني العثور على الوثائق الرسمية لـ Aspose.Imaging for .NET؟
- يمكنك العثور على الوثائق الرسمية لـ Aspose.Imaging for .NET[هنا](https://reference.aspose.com/imaging/net/).
+### أين يمكنني العثور على الوثائق الخاصة بـ Aspose.Imaging for .NET؟
+ يمكنك العثور على وثائق Aspose.Imaging لـ .NET[هنا](https://reference.aspose.com/imaging/net/).
 
 ### هل هناك نسخة تجريبية مجانية متاحة؟
  نعم، يمكنك الوصول إلى النسخة التجريبية المجانية من Aspose.Imaging for .NET[هنا](https://releases.aspose.com/).

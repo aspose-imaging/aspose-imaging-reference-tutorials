@@ -57,7 +57,7 @@ using (DicomImage image = new DicomImage(fileStream))
 
 ## Steg 2: Beskär DICOM-bilden
 
- I detta steg kommer du att anropa`Crop` metod och ange de fyra värdena för att definiera beskärningsområdet. Här,`1, 1, 1, 1`används som exempelvärden. Du bör ersätta dessa värden med de faktiska koordinater och dimensioner du vill använda för beskärning:
+ I detta steg kommer du att anropa`Crop` metod och ange de fyra värdena för att definiera beskärningsområdet. Här,`1, 1, 1, 1` används som exempelvärden. Du bör ersätta dessa värden med de faktiska koordinater och dimensioner du vill använda för beskärning:
 
 ```csharp
 image.Crop(1, 1, 1, 1);

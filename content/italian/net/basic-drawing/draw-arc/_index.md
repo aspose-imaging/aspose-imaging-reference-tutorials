@@ -63,7 +63,7 @@ In questo passaggio creiamo una nuova immagine e specifichiamo la directory in c
 ### Passaggio 2: inizializza la grafica e cancella la superficie
 
 ```csharp
-        // Crea e inizializza un'istanza della classe Graphics e cancella la superficie grafica
+        //Crea e inizializza un'istanza della classe Graphics e cancella la superficie grafica
         Graphics graphic = new Graphics(image);
         graphic.Clear(Color.Yellow);
 ```

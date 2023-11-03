@@ -2,7 +2,7 @@
 title: Создание изображений с помощью Aspose.Imaging для .NET
 linktitle: Создайте изображение с помощью Aspose.Imaging для .NET
 second_title: API обработки изображений Aspose.Imaging .NET
-description: Узнайте, как создавать изображения с помощью Aspose.Imaging для .NET, из этого подробного руководства.
+description: Узнайте, как создавать изображения с помощью Aspose.Imaging for .NET, из этого подробного руководства.
 type: docs
 weight: 10
 url: /ru/net/image-creation/create-an-image/
@@ -13,7 +13,7 @@ url: /ru/net/image-creation/create-an-image/
 
 Прежде чем приступить к созданию изображений с помощью Aspose.Imaging for .NET, убедитесь, что у вас есть следующие предварительные условия:
 
-1.  Библиотека Aspose.Imaging for .NET: убедитесь, что у вас установлена библиотека Aspose.Imaging for .NET. Вы можете скачать его с[здесь](https://releases.aspose.com/imaging/net/).
+1. Библиотека Aspose.Imaging for .NET: убедитесь, что у вас установлена библиотека Aspose.Imaging for .NET. Вы можете скачать его с[здесь](https://releases.aspose.com/imaging/net/).
 
 2. Среда разработки: вам нужна среда разработки с установленной платформой .NET.
 
@@ -54,7 +54,7 @@ ImageOptions.BitsPerPixel = 24;
 
 ## Шаг 3. Определите исходное свойство
 
- Определите исходное свойство для экземпляра`BmpOptions`. Второй логический параметр определяет, является ли файл временным или нет.
+Определите исходное свойство для экземпляра`BmpOptions`. Второй логический параметр определяет, является ли файл временным или нет.
 
 ```csharp
 ImageOptions.Source = new FileCreateSource(dataDir + "CreatingAnImageBySettingPath_out.bmp", false);

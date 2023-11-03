@@ -45,7 +45,7 @@ using (DicomImage image = new DicomImage(fileStream))
 
 ## 2. Adım: Filtreyi Uygulayın
 
- Artık DICOM görüntüsünü yüklediğinize göre filtre uygulama zamanı geldi. Bu örnek için şunu kullanacağız:`MedianFilter`. Bu filtre görüntüdeki gürültüyü azaltmaya yardımcı olur. Bunu nasıl uygulayabileceğiniz aşağıda açıklanmıştır:
+ Artık DICOM görüntüsünü yüklediğinize göre filtre uygulama zamanı geldi. Bu örnek için şunu kullanacağız:`MedianFilter`Bu filtre görüntüdeki gürültüyü azaltmaya yardımcı olur. Bunu nasıl uygulayabileceğiniz aşağıda açıklanmıştır:
 
 ```csharp
     // Filtreleri DICOM görüntüsüne sağlayın ve sonuçları çıkış yoluna kaydedin.

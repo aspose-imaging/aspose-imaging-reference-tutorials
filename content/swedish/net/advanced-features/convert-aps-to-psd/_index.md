@@ -101,4 +101,4 @@ S4: För närvarande stöder Aspose.Imaging export av inte särskilt komplexa fo
 
 ### F5: Var kan jag få support eller ställa frågor relaterade till Aspose.Imaging för .NET?
 
- S5: Om du har några frågor eller behöver support kan du besöka[Aspose.Imaging forum](https://forum.aspose.com/) för assistens.
+ S5: Om du har några frågor eller behöver support kan du besöka[Aspose.Imaging forum](https://forum.aspose.com/)för assistens.

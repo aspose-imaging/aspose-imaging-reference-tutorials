@@ -11,7 +11,7 @@ In der sich ständig weiterentwickelnden Welt der digitalen Grafik ist Kompatibi
 
 ## Voraussetzungen
 
-Bevor wir in die Welt der CDR-Formatunterstützung in Aspose.Imaging für .NET eintauchen, ist es wichtig sicherzustellen, dass Sie über alles verfügen, was Sie benötigen. Hier sind die Voraussetzungen, um loszulegen:
+Bevor wir in die Welt der CDR-Formatunterstützung in Aspose.Imaging für .NET eintauchen, ist es wichtig sicherzustellen, dass Sie über alles verfügen, was Sie brauchen. Hier sind die Voraussetzungen, um loszulegen:
 
 1. Aspose.Imaging für .NET-Bibliothek
 
@@ -48,7 +48,7 @@ using (Image image = Image.Load(inputFileName))
 
 ## Schritt 2: Überprüfen Sie das Dateiformat
 
-Es ist wichtig zu überprüfen, ob das geladene Bild im CDR-Format vorliegt. Sie können es mit dem erwarteten Dateiformat (CDR) vergleichen, indem Sie das verwenden`image.FileFormat` Eigentum. Hier ist wie:
+ Es ist wichtig zu überprüfen, ob das geladene Bild im CDR-Format vorliegt. Sie können es mit dem erwarteten Dateiformat (CDR) vergleichen, indem Sie das verwenden`image.FileFormat`Eigentum. Hier ist wie:
 
 ```csharp
 FileFormat expectedFileFormat = FileFormat.Cdr;

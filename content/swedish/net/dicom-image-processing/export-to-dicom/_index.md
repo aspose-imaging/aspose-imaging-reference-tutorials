@@ -38,7 +38,7 @@ Låt oss nu dela upp processen att exportera bilder till DICOM med Aspose.Imagin
 
 ## Steg 1: Ställ in miljön
 
- Se till att du har skapat ett .NET-projekt i din utvecklingsmiljö och lagt till Aspose.Imaging för .NET som referens. Om du inte har gjort det, se Aspose.Imaging-dokumentationen[här](https://reference.aspose.com/imaging/net/)för vägledning för att komma igång.
+ Se till att du har skapat ett .NET-projekt i din utvecklingsmiljö och lagt till Aspose.Imaging för .NET som referens. Om du inte har gjort det, se Aspose.Imaging-dokumentationen[här](https://reference.aspose.com/imaging/net/) för vägledning för att komma igång.
 
 ## Steg 2: Definiera filsökvägar
 

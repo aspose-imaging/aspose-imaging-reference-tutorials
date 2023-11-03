@@ -13,7 +13,7 @@ Görüntü işleme ve manipülasyon dünyasında etkili araçlar ve kütüphanel
 
 Eğiticiye dalmadan önce, yerine getirmeniz gereken birkaç önkoşul vardır:
 
-1. Aspose.Imaging for .NET: Aspose.Imaging for .NET kütüphanesinin kurulu olduğundan ve projenizde referans verildiğinden emin olun. adresinden indirebilirsiniz.[Aspose.Imaging for .NET sayfası](https://releases.aspose.com/imaging/net/).
+1.  Aspose.Imaging for .NET: Aspose.Imaging for .NET kütüphanesinin kurulu olduğundan ve projenizde referans verildiğinden emin olun. adresinden indirebilirsiniz.[Aspose.Imaging for .NET sayfası](https://releases.aspose.com/imaging/net/).
 
 2. DICOM Görüntüsü: İşlenmeye hazır bir DICOM görüntü dosyanız olmalıdır. Elinizde yoksa DICOM örnek görüntülerini çevrimiçi olarak bulabilir veya tıbbi görüntüleme verilerinizi kullanabilirsiniz.
 
@@ -61,7 +61,7 @@ using (DicomImage image = new DicomImage(fileStream))
 }
 ```
 
-`image.BinarizeOtsu()`yöntem, Otsu Eşiği'ni DICOM görüntüsüne uygulayarak onu etkili bir şekilde ikili hale getirir. Daha sonra ortaya çıkan görüntüyü BMP formatında kaydediyoruz.
+`image.BinarizeOtsu()` yöntem, Otsu Eşiği'ni DICOM görüntüsüne uygulayarak onu etkili bir şekilde ikili hale getirir. Daha sonra ortaya çıkan görüntüyü BMP formatında kaydediyoruz.
 
 ## Çözüm
 
@@ -81,7 +81,7 @@ A2: Kesinlikle! Aspose.Imaging for .NET çok çeşitli görüntü formatlarını
 
 ### S3: Aspose.Imaging for .NET hem temel hem de gelişmiş görüntü işleme görevlerine uygun mu?
 
-C3: Evet, Aspose.Imaging for .NET hem temel hem de gelişmiş görüntü işleme ihtiyaçlarını karşılıyor. Görüntü dönüştürme, yeniden boyutlandırma, filtreleme gibi görevlere yönelik özelliklerin yanı sıra görüntü tanıma ve geliştirme gibi gelişmiş teknikler sunar.
+C3: Evet, Aspose.Imaging for .NET hem temel hem de gelişmiş görüntü işleme ihtiyaçlarını karşılıyor. Görüntü dönüştürme, yeniden boyutlandırma, filtreleme gibi görevlere yönelik özelliklerin yanı sıra görüntü tanıma ve iyileştirme gibi gelişmiş teknikler sunar.
 
 ### S4: Aspose.Imaging for .NET için daha fazla kaynağı ve desteği nerede bulabilirim?
 

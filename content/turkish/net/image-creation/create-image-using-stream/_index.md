@@ -19,7 +19,7 @@ Görüntü oluşturma dünyasına dalmadan önce aşağıdaki önkoşullara sahi
 
 3. Temel C# Bilgisi: C# programlamaya aşinalık, kod örneklerini anlamak için faydalı olacaktır.
 
-4.  Belge Dizininiz: Değiştirin`"Your Document Directory"`resminizi kaydetmek istediğiniz gerçek dizin yolunu içeren kodda.
+4.  Belge Dizininiz: Değiştirin`"Your Document Directory"` resminizi kaydetmek istediğiniz gerçek dizin yolunu içeren kodda.
 
 Artık her şeyi ayarladığınıza göre, adım adım kılavuza geçelim.
 
@@ -95,7 +95,7 @@ Cevap1:Aspose.Imaging for .NET, BMP, JPEG, PNG, GIF ve TIFF dahil çok çeşitli
 
 ### S2: Aspose.Imaging for .NET'in ücretsiz deneme sürümü mevcut mu?
 
-C2:Evet, Aspose.Imaging for .NET'in ücretsiz deneme sürümünü şu adresten edinebilirsiniz:[Burada](https://releases.aspose.com/).
+ C2:Evet, Aspose.Imaging for .NET'in ücretsiz deneme sürümünü şu adresten edinebilirsiniz:[Burada](https://releases.aspose.com/).
 
 ### S3: Aspose.Imaging for .NET ile gelişmiş görüntü işleme gerçekleştirebilir miyim?
 

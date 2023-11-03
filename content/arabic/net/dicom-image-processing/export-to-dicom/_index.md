@@ -38,7 +38,7 @@ using Aspose.Imaging.Dicom;
 
 ## الخطوة 1: إعداد البيئة
 
- تأكد من قيامك بإنشاء مشروع .NET في بيئة التطوير الخاصة بك وإضافة Aspose.Imaging لـ .NET كمرجع. إذا لم تقم بذلك، فارجع إلى وثائق Aspose.Imaging[هنا](https://reference.aspose.com/imaging/net/)للحصول على إرشادات حول البدء.
+ تأكد من قيامك بإنشاء مشروع .NET في بيئة التطوير الخاصة بك وإضافة Aspose.Imaging لـ .NET كمرجع. إذا لم تقم بذلك، فارجع إلى وثائق Aspose.Imaging[هنا](https://reference.aspose.com/imaging/net/) للحصول على إرشادات حول البدء.
 
 ## الخطوة 2: تحديد مسارات الملفات
 

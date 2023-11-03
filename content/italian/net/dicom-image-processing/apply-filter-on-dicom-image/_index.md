@@ -45,7 +45,7 @@ using (DicomImage image = new DicomImage(fileStream))
 
 ## Passaggio 2: applica il filtro
 
- Ora che hai caricato l'immagine DICOM, è il momento di applicare un filtro. Per questo esempio utilizzeremo il file`MedianFilter`. Questo filtro aiuta a ridurre il rumore nell'immagine. Ecco come puoi applicarlo:
+ Ora che hai caricato l'immagine DICOM, è il momento di applicare un filtro. Per questo esempio utilizzeremo il file`MedianFilter`Questo filtro aiuta a ridurre il rumore nell'immagine. Ecco come puoi applicarlo:
 
 ```csharp
     // Fornire i filtri all'immagine DICOM e salvare i risultati nel percorso di output.

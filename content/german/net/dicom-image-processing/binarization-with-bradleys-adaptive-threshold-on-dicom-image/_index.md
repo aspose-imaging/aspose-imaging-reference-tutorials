@@ -21,7 +21,7 @@ Bevor wir uns mit dem Tutorial befassen, stellen wir sicher, dass Sie über alle
 
 Bereiten Sie das DICOM-Bild vor, das Sie binarisieren möchten. Sie sollten den Dateipfad zum DICOM-Bild zur Verarbeitung bereit haben.
 
-## Namensräume importieren
+## Namespaces importieren
 
 In diesem Abschnitt importieren wir die notwendigen Namespaces, um mit Aspose.Imaging für .NET zu arbeiten. Dieser Schritt ist wichtig, um alle Funktionen für Ihren Code verfügbar zu machen.
 
@@ -88,7 +88,7 @@ A2: Ja, Sie können mehrere DICOM-Bilder durchlaufen und den Binarisierungsproze
 
 ### F3: Wo finde ich weitere Dokumentation zu Aspose.Imaging für .NET?
 
- A3: Sie können die Dokumentation durchsuchen[Hier](https://reference.aspose.com/imaging/net/) Ausführliche Informationen zur Verwendung von Aspose.Imaging für .NET finden Sie.
+ A3: Sie können die Dokumentation durchsuchen[Hier](https://reference.aspose.com/imaging/net/)Ausführliche Informationen zur Verwendung von Aspose.Imaging für .NET finden Sie.
 
 ### F4: Gibt es eine Testversion für Aspose.Imaging für .NET?
 

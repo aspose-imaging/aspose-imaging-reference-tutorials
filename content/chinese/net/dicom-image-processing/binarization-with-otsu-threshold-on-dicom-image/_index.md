@@ -13,7 +13,7 @@ url: /zh/net/dicom-image-processing/binarization-with-otsu-threshold-on-dicom-im
 
 在我们深入学习本教程之前，您需要满足一些先决条件：
 
-1. Aspose.Imaging for .NET：确保您已在项目中安装并引用了 Aspose.Imaging for .NET 库。您可以从[Aspose.Imaging for .NET 页面](https://releases.aspose.com/imaging/net/).
+1.  Aspose.Imaging for .NET：确保您已在项目中安装并引用了 Aspose.Imaging for .NET 库。您可以从[Aspose.Imaging for .NET 页面](https://releases.aspose.com/imaging/net/).
 
 2. DICOM 图像：您应该有一个可供处理的 DICOM 图像文件。如果您没有，您可以在线查找 DICOM 样本图像或使用您的医学成像数据。
 

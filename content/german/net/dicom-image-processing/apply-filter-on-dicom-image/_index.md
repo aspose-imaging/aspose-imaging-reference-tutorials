@@ -45,7 +45,7 @@ using (DicomImage image = new DicomImage(fileStream))
 
 ## Schritt 2: Wenden Sie den Filter an
 
- Nachdem Sie das DICOM-Bild geladen haben, ist es an der Zeit, einen Filter anzuwenden. Für dieses Beispiel verwenden wir die`MedianFilter`. Dieser Filter trägt dazu bei, Bildrauschen zu reduzieren. So können Sie es anwenden:
+ Nachdem Sie das DICOM-Bild geladen haben, ist es an der Zeit, einen Filter anzuwenden. Für dieses Beispiel verwenden wir die`MedianFilter`Dieser Filter trägt dazu bei, Bildrauschen zu reduzieren. So können Sie es anwenden:
 
 ```csharp
     // Stellen Sie die Filter für das DICOM-Bild bereit und speichern Sie die Ergebnisse im Ausgabepfad.

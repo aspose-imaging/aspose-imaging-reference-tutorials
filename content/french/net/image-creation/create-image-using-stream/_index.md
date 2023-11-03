@@ -19,7 +19,7 @@ Avant de plonger dans le monde de la création d’images, assurez-vous d’avoi
 
 3. Connaissance de base de C# : Une connaissance de la programmation C# sera bénéfique pour comprendre les exemples de code.
 
-4.  Votre répertoire de documents : remplacer`"Your Document Directory"`dans le code avec le chemin du répertoire réel dans lequel vous souhaitez enregistrer votre image.
+4.  Votre répertoire de documents : remplacer`"Your Document Directory"` dans le code avec le chemin du répertoire réel dans lequel vous souhaitez enregistrer votre image.
 
 Maintenant que tout est configuré, passons au guide étape par étape.
 
@@ -95,7 +95,7 @@ A1 : Aspose.Imaging pour .NET prend en charge un large éventail de formats d'
 
 ### Q2 : Existe-t-il un essai gratuit disponible pour Aspose.Imaging pour .NET ?
 
-A2 : Oui, vous pouvez obtenir une version d'essai gratuite d'Aspose.Imaging pour .NET à partir de[ici](https://releases.aspose.com/).
+ A2 : Oui, vous pouvez obtenir une version d'essai gratuite d'Aspose.Imaging pour .NET à partir de[ici](https://releases.aspose.com/).
 
 ### Q3 : Puis-je effectuer un traitement d’image avancé avec Aspose.Imaging pour .NET ?
 

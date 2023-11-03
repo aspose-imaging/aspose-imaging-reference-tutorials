@@ -22,7 +22,7 @@ Bevor wir mit dem Konvertierungsprozess beginnen, stellen Sie sicher, dass die f
 
 Nachdem Sie nun alles eingerichtet haben, beginnen wir mit der Schritt-für-Schritt-Anleitung zum Konvertieren von DJVU-Seiten.
 
-## Namensräume importieren
+## Namespaces importieren
 
 Zunächst müssen Sie die notwendigen Namespaces für die Arbeit mit Aspose.Imaging importieren. Fügen Sie am Anfang Ihrer C#-Datei die folgenden Codezeilen hinzu:
 

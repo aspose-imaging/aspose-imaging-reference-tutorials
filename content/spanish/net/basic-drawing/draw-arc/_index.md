@@ -63,7 +63,7 @@ En este paso, creamos una nueva imagen y especificamos el directorio donde se gu
 ### Paso 2: Inicialice los gráficos y limpie la superficie
 
 ```csharp
-        // Cree e inicialice una instancia de la clase Graphics y borre la superficie gráfica
+        //Cree e inicialice una instancia de la clase Graphics y borre la superficie gráfica
         Graphics graphic = new Graphics(image);
         graphic.Clear(Color.Yellow);
 ```

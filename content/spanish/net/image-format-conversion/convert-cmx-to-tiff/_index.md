@@ -13,7 +13,7 @@ url: /es/net/image-format-conversion/convert-cmx-to-tiff/
 
 Antes de sumergirnos en el proceso de conversión, asegurémonos de que tiene todo lo que necesita:
 
--  Biblioteca Aspose.Imaging para .NET: Debe tener instalada la biblioteca Aspose.Imaging para .NET. Puedes descargarlo desde el sitio web oficial.[aquí](https://releases.aspose.com/imaging/net/).
+-  Biblioteca Aspose.Imaging para .NET: Debe tener instalada la biblioteca Aspose.Imaging para .NET. Puedes descargarlo desde el sitio web.[aquí](https://releases.aspose.com/imaging/net/).
 
 - Su archivo CMX: necesitará el archivo CMX que desea convertir a TIFF. Asegúrese de tenerlo disponible en su directorio de trabajo.
 
@@ -72,7 +72,7 @@ Este fragmento de código genera las opciones de rasterización de la página se
 
 ### Paso 3: crear opciones TIFF
 
-A continuación, creamos opciones TIFF, especificando el formato TIFF y las opciones de rasterización de la página.
+continuación, creamos opciones TIFF, especificando el formato TIFF y las opciones de rasterización de la página.
 
 ```csharp
 // Crear opciones TIFF
@@ -109,7 +109,7 @@ R1: Aspose.Imaging para .NET es una poderosa biblioteca .NET que proporciona una
 
 ### P2: ¿Dónde puedo encontrar la documentación de Aspose.Imaging para .NET?
 
- A2: Puedes acceder a la documentación[aquí](https://reference.aspose.com/imaging/net/)Contiene información detallada sobre el uso de las funciones de la biblioteca.
+ A2: Puedes acceder a la documentación[aquí](https://reference.aspose.com/imaging/net/). Contiene información detallada sobre el uso de las funciones de la biblioteca.
 
 ### P3: ¿Aspose.Imaging para .NET está disponible para una prueba gratuita?
 

@@ -67,7 +67,7 @@ using (ApngImage image = (ApngImage)Image.Load(Path.Combine(dataDir, "SteamEngin
 
 ### الخطوة 3: احصل على الخيارات الأصلية
 
-الآن نقوم باسترجاع الخيارات الأصلية للصورة باستخدام ملف`GetOriginalOptions` طريقة:
+ الآن نقوم باسترجاع الخيارات الأصلية للصورة باستخدام ملف`GetOriginalOptions` طريقة:
 
 ```csharp
 ApngOptions options = (ApngOptions)image.GetOriginalOptions();

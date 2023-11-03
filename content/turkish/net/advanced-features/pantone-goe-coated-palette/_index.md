@@ -87,7 +87,7 @@ Cevap1: Aspose.Imaging for .NET, .NET uygulamalarınızda görüntüler oluştur
 
 ### S4: Lisansı nasıl satın alabilirim?
 
-Cevap4: Aspose.Imaging for .NET lisansını şu adresten satın alabilirsiniz:[Aspose.Imaging Satın Alma](https://purchase.aspose.com/buy).
+ Cevap4: Aspose.Imaging for .NET lisansını şu adresten satın alabilirsiniz:[Aspose.Imaging Satın Alma](https://purchase.aspose.com/buy).
 
 ### S5: Nereden destek alabilirim veya soru sorabilirim?
 

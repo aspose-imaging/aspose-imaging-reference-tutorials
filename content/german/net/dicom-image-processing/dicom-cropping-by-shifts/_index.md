@@ -57,7 +57,7 @@ using (DicomImage image = new DicomImage(fileStream))
 
 ## Schritt 2: Schneiden Sie das DICOM-Bild zu
 
- In diesem Schritt rufen Sie die auf`Crop` Methode und geben Sie die vier Werte an, um den Zuschneidebereich zu definieren. Hier,`1, 1, 1, 1`werden als Beispielwerte verwendet. Sie sollten diese Werte durch die tatsächlichen Koordinaten und Abmessungen ersetzen, die Sie zum Zuschneiden verwenden möchten:
+ In diesem Schritt rufen Sie die auf`Crop` Methode und geben Sie die vier Werte an, um den Zuschneidebereich zu definieren. Hier,`1, 1, 1, 1` werden als Beispielwerte verwendet. Sie sollten diese Werte durch die tatsächlichen Koordinaten und Abmessungen ersetzen, die Sie zum Zuschneiden verwenden möchten:
 
 ```csharp
 image.Crop(1, 1, 1, 1);

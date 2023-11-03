@@ -81,7 +81,7 @@ image.AdjustContrast(50);
 image.Save(dataDir + "AdjustContrastDICOM_out.bmp", new BmpOptions());
 ```
 
- Ersetzen`"AdjustContrastDICOM_out.bmp"` mit dem gewünschten Namen der Ausgabedatei.
+ Ersetzen`"AdjustContrastDICOM_out.bmp"`mit dem gewünschten Namen der Ausgabedatei.
 
 ## Abschluss
 
@@ -99,7 +99,7 @@ A1: DICOM steht für Digital Imaging and Communications in Medicine. Dabei hande
 
 ### F2: Kann ich den Kontrast anderer Bildformate mit Aspose.Imaging für .NET anpassen?
 
-A2: Aspose.Imaging für .NET unterstützt hauptsächlich DICOM-Bilder. Sie können die Dokumentation auf Kompatibilität mit anderen Formaten prüfen.
+A2: Aspose.Imaging für .NET unterstützt hauptsächlich DICOM-Bilder. Sie können die Dokumentation auf Kompatibilität mit anderen Formaten überprüfen.
 
 ### F3: Ist Aspose.Imaging für .NET kostenlos?
 

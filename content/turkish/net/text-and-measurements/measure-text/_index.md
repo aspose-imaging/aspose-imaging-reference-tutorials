@@ -70,7 +70,7 @@ Daha sonra, metin ölçümü için gerekli olan bir Grafik nesnesi yaratırsın�
 
 ## Çözüm
 
-Bu eğitimde Aspose.Imaging for .NET kullanarak bir görselin içindeki metni ölçmek için gerekli adımları ele aldık. Doğru kurulumla, gerekli ad alanlarını içe aktarma ve`MeasureString` yöntemiyle resimlerinizdeki metni hassas bir şekilde ölçebilirsiniz. Bu, Aspose.Imaging for .NET'in görüntü düzenleme ihtiyaçlarınız için neler yapabileceğinin yalnızca bir örneğidir.
+ Bu eğitimde Aspose.Imaging for .NET kullanarak bir görselin içindeki metni ölçmek için gerekli adımları ele aldık. Doğru kurulumla, gerekli ad alanlarını içe aktarma ve`MeasureString`yöntemiyle resimlerinizdeki metni hassas bir şekilde ölçebilirsiniz. Bu, Aspose.Imaging for .NET'in görüntü düzenleme ihtiyaçlarınız için neler yapabileceğinin yalnızca bir örneğidir.
 
  Daha ayrıntılı rehberlik ve belgeler için şu adresi ziyaret edin:[Aspose.Imaging for .NET belgeleri](https://reference.aspose.com/imaging/net/).
 

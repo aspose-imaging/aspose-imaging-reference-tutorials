@@ -13,7 +13,7 @@ url: /ar/net/dicom-image-processing/binarization-with-otsu-threshold-on-dicom-im
 
 قبل أن نتعمق في البرنامج التعليمي، هناك بعض المتطلبات الأساسية التي يجب توفرها:
 
-1. Aspose.Imaging for .NET: تأكد من تثبيت مكتبة Aspose.Imaging for .NET والإشارة إليها في مشروعك. يمكنك تنزيله من[Aspose.Imaging لصفحة .NET](https://releases.aspose.com/imaging/net/).
+1.  Aspose.Imaging for .NET: تأكد من تثبيت مكتبة Aspose.Imaging for .NET والإشارة إليها في مشروعك. يمكنك تنزيله من[Aspose.Imaging لصفحة .NET](https://releases.aspose.com/imaging/net/).
 
 2. صورة DICOM: يجب أن يكون لديك ملف صورة DICOM جاهز للمعالجة. إذا لم يكن لديك واحدة، يمكنك العثور على نماذج صور DICOM عبر الإنترنت أو استخدام بيانات التصوير الطبي الخاصة بك.
 
@@ -61,7 +61,7 @@ using (DicomImage image = new DicomImage(fileStream))
 }
 ```
 
- ال`image.BinarizeOtsu()`تطبق الطريقة عتبة Otsu على صورة DICOM، مما يؤدي إلى ثنائيتها بشكل فعال. ثم نقوم بحفظ الصورة الناتجة بصيغة BMP.
+ ال`image.BinarizeOtsu()` تطبق الطريقة عتبة Otsu على صورة DICOM، مما يؤدي إلى ثنائيتها بشكل فعال. ثم نقوم بحفظ الصورة الناتجة بصيغة BMP.
 
 ## خاتمة
 

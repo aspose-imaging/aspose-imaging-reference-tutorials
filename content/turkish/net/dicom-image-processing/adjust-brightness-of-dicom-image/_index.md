@@ -48,7 +48,7 @@ using (DicomImage image = new DicomImage(fileStream))
 
 ## 2. Adım: Parlaklığı Ayarlayın
 
- İçinde`using` blok, artık DICOM görüntüsünün parlaklığını ayarlayabilirsiniz. Bu örnekte parlaklığı 50 birim artırıyoruz ancak bu değeri gerektiği gibi ayarlayabilirsiniz:
+ İçinde`using`blok, artık DICOM görüntüsünün parlaklığını ayarlayabilirsiniz. Bu örnekte parlaklığı 50 birim artırıyoruz ancak bu değeri gerektiği gibi ayarlayabilirsiniz:
 
 ```csharp
 // Parlaklığı ayarlayın
@@ -59,7 +59,7 @@ Bu adım, DICOM görüntünüzün parlaklığının ihtiyaçlarınıza göre de�
 
 ## 3. Adım: Ortaya Çıkan Görüntüyü Kaydedin
 
- Parlaklığı ayarladıktan sonra değiştirilen görüntüyü kaydetmeniz önemlidir. Bunu yapmak için bir örneğini oluşturun`BmpOptions`ortaya çıkan görüntü için BMP dosyası olarak kaydedin:
+ Parlaklığı ayarladıktan sonra değiştirilen görüntüyü kaydetmeniz önemlidir. Bunu yapmak için bir örneğini oluşturun`BmpOptions` ortaya çıkan görüntü için BMP dosyası olarak kaydedin:
 
 ```csharp
 // Ortaya çıkan görüntü için bir BmpOptions örneği oluşturun ve ortaya çıkan görüntüyü kaydedin
@@ -90,7 +90,7 @@ Cevap1: Evet, Aspose.Imaging, tıbbi görüntüleme alanındaki profesyoneller t
 
 ### S4: Aspose.Imaging ile ilgili ek destek veya yardımı nereden bulabilirim?
 
- Cevap4: Aspose.Imaging topluluğuyla destek alabilir ve bağlantı kurabilirsiniz.[forumlar](https://forum.aspose.com/).
+Cevap4: Aspose.Imaging topluluğuyla destek alabilir ve bağlantı kurabilirsiniz.[forumlar](https://forum.aspose.com/).
 
 ### S5: Aspose.Imaging başka hangi görüntü işleme özelliklerini sunuyor?
 

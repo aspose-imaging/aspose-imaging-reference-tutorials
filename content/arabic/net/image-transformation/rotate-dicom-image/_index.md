@@ -19,7 +19,7 @@ url: /ar/net/image-transformation/rotate-dicom-image/
 
 1. إعداد البيئة: تأكد من أن لديك بيئة تطوير عمل مع تثبيت Visual Studio و.NET Framework.
 
-2.  Aspose.Imaging for .NET Library: قم بتنزيل Aspose.Imaging for .NET وتثبيته من[رابط التحميل](https://releases.aspose.com/imaging/net/).
+2. Aspose.Imaging for .NET Library: قم بتنزيل Aspose.Imaging for .NET وتثبيته من[رابط التحميل](https://releases.aspose.com/imaging/net/).
 
 3. صورة DICOM: ستحتاج إلى ملف صورة DICOM للعمل معه. إذا لم يكن لديك واحدة، يمكنك العثور على نماذج لصور DICOM عبر الإنترنت أو استخدام صورك الخاصة.
 

@@ -13,7 +13,7 @@ Im heutigen digitalen Zeitalter ist das Erstellen und Bearbeiten von Bildern ein
 
 Bevor Sie mit der Erstellung von Bildern mit Aspose.Imaging für .NET beginnen, stellen Sie sicher, dass die folgenden Voraussetzungen erfüllt sind:
 
-1.  Aspose.Imaging for .NET-Bibliothek: Stellen Sie sicher, dass Sie die Aspose.Imaging for .NET-Bibliothek installiert haben. Sie können es herunterladen unter[Hier](https://releases.aspose.com/imaging/net/).
+1. Aspose.Imaging for .NET-Bibliothek: Stellen Sie sicher, dass Sie die Aspose.Imaging for .NET-Bibliothek installiert haben. Sie können es herunterladen unter[Hier](https://releases.aspose.com/imaging/net/).
 
 2. Entwicklungsumgebung: Sie benötigen eine Entwicklungsumgebung mit installiertem .NET Framework.
 
@@ -54,7 +54,7 @@ ImageOptions.BitsPerPixel = 24;
 
 ## Schritt 3: Definieren Sie die Quelleigenschaft
 
- Definieren Sie die Quelleigenschaft für die Instanz von`BmpOptions`. Der zweite boolesche Parameter bestimmt, ob die Datei temporal ist oder nicht.
+Definieren Sie die Quelleigenschaft für die Instanz von`BmpOptions`. Der zweite boolesche Parameter bestimmt, ob die Datei temporal ist oder nicht.
 
 ```csharp
 ImageOptions.Source = new FileCreateSource(dataDir + "CreatingAnImageBySettingPath_out.bmp", false);

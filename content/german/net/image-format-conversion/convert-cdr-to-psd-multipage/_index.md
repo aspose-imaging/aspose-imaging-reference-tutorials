@@ -13,7 +13,7 @@ Möchten Sie CorelDRAW-Dateien (CDR) mit Aspose.Imaging für .NET in das Photosh
 
 Bevor wir mit dem Konvertierungsprozess beginnen, stellen Sie sicher, dass die folgenden Voraussetzungen erfüllt sind:
 
-1.  Aspose.Imaging für .NET: Stellen Sie sicher, dass Aspose.Imaging für .NET in Ihrer Entwicklungsumgebung installiert und eingerichtet ist. Sie können es von der offiziellen Website unter herunterladen[Laden Sie Aspose.Imaging für .NET herunter](https://releases.aspose.com/imaging/net/).
+1.  Aspose.Imaging für .NET: Stellen Sie sicher, dass Aspose.Imaging für .NET in Ihrer Entwicklungsumgebung installiert und eingerichtet ist. Sie können es von der Website unter herunterladen[Laden Sie Aspose.Imaging für .NET herunter](https://releases.aspose.com/imaging/net/).
 
 2. Beispiel-CDR-Datei: Sie benötigen eine Beispiel-CDR-Datei, die Sie in das mehrseitige PSD-Format konvertieren möchten. Stellen Sie sicher, dass Sie für dieses Tutorial eine CDR-Datei bereit haben.
 
@@ -108,7 +108,7 @@ A1: Aspose.Imaging für .NET ist eine leistungsstarke Bibliothek für die Arbeit
 
 ### F2: Kann ich Aspose.Imaging kostenlos nutzen?
 
-A2: Aspose.Imaging bietet eine kostenlose Testversion, mit der Sie die Funktionen testen können. Für eine langfristige Nutzung und den Zugriff auf alle Funktionalitäten können Sie bei uns eine Lizenz erwerben[Aspose.Imaging-Kauf](https://purchase.aspose.com/buy).
+ A2: Aspose.Imaging bietet eine kostenlose Testversion, mit der Sie die Funktionen testen können. Für eine langfristige Nutzung und den Zugriff auf alle Funktionalitäten können Sie bei uns eine Lizenz erwerben[Aspose.Imaging-Kauf](https://purchase.aspose.com/buy).
 
 ### F3: Ist Aspose.Imaging für .NET für Stapelkonvertierungen geeignet?
 

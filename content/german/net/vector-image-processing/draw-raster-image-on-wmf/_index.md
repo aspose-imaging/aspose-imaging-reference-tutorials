@@ -95,7 +95,7 @@ using (WmfImage resultImage = graphics.EndRecording())
 
 In dieser Schritt-für-Schritt-Anleitung haben wir untersucht, wie Sie mit Aspose.Imaging für .NET ein Rasterbild in ein WMF-Dokument zeichnen. Mit dieser Funktionalität können Sie Vektor- und Rasterbilder kombinieren, was endlose Möglichkeiten für kreative Projekte eröffnet.
 
-Denken Sie daran, die Aspose.Imaging for .NET-Bibliothek von der offiziellen Website zu beziehen und sicherzustellen, dass Sie über die erforderlichen Bilddateien für Ihr Projekt verfügen. Mit diesen Schritten und den bereitgestellten Codeausschnitten können Sie Bildzeichnungen nahtlos in Ihre .NET-Anwendungen integrieren.
+Denken Sie daran, die Aspose.Imaging for .NET-Bibliothek von der Website zu beziehen und sicherzustellen, dass Sie über die erforderlichen Bilddateien für Ihr Projekt verfügen. Mit diesen Schritten und den bereitgestellten Codeausschnitten können Sie Bildzeichnungen nahtlos in Ihre .NET-Anwendungen integrieren.
 
 ### Häufig gestellte Fragen
 
@@ -112,7 +112,7 @@ Denken Sie daran, die Aspose.Imaging for .NET-Bibliothek von der offiziellen Web
    - Aspose.Imaging für .NET bietet zahlreiche Funktionen zum Hinzufügen von Text und Formen zu WMF-Dokumenten. Ausführliche Beispiele finden Sie in der Dokumentation.
 
 ### Wo finde ich Unterstützung und zusätzliche Ressourcen für Aspose.Imaging für .NET?
-   - Eine ausführliche Dokumentation und Hilfe von der Aspose.Imaging-Community finden Sie unter[Aspose.Imaging-Supportforum](https://forum.aspose.com/).
+   -  Eine ausführliche Dokumentation und Hilfe von der Aspose.Imaging-Community finden Sie unter[Aspose.Imaging-Supportforum](https://forum.aspose.com/).
 
 
 Jetzt verfügen Sie über das Wissen, Bildzeichnungen mithilfe von Aspose.Imaging für .NET nahtlos in Ihre .NET-Anwendungen zu integrieren. Diese kreative Fähigkeit öffnet die Tür zu einer Welt voller Möglichkeiten, Ihre Projekte mit Bildüberlagerungen zu verbessern. Wenn Sie Fragen haben oder weitere Hilfe benötigen, wenden Sie sich bitte an die Aspose.Imaging-Community im Support-Forum. Viel Spaß beim Codieren!

@@ -150,4 +150,4 @@ Cevap3: Evet, Aspose.Imaging for .NET, belirli gereksinimleri karşılamak için
 
 ### S5: Aspose.Imaging for .NET'in deneme sürümü mevcut mu?
 
-A5: Evet, alabilirsiniz[ücretsiz deneme lisansı](https://releases.aspose.com/) Satın almadan önce Aspose.Imaging for .NET'i test etmek için.
+ A5: Evet, alabilirsiniz[ücretsiz deneme lisansı](https://releases.aspose.com/) Satın almadan önce Aspose.Imaging for .NET'i test etmek için.

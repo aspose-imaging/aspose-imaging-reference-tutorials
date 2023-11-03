@@ -48,7 +48,7 @@ using (SvgImage canvasImage = (SvgImage)Image.Load(dataDir + "asposenet_220_src0
 
 ## 3. Adım: SVG Görüntüsünde Çizim Yapma
 
- Artık mevcut SVG görüntüsü üzerinde çizim yapmaya başlayabilirsiniz. Bunu yapmak için bir örneğini oluşturmanız gerekir.`SvgGraphics2D`:
+Artık mevcut SVG görüntüsü üzerinde çizim yapmaya başlayabilirsiniz. Bunu yapmak için bir örneğini oluşturmanız gerekir.`SvgGraphics2D`:
 
 ```csharp
 SvgGraphics2D graphics = new SvgGraphics2D(canvasImage);

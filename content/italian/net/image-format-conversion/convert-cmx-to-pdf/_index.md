@@ -88,7 +88,7 @@ Una volta completata la conversione, questo passaggio elimina il file PDF tempor
 
 ## Conclusione
 
- Aspose.Imaging per .NET è uno strumento robusto che semplifica il processo di conversione dei file CMX in PDF. Con questi semplici passaggi, puoi ottenere questa conversione senza sforzo. Assicurati di esplorare il[documentazione](https://reference.aspose.com/imaging/net/) per funzionalità e opzioni più avanzate.
+Aspose.Imaging per .NET è uno strumento robusto che semplifica il processo di conversione dei file CMX in PDF. Con questi semplici passaggi, puoi ottenere questa conversione senza sforzo. Assicurati di esplorare il[documentazione](https://reference.aspose.com/imaging/net/) per funzionalità e opzioni più avanzate.
 
 ## Domande frequenti
 
@@ -110,4 +110,4 @@ R4: Aspose.Imaging per .NET supporta un'ampia gamma di formati di immagine, tra 
 
 ### Q5: Esiste una comunità di supporto per Aspose.Imaging per .NET?
 
- R5: Sì, puoi trovare supporto e interagire con la community su Aspose.Imaging per .NET[Forum](https://forum.aspose.com/).
+R5: Sì, puoi trovare supporto e interagire con la community su Aspose.Imaging per .NET[Forum](https://forum.aspose.com/).

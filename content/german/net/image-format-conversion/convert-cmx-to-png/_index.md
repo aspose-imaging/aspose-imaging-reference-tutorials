@@ -13,7 +13,7 @@ In der Welt der Bildverarbeitung und -manipulation ist Aspose.Imaging für .NET 
 
 Bevor wir uns mit dem Konvertierungsprozess befassen, müssen Sie einige Dinge erledigen:
 
-- Aspose.Imaging for .NET-Bibliothek: Stellen Sie sicher, dass die Aspose.Imaging for .NET-Bibliothek installiert ist. Sie können es herunterladen unter[Hier](https://releases.aspose.com/imaging/net/).
+-  Aspose.Imaging for .NET-Bibliothek: Stellen Sie sicher, dass die Aspose.Imaging for .NET-Bibliothek installiert ist. Sie können es herunterladen unter[Hier](https://releases.aspose.com/imaging/net/).
 
 - Ihre CMX-Dateien: Sie sollten die CMX-Dateien, die Sie in PNG konvertieren möchten, in Ihrem Dokumentverzeichnis haben.
 
@@ -57,7 +57,7 @@ string[] fileNames = new string[] {
 };
 ```
 
- Fühlen Sie sich frei, das zu ändern`fileNames`Array, um die CMX-Dateien einzuschließen, die Sie haben.
+ Fühlen Sie sich frei, das zu ändern`fileNames` Array, um die CMX-Dateien einzuschließen, die Sie haben.
 
 ## Schritt 3: Führen Sie die Konvertierung durch
 

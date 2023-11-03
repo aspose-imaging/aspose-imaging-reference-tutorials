@@ -17,7 +17,7 @@ Antes de sumergirnos en la guía paso a paso, asegúrese de cumplir con los sigu
 
 2.  Aspose.Imaging para .NET: asegúrese de haber instalado la biblioteca Aspose.Imaging para .NET. Puedes descargarlo desde el sitio web en[Descargar Aspose.Imaging para .NET](https://releases.aspose.com/imaging/net/).
 
-3. Conocimientos básicos de C#: La familiaridad con la programación en C# será beneficiosa, ya que este tutorial supone que tienes un conocimiento fundamental del lenguaje.
+3. Conocimientos básicos de C#: la familiaridad con la programación en C# será beneficiosa, ya que este tutorial supone que tienes un conocimiento fundamental del lenguaje.
 
 ## Importar espacios de nombres
 

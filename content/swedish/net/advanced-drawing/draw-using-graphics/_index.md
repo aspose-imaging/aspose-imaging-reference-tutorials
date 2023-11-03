@@ -7,7 +7,7 @@ type: docs
 weight: 10
 url: /sv/net/advanced-drawing/draw-using-graphics/
 ---
-en värld av bildbehandling och manipulation utmärker sig Aspose.Imaging för .NET som ett kraftfullt verktyg som låter dig skapa, redigera och förbättra bilder. Denna handledning guidar dig genom processen att rita med hjälp av Graphics i Aspose.Imaging för .NET. Vi delar upp varje exempel i flera steg, så att du förstår varje aspekt av processen.
+I en värld av bildbehandling och manipulation utmärker sig Aspose.Imaging för .NET som ett kraftfullt verktyg som låter dig skapa, redigera och förbättra bilder. Denna handledning guidar dig genom processen att rita med hjälp av Graphics i Aspose.Imaging för .NET. Vi delar upp varje exempel i flera steg, så att du förstår varje aspekt av processen.
 
 ## Förutsättningar
 
@@ -66,7 +66,7 @@ public static void Run()
 }
 ```
 
-I det här steget initierar vi Aspose.Imaging-miljön, anger bildalternativ och skapar en ny bildduk med måtten 500x500.
+det här steget initierar vi Aspose.Imaging-miljön, anger bildalternativ och skapar en ny bildduk med måtten 500x500.
 
 ### Steg 3: Rensa bildytan
 
@@ -106,7 +106,7 @@ Och det är allt! Du har framgångsrikt skapat och ritat på en bild med Aspose.
 
 I den här handledningen utforskade vi grunderna för att rita med grafik i Aspose.Imaging för .NET. Med rätt verktyg och kunskap kan du släppa loss din kreativitet i bildmanipulation och skapande.
 
- Om du stöter på några problem eller har frågor, besök gärna[Aspose.Imaging supportforum](https://forum.aspose.com/) för assistens.
+ Om du stöter på några problem eller har frågor, besök gärna[Aspose.Imaging supportforum](https://forum.aspose.com/)för assistens.
 
 ## FAQ's
 

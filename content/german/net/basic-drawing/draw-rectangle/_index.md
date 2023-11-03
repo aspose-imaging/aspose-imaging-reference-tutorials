@@ -19,7 +19,7 @@ Stellen Sie vor Beginn sicher, dass die folgenden Voraussetzungen erfüllt sind:
 
 Beginnen wir nun mit der Schritt-für-Schritt-Anleitung.
 
-## Namensräume importieren
+## Namespaces importieren
 
 Der erste Schritt besteht darin, die notwendigen Namespaces zu importieren, um mit Aspose.Imaging für .NET zu arbeiten. So machen Sie es:
 

@@ -13,7 +13,7 @@ I dagens digitala tidsålder är att skapa och manipulera bilder ett vanligt kra
 
 Innan du börjar skapa bilder med Aspose.Imaging för .NET, se till att du har följande förutsättningar:
 
-1.  Aspose.Imaging for .NET Library: Se till att du har Aspose.Imaging for .NET-biblioteket installerat. Du kan ladda ner den från[här](https://releases.aspose.com/imaging/net/).
+1. Aspose.Imaging for .NET Library: Se till att du har Aspose.Imaging for .NET-biblioteket installerat. Du kan ladda ner den från[här](https://releases.aspose.com/imaging/net/).
 
 2. Utvecklingsmiljö: Du behöver en utvecklingsmiljö med .NET-ramverket installerat.
 
@@ -54,7 +54,7 @@ ImageOptions.BitsPerPixel = 24;
 
 ## Steg 3: Definiera källegenskapen
 
- Definiera källegenskapen för instansen av`BmpOptions`. Den andra booleska parametern avgör om filen är temporär eller inte.
+Definiera källegenskapen för instansen av`BmpOptions`. Den andra booleska parametern avgör om filen är temporär eller inte.
 
 ```csharp
 ImageOptions.Source = new FileCreateSource(dataDir + "CreatingAnImageBySettingPath_out.bmp", false);

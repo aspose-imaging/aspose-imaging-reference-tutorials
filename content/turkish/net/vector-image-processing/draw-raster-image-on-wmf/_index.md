@@ -95,7 +95,7 @@ using (WmfImage resultImage = graphics.EndRecording())
 
 Bu adım adım kılavuzda, Aspose.Imaging for .NET kullanarak bir WMF belgesi üzerinde taramalı görüntünün nasıl çizileceğini araştırdık. Bu işlevsellik, vektör ve raster görüntüleri birleştirmenize olanak tanıyarak yaratıcı projeler için sonsuz olasılıkların önünü açar.
 
-Aspose.Imaging for .NET kütüphanesini resmi web sitesinden almayı unutmayın ve projeniz için gerekli görüntü dosyalarının hazır olduğundan emin olun. Bu adımlar ve sağlanan kod parçacıklarıyla görüntü çizimini .NET uygulamalarınıza sorunsuz bir şekilde entegre edebilirsiniz.
+Aspose.Imaging for .NET kütüphanesini web sitesinden almayı unutmayın ve projeniz için gerekli görüntü dosyalarının hazır olduğundan emin olun. Bu adımlar ve sağlanan kod parçacıklarıyla görüntü çizimini .NET uygulamalarınıza sorunsuz bir şekilde entegre edebilirsiniz.
 
 ### Sıkça Sorulan Sorular
 
@@ -112,7 +112,7 @@ Aspose.Imaging for .NET kütüphanesini resmi web sitesinden almayı unutmayın 
    - Aspose.Imaging for .NET, WMF belgelerine metin ve şekil eklemek için geniş bir işlevsellik yelpazesi sunar. Ayrıntılı örnekler için belgelere başvurabilirsiniz.
 
 ### Aspose.Imaging for .NET için desteği ve ek kaynakları nerede bulabilirim?
-   - Aspose.Imaging topluluğundan kapsamlı belgeler bulabilir ve yardım isteyebilirsiniz.[Aspose.Imaging destek forumu](https://forum.aspose.com/).
+   -  Aspose.Imaging topluluğundan kapsamlı belgeler bulabilir ve yardım isteyebilirsiniz.[Aspose.Imaging destek forumu](https://forum.aspose.com/).
 
 
 Artık Aspose.Imaging for .NET'i kullanarak görüntü çizimini .NET uygulamalarınıza sorunsuz bir şekilde entegre etme bilgisine sahipsiniz. Bu yaratıcı yetenek, projelerinizi görüntü katmanlarıyla zenginleştirmenize yönelik olasılıklar dünyasının kapısını açar. Herhangi bir sorunuz varsa veya daha fazla yardıma ihtiyacınız varsa destek forumunda Aspose.Imaging topluluğuna ulaşmaktan çekinmeyin. Mutlu kodlama!
