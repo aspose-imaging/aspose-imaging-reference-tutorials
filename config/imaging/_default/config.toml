@@ -176,7 +176,7 @@ footer_about_disable = false
 
 [minify]
   disableCSS = false
-  disableimaging = false
+  disableHTML = false
   disableJS = false
   disableJSON = false
   disableSVG = false
