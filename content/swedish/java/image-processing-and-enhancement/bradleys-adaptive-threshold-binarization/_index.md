@@ -7,7 +7,7 @@ type: docs
 weight: 27
 url: /sv/java/image-processing-and-enhancement/bradleys-adaptive-threshold-binarization/
 ---
-Bilder spelar en avgörande roll i den digitala världen, oavsett om det är på webbplatser, i dokument eller som en del av olika applikationer. Bildbehandling är en viktig uppgift i dessa domäner, och en av de grundläggande operationerna är bildbinarisering. Binarisering förenklar en bild genom att konvertera den till en binär form, vilket gör det lättare för datorer att bearbeta. Aspose.Imaging för Java är ett kraftfullt verktyg som tillhandahåller ett brett utbud av bildmanipuleringsfunktioner, och i denna handledning kommer vi att utforska hur man utför bildbinarisering med Aspose.Imagings Bradleys Adaptive Threshold Binarization. 
+Bilder spelar en avgörande roll i den digitala världen, oavsett om det är på webbplatser, i dokument eller som en del av olika applikationer. Bildbehandling är en viktig uppgift i dessa domäner, och en av de grundläggande operationerna är bildbinarisering. Binarisering förenklar en bild genom att konvertera den till en binär form, vilket gör det lättare för datorer att bearbeta. Aspose.Imaging för Java är ett kraftfullt verktyg som ger ett brett utbud av bildmanipuleringsfunktioner, och i denna handledning kommer vi att utforska hur man utför bildbinarisering med Aspose.Imagings Bradleys Adaptive Threshold Binarization. 
 
 ## Förutsättningar
 

@@ -67,7 +67,7 @@ El código anterior guarda la imagen DICOM filtrada como un archivo BMP con la r
 
 ## Conclusión
 
-¡Felicidades! Ha aplicado con éxito un filtro a una imagen DICOM usando Aspose.Imaging para .NET. Esta es sólo una de las muchas tareas de procesamiento de imágenes que puede realizar con esta poderosa biblioteca. Siéntase libre de explorar más opciones de filtro y experimentar con diferentes configuraciones para lograr los resultados deseados.
+¡Felicidades! Ha aplicado con éxito un filtro a una imagen DICOM usando Aspose.Imaging para .NET. Esta es sólo una de las muchas tareas de procesamiento de imágenes que puede realizar con esta potente biblioteca. Siéntase libre de explorar más opciones de filtro y experimentar con diferentes configuraciones para lograr los resultados deseados.
 
 ## Preguntas frecuentes
 

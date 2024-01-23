@@ -76,7 +76,7 @@ Après avoir créé une image, vous devez effacer la surface de l'image. Dans ce
 graphics.Clear(Color.White);
 ```
 
-### Étape 4 : définir un stylo et dessiner des formes
+### Étape 4 : Définir un stylo et dessiner des formes
 
 Ensuite, définissez un stylo avec une couleur spécifique, puis dessinez des formes à l'aide de Graphiques. Dans cet exemple, nous dessinons une ellipse et un polygone :
 

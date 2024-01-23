@@ -61,7 +61,7 @@ Det här steget innebär att initiera PDF-exportalternativen och ställa in PDF-
 
 ```csharp
 // Skapa en instans av IntRange och initiera den med utbudet av DjVu-sidor som ska exporteras
-IntRange range = new IntRange(0, 5); // Exportera första 5 sidorna
+IntRange range = new IntRange(0, 5); // Exportera de första 5 sidorna
 ```
 
 Ange intervallet för DJVU-sidor du vill exportera till PDF. I det här exemplet exporterar vi de första 5 sidorna. Justera intervallet efter behov.

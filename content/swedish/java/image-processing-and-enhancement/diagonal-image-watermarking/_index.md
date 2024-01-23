@@ -18,7 +18,7 @@ Innan vi dyker in i den spännande världen av bildvattenmärkning behöver du n
 
 2. Java-utvecklingsmiljö: Du bör ha en fungerande Java-utvecklingsmiljö inställd på din dator.
 
-3. En bild till vattenstämpel: Förbered bilden du vill vattenstämpla och lagra den i en katalog. Du kan använda en exempelbild för denna handledning.
+3. En bild till vattenstämpel: Förbered bilden du vill vattenstämpla och lagra den i en katalog. Du kan använda en exempelbild för den här handledningen.
 
 ## Importera paket
 

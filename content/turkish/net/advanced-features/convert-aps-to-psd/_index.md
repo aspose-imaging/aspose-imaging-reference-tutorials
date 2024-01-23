@@ -43,7 +43,7 @@ using (Image image = Image.Load(inputFileName))
 }
 ```
 
-## 2. Adım: Dönüşüm Seçeneklerini Yapılandırın
+## Adım 2: Dönüşüm Seçeneklerini Yapılandırın
 
 Bu adımda APS dosyasını PSD formatına aktarmak için dönüştürme seçeneklerini ayarlamanız gerekir. Aspose.Imaging, vektör görüntü dönüştürme için çeşitli seçenekler sunar.
 

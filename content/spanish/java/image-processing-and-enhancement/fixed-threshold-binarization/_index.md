@@ -106,7 +106,7 @@ R1: La binarización es un proceso de convertir una imagen en escala de grises e
 
 ### P2: ¿Puedo utilizar Aspose.Imaging para Java de forma gratuita?
 
- R2: Aspose.Imaging ofrece una versión de prueba gratuita que puede utilizar para la evaluación. Sin embargo, para una funcionalidad completa y uso comercial, deberá adquirir una licencia de[aquí](https://purchase.aspose.com/buy).
+ R2: Aspose.Imaging ofrece una versión de prueba gratuita que puede utilizar para la evaluación. Sin embargo, para una funcionalidad completa y un uso comercial, deberá adquirir una licencia de[aquí](https://purchase.aspose.com/buy).
 
 ### P3: ¿Existen bibliotecas alternativas para el procesamiento de imágenes en Java?
 

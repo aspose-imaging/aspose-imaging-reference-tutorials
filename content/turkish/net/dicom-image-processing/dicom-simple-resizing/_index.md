@@ -51,7 +51,7 @@ string dataDir = "Your Document Directory";
 
 ### Adım 2.2: DICOM Dosyasını Açın
 
- Daha sonra, DICOM dosyasını bir kullanarak açın.`FileStream` . Değiştirdiğinizden emin olun`"file.dcm"` DICOM dosyanızın adıyla birlikte.
+ Daha sonra, bir kullanarak DICOM dosyasını açın.`FileStream` . Değiştirdiğinizden emin olun`"file.dcm"` DICOM dosyanızın adıyla birlikte.
 
 ```csharp
 using (var fileStream = new FileStream(dataDir + "file.dcm", FileMode.Open, FileAccess.Read))

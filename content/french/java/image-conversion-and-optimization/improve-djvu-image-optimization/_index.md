@@ -84,7 +84,7 @@ Dans ce didacticiel, nous avons exploré le processus d'amélioration de l'optim
 
 ### Q1 : Puis-je utiliser Aspose.Imaging pour Java avec d’autres formats d’image ?
 
-A1 : Oui, Aspose.Imaging pour Java prend en charge divers formats d'image, notamment JPEG, PNG, TIFF, etc. Vous pouvez vous référer à la documentation pour une liste complète des formats pris en charge.
+R1 : Oui, Aspose.Imaging pour Java prend en charge divers formats d'image, notamment JPEG, PNG, TIFF, etc. Vous pouvez vous référer à la documentation pour une liste complète des formats pris en charge.
 
 ### Q2 : Aspose.Imaging pour Java est-il adapté au traitement d'images à grande échelle ?
 

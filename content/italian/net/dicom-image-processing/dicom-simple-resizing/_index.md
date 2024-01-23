@@ -35,7 +35,7 @@ using Aspose.Imaging.FileFormats.Dicom;
 using Aspose.Imaging.ImageOptions;
 ```
 
-Importando questi spazi dei nomi, ottieni l'accesso alle funzionalità necessarie per l'elaborazione delle immagini DICOM.
+Importando questi spazi dei nomi, ottieni l'accesso alle funzionalità richieste per l'elaborazione delle immagini DICOM.
 
 ## Passaggio 2: ridimensionamento dell'immagine DICOM
 

@@ -18,7 +18,7 @@ Los tutoriales de Aspose.Imaging para .NET brindan una experiencia de aprendizaj
 
 Estos son enlaces a algunos recursos útiles:
  
-- [Composición de imagen](./net/image-composition/)
+- [Composición de la imagen](./net/image-composition/)
 - [Creación de imágenes](./net/image-creation/)
 - [Dibujo Básico](./net/basic-drawing/)
 - [Dibujo avanzado](./net/advanced-drawing/)

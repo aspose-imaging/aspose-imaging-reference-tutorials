@@ -40,7 +40,7 @@ import com.aspose.imaging.loadoptions.LoadOptions;
 import java.nio.file.Path;
 ```
 
-Убедитесь, что эти операторы импорта находятся в начале вашего файла кода Java.
+Убедитесь, что эти операторы импорта находятся в начале файла кода Java.
 
 Мы шаг за шагом оптимизируем изображения DJVU с помощью Aspose.Imaging for Java:
 

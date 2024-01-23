@@ -41,7 +41,7 @@ String dataDir = "Your Document Directory" + "ConvertingImages/";
 try (SvgImage image = (SvgImage) Image.load(dataDir + "your-image.Svg")) {
 ```
 
-确保更换`"Your Document Directory"`与您的实际文档目录的路径和`"your-image.Svg"`与您的 SVG 图像文件的名称。
+确保您更换`"Your Document Directory"`与您的实际文档目录的路径和`"your-image.Svg"`与您的 SVG 图像文件的名称。
 
 ## 第 2 步：创建 PNG 选项
 接下来，您需要创建一个用于转换的 PNG 选项实例。

@@ -98,7 +98,7 @@ In questo tutorial, abbiamo dimostrato come convertire immagini vettoriali in im
 ### Domande frequenti
 
 ### Cos'è Aspose.Imaging per .NET?
-Aspose.Imaging per .NET è una libreria .NET che fornisce potenti funzionalità di elaborazione delle immagini, inclusa la capacità di lavorare con vari formati di immagine, convertire immagini ed eseguire attività avanzate di manipolazione delle immagini.
+Aspose.Imaging per .NET è una libreria .NET che fornisce potenti funzionalità di elaborazione delle immagini, inclusa la possibilità di lavorare con vari formati di immagine, convertire immagini ed eseguire attività avanzate di manipolazione delle immagini.
 
 ### Dove posso trovare la documentazione per Aspose.Imaging per .NET?
  È possibile trovare la documentazione per Aspose.Imaging per .NET[Qui](https://reference.aspose.com/imaging/net/).

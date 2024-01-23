@@ -59,7 +59,7 @@ try (Image image = Image.load(dataDir + "your-image.jpg"))
 
 ## Paso 4: aplique el filtro Wiener
 
- Aplique el filtro Wiener a la`RasterImage` objeto utilizando las opciones definidas.
+ Aplique el filtro Wiener a la`RasterImage` objeto usando las opciones definidas.
 
 ```java
     // Aplique el filtro Gauss Wiener al objeto RasterImage.

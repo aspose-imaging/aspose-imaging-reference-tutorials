@@ -65,7 +65,7 @@ Da Sie nun wissen, wie Sie SVG-Bilder mit Aspose.Imaging für Java in das Raster
 
 ## Abschluss
 
-In diesem Tutorial haben wir untersucht, wie Sie Aspose.Imaging für Java verwenden, um SVG-Bilder in das Rasterformat zu konvertieren. Wenn Sie die in dieser Anleitung beschriebenen Schritte befolgen, können Sie diese Aufgabe problemlos bewältigen. Aspose.Imaging vereinfacht den Prozess und ermöglicht Entwicklern die nahtlose Arbeit mit verschiedenen Bildformaten.
+In diesem Tutorial haben wir untersucht, wie Sie Aspose.Imaging für Java verwenden, um SVG-Bilder in das Rasterformat zu konvertieren. Wenn Sie die in dieser Anleitung beschriebenen Schritte befolgen, können Sie diese Aufgabe problemlos erledigen. Aspose.Imaging vereinfacht den Prozess und ermöglicht Entwicklern die nahtlose Arbeit mit verschiedenen Bildformaten.
 
 Haben Sie versucht, SVG-Bilder mit Aspose.Imaging für Java in Rasterformate zu konvertieren? Teilen Sie Ihre Erfahrungen mit uns in den Kommentaren unten!
 

@@ -51,7 +51,7 @@ using (CmxImage image = (CmxImage)Image.Load(inputFile))
 
 在此步骤中，您指定要转换的 CMX 文件的路径。您使用`Image.Load`方法来加载CMX图像。
 
-## 步骤 2：配置 PDF 选项
+## 第 2 步：配置 PDF 选项
 
 ```csharp
 PdfOptions options = new PdfOptions();

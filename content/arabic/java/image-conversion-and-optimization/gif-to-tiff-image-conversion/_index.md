@@ -114,7 +114,7 @@ gifBlock.save("Your Document Directory" + "asposelogo" + i + "_out.tif", objTiff
 
 
 
-## استكمال كود المصدر
+## كود المصدر الكامل
 ```java
 		
 String dataDir = "Your Document Directory" + "ConvertingImages/";

@@ -88,7 +88,7 @@ R2: Sí, Aspose.Imaging para .NET admite el procesamiento por lotes. Puede recor
 
 ### P3: ¿Existe alguna limitación en el proceso de conversión de DICOM a PNG?
 
-R3: Las limitaciones, si las hay, dependerán del archivo DICOM en sí y de las opciones PNG que elija. Aspose.Imaging para .NET proporciona flexibilidad para manejar varios escenarios, pero los detalles pueden variar.
+R3: Las limitaciones, si las hubiera, dependerán del archivo DICOM en sí y de las opciones PNG que elija. Aspose.Imaging para .NET proporciona flexibilidad para manejar varios escenarios, pero los detalles pueden variar.
 
 ### P4: ¿Cómo manejo los errores durante el proceso de conversión?
 

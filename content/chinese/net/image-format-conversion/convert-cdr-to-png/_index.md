@@ -25,7 +25,7 @@ url: /zh/net/image-format-conversion/convert-cdr-to-png/
 
 ## 第 1 步：导入命名空间
 
-第一步是导入必要的命名空间。命名空间就像容器，保存您将在整个项目中使用的类和方法。在您的 C# 文件中，添加以下命名空间：
+第一步是导入必要的名称空间。命名空间就像容器，保存您将在整个项目中使用的类和方法。在您的 C# 文件中，添加以下命名空间：
 
 ```csharp
 using Aspose.Imaging;

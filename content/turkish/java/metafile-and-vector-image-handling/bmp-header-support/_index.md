@@ -74,7 +74,7 @@ Bu adım, uygun kaynak yönetimini ve temizliği sağlar.
 
 ## Çözüm
 
-Bu eğitimde Aspose.Imaging for Java'yı kullanmaya nasıl başlayacağımızı öğrendik; önkoşullar, paket içe aktarmaları ve bir BMP görüntüsünü PNG'ye dönüştürmek için adım adım kılavuz da dahil. Aspose.Imaging, çok çeşitli görüntü işleme yetenekleri sunan çok yönlü bir kitaplıktır ve bu da onu görüntülerle çalışan Java geliştiricileri için değerli bir araç haline getirir.
+Bu eğitimde Aspose.Imaging for Java'ya nasıl başlayacağımızı, önkoşulları, paket içe aktarmalarını ve bir BMP görüntüsünü PNG'ye dönüştürmek için adım adım kılavuzu da dahil olmak üzere öğrendik. Aspose.Imaging, çok çeşitli görüntü işleme yetenekleri sunan çok yönlü bir kitaplıktır ve bu da onu görüntülerle çalışan Java geliştiricileri için değerli bir araç haline getirir.
 
  Keşfetmekten çekinmeyin[dokümantasyon](https://reference.aspose.com/imaging/java/) ve katıl[Aspose.Imaging topluluk forumu](https://forum.aspose.com/) Destek ve ek kaynaklar için.
 
@@ -82,11 +82,11 @@ Bu eğitimde Aspose.Imaging for Java'yı kullanmaya nasıl başlayacağımızı 
 
 ### S1: Aspose.Imaging for Java'nın kullanımı ücretsiz midir?
 
- Cevap1: Hayır, Aspose.Imaging ticari bir kütüphanedir. Fiyatlandırma ve lisans seçeneklerini kontrol edebilirsiniz.[satın alma sayfası](https://purchase.aspose.com/buy).
+ Cevap1: Hayır, Aspose.Imaging ticari bir kütüphanedir. Fiyatlandırma ve lisanslama seçeneklerini şu adresten kontrol edebilirsiniz:[satın alma sayfası](https://purchase.aspose.com/buy).
 
 ### S2: Satın almadan önce Aspose.Imaging'i deneyebilir miyim?
 
-C2: Evet, adresinden ücretsiz deneme sürümü alabilirsiniz.[Burada](https://releases.aspose.com/). Kütüphanenin özelliklerini değerlendirmenizi sağlar.
+C2: Evet, şu adresten ücretsiz deneme sürümü edinebilirsiniz:[Burada](https://releases.aspose.com/). Kütüphanenin özelliklerini değerlendirmenizi sağlar.
 
 ### S3: Aspose.Imaging for Java'yı kullanmak için kapsamlı programlama deneyimine ihtiyacım var mı?
 

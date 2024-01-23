@@ -1,5 +1,5 @@
 ---
-title: Débloquez la magie de la transformation d'image avec Aspose.Imaging .NET
+title: Débloquez la magie de la transformation d'images avec Aspose.Imaging .NET
 linktitle: Transformation d'images
 second_title: API de traitement d'images Aspose.Imaging .NET
 description: Découvrez l'art de la transformation d'images avec Aspose.Imaging pour .NET. Apprenez à retourner et à faire pivoter des images DICOM sans effort pour des applications médicales et bien plus encore.

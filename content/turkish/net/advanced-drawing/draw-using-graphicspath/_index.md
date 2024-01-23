@@ -17,7 +17,7 @@ Adım adım kılavuza geçmeden önce aşağıdaki önkoşulların mevcut olduğ
 
 2.  Aspose.Imaging for .NET: Aspose.Imaging for .NET kitaplığını yüklediğinizden emin olun. adresindeki web sitesinden indirebilirsiniz.[Aspose.Imaging for .NET'i indirin](https://releases.aspose.com/imaging/net/).
 
-3. Temel C# Bilgisi: Bu eğitimde dili temel olarak anladığınız varsayıldığından, C# programlamaya aşina olmak faydalı olacaktır.
+3. Temel C# Bilgisi: Bu eğitimde dil hakkında temel bir anlayışa sahip olduğunuz varsayıldığından, C# programlamaya aşina olmak faydalı olacaktır.
 
 ## Ad Alanlarını İçe Aktar
 

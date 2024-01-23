@@ -43,7 +43,7 @@ En este tutorial, lo guiaremos a través del dibujo de rectángulos en Aspose.Im
 En conclusión, el mundo del diseño gráfico está a tu alcance con Aspose.Imaging para .NET. Estos tutoriales paso a paso le permitirán crear gráficos visualmente impresionantes y dar vida a sus ideas creativas. Entonces, sumérgete en el mundo del dibujo con Aspose.Imaging para .NET y libera tu potencial artístico.
 ## Tutoriales básicos de dibujo
 ### [Dibujar arco en Aspose.Imaging para .NET](./draw-arc/)
-Aprenda a dibujar arcos con Aspose.Imaging para .NET, una potente herramienta de manipulación de imágenes. Guía paso a paso para crear imágenes impresionantes.
+Aprenda a dibujar arcos con Aspose.Imaging para .NET, una poderosa herramienta de manipulación de imágenes. Guía paso a paso para crear imágenes impresionantes.
 ### [Dibuje la curva de Bézier en Aspose.Imaging para .NET](./draw-bezier-curve/)
 Aprenda a dibujar curvas de Bézier en Aspose.Imaging para .NET. Mejore sus gráficos .NET con esta guía paso a paso.
 ### [Dibujar elipse en Aspose.Imaging para .NET](./draw-ellipse/)

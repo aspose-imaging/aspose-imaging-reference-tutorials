@@ -21,7 +21,7 @@ Avant de plonger dans les étapes d'application de filtres aux images DICOM, ass
 
 - Connaissances de base de Java : Une connaissance de la programmation Java sera bénéfique, car nous écrirons du code Java pour appliquer des filtres aux images DICOM.
 
-Maintenant que vous disposez des conditions préalables nécessaires, passons au guide étape par étape sur la façon d'appliquer des filtres aux images DICOM à l'aide d'Aspose.Imaging pour Java.
+Maintenant que vous avez les conditions préalables nécessaires en place, passons au guide étape par étape sur la façon d'appliquer des filtres aux images DICOM à l'aide d'Aspose.Imaging pour Java.
 
 ## Étape 1 : Importer des packages
 

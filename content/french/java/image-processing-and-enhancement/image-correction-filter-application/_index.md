@@ -13,7 +13,7 @@ Dans le domaine de l’imagerie numérique, le besoin de correction et d’amél
 
 Avant de plonger dans le monde de la correction d'image à l'aide d'Aspose.Imaging pour Java, vous devez vous assurer que les conditions préalables suivantes sont remplies :
 
-1.  Environnement de développement Java : assurez-vous que Java est installé sur votre système. Vous pouvez le télécharger depuis[Le site d'Oracle](https://www.oracle.com/java/technologies/javase-downloads).
+1.  Environnement de développement Java : assurez-vous que Java est installé sur votre système. Vous pouvez le télécharger depuis[Le site Web d'Oracle](https://www.oracle.com/java/technologies/javase-downloads).
 
 2.  Aspose.Imaging pour Java : vous devrez obtenir la bibliothèque Aspose.Imaging pour Java. Vous pouvez le télécharger depuis le[site web](https://releases.aspose.com/imaging/java/).
 

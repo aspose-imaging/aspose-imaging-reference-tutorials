@@ -15,7 +15,7 @@ url: /zh/net/advanced-drawing/draw-using-graphics/
 
 1. 安装 Aspose.Imaging for .NET
 
-如果您尚未安装，请从以下位置下载并安装 Aspose.Imaging for .NET：[下载链接](https://releases.aspose.com/imaging/net/).
+如果您尚未安装，请从以下位置下载并安装 Aspose.Imaging for .NET[下载链接](https://releases.aspose.com/imaging/net/).
 
 2. 设置您的开发环境
 

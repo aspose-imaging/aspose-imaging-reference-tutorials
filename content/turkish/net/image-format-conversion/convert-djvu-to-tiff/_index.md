@@ -31,7 +31,7 @@ Herhangi bir .NET uygulamasında Aspose.Imaging for .NET ile çalışmak için g
 
 Öncelikle Aspose.Imaging for .NET'i kullanmayı düşündüğünüz Visual Studio projenizi açın.
 
-### Adım 2: Gerekli kullanma yönergelerini ekleyin
+### Adım 2: Gerekli kullanım yönergelerini ekleyin
 
 Gerekli ad alanlarını içe aktarmak için C# kod dosyanıza aşağıdaki kullanma yönergelerini ekleyin:
 

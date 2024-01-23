@@ -48,7 +48,7 @@ try (RasterImage rasterImage = (RasterImage) Image.load(dataDir + "aspose-logo.j
 }
 ```
 
- Ersätt i det här kodavsnittet`"Your Document Directory"` med sökvägen till din dokumentkatalog.
+ I det här kodavsnittet, ersätt`"Your Document Directory"` med sökvägen till din dokumentkatalog.
 
 ## Steg 2: Cachelagra bilddata
 

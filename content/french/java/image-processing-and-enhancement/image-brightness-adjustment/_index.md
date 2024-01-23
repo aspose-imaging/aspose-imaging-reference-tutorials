@@ -39,7 +39,7 @@ Maintenant que nous avons couvert les conditions préalables et les importations
 
 ## Étape 1 : Définir les chemins de fichiers
 
-Pour commencer, définissez les chemins de vos fichiers d'entrée et de sortie. Remplacer`"Your Document Directory"` avec le chemin réel vers votre répertoire de travail.
+Pour commencer, définissez les chemins de vos fichiers d’entrée et de sortie. Remplacer`"Your Document Directory"` avec le chemin réel vers votre répertoire de travail.
 
 ```java
 String dataDir = "Your Document Directory" + "dicom/";
@@ -75,7 +75,7 @@ Maintenant que vous avez ajusté la luminosité, il est temps d'enregistrer l'im
 image.save(outputFile, new BmpOptions());
 ```
 
-C'est ça! Vous avez réussi à ajuster la luminosité de votre image à l'aide d'Aspose.Imaging pour Java.
+C'est ça! Vous avez réussi à ajuster la luminosité de votre image à l’aide d’Aspose.Imaging pour Java.
 
 ## Conclusion
 

@@ -14,7 +14,7 @@ Sei pronto per immergerti nell'entusiasmante mondo della gestione delle immagini
 Prima di iniziare, dovrai assicurarti di disporre dei prerequisiti necessari. Ecco cosa ti serve:
 
 1. Visual Studio e .NET Framework installati
-- Dovresti avere Visual Studio installato nel tuo sistema ed è consigliabile utilizzare una versione recente di .NET Framework per una compatibilità ottimale.
+- Dovresti avere Visual Studio installato sul tuo sistema ed è consigliabile utilizzare una versione recente di .NET Framework per una compatibilità ottimale.
 
 2. Aspose.Imaging per .NET
 -  Per seguire questo tutorial, dovrai avere Aspose.Imaging per .NET installato. Se non l'hai già fatto, puoi scaricarlo da[Qui](https://releases.aspose.com/imaging/net/).

@@ -84,7 +84,7 @@ image.Save(dataDir + "AdjustBrightnessDICOM_out.bmp", new BmpOptions());
 
  О2: Aspose.Imaging предлагает варианты лицензирования как для личного, так и для коммерческого использования. Вы можете изучить эти варианты на[страница покупки](https://purchase.aspose.com/buy).
 
-### Вопрос 3: Существует ли пробная версия Aspose.Imaging для .NET?
+### Вопрос 3. Существует ли пробная версия Aspose.Imaging для .NET?
 
  О3: Да, вы можете загрузить бесплатную пробную версию Aspose.Imaging с сайта[здесь](https://releases.aspose.com/).
 

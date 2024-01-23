@@ -48,7 +48,7 @@ Renkli görseller özel bakım gerektirir ve Aspose.Imaging for Java, Wiener fil
 
 ## Medyan ve Wiener Filtre Uygulaması
 
-Medyan ve Wiener filtrelerinin uygulanması görüntü kirliliğinin giderilmesinde hayati bir adımdır. Aspose.Imaging for Java, bu filtreler aracılığıyla görüntü kalitesinin artırılması konusunda ayrıntılı bir eğitim sunar. Resimleriniz daha temiz ve daha çekici olacak.
+Medyan ve Wiener filtrelerinin uygulanması görüntü kirliliğinin giderilmesinde hayati bir adımdır. Aspose.Imaging for Java, bu filtreler aracılığıyla görüntü kalitesinin artırılması konusunda ayrıntılı bir eğitim sağlar. Resimleriniz daha temiz ve daha çekici olacak.
 
 ## Hareketli Görüntülere Wiener Filtresi Uygulama
 

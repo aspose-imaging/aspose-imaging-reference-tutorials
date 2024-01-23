@@ -33,7 +33,7 @@ using Aspose.Imaging.ImageOptions;
 using Aspose.Imaging.RasterImage;
 ```
 
-## Conversione delle pagine DJVU
+## Conversione di pagine DJVU
 
 Ora, analizziamo il processo di conversione di una serie di pagine DJVU in immagini separate utilizzando Aspose.Imaging per .NET in una serie di passaggi facili da seguire.
 

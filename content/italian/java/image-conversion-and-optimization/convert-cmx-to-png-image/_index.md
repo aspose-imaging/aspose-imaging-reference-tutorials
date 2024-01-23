@@ -85,7 +85,7 @@ Congratulazioni! Hai convertito con successo i file CMX in immagini PNG utilizza
 
 ## Conclusione
 
-In questa guida completa, abbiamo esplorato come utilizzare Aspose.Imaging per Java per convertire file CMX in immagini PNG. Con i giusti prerequisiti e seguendo le istruzioni passo passo, puoi eseguire questa conversione in modo efficiente e migliorare le capacità di elaborazione delle immagini nelle tue applicazioni Java.
+In questa guida completa, abbiamo esplorato come utilizzare Aspose.Imaging per Java per convertire file CMX in immagini PNG. Con i giusti prerequisiti e seguendo le istruzioni passo passo, puoi eseguire questa conversione in modo efficiente e migliorare le tue capacità di elaborazione delle immagini nelle tue applicazioni Java.
 
 ## Domande frequenti
 

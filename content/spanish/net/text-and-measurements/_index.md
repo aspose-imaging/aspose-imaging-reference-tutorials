@@ -2,7 +2,7 @@
 title: Tutoriales de texto y medidas con Aspose.Imaging .NET
 linktitle: Texto y medidas
 second_title: API de procesamiento de imágenes Aspose.Imaging .NET
-description: Aprenda a medir texto en imágenes con Aspose.Imaging para .NET, una herramienta potente y precisa. Explore tutoriales para dominar las técnicas de medición de texto.
+description: Aprenda a medir texto en imágenes con Aspose.Imaging para .NET, una herramienta poderosa y precisa. Explore tutoriales para dominar las técnicas de medición de texto.
 type: docs
 weight: 26
 url: /es/net/text-and-measurements/

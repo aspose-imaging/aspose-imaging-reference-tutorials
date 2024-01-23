@@ -14,7 +14,7 @@ url: /tr/net/vector-image-processing/draw-vector-image-to-raster-image/
 
 Eğiticiye dalmadan önce aşağıdaki önkoşulların mevcut olduğundan emin olun:
 
-### 1. .NET için Aspose.Imaging
+### 1. Aspose.Imaging for .NET
 
  Aspose.Imaging for .NET'in kurulu olması gerekir. Eğer elinizde yoksa, adresindeki web sitesinden indirebilirsiniz.[Aspose.Imaging for .NET'i indirin](https://releases.aspose.com/imaging/net/).
 

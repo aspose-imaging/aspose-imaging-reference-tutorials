@@ -88,7 +88,7 @@ Bu kılavuzda özetlenen adımları takip ederek Aspose.Imaging for Java'nın po
 
 ### S1: Otsu Eşik İkilileştirmesi nedir?
 
-Cevap 1: Otsu Eşik İkilileştirme, bir görüntüyü ön plan ve arka plan olarak ayırmak için en uygun eşiği otomatik olarak belirleyen, görüntünün kalitesini artıran ve onu daha sonraki analizler için uygun hale getiren bir görüntü işleme tekniğidir.
+Cevap1: Otsu Eşik İkilileştirme, bir görüntüyü ön plan ve arka plan olarak ayırmak için en uygun eşiği otomatik olarak belirleyen, görüntünün kalitesini artıran ve onu daha sonraki analizler için uygun hale getiren bir görüntü işleme tekniğidir.
 
 ### S2: Aspose.Imaging for Java'yı nasıl kurabilirim?
 

@@ -71,7 +71,7 @@ image.Save(dataDir + "RotatingDICOMImage_out.bmp", new BmpOptions());
 
 ## Çözüm
 
-Tebrikler! Aspose.Imaging for .NET'i kullanarak bir DICOM görüntüsünü başarıyla döndürdünüz. Bu güçlü kütüphane, tıbbi görüntüleri kolaylıkla değiştirmenize olanak tanıyarak sağlık hizmetleri ve ötesindeki çeşitli uygulamalara yönelik olasılıkların önünü açar. Bu kılavuzda verilen adımlarla artık görüntü döndürmeyi .NET projelerinize sorunsuz bir şekilde entegre edebilirsiniz.
+Tebrikler! Aspose.Imaging for .NET'i kullanarak bir DICOM görüntüsünü başarıyla döndürdünüz. Bu güçlü kitaplık, tıbbi görüntüleri kolaylıkla değiştirmenize olanak tanıyarak sağlık hizmetleri ve ötesindeki çeşitli uygulamalara yönelik olasılıkların önünü açar. Bu kılavuzda verilen adımlarla artık görüntü döndürmeyi .NET projelerinize sorunsuz bir şekilde entegre edebilirsiniz.
 
 ## SSS'ler
 

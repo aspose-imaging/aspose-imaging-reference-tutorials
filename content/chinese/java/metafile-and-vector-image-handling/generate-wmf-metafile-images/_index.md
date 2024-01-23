@@ -104,7 +104,7 @@ graphics.drawEllipse(pen, new Rectangle(25, 2, 20, 20));
 
 ## 第7步：绘制圆弧和三次贝塞尔曲线
 
-绘制更复杂的形状也是可能的。以下是绘制圆弧和三次贝塞尔曲线的方法：
+也可以绘制更复杂的形状。以下是绘制圆弧和三次贝塞尔曲线的方法：
 
 ```java
 pen.setDashStyle(DashStyle.Dot);
@@ -193,7 +193,7 @@ A1：WMF 代表 Windows 图元文件，它是一种矢量图形格式，用于�
 
 A3：虽然需要基本的 Java 编程知识，但 Aspose.Imaging for Java 提供了一个用户友好的 API，可以简化图像操作和创建任务。
 
-### Q4：我可以将 Aspose.Imaging for Java 用于商业用途吗？
+### Q4：我可以将 Aspose.Imaging for Java 用于商业目的吗？
 
  A4：是的，Aspose.Imaging for Java 为企业和开发人员提供商业许可证。您可以从以下位置购买许可证[这里](https://purchase.aspose.com/buy).
 

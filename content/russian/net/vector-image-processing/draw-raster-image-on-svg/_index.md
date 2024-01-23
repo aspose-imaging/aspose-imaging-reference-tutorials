@@ -1,6 +1,6 @@
 ---
 title: Как нарисовать растровое изображение в формате SVG в Aspose.Imaging for .NET
-linktitle: Рисование растрового изображения в SVG в Aspose.Imaging для .NET
+linktitle: Рисование растрового изображения в формате SVG в Aspose.Imaging для .NET
 second_title: API обработки изображений Aspose.Imaging .NET
 description: Узнайте, как рисовать растровые изображения в SVG с помощью Aspose.Imaging для .NET. Улучшите свои приложения .NET с помощью динамических изображений.
 type: docs

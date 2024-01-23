@@ -33,7 +33,7 @@ Nu när du har förutsättningarna och paketen på plats, låt oss dela upp konv
 
 ## Steg 1: Initiera datakatalogen
 
- Du bör definiera katalogen där dina exempelbilder lagras. Byta ut`"Your Document Directory"` med den faktiska sökvägen till dina bilder:
+ Du bör definiera katalogen där dina exempelbilder lagras. Byta ut`"Your Document Directory"` med den faktiska vägen till dina bilder:
 
 ```java
 String dataDir = "Your Document Directory" + "ConvertingImages/";

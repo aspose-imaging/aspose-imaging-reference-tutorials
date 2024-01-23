@@ -86,7 +86,7 @@ Därefter skapar du ett grafikobjekt, vilket är viktigt för textmätning.
 
 ### F3: Hur kan jag få en tillfällig licens för Aspose.Imaging för .NET?
 
- A3: För att få en tillfällig licens, besök[den här länken](https://purchase.aspose.com/temporary-license/).
+ S3: För att få en tillfällig licens, besök[den här länken](https://purchase.aspose.com/temporary-license/).
 
 ### F4: Var kan jag hitta gemenskapsstöd eller ställa frågor?
 

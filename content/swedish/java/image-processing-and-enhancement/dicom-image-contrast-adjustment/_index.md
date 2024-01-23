@@ -51,7 +51,7 @@ File file = new File(inputFile);
 
 try (FileInputStream fis = new FileInputStream(file)) {
     try (DicomImage image = (DicomImage) Image.load(fis)) {
-        // Ytterligare steg kommer att vidtas inom detta block
+        // Ytterligare steg kommer att tas inom detta block
     }
 } catch (IOException ex) {
     Logger.println(ex.getMessage());
@@ -79,7 +79,7 @@ image.save(outputFile, new BmpOptions());
 
 Grattis! Du har framgångsrikt justerat kontrasten för en DICOM-bild med Aspose.Imaging för Java. Detta kraftfulla verktyg låter dig förbättra den visuella kvaliteten på medicinska bilder med lätthet.
 
-Aspose.Imaging för Java förenklar processen att manipulera DICOM-bilder, vilket gör det till en värdefull tillgång för vårdpersonal, forskare och alla som arbetar med medicinsk bilddata.
+Aspose.Imaging för Java förenklar processen att manipulera DICOM-bilder, vilket gör det till en värdefull tillgång för sjukvårdspersonal, forskare och alla som arbetar med medicinsk bilddata.
 
 ## FAQ's
 

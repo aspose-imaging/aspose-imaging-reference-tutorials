@@ -74,7 +74,7 @@ rasterImage.save("Your Document Directory" + "Grayscaling_out.jpg", new JpegOpti
 
 En este fragmento, guardamos la imagen recortada con el nombre "Grayscaling_out.jpg" en el directorio especificado. El`JpegOptions()` nos permite especificar el formato de imagen para guardar, y`destRect` es la región que definimos para el cultivo.
 
-¡Eso es todo! Ha ampliado o recortado con éxito una imagen utilizando Aspose.Imaging para Java. Esta poderosa biblioteca simplifica el complejo proceso de manipulación de imágenes.
+¡Eso es todo! Ha ampliado o recortado con éxito una imagen usando Aspose.Imaging para Java. Esta poderosa biblioteca simplifica el complejo proceso de manipulación de imágenes.
 
 ## Conclusión
 

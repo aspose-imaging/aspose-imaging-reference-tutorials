@@ -106,7 +106,7 @@ Cevap1: DICOM, Tıpta Dijital Görüntüleme ve İletişim anlamına gelir ve t�
 
 ### S4: Aspose.Imaging for Java ile ilgili nereden yardım alabilirim veya sorunları tartışabilirim?
 
- Cevap4: Topluluk desteği ve tartışmalar için şu adresi ziyaret edebilirsiniz:[Aspose.Görüntüleme forumu](https://forum.aspose.com/). Sorularınıza yanıt bulmak ve diğer kullanıcılarla bağlantı kurmak için harika bir yer.
+ Cevap4: Topluluk desteği ve tartışmalar için şu adresi ziyaret edebilirsiniz:[Aspose.Görüntüleme forumu](https://forum.aspose.com/). Sorularınıza yanıt bulmak ve diğer kullanıcılarla bağlantı kurmak için harika bir yerdir.
 
 ### S5: Aspose.Imaging for Java, diğer Java tabanlı uygulamalarda görüntü işlemeye uygun mudur?
 

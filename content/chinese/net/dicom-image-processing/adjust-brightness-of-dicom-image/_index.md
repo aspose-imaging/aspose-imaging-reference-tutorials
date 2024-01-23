@@ -66,7 +66,7 @@ image.AdjustBrightness(50);
 image.Save(dataDir + "AdjustBrightnessDICOM_out.bmp", new BmpOptions());
 ```
 
-确保更换`"AdjustBrightnessDICOM_out.bmp"`以及所需的输出文件名和位置。
+确保您更换`"AdjustBrightnessDICOM_out.bmp"`以及所需的输出文件名和位置。
 
 ## 结论
 

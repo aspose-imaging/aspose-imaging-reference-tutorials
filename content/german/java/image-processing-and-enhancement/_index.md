@@ -24,7 +24,7 @@ Die Größenänderung von SVG-Bildern ist ein häufiges Bedürfnis, insbesondere
 
 ## Hinzufügen von Bild-Alpha-Blending
 
-Mit Aspose.Imaging für Java ist das Erstellen beeindruckender visueller Effekte ein Kinderspiel. Erfahren Sie, wie Sie Ihren Java-Projekten Bild-Alpha-Blending hinzufügen. Die bereitgestellte Schritt-für-Schritt-Anleitung hilft Ihnen dabei, beeindruckende Ergebnisse zu erzielen und die Qualität Ihrer Bilder zu steigern.
+Mit Aspose.Imaging für Java ist das Erstellen atemberaubender visueller Effekte ein Kinderspiel. Erfahren Sie, wie Sie Ihren Java-Projekten Bild-Alpha-Blending hinzufügen. Die bereitgestellte Schritt-für-Schritt-Anleitung hilft Ihnen dabei, beeindruckende Ergebnisse zu erzielen und die Qualität Ihrer Bilder zu steigern.
 
 ## Diagonales Bildwasserzeichen
 

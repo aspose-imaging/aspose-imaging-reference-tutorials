@@ -57,7 +57,7 @@ public static void Run()
 }
 ```
 
- Ersätt i det här kodavsnittet`"Your Document Directory"` med den faktiska sökvägen till din dokumentkatalog, och`"MultiPage2.cmx"` med namnet på din CMX-fil.
+ I det här kodavsnittet, ersätt`"Your Document Directory"` med den faktiska sökvägen till din dokumentkatalog, och`"MultiPage2.cmx"` med namnet på din CMX-fil.
 
 ### Steg 2: Skapa alternativ för sidarasterisering
 

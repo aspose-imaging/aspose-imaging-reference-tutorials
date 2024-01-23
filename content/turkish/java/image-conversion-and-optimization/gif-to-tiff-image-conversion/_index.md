@@ -37,7 +37,7 @@ import com.aspose.imaging.fileformats.gif.GifImage;
 import com.aspose.imaging.fileformats.gif.IGifBlock;
 ```
 
-## 1. Adım: GIF Görüntüsünü Yükleyin
+## 1. Adım: GIF Resmini Yükleyin
 
  Öncelikle Aspose.Imaging for Java'yı kullanarak GIF görüntüsünü yüklemeniz gerekir. Değiştirdiğinizden emin olun`"Your Document Directory"` GIF görüntüsünün bulunduğu belge dizininizin gerçek yolu ile birlikte.
 
@@ -72,7 +72,7 @@ for (int i = 0; i < blocks.length; i++) {
 }
 ```
 
-## 4. Adım: TIFF'e Dönüştürün ve Kaydedin
+## 4. Adım: TIFF'e dönüştürün ve kaydedin
 
 GIF çerçevesi olan her çerçeve bloğunu TIFF görüntü formatına dönüştürün ve belge dizininize kaydedin.
 

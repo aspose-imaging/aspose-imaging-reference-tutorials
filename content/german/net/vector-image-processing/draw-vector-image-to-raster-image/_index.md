@@ -98,7 +98,7 @@ In diesem Tutorial haben wir gezeigt, wie Sie mit Aspose.Imaging für .NET Vekto
 ### Häufig gestellte Fragen
 
 ### Was ist Aspose.Imaging für .NET?
-Aspose.Imaging für .NET ist eine .NET-Bibliothek, die leistungsstarke Bildverarbeitungsfunktionen bietet, einschließlich der Möglichkeit, mit verschiedenen Bildformaten zu arbeiten, Bilder zu konvertieren und erweiterte Bildbearbeitungsaufgaben durchzuführen.
+Aspose.Imaging für .NET ist eine .NET-Bibliothek, die leistungsstarke Bildverarbeitungsfunktionen bietet, einschließlich der Möglichkeit, mit verschiedenen Bildformaten zu arbeiten, Bilder zu konvertieren und erweiterte Bildbearbeitungsaufgaben auszuführen.
 
 ### Wo finde ich die Dokumentation für Aspose.Imaging für .NET?
  Sie finden die Dokumentation für Aspose.Imaging für .NET[Hier](https://reference.aspose.com/imaging/net/).

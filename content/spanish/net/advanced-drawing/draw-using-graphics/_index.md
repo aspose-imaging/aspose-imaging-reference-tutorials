@@ -100,7 +100,7 @@ Finalmente, guarde la imagen en su directorio especificado:
 image.Save();
 ```
 
-¡Y eso es! Ha creado y dibujado con éxito una imagen usando Aspose.Imaging para .NET.
+¡Y eso es! Ha creado y dibujado con éxito una imagen utilizando Aspose.Imaging para .NET.
 
 ## Conclusión
 

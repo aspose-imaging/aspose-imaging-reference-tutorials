@@ -87,7 +87,7 @@ File.Delete(System.IO.Path.Combine(dataDir, "output.bmp"));
 
 Bu eğitimde, bir görüntüye BMP RLE4 sıkıştırması uygulamak için Aspose.Imaging for .NET'in nasıl kullanılacağını araştırdık. Bu teknik, görüntü kalitesini korurken BMP görüntülerinin boyutunun azaltılmasına yardımcı olabilir. Doğru önkoşullar ve sağlanan adım adım kılavuzla BMP RLE4 sıkıştırmasını .NET uygulamalarınıza kolayca entegre edebilirsiniz.
 
-İstediğiniz sıkıştırma sonuçlarını elde etmek için farklı BMP görüntüleri ve ayarlarıyla denemeler yapmaktan çekinmeyin. Aspose.Imaging for .NET, görüntülerle çalışmak için çok çeşitli özellikler ve seçenekler sunarak onu geliştiriciler için değerli bir araç haline getiriyor.
+İstenilen sıkıştırma sonuçlarını elde etmek için farklı BMP görüntüleri ve ayarlarıyla denemeler yapmaktan çekinmeyin. Aspose.Imaging for .NET, görüntülerle çalışmak için çok çeşitli özellikler ve seçenekler sunarak onu geliştiriciler için değerli bir araç haline getiriyor.
 
  Daha fazla bilgi ve ayrıntılı belgeler için bkz.[Aspose.Imaging for .NET belgeleri](https://reference.aspose.com/imaging/net/).
 

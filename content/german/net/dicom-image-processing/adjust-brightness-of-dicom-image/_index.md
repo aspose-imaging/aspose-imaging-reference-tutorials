@@ -55,7 +55,7 @@ using (DicomImage image = new DicomImage(fileStream))
 image.AdjustBrightness(50);
 ```
 
-Dieser Schritt stellt sicher, dass die Helligkeit Ihres DICOM-Bildes entsprechend Ihren Anforderungen geändert wird.
+Dieser Schritt stellt sicher, dass die Helligkeit Ihres DICOM-Bildes entsprechend Ihren Anforderungen angepasst wird.
 
 ## Schritt 3: Speichern Sie das resultierende Bild
 

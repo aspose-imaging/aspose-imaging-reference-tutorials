@@ -19,7 +19,7 @@ Avant de plonger dans le processus de conversion, vous aurez besoin des conditio
 
 Une fois ces conditions préalables remplies, vous êtes prêt à commencer à convertir DICOM en PNG à l’aide d’Aspose.Imaging pour .NET.
 
-## Étape 1 : Importer des espaces de noms
+## Étape 1 : Importer les espaces de noms
 
 Tout d’abord, vous devez importer les espaces de noms nécessaires pour travailler avec Aspose.Imaging. Dans votre code C#, incluez les espaces de noms suivants :
 

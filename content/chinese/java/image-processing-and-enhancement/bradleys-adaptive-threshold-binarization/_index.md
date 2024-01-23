@@ -2,7 +2,7 @@
 title: 使用 Aspose.Imaging for Java 进行图像二值化
 linktitle: Bradley 的自适应阈值二值化
 second_title: Aspose.Imaging Java 图像处理 API
-description: 使用 Aspose.Imaging for Java 学习图像二值化。轻松转换 DICOM 图像。探索包含代码示例的分步指南。
+description: 使用 Aspose.Imaging for Java 学习图像二值化。轻松转换 DICOM 图像。探索带有代码示例的分步指南。
 type: docs
 weight: 27
 url: /zh/java/image-processing-and-enhancement/bradleys-adaptive-threshold-binarization/
