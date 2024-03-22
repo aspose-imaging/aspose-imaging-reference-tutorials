@@ -7,7 +7,7 @@ type: docs
 weight: 15
 url: /it/net/image-format-conversion/convert-cmx-to-tiff/
 ---
-Sei pronto per imparare come convertire i file CMX in formato TIFF utilizzando Aspose.Imaging per .NET? In questo tutorial passo passo ti guideremo attraverso il processo di trasformazione dei tuoi file CMX nel popolare formato TIFF. Aspose.Imaging per .NET è una potente libreria che fornisce un'ampia gamma di funzionalità di manipolazione delle immagini e ti mostreremo come sfruttarla al meglio in questo tutorial.
+Sei pronto per imparare come convertire i file CMX in formato TIFF utilizzando Aspose.Imaging per .NET? In questo tutorial passo passo ti guideremo attraverso il processo di trasformazione dei tuoi file CMX nel popolare formato TIFF. Aspose.Imaging per .NET è una potente libreria che fornisce un'ampia gamma di funzionalità di manipolazione delle immagini e ti mostreremo come sfruttarla al massimo in questo tutorial.
 
 ## Prerequisiti
 
@@ -82,7 +82,7 @@ var options = new TiffOptions(TiffExpectedFormat.TiffDeflateRgb)
 };
 ```
 
-Questo codice imposta le opzioni di esportazione TIFF.
+Questo codice configura le opzioni di esportazione TIFF.
 
 ### Passaggio 4: esporta l'immagine in TIFF
 

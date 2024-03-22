@@ -23,7 +23,7 @@ Avant de nous lancer dans le processus de conversion, assurez-vous que les condi
 
 Commençons maintenant par le processus de conversion proprement dit.
 
-## Étape 1 : Importer des espaces de noms
+## Étape 1 : Importer les espaces de noms
 
 La première étape consiste à importer les espaces de noms nécessaires. Les espaces de noms sont comme des conteneurs contenant les classes et les méthodes que vous utiliserez tout au long de votre projet. Dans votre fichier C#, ajoutez les espaces de noms suivants :
 
@@ -37,7 +37,7 @@ using System.Drawing.Drawing2D;
 
 ## Étape 2 : Chargez le fichier CDR
 
-Au cours de cette étape, vous chargerez le fichier CDR que vous souhaitez convertir dans votre projet C#. Assurez-vous de spécifier le chemin de fichier correct.
+Au cours de cette étape, vous chargerez le fichier CDR que vous souhaitez convertir dans votre projet C#. Assurez-vous de spécifier le chemin d'accès correct au fichier.
 
 ```csharp
 string dataDir = "Your Document Directory"; // Spécifiez votre répertoire de documents

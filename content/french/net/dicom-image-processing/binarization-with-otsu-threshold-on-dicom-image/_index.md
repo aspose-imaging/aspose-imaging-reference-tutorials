@@ -19,7 +19,7 @@ Avant de plonger dans le didacticiel, vous devez remplir quelques conditions pr�
 
 Commençons maintenant par le guide étape par étape.
 
-## Étape 1 : Importer des espaces de noms
+## Étape 1 : Importer les espaces de noms
 
 Pour commencer, vous devez importer les espaces de noms nécessaires pour accéder à la fonctionnalité Aspose.Imaging. Ajoutez les directives using suivantes à votre code C# :
 
@@ -73,7 +73,7 @@ Vous disposez désormais des connaissances et des outils nécessaires pour explo
 
 ### Q1 : Qu'est-ce que l'imagerie DICOM et pourquoi est-elle importante dans le domaine médical ?
 
-A1 : DICOM (Digital Imaging and Communications in Medicine) est un format standardisé pour le stockage et l'échange d'images médicales. Dans le domaine des soins de santé, il est crucial d'assurer l'interopérabilité des équipements et des systèmes d'imagerie médicale, afin de garantir que les professionnels de la santé puissent visualiser et partager avec précision les données des patients.
+A1 : DICOM (Digital Imaging and Communications in Medicine) est un format standardisé pour le stockage et l'échange d'images médicales. Dans le secteur des soins de santé, il est crucial d'assurer l'interopérabilité des équipements et des systèmes d'imagerie médicale, afin de garantir que les professionnels de la santé puissent visualiser et partager avec précision les données des patients.
 
 ### Q2 : Puis-je utiliser Aspose.Imaging pour .NET avec d’autres formats d’image que DICOM ?
 

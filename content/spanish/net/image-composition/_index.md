@@ -1,6 +1,6 @@
 ---
 title: Composición de imágenes con Aspose.Imaging para .NET
-linktitle: Composición de imagen
+linktitle: Composición de la imagen
 second_title: API de procesamiento de imágenes Aspose.Imaging .NET
 description: Descubra cómo combinar imágenes sin esfuerzo en Aspose.Imaging para .NET con nuestros completos tutoriales. ¡Mejore sus habilidades de procesamiento de imágenes hoy!
 type: docs

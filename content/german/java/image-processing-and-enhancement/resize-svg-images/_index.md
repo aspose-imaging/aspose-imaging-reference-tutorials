@@ -108,7 +108,7 @@ A3: Sie können die Fehlerbehandlung mithilfe von Try-Catch-Blöcken implementie
 
 ### F4: Bietet Aspose.Imaging zusätzliche Bildbearbeitungsfunktionen?
 
-A4: Ja, Aspose.Imaging bietet eine breite Palette von Funktionen, einschließlich Bildzuschnitt, Drehung und Konvertierung zwischen verschiedenen Formaten.
+A4: Ja, Aspose.Imaging bietet eine breite Palette an Funktionen, einschließlich Bildzuschnitt, Drehung und Konvertierung zwischen verschiedenen Formaten.
 
 ### F5: Kann ich Aspose.Imaging in kommerziellen Projekten verwenden?
 

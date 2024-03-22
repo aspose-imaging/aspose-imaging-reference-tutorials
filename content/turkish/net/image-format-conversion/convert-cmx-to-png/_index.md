@@ -110,4 +110,4 @@ Cevap4: Aspose.Imaging for .NET, kullanıcı dostu olacak şekilde tasarlanmış
 
 ### S5. Aspose.Imaging for .NET belgelerini nerede bulabilirim?
 
- Cevap5: Belgelere şu adresten erişebilirsiniz:[Aspose.Imaging for .NET Belgeleri](https://reference.aspose.com/imaging/net/).
+ C5: Belgelere şu adresten erişebilirsiniz:[Aspose.Imaging for .NET Belgeleri](https://reference.aspose.com/imaging/net/).

@@ -73,7 +73,7 @@ Genom att följa dessa steg kan du effektivt minska antalet färger i dina DICOM
 
 ## FAQ's
 
-### F1: Vad är dithering i bildbehandling?
+### F1: Vad är vibrering i bildbehandling?
 
 S1: Dithering är en teknik som används för att minska antalet färger i en bild samtidigt som den visuella kvaliteten bevaras. Det används ofta för att förbättra visningen av bilder med begränsade färgpaletter.
 

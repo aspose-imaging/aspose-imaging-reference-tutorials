@@ -23,7 +23,7 @@ Avant de plonger dans le guide étape par étape, assurez-vous que les condition
 
 Maintenant, décomposons le processus de redimensionnement d'une image DICOM en étapes simples et exploitables.
 
-## Étape 1 : Importer des espaces de noms
+## Étape 1 : Importer les espaces de noms
 
 La première étape consiste à importer les espaces de noms nécessaires pour travailler avec Aspose.Imaging. Dans votre projet C#, incluez les espaces de noms suivants :
 

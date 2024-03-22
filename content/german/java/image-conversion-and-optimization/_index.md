@@ -10,7 +10,7 @@ url: /de/java/image-conversion-and-optimization/
 
 # Einführung
 
-Sind Sie bereit, die Welt der Bildkonvertierung und -optimierung mit Aspose.Imaging für Java zu erkunden? In diesem umfassenden Leitfaden führen wir Sie durch eine Reihe von Tutorials, mit denen Sie verschiedene Bildformate mühelos konvertieren, verbessern und optimieren können. Ganz gleich, ob Sie ein erfahrener Entwickler sind oder gerade erst anfangen: Unsere Schritt-für-Schritt-Anleitungen vermitteln Ihnen das Wissen und die Fähigkeiten, die Sie zum Beherrschen dieser Kunst benötigen.
+Sind Sie bereit, die Welt der Bildkonvertierung und -optimierung mit Aspose.Imaging für Java zu erkunden? In diesem umfassenden Leitfaden führen wir Sie durch eine Reihe von Tutorials, mit denen Sie verschiedene Bildformate mühelos konvertieren, verbessern und optimieren können. Egal, ob Sie ein erfahrener Entwickler sind oder gerade erst anfangen, unsere Schritt-für-Schritt-Anleitungen vermitteln Ihnen das Wissen und die Fähigkeiten, die Sie zum Beherrschen dieser Kunst benötigen.
 
 ## Konvertieren Sie CMX in ein PNG-Bild
 

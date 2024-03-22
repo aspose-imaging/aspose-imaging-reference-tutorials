@@ -10,7 +10,7 @@ is_root: true
 
 ¡Bienvenido a nuestra guía completa sobre Aspose.Imaging para .NET! Ya seas principiante o experto, estos tutoriales te ayudarán a dominar el procesamiento de imágenes utilizando esta poderosa herramienta. Desde la composición de imágenes hasta funciones avanzadas, lo tenemos cubierto.
 
-## Composición de imagen
+## Composición de la imagen
 
 ¿Estás ansioso por combinar imágenes sin esfuerzo? Sumérgete en nuestro tutorial de Composición de imágenes y explora las infinitas posibilidades que ofrece Aspose.Imaging para .NET. Aprenda a fusionar imágenes con precisión, creando resultados visuales sorprendentes que sorprenderán a su audiencia. Ya sea que esté trabajando en un proyecto simple o en una tarea compleja de diseño gráfico, este tutorial lo equipará con las habilidades que necesita.
 
@@ -52,7 +52,7 @@ Si está en el campo de la medicina, debe ver nuestros tutoriales sobre procesam
 
 ¡Empiece a explorar estos tutoriales hoy y mejore sus habilidades de procesamiento de imágenes con Aspose.Imaging para .NET!
 ## Tutoriales de Aspose.Imaging para .NET
-### [Composición de imagen](./image-composition/)
+### [Composición de la imagen](./image-composition/)
 Descubra cómo combinar imágenes sin esfuerzo en Aspose.Imaging para .NET con nuestros completos tutoriales. ¡Mejore sus habilidades de procesamiento de imágenes hoy!
 ### [Creación de imágenes](./image-creation/)
 Descubra el arte de la creación de imágenes con Aspose.Imaging para .NET. Aprenda a crear imágenes impresionantes en esta extensa serie de tutoriales.

@@ -20,7 +20,7 @@ url: /zh/net/text-and-measurements/measure-text/
 确保您已设置 .NET 开发环境。如果没有，您可以从以下位置下载[这里](https://dotnet.microsoft.com/download).
 
 3. 示例图像
-准备一个您想要使用的示例图像。您可以使用自己的图像或将其下载到您的项目目录中。
+准备好您想要使用的示例图像。您可以使用自己的图像或将其下载到您的项目目录中。
 
 ## 导入必要的命名空间
 

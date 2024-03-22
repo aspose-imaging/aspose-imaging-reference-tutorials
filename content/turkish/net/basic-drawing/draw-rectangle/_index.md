@@ -21,7 +21,7 @@ Başlamadan önce aşağıdaki önkoşulların mevcut olduğundan emin olun:
 
 ## Ad Alanlarını İçe Aktarma
 
-İlk adım, Aspose.Imaging for .NET ile çalışmak için gerekli ad alanlarını içe aktarmaktır. İşte bunu nasıl yapacağınız:
+İlk adım Aspose.Imaging for .NET ile çalışmak için gerekli ad alanlarını içe aktarmaktır. İşte bunu nasıl yapacağınız:
 
 ### 1. Adım: Ad Alanlarını İçe Aktarın
 

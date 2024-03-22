@@ -95,7 +95,7 @@ In questo tutorial, abbiamo spiegato come estrarre i fotogrammi TIFF e salvarli 
 
 ### Q1: Cos'è Aspose.Imaging per Java?
 
-A1: Aspose.Imaging for Java è una libreria Java che fornisce ampie funzionalità di elaborazione delle immagini, consentendo di lavorare con vari formati di immagine ed eseguire attività come conversione, modifica e manipolazione.
+A1: Aspose.Imaging per Java è una libreria Java che fornisce ampie funzionalità di elaborazione delle immagini, consentendo di lavorare con vari formati di immagine ed eseguire attività come conversione, modifica e manipolazione.
 
 ### Q2: Posso utilizzare Aspose.Imaging per Java con diversi formati di immagine?
 

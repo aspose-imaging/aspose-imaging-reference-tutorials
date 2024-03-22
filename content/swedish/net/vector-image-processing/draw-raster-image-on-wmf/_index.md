@@ -16,7 +16,7 @@ Innan du dyker in i världen av att rita rasterbilder på WMF-dokument med Aspos
 
 ### 1. Aspose.Imaging för .NET Library
 
- Först och främst, se till att du har Aspose.Imaging for .NET-biblioteket integrerat i ditt .NET-projekt. Du kan få det här biblioteket genom att[ladda ner den från Aspose.Releases](https://releases.aspose.com/imaging/net/).
+ Först och främst, se till att du har Aspose.Imaging for .NET-biblioteket integrerat i ditt .NET-projekt. Du kan få det här biblioteket genom att[laddar ner det från Aspose.Releases](https://releases.aspose.com/imaging/net/).
 
 ### 2. Grundläggande förståelse för .NET
 

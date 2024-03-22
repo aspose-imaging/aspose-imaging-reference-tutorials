@@ -55,7 +55,7 @@ synchronized (streamContainer.getSyncRoot()) {
 
 ## 第 4 步：清理资源
 
-完成图像处理任务后，通过处理图像来释放资源至关重要`streamContainer`:
+完成图像处理任务后，通过处理图像来释放资源至关重要`streamContainer`：
 
 ```java
 streamContainer.dispose();

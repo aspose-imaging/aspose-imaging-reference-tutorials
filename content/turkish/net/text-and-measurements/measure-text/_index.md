@@ -2,7 +2,7 @@
 title: Aspose.Imaging for .NET ile Görüntülerde Metin Ölçümü
 linktitle: Aspose.Imaging for .NET'te Metni Ölçme
 second_title: Aspose.Imaging .NET Görüntü İşleme API'si
-description: Aspose.Imaging for .NET'i kullanarak görüntülerdeki metni ölçün. Güçlü bir .NET kütüphanesi. Hassas ve etkili metin ölçümü.
+description: Aspose.Imaging for .NET'i kullanarak görüntülerdeki metni ölçün. Güçlü bir .NET kitaplığı. Hassas ve etkili metin ölçümü.
 type: docs
 weight: 10
 url: /tr/net/text-and-measurements/measure-text/

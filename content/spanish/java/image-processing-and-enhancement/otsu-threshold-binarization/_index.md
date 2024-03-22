@@ -51,7 +51,7 @@ RasterCachedImage rasterCachedImage = (RasterCachedImage) image;
 
 ## Paso 3: verificar y almacenar en caché la imagen
 
-Antes de aplicar la binarización del umbral de Otsu, debe verificar si la imagen ya está almacenada en caché. Si no, guárdelo en caché.
+Antes de aplicar la binarización de umbral de Otsu, debe verificar si la imagen ya está almacenada en caché. Si no, guárdelo en caché.
 
 ```java
 if (!rasterCachedImage.isCached())

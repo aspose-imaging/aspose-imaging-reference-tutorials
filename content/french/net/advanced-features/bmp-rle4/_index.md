@@ -95,7 +95,7 @@ N'hésitez pas à expérimenter différentes images et paramètres BMP pour obte
 
 ### Q1 : Qu'est-ce que la compression BMP RLE4 et quand dois-je l'utiliser ?
 
-A1 : La compression BMP RLE4 est une méthode utilisée pour réduire la taille des images BMP en codant des valeurs de pixels consécutives avec une valeur unique. Il convient mieux aux images avec une profondeur de couleur limitée, telles que les images 4 bits. Utilisez-le lorsque vous avez besoin d'économiser de l'espace de stockage tout en préservant la qualité de l'image.
+A1 : La compression BMP RLE4 est une méthode utilisée pour réduire la taille des images BMP en codant des valeurs de pixels consécutives avec une valeur unique. Il convient mieux aux images avec une profondeur de couleur limitée, telles que les images 4 bits. Utilisez-le lorsque vous avez besoin d'économiser de l'espace de stockage tout en préservant la qualité de l'image.
 
 ### Q2 : Puis-je utiliser Aspose.Imaging pour .NET pour convertir des images BMP vers d'autres formats ?
 

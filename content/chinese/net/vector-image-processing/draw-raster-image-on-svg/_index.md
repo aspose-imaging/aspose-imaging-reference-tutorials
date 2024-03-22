@@ -48,7 +48,7 @@ using (SvgImage canvasImage = (SvgImage)Image.Load(dataDir + "asposenet_220_src0
 
 ## 第 3 步：在 SVG 图像上绘图
 
-现在，您可以开始在现有的 SVG 图像上绘图。为此，您需要创建一个实例`SvgGraphics2D`:
+现在，您可以开始在现有的 SVG 图像上绘图。为此，您需要创建一个实例`SvgGraphics2D`：
 
 ```csharp
 SvgGraphics2D graphics = new SvgGraphics2D(canvasImage);

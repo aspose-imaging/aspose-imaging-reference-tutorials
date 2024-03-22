@@ -11,7 +11,7 @@ In der sich ständig weiterentwickelnden Welt der digitalen Grafik ist Kompatibi
 
 ## Voraussetzungen
 
-Bevor wir in die Welt der CDR-Formatunterstützung in Aspose.Imaging für .NET eintauchen, ist es wichtig sicherzustellen, dass Sie über alles verfügen, was Sie brauchen. Hier sind die Voraussetzungen, um loszulegen:
+Bevor wir in die Welt der CDR-Formatunterstützung in Aspose.Imaging für .NET eintauchen, ist es wichtig sicherzustellen, dass Sie über alles verfügen, was Sie benötigen. Hier sind die Voraussetzungen, um loszulegen:
 
 1. Aspose.Imaging für .NET-Bibliothek
 

@@ -11,7 +11,7 @@ Dans le monde dynamique du développement de logiciels, il est essentiel de disp
 
 ## Conditions préalables
 
-Avant de plonger dans le didacticiel, vous devez vous assurer que les conditions préalables suivantes sont remplies :
+Avant de plonger dans le didacticiel, vous devez vous assurer que vous disposez des conditions préalables suivantes :
 
 1.  Environnement de développement Java : le kit de développement Java (JDK) doit être installé sur votre système. Sinon, vous pouvez le télécharger depuis le[Site Web d'Oracle](https://www.oracle.com/java/technologies/javase-downloads).
 

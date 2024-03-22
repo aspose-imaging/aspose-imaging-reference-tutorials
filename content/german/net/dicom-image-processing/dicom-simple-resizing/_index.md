@@ -41,7 +41,7 @@ Durch den Import dieser Namensräume erhalten Sie Zugriff auf die für die Verar
 
 Lassen Sie uns nun den DICOM-Bildgrößenänderungsprozess in mehrere überschaubare Schritte unterteilen.
 
-### Schritt 2.1: Legen Sie das Dokumentverzeichnis fest
+### Schritt 2.1: Legen Sie das Dokumentenverzeichnis fest
 
  Geben Sie in Ihrem C#-Code das Verzeichnis an, in dem sich Ihre DICOM-Datei befindet. Sie sollten ersetzen`"Your Document Directory"` mit dem tatsächlichen Pfad zu Ihrem Dateiverzeichnis.
 

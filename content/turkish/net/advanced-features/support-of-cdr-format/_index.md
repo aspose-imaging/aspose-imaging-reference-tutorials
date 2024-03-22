@@ -29,7 +29,7 @@ Aspose.Imaging for .NET'i kullanarak CDR dosyalarını işlemeye başlamadan ön
 using Aspose.Imaging;
 ```
 
-Artık önkoşulları yerine getirdiğinize ve gerekli Ad Alanlarını içe aktardığınıza göre, Aspose.Imaging for .NET kullanarak CDR dosyalarını destekleme sürecini adım adım talimatlara ayıralım.
+Artık ön koşulları yerine getirdiğinize ve gerekli Ad Alanlarını içe aktardığınıza göre, Aspose.Imaging for .NET kullanarak CDR dosyalarını destekleme sürecini adım adım talimatlara ayıralım.
 
 ## Adım 1: CDR Dosyasını Yükleyin
 

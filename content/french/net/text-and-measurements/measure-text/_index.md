@@ -20,7 +20,7 @@ Avant de commencer, assurez-vous que les conditions préalables suivantes sont r
  Assurez-vous d'avoir configuré un environnement de développement .NET. Sinon, vous pouvez le télécharger depuis[ici](https://dotnet.microsoft.com/download).
 
 3. Un exemple d’image
-Ayez un exemple d’image avec laquelle vous souhaitez travailler. Vous pouvez utiliser votre propre image ou en télécharger une dans le répertoire de votre projet.
+Ayez un exemple d’image avec lequel vous souhaitez travailler. Vous pouvez utiliser votre propre image ou en télécharger une dans le répertoire de votre projet.
 
 ## Importation des espaces de noms nécessaires
 

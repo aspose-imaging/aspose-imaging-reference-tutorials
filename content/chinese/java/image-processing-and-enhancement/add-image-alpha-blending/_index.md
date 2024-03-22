@@ -20,7 +20,7 @@ url: /zh/java/image-processing-and-enhancement/add-image-alpha-blending/
 您需要获取 Aspose.Imaging for Java。您可以从以下网站下载：[https://releases.aspose.com/imaging/java/](https://releases.aspose.com/imaging/java/).
 
 ### 3. 图像文件
-准备要混合的图像。对于本教程，您可以使用任意两个 PNG 图像。将它们放在您选择的目录中。
+准备要混合的图像。在本教程中，您可以使用任意两个 PNG 图像。将它们放在您选择的目录中。
 
 ## 导入包
 

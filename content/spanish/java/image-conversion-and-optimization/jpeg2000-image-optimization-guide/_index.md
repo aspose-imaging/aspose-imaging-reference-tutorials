@@ -11,7 +11,7 @@ En el mundo digital actual, el manejo eficiente de imágenes es crucial para una
 
 ## Requisitos previos
 
-Antes de sumergirnos en la optimización de imágenes JPEG2000 usando Aspose.Imaging para Java, asegúrese de tener implementados los siguientes requisitos previos:
+Antes de sumergirnos en la optimización de imágenes JPEG2000 usando Aspose.Imaging para Java, asegúrese de cumplir con los siguientes requisitos previos:
 
 ### Entorno de desarrollo Java
 Necesita un entorno de desarrollo Java instalado en su sistema. Si no tiene uno, puede descargar e instalar la última versión de Java desde el sitio web de Oracle.

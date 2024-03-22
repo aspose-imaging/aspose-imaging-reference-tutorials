@@ -2,7 +2,7 @@
 title: Conversion de CDR en PDF avec Aspose.Imaging pour .NET
 linktitle: Convertir CDR en PDF dans Aspose.Imaging pour .NET
 second_title: API de traitement d'images Aspose.Imaging .NET
-description: Découvrez comment convertir un CDR en PDF dans Aspose.Imaging pour .NET. Un guide étape par étape pour des conversions transparentes.
+description: Découvrez comment convertir un CDR en PDF dans Aspose.Imaging pour .NET. Un guide étape par étape pour des conversions fluides.
 type: docs
 weight: 10
 url: /fr/net/image-format-conversion/convert-cdr-to-pdf/
@@ -21,7 +21,7 @@ Avant de nous lancer dans le processus de conversion, vous devez remplir quelque
 
 Commençons maintenant le guide étape par étape.
 
-## Étape 1 : Importer des espaces de noms
+## Étape 1 : Importer les espaces de noms
 
 La première étape consiste à importer les espaces de noms nécessaires depuis Aspose.Imaging. Ces espaces de noms fourniront les classes et méthodes nécessaires au processus de conversion.
 

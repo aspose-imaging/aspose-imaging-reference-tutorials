@@ -26,7 +26,7 @@ Antes de sumergirnos en el mundo de la alineación de la resolución de imágene
 Para comenzar con la alineación de la resolución de la imagen usando Aspose.Imaging para Java, debe importar los paquetes necesarios. El siguiente código demuestra cómo hacer esto:
 
 ```java
-// Importe las clases necesarias de Aspose.Imaging
+// Importe las clases Aspose.Imaging necesarias
 import com.aspose.imaging.Image;
 import com.aspose.imaging.fileformats.tiff.TiffFrame;
 import com.aspose.imaging.fileformats.tiff.TiffImage;

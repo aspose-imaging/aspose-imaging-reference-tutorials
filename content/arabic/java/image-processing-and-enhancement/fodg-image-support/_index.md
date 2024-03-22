@@ -15,7 +15,7 @@ url: /ar/java/image-processing-and-enhancement/fodg-image-support/
 
 ### 1. مجموعة تطوير جافا (JDK)
 
- يجب أن يكون لديك Java Development Kit (JDK) مثبتًا على نظامك. إذا لم يكن مثبتًا بالفعل، يمكنك تنزيله من[موقع أوراكل](https://www.oracle.com/java/technologies/javase-downloads) أو توزيعة OpenJDK بديلة.
+ يجب أن يكون لديك Java Development Kit (JDK) مثبتًا على نظامك. إذا لم يكن مثبتًا بالفعل، فيمكنك تنزيله من[موقع أوراكل](https://www.oracle.com/java/technologies/javase-downloads) أو توزيعة OpenJDK بديلة.
 
 ### 2. Aspose.Imaging لجافا
 

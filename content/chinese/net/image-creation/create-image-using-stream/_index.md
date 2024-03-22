@@ -25,7 +25,7 @@ url: /zh/net/image-creation/create-image-using-stream/
 
 ## 导入命名空间
 
-第一步是导入必要的命名空间。这些命名空间提供对 Aspose.Imaging for .NET 功能的访问。在 C# 文件的开头添加以下代码：
+第一步是导入必要的名称空间。这些命名空间提供对 Aspose.Imaging for .NET 功能的访问。在 C# 文件的开头添加以下代码：
 
 ```csharp
 using Aspose.Imaging;

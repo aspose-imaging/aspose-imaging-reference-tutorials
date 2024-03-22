@@ -135,6 +135,6 @@ Oui, vous pouvez utiliser Aspose.Imaging pour .NET dans les applications de bure
 
  Vous pouvez accéder à une documentation détaillée sur Aspose.Imaging pour .NET sur le[page de documentation](https://reference.aspose.com/imaging/net/).
 
-### Q5 : Comment puis-je obtenir de l'aide pour Aspose.Imaging pour .NET si je rencontre des problèmes ?
+### Q5 : Comment puis-je obtenir de l'assistance pour Aspose.Imaging pour .NET si je rencontre des problèmes ?
 
  Vous pouvez demander de l'aide et interagir avec la communauté Aspose sur le[forum](https://forum.aspose.com/).

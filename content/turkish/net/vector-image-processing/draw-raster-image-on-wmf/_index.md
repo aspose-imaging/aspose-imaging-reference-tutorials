@@ -8,7 +8,7 @@ weight: 12
 url: /tr/net/vector-image-processing/draw-raster-image-on-wmf/
 ---
 
-.NET geliştirme alanında Aspose.Imaging, geliştiricilerin çeşitli formatlardaki görselleri işlemesine ve onlarla çalışmasına olanak tanıyan çok yönlü bir araç olarak duruyor. Aspose.Imaging, birçok yeteneğinin yanı sıra Windows Meta Dosyası (WMF) belgelerinde raster görüntüler çizme özelliğini de sunuyor. Bu işlevsellik, görüntüleri vektör tabanlı belgelere yerleştirmeniz gerektiğinde son derece değerlidir ve yaratıcı olasılıklarla dolu bir dünyanın kapısını açar.
+.NET geliştirme alanında Aspose.Imaging, geliştiricilerin çeşitli formatlardaki görselleri işlemesine ve onlarla çalışmasına olanak tanıyan çok yönlü bir araç olarak duruyor. Aspose.Imaging, birçok yeteneğinin yanı sıra Windows Meta Dosyası (WMF) belgelerinde raster görüntüler çizme özelliğini de sunuyor. Bu işlevsellik, görüntüleri vektör tabanlı belgelere yerleştirmeniz gerektiğinde son derece değerlidir ve yaratıcı olasılıklarla dolu bir dünyanın önünü açar.
 
 ## Önkoşullar
 

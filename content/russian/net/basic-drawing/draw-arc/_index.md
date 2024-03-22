@@ -113,6 +113,6 @@ using (FileStream stream = new FileStream(dataDir + "DrawingArc_out.bmp", FileMo
 
  О4: Если вам нужна временная лицензия, вы можете получить ее.[здесь](https://purchase.aspose.com/temporary-license/).
 
-### Вопрос 5: Где я могу получить поддержку или задать вопросы об Aspose.Imaging for .NET?
+### Вопрос 5: Где я могу обратиться за поддержкой или задать вопросы об Aspose.Imaging for .NET?
 
  О5: Вы можете посетить форум Aspose.Imaging для получения поддержки и обсуждений.[здесь](https://forum.aspose.com/).

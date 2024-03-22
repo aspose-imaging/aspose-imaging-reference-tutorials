@@ -110,4 +110,4 @@ Aspose.Imaging para .NET es una biblioteca .NET que proporciona potentes funcion
  Si necesita una licencia temporal, puede obtener una[aquí](https://purchase.aspose.com/temporary-license/).
 
 ### ¿Dónde puedo obtener soporte para Aspose.Imaging para .NET?
- Para cualquier soporte o consulta puedes visitar el[Foro Aspose.Imaging](https://forum.aspose.com/).
+ Para cualquier soporte o consulta, puede visitar el[Foro Aspose.Imaging](https://forum.aspose.com/).

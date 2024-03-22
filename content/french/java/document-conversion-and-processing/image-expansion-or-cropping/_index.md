@@ -74,7 +74,7 @@ rasterImage.save("Your Document Directory" + "Grayscaling_out.jpg", new JpegOpti
 
 Dans cet extrait, nous enregistrons l'image recadrée sous le nom "Grayscaling_out.jpg" dans le répertoire spécifié. Le`JpegOptions()` nous permettent de spécifier le format d'image à enregistrer, et`destRect` est la région que nous avons définie pour la culture.
 
-C'est ça! Vous avez réussi à agrandir ou à recadrer une image à l'aide d'Aspose.Imaging pour Java. Cette puissante bibliothèque simplifie le processus complexe de manipulation d’images.
+C'est ça! Vous avez réussi à agrandir ou à recadrer une image à l'aide d'Aspose.Imaging pour Java. Cette puissante bibliothèque simplifie le processus complexe de manipulation d'images.
 
 ## Conclusion
 

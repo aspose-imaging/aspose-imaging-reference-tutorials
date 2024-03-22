@@ -102,7 +102,7 @@ S3: Aspose.Imaging för .NET erbjuder ett brett utbud av bildbehandlingsalternat
 
 ### F4: Är Aspose.Imaging för .NET lämpligt för vårdtillämpningar?
 
-S4: Ja, Aspose.Imaging för .NET används ofta i vårdapplikationer för att hantera DICOM-bilder, vilket gör det till ett värdefullt verktyg för utveckling av medicinsk bildbehandling.
+S4: Ja, Aspose.Imaging för .NET används ofta i hälsovårdstillämpningar för att hantera DICOM-bilder, vilket gör det till ett värdefullt verktyg för utveckling av medicinsk bildbehandling.
 
 ### F5: Kan jag få en tillfällig licens för Aspose.Imaging för .NET?
 w

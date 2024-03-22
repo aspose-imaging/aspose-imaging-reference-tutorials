@@ -71,7 +71,7 @@ image.Save(dataDir + "RotatingDICOMImage_out.bmp", new BmpOptions());
 
 ## Abschluss
 
-Glückwunsch! Sie haben ein DICOM-Bild mit Aspose.Imaging für .NET erfolgreich gedreht. Diese leistungsstarke Bibliothek ermöglicht Ihnen die einfache Bearbeitung medizinischer Bilder und eröffnet Möglichkeiten für verschiedene Anwendungen im Gesundheitswesen und darüber hinaus. Mit den in diesem Handbuch bereitgestellten Schritten können Sie die Bildrotation jetzt nahtlos in Ihre .NET-Projekte integrieren.
+Glückwunsch! Sie haben ein DICOM-Bild mit Aspose.Imaging für .NET erfolgreich gedreht. Diese leistungsstarke Bibliothek ermöglicht Ihnen die einfache Bearbeitung medizinischer Bilder und eröffnet Möglichkeiten für verschiedene Anwendungen im Gesundheitswesen und darüber hinaus. Mit den in diesem Handbuch bereitgestellten Schritten können Sie die Bilddrehung jetzt nahtlos in Ihre .NET-Projekte integrieren.
 
 ## FAQs
 

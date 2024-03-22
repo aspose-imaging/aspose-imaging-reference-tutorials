@@ -7,7 +7,7 @@ type: docs
 weight: 15
 url: /tr/java/image-processing-and-enhancement/image-resolution-alignment/
 ---
-Sürekli gelişen dijital görüntü alanında, görüntü çözünürlüğü hizalaması, en yüksek kalitede sonuçların elde edilmesinde çok önemli bir rol oynar. İster fotoğraflar, çizimler veya taranmış belgeler üzerinde çalışıyor olun, hassas çözünürlük hizalaması görüntü işlemede temel bir adımdır. Aspose.Imaging for Java, geliştiricilere bu görevi zahmetsizce gerçekleştirmeleri için ihtiyaç duydukları araçları sağlar. Bu eğitimde, görüntü çözünürlüğü hizalama sanatını derinlemesine inceleyeceğiz, önkoşulları, gerekli paketleri inceleyeceğiz ve bu temel beceride ustalaşmanızı sağlamak için her adımı ayrıntılı olarak inceleyeceğiz.
+Sürekli gelişen dijital görüntü alanında, görüntü çözünürlüğü hizalaması, en yüksek kalitede sonuçların elde edilmesinde çok önemli bir rol oynar. İster fotoğraflar, çizimler veya taranmış belgeler üzerinde çalışıyor olun, hassas çözünürlük hizalaması görüntü işlemede temel bir adımdır. Aspose.Imaging for Java, geliştiricilere bu görevi zahmetsizce gerçekleştirmeleri için ihtiyaç duydukları araçları sağlar. Bu eğitimde, görüntü çözünürlüğü hizalama sanatını derinlemesine inceleyeceğiz, önkoşulları, gerekli paketleri inceleyeceğiz ve bu temel beceride uzmanlaşmanızı sağlamak için her adımı ayrıntılı olarak inceleyeceğiz.
 
 ## Önkoşullar
 

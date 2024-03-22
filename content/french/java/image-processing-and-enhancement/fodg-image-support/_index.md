@@ -15,7 +15,7 @@ Avant de plonger dans le monde d'Aspose.Imaging pour Java, vous devez mettre en 
 
 ### 1. Kit de développement Java (JDK)
 
- Le kit de développement Java (JDK) doit être installé sur votre système. S'il n'est pas déjà installé, vous pouvez le télécharger depuis[Le site d'Oracle](https://www.oracle.com/java/technologies/javase-downloads) ou une distribution alternative OpenJDK.
+ Le kit de développement Java (JDK) doit être installé sur votre système. S'il n'est pas déjà installé, vous pouvez le télécharger depuis[Le site Web d'Oracle](https://www.oracle.com/java/technologies/javase-downloads) ou une distribution alternative OpenJDK.
 
 ### 2. Aspose.Imaging pour Java
 

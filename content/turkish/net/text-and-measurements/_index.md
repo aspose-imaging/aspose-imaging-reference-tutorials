@@ -27,4 +27,4 @@ Sonuç olarak Aspose.Imaging for .NET, görsellerdeki hassas metin ölçümü i�
 Bu makale, Aspose.Imaging for .NET'i kullanarak metin ölçümü konusunda uzmanlaşmanız için rehberiniz oldu. Kütüphanenin temellerinden metin ölçümünün inceliklerine kadar her şeyi ele aldık. Şimdi bu teknikleri keşfedip projelerinize uygulama sırası sizde. Mutlu metin ölçümü!
 ## Metin ve Ölçüler Eğitimleri
 ### [Aspose.Imaging for .NET'te Metni Ölçme](./measure-text/)
-Aspose.Imaging for .NET'i kullanarak görüntülerdeki metni ölçün. Güçlü bir .NET kütüphanesi. Hassas ve etkili metin ölçümü.
+Aspose.Imaging for .NET'i kullanarak görüntülerdeki metni ölçün. Güçlü bir .NET kitaplığı. Hassas ve etkili metin ölçümü.

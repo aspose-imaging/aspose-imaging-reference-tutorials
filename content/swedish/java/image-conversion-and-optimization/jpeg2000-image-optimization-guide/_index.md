@@ -109,7 +109,7 @@ S2: Att ställa in en minnesgräns är avgörande för att förhindra minnesrela
 
 ### F3: Är Aspose.Imaging för Java gratis att använda?
 
- A3: Aspose.Imaging för Java är inte gratis. Du kan hitta licens- och prisinformation[här](https://purchase.aspose.com/buy).
+ A3: Aspose.Imaging för Java är inte gratis. Du kan hitta licensierings- och prisinformation[här](https://purchase.aspose.com/buy).
 
 ### F4: Var kan jag hitta support för Aspose.Imaging för Java?
 

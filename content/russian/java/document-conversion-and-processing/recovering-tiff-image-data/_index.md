@@ -2,7 +2,7 @@
 title: Восстановите данные изображения TIFF с помощью Aspose.Imaging для Java
 linktitle: Восстановление данных изображения TIFF
 second_title: Aspose.Imaging API обработки изображений Java
-description: Узнайте, как восстановить поврежденные данные изображения TIFF с помощью Aspose.Imaging for Java. Восстановите целостность изображения с помощью этого пошагового руководства.
+description: Узнайте, как восстановить поврежденные данные изображения TIFF с помощью Aspose.Imaging для Java. Восстановите целостность изображения с помощью этого пошагового руководства.
 type: docs
 weight: 19
 url: /ru/java/document-conversion-and-processing/recovering-tiff-image-data/

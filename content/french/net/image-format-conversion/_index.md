@@ -36,7 +36,7 @@ Dans cet article, nous avons abordé le sujet des didacticiels de conversion de 
 
 ## Tutoriels de conversion de format d'image
 ### [Convertir CDR en PDF dans Aspose.Imaging pour .NET](./convert-cdr-to-pdf/)
-Découvrez comment convertir un CDR en PDF dans Aspose.Imaging pour .NET. Un guide étape par étape pour des conversions transparentes.
+Découvrez comment convertir un CDR en PDF dans Aspose.Imaging pour .NET. Un guide étape par étape pour des conversions fluides.
 ### [Convertir CDR en PNG dans Aspose.Imaging pour .NET](./convert-cdr-to-png/)
 Découvrez comment convertir CDR en PNG dans .NET à l'aide d'Aspose.Imaging. Ce guide étape par étape simplifie le processus.
 ### [Convertir CDR en PSD multipage dans Aspose.Imaging pour .NET](./convert-cdr-to-psd-multipage/)

@@ -65,7 +65,7 @@ RasterCachedImage rasterCachedImage = (RasterCachedImage) image;
 
 ## Steg 3: Kontrollera och cachelagra bilden
 
-Kontrollera om bilden är cachad. Om inte, cache det. Cachelagring av bilden möjliggör snabbare bearbetning.
+Kontrollera om bilden är cachad. Om inte, cacha det. Cachelagring av bilden möjliggör snabbare bearbetning.
 
 ```java
 if (!rasterCachedImage.isCached()) {

@@ -2,7 +2,7 @@
 title: Разделение кадров TIFF с помощью Aspose.Imaging для Java
 linktitle: Разделение кадров изображения TIFF
 second_title: Aspose.Imaging API обработки изображений Java
-description: Узнайте, как разделить кадры изображения TIFF с помощью Aspose.Imaging для Java. Пошаговое руководство с предварительными условиями, примером кода и часто задаваемыми вопросами для разработчиков.
+description: Узнайте, как разделить кадры изображений TIFF с помощью Aspose.Imaging для Java. Пошаговое руководство с предварительными условиями, примером кода и часто задаваемыми вопросами для разработчиков.
 type: docs
 weight: 21
 url: /ru/java/image-conversion-and-optimization/tiff-image-frame-splitting/

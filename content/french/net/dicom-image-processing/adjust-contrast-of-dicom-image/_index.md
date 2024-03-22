@@ -25,7 +25,7 @@ Maintenant que nous avons les prérequis couverts, commençons à régler le con
 
 Pour commencer, vous devez importer les espaces de noms requis pour votre projet. Cela vous permet d'accéder aux classes et méthodes nécessaires pour travailler avec des images DICOM.
 
-### Étape 1 : Importer des espaces de noms
+### Étape 1 : Importer les espaces de noms
 
 ```csharp
 using System;

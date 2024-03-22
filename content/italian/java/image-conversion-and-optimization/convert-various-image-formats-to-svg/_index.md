@@ -78,7 +78,7 @@ R3: La versione di prova gratuita di Aspose.Imaging per Java fornisce funzionali
 
 ### Q4: Dove posso trovare ulteriore supporto e risorse?
 
- A4: per qualsiasi domanda, supporto o ulteriore assistenza, visitare il[Forum Aspose.Imaging per Java](https://forum.aspose.com/) . Puoi anche fare riferimento a[documentazione](https://reference.aspose.com/imaging/java/) per una guida completa.
+ A4: per qualsiasi domanda, supporto o ulteriore assistenza, visitare il sito[Forum Aspose.Imaging per Java](https://forum.aspose.com/) . Puoi anche fare riferimento a[documentazione](https://reference.aspose.com/imaging/java/) per una guida completa.
 
 ### Q5: Quali sono i vantaggi derivanti dall'utilizzo del formato SVG per le immagini?
 

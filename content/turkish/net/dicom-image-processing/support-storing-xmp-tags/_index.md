@@ -39,7 +39,7 @@ using (DicomImage image = (DicomImage)Image.Load(dataDir + "file.dcm"))
 }
 ```
 
-## 2. Adım: XMP Paketi ve Dicom Paketi Oluşturun
+## 2. Adım: Bir XMP Paketi ve Dicom Paketi Oluşturun
 
 Meta verilerinizi depolamak için bir XmpPacketWrapper ve DicomPackage oluşturun. Kurum, üretici, hasta ayrıntıları, seri bilgileri ve çalışma ayrıntıları gibi çeşitli meta veri alanlarını ayarlayabilirsiniz.
 

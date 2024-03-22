@@ -32,7 +32,7 @@ Aspose.Imaging for .NET 是一个功能强大的工具，使开发人员和设�
 
 ### 第 2 步：启动 Aspose.Imaging
 
-打开 Aspose.Imaging for .NET 并加载您的基础镜像。这将是您将在其上组合其他图像的画布。
+打开 Aspose.Imaging for .NET 并加载您的基础映像。这将是您将在其上组合其他图像的画布。
 
 ### 第 3 步：叠加和调整
 

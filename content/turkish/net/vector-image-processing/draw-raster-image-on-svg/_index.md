@@ -46,7 +46,7 @@ using (RasterImage imageToDraw = (RasterImage)Image.Load(dataDir + "asposenet_22
 using (SvgImage canvasImage = (SvgImage)Image.Load(dataDir + "asposenet_220_src02.svg"))
 ```
 
-## 3. Adım: SVG Görüntüsünde Çizim Yapma
+## Adım 3: SVG Görüntüsünde Çizim Yapma
 
 Artık mevcut SVG görüntüsü üzerinde çizim yapmaya başlayabilirsiniz. Bunu yapmak için bir örneğini oluşturmanız gerekir.`SvgGraphics2D`:
 

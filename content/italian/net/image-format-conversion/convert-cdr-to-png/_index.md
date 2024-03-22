@@ -78,7 +78,7 @@ File.Delete(dataDir + "SimpleShapes.png");
 
 ## Conclusione
 
-In questa guida passo passo, abbiamo esplorato come convertire i file CDR in formato PNG utilizzando Aspose.Imaging per .NET. Con gli spazi dei nomi, il caricamento, la configurazione delle opzioni e l'esecuzione della conversione corretti, puoi integrare perfettamente questo processo nelle tue applicazioni .NET. Aspose.Imaging semplifica il processo di conversione e offre varie opzioni di personalizzazione.
+In questa guida passo passo, abbiamo esplorato come convertire i file CDR in formato PNG utilizzando Aspose.Imaging per .NET. Con gli spazi dei nomi, il caricamento, le opzioni di configurazione e l'esecuzione della conversione corretti, puoi integrare perfettamente questo processo nelle tue applicazioni .NET. Aspose.Imaging semplifica il processo di conversione e offre varie opzioni di personalizzazione.
 
 Ora puoi sfruttare la potenza di Aspose.Imaging per migliorare le tue applicazioni .NET convertendo perfettamente i file CDR in formato PNG.
 

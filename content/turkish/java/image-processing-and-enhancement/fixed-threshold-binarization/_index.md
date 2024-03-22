@@ -75,7 +75,7 @@ if (!rasterCachedImage.isCached()) {
 
 ## 4. Adım: İkilileştirmeyi Gerçekleştirin
 
-Artık Sabit Eşik İkilileştirmesini uygulama zamanı. Bu örnekte 100 gibi sabit bir eşik kullanıyoruz. Bu eşiği gereksinimlerinize göre ayarlayabilirsiniz.
+Şimdi Sabit Eşik İkilileştirmesini uygulama zamanı. Bu örnekte 100 gibi sabit bir eşik kullanıyoruz. Bu eşiği gereksinimlerinize göre ayarlayabilirsiniz.
 
 ```java
 byte threshold = 100;

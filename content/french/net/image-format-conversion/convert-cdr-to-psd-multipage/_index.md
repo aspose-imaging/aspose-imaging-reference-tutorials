@@ -19,7 +19,7 @@ Avant de nous lancer dans le processus de conversion, assurez-vous que les condi
 
 Maintenant que tout est configuré, commençons le processus de conversion.
 
-## Étape 1 : Importer des espaces de noms
+## Étape 1 : Importer les espaces de noms
 
 Tout d’abord, vous devez importer les espaces de noms nécessaires pour accéder aux fonctionnalités d’Aspose.Imaging. Incluez les espaces de noms suivants dans votre code :
 

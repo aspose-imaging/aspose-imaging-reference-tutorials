@@ -7,7 +7,7 @@ type: docs
 weight: 13
 url: /es/net/image-format-conversion/convert-cmx-to-pdf/
 ---
-En el mundo del procesamiento de documentos y manipulación de imágenes, Aspose.Imaging para .NET se presenta como una herramienta poderosa y versátil. Ofrece una amplia gama de funciones para la conversión y manipulación de imágenes. En esta guía paso a paso, lo guiaremos a través del proceso de convertir un archivo CMX a PDF usando Aspose.Imaging para .NET.
+En el mundo del procesamiento de documentos y manipulación de imágenes, Aspose.Imaging para .NET se presenta como una herramienta potente y versátil. Ofrece una amplia gama de funciones para la conversión y manipulación de imágenes. En esta guía paso a paso, lo guiaremos a través del proceso de convertir un archivo CMX a PDF usando Aspose.Imaging para .NET.
 
 ## Requisitos previos
 

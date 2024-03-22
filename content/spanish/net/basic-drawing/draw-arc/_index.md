@@ -2,7 +2,7 @@
 title: Creando arcos con Aspose.Imaging para .NET
 linktitle: Dibujar arco en Aspose.Imaging para .NET
 second_title: API de procesamiento de imágenes Aspose.Imaging .NET
-description: Aprenda a dibujar arcos con Aspose.Imaging para .NET, una potente herramienta de manipulación de imágenes. Guía paso a paso para crear imágenes impresionantes.
+description: Aprenda a dibujar arcos con Aspose.Imaging para .NET, una poderosa herramienta de manipulación de imágenes. Guía paso a paso para crear imágenes impresionantes.
 type: docs
 weight: 10
 url: /es/net/basic-drawing/draw-arc/

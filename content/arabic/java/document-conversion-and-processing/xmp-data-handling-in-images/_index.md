@@ -173,7 +173,7 @@ A1: يعد XMP (منصة بيانات التعريف القابلة للتوسي
 
 
 
-## استكمال كود المصدر
+## كود المصدر الكامل
 ```java
         
 String dataDir = "Your Document Directory" + "ConvertingImages/";

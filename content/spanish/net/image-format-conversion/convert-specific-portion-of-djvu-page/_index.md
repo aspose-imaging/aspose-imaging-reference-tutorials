@@ -7,7 +7,7 @@ type: docs
 weight: 20
 url: /es/net/image-format-conversion/convert-specific-portion-of-djvu-page/
 ---
-Si busca manipular imágenes DJVU en sus aplicaciones .NET, Aspose.Imaging para .NET proporciona un potente conjunto de herramientas para realizar el trabajo. En esta guía paso a paso, le mostraremos cómo convertir una parte específica de una página DJVU a un formato diferente usando Aspose.Imaging para .NET.
+Si busca manipular imágenes DJVU en sus aplicaciones .NET, Aspose.Imaging para .NET proporciona un poderoso conjunto de herramientas para realizar el trabajo. En esta guía paso a paso, le mostraremos cómo convertir una parte específica de una página DJVU a un formato diferente usando Aspose.Imaging para .NET.
 
 ## Requisitos previos
 

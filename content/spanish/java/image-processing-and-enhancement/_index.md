@@ -79,7 +79,7 @@ Para aquellos que buscan ajustar el brillo de la imagen, Aspose.Imaging para Jav
 Por último, exploramos la aplicación de filtros a imágenes DICOM utilizando Aspose.Imaging para Java. Estos tutoriales mejoran la calidad de las imágenes médicas y ayudan a los profesionales médicos a brindar una mejor atención al paciente.
 
 En conclusión, el mundo del procesamiento y mejora de imágenes se vuelve más accesible con los tutoriales de Aspose.Imaging para Java. Ya sea que sea un profesional experimentado o un principiante, estas guías paso a paso mejorarán sus habilidades de procesamiento de imágenes y darán como resultado imágenes impresionantes y de alta calidad. Sumérgete y observa cómo tus imágenes se transforman ante tus ojos.
-## Tutoriales de mejora y procesamiento de imágenes
+## Tutoriales de procesamiento y mejora de imágenes
 ### [Optimizar el uso de fuentes predeterminadas](./optimize-default-font-usage/)
 Aprenda cómo optimizar el uso de fuentes predeterminadas con Aspose.Imaging para Java. Mejore el procesamiento de sus documentos con una guía paso a paso.
 ### [Soporte de imagen FODG](./fodg-image-support/)
