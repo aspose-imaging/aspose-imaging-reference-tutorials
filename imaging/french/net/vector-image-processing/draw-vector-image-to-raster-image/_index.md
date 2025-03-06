@@ -3,10 +3,16 @@ title: Dessiner une image vectorielle sur une image raster dans Aspose.Imaging p
 linktitle: Dessiner une image vectorielle sur une image raster dans Aspose.Imaging pour .NET
 second_title: API de traitement d'images Aspose.Imaging .NET
 description: Découvrez comment convertir des images vectorielles en images raster dans .NET à l'aide d'Aspose.Imaging. Un guide étape par étape pour un traitement d’image efficace.
-type: docs
 weight: 13
 url: /fr/net/vector-image-processing/draw-vector-image-to-raster-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Dessiner une image vectorielle sur une image raster dans Aspose.Imaging pour .NET
+
 
 Cherchez-vous à convertir des images vectorielles en images raster sans effort dans vos applications .NET ? Aspose.Imaging for .NET fournit une solution efficace pour cette tâche. Dans ce guide étape par étape, nous vous guiderons tout au long du processus de dessin d'images vectorielles sur des images raster à l'aide d'Aspose.Imaging pour .NET. 
 
@@ -111,3 +117,10 @@ Aspose.Imaging for .NET est une bibliothèque .NET qui fournit de puissantes fon
 
 ### Où puis-je obtenir de l’assistance pour Aspose.Imaging pour .NET ?
  Pour toute assistance ou question, vous pouvez visiter le[Forum Aspose.Imaging](https://forum.aspose.com/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

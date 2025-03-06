@@ -3,10 +3,16 @@ title: Nén DICOM trong Aspose.Imaging cho .NET
 linktitle: Nén DICOM trong Aspose.Imaging cho .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Tìm hiểu cách thực hiện nén DICOM bằng Aspose.Imaging cho .NET. Hãy làm theo hướng dẫn từng bước này để lưu trữ và truyền hình ảnh y tế một cách hiệu quả với chất lượng chẩn đoán cao.
-type: docs
 weight: 17
 url: /vi/net/dicom-image-processing/dicom-compression/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Nén DICOM trong Aspose.Imaging cho .NET
+
 Trong thế giới hình ảnh y tế, tiêu chuẩn DICOM (Hình ảnh kỹ thuật số và truyền thông trong y học) là tiêu chuẩn tối quan trọng để lưu trữ và chia sẻ hình ảnh y tế. Aspose.Imaging for .NET, một thư viện .NET mạnh mẽ, cung cấp hỗ trợ toàn diện để làm việc với hình ảnh DICOM. Hướng dẫn này sẽ hướng dẫn bạn quy trình nén DICOM bằng Aspose.Imaging cho .NET. Chúng tôi sẽ chia nhỏ từng bước và giải thích chi tiết quy trình.
 
 ## Điều kiện tiên quyết
@@ -151,3 +157,9 @@ Câu trả lời 3: Có, Aspose.Imaging for .NET cung cấp nhiều khả năng 
 ### Câu hỏi 5: Có sẵn phiên bản dùng thử của Aspose.Imaging cho .NET để thử nghiệm không?
 
  Câu trả lời 5: Có, bạn có thể nhận được[giấy phép dùng thử miễn phí](https://releases.aspose.com/) để kiểm tra Aspose.Imaging cho .NET trước khi mua hàng.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Java용 Aspose.Imaging을 사용한 Otsu 임계값 이진화
 linktitle: Otsu 임계값 이진화
 second_title: Aspose.Imaging Java 이미지 처리 API
 description: Java의 Otsu 임계값 이진화를 위한 Aspose.Imaging을 사용하여 이미지 품질을 향상하세요. 우수한 이미지 처리를 위한 단계별 가이드를 따르세요.
-type: docs
 weight: 22
 url: /ko/java/image-processing-and-enhancement/otsu-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Java용 Aspose.Imaging을 사용한 Otsu 임계값 이진화
+
 이미지 처리 및 조작 분야에서 Aspose.Imaging for Java는 개발자가 다양한 이미지 형식으로 작업할 수 있도록 지원하는 강력한 툴킷입니다. 많은 기능 중에서 Otsu Threshold Binarization은 이미지 향상 및 분석을 위한 중요한 기술입니다. 이 튜토리얼에서는 Aspose.Imaging for Java를 사용하여 이미지에 대해 Otsu Threshold Binarization을 수행하는 과정을 단계별로 안내합니다.
 
 ## 전제 조건
@@ -105,3 +111,9 @@ A1: Otsu 임계값 이진화는 이미지를 전경과 배경으로 분리하기
 ### Q5: 상업용 프로젝트에서 Java용 Aspose.Imaging을 사용할 수 있나요?
 
 A5: 예, Aspose.Imaging for Java는 개인 및 상업 프로젝트 모두에 적합합니다. 특정 요구 사항에 맞는 라이선스 옵션을 탐색할 수 있습니다.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

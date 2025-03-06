@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for .NET 產生灰階 DICOM 影像
 linktitle: Aspose.Imaging for .NET 中 DICOM 的灰度
 second_title: Aspose.Imaging .NET 映像處理 API
 description: 了解如何使用強大的影像處理庫 Aspose.Imaging for .NET 對 DICOM 影像執行灰階化。
-type: docs
 weight: 24
 url: /zh-hant/net/dicom-image-processing/grayscale-on-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for .NET 產生灰階 DICOM 影像
+
 如果您正在處理 DICOM 格式的醫學影像資料並需要執行灰階轉換，Aspose.Imaging for .NET 提供了一個強大的解決方案。在本逐步教學中，我們將引導您完成使用 Aspose.Imaging 對 DICOM 影像進行灰度化的過程。該程式庫是一個多功能工具，可讓您在 .NET 環境中使用各種映像格式，包括 DICOM。讓我們開始吧！
 
 ## 先決條件
@@ -85,3 +91,9 @@ A2：是的，Aspose.Imaging 是一個多功能庫，可以處理各種影像格
 ### Q5：如何獲得 Aspose.Imaging 的支援？
 
  A5：如果您有任何疑問或需要協助，您可以訪問[Aspose.Imaging 論壇](https://forum.aspose.com/)向社區尋求協助或聯繫他們的支援團隊。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

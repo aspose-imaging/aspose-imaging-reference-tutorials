@@ -3,10 +3,16 @@ title: .NET용 Aspose.Imaging을 사용한 DICOM 이미지 처리
 linktitle: DICOM 이미지 처리
 second_title: Aspose.Imaging .NET 이미지 처리 API
 description: .NET용 Aspose.Imaging을 사용하여 DICOM 이미지 처리에 대한 포괄적인 튜토리얼 시리즈를 살펴보세요. 쉽게 의료 이미지를 향상시키는 방법을 알아보세요.
-type: docs
 weight: 28
 url: /ko/net/dicom-image-processing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET용 Aspose.Imaging을 사용한 DICOM 이미지 처리
+
 
 .NET용 Aspose.Imaging을 사용하여 DICOM 이미지 처리 기술을 익히고 싶으십니까? 더 이상 보지 마세요! 이 튜토리얼 시리즈에서는 의료 이미지를 쉽게 향상하고 조작할 수 있는 다양한 기술을 안내합니다. 의료 전문가, 개발자 또는 호기심이 많은 학습자라면 이 튜토리얼을 통해 Aspose.Imaging for .NET을 최대한 활용할 수 있는 지식과 기술을 얻을 수 있습니다.
 
@@ -108,3 +114,9 @@ Aspose.Imaging을 사용하여 .NET에서 이미지를 DICOM 형식으로 내보
 강력한 이미지 처리 라이브러리인 Aspose.Imaging for .NET을 사용하여 DICOM 이미지에서 그레이스케일링을 수행하는 방법을 알아보세요.
 ### [.NET용 Aspose.Imaging에서 XMP 태그 저장 지원](./support-storing-xmp-tags/)
 .NET용 Aspose.Imaging을 사용하여 DICOM 이미지에 XMP 메타데이터를 추가하는 방법을 알아보세요. 이 단계별 가이드를 통해 이미지 관리 및 구성을 최적화하세요.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

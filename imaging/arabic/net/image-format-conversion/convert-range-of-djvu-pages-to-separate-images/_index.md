@@ -3,10 +3,16 @@ title: تحويل نطاق صفحات DJVU إلى صور منفصلة في Aspos
 linktitle: تحويل نطاق صفحات DJVU إلى صور منفصلة في Aspose.Imaging لـ .NET
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: اكتشف كيفية تحويل صفحات DJVU إلى صور منفصلة باستخدام Aspose.Imaging for .NET. يتم توفير دليل خطوة بخطوة وأمثلة التعليمات البرمجية والأسئلة الشائعة.
-type: docs
 weight: 19
 url: /ar/net/image-format-conversion/convert-range-of-djvu-pages-to-separate-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# تحويل نطاق صفحات DJVU إلى صور منفصلة في Aspose.Imaging لـ .NET
+
 إذا كنت تبحث عن مكتبة .NET قوية للتعامل مع مهام تحويل الصور ومعالجتها، فإن Aspose.Imaging for .NET هو الخيار الأمثل. في هذا البرنامج التعليمي، سنرشدك خلال عملية تحويل مجموعة من صفحات DJVU إلى صور منفصلة باستخدام Aspose.Imaging. ستجد تعليمات خطوة بخطوة ومقتطفات التعليمات البرمجية لمساعدتك في تحقيق هذه المهمة.
 
 ## المتطلبات الأساسية
@@ -108,3 +114,9 @@ foreach (var i in range.Range)
 ### س5: هل يمكنني الحصول على الدعم والمساعدة إذا واجهت مشاكل؟
 
  ج5: نعم، يمكنك طلب المساعدة والتواصل مع المجتمع على[Aspose.منتدى التصوير](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

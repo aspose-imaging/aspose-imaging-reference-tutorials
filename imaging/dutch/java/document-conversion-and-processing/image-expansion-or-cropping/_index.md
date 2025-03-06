@@ -3,10 +3,16 @@ title: Afbeelding uitbreiden of bijsnijden met Aspose.Imaging voor Java
 linktitle: Afbeelding uitbreiden of bijsnijden
 second_title: Aspose.Imaging Java-beeldverwerkings-API
 description: Leer het uitbreiden en bijsnijden van afbeeldingen in Java met Aspose.Imaging. Stap-voor-stap handleiding voor ontwikkelaars. Verbeter uw vaardigheden op het gebied van beeldmanipulatie.
-type: docs
 weight: 12
 url: /nl/java/document-conversion-and-processing/image-expansion-or-cropping/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Afbeelding uitbreiden of bijsnijden met Aspose.Imaging voor Java
+
 In de steeds evoluerende wereld van digitale media is effectieve beeldmanipulatie een fundamentele behoefte voor zowel bedrijven als individuen. Aspose.Imaging voor Java is een veelzijdige Java-bibliotheek waarmee u moeiteloos met afbeeldingen kunt werken. In deze uitgebreide zelfstudie leiden we u door het proces van het uitbreiden en bijsnijden van afbeeldingen met Aspose.Imaging voor Java. Of je nu een doorgewinterde ontwikkelaar bent of net begint met coderen, we zullen elke stap op een beginnersvriendelijke manier opsplitsen.
 
 ## Vereisten
@@ -101,3 +107,9 @@ A3: Ja, Aspose.Imaging voor Java is geschikt voor webapplicaties en kan worden g
 ### V5: Is er een gratis proefversie beschikbaar voor Aspose.Imaging voor Java?
 
  A5: Ja, u kunt de bibliotheek verkennen met een gratis proefperiode. Download het van[hier](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

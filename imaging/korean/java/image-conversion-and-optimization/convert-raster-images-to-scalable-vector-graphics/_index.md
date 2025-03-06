@@ -3,10 +3,16 @@ title: Java용 Aspose.Imaging을 사용하여 래스터 이미지를 SVG로 변�
 linktitle: 래스터 이미지를 확장 가능한 벡터 그래픽으로 변환
 second_title: Aspose.Imaging Java 이미지 처리 API
 description: Java용 Aspose.Imaging을 사용하여 래스터 이미지를 SVG로 변환하는 방법을 알아보세요. 이미지 품질과 확장성을 손쉽게 향상할 수 있습니다.
-type: docs
 weight: 13
 url: /ko/java/image-conversion-and-optimization/convert-raster-images-to-scalable-vector-graphics/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Java용 Aspose.Imaging을 사용하여 래스터 이미지를 SVG로 변환
+
 Java를 사용하여 래스터 이미지를 확장 가능한 벡터 그래픽(SVG)으로 변환하려고 하시나요? 당신은 바로 이곳에 있습니다! 이 단계별 가이드는 Aspose.Imaging for Java를 사용하여 이 작업을 수행하는 과정을 안내합니다. 이 튜토리얼이 끝나면 래스터 이미지를 SVG 형식으로 쉽게 변환하여 확장성과 향상된 이미지 품질을 얻을 수 있습니다.
 
 ## 전제 조건
@@ -108,3 +114,9 @@ A4: Aspose.Imaging for Java와 관련된 질문이나 문제가 있는 경우 �
 ### Q5: Aspose.Imaging for Java에 대한 대안이 있습니까?
 
 A5: 예, 이미지 변환에 사용할 수 있는 다른 라이브러리와 도구가 있습니다. 그러나 Aspose.Imaging for Java는 이미지 처리 및 변환을 위한 강력하고 기능이 풍부한 솔루션을 제공합니다.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

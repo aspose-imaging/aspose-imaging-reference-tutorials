@@ -3,10 +3,16 @@ title: DICOM képfeldolgozás az Aspose.Imaging segítségével .NET-hez
 linktitle: DICOM képfeldolgozás
 second_title: Aspose.Imaging .NET Image Processing API
 description: Fedezze fel a DICOM-képfeldolgozás átfogó oktatóanyag-sorozatát az Aspose.Imaging for .NET használatával. Tanulja meg az orvosi képeket könnyedén javítani.
-type: docs
 weight: 28
 url: /hu/net/dicom-image-processing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# DICOM képfeldolgozás az Aspose.Imaging segítségével .NET-hez
+
 
 Szeretné elsajátítani a DICOM képfeldolgozás művészetét az Aspose.Imaging for .NET segítségével? Ne keressen tovább! Ebben az oktatóanyag-sorozatban végigvezetjük Önt az orvosi képek egyszerű javításához és kezeléséhez szükséges különféle technikákon. Legyen szó egészségügyi szakemberről, fejlesztőről vagy csak kíváncsi tanulóról, ezek az oktatóanyagok felvértezik azokat a tudást és készségeket, amelyek segítségével a legtöbbet hozhatja ki az Aspose.Imaging for .NET-ből.
 
@@ -108,3 +114,9 @@ Ismerje meg, hogyan exportálhat képeket DICOM formátumba .NET-ben az Aspose.I
 Tanulja meg, hogyan végezhet szürkeárnyalatos DICOM-képeket az Aspose.Imaging for .NET segítségével, amely egy hatékony képfeldolgozó könyvtár.
 ### [Az XMP-címkék tárolásának támogatása az Aspose.Imaging for .NET-ben](./support-storing-xmp-tags/)
 Ismerje meg, hogyan adhat hozzá XMP-metaadatokat DICOM-képekhez az Aspose.Imaging for .NET segítségével. Optimalizálja a képkezelést és -szervezést ezzel a lépésről-lépésre szóló útmutatóval.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

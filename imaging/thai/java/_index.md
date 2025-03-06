@@ -1,12 +1,17 @@
 ---
 title: บทช่วยสอนการประมวลผลภาพ Java ด้วย Aspose.Imaging
 linktitle: Aspose.Imaging สำหรับการสอน Java
-type: docs
 weight: 10
 url: /th/java/
 description: เรียนรู้การแปลงรูปภาพ การเพิ่มประสิทธิภาพ และการประมวลผลเอกสารด้วย Aspose.Imaging สำหรับ Java ปรับภาพให้เหมาะสมอย่างง่ายดายด้วยบทช่วยสอนของเรา
-is_root: true
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# บทช่วยสอนการประมวลผลภาพ Java ด้วย Aspose.Imaging
+
 
 คุณพร้อมที่จะดำดิ่งสู่โลกแห่งการประมวลผลภาพด้วย Java แล้วหรือยัง? Aspose.Imaging อยู่ที่นี่เพื่อแนะนำคุณเกี่ยวกับศิลปะอันซับซ้อนของการจัดการรูปภาพและเอกสาร ในบทความนี้ เราจะพาคุณเดินทางผ่านขุมทรัพย์อันอุดมสมบูรณ์ของ Aspose.Imaging สำหรับบทช่วยสอน Java ซึ่งคุณสามารถสำรวจความมหัศจรรย์ของการแปลงรูปภาพ การปรับปรุง และการประมวลผลเอกสาร ถึงเวลาปลดล็อกศักยภาพของภาพของคุณอย่างเต็มรูปแบบได้อย่างง่ายดาย!
 
@@ -41,3 +46,9 @@ is_root: true
 สำรวจบทช่วยสอนที่ครอบคลุมเกี่ยวกับการแปลงและการประมวลผลเอกสารด้วย Aspose.Imaging Java เชี่ยวชาญการจัดการและแปลงรูปภาพด้วยบทช่วยสอนเหล่านี้
 ### [การจัดการ Metafile และภาพเวกเตอร์](./metafile-and-vector-image-handling/)
 ปลดล็อกศักยภาพของ Aspose.Imaging สำหรับ Java ด้วยบทช่วยสอนทีละขั้นตอนของเรา สร้างอิมเมจเมตาไฟล์ WMF จัดการส่วนหัว BMP และอื่นๆ ได้อย่างง่ายดาย
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

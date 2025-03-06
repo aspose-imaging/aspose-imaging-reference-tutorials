@@ -3,10 +3,16 @@ title: Java용 Aspose.Imaging을 사용하여 TIFF에서 BMP로 변환
 linktitle: TIFF 프레임을 BMP 형식으로 추출
 second_title: Aspose.Imaging Java 이미지 처리 API
 description: Aspose.Imaging for Java를 사용하여 Java에서 TIFF 프레임을 BMP 형식으로 추출하는 방법을 알아보세요. 단계별 가이드를 따르세요.
-type: docs
 weight: 13
 url: /ko/java/document-conversion-and-processing/extract-tiff-frames-to-bmp-format/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Java용 Aspose.Imaging을 사용하여 TIFF에서 BMP로 변환
+
 Java로 이미지 파일, 특히 TIFF 이미지를 작업하고 그 파일에서 프레임을 추출하여 BMP 형식으로 저장해야 한다면 Aspose.Imaging for Java는 이를 달성하기 위한 강력하고 다재다능한 도구입니다. 이 단계별 가이드에서는 Aspose.Imaging for Java를 사용하여 TIFF 프레임을 BMP 형식으로 추출하는 과정을 안내합니다.
 
 ## 전제 조건
@@ -112,3 +118,9 @@ A4: 예, 무료 평가판을 통해 Aspose.Imaging for Java를 탐색할 수 있
 ### Q5: Java용 Aspose.Imaging에 대한 지원을 받으려면 어떻게 해야 합니까?
 
  A5: Aspose.Imaging for Java와 관련된 질문, 문제 또는 지원이 있는 경우 지원 포럼을 방문하세요.[여기](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

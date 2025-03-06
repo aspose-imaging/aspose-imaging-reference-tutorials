@@ -3,10 +3,16 @@ title: WMF メタファイルをスケーラブルなベクター グラフィ�
 linktitle: WMF メタファイルをスケーラブルなベクター グラフィックスに変換する
 second_title: Aspose.Imaging Java 画像処理 API
 description: Aspose.Imaging を使用して Java で WMF 画像を SVG に変換する方法を学びます。効率的な画像フォーマット変換については、ステップバイステップのガイドに従ってください。
-type: docs
 weight: 15
 url: /ja/java/image-conversion-and-optimization/convert-wmf-metafiles-to-scalable-vector-graphics/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# WMF メタファイルをスケーラブルなベクター グラフィックスに変換する
+
 ## 導入
 
 Aspose.Imaging for Java を使用して WMF (Windows メタファイル) イメージを SVG (スケーラブル ベクター グラフィックス) に変換する方法に関するステップバイステップ ガイドへようこそ。経験豊富な開発者でも、初心者でも、このチュートリアルでは、このタスクを効率的に実行するために必要なすべての重要な情報を提供します。
@@ -94,3 +100,9 @@ A3: Aspose.Imaging は、BMP、JPEG、PNG、TIFF などを含む幅広い画像�
 ### Q5: Aspose.Imaging for Java と互換性のある Java のバージョンは何ですか?
 
 A5: Aspose.Imaging for Java は Java 8 以降のバージョンと互換性があります。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

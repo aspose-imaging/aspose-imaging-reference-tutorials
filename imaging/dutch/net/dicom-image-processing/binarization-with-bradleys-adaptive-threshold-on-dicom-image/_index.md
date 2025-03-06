@@ -3,10 +3,16 @@ title: Binarisatie met Bradley's adaptieve drempel op DICOM-afbeelding in Aspose
 linktitle: Binarisatie met Bradley's adaptieve drempel op DICOM-afbeelding in Aspose.Imaging voor .NET
 second_title: Aspose.Imaging .NET-API voor beeldverwerking
 description: Leer Bradley's Adaptive Threshold toepassen op DICOM-afbeeldingen met behulp van Aspose.Imaging voor .NET. Binarisatie eenvoudig gemaakt met stapsgewijze handleiding.
-type: docs
 weight: 14
 url: /nl/net/dicom-image-processing/binarization-with-bradleys-adaptive-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binarisatie met Bradley's adaptieve drempel op DICOM-afbeelding in Aspose.Imaging voor .NET
+
 Wilt u Bradley's Adaptive Threshold toepassen op een DICOM-image met Aspose.Imaging voor .NET? In deze uitgebreide tutorial leiden we u stap voor stap door het proces. Aan het einde van deze handleiding kunt u DICOM-afbeeldingen efficiënt binariseren. We behandelen alles, van de vereisten tot het importeren van naamruimten en het opsplitsen van elk voorbeeld in meerdere stappen.
 
 ## Vereisten
@@ -97,3 +103,9 @@ A2: Ja, u kunt meerdere DICOM-afbeeldingen doorlopen en het binarisatieproces to
 ### V5: Hoe kan ik ondersteuning krijgen voor Aspose.Imaging voor .NET?
 
  A5: U kunt lid worden van de Aspose-community en ondersteuning krijgen van collega-ontwikkelaars op de[Aspose-forum](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

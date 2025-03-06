@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET ile DICOM Görüntülerini Çevirme
 linktitle: Aspose.Imaging for .NET'te DICOM Görüntüsünü Çevir
 second_title: Aspose.Imaging .NET Görüntü İşleme API'si
 description: Aspose.Imaging for .NET'i kullanarak DICOM görüntülerini nasıl çevireceğinizi öğrenin. Tıbbi uygulamalar ve daha fazlası için kolay, etkili görüntü işleme.
-type: docs
 weight: 10
 url: /tr/net/image-transformation/flip-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET ile DICOM Görüntülerini Çevirme
+
 ## giriiş
 
 Yazılım geliştirme dünyasında görüntü manipülasyonu yaygın ve önemli bir görevdir. İster tıbbi bir görüntüleme uygulaması üzerinde ister yaratıcı bir grafik tasarım projesi üzerinde çalışıyor olun, DICOM görüntülerini çevirme yeteneği değerli bir beceridir. Aspose.Imaging for .NET, bunu zahmetsizce başarmanıza yardımcı olabilecek güçlü bir araçtır. Bu kapsamlı kılavuzda, Aspose.Imaging for .NET kullanarak DICOM görüntülerini çevirme sürecinde size yol göstereceğiz. Her adımı ayrıntılı olarak ele alacağız, kod örnekleri sunacağız ve bilmeniz gereken önkoşullar ve ad alanlarına ilişkin bilgiler sunacağız.
@@ -99,3 +105,9 @@ A2: Kesinlikle! Aspose.Imaging for .NET, tıbbi görüntüleme projeleri için �
 
 ### S5: Aspose.Imaging for .NET başka hangi görüntü işleme özelliklerini sunuyor?
 Cevap5: Aspose.Imaging for .NET, yeniden boyutlandırma, kırpma, filtreleme ve çok daha fazlasını içeren çok çeşitli özellikler sunar. Kitaplığın tüm yeteneklerini belgelerde keşfedebilirsiniz.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

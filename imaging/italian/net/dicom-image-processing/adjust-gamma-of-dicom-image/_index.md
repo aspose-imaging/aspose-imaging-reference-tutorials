@@ -3,10 +3,16 @@ title: Regolazione della gamma dell'immagine DICOM con Aspose.Imaging per .NET
 linktitle: Regola la gamma dell'immagine DICOM in Aspose.Imaging per .NET
 second_title: Aspose.Imaging API di elaborazione delle immagini .NET
 description: Scopri come regolare la gamma nelle immagini DICOM utilizzando Aspose.Imaging per .NET. Migliora la qualità delle immagini mediche con semplici passaggi.
-type: docs
 weight: 12
 url: /it/net/dicom-image-processing/adjust-gamma-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Regolazione della gamma dell'immagine DICOM con Aspose.Imaging per .NET
+
 Quando si lavora con immagini mediche, spesso sono necessarie regolazioni precise per migliorarne la qualità e la chiarezza. Aspose.Imaging per .NET è una potente libreria che consente di manipolare vari formati di immagine, incluso DICOM (Digital Imaging and Communications in Medicine). In questa guida passo passo ti guideremo attraverso il processo di regolazione della gamma di un'immagine DICOM utilizzando Aspose.Imaging per .NET.
 
 ## Prerequisiti
@@ -98,3 +104,9 @@ A4: Aspose.Imaging per .NET offre un'ampia gamma di funzionalità, tra cui ritag
 ### Q5: Come posso ottenere supporto tecnico per Aspose.Imaging per .NET?
 
  R5: Per assistenza tecnica e supporto della comunità, è possibile visitare il[Forum Aspose.Imaging](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

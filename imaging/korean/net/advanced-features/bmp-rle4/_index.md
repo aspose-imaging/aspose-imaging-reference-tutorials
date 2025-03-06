@@ -3,10 +3,16 @@ title: .NET 튜토리얼용 Aspose.Imaging의 BMP RLE4 압축
 linktitle: .NET용 Aspose.Imaging의 BMP RLE4
 second_title: Aspose.Imaging .NET 이미지 처리 API
 description: .NET용 Aspose.Imaging에서 BMP RLE4 압축을 적용하는 방법을 알아보세요. 품질 손실 없이 BMP 이미지 크기를 줄입니다.
-type: docs
 weight: 15
 url: /ko/net/advanced-features/bmp-rle4/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET 튜토리얼용 Aspose.Imaging의 BMP RLE4 압축
+
 Aspose.Imaging for .NET은 개발자가 BMP를 포함한 다양한 이미지 형식으로 작업할 수 있도록 하는 강력한 라이브러리입니다. 이 튜토리얼에서는 BMP RLE4 압축 기술과 이를 .NET용 Aspose.Imaging에서 사용하는 방법을 살펴보겠습니다. 이 단계별 가이드는 환경 설정부터 압축된 BMP 이미지 생성 및 저장까지 BMP RLE4 압축 작업 과정을 안내합니다.
 
 ## 전제 조건
@@ -112,3 +118,9 @@ A3: 예, Aspose.Imaging for .NET은 Windows 및 .NET Core 환경 모두와 호�
 ### Q5: Aspose.Imaging for .NET에 대한 임시 라이선스를 어떻게 얻을 수 있나요?
 
  A5: 다음을 방문하여 Aspose.Imaging for .NET에 대한 임시 라이센스를 얻을 수 있습니다.[임시 라이센스 페이지](https://purchase.aspose.com/temporary-license/) Aspose 웹 사이트에서.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

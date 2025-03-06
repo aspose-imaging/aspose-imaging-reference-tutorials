@@ -3,10 +3,16 @@ title: 중앙값 및 위너 필터 적용
 linktitle: 중앙값 및 위너 필터 적용
 second_title: Aspose.Imaging Java 이미지 처리 API
 description: Aspose.Imaging for Java를 사용하여 이미지 품질을 향상하는 방법을 알아보세요. 이 단계별 튜토리얼에서는 이미지 노이즈 제거를 위한 Median 및 Wiener 필터 애플리케이션을 다룹니다.
-type: docs
 weight: 19
 url: /ko/java/image-processing-and-enhancement/median-and-wiener-filter-application/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 중앙값 및 위너 필터 적용
+
 영상 처리의 세계에서는 노이즈를 제거하고 화질을 높이는 것이 중요한 작업입니다. Aspose.Imaging for Java는 이미지 작업을 위한 다양한 도구와 필터를 제공하는 강력한 라이브러리입니다. 이 튜토리얼에서는 라이브러리를 사용하여 Median 및 Wiener 필터를 적용하여 이미지를 정리하고 노이즈를 제거하는 과정을 안내합니다. 이 단계별 가이드는 전문가 수준의 이미지 향상을 달성하는 데 도움이 됩니다.
 
 ## 전제 조건
@@ -97,3 +103,9 @@ A4: Median 필터 외에도 이미지 향상 기술에는 Wiener 필터링, Gaus
 ### Q5: 내 웹 애플리케이션에서 Java용 Aspose.Imaging을 사용할 수 있나요?
 
 A5: 예, 서버측 이미지 처리를 위해 Aspose.Imaging for Java를 웹 애플리케이션에 통합할 수 있습니다.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

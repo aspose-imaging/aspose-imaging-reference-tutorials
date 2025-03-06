@@ -3,10 +3,16 @@ title: Theo dõi tiến trình chuyển đổi tài liệu
 linktitle: Theo dõi tiến trình chuyển đổi tài liệu
 second_title: Aspose.Imaging API xử lý hình ảnh Java
 description: Tìm hiểu cách sử dụng Aspose.Imaging cho Java trong hướng dẫn từng bước về thao tác và chuyển đổi hình ảnh này.
-type: docs
 weight: 10
 url: /vi/java/document-conversion-and-processing/monitor-document-conversion-progress/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Theo dõi tiến trình chuyển đổi tài liệu
+
 Trong hướng dẫn này, chúng ta sẽ khám phá cách sử dụng Aspose.Imaging cho Java để thực hiện thao tác và chuyển đổi hình ảnh. Aspose.Imaging for Java là một thư viện Java mạnh mẽ cho phép bạn làm việc với nhiều định dạng hình ảnh khác nhau, khiến nó trở thành một công cụ thiết yếu cho các nhà phát triển xử lý việc xử lý hình ảnh trong ứng dụng của họ. Chúng tôi sẽ chia quy trình thành các bước dễ thực hiện để giúp bạn bắt đầu.
 
 ## Giới thiệu
@@ -145,3 +151,9 @@ Câu trả lời 3: Aspose.Imaging for Java phù hợp với nhiều ứng dụn
 ### Câu hỏi 5: Tôi có thể nhận hỗ trợ cho Aspose.Imaging cho Java ở đâu?
 
  Câu trả lời 5: Nếu bạn có thắc mắc hoặc cần hỗ trợ về Aspose.Imaging dành cho Java, bạn có thể truy cập Aspose[diễn đàn hỗ trợ](https://forum.aspose.com/), nơi bạn có thể tìm thấy các tài nguyên hữu ích và tương tác với cộng đồng Aspose để được hỗ trợ và hướng dẫn.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

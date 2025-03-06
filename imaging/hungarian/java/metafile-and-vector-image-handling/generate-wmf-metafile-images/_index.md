@@ -3,10 +3,16 @@ title: WMF képek létrehozása az Aspose.Imaging for Java segítségével
 linktitle: WMF metafile képeket generál
 second_title: Aspose.Imaging Java Image Processing API
 description: Ismerje meg, hogyan hozhat létre WMF metafájl képeket Java nyelven az Aspose.Imaging segítségével. Kövesse ezt a lépésről lépésre szóló útmutatót a hatékony képgenerálási lehetőségekhez.
-type: docs
 weight: 10
 url: /hu/java/metafile-and-vector-image-handling/generate-wmf-metafile-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# WMF képek létrehozása az Aspose.Imaging for Java segítségével
+
 WMF (Windows Metafile) képeket szeretne létrehozni Java alkalmazásaival? Az Aspose.Imaging for Java egy hatékony eszköz, amellyel könnyedén hozhat létre WMF-képeket. Ebben a lépésenkénti útmutatóban végigvezetjük az Aspose.Imaging for Java használatán WMF metafájlképek létrehozásához. 
 
 ## Előfeltételek
@@ -200,3 +206,9 @@ V1: A WMF a Windows Metafile rövidítése, amely egy vektorgrafikus formátum, 
 ### 5. kérdés: Hol kaphatok támogatást, vagy hol tehetek fel kérdéseket az Aspose.Imaging for Java-val kapcsolatban?
 
  5. válasz: Támogatást találhat és kapcsolatba léphet az Aspose közösséggel a webhelyen[Aspose.Képalkotó fórumok](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

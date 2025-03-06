@@ -3,10 +3,16 @@ title: Hur man ritar en rasterbild på SVG i Aspose.Imaging för .NET
 linktitle: Rita rasterbild på SVG i Aspose.Imaging för .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Lär dig hur du ritar rasterbilder på SVG med Aspose.Imaging för .NET. Förbättra dina .NET-applikationer med dynamiska bilder.
-type: docs
 weight: 11
 url: /sv/net/vector-image-processing/draw-raster-image-on-svg/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Hur man ritar en rasterbild på SVG i Aspose.Imaging för .NET
+
 
 en värld av .NET-programmering står Aspose.Imaging som ett pålitligt och mångsidigt bibliotek för att hantera olika bildrelaterade uppgifter. En fascinerande funktion som den erbjuder är möjligheten att rita en rasterbild på en SVG-duk. I den här steg-för-steg-guiden går vi igenom processen att rita en rasterbild på en SVG med Aspose.Imaging för .NET.
 
@@ -100,3 +106,10 @@ Grattis! Du har framgångsrikt ritat en rasterbild på en SVG-duk med Aspose.Ima
     Du kan få en tillfällig licens från[här](https://purchase.aspose.com/temporary-license/).
 
 
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

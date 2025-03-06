@@ -3,10 +3,16 @@ title: Aspose.Imaging for Java ile BMP Başlık Desteği
 linktitle: BMP Başlık Desteği
 second_title: Aspose.Imaging Java Görüntü İşleme API'si
 description: Aspose.Imaging for Java'dan BMP'ye başlığı kolaylıkla nasıl kullanacağınızı öğrenin. Adım adım paketleri içe aktarın, görüntüleri yükleyin ve farklı formatlarda kaydedin.
-type: docs
 weight: 11
 url: /tr/java/metafile-and-vector-image-handling/bmp-header-support/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for Java ile BMP Başlık Desteği
+
 ## giriiş
 
 Aspose.Imaging for Java, BMP, PNG, JPEG ve diğerleri de dahil olmak üzere çeşitli görüntü formatlarıyla çalışmak için çok çeşitli özellikler sağlayan güçlü bir Java kütüphanesidir. Bu adım adım kılavuzda, BMP görüntüleri ile temel işlemleri gerçekleştirmek için Aspose.Imaging for Java'nın nasıl kullanılacağını keşfedeceğiz. Sürecin net bir şekilde anlaşılmasını sağlamak için önkoşulları ele alacağız, paketleri içe aktaracağız ve her örneği birden çok adıma ayıracağız.
@@ -99,3 +105,9 @@ Cevap4: Aspose.Imaging, JPEG, TIFF, GIF ve daha fazlası dahil olmak üzere çe�
 ### S5: Aspose.Imaging için geçici lisansı nasıl edinebilirim?
 
  Cevap5: Test ve geliştirme amacıyla geçici bir lisansı şu adresten alabilirsiniz:[Burada](https://purchase.aspose.com/temporary-license/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

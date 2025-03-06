@@ -3,10 +3,16 @@ title: Rita rektanglar i Aspose.Imaging för .NET
 linktitle: Rita rektangel i Aspose.Imaging för .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Lär dig att rita rektanglar i Aspose.Imaging för .NET - ett mångsidigt verktyg för bildmanipulering i dina .NET-applikationer.
-type: docs
 weight: 14
 url: /sv/net/basic-drawing/draw-rectangle/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Rita rektanglar i Aspose.Imaging för .NET
+
 Att skapa och manipulera bilder i .NET-applikationer kan vara en komplex uppgift, men med kraften i Aspose.Imaging för .NET blir det anmärkningsvärt enkelt. I den här steg-för-steg-guiden går vi igenom processen att rita rektanglar med Aspose.Imaging för .NET. Du lär dig hur du skapar en bild, ställer in dess egenskaper, ritar rektanglar och sparar ditt arbete. Låt oss dyka in!
 
 ## Förutsättningar
@@ -104,3 +110,9 @@ S4: Ja, Aspose.Imaging för .NET erbjuder ett brett utbud av avancerade bildbeha
 ### F5: Var kan jag hitta fler resurser och support för Aspose.Imaging för .NET?
 
  S5: Du kan komma åt dokumentationen[här](https://reference.aspose.com/imaging/net/) och söka stöd på[Aspose.Imaging forum](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

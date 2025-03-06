@@ -3,10 +3,16 @@ title: إنشاء أقواس باستخدام Aspose.Imaging لـ .NET
 linktitle: رسم القوس في Aspose.Imaging لـ .NET
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: تعرف على كيفية رسم الأقواس باستخدام Aspose.Imaging for .NET، وهي أداة قوية لمعالجة الصور. دليل خطوة بخطوة لإنشاء صور مذهلة.
-type: docs
 weight: 10
 url: /ar/net/basic-drawing/draw-arc/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# إنشاء أقواس باستخدام Aspose.Imaging لـ .NET
+
 في عالم معالجة الصور، يعد Aspose.Imaging for .NET أداة متعددة الاستخدامات وقوية تسمح للمطورين بإجراء مجموعة واسعة من العمليات على الصور. إحدى المهام الأساسية في معالجة الصور هي رسم الأشكال، وفي هذا البرنامج التعليمي، سنرشدك خلال عملية رسم قوس باستخدام Aspose.Imaging for .NET. بحلول نهاية هذا الدليل، ستكون قادرًا على إنشاء أقواس مذهلة في صورك دون عناء.
 
 ## المتطلبات الأساسية
@@ -116,3 +122,10 @@ using (FileStream stream = new FileStream(dataDir + "DrawingArc_out.bmp", FileMo
 ### س5: أين يمكنني طلب الدعم أو طرح أسئلة حول Aspose.Imaging for .NET؟
 
  ج5: يمكنك زيارة منتدى Aspose.Imaging للحصول على الدعم والمناقشات[هنا](https://forum.aspose.com/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

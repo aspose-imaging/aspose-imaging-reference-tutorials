@@ -3,10 +3,16 @@ title: 이미지 처리 및 향상
 linktitle: 이미지 처리 및 향상
 second_title: Aspose.Imaging Java 이미지 처리 API
 description: 단계별 튜토리얼을 사용하여 Java용 Aspose.Imaging으로 이미지를 향상하세요. 문서 처리와 이미지 품질을 손쉽게 최적화하세요.
-type: docs
 weight: 21
 url: /ko/java/image-processing-and-enhancement/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 이미지 처리 및 향상
+
 ## 소개 
 이미지 처리는 현대 디지털 콘텐츠 제작의 중요한 측면입니다. 이 기사에서는 Java용 Aspose.Imaging을 사용하여 "이미지 처리 및 향상 튜토리얼"의 세계를 탐구합니다. 그래픽 디자이너, 사진작가 또는 이미지 처리 기술을 향상시키고 싶은 사람이라면 이 튜토리얼이 여러분의 길잡이가 될 것입니다.
 
@@ -116,3 +122,9 @@ Java용 Aspose.Imaging을 사용하여 이미지 밝기를 조정하는 방법�
 Java용 Aspose.Imaging을 사용하여 DICOM 이미지에 필터를 적용하는 방법을 알아보세요. 간편하게 의료 영상을 향상하세요.
 ### [이미지 이진화](./bradleys-adaptive-threshold-binarization/)
 Java용 Aspose.Imaging을 사용하여 이미지 이진화를 알아보세요. DICOM 이미지를 쉽게 변환하세요. 코드 예제가 포함된 단계별 가이드를 살펴보세요.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

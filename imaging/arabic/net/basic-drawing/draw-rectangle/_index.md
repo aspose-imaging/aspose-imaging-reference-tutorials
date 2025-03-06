@@ -3,10 +3,16 @@ title: رسم المستطيلات في Aspose.Imaging لـ .NET
 linktitle: ارسم مستطيلًا في Aspose.Imaging لـ .NET
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: تعلم كيفية رسم المستطيلات في Aspose.Imaging for .NET - وهي أداة متعددة الاستخدامات لمعالجة الصور في تطبيقات .NET الخاصة بك.
-type: docs
 weight: 14
 url: /ar/net/basic-drawing/draw-rectangle/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# رسم المستطيلات في Aspose.Imaging لـ .NET
+
 يمكن أن يكون إنشاء الصور ومعالجتها في تطبيقات .NET مهمة معقدة، ولكن مع قوة Aspose.Imaging لـ .NET، يصبح الأمر بسيطًا بشكل ملحوظ. في هذا الدليل خطوة بخطوة، سنرشدك خلال عملية رسم المستطيلات باستخدام Aspose.Imaging for .NET. ستتعلم كيفية إنشاء صورة وتعيين خصائصها ورسم المستطيلات وحفظ عملك. دعونا الغوص في!
 
 ## المتطلبات الأساسية
@@ -104,3 +110,9 @@ A1: يمكنك رسم أشكال مختلفة مثل علامات الحذف و�
 ### س5: أين يمكنني العثور على المزيد من الموارد والدعم لـ Aspose.Imaging for .NET؟
 
  ج5: يمكنك الوصول إلى الوثائق[هنا](https://reference.aspose.com/imaging/net/) وطلب الدعم على[Aspose.منتدى التصوير](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

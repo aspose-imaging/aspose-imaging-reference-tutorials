@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET を使用して DICOM イメージを反転する
 linktitle: Aspose.Imaging for .NET で DICOM イメージを反転する
 second_title: Aspose.Imaging .NET 画像処理 API
 description: Aspose.Imaging for .NET を使用して DICOM 画像を反転する方法を学びます。医療用途などのための簡単かつ効率的な画像操作。
-type: docs
 weight: 10
 url: /ja/net/image-transformation/flip-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET を使用して DICOM イメージを反転する
+
 ## 導入
 
 ソフトウェア開発の世界では、画像の操作は一般的かつ不可欠なタスクです。医療画像アプリケーションに取り組んでいる場合でも、創造的なグラフィック デザイン プロジェクトに取り組んでいる場合でも、DICOM 画像を反転する機能は貴重なスキルです。 Aspose.Imaging for .NET は、これを簡単に実現できる強力なツールです。この包括的なガイドでは、Aspose.Imaging for .NET を使用して DICOM 画像を反転するプロセスについて説明します。各ステップを詳しく説明し、コード例を示し、知っておく必要がある前提条件と名前空間についての洞察を提供します。
@@ -99,3 +105,9 @@ A2: もちろんです！ Aspose.Imaging for .NET は医療画像プロジェク
 
 ### Q5: Aspose.Imaging for .NET は他にどのような画像操作機能を提供しますか?
 A5: Aspose.Imaging for .NET は、サイズ変更、トリミング、フィルタリングなどを含む幅広い機能を提供します。ドキュメントでライブラリの全機能を調べることができます。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

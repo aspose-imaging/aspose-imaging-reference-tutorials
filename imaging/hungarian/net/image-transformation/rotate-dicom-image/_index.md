@@ -3,10 +3,16 @@ title: Forgassa el a DICOM képeket az Aspose.Imaging for .NET segítségével
 linktitle: Forgassa el a DICOM-képet az Aspose.Imaging for .NET-ben
 second_title: Aspose.Imaging .NET Image Processing API
 description: Fedezze fel a DICOM-képforgatást az Aspose.Imaging for .NET segítségével. Lépésről lépésre útmutató az orvosi képek manipulálásához.
-type: docs
 weight: 11
 url: /hu/net/image-transformation/rotate-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Forgassa el a DICOM képeket az Aspose.Imaging for .NET segítségével
+
 ## Bevezetés
 
 mai digitális korban a képfeldolgozás a különféle iparágak szerves részévé vált, az egészségügytől a tervezésig és azon túl is. Ha Ön .NET-fejlesztő, aki orvosi képeket szeretne manipulálni és javítani, az Aspose.Imaging for .NET egy hatékony eszköz az Ön rendelkezésére. Ebben az átfogó útmutatóban végigvezetjük a DICOM-kép elforgatásának folyamatán az Aspose.Imaging for .NET használatával.
@@ -94,3 +100,9 @@ A4: Abszolút! Az Aspose.Imaging for .NET minden képzettségi szintű fejleszt�
 ### 5. kérdés: Vannak licencelési lehetőségek az Aspose.Imaging for .NET számára?
 
  5. válasz: Igen, felfedezheti a licencelési lehetőségeket, beleértve az ingyenes próbaverziót és a vásárlást, a webhelyen[Aspose.Imaging vásárlási oldal](https://purchase.aspose.com/buy) és[ideiglenes engedélyek](https://purchase.aspose.com/temporary-license/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

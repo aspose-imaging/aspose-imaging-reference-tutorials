@@ -3,10 +3,16 @@ title: Odblokuj magię transformacji obrazu dzięki Aspose.Imaging .NET
 linktitle: Transformacja obrazu
 second_title: Aspose.Imaging .NET API przetwarzania obrazu
 description: Odkryj sztukę transformacji obrazu dzięki Aspose.Imaging dla .NET. Naucz się bez wysiłku odwracać i obracać obrazy DICOM do zastosowań medycznych i nie tylko.
-type: docs
 weight: 24
 url: /pl/net/image-transformation/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Odblokuj magię transformacji obrazu dzięki Aspose.Imaging .NET
+
 
 Czy jesteś gotowy, aby zagłębić się w świat transformacji obrazu? Aspose.Imaging dla .NET otwiera drzwi do płynnej i wydajnej manipulacji obrazami DICOM, dostosowanymi do zastosowań medycznych i nie tylko. W tym obszernym samouczku przeprowadzimy Cię przez dwie podstawowe techniki transformacji obrazu: odwracanie i obracanie obrazów DICOM. 
 
@@ -37,3 +43,9 @@ Poznaj rotację obrazów DICOM za pomocą Aspose.Imaging dla .NET. Przewodnik kr
 ## Wniosek
 
 Aspose.Imaging dla .NET umożliwia opanowanie sztuki transformacji obrazu, co czyni go nieocenionym narzędziem zarówno dla lekarzy, jak i programistów. Niezależnie od tego, czy chcesz odwrócić, czy obrócić obrazy DICOM, ten samouczek zapewnia płynną podróż do świata manipulacji obrazami. Ulepsz swoje aplikacje medyczne i przetwarzanie obrazów dzięki Aspose.Imaging dla .NET już dziś. Odblokuj magię transformacji obrazu już teraz!
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

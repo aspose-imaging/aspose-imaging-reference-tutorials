@@ -3,10 +3,16 @@ title: Binarisasi Ambang Batas Otsu dengan Aspose.Imaging untuk Java
 linktitle: Binarisasi Ambang Batas Otsu
 second_title: Aspose.Imaging API Pemrosesan Gambar Java
 description: Tingkatkan kualitas gambar dengan Aspose.Imaging untuk Binarisasi Ambang Batas Otsu Java. Ikuti panduan langkah demi langkah kami untuk keunggulan pemrosesan gambar.
-type: docs
 weight: 22
 url: /id/java/image-processing-and-enhancement/otsu-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binarisasi Ambang Batas Otsu dengan Aspose.Imaging untuk Java
+
 Dalam dunia pemrosesan dan manipulasi gambar, Aspose.Imaging for Java berdiri sebagai perangkat canggih yang memberdayakan pengembang untuk bekerja dengan berbagai format gambar. Di antara banyak fiturnya, Otsu Threshold Binarization adalah teknik penting untuk peningkatan dan analisis gambar. Dalam tutorial ini, kami akan memandu Anda melalui proses penggunaan Aspose.Imaging untuk Java untuk melakukan Otsu Threshold Binarization pada gambar langkah demi langkah.
 
 ## Prasyarat
@@ -105,3 +111,9 @@ A1: Binarisasi Ambang Batas Otsu adalah teknik dalam pemrosesan gambar yang seca
 ### Q5: Bisakah saya menggunakan Aspose.Imaging for Java dalam proyek komersial saya?
 
 A5: Ya, Aspose.Imaging for Java cocok untuk proyek pribadi dan komersial. Anda dapat menjelajahi opsi lisensi untuk memenuhi kebutuhan spesifik Anda.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

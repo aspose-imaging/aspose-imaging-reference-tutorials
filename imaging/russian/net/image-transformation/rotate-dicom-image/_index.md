@@ -3,10 +3,16 @@ title: Поворот изображений DICOM с помощью Aspose.Imag
 linktitle: Поворот изображения DICOM в Aspose.Imaging for .NET
 second_title: API обработки изображений Aspose.Imaging .NET
 description: Изучите ротацию изображений DICOM с помощью Aspose.Imaging for .NET. Пошаговое руководство по манипулированию медицинскими изображениями.
-type: docs
 weight: 11
 url: /ru/net/image-transformation/rotate-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Поворот изображений DICOM с помощью Aspose.Imaging for .NET
+
 ## Введение
 
 В сегодняшнюю цифровую эпоху обработка изображений стала неотъемлемой частью различных отраслей, от здравоохранения до дизайна и не только. Если вы разработчик .NET и хотите манипулировать медицинскими изображениями и улучшать их, Aspose.Imaging for .NET — это мощный инструмент в вашем распоряжении. В этом подробном руководстве мы покажем вам процесс поворота изображения DICOM с помощью Aspose.Imaging for .NET.
@@ -94,3 +100,9 @@ A1: DICOM означает цифровую визуализацию и комм
 ### Вопрос 5. Существуют ли варианты лицензирования Aspose.Imaging для .NET?
 
  О5: Да, вы можете изучить варианты лицензирования, включая бесплатную пробную версию и покупку, на сайте[Страница покупки Aspose.Imaging](https://purchase.aspose.com/buy) и[временные лицензии](https://purchase.aspose.com/temporary-license/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

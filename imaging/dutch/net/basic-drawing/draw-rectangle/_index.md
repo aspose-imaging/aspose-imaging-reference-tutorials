@@ -3,10 +3,16 @@ title: Rechthoeken tekenen in Aspose.Imaging voor .NET
 linktitle: Teken een rechthoek in Aspose.Imaging voor .NET
 second_title: Aspose.Imaging .NET-API voor beeldverwerking
 description: Leer rechthoeken tekenen in Aspose.Imaging voor .NET - een veelzijdige tool voor beeldmanipulatie in uw .NET-toepassingen.
-type: docs
 weight: 14
 url: /nl/net/basic-drawing/draw-rectangle/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Rechthoeken tekenen in Aspose.Imaging voor .NET
+
 Het maken en manipuleren van afbeeldingen in .NET-toepassingen kan een complexe taak zijn, maar met de kracht van Aspose.Imaging voor .NET wordt het opmerkelijk eenvoudig. In deze stapsgewijze handleiding leiden we u door het proces van het tekenen van rechthoeken met Aspose.Imaging voor .NET. U leert hoe u een afbeelding maakt, de eigenschappen ervan instelt, rechthoeken tekent en uw werk opslaat. Laten we erin duiken!
 
 ## Vereisten
@@ -104,3 +110,9 @@ A4: Ja, Aspose.Imaging voor .NET biedt een breed scala aan geavanceerde beeldver
 ### V5: Waar kan ik meer bronnen en ondersteuning vinden voor Aspose.Imaging voor .NET?
 
  A5: U heeft toegang tot de documentatie[hier](https://reference.aspose.com/imaging/net/) en zoek steun op de[Aspose.Imaging-forum](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

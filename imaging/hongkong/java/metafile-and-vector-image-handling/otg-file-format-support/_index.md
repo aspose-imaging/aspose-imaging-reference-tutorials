@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for Java 輕鬆進行影像處理
 linktitle: OTG 檔案格式支援
 second_title: Aspose.Imaging Java 圖像處理 API
 description: 在此逐步指南中了解如何利用 Aspose.Imaging for Java 的強大功能。輕鬆優化您的影像處理。
-type: docs
 weight: 14
 url: /zh-hant/java/metafile-and-vector-image-handling/otg-file-format-support/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for Java 輕鬆進行影像處理
+
 您是否希望利用 Aspose.Imaging for Java 的強大功能來輕鬆處理與影像相關的任務？別再猶豫了！在這份綜合指南中，我們將引導您完成 Aspose.Imaging for Java 入門的基本步驟，從先決條件到匯入套件和分解範例。讓我們深入研究並釋放這個多功能 Java 函式庫的潛力。
 
 ## 先決條件
@@ -136,3 +142,9 @@ A4：您可以透過存取取得 Aspose.Imaging for Java 的臨時許可證[這�
 ### Q5：我可以在哪裡尋求 Aspose.Imaging for Java 的支援和協助？
 
  A5：如果您有任何疑問或遇到問題，可以造訪 Aspose.Imaging for Java 支援論壇：[Aspose論壇](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Hình ảnh DICOM thang độ xám với Aspose.Imaging for .NET
 linktitle: Thang độ xám trên DICOM trong Aspose.Imaging for .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Tìm hiểu cách thực hiện thang độ xám trên hình ảnh DICOM bằng Aspose.Imaging for .NET, một thư viện xử lý hình ảnh mạnh mẽ.
-type: docs
 weight: 24
 url: /vi/net/dicom-image-processing/grayscale-on-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Hình ảnh DICOM thang độ xám với Aspose.Imaging for .NET
+
 Nếu bạn đang làm việc với dữ liệu hình ảnh y tế ở định dạng DICOM và cần thực hiện các phép biến đổi thang độ xám, Aspose.Imaging for .NET sẽ cung cấp một giải pháp mạnh mẽ. Trong hướng dẫn từng bước này, chúng tôi sẽ hướng dẫn bạn quy trình chuyển thang độ xám cho hình ảnh DICOM bằng Aspose.Imaging. Thư viện này là một công cụ đa năng cho phép bạn làm việc với nhiều định dạng hình ảnh khác nhau, bao gồm DICOM, trong môi trường .NET. Bắt đầu nào!
 
 ## Điều kiện tiên quyết
@@ -85,3 +91,9 @@ Câu trả lời 2: Có, Aspose.Imaging là một thư viện đa năng có th�
 ### Câu hỏi 5: Làm cách nào tôi có thể nhận được hỗ trợ cho Aspose.Imaging?
 
  Câu trả lời 5: Nếu có thắc mắc hoặc cần hỗ trợ, bạn có thể truy cập[Diễn đàn Aspose.Imaging](https://forum.aspose.com/) để tìm kiếm sự giúp đỡ từ cộng đồng hoặc liên hệ với nhóm hỗ trợ của họ.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

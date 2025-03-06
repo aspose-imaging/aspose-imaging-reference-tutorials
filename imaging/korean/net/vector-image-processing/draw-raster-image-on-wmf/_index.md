@@ -3,10 +3,16 @@ title: .NET용 Aspose.Imaging의 WMF에 래스터 이미지 그리기
 linktitle: .NET용 Aspose.Imaging의 WMF에 래스터 이미지 그리기
 second_title: Aspose.Imaging .NET 이미지 처리 API
 description: Aspose.Imaging을 사용하여 .NET의 WMF 문서에 래스터 이미지를 그리는 방법을 알아보세요. 창의적인 이미지 오버레이로 .NET 프로젝트를 향상하세요.
-type: docs
 weight: 12
 url: /ko/net/vector-image-processing/draw-raster-image-on-wmf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET용 Aspose.Imaging의 WMF에 래스터 이미지 그리기
+
 
 .NET 개발 영역에서 Aspose.Imaging은 개발자가 다양한 형식의 이미지를 조작하고 작업할 수 있도록 지원하는 다목적 도구입니다. Aspose.Imaging은 다양한 기능 중에서 WMF(Windows Metafile) 문서에 래스터 이미지를 그리는 기능을 제공합니다. 이 기능은 이미지를 벡터 기반 문서에 오버레이해야 할 때 매우 유용하여 창의적인 가능성의 세계를 열어줍니다.
 
@@ -116,3 +122,10 @@ using (WmfImage resultImage = graphics.EndRecording())
 
 
 이제 Aspose.Imaging for .NET을 사용하여 이미지 그리기를 .NET 애플리케이션에 원활하게 통합하는 방법을 알게 되었습니다. 이 창의적인 기능은 이미지 오버레이로 프로젝트를 향상시킬 수 있는 가능성의 세계를 열어줍니다. 질문이 있거나 추가 지원이 필요한 경우 주저하지 말고 Aspose.Imaging 커뮤니티의 지원 포럼에 문의하세요. 즐거운 코딩하세요!
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

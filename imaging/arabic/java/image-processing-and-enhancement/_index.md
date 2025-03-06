@@ -3,10 +3,16 @@ title: معالجة الصور وتحسينها
 linktitle: معالجة الصور وتحسينها
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: قم بتحسين الصور باستخدام Aspose.Imaging for Java باستخدام البرامج التعليمية خطوة بخطوة. تحسين معالجة المستندات وجودة الصورة دون عناء.
-type: docs
 weight: 21
 url: /ar/java/image-processing-and-enhancement/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# معالجة الصور وتحسينها
+
 ## مقدمة 
 تعد معالجة الصور جانبًا مهمًا في إنشاء المحتوى الرقمي الحديث. في هذه المقالة، سوف نتعمق في عالم "البرامج التعليمية لمعالجة الصور وتحسينها" باستخدام Aspose.Imaging for Java. سواء كنت مصمم جرافيك، أو مصورًا فوتوغرافيًا، أو مجرد شخص يرغب في تحسين مهاراته في معالجة الصور، فإن هذه البرامج التعليمية ستكون بمثابة الضوء الإرشادي لك.
 
@@ -116,3 +122,9 @@ url: /ar/java/image-processing-and-enhancement/
 تعرف على كيفية تطبيق المرشحات على صور DICOM باستخدام Aspose.Imaging for Java. تعزيز التصوير الطبي بكل سهولة.
 ### [ثنائية الصورة](./bradleys-adaptive-threshold-binarization/)
 تعلم ثنائية الصورة باستخدام Aspose.Imaging لـ Java. تحويل صور DICOM بسهولة. استكشف دليلاً خطوة بخطوة مع أمثلة التعليمات البرمجية.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

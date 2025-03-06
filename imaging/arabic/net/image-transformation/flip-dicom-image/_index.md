@@ -3,10 +3,16 @@ title: اقلب صور DICOM باستخدام Aspose.Imaging لـ .NET
 linktitle: اقلب صورة DICOM في Aspose.Imaging لـ .NET
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: تعرف على كيفية قلب صور DICOM باستخدام Aspose.Imaging لـ .NET. معالجة سهلة وفعالة للصور للتطبيقات الطبية والمزيد.
-type: docs
 weight: 10
 url: /ar/net/image-transformation/flip-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# اقلب صور DICOM باستخدام Aspose.Imaging لـ .NET
+
 ## مقدمة
 
 في عالم تطوير البرمجيات، يعد التلاعب بالصور مهمة شائعة وأساسية. سواء كنت تعمل على أحد تطبيقات التصوير الطبي أو مشروع تصميم رسومي إبداعي، فإن القدرة على قلب صور DICOM تعد مهارة قيمة. يعد Aspose.Imaging for .NET أداة قوية يمكنها مساعدتك في تحقيق ذلك دون عناء. في هذا الدليل الشامل، سنرشدك خلال عملية قلب صور DICOM باستخدام Aspose.Imaging for .NET. سنقوم بتقسيم كل خطوة، ونقدم أمثلة على التعليمات البرمجية، ونقدم رؤى حول المتطلبات الأساسية ومساحات الأسماء التي تحتاج إلى معرفتها.
@@ -99,3 +105,9 @@ A1: نعم، يدعم Aspose.Imaging for .NET تنسيقات الصور المت
 
 ### س5: ما هي ميزات معالجة الصور الأخرى التي يقدمها Aspose.Imaging for .NET؟
 ج5: يوفر Aspose.Imaging for .NET نطاقًا واسعًا من الميزات، بما في ذلك تغيير الحجم والاقتصاص والتصفية وغير ذلك الكثير. يمكنك استكشاف الإمكانات الكاملة للمكتبة في الوثائق.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

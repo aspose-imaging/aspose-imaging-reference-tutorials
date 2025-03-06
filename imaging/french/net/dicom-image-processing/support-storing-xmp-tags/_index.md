@@ -3,10 +3,16 @@ title: Prise en charge du stockage des balises XMP dans Aspose.Imaging pour .NET
 linktitle: Prise en charge du stockage des balises XMP dans Aspose.Imaging pour .NET
 second_title: API de traitement d'images Aspose.Imaging .NET
 description: Découvrez comment ajouter des métadonnées XMP aux images DICOM à l'aide d'Aspose.Imaging pour .NET. Optimisez la gestion et l'organisation des images avec ce guide étape par étape.
-type: docs
 weight: 25
 url: /fr/net/dicom-image-processing/support-storing-xmp-tags/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Prise en charge du stockage des balises XMP dans Aspose.Imaging pour .NET
+
 Aspose.Imaging for .NET est une bibliothèque puissante qui vous permet de travailler avec différents formats d'image dans l'environnement .NET. Dans ce didacticiel, nous explorerons comment prendre en charge le stockage des balises XMP (Extensible Metadata Platform) dans Aspose.Imaging pour .NET. Les balises XMP sont essentielles pour ajouter des informations de métadonnées aux images, facilitant ainsi l'organisation et la gestion de vos actifs numériques. Nous diviserons le processus en plusieurs étapes pour vous aider à comprendre comment y parvenir.
 
 ## Conditions préalables
@@ -114,3 +120,10 @@ A3 : Absolument. Aspose.Imaging for .NET fournit une large gamme de fonctionnali
 ### Q5 : Comment puis-je obtenir une licence temporaire pour Aspose.Imaging pour .NET ?
 
  A5 : Vous pouvez obtenir une licence temporaire pour Aspose.Imaging for .NET en visitant[ce lien](https://purchase.aspose.com/temporary-license/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

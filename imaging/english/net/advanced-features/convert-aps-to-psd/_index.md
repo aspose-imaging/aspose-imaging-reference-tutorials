@@ -3,10 +3,16 @@ title: Convert APS to PSD with Aspose.Imaging for .NET
 linktitle: Convert APS to PSD in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Convert APS to PSD with Aspose.Imaging for .NET. Preserve vector properties during conversion.
-type: docs
 weight: 11
 url: /net/advanced-features/convert-aps-to-psd/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Convert APS to PSD with Aspose.Imaging for .NET
+
 Are you looking to effortlessly convert APS files to PSD format while preserving vector properties? Aspose.Imaging for .NET is here to simplify your task. In this step-by-step guide, we will show you how to achieve this conversion. 
 
 ## Prerequisites
@@ -103,3 +109,10 @@ A4: Currently, Aspose.Imaging supports the export of not very complex shapes wit
 
 A5: If you have any questions or need support, you can visit the [Aspose.Imaging forums](https://forum.aspose.com/) for assistance.
 
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

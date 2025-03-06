@@ -3,10 +3,16 @@ title: Измерение текста в изображениях с помощ
 linktitle: Измерение текста в Aspose.Imaging для .NET
 second_title: API обработки изображений Aspose.Imaging .NET
 description: Измеряйте текст на изображениях с помощью Aspose.Imaging для .NET. Мощная библиотека .NET. Точное и эффективное измерение текста.
-type: docs
 weight: 10
 url: /ru/net/text-and-measurements/measure-text/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Измерение текста в изображениях с помощью Aspose.Imaging for .NET
+
 Если вы .NET-разработчик, стремящийся манипулировать изображениями и точно измерять текст, Aspose.Imaging for .NET — мощное решение. В этом пошаговом руководстве мы рассмотрим, как измерить текст с помощью Aspose.Imaging, начиная с предварительных условий и заканчивая практическим примером. Давайте погрузимся прямо сейчас!
 
 ## Предварительные условия
@@ -95,3 +101,9 @@ using (Image backgroundImage = Image.Load("Your Image Path"))
 ### Вопрос 5: Как загрузить Aspose.Imaging для .NET?
 
  О5: Вы можете загрузить Aspose.Imaging для .NET с сайта[страница загрузки](https://releases.aspose.com/imaging/net/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

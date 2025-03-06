@@ -3,10 +3,16 @@ title: Aspose.Imaging for Java を使用した Otsu しきい値の 2 値化
 linktitle: 大津閾値二値化
 second_title: Aspose.Imaging Java 画像処理 API
 description: Aspose.Imaging for Java の Otsu Threshold Binarization を使用して画質を向上させます。優れた画像処理を実現するためのステップバイステップのガイドに従ってください。
-type: docs
 weight: 22
 url: /ja/java/image-processing-and-enhancement/otsu-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for Java を使用した Otsu しきい値の 2 値化
+
 画像処理と操作の世界では、Aspose.Imaging for Java は、開発者がさまざまな画像形式を操作できるようにする堅牢なツールキットとして機能します。多くの機能の中でも、Otsu Threshold Binaryization は画像の強調と分析に重要な技術です。このチュートリアルでは、Aspose.Imaging for Java を使用して画像に対して Otsu Threshold Binarization を実行するプロセスを段階的に説明します。
 
 ## 前提条件
@@ -105,3 +111,9 @@ A1: 大津閾値二値化は、画像を前景と背景に分離するための�
 ### Q5: Aspose.Imaging for Java を商用プロジェクトで使用できますか?
 
 A5: はい、Aspose.Imaging for Java は個人プロジェクトと商用プロジェクトの両方に適しています。特定のニーズに合わせてライセンス オプションを検討できます。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

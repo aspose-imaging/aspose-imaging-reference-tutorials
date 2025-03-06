@@ -3,10 +3,16 @@ title: Εικόνες DICOM σε κλίμακα του γκρι με Aspose.Imag
 linktitle: Κλίμακα του γκρι στο DICOM στο Aspose.Imaging για .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Μάθετε πώς να κάνετε κλιμάκωση του γκρι σε εικόνες DICOM με το Aspose.Imaging for .NET, μια ισχυρή βιβλιοθήκη επεξεργασίας εικόνας.
-type: docs
 weight: 24
 url: /el/net/dicom-image-processing/grayscale-on-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Εικόνες DICOM σε κλίμακα του γκρι με Aspose.Imaging για .NET
+
 Εάν εργάζεστε με δεδομένα ιατρικής απεικόνισης σε μορφή DICOM και πρέπει να πραγματοποιήσετε μετασχηματισμούς σε κλίμακα του γκρι, το Aspose.Imaging για .NET προσφέρει μια ισχυρή λύση. Σε αυτό το βήμα προς βήμα σεμινάριο, θα σας καθοδηγήσουμε στη διαδικασία διαβάθμισης του γκρι μιας εικόνας DICOM χρησιμοποιώντας το Aspose.Imaging. Αυτή η βιβλιοθήκη είναι ένα ευέλικτο εργαλείο που σας επιτρέπει να εργάζεστε με διάφορες μορφές εικόνας, συμπεριλαμβανομένου του DICOM, σε περιβάλλον .NET. Ας αρχίσουμε!
 
 ## Προαπαιτούμενα
@@ -85,3 +91,9 @@ A2: Ναι, το Aspose.Imaging είναι μια ευέλικτη βιβλιο�
 ### Ε5: Πώς μπορώ να λάβω υποστήριξη για το Aspose.Imaging;
 
  A5: Εάν έχετε οποιεσδήποτε ερωτήσεις ή χρειάζεστε βοήθεια, μπορείτε να επισκεφτείτε το[Aspose.Φόρουμ απεικόνισης](https://forum.aspose.com/) να ζητήσουν βοήθεια από την κοινότητα ή να επικοινωνήσουν με την ομάδα υποστήριξής τους.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

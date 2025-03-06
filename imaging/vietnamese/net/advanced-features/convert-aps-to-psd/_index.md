@@ -3,10 +3,16 @@ title: Chuyển đổi APS sang PSD bằng Aspose.Imaging for .NET
 linktitle: Chuyển đổi APS sang PSD trong Aspose.Imaging for .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Chuyển đổi APS sang PSD bằng Aspose.Imaging for .NET. Giữ nguyên các thuộc tính của vectơ trong quá trình chuyển đổi.
-type: docs
 weight: 11
 url: /vi/net/advanced-features/convert-aps-to-psd/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Chuyển đổi APS sang PSD bằng Aspose.Imaging for .NET
+
 Bạn đang muốn chuyển đổi dễ dàng các tệp APS sang định dạng PSD trong khi vẫn giữ nguyên các thuộc tính vectơ? Aspose.Imaging for .NET có mặt ở đây để đơn giản hóa công việc của bạn. Trong hướng dẫn từng bước này, chúng tôi sẽ chỉ cho bạn cách đạt được chuyển đổi này. 
 
 ## Điều kiện tiên quyết
@@ -102,3 +108,10 @@ Câu trả lời 4: Hiện tại, Aspose.Imaging hỗ trợ xuất các hình d�
 ### Câu hỏi 5: Tôi có thể nhận hỗ trợ hoặc đặt câu hỏi liên quan đến Aspose.Imaging cho .NET ở đâu?
 
  A5: Nếu có thắc mắc hoặc cần hỗ trợ, bạn có thể truy cập[Diễn đàn Aspose.Imaging](https://forum.aspose.com/)để được hỗ trợ.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Aspose.Imaging for Java 对 FODG 图像的支持
 linktitle: FODG 图像支持
 second_title: Aspose.Imaging Java 图像处理 API
 description: 了解如何使用 Aspose.Imaging for Java 来使用 FODG 图像支持。用于图像处理和转换的强大库。
-type: docs
 weight: 11
 url: /zh/java/image-processing-and-enhancement/fodg-image-support/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for Java 对 FODG 图像的支持
+
 如果您希望利用 Aspose.Imaging for Java 的强大功能来高效地操作和转换图像，那么您来对地方了。在这个综合教程中，我们将指导您完成使用 Aspose.Imaging for Java 的过程，从先决条件到导入包，并将每个示例分解为多个易于遵循的步骤。
 
 ## 先决条件
@@ -113,3 +119,9 @@ Aspose.Imaging for Java 支持多种图像格式，包括 JPEG、PNG 和 BMP 等
 ### Q5：Aspose.Imaging for Java适合批量图像处理吗？
 
 是的，Aspose.Imaging for Java 非常适合批量图像处理。您可以使用它有效地自动操作和转换多个图像。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

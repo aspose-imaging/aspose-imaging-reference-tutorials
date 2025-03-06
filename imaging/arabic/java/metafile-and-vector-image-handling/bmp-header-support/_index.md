@@ -3,10 +3,16 @@ title: دعم رأس BMP مع Aspose.Imaging لـ Java
 linktitle: دعم رأس BMP
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: تعرف على كيفية استخدام Aspose.Imaging لرأس Java إلى BMP بسهولة. قم باستيراد الحزم وتحميل الصور وحفظها بتنسيقات مختلفة خطوة بخطوة.
-type: docs
 weight: 11
 url: /ar/java/metafile-and-vector-image-handling/bmp-header-support/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# دعم رأس BMP مع Aspose.Imaging لـ Java
+
 ## مقدمة
 
 Aspose.Imaging for Java هي مكتبة Java قوية توفر مجموعة واسعة من الميزات للعمل مع تنسيقات الصور المختلفة، بما في ذلك BMP وPNG وJPEG وغيرها الكثير. في هذا الدليل التفصيلي، سنستكشف كيفية استخدام Aspose.Imaging for Java لإجراء العمليات الأساسية باستخدام صور BMP. سنغطي المتطلبات الأساسية وحزم الاستيراد ونقسم كل مثال إلى خطوات متعددة لضمان فهم واضح للعملية.
@@ -99,3 +105,9 @@ A4: يدعم Aspose.Imaging تنسيقات الصور المختلفة، بما 
 ### س5: كيف يمكنني الحصول على ترخيص مؤقت لـ Aspose.Imaging؟
 
  ج5: يمكنك الحصول على ترخيص مؤقت لأغراض الاختبار والتطوير من[هنا](https://purchase.aspose.com/temporary-license/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

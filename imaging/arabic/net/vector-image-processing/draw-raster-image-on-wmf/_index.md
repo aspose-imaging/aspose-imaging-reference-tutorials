@@ -3,10 +3,16 @@ title: ارسم صورة نقطية على WMF في Aspose.Imaging لـ .NET
 linktitle: ارسم صورة نقطية على WMF في Aspose.Imaging لـ .NET
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: تعرف على كيفية رسم الصور النقطية على مستندات WMF في .NET باستخدام Aspose.Imaging. قم بتحسين مشاريع .NET الخاصة بك باستخدام تراكبات الصور الإبداعية.
-type: docs
 weight: 12
 url: /ar/net/vector-image-processing/draw-raster-image-on-wmf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# ارسم صورة نقطية على WMF في Aspose.Imaging لـ .NET
+
 
 في مجال تطوير .NET، يمثل Aspose.Imaging أداة متعددة الاستخدامات تمكن المطورين من التعامل مع الصور بتنسيقات مختلفة والعمل معها. من بين إمكانياته العديدة، يوفر Aspose.Imaging ميزة رسم الصور النقطية على مستندات Windows Metafile (WMF). تعتبر هذه الوظيفة ذات قيمة كبيرة عندما تحتاج إلى تراكب الصور على المستندات المستندة إلى المتجهات، مما يفتح عالمًا من الإمكانيات الإبداعية.
 
@@ -116,3 +122,10 @@ using (WmfImage resultImage = graphics.EndRecording())
 
 
 الآن، لديك المعرفة اللازمة لدمج رسم الصور بسلاسة في تطبيقات .NET الخاصة بك باستخدام Aspose.Imaging for .NET. تفتح هذه القدرة الإبداعية الباب أمام عالم من الإمكانيات لتحسين مشاريعك من خلال تراكبات الصور. إذا كانت لديك أية أسئلة أو كنت بحاجة إلى مزيد من المساعدة، فلا تتردد في التواصل مع مجتمع Aspose.Imaging في منتدى الدعم الخاص بهم. ترميز سعيد!
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

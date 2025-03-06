@@ -3,10 +3,16 @@ title: تحويل المستندات ومعالجتها
 linktitle: تحويل المستندات ومعالجتها
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: استكشف البرامج التعليمية الشاملة حول تحويل المستندات ومعالجتها باستخدام Aspose.Imaging Java. أتقن معالجة الصور وتحويلها باستخدام هذه البرامج التعليمية.
-type: docs
 weight: 22
 url: /ar/java/document-conversion-and-processing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# تحويل المستندات ومعالجتها
+
 
 ## مقدمة
 
@@ -94,3 +100,9 @@ url: /ar/java/document-conversion-and-processing/
 تعرف على كيفية حفظ الإطارات من صورة TIFF بتنسيقات نقطية مختلفة باستخدام Aspose.Imaging for Java. تعزيز معالجة الصور في تطبيقات Java الخاصة بك.
 ### [استعادة بيانات صورة TIFF](./recovering-tiff-image-data/)
 تعرف على كيفية استرداد بيانات صور TIFF التالفة باستخدام Aspose.Imaging for Java. قم باستعادة سلامة الصورة باستخدام هذا الدليل المفصّل خطوة بخطوة.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

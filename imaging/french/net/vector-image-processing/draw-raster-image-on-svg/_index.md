@@ -3,10 +3,16 @@ title: Comment dessiner une image raster sur SVG dans Aspose.Imaging pour .NET
 linktitle: Dessiner une image raster sur SVG dans Aspose.Imaging pour .NET
 second_title: API de traitement d'images Aspose.Imaging .NET
 description: Apprenez à dessiner des images raster sur SVG à l'aide d'Aspose.Imaging pour .NET. Améliorez vos applications .NET avec des images dynamiques.
-type: docs
 weight: 11
 url: /fr/net/vector-image-processing/draw-raster-image-on-svg/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Comment dessiner une image raster sur SVG dans Aspose.Imaging pour .NET
+
 
 Dans le monde de la programmation .NET, Aspose.Imaging se présente comme une bibliothèque fiable et polyvalente pour gérer diverses tâches liées aux images. Une fonctionnalité fascinante qu'il offre est la possibilité de dessiner une image raster sur un canevas SVG. Dans ce guide étape par étape, nous vous guiderons tout au long du processus de dessin d'une image raster sur un SVG à l'aide d'Aspose.Imaging pour .NET.
 
@@ -100,3 +106,10 @@ Toutes nos félicitations! Vous avez réussi à dessiner une image raster sur un
     Vous pouvez obtenir une licence temporaire auprès de[ici](https://purchase.aspose.com/temporary-license/).
 
 
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

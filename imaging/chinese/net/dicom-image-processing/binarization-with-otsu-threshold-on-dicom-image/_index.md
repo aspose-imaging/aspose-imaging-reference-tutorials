@@ -3,10 +3,16 @@ title: 在 Aspose.Imaging for .NET 中使用 Otsu 阈值对 DICOM 图像进行�
 linktitle: 在 Aspose.Imaging for .NET 中使用 Otsu 阈值对 DICOM 图像进行二值化
 second_title: Aspose.Imaging .NET 图像处理 API
 description: 使用 Aspose.Imaging for .NET 增强您的医学图像处理。了解如何使用 Otsu 阈值执行 DICOM 图像二值化。
-type: docs
 weight: 16
 url: /zh/net/dicom-image-processing/binarization-with-otsu-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 在 Aspose.Imaging for .NET 中使用 Otsu 阈值对 DICOM 图像进行二值化
+
 在图像处理和操作领域，高效的工具和库至关重要。 Aspose.Imaging for .NET 就是这样一个功能强大的库，它使开发人员能够处理各种图像格式，包括 DICOM（医学数字成像和通信）文件。在本综合指南中，我们将探索使用 Aspose.Imaging for .NET 在 DICOM 图像上使用 Otsu Threshold 进行二值化的过程。我们将把这个过程分解为易于遵循的步骤，确保您可以在您的项目中无缝地实现此功能。
 
 ## 先决条件
@@ -90,3 +96,9 @@ A4：有关文档，请访问[Aspose.Imaging for .NET 文档](https://reference.
 ### Q5：我可以在购买前试用 Aspose.Imaging for .NET 吗？
 
  A5：是的，您可以通过下载免费试用版来探索 Aspose.Imaging for .NET 的功能[这个链接](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

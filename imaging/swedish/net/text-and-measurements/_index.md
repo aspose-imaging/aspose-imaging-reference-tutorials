@@ -3,10 +3,16 @@ title: Handledning för text och mått med Aspose.Imaging .NET
 linktitle: Text och mått
 second_title: Aspose.Imaging .NET Image Processing API
 description: Lär dig hur du mäter text i bilder med Aspose.Imaging för .NET, ett kraftfullt och exakt verktyg. Utforska självstudier för att bemästra textmätningstekniker.
-type: docs
 weight: 26
 url: /sv/net/text-and-measurements/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Handledning för text och mått med Aspose.Imaging .NET
+
 
 Är du fascinerad av idén att exakt mäta text i bilder? Tja, du är på rätt plats! I den här artikeln ska vi fördjupa oss i textmätningens värld med Aspose.Imaging för .NET. Vi kommer att utforska detta kraftfulla .NET-bibliotek, som erbjuder exakta och effektiva textmätningsmöjligheter. När du har läst klart är du på god väg att bli expert på textmätning.
 
@@ -28,3 +34,9 @@ Den här artikeln har varit din guide till att bemästra textmätning med Aspose
 ## Handledning för text och mått
 ### [Mät text i Aspose.Imaging för .NET](./measure-text/)
 Mät text i bilder med Aspose.Imaging för .NET. Ett kraftfullt .NET-bibliotek. Exakt och effektiv textmätning.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

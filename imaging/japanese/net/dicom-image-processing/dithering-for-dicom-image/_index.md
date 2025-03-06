@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET で DICOM 画像のディザリングが簡単に
 linktitle: Aspose.Imaging for .NET での DICOM 画像のディザリング
 second_title: Aspose.Imaging .NET 画像処理 API
 description: Aspose.Imaging for .NET を使用して DICOM 画像に対してしきい値ディザリングを実行する方法を学びます。画質を向上させ、カラーパレットを簡単に削減します。
-type: docs
 weight: 22
 url: /ja/net/dicom-image-processing/dithering-for-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET で DICOM 画像のディザリングが簡単に
+
 ディザリングは、視覚的な品質を維持しながら画像内の色数を減らすために使用される基本的な画像処理技術です。このステップバイステップ ガイドでは、Aspose.Imaging for .NET を使用して DICOM 画像でディザリングを実行する方法を説明します。この強力なライブラリは、画像の操作と処理のための幅広い機能を提供するため、医療画像を扱う開発者にとって優れた選択肢となります。 
 
 ## 前提条件
@@ -92,3 +98,9 @@ A4: Aspose.Imaging for .NET の代替手段には、ImageMagick、OpenCV、AForg
 ### Q5: Aspose.Imaging for .NET のサポートを受けるにはどうすればよいですか?
 
  A5: ヘルプとサポートは、[Aspose.Imaging フォーラム](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

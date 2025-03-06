@@ -3,10 +3,16 @@ title: Voltear imágenes DICOM con Aspose.Imaging para .NET
 linktitle: Voltear imagen DICOM en Aspose.Imaging para .NET
 second_title: API de procesamiento de imágenes Aspose.Imaging .NET
 description: Aprenda a voltear imágenes DICOM usando Aspose.Imaging para .NET. Manipulación de imágenes sencilla y eficiente para aplicaciones médicas y más.
-type: docs
 weight: 10
 url: /es/net/image-transformation/flip-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Voltear imágenes DICOM con Aspose.Imaging para .NET
+
 ## Introducción
 
 En el mundo del desarrollo de software, la manipulación de imágenes es una tarea común y esencial. Ya sea que esté trabajando en una aplicación de imágenes médicas o en un proyecto de diseño gráfico creativo, la capacidad de voltear imágenes DICOM es una habilidad valiosa. Aspose.Imaging para .NET es una herramienta poderosa que puede ayudarlo a lograr esto sin esfuerzo. En esta guía completa, lo guiaremos a través del proceso de voltear imágenes DICOM usando Aspose.Imaging para .NET. Desglosaremos cada paso, proporcionaremos ejemplos de código y ofreceremos información sobre los requisitos previos y los espacios de nombres que necesita conocer.
@@ -99,3 +105,9 @@ R2: ¡Absolutamente! Aspose.Imaging para .NET es muy adecuado para proyectos de 
 
 ### P5: ¿Qué otras funciones de manipulación de imágenes ofrece Aspose.Imaging para .NET?
 R5: Aspose.Imaging para .NET proporciona una amplia gama de funciones, que incluyen cambio de tamaño, recorte, filtrado y mucho más. Puede explorar todas las capacidades de la biblioteca en la documentación.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

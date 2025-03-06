@@ -3,10 +3,16 @@ title: قم بتدوير صور DICOM باستخدام Aspose.Imaging لـ .NET
 linktitle: قم بتدوير صورة DICOM في Aspose.Imaging لـ .NET
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: استكشف تدوير صور DICOM باستخدام Aspose.Imaging لـ .NET. دليل خطوة بخطوة للتعامل مع الصور الطبية.
-type: docs
 weight: 11
 url: /ar/net/image-transformation/rotate-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# قم بتدوير صور DICOM باستخدام Aspose.Imaging لـ .NET
+
 ## مقدمة
 
 في العصر الرقمي الحالي، أصبحت معالجة الصور جزءًا لا يتجزأ من الصناعات المختلفة، بدءًا من الرعاية الصحية وحتى التصميم وما بعده. إذا كنت مطور .NET وتتطلع إلى معالجة الصور الطبية وتحسينها، فإن Aspose.Imaging for .NET هي أداة قوية تحت تصرفك. في هذا الدليل الشامل، سنرشدك خلال عملية تدوير صورة DICOM باستخدام Aspose.Imaging for .NET.
@@ -94,3 +100,9 @@ A1: DICOM تعني التصوير الرقمي والاتصالات في الط�
 ### س5: هل توجد خيارات ترخيص لـ Aspose.Imaging لـ .NET؟
 
  ج5: نعم، يمكنك استكشاف خيارات الترخيص، بما في ذلك الإصدار التجريبي المجاني والشراء، على الموقع[Aspose.صفحة شراء التصوير](https://purchase.aspose.com/buy) و[تراخيص مؤقتة](https://purchase.aspose.com/temporary-license/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

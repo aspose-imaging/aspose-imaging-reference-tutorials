@@ -3,10 +3,16 @@ title: Grayscale DICOM Images with Aspose.Imaging for .NET
 linktitle: Grayscale on DICOM in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to perform grayscaling on DICOM images with Aspose.Imaging for .NET, a powerful image processing library.
-type: docs
 weight: 24
 url: /net/dicom-image-processing/grayscale-on-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Grayscale DICOM Images with Aspose.Imaging for .NET
+
 If you're working with medical imaging data in DICOM format and need to perform grayscale transformations, Aspose.Imaging for .NET offers a powerful solution. In this step-by-step tutorial, we'll walk you through the process of grayscaling a DICOM image using Aspose.Imaging. This library is a versatile tool that allows you to work with various image formats, including DICOM, in a .NET environment. Let's get started!
 
 ## Prerequisites
@@ -85,3 +91,10 @@ A4: Yes, you can access a [free trial of Aspose.Imaging](https://releases.aspose
 ### Q5: How can I get support for Aspose.Imaging?
 
 A5: If you have any questions or need assistance, you can visit the [Aspose.Imaging forum](https://forum.aspose.com/) to seek help from the community or contact their support team.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

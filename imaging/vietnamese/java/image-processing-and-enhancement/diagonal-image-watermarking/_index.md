@@ -3,10 +3,16 @@ title: Hình mờ hình ảnh đường chéo với Aspose.Imaging cho Java
 linktitle: Hình mờ hình ảnh đường chéo
 second_title: Aspose.Imaging API xử lý hình ảnh Java
 description: Nâng cao hình ảnh của bạn bằng hình mờ chéo bằng cách sử dụng Aspose.Imaging for Java. Hãy làm theo hướng dẫn từng bước này và dễ dàng tạo ra những hình ảnh có hình mờ tuyệt đẹp.
-type: docs
 weight: 14
 url: /vi/java/image-processing-and-enhancement/diagonal-image-watermarking/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Hình mờ hình ảnh đường chéo với Aspose.Imaging cho Java
+
 
 Nếu bạn đang tìm cách cải thiện hình ảnh của mình bằng hình mờ có đường chéo đầy phong cách, Aspose.Imaging for Java luôn sẵn sàng trợ giúp. Trong hướng dẫn từng bước này, chúng tôi sẽ hướng dẫn bạn quy trình thêm hình mờ văn bản xoay 45 độ vào hình ảnh JPG hiện có. Bạn không cần phải là chuyên gia về Java hoặc xử lý hình ảnh để theo dõi – chúng tôi sẽ chia từng ví dụ thành nhiều bước để đảm bảo bạn có thể dễ dàng đạt được kết quả chuyên nghiệp.
 
@@ -141,3 +147,9 @@ Câu trả lời 3: Có, Aspose.Imaging cho Java hỗ trợ nhiều định dạ
 ### Câu hỏi 5: Tôi có thể tìm trợ giúp hoặc hỗ trợ cho Aspose.Imaging cho Java ở đâu?
 
  Câu trả lời 5: Nếu bạn có bất kỳ câu hỏi nào hoặc cần trợ giúp, hãy truy cập diễn đàn hỗ trợ Aspose.Imaging for Java[đây](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Sesuaikan Kecerahan Gambar DICOM dengan Aspose.Imaging untuk .NET
 linktitle: Sesuaikan Kecerahan Gambar DICOM di Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Pelajari cara menyesuaikan kecerahan gambar DICOM di Aspose.Imaging untuk .NET. Tingkatkan gambar medis dengan mudah.
-type: docs
 weight: 10
 url: /id/net/dicom-image-processing/adjust-brightness-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Sesuaikan Kecerahan Gambar DICOM dengan Aspose.Imaging untuk .NET
+
 Dalam dunia pencitraan medis, penanganan file DICOM (Digital Imaging and Communications in Medicine) adalah hal yang paling penting. File-file ini berisi data medis penting, dan terkadang, perlu dilakukan penyesuaian pada gambar di dalamnya, seperti mengubah kecerahannya. Dalam panduan langkah demi langkah ini, kami akan menunjukkan cara menyesuaikan kecerahan gambar DICOM menggunakan Aspose.Imaging untuk .NET.
 
 ## Prasyarat
@@ -95,3 +101,9 @@ A4: Anda bisa mendapatkan dukungan dan terhubung dengan komunitas Aspose.Imaging
 ### Q5: Fitur manipulasi gambar apa lagi yang ditawarkan Aspose.Imaging?
 
 A5: Aspose.Imaging menyediakan berbagai fitur untuk manipulasi gambar, termasuk mengubah ukuran, memotong, memutar, dan berbagai opsi pemfilteran, menjadikannya solusi komprehensif untuk bekerja dengan gambar medis.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

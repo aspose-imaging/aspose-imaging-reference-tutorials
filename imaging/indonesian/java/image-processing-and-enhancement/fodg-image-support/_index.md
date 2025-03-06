@@ -3,10 +3,16 @@ title: Dukungan Gambar FODG dengan Aspose.Imaging untuk Java
 linktitle: Dukungan Gambar FODG
 second_title: Aspose.Imaging API Pemrosesan Gambar Java
 description: Pelajari cara menggunakan Dukungan Gambar FODG dengan Aspose.Imaging untuk Java. Perpustakaan yang kuat untuk manipulasi dan konversi gambar.
-type: docs
 weight: 11
 url: /id/java/image-processing-and-enhancement/fodg-image-support/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Dukungan Gambar FODG dengan Aspose.Imaging untuk Java
+
 Jika Anda ingin memanfaatkan kekuatan Aspose.Imaging untuk Java untuk memanipulasi dan mengonversi gambar secara efisien, Anda datang ke tempat yang tepat. Dalam tutorial komprehensif ini, kami akan memandu Anda melalui proses bekerja dengan Aspose.Imaging untuk Java, mulai dari prasyarat hingga mengimpor paket, dan memecah setiap contoh menjadi beberapa langkah yang mudah diikuti.
 
 ## Prasyarat
@@ -113,3 +119,9 @@ Aspose.Imaging for Java mendukung berbagai format gambar, termasuk format umum s
 ### Q5: Apakah Aspose.Imaging untuk Java cocok untuk pemrosesan gambar batch?
 
 Ya, Aspose.Imaging for Java sangat cocok untuk pemrosesan gambar batch. Anda dapat menggunakannya untuk mengotomatiskan manipulasi dan konversi banyak gambar secara efisien.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

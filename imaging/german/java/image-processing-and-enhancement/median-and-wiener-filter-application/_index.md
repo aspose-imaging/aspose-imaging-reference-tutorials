@@ -3,10 +3,16 @@ title: Median- und Wiener-Filteranwendung
 linktitle: Median- und Wiener-Filteranwendung
 second_title: Aspose.Imaging Java-Bildverarbeitungs-API
 description: Erfahren Sie, wie Sie die Bildqualität mit Aspose.Imaging für Java verbessern. Dieses Schritt-für-Schritt-Tutorial behandelt Median- und Wiener-Filteranwendungen zur Bildrauschunterdrückung.
-type: docs
 weight: 19
 url: /de/java/image-processing-and-enhancement/median-and-wiener-filter-application/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Median- und Wiener-Filteranwendung
+
 In der Welt der Bildverarbeitung sind die Beseitigung von Rauschen und die Verbesserung der Bildqualität entscheidende Aufgaben. Aspose.Imaging für Java ist eine leistungsstarke Bibliothek, die verschiedene Tools und Filter für die Arbeit mit Bildern bereitstellt. In diesem Tutorial führen wir Sie durch den Prozess der Verwendung der Bibliothek zum Anwenden von Median- und Wiener-Filtern zum Bereinigen und Entrauschen eines Bildes. Diese Schritt-für-Schritt-Anleitung hilft Ihnen dabei, eine professionelle Bildverbesserung zu erzielen.
 
 ## Voraussetzungen
@@ -97,3 +103,9 @@ A4: Zu den Bildverbesserungstechniken gehören neben dem Medianfilter unter ande
 ### F5: Kann ich Aspose.Imaging für Java in meiner Webanwendung verwenden?
 
 A5: Ja, Sie können Aspose.Imaging für Java in Ihre Webanwendungen zur serverseitigen Bildverarbeitung integrieren.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

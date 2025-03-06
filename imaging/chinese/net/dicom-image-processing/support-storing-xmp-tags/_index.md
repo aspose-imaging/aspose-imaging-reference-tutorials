@@ -3,10 +3,16 @@ title: 支持在 Aspose.Imaging for .NET 中存储 XMP 标签
 linktitle: 支持在 Aspose.Imaging for .NET 中存储 XMP 标签
 second_title: Aspose.Imaging .NET 图像处理 API
 description: 了解如何使用 Aspose.Imaging for .NET 将 XMP 元数据添加到 DICOM 图像。通过此分步指南优化图像管理和组织。
-type: docs
 weight: 25
 url: /zh/net/dicom-image-processing/support-storing-xmp-tags/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 支持在 Aspose.Imaging for .NET 中存储 XMP 标签
+
 Aspose.Imaging for .NET 是一个功能强大的库，允许您在 .NET 环境中使用各种图像格式。在本教程中，我们将探讨如何支持在 Aspose.Imaging for .NET 中存储 XMP（可扩展元数据平台）标签。 XMP 标签对于向图像添加元数据信息至关重要，从而可以更轻松地组织和管理您的数字资产。我们将把这个过程分解为多个步骤，以帮助您了解如何实现这一目标。
 
 ## 先决条件
@@ -114,3 +120,10 @@ A3：当然。 Aspose.Imaging for .NET 提供了广泛的图像处理、编辑�
 ### Q5：如何获得 Aspose.Imaging for .NET 的临时许可证？
 
  A5：您可以通过访问获取 Aspose.Imaging for .NET 的临时许可证[这个链接](https://purchase.aspose.com/temporary-license/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

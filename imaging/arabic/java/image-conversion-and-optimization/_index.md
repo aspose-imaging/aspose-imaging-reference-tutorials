@@ -3,10 +3,16 @@ title: تحويل الصور وتحسينها
 linktitle: تحويل الصور وتحسينها
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: اكتشف البرامج التعليمية الخاصة بتحويل الصور وتحسينها باستخدام Aspose.Imaging لـ Java. تعرف على كيفية تحويل تنسيقات الصور المختلفة وتحسينها وتحسينها بسهولة.
-type: docs
 weight: 20
 url: /ar/java/image-conversion-and-optimization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# تحويل الصور وتحسينها
+
 
 # مقدمة
 
@@ -86,3 +92,9 @@ url: /ar/java/image-conversion-and-optimization/
 تعرف على كيفية تحويل الصور النقطية إلى تنسيق TIFF في Java باستخدام Aspose.Imaging for Java. دليل شامل لمعالجة الصور.
 ### [تقسيم إطار الصورة TIFF](./tiff-image-frame-splitting/)
 تعرف على كيفية تقسيم إطارات صور TIFF باستخدام Aspose.Imaging لـ Java. دليل خطوة بخطوة يتضمن المتطلبات الأساسية ومثال التعليمات البرمجية والأسئلة الشائعة للمطورين.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

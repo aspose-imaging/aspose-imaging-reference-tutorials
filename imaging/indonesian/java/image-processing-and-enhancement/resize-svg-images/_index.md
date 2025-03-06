@@ -3,10 +3,16 @@ title: Ubah ukuran Gambar SVG dengan Aspose.Imaging untuk Java
 linktitle: Ubah ukuran Gambar SVG
 second_title: Aspose.Imaging API Pemrosesan Gambar Java
 description: Pelajari cara mengubah ukuran gambar SVG di Java menggunakan Aspose.Imaging for Java. Panduan langkah demi langkah untuk pemrosesan gambar yang efisien.
-type: docs
 weight: 12
 url: /id/java/image-processing-and-enhancement/resize-svg-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Ubah ukuran Gambar SVG dengan Aspose.Imaging untuk Java
+
 Apakah Anda ingin mengubah ukuran gambar SVG secara efisien dan efektif menggunakan Java? Aspose.Imaging untuk Java menawarkan solusi ampuh untuk membantu Anda mencapai hal ini. Dalam panduan komprehensif ini, kami akan memandu Anda melalui prosesnya, langkah demi langkah, mulai dari prasyarat, mengimpor paket, dan memecah setiap contoh menjadi langkah-langkah mendetail.
 
 ## Prasyarat
@@ -113,3 +119,9 @@ A4: Ya, Aspose.Imaging menawarkan berbagai fitur, termasuk pemotongan gambar, ro
 ### Q5: Dapatkah saya menggunakan Aspose.Imaging dalam proyek komersial?
 
 A5: Ya, Aspose.Imaging dapat digunakan dalam proyek komersial. Anda dapat menemukan informasi lisensi di situs web Aspose.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

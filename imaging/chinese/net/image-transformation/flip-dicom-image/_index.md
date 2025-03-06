@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for .NET 翻转 DICOM 图像
 linktitle: 在 Aspose.Imaging for .NET 中翻转 DICOM 图像
 second_title: Aspose.Imaging .NET 图像处理 API
 description: 了解如何使用 Aspose.Imaging for .NET 翻转 DICOM 图像。适用于医疗应用等的简单、高效的图像处理。
-type: docs
 weight: 10
 url: /zh/net/image-transformation/flip-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for .NET 翻转 DICOM 图像
+
 ## 介绍
 
 在软件开发领域，图像处理是一项常见且重要的任务。无论您是从事医学成像应用程序还是创意图形设计项目，翻转 DICOM 图像的能力都是一项宝贵的技能。 Aspose.Imaging for .NET 是一个功能强大的工具，可以帮助您轻松实现这一目标。在本综合指南中，我们将引导您完成使用 Aspose.Imaging for .NET 翻转 DICOM 图像的过程。我们将分解每个步骤，提供代码示例，并深入了解您需要了解的先决条件和命名空间。
@@ -99,3 +105,9 @@ A2：当然！ Aspose.Imaging for .NET 非常适合医学成像项目，可以�
 
 ### 问题 5：Aspose.Imaging for .NET 还提供哪些其他图像处理功能？
 A5：Aspose.Imaging for .NET 提供了广泛的功能，包括调整大小、裁剪、过滤等等。您可以在文档中探索该库的全部功能。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

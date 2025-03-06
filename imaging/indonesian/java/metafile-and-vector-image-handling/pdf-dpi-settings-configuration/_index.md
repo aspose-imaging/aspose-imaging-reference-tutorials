@@ -3,10 +3,16 @@ title: Konversi Gambar ke PDF dengan Aspose.Imaging untuk Java
 linktitle: Konfigurasi Pengaturan DPI PDF
 second_title: Aspose.Imaging API Pemrosesan Gambar Java
 description: Pelajari cara mengonversi gambar ke PDF dengan Aspose.Imaging untuk Java. Panduan langkah demi langkah untuk manipulasi gambar yang efisien.
-type: docs
 weight: 13
 url: /id/java/metafile-and-vector-image-handling/pdf-dpi-settings-configuration/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Konversi Gambar ke PDF dengan Aspose.Imaging untuk Java
+
 Di era digital saat ini, kemampuan memanipulasi dan mengubah gambar adalah keterampilan yang berharga. Baik Anda sedang mengerjakan proyek desain grafis, pengarsipan dokumen, atau hanya perlu mengonversi gambar ke format yang lebih mudah diakses, Aspose.Imaging untuk Java adalah solusi yang ampuh. Dalam panduan langkah demi langkah ini, kita akan mempelajari cara mengonversi gambar ke PDF menggunakan Aspose.Imaging untuk Java.
 
 ## Prasyarat
@@ -94,3 +100,9 @@ A4: Aspose.Imaging for Java mendukung berbagai format gambar, termasuk BMP, JPEG
 ### Q5: Dapatkah saya menyesuaikan pengaturan PDF lebih lanjut saat mengonversi gambar?
 
 A5: Tentu saja! Anda dapat memodifikasi opsi PDF sesuai kebutuhan Anda, seperti menyesuaikan kompresi, mengatur metadata, dan banyak lagi. Lihat dokumentasi untuk opsi terperinci.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

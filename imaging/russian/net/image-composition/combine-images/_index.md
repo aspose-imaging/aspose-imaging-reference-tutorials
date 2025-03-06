@@ -3,10 +3,16 @@ title: Объедините изображения с помощью Aspose.Imag
 linktitle: Объедините изображения в Aspose.Imaging для .NET
 second_title: API обработки изображений Aspose.Imaging .NET
 description: Научитесь комбинировать изображения в Aspose.Imaging for .NET. Пошаговое руководство по мощной обработке изображений.
-type: docs
 weight: 10
 url: /ru/net/image-composition/combine-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Объедините изображения с помощью Aspose.Imaging для .NET
+
 В современную цифровую эпоху обработка изображений и манипулирование ими являются неотъемлемой частью многих приложений, от веб-разработки до графического дизайна. Aspose.Imaging for .NET — это мощная библиотека, которая позволяет .NET-разработчикам выполнять широкий спектр операций с изображениями. В этом пошаговом руководстве мы рассмотрим, как объединять изображения с помощью Aspose.Imaging для .NET. 
 
 ## Предварительные условия
@@ -132,3 +138,9 @@ image.Save();
 ### Вопрос 5. Могу ли я использовать Aspose.Imaging for .NET с другими платформами .NET, такими как ASP.NET или WinForms?
 
 А5: Абсолютно. Aspose.Imaging for .NET совместим с различными платформами .NET, что делает его универсальным для различных типов приложений, включая веб-приложения ASP.NET и настольные приложения Windows Forms.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

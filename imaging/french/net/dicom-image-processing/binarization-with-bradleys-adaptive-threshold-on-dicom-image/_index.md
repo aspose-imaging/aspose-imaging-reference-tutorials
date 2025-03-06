@@ -3,10 +3,16 @@ title: Binarisation avec le seuil adaptatif de Bradley sur l'image DICOM dans As
 linktitle: Binarisation avec le seuil adaptatif de Bradley sur l'image DICOM dans Aspose.Imaging pour .NET
 second_title: API de traitement d'images Aspose.Imaging .NET
 description: Apprenez à appliquer le seuil adaptatif de Bradley aux images DICOM à l'aide d'Aspose.Imaging pour .NET. La binarisation simplifiée grâce à un guide étape par étape.
-type: docs
 weight: 14
 url: /fr/net/dicom-image-processing/binarization-with-bradleys-adaptive-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binarisation avec le seuil adaptatif de Bradley sur l'image DICOM dans Aspose.Imaging pour .NET
+
 Souhaitez-vous appliquer le seuil adaptatif de Bradley à une image DICOM à l'aide d'Aspose.Imaging pour .NET ? Dans ce didacticiel complet, nous vous guiderons étape par étape tout au long du processus. À la fin de ce guide, vous serez en mesure d'effectuer efficacement la binarisation des images DICOM. Nous aborderons tout, des conditions préalables à l'importation d'espaces de noms, en passant par la décomposition de chaque exemple en plusieurs étapes.
 
 ## Conditions préalables
@@ -97,3 +103,9 @@ A2 : Oui, vous pouvez parcourir plusieurs images DICOM et appliquer le processu
 ### Q5 : Comment puis-je obtenir de l'assistance pour Aspose.Imaging pour .NET ?
 
  A5 : Vous pouvez rejoindre la communauté Aspose et obtenir le soutien d'autres développeurs sur le site.[Forum Aspose](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

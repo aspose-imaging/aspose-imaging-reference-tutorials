@@ -3,10 +3,16 @@ title: Desenhando elipses em Aspose.Imaging para .NET
 linktitle: Desenhe elipse em Aspose.Imaging para .NET
 second_title: API de processamento de imagem Aspose.Imaging .NET
 description: Aprenda a desenhar elipses no Aspose.Imaging for .NET, uma biblioteca versátil de manipulação de imagens. Crie gráficos impressionantes com facilidade.
-type: docs
 weight: 12
 url: /pt/net/basic-drawing/draw-ellipse/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Desenhando elipses em Aspose.Imaging para .NET
+
 Neste tutorial, orientaremos você no processo de desenho de elipses usando Aspose.Imaging for .NET. Aspose.Imaging é uma biblioteca poderosa que permite manipular e criar imagens em vários formatos em seus aplicativos .NET. Começaremos apresentando o conceito e os pré-requisitos e, em seguida, dividiremos cada exemplo em várias etapas para garantir um entendimento claro.
 
 ## Pré-requisitos
@@ -138,3 +144,9 @@ Sim, você pode usar o Aspose.Imaging for .NET em aplicativos desktop e web do W
 ### P5: Como posso obter suporte para Aspose.Imaging for .NET se encontrar problemas?
 
  Você pode buscar suporte e interagir com a comunidade Aspose no[fórum](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

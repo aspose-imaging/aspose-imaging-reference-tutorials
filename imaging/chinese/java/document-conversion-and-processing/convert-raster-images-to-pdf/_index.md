@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for Java 将光栅图像转换为 PDF
 linktitle: 将光栅图像转换为 PDF
 second_title: Aspose.Imaging Java 图像处理 API
 description: 了解如何使用 Aspose.Imaging for Java 将光栅图像转换为 PDF。简单的步骤即可获得高质量的结果。
-type: docs
 weight: 15
 url: /zh/java/document-conversion-and-processing/convert-raster-images-to-pdf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for Java 将光栅图像转换为 PDF
+
 在数字文档管理领域，将光栅图像转换为 PDF 的能力是一项关键功能。无论您处理的是扫描照片、图表还是任何其他类型的图像，将它们转换为 PDF 格式都可以确保可移植性、兼容性和改进的文档管理。 Aspose.Imaging for Java 是一个多功能 Java 库，使开发人员能够轻松执行此任务。在这个综合教程中，我们将指导您逐步完成使用 Aspose.Imaging for Java 将光栅图像转换为 PDF 的过程。
 
 ## 先决条件
@@ -89,3 +95,9 @@ A3：Aspose.Imaging for Java 支持多种图像格式，包括 PNG、JPEG、GIF�
 ### Q5. Aspose.Imaging for Java 用户是否可以获得技术支持？
 
  A5：是的，Aspose 为其产品提供技术支持，包括 Aspose.Imaging for Java。您可以通过他们的支持团队联系他们[论坛](https://forum.aspose.com/)寻求帮助。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

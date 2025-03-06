@@ -3,10 +3,16 @@ title: Convertir une plage de pages DJVU dans Aspose.Imaging pour .NET
 linktitle: Convertir une plage de pages DJVU dans Aspose.Imaging pour .NET
 second_title: API de traitement d'images Aspose.Imaging .NET
 description: Découvrez comment convertir des pages DJVU avec Aspose.Imaging pour .NET. Guide étape par étape pour une conversion efficace de DJVU en TIFF.
-type: docs
 weight: 18
 url: /fr/net/image-format-conversion/convert-range-of-djvu-pages/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Convertir une plage de pages DJVU dans Aspose.Imaging pour .NET
+
 
 Si vous cherchez à convertir une gamme de pages DJVU dans un autre format, Aspose.Imaging for .NET est l'outil idéal pour ce travail. Dans ce guide étape par étape, nous vous montrerons comment effectuer cette tâche efficacement. Que vous soyez un développeur chevronné ou un nouveau venu dans le monde d'Aspose.Imaging, nous détaillerons le processus pour vous. 
 
@@ -105,3 +111,9 @@ Vous avez appris avec succès comment convertir une gamme de pages DJVU dans un 
 ### Q5 : Puis-je utiliser Aspose.Imaging pour le traitement par lots d’images ?
 
 Oui, Aspose.Imaging for .NET offre de puissantes fonctionnalités de traitement par lots d'images, ce qui le rend adapté à diverses tâches d'automatisation et de manipulation d'images.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

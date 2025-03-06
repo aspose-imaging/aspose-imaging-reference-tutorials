@@ -3,10 +3,16 @@ title: ضغط BMP RLE4 في Aspose.Imaging لبرنامج .NET التعليمي
 linktitle: BMP RLE4 في Aspose.Imaging لـ .NET
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: تعرف على كيفية تطبيق ضغط BMP RLE4 في Aspose.Imaging لـ .NET. تقليل حجم صورة BMP دون فقدان الجودة.
-type: docs
 weight: 15
 url: /ar/net/advanced-features/bmp-rle4/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# ضغط BMP RLE4 في Aspose.Imaging لبرنامج .NET التعليمي
+
 Aspose.Imaging for .NET هي مكتبة قوية تمكن المطورين من العمل مع تنسيقات الصور المختلفة، بما في ذلك BMP. في هذا البرنامج التعليمي، سنستكشف تقنية ضغط BMP RLE4 وكيفية استخدامها في Aspose.Imaging for .NET. سيرشدك هذا الدليل خطوة بخطوة خلال عملية العمل مع ضغط BMP RLE4، بدءًا من إعداد البيئة وحتى إنشاء صور BMP المضغوطة وحفظها.
 
 ## المتطلبات الأساسية
@@ -112,3 +118,9 @@ A1: ضغط BMP RLE4 هو أسلوب يستخدم لتقليل حجم صور BMP 
 ### س5: كيف يمكنني الحصول على ترخيص مؤقت لـ Aspose.Imaging لـ .NET؟
 
  ج5: يمكنك الحصول على ترخيص مؤقت لـ Aspose.Imaging for .NET من خلال زيارة[صفحة الترخيص المؤقتة](https://purchase.aspose.com/temporary-license/) على موقع Aspose.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

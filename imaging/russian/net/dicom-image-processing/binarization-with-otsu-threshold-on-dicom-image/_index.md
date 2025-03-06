@@ -3,10 +3,16 @@ title: Бинаризация с порогом Оцу на изображени
 linktitle: Бинаризация с порогом Оцу на изображении DICOM в Aspose.Imaging for .NET
 second_title: API обработки изображений Aspose.Imaging .NET
 description: Улучшите обработку медицинских изображений с помощью Aspose.Imaging for .NET. Узнайте, как выполнить бинаризацию изображений DICOM с помощью Otsu Thresholding.
-type: docs
 weight: 16
 url: /ru/net/dicom-image-processing/binarization-with-otsu-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Бинаризация с порогом Оцу на изображении DICOM в Aspose.Imaging for .NET
+
 В мире обработки изображений и манипулирования ими необходимы эффективные инструменты и библиотеки. Aspose.Imaging for .NET — одна из таких мощных библиотек, которая позволяет разработчикам работать с различными форматами изображений, включая файлы DICOM (цифровая обработка изображений и коммуникации в медицине). В этом подробном руководстве мы рассмотрим процесс бинаризации с помощью Otsu Threshold изображения DICOM с использованием Aspose.Imaging for .NET. Мы разобьем процесс на простые для выполнения шаги, чтобы вы могли легко реализовать эту функцию в своих проектах.
 
 ## Предварительные условия
@@ -90,3 +96,9 @@ A4: Для получения документации посетите[Доку
 ### Вопрос 5: Могу ли я попробовать Aspose.Imaging for .NET перед покупкой?
 
  О5: Да, вы можете изучить возможности Aspose.Imaging for .NET, загрузив бесплатную пробную версию с сайта[эта ссылка](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

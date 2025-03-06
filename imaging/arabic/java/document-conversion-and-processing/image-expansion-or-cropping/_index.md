@@ -3,10 +3,16 @@ title: توسيع الصورة أو الاقتصاص باستخدام Aspose.Ima
 linktitle: توسيع الصورة أو الاقتصاص
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: تعلم توسيع الصورة واقتصاصها في Java باستخدام Aspose.Imaging. برنامج تعليمي خطوة بخطوة للمطورين. تعزيز مهارات معالجة الصور الخاصة بك.
-type: docs
 weight: 12
 url: /ar/java/document-conversion-and-processing/image-expansion-or-cropping/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# توسيع الصورة أو الاقتصاص باستخدام Aspose.Imaging لـ Java
+
 في عالم الوسائط الرقمية دائم التطور، يعد التلاعب الفعال بالصور حاجة أساسية لكل من الشركات والأفراد. Aspose.Imaging for Java هي مكتبة Java متعددة الاستخدامات تتيح لك العمل مع الصور دون عناء. في هذا البرنامج التعليمي الشامل، سنأخذك خلال عملية توسيع الصورة واقتصاصها باستخدام Aspose.Imaging for Java. سواء كنت مطورًا متمرسًا أو بدأت للتو رحلة البرمجة الخاصة بك، فسوف نقوم بتفصيل كل خطوة بطريقة سهلة للمبتدئين.
 
 ## المتطلبات الأساسية
@@ -101,3 +107,9 @@ A1: يدعم Aspose.Imaging for Java نطاقًا واسعًا من تنسيقا
 ### س5: هل هناك إصدار تجريبي مجاني متاح لـ Aspose.Imaging for Java؟
 
  ج5: نعم، يمكنك استكشاف المكتبة من خلال النسخة التجريبية المجانية. قم بتنزيله من[هنا](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

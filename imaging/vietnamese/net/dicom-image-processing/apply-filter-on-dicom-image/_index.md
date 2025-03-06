@@ -3,10 +3,16 @@ title: Áp dụng Bộ lọc cho Hình ảnh DICOM với Aspose.Imaging for .NET
 linktitle: Áp dụng Bộ lọc trên Hình ảnh DICOM trong Aspose.Imaging for .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Tìm hiểu cách áp dụng bộ lọc cho hình ảnh DICOM bằng Aspose.Imaging for .NET. Tăng cường xử lý hình ảnh y tế một cách dễ dàng.
-type: docs
 weight: 13
 url: /vi/net/dicom-image-processing/apply-filter-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Áp dụng Bộ lọc cho Hình ảnh DICOM với Aspose.Imaging for .NET
+
 Nếu bạn đang tìm cách nâng cao kỹ năng xử lý hình ảnh của mình bằng Aspose.Imaging cho .NET, thì bạn đã đến đúng nơi. Trong hướng dẫn từng bước này, chúng tôi sẽ hướng dẫn bạn quy trình áp dụng các bộ lọc cho hình ảnh DICOM. Thư viện mạnh mẽ này cho phép bạn thao tác và xử lý các định dạng hình ảnh khác nhau, bao gồm DICOM, một cách dễ dàng. Chúng tôi sẽ chia quy trình thành các bước có thể quản lý được, đảm bảo rằng bạn nắm bắt kỹ từng khái niệm. Hãy đi sâu vào!
 
 ## Điều kiện tiên quyết
@@ -90,3 +96,9 @@ Câu trả lời 3: Có, Aspose.Imaging cung cấp nhiều bộ lọc khác nhau
 ### Câu hỏi 5: Làm cách nào tôi có thể nhận được giấy phép tạm thời cho Aspose.Imaging?
 
  Câu trả lời 5: Bạn có thể xin giấy phép tạm thời từ[đây](https://purchase.aspose.com/temporary-license/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

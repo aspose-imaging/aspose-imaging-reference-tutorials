@@ -3,10 +3,16 @@ title: Làm chủ việc vẽ đường trong Aspose.Imaging cho .NET
 linktitle: Vẽ đường trong Aspose.Imaging cho .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Tìm hiểu cách vẽ các đường chính xác trong Aspose.Imaging cho .NET. Hướng dẫn từng bước này bao gồm việc tạo hình ảnh, vẽ đường nét và hơn thế nữa.
-type: docs
 weight: 13
 url: /vi/net/basic-drawing/draw-lines/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Làm chủ việc vẽ đường trong Aspose.Imaging cho .NET
+
 Nếu bạn đang muốn tạo những hình ảnh tuyệt đẹp với các đường nét chính xác trong ứng dụng .NET của mình thì Aspose.Imaging for .NET là một công cụ mạnh mẽ có thể giúp bạn đạt được điều này. Trong hướng dẫn này, chúng tôi sẽ hướng dẫn bạn quy trình vẽ đường bằng Aspose.Imaging cho .NET. Hướng dẫn từng bước này sẽ đề cập đến mọi thứ từ việc thiết lập các không gian tên cần thiết đến việc tạo ra những hình ảnh đẹp mắt có đường kẻ.
 
 ## Điều kiện tiên quyết
@@ -124,3 +130,9 @@ Câu trả lời 4: Có, Aspose.Imaging for .NET tương thích với .NET Core,
 ### Câu hỏi 5: Có phiên bản dùng thử miễn phí của Aspose.Imaging cho .NET không?
 
  Câu trả lời 5: Có, bạn có thể dùng thử Aspose.Imaging for .NET bằng cách tải xuống bản dùng thử miễn phí từ[đây](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

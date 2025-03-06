@@ -3,10 +3,16 @@ title: A DICOM képdithering egyszerűen az Aspose.Imaging for .NET segítségé
 linktitle: Dithering for DICOM Image in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Ismerje meg, hogyan hajthat végre küszöbérték ditheringet a DICOM-képeken az Aspose.Imaging for .NET segítségével. Javítsa a képminőséget és csökkentse a színpalettákat könnyedén.
-type: docs
 weight: 22
 url: /hu/net/dicom-image-processing/dithering-for-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# A DICOM képdithering egyszerűen az Aspose.Imaging for .NET segítségével
+
 A dithering egy alapvető képfeldolgozási technika, amelyet a kép színeinek csökkentésére használnak a vizuális minőség megőrzése mellett. Ebben a lépésenkénti útmutatóban megvizsgáljuk, hogyan lehet DICOM-képen ditheringet végrehajtani az Aspose.Imaging for .NET használatával. Ez a nagy teljesítményű könyvtár a funkciók széles skáláját kínálja a képkezeléshez és -feldolgozáshoz, így kiváló választás az orvosi képekkel dolgozó fejlesztők számára. 
 
 ## Előfeltételek
@@ -92,3 +98,9 @@ Ha követi ezeket a lépéseket, hatékonyan csökkentheti a színek számát a 
 ### 5. kérdés: Hogyan kaphatok támogatást az Aspose.Imaging for .NET-hez?
 
  V5: Segítséget és támogatást találhat a[Aspose.Képalkotó fórumok](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

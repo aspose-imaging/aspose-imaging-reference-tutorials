@@ -3,10 +3,16 @@ title: Převeďte metasoubory WMF na škálovatelnou vektorovou grafiku
 linktitle: Převeďte metasoubory WMF na škálovatelnou vektorovou grafiku
 second_title: Aspose.Imaging Java Image Processing API
 description: Naučte se převádět obrázky WMF na SVG v Javě pomocí Aspose.Imaging. Postupujte podle našeho podrobného průvodce pro efektivní převod obrazových formátů.
-type: docs
 weight: 15
 url: /cs/java/image-conversion-and-optimization/convert-wmf-metafiles-to-scalable-vector-graphics/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Převeďte metasoubory WMF na škálovatelnou vektorovou grafiku
+
 ## Úvod
 
 Vítejte v našem podrobném průvodci, jak převést obrázky WMF (Windows Metafile) na SVG (Scalable Vector Graphics) pomocí Aspose.Imaging for Java. Ať už jste zkušený vývojář nebo teprve začínáte, tento tutoriál vám poskytne všechny základní informace, které potřebujete k efektivnímu provedení tohoto úkolu.
@@ -94,3 +100,9 @@ A3: Aspose.Imaging podporuje širokou škálu obrazových formátů, včetně BM
 ### Otázka 5: Jaká verze Java je kompatibilní s Aspose.Imaging for Java?
 
 A5: Aspose.Imaging for Java je kompatibilní s Java 8 a novějšími verzemi.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

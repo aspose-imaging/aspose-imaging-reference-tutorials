@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for Java 進行 Otsu 閾值二值化
 linktitle: 大津閾值二值化
 second_title: Aspose.Imaging Java 圖像處理 API
 description: 使用 Aspose.Imaging for Java 的 Otsu 閾值二值化增強影像品質。請遵循我們的逐步指南來實現卓越的影像處理。
-type: docs
 weight: 22
 url: /zh-hant/java/image-processing-and-enhancement/otsu-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for Java 進行 Otsu 閾值二值化
+
 在影像處理和操作領域，Aspose.Imaging for Java 是一個強大的工具包，使開發人員能夠處理各種影像格式。在其眾多功能中，大津閾值二值化是影像增強和分析的關鍵技術。在本教程中，我們將指導您逐步完成使用 Aspose.Imaging for Java 對影像執行 Otsu 閾值二值化的過程。
 
 ## 先決條件
@@ -105,3 +111,9 @@ A1：大津閾值二值化是一種影像處理技術，可自動確定將影像
 ### Q5：我可以在我的商業專案中使用 Aspose.Imaging for Java 嗎？
 
 A5：是的，Aspose.Imaging for Java既適合個人項目，也適合商業項目。您可以探索適合您特定需求的授權選項。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: دروس النصوص والقياسات باستخدام Aspose.Imaging 
 linktitle: النص والقياسات
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: تعرف على كيفية قياس النص في الصور باستخدام Aspose.Imaging for .NET، وهي أداة قوية ودقيقة. استكشف البرامج التعليمية لإتقان تقنيات قياس النص.
-type: docs
 weight: 26
 url: /ar/net/text-and-measurements/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# دروس النصوص والقياسات باستخدام Aspose.Imaging .NET
+
 
 هل أنت مفتون بفكرة قياس النص بدقة داخل الصور؟ حسنا، أنت في المكان الصحيح! في هذه المقالة، سنتعمق في عالم قياس النص باستخدام Aspose.Imaging for .NET. سوف نستكشف مكتبة .NET القوية هذه، والتي توفر إمكانات دقيقة وفعالة لقياس النص. بحلول الوقت الذي تنتهي فيه من القراءة، ستكون في طريقك لتصبح خبيرًا في قياس النص.
 
@@ -28,3 +34,9 @@ url: /ar/net/text-and-measurements/
 ## دروس النص والقياسات
 ### [قياس النص في Aspose.Imaging لـ .NET](./measure-text/)
 قياس النص في الصور باستخدام Aspose.Imaging لـ .NET. مكتبة .NET قوية. قياس النص دقيق وفعال.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

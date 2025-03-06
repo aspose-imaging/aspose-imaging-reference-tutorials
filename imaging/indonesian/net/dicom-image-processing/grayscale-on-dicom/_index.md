@@ -3,10 +3,16 @@ title: Gambar DICOM skala abu-abu dengan Aspose.Imaging untuk .NET
 linktitle: Skala abu-abu pada DICOM di Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Pelajari cara melakukan penskalaan abu-abu pada gambar DICOM dengan Aspose.Imaging for .NET, pustaka pemrosesan gambar yang canggih.
-type: docs
 weight: 24
 url: /id/net/dicom-image-processing/grayscale-on-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Gambar DICOM skala abu-abu dengan Aspose.Imaging untuk .NET
+
 Jika Anda bekerja dengan data pencitraan medis dalam format DICOM dan perlu melakukan transformasi skala abu-abu, Aspose.Imaging untuk .NET menawarkan solusi yang ampuh. Dalam tutorial langkah demi langkah ini, kami akan memandu Anda melalui proses penskalaan gambar DICOM menjadi abu-abu menggunakan Aspose.Imaging. Pustaka ini adalah alat serbaguna yang memungkinkan Anda bekerja dengan berbagai format gambar, termasuk DICOM, di lingkungan .NET. Mari kita mulai!
 
 ## Prasyarat
@@ -85,3 +91,9 @@ A2: Ya, Aspose.Imaging adalah perpustakaan serbaguna yang dapat menangani berbag
 ### Q5: Bagaimana saya bisa mendapatkan dukungan untuk Aspose.Imaging?
 
  A5: Jika Anda memiliki pertanyaan atau memerlukan bantuan, Anda dapat mengunjungi[Aspose.Forum pencitraan](https://forum.aspose.com/) untuk mencari bantuan dari komunitas atau menghubungi tim dukungan mereka.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

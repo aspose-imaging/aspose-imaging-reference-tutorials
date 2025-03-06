@@ -3,10 +3,16 @@ title: Frame Saving in Different Raster Formats
 linktitle: Frame Saving in Different Raster Formats
 second_title: Aspose.Imaging Java Image Processing API
 description: Learn how to save frames from a TIFF image in various raster formats using Aspose.Imaging for Java. Enhance image manipulation in your Java applications.
-type: docs
 weight: 18
 url: /java/document-conversion-and-processing/frame-saving-in-different-raster-formats/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Frame Saving in Different Raster Formats
+
 In the dynamic world of software development, it's essential to have tools and libraries that allow you to work with various file formats effortlessly. Aspose.Imaging for Java is one such versatile library that empowers developers to manipulate, convert, and save images in different raster formats with ease. In this step-by-step tutorial, we'll explore how to use Aspose.Imaging for Java to save frames from a TIFF image in various raster formats.
 
 ## Prerequisites
@@ -83,3 +89,10 @@ A4: Yes, you can access a free trial of Aspose.Imaging for Java from the [releas
 ### Q5: Where can I seek support or get assistance with Aspose.Imaging for Java?
 
 A5: For any questions, issues, or assistance with Aspose.Imaging for Java, you can visit the [Aspose Imaging forum](https://forum.aspose.com/). The community and support team are there to help you.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

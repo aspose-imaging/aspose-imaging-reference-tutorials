@@ -3,10 +3,16 @@ title: إنشاء صور WMF باستخدام Aspose.Imaging لـ Java
 linktitle: إنشاء صور ملف تعريف WMF
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: تعرف على كيفية إنشاء صور ملف تعريف WMF في Java باستخدام Aspose.Imaging. اتبع هذا الدليل المفصّل خطوة بخطوة للحصول على إمكانات قوية لإنشاء الصور.
-type: docs
 weight: 10
 url: /ar/java/metafile-and-vector-image-handling/generate-wmf-metafile-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# إنشاء صور WMF باستخدام Aspose.Imaging لـ Java
+
 هل تتطلع إلى إنشاء صور WMF (ملف تعريف Windows) باستخدام تطبيقات Java الخاصة بك؟ Aspose.Imaging for Java هي أداة قوية تسمح لك بإنشاء صور WMF بسهولة. في هذا الدليل المفصّل خطوة بخطوة، سنرشدك خلال عملية استخدام Aspose.Imaging for Java لإنشاء صور ملف تعريف WMF. 
 
 ## المتطلبات الأساسية
@@ -200,3 +206,9 @@ A1: WMF يرمز إلى Windows Metafile، وهو تنسيق رسومات متج
 ### س5: أين يمكنني الحصول على الدعم أو طرح الأسئلة حول Aspose.Imaging for Java؟
 
  ج5: يمكنك العثور على الدعم والتفاعل مع مجتمع Aspose على[Aspose.منتديات التصوير](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

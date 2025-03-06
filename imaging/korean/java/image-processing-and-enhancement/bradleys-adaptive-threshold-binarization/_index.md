@@ -3,10 +3,16 @@ title: Java용 Aspose.Imaging을 사용한 이미지 이진화
 linktitle: Bradley의 적응형 임계값 이진화
 second_title: Aspose.Imaging Java 이미지 처리 API
 description: Java용 Aspose.Imaging을 사용하여 이미지 이진화를 알아보세요. DICOM 이미지를 쉽게 변환하세요. 코드 예제가 포함된 단계별 가이드를 살펴보세요.
-type: docs
 weight: 27
 url: /ko/java/image-processing-and-enhancement/bradleys-adaptive-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Java용 Aspose.Imaging을 사용한 이미지 이진화
+
 이미지는 웹사이트, 문서 또는 다양한 애플리케이션의 일부로 디지털 세계에서 중요한 역할을 합니다. 이미지 처리는 이러한 영역에서 필수적인 작업이며 기본 작업 중 하나는 이미지 이진화입니다. 이진화는 이미지를 이진 형식으로 변환하여 이미지를 단순화하여 컴퓨터가 처리하기 쉽게 만듭니다. Aspose.Imaging for Java는 광범위한 이미지 조작 기능을 제공하는 강력한 도구이며, 이 튜토리얼에서는 Aspose.Imaging의 Bradley의 Adaptive Threshold Binarization을 사용하여 이미지 이진화를 수행하는 방법을 살펴보겠습니다. 
 
 ## 전제 조건
@@ -111,3 +117,9 @@ A1: DICOM은 Digital Imaging and Communications in Medicine의 약어이며 의�
 ### Q5: Aspose.Imaging for Java는 다른 Java 기반 애플리케이션의 이미지 처리에 적합합니까?
 
 A5: 예, Aspose.Imaging for Java는 다목적이며 웹 애플리케이션, 데스크톱 소프트웨어 등을 포함한 다양한 Java 기반 애플리케이션에서 사용할 수 있습니다.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

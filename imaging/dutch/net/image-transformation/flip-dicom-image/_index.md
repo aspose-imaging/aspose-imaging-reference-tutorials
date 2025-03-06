@@ -3,10 +3,16 @@ title: Draai DICOM-afbeeldingen om met Aspose.Imaging voor .NET
 linktitle: Draai de DICOM-afbeelding om in Aspose.Imaging voor .NET
 second_title: Aspose.Imaging .NET-API voor beeldverwerking
 description: Leer hoe u DICOM-afbeeldingen kunt spiegelen met Aspose.Imaging voor .NET. Eenvoudige, efficiënte beeldmanipulatie voor medische toepassingen en meer.
-type: docs
 weight: 10
 url: /nl/net/image-transformation/flip-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Draai DICOM-afbeeldingen om met Aspose.Imaging voor .NET
+
 ## Invoering
 
 In de wereld van softwareontwikkeling is beeldmanipulatie een veel voorkomende en essentiële taak. Of u nu werkt aan een toepassing voor medische beeldvorming of aan een creatief grafisch ontwerpproject, de mogelijkheid om DICOM-afbeeldingen om te draaien is een waardevolle vaardigheid. Aspose.Imaging voor .NET is een krachtige tool waarmee u dit moeiteloos kunt bereiken. In deze uitgebreide handleiding leiden we u door het proces van het omdraaien van DICOM-afbeeldingen met Aspose.Imaging voor .NET. We zullen elke stap uitsplitsen, codevoorbeelden geven en inzicht bieden in de vereisten en naamruimten die u moet kennen.
@@ -99,3 +105,9 @@ A2: Absoluut! Aspose.Imaging voor .NET is zeer geschikt voor medische beeldvormi
 
 ### V5: Welke andere functies voor beeldmanipulatie biedt Aspose.Imaging voor .NET?
 A5: Aspose.Imaging voor .NET biedt een breed scala aan functies, waaronder het formaat wijzigen, bijsnijden, filteren en nog veel meer. In de documentatie kunt u de volledige mogelijkheden van de bibliotheek verkennen.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

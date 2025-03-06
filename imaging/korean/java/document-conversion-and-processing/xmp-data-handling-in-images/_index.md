@@ -3,10 +3,16 @@ title: Java용 Aspose.Imaging을 사용하여 이미지의 XMP 데이터 처리
 linktitle: 이미지의 XMP 데이터 처리
 second_title: Aspose.Imaging Java 이미지 처리 API
 description: Aspose.Imaging for Java를 사용하여 이미지에서 XMP 메타데이터를 처리하는 방법을 알아보세요. 메타데이터를 포함하고 검색하여 이미지 파일을 향상하세요.
-type: docs
 weight: 16
 url: /ko/java/document-conversion-and-processing/xmp-data-handling-in-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Java용 Aspose.Imaging을 사용하여 이미지의 XMP 데이터 처리
+
 Aspose.Imaging for Java는 다양한 형식의 이미지 작업을 위한 다재다능하고 강력한 라이브러리입니다. 이 튜토리얼에서는 Aspose.Imaging for Java를 사용하여 이미지의 XMP(Extensible Metadata Platform) 데이터를 처리하는 과정을 안내합니다. XMP는 메타데이터를 이미지 파일에 포함하기 위한 표준으로, 작성자, 설명 등과 같은 중요한 정보를 저장할 수 있습니다.
 
 ## 전제 조건
@@ -228,3 +234,9 @@ try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(),
 }
         
 ```
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

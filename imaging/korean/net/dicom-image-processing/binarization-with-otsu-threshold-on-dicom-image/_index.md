@@ -3,10 +3,16 @@ title: .NET용 Aspose.Imaging의 DICOM 이미지에서 Otsu 임계값을 사용�
 linktitle: .NET용 Aspose.Imaging의 DICOM 이미지에서 Otsu 임계값을 사용한 이진화
 second_title: Aspose.Imaging .NET 이미지 처리 API
 description: .NET용 Aspose.Imaging을 사용하여 의료 영상 처리를 강화하세요. Otsu Thresholding을 사용하여 DICOM 이미지 이진화를 수행하는 방법을 알아보세요.
-type: docs
 weight: 16
 url: /ko/net/dicom-image-processing/binarization-with-otsu-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET용 Aspose.Imaging의 DICOM 이미지에서 Otsu 임계값을 사용한 이진화
+
 이미지 처리 및 조작의 세계에서는 효율적인 도구와 라이브러리가 필수적입니다. .NET용 Aspose.Imaging은 개발자가 DICOM(Digital Imaging and Communications in Medicine) 파일을 포함한 다양한 이미지 형식으로 작업할 수 있도록 지원하는 강력한 라이브러리 중 하나입니다. 이 종합 가이드에서는 .NET용 Aspose.Imaging을 사용하여 DICOM 이미지에서 Otsu Threshold를 사용한 이진화 프로세스를 살펴보겠습니다. 우리는 프로세스를 따라하기 쉬운 단계로 나누어 프로젝트에서 이 기능을 원활하게 구현할 수 있도록 할 것입니다.
 
 ## 전제 조건
@@ -90,3 +96,9 @@ A4: 문서를 보려면[.NET 문서용 Aspose.Imaging](https://reference.aspose.
 ### Q5: 구매하기 전에 .NET용 Aspose.Imaging을 사용해 볼 수 있나요?
 
  A5: 예, 다음에서 무료 평가판을 다운로드하여 .NET용 Aspose.Imaging의 기능을 탐색할 수 있습니다.[이 링크](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

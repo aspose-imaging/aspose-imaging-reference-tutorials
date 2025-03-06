@@ -3,10 +3,16 @@ title: تحويل الصور النقطية إلى PDF باستخدام Aspose.I
 linktitle: تحويل الصور النقطية إلى PDF
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: تعرف على كيفية تحويل الصور النقطية إلى PDF باستخدام Aspose.Imaging for Java. خطوات بسيطة للحصول على نتائج عالية الجودة.
-type: docs
 weight: 15
 url: /ar/java/document-conversion-and-processing/convert-raster-images-to-pdf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# تحويل الصور النقطية إلى PDF باستخدام Aspose.Imaging لـ Java
+
 في مجال إدارة المستندات الرقمية، تعد القدرة على تحويل الصور النقطية إلى PDF وظيفة محورية. سواء كنت تتعامل مع صور فوتوغرافية أو رسوم بيانية ممسوحة ضوئيًا أو أي نوع آخر من الصور، فإن تحويلها إلى تنسيق PDF يضمن إمكانية النقل والتوافق وتحسين إدارة المستندات. Aspose.Imaging for Java هي مكتبة Java متعددة الاستخدامات تمكن المطورين من أداء هذه المهمة بسهولة. في هذا البرنامج التعليمي الشامل، سنرشدك خلال العملية خطوة بخطوة لتحويل الصور النقطية إلى PDF باستخدام Aspose.Imaging for Java.
 
 ## المتطلبات الأساسية
@@ -89,3 +95,9 @@ finally
 ### س5. هل يتوفر الدعم الفني لـ Aspose.Imaging لمستخدمي Java؟
 
  ج5: نعم، توفر Aspose الدعم الفني لمنتجاتها، بما في ذلك Aspose.Imaging for Java. يمكنك التواصل مع فريق الدعم الخاص بهم على[المنتدى](https://forum.aspose.com/)للمساعدة.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

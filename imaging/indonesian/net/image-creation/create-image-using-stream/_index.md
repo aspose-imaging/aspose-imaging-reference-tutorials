@@ -3,10 +3,16 @@ title: Buat Gambar menggunakan Stream di Aspose.Imaging untuk .NET
 linktitle: Buat Gambar menggunakan Stream di Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Pelajari cara membuat gambar menggunakan aliran langkah demi langkah dengan Aspose.Imaging untuk .NET. Panduan komprehensif, prasyarat, dan FAQ disertakan.
-type: docs
 weight: 11
 url: /id/net/image-creation/create-image-using-stream/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Buat Gambar menggunakan Stream di Aspose.Imaging untuk .NET
+
 Apakah Anda ingin memanfaatkan kekuatan Aspose.Imaging untuk .NET untuk membuat gambar menakjubkan dengan mudah? Anda berada di tempat yang tepat! Dalam panduan komprehensif ini, kami akan memandu Anda melalui proses pembuatan gambar menggunakan Aspose.Imaging untuk .NET. Kita akan mulai dengan prasyarat dan kemudian mempelajari proses langkah demi langkah, menguraikan setiap contoh untuk memastikan Anda benar-benar memahami konsepnya.
 
 ## Prasyarat
@@ -108,3 +114,10 @@ A3: Tentu saja! Aspose.Imaging for .NET menawarkan berbagai fitur untuk pemroses
 ### Q5: Bagaimana cara mendapatkan lisensi sementara untuk Aspose.Imaging untuk .NET?
 
  A5: Anda bisa mendapatkan lisensi sementara dari situs Aspose di[Link ini](https://purchase.aspose.com/temporary-license/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

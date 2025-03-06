@@ -3,10 +3,16 @@ title: Měření textu v obrázcích pomocí Aspose.Imaging pro .NET
 linktitle: Měření textu v Aspose.Imaging pro .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Změřte text v obrázcích pomocí Aspose.Imaging pro .NET. Výkonná knihovna .NET. Přesné a efektivní měření textu.
-type: docs
 weight: 10
 url: /cs/net/text-and-measurements/measure-text/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Měření textu v obrázcích pomocí Aspose.Imaging pro .NET
+
 Pokud jste vývojář .NET, který se snaží přesně manipulovat s obrázky a měřit text, Aspose.Imaging for .NET je výkonné řešení. V tomto podrobném průvodci prozkoumáme, jak měřit text pomocí Aspose.Imaging, počínaje nezbytnými předpoklady a vyvrcholit praktickým příkladem. Pojďme se rovnou ponořit!
 
 ## Předpoklady
@@ -95,3 +101,9 @@ Dále vytvoříte objekt Graphics, který je nezbytný pro měření textu.
 ### Q5: Jak stáhnu Aspose.Imaging pro .NET?
 
  A5: Můžete si stáhnout Aspose.Imaging pro .NET z[stránka ke stažení](https://releases.aspose.com/imaging/net/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

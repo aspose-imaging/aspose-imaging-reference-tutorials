@@ -3,10 +3,16 @@ title: DICOM-afbeeldingen in grijstinten met Aspose.Imaging voor .NET
 linktitle: Grijswaarden op DICOM in Aspose.Imaging voor .NET
 second_title: Aspose.Imaging .NET-API voor beeldverwerking
 description: Leer hoe u grijsschalen op DICOM-afbeeldingen kunt uitvoeren met Aspose.Imaging voor .NET, een krachtige beeldverwerkingsbibliotheek.
-type: docs
 weight: 24
 url: /nl/net/dicom-image-processing/grayscale-on-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# DICOM-afbeeldingen in grijstinten met Aspose.Imaging voor .NET
+
 Als u werkt met medische beeldgegevens in DICOM-indeling en grijswaardentransformaties moet uitvoeren, biedt Aspose.Imaging voor .NET een krachtige oplossing. In deze stapsgewijze zelfstudie leiden we u door het proces van het grijsschalen van een DICOM-afbeelding met Aspose.Imaging. Deze bibliotheek is een veelzijdige tool waarmee u met verschillende beeldformaten, waaronder DICOM, kunt werken in een .NET-omgeving. Laten we beginnen!
 
 ## Vereisten
@@ -85,3 +91,9 @@ A2: Ja, Aspose.Imaging is een veelzijdige bibliotheek die een breed scala aan be
 ### Vraag 5: Hoe kan ik ondersteuning krijgen voor Aspose.Imaging?
 
  A5: Als u vragen heeft of hulp nodig heeft, kunt u terecht bij de[Aspose.Imaging-forum](https://forum.aspose.com/) om hulp te zoeken bij de gemeenschap of contact op te nemen met hun ondersteuningsteam.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

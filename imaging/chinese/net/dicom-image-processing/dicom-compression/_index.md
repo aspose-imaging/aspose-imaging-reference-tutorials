@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET 中的 DICOM 压缩
 linktitle: Aspose.Imaging for .NET 中的 DICOM 压缩
 second_title: Aspose.Imaging .NET 图像处理 API
 description: 了解如何使用 Aspose.Imaging for .NET 执行 DICOM 压缩。按照此分步指南有效存储和传输具有高诊断质量的医学图像。
-type: docs
 weight: 17
 url: /zh/net/dicom-image-processing/dicom-compression/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET 中的 DICOM 压缩
+
 在医学成像领域，DICOM（医学数字成像和通信）标准对于存储和共享医学图像至关重要。 Aspose.Imaging for .NET 是一个功能强大的 .NET 库，为处理 DICOM 图像提供全面的支持。本教程将指导您完成使用 Aspose.Imaging for .NET 进行 DICOM 压缩的过程。我们将分解每个步骤并详细解释该过程。
 
 ## 先决条件
@@ -151,3 +157,9 @@ A3：是的，Aspose.Imaging for .NET 提供了广泛的图像处理功能，可
 ### Q5：Aspose.Imaging for .NET 有试用版可供测试吗？
 
  A5：是的，您可以获得[免费试用许可证](https://releases.aspose.com/)在购买之前测试 Aspose.Imaging for .NET。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

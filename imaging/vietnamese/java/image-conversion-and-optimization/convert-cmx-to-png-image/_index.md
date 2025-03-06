@@ -3,10 +3,16 @@ title: Chuyển đổi CMX sang PNG bằng Aspose.Imaging cho Java
 linktitle: Chuyển đổi hình ảnh CMX sang PNG
 second_title: Aspose.Imaging API xử lý hình ảnh Java
 description: Tìm hiểu cách chuyển đổi hình ảnh CMX sang PNG bằng Aspose.Imaging cho Java. Hãy làm theo hướng dẫn từng bước của chúng tôi để chuyển đổi hình ảnh liền mạch.
-type: docs
 weight: 10
 url: /vi/java/image-conversion-and-optimization/convert-cmx-to-png-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Chuyển đổi CMX sang PNG bằng Aspose.Imaging cho Java
+
 Bạn đang muốn chuyển đổi tệp CMX sang hình ảnh PNG bằng Java? Aspose.Imaging for Java là một công cụ mạnh mẽ và linh hoạt có thể giúp bạn đạt được điều này một cách dễ dàng. Trong hướng dẫn từng bước này, chúng tôi sẽ hướng dẫn bạn quy trình chuyển đổi tệp CMX thành hình ảnh PNG bằng Aspose.Imaging for Java.
 
 ## Điều kiện tiên quyết
@@ -108,3 +114,9 @@ Câu trả lời 4: Bạn có thể nhận được giấy phép tạm thời ch
 ### Câu hỏi 5: Một số trường hợp sử dụng phổ biến để chuyển đổi hình ảnh CMX sang PNG là gì?
 
 Câu trả lời 5: Các trường hợp sử dụng phổ biến bao gồm tạo đồ họa web, chuẩn bị hình ảnh để in và chuyển đổi đồ họa vector để sử dụng trong nhiều ứng dụng khác nhau.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

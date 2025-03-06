@@ -3,10 +3,16 @@ title: Diagonální obrazový vodoznak s Aspose.Imaging pro Java
 linktitle: Diagonální obrázek vodoznak
 second_title: Aspose.Imaging Java Image Processing API
 description: Vylepšete své obrázky pomocí diagonálního vodoznaku pomocí Aspose.Imaging pro Java. Postupujte podle tohoto podrobného průvodce a bez námahy vytvořte úžasné obrázky s vodoznakem.
-type: docs
 weight: 14
 url: /cs/java/image-processing-and-enhancement/diagonal-image-watermarking/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Diagonální obrazový vodoznak s Aspose.Imaging pro Java
+
 
 Pokud chcete vylepšit své obrázky stylovým diagonálním vodoznakem, Aspose.Imaging pro Java vám pomůže. V tomto podrobném průvodci vás provedeme procesem přidání textového vodoznaku otočeného o 45 stupňů do existujícího obrázku JPG. Abyste mohli pokračovat, nemusíte být odborníkem na Javu nebo zpracování obrázků – každý příklad rozdělíme do několika kroků, abyste mohli snadno dosáhnout profesionálních výsledků.
 
@@ -141,3 +147,9 @@ Odpověď 3: Ano, Aspose.Imaging for Java podporuje širokou škálu obrazových
 ### Q5: Kde najdu nápovědu nebo podporu pro Aspose.Imaging for Java?
 
  Odpověď 5: Pokud máte nějaké dotazy nebo potřebujete pomoc, navštivte fórum podpory Aspose.Imaging for Java[tady](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

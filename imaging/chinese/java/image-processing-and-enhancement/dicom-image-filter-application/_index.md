@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for Java 进行 DICOM 图像过滤
 linktitle: DICOM 图像过滤器应用程序
 second_title: Aspose.Imaging Java 图像处理 API
 description: 了解如何使用 Aspose.Imaging for Java 将滤镜应用到 DICOM 图像。轻松增强医学成像。
-type: docs
 weight: 26
 url: /zh/java/image-processing-and-enhancement/dicom-image-filter-application/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for Java 进行 DICOM 图像过滤
+
 随着医学成像领域的进步，处理 DICOM（医学数字成像和通信）图像的能力变得越来越重要。 DICOM 图像含有丰富的医学信息，但有时，它们需要增强和过滤器来提高其质量或提取特定特征。在本综合指南中，我们将引导您完成使用 Aspose.Imaging for Java 将滤镜应用到 DICOM 图像的过程。这个强大的库提供了广泛的图像处理和操作功能，使其成为医疗保健专业人员、研究人员和开发人员的宝贵工具。
 
 ## 先决条件
@@ -109,3 +115,9 @@ A4：是的，Aspose.Imaging for Java 提供了广泛的图像处理过滤器和
 ### Q5：在哪里可以获得 Aspose.Imaging for Java 的支持？
 
  A5：您可以访问Aspose.Imaging社区论坛[这里](https://forum.aspose.com/)提出问题、寻求帮助并与社区互动。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Penyimpanan Bingkai dalam Format Raster Berbeda
 linktitle: Penyimpanan Bingkai dalam Format Raster Berbeda
 second_title: Aspose.Imaging API Pemrosesan Gambar Java
 description: Pelajari cara menyimpan bingkai dari gambar TIFF dalam berbagai format raster menggunakan Aspose.Imaging untuk Java. Tingkatkan manipulasi gambar di aplikasi Java Anda.
-type: docs
 weight: 18
 url: /id/java/document-conversion-and-processing/frame-saving-in-different-raster-formats/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Penyimpanan Bingkai dalam Format Raster Berbeda
+
 Dalam dunia pengembangan perangkat lunak yang dinamis, penting untuk memiliki alat dan perpustakaan yang memungkinkan Anda bekerja dengan berbagai format file dengan mudah. Aspose.Imaging for Java adalah salah satu perpustakaan serbaguna yang memberdayakan pengembang untuk memanipulasi, mengonversi, dan menyimpan gambar dalam format raster berbeda dengan mudah. Dalam tutorial langkah demi langkah ini, kita akan mempelajari cara menggunakan Aspose.Imaging untuk Java untuk menyimpan bingkai dari gambar TIFF dalam berbagai format raster.
 
 ## Prasyarat
@@ -83,3 +89,9 @@ A2: Ya, Aspose.Imaging for Java menawarkan serangkaian fitur lengkap untuk manip
 ### Q5: Di mana saya dapat mencari dukungan atau mendapatkan bantuan dengan Aspose.Imaging untuk Java?
 
  A5: Untuk pertanyaan, masalah, atau bantuan apa pun terkait Aspose.Imaging for Java, Anda dapat mengunjungi[Asumsikan forum Pencitraan](https://forum.aspose.com/). Komunitas dan tim dukungan siap membantu Anda.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

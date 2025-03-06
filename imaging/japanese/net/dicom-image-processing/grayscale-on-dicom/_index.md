@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET を使用したグレースケール DICOM イメ
 linktitle: Aspose.Imaging for .NET の DICOM のグレースケール
 second_title: Aspose.Imaging .NET 画像処理 API
 description: 強力な画像処理ライブラリである Aspose.Imaging for .NET を使用して DICOM 画像にグレースケールを実行する方法を学びます。
-type: docs
 weight: 24
 url: /ja/net/dicom-image-processing/grayscale-on-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET を使用したグレースケール DICOM イメージ
+
 DICOM 形式の医療画像データを処理していて、グレースケール変換を実行する必要がある場合、Aspose.Imaging for .NET は強力なソリューションを提供します。このステップバイステップのチュートリアルでは、Aspose.Imaging を使用して DICOM 画像をグレースケールするプロセスを説明します。このライブラリは、.NET 環境で DICOM を含むさまざまな画像形式を操作できる多機能ツールです。始めましょう！
 
 ## 前提条件
@@ -85,3 +91,9 @@ A2: はい、Aspose.Imaging は、医療画像以外のさまざまなアプリ�
 ### Q5: Aspose.Imaging のサポートを受けるにはどうすればよいですか?
 
  A5: ご質問がある場合、またはサポートが必要な場合は、次のサイトにアクセスしてください。[Aspose.Imaging フォーラム](https://forum.aspose.com/)コミュニティに助けを求めるか、サポート チームに連絡してください。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

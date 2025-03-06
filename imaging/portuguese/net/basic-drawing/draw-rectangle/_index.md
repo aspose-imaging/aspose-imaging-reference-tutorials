@@ -3,10 +3,16 @@ title: Desenhando retângulos em Aspose.Imaging for .NET
 linktitle: Desenhe retângulo em Aspose.Imaging para .NET
 second_title: API de processamento de imagem Aspose.Imaging .NET
 description: Aprenda a desenhar retângulos no Aspose.Imaging for .NET - uma ferramenta versátil para manipulação de imagens em seus aplicativos .NET.
-type: docs
 weight: 14
 url: /pt/net/basic-drawing/draw-rectangle/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Desenhando retângulos em Aspose.Imaging for .NET
+
 Criar e manipular imagens em aplicativos .NET pode ser uma tarefa complexa, mas com o poder do Aspose.Imaging for .NET, torna-se extremamente simples. Neste guia passo a passo, orientaremos você no processo de desenho de retângulos usando Aspose.Imaging for .NET. Você aprenderá como criar uma imagem, definir suas propriedades, desenhar retângulos e salvar seu trabalho. Vamos mergulhar!
 
 ## Pré-requisitos
@@ -104,3 +110,9 @@ R4: Sim, o Aspose.Imaging for .NET oferece uma ampla gama de recursos avançados
 ### P5: Onde posso encontrar mais recursos e suporte para Aspose.Imaging for .NET?
 
  A5: Você pode acessar a documentação[aqui](https://reference.aspose.com/imaging/net/) e busque apoio no[Fórum Aspose.Imaging](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

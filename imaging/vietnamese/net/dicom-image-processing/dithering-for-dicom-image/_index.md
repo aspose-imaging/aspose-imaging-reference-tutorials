@@ -3,10 +3,16 @@ title: Phối màu hình ảnh DICOM được thực hiện dễ dàng với Asp
 linktitle: Phối màu cho hình ảnh DICOM trong Aspose.Imaging for .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Tìm hiểu cách thực hiện phối màu ngưỡng trên hình ảnh DICOM bằng Aspose.Imaging for .NET. Nâng cao chất lượng hình ảnh và giảm bảng màu một cách dễ dàng.
-type: docs
 weight: 22
 url: /vi/net/dicom-image-processing/dithering-for-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Phối màu hình ảnh DICOM được thực hiện dễ dàng với Aspose.Imaging cho .NET
+
 Phối màu là một kỹ thuật xử lý hình ảnh cơ bản được sử dụng để giảm số lượng màu trong hình ảnh trong khi vẫn giữ được chất lượng hình ảnh. Trong hướng dẫn từng bước này, chúng ta sẽ khám phá cách thực hiện phối màu trên hình ảnh DICOM bằng Aspose.Imaging cho .NET. Thư viện mạnh mẽ này cung cấp nhiều tính năng để thao tác và xử lý hình ảnh, khiến nó trở thành lựa chọn tuyệt vời cho các nhà phát triển làm việc với hình ảnh y tế. 
 
 ## Điều kiện tiên quyết
@@ -92,3 +98,9 @@ Câu trả lời 4: Một số lựa chọn thay thế cho Aspose.Imaging cho .N
 ### Câu hỏi 5: Làm cách nào tôi có thể nhận được hỗ trợ cho Aspose.Imaging cho .NET?
 
  Câu trả lời 5: Bạn có thể tìm trợ giúp và hỗ trợ trên[Diễn đàn Aspose.Imaging](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

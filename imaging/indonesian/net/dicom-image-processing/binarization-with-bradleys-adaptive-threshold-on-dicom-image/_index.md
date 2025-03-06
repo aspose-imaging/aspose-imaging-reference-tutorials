@@ -3,10 +3,16 @@ title: Binarisasi dengan Ambang Adaptif Bradley pada Gambar DICOM di Aspose.Imag
 linktitle: Binarisasi dengan Ambang Adaptif Bradley pada Gambar DICOM di Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Pelajari cara menerapkan Ambang Adaptif Bradley ke gambar DICOM menggunakan Aspose.Imaging untuk .NET. Binarisasi menjadi mudah dengan panduan langkah demi langkah.
-type: docs
 weight: 14
 url: /id/net/dicom-image-processing/binarization-with-bradleys-adaptive-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binarisasi dengan Ambang Adaptif Bradley pada Gambar DICOM di Aspose.Imaging untuk .NET
+
 Apakah Anda ingin menerapkan Ambang Adaptif Bradley ke gambar DICOM menggunakan Aspose.Imaging untuk .NET? Dalam tutorial komprehensif ini, kami akan memandu Anda melalui proses langkah demi langkah. Di akhir panduan ini, Anda akan dapat melakukan binarisasi pada gambar DICOM secara efisien. Kami akan membahas semuanya mulai dari prasyarat hingga mengimpor namespace dan membagi setiap contoh menjadi beberapa langkah.
 
 ## Prasyarat
@@ -97,3 +103,9 @@ A2: Ya, Anda dapat mengulang beberapa gambar DICOM dan menerapkan proses binaris
 ### Q5: Bagaimana saya bisa mendapatkan dukungan untuk Aspose.Imaging untuk .NET?
 
  A5: Anda dapat bergabung dengan komunitas Aspose dan mendapatkan dukungan dari sesama pengembang di[Asumsikan Forum](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

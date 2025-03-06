@@ -3,10 +3,16 @@ title: Redimensione imagens SVG com Aspose.Imaging para Java
 linktitle: Redimensionar imagens SVG
 second_title: API de processamento de imagem Java Aspose.Imaging
 description: Aprenda como redimensionar imagens SVG em Java usando Aspose.Imaging for Java. Guia passo a passo para processamento eficiente de imagens.
-type: docs
 weight: 12
 url: /pt/java/image-processing-and-enhancement/resize-svg-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Redimensione imagens SVG com Aspose.Imaging para Java
+
 Você deseja redimensionar imagens SVG de maneira eficiente e eficaz usando Java? Aspose.Imaging for Java oferece uma solução poderosa para ajudá-lo a conseguir isso. Neste guia completo, orientaremos você durante o processo, passo a passo, começando pelos pré-requisitos, importando pacotes e dividindo cada exemplo em etapas detalhadas.
 
 ## Pré-requisitos
@@ -113,3 +119,9 @@ A4: Sim, Aspose.Imaging oferece uma ampla gama de recursos, incluindo corte de i
 ### Q5: Posso usar o Aspose.Imaging em projetos comerciais?
 
 A5: Sim, Aspose.Imaging pode ser usado em projetos comerciais. Você pode encontrar informações de licenciamento no site da Aspose.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

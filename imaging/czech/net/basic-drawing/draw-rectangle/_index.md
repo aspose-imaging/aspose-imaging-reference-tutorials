@@ -3,10 +3,16 @@ title: Kreslení obdélníků v Aspose.Imaging pro .NET
 linktitle: Draw Rectangle v Aspose.Imaging pro .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Naučte se kreslit obdélníky v Aspose.Imaging pro .NET – všestranný nástroj pro manipulaci s obrázky ve vašich aplikacích .NET.
-type: docs
 weight: 14
 url: /cs/net/basic-drawing/draw-rectangle/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Kreslení obdélníků v Aspose.Imaging pro .NET
+
 Vytváření a manipulace s obrázky v aplikacích .NET může být složitý úkol, ale se silou Aspose.Imaging pro .NET se stává pozoruhodně jednoduchým. V tomto podrobném průvodci vás provedeme procesem kreslení obdélníků pomocí Aspose.Imaging for .NET. Dozvíte se, jak vytvořit obrázek, nastavit jeho vlastnosti, nakreslit obdélníky a uložit svou práci. Pojďme se ponořit!
 
 ## Předpoklady
@@ -104,3 +110,9 @@ Odpověď 4: Ano, Aspose.Imaging for .NET nabízí širokou škálu pokročilýc
 ### Q5: Kde najdu další zdroje a podporu pro Aspose.Imaging pro .NET?
 
  A5: Máte přístup k dokumentaci[tady](https://reference.aspose.com/imaging/net/) a hledat podporu na[Fórum Aspose.Imaging](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

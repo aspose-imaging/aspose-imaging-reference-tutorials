@@ -3,10 +3,16 @@ title: Állítsa be a DICOM kép fényerejét az Aspose.Imaging for .NET segíts
 linktitle: Állítsa be a DICOM kép fényerejét az Aspose.Imaging for .NET programban
 second_title: Aspose.Imaging .NET Image Processing API
 description: Ismerje meg, hogyan állíthatja be a DICOM-kép fényerejét az Aspose.Imaging for .NET alkalmazásban. Egyszerűen javíthatja az orvosi képeket.
-type: docs
 weight: 10
 url: /hu/net/dicom-image-processing/adjust-brightness-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Állítsa be a DICOM kép fényerejét az Aspose.Imaging for .NET segítségével
+
 Az orvosi képalkotás világában a DICOM (Digital Imaging and Communications in Medicine) fájlok kezelése rendkívül fontos. Ezek a fájlok létfontosságú egészségügyi adatokat tartalmaznak, és néha módosítani kell a bennük lévő képeket, például módosítani kell a fényerőt. Ebben a lépésenkénti útmutatóban bemutatjuk, hogyan állíthatja be a DICOM-képek fényerejét az Aspose.Imaging for .NET segítségével.
 
 ## Előfeltételek
@@ -95,3 +101,9 @@ Ahogy felfedezi az Aspose.Imaging képességeit, azt fogja találni, hogy érté
 ### 5. kérdés: Milyen egyéb képkezelési funkciókat kínál az Aspose.Imaging?
 
 A5: Az Aspose.Imaging funkciók széles skáláját kínálja a képkezeléshez, beleértve az átméretezést, a vágást, az elforgatást és a különféle szűrési lehetőségeket, így átfogó megoldást jelent az orvosi képekkel való munkavégzéshez.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

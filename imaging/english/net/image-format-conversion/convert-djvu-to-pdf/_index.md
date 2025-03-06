@@ -3,10 +3,16 @@ title: Converting DJVU to PDF with Aspose.Imaging for .NET
 linktitle: Convert DJVU to PDF in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to convert DJVU to PDF with Aspose.Imaging for .NET. Follow our step-by-step guide for seamless conversions.
-type: docs
 weight: 16
 url: /net/image-format-conversion/convert-djvu-to-pdf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Converting DJVU to PDF with Aspose.Imaging for .NET
+
 In today's digital age, converting file formats has become a common need for many professionals and individuals. Aspose.Imaging for .NET provides a powerful toolset to help you work with various image formats. In this tutorial, we will guide you through the process of converting DJVU files to PDF using Aspose.Imaging for .NET. By the end of this guide, you'll be equipped with the knowledge and steps to perform this conversion effortlessly.
 
 ## Prerequisites
@@ -101,3 +107,10 @@ A4: Yes, you can explore a free trial version of Aspose.Imaging for .NET [here](
 ### Q5: Where can I get support for Aspose.Imaging for .NET?
 
 A5: For any support or queries, you can visit the [Aspose.Imaging forum](https://forum.aspose.com/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

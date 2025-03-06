@@ -3,10 +3,16 @@ title: Szövegmérés képekben az Aspose.Imaging for .NET segítségével
 linktitle: Szöveg mérése az Aspose.Imaging for .NET-ben
 second_title: Aspose.Imaging .NET Image Processing API
 description: Mérje meg a képek szövegét az Aspose.Imaging for .NET segítségével. Erőteljes .NET könyvtár. Pontos és hatékony szövegmérés.
-type: docs
 weight: 10
 url: /hu/net/text-and-measurements/measure-text/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Szövegmérés képekben az Aspose.Imaging for .NET segítségével
+
 Ha Ön .NET-fejlesztő, aki képeket szeretne manipulálni és szöveget precízen mérni, az Aspose.Imaging for .NET hatékony megoldás. Ebben a lépésenkénti útmutatóban megvizsgáljuk, hogyan lehet szöveget mérni az Aspose.Imaging segítségével, kezdve az előfeltételekkel, és egy gyakorlati példával zárva. Egyből merüljünk bele!
 
 ## Előfeltételek
@@ -95,3 +101,9 @@ Ezután létrehoz egy Graphics objektumot, amely elengedhetetlen a szövegméré
 ### 5. kérdés: Hogyan tölthetem le az Aspose.Imaging for .NET programot?
 
  5. válasz: Az Aspose.Imaging for .NET letölthető a webhelyről[letöltési oldal](https://releases.aspose.com/imaging/net/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

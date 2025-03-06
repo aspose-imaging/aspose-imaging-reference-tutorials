@@ -3,10 +3,16 @@ title: Binarisierung mit Bradleys adaptivem Schwellenwert für DICOM-Bilder in A
 linktitle: Binarisierung mit Bradleys adaptivem Schwellenwert für DICOM-Bilder in Aspose.Imaging für .NET
 second_title: Aspose.Imaging .NET-Bildverarbeitungs-API
 description: Erfahren Sie, wie Sie Bradleys adaptiven Schwellenwert mit Aspose.Imaging für .NET auf DICOM-Bilder anwenden. Binarisierung leicht gemacht mit Schritt-für-Schritt-Anleitung.
-type: docs
 weight: 14
 url: /de/net/dicom-image-processing/binarization-with-bradleys-adaptive-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binarisierung mit Bradleys adaptivem Schwellenwert für DICOM-Bilder in Aspose.Imaging für .NET
+
 Möchten Sie Bradleys adaptiven Schwellenwert mit Aspose.Imaging für .NET auf ein DICOM-Bild anwenden? In diesem umfassenden Tutorial führen wir Sie Schritt für Schritt durch den Prozess. Am Ende dieses Leitfadens werden Sie in der Lage sein, die Binarisierung von DICOM-Bildern effizient durchzuführen. Wir behandeln alles von den Voraussetzungen bis zum Importieren von Namespaces und unterteilen jedes Beispiel in mehrere Schritte.
 
 ## Voraussetzungen
@@ -97,3 +103,9 @@ A2: Ja, Sie können mehrere DICOM-Bilder durchlaufen und den Binarisierungsproze
 ### F5: Wie erhalte ich Unterstützung für Aspose.Imaging für .NET?
 
  A5: Sie können der Aspose-Community beitreten und Unterstützung von anderen Entwicklern erhalten[Aspose-Forum](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

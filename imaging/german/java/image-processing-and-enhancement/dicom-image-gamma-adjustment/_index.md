@@ -3,10 +3,16 @@ title: DICOM-Bild-Gamma-Anpassung mit Aspose.Imaging für Java
 linktitle: DICOM-Bild-Gamma-Anpassung
 second_title: Aspose.Imaging Java-Bildverarbeitungs-API
 description: Erfahren Sie, wie Sie das Gamma von DICOM-Bildern in Java mit Aspose.Imaging für Java anpassen. Verbessern Sie die Qualität medizinischer Bilder mit einfachen Schritten.
-type: docs
 weight: 24
 url: /de/java/image-processing-and-enhancement/dicom-image-gamma-adjustment/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# DICOM-Bild-Gamma-Anpassung mit Aspose.Imaging für Java
+
 Möchten Sie die Qualität von DICOM-Bildern in Ihren Java-Anwendungen verbessern? Aspose.Imaging für Java ist eine leistungsstarke und vielseitige Bibliothek, mit der Sie Bilder, einschließlich des DICOM-Formats, bearbeiten und verarbeiten können. In dieser Schritt-für-Schritt-Anleitung führen wir Sie durch den Prozess der Anpassung des Gammas eines DICOM-Bildes mit Aspose.Imaging für Java. 
 
 ## Voraussetzungen
@@ -112,3 +118,9 @@ A4: Einige DICOM-Bilder können komplexe Strukturen und Metadaten aufweisen. Ste
 ### F5: Wo finde ich weitere Aspose.Imaging-Tutorials und Ressourcen?
 
  A5: Sie können das erkunden[Aspose.Imaging-Dokumentation](https://reference.aspose.com/imaging/java/) Ausführliche Anleitungen, Beispiele und API-Referenzen finden Sie hier.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

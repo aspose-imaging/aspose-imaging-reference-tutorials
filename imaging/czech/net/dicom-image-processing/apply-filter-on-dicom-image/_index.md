@@ -3,10 +3,16 @@ title: Použití filtrů na obrazy DICOM pomocí Aspose.Imaging pro .NET
 linktitle: Použít filtr na obraz DICOM v Aspose.Imaging pro .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Naučte se používat filtry na obrazy DICOM pomocí Aspose.Imaging for .NET. Snadno vylepšete zpracování lékařského obrazu.
-type: docs
 weight: 13
 url: /cs/net/dicom-image-processing/apply-filter-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Použití filtrů na obrazy DICOM pomocí Aspose.Imaging pro .NET
+
 Pokud chcete zlepšit své dovednosti ve zpracování obrazu pomocí Aspose.Imaging pro .NET, jste na správném místě. V tomto tutoriálu krok za krokem vás provedeme procesem aplikace filtrů na obrazy DICOM. Tato výkonná knihovna vám umožňuje snadno manipulovat a zpracovávat různé obrazové formáty, včetně DICOM. Rozdělíme proces do zvládnutelných kroků a zajistíme, že každý koncept důkladně pochopíte. Pojďme se ponořit!
 
 ## Předpoklady
@@ -90,3 +96,9 @@ Odpověď 3: Ano, Aspose.Imaging poskytuje řadu filtrů, jako je Gaussian, Shar
 ### Q5: Jak mohu získat dočasnou licenci pro Aspose.Imaging?
 
  A5: Můžete získat dočasnou licenci od[tady](https://purchase.aspose.com/temporary-license/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

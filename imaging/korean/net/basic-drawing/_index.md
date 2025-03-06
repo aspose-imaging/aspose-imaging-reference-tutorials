@@ -3,10 +3,16 @@ title: .NET용 Aspose.Imaging을 사용한 기본 드로잉
 linktitle: 기본도면
 second_title: Aspose.Imaging .NET 이미지 처리 API
 description: .NET용 Aspose.Imaging을 사용하여 드로잉 기술을 만나보세요. 호, 베지어 곡선, 타원, 선, 직사각형에 대한 단계별 안내를 통해 놀라운 시각적 효과를 만들어 보세요.
-type: docs
 weight: 22
 url: /ko/net/basic-drawing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET용 Aspose.Imaging을 사용한 기본 드로잉
+
 
 디지털 그래픽의 아름다움에 감탄하고 그래픽을 만드는 방법이 궁금하다면 잘 찾아오셨습니다. .NET용 Aspose.Imaging은 가능성의 세계를 열어 그림을 통해 창의력을 발휘할 수 있게 해줍니다. 이 기사에서는 강력한 이미지 조작 도구인 Aspose.Imaging for .NET을 사용하는 기본 드로잉 튜토리얼을 안내합니다. 노련한 개발자이거나 .NET 그래픽의 세계에 발을 담그고 있는 경우에도 이 단계별 가이드를 통해 프로세스를 쉽고 즐겁게 만들 수 있습니다.
 
@@ -52,3 +58,9 @@ url: /ko/net/basic-drawing/
 .NET용 Aspose.Imaging에서 정확한 선을 그리는 방법을 알아보세요. 이 단계별 가이드에서는 이미지 생성, 선 그리기 등을 다룹니다.
 ### [.NET용 Aspose.Imaging에서 직사각형 그리기](./draw-rectangle/)
 .NET 애플리케이션에서 이미지 조작을 위한 다목적 도구인 Aspose.Imaging for .NET에서 직사각형을 그리는 방법을 알아보세요.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

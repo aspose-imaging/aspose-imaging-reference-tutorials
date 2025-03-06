@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for Java 的图像校正过滤器应用程序
 linktitle: 图像校正滤波器应用
 second_title: Aspose.Imaging Java 图像处理 API
 description: 使用 Aspose.Imaging for Java 增强图像。应用校正滤镜和优化图像质量的分步指南。
-type: docs
 weight: 16
 url: /zh/java/image-processing-and-enhancement/image-correction-filter-application/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for Java 的图像校正过滤器应用程序
+
 在数字图像领域，图像校正和增强的需求始终存在。无论您是专业摄影师、平面设计师还是喜欢调整照片的人，拥有合适的工具都至关重要。 Aspose.Imaging for Java 是一个功能强大的库，可以帮助您实现这一目标。在本分步指南中，我们将引导您完成使用 Aspose.Imaging for Java 将图像校正滤镜应用到图像的过程。
 
 ## 先决条件
@@ -129,3 +135,9 @@ A4：图像校正通常用于摄影、平面设计和医学成像，以增强和
 ### Q5：我可以将 Aspose.Imaging for Java 与其他 Java 库或框架一起使用吗？
 
 A5：是的，Aspose.Imaging for Java 可以与其他 Java 库和框架集成，以扩展其功能和能力。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

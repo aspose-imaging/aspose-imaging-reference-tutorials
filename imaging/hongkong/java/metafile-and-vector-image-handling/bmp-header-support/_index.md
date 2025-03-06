@@ -3,10 +3,16 @@ title: Aspose.Imaging for Java 的 BMP 標頭支持
 linktitle: BMP 標頭支持
 second_title: Aspose.Imaging Java 圖像處理 API
 description: 了解如何輕鬆使用 Aspose.Imaging for Java 轉 BMP 標頭。逐步導入包、載入圖像並以不同格式儲存。
-type: docs
 weight: 11
 url: /zh-hant/java/metafile-and-vector-image-handling/bmp-header-support/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for Java 的 BMP 標頭支持
+
 ## 介紹
 
 Aspose.Imaging for Java 是一個功能強大的 Java 函式庫，提供了廣泛的功能來處理各種影像格式，包括 BMP、PNG、JPEG 等。在本逐步指南中，我們將探索如何使用 Aspose.Imaging for Java 對 BMP 影像執行基本操作。我們將介紹先決條件、導入包，並將每個範例分解為多個步驟，以確保清楚地理解該過程。
@@ -99,3 +105,9 @@ A4：Aspose.Imaging支援多種影像格式，包括JPEG、TIFF、GIF等。檢�
 ### Q5：如何取得 Aspose.Imaging 的臨時許可證？
 
  A5：您可以從以下位置取得用於測試和開發目的的臨時許可證：[這裡](https://purchase.aspose.com/temporary-license/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

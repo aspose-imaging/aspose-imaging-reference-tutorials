@@ -3,10 +3,16 @@ title: Aspose.Imaging for Java を使用した斜め画像の透かし入れ
 linktitle: 斜め画像の透かし入れ
 second_title: Aspose.Imaging Java 画像処理 API
 description: Aspose.Imaging for Java を使用して、斜めの透かしで画像を強化します。このステップバイステップのガイドに従って、透かし入りの美しい画像を簡単に作成してください。
-type: docs
 weight: 14
 url: /ja/java/image-processing-and-enhancement/diagonal-image-watermarking/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for Java を使用した斜め画像の透かし入れ
+
 
 スタイリッシュな斜めの透かしを使用して画像を強化したい場合は、Aspose.Imaging for Java が役に立ちます。このステップバイステップのガイドでは、既存の JPG 画像に 45 度回転したテキストの透かしを追加するプロセスを説明します。理解するために Java や画像処理の専門家である必要はありません。プロフェッショナルな結果を簡単に達成できるように、各例を複数のステップに分けて説明します。
 
@@ -141,3 +147,9 @@ A3: はい、Aspose.Imaging for Java は、BMP、PNG、GIF などを含む幅広
 ### Q5: Aspose.Imaging for Java のヘルプやサポートはどこで見つけられますか?
 
  A5: 質問がある場合、またはサポートが必要な場合は、Aspose.Imaging for Java サポート フォーラムにアクセスしてください。[ここ](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

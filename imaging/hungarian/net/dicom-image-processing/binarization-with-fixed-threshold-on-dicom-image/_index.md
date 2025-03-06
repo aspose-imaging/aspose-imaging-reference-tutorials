@@ -3,10 +3,16 @@ title: Binarizálás fix küszöbértékkel a DICOM-képen az Aspose.Imaging for
 linktitle: Binarizálás fix küszöbértékkel a DICOM-képen az Aspose.Imaging for .NET-ben
 second_title: Aspose.Imaging .NET Image Processing API
 description: Ismerje meg, hogyan hajthat végre binarizálást egy DICOM-képen az Aspose.Imaging for .NET segítségével. Útmutató lépésről lépésre kódpéldákkal.
-type: docs
 weight: 15
 url: /hu/net/dicom-image-processing/binarization-with-fixed-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binarizálás fix küszöbértékkel a DICOM-képen az Aspose.Imaging for .NET-ben
+
 Készen áll arra, hogy belemerüljön a digitális képfeldolgozás világába az Aspose.Imaging for .NET használatával? Ebben a lépésről lépésre bemutatott oktatóanyagban megvizsgáljuk, hogyan lehet binarizálást végrehajtani rögzített küszöbértékkel egy DICOM-képen. A binarizálás egy alapvető képfeldolgozási technika, amely a szürkeárnyalatos képet bináris képpé alakítja, így számos alkalmazás nélkülözhetetlen eszközévé válik, az orvosi képalkotástól a dokumentumelemzésig.
 
 ## Előfeltételek
@@ -106,3 +112,10 @@ Teljesen! Míg az Aspose.Imaging-ot általánosan használják az orvostudomány
 ### 5. kérdés: Elérhető az Aspose.Imaging próbaverziója .NET-hez?
 
  Igen, kipróbálhatja az Aspose.Imaging for .NET alkalmazást, ha letölti a próbaverziót a webhelyről[itt](https://releases.aspose.com/). Lehetővé teszi, hogy vásárlás előtt felfedezze szolgáltatásait és funkcióit.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

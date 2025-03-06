@@ -3,10 +3,16 @@ title: .NET के लिए Aspose.Imaging के साथ DICOM छवि क
 linktitle: .NET के लिए Aspose.Imaging में DICOM छवि का कंट्रास्ट समायोजित करें
 second_title: Aspose.Imaging .NET इमेज प्रोसेसिंग एपीआई
 description: .NET के लिए Aspose.Imaging के साथ चिकित्सा छवियों को बेहतर बनाएं। आसान चरणों के साथ DICOM छवि कंट्रास्ट को समायोजित करें।
-type: docs
 weight: 11
 url: /hi/net/dicom-image-processing/adjust-contrast-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET के लिए Aspose.Imaging के साथ DICOM छवि कंट्रास्ट समायोजन
+
 मेडिकल इमेजिंग की दुनिया में, छवि गुणवत्ता पर सटीक नियंत्रण सर्वोपरि है। .NET के लिए Aspose.Imaging DICOM छवियों में आसानी से हेरफेर करने के लिए एक शक्तिशाली समाधान प्रदान करता है। इस चरण-दर-चरण ट्यूटोरियल में, हम आपको .NET के लिए Aspose.Imaging का उपयोग करके DICOM छवि के कंट्रास्ट को समायोजित करने की प्रक्रिया के बारे में बताएंगे। यह ट्यूटोरियल उन लोगों के लिए डिज़ाइन किया गया है जो निदान या अनुसंधान उद्देश्यों के लिए चिकित्सा छवियों की दृश्यता बढ़ाना चाहते हैं। 
 
 ## आवश्यक शर्तें
@@ -112,3 +118,9 @@ A4: हां, .NET के लिए Aspose.Imaging आकार बदलने
 ### Q5: क्या मैं गैर-चिकित्सीय छवि प्रसंस्करण के लिए .NET के लिए Aspose.Imaging का उपयोग कर सकता हूँ?
 
 ए5: बिल्कुल! जबकि Aspose.Imaging चिकित्सा छवि प्रसंस्करण के लिए बहुमुखी है, इसका उपयोग सामान्य छवि हेरफेर कार्यों के लिए भी किया जा सकता है।
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

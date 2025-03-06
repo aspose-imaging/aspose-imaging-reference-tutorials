@@ -3,10 +3,16 @@ title: DICOM Görüntülerini Aspose.Imaging for .NET ile Döndürün
 linktitle: Aspose.Imaging for .NET'te DICOM Görüntüsünü Döndürme
 second_title: Aspose.Imaging .NET Görüntü İşleme API'si
 description: Aspose.Imaging for .NET ile DICOM görüntü rotasyonunu keşfedin. Tıbbi görüntüleri değiştirmek için adım adım kılavuz.
-type: docs
 weight: 11
 url: /tr/net/image-transformation/rotate-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# DICOM Görüntülerini Aspose.Imaging for .NET ile Döndürün
+
 ## giriiş
 
 Günümüzün dijital çağında görüntü işleme, sağlık hizmetlerinden tasarıma ve ötesine kadar çeşitli endüstrilerin ayrılmaz bir parçası haline geldi. Tıbbi görüntüleri değiştirmek ve geliştirmek isteyen bir .NET geliştiricisiyseniz Aspose.Imaging for .NET, emrinizde olan güçlü bir araçtır. Bu kapsamlı kılavuzda, Aspose.Imaging for .NET kullanarak bir DICOM görüntüsünü döndürme sürecinde size yol göstereceğiz.
@@ -94,3 +100,9 @@ Cevap4: Kesinlikle! Aspose.Imaging for .NET, kullanımı kolay özellikler ve ge
 ### S5: Aspose.Imaging for .NET için lisanslama seçenekleri var mı?
 
  C5: Evet, ücretsiz deneme ve satın alma da dahil olmak üzere lisanslama seçeneklerini[Aspose.Imaging satın alma sayfası](https://purchase.aspose.com/buy) Ve[geçici lisanslar](https://purchase.aspose.com/temporary-license/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

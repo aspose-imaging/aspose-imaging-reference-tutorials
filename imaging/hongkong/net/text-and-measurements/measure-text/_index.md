@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for .NET 測量圖像中的文本
 linktitle: 在 Aspose.Imaging for .NET 中測量文本
 second_title: Aspose.Imaging .NET 映像處理 API
 description: 使用 Aspose.Imaging for .NET 測量圖像中的文字。一個強大的.NET 函式庫。精確高效率的文字測量。
-type: docs
 weight: 10
 url: /zh-hant/net/text-and-measurements/measure-text/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for .NET 測量圖像中的文本
+
 如果您是尋求精確操作圖像和測量文字的 .NET 開發人員，Aspose.Imaging for .NET 是一個強大的解決方案。在本逐步指南中，我們將探討如何使用 Aspose.Imaging 測量文本，從先決條件開始，最後以實際範例結束。讓我們開始吧！
 
 ## 先決條件
@@ -95,3 +101,9 @@ A2：是的，您可以造訪 Aspose.Imaging for .NET 免費試用版[這裡](ht
 ### Q5：如何下載 Aspose.Imaging for .NET？
 
  A5：您可以從以下位置下載 Aspose.Imaging for .NET[下載頁面](https://releases.aspose.com/imaging/net/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET Eğitiminde BMP RLE4 Sıkıştırma
 linktitle: Aspose.Imaging for .NET'te BMP RLE4
 second_title: Aspose.Imaging .NET Görüntü İşleme API'si
 description: Aspose.Imaging for .NET'te BMP RLE4 sıkıştırmasının nasıl uygulanacağını öğrenin. Kalite kaybı olmadan BMP görüntü boyutunu azaltın.
-type: docs
 weight: 15
 url: /tr/net/advanced-features/bmp-rle4/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET Eğitiminde BMP RLE4 Sıkıştırma
+
 Aspose.Imaging for .NET, geliştiricilerin BMP de dahil olmak üzere çeşitli görüntü formatlarıyla çalışmasına olanak tanıyan güçlü bir kitaplıktır. Bu eğitimde BMP RLE4 sıkıştırma tekniğini ve bunun Aspose.Imaging for .NET'te nasıl kullanılacağını inceleyeceğiz. Bu adım adım kılavuz, ortamın ayarlanmasından sıkıştırılmış BMP görüntüleri oluşturup kaydetmeye kadar BMP RLE4 sıkıştırmasıyla çalışma sürecinde size yol gösterecektir.
 
 ## Önkoşullar
@@ -112,3 +118,9 @@ C3: Evet, Aspose.Imaging for .NET hem Windows hem de .NET Core ortamlarıyla uyu
 ### S5: Aspose.Imaging for .NET için nasıl geçici lisans alabilirim?
 
  Cevap5: Aspose.Imaging for .NET için geçici bir lisansı şu adresi ziyaret ederek alabilirsiniz:[geçici lisans sayfası](https://purchase.aspose.com/temporary-license/) Aspose'un web sitesinde.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

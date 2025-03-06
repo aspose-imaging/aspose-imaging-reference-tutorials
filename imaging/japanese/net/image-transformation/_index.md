@@ -3,10 +3,16 @@ title: Aspose.Imaging .NET で画像変換の魔法を解き放つ
 linktitle: 画像変換
 second_title: Aspose.Imaging .NET 画像処理 API
 description: Aspose.Imaging for .NET を使用して画像変換の技術を発見してください。医療用途などで DICOM 画像を簡単に反転および回転する方法を学びます。
-type: docs
 weight: 24
 url: /ja/net/image-transformation/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging .NET で画像変換の魔法を解き放つ
+
 
 画像変換の世界を深く掘り下げる準備はできていますか? Aspose.Imaging for .NET は、医療アプリケーションなどに合わせて調整された DICOM 画像のシームレスかつ効率的な操作への扉を開きます。この包括的なチュートリアルでは、DICOM 画像の反転と回転という 2 つの重要な画像変換テクニックを説明します。 
 
@@ -37,3 +43,9 @@ Aspose.Imaging for .NET を使用して DICOM 画像の回転を調べます。�
 ## 結論
 
 Aspose.Imaging for .NET を使用すると、画像変換の技術を習得できるようになり、医療専門家や開発者にとって同様に貴重なツールになります。 DICOM 画像を反転または回転する必要がある場合でも、このチュートリアルは画像操作の世界へのシームレスな旅を提供します。今すぐ Aspose.Imaging for .NET を使用して医療アプリケーションと画像処理を強化しましょう。今すぐイメージ変換の魔法を解き放ちましょう!
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

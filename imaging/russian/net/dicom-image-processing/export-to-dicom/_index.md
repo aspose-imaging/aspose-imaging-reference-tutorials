@@ -3,10 +3,16 @@ title: Экспорт изображений в DICOM в Aspose.Imaging for .NET
 linktitle: Экспорт в DICOM в Aspose.Imaging for .NET
 second_title: API обработки изображений Aspose.Imaging .NET
 description: Узнайте, как экспортировать изображения в формат DICOM в .NET с помощью Aspose.Imaging. Конвертируйте медицинские изображения без особых усилий.
-type: docs
 weight: 23
 url: /ru/net/dicom-image-processing/export-to-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Экспорт изображений в DICOM в Aspose.Imaging for .NET
+
 В сфере медицинской визуализации формат цифровой обработки изображений и коммуникаций в медицине (DICOM) является бесспорным королем. Файлы DICOM хранят и управляют медицинскими изображениями и сопутствующей информацией, обеспечивая беспрепятственный обмен и интерпретацию медицинских изображений в различных системах здравоохранения. Если вы хотите работать с файлами DICOM в своем приложении .NET, вы попали по адресу. В этом уроке мы углубимся в то, как экспортировать изображения в DICOM с помощью Aspose.Imaging for .NET, мощной библиотеки, которая упрощает этот процесс. К концу этого руководства вы будете оснащены знаниями, позволяющими использовать потенциал Aspose.Imaging для .NET и легко создавать файлы DICOM.
 
 ## Предварительные условия
@@ -106,3 +112,9 @@ A4: Aspose.Imaging for .NET позволяет вам манипулироват
 ### Вопрос 5: Доступна ли пробная версия Aspose.Imaging для .NET?
 
  О5: Да, вы можете получить доступ к бесплатной пробной версии Aspose.Imaging for .NET, чтобы оценить ее возможности. Вы можете скачать пробную версию[здесь](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

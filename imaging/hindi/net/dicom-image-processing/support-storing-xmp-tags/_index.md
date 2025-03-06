@@ -3,10 +3,16 @@ title: .NET के लिए Aspose.Imaging में XMP टैग संग्
 linktitle: .NET के लिए Aspose.Imaging में XMP टैग संग्रहीत करने में सहायता
 second_title: Aspose.Imaging .NET इमेज प्रोसेसिंग एपीआई
 description: .NET के लिए Aspose.Imaging का उपयोग करके DICOM छवियों में XMP मेटाडेटा जोड़ने का तरीका जानें। इस चरण-दर-चरण मार्गदर्शिका के साथ छवि प्रबंधन और संगठन को अनुकूलित करें।
-type: docs
 weight: 25
 url: /hi/net/dicom-image-processing/support-storing-xmp-tags/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET के लिए Aspose.Imaging में XMP टैग संग्रहीत करने में सहायता
+
 .NET के लिए Aspose.Imaging एक शक्तिशाली लाइब्रेरी है जो आपको .NET वातावरण में विभिन्न छवि प्रारूपों के साथ काम करने की अनुमति देती है। इस ट्यूटोरियल में, हम यह पता लगाएंगे कि .NET के लिए Aspose.Imaging में XMP (एक्स्टेंसिबल मेटाडेटा प्लेटफ़ॉर्म) टैग को संग्रहीत करने का समर्थन कैसे करें। XMP टैग छवियों में मेटाडेटा जानकारी जोड़ने के लिए आवश्यक हैं, जिससे आपकी डिजिटल संपत्तियों को व्यवस्थित और प्रबंधित करना आसान हो जाता है। हम इस प्रक्रिया को कई चरणों में विभाजित करेंगे ताकि आपको यह समझने में मदद मिल सके कि इसे कैसे प्राप्त किया जाए।
 
 ## आवश्यक शर्तें
@@ -114,3 +120,10 @@ A3: बिल्कुल. .NET के लिए Aspose.Imaging छवि हे
 ### Q5: मैं .NET के लिए Aspose.Imaging के लिए अस्थायी लाइसेंस कैसे प्राप्त कर सकता हूं?
 
  A5: आप विजिट करके .NET के लिए Aspose.Imaging का अस्थायी लाइसेंस प्राप्त कर सकते हैं[इस लिंक](https://purchase.aspose.com/temporary-license/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

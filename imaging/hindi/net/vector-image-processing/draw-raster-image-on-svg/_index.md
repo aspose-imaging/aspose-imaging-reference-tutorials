@@ -3,10 +3,16 @@ title: .NET के लिए Aspose.Imaging में SVG पर रैस्ट
 linktitle: .NET के लिए Aspose.Imaging में SVG पर रैस्टर छवि बनाएं
 second_title: Aspose.Imaging .NET इमेज प्रोसेसिंग एपीआई
 description: .NET के लिए Aspose.Imaging का उपयोग करके SVG पर रेखापुंज चित्र बनाना सीखें। गतिशील छवियों के साथ अपने .NET अनुप्रयोगों को बेहतर बनाएं।
-type: docs
 weight: 11
 url: /hi/net/vector-image-processing/draw-raster-image-on-svg/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET के लिए Aspose.Imaging में SVG पर रैस्टर इमेज कैसे बनाएं
+
 
 .NET प्रोग्रामिंग की दुनिया में, Aspose.Imaging विभिन्न छवि-संबंधी कार्यों को संभालने के लिए एक विश्वसनीय और बहुमुखी लाइब्रेरी के रूप में खड़ा है। इसकी एक आकर्षक क्षमता एसवीजी कैनवास पर रेखापुंज छवि बनाने की क्षमता है। इस चरण-दर-चरण मार्गदर्शिका में, हम आपको .NET के लिए Aspose.Imaging का उपयोग करके SVG पर एक रेखापुंज छवि बनाने की प्रक्रिया के बारे में बताएंगे।
 
@@ -100,3 +106,10 @@ using (SvgImage resultImage = graphics.EndRecording())
     आप यहां से अस्थायी लाइसेंस प्राप्त कर सकते हैं[यहाँ](https://purchase.aspose.com/temporary-license/).
 
 
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

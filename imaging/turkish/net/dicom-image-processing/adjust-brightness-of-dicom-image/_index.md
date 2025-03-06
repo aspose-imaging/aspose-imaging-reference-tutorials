@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET ile DICOM Görüntü Parlaklığını Ayarlayın
 linktitle: Aspose.Imaging for .NET'te DICOM Görüntüsünün Parlaklığını Ayarlayın
 second_title: Aspose.Imaging .NET Görüntü İşleme API'si
 description: Aspose.Imaging for .NET'te DICOM görüntü parlaklığını nasıl ayarlayacağınızı öğrenin. Tıbbi görüntüleri kolayca geliştirin.
-type: docs
 weight: 10
 url: /tr/net/dicom-image-processing/adjust-brightness-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET ile DICOM Görüntü Parlaklığını Ayarlayın
+
 Tıbbi görüntüleme dünyasında, DICOM (Tıpta Dijital Görüntüleme ve İletişim) dosyalarının işlenmesi son derece önemlidir. Bu dosyalar hayati önem taşıyan tıbbi veriler içerir ve bazen içlerindeki görüntülerde parlaklıklarını değiştirmek gibi ayarlamalar yapmak gerekir. Bu adım adım kılavuzda, Aspose.Imaging for .NET kullanarak bir DICOM görüntüsünün parlaklığını nasıl ayarlayacağınızı göstereceğiz.
 
 ## Önkoşullar
@@ -95,3 +101,9 @@ Cevap4: Aspose.Imaging topluluğuyla destek alabilir ve bağlantı kurabilirsini
 ### S5: Aspose.Imaging başka hangi görüntü işleme özelliklerini sunuyor?
 
 Cevap5: Aspose.Imaging, yeniden boyutlandırma, kırpma, döndürme ve çeşitli filtreleme seçenekleri de dahil olmak üzere görüntü işleme için çok çeşitli özellikler sunarak onu tıbbi görüntülerle çalışmak için kapsamlı bir çözüm haline getiriyor.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Spiegeln Sie DICOM-Bilder mit Aspose.Imaging für .NET
 linktitle: DICOM-Bild in Aspose.Imaging für .NET umdrehen
 second_title: Aspose.Imaging .NET-Bildverarbeitungs-API
 description: Erfahren Sie, wie Sie DICOM-Bilder mit Aspose.Imaging für .NET umdrehen. Einfache und effiziente Bildbearbeitung für medizinische Anwendungen und mehr.
-type: docs
 weight: 10
 url: /de/net/image-transformation/flip-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Spiegeln Sie DICOM-Bilder mit Aspose.Imaging für .NET
+
 ## Einführung
 
 In der Welt der Softwareentwicklung ist die Bildmanipulation eine häufige und wesentliche Aufgabe. Unabhängig davon, ob Sie an einer medizinischen Bildgebungsanwendung oder an einem kreativen Grafikdesignprojekt arbeiten, ist die Fähigkeit, DICOM-Bilder umzudrehen, eine wertvolle Fähigkeit. Aspose.Imaging für .NET ist ein leistungsstarkes Tool, mit dem Sie dies mühelos erreichen können. In dieser umfassenden Anleitung führen wir Sie durch den Prozess des Spiegelns von DICOM-Bildern mit Aspose.Imaging für .NET. Wir schlüsseln jeden Schritt auf, stellen Codebeispiele bereit und bieten Einblicke in die Voraussetzungen und Namespaces, die Sie kennen müssen.
@@ -99,3 +105,9 @@ A2: Auf jeden Fall! Aspose.Imaging für .NET eignet sich gut für medizinische B
 
 ### F5: Welche weiteren Bildbearbeitungsfunktionen bietet Aspose.Imaging für .NET?
 A5: Aspose.Imaging für .NET bietet eine Vielzahl von Funktionen, darunter Größenänderung, Zuschneiden, Filtern und vieles mehr. Die vollständigen Funktionen der Bibliothek können Sie in der Dokumentation erkunden.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

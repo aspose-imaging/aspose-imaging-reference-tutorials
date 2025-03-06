@@ -3,10 +3,16 @@ title: Drawing Bezier Curves in Aspose.Imaging for .NET
 linktitle: Draw Bezier Curve in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to draw Bezier curves in Aspose.Imaging for .NET. Enhance your .NET graphics with this step-by-step guide.
-type: docs
 weight: 11
 url: /net/basic-drawing/draw-bezier-curve/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Drawing Bezier Curves in Aspose.Imaging for .NET
+
 Aspose.Imaging for .NET is a powerful library that provides comprehensive support for image manipulation and processing. In this tutorial, we will guide you through the process of drawing Bezier curves using Aspose.Imaging for .NET. Bezier curves are essential for creating smooth and visually appealing graphics in your .NET applications.
 
 ## Prerequisites
@@ -126,3 +132,10 @@ A4: Yes, Aspose.Imaging for .NET supports a wide range of image formats, includi
 ### Q5: Where can I find additional resources and support for Aspose.Imaging for .NET?
 
 A5: You can explore the [documentation](https://reference.aspose.com/imaging/net/) for Aspose.Imaging for .NET and seek help in the [Aspose.Imaging forum](https://forum.aspose.com/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: ครอบตัดรูปภาพ DICOM ด้วย Aspose.Imaging
 linktitle: การครอบตัด DICOM โดยกะใน Aspose.Imaging สำหรับ .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: เรียนรู้วิธีครอบตัดรูปภาพ DICOM ด้วย Aspose.Imaging สำหรับ .NET ปรับปรุงการประมวลผลภาพทางการแพทย์ด้วยคำแนะนำทีละขั้นตอนนี้
-type: docs
 weight: 18
 url: /th/net/dicom-image-processing/dicom-cropping-by-shifts/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# ครอบตัดรูปภาพ DICOM ด้วย Aspose.Imaging สำหรับ .NET
+
 การครอบตัดภาพทางการแพทย์ โดยเฉพาะภาพ DICOM ถือเป็นงานสำคัญในอุตสาหกรรมการดูแลสุขภาพ ช่วยให้ผู้เชี่ยวชาญด้านสุขภาพมุ่งเน้นไปที่พื้นที่เฉพาะที่สนใจ ลบองค์ประกอบที่ไม่ต้องการ และปรับปรุงการแสดงข้อมูลการวินิจฉัยด้วยภาพ ในบทช่วยสอนนี้ เราจะสำรวจวิธีการครอบตัดรูปภาพ DICOM โดยใช้ Aspose.Imaging สำหรับ .NET ซึ่งเป็นไลบรารีอันทรงพลังที่ทำให้งานการประมวลผลรูปภาพในแอปพลิเคชัน .NET ง่ายขึ้น
 
 ## ข้อกำหนดเบื้องต้น
@@ -100,3 +106,9 @@ image.Save(dataDir + "DICOMCroppingByShifts_out.bmp", new BmpOptions());
 ### คำถามที่ 5: ฉันสามารถใช้ Aspose.Imaging สำหรับ .NET ในแอปพลิเคชันประมวลผลรูปภาพที่ไม่ใช่ทางการแพทย์ได้หรือไม่
 
 A5: แน่นอน! แม้ว่าจะเหมาะสำหรับการถ่ายภาพทางการแพทย์ แต่ Aspose.Imaging สำหรับ .NET ก็สามารถนำไปใช้งานประมวลผลภาพได้หลากหลายในโดเมนต่างๆ
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Προσαρμόστε τη φωτεινότητα εικόνας DICOM �
 linktitle: Προσαρμόστε τη φωτεινότητα της εικόνας DICOM στο Aspose.Imaging για .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Μάθετε πώς να ρυθμίζετε τη φωτεινότητα της εικόνας DICOM στο Aspose.Imaging για .NET. Βελτιώστε εύκολα τις ιατρικές εικόνες.
-type: docs
 weight: 10
 url: /el/net/dicom-image-processing/adjust-brightness-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Προσαρμόστε τη φωτεινότητα εικόνας DICOM με το Aspose.Imaging για .NET
+
 Στον κόσμο της ιατρικής απεικόνισης, ο χειρισμός αρχείων DICOM (Digital Imaging and Communications in Medicine) είναι υψίστης σημασίας. Αυτά τα αρχεία περιέχουν ζωτικής σημασίας ιατρικά δεδομένα και μερικές φορές, είναι απαραίτητο να κάνετε προσαρμογές στις εικόνες μέσα σε αυτά, όπως αλλαγή της φωτεινότητάς τους. Σε αυτόν τον οδηγό βήμα προς βήμα, θα σας δείξουμε πώς να προσαρμόσετε τη φωτεινότητα μιας εικόνας DICOM χρησιμοποιώντας το Aspose.Imaging για .NET.
 
 ## Προαπαιτούμενα
@@ -95,3 +101,9 @@ A4: Μπορείτε να λάβετε υποστήριξη και να συνδ
 ### Ε5: Ποιες άλλες δυνατότητες χειρισμού εικόνας προσφέρει το Aspose.Imaging;
 
 A5: Το Aspose.Imaging παρέχει ένα ευρύ φάσμα δυνατοτήτων για χειρισμό εικόνας, όπως αλλαγή μεγέθους, περικοπή, περιστροφή και διάφορες επιλογές φιλτραρίσματος, καθιστώντας το μια ολοκληρωμένη λύση για την εργασία με ιατρικές εικόνες.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

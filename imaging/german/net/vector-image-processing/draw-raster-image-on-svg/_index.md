@@ -3,10 +3,16 @@ title: So zeichnen Sie ein Rasterbild auf SVG in Aspose.Imaging für .NET
 linktitle: Zeichnen Sie ein Rasterbild auf SVG in Aspose.Imaging für .NET
 second_title: Aspose.Imaging .NET-Bildverarbeitungs-API
 description: Erfahren Sie, wie Sie mit Aspose.Imaging für .NET Rasterbilder in SVG zeichnen. Erweitern Sie Ihre .NET-Anwendungen mit dynamischen Bildern.
-type: docs
 weight: 11
 url: /de/net/vector-image-processing/draw-raster-image-on-svg/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# So zeichnen Sie ein Rasterbild auf SVG in Aspose.Imaging für .NET
+
 
 In der Welt der .NET-Programmierung gilt Aspose.Imaging als zuverlässige und vielseitige Bibliothek für die Bearbeitung verschiedener bildbezogener Aufgaben. Eine faszinierende Funktion ist die Möglichkeit, ein Rasterbild auf einer SVG-Leinwand zu zeichnen. In dieser Schritt-für-Schritt-Anleitung führen wir Sie durch den Prozess des Zeichnens eines Rasterbilds auf einer SVG-Datei mit Aspose.Imaging für .NET.
 
@@ -100,3 +106,10 @@ Glückwunsch! Sie haben mit Aspose.Imaging für .NET erfolgreich ein Rasterbild 
     Sie können eine temporäre Lizenz erhalten von[Hier](https://purchase.aspose.com/temporary-license/).
 
 
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Ekspor Gambar ke DICOM di Aspose.Imaging untuk .NET
 linktitle: Ekspor ke DICOM di Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Pelajari cara mengekspor gambar ke format DICOM di .NET menggunakan Aspose.Imaging. Konversi gambar medis dengan mudah.
-type: docs
 weight: 23
 url: /id/net/dicom-image-processing/export-to-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Ekspor Gambar ke DICOM di Aspose.Imaging untuk .NET
+
 Dalam bidang pencitraan medis, format Digital Imaging and Communications in Medicine (DICOM) adalah rajanya yang tak terbantahkan. File DICOM menyimpan dan mengelola gambar medis dan informasi terkait, memfasilitasi pertukaran dan interpretasi gambar medis yang lancar di berbagai sistem layanan kesehatan. Jika Anda ingin bekerja dengan file DICOM di aplikasi .NET, Anda berada di tempat yang tepat. Dalam tutorial ini, kita akan mempelajari cara mengekspor gambar ke DICOM menggunakan Aspose.Imaging untuk .NET, perpustakaan canggih yang menyederhanakan prosesnya. Di akhir panduan ini, Anda akan dibekali dengan pengetahuan untuk memanfaatkan potensi Aspose.Imaging untuk .NET dan membuat file DICOM dengan mudah.
 
 ## Prasyarat
@@ -106,3 +112,9 @@ A4: Aspose.Imaging untuk .NET memungkinkan Anda memanipulasi dan menyesuaikan me
 ### Q5: Apakah ada versi uji coba Aspose.Imaging untuk .NET yang tersedia?
 
  A5: Ya, Anda dapat mengakses uji coba gratis Aspose.Imaging untuk .NET untuk mengevaluasi kemampuannya. Anda dapat mengunduh versi uji coba[Di Sini](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

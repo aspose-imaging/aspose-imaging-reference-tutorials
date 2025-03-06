@@ -3,10 +3,16 @@ title: ضغط DICOM في Aspose.Imaging لـ .NET
 linktitle: ضغط DICOM في Aspose.Imaging لـ .NET
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: تعرف على كيفية إجراء ضغط DICOM باستخدام Aspose.Imaging لـ .NET. اتبع هذا الدليل المفصّل خطوة بخطوة لتخزين الصور الطبية ونقلها بكفاءة وبجودة تشخيصية عالية.
-type: docs
 weight: 17
 url: /ar/net/dicom-image-processing/dicom-compression/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# ضغط DICOM في Aspose.Imaging لـ .NET
+
 في عالم التصوير الطبي، يعد معيار DICOM (التصوير الرقمي والاتصالات في الطب) أمرًا بالغ الأهمية لتخزين الصور الطبية ومشاركتها. توفر Aspose.Imaging for .NET، وهي مكتبة .NET قوية، دعمًا شاملاً للعمل مع صور DICOM. سيرشدك هذا البرنامج التعليمي خلال عملية ضغط DICOM باستخدام Aspose.Imaging لـ .NET. سنقوم بتفصيل كل خطوة وشرح العملية بالتفصيل.
 
 ## المتطلبات الأساسية
@@ -151,3 +157,9 @@ inputImage.Save(output4, options);
 ### س5: هل هناك إصدار تجريبي من Aspose.Imaging for .NET متاح للاختبار؟
 
  ج5: نعم يمكنك الحصول على[رخصة تجريبية مجانية](https://releases.aspose.com/) لاختبار Aspose.Imaging لـ .NET قبل إجراء عملية شراء.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

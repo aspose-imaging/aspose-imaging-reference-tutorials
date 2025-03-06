@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging Java 进行图像扩展和裁剪
 linktitle: 图像扩展和裁剪
 second_title: Aspose.Imaging Java 图像处理 API
 description: 了解如何使用 Aspose.Imaging 在 Java 中扩展和裁剪图像。通过本分步指南提高您的图像处理技能。
-type: docs
 weight: 11
 url: /zh/java/document-conversion-and-processing/image-expansion-and-cropping/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging Java 进行图像扩展和裁剪
+
 在数字内容世界中，无论您是 Web 开发人员、图形设计师还是内容创建者，操作和增强图像都是一项常见任务。 Aspose.Imaging for Java 是一个功能强大的工具，可让您无缝地执行各种图像处理操作。在本分步指南中，我们将引导您完成在 Java 中使用 Aspose.Imaging 扩展和裁剪图像的过程。
 
 ## 先决条件
@@ -107,3 +113,9 @@ A4：是的，Aspose.Imaging可以在商业项目中使用，但一定要检查�
 ### 问题 5：在哪里可以找到 Aspose.Imaging for Java 的其他示例和资源？
 
  A5：您可以在以下位置探索更多代码示例和资源[文档](https://reference.aspose.com/imaging/java/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

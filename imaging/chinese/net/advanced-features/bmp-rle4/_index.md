@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET 教程中的 BMP RLE4 压缩
 linktitle: Aspose.Imaging for .NET 中的 BMP RLE4
 second_title: Aspose.Imaging .NET 图像处理 API
 description: 了解如何在 Aspose.Imaging for .NET 中应用 BMP RLE4 压缩。减小 BMP 图像大小而不损失质量。
-type: docs
 weight: 15
 url: /zh/net/advanced-features/bmp-rle4/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET 教程中的 BMP RLE4 压缩
+
 Aspose.Imaging for .NET 是一个功能强大的库，使开发人员能够使用各种图像格式，包括 BMP。在本教程中，我们将探索 BMP RLE4 压缩技术以及如何在 Aspose.Imaging for .NET 中使用它。本分步指南将引导您完成使用 BMP RLE4 压缩的过程，从设置环境到创建和保存压缩的 BMP 图像。
 
 ## 先决条件
@@ -112,3 +118,9 @@ A3：是的，Aspose.Imaging for .NET 与 Windows 和 .NET Core 环境兼容，�
 ### Q5：如何获得 Aspose.Imaging for .NET 的临时许可证？
 
  A5：您可以通过访问 Aspose.Imaging for .NET 获取临时许可证[临时许可证页面](https://purchase.aspose.com/temporary-license/)在 Aspose 网站上。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

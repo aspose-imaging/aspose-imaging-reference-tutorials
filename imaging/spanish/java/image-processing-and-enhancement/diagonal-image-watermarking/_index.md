@@ -3,10 +3,16 @@ title: Marca de agua de imagen diagonal con Aspose.Imaging para Java
 linktitle: Marca de agua de imagen diagonal
 second_title: Aspose.Imaging API de procesamiento de imágenes Java
 description: Mejore sus imágenes con una marca de agua diagonal usando Aspose.Imaging para Java. Siga esta guía paso a paso y cree impresionantes imágenes con marcas de agua sin esfuerzo.
-type: docs
 weight: 14
 url: /es/java/image-processing-and-enhancement/diagonal-image-watermarking/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Marca de agua de imagen diagonal con Aspose.Imaging para Java
+
 
 Si busca mejorar sus imágenes con una elegante marca de agua diagonal, Aspose.Imaging para Java está aquí para ayudarlo. En esta guía paso a paso, lo guiaremos a través del proceso de agregar una marca de agua de texto girada 45 grados a una imagen JPG existente. No necesita ser un experto en Java o procesamiento de imágenes para seguirlo; dividiremos cada ejemplo en varios pasos para garantizar que pueda lograr fácilmente resultados profesionales.
 
@@ -141,3 +147,9 @@ R3: Sí, Aspose.Imaging para Java admite una amplia gama de formatos de imagen, 
 ### P5: ¿Dónde puedo encontrar ayuda o soporte para Aspose.Imaging para Java?
 
  R5: Si tiene alguna pregunta o necesita ayuda, visite el foro de soporte de Aspose.Imaging para Java.[aquí](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET 中的 DICOM 壓縮
 linktitle: Aspose.Imaging for .NET 中的 DICOM 壓縮
 second_title: Aspose.Imaging .NET 映像處理 API
 description: 了解如何使用 Aspose.Imaging for .NET 執行 DICOM 壓縮。請按照此逐步指南有效儲存和傳輸具有高診斷品質的醫學影像。
-type: docs
 weight: 17
 url: /zh-hant/net/dicom-image-processing/dicom-compression/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET 中的 DICOM 壓縮
+
 在醫學影像領域，DICOM（醫學數位成像和通訊）標準對於儲存和共享醫學影像至關重要。 Aspose.Imaging for .NET 是一個功能強大的 .NET 函式庫，為處理 DICOM 映像提供全面的支援。本教學將引導您完成使用 Aspose.Imaging for .NET 進行 DICOM 壓縮的過程。我們將分解每個步驟並詳細解釋該過程。
 
 ## 先決條件
@@ -151,3 +157,9 @@ A3：是的，Aspose.Imaging for .NET 提供了廣泛的影像處理功能，可
 ### Q5：Aspose.Imaging for .NET 有試用版可供測試嗎？
 
  A5：是的，您可以獲得[免費試用許可證](https://releases.aspose.com/)在購買之前測試 Aspose.Imaging for .NET。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

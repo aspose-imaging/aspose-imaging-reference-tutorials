@@ -3,10 +3,16 @@ title: Khai phá tiềm năng của Aspose.Imaging cho .NET
 linktitle: Các tính năng tiên tiến
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Tận dụng tối đa Aspose.Imaging cho .NET với hướng dẫn từng bước của chúng tôi. Tìm hiểu cách mở khóa các tùy chọn gốc và làm việc với hình ảnh một cách dễ dàng.
-type: docs
 weight: 29
 url: /vi/net/advanced-features/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Khai phá tiềm năng của Aspose.Imaging cho .NET
+
 
 Aspose.Imaging for .NET là một công cụ mạnh mẽ có thể nâng khả năng xử lý hình ảnh của bạn lên một tầm cao mới. Trong bài viết này, chúng tôi sẽ đi sâu vào các hướng dẫn về tính năng nâng cao, giúp bạn khai thác toàn bộ tiềm năng của thư viện đa năng này.
 
@@ -48,3 +54,9 @@ Khám phá hỗ trợ định dạng CDR trong Aspose.Imaging cho .NET. Hướng
 Tìm hiểu cách thao tác với hình ảnh BigTiff trong ứng dụng .NET bằng Aspose.Imaging cho .NET. Hãy làm theo hướng dẫn từng bước của chúng tôi để xử lý hình ảnh liền mạch.
 ### [BMP RLE4 trong Aspose.Imaging cho .NET](./bmp-rle4/)
 Tìm hiểu cách áp dụng nén BMP RLE4 trong Aspose.Imaging cho .NET. Giảm kích thước hình ảnh BMP mà không làm giảm chất lượng.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

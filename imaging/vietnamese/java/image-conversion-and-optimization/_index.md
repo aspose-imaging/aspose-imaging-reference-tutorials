@@ -3,10 +3,16 @@ title: Chuyển đổi và tối ưu hóa hình ảnh
 linktitle: Chuyển đổi và tối ưu hóa hình ảnh
 second_title: Aspose.Imaging API xử lý hình ảnh Java
 description: Khám phá các hướng dẫn tối ưu hóa và chuyển đổi hình ảnh bằng Aspose.Imaging cho Java. Tìm hiểu cách chuyển đổi, nâng cao và tối ưu hóa các định dạng hình ảnh khác nhau một cách dễ dàng.
-type: docs
 weight: 20
 url: /vi/java/image-conversion-and-optimization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Chuyển đổi và tối ưu hóa hình ảnh
+
 
 # Giới thiệu
 
@@ -86,3 +92,9 @@ Nắm vững nghệ thuật lưu khung hình ảnh raster với Aspose.Imaging c
 Tìm hiểu cách chuyển đổi hình ảnh raster sang định dạng TIFF trong Java bằng Aspose.Imaging for Java. Hướng dẫn toàn diện về thao tác hình ảnh.
 ### [Tách khung hình TIFF](./tiff-image-frame-splitting/)
 Tìm hiểu cách tách khung hình TIFF bằng Aspose.Imaging cho Java. Hướng dẫn từng bước với các điều kiện tiên quyết, ví dụ về mã và Câu hỏi thường gặp dành cho nhà phát triển.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Ajuste de contraste de imagen DICOM con Aspose.Imaging para Java
 linktitle: Ajuste de contraste de imagen DICOM
 second_title: Aspose.Imaging API de procesamiento de imágenes Java
 description: Aprenda a ajustar el contraste en imágenes DICOM usando Aspose.Imaging para Java. Mejore la calidad visual de las imágenes médicas sin esfuerzo.
-type: docs
 weight: 23
 url: /es/java/image-processing-and-enhancement/dicom-image-contrast-adjustment/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Ajuste de contraste de imagen DICOM con Aspose.Imaging para Java
+
 En el campo de las imágenes médicas en constante evolución, la capacidad de ajustar el contraste de la imagen es de suma importancia. Con el poder de Aspose.Imaging para Java, puede manipular sin esfuerzo imágenes DICOM (Imágenes digitales y comunicaciones en medicina) para mejorar su calidad visual. Este tutorial lo guiará a través del proceso paso a paso, asegurándose de lograr ajustes de contraste de imagen precisos y efectivos.
 
 ## Requisitos previos
@@ -102,3 +108,9 @@ R3: Sí, Aspose.Imaging para Java ofrece una gran cantidad de funciones de manip
 ### P5: ¿Dónde puedo encontrar recursos adicionales y soporte para Aspose.Imaging para Java?
 
  R5: Puede encontrar documentación y soporte en el[Foro Aspose.Imaging para Java](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

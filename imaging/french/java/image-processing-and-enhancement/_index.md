@@ -3,10 +3,16 @@ title: Traitement et amélioration des images
 linktitle: Traitement et amélioration des images
 second_title: API de traitement d'images Java Aspose.Imaging
 description: Améliorez les images avec Aspose.Imaging pour Java à l'aide de didacticiels étape par étape. Optimisez le traitement des documents et la qualité des images sans effort.
-type: docs
 weight: 21
 url: /fr/java/image-processing-and-enhancement/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Traitement et amélioration des images
+
 ## Introduction 
 Le traitement des images est un aspect crucial de la création de contenu numérique moderne. Dans cet article, nous plongerons dans le monde des « Tutoriels de traitement et d'amélioration d'images » à l'aide d'Aspose.Imaging pour Java. Que vous soyez graphiste, photographe ou simplement quelqu'un souhaitant améliorer ses compétences en traitement d'image, ces tutoriels seront votre guide.
 
@@ -116,3 +122,9 @@ Découvrez comment ajuster la luminosité de l'image à l'aide d'Aspose.Imaging 
 Découvrez comment appliquer des filtres aux images DICOM à l'aide d'Aspose.Imaging pour Java. Améliorez facilement l’imagerie médicale.
 ### [Binarisation d'images](./bradleys-adaptive-threshold-binarization/)
 Apprenez la binarisation d'images avec Aspose.Imaging pour Java. Transformez facilement les images DICOM. Explorez un guide étape par étape avec des exemples de code.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: วาดภาพแรสเตอร์บน EMF ด้วย Aspose.
 linktitle: วาดภาพแรสเตอร์บน EMF ใน Aspose.Imaging สำหรับ .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: เรียนรู้วิธีการวาดภาพแรสเตอร์บนไฟล์ EMF โดยใช้ Aspose.Imaging สำหรับ .NET สร้างภาพที่น่าทึ่งได้อย่างง่ายดาย
-type: docs
 weight: 10
 url: /th/net/vector-image-processing/draw-raster-image-on-emf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# วาดภาพแรสเตอร์บน EMF ด้วย Aspose.Imaging สำหรับ .NET
+
 
 ## การแนะนำ
 
@@ -121,3 +127,10 @@ using (EmfImage resultImage = graphics.EndRecording())
 ### 5. ฉันจะรับการสนับสนุนสำหรับ Aspose.Imaging ได้ที่ไหน
 
  สำหรับการสนับสนุนและความช่วยเหลือ คุณสามารถไปที่ฟอรัม Aspose.Imaging[ที่นี่](https://forum.aspose.com/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

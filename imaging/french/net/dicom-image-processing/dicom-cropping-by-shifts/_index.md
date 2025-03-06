@@ -3,10 +3,16 @@ title: Recadrer des images DICOM avec Aspose.Imaging pour .NET
 linktitle: Recadrage DICOM par décalages dans Aspose.Imaging pour .NET
 second_title: API de traitement d'images Aspose.Imaging .NET
 description: Découvrez comment recadrer des images DICOM avec Aspose.Imaging pour .NET. Améliorez le traitement des images médicales avec ce guide étape par étape.
-type: docs
 weight: 18
 url: /fr/net/dicom-image-processing/dicom-cropping-by-shifts/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Recadrer des images DICOM avec Aspose.Imaging pour .NET
+
 Le recadrage des images médicales, en particulier des images DICOM, est une tâche cruciale dans le secteur de la santé. Il permet aux professionnels de santé de se concentrer sur des domaines d’intérêt spécifiques, de supprimer les éléments indésirables et d’améliorer la représentation visuelle des données de diagnostic. Dans ce didacticiel, nous explorerons comment recadrer des images DICOM à l'aide d'Aspose.Imaging pour .NET, une bibliothèque puissante qui simplifie les tâches de traitement d'image dans les applications .NET.
 
 ## Conditions préalables
@@ -100,3 +106,9 @@ A2 : Oui, Aspose.Imaging for .NET est une bibliothèque polyvalente capable de g
 ### Q5 : Puis-je utiliser Aspose.Imaging pour .NET dans des applications de traitement d'images non médicales ?
 
 A5 : Absolument ! Bien qu'il soit idéal pour l'imagerie médicale, Aspose.Imaging for .NET peut être utilisé pour un large éventail de tâches de traitement d'images dans divers domaines.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Chuyển đổi hình ảnh raster sang SVG bằng Aspose.Imaging cho Jav
 linktitle: Chuyển đổi hình ảnh raster thành đồ họa vector có thể mở rộng
 second_title: Aspose.Imaging API xử lý hình ảnh Java
 description: Tìm hiểu cách chuyển đổi hình ảnh raster sang SVG bằng Aspose.Imaging cho Java. Nâng cao chất lượng hình ảnh và khả năng mở rộng dễ dàng.
-type: docs
 weight: 13
 url: /vi/java/image-conversion-and-optimization/convert-raster-images-to-scalable-vector-graphics/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Chuyển đổi hình ảnh raster sang SVG bằng Aspose.Imaging cho Java
+
 Bạn đang muốn chuyển đổi hình ảnh raster thành đồ họa vector có thể mở rộng (SVG) bằng Java? Bạn đang ở đúng nơi! Hướng dẫn từng bước này sẽ hướng dẫn bạn quy trình sử dụng Aspose.Imaging cho Java để hoàn thành nhiệm vụ này. Đến cuối hướng dẫn này, bạn sẽ có thể dễ dàng chuyển đổi hình ảnh raster của mình sang định dạng SVG, cho phép khả năng mở rộng và cải thiện chất lượng hình ảnh.
 
 ## Điều kiện tiên quyết
@@ -108,3 +114,9 @@ Câu trả lời 4: Đối với bất kỳ câu hỏi hoặc vấn đề nào l
 ### Câu hỏi 5: Có lựa chọn thay thế nào cho Aspose.Imaging cho Java không?
 
 Câu trả lời 5: Có, có sẵn các thư viện và công cụ khác để chuyển đổi hình ảnh. Tuy nhiên, Aspose.Imaging for Java cung cấp một giải pháp mạnh mẽ và giàu tính năng để xử lý và chuyển đổi hình ảnh.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

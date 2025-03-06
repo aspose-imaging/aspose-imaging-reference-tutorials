@@ -3,10 +3,16 @@ title: Menerapkan Filter ke Gambar DICOM dengan Aspose.Imaging untuk .NET
 linktitle: Terapkan Filter pada Gambar DICOM di Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Pelajari cara menerapkan filter ke gambar DICOM menggunakan Aspose.Imaging untuk .NET. Tingkatkan pemrosesan gambar medis dengan mudah.
-type: docs
 weight: 13
 url: /id/net/dicom-image-processing/apply-filter-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Menerapkan Filter ke Gambar DICOM dengan Aspose.Imaging untuk .NET
+
 Jika Anda ingin meningkatkan keterampilan Anda dalam pemrosesan gambar menggunakan Aspose.Imaging untuk .NET, Anda datang ke tempat yang tepat. Dalam tutorial langkah demi langkah ini, kami akan memandu Anda melalui proses penerapan filter pada gambar DICOM. Pustaka canggih ini memungkinkan Anda memanipulasi dan memproses berbagai format gambar, termasuk DICOM, dengan mudah. Kami akan membagi prosesnya menjadi beberapa langkah yang dapat dikelola, memastikan Anda memahami setiap konsep secara menyeluruh. Ayo selami!
 
 ## Prasyarat
@@ -90,3 +96,9 @@ A3: Ya, Aspose.Imaging menyediakan berbagai filter, seperti Gaussian, Sharpen, d
 ### Q5: Bagaimana saya bisa mendapatkan lisensi sementara untuk Aspose.Imaging?
 
  A5: Anda dapat memperoleh lisensi sementara dari[Di Sini](https://purchase.aspose.com/temporary-license/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

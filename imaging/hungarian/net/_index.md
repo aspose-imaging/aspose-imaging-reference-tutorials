@@ -1,12 +1,17 @@
 ---
 title: Átfogó oktatóanyagok és példák az Aspose.Imaging for .NET-hez
 linktitle: Aspose.Imaging for .NET Tutorials
-type: docs
 weight: 10
 url: /hu/net/
 description: Fedezze fel az Aspose.Imaging for .NET erejét részletes oktatóanyagaink segítségével. A képkompozíciótól a speciális funkciókig, fejlesztheti készségeit és emelheti fel képfeldolgozó játékát.
-is_root: true
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Átfogó oktatóanyagok és példák az Aspose.Imaging for .NET-hez
+
 
 Üdvözöljük átfogó útmutatónkban az Aspose.Imaging for .NET-hez! Akár kezdő, akár szakértő, ezek az oktatóanyagok segítenek elsajátítani a képfeldolgozást ezzel a hatékony eszközzel. A képkompozíciótól a haladó funkciókig mindent megtalálsz.
 
@@ -72,3 +77,9 @@ Tanulja meg a képformátum konvertálását az Aspose.Imaging for .NET segíts�
 Fedezze fel a DICOM-képfeldolgozás átfogó oktatóanyag-sorozatát az Aspose.Imaging for .NET használatával. Tanulja meg az orvosi képeket könnyedén javítani.
 ### [Speciális funkciók](./advanced-features/)
 Hozza ki a legjobbat az Aspose.Imaging for .NET-ből lépésről lépésre bemutatott oktatóanyagaink segítségével. Tanulja meg, hogyan oldhatja fel az eredeti opciókat, és hogyan dolgozhat könnyedén a képekkel.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

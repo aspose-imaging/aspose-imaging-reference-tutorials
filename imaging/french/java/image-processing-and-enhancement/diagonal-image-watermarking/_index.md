@@ -3,10 +3,16 @@ title: Filigrane d'image diagonale avec Aspose.Imaging pour Java
 linktitle: Filigrane d'image diagonale
 second_title: API de traitement d'images Java Aspose.Imaging
 description: Améliorez vos images avec un filigrane en diagonale à l'aide d'Aspose.Imaging pour Java. Suivez ce guide étape par étape et créez sans effort de superbes images filigranées.
-type: docs
 weight: 14
 url: /fr/java/image-processing-and-enhancement/diagonal-image-watermarking/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Filigrane d'image diagonale avec Aspose.Imaging pour Java
+
 
 Si vous souhaitez améliorer vos images avec un filigrane diagonal élégant, Aspose.Imaging for Java est là pour vous aider. Dans ce guide étape par étape, nous vous guiderons tout au long du processus d'ajout d'un filigrane de texte pivoté de 45 degrés à une image JPG existante. Vous n'avez pas besoin d'être un expert en Java ou en traitement d'image pour suivre : nous décomposerons chaque exemple en plusieurs étapes pour garantir que vous puissiez facilement obtenir des résultats professionnels.
 
@@ -141,3 +147,9 @@ A3 : Oui, Aspose.Imaging pour Java prend en charge un large éventail de formats
 ### Q5 : Où puis-je trouver de l'aide ou du support pour Aspose.Imaging pour Java ?
 
  A5 : Si vous avez des questions ou avez besoin d'aide, visitez le forum d'assistance Aspose.Imaging for Java.[ici](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Ekspor Gambar Multi-Utas dengan Aspose.Imaging untuk Java
 linktitle: Ekspor Gambar Multi-Utas
 second_title: Aspose.Imaging API Pemrosesan Gambar Java
 description: Pelajari cara melakukan ekspor gambar multi-utas menggunakan Aspose.Imaging for Java. Kuasai pemrosesan dan manipulasi gambar dengan panduan langkah demi langkah ini.
-type: docs
 weight: 17
 url: /id/java/image-conversion-and-optimization/multi-threaded-image-export/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Ekspor Gambar Multi-Utas dengan Aspose.Imaging untuk Java
+
 Dalam dunia pengembangan perangkat lunak, menangani gambar adalah tugas yang umum. Baik Anda membuat aplikasi pemrosesan gambar atau hanya perlu memanipulasi gambar, memiliki alat yang tepat sangatlah penting. Aspose.Imaging for Java adalah perpustakaan canggih yang memberdayakan pengembang untuk bekerja dengan gambar secara efisien dan efektif. Dalam panduan langkah demi langkah ini, kami akan memandu Anda melalui proses ekspor gambar multi-utas menggunakan Aspose.Imaging untuk Java.
 
 ## Prasyarat
@@ -118,3 +124,9 @@ A3: Ya, Aspose.Imaging for Java mendukung pemrosesan gambar multi-utas, memungki
 ### 5. Bisakah saya mencoba Aspose.Imaging untuk Java secara gratis?
 
  A5: Ya, Anda dapat mengunduh Aspose.Imaging for Java versi uji coba gratis dari[Di Sini](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: DICOM-tömörítés az Aspose.Imaging-ben .NET-hez
 linktitle: DICOM-tömörítés az Aspose.Imaging-ben .NET-hez
 second_title: Aspose.Imaging .NET Image Processing API
 description: Ismerje meg, hogyan hajthat végre DICOM-tömörítést az Aspose.Imaging for .NET használatával. Kövesse ezt a lépésenkénti útmutatót, hogy hatékonyan tárolja és továbbítsa az orvosi képeket, kiváló diagnosztikai minőségben.
-type: docs
 weight: 17
 url: /hu/net/dicom-image-processing/dicom-compression/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# DICOM-tömörítés az Aspose.Imaging-ben .NET-hez
+
 Az orvosi képalkotás világában a DICOM (Digital Imaging and Communications in Medicine) szabvány kiemelkedően fontos az orvosi képek tárolására és megosztására. Az Aspose.Imaging for .NET egy nagy teljesítményű .NET-könyvtár, amely átfogó támogatást nyújt a DICOM-képekkel való munkavégzéshez. Ez az oktatóanyag végigvezeti a DICOM-tömörítés folyamatán az Aspose.Imaging for .NET használatával. Lebontjuk az egyes lépéseket, és részletesen elmagyarázzuk a folyamatot.
 
 ## Előfeltételek
@@ -151,3 +157,9 @@ inputImage.Save(output4, options);
 ### 5. kérdés: Elérhető az Aspose.Imaging .NET-hez készült próbaverziója tesztelésre?
 
  V5: Igen, beszerezheti a[ingyenes próba licenc](https://releases.aspose.com/) hogy vásárlás előtt tesztelje az Aspose.Imaging for .NET-et.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: .NET용 Aspose.Imaging을 사용하여 DICOM 이미지 뒤집기
 linktitle: .NET용 Aspose.Imaging에서 DICOM 이미지 뒤집기
 second_title: Aspose.Imaging .NET 이미지 처리 API
 description: .NET용 Aspose.Imaging을 사용하여 DICOM 이미지를 뒤집는 방법을 알아보세요. 의료 애플리케이션 등을 위한 쉽고 효율적인 이미지 조작.
-type: docs
 weight: 10
 url: /ko/net/image-transformation/flip-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET용 Aspose.Imaging을 사용하여 DICOM 이미지 뒤집기
+
 ## 소개
 
 소프트웨어 개발 세계에서 이미지 조작은 일반적이고 필수적인 작업입니다. 의료 영상 애플리케이션 작업을 하든 창의적인 그래픽 디자인 프로젝트를 수행하든 DICOM 이미지를 뒤집는 기능은 귀중한 기술입니다. Aspose.Imaging for .NET은 이를 손쉽게 달성하는 데 도움이 되는 강력한 도구입니다. 이 종합 가이드에서는 .NET용 Aspose.Imaging을 사용하여 DICOM 이미지를 뒤집는 과정을 안내합니다. 각 단계를 세분화하고, 코드 예제를 제공하고, 알아야 할 전제 조건과 네임스페이스에 대한 통찰력을 제공할 것입니다.
@@ -99,3 +105,9 @@ A2: 물론이죠! Aspose.Imaging for .NET은 의료 영상 프로젝트에 적�
 
 ### Q5: Aspose.Imaging for .NET이 제공하는 다른 이미지 조작 기능은 무엇입니까?
 A5: .NET용 Aspose.Imaging은 크기 조정, 자르기, 필터링 등을 포함한 광범위한 기능을 제공합니다. 설명서에서 라이브러리의 전체 기능을 탐색할 수 있습니다.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

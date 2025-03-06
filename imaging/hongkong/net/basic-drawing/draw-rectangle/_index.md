@@ -3,10 +3,16 @@ title: 在 Aspose.Imaging for .NET 中繪製矩形
 linktitle: 在 Aspose.Imaging for .NET 中繪製矩形
 second_title: Aspose.Imaging .NET 映像處理 API
 description: 學習在 Aspose.Imaging for .NET 中繪製矩形 - 一種用於在 .NET 應用程式中進行影像處理的多功能工具。
-type: docs
 weight: 14
 url: /zh-hant/net/basic-drawing/draw-rectangle/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 在 Aspose.Imaging for .NET 中繪製矩形
+
 在 .NET 應用程式中建立和操作映像可能是一項複雜的任務，但藉助 Aspose.Imaging for .NET 的強大功能，它變得非常簡單。在本逐步指南中，我們將引導您完成使用 Aspose.Imaging for .NET 繪製矩形的過程。您將學習如何建立圖像、設定其屬性、繪製矩形以及保存您的工作。讓我們深入了解吧！
 
 ## 先決條件
@@ -104,3 +110,9 @@ A4：是的，Aspose.Imaging for .NET 提供了廣泛的進階影像處理功能
 ### Q5：在哪裡可以找到更多關於 Aspose.Imaging for .NET 的資源和支援？
 
  A5：您可以存取文檔[這裡](https://reference.aspose.com/imaging/net/)並尋求支持[Aspose.Imaging 論壇](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

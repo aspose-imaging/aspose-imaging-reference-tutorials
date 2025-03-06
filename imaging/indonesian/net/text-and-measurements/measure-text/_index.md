@@ -3,10 +3,16 @@ title: Pengukuran Teks dalam Gambar dengan Aspose.Imaging untuk .NET
 linktitle: Ukur Teks di Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Ukur teks dalam gambar menggunakan Aspose.Imaging untuk .NET. Pustaka .NET yang kuat. Pengukuran teks yang tepat dan efisien.
-type: docs
 weight: 10
 url: /id/net/text-and-measurements/measure-text/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Pengukuran Teks dalam Gambar dengan Aspose.Imaging untuk .NET
+
 Jika Anda seorang pengembang .NET yang ingin memanipulasi gambar dan mengukur teks dengan presisi, Aspose.Imaging for .NET adalah solusi ampuh. Dalam panduan langkah demi langkah ini, kita akan mempelajari cara mengukur teks menggunakan Aspose.Imaging, dimulai dengan prasyarat dan berpuncak pada contoh praktis. Mari selami!
 
 ## Prasyarat
@@ -95,3 +101,9 @@ Selanjutnya, Anda membuat objek Grafik, yang penting untuk pengukuran teks.
 ### Q5: Bagaimana cara mengunduh Aspose.Imaging untuk .NET?
 
  A5: Anda dapat mengunduh Aspose.Imaging untuk .NET dari[Unduh Halaman](https://releases.aspose.com/imaging/net/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

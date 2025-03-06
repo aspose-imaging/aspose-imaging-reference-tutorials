@@ -3,10 +3,16 @@ title: .NET용 Aspose.Imaging에서 이미지를 DICOM으로 내보내기
 linktitle: .NET용 Aspose.Imaging에서 DICOM으로 내보내기
 second_title: Aspose.Imaging .NET 이미지 처리 API
 description: Aspose.Imaging을 사용하여 .NET에서 이미지를 DICOM 형식으로 내보내는 방법을 알아보세요. 의료 이미지를 손쉽게 변환하세요.
-type: docs
 weight: 23
 url: /ko/net/dicom-image-processing/export-to-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET용 Aspose.Imaging에서 이미지를 DICOM으로 내보내기
+
 의료 영상 영역에서는 DICOM(Digital Imaging and Communications in Medicine) 형식이 확실한 왕입니다. DICOM 파일은 의료 이미지 및 관련 정보를 저장 및 관리하여 다양한 의료 시스템 전반에서 의료 이미지의 원활한 교환 및 해석을 촉진합니다. .NET 애플리케이션에서 DICOM 파일로 작업하려는 경우 올바른 위치에 있습니다. 이 튜토리얼에서는 프로세스를 단순화하는 강력한 라이브러리인 Aspose.Imaging for .NET을 사용하여 이미지를 DICOM으로 내보내는 방법을 자세히 살펴보겠습니다. 이 가이드를 마치면 .NET용 Aspose.Imaging의 잠재력을 활용하고 DICOM 파일을 쉽게 생성할 수 있는 지식을 갖추게 될 것입니다.
 
 ## 전제 조건
@@ -106,3 +112,9 @@ A4: .NET용 Aspose.Imaging을 사용하면 변환 프로세스 중에 DICOM 메�
 ### Q5: .NET용 Aspose.Imaging 평가판을 사용할 수 있나요?
 
  A5: 예, .NET용 Aspose.Imaging 무료 평가판에 액세스하여 기능을 평가할 수 있습니다. 평가판을 다운로드할 수 있습니다[여기](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

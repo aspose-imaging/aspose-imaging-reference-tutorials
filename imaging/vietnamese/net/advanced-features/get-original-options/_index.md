@@ -3,10 +3,16 @@ title: Làm chủ Aspose.Imaging for .NET Hướng dẫn lấy các tùy chọn 
 linktitle: Nhận các tùy chọn gốc trong Aspose.Imaging cho .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Mở khóa toàn bộ tiềm năng của Aspose.Imaging cho .NET với hướng dẫn từng bước của chúng tôi để có được các tùy chọn ban đầu. Tìm hiểu cách làm việc với hình ảnh trong ứng dụng .NET của bạn một cách dễ dàng.
-type: docs
 weight: 10
 url: /vi/net/advanced-features/get-original-options/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Làm chủ Aspose.Imaging for .NET Hướng dẫn lấy các tùy chọn hình ảnh gốc
+
 Nếu bạn là nhà phát triển .NET đang tìm cách nâng cao khả năng xử lý hình ảnh của mình thì Aspose.Imaging for .NET là giải pháp phù hợp cho bạn. Thư viện mạnh mẽ này cung cấp nhiều tính năng và một trong những bước đầu tiên để khai thác toàn bộ tiềm năng của nó là hiểu cách có được các tùy chọn ban đầu của hình ảnh. Trong hướng dẫn từng bước này, chúng tôi sẽ hướng dẫn bạn quy trình nhận các tùy chọn ban đầu trong Aspose.Imaging cho .NET, chia nhỏ thành các bước đơn giản, dễ thực hiện.
 
 ## Điều kiện tiên quyết
@@ -113,3 +119,9 @@ Câu trả lời 1: Aspose.Imaging for .NET là thư viện xử lý hình ảnh
 ### Câu hỏi 5: Aspose.Imaging for .NET có phù hợp cho cả người mới bắt đầu và nhà phát triển có kinh nghiệm không?
 
 Câu trả lời 5: Có, Aspose.Imaging for .NET được thiết kế để đáp ứng nhu cầu của cả người mới bắt đầu và nhà phát triển có kinh nghiệm. API thân thiện với người dùng và tài liệu mở rộng giúp các nhà phát triển ở mọi cấp độ kỹ năng có thể truy cập được.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

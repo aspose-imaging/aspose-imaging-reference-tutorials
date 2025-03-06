@@ -3,10 +3,16 @@ title: Aspose.Imaging for Java を使用した WMF イメージの作成
 linktitle: WMF メタファイル イメージの生成
 second_title: Aspose.Imaging Java 画像処理 API
 description: Aspose.Imaging を使用して Java で WMF メタファイル イメージを作成する方法を学習します。強力な画像生成機能については、このステップバイステップ ガイドに従ってください。
-type: docs
 weight: 10
 url: /ja/java/metafile-and-vector-image-handling/generate-wmf-metafile-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for Java を使用した WMF イメージの作成
+
 Java アプリケーションで WMF (Windows メタファイル) イメージを作成したいと考えていますか? Aspose.Imaging for Java は、WMF イメージを簡単に生成できる強力なツールです。このステップバイステップ ガイドでは、Aspose.Imaging for Java を使用して WMF メタファイル イメージを作成するプロセスを説明します。 
 
 ## 前提条件
@@ -200,3 +206,9 @@ A3: 基本的な Java プログラミング知識が必要ですが、Aspose.Ima
 ### Q5: Aspose.Imaging for Java に関するサポートや質問はどこで受けられますか?
 
 A5: サポートを見つけたり、Aspose コミュニティに参加したりできます。[Aspose.Imaging フォーラム](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

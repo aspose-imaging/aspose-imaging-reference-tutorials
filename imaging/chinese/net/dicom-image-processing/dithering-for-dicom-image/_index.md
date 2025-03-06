@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for .NET 轻松实现 DICOM 图像抖动
 linktitle: Aspose.Imaging for .NET 中的 DICOM 图像抖动
 second_title: Aspose.Imaging .NET 图像处理 API
 description: 了解如何使用 Aspose.Imaging for .NET 对 DICOM 图像执行阈值抖动。轻松提高图像质量并减少调色板。
-type: docs
 weight: 22
 url: /zh/net/dicom-image-processing/dithering-for-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for .NET 轻松实现 DICOM 图像抖动
+
 抖动是一种基本的图像处理技术，用于减少图像中的颜色数量，同时保持视觉质量。在本分步指南中，我们将探讨如何使用 Aspose.Imaging for .NET 对 DICOM 图像执行抖动。这个强大的库提供了广泛的图像操作和处理功能，使其成为处理医学图像的开发人员的绝佳选择。 
 
 ## 先决条件
@@ -92,3 +98,9 @@ A4：Aspose.Imaging for .NET 的一些替代品包括 ImageMagick、OpenCV 和 A
 ### Q5：如何获得 Aspose.Imaging for .NET 支持？
 
  A5：您可以在以下位置找到帮助和支持：[Aspose.Imaging 论坛](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Binaryzacja z progiem adaptacyjnym Bradleya na obrazie DICOM w Aspose.Ima
 linktitle: Binaryzacja z progiem adaptacyjnym Bradleya na obrazie DICOM w Aspose.Imaging dla .NET
 second_title: Aspose.Imaging .NET API przetwarzania obrazu
 description: Dowiedz się, jak zastosować próg adaptacyjny Bradleya do obrazów DICOM przy użyciu Aspose.Imaging dla .NET. Łatwa binaryzacja dzięki przewodnikowi krok po kroku.
-type: docs
 weight: 14
 url: /pl/net/dicom-image-processing/binarization-with-bradleys-adaptive-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binaryzacja z progiem adaptacyjnym Bradleya na obrazie DICOM w Aspose.Imaging dla .NET
+
 Czy chcesz zastosować próg adaptacyjny Bradleya do obrazu DICOM przy użyciu Aspose.Imaging dla .NET? W tym obszernym samouczku przeprowadzimy Cię krok po kroku przez cały proces. Pod koniec tego przewodnika będziesz w stanie efektywnie przeprowadzać binaryzację obrazów DICOM. Omówimy wszystko, od wymagań wstępnych po importowanie przestrzeni nazw i podzielenie każdego przykładu na wiele kroków.
 
 ## Warunki wstępne
@@ -97,3 +103,9 @@ Odpowiedź 2: Tak, możesz przeglądać wiele obrazów DICOM i zastosować proce
 ### P5: Jak mogę uzyskać wsparcie dla Aspose.Imaging dla .NET?
 
  Odpowiedź 5: Możesz dołączyć do społeczności Aspose i uzyskać wsparcie od innych programistów na stronie[Forum Aspose](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

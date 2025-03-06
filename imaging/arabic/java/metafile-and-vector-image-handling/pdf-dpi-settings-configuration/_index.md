@@ -3,10 +3,16 @@ title: تحويل الصور إلى PDF باستخدام Aspose.Imaging لـ Jav
 linktitle: تكوين إعدادات PDF DPI
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: تعرف على كيفية تحويل الصور إلى PDF باستخدام Aspose.Imaging for Java. دليل خطوة بخطوة لمعالجة الصور بكفاءة.
-type: docs
 weight: 13
 url: /ar/java/metafile-and-vector-image-handling/pdf-dpi-settings-configuration/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# تحويل الصور إلى PDF باستخدام Aspose.Imaging لـ Java
+
 في العصر الرقمي الحالي، تعد القدرة على معالجة الصور وتحويلها مهارة قيمة. سواء كنت تعمل على مشروع تصميم رسومي، أو تقوم بأرشفة المستندات، أو تحتاج ببساطة إلى تحويل الصور إلى تنسيق يسهل الوصول إليه، فإن Aspose.Imaging for Java يعد حلاً قويًا. في هذا الدليل التفصيلي، سنستكشف كيفية تحويل الصور إلى PDF باستخدام Aspose.Imaging for Java.
 
 ## المتطلبات الأساسية
@@ -94,3 +100,9 @@ A1: Aspose.Imaging for Java ليس أداة مجانية. إنها مكتبة ت
 ### س5: هل يمكنني تخصيص إعدادات PDF بشكل أكبر عند تحويل الصور؟
 
 ج5: بالتأكيد! يمكنك تعديل خيارات PDF لتناسب احتياجاتك، مثل ضبط الضغط وإعداد البيانات التعريفية والمزيد. راجع الوثائق للحصول على خيارات مفصلة.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Обрезка изображений DICOM с помощью Aspose.Imag
 linktitle: Обрезка DICOM по сдвигам в Aspose.Imaging for .NET
 second_title: API обработки изображений Aspose.Imaging .NET
 description: Узнайте, как обрезать изображения DICOM с помощью Aspose.Imaging for .NET. Улучшите обработку медицинских изображений с помощью этого пошагового руководства.
-type: docs
 weight: 18
 url: /ru/net/dicom-image-processing/dicom-cropping-by-shifts/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Обрезка изображений DICOM с помощью Aspose.Imaging for .NET
+
 Обрезка медицинских изображений, особенно изображений DICOM, является важнейшей задачей в сфере здравоохранения. Это позволяет медицинским работникам сосредоточиться на конкретных областях интересов, удалять ненужные элементы и улучшать визуальное представление диагностических данных. В этом уроке мы рассмотрим, как обрезать изображения DICOM с помощью Aspose.Imaging for .NET, мощной библиотеки, которая упрощает задачи обработки изображений в приложениях .NET.
 
 ## Предварительные условия
@@ -100,3 +106,9 @@ A1: DICOM означает цифровую визуализацию и комм
 ### Вопрос 5: Могу ли я использовать Aspose.Imaging for .NET в немедицинских приложениях для обработки изображений?
 
 А5: Абсолютно! Несмотря на то, что Aspose.Imaging for .NET отлично подходит для медицинской визуализации, его можно использовать для широкого спектра задач обработки изображений в различных областях.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Applying Filters to DICOM Images with Aspose.Imaging for .NET
 linktitle: Apply Filter on DICOM Image in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to apply filters to DICOM images using Aspose.Imaging for .NET. Enhance medical image processing with ease.
-type: docs
 weight: 13
 url: /net/dicom-image-processing/apply-filter-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Applying Filters to DICOM Images with Aspose.Imaging for .NET
+
 If you're looking to enhance your skills in image processing using Aspose.Imaging for .NET, you've come to the right place. In this step-by-step tutorial, we'll guide you through the process of applying filters to DICOM images. This powerful library allows you to manipulate and process various image formats, including DICOM, with ease. We'll break down the process into manageable steps, ensuring that you grasp each concept thoroughly. Let's dive in!
 
 ## Prerequisites
@@ -90,3 +96,10 @@ A4: You can access the documentation [here](https://reference.aspose.com/imaging
 ### Q5: How can I get a temporary license for Aspose.Imaging?
 
 A5: You can obtain a temporary license from [here](https://purchase.aspose.com/temporary-license/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

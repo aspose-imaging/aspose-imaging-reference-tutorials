@@ -3,10 +3,16 @@ title: Verbeter gekleurde afbeeldingen met Wiener Filter met Aspose.Imaging voor
 linktitle: Pas het Wiener-filter toe op gekleurde afbeeldingen
 second_title: Aspose.Imaging Java-beeldverwerkings-API
 description: Leer hoe u het Wiener-filter kunt toepassen op gekleurde afbeeldingen in Java met behulp van Aspose.Imaging voor Java. Verbeter de beeldkwaliteit en verminder ruis moeiteloos.
-type: docs
 weight: 18
 url: /nl/java/image-processing-and-enhancement/apply-wiener-filter-to-colored-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Verbeter gekleurde afbeeldingen met Wiener Filter met Aspose.Imaging voor Java
+
 Als u de kwaliteit van uw gekleurde afbeeldingen wilt verbeteren en ruis wilt verminderen, bent u bij Aspose.Imaging for Java aan het juiste adres. In deze stapsgewijze zelfstudie leiden we u door het proces van het toepassen van het Wiener-filter op gekleurde afbeeldingen. Wiener-filtering is een krachtige techniek die de beeldkwaliteit aanzienlijk kan verbeteren. Laten we beginnen!
 
 ## Vereisten
@@ -103,3 +109,9 @@ A2: Ja, Aspose.Imaging voor Java is compatibel met verschillende Java-bibliothek
 ### V5: Kan ik Aspose.Imaging voor commerciële doeleinden gebruiken?
 
 A5: Ja, u kunt Aspose.Imaging voor Java gebruiken voor commerciële projecten. Voor het verkrijgen van een licentie kunt u terecht bij de[aankooppagina](https://purchase.aspose.com/buy).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

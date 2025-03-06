@@ -3,11 +3,16 @@ title: Tìm hiểu Xử lý hình ảnh với Aspose.Imaging
 linktitle: Hướng dẫn về Aspose.Imaging
 additionalTitle: Tham khảo API Aspose
 description: Tìm hiểu Xử lý hình ảnh với Aspose.Imaging - Nắm vững nghệ thuật xử lý và nâng cao hình ảnh với Aspose.Imaging. Hãy hòa mình vào thế giới xử lý hình ảnh tiên tiến ngày nay.
-type: docs
 weight: 11
 url: /vi/
-is_root: true
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Tìm hiểu Xử lý hình ảnh với Aspose.Imaging
+
 
 Bạn đã sẵn sàng để mở khóa thế giới xử lý hình ảnh hấp dẫn chưa? Nếu bạn từng thắc mắc làm thế nào để nâng cao, thao tác và tối ưu hóa hình ảnh một cách dễ dàng thì bạn đã đến đúng nơi. Chào mừng bạn đến với vương quốc Aspose.Imaging, cánh cổng để bạn trở thành chuyên gia xử lý hình ảnh thực thụ.
 
@@ -42,3 +47,10 @@ Trong lĩnh vực xử lý hình ảnh Java, Aspose.Imaging for Java nổi lên 
 - [Chuyển đổi và xử lý tài liệu](./java/document-conversion-and-processing/)
 - [Xử lý hình ảnh siêu dữ liệu và vectơ](./java/metafile-and-vector-image-handling/)
 
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

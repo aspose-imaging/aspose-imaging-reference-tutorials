@@ -3,10 +3,16 @@ title: Menguasai Gambar Garis di Aspose.Imaging untuk .NET
 linktitle: Gambar Garis di Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Pelajari cara menggambar garis yang tepat di Aspose.Imaging untuk .NET. Panduan langkah demi langkah ini mencakup pembuatan gambar, menggambar garis, dan banyak lagi.
-type: docs
 weight: 13
 url: /id/net/basic-drawing/draw-lines/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Menguasai Gambar Garis di Aspose.Imaging untuk .NET
+
 Jika Anda ingin membuat gambar menakjubkan dengan garis presisi di aplikasi .NET Anda, Aspose.Imaging for .NET adalah alat canggih yang dapat membantu Anda mencapai hal ini. Dalam tutorial ini, kami akan memandu Anda melalui proses menggambar garis menggunakan Aspose.Imaging untuk .NET. Panduan langkah demi langkah ini akan mencakup semuanya mulai dari menyiapkan namespace yang diperlukan hingga membuat gambar indah dengan garis.
 
 ## Prasyarat
@@ -124,3 +130,9 @@ A4: Ya, Aspose.Imaging for .NET kompatibel dengan .NET Core, sehingga cocok untu
 ### Q5: Apakah tersedia versi uji coba gratis Aspose.Imaging untuk .NET?
 
  A5: Ya, Anda dapat mencoba Aspose.Imaging untuk .NET dengan mengunduh uji coba gratis dari[Di Sini](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging .NET 解鎖圖片轉換的魔力
 linktitle: 影像轉換
 second_title: Aspose.Imaging .NET 映像處理 API
 description: 使用 Aspose.Imaging for .NET 探索影像轉換的藝術。了解輕鬆翻轉和旋轉 DICOM 影像以用於醫療應用等。
-type: docs
 weight: 24
 url: /zh-hant/net/image-transformation/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging .NET 解鎖圖片轉換的魔力
+
 
 您準備好深入研究影像轉換的世界了嗎？ Aspose.Imaging for .NET 打開了無縫、有效率地處理 DICOM 影像的大門，專為醫療應用及其他領域量身定制。在這個綜合教程中，我們將引導您完成兩種基本的影像轉換技術：翻轉和旋轉 DICOM 影像。 
 
@@ -37,3 +43,9 @@ url: /zh-hant/net/image-transformation/
 ## 結論
 
 Aspose.Imaging for .NET 讓您能夠掌握影像轉換的藝術，使其成為醫療專業人員和開發人員等的寶貴工具。無論您需要翻轉還是旋轉 DICOM 影像，本教學都提供了進入影像處理世界的無縫之旅。立即使用 Aspose.Imaging for .NET 提升您的醫療應用程式和影像處理。立即解鎖圖片轉換的魔力！
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Obrázky DICOM ve stupních šedi s Aspose.Imaging pro .NET
 linktitle: Stupně šedi na DICOM v Aspose.Imaging pro .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Naučte se, jak provádět odstíny šedi na obrázcích DICOM pomocí Aspose.Imaging for .NET, výkonné knihovny pro zpracování obrázků.
-type: docs
 weight: 24
 url: /cs/net/dicom-image-processing/grayscale-on-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Obrázky DICOM ve stupních šedi s Aspose.Imaging pro .NET
+
 Pokud pracujete s lékařskými zobrazovacími daty ve formátu DICOM a potřebujete provést transformace ve stupních šedi, Aspose.Imaging for .NET nabízí výkonné řešení. V tomto tutoriálu krok za krokem vás provedeme procesem škálování šedi obrazu DICOM pomocí Aspose.Imaging. Tato knihovna je všestranný nástroj, který umožňuje pracovat s různými formáty obrázků, včetně DICOM, v prostředí .NET. Začněme!
 
 ## Předpoklady
@@ -85,3 +91,9 @@ Odpověď 2: Ano, Aspose.Imaging je všestranná knihovna, která dokáže zprac
 ### Q5: Jak mohu získat podporu pro Aspose.Imaging?
 
  A5: Pokud máte nějaké dotazy nebo potřebujete pomoc, můžete navštívit[Fórum Aspose.Imaging](https://forum.aspose.com/) požádat o pomoc komunitu nebo kontaktovat jejich tým podpory.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

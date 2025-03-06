@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for Java 使用維納濾波器增強彩色影像
 linktitle: 將維納濾波器應用於彩色影像
 second_title: Aspose.Imaging Java 圖像處理 API
 description: 了解如何使用 Aspose.Imaging for Java 將維納濾波器套用至 Java 中的彩色影像。輕鬆提高影像品質並減少雜訊。
-type: docs
 weight: 18
 url: /zh-hant/java/image-processing-and-enhancement/apply-wiener-filter-to-colored-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for Java 使用維納濾波器增強彩色影像
+
 如果您希望提高彩色影像的品質並減少雜訊，Aspose.Imaging for Java 可以滿足您的要求。在本逐步教學中，我們將引導您完成將維納濾波器應用於彩色影像的過程。維納濾波是一種強大的技術，可以顯著提高影像品質。讓我們開始吧！
 
 ## 先決條件
@@ -103,3 +109,9 @@ A2：是的，Aspose.Imaging for Java 與各種 Java 函式庫相容，可以無
 ### Q5：我可以將Aspose.Imaging用於商業目的嗎？
 
 A5：是的，您可以將 Aspose.Imaging for Java 用於商業專案。要獲得許可證，您可以訪問[購買頁面](https://purchase.aspose.com/buy).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

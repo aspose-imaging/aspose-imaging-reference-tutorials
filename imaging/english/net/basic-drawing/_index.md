@@ -3,10 +3,16 @@ title: Basic Drawing with Aspose.Imaging for .NET
 linktitle: Basic Drawing
 second_title: Aspose.Imaging .NET Image Processing API
 description: Discover the art of drawing with Aspose.Imaging for .NET. Create stunning visuals through step-by-step guides on arcs, Bezier curves, ellipses, lines, and rectangles.
-type: docs
 weight: 22
 url: /net/basic-drawing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Basic Drawing with Aspose.Imaging for .NET
+
 
 If you've ever marveled at the beauty of digital graphics and wondered how to create them, you're in the right place. Aspose.Imaging for .NET opens up a world of possibilities, allowing you to unleash your creativity through drawing. In this article, we will walk you through the basic drawing tutorials using Aspose.Imaging for .NET, a powerful image manipulation tool. Whether you're a seasoned developer or just dipping your toes into the world of .NET graphics, these step-by-step guides will make the process easy and enjoyable.
 
@@ -52,3 +58,9 @@ Learn to draw ellipses in Aspose.Imaging for .NET, a versatile image manipulatio
 Learn how to draw precise lines in Aspose.Imaging for .NET. This step-by-step guide covers image creation, line drawing, and more.
 ### [Draw Rectangle in Aspose.Imaging for .NET](./draw-rectangle/)
 Learn to draw rectangles in Aspose.Imaging for .NET - a versatile tool for image manipulation in your .NET applications.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

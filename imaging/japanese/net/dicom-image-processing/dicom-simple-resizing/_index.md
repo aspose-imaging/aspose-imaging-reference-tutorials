@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET を使用して DICOM 画像のサイズを変更
 linktitle: Aspose.Imaging for .NET での DICOM の単純なサイズ変更
 second_title: Aspose.Imaging .NET 画像処理 API
 description: 医療画像処理用の強力なツールである Aspose.Imaging for .NET を使用して DICOM 画像のサイズを変更する方法を学びます。シンプルな手順で正確な結果が得られます。
-type: docs
 weight: 19
 url: /ja/net/dicom-image-processing/dicom-simple-resizing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET を使用して DICOM 画像のサイズを変更する
+
 進化し続ける医用画像処理の分野では、DICOM (Digital Imaging and Communications in Medicine) ファイルを処理する際の柔軟性と精度の必要性が最も重要です。 Aspose.Imaging for .NET は強力なソリューションとして登場し、医療画像を操作するための包括的なツール セットを提供します。このチュートリアルでは、Aspose.Imaging for .NET を使用して DICOM 画像のサイズを変更する簡単なプロセスを説明します。 
 
 ## 前提条件
@@ -114,3 +120,9 @@ A4: Aspose.Imaging for .NET は、.NET Core や .NET Standard を含む、.NET F
 ### Q5: Aspose.Imaging for .NET チュートリアルの詳細はどこで見つけられますか?
 
  A5: を探索できます。[Aspose.Imaging for .NET ドキュメント](https://reference.aspose.com/imaging/net/)幅広いチュートリアルと例をご覧ください。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

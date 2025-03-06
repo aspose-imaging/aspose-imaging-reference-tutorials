@@ -3,10 +3,16 @@ title: Pemfilteran Gambar DICOM dengan Aspose.Imaging untuk Java
 linktitle: Aplikasi Filter Gambar DICOM
 second_title: Aspose.Imaging API Pemrosesan Gambar Java
 description: Pelajari cara menerapkan filter ke gambar DICOM menggunakan Aspose.Imaging untuk Java. Tingkatkan pencitraan medis dengan mudah.
-type: docs
 weight: 26
 url: /id/java/image-processing-and-enhancement/dicom-image-filter-application/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Pemfilteran Gambar DICOM dengan Aspose.Imaging untuk Java
+
 Seiring kemajuan bidang pencitraan medis, kemampuan memproses gambar DICOM (Digital Imaging and Communications in Medicine) menjadi semakin penting. Gambar DICOM kaya akan informasi medis, namun terkadang memerlukan penyempurnaan dan filter untuk meningkatkan kualitasnya atau mengekstrak fitur tertentu. Dalam panduan komprehensif ini, kami akan memandu Anda melalui proses penerapan filter pada gambar DICOM menggunakan Aspose.Imaging untuk Java. Pustaka canggih ini menyediakan beragam fitur untuk pemrosesan dan manipulasi gambar, menjadikannya alat yang sangat berharga bagi profesional kesehatan, peneliti, dan pengembang.
 
 ## Prasyarat
@@ -109,3 +115,9 @@ A4: Ya, Aspose.Imaging for Java menawarkan beragam filter dan opsi untuk pemrose
 ### Q5: Di mana saya bisa mendapatkan dukungan untuk Aspose.Imaging untuk Java?
 
  A5: Anda dapat mengunjungi forum komunitas Aspose.Imaging[Di Sini](https://forum.aspose.com/) untuk bertanya, mencari bantuan, dan terlibat dengan komunitas.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

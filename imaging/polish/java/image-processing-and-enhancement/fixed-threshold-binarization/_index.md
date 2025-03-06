@@ -3,10 +3,16 @@ title: Master Stała binaryzacja progowa za pomocą Aspose.Imaging dla Java
 linktitle: Naprawiono binaryzację progową
 second_title: Aspose.Imaging API przetwarzania obrazu Java
 description: Dowiedz się, jak przeprowadzić binaryzację ze stałym progiem na obrazach przy użyciu Aspose.Imaging dla Java.
-type: docs
 weight: 21
 url: /pl/java/image-processing-and-enhancement/fixed-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Master Stała binaryzacja progowa za pomocą Aspose.Imaging dla Java
+
 ## Wstęp
 
 W dziedzinie programowania w języku Java dostępnych jest wiele narzędzi i bibliotek do obsługi różnych zadań związanych z przetwarzaniem obrazów. Jedną z takich potężnych i wszechstronnych bibliotek jest Aspose.Imaging dla Java. Niezależnie od tego, czy jesteś doświadczonym programistą, czy dopiero zaczynasz swoją przygodę z manipulacją obrazami, Aspose.Imaging zapewnia solidny zestaw funkcji usprawniających Twoje zadania. W tym samouczku zagłębimy się w jedną z podstawowych technik przetwarzania obrazu - binaryzację ze stałym progiem - przy użyciu Aspose.Imaging dla Java.
@@ -119,3 +125,9 @@ O3: Tak, istnieją alternatywne biblioteki, takie jak Java Advanced Imaging (JAI
 ### P5: Czy mogę wykonywać inne zadania przetwarzania obrazu za pomocą Aspose.Imaging for Java?
 
 A5: Absolutnie! Aspose.Imaging dla Java oferuje szeroką gamę funkcji przetwarzania obrazu, w tym zmianę rozmiaru, kadrowanie, filtrowanie i inne.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

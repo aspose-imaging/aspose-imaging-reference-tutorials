@@ -3,10 +3,16 @@ title: Divida quadros TIFF com Aspose.Imaging para Java
 linktitle: Divisão de quadro de imagem TIFF
 second_title: API de processamento de imagem Java Aspose.Imaging
 description: Aprenda como dividir quadros de imagem TIFF usando Aspose.Imaging for Java. Guia passo a passo com pré-requisitos, exemplo de código e perguntas frequentes para desenvolvedores.
-type: docs
 weight: 21
 url: /pt/java/image-conversion-and-optimization/tiff-image-frame-splitting/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Divida quadros TIFF com Aspose.Imaging para Java
+
 ## Introdução
 
 No mundo digital de hoje, onde as imagens desempenham um papel fundamental na transmissão de informações, o Aspose.Imaging for Java se destaca como uma ferramenta poderosa para desenvolvedores. Esta versátil biblioteca Java permite manipular e processar vários formatos de imagem, abrindo portas para infinitas possibilidades criativas. Esteja você trabalhando em um projeto que requer divisão de quadros de imagem, conversão de formato ou aprimoramento de imagem, o Aspose.Imaging for Java está à sua volta.
@@ -117,3 +123,9 @@ Com o conhecimento adquirido neste tutorial, agora você está equipado para exp
 ### Q5: O Aspose.Imaging for Java oferece suporte a outros formatos de imagem além do TIFF?
 
 R5: Sim, Aspose.Imaging for Java oferece suporte a uma ampla variedade de formatos de imagem, incluindo JPEG, PNG, BMP e muito mais.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

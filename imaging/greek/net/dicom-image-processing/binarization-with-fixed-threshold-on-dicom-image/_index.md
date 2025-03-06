@@ -3,10 +3,16 @@ title: Binarization με σταθερό κατώφλι στην εικόνα DIC
 linktitle: Binarization με σταθερό κατώφλι στην εικόνα DICOM στο Aspose.Imaging για .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Μάθετε πώς να κάνετε δυαδοποίηση σε μια εικόνα DICOM χρησιμοποιώντας το Aspose.Imaging για .NET. Οδηγός βήμα προς βήμα με παραδείγματα κώδικα.
-type: docs
 weight: 15
 url: /el/net/dicom-image-processing/binarization-with-fixed-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binarization με σταθερό κατώφλι στην εικόνα DICOM στο Aspose.Imaging για .NET
+
 Είστε έτοιμοι να βουτήξετε στον κόσμο της ψηφιακής επεξεργασίας εικόνας χρησιμοποιώντας το Aspose.Imaging για .NET; Σε αυτό το βήμα προς βήμα σεμινάριο, θα εξερευνήσουμε πώς να εκτελείτε δυαδοποίηση με ένα σταθερό όριο σε μια εικόνα DICOM. Η δυαδοποίηση είναι μια θεμελιώδης τεχνική επεξεργασίας εικόνας που μετατρέπει μια εικόνα σε κλίμακα του γκρι σε δυαδική εικόνα, καθιστώντας την ένα απαραίτητο εργαλείο για διάφορες εφαρμογές, από ιατρική απεικόνιση έως ανάλυση εγγράφων.
 
 ## Προαπαιτούμενα
@@ -106,3 +112,10 @@ image.Save(dataDir + "BinarizationWithFixedThresholdOnDICOMImage_out.bmp", new B
 ### Ε5: Υπάρχει διαθέσιμη δοκιμαστική έκδοση του Aspose.Imaging για .NET;
 
  Ναι, μπορείτε να δοκιμάσετε το Aspose.Imaging για .NET κατεβάζοντας τη δοκιμαστική έκδοση από[εδώ](https://releases.aspose.com/). Σας επιτρέπει να εξερευνήσετε τα χαρακτηριστικά και τις λειτουργίες του πριν κάνετε μια αγορά.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

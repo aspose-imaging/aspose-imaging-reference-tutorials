@@ -3,10 +3,16 @@ title: Creating Images with Aspose.Imaging for .NET
 linktitle: Create an Image using Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to create images with Aspose.Imaging for .NET in this comprehensive tutorial.
-type: docs
 weight: 10
 url: /net/image-creation/create-an-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Creating Images with Aspose.Imaging for .NET
+
 In today's digital age, creating and manipulating images is a common requirement for various applications. Aspose.Imaging for .NET is a powerful tool that can help you achieve this task seamlessly. In this tutorial, we will walk you through the process of creating an image using Aspose.Imaging for .NET. Before we dive into the steps, let's ensure you have all the prerequisites in place.
 
 ## Prerequisites
@@ -100,3 +106,10 @@ A4: Yes, you can download a free trial version [here](https://releases.aspose.co
 ### Q5: What support options are available for Aspose.Imaging for .NET?
 
 A5: You can seek support and get your questions answered in the Aspose community forum [here](https://forum.aspose.com/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

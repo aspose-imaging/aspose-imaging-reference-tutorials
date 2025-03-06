@@ -3,10 +3,16 @@ title: Επέκταση και περικοπή εικόνας με Aspose.Imagi
 linktitle: Επέκταση και περικοπή εικόνας
 second_title: Aspose.Imaging Java Image Processing API
 description: Μάθετε πώς να επεκτείνετε και να περικόψετε εικόνες σε Java χρησιμοποιώντας το Aspose.Imaging. Βελτιώστε τις δεξιότητές σας στην επεξεργασία εικόνας με αυτόν τον οδηγό βήμα προς βήμα.
-type: docs
 weight: 11
 url: /el/java/document-conversion-and-processing/image-expansion-and-cropping/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Επέκταση και περικοπή εικόνας με Aspose.Imaging Java
+
 Στον κόσμο του ψηφιακού περιεχομένου, ο χειρισμός και η βελτίωση των εικόνων είναι μια κοινή εργασία, είτε είστε προγραμματιστής ιστού, γραφίστας ή δημιουργός περιεχομένου. Το Aspose.Imaging για Java είναι ένα ισχυρό εργαλείο που σας επιτρέπει να εκτελείτε απρόσκοπτα διάφορες λειτουργίες επεξεργασίας εικόνας. Σε αυτόν τον οδηγό βήμα προς βήμα, θα σας καθοδηγήσουμε στη διαδικασία επέκτασης και περικοπής εικόνων χρησιμοποιώντας το Aspose.Imaging σε Java.
 
 ## Προαπαιτούμενα
@@ -107,3 +113,9 @@ A4: Ναι, το Aspose.Imaging μπορεί να χρησιμοποιηθεί �
 ### Ε5: Πού μπορώ να βρω πρόσθετα παραδείγματα και πόρους για το Aspose.Imaging για Java;
 
  A5: Μπορείτε να εξερευνήσετε περισσότερα παραδείγματα κώδικα και πόρους στο[τεκμηρίωση](https://reference.aspose.com/imaging/java/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Kuasai Binarisasi Ambang Batas Tetap dengan Aspose.Imaging untuk Java
 linktitle: Binarisasi Ambang Batas Tetap
 second_title: Aspose.Imaging API Pemrosesan Gambar Java
 description: Pelajari cara melakukan Binarisasi Ambang Batas Tetap pada gambar menggunakan Aspose.Imaging untuk Java.
-type: docs
 weight: 21
 url: /id/java/image-processing-and-enhancement/fixed-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Kuasai Binarisasi Ambang Batas Tetap dengan Aspose.Imaging untuk Java
+
 ## Perkenalan
 
 Di dunia pemrograman Java, ada banyak alat dan perpustakaan yang tersedia untuk menangani berbagai tugas pemrosesan gambar. Salah satu perpustakaan yang kuat dan serbaguna adalah Aspose.Imaging untuk Java. Baik Anda seorang pengembang berpengalaman atau baru memulai perjalanan Anda dalam manipulasi gambar, Aspose.Imaging menyediakan serangkaian fitur canggih untuk menyederhanakan tugas Anda. Dalam tutorial ini, kita akan mempelajari salah satu teknik pemrosesan gambar dasar - Binarisasi Ambang Tetap - menggunakan Aspose.Imaging untuk Java.
@@ -119,3 +125,9 @@ A3: Ya, ada perpustakaan alternatif seperti Java Advanced Imaging (JAI) dan Imag
 ### Q5: Dapatkah saya melakukan tugas pemrosesan gambar lainnya dengan Aspose.Imaging untuk Java?
 
 A5: Tentu saja! Aspose.Imaging for Java menawarkan berbagai fitur pemrosesan gambar, termasuk mengubah ukuran, memotong, memfilter, dan banyak lagi.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

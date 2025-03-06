@@ -3,10 +3,16 @@ title: Bildkonvertierung und -optimierung
 linktitle: Bildkonvertierung und -optimierung
 second_title: Aspose.Imaging Java-Bildverarbeitungs-API
 description: Entdecken Sie Tutorials zur Bildkonvertierung und -optimierung mit Aspose.Imaging f체r Java. Erfahren Sie, wie Sie verschiedene Bildformate problemlos konvertieren, verbessern und optimieren.
-type: docs
 weight: 20
 url: /de/java/image-conversion-and-optimization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Bildkonvertierung und -optimierung
+
 
 # Einf체hrung
 
@@ -86,3 +92,9 @@ Meistern Sie die Kunst des Speicherns von Rasterbildrahmen mit Aspose.Imaging f�
 Erfahren Sie, wie Sie Rasterbilder in Java mit Aspose.Imaging f체r Java in das TIFF-Format konvertieren. Eine umfassende Anleitung zur Bildmanipulation.
 ### [TIFF-Bildrahmenaufteilung](./tiff-image-frame-splitting/)
 Erfahren Sie, wie Sie TIFF-Bildrahmen mit Aspose.Imaging f체r Java teilen. Schritt-f체r-Schritt-Anleitung mit Voraussetzungen, Codebeispiel und FAQs f체r Entwickler.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Convert CDR to PNG with Aspose.Imaging for .NET
 linktitle: Convert CDR to PNG in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to convert CDR to PNG in .NET using Aspose.Imaging. This step-by-step guide simplifies the process.
-type: docs
 weight: 11
 url: /net/image-format-conversion/convert-cdr-to-png/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Convert CDR to PNG with Aspose.Imaging for .NET
+
 ## Introduction
 
 Are you looking for a powerful and efficient way to convert CorelDRAW (CDR) files to PNG format in your .NET applications? Aspose.Imaging for .NET offers a reliable solution for this task. In this step-by-step guide, we will walk you through the process of converting CDR files to PNG using Aspose.Imaging. You don't need to be an expert in .NET to follow this tutorial. Let's get started.
@@ -103,3 +109,10 @@ A4: Aspose.Imaging supports a wide range of image formats, including BMP, JPEG, 
 ### Q5: Where can I get support or ask questions about Aspose.Imaging for .NET?
 
 A5: You can visit the [Aspose.Imaging forum](https://forum.aspose.com/) for support, questions, and discussions.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

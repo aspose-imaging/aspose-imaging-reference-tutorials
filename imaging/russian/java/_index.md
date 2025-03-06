@@ -1,12 +1,17 @@
 ---
 title: Учебные пособия по обработке изображений Java с помощью Aspose.Imaging
 linktitle: Учебные пособия по Aspose.Imaging для Java
-type: docs
 weight: 10
 url: /ru/java/
 description: Изучите преобразование, улучшение и обработку изображений с помощью Aspose.Imaging для Java. Оптимизируйте изображения без особых усилий с помощью наших руководств.
-is_root: true
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Учебные пособия по обработке изображений Java с помощью Aspose.Imaging
+
 
 Готовы ли вы погрузиться в мир обработки изображений с помощью Java? Aspose.Imaging здесь, чтобы помочь вам разобраться в сложном искусстве манипулирования изображениями и документами. В этой статье мы отправим вас в путешествие по богатой сокровищнице руководств Aspose.Imaging for Java, где вы сможете изучить чудеса преобразования, улучшения и обработки документов. Пришло время с легкостью раскрыть весь потенциал ваших изображений!
 
@@ -41,3 +46,9 @@ is_root: true
 Изучите подробные руководства по преобразованию и обработке документов с помощью Aspose.Imaging Java. Освойте манипулирование и преобразование изображений с помощью этих уроков.
 ### [Обработка метафайлов и векторных изображений](./metafile-and-vector-image-handling/)
 Раскройте потенциал Aspose.Imaging для Java с помощью наших пошаговых руководств. С легкостью создавайте изображения метафайлов WMF, обрабатывайте заголовки BMP и многое другое.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

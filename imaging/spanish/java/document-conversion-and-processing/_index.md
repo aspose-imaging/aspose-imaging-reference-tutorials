@@ -3,10 +3,16 @@ title: Conversión y procesamiento de documentos
 linktitle: Conversión y procesamiento de documentos
 second_title: Aspose.Imaging API de procesamiento de imágenes Java
 description: Explore tutoriales completos sobre conversión y procesamiento de documentos con Aspose.Imaging Java. Domina la manipulación y transformación de imágenes con estos tutoriales.
-type: docs
 weight: 22
 url: /es/java/document-conversion-and-processing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Conversión y procesamiento de documentos
+
 
 ## Introducción
 
@@ -94,3 +100,9 @@ Aprenda a optimizar y manipular imágenes con Aspose.Imaging para Java. Comience
 Aprenda a guardar fotogramas de una imagen TIFF en varios formatos ráster utilizando Aspose.Imaging para Java. Mejore la manipulación de imágenes en sus aplicaciones Java.
 ### [Recuperar datos de imágenes TIFF](./recovering-tiff-image-data/)
 Aprenda cómo recuperar datos de imágenes TIFF dañados usando Aspose.Imaging para Java. Restaure la integridad de la imagen con esta guía paso a paso.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

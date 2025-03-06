@@ -3,10 +3,16 @@ title: معالجة صور DICOM باستخدام Aspose.Imaging لـ .NET
 linktitle: معالجة الصور ديكوم
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: استكشف سلسلة شاملة من البرامج التعليمية حول معالجة صور DICOM باستخدام Aspose.Imaging for .NET. تعلم كيفية تحسين الصور الطبية دون عناء.
-type: docs
 weight: 28
 url: /ar/net/dicom-image-processing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# معالجة صور DICOM باستخدام Aspose.Imaging لـ .NET
+
 
 هل أنت حريص على إتقان فن معالجة صور DICOM باستخدام Aspose.Imaging for .NET؟ لا مزيد من البحث! في هذه السلسلة من البرامج التعليمية، سنرشدك عبر تقنيات مختلفة لتحسين الصور الطبية ومعالجتها بسهولة. سواء كنت متخصصًا في المجال الطبي، أو مطورًا، أو مجرد متعلم فضولي، فإن هذه البرامج التعليمية ستزودك بالمعرفة والمهارات اللازمة لتحقيق أقصى استفادة من Aspose.Imaging for .NET.
 
@@ -108,3 +114,9 @@ url: /ar/net/dicom-image-processing/
 تعرف على كيفية إجراء التدرج الرمادي على صور DICOM باستخدام Aspose.Imaging for .NET، وهي مكتبة قوية لمعالجة الصور.
 ### [دعم تخزين علامات XMP في Aspose.Imaging لـ .NET](./support-storing-xmp-tags/)
 تعرف على كيفية إضافة بيانات تعريف XMP إلى صور DICOM باستخدام Aspose.Imaging for .NET. قم بتحسين إدارة الصور وتنظيمها باستخدام هذا الدليل المفصّل خطوة بخطوة.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

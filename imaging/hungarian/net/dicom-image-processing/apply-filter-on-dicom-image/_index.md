@@ -3,10 +3,16 @@ title: Szűrők alkalmazása DICOM-képekre az Aspose.Imaging for .NET segítsé
 linktitle: Alkalmazzon szűrőt a DICOM képre az Aspose.Imaging for .NET-ben
 second_title: Aspose.Imaging .NET Image Processing API
 description: Ismerje meg, hogyan alkalmazhat szűrőket a DICOM-képekre az Aspose.Imaging for .NET segítségével. Fokozza az orvosi képfeldolgozást könnyedén.
-type: docs
 weight: 13
 url: /hu/net/dicom-image-processing/apply-filter-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Szűrők alkalmazása DICOM-képekre az Aspose.Imaging for .NET segítségével
+
 Ha fejleszteni szeretné képfeldolgozási képességeit az Aspose.Imaging for .NET segítségével, akkor jó helyen jár. Ebben a lépésről lépésre bemutatott oktatóanyagban végigvezetjük a szűrők DICOM-képekre történő alkalmazásának folyamatán. Ez a nagy teljesítményű könyvtár lehetővé teszi a különféle képformátumok, köztük a DICOM egyszerű kezelését és feldolgozását. A folyamatot kezelhető lépésekre bontjuk, így biztosítva, hogy minden koncepciót alaposan megértsen. Merüljünk el!
 
 ## Előfeltételek
@@ -90,3 +96,9 @@ V1: A DICOM (Digital Imaging and Communications in Medicine) az orvosi képek ke
 ### 5. kérdés: Hogyan szerezhetek ideiglenes licencet az Aspose.Imaging számára?
 
  5. válasz: Ideiglenes engedélyt szerezhet be[itt](https://purchase.aspose.com/temporary-license/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

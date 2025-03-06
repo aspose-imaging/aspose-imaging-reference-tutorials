@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for .NET 組合影像
 linktitle: 在 Aspose.Imaging for .NET 中組合影像
 second_title: Aspose.Imaging .NET 映像處理 API
 description: 學習在 Aspose.Imaging for .NET 中組合圖像。強大影像處理的分步指南。
-type: docs
 weight: 10
 url: /zh-hant/net/image-composition/combine-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for .NET 組合影像
+
 在當今的數位時代，影像處理和操作是許多應用程式（從網頁開發到圖形設計）不可或缺的一部分。 Aspose.Imaging for .NET 是一個功能強大的函式庫，使 .NET 開發人員能夠執行各種映像操作。在本逐步指南中，我們將探索如何使用 Aspose.Imaging for .NET 組合圖片。 
 
 ## 先決條件
@@ -132,3 +138,9 @@ A3：是的，Aspose.Imaging for .NET 為進階影像處理提供了廣泛的功
 ### 問題 5：我可以將 Aspose.Imaging for .NET 與其他 .NET 框架（例如 ASP.NET 或 WinForms）一起使用嗎？
 
 A5：當然。 Aspose.Imaging for .NET 與各種 .NET 框架相容，使其適用於不同類型的應用程序，包括 ASP.NET Web 應用程式和 Windows 窗體桌面應用程式。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

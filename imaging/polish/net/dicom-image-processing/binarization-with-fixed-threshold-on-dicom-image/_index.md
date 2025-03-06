@@ -3,10 +3,16 @@ title: Binaryzacja ze stałym progiem na obrazie DICOM w Aspose.Imaging dla .NET
 linktitle: Binaryzacja ze stałym progiem na obrazie DICOM w Aspose.Imaging dla .NET
 second_title: Aspose.Imaging .NET API przetwarzania obrazu
 description: Dowiedz się, jak przeprowadzić binaryzację obrazu DICOM przy użyciu Aspose.Imaging dla .NET. Przewodnik krok po kroku z przykładami kodu.
-type: docs
 weight: 15
 url: /pl/net/dicom-image-processing/binarization-with-fixed-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binaryzacja ze stałym progiem na obrazie DICOM w Aspose.Imaging dla .NET
+
 Czy jesteś gotowy, aby zanurzyć się w świat cyfrowego przetwarzania obrazu przy użyciu Aspose.Imaging dla .NET? W tym samouczku krok po kroku odkryjemy, jak przeprowadzić binaryzację ze stałym progiem na obrazie DICOM. Binaryzacja to podstawowa technika przetwarzania obrazu, która przekształca obraz w skali szarości na obraz binarny, co czyni go niezbędnym narzędziem do różnych zastosowań, od obrazowania medycznego po analizę dokumentów.
 
 ## Warunki wstępne
@@ -106,3 +112,10 @@ Absolutnie! Chociaż Aspose.Imaging jest powszechnie używany w medycynie, jest 
 ### P5: Czy dostępna jest wersja próbna Aspose.Imaging dla .NET?
 
  Tak, możesz wypróbować Aspose.Imaging dla .NET, pobierając wersję próbną z[Tutaj](https://releases.aspose.com/). Umożliwia zapoznanie się z jego funkcjami i funkcjonalnościami przed dokonaniem zakupu.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

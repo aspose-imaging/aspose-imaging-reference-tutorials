@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for .NET 進行 DICOM 影像對比度調整
 linktitle: 在 Aspose.Imaging for .NET 中調整 DICOM 影像的對比度
 second_title: Aspose.Imaging .NET 映像處理 API
 description: 使用 Aspose.Imaging for .NET 增強醫學影像。透過簡單的步驟調整 DICOM 影像對比度。
-type: docs
 weight: 11
 url: /zh-hant/net/dicom-image-processing/adjust-contrast-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for .NET 進行 DICOM 影像對比度調整
+
 在醫學成像領域，對影像品質的精確控制至關重要。 Aspose.Imaging for .NET 提供了一個強大的解決方案來輕鬆操作 DICOM 映像。在本逐步教學中，我們將引導您完成使用 Aspose.Imaging for .NET 調整 DICOM 影像對比度的過程。本教程專為想要增強醫學影像的可見性以用於診斷或研究目的的人而設計。 
 
 ## 先決條件
@@ -112,3 +118,9 @@ A4：是的，Aspose.Imaging for .NET 提供了廣泛的影像處理功能，包
 ### Q5：我可以使用 Aspose.Imaging for .NET 進行非醫學影像處理嗎？
 
 A5：當然！雖然 Aspose.Imaging 在醫學影像處理方面具有多種用途，但它也可用於一般影像處理任務。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

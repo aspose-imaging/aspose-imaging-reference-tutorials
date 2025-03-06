@@ -3,10 +3,16 @@ title: การวาดสี่เหลี่ยมใน Aspose.Imaging ส
 linktitle: วาดรูปสี่เหลี่ยมผืนผ้าใน Aspose.Imaging สำหรับ .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: เรียนรู้วิธีวาดรูปสี่เหลี่ยมใน Aspose.Imaging สำหรับ .NET - เครื่องมืออเนกประสงค์สำหรับการจัดการรูปภาพในแอปพลิเคชัน .NET ของคุณ
-type: docs
 weight: 14
 url: /th/net/basic-drawing/draw-rectangle/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# การวาดสี่เหลี่ยมใน Aspose.Imaging สำหรับ .NET
+
 การสร้างและจัดการรูปภาพในแอปพลิเคชัน .NET อาจเป็นงานที่ซับซ้อน แต่ด้วยประสิทธิภาพของ Aspose.Imaging สำหรับ .NET ทำให้กลายเป็นเรื่องง่ายอย่างน่าทึ่ง ในคำแนะนำทีละขั้นตอนนี้ เราจะแนะนำคุณตลอดขั้นตอนการวาดรูปสี่เหลี่ยมโดยใช้ Aspose.Imaging สำหรับ .NET คุณจะได้เรียนรู้วิธีสร้างรูปภาพ ตั้งค่าคุณสมบัติของรูปภาพ วาดรูปสี่เหลี่ยม และบันทึกงานของคุณ มาดำน้ำกันเถอะ!
 
 ## ข้อกำหนดเบื้องต้น
@@ -104,3 +110,9 @@ A4: ใช่ Aspose.Imaging สำหรับ .NET นำเสนอคุณ
 ### คำถามที่ 5: ฉันจะค้นหาแหล่งข้อมูลเพิ่มเติมและการสนับสนุนสำหรับ Aspose.Imaging สำหรับ .NET ได้ที่ไหน
 
  A5: คุณสามารถเข้าถึงเอกสารประกอบได้[ที่นี่](https://reference.aspose.com/imaging/net/) และขอการสนับสนุนในเรื่อง[Aspose ฟอรั่มการถ่ายภาพ](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

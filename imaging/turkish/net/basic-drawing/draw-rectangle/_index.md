@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET'te Dikdörtgen Çizimi
 linktitle: Aspose.Imaging for .NET'te Dikdörtgen Çizin
 second_title: Aspose.Imaging .NET Görüntü İşleme API'si
 description: .NET uygulamalarınızda görüntü işleme için çok yönlü bir araç olan Aspose.Imaging for .NET'te dikdörtgen çizmeyi öğrenin.
-type: docs
 weight: 14
 url: /tr/net/basic-drawing/draw-rectangle/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET'te Dikdörtgen Çizimi
+
 .NET uygulamalarında görüntüleri oluşturmak ve değiştirmek karmaşık bir iş olabilir, ancak Aspose.Imaging for .NET'in gücüyle bu oldukça basit hale geliyor. Bu adım adım kılavuzda Aspose.Imaging for .NET'i kullanarak dikdörtgen çizme sürecinde size yol göstereceğiz. Bir görüntüyü nasıl oluşturacağınızı, özelliklerini nasıl ayarlayacağınızı, dikdörtgenler çizeceğinizi ve çalışmanızı nasıl kaydedeceğinizi öğreneceksiniz. Hadi dalalım!
 
 ## Önkoşullar
@@ -104,3 +110,9 @@ Cevap4: Evet, Aspose.Imaging for .NET, görüntü yeniden boyutlandırma, dönd�
 ### S5: Aspose.Imaging for .NET için daha fazla kaynağı ve desteği nerede bulabilirim?
 
  Cevap5: Dokümantasyona erişebilirsiniz[Burada](https://reference.aspose.com/imaging/net/) ve bu konuda destek isteyin[Aspose.Görüntüleme forumu](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

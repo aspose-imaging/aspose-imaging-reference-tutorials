@@ -3,11 +3,16 @@ title: Apprenez le traitement d'image avec Aspose.Imaging
 linktitle: Tutoriels Aspose.Imaging
 additionalTitle: Références de l'API Aspose
 description: Apprenez le traitement d'images avec Aspose.Imaging - Maîtrisez l'art de la manipulation et de l'amélioration d'images avec Aspose.Imaging. Plongez dès aujourd’hui dans le monde du traitement d’image avancé.
-type: docs
 weight: 11
 url: /fr/
-is_root: true
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Apprenez le traitement d'image avec Aspose.Imaging
+
 
 Êtes-vous prêt à découvrir le monde fascinant du traitement d’images ? Si vous vous êtes déjà demandé comment améliorer, manipuler et optimiser des images sans effort, vous êtes au bon endroit. Bienvenue dans le royaume d'Aspose.Imaging, votre passerelle pour devenir un véritable gourou du traitement d'images.
 
@@ -42,3 +47,10 @@ Voici des liens vers quelques ressources utiles :
 - [Conversion et traitement de documents](./java/document-conversion-and-processing/)
 - [Gestion des métafichiers et des images vectorielles](./java/metafile-and-vector-image-handling/)
 
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

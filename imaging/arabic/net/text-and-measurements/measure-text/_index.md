@@ -3,10 +3,16 @@ title: قياس النص في الصور باستخدام Aspose.Imaging لـ .N
 linktitle: قياس النص في Aspose.Imaging لـ .NET
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: قياس النص في الصور باستخدام Aspose.Imaging لـ .NET. مكتبة .NET قوية. قياس النص دقيق وفعال.
-type: docs
 weight: 10
 url: /ar/net/text-and-measurements/measure-text/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# قياس النص في الصور باستخدام Aspose.Imaging لـ .NET
+
 إذا كنت مطور .NET وتسعى إلى معالجة الصور وقياس النص بدقة، فإن Aspose.Imaging for .NET يعد حلاً قويًا. في هذا الدليل التفصيلي، سنستكشف كيفية قياس النص باستخدام Aspose.Imaging، بدءًا من المتطلبات الأساسية وانتهاءً بمثال عملي. دعونا نتعمق في الأمر!
 
 ## المتطلبات الأساسية
@@ -95,3 +101,9 @@ using (Image backgroundImage = Image.Load("Your Image Path"))
 ### س5: كيف يمكنني تنزيل Aspose.Imaging لـ .NET؟
 
  ج5: يمكنك تنزيل Aspose.Imaging لـ .NET من ملف[صفحة التحميل](https://releases.aspose.com/imaging/net/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Σχεδιάστε εικόνες Raster σε EMF με Aspose.Imaging γ�
 linktitle: Σχεδιάστε εικόνα ράστερ σε EMF στο Aspose.Imaging για .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Μάθετε πώς να σχεδιάζετε εικόνες ράστερ σε αρχεία EMF χρησιμοποιώντας το Aspose.Imaging για .NET. Δημιουργήστε εκπληκτικά γραφικά χωρίς κόπο.
-type: docs
 weight: 10
 url: /el/net/vector-image-processing/draw-raster-image-on-emf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Σχεδιάστε εικόνες Raster σε EMF με Aspose.Imaging για .NET
+
 
 ## Εισαγωγή
 
@@ -121,3 +127,10 @@ using (EmfImage resultImage = graphics.EndRecording())
 ### 5. Πού μπορώ να λάβω υποστήριξη για το Aspose.Imaging;
 
  Για υποστήριξη και βοήθεια, μπορείτε να επισκεφτείτε το φόρουμ Aspose.Imaging[εδώ](https://forum.aspose.com/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

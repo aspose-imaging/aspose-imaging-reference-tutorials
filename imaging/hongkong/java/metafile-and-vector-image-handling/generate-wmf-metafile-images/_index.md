@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for Java 建立 WMF 影像
 linktitle: 產生 WMF 圖元檔案影像
 second_title: Aspose.Imaging Java 圖像處理 API
 description: 了解如何使用 Aspose.Imaging 在 Java 中建立 WMF 圖元檔案影像。請按照此逐步指南獲得強大的圖像生成功能。
-type: docs
 weight: 10
 url: /zh-hant/java/metafile-and-vector-image-handling/generate-wmf-metafile-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for Java 建立 WMF 影像
+
 您是否希望使用 Java 應用程式建立 WMF（Windows 圖元檔案）映像？ Aspose.Imaging for Java 是一個功能強大的工具，可讓您輕鬆產生 WMF 映像。在本逐步指南中，我們將引導您完成使用 Aspose.Imaging for Java 建立 WMF 圖元檔案影像的過程。 
 
 ## 先決條件
@@ -200,3 +206,9 @@ A3：雖然需要基本的 Java 程式設計知識，但 Aspose.Imaging for Java
 ### Q5：我可以在哪裡獲得有關 Aspose.Imaging for Java 的支援或提出問題？
 
 A5：您可以在以下位置找到支持並與 Aspose 社群互動：[Aspose.Imaging 論壇](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

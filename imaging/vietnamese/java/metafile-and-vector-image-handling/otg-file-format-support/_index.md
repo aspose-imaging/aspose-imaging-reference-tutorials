@@ -3,10 +3,16 @@ title: Xử lý hình ảnh dễ dàng với Aspose.Imaging cho Java
 linktitle: Hỗ trợ định dạng tệp OOT
 second_title: Aspose.Imaging API xử lý hình ảnh Java
 description: Tìm hiểu cách khai thác sức mạnh của Aspose.Imaging cho Java trong hướng dẫn từng bước này. Tối ưu hóa xử lý hình ảnh của bạn một cách dễ dàng.
-type: docs
 weight: 14
 url: /vi/java/metafile-and-vector-image-handling/otg-file-format-support/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Xử lý hình ảnh dễ dàng với Aspose.Imaging cho Java
+
 Bạn đang muốn khai thác sức mạnh của Aspose.Imaging dành cho Java để xử lý các tác vụ liên quan đến hình ảnh một cách dễ dàng? Đừng tìm đâu xa! Trong hướng dẫn toàn diện này, chúng tôi sẽ hướng dẫn bạn các bước cần thiết để bắt đầu với Aspose.Imaging cho Java, từ các điều kiện tiên quyết đến nhập gói và chia nhỏ các ví dụ. Hãy cùng tìm hiểu ngay và khám phá tiềm năng của thư viện Java đa năng này.
 
 ## Điều kiện tiên quyết
@@ -136,3 +142,9 @@ Câu trả lời 4: Bạn có thể nhận được giấy phép tạm thời ch
 ### Câu hỏi 5: Tôi có thể tìm kiếm sự hỗ trợ và trợ giúp cho Aspose.Imaging cho Java ở đâu?
 
  Câu trả lời 5: Nếu có bất kỳ câu hỏi hoặc gặp sự cố nào, bạn có thể truy cập diễn đàn hỗ trợ Aspose.Imaging for Java tại[Diễn đàn Aspose](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -1,12 +1,17 @@
 ---
 title: บทช่วยสอนที่ครอบคลุมและตัวอย่างของ Aspose.Imaging สำหรับ .NET
 linktitle: Aspose.Imaging สำหรับบทช่วยสอน .NET
-type: docs
 weight: 10
 url: /th/net/
 description: ค้นพบพลังของ Aspose.Imaging สำหรับ .NET ด้วยบทช่วยสอนเชิงลึกของเรา ตั้งแต่การจัดองค์ประกอบภาพไปจนถึงคุณสมบัติขั้นสูง พัฒนาทักษะและยกระดับเกมการประมวลผลภาพของคุณ
-is_root: true
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# บทช่วยสอนที่ครอบคลุมและตัวอย่างของ Aspose.Imaging สำหรับ .NET
+
 
 ยินดีต้อนรับสู่คู่มือที่ครอบคลุมของเราเกี่ยวกับ Aspose.Imaging สำหรับ .NET! ไม่ว่าคุณจะเป็นมือใหม่หรือผู้เชี่ยวชาญ บทช่วยสอนเหล่านี้จะช่วยให้คุณเชี่ยวชาญในการประมวลผลภาพโดยใช้เครื่องมืออันทรงพลังนี้ ตั้งแต่การจัดองค์ประกอบภาพไปจนถึงคุณสมบัติขั้นสูง เราช่วยคุณได้
 
@@ -72,3 +77,9 @@ is_root: true
 สำรวจชุดบทช่วยสอนที่ครอบคลุมเกี่ยวกับการประมวลผลภาพ DICOM โดยใช้ Aspose.Imaging สำหรับ .NET เรียนรู้การปรับปรุงภาพทางการแพทย์ได้อย่างง่ายดาย
 ### [คุณสมบัติขั้นสูง](./advanced-features/)
 รับประโยชน์สูงสุดจาก Aspose.Imaging สำหรับ .NET ด้วยบทช่วยสอนทีละขั้นตอนของเรา เรียนรู้วิธีปลดล็อกตัวเลือกดั้งเดิมและทำงานกับรูปภาพได้อย่างง่ายดาย
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for .NET 調整 DICOM 影像大小
 linktitle: Aspose.Imaging for .NET 中的 DICOM 簡單調整大小
 second_title: Aspose.Imaging .NET 映像處理 API
 description: 了解如何使用 Aspose.Imaging for .NET（醫學影像處理的強大工具）調整 DICOM 影像的大小。簡單的步驟即可獲得精確的結果。
-type: docs
 weight: 19
 url: /zh-hant/net/dicom-image-processing/dicom-simple-resizing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for .NET 調整 DICOM 影像大小
+
 在不斷發展的醫學影像領域，處理 DICOM（醫學數位影像和通訊）文件時的靈活性和精確度至關重要。 Aspose.Imaging for .NET 作為一個強大的解決方案出現，提供了一整套用於處理醫學影像的工具。在本教學中，我們將探索使用 Aspose.Imaging for .NET 調整 DICOM 影像大小的簡單流程。 
 
 ## 先決條件
@@ -114,3 +120,9 @@ A4：Aspose.Imaging for .NET 與.NET Framework 的各個版本相容，包括.NE
 ### Q5：在哪裡可以找到更多 Aspose.Imaging for .NET 教學？
 
  A5：您可以探索[Aspose.Imaging for .NET 文檔](https://reference.aspose.com/imaging/net/)取得廣泛的教學和範例。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

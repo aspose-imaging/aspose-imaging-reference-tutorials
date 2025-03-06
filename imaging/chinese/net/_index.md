@@ -1,12 +1,17 @@
 ---
 title: Aspose.Imaging for .NET 的综合教程和示例
 linktitle: Aspose.Imaging for .NET 教程
-type: docs
 weight: 10
 url: /zh/net/
 description: 通过我们的深入教程探索 Aspose.Imaging for .NET 的强大功能。从图像合成到高级功能，增强您的技能并提升您的图像处理水平。
-is_root: true
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET 的综合教程和示例
+
 
 欢迎来到我们关于 Aspose.Imaging for .NET 的综合指南！无论您是新手还是专家，这些教程都将帮助您掌握使用这个强大工具的图像处理。从图像合成到高级功能，我们都能满足您的需求。
 
@@ -72,3 +77,9 @@ is_root: true
 探索有关使用 Aspose.Imaging for .NET 进行 DICOM 图像处理的全面教程系列。学习轻松增强医学图像。
 ### [高级功能](./advanced-features/)
 通过我们的分步教程，充分利用 Aspose.Imaging for .NET。了解如何解锁原始选项并轻松处理图像。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: الرسم المتقدم
 linktitle: الرسم المتقدم
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: أطلق العنان لإبداعك من خلال دروس الرسم المتقدمة في Aspose.Imaging for .NET. تعلم كيفية إنشاء الصور وتحريرها بسهولة باستخدام لغة C#.
-type: docs
 weight: 23
 url: /ar/net/advanced-drawing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# الرسم المتقدم
+
 
 إذا كنت ترغب في الخوض في عالم آسر للرسم المتقدم ومعالجة الصور باستخدام Aspose.Imaging for .NET، فأنت في المكان الصحيح. ستأخذك هذه المقالة في رحلة عبر خصوصيات وعموميات تسخير قوة Aspose.Imaging لإنشاء رسومات مذهلة، سواء كنت مطورًا متمرسًا أو بدأت للتو.
 
@@ -38,3 +44,9 @@ url: /ar/net/advanced-drawing/
 استكشف إنشاء الصور ومعالجتها باستخدام Aspose.Imaging for .NET. تعلم كيفية رسم الصور وتحريرها في C# بسهولة.
 ### [الرسم باستخدام GraphicsPath في Aspose.Imaging لـ .NET](./draw-using-graphicspath/)
 قم بإنشاء رسومات مذهلة في .NET باستخدام Aspose.Imaging. استكشف البرامج التعليمية خطوة بخطوة واطلق العنان لقوة معالجة الصور.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

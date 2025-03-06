@@ -3,10 +3,16 @@ title: Konversi dan Optimasi Gambar
 linktitle: Konversi dan Optimasi Gambar
 second_title: Aspose.Imaging API Pemrosesan Gambar Java
 description: Temukan tutorial konversi dan pengoptimalan gambar menggunakan Aspose.Imaging untuk Java. Pelajari cara mengonversi, menyempurnakan, dan mengoptimalkan berbagai format gambar dengan mudah.
-type: docs
 weight: 20
 url: /id/java/image-conversion-and-optimization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Konversi dan Optimasi Gambar
+
 
 # Perkenalan
 
@@ -86,3 +92,9 @@ Kuasai seni menyimpan bingkai gambar raster dengan Aspose.Imaging untuk Java. Pe
 Pelajari cara mengonversi gambar raster ke format TIFF di Java menggunakan Aspose.Imaging untuk Java. Panduan komprehensif untuk manipulasi gambar.
 ### [Pemisahan Bingkai Gambar TIFF](./tiff-image-frame-splitting/)
 Pelajari cara membagi bingkai gambar TIFF menggunakan Aspose.Imaging untuk Java. Panduan langkah demi langkah dengan prasyarat, contoh kode, dan FAQ untuk pengembang.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

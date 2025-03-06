@@ -3,10 +3,16 @@ title: Split TIFF Frames with Aspose.Imaging for Java
 linktitle: TIFF Image Frame Splitting
 second_title: Aspose.Imaging Java Image Processing API
 description: Learn how to split TIFF image frames using Aspose.Imaging for Java. Step-by-step guide with prerequisites, code example, and FAQs for developers.
-type: docs
 weight: 21
 url: /java/image-conversion-and-optimization/tiff-image-frame-splitting/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Split TIFF Frames with Aspose.Imaging for Java
+
 ## Introduction
 
 In today's digital world, where images play a pivotal role in conveying information, Aspose.Imaging for Java stands as a powerful tool for developers. This versatile Java library empowers you to manipulate and process various image formats, opening doors to endless creative possibilities. Whether you're working on a project that requires image frame splitting, format conversion, or image enhancement, Aspose.Imaging for Java has got your back.
@@ -117,3 +123,10 @@ A4: You can visit the [Aspose.Imaging for Java forum](https://forum.aspose.com/)
 ### Q5: Does Aspose.Imaging for Java support other image formats besides TIFF?
 
 A5: Yes, Aspose.Imaging for Java supports a wide range of image formats, including JPEG, PNG, BMP, and more.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

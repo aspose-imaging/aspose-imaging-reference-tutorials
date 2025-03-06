@@ -3,10 +3,16 @@ title: Membuat Arc dengan Aspose.Imaging untuk .NET
 linktitle: Gambar Arc di Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Pelajari cara menggambar busur dengan Aspose.Imaging untuk .NET, alat manipulasi gambar yang canggih. Panduan langkah demi langkah untuk membuat visual yang menakjubkan.
-type: docs
 weight: 10
 url: /id/net/basic-drawing/draw-arc/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Membuat Arc dengan Aspose.Imaging untuk .NET
+
 Dalam dunia pemrosesan gambar, Aspose.Imaging for .NET adalah alat serbaguna dan canggih yang memungkinkan pengembang melakukan berbagai operasi pada gambar. Salah satu tugas mendasar dalam manipulasi gambar adalah menggambar bentuk, dan dalam tutorial ini, kami akan memandu Anda melalui proses menggambar busur menggunakan Aspose.Imaging untuk .NET. Di akhir panduan ini, Anda akan dapat membuat busur menakjubkan pada gambar Anda dengan mudah.
 
 ## Prasyarat
@@ -116,3 +122,10 @@ Menggambar busur di Aspose.Imaging untuk .NET adalah proses yang mudah jika Anda
 ### Q5: Di mana saya dapat mencari dukungan atau mengajukan pertanyaan tentang Aspose.Imaging untuk .NET?
 
  A5: Anda dapat mengunjungi forum Aspose.Imaging untuk mendapatkan dukungan dan diskusi[Di Sini](https://forum.aspose.com/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

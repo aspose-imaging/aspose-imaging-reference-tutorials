@@ -3,10 +3,16 @@ title: Menyesuaikan Gamma Gambar DICOM dengan Aspose.Imaging untuk .NET
 linktitle: Sesuaikan Gamma Gambar DICOM di Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Pelajari cara menyesuaikan gamma dalam gambar DICOM menggunakan Aspose.Imaging untuk .NET. Tingkatkan kualitas gambar medis dengan langkah sederhana.
-type: docs
 weight: 12
 url: /id/net/dicom-image-processing/adjust-gamma-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Menyesuaikan Gamma Gambar DICOM dengan Aspose.Imaging untuk .NET
+
 Saat bekerja dengan gambar medis, penyesuaian yang tepat sering kali diperlukan untuk meningkatkan kualitas dan kejelasannya. Aspose.Imaging for .NET adalah perpustakaan canggih yang memungkinkan Anda memanipulasi berbagai format gambar, termasuk DICOM (Digital Imaging and Communications in Medicine). Dalam panduan langkah demi langkah ini, kami akan memandu Anda melalui proses penyesuaian gamma gambar DICOM menggunakan Aspose.Imaging untuk .NET.
 
 ## Prasyarat
@@ -98,3 +104,9 @@ A4: Aspose.Imaging untuk .NET menawarkan berbagai fitur, termasuk pemotongan gam
 ### Q5: Bagaimana saya bisa mendapatkan dukungan teknis untuk Aspose.Imaging untuk .NET?
 
  A5: Untuk bantuan teknis dan dukungan komunitas, Anda dapat mengunjungi[Aspose.Forum pencitraan](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

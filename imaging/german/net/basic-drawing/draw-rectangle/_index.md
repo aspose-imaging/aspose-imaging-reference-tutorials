@@ -3,10 +3,16 @@ title: Zeichnen von Rechtecken in Aspose.Imaging für .NET
 linktitle: Zeichnen Sie ein Rechteck in Aspose.Imaging für .NET
 second_title: Aspose.Imaging .NET-Bildverarbeitungs-API
 description: Lernen Sie, Rechtecke in Aspose.Imaging für .NET zu zeichnen – einem vielseitigen Werkzeug zur Bildbearbeitung in Ihren .NET-Anwendungen.
-type: docs
 weight: 14
 url: /de/net/basic-drawing/draw-rectangle/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Zeichnen von Rechtecken in Aspose.Imaging für .NET
+
 Das Erstellen und Bearbeiten von Bildern in .NET-Anwendungen kann eine komplexe Aufgabe sein, aber mit der Leistungsfähigkeit von Aspose.Imaging für .NET wird es bemerkenswert einfach. In dieser Schritt-für-Schritt-Anleitung führen wir Sie durch den Prozess des Zeichnens von Rechtecken mit Aspose.Imaging für .NET. Sie erfahren, wie Sie ein Bild erstellen, seine Eigenschaften festlegen, Rechtecke zeichnen und Ihre Arbeit speichern. Lass uns eintauchen!
 
 ## Voraussetzungen
@@ -104,3 +110,9 @@ A4: Ja, Aspose.Imaging für .NET bietet eine breite Palette erweiterter Bildvera
 ### F5: Wo finde ich weitere Ressourcen und Unterstützung für Aspose.Imaging für .NET?
 
  A5: Sie können auf die Dokumentation zugreifen[Hier](https://reference.aspose.com/imaging/net/) und suchen Sie Unterstützung bei der[Aspose.Imaging-Forum](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

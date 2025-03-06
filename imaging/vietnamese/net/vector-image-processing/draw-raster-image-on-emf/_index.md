@@ -3,10 +3,16 @@ title: Vẽ hình ảnh raster trên EMF bằng Aspose.Imaging cho .NET
 linktitle: Vẽ hình ảnh raster trên EMF trong Aspose.Imaging cho .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Tìm hiểu cách vẽ hình ảnh raster trên tệp EMF bằng Aspose.Imaging cho .NET. Tạo hình ảnh tuyệt đẹp một cách dễ dàng.
-type: docs
 weight: 10
 url: /vi/net/vector-image-processing/draw-raster-image-on-emf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Vẽ hình ảnh raster trên EMF bằng Aspose.Imaging cho .NET
+
 
 ## Giới thiệu
 
@@ -121,3 +127,10 @@ Có, bạn có thể vẽ đồ họa vector và hình dạng ngoài hình ảnh
 ### 5. Tôi có thể nhận hỗ trợ cho Aspose.Imaging ở đâu?
 
  Để được hỗ trợ và trợ giúp, bạn có thể truy cập diễn đàn Aspose.Imaging[đây](https://forum.aspose.com/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

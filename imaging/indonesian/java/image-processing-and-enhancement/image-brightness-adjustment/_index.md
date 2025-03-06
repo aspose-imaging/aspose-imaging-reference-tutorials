@@ -3,10 +3,16 @@ title: Penyesuaian Kecerahan Gambar dengan Aspose.Imaging untuk Java
 linktitle: Penyesuaian Kecerahan Gambar
 second_title: Aspose.Imaging API Pemrosesan Gambar Java
 description: Pelajari cara menyesuaikan kecerahan gambar menggunakan Aspose.Imaging for Java. Sempurnakan gambar Anda dengan mudah dengan panduan komprehensif ini.
-type: docs
 weight: 25
 url: /id/java/image-processing-and-enhancement/image-brightness-adjustment/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Penyesuaian Kecerahan Gambar dengan Aspose.Imaging untuk Java
+
 ## Perkenalan
 
 Dalam dunia pemrosesan gambar digital yang terus berkembang, mencapai tingkat kecerahan dan kontras yang sempurna dapat menjadi tugas yang menantang. Untungnya, dengan kekuatan Aspose.Imaging untuk Java, Anda dapat dengan mudah menyempurnakan kecerahan gambar Anda. Pustaka Java serbaguna ini merupakan keuntungan bagi pengembang dan bisnis yang membutuhkan kemampuan pemrosesan gambar yang efisien. Dalam panduan langkah demi langkah ini, kita akan mempelajari seluk-beluk penyesuaian kecerahan gambar menggunakan Aspose.Imaging untuk Java.
@@ -104,3 +110,9 @@ A3: Aspose.Imaging for Java mendukung berbagai format gambar, termasuk BMP, JPEG
 ### Q5: Di mana saya bisa mendapatkan dukungan atau bantuan dengan Aspose.Imaging untuk Java?
 
  A5: Anda dapat menemukan bantuan dan bergabung dengan komunitas di[Aspose.Imaging untuk forum Java](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

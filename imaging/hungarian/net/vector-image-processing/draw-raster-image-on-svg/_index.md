@@ -3,10 +3,16 @@ title: Raszterkép rajzolása SVG-n az Aspose.Imaging for .NET-ben
 linktitle: Rajzoljon raszterképet SVG-n az Aspose.Imaging for .NET programban
 second_title: Aspose.Imaging .NET Image Processing API
 description: Ismerje meg, hogyan rajzolhat raszteres képeket SVG-ben az Aspose.Imaging for .NET használatával. Bővítse .NET-alkalmazásait dinamikus képekkel.
-type: docs
 weight: 11
 url: /hu/net/vector-image-processing/draw-raster-image-on-svg/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Raszterkép rajzolása SVG-n az Aspose.Imaging for .NET-ben
+
 
 .NET programozás világában az Aspose.Imaging megbízható és sokoldalú könyvtár a különféle képekkel kapcsolatos feladatok kezelésére. Az egyik lenyűgöző képesség, amelyet kínál, az a képesség, hogy raszterképet rajzolhat egy SVG vászonra. Ebben a lépésenkénti útmutatóban végigvezetjük a raszterkép SVG-re való rajzolásának folyamatán az Aspose.Imaging for .NET segítségével.
 
@@ -100,3 +106,10 @@ Gratulálunk! Sikeresen rajzolt egy raszterképet egy SVG vászonra az Aspose.Im
     Ideiglenes jogosítványt kaphat[itt](https://purchase.aspose.com/temporary-license/).
 
 
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

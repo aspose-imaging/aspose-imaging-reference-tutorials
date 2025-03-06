@@ -3,10 +3,16 @@ title: .NET용 Aspose.Imaging을 사용하면 DICOM 이미지 디더링이 쉬�
 linktitle: .NET용 Aspose.Imaging에서 DICOM 이미지에 대한 디더링
 second_title: Aspose.Imaging .NET 이미지 처리 API
 description: .NET용 Aspose.Imaging을 사용하여 DICOM 이미지에서 임계값 디더링을 수행하는 방법을 알아보세요. 손쉽게 이미지 품질을 향상하고 색상 팔레트를 줄일 수 있습니다.
-type: docs
 weight: 22
 url: /ko/net/dicom-image-processing/dithering-for-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET용 Aspose.Imaging을 사용하면 DICOM 이미지 디더링이 쉬워집니다.
+
 디더링은 시각적 품질을 유지하면서 이미지의 색상 수를 줄이는 데 사용되는 기본적인 이미지 처리 기술입니다. 이 단계별 가이드에서는 .NET용 Aspose.Imaging을 사용하여 DICOM 이미지에서 디더링을 수행하는 방법을 살펴보겠습니다. 이 강력한 라이브러리는 이미지 조작 및 처리를 위한 광범위한 기능을 제공하므로 의료 이미지 작업을 하는 개발자에게 탁월한 선택입니다. 
 
 ## 전제 조건
@@ -92,3 +98,9 @@ A4: .NET용 Aspose.Imaging의 대안으로는 ImageMagick, OpenCV 및 AForge.NET
 ### Q5: .NET용 Aspose.Imaging에 대한 지원을 어떻게 받을 수 있나요?
 
  A5: 다음 웹사이트에서 도움말과 지원을 찾을 수 있습니다.[Aspose.이미징 포럼](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

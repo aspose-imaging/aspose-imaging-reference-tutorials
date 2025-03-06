@@ -3,10 +3,16 @@ title: Изображения DICOM в оттенках серого с помо
 linktitle: Оттенки серого в DICOM в Aspose.Imaging for .NET
 second_title: API обработки изображений Aspose.Imaging .NET
 description: Узнайте, как выполнить преобразование оттенков серого в изображения DICOM с помощью Aspose.Imaging for .NET, мощной библиотеки обработки изображений.
-type: docs
 weight: 24
 url: /ru/net/dicom-image-processing/grayscale-on-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Изображения DICOM в оттенках серого с помощью Aspose.Imaging for .NET
+
 Если вы работаете с данными медицинских изображений в формате DICOM и вам необходимо выполнить преобразования в оттенках серого, Aspose.Imaging for .NET предлагает мощное решение. В этом пошаговом руководстве мы покажем вам процесс перевода изображения DICOM в оттенки серого с помощью Aspose.Imaging. Эта библиотека представляет собой универсальный инструмент, позволяющий работать с различными форматами изображений, включая DICOM, в среде .NET. Давайте начнем!
 
 ## Предварительные условия
@@ -85,3 +91,9 @@ A1: DICOM означает цифровую визуализацию и комм
 ### Вопрос 5: Как я могу получить поддержку Aspose.Imaging?
 
  A5: Если у вас есть какие-либо вопросы или вам нужна помощь, вы можете посетить[Форум Aspose.Imaging](https://forum.aspose.com/) обратиться за помощью к сообществу или связаться с их службой поддержки.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

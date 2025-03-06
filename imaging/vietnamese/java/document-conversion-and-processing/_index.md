@@ -3,10 +3,16 @@ title: Chuyển đổi và xử lý tài liệu
 linktitle: Chuyển đổi và xử lý tài liệu
 second_title: Aspose.Imaging API xử lý hình ảnh Java
 description: Khám phá các hướng dẫn toàn diện về chuyển đổi và xử lý tài liệu bằng Aspose.Imaging Java. Nắm vững thao tác và chuyển đổi hình ảnh với các hướng dẫn này.
-type: docs
 weight: 22
 url: /vi/java/document-conversion-and-processing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Chuyển đổi và xử lý tài liệu
+
 
 ## Giới thiệu
 
@@ -94,3 +100,9 @@ Tìm hiểu cách tối ưu hóa và xử lý hình ảnh bằng Aspose.Imaging 
 Tìm hiểu cách lưu khung từ hình ảnh TIFF ở nhiều định dạng raster khác nhau bằng Aspose.Imaging cho Java. Tăng cường thao tác hình ảnh trong các ứng dụng Java của bạn.
 ### [Khôi phục dữ liệu hình ảnh TIFF](./recovering-tiff-image-data/)
 Tìm hiểu cách khôi phục dữ liệu hình ảnh TIFF bị hỏng bằng Aspose.Imaging cho Java. Khôi phục tính toàn vẹn của hình ảnh bằng hướng dẫn từng bước này.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

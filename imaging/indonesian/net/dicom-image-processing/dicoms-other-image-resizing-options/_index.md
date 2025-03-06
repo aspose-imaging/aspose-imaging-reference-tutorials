@@ -3,10 +3,16 @@ title: Opsi Pengubahan Ukuran Gambar DICOM Lainnya di Aspose.Imaging untuk .NET
 linktitle: Opsi Pengubahan Ukuran Gambar DICOM Lainnya di Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Pelajari cara mengubah ukuran gambar DICOM menggunakan Aspose.Imaging untuk .NET. Panduan langkah demi langkah untuk manipulasi gambar medis yang efisien.
-type: docs
 weight: 20
 url: /id/net/dicom-image-processing/dicoms-other-image-resizing-options/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Opsi Pengubahan Ukuran Gambar DICOM Lainnya di Aspose.Imaging untuk .NET
+
 Apakah Anda ingin bekerja dengan gambar DICOM (Digital Imaging and Communications in Medicine) di aplikasi .NET Anda? Aspose.Imaging for .NET menyediakan seperangkat alat canggih untuk memanipulasi gambar DICOM secara efisien. Dalam tutorial ini, kita akan mempelajari "Opsi Pengubahan Ukuran Gambar Lainnya DICOM" menggunakan Aspose.Imaging untuk .NET. Kami akan membahas prasyarat, mengimpor namespace, dan memberikan panduan langkah demi langkah untuk membantu Anda memahami dan menerapkan pengubahan ukuran gambar DICOM secara efektif.
 
 ## Prasyarat
@@ -107,3 +113,9 @@ A4: Ya, Aspose.Imaging untuk .NET biasanya digunakan dalam aplikasi perawatan ke
 ### Q5: Bisakah saya mendapatkan lisensi sementara untuk Aspose.Imaging untuk .NET?
 w
  A5: Ya, Anda bisa mendapatkan lisensi sementara untuk tujuan pengujian dan evaluasi. Mengunjungi[Halaman Lisensi Sementara Aspose](https://purchase.aspose.com/temporary-license/) untuk informasi lebih lanjut.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

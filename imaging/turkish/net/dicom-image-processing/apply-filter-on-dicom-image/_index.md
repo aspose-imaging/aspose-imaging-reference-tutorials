@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET ile DICOM Görüntülerine Filtre Uygulama
 linktitle: Aspose.Imaging for .NET'te DICOM Görüntüsüne Filtre Uygula
 second_title: Aspose.Imaging .NET Görüntü İşleme API'si
 description: Aspose.Imaging for .NET kullanarak DICOM görüntülerine nasıl filtre uygulayacağınızı öğrenin. Tıbbi görüntü işlemeyi kolaylıkla geliştirin.
-type: docs
 weight: 13
 url: /tr/net/dicom-image-processing/apply-filter-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET ile DICOM Görüntülerine Filtre Uygulama
+
 Aspose.Imaging for .NET kullanarak görüntü işleme becerilerinizi geliştirmek istiyorsanız doğru yere geldiniz. Bu adım adım eğitimde, DICOM görüntülerine filtre uygulama sürecinde size rehberlik edeceğiz. Bu güçlü kitaplık, DICOM da dahil olmak üzere çeşitli görüntü formatlarını kolaylıkla değiştirmenize ve işlemenize olanak tanır. Süreci yönetilebilir adımlara bölerek her konsepti iyice kavramanızı sağlayacağız. Hadi dalalım!
 
 ## Önkoşullar
@@ -90,3 +96,9 @@ C3: Evet, Aspose.Imaging, görüntü işleme görevleri için Gaussian, Sharpen 
 ### S5: Aspose.Imaging için nasıl geçici lisans alabilirim?
 
  Cevap5: Geçici lisansı şu adresten alabilirsiniz:[Burada](https://purchase.aspose.com/temporary-license/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

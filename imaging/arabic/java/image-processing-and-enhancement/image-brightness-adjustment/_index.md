@@ -3,10 +3,16 @@ title: ضبط سطوع الصورة باستخدام Aspose.Imaging لـ Java
 linktitle: تعديل سطوع الصورة
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: تعرف على كيفية ضبط سطوع الصورة باستخدام Aspose.Imaging لـ Java. قم بتحسين صورك دون عناء باستخدام هذا الدليل الشامل.
-type: docs
 weight: 25
 url: /ar/java/image-processing-and-enhancement/image-brightness-adjustment/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# ضبط سطوع الصورة باستخدام Aspose.Imaging لـ Java
+
 ## مقدمة
 
 في عالم معالجة الصور الرقمية الذي يتطور باستمرار، قد يكون تحقيق مستويات السطوع والتباين المثالية مهمة صعبة. لحسن الحظ، بفضل قوة Aspose.Imaging for Java، يمكنك ضبط سطوع صورك بسهولة. تعد مكتبة Java متعددة الاستخدامات بمثابة نعمة للمطورين والشركات التي تتطلب إمكانات معالجة صور فعالة. في هذا الدليل التفصيلي، سنتعمق في تعقيدات ضبط سطوع الصورة باستخدام Aspose.Imaging for Java.
@@ -104,3 +110,9 @@ image.save(outputFile, new BmpOptions());
 ### س5: أين يمكنني الحصول على الدعم أو المساعدة فيما يتعلق بـ Aspose.Imaging for Java؟
 
  ج5: يمكنك العثور على المساعدة والانضمام إلى المجتمع على[Aspose.Imaging لمنتدى جافا](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

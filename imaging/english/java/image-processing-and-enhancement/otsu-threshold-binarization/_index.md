@@ -3,10 +3,16 @@ title: Otsu Threshold Binarization with Aspose.Imaging for Java
 linktitle: Otsu Threshold Binarization
 second_title: Aspose.Imaging Java Image Processing API
 description: Enhance image quality with Aspose.Imaging for Java's Otsu Threshold Binarization. Follow our step-by-step guide for image processing excellence.
-type: docs
 weight: 22
 url: /java/image-processing-and-enhancement/otsu-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Otsu Threshold Binarization with Aspose.Imaging for Java
+
 In the world of image processing and manipulation, Aspose.Imaging for Java stands as a robust toolkit that empowers developers to work with various image formats. Among its many features, Otsu Threshold Binarization is a crucial technique for image enhancement and analysis. In this tutorial, we will guide you through the process of using Aspose.Imaging for Java to perform Otsu Threshold Binarization on an image step by step.
 
 ## Prerequisites
@@ -105,3 +111,10 @@ A4: You can access the documentation at [Aspose.Imaging for Java Documentation](
 ### Q5: Can I use Aspose.Imaging for Java in my commercial projects?
 
 A5: Yes, Aspose.Imaging for Java is suitable for both personal and commercial projects. You can explore the licensing options to fit your specific needs.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

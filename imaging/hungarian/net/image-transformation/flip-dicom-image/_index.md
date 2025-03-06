@@ -3,10 +3,16 @@ title: Fordítsa meg a DICOM képeket az Aspose.Imaging for .NET segítségével
 linktitle: Fordítsa meg a DICOM-képet az Aspose.Imaging for .NET-ben
 second_title: Aspose.Imaging .NET Image Processing API
 description: Ismerje meg, hogyan fordíthat meg DICOM-képeket az Aspose.Imaging for .NET használatával. Egyszerű, hatékony képkezelés orvosi alkalmazásokhoz és még sok máshoz.
-type: docs
 weight: 10
 url: /hu/net/image-transformation/flip-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Fordítsa meg a DICOM képeket az Aspose.Imaging for .NET segítségével
+
 ## Bevezetés
 
 A szoftverfejlesztés világában a képmanipuláció gyakori és elengedhetetlen feladat. Akár orvosi képalkotó alkalmazáson, akár kreatív grafikai tervezési projekten dolgozik, a DICOM-képek megfordításának képessége értékes készség. Az Aspose.Imaging for .NET egy hatékony eszköz, amellyel ezt könnyedén elérheti. Ebben az átfogó útmutatóban végigvezetjük a DICOM-képek átforgatásának folyamatán az Aspose.Imaging for .NET használatával. Lebontjuk az egyes lépéseket, kódpéldákat adunk, és betekintést nyújtunk a szükséges előfeltételekbe és névterekbe.
@@ -99,3 +105,9 @@ A2: Abszolút! Az Aspose.Imaging for .NET kiválóan alkalmas orvosi képalkotá
 
 ### 5. kérdés: Milyen egyéb képkezelési funkciókat kínál az Aspose.Imaging for .NET?
 5. válasz: Az Aspose.Imaging for .NET funkciók széles skáláját kínálja, beleértve az átméretezést, a kivágást, a szűrést és még sok mást. A könyvtár teljes képességeit a dokumentációban fedezheti fel.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

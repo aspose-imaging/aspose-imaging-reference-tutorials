@@ -3,10 +3,16 @@ title: ضبط DICOM Image Gamma باستخدام Aspose.Imaging لـ .NET
 linktitle: اضبط جاما صورة DICOM في Aspose.Imaging لـ .NET
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: تعرف على كيفية ضبط جاما في صور DICOM باستخدام Aspose.Imaging for .NET. تعزيز جودة الصورة الطبية بخطوات بسيطة.
-type: docs
 weight: 12
 url: /ar/net/dicom-image-processing/adjust-gamma-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# ضبط DICOM Image Gamma باستخدام Aspose.Imaging لـ .NET
+
 عند التعامل مع الصور الطبية، غالبًا ما يلزم إجراء تعديلات دقيقة لتحسين جودتها ووضوحها. Aspose.Imaging for .NET هي مكتبة قوية تسمح لك بمعالجة تنسيقات الصور المختلفة، بما في ذلك DICOM (التصوير الرقمي والاتصالات في الطب). في هذا الدليل المفصّل خطوة بخطوة، سنرشدك خلال عملية ضبط غاما لصورة DICOM باستخدام Aspose.Imaging for .NET.
 
 ## المتطلبات الأساسية
@@ -98,3 +104,9 @@ A1: تعديل جاما هو أسلوب يستخدم لمعالجة سطوع و�
 ### س5: كيف يمكنني الحصول على الدعم الفني لـ Aspose.Imaging لـ .NET؟
 
  ج5: للحصول على المساعدة الفنية والدعم المجتمعي، يمكنك زيارة[Aspose.منتدى التصوير](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

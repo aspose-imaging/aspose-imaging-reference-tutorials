@@ -1,12 +1,17 @@
 ---
 title: Комплексные руководства и примеры Aspose.Imaging для .NET
 linktitle: Учебные пособия по Aspose.Imaging для .NET
-type: docs
 weight: 10
 url: /ru/net/
 description: Откройте для себя возможности Aspose.Imaging для .NET с помощью наших подробных руководств. От композиции изображений до расширенных функций — улучшите свои навыки и улучшите свои навыки обработки изображений.
-is_root: true
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Комплексные руководства и примеры Aspose.Imaging для .NET
+
 
 Добро пожаловать в наше подробное руководство по Aspose.Imaging для .NET! Независимо от того, являетесь ли вы новичком или экспертом, эти руководства помогут вам освоить обработку изображений с помощью этого мощного инструмента. От композиции изображений до расширенных функций — мы предоставим вам все необходимое.
 
@@ -72,3 +77,9 @@ is_root: true
 Ознакомьтесь с обширной серией руководств по обработке изображений DICOM с помощью Aspose.Imaging for .NET. Научитесь улучшать медицинские изображения без особых усилий.
 ### [Расширенные возможности](./advanced-features/)
 Получите максимум от Aspose.Imaging for .NET с помощью наших пошаговых руководств. Узнайте, как разблокировать оригинальные параметры и легко работать с изображениями.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

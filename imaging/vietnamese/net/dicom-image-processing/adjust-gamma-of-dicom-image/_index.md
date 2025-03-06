@@ -3,10 +3,16 @@ title: Điều chỉnh Gamma hình ảnh DICOM bằng Aspose.Imaging cho .NET
 linktitle: Điều chỉnh Gamma của hình ảnh DICOM trong Aspose.Imaging for .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Tìm hiểu cách điều chỉnh gamma trong hình ảnh DICOM bằng Aspose.Imaging for .NET. Nâng cao chất lượng hình ảnh y tế bằng các bước đơn giản.
-type: docs
 weight: 12
 url: /vi/net/dicom-image-processing/adjust-gamma-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Điều chỉnh Gamma hình ảnh DICOM bằng Aspose.Imaging cho .NET
+
 Khi làm việc với hình ảnh y tế, thường cần phải điều chỉnh chính xác để cải thiện chất lượng và độ rõ nét của chúng. Aspose.Imaging for .NET là một thư viện mạnh mẽ cho phép bạn thao tác với nhiều định dạng hình ảnh khác nhau, bao gồm DICOM (Hình ảnh kỹ thuật số và Truyền thông trong Y học). Trong hướng dẫn từng bước này, chúng tôi sẽ hướng dẫn bạn quy trình điều chỉnh gamma của hình ảnh DICOM bằng Aspose.Imaging for .NET.
 
 ## Điều kiện tiên quyết
@@ -98,3 +104,9 @@ Câu trả lời 4: Aspose.Imaging for .NET cung cấp nhiều tính năng, bao 
 ### Câu hỏi 5: Làm cách nào tôi có thể nhận được hỗ trợ kỹ thuật cho Aspose.Imaging cho .NET?
 
  Câu trả lời 5: Để được hỗ trợ kỹ thuật và hỗ trợ cộng đồng, bạn có thể truy cập[Diễn đàn Aspose.Imaging](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

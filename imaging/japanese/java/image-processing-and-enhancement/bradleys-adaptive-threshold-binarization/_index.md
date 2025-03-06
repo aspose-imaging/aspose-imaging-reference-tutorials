@@ -3,10 +3,16 @@ title: Aspose.Imaging for Java による画像の二値化
 linktitle: Bradley の適応しきい値二値化
 second_title: Aspose.Imaging Java 画像処理 API
 description: Aspose.Imaging for Java を使用して画像の二値化を学習します。 DICOM 画像を簡単に変換します。コード例を含むステップバイステップのガイドを参照してください。
-type: docs
 weight: 27
 url: /ja/java/image-processing-and-enhancement/bradleys-adaptive-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for Java による画像の二値化
+
 Web サイト、ドキュメント、さまざまなアプリケーションの一部など、デジタル世界では画像が重要な役割を果たします。これらの分野では画像処理が不可欠なタスクであり、基本的な操作の 1 つが画像の 2 値化です。 2 値化は、画像を 2 値形式に変換することで単純化し、コンピューターでの処理を容易にします。 Aspose.Imaging for Java は、幅広い画像操作機能を提供する強力なツールです。このチュートリアルでは、Aspose.Imaging の Bradley の Adaptive Threshold Binarization を使用して画像の 2 値化を実行する方法を検討します。 
 
 ## 前提条件
@@ -111,3 +117,9 @@ A1: DICOM は、Digital Imaging and Communications in Medicine の略で、医�
 ### Q5: Aspose.Imaging for Java は、他の Java ベースのアプリケーションでの画像処理に適していますか?
 
 A5: はい、Aspose.Imaging for Java は多用途であり、Web アプリケーション、デスクトップ ソフトウェアなどを含むさまざまな Java ベースのアプリケーションで使用できます。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

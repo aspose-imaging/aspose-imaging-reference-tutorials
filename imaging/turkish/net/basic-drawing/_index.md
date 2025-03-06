@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET ile Temel Çizim
 linktitle: Temel Çizim
 second_title: Aspose.Imaging .NET Görüntü İşleme API'si
 description: Aspose.Imaging for .NET ile çizim sanatını keşfedin. Yaylar, Bezier eğrileri, elipsler, çizgiler ve dikdörtgenler hakkında adım adım kılavuzlarla çarpıcı görseller oluşturun.
-type: docs
 weight: 22
 url: /tr/net/basic-drawing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET ile Temel Çizim
+
 
 Dijital grafiklerin güzelliğine hayran kaldıysanız ve bunları nasıl oluşturacağınızı merak ettiyseniz doğru yerdesiniz. Aspose.Imaging for .NET, bir olasılıklar dünyasının kapılarını açarak, çizim yoluyla yaratıcılığınızı açığa çıkarmanıza olanak tanır. Bu makalede, güçlü bir görüntü işleme aracı olan Aspose.Imaging for .NET'i kullanarak temel çizim eğitimlerinde size yol göstereceğiz. İster deneyimli bir geliştirici olun ister .NET grafik dünyasına yeni adım atın, bu adım adım kılavuzlar süreci kolay ve keyifli hale getirecektir.
 
@@ -52,3 +58,9 @@ Aspose.Imaging for .NET'te Bezier eğrilerinin nasıl çizileceğini öğrenin. 
 Aspose.Imaging for .NET'te hassas çizgilerin nasıl çizileceğini öğrenin. Bu adım adım kılavuz, görüntü oluşturma, çizgi çizme ve daha fazlasını kapsar.
 ### [Aspose.Imaging for .NET'te Dikdörtgen Çizin](./draw-rectangle/)
 .NET uygulamalarınızda görüntü işleme için çok yönlü bir araç olan Aspose.Imaging for .NET'te dikdörtgen çizmeyi öğrenin.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

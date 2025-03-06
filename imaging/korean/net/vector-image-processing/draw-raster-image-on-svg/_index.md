@@ -3,10 +3,16 @@ title: .NET용 Aspose.Imaging에서 SVG에 래스터 이미지를 그리는 방�
 linktitle: .NET용 Aspose.Imaging에서 SVG에 래스터 이미지 그리기
 second_title: Aspose.Imaging .NET 이미지 처리 API
 description: .NET용 Aspose.Imaging을 사용하여 SVG에 래스터 이미지를 그리는 방법을 알아보세요. 동적 이미지로 .NET 애플리케이션을 강화하세요.
-type: docs
 weight: 11
 url: /ko/net/vector-image-processing/draw-raster-image-on-svg/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET용 Aspose.Imaging에서 SVG에 래스터 이미지를 그리는 방법
+
 
 .NET 프로그래밍 세계에서 Aspose.Imaging은 다양한 이미지 관련 작업을 처리하기 위한 안정적이고 다재다능한 라이브러리입니다. 그것이 제공하는 흥미로운 기능 중 하나는 SVG 캔버스에 래스터 이미지를 그리는 기능입니다. 이 단계별 가이드에서는 Aspose.Imaging for .NET을 사용하여 SVG에 래스터 이미지를 그리는 과정을 안내합니다.
 
@@ -100,3 +106,10 @@ using (SvgImage resultImage = graphics.EndRecording())
     임시면허를 받을 수 있습니다.[여기](https://purchase.aspose.com/temporary-license/).
 
 
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Dithering Gambar DICOM Menjadi Mudah dengan Aspose.Imaging untuk .NET
 linktitle: Dithering untuk Gambar DICOM di Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Pelajari cara melakukan dithering ambang batas pada gambar DICOM dengan Aspose.Imaging untuk .NET. Tingkatkan kualitas gambar dan kurangi palet warna dengan mudah.
-type: docs
 weight: 22
 url: /id/net/dicom-image-processing/dithering-for-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Dithering Gambar DICOM Menjadi Mudah dengan Aspose.Imaging untuk .NET
+
 Dithering adalah teknik pemrosesan gambar mendasar yang digunakan untuk mengurangi jumlah warna dalam gambar sekaligus menjaga kualitas visual. Dalam panduan langkah demi langkah ini, kita akan mempelajari cara melakukan dithering pada gambar DICOM menggunakan Aspose.Imaging untuk .NET. Pustaka canggih ini menyediakan beragam fitur untuk manipulasi dan pemrosesan gambar, menjadikannya pilihan tepat bagi pengembang yang bekerja dengan gambar medis. 
 
 ## Prasyarat
@@ -92,3 +98,9 @@ A4: Beberapa alternatif Aspose.Imaging untuk .NET mencakup ImageMagick, OpenCV, 
 ### Q5: Bagaimana saya bisa mendapatkan dukungan untuk Aspose.Imaging untuk .NET?
 
  A5: Anda dapat menemukan bantuan dan dukungan di[Aspose.Forum pencitraan](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

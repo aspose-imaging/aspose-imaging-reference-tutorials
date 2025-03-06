@@ -3,10 +3,16 @@ title: Image Binarization ด้วย Aspose.Imaging สำหรับ Java
 linktitle: การแบ่งแยกเกณฑ์แบบอะแดปทีฟของแบรดลีย์
 second_title: Aspose.Imaging Java Image Processing API
 description: เรียนรู้การสร้างภาพแบบไบนาไรเซชันด้วย Aspose.Imaging สำหรับ Java แปลงภาพ DICOM ได้อย่างง่ายดาย สำรวจคำแนะนำทีละขั้นตอนพร้อมตัวอย่างโค้ด
-type: docs
 weight: 27
 url: /th/java/image-processing-and-enhancement/bradleys-adaptive-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Image Binarization ด้วย Aspose.Imaging สำหรับ Java
+
 รูปภาพมีบทบาทสำคัญในโลกดิจิทัล ไม่ว่าจะบนเว็บไซต์ ในเอกสาร หรือเป็นส่วนหนึ่งของแอปพลิเคชันต่างๆ การประมวลผลภาพเป็นงานสำคัญในโดเมนเหล่านี้ และการดำเนินการพื้นฐานประการหนึ่งคือการไบนาไรเซชันของภาพ การแปลงไบนารีทำให้รูปภาพง่ายขึ้นโดยการแปลงเป็นรูปแบบไบนารี ทำให้คอมพิวเตอร์ประมวลผลได้ง่ายขึ้น Aspose.Imaging สำหรับ Java เป็นเครื่องมืออันทรงพลังที่ให้ฟีเจอร์การจัดการรูปภาพที่หลากหลาย และในบทช่วยสอนนี้ เราจะมาดูวิธีดำเนินการไบนารี่ของรูปภาพโดยใช้ Aspose.Imaging's Adaptive Threshold Binarization ของ Bradley 
 
 ## ข้อกำหนดเบื้องต้น
@@ -111,3 +117,9 @@ image.save(outputFile, new com.aspose.imaging.imageoptions.BmpOptions());
 ### คำถามที่ 5: Aspose.Imaging สำหรับ Java เหมาะสำหรับการประมวลผลภาพในแอปพลิเคชันที่ใช้ Java อื่นๆ หรือไม่
 
 A5: ใช่ Aspose.Imaging สำหรับ Java มีความหลากหลายและสามารถใช้ในแอปพลิเคชันที่ใช้ Java ได้หลากหลาย รวมถึงเว็บแอปพลิเคชัน ซอฟต์แวร์เดสก์ท็อป และอื่นๆ
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

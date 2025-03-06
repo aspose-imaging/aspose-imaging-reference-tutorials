@@ -3,10 +3,16 @@ title: Beschneiden Sie DICOM-Bilder mit Aspose.Imaging für .NET
 linktitle: DICOM-Zuschneiden durch Verschiebungen in Aspose.Imaging für .NET
 second_title: Aspose.Imaging .NET-Bildverarbeitungs-API
 description: Erfahren Sie, wie Sie DICOM-Bilder mit Aspose.Imaging für .NET zuschneiden. Verbessern Sie die medizinische Bildverarbeitung mit dieser Schritt-für-Schritt-Anleitung.
-type: docs
 weight: 18
 url: /de/net/dicom-image-processing/dicom-cropping-by-shifts/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Beschneiden Sie DICOM-Bilder mit Aspose.Imaging für .NET
+
 Das Zuschneiden medizinischer Bilder, insbesondere DICOM-Bilder, ist eine entscheidende Aufgabe im Gesundheitswesen. Es ermöglicht medizinischem Fachpersonal, sich auf bestimmte Interessenbereiche zu konzentrieren, unerwünschte Elemente zu entfernen und die visuelle Darstellung diagnostischer Daten zu verbessern. In diesem Tutorial erfahren Sie, wie Sie DICOM-Bilder mit Aspose.Imaging für .NET zuschneiden, einer leistungsstarken Bibliothek, die Bildverarbeitungsaufgaben in .NET-Anwendungen vereinfacht.
 
 ## Voraussetzungen
@@ -100,3 +106,9 @@ A2: Ja, Aspose.Imaging für .NET ist eine vielseitige Bibliothek, die verschiede
 ### F5: Kann ich Aspose.Imaging für .NET in nichtmedizinischen Bildverarbeitungsanwendungen verwenden?
 
 A5: Auf jeden Fall! Während es sich hervorragend für die medizinische Bildgebung eignet, kann Aspose.Imaging für .NET für eine Vielzahl von Bildverarbeitungsaufgaben in verschiedenen Bereichen verwendet werden.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

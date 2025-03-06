@@ -3,10 +3,16 @@ title: Komprese DICOM v Aspose.Imaging pro .NET
 linktitle: Komprese DICOM v Aspose.Imaging pro .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Naučte se provádět kompresi DICOM pomocí Aspose.Imaging for .NET. Postupujte podle tohoto podrobného průvodce pro efektivní ukládání a přenos lékařských snímků s vysokou diagnostickou kvalitou.
-type: docs
 weight: 17
 url: /cs/net/dicom-image-processing/dicom-compression/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Komprese DICOM v Aspose.Imaging pro .NET
+
 Ve světě lékařského zobrazování je pro ukládání a sdílení lékařských snímků prvořadý standard DICOM (Digital Imaging and Communications in Medicine). Aspose.Imaging for .NET, výkonná knihovna .NET, poskytuje komplexní podporu pro práci s obrazy DICOM. Tento tutoriál vás provede procesem komprese DICOM pomocí Aspose.Imaging pro .NET. Každý krok rozebereme a podrobně vysvětlíme proces.
 
 ## Předpoklady
@@ -151,3 +157,9 @@ Odpověď 3: Ano, Aspose.Imaging for .NET poskytuje širokou škálu možností 
 ### Q5: Je k dispozici zkušební verze Aspose.Imaging pro .NET pro testování?
 
  A5: Ano, můžete získat a[zkušební licence zdarma](https://releases.aspose.com/) k otestování Aspose.Imaging pro .NET před nákupem.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

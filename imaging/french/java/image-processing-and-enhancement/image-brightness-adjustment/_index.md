@@ -3,10 +3,16 @@ title: Réglage de la luminosité de l'image avec Aspose.Imaging pour Java
 linktitle: Réglage de la luminosité de l'image
 second_title: API de traitement d'images Java Aspose.Imaging
 description: Découvrez comment ajuster la luminosité de l'image à l'aide d'Aspose.Imaging pour Java. Améliorez vos images sans effort avec ce guide complet.
-type: docs
 weight: 25
 url: /fr/java/image-processing-and-enhancement/image-brightness-adjustment/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Réglage de la luminosité de l'image avec Aspose.Imaging pour Java
+
 ## Introduction
 
 Dans le monde en constante évolution du traitement d’images numériques, atteindre des niveaux de luminosité et de contraste parfaits peut s’avérer une tâche difficile. Heureusement, grâce à la puissance d'Aspose.Imaging pour Java, vous pouvez affiner sans effort la luminosité de vos images. Cette bibliothèque Java polyvalente est une aubaine pour les développeurs et les entreprises qui ont besoin de capacités efficaces de traitement d'images. Dans ce guide étape par étape, nous approfondirons les subtilités du réglage de la luminosité de l'image à l'aide d'Aspose.Imaging pour Java.
@@ -104,3 +110,9 @@ A3 : Aspose.Imaging for Java prend en charge un large éventail de formats d'ima
 ### Q5 : Où puis-je obtenir de l'aide ou de l'assistance concernant Aspose.Imaging pour Java ?
 
  A5 : Vous pouvez trouver de l'aide et rejoindre la communauté au[Forum Aspose.Imaging pour Java](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

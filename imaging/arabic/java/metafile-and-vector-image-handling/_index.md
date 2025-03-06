@@ -3,10 +3,16 @@ title: ملف التعريف ومعالجة الصور المتجهة
 linktitle: ملف التعريف ومعالجة الصور المتجهة
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: أطلق العنان لإمكانات Aspose.Imaging لـ Java من خلال برامجنا التعليمية خطوة بخطوة. يمكنك إنشاء صور ملف تعريف WMF والتعامل مع رؤوس BMP والمزيد بسهولة.
-type: docs
 weight: 23
 url: /ar/java/metafile-and-vector-image-handling/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# ملف التعريف ومعالجة الصور المتجهة
+
 ## مقدمة
 
 هل أنت مستعد للشروع في رحلة إلى عالم التعامل مع ملفات التعريف والصور المتجهة باستخدام Aspose.Imaging for Java؟ لا مزيد من البحث، حيث سيزودك هذا الدليل الشامل بالمهارات والمعرفة اللازمة لإتقان مكتبة Java متعددة الاستخدامات هذه. سواء كنت مطورًا متمرسًا أو بدأت للتو، تغطي برامجنا التعليمية مجموعة من المواضيع الأساسية لمساعدتك في الاستفادة من الإمكانات الكاملة لـ Aspose.Imaging.
@@ -55,3 +61,9 @@ url: /ar/java/metafile-and-vector-image-handling/
 تعرف على كيفية تحويل SVG إلى EMF باستخدام Aspose.Imaging لـ Java. الحفاظ على جودة الصورة وقابلية التوسع دون عناء.
 ### [مزامنة خاصية الجذر في الصور](./synchronize-root-property-in-images/)
 تعرف على كيفية مزامنة خاصية الجذر في الصور باستخدام Aspose.Imaging for Java. تأكد من معالجة الصور بشكل آمن باستخدام هذا الدليل التفصيلي خطوة بخطوة.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

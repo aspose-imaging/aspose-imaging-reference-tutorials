@@ -3,10 +3,16 @@ title: Expansion et recadrage d'image avec Aspose.Imaging Java
 linktitle: Expansion et recadrage de l'image
 second_title: API de traitement d'images Java Aspose.Imaging
 description: Découvrez comment agrandir et recadrer des images en Java à l'aide d'Aspose.Imaging. Améliorez vos compétences en traitement d'image avec ce guide étape par étape.
-type: docs
 weight: 11
 url: /fr/java/document-conversion-and-processing/image-expansion-and-cropping/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Expansion et recadrage d'image avec Aspose.Imaging Java
+
 Dans le monde du contenu numérique, manipuler et améliorer les images est une tâche courante, que vous soyez développeur Web, graphiste ou créateur de contenu. Aspose.Imaging for Java est un outil puissant qui vous permet d'effectuer diverses opérations de traitement d'image de manière transparente. Dans ce guide étape par étape, nous vous guiderons tout au long du processus d'agrandissement et de recadrage d'images à l'aide d'Aspose.Imaging en Java.
 
 ## Conditions préalables
@@ -107,3 +113,9 @@ A4 : Oui, Aspose.Imaging peut être utilisé dans des projets commerciaux, mais
 ### Q5 : Où puis-je trouver des exemples et des ressources supplémentaires pour Aspose.Imaging pour Java ?
 
  A5 : Vous pouvez explorer davantage d'exemples de code et de ressources dans le[Documentation](https://reference.aspose.com/imaging/java/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

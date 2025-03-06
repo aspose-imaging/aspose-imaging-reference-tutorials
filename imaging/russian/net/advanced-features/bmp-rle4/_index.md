@@ -3,10 +3,16 @@ title: Сжатие BMP RLE4 в учебном пособии Aspose.Imaging for
 linktitle: BMP RLE4 в Aspose.Imaging для .NET
 second_title: API обработки изображений Aspose.Imaging .NET
 description: Узнайте, как применить сжатие BMP RLE4 в Aspose.Imaging для .NET. Уменьшите размер изображения BMP без потери качества.
-type: docs
 weight: 15
 url: /ru/net/advanced-features/bmp-rle4/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Сжатие BMP RLE4 в учебном пособии Aspose.Imaging for .NET
+
 Aspose.Imaging for .NET — это мощная библиотека, позволяющая разработчикам работать с различными форматами изображений, включая BMP. В этом уроке мы рассмотрим технику сжатия BMP RLE4 и способы ее использования в Aspose.Imaging для .NET. Это пошаговое руководство проведет вас через процесс работы со сжатием BMP RLE4: от настройки среды до создания и сохранения сжатых изображений BMP.
 
 ## Предварительные условия
@@ -112,3 +118,9 @@ A1: Сжатие BMP RLE4 — это метод, используемый для
 ### Вопрос 5: Как я могу получить временную лицензию на Aspose.Imaging for .NET?
 
  О5: Вы можете получить временную лицензию на Aspose.Imaging for .NET, посетив[страница временной лицензии](https://purchase.aspose.com/temporary-license/) на сайте Aspose.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Αναστρέψτε τις εικόνες DICOM με το Aspose.Imaging
 linktitle: Αναστρέψτε την εικόνα DICOM στο Aspose.Imaging για .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Μάθετε πώς να αναστρέφετε εικόνες DICOM χρησιμοποιώντας το Aspose.Imaging για .NET. Εύκολος, αποτελεσματικός χειρισμός εικόνας για ιατρικές εφαρμογές και πολλά άλλα.
-type: docs
 weight: 10
 url: /el/net/image-transformation/flip-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Αναστρέψτε τις εικόνες DICOM με το Aspose.Imaging για .NET
+
 ## Εισαγωγή
 
 Στον κόσμο της ανάπτυξης λογισμικού, ο χειρισμός εικόνας είναι μια κοινή και ουσιαστική εργασία. Είτε εργάζεστε σε μια εφαρμογή ιατρικής απεικόνισης είτε σε ένα έργο δημιουργικού γραφικού σχεδιασμού, η δυνατότητα αναστροφής εικόνων DICOM είναι μια πολύτιμη ικανότητα. Το Aspose.Imaging για .NET είναι ένα ισχυρό εργαλείο που μπορεί να σας βοηθήσει να το πετύχετε αυτό χωρίς κόπο. Σε αυτόν τον περιεκτικό οδηγό, θα σας καθοδηγήσουμε στη διαδικασία αναστροφής εικόνων DICOM χρησιμοποιώντας το Aspose.Imaging για .NET. Θα αναλύσουμε κάθε βήμα, θα παρέχουμε παραδείγματα κώδικα και θα προσφέρουμε πληροφορίες για τις προϋποθέσεις και τους χώρους ονομάτων που πρέπει να γνωρίζετε.
@@ -99,3 +105,9 @@ A1: Ναι, το Aspose.Imaging for .NET υποστηρίζει διάφορες
 
 ### Ε5: Ποιες άλλες δυνατότητες χειρισμού εικόνας προσφέρει το Aspose.Imaging για .NET;
 A5: Το Aspose.Imaging για .NET παρέχει ένα ευρύ φάσμα δυνατοτήτων, όπως αλλαγή μεγέθους, περικοπή, φιλτράρισμα και πολλά άλλα. Μπορείτε να εξερευνήσετε τις πλήρεις δυνατότητες της βιβλιοθήκης στην τεκμηρίωση.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

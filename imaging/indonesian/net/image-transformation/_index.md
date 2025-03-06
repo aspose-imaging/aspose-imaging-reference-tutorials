@@ -3,10 +3,16 @@ title: Buka Keajaiban Transformasi Gambar dengan Aspose.Imaging .NET
 linktitle: Transformasi Gambar
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Temukan seni transformasi gambar dengan Aspose.Imaging for .NET. Pelajari cara membalik dan memutar gambar DICOM dengan mudah untuk aplikasi medis dan banyak lagi.
-type: docs
 weight: 24
 url: /id/net/image-transformation/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Buka Keajaiban Transformasi Gambar dengan Aspose.Imaging .NET
+
 
 Apakah Anda siap untuk mempelajari dunia transformasi gambar? Aspose.Imaging untuk .NET membuka pintu bagi manipulasi gambar DICOM yang mulus dan efisien, yang disesuaikan untuk aplikasi medis dan seterusnya. Dalam tutorial komprehensif ini, kami akan memandu Anda melalui dua teknik transformasi gambar penting: membalik dan memutar gambar DICOM. 
 
@@ -37,3 +43,9 @@ Jelajahi rotasi gambar DICOM dengan Aspose.Imaging untuk .NET. Panduan langkah d
 ## Kesimpulan
 
 Aspose.Imaging for .NET memberdayakan Anda untuk menguasai seni transformasi gambar, menjadikannya alat yang sangat berharga bagi profesional medis dan pengembang. Baik Anda perlu membalik atau memutar gambar DICOM, tutorial ini menawarkan perjalanan mulus ke dunia manipulasi gambar. Tingkatkan aplikasi medis dan pemrosesan gambar Anda dengan Aspose.Imaging untuk .NET sekarang. Buka keajaiban transformasi gambar sekarang!
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

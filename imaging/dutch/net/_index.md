@@ -1,12 +1,17 @@
 ---
 title: Uitgebreide tutorials en voorbeelden van Aspose.Imaging voor .NET
 linktitle: Aspose.Imaging voor .NET-zelfstudies
-type: docs
 weight: 10
 url: /nl/net/
 description: Ontdek de kracht van Aspose.Imaging voor .NET met onze diepgaande tutorials. Van beeldcompositie tot geavanceerde functies verbeter uw vaardigheden en til uw beeldverwerkingsspel naar een hoger niveau.
-is_root: true
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Uitgebreide tutorials en voorbeelden van Aspose.Imaging voor .NET
+
 
 Welkom bij onze uitgebreide gids over Aspose.Imaging voor .NET! Of u nu een beginneling of een expert bent, deze tutorials helpen u de beeldverwerking onder de knie te krijgen met deze krachtige tool. Van beeldcompositie tot geavanceerde functies, wij staan voor u klaar.
 
@@ -72,3 +77,9 @@ Leer beeldformaatconversie met Aspose.Imaging voor .NET. Converteer CDR, CMX, DJ
 Ontdek een uitgebreide reeks tutorials over DICOM-beeldverwerking met Aspose.Imaging voor .NET. Leer moeiteloos medische beelden verbeteren.
 ### [Geavanceerde functies](./advanced-features/)
 Haal het beste uit Aspose.Imaging voor .NET met onze stapsgewijze tutorials. Leer hoe u originele opties kunt ontgrendelen en moeiteloos met afbeeldingen kunt werken.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

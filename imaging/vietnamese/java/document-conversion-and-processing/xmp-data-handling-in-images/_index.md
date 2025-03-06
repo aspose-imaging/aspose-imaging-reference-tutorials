@@ -3,10 +3,16 @@ title: Xử lý dữ liệu XMP trong hình ảnh với Aspose.Imaging cho Java
 linktitle: Xử lý dữ liệu XMP trong hình ảnh
 second_title: Aspose.Imaging API xử lý hình ảnh Java
 description: Tìm hiểu cách xử lý siêu dữ liệu XMP trong hình ảnh bằng Aspose.Imaging cho Java. Nhúng và truy xuất siêu dữ liệu để cải thiện tệp hình ảnh của bạn.
-type: docs
 weight: 16
 url: /vi/java/document-conversion-and-processing/xmp-data-handling-in-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Xử lý dữ liệu XMP trong hình ảnh với Aspose.Imaging cho Java
+
 Aspose.Imaging for Java là một thư viện linh hoạt và mạnh mẽ để làm việc với hình ảnh ở nhiều định dạng khác nhau. Hướng dẫn này sẽ hướng dẫn bạn quy trình xử lý dữ liệu XMP (Nền tảng siêu dữ liệu mở rộng) trong hình ảnh bằng Aspose.Imaging for Java. XMP là tiêu chuẩn để nhúng siêu dữ liệu vào tệp hình ảnh, cho phép bạn lưu trữ thông tin có giá trị như tác giả, mô tả, v.v.
 
 ## Điều kiện tiên quyết
@@ -228,3 +234,9 @@ try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(),
 }
         
 ```
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

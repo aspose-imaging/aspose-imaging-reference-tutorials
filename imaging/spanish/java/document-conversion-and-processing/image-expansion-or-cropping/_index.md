@@ -3,10 +3,16 @@ title: Ampliación o recorte de imágenes con Aspose.Imaging para Java
 linktitle: Ampliación o recorte de imagen
 second_title: Aspose.Imaging API de procesamiento de imágenes Java
 description: Aprenda a expandir y recortar imágenes en Java con Aspose.Imaging. Tutorial paso a paso para desarrolladores. Mejore sus habilidades de manipulación de imágenes.
-type: docs
 weight: 12
 url: /es/java/document-conversion-and-processing/image-expansion-or-cropping/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Ampliación o recorte de imágenes con Aspose.Imaging para Java
+
 En el mundo en constante evolución de los medios digitales, la manipulación eficaz de imágenes es una necesidad fundamental tanto para las empresas como para los particulares. Aspose.Imaging para Java es una biblioteca Java versátil que le permite trabajar con imágenes sin esfuerzo. En este completo tutorial, lo guiaremos a través del proceso de expansión y recorte de imágenes usando Aspose.Imaging para Java. Ya sea que sea un desarrollador experimentado o esté comenzando su viaje en codificación, desglosaremos cada paso de una manera fácil para principiantes.
 
 ## Requisitos previos
@@ -101,3 +107,9 @@ R3: Sí, Aspose.Imaging para Java es adecuado para aplicaciones web y puede inte
 ### P5: ¿Hay una prueba gratuita disponible para Aspose.Imaging para Java?
 
  R5: Sí, puedes explorar la biblioteca con una prueba gratuita. Descárgalo desde[aquí](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

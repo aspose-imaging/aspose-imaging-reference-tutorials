@@ -3,10 +3,16 @@ title: تحويل ملفات تعريف WMF إلى رسومات متجهة قا�
 linktitle: تحويل ملفات تعريف WMF إلى رسومات متجهة قابلة للتطوير
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: تعرف على كيفية تحويل صور WMF إلى SVG في Java باستخدام Aspose.Imaging. اتبع دليلنا خطوة بخطوة لتحويل تنسيق الصور بكفاءة.
-type: docs
 weight: 15
 url: /ar/java/image-conversion-and-optimization/convert-wmf-metafiles-to-scalable-vector-graphics/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# تحويل ملفات تعريف WMF إلى رسومات متجهة قابلة للتطوير
+
 ## مقدمة
 
 مرحبًا بك في دليلنا خطوة بخطوة حول كيفية تحويل صور WMF (ملف تعريف Windows) إلى SVG (رسومات متجهة قابلة للتحجيم) باستخدام Aspose.Imaging for Java. سواء كنت مطورًا متمرسًا أو بدأت للتو، سيزودك هذا البرنامج التعليمي بجميع المعلومات الأساسية التي تحتاجها لأداء هذه المهمة بكفاءة.
@@ -94,3 +100,9 @@ A3: يدعم Aspose.Imaging نطاقًا واسعًا من تنسيقات الص
 ### س5: ما هو إصدار Java المتوافق مع Aspose.Imaging for Java؟
 
 A5: Aspose.Imaging for Java متوافق مع Java 8 والإصدارات الأحدث.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

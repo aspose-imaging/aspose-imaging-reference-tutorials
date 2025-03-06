@@ -3,10 +3,16 @@ title: Nhị phân hóa với Ngưỡng thích ứng của Bradley trên hình �
 linktitle: Nhị phân hóa với Ngưỡng thích ứng của Bradley trên hình ảnh DICOM trong Aspose.Imaging for .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Tìm hiểu cách áp dụng Ngưỡng thích ứng của Bradley cho hình ảnh DICOM bằng Aspose.Imaging for .NET. Việc nhị phân hóa được thực hiện dễ dàng với hướng dẫn từng bước.
-type: docs
 weight: 14
 url: /vi/net/dicom-image-processing/binarization-with-bradleys-adaptive-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Nhị phân hóa với Ngưỡng thích ứng của Bradley trên hình ảnh DICOM trong Aspose.Imaging for .NET
+
 Bạn đang muốn áp dụng Ngưỡng thích ứng của Bradley cho hình ảnh DICOM bằng Aspose.Imaging cho .NET? Trong hướng dẫn toàn diện này, chúng tôi sẽ hướng dẫn bạn từng bước thực hiện quy trình. Đến cuối hướng dẫn này, bạn sẽ có thể thực hiện nhị phân hóa trên hình ảnh DICOM một cách hiệu quả. Chúng tôi sẽ đề cập đến mọi thứ từ điều kiện tiên quyết đến nhập vùng tên và chia từng ví dụ thành nhiều bước.
 
 ## Điều kiện tiên quyết
@@ -97,3 +103,9 @@ Câu trả lời 2: Có, bạn có thể lặp qua nhiều hình ảnh DICOM và
 ### Câu hỏi 5: Làm cách nào tôi có thể nhận được hỗ trợ cho Aspose.Imaging cho .NET?
 
  Câu trả lời 5: Bạn có thể tham gia cộng đồng Aspose và nhận được sự hỗ trợ từ các nhà phát triển đồng nghiệp trên[Diễn đàn Aspose](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

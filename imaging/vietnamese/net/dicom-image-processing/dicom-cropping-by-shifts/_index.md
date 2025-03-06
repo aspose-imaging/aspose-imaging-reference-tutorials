@@ -3,10 +3,16 @@ title: Cắt hình ảnh DICOM bằng Aspose.Imaging cho .NET
 linktitle: Cắt xén DICOM theo ca trong Aspose.Imaging cho .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Tìm hiểu cách cắt hình ảnh DICOM bằng Aspose.Imaging cho .NET. Nâng cao khả năng xử lý hình ảnh y tế với hướng dẫn từng bước này.
-type: docs
 weight: 18
 url: /vi/net/dicom-image-processing/dicom-cropping-by-shifts/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Cắt hình ảnh DICOM bằng Aspose.Imaging cho .NET
+
 Cắt xén hình ảnh y tế, đặc biệt là hình ảnh DICOM, là một nhiệm vụ quan trọng trong ngành chăm sóc sức khỏe. Nó cho phép các chuyên gia chăm sóc sức khỏe tập trung vào các lĩnh vực quan tâm cụ thể, loại bỏ các yếu tố không mong muốn và nâng cao khả năng trình bày trực quan của dữ liệu chẩn đoán. Trong hướng dẫn này, chúng ta sẽ khám phá cách cắt hình ảnh DICOM bằng Aspose.Imaging cho .NET, một thư viện mạnh mẽ giúp đơn giản hóa các tác vụ xử lý hình ảnh trong các ứng dụng .NET.
 
 ## Điều kiện tiên quyết
@@ -100,3 +106,9 @@ Câu trả lời 2: Có, Aspose.Imaging for .NET là một thư viện đa năng
 ### Câu hỏi 5: Tôi có thể sử dụng Aspose.Imaging cho .NET trong các ứng dụng xử lý hình ảnh phi y tế không?
 
 A5: Chắc chắn rồi! Mặc dù nó rất tốt cho hình ảnh y tế nhưng Aspose.Imaging for .NET có thể được sử dụng cho nhiều tác vụ xử lý hình ảnh trong nhiều lĩnh vực khác nhau.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

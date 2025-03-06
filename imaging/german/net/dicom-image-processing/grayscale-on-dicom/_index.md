@@ -3,10 +3,16 @@ title: Graustufen-DICOM-Bilder mit Aspose.Imaging für .NET
 linktitle: Graustufen auf DICOM in Aspose.Imaging für .NET
 second_title: Aspose.Imaging .NET-Bildverarbeitungs-API
 description: Erfahren Sie, wie Sie mit Aspose.Imaging für .NET, einer leistungsstarken Bildverarbeitungsbibliothek, eine Grauskalierung von DICOM-Bildern durchführen.
-type: docs
 weight: 24
 url: /de/net/dicom-image-processing/grayscale-on-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Graustufen-DICOM-Bilder mit Aspose.Imaging für .NET
+
 Wenn Sie mit medizinischen Bilddaten im DICOM-Format arbeiten und Graustufentransformationen durchführen müssen, bietet Aspose.Imaging für .NET eine leistungsstarke Lösung. In dieser Schritt-für-Schritt-Anleitung führen wir Sie durch den Prozess der Grauskalierung eines DICOM-Bildes mit Aspose.Imaging. Diese Bibliothek ist ein vielseitiges Tool, mit dem Sie in einer .NET-Umgebung mit verschiedenen Bildformaten, einschließlich DICOM, arbeiten können. Lass uns anfangen!
 
 ## Voraussetzungen
@@ -85,3 +91,9 @@ A2: Ja, Aspose.Imaging ist eine vielseitige Bibliothek, die eine breite Palette 
 ### F5: Wie kann ich Unterstützung für Aspose.Imaging erhalten?
 
  A5: Wenn Sie Fragen haben oder Hilfe benötigen, können Sie die besuchen[Aspose.Imaging-Forum](https://forum.aspose.com/) um Hilfe von der Community zu suchen oder ihr Support-Team zu kontaktieren.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

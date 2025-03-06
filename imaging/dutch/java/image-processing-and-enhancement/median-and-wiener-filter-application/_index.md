@@ -3,10 +3,16 @@ title: Mediaan- en Wiener-filtertoepassing
 linktitle: Mediaan- en Wiener-filtertoepassing
 second_title: Aspose.Imaging Java-beeldverwerkings-API
 description: Leer hoe u de beeldkwaliteit kunt verbeteren met Aspose.Imaging voor Java. Deze stapsgewijze zelfstudie behandelt Median- en Wiener-filtertoepassingen voor het verwijderen van ruis in afbeeldingen.
-type: docs
 weight: 19
 url: /nl/java/image-processing-and-enhancement/median-and-wiener-filter-application/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Mediaan- en Wiener-filtertoepassing
+
 In de wereld van beeldverwerking zijn het verwijderen van ruis en het verbeteren van de beeldkwaliteit cruciale taken. Aspose.Imaging voor Java is een krachtige bibliotheek die verschillende tools en filters biedt voor het werken met afbeeldingen. In deze zelfstudie begeleiden we u bij het gebruik van de bibliotheek om Mediaan- en Wiener-filters toe te passen om een afbeelding op te schonen en de ruis te verwijderen. Met deze stapsgewijze handleiding kunt u professionele beeldverbetering realiseren.
 
 ## Vereisten
@@ -97,3 +103,9 @@ A4: Naast het Mediaan-filter omvatten beeldverbeteringstechnieken onder meer Wie
 ### V5: Kan ik Aspose.Imaging voor Java gebruiken in mijn webapplicatie?
 
 A5: Ja, u kunt Aspose.Imaging voor Java integreren in uw webapplicaties voor beeldverwerking op de server.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

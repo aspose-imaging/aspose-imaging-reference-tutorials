@@ -3,10 +3,16 @@ title: Đo văn bản trong hình ảnh bằng Aspose.Imaging for .NET
 linktitle: Đo văn bản trong Aspose.Imaging cho .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Đo văn bản trong hình ảnh bằng Aspose.Imaging for .NET. Một thư viện .NET mạnh mẽ. Đo lường văn bản chính xác và hiệu quả.
-type: docs
 weight: 10
 url: /vi/net/text-and-measurements/measure-text/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Đo văn bản trong hình ảnh bằng Aspose.Imaging for .NET
+
 Nếu bạn là nhà phát triển .NET đang tìm cách xử lý hình ảnh và đo lường văn bản một cách chính xác thì Aspose.Imaging for .NET là một giải pháp mạnh mẽ. Trong hướng dẫn từng bước này, chúng ta sẽ khám phá cách đo văn bản bằng Aspose.Imaging, bắt đầu với các điều kiện tiên quyết và lên đến đỉnh điểm là một ví dụ thực tế. Hãy đi sâu vào ngay!
 
 ## Điều kiện tiên quyết
@@ -95,3 +101,9 @@ Tiếp theo, bạn tạo một đối tượng Graphics, đối tượng này r�
 ### Câu hỏi 5: Làm cách nào để tải xuống Aspose.Imaging cho .NET?
 
  Câu trả lời 5: Bạn có thể tải xuống Aspose.Imaging cho .NET từ[trang tải xuống](https://releases.aspose.com/imaging/net/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

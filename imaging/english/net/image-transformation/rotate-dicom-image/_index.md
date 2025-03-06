@@ -3,10 +3,16 @@ title: Rotate DICOM Images with Aspose.Imaging for .NET
 linktitle: Rotate DICOM Image in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Explore DICOM image rotation with Aspose.Imaging for .NET. Step-by-step guide to manipulate medical images.
-type: docs
 weight: 11
 url: /net/image-transformation/rotate-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Rotate DICOM Images with Aspose.Imaging for .NET
+
 ## Introduction
 
 In today's digital age, image processing has become an integral part of various industries, from healthcare to design and beyond. If you're a .NET developer looking to manipulate and enhance medical images, Aspose.Imaging for .NET is a powerful tool at your disposal. In this comprehensive guide, we will walk you through the process of rotating a DICOM image using Aspose.Imaging for .NET.
@@ -94,3 +100,10 @@ A4: Absolutely! Aspose.Imaging for .NET caters to developers of all skill levels
 ### Q5: Are there licensing options for Aspose.Imaging for .NET?
 
 A5: Yes, you can explore licensing options, including a free trial and purchasing, on the [Aspose.Imaging purchase page](https://purchase.aspose.com/buy) and [temporary licenses](https://purchase.aspose.com/temporary-license/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

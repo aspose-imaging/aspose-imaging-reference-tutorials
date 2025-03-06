@@ -3,10 +3,16 @@ title: Master Fixed Threshold Binarization s Aspose.Imaging pro Java
 linktitle: Opravená prahová binarizace
 second_title: Aspose.Imaging Java Image Processing API
 description: Zjistěte, jak provádět binarizaci s pevnou prahovou hodnotou na obrázcích pomocí Aspose.Imaging for Java.
-type: docs
 weight: 21
 url: /cs/java/image-processing-and-enhancement/fixed-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Master Fixed Threshold Binarization s Aspose.Imaging pro Java
+
 ## Úvod
 
 V oblasti programování v Javě je k dispozici řada nástrojů a knihoven pro zpracování různých úloh zpracování obrazu. Jednou z takových výkonných a všestranných knihoven je Aspose.Imaging for Java. Ať už jste zkušený vývojář nebo teprve začínáte svou cestu v manipulaci s obrázky, Aspose.Imaging poskytuje robustní sadu funkcí pro zefektivnění vašich úkolů. V tomto tutoriálu se ponoříme do jedné ze základních technik zpracování obrazu – Fixed Threshold Binarization – pomocí Aspose.Imaging for Java.
@@ -119,3 +125,9 @@ Odpověď 3: Ano, existují alternativní knihovny jako Java Advanced Imaging (J
 ### Q5: Mohu provádět další úlohy zpracování obrazu s Aspose.Imaging for Java?
 
 A5: Rozhodně! Aspose.Imaging for Java nabízí širokou škálu funkcí pro zpracování obrazu, včetně změny velikosti, oříznutí, filtrování a dalších.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

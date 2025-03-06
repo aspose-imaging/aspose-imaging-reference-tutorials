@@ -3,10 +3,16 @@ title: Binarisasi dengan Ambang Batas Tetap pada Gambar DICOM di Aspose.Imaging 
 linktitle: Binarisasi dengan Ambang Batas Tetap pada Gambar DICOM di Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Pelajari cara melakukan binarisasi pada gambar DICOM menggunakan Aspose.Imaging untuk .NET. Panduan langkah demi langkah dengan contoh kode.
-type: docs
 weight: 15
 url: /id/net/dicom-image-processing/binarization-with-fixed-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binarisasi dengan Ambang Batas Tetap pada Gambar DICOM di Aspose.Imaging untuk .NET
+
 Apakah Anda siap terjun ke dunia pemrosesan gambar digital menggunakan Aspose.Imaging untuk .NET? Dalam tutorial langkah demi langkah ini, kita akan mempelajari cara melakukan binarisasi dengan ambang batas tetap pada gambar DICOM. Binarisasi adalah teknik pemrosesan gambar mendasar yang mengubah gambar skala abu-abu menjadi gambar biner, menjadikannya alat penting untuk berbagai aplikasi, mulai dari pencitraan medis hingga analisis dokumen.
 
 ## Prasyarat
@@ -106,3 +112,10 @@ Sangat! Meskipun Aspose.Imaging umumnya digunakan dalam bidang medis, ini adalah
 ### Q5: Apakah ada versi uji coba Aspose.Imaging untuk .NET yang tersedia?
 
  Ya, Anda dapat mencoba Aspose.Imaging untuk .NET dengan mengunduh versi uji coba dari[Di Sini](https://releases.aspose.com/). Ini memungkinkan Anda menjelajahi fitur dan fungsinya sebelum melakukan pembelian.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

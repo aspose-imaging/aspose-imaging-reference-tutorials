@@ -3,10 +3,16 @@ title: 画像のルート プロパティを Aspose.Imaging for Java と同期�
 linktitle: イメージ内のルート プロパティを同期する
 second_title: Aspose.Imaging Java 画像処理 API
 description: Aspose.Imaging for Java を使用してイメージのルート プロパティを同期する方法を学習します。このステップバイステップのガイドを使用して、スレッドセーフな画像処理を確保してください。
-type: docs
 weight: 16
 url: /ja/java/metafile-and-vector-image-handling/synchronize-root-property-in-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 画像のルート プロパティを Aspose.Imaging for Java と同期する
+
 画像処理と操作の分野では、Aspose.Imaging for Java は、開発者にさまざまな画像形式を簡単に操作する手段を提供する強力なツールキットとして機能します。このツールキットの重要な側面の 1 つは、イメージ内のルート プロパティの同期です。この包括的なガイドでは、Aspose.Imaging for Java を使用したルート プロパティの同期の複雑さを説明します。
 
 ## 前提条件
@@ -90,3 +96,9 @@ A3: はい、30 日間の一時ライセンスを取得して、Aspose.Imaging f
 ### Q5: Aspose.Imaging for Java のサポートを受けるにはどうすればよいですか?
 
  A5: サポートや質問がある場合は、サポート フォーラムにアクセスしてください。[ここ](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

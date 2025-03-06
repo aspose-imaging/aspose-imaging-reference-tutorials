@@ -3,10 +3,16 @@ title: Criar imagem usando Stream em Aspose.Imaging for .NET
 linktitle: Criar imagem usando Stream em Aspose.Imaging for .NET
 second_title: API de processamento de imagem Aspose.Imaging .NET
 description: Aprenda como criar imagens usando stream passo a passo com Aspose.Imaging for .NET. Guia abrangente, pré-requisitos e perguntas frequentes incluídas.
-type: docs
 weight: 11
 url: /pt/net/image-creation/create-image-using-stream/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Criar imagem usando Stream em Aspose.Imaging for .NET
+
 Você está procurando aproveitar o poder do Aspose.Imaging for .NET para criar imagens impressionantes sem esforço? Você está no lugar certo! Neste guia completo, orientaremos você no processo de criação de imagens usando Aspose.Imaging for .NET. Começaremos com os pré-requisitos e depois nos aprofundaremos no processo passo a passo, detalhando cada exemplo para garantir que você tenha uma compreensão sólida dos conceitos.
 
 ## Pré-requisitos
@@ -108,3 +114,10 @@ A3: Com certeza! Aspose.Imaging for .NET oferece uma variedade de recursos para 
 ### P5: Como obtenho uma licença temporária do Aspose.Imaging for .NET?
 
  A5: Você pode obter uma licença temporária no site Aspose em[esse link](https://purchase.aspose.com/temporary-license/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

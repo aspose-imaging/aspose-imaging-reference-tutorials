@@ -3,10 +3,16 @@ title: Menggambar Elips di Aspose.Imaging untuk .NET
 linktitle: Gambar Ellipse di Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Pelajari cara menggambar elips di Aspose.Imaging untuk .NET, pustaka manipulasi gambar serbaguna. Buat grafik yang menakjubkan dengan mudah.
-type: docs
 weight: 12
 url: /id/net/basic-drawing/draw-ellipse/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Menggambar Elips di Aspose.Imaging untuk .NET
+
 Dalam tutorial ini, kami akan memandu Anda melalui proses menggambar elips menggunakan Aspose.Imaging untuk .NET. Aspose.Imaging adalah perpustakaan canggih yang memungkinkan Anda memanipulasi dan membuat gambar dalam berbagai format dalam aplikasi .NET Anda. Kita akan mulai dengan memperkenalkan konsep dan prasyarat, lalu membagi setiap contoh menjadi beberapa langkah untuk memastikan pemahaman yang jelas.
 
 ## Prasyarat
@@ -138,3 +144,9 @@ Ya, Anda dapat menggunakan Aspose.Imaging untuk .NET di aplikasi desktop dan web
 ### Q5: Bagaimana saya bisa mendapatkan dukungan untuk Aspose.Imaging untuk .NET jika saya mengalami masalah?
 
  Anda dapat mencari dukungan dan terlibat dengan komunitas Aspose di[forum](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Master Fixed Threshold Binarization with Aspose.Imaging for Java
 linktitle: Fixed Threshold Binarization
 second_title: Aspose.Imaging Java Image Processing API
 description: Learn how to perform Fixed Threshold Binarization on images using Aspose.Imaging for Java.
-type: docs
 weight: 21
 url: /java/image-processing-and-enhancement/fixed-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Master Fixed Threshold Binarization with Aspose.Imaging for Java
+
 ## Introduction
 
 In the realm of Java programming, there are numerous tools and libraries available to handle various image processing tasks. One such powerful and versatile library is Aspose.Imaging for Java. Whether you are a seasoned developer or just beginning your journey in image manipulation, Aspose.Imaging provides a robust set of features to streamline your tasks. In this tutorial, we will delve into one of the fundamental image processing techniques - Fixed Threshold Binarization - using Aspose.Imaging for Java.
@@ -119,3 +125,10 @@ A4: You can adjust the threshold value in the `BinarizationFixedThresholdOptions
 ### Q5: Can I perform other image processing tasks with Aspose.Imaging for Java?
 
 A5: Absolutely! Aspose.Imaging for Java offers a wide range of image processing features, including resizing, cropping, filtering, and more.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

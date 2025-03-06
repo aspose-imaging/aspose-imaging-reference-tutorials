@@ -3,10 +3,16 @@ title: Vẽ cơ bản với Aspose.Imaging cho .NET
 linktitle: Vẽ cơ bản
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Khám phá nghệ thuật vẽ bằng Aspose.Imaging cho .NET. Tạo hình ảnh tuyệt đẹp thông qua hướng dẫn từng bước về hình cung, đường cong Bezier, hình elip, đường thẳng và hình chữ nhật.
-type: docs
 weight: 22
 url: /vi/net/basic-drawing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Vẽ cơ bản với Aspose.Imaging cho .NET
+
 
 Nếu bạn đã từng ngạc nhiên trước vẻ đẹp của đồ họa kỹ thuật số và tự hỏi làm thế nào để tạo ra chúng thì bạn đã đến đúng nơi. Aspose.Imaging for .NET mở ra một thế giới khả năng, cho phép bạn thỏa sức sáng tạo thông qua việc vẽ. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn các hướng dẫn vẽ cơ bản bằng Aspose.Imaging cho .NET, một công cụ xử lý hình ảnh mạnh mẽ. Cho dù bạn là nhà phát triển dày dạn kinh nghiệm hay chỉ mới bắt đầu bước chân vào thế giới đồ họa .NET, những hướng dẫn từng bước này sẽ giúp quá trình này trở nên dễ dàng và thú vị.
 
@@ -52,3 +58,9 @@ Tìm hiểu cách vẽ hình elip trong Aspose.Imaging for .NET, một thư vi�
 Tìm hiểu cách vẽ các đường chính xác trong Aspose.Imaging cho .NET. Hướng dẫn từng bước này bao gồm việc tạo hình ảnh, vẽ đường nét và hơn thế nữa.
 ### [Vẽ hình chữ nhật trong Aspose.Imaging cho .NET](./draw-rectangle/)
 Tìm hiểu cách vẽ hình chữ nhật trong Aspose.Imaging for .NET - một công cụ linh hoạt để xử lý hình ảnh trong các ứng dụng .NET của bạn.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

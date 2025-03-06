@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET ile DICOM Görüntülerini Kırpın
 linktitle: Aspose.Imaging for .NET'te Geçişlerle DICOM Kırpma
 second_title: Aspose.Imaging .NET Görüntü İşleme API'si
 description: Aspose.Imaging for .NET ile DICOM görüntülerini nasıl kırpacağınızı öğrenin. Bu adım adım kılavuzla tıbbi görüntü işlemeyi geliştirin.
-type: docs
 weight: 18
 url: /tr/net/dicom-image-processing/dicom-cropping-by-shifts/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET ile DICOM Görüntülerini Kırpın
+
 Tıbbi görüntülerin, özellikle de DICOM görüntülerinin kırpılması, sağlık sektöründe çok önemli bir görevdir. Sağlık profesyonellerinin belirli ilgi alanlarına odaklanmasına, istenmeyen unsurları ortadan kaldırmasına ve teşhis verilerinin görsel sunumunu geliştirmesine olanak tanır. Bu eğitimde, .NET uygulamalarındaki görüntü işleme görevlerini basitleştiren güçlü bir kütüphane olan Aspose.Imaging for .NET'i kullanarak DICOM görüntülerinin nasıl kırpılacağını keşfedeceğiz.
 
 ## Önkoşullar
@@ -100,3 +106,9 @@ C2: Evet, Aspose.Imaging for .NET, format dönüştürme, yeniden boyutlandırma
 ### S5: Aspose.Imaging for .NET'i tıbbi olmayan görüntü işleme uygulamalarında kullanabilir miyim?
 
 A5: Kesinlikle! Tıbbi görüntüleme için harika olsa da Aspose.Imaging for .NET, çeşitli alanlarda çok çeşitli görüntü işleme görevleri için kullanılabilir.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

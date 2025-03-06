@@ -3,10 +3,16 @@ title: Binarizace s Otsu Threshold na DICOM obrazu v Aspose.Imaging pro .NET
 linktitle: Binarizace s Otsu Threshold na DICOM obrazu v Aspose.Imaging pro .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Vylepšete své lékařské zpracování obrazu pomocí Aspose.Imaging pro .NET. Naučte se provádět binarizaci obrazu DICOM pomocí Otsu Thresholding.
-type: docs
 weight: 16
 url: /cs/net/dicom-image-processing/binarization-with-otsu-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binarizace s Otsu Threshold na DICOM obrazu v Aspose.Imaging pro .NET
+
 Ve světě zpracování a manipulace s obrazem jsou efektivní nástroje a knihovny zásadní. Jednou z takových výkonných knihoven je Aspose.Imaging for .NET, která umožňuje vývojářům pracovat s různými formáty obrázků, včetně souborů DICOM (Digital Imaging and Communications in Medicine). V tomto komplexním průvodci prozkoumáme proces binarizace s Otsu Threshold na obrázku DICOM pomocí Aspose.Imaging for .NET. Tento proces rozdělíme do snadno pochopitelných kroků, abychom zajistili, že tuto funkci můžete bezproblémově implementovat do svých projektů.
 
 ## Předpoklady
@@ -90,3 +96,9 @@ A4: Pro dokumentaci navštivte[Dokumentace Aspose.Imaging pro .NET](https://refe
 ### Q5: Mohu vyzkoušet Aspose.Imaging pro .NET před nákupem?
 
  Odpověď 5: Ano, můžete prozkoumat možnosti Aspose.Imaging pro .NET stažením bezplatné zkušební verze z[tento odkaz](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

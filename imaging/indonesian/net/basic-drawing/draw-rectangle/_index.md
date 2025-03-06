@@ -3,10 +3,16 @@ title: Menggambar Persegi Panjang di Aspose.Imaging untuk .NET
 linktitle: Gambar Persegi Panjang di Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Belajar menggambar persegi panjang di Aspose.Imaging untuk .NET - alat serbaguna untuk manipulasi gambar di aplikasi .NET Anda.
-type: docs
 weight: 14
 url: /id/net/basic-drawing/draw-rectangle/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Menggambar Persegi Panjang di Aspose.Imaging untuk .NET
+
 Membuat dan memanipulasi gambar dalam aplikasi .NET bisa menjadi tugas yang kompleks, namun dengan kekuatan Aspose.Imaging untuk .NET, semuanya menjadi sangat sederhana. Dalam panduan langkah demi langkah ini, kami akan memandu Anda melalui proses menggambar persegi panjang menggunakan Aspose.Imaging untuk .NET. Anda akan belajar cara membuat gambar, mengatur propertinya, menggambar persegi panjang, dan menyimpan pekerjaan Anda. Ayo selami!
 
 ## Prasyarat
@@ -104,3 +110,9 @@ A4: Ya, Aspose.Imaging for .NET menawarkan berbagai fitur pemrosesan gambar ting
 ### Q5: Di mana saya dapat menemukan lebih banyak sumber daya dan dukungan untuk Aspose.Imaging untuk .NET?
 
  A5: Anda dapat mengakses dokumentasinya[Di Sini](https://reference.aspose.com/imaging/net/) dan mencari dukungan di[Aspose.Forum pencitraan](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

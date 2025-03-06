@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for Java 進行對角線影像浮水印
 linktitle: 對角線影像浮水印
 second_title: Aspose.Imaging Java 圖像處理 API
 description: 使用 Aspose.Imaging for Java 透過對角線浮水印增強影像。按照此逐步指南，輕鬆創建令人驚嘆的浮水印圖像。
-type: docs
 weight: 14
 url: /zh-hant/java/image-processing-and-enhancement/diagonal-image-watermarking/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for Java 進行對角線影像浮水印
+
 
 如果您希望使用時尚的對角線浮水印來增強影像，Aspose.Imaging for Java 可以為您提供協助。在本逐步指南中，我們將引導您完成為現有 JPG 影像添加 45 度旋轉文字浮水印的過程。您無需成為 Java 或影像處理的專家即可跟隨 - 我們將每個範例分解為多個步驟，以確保您可以輕鬆獲得專業結果。
 
@@ -141,3 +147,9 @@ A3：是的，Aspose.Imaging for Java 支援多種圖片格式，包括 BMP、PN
 ### Q5：在哪裡可以找到 Aspose.Imaging for Java 的幫助或支援？
 
  A5：如果您有任何問題或需要協助，請造訪 Aspose.Imaging for Java 支援論壇[這裡](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

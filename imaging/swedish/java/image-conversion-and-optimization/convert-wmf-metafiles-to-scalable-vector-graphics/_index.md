@@ -3,10 +3,16 @@ title: Konvertera WMF-metafiler till skalbar vektorgrafik
 linktitle: Konvertera WMF-metafiler till skalbar vektorgrafik
 second_title: Aspose.Imaging Java Image Processing API
 description: Lär dig hur du konverterar WMF-bilder till SVG i Java med Aspose.Imaging. Följ vår steg-för-steg-guide för effektiv konvertering av bildformat.
-type: docs
 weight: 15
 url: /sv/java/image-conversion-and-optimization/convert-wmf-metafiles-to-scalable-vector-graphics/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Konvertera WMF-metafiler till skalbar vektorgrafik
+
 ## Introduktion
 
 Välkommen till vår steg-för-steg-guide om hur du konverterar WMF (Windows Metafile)-bilder till SVG (Scalable Vector Graphics) med Aspose.Imaging för Java. Oavsett om du är en erfaren utvecklare eller precis har börjat, kommer denna handledning att ge dig all viktig information du behöver för att utföra denna uppgift effektivt.
@@ -94,3 +100,9 @@ A3: Aspose.Imaging stöder ett brett utbud av bildformat, inklusive BMP, JPEG, P
 ### F5: Vilken version av Java är kompatibel med Aspose.Imaging för Java?
 
 S5: Aspose.Imaging för Java är kompatibel med Java 8 och senare versioner.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

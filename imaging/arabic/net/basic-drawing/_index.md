@@ -3,10 +3,16 @@ title: الرسم الأساسي باستخدام Aspose.Imaging لـ .NET
 linktitle: الرسم الأساسي
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: اكتشف فن الرسم باستخدام Aspose.Imaging لـ .NET. أنشئ صورًا مذهلة من خلال أدلة خطوة بخطوة حول الأقواس ومنحنيات بيزييه والأشكال الناقصية والخطوط والمستطيلات.
-type: docs
 weight: 22
 url: /ar/net/basic-drawing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# الرسم الأساسي باستخدام Aspose.Imaging لـ .NET
+
 
 إذا سبق لك أن تعجبت من جمال الرسومات الرقمية وتساءلت عن كيفية إنشائها، فأنت في المكان الصحيح. يفتح Aspose.Imaging for .NET عالمًا من الإمكانيات، مما يسمح لك بإطلاق العنان لإبداعك من خلال الرسم. في هذه المقالة، سنرشدك عبر دروس الرسم الأساسية باستخدام Aspose.Imaging for .NET، وهي أداة قوية لمعالجة الصور. سواء كنت مطورًا متمرسًا أو مجرد غمس أصابع قدميك في عالم رسومات .NET، فإن هذه الأدلة خطوة بخطوة ستجعل العملية سهلة وممتعة.
 
@@ -52,3 +58,9 @@ url: /ar/net/basic-drawing/
 تعرف على كيفية رسم خطوط دقيقة في Aspose.Imaging لـ .NET. يغطي هذا الدليل التفصيلي إنشاء الصور ورسم الخطوط والمزيد.
 ### [ارسم مستطيلًا في Aspose.Imaging لـ .NET](./draw-rectangle/)
 تعلم كيفية رسم المستطيلات في Aspose.Imaging for .NET - وهي أداة متعددة الاستخدامات لمعالجة الصور في تطبيقات .NET الخاصة بك.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

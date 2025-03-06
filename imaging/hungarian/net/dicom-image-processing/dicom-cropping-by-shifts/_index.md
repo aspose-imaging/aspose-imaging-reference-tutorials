@@ -3,10 +3,16 @@ title: Vágja le a DICOM képeket az Aspose.Imaging for .NET segítségével
 linktitle: DICOM Cropping Shifts in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Ismerje meg, hogyan vághat le DICOM-képeket az Aspose.Imaging for .NET segítségével. Fokozza az orvosi képfeldolgozást ezzel a lépésenkénti útmutatóval.
-type: docs
 weight: 18
 url: /hu/net/dicom-image-processing/dicom-cropping-by-shifts/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Vágja le a DICOM képeket az Aspose.Imaging for .NET segítségével
+
 Az orvosi képek, különösen a DICOM-képek vágása kulcsfontosságú feladat az egészségügyi ágazatban. Lehetővé teszi az egészségügyi szakemberek számára, hogy bizonyos érdeklődési területekre összpontosítsanak, eltávolítsák a nem kívánt elemeket, és javítsák a diagnosztikai adatok vizuális megjelenítését. Ebben az oktatóanyagban megvizsgáljuk, hogyan vághat le DICOM-képeket az Aspose.Imaging for .NET segítségével, amely egy hatékony könyvtár, amely leegyszerűsíti a képfeldolgozási feladatokat a .NET-alkalmazásokban.
 
 ## Előfeltételek
@@ -100,3 +106,9 @@ A1: A DICOM a Digital Imaging and Communications in Medicine rövidítése. Ez a
 ### 5. kérdés: Használhatom az Aspose.Imaging for .NET programot nem orvosi képfeldolgozó alkalmazásokban?
 
 A5: Abszolút! Bár az Aspose.Imaging for .NET kiválóan használható orvosi képalkotáshoz, a képfeldolgozási feladatok széles skálájához használható különféle területeken.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

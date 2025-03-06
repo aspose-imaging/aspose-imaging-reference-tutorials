@@ -3,10 +3,16 @@ title: Aplikace středního a Wienerova filtru
 linktitle: Aplikace středního a Wienerova filtru
 second_title: Aspose.Imaging Java Image Processing API
 description: Naučte se, jak zlepšit kvalitu obrazu pomocí Aspose.Imaging for Java. Tento podrobný návod pokrývá aplikace filtrů Median a Wiener pro potlačení šumu obrazu.
-type: docs
 weight: 19
 url: /cs/java/image-processing-and-enhancement/median-and-wiener-filter-application/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aplikace středního a Wienerova filtru
+
 Ve světě zpracování obrazu jsou zásadní úkoly odstranění šumu a zvýšení kvality obrazu. Aspose.Imaging for Java je výkonná knihovna, která poskytuje různé nástroje a filtry pro práci s obrázky. V tomto tutoriálu vás provedeme procesem použití knihovny k použití filtrů Median a Wiener k čištění a odšumování obrazu. Tento podrobný průvodce vám pomůže dosáhnout vylepšení obrazu na profesionální úrovni.
 
 ## Předpoklady
@@ -97,3 +103,9 @@ A4: Kromě filtru Medián zahrnují techniky vylepšení obrazu mimo jiné Wiene
 ### Q5: Mohu použít Aspose.Imaging for Java ve své webové aplikaci?
 
 Odpověď 5: Ano, Aspose.Imaging for Java můžete integrovat do svých webových aplikací pro zpracování obrázků na straně serveru.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

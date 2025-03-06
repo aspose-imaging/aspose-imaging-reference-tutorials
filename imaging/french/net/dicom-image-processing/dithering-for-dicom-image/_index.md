@@ -3,10 +3,16 @@ title: Le tramage d'images DICOM simplifié avec Aspose.Imaging pour .NET
 linktitle: Tramage pour l'image DICOM dans Aspose.Imaging pour .NET
 second_title: API de traitement d'images Aspose.Imaging .NET
 description: Découvrez comment effectuer un tramage de seuil sur des images DICOM avec Aspose.Imaging pour .NET. Améliorez la qualité de l’image et réduisez les palettes de couleurs sans effort.
-type: docs
 weight: 22
 url: /fr/net/dicom-image-processing/dithering-for-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Le tramage d'images DICOM simplifié avec Aspose.Imaging pour .NET
+
 Le tramage est une technique fondamentale de traitement d’image utilisée pour réduire le nombre de couleurs d’une image tout en préservant la qualité visuelle. Dans ce guide étape par étape, nous explorerons comment effectuer un tramage sur une image DICOM à l'aide d'Aspose.Imaging pour .NET. Cette puissante bibliothèque offre un large éventail de fonctionnalités pour la manipulation et le traitement des images, ce qui en fait un excellent choix pour les développeurs travaillant avec des images médicales. 
 
 ## Conditions préalables
@@ -92,3 +98,9 @@ A4 : Certaines alternatives à Aspose.Imaging pour .NET incluent ImageMagick, Op
 ### Q5 : Comment puis-je obtenir de l'assistance pour Aspose.Imaging pour .NET ?
 
  A5 : Vous pouvez trouver de l'aide et du support sur le[Forums Aspose.Imaging](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

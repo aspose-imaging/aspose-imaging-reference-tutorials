@@ -1,12 +1,17 @@
 ---
 title: Tutorial Pengolahan Gambar Java dengan Aspose.Imaging
 linktitle: Aspose.Imaging untuk Tutorial Java
-type: docs
 weight: 10
 url: /id/java/
 description: Pelajari konversi gambar, penyempurnaan, dan pemrosesan dokumen dengan Aspose.Imaging untuk Java. Optimalkan gambar dengan mudah menggunakan tutorial kami.
-is_root: true
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Tutorial Pengolahan Gambar Java dengan Aspose.Imaging
+
 
 Apakah Anda siap terjun ke dunia pemrosesan gambar dengan Java? Aspose.Imaging hadir untuk memandu Anda melalui seni rumit memanipulasi gambar dan dokumen. Dalam artikel ini, kami akan membawa Anda dalam perjalanan menelusuri harta karun yang kaya dari tutorial Aspose.Imaging untuk Java, di mana Anda dapat menjelajahi keajaiban konversi, penyempurnaan, dan pemrosesan dokumen gambar. Saatnya untuk membuka potensi penuh gambar Anda dengan mudah!
 
@@ -41,3 +46,9 @@ Temukan tutorial konversi dan pengoptimalan gambar menggunakan Aspose.Imaging un
 Jelajahi tutorial komprehensif tentang konversi dan pemrosesan dokumen dengan Aspose.Imaging Java. Kuasai manipulasi dan transformasi gambar dengan tutorial ini.
 ### [Penanganan Metafile dan Gambar Vektor](./metafile-and-vector-image-handling/)
 Buka potensi Aspose.Imaging untuk Java dengan tutorial langkah demi langkah kami. Buat gambar metafile WMF, tangani header BMP, dan banyak lagi dengan mudah.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: การสร้างอิมเมจ WMF ด้วย Aspose.Imagin
 linktitle: สร้างอิมเมจ WMF Metafile
 second_title: Aspose.Imaging Java Image Processing API
 description: เรียนรู้วิธีสร้างอิมเมจเมตาไฟล์ WMF ใน Java โดยใช้ Aspose.Imaging ปฏิบัติตามคำแนะนำทีละขั้นตอนนี้เพื่อความสามารถในการสร้างภาพอันทรงพลัง
-type: docs
 weight: 10
 url: /th/java/metafile-and-vector-image-handling/generate-wmf-metafile-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# การสร้างอิมเมจ WMF ด้วย Aspose.Imaging สำหรับ Java
+
 คุณต้องการสร้างอิมเมจ WMF (Windows Metafile) ด้วยแอปพลิเคชัน Java ของคุณหรือไม่? Aspose.Imaging for Java เป็นเครื่องมืออันทรงพลังที่ช่วยให้คุณสามารถสร้างอิมเมจ WMF ได้อย่างง่ายดาย ในคำแนะนำทีละขั้นตอนนี้ เราจะแนะนำคุณตลอดขั้นตอนการใช้ Aspose.Imaging สำหรับ Java เพื่อสร้างอิมเมจเมตาไฟล์ WMF 
 
 ## ข้อกำหนดเบื้องต้น
@@ -200,3 +206,9 @@ A1: WMF ย่อมาจาก Windows Metafile ซึ่งเป็นรู
 ### คำถามที่ 5: ฉันจะรับการสนับสนุนหรือถามคำถามเกี่ยวกับ Aspose.Imaging สำหรับ Java ได้ที่ไหน
 
  A5: คุณสามารถค้นหาการสนับสนุนและมีส่วนร่วมกับชุมชน Aspose ได้ที่[Aspose ฟอรั่มการถ่ายภาพ](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

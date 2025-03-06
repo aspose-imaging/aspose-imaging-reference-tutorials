@@ -3,10 +3,16 @@ title: Convierta imágenes rasterizadas a PDF con Aspose.Imaging para Java
 linktitle: Convertir imágenes rasterizadas a PDF
 second_title: Aspose.Imaging API de procesamiento de imágenes Java
 description: Aprenda a convertir imágenes rasterizadas a PDF con Aspose.Imaging para Java. Pasos sencillos para obtener resultados de alta calidad.
-type: docs
 weight: 15
 url: /es/java/document-conversion-and-processing/convert-raster-images-to-pdf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Convierta imágenes rasterizadas a PDF con Aspose.Imaging para Java
+
 En el ámbito de la gestión de documentos digitales, la capacidad de convertir imágenes rasterizadas a PDF es una función fundamental. Ya sea que se trate de fotografías escaneadas, diagramas o cualquier otro tipo de imagen, convertirlos a formato PDF garantiza portabilidad, compatibilidad y una mejor gestión de documentos. Aspose.Imaging para Java es una biblioteca Java versátil que permite a los desarrolladores realizar esta tarea con facilidad. En este completo tutorial, lo guiaremos a través del proceso, paso a paso, para convertir imágenes rasterizadas a PDF usando Aspose.Imaging para Java.
 
 ## Requisitos previos
@@ -89,3 +95,9 @@ R3: Aspose.Imaging para Java admite varios formatos de imagen, incluidos PNG, JP
 ### P5. ¿Hay soporte técnico disponible para los usuarios de Aspose.Imaging para Java?
 
  R5: Sí, Aspose brinda soporte técnico para sus productos, incluido Aspose.Imaging para Java. Puede comunicarse con su equipo de soporte en su[foro](https://forum.aspose.com/)para asistencia.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: معالجة بيانات XMP في الصور باستخدام Aspose.Ima
 linktitle: معالجة بيانات XMP في الصور
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: تعرف على كيفية التعامل مع بيانات تعريف XMP في الصور باستخدام Aspose.Imaging for Java. قم بتضمين واسترجاع البيانات الوصفية لتحسين ملفات الصور الخاصة بك.
-type: docs
 weight: 16
 url: /ar/java/document-conversion-and-processing/xmp-data-handling-in-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# معالجة بيانات XMP في الصور باستخدام Aspose.Imaging لـ Java
+
 Aspose.Imaging for Java هي مكتبة قوية ومتعددة الاستخدامات للتعامل مع الصور بتنسيقات مختلفة. سيرشدك هذا البرنامج التعليمي خلال عملية التعامل مع بيانات XMP (منصة البيانات الوصفية القابلة للتوسيع) في الصور باستخدام Aspose.Imaging for Java. يعد XMP معيارًا لدمج بيانات التعريف في ملفات الصور، مما يسمح لك بتخزين معلومات قيمة مثل المؤلف والوصف والمزيد.
 
 ## المتطلبات الأساسية
@@ -228,3 +234,9 @@ try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(),
 }
         
 ```
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

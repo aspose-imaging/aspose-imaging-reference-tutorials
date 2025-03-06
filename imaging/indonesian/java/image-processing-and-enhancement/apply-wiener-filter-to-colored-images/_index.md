@@ -3,10 +3,16 @@ title: Sempurnakan Gambar Berwarna dengan Filter Wiener dengan Aspose.Imaging un
 linktitle: Terapkan Filter Wiener ke Gambar Berwarna
 second_title: Aspose.Imaging API Pemrosesan Gambar Java
 description: Pelajari cara menerapkan filter Wiener pada gambar berwarna di Java menggunakan Aspose.Imaging untuk Java. Tingkatkan kualitas gambar dan kurangi noise dengan mudah.
-type: docs
 weight: 18
 url: /id/java/image-processing-and-enhancement/apply-wiener-filter-to-colored-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Sempurnakan Gambar Berwarna dengan Filter Wiener dengan Aspose.Imaging untuk Java
+
 Jika Anda ingin meningkatkan kualitas gambar berwarna dan mengurangi noise, Aspose.Imaging untuk Java siap membantu Anda. Dalam tutorial langkah demi langkah ini, kami akan memandu Anda melalui proses penerapan filter Wiener pada gambar berwarna. Pemfilteran Wiener adalah teknik ampuh yang dapat meningkatkan kualitas gambar secara signifikan. Mari kita mulai!
 
 ## Prasyarat
@@ -103,3 +109,9 @@ A2: Ya, Aspose.Imaging for Java kompatibel dengan berbagai pustaka Java dan dapa
 ### Q5: Dapatkah saya menggunakan Aspose.Imaging untuk tujuan komersial?
 
 A5: Ya, Anda dapat menggunakan Aspose.Imaging for Java untuk proyek komersial. Untuk mendapatkan lisensi, Anda dapat mengunjungi[halaman pembelian](https://purchase.aspose.com/buy).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

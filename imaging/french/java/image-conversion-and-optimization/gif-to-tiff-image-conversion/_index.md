@@ -3,10 +3,16 @@ title: Convertir GIF en TIFF à l'aide d'Aspose.Imaging pour Java
 linktitle: Conversion d'images GIF en TIFF
 second_title: API de traitement d'images Java Aspose.Imaging
 description: Découvrez comment convertir facilement des images GIF au format TIFF à l'aide d'Aspose.Imaging pour Java. Ce guide étape par étape vous aidera à démarrer avec cet outil puissant.
-type: docs
 weight: 18
 url: /fr/java/image-conversion-and-optimization/gif-to-tiff-image-conversion/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Convertir GIF en TIFF à l'aide d'Aspose.Imaging pour Java
+
 Dans le monde des médias numériques, la nécessité de convertir les formats d’images est une tâche courante. Parfois, vous devrez peut-être modifier une image GIF au format TIFF. Aspose.Imaging for Java est un outil puissant qui vous permet de faire exactement cela. Dans ce guide étape par étape, nous allons vous montrer comment utiliser Aspose.Imaging pour Java pour convertir une image GIF au format TIFF.
 
 ## Conditions préalables
@@ -142,3 +148,9 @@ try (Image objImage = Image.load(dataDir + "aspose-logo.gif"))
 }
 		
 ```
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

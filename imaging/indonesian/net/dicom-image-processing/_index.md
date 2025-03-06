@@ -3,10 +3,16 @@ title: Pemrosesan Gambar DICOM dengan Aspose.Imaging untuk .NET
 linktitle: Pemrosesan Gambar DICOM
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Jelajahi serangkaian tutorial komprehensif tentang pemrosesan gambar DICOM menggunakan Aspose.Imaging untuk .NET. Belajar untuk meningkatkan citra medis dengan mudah.
-type: docs
 weight: 28
 url: /id/net/dicom-image-processing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Pemrosesan Gambar DICOM dengan Aspose.Imaging untuk .NET
+
 
 Apakah Anda ingin menguasai seni pemrosesan gambar DICOM dengan Aspose.Imaging untuk .NET? Tidak perlu mencari lagi! Dalam rangkaian tutorial ini, kami akan memandu Anda melalui berbagai teknik untuk menyempurnakan dan memanipulasi gambar medis dengan mudah. Baik Anda seorang profesional medis, pengembang, atau sekadar pembelajar yang penasaran, tutorial ini akan membekali Anda dengan pengetahuan dan keterampilan untuk memanfaatkan Aspose.Imaging untuk .NET.
 
@@ -108,3 +114,9 @@ Pelajari cara mengekspor gambar ke format DICOM di .NET menggunakan Aspose.Imagi
 Pelajari cara melakukan penskalaan abu-abu pada gambar DICOM dengan Aspose.Imaging for .NET, pustaka pemrosesan gambar yang canggih.
 ### [Dukungan Menyimpan Tag XMP di Aspose.Imaging untuk .NET](./support-storing-xmp-tags/)
 Pelajari cara menambahkan metadata XMP ke gambar DICOM menggunakan Aspose.Imaging untuk .NET. Optimalkan manajemen dan pengorganisasian gambar dengan panduan langkah demi langkah ini.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

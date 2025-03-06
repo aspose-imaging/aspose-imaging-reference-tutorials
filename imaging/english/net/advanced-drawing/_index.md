@@ -3,10 +3,16 @@ title: Advanced Drawing
 linktitle: Advanced Drawing
 second_title: Aspose.Imaging .NET Image Processing API
 description: Unlock your creativity with advanced drawing tutorials in Aspose.Imaging for .NET. Learn to create and edit images effortlessly with C#.
-type: docs
 weight: 23
 url: /net/advanced-drawing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Advanced Drawing
+
 
 If you've ever wanted to delve into the captivating world of advanced drawing and image manipulation using Aspose.Imaging for .NET, you're in the right place. This article will take you on a journey through the ins and outs of harnessing the power of Aspose.Imaging to create stunning graphics, whether you're a seasoned developer or just getting started.
 
@@ -38,3 +44,9 @@ So, why wait? Dive into the world of Aspose.Imaging for .NET and experience the 
 Explore image creation and manipulation with Aspose.Imaging for .NET. Learn to draw and edit images in C# with ease.
 ### [Draw Using GraphicsPath in Aspose.Imaging for .NET](./draw-using-graphicspath/)
 Create stunning graphics in .NET with Aspose.Imaging. Explore step-by-step tutorials and unlock the power of image processing.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

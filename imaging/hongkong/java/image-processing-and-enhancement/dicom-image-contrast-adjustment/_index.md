@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for Java 進行 DICOM 影像對比度調整
 linktitle: DICOM 影像對比度調整
 second_title: Aspose.Imaging Java 圖像處理 API
 description: 了解如何使用 Aspose.Imaging for Java 調整 DICOM 影像的對比度。輕鬆提升醫學影像的視覺品質。
-type: docs
 weight: 23
 url: /zh-hant/java/image-processing-and-enhancement/dicom-image-contrast-adjustment/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for Java 進行 DICOM 影像對比度調整
+
 在不斷發展的醫學影像領域，調整影像對比度的能力至關重要。透過 Aspose.Imaging for Java 的強大功能，您可以輕鬆操作 DICOM（醫學數位成像和通訊）影像以增強其視覺品質。本教學將逐步引導您完成整個過程，確保您實現精確有效的影像對比調整。
 
 ## 先決條件
@@ -102,3 +108,9 @@ A3：是的，Aspose.Imaging for Java 提供了大量的影像處理功能，例
 ### 問題 5：在哪裡可以找到 Aspose.Imaging for Java 的其他資源和支援？
 
  A5：您可以在以下位置找到文件和支援：[Aspose.Imaging for Java 論壇](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

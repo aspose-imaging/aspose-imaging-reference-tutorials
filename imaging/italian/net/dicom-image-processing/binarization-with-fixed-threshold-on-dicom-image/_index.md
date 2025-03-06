@@ -3,10 +3,16 @@ title: Binarizzazione con soglia fissa sull'immagine DICOM in Aspose.Imaging per
 linktitle: Binarizzazione con soglia fissa sull'immagine DICOM in Aspose.Imaging per .NET
 second_title: Aspose.Imaging API di elaborazione delle immagini .NET
 description: Scopri come eseguire la binarizzazione su un'immagine DICOM utilizzando Aspose.Imaging per .NET. Guida passo passo con esempi di codice.
-type: docs
 weight: 15
 url: /it/net/dicom-image-processing/binarization-with-fixed-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binarizzazione con soglia fissa sull'immagine DICOM in Aspose.Imaging per .NET
+
 Sei pronto per tuffarti nel mondo dell'elaborazione delle immagini digitali utilizzando Aspose.Imaging per .NET? In questo tutorial passo passo esploreremo come eseguire la binarizzazione con una soglia fissa su un'immagine DICOM. La binarizzazione è una tecnica fondamentale di elaborazione delle immagini che converte un'immagine in scala di grigi in un'immagine binaria, rendendola uno strumento essenziale per varie applicazioni, dall'imaging medico all'analisi dei documenti.
 
 ## Prerequisiti
@@ -106,3 +112,10 @@ Assolutamente! Sebbene Aspose.Imaging sia comunemente utilizzato in campo medico
 ### Q5: È disponibile una versione di prova di Aspose.Imaging per .NET?
 
  Sì, puoi provare Aspose.Imaging per .NET scaricando la versione di prova da[Qui](https://releases.aspose.com/). Ti consente di esplorare le sue caratteristiche e funzionalità prima di effettuare un acquisto.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

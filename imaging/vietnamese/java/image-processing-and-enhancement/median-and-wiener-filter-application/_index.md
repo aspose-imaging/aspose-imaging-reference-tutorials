@@ -3,10 +3,16 @@ title: Ứng dụng bộ lọc trung vị và Wiener
 linktitle: Ứng dụng bộ lọc trung vị và Wiener
 second_title: Aspose.Imaging API xử lý hình ảnh Java
 description: Tìm hiểu cách nâng cao chất lượng hình ảnh bằng Aspose.Imaging cho Java. Hướng dẫn từng bước này bao gồm các ứng dụng bộ lọc Median và Wiener để khử nhiễu hình ảnh.
-type: docs
 weight: 19
 url: /vi/java/image-processing-and-enhancement/median-and-wiener-filter-application/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Ứng dụng bộ lọc trung vị và Wiener
+
 Trong thế giới xử lý hình ảnh, việc loại bỏ nhiễu và nâng cao chất lượng hình ảnh là những nhiệm vụ quan trọng. Aspose.Imaging for Java là một thư viện mạnh mẽ cung cấp nhiều công cụ và bộ lọc khác nhau để làm việc với hình ảnh. Trong hướng dẫn này, chúng tôi sẽ hướng dẫn bạn quy trình sử dụng thư viện để áp dụng các bộ lọc Median và Wiener để làm sạch và khử nhiễu cho hình ảnh. Hướng dẫn từng bước này sẽ giúp bạn nâng cao hình ảnh ở cấp độ chuyên nghiệp.
 
 ## Điều kiện tiên quyết
@@ -97,3 +103,9 @@ Câu trả lời 4: Ngoài bộ lọc Trung vị, các kỹ thuật nâng cao h�
 ### Câu hỏi 5: Tôi có thể sử dụng Aspose.Imaging cho Java trong ứng dụng web của mình không?
 
 Câu trả lời 5: Có, bạn có thể tích hợp Aspose.Imaging for Java vào các ứng dụng web của mình để xử lý hình ảnh phía máy chủ.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

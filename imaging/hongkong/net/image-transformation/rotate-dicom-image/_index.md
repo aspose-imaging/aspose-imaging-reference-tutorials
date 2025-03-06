@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for .NET 旋轉 DICOM 影像
 linktitle: 在 Aspose.Imaging for .NET 中旋轉 DICOM 影像
 second_title: Aspose.Imaging .NET 映像處理 API
 description: 使用 Aspose.Imaging for .NET 探索 DICOM 影像旋轉。操作醫學影像的逐步指南。
-type: docs
 weight: 11
 url: /zh-hant/net/image-transformation/rotate-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for .NET 旋轉 DICOM 影像
+
 ## 介紹
 
 在當今的數位時代，影像處理已成為從醫療保健到設計等各個行業不可或缺的一部分。如果您是希望操作和增強醫學影像的 .NET 開發人員，Aspose.Imaging for .NET 是您可以使用的強大工具。在本綜合指南中，我們將引導您完成使用 Aspose.Imaging for .NET 旋轉 DICOM 影像的過程。
@@ -94,3 +100,9 @@ A4：當然！ Aspose.Imaging for .NET 適合各種技能等級的開發人員�
 ### 問題 5：Aspose.Imaging for .NET 是否有許可選項？
 
  A5：是的，您可以在以下網站上探索授權選項，包括免費試用和購買[Aspose.Imaging購買頁面](https://purchase.aspose.com/buy)和[臨時許可證](https://purchase.aspose.com/temporary-license/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

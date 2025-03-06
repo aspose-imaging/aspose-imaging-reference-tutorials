@@ -3,10 +3,16 @@ title: Nhị phân hóa với ngưỡng cố định trên hình ảnh DICOM tro
 linktitle: Nhị phân hóa với ngưỡng cố định trên hình ảnh DICOM trong Aspose.Imaging for .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Tìm hiểu cách thực hiện nhị phân hóa trên hình ảnh DICOM bằng Aspose.Imaging for .NET. Hướng dẫn từng bước với các ví dụ về mã.
-type: docs
 weight: 15
 url: /vi/net/dicom-image-processing/binarization-with-fixed-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Nhị phân hóa với ngưỡng cố định trên hình ảnh DICOM trong Aspose.Imaging for .NET
+
 Bạn đã sẵn sàng bước vào thế giới xử lý hình ảnh kỹ thuật số bằng Aspose.Imaging cho .NET chưa? Trong hướng dẫn từng bước này, chúng ta sẽ khám phá cách thực hiện nhị phân hóa với ngưỡng cố định trên hình ảnh DICOM. Nhị phân hóa là một kỹ thuật xử lý hình ảnh cơ bản giúp chuyển đổi hình ảnh thang độ xám thành hình ảnh nhị phân, khiến nó trở thành một công cụ thiết yếu cho nhiều ứng dụng khác nhau, từ hình ảnh y tế đến phân tích tài liệu.
 
 ## Điều kiện tiên quyết
@@ -106,3 +112,10 @@ Tuyệt đối! Mặc dù Aspose.Imaging thường được sử dụng trong l�
 ### Câu hỏi 5: Có sẵn phiên bản dùng thử của Aspose.Imaging cho .NET không?
 
  Có, bạn có thể dùng thử Aspose.Imaging for .NET bằng cách tải xuống phiên bản dùng thử từ[đây](https://releases.aspose.com/). Nó cho phép bạn khám phá các tính năng và chức năng của nó trước khi mua hàng.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

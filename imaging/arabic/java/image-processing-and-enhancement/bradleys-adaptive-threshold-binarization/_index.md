@@ -3,10 +3,16 @@ title: الصورة الثنائية مع Aspose.Imaging لجافا
 linktitle: برادلي عتبة التكيف الثنائية
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: تعلم ثنائية الصورة باستخدام Aspose.Imaging لـ Java. تحويل صور DICOM بسهولة. استكشف دليلاً خطوة بخطوة مع أمثلة التعليمات البرمجية.
-type: docs
 weight: 27
 url: /ar/java/image-processing-and-enhancement/bradleys-adaptive-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# الصورة الثنائية مع Aspose.Imaging لجافا
+
 تلعب الصور دورًا حاسمًا في العالم الرقمي، سواء على مواقع الويب أو في المستندات أو كجزء من التطبيقات المختلفة. تعد معالجة الصور مهمة أساسية في هذه المجالات، وإحدى العمليات الأساسية هي ثنائية الصورة. تعمل عملية Binarization على تبسيط الصورة عن طريق تحويلها إلى نموذج ثنائي، مما يسهل على أجهزة الكمبيوتر معالجتها. تعد Aspose.Imaging for Java أداة قوية توفر نطاقًا واسعًا من ميزات معالجة الصور، وفي هذا البرنامج التعليمي، سنستكشف كيفية إجراء عملية ثنائية الصورة باستخدام Aspose.Imaging's Bradley's Adaptive Threshold Binarization. 
 
 ## المتطلبات الأساسية
@@ -111,3 +117,9 @@ image.save(outputFile, new com.aspose.imaging.imageoptions.BmpOptions());
 ### س 5: هل Aspose.Imaging for Java مناسب لمعالجة الصور في التطبيقات الأخرى المستندة إلى Java؟
 
 ج5: نعم، يعد Aspose.Imaging for Java متعدد الاستخدامات ويمكن استخدامه في العديد من التطبيقات المستندة إلى Java، بما في ذلك تطبيقات الويب وبرامج سطح المكتب والمزيد.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

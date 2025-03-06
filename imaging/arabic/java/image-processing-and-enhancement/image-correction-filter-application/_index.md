@@ -3,10 +3,16 @@ title: تطبيق تصفية تصحيح الصور باستخدام Aspose.Imagi
 linktitle: تطبيق تصفية تصحيح الصورة
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: قم بتحسين صورك باستخدام Aspose.Imaging لـ Java. دليل خطوة بخطوة لتطبيق مرشحات التصحيح وتحسين جودة الصورة.
-type: docs
 weight: 16
 url: /ar/java/image-processing-and-enhancement/image-correction-filter-application/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# تطبيق تصفية تصحيح الصور باستخدام Aspose.Imaging لـ Java
+
 في عالم الصور الرقمية، هناك حاجة دائمة إلى تصحيح الصور وتحسينها. سواء كنت مصورًا فوتوغرافيًا محترفًا، أو مصمم جرافيك، أو شخصًا يستمتع بتعديل صوره، فإن توفر الأدوات المناسبة تحت تصرفك أمر بالغ الأهمية. Aspose.Imaging for Java هي مكتبة قوية يمكنها مساعدتك في تحقيق ذلك. في هذا الدليل المفصّل خطوة بخطوة، سنرشدك خلال عملية استخدام Aspose.Imaging for Java لتطبيق مرشحات تصحيح الصور على صورك.
 
 ## المتطلبات الأساسية
@@ -129,3 +135,9 @@ rasterImage.save("Your Document Directory" + "a1_out.jpg");
 ### س5: هل يمكنني استخدام Aspose.Imaging لـ Java مع مكتبات أو أطر عمل Java الأخرى؟
 
 ج5: نعم، يمكن دمج Aspose.Imaging for Java مع مكتبات وأطر عمل Java الأخرى لتوسيع وظائفها وإمكانياتها.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

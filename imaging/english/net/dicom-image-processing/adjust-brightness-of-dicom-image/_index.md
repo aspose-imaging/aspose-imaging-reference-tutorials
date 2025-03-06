@@ -3,10 +3,16 @@ title: Adjust DICOM Image Brightness with Aspose.Imaging for .NET
 linktitle: Adjust Brightness of DICOM Image in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to adjust DICOM image brightness in Aspose.Imaging for .NET. Enhance medical images easily.
-type: docs
 weight: 10
 url: /net/dicom-image-processing/adjust-brightness-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Adjust DICOM Image Brightness with Aspose.Imaging for .NET
+
 In the world of medical imaging, handling DICOM (Digital Imaging and Communications in Medicine) files is of utmost importance. These files contain vital medical data, and sometimes, it's necessary to make adjustments to the images within them, like changing their brightness. In this step-by-step guide, we will show you how to adjust the brightness of a DICOM image using Aspose.Imaging for .NET.
 
 ## Prerequisites
@@ -95,3 +101,10 @@ A4: You can get support and connect with the Aspose.Imaging community on the [As
 ### Q5: What other image manipulation features does Aspose.Imaging offer?
 
 A5: Aspose.Imaging provides a wide range of features for image manipulation, including resizing, cropping, rotation, and various filtering options, making it a comprehensive solution for working with medical images.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

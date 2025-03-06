@@ -3,10 +3,16 @@ title: Java용 Aspose.Imaging을 사용한 DICOM 이미지 감마 조정
 linktitle: DICOM 이미지 감마 조정
 second_title: Aspose.Imaging Java 이미지 처리 API
 description: Java용 Aspose.Imaging을 사용하여 Java에서 DICOM 이미지의 감마를 조정하는 방법을 알아보세요. 간단한 단계로 의료 이미지 품질을 향상시키세요.
-type: docs
 weight: 24
 url: /ko/java/image-processing-and-enhancement/dicom-image-gamma-adjustment/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Java용 Aspose.Imaging을 사용한 DICOM 이미지 감마 조정
+
 Java 애플리케이션에서 DICOM 이미지의 품질을 향상시키고 싶으십니까? Aspose.Imaging for Java는 DICOM 형식을 포함한 이미지를 조작하고 처리할 수 있는 강력하고 다양한 라이브러리입니다. 이 단계별 튜토리얼에서는 Aspose.Imaging for Java를 사용하여 DICOM 이미지의 감마를 조정하는 과정을 안내합니다. 
 
 ## 전제 조건
@@ -112,3 +118,9 @@ A4: 일부 DICOM 이미지에는 복잡한 구조와 메타데이터가 있을 �
 ### Q5: 더 많은 Aspose.Imaging 튜토리얼과 리소스를 어디에서 찾을 수 있나요?
 
  A5: 다음을 탐색할 수 있습니다.[Aspose.Imaging 문서](https://reference.aspose.com/imaging/java/) 포괄적인 가이드, 예시, API 참조를 확인하세요.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

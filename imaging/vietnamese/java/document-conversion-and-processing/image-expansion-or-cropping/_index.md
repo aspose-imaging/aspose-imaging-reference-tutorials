@@ -3,10 +3,16 @@ title: Mở rộng hoặc cắt xén hình ảnh bằng Aspose.Imaging cho Java
 linktitle: Mở rộng hoặc cắt xén hình ảnh
 second_title: Aspose.Imaging API xử lý hình ảnh Java
 description: Tìm hiểu cách mở rộng và cắt xén hình ảnh trong Java với Aspose.Imaging. Hướng dẫn từng bước dành cho nhà phát triển. Nâng cao kỹ năng xử lý hình ảnh của bạn.
-type: docs
 weight: 12
 url: /vi/java/document-conversion-and-processing/image-expansion-or-cropping/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Mở rộng hoặc cắt xén hình ảnh bằng Aspose.Imaging cho Java
+
 Trong thế giới truyền thông kỹ thuật số ngày càng phát triển, việc xử lý hình ảnh hiệu quả là nhu cầu cơ bản cho cả doanh nghiệp và cá nhân. Aspose.Imaging for Java là một thư viện Java linh hoạt cho phép bạn làm việc với hình ảnh một cách dễ dàng. Trong hướng dẫn toàn diện này, chúng tôi sẽ hướng dẫn bạn quy trình mở rộng và cắt xén hình ảnh bằng Aspose.Imaging cho Java. Cho dù bạn là nhà phát triển dày dạn kinh nghiệm hay mới bắt đầu hành trình viết mã, chúng tôi sẽ chia nhỏ từng bước theo cách thân thiện với người mới bắt đầu.
 
 ## Điều kiện tiên quyết
@@ -101,3 +107,9 @@ Câu trả lời 3: Có, Aspose.Imaging for Java phù hợp với các ứng d�
 ### Câu hỏi 5: Có bản dùng thử miễn phí cho Aspose.Imaging cho Java không?
 
  Câu trả lời 5: Có, bạn có thể khám phá thư viện với bản dùng thử miễn phí. Tải nó xuống từ[đây](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

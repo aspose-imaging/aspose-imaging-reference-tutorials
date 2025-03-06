@@ -3,10 +3,16 @@ title: Aspose.Imaging for Java ile Görüntülerde XMP Verilerinin Kullanımı
 linktitle: Görüntülerde XMP Veri İşleme
 second_title: Aspose.Imaging Java Görüntü İşleme API'si
 description: Aspose.Imaging for Java kullanarak görüntülerdeki XMP meta verilerini nasıl işleyeceğinizi öğrenin. Görüntü dosyalarınızı geliştirmek için meta verileri gömün ve alın.
-type: docs
 weight: 16
 url: /tr/java/document-conversion-and-processing/xmp-data-handling-in-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for Java ile Görüntülerde XMP Verilerinin Kullanımı
+
 Aspose.Imaging for Java, çeşitli formatlardaki görüntülerle çalışmak için çok yönlü ve güçlü bir kütüphanedir. Bu eğitim, Aspose.Imaging for Java kullanarak görüntülerdeki XMP (Genişletilebilir Meta Veri Platformu) verilerini işleme sürecinde size rehberlik edecektir. XMP, meta verileri görüntü dosyalarına gömmeye yönelik bir standarttır; yazar, açıklama ve daha fazlası gibi değerli bilgileri saklamanıza olanak tanır.
 
 ## Önkoşullar
@@ -228,3 +234,9 @@ try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(),
 }
         
 ```
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

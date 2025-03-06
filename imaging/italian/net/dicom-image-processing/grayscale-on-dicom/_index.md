@@ -3,10 +3,16 @@ title: Immagini DICOM in scala di grigi con Aspose.Imaging per .NET
 linktitle: Scala di grigi su DICOM in Aspose.Imaging per .NET
 second_title: Aspose.Imaging API di elaborazione delle immagini .NET
 description: Scopri come eseguire la scala di grigi sulle immagini DICOM con Aspose.Imaging per .NET, una potente libreria di elaborazione delle immagini.
-type: docs
 weight: 24
 url: /it/net/dicom-image-processing/grayscale-on-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Immagini DICOM in scala di grigi con Aspose.Imaging per .NET
+
 Se lavori con dati di imaging medico in formato DICOM e devi eseguire trasformazioni in scala di grigi, Aspose.Imaging per .NET offre una soluzione potente. In questo tutorial passo passo, ti guideremo attraverso il processo di scala dei grigi di un'immagine DICOM utilizzando Aspose.Imaging. Questa libreria è uno strumento versatile che ti consente di lavorare con vari formati di immagine, incluso DICOM, in un ambiente .NET. Iniziamo!
 
 ## Prerequisiti
@@ -85,3 +91,9 @@ A2: Sì, Aspose.Imaging è una libreria versatile in grado di gestire un'ampia g
 ### Q5: Come posso ottenere supporto per Aspose.Imaging?
 
  R5: Se hai domande o hai bisogno di assistenza, puoi visitare il[Forum Aspose.Imaging](https://forum.aspose.com/) per chiedere aiuto alla comunità o contattare il loro team di supporto.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

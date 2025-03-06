@@ -1,12 +1,17 @@
 ---
 title: Aspose.Imaging 的 Java 图像处理教程
 linktitle: Aspose.Imaging Java 教程
-type: docs
 weight: 10
 url: /zh/java/
 description: 使用 Aspose.Imaging for Java 学习图像转换、增强和文档处理。通过我们的教程轻松优化图像。
-is_root: true
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging 的 Java 图像处理教程
+
 
 您准备好进入 Java 图像处理的世界了吗？ Aspose.Imaging 旨在指导您完成操作图像和文档的复杂艺术。在本文中，我们将带您踏上 Aspose.Imaging for Java 教程的丰富宝库，在这里您可以探索图像转换、增强和文档处理的奇迹。是时候轻松释放图像的全部潜力了！
 
@@ -41,3 +46,9 @@ is_root: true
 探索有关使用 Aspose.Imaging Java 进行文档转换和处理的综合教程。通过这些教程掌握图像处理和转换。
 ### [图元文件和矢量图像处理](./metafile-and-vector-image-handling/)
 通过我们的分步教程释放 Aspose.Imaging for Java 的潜力。轻松创建 WMF 图元文件图像、处理 BMP 标头等。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

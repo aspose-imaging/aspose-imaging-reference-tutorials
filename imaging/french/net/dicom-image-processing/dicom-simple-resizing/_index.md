@@ -3,10 +3,16 @@ title: Redimensionner les images DICOM avec Aspose.Imaging pour .NET
 linktitle: Redimensionnement simple DICOM dans Aspose.Imaging pour .NET
 second_title: API de traitement d'images Aspose.Imaging .NET
 description: Découvrez comment redimensionner des images DICOM à l'aide d'Aspose.Imaging for .NET, un outil puissant pour le traitement d'images médicales. Des étapes simples pour des résultats précis.
-type: docs
 weight: 19
 url: /fr/net/dicom-image-processing/dicom-simple-resizing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Redimensionner les images DICOM avec Aspose.Imaging pour .NET
+
 Dans le domaine en constante évolution de l’imagerie médicale, le besoin de flexibilité et de précision dans le traitement des fichiers DICOM (Digital Imaging and Communications in Medicine) est primordial. Aspose.Imaging for .NET apparaît comme une solution puissante, offrant un ensemble complet d'outils pour travailler avec des images médicales. Dans ce didacticiel, nous explorerons le processus simple de redimensionnement des images DICOM à l'aide d'Aspose.Imaging pour .NET. 
 
 ## Conditions préalables
@@ -114,3 +120,9 @@ A4 : Aspose.Imaging pour .NET est compatible avec différentes versions du .NET
 ### Q5 : Où puis-je trouver d’autres didacticiels Aspose.Imaging pour .NET ?
 
  A5 : Vous pouvez explorer le[Documentation Aspose.Imaging pour .NET](https://reference.aspose.com/imaging/net/) pour un large éventail de tutoriels et d’exemples.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

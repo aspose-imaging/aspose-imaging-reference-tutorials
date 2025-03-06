@@ -3,10 +3,16 @@ title: .NET के लिए Aspose.Imaging के साथ DICOM छवि ग
 linktitle: .NET के लिए Aspose.Imaging में DICOM छवि का गामा समायोजित करें
 second_title: Aspose.Imaging .NET इमेज प्रोसेसिंग एपीआई
 description: .NET के लिए Aspose.Imaging का उपयोग करके DICOM छवियों में गामा को समायोजित करना सीखें। सरल चरणों के साथ चिकित्सा छवि गुणवत्ता बढ़ाएँ।
-type: docs
 weight: 12
 url: /hi/net/dicom-image-processing/adjust-gamma-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET के लिए Aspose.Imaging के साथ DICOM छवि गामा को समायोजित करना
+
 चिकित्सा छवियों के साथ काम करते समय, उनकी गुणवत्ता और स्पष्टता में सुधार के लिए अक्सर सटीक समायोजन की आवश्यकता होती है। .NET के लिए Aspose.Imaging एक शक्तिशाली लाइब्रेरी है जो आपको DICOM (डिजिटल इमेजिंग और मेडिसिन में संचार) सहित विभिन्न छवि प्रारूपों में हेरफेर करने की अनुमति देती है। इस चरण-दर-चरण मार्गदर्शिका में, हम आपको .NET के लिए Aspose.Imaging का उपयोग करके DICOM छवि के गामा को समायोजित करने की प्रक्रिया के बारे में बताएंगे।
 
 ## आवश्यक शर्तें
@@ -98,3 +104,9 @@ A4: .NET के लिए Aspose.Imaging छवि क्रॉपिंग, आ
 ### Q5: मैं .NET के लिए Aspose.Imaging के लिए तकनीकी सहायता कैसे प्राप्त कर सकता हूं?
 
  A5: तकनीकी सहायता और सामुदायिक सहायता के लिए, आप यहां जा सकते हैं[Aspose.इमेजिंग फोरम](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

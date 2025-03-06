@@ -3,10 +3,16 @@ title: Convierta imágenes PNG a PDF con Aspose.Imaging para Java
 linktitle: Convertir imágenes PNG a PDF
 second_title: Aspose.Imaging API de procesamiento de imágenes Java
 description: Aprenda a convertir imágenes PNG a PDF usando Aspose.Imaging para Java. Una guía paso a paso para una conversión eficiente de imagen a PDF.
-type: docs
 weight: 14
 url: /es/java/document-conversion-and-processing/convert-png-images-to-pdf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Convierta imágenes PNG a PDF con Aspose.Imaging para Java
+
 En la era digital actual, la capacidad de convertir archivos de imágenes a PDF de manera eficiente es una habilidad valiosa. Aspose.Imaging para Java es una biblioteca versátil que le permite realizar esta tarea con facilidad. En esta guía paso a paso, exploraremos el proceso de conversión de imágenes PNG a PDF usando Aspose.Imaging para Java. Al final de este tutorial, comprenderá claramente los requisitos previos, los paquetes de importación y un desglose de cada paso involucrado en este proceso.
 
 ## Requisitos previos
@@ -97,3 +103,9 @@ R4: Sí, Aspose.Imaging para Java es adecuado para tareas de procesamiento por l
 ### P5: ¿Dónde puedo obtener soporte y asistencia con Aspose.Imaging para Java?
 
  R5: Puede buscar ayuda e interactuar con la comunidad en el[Foro Aspose.Imaging](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

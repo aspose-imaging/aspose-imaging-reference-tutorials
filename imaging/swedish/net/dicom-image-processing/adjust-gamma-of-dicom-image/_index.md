@@ -3,10 +3,16 @@ title: Justera DICOM Image Gamma med Aspose.Imaging för .NET
 linktitle: Justera gamma för DICOM-bild i Aspose.Imaging för .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Lär dig hur du justerar gamma i DICOM-bilder med Aspose.Imaging för .NET. Förbättra medicinsk bildkvalitet med enkla steg.
-type: docs
 weight: 12
 url: /sv/net/dicom-image-processing/adjust-gamma-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Justera DICOM Image Gamma med Aspose.Imaging för .NET
+
 När man arbetar med medicinska bilder krävs ofta exakta justeringar för att förbättra deras kvalitet och tydlighet. Aspose.Imaging för .NET är ett kraftfullt bibliotek som låter dig manipulera olika bildformat, inklusive DICOM (Digital Imaging and Communications in Medicine). I den här steg-för-steg-guiden går vi igenom processen för att justera gamma för en DICOM-bild med Aspose.Imaging för .NET.
 
 ## Förutsättningar
@@ -98,3 +104,9 @@ S4: Aspose.Imaging för .NET erbjuder ett brett utbud av funktioner, inklusive b
 ### F5: Hur kan jag få teknisk support för Aspose.Imaging för .NET?
 
  S5: För teknisk assistans och communitysupport kan du besöka[Aspose.Imaging forum](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

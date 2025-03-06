@@ -3,10 +3,16 @@ title: การใช้ตัวกรองกับรูปภาพ DICOM 
 linktitle: ใช้ตัวกรองบนอิมเมจ DICOM ใน Aspose.Imaging สำหรับ .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: เรียนรู้วิธีใช้ตัวกรองกับอิมเมจ DICOM โดยใช้ Aspose.Imaging สำหรับ .NET เพิ่มประสิทธิภาพการประมวลผลภาพทางการแพทย์ได้อย่างง่ายดาย
-type: docs
 weight: 13
 url: /th/net/dicom-image-processing/apply-filter-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# การใช้ตัวกรองกับรูปภาพ DICOM ด้วย Aspose.Imaging สำหรับ .NET
+
 หากคุณต้องการพัฒนาทักษะในการประมวลผลภาพโดยใช้ Aspose.Imaging สำหรับ .NET คุณมาถูกที่แล้ว ในบทช่วยสอนทีละขั้นตอนนี้ เราจะแนะนำคุณตลอดขั้นตอนการใช้ตัวกรองกับรูปภาพ DICOM ไลบรารีอันทรงพลังนี้ช่วยให้คุณสามารถจัดการและประมวลผลรูปแบบรูปภาพต่าง ๆ รวมถึง DICOM ได้อย่างง่ายดาย เราจะแบ่งกระบวนการออกเป็นขั้นตอนที่สามารถจัดการได้ เพื่อให้มั่นใจว่าคุณจะเข้าใจแต่ละแนวคิดได้อย่างถี่ถ้วน มาดำน้ำกันเถอะ!
 
 ## ข้อกำหนดเบื้องต้น
@@ -90,3 +96,9 @@ A3: ใช่ Aspose.Imaging มีฟิลเตอร์ที่หลาก
 ### คำถามที่ 5: ฉันจะรับใบอนุญาตชั่วคราวสำหรับ Aspose.Imaging ได้อย่างไร
 
  A5: คุณสามารถขอรับใบอนุญาตชั่วคราวได้จาก[ที่นี่](https://purchase.aspose.com/temporary-license/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

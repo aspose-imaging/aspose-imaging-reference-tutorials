@@ -3,10 +3,16 @@ title: Konwersja i optymalizacja obrazu
 linktitle: Konwersja i optymalizacja obrazu
 second_title: Aspose.Imaging API przetwarzania obrazu Java
 description: Odkryj samouczki dotyczące konwersji i optymalizacji obrazów przy użyciu Aspose.Imaging dla Java. Dowiedz się, jak z łatwością konwertować, ulepszać i optymalizować różne formaty obrazów.
-type: docs
 weight: 20
 url: /pl/java/image-conversion-and-optimization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Konwersja i optymalizacja obrazu
+
 
 # Wstęp
 
@@ -86,3 +92,9 @@ Opanuj sztukę zapisywania klatek obrazu rastrowego za pomocą Aspose.Imaging dl
 Dowiedz się, jak konwertować obrazy rastrowe do formatu TIFF w Javie przy użyciu Aspose.Imaging for Java. Obszerny przewodnik po manipulacji obrazami.
 ### [Dzielenie ramek obrazu TIFF](./tiff-image-frame-splitting/)
 Dowiedz się, jak dzielić klatki obrazów TIFF za pomocą Aspose.Imaging dla Java. Przewodnik krok po kroku z wymaganiami wstępnymi, przykładem kodu i często zadawanymi pytaniami dla programistów.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET を使用して DICOM 画像をトリミングす
 linktitle: Aspose.Imaging for .NET のシフトによる DICOM クロップ
 second_title: Aspose.Imaging .NET 画像処理 API
 description: Aspose.Imaging for .NET を使用して DICOM 画像をトリミングする方法を学びます。このステップバイステップのガイドを使用して、医療画像処理を強化します。
-type: docs
 weight: 18
 url: /ja/net/dicom-image-processing/dicom-cropping-by-shifts/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET を使用して DICOM 画像をトリミングする
+
 医療画像、特に DICOM 画像のトリミングは、医療業界では重要な作業です。これにより、医療専門家は特定の関心領域に焦点を当て、不要な要素を削除し、診断データの視覚的表現を強化できます。このチュートリアルでは、.NET アプリケーションでの画像処理タスクを簡素化する強力なライブラリである Aspose.Imaging for .NET を使用して DICOM 画像をトリミングする方法を検討します。
 
 ## 前提条件
@@ -100,3 +106,9 @@ A2: はい、Aspose.Imaging for .NET は、形式変換やサイズ変更など�
 ### Q5: Aspose.Imaging for .NET を医療以外の画像処理アプリケーションで使用できますか?
 
 A5：もちろんです！ Aspose.Imaging for .NET は医療画像処理に最適ですが、さまざまなドメインの幅広い画像処理タスクに使用できます。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

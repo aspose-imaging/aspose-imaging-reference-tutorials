@@ -3,10 +3,16 @@ title: .NET용 Aspose.Imaging을 사용한 그레이스케일 DICOM 이미지
 linktitle: .NET용 Aspose.Imaging의 DICOM 그레이스케일
 second_title: Aspose.Imaging .NET 이미지 처리 API
 description: 강력한 이미지 처리 라이브러리인 Aspose.Imaging for .NET을 사용하여 DICOM 이미지에서 그레이스케일링을 수행하는 방법을 알아보세요.
-type: docs
 weight: 24
 url: /ko/net/dicom-image-processing/grayscale-on-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET용 Aspose.Imaging을 사용한 그레이스케일 DICOM 이미지
+
 DICOM 형식의 의료 영상 데이터로 작업하고 그레이스케일 변환을 수행해야 하는 경우 Aspose.Imaging for .NET은 강력한 솔루션을 제공합니다. 이 단계별 튜토리얼에서는 Aspose.Imaging을 사용하여 DICOM 이미지를 그레이스케일링하는 과정을 안내합니다. 이 라이브러리는 .NET 환경에서 DICOM을 포함한 다양한 이미지 형식으로 작업할 수 있는 다목적 도구입니다. 시작하자!
 
 ## 전제 조건
@@ -85,3 +91,9 @@ A2: 예, Aspose.Imaging은 의료 영상을 넘어 다양한 응용 분야에 �
 ### Q5: Aspose.Imaging에 대한 지원은 어떻게 받을 수 있나요?
 
  A5: 질문이 있거나 도움이 필요하면[Aspose.이미징 포럼](https://forum.aspose.com/) 커뮤니티에서 도움을 구하거나 지원팀에 문의하세요.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

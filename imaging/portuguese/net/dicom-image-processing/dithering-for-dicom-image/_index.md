@@ -3,10 +3,16 @@ title: Dithering de imagem DICOM facilitado com Aspose.Imaging para .NET
 linktitle: Dithering para imagem DICOM em Aspose.Imaging for .NET
 second_title: API de processamento de imagem Aspose.Imaging .NET
 description: Aprenda como realizar pontilhamento de limite em imagens DICOM com Aspose.Imaging for .NET. Melhore a qualidade da imagem e reduza as paletas de cores sem esforço.
-type: docs
 weight: 22
 url: /pt/net/dicom-image-processing/dithering-for-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Dithering de imagem DICOM facilitado com Aspose.Imaging para .NET
+
 O pontilhamento é uma técnica fundamental de processamento de imagem usada para reduzir o número de cores em uma imagem, preservando a qualidade visual. Neste guia passo a passo, exploraremos como realizar pontilhamento em uma imagem DICOM usando Aspose.Imaging for .NET. Esta poderosa biblioteca oferece uma ampla gama de recursos para manipulação e processamento de imagens, tornando-a uma excelente escolha para desenvolvedores que trabalham com imagens médicas. 
 
 ## Pré-requisitos
@@ -92,3 +98,9 @@ A4: Algumas alternativas ao Aspose.Imaging for .NET incluem ImageMagick, OpenCV 
 ### P5: Como posso obter suporte para Aspose.Imaging for .NET?
 
  A5: Você pode encontrar ajuda e suporte no[Fóruns Aspose.Imaging](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

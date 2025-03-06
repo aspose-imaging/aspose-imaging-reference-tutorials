@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET'te Bradley'nin DICOM Görüntüsünde Uyarlanabil
 linktitle: Aspose.Imaging for .NET'te Bradley'nin DICOM Görüntüsünde Uyarlanabilir Eşiği ile İkilileştirme
 second_title: Aspose.Imaging .NET Görüntü İşleme API'si
 description: Aspose.Imaging for .NET'i kullanarak Bradley'nin Uyarlanabilir Eşiği'ni DICOM görüntülerine uygulamayı öğrenin. Adım adım kılavuzla ikilileştirme artık daha kolay.
-type: docs
 weight: 14
 url: /tr/net/dicom-image-processing/binarization-with-bradleys-adaptive-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET'te Bradley'nin DICOM Görüntüsünde Uyarlanabilir Eşiği ile İkilileştirme
+
 Aspose.Imaging for .NET kullanarak Bradley'nin Uyarlanabilir Eşiğini bir DICOM görüntüsüne uygulamak mı istiyorsunuz? Bu kapsamlı eğitimde size süreç boyunca adım adım yol göstereceğiz. Bu kılavuzun sonunda, DICOM görüntüleri üzerinde verimli bir şekilde ikilileştirme gerçekleştirebileceksiniz. Önkoşullardan ad alanlarının içe aktarılmasına ve her örneği birden fazla adıma ayırmaya kadar her şeyi ele alacağız.
 
 ## Önkoşullar
@@ -97,3 +103,9 @@ C2: Evet, birden fazla DICOM görüntüsü arasında geçiş yapabilir ve ikilil
 ### S5: Aspose.Imaging for .NET desteğini nasıl alabilirim?
 
  Cevap5: Aspose topluluğuna katılabilir ve diğer geliştiricilerden destek alabilirsiniz.[Aspose Forumu](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Aplicando filtros a imagens DICOM com Aspose.Imaging for .NET
 linktitle: Aplicar filtro na imagem DICOM em Aspose.Imaging for .NET
 second_title: API de processamento de imagem Aspose.Imaging .NET
 description: Aprenda como aplicar filtros a imagens DICOM usando Aspose.Imaging for .NET. Aprimore o processamento de imagens médicas com facilidade.
-type: docs
 weight: 13
 url: /pt/net/dicom-image-processing/apply-filter-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aplicando filtros a imagens DICOM com Aspose.Imaging for .NET
+
 Se você deseja aprimorar suas habilidades em processamento de imagens usando Aspose.Imaging for .NET, você veio ao lugar certo. Neste tutorial passo a passo, orientaremos você no processo de aplicação de filtros a imagens DICOM. Esta poderosa biblioteca permite manipular e processar vários formatos de imagem, incluindo DICOM, com facilidade. Dividiremos o processo em etapas gerenciáveis, garantindo que você compreenda cada conceito completamente. Vamos mergulhar!
 
 ## Pré-requisitos
@@ -90,3 +96,9 @@ A3: Sim, Aspose.Imaging fornece uma variedade de filtros, como Gaussian, Sharpen
 ### Q5: Como posso obter uma licença temporária para Aspose.Imaging?
 
  A5: Você pode obter uma licença temporária de[aqui](https://purchase.aspose.com/temporary-license/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

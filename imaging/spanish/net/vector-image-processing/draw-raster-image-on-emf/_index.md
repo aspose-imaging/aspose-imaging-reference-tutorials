@@ -3,10 +3,16 @@ title: Dibuje imágenes rasterizadas en EMF con Aspose.Imaging para .NET
 linktitle: Dibujar una imagen rasterizada en EMF en Aspose.Imaging para .NET
 second_title: API de procesamiento de imágenes Aspose.Imaging .NET
 description: Aprenda a dibujar imágenes rasterizadas en archivos EMF usando Aspose.Imaging para .NET. Crea imágenes impresionantes sin esfuerzo.
-type: docs
 weight: 10
 url: /es/net/vector-image-processing/draw-raster-image-on-emf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Dibuje imágenes rasterizadas en EMF con Aspose.Imaging para .NET
+
 
 ## Introducción
 
@@ -121,3 +127,10 @@ Sí, puede dibujar formas y gráficos vectoriales además de imágenes rasteriza
 ### 5. ¿Dónde puedo obtener soporte para Aspose.Imaging?
 
  Para obtener soporte y asistencia, puede visitar el foro Aspose.Imaging[aquí](https://forum.aspose.com/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

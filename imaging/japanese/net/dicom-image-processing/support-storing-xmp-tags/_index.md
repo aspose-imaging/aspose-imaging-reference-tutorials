@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET での XMP タグの保存のサポート
 linktitle: Aspose.Imaging for .NET での XMP タグの保存のサポート
 second_title: Aspose.Imaging .NET 画像処理 API
 description: Aspose.Imaging for .NET を使用して XMP メタデータを DICOM 画像に追加する方法を学びます。このステップバイステップのガイドを使用して、画像の管理と整理を最適化します。
-type: docs
 weight: 25
 url: /ja/net/dicom-image-processing/support-storing-xmp-tags/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET での XMP タグの保存のサポート
+
 Aspose.Imaging for .NET は、.NET 環境でさまざまな画像形式を操作できるようにする強力なライブラリです。このチュートリアルでは、Aspose.Imaging for .NET での XMP (Extensible Metadata Platform) タグの保存をサポートする方法を検討します。 XMP タグは、画像にメタデータ情報を追加し、デジタル資産の整理と管理を容易にするために不可欠です。これを達成する方法を理解できるように、プロセスを複数のステップに分けて説明します。
 
 ## 前提条件
@@ -114,3 +120,10 @@ A3: もちろんです。 Aspose.Imaging for .NET は、画像の操作、編集
 ### Q5: Aspose.Imaging for .NET の一時ライセンスを取得するにはどうすればよいですか?
 
  A5: Aspose.Imaging for .NET の一時ライセンスは、次の場所にアクセスして取得できます。[このリンク](https://purchase.aspose.com/temporary-license/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

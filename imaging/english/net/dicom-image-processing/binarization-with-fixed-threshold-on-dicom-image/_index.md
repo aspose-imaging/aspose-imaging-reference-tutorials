@@ -3,10 +3,16 @@ title: Binarization with Fixed Threshold on DICOM Image in Aspose.Imaging for .N
 linktitle: Binarization with Fixed Threshold on DICOM Image in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to perform binarization on a DICOM image using Aspose.Imaging for .NET. Step-by-step guide with code examples.
-type: docs
 weight: 15
 url: /net/dicom-image-processing/binarization-with-fixed-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binarization with Fixed Threshold on DICOM Image in Aspose.Imaging for .NET
+
 Are you ready to dive into the world of digital image processing using Aspose.Imaging for .NET? In this step-by-step tutorial, we'll explore how to perform binarization with a fixed threshold on a DICOM image. Binarization is a fundamental image processing technique that converts a grayscale image into a binary image, making it an essential tool for various applications, from medical imaging to document analysis.
 
 ## Prerequisites
@@ -107,3 +113,10 @@ Absolutely! While Aspose.Imaging is commonly used in the medical field, it's a v
 
 Yes, you can try Aspose.Imaging for .NET by downloading the trial version from [here](https://releases.aspose.com/). It allows you to explore its features and functionalities before making a purchase.
 
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

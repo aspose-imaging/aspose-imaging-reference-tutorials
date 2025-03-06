@@ -3,10 +3,16 @@ title: .NET के लिए Aspose.Imaging के साथ आर्क्स 
 linktitle: .NET के लिए Aspose.Imaging में आर्क बनाएं
 second_title: Aspose.Imaging .NET इमेज प्रोसेसिंग एपीआई
 description: .NET के लिए Aspose.Imaging, एक शक्तिशाली छवि हेरफेर उपकरण के साथ आर्क बनाना सीखें। आश्चर्यजनक दृश्य बनाने के लिए चरण-दर-चरण मार्गदर्शिका।
-type: docs
 weight: 10
 url: /hi/net/basic-drawing/draw-arc/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET के लिए Aspose.Imaging के साथ आर्क्स बनाना
+
 इमेज प्रोसेसिंग की दुनिया में, .NET के लिए Aspose.Imaging एक बहुमुखी और शक्तिशाली उपकरण है जो डेवलपर्स को छवियों पर कई प्रकार के ऑपरेशन करने की अनुमति देता है। छवि हेरफेर में मूलभूत कार्यों में से एक आकृतियाँ बनाना है, और इस ट्यूटोरियल में, हम आपको .NET के लिए Aspose.Imaging का उपयोग करके एक चाप बनाने की प्रक्रिया के बारे में बताएंगे। इस गाइड के अंत तक, आप आसानी से अपनी छवियों में आश्चर्यजनक आर्क बनाने में सक्षम होंगे।
 
 ## आवश्यक शर्तें
@@ -116,3 +122,10 @@ using (FileStream stream = new FileStream(dataDir + "DrawingArc_out.bmp", FileMo
 ### Q5: मैं .NET के लिए Aspose.Imaging के बारे में कहां से सहायता मांग सकता हूं या प्रश्न पूछ सकता हूं?
 
  A5: आप समर्थन और चर्चा के लिए Aspose.Imaging फोरम पर जा सकते हैं[यहाँ](https://forum.aspose.com/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

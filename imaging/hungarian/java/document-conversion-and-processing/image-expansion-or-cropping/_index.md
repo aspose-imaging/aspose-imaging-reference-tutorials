@@ -3,10 +3,16 @@ title: Képbővítés vagy vágás az Aspose.Imaging for Java segítségével
 linktitle: Képbővítés vagy vágás
 second_title: Aspose.Imaging Java Image Processing API
 description: Tanulja meg a képbővítést és -kivágást Java nyelven az Aspose.Imaging segítségével. Lépésről lépésre bemutató fejlesztőknek. Fejlessze képkezelési készségeit.
-type: docs
 weight: 12
 url: /hu/java/document-conversion-and-processing/image-expansion-or-cropping/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Képbővítés vagy vágás az Aspose.Imaging for Java segítségével
+
 A digitális média folyamatosan fejlődő világában a hatékony képmanipuláció alapvető igény a vállalkozások és a magánszemélyek számára egyaránt. Az Aspose.Imaging for Java egy sokoldalú Java-könyvtár, amely lehetővé teszi, hogy könnyedén dolgozzon a képekkel. Ebben az átfogó oktatóanyagban végigvezetjük az Aspose.Imaging for Java segítségével történő képkibővítés és -kivágás folyamatán. Akár tapasztalt fejlesztő, akár csak most kezdi a kódolási utat, minden lépést kezdőbarát módon lebontunk.
 
 ## Előfeltételek
@@ -101,3 +107,9 @@ A2: Abszolút! Az Aspose.Imaging for Java számos szolgáltatást kínál, péld
 ### 5. kérdés: Elérhető ingyenes próbaverzió az Aspose.Imaging for Java számára?
 
  5. válasz: Igen, felfedezheti a könyvtárat egy ingyenes próbaverzióval. Töltse le innen[itt](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

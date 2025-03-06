@@ -3,10 +3,16 @@ title: Image Processing and Enhancement
 linktitle: Image Processing and Enhancement
 second_title: Aspose.Imaging Java Image Processing API
 description: Enhance images with Aspose.Imaging for Java using step-by-step tutorials. Optimize document processing and image quality effortlessly.
-type: docs
 weight: 21
 url: /java/image-processing-and-enhancement/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Image Processing and Enhancement
+
 ## Introduction 
 Image processing is a crucial aspect of modern digital content creation. In this article, we will delve into the world of "Image Processing and Enhancement Tutorials" using Aspose.Imaging for Java. Whether you're a graphic designer, a photographer, or just someone who wants to improve their image processing skills, these tutorials will be your guiding light.
 
@@ -116,3 +122,9 @@ Learn how to adjust image brightness using Aspose.Imaging for Java. Enhance your
 Learn how to apply filters to DICOM images using Aspose.Imaging for Java. Enhance medical imaging with ease.
 ### [Image Binarization](./bradleys-adaptive-threshold-binarization/)
 Learn image binarization with Aspose.Imaging for Java. Transform DICOM images easily. Explore a step-by-step guide with code examples.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

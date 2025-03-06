@@ -3,10 +3,16 @@ title: Aspose.Imaging .NET 的文本和测量教程
 linktitle: 文字和尺寸
 second_title: Aspose.Imaging .NET 图像处理 API
 description: 了解如何使用 Aspose.Imaging for .NET（一款强大且精确的工具）测量图像中的文本。探索教程以掌握文本测量技术。
-type: docs
 weight: 26
 url: /zh/net/text-and-measurements/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging .NET 的文本和测量教程
+
 
 您对精确测量图像中文本的想法感兴趣吗？嗯，您来对地方了！在本文中，我们将使用 Aspose.Imaging for .NET 深入研究文本测量的世界。我们将探索这个强大的 .NET 库，它提供精确且高效的文本测量功能。当您完成阅读时，您将顺利成为一名文本测量专家。
 
@@ -28,3 +34,9 @@ url: /zh/net/text-and-measurements/
 ## 文本和测量教程
 ### [在 Aspose.Imaging for .NET 中测量文本](./measure-text/)
 使用 Aspose.Imaging for .NET 测量图像中的文本。一个强大的.NET 库。精确高效的文本测量。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

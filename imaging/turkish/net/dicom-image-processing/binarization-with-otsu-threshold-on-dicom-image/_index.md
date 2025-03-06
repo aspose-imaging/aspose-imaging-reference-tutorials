@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET'te DICOM Görüntüsünde Otsu Eşiği ile İkili
 linktitle: Aspose.Imaging for .NET'te DICOM Görüntüsünde Otsu Eşiği ile İkilileştirme
 second_title: Aspose.Imaging .NET Görüntü İşleme API'si
 description: Aspose.Imaging for .NET ile tıbbi görüntü işleme sürecinizi geliştirin. Otsu Thresholding'i kullanarak DICOM görüntü ikilileştirmesini nasıl gerçekleştireceğinizi öğrenin.
-type: docs
 weight: 16
 url: /tr/net/dicom-image-processing/binarization-with-otsu-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET'te DICOM Görüntüsünde Otsu Eşiği ile İkilileştirme
+
 Görüntü işleme ve manipülasyon dünyasında etkili araçlar ve kütüphaneler çok önemlidir. Aspose.Imaging for .NET, geliştiricilerin DICOM (Tıpta Dijital Görüntüleme ve İletişim) dosyaları da dahil olmak üzere çeşitli görüntü formatlarıyla çalışmasına olanak tanıyan güçlü bir kütüphanedir. Bu kapsamlı kılavuzda, Aspose.Imaging for .NET kullanarak bir DICOM görüntüsü üzerinde Otsu Threshold ile ikilileştirme sürecini inceleyeceğiz. Bu özelliği projelerinizde sorunsuz bir şekilde uygulayabilmenizi sağlamak için süreci takip edilmesi kolay adımlara ayıracağız.
 
 ## Önkoşullar
@@ -90,3 +96,9 @@ Cevap4: Dokümantasyon için şu adresi ziyaret edin:[Aspose.Imaging for .NET be
 ### S5: Satın almadan önce Aspose.Imaging for .NET'i deneyebilir miyim?
 
  C5: Evet, Aspose.Imaging for .NET'in yeteneklerini aşağıdaki ücretsiz deneme sürümünü indirerek keşfedebilirsiniz.[bu bağlantı](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

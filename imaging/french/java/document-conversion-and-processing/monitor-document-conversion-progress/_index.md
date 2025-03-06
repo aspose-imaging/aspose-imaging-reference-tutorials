@@ -3,10 +3,16 @@ title: Surveiller la progression de la conversion des documents
 linktitle: Surveiller la progression de la conversion des documents
 second_title: API de traitement d'images Java Aspose.Imaging
 description: Découvrez comment utiliser Aspose.Imaging pour Java dans ce didacticiel étape par étape sur la conversion et la manipulation d'images.
-type: docs
 weight: 10
 url: /fr/java/document-conversion-and-processing/monitor-document-conversion-progress/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Surveiller la progression de la conversion des documents
+
 Dans ce didacticiel, nous explorerons comment utiliser Aspose.Imaging pour Java pour effectuer la conversion et la manipulation d'images. Aspose.Imaging for Java est une puissante bibliothèque Java qui vous permet de travailler avec différents formats d'image, ce qui en fait un outil essentiel pour les développeurs qui s'occupent du traitement d'images dans leurs applications. Nous décomposerons le processus en étapes faciles à suivre pour vous aider à démarrer.
 
 ## Introduction
@@ -145,3 +151,9 @@ A3 : Aspose.Imaging for Java convient à un large éventail d'applications, de l
 ### Q5 : Où puis-je obtenir de l'aide pour Aspose.Imaging pour Java ?
 
  A5 : Si vous avez des questions ou avez besoin d'aide avec Aspose.Imaging pour Java, vous pouvez visiter le site Aspose.[forum d'entraide](https://forum.aspose.com/), où vous pouvez trouver des ressources utiles et interagir avec la communauté Aspose pour obtenir de l'aide et des conseils.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

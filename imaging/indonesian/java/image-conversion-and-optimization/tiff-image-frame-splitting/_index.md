@@ -3,10 +3,16 @@ title: Pisahkan Bingkai TIFF dengan Aspose.Imaging untuk Java
 linktitle: Pemisahan Bingkai Gambar TIFF
 second_title: Aspose.Imaging API Pemrosesan Gambar Java
 description: Pelajari cara membagi bingkai gambar TIFF menggunakan Aspose.Imaging untuk Java. Panduan langkah demi langkah dengan prasyarat, contoh kode, dan FAQ untuk pengembang.
-type: docs
 weight: 21
 url: /id/java/image-conversion-and-optimization/tiff-image-frame-splitting/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Pisahkan Bingkai TIFF dengan Aspose.Imaging untuk Java
+
 ## Perkenalan
 
 Di dunia digital saat ini, di mana gambar memainkan peran penting dalam menyampaikan informasi, Aspose.Imaging for Java hadir sebagai alat yang ampuh bagi pengembang. Pustaka Java serbaguna ini memberdayakan Anda untuk memanipulasi dan memproses berbagai format gambar, membuka pintu menuju kemungkinan kreatif tanpa batas. Baik Anda sedang mengerjakan proyek yang memerlukan pemisahan bingkai gambar, konversi format, atau penyempurnaan gambar, Aspose.Imaging for Java siap membantu Anda.
@@ -117,3 +123,9 @@ Dengan pengetahuan yang diperoleh dari tutorial ini, Anda kini diperlengkapi unt
 ### Q5: Apakah Aspose.Imaging untuk Java mendukung format gambar lain selain TIFF?
 
 A5: Ya, Aspose.Imaging for Java mendukung berbagai format gambar, termasuk JPEG, PNG, BMP, dan banyak lagi.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Binaryzacja progu Otsu za pomocą Aspose.Imaging dla Java
 linktitle: Binaryzacja progu Otsu
 second_title: Aspose.Imaging API przetwarzania obrazu Java
 description: Popraw jakość obrazu dzięki Aspose.Imaging dla binaryzacji progu Otsu Java. Postępuj zgodnie z naszym przewodnikiem krok po kroku, aby uzyskać doskonałość przetwarzania obrazu.
-type: docs
 weight: 22
 url: /pl/java/image-processing-and-enhancement/otsu-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binaryzacja progu Otsu za pomocą Aspose.Imaging dla Java
+
 W świecie przetwarzania i manipulacji obrazami Aspose.Imaging dla Java stanowi solidny zestaw narzędzi, który umożliwia programistom pracę z różnymi formatami obrazów. Wśród wielu funkcji binaryzacja progowa Otsu jest kluczową techniką ulepszania i analizy obrazu. W tym samouczku przeprowadzimy Cię krok po kroku przez proces używania Aspose.Imaging for Java do wykonywania binaryzacji progu Otsu na obrazie.
 
 ## Warunki wstępne
@@ -105,3 +111,9 @@ A1: Binaryzacja progowa Otsu to technika przetwarzania obrazu, która automatycz
 ### P5: Czy mogę używać Aspose.Imaging for Java w moich projektach komercyjnych?
 
 O5: Tak, Aspose.Imaging for Java nadaje się zarówno do projektów osobistych, jak i komercyjnych. Możesz zapoznać się z opcjami licencjonowania dostosowanymi do Twoich konkretnych potrzeb.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

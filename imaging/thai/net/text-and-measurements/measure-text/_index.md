@@ -3,10 +3,16 @@ title: การวัดข้อความในภาพด้วย Aspose
 linktitle: วัดข้อความใน Aspose.Imaging สำหรับ .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: วัดข้อความในภาพโดยใช้ Aspose.Imaging สำหรับ .NET ไลบรารี .NET อันทรงพลัง การวัดข้อความที่แม่นยำและมีประสิทธิภาพ
-type: docs
 weight: 10
 url: /th/net/text-and-measurements/measure-text/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# การวัดข้อความในภาพด้วย Aspose.Imaging สำหรับ .NET
+
 หากคุณเป็นนักพัฒนา .NET ที่ต้องการจัดการรูปภาพและวัดข้อความด้วยความแม่นยำ Aspose.Imaging สำหรับ .NET ถือเป็นโซลูชันที่ทรงพลัง ในคำแนะนำทีละขั้นตอนนี้ เราจะสำรวจวิธีการวัดข้อความโดยใช้ Aspose.Imaging โดยเริ่มจากข้อกำหนดเบื้องต้นและปิดท้ายด้วยตัวอย่างที่ใช้งานได้จริง มาดำดิ่งกันเถอะ!
 
 ## ข้อกำหนดเบื้องต้น
@@ -95,3 +101,9 @@ using (Image backgroundImage = Image.Load("Your Image Path"))
 ### คำถามที่ 5: ฉันจะดาวน์โหลด Aspose.Imaging สำหรับ .NET ได้อย่างไร
 
  A5: คุณสามารถดาวน์โหลด Aspose.Imaging สำหรับ .NET ได้จาก[หน้าดาวน์โหลด](https://releases.aspose.com/imaging/net/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

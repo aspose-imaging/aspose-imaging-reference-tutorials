@@ -3,10 +3,16 @@ title: Dominando o desenho de linha em Aspose.Imaging for .NET
 linktitle: Desenhe linhas em Aspose.Imaging para .NET
 second_title: API de processamento de imagem Aspose.Imaging .NET
 description: Aprenda como desenhar linhas precisas no Aspose.Imaging for .NET. Este guia passo a passo cobre a criação de imagens, desenho de linhas e muito mais.
-type: docs
 weight: 13
 url: /pt/net/basic-drawing/draw-lines/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Dominando o desenho de linha em Aspose.Imaging for .NET
+
 Se você deseja criar imagens impressionantes com linhas precisas em seu aplicativo .NET, Aspose.Imaging for .NET é uma ferramenta poderosa que pode ajudá-lo a conseguir isso. Neste tutorial, orientaremos você no processo de desenho de linhas usando Aspose.Imaging for .NET. Este guia passo a passo cobrirá tudo, desde a configuração dos namespaces necessários até a criação de belas imagens com linhas.
 
 ## Pré-requisitos
@@ -124,3 +130,9 @@ A4: Sim, o Aspose.Imaging for .NET é compatível com o .NET Core, tornando-o ad
 ### Q5: Existe uma versão de avaliação gratuita do Aspose.Imaging for .NET disponível?
 
  A5: Sim, você pode experimentar o Aspose.Imaging for .NET baixando a avaliação gratuita em[aqui](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

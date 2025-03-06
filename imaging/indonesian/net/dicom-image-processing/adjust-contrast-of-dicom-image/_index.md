@@ -3,10 +3,16 @@ title: Penyesuaian Kontras Gambar DICOM dengan Aspose.Imaging untuk .NET
 linktitle: Sesuaikan Kontras Gambar DICOM di Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Sempurnakan citra medis dengan Aspose.Imaging untuk .NET. Sesuaikan kontras gambar DICOM dengan langkah mudah.
-type: docs
 weight: 11
 url: /id/net/dicom-image-processing/adjust-contrast-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Penyesuaian Kontras Gambar DICOM dengan Aspose.Imaging untuk .NET
+
 Dalam dunia pencitraan medis, kontrol yang tepat terhadap kualitas gambar adalah hal yang terpenting. Aspose.Imaging for .NET memberikan solusi ampuh untuk memanipulasi gambar DICOM dengan mudah. Dalam tutorial langkah demi langkah ini, kami akan memandu Anda melalui proses penyesuaian kontras gambar DICOM menggunakan Aspose.Imaging untuk .NET. Tutorial ini dirancang bagi mereka yang ingin meningkatkan visibilitas gambar medis untuk tujuan diagnostik atau penelitian. 
 
 ## Prasyarat
@@ -112,3 +118,9 @@ A4: Ya, Aspose.Imaging untuk .NET menyediakan berbagai fitur manipulasi gambar, 
 ### Q5: Dapatkah saya menggunakan Aspose.Imaging untuk .NET untuk pemrosesan gambar non-medis?
 
 A5: Tentu saja! Meskipun Aspose.Imaging serbaguna untuk pemrosesan gambar medis, Aspose.Imaging juga dapat digunakan untuk tugas manipulasi gambar umum.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

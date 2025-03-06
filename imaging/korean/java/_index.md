@@ -1,12 +1,17 @@
 ---
 title: Aspose.Imaging을 사용한 Java 이미지 처리 튜토리얼
 linktitle: Java 튜토리얼용 Aspose.Imaging
-type: docs
 weight: 10
 url: /ko/java/
 description: Aspose.Imaging for Java를 사용하여 이미지 변환, 향상 및 문서 처리에 대해 알아보세요. 튜토리얼을 통해 이미지를 손쉽게 최적화하세요.
-is_root: true
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging을 사용한 Java 이미지 처리 튜토리얼
+
 
 Java를 사용하여 이미지 처리의 세계로 뛰어들 준비가 되셨습니까? Aspose.Imaging은 이미지와 문서를 조작하는 복잡한 기술을 안내합니다. 이 기사에서는 이미지 변환, 향상 및 문서 처리의 경이로움을 탐색할 수 있는 Java 튜토리얼용 Aspose.Imaging의 풍부한 보물 창고를 안내합니다. 이제 이미지의 잠재력을 최대한 활용해 보세요!
 
@@ -41,3 +46,9 @@ Aspose.Imaging for Java를 사용하여 이미지 변환 및 최적화 튜토리
 Aspose.Imaging Java를 사용한 문서 변환 및 처리에 대한 포괄적인 튜토리얼을 살펴보세요. 이 튜토리얼을 통해 이미지 조작 및 변환을 마스터하세요.
 ### [메타파일 및 벡터 이미지 처리](./metafile-and-vector-image-handling/)
 단계별 튜토리얼을 통해 Java용 Aspose.Imaging의 잠재력을 활용해 보세요. WMF 메타파일 이미지 생성, BMP 헤더 처리 등을 쉽게 수행할 수 있습니다.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

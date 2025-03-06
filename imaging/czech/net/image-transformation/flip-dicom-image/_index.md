@@ -3,10 +3,16 @@ title: Překlopte obrázky DICOM pomocí Aspose.Imaging pro .NET
 linktitle: Flip DICOM Image v Aspose.Imaging pro .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Naučte se převracet obrázky DICOM pomocí Aspose.Imaging for .NET. Snadná a efektivní manipulace s obrazem pro lékařské aplikace a další.
-type: docs
 weight: 10
 url: /cs/net/image-transformation/flip-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Překlopte obrázky DICOM pomocí Aspose.Imaging pro .NET
+
 ## Úvod
 
 Ve světě vývoje softwaru je manipulace s obrázky běžným a zásadním úkolem. Ať už pracujete na lékařské zobrazovací aplikaci nebo na kreativním projektu grafického designu, schopnost překlápět obrázky DICOM je cenná dovednost. Aspose.Imaging for .NET je výkonný nástroj, který vám toho může pomoci dosáhnout bez námahy. V tomto komplexním průvodci vás provedeme procesem překlápění obrázků DICOM pomocí Aspose.Imaging for .NET. Rozebereme každý krok, poskytneme příklady kódu a nabídneme přehled o předpokladech a jmenných prostorech, které potřebujete znát.
@@ -99,3 +105,9 @@ A2: Rozhodně! Aspose.Imaging for .NET se dobře hodí pro lékařské zobrazova
 
 ### Q5: Jaké další funkce pro manipulaci s obrázky nabízí Aspose.Imaging for .NET?
 A5: Aspose.Imaging for .NET poskytuje širokou škálu funkcí, včetně změny velikosti, oříznutí, filtrování a mnoha dalších. Úplné možnosti knihovny můžete prozkoumat v dokumentaci.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: 在 Aspose.Imaging for .NET 中繪製橢圓
 linktitle: 在 Aspose.Imaging for .NET 中繪製橢圓
 second_title: Aspose.Imaging .NET 映像處理 API
 description: 學習在多功能影像處理庫 Aspose.Imaging for .NET 中繪製橢圓。輕鬆創建令人驚嘆的圖形。
-type: docs
 weight: 12
 url: /zh-hant/net/basic-drawing/draw-ellipse/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 在 Aspose.Imaging for .NET 中繪製橢圓
+
 在本教學中，我們將引導您完成使用 Aspose.Imaging for .NET 繪製橢圓的過程。 Aspose.Imaging 是一個功能強大的程式庫，可讓您在 .NET 應用程式中操作和建立各種格式的映像。我們將首先介紹概念和先決條件，然後將每個範例分解為多個步驟以確保清晰的理解。
 
 ## 先決條件
@@ -138,3 +144,9 @@ Aspose.Imaging for .NET 提供了廣泛的功能，包括影像建立、操作�
 ### Q5：如果遇到問題，如何獲得 Aspose.Imaging for .NET 支援？
 
 您可以在以下位置尋求支援並與 Aspose 社群互動：[論壇](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

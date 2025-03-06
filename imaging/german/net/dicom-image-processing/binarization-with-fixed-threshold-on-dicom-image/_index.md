@@ -3,10 +3,16 @@ title: Binarisierung mit festem Schwellenwert für DICOM-Bild in Aspose.Imaging 
 linktitle: Binarisierung mit festem Schwellenwert für DICOM-Bild in Aspose.Imaging für .NET
 second_title: Aspose.Imaging .NET-Bildverarbeitungs-API
 description: Erfahren Sie, wie Sie mit Aspose.Imaging für .NET eine Binarisierung für ein DICOM-Bild durchführen. Schritt-für-Schritt-Anleitung mit Codebeispielen.
-type: docs
 weight: 15
 url: /de/net/dicom-image-processing/binarization-with-fixed-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binarisierung mit festem Schwellenwert für DICOM-Bild in Aspose.Imaging für .NET
+
 Sind Sie bereit, mit Aspose.Imaging für .NET in die Welt der digitalen Bildverarbeitung einzutauchen? In diesem Schritt-für-Schritt-Tutorial erfahren Sie, wie Sie eine Binärisierung mit einem festen Schwellenwert für ein DICOM-Bild durchführen. Binarisierung ist eine grundlegende Bildverarbeitungstechnik, die ein Graustufenbild in ein Binärbild umwandelt, was sie zu einem unverzichtbaren Werkzeug für verschiedene Anwendungen macht, von der medizinischen Bildgebung bis zur Dokumentenanalyse.
 
 ## Voraussetzungen
@@ -106,3 +112,10 @@ Absolut! Während Aspose.Imaging häufig im medizinischen Bereich verwendet wird
 ### F5: Gibt es eine Testversion von Aspose.Imaging für .NET?
 
  Ja, Sie können Aspose.Imaging für .NET ausprobieren, indem Sie die Testversion von herunterladen[Hier](https://releases.aspose.com/). Es ermöglicht Ihnen, die Features und Funktionalitäten zu erkunden, bevor Sie einen Kauf tätigen.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

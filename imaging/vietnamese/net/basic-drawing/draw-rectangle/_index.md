@@ -3,10 +3,16 @@ title: Vẽ hình chữ nhật trong Aspose.Imaging cho .NET
 linktitle: Vẽ hình chữ nhật trong Aspose.Imaging cho .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Tìm hiểu cách vẽ hình chữ nhật trong Aspose.Imaging for .NET - một công cụ linh hoạt để xử lý hình ảnh trong các ứng dụng .NET của bạn.
-type: docs
 weight: 14
 url: /vi/net/basic-drawing/draw-rectangle/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Vẽ hình chữ nhật trong Aspose.Imaging cho .NET
+
 Tạo và thao tác hình ảnh trong các ứng dụng .NET có thể là một nhiệm vụ phức tạp, nhưng với sức mạnh của Aspose.Imaging dành cho .NET, nó trở nên đơn giản đáng kể. Trong hướng dẫn từng bước này, chúng tôi sẽ hướng dẫn bạn quy trình vẽ hình chữ nhật bằng Aspose.Imaging cho .NET. Bạn sẽ học cách tạo một hình ảnh, đặt thuộc tính cho nó, vẽ hình chữ nhật và lưu tác phẩm của mình. Hãy đi sâu vào!
 
 ## Điều kiện tiên quyết
@@ -104,3 +110,9 @@ Câu trả lời 4: Có, Aspose.Imaging for .NET cung cấp nhiều tính năng 
 ### Câu hỏi 5: Tôi có thể tìm thêm tài nguyên và hỗ trợ cho Aspose.Imaging cho .NET ở đâu?
 
  A5: Bạn có thể truy cập tài liệu[đây](https://reference.aspose.com/imaging/net/) và tìm kiếm sự hỗ trợ về[Diễn đàn Aspose.Imaging](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

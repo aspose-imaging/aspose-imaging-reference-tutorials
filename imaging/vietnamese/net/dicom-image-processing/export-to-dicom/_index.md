@@ -3,10 +3,16 @@ title: Xuất hình ảnh sang DICOM trong Aspose.Imaging for .NET
 linktitle: Xuất sang DICOM trong Aspose.Imaging for .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Tìm hiểu cách xuất hình ảnh sang định dạng DICOM trong .NET bằng Aspose.Imaging. Chuyển đổi hình ảnh y tế một cách dễ dàng.
-type: docs
 weight: 23
 url: /vi/net/dicom-image-processing/export-to-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Xuất hình ảnh sang DICOM trong Aspose.Imaging for .NET
+
 Trong lĩnh vực hình ảnh y tế, định dạng Hình ảnh Kỹ thuật số và Truyền thông trong Y học (DICOM) là vua không thể tranh cãi. Các tệp DICOM lưu trữ và quản lý hình ảnh y tế cũng như thông tin liên quan, tạo điều kiện trao đổi và giải thích liền mạch các hình ảnh y tế trên các hệ thống chăm sóc sức khỏe khác nhau. Nếu bạn đang muốn làm việc với các tệp DICOM trong ứng dụng .NET của mình thì bạn đã đến đúng nơi. Trong hướng dẫn này, chúng ta sẽ tìm hiểu cách xuất hình ảnh sang DICOM bằng Aspose.Imaging for .NET, một thư viện mạnh mẽ giúp đơn giản hóa quy trình. Đến cuối hướng dẫn này, bạn sẽ được trang bị kiến thức để khai thác tiềm năng của Aspose.Imaging cho .NET và tạo tệp DICOM một cách dễ dàng.
 
 ## Điều kiện tiên quyết
@@ -106,3 +112,9 @@ Câu trả lời 4: Aspose.Imaging for .NET cho phép bạn thao tác và tùy c
 ### Câu hỏi 5: Có sẵn phiên bản dùng thử của Aspose.Imaging cho .NET không?
 
  Câu trả lời 5: Có, bạn có thể truy cập bản dùng thử miễn phí Aspose.Imaging dành cho .NET để đánh giá khả năng của nó. Bạn có thể tải về phiên bản dùng thử[đây](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

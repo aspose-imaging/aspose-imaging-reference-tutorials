@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for Java 优化 DJVU 图像
 linktitle: 改进 DJVU 图像优化
 second_title: Aspose.Imaging Java 图像处理 API
 description: 了解如何使用 Aspose.Imaging for Java 优化 DJVU 图像。轻松增强视觉吸引力和性能。
-type: docs
 weight: 11
 url: /zh/java/image-conversion-and-optimization/improve-djvu-image-optimization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for Java 优化 DJVU 图像
+
 在数字内容领域，优化图像对于视觉吸引力和网站性能至关重要。作为一名熟练的 SEO 作家，我将指导您完成使用 Aspose.Imaging for Java 增强 DJVU 图像优化的过程。我们将探讨先决条件、导入包，并将每个示例分解为多个步骤，以确保全面理解这种图像优化技术。
 
 ## 先决条件
@@ -101,3 +107,9 @@ A2：当然。 Aspose.Imaging for Java 旨在高效处理大规模图像处理�
 ### Q5：DJVU 图像优化的主要优势是什么？
 
 A5：DJVU 图像优化可减小文件大小，使图像在网页上加载速度更快。它还提高了整体图像质量，使它们在视觉上对用户更具吸引力。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

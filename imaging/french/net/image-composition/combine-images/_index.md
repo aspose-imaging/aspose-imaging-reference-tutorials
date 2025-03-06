@@ -3,10 +3,16 @@ title: Combinez des images avec Aspose.Imaging pour .NET
 linktitle: Combiner des images dans Aspose.Imaging pour .NET
 second_title: API de traitement d'images Aspose.Imaging .NET
 description: Apprenez à combiner des images dans Aspose.Imaging pour .NET. Un guide étape par étape pour un traitement d'image puissant.
-type: docs
 weight: 10
 url: /fr/net/image-composition/combine-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Combinez des images avec Aspose.Imaging pour .NET
+
 À l'ère numérique d'aujourd'hui, le traitement et la manipulation d'images font partie intégrante de nombreuses applications, du développement Web à la conception graphique. Aspose.Imaging for .NET est une bibliothèque puissante qui permet aux développeurs .NET d'effectuer un large éventail d'opérations sur les images. Dans ce guide étape par étape, nous explorerons comment combiner des images à l'aide d'Aspose.Imaging pour .NET. 
 
 ## Conditions préalables
@@ -132,3 +138,9 @@ A3 : Oui, Aspose.Imaging pour .NET fournit un large éventail de fonctionnalit�
 ### Q5 : Puis-je utiliser Aspose.Imaging pour .NET avec d'autres frameworks .NET, comme ASP.NET ou WinForms ?
 
 A5 : Absolument. Aspose.Imaging for .NET est compatible avec divers frameworks .NET, ce qui le rend polyvalent pour différents types d'applications, notamment les applications Web ASP.NET et les applications de bureau Windows Forms.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

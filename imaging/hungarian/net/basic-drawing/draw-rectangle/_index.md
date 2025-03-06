@@ -3,10 +3,16 @@ title: Téglalapok rajzolása az Aspose.Imaging programban .NET-hez
 linktitle: Rajzolj téglalapot az Aspose.Imaging for .NET-hez
 second_title: Aspose.Imaging .NET Image Processing API
 description: Tanuljon meg téglalapokat rajzolni az Aspose.Imaging for .NET programban – egy sokoldalú eszköz a .NET-alkalmazások képkezeléséhez.
-type: docs
 weight: 14
 url: /hu/net/basic-drawing/draw-rectangle/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Téglalapok rajzolása az Aspose.Imaging programban .NET-hez
+
 A képek létrehozása és manipulálása .NET-alkalmazásokban összetett feladat lehet, de az Aspose.Imaging for .NET erejével rendkívül egyszerűvé válik. Ebben a lépésenkénti útmutatóban végigvezetjük a téglalapok rajzolásának folyamatán az Aspose.Imaging for .NET használatával. Megtanulja, hogyan hozhat létre képet, hogyan állíthatja be a tulajdonságait, rajzolhat téglalapokat és mentheti el a munkáját. Merüljünk el!
 
 ## Előfeltételek
@@ -104,3 +110,9 @@ Most már készen áll arra, hogy az Aspose.Imaging segítségével képmanipul�
 ### 5. kérdés: Hol találok további forrásokat és támogatást az Aspose.Imaging for .NET-hez?
 
  5. válasz: Hozzáférhet a dokumentációhoz[itt](https://reference.aspose.com/imaging/net/) és kérjen támogatást a[Aspose.Imaging fórum](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

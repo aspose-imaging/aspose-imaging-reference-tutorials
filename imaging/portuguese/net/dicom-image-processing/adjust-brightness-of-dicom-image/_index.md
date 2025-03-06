@@ -3,10 +3,16 @@ title: Ajuste o brilho da imagem DICOM com Aspose.Imaging for .NET
 linktitle: Ajuste o brilho da imagem DICOM em Aspose.Imaging for .NET
 second_title: API de processamento de imagem Aspose.Imaging .NET
 description: Aprenda como ajustar o brilho da imagem DICOM no Aspose.Imaging for .NET. Aprimore imagens médicas facilmente.
-type: docs
 weight: 10
 url: /pt/net/dicom-image-processing/adjust-brightness-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Ajuste o brilho da imagem DICOM com Aspose.Imaging for .NET
+
 No mundo da imagem médica, o manuseio de arquivos DICOM (Digital Imaging and Communications in Medicine) é de extrema importância. Esses arquivos contêm dados médicos vitais e, às vezes, é necessário fazer ajustes nas imagens contidas neles, como alterar seu brilho. Neste guia passo a passo, mostraremos como ajustar o brilho de uma imagem DICOM usando Aspose.Imaging for .NET.
 
 ## Pré-requisitos
@@ -95,3 +101,9 @@ A4: Você pode obter suporte e conectar-se com a comunidade Aspose.Imaging no[As
 ### Q5: Que outros recursos de manipulação de imagens o Aspose.Imaging oferece?
 
 A5: Aspose.Imaging oferece uma ampla gama de recursos para manipulação de imagens, incluindo redimensionamento, corte, rotação e várias opções de filtragem, tornando-o uma solução abrangente para trabalhar com imagens médicas.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

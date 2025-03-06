@@ -3,10 +3,16 @@ title: Flip DICOM Images with Aspose.Imaging for .NET
 linktitle: Flip DICOM Image in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to flip DICOM images using Aspose.Imaging for .NET. Easy, efficient image manipulation for medical applications and more.
-type: docs
 weight: 10
 url: /net/image-transformation/flip-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Flip DICOM Images with Aspose.Imaging for .NET
+
 ## Introduction
 
 In the world of software development, image manipulation is a common and essential task. Whether you're working on a medical imaging application or a creative graphic design project, the ability to flip DICOM images is a valuable skill. Aspose.Imaging for .NET is a powerful tool that can help you achieve this effortlessly. In this comprehensive guide, we will walk you through the process of flipping DICOM images using Aspose.Imaging for .NET. We'll break down each step, provide code examples, and offer insights into the prerequisites and namespaces you need to know.
@@ -99,3 +105,10 @@ A4: Yes, you can get a free trial version of Aspose.Imaging for .NET from [here]
 
 ### Q5: What other image manipulation features does Aspose.Imaging for .NET offer?
 A5: Aspose.Imaging for .NET provides a wide range of features, including resizing, cropping, filtering, and much more. You can explore the full capabilities of the library in the documentation.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

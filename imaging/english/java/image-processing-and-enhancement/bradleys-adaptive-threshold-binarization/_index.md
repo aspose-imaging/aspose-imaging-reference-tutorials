@@ -3,10 +3,16 @@ title: Image Binarization with Aspose.Imaging for Java
 linktitle: Bradley's Adaptive Threshold Binarization
 second_title: Aspose.Imaging Java Image Processing API
 description: Learn image binarization with Aspose.Imaging for Java. Transform DICOM images easily. Explore a step-by-step guide with code examples.
-type: docs
 weight: 27
 url: /java/image-processing-and-enhancement/bradleys-adaptive-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Image Binarization with Aspose.Imaging for Java
+
 Images play a crucial role in the digital world, whether on websites, in documents, or as part of various applications. Image processing is an essential task in these domains, and one of the fundamental operations is image binarization. Binarization simplifies an image by converting it into a binary form, making it easier for computers to process. Aspose.Imaging for Java is a powerful tool that provides a wide range of image manipulation features, and in this tutorial, we will explore how to perform image binarization using Aspose.Imaging's Bradley's Adaptive Threshold Binarization. 
 
 ## Prerequisites
@@ -111,3 +117,10 @@ A4: For community support and discussions, you can visit the [Aspose.Imaging for
 ### Q5: Is Aspose.Imaging for Java suitable for image processing in other Java-based applications?
 
 A5: Yes, Aspose.Imaging for Java is versatile and can be used in various Java-based applications, including web applications, desktop software, and more.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

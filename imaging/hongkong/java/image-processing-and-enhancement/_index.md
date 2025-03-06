@@ -3,10 +3,16 @@ title: 影像處理和增強
 linktitle: 影像處理和增強
 second_title: Aspose.Imaging Java 圖像處理 API
 description: 使用逐步教學使用 Aspose.Imaging for Java 增強影像。輕鬆優化文件處理和影像品質。
-type: docs
 weight: 21
 url: /zh-hant/java/image-processing-and-enhancement/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 影像處理和增強
+
 ## 介紹 
 影像處理是現代數位內容創作的一個重要面向。在本文中，我們將使用 Aspose.Imaging for Java 深入研究「影像處理和增強教程」的世界。無論您是平面設計師、攝影師，還是只是想提高影像處理技能，這些教學都將成為您的指路明燈。
 
@@ -116,3 +122,9 @@ url: /zh-hant/java/image-processing-and-enhancement/
 了解如何使用 Aspose.Imaging for Java 將濾鏡套用到 DICOM 影像。輕鬆增強醫學影像。
 ### [影像二值化](./bradleys-adaptive-threshold-binarization/)
 使用 Aspose.Imaging for Java 學習圖像二值化。輕鬆轉換 DICOM 影像。探索帶有程式碼範例的分步指南。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

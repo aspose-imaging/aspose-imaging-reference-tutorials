@@ -3,10 +3,16 @@ title: Rozszerzanie lub przycinanie obrazu za pomocą Aspose.Imaging dla Java
 linktitle: Powiększanie lub przycinanie obrazu
 second_title: Aspose.Imaging API przetwarzania obrazu Java
 description: Naucz się rozszerzania i przycinania obrazów w Javie dzięki Aspose.Imaging. Samouczek krok po kroku dla programistów. Popraw swoje umiejętności manipulacji obrazem.
-type: docs
 weight: 12
 url: /pl/java/document-conversion-and-processing/image-expansion-or-cropping/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Rozszerzanie lub przycinanie obrazu za pomocą Aspose.Imaging dla Java
+
 W stale zmieniającym się świecie mediów cyfrowych skuteczna manipulacja wizerunkiem jest podstawową potrzebą zarówno firm, jak i osób prywatnych. Aspose.Imaging for Java to wszechstronna biblioteka Java, która umożliwia bezproblemową pracę z obrazami. W tym kompleksowym samouczku przeprowadzimy Cię przez proces powiększania i przycinania obrazu za pomocą Aspose.Imaging dla Java. Niezależnie od tego, czy jesteś doświadczonym programistą, czy dopiero zaczynasz swoją przygodę z kodowaniem, omówimy każdy krok w sposób przyjazny dla początkujących.
 
 ## Warunki wstępne
@@ -101,3 +107,9 @@ O3: Tak, Aspose.Imaging for Java jest odpowiedni dla aplikacji internetowych i m
 ### P5: Czy dostępna jest bezpłatna wersja próbna Aspose.Imaging dla Java?
 
  Odpowiedź 5: Tak, możesz przeglądać bibliotekę w ramach bezpłatnego okresu próbnego. Pobierz go z[Tutaj](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

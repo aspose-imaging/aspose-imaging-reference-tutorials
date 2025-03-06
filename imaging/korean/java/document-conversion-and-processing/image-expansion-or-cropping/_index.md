@@ -3,10 +3,16 @@ title: Java용 Aspose.Imaging을 사용한 이미지 확장 또는 자르기
 linktitle: 이미지 확장 또는 자르기
 second_title: Aspose.Imaging Java 이미지 처리 API
 description: Aspose.Imaging을 사용하여 Java에서 이미지 확장 및 자르기를 알아보세요. 개발자를 위한 단계별 튜토리얼입니다. 이미지 조작 기술을 향상시키세요.
-type: docs
 weight: 12
 url: /ko/java/document-conversion-and-processing/image-expansion-or-cropping/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Java용 Aspose.Imaging을 사용한 이미지 확장 또는 자르기
+
 끊임없이 진화하는 디지털 미디어 세계에서 효과적인 이미지 조작은 기업과 개인 모두에게 근본적인 요구 사항입니다. Aspose.Imaging for Java는 이미지 작업을 쉽게 할 수 있는 다목적 Java 라이브러리입니다. 이 포괄적인 튜토리얼에서는 Aspose.Imaging for Java를 사용하여 이미지 확장 및 자르기 프로세스를 안내합니다. 숙련된 개발자이든 이제 막 코딩 여정을 시작하는 사람이든 상관없이 초보자 친화적인 방식으로 모든 단계를 자세히 설명합니다.
 
 ## 전제 조건
@@ -101,3 +107,9 @@ A3: 예, Aspose.Imaging for Java는 웹 애플리케이션에 적합하며 Java 
 ### Q5: Aspose.Imaging for Java에 대한 무료 평가판이 있습니까?
 
  A5: 예, 무료 평가판을 통해 라이브러리를 탐색할 수 있습니다. 다음에서 다운로드하세요.[여기](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: معالجة الصور بسهولة باستخدام Aspose.Imaging لـ
 linktitle: دعم تنسيق ملف OTG
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: تعرف على كيفية الاستفادة من قوة Aspose.Imaging لـ Java في هذا الدليل التفصيلي خطوة بخطوة. تحسين معالجة الصور الخاصة بك بكل سهولة.
-type: docs
 weight: 14
 url: /ar/java/metafile-and-vector-image-handling/otg-file-format-support/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# معالجة الصور بسهولة باستخدام Aspose.Imaging لـ Java
+
 هل تتطلع إلى تسخير قوة Aspose.Imaging لـ Java للتعامل مع المهام المتعلقة بالصور بسهولة؟ لا مزيد من البحث! في هذا الدليل الشامل، سنرشدك عبر الخطوات الأساسية لبدء استخدام Aspose.Imaging for Java، بدءًا من المتطلبات الأساسية وحتى استيراد الحزم وتقسيم الأمثلة. دعنا نتعمق ونفتح إمكانات مكتبة Java متعددة الاستخدامات هذه.
 
 ## المتطلبات الأساسية
@@ -136,3 +142,9 @@ A1: Aspose.Imaging for Java هي مكتبة Java تمكن المطورين من 
 ### س5: أين يمكنني طلب الدعم والمساعدة فيما يتعلق بـ Aspose.Imaging for Java؟
 
  ج5: إذا كانت لديك أية أسئلة أو واجهت مشكلات، فيمكنك زيارة منتدى دعم Aspose.Imaging for Java على[منتدى أسبوز](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

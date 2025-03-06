@@ -3,10 +3,16 @@ title: Рисуйте растровые изображения в EMF с пом
 linktitle: Рисование растрового изображения в EMF в Aspose.Imaging для .NET
 second_title: API обработки изображений Aspose.Imaging .NET
 description: Узнайте, как рисовать растровые изображения в файлах EMF с помощью Aspose.Imaging для .NET. Создавайте потрясающие визуальные эффекты без особых усилий.
-type: docs
 weight: 10
 url: /ru/net/vector-image-processing/draw-raster-image-on-emf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Рисуйте растровые изображения в EMF с помощью Aspose.Imaging для .NET
+
 
 ## Введение
 
@@ -121,3 +127,10 @@ using (EmfImage resultImage = graphics.EndRecording())
 ### 5. Где я могу получить поддержку для Aspose.Imaging?
 
  Для поддержки и помощи вы можете посетить форум Aspose.Imaging.[здесь](https://forum.aspose.com/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

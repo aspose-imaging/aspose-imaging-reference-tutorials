@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET を使用した画像内のテキスト測定
 linktitle: Aspose.Imaging for .NET でのテキストの測定
 second_title: Aspose.Imaging .NET 画像処理 API
 description: Aspose.Imaging for .NET を使用して画像内のテキストを測定します。強力な .NET ライブラリ。正確かつ効率的なテキスト測定。
-type: docs
 weight: 10
 url: /ja/net/text-and-measurements/measure-text/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET を使用した画像内のテキスト測定
+
 画像を操作し、テキストを正確に測定したいと考えている .NET 開発者にとって、Aspose.Imaging for .NET は強力なソリューションです。このステップバイステップのガイドでは、Aspose.Imaging を使用してテキストを測定する方法を、前提条件から始めて実用的な例で説明します。さっそく飛び込んでみましょう！
 
 ## 前提条件
@@ -95,3 +101,9 @@ using (Image backgroundImage = Image.Load("Your Image Path"))
 ### Q5: Aspose.Imaging for .NET をダウンロードするにはどうすればよいですか?
 
  A5: Aspose.Imaging for .NET は、[ダウンロードページ](https://releases.aspose.com/imaging/net/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Điều chỉnh độ tương phản hình ảnh DICOM với Aspose.Imagi
 linktitle: Điều chỉnh độ tương phản hình ảnh DICOM
 second_title: Aspose.Imaging API xử lý hình ảnh Java
 description: Tìm hiểu cách điều chỉnh độ tương phản trong hình ảnh DICOM bằng Aspose.Imaging for Java. Nâng cao chất lượng hình ảnh của hình ảnh y tế một cách dễ dàng.
-type: docs
 weight: 23
 url: /vi/java/image-processing-and-enhancement/dicom-image-contrast-adjustment/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Điều chỉnh độ tương phản hình ảnh DICOM với Aspose.Imaging cho Java
+
 Trong lĩnh vực hình ảnh y tế ngày càng phát triển, khả năng điều chỉnh độ tương phản của hình ảnh là hết sức quan trọng. Với sức mạnh của Aspose.Imaging cho Java, bạn có thể dễ dàng thao tác với hình ảnh DICOM (Hình ảnh kỹ thuật số và truyền thông trong y học) để nâng cao chất lượng hình ảnh của chúng. Hướng dẫn này sẽ hướng dẫn bạn thực hiện từng bước quy trình, đảm bảo bạn đạt được các điều chỉnh độ tương phản hình ảnh chính xác và hiệu quả.
 
 ## Điều kiện tiên quyết
@@ -102,3 +108,9 @@ Câu trả lời 3: Có, Aspose.Imaging cho Java cung cấp rất nhiều chức
 ### Câu hỏi 5: Tôi có thể tìm thêm tài nguyên và hỗ trợ cho Aspose.Imaging cho Java ở đâu?
 
  Câu trả lời 5: Bạn có thể tìm tài liệu và hỗ trợ trên[Aspose.Imaging cho diễn đàn Java](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: تحويل نطاق صفحات DJVU في Aspose.Imaging لـ .NET
 linktitle: تحويل نطاق صفحات DJVU في Aspose.Imaging لـ .NET
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: تعرف على كيفية تحويل صفحات DJVU باستخدام Aspose.Imaging لـ .NET. دليل خطوة بخطوة لتحويل DJVU إلى TIFF بكفاءة.
-type: docs
 weight: 18
 url: /ar/net/image-format-conversion/convert-range-of-djvu-pages/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# تحويل نطاق صفحات DJVU في Aspose.Imaging لـ .NET
+
 
 إذا كنت تتطلع إلى تحويل مجموعة من صفحات DJVU إلى تنسيق آخر، فإن Aspose.Imaging for .NET هي الأداة المثالية لهذه المهمة. في هذا الدليل خطوة بخطوة، سنوضح لك كيفية تنفيذ هذه المهمة بكفاءة. سواء كنت مطورًا متمرسًا أو وافدًا جديدًا إلى عالم Aspose.Imaging، فسنقوم بتفصيل العملية لك. 
 
@@ -105,3 +111,9 @@ image.Save(dataDir + "ConvertRangeOfDjVuPages_out.djvu", exportOptions);
 ### س5: هل يمكنني استخدام Aspose.Imaging لمعالجة الصور دفعةً واحدة؟
 
 نعم، يوفر Aspose.Imaging for .NET إمكانات قوية لمعالجة الصور دفعة واحدة، مما يجعله مناسبًا لمختلف مهام الأتمتة ومعالجة الصور.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

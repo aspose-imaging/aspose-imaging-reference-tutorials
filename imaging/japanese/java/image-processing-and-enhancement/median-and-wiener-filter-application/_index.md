@@ -3,10 +3,16 @@ title: メディアンおよびウィーナー フィルターの適用
 linktitle: メディアンおよびウィーナー フィルターの適用
 second_title: Aspose.Imaging Java 画像処理 API
 description: Aspose.Imaging for Java を使用して画質を向上させる方法を学びます。このステップバイステップのチュートリアルでは、画像のノイズ除去のためのメディアン フィルターとウィナー フィルターのアプリケーションについて説明します。
-type: docs
 weight: 19
 url: /ja/java/image-processing-and-enhancement/median-and-wiener-filter-application/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# メディアンおよびウィーナー フィルターの適用
+
 画像処理の世界では、ノイズを除去し画質を向上させることが重要なタスクです。 Aspose.Imaging for Java は、画像を操作するためのさまざまなツールとフィルターを提供する強力なライブラリです。このチュートリアルでは、ライブラリを使用してメディアン フィルターとウィナー フィルターを適用し、画像をクリーンにしてノイズを除去するプロセスを説明します。このステップバイステップのガイドは、プロレベルの画像補正を実現するのに役立ちます。
 
 ## 前提条件
@@ -97,3 +103,9 @@ A4: メディアン フィルターに加えて、画像強調技術には、ウ
 ### Q5: Web アプリケーションで Aspose.Imaging for Java を使用できますか?
 
 A5: はい、Aspose.Imaging for Java を Web アプリケーションに統合して、サーバー側の画像処理を行うことができます。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

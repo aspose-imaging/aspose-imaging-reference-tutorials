@@ -3,10 +3,16 @@ title: Làm chủ quá trình nhị phân ngưỡng cố định bằng Aspose.I
 linktitle: Nhị phân ngưỡng cố định
 second_title: Aspose.Imaging API xử lý hình ảnh Java
 description: Tìm hiểu cách thực hiện Binarization ngưỡng cố định trên hình ảnh bằng Aspose.Imaging cho Java.
-type: docs
 weight: 21
 url: /vi/java/image-processing-and-enhancement/fixed-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Làm chủ quá trình nhị phân ngưỡng cố định bằng Aspose.Imaging cho Java
+
 ## Giới thiệu
 
 Trong lĩnh vực lập trình Java, có rất nhiều công cụ và thư viện có sẵn để xử lý các tác vụ xử lý hình ảnh khác nhau. Một thư viện mạnh mẽ và linh hoạt như vậy là Aspose.Imaging cho Java. Cho dù bạn là một nhà phát triển dày dạn kinh nghiệm hay mới bắt đầu hành trình xử lý hình ảnh, Aspose.Imaging đều cung cấp một bộ tính năng mạnh mẽ để hợp lý hóa các công việc của bạn. Trong hướng dẫn này, chúng ta sẽ đi sâu vào một trong những kỹ thuật xử lý ảnh cơ bản - Nhị phân ngưỡng cố định - sử dụng Aspose.Imaging cho Java.
@@ -119,3 +125,9 @@ Câu trả lời 3: Có, có các thư viện thay thế như Java Advanced Imag
 ### Câu hỏi 5: Tôi có thể thực hiện các tác vụ xử lý hình ảnh khác bằng Aspose.Imaging cho Java không?
 
 A5: Chắc chắn rồi! Aspose.Imaging for Java cung cấp nhiều tính năng xử lý hình ảnh, bao gồm thay đổi kích thước, cắt xén, lọc, v.v.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

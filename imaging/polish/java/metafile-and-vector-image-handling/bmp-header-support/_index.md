@@ -3,10 +3,16 @@ title: Obsługa nagłówków BMP w Aspose.Imaging dla Java
 linktitle: Obsługa nagłówków BMP
 second_title: Aspose.Imaging API przetwarzania obrazu Java
 description: Dowiedz się, jak z łatwością używać Aspose.Imaging for Java do nagłówka BMP. Krok po kroku importuj pakiety, ładuj obrazy i zapisuj w różnych formatach.
-type: docs
 weight: 11
 url: /pl/java/metafile-and-vector-image-handling/bmp-header-support/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Obsługa nagłówków BMP w Aspose.Imaging dla Java
+
 ## Wstęp
 
 Aspose.Imaging for Java to potężna biblioteka Java, która zapewnia szeroką gamę funkcji do pracy z różnymi formatami obrazów, w tym BMP, PNG, JPEG i wieloma innymi. W tym przewodniku krok po kroku odkryjemy, jak używać Aspose.Imaging for Java do wykonywania podstawowych operacji na obrazach BMP. Omówimy wymagania wstępne, zaimportujemy pakiety i podzielimy każdy przykład na wiele kroków, aby zapewnić jasne zrozumienie procesu.
@@ -99,3 +105,9 @@ O4: Aspose.Imaging obsługuje różne formaty obrazów, w tym JPEG, TIFF, GIF i 
 ### P5: Jak uzyskać tymczasową licencję na Aspose.Imaging?
 
  Odpowiedź 5: Możesz uzyskać tymczasową licencję do celów testowania i programowania od[Tutaj](https://purchase.aspose.com/temporary-license/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

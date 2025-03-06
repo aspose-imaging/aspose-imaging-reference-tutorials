@@ -3,10 +3,16 @@ title: Enhance Colored Images with Wiener Filter with Aspose.Imaging for Java
 linktitle: Apply Wiener Filter to Colored Images
 second_title: Aspose.Imaging Java Image Processing API
 description: Learn how to apply the Wiener filter to colored images in Java using Aspose.Imaging for Java. Enhance image quality and reduce noise effortlessly.
-type: docs
 weight: 18
 url: /java/image-processing-and-enhancement/apply-wiener-filter-to-colored-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Enhance Colored Images with Wiener Filter with Aspose.Imaging for Java
+
 If you're looking to enhance the quality of your colored images and reduce noise, Aspose.Imaging for Java has got you covered. In this step-by-step tutorial, we'll walk you through the process of applying the Wiener filter to colored images. Wiener filtering is a powerful technique that can significantly improve image quality. Let's get started!
 
 ## Prerequisites
@@ -103,3 +109,10 @@ A4: If you have any questions or face issues while using Aspose.Imaging for Java
 ### Q5: Can I use Aspose.Imaging for commercial purposes?
 
 A5: Yes, you can use Aspose.Imaging for Java for commercial projects. To obtain a license, you can visit the [purchase page](https://purchase.aspose.com/buy).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

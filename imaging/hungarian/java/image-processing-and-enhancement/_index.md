@@ -3,10 +3,16 @@ title: Képfeldolgozás és -javítás
 linktitle: Képfeldolgozás és -javítás
 second_title: Aspose.Imaging Java Image Processing API
 description: Javítsa a képeket az Aspose.Imaging for Java segítségével lépésenkénti oktatóanyagok segítségével. Könnyedén optimalizálhatja a dokumentumfeldolgozást és a képminőséget.
-type: docs
 weight: 21
 url: /hu/java/image-processing-and-enhancement/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Képfeldolgozás és -javítás
+
 ## Bevezetés 
 képfeldolgozás a modern digitális tartalomkészítés kulcsfontosságú eleme. Ebben a cikkben a "Képfeldolgozási és -javítási oktatóanyagok" világába fogunk beleásni az Aspose.Imaging for Java segítségével. Legyen szó grafikusról, fotósról vagy csak valaki, aki fejleszteni szeretné képfeldolgozási készségeit, ezek az oktatóanyagok az Ön irányadó fényei lesznek.
 
@@ -116,3 +122,9 @@ Ismerje meg, hogyan állíthatja be a kép fényerejét az Aspose.Imaging for Ja
 Ismerje meg, hogyan alkalmazhat szűrőket DICOM-képekre az Aspose.Imaging for Java segítségével. Fokozza az orvosi képalkotást könnyedén.
 ### [Kép binarizálása](./bradleys-adaptive-threshold-binarization/)
 Tanulja meg a kép binarizálását az Aspose.Imaging for Java segítségével. Könnyen átalakíthatja a DICOM képeket. Fedezze fel a kódpéldákat tartalmazó, lépésről lépésre szóló útmutatót.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: تقسيم إطارات TIFF باستخدام Aspose.Imaging لـ Java
 linktitle: تقسيم إطار الصورة TIFF
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: تعرف على كيفية تقسيم إطارات صور TIFF باستخدام Aspose.Imaging لـ Java. دليل خطوة بخطوة يتضمن المتطلبات الأساسية ومثال التعليمات البرمجية والأسئلة الشائعة للمطورين.
-type: docs
 weight: 21
 url: /ar/java/image-conversion-and-optimization/tiff-image-frame-splitting/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# تقسيم إطارات TIFF باستخدام Aspose.Imaging لـ Java
+
 ## مقدمة
 
 في العالم الرقمي اليوم، حيث تلعب الصور دورًا محوريًا في نقل المعلومات، يمثل Aspose.Imaging for Java أداة قوية للمطورين. تمكّنك مكتبة Java متعددة الاستخدامات هذه من التعامل مع تنسيقات الصور المختلفة ومعالجتها، مما يفتح الأبواب أمام إمكانيات إبداعية لا نهاية لها. سواء كنت تعمل على مشروع يتطلب تقسيم إطار الصورة، أو تحويل التنسيق، أو تحسين الصورة، فإن Aspose.Imaging for Java يساندك.
@@ -117,3 +123,9 @@ Aspose.Imaging for Java هي أداة قوية تعمل على تبسيط معا
 ### س 5: هل يدعم Aspose.Imaging for Java تنسيقات الصور الأخرى إلى جانب TIFF؟
 
 ج5: نعم، يدعم Aspose.Imaging for Java نطاقًا واسعًا من تنسيقات الصور، بما في ذلك JPEG وPNG وBMP والمزيد.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

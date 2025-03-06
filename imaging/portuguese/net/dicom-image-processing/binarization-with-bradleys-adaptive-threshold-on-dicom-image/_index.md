@@ -3,10 +3,16 @@ title: Binarização com limite adaptativo de Bradley em imagem DICOM em Aspose.
 linktitle: Binarização com limite adaptativo de Bradley em imagem DICOM em Aspose.Imaging for .NET
 second_title: API de processamento de imagem Aspose.Imaging .NET
 description: Aprenda a aplicar o Limite Adaptativo de Bradley a imagens DICOM usando Aspose.Imaging for .NET. Binarização facilitada com guia passo a passo.
-type: docs
 weight: 14
 url: /pt/net/dicom-image-processing/binarization-with-bradleys-adaptive-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binarização com limite adaptativo de Bradley em imagem DICOM em Aspose.Imaging for .NET
+
 Você deseja aplicar o Limite Adaptativo de Bradley a uma imagem DICOM usando Aspose.Imaging for .NET? Neste tutorial abrangente, orientaremos você no processo passo a passo. Ao final deste guia, você será capaz de realizar a binarização de imagens DICOM com eficiência. Abordaremos tudo, desde pré-requisitos até a importação de namespaces e dividiremos cada exemplo em várias etapas.
 
 ## Pré-requisitos
@@ -97,3 +103,9 @@ A2: Sim, você pode percorrer várias imagens DICOM e aplicar o processo de bina
 ### P5: Como posso obter suporte para Aspose.Imaging for .NET?
 
  A5: Você pode ingressar na comunidade Aspose e obter suporte de outros desenvolvedores no[Aspor Fórum](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

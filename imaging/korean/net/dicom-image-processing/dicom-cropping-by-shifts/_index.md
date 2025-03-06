@@ -3,10 +3,16 @@ title: .NET용 Aspose.Imaging을 사용하여 DICOM 이미지 자르기
 linktitle: .NET용 Aspose.Imaging에서 교대로 DICOM 자르기
 second_title: Aspose.Imaging .NET 이미지 처리 API
 description: .NET용 Aspose.Imaging을 사용하여 DICOM 이미지를 자르는 방법을 알아보세요. 이 단계별 가이드를 통해 의료 영상 처리를 강화하세요.
-type: docs
 weight: 18
 url: /ko/net/dicom-image-processing/dicom-cropping-by-shifts/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET용 Aspose.Imaging을 사용하여 DICOM 이미지 자르기
+
 의료 이미지, 특히 DICOM 이미지를 자르는 것은 의료 산업에서 중요한 작업입니다. 이를 통해 의료 전문가는 특정 관심 영역에 집중하고, 원하지 않는 요소를 제거하고, 진단 데이터의 시각적 표현을 향상시킬 수 있습니다. 이 튜토리얼에서는 .NET 애플리케이션에서 이미지 처리 작업을 단순화하는 강력한 라이브러리인 Aspose.Imaging for .NET을 사용하여 DICOM 이미지를 자르는 방법을 살펴보겠습니다.
 
 ## 전제 조건
@@ -100,3 +106,9 @@ A2: 예, Aspose.Imaging for .NET은 형식 변환, 크기 조정 등 다양한 �
 ### Q5: 비의료 영상 처리 애플리케이션에서 Aspose.Imaging for .NET을 사용할 수 있습니까?
 
 A5: 물론이죠! 의료 영상에 적합하지만 Aspose.Imaging for .NET은 다양한 도메인의 광범위한 이미지 처리 작업에 사용될 수 있습니다.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

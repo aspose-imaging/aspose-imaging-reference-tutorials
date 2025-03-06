@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for .NET 裁剪 DICOM 图像
 linktitle: Aspose.Imaging for .NET 中的 DICOM 裁剪
 second_title: Aspose.Imaging .NET 图像处理 API
 description: 了解如何使用 Aspose.Imaging for .NET 裁剪 DICOM 图像。通过本分步指南增强医学图像处理。
-type: docs
 weight: 18
 url: /zh/net/dicom-image-processing/dicom-cropping-by-shifts/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for .NET 裁剪 DICOM 图像
+
 裁剪医学图像，特别是 DICOM 图像，是医疗保健行业的一项关键任务。它使医疗保健专业人员能够专注于感兴趣的特定领域，删除不需要的元素，并增强诊断数据的视觉表示。在本教程中，我们将探索如何使用 Aspose.Imaging for .NET 裁剪 DICOM 图像，Aspose.Imaging 是一个功能强大的库，可以简化 .NET 应用程序中的图像处理任务。
 
 ## 先决条件
@@ -100,3 +106,9 @@ A2：是的，Aspose.Imaging for .NET 是一个多功能库，可以处理各种
 ### Q5：我可以在非医学图像处理应用程序中使用 Aspose.Imaging for .NET 吗？
 
 A5：当然！虽然 Aspose.Imaging for .NET 非常适合医学成像，但它还可用于各个领域的广泛图像处理任务。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

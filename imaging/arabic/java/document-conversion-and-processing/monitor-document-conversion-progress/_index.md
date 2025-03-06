@@ -3,10 +3,16 @@ title: مراقبة تقدم تحويل المستندات
 linktitle: مراقبة تقدم تحويل المستندات
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: تعرف على كيفية استخدام Aspose.Imaging لـ Java في هذا البرنامج التعليمي خطوة بخطوة حول تحويل الصور ومعالجتها.
-type: docs
 weight: 10
 url: /ar/java/document-conversion-and-processing/monitor-document-conversion-progress/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# مراقبة تقدم تحويل المستندات
+
 في هذا البرنامج التعليمي، سنستكشف كيفية استخدام Aspose.Imaging for Java لإجراء تحويل الصور ومعالجتها. Aspose.Imaging for Java هي مكتبة Java قوية تمكنك من العمل مع تنسيقات الصور المختلفة، مما يجعلها أداة أساسية للمطورين الذين يتعاملون مع معالجة الصور في تطبيقاتهم. سنقوم بتقسيم العملية إلى خطوات سهلة المتابعة لمساعدتك على البدء.
 
 ## مقدمة
@@ -145,3 +151,9 @@ static void exportProgressCallback(ProgressEventHandlerInfo info) {
 ### س5: أين يمكنني الحصول على دعم Aspose.Imaging لـ Java؟
 
  ج5: إذا كانت لديك أسئلة أو كنت بحاجة إلى مساعدة فيما يتعلق بـ Aspose.Imaging for Java، فيمكنك زيارة Aspose[منتدى الدعم](https://forum.aspose.com/)، حيث يمكنك العثور على موارد مفيدة والتفاعل مع مجتمع Aspose للحصول على الدعم والتوجيه.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Konvertieren Sie ODG in PNG und PDF mit Aspose.Imaging für Java
 linktitle: Unterstützung des ODG-Dateiformats
 second_title: Aspose.Imaging Java-Bildverarbeitungs-API
 description: Erfahren Sie, wie Sie ODG-Dateien mit Aspose.Imaging für Java in PNG und PDF konvertieren. Befolgen Sie unsere Schritt-für-Schritt-Anleitung für eine effiziente Konvertierung.
-type: docs
 weight: 12
 url: /de/java/metafile-and-vector-image-handling/odg-file-format-support/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Konvertieren Sie ODG in PNG und PDF mit Aspose.Imaging für Java
+
 In der Welt der Dokumentenkonvertierung zeichnet sich Aspose.Imaging für Java als leistungsstarkes Tool aus, mit dem Sie ODG-Dateien (OpenDocument Graphics) problemlos in PNG- und PDF-Formate konvertieren können. Dieses Tutorial führt Sie Schritt für Schritt durch den Prozess mit Aspose.Imaging für Java. Ganz gleich, ob Sie Entwickler sind oder einfach nur ODG-Dateien konvertieren möchten, dieser Artikel wird Ihnen dabei helfen, Ihr Ziel zu erreichen.
 
 ## Voraussetzungen
@@ -115,3 +121,9 @@ Aspose.Imaging für Java vereinfacht die Konvertierung von ODG-Dateien in weiter
 ### F5: Kann ich Aspose.Imaging für Java in meinen kommerziellen Projekten verwenden?
 
 A5: Ja, Sie können Aspose.Imaging für Java in kommerziellen Projekten verwenden, nachdem Sie die entsprechende Lizenz erworben haben.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

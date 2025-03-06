@@ -3,10 +3,16 @@ title: Aspose.Imaging for Java を使用した DICOM 画像のガンマ調整
 linktitle: DICOM画像のガンマ調整
 second_title: Aspose.Imaging Java 画像処理 API
 description: Aspose.Imaging for Java を使用して Java で DICOM イメージのガンマを調整する方法を学習します。簡単な手順で医療画像の品質を向上させます。
-type: docs
 weight: 24
 url: /ja/java/image-processing-and-enhancement/dicom-image-gamma-adjustment/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for Java を使用した DICOM 画像のガンマ調整
+
 Java アプリケーションの DICOM 画像の品質を向上させたいと考えていますか? Aspose.Imaging for Java は、DICOM 形式を含む画像の操作と処理を可能にする強力で多用途のライブラリです。このステップバイステップのチュートリアルでは、Aspose.Imaging for Java を使用して DICOM イメージのガンマを調整するプロセスを説明します。 
 
 ## 前提条件
@@ -112,3 +118,9 @@ A4: 一部の DICOM 画像には複雑な構造とメタデータが含まれる
 ### Q5: Aspose.Imaging のその他のチュートリアルやリソースはどこで見つけられますか?
 
  A5: を探索できます。[Aspose.Imaging ドキュメント](https://reference.aspose.com/imaging/java/)包括的なガイド、例、API リファレンスをご覧ください。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

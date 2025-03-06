@@ -3,10 +3,16 @@ title: Mở khóa sự kỳ diệu của việc chuyển đổi hình ảnh vớ
 linktitle: Chuyển đổi hình ảnh
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Khám phá nghệ thuật chuyển đổi hình ảnh với Aspose.Imaging cho .NET. Tìm hiểu cách lật và xoay hình ảnh DICOM một cách dễ dàng cho các ứng dụng y tế và hơn thế nữa.
-type: docs
 weight: 24
 url: /vi/net/image-transformation/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Mở khóa sự kỳ diệu của việc chuyển đổi hình ảnh với Aspose.Imaging .NET
+
 
 Bạn đã sẵn sàng đi sâu vào thế giới biến đổi hình ảnh chưa? Aspose.Imaging for .NET mở ra cơ hội thao tác liền mạch và hiệu quả đối với hình ảnh DICOM, được thiết kế riêng cho các ứng dụng y tế và hơn thế nữa. Trong hướng dẫn toàn diện này, chúng tôi sẽ hướng dẫn bạn hai kỹ thuật chuyển đổi hình ảnh cần thiết: lật và xoay hình ảnh DICOM. 
 
@@ -37,3 +43,9 @@ Khám phá xoay hình ảnh DICOM với Aspose.Imaging cho .NET. Hướng dẫn 
 ## Phần kết luận
 
 Aspose.Imaging for .NET cho phép bạn nắm vững nghệ thuật chuyển đổi hình ảnh, biến nó thành một công cụ vô giá cho các chuyên gia y tế cũng như các nhà phát triển. Cho dù bạn cần lật hay xoay hình ảnh DICOM, hướng dẫn này sẽ mang đến một hành trình liền mạch vào thế giới thao tác hình ảnh. Nâng cao ứng dụng y tế và xử lý hình ảnh của bạn với Aspose.Imaging cho .NET ngay hôm nay. Mở khóa sự kỳ diệu của việc chuyển đổi hình ảnh ngay bây giờ!
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

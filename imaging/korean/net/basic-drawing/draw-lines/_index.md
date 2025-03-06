@@ -3,10 +3,16 @@ title: .NET용 Aspose.Imaging의 선 그리기 마스터링
 linktitle: .NET용 Aspose.Imaging에서 선 그리기
 second_title: Aspose.Imaging .NET 이미지 처리 API
 description: .NET용 Aspose.Imaging에서 정확한 선을 그리는 방법을 알아보세요. 이 단계별 가이드에서는 이미지 생성, 선 그리기 등을 다룹니다.
-type: docs
 weight: 13
 url: /ko/net/basic-drawing/draw-lines/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET용 Aspose.Imaging의 선 그리기 마스터링
+
 .NET 애플리케이션에서 정확한 선으로 멋진 이미지를 생성하려는 경우 .NET용 Aspose.Imaging은 이를 달성하는 데 도움이 될 수 있는 강력한 도구입니다. 이 튜토리얼에서는 .NET용 Aspose.Imaging을 사용하여 선을 그리는 과정을 안내합니다. 이 단계별 가이드에서는 필요한 네임스페이스 설정부터 선을 사용하여 아름다운 이미지를 만드는 것까지 모든 것을 다룹니다.
 
 ## 전제 조건
@@ -124,3 +130,9 @@ A4: 예, .NET용 Aspose.Imaging은 .NET Core와 호환되므로 크로스 플랫
 ### Q5: .NET용 Aspose.Imaging의 무료 평가판이 있습니까?
 
  A5: 예, 다음에서 무료 평가판을 다운로드하여 .NET용 Aspose.Imaging을 사용해 볼 수 있습니다.[여기](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

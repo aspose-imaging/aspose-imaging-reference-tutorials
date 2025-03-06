@@ -3,10 +3,16 @@ title: Méretezze át az SVG-képeket az Aspose.Imaging for Java segítségével
 linktitle: SVG képek átméretezése
 second_title: Aspose.Imaging Java Image Processing API
 description: Ismerje meg, hogyan lehet átméretezni az SVG-képeket Java nyelven az Aspose.Imaging for Java segítségével. Lépésről lépésre útmutató a hatékony képfeldolgozáshoz.
-type: docs
 weight: 12
 url: /hu/java/image-processing-and-enhancement/resize-svg-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Méretezze át az SVG-képeket az Aspose.Imaging for Java segítségével
+
 Hatékonyan és eredményesen szeretné átméretezni az SVG-képeket a Java használatával? Az Aspose.Imaging for Java hatékony megoldást kínál ennek elérésére. Ebben az átfogó útmutatóban lépésről lépésre végigvezetjük a folyamaton, kezdve az előfeltételektől, a csomagok importálásával és az egyes példák részletes lépésekre bontásával.
 
 ## Előfeltételek
@@ -113,3 +119,9 @@ V1: Igen, a szélesség és magasság átméretezési tényezőit a kódban füg
 ### 5. kérdés: Használhatom az Aspose.Imaging-ot kereskedelmi projektekben?
 
 5. válasz: Igen, az Aspose. Az Imaging használható kereskedelmi projektekben. Az Aspose webhelyén találhat licencelési információkat.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

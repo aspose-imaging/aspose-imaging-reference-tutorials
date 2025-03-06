@@ -3,10 +3,16 @@ title: Java용 Aspose.Imaging을 사용한 마스터 고정 임계값 이진화
 linktitle: 고정 임계값 이진화
 second_title: Aspose.Imaging Java 이미지 처리 API
 description: Java용 Aspose.Imaging을 사용하여 이미지에서 고정 임계값 이진화를 수행하는 방법을 알아보세요.
-type: docs
 weight: 21
 url: /ko/java/image-processing-and-enhancement/fixed-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Java용 Aspose.Imaging을 사용한 마스터 고정 임계값 이진화
+
 ## 소개
 
 Java 프로그래밍 영역에는 다양한 이미지 처리 작업을 처리하는 데 사용할 수 있는 수많은 도구와 라이브러리가 있습니다. 강력하고 다재다능한 라이브러리 중 하나가 Aspose.Imaging for Java입니다. 노련한 개발자이든 이미지 조작의 여정을 막 시작하든 Aspose.Imaging은 작업을 간소화할 수 있는 강력한 기능 세트를 제공합니다. 이 튜토리얼에서는 Java용 Aspose.Imaging을 사용하여 기본 이미지 처리 기술 중 하나인 고정 임계값 이진화를 살펴보겠습니다.
@@ -119,3 +125,9 @@ A3: 예, JAI(Java Advanced Imaging) 및 ImageJ와 같은 대체 라이브러리�
 ### Q5: Aspose.Imaging for Java를 사용하여 다른 이미지 처리 작업을 수행할 수 있나요?
 
 A5: 물론이죠! Aspose.Imaging for Java는 크기 조정, 자르기, 필터링 등을 포함한 광범위한 이미지 처리 기능을 제공합니다.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

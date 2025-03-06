@@ -3,10 +3,16 @@ title: Binarisation du seuil Otsu avec Aspose.Imaging pour Java
 linktitle: Binarisation du seuil Otsu
 second_title: API de traitement d'images Java Aspose.Imaging
 description: Améliorez la qualité de l'image avec Aspose.Imaging pour la binarisation du seuil Otsu de Java. Suivez notre guide étape par étape pour l’excellence du traitement d’image.
-type: docs
 weight: 22
 url: /fr/java/image-processing-and-enhancement/otsu-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binarisation du seuil Otsu avec Aspose.Imaging pour Java
+
 Dans le monde du traitement et de la manipulation d'images, Aspose.Imaging for Java constitue une boîte à outils robuste qui permet aux développeurs de travailler avec différents formats d'image. Parmi ses nombreuses fonctionnalités, la binarisation à seuil Otsu est une technique cruciale pour l’amélioration et l’analyse des images. Dans ce didacticiel, nous vous guiderons pas à pas tout au long du processus d'utilisation d'Aspose.Imaging pour Java pour effectuer la binarisation du seuil Otsu sur une image.
 
 ## Conditions préalables
@@ -105,3 +111,9 @@ A1 : La binarisation du seuil Otsu est une technique de traitement d'image qui d
 ### Q5 : Puis-je utiliser Aspose.Imaging pour Java dans mes projets commerciaux ?
 
 A5 : Oui, Aspose.Imaging pour Java convient aux projets personnels et commerciaux. Vous pouvez explorer les options de licence pour répondre à vos besoins spécifiques.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

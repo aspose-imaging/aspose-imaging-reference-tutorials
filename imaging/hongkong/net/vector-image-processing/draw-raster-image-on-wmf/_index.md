@@ -3,10 +3,16 @@ title: 在 Aspose.Imaging for .NET 中的 WMF 上繪製光柵影像
 linktitle: 在 Aspose.Imaging for .NET 中的 WMF 上繪製光柵影像
 second_title: Aspose.Imaging .NET 映像處理 API
 description: 了解如何使用 Aspose.Imaging 在 .NET 中的 WMF 文件上繪製光柵圖像。使用創意影像疊加增強您的 .NET 專案。
-type: docs
 weight: 12
 url: /zh-hant/net/vector-image-processing/draw-raster-image-on-wmf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 在 Aspose.Imaging for .NET 中的 WMF 上繪製光柵影像
+
 
 在 .NET 開發領域，Aspose.Imaging 是一種多功能工具，使開發人員能夠操作和處理各種格式的映像。在其眾多功能中，Aspose.Imaging 提供了在 Windows 圖元檔案 (WMF) 文件上繪製光柵影像的功能。當您需要將圖像疊加到基於向量的文件上時，此功能非常有價值，從而打開一個充滿創意可能性的世界。
 
@@ -116,3 +122,10 @@ using (WmfImage resultImage = graphics.EndRecording())
 
 
 現在，您已經掌握了使用 Aspose.Imaging for .NET 將影像繪製無縫整合到 .NET 應用程式中的知識。這種創意能力打開了通往透過影像疊加增強項目的可能性世界的大門。如果您有任何疑問或需要進一步協助，請隨時聯絡 Aspose.Imaging 社群的支援論壇。快樂編碼！
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

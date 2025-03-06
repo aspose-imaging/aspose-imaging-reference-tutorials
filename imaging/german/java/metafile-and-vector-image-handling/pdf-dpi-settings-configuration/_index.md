@@ -3,10 +3,16 @@ title: Konvertieren Sie Bilder mit Aspose.Imaging für Java in PDF
 linktitle: Konfiguration der PDF-DPI-Einstellungen
 second_title: Aspose.Imaging Java-Bildverarbeitungs-API
 description: Erfahren Sie, wie Sie mit Aspose.Imaging für Java Bilder in PDF konvertieren. Schritt-für-Schritt-Anleitung zur effizienten Bildbearbeitung.
-type: docs
 weight: 13
 url: /de/java/metafile-and-vector-image-handling/pdf-dpi-settings-configuration/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Konvertieren Sie Bilder mit Aspose.Imaging für Java in PDF
+
 Im heutigen digitalen Zeitalter ist die Fähigkeit, Bilder zu manipulieren und zu konvertieren, eine wertvolle Fähigkeit. Ob Sie an einem Grafikdesign-Projekt arbeiten, Dokumente archivieren oder einfach Bilder in ein besser zugängliches Format konvertieren müssen, Aspose.Imaging für Java ist eine leistungsstarke Lösung. In dieser Schritt-für-Schritt-Anleitung erfahren Sie, wie Sie mit Aspose.Imaging für Java Bilder in PDF konvertieren.
 
 ## Voraussetzungen
@@ -94,3 +100,9 @@ A4: Aspose.Imaging für Java unterstützt eine Vielzahl von Bildformaten, darunt
 ### F5: Kann ich die PDF-Einstellungen beim Konvertieren von Bildern weiter anpassen?
 
 A5: Auf jeden Fall! Sie können die PDF-Optionen an Ihre Bedürfnisse anpassen, z. B. die Komprimierung anpassen, Metadaten festlegen und mehr. Detaillierte Optionen finden Sie in der Dokumentation.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: การกรองรูปภาพ DICOM ด้วย Aspose.Imaging
 linktitle: แอปพลิเคชันตัวกรองรูปภาพ DICOM
 second_title: Aspose.Imaging Java Image Processing API
 description: เรียนรู้วิธีใช้ตัวกรองกับอิมเมจ DICOM โดยใช้ Aspose.Imaging สำหรับ Java ยกระดับการถ่ายภาพทางการแพทย์ได้อย่างง่ายดาย
-type: docs
 weight: 26
 url: /th/java/image-processing-and-enhancement/dicom-image-filter-application/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# การกรองรูปภาพ DICOM ด้วย Aspose.Imaging สำหรับ Java
+
 ในขณะที่สาขาการถ่ายภาพทางการแพทย์มีความก้าวหน้า ความสามารถในการประมวลผลภาพ DICOM (การถ่ายภาพดิจิทัลและการสื่อสารในทางการแพทย์) จึงมีความสำคัญมากขึ้น รูปภาพ DICOM เต็มไปด้วยข้อมูลทางการแพทย์ แต่บางครั้งจำเป็นต้องมีการปรับปรุงและตัวกรองเพื่อปรับปรุงคุณภาพหรือดึงคุณสมบัติเฉพาะออกมา ในคู่มือที่ครอบคลุมนี้ เราจะแนะนำคุณตลอดขั้นตอนการใช้ตัวกรองกับอิมเมจ DICOM โดยใช้ Aspose.Imaging สำหรับ Java ไลบรารีอันทรงพลังนี้มีคุณสมบัติที่หลากหลายสำหรับการประมวลผลและการจัดการภาพ ทำให้เป็นเครื่องมืออันล้ำค่าสำหรับผู้เชี่ยวชาญด้านสุขภาพ นักวิจัย และนักพัฒนา
 
 ## ข้อกำหนดเบื้องต้น
@@ -109,3 +115,9 @@ image.save(outputFile, new BmpOptions());
 ### คำถามที่ 5: ฉันจะรับการสนับสนุนสำหรับ Aspose.Imaging สำหรับ Java ได้ที่ไหน
 
  A5: คุณสามารถเยี่ยมชมฟอรัมชุมชน Aspose.Imaging ได้[ที่นี่](https://forum.aspose.com/) เพื่อถามคำถาม ขอความช่วยเหลือ และมีส่วนร่วมกับชุมชน
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

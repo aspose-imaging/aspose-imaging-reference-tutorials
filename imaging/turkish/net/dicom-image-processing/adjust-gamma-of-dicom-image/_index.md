@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET ile DICOM Image Gama'yı Ayarlama
 linktitle: Aspose.Imaging for .NET'te DICOM Görüntüsünün Gamasını Ayarlayın
 second_title: Aspose.Imaging .NET Görüntü İşleme API'si
 description: Aspose.Imaging for .NET'i kullanarak DICOM görüntülerinde gammayı nasıl ayarlayacağınızı öğrenin. Basit adımlarla tıbbi görüntü kalitesini artırın.
-type: docs
 weight: 12
 url: /tr/net/dicom-image-processing/adjust-gamma-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET ile DICOM Image Gama'yı Ayarlama
+
 Tıbbi görüntülerle çalışırken, bunların kalitesini ve netliğini artırmak için genellikle hassas ayarlamalar yapılması gerekir. Aspose.Imaging for .NET, DICOM (Tıpta Dijital Görüntüleme ve İletişim) dahil olmak üzere çeşitli görüntü formatlarını değiştirmenize olanak tanıyan güçlü bir kütüphanedir. Bu adım adım kılavuzda, Aspose.Imaging for .NET kullanarak bir DICOM görüntüsünün gammasını ayarlama sürecinde size yol göstereceğiz.
 
 ## Önkoşullar
@@ -98,3 +104,9 @@ Cevap4: Aspose.Imaging for .NET, görüntü kırpma, yeniden boyutlandırma, dö
 ### S5: Aspose.Imaging for .NET için nasıl teknik destek alabilirim?
 
  Cevap5: Teknik yardım ve topluluk desteği için şu adresi ziyaret edebilirsiniz:[Aspose.Görüntüleme forumu](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

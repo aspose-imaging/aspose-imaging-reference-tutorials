@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET を使用した DICOM イメージ ガンマの�
 linktitle: Aspose.Imaging for .NET で DICOM 画像のガンマを調整する
 second_title: Aspose.Imaging .NET 画像処理 API
 description: Aspose.Imaging for .NET を使用して DICOM 画像のガンマを調整する方法を学びます。簡単な手順で医療画像の品質を向上させます。
-type: docs
 weight: 12
 url: /ja/net/dicom-image-processing/adjust-gamma-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET を使用した DICOM イメージ ガンマの調整
+
 医療画像を扱う場合、その品質と鮮明さを向上させるために正確な調整が必要になることがよくあります。 Aspose.Imaging for .NET は、DICOM (Digital Imaging and Communications in Medicine) を含むさまざまな画像形式を操作できる強力なライブラリです。このステップバイステップ ガイドでは、Aspose.Imaging for .NET を使用して DICOM イメージのガンマを調整するプロセスを説明します。
 
 ## 前提条件
@@ -98,3 +104,9 @@ A4: Aspose.Imaging for .NET は、画像のトリミング、サイズ変更、�
 ### Q5: Aspose.Imaging for .NET のテクニカル サポートを受けるにはどうすればよいですか?
 
  A5: 技術サポートとコミュニティ サポートについては、次のサイトにアクセスしてください。[Aspose.Imaging フォーラム](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

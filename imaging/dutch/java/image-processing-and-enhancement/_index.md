@@ -3,10 +3,16 @@ title: Beeldverwerking en -verbetering
 linktitle: Beeldverwerking en -verbetering
 second_title: Aspose.Imaging Java-beeldverwerkings-API
 description: Verbeter afbeeldingen met Aspose.Imaging voor Java met behulp van stapsgewijze zelfstudies. Optimaliseer moeiteloos de documentverwerking en beeldkwaliteit.
-type: docs
 weight: 21
 url: /nl/java/image-processing-and-enhancement/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Beeldverwerking en -verbetering
+
 ## Invoering 
 Beeldverwerking is een cruciaal aspect bij het creëren van moderne digitale inhoud. In dit artikel zullen we ons verdiepen in de wereld van "Tutorials voor beeldverwerking en -verbetering" met behulp van Aspose.Imaging voor Java. Of u nu een grafisch ontwerper, een fotograaf of gewoon iemand bent die zijn beeldverwerkingsvaardigheden wil verbeteren, deze tutorials zullen uw leidraad zijn.
 
@@ -116,3 +122,9 @@ Leer hoe u de helderheid van afbeeldingen kunt aanpassen met Aspose.Imaging voor
 Leer hoe u filters op DICOM-afbeeldingen kunt toepassen met Aspose.Imaging voor Java. Verbeter eenvoudig medische beeldvorming.
 ### [Binarisatie van afbeeldingen](./bradleys-adaptive-threshold-binarization/)
 Leer het binariseren van afbeeldingen met Aspose.Imaging voor Java. Transformeer DICOM-afbeeldingen eenvoudig. Ontdek een stapsgewijze handleiding met codevoorbeelden.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

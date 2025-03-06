@@ -3,10 +3,16 @@ title: Σχεδιάζοντας ορθογώνια στο Aspose.Imaging για 
 linktitle: Σχεδιάστε το ορθογώνιο στο Aspose.Imaging για .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Μάθετε να σχεδιάζετε ορθογώνια στο Aspose.Imaging for .NET - ένα ευέλικτο εργαλείο για χειρισμό εικόνας στις εφαρμογές σας .NET.
-type: docs
 weight: 14
 url: /el/net/basic-drawing/draw-rectangle/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Σχεδιάζοντας ορθογώνια στο Aspose.Imaging για .NET
+
 Η δημιουργία και ο χειρισμός εικόνων σε εφαρμογές .NET μπορεί να είναι μια πολύπλοκη εργασία, αλλά με τη δύναμη του Aspose.Imaging για .NET, γίνεται εξαιρετικά απλή. Σε αυτόν τον οδηγό βήμα προς βήμα, θα σας καθοδηγήσουμε στη διαδικασία σχεδίασης ορθογωνίων χρησιμοποιώντας το Aspose.Imaging για .NET. Θα μάθετε πώς να δημιουργείτε μια εικόνα, να ορίζετε τις ιδιότητές της, να σχεδιάζετε ορθογώνια και να αποθηκεύετε την εργασία σας. Ας βουτήξουμε!
 
 ## Προαπαιτούμενα
@@ -104,3 +110,9 @@ A4: Ναι, το Aspose.Imaging for .NET προσφέρει ένα ευρύ φά
 ### Ε5: Πού μπορώ να βρω περισσότερους πόρους και υποστήριξη για το Aspose.Imaging για .NET;
 
  A5: Μπορείτε να αποκτήσετε πρόσβαση στην τεκμηρίωση[εδώ](https://reference.aspose.com/imaging/net/) και αναζητήστε υποστήριξη στο[Aspose.Φόρουμ απεικόνισης](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

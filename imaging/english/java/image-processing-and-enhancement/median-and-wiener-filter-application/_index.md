@@ -3,10 +3,16 @@ title: Median and Wiener Filter Application
 linktitle: Median and Wiener Filter Application
 second_title: Aspose.Imaging Java Image Processing API
 description: Learn how to enhance image quality with Aspose.Imaging for Java. This step-by-step tutorial covers Median and Wiener filter applications for image denoising.
-type: docs
 weight: 19
 url: /java/image-processing-and-enhancement/median-and-wiener-filter-application/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Median and Wiener Filter Application
+
 In the world of image processing, removing noise and enhancing image quality are crucial tasks. Aspose.Imaging for Java is a powerful library that provides various tools and filters for working with images. In this tutorial, we will walk you through the process of using the library to apply Median and Wiener filters to clean and denoise an image. This step-by-step guide will help you achieve professional-grade image enhancement.
 
 ## Prerequisites
@@ -97,3 +103,10 @@ A4: In addition to the Median filter, image enhancement techniques include Wiene
 ### Q5: Can I use Aspose.Imaging for Java in my web application?
 
 A5: Yes, you can integrate Aspose.Imaging for Java into your web applications for server-side image processing.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

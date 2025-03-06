@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET ile DICOM Görüntü Kontrast Ayarı
 linktitle: Aspose.Imaging for .NET'te DICOM Görüntüsünün Kontrastını Ayarlayın
 second_title: Aspose.Imaging .NET Görüntü İşleme API'si
 description: Aspose.Imaging for .NET ile tıbbi görüntüleri geliştirin. DICOM görüntü kontrastını kolay adımlarla ayarlayın.
-type: docs
 weight: 11
 url: /tr/net/dicom-image-processing/adjust-contrast-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET ile DICOM Görüntü Kontrast Ayarı
+
 Tıbbi görüntüleme dünyasında görüntü kalitesi üzerinde hassas kontrol çok önemlidir. Aspose.Imaging for .NET, DICOM görüntülerini kolaylıkla işlemek için güçlü bir çözüm sunar. Bu adım adım eğitimde, Aspose.Imaging for .NET kullanarak bir DICOM görüntüsünün kontrastını ayarlama sürecinde size yol göstereceğiz. Bu eğitim, teşhis veya araştırma amacıyla tıbbi görüntülerin görünürlüğünü artırmak isteyenler için tasarlanmıştır. 
 
 ## Önkoşullar
@@ -112,3 +118,9 @@ Cevap4: Evet, Aspose.Imaging for .NET, yeniden boyutlandırma, kırpma ve filtre
 ### S5: Aspose.Imaging for .NET'i tıbbi olmayan görüntü işleme için kullanabilir miyim?
 
 A5: Kesinlikle! Aspose.Imaging tıbbi görüntü işleme için çok yönlü olsa da genel görüntü işleme görevleri için de kullanılabilir.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

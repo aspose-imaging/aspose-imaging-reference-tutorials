@@ -3,10 +3,16 @@ title: DICOM Image Dithering Made Easy with Aspose.Imaging for .NET
 linktitle: Dithering for DICOM Image in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to perform threshold dithering on DICOM images with Aspose.Imaging for .NET. Enhance image quality and reduce color palettes effortlessly.
-type: docs
 weight: 22
 url: /net/dicom-image-processing/dithering-for-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# DICOM Image Dithering Made Easy with Aspose.Imaging for .NET
+
 Dithering is a fundamental image processing technique used to reduce the number of colors in an image while preserving visual quality. In this step-by-step guide, we will explore how to perform dithering on a DICOM image using Aspose.Imaging for .NET. This powerful library provides a wide range of features for image manipulation and processing, making it an excellent choice for developers working with medical images. 
 
 ## Prerequisites
@@ -92,3 +98,10 @@ A4: Some alternatives to Aspose.Imaging for .NET include ImageMagick, OpenCV, an
 ### Q5: How can I get support for Aspose.Imaging for .NET?
 
 A5: You can find help and support on the [Aspose.Imaging forums](https://forum.aspose.com/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

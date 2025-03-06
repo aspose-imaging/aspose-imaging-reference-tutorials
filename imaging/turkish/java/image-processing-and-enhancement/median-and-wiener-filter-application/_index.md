@@ -3,10 +3,16 @@ title: Medyan ve Wiener Filtre Uygulaması
 linktitle: Medyan ve Wiener Filtre Uygulaması
 second_title: Aspose.Imaging Java Görüntü İşleme API'si
 description: Aspose.Imaging for Java ile görüntü kalitesini nasıl artıracağınızı öğrenin. Bu adım adım eğitim, görüntü kirliliğini gidermeye yönelik Medyan ve Wiener filtre uygulamalarını kapsar.
-type: docs
 weight: 19
 url: /tr/java/image-processing-and-enhancement/median-and-wiener-filter-application/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Medyan ve Wiener Filtre Uygulaması
+
 Görüntü işleme dünyasında gürültüyü gidermek ve görüntü kalitesini artırmak çok önemli görevlerdir. Aspose.Imaging for Java, görüntülerle çalışmak için çeşitli araçlar ve filtreler sağlayan güçlü bir kütüphanedir. Bu eğitimde, bir görüntüyü temizlemek ve gürültüyü gidermek amacıyla Medyan ve Wiener filtrelerini uygulamak için kitaplığı kullanma sürecinde size yol göstereceğiz. Bu adım adım kılavuz, profesyonel düzeyde görüntü iyileştirme elde etmenize yardımcı olacaktır.
 
 ## Önkoşullar
@@ -97,3 +103,9 @@ Cevap4: Medyan filtresine ek olarak, görüntü iyileştirme teknikleri Wiener f
 ### S5: Aspose.Imaging for Java'yı web uygulamamda kullanabilir miyim?
 
 Cevap5: Evet, Aspose.Imaging for Java'yı sunucu tarafı görüntü işleme için web uygulamalarınıza entegre edebilirsiniz.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

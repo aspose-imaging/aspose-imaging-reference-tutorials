@@ -3,10 +3,16 @@ title: Binarisering med fast tröskel på DICOM-bild i Aspose.Imaging för .NET
 linktitle: Binarisering med fast tröskel på DICOM-bild i Aspose.Imaging för .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Lär dig hur du utför binarisering på en DICOM-bild med Aspose.Imaging för .NET. Steg-för-steg guide med kodexempel.
-type: docs
 weight: 15
 url: /sv/net/dicom-image-processing/binarization-with-fixed-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binarisering med fast tröskel på DICOM-bild i Aspose.Imaging för .NET
+
 Är du redo att dyka in i en värld av digital bildbehandling med Aspose.Imaging för .NET? I denna steg-för-steg handledning kommer vi att utforska hur man utför binarisering med en fast tröskel på en DICOM-bild. Binarisering är en grundläggande bildbehandlingsteknik som omvandlar en gråskalebild till en binär bild, vilket gör den till ett viktigt verktyg för olika applikationer, från medicinsk bildbehandling till dokumentanalys.
 
 ## Förutsättningar
@@ -106,3 +112,10 @@ Absolut! Även om Aspose.Imaging ofta används inom det medicinska området, är
 ### F5: Finns det en testversion av Aspose.Imaging för .NET tillgänglig?
 
  Ja, du kan prova Aspose.Imaging för .NET genom att ladda ner testversionen från[här](https://releases.aspose.com/). Det låter dig utforska dess funktioner och funktioner innan du gör ett köp.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

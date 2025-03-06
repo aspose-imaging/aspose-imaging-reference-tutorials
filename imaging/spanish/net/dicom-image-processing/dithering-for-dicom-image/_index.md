@@ -3,10 +3,16 @@ title: Difuminado de imágenes DICOM simplificado con Aspose.Imaging para .NET
 linktitle: Tramado para imagen DICOM en Aspose.Imaging para .NET
 second_title: API de procesamiento de imágenes Aspose.Imaging .NET
 description: Aprenda a realizar interpolación de umbral en imágenes DICOM con Aspose.Imaging para .NET. Mejore la calidad de la imagen y reduzca las paletas de colores sin esfuerzo.
-type: docs
 weight: 22
 url: /es/net/dicom-image-processing/dithering-for-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Difuminado de imágenes DICOM simplificado con Aspose.Imaging para .NET
+
 El tramado es una técnica fundamental de procesamiento de imágenes que se utiliza para reducir la cantidad de colores en una imagen y al mismo tiempo preservar la calidad visual. En esta guía paso a paso, exploraremos cómo realizar tramado en una imagen DICOM usando Aspose.Imaging para .NET. Esta potente biblioteca proporciona una amplia gama de funciones para la manipulación y el procesamiento de imágenes, lo que la convierte en una excelente opción para los desarrolladores que trabajan con imágenes médicas. 
 
 ## Requisitos previos
@@ -92,3 +98,9 @@ R4: Algunas alternativas a Aspose.Imaging para .NET incluyen ImageMagick, OpenCV
 ### P5: ¿Cómo puedo obtener soporte para Aspose.Imaging para .NET?
 
  R5: Puede encontrar ayuda y soporte en el[Aspose.Foros de imágenes](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

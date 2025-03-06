@@ -3,10 +3,16 @@ title: Draw Raster Image on WMF in Aspose.Imaging for .NET
 linktitle: Draw Raster Image on WMF in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to draw raster images on WMF documents in .NET using Aspose.Imaging. Enhance your .NET projects with creative image overlays.
-type: docs
 weight: 12
 url: /net/vector-image-processing/draw-raster-image-on-wmf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Draw Raster Image on WMF in Aspose.Imaging for .NET
+
 
 In the realm of .NET development, Aspose.Imaging stands as a versatile tool that empowers developers to manipulate and work with images in various formats. Among its many capabilities, Aspose.Imaging offers the feature of drawing raster images on Windows Metafile (WMF) documents. This functionality is extremely valuable when you need to overlay images onto vector-based documents, opening up a world of creative possibilities.
 
@@ -117,3 +123,10 @@ Remember to obtain the Aspose.Imaging for .NET library from the   website, and e
 
 Now, you have the knowledge to seamlessly integrate image drawing into your .NET applications using Aspose.Imaging for .NET. This creative capability opens the door to a world of possibilities for enhancing your projects with image overlays. If you have any questions or need further assistance, don't hesitate to reach out to the Aspose.Imaging community on their support forum. Happy coding!
 
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

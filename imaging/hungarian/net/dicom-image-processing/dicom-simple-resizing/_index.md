@@ -3,10 +3,16 @@ title: A DICOM-képek átméretezése az Aspose.Imaging for .NET segítségével
 linktitle: DICOM egyszerű átméretezés az Aspose.Imaging for .NET-ben
 second_title: Aspose.Imaging .NET Image Processing API
 description: Ismerje meg, hogyan méretezheti át a DICOM-képeket az Aspose.Imaging for .NET segítségével, amely egy hatékony eszköz az orvosi képfeldolgozáshoz. Egyszerű lépések a pontos eredményért.
-type: docs
 weight: 19
 url: /hu/net/dicom-image-processing/dicom-simple-resizing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# A DICOM-képek átméretezése az Aspose.Imaging for .NET segítségével
+
 Az orvosi képalkotás folyamatosan fejlődő területén a DICOM (Digital Imaging and Communications in Medicine) fájlok kezelésének rugalmasságára és pontosságára van szükség. Az Aspose.Imaging for .NET hatékony megoldásként jelenik meg, átfogó eszközkészletet kínálva az orvosi képekkel való munkavégzéshez. Ebben az oktatóanyagban megvizsgáljuk a DICOM-képek átméretezésének egyszerű folyamatát az Aspose.Imaging for .NET használatával. 
 
 ## Előfeltételek
@@ -114,3 +120,9 @@ A1: A DICOM a Digital Imaging and Communications in Medicine rövidítése. Ez e
 ### 5. kérdés: Hol találok további Aspose.Imaging for .NET oktatóanyagokat?
 
  A5: Felfedezheti a[Aspose.Imaging .NET dokumentációhoz](https://reference.aspose.com/imaging/net/) oktatóanyagok és példák széles skálájához.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

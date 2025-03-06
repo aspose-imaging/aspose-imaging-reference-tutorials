@@ -3,10 +3,16 @@ title: تحويل الصور النقطية إلى TIFF في Java باستخدا
 linktitle: تحويل الصور النقطية إلى TIFF
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: تعرف على كيفية تحويل الصور النقطية إلى تنسيق TIFF في Java باستخدام Aspose.Imaging for Java. دليل شامل لمعالجة الصور.
-type: docs
 weight: 20
 url: /ar/java/image-conversion-and-optimization/raster-image-tiff-conversion/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# تحويل الصور النقطية إلى TIFF في Java باستخدام Aspose.Imaging
+
 إذا كنت تتطلع إلى معالجة الصور النقطية وتحويلها في تطبيق Java الخاص بك، فإن Aspose.Imaging for Java هي الأداة المثالية. سيرشدك هذا البرنامج التعليمي خطوة بخطوة خلال عملية تحويل صورة نقطية إلى تنسيق TIFF باستخدام Aspose.Imaging for Java. قبل أن نتعمق في التفاصيل، دعنا نلقي نظرة على ما تحتاجه للبدء.
 
 ## المتطلبات الأساسية
@@ -113,3 +119,9 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "SampleTiff1.tiff"))
 ### س5: أين يمكنني الحصول على الدعم أو طرح الأسئلة حول Aspose.Imaging for Java؟
 
  ج5: يمكنك الانضمام إلى مجتمع Aspose.Imaging والحصول على الدعم من خلال[Aspose.منتدى التصوير](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

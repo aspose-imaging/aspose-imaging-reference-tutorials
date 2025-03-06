@@ -3,10 +3,16 @@ title: Textové a měřicí kurzy s Aspose.Imaging .NET
 linktitle: Text a míry
 second_title: Aspose.Imaging .NET Image Processing API
 description: Naučte se měřit text v obrázcích pomocí Aspose.Imaging for .NET, výkonného a přesného nástroje. Prozkoumejte výukové programy, abyste zvládli techniky měření textu.
-type: docs
 weight: 26
 url: /cs/net/text-and-measurements/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Textové a měřicí kurzy s Aspose.Imaging .NET
+
 
 Zaujala vás myšlenka přesného měření textu v obrázcích? Tak to jste na správném místě! V tomto článku se ponoříme do světa měření textu pomocí Aspose.Imaging pro .NET. Prozkoumáme tuto výkonnou knihovnu .NET, která nabízí přesné a efektivní možnosti měření textu. Až dočtete, budete na dobré cestě stát se expertem na měření textu.
 
@@ -28,3 +34,9 @@ Tento článek byl vaším průvodcem, jak zvládnout měření textu pomocí As
 ## Výukové programy pro texty a měření
 ### [Měření textu v Aspose.Imaging pro .NET](./measure-text/)
 Změřte text v obrázcích pomocí Aspose.Imaging pro .NET. Výkonná knihovna .NET. Přesné a efektivní měření textu.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

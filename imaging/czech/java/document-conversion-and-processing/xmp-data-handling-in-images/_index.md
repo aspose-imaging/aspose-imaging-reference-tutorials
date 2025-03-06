@@ -3,10 +3,16 @@ title: Zpracování dat XMP v obrázcích pomocí Aspose.Imaging pro Java
 linktitle: Zpracování dat XMP v obrázcích
 second_title: Aspose.Imaging Java Image Processing API
 description: Naučte se zacházet s metadaty XMP v obrázcích pomocí Aspose.Imaging for Java. Vkládáním a načítáním metadat můžete vylepšit své soubory obrázků.
-type: docs
 weight: 16
 url: /cs/java/document-conversion-and-processing/xmp-data-handling-in-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Zpracování dat XMP v obrázcích pomocí Aspose.Imaging pro Java
+
 Aspose.Imaging for Java je všestranná a výkonná knihovna pro práci s obrázky v různých formátech. Tento tutoriál vás provede procesem zpracování dat XMP (Extensible Metadata Platform) v obrázcích pomocí Aspose.Imaging for Java. XMP je standard pro vkládání metadat do obrazových souborů, což vám umožňuje ukládat cenné informace, jako je autor, popis a další.
 
 ## Předpoklady
@@ -228,3 +234,9 @@ try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(),
 }
         
 ```
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

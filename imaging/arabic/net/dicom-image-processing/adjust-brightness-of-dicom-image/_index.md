@@ -3,10 +3,16 @@ title: اضبط سطوع صورة DICOM باستخدام Aspose.Imaging لـ .NE
 linktitle: اضبط سطوع صورة DICOM في Aspose.Imaging لـ .NET
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: تعرف على كيفية ضبط سطوع صورة DICOM في Aspose.Imaging لـ .NET. تعزيز الصور الطبية بسهولة.
-type: docs
 weight: 10
 url: /ar/net/dicom-image-processing/adjust-brightness-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# اضبط سطوع صورة DICOM باستخدام Aspose.Imaging لـ .NET
+
 في عالم التصوير الطبي، يعد التعامل مع ملفات DICOM (التصوير الرقمي والاتصالات في الطب) أمرًا في غاية الأهمية. تحتوي هذه الملفات على بيانات طبية حيوية، وفي بعض الأحيان، يكون من الضروري إجراء تعديلات على الصور الموجودة بداخلها، مثل تغيير سطوعها. في هذا الدليل التفصيلي، سنوضح لك كيفية ضبط سطوع صورة DICOM باستخدام Aspose.Imaging for .NET.
 
 ## المتطلبات الأساسية
@@ -95,3 +101,9 @@ image.Save(dataDir + "AdjustBrightnessDICOM_out.bmp", new BmpOptions());
 ### س5: ما هي ميزات معالجة الصور الأخرى التي يقدمها Aspose.Imaging؟
 
 ج5: يوفر Aspose.Imaging نطاقًا واسعًا من الميزات لمعالجة الصور، بما في ذلك تغيير الحجم والاقتصاص والتدوير وخيارات التصفية المتنوعة، مما يجعله حلاً شاملاً للعمل مع الصور الطبية.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

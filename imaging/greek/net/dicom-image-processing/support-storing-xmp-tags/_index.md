@@ -3,10 +3,16 @@ title: Υποστήριξη αποθήκευσης ετικετών XMP στο A
 linktitle: Υποστήριξη αποθήκευσης ετικετών XMP στο Aspose.Imaging για .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Μάθετε πώς να προσθέτετε μεταδεδομένα XMP σε εικόνες DICOM χρησιμοποιώντας το Aspose.Imaging για .NET. Βελτιστοποιήστε τη διαχείριση και την οργάνωση εικόνας με αυτόν τον οδηγό βήμα προς βήμα.
-type: docs
 weight: 25
 url: /el/net/dicom-image-processing/support-storing-xmp-tags/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Υποστήριξη αποθήκευσης ετικετών XMP στο Aspose.Imaging για .NET
+
 Το Aspose.Imaging for .NET είναι μια ισχυρή βιβλιοθήκη που σας επιτρέπει να εργάζεστε με διάφορες μορφές εικόνας στο περιβάλλον .NET. Σε αυτό το σεμινάριο, θα διερευνήσουμε πώς να υποστηρίξουμε την αποθήκευση ετικετών XMP (Extensible Metadata Platform) στο Aspose.Imaging για .NET. Οι ετικέτες XMP είναι απαραίτητες για την προσθήκη πληροφοριών μεταδεδομένων σε εικόνες, διευκολύνοντας την οργάνωση και τη διαχείριση των ψηφιακών σας στοιχείων. Θα αναλύσουμε τη διαδικασία σε πολλά βήματα για να σας βοηθήσουμε να κατανοήσετε πώς να το πετύχετε.
 
 ## Προαπαιτούμενα
@@ -114,3 +120,10 @@ A2: Ναι, μπορείτε να επεξεργαστείτε τα υπάρχο
 ### Ε5: Πώς μπορώ να αποκτήσω μια προσωρινή άδεια για το Aspose.Imaging για .NET;
 
  A5: Μπορείτε να λάβετε μια προσωρινή άδεια χρήσης για το Aspose.Imaging για .NET μεταβαίνοντας στη διεύθυνση[αυτός ο σύνδεσμος](https://purchase.aspose.com/temporary-license/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

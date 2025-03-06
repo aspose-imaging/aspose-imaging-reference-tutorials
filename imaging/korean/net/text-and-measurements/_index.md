@@ -3,10 +3,16 @@ title: Aspose.Imaging .NET을 사용한 텍스트 및 측정 튜토리얼
 linktitle: 텍스트 및 측정
 second_title: Aspose.Imaging .NET 이미지 처리 API
 description: 강력하고 정확한 도구인 Aspose.Imaging for .NET을 사용하여 이미지의 텍스트를 측정하는 방법을 알아보세요. 텍스트 측정 기술을 익히려면 튜토리얼을 살펴보세요.
-type: docs
 weight: 26
 url: /ko/net/text-and-measurements/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging .NET을 사용한 텍스트 및 측정 튜토리얼
+
 
 이미지 내의 텍스트를 정확하게 측정하는 아이디어에 흥미가 있으신가요? 글쎄, 당신은 바로 이곳에 있어요! 이 기사에서는 .NET용 Aspose.Imaging을 사용하여 텍스트 측정의 세계를 탐구하겠습니다. 정확하고 효율적인 텍스트 측정 기능을 제공하는 이 강력한 .NET 라이브러리를 살펴보겠습니다. 이 책을 다 읽을 때쯤이면 텍스트 측정 전문가가 되는 길에 들어서게 될 것입니다.
 
@@ -28,3 +34,9 @@ url: /ko/net/text-and-measurements/
 ## 텍스트 및 측정 튜토리얼
 ### [.NET용 Aspose.Imaging에서 텍스트 측정](./measure-text/)
 .NET용 Aspose.Imaging을 사용하여 이미지의 텍스트를 측정합니다. 강력한 .NET 라이브러리. 정확하고 효율적인 텍스트 측정.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

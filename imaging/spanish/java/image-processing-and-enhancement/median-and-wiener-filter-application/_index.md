@@ -3,10 +3,16 @@ title: Aplicación de filtro mediano y salchicha
 linktitle: Aplicación de filtro mediano y salchicha
 second_title: Aspose.Imaging API de procesamiento de imágenes Java
 description: Aprenda cómo mejorar la calidad de la imagen con Aspose.Imaging para Java. Este tutorial paso a paso cubre las aplicaciones de filtro Mediana y Wiener para eliminar ruido de imágenes.
-type: docs
 weight: 19
 url: /es/java/image-processing-and-enhancement/median-and-wiener-filter-application/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aplicación de filtro mediano y salchicha
+
 En el mundo del procesamiento de imágenes, eliminar el ruido y mejorar la calidad de la imagen son tareas cruciales. Aspose.Imaging para Java es una poderosa biblioteca que proporciona varias herramientas y filtros para trabajar con imágenes. En este tutorial, lo guiaremos a través del proceso de uso de la biblioteca para aplicar filtros Mediana y Wiener para limpiar y eliminar ruido de una imagen. Esta guía paso a paso le ayudará a lograr una mejora de imagen de nivel profesional.
 
 ## Requisitos previos
@@ -97,3 +103,9 @@ R4: Además del filtro Mediana, las técnicas de mejora de imágenes incluyen el
 ### P5: ¿Puedo utilizar Aspose.Imaging para Java en mi aplicación web?
 
 R5: Sí, puede integrar Aspose.Imaging para Java en sus aplicaciones web para el procesamiento de imágenes del lado del servidor.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: تحويل CDR إلى PDF باستخدام Aspose.Imaging لـ .NET
 linktitle: تحويل CDR إلى PDF في Aspose.Imaging لـ .NET
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: تعرف على كيفية تحويل CDR إلى PDF في Aspose.Imaging لـ .NET. دليل خطوة بخطوة للتحويلات السلسة.
-type: docs
 weight: 10
 url: /ar/net/image-format-conversion/convert-cdr-to-pdf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# تحويل CDR إلى PDF باستخدام Aspose.Imaging لـ .NET
+
 في عالم التصميم الجرافيكي ومعالجة المستندات، تعد الحاجة إلى تحويل ملفات CorelDRAW (CDR) إلى تنسيق PDF أمرًا شائعًا. يقدم Aspose.Imaging for .NET حلاً قويًا لتحقيق هذا التحويل بسلاسة. سنرشدك في هذا البرنامج التعليمي خلال عملية تحويل ملفات CDR إلى PDF باستخدام Aspose.Imaging for .NET. سنقوم بتفصيل كل خطوة، ونقدم تفسيرات واضحة وأمثلة على التعليمات البرمجية لتسهيل متابعة العملية.
 
 ## المتطلبات الأساسية
@@ -118,3 +124,9 @@ A1: Aspose.Imaging for .NET عبارة عن مكتبة .NET للعمل مع تن
 ### س5: أين يمكنني العثور على وثائق ودعم إضافيين؟
 
  ج5: يمكنك العثور على وثائق شاملة[هنا](https://reference.aspose.com/imaging/net/) وللحصول على الدعم يمكنك زيارة[اطرح المنتديات](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

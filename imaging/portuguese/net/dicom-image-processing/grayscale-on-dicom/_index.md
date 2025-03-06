@@ -3,10 +3,16 @@ title: Imagens DICOM em escala de cinza com Aspose.Imaging para .NET
 linktitle: Tons de cinza no DICOM no Aspose.Imaging for .NET
 second_title: API de processamento de imagem Aspose.Imaging .NET
 description: Aprenda como realizar escala de cinza em imagens DICOM com Aspose.Imaging for .NET, uma poderosa biblioteca de processamento de imagens.
-type: docs
 weight: 24
 url: /pt/net/dicom-image-processing/grayscale-on-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Imagens DICOM em escala de cinza com Aspose.Imaging para .NET
+
 Se você estiver trabalhando com dados de imagens médicas no formato DICOM e precisar realizar transformações em escala de cinza, o Aspose.Imaging for .NET oferece uma solução poderosa. Neste tutorial passo a passo, orientaremos você no processo de escala de cinza de uma imagem DICOM usando Aspose.Imaging. Esta biblioteca é uma ferramenta versátil que permite trabalhar com diversos formatos de imagem, inclusive DICOM, em ambiente .NET. Vamos começar!
 
 ## Pré-requisitos
@@ -85,3 +91,9 @@ A2: Sim, Aspose.Imaging é uma biblioteca versátil que pode lidar com uma ampla
 ### P5: Como posso obter suporte para Aspose.Imaging?
 
  A5: Se você tiver alguma dúvida ou precisar de ajuda, você pode visitar o[Fórum Aspose.Imaging](https://forum.aspose.com/) para buscar ajuda da comunidade ou entrar em contato com sua equipe de suporte.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

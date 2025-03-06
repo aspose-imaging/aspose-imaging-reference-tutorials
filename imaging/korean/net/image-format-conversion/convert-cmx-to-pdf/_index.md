@@ -3,10 +3,16 @@ title: .NET용 Aspose.Imaging을 사용하여 CMX를 PDF로 변환
 linktitle: .NET용 Aspose.Imaging에서 CMX를 PDF로 변환
 second_title: Aspose.Imaging .NET 이미지 처리 API
 description: .NET용 Aspose.Imaging을 사용하여 CMX를 PDF로 변환하는 방법을 알아보세요. 효율적인 문서 변환을 위한 간단한 단계.
-type: docs
 weight: 13
 url: /ko/net/image-format-conversion/convert-cmx-to-pdf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET용 Aspose.Imaging을 사용하여 CMX를 PDF로 변환
+
 문서 처리 및 이미지 조작 분야에서 Aspose.Imaging for .NET은 강력하고 다재다능한 도구입니다. 이미지 변환 및 조작을 위한 다양한 기능을 제공합니다. 이 단계별 가이드에서는 Aspose.Imaging for .NET을 사용하여 CMX 파일을 PDF로 변환하는 과정을 안내합니다.
 
 ## 전제 조건
@@ -111,3 +117,9 @@ A4: .NET용 Aspose.Imaging은 BMP, JPEG, PNG, TIFF 등 다양한 이미지 형�
 ### Q5: .NET용 Aspose.Imaging에 대한 지원 커뮤니티가 있습니까?
 
 A5: 예, Aspose.Imaging for .NET에서 지원을 찾고 커뮤니티와 상호 작용할 수 있습니다.[법정](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

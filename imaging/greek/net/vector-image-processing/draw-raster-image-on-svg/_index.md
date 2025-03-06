@@ -3,10 +3,16 @@ title: Πώς να σχεδιάσετε μια εικόνα ράστερ σε SV
 linktitle: Σχεδιάστε εικόνα ράστερ σε SVG στο Aspose.Imaging για .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Μάθετε πώς να σχεδιάζετε εικόνες ράστερ σε SVG χρησιμοποιώντας το Aspose.Imaging για .NET. Βελτιώστε τις εφαρμογές σας .NET με δυναμικές εικόνες.
-type: docs
 weight: 11
 url: /el/net/vector-image-processing/draw-raster-image-on-svg/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Πώς να σχεδιάσετε μια εικόνα ράστερ σε SVG στο Aspose.Imaging για .NET
+
 
 Στον κόσμο του προγραμματισμού .NET, το Aspose.Imaging αποτελεί μια αξιόπιστη και ευέλικτη βιβλιοθήκη για το χειρισμό διαφόρων εργασιών που σχετίζονται με εικόνες. Μια συναρπαστική δυνατότητα που προσφέρει είναι η δυνατότητα σχεδίασης μιας εικόνας ράστερ σε έναν καμβά SVG. Σε αυτόν τον οδηγό βήμα προς βήμα, θα σας καθοδηγήσουμε στη διαδικασία σχεδίασης μιας εικόνας ράστερ σε ένα SVG χρησιμοποιώντας το Aspose.Imaging για .NET.
 
@@ -100,3 +106,10 @@ using (SvgImage resultImage = graphics.EndRecording())
     Μπορείτε να πάρετε μια προσωρινή άδεια από[εδώ](https://purchase.aspose.com/temporary-license/).
 
 
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET の DICOM 画像の固定しきい値による 2 
 linktitle: Aspose.Imaging for .NET の DICOM 画像の固定しきい値による 2 値化
 second_title: Aspose.Imaging .NET 画像処理 API
 description: Aspose.Imaging for .NET を使用して DICOM 画像の 2 値化を実行する方法を学習します。コード例を含むステップバイステップのガイド。
-type: docs
 weight: 15
 url: /ja/net/dicom-image-processing/binarization-with-fixed-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET の DICOM 画像の固定しきい値による 2 値化
+
 Aspose.Imaging for .NET を使用したデジタル画像処理の世界に飛び込む準備はできていますか?このステップバイステップのチュートリアルでは、DICOM 画像に対して固定しきい値を使用して 2 値化を実行する方法を検討します。 2 値化は、グレースケール画像を 2 値画像に変換する基本的な画像処理技術であり、医療画像から文書分析まで、さまざまなアプリケーションに不可欠なツールとなっています。
 
 ## 前提条件
@@ -106,3 +112,10 @@ DICOM は、Digital Imaging and Communications in Medicine の略です。これ
 ### Q5: Aspose.Imaging for .NET の試用版は入手できますか?
 
 はい、次から試用版をダウンロードして、Aspose.Imaging for .NET を試すことができます。[ここ](https://releases.aspose.com/)。購入する前にその特徴や機能を調べることができます。
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

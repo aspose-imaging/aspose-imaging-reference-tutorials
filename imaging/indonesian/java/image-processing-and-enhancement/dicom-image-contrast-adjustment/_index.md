@@ -3,10 +3,16 @@ title: Penyesuaian Kontras Gambar DICOM dengan Aspose.Imaging untuk Java
 linktitle: Penyesuaian Kontras Gambar DICOM
 second_title: Aspose.Imaging API Pemrosesan Gambar Java
 description: Pelajari cara menyesuaikan kontras pada gambar DICOM menggunakan Aspose.Imaging untuk Java. Tingkatkan kualitas visual gambar medis dengan mudah.
-type: docs
 weight: 23
 url: /id/java/image-processing-and-enhancement/dicom-image-contrast-adjustment/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Penyesuaian Kontras Gambar DICOM dengan Aspose.Imaging untuk Java
+
 Dalam bidang pencitraan medis yang terus berkembang, kemampuan untuk menyesuaikan kontras gambar sangatlah penting. Dengan kekuatan Aspose.Imaging untuk Java, Anda dapat dengan mudah memanipulasi gambar DICOM (Digital Imaging and Communications in Medicine) untuk meningkatkan kualitas visualnya. Tutorial ini akan memandu Anda melalui proses langkah demi langkah, memastikan Anda mencapai penyesuaian kontras gambar yang tepat dan efektif.
 
 ## Prasyarat
@@ -102,3 +108,9 @@ A3: Ya, Aspose.Imaging for Java menawarkan banyak fungsi manipulasi gambar, sepe
 ### Q5: Di mana saya dapat menemukan sumber daya tambahan dan dukungan untuk Aspose.Imaging untuk Java?
 
  A5: Anda dapat menemukan dokumentasi dan dukungan di[Aspose.Imaging untuk forum Java](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

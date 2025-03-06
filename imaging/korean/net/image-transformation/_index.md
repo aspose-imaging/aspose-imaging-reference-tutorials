@@ -3,10 +3,16 @@ title: Aspose.Imaging .NET으로 이미지 변환의 마법을 풀어보세요
 linktitle: 이미지 변환
 second_title: Aspose.Imaging .NET 이미지 처리 API
 description: .NET용 Aspose.Imaging을 사용하여 이미지 변환 기술을 알아보세요. 의료 애플리케이션 등을 위해 DICOM 이미지를 쉽게 뒤집고 회전하는 방법을 알아보세요.
-type: docs
 weight: 24
 url: /ko/net/image-transformation/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging .NET으로 이미지 변환의 마법을 풀어보세요
+
 
 이미지 변환의 세계를 탐험할 준비가 되셨나요? .NET용 Aspose.Imaging은 의료 애플리케이션 및 그 이상에 맞춰진 DICOM 이미지를 원활하고 효율적으로 조작할 수 있는 문을 열어줍니다. 이 포괄적인 튜토리얼에서는 DICOM 이미지 뒤집기 및 회전이라는 두 가지 필수 이미지 변환 기술을 안내합니다. 
 
@@ -37,3 +43,9 @@ DICOM 이미지 뒤집기는 다양한 의료 영상 요구 사항을 충족하�
 ## 결론
 
 .NET용 Aspose.Imaging을 사용하면 이미지 변환 기술을 마스터할 수 있으므로 의료 전문가와 개발자 모두에게 귀중한 도구가 됩니다. DICOM 이미지를 뒤집거나 회전해야 하는 경우 이 튜토리얼은 이미지 조작의 세계로의 원활한 여행을 제공합니다. 지금 Aspose.Imaging for .NET을 사용하여 의료 애플리케이션과 이미지 처리를 향상시키세요. 지금 이미지 변환의 마법을 풀어보세요!
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

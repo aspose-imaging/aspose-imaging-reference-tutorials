@@ -3,10 +3,16 @@ title: Meistern Sie die Binarisierung mit festem Schwellenwert mit Aspose.Imagin
 linktitle: Binarisierung mit festem Schwellenwert
 second_title: Aspose.Imaging Java-Bildverarbeitungs-API
 description: Erfahren Sie, wie Sie mit Aspose.Imaging für Java eine Binarisierung mit festem Schwellenwert für Bilder durchführen.
-type: docs
 weight: 21
 url: /de/java/image-processing-and-enhancement/fixed-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Meistern Sie die Binarisierung mit festem Schwellenwert mit Aspose.Imaging für Java
+
 ## Einführung
 
 Im Bereich der Java-Programmierung stehen zahlreiche Tools und Bibliotheken zur Verfügung, um verschiedene Bildverarbeitungsaufgaben zu bewältigen. Eine dieser leistungsstarken und vielseitigen Bibliotheken ist Aspose.Imaging für Java. Unabhängig davon, ob Sie ein erfahrener Entwickler sind oder gerade erst mit der Bildbearbeitung beginnen, bietet Aspose.Imaging eine Reihe robuster Funktionen zur Rationalisierung Ihrer Aufgaben. In diesem Tutorial befassen wir uns mit einer der grundlegenden Bildverarbeitungstechniken – der Binarisierung mit festem Schwellenwert – mithilfe von Aspose.Imaging für Java.
@@ -119,3 +125,9 @@ A3: Ja, es gibt alternative Bibliotheken wie Java Advanced Imaging (JAI) und Ima
 ### F5: Kann ich mit Aspose.Imaging für Java andere Bildverarbeitungsaufgaben ausführen?
 
 A5: Auf jeden Fall! Aspose.Imaging für Java bietet eine breite Palette an Bildverarbeitungsfunktionen, einschließlich Größenänderung, Zuschneiden, Filtern und mehr.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

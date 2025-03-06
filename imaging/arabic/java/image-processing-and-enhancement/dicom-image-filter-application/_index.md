@@ -3,10 +3,16 @@ title: تصفية صور DICOM باستخدام Aspose.Imaging لـ Java
 linktitle: تطبيق تصفية الصور DICOM
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: تعرف على كيفية تطبيق المرشحات على صور DICOM باستخدام Aspose.Imaging for Java. تعزيز التصوير الطبي بكل سهولة.
-type: docs
 weight: 26
 url: /ar/java/image-processing-and-enhancement/dicom-image-filter-application/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# تصفية صور DICOM باستخدام Aspose.Imaging لـ Java
+
 مع تقدم مجال التصوير الطبي، أصبحت القدرة على معالجة صور DICOM (التصوير الرقمي والاتصالات في الطب) أمرًا بالغ الأهمية بشكل متزايد. صور DICOM غنية بالمعلومات الطبية، ولكنها تتطلب في بعض الأحيان تحسينات ومرشحات لتحسين جودتها أو استخراج ميزات معينة. في هذا الدليل الشامل، سنرشدك خلال عملية تطبيق المرشحات على صور DICOM باستخدام Aspose.Imaging for Java. توفر هذه المكتبة القوية مجموعة واسعة من الميزات لمعالجة الصور ومعالجتها، مما يجعلها أداة لا تقدر بثمن لمتخصصي الرعاية الصحية والباحثين والمطورين.
 
 ## المتطلبات الأساسية
@@ -109,3 +115,9 @@ A1: Aspose.Imaging for Java عبارة عن مكتبة Java توفر ميزات 
 ### س5: أين يمكنني الحصول على دعم Aspose.Imaging لـ Java؟
 
  ج5: يمكنك زيارة منتدى مجتمع Aspose.Imaging[هنا](https://forum.aspose.com/) لطرح الأسئلة وطلب المساعدة والتفاعل مع المجتمع.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

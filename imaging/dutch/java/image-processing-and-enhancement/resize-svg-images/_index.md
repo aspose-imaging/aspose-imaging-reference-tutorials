@@ -3,10 +3,16 @@ title: Wijzig het formaat van SVG-afbeeldingen met Aspose.Imaging voor Java
 linktitle: Formaat van SVG-afbeeldingen wijzigen
 second_title: Aspose.Imaging Java-beeldverwerkings-API
 description: Leer hoe u het formaat van SVG-afbeeldingen in Java kunt wijzigen met Aspose.Imaging voor Java. Stap-voor-stap handleiding voor efficiënte beeldverwerking.
-type: docs
 weight: 12
 url: /nl/java/image-processing-and-enhancement/resize-svg-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Wijzig het formaat van SVG-afbeeldingen met Aspose.Imaging voor Java
+
 Wilt u het formaat van SVG-afbeeldingen efficiënt en effectief wijzigen met behulp van Java? Aspose.Imaging voor Java biedt een krachtige oplossing om u te helpen dit te bereiken. In deze uitgebreide handleiding leiden we u stap voor stap door het proces, beginnend bij de vereisten, het importeren van pakketten en het opsplitsen van elk voorbeeld in gedetailleerde stappen.
 
 ## Vereisten
@@ -113,3 +119,9 @@ A4: Ja, Aspose.Imaging biedt een breed scala aan functies, waaronder het bijsnij
 ### V5: Kan ik Aspose.Imaging gebruiken in commerciële projecten?
 
 A5: Ja, Aspose.Imaging kan worden gebruikt in commerciële projecten. U kunt licentie-informatie vinden op de Aspose-website.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

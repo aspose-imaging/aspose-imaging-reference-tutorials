@@ -3,10 +3,16 @@ title: Regulacja jasności obrazu za pomocą Aspose.Imaging dla Java
 linktitle: Regulacja jasności obrazu
 second_title: Aspose.Imaging API przetwarzania obrazu Java
 description: Dowiedz się, jak dostosować jasność obrazu za pomocą Aspose.Imaging dla Java. Dzięki temu obszernemu przewodnikowi możesz łatwo ulepszać swoje obrazy.
-type: docs
 weight: 25
 url: /pl/java/image-processing-and-enhancement/image-brightness-adjustment/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Regulacja jasności obrazu za pomocą Aspose.Imaging dla Java
+
 ## Wstęp
 
 stale rozwijającym się świecie cyfrowego przetwarzania obrazu osiągnięcie idealnego poziomu jasności i kontrastu może być trudnym zadaniem. Na szczęście dzięki możliwościom Aspose.Imaging dla Java możesz bez wysiłku dostroić jasność swoich obrazów. Ta wszechstronna biblioteka Java jest dobrodziejstwem dla programistów i firm, które wymagają wydajnych możliwości przetwarzania obrazów. W tym przewodniku krok po kroku zagłębimy się w zawiłości regulacji jasności obrazu za pomocą Aspose.Imaging for Java.
@@ -104,3 +110,9 @@ O3: Aspose.Imaging for Java obsługuje szeroką gamę formatów obrazów, w tym 
 ### P5: Gdzie mogę uzyskać wsparcie lub pomoc dotyczącą Aspose.Imaging for Java?
 
  Odpowiedź 5: Możesz znaleźć pomoc i dołączyć do społeczności na stronie[Forum Aspose.Imaging dla Java](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

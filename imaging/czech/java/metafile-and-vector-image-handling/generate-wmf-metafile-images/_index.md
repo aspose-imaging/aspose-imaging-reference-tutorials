@@ -3,10 +3,16 @@ title: Vytváření WMF obrázků pomocí Aspose.Imaging pro Java
 linktitle: Vytvářejte obrázky metasouborů WMF
 second_title: Aspose.Imaging Java Image Processing API
 description: Naučte se vytvářet obrázky metasouborů WMF v Javě pomocí Aspose.Imaging. Postupujte podle tohoto podrobného průvodce pro výkonné možnosti generování obrázků.
-type: docs
 weight: 10
 url: /cs/java/metafile-and-vector-image-handling/generate-wmf-metafile-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Vytváření WMF obrázků pomocí Aspose.Imaging pro Java
+
 Chcete vytvořit obrázky WMF (Windows Metafile) pomocí svých aplikací Java? Aspose.Imaging for Java je výkonný nástroj, který vám umožňuje snadno vytvářet obrázky WMF. V tomto podrobném průvodci vás provedeme procesem použití Aspose.Imaging pro Java k vytvoření obrázků metasouborů WMF. 
 
 ## Předpoklady
@@ -200,3 +206,9 @@ Odpověď 3: I když jsou vyžadovány základní znalosti programování v jazy
 ### Otázka 5: Kde mohu získat podporu nebo se ptát na Aspose.Imaging for Java?
 
  A5: Můžete najít podporu a zapojit se do komunity Aspose na[Aspose.Imaging fóra](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

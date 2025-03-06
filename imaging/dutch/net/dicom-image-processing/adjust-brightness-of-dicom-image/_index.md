@@ -3,10 +3,16 @@ title: Pas de DICOM-beeldhelderheid aan met Aspose.Imaging voor .NET
 linktitle: Pas de helderheid van DICOM-afbeelding aan in Aspose.Imaging voor .NET
 second_title: Aspose.Imaging .NET-API voor beeldverwerking
 description: Leer hoe u de helderheid van DICOM-afbeeldingen kunt aanpassen in Aspose.Imaging voor .NET. Verbeter medische beelden eenvoudig.
-type: docs
 weight: 10
 url: /nl/net/dicom-image-processing/adjust-brightness-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Pas de DICOM-beeldhelderheid aan met Aspose.Imaging voor .NET
+
 In de wereld van de medische beeldvorming is het omgaan met DICOM-bestanden (Digital Imaging and Communications in Medicine) van het allergrootste belang. Deze bestanden bevatten essentiële medische gegevens en soms is het nodig om aanpassingen aan de afbeeldingen daarin aan te brengen, zoals het wijzigen van de helderheid. In deze stapsgewijze handleiding laten we u zien hoe u de helderheid van een DICOM-afbeelding kunt aanpassen met Aspose.Imaging voor .NET.
 
 ## Vereisten
@@ -95,3 +101,9 @@ A4: U kunt ondersteuning krijgen en contact maken met de Aspose.Imaging-gemeensc
 ### Vraag 5: Welke andere functies voor beeldmanipulatie biedt Aspose.Imaging?
 
 A5: Aspose.Imaging biedt een breed scala aan functies voor beeldmanipulatie, waaronder formaat wijzigen, bijsnijden, roteren en verschillende filteropties, waardoor het een uitgebreide oplossing is voor het werken met medische beelden.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Gambar Dasar dengan Aspose.Imaging untuk .NET
 linktitle: Gambar Dasar
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Temukan seni menggambar dengan Aspose.Imaging untuk .NET. Ciptakan visual yang menakjubkan melalui panduan langkah demi langkah tentang busur, kurva Bezier, elips, garis, dan persegi panjang.
-type: docs
 weight: 22
 url: /id/net/basic-drawing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Gambar Dasar dengan Aspose.Imaging untuk .NET
+
 
 Jika Anda pernah mengagumi keindahan grafik digital dan bertanya-tanya bagaimana cara membuatnya, Anda berada di tempat yang tepat. Aspose.Imaging untuk .NET membuka banyak kemungkinan, memungkinkan Anda melepaskan kreativitas Anda melalui menggambar. Pada artikel ini, kami akan memandu Anda melalui tutorial menggambar dasar menggunakan Aspose.Imaging untuk .NET, alat manipulasi gambar yang canggih. Baik Anda seorang pengembang berpengalaman atau baru saja terjun ke dunia grafis .NET, panduan langkah demi langkah ini akan membuat prosesnya mudah dan menyenangkan.
 
@@ -52,3 +58,9 @@ Pelajari cara menggambar elips di Aspose.Imaging untuk .NET, pustaka manipulasi 
 Pelajari cara menggambar garis yang tepat di Aspose.Imaging untuk .NET. Panduan langkah demi langkah ini mencakup pembuatan gambar, menggambar garis, dan banyak lagi.
 ### [Gambar Persegi Panjang di Aspose.Imaging untuk .NET](./draw-rectangle/)
 Belajar menggambar persegi panjang di Aspose.Imaging untuk .NET - alat serbaguna untuk manipulasi gambar di aplikasi .NET Anda.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET 中 DICOM 图像的固定阈值二值化
 linktitle: Aspose.Imaging for .NET 中 DICOM 图像的固定阈值二值化
 second_title: Aspose.Imaging .NET 图像处理 API
 description: 了解如何使用 Aspose.Imaging for .NET 对 DICOM 图像执行二值化。带有代码示例的分步指南。
-type: docs
 weight: 15
 url: /zh/net/dicom-image-processing/binarization-with-fixed-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET 中 DICOM 图像的固定阈值二值化
+
 您准备好使用 Aspose.Imaging for .NET 进入数字图像处理的世界了吗？在本分步教程中，我们将探索如何使用固定阈值对 DICOM 图像执行二值化。二值化是一种基本的图像处理技术，可将灰度图像转换为二值图像，使其成为从医学成像到文档分析等各种应用的重要工具。
 
 ## 先决条件
@@ -106,3 +112,10 @@ DICOM 代表医学数字成像和通信。它是医学成像的标准化格式�
 ### Q5：Aspose.Imaging for .NET 有试用版吗？
 
 是的，您可以通过下载试用版来尝试 Aspose.Imaging for .NET[这里](https://releases.aspose.com/)。它允许您在购买之前探索其特性和功能。
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

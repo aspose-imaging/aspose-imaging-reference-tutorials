@@ -3,10 +3,16 @@ title: 如何在 Aspose.Imaging for .NET 中在 SVG 上繪製光柵圖像
 linktitle: 在 Aspose.Imaging for .NET 中在 SVG 上繪製光柵圖像
 second_title: Aspose.Imaging .NET 映像處理 API
 description: 了解如何使用 Aspose.Imaging for .NET 在 SVG 上繪製光柵影像。使用動態影像增強您的 .NET 應用程式。
-type: docs
 weight: 11
 url: /zh-hant/net/vector-image-processing/draw-raster-image-on-svg/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 如何在 Aspose.Imaging for .NET 中在 SVG 上繪製光柵圖像
+
 
 在 .NET 程式設計領域，Aspose.Imaging 是一個可靠且多功能的函式庫，用於處理各種與影像相關的任務。它提供的一項令人著迷的功能是能夠在 SVG 畫布上繪製光柵圖像。在本逐步指南中，我們將引導您完成使用 Aspose.Imaging for .NET 在 SVG 上繪製光柵影像的過程。
 
@@ -100,3 +106,10 @@ using (SvgImage resultImage = graphics.EndRecording())
    您可以從以下地點獲得臨時許可證[這裡](https://purchase.aspose.com/temporary-license/).
 
 
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

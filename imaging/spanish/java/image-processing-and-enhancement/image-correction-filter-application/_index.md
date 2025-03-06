@@ -3,10 +3,16 @@ title: Aplicación de filtro de corrección de imágenes con Aspose.Imaging para
 linktitle: Aplicación de filtro de corrección de imagen
 second_title: Aspose.Imaging API de procesamiento de imágenes Java
 description: Mejore sus imágenes con Aspose.Imaging para Java. Una guía paso a paso para aplicar filtros de corrección y optimizar la calidad de la imagen.
-type: docs
 weight: 16
 url: /es/java/image-processing-and-enhancement/image-correction-filter-application/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aplicación de filtro de corrección de imágenes con Aspose.Imaging para Java
+
 En el ámbito de las imágenes digitales, la necesidad de corregir y mejorar las imágenes está siempre presente. Si eres un fotógrafo profesional, un diseñador gráfico o alguien a quien le gusta retocar sus fotografías, tener las herramientas adecuadas a tu disposición es fundamental. Aspose.Imaging para Java es una biblioteca poderosa que puede ayudarlo a lograr precisamente eso. En esta guía paso a paso, lo guiaremos a través del proceso de uso de Aspose.Imaging para Java para aplicar filtros de corrección de imágenes a sus imágenes.
 
 ## Requisitos previos
@@ -129,3 +135,9 @@ R4: La corrección de imágenes se utiliza a menudo en fotografía, diseño grá
 ### P5: ¿Puedo usar Aspose.Imaging para Java con otras bibliotecas o marcos de trabajo de Java?
 
 R5: Sí, Aspose.Imaging para Java se puede integrar con otras bibliotecas y marcos de Java para ampliar su funcionalidad y capacidades.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

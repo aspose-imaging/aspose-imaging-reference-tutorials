@@ -3,10 +3,16 @@ title: जावा के लिए Aspose.Imaging के साथ ODG को 
 linktitle: ओडीजी फ़ाइल प्रारूप समर्थन
 second_title: Aspose.Imaging जावा इमेज प्रोसेसिंग एपीआई
 description: जावा के लिए Aspose.Imaging के साथ ODG फ़ाइलों को PNG और PDF में परिवर्तित करना सीखें। कुशल रूपांतरण के लिए हमारी चरण-दर-चरण मार्गदर्शिका का पालन करें।
-type: docs
 weight: 12
 url: /hi/java/metafile-and-vector-image-handling/odg-file-format-support/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# जावा के लिए Aspose.Imaging के साथ ODG को PNG और PDF में बदलें
+
 दस्तावेज़ रूपांतरण की दुनिया में, जावा के लिए Aspose.Imaging एक शक्तिशाली उपकरण के रूप में सामने आता है जो आपको ODG (OpenDocument ग्राफ़िक्स) फ़ाइलों को PNG और PDF स्वरूपों में आसानी से परिवर्तित करने की अनुमति देता है। यह ट्यूटोरियल जावा के लिए Aspose.Imaging का उपयोग करते हुए, चरण दर चरण प्रक्रिया में आपका मार्गदर्शन करेगा। चाहे आप एक डेवलपर हों या केवल ODG फ़ाइलों को कनवर्ट करना चाह रहे हों, यह लेख आपको अपना लक्ष्य प्राप्त करने में मदद करेगा।
 
 ## आवश्यक शर्तें
@@ -115,3 +121,9 @@ for (String file : files) {
 ### Q5: क्या मैं अपनी व्यावसायिक परियोजनाओं में जावा के लिए Aspose.Imaging का उपयोग कर सकता हूँ?
 
 A5: हां, आप उचित लाइसेंस खरीदने के बाद वाणिज्यिक परियोजनाओं में जावा के लिए Aspose.Imaging का उपयोग कर सकते हैं।
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

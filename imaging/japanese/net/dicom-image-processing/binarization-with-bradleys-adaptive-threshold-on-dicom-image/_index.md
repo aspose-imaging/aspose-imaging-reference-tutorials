@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET の DICOM 画像に対する Bradley の適応し
 linktitle: Aspose.Imaging for .NET の DICOM 画像に対する Bradley の適応しきい値による 2 値化
 second_title: Aspose.Imaging .NET 画像処理 API
 description: Aspose.Imaging for .NET を使用して、Bradley の適応しきい値を DICOM 画像に適用する方法を学びます。ステップバイステップのガイドで二値化が簡単に行えます。
-type: docs
 weight: 14
 url: /ja/net/dicom-image-processing/binarization-with-bradleys-adaptive-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET の DICOM 画像に対する Bradley の適応しきい値による 2 値化
+
 Aspose.Imaging for .NET を使用して、Bradley の適応しきい値を DICOM 画像に適用することを検討していますか?この包括的なチュートリアルでは、プロセスを段階的に説明します。このガイドを終えると、DICOM 画像の二値化を効率的に実行できるようになります。前提条件から名前空間のインポートまでのすべてを説明し、各例を複数のステップに分けて説明します。
 
 ## 前提条件
@@ -97,3 +103,9 @@ A2: はい、このチュートリアルで説明されているように、複�
 ### Q5: Aspose.Imaging for .NET のサポートを受けるにはどうすればよいですか?
 
  A5: Aspose コミュニティに参加して、他の開発者からサポートを受けることができます。[アスペス フォーラム](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

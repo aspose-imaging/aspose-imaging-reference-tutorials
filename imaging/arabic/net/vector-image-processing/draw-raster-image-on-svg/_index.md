@@ -3,10 +3,16 @@ title: كيفية رسم صورة نقطية على SVG في Aspose.Imaging لـ
 linktitle: ارسم صورة نقطية على SVG في Aspose.Imaging لـ .NET
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: تعرف على كيفية رسم الصور النقطية على SVG باستخدام Aspose.Imaging for .NET. قم بتحسين تطبيقات .NET الخاصة بك باستخدام الصور الديناميكية.
-type: docs
 weight: 11
 url: /ar/net/vector-image-processing/draw-raster-image-on-svg/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# كيفية رسم صورة نقطية على SVG في Aspose.Imaging لـ .NET
+
 
 في عالم برمجة .NET، تعتبر Aspose.Imaging مكتبة موثوقة ومتعددة الاستخدامات للتعامل مع المهام المختلفة المتعلقة بالصور. إحدى الإمكانيات الرائعة التي تقدمها هي القدرة على رسم صورة نقطية على قماش SVG. في هذا الدليل المفصّل خطوة بخطوة، سنرشدك خلال عملية رسم صورة نقطية على ملف SVG باستخدام Aspose.Imaging for .NET.
 
@@ -100,3 +106,10 @@ using (SvgImage resultImage = graphics.EndRecording())
     يمكنك الحصول على ترخيص مؤقت من[هنا](https://purchase.aspose.com/temporary-license/).
 
 
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

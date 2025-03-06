@@ -3,10 +3,16 @@ title: Ulepsz kolorowe obrazy za pomocą filtra Wienera z Aspose.Imaging dla Jav
 linktitle: Zastosuj filtr Wienera do kolorowych obrazów
 second_title: Aspose.Imaging API przetwarzania obrazu Java
 description: Dowiedz się, jak zastosować filtr Wienera do kolorowych obrazów w Javie przy użyciu Aspose.Imaging for Java. Bez wysiłku poprawiaj jakość obrazu i redukuj szumy.
-type: docs
 weight: 18
 url: /pl/java/image-processing-and-enhancement/apply-wiener-filter-to-colored-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Ulepsz kolorowe obrazy za pomocą filtra Wienera z Aspose.Imaging dla Java
+
 Jeśli chcesz poprawić jakość kolorowych obrazów i zredukować szumy, Aspose.Imaging dla Java jest dla Ciebie rozwiązaniem. W tym samouczku krok po kroku przeprowadzimy Cię przez proces stosowania filtra Wienera do kolorowych obrazów. Filtrowanie Wienera to potężna technika, która może znacznie poprawić jakość obrazu. Zacznijmy!
 
 ## Warunki wstępne
@@ -103,3 +109,9 @@ Odpowiedź 2: Tak, Aspose.Imaging for Java jest kompatybilny z różnymi bibliot
 ### P5: Czy mogę używać Aspose.Imaging do celów komercyjnych?
 
 O5: Tak, możesz używać Aspose.Imaging for Java do projektów komercyjnych. Aby uzyskać licencję, możesz odwiedzić stronę[strona zakupu](https://purchase.aspose.com/buy).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

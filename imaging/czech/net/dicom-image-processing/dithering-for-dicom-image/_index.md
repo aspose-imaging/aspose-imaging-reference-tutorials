@@ -3,10 +3,16 @@ title: DICOM Image Dithering usnadňuje Aspose.Imaging pro .NET
 linktitle: Dithering pro DICOM Image v Aspose.Imaging pro .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Naučte se, jak provádět prahové dithering na obrazech DICOM pomocí Aspose.Imaging for .NET. Vylepšete kvalitu obrazu a snižte barevné palety bez námahy.
-type: docs
 weight: 22
 url: /cs/net/dicom-image-processing/dithering-for-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# DICOM Image Dithering usnadňuje Aspose.Imaging pro .NET
+
 Rozklad je základní technika zpracování obrazu používaná ke snížení počtu barev v obraze při zachování vizuální kvality. V tomto podrobném průvodci prozkoumáme, jak provést rozklad obrazu DICOM pomocí Aspose.Imaging for .NET. Tato výkonná knihovna poskytuje širokou škálu funkcí pro manipulaci a zpracování snímků, což z ní činí vynikající volbu pro vývojáře pracující s lékařskými snímky. 
 
 ## Předpoklady
@@ -92,3 +98,9 @@ A4: Některé alternativy k Aspose.Imaging pro .NET zahrnují ImageMagick, OpenC
 ### Q5: Jak mohu získat podporu pro Aspose.Imaging pro .NET?
 
  A5: Můžete najít pomoc a podporu na[Aspose.Imaging fóra](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

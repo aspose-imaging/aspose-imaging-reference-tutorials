@@ -3,10 +3,16 @@ title: Αλλαγή μεγέθους εικόνων DICOM με το Aspose.Imagi
 linktitle: DICOM Απλή αλλαγή μεγέθους στο Aspose.Imaging για .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Μάθετε πώς να αλλάξετε το μέγεθος των εικόνων DICOM χρησιμοποιώντας το Aspose.Imaging for .NET, ένα ισχυρό εργαλείο για την επεξεργασία ιατρικών εικόνων. Απλά βήματα για ακριβή αποτελέσματα.
-type: docs
 weight: 19
 url: /el/net/dicom-image-processing/dicom-simple-resizing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Αλλαγή μεγέθους εικόνων DICOM με το Aspose.Imaging για .NET
+
 Στον συνεχώς εξελισσόμενο τομέα της ιατρικής απεικόνισης, η ανάγκη για ευελιξία και ακρίβεια στο χειρισμό των αρχείων DICOM (Ψηφιακή Απεικόνιση και Επικοινωνίες στην Ιατρική) είναι πρωταρχικής σημασίας. Το Aspose.Imaging for .NET αναδύεται ως μια ισχυρή λύση, προσφέροντας ένα ολοκληρωμένο σύνολο εργαλείων για εργασία με ιατρικές εικόνες. Σε αυτό το σεμινάριο, θα εξερευνήσουμε την απλή διαδικασία αλλαγής μεγέθους εικόνων DICOM χρησιμοποιώντας το Aspose.Imaging για .NET. 
 
 ## Προαπαιτούμενα
@@ -114,3 +120,9 @@ A4: Το Aspose.Imaging για .NET είναι συμβατό με διάφορ�
 ### Ε5: Πού μπορώ να βρω περισσότερα μαθήματα Aspose.Imaging για .NET;
 
  A5: Μπορείτε να εξερευνήσετε το[Aspose.Imaging για τεκμηρίωση .NET](https://reference.aspose.com/imaging/net/) για ένα ευρύ φάσμα σεμιναρίων και παραδειγμάτων.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

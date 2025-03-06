@@ -3,10 +3,16 @@ title: Regulacja kontrastu obrazu DICOM za pomocą Aspose.Imaging dla Java
 linktitle: Regulacja kontrastu obrazu DICOM
 second_title: Aspose.Imaging API przetwarzania obrazu Java
 description: Dowiedz się, jak dostosować kontrast w obrazach DICOM przy użyciu Aspose.Imaging dla Java. Bez wysiłku poprawiaj jakość wizualną obrazów medycznych.
-type: docs
 weight: 23
 url: /pl/java/image-processing-and-enhancement/dicom-image-contrast-adjustment/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Regulacja kontrastu obrazu DICOM za pomocą Aspose.Imaging dla Java
+
 stale rozwijającej się dziedzinie obrazowania medycznego możliwość regulacji kontrastu obrazu ma ogromne znaczenie. Dzięki możliwościom Aspose.Imaging for Java możesz bez wysiłku manipulować obrazami DICOM (Digital Imaging and Communications in Medicine) w celu poprawy ich jakości wizualnej. Ten samouczek poprowadzi Cię krok po kroku przez proces, zapewniając precyzyjne i skuteczne dostosowanie kontrastu obrazu.
 
 ## Warunki wstępne
@@ -102,3 +108,9 @@ O3: Tak, Aspose.Imaging dla Java oferuje mnóstwo funkcji manipulacji obrazem, t
 ### P5: Gdzie mogę znaleźć dodatkowe zasoby i wsparcie dla Aspose.Imaging for Java?
 
  Odpowiedź 5: Dokumentację i pomoc techniczną można znaleźć na stronie[Forum Aspose.Imaging dla Java](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

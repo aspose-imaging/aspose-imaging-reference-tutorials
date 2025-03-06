@@ -3,10 +3,16 @@ title: Ořízněte obrázky DICOM pomocí Aspose.Imaging pro .NET
 linktitle: Oříznutí DICOM pomocí posunů v Aspose.Imaging pro .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Naučte se ořezávat obrázky DICOM pomocí Aspose.Imaging for .NET. Vylepšete zpracování lékařských snímků pomocí tohoto podrobného průvodce.
-type: docs
 weight: 18
 url: /cs/net/dicom-image-processing/dicom-cropping-by-shifts/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Ořízněte obrázky DICOM pomocí Aspose.Imaging pro .NET
+
 Oříznutí lékařských snímků, zejména snímků DICOM, je zásadním úkolem ve zdravotnickém průmyslu. Umožňuje zdravotníkům zaměřit se na konkrétní oblasti zájmu, odstranit nežádoucí prvky a zlepšit vizuální reprezentaci diagnostických dat. V tomto tutoriálu prozkoumáme, jak oříznout obrázky DICOM pomocí Aspose.Imaging for .NET, výkonné knihovny, která zjednodušuje úlohy zpracování obrázků v aplikacích .NET.
 
 ## Předpoklady
@@ -100,3 +106,9 @@ A2: Ano, Aspose.Imaging for .NET je všestranná knihovna, která zvládne různ
 ### Otázka 5: Mohu použít Aspose.Imaging pro .NET v aplikacích pro zpracování obrázků, které nejsou pro lékařské účely?
 
 A5: Rozhodně! I když je Aspose.Imaging pro .NET skvělý pro lékařské zobrazování, lze jej použít pro širokou škálu úloh zpracování obrazu v různých doménách.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

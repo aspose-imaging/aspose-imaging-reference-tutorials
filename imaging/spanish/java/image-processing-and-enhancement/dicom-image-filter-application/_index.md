@@ -3,10 +3,16 @@ title: Filtrado de imágenes DICOM con Aspose.Imaging para Java
 linktitle: Aplicación de filtro de imagen DICOM
 second_title: Aspose.Imaging API de procesamiento de imágenes Java
 description: Aprenda a aplicar filtros a imágenes DICOM usando Aspose.Imaging para Java. Mejore las imágenes médicas con facilidad.
-type: docs
 weight: 26
 url: /es/java/image-processing-and-enhancement/dicom-image-filter-application/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Filtrado de imágenes DICOM con Aspose.Imaging para Java
+
 medida que avanza el campo de las imágenes médicas, la capacidad de procesar imágenes DICOM (Imágenes y Comunicaciones Digitales en Medicina) se vuelve cada vez más crucial. Las imágenes DICOM son ricas en información médica, pero a veces requieren mejoras y filtros para mejorar su calidad o extraer características específicas. En esta guía completa, lo guiaremos a través del proceso de aplicación de filtros a imágenes DICOM usando Aspose.Imaging para Java. Esta poderosa biblioteca proporciona una amplia gama de funciones para el procesamiento y manipulación de imágenes, lo que la convierte en una herramienta invaluable para profesionales de la salud, investigadores y desarrolladores.
 
 ## Requisitos previos
@@ -109,3 +115,9 @@ R4: Sí, Aspose.Imaging para Java ofrece una amplia gama de filtros y opciones p
 ### P5: ¿Dónde puedo obtener soporte para Aspose.Imaging para Java?
 
  R5: Puedes visitar el foro de la comunidad Aspose.Imaging[aquí](https://forum.aspose.com/) para hacer preguntas, buscar ayuda e interactuar con la comunidad.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

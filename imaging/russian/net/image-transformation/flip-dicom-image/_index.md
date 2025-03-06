@@ -3,10 +3,16 @@ title: Переверните изображения DICOM с помощью Asp
 linktitle: Перевернуть изображение DICOM в Aspose.Imaging for .NET
 second_title: API обработки изображений Aspose.Imaging .NET
 description: Узнайте, как перевернуть изображения DICOM с помощью Aspose.Imaging for .NET. Простое и эффективное манипулирование изображениями для медицинских целей и многого другого.
-type: docs
 weight: 10
 url: /ru/net/image-transformation/flip-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Переверните изображения DICOM с помощью Aspose.Imaging for .NET
+
 ## Введение
 
 В мире разработки программного обеспечения манипулирование изображениями является распространенной и важной задачей. Независимо от того, работаете ли вы над приложением для медицинской визуализации или над творческим проектом графического дизайна, возможность переворачивать изображения DICOM является ценным навыком. Aspose.Imaging for .NET — мощный инструмент, который поможет вам добиться этого без особых усилий. В этом подробном руководстве мы покажем вам процесс переворачивания изображений DICOM с помощью Aspose.Imaging for .NET. Мы разберем каждый шаг, предоставим примеры кода и предоставим информацию о предварительных требованиях и пространствах имен, которые вам необходимо знать.
@@ -99,3 +105,9 @@ image.Save(dataDir + "FlipDICOMImage_out.bmp", new BmpOptions());
 
 ### Вопрос 5: Какие еще функции обработки изображений предлагает Aspose.Imaging for .NET?
 О5: Aspose.Imaging for .NET предоставляет широкий спектр функций, включая изменение размера, обрезку, фильтрацию и многое другое. Ознакомиться со всеми возможностями библиотеки можно в документации.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

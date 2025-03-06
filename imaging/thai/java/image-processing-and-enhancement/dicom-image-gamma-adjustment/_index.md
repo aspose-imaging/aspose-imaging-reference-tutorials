@@ -3,10 +3,16 @@ title: การปรับแกมม่ารูปภาพ DICOM ด้ว
 linktitle: การปรับแกมม่าภาพ DICOM
 second_title: Aspose.Imaging Java Image Processing API
 description: เรียนรู้วิธีปรับแกมมาของอิมเมจ DICOM ใน Java โดยใช้ Aspose.Imaging สำหรับ Java ปรับปรุงคุณภาพของภาพทางการแพทย์ด้วยขั้นตอนง่ายๆ
-type: docs
 weight: 24
 url: /th/java/image-processing-and-enhancement/dicom-image-gamma-adjustment/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# การปรับแกมม่ารูปภาพ DICOM ด้วย Aspose.Imaging สำหรับ Java
+
 คุณต้องการปรับปรุงคุณภาพของอิมเมจ DICOM ในแอปพลิเคชัน Java ของคุณหรือไม่? Aspose.Imaging สำหรับ Java เป็นไลบรารีที่ทรงพลังและอเนกประสงค์ ซึ่งช่วยให้คุณสามารถจัดการและประมวลผลรูปภาพ รวมถึงรูปแบบ DICOM ในบทช่วยสอนทีละขั้นตอนนี้ เราจะแนะนำคุณตลอดกระบวนการปรับแกมม่าของอิมเมจ DICOM โดยใช้ Aspose.Imaging สำหรับ Java 
 
 ## ข้อกำหนดเบื้องต้น
@@ -112,3 +118,9 @@ A4: บางรูป DICOM อาจมีโครงสร้างที่
 ### คำถามที่ 5: ฉันจะหาบทช่วยสอนและแหล่งข้อมูลเกี่ยวกับ Aspose.Imaging เพิ่มเติมได้จากที่ไหน
 
  A5: คุณสามารถสำรวจ[Aspose.Imaging เอกสาร](https://reference.aspose.com/imaging/java/) สำหรับคำแนะนำ ตัวอย่าง และการอ้างอิง API ที่ครอบคลุม
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

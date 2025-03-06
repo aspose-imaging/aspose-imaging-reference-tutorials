@@ -3,10 +3,16 @@ title: Nhị phân ngưỡng Otsu với Aspose.Imaging cho Java
 linktitle: Nhị phân ngưỡng Otsu
 second_title: Aspose.Imaging API xử lý hình ảnh Java
 description: Nâng cao chất lượng hình ảnh với Aspose.Imaging dành cho quá trình nhị phân ngưỡng Otsu của Java. Hãy làm theo hướng dẫn từng bước của chúng tôi để xử lý hình ảnh một cách xuất sắc.
-type: docs
 weight: 22
 url: /vi/java/image-processing-and-enhancement/otsu-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Nhị phân ngưỡng Otsu với Aspose.Imaging cho Java
+
 Trong thế giới xử lý và thao tác hình ảnh, Aspose.Imaging for Java là một bộ công cụ mạnh mẽ giúp các nhà phát triển có thể làm việc với nhiều định dạng hình ảnh khác nhau. Trong số nhiều tính năng của nó, Otsu Threshold Binarization là một kỹ thuật quan trọng để nâng cao và phân tích hình ảnh. Trong hướng dẫn này, chúng tôi sẽ hướng dẫn bạn từng bước trong quá trình sử dụng Aspose.Imaging cho Java để thực hiện Quá trình nhị phân ngưỡng Otsu trên một hình ảnh.
 
 ## Điều kiện tiên quyết
@@ -105,3 +111,9 @@ Câu trả lời 1: Phân tích ngưỡng Otsu là một kỹ thuật xử lý h
 ### Câu hỏi 5: Tôi có thể sử dụng Aspose.Imaging cho Java trong các dự án thương mại của mình không?
 
 Câu trả lời 5: Có, Aspose.Imaging for Java phù hợp cho cả dự án cá nhân và thương mại. Bạn có thể khám phá các tùy chọn cấp phép để phù hợp với nhu cầu cụ thể của mình.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

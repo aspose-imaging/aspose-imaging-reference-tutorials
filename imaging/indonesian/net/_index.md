@@ -1,12 +1,17 @@
 ---
 title: Tutorial Komprehensif dan Contoh Aspose.Imaging untuk .NET
 linktitle: Aspose.Imaging untuk Tutorial .NET
-type: docs
 weight: 10
 url: /id/net/
 description: Temukan kehebatan Aspose.Imaging untuk .NET dengan tutorial mendalam kami. Dari komposisi gambar hingga fitur lanjutan, tingkatkan keterampilan Anda dan tingkatkan permainan pemrosesan gambar Anda.
-is_root: true
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Tutorial Komprehensif dan Contoh Aspose.Imaging untuk .NET
+
 
 Selamat datang di panduan komprehensif kami tentang Aspose.Imaging untuk .NET! Baik Anda seorang pemula atau ahli, tutorial ini akan membantu Anda menguasai pemrosesan gambar menggunakan alat canggih ini. Dari komposisi gambar hingga fitur lanjutan, kami siap membantu Anda.
 
@@ -72,3 +77,9 @@ Pelajari konversi format gambar dengan Aspose.Imaging untuk .NET. Konversi CDR, 
 Jelajahi serangkaian tutorial komprehensif tentang pemrosesan gambar DICOM menggunakan Aspose.Imaging untuk .NET. Belajar untuk meningkatkan citra medis dengan mudah.
 ### [Fitur lanjutan](./advanced-features/)
 Dapatkan yang terbaik dari Aspose.Imaging untuk .NET dengan tutorial langkah demi langkah kami. Pelajari cara membuka opsi asli dan bekerja dengan gambar dengan mudah.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

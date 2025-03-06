@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for Java 調整 SVG 圖片大小
 linktitle: 調整 SVG 圖像大小
 second_title: Aspose.Imaging Java 圖像處理 API
 description: 了解如何使用 Aspose.Imaging for Java 在 Java 中調整 SVG 影像的大小。高效影像處理的分步指南。
-type: docs
 weight: 12
 url: /zh-hant/java/image-processing-and-enhancement/resize-svg-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for Java 調整 SVG 圖片大小
+
 您是否希望使用 Java 高效且有效地調整 SVG 映像的大小？ Aspose.Imaging for Java 提供了一個強大的解決方案來幫助您實現這一目標。在這份綜合指南中，我們將逐步引導您完成整個過程，從先決條件開始，導入包，並將每個範例分解為詳細的步驟。
 
 ## 先決條件
@@ -113,3 +119,9 @@ A4：是的，Aspose.Imaging 提供了廣泛的功能，包括圖像裁剪、旋
 ### Q5：我可以在商業項目中使用Aspose.Imaging嗎？
 
 A5：是的，Aspose.Imaging可以用於商業項目。您可以在 Aspose 網站上找到許可資訊。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

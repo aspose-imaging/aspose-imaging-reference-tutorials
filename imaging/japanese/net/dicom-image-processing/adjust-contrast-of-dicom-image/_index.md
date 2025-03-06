@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET を使用した DICOM 画像のコントラスト
 linktitle: Aspose.Imaging for .NET で DICOM 画像のコントラストを調整する
 second_title: Aspose.Imaging .NET 画像処理 API
 description: Aspose.Imaging for .NET を使用して医療画像を強化します。簡単な手順で DICOM 画像のコントラストを調整します。
-type: docs
 weight: 11
 url: /ja/net/dicom-image-processing/adjust-contrast-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET を使用した DICOM 画像のコントラスト調整
+
 医療画像処理の世界では、画質を正確に制御することが最も重要です。 Aspose.Imaging for .NET は、DICOM 画像を簡単に操作するための強力なソリューションを提供します。このステップバイステップのチュートリアルでは、Aspose.Imaging for .NET を使用して DICOM 画像のコントラストを調整するプロセスを説明します。このチュートリアルは、診断または研究目的で医療画像の視認性を高めたい人向けに設計されています。 
 
 ## 前提条件
@@ -112,3 +118,9 @@ A4: はい、Aspose.Imaging for .NET は、サイズ変更、トリミング、�
 ### Q5: Aspose.Imaging for .NET を医療以外の画像処理に使用できますか?
 
 A5：もちろんです！ Aspose.Imaging は医療画像処理に多用途ですが、一般的な画像操作タスクにも使用できます。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Binarizace s pevným prahem na obrázku DICOM v Aspose.Imaging pro .NET
 linktitle: Binarizace s pevným prahem na obrázku DICOM v Aspose.Imaging pro .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Naučte se provádět binarizaci obrazu DICOM pomocí Aspose.Imaging for .NET. Podrobný průvodce s příklady kódu.
-type: docs
 weight: 15
 url: /cs/net/dicom-image-processing/binarization-with-fixed-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binarizace s pevným prahem na obrázku DICOM v Aspose.Imaging pro .NET
+
 Jste připraveni ponořit se do světa digitálního zpracování obrazu pomocí Aspose.Imaging for .NET? V tomto tutoriálu krok za krokem prozkoumáme, jak provést binarizaci s pevným prahem na obrázku DICOM. Binarizace je základní technika zpracování obrazu, která převádí obraz ve stupních šedi na binární obraz, což z něj činí základní nástroj pro různé aplikace, od lékařského zobrazování po analýzu dokumentů.
 
 ## Předpoklady
@@ -106,3 +112,10 @@ Absolutně! Zatímco Aspose.Imaging se běžně používá v lékařské oblasti
 ### Q5: Je k dispozici zkušební verze Aspose.Imaging pro .NET?
 
  Ano, můžete vyzkoušet Aspose.Imaging pro .NET stažením zkušební verze z[tady](https://releases.aspose.com/). Umožňuje vám prozkoumat jeho vlastnosti a funkce před nákupem.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

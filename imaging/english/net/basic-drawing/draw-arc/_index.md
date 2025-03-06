@@ -3,10 +3,16 @@ title: Creating Arcs with Aspose.Imaging for .NET
 linktitle: Draw Arc in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to draw arcs with Aspose.Imaging for .NET, a powerful image manipulation tool. Step-by-step guide for creating stunning visuals.
-type: docs
 weight: 10
 url: /net/basic-drawing/draw-arc/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Creating Arcs with Aspose.Imaging for .NET
+
 In the world of image processing, Aspose.Imaging for .NET is a versatile and powerful tool that allows developers to perform a wide range of operations on images. One of the fundamental tasks in image manipulation is drawing shapes, and in this tutorial, we'll walk you through the process of drawing an arc using Aspose.Imaging for .NET. By the end of this guide, you'll be able to create stunning arcs in your images effortlessly.
 
 ## Prerequisites
@@ -117,3 +123,10 @@ A4: If you need a temporary license, you can obtain one [here](https://purchase.
 
 A5: You can visit the Aspose.Imaging forum for support and discussions [here](https://forum.aspose.com/).
 
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Lật hình ảnh DICOM bằng Aspose.Imaging cho .NET
 linktitle: Lật hình ảnh DICOM trong Aspose.Imaging cho .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Tìm hiểu cách lật hình ảnh DICOM bằng Aspose.Imaging cho .NET. Thao tác hình ảnh dễ dàng, hiệu quả cho các ứng dụng y tế và hơn thế nữa.
-type: docs
 weight: 10
 url: /vi/net/image-transformation/flip-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Lật hình ảnh DICOM bằng Aspose.Imaging cho .NET
+
 ## Giới thiệu
 
 Trong thế giới phát triển phần mềm, thao tác hình ảnh là một nhiệm vụ phổ biến và cần thiết. Cho dù bạn đang làm việc trên một ứng dụng hình ảnh y tế hay một dự án thiết kế đồ họa sáng tạo thì khả năng lật hình ảnh DICOM là một kỹ năng quý giá. Aspose.Imaging for .NET là một công cụ mạnh mẽ có thể giúp bạn đạt được điều này một cách dễ dàng. Trong hướng dẫn toàn diện này, chúng tôi sẽ hướng dẫn bạn quy trình lật hình ảnh DICOM bằng Aspose.Imaging cho .NET. Chúng tôi sẽ chia nhỏ từng bước, cung cấp mã ví dụ và cung cấp thông tin chi tiết về các điều kiện tiên quyết cũng như vùng chứa tên mà bạn cần biết.
@@ -99,3 +105,9 @@ A2: Chắc chắn rồi! Aspose.Imaging for .NET rất phù hợp cho các dự 
 
 ### Câu hỏi 5: Aspose.Imaging cho .NET cung cấp những tính năng xử lý hình ảnh nào khác?
 Câu trả lời 5: Aspose.Imaging for .NET cung cấp nhiều tính năng, bao gồm thay đổi kích thước, cắt xén, lọc, v.v. Bạn có thể khám phá toàn bộ khả năng của thư viện trong tài liệu.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

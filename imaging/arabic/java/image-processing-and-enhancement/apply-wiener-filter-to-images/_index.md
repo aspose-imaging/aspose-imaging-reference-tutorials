@@ -3,10 +3,16 @@ title: قم بتطبيق مرشح Wiener على الصور باستخدام Aspo
 linktitle: تطبيق مرشح وينر على الصور
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: تعرف على كيفية تطبيق مرشح Wiener على الصور باستخدام Aspose.Imaging for Java، مما يؤدي إلى تحسين جودة الصورة وتقليل التشويش دون عناء.
-type: docs
 weight: 17
 url: /ar/java/image-processing-and-enhancement/apply-wiener-filter-to-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# قم بتطبيق مرشح Wiener على الصور باستخدام Aspose.Imaging لـ Java
+
 
 في عالم معالجة الصور الرقمية، يعد مرشح Wiener أداة قوية لتحسين جودة الصور من خلال تقليل الضوضاء وتحسين وضوحها. توفر Aspose.Imaging for Java، وهي مكتبة رائدة لتصوير Java، للمطورين القدرة على تطبيق مرشح Wiener على الصور بسهولة. في هذا البرنامج التعليمي خطوة بخطوة، سنرشدك خلال عملية تطبيق مرشح Wiener على الصور باستخدام Aspose.Imaging for Java.
 
@@ -105,3 +111,9 @@ A1: مرشح Wiener هو مرشح لمعالجة الإشارات يستخدم �
 ### س5: كيف يمكنني الحصول على دعم Aspose.Imaging لـ Java؟
 
  ج5: يمكنك العثور على الدعم والمساعدة في[Aspose.Imaging لمنتديات جافا](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

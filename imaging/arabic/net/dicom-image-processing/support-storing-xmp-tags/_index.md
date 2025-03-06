@@ -3,10 +3,16 @@ title: دعم تخزين علامات XMP في Aspose.Imaging لـ .NET
 linktitle: دعم تخزين علامات XMP في Aspose.Imaging لـ .NET
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: تعرف على كيفية إضافة بيانات تعريف XMP إلى صور DICOM باستخدام Aspose.Imaging for .NET. قم بتحسين إدارة الصور وتنظيمها باستخدام هذا الدليل المفصّل خطوة بخطوة.
-type: docs
 weight: 25
 url: /ar/net/dicom-image-processing/support-storing-xmp-tags/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# دعم تخزين علامات XMP في Aspose.Imaging لـ .NET
+
 Aspose.Imaging for .NET هي مكتبة قوية تسمح لك بالعمل مع تنسيقات الصور المختلفة في بيئة .NET. في هذا البرنامج التعليمي، سنستكشف كيفية دعم تخزين علامات XMP (منصة بيانات التعريف القابلة للتوسيع) في Aspose.Imaging لـ .NET. تعد علامات XMP ضرورية لإضافة معلومات البيانات التعريفية إلى الصور، مما يسهل تنظيم أصولك الرقمية وإدارتها. سنقوم بتقسيم العملية إلى خطوات متعددة لمساعدتك على فهم كيفية تحقيق ذلك.
 
 ## المتطلبات الأساسية
@@ -114,3 +120,10 @@ A1: يعد XMP (منصة بيانات التعريف القابلة للتوسي
 ### س5: كيف يمكنني الحصول على ترخيص مؤقت لـ Aspose.Imaging لـ .NET؟
 
  ج5: يمكنك الحصول على ترخيص مؤقت لـ Aspose.Imaging for .NET من خلال زيارة[هذا الرابط](https://purchase.aspose.com/temporary-license/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

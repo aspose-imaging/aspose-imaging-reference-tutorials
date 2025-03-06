@@ -3,10 +3,16 @@ title: Converti parte specifica della pagina DJVU in Aspose.Imaging per .NET
 linktitle: Converti parte specifica della pagina DJVU in Aspose.Imaging per .NET
 second_title: Aspose.Imaging API di elaborazione delle immagini .NET
 description: Scopri come convertire porzioni specifiche di pagine DJVU utilizzando Aspose.Imaging per .NET. Segui la nostra guida passo passo.
-type: docs
 weight: 20
 url: /it/net/image-format-conversion/convert-specific-portion-of-djvu-page/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Converti parte specifica della pagina DJVU in Aspose.Imaging per .NET
+
 Se stai cercando di manipolare le immagini DJVU nelle tue applicazioni .NET, Aspose.Imaging per .NET fornisce un potente set di strumenti per portare a termine il lavoro. In questa guida passo passo, ti mostreremo come convertire una porzione specifica di una pagina DJVU in un formato diverso utilizzando Aspose.Imaging per .NET.
 
 ## Prerequisiti
@@ -111,3 +117,9 @@ A1: Aspose.Imaging per .NET è una potente libreria che consente agli sviluppato
 ### Q5: Dove posso ottenere supporto o porre domande relative ad Aspose.Imaging per .NET?
 
  R5: Puoi ottenere supporto e porre domande nel[Forum Aspose.Imaging](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

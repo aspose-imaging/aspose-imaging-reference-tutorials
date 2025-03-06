@@ -3,10 +3,16 @@ title: 图像处理和增强
 linktitle: 图像处理和增强
 second_title: Aspose.Imaging Java 图像处理 API
 description: 使用分步教程使用 Aspose.Imaging for Java 增强图像。轻松优化文档处理和图像质量。
-type: docs
 weight: 21
 url: /zh/java/image-processing-and-enhancement/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 图像处理和增强
+
 ## 介绍 
 图像处理是现代数字内容创作的一个重要方面。在本文中，我们将使用 Aspose.Imaging for Java 深入研究“图像处理和增强教程”的世界。无论您是平面设计师、摄影师，还是只是想提高图像处理技能，这些教程都将成为您的指路明灯。
 
@@ -116,3 +122,9 @@ url: /zh/java/image-processing-and-enhancement/
 了解如何使用 Aspose.Imaging for Java 将滤镜应用到 DICOM 图像。轻松增强医学成像。
 ### [图像二值化](./bradleys-adaptive-threshold-binarization/)
 使用 Aspose.Imaging for Java 学习图像二值化。轻松转换 DICOM 图像。探索包含代码示例的分步指南。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

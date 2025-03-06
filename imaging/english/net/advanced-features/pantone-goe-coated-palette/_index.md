@@ -3,10 +3,16 @@ title: Mastering Pantone Goe Coated Palette with Aspose.Imaging for .NET
 linktitle: Pantone Goe Coated Palette in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to work with the Pantone Goe Coated Palette in Aspose.Imaging for .NET. Create, manipulate, and convert images effortlessly.
-type: docs
 weight: 12
 url: /net/advanced-features/pantone-goe-coated-palette/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Mastering Pantone Goe Coated Palette with Aspose.Imaging for .NET
+
 Are you ready to dive into the vibrant world of colors with Aspose.Imaging for .NET? In this step-by-step tutorial, we will explore how to work with the Pantone Goe Coated Palette using Aspose.Imaging. This powerful library provides you with the tools you need to manipulate and create images with ease. 
 
 ## Prerequisites
@@ -92,3 +98,10 @@ A4: You can purchase a license for Aspose.Imaging for .NET at [Aspose.Imaging Pu
 ### Q5: Where can I get support or ask questions?
 
 A5: You can visit the Aspose.Imaging for .NET community forum at [Aspose.Imaging Support](https://forum.aspose.com/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

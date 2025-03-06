@@ -1,12 +1,17 @@
 ---
 title: Tutoriels complets et exemples d'Aspose.Imaging pour .NET
 linktitle: Aspose.Imaging pour les didacticiels .NET
-type: docs
 weight: 10
 url: /fr/net/
 description: Découvrez la puissance d'Aspose.Imaging pour .NET avec nos didacticiels approfondis. De la composition d'images aux fonctionnalités avancées, améliorez vos compétences et élevez votre jeu de traitement d'images.
-is_root: true
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Tutoriels complets et exemples d'Aspose.Imaging pour .NET
+
 
 Bienvenue dans notre guide complet sur Aspose.Imaging pour .NET ! Que vous soyez novice ou expert, ces tutoriels vous aideront à maîtriser le traitement d'images à l'aide de cet outil puissant. De la composition d'images aux fonctionnalités avancées, nous avons ce qu'il vous faut.
 
@@ -72,3 +77,9 @@ Apprenez la conversion de format d'image avec Aspose.Imaging pour .NET. Converti
 Explorez une série complète de didacticiels sur le traitement d'images DICOM à l'aide d'Aspose.Imaging pour .NET. Apprenez à améliorer les images médicales sans effort.
 ### [Fonctionnalités avancées](./advanced-features/)
 Tirez le meilleur parti d’Aspose.Imaging pour .NET avec nos didacticiels étape par étape. Apprenez à débloquer les options originales et à travailler avec des images sans effort.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

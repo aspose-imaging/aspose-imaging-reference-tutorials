@@ -3,10 +3,16 @@ title: Xoay hình ảnh DICOM bằng Aspose.Imaging cho .NET
 linktitle: Xoay hình ảnh DICOM trong Aspose.Imaging cho .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Khám phá xoay hình ảnh DICOM với Aspose.Imaging cho .NET. Hướng dẫn từng bước để xử lý hình ảnh y tế.
-type: docs
 weight: 11
 url: /vi/net/image-transformation/rotate-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Xoay hình ảnh DICOM bằng Aspose.Imaging cho .NET
+
 ## Giới thiệu
 
 Trong thời đại kỹ thuật số ngày nay, xử lý hình ảnh đã trở thành một phần không thể thiếu trong nhiều ngành công nghiệp khác nhau, từ chăm sóc sức khỏe đến thiết kế và hơn thế nữa. Nếu bạn là nhà phát triển .NET đang tìm cách thao tác và nâng cao hình ảnh y tế, Aspose.Imaging for .NET là một công cụ mạnh mẽ mà bạn có thể tùy ý sử dụng. Trong hướng dẫn toàn diện này, chúng tôi sẽ hướng dẫn bạn quy trình xoay hình ảnh DICOM bằng Aspose.Imaging cho .NET.
@@ -94,3 +100,9 @@ A4: Chắc chắn rồi! Aspose.Imaging for .NET phục vụ các nhà phát tri
 ### Câu hỏi 5: Có các tùy chọn cấp phép cho Aspose.Imaging cho .NET không?
 
  Câu trả lời 5: Có, bạn có thể khám phá các tùy chọn cấp phép, bao gồm dùng thử miễn phí và mua, trên[Trang mua hàng Aspose.Imaging](https://purchase.aspose.com/buy) Và[giấy phép tạm thời](https://purchase.aspose.com/temporary-license/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

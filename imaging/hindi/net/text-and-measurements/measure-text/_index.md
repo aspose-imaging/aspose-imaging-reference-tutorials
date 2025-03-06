@@ -3,10 +3,16 @@ title: .NET के लिए Aspose.Imaging के साथ छवियों 
 linktitle: .NET के लिए Aspose.Imaging में टेक्स्ट मापें
 second_title: Aspose.Imaging .NET इमेज प्रोसेसिंग एपीआई
 description: .NET के लिए Aspose.Imaging का उपयोग करके छवियों में टेक्स्ट को मापें। एक शक्तिशाली .NET लाइब्रेरी. सटीक और कुशल पाठ माप।
-type: docs
 weight: 10
 url: /hi/net/text-and-measurements/measure-text/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET के लिए Aspose.Imaging के साथ छवियों में पाठ मापन
+
 यदि आप एक .NET डेवलपर हैं जो छवियों में हेरफेर करना चाहते हैं और पाठ को सटीकता के साथ मापना चाहते हैं, तो .NET के लिए Aspose.Imaging एक शक्तिशाली समाधान है। इस चरण-दर-चरण मार्गदर्शिका में, हम यह पता लगाएंगे कि Aspose.Imaging का उपयोग करके पाठ को कैसे मापें, पूर्वापेक्षाओं से शुरू करें और एक व्यावहारिक उदाहरण में समाप्त करें। आइए सीधे गोता लगाएँ!
 
 ## आवश्यक शर्तें
@@ -95,3 +101,9 @@ using (Image backgroundImage = Image.Load("Your Image Path"))
 ### Q5: मैं .NET के लिए Aspose.Imaging कैसे डाउनलोड करूं?
 
  A5: आप .NET के लिए Aspose.Imaging को यहां से डाउनलोड कर सकते हैं[डाउनलोड पेज](https://releases.aspose.com/imaging/net/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

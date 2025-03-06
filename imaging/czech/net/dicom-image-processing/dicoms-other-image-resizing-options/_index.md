@@ -3,10 +3,16 @@ title: Další možnosti změny velikosti obrázku DICOM v Aspose.Imaging pro .N
 linktitle: Další možnosti změny velikosti obrázku DICOM v Aspose.Imaging pro .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Naučte se měnit velikost obrázků DICOM pomocí Aspose.Imaging for .NET. Podrobný průvodce pro efektivní manipulaci s lékařskými snímky.
-type: docs
 weight: 20
 url: /cs/net/dicom-image-processing/dicoms-other-image-resizing-options/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Další možnosti změny velikosti obrázku DICOM v Aspose.Imaging pro .NET
+
 Chcete ve své aplikaci .NET pracovat s obrázky DICOM (Digital Imaging and Communications in Medicine)? Aspose.Imaging for .NET poskytuje výkonnou sadu nástrojů pro efektivní manipulaci s obrazy DICOM. V tomto tutoriálu se ponoříme do "Další možnosti změny velikosti obrázku DICOM" pomocí Aspose.Imaging pro .NET. Pokryjeme předpoklady, importujeme jmenné prostory a poskytneme průvodce krok za krokem, který vám pomůže porozumět a efektivně implementovat změnu velikosti obrazu DICOM.
 
 ## Předpoklady
@@ -107,3 +113,9 @@ Odpověď 4: Ano, Aspose.Imaging for .NET se běžně používá ve zdravotnick�
 ### Q5: Mohu získat dočasnou licenci pro Aspose.Imaging pro .NET?
 w
  A5: Ano, můžete získat dočasnou licenci pro účely testování a hodnocení. Návštěva[Stránka dočasné licence Aspose](https://purchase.aspose.com/temporary-license/) Pro více informací.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

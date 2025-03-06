@@ -3,10 +3,16 @@ title: 在 Aspose.Imaging for .NET 中使用 Stream 建立映像
 linktitle: 在 Aspose.Imaging for .NET 中使用 Stream 建立映像
 second_title: Aspose.Imaging .NET 映像處理 API
 description: 了解如何透過 Aspose.Imaging for .NET 逐步使用串流建立映像。包括綜合指南、先決條件和常見問題。
-type: docs
 weight: 11
 url: /zh-hant/net/image-creation/create-image-using-stream/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 在 Aspose.Imaging for .NET 中使用 Stream 建立映像
+
 您是否希望利用 Aspose.Imaging for .NET 的強大功能輕鬆創建令人驚嘆的圖像？您來對地方了！在本綜合指南中，我們將引導您完成使用 Aspose.Imaging for .NET 建立圖像的過程。我們將從先決條件開始，然後深入研究逐步過程，分解每個範例，以確保您牢牢掌握這些概念。
 
 ## 先決條件
@@ -108,3 +114,10 @@ A3：當然！ Aspose.Imaging for .NET 提供了多種進階影像處理功能�
 ### Q5：如何取得 Aspose.Imaging for .NET 的臨時授權？
 
  A5：您可以從 Aspose 網站取得臨時許可證：[這個連結](https://purchase.aspose.com/temporary-license/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

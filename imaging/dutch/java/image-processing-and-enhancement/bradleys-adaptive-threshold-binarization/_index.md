@@ -3,10 +3,16 @@ title: Beeldbinarisatie met Aspose.Imaging voor Java
 linktitle: Bradley's adaptieve drempelbinarisering
 second_title: Aspose.Imaging Java-beeldverwerkings-API
 description: Leer het binariseren van afbeeldingen met Aspose.Imaging voor Java. Transformeer DICOM-afbeeldingen eenvoudig. Ontdek een stapsgewijze handleiding met codevoorbeelden.
-type: docs
 weight: 27
 url: /nl/java/image-processing-and-enhancement/bradleys-adaptive-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Beeldbinarisatie met Aspose.Imaging voor Java
+
 Afbeeldingen spelen een cruciale rol in de digitale wereld, of het nu op websites, in documenten of als onderdeel van verschillende toepassingen is. Beeldverwerking is een essentiële taak in deze domeinen, en een van de fundamentele bewerkingen is het binariseren van beelden. Binarisatie vereenvoudigt een afbeelding door deze in een binaire vorm om te zetten, waardoor computers deze gemakkelijker kunnen verwerken. Aspose.Imaging voor Java is een krachtig hulpmiddel dat een breed scala aan functies voor beeldmanipulatie biedt, en in deze zelfstudie zullen we onderzoeken hoe u beeldbinarisatie kunt uitvoeren met behulp van Bradley's Adaptive Threshold Binarization van Aspose.Imaging. 
 
 ## Vereisten
@@ -111,3 +117,9 @@ A1: DICOM staat voor Digital Imaging and Communications in Medicine en is een st
 ### V5: Is Aspose.Imaging voor Java geschikt voor beeldverwerking in andere Java-gebaseerde toepassingen?
 
 A5: Ja, Aspose.Imaging voor Java is veelzijdig en kan worden gebruikt in verschillende Java-gebaseerde applicaties, waaronder webapplicaties, desktopsoftware en meer.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

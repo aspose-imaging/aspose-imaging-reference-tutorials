@@ -3,10 +3,16 @@ title: Ajustando gama de imagem DICOM com Aspose.Imaging para .NET
 linktitle: Ajustar gama da imagem DICOM em Aspose.Imaging for .NET
 second_title: API de processamento de imagem Aspose.Imaging .NET
 description: Aprenda como ajustar gama em imagens DICOM usando Aspose.Imaging for .NET. Melhore a qualidade da imagem médica com etapas simples.
-type: docs
 weight: 12
 url: /pt/net/dicom-image-processing/adjust-gamma-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Ajustando gama de imagem DICOM com Aspose.Imaging para .NET
+
 Ao trabalhar com imagens médicas, muitas vezes são necessários ajustes precisos para melhorar sua qualidade e clareza. Aspose.Imaging for .NET é uma biblioteca poderosa que permite manipular vários formatos de imagem, incluindo DICOM (Digital Imaging and Communications in Medicine). Neste guia passo a passo, orientaremos você no processo de ajuste da gama de uma imagem DICOM usando Aspose.Imaging for .NET.
 
 ## Pré-requisitos
@@ -98,3 +104,9 @@ A4: Aspose.Imaging for .NET oferece uma ampla gama de recursos, incluindo corte 
 ### Q5: Como posso obter suporte técnico para Aspose.Imaging for .NET?
 
  A5: Para assistência técnica e suporte comunitário, você pode visitar o[Fórum Aspose.Imaging](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

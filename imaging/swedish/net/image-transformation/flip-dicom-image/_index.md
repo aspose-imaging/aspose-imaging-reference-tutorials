@@ -3,10 +3,16 @@ title: Vänd DICOM-bilder med Aspose.Imaging för .NET
 linktitle: Vänd DICOM-bilden i Aspose.Imaging för .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Lär dig hur du vänder DICOM-bilder med Aspose.Imaging för .NET. Enkel, effektiv bildhantering för medicinska tillämpningar och mer.
-type: docs
 weight: 10
 url: /sv/net/image-transformation/flip-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Vänd DICOM-bilder med Aspose.Imaging för .NET
+
 ## Introduktion
 
 I en värld av mjukvaruutveckling är bildmanipulation en vanlig och viktig uppgift. Oavsett om du arbetar med en medicinsk bildbehandlingsapplikation eller ett kreativt grafisk designprojekt, är förmågan att vända DICOM-bilder en värdefull färdighet. Aspose.Imaging för .NET är ett kraftfullt verktyg som kan hjälpa dig att uppnå detta utan ansträngning. I den här omfattande guiden går vi igenom processen att vända DICOM-bilder med Aspose.Imaging för .NET. Vi kommer att dela upp varje steg, tillhandahålla kodexempel och ge insikter i de förutsättningar och namnutrymmen du behöver känna till.
@@ -99,3 +105,9 @@ A2: Absolut! Aspose.Imaging för .NET lämpar sig väl för medicinska bildbehan
 
 ### F5: Vilka andra bildmanipuleringsfunktioner erbjuder Aspose.Imaging för .NET?
 S5: Aspose.Imaging för .NET tillhandahåller ett brett utbud av funktioner, inklusive storleksändring, beskärning, filtrering och mycket mer. Du kan utforska bibliotekets alla funktioner i dokumentationen.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

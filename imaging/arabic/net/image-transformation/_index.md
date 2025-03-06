@@ -3,10 +3,16 @@ title: أطلق العنان لسحر تحويل الصور باستخدام Asp
 linktitle: تحويل الصورة
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: اكتشف فن تحويل الصور باستخدام Aspose.Imaging for .NET. تعلم كيفية قلب وتدوير صور DICOM بسهولة للتطبيقات الطبية والمزيد.
-type: docs
 weight: 24
 url: /ar/net/image-transformation/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# أطلق العنان لسحر تحويل الصور باستخدام Aspose.Imaging .NET
+
 
 هل أنت مستعد للخوض في عالم تحويل الصور؟ يفتح Aspose.Imaging for .NET الباب أمام معالجة سلسة وفعالة لصور DICOM، المصممة خصيصًا للتطبيقات الطبية وما بعدها. في هذا البرنامج التعليمي الشامل، سنرشدك عبر تقنيتين أساسيتين لتحويل الصور: قلب صور DICOM وتدويرها. 
 
@@ -37,3 +43,9 @@ url: /ar/net/image-transformation/
 ## خاتمة
 
 يمكّنك Aspose.Imaging for .NET من إتقان فن تحويل الصور، مما يجعله أداة لا تقدر بثمن للمحترفين الطبيين والمطورين على حدٍ سواء. سواء كنت بحاجة إلى قلب صور DICOM أو تدويرها، فإن هذا البرنامج التعليمي يقدم رحلة سلسة إلى عالم معالجة الصور. ارفع مستوى تطبيقاتك الطبية ومعالجة الصور باستخدام Aspose.Imaging for .NET اليوم. افتح سحر تحويل الصور الآن!
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

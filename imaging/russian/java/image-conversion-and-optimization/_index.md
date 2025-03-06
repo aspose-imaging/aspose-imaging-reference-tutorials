@@ -3,10 +3,16 @@ title: Преобразование и оптимизация изображен
 linktitle: Преобразование и оптимизация изображений
 second_title: Aspose.Imaging API обработки изображений Java
 description: Ознакомьтесь с учебными пособиями по преобразованию и оптимизации изображений с помощью Aspose.Imaging for Java. Узнайте, как с легкостью конвертировать, улучшать и оптимизировать различные форматы изображений.
-type: docs
 weight: 20
 url: /ru/java/image-conversion-and-optimization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Преобразование и оптимизация изображений
+
 
 # Введение
 
@@ -86,3 +92,9 @@ Aspose.Imaging for Java позволяет конвертировать разл
 Узнайте, как конвертировать растровые изображения в формат TIFF на Java с помощью Aspose.Imaging for Java. Полное руководство по манипулированию изображениями.
 ### [Разделение кадров изображения TIFF](./tiff-image-frame-splitting/)
 Узнайте, как разделить кадры изображений TIFF с помощью Aspose.Imaging для Java. Пошаговое руководство с предварительными условиями, примером кода и часто задаваемыми вопросами для разработчиков.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

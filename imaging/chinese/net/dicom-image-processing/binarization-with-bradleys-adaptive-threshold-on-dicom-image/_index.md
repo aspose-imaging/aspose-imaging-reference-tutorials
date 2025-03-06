@@ -3,10 +3,16 @@ title: 在 Aspose.Imaging for .NET 中使用 Bradley 的自适应阈值对 DICOM
 linktitle: 在 Aspose.Imaging for .NET 中使用 Bradley 的自适应阈值对 DICOM 图像进行二值化
 second_title: Aspose.Imaging .NET 图像处理 API
 description: 了解使用 Aspose.Imaging for .NET 将 Bradley 的自适应阈值应用于 DICOM 图像。通过分步指南，二值化变得容易。
-type: docs
 weight: 14
 url: /zh/net/dicom-image-processing/binarization-with-bradleys-adaptive-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 在 Aspose.Imaging for .NET 中使用 Bradley 的自适应阈值对 DICOM 图像进行二值化
+
 您是否希望使用 Aspose.Imaging for .NET 将 Bradley 的自适应阈值应用于 DICOM 图像？在这个综合教程中，我们将逐步引导您完成该过程。读完本指南后，您将能够有效地对 DICOM 图像执行二值化。我们将涵盖从先决条件到导入命名空间以及将每个示例分解为多个步骤的所有内容。
 
 ## 先决条件
@@ -97,3 +103,9 @@ A2：是的，您可以循环访问多个 DICOM 图像并应用本教程中演�
 ### Q5：如何获得 Aspose.Imaging for .NET 支持？
 
  A5：您可以加入 Aspose 社区并获得其他开发人员的支持[Aspose论坛](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

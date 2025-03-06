@@ -3,10 +3,16 @@ title: Vẽ hình ảnh raster trên WMF trong Aspose.Imaging cho .NET
 linktitle: Vẽ hình ảnh raster trên WMF trong Aspose.Imaging cho .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Tìm hiểu cách vẽ hình ảnh raster trên tài liệu WMF trong .NET bằng Aspose.Imaging. Nâng cao các dự án .NET của bạn bằng lớp phủ hình ảnh sáng tạo.
-type: docs
 weight: 12
 url: /vi/net/vector-image-processing/draw-raster-image-on-wmf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Vẽ hình ảnh raster trên WMF trong Aspose.Imaging cho .NET
+
 
 Trong lĩnh vực phát triển .NET, Aspose.Imaging là một công cụ linh hoạt cho phép các nhà phát triển thao tác và làm việc với hình ảnh ở nhiều định dạng khác nhau. Trong số nhiều khả năng của nó, Aspose.Imaging cung cấp tính năng vẽ hình ảnh raster trên tài liệu Windows Metafile (WMF). Chức năng này cực kỳ có giá trị khi bạn cần phủ hình ảnh lên các tài liệu dựa trên vector, mở ra một thế giới khả năng sáng tạo.
 
@@ -116,3 +122,10 @@ Hãy nhớ lấy thư viện Aspose.Imaging for .NET từ trang web và đảm b
 
 
 Giờ đây, bạn đã có kiến thức để tích hợp liền mạch tính năng vẽ hình ảnh vào các ứng dụng .NET của mình bằng Aspose.Imaging for .NET. Khả năng sáng tạo này mở ra cánh cửa cho vô số khả năng nâng cao dự án của bạn bằng lớp phủ hình ảnh. Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ thêm, vui lòng liên hệ với cộng đồng Aspose.Imaging trên diễn đàn hỗ trợ của họ. Chúc mừng mã hóa!
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

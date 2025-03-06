@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET ile Gri Tonlamalı DICOM Görüntüleri
 linktitle: Aspose.Imaging for .NET'te DICOM'da gri tonlama
 second_title: Aspose.Imaging .NET Görüntü İşleme API'si
 description: Güçlü bir görüntü işleme kütüphanesi olan Aspose.Imaging for .NET ile DICOM görüntülerinde gri tonlama işlemini nasıl gerçekleştireceğinizi öğrenin.
-type: docs
 weight: 24
 url: /tr/net/dicom-image-processing/grayscale-on-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET ile Gri Tonlamalı DICOM Görüntüleri
+
 DICOM formatındaki tıbbi görüntüleme verileriyle çalışıyorsanız ve gri tonlamalı dönüşümler gerçekleştirmeniz gerekiyorsa Aspose.Imaging for .NET güçlü bir çözüm sunar. Bu adım adım eğitimde, Aspose.Imaging'i kullanarak bir DICOM görüntüsünü gri tonlamalı hale getirme sürecinde size yol göstereceğiz. Bu kitaplık, .NET ortamında DICOM da dahil olmak üzere çeşitli görüntü formatlarıyla çalışmanıza olanak tanıyan çok yönlü bir araçtır. Başlayalım!
 
 ## Önkoşullar
@@ -85,3 +91,9 @@ Cevap2: Evet, Aspose.Imaging, tıbbi görüntülemenin ötesinde çeşitli uygul
 ### S5: Aspose.Imaging için nasıl destek alabilirim?
 
  A5: Herhangi bir sorunuz varsa veya yardıma ihtiyacınız varsa, şu adresi ziyaret edebilirsiniz:[Aspose.Görüntüleme forumu](https://forum.aspose.com/) topluluktan yardım istemek veya destek ekibiyle iletişime geçmek için.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: วาดภาพแรสเตอร์บน WMF ใน Aspose.Imagin
 linktitle: วาดภาพแรสเตอร์บน WMF ใน Aspose.Imaging สำหรับ .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: เรียนรู้วิธีการวาดภาพแรสเตอร์บนเอกสาร WMF ใน .NET โดยใช้ Aspose.Imaging ปรับปรุงโครงการ .NET ของคุณด้วยภาพซ้อนทับที่สร้างสรรค์
-type: docs
 weight: 12
 url: /th/net/vector-image-processing/draw-raster-image-on-wmf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# วาดภาพแรสเตอร์บน WMF ใน Aspose.Imaging สำหรับ .NET
+
 
 ในขอบเขตของการพัฒนา .NET Aspose.Imaging ถือเป็นเครื่องมืออเนกประสงค์ที่ช่วยให้นักพัฒนาสามารถจัดการและทำงานกับรูปภาพในรูปแบบต่างๆ ได้ ท่ามกลางความสามารถมากมาย Aspose.Imaging นำเสนอฟีเจอร์การวาดภาพแรสเตอร์บนเอกสาร Windows Metafile (WMF) ฟังก์ชันนี้มีประโยชน์อย่างยิ่งเมื่อคุณต้องการวางซ้อนภาพบนเอกสารแบบเวกเตอร์ เพื่อเปิดโลกแห่งความเป็นไปได้ที่สร้างสรรค์
 
@@ -116,3 +122,10 @@ using (WmfImage resultImage = graphics.EndRecording())
 
 
 ตอนนี้ คุณมีความรู้ในการผสานรวมการวาดภาพเข้ากับแอปพลิเคชัน .NET ของคุณได้อย่างราบรื่นโดยใช้ Aspose.Imaging สำหรับ .NET ความสามารถเชิงสร้างสรรค์นี้เปิดประตูสู่โลกแห่งความเป็นไปได้ในการเพิ่มประสิทธิภาพโครงการของคุณด้วยภาพซ้อนทับ หากคุณมีคำถามหรือต้องการความช่วยเหลือเพิ่มเติม อย่าลังเลที่จะติดต่อชุมชน Aspose.Imaging บนฟอรัมสนับสนุนของพวกเขา ขอให้มีความสุขในการเขียนโค้ด!
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

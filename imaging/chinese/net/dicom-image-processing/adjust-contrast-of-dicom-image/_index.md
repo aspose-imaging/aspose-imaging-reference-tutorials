@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for .NET 进行 DICOM 图像对比度调整
 linktitle: 在 Aspose.Imaging for .NET 中调整 DICOM 图像的对比度
 second_title: Aspose.Imaging .NET 图像处理 API
 description: 使用 Aspose.Imaging for .NET 增强医学图像。通过简单的步骤调整 DICOM 图像对比度。
-type: docs
 weight: 11
 url: /zh/net/dicom-image-processing/adjust-contrast-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for .NET 进行 DICOM 图像对比度调整
+
 在医学成像领域，对图像质量的精确控制至关重要。 Aspose.Imaging for .NET 提供了一个强大的解决方案来轻松操作 DICOM 图像。在本分步教程中，我们将引导您完成使用 Aspose.Imaging for .NET 调整 DICOM 图像对比度的过程。本教程专为那些想要增强医学图像的可见性以用于诊断或研究目的的人而设计。 
 
 ## 先决条件
@@ -112,3 +118,9 @@ A4：是的，Aspose.Imaging for .NET 提供了广泛的图像处理功能，包
 ### Q5：我可以使用 Aspose.Imaging for .NET 进行非医学图像处理吗？
 
 A5：当然！虽然 Aspose.Imaging 在医学图像处理方面具有多种用途，但它也可用于一般图像处理任务。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

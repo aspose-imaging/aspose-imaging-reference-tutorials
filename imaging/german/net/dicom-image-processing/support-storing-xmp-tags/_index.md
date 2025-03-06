@@ -3,10 +3,16 @@ title: Unterstützt das Speichern von XMP-Tags in Aspose.Imaging für .NET
 linktitle: Unterstützt das Speichern von XMP-Tags in Aspose.Imaging für .NET
 second_title: Aspose.Imaging .NET-Bildverarbeitungs-API
 description: Erfahren Sie, wie Sie mit Aspose.Imaging für .NET XMP-Metadaten zu DICOM-Bildern hinzufügen. Optimieren Sie die Bildverwaltung und -organisation mit dieser Schritt-für-Schritt-Anleitung.
-type: docs
 weight: 25
 url: /de/net/dicom-image-processing/support-storing-xmp-tags/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Unterstützt das Speichern von XMP-Tags in Aspose.Imaging für .NET
+
 Aspose.Imaging für .NET ist eine leistungsstarke Bibliothek, die es Ihnen ermöglicht, mit verschiedenen Bildformaten in der .NET-Umgebung zu arbeiten. In diesem Tutorial erfahren Sie, wie Sie das Speichern von XMP-Tags (Extensible Metadata Platform) in Aspose.Imaging für .NET unterstützen. XMP-Tags sind für das Hinzufügen von Metadateninformationen zu Bildern unerlässlich und erleichtern die Organisation und Verwaltung Ihrer digitalen Assets. Wir unterteilen den Prozess in mehrere Schritte, damit Sie besser verstehen, wie Sie dies erreichen.
 
 ## Voraussetzungen
@@ -114,3 +120,10 @@ A3: Absolut. Aspose.Imaging für .NET bietet zahlreiche Funktionen zur Bildbearb
 ### F5: Wie kann ich eine temporäre Lizenz für Aspose.Imaging für .NET erhalten?
 
  A5: Sie können eine temporäre Lizenz für Aspose.Imaging für .NET erhalten, indem Sie hier klicken[dieser Link](https://purchase.aspose.com/temporary-license/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

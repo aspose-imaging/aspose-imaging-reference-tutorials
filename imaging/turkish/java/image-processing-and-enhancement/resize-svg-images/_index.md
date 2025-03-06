@@ -3,10 +3,16 @@ title: Aspose.Imaging for Java ile SVG Görüntülerini Yeniden Boyutlandırın
 linktitle: SVG Resimlerini Yeniden Boyutlandır
 second_title: Aspose.Imaging Java Görüntü İşleme API'si
 description: Aspose.Imaging for Java'yı kullanarak Java'da SVG görüntülerini nasıl yeniden boyutlandıracağınızı öğrenin. Verimli görüntü işleme için adım adım kılavuz.
-type: docs
 weight: 12
 url: /tr/java/image-processing-and-enhancement/resize-svg-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for Java ile SVG Görüntülerini Yeniden Boyutlandırın
+
 Java'yı kullanarak SVG görüntülerini verimli ve etkili bir şekilde yeniden boyutlandırmak mı istiyorsunuz? Aspose.Imaging for Java, bunu başarmanıza yardımcı olacak güçlü bir çözüm sunuyor. Bu kapsamlı kılavuzda, önkoşullardan başlayıp paketleri içe aktararak ve her örneği ayrıntılı adımlara ayırarak süreç boyunca size adım adım yol göstereceğiz.
 
 ## Önkoşullar
@@ -113,3 +119,9 @@ Cevap4: Evet, Aspose.Imaging, görüntü kırpma, döndürme ve farklı formatla
 ### S5: Aspose.Imaging'i ticari projelerde kullanabilir miyim?
 
 C5: Evet, Aspose.Imaging ticari projelerde kullanılabilir. Lisans bilgilerini Aspose web sitesinde bulabilirsiniz.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Convert Raster Images to SVG with Aspose.Imaging for Java
 linktitle: Convert Raster Images to Scalable Vector Graphics
 second_title: Aspose.Imaging Java Image Processing API
 description: Learn how to convert raster images to SVG using Aspose.Imaging for Java. Enhance image quality and scalability effortlessly.
-type: docs
 weight: 13
 url: /java/image-conversion-and-optimization/convert-raster-images-to-scalable-vector-graphics/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Convert Raster Images to SVG with Aspose.Imaging for Java
+
 Are you looking to convert raster images into scalable vector graphics (SVG) using Java? You're in the right place! This step-by-step guide will walk you through the process of using Aspose.Imaging for Java to accomplish this task. By the end of this tutorial, you'll be able to effortlessly transform your raster images into SVG format, enabling scalability and improved image quality.
 
 ## Prerequisites
@@ -108,3 +114,10 @@ A4: For any questions or issues related to Aspose.Imaging for Java, you can visi
 ### Q5: Are there any alternatives to Aspose.Imaging for Java?
 
 A5: Yes, there are other libraries and tools available for image conversion. However, Aspose.Imaging for Java offers a robust and feature-rich solution for image processing and conversion.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Binarización con el umbral adaptativo de Bradley en imágenes DICOM en A
 linktitle: Binarización con el umbral adaptativo de Bradley en imágenes DICOM en Aspose.Imaging para .NET
 second_title: API de procesamiento de imágenes Aspose.Imaging .NET
 description: Aprenda a aplicar el umbral adaptativo de Bradley a imágenes DICOM utilizando Aspose.Imaging para .NET. Binarización simplificada con una guía paso a paso.
-type: docs
 weight: 14
 url: /es/net/dicom-image-processing/binarization-with-bradleys-adaptive-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binarización con el umbral adaptativo de Bradley en imágenes DICOM en Aspose.Imaging para .NET
+
 ¿Está buscando aplicar el umbral adaptativo de Bradley a una imagen DICOM usando Aspose.Imaging para .NET? En este tutorial completo, lo guiaremos a través del proceso paso a paso. Al final de esta guía, podrá realizar la binarización de imágenes DICOM de manera eficiente. Cubriremos todo, desde los requisitos previos hasta la importación de espacios de nombres y dividiremos cada ejemplo en varios pasos.
 
 ## Requisitos previos
@@ -97,3 +103,9 @@ R2: Sí, puede recorrer varias imágenes DICOM y aplicar el proceso de binarizac
 ### P5: ¿Cómo puedo obtener soporte para Aspose.Imaging para .NET?
 
  R5: Puede unirse a la comunidad Aspose y obtener soporte de otros desarrolladores en el[Foro Aspose](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

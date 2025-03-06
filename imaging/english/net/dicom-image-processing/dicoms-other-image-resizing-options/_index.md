@@ -3,10 +3,16 @@ title: DICOM's Other Image Resizing Options in Aspose.Imaging for .NET
 linktitle: DICOM's Other Image Resizing Options in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to resize DICOM images using Aspose.Imaging for .NET. A step-by-step guide for efficient medical image manipulation.
-type: docs
 weight: 20
 url: /net/dicom-image-processing/dicoms-other-image-resizing-options/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# DICOM's Other Image Resizing Options in Aspose.Imaging for .NET
+
 Are you looking to work with DICOM (Digital Imaging and Communications in Medicine) images in your .NET application? Aspose.Imaging for .NET provides a powerful set of tools to manipulate DICOM images efficiently. In this tutorial, we will delve into "DICOM's Other Image Resizing Options" using Aspose.Imaging for .NET. We will cover the prerequisites, import namespaces, and provide a step-by-step guide to help you understand and implement DICOM image resizing effectively.
 
 ## Prerequisites
@@ -107,3 +113,10 @@ A4: Yes, Aspose.Imaging for .NET is commonly used in healthcare applications for
 ### Q5: Can I obtain a temporary license for Aspose.Imaging for .NET?
 w
 A5: Yes, you can obtain a temporary license for testing and evaluation purposes. Visit [Aspose's Temporary License Page](https://purchase.aspose.com/temporary-license/) for more information.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

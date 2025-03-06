@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for Java 进行 DICOM 图像伽玛调整
 linktitle: DICOM 图像伽玛调整
 second_title: Aspose.Imaging Java 图像处理 API
 description: 了解如何使用 Aspose.Imaging for Java 在 Java 中调整 DICOM 图像的伽玛值。通过简单的步骤提高医学图像质量。
-type: docs
 weight: 24
 url: /zh/java/image-processing-and-enhancement/dicom-image-gamma-adjustment/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for Java 进行 DICOM 图像伽玛调整
+
 您是否希望提高 Java 应用程序中 DICOM 图像的质量？ Aspose.Imaging for Java 是一个功能强大且多功能的库，允许您操作和处理图像，包括 DICOM 格式。在本分步教程中，我们将指导您完成使用 Aspose.Imaging for Java 调整 DICOM 图像的伽玛值的过程。 
 
 ## 先决条件
@@ -112,3 +118,9 @@ A4：某些 DICOM 图像可能具有复杂的结构和元数据。确保您充�
 ### Q5：哪里可以找到更多Aspose.Imaging教程和资源？
 
  A5：您可以探索[Aspose.Imaging 文档](https://reference.aspose.com/imaging/java/)获取全面的指南、示例和 API 参考。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

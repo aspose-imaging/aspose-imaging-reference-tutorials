@@ -3,10 +3,16 @@ title: Binarizzazione con soglia Otsu sull'immagine DICOM in Aspose.Imaging per 
 linktitle: Binarizzazione con soglia Otsu sull'immagine DICOM in Aspose.Imaging per .NET
 second_title: Aspose.Imaging API di elaborazione delle immagini .NET
 description: Migliora l'elaborazione delle tue immagini mediche con Aspose.Imaging per .NET. Scopri come eseguire la binarizzazione delle immagini DICOM utilizzando la soglia Otsu.
-type: docs
 weight: 16
 url: /it/net/dicom-image-processing/binarization-with-otsu-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binarizzazione con soglia Otsu sull'immagine DICOM in Aspose.Imaging per .NET
+
 Nel mondo dell'elaborazione e della manipolazione delle immagini, strumenti e librerie efficienti sono essenziali. Aspose.Imaging per .NET è una libreria così potente che consente agli sviluppatori di lavorare con vari formati di immagine, inclusi i file DICOM (Digital Imaging and Communications in Medicine). In questa guida completa, esploreremo il processo di binarizzazione con Otsu Threshold su un'immagine DICOM utilizzando Aspose.Imaging per .NET. Suddivideremo il processo in passaggi facili da seguire, assicurandoti di poter implementare questa funzionalità senza problemi nei tuoi progetti.
 
 ## Prerequisiti
@@ -90,3 +96,9 @@ A4: Per la documentazione, visitare il[Aspose.Imaging per la documentazione .NET
 ### Q5: Posso provare Aspose.Imaging per .NET prima dell'acquisto?
 
  R5: Sì, puoi esplorare le funzionalità di Aspose.Imaging per .NET scaricando una versione di prova gratuita da[questo link](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

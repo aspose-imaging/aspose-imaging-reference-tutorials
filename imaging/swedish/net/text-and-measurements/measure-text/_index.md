@@ -3,10 +3,16 @@ title: Textmätning i bilder med Aspose.Imaging för .NET
 linktitle: Mät text i Aspose.Imaging för .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Mät text i bilder med Aspose.Imaging för .NET. Ett kraftfullt .NET-bibliotek. Exakt och effektiv textmätning.
-type: docs
 weight: 10
 url: /sv/net/text-and-measurements/measure-text/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Textmätning i bilder med Aspose.Imaging för .NET
+
 Om du är en .NET-utvecklare som vill manipulera bilder och mäta text med precision, är Aspose.Imaging för .NET en kraftfull lösning. I den här steg-för-steg-guiden kommer vi att utforska hur man mäter text med Aspose.Imaging. Vi börjar med förutsättningarna och kulminerar i ett praktiskt exempel. Låt oss dyka direkt in!
 
 ## Förutsättningar
@@ -95,3 +101,9 @@ Därefter skapar du ett grafikobjekt, vilket är viktigt för textmätning.
 ### F5: Hur laddar jag ner Aspose.Imaging för .NET?
 
  S5: Du kan ladda ner Aspose.Imaging för .NET från[nedladdningssida](https://releases.aspose.com/imaging/net/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Odwracaj obrazy DICOM za pomocą Aspose.Imaging dla .NET
 linktitle: Odwróć obraz DICOM w Aspose.Imaging dla .NET
 second_title: Aspose.Imaging .NET API przetwarzania obrazu
 description: Dowiedz się, jak odwracać obrazy DICOM za pomocą Aspose.Imaging dla .NET. Łatwa i wydajna manipulacja obrazem do zastosowań medycznych i nie tylko.
-type: docs
 weight: 10
 url: /pl/net/image-transformation/flip-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Odwracaj obrazy DICOM za pomocą Aspose.Imaging dla .NET
+
 ## Wstęp
 
 W świecie tworzenia oprogramowania manipulacja obrazami jest powszechnym i niezbędnym zadaniem. Niezależnie od tego, czy pracujesz nad aplikacją do obrazowania medycznego, czy kreatywnym projektem graficznym, umiejętność odwracania obrazów DICOM jest cenną umiejętnością. Aspose.Imaging dla .NET to potężne narzędzie, które pomoże Ci to osiągnąć bez wysiłku. W tym obszernym przewodniku przeprowadzimy Cię przez proces odwracania obrazów DICOM przy użyciu Aspose.Imaging dla .NET. Omówimy każdy krok, podamy przykłady kodu i zaoferujemy wgląd w wymagania wstępne i przestrzenie nazw, które musisz znać.
@@ -99,3 +105,9 @@ A2: Absolutnie! Aspose.Imaging dla .NET doskonale nadaje się do projektów obra
 
 ### P5: Jakie inne funkcje manipulacji obrazami oferuje Aspose.Imaging dla .NET?
 O5: Aspose.Imaging dla .NET zapewnia szeroką gamę funkcji, w tym zmianę rozmiaru, kadrowanie, filtrowanie i wiele więcej. Pełne możliwości biblioteki można poznać w dokumentacji.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

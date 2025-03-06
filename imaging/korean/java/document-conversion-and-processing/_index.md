@@ -3,10 +3,16 @@ title: 문서 변환 및 처리
 linktitle: 문서 변환 및 처리
 second_title: Aspose.Imaging Java 이미지 처리 API
 description: Aspose.Imaging Java를 사용한 문서 변환 및 처리에 대한 포괄적인 튜토리얼을 살펴보세요. 이 튜토리얼을 통해 이미지 조작 및 변환을 마스터하세요.
-type: docs
 weight: 22
 url: /ko/java/document-conversion-and-processing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 문서 변환 및 처리
+
 
 ## 소개
 
@@ -94,3 +100,9 @@ Aspose.Imaging for Java를 사용하여 이미지를 최적화하고 조작하�
 Aspose.Imaging for Java를 사용하여 TIFF 이미지의 프레임을 다양한 래스터 형식으로 저장하는 방법을 알아보세요. Java 애플리케이션에서 이미지 조작을 강화합니다.
 ### [TIFF 이미지 데이터 복구](./recovering-tiff-image-data/)
 Aspose.Imaging for Java를 사용하여 손상된 TIFF 이미지 데이터를 복구하는 방법을 알아보세요. 이 단계별 가이드를 통해 이미지 무결성을 복원하세요.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

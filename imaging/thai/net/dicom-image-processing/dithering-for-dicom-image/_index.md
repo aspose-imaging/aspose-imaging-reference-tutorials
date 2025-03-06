@@ -3,10 +3,16 @@ title: DICOM Image Dithering ทำได้ง่ายด้วย Aspose.Imag
 linktitle: การแยกส่วนสำหรับอิมเมจ DICOM ใน Aspose.Imaging สำหรับ .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: เรียนรู้วิธีดำเนินการ dithering ตามเกณฑ์บนอิมเมจ DICOM ด้วย Aspose.Imaging สำหรับ .NET เพิ่มคุณภาพของภาพและลดจานสีได้อย่างง่ายดาย
-type: docs
 weight: 22
 url: /th/net/dicom-image-processing/dithering-for-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# DICOM Image Dithering ทำได้ง่ายด้วย Aspose.Imaging สำหรับ .NET
+
 การแยกสีเป็นเทคนิคการประมวลผลภาพขั้นพื้นฐานที่ใช้เพื่อลดจำนวนสีในภาพโดยยังคงรักษาคุณภาพของภาพไว้ ในคำแนะนำทีละขั้นตอนนี้ เราจะสำรวจวิธีการทำ dithering บนอิมเมจ DICOM โดยใช้ Aspose.Imaging สำหรับ .NET ไลบรารีอันทรงพลังนี้มีคุณสมบัติที่หลากหลายสำหรับการจัดการและการประมวลผลภาพ ทำให้เป็นตัวเลือกที่ยอดเยี่ยมสำหรับนักพัฒนาที่ทำงานกับภาพทางการแพทย์ 
 
 ## ข้อกำหนดเบื้องต้น
@@ -92,3 +98,9 @@ A4: ทางเลือกอื่นนอกเหนือจาก Aspose
 ### คำถามที่ 5: ฉันจะได้รับการสนับสนุนสำหรับ Aspose.Imaging สำหรับ .NET ได้อย่างไร
 
  A5: คุณสามารถค้นหาความช่วยเหลือและการสนับสนุนได้ที่[Aspose ฟอรั่มการถ่ายภาพ](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

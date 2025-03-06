@@ -3,10 +3,16 @@ title: Teken rasterafbeeldingen op EMF met Aspose.Imaging voor .NET
 linktitle: Teken een rasterafbeelding op EMF in Aspose.Imaging voor .NET
 second_title: Aspose.Imaging .NET-API voor beeldverwerking
 description: Leer hoe u rasterafbeeldingen tekent op EMF-bestanden met Aspose.Imaging voor .NET. Creëer moeiteloos verbluffende beelden.
-type: docs
 weight: 10
 url: /nl/net/vector-image-processing/draw-raster-image-on-emf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Teken rasterafbeeldingen op EMF met Aspose.Imaging voor .NET
+
 
 ## Invoering
 
@@ -121,3 +127,10 @@ Ja, u kunt naast rasterafbeeldingen ook vectorafbeeldingen en vormen tekenen met
 ### 5. Waar kan ik ondersteuning krijgen voor Aspose.Imaging?
 
  Voor ondersteuning en assistentie kunt u het Aspose.Imaging-forum bezoeken[hier](https://forum.aspose.com/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

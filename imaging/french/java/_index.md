@@ -1,12 +1,17 @@
 ---
 title: Tutoriels de traitement d'images Java avec Aspose.Imaging
 linktitle: Aspose.Imaging pour les didacticiels Java
-type: docs
 weight: 10
 url: /fr/java/
 description: Apprenez la conversion, l'amélioration et le traitement de documents d'images avec Aspose.Imaging pour Java. Optimisez les images sans effort avec nos tutoriels.
-is_root: true
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Tutoriels de traitement d'images Java avec Aspose.Imaging
+
 
 Êtes-vous prêt à plonger dans le monde du traitement d’images avec Java ? Aspose.Imaging est là pour vous guider à travers l'art complexe de la manipulation d'images et de documents. Dans cet article, nous vous ferons voyager à travers le riche trésor des didacticiels Aspose.Imaging pour Java, où vous pourrez explorer les merveilles de la conversion, de l'amélioration et du traitement de documents d'images. Il est temps de libérer tout le potentiel de vos images en toute simplicité !
 
@@ -41,3 +46,9 @@ Découvrez des didacticiels de conversion et d'optimisation d'images à l'aide d
 Explorez des didacticiels complets sur la conversion et le traitement de documents avec Aspose.Imaging Java. Maîtrisez la manipulation et la transformation d’images avec ces tutoriels.
 ### [Gestion des métafichiers et des images vectorielles](./metafile-and-vector-image-handling/)
 Libérez le potentiel d’Aspose.Imaging pour Java avec nos didacticiels étape par étape. Créez des images de métafichiers WMF, gérez facilement les en-têtes BMP et bien plus encore.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

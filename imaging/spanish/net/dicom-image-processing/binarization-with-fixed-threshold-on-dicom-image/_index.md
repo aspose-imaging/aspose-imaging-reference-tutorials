@@ -3,10 +3,16 @@ title: Binarización con umbral fijo en imagen DICOM en Aspose.Imaging para .NET
 linktitle: Binarización con umbral fijo en imagen DICOM en Aspose.Imaging para .NET
 second_title: API de procesamiento de imágenes Aspose.Imaging .NET
 description: Aprenda a realizar la binarización en una imagen DICOM usando Aspose.Imaging para .NET. Guía paso a paso con ejemplos de código.
-type: docs
 weight: 15
 url: /es/net/dicom-image-processing/binarization-with-fixed-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binarización con umbral fijo en imagen DICOM en Aspose.Imaging para .NET
+
 ¿Estás listo para sumergirte en el mundo del procesamiento de imágenes digitales utilizando Aspose.Imaging para .NET? En este tutorial paso a paso, exploraremos cómo realizar la binarización con un umbral fijo en una imagen DICOM. La binarización es una técnica fundamental de procesamiento de imágenes que convierte una imagen en escala de grises en una imagen binaria, lo que la convierte en una herramienta esencial para diversas aplicaciones, desde imágenes médicas hasta análisis de documentos.
 
 ## Requisitos previos
@@ -106,3 +112,10 @@ Sí, Aspose.Imaging ofrece una amplia gama de técnicas de procesamiento de imá
 ### P5: ¿Existe una versión de prueba de Aspose.Imaging para .NET disponible?
 
  Sí, puedes probar Aspose.Imaging para .NET descargando la versión de prueba desde[aquí](https://releases.aspose.com/). Le permite explorar sus características y funcionalidades antes de realizar una compra.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

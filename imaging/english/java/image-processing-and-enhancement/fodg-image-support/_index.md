@@ -3,10 +3,16 @@ title: FODG Image Support with Aspose.Imaging for Java
 linktitle: FODG Image Support
 second_title: Aspose.Imaging Java Image Processing API
 description: Learn how to work FODG Image Support with Aspose.Imaging for Java. A powerful library for image manipulation and conversion.
-type: docs
 weight: 11
 url: /java/image-processing-and-enhancement/fodg-image-support/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# FODG Image Support with Aspose.Imaging for Java
+
 If you're looking to leverage the power of Aspose.Imaging for Java to manipulate and convert images efficiently, you've come to the right place. In this comprehensive tutorial, we will guide you through the process of working with Aspose.Imaging for Java, from the prerequisites to importing packages, and breaking down each example into multiple easy-to-follow steps.
 
 ## Prerequisites
@@ -113,3 +119,10 @@ Aspose.Imaging for Java supports a wide range of image formats, including common
 ### Q5: Is Aspose.Imaging for Java suitable for batch image processing?
 
 Yes, Aspose.Imaging for Java is well-suited for batch image processing. You can use it to automate the manipulation and conversion of multiple images efficiently.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

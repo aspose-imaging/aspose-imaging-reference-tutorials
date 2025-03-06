@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for .NET 在 EMF 上绘制光栅图像
 linktitle: 在 Aspose.Imaging for .NET 中的 EMF 上绘制光栅图像
 second_title: Aspose.Imaging .NET 图像处理 API
 description: 了解如何使用 Aspose.Imaging for .NET 在 EMF 文件上绘制光栅图像。毫不费力地创造令人惊叹的视觉效果。
-type: docs
 weight: 10
 url: /zh/net/vector-image-processing/draw-raster-image-on-emf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for .NET 在 EMF 上绘制光栅图像
+
 
 ## 介绍
 
@@ -121,3 +127,10 @@ using (EmfImage resultImage = graphics.EndRecording())
 ### 5. 从哪里可以获得 Aspose.Imaging 的支持？
 
 如需支持和帮助，您可以访问 Aspose.Imaging 论坛[这里](https://forum.aspose.com/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

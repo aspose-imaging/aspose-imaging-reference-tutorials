@@ -3,10 +3,16 @@ title: รูปภาพ DICOM ระดับสีเทาพร้อม As
 linktitle: ระดับสีเทาบน DICOM ใน Aspose.Imaging สำหรับ .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: เรียนรู้วิธีดำเนินการปรับสีเทาบนอิมเมจ DICOM ด้วย Aspose.Imaging สำหรับ .NET ซึ่งเป็นไลบรารีการประมวลผลรูปภาพอันทรงพลัง
-type: docs
 weight: 24
 url: /th/net/dicom-image-processing/grayscale-on-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# รูปภาพ DICOM ระดับสีเทาพร้อม Aspose.Imaging สำหรับ .NET
+
 หากคุณกำลังทำงานกับข้อมูลภาพทางการแพทย์ในรูปแบบ DICOM และจำเป็นต้องทำการแปลงระดับสีเทา Aspose.Imaging สำหรับ .NET นำเสนอโซลูชันอันทรงพลัง ในบทช่วยสอนแบบทีละขั้นตอนนี้ เราจะแนะนำคุณตลอดขั้นตอนการปรับขนาดรูปภาพ DICOM โดยใช้ Aspose.Imaging ไลบรารีนี้เป็นเครื่องมืออเนกประสงค์ที่ช่วยให้คุณทำงานกับรูปแบบรูปภาพที่หลากหลาย รวมถึง DICOM ในสภาพแวดล้อม .NET มาเริ่มกันเลย!
 
 ## ข้อกำหนดเบื้องต้น
@@ -85,3 +91,9 @@ image.Save(dataDir + "GrayscalingOnDICOM_out.bmp", new BmpOptions());
 ### คำถามที่ 5: ฉันจะรับการสนับสนุนสำหรับ Aspose.Imaging ได้อย่างไร
 
  A5: หากคุณมีคำถามหรือต้องการความช่วยเหลือ คุณสามารถไปที่[Aspose ฟอรั่มการถ่ายภาพ](https://forum.aspose.com/) เพื่อขอความช่วยเหลือจากชุมชนหรือติดต่อทีมสนับสนุนของพวกเขา
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Ekspansi dan Pemangkasan Gambar dengan Aspose.Imaging Java
 linktitle: Ekspansi dan Pemangkasan Gambar
 second_title: Aspose.Imaging API Pemrosesan Gambar Java
 description: Pelajari cara memperluas dan memotong gambar di Java menggunakan Aspose.Imaging. Tingkatkan keterampilan pemrosesan gambar Anda dengan panduan langkah demi langkah ini.
-type: docs
 weight: 11
 url: /id/java/document-conversion-and-processing/image-expansion-and-cropping/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Ekspansi dan Pemangkasan Gambar dengan Aspose.Imaging Java
+
 Dalam dunia konten digital, memanipulasi dan menyempurnakan gambar adalah tugas yang umum, baik Anda seorang pengembang web, desainer grafis, atau pembuat konten. Aspose.Imaging for Java adalah alat canggih yang memungkinkan Anda melakukan berbagai operasi pemrosesan gambar dengan lancar. Dalam panduan langkah demi langkah ini, kami akan memandu Anda melalui proses memperluas dan memotong gambar menggunakan Aspose.Imaging di Java.
 
 ## Prasyarat
@@ -107,3 +113,9 @@ A4: Ya, Aspose.Imaging dapat digunakan dalam proyek komersial, tapi pastikan unt
 ### Q5: Di mana saya dapat menemukan contoh dan sumber daya tambahan untuk Aspose.Imaging untuk Java?
 
  A5: Anda dapat menjelajahi lebih banyak contoh kode dan sumber daya di[dokumentasi](https://reference.aspose.com/imaging/java/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

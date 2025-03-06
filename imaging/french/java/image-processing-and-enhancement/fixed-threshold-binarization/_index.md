@@ -3,10 +3,16 @@ title: Maîtrisez la binarisation à seuil fixe avec Aspose.Imaging pour Java
 linktitle: Binarisation à seuil fixe
 second_title: API de traitement d'images Java Aspose.Imaging
 description: Découvrez comment effectuer une binarisation à seuil fixe sur des images à l'aide d'Aspose.Imaging pour Java.
-type: docs
 weight: 21
 url: /fr/java/image-processing-and-enhancement/fixed-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Maîtrisez la binarisation à seuil fixe avec Aspose.Imaging pour Java
+
 ## Introduction
 
 Dans le domaine de la programmation Java, il existe de nombreux outils et bibliothèques disponibles pour gérer diverses tâches de traitement d'images. Aspose.Imaging pour Java est l'une de ces bibliothèques puissantes et polyvalentes. Que vous soyez un développeur chevronné ou que vous commenciez tout juste votre parcours dans la manipulation d'images, Aspose.Imaging fournit un ensemble robuste de fonctionnalités pour rationaliser vos tâches. Dans ce didacticiel, nous aborderons l'une des techniques fondamentales de traitement d'image - la binarisation à seuil fixe - à l'aide d'Aspose.Imaging pour Java.
@@ -119,3 +125,9 @@ A3 : Oui, il existe des bibliothèques alternatives comme Java Advanced Imaging 
 ### Q5 : Puis-je effectuer d'autres tâches de traitement d'image avec Aspose.Imaging pour Java ?
 
 A5 : Absolument ! Aspose.Imaging for Java offre une large gamme de fonctionnalités de traitement d'image, notamment le redimensionnement, le recadrage, le filtrage, etc.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

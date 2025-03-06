@@ -3,10 +3,16 @@ title: Bildexpansion eller beskärning med Aspose.Imaging för Java
 linktitle: Bildexpansion eller beskärning
 second_title: Aspose.Imaging Java Image Processing API
 description: Lär dig bildexpansion och beskärning i Java med Aspose.Imaging. Steg-för-steg handledning för utvecklare. Förbättra dina färdigheter i bildmanipulation.
-type: docs
 weight: 12
 url: /sv/java/document-conversion-and-processing/image-expansion-or-cropping/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Bildexpansion eller beskärning med Aspose.Imaging för Java
+
 I den digitala medias ständigt föränderliga värld är effektiv bildmanipulation ett grundläggande behov för både företag och privatpersoner. Aspose.Imaging för Java är ett mångsidigt Java-bibliotek som låter dig arbeta med bilder utan ansträngning. I den här omfattande självstudien tar vi dig genom processen för bildexpansion och beskärning med Aspose.Imaging för Java. Oavsett om du är en erfaren utvecklare eller precis har börjat din kodningsresa, kommer vi att dela upp varje steg på ett nybörjarvänligt sätt.
 
 ## Förutsättningar
@@ -101,3 +107,9 @@ S3: Ja, Aspose.Imaging för Java är lämplig för webbapplikationer, och den ka
 ### F5: Finns det en gratis testversion tillgänglig för Aspose.Imaging för Java?
 
  S5: Ja, du kan utforska biblioteket med en gratis provperiod. Ladda ner den från[här](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

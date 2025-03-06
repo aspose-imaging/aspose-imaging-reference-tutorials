@@ -3,10 +3,16 @@ title: Capovolgi le immagini DICOM con Aspose.Imaging per .NET
 linktitle: Capovolgi l'immagine DICOM in Aspose.Imaging per .NET
 second_title: Aspose.Imaging API di elaborazione delle immagini .NET
 description: Scopri come capovolgere le immagini DICOM utilizzando Aspose.Imaging per .NET. Manipolazione delle immagini semplice ed efficiente per applicazioni mediche e altro ancora.
-type: docs
 weight: 10
 url: /it/net/image-transformation/flip-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Capovolgi le immagini DICOM con Aspose.Imaging per .NET
+
 ## introduzione
 
 Nel mondo dello sviluppo software, la manipolazione delle immagini è un compito comune ed essenziale. Che tu stia lavorando su un'applicazione di imaging medicale o su un progetto di progettazione grafica creativa, la capacità di capovolgere le immagini DICOM è un'abilità preziosa. Aspose.Imaging per .NET è un potente strumento che può aiutarti a raggiungere questo obiettivo senza sforzo. In questa guida completa, ti guideremo attraverso il processo di capovolgimento delle immagini DICOM utilizzando Aspose.Imaging per .NET. Analizzeremo ogni passaggio, forniremo esempi di codice e offriremo approfondimenti sui prerequisiti e sugli spazi dei nomi che devi conoscere.
@@ -99,3 +105,9 @@ A2: Assolutamente! Aspose.Imaging per .NET è adatto per progetti di imaging med
 
 ### Q5: Quali altre funzionalità di manipolazione delle immagini offre Aspose.Imaging per .NET?
 A5: Aspose.Imaging per .NET fornisce un'ampia gamma di funzionalità, tra cui ridimensionamento, ritaglio, filtraggio e molto altro. Puoi esplorare tutte le funzionalità della libreria nella documentazione.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

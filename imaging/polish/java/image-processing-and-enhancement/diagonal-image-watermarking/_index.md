@@ -3,10 +3,16 @@ title: Znak wodny obrazu diagonalnego za pomocą Aspose.Imaging dla języka Java
 linktitle: Znak wodny obrazu ukośnego
 second_title: Aspose.Imaging API przetwarzania obrazu Java
 description: Ulepsz swoje obrazy za pomocą ukośnego znaku wodnego za pomocą Aspose.Imaging dla Java. Postępuj zgodnie z tym przewodnikiem krok po kroku i bez wysiłku twórz wspaniałe obrazy ze znakiem wodnym.
-type: docs
 weight: 14
 url: /pl/java/image-processing-and-enhancement/diagonal-image-watermarking/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Znak wodny obrazu diagonalnego za pomocą Aspose.Imaging dla języka Java
+
 
 Jeśli chcesz ulepszyć swoje obrazy za pomocą stylowego, ukośnego znaku wodnego, Aspose.Imaging for Java jest tutaj, aby Ci pomóc. W tym przewodniku krok po kroku przeprowadzimy Cię przez proces dodawania tekstowego znaku wodnego obróconego o 45 stopni do istniejącego obrazu JPG. Aby śledzić dalej, nie musisz być ekspertem w dziedzinie języka Java ani przetwarzania obrazów — podzielimy każdy przykład na wiele kroków, aby zapewnić łatwe osiągnięcie profesjonalnych wyników.
 
@@ -141,3 +147,9 @@ O3: Tak, Aspose.Imaging for Java obsługuje szeroką gamę formatów obrazów, w
 ### P5: Gdzie mogę znaleźć pomoc lub wsparcie dla Aspose.Imaging dla Java?
 
  O5: Jeśli masz jakieś pytania lub potrzebujesz pomocy, odwiedź forum wsparcia Aspose.Imaging for Java[Tutaj](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

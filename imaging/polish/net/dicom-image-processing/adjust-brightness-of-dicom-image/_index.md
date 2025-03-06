@@ -3,10 +3,16 @@ title: Dostosuj jasność obrazu DICOM za pomocą Aspose.Imaging dla .NET
 linktitle: Dostosuj jasność obrazu DICOM w Aspose.Imaging dla .NET
 second_title: Aspose.Imaging .NET API przetwarzania obrazu
 description: Dowiedz się, jak dostosować jasność obrazu DICOM w Aspose.Imaging dla .NET. Z łatwością ulepszaj obrazy medyczne.
-type: docs
 weight: 10
 url: /pl/net/dicom-image-processing/adjust-brightness-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Dostosuj jasność obrazu DICOM za pomocą Aspose.Imaging dla .NET
+
 W świecie obrazowania medycznego obsługa plików DICOM (Digital Imaging and Communications in Medicine) ma ogromne znaczenie. Pliki te zawierają istotne dane medyczne i czasami konieczne jest wprowadzenie zmian w zawartych w nich obrazach, np. zmiana ich jasności. W tym przewodniku krok po kroku pokażemy, jak dostosować jasność obrazu DICOM za pomocą Aspose.Imaging dla .NET.
 
 ## Warunki wstępne
@@ -95,3 +101,9 @@ A4: Możesz uzyskać wsparcie i połączyć się ze społecznością Aspose.Imag
 ### P5: Jakie inne funkcje manipulacji obrazem oferuje Aspose.Imaging?
 
 O5: Aspose.Imaging zapewnia szeroką gamę funkcji do manipulacji obrazami, w tym zmianę rozmiaru, kadrowanie, obracanie i różne opcje filtrowania, co czyni go kompleksowym rozwiązaniem do pracy z obrazami medycznymi.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

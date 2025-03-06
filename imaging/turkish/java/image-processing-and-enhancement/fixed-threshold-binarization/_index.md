@@ -3,10 +3,16 @@ title: Aspose.Imaging for Java ile Sabit Eşik İkilileştirmesinde Ustalaşın
 linktitle: Sabit Eşik İkilileştirme
 second_title: Aspose.Imaging Java Görüntü İşleme API'si
 description: Aspose.Imaging for Java kullanarak görüntüler üzerinde Sabit Eşik İkilileştirme gerçekleştirmeyi öğrenin.
-type: docs
 weight: 21
 url: /tr/java/image-processing-and-enhancement/fixed-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for Java ile Sabit Eşik İkilileştirmesinde Ustalaşın
+
 ## giriiş
 
 Java programlama alanında, çeşitli görüntü işleme görevlerini yerine getirecek çok sayıda araç ve kitaplık bulunmaktadır. Böyle güçlü ve çok yönlü kütüphanelerden biri de Aspose.Imaging for Java'dır. İster deneyimli bir geliştirici olun ister görüntü işleme yolculuğunuza yeni başlıyor olun, Aspose.Imaging görevlerinizi kolaylaştıracak güçlü özellikler sunar. Bu eğitimde Aspose.Imaging for Java'yı kullanarak temel görüntü işleme tekniklerinden biri olan Sabit Eşik İkilileştirme'yi inceleyeceğiz.
@@ -119,3 +125,9 @@ Cevap3: Evet, Java Advanced Imaging (JAI) ve ImageJ gibi alternatif kütüphanel
 ### S5: Aspose.Imaging for Java ile diğer görüntü işleme görevlerini gerçekleştirebilir miyim?
 
 A5: Kesinlikle! Aspose.Imaging for Java, yeniden boyutlandırma, kırpma, filtreleme ve daha fazlasını içeren çok çeşitli görüntü işleme özellikleri sunar.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

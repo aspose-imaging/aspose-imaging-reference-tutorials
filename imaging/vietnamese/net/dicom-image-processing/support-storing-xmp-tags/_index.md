@@ -3,10 +3,16 @@ title: Hỗ trợ lưu trữ thẻ XMP trong Aspose.Imaging cho .NET
 linktitle: Hỗ trợ lưu trữ thẻ XMP trong Aspose.Imaging cho .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Tìm hiểu cách thêm siêu dữ liệu XMP vào hình ảnh DICOM bằng Aspose.Imaging for .NET. Tối ưu hóa việc quản lý và sắp xếp hình ảnh với hướng dẫn từng bước này.
-type: docs
 weight: 25
 url: /vi/net/dicom-image-processing/support-storing-xmp-tags/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Hỗ trợ lưu trữ thẻ XMP trong Aspose.Imaging cho .NET
+
 Aspose.Imaging for .NET là một thư viện mạnh mẽ cho phép bạn làm việc với nhiều định dạng hình ảnh khác nhau trong môi trường .NET. Trong hướng dẫn này, chúng ta sẽ khám phá cách hỗ trợ lưu trữ thẻ XMP (Nền tảng siêu dữ liệu mở rộng) trong Aspose.Imaging cho .NET. Thẻ XMP rất cần thiết để thêm thông tin siêu dữ liệu vào hình ảnh, giúp tổ chức và quản lý nội dung kỹ thuật số của bạn dễ dàng hơn. Chúng tôi sẽ chia quy trình thành nhiều bước để giúp bạn hiểu cách đạt được điều này.
 
 ## Điều kiện tiên quyết
@@ -114,3 +120,10 @@ A3: Chắc chắn rồi. Aspose.Imaging for .NET cung cấp nhiều tính năng 
 ### Câu hỏi 5: Làm cách nào tôi có thể nhận được giấy phép tạm thời cho Aspose.Imaging cho .NET?
 
  Câu trả lời 5: Bạn có thể nhận giấy phép tạm thời cho Aspose.Imaging cho .NET bằng cách truy cập[liên kết này](https://purchase.aspose.com/temporary-license/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

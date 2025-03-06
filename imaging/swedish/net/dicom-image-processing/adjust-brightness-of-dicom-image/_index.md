@@ -3,10 +3,16 @@ title: Justera DICOM-bildens ljusstyrka med Aspose.Imaging för .NET
 linktitle: Justera ljusstyrkan för DICOM-bilden i Aspose.Imaging för .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Lär dig hur du justerar DICOM-bildens ljusstyrka i Aspose.Imaging för .NET. Förbättra medicinska bilder enkelt.
-type: docs
 weight: 10
 url: /sv/net/dicom-image-processing/adjust-brightness-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Justera DICOM-bildens ljusstyrka med Aspose.Imaging för .NET
+
 I världen av medicinsk bildbehandling är hantering av DICOM-filer (Digital Imaging and Communications in Medicine) av yttersta vikt. Dessa filer innehåller viktiga medicinska data, och ibland är det nödvändigt att göra justeringar av bilderna i dem, som att ändra deras ljusstyrka. I den här steg-för-steg-guiden kommer vi att visa dig hur du justerar ljusstyrkan på en DICOM-bild med Aspose.Imaging för .NET.
 
 ## Förutsättningar
@@ -95,3 +101,9 @@ S4: Du kan få support och få kontakt med Aspose.Imaging-communityt på[Aspose 
 ### F5: Vilka andra bildmanipuleringsfunktioner erbjuder Aspose.Imaging?
 
 A5: Aspose.Imaging tillhandahåller ett brett utbud av funktioner för bildmanipulering, inklusive storleksändring, beskärning, rotation och olika filtreringsalternativ, vilket gör det till en heltäckande lösning för att arbeta med medicinska bilder.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Aspose.Imaging for Java를 사용한 이미지 보정 필터 애플리케
 linktitle: 이미지 보정 필터 적용
 second_title: Aspose.Imaging Java 이미지 처리 API
 description: Java용 Aspose.Imaging을 사용하여 이미지를 향상하세요. 보정 필터 적용 및 이미지 품질 최적화에 대한 단계별 가이드입니다.
-type: docs
 weight: 16
 url: /ko/java/image-processing-and-enhancement/image-correction-filter-application/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for Java를 사용한 이미지 보정 필터 애플리케이션
+
 디지털 이미지 영역에서는 이미지 수정 및 향상의 필요성이 항상 존재합니다. 전문 사진작가, 그래픽 디자이너 또는 사진 수정을 즐기는 사람이라면 마음대로 사용할 수 있는 올바른 도구를 갖는 것이 중요합니다. Aspose.Imaging for Java는 이를 달성하는 데 도움이 되는 강력한 라이브러리입니다. 이 단계별 가이드에서는 Aspose.Imaging for Java를 사용하여 이미지 보정 필터를 이미지에 적용하는 과정을 안내합니다.
 
 ## 전제 조건
@@ -129,3 +135,9 @@ A4: 이미지 수정은 사진, 그래픽 디자인, 의료 영상 분야에서 
 ### Q5: Aspose.Imaging for Java를 다른 Java 라이브러리나 프레임워크와 함께 사용할 수 있나요?
 
 A5: 예, Aspose.Imaging for Java는 다른 Java 라이브러리 및 프레임워크와 통합되어 기능을 확장할 수 있습니다.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

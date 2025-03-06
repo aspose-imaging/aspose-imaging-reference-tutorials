@@ -3,10 +3,16 @@ title: DICOM képkontraszt beállítás az Aspose.Imaging segítségével .NET-h
 linktitle: Állítsa be a DICOM-kép kontrasztját az Aspose.Imaging for .NET-ben
 second_title: Aspose.Imaging .NET Image Processing API
 description: Javítsa az orvosi képeket az Aspose.Imaging for .NET segítségével. Állítsa be a DICOM képkontrasztot egyszerű lépésekkel.
-type: docs
 weight: 11
 url: /hu/net/dicom-image-processing/adjust-contrast-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# DICOM képkontraszt beállítás az Aspose.Imaging segítségével .NET-hez
+
 Az orvosi képalkotás világában a képminőség pontos szabályozása a legfontosabb. Az Aspose.Imaging for .NET hatékony megoldást kínál a DICOM-képek egyszerű manipulálására. Ebben a lépésről lépésre bemutatott oktatóanyagban végigvezetjük a DICOM-képek kontrasztjának beállításán az Aspose.Imaging for .NET segítségével. Ez az oktatóanyag azoknak készült, akik szeretnék javítani az orvosi képek láthatóságát diagnosztikai vagy kutatási célból. 
 
 ## Előfeltételek
@@ -112,3 +118,9 @@ A1: A DICOM a Digital Imaging and Communications in Medicine rövidítése. Ez e
 ### 5. kérdés: Használhatom az Aspose.Imaging for .NET programot nem orvosi képfeldolgozásra?
 
 A5: Abszolút! Míg az Aspose.Imaging sokoldalúan használható orvosi képfeldolgozáshoz, általános képkezelési feladatokhoz is használható.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

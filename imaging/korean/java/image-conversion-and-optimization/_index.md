@@ -3,10 +3,16 @@ title: 이미지 변환 및 최적화
 linktitle: 이미지 변환 및 최적화
 second_title: Aspose.Imaging Java 이미지 처리 API
 description: Aspose.Imaging for Java를 사용하여 이미지 변환 및 최적화 튜토리얼을 살펴보세요. 다양한 이미지 형식을 쉽게 변환, 향상 및 최적화하는 방법을 알아보세요.
-type: docs
 weight: 20
 url: /ko/java/image-conversion-and-optimization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 이미지 변환 및 최적화
+
 
 # 소개
 
@@ -86,3 +92,9 @@ Aspose.Imaging for Java를 사용하여 래스터 이미지 프레임 저장 기
 Aspose.Imaging for Java를 사용하여 Java에서 래스터 이미지를 TIFF 형식으로 변환하는 방법을 알아보세요. 이미지 조작에 대한 포괄적인 가이드입니다.
 ### [TIFF 이미지 프레임 분할](./tiff-image-frame-splitting/)
 Java용 Aspose.Imaging을 사용하여 TIFF 이미지 프레임을 분할하는 방법을 알아보세요. 개발자를 위한 필수 구성 요소, 코드 예제 및 FAQ가 포함된 단계별 가이드입니다.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

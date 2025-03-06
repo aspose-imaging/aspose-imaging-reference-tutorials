@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for Java 处理图像中的 XMP 数据
 linktitle: 图像中的 XMP 数据处理
 second_title: Aspose.Imaging Java 图像处理 API
 description: 了解如何使用 Aspose.Imaging for Java 处理图像中的 XMP 元数据。嵌入和检索元数据以增强您的图像文件。
-type: docs
 weight: 16
 url: /zh/java/document-conversion-and-processing/xmp-data-handling-in-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for Java 处理图像中的 XMP 数据
+
 Aspose.Imaging for Java 是一个多功能且功能强大的库，用于处理各种格式的图像。本教程将指导您完成使用 Aspose.Imaging for Java 处理图像中的 XMP（可扩展元数据平台）数据的过程。 XMP 是一种将元数据嵌入图像文件的标准，允许您存储作者、描述等有价值的信息。
 
 ## 先决条件
@@ -228,3 +234,9 @@ try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(),
 }
         
 ```
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

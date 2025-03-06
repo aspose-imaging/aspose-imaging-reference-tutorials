@@ -3,10 +3,16 @@ title: Prise en charge des images FODG avec Aspose.Imaging pour Java
 linktitle: Prise en charge des images FODG
 second_title: API de traitement d'images Java Aspose.Imaging
 description: Apprenez à utiliser la prise en charge des images FODG avec Aspose.Imaging pour Java. Une bibliothèque puissante pour la manipulation et la conversion d'images.
-type: docs
 weight: 11
 url: /fr/java/image-processing-and-enhancement/fodg-image-support/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Prise en charge des images FODG avec Aspose.Imaging pour Java
+
 Si vous souhaitez exploiter la puissance d'Aspose.Imaging for Java pour manipuler et convertir des images efficacement, vous êtes au bon endroit. Dans ce didacticiel complet, nous vous guiderons tout au long du processus d'utilisation d'Aspose.Imaging pour Java, des prérequis à l'importation de packages, en décomposant chaque exemple en plusieurs étapes faciles à suivre.
 
 ## Conditions préalables
@@ -113,3 +119,9 @@ Aspose.Imaging for Java prend en charge un large éventail de formats d'image, y
 ### Q5 : Aspose.Imaging for Java est-il adapté au traitement d'images par lots ?
 
 Oui, Aspose.Imaging for Java est bien adapté au traitement d’images par lots. Vous pouvez l'utiliser pour automatiser efficacement la manipulation et la conversion de plusieurs images.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

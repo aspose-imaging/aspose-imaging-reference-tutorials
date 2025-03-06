@@ -3,10 +3,16 @@ title: توسيع الصورة وقصها باستخدام Aspose.Imaging Java
 linktitle: توسيع الصورة والاقتصاص
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: تعرف على كيفية توسيع الصور واقتصاصها في Java باستخدام Aspose.Imaging. عزز مهارات معالجة الصور لديك باستخدام هذا الدليل المفصّل خطوة بخطوة.
-type: docs
 weight: 11
 url: /ar/java/document-conversion-and-processing/image-expansion-and-cropping/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# توسيع الصورة وقصها باستخدام Aspose.Imaging Java
+
 في عالم المحتوى الرقمي، تعد معالجة الصور وتحسينها مهمة شائعة، سواء كنت مطور ويب، أو مصمم جرافيك، أو منشئ محتوى. Aspose.Imaging for Java هي أداة قوية تسمح لك بإجراء عمليات معالجة الصور المختلفة بسلاسة. في هذا الدليل المفصّل خطوة بخطوة، سنرشدك خلال عملية توسيع الصور واقتصاصها باستخدام Aspose.Imaging في Java.
 
 ## المتطلبات الأساسية
@@ -107,3 +113,9 @@ rasterImage.save("Your Document Directory" + "ExpandandCropImages_out.jpg", new 
 ### س5: أين يمكنني العثور على أمثلة وموارد إضافية لـ Aspose.Imaging for Java؟
 
  ج5: يمكنك استكشاف المزيد من أمثلة التعليمات البرمجية والموارد في ملف[توثيق](https://reference.aspose.com/imaging/java/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

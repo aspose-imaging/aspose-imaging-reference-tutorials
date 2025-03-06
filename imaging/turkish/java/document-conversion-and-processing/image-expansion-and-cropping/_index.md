@@ -3,10 +3,16 @@ title: Aspose.Imaging Java ile Görüntü Genişletme ve Kırpma
 linktitle: Görüntü Genişletme ve Kırpma
 second_title: Aspose.Imaging Java Görüntü İşleme API'si
 description: Aspose.Imaging'i kullanarak Java'da görüntüleri nasıl genişleteceğinizi ve kırpacağınızı öğrenin. Bu adım adım kılavuzla görüntü işleme becerilerinizi geliştirin.
-type: docs
 weight: 11
 url: /tr/java/document-conversion-and-processing/image-expansion-and-cropping/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging Java ile Görüntü Genişletme ve Kırpma
+
 Dijital içerik dünyasında, ister bir web geliştiricisi, ister grafik tasarımcısı, ister içerik yaratıcısı olun, görüntüleri değiştirmek ve geliştirmek ortak bir görevdir. Aspose.Imaging for Java, çeşitli görüntü işleme işlemlerini sorunsuz bir şekilde gerçekleştirmenize olanak tanıyan güçlü bir araçtır. Bu adım adım kılavuzda, Java'da Aspose.Imaging'i kullanarak görüntüleri genişletme ve kırpma sürecinde size yol göstereceğiz.
 
 ## Önkoşullar
@@ -107,3 +113,9 @@ Cevap4: Evet, Aspose.Imaging ticari projelerde kullanılabilir ancak web siteler
 ### S5: Aspose.Imaging for Java için ek örnekleri ve kaynakları nerede bulabilirim?
 
  Cevap5: Daha fazla kod örneğini ve kaynağı inceleyebilirsiniz.[dokümantasyon](https://reference.aspose.com/imaging/java/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

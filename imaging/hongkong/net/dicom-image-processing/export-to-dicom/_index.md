@@ -3,10 +3,16 @@ title: 在 Aspose.Imaging for .NET 中將映像匯出到 DICOM
 linktitle: 在 Aspose.Imaging for .NET 中匯出到 DICOM
 second_title: Aspose.Imaging .NET 映像處理 API
 description: 了解如何使用 Aspose.Imaging 將影像匯出為 .NET 中的 DICOM 格式。輕鬆轉換醫學影像。
-type: docs
 weight: 23
 url: /zh-hant/net/dicom-image-processing/export-to-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 在 Aspose.Imaging for .NET 中將映像匯出到 DICOM
+
 在醫學影像領域，醫學數位影像和通訊 (DICOM) 格式是無可爭議的王者。 DICOM 文件儲存和管理醫學影像及相關訊息，促進不同醫療保健系統之間醫學影像的無縫交換和解釋。如果您希望在 .NET 應用程式中使用 DICOM 文件，那麼您來對地方了。在本教程中，我們將深入研究如何使用 Aspose.Imaging for .NET（一個可簡化流程的強大庫）將圖像匯出到 DICOM。在本指南結束時，您將具備利用 Aspose.Imaging for .NET 潛力並輕鬆建立 DICOM 檔案的知識。
 
 ## 先決條件
@@ -106,3 +112,9 @@ A4：Aspose.Imaging for .NET 可讓您在轉換過程中操作和自訂 DICOM �
 ### Q5：Aspose.Imaging for .NET 有試用版嗎？
 
  A5：是的，您可以存取 Aspose.Imaging for .NET 的免費試用版來評估其功能。您可以下載試用版[這裡](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

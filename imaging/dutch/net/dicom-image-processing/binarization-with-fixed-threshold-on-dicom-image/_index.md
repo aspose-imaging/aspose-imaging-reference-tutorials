@@ -3,10 +3,16 @@ title: Binarisatie met vaste drempel op DICOM-afbeelding in Aspose.Imaging voor 
 linktitle: Binarisatie met vaste drempel op DICOM-afbeelding in Aspose.Imaging voor .NET
 second_title: Aspose.Imaging .NET-API voor beeldverwerking
 description: Leer hoe u binarisatie uitvoert op een DICOM-image met Aspose.Imaging voor .NET. Stapsgewijze handleiding met codevoorbeelden.
-type: docs
 weight: 15
 url: /nl/net/dicom-image-processing/binarization-with-fixed-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binarisatie met vaste drempel op DICOM-afbeelding in Aspose.Imaging voor .NET
+
 Ben je klaar om in de wereld van digitale beeldverwerking te duiken met Aspose.Imaging voor .NET? In deze stapsgewijze zelfstudie onderzoeken we hoe u binarisatie met een vaste drempelwaarde op een DICOM-afbeelding kunt uitvoeren. Binarisatie is een fundamentele beeldverwerkingstechniek die een grijswaardenbeeld omzet in een binair beeld, waardoor het een essentieel hulpmiddel is voor verschillende toepassingen, van medische beeldvorming tot documentanalyse.
 
 ## Vereisten
@@ -106,3 +112,10 @@ Absoluut! Hoewel Aspose.Imaging veel wordt gebruikt in de medische wereld, is he
 ### V5: Is er een proefversie van Aspose.Imaging voor .NET beschikbaar?
 
  Ja, u kunt Aspose.Imaging voor .NET uitproberen door de proefversie te downloaden van[hier](https://releases.aspose.com/). Hiermee kunt u de kenmerken en functionaliteiten verkennen voordat u een aankoop doet.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

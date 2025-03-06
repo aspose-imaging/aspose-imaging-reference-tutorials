@@ -3,10 +3,16 @@ title: Membuat Gambar dengan Aspose.Imaging untuk .NET
 linktitle: Buat Gambar menggunakan Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Pelajari cara membuat gambar dengan Aspose.Imaging untuk .NET dalam tutorial komprehensif ini.
-type: docs
 weight: 10
 url: /id/net/image-creation/create-an-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Membuat Gambar dengan Aspose.Imaging untuk .NET
+
 Di era digital saat ini, membuat dan memanipulasi gambar merupakan kebutuhan umum dalam berbagai aplikasi. Aspose.Imaging for .NET adalah alat canggih yang dapat membantu Anda mencapai tugas ini dengan lancar. Dalam tutorial ini, kami akan memandu Anda melalui proses pembuatan gambar menggunakan Aspose.Imaging untuk .NET. Sebelum kita mendalami langkah-langkahnya, pastikan Anda memiliki semua prasyarat yang ada.
 
 ## Prasyarat
@@ -100,3 +106,9 @@ A2: Ya, Anda dapat membuat gambar dalam berbagai format, termasuk BMP, JPEG, PNG
 ### Q5: Opsi dukungan apa yang tersedia untuk Aspose.Imaging untuk .NET?
 
  A5: Anda dapat mencari dukungan dan mendapatkan jawaban atas pertanyaan Anda di forum komunitas Aspose[Di Sini](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

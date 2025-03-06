@@ -3,10 +3,16 @@ title: Aspose.Imaging for Java を使用したマスター固定しきい値二�
 linktitle: 固定閾値二値化
 second_title: Aspose.Imaging Java 画像処理 API
 description: Aspose.Imaging for Java を使用して画像に対して固定しきい値二値化を実行する方法を学習します。
-type: docs
 weight: 21
 url: /ja/java/image-processing-and-enhancement/fixed-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for Java を使用したマスター固定しきい値二値化
+
 ## 導入
 
 Java プログラミングの分野では、さまざまな画像処理タスクを処理するために利用できるツールやライブラリが数多くあります。このような強力で多用途なライブラリの 1 つが Aspose.Imaging for Java です。経験豊富な開発者でも、画像操作を始めたばかりでも、Aspose.Imaging はタスクを効率化するための堅牢な機能セットを提供します。このチュートリアルでは、Aspose.Imaging for Java を使用した基本的な画像処理技術の 1 つである固定しきい値二値化について詳しく説明します。
@@ -119,3 +125,9 @@ A3: はい、Java Advanced Imaging (JAI) や ImageJ などの代替ライブラ�
 ### Q5: Aspose.Imaging for Java を使用して他の画像処理タスクを実行できますか?
 
 A5：もちろんです！ Aspose.Imaging for Java は、サイズ変更、トリミング、フィルタリングなどを含む幅広い画像処理機能を提供します。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

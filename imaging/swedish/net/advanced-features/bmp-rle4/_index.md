@@ -3,10 +3,16 @@ title: BMP RLE4-komprimering i Aspose.Imaging för .NET Tutorial
 linktitle: BMP RLE4 i Aspose.Imaging för .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Lär dig hur du använder BMP RLE4-komprimering i Aspose.Imaging för .NET. Minska BMP-bildstorleken utan kvalitetsförlust.
-type: docs
 weight: 15
 url: /sv/net/advanced-features/bmp-rle4/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# BMP RLE4-komprimering i Aspose.Imaging för .NET Tutorial
+
 Aspose.Imaging för .NET är ett kraftfullt bibliotek som gör det möjligt för utvecklare att arbeta med olika bildformat, inklusive BMP. I den här handledningen kommer vi att utforska BMP RLE4-komprimeringstekniken och hur man använder den i Aspose.Imaging för .NET. Den här steg-för-steg-guiden leder dig genom processen att arbeta med BMP RLE4-komprimering, från att ställa in miljön till att skapa och spara komprimerade BMP-bilder.
 
 ## Förutsättningar
@@ -112,3 +118,9 @@ S3: Ja, Aspose.Imaging för .NET är kompatibel med både Windows- och .NET Core
 ### F5: Hur kan jag få en tillfällig licens för Aspose.Imaging för .NET?
 
  S5: Du kan få en tillfällig licens för Aspose.Imaging för .NET genom att besöka[sida för tillfällig licens](https://purchase.aspose.com/temporary-license/) på Asposes hemsida.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

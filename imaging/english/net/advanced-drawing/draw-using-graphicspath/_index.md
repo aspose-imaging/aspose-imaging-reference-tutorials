@@ -3,10 +3,16 @@ title: Master Image Drawing with Aspose.Imaging for .NET
 linktitle: Draw Using GraphicsPath in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Create stunning graphics in .NET with Aspose.Imaging. Explore step-by-step tutorials and unlock the power of image processing.
-type: docs
 weight: 11
 url: /net/advanced-drawing/draw-using-graphicspath/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Master Image Drawing with Aspose.Imaging for .NET
+
 In this tutorial, we will explore how to create stunning graphical drawings using Aspose.Imaging for .NET. Aspose.Imaging is a powerful library that provides a wide range of features for working with images and graphics in .NET applications. We will focus on drawing using the GraphicsPath class, breaking down each step to help you create visually appealing graphics with ease.
 
 ## Prerequisites
@@ -121,3 +127,10 @@ A4: Yes, you can try Aspose.Imaging for .NET by downloading a free trial version
 ### Q5: How do I purchase a license for Aspose.Imaging for .NET?
 
 A5: You can purchase a license for Aspose.Imaging for .NET from the website at [this link](https://purchase.aspose.com/buy).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

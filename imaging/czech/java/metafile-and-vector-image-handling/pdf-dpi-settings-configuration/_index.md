@@ -3,10 +3,16 @@ title: Převeďte obrázky do PDF pomocí Aspose.Imaging pro Java
 linktitle: PDF Konfigurace nastavení DPI
 second_title: Aspose.Imaging Java Image Processing API
 description: Naučte se převádět obrázky do PDF pomocí Aspose.Imaging for Java. Podrobný průvodce pro efektivní manipulaci s obrázky.
-type: docs
 weight: 13
 url: /cs/java/metafile-and-vector-image-handling/pdf-dpi-settings-configuration/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Převeďte obrázky do PDF pomocí Aspose.Imaging pro Java
+
 V dnešní digitální době je schopnost manipulovat a převádět obrázky cennou dovedností. Ať už pracujete na projektu grafického designu, archivujete dokumenty nebo prostě potřebujete převést obrázky do dostupnějšího formátu, Aspose.Imaging for Java je výkonné řešení. V tomto podrobném průvodci prozkoumáme, jak převést obrázky do PDF pomocí Aspose.Imaging for Java.
 
 ## Předpoklady
@@ -94,3 +100,9 @@ A4: Aspose.Imaging for Java podporuje širokou škálu obrazových formátů, v�
 ### Otázka 5: Mohu při převodu obrázků dále upravit nastavení PDF?
 
 A5: Rozhodně! Možnosti PDF můžete upravit tak, aby vyhovovaly vašim potřebám, jako je úprava komprese, nastavení metadat a další. Podrobné možnosti naleznete v dokumentaci.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

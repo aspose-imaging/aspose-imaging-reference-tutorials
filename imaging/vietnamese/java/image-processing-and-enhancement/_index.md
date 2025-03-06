@@ -3,10 +3,16 @@ title: Xử lý và nâng cao hình ảnh
 linktitle: Xử lý và nâng cao hình ảnh
 second_title: Aspose.Imaging API xử lý hình ảnh Java
 description: Cải thiện hình ảnh bằng Aspose.Imaging cho Java bằng cách sử dụng hướng dẫn từng bước. Tối ưu hóa việc xử lý tài liệu và chất lượng hình ảnh một cách dễ dàng.
-type: docs
 weight: 21
 url: /vi/java/image-processing-and-enhancement/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Xử lý và nâng cao hình ảnh
+
 ## Giới thiệu 
 Xử lý hình ảnh là một khía cạnh quan trọng của việc tạo nội dung số hiện đại. Trong bài viết này, chúng ta sẽ đi sâu vào thế giới "Hướng dẫn nâng cao và xử lý hình ảnh" bằng Aspose.Imaging cho Java. Cho dù bạn là nhà thiết kế đồ họa, nhiếp ảnh gia hay chỉ là người muốn cải thiện kỹ năng xử lý hình ảnh của mình thì những hướng dẫn này sẽ là ánh sáng dẫn đường cho bạn.
 
@@ -116,3 +122,9 @@ Tìm hiểu cách điều chỉnh độ sáng hình ảnh bằng Aspose.Imaging 
 Tìm hiểu cách áp dụng bộ lọc cho hình ảnh DICOM bằng Aspose.Imaging cho Java. Tăng cường hình ảnh y tế một cách dễ dàng.
 ### [Nhị phân hóa hình ảnh](./bradleys-adaptive-threshold-binarization/)
 Tìm hiểu nhị phân hình ảnh với Aspose.Imaging cho Java. Chuyển đổi hình ảnh DICOM một cách dễ dàng. Khám phá hướng dẫn từng bước với các ví dụ về mã.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

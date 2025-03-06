@@ -3,10 +3,16 @@ title: Cách vẽ hình ảnh raster trên SVG trong Aspose.Imaging cho .NET
 linktitle: Vẽ hình ảnh raster trên SVG trong Aspose.Imaging cho .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Tìm hiểu cách vẽ hình ảnh raster trên SVG bằng Aspose.Imaging for .NET. Nâng cao ứng dụng .NET của bạn bằng hình ảnh động.
-type: docs
 weight: 11
 url: /vi/net/vector-image-processing/draw-raster-image-on-svg/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Cách vẽ hình ảnh raster trên SVG trong Aspose.Imaging cho .NET
+
 
 Trong thế giới lập trình .NET, Aspose.Imaging là một thư viện đáng tin cậy và linh hoạt để xử lý các tác vụ khác nhau liên quan đến hình ảnh. Một khả năng hấp dẫn mà nó mang lại là khả năng vẽ hình ảnh raster trên khung vẽ SVG. Trong hướng dẫn từng bước này, chúng tôi sẽ hướng dẫn bạn quy trình vẽ hình ảnh raster trên SVG bằng Aspose.Imaging for .NET.
 
@@ -100,3 +106,10 @@ Chúc mừng! Bạn đã vẽ thành công hình ảnh raster trên canvas SVG b
     Bạn có thể nhận được giấy phép tạm thời từ[đây](https://purchase.aspose.com/temporary-license/).
 
 
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

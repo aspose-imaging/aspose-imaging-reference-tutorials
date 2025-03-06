@@ -3,10 +3,16 @@ title: .NET용 Aspose.Imaging을 사용하여 DICOM을 PNG로 변환
 linktitle: .NET용 Aspose.Imaging에서 DICOM을 PNG로 변환
 second_title: Aspose.Imaging .NET 이미지 처리 API
 description: .NET용 Aspose.Imaging을 사용하여 DICOM을 PNG로 손쉽게 변환하세요. 의료 이미지 공유를 간소화합니다.
-type: docs
 weight: 21
 url: /ko/net/dicom-image-processing/convert-dicom-to-png/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET용 Aspose.Imaging을 사용하여 DICOM을 PNG로 변환
+
 의료 영상 분야에서 DICOM(Digital Imaging and Communications in Medicine)은 의료 영상을 저장하고 공유하는 데 널리 사용되는 형식입니다. 그러나 DICOM 파일을 PNG와 같은 보다 일반적인 이미지 형식으로 변환해야 하는 경우 .NET용 Aspose.Imaging이 도움이 됩니다. 이 튜토리얼은 .NET용 Aspose.Imaging을 사용하여 DICOM 파일을 PNG로 변환하는 과정을 안내합니다.
 
 ## 전제 조건
@@ -97,3 +103,9 @@ A3: 제한 사항이 있는 경우 DICOM 파일 자체와 선택한 PNG 옵션�
 ### Q5: DICOM 파일을 PNG 이외의 다른 이미지 형식으로 변환할 수 있나요?
 
 A5: 예, .NET용 Aspose.Imaging은 다양한 이미지 형식을 지원합니다. 필요에 따라 DICOM 파일을 JPEG, BMP, TIFF 등과 같은 형식으로 변환할 수 있습니다.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

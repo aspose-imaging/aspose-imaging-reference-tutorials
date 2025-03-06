@@ -1,12 +1,17 @@
 ---
 title: برامج تعليمية شاملة وأمثلة على Aspose.Imaging لـ .NET
 linktitle: Aspose.Imaging لبرامج .NET التعليمية
-type: docs
 weight: 10
 url: /ar/net/
 description: اكتشف قوة Aspose.Imaging for .NET من خلال برامجنا التعليمية المتعمقة. بدءًا من تكوين الصور ووصولاً إلى الميزات المتقدمة، يمكنك تحسين مهاراتك والارتقاء بمستوى معالجة الصور لديك.
-is_root: true
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# برامج تعليمية شاملة وأمثلة على Aspose.Imaging لـ .NET
+
 
 مرحبًا بك في دليلنا الشامل حول Aspose.Imaging لـ .NET! سواء كنت مبتدئًا أو خبيرًا، ستساعدك هذه البرامج التعليمية على إتقان معالجة الصور باستخدام هذه الأداة القوية. بدءًا من تكوين الصورة ووصولاً إلى الميزات المتقدمة، نوفر لك كل ما تحتاجه.
 
@@ -72,3 +77,9 @@ is_root: true
 استكشف سلسلة شاملة من البرامج التعليمية حول معالجة صور DICOM باستخدام Aspose.Imaging for .NET. تعلم كيفية تحسين الصور الطبية دون عناء.
 ### [الخيارات المتقدمة](./advanced-features/)
 احصل على أفضل النتائج من Aspose.Imaging for .NET من خلال برامجنا التعليمية خطوة بخطوة. تعرف على كيفية فتح الخيارات الأصلية والعمل مع الصور دون عناء.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Przycinaj obrazy DICOM za pomocą Aspose.Imaging dla .NET
 linktitle: Kadrowanie DICOM przez przesunięcia w Aspose.Imaging dla .NET
 second_title: Aspose.Imaging .NET API przetwarzania obrazu
 description: Dowiedz się, jak przycinać obrazy DICOM za pomocą Aspose.Imaging dla .NET. Ulepsz przetwarzanie obrazów medycznych dzięki temu przewodnikowi krok po kroku.
-type: docs
 weight: 18
 url: /pl/net/dicom-image-processing/dicom-cropping-by-shifts/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Przycinaj obrazy DICOM za pomocą Aspose.Imaging dla .NET
+
 Kadrowanie obrazów medycznych, zwłaszcza obrazów DICOM, jest kluczowym zadaniem w branży opieki zdrowotnej. Umożliwia pracownikom służby zdrowia skupienie się na określonych obszarach zainteresowań, usuwanie niepożądanych elementów i ulepszanie wizualnej reprezentacji danych diagnostycznych. W tym samouczku przyjrzymy się, jak przycinać obrazy DICOM przy użyciu Aspose.Imaging dla .NET, potężnej biblioteki, która upraszcza zadania przetwarzania obrazów w aplikacjach .NET.
 
 ## Warunki wstępne
@@ -100,3 +106,9 @@ Odpowiedź 2: Tak, Aspose.Imaging dla .NET to wszechstronna biblioteka, która m
 ### P5: Czy mogę używać Aspose.Imaging dla .NET w niemedycznych aplikacjach do przetwarzania obrazów?
 
 A5: Absolutnie! Choć doskonale nadaje się do obrazowania medycznego, Aspose.Imaging dla .NET może być używany do szerokiego zakresu zadań przetwarzania obrazu w różnych dziedzinach.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

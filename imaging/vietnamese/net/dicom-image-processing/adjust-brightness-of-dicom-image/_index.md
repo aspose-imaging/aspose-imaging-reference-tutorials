@@ -3,10 +3,16 @@ title: Điều chỉnh độ sáng hình ảnh DICOM bằng Aspose.Imaging for .
 linktitle: Điều chỉnh độ sáng của hình ảnh DICOM trong Aspose.Imaging for .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Tìm hiểu cách điều chỉnh độ sáng hình ảnh DICOM trong Aspose.Imaging cho .NET. Nâng cao hình ảnh y tế một cách dễ dàng.
-type: docs
 weight: 10
 url: /vi/net/dicom-image-processing/adjust-brightness-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Điều chỉnh độ sáng hình ảnh DICOM bằng Aspose.Imaging for .NET
+
 Trong thế giới hình ảnh y tế, việc xử lý các tệp DICOM (Hình ảnh kỹ thuật số và truyền thông trong y học) là vô cùng quan trọng. Những tệp này chứa dữ liệu y tế quan trọng và đôi khi, cần phải điều chỉnh hình ảnh bên trong chúng, chẳng hạn như thay đổi độ sáng của chúng. Trong hướng dẫn từng bước này, chúng tôi sẽ chỉ cho bạn cách điều chỉnh độ sáng của hình ảnh DICOM bằng Aspose.Imaging for .NET.
 
 ## Điều kiện tiên quyết
@@ -95,3 +101,9 @@ Câu trả lời 4: Bạn có thể nhận hỗ trợ và kết nối với cộ
 ### Câu hỏi 5: Aspose.Imaging cung cấp những tính năng xử lý hình ảnh nào khác?
 
 Câu trả lời 5: Aspose.Imaging cung cấp nhiều tính năng để xử lý hình ảnh, bao gồm thay đổi kích thước, cắt xén, xoay và nhiều tùy chọn lọc khác nhau, khiến nó trở thành giải pháp toàn diện để làm việc với hình ảnh y tế.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

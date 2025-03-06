@@ -3,10 +3,16 @@ title: Podpora ukládání XMP tagů v Aspose.Imaging pro .NET
 linktitle: Podpora ukládání XMP tagů v Aspose.Imaging pro .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Naučte se přidávat metadata XMP do obrázků DICOM pomocí Aspose.Imaging for .NET. Optimalizujte správu a organizaci obrázků pomocí tohoto podrobného průvodce.
-type: docs
 weight: 25
 url: /cs/net/dicom-image-processing/support-storing-xmp-tags/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Podpora ukládání XMP tagů v Aspose.Imaging pro .NET
+
 Aspose.Imaging for .NET je výkonná knihovna, která umožňuje pracovat s různými formáty obrázků v prostředí .NET. V tomto tutoriálu prozkoumáme, jak podporovat ukládání značek XMP (Extensible Metadata Platform) v Aspose.Imaging pro .NET. Značky XMP jsou nezbytné pro přidávání informací o metadatech do obrázků, což usnadňuje organizaci a správu vašich digitálních aktiv. Tento proces rozdělíme do několika kroků, abychom vám pomohli pochopit, jak toho dosáhnout.
 
 ## Předpoklady
@@ -114,3 +120,10 @@ A3: Rozhodně. Aspose.Imaging for .NET poskytuje širokou škálu funkcí pro ma
 ### Q5: Jak mohu získat dočasnou licenci pro Aspose.Imaging pro .NET?
 
  A5: Můžete získat dočasnou licenci pro Aspose.Imaging pro .NET návštěvou[tento odkaz](https://purchase.aspose.com/temporary-license/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

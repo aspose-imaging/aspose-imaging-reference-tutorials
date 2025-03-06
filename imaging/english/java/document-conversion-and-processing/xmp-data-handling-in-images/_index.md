@@ -3,10 +3,16 @@ title: XMP Data Handling in Images with Aspose.Imaging for Java
 linktitle: XMP Data Handling in Images
 second_title: Aspose.Imaging Java Image Processing API
 description: Learn how to handle XMP metadata in images using Aspose.Imaging for Java. Embed and retrieve metadata to enhance your image files.
-type: docs
 weight: 16
 url: /java/document-conversion-and-processing/xmp-data-handling-in-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# XMP Data Handling in Images with Aspose.Imaging for Java
+
 Aspose.Imaging for Java is a versatile and powerful library for working with images in various formats. This tutorial will guide you through the process of handling XMP (Extensible Metadata Platform) data in images using Aspose.Imaging for Java. XMP is a standard for embedding metadata into image files, allowing you to store valuable information like author, description, and more.
 
 ## Prerequisites
@@ -228,3 +234,10 @@ try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(),
 }
         
 ```
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

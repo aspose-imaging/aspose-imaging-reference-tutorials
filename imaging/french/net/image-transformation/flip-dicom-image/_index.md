@@ -3,10 +3,16 @@ title: Retourner les images DICOM avec Aspose.Imaging pour .NET
 linktitle: Retourner l'image DICOM dans Aspose.Imaging pour .NET
 second_title: API de traitement d'images Aspose.Imaging .NET
 description: Découvrez comment retourner des images DICOM à l'aide d'Aspose.Imaging pour .NET. Manipulation d’images simple et efficace pour les applications médicales et plus encore.
-type: docs
 weight: 10
 url: /fr/net/image-transformation/flip-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Retourner les images DICOM avec Aspose.Imaging pour .NET
+
 ## Introduction
 
 Dans le monde du développement logiciel, la manipulation d’images est une tâche courante et essentielle. Que vous travailliez sur une application d'imagerie médicale ou sur un projet de conception graphique créative, la capacité de retourner des images DICOM est une compétence précieuse. Aspose.Imaging for .NET est un outil puissant qui peut vous aider à y parvenir sans effort. Dans ce guide complet, nous vous guiderons tout au long du processus de retournement d'images DICOM à l'aide d'Aspose.Imaging pour .NET. Nous détaillerons chaque étape, fournirons des exemples de code et offrirons des informations sur les prérequis et les espaces de noms que vous devez connaître.
@@ -99,3 +105,9 @@ A2 : Absolument ! Aspose.Imaging for .NET est bien adapté aux projets d'imageri
 
 ### Q5 : Quelles autres fonctionnalités de manipulation d’images Aspose.Imaging for .NET propose-t-il ?
 A5 : Aspose.Imaging pour .NET offre un large éventail de fonctionnalités, notamment le redimensionnement, le recadrage, le filtrage et bien plus encore. Vous pouvez explorer toutes les fonctionnalités de la bibliothèque dans la documentation.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: إنشاء الصور باستخدام Aspose.Imaging لـ .NET
 linktitle: قم بإنشاء صورة باستخدام Aspose.Imaging لـ .NET
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: تعرف على كيفية إنشاء الصور باستخدام Aspose.Imaging لـ .NET في هذا البرنامج التعليمي الشامل.
-type: docs
 weight: 10
 url: /ar/net/image-creation/create-an-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# إنشاء الصور باستخدام Aspose.Imaging لـ .NET
+
 في العصر الرقمي الحالي، يعد إنشاء الصور ومعالجتها متطلبًا شائعًا لمختلف التطبيقات. يعد Aspose.Imaging for .NET أداة قوية يمكنها مساعدتك في تحقيق هذه المهمة بسلاسة. في هذا البرنامج التعليمي، سنرشدك خلال عملية إنشاء صورة باستخدام Aspose.Imaging for .NET. قبل أن نتعمق في الخطوات، دعنا نتأكد من توفر جميع المتطلبات الأساسية لديك.
 
 ## المتطلبات الأساسية
@@ -100,3 +106,9 @@ using (Image image = Image.Create(ImageOptions, 500, 500))
 ### س5: ما هي خيارات الدعم المتوفرة لـ Aspose.Imaging for .NET؟
 
  ج5: يمكنك طلب الدعم والحصول على إجابات لأسئلتك في منتدى مجتمع Aspose[هنا](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

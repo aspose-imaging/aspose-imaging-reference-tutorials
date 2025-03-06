@@ -3,10 +3,16 @@ title: Nhị phân hóa với ngưỡng Otsu trên hình ảnh DICOM trong Aspos
 linktitle: Nhị phân hóa với ngưỡng Otsu trên hình ảnh DICOM trong Aspose.Imaging for .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Nâng cao khả năng xử lý hình ảnh y tế của bạn với Aspose.Imaging for .NET. Tìm hiểu cách thực hiện nhị phân hóa hình ảnh DICOM bằng Ngưỡng Otsu.
-type: docs
 weight: 16
 url: /vi/net/dicom-image-processing/binarization-with-otsu-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Nhị phân hóa với ngưỡng Otsu trên hình ảnh DICOM trong Aspose.Imaging for .NET
+
 Trong thế giới xử lý và thao tác hình ảnh, các công cụ và thư viện hiệu quả là rất cần thiết. Aspose.Imaging for .NET là một trong những thư viện mạnh mẽ cho phép các nhà phát triển làm việc với nhiều định dạng hình ảnh khác nhau, bao gồm các tệp DICOM (Hình ảnh kỹ thuật số và Truyền thông trong Y học). Trong hướng dẫn toàn diện này, chúng ta sẽ khám phá quá trình nhị phân hóa với Ngưỡng Otsu trên hình ảnh DICOM bằng Aspose.Imaging for .NET. Chúng tôi sẽ chia quy trình thành các bước dễ thực hiện để đảm bảo rằng bạn có thể triển khai tính năng này một cách liền mạch trong các dự án của mình.
 
 ## Điều kiện tiên quyết
@@ -90,3 +96,9 @@ A4: Để có tài liệu, hãy truy cập[Aspose.Imaging cho tài liệu .NET](
 ### Câu hỏi 5: Tôi có thể dùng thử Aspose.Imaging cho .NET trước khi mua không?
 
  Câu trả lời 5: Có, bạn có thể khám phá các khả năng của Aspose.Imaging dành cho .NET bằng cách tải xuống bản dùng thử miễn phí từ[liên kết này](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

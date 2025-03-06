@@ -3,10 +3,16 @@ title: Nhị phân hóa hình ảnh với Aspose.Imaging cho Java
 linktitle: Sự nhị phân ngưỡng thích ứng của Bradley
 second_title: Aspose.Imaging API xử lý hình ảnh Java
 description: Tìm hiểu nhị phân hình ảnh với Aspose.Imaging cho Java. Chuyển đổi hình ảnh DICOM một cách dễ dàng. Khám phá hướng dẫn từng bước với các ví dụ về mã.
-type: docs
 weight: 27
 url: /vi/java/image-processing-and-enhancement/bradleys-adaptive-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Nhị phân hóa hình ảnh với Aspose.Imaging cho Java
+
 Hình ảnh đóng một vai trò quan trọng trong thế giới kỹ thuật số, cho dù trên trang web, trong tài liệu hay là một phần của nhiều ứng dụng khác nhau. Xử lý ảnh là một nhiệm vụ thiết yếu trong các lĩnh vực này và một trong những hoạt động cơ bản là nhị phân hóa ảnh. Quá trình nhị phân hóa đơn giản hóa hình ảnh bằng cách chuyển đổi nó thành dạng nhị phân, giúp máy tính xử lý dễ dàng hơn. Aspose.Imaging cho Java là một công cụ mạnh mẽ cung cấp nhiều tính năng xử lý hình ảnh và trong hướng dẫn này, chúng ta sẽ khám phá cách thực hiện nhị phân hóa hình ảnh bằng cách sử dụng Bradley's Adaptive Threshold Binarization của Aspose.Imaging. 
 
 ## Điều kiện tiên quyết
@@ -111,3 +117,9 @@ Câu trả lời 1: DICOM là viết tắt của Hình ảnh Kỹ thuật số v
 ### Câu hỏi 5: Aspose.Imaging cho Java có phù hợp để xử lý hình ảnh trong các ứng dụng dựa trên Java khác không?
 
 Câu trả lời 5: Có, Aspose.Imaging for Java rất linh hoạt và có thể được sử dụng trong nhiều ứng dụng dựa trên Java khác nhau, bao gồm các ứng dụng web, phần mềm máy tính để bàn, v.v.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

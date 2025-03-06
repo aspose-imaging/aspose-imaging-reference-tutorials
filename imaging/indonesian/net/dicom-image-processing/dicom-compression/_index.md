@@ -3,10 +3,16 @@ title: Kompresi DICOM di Aspose.Imaging untuk .NET
 linktitle: Kompresi DICOM di Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Pelajari cara melakukan kompresi DICOM menggunakan Aspose.Imaging untuk .NET. Ikuti panduan langkah demi langkah ini untuk menyimpan dan mengirimkan gambar medis secara efisien dengan kualitas diagnostik tinggi.
-type: docs
 weight: 17
 url: /id/net/dicom-image-processing/dicom-compression/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Kompresi DICOM di Aspose.Imaging untuk .NET
+
 Dalam dunia pencitraan medis, standar DICOM (Digital Imaging and Communications in Medicine) sangat penting untuk menyimpan dan berbagi gambar medis. Aspose.Imaging for .NET, perpustakaan .NET yang kuat, memberikan dukungan komprehensif untuk bekerja dengan gambar DICOM. Tutorial ini akan memandu Anda melalui proses kompresi DICOM menggunakan Aspose.Imaging untuk .NET. Kami akan menguraikan setiap langkah dan menjelaskan prosesnya secara detail.
 
 ## Prasyarat
@@ -151,3 +157,9 @@ A3: Ya, Aspose.Imaging for .NET menyediakan berbagai kemampuan pemrosesan gambar
 ### Q5: Apakah ada versi uji coba Aspose.Imaging untuk .NET yang tersedia untuk pengujian?
 
  A5: Ya, Anda bisa mendapatkan a[lisensi uji coba gratis](https://releases.aspose.com/) untuk menguji Aspose.Imaging untuk .NET sebelum melakukan pembelian.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

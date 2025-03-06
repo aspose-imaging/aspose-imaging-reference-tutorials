@@ -3,10 +3,16 @@ title: Crop DICOM Images with Aspose.Imaging for .NET
 linktitle: DICOM Cropping by Shifts in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to crop DICOM images with Aspose.Imaging for .NET. Enhance medical image processing with this step-by-step guide.
-type: docs
 weight: 18
 url: /net/dicom-image-processing/dicom-cropping-by-shifts/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Crop DICOM Images with Aspose.Imaging for .NET
+
 Cropping medical images, particularly DICOM images, is a crucial task in the healthcare industry. It allows healthcare professionals to focus on specific areas of interest, remove unwanted elements, and enhance the visual representation of diagnostic data. In this tutorial, we will explore how to crop DICOM images using Aspose.Imaging for .NET, a powerful library that simplifies image processing tasks in .NET applications.
 
 ## Prerequisites
@@ -100,3 +106,10 @@ A4: You can seek support and join discussions on Aspose.Imaging for .NET at the 
 ### Q5: Can I use Aspose.Imaging for .NET in non-medical image processing applications?
 
 A5: Absolutely! While it's great for medical imaging, Aspose.Imaging for .NET can be used for a wide range of image processing tasks in various domains.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

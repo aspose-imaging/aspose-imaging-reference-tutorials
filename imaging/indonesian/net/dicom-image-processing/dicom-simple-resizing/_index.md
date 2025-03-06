@@ -3,10 +3,16 @@ title: Ubah ukuran Gambar DICOM dengan Aspose.Imaging untuk .NET
 linktitle: DICOM Mengubah Ukuran Sederhana di Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Pelajari cara mengubah ukuran gambar DICOM menggunakan Aspose.Imaging for .NET, alat canggih untuk pemrosesan gambar medis. Langkah sederhana untuk hasil yang presisi.
-type: docs
 weight: 19
 url: /id/net/dicom-image-processing/dicom-simple-resizing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Ubah ukuran Gambar DICOM dengan Aspose.Imaging untuk .NET
+
 Dalam bidang pencitraan medis yang terus berkembang, kebutuhan akan fleksibilitas dan presisi dalam menangani file DICOM (Digital Imaging and Communications in Medicine) adalah hal yang terpenting. Aspose.Imaging for .NET muncul sebagai solusi ampuh, menawarkan seperangkat alat komprehensif untuk bekerja dengan gambar medis. Dalam tutorial ini, kita akan menjelajahi proses langsung mengubah ukuran gambar DICOM menggunakan Aspose.Imaging untuk .NET. 
 
 ## Prasyarat
@@ -114,3 +120,9 @@ A4: Aspose.Imaging untuk .NET kompatibel dengan berbagai versi .NET Framework, t
 ### Q5: Di mana saya dapat menemukan tutorial Aspose.Imaging untuk .NET lainnya?
 
  A5: Anda dapat menjelajahi[Aspose.Imaging untuk dokumentasi .NET](https://reference.aspose.com/imaging/net/) untuk berbagai tutorial dan contoh.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

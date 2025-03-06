@@ -3,10 +3,16 @@ title: Dibujar una imagen rasterizada en WMF en Aspose.Imaging para .NET
 linktitle: Dibujar una imagen rasterizada en WMF en Aspose.Imaging para .NET
 second_title: API de procesamiento de imágenes Aspose.Imaging .NET
 description: Aprenda a dibujar imágenes rasterizadas en documentos WMF en .NET usando Aspose.Imaging. Mejore sus proyectos .NET con superposiciones de imágenes creativas.
-type: docs
 weight: 12
 url: /es/net/vector-image-processing/draw-raster-image-on-wmf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Dibujar una imagen rasterizada en WMF en Aspose.Imaging para .NET
+
 
 En el ámbito del desarrollo .NET, Aspose.Imaging se presenta como una herramienta versátil que permite a los desarrolladores manipular y trabajar con imágenes en varios formatos. Entre sus muchas capacidades, Aspose.Imaging ofrece la función de dibujar imágenes rasterizadas en documentos de metarchivo de Windows (WMF). Esta funcionalidad es extremadamente valiosa cuando necesitas superponer imágenes en documentos basados en vectores, abriendo un mundo de posibilidades creativas.
 
@@ -116,3 +122,10 @@ Recuerde obtener la biblioteca Aspose.Imaging para .NET del sitio web y asegúre
 
 
 Ahora tiene el conocimiento para integrar perfectamente el dibujo de imágenes en sus aplicaciones .NET utilizando Aspose.Imaging para .NET. Esta capacidad creativa abre la puerta a un mundo de posibilidades para mejorar sus proyectos con superposiciones de imágenes. Si tiene alguna pregunta o necesita más ayuda, no dude en comunicarse con la comunidad Aspose.Imaging en su foro de soporte. ¡Feliz codificación!
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

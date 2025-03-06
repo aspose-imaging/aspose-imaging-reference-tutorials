@@ -3,10 +3,16 @@ title: Łatwe przetwarzanie obrazu za pomocą Aspose.Imaging dla Java
 linktitle: Obsługa formatu plików OTG
 second_title: Aspose.Imaging API przetwarzania obrazu Java
 description: Dowiedz się, jak wykorzystać możliwości Aspose.Imaging dla języka Java, korzystając z tego przewodnika krok po kroku. Z łatwością optymalizuj przetwarzanie obrazu.
-type: docs
 weight: 14
 url: /pl/java/metafile-and-vector-image-handling/otg-file-format-support/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Łatwe przetwarzanie obrazu za pomocą Aspose.Imaging dla Java
+
 Czy chcesz wykorzystać moc Aspose.Imaging dla Java, aby z łatwością obsługiwać zadania związane z obrazami? Nie szukaj dalej! W tym obszernym przewodniku przeprowadzimy Cię przez niezbędne kroki, aby rozpocząć pracę z Aspose.Imaging dla Java, od wymagań wstępnych po importowanie pakietów i omówienie przykładów. Zagłębmy się w szczegóły i odblokujmy potencjał tej wszechstronnej biblioteki Java.
 
 ## Warunki wstępne
@@ -136,3 +142,9 @@ A4: Możesz nabyć tymczasową licencję na Aspose.Imaging dla Java, odwiedzają
 ### P5: Gdzie mogę uzyskać wsparcie i pomoc dotyczącą Aspose.Imaging for Java?
 
  O5: Jeśli masz jakieś pytania lub napotkasz problemy, możesz odwiedzić forum wsparcia Aspose.Imaging for Java pod adresem[Forum Aspose](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

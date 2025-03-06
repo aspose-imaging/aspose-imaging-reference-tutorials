@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for Java 掌握固定閾值二值化
 linktitle: 固定閾值二值化
 second_title: Aspose.Imaging Java 圖像處理 API
 description: 了解如何使用 Aspose.Imaging for Java 對影像執行固定閾值二值化。
-type: docs
 weight: 21
 url: /zh-hant/java/image-processing-and-enhancement/fixed-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for Java 掌握固定閾值二值化
+
 ## 介紹
 
 在 Java 程式設計領域，有許多工具和函式庫可用於處理各種影像處理任務。 Aspose.Imaging for Java 就是這樣一個強大且多功能的函式庫。無論您是經驗豐富的開發人員還是剛開始影像處理之旅，Aspose.Imaging 都提供了一組強大的功能來簡化您的任務。在本教程中，我們將使用 Aspose.Imaging for Java 深入研究基本影像處理技術之一 - 固定閾值二值化。
@@ -119,3 +125,9 @@ A3：是的，還有 Java Advanced Imaging (JAI) 和 ImageJ 等替代庫，但 A
 ### Q5：我可以使用 Aspose.Imaging for Java 執行其他影像處理任務嗎？
 
 A5：當然！ Aspose.Imaging for Java 提供了廣泛的影像處理功能，包括調整大小、裁剪、過濾等。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

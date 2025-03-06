@@ -3,10 +3,16 @@ title: Aspose.Imaging for Java による BMP ヘッダーのサポート
 linktitle: BMP ヘッダーのサポート
 second_title: Aspose.Imaging Java 画像処理 API
 description: Aspose.Imaging for Java を BMP ヘッダーに簡単に使用する方法を学びましょう。パッケージをインポートし、イメージをロードし、さまざまな形式で段階的に保存します。
-type: docs
 weight: 11
 url: /ja/java/metafile-and-vector-image-handling/bmp-header-support/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for Java による BMP ヘッダーのサポート
+
 ## 導入
 
 Aspose.Imaging for Java は、BMP、PNG、JPEG などのさまざまな画像形式を処理するための幅広い機能を提供する強力な Java ライブラリです。このステップバイステップ ガイドでは、Aspose.Imaging for Java を使用して BMP イメージの基本操作を実行する方法を説明します。プロセスを明確に理解できるように、前提条件を説明し、パッケージをインポートし、各例を複数のステップに分けて説明します。
@@ -99,3 +105,9 @@ A4: Aspose.Imaging は、JPEG、TIFF、GIF などを含むさまざまな画像�
 ### Q5: Aspose.Imaging の一時ライセンスを取得するにはどうすればよいですか?
 
  A5: テストおよび開発目的の一時ライセンスは、以下から取得できます。[ここ](https://purchase.aspose.com/temporary-license/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET での四角形の描画
 linktitle: Aspose.Imaging for .NET で四角形を描画する
 second_title: Aspose.Imaging .NET 画像処理 API
 description: Aspose.Imaging for .NET で四角形を描画する方法を学びます。これは、.NET アプリケーションで画像を操作するための多用途ツールです。
-type: docs
 weight: 14
 url: /ja/net/basic-drawing/draw-rectangle/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET での四角形の描画
+
 .NET アプリケーションでのイメージの作成と操作は複雑なタスクになることがありますが、Aspose.Imaging for .NET の機能を使用すると、それが非常に簡単になります。このステップバイステップ ガイドでは、Aspose.Imaging for .NET を使用して四角形を描画するプロセスを順を追って説明します。画像の作成、そのプロパティの設定、長方形の描画、作業内容の保存の方法を学びます。飛び込んでみましょう！
 
 ## 前提条件
@@ -104,3 +110,9 @@ A4: はい。Aspose.Imaging for .NET は、画像のサイズ変更や回転な�
 ### Q5: Aspose.Imaging for .NET のその他のリソースとサポートはどこで入手できますか?
 
  A5: ドキュメントにアクセスできます。[ここ](https://reference.aspose.com/imaging/net/)そして、[Aspose.Imaging フォーラム](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

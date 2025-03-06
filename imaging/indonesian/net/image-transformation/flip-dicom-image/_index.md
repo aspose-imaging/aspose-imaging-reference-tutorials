@@ -3,10 +3,16 @@ title: Balik Gambar DICOM dengan Aspose.Imaging untuk .NET
 linktitle: Balik Gambar DICOM di Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Pelajari cara membalik gambar DICOM menggunakan Aspose.Imaging untuk .NET. Manipulasi gambar yang mudah dan efisien untuk aplikasi medis dan banyak lagi.
-type: docs
 weight: 10
 url: /id/net/image-transformation/flip-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Balik Gambar DICOM dengan Aspose.Imaging untuk .NET
+
 ## Perkenalan
 
 Dalam dunia pengembangan perangkat lunak, manipulasi gambar adalah tugas yang umum dan penting. Baik Anda sedang mengerjakan aplikasi pencitraan medis atau proyek desain grafis kreatif, kemampuan membalik gambar DICOM adalah keterampilan yang berharga. Aspose.Imaging for .NET adalah alat canggih yang dapat membantu Anda mencapai hal ini dengan mudah. Dalam panduan komprehensif ini, kami akan memandu Anda melalui proses membalik gambar DICOM menggunakan Aspose.Imaging untuk .NET. Kami akan menguraikan setiap langkah, memberikan contoh kode, dan menawarkan wawasan tentang prasyarat dan namespace yang perlu Anda ketahui.
@@ -99,3 +105,9 @@ A2: Tentu saja! Aspose.Imaging for .NET sangat cocok untuk proyek pencitraan med
 
 ### Q5: Fitur manipulasi gambar apa lagi yang ditawarkan Aspose.Imaging for .NET?
 A5: Aspose.Imaging for .NET menyediakan berbagai fitur, termasuk mengubah ukuran, memotong, memfilter, dan banyak lagi. Anda dapat menjelajahi kemampuan penuh perpustakaan di dokumentasi.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

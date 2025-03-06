@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET'te DICOM Görüntüsünde Sabit Eşik ile İkilil
 linktitle: Aspose.Imaging for .NET'te DICOM Görüntüsünde Sabit Eşik ile İkilileştirme
 second_title: Aspose.Imaging .NET Görüntü İşleme API'si
 description: Aspose.Imaging for .NET kullanarak bir DICOM görüntüsü üzerinde ikilileştirmenin nasıl gerçekleştirileceğini öğrenin. Kod örnekleri içeren adım adım kılavuz.
-type: docs
 weight: 15
 url: /tr/net/dicom-image-processing/binarization-with-fixed-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET'te DICOM Görüntüsünde Sabit Eşik ile İkilileştirme
+
 Aspose.Imaging for .NET'i kullanarak dijital görüntü işleme dünyasına dalmaya hazır mısınız? Bu adım adım eğitimde, bir DICOM görüntüsünde sabit bir eşikle ikilileştirmenin nasıl gerçekleştirileceğini keşfedeceğiz. İkilileştirme, gri tonlamalı bir görüntüyü ikili bir görüntüye dönüştüren temel bir görüntü işleme tekniğidir; bu da onu tıbbi görüntülemeden belge analizine kadar çeşitli uygulamalar için önemli bir araç haline getirir.
 
 ## Önkoşullar
@@ -106,3 +112,10 @@ Kesinlikle! Aspose.Imaging yaygın olarak tıp alanında kullanılsa da, sağlı
 ### S5: Aspose.Imaging for .NET'in deneme sürümü mevcut mu?
 
  Evet, Aspose.Imaging for .NET'in deneme sürümünü adresinden indirerek deneyebilirsiniz.[Burada](https://releases.aspose.com/). Bir satın alma işlemi yapmadan önce özelliklerini ve işlevlerini keşfetmenize olanak tanır.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

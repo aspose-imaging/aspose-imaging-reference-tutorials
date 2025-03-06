@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for .NET 调整 DICOM 图像伽玛
 linktitle: 在 Aspose.Imaging for .NET 中调整 DICOM 图像的 Gamma
 second_title: Aspose.Imaging .NET 图像处理 API
 description: 了解如何使用 Aspose.Imaging for .NET 调整 DICOM 图像中的伽玛值。通过简单的步骤提高医学图像质量。
-type: docs
 weight: 12
 url: /zh/net/dicom-image-processing/adjust-gamma-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for .NET 调整 DICOM 图像伽玛
+
 处理医学图像时，通常需要进行精确调整以提高其质量和清晰度。 Aspose.Imaging for .NET 是一个功能强大的库，允许您操作各种图像格式，包括 DICOM（医学数字成像和通信）。在本分步指南中，我们将引导您完成使用 Aspose.Imaging for .NET 调整 DICOM 图像的伽玛值的过程。
 
 ## 先决条件
@@ -98,3 +104,9 @@ A4：Aspose.Imaging for .NET 提供了广泛的功能，包括图像裁剪、调
 ### Q5：如何获得 Aspose.Imaging for .NET 的技术支持？
 
  A5： 如需技术援助和社区支持，您可以访问[Aspose.Imaging 论坛](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Image Expansion or Cropping with Aspose.Imaging for Java
 linktitle: Image Expansion or Cropping
 second_title: Aspose.Imaging Java Image Processing API
 description: Learn image expansion and cropping in Java with Aspose.Imaging. Step-by-step tutorial for developers. Enhance your image manipulation skills.
-type: docs
 weight: 12
 url: /java/document-conversion-and-processing/image-expansion-or-cropping/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Image Expansion or Cropping with Aspose.Imaging for Java
+
 In the ever-evolving world of digital media, effective image manipulation is a fundamental need for both businesses and individuals. Aspose.Imaging for Java is a versatile Java library that allows you to work with images effortlessly. In this comprehensive tutorial, we'll take you through the process of image expansion and cropping using Aspose.Imaging for Java. Whether you're a seasoned developer or just starting your coding journey, we'll break down every step in a beginner-friendly manner.
 
 ## Prerequisites
@@ -101,3 +107,10 @@ A4: You can get support from the Aspose community by visiting the [forum](https:
 ### Q5: Is there a free trial available for Aspose.Imaging for Java?
 
 A5: Yes, you can explore the library with a free trial. Download it from [here](https://releases.aspose.com/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

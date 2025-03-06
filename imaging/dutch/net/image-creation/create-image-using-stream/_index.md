@@ -3,10 +3,16 @@ title: Maak een afbeelding met Stream in Aspose.Imaging voor .NET
 linktitle: Maak een afbeelding met Stream in Aspose.Imaging voor .NET
 second_title: Aspose.Imaging .NET-API voor beeldverwerking
 description: Leer stap voor stap hoe u afbeeldingen kunt maken met behulp van stream met Aspose.Imaging voor .NET. Uitgebreide handleiding, vereisten en veelgestelde vragen inbegrepen.
-type: docs
 weight: 11
 url: /nl/net/image-creation/create-image-using-stream/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Maak een afbeelding met Stream in Aspose.Imaging voor .NET
+
 Wilt u de kracht van Aspose.Imaging voor .NET benutten om moeiteloos verbluffende afbeeldingen te maken? Je bent op de juiste plek! In deze uitgebreide handleiding leiden we u door het proces van het maken van afbeeldingen met Aspose.Imaging voor .NET. We beginnen met de vereisten en duiken vervolgens in het stapsgewijze proces, waarbij we elk voorbeeld opsplitsen om ervoor te zorgen dat u de concepten goed begrijpt.
 
 ## Vereisten
@@ -108,3 +114,10 @@ A3: Absoluut! Aspose.Imaging voor .NET biedt een verscheidenheid aan functies vo
 ### V5: Hoe verkrijg ik een tijdelijke licentie voor Aspose.Imaging voor .NET?
 
  A5: U kunt een tijdelijke licentie verkrijgen via de Aspose-website op[deze link](https://purchase.aspose.com/temporary-license/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

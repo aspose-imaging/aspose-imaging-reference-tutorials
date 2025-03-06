@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for .NET 將 APS 轉換為 PSD
 linktitle: 在 Aspose.Imaging for .NET 中將 APS 轉換為 PSD
 second_title: Aspose.Imaging .NET 映像處理 API
 description: 使用 Aspose.Imaging for .NET 將 APS 轉換為 PSD。在轉換過程中保留向量屬性。
-type: docs
 weight: 11
 url: /zh-hant/net/advanced-features/convert-aps-to-psd/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for .NET 將 APS 轉換為 PSD
+
 您是否希望輕鬆地將 APS 檔案轉換為 PSD 格式，同時保留向量屬性？ Aspose.Imaging for .NET 可以簡化您的任務。在本逐步指南中，我們將向您展示如何實現此轉換。 
 
 ## 先決條件
@@ -102,3 +108,10 @@ A4：目前，Aspose.Imaging 支援匯出沒有紋理畫筆的不太複雜的形
 ### Q5：我可以在哪裡獲得與 Aspose.Imaging for .NET 相關的支援或提出問題？
 
  A5：如果您有任何疑問或需要支持，您可以訪問[Aspose.Imaging 論壇](https://forum.aspose.com/)尋求幫助。
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for Java 同步影像中的根屬性
 linktitle: 同步影像中的根屬性
 second_title: Aspose.Imaging Java 圖像處理 API
 description: 了解如何使用 Aspose.Imaging for Java 同步影像中的根屬性。透過此逐步指南確保線程安全的圖像處理。
-type: docs
 weight: 16
 url: /zh-hant/java/metafile-and-vector-image-handling/synchronize-root-property-in-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for Java 同步影像中的根屬性
+
 在影像處理和操作領域，Aspose.Imaging for Java 是一個強大的工具包，為開發人員提供了輕鬆處理各種影像格式的方法。該工具包的一個重要方面是圖像中根屬性的同步。在本綜合指南中，我們將探討使用 Aspose.Imaging for Java 同步根屬性的複雜性。
 
 ## 先決條件
@@ -90,3 +96,9 @@ A3：是的，您可以獲得 30 天的臨時許可證來嘗試 Aspose.Imaging f
 ### Q5：如何獲得 Aspose.Imaging for Java 的支援？
 
 A5： 如需任何協助或疑問，您可以造訪支援論壇[這裡](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET'te DICOM Sıkıştırma
 linktitle: Aspose.Imaging for .NET'te DICOM Sıkıştırma
 second_title: Aspose.Imaging .NET Görüntü İşleme API'si
 description: Aspose.Imaging for .NET'i kullanarak DICOM sıkıştırmasını nasıl gerçekleştireceğinizi öğrenin. Tıbbi görüntüleri yüksek teşhis kalitesinde verimli bir şekilde saklamak ve iletmek için bu adım adım kılavuzu izleyin.
-type: docs
 weight: 17
 url: /tr/net/dicom-image-processing/dicom-compression/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET'te DICOM Sıkıştırma
+
 Tıbbi görüntüleme dünyasında, tıbbi görüntülerin saklanması ve paylaşılmasında DICOM (Tıpta Dijital Görüntüleme ve İletişim) standardı çok önemlidir. Güçlü bir .NET kütüphanesi olan Aspose.Imaging for .NET, DICOM görüntüleri ile çalışmak için kapsamlı destek sağlar. Bu eğitim, Aspose.Imaging for .NET kullanarak DICOM sıkıştırma sürecinde size rehberlik edecektir. Her adımı parçalara ayıracağız ve süreci ayrıntılı olarak açıklayacağız.
 
 ## Önkoşullar
@@ -151,3 +157,9 @@ Cevap3: Evet, Aspose.Imaging for .NET, belirli gereksinimleri karşılamak için
 ### S5: Aspose.Imaging for .NET'in deneme sürümü mevcut mu?
 
  A5: Evet, alabilirsiniz[ücretsiz deneme lisansı](https://releases.aspose.com/) Satın almadan önce Aspose.Imaging for .NET'i test etmek için.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

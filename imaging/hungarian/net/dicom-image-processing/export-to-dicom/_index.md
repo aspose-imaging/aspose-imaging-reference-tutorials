@@ -3,10 +3,16 @@ title: Képek exportálása DICOM-ba az Aspose.Imaging for .NET-ben
 linktitle: Exportálás DICOM-ba az Aspose.Imaging for .NET-ben
 second_title: Aspose.Imaging .NET Image Processing API
 description: Ismerje meg, hogyan exportálhat képeket DICOM formátumba .NET-ben az Aspose.Imaging segítségével. Konvertálja az orvosi képeket könnyedén.
-type: docs
 weight: 23
 url: /hu/net/dicom-image-processing/export-to-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Képek exportálása DICOM-ba az Aspose.Imaging for .NET-ben
+
 Az orvosi képalkotás területén a Digital Imaging and Communications in Medicine (DICOM) formátum a vitathatatlan király. A DICOM fájlok orvosi képeket és kapcsolódó információkat tárolnak és kezelnek, megkönnyítve az orvosi képek zökkenőmentes cseréjét és értelmezését a különböző egészségügyi rendszerek között. Ha DICOM-fájlokkal szeretne dolgozni .NET-alkalmazásában, akkor jó helyen jár. Ebben az oktatóanyagban megvizsgáljuk, hogyan exportálhatunk képeket DICOM-ba az Aspose.Imaging for .NET segítségével, amely egy hatékony könyvtár, amely leegyszerűsíti a folyamatot. Ennek az útmutatónak a végére birtokában lesz az Aspose.Imaging for .NET-ben rejlő lehetőségek kiaknázásához és a DICOM-fájlok könnyű létrehozásához.
 
 ## Előfeltételek
@@ -106,3 +112,9 @@ képek DICOM formátumba exportálása elengedhetetlen a különféle egészség
 ### 5. kérdés: Elérhető az Aspose.Imaging próbaverziója .NET-hez?
 
  5. válasz: Igen, hozzáférhet az Aspose.Imaging for .NET ingyenes próbaverziójához, hogy értékelje a képességeit. Letöltheti a próbaverziót[itt](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

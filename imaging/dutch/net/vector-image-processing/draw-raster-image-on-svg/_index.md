@@ -3,10 +3,16 @@ title: Een rasterafbeelding tekenen op SVG in Aspose.Imaging voor .NET
 linktitle: Teken een rasterafbeelding op SVG in Aspose.Imaging voor .NET
 second_title: Aspose.Imaging .NET-API voor beeldverwerking
 description: Leer hoe u rasterafbeeldingen tekent op SVG met Aspose.Imaging voor .NET. Verbeter uw .NET-applicaties met dynamische afbeeldingen.
-type: docs
 weight: 11
 url: /nl/net/vector-image-processing/draw-raster-image-on-svg/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Een rasterafbeelding tekenen op SVG in Aspose.Imaging voor .NET
+
 
 In de wereld van .NET-programmeren staat Aspose.Imaging als een betrouwbare en veelzijdige bibliotheek voor het afhandelen van verschillende beeldgerelateerde taken. Een fascinerende mogelijkheid die het biedt, is de mogelijkheid om een rasterafbeelding op een SVG-canvas te tekenen. In deze stapsgewijze handleiding leiden we u door het proces van het tekenen van een rasterafbeelding op een SVG met behulp van Aspose.Imaging voor .NET.
 
@@ -100,3 +106,10 @@ Gefeliciteerd! U hebt met succes een rasterafbeelding op een SVG-canvas getekend
     U kunt een tijdelijke licentie verkrijgen via[hier](https://purchase.aspose.com/temporary-license/).
 
 
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

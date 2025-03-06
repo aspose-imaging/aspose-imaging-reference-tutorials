@@ -3,10 +3,16 @@ title: تطبيق المرشحات على صور DICOM باستخدام Aspose.I
 linktitle: قم بتطبيق عامل التصفية على صورة DICOM في Aspose.Imaging لـ .NET
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: تعرف على كيفية تطبيق المرشحات على صور DICOM باستخدام Aspose.Imaging for .NET. تعزيز معالجة الصور الطبية بسهولة.
-type: docs
 weight: 13
 url: /ar/net/dicom-image-processing/apply-filter-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# تطبيق المرشحات على صور DICOM باستخدام Aspose.Imaging لـ .NET
+
 إذا كنت تتطلع إلى تحسين مهاراتك في معالجة الصور باستخدام Aspose.Imaging for .NET، فقد وصلت إلى المكان الصحيح. في هذا البرنامج التعليمي خطوة بخطوة، سنرشدك خلال عملية تطبيق المرشحات على صور DICOM. تسمح لك هذه المكتبة القوية بمعالجة تنسيقات الصور المختلفة ومعالجتها، بما في ذلك DICOM، بسهولة. سنقوم بتقسيم العملية إلى خطوات يمكن التحكم فيها، مما يضمن أنك تفهم كل مفهوم بدقة. دعونا الغوص في!
 
 ## المتطلبات الأساسية
@@ -90,3 +96,9 @@ using (DicomImage image = new DicomImage(fileStream))
 ### س5: كيف يمكنني الحصول على ترخيص مؤقت لـ Aspose.Imaging؟
 
  ج5: يمكنك الحصول على ترخيص مؤقت من[هنا](https://purchase.aspose.com/temporary-license/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

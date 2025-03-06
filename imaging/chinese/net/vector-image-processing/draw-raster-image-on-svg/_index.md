@@ -3,10 +3,16 @@ title: 如何在 Aspose.Imaging for .NET 中在 SVG 上绘制光栅图像
 linktitle: 在 Aspose.Imaging for .NET 中在 SVG 上绘制光栅图像
 second_title: Aspose.Imaging .NET 图像处理 API
 description: 了解如何使用 Aspose.Imaging for .NET 在 SVG 上绘制光栅图像。使用动态图像增强您的 .NET 应用程序。
-type: docs
 weight: 11
 url: /zh/net/vector-image-processing/draw-raster-image-on-svg/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 如何在 Aspose.Imaging for .NET 中在 SVG 上绘制光栅图像
+
 
 在 .NET 编程领域，Aspose.Imaging 是一个可靠且多功能的库，用于处理各种与图像相关的任务。它提供的一项令人着迷的功能是能够在 SVG 画布上绘制光栅图像。在本分步指南中，我们将引导您完成使用 Aspose.Imaging for .NET 在 SVG 上绘制光栅图像的过程。
 
@@ -100,3 +106,10 @@ using (SvgImage resultImage = graphics.EndRecording())
    您可以从以下地点获得临时许可证[这里](https://purchase.aspose.com/temporary-license/).
 
 
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

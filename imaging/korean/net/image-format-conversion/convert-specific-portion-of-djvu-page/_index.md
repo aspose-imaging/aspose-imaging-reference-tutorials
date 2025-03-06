@@ -3,10 +3,16 @@ title: .NET용 Aspose.Imaging에서 DJVU 페이지의 특정 부분 변환
 linktitle: .NET용 Aspose.Imaging에서 DJVU 페이지의 특정 부분 변환
 second_title: Aspose.Imaging .NET 이미지 처리 API
 description: .NET용 Aspose.Imaging을 사용하여 DJVU 페이지의 특정 부분을 변환하는 방법을 알아보세요. 단계별 가이드를 따르세요.
-type: docs
 weight: 20
 url: /ko/net/image-format-conversion/convert-specific-portion-of-djvu-page/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET용 Aspose.Imaging에서 DJVU 페이지의 특정 부분 변환
+
 .NET 애플리케이션에서 DJVU 이미지를 조작하려는 경우 .NET용 Aspose.Imaging은 작업을 완료하는 데 필요한 강력한 도구 세트를 제공합니다. 이 단계별 가이드에서는 .NET용 Aspose.Imaging을 사용하여 DJVU 페이지의 특정 부분을 다른 형식으로 변환하는 방법을 보여줍니다.
 
 ## 전제 조건
@@ -111,3 +117,9 @@ A1: Aspose.Imaging for .NET은 개발자가 .NET 애플리케이션에서 다양
 ### Q5: Aspose.Imaging for .NET과 관련된 지원을 받거나 질문을 할 수 있는 곳은 어디입니까?
 
  A5: 지원을 받고 질문을 할 수 있습니다.[Aspose.이미징 포럼](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

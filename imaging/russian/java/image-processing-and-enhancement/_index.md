@@ -3,10 +3,16 @@ title: Обработка и улучшение изображений
 linktitle: Обработка и улучшение изображений
 second_title: Aspose.Imaging API обработки изображений Java
 description: Улучшайте изображения с помощью Aspose.Imaging for Java, используя пошаговые руководства. Оптимизируйте обработку документов и качество изображений без особых усилий.
-type: docs
 weight: 21
 url: /ru/java/image-processing-and-enhancement/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Обработка и улучшение изображений
+
 ## Введение 
 Обработка изображений является важнейшим аспектом создания современного цифрового контента. В этой статье мы углубимся в мир «Учебных пособий по обработке и улучшению изображений» с использованием Aspose.Imaging для Java. Независимо от того, являетесь ли вы графическим дизайнером, фотографом или просто человеком, который хочет улучшить свои навыки обработки изображений, эти уроки станут для вас путеводной звездой.
 
@@ -116,3 +122,9 @@ url: /ru/java/image-processing-and-enhancement/
 Узнайте, как применять фильтры к изображениям DICOM с помощью Aspose.Imaging for Java. С легкостью улучшайте медицинские изображения.
 ### [Бинаризация изображения](./bradleys-adaptive-threshold-binarization/)
 Изучите бинаризацию изображений с помощью Aspose.Imaging для Java. Легко преобразуйте изображения DICOM. Изучите пошаговое руководство с примерами кода.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

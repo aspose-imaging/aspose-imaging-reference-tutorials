@@ -3,10 +3,16 @@ title: Binarización del umbral de Otsu con Aspose.Imaging para Java
 linktitle: Binarización del umbral de Otsu
 second_title: Aspose.Imaging API de procesamiento de imágenes Java
 description: Mejore la calidad de la imagen con Aspose.Imaging para la binarización del umbral Otsu de Java. Siga nuestra guía paso a paso para lograr la excelencia en el procesamiento de imágenes.
-type: docs
 weight: 22
 url: /es/java/image-processing-and-enhancement/otsu-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binarización del umbral de Otsu con Aspose.Imaging para Java
+
 En el mundo del procesamiento y manipulación de imágenes, Aspose.Imaging para Java se presenta como un sólido conjunto de herramientas que permite a los desarrolladores trabajar con varios formatos de imágenes. Entre sus muchas características, Otsu Threshold Binarization es una técnica crucial para la mejora y el análisis de imágenes. En este tutorial, lo guiaremos a través del proceso de uso de Aspose.Imaging para Java para realizar la binarización del umbral Otsu en una imagen paso a paso.
 
 ## Requisitos previos
@@ -105,3 +111,9 @@ R1: La binarización de umbral de Otsu es una técnica de procesamiento de imág
 ### P5: ¿Puedo utilizar Aspose.Imaging para Java en mis proyectos comerciales?
 
 R5: Sí, Aspose.Imaging para Java es adecuado tanto para proyectos personales como comerciales. Puede explorar las opciones de licencia que se ajusten a sus necesidades específicas.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

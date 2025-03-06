@@ -3,10 +3,16 @@ title: Passen Sie die DICOM-Bildhelligkeit mit Aspose.Imaging für .NET an
 linktitle: Passen Sie die Helligkeit des DICOM-Bildes in Aspose.Imaging für .NET an
 second_title: Aspose.Imaging .NET-Bildverarbeitungs-API
 description: Erfahren Sie, wie Sie die DICOM-Bildhelligkeit in Aspose.Imaging für .NET anpassen. Verbessern Sie medizinische Bilder ganz einfach.
-type: docs
 weight: 10
 url: /de/net/dicom-image-processing/adjust-brightness-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Passen Sie die DICOM-Bildhelligkeit mit Aspose.Imaging für .NET an
+
 In der Welt der medizinischen Bildgebung ist der Umgang mit DICOM-Dateien (Digital Imaging and Communications in Medicine) von größter Bedeutung. Diese Dateien enthalten wichtige medizinische Daten und manchmal ist es notwendig, Anpassungen an den darin enthaltenen Bildern vorzunehmen, beispielsweise die Helligkeit zu ändern. In dieser Schritt-für-Schritt-Anleitung zeigen wir Ihnen, wie Sie die Helligkeit eines DICOM-Bildes mit Aspose.Imaging für .NET anpassen.
 
 ## Voraussetzungen
@@ -95,3 +101,9 @@ A4: Sie können Unterstützung erhalten und sich mit der Aspose.Imaging-Communit
 ### F5: Welche weiteren Bildbearbeitungsfunktionen bietet Aspose.Imaging?
 
 A5: Aspose.Imaging bietet zahlreiche Funktionen zur Bildbearbeitung, darunter Größenänderung, Zuschneiden, Drehung und verschiedene Filteroptionen, was es zu einer umfassenden Lösung für die Arbeit mit medizinischen Bildern macht.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

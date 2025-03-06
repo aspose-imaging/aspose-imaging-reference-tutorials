@@ -3,10 +3,16 @@ title: Képkonverzió és -optimalizálás
 linktitle: Képkonverzió és -optimalizálás
 second_title: Aspose.Imaging Java Image Processing API
 description: Fedezze fel a képátalakítási és -optimalizálási oktatóanyagokat az Aspose.Imaging for Java segítségével. Tanulja meg, hogyan lehet könnyedén konvertálni, javítani és optimalizálni különféle képformátumokat.
-type: docs
 weight: 20
 url: /hu/java/image-conversion-and-optimization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Képkonverzió és -optimalizálás
+
 
 # Bevezetés
 
@@ -86,3 +92,9 @@ Sajátítsa el a raszteres képkeret-mentés művészetét az Aspose.Imaging for
 Ismerje meg, hogyan konvertálhat raszteres képeket TIFF formátumba Java nyelven az Aspose.Imaging for Java segítségével. Átfogó útmutató a képkezeléshez.
 ### [TIFF képkeret felosztása](./tiff-image-frame-splitting/)
 Ismerje meg, hogyan oszthat fel TIFF képkereteket az Aspose.Imaging for Java segítségével. Lépésről lépésre, előfeltételekkel, kódpéldával és GYIK-vel a fejlesztők számára.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

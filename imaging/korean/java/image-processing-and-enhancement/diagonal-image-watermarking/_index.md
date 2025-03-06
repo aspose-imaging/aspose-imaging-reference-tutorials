@@ -3,10 +3,16 @@ title: Java용 Aspose.Imaging을 사용한 대각선 이미지 워터마킹
 linktitle: 대각선 이미지 워터마킹
 second_title: Aspose.Imaging Java 이미지 처리 API
 description: Aspose.Imaging for Java를 사용하여 대각선 워터마크로 이미지를 향상하세요. 이 단계별 가이드에 따라 멋진 워터마크가 있는 이미지를 손쉽게 만들어보세요.
-type: docs
 weight: 14
 url: /ko/java/image-processing-and-enhancement/diagonal-image-watermarking/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Java용 Aspose.Imaging을 사용한 대각선 이미지 워터마킹
+
 
 세련된 대각선 워터마크로 이미지를 향상시키고 싶다면 Aspose.Imaging for Java가 도움이 될 것입니다. 이 단계별 가이드에서는 기존 JPG 이미지에 45도 회전된 텍스트 워터마크를 추가하는 과정을 안내합니다. 따라하기 위해 Java 또는 이미지 처리 전문가가 될 필요는 없습니다. 전문적인 결과를 쉽게 얻을 수 있도록 각 예를 여러 단계로 나누어 보겠습니다.
 
@@ -141,3 +147,9 @@ A3: 예, Aspose.Imaging for Java는 BMP, PNG, GIF 등을 포함한 광범위한 
 ### Q5: Aspose.Imaging for Java에 대한 도움말이나 지원은 어디서 찾을 수 있나요?
 
  A5: 질문이 있거나 도움이 필요하면 Aspose.Imaging for Java 지원 포럼을 방문하세요.[여기](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

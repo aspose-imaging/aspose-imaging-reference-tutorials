@@ -3,10 +3,16 @@ title: .NET용 Aspose.Imaging의 DICOM 이미지에 고정 임계값을 사용�
 linktitle: .NET용 Aspose.Imaging의 DICOM 이미지에 고정 임계값을 사용한 이진화
 second_title: Aspose.Imaging .NET 이미지 처리 API
 description: .NET용 Aspose.Imaging을 사용하여 DICOM 이미지에서 이진화를 수행하는 방법을 알아보세요. 코드 예제가 포함된 단계별 가이드입니다.
-type: docs
 weight: 15
 url: /ko/net/dicom-image-processing/binarization-with-fixed-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET용 Aspose.Imaging의 DICOM 이미지에 고정 임계값을 사용한 이진화
+
 .NET용 Aspose.Imaging을 사용하여 디지털 이미지 처리의 세계로 뛰어들 준비가 되셨습니까? 이 단계별 튜토리얼에서는 DICOM 이미지에서 고정 임계값을 사용하여 이진화를 수행하는 방법을 살펴보겠습니다. 이진화는 회색조 이미지를 이진 이미지로 변환하는 기본적인 이미지 처리 기술로, 의료 영상부터 문서 분석까지 다양한 응용 분야에 필수적인 도구입니다.
 
 ## 전제 조건
@@ -106,3 +112,10 @@ DICOM은 의학 분야의 디지털 이미징 및 커뮤니케이션을 의미�
 ### Q5: .NET용 Aspose.Imaging 평가판을 사용할 수 있나요?
 
  예, 다음에서 평가판을 다운로드하여 .NET용 Aspose.Imaging을 사용해 볼 수 있습니다.[여기](https://releases.aspose.com/). 구매하기 전에 제품의 특징과 기능을 살펴볼 수 있습니다.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

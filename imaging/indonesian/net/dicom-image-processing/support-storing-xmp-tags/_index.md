@@ -3,10 +3,16 @@ title: Dukungan Menyimpan Tag XMP di Aspose.Imaging untuk .NET
 linktitle: Dukungan Menyimpan Tag XMP di Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Pelajari cara menambahkan metadata XMP ke gambar DICOM menggunakan Aspose.Imaging untuk .NET. Optimalkan manajemen dan pengorganisasian gambar dengan panduan langkah demi langkah ini.
-type: docs
 weight: 25
 url: /id/net/dicom-image-processing/support-storing-xmp-tags/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Dukungan Menyimpan Tag XMP di Aspose.Imaging untuk .NET
+
 Aspose.Imaging for .NET adalah perpustakaan canggih yang memungkinkan Anda bekerja dengan berbagai format gambar di lingkungan .NET. Dalam tutorial ini, kita akan mempelajari cara mendukung penyimpanan tag XMP (Extensible Metadata Platform) di Aspose.Imaging untuk .NET. Tag XMP sangat penting untuk menambahkan informasi metadata ke gambar, sehingga memudahkan pengorganisasian dan pengelolaan aset digital Anda. Kami akan membagi prosesnya menjadi beberapa langkah untuk membantu Anda memahami cara mencapai hal ini.
 
 ## Prasyarat
@@ -114,3 +120,10 @@ A3: Tentu saja. Aspose.Imaging for .NET menyediakan berbagai fitur untuk manipul
 ### Q5: Bagaimana cara mendapatkan lisensi sementara untuk Aspose.Imaging untuk .NET?
 
  A5: Anda bisa mendapatkan lisensi sementara untuk Aspose.Imaging untuk .NET dengan mengunjungi[Link ini](https://purchase.aspose.com/temporary-license/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

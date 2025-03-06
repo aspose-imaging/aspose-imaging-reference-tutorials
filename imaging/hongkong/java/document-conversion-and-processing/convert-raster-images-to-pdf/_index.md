@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for Java 將光柵影像轉換為 PDF
 linktitle: 將光柵影像轉換為 PDF
 second_title: Aspose.Imaging Java 圖像處理 API
 description: 了解如何使用 Aspose.Imaging for Java 將光柵影像轉換為 PDF。簡單的步驟即可獲得高品質的結果。
-type: docs
 weight: 15
 url: /zh-hant/java/document-conversion-and-processing/convert-raster-images-to-pdf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for Java 將光柵影像轉換為 PDF
+
 在數位文件管理領域，將光柵影像轉換為 PDF 的能力是一項關鍵功能。無論您處理的是掃描照片、圖表或任何其他類型的影像，將它們轉換為 PDF 格式都可以確保可移植性、相容性和改進的文件管理。 Aspose.Imaging for Java 是一個多功能 Java 函式庫，可讓開發人員輕鬆執行此任務。在這個綜合教學中，我們將引導您逐步完成使用 Aspose.Imaging for Java 將光柵影像轉換為 PDF 的過程。
 
 ## 先決條件
@@ -89,3 +95,9 @@ A3：Aspose.Imaging for Java 支援多種影像格式，包括 PNG、JPEG、GIF�
 ### Q5. Aspose.Imaging for Java 使用者是否可以獲得技術支援？
 
  A5：是的，Aspose 為其產品提供技術支持，包括 Aspose.Imaging for Java。您可以透過他們的支援團隊聯繫他們[論壇](https://forum.aspose.com/)尋求幫助。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

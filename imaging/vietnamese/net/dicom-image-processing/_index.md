@@ -3,10 +3,16 @@ title: Xử lý hình ảnh DICOM với Aspose.Imaging cho .NET
 linktitle: Xử lý hình ảnh DICOM
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Khám phá loạt hướng dẫn toàn diện về xử lý hình ảnh DICOM bằng Aspose.Imaging cho .NET. Tìm hiểu cách nâng cao hình ảnh y tế một cách dễ dàng.
-type: docs
 weight: 28
 url: /vi/net/dicom-image-processing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Xử lý hình ảnh DICOM với Aspose.Imaging cho .NET
+
 
 Bạn có muốn nắm vững nghệ thuật xử lý hình ảnh DICOM với Aspose.Imaging cho .NET không? Đừng tìm đâu xa! Trong loạt hướng dẫn này, chúng tôi sẽ hướng dẫn bạn các kỹ thuật khác nhau để nâng cao và xử lý hình ảnh y tế một cách dễ dàng. Cho dù bạn là chuyên gia y tế, nhà phát triển hay chỉ là người ham học hỏi, những hướng dẫn này sẽ trang bị cho bạn kiến thức và kỹ năng để tận dụng tối đa Aspose.Imaging cho .NET.
 
@@ -108,3 +114,9 @@ Tìm hiểu cách xuất hình ảnh sang định dạng DICOM trong .NET bằng
 Tìm hiểu cách thực hiện thang độ xám trên hình ảnh DICOM bằng Aspose.Imaging for .NET, một thư viện xử lý hình ảnh mạnh mẽ.
 ### [Hỗ trợ lưu trữ thẻ XMP trong Aspose.Imaging cho .NET](./support-storing-xmp-tags/)
 Tìm hiểu cách thêm siêu dữ liệu XMP vào hình ảnh DICOM bằng Aspose.Imaging for .NET. Tối ưu hóa việc quản lý và sắp xếp hình ảnh với hướng dẫn từng bước này.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

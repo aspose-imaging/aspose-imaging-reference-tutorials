@@ -3,10 +3,16 @@ title: Đồng bộ hóa thuộc tính gốc trong hình ảnh với Aspose.Imag
 linktitle: Đồng bộ hóa thuộc tính gốc trong hình ảnh
 second_title: Aspose.Imaging API xử lý hình ảnh Java
 description: Tìm hiểu cách đồng bộ hóa thuộc tính gốc trong hình ảnh bằng Aspose.Imaging cho Java. Đảm bảo xử lý hình ảnh an toàn theo luồng với hướng dẫn từng bước này.
-type: docs
 weight: 16
 url: /vi/java/metafile-and-vector-image-handling/synchronize-root-property-in-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Đồng bộ hóa thuộc tính gốc trong hình ảnh với Aspose.Imaging cho Java
+
 Trong lĩnh vực xử lý và thao tác hình ảnh, Aspose.Imaging for Java là một bộ công cụ mạnh mẽ cung cấp cho các nhà phát triển phương tiện để làm việc với nhiều định dạng hình ảnh khác nhau một cách dễ dàng. Một khía cạnh quan trọng của bộ công cụ này là sự đồng bộ hóa thuộc tính gốc trong hình ảnh. Trong hướng dẫn toàn diện này, chúng ta sẽ khám phá sự phức tạp của việc đồng bộ hóa thuộc tính gốc bằng Aspose.Imaging cho Java.
 
 ## Điều kiện tiên quyết
@@ -90,3 +96,9 @@ Câu trả lời 1: Aspose.Imaging for Java là một thư viện Java cung cấ
 ### Câu hỏi 5: Làm cách nào tôi có thể nhận được hỗ trợ cho Aspose.Imaging cho Java?
 
  Câu trả lời 5: Nếu có bất kỳ trợ giúp hoặc thắc mắc nào, bạn có thể truy cập diễn đàn hỗ trợ[đây](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

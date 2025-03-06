@@ -3,10 +3,16 @@ title: Расширение или обрезка изображения с по
 linktitle: Расширение или обрезка изображения
 second_title: Aspose.Imaging API обработки изображений Java
 description: Изучите расширение и обрезку изображений в Java с помощью Aspose.Imaging. Пошаговое руководство для разработчиков. Совершенствуйте свои навыки манипулирования изображениями.
-type: docs
 weight: 12
 url: /ru/java/document-conversion-and-processing/image-expansion-or-cropping/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Расширение или обрезка изображения с помощью Aspose.Imaging для Java
+
 В постоянно развивающемся мире цифровых медиа эффективная манипуляция изображениями является фундаментальной потребностью как для бизнеса, так и для частных лиц. Aspose.Imaging for Java — это универсальная библиотека Java, которая позволяет легко работать с изображениями. В этом подробном руководстве мы познакомим вас с процессом расширения и обрезки изображения с помощью Aspose.Imaging for Java. Независимо от того, являетесь ли вы опытным разработчиком или только начинаете свой путь программирования, мы разберем каждый шаг в удобной для новичков форме.
 
 ## Предварительные условия
@@ -101,3 +107,9 @@ A1: Aspose.Imaging for Java поддерживает широкий спектр
 ### Вопрос 5: Существует ли бесплатная пробная версия Aspose.Imaging for Java?
 
  О5: Да, вы можете изучить библиотеку, воспользовавшись бесплатной пробной версией. Загрузите его с[здесь](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

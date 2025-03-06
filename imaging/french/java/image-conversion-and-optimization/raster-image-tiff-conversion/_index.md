@@ -3,10 +3,16 @@ title: Convertir des images raster en TIFF en Java avec Aspose.Imaging
 linktitle: Conversion TIFF d'images raster
 second_title: API de traitement d'images Java Aspose.Imaging
 description: Découvrez comment convertir des images raster au format TIFF en Java à l'aide d'Aspose.Imaging pour Java. Un guide complet pour la manipulation d'images.
-type: docs
 weight: 20
 url: /fr/java/image-conversion-and-optimization/raster-image-tiff-conversion/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Convertir des images raster en TIFF en Java avec Aspose.Imaging
+
 Si vous cherchez à manipuler et convertir des images raster dans votre application Java, Aspose.Imaging for Java est l'outil parfait. Ce didacticiel étape par étape vous guidera tout au long du processus de conversion d'une image raster au format TIFF à l'aide d'Aspose.Imaging pour Java. Avant d’entrer dans les détails, examinons ce dont vous avez besoin pour commencer.
 
 ## Conditions préalables
@@ -113,3 +119,9 @@ A2 : Oui, vous pouvez effectuer diverses opérations d'édition d'images telles 
 ### Q5 : Où puis-je obtenir de l'aide ou poser des questions sur Aspose.Imaging pour Java ?
 
  A5 : Vous pouvez rejoindre la communauté Aspose.Imaging et obtenir de l'aide à[Forum Aspose.Imaging](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

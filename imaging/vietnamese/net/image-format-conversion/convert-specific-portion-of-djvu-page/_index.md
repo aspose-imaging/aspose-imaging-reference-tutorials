@@ -3,10 +3,16 @@ title: Chuyển đổi phần cụ thể của trang DJVU trong Aspose.Imaging c
 linktitle: Chuyển đổi phần cụ thể của trang DJVU trong Aspose.Imaging cho .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Tìm hiểu cách chuyển đổi các phần cụ thể của trang DJVU bằng Aspose.Imaging for .NET. Thực hiện theo hướng dẫn từng bước của chúng tôi.
-type: docs
 weight: 20
 url: /vi/net/image-format-conversion/convert-specific-portion-of-djvu-page/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Chuyển đổi phần cụ thể của trang DJVU trong Aspose.Imaging cho .NET
+
 Nếu bạn đang tìm cách xử lý hình ảnh DJVU trong các ứng dụng .NET của mình, Aspose.Imaging for .NET cung cấp một bộ công cụ mạnh mẽ để hoàn thành công việc. Trong hướng dẫn từng bước này, chúng tôi sẽ chỉ cho bạn cách chuyển đổi một phần cụ thể của trang DJVU sang định dạng khác bằng Aspose.Imaging for .NET.
 
 ## Điều kiện tiên quyết
@@ -111,3 +117,9 @@ Câu trả lời 1: Aspose.Imaging for .NET là một thư viện mạnh mẽ ch
 ### Câu hỏi 5: Tôi có thể nhận hỗ trợ hoặc đặt câu hỏi liên quan đến Aspose.Imaging cho .NET ở đâu?
 
  Câu trả lời 5: Bạn có thể nhận được hỗ trợ và đặt câu hỏi trong[Diễn đàn Aspose.Imaging](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

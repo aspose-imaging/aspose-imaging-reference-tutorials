@@ -3,10 +3,16 @@ title: Конвертируйте растровые изображения в P
 linktitle: Конвертируйте растровые изображения в PDF
 second_title: Aspose.Imaging API обработки изображений Java
 description: Узнайте, как конвертировать растровые изображения в PDF с помощью Aspose.Imaging для Java. Простые шаги для качественного результата.
-type: docs
 weight: 15
 url: /ru/java/document-conversion-and-processing/convert-raster-images-to-pdf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Конвертируйте растровые изображения в PDF с помощью Aspose.Imaging для Java
+
 В сфере управления цифровыми документами возможность конвертировать растровые изображения в PDF является ключевой функцией. Независимо от того, имеете ли вы дело со сканированными фотографиями, диаграммами или изображениями любого другого типа, преобразование их в формат PDF обеспечивает портативность, совместимость и улучшенное управление документами. Aspose.Imaging for Java — это универсальная библиотека Java, которая позволяет разработчикам с легкостью выполнять эту задачу. В этом подробном руководстве мы шаг за шагом проведем вас через процесс преобразования растровых изображений в PDF с помощью Aspose.Imaging for Java.
 
 ## Предварительные условия
@@ -89,3 +95,9 @@ A3: Aspose.Imaging for Java поддерживает различные форм
 ### Вопрос 5. Доступна ли техническая поддержка для пользователей Aspose.Imaging for Java?
 
  О5: Да, Aspose предоставляет техническую поддержку своих продуктов, включая Aspose.Imaging for Java. Вы можете обратиться в их службу поддержки на их[Форум](https://forum.aspose.com/)для оказания помощи.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

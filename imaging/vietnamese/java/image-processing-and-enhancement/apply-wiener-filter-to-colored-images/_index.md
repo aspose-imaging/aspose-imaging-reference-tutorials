@@ -3,10 +3,16 @@ title: Cải thiện hình ảnh màu bằng bộ lọc Wiener với Aspose.Imag
 linktitle: Áp dụng bộ lọc Wiener cho hình ảnh màu
 second_title: Aspose.Imaging API xử lý hình ảnh Java
 description: Tìm hiểu cách áp dụng bộ lọc Wiener cho hình ảnh màu trong Java bằng Aspose.Imaging for Java. Nâng cao chất lượng hình ảnh và giảm nhiễu dễ dàng.
-type: docs
 weight: 18
 url: /vi/java/image-processing-and-enhancement/apply-wiener-filter-to-colored-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Cải thiện hình ảnh màu bằng bộ lọc Wiener với Aspose.Imaging cho Java
+
 Nếu bạn đang tìm cách nâng cao chất lượng hình ảnh màu và giảm nhiễu, Aspose.Imaging for Java sẽ giúp bạn. Trong hướng dẫn từng bước này, chúng tôi sẽ hướng dẫn bạn quy trình áp dụng bộ lọc Wiener cho hình ảnh màu. Lọc Wiener là một kỹ thuật mạnh mẽ có thể cải thiện đáng kể chất lượng hình ảnh. Bắt đầu nào!
 
 ## Điều kiện tiên quyết
@@ -103,3 +109,9 @@ Câu trả lời 2: Có, Aspose.Imaging for Java tương thích với nhiều th
 ### Câu hỏi 5: Tôi có thể sử dụng Aspose.Imaging cho mục đích thương mại không?
 
 Câu trả lời 5: Có, bạn có thể sử dụng Aspose.Imaging for Java cho các dự án thương mại. Để có được giấy phép, bạn có thể truy cập[trang mua hàng](https://purchase.aspose.com/buy).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

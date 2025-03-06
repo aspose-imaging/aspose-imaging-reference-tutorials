@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET'te XMP Etiketlerinin Saklanması Desteği
 linktitle: Aspose.Imaging for .NET'te XMP Etiketlerinin Saklanması Desteği
 second_title: Aspose.Imaging .NET Görüntü İşleme API'si
 description: Aspose.Imaging for .NET kullanarak DICOM görüntülerine XMP meta verilerini nasıl ekleyeceğinizi öğrenin. Bu adım adım kılavuzla görüntü yönetimini ve organizasyonunu optimize edin.
-type: docs
 weight: 25
 url: /tr/net/dicom-image-processing/support-storing-xmp-tags/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET'te XMP Etiketlerinin Saklanması Desteği
+
 Aspose.Imaging for .NET, .NET ortamında çeşitli görüntü formatlarıyla çalışmanıza olanak tanıyan güçlü bir kütüphanedir. Bu eğitimde, Aspose.Imaging for .NET'te XMP (Genişletilebilir Meta Veri Platformu) etiketlerinin saklanmasının nasıl destekleneceğini keşfedeceğiz. XMP etiketleri, görüntülere meta veri bilgileri eklemek ve dijital varlıklarınızı organize etmeyi ve yönetmeyi kolaylaştırmak için gereklidir. Bunu nasıl başaracağınızı anlamanıza yardımcı olmak için süreci birden fazla adıma ayıracağız.
 
 ## Önkoşullar
@@ -114,3 +120,10 @@ A3: Kesinlikle. Aspose.Imaging for .NET, görüntü işleme, düzenleme ve dön�
 ### S5: Aspose.Imaging for .NET için nasıl geçici lisans alabilirim?
 
  Cevap5: adresini ziyaret ederek Aspose.Imaging for .NET için geçici bir lisans alabilirsiniz.[bu bağlantı](https://purchase.aspose.com/temporary-license/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

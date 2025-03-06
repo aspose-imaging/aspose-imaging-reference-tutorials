@@ -3,10 +3,16 @@ title: Beskär DICOM-bilder med Aspose.Imaging för .NET
 linktitle: DICOM-beskärning med skift i Aspose.Imaging för .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Lär dig att beskära DICOM-bilder med Aspose.Imaging för .NET. Förbättra medicinsk bildbehandling med denna steg-för-steg-guide.
-type: docs
 weight: 18
 url: /sv/net/dicom-image-processing/dicom-cropping-by-shifts/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Beskär DICOM-bilder med Aspose.Imaging för .NET
+
 Att beskära medicinska bilder, särskilt DICOM-bilder, är en avgörande uppgift inom hälsovårdsindustrin. Det låter vårdpersonal fokusera på specifika intresseområden, ta bort oönskade element och förbättra den visuella representationen av diagnostiska data. I den här handledningen kommer vi att utforska hur man beskär DICOM-bilder med Aspose.Imaging för .NET, ett kraftfullt bibliotek som förenklar bildbehandlingsuppgifter i .NET-applikationer.
 
 ## Förutsättningar
@@ -100,3 +106,9 @@ S2: Ja, Aspose.Imaging för .NET är ett mångsidigt bibliotek som kan hantera o
 ### F5: Kan jag använda Aspose.Imaging för .NET i icke-medicinska bildbehandlingsprogram?
 
 A5: Absolut! Även om det är bra för medicinsk bildbehandling, kan Aspose.Imaging för .NET användas för ett brett utbud av bildbehandlingsuppgifter inom olika domäner.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

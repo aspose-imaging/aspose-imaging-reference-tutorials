@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for .NET 進行 DICOM 影像處理
 linktitle: DICOM 影像處理
 second_title: Aspose.Imaging .NET 映像處理 API
 description: 探索使用 Aspose.Imaging for .NET 進行 DICOM 影像處理的全面教學系列。學習輕鬆增強醫學影像。
-type: docs
 weight: 28
 url: /zh-hant/net/dicom-image-processing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for .NET 進行 DICOM 影像處理
+
 
 您是否渴望掌握使用 Aspose.Imaging for .NET 進行 DICOM 影像處理的藝術？別再猶豫了！在本系列教程中，我們將指導您了解各種技術來輕鬆增強和操作醫學影像。無論您是醫學專業人士、開發人員還是只是一個好奇的學習者，這些教程都將為您提供充分利用 Aspose.Imaging for .NET 的知識和技能。
 
@@ -108,3 +114,9 @@ url: /zh-hant/net/dicom-image-processing/
 了解如何使用強大的影像處理庫 Aspose.Imaging for .NET 對 DICOM 影像執行灰階化。
 ### [支援在 Aspose.Imaging for .NET 中儲存 XMP 標籤](./support-storing-xmp-tags/)
 了解如何使用 Aspose.Imaging for .NET 將 XMP 元資料新增至 DICOM 映像。透過此逐步指南優化影像管理和組織。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

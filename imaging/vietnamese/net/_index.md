@@ -1,12 +1,17 @@
 ---
 title: Hướng dẫn toàn diện và ví dụ về Aspose.Imaging cho .NET
 linktitle: Hướng dẫn Aspose.Imaging cho .NET
-type: docs
 weight: 10
 url: /vi/net/
 description: Khám phá sức mạnh của Aspose.Imaging cho .NET với các hướng dẫn chuyên sâu của chúng tôi. Từ bố cục hình ảnh đến các tính năng nâng cao, hãy nâng cao kỹ năng và nâng cao trò chơi xử lý hình ảnh của bạn.
-is_root: true
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Hướng dẫn toàn diện và ví dụ về Aspose.Imaging cho .NET
+
 
 Chào mừng bạn đến với hướng dẫn toàn diện của chúng tôi về Aspose.Imaging cho .NET! Cho dù bạn là người mới hay chuyên gia, những hướng dẫn này sẽ giúp bạn thành thạo việc xử lý hình ảnh bằng công cụ mạnh mẽ này. Từ bố cục hình ảnh đến các tính năng nâng cao, chúng tôi đều hỗ trợ bạn.
 
@@ -72,3 +77,9 @@ Tìm hiểu cách chuyển đổi định dạng hình ảnh với Aspose.Imagin
 Khám phá loạt hướng dẫn toàn diện về xử lý hình ảnh DICOM bằng Aspose.Imaging cho .NET. Tìm hiểu cách nâng cao hình ảnh y tế một cách dễ dàng.
 ### [Các tính năng tiên tiến](./advanced-features/)
 Tận dụng tối đa Aspose.Imaging cho .NET với hướng dẫn từng bước của chúng tôi. Tìm hiểu cách mở khóa các tùy chọn gốc và làm việc với hình ảnh một cách dễ dàng.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

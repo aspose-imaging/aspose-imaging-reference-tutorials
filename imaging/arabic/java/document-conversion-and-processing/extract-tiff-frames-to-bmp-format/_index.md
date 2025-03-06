@@ -3,10 +3,16 @@ title: تحويل TIFF إلى BMP باستخدام Aspose.Imaging لـ Java
 linktitle: استخراج إطارات TIFF إلى تنسيق BMP
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: تعرف على كيفية استخراج إطارات TIFF إلى تنسيق BMP في Java باستخدام Aspose.Imaging for Java. اتبع دليلنا خطوة بخطوة.
-type: docs
 weight: 13
 url: /ar/java/document-conversion-and-processing/extract-tiff-frames-to-bmp-format/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# تحويل TIFF إلى BMP باستخدام Aspose.Imaging لـ Java
+
 إذا كنت تعمل مع ملفات الصور في Java، وتحديدًا صور TIFF، وتحتاج إلى استخراج الإطارات منها وحفظها بتنسيق BMP، فإن Aspose.Imaging for Java هي أداة قوية ومتعددة الاستخدامات لتحقيق ذلك. في هذا الدليل التفصيلي، سنرشدك خلال عملية استخراج إطارات TIFF إلى تنسيق BMP باستخدام Aspose.Imaging for Java.
 
 ## المتطلبات الأساسية
@@ -112,3 +118,9 @@ try (TiffImage multiImage = (TiffImage) Image.load(dataDir + "sample.tiff"))
 ### س5: كيف يمكنني الحصول على دعم Aspose.Imaging لـ Java؟
 
  ج5: بالنسبة لأية أسئلة أو مشكلات أو دعم يتعلق بـ Aspose.Imaging for Java، يمكنك زيارة منتدى الدعم[هنا](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

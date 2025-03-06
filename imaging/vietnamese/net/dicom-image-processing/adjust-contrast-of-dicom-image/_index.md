@@ -3,10 +3,16 @@ title: Điều chỉnh độ tương phản hình ảnh DICOM với Aspose.Imagi
 linktitle: Điều chỉnh độ tương phản của hình ảnh DICOM trong Aspose.Imaging for .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Nâng cao hình ảnh y tế với Aspose.Imaging cho .NET. Điều chỉnh độ tương phản hình ảnh DICOM bằng các bước đơn giản.
-type: docs
 weight: 11
 url: /vi/net/dicom-image-processing/adjust-contrast-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Điều chỉnh độ tương phản hình ảnh DICOM với Aspose.Imaging cho .NET
+
 Trong thế giới hình ảnh y tế, việc kiểm soát chính xác chất lượng hình ảnh là điều tối quan trọng. Aspose.Imaging for .NET cung cấp một giải pháp mạnh mẽ để thao tác hình ảnh DICOM một cách dễ dàng. Trong hướng dẫn từng bước này, chúng tôi sẽ hướng dẫn bạn quy trình điều chỉnh độ tương phản của hình ảnh DICOM bằng Aspose.Imaging for .NET. Hướng dẫn này được thiết kế dành cho những ai muốn nâng cao khả năng hiển thị của hình ảnh y tế cho mục đích chẩn đoán hoặc nghiên cứu. 
 
 ## Điều kiện tiên quyết
@@ -112,3 +118,9 @@ Câu trả lời 4: Có, Aspose.Imaging for .NET cung cấp nhiều tính năng 
 ### Câu hỏi 5: Tôi có thể sử dụng Aspose.Imaging for .NET để xử lý hình ảnh phi y tế không?
 
 A5: Chắc chắn rồi! Mặc dù Aspose.Imaging rất linh hoạt để xử lý hình ảnh y tế nhưng nó cũng có thể được sử dụng cho các tác vụ xử lý hình ảnh nói chung.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

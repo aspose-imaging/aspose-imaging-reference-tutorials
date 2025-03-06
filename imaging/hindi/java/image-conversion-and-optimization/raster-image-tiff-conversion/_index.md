@@ -3,10 +3,16 @@ title: Aspose.Imaging के साथ जावा में रैस्टर
 linktitle: रेखापुंज छवि TIFF रूपांतरण
 second_title: Aspose.Imaging जावा इमेज प्रोसेसिंग एपीआई
 description: जावा के लिए Aspose.Imaging का उपयोग करके जावा में रेखापुंज छवियों को TIFF प्रारूप में परिवर्तित करना सीखें। छवि हेरफेर के लिए एक व्यापक मार्गदर्शिका।
-type: docs
 weight: 20
 url: /hi/java/image-conversion-and-optimization/raster-image-tiff-conversion/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging के साथ जावा में रैस्टर इमेज को TIFF में बदलें
+
 यदि आप अपने जावा एप्लिकेशन में रैस्टर छवियों में हेरफेर करना और परिवर्तित करना चाहते हैं, तो जावा के लिए Aspose.Imaging एक आदर्श उपकरण है। यह चरण-दर-चरण ट्यूटोरियल जावा के लिए Aspose.Imaging का उपयोग करके एक रेखापुंज छवि को TIFF प्रारूप में परिवर्तित करने की प्रक्रिया में आपका मार्गदर्शन करेगा। इससे पहले कि हम विवरण में उतरें, आइए देखें कि आरंभ करने के लिए आपको क्या चाहिए।
 
 ## आवश्यक शर्तें
@@ -113,3 +119,9 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "SampleTiff1.tiff"))
 ### Q5: मैं जावा के लिए Aspose.Imaging के बारे में समर्थन कहां से प्राप्त कर सकता हूं या प्रश्न पूछ सकता हूं?
 
  A5: आप Aspose.Imaging समुदाय में शामिल हो सकते हैं और समर्थन प्राप्त कर सकते हैं[Aspose.इमेजिंग फोरम](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

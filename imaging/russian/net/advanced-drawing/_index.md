@@ -3,10 +3,16 @@ title: Расширенное рисование
 linktitle: Расширенное рисование
 second_title: API обработки изображений Aspose.Imaging .NET
 description: Раскройте свой творческий потенциал с помощью расширенных руководств по рисованию в Aspose.Imaging for .NET. Научитесь легко создавать и редактировать изображения с помощью C#.
-type: docs
 weight: 23
 url: /ru/net/advanced-drawing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Расширенное рисование
+
 
 Если вы когда-нибудь хотели окунуться в увлекательный мир продвинутого рисования и манипулирования изображениями с помощью Aspose.Imaging for .NET, вы попали по адресу. Эта статья проведет вас по всем тонкостям использования возможностей Aspose.Imaging для создания потрясающей графики, независимо от того, являетесь ли вы опытным разработчиком или только начинаете.
 
@@ -38,3 +44,9 @@ url: /ru/net/advanced-drawing/
 Изучите создание изображений и манипулирование ими с помощью Aspose.Imaging for .NET. Научитесь с легкостью рисовать и редактировать изображения на C#.
 ### [Рисование с использованием GraphicsPath в Aspose.Imaging для .NET](./draw-using-graphicspath/)
 Создавайте потрясающую графику в .NET с помощью Aspose.Imaging. Изучите пошаговые руководства и раскройте возможности обработки изображений.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

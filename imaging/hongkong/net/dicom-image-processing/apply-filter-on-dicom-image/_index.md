@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for .NET 將濾鏡套用到 DICOM 影像
 linktitle: 在 Aspose.Imaging for .NET 中對 DICOM 映像套用篩選器
 second_title: Aspose.Imaging .NET 映像處理 API
 description: 了解如何使用 Aspose.Imaging for .NET 將濾鏡套用到 DICOM 影像。輕鬆增強醫學影像處理。
-type: docs
 weight: 13
 url: /zh-hant/net/dicom-image-processing/apply-filter-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for .NET 將濾鏡套用到 DICOM 影像
+
 如果您希望使用 Aspose.Imaging for .NET 增強映像處理技能，那麼您來對地方了。在本逐步教學中，我們將引導您完成將濾鏡套用到 DICOM 影像的過程。這個強大的程式庫可讓您輕鬆操作和處理各種影像格式，包括 DICOM。我們將把這個過程分解為可管理的步驟，確保您徹底掌握每個概念。讓我們深入了解吧！
 
 ## 先決條件
@@ -90,3 +96,9 @@ A3：是的，Aspose.Imaging 為影像處理任務提供了多種濾鏡，例如
 ### Q5：如何取得 Aspose.Imaging 的臨時許可證？
 
  A5：您可以從以下地址取得臨時許可證：[這裡](https://purchase.aspose.com/temporary-license/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

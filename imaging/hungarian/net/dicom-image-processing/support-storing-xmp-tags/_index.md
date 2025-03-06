@@ -3,10 +3,16 @@ title: Az XMP-címkék tárolásának támogatása az Aspose.Imaging for .NET-be
 linktitle: Az XMP-címkék tárolásának támogatása az Aspose.Imaging for .NET-ben
 second_title: Aspose.Imaging .NET Image Processing API
 description: Ismerje meg, hogyan adhat hozzá XMP-metaadatokat DICOM-képekhez az Aspose.Imaging for .NET segítségével. Optimalizálja a képkezelést és -szervezést ezzel a lépésről-lépésre szóló útmutatóval.
-type: docs
 weight: 25
 url: /hu/net/dicom-image-processing/support-storing-xmp-tags/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Az XMP-címkék tárolásának támogatása az Aspose.Imaging for .NET-ben
+
 Az Aspose.Imaging for .NET egy hatékony könyvtár, amely lehetővé teszi, hogy különféle képformátumokkal dolgozzon a .NET környezetben. Ebben az oktatóanyagban megvizsgáljuk, hogyan lehet támogatni az XMP (Extensible Metadata Platform) címkék tárolását az Aspose.Imaging for .NET-ben. Az XMP-címkék nélkülözhetetlenek ahhoz, hogy metaadat-információkat adjanak a képekhez, megkönnyítve a digitális eszközök rendszerezését és kezelését. A folyamatot több lépésre bontjuk, hogy megértse, hogyan érheti el ezt.
 
 ## Előfeltételek
@@ -114,3 +120,10 @@ A3: Abszolút. Az Aspose.Imaging for .NET funkciók széles skáláját kínálj
 ### 5. kérdés: Hogyan szerezhetek ideiglenes licencet az Aspose.Imaging for .NET számára?
 
  5. válasz: Ideiglenes licencet szerezhet az Aspose.Imaging for .NET számára, ha meglátogatja[ez a link](https://purchase.aspose.com/temporary-license/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

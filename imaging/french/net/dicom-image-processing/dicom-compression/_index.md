@@ -3,10 +3,16 @@ title: Compression DICOM dans Aspose.Imaging pour .NET
 linktitle: Compression DICOM dans Aspose.Imaging pour .NET
 second_title: API de traitement d'images Aspose.Imaging .NET
 description: Découvrez comment effectuer une compression DICOM à l'aide d'Aspose.Imaging pour .NET. Suivez ce guide étape par étape pour stocker et transmettre efficacement des images médicales avec une qualité diagnostique élevée.
-type: docs
 weight: 17
 url: /fr/net/dicom-image-processing/dicom-compression/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Compression DICOM dans Aspose.Imaging pour .NET
+
 Dans le monde de l’imagerie médicale, la norme DICOM (Digital Imaging and Communications in Medicine) est primordiale pour stocker et partager des images médicales. Aspose.Imaging for .NET, une puissante bibliothèque .NET, fournit une prise en charge complète pour travailler avec des images DICOM. Ce didacticiel vous guidera tout au long du processus de compression DICOM à l'aide d'Aspose.Imaging pour .NET. Nous détaillerons chaque étape et expliquerons le processus en détail.
 
 ## Conditions préalables
@@ -151,3 +157,9 @@ A3 : Oui, Aspose.Imaging pour .NET offre une large gamme de capacités de traite
 ### Q5 : Existe-t-il une version d’essai d’Aspose.Imaging pour .NET disponible pour les tests ?
 
  A5 : Oui, vous pouvez obtenir un[licence d'essai gratuite](https://releases.aspose.com/) pour tester Aspose.Imaging pour .NET avant de faire un achat.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

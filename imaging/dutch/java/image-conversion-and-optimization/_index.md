@@ -3,10 +3,16 @@ title: Beeldconversie en optimalisatie
 linktitle: Beeldconversie en optimalisatie
 second_title: Aspose.Imaging Java-beeldverwerkings-API
 description: Ontdek tutorials voor beeldconversie en -optimalisatie met Aspose.Imaging voor Java. Leer hoe u eenvoudig verschillende afbeeldingsformaten kunt converteren, verbeteren en optimaliseren.
-type: docs
 weight: 20
 url: /nl/java/image-conversion-and-optimization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Beeldconversie en optimalisatie
+
 
 # Invoering
 
@@ -86,3 +92,9 @@ Beheers de kunst van het opslaan van rasterafbeeldingsframes met Aspose.Imaging 
 Leer hoe u rasterafbeeldingen in Java naar TIFF-indeling kunt converteren met behulp van Aspose.Imaging voor Java. Een uitgebreide gids voor beeldmanipulatie.
 ### [TIFF-beeldframe splitsen](./tiff-image-frame-splitting/)
 Leer hoe u TIFF-afbeeldingsframes kunt splitsen met Aspose.Imaging voor Java. Stapsgewijze handleiding met vereisten, codevoorbeelden en veelgestelde vragen voor ontwikkelaars.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

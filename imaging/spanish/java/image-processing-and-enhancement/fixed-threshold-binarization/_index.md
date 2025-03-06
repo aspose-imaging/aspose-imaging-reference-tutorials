@@ -3,10 +3,16 @@ title: Domine la binarización de umbral fijo con Aspose.Imaging para Java
 linktitle: Binarización de umbral fijo
 second_title: Aspose.Imaging API de procesamiento de imágenes Java
 description: Aprenda a realizar una binarización de umbral fijo en imágenes utilizando Aspose.Imaging para Java.
-type: docs
 weight: 21
 url: /es/java/image-processing-and-enhancement/fixed-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Domine la binarización de umbral fijo con Aspose.Imaging para Java
+
 ## Introducción
 
 En el ámbito de la programación Java, existen numerosas herramientas y bibliotecas disponibles para manejar diversas tareas de procesamiento de imágenes. Una de esas bibliotecas potentes y versátiles es Aspose.Imaging para Java. Si es un desarrollador experimentado o recién comienza su viaje en la manipulación de imágenes, Aspose.Imaging proporciona un sólido conjunto de funciones para optimizar sus tareas. En este tutorial, profundizaremos en una de las técnicas fundamentales de procesamiento de imágenes: la binarización de umbral fijo, utilizando Aspose.Imaging para Java.
@@ -119,3 +125,9 @@ R3: Sí, existen bibliotecas alternativas como Java Advanced Imaging (JAI) e Ima
 ### P5: ¿Puedo realizar otras tareas de procesamiento de imágenes con Aspose.Imaging para Java?
 
 R5: ¡Absolutamente! Aspose.Imaging para Java ofrece una amplia gama de funciones de procesamiento de imágenes, que incluyen cambiar el tamaño, recortar, filtrar y más.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

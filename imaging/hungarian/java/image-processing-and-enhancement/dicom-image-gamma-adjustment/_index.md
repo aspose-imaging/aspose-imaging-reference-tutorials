@@ -3,10 +3,16 @@ title: DICOM kép gamma beállítás Aspose.Imaging for Java segítségével
 linktitle: DICOM kép gamma beállítás
 second_title: Aspose.Imaging Java Image Processing API
 description: Ismerje meg, hogyan állíthatja be a DICOM-képek gammáját Java nyelven az Aspose.Imaging for Java segítségével. Növelje az orvosi képminőséget egyszerű lépésekkel.
-type: docs
 weight: 24
 url: /hu/java/image-processing-and-enhancement/dicom-image-gamma-adjustment/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# DICOM kép gamma beállítás Aspose.Imaging for Java segítségével
+
 Javítani szeretné a DICOM-képek minőségét Java-alkalmazásaiban? Az Aspose.Imaging for Java egy nagy teljesítményű és sokoldalú könyvtár, amely lehetővé teszi a képek kezelését és feldolgozását, beleértve a DICOM formátumot is. Ebben a lépésről lépésre bemutatott oktatóanyagban végigvezetjük a DICOM-kép gamma beállításának folyamatán az Aspose.Imaging for Java használatával. 
 
 ## Előfeltételek
@@ -112,3 +118,9 @@ V1: A DICOM (Digital Imaging and Communications in Medicine) egy szabványos for
 ### 5. kérdés: Hol találok további Aspose.Imaging oktatóanyagokat és forrásokat?
 
  A5: Felfedezheti a[Aspose.Képalkotási dokumentáció](https://reference.aspose.com/imaging/java/) átfogó útmutatókért, példákért és API-referenciákért.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

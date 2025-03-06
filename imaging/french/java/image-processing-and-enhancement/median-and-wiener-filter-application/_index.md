@@ -3,10 +3,16 @@ title: Application de filtre médian et Wiener
 linktitle: Application de filtre médian et Wiener
 second_title: API de traitement d'images Java Aspose.Imaging
 description: Découvrez comment améliorer la qualité de l'image avec Aspose.Imaging pour Java. Ce didacticiel étape par étape couvre les applications des filtres Median et Wiener pour le débruitage des images.
-type: docs
 weight: 19
 url: /fr/java/image-processing-and-enhancement/median-and-wiener-filter-application/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Application de filtre médian et Wiener
+
 Dans le monde du traitement d’images, la suppression du bruit et l’amélioration de la qualité de l’image sont des tâches cruciales. Aspose.Imaging for Java est une bibliothèque puissante qui fournit divers outils et filtres pour travailler avec des images. Dans ce didacticiel, nous vous guiderons tout au long du processus d'utilisation de la bibliothèque pour appliquer les filtres Médian et Wiener afin de nettoyer et débruiter une image. Ce guide étape par étape vous aidera à obtenir une amélioration d’image de qualité professionnelle.
 
 ## Conditions préalables
@@ -97,3 +103,9 @@ A4 : En plus du filtre médian, les techniques d'amélioration de l'image inclu
 ### Q5 : Puis-je utiliser Aspose.Imaging pour Java dans mon application Web ?
 
 A5 : Oui, vous pouvez intégrer Aspose.Imaging pour Java dans vos applications Web pour le traitement d'images côté serveur.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -1,12 +1,17 @@
 ---
 title: .NET용 Aspose.Imaging의 포괄적인 튜토리얼 및 예
 linktitle: .NET 튜토리얼용 Aspose.Imaging
-type: docs
 weight: 10
 url: /ko/net/
 description: 심층적인 튜토리얼을 통해 .NET용 Aspose.Imaging의 강력한 기능을 알아보세요. 이미지 구성부터 고급 기능까지, 기술을 향상하고 이미지 처리 게임을 향상시켜 보세요.
-is_root: true
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET용 Aspose.Imaging의 포괄적인 튜토리얼 및 예
+
 
 .NET용 Aspose.Imaging에 대한 종합 가이드에 오신 것을 환영합니다! 초보자이든 전문가이든 이 튜토리얼은 이 강력한 도구를 사용하여 이미지 처리를 마스터하는 데 도움이 됩니다. 이미지 구성부터 고급 기능까지 모든 것을 다룹니다.
 
@@ -72,3 +77,9 @@ is_root: true
 .NET용 Aspose.Imaging을 사용하여 DICOM 이미지 처리에 대한 포괄적인 튜토리얼 시리즈를 살펴보세요. 쉽게 의료 이미지를 향상시키는 방법을 알아보세요.
 ### [고급 기능](./advanced-features/)
 단계별 튜토리얼을 통해 Aspose.Imaging for .NET을 최대한 활용하세요. 원본 옵션을 잠금 해제하고 손쉽게 이미지 작업을 수행하는 방법을 알아보세요.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

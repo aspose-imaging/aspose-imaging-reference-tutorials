@@ -3,10 +3,16 @@ title: Рисование растрового изображения в WMF в 
 linktitle: Рисование растрового изображения в WMF в Aspose.Imaging для .NET
 second_title: API обработки изображений Aspose.Imaging .NET
 description: Узнайте, как рисовать растровые изображения в документах WMF в .NET с помощью Aspose.Imaging. Улучшите свои проекты .NET с помощью креативных наложений изображений.
-type: docs
 weight: 12
 url: /ru/net/vector-image-processing/draw-raster-image-on-wmf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Рисование растрового изображения в WMF в Aspose.Imaging для .NET
+
 
 В сфере .NET-разработки Aspose.Imaging представляет собой универсальный инструмент, который позволяет разработчикам манипулировать изображениями в различных форматах и работать с ними. Среди своих многочисленных возможностей Aspose.Imaging предлагает функцию рисования растровых изображений в документах метафайла Windows (WMF). Эта функция чрезвычайно ценна, когда вам нужно накладывать изображения на векторные документы, открывая мир творческих возможностей.
 
@@ -116,3 +122,10 @@ using (WmfImage resultImage = graphics.EndRecording())
 
 
 Теперь у вас есть знания, позволяющие легко интегрировать рисование изображений в ваши .NET-приложения с помощью Aspose.Imaging for .NET. Эта творческая возможность открывает дверь в мир возможностей для улучшения ваших проектов с помощью наложения изображений. Если у вас есть какие-либо вопросы или вам нужна дополнительная помощь, не стесняйтесь обращаться к сообществу Aspose.Imaging на их форуме поддержки. Приятного кодирования!
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

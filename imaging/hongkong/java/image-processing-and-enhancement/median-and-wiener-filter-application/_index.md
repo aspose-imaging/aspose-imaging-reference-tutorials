@@ -3,10 +3,16 @@ title: 中位數和維納濾波器應用
 linktitle: 中位數和維納濾波器應用
 second_title: Aspose.Imaging Java 圖像處理 API
 description: 了解如何使用 Aspose.Imaging for Java 增強影像品質。本逐步教學涵蓋了用於影像去雜訊的中值濾波器和維納濾波器應用。
-type: docs
 weight: 19
 url: /zh-hant/java/image-processing-and-enhancement/median-and-wiener-filter-application/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 中位數和維納濾波器應用
+
 在影像處理領域，消除雜訊和提高影像品質是至關重要的任務。 Aspose.Imaging for Java 是一個功能強大的函式庫，提供了用於處理影像的各種工具和篩選器。在本教程中，我們將引導您完成使用該庫應用中位數和維納濾波器來清潔影像和去雜訊影像的過程。本逐步指南將幫助您實現專業級影像增強。
 
 ## 先決條件
@@ -97,3 +103,9 @@ A4：除了中值濾波之外，影像增強技術還包括維納濾波、高斯
 ### Q5：我可以在我的 Web 應用程式中使用 Aspose.Imaging for Java 嗎？
 
 A5：是的，您可以將 Aspose.Imaging for Java 整合到您的 Web 應用程式中以進行伺服器端圖像處理。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

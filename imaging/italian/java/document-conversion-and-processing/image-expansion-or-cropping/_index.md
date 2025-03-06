@@ -3,10 +3,16 @@ title: Espansione o ritaglio di immagini con Aspose.Imaging per Java
 linktitle: Espansione o ritaglio dell'immagine
 second_title: Aspose.Imaging API Java di elaborazione delle immagini
 description: Impara l'espansione e il ritaglio delle immagini in Java con Aspose.Imaging. Tutorial passo passo per gli sviluppatori. Migliora le tue capacità di manipolazione delle immagini.
-type: docs
 weight: 12
 url: /it/java/document-conversion-and-processing/image-expansion-or-cropping/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Espansione o ritaglio di immagini con Aspose.Imaging per Java
+
 Nel mondo in continua evoluzione dei media digitali, una manipolazione efficace delle immagini è un’esigenza fondamentale sia per le aziende che per i privati. Aspose.Imaging per Java è una libreria Java versatile che ti consente di lavorare con le immagini senza sforzo. In questo tutorial completo, ti guideremo attraverso il processo di espansione e ritaglio dell'immagine utilizzando Aspose.Imaging per Java. Che tu sia uno sviluppatore esperto o che tu abbia appena iniziato il tuo viaggio nella programmazione, analizzeremo ogni passaggio in modo adatto ai principianti.
 
 ## Prerequisiti
@@ -101,3 +107,9 @@ A3: Sì, Aspose.Imaging per Java è adatto per applicazioni web e può essere in
 ### Q5: È disponibile una prova gratuita per Aspose.Imaging per Java?
 
  R5: Sì, puoi esplorare la libreria con una prova gratuita. Scaricalo da[Qui](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

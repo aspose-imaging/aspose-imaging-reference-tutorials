@@ -3,10 +3,16 @@ title: Rysowanie prostokątów w Aspose.Imaging dla .NET
 linktitle: Narysuj prostokąt w Aspose.Imaging dla .NET
 second_title: Aspose.Imaging .NET API przetwarzania obrazu
 description: Naucz się rysować prostokąty w Aspose.Imaging dla .NET - wszechstronnym narzędziu do manipulacji obrazami w aplikacjach .NET.
-type: docs
 weight: 14
 url: /pl/net/basic-drawing/draw-rectangle/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Rysowanie prostokątów w Aspose.Imaging dla .NET
+
 Tworzenie obrazów i manipulowanie nimi w aplikacjach .NET może być złożonym zadaniem, ale dzięki możliwościom Aspose.Imaging dla .NET staje się to niezwykle proste. W tym przewodniku krok po kroku przeprowadzimy Cię przez proces rysowania prostokątów przy użyciu Aspose.Imaging dla .NET. Dowiesz się, jak stworzyć obraz, ustawić jego właściwości, narysować prostokąty i zapisać swoją pracę. Zanurzmy się!
 
 ## Warunki wstępne
@@ -104,3 +110,9 @@ O4: Tak, Aspose.Imaging dla .NET oferuje szeroką gamę zaawansowanych funkcji p
 ### P5: Gdzie mogę znaleźć więcej zasobów i wsparcia dla Aspose.Imaging dla .NET?
 
  Odpowiedź 5: Możesz uzyskać dostęp do dokumentacji[Tutaj](https://reference.aspose.com/imaging/net/) i szukaj wsparcia na[Forum Aspose.Imaging](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

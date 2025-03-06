@@ -3,10 +3,16 @@ title: Thay đổi kích thước hình ảnh DICOM bằng Aspose.Imaging cho .N
 linktitle: DICOM Thay đổi kích thước đơn giản trong Aspose.Imaging cho .NET
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Tìm hiểu cách thay đổi kích thước hình ảnh DICOM bằng Aspose.Imaging for .NET, một công cụ mạnh mẽ để xử lý hình ảnh y tế. Các bước đơn giản cho kết quả chính xác.
-type: docs
 weight: 19
 url: /vi/net/dicom-image-processing/dicom-simple-resizing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Thay đổi kích thước hình ảnh DICOM bằng Aspose.Imaging cho .NET
+
 Trong lĩnh vực hình ảnh y tế ngày càng phát triển, nhu cầu về tính linh hoạt và độ chính xác trong việc xử lý các tệp DICOM (Hình ảnh kỹ thuật số và truyền thông trong y học) là điều tối quan trọng. Aspose.Imaging for .NET nổi lên như một giải pháp mạnh mẽ, cung cấp một bộ công cụ toàn diện để làm việc với hình ảnh y tế. Trong hướng dẫn này, chúng ta sẽ khám phá quy trình thay đổi kích thước hình ảnh DICOM đơn giản bằng Aspose.Imaging cho .NET. 
 
 ## Điều kiện tiên quyết
@@ -114,3 +120,9 @@ Câu trả lời 4: Aspose.Imaging for .NET tương thích với nhiều phiên 
 ### Câu hỏi 5: Tôi có thể tìm thêm hướng dẫn Aspose.Imaging cho .NET ở đâu?
 
  A5: Bạn có thể khám phá[Aspose.Imaging cho tài liệu .NET](https://reference.aspose.com/imaging/net/) để có được nhiều hướng dẫn và ví dụ.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

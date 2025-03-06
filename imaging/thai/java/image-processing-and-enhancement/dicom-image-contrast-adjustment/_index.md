@@ -3,10 +3,16 @@ title: การปรับความคมชัดของภาพ DICOM 
 linktitle: การปรับความคมชัดของภาพ DICOM
 second_title: Aspose.Imaging Java Image Processing API
 description: เรียนรู้วิธีปรับคอนทราสต์ในภาพ DICOM โดยใช้ Aspose.Imaging สำหรับ Java เพิ่มคุณภาพการมองเห็นของภาพทางการแพทย์ได้อย่างง่ายดาย
-type: docs
 weight: 23
 url: /th/java/image-processing-and-enhancement/dicom-image-contrast-adjustment/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# การปรับความคมชัดของภาพ DICOM ด้วย Aspose.Imaging สำหรับ Java
+
 ในด้านการถ่ายภาพทางการแพทย์ที่มีการพัฒนาอยู่ตลอดเวลา ความสามารถในการปรับคอนทราสต์ของภาพถือเป็นสิ่งสำคัญยิ่ง ด้วยพลังของ Aspose.Imaging สำหรับ Java คุณสามารถจัดการภาพ DICOM (Digital Imaging and Communications in Medicine) ได้อย่างง่ายดายเพื่อปรับปรุงคุณภาพของภาพ บทช่วยสอนนี้จะแนะนำคุณตลอดกระบวนการทีละขั้นตอน เพื่อให้มั่นใจว่าคุณสามารถปรับคอนทราสต์ของภาพได้อย่างแม่นยำและมีประสิทธิภาพ
 
 ## ข้อกำหนดเบื้องต้น
@@ -102,3 +108,9 @@ A3: ใช่ Aspose.Imaging สำหรับ Java มีฟังก์ชั
 ### คำถามที่ 5: ฉันจะค้นหาแหล่งข้อมูลเพิ่มเติมและการสนับสนุนสำหรับ Aspose.Imaging สำหรับ Java ได้ที่ไหน
 
  A5: คุณสามารถค้นหาเอกสารและการสนับสนุนได้ที่[Aspose.Imaging สำหรับฟอรัม Java](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

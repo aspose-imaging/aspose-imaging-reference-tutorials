@@ -3,10 +3,16 @@ title: Beheersen van lijntekenen in Aspose.Imaging voor .NET
 linktitle: Teken lijnen in Aspose.Imaging voor .NET
 second_title: Aspose.Imaging .NET-API voor beeldverwerking
 description: Leer hoe u precieze lijnen tekent in Aspose.Imaging voor .NET. In deze stapsgewijze handleiding wordt het maken van afbeeldingen, het tekenen van lijnen en meer behandeld.
-type: docs
 weight: 13
 url: /nl/net/basic-drawing/draw-lines/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Beheersen van lijntekenen in Aspose.Imaging voor .NET
+
 Als u verbluffende afbeeldingen met precieze lijnen in uw .NET-toepassing wilt maken, is Aspose.Imaging voor .NET een krachtig hulpmiddel dat u kan helpen dit te bereiken. In deze zelfstudie begeleiden we u bij het tekenen van lijnen met Aspose.Imaging voor .NET. In deze stapsgewijze handleiding wordt alles behandeld, van het instellen van de benodigde naamruimten tot het maken van prachtige afbeeldingen met lijnen.
 
 ## Vereisten
@@ -124,3 +130,9 @@ A4: Ja, Aspose.Imaging voor .NET is compatibel met .NET Core, waardoor het gesch
 ### V5: Is er een gratis proefversie van Aspose.Imaging voor .NET beschikbaar?
 
  A5: Ja, u kunt Aspose.Imaging voor .NET uitproberen door de gratis proefversie te downloaden van[hier](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

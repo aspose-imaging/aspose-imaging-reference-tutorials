@@ -3,10 +3,16 @@ title: Snijd DICOM-afbeeldingen bij met Aspose.Imaging voor .NET
 linktitle: DICOM bijsnijden door verschuivingen in Aspose.Imaging voor .NET
 second_title: Aspose.Imaging .NET-API voor beeldverwerking
 description: Leer hoe u DICOM-afbeeldingen bijsnijdt met Aspose.Imaging voor .NET. Verbeter de medische beeldverwerking met deze stapsgewijze handleiding.
-type: docs
 weight: 18
 url: /nl/net/dicom-image-processing/dicom-cropping-by-shifts/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Snijd DICOM-afbeeldingen bij met Aspose.Imaging voor .NET
+
 Het bijsnijden van medische beelden, met name DICOM-beelden, is een cruciale taak in de gezondheidszorg. Het stelt zorgprofessionals in staat zich te concentreren op specifieke interessegebieden, ongewenste elementen te verwijderen en de visuele weergave van diagnostische gegevens te verbeteren. In deze zelfstudie onderzoeken we hoe u DICOM-afbeeldingen kunt bijsnijden met Aspose.Imaging voor .NET, een krachtige bibliotheek die beeldverwerkingstaken in .NET-toepassingen vereenvoudigt.
 
 ## Vereisten
@@ -100,3 +106,9 @@ A2: Ja, Aspose.Imaging voor .NET is een veelzijdige bibliotheek die verschillend
 ### V5: Kan ik Aspose.Imaging voor .NET gebruiken in niet-medische beeldverwerkingstoepassingen?
 
 A5: Absoluut! Hoewel het geweldig is voor medische beeldvorming, kan Aspose.Imaging voor .NET worden gebruikt voor een breed scala aan beeldverwerkingstaken in verschillende domeinen.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

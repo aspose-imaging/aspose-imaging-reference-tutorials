@@ -3,10 +3,16 @@ title: .NET용 Aspose.Imaging의 DICOM 이미지에서 Bradley의 적응형 임�
 linktitle: .NET용 Aspose.Imaging의 DICOM 이미지에서 Bradley의 적응형 임계값을 사용한 이진화
 second_title: Aspose.Imaging .NET 이미지 처리 API
 description: .NET용 Aspose.Imaging을 사용하여 DICOM 이미지에 Bradley의 적응형 임계값을 적용하는 방법을 알아보세요. 단계별 가이드를 통해 이진화가 쉬워졌습니다.
-type: docs
 weight: 14
 url: /ko/net/dicom-image-processing/binarization-with-bradleys-adaptive-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET용 Aspose.Imaging의 DICOM 이미지에서 Bradley의 적응형 임계값을 사용한 이진화
+
 .NET용 Aspose.Imaging을 사용하여 DICOM 이미지에 Bradley의 적응형 임계값을 적용하려고 하시나요? 이 포괄적인 튜토리얼에서는 프로세스를 단계별로 안내합니다. 이 가이드가 끝나면 DICOM 이미지에 대한 이진화를 효율적으로 수행할 수 있게 됩니다. 전제조건부터 네임스페이스 가져오기, 각 예를 여러 단계로 분류하는 것까지 모든 것을 다룰 것입니다.
 
 ## 전제 조건
@@ -97,3 +103,9 @@ A2: 예, 이 튜토리얼에 설명된 대로 여러 DICOM 이미지를 반복�
 ### Q5: .NET용 Aspose.Imaging에 대한 지원을 어떻게 받을 수 있나요?
 
  A5: Aspose 커뮤니티에 가입하고 동료 개발자로부터 지원을 받을 수 있습니다.[Aspose 포럼](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

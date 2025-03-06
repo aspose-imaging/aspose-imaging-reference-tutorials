@@ -3,10 +3,16 @@ title: Obrazy DICOM w skali szarości z Aspose.Imaging dla .NET
 linktitle: Skala szarości w formacie DICOM w Aspose.Imaging dla .NET
 second_title: Aspose.Imaging .NET API przetwarzania obrazu
 description: Dowiedz się, jak przeprowadzić skalowanie szarości na obrazach DICOM za pomocą Aspose.Imaging dla .NET, potężnej biblioteki do przetwarzania obrazów.
-type: docs
 weight: 24
 url: /pl/net/dicom-image-processing/grayscale-on-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Obrazy DICOM w skali szarości z Aspose.Imaging dla .NET
+
 Jeśli pracujesz z danymi obrazowania medycznego w formacie DICOM i musisz wykonać transformacje w skali szarości, Aspose.Imaging dla .NET oferuje potężne rozwiązanie. W tym samouczku krok po kroku przeprowadzimy Cię przez proces skalowania szarości obrazu DICOM przy użyciu Aspose.Imaging. Biblioteka ta jest wszechstronnym narzędziem umożliwiającym pracę z różnymi formatami obrazów, w tym DICOM, w środowisku .NET. Zacznijmy!
 
 ## Warunki wstępne
@@ -85,3 +91,9 @@ Odpowiedź 2: Tak, Aspose.Imaging to wszechstronna biblioteka, która obsługuje
 ### P5: Jak mogę uzyskać pomoc dotyczącą Aspose.Imaging?
 
  A5: Jeśli masz jakieś pytania lub potrzebujesz pomocy, możesz odwiedzić stronę[Forum Aspose.Imaging](https://forum.aspose.com/) aby zwrócić się o pomoc do społeczności lub skontaktować się z jej zespołem wsparcia.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

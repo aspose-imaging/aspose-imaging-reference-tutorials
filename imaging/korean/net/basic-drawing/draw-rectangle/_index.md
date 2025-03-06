@@ -3,10 +3,16 @@ title: .NET용 Aspose.Imaging에서 직사각형 그리기
 linktitle: .NET용 Aspose.Imaging에서 직사각형 그리기
 second_title: Aspose.Imaging .NET 이미지 처리 API
 description: .NET 애플리케이션에서 이미지 조작을 위한 다목적 도구인 Aspose.Imaging for .NET에서 직사각형을 그리는 방법을 알아보세요.
-type: docs
 weight: 14
 url: /ko/net/basic-drawing/draw-rectangle/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET용 Aspose.Imaging에서 직사각형 그리기
+
 .NET 애플리케이션에서 이미지를 생성하고 조작하는 것은 복잡한 작업일 수 있지만 .NET용 Aspose.Imaging의 강력한 기능을 사용하면 놀라울 정도로 간단해집니다. 이 단계별 가이드에서는 .NET용 Aspose.Imaging을 사용하여 직사각형을 그리는 과정을 안내합니다. 이미지를 만들고, 속성을 설정하고, 직사각형을 그리고, 작업을 저장하는 방법을 배우게 됩니다. 뛰어들어보자!
 
 ## 전제 조건
@@ -104,3 +110,9 @@ A4: 예, Aspose.Imaging for .NET은 이미지 크기 조정, 회전 등을 포�
 ### Q5: Aspose.Imaging for .NET에 대한 추가 리소스와 지원은 어디에서 찾을 수 있습니까?
 
  A5: 문서에 액세스할 수 있습니다.[여기](https://reference.aspose.com/imaging/net/) 그리고 이에 대한 지원을 구합니다.[Aspose.이미징 포럼](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

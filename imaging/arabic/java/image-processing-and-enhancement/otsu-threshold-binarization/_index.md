@@ -3,10 +3,16 @@ title: Otsu عتبة Binarization مع Aspose.Imaging لجافا
 linktitle: عتبة أوتسو الثنائية
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: قم بتحسين جودة الصورة باستخدام Aspose.Imaging لـ Otsu Threshold Binarization في Java. اتبع دليلنا خطوة بخطوة للتميز في معالجة الصور.
-type: docs
 weight: 22
 url: /ar/java/image-processing-and-enhancement/otsu-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Otsu عتبة Binarization مع Aspose.Imaging لجافا
+
 في عالم معالجة الصور ومعالجتها، يمثل Aspose.Imaging for Java مجموعة أدوات قوية تمكن المطورين من العمل مع تنسيقات الصور المختلفة. من بين ميزاته العديدة، تعد Otsu Threshold Binarization تقنية مهمة لتحسين الصورة وتحليلها. في هذا البرنامج التعليمي، سنرشدك خلال عملية استخدام Aspose.Imaging for Java لإجراء Otsu Threshold Binarization على الصورة خطوة بخطوة.
 
 ## المتطلبات الأساسية
@@ -105,3 +111,9 @@ A1: Otsu Threshold Binarization هي تقنية في معالجة الصور ت�
 ### س5: هل يمكنني استخدام Aspose.Imaging for Java في مشاريعي التجارية؟
 
 ج5: نعم، Aspose.Imaging for Java مناسب لكل من المشاريع الشخصية والتجارية. يمكنك استكشاف خيارات الترخيص التي تناسب احتياجاتك الخاصة.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

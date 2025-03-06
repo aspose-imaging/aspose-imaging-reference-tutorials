@@ -3,10 +3,16 @@ title: Processamento de imagem DICOM com Aspose.Imaging para .NET
 linktitle: Processamento de imagem DICOM
 second_title: API de processamento de imagem Aspose.Imaging .NET
 description: Explore uma série abrangente de tutoriais sobre processamento de imagens DICOM usando Aspose.Imaging for .NET. Aprenda a aprimorar imagens médicas sem esforço.
-type: docs
 weight: 28
 url: /pt/net/dicom-image-processing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Processamento de imagem DICOM com Aspose.Imaging para .NET
+
 
 Você está ansioso para dominar a arte do processamento de imagens DICOM com Aspose.Imaging for .NET? Não procure mais! Nesta série de tutoriais, orientaremos você através de diversas técnicas para aprimorar e manipular imagens médicas com facilidade. Quer você seja um profissional médico, um desenvolvedor ou apenas um aluno curioso, esses tutoriais irão equipá-lo com o conhecimento e as habilidades para aproveitar ao máximo o Aspose.Imaging for .NET.
 
@@ -108,3 +114,9 @@ Aprenda como exportar imagens para o formato DICOM em .NET usando Aspose.Imaging
 Aprenda como realizar escala de cinza em imagens DICOM com Aspose.Imaging for .NET, uma poderosa biblioteca de processamento de imagens.
 ### [Suporte ao armazenamento de tags XMP em Aspose.Imaging for .NET](./support-storing-xmp-tags/)
 Aprenda como adicionar metadados XMP a imagens DICOM usando Aspose.Imaging for .NET. Otimize o gerenciamento e a organização de imagens com este guia passo a passo.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

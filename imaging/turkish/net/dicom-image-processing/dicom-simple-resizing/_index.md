@@ -3,10 +3,16 @@ title: DICOM Görüntülerini Aspose.Imaging for .NET ile yeniden boyutlandırı
 linktitle: Aspose.Imaging for .NET'te DICOM Basit Yeniden Boyutlandırma
 second_title: Aspose.Imaging .NET Görüntü İşleme API'si
 description: Tıbbi görüntü işleme için güçlü bir araç olan Aspose.Imaging for .NET'i kullanarak DICOM görüntülerini nasıl yeniden boyutlandıracağınızı öğrenin. Kesin sonuçlar için basit adımlar.
-type: docs
 weight: 19
 url: /tr/net/dicom-image-processing/dicom-simple-resizing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# DICOM Görüntülerini Aspose.Imaging for .NET ile yeniden boyutlandırın
+
 Sürekli gelişen tıbbi görüntüleme alanında, DICOM (Tıpta Dijital Görüntüleme ve İletişim) dosyalarının işlenmesinde esneklik ve hassasiyet ihtiyacı çok önemlidir. Aspose.Imaging for .NET, tıbbi görüntülerle çalışmak için kapsamlı bir araç seti sunan güçlü bir çözüm olarak ortaya çıkıyor. Bu eğitimde Aspose.Imaging for .NET kullanarak DICOM görüntülerini yeniden boyutlandırmanın basit sürecini inceleyeceğiz. 
 
 ## Önkoşullar
@@ -114,3 +120,9 @@ Cevap4: Aspose.Imaging for .NET, .NET Core ve .NET Standard dahil olmak üzere .
 ### S5: Daha fazla Aspose.Imaging for .NET eğitimini nerede bulabilirim?
 
  A5: keşfedebilirsiniz[Aspose.Imaging for .NET belgeleri](https://reference.aspose.com/imaging/net/) Çok çeşitli eğitimler ve örnekler için.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Putar Gambar DICOM dengan Aspose.Imaging untuk .NET
 linktitle: Putar Gambar DICOM di Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Jelajahi rotasi gambar DICOM dengan Aspose.Imaging untuk .NET. Panduan langkah demi langkah untuk memanipulasi gambar medis.
-type: docs
 weight: 11
 url: /id/net/image-transformation/rotate-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Putar Gambar DICOM dengan Aspose.Imaging untuk .NET
+
 ## Perkenalan
 
 Di era digital saat ini, pemrosesan gambar telah menjadi bagian integral dari berbagai industri, mulai dari layanan kesehatan hingga desain dan seterusnya. Jika Anda seorang pengembang .NET yang ingin memanipulasi dan menyempurnakan gambar medis, Aspose.Imaging for .NET adalah alat canggih yang dapat Anda gunakan. Dalam panduan komprehensif ini, kami akan memandu Anda melalui proses memutar gambar DICOM menggunakan Aspose.Imaging untuk .NET.
@@ -94,3 +100,9 @@ A4: Tentu saja! Aspose.Imaging for .NET melayani pengembang dari semua tingkat k
 ### Q5: Apakah ada opsi lisensi untuk Aspose.Imaging untuk .NET?
 
  A5: Ya, Anda dapat menjelajahi opsi lisensi, termasuk uji coba gratis dan pembelian, di[Aspose.Imaging halaman pembelian](https://purchase.aspose.com/buy) Dan[izin sementara](https://purchase.aspose.com/temporary-license/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

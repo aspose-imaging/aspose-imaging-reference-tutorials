@@ -3,10 +3,16 @@ title: การเรียนรู้จานสีเคลือบ Panton
 linktitle: จานสีเคลือบ Pantone Goe ใน Aspose.Imaging สำหรับ .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: เรียนรู้วิธีการทำงานกับ Pantone Goe Coated Palette ใน Aspose.Imaging สำหรับ .NET สร้าง จัดการ และแปลงรูปภาพได้อย่างง่ายดาย
-type: docs
 weight: 12
 url: /th/net/advanced-features/pantone-goe-coated-palette/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# การเรียนรู้จานสีเคลือบ Pantone Goe ด้วย Aspose.Imaging สำหรับ .NET
+
 คุณพร้อมที่จะดำดิ่งสู่โลกแห่งสีสันที่สดใสด้วย Aspose.Imaging สำหรับ .NET แล้วหรือยัง? ในบทช่วยสอนทีละขั้นตอนนี้ เราจะสำรวจวิธีการทำงานกับ Pantone Goe Coated Palette โดยใช้ Aspose.Imaging ไลบรารีอันทรงพลังนี้มอบเครื่องมือที่คุณต้องการเพื่อจัดการและสร้างรูปภาพได้อย่างง่ายดาย 
 
 ## ข้อกำหนดเบื้องต้น
@@ -92,3 +98,9 @@ File.Delete(dataDir + "result.png");
 ### คำถามที่ 5: ฉันจะรับการสนับสนุนหรือถามคำถามได้ที่ไหน
 
  A5: คุณสามารถเยี่ยมชมฟอรัมชุมชน Aspose.Imaging สำหรับ .NET ได้ที่[Aspose. สนับสนุนการถ่ายภาพ](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

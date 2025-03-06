@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET の DICOM 画像に対する Otsu しきい値に
 linktitle: Aspose.Imaging for .NET の DICOM 画像に対する Otsu しきい値による 2 値化
 second_title: Aspose.Imaging .NET 画像処理 API
 description: Aspose.Imaging for .NET を使用して医療画像処理を強化します。 Otsu しきい値を使用して DICOM 画像の 2 値化を実行する方法を学びます。
-type: docs
 weight: 16
 url: /ja/net/dicom-image-processing/binarization-with-otsu-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET の DICOM 画像に対する Otsu しきい値による 2 値化
+
 画像処理と操作の世界では、効率的なツールとライブラリが不可欠です。 Aspose.Imaging for .NET は、開発者が DICOM (Digital Imaging and Communications in Medicine) ファイルなどのさまざまな画像形式を操作できるようにする強力なライブラリの 1 つです。この包括的なガイドでは、Aspose.Imaging for .NET を使用した DICOM 画像の Otsu Threshold による 2 値化のプロセスについて説明します。この機能をプロジェクトにシームレスに実装できるように、プロセスをわかりやすい手順に分けて説明します。
 
 ## 前提条件
@@ -90,3 +96,9 @@ A4: ドキュメントについては、次のサイトを参照してくださ�
 ### Q5: 購入する前に、Aspose.Imaging for .NET を試すことはできますか?
 
  A5: はい、次から無料トライアルをダウンロードして、Aspose.Imaging for .NET の機能を試すことができます。[このリンク](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

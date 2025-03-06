@@ -3,10 +3,16 @@ title: Otsu-Schwellenwertbinarisierung mit Aspose.Imaging für Java
 linktitle: Otsu-Schwellenwertbinarisierung
 second_title: Aspose.Imaging Java-Bildverarbeitungs-API
 description: Verbessern Sie die Bildqualität mit Aspose.Imaging für Javas Otsu Threshold Binarization. Befolgen Sie unsere Schritt-für-Schritt-Anleitung für hervorragende Bildverarbeitung.
-type: docs
 weight: 22
 url: /de/java/image-processing-and-enhancement/otsu-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Otsu-Schwellenwertbinarisierung mit Aspose.Imaging für Java
+
 In der Welt der Bildverarbeitung und -manipulation steht Aspose.Imaging für Java als robustes Toolkit, das Entwicklern die Arbeit mit verschiedenen Bildformaten ermöglicht. Unter den vielen Funktionen ist die Otsu Threshold Binarization eine entscheidende Technik zur Bildverbesserung und -analyse. In diesem Tutorial führen wir Sie Schritt für Schritt durch den Prozess der Verwendung von Aspose.Imaging für Java, um die Otsu-Schwellenwertbinarisierung für ein Bild durchzuführen.
 
 ## Voraussetzungen
@@ -105,3 +111,9 @@ A1: Otsu Threshold Binarization ist eine Technik in der Bildverarbeitung, die au
 ### F5: Kann ich Aspose.Imaging für Java in meinen kommerziellen Projekten verwenden?
 
 A5: Ja, Aspose.Imaging für Java eignet sich sowohl für private als auch für kommerzielle Projekte. Sie können die Lizenzierungsoptionen erkunden, die Ihren spezifischen Anforderungen entsprechen.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

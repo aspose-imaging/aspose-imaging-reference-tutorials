@@ -3,10 +3,16 @@ title: قم بتحسين الصور الملونة باستخدام مرشح Wie
 linktitle: تطبيق مرشح وينر على الصور الملونة
 second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
 description: تعرف على كيفية تطبيق مرشح Wiener على الصور الملونة في Java باستخدام Aspose.Imaging for Java. تحسين جودة الصورة وتقليل الضوضاء دون عناء.
-type: docs
 weight: 18
 url: /ar/java/image-processing-and-enhancement/apply-wiener-filter-to-colored-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# قم بتحسين الصور الملونة باستخدام مرشح Wiener باستخدام Aspose.Imaging لـ Java
+
 إذا كنت تتطلع إلى تحسين جودة صورك الملونة وتقليل الضوضاء، فإن Aspose.Imaging for Java هو ما تحتاجه. في هذا البرنامج التعليمي خطوة بخطوة، سنرشدك خلال عملية تطبيق مرشح Wiener على الصور الملونة. يعد ترشيح Wiener تقنية قوية يمكنها تحسين جودة الصورة بشكل كبير. هيا بنا نبدأ!
 
 ## المتطلبات الأساسية
@@ -103,3 +109,9 @@ A1: يعد مرشح Wiener أسلوبًا رياضيًا يستخدم لتقلي
 ### س5: هل يمكنني استخدام Aspose.Imaging لأغراض تجارية؟
 
 ج5: نعم، يمكنك استخدام Aspose.Imaging for Java للمشروعات التجارية. للحصول على الترخيص يمكنك زيارة[صفحة الشراء](https://purchase.aspose.com/buy).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

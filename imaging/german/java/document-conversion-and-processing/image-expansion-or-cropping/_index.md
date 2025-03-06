@@ -3,10 +3,16 @@ title: Bilderweiterung oder Zuschneiden mit Aspose.Imaging für Java
 linktitle: Bilderweiterung oder Zuschnitt
 second_title: Aspose.Imaging Java-Bildverarbeitungs-API
 description: Lernen Sie die Bilderweiterung und das Zuschneiden in Java mit Aspose.Imaging. Schritt-für-Schritt-Anleitung für Entwickler. Verbessern Sie Ihre Bildbearbeitungsfähigkeiten.
-type: docs
 weight: 12
 url: /de/java/document-conversion-and-processing/image-expansion-or-cropping/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Bilderweiterung oder Zuschneiden mit Aspose.Imaging für Java
+
 In der sich ständig weiterentwickelnden Welt der digitalen Medien ist eine effektive Bildbearbeitung ein grundlegendes Bedürfnis sowohl für Unternehmen als auch für Privatpersonen. Aspose.Imaging für Java ist eine vielseitige Java-Bibliothek, mit der Sie mühelos mit Bildern arbeiten können. In diesem umfassenden Tutorial führen wir Sie durch den Prozess der Bilderweiterung und des Zuschneidens mit Aspose.Imaging für Java. Egal, ob Sie ein erfahrener Entwickler sind oder gerade erst mit dem Codieren beginnen, wir erklären jeden Schritt auf anfängerfreundliche Weise.
 
 ## Voraussetzungen
@@ -101,3 +107,9 @@ A3: Ja, Aspose.Imaging für Java ist für Webanwendungen geeignet und kann in Ih
 ### F5: Gibt es eine kostenlose Testversion für Aspose.Imaging für Java?
 
  A5: Ja, Sie können die Bibliothek mit einer kostenlosen Testversion erkunden. Laden Sie es herunter von[Hier](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

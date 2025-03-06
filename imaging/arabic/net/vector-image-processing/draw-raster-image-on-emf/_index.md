@@ -3,10 +3,16 @@ title: ارسم صورًا نقطية على EMF باستخدام Aspose.Imaging
 linktitle: ارسم صورة نقطية على EMF في Aspose.Imaging لـ .NET
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: تعرف على كيفية رسم الصور النقطية على ملفات EMF باستخدام Aspose.Imaging for .NET. قم بإنشاء صور مذهلة دون عناء.
-type: docs
 weight: 10
 url: /ar/net/vector-image-processing/draw-raster-image-on-emf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# ارسم صورًا نقطية على EMF باستخدام Aspose.Imaging لـ .NET
+
 
 ## مقدمة
 
@@ -121,3 +127,10 @@ using (EmfImage resultImage = graphics.EndRecording())
 ### 5. أين يمكنني الحصول على الدعم لـ Aspose.Imaging؟
 
  للحصول على الدعم والمساعدة، يمكنك زيارة منتدى Aspose.Imaging[هنا](https://forum.aspose.com/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

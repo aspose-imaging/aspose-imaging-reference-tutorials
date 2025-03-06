@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET ile Görüntülerde Metin Ölçümü
 linktitle: Aspose.Imaging for .NET'te Metni Ölçme
 second_title: Aspose.Imaging .NET Görüntü İşleme API'si
 description: Aspose.Imaging for .NET'i kullanarak görüntülerdeki metni ölçün. Güçlü bir .NET kitaplığı. Hassas ve etkili metin ölçümü.
-type: docs
 weight: 10
 url: /tr/net/text-and-measurements/measure-text/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET ile Görüntülerde Metin Ölçümü
+
 Görüntüleri işlemek ve metni hassas bir şekilde ölçmek isteyen bir .NET geliştiricisiyseniz Aspose.Imaging for .NET güçlü bir çözümdür. Bu adım adım kılavuzda, önkoşullardan başlayıp pratik bir örnekle sona ererek Aspose.Imaging kullanarak metnin nasıl ölçüleceğini keşfedeceğiz. Haydi hemen dalalım!
 
 ## Önkoşullar
@@ -95,3 +101,9 @@ Daha sonra, metin ölçümü için gerekli olan bir Grafik nesnesi yaratırsın�
 ### S5: Aspose.Imaging for .NET'i nasıl indirebilirim?
 
  Cevap5: Aspose.Imaging for .NET'i şu adresten indirebilirsiniz:[indirme sayfası](https://releases.aspose.com/imaging/net/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Tạo hình ảnh WMF bằng Aspose.Imaging cho Java
 linktitle: Tạo hình ảnh siêu tệp WMF
 second_title: Aspose.Imaging API xử lý hình ảnh Java
 description: Tìm hiểu cách tạo hình ảnh siêu tệp WMF trong Java bằng Aspose.Imaging. Hãy làm theo hướng dẫn từng bước này để có khả năng tạo hình ảnh mạnh mẽ.
-type: docs
 weight: 10
 url: /vi/java/metafile-and-vector-image-handling/generate-wmf-metafile-images/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Tạo hình ảnh WMF bằng Aspose.Imaging cho Java
+
 Bạn đang muốn tạo hình ảnh WMF (Windows Metafile) bằng các ứng dụng Java của mình? Aspose.Imaging for Java là một công cụ mạnh mẽ cho phép bạn tạo hình ảnh WMF một cách dễ dàng. Trong hướng dẫn từng bước này, chúng tôi sẽ hướng dẫn bạn quy trình sử dụng Aspose.Imaging cho Java để tạo hình ảnh siêu tệp WMF. 
 
 ## Điều kiện tiên quyết
@@ -200,3 +206,9 @@ Câu trả lời 3: Mặc dù cần có kiến thức lập trình Java cơ bả
 ### Câu hỏi 5: Tôi có thể nhận hỗ trợ hoặc đặt câu hỏi về Aspose.Imaging cho Java ở đâu?
 
  Câu trả lời 5: Bạn có thể tìm thấy sự hỗ trợ và tương tác với cộng đồng Aspose trên[Diễn đàn Aspose.Imaging](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

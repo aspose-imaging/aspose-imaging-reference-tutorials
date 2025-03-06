@@ -3,10 +3,16 @@ title: Dessiner une image raster sur WMF dans Aspose.Imaging pour .NET
 linktitle: Dessiner une image raster sur WMF dans Aspose.Imaging pour .NET
 second_title: API de traitement d'images Aspose.Imaging .NET
 description: Découvrez comment dessiner des images raster sur des documents WMF dans .NET à l'aide d'Aspose.Imaging. Améliorez vos projets .NET avec des superpositions d'images créatives.
-type: docs
 weight: 12
 url: /fr/net/vector-image-processing/draw-raster-image-on-wmf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Dessiner une image raster sur WMF dans Aspose.Imaging pour .NET
+
 
 Dans le domaine du développement .NET, Aspose.Imaging se présente comme un outil polyvalent qui permet aux développeurs de manipuler et de travailler avec des images dans différents formats. Parmi ses nombreuses fonctionnalités, Aspose.Imaging offre la possibilité de dessiner des images raster sur des documents Windows Metafile (WMF). Cette fonctionnalité est extrêmement précieuse lorsque vous devez superposer des images sur des documents vectoriels, ouvrant ainsi un monde de possibilités créatives.
 
@@ -116,3 +122,10 @@ N'oubliez pas d'obtenir la bibliothèque Aspose.Imaging for .NET sur le site Web
 
 
 Vous disposez désormais des connaissances nécessaires pour intégrer de manière transparente le dessin d’images dans vos applications .NET à l’aide d’Aspose.Imaging for .NET. Cette capacité créative ouvre la porte à un monde de possibilités pour améliorer vos projets avec des superpositions d'images. Si vous avez des questions ou avez besoin d'aide supplémentaire, n'hésitez pas à contacter la communauté Aspose.Imaging sur son forum d'assistance. Bon codage !
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

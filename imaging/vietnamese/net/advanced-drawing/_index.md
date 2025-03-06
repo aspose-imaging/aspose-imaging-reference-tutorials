@@ -3,10 +3,16 @@ title: Vẽ nâng cao
 linktitle: Vẽ nâng cao
 second_title: API xử lý hình ảnh Aspose.Imaging .NET
 description: Giải phóng khả năng sáng tạo của bạn bằng các hướng dẫn vẽ nâng cao trong Aspose.Imaging cho .NET. Tìm hiểu cách tạo và chỉnh sửa hình ảnh dễ dàng bằng C#.
-type: docs
 weight: 23
 url: /vi/net/advanced-drawing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Vẽ nâng cao
+
 
 Nếu bạn đã từng muốn đi sâu vào thế giới quyến rũ của thao tác vẽ và hình ảnh nâng cao bằng Aspose.Imaging cho .NET, thì bạn đã đến đúng nơi. Bài viết này sẽ đưa bạn vào cuộc hành trình tìm hiểu chi tiết về việc khai thác sức mạnh của Aspose.Imaging để tạo ra đồ họa tuyệt đẹp, cho dù bạn là nhà phát triển dày dạn hay chỉ mới bắt đầu.
 
@@ -38,3 +44,9 @@ Vì vậy, tại sao phải chờ đợi? Hòa mình vào thế giới của Asp
 Khám phá việc tạo và thao tác hình ảnh với Aspose.Imaging cho .NET. Học cách vẽ và chỉnh sửa hình ảnh trong C# một cách dễ dàng.
 ### [Vẽ bằng GraphicsPath trong Aspose.Imaging cho .NET](./draw-using-graphicspath/)
 Tạo đồ họa tuyệt đẹp trong .NET với Aspose.Imaging. Khám phá các hướng dẫn từng bước và khám phá sức mạnh của việc xử lý hình ảnh.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

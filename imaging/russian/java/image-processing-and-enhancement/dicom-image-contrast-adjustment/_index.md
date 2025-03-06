@@ -3,10 +3,16 @@ title: Настройка контрастности изображения DICO
 linktitle: Регулировка контрастности изображения DICOM
 second_title: Aspose.Imaging API обработки изображений Java
 description: Узнайте, как настроить контрастность изображений DICOM с помощью Aspose.Imaging for Java. Повышайте визуальное качество медицинских изображений без особых усилий.
-type: docs
 weight: 23
 url: /ru/java/image-processing-and-enhancement/dicom-image-contrast-adjustment/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Настройка контрастности изображения DICOM с помощью Aspose.Imaging для Java
+
 В постоянно развивающейся области медицинской визуализации возможность регулировки контрастности изображения имеет первостепенное значение. Благодаря возможностям Aspose.Imaging for Java вы можете легко манипулировать изображениями DICOM (цифровая визуализация и коммуникации в медицине) для улучшения их визуального качества. Это руководство шаг за шагом проведет вас через весь процесс, гарантируя, что вы достигнете точной и эффективной настройки контрастности изображения.
 
 ## Предварительные условия
@@ -102,3 +108,9 @@ A1: DICOM означает цифровую визуализацию и комм
 ### Вопрос 5. Где я могу найти дополнительные ресурсы и поддержку Aspose.Imaging для Java?
 
  A5: Вы можете найти документацию и поддержку на[Форум Aspose.Imaging для Java](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

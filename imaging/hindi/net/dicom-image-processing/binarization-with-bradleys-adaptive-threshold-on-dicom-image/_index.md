@@ -3,10 +3,16 @@ title: .NET के लिए Aspose.Imaging में DICOM छवि पर ब
 linktitle: .NET के लिए Aspose.Imaging में DICOM छवि पर ब्रैडली के अनुकूली थ्रेसहोल्ड के साथ बाइनराइजेशन
 second_title: Aspose.Imaging .NET इमेज प्रोसेसिंग एपीआई
 description: .NET के लिए Aspose.Imaging का उपयोग करके ब्रैडली के एडाप्टिव थ्रेशोल्ड को DICOM छवियों पर लागू करना सीखें। चरण-दर-चरण मार्गदर्शिका के साथ बाइनराइज़ेशन को आसान बना दिया गया।
-type: docs
 weight: 14
 url: /hi/net/dicom-image-processing/binarization-with-bradleys-adaptive-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET के लिए Aspose.Imaging में DICOM छवि पर ब्रैडली के अनुकूली थ्रेसहोल्ड के साथ बाइनराइजेशन
+
 क्या आप .NET के लिए Aspose.Imaging का उपयोग करके ब्रैडली के एडाप्टिव थ्रेशोल्ड को DICOM छवि पर लागू करना चाह रहे हैं? इस व्यापक ट्यूटोरियल में, हम आपको चरण दर चरण प्रक्रिया के बारे में बताएंगे। इस गाइड के अंत तक, आप DICOM छवियों पर कुशलतापूर्वक बाइनराइज़ेशन करने में सक्षम होंगे। हम पूर्वापेक्षाओं से लेकर नामस्थान आयात करने और प्रत्येक उदाहरण को कई चरणों में तोड़ने तक सब कुछ कवर करेंगे।
 
 ## आवश्यक शर्तें
@@ -97,3 +103,9 @@ A2: हां, आप कई DICOM छवियों के माध्यम 
 ### Q5: मैं .NET के लिए Aspose.Imaging के लिए समर्थन कैसे प्राप्त कर सकता हूं?
 
  A5: आप Aspose समुदाय में शामिल हो सकते हैं और साथी डेवलपर्स से समर्थन प्राप्त कर सकते हैं[एस्पोज़ फोरम](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

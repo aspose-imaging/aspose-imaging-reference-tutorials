@@ -3,10 +3,16 @@ title: Aspose.Imaging for .NET'te Görüntüleri DICOM'a Aktarın
 linktitle: Aspose.Imaging for .NET'te DICOM'a aktarın
 second_title: Aspose.Imaging .NET Görüntü İşleme API'si
 description: Aspose.Imaging'i kullanarak görüntüleri .NET'te DICOM formatına nasıl aktaracağınızı öğrenin. Tıbbi görüntüleri zahmetsizce dönüştürün.
-type: docs
 weight: 23
 url: /tr/net/dicom-image-processing/export-to-dicom/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for .NET'te Görüntüleri DICOM'a Aktarın
+
 Tıbbi görüntüleme alanında, Tıpta Dijital Görüntüleme ve İletişim (DICOM) formatı tartışmasız kraldır. DICOM dosyaları, tıbbi görüntüleri ve ilgili bilgileri depolayıp yöneterek, farklı sağlık sistemleri arasında tıbbi görüntülerin kesintisiz alışverişini ve yorumlanmasını kolaylaştırır. .NET uygulamanızda DICOM dosyalarıyla çalışmak istiyorsanız doğru yerdesiniz. Bu eğitimde, süreci kolaylaştıran güçlü bir kütüphane olan Aspose.Imaging for .NET'i kullanarak görüntüleri DICOM'a nasıl aktaracağımızı inceleyeceğiz. Bu kılavuzun sonunda Aspose.Imaging for .NET'in potansiyelinden yararlanacak ve DICOM dosyalarını zahmetsizce oluşturacak bilgiyle donatılacaksınız.
 
 ## Önkoşullar
@@ -106,3 +112,9 @@ Cevap4: Aspose.Imaging for .NET, dönüştürme işlemi sırasında DICOM meta v
 ### S5: Aspose.Imaging for .NET'in deneme sürümü mevcut mu?
 
  Cevap5: Evet, Aspose.Imaging for .NET'in yeteneklerini değerlendirmek için ücretsiz deneme sürümüne erişebilirsiniz. Deneme sürümünü indirebilirsiniz[Burada](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

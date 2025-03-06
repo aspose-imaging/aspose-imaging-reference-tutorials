@@ -3,10 +3,16 @@ title: Java용 Aspose.Imaging을 사용하여 래스터 이미지를 PDF로 변�
 linktitle: 래스터 이미지를 PDF로 변환
 second_title: Aspose.Imaging Java 이미지 처리 API
 description: Aspose.Imaging for Java를 사용하여 래스터 이미지를 PDF로 변환하는 방법을 알아보세요. 고품질 결과를 위한 간단한 단계.
-type: docs
 weight: 15
 url: /ko/java/document-conversion-and-processing/convert-raster-images-to-pdf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Java용 Aspose.Imaging을 사용하여 래스터 이미지를 PDF로 변환
+
 디지털 문서 관리 영역에서 래스터 이미지를 PDF로 변환하는 기능은 중추적인 기능입니다. 스캔한 사진, 다이어그램 또는 기타 유형의 이미지를 처리하는 경우 이를 PDF 형식으로 변환하면 이식성, 호환성 및 향상된 문서 관리가 보장됩니다. Aspose.Imaging for Java는 개발자가 이 작업을 쉽게 수행할 수 있도록 지원하는 다목적 Java 라이브러리입니다. 이 포괄적인 튜토리얼에서는 Aspose.Imaging for Java를 사용하여 래스터 이미지를 PDF로 변환하는 프로세스를 단계별로 안내합니다.
 
 ## 전제 조건
@@ -89,3 +95,9 @@ A3: Aspose.Imaging for Java는 PDF로 변환하기 위해 PNG, JPEG, GIF, BMP, T
 ### Q5. Java 사용자를 위한 Aspose.Imaging에 대한 기술 지원이 제공됩니까?
 
  A5: 예, Aspose는 Java용 Aspose.Imaging을 포함한 자사 제품에 대한 기술 지원을 제공합니다. 해당 지원팀에 문의할 수 있습니다.[법정](https://forum.aspose.com/)도움을 위해.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

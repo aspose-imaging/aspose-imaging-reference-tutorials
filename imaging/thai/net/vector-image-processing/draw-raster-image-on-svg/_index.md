@@ -3,10 +3,16 @@ title: วิธีวาดภาพแรสเตอร์บน SVG ใน A
 linktitle: วาดภาพแรสเตอร์บน SVG ใน Aspose.Imaging สำหรับ .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: เรียนรู้วิธีการวาดภาพแรสเตอร์บน SVG โดยใช้ Aspose.Imaging สำหรับ .NET ปรับปรุงแอปพลิเคชัน .NET ของคุณด้วยรูปภาพแบบไดนามิก
-type: docs
 weight: 11
 url: /th/net/vector-image-processing/draw-raster-image-on-svg/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# วิธีวาดภาพแรสเตอร์บน SVG ใน Aspose.Imaging สำหรับ .NET
+
 
 ในโลกของการเขียนโปรแกรม .NET Aspose.Imaging ถือเป็นไลบรารี่ที่เชื่อถือได้และอเนกประสงค์สำหรับจัดการงานต่างๆ ที่เกี่ยวข้องกับรูปภาพ ความสามารถอันน่าทึ่งประการหนึ่งที่มีให้คือความสามารถในการวาดภาพแรสเตอร์บนผืนผ้าใบ SVG ในคำแนะนำทีละขั้นตอนนี้ เราจะแนะนำคุณตลอดขั้นตอนการวาดภาพแรสเตอร์บน SVG โดยใช้ Aspose.Imaging สำหรับ .NET
 
@@ -100,3 +106,10 @@ using (SvgImage resultImage = graphics.EndRecording())
     คุณสามารถรับใบอนุญาตชั่วคราวได้จาก[ที่นี่](https://purchase.aspose.com/temporary-license/).
 
 
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

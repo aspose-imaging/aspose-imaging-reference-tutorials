@@ -3,10 +3,16 @@ title: Poradniki dotyczące tekstów i pomiarów z Aspose.Imaging .NET
 linktitle: Tekst i pomiary
 second_title: Aspose.Imaging .NET API przetwarzania obrazu
 description: Dowiedz się, jak mierzyć tekst na obrazach za pomocą Aspose.Imaging dla .NET, potężnego i precyzyjnego narzędzia. Zapoznaj się z samouczkami, aby opanować techniki pomiaru tekstu.
-type: docs
 weight: 26
 url: /pl/net/text-and-measurements/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Poradniki dotyczące tekstów i pomiarów z Aspose.Imaging .NET
+
 
 Czy intryguje Cię pomysł dokładnego pomiaru tekstu na obrazach? Cóż, jesteś we właściwym miejscu! W tym artykule zagłębimy się w świat pomiaru tekstu za pomocą Aspose.Imaging dla .NET. Przyjrzymy się tej potężnej bibliotece .NET, która oferuje precyzyjne i wydajne możliwości pomiaru tekstu. Zanim skończysz czytać, będziesz na dobrej drodze do zostania ekspertem w dziedzinie pomiaru tekstu.
 
@@ -28,3 +34,9 @@ Ten artykuł był Twoim przewodnikiem po opanowaniu pomiaru tekstu przy użyciu 
 ## Poradniki dotyczące tekstów i pomiarów
 ### [Zmierz tekst w Aspose.Imaging dla .NET](./measure-text/)
 Zmierz tekst na obrazach za pomocą Aspose.Imaging dla .NET. Potężna biblioteka .NET. Precyzyjny i wydajny pomiar tekstu.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

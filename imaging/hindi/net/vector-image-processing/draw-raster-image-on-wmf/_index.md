@@ -3,10 +3,16 @@ title: .NET के लिए Aspose.Imaging में WMF पर रैस्ट
 linktitle: .NET के लिए Aspose.Imaging में WMF पर रैस्टर छवि बनाएं
 second_title: Aspose.Imaging .NET इमेज प्रोसेसिंग एपीआई
 description: Aspose.Imaging का उपयोग करके .NET में WMF दस्तावेज़ों पर रेखापुंज चित्र बनाना सीखें। रचनात्मक छवि ओवरले के साथ अपने .NET प्रोजेक्ट्स को बेहतर बनाएं।
-type: docs
 weight: 12
 url: /hi/net/vector-image-processing/draw-raster-image-on-wmf/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET के लिए Aspose.Imaging में WMF पर रैस्टर छवि बनाएं
+
 
 .NET विकास के क्षेत्र में, Aspose.Imaging एक बहुमुखी उपकरण के रूप में खड़ा है जो डेवलपर्स को विभिन्न प्रारूपों में छवियों के साथ हेरफेर करने और काम करने का अधिकार देता है। अपनी कई क्षमताओं के बीच, Aspose.Imaging विंडोज़ मेटाफ़ाइल (WMF) दस्तावेज़ों पर रेखापुंज चित्र बनाने की सुविधा प्रदान करता है। यह कार्यक्षमता अत्यंत मूल्यवान है जब आपको वेक्टर-आधारित दस्तावेज़ों पर छवियों को ओवरले करने की आवश्यकता होती है, जिससे रचनात्मक संभावनाओं की दुनिया खुल जाती है।
 
@@ -116,3 +122,10 @@ using (WmfImage resultImage = graphics.EndRecording())
 
 
 अब, आपके पास .NET के लिए Aspose.Imaging का उपयोग करके छवि ड्राइंग को अपने .NET अनुप्रयोगों में सहजता से एकीकृत करने का ज्ञान है। यह रचनात्मक क्षमता छवि ओवरले के साथ आपकी परियोजनाओं को बढ़ाने के लिए संभावनाओं की दुनिया का द्वार खोलती है। यदि आपके कोई प्रश्न हैं या आपको अतिरिक्त सहायता की आवश्यकता है, तो Aspose.Imaging समुदाय से उनके समर्थन मंच पर संपर्क करने में संकोच न करें। हैप्पी कोडिंग!
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

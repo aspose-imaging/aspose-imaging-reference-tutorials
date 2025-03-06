@@ -3,10 +3,16 @@ title: Java용 Aspose.Imaging을 사용한 DICOM 이미지 대비 조정
 linktitle: DICOM 이미지 대비 조정
 second_title: Aspose.Imaging Java 이미지 처리 API
 description: Java용 Aspose.Imaging을 사용하여 DICOM 이미지의 대비를 조정하는 방법을 알아보세요. 의료 이미지의 시각적 품질을 쉽게 향상시킬 수 있습니다.
-type: docs
 weight: 23
 url: /ko/java/image-processing-and-enhancement/dicom-image-contrast-adjustment/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Java용 Aspose.Imaging을 사용한 DICOM 이미지 대비 조정
+
 끊임없이 진화하는 의료 영상 분야에서는 이미지 대비를 조정하는 능력이 가장 중요합니다. Java용 Aspose.Imaging의 강력한 기능을 사용하면 DICOM(Digital Imaging and Communications in Medicine) 이미지를 손쉽게 조작하여 시각적 품질을 향상시킬 수 있습니다. 이 튜토리얼은 프로세스를 단계별로 안내하여 정확하고 효과적인 이미지 대비 조정을 보장합니다.
 
 ## 전제 조건
@@ -102,3 +108,9 @@ A3: 예, Aspose.Imaging for Java는 밝기 조정, 크기 조정, 자르기 등�
 ### Q5: Aspose.Imaging for Java에 대한 추가 리소스와 지원은 어디서 찾을 수 있나요?
 
  A5: 다음에서 문서와 지원을 찾을 수 있습니다.[Aspose.Imaging for Java 포럼](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

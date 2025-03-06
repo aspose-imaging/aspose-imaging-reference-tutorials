@@ -3,10 +3,16 @@ title: Aspose.Imaging for Java ile Görüntü İkilileştirme
 linktitle: Bradley'nin Uyarlanabilir Eşik İkilileştirmesi
 second_title: Aspose.Imaging Java Görüntü İşleme API'si
 description: Aspose.Imaging for Java ile görüntü ikilileştirmeyi öğrenin. DICOM görüntülerini kolayca dönüştürün. Kod örneklerinin yer aldığı adım adım kılavuzu keşfedin.
-type: docs
 weight: 27
 url: /tr/java/image-processing-and-enhancement/bradleys-adaptive-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for Java ile Görüntü İkilileştirme
+
 Görüntüler, dijital dünyada web sitelerinde, belgelerde veya çeşitli uygulamaların parçası olarak çok önemli bir rol oynamaktadır. Görüntü işleme bu alanlarda önemli bir görevdir ve temel işlemlerden biri de görüntü ikilileştirmedir. Binarizasyon, bir görüntüyü ikili forma dönüştürerek basitleştirir ve bilgisayarların işlemesini kolaylaştırır. Aspose.Imaging for Java, çok çeşitli görüntü işleme özellikleri sunan güçlü bir araçtır ve bu eğitimde, Aspose.Imaging'in Bradley'nin Uyarlanabilir Eşik İkilileştirmesini kullanarak görüntü ikilileştirmesinin nasıl gerçekleştirileceğini keşfedeceğiz. 
 
 ## Önkoşullar
@@ -111,3 +117,9 @@ Cevap1: DICOM, Tıpta Dijital Görüntüleme ve İletişim anlamına gelir ve t�
 ### S5: Aspose.Imaging for Java, diğer Java tabanlı uygulamalarda görüntü işlemeye uygun mudur?
 
 Cevap5: Evet, Aspose.Imaging for Java çok yönlüdür ve web uygulamaları, masaüstü yazılımları ve daha fazlasını içeren çeşitli Java tabanlı uygulamalarda kullanılabilir.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

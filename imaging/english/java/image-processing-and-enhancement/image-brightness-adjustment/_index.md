@@ -3,10 +3,16 @@ title: Image Brightness Adjustment with Aspose.Imaging for Java
 linktitle: Image Brightness Adjustment
 second_title: Aspose.Imaging Java Image Processing API
 description: Learn how to adjust image brightness using Aspose.Imaging for Java. Enhance your images effortlessly with this comprehensive guide.
-type: docs
 weight: 25
 url: /java/image-processing-and-enhancement/image-brightness-adjustment/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Image Brightness Adjustment with Aspose.Imaging for Java
+
 ## Introduction
 
 In the ever-evolving world of digital image processing, achieving the perfect brightness and contrast levels can be a challenging task. Thankfully, with the power of Aspose.Imaging for Java, you can effortlessly fine-tune the brightness of your images. This versatile Java library is a boon for developers and businesses that require efficient image processing capabilities. In this step-by-step guide, we will delve into the intricacies of image brightness adjustment using Aspose.Imaging for Java.
@@ -104,3 +110,10 @@ A4: Yes, you can try Aspose.Imaging for Java with a free trial. Visit [here](htt
 ### Q5: Where can I get support or assistance with Aspose.Imaging for Java?
 
 A5: You can find help and join the community at the [Aspose.Imaging for Java forum](https://forum.aspose.com/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Menguasai Palet Berlapis Pantone Goe dengan Aspose.Imaging untuk .NET
 linktitle: Palet Dilapisi Pantone Goe di Aspose.Imaging untuk .NET
 second_title: Aspose.Imaging .NET API Pemrosesan Gambar
 description: Pelajari cara bekerja dengan Pantone Goe Coated Palette di Aspose.Imaging untuk .NET. Buat, manipulasi, dan konversi gambar dengan mudah.
-type: docs
 weight: 12
 url: /id/net/advanced-features/pantone-goe-coated-palette/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Menguasai Palet Berlapis Pantone Goe dengan Aspose.Imaging untuk .NET
+
 Apakah Anda siap terjun ke dunia warna yang semarak dengan Aspose.Imaging untuk .NET? Dalam tutorial langkah demi langkah ini, kita akan menjelajahi cara bekerja dengan Pantone Goe Coated Palette menggunakan Aspose.Imaging. Pustaka canggih ini memberi Anda alat yang Anda perlukan untuk memanipulasi dan membuat gambar dengan mudah. 
 
 ## Prasyarat
@@ -92,3 +98,9 @@ A1: Aspose.Imaging for .NET adalah pustaka canggih yang memungkinkan Anda membua
 ### Q5: Di mana saya bisa mendapatkan dukungan atau mengajukan pertanyaan?
 
  A5: Anda dapat mengunjungi forum komunitas Aspose.Imaging for .NET di[Aspose. Dukungan Pencitraan](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

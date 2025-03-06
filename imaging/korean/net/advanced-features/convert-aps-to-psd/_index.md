@@ -3,10 +3,16 @@ title: .NET용 Aspose.Imaging을 사용하여 APS를 PSD로 변환
 linktitle: .NET용 Aspose.Imaging에서 APS를 PSD로 변환
 second_title: Aspose.Imaging .NET 이미지 처리 API
 description: .NET용 Aspose.Imaging을 사용하여 APS를 PSD로 변환합니다. 변환 중에 벡터 속성을 유지합니다.
-type: docs
 weight: 11
 url: /ko/net/advanced-features/convert-aps-to-psd/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET용 Aspose.Imaging을 사용하여 APS를 PSD로 변환
+
 벡터 속성을 유지하면서 APS 파일을 PSD 형식으로 쉽게 변환하고 싶으십니까? .NET용 Aspose.Imaging은 작업을 단순화하기 위해 여기에 있습니다. 이 단계별 가이드에서는 이러한 변환을 수행하는 방법을 보여줍니다. 
 
 ## 전제 조건
@@ -102,3 +108,10 @@ A4: 현재 Aspose.Imaging은 텍스처 브러시가 없는 매우 복잡하지 �
 ### Q5: Aspose.Imaging for .NET과 관련된 지원을 받거나 질문을 할 수 있는 곳은 어디입니까?
 
  A5: 질문이 있거나 지원이 필요한 경우[Aspose.이미징 포럼](https://forum.aspose.com/)도움을 위해.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

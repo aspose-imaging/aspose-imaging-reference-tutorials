@@ -3,10 +3,16 @@ title: Text and Measurements Tutorials with Aspose.Imaging .NET
 linktitle: Text and Measurements
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to measure text in images with Aspose.Imaging for .NET, a powerful and precise tool. Explore tutorials to master text measurement techniques.
-type: docs
 weight: 26
 url: /net/text-and-measurements/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Text and Measurements Tutorials with Aspose.Imaging .NET
+
 
 Are you intrigued by the idea of accurately measuring text within images? Well, you're in the right place! In this article, we're going to delve into the world of text measurement using Aspose.Imaging for .NET. We'll explore this powerful .NET library, which offers precise and efficient text measurement capabilities. By the time you finish reading, you'll be well on your way to becoming a text measurement expert.
 
@@ -28,3 +34,9 @@ This article has been your guide to mastering text measurement using Aspose.Imag
 ## Text and Measurements Tutorials
 ### [Measure Text in Aspose.Imaging for .NET](./measure-text/)
 Measure text in images using Aspose.Imaging for .NET. A powerful .NET library. Precise and efficient text measurement.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

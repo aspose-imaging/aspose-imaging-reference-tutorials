@@ -3,10 +3,16 @@ title: رسم علامات الحذف في Aspose.Imaging لـ .NET
 linktitle: رسم القطع الناقص في Aspose.Imaging لـ .NET
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: تعلم كيفية رسم الأشكال البيضاوية في Aspose.Imaging for .NET، وهي مكتبة متعددة الاستخدامات لمعالجة الصور. قم بإنشاء رسومات مذهلة بسهولة.
-type: docs
 weight: 12
 url: /ar/net/basic-drawing/draw-ellipse/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# رسم علامات الحذف في Aspose.Imaging لـ .NET
+
 في هذا البرنامج التعليمي، سنرشدك خلال عملية رسم القطع الناقص باستخدام Aspose.Imaging for .NET. Aspose.Imaging هي مكتبة قوية تسمح لك بمعالجة وإنشاء الصور بتنسيقات مختلفة داخل تطبيقات .NET الخاصة بك. سنبدأ بتقديم المفهوم والمتطلبات الأساسية، ثم نقسم كل مثال إلى خطوات متعددة لضمان الفهم الواضح.
 
 ## المتطلبات الأساسية
@@ -138,3 +144,9 @@ image.Save();
 ### س5: كيف يمكنني الحصول على دعم Aspose.Imaging لـ .NET إذا واجهت مشكلات؟
 
  يمكنك طلب الدعم والتفاعل مع مجتمع Aspose على[المنتدى](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

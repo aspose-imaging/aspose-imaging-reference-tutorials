@@ -3,10 +3,16 @@ title: Text Measurement in Images with Aspose.Imaging for .NET
 linktitle: Measure Text in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Measure text in images using Aspose.Imaging for .NET. A powerful .NET library. Precise and efficient text measurement.
-type: docs
 weight: 10
 url: /net/text-and-measurements/measure-text/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Text Measurement in Images with Aspose.Imaging for .NET
+
 If you're a .NET developer seeking to manipulate images and measure text with precision, Aspose.Imaging for .NET is a powerful solution. In this step-by-step guide, we'll explore how to measure text using Aspose.Imaging, starting with the prerequisites and culminating in a practical example. Let's dive right in!
 
 ## Prerequisites
@@ -95,3 +101,10 @@ A4: If you have questions or need assistance, visit the [Aspose.Imaging forum](h
 ### Q5: How do I download Aspose.Imaging for .NET?
 
 A5: You can download Aspose.Imaging for .NET from the [download page](https://releases.aspose.com/imaging/net/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: .NET के लिए Aspose.Imaging में DICOM छवि पर न
 linktitle: .NET के लिए Aspose.Imaging में DICOM छवि पर निश्चित थ्रेसहोल्ड के साथ बिनरीकरण
 second_title: Aspose.Imaging .NET इमेज प्रोसेसिंग एपीआई
 description: .NET के लिए Aspose.Imaging का उपयोग करके DICOM छवि पर बाइनराइज़ेशन करना सीखें। कोड उदाहरणों के साथ चरण-दर-चरण मार्गदर्शिका।
-type: docs
 weight: 15
 url: /hi/net/dicom-image-processing/binarization-with-fixed-threshold-on-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET के लिए Aspose.Imaging में DICOM छवि पर निश्चित थ्रेसहोल्ड के साथ बिनरीकरण
+
 क्या आप .NET के लिए Aspose.Imaging का उपयोग करके डिजिटल इमेज प्रोसेसिंग की दुनिया में उतरने के लिए तैयार हैं? इस चरण-दर-चरण ट्यूटोरियल में, हम यह पता लगाएंगे कि DICOM छवि पर एक निश्चित सीमा के साथ बाइनराइज़ेशन कैसे करें। बाइनराइजेशन एक मौलिक छवि प्रसंस्करण तकनीक है जो एक ग्रेस्केल छवि को बाइनरी छवि में परिवर्तित करती है, जिससे यह मेडिकल इमेजिंग से लेकर दस्तावेज़ विश्लेषण तक विभिन्न अनुप्रयोगों के लिए एक आवश्यक उपकरण बन जाती है।
 
 ## आवश्यक शर्तें
@@ -106,3 +112,10 @@ DICOM का मतलब मेडिसिन में डिजिटल इ
 ### Q5: क्या .NET के लिए Aspose.Imaging का कोई परीक्षण संस्करण उपलब्ध है?
 
  हाँ, आप परीक्षण संस्करण डाउनलोड करके .NET के लिए Aspose.Imaging आज़मा सकते हैं[यहाँ](https://releases.aspose.com/). यह आपको खरीदारी करने से पहले इसकी विशेषताओं और कार्यक्षमताओं का पता लगाने की अनुमति देता है।
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

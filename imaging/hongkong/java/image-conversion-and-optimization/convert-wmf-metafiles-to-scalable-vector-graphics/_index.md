@@ -3,10 +3,16 @@ title: 將 WMF 圖元檔案轉換為可縮放向量圖形
 linktitle: 將 WMF 圖元檔案轉換為可縮放向量圖形
 second_title: Aspose.Imaging Java 圖像處理 API
 description: 了解如何使用 Aspose.Imaging 將 WMF 影像轉換為 Java 中的 SVG。請按照我們的逐步指南進行高效率的影像格式轉換。
-type: docs
 weight: 15
 url: /zh-hant/java/image-conversion-and-optimization/convert-wmf-metafiles-to-scalable-vector-graphics/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 將 WMF 圖元檔案轉換為可縮放向量圖形
+
 ## 介紹
 
 歡迎閱讀我們的逐步指南，以了解如何使用 Aspose.Imaging for Java 將 WMF（Windows 圖元檔案）映像轉換為 SVG（可縮放向量圖形）。無論您是經驗豐富的開發人員還是新手，本教學都將為您提供有效執行此任務所需的所有基本資訊。
@@ -94,3 +100,9 @@ A3：Aspose.Imaging支援多種影像格式，包括BMP、JPEG、PNG、TIFF等�
 ### Q5：什麼版本的 Java 與 Aspose.Imaging for Java 相容？
 
 A5: Aspose.Imaging for Java 與 Java 8 及更高版本相容。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

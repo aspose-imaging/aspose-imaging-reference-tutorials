@@ -3,10 +3,16 @@ title: Wijzig het formaat van DICOM-afbeeldingen met Aspose.Imaging voor .NET
 linktitle: DICOM Eenvoudig formaat wijzigen in Aspose.Imaging voor .NET
 second_title: Aspose.Imaging .NET-API voor beeldverwerking
 description: Leer hoe u het formaat van DICOM-afbeeldingen kunt wijzigen met Aspose.Imaging voor .NET, een krachtig hulpmiddel voor de verwerking van medische beelden. Eenvoudige stappen voor nauwkeurige resultaten.
-type: docs
 weight: 19
 url: /nl/net/dicom-image-processing/dicom-simple-resizing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Wijzig het formaat van DICOM-afbeeldingen met Aspose.Imaging voor .NET
+
 In het steeds evoluerende veld van medische beeldvorming is de behoefte aan flexibiliteit en precisie bij het verwerken van DICOM-bestanden (Digital Imaging and Communications in Medicine) van het allergrootste belang. Aspose.Imaging voor .NET komt naar voren als een krachtige oplossing en biedt een uitgebreide set tools voor het werken met medische beelden. In deze zelfstudie verkennen we het eenvoudige proces van het wijzigen van de grootte van DICOM-afbeeldingen met Aspose.Imaging voor .NET. 
 
 ## Vereisten
@@ -114,3 +120,9 @@ A4: Aspose.Imaging voor .NET is compatibel met verschillende versies van .NET Fr
 ### V5: Waar kan ik meer Aspose.Imaging voor .NET-tutorials vinden?
 
  A5: U kunt de verkennen[Aspose.Imaging voor .NET-documentatie](https://reference.aspose.com/imaging/net/) voor een breed scala aan tutorials en voorbeelden.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Recorte imágenes DICOM con Aspose.Imaging para .NET
 linktitle: Recorte DICOM por turnos en Aspose.Imaging para .NET
 second_title: API de procesamiento de imágenes Aspose.Imaging .NET
 description: Aprenda a recortar imágenes DICOM con Aspose.Imaging para .NET. Mejore el procesamiento de imágenes médicas con esta guía paso a paso.
-type: docs
 weight: 18
 url: /es/net/dicom-image-processing/dicom-cropping-by-shifts/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Recorte imágenes DICOM con Aspose.Imaging para .NET
+
 Recortar imágenes médicas, en particular imágenes DICOM, es una tarea crucial en la industria de la salud. Permite a los profesionales sanitarios centrarse en áreas de interés específicas, eliminar elementos no deseados y mejorar la representación visual de los datos de diagnóstico. En este tutorial, exploraremos cómo recortar imágenes DICOM usando Aspose.Imaging para .NET, una poderosa biblioteca que simplifica las tareas de procesamiento de imágenes en aplicaciones .NET.
 
 ## Requisitos previos
@@ -100,3 +106,9 @@ R2: Sí, Aspose.Imaging para .NET es una biblioteca versátil que puede manejar 
 ### P5: ¿Puedo utilizar Aspose.Imaging para .NET en aplicaciones de procesamiento de imágenes no médicas?
 
 R5: ¡Absolutamente! Si bien es excelente para imágenes médicas, Aspose.Imaging para .NET se puede utilizar para una amplia gama de tareas de procesamiento de imágenes en varios dominios.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

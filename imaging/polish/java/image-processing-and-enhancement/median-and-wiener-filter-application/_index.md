@@ -3,10 +3,16 @@ title: Zastosowanie filtra mediany i Wienera
 linktitle: Zastosowanie filtra mediany i Wienera
 second_title: Aspose.Imaging API przetwarzania obrazu Java
 description: Dowiedz się, jak poprawić jakość obrazu za pomocą Aspose.Imaging dla Java. W tym samouczku krok po kroku opisano zastosowania filtrów medianowych i wienerowskich do odszumiania obrazu.
-type: docs
 weight: 19
 url: /pl/java/image-processing-and-enhancement/median-and-wiener-filter-application/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Zastosowanie filtra mediany i Wienera
+
 W świecie przetwarzania obrazu usuwanie szumów i poprawa jakości obrazu to kluczowe zadania. Aspose.Imaging dla Java to potężna biblioteka udostępniająca różne narzędzia i filtry do pracy z obrazami. W tym samouczku przeprowadzimy Cię przez proces korzystania z biblioteki w celu zastosowania filtrów Mediany i Wienera do czyszczenia i usuwania szumów z obrazu. Ten przewodnik krok po kroku pomoże Ci uzyskać profesjonalną poprawę obrazu.
 
 ## Warunki wstępne
@@ -97,3 +103,9 @@ O4: Oprócz filtra medianowego, techniki ulepszania obrazu obejmują między inn
 ### P5: Czy mogę używać Aspose.Imaging for Java w mojej aplikacji internetowej?
 
 O5: Tak, możesz zintegrować Aspose.Imaging for Java ze swoimi aplikacjami internetowymi w celu przetwarzania obrazów po stronie serwera.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

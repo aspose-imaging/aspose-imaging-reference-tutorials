@@ -3,10 +3,16 @@ title: Metafile and Vector Image Handling
 linktitle: Metafile and Vector Image Handling
 second_title: Aspose.Imaging Java Image Processing API
 description: Unlock the potential of Aspose.Imaging for Java with our step-by-step tutorials. Create WMF metafile images, handle BMP headers, and more with ease.
-type: docs
 weight: 23
 url: /java/metafile-and-vector-image-handling/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Metafile and Vector Image Handling
+
 ## Introduction
 
 Are you ready to embark on a journey into the world of metafile and vector image handling with Aspose.Imaging for Java? Look no further, as this comprehensive guide will equip you with the skills and knowledge needed to master this versatile Java library. Whether you're a seasoned developer or just getting started, our tutorials cover a range of essential topics to help you harness the full potential of Aspose.Imaging.
@@ -55,3 +61,9 @@ Learn how to harness the power of Aspose.Imaging for Java in this step-by-step g
 Learn how to convert SVG to EMF using Aspose.Imaging for Java. Preserve image quality and scalability effortlessly.
 ### [Synchronize Root Property in Images](./synchronize-root-property-in-images/)
 Learn how to synchronize the root property in images using Aspose.Imaging for Java. Ensure thread-safe image processing with this step-by-step guide.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

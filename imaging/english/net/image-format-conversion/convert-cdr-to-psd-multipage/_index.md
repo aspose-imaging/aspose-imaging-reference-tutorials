@@ -3,10 +3,16 @@ title: Convert CDR to PSD with Aspose.Imaging for .NET
 linktitle: Convert CDR to PSD Multipage in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to convert CDR files to PSD multipage format using Aspose.Imaging for .NET. Step-by-step guide for image format conversion.
-type: docs
 weight: 12
 url: /net/image-format-conversion/convert-cdr-to-psd-multipage/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Convert CDR to PSD with Aspose.Imaging for .NET
+
 Are you looking to convert CorelDRAW (CDR) files into Photoshop (PSD) format using Aspose.Imaging for .NET? You've come to the right place. In this step-by-step tutorial, we'll walk you through the process of converting CDR files into PSD multipage format. Aspose.Imaging for .NET is a powerful library that simplifies this task, allowing you to efficiently work with image formats in your .NET applications.
 
 ## Prerequisites
@@ -121,3 +127,10 @@ A4: Aspose.Imaging provides various rasterization options for fine-tuning text r
 ### Q5: Can I use Aspose.Imaging in my .NET application without internet access?
 
 A5: Yes, you can use Aspose.Imaging for .NET in your application without requiring internet access. It's a self-contained library.
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

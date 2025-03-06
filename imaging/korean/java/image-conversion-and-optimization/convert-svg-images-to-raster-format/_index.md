@@ -3,10 +3,16 @@ title: Java용 Aspose.Imaging을 사용하여 SVG를 PNG로 변환
 linktitle: SVG 이미지를 래스터 형식으로 변환
 second_title: Aspose.Imaging Java 이미지 처리 API
 description: Java용 Aspose.Imaging을 사용하여 SVG 이미지를 PNG로 변환하는 방법을 알아보세요. 이 단계별 가이드를 통해 이미지 형식 변환을 간소화하세요.
-type: docs
 weight: 14
 url: /ko/java/image-conversion-and-optimization/convert-svg-images-to-raster-format/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Java용 Aspose.Imaging을 사용하여 SVG를 PNG로 변환
+
 오늘날의 디지털 세계에서는 다양한 형식의 이미지로 작업하는 것이 일반적인 작업입니다. SVG(Scalable Vector Graphics)는 벡터 이미지에 널리 사용되는 형식이지만 SVG 이미지를 PNG와 같은 래스터 형식으로 변환해야 하는 시나리오가 있습니다. 이 단계별 가이드는 Aspose.Imaging for Java를 사용하여 SVG 이미지를 래스터 형식으로 변환하는 과정을 안내합니다. SEO 작가로서 저는 이 기사가 유익할 뿐만 아니라 검색 엔진에 최적화되도록 노력하겠습니다.
 
 ## 전제 조건
@@ -90,3 +96,9 @@ A1: Aspose.Imaging for Java는 개발자가 다양한 형식의 이미지를 조
 ### Q5: Aspose.Imaging은 다른 Java 라이브러리 및 프레임워크와 호환됩니까?
 
 A5: Aspose.Imaging을 다른 Java 라이브러리 및 프레임워크와 함께 사용하여 이미지 처리 기능을 향상시킬 수 있습니다.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

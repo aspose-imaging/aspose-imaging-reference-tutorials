@@ -3,10 +3,16 @@ title: Binarisasi Gambar dengan Aspose.Imaging untuk Java
 linktitle: Binarisasi Ambang Adaptif Bradley
 second_title: Aspose.Imaging API Pemrosesan Gambar Java
 description: Pelajari binerisasi gambar dengan Aspose.Imaging untuk Java. Ubah gambar DICOM dengan mudah. Jelajahi panduan langkah demi langkah dengan contoh kode.
-type: docs
 weight: 27
 url: /id/java/image-processing-and-enhancement/bradleys-adaptive-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Binarisasi Gambar dengan Aspose.Imaging untuk Java
+
 Gambar memainkan peran penting dalam dunia digital, baik di situs web, dokumen, atau sebagai bagian dari berbagai aplikasi. Pemrosesan gambar adalah tugas penting dalam domain ini, dan salah satu operasi mendasarnya adalah binarisasi gambar. Binarisasi menyederhanakan gambar dengan mengubahnya menjadi bentuk biner, sehingga memudahkan komputer untuk memprosesnya. Aspose.Imaging untuk Java adalah alat canggih yang menyediakan berbagai fitur manipulasi gambar, dan dalam tutorial ini, kita akan mempelajari cara melakukan binarisasi gambar menggunakan Binarisasi Ambang Adaptif Bradley dari Aspose.Imaging. 
 
 ## Prasyarat
@@ -111,3 +117,9 @@ A1: DICOM adalah singkatan dari Digital Imaging and Communications in Medicine, 
 ### Q5: Apakah Aspose.Imaging for Java cocok untuk pemrosesan gambar di aplikasi berbasis Java lainnya?
 
 A5: Ya, Aspose.Imaging for Java serbaguna dan dapat digunakan dalam berbagai aplikasi berbasis Java, termasuk aplikasi web, perangkat lunak desktop, dan banyak lagi.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: การสร้างส่วนโค้งด้วย Aspose.Imagi
 linktitle: วาดส่วนโค้งใน Aspose.Imaging สำหรับ .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: เรียนรู้วิธีการวาดส่วนโค้งด้วย Aspose.Imaging สำหรับ .NET ซึ่งเป็นเครื่องมือจัดการรูปภาพอันทรงพลัง คำแนะนำทีละขั้นตอนสำหรับการสร้างภาพที่น่าทึ่ง
-type: docs
 weight: 10
 url: /th/net/basic-drawing/draw-arc/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# การสร้างส่วนโค้งด้วย Aspose.Imaging สำหรับ .NET
+
 ในโลกของการประมวลผลภาพ Aspose.Imaging สำหรับ .NET เป็นเครื่องมืออเนกประสงค์และทรงพลังที่ช่วยให้นักพัฒนาสามารถดำเนินการกับรูปภาพได้หลากหลาย งานพื้นฐานอย่างหนึ่งในการจัดการภาพคือการวาดรูปร่าง และในบทช่วยสอนนี้ เราจะแนะนำคุณตลอดขั้นตอนการวาดส่วนโค้งโดยใช้ Aspose.Imaging สำหรับ .NET เมื่อสิ้นสุดคู่มือนี้ คุณจะสามารถสร้างส่วนโค้งที่น่าทึ่งในภาพของคุณได้อย่างง่ายดาย
 
 ## ข้อกำหนดเบื้องต้น
@@ -116,3 +122,10 @@ using (FileStream stream = new FileStream(dataDir + "DrawingArc_out.bmp", FileMo
 ### คำถามที่ 5: ฉันจะขอรับการสนับสนุนหรือถามคำถามเกี่ยวกับ Aspose.Imaging สำหรับ .NET ได้ที่ไหน
 
  A5: คุณสามารถเยี่ยมชมฟอรัม Aspose.Imaging เพื่อรับการสนับสนุนและการสนทนาได้[ที่นี่](https://forum.aspose.com/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: .NET용 Aspose.Imaging을 사용하여 DICOM 이미지 회전
 linktitle: .NET용 Aspose.Imaging에서 DICOM 이미지 회전
 second_title: Aspose.Imaging .NET 이미지 처리 API
 description: .NET용 Aspose.Imaging을 사용하여 DICOM 이미지 회전을 살펴보세요. 의료 영상 조작을 위한 단계별 가이드입니다.
-type: docs
 weight: 11
 url: /ko/net/image-transformation/rotate-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# .NET용 Aspose.Imaging을 사용하여 DICOM 이미지 회전
+
 ## 소개
 
 오늘날의 디지털 시대에 이미지 처리는 의료부터 디자인까지 다양한 산업에서 필수적인 부분이 되었습니다. 의료 이미지를 조작하고 향상시키려는 .NET 개발자라면 Aspose.Imaging for .NET이 마음대로 사용할 수 있는 강력한 도구입니다. 이 종합 가이드에서는 .NET용 Aspose.Imaging을 사용하여 DICOM 이미지를 회전하는 과정을 안내합니다.
@@ -94,3 +100,9 @@ A4: 물론이죠! Aspose.Imaging for .NET은 모든 기술 수준의 개발자�
 ### Q5: Aspose.Imaging for .NET에 대한 라이선스 옵션이 있습니까?
 
  A5: 예, 무료 평가판 및 구매를 포함한 라이센스 옵션을 탐색할 수 있습니다.[Aspose.Imaging 구매 페이지](https://purchase.aspose.com/buy) 그리고[임시 라이센스](https://purchase.aspose.com/temporary-license/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

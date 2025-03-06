@@ -3,10 +3,16 @@ title: Конвертируйте растровые изображения в S
 linktitle: Преобразование растровых изображений в масштабируемую векторную графику
 second_title: Aspose.Imaging API обработки изображений Java
 description: Узнайте, как конвертировать растровые изображения в SVG с помощью Aspose.Imaging для Java. Повышайте качество изображения и масштабируемость без особых усилий.
-type: docs
 weight: 13
 url: /ru/java/image-conversion-and-optimization/convert-raster-images-to-scalable-vector-graphics/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Конвертируйте растровые изображения в SVG с помощью Aspose.Imaging для Java
+
 Вы хотите преобразовать растровые изображения в масштабируемую векторную графику (SVG) с помощью Java? Вы находитесь в правильном месте! Это пошаговое руководство проведет вас через процесс использования Aspose.Imaging for Java для выполнения этой задачи. К концу этого руководства вы сможете легко преобразовывать растровые изображения в формат SVG, обеспечивая масштабируемость и улучшая качество изображения.
 
 ## Предварительные условия
@@ -108,3 +114,9 @@ A1: Преобразование растровых изображений в ф
 ### Вопрос 5: Существуют ли альтернативы Aspose.Imaging для Java?
 
 О5: Да, для преобразования изображений доступны другие библиотеки и инструменты. Однако Aspose.Imaging for Java предлагает надежное и многофункциональное решение для обработки и преобразования изображений.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

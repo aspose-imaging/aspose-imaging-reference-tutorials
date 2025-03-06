@@ -3,10 +3,16 @@ title: ลายน้ำภาพแนวทแยงด้วย Aspose.Imagi
 linktitle: ลายน้ำภาพแนวทแยง
 second_title: Aspose.Imaging Java Image Processing API
 description: ปรับปรุงรูปภาพของคุณด้วยลายน้ำแนวทแยงโดยใช้ Aspose.Imaging สำหรับ Java ทำตามคำแนะนำทีละขั้นตอนนี้และสร้างภาพลายน้ำที่น่าทึ่งได้อย่างง่ายดาย
-type: docs
 weight: 14
 url: /th/java/image-processing-and-enhancement/diagonal-image-watermarking/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# ลายน้ำภาพแนวทแยงด้วย Aspose.Imaging สำหรับ Java
+
 
 หากคุณต้องการปรับปรุงรูปภาพของคุณด้วยลายน้ำแนวทแยงที่มีสไตล์ Aspose.Imaging for Java พร้อมให้ความช่วยเหลือ ในคำแนะนำทีละขั้นตอนนี้ เราจะแนะนำคุณตลอดขั้นตอนการเพิ่มลายน้ำข้อความที่หมุนได้ 45 องศาให้กับรูปภาพ JPG ที่มีอยู่ คุณไม่จำเป็นต้องเป็นผู้เชี่ยวชาญในด้าน Java หรือการประมวลผลภาพเพื่อปฏิบัติตาม เราจะแบ่งแต่ละตัวอย่างออกเป็นหลายขั้นตอนเพื่อให้แน่ใจว่าคุณจะได้ผลลัพธ์ระดับมืออาชีพได้อย่างง่ายดาย
 
@@ -141,3 +147,9 @@ A3: ใช่ Aspose.Imaging สำหรับ Java รองรับรูป
 ### คำถามที่ 5: ฉันจะขอความช่วยเหลือหรือสนับสนุน Aspose.Imaging สำหรับ Java ได้ที่ไหน
 
  A5: หากคุณมีคำถามหรือต้องการความช่วยเหลือ โปรดไปที่ฟอรัมสนับสนุน Aspose.Imaging for Java[ที่นี่](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

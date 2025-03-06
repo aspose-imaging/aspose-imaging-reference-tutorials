@@ -3,10 +3,16 @@ title: แปลงส่วนเฉพาะของเพจ DJVU ใน Asp
 linktitle: แปลงส่วนเฉพาะของเพจ DJVU ใน Aspose.Imaging สำหรับ .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: เรียนรู้วิธีแปลงส่วนเฉพาะของเพจ DJVU โดยใช้ Aspose.Imaging สำหรับ .NET ปฏิบัติตามคำแนะนำทีละขั้นตอนของเรา
-type: docs
 weight: 20
 url: /th/net/image-format-conversion/convert-specific-portion-of-djvu-page/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# แปลงส่วนเฉพาะของเพจ DJVU ใน Aspose.Imaging สำหรับ .NET
+
 หากคุณต้องการจัดการอิมเมจ DJVU ในแอปพลิเคชัน .NET ของคุณ Aspose.Imaging สำหรับ .NET มอบชุดเครื่องมืออันทรงพลังเพื่อให้งานสำเร็จลุล่วง ในคำแนะนำทีละขั้นตอนนี้ เราจะแสดงวิธีแปลงส่วนเฉพาะของเพจ DJVU ให้เป็นรูปแบบอื่นโดยใช้ Aspose.Imaging สำหรับ .NET
 
 ## ข้อกำหนดเบื้องต้น
@@ -111,3 +117,9 @@ image.Save(dataDir + "ConvertSpecificPortionOfDjVuPage_out.djvu", exportOptions)
 ### คำถามที่ 5: ฉันจะรับการสนับสนุนหรือถามคำถามที่เกี่ยวข้องกับ Aspose.Imaging สำหรับ .NET ได้ที่ไหน
 
  A5: คุณสามารถรับการสนับสนุนและถามคำถามได้ใน[Aspose ฟอรั่มการถ่ายภาพ](https://forum.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

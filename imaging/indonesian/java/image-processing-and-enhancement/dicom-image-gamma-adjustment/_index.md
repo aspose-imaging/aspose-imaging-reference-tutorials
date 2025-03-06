@@ -3,10 +3,16 @@ title: Penyesuaian Gamma Gambar DICOM dengan Aspose.Imaging untuk Java
 linktitle: Penyesuaian Gamma Gambar DICOM
 second_title: Aspose.Imaging API Pemrosesan Gambar Java
 description: Pelajari cara menyesuaikan gamma gambar DICOM di Java menggunakan Aspose.Imaging untuk Java. Tingkatkan kualitas gambar medis dengan langkah mudah.
-type: docs
 weight: 24
 url: /id/java/image-processing-and-enhancement/dicom-image-gamma-adjustment/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Penyesuaian Gamma Gambar DICOM dengan Aspose.Imaging untuk Java
+
 Apakah Anda ingin meningkatkan kualitas gambar DICOM di aplikasi Java Anda? Aspose.Imaging for Java adalah perpustakaan yang kuat dan serbaguna yang memungkinkan Anda memanipulasi dan memproses gambar, termasuk format DICOM. Dalam tutorial langkah demi langkah ini, kami akan memandu Anda melalui proses penyesuaian gamma gambar DICOM menggunakan Aspose.Imaging untuk Java. 
 
 ## Prasyarat
@@ -112,3 +118,9 @@ A4: Beberapa gambar DICOM mungkin memiliki struktur dan metadata yang kompleks. 
 ### Q5: Di mana saya dapat menemukan lebih banyak tutorial dan sumber daya Aspose.Imaging?
 
  A5: Anda dapat menjelajahi[Aspose.Dokumentasi pencitraan](https://reference.aspose.com/imaging/java/) untuk panduan komprehensif, contoh, dan referensi API.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

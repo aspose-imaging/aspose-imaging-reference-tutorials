@@ -3,10 +3,16 @@ title: DICOM Image Gamma Adjustment με Aspose.Imaging για Java
 linktitle: Ρύθμιση γάμμα εικόνας DICOM
 second_title: Aspose.Imaging Java Image Processing API
 description: Μάθετε πώς να προσαρμόζετε το γάμμα των εικόνων DICOM σε Java χρησιμοποιώντας το Aspose.Imaging for Java. Βελτιώστε την ποιότητα της ιατρικής εικόνας με απλά βήματα.
-type: docs
 weight: 24
 url: /el/java/image-processing-and-enhancement/dicom-image-gamma-adjustment/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# DICOM Image Gamma Adjustment με Aspose.Imaging για Java
+
 Θέλετε να βελτιώσετε την ποιότητα των εικόνων DICOM στις εφαρμογές σας Java; Το Aspose.Imaging for Java είναι μια ισχυρή και ευέλικτη βιβλιοθήκη που σας επιτρέπει να χειρίζεστε και να επεξεργάζεστε εικόνες, συμπεριλαμβανομένης της μορφής DICOM. Σε αυτό το βήμα προς βήμα σεμινάριο, θα σας καθοδηγήσουμε στη διαδικασία προσαρμογής του γάμμα μιας εικόνας DICOM χρησιμοποιώντας το Aspose.Imaging για Java. 
 
 ## Προαπαιτούμενα
@@ -112,3 +118,9 @@ A4: Ορισμένες εικόνες DICOM ενδέχεται να έχουν �
 ### Ε5: Πού μπορώ να βρω περισσότερα μαθήματα και πόρους για το Aspose.Imaging;
 
  A5: Μπορείτε να εξερευνήσετε το[Aspose.Τεκμηρίωση απεικόνισης](https://reference.aspose.com/imaging/java/) για αναλυτικούς οδηγούς, παραδείγματα και αναφορά API.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

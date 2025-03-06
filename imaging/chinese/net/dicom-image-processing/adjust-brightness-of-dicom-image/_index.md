@@ -3,10 +3,16 @@ title: 使用 Aspose.Imaging for .NET 调整 DICOM 图像亮度
 linktitle: 在 Aspose.Imaging for .NET 中调整 DICOM 图像的亮度
 second_title: Aspose.Imaging .NET 图像处理 API
 description: 了解如何在 Aspose.Imaging for .NET 中调整 DICOM 图像亮度。轻松增强医学图像。
-type: docs
 weight: 10
 url: /zh/net/dicom-image-processing/adjust-brightness-of-dicom-image/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# 使用 Aspose.Imaging for .NET 调整 DICOM 图像亮度
+
 在医学成像领域，处理 DICOM（医学数字成像和通信）文件至关重要。这些文件包含重要的医疗数据，有时，有必要对其中的图像进行调整，例如更改其亮度。在本分步指南中，我们将向您展示如何使用 Aspose.Imaging for .NET 调整 DICOM 图像的亮度。
 
 ## 先决条件
@@ -95,3 +101,9 @@ A4：您可以获得支持并与 Aspose.Imaging 社区联系[Aspose 论坛](http
 ### Q5：Aspose.Imaging 还提供哪些其他图像处理功能？
 
 A5：Aspose.Imaging 提供了广泛的图像处理功能，包括调整大小、裁剪、旋转和各种过滤选项，使其成为处理医学图像的综合解决方案。
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Mastering Line Drawing in Aspose.Imaging for .NET
 linktitle: Draw Lines in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to draw precise lines in Aspose.Imaging for .NET. This step-by-step guide covers image creation, line drawing, and more.
-type: docs
 weight: 13
 url: /net/basic-drawing/draw-lines/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Mastering Line Drawing in Aspose.Imaging for .NET
+
 If you're looking to create stunning images with precise lines in your .NET application, Aspose.Imaging for .NET is a powerful tool that can help you achieve this. In this tutorial, we'll walk you through the process of drawing lines using Aspose.Imaging for .NET. This step-by-step guide will cover everything from setting up the necessary namespaces to creating beautiful images with lines.
 
 ## Prerequisites
@@ -124,3 +130,10 @@ A4: Yes, Aspose.Imaging for .NET is compatible with .NET Core, making it suitabl
 ### Q5: Is there a free trial version of Aspose.Imaging for .NET available?
 
 A5: Yes, you can try out Aspose.Imaging for .NET by downloading the free trial from [here](https://releases.aspose.com/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

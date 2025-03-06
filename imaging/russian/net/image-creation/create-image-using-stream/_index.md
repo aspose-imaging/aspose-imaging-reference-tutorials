@@ -3,10 +3,16 @@ title: Создание изображения с использованием S
 linktitle: Создание изображения с использованием Stream в Aspose.Imaging для .NET
 second_title: API обработки изображений Aspose.Imaging .NET
 description: Узнайте, как шаг за шагом создавать изображения с использованием потока с помощью Aspose.Imaging for .NET. В комплект входит подробное руководство, предварительные условия и часто задаваемые вопросы.
-type: docs
 weight: 11
 url: /ru/net/image-creation/create-image-using-stream/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Создание изображения с использованием Stream в Aspose.Imaging для .NET
+
 Вы хотите использовать возможности Aspose.Imaging для .NET, чтобы без особых усилий создавать потрясающие изображения? Вы находитесь в правильном месте! В этом подробном руководстве мы познакомим вас с процессом создания изображений с помощью Aspose.Imaging для .NET. Мы начнем с предварительных условий, а затем углубимся в пошаговый процесс, разбив каждый пример, чтобы вы четко усвоили концепции.
 
 ## Предварительные условия
@@ -108,3 +114,10 @@ A1: Aspose.Imaging for .NET поддерживает широкий спектр
 ### Вопрос 5: Как получить временную лицензию на Aspose.Imaging for .NET?
 
  О5: Вы можете получить временную лицензию на веб-сайте Aspose по адресу[эта ссылка](https://purchase.aspose.com/temporary-license/).
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

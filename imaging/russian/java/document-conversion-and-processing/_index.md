@@ -3,10 +3,16 @@ title: Преобразование и обработка документов
 linktitle: Преобразование и обработка документов
 second_title: Aspose.Imaging API обработки изображений Java
 description: Изучите подробные руководства по преобразованию и обработке документов с помощью Aspose.Imaging Java. Освойте манипулирование и преобразование изображений с помощью этих уроков.
-type: docs
 weight: 22
 url: /ru/java/document-conversion-and-processing/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Преобразование и обработка документов
+
 
 ## Введение
 
@@ -94,3 +100,9 @@ url: /ru/java/document-conversion-and-processing/
 Узнайте, как сохранять кадры из изображения TIFF в различных растровых форматах с помощью Aspose.Imaging для Java. Улучшите манипулирование изображениями в своих Java-приложениях.
 ### [Восстановление данных изображения TIFF](./recovering-tiff-image-data/)
 Узнайте, как восстановить поврежденные данные изображения TIFF с помощью Aspose.Imaging для Java. Восстановите целостность изображения с помощью этого пошагового руководства.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

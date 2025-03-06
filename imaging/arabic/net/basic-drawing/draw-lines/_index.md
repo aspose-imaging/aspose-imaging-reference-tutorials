@@ -3,10 +3,16 @@ title: إتقان رسم الخط في Aspose.Imaging لـ .NET
 linktitle: رسم الخطوط في Aspose.Imaging لـ .NET
 second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
 description: تعرف على كيفية رسم خطوط دقيقة في Aspose.Imaging لـ .NET. يغطي هذا الدليل التفصيلي إنشاء الصور ورسم الخطوط والمزيد.
-type: docs
 weight: 13
 url: /ar/net/basic-drawing/draw-lines/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# إتقان رسم الخط في Aspose.Imaging لـ .NET
+
 إذا كنت تتطلع إلى إنشاء صور مذهلة بخطوط دقيقة في تطبيق .NET الخاص بك، فإن Aspose.Imaging for .NET هي أداة قوية يمكنها مساعدتك في تحقيق ذلك. في هذا البرنامج التعليمي، سنرشدك خلال عملية رسم الخطوط باستخدام Aspose.Imaging for .NET. سيغطي هذا الدليل التفصيلي كل شيء بدءًا من إعداد مساحات الأسماء الضرورية وحتى إنشاء صور جميلة تحتوي على خطوط.
 
 ## المتطلبات الأساسية
@@ -124,3 +130,9 @@ A3: يوفر Aspose.Imaging for .NET خيارات لإنشاء فرش متدرج
 ### س5: هل تتوفر نسخة تجريبية مجانية من Aspose.Imaging لـ .NET؟
 
  ج5: نعم، يمكنك تجربة Aspose.Imaging for .NET عن طريق تنزيل الإصدار التجريبي المجاني من[هنا](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

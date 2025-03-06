@@ -1,12 +1,17 @@
 ---
 title: Comprehensive Tutorials and Examples of Aspose.Imaging for .NET 
 linktitle: Aspose.Imaging for .NET Tutorials
-type: docs
 weight: 10
 url: /net/
 description: Discover the power of Aspose.Imaging for .NET with our in-depth tutorials. From image composition to advanced features, enhance your skills and elevate your image processing game.
-is_root: true
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Comprehensive Tutorials and Examples of Aspose.Imaging for .NET
+
 
 Welcome to our comprehensive guide on Aspose.Imaging for .NET! Whether you're a novice or an expert, these tutorials will help you master image processing using this powerful tool. From image composition to advanced features, we've got you covered.
 
@@ -72,3 +77,9 @@ Learn image format conversion with Aspose.Imaging for .NET. Convert CDR, CMX, DJ
 Explore a comprehensive series of tutorials on DICOM image processing using Aspose.Imaging for .NET. Learn to enhance medical images effortlessly.
 ### [Advanced Features](./advanced-features/)
 Get the best out of Aspose.Imaging for .NET with our step-by-step tutorials. Learn how to unlock original options and work with images effortlessly.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

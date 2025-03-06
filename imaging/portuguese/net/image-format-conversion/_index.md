@@ -3,10 +3,16 @@ title: Tutoriais de conversão de formato de imagem
 linktitle: Conversão de formato de imagem
 second_title: API de processamento de imagem Aspose.Imaging .NET
 description: Aprenda a conversão de formato de imagem com Aspose.Imaging for .NET. Converta CDR, CMX, DJVU e muito mais perfeitamente. Guias especializados para resultados perfeitos
-type: docs
 weight: 27
 url: /pt/net/image-format-conversion/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Tutoriais de conversão de formato de imagem
+
 
 Você está cansado de lutar com formatos de imagem incompatíveis? Você precisa de uma solução confiável para converter suas imagens perfeitamente? Não procure mais! Neste guia completo, orientaremos você no processo passo a passo de conversão de vários formatos de imagem usando Aspose.Imaging for .NET.
 
@@ -57,3 +63,9 @@ Aprenda como converter páginas DJVU com Aspose.Imaging for .NET. Guia passo a p
 Descubra como converter páginas DJVU em imagens separadas com Aspose.Imaging for .NET. Guia passo a passo, exemplos de código e perguntas frequentes fornecidas.
 ### [Converter parte específica da página DJVU em Aspose.Imaging for .NET](./convert-specific-portion-of-djvu-page/)
 Aprenda como converter partes específicas de páginas DJVU usando Aspose.Imaging for .NET. Siga nosso guia passo a passo.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

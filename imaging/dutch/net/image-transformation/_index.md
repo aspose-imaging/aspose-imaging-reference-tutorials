@@ -3,10 +3,16 @@ title: Ontgrendel de magie van beeldtransformatie met Aspose.Imaging .NET
 linktitle: Beeldtransformatie
 second_title: Aspose.Imaging .NET-API voor beeldverwerking
 description: Ontdek de kunst van beeldtransformatie met Aspose.Imaging voor .NET. Leer DICOM-afbeeldingen moeiteloos omdraaien en roteren voor medische toepassingen en meer.
-type: docs
 weight: 24
 url: /nl/net/image-transformation/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Ontgrendel de magie van beeldtransformatie met Aspose.Imaging .NET
+
 
 Ben jij klaar om je te verdiepen in de wereld van beeldtransformatie? Aspose.Imaging voor .NET opent de deur naar naadloze en efficiënte manipulatie van DICOM-beelden, op maat gemaakt voor medische toepassingen en daarbuiten. In deze uitgebreide tutorial begeleiden we u door twee essentiële beeldtransformatietechnieken: DICOM-afbeeldingen omdraaien en roteren. 
 
@@ -37,3 +43,9 @@ Ontdek DICOM-beeldrotatie met Aspose.Imaging voor .NET. Stap-voor-stap handleidi
 ## Conclusie
 
 Aspose.Imaging voor .NET stelt u in staat de kunst van beeldtransformatie onder de knie te krijgen, waardoor het een hulpmiddel van onschatbare waarde is voor zowel medische professionals als ontwikkelaars. Of u nu DICOM-afbeeldingen moet omdraaien of roteren, deze tutorial biedt een naadloze reis naar de wereld van beeldmanipulatie. Verbeter vandaag nog uw medische toepassingen en beeldverwerking met Aspose.Imaging voor .NET. Ontgrendel nu de magie van beeldtransformatie!
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -3,10 +3,16 @@ title: Aspose.Imaging for Java による画像の拡張またはトリミング
 linktitle: 画像の拡大またはトリミング
 second_title: Aspose.Imaging Java 画像処理 API
 description: Aspose.Imaging を使用して、Java での画像の拡張とトリミングを学習します。開発者向けのステップバイステップのチュートリアル。画像操作スキルを向上させます。
-type: docs
 weight: 12
 url: /ja/java/document-conversion-and-processing/image-expansion-or-cropping/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for Java による画像の拡張またはトリミング
+
 進化し続けるデジタル メディアの世界では、効果的な画像操作は企業と個人の両方にとって基本的なニーズです。 Aspose.Imaging for Java は、画像を簡単に操作できる多用途の Java ライブラリです。この包括的なチュートリアルでは、Aspose.Imaging for Java を使用した画像の拡張とトリミングのプロセスを説明します。あなたが経験豊富な開発者であっても、コーディングの取り組みを始めたばかりであっても、初心者に優しい方法で各ステップを詳しく説明します。
 
 ## 前提条件
@@ -101,3 +107,9 @@ A3: はい、Aspose.Imaging for Java は Web アプリケーションに適し�
 ### Q5: Aspose.Imaging for Java の無料トライアルはありますか?
 
  A5: はい、無料トライアルでライブラリを探索できます。からダウンロードしてください[ここ](https://releases.aspose.com/).
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

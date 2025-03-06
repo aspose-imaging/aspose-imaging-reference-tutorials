@@ -3,10 +3,16 @@ title: Conversión y optimización de imágenes
 linktitle: Conversión y optimización de imágenes
 second_title: Aspose.Imaging API de procesamiento de imágenes Java
 description: Descubra tutoriales de optimización y conversión de imágenes utilizando Aspose.Imaging para Java. Aprenda a convertir, mejorar y optimizar varios formatos de imagen con facilidad.
-type: docs
 weight: 20
 url: /es/java/image-conversion-and-optimization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Conversión y optimización de imágenes
+
 
 # Introducción
 
@@ -86,3 +92,9 @@ Domine el arte de guardar cuadros de imágenes rasterizadas con Aspose.Imaging p
 Aprenda a convertir imágenes rasterizadas a formato TIFF en Java usando Aspose.Imaging para Java. Una guía completa para la manipulación de imágenes.
 ### [División de cuadros de imagen TIFF](./tiff-image-frame-splitting/)
 Aprenda a dividir marcos de imágenes TIFF usando Aspose.Imaging para Java. Guía paso a paso con requisitos previos, ejemplo de código y preguntas frecuentes para desarrolladores.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

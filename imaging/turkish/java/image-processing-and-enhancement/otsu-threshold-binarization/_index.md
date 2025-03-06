@@ -3,10 +3,16 @@ title: Aspose.Imaging for Java ile Otsu Eşik İkilileştirmesi
 linktitle: Otsu Eşik İkilileştirmesi
 second_title: Aspose.Imaging Java Görüntü İşleme API'si
 description: Java'nın Otsu Eşik İkilileştirmesi için Aspose.Imaging ile görüntü kalitesini artırın. Görüntü işlemede mükemmeliyet için adım adım kılavuzumuzu izleyin.
-type: docs
 weight: 22
 url: /tr/java/image-processing-and-enhancement/otsu-threshold-binarization/
 ---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/tutorial-page-section >}}
+
+# Aspose.Imaging for Java ile Otsu Eşik İkilileştirmesi
+
 Görüntü işleme ve manipülasyon dünyasında Aspose.Imaging for Java, geliştiricilerin çeşitli görüntü formatlarıyla çalışmasına olanak tanıyan güçlü bir araç seti olarak duruyor. Birçok özelliğinin yanı sıra Otsu Eşik İkilileştirme, görüntü geliştirme ve analiz için çok önemli bir tekniktir. Bu eğitimde, bir görüntü üzerinde adım adım Otsu Eşik Binarizasyonu gerçekleştirmek için Aspose.Imaging for Java'yı kullanma sürecinde size rehberlik edeceğiz.
 
 ## Önkoşullar
@@ -105,3 +111,9 @@ Cevap1: Otsu Eşik İkilileştirme, bir görüntüyü ön plan ve arka plan olar
 ### S5: Aspose.Imaging for Java'yı ticari projelerimde kullanabilir miyim?
 
 C5: Evet, Aspose.Imaging for Java hem kişisel hem de ticari projeler için uygundur. Özel ihtiyaçlarınıza uyacak lisanslama seçeneklerini keşfedebilirsiniz.
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}
