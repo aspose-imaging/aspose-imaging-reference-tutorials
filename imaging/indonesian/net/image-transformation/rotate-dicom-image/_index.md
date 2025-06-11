@@ -1,52 +1,54 @@
 ---
-title: Putar Gambar DICOM dengan Aspose.Imaging untuk .NET
-linktitle: Putar Gambar DICOM di Aspose.Imaging untuk .NET
-second_title: Aspose.Imaging .NET API Pemrosesan Gambar
-description: Jelajahi rotasi gambar DICOM dengan Aspose.Imaging untuk .NET. Panduan langkah demi langkah untuk memanipulasi gambar medis.
-weight: 11
-url: /id/net/image-transformation/rotate-dicom-image/
+"description": "Jelajahi rotasi gambar DICOM dengan Aspose.Imaging untuk .NET. Panduan langkah demi langkah untuk memanipulasi gambar medis."
+"linktitle": "Memutar Gambar DICOM di Aspose.Imaging untuk .NET"
+"second_title": "API Pemrosesan Gambar Aspose.Imaging .NET"
+"title": "Memutar Gambar DICOM dengan Aspose.Imaging untuk .NET"
+"url": "/id/net/image-transformation/rotate-dicom-image/"
+"weight": 11
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Putar Gambar DICOM dengan Aspose.Imaging untuk .NET
+# Memutar Gambar DICOM dengan Aspose.Imaging untuk .NET
 
 ## Perkenalan
 
-Di era digital saat ini, pemrosesan gambar telah menjadi bagian integral dari berbagai industri, mulai dari layanan kesehatan hingga desain dan seterusnya. Jika Anda seorang pengembang .NET yang ingin memanipulasi dan menyempurnakan gambar medis, Aspose.Imaging for .NET adalah alat canggih yang dapat Anda gunakan. Dalam panduan komprehensif ini, kami akan memandu Anda melalui proses memutar gambar DICOM menggunakan Aspose.Imaging untuk .NET.
+Di era digital saat ini, pemrosesan gambar telah menjadi bagian integral dari berbagai industri, mulai dari perawatan kesehatan hingga desain dan seterusnya. Jika Anda seorang pengembang .NET yang ingin memanipulasi dan menyempurnakan gambar medis, Aspose.Imaging for .NET adalah alat yang hebat untuk Anda. Dalam panduan lengkap ini, kami akan memandu Anda melalui proses memutar gambar DICOM menggunakan Aspose.Imaging for .NET.
 
-Baik Anda seorang pengembang berpengalaman atau baru memulai perjalanan Anda ke dunia pemrosesan gambar, tutorial ini akan memberi Anda petunjuk langkah demi langkah yang jelas untuk memastikan Anda berhasil memutar gambar DICOM dan mengintegrasikan fungsi ini ke dalam aplikasi .NET Anda . Mari selami!
+Apakah Anda seorang pengembang berpengalaman atau baru memulai perjalanan Anda di dunia pemrosesan gambar, tutorial ini akan memberi Anda petunjuk langkah demi langkah yang jelas untuk memastikan Anda dapat memutar gambar DICOM dengan sukses dan mengintegrasikan fungsionalitas ini ke dalam aplikasi .NET Anda. Mari kita mulai!
 
 ## Prasyarat
 
-Sebelum kita mempelajari dunia menarik dalam memutar gambar DICOM menggunakan Aspose.Imaging untuk .NET, prasyarat berikut harus dipenuhi:
+Sebelum kita menyelami dunia menarik memutar gambar DICOM menggunakan Aspose.Imaging untuk .NET, penting untuk memiliki prasyarat berikut:
 
-1. Pengaturan Lingkungan: Pastikan Anda memiliki lingkungan pengembangan yang berfungsi dengan Visual Studio dan .NET Framework terinstal.
+1. Pengaturan Lingkungan: Pastikan Anda memiliki lingkungan pengembangan yang berfungsi dengan Visual Studio dan .NET Framework terpasang.
 
-2. Aspose.Imaging for .NET Library: Unduh dan instal Aspose.Imaging for .NET dari[tautan unduhan](https://releases.aspose.com/imaging/net/).
+2. Pustaka Aspose.Imaging untuk .NET: Unduh dan instal Aspose.Imaging untuk .NET dari [tautan unduhan](https://releases.aspose.com/imaging/net/).
 
-3. Gambar DICOM: Anda memerlukan file gambar DICOM untuk digunakan. Jika Anda tidak memilikinya, Anda dapat menemukan contoh gambar DICOM online atau gunakan milik Anda sendiri.
+3. Citra DICOM: Anda memerlukan berkas citra DICOM agar dapat digunakan. Jika tidak memilikinya, Anda dapat mencari contoh citra DICOM secara daring atau menggunakan citra Anda sendiri.
 
-4. Pengetahuan Dasar C#: Pemahaman mendasar tentang C# diperlukan untuk mengikuti tutorial ini.
+4. Pengetahuan Dasar C#: Pemahaman dasar tentang C# diperlukan untuk mengikuti tutorial ini.
 
-Sekarang kita telah membahas prasyaratnya, mari kita lanjutkan dengan mengimpor namespace yang diperlukan untuk memulai rotasi gambar DICOM.
+Sekarang setelah kita membahas prasyarat, mari lanjutkan dengan mengimpor namespace yang diperlukan untuk memulai rotasi gambar DICOM.
 
-## Impor Namespace
+## Mengimpor Ruang Nama
 
-Pertama, kita perlu mengimpor namespace yang relevan untuk mengakses perpustakaan Aspose.Imaging untuk .NET dan bekerja dengan gambar DICOM. Inilah cara Anda melakukannya:
+Pertama, kita perlu mengimpor namespace yang relevan untuk mengakses pustaka Aspose.Imaging for .NET dan bekerja dengan gambar DICOM. Berikut cara melakukannya:
 
 ```csharp
 using Aspose.Imaging;
 using Aspose.Imaging.FileFormats.Dicom;
 ```
 
-Sekarang, mari kita bagi contoh ini menjadi beberapa langkah dalam format panduan langkah demi langkah agar proses memutar gambar DICOM lebih mudah dikelola.
+Sekarang, mari kita uraikan contoh tersebut menjadi beberapa langkah dalam format panduan langkah demi langkah untuk membuat proses memutar citra DICOM lebih mudah dikelola.
 
 ## Langkah 1: Muat Gambar DICOM
 
-Mulailah dengan memuat gambar DICOM yang ingin Anda putar. Hal ini biasanya dicapai dengan membaca gambar dari file. Dalam contoh ini, kami menggunakan aliran file:
+Mulailah dengan memuat citra DICOM yang ingin Anda putar. Hal ini biasanya dilakukan dengan membaca citra dari sebuah berkas. Dalam contoh ini, kami menggunakan aliran berkas:
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -61,7 +63,7 @@ using (var fileStream = new FileStream(dataDir + "file.dcm", FileMode.Open, File
 
 ## Langkah 2: Putar Gambar DICOM
 
-Kini sampai pada bagian yang menarik – memutar gambar DICOM. Dalam contoh ini, kami memutar gambar sebesar 10 derajat, namun Anda dapat menyesuaikan sudutnya sesuai kebutuhan spesifik Anda:
+Sekarang tibalah bagian yang menarik – memutar citra DICOM. Dalam contoh ini, kita memutar citra sebesar 10 derajat, tetapi Anda dapat menyesuaikan sudutnya sesuai dengan kebutuhan spesifik Anda:
 
 ```csharp
 image.Rotate(10);
@@ -69,7 +71,7 @@ image.Rotate(10);
 
 ## Langkah 3: Simpan Gambar yang Diputar
 
-Setelah rotasi selesai, penting untuk menyimpan gambar DICOM yang diputar. Kami akan menyimpannya sebagai file BMP:
+Setelah rotasi selesai, penting untuk menyimpan citra DICOM yang telah diputar. Kita akan menyimpannya sebagai file BMP:
 
 ```csharp
 image.Save(dataDir + "RotatingDICOMImage_out.bmp", new BmpOptions());
@@ -77,32 +79,34 @@ image.Save(dataDir + "RotatingDICOMImage_out.bmp", new BmpOptions());
 
 ## Kesimpulan
 
-Selamat! Anda telah berhasil memutar gambar DICOM menggunakan Aspose.Imaging untuk .NET. Perpustakaan canggih ini memungkinkan Anda memanipulasi gambar medis dengan mudah, membuka kemungkinan untuk berbagai aplikasi dalam perawatan kesehatan dan lainnya. Dengan langkah-langkah yang disediakan dalam panduan ini, kini Anda dapat mengintegrasikan rotasi gambar ke dalam proyek .NET Anda dengan lancar.
+Selamat! Anda telah berhasil memutar citra DICOM menggunakan Aspose.Imaging untuk .NET. Pustaka canggih ini memungkinkan Anda memanipulasi citra medis dengan mudah, membuka kemungkinan untuk berbagai aplikasi dalam perawatan kesehatan dan lainnya. Dengan langkah-langkah yang disediakan dalam panduan ini, kini Anda dapat mengintegrasikan rotasi citra ke dalam proyek .NET Anda dengan lancar.
 
-## FAQ
+## Pertanyaan yang Sering Diajukan
 
-### Q1: Apa itu DICOM dan mengapa penting dalam bidang medis?
+### Q1: Apa itu DICOM, dan mengapa penting dalam bidang medis?
 
-A1: DICOM adalah singkatan dari Pencitraan Digital dan Komunikasi dalam Kedokteran. Ini adalah standar untuk penyimpanan dan transmisi gambar medis, sehingga penting untuk berbagi dan mengakses data medis secara efisien.
+A1: DICOM adalah singkatan dari Digital Imaging and Communications in Medicine. Ini adalah standar untuk penyimpanan dan transmisi gambar medis, sehingga sangat penting untuk berbagi dan mengakses data medis secara efisien.
 
-### Q2: Dapatkah Aspose.Imaging untuk .NET menangani tugas manipulasi gambar lainnya?
+### Q2: Dapatkah Aspose.Imaging for .NET menangani tugas manipulasi gambar lainnya?
 
-A2: Ya, Aspose.Imaging for .NET menawarkan berbagai fitur untuk pemrosesan gambar, termasuk konversi, pengubahan ukuran, dan banyak lagi.
+A2: Ya, Aspose.Imaging untuk .NET menawarkan berbagai fitur untuk pemrosesan gambar, termasuk konversi, pengubahan ukuran, dan banyak lagi.
 
-### Q3: Di mana saya dapat menemukan dokumentasi dan dukungan tambahan untuk Aspose.Imaging untuk .NET?
+### Q3: Di mana saya dapat menemukan dokumentasi dan dukungan tambahan untuk Aspose.Imaging for .NET?
 
- A3: Anda dapat mengakses dokumentasinya di[Aspose.Imaging untuk Dokumentasi .NET](https://reference.aspose.com/imaging/net/) dan mencari bantuan di[Aspose.Forum pencitraan](https://forum.aspose.com/).
+A3: Anda dapat mengakses dokumentasi di [Dokumentasi Aspose.Imaging untuk .NET](https://reference.aspose.com/imaging/net/) dan mencari bantuan di [Forum Aspose.Imaging](https://forum.aspose.com/).
 
-### Q4: Apakah Aspose.Imaging untuk .NET cocok untuk pemula dan pengembang berpengalaman?
+### Q4: Apakah Aspose.Imaging untuk .NET cocok untuk pemula dan developer berpengalaman?
 
-A4: Tentu saja! Aspose.Imaging for .NET melayani pengembang dari semua tingkat keahlian, menyediakan fitur yang mudah digunakan dan fungsionalitas tingkat lanjut.
+A4: Tentu saja! Aspose.Imaging for .NET ditujukan untuk pengembang dari semua tingkat keterampilan, menyediakan fitur yang mudah digunakan dan fungsionalitas tingkat lanjut.
 
 ### Q5: Apakah ada opsi lisensi untuk Aspose.Imaging untuk .NET?
 
- A5: Ya, Anda dapat menjelajahi opsi lisensi, termasuk uji coba gratis dan pembelian, di[Aspose.Imaging halaman pembelian](https://purchase.aspose.com/buy) Dan[izin sementara](https://purchase.aspose.com/temporary-license/).
+A5: Ya, Anda dapat menjelajahi opsi lisensi, termasuk uji coba gratis dan pembelian, di [Halaman pembelian Aspose.Imaging](https://purchase.aspose.com/buy) Dan [lisensi sementara](https://purchase.aspose.com/temporary-license/).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

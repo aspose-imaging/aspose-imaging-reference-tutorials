@@ -1,31 +1,33 @@
 ---
-title: Graustufen-DICOM-Bilder mit Aspose.Imaging für .NET
-linktitle: Graustufen auf DICOM in Aspose.Imaging für .NET
-second_title: Aspose.Imaging .NET-Bildverarbeitungs-API
-description: Erfahren Sie, wie Sie mit Aspose.Imaging für .NET, einer leistungsstarken Bildverarbeitungsbibliothek, eine Grauskalierung von DICOM-Bildern durchführen.
-weight: 24
-url: /de/net/dicom-image-processing/grayscale-on-dicom/
+"description": "Erfahren Sie, wie Sie mit Aspose.Imaging für .NET, einer leistungsstarken Bildverarbeitungsbibliothek, Graustufen auf DICOM-Bildern durchführen."
+"linktitle": "Graustufen auf DICOM in Aspose.Imaging für .NET"
+"second_title": "Aspose.Imaging .NET Bildverarbeitungs-API"
+"title": "Graustufen-DICOM-Bilder mit Aspose.Imaging für .NET"
+"url": "/de/net/dicom-image-processing/grayscale-on-dicom/"
+"weight": 24
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Graustufen-DICOM-Bilder mit Aspose.Imaging für .NET
 
-Wenn Sie mit medizinischen Bilddaten im DICOM-Format arbeiten und Graustufentransformationen durchführen müssen, bietet Aspose.Imaging für .NET eine leistungsstarke Lösung. In dieser Schritt-für-Schritt-Anleitung führen wir Sie durch den Prozess der Grauskalierung eines DICOM-Bildes mit Aspose.Imaging. Diese Bibliothek ist ein vielseitiges Tool, mit dem Sie in einer .NET-Umgebung mit verschiedenen Bildformaten, einschließlich DICOM, arbeiten können. Lass uns anfangen!
+Wenn Sie mit medizinischen Bilddaten im DICOM-Format arbeiten und Graustufentransformationen durchführen müssen, bietet Aspose.Imaging für .NET eine leistungsstarke Lösung. In diesem Schritt-für-Schritt-Tutorial führen wir Sie durch den Prozess der Graustufentransformation eines DICOM-Bildes mit Aspose.Imaging. Diese Bibliothek ist ein vielseitiges Tool, mit dem Sie in einer .NET-Umgebung mit verschiedenen Bildformaten, einschließlich DICOM, arbeiten können. Los geht's!
 
 ## Voraussetzungen
 
 Bevor Sie beginnen, stellen Sie sicher, dass die folgenden Voraussetzungen erfüllt sind:
 
-1.  Aspose.Imaging für .NET: Diese Bibliothek sollte installiert sein. Sie können es hier herunterladen[Aspose.Imaging für .NET-Downloadseite](https://releases.aspose.com/imaging/net/).
+1. Aspose.Imaging für .NET: Sie sollten diese Bibliothek installiert haben. Sie können sie von der [Aspose.Imaging für .NET-Downloadseite](https://releases.aspose.com/imaging/net/).
 
-2. DICOM-Bild: Sie sollten ein DICOM-Bild haben, das Sie in Graustufen umwandeln möchten. Wenn Sie noch keins haben, können Sie zu Testzwecken Beispiel-DICOM-Bilder finden.
+2. DICOM-Bild: Sie benötigen ein DICOM-Bild, das Sie in Graustufen umwandeln möchten. Falls Sie keins haben, finden Sie hier Beispiel-DICOM-Bilder zu Testzwecken.
 
 ## Namespaces importieren
 
-Importieren wir zunächst die notwendigen Namespaces, um mit Aspose.Imaging zu arbeiten:
+Importieren wir zunächst die erforderlichen Namespaces für die Arbeit mit Aspose.Imaging:
 
 ```csharp
 using System;
@@ -35,11 +37,11 @@ using Aspose.Imaging.FileFormats.Dicom;
 using Aspose.Imaging.ImageOptions;
 ```
 
-Nachdem Sie nun die Voraussetzungen geschaffen und die Namensräume importiert haben, können wir mit dem Grauskalierungsprozess Schritt für Schritt fortfahren.
+Nachdem Sie nun die Voraussetzungen geschaffen und die Namespaces importiert haben, können wir Schritt für Schritt mit dem Grauskalierungsprozess fortfahren.
 
-## Schritt 1: Initialisieren Sie das DICOM-Bild
+## Schritt 1: Initialisieren des DICOM-Bildes
 
- Wir beginnen mit der Initialisierung des DICOM-Bildes. In diesem Beispiel gehen wir davon aus, dass die DICOM-Datei den Namen „file.dcm“ trägt und sich in einem von angegebenen Verzeichnis befindet`dataDir`.
+Wir beginnen mit der Initialisierung des DICOM-Bildes. In diesem Beispiel gehen wir davon aus, dass die DICOM-Datei den Namen „file.dcm“ trägt und sich in einem durch `dataDir`.
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -49,18 +51,18 @@ using (DicomImage image = new DicomImage(fileStream))
 
 ## Schritt 2: Graustufentransformation
 
- Der nächste Schritt besteht darin, das geladene DICOM-Bild mithilfe von in seine Graustufendarstellung umzuwandeln`Grayscale()` Methode. Diese Methode wandelt das Bild automatisch in Graustufen um.
+Der nächste Schritt besteht darin, das geladene DICOM-Bild in seine Graustufendarstellung umzuwandeln. Dazu verwenden wir `Grayscale()` Methode. Diese Methode konvertiert das Bild automatisch in Graustufen.
 
 ```csharp
 {
-    // Bild in seine Graustufendarstellung umwandeln
+    // Wandeln Sie das Bild in seine Graustufendarstellung um
     image.Grayscale();
 }
 ```
 
 ## Schritt 3: Speichern Sie das Graustufenbild
 
- Nachdem Sie das Bild in Graustufen skaliert haben, können Sie das resultierende Bild speichern. In diesem Beispiel speichern wir es im BMP-Format mit`BmpOptions()`.
+Nach der Graustufenberechnung können Sie das Bild speichern. In diesem Beispiel speichern wir es im BMP-Format mit dem `BmpOptions()`.
 
 ```csharp
 image.Save(dataDir + "GrayscalingOnDICOM_out.bmp", new BmpOptions());
@@ -68,32 +70,34 @@ image.Save(dataDir + "GrayscalingOnDICOM_out.bmp", new BmpOptions());
 
 ## Abschluss
 
-In diesem Tutorial haben wir gelernt, wie man mit Aspose.Imaging für .NET eine Grauskalierung an einem DICOM-Bild durchführt. Diese Bibliothek vereinfacht die Arbeit mit medizinischen Bilddaten und ermöglicht Ihnen die einfache Durchführung verschiedener Transformationen. Ob Sie an medizinischer Forschung oder an Anwendungen im Gesundheitswesen arbeiten, Aspose.Imaging kann ein wertvolles Werkzeug in Ihrem .NET-Entwicklungs-Toolkit sein.
+In diesem Tutorial haben wir gelernt, wie man mit Aspose.Imaging für .NET Graustufen auf einem DICOM-Bild durchführt. Diese Bibliothek vereinfacht die Arbeit mit medizinischen Bilddaten und ermöglicht Ihnen die einfache Durchführung verschiedener Transformationen. Ob Sie in der medizinischen Forschung oder im Gesundheitswesen arbeiten, Aspose.Imaging kann ein wertvolles Werkzeug in Ihrem .NET-Entwicklungs-Toolkit sein.
 
-## FAQs
+## Häufig gestellte Fragen
 
 ### F1: Was ist DICOM?
 
 A1: DICOM steht für Digital Imaging and Communications in Medicine. Es handelt sich um einen Standard für die Handhabung, Speicherung, den Druck und die Übertragung medizinischer Bilder.
 
-### F2: Ist Aspose.Imaging für die nichtmedizinische Bildverarbeitung geeignet?
+### F2: Ist Aspose.Imaging für die nicht-medizinische Bildverarbeitung geeignet?
 
 A2: Ja, Aspose.Imaging ist eine vielseitige Bibliothek, die eine breite Palette von Bildformaten für verschiedene Anwendungen über die medizinische Bildgebung hinaus verarbeiten kann.
 
 ### F3: Wo finde ich weitere Dokumentation?
 
- A3: Sie können sich auf die beziehen[Aspose.Imaging für .NET-Dokumentation](https://reference.aspose.com/imaging/net/) Ausführliche Informationen und Beispiele finden Sie hier.
+A3: Sie können sich auf die [Aspose.Imaging für .NET-Dokumentation](https://reference.aspose.com/imaging/net/) für detaillierte Informationen und Beispiele.
 
 ### F4: Gibt es eine kostenlose Testversion?
 
- A4: Ja, Sie können auf a zugreifen[kostenlose Testversion von Aspose.Imaging](https://releases.aspose.com/) seine Fähigkeiten zu bewerten.
+A4: Ja, Sie können auf eine [kostenlose Testversion von Aspose.Imaging](https://releases.aspose.com/) um seine Fähigkeiten zu bewerten.
 
-### F5: Wie kann ich Unterstützung für Aspose.Imaging erhalten?
+### F5: Wie kann ich Support für Aspose.Imaging erhalten?
 
- A5: Wenn Sie Fragen haben oder Hilfe benötigen, können Sie die besuchen[Aspose.Imaging-Forum](https://forum.aspose.com/) um Hilfe von der Community zu suchen oder ihr Support-Team zu kontaktieren.
+A5: Wenn Sie Fragen haben oder Hilfe benötigen, können Sie die [Aspose.Imaging-Forum](https://forum.aspose.com/) um Hilfe von der Community zu suchen oder sich an das Support-Team zu wenden.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

@@ -1,28 +1,30 @@
 ---
-title: Een rasterafbeelding tekenen op SVG in Aspose.Imaging voor .NET
-linktitle: Teken een rasterafbeelding op SVG in Aspose.Imaging voor .NET
-second_title: Aspose.Imaging .NET-API voor beeldverwerking
-description: Leer hoe u rasterafbeeldingen tekent op SVG met Aspose.Imaging voor .NET. Verbeter uw .NET-applicaties met dynamische afbeeldingen.
-weight: 11
-url: /nl/net/vector-image-processing/draw-raster-image-on-svg/
+"description": "Leer hoe u rasterafbeeldingen op SVG tekent met Aspose.Imaging voor .NET. Verbeter uw .NET-toepassingen met dynamische afbeeldingen."
+"linktitle": "Rasterafbeelding tekenen op SVG in Aspose.Imaging voor .NET"
+"second_title": "Aspose.Imaging .NET-beeldverwerkings-API"
+"title": "Een rasterafbeelding tekenen op SVG in Aspose.Imaging voor .NET"
+"url": "/nl/net/vector-image-processing/draw-raster-image-on-svg/"
+"weight": 11
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Een rasterafbeelding tekenen op SVG in Aspose.Imaging voor .NET
 
 
-In de wereld van .NET-programmeren staat Aspose.Imaging als een betrouwbare en veelzijdige bibliotheek voor het afhandelen van verschillende beeldgerelateerde taken. Een fascinerende mogelijkheid die het biedt, is de mogelijkheid om een rasterafbeelding op een SVG-canvas te tekenen. In deze stapsgewijze handleiding leiden we u door het proces van het tekenen van een rasterafbeelding op een SVG met behulp van Aspose.Imaging voor .NET.
+In de wereld van .NET-programmering staat Aspose.Imaging bekend als een betrouwbare en veelzijdige bibliotheek voor het verwerken van diverse beeldgerelateerde taken. Een fascinerende mogelijkheid is de mogelijkheid om een rasterafbeelding op een SVG-canvas te tekenen. In deze stapsgewijze handleiding leiden we je door het proces van het tekenen van een rasterafbeelding op een SVG met Aspose.Imaging voor .NET.
 
 ## Vereisten
 
-Voordat we ingaan op de details, zorg ervoor dat u aan de volgende vereisten voldoet:
+Voordat we in de details duiken, moet u ervoor zorgen dat u aan de volgende voorwaarden voldoet:
 
--  Aspose.Imaging voor .NET: U moet de bibliotheek geïnstalleerd hebben. Als dit niet het geval is, kunt u deze downloaden van de[Aspose.Imaging voor .NET-downloadpagina](https://releases.aspose.com/imaging/net/).
+- Aspose.Imaging voor .NET: U moet de bibliotheek geïnstalleerd hebben. Zo niet, dan kunt u deze downloaden van de [Aspose.Imaging voor .NET downloadpagina](https://releases.aspose.com/imaging/net/).
 
--  Uw documentenmap: Vervangen`"Your Document Directory"` met het daadwerkelijke pad naar uw werkmap.
+- Uw documentenmap: vervangen `"Your Document Directory"` met het werkelijke pad naar uw werkdirectory.
 
 Laten we het proces nu opsplitsen in eenvoudig te volgen stappen:
 
@@ -37,9 +39,9 @@ using Aspose.Imaging.FileFormats.Svg.Graphics;
 using System;
 ```
 
-## Stap 2: Laad de afbeeldingen
+## Stap 2: Afbeeldingen laden
 
-- Laad eerst de rasterafbeelding die u op het SVG-canvas wilt tekenen.
+- Laad eerst de rasterafbeelding die u wilt tekenen op het SVG-canvas.
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -54,7 +56,7 @@ using (SvgImage canvasImage = (SvgImage)Image.Load(dataDir + "asposenet_220_src0
 
 ## Stap 3: Tekenen op de SVG-afbeelding
 
-Nu kunt u beginnen met tekenen op de bestaande SVG-afbeelding. Om dit te doen, moet u een exemplaar van`SvgGraphics2D`:
+Nu kunt u beginnen met tekenen op de bestaande SVG-afbeelding. Hiervoor moet u een instantie van `SvgGraphics2D`:
 
 ```csharp
 SvgGraphics2D graphics = new SvgGraphics2D(canvasImage);
@@ -84,32 +86,34 @@ using (SvgImage resultImage = graphics.EndRecording())
 
 ## Conclusie
 
-Gefeliciteerd! U hebt met succes een rasterafbeelding op een SVG-canvas getekend met Aspose.Imaging voor .NET. Dit kan ongelooflijk handig zijn voor het maken van rijke en dynamische afbeeldingen binnen uw .NET-toepassingen.
+Gefeliciteerd! Je hebt met succes een rasterafbeelding op een SVG-canvas getekend met Aspose.Imaging voor .NET. Dit kan ontzettend handig zijn voor het maken van rijke en dynamische afbeeldingen in je .NET-applicaties.
 
- Voor meer informatie en gedetailleerde documentatie kunt u terecht op de website[Aspose.Imaging voor .NET-documentatie](https://reference.aspose.com/imaging/net/).
+Voor meer informatie en gedetailleerde documentatie, bezoek de [Aspose.Imaging voor .NET-documentatie](https://reference.aspose.com/imaging/net/).
 
-## Veel Gestelde Vragen
+## Veelgestelde vragen
 
 ### Wat is Aspose.Imaging voor .NET?
-   Aspose.Imaging voor .NET is een krachtige bibliotheek voor beeldverwerking waarmee ontwikkelaars afbeeldingen in verschillende formaten binnen .NET-toepassingen kunnen maken, manipuleren en converteren.
+   Aspose.Imaging voor .NET is een krachtige beeldverwerkingsbibliotheek waarmee ontwikkelaars afbeeldingen in verschillende formaten in .NET-toepassingen kunnen maken, bewerken en converteren.
 
 ### Kan ik Aspose.Imaging voor .NET gebruiken in commerciële projecten?
-    Ja, u kunt Aspose.Imaging voor .NET gebruiken in zowel commerciële als niet-commerciële projecten. Licentiegegevens zijn te vinden op de[aankooppagina](https://purchase.aspose.com/buy).
+   Ja, u kunt Aspose.Imaging voor .NET gebruiken in zowel commerciële als niet-commerciële projecten. Licentiegegevens vindt u op de [aankooppagina](https://purchase.aspose.com/buy).
 
-### Is er een gratis proefversie beschikbaar?
-    Ja, u kunt een gratis proefversie van Aspose.Imaging voor .NET krijgen[hier](https://releases.aspose.com/).
+### Is er een gratis proefperiode beschikbaar?
+   Ja, u kunt een gratis proefversie van Aspose.Imaging voor .NET krijgen van [hier](https://releases.aspose.com/).
 
 ### Waar kan ik ondersteuning krijgen of vragen stellen?
-    Als u vragen heeft of ondersteuning nodig heeft, kunt u terecht op de[Aspose.Imaging-forum](https://forum.aspose.com/).
+   Als u vragen heeft of ondersteuning nodig heeft, kunt u terecht op de [Aspose.Imaging forum](https://forum.aspose.com/).
 
-### Hoe kan ik een tijdelijke licentie verkrijgen voor Aspose.Imaging voor .NET?
-    U kunt een tijdelijke licentie verkrijgen via[hier](https://purchase.aspose.com/temporary-license/).
+### Hoe kan ik een tijdelijke licentie voor Aspose.Imaging voor .NET verkrijgen?
+   U kunt een tijdelijke vergunning krijgen van [hier](https://purchase.aspose.com/temporary-license/).
+
 
 
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

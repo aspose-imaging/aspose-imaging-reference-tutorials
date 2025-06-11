@@ -1,33 +1,35 @@
 ---
-title: DICOM képkontraszt beállítása Aspose.Imaging for Java segítségével
-linktitle: DICOM képkontraszt beállítás
-second_title: Aspose.Imaging Java Image Processing API
-description: Ismerje meg, hogyan állíthatja be a kontrasztot a DICOM-képekben az Aspose.Imaging for Java segítségével. Fokozatmentesen javíthatja az orvosi képek vizuális minőségét.
-weight: 23
-url: /hu/java/image-processing-and-enhancement/dicom-image-contrast-adjustment/
+"description": "Tanulja meg, hogyan állíthatja be a kontrasztot DICOM képeken az Aspose.Imaging for Java segítségével. Javítsa orvosi képeinek vizuális minőségét könnyedén."
+"linktitle": "DICOM kép kontraszt beállítása"
+"second_title": "Aspose.Imaging Java képfeldolgozó API"
+"title": "DICOM képkontraszt-beállítás Aspose.Imaging segítségével Java-ban"
+"url": "/hu/java/image-processing-and-enhancement/dicom-image-contrast-adjustment/"
+"weight": 23
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# DICOM képkontraszt beállítása Aspose.Imaging for Java segítségével
+# DICOM képkontraszt-beállítás Aspose.Imaging segítségével Java-ban
 
-Az orvosi képalkotás folyamatosan fejlődő területén a képkontraszt beállításának lehetősége kiemelkedő fontosságú. Az Aspose.Imaging for Java erejével könnyedén kezelheti a DICOM (Digital Imaging and Communications in Medicine) képeket a vizuális minőség javítása érdekében. Ez az oktatóanyag lépésről lépésre végigvezeti a folyamaton, így biztosítva, hogy precíz és hatékony képkontraszt-beállításokat érjen el.
+Az orvosi képalkotás folyamatosan fejlődő területén kiemelkedő fontosságú a képkontraszt beállításának lehetősége. Az Aspose.Imaging for Java erejével könnyedén manipulálhatja a DICOM (Digital Imaging and Communications in Medicine) képeket a vizuális minőségük javítása érdekében. Ez az oktatóanyag lépésről lépésre végigvezeti Önt a folyamaton, biztosítva a pontos és hatékony képkontraszt-beállításokat.
 
 ## Előfeltételek
 
-Mielőtt belevágna ebbe az oktatóanyagba, győződjön meg arról, hogy a következő előfeltételek teljesülnek:
+Mielőtt belemerülnél ebbe az oktatóanyagba, győződj meg róla, hogy a következő előfeltételek teljesülnek:
 
-1.  Aspose.Imaging for Java: A DICOM-képekkel való munkavégzéshez és a kontraszt beállításához szükség van az Aspose.Imaging for Java-ra. Letöltheti[itt](https://releases.aspose.com/imaging/java/).
+1. Aspose.Imaging Java-hoz: A DICOM képekkel való munkához és a kontraszt beállításához telepítenie kell az Aspose.Imaging Java-hoz készült verzióját. Letöltheti [itt](https://releases.aspose.com/imaging/java/).
 
-2. Java fejlesztői környezet: Győződjön meg arról, hogy rendelkezik működő Java fejlesztői környezettel, beleértve a Java Development Kit-et (JDK) és az Ön által választott integrált fejlesztői környezetet (IDE).
+2. Java fejlesztői környezet: Győződjön meg arról, hogy rendelkezik működő Java fejlesztői környezettel, beleértve a Java Development Kitet (JDK) és egy Ön által választott integrált fejlesztői környezetet (IDE).
 
-3. DICOM-kép: Készítse elő a módosítani kívánt DICOM-képet. Tesztelési célokra találhat minta DICOM képeket, vagy használhatja a sajátját.
+3. DICOM kép: Készítse elő a módosítani kívánt DICOM képet. Tesztelési célokra minta DICOM képeket találhat, vagy használhat sajátot is.
 
 ## Csomagok importálása
 
-Java-projektjében importálja a szükséges csomagokat az Aspose.Imaging for Java-ból. Ezek a csomagok biztosítják a DICOM képek kontrasztbeállításához szükséges eszközöket és funkciókat.
+A Java projektedben importáld a szükséges csomagokat az Aspose.Imaging for Java csomagból. Ezek a csomagok biztosítják a DICOM képek kontrasztbeállításához szükséges eszközöket és funkciókat.
 
 ```java
 import com.aspose.imaging.imageoptions.BmpOptions;
@@ -38,9 +40,9 @@ import java.io.FileInputStream;
 import java.io.IOException;
 ```
 
-## 1. lépés: Adja meg a fájl elérési útját
+## 1. lépés: Adja meg a fájlútvonalakat
 
- Határozza meg a bemeneti DICOM-kép és a kimeneti BMP-kép elérési útját. Ügyeljen arra, hogy cserélje ki`"Your Document Directory"` a dokumentumkönyvtár tényleges elérési útjával.
+Adja meg a bemeneti DICOM kép és a kimeneti BMP kép elérési útját. Ügyeljen arra, hogy kicserélje a `"Your Document Directory"` a dokumentumkönyvtár tényleges elérési útjával.
 
 ```java
 String dataDir = "Your Document Directory" + "dicom/";
@@ -48,16 +50,16 @@ String inputFile = dataDir + "image.dcm";
 String outputFile = "Your Document Directory" + "AdjustingContrast_out.bmp";
 ```
 
-## 2. lépés: Töltse be a DICOM-képet
+## 2. lépés: Töltse be a DICOM képet
 
-Használja a következő kódot a DICOM kép betöltéséhez a megadott bemeneti fájlból.
+A következő kóddal töltheti be a DICOM képet a megadott bemeneti fájlból.
 
 ```java
 File file = new File(inputFile);
 
 try (FileInputStream fis = new FileInputStream(file)) {
     try (DicomImage image = (DicomImage) Image.load(fis)) {
-        // A blokkon belül további lépésekre kerül sor
+        // További lépések történnek majd ebben a blokkban.
     }
 } catch (IOException ex) {
     Logger.println(ex.getMessage());
@@ -67,15 +69,15 @@ try (FileInputStream fis = new FileInputStream(file)) {
 
 ## 3. lépés: Állítsa be a kontrasztot
 
-Abban a blokkban, ahová a DICOM-képet töltötte be, beállíthatja a kép kontrasztját. Ebben a példában 50 egységgel növeljük a kontrasztot.
+A DICOM kép betöltési blokkján belül beállíthatja a kép kontrasztját. Ebben a példában 50 egységgel növeljük a kontrasztot.
 
 ```java
 image.adjustContrast(50);
 ```
 
-## 4. lépés: Hozzon létre egy BmpOptions példányt, és mentse a képet
+## 4. lépés: Hozzon létre egy BmpOptions példányt, és mentse el a képet
 
- A kontraszt beállítása után hozzon létre egy példányt`BmpOptions` az eredményül kapott képhez, és mentse el. A kép BMP formátumban kerül mentésre.
+kontraszt beállítása után hozzon létre egy példányt a következőből: `BmpOptions` a kapott képhez, és mentse el. A kép BMP formátumban lesz mentve.
 
 ```java
 image.save(outputFile, new BmpOptions());
@@ -83,34 +85,36 @@ image.save(outputFile, new BmpOptions());
 
 ## Következtetés
 
-Gratulálunk! Sikeresen beállította egy DICOM-kép kontrasztját az Aspose.Imaging for Java segítségével. Ez a hatékony eszköz lehetővé teszi az orvosi képek vizuális minőségének egyszerű javítását.
+Gratulálunk! Sikeresen beállította egy DICOM kép kontrasztját az Aspose.Imaging for Java segítségével. Ez a hatékony eszköz lehetővé teszi az orvosi képek vizuális minőségének egyszerű javítását.
 
-Az Aspose.Imaging for Java leegyszerűsíti a DICOM-képek kezelésének folyamatát, így értékes eszközt jelent az egészségügyi szakemberek, kutatók és bárki számára, aki orvosi képalkotási adatokkal dolgozik.
+Az Aspose.Imaging for Java leegyszerűsíti a DICOM képek manipulálásának folyamatát, így értékes eszközzé válik az egészségügyi szakemberek, kutatók és bárki számára, aki orvosi képalkotó adatokkal dolgozik.
 
 ## GYIK
 
-### 1. kérdés: Mi az a DICOM, és miért fontos az orvosi képalkotásban?
+### 1. kérdés: Mi a DICOM, és miért fontos az orvosi képalkotásban?
 
-A1: A DICOM a Digital Imaging and Communications in Medicine rövidítése. Ez egy szabvány az orvosi képek és a kapcsolódó információk továbbítására, tárolására és megosztására. A DICOM biztosítja, hogy az orvosi képek következetesen megtekinthetők és értelmezhetők különböző eszközökön és szoftvereken.
+A1: A DICOM a Digital Imaging and Communications in Medicine (Digitális Képalkotás és Kommunikáció az Orvostudományban) rövidítése. Ez egy szabvány az orvosi képek és a kapcsolódó információk továbbítására, tárolására és megosztására. A DICOM biztosítja, hogy az orvosi képek következetesen megtekinthetők és értelmezhetők legyenek különböző eszközökön és szoftvereken keresztül.
 
-### 2. kérdés: Beállíthatom más képformátumok kontrasztját az Aspose.Imaging for Java segítségével?
+### 2. kérdés: Be tudom állítani más képformátumok kontrasztját az Aspose.Imaging for Java segítségével?
 
-2. válasz: Igen, az Aspose.Imaging for Java képfeldolgozási lehetőségek széles skáláját kínálja különféle képformátumokhoz, beleértve a kontraszt beállítását is.
+V2: Igen, az Aspose.Imaging for Java széleskörű képfeldolgozási lehetőségeket kínál különféle képformátumokhoz, beleértve a kontraszt beállítását is.
 
-### 3. kérdés: Vannak más képjavítási technikák, amelyeket az Aspose.Imaging for Java programmal alkalmazhatok?
+### 3. kérdés: Vannak más képjavító technikák is, amelyeket alkalmazhatok az Aspose.Imaging for Java segítségével?
 
-3. válasz: Igen, az Aspose.Imaging for Java képkezelési funkciók tömkelegét kínálja, mint például a fényerő-beállítás, az átméretezés, a vágás és egyebek.
+V3: Igen, az Aspose.Imaging for Java számos képmanipulációs funkciót kínál, például fényerő-beállítást, átméretezést, vágást és egyebeket.
 
-### 4. kérdés: Az Aspose.Imaging for Java alkalmas kereskedelmi használatra?
+### 4. kérdés: Alkalmas-e az Aspose.Imaging Java-hoz kereskedelmi célú használatra?
 
- 4. válasz: Igen, az Aspose.Imaging for Java kereskedelmi licenceket és támogatást kínál. Vásárolhat licencet[itt](https://purchase.aspose.com/buy) vagy fedezze fel az ideiglenes licencelési lehetőségeket[itt](https://purchase.aspose.com/temporary-license/).
+4. válasz: Igen, az Aspose.Imaging for Java kereskedelmi licenceket és támogatást kínál. Licenc vásárlása lehetséges. [itt](https://purchase.aspose.com/buy) vagy tekintse meg az ideiglenes licencelési lehetőségeket [itt](https://purchase.aspose.com/temporary-license/).
 
-### 5. kérdés: Hol találok további forrásokat és támogatást az Aspose.Imaging for Java számára?
+### 5. kérdés: Hol találok további forrásokat és támogatást az Aspose.Imaging for Java-hoz?
 
- 5. válasz: A dokumentációt és a támogatást itt találja[Aspose.Imaging for Java fórum](https://forum.aspose.com/).
+V5: A dokumentációt és a támogatást a következő címen találja: [Aspose.Imaging Java-hoz fórum](https://forum.aspose.com/).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

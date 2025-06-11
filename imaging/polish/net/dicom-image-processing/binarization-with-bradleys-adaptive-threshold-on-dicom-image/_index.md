@@ -1,35 +1,37 @@
 ---
-title: Binaryzacja z progiem adaptacyjnym Bradleya na obrazie DICOM w Aspose.Imaging dla .NET
-linktitle: Binaryzacja z progiem adaptacyjnym Bradleya na obrazie DICOM w Aspose.Imaging dla .NET
-second_title: Aspose.Imaging .NET API przetwarzania obrazu
-description: Dowiedz się, jak zastosować próg adaptacyjny Bradleya do obrazów DICOM przy użyciu Aspose.Imaging dla .NET. Łatwa binaryzacja dzięki przewodnikowi krok po kroku.
-weight: 14
-url: /pl/net/dicom-image-processing/binarization-with-bradleys-adaptive-threshold-on-dicom-image/
+"description": "Naucz się stosować adaptacyjny próg Bradleya do obrazów DICOM przy użyciu Aspose.Imaging dla .NET. Binaryzacja staje się prosta dzięki przewodnikowi krok po kroku."
+"linktitle": "Binaryzacja z adaptacyjnym progiem Bradleya na obrazie DICOM w Aspose.Imaging dla .NET"
+"second_title": "Aspose.Imaging .NET Interfejs API przetwarzania obrazu"
+"title": "Binaryzacja z adaptacyjnym progiem Bradleya na obrazie DICOM w Aspose.Imaging dla .NET"
+"url": "/pl/net/dicom-image-processing/binarization-with-bradleys-adaptive-threshold-on-dicom-image/"
+"weight": 14
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Binaryzacja z progiem adaptacyjnym Bradleya na obrazie DICOM w Aspose.Imaging dla .NET
+# Binaryzacja z adaptacyjnym progiem Bradleya na obrazie DICOM w Aspose.Imaging dla .NET
 
-Czy chcesz zastosować próg adaptacyjny Bradleya do obrazu DICOM przy użyciu Aspose.Imaging dla .NET? W tym obszernym samouczku przeprowadzimy Cię krok po kroku przez cały proces. Pod koniec tego przewodnika będziesz w stanie efektywnie przeprowadzać binaryzację obrazów DICOM. Omówimy wszystko, od wymagań wstępnych po importowanie przestrzeni nazw i podzielenie każdego przykładu na wiele kroków.
+Czy chcesz zastosować Bradley's Adaptive Threshold do obrazu DICOM przy użyciu Aspose.Imaging dla .NET? W tym kompleksowym samouczku przeprowadzimy Cię przez proces krok po kroku. Pod koniec tego przewodnika będziesz w stanie wydajnie wykonywać binaryzację obrazów DICOM. Omówimy wszystko, od wymagań wstępnych po importowanie przestrzeni nazw i rozbicie każdego przykładu na wiele kroków.
 
-## Warunki wstępne
+## Wymagania wstępne
 
 Zanim przejdziemy do samouczka, upewnijmy się, że masz wszystko, czego potrzebujesz, aby zacząć.
 
 1. Aspose.Imaging dla .NET
 
- Upewnij się, że masz zainstalowany Aspose.Imaging for .NET w swoim systemie. Można go pobrać ze strony internetowej[Tutaj](https://releases.aspose.com/imaging/net/).
+Upewnij się, że masz zainstalowany Aspose.Imaging for .NET w swoim systemie. Możesz go pobrać ze strony internetowej [Tutaj](https://releases.aspose.com/imaging/net/).
 
 2. Obraz DICOM
 
-Przygotuj obraz DICOM, który chcesz binaryzować. Ścieżka do pliku obrazu DICOM powinna być gotowa do przetworzenia.
+Przygotuj obraz DICOM, który chcesz zbinaryzować. Powinieneś mieć gotową ścieżkę do obrazu DICOM do przetworzenia.
 
 ## Importowanie przestrzeni nazw
 
-W tej sekcji zaimportujemy niezbędne przestrzenie nazw do pracy z Aspose.Imaging dla .NET. Ten krok jest niezbędny, aby udostępnić wszystkie funkcje kodu.
+tej sekcji zaimportujemy niezbędne przestrzenie nazw do pracy z Aspose.Imaging dla .NET. Ten krok jest niezbędny, aby udostępnić wszystkie funkcjonalności kodowi.
 
 
 ```csharp
@@ -40,13 +42,13 @@ using Aspose.Imaging.FileFormats.Dicom;
 using Aspose.Imaging.FileFormats.Bmp;
 ```
 
-Teraz, gdy zaimportowaliśmy podstawowe przestrzenie nazw, przejdźmy do głównego procesu binaryzacji.
+Teraz, gdy zaimportowaliśmy podstawowe przestrzenie nazw, możemy przejść do głównego procesu binaryzacji.
 
-Podzielimy teraz proces binaryzacji na wiele etapów, dzięki czemu będziesz mógł łatwo śledzić i rozumieć każdą część kodu.
+Teraz podzielimy proces binaryzacji na kilka kroków, aby umożliwić Ci łatwe śledzenie i zrozumienie każdej części kodu.
 
 ## Krok 1: Załaduj obraz DICOM
 
-Najpierw musimy załadować obraz DICOM w celu binaryzacji. Upewnij się, że masz poprawną ścieżkę do obrazu DICOM.
+Najpierw musimy załadować obraz DICOM do binaryzacji. Upewnij się, że masz poprawną ścieżkę do obrazu DICOM.
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -55,22 +57,22 @@ string inputFile = dataDir + "image.dcm";
 using (var fileStream = new FileStream(inputFile, FileMode.Open, FileAccess.Read))
 using (DicomImage image = new DicomImage(fileStream))
 {
-    // Twój kod trafi tutaj
+    // Twój kod będzie tutaj
 }
 ```
 
-## Krok 2: Binaryzuj obraz
+## Krok 2: Binaryzacja obrazu
 
-Teraz nadszedł czas, aby zastosować próg adaptacyjny Bradleya w celu binaryzacji obrazu.
+Teraz pora na zastosowanie adaptacyjnego progu Bradleya w celu binaryzacji obrazu.
 
 ```csharp
-// Binaryzuj obraz za pomocą progu adaptacyjnego Bradleya i zapisz wynikowy obraz.
+// Zbinaryzuj obraz za pomocą progu adaptacyjnego Bradleya i zapisz obraz wynikowy.
 image.BinarizeBradley(10);
 ```
 
-## Krok 3: Zapisz binarny obraz
+## Krok 3: Zapisz obraz binarny
 
-Zapisz binarny obraz w wybranej lokalizacji, używając formatu BMP.
+Zapisz obraz binarny w wybranym miejscu, korzystając z formatu BMP.
 
 ```csharp
 image.Save(dataDir + "BinarizationWithBradleysAdaptiveThreshold_out.bmp", new BmpOptions());
@@ -78,34 +80,36 @@ image.Save(dataDir + "BinarizationWithBradleysAdaptiveThreshold_out.bmp", new Bm
 
 ## Wniosek
 
-tym samouczku omówiliśmy cały proces binaryzacji za pomocą progu adaptacyjnego Bradleya na obrazie DICOM przy użyciu Aspose.Imaging dla .NET. Znasz wymagania wstępne, sposób importowania przestrzeni nazw i znasz przewodnik krok po kroku dotyczący binaryzacji obrazu. Dzięki tej wiedzy możesz efektywnie przetwarzać obrazy DICOM pod kątem swoich konkretnych potrzeb.
+tym samouczku omówiliśmy cały proces binaryzacji za pomocą Bradley's Adaptive Threshold na obrazie DICOM przy użyciu Aspose.Imaging dla .NET. Poznałeś wymagania wstępne, sposób importowania przestrzeni nazw i przewodnik krok po kroku, jak binaryzować obraz. Dzięki tej wiedzy możesz wydajnie przetwarzać obrazy DICOM zgodnie ze swoimi konkretnymi potrzebami.
 
-Teraz masz narzędzia i wiedzę, aby zwiększyć możliwości przetwarzania obrazu za pomocą Aspose.Imaging dla .NET.
+Teraz dysponujesz narzędziami i wiedzą, które pozwolą Ci udoskonalić możliwości przetwarzania obrazów dzięki Aspose.Imaging dla .NET.
 
-## Często zadawane pytania
+## Najczęściej zadawane pytania
 
-### P1: Jaki jest próg adaptacyjny Bradleya?
+### P1: Czym jest próg adaptacyjny Bradleya?
 
-Odpowiedź 1: Próg adaptacyjny Bradleya to metoda stosowana w przetwarzaniu obrazu w celu oddzielenia pierwszego planu i tła obrazu w oparciu o adaptacyjne wartości progowe.
+A1: Próg adaptacyjny Bradleya to metoda wykorzystywana w przetwarzaniu obrazu do oddzielania pierwszego planu od tła obrazu na podstawie wartości progów adaptacyjnych.
 
-### P2: Czy mogę przetwarzać wiele obrazów DICOM za jednym razem?
+### P2: Czy mogę przetwarzać wiele obrazów DICOM na raz?
 
-Odpowiedź 2: Tak, możesz przeglądać wiele obrazów DICOM i zastosować proces binaryzacji, jak pokazano w tym samouczku.
+A2: Tak, można przeglądać wielokrotnie obrazy DICOM i stosować proces binaryzacji, jak pokazano w tym samouczku.
 
-### P3: Gdzie mogę znaleźć więcej dokumentacji Aspose.Imaging dla .NET?
+### P3: Gdzie mogę znaleźć więcej dokumentacji Aspose.Imaging dla platformy .NET?
 
- Odpowiedź 3: Możesz zapoznać się z dokumentacją[Tutaj](https://reference.aspose.com/imaging/net/)aby uzyskać szczegółowe informacje na temat korzystania z Aspose.Imaging dla .NET.
+A3: Możesz zapoznać się z dokumentacją [Tutaj](https://reference.aspose.com/imaging/net/) Aby uzyskać szczegółowe informacje na temat korzystania z Aspose.Imaging dla .NET.
 
-### P4: Czy dostępna jest wersja próbna Aspose.Imaging dla .NET?
+### P4: Czy jest dostępna wersja próbna Aspose.Imaging dla .NET?
 
- Odpowiedź 4: Tak, możesz uzyskać dostęp do bezpłatnej wersji próbnej[Tutaj](https://releases.aspose.com/) przetestować oprogramowanie przed dokonaniem zakupu.
+A4: Tak, możesz uzyskać dostęp do bezpłatnej wersji próbnej [Tutaj](https://releases.aspose.com/) aby przetestować oprogramowanie przed dokonaniem zakupu.
 
-### P5: Jak mogę uzyskać wsparcie dla Aspose.Imaging dla .NET?
+### P5: W jaki sposób mogę uzyskać pomoc techniczną dotyczącą Aspose.Imaging dla platformy .NET?
 
- Odpowiedź 5: Możesz dołączyć do społeczności Aspose i uzyskać wsparcie od innych programistów na stronie[Forum Aspose](https://forum.aspose.com/).
+A5: Możesz dołączyć do społeczności Aspose i uzyskać wsparcie od innych programistów na [Forum Aspose](https://forum.aspose.com/).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

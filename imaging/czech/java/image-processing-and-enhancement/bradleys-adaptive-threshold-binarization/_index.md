@@ -1,61 +1,63 @@
 ---
-title: Binarizace obrázků pomocí Aspose.Imaging pro Javu
-linktitle: Bradleyho adaptivní prahová binarizace
-second_title: Aspose.Imaging Java Image Processing API
-description: Naučte se binarizaci obrázků pomocí Aspose.Imaging pro Java. Snadno transformujte obrázky DICOM. Prozkoumejte podrobného průvodce s příklady kódu.
-weight: 27
-url: /cs/java/image-processing-and-enhancement/bradleys-adaptive-threshold-binarization/
+"description": "Naučte se binarizaci obrázků s Aspose.Imaging pro Javu. Snadno transformujte obrázky DICOM. Prozkoumejte podrobného průvodce s příklady kódu."
+"linktitle": "Bradleyho adaptivní prahová binarizace"
+"second_title": "API pro zpracování obrazu v Javě Aspose.Imaging"
+"title": "Binární tvorba obrázků pomocí Aspose.Imaging pro Javu"
+"url": "/cs/java/image-processing-and-enhancement/bradleys-adaptive-threshold-binarization/"
+"weight": 27
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Binarizace obrázků pomocí Aspose.Imaging pro Javu
+# Binární tvorba obrázků pomocí Aspose.Imaging pro Javu
 
-Obrázky hrají v digitálním světě zásadní roli, ať už na webových stránkách, v dokumentech nebo jako součást různých aplikací. Základním úkolem v těchto oblastech je zpracování obrazu a jednou ze základních operací je binarizace obrazu. Binarizace zjednodušuje obraz tím, že jej převádí do binární podoby, což usnadňuje počítačům zpracování. Aspose.Imaging for Java je výkonný nástroj, který poskytuje širokou škálu funkcí pro manipulaci s obrázky, a v tomto tutoriálu prozkoumáme, jak provádět binarizaci obrázků pomocí Bradley's Adaptive Threshold Binarization společnosti Aspose.Imaging. 
+Obrázky hrají v digitálním světě klíčovou roli, ať už na webových stránkách, v dokumentech nebo jako součást různých aplikací. Zpracování obrazu je v těchto oblastech zásadním úkolem a jednou ze základních operací je binarizace obrazu. Binarizace zjednodušuje obraz jeho převedením do binární formy, což usnadňuje jeho zpracování počítači. Aspose.Imaging pro Javu je výkonný nástroj, který poskytuje širokou škálu funkcí pro manipulaci s obrázky. V tomto tutoriálu se podíváme na to, jak provést binarizaci obrazu pomocí Bradleyho adaptivní prahové binarizace v Aspose.Imaging. 
 
 ## Předpoklady
 
-Než se ponoříte do světa binarizace obrázků pomocí Aspose.Imaging pro Java, ujistěte se, že máte vše, co potřebujete:
+Než se ponoříme do světa binarizace obrázků s Aspose.Imaging pro Javu, ujistěme se, že máte vše, co potřebujete:
 
-### Vývojové prostředí Java
+### Vývojové prostředí v Javě
 
-V systému byste měli mít nastavené vývojové prostředí Java. Pokud jste tak ještě neučinili, můžete si stáhnout a nainstalovat Java Development Kit (JDK) z webu Oracle.
+Měli byste mít ve svém systému nainstalované vývojové prostředí Java. Pokud tak ještě neučiníte, můžete si stáhnout a nainstalovat sadu Java Development Kit (JDK) z webových stránek společnosti Oracle.
 
 ### Aspose.Imaging pro Javu
 
-Abyste mohli pokračovat v tomto tutoriálu, musíte mít nainstalovaný Aspose.Imaging for Java. Můžete si jej stáhnout z webu Aspose pomocí následujícího odkazu:[Stáhněte si Aspose.Imaging pro Java](https://releases.aspose.com/imaging/java/).
+Abyste mohli pokračovat v tomto tutoriálu, budete potřebovat nainstalovaný Aspose.Imaging pro Javu. Můžete si ho stáhnout z webových stránek Aspose pomocí následujícího odkazu: [Stáhněte si Aspose.Imaging pro Javu](https://releases.aspose.com/imaging/java/).
 
 ### Obrázek DICOM
 
-Budete potřebovat obraz DICOM, který chcete binarizovat. Pokud žádný nemáte, můžete najít ukázky obrázků DICOM online nebo můžete použít své vlastní obrázky DICOM.
+Budete potřebovat obrázek DICOM, který chcete binarizovat. Pokud žádný nemáte, můžete najít ukázky obrázků DICOM online nebo můžete použít své vlastní obrázky DICOM.
 
-Nyní, když máte své předpoklady na místě, přejděme k dalšímu kroku.
+Nyní, když máte splněny všechny předpoklady, pojďme k dalšímu kroku.
 
-## Importujte balíčky
+## Importovat balíčky
 
-V této části naimportujeme potřebné balíčky z Aspose.Imaging for Java. Tyto balíčky obsahují třídy a metody potřebné k provedení Bradleyho adaptivní prahové binarizace na obrazu DICOM.
+V této části importujeme potřebné balíčky z Aspose.Imaging pro Javu. Tyto balíčky obsahují třídy a metody potřebné k provedení Bradleyho adaptivní binarizace prahových hodnot na obrázku DICOM.
 
 ```java
-// Cesta k adresáři dokumentů.
+// Cesta k adresáři s dokumenty.
 String dataDir = "Your Document Directory" + "dicom/";
 String inputFile = dataDir + "image.dcm";
 String outputFile = "Your Document Directory" + "BinarizationwithBradleyAdaptiveThreshold_out.bmp";
 
-// Načtěte obraz DICOM v instanci DicomImage
+// Načtení obrazu DICOM do instance DicomImage
 try (com.aspose.imaging.fileformats.dicom.DicomImage image = (com.aspose.imaging.fileformats.dicom.DicomImage) Image.load(inputFile))
 {
     // Binarizace obrazu s Bradleyho adaptivním prahem.
     image.binarizeBradley(10);
-    // Uložte výsledný obrázek.
+    // Výsledný obrázek uložte.
     image.save(outputFile, new com.aspose.imaging.imageoptions.BmpOptions());
 }
 ```
 
-## Krok 1: Definujte cesty
+## Krok 1: Definování cest
 
- Nejprve definujte cesty pro váš vstupní obraz DICOM a výstupní binarizovaný obraz. Nahradit`"Your Document Directory"` se skutečnou cestou k vašemu adresáři.
+Nejprve definujte cesty pro vstupní DICOM obrázek a výstupní binarizovaný obrázek. Nahraďte `"Your Document Directory"` se skutečnou cestou k vašemu adresáři.
 
 ```java
 String dataDir = "Your Document Directory" + "dicom/";
@@ -63,28 +65,28 @@ String inputFile = dataDir + "image.dcm";
 String outputFile = "Your Document Directory" + "BinarizationwithBradleyAdaptiveThreshold_out.bmp";
 ```
 
-## Krok 2: Načtěte obrázek DICOM
+## Krok 2: Načtení obrazu DICOM
 
-Pomocí Aspose.Imaging načtěte obraz DICOM určený pomocí`inputFile` . Tato operace vytvoří instanci souboru`DicomImage` třída.
+Použijte Aspose.Imaging k načtení obrazu DICOM určeného parametrem `inputFile`Tato operace vytvoří instanci třídy. `DicomImage` třída.
 
 ```java
 try (com.aspose.imaging.fileformats.dicom.DicomImage image = (com.aspose.imaging.fileformats.dicom.DicomImage) Image.load(inputFile))
 {
-    // Zde budou probíhat kroky zpracování obrazu.
+    // Zde budou uvedeny kroky zpracování obrazu.
 }
 ```
 
 ## Krok 3: Proveďte binarizaci
 
- Proveďte Bradleyho adaptivní prahovou binarizaci na načteném obrazu DICOM. V tomto příkladu prahová hodnota`10` je použito.
+Proveďte Bradleyho adaptivní binarizaci prahu na načteném snímku DICOM. V tomto příkladu je prahová hodnota `10` je aplikován.
 
 ```java
 image.binarizeBradley(10);
 ```
 
-## Krok 4: Uložte binární obrázek
+## Krok 4: Uložení binárního obrazu
 
-Uložte výsledný binarizovaný obrázek do zadaného výstupního souboru ve formátu BMP.
+Výsledný binární obraz uložte do zadaného výstupního souboru ve formátu BMP.
 
 ```java
 image.save(outputFile, new com.aspose.imaging.imageoptions.BmpOptions());
@@ -92,34 +94,36 @@ image.save(outputFile, new com.aspose.imaging.imageoptions.BmpOptions());
 
 ## Závěr
 
-Gratulujeme! Úspěšně jste se naučili, jak provádět binarizaci obrázků pomocí Aspose.Imaging for Java pomocí Bradley's Adaptive Threshold Binarization. Tento výkonný nástroj vám umožňuje vylepšit možnosti zpracování obrazu, což z něj činí cenný přínos v různých aplikacích.
+Gratulujeme! Úspěšně jste se naučili, jak provádět binarizaci obrázků pomocí Aspose.Imaging pro Javu s využitím Bradleyho adaptivní prahové binarizace. Tento výkonný nástroj vám umožňuje vylepšit vaše možnosti zpracování obrázků, což z něj činí cenný přínos v různých aplikacích.
 
- Nezapomeňte prozkoumat rozsáhlou dokumentaci Aspose.Imaging pro další možnosti zpracování obrazu:[Aspose.Imaging pro dokumentaci Java](https://reference.aspose.com/imaging/java/).
+Nezapomeňte si prohlédnout rozsáhlou dokumentaci k Aspose.Imaging, kde najdete další možnosti zpracování obrazu: [Dokumentace k Aspose.Imaging pro Javu](https://reference.aspose.com/imaging/java/).
 
-## FAQ
+## Často kladené otázky
 
-### Q1: Co je DICOM a proč je důležitý v lékařském zobrazování?
+### Otázka 1: Co je DICOM a proč je důležitý v lékařském zobrazování?
 
-A1: DICOM znamená Digital Imaging and Communications in Medicine a je to standardní formát pro lékařské snímky a související informace. Hraje klíčovou roli při ukládání, výměně a interpretaci lékařských snímků, a proto je životně důležitý pro zdravotnické pracovníky a lékařské zobrazovací systémy.
+A1: DICOM je zkratka pro Digital Imaging and Communications in Medicine (Digitální zobrazování a komunikace v medicíně) a jedná se o standardní formát pro lékařské snímky a související informace. Hraje klíčovou roli při ukládání, výměně a interpretaci lékařských snímků, což ho činí nezbytným pro zdravotnické pracovníky a lékařské zobrazovací systémy.
 
-### Q2: Mohu použít Aspose.Imaging pro Java ve svých komerčních projektech?
+### Q2: Mohu použít Aspose.Imaging pro Javu ve svých komerčních projektech?
 
- Odpověď 2: Ano, Aspose.Imaging for Java nabízí bezplatné zkušební verze i komerční licence. Můžete prozkoumat své možnosti a získat potřebné licence od[Web Aspose](https://purchase.aspose.com/buy).
+A2: Ano, Aspose.Imaging pro Javu nabízí jak bezplatné zkušební verze, tak i komerční licence. Můžete si prohlédnout své možnosti a získat potřebné licence od [Webové stránky společnosti Aspose](https://purchase.aspose.com/buy).
 
 ### Q3: Jsou k dispozici nějaké dočasné licence pro testovací účely?
 
- Odpověď 3: Ano, můžete získat dočasnou licenci pro testování a vyhodnocování Aspose.Imaging for Java. Návštěva[tento odkaz](https://purchase.aspose.com/temporary-license/) Pro více informací.
+A3: Ano, můžete získat dočasnou licenci pro testování a vyhodnocování Aspose.Imaging pro Javu. Navštivte [tento odkaz](https://purchase.aspose.com/temporary-license/) pro více informací.
 
-### Q4: Kde mohu hledat pomoc nebo diskutovat o problémech souvisejících s Aspose.Imaging for Java?
+### Q4: Kde mohu vyhledat pomoc nebo prodiskutovat problémy týkající se Aspose.Imaging pro Javu?
 
- A4: Pro podporu komunity a diskuse můžete navštívit[Fórum Aspose.Imaging](https://forum.aspose.com/). Je to skvělé místo, kde můžete najít odpovědi na své otázky a spojit se s ostatními uživateli.
+A4: Pro podporu komunity a diskuze můžete navštívit [Fórum Aspose.Imaging](https://forum.aspose.com/)Je to skvělé místo, kde najdete odpovědi na své otázky a můžete se spojit s ostatními uživateli.
 
-### Q5: Je Aspose.Imaging for Java vhodný pro zpracování obrazu v jiných aplikacích založených na Java?
+### Q5: Je Aspose.Imaging pro Javu vhodný pro zpracování obrazu v jiných aplikacích založených na Javě?
 
-Odpověď 5: Ano, Aspose.Imaging for Java je všestranný a lze jej použít v různých aplikacích založených na jazyce Java, včetně webových aplikací, softwaru pro stolní počítače a dalších.
+A5: Ano, Aspose.Imaging pro Javu je všestranný a lze jej použít v různých aplikacích založených na Javě, včetně webových aplikací, desktopového softwaru a dalších.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

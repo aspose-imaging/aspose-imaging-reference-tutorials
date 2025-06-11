@@ -1,29 +1,31 @@
 ---
-title: DICOM Image Gamma aanpassen met Aspose.Imaging voor .NET
-linktitle: Pas het gamma van DICOM-afbeelding aan in Aspose.Imaging voor .NET
-second_title: Aspose.Imaging .NET-API voor beeldverwerking
-description: Leer hoe u gamma in DICOM-afbeeldingen kunt aanpassen met Aspose.Imaging voor .NET. Verbeter de medische beeldkwaliteit met eenvoudige stappen.
-weight: 12
-url: /nl/net/dicom-image-processing/adjust-gamma-of-dicom-image/
+"description": "Leer hoe u gamma in DICOM-beelden kunt aanpassen met Aspose.Imaging voor .NET. Verbeter de kwaliteit van medische beelden met eenvoudige stappen."
+"linktitle": "Pas het gamma van een DICOM-afbeelding aan in Aspose.Imaging voor .NET"
+"second_title": "Aspose.Imaging .NET-beeldverwerkings-API"
+"title": "DICOM-beeldgamma aanpassen met Aspose.Imaging voor .NET"
+"url": "/nl/net/dicom-image-processing/adjust-gamma-of-dicom-image/"
+"weight": 12
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# DICOM Image Gamma aanpassen met Aspose.Imaging voor .NET
+# DICOM-beeldgamma aanpassen met Aspose.Imaging voor .NET
 
-Bij het werken met medische beelden zijn vaak nauwkeurige aanpassingen nodig om de kwaliteit en helderheid ervan te verbeteren. Aspose.Imaging voor .NET is een krachtige bibliotheek waarmee u verschillende beeldformaten kunt manipuleren, waaronder DICOM (Digital Imaging and Communications in Medicine). In deze stapsgewijze handleiding leiden we u door het proces van het aanpassen van het gamma van een DICOM-afbeelding met Aspose.Imaging voor .NET.
+Bij het werken met medische beelden zijn vaak nauwkeurige aanpassingen nodig om de kwaliteit en helderheid te verbeteren. Aspose.Imaging voor .NET is een krachtige bibliotheek waarmee u verschillende beeldformaten kunt bewerken, waaronder DICOM (Digital Imaging and Communications in Medicine). In deze stapsgewijze handleiding leiden we u door het proces van het aanpassen van de gamma van een DICOM-afbeelding met Aspose.Imaging voor .NET.
 
 ## Vereisten
 
-Voordat we ingaan op de tutorial, zorg ervoor dat je aan de volgende vereisten voldoet:
+Voordat we met de tutorial beginnen, moet u ervoor zorgen dat u aan de volgende vereisten voldoet:
 
-1.  Aspose.Imaging voor .NET: Aspose.Imaging voor .NET moet geïnstalleerd zijn. Als je dat nog niet hebt gedaan, dan kan dat[download het hier](https://releases.aspose.com/imaging/net/).
+1. Aspose.Imaging voor .NET: U moet Aspose.Imaging voor .NET geïnstalleerd hebben. Als u dit nog niet gedaan heeft, kunt u dit doen. [download het hier](https://releases.aspose.com/imaging/net/).
 
-2. Toegang tot DICOM-afbeelding: bereid de DICOM-afbeelding voor waarmee u wilt werken en zorg ervoor dat deze is opgeslagen op een locatie waartoe u toegang hebt.
+2. Toegang tot DICOM-afbeelding: bereid de DICOM-afbeelding voor waarmee u wilt werken en zorg ervoor dat deze is opgeslagen op een locatie die voor u toegankelijk is.
 
-3. Ontwikkelomgeving: U moet een .NET-ontwikkelomgeving hebben ingesteld, inclusief Visual Studio of een vergelijkbare code-editor.
+3. Ontwikkelomgeving: U dient over een .NET-ontwikkelomgeving te beschikken, inclusief Visual Studio of een vergelijkbare code-editor.
 
 ## Noodzakelijke naamruimten importeren
 
@@ -36,32 +38,32 @@ using Aspose.Imaging;
 using Aspose.Imaging.ImageOptions;
 ```
 
-Laten we nu het proces van het aanpassen van het gamma van een DICOM-afbeelding in meerdere stappen opsplitsen.
+Laten we het proces van het aanpassen van de gammawaarde van een DICOM-afbeelding opsplitsen in meerdere stappen.
 
 ## Stap 1: Laad de DICOM-afbeelding
 
-Om te beginnen laadt u de DICOM-afbeelding uit het opgegeven bestand. Zorg ervoor dat u het juiste bestandspad naar uw DICOM-image opgeeft.
+Om te beginnen laadt u de DICOM-image vanuit het opgegeven bestand. Zorg ervoor dat u het juiste bestandspad naar uw DICOM-image opgeeft.
 
 ```csharp
 string dataDir = "Your Document Directory";
 using (var fileStream = new FileStream(dataDir + "file.dcm", FileMode.Open, FileAccess.Read))
 using (DicomImage image = new DicomImage(fileStream))
 {
-    // Uw code komt hier terecht
+    // Hier komt uw code
 }
 ```
 
 ## Stap 2: Pas de gammawaarde aan
 
-Nu kunt u het gamma van het geladen DICOM-beeld aanpassen. In dit voorbeeld stellen we de gammawaarde in op 50, maar u kunt deze aanpassen aan uw specifieke wensen.
+U kunt nu de gammawaarde van de geladen DICOM-afbeelding aanpassen. In dit voorbeeld stellen we de gammawaarde in op 50, maar u kunt deze naar eigen wens aanpassen.
 
 ```csharp
 image.AdjustGamma(50);
 ```
 
-## Stap 3: Maak een exemplaar van BmpOptions
+## Stap 3: Een BmpOptions-instantie maken
 
- Om de aangepaste DICOM-afbeelding op te slaan als een bitmapbestand (BMP), maakt u een exemplaar van`BmpOptions`.
+Om de aangepaste DICOM-afbeelding als een bitmapbestand (BMP) op te slaan, maakt u een exemplaar van `BmpOptions`.
 
 ```csharp
 var bmpOptions = new BmpOptions();
@@ -69,7 +71,7 @@ var bmpOptions = new BmpOptions();
 
 ## Stap 4: Sla de resulterende afbeelding op
 
-Sla het resulterende beeld met het aangepaste gamma op als een BMP-bestand.
+Sla de resulterende afbeelding met de aangepaste gammawaarde op als een BMP-bestand.
 
 ```csharp
 image.Save(dataDir + "AdjustGammaDICOM_out.bmp", bmpOptions);
@@ -77,36 +79,38 @@ image.Save(dataDir + "AdjustGammaDICOM_out.bmp", bmpOptions);
 
 ## Conclusie
 
-In deze zelfstudie hebben we geleerd hoe u het gamma van een DICOM-afbeelding kunt aanpassen met Aspose.Imaging voor .NET. Deze bibliotheek maakt het eenvoudig om beeldverwerkingstaken uit te voeren op medische beelden, waardoor de hoogste kwaliteit en duidelijkheid voor medische professionals wordt gegarandeerd.
+In deze tutorial hebben we geleerd hoe je de gamma van een DICOM-afbeelding kunt aanpassen met Aspose.Imaging voor .NET. Deze bibliotheek maakt het eenvoudig om beeldverwerkingstaken uit te voeren op medische beelden, waardoor medische professionals de hoogste kwaliteit en helderheid krijgen.
 
 Door deze eenvoudige stappen te volgen, kunt u de visuele kwaliteit van DICOM-beelden verbeteren, waardoor ze informatiever en nuttiger worden voor medische diagnostiek.
 
- Voor meer informatie en geavanceerd gebruik van Aspose.Imaging voor .NET raadpleegt u de[documentatie](https://reference.aspose.com/imaging/net/).
+Voor meer informatie en geavanceerd gebruik van Aspose.Imaging voor .NET, raadpleeg de [documentatie](https://reference.aspose.com/imaging/net/).
 
 ## Veelgestelde vragen
 
-### Vraag 1: Wat is de gamma-aanpassing bij medische beeldvorming?
+### Vraag 1: Wat is gammacorrectie in medische beeldvorming?
 
-A1: Gamma-aanpassing is een techniek die wordt gebruikt om de helderheid en het contrast van medische beelden, zoals röntgenfoto's of MRI's, te manipuleren. Het verbetert de zichtbaarheid van het beeld en de diagnostische nauwkeurigheid.
+A1: Gammacorrectie is een techniek die gebruikt wordt om de helderheid en het contrast van medische beelden, zoals röntgenfoto's of MRI's, te manipuleren. Het verbetert de zichtbaarheid van de beelden en de diagnostische nauwkeurigheid.
 
-### V2: Kan ik het gamma van DICOM-afbeeldingen gratis aanpassen?
+### V2: Kan ik de gamma van DICOM-afbeeldingen gratis aanpassen?
 
-A2: Aspose.Imaging voor .NET biedt een gratis proefversie, waarmee u de functies ervan kunt evalueren. Voor productiegebruik kan echter een geldige licentie vereist zijn.
+A2: Aspose.Imaging voor .NET biedt een gratis proefversie waarmee u de functies kunt uitproberen. Voor productiegebruik is echter mogelijk een geldige licentie vereist.
 
 ### V3: Zijn er alternatieve bibliotheken voor DICOM-beeldverwerking in .NET?
 
-A3: Ja, er zijn andere bibliotheken zoals DicomObjects en LEADTOOLS die kunnen worden gebruikt voor DICOM-beeldmanipulatie.
+A3: Ja, er zijn andere bibliotheken, zoals DicomObjects en LEADTOOLS, die kunnen worden gebruikt voor DICOM-beeldmanipulatie.
 
 ### V4: Welke andere beeldverwerkingstaken kan ik uitvoeren met Aspose.Imaging voor .NET?
 
-A4: Aspose.Imaging voor .NET biedt een breed scala aan functies, waaronder het bijsnijden van afbeeldingen, het wijzigen van de grootte, rotatie en formaatconversie.
+A4: Aspose.Imaging voor .NET biedt een breed scala aan functies, waaronder het bijsnijden van afbeeldingen, het wijzigen van het formaat, het roteren en het converteren van opmaak.
 
 ### V5: Hoe kan ik technische ondersteuning krijgen voor Aspose.Imaging voor .NET?
 
- A5: Voor technische assistentie en gemeenschapsondersteuning kunt u terecht op de[Aspose.Imaging-forum](https://forum.aspose.com/).
+A5: Voor technische assistentie en community-ondersteuning kunt u terecht op de [Aspose.Imaging forum](https://forum.aspose.com/).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

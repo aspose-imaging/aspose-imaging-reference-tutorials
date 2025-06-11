@@ -1,32 +1,34 @@
 ---
-title: Aspose.Imaging for .NET'te SVG'de Raster Görüntü Nasıl Çizilir
-linktitle: Aspose.Imaging for .NET'te SVG üzerinde Raster Görüntü Çizin
-second_title: Aspose.Imaging .NET Görüntü İşleme API'si
-description: Aspose.Imaging for .NET'i kullanarak SVG'de raster görüntülerin nasıl çizileceğini öğrenin. .NET uygulamalarınızı dinamik görüntülerle geliştirin.
-weight: 11
-url: /tr/net/vector-image-processing/draw-raster-image-on-svg/
+"description": "Aspose.Imaging for .NET kullanarak SVG üzerine raster resimlerin nasıl çizileceğini öğrenin. .NET uygulamalarınızı dinamik resimlerle geliştirin."
+"linktitle": "Aspose.Imaging for .NET'te SVG'ye Raster Görüntüsü Çizme"
+"second_title": "Aspose.Imaging .NET Görüntü İşleme API'si"
+"title": "Aspose.Imaging for .NET'te SVG Üzerine Raster Görüntü Nasıl Çizilir"
+"url": "/tr/net/vector-image-processing/draw-raster-image-on-svg/"
+"weight": 11
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Aspose.Imaging for .NET'te SVG'de Raster Görüntü Nasıl Çizilir
+# Aspose.Imaging for .NET'te SVG Üzerine Raster Görüntü Nasıl Çizilir
 
 
-.NET programlama dünyasında Aspose.Imaging, görüntüyle ilgili çeşitli görevleri yerine getiren güvenilir ve çok yönlü bir kütüphane olarak duruyor. Sunduğu büyüleyici yeteneklerden biri, SVG tuval üzerine taramalı görüntü çizebilme yeteneğidir. Bu adım adım kılavuzda, Aspose.Imaging for .NET'i kullanarak SVG üzerinde raster görüntü çizme sürecinde size yol göstereceğiz.
+.NET programlama dünyasında, Aspose.Imaging çeşitli görüntüyle ilgili görevleri ele almak için güvenilir ve çok yönlü bir kütüphane olarak öne çıkıyor. Sunduğu büyüleyici yeteneklerden biri de bir SVG tuvali üzerine raster görüntü çizme yeteneğidir. Bu adım adım kılavuzda, .NET için Aspose.Imaging kullanarak bir SVG üzerine raster görüntü çizme sürecini adım adım anlatacağız.
 
-## Önkoşullar
+## Ön koşullar
 
-Ayrıntılara dalmadan önce aşağıdaki önkoşulların mevcut olduğundan emin olun:
+Ayrıntılara girmeden önce, aşağıdaki ön koşulların mevcut olduğundan emin olun:
 
--  Aspose.Imaging for .NET: Kütüphanenin kurulu olması gerekir. Değilse, adresinden indirebilirsiniz.[Aspose.Imaging for .NET indirme sayfası](https://releases.aspose.com/imaging/net/).
+- Aspose.Imaging for .NET: Kütüphaneyi yüklemiş olmanız gerekir. Değilse, şuradan indirebilirsiniz: [Aspose.Imaging for .NET indirme sayfası](https://releases.aspose.com/imaging/net/).
 
--  Belge Dizininiz: Değiştirin`"Your Document Directory"` çalışma dizininizin gerçek yolu ile.
+- Belge Dizininiz: Değiştir `"Your Document Directory"` çalışma dizininize giden gerçek yol ile.
 
-Şimdi süreci takip edilmesi kolay adımlara ayıralım:
+Şimdi süreci kolay takip edilebilir adımlara bölelim:
 
-## 1. Adım: Gerekli Ad Alanlarını İçe Aktarın
+## Adım 1: Gerekli Ad Alanlarını İçe Aktarın
 
 Aspose.Imaging ile çalışmak için gerekli ad alanlarını içe aktarmanız gerekir:
 
@@ -37,24 +39,24 @@ using Aspose.Imaging.FileFormats.Svg.Graphics;
 using System;
 ```
 
-## 2. Adım: Görüntüleri Yükleyin
+## Adım 2: Görüntüleri Yükleyin
 
-- Öncelikle çizmek istediğiniz tarama görüntüsünü SVG tuvaline yükleyin.
+- Öncelikle SVG tuvaline çizmek istediğiniz raster görüntüyü yükleyin.
 
 ```csharp
 string dataDir = "Your Document Directory";
 using (RasterImage imageToDraw = (RasterImage)Image.Load(dataDir + "asposenet_220_src01.png"))
 ```
 
-- Daha sonra, tarama görüntüsünü çizmek istediğiniz yere SVG tuval görüntüsünü yükleyin.
+- Daha sonra raster resmi çizmek istediğiniz SVG tuval resmini yükleyin.
 
 ```csharp
 using (SvgImage canvasImage = (SvgImage)Image.Load(dataDir + "asposenet_220_src02.svg"))
 ```
 
-## Adım 3: SVG Görüntüsünde Çizim Yapma
+## Adım 3: SVG Görüntüsüne Çizim
 
-Artık mevcut SVG görüntüsü üzerinde çizim yapmaya başlayabilirsiniz. Bunu yapmak için bir örneğini oluşturmanız gerekir.`SvgGraphics2D`:
+Şimdi, mevcut SVG resminin üzerine çizim yapmaya başlayabilirsiniz. Bunu yapmak için, bir örnek oluşturmanız gerekir `SvgGraphics2D`:
 
 ```csharp
 SvgGraphics2D graphics = new SvgGraphics2D(canvasImage);
@@ -62,7 +64,7 @@ SvgGraphics2D graphics = new SvgGraphics2D(canvasImage);
 
 ## Adım 4: Raster Görüntüyü Çizin
 
-- Raster görüntüyü çizmek istediğiniz yerin sınırlarını tanımlayın ve taramalı görüntüden kaynak bölgeyi belirtin.
+- Raster görüntüyü çizmek istediğiniz sınırları tanımlayın ve raster görüntüden kaynak bölgeyi belirtin.
 
 ```csharp
 graphics.DrawImage(
@@ -71,9 +73,9 @@ graphics.DrawImage(
     imageToDraw);
 ```
 
-## Adım 5: Sonucu Kaydet
+## Adım 5: Sonucu Kaydedin
 
-Tarama görüntüsünü SVG tuvaline çizdikten sonra ortaya çıkan görüntüyü kaydedebilirsiniz:
+Raster görüntüyü SVG tuvaline çizdikten sonra ortaya çıkan görüntüyü kaydedebilirsiniz:
 
 ```csharp
 using (SvgImage resultImage = graphics.EndRecording())
@@ -84,32 +86,34 @@ using (SvgImage resultImage = graphics.EndRecording())
 
 ## Çözüm
 
-Tebrikler! Aspose.Imaging for .NET'i kullanarak SVG tuval üzerine başarılı bir şekilde taramalı görüntü çizdiniz. Bu, .NET uygulamalarınızda zengin ve dinamik görüntüler oluşturmak için inanılmaz derecede yararlı olabilir.
+Tebrikler! Aspose.Imaging for .NET kullanarak bir SVG tuvaline başarılı bir şekilde raster resim çizdiniz. Bu, .NET uygulamalarınızda zengin ve dinamik resimler oluşturmak için inanılmaz derecede faydalı olabilir.
 
- Daha fazla bilgi ve ayrıntılı belgeler için şu adresi ziyaret edin:[Aspose.Imaging for .NET belgeleri](https://reference.aspose.com/imaging/net/).
+Daha fazla bilgi ve ayrıntılı belgeler için şu adresi ziyaret edin: [Aspose.Imaging for .NET belgeleri](https://reference.aspose.com/imaging/net/).
 
 ## Sıkça Sorulan Sorular
 
 ### Aspose.Imaging for .NET nedir?
-   Aspose.Imaging for .NET, geliştiricilerin .NET uygulamaları içinde çeşitli formatlardaki görüntüleri oluşturmasına, işlemesine ve dönüştürmesine olanak tanıyan güçlü bir görüntü işleme kitaplığıdır.
+   Aspose.Imaging for .NET, geliştiricilerin .NET uygulamaları içerisinde çeşitli formatlardaki görüntüleri oluşturmalarına, düzenlemelerine ve dönüştürmelerine olanak tanıyan güçlü bir görüntü işleme kütüphanesidir.
 
 ### Aspose.Imaging for .NET'i ticari projelerde kullanabilir miyim?
-    Evet, Aspose.Imaging for .NET'i hem ticari hem de ticari olmayan projelerde kullanabilirsiniz. Lisans ayrıntılarına şuradan ulaşılabilir:[satın alma sayfası](https://purchase.aspose.com/buy).
+   Evet, Aspose.Imaging for .NET'i hem ticari hem de ticari olmayan projelerde kullanabilirsiniz. Lisanslama ayrıntıları şu adreste bulunabilir: [satın alma sayfası](https://purchase.aspose.com/buy).
 
-### Ücretsiz deneme mevcut mu?
-    Evet, Aspose.Imaging for .NET'in ücretsiz deneme sürümünü şu adresten edinebilirsiniz:[Burada](https://releases.aspose.com/).
+### Ücretsiz deneme imkanı var mı?
+   Evet, Aspose.Imaging for .NET'in ücretsiz deneme sürümünü şu adresten edinebilirsiniz: [Burada](https://releases.aspose.com/).
 
 ### Nereden destek alabilirim veya soru sorabilirim?
-    Sorularınız varsa veya desteğe ihtiyacınız varsa şu adresi ziyaret edebilirsiniz:[Aspose.Görüntüleme forumu](https://forum.aspose.com/).
+   Herhangi bir sorunuz varsa veya desteğe ihtiyacınız varsa, şu adresi ziyaret edebilirsiniz: [Aspose.Görüntüleme forumu](https://forum.aspose.com/).
 
-### Aspose.Imaging for .NET için nasıl geçici lisans alabilirim?
-    adresinden geçici lisans alabilirsiniz.[Burada](https://purchase.aspose.com/temporary-license/).
+### Aspose.Imaging for .NET için geçici lisansı nasıl alabilirim?
+   Geçici lisansı şuradan alabilirsiniz: [Burada](https://purchase.aspose.com/temporary-license/).
+
 
 
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

@@ -1,32 +1,34 @@
 ---
-title: Regulacja gamma obrazu DICOM za pomocą Aspose.Imaging dla Java
-linktitle: Regulacja gamma obrazu DICOM
-second_title: Aspose.Imaging API przetwarzania obrazu Java
-description: Dowiedz się, jak dostosować gamma obrazów DICOM w Javie przy użyciu Aspose.Imaging for Java. Popraw jakość obrazu medycznego za pomocą prostych kroków.
-weight: 24
-url: /pl/java/image-processing-and-enhancement/dicom-image-gamma-adjustment/
+"description": "Dowiedz się, jak dostosować gamma obrazów DICOM w Javie przy użyciu Aspose.Imaging for Java. Popraw jakość obrazu medycznego za pomocą prostych kroków."
+"linktitle": "Regulacja gamma obrazu DICOM"
+"second_title": "Aspose.Imaging API przetwarzania obrazu Java"
+"title": "Regulacja gamma obrazu DICOM za pomocą Aspose.Imaging dla Java"
+"url": "/pl/java/image-processing-and-enhancement/dicom-image-gamma-adjustment/"
+"weight": 24
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Regulacja gamma obrazu DICOM za pomocą Aspose.Imaging dla Java
 
-Czy chcesz poprawić jakość obrazów DICOM w swoich aplikacjach Java? Aspose.Imaging dla Java to potężna i wszechstronna biblioteka, która umożliwia manipulowanie i przetwarzanie obrazów, w tym w formacie DICOM. W tym samouczku krok po kroku przeprowadzimy Cię przez proces dostosowywania gamma obrazu DICOM przy użyciu Aspose.Imaging for Java. 
+Czy chcesz poprawić jakość obrazów DICOM w swoich aplikacjach Java? Aspose.Imaging for Java to potężna i wszechstronna biblioteka, która umożliwia manipulowanie i przetwarzanie obrazów, w tym formatu DICOM. W tym samouczku krok po kroku przeprowadzimy Cię przez proces dostosowywania gamma obrazu DICOM przy użyciu Aspose.Imaging for Java. 
 
-## Warunki wstępne
+## Wymagania wstępne
 
 Zanim zaczniesz, upewnij się, że spełnione są następujące wymagania wstępne:
 
 ### 1. Środowisko programistyczne Java
-- Upewnij się, że w systemie jest zainstalowany zestaw Java Development Kit (JDK).
+- Upewnij się, że w systemie zainstalowany jest Java Development Kit (JDK).
 
-### 2. Aspose.Imaging dla biblioteki Java
--  Bibliotekę Aspose.Imaging for Java można uzyskać z witryny[link do pobrania](https://releases.aspose.com/imaging/java/).
+### 2. Biblioteka Aspose.Imaging dla Java
+- Bibliotekę Aspose.Imaging for Java można pobrać ze strony [link do pobrania](https://releases.aspose.com/imaging/java/).
 
 ### 3. Wprowadź obraz DICOM
-- Powinieneś mieć obraz DICOM, który chcesz przetworzyć. Jeśli go nie masz, możesz łatwo znaleźć przykładowe obrazy DICOM w Internecie lub użyć własnych.
+- Powinieneś mieć obraz DICOM, który chcesz przetworzyć. Jeśli go nie masz, możesz łatwo znaleźć przykładowe obrazy DICOM online lub użyć własnego.
 
 ## Importuj pakiety
 
@@ -41,11 +43,11 @@ import java.io.FileInputStream;
 import java.io.IOException;
 ```
 
-Podzielmy proces dostosowywania gamma obrazu DICOM na serię łatwych do wykonania kroków.
+Podzielmy proces dostosowywania współczynnika gamma obrazu DICOM na serię łatwych do wykonania kroków.
 
 ## Krok 1: Ustaw ścieżki plików
 
-Musisz określić ścieżki plików wejściowych i wyjściowych. Zastępować`"Your Document Directory"` z rzeczywistym katalogiem, w którym znajduje się obraz DICOM.
+Musisz określić ścieżki plików wejściowych i wyjściowych. Zamień `"Your Document Directory"` z faktycznym katalogiem, w którym znajduje się obraz DICOM.
 
 ```java
 String dataDir = "Your Document Directory" + "dicom/";
@@ -55,7 +57,7 @@ String outputFile = dataDir + "AdjustingGamma.bmp";
 
 ## Krok 2: Załaduj obraz DICOM
 
- Załaduj obraz DICOM przy użyciu programu Aspose.Imaging`DicomImage` klasa.
+Załaduj obraz DICOM za pomocą Aspose.Imaging `DicomImage` klasa.
 
 ```java
 File file = new File(inputFile);
@@ -65,62 +67,64 @@ try (FileInputStream fis = new FileInputStream(file)) {
     try (DicomImage image = (DicomImage) Image.load(fis)) {
 ```
 
-## Krok 3: Dostosuj gamma
+## Krok 3: Dostosuj Gammę
 
-Teraz dostosuj gamma obrazu DICOM, określając żądaną wartość gamma (np. 50).
+Teraz dostosuj współczynnik gamma obrazu DICOM, określając żądaną wartość współczynnika gamma (np. 50).
 
 ```java
-        // Dostosuj gammę
+        // Dostosuj gamma
         image.adjustGamma(50);
 ```
 
 ## Krok 4: Zapisz wynikowy obraz
 
- Utwórz instancję`BmpOptions` dla wynikowego obrazu i zapisz go.
+Utwórz instancję `BmpOptions` aby uzyskać obraz wynikowy i zapisać go.
 
 ```java
-        // Utwórz instancję BmpOptions dla wynikowego obrazu i zapisz wynikowy obraz
+        // Utwórz instancję BmpOptions dla obrazu wynikowego i zapisz obraz wynikowy
         image.save(outputFile, new BmpOptions());
     }
 } catch (IOException ex) {
-    // Obsługuj wszelkie potencjalne wyjątki
+    // Zajmij się wszelkimi potencjalnymi wyjątkami
     com.aspose.imaging.examples.Logger.println(ex.getMessage());
     ex.printStackTrace();
 }
 ```
 
-Otóż to! Pomyślnie dostosowałeś gamma obrazu DICOM przy użyciu Aspose.Imaging for Java.
+To wszystko! Udało Ci się dostosować gamma obrazu DICOM przy użyciu Aspose.Imaging dla Java.
 
 ## Wniosek
 
-Aspose.Imaging for Java zapewnia płynny i wydajny sposób przetwarzania obrazów DICOM w aplikacjach Java. Postępując zgodnie z tym przewodnikiem krok po kroku, można łatwo poprawić jakość obrazów DICOM, dostosowując współczynnik gamma. Dzięki intuicyjnemu interfejsowi API i obszernej dokumentacji Aspose.Imaging for Java jest cennym narzędziem do zadań związanych z manipulacją obrazami.
+Aspose.Imaging for Java zapewnia bezproblemowy i wydajny sposób przetwarzania obrazów DICOM w aplikacjach Java. Postępując zgodnie z tym przewodnikiem krok po kroku, możesz łatwo poprawić jakość obrazów DICOM, dostosowując gamma. Dzięki intuicyjnemu API i kompleksowej dokumentacji Aspose.Imaging for Java jest cennym narzędziem do zadań związanych z manipulacją obrazami.
 
- Jeśli masz jakieś pytania lub napotkasz problemy, nie wahaj się zwrócić o pomoc do[Społeczność Aspose.Imaging](https://forum.aspose.com/). Zapewniają doskonałe wsparcie i zasoby, które pomogą Ci w przetwarzaniu obrazu.
+Jeśli masz jakiekolwiek pytania lub napotkasz problemy, nie wahaj się szukać pomocy u [Społeczność Aspose.Imaging](https://forum.aspose.com/). Zapewniają doskonałe wsparcie i zasoby, które pomogą Ci w Twojej podróży związanej z przetwarzaniem obrazu.
 
-## Często zadawane pytania
+## Najczęściej zadawane pytania
 
-### P1: Co to jest obraz DICOM?
+### P1: Czym jest obraz DICOM?
 
 A1: DICOM (Digital Imaging and Communications in Medicine) to standardowy format używany w branży opieki zdrowotnej do przesyłania, przechowywania i wyświetlania obrazów medycznych. Zapewnia interoperacyjność i spójność w obrazowaniu medycznym.
 
 ### P2: Dlaczego regulacja gamma jest ważna w przypadku obrazów DICOM?
 
-Odpowiedź 2: Regulacja gamma ma kluczowe znaczenie dla poprawy jakości wizualnej obrazów DICOM. Pomaga zwiększyć kontrast i ogólny wygląd obrazów medycznych, ułatwiając ich interpretację i analizę.
+A2: Regulacja gamma jest kluczowa dla poprawy jakości wizualnej obrazów DICOM. Pomaga zwiększyć kontrast i ogólny wygląd obrazów medycznych, ułatwiając ich interpretację i analizę.
 
 ### P3: Czy mogę przetwarzać obrazy DICOM w innych językach programowania?
 
-O3: Tak, Aspose.Imaging udostępnia biblioteki dla różnych języków programowania, w tym .NET, Java i innych, dzięki czemu jest wszechstronny w przetwarzaniu obrazów na różnych platformach.
+A3: Tak, Aspose.Imaging udostępnia biblioteki dla różnych języków programowania, w tym .NET, Java i innych, co czyni je wszechstronnym narzędziem do przetwarzania obrazów na różnych platformach.
 
-### P4: Czy istnieją jakieś ograniczenia podczas pracy z obrazami DICOM?
+### P4: Czy istnieją jakieś ograniczenia w pracy z obrazami DICOM?
 
-O4: Niektóre obrazy DICOM mogą mieć złożone struktury i metadane. Aby skutecznie radzić sobie z takimi przypadkami, upewnij się, że dobrze rozumiesz standard DICOM i jego odmiany.
+A4: Niektóre obrazy DICOM mogą mieć złożone struktury i metadane. Upewnij się, że dobrze rozumiesz standard DICOM i jego odmiany, aby skutecznie radzić sobie z takimi przypadkami.
 
-### P5: Gdzie mogę znaleźć więcej samouczków i zasobów Aspose.Imaging?
+### P5: Gdzie mogę znaleźć więcej samouczków i materiałów dotyczących Aspose.Imaging?
 
- Odpowiedź 5: Możesz eksplorować[Dokumentacja Aspose.Imaging](https://reference.aspose.com/imaging/java/) aby uzyskać obszerne przewodniki, przykłady i odniesienia do API.
+A5: Możesz eksplorować [Dokumentacja Aspose.Imaging](https://reference.aspose.com/imaging/java/) aby uzyskać kompleksowe przewodniki, przykłady i informacje dotyczące interfejsu API.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

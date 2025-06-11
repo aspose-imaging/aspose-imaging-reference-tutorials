@@ -1,33 +1,35 @@
 ---
-title: Převést konkrétní část stránky DJVU v Aspose.Imaging pro .NET
-linktitle: Převést konkrétní část stránky DJVU v Aspose.Imaging pro .NET
-second_title: Aspose.Imaging .NET Image Processing API
-description: Naučte se převádět konkrétní části stránek DJVU pomocí Aspose.Imaging for .NET. Postupujte podle našeho podrobného průvodce.
-weight: 20
-url: /cs/net/image-format-conversion/convert-specific-portion-of-djvu-page/
+"description": "Naučte se, jak převést určité části stránek DJVU pomocí Aspose.Imaging pro .NET. Postupujte podle našeho podrobného návodu."
+"linktitle": "Převod určité části stránky DJVU v Aspose.Imaging pro .NET"
+"second_title": "Rozhraní API pro zpracování obrazu Aspose.Imaging .NET"
+"title": "Převod určité části stránky DJVU v Aspose.Imaging pro .NET"
+"url": "/cs/net/image-format-conversion/convert-specific-portion-of-djvu-page/"
+"weight": 20
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Převést konkrétní část stránky DJVU v Aspose.Imaging pro .NET
+# Převod určité části stránky DJVU v Aspose.Imaging pro .NET
 
-Pokud chcete manipulovat s obrázky DJVU ve svých aplikacích .NET, Aspose.Imaging for .NET poskytuje výkonnou sadu nástrojů, které vám pomohou dokončit práci. V tomto podrobném průvodci vám ukážeme, jak převést konkrétní část stránky DJVU do jiného formátu pomocí Aspose.Imaging for .NET.
+Pokud chcete ve svých .NET aplikacích manipulovat s obrázky DJVU, Aspose.Imaging for .NET nabízí výkonnou sadu nástrojů, které vám s tím pomohou. V tomto podrobném návodu vám ukážeme, jak pomocí Aspose.Imaging for .NET převést určitou část stránky DJVU do jiného formátu.
 
 ## Předpoklady
 
-Než se pustíme do výukového programu, musíte se ujistit, že máte splněny následující předpoklady:
+Než se pustíme do tutoriálu, je třeba se ujistit, že máte splněny následující předpoklady:
 
-1.  Aspose.Imaging for .NET: Ujistěte se, že máte ve svém projektu nainstalovanou knihovnu Aspose.Imaging. Můžete si jej stáhnout z[tady](https://releases.aspose.com/imaging/net/).
+1. Aspose.Imaging pro .NET: Ujistěte se, že máte ve svém projektu nainstalovanou knihovnu Aspose.Imaging. Můžete si ji stáhnout z [zde](https://releases.aspose.com/imaging/net/).
 
-2. Váš adresář dokumentů: Soubor DJVU, který chcete zpracovat, byste měli mít v adresáři projektu.
+2. Adresář s dokumenty: Soubor DJVU, který chcete zpracovat, byste měli mít v adresáři projektu.
 
-Nyní si tento proces rozdělíme do několika kroků, které vám pomohou dosáhnout tohoto úkolu:
+Nyní si rozdělme proces do několika kroků, které vám pomohou splnit tento úkol:
 
 ## Krok 1: Import jmenných prostorů
 
-Nejprve musíte importovat potřebné jmenné prostory pro práci s Aspose.Imaging pro .NET. Na začátek svého projektu .NET přidejte následující kód:
+Nejprve je třeba importovat potřebné jmenné prostory pro práci s Aspose.Imaging pro .NET. Na začátek vašeho .NET projektu přidejte následující kód:
 
 ```csharp
 using Aspose.Imaging;
@@ -35,34 +37,34 @@ using Aspose.Imaging.FileFormats.Djvu;
 using Aspose.Imaging.ImageOptions;
 ```
 
-## Krok 2: Převeďte konkrétní část stránky DJVU
+## Krok 2: Převod určité části stránky DJVU
 
-Nyní rozdělíme kód na menší kroky, abychom převedli konkrétní část stránky DJVU:
+Nyní si rozdělme kód na menší kroky pro převod konkrétní části stránky DJVU:
 
-### Krok 2.1: Načtěte obrázek DJVU
+### Krok 2.1: Načtení obrazu DJVU
 
-Chcete-li začít, načtěte obraz DJVU z adresáře dokumentů:
+Chcete-li začít, načtěte obraz DJVU z adresáře s dokumenty:
 
 ```csharp
 string dataDir = "Your Document Directory";
 using (DjvuImage image = (DjvuImage)Image.Load(dataDir + "Sample.djvu"))
 {
-    // Váš kód je zde
+    // Váš kód patří sem
 }
 ```
 
-### Krok 2.2: Nastavte možnosti exportu
+### Krok 2.2: Nastavení možností exportu
 
- Vytvořte instanci`PngOptions` a pro export nastavte typ barvy na stupně šedi:
+Vytvořte instanci `PngOptions` a nastavte typ barvy pro export na stupně šedi:
 
 ```csharp
 PngOptions exportOptions = new PngOptions();
 exportOptions.ColorType = PngColorType.Grayscale;
 ```
 
-### Krok 2.3: Definujte oblast exportu
+### Krok 2.3: Definování oblasti exportu
 
- Vytvořte instanci`Rectangle` a zadejte část na stránce DJVU, kterou chcete převést. Chcete-li například převést oblast z (0,0) na (500 500) pixelů:
+Vytvořte instanci `Rectangle` zadejte část stránky DJVU, kterou chcete převést. Například pro převod oblasti z (0,0) na (500 500) pixelů:
 
 ```csharp
 Rectangle exportArea = new Rectangle(0, 0, 500, 500);
@@ -70,23 +72,23 @@ Rectangle exportArea = new Rectangle(0, 0, 500, 500);
 
 ### Krok 2.4: Zadejte index stránky DJVU
 
-Zadejte index stránky DJVU, který chcete exportovat. Chcete-li například exportovat druhou stránku (index 2):
+Zadejte index stránky DJVU, kterou chcete exportovat. Například pro export druhé stránky (index 2):
 
 ```csharp
 int exportPageIndex = 2;
 ```
 
-### Krok 2.5: Inicializujte možnosti více stránek
+### Krok 2.5: Inicializace možností více stránek
 
- Inicializujte instanci`DjvuMultiPageOptions`při předávání indexu stránky DJVU a obdélníku pokrývajícího oblast, která má být exportována:
+Inicializovat instanci `DjvuMultiPageOptions` při předávání indexu stránky DJVU a obdélníku pokrývajícího oblast k exportu:
 
 ```csharp
 exportOptions.MultiPageOptions = new DjvuMultiPageOptions(exportPageIndex, exportArea);
 ```
 
-### Krok 2.6: Uložte převedený obrázek
+### Krok 2.6: Uložení převedeného obrázku
 
-Uložte převedený obrázek do požadovaného formátu, jako je DJVU, PNG nebo jakýkoli jiný podporovaný formát:
+Uložte převedený obrázek do požadovaného formátu, například DJVU, PNG nebo jiného podporovaného formátu:
 
 ```csharp
 image.Save(dataDir + "ConvertSpecificPortionOfDjVuPage_out.djvu", exportOptions);
@@ -94,32 +96,34 @@ image.Save(dataDir + "ConvertSpecificPortionOfDjVuPage_out.djvu", exportOptions)
 
 ## Závěr
 
-V tomto podrobném průvodci jsme vám ukázali, jak používat Aspose.Imaging pro .NET ke konverzi konkrétní části stránky DJVU. Se správnými předpoklady a těmito jasnými pokyny můžete efektivně zpracovávat obrázky DJVU ve svých aplikacích .NET.
+V tomto podrobném návodu jsme vám ukázali, jak pomocí nástroje Aspose.Imaging for .NET převést konkrétní část stránky DJVU. Se správnými předpoklady a těmito jasnými pokyny můžete efektivně zpracovávat obrazy DJVU ve vašich aplikacích .NET.
 
-## FAQ
+## Často kladené otázky
 
-### Q1: Co je Aspose.Imaging pro .NET?
+### Otázka 1: Co je Aspose.Imaging pro .NET?
 
-A1: Aspose.Imaging for .NET je výkonná knihovna, která umožňuje vývojářům pracovat s různými formáty obrázků v jejich aplikacích .NET. Poskytuje funkce pro konverzi obrázků, manipulaci a úpravy.
+A1: Aspose.Imaging pro .NET je výkonná knihovna, která umožňuje vývojářům pracovat s různými obrazovými formáty v jejich .NET aplikacích. Poskytuje funkce pro konverzi, manipulaci a úpravu obrázků.
 
-### Q2: Kde najdu dokumentaci pro Aspose.Imaging pro .NET?
+### Q2: Kde najdu dokumentaci k Aspose.Imaging pro .NET?
 
- A2: Můžete najít dokumentaci pro Aspose.Imaging pro .NET[tady](https://reference.aspose.com/imaging/net/).
+A2: Dokumentaci k Aspose.Imaging pro .NET naleznete zde. [zde](https://reference.aspose.com/imaging/net/).
 
-### Q3: Mohu vyzkoušet Aspose.Imaging pro .NET zdarma?
+### Q3: Mohu si Aspose.Imaging pro .NET vyzkoušet zdarma?
 
- A3: Ano, můžete získat bezplatnou zkušební verzi Aspose.Imaging pro .NET od[tady](https://releases.aspose.com/).
+A3: Ano, můžete získat bezplatnou zkušební verzi Aspose.Imaging pro .NET od [zde](https://releases.aspose.com/).
 
 ### Q4: Jak mohu získat dočasnou licenci pro Aspose.Imaging pro .NET?
 
- A4: Chcete-li získat dočasnou licenci, navštivte[tento odkaz](https://purchase.aspose.com/temporary-license/).
+A4: Chcete-li získat dočasnou licenci, navštivte [tento odkaz](https://purchase.aspose.com/temporary-license/).
 
-### Q5: Kde mohu získat podporu nebo klást otázky týkající se Aspose.Imaging pro .NET?
+### Q5: Kde mohu získat podporu nebo se zeptat na otázky týkající se Aspose.Imaging pro .NET?
 
- A5: Můžete získat podporu a klást otázky v[Fórum Aspose.Imaging](https://forum.aspose.com/).
+A5: Můžete získat podporu a klást otázky v [Fórum Aspose.Imaging](https://forum.aspose.com/).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

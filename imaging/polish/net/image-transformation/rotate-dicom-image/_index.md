@@ -1,52 +1,54 @@
 ---
-title: Obracaj obrazy DICOM za pomocą Aspose.Imaging dla .NET
-linktitle: Obróć obraz DICOM w Aspose.Imaging dla .NET
-second_title: Aspose.Imaging .NET API przetwarzania obrazu
-description: Poznaj rotację obrazów DICOM za pomocą Aspose.Imaging dla .NET. Przewodnik krok po kroku dotyczący manipulowania obrazami medycznymi.
-weight: 11
-url: /pl/net/image-transformation/rotate-dicom-image/
+"description": "Poznaj obrót obrazu DICOM z Aspose.Imaging dla .NET. Przewodnik krok po kroku dotyczący manipulowania obrazami medycznymi."
+"linktitle": "Obróć obraz DICOM w Aspose.Imaging dla .NET"
+"second_title": "Aspose.Imaging .NET Interfejs API przetwarzania obrazu"
+"title": "Obróć obrazy DICOM za pomocą Aspose.Imaging dla .NET"
+"url": "/pl/net/image-transformation/rotate-dicom-image/"
+"weight": 11
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Obracaj obrazy DICOM za pomocą Aspose.Imaging dla .NET
+# Obróć obrazy DICOM za pomocą Aspose.Imaging dla .NET
 
 ## Wstęp
 
-dzisiejszej erze cyfrowej przetwarzanie obrazu stało się integralną częścią różnych branż, od opieki zdrowotnej po projektowanie i nie tylko. Jeśli jesteś programistą .NET i chcesz manipulować i ulepszać obrazy medyczne, Aspose.Imaging dla .NET jest potężnym narzędziem do Twojej dyspozycji. W tym obszernym przewodniku przeprowadzimy Cię przez proces obracania obrazu DICOM przy użyciu Aspose.Imaging dla .NET.
+W dzisiejszej erze cyfrowej przetwarzanie obrazu stało się integralną częścią różnych branż, od opieki zdrowotnej po projektowanie i nie tylko. Jeśli jesteś programistą .NET, który chce manipulować i ulepszać obrazy medyczne, Aspose.Imaging for .NET to potężne narzędzie do Twojej dyspozycji. W tym kompleksowym przewodniku przeprowadzimy Cię przez proces obracania obrazu DICOM przy użyciu Aspose.Imaging for .NET.
 
-Niezależnie od tego, czy jesteś doświadczonym programistą, czy dopiero zaczynasz swoją podróż do świata przetwarzania obrazów, ten samouczek zapewni Ci jasne instrukcje krok po kroku, które pozwolą Ci pomyślnie obracać obrazy DICOM i integrować tę funkcjonalność z aplikacjami .NET . Zanurkujmy od razu!
+Niezależnie od tego, czy jesteś doświadczonym programistą, czy dopiero zaczynasz swoją podróż do świata przetwarzania obrazu, ten samouczek zapewni Ci jasne instrukcje krok po kroku, aby upewnić się, że możesz pomyślnie obracać obrazy DICOM i integrować tę funkcjonalność z aplikacjami .NET. Zanurzmy się!
 
-## Warunki wstępne
+## Wymagania wstępne
 
-Zanim zagłębimy się w ekscytujący świat obracania obrazów DICOM przy użyciu Aspose.Imaging dla .NET, konieczne jest spełnienie następujących warunków wstępnych:
+Zanim zagłębimy się w fascynujący świat obracania obrazów DICOM za pomocą Aspose.Imaging dla .NET, konieczne jest spełnienie następujących wymagań wstępnych:
 
 1. Konfiguracja środowiska: Upewnij się, że masz działające środowisko programistyczne z zainstalowanym programem Visual Studio i .NET Framework.
 
-2. Biblioteka Aspose.Imaging dla .NET: Pobierz i zainstaluj Aspose.Imaging dla .NET z[link do pobrania](https://releases.aspose.com/imaging/net/).
+2. Biblioteka Aspose.Imaging dla .NET: Pobierz i zainstaluj Aspose.Imaging dla .NET z [link do pobrania](https://releases.aspose.com/imaging/net/).
 
-3. Obraz DICOM: Do pracy potrzebny będzie plik obrazu DICOM. Jeśli go nie masz, możesz znaleźć przykładowe obrazy DICOM w Internecie lub skorzystać z własnych.
+3. Obraz DICOM: Będziesz potrzebować pliku obrazu DICOM, aby z nim pracować. Jeśli go nie masz, możesz znaleźć przykładowe obrazy DICOM online lub użyć własnego.
 
-4. Podstawowa znajomość języka C#: Aby skorzystać z tego samouczka, wymagana jest podstawowa znajomość języka C#.
+4. Podstawowa znajomość języka C#: Aby móc korzystać z tego samouczka, wymagana jest podstawowa znajomość języka C#.
 
-Teraz, gdy omówiliśmy wymagania wstępne, przejdźmy do importowania niezbędnych przestrzeni nazw, aby rozpocząć rotację obrazu DICOM.
+Teraz, gdy omówiliśmy już wymagania wstępne, możemy zaimportować niezbędne przestrzenie nazw, aby rozpocząć obracanie obrazów DICOM.
 
 ## Importuj przestrzenie nazw
 
-Najpierw musimy zaimportować odpowiednie przestrzenie nazw, aby uzyskać dostęp do biblioteki Aspose.Imaging for .NET i pracować z obrazami DICOM. Oto jak możesz to zrobić:
+Najpierw musimy zaimportować odpowiednie przestrzenie nazw, aby uzyskać dostęp do biblioteki Aspose.Imaging for .NET i pracować z obrazami DICOM. Oto, jak to zrobić:
 
 ```csharp
 using Aspose.Imaging;
 using Aspose.Imaging.FileFormats.Dicom;
 ```
 
-Podzielmy teraz przykład na wiele kroków w formie przewodnika krok po kroku, aby ułatwić zarządzanie procesem obracania obrazu DICOM.
+Teraz podzielimy przykład na kilka kroków w formie przewodnika krok po kroku, aby uczynić proces obracania obrazu DICOM bardziej przystępnym.
 
 ## Krok 1: Załaduj obraz DICOM
 
-Rozpocznij od załadowania obrazu DICOM, który chcesz obrócić. Zwykle osiąga się to poprzez odczytanie obrazu z pliku. W tym przykładzie używamy strumienia plików:
+Zacznij od załadowania obrazu DICOM, który chcesz obrócić. Zazwyczaj odbywa się to poprzez odczytanie obrazu z pliku. W tym przykładzie używamy strumienia pliku:
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -54,14 +56,14 @@ using (var fileStream = new FileStream(dataDir + "file.dcm", FileMode.Open, File
 {
     using (DicomImage image = new DicomImage(fileStream))
     {
-        // Twój kod trafia tutaj
+        // Twój kod wpisz tutaj
     }
 }
 ```
 
 ## Krok 2: Obróć obraz DICOM
 
-Teraz następuje ekscytująca część – obracanie obrazu DICOM. W tym przykładzie obracamy obraz o 10 stopni, ale możesz dostosować kąt do swoich konkretnych wymagań:
+Teraz nadchodzi ekscytująca część – obrót obrazu DICOM. W tym przykładzie obracamy obraz o 10 stopni, ale możesz dostosować kąt do swoich konkretnych wymagań:
 
 ```csharp
 image.Rotate(10);
@@ -69,7 +71,7 @@ image.Rotate(10);
 
 ## Krok 3: Zapisz obrócony obraz
 
-Po zakończeniu obrotu należy koniecznie zapisać obrócony obraz DICOM. Zapiszemy go jako plik BMP:
+Po zakończeniu obrotu konieczne jest zapisanie obróconego obrazu DICOM. Zapiszemy go jako plik BMP:
 
 ```csharp
 image.Save(dataDir + "RotatingDICOMImage_out.bmp", new BmpOptions());
@@ -77,32 +79,34 @@ image.Save(dataDir + "RotatingDICOMImage_out.bmp", new BmpOptions());
 
 ## Wniosek
 
-Gratulacje! Pomyślnie obróciłeś obraz DICOM przy użyciu Aspose.Imaging dla .NET. Ta potężna biblioteka umożliwia łatwe manipulowanie obrazami medycznymi, otwierając możliwości różnych zastosowań w opiece zdrowotnej i poza nią. Dzięki krokom opisanym w tym przewodniku możesz teraz bezproblemowo zintegrować rotację obrazów z projektami .NET.
+Gratulacje! Udało Ci się obrócić obraz DICOM przy użyciu Aspose.Imaging dla .NET. Ta potężna biblioteka umożliwia łatwą manipulację obrazami medycznymi, otwierając możliwości dla różnych zastosowań w opiece zdrowotnej i nie tylko. Dzięki krokom podanym w tym przewodniku możesz teraz bezproblemowo zintegrować obrót obrazu ze swoimi projektami .NET.
 
-## Często zadawane pytania
+## Najczęściej zadawane pytania
 
-### P1: Co to jest DICOM i dlaczego jest ważny w medycynie?
+### P1: Czym jest standard DICOM i dlaczego jest ważny w medycynie?
 
-A1: DICOM oznacza cyfrowe obrazowanie i komunikację w medycynie. Jest to standard przechowywania i przesyłania obrazów medycznych, co sprawia, że ma kluczowe znaczenie dla efektywnego udostępniania i dostępu do danych medycznych.
+A1: DICOM oznacza Digital Imaging and Communications in Medicine. Jest to standard przechowywania i przesyłania obrazów medycznych, co czyni go kluczowym dla wydajnego udostępniania i uzyskiwania dostępu do danych medycznych.
 
-### P2: Czy Aspose.Imaging dla .NET może obsługiwać inne zadania związane z manipulacją obrazami?
+### P2: Czy Aspose.Imaging dla .NET poradzi sobie z innymi zadaniami związanymi z manipulacją obrazami?
 
-Odpowiedź 2: Tak, Aspose.Imaging dla .NET oferuje szeroką gamę funkcji do przetwarzania obrazu, w tym konwersję, zmianę rozmiaru i inne.
+A2: Tak, Aspose.Imaging dla .NET oferuje szeroką gamę funkcji do przetwarzania obrazów, w tym konwersję, zmianę rozmiaru i wiele innych.
 
-### P3: Gdzie mogę znaleźć dodatkową dokumentację i wsparcie dla Aspose.Imaging dla .NET?
+### P3: Gdzie mogę znaleźć dodatkową dokumentację i pomoc dotyczącą Aspose.Imaging dla platformy .NET?
 
- Odpowiedź 3: Dostęp do dokumentacji można uzyskać pod adresem[Aspose.Imaging dla dokumentacji .NET](https://reference.aspose.com/imaging/net/) i poszukaj pomocy na[Forum Aspose.Imaging](https://forum.aspose.com/).
+A3: Dostęp do dokumentacji można uzyskać pod adresem [Dokumentacja Aspose.Imaging dla .NET](https://reference.aspose.com/imaging/net/) i poszukaj pomocy w [Forum Aspose.Imaging](https://forum.aspose.com/).
 
-### P4: Czy Aspose.Imaging dla .NET jest odpowiedni zarówno dla początkujących, jak i doświadczonych programistów?
+### P4: Czy Aspose.Imaging dla platformy .NET nadaje się zarówno dla początkujących, jak i doświadczonych programistów?
 
-A4: Absolutnie! Aspose.Imaging dla .NET jest przeznaczony dla programistów na wszystkich poziomach umiejętności, zapewniając łatwe w użyciu funkcje i zaawansowane funkcjonalności.
+A4: Oczywiście! Aspose.Imaging for .NET jest przeznaczony dla programistów o każdym poziomie umiejętności, oferując łatwe w użyciu funkcje i zaawansowane funkcjonalności.
 
-### P5: Czy istnieją opcje licencjonowania Aspose.Imaging dla .NET?
+### P5: Czy istnieją opcje licencjonowania dla Aspose.Imaging dla platformy .NET?
 
- Odpowiedź 5: Tak, możesz zapoznać się z opcjami licencjonowania, w tym bezpłatną wersją próbną i zakupem, na stronie[Strona zakupu Aspose.Imaging](https://purchase.aspose.com/buy) I[licencje tymczasowe](https://purchase.aspose.com/temporary-license/).
+A5: Tak, możesz rozważyć opcje licencjonowania, w tym bezpłatny okres próbny i zakup, na stronie [Strona zakupu Aspose.Imaging](https://purchase.aspose.com/buy) I [licencje tymczasowe](https://purchase.aspose.com/temporary-license/).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

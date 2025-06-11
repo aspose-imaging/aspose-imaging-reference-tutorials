@@ -1,52 +1,54 @@
 ---
-title: Otočte obrázky DICOM pomocí Aspose.Imaging pro .NET
-linktitle: Otočte obrázek DICOM v Aspose.Imaging pro .NET
-second_title: Aspose.Imaging .NET Image Processing API
-description: Prozkoumejte rotaci obrazu DICOM s Aspose.Imaging pro .NET. Podrobný průvodce manipulací s lékařskými snímky.
-weight: 11
-url: /cs/net/image-transformation/rotate-dicom-image/
+"description": "Prozkoumejte rotaci snímků DICOM s Aspose.Imaging pro .NET. Podrobný návod pro manipulaci s lékařskými snímky."
+"linktitle": "Otočení obrazu DICOM v Aspose.Imaging pro .NET"
+"second_title": "Rozhraní API pro zpracování obrazu Aspose.Imaging .NET"
+"title": "Otáčení obrázků DICOM pomocí Aspose.Imaging pro .NET"
+"url": "/cs/net/image-transformation/rotate-dicom-image/"
+"weight": 11
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Otočte obrázky DICOM pomocí Aspose.Imaging pro .NET
+# Otáčení obrázků DICOM pomocí Aspose.Imaging pro .NET
 
-## Úvod
+## Zavedení
 
-dnešní digitální době se zpracování obrazu stalo nedílnou součástí různých průmyslových odvětví, od zdravotnictví po design a nejenom. Pokud jste vývojář .NET, který chce manipulovat a vylepšovat lékařské snímky, Aspose.Imaging for .NET je výkonný nástroj, který máte k dispozici. V tomto komplexním průvodci vás provedeme procesem otáčení obrazu DICOM pomocí Aspose.Imaging for .NET.
+V dnešní digitální době se zpracování obrazu stalo nedílnou součástí různých odvětví, od zdravotnictví až po design a další. Pokud jste vývojář v .NET a chcete manipulovat s lékařskými snímky a vylepšovat je, Aspose.Imaging for .NET je pro vás výkonný nástroj. V této komplexní příručce vás provedeme procesem otáčení snímku DICOM pomocí Aspose.Imaging for .NET.
 
-Ať už jste zkušený vývojář nebo teprve začínáte svou cestu do světa zpracování obrázků, tento tutoriál vám poskytne jasné pokyny krok za krokem, které zajistí, že budete moci úspěšně otáčet obrázky DICOM a integrovat tuto funkci do vašich aplikací .NET. . Pojďme se rovnou ponořit!
+Ať už jste zkušený vývojář, nebo teprve začínáte svou cestu do světa zpracování obrazu, tento tutoriál vám poskytne jasné a podrobné pokyny, které vám pomohou úspěšně otáčet snímky DICOM a integrovat tuto funkci do vašich .NET aplikací. Pojďme se do toho pustit!
 
 ## Předpoklady
 
-Než se ponoříme do vzrušujícího světa rotujících obrazů DICOM pomocí Aspose.Imaging for .NET, je nezbytné mít splněny následující předpoklady:
+Než se ponoříme do vzrušujícího světa rotace DICOM obrazů pomocí Aspose.Imaging pro .NET, je nezbytné splnit následující předpoklady:
 
-1. Nastavení prostředí: Ujistěte se, že máte funkční vývojové prostředí s nainstalovaným Visual Studio a .NET Framework.
+1. Nastavení prostředí: Ujistěte se, že máte funkční vývojové prostředí s nainstalovaným Visual Studiem a .NET Frameworkem.
 
-2. Aspose.Imaging for .NET Library: Stáhněte a nainstalujte Aspose.Imaging for .NET z[odkaz ke stažení](https://releases.aspose.com/imaging/net/).
+2. Knihovna Aspose.Imaging pro .NET: Stáhněte a nainstalujte Aspose.Imaging pro .NET z [odkaz ke stažení](https://releases.aspose.com/imaging/net/).
 
-3. Obrázek DICOM: Budete potřebovat soubor obrázku DICOM, se kterým budete pracovat. Pokud žádný nemáte, můžete najít ukázkové obrázky DICOM online nebo použít vlastní.
+3. Obrázek DICOM: Budete potřebovat soubor s obrázkem DICOM. Pokud ho nemáte, můžete si ukázkové obrázky DICOM najít online nebo použít svůj vlastní.
 
-4. Základní znalosti C#: Pro absolvování tohoto tutoriálu je vyžadována základní znalost C#.
+4. Základní znalost jazyka C#: Pro zvládnutí tohoto tutoriálu je vyžadována základní znalost jazyka C#.
 
-Nyní, když jsme pokryli předpoklady, pojďme pokračovat v importu potřebných jmenných prostorů, abychom mohli začít s rotací obrazu DICOM.
+Nyní, když jsme si probrali předpoklady, pojďme importovat potřebné jmenné prostory, abychom mohli začít s rotací obrázků DICOM.
 
 ## Importovat jmenné prostory
 
-Nejprve musíme naimportovat příslušné jmenné prostory pro přístup ke knihovně Aspose.Imaging for .NET a práci s obrazy DICOM. Můžete to udělat takto:
+Nejprve musíme importovat příslušné jmenné prostory pro přístup ke knihovně Aspose.Imaging pro .NET a práci s obrázky DICOM. Zde je návod, jak to udělat:
 
 ```csharp
 using Aspose.Imaging;
 using Aspose.Imaging.FileFormats.Dicom;
 ```
 
-Nyní si tento příklad rozdělíme do několika kroků ve formátu průvodce krok za krokem, aby byl proces otáčení obrazu DICOM lépe zvládnutelný.
+Nyní si tento příklad rozdělme do několika kroků v podobě podrobného návodu, aby byl proces otáčení obrazu DICOM lépe zvládnutelný.
 
-## Krok 1: Načtěte obrázek DICOM
+## Krok 1: Načtení obrazu DICOM
 
-Začněte načtením obrázku DICOM, který chcete otočit. Toho se obvykle dosáhne čtením obrázku ze souboru. V tomto příkladu používáme datový proud souboru:
+Začněte načtením obrazu DICOM, který chcete otočit. Toho se obvykle dosáhne načtením obrazu ze souboru. V tomto příkladu používáme souborový stream:
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -54,22 +56,22 @@ using (var fileStream = new FileStream(dataDir + "file.dcm", FileMode.Open, File
 {
     using (DicomImage image = new DicomImage(fileStream))
     {
-        // Váš kód je zde
+        // Váš kód patří sem
     }
 }
 ```
 
-## Krok 2: Otočte obraz DICOM
+## Krok 2: Otočení obrazu DICOM
 
-Nyní přichází ta vzrušující část – otáčení obrazu DICOM. V tomto příkladu otočíme obrázek o 10 stupňů, ale úhel můžete upravit podle svých konkrétních požadavků:
+A teď přichází ta vzrušující část – otáčení obrazu DICOM. V tomto příkladu otáčíme obraz o 10 stupňů, ale úhel si můžete upravit podle svých specifických požadavků:
 
 ```csharp
 image.Rotate(10);
 ```
 
-## Krok 3: Uložte otočený obrázek
+## Krok 3: Uložení otočeného obrázku
 
-Po dokončení rotace je nezbytné uložit otočený snímek DICOM. Uložíme to jako soubor BMP:
+Po dokončení rotace je nezbytné uložit otočený snímek DICOM. Uložíme jej jako soubor BMP:
 
 ```csharp
 image.Save(dataDir + "RotatingDICOMImage_out.bmp", new BmpOptions());
@@ -77,32 +79,34 @@ image.Save(dataDir + "RotatingDICOMImage_out.bmp", new BmpOptions());
 
 ## Závěr
 
-Gratulujeme! Úspěšně jste otočili obraz DICOM pomocí Aspose.Imaging for .NET. Tato výkonná knihovna vám umožňuje snadno manipulovat s lékařskými snímky a otevírá možnosti pro různé aplikace ve zdravotnictví i mimo něj. Pomocí kroků uvedených v této příručce můžete nyní bezproblémově integrovat rotaci obrazu do svých projektů .NET.
+Gratulujeme! Úspěšně jste otočili obrázek DICOM pomocí knihovny Aspose.Imaging pro .NET. Tato výkonná knihovna vám umožňuje snadno manipulovat s lékařskými snímky a otevírá tak možnosti pro různé aplikace ve zdravotnictví i mimo něj. Pomocí kroků uvedených v této příručce nyní můžete bez problémů integrovat rotaci snímků do svých projektů .NET.
 
-## FAQ
+## Často kladené otázky
 
-### Q1: Co je DICOM a proč je důležitý v lékařské oblasti?
+### Otázka 1: Co je DICOM a proč je důležitý v lékařství?
 
-A1: DICOM znamená Digital Imaging and Communications in Medicine. Jedná se o standard pro ukládání a přenos lékařských snímků, takže je zásadní pro efektivní sdílení a přístup k lékařským datům.
+A1: DICOM je zkratka pro Digital Imaging and Communications in Medicine (Digitální zobrazování a komunikace v medicíně). Jedná se o standard pro ukládání a přenos lékařských snímků, takže je klíčový pro efektivní sdílení a přístup k lékařským datům.
 
-### Otázka 2: Dokáže Aspose.Imaging for .NET zvládnout další úlohy manipulace s obrázky?
+### Q2: Může Aspose.Imaging pro .NET zvládat i jiné úlohy manipulace s obrázky?
 
-Odpověď 2: Ano, Aspose.Imaging for .NET nabízí širokou škálu funkcí pro zpracování obrázků, včetně převodu, změny velikosti a dalších.
+A2: Ano, Aspose.Imaging pro .NET nabízí širokou škálu funkcí pro zpracování obrázků, včetně konverze, změny velikosti a dalších.
 
 ### Q3: Kde najdu další dokumentaci a podporu pro Aspose.Imaging pro .NET?
 
- A3: K dokumentaci se dostanete na adrese[Dokumentace Aspose.Imaging pro .NET](https://reference.aspose.com/imaging/net/) a hledat pomoc na[Fórum Aspose.Imaging](https://forum.aspose.com/).
+A3: Dokumentaci naleznete na adrese [Dokumentace k Aspose.Imaging pro .NET](https://reference.aspose.com/imaging/net/) a vyhledejte pomoc na [Fórum Aspose.Imaging](https://forum.aspose.com/).
 
-### Q4: Je Aspose.Imaging for .NET vhodný pro začátečníky i zkušené vývojáře?
+### Q4: Je Aspose.Imaging pro .NET vhodný pro začátečníky i zkušené vývojáře?
 
-A4: Rozhodně! Aspose.Imaging for .NET vychází vstříc vývojářům všech úrovní dovedností a poskytuje snadno použitelné funkce a pokročilé funkce.
+A4: Rozhodně! Aspose.Imaging pro .NET je určen pro vývojáře všech úrovní dovedností a nabízí snadno použitelné funkce a pokročilé funkce.
 
 ### Q5: Existují možnosti licencování pro Aspose.Imaging pro .NET?
 
- A5: Ano, můžete prozkoumat možnosti licencování, včetně bezplatného zkušebního období a nákupu, na[Nákupní stránka Aspose.Imaging](https://purchase.aspose.com/buy) a[dočasné licence](https://purchase.aspose.com/temporary-license/).
+A5: Ano, můžete si prohlédnout možnosti licencování, včetně bezplatné zkušební verze a zakoupení, na [Nákupní stránka Aspose.Imaging](https://purchase.aspose.com/buy) a [dočasné licence](https://purchase.aspose.com/temporary-license/).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

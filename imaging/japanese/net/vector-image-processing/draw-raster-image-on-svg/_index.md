@@ -1,32 +1,34 @@
 ---
-title: Aspose.Imaging for .NET で SVG 上にラスター イメージを描画する方法
-linktitle: Aspose.Imaging for .NET で SVG 上にラスター イメージを描画する
-second_title: Aspose.Imaging .NET 画像処理 API
-description: Aspose.Imaging for .NET を使用して SVG 上にラスター イメージを描画する方法を学びます。動的なイメージを使用して .NET アプリケーションを強化します。
-weight: 11
-url: /ja/net/vector-image-processing/draw-raster-image-on-svg/
+"description": "Aspose.Imaging for .NET を使用して SVG 上にラスター画像を描画する方法を学びます。動的な画像で .NET アプリケーションを強化します。"
+"linktitle": "Aspose.Imaging for .NET で SVG にラスター イメージを描画する"
+"second_title": "Aspose.Imaging .NET 画像処理 API"
+"title": "Aspose.Imaging for .NET で SVG にラスター イメージを描画する方法"
+"url": "/ja/net/vector-image-processing/draw-raster-image-on-svg/"
+"weight": 11
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Aspose.Imaging for .NET で SVG 上にラスター イメージを描画する方法
+# Aspose.Imaging for .NET で SVG にラスター イメージを描画する方法
 
 
-.NET プログラミングの世界では、Aspose.Imaging は、さまざまな画像関連のタスクを処理するための信頼できる多用途ライブラリとして機能します。それが提供する魅力的な機能の 1 つは、SVG キャンバス上にラスター イメージを描画する機能です。このステップバイステップ ガイドでは、Aspose.Imaging for .NET を使用して SVG 上にラスター イメージを描画するプロセスを説明します。
+.NETプログラミングの世界では、Aspose.Imagingは、様々な画像関連タスクを処理するための信頼性と汎用性に優れたライブラリとして知られています。中でも魅力的な機能の一つは、SVGキャンバスにラスター画像を描画できることです。このステップバイステップガイドでは、Aspose.Imaging for .NETを使用してSVGにラスター画像を描画する手順を解説します。
 
 ## 前提条件
 
 詳細に入る前に、次の前提条件が満たされていることを確認してください。
 
--  Aspose.Imaging for .NET: ライブラリがインストールされている必要があります。そうでない場合は、からダウンロードできます。[Aspose.Imaging for .NET ダウンロード ページ](https://releases.aspose.com/imaging/net/).
+- Aspose.Imaging for .NET: ライブラリがインストールされている必要があります。インストールされていない場合は、以下のリンクからダウンロードできます。 [Aspose.Imaging for .NET のダウンロード ページ](https://releases。aspose.com/imaging/net/).
 
-- ドキュメント ディレクトリ: 置換`"Your Document Directory"`作業ディレクトリへの実際のパスを指定します。
+- ドキュメントディレクトリ: 置換 `"Your Document Directory"` 作業ディレクトリへの実際のパスを入力します。
 
-ここで、プロセスをわかりやすい手順に分割してみましょう。
+それでは、プロセスをわかりやすい手順に分解してみましょう。
 
-## ステップ 1: 必要な名前空間をインポートする
+## ステップ1: 必要な名前空間をインポートする
 
 Aspose.Imaging を使用するには、必要な名前空間をインポートする必要があります。
 
@@ -37,30 +39,30 @@ using Aspose.Imaging.FileFormats.Svg.Graphics;
 using System;
 ```
 
-## ステップ 2: 画像をロードする
+## ステップ2: 画像を読み込む
 
-- まず、SVGキャンバスに描画したいラスター画像を読み込みます。
+- まず、SVG キャンバスに描画するラスター イメージを読み込みます。
 
 ```csharp
 string dataDir = "Your Document Directory";
 using (RasterImage imageToDraw = (RasterImage)Image.Load(dataDir + "asposenet_220_src01.png"))
 ```
 
-- 次に、ラスター画像を描画したい場所にSVGキャンバス画像を読み込みます。
+- 次に、ラスター イメージを描画する場所に SVG キャンバス イメージを読み込みます。
 
 ```csharp
 using (SvgImage canvasImage = (SvgImage)Image.Load(dataDir + "asposenet_220_src02.svg"))
 ```
 
-## ステップ 3: SVG 画像上に描画する
+## ステップ3: SVG画像に描画する
 
-これで、既存の SVG 画像上で描画を開始できます。これを行うには、次のインスタンスを作成する必要があります。`SvgGraphics2D`:
+これで、既存のSVG画像に描画を開始できます。これを行うには、インスタンスを作成する必要があります。 `SvgGraphics2D`：
 
 ```csharp
 SvgGraphics2D graphics = new SvgGraphics2D(canvasImage);
 ```
 
-## ステップ 4: ラスター イメージを描画する
+## ステップ4：ラスターイメージを描く
 
 - ラスター イメージを描画する境界を定義し、ラスター イメージからソース領域を指定します。
 
@@ -71,7 +73,7 @@ graphics.DrawImage(
     imageToDraw);
 ```
 
-## ステップ 5: 結果を保存する
+## ステップ5: 結果を保存する
 
 SVG キャンバスにラスター イメージを描画した後、結果のイメージを保存できます。
 
@@ -84,9 +86,9 @@ using (SvgImage resultImage = graphics.EndRecording())
 
 ## 結論
 
-おめでとう！ Aspose.Imaging for .NET を使用して、SVG キャンバスにラスター イメージを描画することに成功しました。これは、.NET アプリケーション内でリッチで動的なイメージを作成する場合に非常に役立ちます。
+おめでとうございます！Aspose.Imaging for .NET を使って、SVG キャンバスにラスター画像を描画できました。これは、.NET アプリケーション内でリッチでダイナミックな画像を作成するのに非常に役立ちます。
 
-詳細と詳細なドキュメントについては、次のサイトを参照してください。[Aspose.Imaging for .NET ドキュメント](https://reference.aspose.com/imaging/net/).
+詳しい情報と詳細なドキュメントについては、 [Aspose.Imaging for .NET ドキュメント](https://reference。aspose.com/imaging/net/).
 
 ## よくある質問
 
@@ -94,22 +96,24 @@ using (SvgImage resultImage = graphics.EndRecording())
    Aspose.Imaging for .NET は、開発者が .NET アプリケーション内でさまざまな形式の画像を作成、操作、変換できるようにする強力な画像処理ライブラリです。
 
 ### Aspose.Imaging for .NET を商用プロジェクトで使用できますか?
-   はい、Aspose.Imaging for .NET は商用プロジェクトと非商用プロジェクトの両方で使用できます。ライセンスの詳細については、[購入ページ](https://purchase.aspose.com/buy).
+   はい、Aspose.Imaging for .NETは商用・非商用を問わずご利用いただけます。ライセンスの詳細は、 [購入ページ](https://purchase。aspose.com/buy).
 
-### 無料トライアルはありますか?
-   はい、Aspose.Imaging for .NET の無料トライアルを次のサイトから入手できます。[ここ](https://releases.aspose.com/).
+### 無料トライアルはありますか？
+   はい、Aspose.Imaging for .NETの無料トライアルは以下から入手できます。 [ここ](https://releases。aspose.com/).
 
-### どこでサポートを受けたり、質問したりできますか?
-   ご質問がある場合、またはサポートが必要な場合は、次のサイトにアクセスしてください。[Aspose.Imaging フォーラム](https://forum.aspose.com/).
+### サポートを受けたり質問したりするにはどこに行けばいいですか?
+   ご質問やサポートが必要な場合は、 [Aspose.Imagingフォーラム](https://forum。aspose.com/).
 
 ### Aspose.Imaging for .NET の一時ライセンスを取得するにはどうすればよいですか?
-   一時ライセンスは次から取得できます。[ここ](https://purchase.aspose.com/temporary-license/).
+   臨時免許証は以下から取得できます。 [ここ](https://purchase。aspose.com/temporary-license/).
+
 
 
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

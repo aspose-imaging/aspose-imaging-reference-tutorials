@@ -1,25 +1,27 @@
 ---
-title: Ondersteuning voor het opslaan van XMP-tags in Aspose.Imaging voor .NET
-linktitle: Ondersteuning voor het opslaan van XMP-tags in Aspose.Imaging voor .NET
-second_title: Aspose.Imaging .NET-API voor beeldverwerking
-description: Leer hoe u XMP-metagegevens aan DICOM-afbeeldingen kunt toevoegen met Aspose.Imaging voor .NET. Optimaliseer het beheer en de organisatie van afbeeldingen met deze stapsgewijze handleiding.
-weight: 25
-url: /nl/net/dicom-image-processing/support-storing-xmp-tags/
+"description": "Leer hoe u XMP-metadata toevoegt aan DICOM-afbeeldingen met Aspose.Imaging voor .NET. Optimaliseer het beheer en de organisatie van afbeeldingen met deze stapsgewijze handleiding."
+"linktitle": "Ondersteuning voor het opslaan van XMP-tags in Aspose.Imaging voor .NET"
+"second_title": "Aspose.Imaging .NET-beeldverwerkings-API"
+"title": "Ondersteuning voor het opslaan van XMP-tags in Aspose.Imaging voor .NET"
+"url": "/nl/net/dicom-image-processing/support-storing-xmp-tags/"
+"weight": 25
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Ondersteuning voor het opslaan van XMP-tags in Aspose.Imaging voor .NET
 
-Aspose.Imaging voor .NET is een krachtige bibliotheek waarmee u met verschillende afbeeldingsformaten in de .NET-omgeving kunt werken. In deze zelfstudie onderzoeken we hoe u het opslaan van XMP-tags (Extensible Metadata Platform) in Aspose.Imaging voor .NET kunt ondersteunen. XMP-tags zijn essentieel voor het toevoegen van metadata-informatie aan afbeeldingen, waardoor het eenvoudiger wordt om uw digitale assets te organiseren en te beheren. We zullen het proces opsplitsen in meerdere stappen, zodat u begrijpt hoe u dit kunt bereiken.
+Aspose.Imaging voor .NET is een krachtige bibliotheek waarmee u met verschillende afbeeldingsformaten in de .NET-omgeving kunt werken. In deze tutorial onderzoeken we hoe u de opslag van XMP-tags (Extensible Metadata Platform) in Aspose.Imaging voor .NET kunt ondersteunen. XMP-tags zijn essentieel voor het toevoegen van metadata aan afbeeldingen, waardoor u uw digitale assets gemakkelijker kunt organiseren en beheren. We splitsen het proces op in meerdere stappen om u te helpen begrijpen hoe u dit kunt bereiken.
 
 ## Vereisten
 
-Voordat we beginnen, zorg ervoor dat u aan de volgende vereisten voldoet:
+Voordat we beginnen, moet u ervoor zorgen dat u aan de volgende vereisten voldoet:
 
-- Aspose.Imaging voor .NET: Aspose.Imaging voor .NET moet geïnstalleerd zijn. Je kunt het downloaden van de[Aspose.Imaging voor .NET-website](https://releases.aspose.com/imaging/net/).
+- Aspose.Imaging voor .NET: Aspose.Imaging voor .NET moet geïnstalleerd zijn. Je kunt het downloaden van de [Aspose.Imaging voor .NET-website](https://releases.aspose.com/imaging/net/).
 
 ## Naamruimten importeren
 
@@ -31,23 +33,23 @@ using Aspose.Imaging.Exif;
 using Aspose.Imaging.FileFormats.Dicom;
 ```
 
-Laten we nu eens kijken naar de stapsgewijze handleiding ter ondersteuning van het opslaan van XMP-tags met Aspose.Imaging voor .NET.
+Laten we nu eens kijken naar de stapsgewijze handleiding voor het ondersteunen van het opslaan van XMP-tags met Aspose.Imaging voor .NET.
 
 ## Stap 1: Laad de DICOM-afbeelding
 
- Begin met het laden van de DICOM-afbeelding waarmee u wilt werken. Vervangen`"Your Document Directory"` met het daadwerkelijke mappad waar uw DICOM-image zich bevindt.
+Begin met het laden van de DICOM-afbeelding waarmee u wilt werken. Vervang `"Your Document Directory"` met het werkelijke directorypad waar uw DICOM-afbeelding zich bevindt.
 
 ```csharp
 string dataDir = "Your Document Directory";
 using (DicomImage image = (DicomImage)Image.Load(dataDir + "file.dcm"))
 {
-    // Je code komt hier
+    // Hier komt uw code
 }
 ```
 
-## Stap 2: Maak een XMP-pakket en Dicom-pakket
+## Stap 2: Een XMP-pakket en Dicom-pakket maken
 
-Maak een XmpPacketWrapper en DicomPackage om uw metadata op te slaan. U kunt verschillende metadatavelden instellen, zoals instelling, fabrikant, patiëntgegevens, serie-informatie en onderzoeksgegevens.
+Maak een XmpPacketWrapper en DicomPackage aan om uw metadata op te slaan. U kunt verschillende metadatavelden instellen, zoals instelling, fabrikant, patiëntgegevens, seriegegevens en onderzoeksdetails.
 
 ```csharp
 XmpPacketWrapper xmpPacketWrapper = new XmpPacketWrapper();
@@ -73,7 +75,7 @@ xmpPacketWrapper.AddPackage(dicomPackage);
 
 ## Stap 3: Sla de afbeelding op met XMP-metagegevens
 
- Sla nu de afbeelding op met de toegevoegde XMP-metagegevens met behulp van de`DicomOptions` klas.
+Sla nu de afbeelding op met de toegevoegde XMP-metagegevens met behulp van de `DicomOptions` klas.
 
 ```csharp
 string outputFile = dataDir + "output.dcm";
@@ -82,7 +84,7 @@ image.Save(outputFile, new DicomOptions() { XmpData = xmpPacketWrapper });
 
 ## Stap 4: Controleer de XMP-tags
 
-Laad de opgeslagen afbeelding en vergelijk de DICOM-informatie voor en na het toevoegen van XMP-tags.
+Laad de opgeslagen afbeelding en vergelijk de DICOM-informatie vóór en na het toevoegen van XMP-tags.
 
 ```csharp
 using (DicomImage imageSaved = (DicomImage)Image.Load(outputFile))
@@ -95,35 +97,37 @@ using (DicomImage imageSaved = (DicomImage)Image.Load(outputFile))
 
 ## Conclusie
 
-In deze zelfstudie hebben we geleerd hoe u het opslaan van XMP-tags in DICOM-afbeeldingen kunt ondersteunen met behulp van Aspose.Imaging voor .NET. Het toevoegen van metadata aan uw afbeeldingen is cruciaal voor de organisatie en het beheer. Aspose.Imaging vereenvoudigt dit proces en stelt u in staat efficiënt met beeldmetadata te werken.
+In deze tutorial hebben we geleerd hoe je de opslag van XMP-tags in DICOM-afbeeldingen kunt ondersteunen met Aspose.Imaging voor .NET. Het toevoegen van metadata aan je afbeeldingen is cruciaal voor de organisatie en het beheer ervan. Aspose.Imaging vereenvoudigt dit proces en stelt je in staat om efficiënt met afbeeldingsmetadata te werken.
 
- Voor meer details en geavanceerd gebruik kunt u de[Aspose.Imaging voor .NET-documentatie](https://reference.aspose.com/imaging/net/).
+Voor meer details en geavanceerd gebruik kunt u terecht op de [Aspose.Imaging voor .NET-documentatie](https://reference.aspose.com/imaging/net/).
 
 ## Veelgestelde vragen
 
-### Vraag 1: Wat zijn XMP-metagegevens?
+### V1: Wat zijn XMP-metadata?
 
-A1: XMP (Extensible Metadata Platform) is een standaard voor het toevoegen van metadata aan digitale assets, inclusief afbeeldingen. Het helpt bij het organiseren en beschrijven van verschillende kenmerken van het bestand.
+A1: XMP (Extensible Metadata Platform) is een standaard voor het toevoegen van metadata aan digitale bestanden, waaronder afbeeldingen. Het helpt bij het organiseren en beschrijven van verschillende kenmerken van het bestand.
 
 ### V2: Kan ik bestaande XMP-metagegevens bewerken met Aspose.Imaging voor .NET?
 
-A2: Ja, u kunt bestaande XMP-metagegevens bewerken en nieuwe metagegevens aan afbeeldingen toevoegen met Aspose.Imaging.
+A2: Ja, u kunt bestaande XMP-metagegevens bewerken en nieuwe metagegevens aan afbeeldingen toevoegen met behulp van Aspose.Imaging.
 
 ### V3: Is Aspose.Imaging voor .NET geschikt voor professionele beeldverwerkingstaken?
 
-A3: Absoluut. Aspose.Imaging voor .NET biedt een breed scala aan functies voor beeldmanipulatie, bewerking en conversie, waardoor het geschikt is voor professioneel gebruik.
+A3: Absoluut. Aspose.Imaging voor .NET biedt een breed scala aan functies voor beeldmanipulatie, -bewerking en -conversie, waardoor het geschikt is voor professioneel gebruik.
 
 ### V4: Waar kan ik ondersteuning krijgen of vragen stellen over Aspose.Imaging voor .NET?
 
- A4: U kunt de bezoeken[Aspose.Imaging voor .NET-forum](https://forum.aspose.com/) om ondersteuning te krijgen en al uw vragen te stellen.
+A4: U kunt de [Aspose.Imaging voor .NET-forum](https://forum.aspose.com/) om ondersteuning te krijgen en eventuele vragen te stellen.
 
-### V5: Hoe kan ik een tijdelijke licentie verkrijgen voor Aspose.Imaging voor .NET?
+### V5: Hoe kan ik een tijdelijke licentie voor Aspose.Imaging voor .NET verkrijgen?
 
- A5: U kunt een tijdelijke licentie voor Aspose.Imaging voor .NET verkrijgen door naar te gaan[deze link](https://purchase.aspose.com/temporary-license/).
+A5: U kunt een tijdelijke licentie voor Aspose.Imaging voor .NET verkrijgen door naar [deze link](https://purchase.aspose.com/temporary-license/).
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

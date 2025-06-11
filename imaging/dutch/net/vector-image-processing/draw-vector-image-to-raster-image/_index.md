@@ -1,42 +1,44 @@
 ---
-title: Teken vectorafbeelding naar rasterafbeelding in Aspose.Imaging voor .NET
-linktitle: Teken vectorafbeelding naar rasterafbeelding in Aspose.Imaging voor .NET
-second_title: Aspose.Imaging .NET-API voor beeldverwerking
-description: Leer hoe u vectorafbeeldingen naar rasterafbeeldingen converteert in .NET met behulp van Aspose.Imaging. Een stapsgewijze handleiding voor efficiënte beeldverwerking.
-weight: 13
-url: /nl/net/vector-image-processing/draw-vector-image-to-raster-image/
+"description": "Leer hoe u vectorafbeeldingen naar rasterafbeeldingen converteert in .NET met Aspose.Imaging. Een stapsgewijze handleiding voor efficiënte beeldverwerking."
+"linktitle": "Vectorafbeelding tekenen naar rasterafbeelding in Aspose.Imaging voor .NET"
+"second_title": "Aspose.Imaging .NET-beeldverwerkings-API"
+"title": "Vectorafbeelding tekenen naar rasterafbeelding in Aspose.Imaging voor .NET"
+"url": "/nl/net/vector-image-processing/draw-vector-image-to-raster-image/"
+"weight": 13
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Teken vectorafbeelding naar rasterafbeelding in Aspose.Imaging voor .NET
+# Vectorafbeelding tekenen naar rasterafbeelding in Aspose.Imaging voor .NET
 
 
-Wilt u vectorafbeeldingen moeiteloos naar rasterafbeeldingen converteren in uw .NET-toepassingen? Aspose.Imaging voor .NET biedt een efficiënte oplossing voor deze taak. In deze stapsgewijze handleiding leiden we u door het proces van het tekenen van vectorafbeeldingen naar rasterafbeeldingen met behulp van Aspose.Imaging voor .NET. 
+Wilt u vectorafbeeldingen moeiteloos naar rasterafbeeldingen converteren in uw .NET-applicaties? Aspose.Imaging voor .NET biedt een efficiënte oplossing voor deze taak. In deze stapsgewijze handleiding leiden we u door het proces van het tekenen van vectorafbeeldingen naar rasterafbeeldingen met Aspose.Imaging voor .NET. 
 
 ## Vereisten
 
-Voordat we ingaan op de tutorial, zorg ervoor dat je aan de volgende vereisten voldoet:
+Voordat we met de tutorial beginnen, moet u ervoor zorgen dat u aan de volgende vereisten voldoet:
 
 ### 1. Aspose.Imaging voor .NET
 
- Aspose.Imaging voor .NET moet geïnstalleerd zijn. Als u deze niet heeft, kunt u deze downloaden van de website op[Download Aspose.Imaging voor .NET](https://releases.aspose.com/imaging/net/).
+Aspose.Imaging voor .NET moet geïnstalleerd zijn. Als u het niet hebt, kunt u het downloaden van de website: [Download Aspose.Imaging voor .NET](https://releases.aspose.com/imaging/net/).
 
 ### 2. .NET-ontwikkelomgeving
 
-Zorg ervoor dat er een .NET-ontwikkelomgeving op uw computer is geïnstalleerd. U kunt Visual Studio of een ander .NET-ontwikkelprogramma gebruiken.
+Zorg ervoor dat u een .NET-ontwikkelomgeving op uw computer hebt geïnstalleerd. U kunt Visual Studio of een andere .NET-ontwikkeltool gebruiken.
 
-Laten we nu het proces van het tekenen van vectorafbeeldingen naar rasterafbeeldingen opsplitsen in eenvoudige, gemakkelijk te volgen stappen:
+Laten we het proces voor het tekenen van vectorafbeeldingen naar rasterafbeeldingen opsplitsen in eenvoudige, gemakkelijk te volgen stappen:
 
 ## Stap 1: Initialiseer uw project
 
-Begin met het maken van een nieuw .NET-project in uw ontwikkelomgeving. Zorg ervoor dat Aspose.Imaging voor .NET in uw project is geïntegreerd.
+Begin met het aanmaken van een nieuw .NET-project in uw ontwikkelomgeving. Zorg ervoor dat Aspose.Imaging voor .NET in uw project is geïntegreerd.
 
 ## Stap 2: Laad de vectorafbeelding
 
-In deze stap laden we de vectorafbeelding (in SVG-indeling) die u naar een rasterafbeelding wilt converteren.
+In deze stap laden we de vectorafbeelding (in SVG-formaat) die u wilt converteren naar een rasterafbeelding.
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -47,9 +49,9 @@ using (SvgImage svgImage = (SvgImage)Image.Load(dataDir + "asposenet_220_src02.s
 }
 ```
 
-## Stap 3: Rastereer de vectorafbeelding
+## Stap 3: Raster de vectorafbeelding
 
-Nu moeten we de SVG-afbeelding rasteriseren naar PNG-indeling. Dit is waar de conversie van vector naar raster plaatsvindt.
+Nu moeten we de SVG-afbeelding rasteren naar PNG-formaat. Dit is waar de conversie van vector naar raster plaatsvindt.
 
 ```csharp
 SvgRasterizationOptions rasterizationOptions = new SvgRasterizationOptions();
@@ -61,7 +63,7 @@ svgImage.Save(drawnImageStream, saveOptions);
 
 ## Stap 4: Laad de rasterafbeelding
 
-Na het rasteren laadt u de PNG-afbeelding uit de stream om verder te tekenen.
+Na het rasteren laadt u de PNG-afbeelding uit de stream om er verder mee te tekenen.
 
 ```csharp
 drawnImageStream.Seek(0, System.IO.SeekOrigin.Begin);
@@ -86,9 +88,9 @@ Size size = new Size(width, height);
 graphics.DrawImage(imageToDraw, origin, size);
 ```
 
-## Stap 6: Bewaar het resultaat
+## Stap 6: Sla het resultaat op
 
-Sla ten slotte de resultaatafbeelding op. U hebt nu een rasterafbeelding met uw vectorafbeelding.
+Sla ten slotte de resulterende afbeelding op. Je hebt nu een rasterafbeelding met je vectorafbeelding.
 
 ```csharp
 using (SvgImage resultImage = graphics.EndRecording())
@@ -99,28 +101,30 @@ using (SvgImage resultImage = graphics.EndRecording())
 
 ## Conclusie
 
-In deze zelfstudie hebben we gedemonstreerd hoe u vectorafbeeldingen naar rasterafbeeldingen converteert met Aspose.Imaging voor .NET. Met deze eenvoudige stappen integreert u deze functionaliteit moeiteloos in uw .NET-applicaties.
+In deze tutorial hebben we laten zien hoe je vectorafbeeldingen naar rasterafbeeldingen kunt converteren met Aspose.Imaging voor .NET. Met deze eenvoudige stappen kun je deze functionaliteit moeiteloos integreren in je .NET-applicaties.
 
-### Veel Gestelde Vragen
+### Veelgestelde vragen
 
 ### Wat is Aspose.Imaging voor .NET?
-Aspose.Imaging voor .NET is een .NET-bibliotheek die krachtige beeldverwerkingsfuncties biedt, waaronder de mogelijkheid om met verschillende beeldformaten te werken, afbeeldingen te converteren en geavanceerde beeldmanipulatietaken uit te voeren.
+Aspose.Imaging voor .NET is een .NET-bibliotheek die krachtige beeldverwerkingsfuncties biedt, waaronder de mogelijkheid om met verschillende afbeeldingsindelingen te werken, afbeeldingen te converteren en geavanceerde beeldmanipulatietaken uit te voeren.
 
 ### Waar kan ik de documentatie voor Aspose.Imaging voor .NET vinden?
- U kunt de documentatie voor Aspose.Imaging voor .NET vinden[hier](https://reference.aspose.com/imaging/net/).
+U kunt de documentatie voor Aspose.Imaging voor .NET vinden [hier](https://reference.aspose.com/imaging/net/).
 
 ### Is er een gratis proefversie beschikbaar?
- Ja, u krijgt toegang tot een gratis proefversie van Aspose.Imaging voor .NET[hier](https://releases.aspose.com/).
+Ja, u kunt een gratis proefversie van Aspose.Imaging voor .NET gebruiken [hier](https://releases.aspose.com/).
 
 ### Hoe krijg ik een tijdelijke licentie voor Aspose.Imaging voor .NET?
- Als u een tijdelijke licentie nodig heeft, kunt u deze verkrijgen[hier](https://purchase.aspose.com/temporary-license/).
+Als u een tijdelijke vergunning nodig heeft, kunt u deze verkrijgen [hier](https://purchase.aspose.com/temporary-license/).
 
 ### Waar kan ik ondersteuning krijgen voor Aspose.Imaging voor .NET?
- Voor ondersteuning of vragen kunt u terecht op de[Aspose.Imaging-forum](https://forum.aspose.com/).
+Voor ondersteuning of vragen kunt u terecht op de [Aspose.Imaging forum](https://forum.aspose.com/).
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

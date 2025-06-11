@@ -1,30 +1,32 @@
 ---
-title: Cara Menggambar Gambar Raster di SVG di Aspose.Imaging untuk .NET
-linktitle: Gambar Gambar Raster pada SVG di Aspose.Imaging untuk .NET
-second_title: Aspose.Imaging .NET API Pemrosesan Gambar
-description: Pelajari cara menggambar gambar raster di SVG menggunakan Aspose.Imaging untuk .NET. Sempurnakan aplikasi .NET Anda dengan gambar dinamis.
-weight: 11
-url: /id/net/vector-image-processing/draw-raster-image-on-svg/
+"description": "Pelajari cara menggambar gambar raster pada SVG menggunakan Aspose.Imaging untuk .NET. Sempurnakan aplikasi .NET Anda dengan gambar dinamis."
+"linktitle": "Menggambar Gambar Raster pada SVG di Aspose.Imaging untuk .NET"
+"second_title": "API Pemrosesan Gambar Aspose.Imaging .NET"
+"title": "Cara Menggambar Gambar Raster pada SVG di Aspose.Imaging untuk .NET"
+"url": "/id/net/vector-image-processing/draw-raster-image-on-svg/"
+"weight": 11
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Cara Menggambar Gambar Raster di SVG di Aspose.Imaging untuk .NET
+# Cara Menggambar Gambar Raster pada SVG di Aspose.Imaging untuk .NET
 
 
-Dalam dunia pemrograman .NET, Aspose.Imaging berdiri sebagai perpustakaan yang andal dan serbaguna untuk menangani berbagai tugas terkait gambar. Salah satu kemampuan menarik yang ditawarkannya adalah kemampuan menggambar gambar raster pada kanvas SVG. Dalam panduan langkah demi langkah ini, kami akan memandu Anda melalui proses menggambar gambar raster pada SVG menggunakan Aspose.Imaging untuk .NET.
+Dalam dunia pemrograman .NET, Aspose.Imaging merupakan pustaka yang andal dan serbaguna untuk menangani berbagai tugas terkait gambar. Salah satu kemampuan menarik yang ditawarkannya adalah kemampuan untuk menggambar gambar raster pada kanvas SVG. Dalam panduan langkah demi langkah ini, kami akan memandu Anda melalui proses menggambar gambar raster pada SVG menggunakan Aspose.Imaging untuk .NET.
 
 ## Prasyarat
 
-Sebelum kita mendalami detailnya, pastikan Anda memiliki prasyarat berikut:
+Sebelum kita membahas detailnya, pastikan Anda telah memenuhi prasyarat berikut:
 
--  Aspose.Imaging untuk .NET: Anda harus menginstal perpustakaan. Jika belum, Anda dapat mendownloadnya dari[Aspose.Imaging untuk halaman unduhan .NET](https://releases.aspose.com/imaging/net/).
+- Aspose.Imaging untuk .NET: Anda harus menginstal pustaka tersebut. Jika belum, Anda dapat mengunduhnya dari [Halaman unduhan Aspose.Imaging untuk .NET](https://releases.aspose.com/imaging/net/).
 
--  Direktori Dokumen Anda: Ganti`"Your Document Directory"` dengan jalur sebenarnya ke direktori kerja Anda.
+- Direktori Dokumen Anda: Ganti `"Your Document Directory"` dengan jalur sebenarnya ke direktori kerja Anda.
 
-Sekarang, mari kita bagi prosesnya menjadi langkah-langkah yang mudah diikuti:
+Sekarang, mari kita uraikan prosesnya menjadi langkah-langkah yang mudah diikuti:
 
 ## Langkah 1: Impor Namespace yang Diperlukan
 
@@ -39,14 +41,14 @@ using System;
 
 ## Langkah 2: Muat Gambar
 
-- Pertama, muat gambar raster yang ingin Anda gambar di kanvas SVG.
+- Pertama, muat gambar raster yang ingin Anda gambar pada kanvas SVG.
 
 ```csharp
 string dataDir = "Your Document Directory";
 using (RasterImage imageToDraw = (RasterImage)Image.Load(dataDir + "asposenet_220_src01.png"))
 ```
 
-- Selanjutnya, muat gambar kanvas SVG tempat Anda ingin menggambar gambar raster.
+- Berikutnya, muat gambar kanvas SVG tempat Anda ingin menggambar gambar raster.
 
 ```csharp
 using (SvgImage canvasImage = (SvgImage)Image.Load(dataDir + "asposenet_220_src02.svg"))
@@ -54,7 +56,7 @@ using (SvgImage canvasImage = (SvgImage)Image.Load(dataDir + "asposenet_220_src0
 
 ## Langkah 3: Menggambar pada Gambar SVG
 
-Sekarang, Anda bisa mulai menggambar pada gambar SVG yang sudah ada. Untuk melakukan ini, Anda perlu membuat sebuah instance dari`SvgGraphics2D`:
+Sekarang, Anda dapat mulai menggambar pada gambar SVG yang ada. Untuk melakukan ini, Anda perlu membuat contoh `SvgGraphics2D`:
 
 ```csharp
 SvgGraphics2D graphics = new SvgGraphics2D(canvasImage);
@@ -62,7 +64,7 @@ SvgGraphics2D graphics = new SvgGraphics2D(canvasImage);
 
 ## Langkah 4: Gambar Gambar Raster
 
-- Tentukan batas tempat Anda ingin menggambar gambar raster dan tentukan wilayah sumber dari gambar raster.
+- Tentukan batas di mana Anda ingin menggambar gambar raster dan tentukan wilayah sumber dari gambar raster.
 
 ```csharp
 graphics.DrawImage(
@@ -84,32 +86,34 @@ using (SvgImage resultImage = graphics.EndRecording())
 
 ## Kesimpulan
 
-Selamat! Anda telah berhasil menggambar gambar raster pada kanvas SVG menggunakan Aspose.Imaging untuk .NET. Ini bisa sangat berguna untuk membuat gambar yang kaya dan dinamis dalam aplikasi .NET Anda.
+Selamat! Anda telah berhasil menggambar gambar raster pada kanvas SVG menggunakan Aspose.Imaging untuk .NET. Ini dapat sangat berguna untuk membuat gambar yang kaya dan dinamis dalam aplikasi .NET Anda.
 
- Untuk informasi lebih lanjut dan dokumentasi terperinci, kunjungi[Aspose.Imaging untuk dokumentasi .NET](https://reference.aspose.com/imaging/net/).
+Untuk informasi lebih lanjut dan dokumentasi terperinci, kunjungi [Dokumentasi Aspose.Imaging untuk .NET](https://reference.aspose.com/imaging/net/).
 
 ## Pertanyaan yang Sering Diajukan
 
 ### Apa itu Aspose.Imaging untuk .NET?
-   Aspose.Imaging for .NET adalah pustaka pemrosesan gambar canggih yang memungkinkan pengembang membuat, memanipulasi, dan mengonversi gambar dalam berbagai format dalam aplikasi .NET.
+   Aspose.Imaging untuk .NET adalah pustaka pemrosesan gambar canggih yang memungkinkan pengembang untuk membuat, memanipulasi, dan mengonversi gambar dalam berbagai format dalam aplikasi .NET.
 
-### Bisakah saya menggunakan Aspose.Imaging untuk .NET dalam proyek komersial?
-    Ya, Anda dapat menggunakan Aspose.Imaging untuk .NET di proyek komersial dan non-komersial. Detail perizinan dapat ditemukan di[halaman pembelian](https://purchase.aspose.com/buy).
+### Dapatkah saya menggunakan Aspose.Imaging untuk .NET dalam proyek komersial?
+   Ya, Anda dapat menggunakan Aspose.Imaging untuk .NET dalam proyek komersial dan non-komersial. Detail lisensi dapat ditemukan di [halaman pembelian](https://purchase.aspose.com/buy).
 
 ### Apakah ada uji coba gratis yang tersedia?
-    Ya, Anda bisa mendapatkan uji coba gratis Aspose.Imaging untuk .NET dari[Di Sini](https://releases.aspose.com/).
+   Ya, Anda bisa mendapatkan uji coba gratis Aspose.Imaging untuk .NET dari [Di Sini](https://releases.aspose.com/).
 
 ### Di mana saya bisa mendapatkan dukungan atau mengajukan pertanyaan?
-    Jika Anda memiliki pertanyaan atau memerlukan dukungan, Anda dapat mengunjungi[Aspose.Forum pencitraan](https://forum.aspose.com/).
+   Jika Anda memiliki pertanyaan atau memerlukan dukungan, Anda dapat mengunjungi [Forum Aspose.Imaging](https://forum.aspose.com/).
 
-### Bagaimana saya bisa mendapatkan lisensi sementara untuk Aspose.Imaging untuk .NET?
-    Anda bisa mendapatkan lisensi sementara dari[Di Sini](https://purchase.aspose.com/temporary-license/).
+### Bagaimana cara memperoleh lisensi sementara untuk Aspose.Imaging for .NET?
+   Anda bisa mendapatkan lisensi sementara dari [Di Sini](https://purchase.aspose.com/temporary-license/).
+
 
 
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

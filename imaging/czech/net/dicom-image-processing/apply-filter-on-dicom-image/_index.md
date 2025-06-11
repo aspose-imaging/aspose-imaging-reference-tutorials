@@ -1,31 +1,33 @@
 ---
-title: Použití filtrů na obrazy DICOM pomocí Aspose.Imaging pro .NET
-linktitle: Použít filtr na obraz DICOM v Aspose.Imaging pro .NET
-second_title: Aspose.Imaging .NET Image Processing API
-description: Naučte se používat filtry na obrazy DICOM pomocí Aspose.Imaging for .NET. Snadno vylepšete zpracování lékařského obrazu.
-weight: 13
-url: /cs/net/dicom-image-processing/apply-filter-on-dicom-image/
+"description": "Naučte se, jak aplikovat filtry na snímky DICOM pomocí Aspose.Imaging pro .NET. Snadno vylepšete zpracování lékařských snímků."
+"linktitle": "Použití filtru na DICOM obraz v Aspose.Imaging pro .NET"
+"second_title": "Rozhraní API pro zpracování obrazu Aspose.Imaging .NET"
+"title": "Použití filtrů na snímky DICOM pomocí Aspose.Imaging pro .NET"
+"url": "/cs/net/dicom-image-processing/apply-filter-on-dicom-image/"
+"weight": 13
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Použití filtrů na obrazy DICOM pomocí Aspose.Imaging pro .NET
+# Použití filtrů na snímky DICOM pomocí Aspose.Imaging pro .NET
 
-Pokud chcete zlepšit své dovednosti ve zpracování obrazu pomocí Aspose.Imaging pro .NET, jste na správném místě. V tomto tutoriálu krok za krokem vás provedeme procesem aplikace filtrů na obrazy DICOM. Tato výkonná knihovna vám umožňuje snadno manipulovat a zpracovávat různé obrazové formáty, včetně DICOM. Rozdělíme proces do zvládnutelných kroků a zajistíme, že každý koncept důkladně pochopíte. Pojďme se ponořit!
+Pokud si chcete vylepšit dovednosti ve zpracování obrazu pomocí Aspose.Imaging pro .NET, jste na správném místě. V tomto podrobném tutoriálu vás provedeme procesem aplikace filtrů na snímky DICOM. Tato výkonná knihovna vám umožňuje snadno manipulovat a zpracovávat různé obrazové formáty, včetně DICOM. Rozdělíme proces do zvládnutelných kroků, abychom zajistili, že každému konceptu důkladně porozumíte. Pojďme se do toho pustit!
 
 ## Předpoklady
 
 Než začneme, ujistěte se, že máte splněny následující předpoklady:
 
--  Aspose.Imaging pro .NET: Tuto knihovnu si můžete stáhnout z[tady](https://releases.aspose.com/imaging/net/).
+- Aspose.Imaging pro .NET: Tuto knihovnu si můžete stáhnout z [zde](https://releases.aspose.com/imaging/net/).
 
-Nyní, když máte potřebné nástroje, přistoupíme k aplikaci filtrů na obraz DICOM.
+Nyní, když máte potřebné nástroje, pojďme pokračovat v aplikaci filtrů na obrázek DICOM.
 
 ## Importovat jmenné prostory
 
-Nejprve se ujistěte, že jste importovali požadované jmenné prostory pro váš projekt .NET. Tyto jmenné prostory vám umožní snadný přístup k funkcím Aspose.Imaging. Přidejte následující řádky na začátek souboru C#:
+Nejprve se ujistěte, že jste importovali požadované jmenné prostory pro váš .NET projekt. Tyto jmenné prostory vám umožní snadný přístup k funkcím Aspose.Imaging. Přidejte následující řádky na začátek vašeho C# souboru:
 
 ```csharp
 using System;
@@ -34,11 +36,11 @@ using Aspose.Imaging;
 using Aspose.Imaging.Filters.FilterOptions;
 ```
 
-Se zavedenými jmennými prostory jsme připraveni skočit do podrobného průvodce.
+připravenými jmennými prostory jsme připraveni přejít k podrobnému návodu.
 
-## Krok 1: Načtěte obrázek DICOM
+## Krok 1: Načtení obrazu DICOM
 
-Prvním krokem je načtení obrazu DICOM, na který chcete použít filtr. Ujistěte se, že máte soubor DICOM v zadaném adresáři. Obrázek můžete načíst pomocí následujícího kódu:
+Prvním krokem je načtení obrazu DICOM, na který chcete použít filtr. Ujistěte se, že máte soubor DICOM v zadaném adresáři. Obraz můžete načíst pomocí následujícího kódu:
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -47,58 +49,60 @@ using (DicomImage image = new DicomImage(fileStream))
 {
 ```
 
- V tomto kódu otevíráme a přistupujeme k obrazu DICOM, který je uložen jako a`DicomImage` objekt.
+V tomto kódu otevíráme a přistupujeme k obrazu DICOM, který je uložen jako `DicomImage` objekt.
 
-## Krok 2: Použijte filtr
+## Krok 2: Použití filtru
 
- Nyní, když jste načetli obraz DICOM, je čas použít filtr. Pro tento příklad použijeme`MedianFilter`Tento filtr pomáhá snížit šum v obraze. Můžete jej použít takto:
+Nyní, když jste načetli obrázek DICOM, je čas použít filtr. V tomto příkladu použijeme `MedianFilter`Tento filtr pomáhá redukovat šum v obrázku. Zde je návod, jak ho použít:
 
 ```csharp
-    // Dodejte filtry do obrazu DICOM a uložte výsledky do výstupní cesty.
+    // Přidejte filtry do obrazu DICOM a uložte výsledky do výstupní cesty.
     image.Filter(image.Bounds, new MedianFilterOptions(8));
 ```
 
- V tomto kódu nazýváme`Filter` metoda na obrázku DICOM, specifikující hranice obrázku a možnosti filtru. V tomto případě používáme a`MedianFilter` s poloměrem 8.
+V tomto kódu nazýváme `Filter` metodu na snímku DICOM, která určuje hranice snímku a možnosti filtru. V tomto případě používáme `MedianFilter` s poloměrem 8.
 
-## Krok 3: Uložte filtrovaný obrázek
+## Krok 3: Uložení filtrovaného obrázku
 
-Po použití filtru je nezbytné filtrovaný obrázek uložit. Pro tento příklad jej uložíme ve formátu BMP:
+Po aplikaci filtru je nezbytné uložit filtrovaný obrázek. V tomto příkladu jej uložíme ve formátu BMP:
 
 ```csharp
     image.Save(dataDir + "ApplyFilterOnDICOMImage_out.bmp", new BmpOptions());
 }
 ```
 
-Výše uvedený kód uloží filtrovaný obraz DICOM jako soubor BMP se zadanou výstupní cestou.
+Výše uvedený kód uloží filtrovaný obrázek DICOM jako soubor BMP se zadanou výstupní cestou.
 
 ## Závěr
 
-Gratulujeme! Úspěšně jste použili filtr na obraz DICOM pomocí Aspose.Imaging for .NET. Toto je jen jeden z mnoha úkolů zpracování obrazu, které můžete provést pomocí této výkonné knihovny. Neváhejte a prozkoumejte další možnosti filtrování a experimentujte s různými nastaveními, abyste dosáhli požadovaných výsledků.
+Gratulujeme! Úspěšně jste aplikovali filtr na obrázek DICOM pomocí knihovny Aspose.Imaging pro .NET. Toto je jen jeden z mnoha úkolů zpracování obrazu, které můžete s touto výkonnou knihovnou provést. Neváhejte prozkoumat další možnosti filtrů a experimentovat s různými nastaveními, abyste dosáhli požadovaných výsledků.
 
-## FAQ
+## Často kladené otázky
 
-### Q1: Co je zobrazování DICOM?
+### Otázka 1: Co je to zobrazování DICOM?
 
-A1: DICOM (Digital Imaging and Communications in Medicine) je standard pro správu, ukládání a přenos lékařských snímků.
+A1: DICOM (Digitální zobrazování a komunikace v medicíně) je standard pro správu, ukládání a přenos lékařských snímků.
 
-### Q2: Dokáže Aspose.Imaging zpracovat jiné formáty obrázků kromě DICOM?
+### Q2: Může Aspose.Imaging zpracovat i jiné obrazové formáty než DICOM?
 
-Odpověď 2: Ano, Aspose.Imaging for .NET podporuje širokou škálu obrazových formátů, včetně BMP, JPEG, PNG a mnoha dalších.
+A2: Ano, Aspose.Imaging pro .NET podporuje širokou škálu obrazových formátů, včetně BMP, JPEG, PNG a mnoha dalších.
 
-### Q3: Jsou v Aspose.Imaging pro .NET k dispozici další filtry?
+### Q3: Jsou v Aspose.Imaging pro .NET k dispozici i další filtry?
 
-Odpověď 3: Ano, Aspose.Imaging poskytuje řadu filtrů, jako je Gaussian, Sharpen a další, pro úlohy zpracování obrazu.
+A3: Ano, Aspose.Imaging nabízí řadu filtrů, jako je Gaussovský, Zaostřovací a další, pro úlohy zpracování obrazu.
 
-### Q4: Kde najdu dokumentaci Aspose.Imaging?
+### Q4: Kde najdu dokumentaci k Aspose.Imaging?
 
- A4: Máte přístup k dokumentaci[tady](https://reference.aspose.com/imaging/net/).
+A4: Můžete přistupovat k dokumentaci [zde](https://reference.aspose.com/imaging/net/).
 
 ### Q5: Jak mohu získat dočasnou licenci pro Aspose.Imaging?
 
- A5: Můžete získat dočasnou licenci od[tady](https://purchase.aspose.com/temporary-license/).
+A5: Dočasné povolení můžete získat od [zde](https://purchase.aspose.com/temporary-license/).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

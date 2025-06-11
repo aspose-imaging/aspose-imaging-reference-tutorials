@@ -1,121 +1,125 @@
 ---
-title: A DICOM egyéb képátméretezési lehetőségei az Aspose.Imaging for .NET-ben
-linktitle: A DICOM egyéb képátméretezési lehetőségei az Aspose.Imaging for .NET-ben
-second_title: Aspose.Imaging .NET Image Processing API
-description: Ismerje meg, hogyan méretezheti át a DICOM-képeket az Aspose.Imaging for .NET használatával. Lépésről lépésre szóló útmutató a hatékony orvosi képkezeléshez.
-weight: 20
-url: /hu/net/dicom-image-processing/dicoms-other-image-resizing-options/
+"description": "Tanulja meg, hogyan méretezheti át a DICOM képeket az Aspose.Imaging for .NET segítségével. Lépésről lépésre útmutató a hatékony orvosi képmanipulációhoz."
+"linktitle": "A DICOM egyéb képátméretezési lehetőségei az Aspose.Imaging for .NET programban"
+"second_title": "Aspose.Imaging .NET képfeldolgozó API"
+"title": "A DICOM egyéb képátméretezési lehetőségei az Aspose.Imaging for .NET programban"
+"url": "/hu/net/dicom-image-processing/dicoms-other-image-resizing-options/"
+"weight": 20
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# A DICOM egyéb képátméretezési lehetőségei az Aspose.Imaging for .NET-ben
+# A DICOM egyéb képátméretezési lehetőségei az Aspose.Imaging for .NET programban
 
-DICOM (Digital Imaging and Communications in Medicine) képekkel szeretne dolgozni .NET-alkalmazásában? Az Aspose.Imaging for .NET hatékony eszközkészletet kínál a DICOM-képek hatékony kezeléséhez. Ebben az oktatóanyagban az Aspose.Imaging for .NET használatával elmélyülünk a "DICOM egyéb képátméretezési beállításaiban". Leírjuk az előfeltételeket, importálunk névtereket, és lépésről lépésre útmutatót adunk a DICOM-képméretezés megértéséhez és hatékony megvalósításához.
+DICOM (Digital Imaging and Communications in Medicine) képekkel szeretne dolgozni .NET alkalmazásában? Az Aspose.Imaging for .NET hatékony eszközkészletet biztosít a DICOM képek hatékony kezeléséhez. Ebben az oktatóanyagban az Aspose.Imaging for .NET használatával részletesebben is bemutatjuk a "DICOM egyéb képátméretezési lehetőségeit". Áttekintjük az előfeltételeket, importáljuk a névtereket, és lépésről lépésre bemutatjuk a DICOM képátméretezés hatékony megértését és megvalósítását.
 
 ## Előfeltételek
 
-Mielőtt elkezdené, győződjön meg arról, hogy a következő előfeltételek teljesülnek:
+Mielőtt elkezdenénk, győződjünk meg arról, hogy a következő előfeltételek teljesülnek:
 
-1. Telepítse az Aspose.Imaging for .NET programot
-Az Aspose.Imaging for .NET használatával történő DICOM lemezképekkel való munkához telepítenie kell a könyvtárat. Letöltheti a weboldalról.
+1. Aspose.Imaging telepítése .NET-hez
+Ahhoz, hogy DICOM képekkel dolgozhasson az Aspose.Imaging for .NET segítségével, telepítenie kell a könyvtárat. Letöltheti a weboldalról.
 
-[Az Aspose.Imaging letöltése .NET-hez](https://releases.aspose.com/imaging/net/)
+[Aspose.Imaging letöltése .NET-hez](https://releases.aspose.com/imaging/net/)
 
-2. Fejlesztői környezet létrehozása
-Győződjön meg arról, hogy be van állítva egy .NET fejlesztői környezet, beleértve a Visual Studio-t vagy bármely más kompatibilis IDE-t.
+2. Fejlesztői környezet beállítása
+Győződjön meg róla, hogy rendelkezik egy .NET fejlesztői környezettel, beleértve a Visual Studio-t vagy bármilyen más kompatibilis IDE-t.
 
 3. DICOM kép
-Rendelkeznie kell egy DICOM-képfájllal (pl. "file.dcm"), amelyet át szeretne méretezni az Aspose.Imaging for .NET segítségével.
+Kell egy DICOM képfájlod (pl. "file.dcm"), amelyet át szeretnél méretezni az Aspose.Imaging for .NET segítségével.
 
 ## Névterek importálása
 
-A C# kódban importálnia kell a szükséges névtereket az Aspose.Imaging használatához. Íme, hogyan kell csinálni:
+A C# kódodban importálnod kell a szükséges névtereket az Aspose.Imaging használatához. Így teheted meg:
 
 ```csharp
 using Aspose.Imaging;
 using Aspose.Imaging.ImageOptions;
 ```
 
-Most bontsuk le a képméretezési folyamatot több lépésre.
+Most bontsuk le a kép átméretezésének folyamatát több lépésre.
 
-## 1. lépés: Töltse be a DICOM-képet
-A kezdéshez be kell töltenie a DICOM képfájlt a fájlrendszerből.
+## 1. lépés: Töltse be a DICOM képet
+Kezdéshez be kell töltenie a DICOM képet a fájlrendszeréből.
 
 ```csharp
 string dataDir = "Your Document Directory";
 using (var fileStream = new FileStream(dataDir + "file.dcm", FileMode.Open, FileAccess.Read))
 using (DicomImage image = new DicomImage(fileStream))
 {
-    // Itt a kódod
+    // A kódod itt
 }
 ```
 
-## 2. lépés: Átméretezés magasság szerint arányosan
-A DICOM-képet arányosan átméretezheti a pixelben megadott magasság és az átméretezés típusának megadásával. Ebben a példában az „AdaptiveResample”-t használjuk átméretezési típusként.
+## 2. lépés: Arányos méretezés magasság szerint
+DICOM kép arányos átméretezéséhez adja meg a képpontokban megadott magasságot és az átméretezés típusát. Ebben a példában az „AdaptiveResample” átméretezési típust használjuk.
 
 ```csharp
 image.ResizeHeightProportionally(100, ResizeType.AdaptiveResample);
 ```
 
 ## 3. lépés: Mentse el az átméretezett képet
-A kép átméretezése után elmentheti a kívánt formátumban. Itt elmentjük BMP képként.
+A kép átméretezése után a kívánt formátumban mentheti el. Itt BMP képként mentjük el.
 
 ```csharp
 image.Save(dataDir + "DICOMSOtherImageResizingOptions_out.bmp", new BmpOptions());
 ```
 
-## 4. lépés: Arányos átméretezés szélesség szerint
-A DICOM-képet arányosan is átméretezheti a pixelben kifejezett szélesség és az átméretezés típusának megadásával.
+## 4. lépés: Arányos méretezés szélesség szerint
+A DICOM képet arányosan is átméretezheti a szélesség pixelben való megadásával és az átméretezés típusával.
 
 ```csharp
 image1.ResizeWidthProportionally(150, ResizeType.AdaptiveResample);
 ```
 
-## 5. lépés: Mentse el az átméretezett képet
-Mentse az átméretezett képet BMP-képként, az előző lépéshez hasonlóan.
+## 5. lépés: Az átméretezett kép mentése
+Mentsd el az átméretezett képet BMP képként, akárcsak az előző lépésben.
 
 ```csharp
 image1.Save(dataDir + "DICOMSOtherImageResizingOptions1_out.bmp", new BmpOptions());
 ```
 
-Gratulálunk! Sikeresen átméretezett egy DICOM-képet az Aspose.Imaging for .NET használatával. Ez a könyvtár különféle lehetőségeket kínál a DICOM-képek manipulálására, így értékes eszköz az egészségügyi és orvosi képalkotó alkalmazások számára.
+Gratulálunk! Sikeresen átméretezett egy DICOM képet az Aspose.Imaging for .NET segítségével. Ez a könyvtár különféle lehetőségeket kínál a DICOM képek manipulálására, így értékes eszközzé válik az egészségügyi és orvosi képalkotó alkalmazások számára.
 
 ## Következtetés
 
-Ebben az oktatóanyagban a "DICOM egyéb képátméretezési lehetőségeit" fedeztük fel az Aspose.Imaging for .NET segítségével. Kitértünk az előfeltételekre, importáltuk a névtereket, és lépésről lépésre ismertettük a DICOM-képek átméretezését. Az Aspose.Imaging for .NET leegyszerűsíti az orvosi képekkel való munka folyamatát, és funkciók széles skáláját kínálja az egészségügyi alkalmazások számára.
+Ebben az oktatóanyagban az Aspose.Imaging for .NET használatával a „DICOM egyéb képátméretezési lehetőségei” című részt vizsgáltuk meg. Áttekintettük az előfeltételeket, az importált névtereket, és lépésről lépésre bemutattuk a DICOM képek átméretezését. Az Aspose.Imaging for .NET leegyszerűsíti az orvosi képekkel való munkát, és számos funkciót kínál az egészségügyi alkalmazások számára.
 
-További kérdései vannak, vagy segítségre van szüksége az Aspose.Imaging for .NET-hez? Tekintse meg a dokumentációt, vagy keresse fel az Aspose közösségi fórumot támogatásért:
+További kérdései vannak, vagy segítségre van szüksége az Aspose.Imaging for .NET programmal kapcsolatban? Tekintse meg a dokumentációt, vagy látogasson el az Aspose közösségi fórumra támogatásért:
 
-- [Aspose.Imaging for .NET Documentation](https://reference.aspose.com/imaging/net/)
+- [Aspose.Imaging .NET dokumentációhoz](https://reference.aspose.com/imaging/net/)
 - [Aspose.Imaging .NET támogatáshoz](https://forum.aspose.com/)
 
 ## GYIK
 
-### Q1: Mi az a DICOM?
+### 1. kérdés: Mi a DICOM?
 
-A1: A DICOM a Digital Imaging and Communications in Medicine rövidítése. Ez egy szabvány az orvosi képek, például röntgensugarak, MRI-k és CT-vizsgálatok digitális formátumban történő továbbítására, tárolására és megosztására.
+A1: A DICOM a Digital Imaging and Communications in Medicine (Digitális Képalkotás és Kommunikáció az Orvostudományban) rövidítése. Ez egy szabvány az orvosi képek, például röntgenfelvételek, MRI- és CT-felvételek digitális formátumú továbbítására, tárolására és megosztására.
 
-### 2. kérdés: Használhatom ingyenesen az Aspose.Imaging for .NET programot?
+### 2. kérdés: Ingyenesen használhatom az Aspose.Imaging for .NET-et?
 
-2. válasz: Az Aspose.Imaging for .NET egy kereskedelmi könyvtár. A funkcióinak értékeléséhez ingyenes próbaverziót tölthet le, de a teljes használathoz licenc szükséges.
+A2: Az Aspose.Imaging for .NET egy kereskedelmi forgalomban kapható könyvtár. Letölthet egy ingyenes próbaverziót a funkcióinak kipróbálásához, de a teljes használathoz licenc szükséges.
 
-### 3. kérdés: Milyen egyéb képkezelési lehetőségeket kínál az Aspose.Imaging for .NET?
+### 3. kérdés: Milyen egyéb képmanipulációs lehetőségeket kínál az Aspose.Imaging for .NET?
 
-3. válasz: Az Aspose.Imaging for .NET a képfeldolgozási lehetőségek széles skáláját kínálja, beleértve a formátumátalakítást, a képjavítást és a képekre való rajzolást. A szolgáltatások teljes készletét a dokumentációban fedezheti fel.
+3. válasz: Az Aspose.Imaging for .NET számos képfeldolgozási lehetőséget kínál, beleértve a formátumkonvertálást, a képjavítást és a képekre rajzolást. A funkciók teljes körét a dokumentációban tekintheti meg.
 
-### 4. kérdés: Az Aspose.Imaging for .NET alkalmas egészségügyi alkalmazásokhoz?
+### 4. kérdés: Alkalmas-e az Aspose.Imaging for .NET egészségügyi alkalmazásokhoz?
 
-4. válasz: Igen, az Aspose.Imaging for .NET szolgáltatást általánosan használják egészségügyi alkalmazásokban DICOM-képek kezelésére, így az orvosi képalkotó szoftverek fejlesztésének értékes eszköze.
+V4: Igen, az Aspose.Imaging for .NET-et gyakran használják az egészségügyi alkalmazásokban DICOM képek kezelésére, így értékes eszköz az orvosi képalkotó szoftverek fejlesztéséhez.
 
-### 5. kérdés: Kaphatok ideiglenes licencet az Aspose.Imaging for .NET számára?
+### 5. kérdés: Szerezhetek ideiglenes licencet az Aspose.Imaging for .NET-hez?
 w
- 5. válasz: Igen, ideiglenes licencet szerezhet tesztelési és értékelési célokra. Látogatás[Az Aspose ideiglenes licence oldala](https://purchase.aspose.com/temporary-license/) további információért.
+V5: Igen, szerezhet ideiglenes engedélyt tesztelési és értékelési célokra. Látogassa meg a következőt: [Az Aspose ideiglenes licencoldala](https://purchase.aspose.com/temporary-license/) további információkért.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

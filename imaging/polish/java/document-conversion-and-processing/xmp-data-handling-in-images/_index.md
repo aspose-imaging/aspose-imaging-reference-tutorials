@@ -1,31 +1,33 @@
 ---
-title: Obsługa danych XMP w obrazach za pomocą Aspose.Imaging dla Java
-linktitle: Obsługa danych XMP w obrazach
-second_title: Aspose.Imaging API przetwarzania obrazu Java
-description: Dowiedz się, jak obsługiwać metadane XMP w obrazach przy użyciu Aspose.Imaging dla Java. Osadzaj i pobieraj metadane, aby ulepszyć swoje pliki obrazów.
-weight: 16
-url: /pl/java/document-conversion-and-processing/xmp-data-handling-in-images/
+"description": "Dowiedz się, jak obsługiwać metadane XMP w obrazach za pomocą Aspose.Imaging dla Java. Osadzaj i pobieraj metadane, aby ulepszyć pliki obrazów."
+"linktitle": "Obsługa danych XMP w obrazach"
+"second_title": "Aspose.Imaging API przetwarzania obrazu Java"
+"title": "Obsługa danych XMP w obrazach za pomocą Aspose.Imaging dla Java"
+"url": "/pl/java/document-conversion-and-processing/xmp-data-handling-in-images/"
+"weight": 16
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Obsługa danych XMP w obrazach za pomocą Aspose.Imaging dla Java
 
-Aspose.Imaging dla Java to wszechstronna i wydajna biblioteka do pracy z obrazami w różnych formatach. Ten samouczek poprowadzi Cię przez proces obsługi danych XMP (Extensible Metadata Platform) w obrazach przy użyciu Aspose.Imaging for Java. XMP to standard osadzania metadanych w plikach obrazów, umożliwiający przechowywanie cennych informacji, takich jak autor, opis i inne.
+Aspose.Imaging for Java to wszechstronna i wydajna biblioteka do pracy z obrazami w różnych formatach. Ten samouczek przeprowadzi Cię przez proces obsługi danych XMP (Extensible Metadata Platform) w obrazach przy użyciu Aspose.Imaging for Java. XMP to standard osadzania metadanych w plikach obrazów, umożliwiający przechowywanie cennych informacji, takich jak autor, opis i inne.
 
-## Warunki wstępne
+## Wymagania wstępne
 
 Zanim zaczniesz, upewnij się, że spełnione są następujące wymagania wstępne:
 
 - Środowisko programistyczne Java skonfigurowane na Twoim komputerze.
--  Zainstalowana biblioteka Aspose.Imaging for Java. Można go pobrać z[Aspose.Imaging dla witryny Java](https://releases.aspose.com/imaging/java/).
+- Biblioteka Aspose.Imaging for Java została zainstalowana. Możesz ją pobrać ze strony [Aspose.Imaging dla witryny Java](https://releases.aspose.com/imaging/java/).
 - Podstawowa znajomość programowania w języku Java.
 
 ## Importowanie pakietów
 
-Zacznij od zaimportowania niezbędnych pakietów do projektu Java. Na początku kodu możesz dodać następujące instrukcje importu:
+Zacznij od zaimportowania niezbędnych pakietów do swojego projektu Java. Możesz dodać następujące polecenia importu na początku swojego kodu:
 
 ```java
 import com.aspose.imaging.Image;
@@ -43,11 +45,11 @@ import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 ```
 
-Podzielmy teraz przykład na przewodnik krok po kroku:
+Teraz przeanalizujmy przykład krok po kroku:
 
-## Krok 1: Określ rozmiar obrazu i opcje Tiff
+## Krok 1: Określ rozmiar obrazu i opcje TIFF
 
-Najpierw zdefiniuj katalog, w którym będzie przechowywany obraz, i utwórz prostokąt, aby określić rozmiar obrazu. W tym przykładzie używamy obrazu Tiff z pewnymi opcjami.
+Najpierw zdefiniuj katalog, w którym będzie przechowywany obraz i utwórz Rectangle, aby określić rozmiar obrazu. W tym przykładzie używamy obrazu Tiff z pewnymi opcjami.
 
 ```java
 String dataDir = "Your Document Directory" + "ConvertingImages/";
@@ -67,7 +69,7 @@ try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(),
 
 ## Krok 3: Utwórz nagłówek i zwiastun XMP
 
-Utwórz instancje XMP-Header i XMP-Trailer dla swoich metadanych XMP. Te nagłówki i końcówki pomagają zdefiniować strukturę metadanych.
+Utwórz wystąpienia XMP-Header i XMP-Trailer dla swoich metadanych XMP. Te nagłówki i zwiastuny pomagają zdefiniować strukturę metadanych.
 
 ```java
     XmpHeaderPi xmpHeader = new XmpHeaderPi();
@@ -76,9 +78,9 @@ Utwórz instancje XMP-Header i XMP-Trailer dla swoich metadanych XMP. Te nagłó
     XmpTrailerPi xmpTrailer = new XmpTrailerPi(true);
 ```
 
-## Krok 4: Utwórz metainformacje XMP
+## Krok 4: Utwórz metadane XMP
 
-Teraz utwórz instancję meta XMP, aby ustawić różne atrybuty. Możesz dodać informacje takie jak autor i opis.
+Teraz utwórz instancję meta XMP, aby ustawić różne atrybuty. Możesz dodać informacje, takie jak autor i opis.
 
 ```java
     XmpMeta xmpMeta = new XmpMeta();
@@ -86,9 +88,9 @@ Teraz utwórz instancję meta XMP, aby ustawić różne atrybuty. Możesz dodać
     xmpMeta.addAttribute("Description", "The fake metadata value");
 ```
 
-## Krok 5: Utwórz opakowanie pakietów XMP
+## Krok 5: Utwórz opakowanie pakietu XMP
 
-Utwórz instancję XmpPacketWrapper zawierającą nagłówek, zwiastun i metainformacje XMP.
+Utwórz instancję XmpPacketWrapper zawierającą nagłówek XMP, zwiastun i metadane.
 
 ```java
     XmpPacketWrapper xmpData = new XmpPacketWrapper(xmpHeader, xmpTrailer, xmpMeta);
@@ -108,7 +110,7 @@ Aby przechowywać informacje specyficzne dla programu Photoshop, utwórz pakiet 
 
 ## Krok 7: Dodaj pakiet Dublin Core
 
-Aby uzyskać bardziej ogólne informacje, takie jak autor, tytuł i dodatkowe wartości, utwórz pakiet DublinCore i ustaw jego atrybuty. Dodaj także ten pakiet do metadanych XMP.
+Aby uzyskać bardziej ogólne informacje, takie jak autor, tytuł i dodatkowe wartości, utwórz pakiet DublinCore i ustaw jego atrybuty. Dodaj ten pakiet również do metadanych XMP.
 
 ```java
     DublinCorePackage dublinCorePackage = new DublinCorePackage();
@@ -118,9 +120,9 @@ Aby uzyskać bardziej ogólne informacje, takie jak autor, tytuł i dodatkowe wa
     xmpData.addPackage(dublinCorePackage);
 ```
 
-## Krok 8: Zaktualizuj metadane XMP w obrazie
+## Krok 8: Aktualizacja metadanych XMP w obrazie
 
- Zaktualizuj metadane XMP do obrazu za pomocą pliku`setXmpData` metoda.
+Zaktualizuj metadane XMP w obrazie za pomocą `setXmpData` metoda.
 
 ```java
     ByteArrayOutputStream ms = new ByteArrayOutputStream();
@@ -129,7 +131,7 @@ Aby uzyskać bardziej ogólne informacje, takie jak autor, tytuł i dodatkowe wa
 
 ## Krok 9: Zapisz obraz
 
-Możesz teraz zapisać obraz z osadzonymi metadanymi XMP na dysku lub w strumieniu pamięci.
+Teraz możesz zapisać obraz z osadzonymi metadanymi XMP na dysku lub w strumieniu pamięci.
 
 ```java
     image.save(ms);
@@ -137,7 +139,7 @@ Możesz teraz zapisać obraz z osadzonymi metadanymi XMP na dysku lub w strumien
 
 ## Krok 10: Załaduj obraz i pobierz metadane XMP
 
-Aby pobrać metadane XMP z obrazu, załaduj obraz ze strumienia pamięci lub dysku i uzyskaj dostęp do danych XMP.
+Aby pobrać metadane XMP z obrazu, należy załadować obraz ze strumienia pamięci lub dysku i uzyskać dostęp do danych XMP.
 
 ```java
     try (TiffImage img = (TiffImage) Image.load(new ByteArrayInputStream(ms.toByteArray()))) {
@@ -149,33 +151,33 @@ Aby pobrać metadane XMP z obrazu, załaduj obraz ze strumienia pamięci lub dys
 }
 ```
 
-Gratulacje! Pomyślnie nauczyłeś się obsługiwać dane XMP w obrazach przy użyciu Aspose.Imaging for Java. Umożliwia to przechowywanie i odzyskiwanie cennych metadanych w plikach obrazów.
+Gratulacje! Udało Ci się nauczyć, jak obsługiwać dane XMP w obrazach, używając Aspose.Imaging for Java. Pozwala to na przechowywanie i pobieranie cennych metadanych w plikach obrazów.
 
 ## Wniosek
 
-W tym samouczku omówiliśmy, jak pracować z metadanymi XMP w obrazach przy użyciu Aspose.Imaging for Java. Postępując zgodnie ze szczegółowym przewodnikiem, możesz łatwo osadzać i pobierać metadane w plikach obrazów, zwiększając ich zawartość informacyjną i użyteczność.
+W tym samouczku przyjrzeliśmy się, jak pracować z metadanymi XMP w obrazach przy użyciu Aspose.Imaging for Java. Postępując zgodnie z przewodnikiem krok po kroku, możesz łatwo osadzać i pobierać metadane w plikach obrazów, zwiększając ich informacje i użyteczność.
 
-## Często zadawane pytania
+## Najczęściej zadawane pytania
 
-### P1: Co to są metadane XMP?
+### P1: Czym są metadane XMP?
 
-O1: XMP (Extensible Metadata Platform) to standard osadzania metadanych w różnych typach plików, w tym w obrazach. Umożliwia przechowywanie informacji, takich jak autor, tytuł, opis i inne, w samym pliku.
+A1: XMP (Extensible Metadata Platform) to standard osadzania metadanych w różnych typach plików, w tym w obrazach. Umożliwia przechowywanie informacji, takich jak autor, tytuł, opis i innych, w samym pliku.
 
 ### P2: Dlaczego metadane XMP są ważne?
 
-Odpowiedź 2: Metadane XMP są niezbędne do organizowania i kategoryzowania zasobów cyfrowych. Pomaga w przypisywaniu własności, opisywaniu treści i dodawaniu kontekstu do plików, takich jak obrazy, czyniąc je bardziej dostępnymi i znaczącymi.
+A2: Metadane XMP są niezbędne do organizowania i kategoryzowania zasobów cyfrowych. Pomagają w przypisywaniu własności, opisywaniu treści i dodawaniu kontekstu do plików, takich jak obrazy, czyniąc je bardziej dostępnymi i znaczącymi.
 
 ### P3: Czy mogę edytować metadane XMP po osadzeniu ich w obrazie?
 
-O3: Tak, możesz edytować metadane XMP po osadzeniu ich w obrazie. Aspose.Imaging for Java zapewnia narzędzia do modyfikowania i aktualizowania atrybutów metadanych w razie potrzeby.
+A3: Tak, możesz edytować metadane XMP po osadzeniu ich w obrazie. Aspose.Imaging for Java udostępnia narzędzia do modyfikowania i aktualizowania atrybutów metadanych w razie potrzeby.
 
-### P4: Czy Aspose.Imaging dla Java jest narzędziem darmowym?
+### P4: Czy Aspose.Imaging dla Java jest darmowym narzędziem?
 
- O4: Aspose.Imaging dla Java oferuje bezpłatną wersję próbną, ale do pełnej funkcjonalności i rozszerzonego użytkowania wymagana jest płatna licencja. Możesz zapoznać się z opcjami na stronie[Aspose.Imaging dla witryny Java](https://purchase.aspose.com/buy).
+A4: Aspose.Imaging for Java oferuje bezpłatną wersję próbną, ale do pełnej funkcjonalności i rozszerzonego użytkowania wymagana jest płatna licencja. Możesz zapoznać się z opcjami na [Aspose.Imaging dla witryny Java](https://purchase.aspose.com/buy).
 
-### P5: Gdzie mogę uzyskać pomoc i wsparcie dla Aspose.Imaging for Java?
+### P5: Gdzie mogę uzyskać pomoc i wsparcie dotyczące Aspose.Imaging dla Java?
 
- O5: Jeśli napotkasz jakiekolwiek problemy lub masz pytania związane z Aspose.Imaging for Java, możesz odwiedzić stronę[Fora Aspose.Imaging](https://forum.aspose.com/) o wsparcie i wskazówki społeczności.
+A5: Jeśli napotkasz jakiekolwiek problemy lub będziesz mieć pytania dotyczące Aspose.Imaging dla Java, możesz odwiedzić stronę [Fora Aspose.Imaging](https://forum.aspose.com/) w celu uzyskania wsparcia i wskazówek ze strony społeczności.
 
 
 
@@ -188,10 +190,10 @@ Rectangle rect = new Rectangle(0, 0, 100, 200);
 TiffOptions tiffOptions = new TiffOptions(TiffExpectedFormat.TiffJpegRgb);
 tiffOptions.setPhotometric(TiffPhotometrics.MinIsBlack);
 tiffOptions.setBitsPerSample(new int[] { 8 });
-// utwórz zupełnie nowy obraz tylko do celów przykładowych
+// stworzyć zupełnie nowy obraz tylko w celach przykładowych
 try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(), rect.getHeight())))
 {
-	// utwórz instancję nagłówka XMP
+	// utwórz instancję XMP-Header
 	XmpHeaderPi xmpHeader = new XmpHeaderPi();
 	xmpHeader.setGuid(dataDir);
 	// utwórz instancję Xmp-TrailerPi
@@ -200,14 +202,14 @@ try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(),
 	XmpMeta xmpMeta = new XmpMeta();
 	xmpMeta.addAttribute("Author", "Mr Smith");
 	xmpMeta.addAttribute("Description", "The fake metadata value");
-	//utwórz instancję XmpPacketWrapper zawierającą wszystkie metadane
+	// utwórz instancję XmpPacketWrapper zawierającą wszystkie metadane
 	XmpPacketWrapper xmpData = new XmpPacketWrapper(xmpHeader, xmpTrailer, xmpMeta);
 	// utwórz instancję pakietu Photoshop i ustaw atrybuty Photoshopa
 	PhotoshopPackage photoshopPackage = new PhotoshopPackage();
 	photoshopPackage.setCity("London");
 	photoshopPackage.setCountry("England");
 	photoshopPackage.setColorMode(ColorMode.Rgb);
-	// dodaj pakiet Photoshopa do metadanych XMP
+	// dodaj pakiet photoshop do metadanych XMP
 	xmpData.addPackage(photoshopPackage);
 	// utwórz instancję pakietu DublinCore i ustaw atrybuty dublinCore
 	DublinCorePackage dublinCorePackage = new DublinCorePackage();
@@ -234,9 +236,11 @@ try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(),
 }
         
 ```
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
