@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Manipulation with Aspose.Imaging Java: Load, Crop EMF, and Convert to PNG
 
@@ -217,7 +219,11 @@ You've now mastered how to load, crop EMF files, and convert them to PNG using A
 - [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 Embrace the power of Aspose.Imaging Java to elevate your image processing capabilities today!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

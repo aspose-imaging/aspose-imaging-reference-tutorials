@@ -8,7 +8,9 @@ url: /net/advanced-drawing/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Advanced Drawing
@@ -44,9 +46,11 @@ So, why wait? Dive into the world of Aspose.Imaging for .NET and experience the 
 Explore image creation and manipulation with Aspose.Imaging for .NET. Learn to draw and edit images in C# with ease.
 ### [Draw Using GraphicsPath in Aspose.Imaging for .NET](./draw-using-graphicspath/)
 Create stunning graphics in .NET with Aspose.Imaging. Explore step-by-step tutorials and unlock the power of image processing.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

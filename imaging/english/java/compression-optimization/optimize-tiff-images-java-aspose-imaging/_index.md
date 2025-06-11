@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Optimize TIFF Image Loading and Resizing in Java with Aspose.Imaging
 
@@ -207,7 +209,11 @@ You've now learned how to efficiently load and resize TIFF images in Java using 
 - **Temporary License**: [Request Here](https://purchase.aspose.com/temporary-license/)
 
 With this guide, you're well-equipped to handle TIFF images efficiently in your Java applications using Aspose.Imaging. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

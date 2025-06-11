@@ -8,7 +8,9 @@ url: /net/image-format-conversion/convert-cdr-to-psd-multipage/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Convert CDR to PSD with Aspose.Imaging for .NET
@@ -131,6 +133,7 @@ A5: Yes, you can use Aspose.Imaging for .NET in your application without requiri
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

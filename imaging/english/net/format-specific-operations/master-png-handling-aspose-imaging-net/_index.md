@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering PNG Image Handling with Aspose.Imaging for .NET: A Comprehensive Tutorial
 
@@ -103,7 +105,11 @@ string outputDir = @"YOUR_OUTPUT_DIRECTORY";
 
 // Save the image with retained options
 image.Save(outputDir + "result.png\
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

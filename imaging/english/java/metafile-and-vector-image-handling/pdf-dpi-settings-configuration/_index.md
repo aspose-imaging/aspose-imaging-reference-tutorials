@@ -8,7 +8,9 @@ url: /java/metafile-and-vector-image-handling/pdf-dpi-settings-configuration/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Convert Images to PDF with Aspose.Imaging for Java
@@ -104,6 +106,7 @@ A5: Absolutely! You can modify the PDF options to suit your needs, such as adjus
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

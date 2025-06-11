@@ -8,7 +8,9 @@ url: /net/image-composition/combine-images/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Combine Images with Aspose.Imaging for .NET
@@ -142,6 +144,7 @@ A5: Absolutely. Aspose.Imaging for .NET is compatible with various .NET framewor
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

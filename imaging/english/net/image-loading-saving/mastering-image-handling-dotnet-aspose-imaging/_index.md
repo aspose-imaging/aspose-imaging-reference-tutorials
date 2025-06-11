@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Handling in .NET with Aspose.Imaging: Loading and Saving PNG Files
 
@@ -99,7 +101,11 @@ Learn how to save your loaded images in PNG format with specified rasterization 
 Set up the file path where you want to save your PNG image. Ensure `"YOUR_OUTPUT_DIRECTORY"` is correctly set.
 ```csharp
 string outputFileName = Path.Combine("YOUR_OUTPUT_DIRECTORY\
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

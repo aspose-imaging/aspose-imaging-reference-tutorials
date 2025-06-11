@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Aspose.Imaging Java: Load and Enhance DICOM Images
 
@@ -211,7 +213,11 @@ Ready to implement this solution? Try it out and see how it enhances your projec
 - [Support Forum](https://forum.aspose.com/c/imaging/10)
 
 With this tutorial, you're now equipped to enhance your Java applications with powerful image processing capabilities using Aspose.Imaging. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

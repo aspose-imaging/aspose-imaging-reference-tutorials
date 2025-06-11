@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Efficient SVG to PDF Conversion Using Aspose.Imaging .NET
 
@@ -238,7 +240,11 @@ public class SvgCallbackFontTest : SvgResourceKeeperCallback
 ### Tips for Optimizing Performance
 - Use efficient file handling practices, such as disposing of streams promptly after use.
 - Minimize memory usage by clearing unused objects and directories once processing is complete.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

@@ -13,7 +13,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Implementing Convolution Filters with Aspose.Imaging .NET: A Comprehensive Guide
 
@@ -228,7 +230,11 @@ By following this guide, you can effectively implement convolution filters using
 - Experiment with different kernels and filter combinations to see their effects on images.
 - Integrate these filtering techniques into larger projects or applications where image manipulation is required.
 - Explore Aspose.Imaging's other features, such as image conversion and metadata editing, to further enhance your toolkit.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

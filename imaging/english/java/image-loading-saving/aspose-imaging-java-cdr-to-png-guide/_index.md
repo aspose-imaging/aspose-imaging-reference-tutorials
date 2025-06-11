@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Aspose.Imaging Java: Loading and Saving CDR Files as PNG
 
@@ -205,7 +207,11 @@ A5: Visit the [Aspose support forum](https://forum.aspose.com/c/imaging/10) for 
 - **Support Forum:** Engage with the community for help at [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 Embark on your Aspose.Imaging Java journey today, and bring your digital imaging projects to life!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

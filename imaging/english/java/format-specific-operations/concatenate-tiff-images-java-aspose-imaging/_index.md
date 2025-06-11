@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Title: Mastering Image Processing: Concatenating TIFF Images with Aspose.Imaging Java
 
@@ -189,7 +191,11 @@ We encourage you to try implementing this solution in your projects! For further
 - [Support Forum](https://forum.aspose.com/c/imaging/10)
 
 This tutorial has equipped you with the knowledge to handle complex TIFF image concatenation tasks using Aspose.Imaging for Java. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

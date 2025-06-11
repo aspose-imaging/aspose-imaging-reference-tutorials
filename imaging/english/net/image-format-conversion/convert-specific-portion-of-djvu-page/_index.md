@@ -8,7 +8,9 @@ url: /net/image-format-conversion/convert-specific-portion-of-djvu-page/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Convert Specific Portion of DJVU Page in Aspose.Imaging for .NET
@@ -121,6 +123,7 @@ A5: You can get support and ask questions in the [Aspose.Imaging forum](https://
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

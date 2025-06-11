@@ -8,7 +8,9 @@ url: /net/basic-drawing/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Basic Drawing with Aspose.Imaging for .NET
@@ -58,9 +60,11 @@ Learn to draw ellipses in Aspose.Imaging for .NET, a versatile image manipulatio
 Learn how to draw precise lines in Aspose.Imaging for .NET. This step-by-step guide covers image creation, line drawing, and more.
 ### [Draw Rectangle in Aspose.Imaging for .NET](./draw-rectangle/)
 Learn to draw rectangles in Aspose.Imaging for .NET - a versatile tool for image manipulation in your .NET applications.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

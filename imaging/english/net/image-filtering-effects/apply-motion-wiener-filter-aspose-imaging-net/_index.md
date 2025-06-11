@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Apply the Motion Wiener Filter Using Aspose.Imaging for .NET
 
@@ -158,7 +160,11 @@ You've learned how to apply the Motion Wiener Filter using Aspose.Imaging for .N
 - **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
 
 Embark on your journey to mastering image processing with Aspose.Imaging for .NET today!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

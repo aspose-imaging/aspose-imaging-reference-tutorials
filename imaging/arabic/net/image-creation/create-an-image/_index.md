@@ -1,35 +1,37 @@
 ---
-title: إنشاء الصور باستخدام Aspose.Imaging لـ .NET
-linktitle: قم بإنشاء صورة باستخدام Aspose.Imaging لـ .NET
-second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
-description: تعرف على كيفية إنشاء الصور باستخدام Aspose.Imaging لـ .NET في هذا البرنامج التعليمي الشامل.
-weight: 10
-url: /ar/net/image-creation/create-an-image/
+"description": "تعرف على كيفية إنشاء الصور باستخدام Aspose.Imaging لـ .NET في هذا البرنامج التعليمي الشامل."
+"linktitle": "إنشاء صورة باستخدام Aspose.Imaging لـ .NET"
+"second_title": "واجهة برمجة تطبيقات معالجة الصور Aspose.Imaging .NET"
+"title": "إنشاء الصور باستخدام Aspose.Imaging لـ .NET"
+"url": "/ar/net/image-creation/create-an-image/"
+"weight": 10
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # إنشاء الصور باستخدام Aspose.Imaging لـ .NET
 
-في العصر الرقمي الحالي، يعد إنشاء الصور ومعالجتها متطلبًا شائعًا لمختلف التطبيقات. يعد Aspose.Imaging for .NET أداة قوية يمكنها مساعدتك في تحقيق هذه المهمة بسلاسة. في هذا البرنامج التعليمي، سنرشدك خلال عملية إنشاء صورة باستخدام Aspose.Imaging for .NET. قبل أن نتعمق في الخطوات، دعنا نتأكد من توفر جميع المتطلبات الأساسية لديك.
+في عصرنا الرقمي، يُعد إنشاء الصور ومعالجتها متطلبًا شائعًا لمختلف التطبيقات. يُعد Aspose.Imaging for .NET أداة فعّالة تُساعدك على إنجاز هذه المهمة بسلاسة. في هذا البرنامج التعليمي، سنشرح لك عملية إنشاء صورة باستخدام Aspose.Imaging for .NET. قبل الخوض في الخطوات، تأكد من توفر جميع المتطلبات الأساسية لديك.
 
 ## المتطلبات الأساسية
 
-قبل البدء في إنشاء الصور باستخدام Aspose.Imaging for .NET، تأكد من توفر المتطلبات الأساسية التالية:
+قبل البدء في إنشاء الصور باستخدام Aspose.Imaging لـ .NET، تأكد من توفر المتطلبات الأساسية التالية:
 
-1. Aspose.Imaging for .NET Library: تأكد من تثبيت Aspose.Imaging for .NET Library. يمكنك تنزيله من[هنا](https://releases.aspose.com/imaging/net/).
+1. مكتبة Aspose.Imaging لـ .NET: تأكد من تثبيت مكتبة Aspose.Imaging لـ .NET. يمكنك تنزيلها من [هنا](https://releases.aspose.com/imaging/net/).
 
-2. بيئة التطوير: أنت بحاجة إلى بيئة تطوير مثبت عليها إطار عمل .NET.
+2. بيئة التطوير: تحتاج إلى بيئة تطوير مع تثبيت إطار عمل .NET.
 
-3. IDE (بيئة التطوير المتكاملة): اختر IDE الذي يناسبك، مثل Visual Studio.
+3. IDE (بيئة التطوير المتكاملة): اختر IDE الذي تشعر بالراحة معه، مثل Visual Studio.
 
-الآن بعد أن أصبحت المتطلبات الأساسية جاهزة، دعنا ننتقل إلى خطوات إنشاء صورة باستخدام Aspose.Imaging for .NET.
+الآن بعد أن أصبحت المتطلبات الأساسية جاهزة، دعنا ننتقل إلى الخطوات اللازمة لإنشاء صورة باستخدام Aspose.Imaging لـ .NET.
 
 ## استيراد مساحات الأسماء
 
-أولاً، تحتاج إلى استيراد مساحات الأسماء الضرورية للعمل مع Aspose.Imaging. أضف مساحات الأسماء التالية في أعلى ملف C# الخاص بك:
+أولاً، عليك استيراد مساحات الأسماء اللازمة للعمل مع Aspose.Imaging. أضف مساحات الأسماء التالية في أعلى ملف C#:
 
 
 ```csharp
@@ -39,11 +41,11 @@ using Aspose.Imaging.ImageOptions;
 
 ## دليل خطوة بخطوة
 
-الآن، دعونا نقسم عملية إنشاء الصورة إلى خطوات متعددة.
+الآن، دعونا نقسم عملية إنشاء صورة إلى خطوات متعددة.
 
-## الخطوة 1: قم بتعيين دليل البيانات
+## الخطوة 1: تعيين دليل البيانات
 
- قم بتعيين المسار إلى دليل البيانات الخاص بك حيث تريد حفظ الصورة. يستبدل`"Your Document Directory"` مع مسار الدليل الفعلي الخاص بك.
+حدد المسار إلى دليل البيانات الذي تريد حفظ الصورة فيه. استبدل `"Your Document Directory"` مع مسار الدليل الفعلي الخاص بك.
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -51,7 +53,7 @@ string dataDir = "Your Document Directory";
 
 ## الخطوة 2: تكوين خيارات الصورة
 
- إنشاء مثيل ل`BmpOptions` وقم بتعيين خصائص مختلفة لصورتك، مثل البتات لكل بكسل.
+إنشاء مثيل لـ `BmpOptions` وتعيين خصائص مختلفة لصورتك، مثل عدد البتات لكل بكسل.
 
 ```csharp
 BmpOptions ImageOptions = new BmpOptions();
@@ -60,7 +62,7 @@ ImageOptions.BitsPerPixel = 24;
 
 ## الخطوة 3: تحديد خاصية المصدر
 
-تحديد الخاصية المصدر لمثيل`BmpOptions`. تحدد المعلمة المنطقية الثانية ما إذا كان الملف مؤقتًا أم لا.
+قم بتحديد خاصية المصدر للمثيل `BmpOptions`يحدد المعامل المنطقي الثاني ما إذا كان الملف مؤقتًا أم لا.
 
 ```csharp
 ImageOptions.Source = new FileCreateSource(dataDir + "CreatingAnImageBySettingPath_out.bmp", false);
@@ -68,7 +70,7 @@ ImageOptions.Source = new FileCreateSource(dataDir + "CreatingAnImageBySettingPa
 
 ## الخطوة 4: إنشاء الصورة
 
- إنشاء مثيل ل`Image` واتصل ب`Create` الطريقة عن طريق تمرير`BmpOptions` هدف. حدد أبعاد صورتك (على سبيل المثال، 500 × 500).
+إنشاء مثيل لـ `Image` و اتصل بـ `Create` الطريقة عن طريق تمرير `BmpOptions` الكائن. حدد أبعاد صورتك (على سبيل المثال، 500 × 500).
 
 ```csharp
 using (Image image = Image.Create(ImageOptions, 500, 500))
@@ -77,38 +79,40 @@ using (Image image = Image.Create(ImageOptions, 500, 500))
 }
 ```
 
-تهانينا! لقد نجحت في إنشاء صورة باستخدام Aspose.Imaging لـ .NET. يمكنك الآن استخدام هذه الصورة لأغراض مختلفة في تطبيقاتك.
+تهانينا! لقد أنشأت صورةً بنجاح باستخدام Aspose.Imaging لـ .NET. يمكنك الآن استخدام هذه الصورة لأغراضٍ مُختلفة في تطبيقاتك.
 
 ## خاتمة
 
-في هذا البرنامج التعليمي، تعلمنا كيفية إنشاء الصور باستخدام Aspose.Imaging لـ .NET. باستخدام المكتبة المناسبة وبضع خطوات بسيطة، يمكنك التعامل مع إنشاء الصور ومعالجتها بسهولة في تطبيقات .NET الخاصة بك.
+في هذا البرنامج التعليمي، تعلمنا كيفية إنشاء الصور باستخدام Aspose.Imaging لـ .NET. باستخدام المكتبة المناسبة وبضع خطوات بسيطة، يمكنك إنشاء الصور ومعالجتها بسهولة في تطبيقات .NET.
 
- هل لديك أي أسئلة أخرى أو تحتاج إلى مزيد من المساعدة؟ تحقق من وثائق Aspose.Imaging[هنا](https://reference.aspose.com/imaging/net/) أو لا تتردد في السؤال في منتدى مجتمع Aspose[هنا](https://forum.aspose.com/).
+هل لديك أي أسئلة أخرى أو تحتاج إلى مساعدة إضافية؟ اطلع على وثائق Aspose.Imaging. [هنا](https://reference.aspose.com/imaging/net/)أو لا تتردد في السؤال في منتدى مجتمع Aspose [هنا](https://forum.aspose.com/).
 
 ## الأسئلة الشائعة
 
-### س1: هل يتوافق Aspose.Imaging for .NET مع أحدث إصدارات .NET Framework؟
+### س1: هل Aspose.Imaging for .NET متوافق مع أحدث إصدارات .NET Framework؟
 
-ج1:نعم، يتم تحديث Aspose.Imaging for .NET بانتظام لضمان التوافق مع أحدث إصدارات .NET Framework.
+ج1:نعم، يتم تحديث Aspose.Imaging for .NET بانتظام لضمان التوافق مع أحدث إصدارات إطار عمل .NET.
 
-### س2: هل يمكنني إنشاء صور بتنسيقات مختلفة باستخدام Aspose.Imaging for .NET؟
+### س2: هل يمكنني إنشاء صور بتنسيقات مختلفة باستخدام Aspose.Imaging لـ .NET؟
 
 ج2: نعم، يمكنك إنشاء صور بتنسيقات مختلفة، بما في ذلك BMP وJPEG وPNG والمزيد.
 
-### س3: هل هناك أي خيارات ترخيص متاحة لـ Aspose.Imaging for .NET؟
+### س3: هل هناك أي خيارات ترخيص متاحة لـ Aspose.Imaging لـ .NET؟
 
- ج3: نعم، يمكنك استكشاف خيارات الترخيص وشراء المكتبة[هنا](https://purchase.aspose.com/buy).
+ج3: نعم، يمكنك استكشاف خيارات الترخيص وشراء المكتبة [هنا](https://purchase.aspose.com/buy).
 
-### س4: هل هناك إصدار تجريبي مجاني متاح لـ Aspose.Imaging for .NET؟
+### س4: هل هناك نسخة تجريبية مجانية متاحة لـ Aspose.Imaging لـ .NET؟
 
- ج4: نعم، يمكنك تنزيل نسخة تجريبية مجانية[هنا](https://releases.aspose.com/imaging/net/).
+ج4: نعم، يمكنك تنزيل نسخة تجريبية مجانية [هنا](https://releases.aspose.com/imaging/net/).
 
-### س5: ما هي خيارات الدعم المتوفرة لـ Aspose.Imaging for .NET؟
+### س5: ما خيارات الدعم المتوفرة لـ Aspose.Imaging لـ .NET؟
 
- ج5: يمكنك طلب الدعم والحصول على إجابات لأسئلتك في منتدى مجتمع Aspose[هنا](https://forum.aspose.com/).
+ج5: يمكنك طلب الدعم والحصول على إجابات لأسئلتك في منتدى مجتمع Aspose [هنا](https://forum.aspose.com/).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

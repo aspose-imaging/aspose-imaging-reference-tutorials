@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Aspose.Imaging .NET: Convert Vector Graphics to PNG Using Custom Fonts
 
@@ -218,6 +220,9 @@ Next steps? Try integrating these features into a sample project or explore addi
 - Increase the resolution settings in `PngOptions` to enhance image clarity.
 
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

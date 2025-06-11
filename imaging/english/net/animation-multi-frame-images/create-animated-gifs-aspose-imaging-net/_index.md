@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Create Animated GIFs Using Aspose.Imaging .NET: A Comprehensive Guide
 
@@ -159,7 +161,11 @@ Next steps include experimenting with different frame sequences and exploring ad
 - **Support**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 Take these resources and start creating dynamic GIFs today!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

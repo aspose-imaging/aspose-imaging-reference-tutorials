@@ -4,8 +4,11 @@ description: "Step-by-step tutorials for Aspose.Imaging installation, licensing,
 weight: 1
 url: "/net/getting-started/"
 ---
+
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Aspose.Imaging Getting Started Tutorials for .NET Developers
 
@@ -36,7 +39,11 @@ Learn how to efficiently load, cache, and binarize images using Otsu threshold w
 - [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging)
 - [Free Support](https://forum.aspose.com/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

@@ -1,21 +1,23 @@
 ---
-title: تحويل ملفات تعريف WMF إلى رسومات متجهة قابلة للتطوير
-linktitle: تحويل ملفات تعريف WMF إلى رسومات متجهة قابلة للتطوير
-second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
-description: تعرف على كيفية تحويل صور WMF إلى SVG في Java باستخدام Aspose.Imaging. اتبع دليلنا خطوة بخطوة لتحويل تنسيق الصور بكفاءة.
-weight: 15
-url: /ar/java/image-conversion-and-optimization/convert-wmf-metafiles-to-scalable-vector-graphics/
+"description": "تعرّف على كيفية تحويل صور WMF إلى SVG في جافا باستخدام Aspose.Imaging. اتبع دليلنا خطوة بخطوة لتحويل صيغ الصور بكفاءة."
+"linktitle": "تحويل ملفات WMF التعريفية إلى رسومات متجهية قابلة للتطوير"
+"second_title": "واجهة برمجة تطبيقات معالجة الصور Java Aspose.Imaging"
+"title": "تحويل ملفات WMF التعريفية إلى رسومات متجهية قابلة للتطوير"
+"url": "/ar/java/image-conversion-and-optimization/convert-wmf-metafiles-to-scalable-vector-graphics/"
+"weight": 15
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# تحويل ملفات تعريف WMF إلى رسومات متجهة قابلة للتطوير
+# تحويل ملفات WMF التعريفية إلى رسومات متجهية قابلة للتطوير
 
 ## مقدمة
 
-مرحبًا بك في دليلنا خطوة بخطوة حول كيفية تحويل صور WMF (ملف تعريف Windows) إلى SVG (رسومات متجهة قابلة للتحجيم) باستخدام Aspose.Imaging for Java. سواء كنت مطورًا متمرسًا أو بدأت للتو، سيزودك هذا البرنامج التعليمي بجميع المعلومات الأساسية التي تحتاجها لأداء هذه المهمة بكفاءة.
+مرحبًا بكم في دليلنا المفصل حول كيفية تحويل صور WMF (ملفات تعريف ويندوز) إلى SVG (رسومات متجهية قابلة للتطوير) باستخدام Aspose.Imaging لجافا. سواء كنت مطورًا محترفًا أو مبتدئًا، سيوفر لك هذا البرنامج التعليمي جميع المعلومات الأساسية اللازمة لأداء هذه المهمة بكفاءة.
 
 ## المتطلبات الأساسية
 
@@ -23,15 +25,15 @@ url: /ar/java/image-conversion-and-optimization/convert-wmf-metafiles-to-scalabl
 
 1. بيئة تطوير Java: تأكد من تثبيت Java بشكل صحيح على نظامك.
 
-2.  مكتبة Aspose.Imaging: ستحتاج إلى مكتبة Aspose.Imaging لـ Java. يمكنك تنزيله من[هنا](https://releases.aspose.com/imaging/java/).
+2. مكتبة Aspose.Imaging: ستحتاج إلى مكتبة Aspose.Imaging لجافا. يمكنك تنزيلها من [هنا](https://releases.aspose.com/imaging/java/).
 
-3. IDE (بيئة التطوير المتكاملة): نوصي باستخدام Java IDEs الشائعة مثل Eclipse أو IntelliJ IDEA أو NetBeans لهذا البرنامج التعليمي.
+3. بيئة التطوير المتكاملة (IDE): نوصي باستخدام بيئات التطوير المتكاملة Java الشائعة مثل Eclipse أو IntelliJ IDEA أو NetBeans لهذا البرنامج التعليمي.
 
-الآن، دعونا نبدأ مع الدليل خطوة بخطوة.
+الآن، دعونا نبدأ بالدليل خطوة بخطوة.
 
 ## الخطوة 1: استيراد الحزم
 
-في كود Java الخاص بك، يجب عليك استيراد حزم Aspose.Imaging الضرورية للعمل مع ملفات WMF وSVG. أضف الواردات التالية في بداية ملف Java الخاص بك:
+في شيفرة جافا، يجب استيراد حزم Aspose.Imaging اللازمة للعمل مع ملفات WMF وSVG. أضف الاستيرادات التالية في بداية ملف جافا:
 
 ```java
 import com.aspose.imaging.Image;
@@ -39,9 +41,9 @@ import com.aspose.imaging.imageoptions.SvgOptions;
 import com.aspose.imaging.imageoptions.WmfRasterizationOptions;
 ```
 
-## الخطوة 2: قم بتحميل صورة WMF
+## الخطوة 2: تحميل صورة WMF
 
-بعد ذلك، تحتاج إلى تحميل صورة WMF التي تريد تحويلها إلى SVG. وإليك كيف يمكنك القيام بذلك:
+بعد ذلك، عليك تحميل صورة WMF التي تريد تحويلها إلى SVG. إليك الطريقة:
 
 ```java
 // المسار إلى دليل المستندات.
@@ -49,13 +51,13 @@ String dataDir = "Your Document Directory" + "ModifyingImages/";
 
 // قم بإنشاء مثيل لفئة الصورة عن طريق تحميل ملف WMF موجود.
 try (Image image = Image.load(dataDir + "input.wmf")) {
-    // الكود الخاص بك يذهب هنا ...
+    // الكود الخاص بك يذهب هنا...
 }
 ```
 
-## الخطوة 3: تعيين خيارات التنقيط
+## الخطوة 3: تعيين خيارات التحويل النقطي
 
- لتخصيص مخرجات SVG، قم بإنشاء مثيل لـ`WmfRasterizationOptions` فصل. تتيح لك هذه الخطوة تحديد عرض الصفحة وارتفاعها لصورة SVG.
+لتخصيص إخراج SVG، قم بإنشاء مثيل لـ `WmfRasterizationOptions` تسمح لك هذه الخطوة بتحديد عرض الصفحة وارتفاع صورة SVG.
 
 ```java
 final WmfRasterizationOptions options = new WmfRasterizationOptions();
@@ -63,46 +65,48 @@ options.setPageWidth(image.getWidth()); // ضبط عرض الصفحة
 options.setPageHeight(image.getHeight()); // ضبط ارتفاع الصفحة
 ```
 
-## الخطوة 4: احفظ بصيغة SVG
+## الخطوة 4: الحفظ بتنسيق SVG
 
- حان الوقت الآن لحفظ صورة WMF كملف SVG. تتضمن هذه الخطوة استدعاء`save` الطريقة وتمرير اسم ملف الإخراج و`SvgOptions` مثيل الطبقة.
+الآن، حان وقت حفظ صورة WMF كملف SVG. تتضمن هذه الخطوة استدعاء `save` الطريقة وتمرير اسم ملف الإخراج و `SvgOptions` مثال للفصل.
 
 ```java
 image.save("Your Document Directory" + "ConvertWMFMetaFileToSVG_out.svg", new SvgOptions() {{ setVectorRasterizationOptions(options); }});
 ```
 
-هذا كل شيء! لقد نجحت في تحويل صورة WMF إلى ملف SVG باستخدام Aspose.Imaging for Java.
+هذا كل شيء! لقد نجحت في تحويل صورة WMF إلى ملف SVG باستخدام Aspose.Imaging لـ Java.
 
 ## خاتمة
 
-في هذا البرنامج التعليمي، قمنا بإرشادك خلال عملية تحويل ملفات تعريف WMF إلى رسومات متجهة قابلة للتحجيم (SVG) في Java باستخدام Aspose.Imaging. باستخدام الأدوات المناسبة وهذه الخطوات سهلة المتابعة، يمكنك التعامل مع تحويلات تنسيقات الصور دون عناء. 
+في هذا البرنامج التعليمي، شرحنا لك عملية تحويل ملفات WMF إلى رسومات متجهية قابلة للتطوير (SVG) في جافا باستخدام Aspose.Imaging. باستخدام الأدوات المناسبة وهذه الخطوات السهلة، يمكنك تحويل صيغ الصور بسهولة. 
 
- أنت الآن جاهز لإطلاق العنان لإبداعك باستخدام صور SVG متعددة الاستخدامات وقابلة للتطوير. لمزيد من المعلومات ووثائق API التفصيلية، قم بزيارة[Aspose.Imaging لوثائق جافا](https://reference.aspose.com/imaging/java/).
+أنت الآن جاهز لإطلاق العنان لإبداعك مع صور SVG متعددة الاستخدامات وقابلة للتطوير. لمزيد من المعلومات ووثائق واجهة برمجة التطبيقات المفصلة، تفضل بزيارة [توثيق Aspose.Imaging لـ Java](https://reference.aspose.com/imaging/java/).
 
 ## الأسئلة الشائعة
 
 ### س1: هل Aspose.Imaging لـ Java مجاني؟
 
- A1: لا، Aspose.Imaging هي مكتبة تجارية. يمكنك الحصول على نسخة تجريبية مجانية من[هنا](https://releases.aspose.com/) ، أو فكر في شراء ترخيص من[هنا](https://purchase.aspose.com/buy).
+ج١: لا، Aspose.Imaging مكتبة تجارية. يمكنك الحصول على نسخة تجريبية مجانية من [هنا](https://releases.aspose.com/)أو فكر في شراء ترخيص من [هنا](https://purchase.aspose.com/buy).
 
-### س2: هل يمكنني استخدام Aspose.Imaging for Java في مشاريعي التجارية؟
+### س2: هل يمكنني استخدام Aspose.Imaging لـ Java في مشاريعي التجارية؟
 
-ج2: نعم، يمكنك استخدام Aspose.Imaging for Java في المشاريع التجارية عن طريق الحصول على ترخيص صالح.
+ج2: نعم، يمكنك استخدام Aspose.Imaging for Java في المشاريع التجارية من خلال الحصول على ترخيص صالح.
 
-### س3: ما هي تنسيقات الصور الأخرى التي يمكنني تحويلها باستخدام Aspose.Imaging for Java؟
+### س3: ما هي تنسيقات الصور الأخرى التي يمكنني تحويلها باستخدام Aspose.Imaging لـ Java؟
 
-A3: يدعم Aspose.Imaging نطاقًا واسعًا من تنسيقات الصور، بما في ذلك BMP وJPEG وPNG وTIFF والمزيد.
+A3: يدعم Aspose.Imaging مجموعة واسعة من تنسيقات الصور، بما في ذلك BMP وJPEG وPNG وTIFF والمزيد.
 
 ### س4: هل يوجد منتدى مجتمعي لدعم Aspose.Imaging؟
 
- ج4: نعم، يمكنك العثور على منتدى مجتمعي للحصول على الدعم والمناقشات على[Aspose.منتدى التصوير](https://forum.aspose.com/).
+ج4: نعم، يمكنك العثور على منتدى مجتمعي للدعم والمناقشات على [منتدى Aspose.Imaging](https://forum.aspose.com/).
 
-### س5: ما هو إصدار Java المتوافق مع Aspose.Imaging for Java؟
+### س5: ما هو إصدار Java المتوافق مع Aspose.Imaging لـ Java؟
 
 A5: Aspose.Imaging for Java متوافق مع Java 8 والإصدارات الأحدث.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

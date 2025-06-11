@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Convert CDR to PDF Using Aspose.Imaging for .NET: A Step-by-Step Guide
 
@@ -179,7 +181,11 @@ In this tutorial, we explored how to convert CDR files into PDFs using Aspose.Im
 - **Download**: [Latest Releases](https://releases.aspose.com/imaging/net/)
 - **Purchase**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Aspose.Imaging](https://purchase.aspose.com/pricing)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

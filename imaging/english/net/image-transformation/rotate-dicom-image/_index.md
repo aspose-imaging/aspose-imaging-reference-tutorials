@@ -8,7 +8,9 @@ url: /net/image-transformation/rotate-dicom-image/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Rotate DICOM Images with Aspose.Imaging for .NET
@@ -104,6 +106,7 @@ A5: Yes, you can explore licensing options, including a free trial and purchasin
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

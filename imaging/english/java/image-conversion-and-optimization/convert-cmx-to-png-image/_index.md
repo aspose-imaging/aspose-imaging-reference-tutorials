@@ -8,7 +8,9 @@ url: /java/image-conversion-and-optimization/convert-cmx-to-png-image/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Convert CMX to PNG with Aspose.Imaging for Java
@@ -118,6 +120,7 @@ A5: Common use cases include creating web graphics, preparing images for printin
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

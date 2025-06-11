@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Rotate DICOM Images Using Aspose.Imaging .NET: A Developer's Guide
 
@@ -151,7 +153,11 @@ Visit [Aspose Purchase](https://purchase.aspose.com/buy) for information on purc
 - **Download:** Get the latest version of Aspose.Imaging from [Releases Page](https://releases.aspose.com/imaging/net/).
 - **Purchase and Licensing:** More details on purchasing options are available at [Purchase](https://purchase.aspose.com/buy) and [Temporary License](https://purchase.aspose.com/temporary-license/).
 - **Support:** For questions or issues, visit the [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Change PNG Background Color in Java with Aspose.Imaging
 
@@ -205,7 +207,11 @@ Ready to put what you've learned into practice? Try implementing the solution in
 - **Temporary License**: Apply for one at [Aspose Temporary License](https://purchase.aspose.com/temporary-license/)
 
 Embark on your next image processing project confidently, knowing you have the tools and knowledge to succeed!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

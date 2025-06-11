@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering DICOM Image Processing with Aspose.Imaging for Java
 
@@ -183,7 +185,11 @@ Take the plunge and try implementing this solution today!
 - **Support:** Join discussions and seek help on the [Aspose Forum](https://forum.aspose.com/c/imaging/10).
 
 By following this guide, you'll be well-equipped to handle DICOM images with ease using Aspose.Imaging for Java. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

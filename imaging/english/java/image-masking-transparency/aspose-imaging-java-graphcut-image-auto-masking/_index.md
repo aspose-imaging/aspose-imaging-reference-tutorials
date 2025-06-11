@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Auto-Masking with Aspose.Imaging Java Using the GraphCut Method
 
@@ -239,7 +241,11 @@ A: The free trial allows you to test all functionalities, but it includes a wate
 - **Support**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
 
 Embark on your journey to mastering image auto-masking with Aspose.Imaging and Java today!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

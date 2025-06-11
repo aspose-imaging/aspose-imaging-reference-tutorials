@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Save TIFF Stream Data Using Aspose.Imaging in .NET
 
@@ -156,6 +158,9 @@ Utilize buffered streams and ensure proper disposal of resources to maintain opt
 This guide is designed to help you harness the full potential of Aspose.Imaging for your .NET projects. Happy coding!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

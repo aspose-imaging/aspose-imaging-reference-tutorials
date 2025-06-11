@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Resizing in .NET with Aspose.Imaging: A Comprehensive Guide
 
@@ -154,7 +156,11 @@ As next steps, consider exploring other features of Aspose.Imaging or delve deep
 - **Support**: https://forum.aspose.com/c/imaging/10
 
 Embark on your journey to mastering image processing with Aspose.Imaging today!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

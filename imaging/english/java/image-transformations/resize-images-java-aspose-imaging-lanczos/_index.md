@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Resize Images in Java Using Aspose.Imaging and the Lanczos Method
 
@@ -195,7 +197,11 @@ Ready to put your skills into action? Try implementing this solution in your nex
 - [Support Forum](https://forum.aspose.com/c/imaging/10)
 
 Embark on your image processing journey with confidence by leveraging Aspose.Imaging for Java and the powerful Lanczos resampling method!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

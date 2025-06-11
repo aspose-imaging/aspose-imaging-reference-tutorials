@@ -1,33 +1,35 @@
 ---
-title: قم بتحويل APS إلى PSD باستخدام Aspose.Imaging لـ .NET
-linktitle: تحويل APS إلى PSD في Aspose.Imaging لـ .NET
-second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
-description: قم بتحويل APS إلى PSD باستخدام Aspose.Imaging لـ .NET. الحفاظ على خصائص المتجهات أثناء التحويل.
-weight: 11
-url: /ar/net/advanced-features/convert-aps-to-psd/
+"description": "حوّل APS إلى PSD باستخدام Aspose.Imaging لـ .NET. حافظ على خصائص المتجهات أثناء التحويل."
+"linktitle": "تحويل APS إلى PSD في Aspose.Imaging لـ .NET"
+"second_title": "واجهة برمجة تطبيقات معالجة الصور Aspose.Imaging .NET"
+"title": "تحويل APS إلى PSD باستخدام Aspose.Imaging لـ .NET"
+"url": "/ar/net/advanced-features/convert-aps-to-psd/"
+"weight": 11
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# قم بتحويل APS إلى PSD باستخدام Aspose.Imaging لـ .NET
+# تحويل APS إلى PSD باستخدام Aspose.Imaging لـ .NET
 
-هل تتطلع إلى تحويل ملفات APS إلى تنسيق PSD بسهولة مع الحفاظ على خصائص المتجهات؟ Aspose.Imaging for .NET موجود هنا لتبسيط مهمتك. وفي هذا الدليل التفصيلي، سنوضح لك كيفية تحقيق هذا التحويل. 
+هل تبحث عن تحويل ملفات APS إلى PSD بسهولة مع الحفاظ على خصائص المتجهات؟ Aspose.Imaging for .NET هنا لتبسيط مهمتك. في هذا الدليل المفصل، سنوضح لك كيفية تحقيق هذا التحويل. 
 
 ## المتطلبات الأساسية
 
-قبل أن نتعمق في هذه العملية، تأكد من توفر المتطلبات الأساسية التالية:
+قبل أن نتعمق في العملية، تأكد من أن لديك المتطلبات الأساسية التالية:
 
-1.  Aspose.Imaging لـ .NET Library: أنت بحاجة إلى تنزيل وتثبيت مكتبة Aspose.Imaging لـ .NET. يمكنك الحصول عليه من[صفحة التحميل](https://releases.aspose.com/imaging/net/).
+1. مكتبة Aspose.Imaging لـ .NET: عليك تنزيل وتثبيت مكتبة Aspose.Imaging لـ .NET. يمكنك الحصول عليها من [صفحة التحميل](https://releases.aspose.com/imaging/net/).
 
-2. دليل المستندات الخاص بك: تأكد من أن المسار إلى دليل المستندات الخاص بك جاهز. هذا هو المكان الذي يوجد فيه ملف APS.
+2. دليل مستنداتك: تأكد من إعداد مسار دليل مستنداتك. هذا هو مكان ملف APS.
 
-3. المعرفة الأساسية بـ C#: يعد الإلمام بلغة البرمجة C# أمرًا ضروريًا لتنفيذ عملية التحويل.
+3. المعرفة الأساسية بلغة البرمجة C#: تعتبر المعرفة بلغة البرمجة C# ضرورية لتنفيذ عملية التحويل.
 
 ## استيراد مساحات الأسماء
 
-لنبدأ باستيراد مساحات الأسماء الضرورية للعمل مع Aspose.Imaging لـ .NET. تأكد من إضافة المرجع إلى مكتبة Aspose.Imaging في مشروعك.
+لنبدأ باستيراد مساحات الأسماء اللازمة للعمل مع Aspose.Imaging لـ .NET. تأكد من إضافة المرجع إلى مكتبة Aspose.Imaging في مشروعك.
 
 ```csharp
 using Aspose.Imaging;
@@ -35,9 +37,9 @@ using Aspose.Imaging.ImageOptions;
 using Aspose.Imaging.Vectorization;
 ```
 
-## الخطوة 1: قم بتحميل ملف APS
+## الخطوة 1: تحميل ملف APS
 
-ابدأ بتحميل ملف APS الذي تريد تحويله إلى PSD. ستحدد أيضًا المسار إلى دليل المستند حيث يوجد ملف APS.
+ابدأ بتحميل ملف APS الذي تريد تحويله إلى PSD. حدد أيضًا مسار مجلد المستندات الذي يحتوي على ملف APS.
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -51,7 +53,7 @@ using (Image image = Image.Load(inputFileName))
 
 ## الخطوة 2: تكوين خيارات التحويل
 
-في هذه الخطوة، تحتاج إلى إعداد خيارات التحويل لتصدير ملف APS إلى تنسيق PSD. يوفر Aspose.Imaging خيارات متنوعة لتحويل الصور المتجهة.
+في هذه الخطوة، عليك ضبط خيارات التحويل لتصدير ملف APS إلى صيغة PSD. يوفر Aspose.Imaging خيارات متنوعة لتحويل الصور المتجهة.
 
 ```csharp
 PsdOptions imageOptions = new PsdOptions()
@@ -67,9 +69,9 @@ imageOptions.VectorRasterizationOptions.PageWidth = image.Width;
 imageOptions.VectorRasterizationOptions.PageHeight = image.Height;
 ```
 
-## الخطوة 3: احفظ ملف PSD
+## الخطوة 3: حفظ ملف PSD
 
-حان الوقت الآن لحفظ ملف PSD المحول إلى الموقع الذي تريده.
+الآن، حان الوقت لحفظ ملف PSD المُحوّل في الموقع المطلوب.
 
 ```csharp
 image.Save(dataDir + "result.psd", imageOptions);
@@ -77,7 +79,7 @@ image.Save(dataDir + "result.psd", imageOptions);
 
 ## الخطوة 4: التنظيف
 
-بعد اكتمال التحويل، قد ترغب في حذف ملف PSD المؤقت الذي تم إنشاؤه أثناء العملية.
+بعد اكتمال عملية التحويل، قد ترغب في حذف ملف PSD المؤقت الذي تم إنشاؤه أثناء العملية.
 
 ```csharp
 File.Delete(dataDir + "result.psd");
@@ -85,33 +87,35 @@ File.Delete(dataDir + "result.psd");
 
 ## خاتمة
 
-يعد تحويل تنسيق APS إلى تنسيق PSD باستخدام Aspose.Imaging لـ .NET أمرًا مباشرًا وفعالاً. تسمح لك هذه المكتبة القوية بالحفاظ على خصائص المتجهات أثناء التحويل، مما يجعلها أداة قيمة لمصممي الجرافيك والمطورين على حدٍ سواء.
+تحويل APS إلى PSD باستخدام Aspose.Imaging لـ .NET سهل وفعال. تتيح لك هذه المكتبة القوية الحفاظ على خصائص المتجهات أثناء التحويل، مما يجعلها أداة قيّمة لمصممي الجرافيك والمطورين على حد سواء.
 
 ## الأسئلة الشائعة
 
-### س1: هل يعتبر Aspose.Imaging for .NET مكتبة مجانية؟
+### س1: هل Aspose.Imaging لـ .NET مكتبة مجانية؟
 
- A1: Aspose.Imaging for .NET هي مكتبة تجارية. يمكنك استكشاف خيارات الترخيص على[صفحة الشراء](https://purchase.aspose.com/buy).
+ج١: Aspose.Imaging لـ .NET هي مكتبة تجارية. يمكنك استكشاف خيارات الترخيص على [صفحة الشراء](https://purchase.aspose.com/buy).
 
 ### س2: هل يمكنني تجربة Aspose.Imaging لـ .NET قبل شرائه؟
 
- ج2: نعم، يمكنك الحصول على نسخة تجريبية مجانية من Aspose.Imaging لـ .NET من[صفحة تجريبية](https://releases.aspose.com/imaging/net/).
+ج2: نعم، يمكنك الحصول على نسخة تجريبية مجانية من Aspose.Imaging لـ .NET من [صفحة التجربة](https://releases.aspose.com/imaging/net/).
 
 ### س3: ما هي تنسيقات الصور المتجهة المدعومة للتحويل إلى PSD؟
 
-ج3: يدعم Aspose.Imaging for .NET تحويل تنسيقات الصور المتجهة مثل CDR وEMF وEPS وODG وSVG وWMF إلى تنسيق PSD.
+A3: يدعم Aspose.Imaging for .NET تحويل تنسيقات الصور المتجهة مثل CDR، وEMF، وEPS، وODG، وSVG، وWMF إلى تنسيق PSD.
 
-### س 4: هل هناك أي قيود على مدى تعقيد الأشكال أثناء التحويل؟
+### س4: هل هناك أي قيود على تعقيد الأشكال أثناء التحويل؟
 
-ج4: حاليًا، يدعم Aspose.Imaging تصدير الأشكال غير المعقدة جدًا بدون فرش الملمس أو الأشكال المفتوحة ذات الحد. ومع ذلك، قد يتم تحسين هذا في الإصدارات القادمة.
+ج٤: حاليًا، يدعم Aspose.Imaging تصدير الأشكال البسيطة بدون فرش نسيجية، أو الأشكال المفتوحة ذات الخطوط العريضة. مع ذلك، قد يتم تحسين هذه الميزة في الإصدارات القادمة.
 
-### س5: أين يمكنني الحصول على الدعم أو طرح الأسئلة المتعلقة بـ Aspose.Imaging for .NET؟
+### س5: أين يمكنني الحصول على الدعم أو طرح الأسئلة المتعلقة بـ Aspose.Imaging لـ .NET؟
 
- ج5: إذا كانت لديك أية أسئلة أو كنت بحاجة إلى الدعم، فيمكنك زيارة[Aspose.منتديات التصوير](https://forum.aspose.com/)للمساعدة.
+ج5: إذا كان لديك أي أسئلة أو تحتاج إلى دعم، يمكنك زيارة [منتديات Aspose.Imaging](https://forum.aspose.com/) للحصول على المساعدة.
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

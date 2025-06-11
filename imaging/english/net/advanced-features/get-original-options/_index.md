@@ -8,7 +8,9 @@ url: /net/advanced-features/get-original-options/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Mastering Aspose.Imaging for .NET A Guide to Getting Original Image Options
@@ -123,6 +125,7 @@ A5: Yes, Aspose.Imaging for .NET is designed to cater to the needs of both begin
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

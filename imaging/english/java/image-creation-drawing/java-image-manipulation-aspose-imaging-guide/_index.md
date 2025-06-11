@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Java Image Manipulation with Aspose.Imaging: A Comprehensive Guide
 
@@ -251,7 +253,11 @@ A5: You can use the `setTransparentColor()` method, specifying the color you wis
 - **Support Forum**: [Ask Questions](https://forum.aspose.com/c/imaging/10)
 
 We hope this guide has been helpful in your journey with Java image manipulation using Aspose.Imaging. If you have any questions, feel free to reach out through the support forum or check the documentation for more detailed information. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

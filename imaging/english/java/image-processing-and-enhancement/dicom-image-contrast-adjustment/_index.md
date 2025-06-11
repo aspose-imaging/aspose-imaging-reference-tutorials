@@ -8,7 +8,9 @@ url: /java/image-processing-and-enhancement/dicom-image-contrast-adjustment/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # DICOM Image Contrast Adjustment with Aspose.Imaging for Java
@@ -112,6 +114,7 @@ A5: You can find documentation and support on the [Aspose.Imaging for Java forum
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

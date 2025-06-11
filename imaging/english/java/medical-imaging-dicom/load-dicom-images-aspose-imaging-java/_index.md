@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Load a DICOM Image Using Aspose.Imaging Java: A Complete Guide
 
@@ -177,7 +179,11 @@ Visit the [Aspose forums](https://forum.aspose.com/c/imaging/10) for support and
 - **Support:** Join the Aspose community on their support forum for assistance.
 
 By following this guide, you're well-equipped to start leveraging Aspose.Imaging's capabilities in your Java applications. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Create Indexed PSD Files Using Aspose.Imaging for .NET: A Step-by-Step Guide
 
@@ -156,7 +158,11 @@ Ready to explore more? Try implementing the solution in a real-world scenario!
 - **Support Forum:** [Aspose Support](https://forum.aspose.com/c/imaging/10)
 
 Embark on your imaging journey with Aspose.Imaging today, and unlock new possibilities in digital image manipulation!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

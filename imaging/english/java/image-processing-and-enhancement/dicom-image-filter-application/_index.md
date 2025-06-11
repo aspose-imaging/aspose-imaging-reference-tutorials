@@ -8,7 +8,9 @@ url: /java/image-processing-and-enhancement/dicom-image-filter-application/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # DICOM Image Filtering with Aspose.Imaging for Java
@@ -119,6 +121,7 @@ A5: You can visit the Aspose.Imaging community forum [here](https://forum.aspose
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

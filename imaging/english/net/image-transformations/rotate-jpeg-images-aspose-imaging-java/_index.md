@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Rotate JPEG Images Using Aspose.Imaging in Java: A Step-by-Step Guide
 
@@ -182,6 +184,9 @@ For more information and to explore further:
 - **Free Trial and Temporary License**: Check out trial options at the [Downloads Section](https://releases.aspose.com/imaging/net/) or acquire a temporary license via the [License Request Form](https://purchase.aspose.com/temporary-license)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

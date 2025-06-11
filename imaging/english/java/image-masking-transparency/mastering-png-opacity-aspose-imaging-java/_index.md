@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Transparency: Implementing Aspose.Imaging Java to Display PNG Opacity
 
@@ -185,7 +187,11 @@ Ready to explore further? Try implementing this solution and see how it transfor
 - **Support**: Join discussions and ask questions on the [Aspose forum](https://forum.aspose.com/c/imaging/10).
 
 With this comprehensive guide, you're now ready to master image transparency in Java using Aspose.Imaging. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

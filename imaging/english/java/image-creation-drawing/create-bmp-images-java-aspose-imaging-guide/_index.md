@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Create BMP Images with Aspose.Imaging in Java: A Step-by-Step Guide
 
@@ -247,7 +249,11 @@ Next steps include exploring more features of Aspose.Imaging or integrating it i
 - **Support:** [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 By following this guide, you should now have a solid foundation for using Aspose.Imaging in your Java projects to create and manage BMP images efficiently.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

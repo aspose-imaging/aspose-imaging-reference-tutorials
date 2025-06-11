@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Load, Crop, and Save a DICOM Image as BMP Using Aspose.Imaging for Java
 
@@ -228,7 +230,11 @@ In this tutorial, we explored how to load, crop, and save DICOM images using Asp
 - **Support**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 With this comprehensive guide, you are now equipped to implement DICOM image processing in Java using Aspose.Imaging. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

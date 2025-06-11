@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Aspose.Imaging Java: Efficient Image Load and Crop
 
@@ -200,7 +202,11 @@ Visit [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) for assistan
 - **Temporary License**: Obtain a temporary license for evaluation through the [Purchase Page](https://purchase.aspose.com/temporary-license/).
 
 Start implementing these features today and experience enhanced image processing capabilities in your Java applications. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Create a TIFF Image with AdobeDeflate Compression Using Aspose.Imaging for .NET
 
@@ -183,7 +185,11 @@ Explore more about Aspose.Imaging with these resources:
 - [Support Forum](https://forum.aspose.com/c/imaging/10)
 
 By following this guide, you're well-equipped to create and manage TIFF images with AdobeDeflate compression using Aspose.Imaging for .NET. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

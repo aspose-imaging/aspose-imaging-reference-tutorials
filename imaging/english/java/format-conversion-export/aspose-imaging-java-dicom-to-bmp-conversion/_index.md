@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Load and Resave DICOM Images as BMP Using Aspose.Imaging Java
 
@@ -187,7 +189,11 @@ In this tutorial, you’ve learned how to load DICOM images and convert them to 
 - [Support Forum](https://forum.aspose.com/c/imaging/10)
 
 By following this guide, you should now be well-equipped to handle DICOM images using Aspose.Imaging for Java. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

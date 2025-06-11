@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Processing with Aspose.Imaging Java: Convert and Save JPEG Images
 
@@ -264,7 +266,11 @@ You've learned how to save JPEG images with CMYK and YCCK profiles and convert t
 - **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
 
 By following this guide, you can effectively use Aspose.Imaging Java to manage and convert JPEG images in your projects. Try it out today!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

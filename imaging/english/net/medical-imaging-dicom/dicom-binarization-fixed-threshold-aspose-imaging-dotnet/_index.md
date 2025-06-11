@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Implement DICOM Image Binarization with Fixed Threshold Using Aspose.Imaging .NET
 
@@ -181,6 +183,9 @@ In this tutorial, we covered how to implement DICOM binarization using a fixed t
 - [Temporary License](https://purchase.aspose.com/temporary-license)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

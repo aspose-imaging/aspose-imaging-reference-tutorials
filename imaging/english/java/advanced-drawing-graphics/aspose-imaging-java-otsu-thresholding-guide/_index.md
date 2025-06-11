@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Master Image Processing in Java: An In-depth Guide to Aspose.Imaging for Java
 
@@ -217,7 +219,11 @@ Next steps include integrating this functionality into your projects and experim
 - **Download**: Get the latest library version from [Aspose releases](https://releases.aspose.com/imaging/java/).
 - **Purchase**: Learn more about licensing options on [Aspose's purchase page](https://purchase.aspose.com/buy).
 - **Free Trial & Temporary License**: Try Aspose.Imaging with a free trial or request a temporary license at [Aspose Licensing](https://purchase.aspose.com/temporary-license/).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

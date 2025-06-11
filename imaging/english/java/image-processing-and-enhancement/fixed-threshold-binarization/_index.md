@@ -8,7 +8,9 @@ url: /java/image-processing-and-enhancement/fixed-threshold-binarization/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Master Fixed Threshold Binarization with Aspose.Imaging for Java
@@ -129,6 +131,7 @@ A5: Absolutely! Aspose.Imaging for Java offers a wide range of image processing 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

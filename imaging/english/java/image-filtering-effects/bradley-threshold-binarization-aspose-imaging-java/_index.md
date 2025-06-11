@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Binarization Using the Bradley Threshold Algorithm with Aspose.Imaging for Java
 
@@ -206,7 +208,11 @@ A5: Consider optimizing your Java environment for memory management and explore 
 - [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 Explore these resources to deepen your understanding and enhance your image processing projects with Aspose.Imaging for Java. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

@@ -8,7 +8,9 @@ url: /net/vector-image-processing/draw-raster-image-on-svg/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # How to Draw a Raster Image on SVG in Aspose.Imaging for .NET
@@ -111,6 +113,7 @@ For more information and detailed documentation, visit the [Aspose.Imaging for .
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

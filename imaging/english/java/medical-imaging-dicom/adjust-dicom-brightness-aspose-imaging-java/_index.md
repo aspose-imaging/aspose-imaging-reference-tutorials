@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Processing: Adjust DICOM Brightness with Aspose.Imaging for Java
 
@@ -191,7 +193,11 @@ Ready to implement this solution? Dive into the code now!
 - **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
 
 Embrace the power of Aspose.Imaging for Java to elevate your image processing tasks with ease and precision!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

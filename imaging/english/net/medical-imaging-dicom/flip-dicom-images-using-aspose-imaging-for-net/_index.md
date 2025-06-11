@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Flip DICOM Images Using Aspose.Imaging for .NET in Medical Imaging Applications
 
@@ -89,7 +91,11 @@ Open the DICOM file using `FileStream` from your specified directory.
 
 ```csharp
 using (var fileStream = new FileStream(dataDir + "file.dcm\
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

@@ -8,7 +8,9 @@ url: /java/image-processing-and-enhancement/image-resolution-alignment/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Master Image Resolution Alignment with Aspose.Imaging for Java
@@ -118,6 +120,7 @@ A5: Aspose.Imaging for Java can handle a wide range of image formats and sizes. 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

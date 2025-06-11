@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Create Multi-Frame TIFF Images with Aspose.Imaging for .NET
 
@@ -223,7 +225,11 @@ This tutorial covered the essential steps for creating multi-frame TIFF images u
 - Explore additional features of Aspose.Imaging by consulting the [official documentation](https://reference.aspose.com/imaging/net/).
 
 Try implementing these steps in your projects, and explore how multi-frame TIFF images can enhance your workflow.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

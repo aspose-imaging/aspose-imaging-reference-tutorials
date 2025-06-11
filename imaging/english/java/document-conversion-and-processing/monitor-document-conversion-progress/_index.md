@@ -8,7 +8,9 @@ url: /java/document-conversion-and-processing/monitor-document-conversion-progre
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Monitor Document Conversion Progress
@@ -155,6 +157,7 @@ A5: If you have questions or need assistance with Aspose.Imaging for Java, you c
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

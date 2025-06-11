@@ -8,7 +8,9 @@ url: /net/dicom-image-processing/dicom-cropping-by-shifts/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Crop DICOM Images with Aspose.Imaging for .NET
@@ -110,6 +112,7 @@ A5: Absolutely! While it's great for medical imaging, Aspose.Imaging for .NET ca
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

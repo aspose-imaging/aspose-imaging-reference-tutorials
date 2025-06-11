@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Draw Raster Images onto WMF Files Using Aspose.Imaging for .NET
 
@@ -193,7 +195,11 @@ Yes, you can seek help on [Aspose's forums](https://forum.aspose.com/c/imaging/1
 - **Purchase License**: Buy a license for continued use at [this link](https://purchase.aspose.com/buy)
 - **Free Trial**: Test out features by downloading a trial version [here](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: Request a temporary license for full-feature access [here](https://purchase.aspose.com/temporary-license)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

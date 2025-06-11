@@ -8,7 +8,9 @@ keywords: [.NET image processing, Aspose.Imaging .NET, C# image manipulation, DI
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Complete .NET Image Processing Guide with Aspose.Imaging
@@ -199,6 +201,7 @@ Build high-performance image processing applications with Aspose.Imaging for .NE
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

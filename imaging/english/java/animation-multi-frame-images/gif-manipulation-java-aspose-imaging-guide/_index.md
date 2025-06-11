@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering GIF Manipulation with Aspose.Imaging Java: A Complete Guide
 
@@ -180,7 +182,11 @@ A: Visit the [Aspose.Imaging Documentation](https://reference.aspose.com/imaging
 - **Support Forum**: [Aspose Support Community](https://forum.aspose.com/c/imaging/10)
 
 This guide equips you with the knowledge to confidently manipulate GIF images using Aspose.Imaging for Java. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

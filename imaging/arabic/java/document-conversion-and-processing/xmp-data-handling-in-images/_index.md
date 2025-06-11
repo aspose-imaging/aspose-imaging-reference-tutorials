@@ -1,31 +1,33 @@
 ---
-title: معالجة بيانات XMP في الصور باستخدام Aspose.Imaging لـ Java
-linktitle: معالجة بيانات XMP في الصور
-second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
-description: تعرف على كيفية التعامل مع بيانات تعريف XMP في الصور باستخدام Aspose.Imaging for Java. قم بتضمين واسترجاع البيانات الوصفية لتحسين ملفات الصور الخاصة بك.
-weight: 16
-url: /ar/java/document-conversion-and-processing/xmp-data-handling-in-images/
+"description": "تعرّف على كيفية التعامل مع بيانات تعريف XMP في الصور باستخدام Aspose.Imaging لـ Java. أدرج بيانات تعريفية واسترجعها لتحسين ملفات صورك."
+"linktitle": "معالجة بيانات XMP في الصور"
+"second_title": "واجهة برمجة تطبيقات معالجة الصور Java Aspose.Imaging"
+"title": "معالجة بيانات XMP في الصور باستخدام Aspose.Imaging لـ Java"
+"url": "/ar/java/document-conversion-and-processing/xmp-data-handling-in-images/"
+"weight": 16
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # معالجة بيانات XMP في الصور باستخدام Aspose.Imaging لـ Java
 
-Aspose.Imaging for Java هي مكتبة قوية ومتعددة الاستخدامات للتعامل مع الصور بتنسيقات مختلفة. سيرشدك هذا البرنامج التعليمي خلال عملية التعامل مع بيانات XMP (منصة البيانات الوصفية القابلة للتوسيع) في الصور باستخدام Aspose.Imaging for Java. يعد XMP معيارًا لدمج بيانات التعريف في ملفات الصور، مما يسمح لك بتخزين معلومات قيمة مثل المؤلف والوصف والمزيد.
+Aspose.Imaging for Java هي مكتبة متعددة الاستخدامات وفعّالة للتعامل مع الصور بتنسيقات متنوعة. سيرشدك هذا البرنامج التعليمي خلال عملية معالجة بيانات XMP (منصة البيانات الوصفية القابلة للتوسيع) في الصور باستخدام Aspose.Imaging for Java. XMP هو معيار لتضمين البيانات الوصفية في ملفات الصور، مما يسمح لك بتخزين معلومات قيّمة مثل اسم المؤلف والوصف وغيرها.
 
 ## المتطلبات الأساسية
 
-قبل البدء، تأكد من توفر المتطلبات الأساسية التالية:
+قبل أن تبدأ، تأكد من توفر المتطلبات الأساسية التالية:
 
-- تم إعداد بيئة تطوير Java على جهاز الكمبيوتر الخاص بك.
--  تم تثبيت Aspose.Imaging لمكتبة Java. يمكنك تنزيله من[Aspose.Imaging لموقع جافا](https://releases.aspose.com/imaging/java/).
-- الفهم الأساسي لبرمجة جافا.
+- بيئة تطوير Java تم إعدادها على جهاز الكمبيوتر الخاص بك.
+- تم تثبيت مكتبة Aspose.Imaging لجافا. يمكنك تنزيلها من [موقع Aspose.Imaging لـ Java](https://releases.aspose.com/imaging/java/).
+- فهم أساسي لبرمجة جافا.
 
 ## استيراد الحزم
 
-ابدأ باستيراد الحزم الضرورية لمشروع Java الخاص بك. يمكنك إضافة عبارات الاستيراد التالية في بداية التعليمات البرمجية الخاصة بك:
+ابدأ باستيراد الحزم اللازمة لمشروع جافا. يمكنك إضافة عبارات الاستيراد التالية في بداية الكود:
 
 ```java
 import com.aspose.imaging.Image;
@@ -45,9 +47,9 @@ import java.io.ByteArrayOutputStream;
 
 الآن، دعونا نقسم المثال إلى دليل خطوة بخطوة:
 
-## الخطوة 1: تحديد حجم الصورة وخيارات Tiff
+## الخطوة 1: تحديد حجم الصورة وخيارات TIFF
 
-أولاً، حدد الدليل الذي سيتم تخزين صورتك فيه وقم بإنشاء مستطيل لتحديد حجم الصورة. في هذا المثال، نستخدم صورة Tiff مع خيارات معينة.
+أولاً، حدد المجلد الذي ستُخزَّن فيه صورتك، وأنشئ مستطيلاً لتحديد حجم الصورة. في هذا المثال، نستخدم صورة Tiff مع خيارات مُحدَّدة.
 
 ```java
 String dataDir = "Your Document Directory" + "ConvertingImages/";
@@ -59,15 +61,15 @@ tiffOptions.setBitsPerSample(new int[] { 8 });
 
 ## الخطوة 2: إنشاء صورة جديدة
 
-الآن، قم بإنشاء صورة جديدة بالخيارات المحددة. سيتم استخدام هذه الصورة لتخزين بيانات تعريف XMP.
+الآن، أنشئ صورة جديدة بالخيارات المحددة. ستُستخدم هذه الصورة لتخزين بيانات XMP الوصفية.
 
 ```java
 try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(), rect.getHeight()))) {
 ```
 
-## الخطوة 3: إنشاء رأس XMP ومقطورة
+## الخطوة 3: إنشاء رأس ومقطع XMP
 
-قم بإنشاء مثيلات XMP-Header وXMP-Trailer لبيانات تعريف XMP الخاصة بك. تساعد هذه الرؤوس والمقطورات في تحديد بنية البيانات التعريفية.
+أنشئ مثيلات من XMP-Header وXMP-Trailer لبيانات XMP الوصفية. تساعد هذه الرؤوس والمقتطفات في تحديد بنية البيانات الوصفية.
 
 ```java
     XmpHeaderPi xmpHeader = new XmpHeaderPi();
@@ -76,9 +78,9 @@ try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(),
     XmpTrailerPi xmpTrailer = new XmpTrailerPi(true);
 ```
 
-## الخطوة 4: إنشاء معلومات تعريف XMP
+## الخطوة 4: إنشاء معلومات XMP Meta
 
-الآن، قم بإنشاء مثيل لـ XMP meta لتعيين سمات مختلفة. يمكنك إضافة معلومات مثل المؤلف والوصف.
+الآن، أنشئ مثيلًا لبيانات XMP الوصفية لتعيين سمات مختلفة. يمكنك إضافة معلومات مثل المؤلف والوصف.
 
 ```java
     XmpMeta xmpMeta = new XmpMeta();
@@ -88,15 +90,15 @@ try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(),
 
 ## الخطوة 5: إنشاء غلاف حزمة XMP
 
-قم بإنشاء مثيل XmpPacketWrapper الذي يحتوي على معلومات رأس XMP والمقطورة ومعلومات التعريف.
+قم بإنشاء مثيل لـ XmpPacketWrapper يحتوي على رأس XMP والمقطع الدعائي ومعلومات التعريف.
 
 ```java
     XmpPacketWrapper xmpData = new XmpPacketWrapper(xmpHeader, xmpTrailer, xmpMeta);
 ```
 
-## الخطوة 6: إضافة حزمة فوتوشوب
+## الخطوة 6: إضافة حزمة الفوتوشوب
 
-لتخزين معلومات خاصة بـ Photoshop، قم بإنشاء حزمة Photoshop وقم بتعيين سماتها، مثل المدينة والبلد ووضع الألوان. ثم قم بإضافة هذه الحزمة إلى بيانات تعريف XMP.
+لتخزين معلومات خاصة بفوتوشوب، أنشئ حزمة فوتوشوب وحدد سماتها، مثل المدينة والبلد ووضع اللون. ثم أضف هذه الحزمة إلى بيانات تعريف XMP.
 
 ```java
     PhotoshopPackage photoshopPackage = new PhotoshopPackage();
@@ -106,9 +108,9 @@ try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(),
     xmpData.addPackage(photoshopPackage);
 ```
 
-## الخطوة 7: إضافة حزمة دبلن الأساسية
+## الخطوة 7: إضافة حزمة Dublin Core
 
-لمزيد من المعلومات العامة، مثل المؤلف والعنوان والقيم الإضافية، قم بإنشاء حزمة DublinCore وقم بتعيين سماتها. أضف هذه الحزمة إلى بيانات تعريف XMP أيضًا.
+للحصول على معلومات عامة، مثل المؤلف والعنوان والقيم الإضافية، أنشئ حزمة DublinCore وحدد سماتها. أضف هذه الحزمة إلى بيانات تعريف XMP أيضًا.
 
 ```java
     DublinCorePackage dublinCorePackage = new DublinCorePackage();
@@ -118,125 +120,127 @@ try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(),
     xmpData.addPackage(dublinCorePackage);
 ```
 
-## الخطوة 8: تحديث بيانات تعريف XMP في الصورة
+## الخطوة 8: تحديث بيانات XMP التعريفية في الصورة
 
- قم بتحديث بيانات تعريف XMP في الصورة باستخدام ملف`setXmpData` طريقة.
+قم بتحديث بيانات XMP في الصورة باستخدام `setXmpData` طريقة.
 
 ```java
     ByteArrayOutputStream ms = new ByteArrayOutputStream();
     image.setXmpData(xmpData);
 ```
 
-## الخطوة 9: احفظ الصورة
+## الخطوة 9: حفظ الصورة
 
-يمكنك الآن حفظ الصورة باستخدام بيانات تعريف XMP المضمنة على القرص أو في تدفق الذاكرة.
+يمكنك الآن حفظ الصورة باستخدام بيانات XMP المضمنة على القرص أو في مجرى الذاكرة.
 
 ```java
     image.save(ms);
 ```
 
-## الخطوة 10: قم بتحميل الصورة واسترجاع بيانات تعريف XMP
+## الخطوة 10: تحميل الصورة واسترداد بيانات XMP التعريفية
 
-لاسترداد بيانات تعريف XMP من الصورة، قم بتحميل الصورة من دفق الذاكرة أو القرص وقم بالوصول إلى بيانات XMP.
+لاسترداد بيانات XMP من الصورة، قم بتحميل الصورة من مجرى الذاكرة أو القرص والوصول إلى بيانات XMP.
 
 ```java
     try (TiffImage img = (TiffImage) Image.load(new ByteArrayInputStream(ms.toByteArray()))) {
         XmpPacketWrapper imgXmpData = img.getXmpData();
         for (XmpPackage pack : imgXmpData.getPackages()) {
-            // استخدام بيانات الحزمة...
+            // استخدم بيانات الحزمة ...
         }
     }
 }
 ```
 
-تهانينا! لقد تعلمت بنجاح كيفية التعامل مع بيانات XMP في الصور باستخدام Aspose.Imaging for Java. يتيح لك ذلك تخزين واسترجاع البيانات التعريفية القيمة داخل ملفات الصور الخاصة بك.
+تهانينا! لقد نجحت في تعلم كيفية التعامل مع بيانات XMP في الصور باستخدام Aspose.Imaging لـ Java. يتيح لك هذا تخزين واسترجاع بيانات وصفية قيّمة داخل ملفات صورك.
 
 ## خاتمة
 
-في هذا البرنامج التعليمي، اكتشفنا كيفية العمل مع بيانات تعريف XMP في الصور باستخدام Aspose.Imaging for Java. باتباع الدليل الموضح خطوة بخطوة، يمكنك بسهولة تضمين البيانات التعريفية واسترجاعها داخل ملفات الصور الخاصة بك، مما يعزز معلوماتها وسهولة استخدامها.
+في هذا البرنامج التعليمي، استكشفنا كيفية التعامل مع بيانات تعريف XMP في الصور باستخدام Aspose.Imaging لـ Java. باتباع هذا الدليل التفصيلي، يمكنك بسهولة تضمين واسترجاع بيانات التعريف في ملفات صورك، مما يُحسّن معلوماتها وسهولة استخدامها.
 
 ## الأسئلة الشائعة
 
-### س١: ما هي بيانات تعريف XMP؟
+### س1: ما هي بيانات XMP التعريفية؟
 
-A1: يعد XMP (منصة بيانات التعريف القابلة للتوسيع) معيارًا لتضمين بيانات التعريف في أنواع مختلفة من الملفات، بما في ذلك الصور. يسمح لك بتخزين معلومات مثل المؤلف والعنوان والوصف والمزيد داخل الملف نفسه.
+ج١: XMP (منصة البيانات الوصفية القابلة للتوسيع) هو معيار لتضمين البيانات الوصفية في أنواع مختلفة من الملفات، بما في ذلك الصور. يسمح لك بتخزين معلومات مثل المؤلف والعنوان والوصف وغيرها داخل الملف نفسه.
 
-### س2: ما سبب أهمية بيانات تعريف XMP؟
+### س2: لماذا تعتبر بيانات XMP مهمة؟
 
-ج2: تعد بيانات تعريف XMP ضرورية لتنظيم الأصول الرقمية وتصنيفها. فهو يساعد في إسناد الملكية، ووصف المحتوى، وإضافة سياق إلى الملفات مثل الصور، مما يجعلها أكثر سهولة في الوصول إليها وذات معنى.
+ج٢: بيانات تعريف XMP ضرورية لتنظيم الأصول الرقمية وتصنيفها. فهي تساعد في تحديد الملكية، ووصف المحتوى، وإضافة سياق للملفات، مثل الصور، مما يجعلها أكثر سهولة في الوصول إليها وأكثر فائدة.
 
-### س3: هل يمكنني تحرير بيانات تعريف XMP بعد تضمينها في صورة؟
+### س3: هل يمكنني تعديل بيانات XMP التعريفية بعد تضمينها في صورة؟
 
-ج3: نعم، يمكنك تحرير بيانات تعريف XMP بعد تضمينها في الصورة. يوفر Aspose.Imaging for Java أدوات لتعديل وتحديث سمات بيانات التعريف حسب الحاجة.
+ج٣: نعم، يمكنك تعديل بيانات تعريف XMP بعد تضمينها في صورة. يوفر Aspose.Imaging for Java أدوات لتعديل سمات البيانات التعريفية وتحديثها حسب الحاجة.
 
-### س 4: هل يعتبر Aspose.Imaging for Java أداة مجانية؟
+### س4: هل Aspose.Imaging for Java أداة مجانية؟
 
- ج4: يقدم Aspose.Imaging for Java إصدارًا تجريبيًا مجانيًا، ولكن للحصول على الوظائف الكاملة والاستخدام الموسع، يلزم الحصول على ترخيص مدفوع. يمكنك استكشاف الخيارات الموجودة على[Aspose.Imaging لموقع جافا](https://purchase.aspose.com/buy).
+ج٤: يُقدّم Aspose.Imaging for Java نسخة تجريبية مجانية، ولكن للحصول على كامل الوظائف والاستخدام المُوسّع، يلزم الحصول على ترخيص مدفوع. يمكنك استكشاف الخيارات المتاحة على [موقع Aspose.Imaging لـ Java](https://purchase.aspose.com/buy).
 
-### س5: أين يمكنني الحصول على المساعدة والدعم فيما يتعلق بـ Aspose.Imaging for Java؟
+### س5: أين يمكنني الحصول على المساعدة والدعم لـ Aspose.Imaging لـ Java؟
 
- ج5: إذا واجهت أية مشكلات أو كانت لديك أسئلة تتعلق بـ Aspose.Imaging for Java، فيمكنك زيارة[Aspose.منتديات التصوير](https://forum.aspose.com/) لدعم وتوجيه المجتمع.
+A5: إذا واجهت أي مشكلات أو كانت لديك أسئلة تتعلق بـ Aspose.Imaging for Java، فيمكنك زيارة [منتديات Aspose.Imaging](https://forum.aspose.com/) للحصول على الدعم والتوجيه المجتمعي.
 
 
 
-## كود المصدر الكامل
+## الكود المصدر الكامل
 ```java
         
 String dataDir = "Your Document Directory" + "ConvertingImages/";
-// حدد حجم الصورة عن طريق تحديد مستطيل
+// حدد حجم الصورة عن طريق تعريف المستطيل
 Rectangle rect = new Rectangle(0, 0, 100, 200);
 TiffOptions tiffOptions = new TiffOptions(TiffExpectedFormat.TiffJpegRgb);
 tiffOptions.setPhotometric(TiffPhotometrics.MinIsBlack);
 tiffOptions.setBitsPerSample(new int[] { 8 });
-// قم بإنشاء الصورة الجديدة تمامًا لأغراض العينة فقط
+// إنشاء صورة جديدة فقط لأغراض العينة
 try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(), rect.getHeight())))
 {
 	// إنشاء مثيل لـ XMP-Header
 	XmpHeaderPi xmpHeader = new XmpHeaderPi();
 	xmpHeader.setGuid(dataDir);
-	// قم بإنشاء مثيل لـ Xmp-TrailerPi
+	// إنشاء مثيل لـ Xmp-TrailerPi
 	XmpTrailerPi xmpTrailer = new XmpTrailerPi(true);
-	// قم بإنشاء مثيل لفئة التعريف XMP لتعيين سمات مختلفة
+	// إنشاء مثيل لفئة XMP meta لتعيين سمات مختلفة
 	XmpMeta xmpMeta = new XmpMeta();
 	xmpMeta.addAttribute("Author", "Mr Smith");
 	xmpMeta.addAttribute("Description", "The fake metadata value");
-	//إنشاء مثيل XmpPacketWrapper الذي يحتوي على كافة بيانات التعريف
+	// إنشاء مثيل لـ XmpPacketWrapper يحتوي على جميع البيانات الوصفية
 	XmpPacketWrapper xmpData = new XmpPacketWrapper(xmpHeader, xmpTrailer, xmpMeta);
 	// إنشاء مثيل لحزمة Photoshop وتعيين سمات Photoshop
 	PhotoshopPackage photoshopPackage = new PhotoshopPackage();
 	photoshopPackage.setCity("London");
 	photoshopPackage.setCountry("England");
 	photoshopPackage.setColorMode(ColorMode.Rgb);
-	// إضافة حزمة Photoshop إلى بيانات تعريف XMP
+	// إضافة حزمة فوتوشوب إلى بيانات تعريف XMP
 	xmpData.addPackage(photoshopPackage);
-	// قم بإنشاء مثيل لحزمة DublinCore وقم بتعيين سمات dublinCore
+	// إنشاء مثيل لحزمة DublinCore وتعيين سمات dublinCore
 	DublinCorePackage dublinCorePackage = new DublinCorePackage();
 	dublinCorePackage.setAuthor("Charles Bukowski");
 	dublinCorePackage.setTitle("Confessions of a Man Insane Enough to Live With the Beasts");
 	dublinCorePackage.addValue("dc:movie", "Barfly");
-	// قم بإضافة حزمة dublinCore إلى بيانات تعريف XMP
+	// إضافة حزمة dublinCore إلى بيانات تعريف XMP
 	xmpData.addPackage(dublinCorePackage);
 	ByteArrayOutputStream ms = new ByteArrayOutputStream();
-	// تحديث بيانات تعريف XMP في الصورة
+	// تحديث بيانات XMP الوصفية في الصورة
 	image.setXmpData(xmpData);
-	// حفظ الصورة على القرص أو في دفق الذاكرة
+	// حفظ الصورة على القرص أو في مجرى الذاكرة
 	image.save(ms);
-	// قم بتحميل الصورة من دفق الذاكرة أو من القرص لقراءة/الحصول على البيانات التعريفية
+	// قم بتحميل الصورة من مجرى الذاكرة أو من القرص لقراءة/الحصول على البيانات الوصفية
 	try (TiffImage img = (TiffImage) Image.load(new ByteArrayInputStream(ms.toByteArray())))
 	{
 		// الحصول على بيانات تعريف XMP
 		XmpPacketWrapper imgXmpData = img.getXmpData();
 		for (XmpPackage pack : imgXmpData.getPackages())
 		{
-			// استخدام بيانات الحزمة...
+			// استخدم بيانات الحزمة ...
 		}
 	}
 }
         
 ```
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

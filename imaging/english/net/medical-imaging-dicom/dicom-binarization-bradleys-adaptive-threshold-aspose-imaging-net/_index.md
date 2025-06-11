@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Binarize DICOM Images Using Bradley's Adaptive Threshold with Aspose.Imaging .NET
 
@@ -173,7 +175,11 @@ A5: While effective, it’s best suited for images where local contrast variatio
 - **Support**: For any questions, visit the [Aspose Forum](https://forum.aspose.com/c/imaging/10)
 
 Embark on your journey with Aspose.Imaging for .NET and unlock new capabilities in medical imaging!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Comprehensive Guide: Convert Images to Grayscale with Aspose.Imaging Java
 
@@ -196,7 +198,11 @@ You've learned how to effectively convert images to grayscale using Aspose.Imagi
 - **Support**: Join the community forum at [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
 
 We hope this guide empowers you to effectively use Aspose.Imaging for Java in your projects. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

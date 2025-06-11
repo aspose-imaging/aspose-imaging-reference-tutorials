@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Processing in .NET with Aspose.Imaging: Loading and Applying Smoothing
 
@@ -175,7 +177,11 @@ By mastering these techniques, you can significantly streamline your image proce
 - [Support Forum](https://forum.aspose.com/c/imaging/10)
 
 By following this guide, you're well-equipped to leverage the power of Aspose.Imaging for .NET in your image processing tasks. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

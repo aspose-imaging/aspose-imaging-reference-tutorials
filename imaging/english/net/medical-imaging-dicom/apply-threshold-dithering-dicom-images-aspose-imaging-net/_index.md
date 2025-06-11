@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Apply Threshold Dithering to DICOM Images Using Aspose.Imaging for .NET
 
@@ -160,7 +162,11 @@ Ready to take your DICOM image processing skills further? Implement the solution
 - [Support Forum](https://forum.aspose.com/c/imaging/10)
 
 This comprehensive guide equips you with everything needed to apply threshold dithering to DICOM images using Aspose.Imaging for .NET, enhancing your image processing capabilities.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

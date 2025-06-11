@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Load and Draw a Raster Image on an EMF Canvas Using Aspose.Imaging for Java
 
@@ -199,7 +201,11 @@ Common issues include improper handling of image disposal leading to memory leak
 - **Support**: https://forum.aspose.com/c/imaging/10
 
 We hope you find this guide helpful in your projects. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

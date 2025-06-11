@@ -8,7 +8,9 @@ url: /net/advanced-drawing/draw-using-graphicspath/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Master Image Drawing with Aspose.Imaging for .NET
@@ -131,6 +133,7 @@ A5: You can purchase a license for Aspose.Imaging for .NET from the website at [
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

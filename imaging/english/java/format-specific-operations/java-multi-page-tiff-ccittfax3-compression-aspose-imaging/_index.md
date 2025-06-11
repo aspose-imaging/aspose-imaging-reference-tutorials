@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Multi-Page TIFF Creation with CCITTFAX3 Compression in Java Using Aspose.Imaging
 
@@ -253,7 +255,11 @@ In this tutorial, you’ve learned how to create multi-page TIFF files using CCI
 - **Support**: https://forum.aspose.com/c/imaging/10
 
 Now that you're equipped with the knowledge, start implementing and exploring these techniques in your Java projects!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

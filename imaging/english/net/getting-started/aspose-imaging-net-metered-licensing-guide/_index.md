@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Implementing Metered Licensing in Aspose.Imaging for .NET
 
@@ -174,7 +176,11 @@ A5: Visit [Aspose's documentation](https://reference.aspose.com/imaging/net/) an
 - **Purchase**: Buy licenses via [Aspose Purchase Portal](https://purchase.aspose.com/buy).
 - **Free Trial**: Start with a free trial at [Aspose Free Trials](https://releases.aspose.com/imaging/net/).
 - **Temporary License**: Obtain a temporary license through [Aspose's website](https://purchase.aspose.com/temporary-license/).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

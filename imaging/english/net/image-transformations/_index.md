@@ -4,8 +4,11 @@ description: "Step-by-step tutorials for image resizing, cropping, rotating, and
 weight: 4
 url: "/net/image-transformations/"
 ---
+
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # .NET Image Transformation Tutorials for Aspose.Imaging
 
@@ -63,7 +66,11 @@ Learn how to rotate JPEG images by 270 degrees using Aspose.Imaging for Java. Th
 - [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging)
 - [Free Support](https://forum.aspose.com/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

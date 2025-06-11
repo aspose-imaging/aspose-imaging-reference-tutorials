@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Optimize PNG File Size in .NET Using Aspose.Imaging
 
@@ -160,7 +162,11 @@ A5: While it’s highly versatile, always review the [documentation](https://ref
 - **Free Trial**: Test out Aspose.Imaging with no limitations by downloading a [Free Trial](https://releases.aspose.com/imaging/net/).
 - **Temporary License**: Obtain a temporary license for extended evaluation from [Temporary Licenses](https://purchase.aspose.com/temporary-license/).
 - **Support**: Reach out to the community or seek help at [Aspose Support Forum](https://forum.aspose.com/c/imaging/10).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

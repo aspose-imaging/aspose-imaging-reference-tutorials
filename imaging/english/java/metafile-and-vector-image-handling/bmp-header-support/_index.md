@@ -8,7 +8,9 @@ url: /java/metafile-and-vector-image-handling/bmp-header-support/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # BMP Header Support with Aspose.Imaging for Java
@@ -109,6 +111,7 @@ A5: You can get a temporary license for testing and development purposes from [h
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

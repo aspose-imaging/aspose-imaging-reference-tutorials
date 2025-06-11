@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Create a Comprehensive Guide on Converting DjVu to GIF Using Aspose.Imaging for Java
 
@@ -218,7 +220,11 @@ Ready to take the next step? Try implementing these techniques in your projects 
 - **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
 
 By following this tutorial, you're now equipped to leverage Aspose.Imaging for Java in your projects. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

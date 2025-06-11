@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Comprehensive Tutorial: Loading and Processing DICOM Images Using Aspose.Imaging for Java
 
@@ -190,7 +192,11 @@ To continue exploring what Aspose.Imaging can offer, consider trying out other f
 - [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 By following this guide, you are well-equipped to handle DICOM images efficiently using Aspose.Imaging for Java. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

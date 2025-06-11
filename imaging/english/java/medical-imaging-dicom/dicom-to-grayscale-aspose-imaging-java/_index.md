@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Transforming DICOM Images to Grayscale using Aspose.Imaging Java
 
@@ -162,7 +164,11 @@ For further reading and support:
 - **Support Forum**: [Aspose Community Support](https://forum.aspose.com/c/imaging/10)
 
 Embark on your journey with Aspose.Imaging Java and explore the vast potential of image processing in Java!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

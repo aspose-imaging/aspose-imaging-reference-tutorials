@@ -8,7 +8,9 @@ url: /net/dicom-image-processing/dicom-simple-resizing/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Resize DICOM Images with Aspose.Imaging for .NET
@@ -124,6 +126,7 @@ A5: You can explore the   [Aspose.Imaging for .NET documentation](https://refere
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

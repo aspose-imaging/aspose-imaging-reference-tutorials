@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Adjust and Save DICOM Images as BMP Using Aspose.Imaging for .NET: A Comprehensive Guide
 
@@ -185,7 +187,11 @@ For further exploration and support:
 - **Documentation**: [Aspose.Imaging Documentation](https://reference.aspose.com/imaging/net/)
 - **Download Library**: [Releases](https://releases.aspose.com/imaging/net/)
 - **Purchase License**: [Aspose Purchasing Portal](https://purchase.aspose.com/buy)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

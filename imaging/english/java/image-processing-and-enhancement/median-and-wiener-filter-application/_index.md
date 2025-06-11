@@ -8,7 +8,9 @@ url: /java/image-processing-and-enhancement/median-and-wiener-filter-application
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Median and Wiener Filter Application
@@ -107,6 +109,7 @@ A5: Yes, you can integrate Aspose.Imaging for Java into your web applications fo
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

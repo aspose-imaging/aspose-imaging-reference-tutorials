@@ -8,7 +8,9 @@ url: /net/advanced-features/support-of-cdr-format/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Support of CDR Format with Aspose.Imaging for .NET
@@ -97,6 +99,7 @@ A5: Certainly! You can get a free trial of Aspose.Imaging for .NET from [this li
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

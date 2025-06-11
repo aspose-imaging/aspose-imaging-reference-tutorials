@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Manipulation with Aspose.Imaging Java: Optimize PNG Bit Depth & Paths
 
@@ -181,7 +183,11 @@ By now, you should have a solid understanding of how to use Aspose.Imaging for J
 - **Support:** Join the community on [Aspose Forums](https://forum.aspose.com/c/imaging/10) for assistance. 
 
 By following this tutorial, you’ll be well-equipped to enhance your image processing capabilities using Aspose.Imaging Java.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

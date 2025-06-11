@@ -8,7 +8,9 @@ url: /net/image-composition/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Image Composition with Aspose.Imaging for .NET
@@ -59,6 +61,7 @@ Image composition is a captivating and valuable skill, and Aspose.Imaging for .N
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

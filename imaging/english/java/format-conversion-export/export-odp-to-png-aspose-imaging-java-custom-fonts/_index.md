@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Implement Aspose.Imaging Java for Exporting ODP Files to PNG with Custom Fonts
 
@@ -210,7 +212,11 @@ To further explore the possibilities of Aspose.Imaging, consider diving into its
 - **Support:** [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
 
 We hope this guide helps you implement Aspose.Imaging in your Java projects seamlessly. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

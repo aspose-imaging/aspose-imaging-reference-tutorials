@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Transforming SVG to HTML5 Canvas with Aspose.Imaging for Java: A Developer's Guide
 
@@ -177,7 +179,11 @@ By following this guide, you've learned how to convert SVG files into HTML5 canv
 - [Support Forum](https://forum.aspose.com/c/imaging/10)
 
 With this comprehensive guide, you're well-equipped to harness the power of Aspose.Imaging for Java in transforming SVGs into HTML5 canvas elements. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

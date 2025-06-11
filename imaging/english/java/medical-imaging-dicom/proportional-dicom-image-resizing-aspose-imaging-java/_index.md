@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering DICOM Image Resizing with Aspose.Imaging Java
 
@@ -212,7 +214,11 @@ In this guide, we’ve explored how to load and resize DICOM images proportional
 - **Support**: https://forum.aspose.com/c/imaging/10
 
 By leveraging these resources, you can deepen your understanding and effectively implement Aspose.Imaging in your Java applications. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

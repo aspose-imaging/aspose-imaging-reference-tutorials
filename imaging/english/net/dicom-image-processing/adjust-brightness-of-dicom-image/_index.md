@@ -8,7 +8,9 @@ url: /net/dicom-image-processing/adjust-brightness-of-dicom-image/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Adjust DICOM Image Brightness with Aspose.Imaging for .NET
@@ -105,6 +107,7 @@ A5: Aspose.Imaging provides a wide range of features for image manipulation, inc
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

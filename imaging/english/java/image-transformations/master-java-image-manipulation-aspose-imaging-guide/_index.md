@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Java Image Manipulation with Aspose.Imaging: A Comprehensive Guide
 
@@ -221,7 +223,11 @@ For further exploration and advanced techniques, refer to the following:
 - **Support**: Join the discussion in the [Aspose Forum](https://forum.aspose.com/c/imaging/10)
 
 Start experimenting and unlock new creative possibilities with Aspose.Imaging for Java today!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

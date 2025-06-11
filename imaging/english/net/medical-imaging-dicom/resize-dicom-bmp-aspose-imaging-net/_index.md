@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Resize DICOM to BMP Using Aspose.Imaging .NET for Medical Imaging
 
@@ -153,7 +155,11 @@ Yes, but you’ll need a valid license for production environments.
 - **Temporary License**: Obtain a temporary license for extended testing.
 
 Explore these resources to deepen your understanding and skills in using Aspose.Imaging .NET effectively. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

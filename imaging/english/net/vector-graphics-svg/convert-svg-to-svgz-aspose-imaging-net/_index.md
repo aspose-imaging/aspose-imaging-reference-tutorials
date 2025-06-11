@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Convert SVG to SVGZ Using Aspose.Imaging for .NET: A Complete Guide
 
@@ -155,7 +157,11 @@ You've learned how to convert an SVG file to a compressed SVGZ format using Aspo
 - [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 Embark on your journey with Aspose.Imaging for .NET and explore the potential of optimized vector graphics today!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

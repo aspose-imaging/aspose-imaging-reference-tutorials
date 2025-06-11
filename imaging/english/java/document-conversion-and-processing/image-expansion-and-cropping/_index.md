@@ -8,7 +8,9 @@ url: /java/document-conversion-and-processing/image-expansion-and-cropping/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Image Expansion and Cropping with Aspose.Imaging Java
@@ -117,6 +119,7 @@ A5: You can explore more code examples and resources in the [documentation](http
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

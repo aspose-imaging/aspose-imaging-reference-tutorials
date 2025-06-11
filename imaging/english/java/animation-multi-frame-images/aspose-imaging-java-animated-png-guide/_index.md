@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Create Stunning Animated PNGs with Aspose.Imaging Java: A Step-by-Step Guide
 
@@ -189,7 +191,11 @@ Ready to get started? Try implementing these steps in your own project and see h
 - **Support Forum:** [Aspose Community Support](https://forum.aspose.com/c/imaging/10)
 
 With these resources and your newfound knowledge, you're all set to create compelling animated visuals with Aspose.Imaging Java!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

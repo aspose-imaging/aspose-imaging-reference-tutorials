@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Crop and Save DICOM Images Using Aspose.Imaging for .NET: A Step-by-Step Guide
 
@@ -190,6 +192,9 @@ Try implementing the solution today to see how it fits into your workflow!
 - **Support Forum:** [Aspose Support Community](https://forum.aspose.com/c/imaging/10)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

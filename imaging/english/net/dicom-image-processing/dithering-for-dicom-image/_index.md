@@ -8,7 +8,9 @@ url: /net/dicom-image-processing/dithering-for-dicom-image/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # DICOM Image Dithering Made Easy with Aspose.Imaging for .NET
@@ -102,6 +104,7 @@ A5: You can find help and support on the [Aspose.Imaging forums](https://forum.a
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

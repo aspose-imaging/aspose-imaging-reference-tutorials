@@ -1,55 +1,57 @@
 ---
-title: Otsu عتبة Binarization مع Aspose.Imaging لجافا
-linktitle: عتبة أوتسو الثنائية
-second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
-description: قم بتحسين جودة الصورة باستخدام Aspose.Imaging لـ Otsu Threshold Binarization في Java. اتبع دليلنا خطوة بخطوة للتميز في معالجة الصور.
-weight: 22
-url: /ar/java/image-processing-and-enhancement/otsu-threshold-binarization/
+"description": "حسّن جودة الصورة باستخدام Aspose.Imaging لثنائية عتبة أوتسو في جافا. اتبع دليلنا خطوة بخطوة لتحقيق التميز في معالجة الصور."
+"linktitle": "ثنائية عتبة أوتسو"
+"second_title": "واجهة برمجة تطبيقات معالجة الصور Java Aspose.Imaging"
+"title": "تحويل عتبة أوتسو إلى ثنائية باستخدام Aspose.Imaging لـ Java"
+"url": "/ar/java/image-processing-and-enhancement/otsu-threshold-binarization/"
+"weight": 22
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Otsu عتبة Binarization مع Aspose.Imaging لجافا
+# تحويل عتبة أوتسو إلى ثنائية باستخدام Aspose.Imaging لـ Java
 
-في عالم معالجة الصور ومعالجتها، يمثل Aspose.Imaging for Java مجموعة أدوات قوية تمكن المطورين من العمل مع تنسيقات الصور المختلفة. من بين ميزاته العديدة، تعد Otsu Threshold Binarization تقنية مهمة لتحسين الصورة وتحليلها. في هذا البرنامج التعليمي، سنرشدك خلال عملية استخدام Aspose.Imaging for Java لإجراء Otsu Threshold Binarization على الصورة خطوة بخطوة.
+في عالم معالجة الصور ومعالجتها، يُعدّ Aspose.Imaging for Java مجموعة أدوات فعّالة تُمكّن المطورين من العمل مع مختلف تنسيقات الصور. من بين ميزاته العديدة، يُعدّ Otsu Threshold Binarization تقنيةً أساسيةً لتحسين الصور وتحليلها. في هذا البرنامج التعليمي، سنرشدك خطوةً بخطوة إلى عملية استخدام Aspose.Imaging for Java لإجراء Otsu Threshold Binarization على صورة.
 
 ## المتطلبات الأساسية
 
-قبل أن نتعمق في التفاصيل، دعنا نتأكد من أن لديك المتطلبات الأساسية لمتابعة هذا البرنامج التعليمي بفعالية:
+قبل أن نتعمق في التفاصيل، دعنا نتأكد من أن لديك المتطلبات الأساسية اللازمة لمتابعة هذا البرنامج التعليمي بشكل فعال:
 
 1. بيئة تطوير Java: أنت بحاجة إلى بيئة تطوير Java عاملة مع تثبيت Aspose.Imaging for Java.
 
-2. صورة للمعالجة: اختر الصورة التي تريد إجراء Otsu Threshold Binarization عليها واجعلها جاهزة في دليل المشروع الخاص بك.
+2. الصورة للمعالجة: اختر الصورة التي تريد إجراء عملية Otsu Threshold Binarization عليها واحتفظ بها جاهزة في دليل المشروع الخاص بك.
 
-## حزم الاستيراد
+## استيراد الحزم
 
-أولاً، تحتاج إلى استيراد حزم Aspose.Imaging الضرورية إلى مشروع Java الخاص بك. تضمن هذه الخطوة أنه يمكنك الوصول إلى الفئات والأساليب المطلوبة. وإليك كيف يمكنك القيام بذلك:
+أولاً، عليك استيراد حزم Aspose.Imaging اللازمة إلى مشروع جافا. تضمن هذه الخطوة إمكانية الوصول إلى الفئات والأساليب المطلوبة. إليك كيفية القيام بذلك:
 
 ```java
 import com.aspose.imaging.Image;
 import com.aspose.imaging.RasterCachedImage;
 ```
 
-الآن، دعونا نقسم عملية Otsu Threshold Binarization إلى خطوات متعددة للحصول على فهم واضح.
+الآن، دعونا نقسم عملية ثنائية عتبة أوتسو إلى خطوات متعددة من أجل فهم واضح.
 
 ## الخطوة 1: تحميل الصورة
 
 
- قبل تطبيق أي معالجة للصور، تحتاج إلى تحميل الصورة. يستبدل`"Your Document Directory"` مع المسار الفعلي لملف الصورة الخاص بك. 
+قبل تطبيق أي معالجة للصورة، يجب عليك تحميل الصورة. استبدل `"Your Document Directory"` مع المسار الفعلي لملف صورتك. 
 
 ```java
 String dataDir = "Your Document Directory" + "ConvertingImages/";
 try (Image image = Image.load(dataDir + "aspose-logo.jpg"))
 {
-    // الرمز الخاص بك هنا
+    // الكود الخاص بك هنا
 }
 ```
 
 ## الخطوة 2: تخزين الصورة مؤقتًا
 
-يعد التخزين المؤقت للصورة أمرًا ضروريًا لتحسين الأداء. فهو يضمن أن بيانات الصورة متاحة بسهولة للمعالجة.
+يُعدّ تخزين الصورة مؤقتًا أمرًا أساسيًا لتحسين الأداء، إذ يضمن سهولة معالجة بيانات الصورة.
 
 ```java
 RasterCachedImage rasterCachedImage = (RasterCachedImage) image;
@@ -57,7 +59,7 @@ RasterCachedImage rasterCachedImage = (RasterCachedImage) image;
 
 ## الخطوة 3: التحقق من الصورة وتخزينها مؤقتًا
 
-قبل تطبيق Otsu Threshold Binarization، يجب عليك التحقق مما إذا كانت الصورة مخزنة مؤقتًا بالفعل. إذا لم يكن الأمر كذلك، قم بتخزينه مؤقتًا.
+قبل تطبيق عملية ثنائية عتبة أوتسو، يجب عليك التحقق من تخزين الصورة مؤقتًا. إذا لم يكن الأمر كذلك، فاحفظها مؤقتًا.
 
 ```java
 if (!rasterCachedImage.isCached())
@@ -66,9 +68,9 @@ if (!rasterCachedImage.isCached())
 }
 ```
 
-## الخطوة 4: ثنائية الصورة باستخدام عتبة Otsu
+## الخطوة 4: تحويل الصورة إلى صورة ثنائية باستخدام عتبة أوتسو
 
-الآن، حان الوقت لتطبيق Otsu Threshold Binarization على الصورة. تحدد هذه التقنية تلقائيًا عتبة التحويل الثنائي للصورة.
+الآن، حان وقت تطبيق تقنية أوتسو ثريشولد ثنائية الأبعاد على الصورة. تحدد هذه التقنية تلقائيًا عتبة ثنائي الأبعاد للصورة.
 
 ```java
 rasterCachedImage.binarizeOtsu();
@@ -82,38 +84,40 @@ rasterCachedImage.binarizeOtsu();
 rasterCachedImage.save("Your Document Directory" + "BinarizationWithOtsuThreshold_out.jpg");
 ```
 
-باتباع هذه الخطوات، يمكنك تنفيذ Otsu Threshold Binarization بسهولة على صورتك باستخدام Aspose.Imaging for Java.
+من خلال اتباع الخطوات التالية، يمكنك بسهولة تنفيذ Otsu Threshold Binarization على صورتك باستخدام Aspose.Imaging for Java.
 
 ## خاتمة
 
-في هذا البرنامج التعليمي، استكشفنا عملية Otsu Threshold Binarization باستخدام Aspose.Imaging for Java. تعمل مجموعة الأدوات القوية هذه على تبسيط مهمة معالجة الصور وتحسينها. باستخدام بضعة أسطر فقط من التعليمات البرمجية، يمكنك تطبيق Otsu Threshold Binarization على صورك، مما يؤدي إلى تحسين جودتها وجعلها أكثر ملاءمة لمختلف التطبيقات.
+في هذا البرنامج التعليمي، استكشفنا عملية تحويل الصور ثنائية العتبة (Otsu Threshold Binarization) باستخدام Aspose.Imaging لجافا. تُبسّط هذه المجموعة الفعّالة عملية معالجة الصور وتحسينها. ببضعة أسطر برمجية فقط، يمكنك تطبيق تحويل الصور ثنائية العتبة (Otsu Threshold Binarization) على صورك، مما يُحسّن جودتها ويجعلها أكثر ملاءمةً لتطبيقات مُختلفة.
 
-باتباع الخطوات الموضحة في هذا الدليل، يمكنك إطلاق العنان لإمكانيات Aspose.Imaging لـ Java والارتقاء بمشاريع معالجة الصور الخاصة بك إلى المستوى التالي.
+من خلال اتباع الخطوات الموضحة في هذا الدليل، يمكنك إطلاق العنان لإمكانات Aspose.Imaging لـ Java ونقل مشاريع معالجة الصور الخاصة بك إلى المستوى التالي.
 
 ## الأسئلة الشائعة
 
 ### س1: ما هي ثنائية عتبة أوتسو؟
 
-A1: Otsu Threshold Binarization هي تقنية في معالجة الصور تحدد تلقائيًا الحد الأمثل لفصل الصورة إلى المقدمة والخلفية، مما يعزز جودة الصورة ويجعلها مناسبة لمزيد من التحليل.
+A1: تعد تقنية Otsu Threshold Binarization تقنية في معالجة الصور تحدد تلقائيًا عتبة مثالية لفصل الصورة إلى المقدمة والخلفية، مما يعزز جودة الصورة ويجعلها مناسبة لمزيد من التحليل.
 
 ### س2: كيف يمكنني تثبيت Aspose.Imaging لـ Java؟
 
- ج٢: يمكنك تنزيل Aspose.Imaging for Java وتثبيته من[هذا الرابط](https://releases.aspose.com/imaging/java/).
+A2: يمكنك تنزيل Aspose.Imaging for Java وتثبيته من [هذا الرابط](https://releases.aspose.com/imaging/java/).
 
-### س3: هل توجد أي خيارات ترخيص لـ Aspose.Imaging for Java؟
+### س3: هل هناك أي خيارات ترخيص لـ Aspose.Imaging لـ Java؟
 
- ج3: نعم، يمكنك استكشاف خيارات الترخيص المتنوعة، بما في ذلك التجارب المجانية والتراخيص المؤقتة، على[ترخيص أبوس](https://purchase.aspose.com/buy) و[ترخيص مؤقت](https://purchase.aspose.com/temporary-license/).
+ج3: نعم، يمكنك استكشاف خيارات الترخيص المختلفة، بما في ذلك التجارب المجانية والتراخيص المؤقتة، على [ترخيص Aspose](https://purchase.aspose.com/buy) و [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/).
 
-### س4: أين يمكنني العثور على الوثائق والدعم لـ Aspose.Imaging for Java؟
+### س4: أين يمكنني العثور على الوثائق والدعم لـ Aspose.Imaging لـ Java؟
 
- ج4: يمكنك الوصول إلى الوثائق على[Aspose.Imaging لتوثيق جافا](https://reference.aspose.com/imaging/java/) والحصول على الدعم من[Aspose.منتدى التصوير](https://forum.aspose.com/).
+أ4: يمكنك الوصول إلى الوثائق على [توثيق Aspose.Imaging لـ Java](https://reference.aspose.com/imaging/java/) والحصول على الدعم من [منتدى Aspose.Imaging](https://forum.aspose.com/).
 
-### س5: هل يمكنني استخدام Aspose.Imaging for Java في مشاريعي التجارية؟
+### س5: هل يمكنني استخدام Aspose.Imaging لـ Java في مشاريعي التجارية؟
 
-ج5: نعم، Aspose.Imaging for Java مناسب لكل من المشاريع الشخصية والتجارية. يمكنك استكشاف خيارات الترخيص التي تناسب احتياجاتك الخاصة.
+ج٥: نعم، يُعد Aspose.Imaging for Java مناسبًا للمشاريع الشخصية والتجارية. يمكنك استكشاف خيارات الترخيص التي تناسب احتياجاتك الخاصة.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

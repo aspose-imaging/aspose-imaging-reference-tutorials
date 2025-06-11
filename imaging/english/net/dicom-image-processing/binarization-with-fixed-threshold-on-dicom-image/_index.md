@@ -8,7 +8,9 @@ url: /net/dicom-image-processing/binarization-with-fixed-threshold-on-dicom-imag
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Binarization with Fixed Threshold on DICOM Image in Aspose.Imaging for .NET
@@ -117,6 +119,7 @@ Yes, you can try Aspose.Imaging for .NET by downloading the trial version from [
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

@@ -8,7 +8,9 @@ url: /java/metafile-and-vector-image-handling/convert-svg-to-enhanced-metafile/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Convert SVG to EMF with Aspose.Imaging for Java
@@ -129,6 +131,7 @@ A5: You can visit the Aspose.Imaging for Java support forum [here](https://forum
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

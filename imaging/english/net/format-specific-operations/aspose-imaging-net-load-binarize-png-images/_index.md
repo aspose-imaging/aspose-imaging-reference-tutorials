@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Master Image Processing with Aspose.Imaging .NET: Load and Binarize PNG Images
 
@@ -156,7 +158,11 @@ In this tutorial, you've learned how to harness the power of Aspose.Imaging for 
 - **Free Trial:** [Start a Free Trial](https://releases.aspose.com/imaging/net/)
 - **Temporary License:** [Apply for a Temporary License](https://purchase.aspose.com/temporary-license/)
 - **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

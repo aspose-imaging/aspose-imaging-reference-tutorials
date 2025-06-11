@@ -8,7 +8,9 @@ url: /net/basic-drawing/draw-lines/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Mastering Line Drawing in Aspose.Imaging for .NET
@@ -134,6 +136,7 @@ A5: Yes, you can try out Aspose.Imaging for .NET by downloading the free trial f
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

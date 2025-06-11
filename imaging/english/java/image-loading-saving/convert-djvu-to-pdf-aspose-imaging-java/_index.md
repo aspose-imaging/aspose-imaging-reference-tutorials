@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Convert DjVu Images to PDFs Using Aspose.Imaging for Java
 
@@ -214,7 +216,11 @@ Ready to put this knowledge into practice? Dive deeper into the [Aspose.Imaging 
 - [Support Forum](https://forum.aspose.com/c/imaging/10)
 
 Feel free to explore these resources for additional guidance and support as you implement Aspose.Imaging in your Java projects!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

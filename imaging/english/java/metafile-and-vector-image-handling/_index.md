@@ -8,7 +8,9 @@ url: /java/metafile-and-vector-image-handling/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Metafile and Vector Image Handling
@@ -61,9 +63,11 @@ Learn how to harness the power of Aspose.Imaging for Java in this step-by-step g
 Learn how to convert SVG to EMF using Aspose.Imaging for Java. Preserve image quality and scalability effortlessly.
 ### [Synchronize Root Property in Images](./synchronize-root-property-in-images/)
 Learn how to synchronize the root property in images using Aspose.Imaging for Java. Ensure thread-safe image processing with this step-by-step guide.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

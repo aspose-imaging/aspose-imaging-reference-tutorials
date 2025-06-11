@@ -4,8 +4,11 @@ description: "Step-by-step tutorials for working with vector graphics, SVG files
 weight: 10
 url: "/java/vector-graphics-svg/"
 ---
+
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Java Vector Graphics and SVG Processing Tutorials for Aspose.Imaging
 
@@ -66,7 +69,11 @@ Learn to compress SVG files using Aspose.Imaging for Java, boosting web performa
 - [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging)
 - [Free Support](https://forum.aspose.com/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

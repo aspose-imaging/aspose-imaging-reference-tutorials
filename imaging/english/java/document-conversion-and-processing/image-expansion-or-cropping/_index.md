@@ -8,7 +8,9 @@ url: /java/document-conversion-and-processing/image-expansion-or-cropping/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Image Expansion or Cropping with Aspose.Imaging for Java
@@ -111,6 +113,7 @@ A5: Yes, you can explore the library with a free trial. Download it from [here](
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

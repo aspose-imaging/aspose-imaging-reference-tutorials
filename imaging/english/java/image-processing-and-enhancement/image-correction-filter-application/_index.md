@@ -8,7 +8,9 @@ url: /java/image-processing-and-enhancement/image-correction-filter-application/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Image Correction Filter Application with Aspose.Imaging for Java
@@ -139,6 +141,7 @@ A5: Yes, Aspose.Imaging for Java can be integrated with other Java libraries and
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

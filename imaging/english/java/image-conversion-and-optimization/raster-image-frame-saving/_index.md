@@ -8,7 +8,9 @@ url: /java/image-conversion-and-optimization/raster-image-frame-saving/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Raster Image Frame Saving with Aspose.Imaging for Java
@@ -103,6 +105,7 @@ A5: Yes, there are alternatives like Java's built-in libraries, OpenCV, and Java
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

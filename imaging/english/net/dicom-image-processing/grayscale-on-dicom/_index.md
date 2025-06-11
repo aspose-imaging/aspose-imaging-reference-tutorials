@@ -8,7 +8,9 @@ url: /net/dicom-image-processing/grayscale-on-dicom/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Grayscale DICOM Images with Aspose.Imaging for .NET
@@ -95,6 +97,7 @@ A5: If you have any questions or need assistance, you can visit the [Aspose.Imag
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

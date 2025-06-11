@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Implement Line and Shape Drawing in Java with Aspose.Imaging
 
@@ -249,7 +251,11 @@ You've learned how to leverage the Aspose.Imaging library to draw lines, shapes,
 - [Support Forum](https://forum.aspose.com/c/imaging/10)
 
 Now that you have a comprehensive guide to implementing drawing features with Aspose.Imaging for Java, start experimenting and integrating these techniques into your projects. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

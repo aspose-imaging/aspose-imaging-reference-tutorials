@@ -8,7 +8,9 @@ url: /net/dicom-image-processing/dicoms-other-image-resizing-options/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # DICOM's Other Image Resizing Options in Aspose.Imaging for .NET
@@ -117,6 +119,7 @@ A5: Yes, you can obtain a temporary license for testing and evaluation purposes.
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

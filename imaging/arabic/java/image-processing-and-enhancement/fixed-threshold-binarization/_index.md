@@ -1,58 +1,60 @@
 ---
-title: إتقان ثنائية العتبة الثابتة باستخدام Aspose.Imaging لـ Java
-linktitle: عتبة ثنائية ثابتة
-second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
-description: تعرّف على كيفية تنفيذ Fixed Threshold Binarization على الصور باستخدام Aspose.Imaging for Java.
-weight: 21
-url: /ar/java/image-processing-and-enhancement/fixed-threshold-binarization/
+"description": "تعرف على كيفية إجراء عملية ثنائية العتبة الثابتة على الصور باستخدام Aspose.Imaging لـ Java."
+"linktitle": "ثنائية العتبة الثابتة"
+"second_title": "واجهة برمجة تطبيقات معالجة الصور Java Aspose.Imaging"
+"title": "إتقان عملية تحويل العتبة الثابتة إلى ثنائيات باستخدام Aspose.Imaging لـ Java"
+"url": "/ar/java/image-processing-and-enhancement/fixed-threshold-binarization/"
+"weight": 21
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# إتقان ثنائية العتبة الثابتة باستخدام Aspose.Imaging لـ Java
+# إتقان عملية تحويل العتبة الثابتة إلى ثنائيات باستخدام Aspose.Imaging لـ Java
 
 ## مقدمة
 
-في عالم برمجة Java، هناك العديد من الأدوات والمكتبات المتاحة للتعامل مع مهام معالجة الصور المختلفة. إحدى هذه المكتبات القوية والمتعددة الاستخدامات هي Aspose.Imaging for Java. سواء كنت مطورًا متمرسًا أو بدأت رحلتك للتو في معالجة الصور، فإن Aspose.Imaging يوفر مجموعة قوية من الميزات لتبسيط مهامك. في هذا البرنامج التعليمي، سنتعمق في إحدى تقنيات معالجة الصور الأساسية - Fixed Threshold Binarization - باستخدام Aspose.Imaging for Java.
+في عالم برمجة جافا، تتوفر العديد من الأدوات والمكتبات لمعالجة مختلف مهام معالجة الصور. ومن هذه المكتبات القوية والمتعددة الاستخدامات مكتبة Aspose.Imaging لجافا. سواء كنت مطورًا محترفًا أو بدأت للتو رحلتك في معالجة الصور، توفر Aspose.Imaging مجموعة قوية من الميزات لتبسيط مهامك. في هذا البرنامج التعليمي، سنتعمق في إحدى تقنيات معالجة الصور الأساسية - المعالجة الثنائية ذات العتبة الثابتة - باستخدام Aspose.Imaging لجافا.
 
-دعنا نحلل المتطلبات الأساسية ونستورد الحزم ونقوم بتحليل عملية "العتبة الثابتة الثنائية" خطوة بخطوة لضمان فهمك للمفهوم وإمكانية تطبيقه دون عناء في مشاريعك.
+دعنا نقوم بتحليل المتطلبات الأساسية واستيراد الحزم وتحليل عملية الثنائية ذات العتبة الثابتة خطوة بخطوة لضمان فهمك للمفهوم ويمكنك تطبيقه بسهولة في مشاريعك.
 
 ## المتطلبات الأساسية
 
-قبل أن نتعمق في عالم Fixed Threshold Binarization باستخدام Aspose.Imaging لـ Java، تأكد من توفر المتطلبات الأساسية التالية:
+قبل أن نتعمق في عالم الثنائية ذات العتبة الثابتة باستخدام Aspose.Imaging لـ Java، تأكد من توفر المتطلبات الأساسية التالية لديك:
 
 ### 1. بيئة تطوير جافا
 
-يجب أن يكون لديك Java Development Kit (JDK) مثبتًا على نظامك. إذا لم يكن الأمر كذلك، فيمكنك تنزيله وتثبيته من موقع Oracle الإلكتروني.
+يجب أن يكون لديك Java Development Kit (JDK) مُثبّتًا على نظامك. إذا لم يكن كذلك، يمكنك تنزيله وتثبيته من موقع Oracle الإلكتروني.
 
-### 2. Aspose.Imaging لمكتبة جافا
+### 2. مكتبة Aspose.Imaging لـ Java
 
- تحتاج إلى الحصول على Aspose.Imaging لمكتبة Java. يمكنك تنزيله من[هنا](https://releases.aspose.com/imaging/java/).
+تحتاج إلى الحصول على مكتبة Aspose.Imaging لجافا. يمكنك تنزيلها من [هنا](https://releases.aspose.com/imaging/java/).
 
 ### 3. بيئة التطوير المتكاملة (IDE)
 
 استخدم بيئة تطوير متكاملة مثل Eclipse أو IntelliJ IDEA أو أي بيئة أخرى من اختيارك.
 
-### 4. المعرفة الأساسية بالجافا
+### 4. المعرفة الأساسية بلغة جافا
 
-من الضروري متابعة الفهم الأساسي لبرمجة Java مع هذا البرنامج التعليمي.
+من الضروري أن يكون لديك فهم أساسي لبرمجة Java لمتابعة هذا البرنامج التعليمي.
 
-## حزم الاستيراد
+## استيراد الحزم
 
-الآن بعد أن حصلت على كافة المتطلبات الأساسية، فلنبدأ باستيراد الحزم الضرورية في مشروع Java الخاص بك. هذه الحزم ضرورية للعمل مع Aspose.Imaging.
+بعد أن أصبحت جميع المتطلبات الأساسية جاهزة، لنبدأ باستيراد الحزم اللازمة لمشروع جافا. هذه الحزم أساسية للعمل مع Aspose.Imaging.
 
 ```java
 import com.aspose.imaging.Image;
 import com.aspose.imaging.imagefilters.filteroptions.BinarizationFixedThresholdOptions;
 ```
 
- ال`com.aspose.imaging.Image` مطلوب فئة لتحميل الصور ومعالجتها وحفظها، في حين أن`BinarizationFixedThresholdOptions` يتم استخدام الفئة لتعيين الخيارات الخاصة بـ Fixed Threshold Binarization.
+ال `com.aspose.imaging.Image` الفئة مطلوبة لتحميل الصور ومعالجتها وحفظها، بينما `BinarizationFixedThresholdOptions` يتم استخدام الفئة لتعيين خيارات ثنائية العتبة الثابتة.
 
 ## الخطوة 1: تحميل صورة
 
- الخطوة الأولى هي تحميل الصورة التي تريد تطبيق Fixed Threshold Binarization عليها. يستبدل`"Your Document Directory" + "ConvertingImages/"` مع المسار الفعلي لصورتك.
+الخطوة الأولى هي تحميل الصورة التي تريد تطبيق ثنائية العتبة الثابتة عليها. استبدل `"Your Document Directory" + "ConvertingImages/"` مع المسار الفعلي لصورتك.
 
 ```java
 String dataDir = "Your Document Directory" + "ConvertingImages/";
@@ -63,7 +65,7 @@ try (Image image = Image.load(dataDir + "your-image.jpg")) {
 
 ## الخطوة 2: الإرسال إلى RasterCachedImage
 
- للعمل باستخدام Fixed Threshold Binarization، قم بإرسال الصورة المحملة إلى ملف`RasterCachedImage`.
+للعمل مع التحويل الثنائي ذي العتبة الثابتة، قم بإرسال الصورة المحملة إلى `RasterCachedImage`.
 
 ```java
 RasterCachedImage rasterCachedImage = (RasterCachedImage) image;
@@ -71,7 +73,7 @@ RasterCachedImage rasterCachedImage = (RasterCachedImage) image;
 
 ## الخطوة 3: التحقق من الصورة وتخزينها مؤقتًا
 
-تحقق مما إذا كانت الصورة مخزنة مؤقتًا. إذا لم يكن الأمر كذلك، قم بتخزينه مؤقتًا. يسمح التخزين المؤقت للصورة بمعالجة أسرع.
+تحقق مما إذا كانت الصورة مُخزّنة مؤقتًا. إذا لم تكن كذلك، فاحفظها مؤقتًا. يُسهّل تخزين الصورة مؤقتًا معالجتها.
 
 ```java
 if (!rasterCachedImage.isCached()) {
@@ -79,9 +81,9 @@ if (!rasterCachedImage.isCached()) {
 }
 ```
 
-## الخطوة 4: تنفيذ الثنائية
+## الخطوة 4: تنفيذ عملية الثنائية
 
-الآن، حان الوقت لتطبيق Binarization العتبة الثابتة. في هذا المثال، نستخدم حدًا ثابتًا قدره 100. ويمكنك ضبط هذا الحد وفقًا لمتطلباتك.
+الآن، حان وقت تطبيق ثنائيات العتبة الثابتة. في هذا المثال، نستخدم عتبة ثابتة قدرها ١٠٠. يمكنك تعديل هذه العتبة وفقًا لاحتياجاتك.
 
 ```java
 byte threshold = 100;
@@ -90,44 +92,46 @@ rasterCachedImage.binarizeFixed(new BinarizationFixedThresholdOptions(threshold)
 
 ## الخطوة 5: حفظ النتيجة
 
-احفظ الصورة الثنائية في الموقع الذي تريده.
+احفظ الصورة الثنائية في الموقع المطلوب.
 
 ```java
 rasterCachedImage.save("Your Document Directory" + "BinarizationWithFixedThreshold_out.jpg");
 ```
 
-لقد نجحت الآن في تطبيق Fixed Threshold Binarization على صورتك باستخدام Aspose.Imaging for Java.
+لقد قمت الآن بتطبيق Binarization العتبة الثابتة بنجاح على صورتك باستخدام Aspose.Imaging for Java.
 
 ## خاتمة
 
-Aspose.Imaging for Java هي مكتبة قوية تعمل على تبسيط مهام معالجة الصور المعقدة. في هذا البرنامج التعليمي، اكتشفنا Fixed Threshold Binarization، وهي تقنية أساسية لمعالجة الصور. باستخدام الدليل التفصيلي خطوة بخطوة، يمكنك دمج هذه الميزة بثقة في مشاريع Java الخاصة بك.
+Aspose.Imaging لجافا مكتبة فعّالة تُبسّط مهام معالجة الصور المعقدة. في هذا البرنامج التعليمي، استكشفنا تقنية ثنائية العتبة الثابتة، وهي تقنية أساسية لمعالجة الصور. باستخدام هذا الدليل المفصل، يمكنك دمج هذه الميزة بثقة في مشاريع جافا الخاصة بك.
 
-إذا كانت لديك أية أسئلة أو واجهت مشاكل، فلا تتردد في طلب المساعدة من[Aspose.Imaging منتدى الدعم](https://forum.aspose.com/).
+إذا كان لديك أي أسئلة أو واجهت أي مشكلات، فلا تتردد في طلب المساعدة من [منتدى دعم Aspose.Imaging](https://forum.aspose.com/).
 
 ## الأسئلة الشائعة
 
-### س1: ما هو Binarization في معالجة الصور؟
+### س1: ما هو التثنية في معالجة الصور؟
 
-A1: الثنائية هي عملية تحويل صورة ذات تدرج رمادي إلى صورة ثنائية، حيث يتم تمثيل كل بكسل باللون الأسود أو الأبيض بناءً على عتبة محددة مسبقًا.
+A1: التحويل الثنائي هو عملية تحويل صورة ذات تدرجات رمادية إلى صورة ثنائية، حيث يتم تمثيل كل بكسل باللون الأسود أو الأبيض بناءً على عتبة محددة مسبقًا.
 
 ### س2: هل يمكنني استخدام Aspose.Imaging لـ Java مجانًا؟
 
- ج2: يقدم Aspose.Imaging إصدارًا تجريبيًا مجانيًا يمكنك استخدامه للتقييم. ومع ذلك، للحصول على الوظائف الكاملة والاستخدام التجاري، ستحتاج إلى شراء ترخيص من[هنا](https://purchase.aspose.com/buy).
+ج٢: يُقدم Aspose.Imaging نسخة تجريبية مجانية يُمكنك استخدامها للتقييم. مع ذلك، للاستفادة الكاملة من الميزات والاستخدام التجاري، ستحتاج إلى شراء ترخيص من [هنا](https://purchase.aspose.com/buy).
 
-### س3: هل توجد مكتبات بديلة لمعالجة الصور في جافا؟
+### س3: هل هناك أي مكتبات بديلة لمعالجة الصور في جافا؟
 
-ج3: نعم، هناك مكتبات بديلة مثل Java Advanced Imaging (JAI) وImageJ، ولكن Aspose.Imaging for Java يتميز بميزاته الشاملة وسهولة استخدامه.
+ج3: نعم، هناك مكتبات بديلة مثل Java Advanced Imaging (JAI) وImageJ، ولكن Aspose.Imaging for Java تتميز بميزاتها الشاملة وسهولة استخدامها.
 
-### س4: كيف يمكنني ضبط عتبة عملية Binarization؟
+### س4: كيف يمكنني ضبط عتبة الثنائية؟
 
- A4: يمكنك ضبط قيمة العتبة في`BinarizationFixedThresholdOptions`لتخصيص عملية التحويل الثنائي بناءً على خصائص صورتك.
+أ4: يمكنك تعديل قيمة العتبة في `BinarizationFixedThresholdOptions` لتخصيص عملية التثنية استنادًا إلى خصائص صورتك.
 
-### س5: هل يمكنني تنفيذ مهام أخرى لمعالجة الصور باستخدام Aspose.Imaging for Java؟
+### س5: هل يمكنني تنفيذ مهام معالجة الصور الأخرى باستخدام Aspose.Imaging لـ Java؟
 
-ج5: بالتأكيد! يوفر Aspose.Imaging for Java مجموعة واسعة من ميزات معالجة الصور، بما في ذلك تغيير الحجم، والاقتصاص، والتصفية، والمزيد.
+ج٥: بالتأكيد! يوفر Aspose.Imaging لجافا مجموعة واسعة من ميزات معالجة الصور، بما في ذلك تغيير الحجم، والقص، والتصفية، وغيرها.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

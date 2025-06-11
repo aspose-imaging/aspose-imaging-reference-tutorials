@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Optimize PNG Images Using the Paeth Filter with Aspose.Imaging
 ## How to Optimize PNG Images Using the Paeth Filter with Aspose.Imaging .NET
@@ -138,7 +140,11 @@ Ready to put these skills into practice? Implement the solution now and experien
 - **Free Trial**: [Start Your Free Trial](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Obtain a Temporary License](https://purchase.aspose.com/temporary-license/)
 - **Support**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

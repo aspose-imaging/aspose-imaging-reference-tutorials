@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Binarization with Fixed Threshold using Aspose.Imaging Java
 
@@ -199,7 +201,11 @@ A5: Yes, Aspose.Imaging supports a wide range of image formats including JPEG, P
 - **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
 
 By following this tutorial, you've equipped yourself with the skills to tackle image binarization tasks effectively using Aspose.Imaging for Java. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

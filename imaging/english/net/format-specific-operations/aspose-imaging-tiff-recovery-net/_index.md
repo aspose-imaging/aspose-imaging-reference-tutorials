@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Implementing Aspose.Imaging for TIFF Recovery in .NET: A Developer's Guide
 
@@ -202,7 +204,11 @@ To further enhance your skills with Aspose.Imaging, consider exploring additiona
    - While Aspose.Imaging is powerful, its effectiveness can vary depending on the extent and nature of the corruption.
 3. **Is a license required to use Aspose.Imaging?**
    - A trial license or full purchase is needed for non-evaluation features.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

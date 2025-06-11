@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Manipulation with Aspose.Imaging Java: Extract & Set PNG Resolution
 
@@ -199,7 +201,11 @@ By mastering these techniques with Aspose.Imaging for Java, you can effectively 
 - **Support**: For any issues or questions, visit the [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) 
 
 Now that you have a solid understanding of how to use Aspose.Imaging Java for image manipulation tasks, feel free to explore more advanced features and enhance your applications further!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

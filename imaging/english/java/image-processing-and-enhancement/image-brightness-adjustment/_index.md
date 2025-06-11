@@ -8,7 +8,9 @@ url: /java/image-processing-and-enhancement/image-brightness-adjustment/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Image Brightness Adjustment with Aspose.Imaging for Java
@@ -114,6 +116,7 @@ A5: You can find help and join the community at the [Aspose.Imaging for Java for
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

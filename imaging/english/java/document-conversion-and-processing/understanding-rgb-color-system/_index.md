@@ -8,7 +8,9 @@ url: /java/document-conversion-and-processing/understanding-rgb-color-system/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Understanding RGB Color System
@@ -98,6 +100,7 @@ A5: Temporary licenses are meant for evaluation purposes and may have some restr
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

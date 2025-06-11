@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Load and Crop WMF Images Using Aspose.Imaging for .NET: A Comprehensive Guide
 
@@ -194,6 +196,9 @@ Next steps could include experimenting with different image formats supported by
 Embark on your journey with Aspose.Imaging today and unlock the full potential of image processing in .NET!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

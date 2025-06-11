@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Manipulation: Convert SVG to PNG and Draw on Images Using Aspose.Imaging for Java
 
@@ -244,7 +246,11 @@ Consider exploring further features of Aspose.Imaging to unlock even more potent
 - [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 This comprehensive guide should help you seamlessly integrate Aspose.Imaging for Java into your projects, enabling efficient and versatile image manipulation capabilities. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

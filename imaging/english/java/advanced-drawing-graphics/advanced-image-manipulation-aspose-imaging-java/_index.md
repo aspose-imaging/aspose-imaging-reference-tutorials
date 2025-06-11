@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Aspose.Imaging for Java: Advanced Image Manipulation Techniques
 
@@ -265,7 +267,11 @@ A5: Ensure that the output format supports transparency (e.g., PNG). Incorrect s
 - **Support Forum**: [Aspose Support Community](https://forum.aspose.com/c/imaging/10)
 
 Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

@@ -8,7 +8,9 @@ url: /java/document-conversion-and-processing/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Document Conversion and Processing
@@ -100,9 +102,11 @@ Learn how to optimize and manipulate images with Aspose.Imaging for Java. Get st
 Learn how to save frames from a TIFF image in various raster formats using Aspose.Imaging for Java. Enhance image manipulation in your Java applications.
 ### [Recovering TIFF Image Data](./recovering-tiff-image-data/)
 Learn how to recover damaged TIFF image data using Aspose.Imaging for Java. Restore image integrity with this step-by-step guide.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

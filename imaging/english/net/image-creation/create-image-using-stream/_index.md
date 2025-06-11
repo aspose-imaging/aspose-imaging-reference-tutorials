@@ -8,7 +8,9 @@ url: /net/image-creation/create-image-using-stream/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Create Image using Stream in Aspose.Imaging for .NET
@@ -119,6 +121,7 @@ A5: You can get a temporary license from the Aspose website at [this link](https
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

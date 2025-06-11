@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Read EXIF Data from JPEG Images Using Aspose.Imaging for Java
 
@@ -152,7 +154,11 @@ In this tutorial, you learned how to leverage Aspose.Imaging for Java to extract
 - **Support**: [Aspose Community Forum](https://forum.aspose.com/c/imaging/10)
 
 By following this guide, you can efficiently implement EXIF data reading in your Java applications using Aspose.Imaging.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

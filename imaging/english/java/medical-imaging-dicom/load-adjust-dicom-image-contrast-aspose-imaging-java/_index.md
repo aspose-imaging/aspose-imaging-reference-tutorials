@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Load and Adjust DICOM Image Contrast Using Aspose.Imaging Java
 
@@ -187,7 +189,11 @@ Ready to enhance your medical imaging projects? Start by integrating Aspose.Imag
 - **Support Forum:** [Aspose Support Community](https://forum.aspose.com/c/imaging/10)
 
 By following this guide, you're well-equipped to handle DICOM image processing tasks in your Java applications using Aspose.Imaging. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

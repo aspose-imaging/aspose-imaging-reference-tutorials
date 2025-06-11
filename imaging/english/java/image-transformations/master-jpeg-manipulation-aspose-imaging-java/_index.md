@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Create and Manipulate JPEG Images with Aspose.Imaging Java
 
@@ -206,7 +208,11 @@ Ready for more? Implement these techniques in your next project!
 - **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
 
 With this comprehensive guide, you're now well-prepared to master image manipulation using Aspose.Imaging in Java. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

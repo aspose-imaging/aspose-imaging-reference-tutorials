@@ -8,7 +8,9 @@ url: /net/dicom-image-processing/adjust-gamma-of-dicom-image/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Adjusting DICOM Image Gamma with Aspose.Imaging for .NET
@@ -108,6 +110,7 @@ A5: For technical assistance and community support, you can visit the [Aspose.Im
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Dynamic DICOM Image Manipulation with Aspose.Imaging .NET
 
@@ -223,7 +225,11 @@ Ready to take your skills further? Try implementing these techniques in your pro
 - [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 This guide should help you get started with drawing and manipulating DICOM images using Aspose.Imaging for .NET, providing a foundation to build more complex image processing applications.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

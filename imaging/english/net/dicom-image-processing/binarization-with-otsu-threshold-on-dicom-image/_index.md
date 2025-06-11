@@ -8,7 +8,9 @@ url: /net/dicom-image-processing/binarization-with-otsu-threshold-on-dicom-image
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Binarization with Otsu Threshold on DICOM Image in Aspose.Imaging for .NET
@@ -100,6 +102,7 @@ A5: Yes, you can explore the capabilities of Aspose.Imaging for .NET by download
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

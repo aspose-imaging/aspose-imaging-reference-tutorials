@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Title: Mastering DICOM Image Processing with Aspose.Imaging Java: Applying a Median Filter
 
@@ -193,7 +195,11 @@ A: Use different `ImageOptions` classes provided by Aspose.Imaging to save in va
 - **Support Forum**: [Aspose.Imaging Support](https://forum.aspose.com/c/imaging/10)
 
 Start exploring the powerful image processing capabilities of Aspose.Imaging for Java today!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

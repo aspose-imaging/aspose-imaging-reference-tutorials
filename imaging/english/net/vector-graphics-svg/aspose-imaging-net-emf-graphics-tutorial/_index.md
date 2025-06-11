@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Create and Save EMF Graphics with Text Using Aspose.Imaging .NET: A Comprehensive Guide
 
@@ -157,6 +159,9 @@ Ready to get started? Try implementing this solution in your next project!
 Explore these resources to dive deeper into Aspose.Imaging's capabilities and enhance your .NET applications today!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

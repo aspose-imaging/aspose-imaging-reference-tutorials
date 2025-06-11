@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Apply a Rotated Text Watermark in .NET Using Aspose.Imaging
 
@@ -167,6 +169,9 @@ You've successfully learned how to apply a rotated text watermark to an image us
 Try implementing these steps and see how Aspose.Imaging can streamline your image processing tasks!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

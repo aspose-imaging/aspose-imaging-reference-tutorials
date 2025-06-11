@@ -8,7 +8,9 @@ url: /java/image-processing-and-enhancement/optimize-default-font-usage/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Optimizing Default Font Usage with Aspose.Imaging for Java
@@ -122,6 +124,7 @@ A5: If you need assistance or have questions, you can visit the Aspose.Imaging f
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

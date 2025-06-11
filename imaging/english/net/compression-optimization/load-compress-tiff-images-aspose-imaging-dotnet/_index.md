@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Load and Compress TIFF Images Using Aspose.Imaging .NET: A Comprehensive Guide
 
@@ -169,7 +171,11 @@ A5: Yes, Aspose.Imaging supports a wide range of formats including JPEG, PNG, BM
 - **Free Trial**: Test out features by downloading from [Releases](https://releases.aspose.com/imaging/net/).
 - **Temporary License**: Request a temporary license at [Aspose Licensing](https://purchase.aspose.com/temporary-license/).
 - **Support and Community**: Join discussions or seek help on the [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

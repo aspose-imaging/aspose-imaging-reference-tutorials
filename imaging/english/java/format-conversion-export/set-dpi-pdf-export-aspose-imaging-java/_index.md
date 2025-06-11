@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Set DPI in PDF Exports Using Aspose.Imaging for Java
 
@@ -182,7 +184,11 @@ Use efficient memory management techniques and ensure your environment is correc
 - **Support:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
 
 With this comprehensive guide, you’re now equipped to implement DPI settings in your PDF exports using Aspose.Imaging for Java. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

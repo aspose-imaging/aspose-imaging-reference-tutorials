@@ -1,31 +1,33 @@
 ---
-title: تحويل TIFF إلى BMP باستخدام Aspose.Imaging لـ Java
-linktitle: استخراج إطارات TIFF إلى تنسيق BMP
-second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
-description: تعرف على كيفية استخراج إطارات TIFF إلى تنسيق BMP في Java باستخدام Aspose.Imaging for Java. اتبع دليلنا خطوة بخطوة.
-weight: 13
-url: /ar/java/document-conversion-and-processing/extract-tiff-frames-to-bmp-format/
+"description": "تعلّم كيفية استخراج إطارات TIFF إلى صيغة BMP في جافا باستخدام Aspose.Imaging for Java. اتبع دليلنا خطوة بخطوة."
+"linktitle": "استخراج إطارات TIFF إلى تنسيق BMP"
+"second_title": "واجهة برمجة تطبيقات معالجة الصور Java Aspose.Imaging"
+"title": "تحويل TIFF إلى BMP باستخدام Aspose.Imaging لـ Java"
+"url": "/ar/java/document-conversion-and-processing/extract-tiff-frames-to-bmp-format/"
+"weight": 13
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # تحويل TIFF إلى BMP باستخدام Aspose.Imaging لـ Java
 
-إذا كنت تعمل مع ملفات الصور في Java، وتحديدًا صور TIFF، وتحتاج إلى استخراج الإطارات منها وحفظها بتنسيق BMP، فإن Aspose.Imaging for Java هي أداة قوية ومتعددة الاستخدامات لتحقيق ذلك. في هذا الدليل التفصيلي، سنرشدك خلال عملية استخراج إطارات TIFF إلى تنسيق BMP باستخدام Aspose.Imaging for Java.
+إذا كنت تعمل على ملفات صور بلغة جافا، وتحديدًا صور TIFF، وتحتاج إلى استخراج إطارات منها وحفظها بصيغة BMP، فإن Aspose.Imaging for Java أداة فعّالة ومتعددة الاستخدامات لتحقيق ذلك. في هذا الدليل التفصيلي، سنشرح لك عملية استخراج إطارات TIFF إلى صيغة BMP باستخدام Aspose.Imaging for Java.
 
 ## المتطلبات الأساسية
 
 قبل أن نبدأ، تأكد من توفر المتطلبات الأساسية التالية:
 
-1. بيئة تطوير Java: يجب أن يكون لديك بيئة تطوير Java عاملة معدة على نظامك.
+1. بيئة تطوير Java: يجب أن يكون لديك بيئة تطوير Java عاملة تم إعدادها على نظامك.
 
-2.  Aspose.Imaging for Java: تأكد من تثبيت مكتبة Aspose.Imaging for Java. يمكنك تنزيله من الموقع[هنا](https://releases.aspose.com/imaging/java/).
+2. Aspose.Imaging لجافا: تأكد من تثبيت مكتبة Aspose.Imaging لجافا. يمكنك تنزيلها من الموقع الإلكتروني. [هنا](https://releases.aspose.com/imaging/java/).
 
-3. نموذج صورة TIFF: احصل على نموذج ملف صورة TIFF الذي تريد استخراج الإطارات منه. تأكد من توفر هذه الصورة في دليل العمل الخاص بك.
+3. صورة TIFF نموذجية: لديك ملف صورة TIFF نموذجي ترغب في استخراج الإطارات منه. تأكد من توفر هذه الصورة في مجلد العمل.
 
-## حزم الاستيراد
+## استيراد الحزم
 
 لبدء العملية، تحتاج إلى استيراد الحزم اللازمة لتطبيق Java الخاص بك:
 
@@ -38,7 +40,7 @@ import com.aspose.imaging.imageoptions.BmpOptions;
 import com.aspose.imaging.sources.FileCreateSource;
 ```
 
-## الخطوة 1: تحميل صورة TIFF وتهيئة عداد الإطار
+## الخطوة 1: تحميل صورة TIFF وتهيئة عداد الإطارات
 
 ```java
 // المسار إلى دليل المستندات.
@@ -46,30 +48,30 @@ String dataDir = "Your Document Directory" + "ConvertingImages/";
 
 try (TiffImage multiImage = (TiffImage) Image.load(dataDir + "sample.tiff"))
 {
-    // قم بإنشاء مثيل int لتتبع الإطارات في TiffImage
+    // إنشاء مثيل لـ int لتتبع الإطارات في TiffImage
     int frameCounter = 0;
 ```
 
 ## الخطوة 2: التكرار عبر إطارات TIFF
 
 ```java
-    // كرر على TiffFrames في TiffImage
+    // التكرار على TiffFrames في TiffImage
     for (TiffFrame tiffFrame : multiImage.getFrames())
     {
         multiImage.setActiveFrame(tiffFrame);
 ```
 
-## الخطوة 3: قم بتحميل بكسلات TiffFrame إلى مجموعة من الألوان
+## الخطوة 3: تحميل وحدات البكسل من TiffFrame إلى مجموعة من الألوان
 
 ```java
-        // قم بتحميل بكسلات TiffFrame إلى مجموعة من الألوان
+        // تحميل وحدات بكسل TiffFrame في مجموعة من الألوان
         Color[] pixels = multiImage.loadPixels(tiffFrame.getBounds());
 ```
 
 ## الخطوة 4: إنشاء خيارات BMP وتعيين البتات لكل بكسل
 
 ```java
-        // قم بإنشاء مثيل bmpCreateOptions
+        // إنشاء مثيل لـ bmpCreateOptions
         try (BmpOptions bmpCreateOptions = new BmpOptions())
         {
             bmpCreateOptions.setBitsPerPixel(24);
@@ -78,12 +80,12 @@ try (TiffImage multiImage = (TiffImage) Image.load(dataDir + "sample.tiff"))
 ## الخطوة 5: حفظ صورة BMP
 
 ```java
-            // قم بتعيين مصدر bmpCreateOptions كـ FileCreateSource عن طريق تحديد الموقع الذي سيتم حفظ الإخراج فيه
+            // قم بتعيين مصدر bmpCreateOptions كـ FileCreateSource من خلال تحديد الموقع الذي سيتم حفظ الإخراج فيه
             bmpCreateOptions.setSource(new FileCreateSource(String.format("%sConcatExtractTIFFFramesToBMP_out%d.bmp", "Your Document Directory", frameCounter), false));
-            // قم بإنشاء صورة bmpImage جديدة
+            // إنشاء صورة bmpImage جديدة
             try (BmpImage bmpImage = (BmpImage) Image.create(bmpCreateOptions, tiffFrame.getWidth(), tiffFrame.getHeight()))
             {
-                // احفظ bmpImage بالبكسلات من TiffFrame
+                // حفظ صورة bmpImage بالبكسل من TiffFrame
                 bmpImage.savePixels(tiffFrame.getBounds(), pixels);
                 bmpImage.save();
             }
@@ -95,32 +97,34 @@ try (TiffImage multiImage = (TiffImage) Image.load(dataDir + "sample.tiff"))
 
 ## خاتمة
 
-في هذا البرنامج التعليمي، تناولنا كيفية استخراج إطارات TIFF وحفظها كصور BMP باستخدام Aspose.Imaging for Java. باستخدام المتطلبات الأساسية الصحيحة واتباع الدليل خطوة بخطوة، يمكنك بسهولة تنفيذ مهمة تحويل الصور هذه في تطبيق Java الخاص بك.
+في هذا البرنامج التعليمي، تناولنا كيفية استخراج إطارات TIFF وحفظها كصور BMP باستخدام Aspose.Imaging لجافا. مع توفر المتطلبات الأساسية الصحيحة واتباع الدليل خطوة بخطوة، يمكنك بسهولة تحويل الصور في تطبيق جافا الخاص بك.
 
 ## الأسئلة الشائعة
 
 ### س1: ما هو Aspose.Imaging لـ Java؟
 
-ج1: Aspose.Imaging for Java عبارة عن مكتبة Java توفر إمكانات معالجة صور شاملة، مما يسمح لك بالعمل مع تنسيقات صور متنوعة وتنفيذ مهام مثل التحويل والتحرير والمعالجة.
+A1: Aspose.Imaging for Java هي مكتبة Java توفر إمكانيات معالجة الصور الشاملة، مما يسمح لك بالعمل مع تنسيقات الصور المختلفة وأداء مهام مثل التحويل والتحرير والتلاعب.
 
 ### س2: هل يمكنني استخدام Aspose.Imaging لـ Java مع تنسيقات صور مختلفة؟
 
-ج2: نعم، يدعم Aspose.Imaging for Java نطاقًا واسعًا من تنسيقات الصور، بما في ذلك TIFF وBMP وJPEG وPNG والعديد من التنسيقات الأخرى، مما يجعله أداة متعددة الاستخدامات للمهام المتعلقة بالصور.
+ج2: نعم، يدعم Aspose.Imaging for Java مجموعة واسعة من تنسيقات الصور، بما في ذلك TIFF وBMP وJPEG وPNG والعديد من التنسيقات الأخرى، مما يجعله أداة متعددة الاستخدامات للمهام المتعلقة بالصور.
 
-### س3: أين يمكنني العثور على الوثائق الخاصة بـ Aspose.Imaging for Java؟
+### س3: أين يمكنني العثور على الوثائق الخاصة بـ Aspose.Imaging لـ Java؟
 
- ج3: يمكنك العثور على الوثائق التفصيلية لـ Aspose.Imaging for Java[هنا](https://reference.aspose.com/imaging/java/).
+A3: يمكنك العثور على وثائق مفصلة لـ Aspose.Imaging لـ Java [هنا](https://reference.aspose.com/imaging/java/).
 
-### س4: هل هناك إصدار تجريبي مجاني متاح لـ Aspose.Imaging for Java؟
+### س4: هل هناك نسخة تجريبية مجانية متاحة لـ Aspose.Imaging لنظام Java؟
 
-ج4: نعم، يمكنك استكشاف Aspose.Imaging for Java من خلال الإصدار التجريبي المجاني المتاح[هنا](https://releases.aspose.com/).
+ج4: نعم، يمكنك استكشاف Aspose.Imaging لـ Java من خلال إصدار تجريبي مجاني متاح [هنا](https://releases.aspose.com/).
 
-### س5: كيف يمكنني الحصول على دعم Aspose.Imaging لـ Java؟
+### س5: كيف أحصل على الدعم لـ Aspose.Imaging لـ Java؟
 
- ج5: بالنسبة لأية أسئلة أو مشكلات أو دعم يتعلق بـ Aspose.Imaging for Java، يمكنك زيارة منتدى الدعم[هنا](https://forum.aspose.com/).
+ج5: لأي أسئلة أو مشكلات أو دعم يتعلق بـ Aspose.Imaging for Java، يمكنك زيارة منتدى الدعم [هنا](https://forum.aspose.com/).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

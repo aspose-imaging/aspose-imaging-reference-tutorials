@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering JPEG2000 Memory Management with Aspose.Imaging Java
 
@@ -211,7 +213,11 @@ A5: Visit the [Aspose documentation](https://reference.aspose.com/imaging/java/)
 - **Support**: https://forum.aspose.com/c/imaging/10
 
 Explore these resources to further enhance your understanding and application of Aspose.Imaging in Java. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

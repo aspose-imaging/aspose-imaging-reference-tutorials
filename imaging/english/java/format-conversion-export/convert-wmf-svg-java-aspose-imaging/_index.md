@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Convert WMF to SVG in Java Using Aspose.Imaging
 
@@ -213,7 +215,11 @@ A5: Visit [Aspose's forum](https://forum.aspose.com/c/imaging/10) for community 
 - **Free Trial**: Test features using a free trial download at [Aspose's releases page](https://releases.aspose.com/imaging/java/).
 
 Now, go ahead and try converting your WMF files to SVG in Java!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

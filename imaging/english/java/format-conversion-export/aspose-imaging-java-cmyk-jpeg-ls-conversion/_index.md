@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Title: Mastering Aspose.Imaging Java: Convert and Manage JPEG Images in CMYK JPEG-LS Format
 
@@ -189,7 +191,11 @@ To further explore the capabilities of Aspose.Imaging, consider diving deeper in
 - **Temporary License**: Extend your evaluation period by requesting a temporary license from [here](https://purchase.aspose.com/temporary-license/).
 
 This tutorial equips you with the knowledge and tools needed to handle JPEG images in CMYK-JPEG-LS format using Aspose.Imaging for Java. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

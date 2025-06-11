@@ -4,8 +4,11 @@ description: "Complete tutorials for applying filters, blur effects, noise reduc
 weight: 6
 url: "/net/image-filtering-effects/"
 ---
+
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # .NET Image Filtering and Effects Tutorials for Aspose.Imaging
 
@@ -42,7 +45,11 @@ Learn how to apply Otsu thresholding binarization to DICOM images using Aspose.I
 - [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging)
 - [Free Support](https://forum.aspose.com/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

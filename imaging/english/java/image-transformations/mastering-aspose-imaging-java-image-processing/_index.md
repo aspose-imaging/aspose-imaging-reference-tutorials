@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Processing in Java with Aspose.Imaging
 
@@ -195,7 +197,11 @@ For more information and resources, explore the [Aspose.Imaging documentation](h
    - Visit the [Aspose.Imaging GitHub repository](https://github.com/aspose-imaging/Aspose.Imaging-for-Java) for comprehensive code samples and use cases.
 
 Explore these resources further to deepen your understanding and enhance your Java applications with powerful image processing capabilities!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}
