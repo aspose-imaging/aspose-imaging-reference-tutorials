@@ -1,37 +1,39 @@
 ---
-title: Změňte velikost obrázků DICOM pomocí Aspose.Imaging pro .NET
-linktitle: Jednoduchá změna velikosti DICOM v Aspose.Imaging pro .NET
-second_title: Aspose.Imaging .NET Image Processing API
-description: Naučte se měnit velikost obrázků DICOM pomocí Aspose.Imaging for .NET, mocného nástroje pro zpracování lékařských obrázků. Jednoduché kroky pro přesné výsledky.
-weight: 19
-url: /cs/net/dicom-image-processing/dicom-simple-resizing/
+"description": "Naučte se, jak změnit velikost obrázků DICOM pomocí Aspose.Imaging pro .NET, výkonného nástroje pro zpracování lékařských obrazů. Jednoduché kroky pro přesné výsledky."
+"linktitle": "Jednoduchá změna velikosti DICOM v Aspose.Imaging pro .NET"
+"second_title": "Rozhraní API pro zpracování obrazu Aspose.Imaging .NET"
+"title": "Změna velikosti obrázků DICOM pomocí Aspose.Imaging pro .NET"
+"url": "/cs/net/dicom-image-processing/dicom-simple-resizing/"
+"weight": 19
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Změňte velikost obrázků DICOM pomocí Aspose.Imaging pro .NET
+# Změna velikosti obrázků DICOM pomocí Aspose.Imaging pro .NET
 
-neustále se vyvíjející oblasti lékařského zobrazování je potřeba flexibility a přesnosti při manipulaci se soubory DICOM (Digital Imaging and Communications in Medicine). Aspose.Imaging for .NET se ukazuje jako výkonné řešení, které nabízí komplexní sadu nástrojů pro práci s lékařskými snímky. V tomto tutoriálu prozkoumáme přímý proces změny velikosti obrázků DICOM pomocí Aspose.Imaging pro .NET. 
+neustále se vyvíjející oblasti lékařského zobrazování je potřeba flexibility a přesnosti při práci se soubory DICOM (Digital Imaging and Communications in Medicine) prvořadá. Aspose.Imaging for .NET se jeví jako výkonné řešení, které nabízí komplexní sadu nástrojů pro práci s lékařskými snímky. V tomto tutoriálu prozkoumáme přímočarý proces změny velikosti snímků DICOM pomocí Aspose.Imaging for .NET. 
 
 ## Předpoklady
 
-Než se pustíme do podrobného průvodce, ujistěte se, že máte splněny následující předpoklady:
+Než se pustíme do podrobného návodu, ujistěte se, že máte splněny následující předpoklady:
 
-1.  Aspose.Imaging for .NET: Ve svém vývojovém prostředí musíte mít nainstalovanou knihovnu Aspose.Imaging for .NET. Pokud jste tak ještě neučinili, můžete si jej stáhnout z[tady](https://releases.aspose.com/imaging/net/).
+1. Aspose.Imaging pro .NET: Ve svém vývojovém prostředí musíte mít nainstalovanou knihovnu Aspose.Imaging pro .NET. Pokud ji ještě nemáte, můžete si ji stáhnout z [zde](https://releases.aspose.com/imaging/net/).
 
-2. Vývojové prostředí .NET: Vyžaduje se pracovní znalost C# a vývojového prostředí .NET.
+2. Vývojové prostředí .NET: Je vyžadována pracovní znalost jazyka C# a vývojového prostředí .NET.
 
-3. Soubor obrázku DICOM: Měli byste mít soubor obrázku DICOM, jehož velikost chcete změnit. Pokud potřebujete ukázkový obraz DICOM pro testování, můžete jej snadno najít online.
+3. Soubor s obrázkem DICOM: Měli byste mít soubor s obrázkem DICOM, jehož velikost chcete změnit. Pokud potřebujete vzorový snímek DICOM pro testování, můžete si ho snadno najít online.
 
-4. Visual Studio (volitelné): I když to není povinné, používání sady Visual Studio pro tento výukový program zlepší vaše zkušenosti s vývojem.
+4. Visual Studio (volitelné): I když to není povinné, použití Visual Studia v tomto tutoriálu vylepší vaše vývojářské zkušenosti.
 
-Nyní si rozeberme proces změny velikosti obrazu DICOM do jednoduchých kroků.
+Nyní si rozeberme proces změny velikosti obrazu DICOM do jednoduchých a praktických kroků.
 
 ## Krok 1: Import jmenných prostorů
 
-Prvním krokem je import potřebných jmenných prostorů pro práci s Aspose.Imaging. Ve svém projektu C# zahrňte následující jmenné prostory:
+Prvním krokem je import potřebných jmenných prostorů pro práci s Aspose.Imaging. Ve vašem projektu C# zahrňte následující jmenné prostory:
 
 ```csharp
 using System;
@@ -41,15 +43,15 @@ using Aspose.Imaging.FileFormats.Dicom;
 using Aspose.Imaging.ImageOptions;
 ```
 
-Importováním těchto jmenných prostorů získáte přístup k funkcím potřebným pro zpracování obrazů DICOM.
+Importem těchto jmenných prostorů získáte přístup k funkcím potřebným pro zpracování obrázků DICOM.
 
-## Krok 2: Změna velikosti obrázku DICOM
+## Krok 2: Změna velikosti obrazu DICOM
 
-Nyní si rozdělme proces změny velikosti obrazu DICOM do několika zvládnutelných kroků.
+Nyní si rozdělme proces změny velikosti obrazu DICOM do několika snadno zvládnutelných kroků.
 
-### Krok 2.1: Nastavte adresář dokumentů
+### Krok 2.1: Nastavení adresáře dokumentů
 
- V kódu C# zadejte adresář, kde se nachází váš soubor DICOM. Měli byste vyměnit`"Your Document Directory"` se skutečnou cestou k adresáři vašeho souboru.
+V kódu C# zadejte adresář, kde se nachází váš soubor DICOM. Měli byste nahradit `"Your Document Directory"` se skutečnou cestou k adresáři souborů.
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -57,37 +59,37 @@ string dataDir = "Your Document Directory";
 
 ### Krok 2.2: Otevřete soubor DICOM
 
- Dále otevřete soubor DICOM pomocí a`FileStream` . Ujistěte se, že vyměňujete`"file.dcm"` s názvem vašeho souboru DICOM.
+Dále otevřete soubor DICOM pomocí `FileStream`Ujistěte se, že jste vyměnili `"file.dcm"` s názvem vašeho DICOM souboru.
 
 ```csharp
 using (var fileStream = new FileStream(dataDir + "file.dcm", FileMode.Open, FileAccess.Read))
 {
-    // Zde je váš kód pro zpracování obrázků
+    // Sem vložíte kód pro zpracování obrazu
 }
 ```
 
-### Krok 2.3: Načtěte obrázek DICOM
+### Krok 2.3: Načtení obrazu DICOM
 
- Načtěte obraz DICOM z`fileStream`To vám umožní získat přístup k obrazu a provádět s ním operace.
+Načtěte snímek DICOM z `fileStream`To vám umožní přístup k obrázku a provádění operací s ním.
 
 ```csharp
 using (DicomImage image = new DicomImage(fileStream))
 {
-    // Zde je váš kód pro zpracování obrázků
+    // Sem vložíte kód pro zpracování obrazu
 }
 ```
 
-### Krok 2.4: Změňte velikost obrazu DICOM
+### Krok 2.4: Změna velikosti obrazu DICOM
 
-Po načtení obrázku DICOM můžete nyní změnit jeho velikost na požadované rozměry. V tomto příkladu měníme jeho velikost na 200x200 pixelů.
+Po načtení obrázku DICOM můžete nyní změnit jeho velikost na požadované rozměry. V tomto příkladu jej zmenšujeme na 200x200 pixelů.
 
 ```csharp
 image.Resize(200, 200);
 ```
 
-### Krok 2.5: Uložte obrázek se změněnou velikostí
+### Krok 2.5: Uložení změněného obrázku
 
-Nakonec uložte obraz DICOM se změněnou velikostí do určeného výstupního adresáře. V tomto příkladu jej ukládáme jako soubor BMP.
+Nakonec uložte upravený obrázek DICOM do vámi určeného výstupního adresáře. V tomto příkladu jej ukládáme jako soubor BMP.
 
 ```csharp
 image.Save(dataDir + "DICOMSimpleResizing_out.bmp", new BmpOptions());
@@ -95,34 +97,36 @@ image.Save(dataDir + "DICOMSimpleResizing_out.bmp", new BmpOptions());
 
 ## Závěr
 
-Gratulujeme! Úspěšně jste změnili velikost obrazu DICOM pomocí Aspose.Imaging for .NET. Pomocí těchto jednoduchých kroků můžete efektivně manipulovat s lékařskými snímky tak, aby vyhovovaly vašim specifickým požadavkům.
+Gratulujeme! Úspěšně jste změnili velikost obrazu DICOM pomocí Aspose.Imaging for .NET. Pomocí těchto jednoduchých kroků můžete efektivně upravovat lékařské snímky tak, aby splňovaly vaše specifické požadavky.
 
- Pokud narazíte na nějaké problémy nebo máte dotazy ohledně Aspose.Imaging pro .NET, neváhejte vyhledat pomoc od podpůrné komunity na[Fórum Aspose](https://forum.aspose.com/).
+Pokud narazíte na jakékoli problémy nebo máte dotazy ohledně Aspose.Imaging pro .NET, neváhejte vyhledat pomoc od podpůrné komunity na adrese [Fórum Aspose](https://forum.aspose.com/).
 
-## FAQ
+## Často kladené otázky
 
-### Q1: Co je DICOM?
+### Otázka 1: Co je DICOM?
 
-A1: DICOM znamená Digital Imaging and Communications in Medicine. Je to standard pro ukládání, přenos a sdílení lékařských snímků a souvisejících informací.
+A1: DICOM je zkratka pro Digital Imaging and Communications in Medicine (Digitální zobrazování a komunikace v medicíně). Jedná se o standard pro ukládání, přenos a sdílení lékařských snímků a souvisejících informací.
 
-### Q2: Mohu použít Aspose.Imaging i pro jiné formáty obrázků?
+### Q2: Mohu použít Aspose.Imaging i pro jiné obrazové formáty?
 
-Odpověď 2: Ano, Aspose.Imaging for .NET podporuje širokou škálu obrazových formátů mimo DICOM, včetně BMP, JPEG, PNG a dalších.
+A2: Ano, Aspose.Imaging pro .NET podporuje širokou škálu obrazových formátů nad rámec DICOM, včetně BMP, JPEG, PNG a dalších.
 
-### Otázka 3: Je k otevření obrázku se změněnou velikostí vyžadován prohlížeč DICOM?
+### Otázka 3: Je k otevření změněného obrázku potřeba prohlížeč DICOM?
 
-Odpověď 3: Ne, jakmile změníte velikost obrázku DICOM pomocí Aspose.Imaging, výsledný obrázek je ve standardním formátu obrázku (např. BMP) a lze jej prohlížet pomocí běžných prohlížečů obrázků.
+A3: Ne, jakmile změníte velikost obrázku DICOM pomocí Aspose.Imaging, výsledný obrázek je ve standardním obrazovém formátu (např. BMP) a lze jej zobrazit pomocí běžných prohlížečů obrázků.
 
-### Q4: Je Aspose.Imaging for .NET kompatibilní se všemi verzemi .NET Framework?
+### Q4: Je Aspose.Imaging pro .NET kompatibilní se všemi verzemi .NET Frameworku?
 
-Odpověď 4: Aspose.Imaging for .NET je kompatibilní s různými verzemi rozhraní .NET Framework, včetně .NET Core a .NET Standard. Podrobnosti najdete v dokumentaci.
+A4: Aspose.Imaging pro .NET je kompatibilní s různými verzemi .NET Frameworku, včetně .NET Core a .NET Standard. Podrobnosti naleznete v dokumentaci.
 
-### Q5: Kde najdu další výukové programy Aspose.Imaging pro .NET?
+### Q5: Kde najdu další tutoriály k Aspose.Imaging pro .NET?
 
- A5: Můžete prozkoumat[Dokumentace Aspose.Imaging pro .NET](https://reference.aspose.com/imaging/net/) pro širokou škálu výukových programů a příkladů.
+A5: Můžete prozkoumat   [Dokumentace k Aspose.Imaging pro .NET](https://reference.aspose.com/imaging/net/) pro širokou škálu tutoriálů a příkladů.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

@@ -1,35 +1,37 @@
 ---
-title: Binarizace pomocí Bradleyho adaptivního prahu na DICOM obrazu v Aspose.Imaging pro .NET
-linktitle: Binarizace pomocí Bradleyho adaptivního prahu na DICOM obrazu v Aspose.Imaging pro .NET
-second_title: Aspose.Imaging .NET Image Processing API
-description: Naučte se aplikovat Bradleyho adaptivní práh na obrazy DICOM pomocí Aspose.Imaging for .NET. Binarizace je snadná s průvodcem krok za krokem.
-weight: 14
-url: /cs/net/dicom-image-processing/binarization-with-bradleys-adaptive-threshold-on-dicom-image/
+"description": "Naučte se aplikovat Bradleyho adaptivní práh na DICOM snímky pomocí Aspose.Imaging pro .NET. Snadná binarizace s podrobným návodem."
+"linktitle": "Binarizace s Bradleyho adaptivním prahem na DICOM obrazu v Aspose.Imaging pro .NET"
+"second_title": "Rozhraní API pro zpracování obrazu Aspose.Imaging .NET"
+"title": "Binarizace s Bradleyho adaptivním prahem na DICOM obrazu v Aspose.Imaging pro .NET"
+"url": "/cs/net/dicom-image-processing/binarization-with-bradleys-adaptive-threshold-on-dicom-image/"
+"weight": 14
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Binarizace pomocí Bradleyho adaptivního prahu na DICOM obrazu v Aspose.Imaging pro .NET
+# Binarizace s Bradleyho adaptivním prahem na DICOM obrazu v Aspose.Imaging pro .NET
 
-Chcete použít Bradleyho adaptivní práh na obraz DICOM pomocí Aspose.Imaging for .NET? V tomto obsáhlém tutoriálu vás provedeme procesem krok za krokem. Na konci této příručky budete schopni efektivně provádět binarizaci obrazů DICOM. Pokryjeme vše od předpokladů po import jmenných prostorů a rozdělení každého příkladu do několika kroků.
+Chcete aplikovat Bradleyho adaptivní práh na DICOM obraz pomocí Aspose.Imaging pro .NET? V tomto komplexním tutoriálu vás krok za krokem provedeme celým procesem. Na konci tohoto průvodce budete schopni efektivně provádět binarizaci DICOM obrazů. Probereme vše od předpokladů až po import jmenných prostorů a rozdělíme každý příklad do několika kroků.
 
 ## Předpoklady
 
-Než se vrhneme na tutoriál, ujistěte se, že máte vše, co potřebujete, abyste mohli začít.
+Než se pustíme do tutoriálu, ujistěme se, že máte vše, co potřebujete k zahájení.
 
 1. Aspose.Imaging pro .NET
 
- Ujistěte se, že máte v systému nainstalovaný Aspose.Imaging for .NET. Můžete si jej stáhnout z webu[tady](https://releases.aspose.com/imaging/net/).
+Ujistěte se, že máte v systému nainstalovaný Aspose.Imaging pro .NET. Můžete si ho stáhnout z webových stránek [zde](https://releases.aspose.com/imaging/net/).
 
 2. Obrázek DICOM
 
-Připravte si obraz DICOM, který chcete binarizovat. Měli byste mít cestu k souboru k obrazu DICOM připravenou ke zpracování.
+Připravte si DICOM obrázek, který chcete binarizovat. Měli byste mít připravenou cestu k souboru s DICOM obrazem pro zpracování.
 
 ## Import jmenných prostorů
 
-V této části naimportujeme potřebné jmenné prostory pro práci s Aspose.Imaging pro .NET. Tento krok je nezbytný pro zpřístupnění všech funkcí vašemu kódu.
+této části importujeme potřebné jmenné prostory pro práci s Aspose.Imaging pro .NET. Tento krok je nezbytný pro zpřístupnění všech funkcí vašemu kódu.
 
 
 ```csharp
@@ -40,11 +42,11 @@ using Aspose.Imaging.FileFormats.Dicom;
 using Aspose.Imaging.FileFormats.Bmp;
 ```
 
-Nyní, když jsme importovali základní jmenné prostory, přejděme k hlavnímu procesu binarizace.
+Nyní, když jsme importovali základní jmenné prostory, pojďme se přesunout k hlavnímu procesu binarizace.
 
-Nyní rozdělíme proces binarizace do několika kroků, abychom zajistili, že budete snadno sledovat a porozumět každé části kódu.
+Nyní rozdělíme proces binarizace do několika kroků, abyste mohli snadno sledovat a rozumět každé části kódu.
 
-## Krok 1: Načtěte obrázek DICOM
+## Krok 1: Načtení obrazu DICOM
 
 Nejprve musíme načíst obraz DICOM pro binarizaci. Ujistěte se, že máte správnou cestu k obrazu DICOM.
 
@@ -55,22 +57,22 @@ string inputFile = dataDir + "image.dcm";
 using (var fileStream = new FileStream(inputFile, FileMode.Open, FileAccess.Read))
 using (DicomImage image = new DicomImage(fileStream))
 {
-    // Váš kód půjde sem
+    // Váš kód bude zde
 }
 ```
 
-## Krok 2: Binarizace obrázku
+## Krok 2: Binarizace obrazu
 
 Nyní je čas použít Bradleyho adaptivní práh k binarizaci obrazu.
 
 ```csharp
-// Binarizujte obraz pomocí Bradleyho adaptivního prahu a výsledný obraz uložte.
+// Binarizujte obraz s Bradleyho adaptivním prahem a uložte výsledný obraz.
 image.BinarizeBradley(10);
 ```
 
-## Krok 3: Uložte binární obrázek
+## Krok 3: Uložení binárního obrazu
 
-Uložte binarizovaný obrázek na požadované místo ve formátu BMP.
+Uložte binární obraz na požadované místo ve formátu BMP.
 
 ```csharp
 image.Save(dataDir + "BinarizationWithBradleysAdaptiveThreshold_out.bmp", new BmpOptions());
@@ -78,34 +80,36 @@ image.Save(dataDir + "BinarizationWithBradleysAdaptiveThreshold_out.bmp", new Bm
 
 ## Závěr
 
-tomto tutoriálu jsme pokryli celý proces binarizace pomocí Bradleyho adaptivního prahu na obrázku DICOM pomocí Aspose.Imaging for .NET. Naučili jste se předpoklady, jak importovat jmenné prostory a krok za krokem průvodce binarizací obrázku. S těmito znalostmi můžete efektivně zpracovávat obrazy DICOM pro vaše specifické potřeby.
+tomto tutoriálu jsme si probrali celý proces binarizace s Bradleyho adaptivním prahem na DICOM obrázku s využitím Aspose.Imaging pro .NET. Naučili jste se předpoklady, jak importovat jmenné prostory a podrobný návod k binarizaci obrázku. S těmito znalostmi můžete efektivně zpracovávat DICOM obrázky pro vaše specifické potřeby.
 
-Nyní máte nástroje a znalosti pro vylepšení vašich schopností zpracování obrazu pomocí Aspose.Imaging pro .NET.
+Nyní máte nástroje a znalosti pro vylepšení vašich možností zpracování obrazu s Aspose.Imaging pro .NET.
 
-## FAQ
+## Často kladené otázky
 
-### Q1: Co je Bradleyho adaptivní práh?
+### Otázka 1: Co je Bradleyho adaptivní práh?
 
-Odpověď 1: Bradley's Adaptive Threshold je metoda používaná při zpracování obrazu k oddělení popředí a pozadí obrazu na základě adaptivních prahových hodnot.
+A1: Bradleyho adaptivní práh je metoda používaná při zpracování obrazu k oddělení popředí a pozadí obrazu na základě adaptivních prahových hodnot.
 
-### Q2: Mohu zpracovat více obrazů DICOM najednou?
+### Q2: Mohu zpracovat více snímků DICOM najednou?
 
-Odpověď 2: Ano, můžete procházet více obrazy DICOM a použít proces binarizace, jak je ukázáno v tomto kurzu.
+A2: Ano, můžete procházet více obrázků DICOM a použít proces binarizace, jak je znázorněno v tomto tutoriálu.
 
-### Q3: Kde najdu další dokumentaci Aspose.Imaging pro .NET?
+### Q3: Kde najdu další dokumentaci k Aspose.Imaging pro .NET?
 
- A3: Můžete prozkoumat dokumentaci[tady](https://reference.aspose.com/imaging/net/)pro podrobné informace o používání Aspose.Imaging pro .NET.
+A3: Můžete si prohlédnout dokumentaci [zde](https://reference.aspose.com/imaging/net/) pro podrobné informace o používání Aspose.Imaging pro .NET.
 
 ### Q4: Je k dispozici zkušební verze pro Aspose.Imaging pro .NET?
 
- A4: Ano, máte přístup k bezplatné zkušební verzi[tady](https://releases.aspose.com/) k otestování softwaru před nákupem.
+A4: Ano, máte přístup k bezplatné zkušební verzi [zde](https://releases.aspose.com/) otestovat software před jeho nákupem.
 
 ### Q5: Jak mohu získat podporu pro Aspose.Imaging pro .NET?
 
- A5: Můžete se připojit ke komunitě Aspose a získat podporu od ostatních vývojářů na[Fórum Aspose](https://forum.aspose.com/).
+A5: Můžete se připojit ke komunitě Aspose a získat podporu od ostatních vývojářů na [Fórum Aspose](https://forum.aspose.com/).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

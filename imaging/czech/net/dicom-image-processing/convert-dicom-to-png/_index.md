@@ -1,33 +1,35 @@
 ---
-title: Převeďte DICOM na PNG pomocí Aspose.Imaging pro .NET
-linktitle: Převeďte DICOM na PNG v Aspose.Imaging pro .NET
-second_title: Aspose.Imaging .NET Image Processing API
-description: Převeďte DICOM na PNG bez námahy pomocí Aspose.Imaging pro .NET. Zjednodušte sdílení lékařských snímků.
-weight: 21
-url: /cs/net/dicom-image-processing/convert-dicom-to-png/
+"description": "Převádějte DICOM do PNG bez námahy s Aspose.Imaging pro .NET. Zjednodušte sdílení lékařských snímků."
+"linktitle": "Převod DICOM do PNG v Aspose.Imaging pro .NET"
+"second_title": "Rozhraní API pro zpracování obrazu Aspose.Imaging .NET"
+"title": "Převod DICOM do PNG pomocí Aspose.Imaging pro .NET"
+"url": "/cs/net/dicom-image-processing/convert-dicom-to-png/"
+"weight": 21
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Převeďte DICOM na PNG pomocí Aspose.Imaging pro .NET
+# Převod DICOM do PNG pomocí Aspose.Imaging pro .NET
 
-Ve světě lékařského zobrazování je DICOM (Digital Imaging and Communications in Medicine) široce používaný formát pro ukládání a sdílení lékařských snímků. Když však potřebujete převést soubory DICOM do běžnějších obrazových formátů, jako je PNG, Aspose.Imaging for .NET přichází na pomoc. Tento tutoriál vás provede procesem převodu souborů DICOM na PNG pomocí Aspose.Imaging for .NET.
+Ve světě lékařského zobrazování je DICOM (Digital Imaging and Communications in Medicine) široce používaným formátem pro ukládání a sdílení lékařských snímků. Pokud však potřebujete převést soubory DICOM do běžnějších obrazových formátů, jako je PNG, na pomoc přichází Aspose.Imaging for .NET. Tento tutoriál vás provede procesem převodu souborů DICOM do PNG pomocí Aspose.Imaging for .NET.
 
 ## Předpoklady
 
-Než se pustíme do procesu převodu, budete potřebovat následující předpoklady:
+Než se ponoříme do procesu konverze, budete potřebovat následující předpoklady:
 
-1.  Aspose.Imaging for .NET: Ujistěte se, že máte nainstalovanou tuto knihovnu. Můžete to získat z[stránka ke stažení](https://releases.aspose.com/imaging/net/).
+1. Aspose.Imaging pro .NET: Ujistěte se, že máte tuto knihovnu nainstalovanou. Můžete ji získat z [stránka ke stažení](https://releases.aspose.com/imaging/net/).
 
-2. Soubor DICOM: Připravte soubor DICOM, který chcete převést na PNG. Pokud žádný nemáte, můžete najít ukázkové soubory DICOM na internetu nebo si je vyžádat na svém lékařském zobrazovacím oddělení.
+2. Soubor DICOM: Připravte si soubor DICOM, který chcete převést do formátu PNG. Pokud soubor nemáte, můžete si ukázkové soubory DICOM najít na internetu nebo si je vyžádat na oddělení lékařského zobrazování.
 
-S těmito předpoklady jste připraveni začít převádět DICOM na PNG pomocí Aspose.Imaging for .NET.
+S těmito předpoklady jste připraveni začít s převodem DICOM do PNG pomocí Aspose.Imaging pro .NET.
 
 ## Krok 1: Import jmenných prostorů
 
-Nejprve musíte importovat potřebné jmenné prostory pro práci s Aspose.Imaging. Do kódu C# zahrňte následující jmenné prostory:
+Nejprve je potřeba importovat potřebné jmenné prostory pro práci s Aspose.Imaging. Do kódu C# zahrňte následující jmenné prostory:
 
 ```csharp
 using Aspose.Imaging;
@@ -38,7 +40,7 @@ using Aspose.Imaging.ImageOptions;
 
 Nyní si rozdělme proces převodu do několika kroků.
 
-### Krok 2.1: Načtěte soubor DICOM
+### Krok 2.1: Načtení souboru DICOM
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -46,11 +48,11 @@ string inputFile = Path.Combine(dataDir, "MultiframePage1.dicom");
 
 using (Aspose.Imaging.FileFormats.Dicom.DicomImage image = (Aspose.Imaging.FileFormats.Dicom.DicomImage)Image.Load(inputFile))
 {
-    // Sem přijde váš kód pro převod.
+    // Váš kód pro konverzi bude zde.
 }
 ```
 
-V tomto kroku definujete cestu k vašemu DICOM souboru a pomocí Aspose.Imaging jej načtete.
+V tomto kroku definujete cestu k souboru DICOM a k jeho načtení použijete Aspose.Imaging.
 
 ### Krok 2.2: Konfigurace možností PNG
 
@@ -58,7 +60,7 @@ V tomto kroku definujete cestu k vašemu DICOM souboru a pomocí Aspose.Imaging 
 PngOptions options = new PngOptions();
 ```
 
- Zde vytvoříte instanci`PngOptions`která vám umožňuje zadat nastavení pro obrázek PNG, který se chystáte vytvořit.
+Zde vytvoříte instanci `PngOptions`, což vám umožňuje zadat nastavení pro obrázek PNG, který chcete vytvořit.
 
 ### Krok 2.3: Uložit jako PNG
 
@@ -66,7 +68,7 @@ PngOptions options = new PngOptions();
 image.Save(dataDir + @"MultiframePage1.png", options);
 ```
 
- Zde dochází ke skutečné konverzi. Používáte`Save` metoda pro převod načteného obrazu DICOM na obraz PNG se zadanými možnostmi.
+Zde dochází ke skutečné konverzi. Použijete `Save` metoda pro převod načteného obrázku DICOM do obrázku PNG se zadanými možnostmi.
 
 ### Krok 2.4: Vyčištění (volitelné)
 
@@ -74,38 +76,40 @@ image.Save(dataDir + @"MultiframePage1.png", options);
 File.Delete(dataDir + "MultiframePage1.png");
 ```
 
-Pokud chcete mezilehlé soubory vyčistit, můžete odstranit soubor PNG vytvořený během procesu převodu.
+Pokud chcete vyčistit mezilehlé soubory, můžete smazat soubor PNG vytvořený během procesu převodu.
 
 ## Závěr
 
-Převod DICOM na PNG je běžnou potřebou v lékařské oblasti a Aspose.Imaging for .NET tento úkol zjednodušuje. Pomocí několika řádků kódu můžete převést své soubory DICOM do formátu PNG, díky čemuž budou dostupnější a snáze se s nimi sdílí. Aspose.Imaging for .NET nabízí výkonné a flexibilní řešení pro manipulaci s různými formáty obrázků ve vašich aplikacích .NET.
+Převod DICOM do PNG je v lékařství běžnou potřebou a Aspose.Imaging pro .NET tento úkol zjednodušuje. Pomocí několika řádků kódu můžete převést soubory DICOM do formátu PNG, čímž je učiníte přístupnějšími a snadněji sdílenými. Aspose.Imaging pro .NET nabízí výkonné a flexibilní řešení pro práci s různými obrazovými formáty ve vašich .NET aplikacích.
 
- Pokud narazíte na nějaké problémy nebo máte dotazy ohledně Aspose.Imaging pro .NET, můžete vyhledat pomoc na[Fórum Aspose.Imaging](https://forum.aspose.com/).
+Pokud narazíte na jakékoli problémy nebo máte dotazy ohledně Aspose.Imaging pro .NET, můžete vyhledat pomoc na [Fórum Aspose.Imaging](https://forum.aspose.com/).
 
-## FAQ
+## Často kladené otázky
 
-### Q1: Je Aspose.Imaging for .NET zdarma k použití?
+### Q1: Je Aspose.Imaging pro .NET zdarma?
 
-Odpověď 1: Aspose.Imaging for .NET je komerční knihovna a k jejímu použití je vyžadována platná licence. Můžete získat a[dočasná licence](https://purchase.aspose.com/temporary-license/) pro účely hodnocení. Pro více informací o cenách a licencování navštivte[nákupní stránku](https://purchase.aspose.com/buy).
+A1: Aspose.Imaging pro .NET je komerční knihovna a pro její použití je vyžadována platná licence. Můžete si ji zakoupit [dočasná licence](https://purchase.aspose.com/temporary-license/) pro účely hodnocení. Další informace o cenách a licencování naleznete na [stránka nákupu](https://purchase.aspose.com/buy).
 
-### Q2: Mohu převést více souborů DICOM v dávkovém režimu?
+### Q2: Mohu dávkově převést více souborů DICOM?
 
-Odpověď 2: Ano, Aspose.Imaging for .NET podporuje dávkové zpracování. Můžete procházet více soubory DICOM a převést je na PNG najednou.
+A2: Ano, Aspose.Imaging pro .NET podporuje dávkové zpracování. Můžete procházet více souborů DICOM a převést je najednou do formátu PNG.
 
-### Otázka 3: Existují nějaká omezení v procesu převodu DICOM na PNG?
+### Otázka 3: Existují nějaká omezení v procesu převodu DICOM do PNG?
 
-Odpověď 3: Omezení, pokud existují, budou záviset na samotném souboru DICOM a zvolených možnostech PNG. Aspose.Imaging for .NET poskytuje flexibilitu při zpracování různých scénářů, ale specifika se mohou lišit.
+A3: Případná omezení budou záviset na samotném souboru DICOM a zvolených možnostech PNG. Aspose.Imaging pro .NET poskytuje flexibilitu při zpracování různých scénářů, ale specifika se mohou lišit.
 
-### Otázka 4: Jak se vypořádám s chybami během procesu převodu?
+### Q4: Jak mám řešit chyby během procesu převodu?
 
- A4: Můžete implementovat zpracování chyb v kódu C# pro zachycení a správu výjimek. Odkazovat na[dokumentace](https://reference.aspose.com/imaging/net/) pro podrobné pokyny pro řešení chyb.
+A4: V kódu C# můžete implementovat ošetření chyb pro zachycení a správu výjimek. Viz [dokumentace](https://reference.aspose.com/imaging/net/) pro podrobné pokyny pro ošetření chyb.
 
-### Q5: Mohu převést soubory DICOM do jiných obrazových formátů kromě PNG?
+### Q5: Mohu převést soubory DICOM do jiných obrazových formátů než PNG?
 
-Odpověď 5: Ano, Aspose.Imaging for .NET podporuje různé formáty obrázků. Soubory DICOM můžete převést do formátů jako JPEG, BMP, TIFF a další, v závislosti na vašich potřebách.
+A5: Ano, Aspose.Imaging pro .NET podporuje různé obrazové formáty. Soubory DICOM můžete převádět do formátů jako JPEG, BMP, TIFF a dalších, v závislosti na vašich potřebách.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

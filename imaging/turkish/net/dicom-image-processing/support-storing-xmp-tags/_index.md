@@ -1,29 +1,31 @@
 ---
-title: Aspose.Imaging for .NET'te XMP Etiketlerinin Saklanması Desteği
-linktitle: Aspose.Imaging for .NET'te XMP Etiketlerinin Saklanması Desteği
-second_title: Aspose.Imaging .NET Görüntü İşleme API'si
-description: Aspose.Imaging for .NET kullanarak DICOM görüntülerine XMP meta verilerini nasıl ekleyeceğinizi öğrenin. Bu adım adım kılavuzla görüntü yönetimini ve organizasyonunu optimize edin.
-weight: 25
-url: /tr/net/dicom-image-processing/support-storing-xmp-tags/
+"description": ".NET için Aspose.Imaging kullanarak DICOM görüntülerine XMP meta verilerinin nasıl ekleneceğini öğrenin. Bu adım adım kılavuzla görüntü yönetimini ve organizasyonunu optimize edin."
+"linktitle": ".NET için Aspose.Imaging'de XMP Etiketlerinin Depolanması Desteği"
+"second_title": "Aspose.Imaging .NET Görüntü İşleme API'si"
+"title": ".NET için Aspose.Imaging'de XMP Etiketlerinin Depolanması Desteği"
+"url": "/tr/net/dicom-image-processing/support-storing-xmp-tags/"
+"weight": 25
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Aspose.Imaging for .NET'te XMP Etiketlerinin Saklanması Desteği
+# .NET için Aspose.Imaging'de XMP Etiketlerinin Depolanması Desteği
 
-Aspose.Imaging for .NET, .NET ortamında çeşitli görüntü formatlarıyla çalışmanıza olanak tanıyan güçlü bir kütüphanedir. Bu eğitimde, Aspose.Imaging for .NET'te XMP (Genişletilebilir Meta Veri Platformu) etiketlerinin saklanmasının nasıl destekleneceğini keşfedeceğiz. XMP etiketleri, görüntülere meta veri bilgileri eklemek ve dijital varlıklarınızı organize etmeyi ve yönetmeyi kolaylaştırmak için gereklidir. Bunu nasıl başaracağınızı anlamanıza yardımcı olmak için süreci birden fazla adıma ayıracağız.
+Aspose.Imaging for .NET, .NET ortamında çeşitli görüntü biçimleriyle çalışmanıza olanak tanıyan güçlü bir kütüphanedir. Bu eğitimde, Aspose.Imaging for .NET'te XMP (Genişletilebilir Meta Veri Platformu) etiketlerinin depolanmasını nasıl destekleyeceğinizi inceleyeceğiz. XMP etiketleri, dijital varlıklarınızı düzenlemenizi ve yönetmenizi kolaylaştırarak görüntülere meta veri bilgisi eklemek için olmazsa olmazdır. Bunu nasıl başaracağınızı anlamanıza yardımcı olmak için süreci birden fazla adıma ayıracağız.
 
-## Önkoşullar
+## Ön koşullar
 
-Başlamadan önce aşağıdaki önkoşulların mevcut olduğundan emin olun:
+Başlamadan önce aşağıdaki ön koşulların mevcut olduğundan emin olun:
 
-- Aspose.Imaging for .NET: Aspose.Imaging for .NET'in kurulu olması gerekir. adresinden indirebilirsiniz.[Aspose.Imaging for .NET web sitesi](https://releases.aspose.com/imaging/net/).
+- Aspose.Imaging for .NET: Aspose.Imaging for .NET'i yüklemiş olmanız gerekir. Bunu şuradan indirebilirsiniz: [Aspose.Imaging .NET web sitesi için](https://releases.aspose.com/imaging/net/).
 
 ## Ad Alanlarını İçe Aktar
 
-.NET projenize Aspose.Imaging ile çalışmak için gerekli ad alanlarını içe aktarın:
+.NET projenizde Aspose.Imaging ile çalışmak için gerekli ad alanlarını içe aktarın:
 
 ```csharp
 using Aspose.Imaging;
@@ -31,11 +33,11 @@ using Aspose.Imaging.Exif;
 using Aspose.Imaging.FileFormats.Dicom;
 ```
 
-Şimdi Aspose.Imaging for .NET kullanarak XMP etiketlerinin saklanmasını desteklemek için adım adım kılavuza bakalım.
+Şimdi, Aspose.Imaging for .NET kullanarak XMP etiketlerinin depolanmasını desteklemek için adım adım kılavuza dalalım.
 
-## 1. Adım: DICOM Görüntüsünü Yükleyin
+## Adım 1: DICOM Görüntüsünü Yükleyin
 
- Çalışmak istediğiniz DICOM görüntüsünü yükleyerek başlayın. Yer değiştirmek`"Your Document Directory"` DICOM görüntünüzün bulunduğu gerçek dizin yolu ile.
+Çalışmak istediğiniz DICOM görüntüsünü yükleyerek başlayın. Değiştir `"Your Document Directory"` DICOM görüntünüzün bulunduğu gerçek dizin yolunu belirtin.
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -45,9 +47,9 @@ using (DicomImage image = (DicomImage)Image.Load(dataDir + "file.dcm"))
 }
 ```
 
-## 2. Adım: Bir XMP Paketi ve Dicom Paketi Oluşturun
+## Adım 2: Bir XMP Paketi ve Dicom Paketi Oluşturun
 
-Meta verilerinizi depolamak için bir XmpPacketWrapper ve DicomPackage oluşturun. Kurum, üretici, hasta ayrıntıları, seri bilgileri ve çalışma ayrıntıları gibi çeşitli meta veri alanlarını ayarlayabilirsiniz.
+Meta verilerinizi depolamak için bir XmpPacketWrapper ve DicomPackage oluşturun. Kurum, üretici, hasta ayrıntıları, seri bilgileri ve çalışma ayrıntıları gibi çeşitli meta veri alanları ayarlayabilirsiniz.
 
 ```csharp
 XmpPacketWrapper xmpPacketWrapper = new XmpPacketWrapper();
@@ -71,18 +73,18 @@ dicomPackage.SetStudyPhysician("Test Physician");
 xmpPacketWrapper.AddPackage(dicomPackage);
 ```
 
-## 3. Adım: Görüntüyü XMP Meta Verileriyle Kaydedin
+## Adım 3: Görüntüyü XMP Meta Verileri ile Kaydedin
 
- Şimdi görüntüyü eklenen XMP meta verileriyle birlikte kaydedin.`DicomOptions` sınıf.
+Şimdi, eklenen XMP meta verileriyle görüntüyü kaydedin `DicomOptions` sınıf.
 
 ```csharp
 string outputFile = dataDir + "output.dcm";
 image.Save(outputFile, new DicomOptions() { XmpData = xmpPacketWrapper });
 ```
 
-## 4. Adım: XMP Etiketlerini Doğrulayın
+## Adım 4: XMP Etiketlerini Doğrulayın
 
-Kaydedilen görüntüyü yükleyin ve XMP etiketlerini eklemeden önce ve sonra DICOM bilgilerini karşılaştırın.
+Kaydedilen görüntüyü yükleyin ve XMP etiketleri eklenmeden önce ve sonra DICOM bilgilerini karşılaştırın.
 
 ```csharp
 using (DicomImage imageSaved = (DicomImage)Image.Load(outputFile))
@@ -95,35 +97,37 @@ using (DicomImage imageSaved = (DicomImage)Image.Load(outputFile))
 
 ## Çözüm
 
-Bu eğitimde, Aspose.Imaging for .NET kullanarak XMP etiketlerinin DICOM görüntülerine kaydedilmesini nasıl destekleyeceğimizi öğrendik. Resimlerinize meta veri eklemek organizasyon ve yönetim açısından çok önemlidir. Aspose.Imaging bu süreci basitleştirir ve görüntü meta verileriyle verimli bir şekilde çalışmanıza olanak tanır.
+Bu eğitimde, .NET için Aspose.Imaging kullanarak DICOM görüntülerinde XMP etiketlerinin depolanmasını nasıl destekleyeceğimizi öğrendik. Görüntülerinize meta veri eklemek, organizasyon ve yönetim için çok önemlidir. Aspose.Imaging bu süreci basitleştirir ve görüntü meta verileriyle verimli bir şekilde çalışmanızı sağlar.
 
- Daha fazla ayrıntı ve gelişmiş kullanım için bkz.[Aspose.Imaging for .NET belgeleri](https://reference.aspose.com/imaging/net/).
+Daha fazla ayrıntı ve gelişmiş kullanım için şuraya başvurabilirsiniz: [Aspose.Imaging for .NET belgeleri](https://reference.aspose.com/imaging/net/).
 
-## SSS'ler
+## SSS
 
-### S1: XMP meta verileri nedir?
+### S1: XMP meta verisi nedir?
 
-Cevap1: XMP (Genişletilebilir Meta Veri Platformu), görüntüler de dahil olmak üzere dijital varlıklara meta veriler eklemeye yönelik bir standarttır. Dosyanın çeşitli niteliklerinin düzenlenmesine ve tanımlanmasına yardımcı olur.
+A1: XMP (Genişletilebilir Meta Veri Platformu), görseller de dahil olmak üzere dijital varlıklara meta veri eklemek için bir standarttır. Dosyanın çeşitli niteliklerini düzenlemeye ve tanımlamaya yardımcı olur.
 
-### S2: Mevcut XMP meta verilerini Aspose.Imaging for .NET kullanarak düzenleyebilir miyim?
+### S2: Aspose.Imaging for .NET kullanarak mevcut XMP meta verilerini düzenleyebilir miyim?
 
-Cevap2: Evet, Aspose.Imaging'i kullanarak mevcut XMP meta verilerini düzenleyebilir ve görüntülere yeni meta veriler ekleyebilirsiniz.
+C2: Evet, Aspose.Imaging'i kullanarak mevcut XMP meta verilerini düzenleyebilir ve resimlere yeni meta veriler ekleyebilirsiniz.
 
-### S3: Aspose.Imaging for .NET profesyonel görüntü işleme görevlerine uygun mu?
+### S3: Aspose.Imaging for .NET profesyonel görüntü işleme görevleri için uygun mudur?
 
-A3: Kesinlikle. Aspose.Imaging for .NET, görüntü işleme, düzenleme ve dönüştürme için çok çeşitli özellikler sunarak profesyonel kullanıma uygun hale getirir.
+C3: Kesinlikle. Aspose.Imaging for .NET, görüntü işleme, düzenleme ve dönüştürme için çok çeşitli özellikler sunarak profesyonel kullanıma uygun hale getiriyor.
 
-### S4: Aspose.Imaging for .NET hakkında nereden destek alabilirim veya soru sorabilirim?
+### S4: Aspose.Imaging for .NET hakkında nereden destek alabilirim veya sorularımı nereden sorabilirim?
 
- A4: ziyaret edebilirsiniz[Aspose.Imaging for .NET forumu](https://forum.aspose.com/) Destek almak ve aklınıza takılan soruları sormak için.
+A4: Ziyaret edebilirsiniz [Aspose.Imaging for .NET forumu](https://forum.aspose.com/) Destek almak ve aklınıza takılan soruları sormak için.
 
-### S5: Aspose.Imaging for .NET için nasıl geçici lisans alabilirim?
+### S5: Aspose.Imaging for .NET için geçici lisansı nasıl alabilirim?
 
- Cevap5: adresini ziyaret ederek Aspose.Imaging for .NET için geçici bir lisans alabilirsiniz.[bu bağlantı](https://purchase.aspose.com/temporary-license/).
+A5: Aspose.Imaging for .NET için geçici bir lisans almak için şu adresi ziyaret edebilirsiniz: [bu bağlantı](https://purchase.aspose.com/temporary-license/).
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

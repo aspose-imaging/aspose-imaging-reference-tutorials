@@ -1,52 +1,54 @@
 ---
-title: Aspose.Imaging for .NET を使用して DICOM 画像を回転する
-linktitle: Aspose.Imaging for .NET で DICOM 画像を回転する
-second_title: Aspose.Imaging .NET 画像処理 API
-description: Aspose.Imaging for .NET を使用して DICOM 画像の回転を調べます。医療画像を操作するためのステップバイステップのガイド。
-weight: 11
-url: /ja/net/image-transformation/rotate-dicom-image/
+"description": "Aspose.Imaging for .NET で DICOM 画像の回転を体験してみましょう。医用画像の操作方法をステップバイステップで解説します。"
+"linktitle": "Aspose.Imaging for .NET で DICOM 画像を回転する"
+"second_title": "Aspose.Imaging .NET 画像処理 API"
+"title": "Aspose.Imaging for .NET で DICOM 画像を回転する"
+"url": "/ja/net/image-transformation/rotate-dicom-image/"
+"weight": 11
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Aspose.Imaging for .NET を使用して DICOM 画像を回転する
+# Aspose.Imaging for .NET で DICOM 画像を回転する
 
 ## 導入
 
-今日のデジタル時代において、画像処理はヘルスケアからデザインなどのさまざまな業界に不可欠な要素となっています。医療画像の操作と強化を検討している .NET 開発者にとって、Aspose.Imaging for .NET は自由に使える強力なツールです。この包括的なガイドでは、Aspose.Imaging for .NET を使用して DICOM 画像を回転するプロセスについて説明します。
+今日のデジタル時代において、画像処理は医療からデザインまで、様々な業界で不可欠な要素となっています。医用画像の操作や加工に関心のある.NET開発者にとって、Aspose.Imaging for .NETは強力なツールです。この包括的なガイドでは、Aspose.Imaging for .NETを使用してDICOM画像を回転させる手順を詳しく説明します。
 
-あなたが経験豊富な開発者であっても、画像処理の世界への旅を始めたばかりであっても、このチュートリアルでは、DICOM 画像を正常に回転し、この機能を .NET アプリケーションに統合できるようにするための明確なステップバイステップの手順を提供します。 。さっそく飛び込んでみましょう！
+経験豊富な開発者の方でも、画像処理の世界に足を踏み入れたばかりの方でも、このチュートリアルでは、DICOM画像を適切に回転し、この機能を.NETアプリケーションに統合するための、分かりやすいステップバイステップの手順を説明します。さあ、始めましょう！
 
 ## 前提条件
 
-Aspose.Imaging for .NET を使用して DICOM 画像を回転するエキサイティングな世界を掘り下げる前に、次の前提条件を満たしていることが重要です。
+Aspose.Imaging for .NET を使用して DICOM 画像を回転させるというエキサイティングな世界に踏み込む前に、次の前提条件を満たしておくことが重要です。
 
-1. 環境セットアップ: Visual Studio と .NET Framework がインストールされた作業可能な開発環境があることを確認します。
+1. 環境設定: Visual Studio と .NET Framework がインストールされた開発環境が稼働していることを確認します。
 
-2. Aspose.Imaging for .NET ライブラリ: Aspose.Imaging for .NET を次の場所からダウンロードしてインストールします。[ダウンロードリンク](https://releases.aspose.com/imaging/net/).
+2. Aspose.Imaging for .NETライブラリ: Aspose.Imaging for .NETを以下のサイトからダウンロードしてインストールします。 [ダウンロードリンク](https://releases。aspose.com/imaging/net/).
 
-3. DICOM 画像: 作業するには DICOM 画像ファイルが必要です。 DICOM 画像がない場合は、オンラインでサンプル DICOM 画像を見つけるか、独自の DICOM 画像を使用できます。
+3. DICOM画像：作業にはDICOM画像ファイルが必要です。お持ちでない場合は、オンラインでサンプルのDICOM画像を探すか、ご自身で作成した画像を使用してください。
 
-4. C# の基本的な知識: このチュートリアルを進めるには、C# の基本的な理解が必要です。
+4. 基本的な C# の知識: このチュートリアルを実行するには、C# の基本的な理解が必要です。
 
-前提条件を説明したので、DICOM 画像の回転を開始するために必要な名前空間のインポートに進みましょう。
+前提条件について説明しましたので、DICOM 画像の回転を開始するために必要な名前空間のインポートに進みましょう。
 
 ## 名前空間のインポート
 
-まず、Aspose.Imaging for .NET ライブラリにアクセスし、DICOM イメージを操作するために、関連する名前空間をインポートする必要があります。その方法は次のとおりです。
+まず、Aspose.Imaging for .NETライブラリにアクセスしてDICOM画像を扱うために必要な名前空間をインポートする必要があります。手順は以下のとおりです。
 
 ```csharp
 using Aspose.Imaging;
 using Aspose.Imaging.FileFormats.Dicom;
 ```
 
-ここで、DICOM 画像を回転するプロセスをより管理しやすくするために、この例をステップバイステップのガイド形式の複数のステップに分割してみましょう。
+ここで、DICOM 画像を回転するプロセスをより管理しやすくするために、例をステップバイステップのガイド形式で複数のステップに分解してみましょう。
 
-## ステップ 1: DICOM イメージをロードする
+## ステップ1: DICOM画像を読み込む
 
-まず、回転したい DICOM 画像をロードします。これは通常、ファイルから画像を読み取ることで実現されます。この例では、ファイル ストリームを使用しています。
+まず、回転したいDICOM画像を読み込みます。これは通常、ファイルから画像を読み出すことで実現されます。この例では、ファイルストリームを使用しています。
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -54,22 +56,22 @@ using (var fileStream = new FileStream(dataDir + "file.dcm", FileMode.Open, File
 {
     using (DicomImage image = new DicomImage(fileStream))
     {
-        //コードはここに入力します
+        // ここにコードを入力してください
     }
 }
 ```
 
-## ステップ 2: DICOM 画像を回転する
+## ステップ2: DICOM画像を回転する
 
-ここからがエキサイティングな部分です。DICOM 画像を回転します。この例では画像を 10 度回転していますが、特定の要件に合わせて角度を調整できます。
+いよいよDICOM画像を回転させる、面白い部分です。この例では画像を10度回転させていますが、必要に応じて角度を調整できます。
 
 ```csharp
 image.Rotate(10);
 ```
 
-## ステップ 3: 回転した画像を保存する
+## ステップ3: 回転した画像を保存する
 
-回転が完了したら、回転した DICOM 画像を保存することが重要です。それを BMP ファイルとして保存します。
+回転が完了したら、回転したDICOM画像を保存する必要があります。BMPファイルとして保存します。
 
 ```csharp
 image.Save(dataDir + "RotatingDICOMImage_out.bmp", new BmpOptions());
@@ -77,32 +79,34 @@ image.Save(dataDir + "RotatingDICOMImage_out.bmp", new BmpOptions());
 
 ## 結論
 
-おめでとう！ Aspose.Imaging for .NET を使用して DICOM 画像を正常に回転できました。この強力なライブラリを使用すると、医療画像を簡単に操作できるようになり、医療分野やその他の分野でのさまざまなアプリケーションの可能性が広がります。このガイドで説明されている手順を使用すると、画像の回転を .NET プロジェクトにシームレスに統合できるようになります。
+おめでとうございます！Aspose.Imaging for .NET を使用して DICOM 画像の回転に成功しました。この強力なライブラリを使えば、医療画像を簡単に操作でき、医療分野だけでなく、様々なアプリケーションの可能性を広げることができます。このガイドに記載されている手順に従えば、画像の回転機能を .NET プロジェクトにシームレスに統合できます。
 
 ## よくある質問
 
-### Q1: DICOM とは何ですか? なぜ医療分野で重要なのでしょうか?
+### Q1: DICOM とは何ですか? また、医療分野でなぜ重要ですか?
 
-A1: DICOM は、Digital Imaging and Communications in Medicine の略です。これは医療画像の保存と送信のための標準であり、医療データを効率的に共有し、アクセスするために非常に重要です。
+A1: DICOMはDigital Imaging and Communications in Medicine（医療におけるデジタル画像と通信）の略称です。医用画像の保存と伝送に関する規格であり、医療データの効率的な共有とアクセスに不可欠です。
 
-### Q2: Aspose.Imaging for .NET は他の画像操作タスクを処理できますか?
+### Q2: Aspose.Imaging for .NET は他の画像操作タスクも処理できますか?
 
-A2: はい、Aspose.Imaging for .NET は、変換、サイズ変更などを含む画像処理のための幅広い機能を提供します。
+A2: はい、Aspose.Imaging for .NET は、変換、サイズ変更など、画像処理のための幅広い機能を提供します。
 
-### Q3: Aspose.Imaging for .NET の追加ドキュメントとサポートはどこで入手できますか?
+### Q3: Aspose.Imaging for .NET に関する追加のドキュメントとサポートはどこで入手できますか?
 
- A3: ドキュメントには次の場所からアクセスできます。[Aspose.Imaging for .NET ドキュメント](https://reference.aspose.com/imaging/net/)そして、[Aspose.Imaging フォーラム](https://forum.aspose.com/).
+A3: ドキュメントは次の場所からアクセスできます。 [Aspose.Imaging for .NET ドキュメント](https://reference.aspose.com/imaging/net/) そして助けを求める [Aspose.Imagingフォーラム](https://forum。aspose.com/).
 
 ### Q4: Aspose.Imaging for .NET は初心者と経験豊富な開発者の両方に適していますか?
 
-A4：もちろんです！ Aspose.Imaging for .NET は、あらゆるスキル レベルの開発者に対応し、使いやすい機能と高度な機能を提供します。
+A4: もちろんです! Aspose.Imaging for .NET は、あらゆるスキル レベルの開発者のニーズに対応し、使いやすい機能と高度な機能を提供します。
 
-### Q5: Aspose.Imaging for .NET のライセンス オプションはありますか?
+### Q5: Aspose.Imaging for .NET にはライセンス オプションがありますか?
 
- A5: はい、無料トライアルや購入などのライセンス オプションを、[Aspose.Imaging 購入ページ](https://purchase.aspose.com/buy)そして[一時ライセンス](https://purchase.aspose.com/temporary-license/).
+A5: はい、無料トライアルや購入を含むライセンスオプションについては、 [Aspose.Imaging 購入ページ](https://purchase.aspose.com/buy) そして [一時ライセンス](https://purchase。aspose.com/temporary-license/).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

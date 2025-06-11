@@ -1,41 +1,43 @@
 ---
-title: Aspose.Imaging for .NET を使用して DICOM 画像をトリミングする
-linktitle: Aspose.Imaging for .NET のシフトによる DICOM クロップ
-second_title: Aspose.Imaging .NET 画像処理 API
-description: Aspose.Imaging for .NET を使用して DICOM 画像をトリミングする方法を学びます。このステップバイステップのガイドを使用して、医療画像処理を強化します。
-weight: 18
-url: /ja/net/dicom-image-processing/dicom-cropping-by-shifts/
+"description": "Aspose.Imaging for .NET を使って DICOM 画像をトリミングする方法を学びましょう。このステップバイステップガイドで、医療画像処理を強化しましょう。"
+"linktitle": "Aspose.Imaging for .NET における DICOM のシフトによる切り取り"
+"second_title": "Aspose.Imaging .NET 画像処理 API"
+"title": "Aspose.Imaging for .NET で DICOM 画像をトリミングする"
+"url": "/ja/net/dicom-image-processing/dicom-cropping-by-shifts/"
+"weight": 18
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Aspose.Imaging for .NET を使用して DICOM 画像をトリミングする
+# Aspose.Imaging for .NET で DICOM 画像をトリミングする
 
-医療画像、特に DICOM 画像のトリミングは、医療業界では重要な作業です。これにより、医療専門家は特定の関心領域に焦点を当て、不要な要素を削除し、診断データの視覚的表現を強化できます。このチュートリアルでは、.NET アプリケーションでの画像処理タスクを簡素化する強力なライブラリである Aspose.Imaging for .NET を使用して DICOM 画像をトリミングする方法を検討します。
+医療画像、特にDICOM画像の切り抜きは、医療業界において非常に重要なタスクです。これにより、医療従事者は特定の関心領域に焦点を絞り、不要な要素を除去し、診断データの視覚的表現を向上させることができます。このチュートリアルでは、.NETアプリケーションにおける画像処理タスクを簡素化する強力なライブラリであるAspose.Imaging for .NETを使用して、DICOM画像を切り抜く方法を説明します。
 
 ## 前提条件
 
-DICOM トリミング プロセスに入る前に、次の前提条件が満たされていることを確認する必要があります。
+DICOM 切り取りプロセスに進む前に、次の前提条件が満たされていることを確認する必要があります。
 
 1. .NET開発環境
 
-Visual Studio またはその他の任意の .NET IDE を含む、動作する .NET 開発環境が必要です。
+Visual Studio または任意の他の .NET IDE を含む、動作する .NET 開発環境が必要です。
 
-2. .NET ライブラリ用の Aspose.Imaging
+2. Aspose.Imaging for .NET ライブラリ
 
-必ず Aspose.Imaging for .NET をダウンロードしてインストールしてください。ライブラリは Aspose Web サイトから入手できます。[ここ](https://releases.aspose.com/imaging/net/).
+Aspose.Imaging for .NETをダウンロードしてインストールしてください。ライブラリはAsposeのウェブサイトから入手できます。 [ここ](https://releases。aspose.com/imaging/net/).
 
 3. DICOM画像
 
-トリミングしたい DICOM 画像が必要です。お持ちでない場合は、テスト用のサンプル DICOM 画像をオンラインで見つけることができます。
+切り抜きたいDICOM画像が必要です。お持ちでない場合は、テスト用のサンプルDICOM画像をオンラインで入手できます。
 
-4. C# の基礎知識
+4. C#の基礎知識
 
-このチュートリアルは、C# プログラミングの基本を理解していることを前提としています。
+このチュートリアルでは、C# プログラミングの基礎を理解していることを前提としています。
 
-すべての前提条件が準備できたので、Aspose.Imaging for .NET を使用して DICOM 画像をトリミングする手順に進みましょう。
+前提条件がすべて整ったので、Aspose.Imaging for .NET を使用して DICOM イメージをトリミングする手順を見ていきましょう。
 
 ## 名前空間のインポート
 
@@ -48,67 +50,69 @@ using Aspose.Imaging.FileFormats.Dicom;
 using Aspose.Imaging.FileFormats.Bmp;
 ```
 
-## ステップ 1: DICOM イメージをロードする
+## ステップ1: DICOM画像を読み込む
 
-このステップでは、ファイルから DICOM 画像をロードします。
+この手順では、次のファイルから DICOM イメージを読み込みます。
 
 ```csharp
 string dataDir = "Your Document Directory";
 using (var fileStream = new FileStream(dataDir + "file.dcm", FileMode.Open, FileAccess.Read))
 using (DicomImage image = new DicomImage(fileStream))
 {
-    //コードはここに入力します
+    // ここにコードを入力してください
 }
 ```
 
-## ステップ 2: DICOM 画像をトリミングする
+## ステップ2：DICOM画像をトリミングする
 
-このステップでは、`Crop`メソッドを選択し、4 つの値を指定してトリミング領域を定義します。ここ、`1, 1, 1, 1`をサンプル値として使用します。これらの値を、トリミングに使用する実際の座標と寸法に置き換える必要があります。
+このステップでは、 `Crop` メソッドを使用して、切り取り領域を定義する4つの値を指定します。ここでは、 `1, 1, 1, 1` サンプル値として使用されています。これらの値は、切り抜きに使用する実際の座標と寸法に置き換えてください。
 
 ```csharp
 image.Crop(1, 1, 1, 1);
 ```
 
-## ステップ 3: 切り取った画像を保存する
+## ステップ3: 切り取った画像を保存する
 
-画像をトリミングしたら、希望の形式でディスクに保存できます。この例では、BMP 画像として保存していますが、必要に応じて別の形式を選択することもできます。
+画像を切り抜いたら、希望の形式でディスクに保存できます。この例ではBMP画像として保存していますが、必要に応じて別の形式を選択することもできます。
 
 ```csharp
 image.Save(dataDir + "DICOMCroppingByShifts_out.bmp", new BmpOptions());
 ```
 
-これで、Aspose.Imaging for .NET を使用して DICOM 画像が切り取られました。さらに、このコードを .NET アプリケーションに統合して医療画像処理を行うことができます。
+これで、Aspose.Imaging for .NET を使用して DICOM 画像をトリミングできました。このコードを .NET アプリケーションに統合して、医用画像処理に活用できます。
 
 ## 結論
 
-DICOM 画像のトリミングは医療画像処理の重要な部分であり、医療専門家が関心のある特定の領域に集中できるようになります。 Aspose.Imaging for .NET はこのプロセスを簡素化し、DICOM 画像を効率的にトリミングすることを容易にします。
+DICOM画像の切り抜きは、医療画像処理において非常に重要な部分であり、医療従事者が特定の関心領域に集中することを可能にします。Aspose.Imaging for .NETはこのプロセスを簡素化し、DICOM画像を効率的に切り抜くことを可能にします。
 
- Aspose.Imaging for .NET とその機能について詳しく知りたい場合は、ドキュメントを参照してください。[ここ](https://reference.aspose.com/imaging/net/). 
+Aspose.Imaging for .NETとその機能についてさらに詳しく知りたい場合は、ドキュメントを参照してください。 [ここ](https://reference。aspose.com/imaging/net/). 
 
 ## よくある質問
 
-### Q1: DICOM画像フォーマットとは何ですか?
+### Q1: DICOM 画像フォーマットとは何ですか?
 
-A1: DICOM は、Digital Imaging and Communications in Medicine の略です。 X 線、MRI、CT スキャンなどの医療画像を保存および送信するための標準です。
+A1: DICOMはDigital Imaging and Communications in Medicine（医療におけるデジタル画像と通信）の略称です。X線、MRI、CTスキャンなどの医療画像の保存と伝送のための規格です。
 
-### Q2: Aspose.Imaging を他の画像処理タスクに使用できますか?
+### Q2: Aspose.Imaging を他の画像処理タスクにも使用できますか?
 
-A2: はい、Aspose.Imaging for .NET は、形式変換やサイズ変更などのさまざまな画像処理タスクを処理できる多用途ライブラリです。
+A2: はい、Aspose.Imaging for .NET は、形式の変換、サイズ変更など、さまざまな画像処理タスクを処理できる多用途のライブラリです。
 
-### Q3: Aspose.Imaging for .NET のライセンス オプションはありますか?
+### Q3: Aspose.Imaging for .NET にはライセンス オプションがありますか?
 
- A3: はい、Aspose.Imaging for .NET のライセンスは次のサイトから取得できます。[ここ](https://purchase.aspose.com/buy) 。評価目的の一時ライセンスも提供しています[ここ](https://purchase.aspose.com/temporary-license/).
+A3: はい、Aspose.Imaging for .NETのライセンスは以下から入手できます。 [ここ](https://purchase.aspose.com/buy)評価目的での一時ライセンスも提供しています [ここ](https://purchase。aspose.com/temporary-license/).
 
 ### Q4: Aspose.Imaging for .NET のサポートはどこで受けられますか?
 
- A4: 次の URL で、Aspose.Imaging for .NET に関するサポートを求めたり、ディスカッションに参加したりできます。[アスペスフォーラム](https://forum.aspose.com/).
+A4: Aspose.Imaging for .NETに関するサポートやディスカッションについては、 [Asposeフォーラム](https://forum。aspose.com/).
 
 ### Q5: Aspose.Imaging for .NET を医療以外の画像処理アプリケーションで使用できますか?
 
-A5：もちろんです！ Aspose.Imaging for .NET は医療画像処理に最適ですが、さまざまなドメインの幅広い画像処理タスクに使用できます。
+A5: もちろんです! 医用画像処理に最適ですが、Aspose.Imaging for .NET はさまざまな分野の幅広い画像処理タスクに使用できます。
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

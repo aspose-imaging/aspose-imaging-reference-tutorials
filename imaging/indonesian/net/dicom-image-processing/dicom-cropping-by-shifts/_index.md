@@ -1,45 +1,47 @@
 ---
-title: Pangkas Gambar DICOM dengan Aspose.Imaging untuk .NET
-linktitle: DICOM Memotong dengan Pergeseran di Aspose.Imaging untuk .NET
-second_title: Aspose.Imaging .NET API Pemrosesan Gambar
-description: Pelajari cara memotong gambar DICOM dengan Aspose.Imaging untuk .NET. Tingkatkan pemrosesan citra medis dengan panduan langkah demi langkah ini.
-weight: 18
-url: /id/net/dicom-image-processing/dicom-cropping-by-shifts/
+"description": "Pelajari cara memotong gambar DICOM dengan Aspose.Imaging untuk .NET. Tingkatkan pemrosesan gambar medis dengan panduan langkah demi langkah ini."
+"linktitle": "Pemotongan DICOM dengan Pergeseran di Aspose.Imaging untuk .NET"
+"second_title": "API Pemrosesan Gambar Aspose.Imaging .NET"
+"title": "Memotong Gambar DICOM dengan Aspose.Imaging untuk .NET"
+"url": "/id/net/dicom-image-processing/dicom-cropping-by-shifts/"
+"weight": 18
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Pangkas Gambar DICOM dengan Aspose.Imaging untuk .NET
+# Memotong Gambar DICOM dengan Aspose.Imaging untuk .NET
 
-Memangkas gambar medis, khususnya gambar DICOM, adalah tugas penting dalam industri perawatan kesehatan. Hal ini memungkinkan profesional kesehatan untuk fokus pada bidang minat tertentu, menghilangkan elemen yang tidak diinginkan, dan meningkatkan representasi visual dari data diagnostik. Dalam tutorial ini, kita akan mempelajari cara memotong gambar DICOM menggunakan Aspose.Imaging untuk .NET, pustaka canggih yang menyederhanakan tugas pemrosesan gambar dalam aplikasi .NET.
+Memotong gambar medis, khususnya gambar DICOM, merupakan tugas penting dalam industri perawatan kesehatan. Hal ini memungkinkan para profesional perawatan kesehatan untuk fokus pada area tertentu yang diminati, menghapus elemen yang tidak diinginkan, dan meningkatkan representasi visual data diagnostik. Dalam tutorial ini, kita akan membahas cara memotong gambar DICOM menggunakan Aspose.Imaging for .NET, pustaka canggih yang menyederhanakan tugas pemrosesan gambar dalam aplikasi .NET.
 
 ## Prasyarat
 
-Sebelum kita mendalami proses pemangkasan DICOM, Anda harus memastikan bahwa Anda memiliki prasyarat berikut:
+Sebelum kita menyelami proses pemotongan DICOM, Anda harus memastikan bahwa Anda memiliki prasyarat berikut:
 
 1. Lingkungan Pengembangan .NET
 
-Anda memerlukan lingkungan pengembangan .NET yang berfungsi, yang mencakup Visual Studio atau IDE .NET lainnya pilihan Anda.
+Anda memerlukan lingkungan pengembangan .NET yang berfungsi, yang mencakup Visual Studio atau IDE .NET lain pilihan Anda.
 
-2. Aspose.Imaging untuk Perpustakaan .NET
+2. Pustaka Aspose.Imaging untuk .NET
 
- Pastikan untuk mengunduh dan menginstal Aspose.Imaging untuk .NET. Anda bisa mendapatkan perpustakaan dari situs web Aspose[Di Sini](https://releases.aspose.com/imaging/net/).
+Pastikan untuk mengunduh dan menginstal Aspose.Imaging untuk .NET. Anda bisa mendapatkan pustaka tersebut dari situs web Aspose [Di Sini](https://releases.aspose.com/imaging/net/).
 
 3. Gambar DICOM
 
-Anda harus memiliki gambar DICOM yang ingin Anda potong. Jika Anda tidak memilikinya, Anda dapat menemukan contoh gambar DICOM untuk tujuan pengujian secara online.
+Anda harus memiliki citra DICOM yang ingin dipotong. Jika Anda tidak memilikinya, Anda dapat menemukan contoh citra DICOM untuk tujuan pengujian secara daring.
 
 4. Pengetahuan Dasar C#
 
 Tutorial ini mengasumsikan Anda memiliki pemahaman mendasar tentang pemrograman C#.
 
-Sekarang setelah semua prasyarat siap, mari selami langkah-langkah memotong gambar DICOM menggunakan Aspose.Imaging untuk .NET.
+Sekarang setelah semua prasyarat siap, mari selami langkah-langkah untuk memotong gambar DICOM menggunakan Aspose.Imaging untuk .NET.
 
-## Impor Namespace
+## Mengimpor Ruang Nama
 
-Untuk memulai, Anda harus mengimpor namespace yang diperlukan untuk menggunakan Aspose.Imaging:
+Untuk memulai, Anda perlu mengimpor namespace yang diperlukan untuk menggunakan Aspose.Imaging:
 
 ```csharp
 using System;
@@ -50,7 +52,7 @@ using Aspose.Imaging.FileFormats.Bmp;
 
 ## Langkah 1: Muat Gambar DICOM
 
-Pada langkah ini, Anda akan memuat gambar DICOM dari file:
+Pada langkah ini, Anda akan memuat citra DICOM dari file:
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -63,7 +65,7 @@ using (DicomImage image = new DicomImage(fileStream))
 
 ## Langkah 2: Pangkas Gambar DICOM
 
- Pada langkah ini, Anda akan memanggil`Crop` metode dan berikan empat nilai untuk menentukan area tanam. Di Sini,`1, 1, 1, 1` digunakan sebagai nilai sampel. Anda harus mengganti nilai-nilai ini dengan koordinat dan dimensi sebenarnya yang ingin Anda gunakan untuk pemangkasan:
+Pada langkah ini, Anda akan memanggil `Crop` metode dan berikan empat nilai untuk menentukan area pemotongan. Di sini, `1, 1, 1, 1` digunakan sebagai nilai sampel. Anda harus mengganti nilai ini dengan koordinat dan dimensi aktual yang ingin Anda gunakan untuk pemotongan:
 
 ```csharp
 image.Crop(1, 1, 1, 1);
@@ -71,44 +73,46 @@ image.Crop(1, 1, 1, 1);
 
 ## Langkah 3: Simpan Gambar yang Dipotong
 
-Setelah gambar dipotong, Anda dapat menyimpannya ke disk dalam format yang diinginkan. Dalam contoh ini, kami menyimpannya sebagai gambar BMP, namun Anda dapat memilih format lain jika diperlukan:
+Setelah gambar dipotong, Anda dapat menyimpannya ke disk dalam format yang diinginkan. Dalam contoh ini, kami menyimpannya sebagai gambar BMP, tetapi Anda dapat memilih format lain jika diperlukan:
 
 ```csharp
 image.Save(dataDir + "DICOMCroppingByShifts_out.bmp", new BmpOptions());
 ```
 
-Sekarang, gambar DICOM Anda telah dipotong menggunakan Aspose.Imaging untuk .NET. Anda selanjutnya dapat mengintegrasikan kode ini ke dalam aplikasi .NET Anda untuk pemrosesan gambar medis.
+Kini, citra DICOM Anda telah dipotong menggunakan Aspose.Imaging for .NET. Anda dapat mengintegrasikan kode ini lebih lanjut ke dalam aplikasi .NET Anda untuk pemrosesan citra medis.
 
 ## Kesimpulan
 
-Memotong gambar DICOM adalah bagian penting dari pemrosesan gambar medis, yang memungkinkan profesional kesehatan untuk fokus pada bidang minat tertentu. Aspose.Imaging for .NET menyederhanakan proses ini, membuatnya lebih mudah untuk memotong gambar DICOM secara efisien.
+Memotong gambar DICOM merupakan bagian penting dari pemrosesan gambar medis, yang memungkinkan para profesional perawatan kesehatan untuk fokus pada area tertentu yang diminati. Aspose.Imaging untuk .NET menyederhanakan proses ini, sehingga lebih mudah untuk memotong gambar DICOM secara efisien.
 
- Jika Anda ingin menjelajahi lebih lanjut tentang Aspose.Imaging untuk .NET dan kemampuannya, Anda dapat merujuk ke dokumentasi[Di Sini](https://reference.aspose.com/imaging/net/). 
+Jika Anda ingin menjelajahi lebih lanjut tentang Aspose.Imaging untuk .NET dan kemampuannya, Anda dapat merujuk ke dokumentasi [Di Sini](https://reference.aspose.com/imaging/net/). 
 
-## FAQ
+## Pertanyaan yang Sering Diajukan
 
-### Q1: Apa itu format gambar DICOM?
+### Q1: Apa format gambar DICOM?
 
-A1: DICOM adalah singkatan dari Pencitraan Digital dan Komunikasi dalam Kedokteran. Ini adalah standar untuk menyimpan dan mengirimkan gambar medis, termasuk sinar-X, MRI, dan CT scan.
+A1: DICOM adalah singkatan dari Digital Imaging and Communications in Medicine. Ini adalah standar untuk menyimpan dan mengirimkan gambar medis, termasuk sinar-X, MRI, dan CT scan.
 
-### Q2: Bisakah saya menggunakan Aspose.Imaging untuk tugas pemrosesan gambar lainnya?
+### Q2: Dapatkah saya menggunakan Aspose.Imaging untuk tugas pemrosesan gambar lainnya?
 
-A2: Ya, Aspose.Imaging for .NET adalah pustaka serbaguna yang dapat menangani berbagai tugas pemrosesan gambar, termasuk konversi format, pengubahan ukuran, dan banyak lagi.
+A2: Ya, Aspose.Imaging untuk .NET adalah pustaka serbaguna yang dapat menangani berbagai tugas pemrosesan gambar, termasuk konversi format, pengubahan ukuran, dan banyak lagi.
 
 ### Q3: Apakah ada opsi lisensi untuk Aspose.Imaging untuk .NET?
 
- A3: Ya, Anda bisa mendapatkan lisensi Aspose.Imaging untuk .NET dari[Di Sini](https://purchase.aspose.com/buy) . Mereka juga menawarkan lisensi sementara untuk tujuan evaluasi[Di Sini](https://purchase.aspose.com/temporary-license/).
+A3: Ya, Anda bisa mendapatkan lisensi untuk Aspose.Imaging untuk .NET dari [Di Sini](https://purchase.aspose.com/buy)Mereka juga menawarkan lisensi sementara untuk tujuan evaluasi [Di Sini](https://purchase.aspose.com/temporary-license/).
 
 ### Q4: Di mana saya bisa mendapatkan dukungan untuk Aspose.Imaging untuk .NET?
 
- A4: Anda dapat mencari dukungan dan bergabung dalam diskusi di Aspose.Imaging untuk .NET di[Asumsikan forum](https://forum.aspose.com/).
+A4: Anda dapat mencari dukungan dan bergabung dalam diskusi tentang Aspose.Imaging untuk .NET di [Forum Aspose](https://forum.aspose.com/).
 
-### Q5: Dapatkah saya menggunakan Aspose.Imaging untuk .NET dalam aplikasi pemrosesan gambar non-medis?
+### Q5: Dapatkah saya menggunakan Aspose.Imaging untuk .NET dalam aplikasi pemrosesan gambar nonmedis?
 
-A5: Tentu saja! Meskipun bagus untuk pencitraan medis, Aspose.Imaging untuk .NET dapat digunakan untuk berbagai tugas pemrosesan gambar di berbagai domain.
+A5: Tentu saja! Meskipun sangat bagus untuk pencitraan medis, Aspose.Imaging for .NET dapat digunakan untuk berbagai tugas pemrosesan gambar di berbagai domain.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

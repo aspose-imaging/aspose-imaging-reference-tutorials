@@ -1,37 +1,39 @@
 ---
-title: Redimensione imagens DICOM com Aspose.Imaging para .NET
-linktitle: Redimensionamento simples DICOM em Aspose.Imaging para .NET
-second_title: API de processamento de imagem Aspose.Imaging .NET
-description: Aprenda como redimensionar imagens DICOM usando Aspose.Imaging for .NET, uma ferramenta poderosa para processamento de imagens médicas. Passos simples para resultados precisos.
-weight: 19
-url: /pt/net/dicom-image-processing/dicom-simple-resizing/
+"description": "Aprenda a redimensionar imagens DICOM usando o Aspose.Imaging for .NET, uma ferramenta poderosa para processamento de imagens médicas. Passos simples para resultados precisos."
+"linktitle": "Redimensionamento simples DICOM no Aspose.Imaging para .NET"
+"second_title": "API de processamento de imagens Aspose.Imaging .NET"
+"title": "Redimensione imagens DICOM com Aspose.Imaging para .NET"
+"url": "/pt/net/dicom-image-processing/dicom-simple-resizing/"
+"weight": 19
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Redimensione imagens DICOM com Aspose.Imaging para .NET
 
-No campo em constante evolução das imagens médicas, a necessidade de flexibilidade e precisão no manuseio de arquivos DICOM (Imagem Digital e Comunicações em Medicina) é fundamental. Aspose.Imaging for .NET surge como uma solução poderosa, oferecendo um conjunto abrangente de ferramentas para trabalhar com imagens médicas. Neste tutorial, exploraremos o processo simples de redimensionamento de imagens DICOM usando Aspose.Imaging for .NET. 
+No campo em constante evolução da imagem médica, a necessidade de flexibilidade e precisão no manuseio de arquivos DICOM (Imagem Digital e Comunicações em Medicina) é primordial. O Aspose.Imaging for .NET surge como uma solução poderosa, oferecendo um conjunto abrangente de ferramentas para trabalhar com imagens médicas. Neste tutorial, exploraremos o processo simples de redimensionamento de imagens DICOM usando o Aspose.Imaging for .NET. 
 
 ## Pré-requisitos
 
-Antes de mergulharmos no guia passo a passo, certifique-se de ter os seguintes pré-requisitos em vigor:
+Antes de começarmos o guia passo a passo, certifique-se de ter os seguintes pré-requisitos em vigor:
 
-1.  Aspose.Imaging for .NET: Você deve ter a biblioteca Aspose.Imaging for .NET instalada em seu ambiente de desenvolvimento. Se ainda não o fez, você pode baixá-lo em[aqui](https://releases.aspose.com/imaging/net/).
+1. Aspose.Imaging para .NET: Você precisa ter a biblioteca Aspose.Imaging para .NET instalada em seu ambiente de desenvolvimento. Se ainda não tiver, você pode baixá-la em [aqui](https://releases.aspose.com/imaging/net/).
 
 2. Ambiente de desenvolvimento .NET: é necessário conhecimento prático de C# e de um ambiente de desenvolvimento .NET.
 
-3. Arquivo de imagem DICOM: você deve ter um arquivo de imagem DICOM que deseja redimensionar. Se você precisar de uma imagem DICOM de amostra para teste, poderá encontrá-la facilmente online.
+3. Arquivo de imagem DICOM: Você deve ter um arquivo de imagem DICOM que deseja redimensionar. Se precisar de uma imagem DICOM de amostra para teste, você pode encontrá-la facilmente online.
 
-4. Visual Studio (opcional): embora não seja obrigatório, usar o Visual Studio para este tutorial aprimorará sua experiência de desenvolvimento.
+4. Visual Studio (opcional): embora não seja obrigatório, usar o Visual Studio neste tutorial melhorará sua experiência de desenvolvimento.
 
 Agora, vamos dividir o processo de redimensionamento de uma imagem DICOM em etapas simples e práticas.
 
-## Etapa 1: importar namespaces
+## Etapa 1: Importar namespaces
 
-A primeira etapa é importar os namespaces necessários para trabalhar com Aspose.Imaging. No seu projeto C#, inclua os seguintes namespaces:
+O primeiro passo é importar os namespaces necessários para trabalhar com Aspose.Imaging. No seu projeto C#, inclua os seguintes namespaces:
 
 ```csharp
 using System;
@@ -41,15 +43,15 @@ using Aspose.Imaging.FileFormats.Dicom;
 using Aspose.Imaging.ImageOptions;
 ```
 
-Ao importar esses namespaces, você obtém acesso às funcionalidades necessárias para o processamento de imagens DICOM.
+Ao importar esses namespaces, você obtém acesso às funcionalidades necessárias para processar imagens DICOM.
 
-## Etapa 2: redimensionamento de imagem DICOM
+## Etapa 2: Redimensionamento de imagem DICOM
 
 Agora, vamos dividir o processo de redimensionamento de imagens DICOM em várias etapas gerenciáveis.
 
-### Passo 2.1: Definir o diretório de documentos
+### Etapa 2.1: Definir o diretório de documentos
 
- No seu código C#, especifique o diretório onde o arquivo DICOM está localizado. Você deve substituir`"Your Document Directory"` com o caminho real para o seu diretório de arquivos.
+No seu código C#, especifique o diretório onde o arquivo DICOM está localizado. Você deve substituir `"Your Document Directory"` com o caminho real para o seu diretório de arquivos.
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -57,7 +59,7 @@ string dataDir = "Your Document Directory";
 
 ### Etapa 2.2: Abra o arquivo DICOM
 
- Em seguida, abra o arquivo DICOM usando um`FileStream` . Certifique-se de substituir`"file.dcm"` com o nome do seu arquivo DICOM.
+Em seguida, abra o arquivo DICOM usando um `FileStream`. Certifique-se de substituir `"file.dcm"` com o nome do seu arquivo DICOM.
 
 ```csharp
 using (var fileStream = new FileStream(dataDir + "file.dcm", FileMode.Open, FileAccess.Read))
@@ -68,7 +70,7 @@ using (var fileStream = new FileStream(dataDir + "file.dcm", FileMode.Open, File
 
 ### Etapa 2.3: Carregar a imagem DICOM
 
- Carregue a imagem DICOM do`fileStream`Isso permite que você acesse a imagem e execute operações nela.
+Carregue a imagem DICOM do `fileStream`. Isso permite que você acesse a imagem e execute operações nela.
 
 ```csharp
 using (DicomImage image = new DicomImage(fileStream))
@@ -77,17 +79,17 @@ using (DicomImage image = new DicomImage(fileStream))
 }
 ```
 
-### Etapa 2.4: redimensionar a imagem DICOM
+### Etapa 2.4: Redimensione a imagem DICOM
 
-Com a imagem DICOM carregada, agora você pode redimensioná-la para as dimensões desejadas. Neste exemplo, estamos redimensionando para 200x200 pixels.
+Com a imagem DICOM carregada, você pode redimensioná-la para as dimensões desejadas. Neste exemplo, estamos redimensionando-a para 200x200 pixels.
 
 ```csharp
 image.Resize(200, 200);
 ```
 
-### Etapa 2.5: Salvar a imagem redimensionada
+### Etapa 2.5: Salve a imagem redimensionada
 
-Por fim, salve a imagem DICOM redimensionada no diretório de saída especificado. Estamos salvando-o como um arquivo BMP neste exemplo.
+Por fim, salve a imagem DICOM redimensionada no diretório de saída especificado. Neste exemplo, estamos salvando-a como um arquivo BMP.
 
 ```csharp
 image.Save(dataDir + "DICOMSimpleResizing_out.bmp", new BmpOptions());
@@ -95,34 +97,36 @@ image.Save(dataDir + "DICOMSimpleResizing_out.bmp", new BmpOptions());
 
 ## Conclusão
 
-Parabéns! Você redimensionou com êxito uma imagem DICOM usando Aspose.Imaging for .NET. Com essas etapas simples, você pode manipular imagens médicas com eficiência para atender às suas necessidades específicas.
+Parabéns! Você redimensionou com sucesso uma imagem DICOM usando o Aspose.Imaging for .NET. Com estes passos simples, você pode manipular imagens médicas com eficiência para atender às suas necessidades específicas.
 
- Se você encontrar algum problema ou tiver dúvidas sobre o Aspose.Imaging for .NET, não hesite em procurar ajuda da comunidade de apoio no[Aspor Fórum](https://forum.aspose.com/).
+Se você encontrar algum problema ou tiver dúvidas sobre o Aspose.Imaging for .NET, não hesite em procurar ajuda na comunidade de suporte no [Fórum Aspose](https://forum.aspose.com/).
 
 ## Perguntas frequentes
 
-### P1: O que é DICOM?
+### T1: O que é DICOM?
 
-A1: DICOM significa Imagens e Comunicações Digitais em Medicina. É um padrão para armazenar, transmitir e compartilhar imagens médicas e informações associadas.
+R1: DICOM significa Digital Imaging and Communications in Medicine (Imagem e Comunicação Digital em Medicina). É um padrão para armazenar, transmitir e compartilhar imagens médicas e informações associadas.
 
-### Q2: Posso usar Aspose.Imaging também para outros formatos de imagem?
+### P2: Posso usar o Aspose.Imaging também para outros formatos de imagem?
 
-A2: Sim, o Aspose.Imaging for .NET oferece suporte a uma ampla variedade de formatos de imagem além do DICOM, incluindo BMP, JPEG, PNG e muito mais.
+R2: Sim, o Aspose.Imaging for .NET suporta uma ampla variedade de formatos de imagem além do DICOM, incluindo BMP, JPEG, PNG e muito mais.
 
-### Q3: É necessário um visualizador DICOM para abrir a imagem redimensionada?
+### P3: É necessário um visualizador DICOM para abrir a imagem redimensionada?
 
-A3: Não, depois de redimensionar uma imagem DICOM usando Aspose.Imaging, a imagem resultante estará em um formato de imagem padrão (por exemplo, BMP) e poderá ser visualizada com visualizadores de imagens comuns.
+R3: Não, depois de redimensionar uma imagem DICOM usando o Aspose.Imaging, a imagem resultante estará em um formato de imagem padrão (por exemplo, BMP) e poderá ser visualizada com visualizadores de imagens comuns.
 
-### Q4: O Aspose.Imaging for .NET é compatível com todas as versões do .NET Framework?
+### T4: O Aspose.Imaging for .NET é compatível com todas as versões do .NET Framework?
 
-A4: Aspose.Imaging for .NET é compatível com várias versões do .NET Framework, incluindo .NET Core e .NET Standard. Certifique-se de verificar a documentação para obter detalhes.
+R4: O Aspose.Imaging para .NET é compatível com várias versões do .NET Framework, incluindo .NET Core e .NET Standard. Consulte a documentação para obter mais detalhes.
 
-### P5: Onde posso encontrar mais tutoriais do Aspose.Imaging for .NET?
+### P5: Onde posso encontrar mais tutoriais do Aspose.Imaging para .NET?
 
- A5: Você pode explorar o[Documentação do Aspose.Imaging para .NET](https://reference.aspose.com/imaging/net/) para uma ampla variedade de tutoriais e exemplos.
+A5: Você pode explorar o   [Documentação do Aspose.Imaging para .NET](https://reference.aspose.com/imaging/net/) para uma ampla variedade de tutoriais e exemplos.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

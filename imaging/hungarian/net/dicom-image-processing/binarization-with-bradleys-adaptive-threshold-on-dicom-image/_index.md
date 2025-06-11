@@ -1,35 +1,37 @@
 ---
-title: Binarizálás Bradley adaptív küszöbértékével a DICOM-képen az Aspose.Imaging for .NET-ben
-linktitle: Binarizálás Bradley adaptív küszöbértékével a DICOM-képen az Aspose.Imaging for .NET-ben
-second_title: Aspose.Imaging .NET Image Processing API
-description: Tanulja meg a Bradley Adaptive Threshold alkalmazását a DICOM-képekre az Aspose.Imaging for .NET segítségével. A binarizálás egyszerűvé válik a lépésről lépésre bemutatott útmutatóval.
-weight: 14
-url: /hu/net/dicom-image-processing/binarization-with-bradleys-adaptive-threshold-on-dicom-image/
+"description": "Tanuld meg alkalmazni Bradley adaptív küszöbértékét DICOM képekre az Aspose.Imaging for .NET segítségével. Binarizálás egyszerűen, lépésről lépésre útmutatóval."
+"linktitle": "Binarizálás Bradley adaptív küszöbértékével DICOM képen az Aspose.Imaging for .NET programban"
+"second_title": "Aspose.Imaging .NET képfeldolgozó API"
+"title": "Binarizálás Bradley adaptív küszöbértékével DICOM képen az Aspose.Imaging for .NET programban"
+"url": "/hu/net/dicom-image-processing/binarization-with-bradleys-adaptive-threshold-on-dicom-image/"
+"weight": 14
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Binarizálás Bradley adaptív küszöbértékével a DICOM-képen az Aspose.Imaging for .NET-ben
+# Binarizálás Bradley adaptív küszöbértékével DICOM képen az Aspose.Imaging for .NET programban
 
-Alkalmazni szeretné a Bradley-féle adaptív küszöböt egy DICOM-képre az Aspose.Imaging for .NET használatával? Ebben az átfogó oktatóanyagban lépésről lépésre végigvezetjük a folyamaton. Az útmutató végére hatékonyan tudja végrehajtani a DICOM-képek binarizálását. Mindenre kiterjedünk, az előfeltételektől a névterek importálásáig és az egyes példák több lépésre bontásáig.
+Szeretnéd Bradley adaptív küszöbértékét alkalmazni egy DICOM képre az Aspose.Imaging for .NET segítségével? Ebben az átfogó oktatóanyagban lépésről lépésre végigvezetünk a folyamaton. Az útmutató végére hatékonyan fogsz tudni binarizálni DICOM képeket. Mindent lefedünk az előfeltételektől kezdve a névterek importálásán át az egyes példák több lépésre bontásáig.
 
 ## Előfeltételek
 
-Mielőtt belevágnánk az oktatóanyagba, győződjünk meg arról, hogy mindennel rendelkezünk, ami az induláshoz szükséges.
+Mielőtt belevágnánk az oktatóanyagba, győződjünk meg róla, hogy minden a rendelkezésedre áll, amire a kezdéshez szükséged van.
 
-1. Aspose.Imaging for .NET
+1. Aspose.Imaging .NET-hez
 
- Győződjön meg arról, hogy az Aspose.Imaging for .NET telepítve van a rendszerén. Letöltheti a weboldalról[itt](https://releases.aspose.com/imaging/net/).
+Győződjön meg róla, hogy az Aspose.Imaging for .NET telepítve van a rendszerén. Letöltheti a weboldalról. [itt](https://releases.aspose.com/imaging/net/).
 
 2. DICOM kép
 
-Készítse elő a binarizálni kívánt DICOM-képet. A DICOM-képfájl elérési útjának készen kell lennie a feldolgozásra.
+Készítse elő a binarizálni kívánt DICOM képet. A DICOM kép fájlelérési útjának készen kell állnia a feldolgozásra.
 
 ## Névterek importálása
 
-Ebben a részben importáljuk a szükséges névtereket az Aspose.Imaging for .NET használatához. Ez a lépés elengedhetetlen ahhoz, hogy az összes funkció elérhető legyen a kódja számára.
+Ebben a szakaszban importáljuk a szükséges névtereket az Aspose.Imaging for .NET használatához. Ez a lépés elengedhetetlen ahhoz, hogy az összes funkció elérhető legyen a kódod számára.
 
 
 ```csharp
@@ -40,13 +42,13 @@ using Aspose.Imaging.FileFormats.Dicom;
 using Aspose.Imaging.FileFormats.Bmp;
 ```
 
-Most, hogy importáltuk az alapvető névtereket, térjünk át a binarizálás fő folyamatára.
+Most, hogy importáltuk a lényeges névtereket, térjünk át a binarizálás fő folyamatára.
 
-A binarizálási folyamatot most több lépésre bontjuk, így biztosítva, hogy könnyedén követhesse és megértse a kód egyes részeit.
+Most a binarizálási folyamatot több lépésre bontjuk, biztosítva, hogy könnyen követni és megérteni tudd a kód minden részét.
 
-## 1. lépés: Töltse be a DICOM-képet
+## 1. lépés: Töltse be a DICOM képet
 
-Először is be kell töltenünk a DICOM-képet a binarizáláshoz. Győződjön meg arról, hogy a DICOM képfájl megfelelő elérési útja van.
+Először is be kell töltenünk a DICOM képet a bináris konverzióhoz. Győződjön meg arról, hogy a DICOM kép elérési útja helyes.
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -55,22 +57,22 @@ string inputFile = dataDir + "image.dcm";
 using (var fileStream = new FileStream(inputFile, FileMode.Open, FileAccess.Read))
 using (DicomImage image = new DicomImage(fileStream))
 {
-    // A kódod ide kerül
+    // A kódod ide fog kerülni
 }
 ```
 
-## 2. lépés: Binarizálja a képet
+## 2. lépés: A kép binarizálása
 
-Most itt az ideje alkalmazni a Bradley-féle adaptív küszöböt a kép binarizálásához.
+Most itt az ideje, hogy Bradley adaptív küszöbértékét alkalmazzuk a kép binarizálásához.
 
 ```csharp
-// Binarizálja a képet Bradley adaptív küszöbértékével, és mentse az eredményül kapott képet.
+// Binarizálja a képet Bradley adaptív küszöbértékével, és mentse el a kapott képet.
 image.BinarizeBradley(10);
 ```
 
-## 3. lépés: Mentse el a bináris képet
+## 3. lépés: A bináris kép mentése
 
-Mentse el a bináris képet a kívánt helyre BMP formátum használatával.
+Mentse el a bináris képet a kívánt helyre BMP formátumban.
 
 ```csharp
 image.Save(dataDir + "BinarizationWithBradleysAdaptiveThreshold_out.bmp", new BmpOptions());
@@ -78,34 +80,36 @@ image.Save(dataDir + "BinarizationWithBradleysAdaptiveThreshold_out.bmp", new Bm
 
 ## Következtetés
 
-Ebben az oktatóanyagban az Aspose.Imaging for .NET segítségével történő DICOM-képen a Bradley-féle Adaptive Threshold segítségével történő binarizálás teljes folyamatát ismertettük. Megtanulta az előfeltételeket, a névterek importálását, valamint a kép binarizálásának lépésenkénti útmutatóját. Ezzel a tudással hatékonyan dolgozhatja fel a DICOM-képeket az Ön egyedi igényei szerint.
+Ebben az oktatóanyagban az Aspose.Imaging for .NET használatával a DICOM kép binarizálásának teljes folyamatát ismertettük Bradley adaptív küszöbértékével. Megtanultad az előfeltételeket, a névterek importálásának módját, valamint egy lépésről lépésre bemutatott útmutatót a kép binarizálásához. Ezzel a tudással hatékonyan dolgozhatod fel a DICOM képeket az igényeidnek megfelelően.
 
-Most már rendelkezik azokkal az eszközökkel és ismeretekkel, amelyekkel az Aspose.Imaging for .NET segítségével javíthatja képfeldolgozási képességeit.
+Most már rendelkezik az eszközökkel és a tudással, hogy az Aspose.Imaging for .NET segítségével fejlessze képfeldolgozási képességeit.
 
 ## GYIK
 
-### 1. kérdés: Mi az a Bradley adaptív küszöbértéke?
+### 1. kérdés: Mi a Bradley-féle adaptációs küszöb?
 
-1. válasz: A Bradley adaptív küszöbértéke a képfeldolgozás során használt módszer a kép előterének és hátterének elválasztására adaptív küszöbértékek alapján.
+A1: A Bradley-féle adaptív küszöbérték egy olyan képfeldolgozási módszer, amely adaptív küszöbértékek alapján választja szét a kép előterét és hátterét.
 
-### 2. kérdés: Feldolgozhatok több DICOM-képet egyszerre?
+### 2. kérdés: Feldolgozhatok több DICOM képet egyszerre?
 
-2. válasz: Igen, áthaladhat több DICOM-képen, és alkalmazhatja az oktatóanyagban bemutatott binarizálási folyamatot.
+V2: Igen, végigmehetsz több DICOM képen, és alkalmazhatod a binarizálási folyamatot, ahogy az ebben az oktatóanyagban látható.
 
 ### 3. kérdés: Hol találok további Aspose.Imaging for .NET dokumentációt?
 
- V3: Megnézheti a dokumentációt[itt](https://reference.aspose.com/imaging/net/)Az Aspose.Imaging for .NET használatával kapcsolatos részletes információkért.
+A3: Böngészheti a dokumentációt [itt](https://reference.aspose.com/imaging/net/) az Aspose.Imaging .NET-hez való használatáról szóló részletes információkért lásd:
 
-### 4. kérdés: Elérhető az Aspose.Imaging .NET-hez próbaverziója?
+### 4. kérdés: Van elérhető próbaverzió az Aspose.Imaging for .NET-hez?
 
- 4. válasz: Igen, hozzáférhet az ingyenes próbaverzióhoz[itt](https://releases.aspose.com/) hogy vásárlás előtt tesztelje a szoftvert.
+A4: Igen, hozzáférhet egy ingyenes próbaverzióhoz [itt](https://releases.aspose.com/) hogy vásárlás előtt tesztelje a szoftvert.
 
 ### 5. kérdés: Hogyan kaphatok támogatást az Aspose.Imaging for .NET-hez?
 
- 5. válasz: Csatlakozhat az Aspose közösséghez, és támogatást kérhet a fejlesztőktől a webhelyen[Aspose fórum](https://forum.aspose.com/).
+V5: Csatlakozhatsz az Aspose közösséghez, és támogatást kaphatsz más fejlesztőktől a következő oldalon: [Aspose Fórum](https://forum.aspose.com/).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

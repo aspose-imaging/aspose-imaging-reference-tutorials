@@ -1,33 +1,35 @@
 ---
-title: Ajuste de contraste de imagen DICOM con Aspose.Imaging para Java
-linktitle: Ajuste de contraste de imagen DICOM
-second_title: Aspose.Imaging API de procesamiento de imágenes Java
-description: Aprenda a ajustar el contraste en imágenes DICOM usando Aspose.Imaging para Java. Mejore la calidad visual de las imágenes médicas sin esfuerzo.
-weight: 23
-url: /es/java/image-processing-and-enhancement/dicom-image-contrast-adjustment/
+"description": "Aprenda a ajustar el contraste en imágenes DICOM con Aspose.Imaging para Java. Mejore la calidad visual de las imágenes médicas sin esfuerzo."
+"linktitle": "Ajuste del contraste de la imagen DICOM"
+"second_title": "API de procesamiento de imágenes Java Aspose.Imaging"
+"title": "Ajuste del contraste de imágenes DICOM con Aspose.Imaging para Java"
+"url": "/es/java/image-processing-and-enhancement/dicom-image-contrast-adjustment/"
+"weight": 23
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Ajuste de contraste de imagen DICOM con Aspose.Imaging para Java
+# Ajuste del contraste de imágenes DICOM con Aspose.Imaging para Java
 
-En el campo de las imágenes médicas en constante evolución, la capacidad de ajustar el contraste de la imagen es de suma importancia. Con el poder de Aspose.Imaging para Java, puede manipular sin esfuerzo imágenes DICOM (Imágenes digitales y comunicaciones en medicina) para mejorar su calidad visual. Este tutorial lo guiará a través del proceso paso a paso, asegurándose de lograr ajustes de contraste de imagen precisos y efectivos.
+En el campo de la imagenología médica, en constante evolución, la capacidad de ajustar el contraste de la imagen es fundamental. Con la potencia de Aspose.Imaging para Java, puede manipular fácilmente imágenes DICOM (Imagen Digital y Comunicaciones en Medicina) para mejorar su calidad visual. Este tutorial le guiará paso a paso por el proceso, asegurándose de que obtenga ajustes de contraste de imagen precisos y efectivos.
 
-## Requisitos previos
+## Prerrequisitos
 
-Antes de sumergirse en este tutorial, asegúrese de cumplir con los siguientes requisitos previos:
+Antes de sumergirse en este tutorial, asegúrese de tener los siguientes requisitos previos:
 
-1.  Aspose.Imaging para Java: para trabajar con imágenes DICOM y realizar ajustes de contraste, necesita tener Aspose.Imaging para Java. Puedes descargarlo[aquí](https://releases.aspose.com/imaging/java/).
+1. Aspose.Imaging para Java: Para trabajar con imágenes DICOM y realizar ajustes de contraste, necesita Aspose.Imaging para Java. Puede descargarlo. [aquí](https://releases.aspose.com/imaging/java/).
 
-2. Entorno de desarrollo Java: asegúrese de tener un entorno de desarrollo Java funcional, incluido el kit de desarrollo Java (JDK) y un entorno de desarrollo integrado (IDE) de su elección.
+2. Entorno de desarrollo de Java: asegúrese de disponer de un entorno de desarrollo de Java en funcionamiento, incluido el Kit de desarrollo de Java (JDK) y un entorno de desarrollo integrado (IDE) de su elección.
 
-3. Imagen DICOM: prepare la imagen DICOM que desea ajustar. Puede encontrar imágenes DICOM de muestra para realizar pruebas o utilizar las suyas propias.
+3. Imagen DICOM: Prepare la imagen DICOM que desea ajustar. Puede encontrar imágenes DICOM de muestra para probarlas o usar las suyas.
 
 ## Importar paquetes
 
-En su proyecto Java, importe los paquetes necesarios desde Aspose.Imaging para Java. Estos paquetes proporcionarán las herramientas y funcionalidades necesarias para realizar ajustes de contraste en imágenes DICOM.
+En su proyecto Java, importe los paquetes necesarios de Aspose.Imaging para Java. Estos paquetes proporcionarán las herramientas y funcionalidades necesarias para ajustar el contraste en imágenes DICOM.
 
 ```java
 import com.aspose.imaging.imageoptions.BmpOptions;
@@ -38,9 +40,9 @@ import java.io.FileInputStream;
 import java.io.IOException;
 ```
 
-## Paso 1: especificar las rutas del archivo
+## Paso 1: Especifique las rutas de archivo
 
- Defina las rutas para su imagen DICOM de entrada y la imagen BMP de salida. Asegúrate de reemplazar`"Your Document Directory"` con la ruta real a su directorio de documentos.
+Define las rutas para la imagen DICOM de entrada y la imagen BMP de salida. Asegúrate de reemplazar `"Your Document Directory"` con la ruta real a su directorio de documentos.
 
 ```java
 String dataDir = "Your Document Directory" + "dicom/";
@@ -48,7 +50,7 @@ String inputFile = dataDir + "image.dcm";
 String outputFile = "Your Document Directory" + "AdjustingContrast_out.bmp";
 ```
 
-## Paso 2: cargue la imagen DICOM
+## Paso 2: Cargar la imagen DICOM
 
 Utilice el siguiente código para cargar la imagen DICOM desde el archivo de entrada especificado.
 
@@ -57,7 +59,7 @@ File file = new File(inputFile);
 
 try (FileInputStream fis = new FileInputStream(file)) {
     try (DicomImage image = (DicomImage) Image.load(fis)) {
-        // Se tomarán más medidas dentro de este bloque.
+        // Dentro de este bloque se adoptarán medidas adicionales.
     }
 } catch (IOException ex) {
     Logger.println(ex.getMessage());
@@ -65,17 +67,17 @@ try (FileInputStream fis = new FileInputStream(file)) {
 }
 ```
 
-## Paso 3: ajusta el contraste
+## Paso 3: Ajustar el contraste
 
-Dentro del bloque donde cargaste la imagen DICOM, puedes ajustar el contraste de la imagen. En este ejemplo, aumentamos el contraste en 50 unidades.
+Dentro del bloque donde cargó la imagen DICOM, puede ajustar el contraste. En este ejemplo, aumentamos el contraste en 50 unidades.
 
 ```java
 image.adjustContrast(50);
 ```
 
-## Paso 4: cree una instancia de BmpOptions y guarde la imagen
+## Paso 4: Cree una instancia de BmpOptions y guarde la imagen
 
- Después de ajustar el contraste, cree una instancia de`BmpOptions` para la imagen resultante y guárdela. La imagen se guardará en formato BMP.
+Después de ajustar el contraste, cree una instancia de `BmpOptions` Para la imagen resultante y guárdela. La imagen se guardará en formato BMP.
 
 ```java
 image.save(outputFile, new BmpOptions());
@@ -83,34 +85,36 @@ image.save(outputFile, new BmpOptions());
 
 ## Conclusión
 
-¡Felicidades! Ha ajustado con éxito el contraste de una imagen DICOM utilizando Aspose.Imaging para Java. Esta poderosa herramienta le permite mejorar la calidad visual de las imágenes médicas con facilidad.
+¡Felicitaciones! Ha ajustado correctamente el contraste de una imagen DICOM con Aspose.Imaging para Java. Esta potente herramienta le permite mejorar la calidad visual de las imágenes médicas fácilmente.
 
-Aspose.Imaging para Java simplifica el proceso de manipulación de imágenes DICOM, lo que lo convierte en un activo valioso para los profesionales de la salud, los investigadores y cualquier persona que trabaje con datos de imágenes médicas.
+Aspose.Imaging para Java simplifica el proceso de manipulación de imágenes DICOM, lo que lo convierte en un recurso valioso para profesionales de la salud, investigadores y cualquier persona que trabaje con datos de imágenes médicas.
 
 ## Preguntas frecuentes
 
-### P1: ¿Qué es DICOM y por qué es importante en imágenes médicas?
+### P1: ¿Qué es DICOM y por qué es importante en las imágenes médicas?
 
-A1: DICOM significa Imágenes y Comunicaciones Digitales en Medicina. Es un estándar para transmitir, almacenar y compartir imágenes médicas e información asociada. DICOM garantiza que las imágenes médicas se puedan ver e interpretar de forma coherente en diferentes dispositivos y software.
+A1: DICOM significa Imágenes Digitales y Comunicaciones en Medicina. Es un estándar para transmitir, almacenar y compartir imágenes médicas e información asociada. DICOM garantiza que las imágenes médicas se puedan visualizar e interpretar de forma coherente en diferentes dispositivos y software.
 
 ### P2: ¿Puedo ajustar el contraste de otros formatos de imagen con Aspose.Imaging para Java?
 
-R2: Sí, Aspose.Imaging para Java proporciona una amplia gama de capacidades de procesamiento de imágenes para varios formatos de imagen, incluido el ajuste del contraste.
+A2: Sí, Aspose.Imaging para Java proporciona una amplia gama de capacidades de procesamiento de imágenes para varios formatos de imagen, incluido el ajuste del contraste.
 
 ### P3: ¿Existen otras técnicas de mejora de imágenes que pueda aplicar con Aspose.Imaging para Java?
 
-R3: Sí, Aspose.Imaging para Java ofrece una gran cantidad de funciones de manipulación de imágenes, como ajuste de brillo, cambio de tamaño, recorte y más.
+A3: Sí, Aspose.Imaging para Java ofrece una gran cantidad de funciones de manipulación de imágenes, como ajuste de brillo, cambio de tamaño, recorte y más.
 
 ### P4: ¿Aspose.Imaging para Java es adecuado para uso comercial?
 
- R4: Sí, Aspose.Imaging para Java ofrece soporte y licencias comerciales. Puedes comprar una licencia[aquí](https://purchase.aspose.com/buy) o explorar opciones de licencia temporal[aquí](https://purchase.aspose.com/temporary-license/).
+A4: Sí, Aspose.Imaging para Java ofrece licencias comerciales y soporte. Puede adquirir una licencia. [aquí](https://purchase.aspose.com/buy) o explorar opciones de licencia temporal [aquí](https://purchase.aspose.com/temporary-license/).
 
-### P5: ¿Dónde puedo encontrar recursos adicionales y soporte para Aspose.Imaging para Java?
+### Q5: ¿Dónde puedo encontrar recursos y soporte adicionales para Aspose.Imaging para Java?
 
- R5: Puede encontrar documentación y soporte en el[Foro Aspose.Imaging para Java](https://forum.aspose.com/).
+A5: Puede encontrar documentación y soporte en el [Foro de Aspose.Imaging para Java](https://forum.aspose.com/).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

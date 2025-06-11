@@ -1,31 +1,33 @@
 ---
-title: Obrazy DICOM w skali szarości z Aspose.Imaging dla .NET
-linktitle: Skala szarości w formacie DICOM w Aspose.Imaging dla .NET
-second_title: Aspose.Imaging .NET API przetwarzania obrazu
-description: Dowiedz się, jak przeprowadzić skalowanie szarości na obrazach DICOM za pomocą Aspose.Imaging dla .NET, potężnej biblioteki do przetwarzania obrazów.
-weight: 24
-url: /pl/net/dicom-image-processing/grayscale-on-dicom/
+"description": "Dowiedz się, jak wykonywać skalowanie szarości w obrazach DICOM za pomocą Aspose.Imaging for .NET, zaawansowanej biblioteki do przetwarzania obrazów."
+"linktitle": "Skala szarości w DICOM w Aspose.Imaging dla .NET"
+"second_title": "Aspose.Imaging .NET Interfejs API przetwarzania obrazu"
+"title": "Obrazy DICOM w skali szarości z Aspose.Imaging dla .NET"
+"url": "/pl/net/dicom-image-processing/grayscale-on-dicom/"
+"weight": 24
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Obrazy DICOM w skali szarości z Aspose.Imaging dla .NET
 
-Jeśli pracujesz z danymi obrazowania medycznego w formacie DICOM i musisz wykonać transformacje w skali szarości, Aspose.Imaging dla .NET oferuje potężne rozwiązanie. W tym samouczku krok po kroku przeprowadzimy Cię przez proces skalowania szarości obrazu DICOM przy użyciu Aspose.Imaging. Biblioteka ta jest wszechstronnym narzędziem umożliwiającym pracę z różnymi formatami obrazów, w tym DICOM, w środowisku .NET. Zacznijmy!
+Jeśli pracujesz z danymi obrazowania medycznego w formacie DICOM i musisz wykonać transformacje w skali szarości, Aspose.Imaging dla .NET oferuje potężne rozwiązanie. W tym samouczku krok po kroku przeprowadzimy Cię przez proces przekształcania obrazu DICOM w skalę szarości przy użyciu Aspose.Imaging. Ta biblioteka to wszechstronne narzędzie, które umożliwia pracę z różnymi formatami obrazów, w tym DICOM, w środowisku .NET. Zaczynajmy!
 
-## Warunki wstępne
+## Wymagania wstępne
 
 Zanim zaczniesz, upewnij się, że spełnione są następujące wymagania wstępne:
 
-1.  Aspose.Imaging dla .NET: Powinieneś mieć zainstalowaną tę bibliotekę. Można go pobrać z[Strona pobierania Aspose.Imaging dla platformy .NET](https://releases.aspose.com/imaging/net/).
+1. Aspose.Imaging dla .NET: Powinieneś mieć zainstalowaną tę bibliotekę. Możesz ją pobrać ze strony [Strona pobierania Aspose.Imaging dla .NET](https://releases.aspose.com/imaging/net/).
 
-2. Obraz DICOM: Powinieneś mieć obraz DICOM, który chcesz przekształcić w skalę szarości. Jeśli go nie masz, możesz znaleźć przykładowe obrazy DICOM do celów testowych.
+2. Obraz DICOM: Powinieneś mieć obraz DICOM, który chcesz przekształcić na skalę szarości. Jeśli go nie masz, możesz znaleźć przykładowe obrazy DICOM do celów testowych.
 
 ## Importuj przestrzenie nazw
 
-Najpierw zaimportujmy niezbędne przestrzenie nazw do pracy z Aspose.Imaging:
+Najpierw zaimportujmy niezbędne przestrzenie nazw, aby móc pracować z Aspose.Imaging:
 
 ```csharp
 using System;
@@ -35,11 +37,11 @@ using Aspose.Imaging.FileFormats.Dicom;
 using Aspose.Imaging.ImageOptions;
 ```
 
-Teraz, gdy masz już wstępne wymagania i zaimportowane przestrzenie nazw, możemy krok po kroku przystąpić do procesu skalowania szarości.
+Teraz, gdy spełniłeś już wszystkie wymagania wstępne i zaimportowałeś przestrzenie nazw, możemy przejść do procesu przekształcania w skalę szarości krok po kroku.
 
 ## Krok 1: Zainicjuj obraz DICOM
 
- Zaczynamy od inicjalizacji obrazu DICOM. W tym przykładzie zakładamy, że plik DICOM nosi nazwę „file.dcm” i znajduje się w katalogu określonym przez`dataDir`.
+Zaczynamy od zainicjowania obrazu DICOM. W tym przykładzie zakładamy, że plik DICOM nosi nazwę „file.dcm” i znajduje się w katalogu określonym przez `dataDir`.
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -47,20 +49,20 @@ using (var fileStream = new FileStream(dataDir + "file.dcm", FileMode.Open, File
 using (DicomImage image = new DicomImage(fileStream))
 ```
 
-## Krok 2: Transformacja w skali szarości
+## Krok 2: Transformacja skali szarości
 
- Następnym krokiem jest przekształcenie załadowanego obrazu DICOM na jego reprezentację w skali szarości za pomocą`Grayscale()` metoda. Ta metoda automatycznie konwertuje obraz do skali szarości.
+Następnym krokiem jest przekształcenie załadowanego obrazu DICOM do jego reprezentacji w skali szarości przy użyciu `Grayscale()` metoda. Ta metoda automatycznie konwertuje obraz do skali szarości.
 
 ```csharp
 {
-    // Przekształć obraz w jego reprezentację w skali szarości
+    // Przekształć obraz do jego skali szarości
     image.Grayscale();
 }
 ```
 
 ## Krok 3: Zapisz obraz w skali szarości
 
- Po przeskalowaniu obrazu w skali szarości możesz zapisać wynikowy obraz. W tym przykładzie zapisujemy go w formacie BMP za pomocą pliku`BmpOptions()`.
+Po przekonwertowaniu obrazu na skalę szarości możesz zapisać wynikowy obraz. W tym przykładzie zapisujemy go w formacie BMP, używając `BmpOptions()`.
 
 ```csharp
 image.Save(dataDir + "GrayscalingOnDICOM_out.bmp", new BmpOptions());
@@ -68,32 +70,34 @@ image.Save(dataDir + "GrayscalingOnDICOM_out.bmp", new BmpOptions());
 
 ## Wniosek
 
-tym samouczku nauczyliśmy się, jak wykonywać skalowanie szarości na obrazie DICOM przy użyciu Aspose.Imaging dla .NET. Biblioteka ta upraszcza proces pracy z danymi obrazowania medycznego i umożliwia łatwe wykonywanie różnych transformacji. Niezależnie od tego, czy pracujesz nad badaniami medycznymi, czy aplikacjami związanymi z opieką zdrowotną, Aspose.Imaging może być cennym narzędziem w zestawie narzędzi programistycznych .NET.
+tym samouczku nauczyliśmy się, jak wykonać skalowanie szarości na obrazie DICOM przy użyciu Aspose.Imaging dla .NET. Ta biblioteka upraszcza proces pracy z danymi obrazowania medycznego i pozwala na łatwe wykonywanie różnych transformacji. Niezależnie od tego, czy pracujesz nad badaniami medycznymi, czy aplikacjami opieki zdrowotnej, Aspose.Imaging może być cennym narzędziem w Twoim zestawie narzędzi programistycznych .NET.
 
-## Często zadawane pytania
+## Najczęściej zadawane pytania
 
-### P1: Co to jest DICOM?
+### P1: Czym jest DICOM?
 
-A1: DICOM oznacza cyfrowe obrazowanie i komunikację w medycynie. Jest to standard obsługi, przechowywania, drukowania i przesyłania obrazów medycznych.
+A1: DICOM oznacza Digital Imaging and Communications in Medicine. Jest to standard dotyczący obsługi, przechowywania, drukowania i przesyłania obrazów medycznych.
 
-### P2: Czy Aspose.Imaging nadaje się do niemedycznego przetwarzania obrazów?
+### P2: Czy Aspose.Imaging nadaje się do przetwarzania obrazów w celach niemedycznych?
 
-Odpowiedź 2: Tak, Aspose.Imaging to wszechstronna biblioteka, która obsługuje szeroką gamę formatów obrazów do różnych zastosowań poza obrazowaniem medycznym.
+A2: Tak, Aspose.Imaging to wszechstronna biblioteka, która może obsługiwać szeroką gamę formatów obrazów w różnych zastosowaniach wykraczających poza obrazowanie medyczne.
 
 ### P3: Gdzie mogę znaleźć więcej dokumentacji?
 
- A3: Możesz odwołać się do[Dokumentacja Aspose.Imaging dla .NET](https://reference.aspose.com/imaging/net/) szczegółowe informacje i przykłady.
+A3: Możesz odwołać się do [Dokumentacja Aspose.Imaging dla .NET](https://reference.aspose.com/imaging/net/) aby uzyskać szczegółowe informacje i przykłady.
 
-### P4: Czy dostępny jest bezpłatny okres próbny?
+### P4: Czy jest dostępna bezpłatna wersja próbna?
 
- A4: Tak, możesz uzyskać dostęp do[bezpłatna wersja próbna Aspose.Imaging](https://releases.aspose.com/) aby ocenić jego możliwości.
+A4: Tak, możesz uzyskać dostęp do [bezpłatna wersja próbna Aspose.Imaging](https://releases.aspose.com/) aby ocenić jego możliwości.
 
-### P5: Jak mogę uzyskać pomoc dotyczącą Aspose.Imaging?
+### P5: Jak mogę uzyskać pomoc techniczną dotyczącą Aspose.Imaging?
 
- A5: Jeśli masz jakieś pytania lub potrzebujesz pomocy, możesz odwiedzić stronę[Forum Aspose.Imaging](https://forum.aspose.com/) aby zwrócić się o pomoc do społeczności lub skontaktować się z jej zespołem wsparcia.
+A5: Jeśli masz jakieś pytania lub potrzebujesz pomocy, możesz odwiedzić stronę [Forum Aspose.Imaging](https://forum.aspose.com/) aby zwrócić się o pomoc do społeczności lub skontaktować się z jej zespołem wsparcia.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

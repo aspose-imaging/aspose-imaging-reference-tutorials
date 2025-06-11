@@ -1,122 +1,126 @@
 ---
-title: Zpracování obrazu DICOM pomocí Aspose.Imaging pro .NET
-linktitle: Zpracování obrazu DICOM
-second_title: Aspose.Imaging .NET Image Processing API
-description: Prozkoumejte komplexní sérii výukových programů o zpracování obrazu DICOM pomocí Aspose.Imaging for .NET. Naučte se vylepšovat lékařské snímky bez námahy.
-weight: 28
-url: /cs/net/dicom-image-processing/
+"description": "Prozkoumejte komplexní sérii tutoriálů o zpracování obrazu DICOM pomocí Aspose.Imaging pro .NET. Naučte se bez námahy vylepšovat lékařské snímky."
+"linktitle": "Zpracování obrazu DICOM"
+"second_title": "Rozhraní API pro zpracování obrazu Aspose.Imaging .NET"
+"title": "Zpracování obrazu DICOM pomocí Aspose.Imaging pro .NET"
+"url": "/cs/net/dicom-image-processing/"
+"weight": 28
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Zpracování obrazu DICOM pomocí Aspose.Imaging pro .NET
 
 
-Toužíte ovládnout umění zpracování obrazu DICOM pomocí Aspose.Imaging pro .NET? Už nehledejte! V této sérii výukových programů vás provedeme různými technikami pro snadné vylepšení a manipulaci s lékařskými snímky. Ať už jste lékař, vývojář nebo jen zvědavý student, tyto výukové programy vás vybaví znalostmi a dovednostmi, abyste mohli z Aspose.Imaging pro .NET vytěžit maximum.
+Toužíte zvládnout umění zpracování obrazu DICOM s Aspose.Imaging pro .NET? Už nehledejte! V této sérii tutoriálů vás provedeme různými technikami pro snadné vylepšování a manipulaci s lékařskými snímky. Ať už jste zdravotnický pracovník, vývojář nebo jen zvědavý student, tyto tutoriály vás vybaví znalostmi a dovednostmi, abyste mohli Aspose.Imaging pro .NET co nejlépe využívat.
 
-## Úprava jasu obrázků DICOM
+## Úprava jasu snímků DICOM
 
-lékařské oblasti je správná úroveň jasu v obrazech DICOM zásadní pro přesnou diagnózu. S naším podrobným průvodcem se naučíte, jak upravit jas pomocí Aspose.Imaging pro .NET. Vylepšete viditelnost kritických detailů ve svých lékařských snímcích bez námahy.
+lékařství je správná úroveň jasu v DICOM snímcích klíčová pro přesnou diagnózu. S naším podrobným návodem se naučíte, jak upravit jas pomocí Aspose.Imaging pro .NET. Snadno vylepšete viditelnost důležitých detailů ve vašich lékařských snímcích.
 
-## Vylepšete kontrast obrazu v obrazech DICOM
+## Zvýšení kontrastu obrazu v obrazech DICOM
 
-Kontrast je nezbytný pro zvýraznění nuancí na lékařských snímcích. Objevte, jak upravit kontrast v obrázcích DICOM pomocí Aspose.Imaging for .NET. Tento výukový program poskytuje snadno srozumitelné kroky pro dosažení optimálního kontrastu a zlepšení kvality obrazu.
+Kontrast je nezbytný pro zvýraznění nuancí v lékařských snímcích. Zjistěte, jak upravit kontrast v DICOM snímcích pomocí Aspose.Imaging pro .NET. Tento tutoriál nabízí snadno srozumitelné kroky pro dosažení optimálního kontrastu a zlepšení kvality obrazu.
 
-## Jemné doladění Gamma v DICOM Images
+## Jemné doladění gama korekce v DICOM snímcích
 
-Gamma korekce může výrazně ovlivnit kvalitu snímků DICOM. Naučte se, jak upravit gama ve vašich lékařských snímcích pomocí Aspose.Imaging pro .NET. Provedeme vás procesem, jak dosáhnout perfektního nastavení gama pro vaše specifické potřeby.
+Gama korekce může významně ovlivnit kvalitu snímků DICOM. Naučte se, jak upravit gama korekci ve vašich lékařských snímcích pomocí Aspose.Imaging pro .NET. Provedeme vás procesem, jak dosáhnout dokonalého nastavení gama korekce pro vaše specifické potřeby.
 
-## Použití filtrů na obrazy DICOM
+## Použití filtrů na snímky DICOM
 
-Filtry mohou být nepostradatelnými nástroji při zpracování lékařských snímků. Prozkoumejte, jak použít různé filtry na obrazy DICOM pomocí Aspose.Imaging for .NET. Vylepšete detaily snímku, odstraňte šum a vylepšete diagnostickou kvalitu svých lékařských snímků.
+Filtry mohou být nepostradatelnými nástroji při zpracování lékařských snímků. Prozkoumejte, jak aplikovat různé filtry na snímky DICOM pomocí Aspose.Imaging for .NET. Vylepšete detaily obrazu, odstraňte šum a zlepšete diagnostickou kvalitu vašich lékařských snímků.
 
 ## Snadná binarizace s Bradleyho adaptivním prahem
 
-Binarizace zjednodušuje segmentaci lékařských snímků. Náš výukový program Bradley's Adaptive Threshold v Aspose.Imaging pro .NET vás provede procesem krok za krokem. Dosáhněte přesné binarizace pro lepší analýzu obrazu.
+Binarizace zjednodušuje segmentaci lékařských obrazů. Náš tutoriál o Bradleyho adaptivním prahu v Aspose.Imaging pro .NET vás provede celým procesem krok za krokem. Dosáhněte přesné binarizace pro lepší analýzu obrazu.
 
-## Binarizace krok za krokem s pevným prahem
+## Postupná binarizace s pevným prahem
 
-Chcete provést binarizaci s pevným prahem v obrazech DICOM? Tento tutoriál s příklady kódu bude hračkou používat Aspose.Imaging pro ..NET. Zlepšete interpretovatelnost lékařských snímků pomocí tohoto jednoduchého průvodce.
+Chcete provádět binarizaci s pevnou prahovou hodnotou v DICOM snímcích? Tento tutoriál s příklady kódu vám usnadní používání Aspose.Imaging pro ..NET. Vylepšete interpretovatelnost lékařských snímků s tímto jednoduchým návodem.
 
-## Využití Otsu Threshold pro binarizaci
+## Využití Otsuova prahu pro binarizaci
 
-Otsu Thresholding je výkonná technika pro binarizaci obrazu. Naučte se, jak použít Otsu Threshold na obrázky DICOM pomocí Aspose.Imaging for .NET. Zvyšte kvalitu a přesnost lékařského zpracování obrazu bez námahy.
+Otsu Thresholding je výkonná technika pro binarizaci obrazů. Naučte se, jak aplikovat Otsu Threshold na vaše DICOM obrazy pomocí Aspose.Imaging for .NET. Zvyšte kvalitu a přesnost zpracování lékařských obrazů bez námahy.
 
-## Efektivní DICOM komprese
+## Efektivní komprese DICOM
 
-Efektivně ukládejte a přenášejte lékařské snímky s vysokou diagnostickou kvalitou díky zvládnutí komprese DICOM pomocí Aspose.Imaging for .NET. Náš podrobný průvodce zajišťuje, že můžete efektivně zpracovávat velké objemy lékařských dat.
+Efektivně ukládejte a přenášejte lékařské snímky s vysokou diagnostickou kvalitou díky zvládnutí komprese DICOM s Aspose.Imaging pro .NET. Náš podrobný návod vám zajistí, že zvládnete efektivně velké objemy lékařských dat.
 
 ## Přesné ořezávání DICOM pomocí posunů
 
-Potřebujete oříznout obrázky DICOM pro konkrétní oblast zájmu? Aspose.Imaging pro .NET to usnadňuje. Tento tutoriál vás provede celým procesem a vylepší vaše možnosti zpracování lékařských snímků.
+Potřebujete oříznout snímky DICOM pro konkrétní oblast zájmu? Aspose.Imaging pro .NET to usnadňuje. Tento tutoriál vás provede celým procesem a rozšíří vaše možnosti zpracování lékařských snímků.
 
-## Jednoduchá změna velikosti pro obrázky DICOM
+## Jednoduchá změna velikosti obrázků DICOM
 
-Prozkoumejte, jak snadno změnit velikost obrázků DICOM pomocí Aspose.Imaging for .NET. Ať už jde o zvětšování nebo zmenšování rozměrů obrazu, s tímto výkonným nástrojem dosáhnete přesných výsledků.
+Prozkoumejte, jak snadno změnit velikost obrázků DICOM pomocí nástroje Aspose.Imaging pro .NET. Ať už zvětšujete nebo zmenšujete rozměry obrázků, s tímto výkonným nástrojem dosáhnete přesných výsledků.
 
-## Prozkoumání dalších možností změny velikosti obrázku DICOM
+## Prozkoumání dalších možností změny velikosti obrázků v DICOMu
 
-Ponořte se hlouběji do změny velikosti obrázku pomocí Aspose.Imaging pro .NET. Tato příručka popisuje různé techniky změny velikosti pro efektivní manipulaci s lékařskými snímky. Vyberte si metodu, která nejlépe vyhovuje vašim potřebám, a ovládněte umění změny velikosti.
+Ponořte se hlouběji do změny velikosti obrázků s Aspose.Imaging pro .NET. Tato příručka popisuje různé techniky změny velikosti pro efektivní manipulaci s lékařskými snímky. Vyberte si metodu, která nejlépe vyhovuje vašim potřebám, a ovládněte umění změny velikosti.
 
-## Převést DICOM do formátu PNG
+## Převod DICOM do formátu PNG
 
-Zjednodušte sdílení lékařských snímků bez námahy převodem snímků DICOM na PNG pomocí Aspose.Imaging pro .NET. Tento tutoriál poskytuje know-how, jak zpřístupnit vaše lékařské snímky na různých platformách.
+Zjednodušte sdílení lékařských snímků snadným převodem snímků DICOM do formátu PNG pomocí nástroje Aspose.Imaging pro .NET. Tento tutoriál vám poskytne know-how, jak zpřístupnit vaše lékařské snímky na různých platformách.
 
-## Threshold Dithering pro DICOM obrazy
+## Prahové rozklady pro snímky DICOM
 
-Prozkoumejte techniku prahového rozkladu v obrazech DICOM pomocí Aspose.Imaging for .NET. Vylepšete kvalitu obrazu a snižte barevné palety bez námahy pro přesnější lékařskou analýzu obrazu.
+Prozkoumejte techniku prahového ditheringu v DICOM snímcích pomocí Aspose.Imaging pro .NET. Zlepšete kvalitu obrazu a bez námahy snižte počet barevných palet pro přesnější analýzu lékařských snímků.
 
 ## Export obrázků do formátu DICOM
 
-Naučte se exportovat obrázky do formátu DICOM v .NET pomocí Aspose.Imaging. Tato základní dovednost zajišťuje kompatibilitu a standardizaci v lékařském zobrazovacím průmyslu.
+Naučte se, jak exportovat obrázky do formátu DICOM v .NET pomocí Aspose.Imaging. Tato nezbytná dovednost zajišťuje kompatibilitu a standardizaci v odvětví lékařského zobrazování.
 
-## Odstínění šedé pro obrázky DICOM
+## Stupně šedi pro snímky DICOM
 
-Interpretace obrázků ve stupních šedi může být pohodlnější. Zjistěte, jak provádět odstínění šedi na obrázcích DICOM pomocí Aspose.Imaging for .NET. Zvyšte jasnost obrazu a zjednodušte diagnostiku.
+Snímky ve stupních šedi se mohou interpretovat pohodlněji. Zjistěte, jak provádět úpravu stupňů šedi na snímcích DICOM pomocí Aspose.Imaging for .NET. Zlepšete jasnost obrazu a zjednodušte diagnostiku.
 
-## Ukládání tagů XMP v obrazech DICOM
+## Ukládání tagů XMP do obrázků DICOM
 
-Optimalizujte správu a organizaci obrázků přidáním metadat XMP do obrázků DICOM pomocí Aspose.Imaging for .NET. Tento výukový program nabízí podrobného průvodce, který vám pomůže zefektivnit vaše lékařské snímky.
+Optimalizujte správu a organizaci obrázků přidáním metadat XMP k obrázkům DICOM pomocí Aspose.Imaging pro .NET. Tento tutoriál nabízí podrobný návod, který vám pomůže zefektivnit vaše datové zdroje lékařských obrázků.
 
-Začleňte Aspose.Imaging for .NET do své sady nástrojů pro zpracování lékařských snímků a odemkněte plný potenciál manipulace s obrázky DICOM. Tyto výukové programy vám umožní co nejlépe využít tento všestranný software, ať už jste lékař nebo vývojář. Začněte vylepšovat své lékařské snímky ještě dnes!
-## Návody na zpracování obrazu DICOM
-### [Upravte jas obrazu DICOM v Aspose.Imaging pro .NET](./adjust-brightness-of-dicom-image/)
-Naučte se, jak upravit jas obrazu DICOM v Aspose.Imaging pro .NET. Snadno vylepšete lékařské snímky.
-### [Upravte kontrast obrazu DICOM v Aspose.Imaging pro .NET](./adjust-contrast-of-dicom-image/)
-Vylepšete lékařské snímky pomocí Aspose.Imaging pro .NET. Upravte kontrast obrazu DICOM jednoduchými kroky.
-### [Upravte Gamma obrazu DICOM v Aspose.Imaging pro .NET](./adjust-gamma-of-dicom-image/)
-Naučte se, jak upravit gama v obrazech DICOM pomocí Aspose.Imaging for .NET. Vylepšete kvalitu lékařského obrazu jednoduchými kroky.
-### [Použít filtr na obraz DICOM v Aspose.Imaging pro .NET](./apply-filter-on-dicom-image/)
-Naučte se používat filtry na obrazy DICOM pomocí Aspose.Imaging for .NET. Snadno vylepšete zpracování lékařského obrazu.
-### [Binarizace pomocí Bradleyho adaptivního prahu na DICOM obrazu v Aspose.Imaging pro .NET](./binarization-with-bradleys-adaptive-threshold-on-dicom-image/)
-Naučte se aplikovat Bradleyho adaptivní práh na obrazy DICOM pomocí Aspose.Imaging for .NET. Binarizace je snadná s průvodcem krok za krokem.
-### [Binarizace s pevným prahem na obrázku DICOM v Aspose.Imaging pro .NET](./binarization-with-fixed-threshold-on-dicom-image/)
-Naučte se provádět binarizaci obrazu DICOM pomocí Aspose.Imaging for .NET. Podrobný průvodce s příklady kódu.
-### [Binarizace s Otsu Threshold na DICOM obrazu v Aspose.Imaging pro .NET](./binarization-with-otsu-threshold-on-dicom-image/)
-Vylepšete své lékařské zpracování obrazu pomocí Aspose.Imaging pro .NET. Naučte se provádět binarizaci obrazu DICOM pomocí Otsu Thresholding.
+Začleňte Aspose.Imaging pro .NET do své sady nástrojů pro zpracování lékařských snímků a odemkněte plný potenciál manipulace s obrázky DICOM. Tyto tutoriály vám umožní co nejlépe využít tento všestranný software, ať už jste zdravotnický pracovník nebo vývojář. Začněte vylepšovat své lékařské snímky ještě dnes!
+## Výukové programy pro zpracování obrazu DICOM
+### [Úprava jasu obrazu DICOM v Aspose.Imaging pro .NET](./adjust-brightness-of-dicom-image/)
+Naučte se, jak upravit jas snímků DICOM v Aspose.Imaging pro .NET. Snadno vylepšete lékařské snímky.
+### [Úprava kontrastu obrazu DICOM v Aspose.Imaging pro .NET](./adjust-contrast-of-dicom-image/)
+Vylepšete lékařské snímky pomocí Aspose.Imaging pro .NET. Upravte kontrast snímků DICOM pomocí snadných kroků.
+### [Úprava gama obrazu DICOM v Aspose.Imaging pro .NET](./adjust-gamma-of-dicom-image/)
+Naučte se, jak upravit gama v DICOM snímcích pomocí Aspose.Imaging pro .NET. Zlepšete kvalitu lékařských snímků pomocí jednoduchých kroků.
+### [Použití filtru na DICOM obraz v Aspose.Imaging pro .NET](./apply-filter-on-dicom-image/)
+Naučte se, jak aplikovat filtry na snímky DICOM pomocí Aspose.Imaging pro .NET. Snadno vylepšete zpracování lékařských snímků.
+### [Binarizace s Bradleyho adaptivním prahem na DICOM obrazu v Aspose.Imaging pro .NET](./binarization-with-bradleys-adaptive-threshold-on-dicom-image/)
+Naučte se aplikovat Bradleyho adaptivní práh na DICOM snímky pomocí Aspose.Imaging pro .NET. Snadná binarizace s podrobným návodem.
+### [Binarizace s pevným prahem na DICOM obrazu v Aspose.Imaging pro .NET](./binarization-with-fixed-threshold-on-dicom-image/)
+Naučte se, jak provést binarizaci obrazu DICOM pomocí Aspose.Imaging pro .NET. Podrobný návod s příklady kódu.
+### [Binarizace s Otsuovým prahem na DICOM obrazu v Aspose.Imaging pro .NET](./binarization-with-otsu-threshold-on-dicom-image/)
+Vylepšete zpracování lékařských obrazů pomocí Aspose.Imaging pro .NET. Naučte se, jak provádět binarizaci obrazů DICOM pomocí Otsu Thresholding.
 ### [Komprese DICOM v Aspose.Imaging pro .NET](./dicom-compression/)
-Naučte se provádět kompresi DICOM pomocí Aspose.Imaging for .NET. Postupujte podle tohoto podrobného průvodce pro efektivní ukládání a přenos lékařských snímků s vysokou diagnostickou kvalitou.
-### [Oříznutí DICOM pomocí posunů v Aspose.Imaging pro .NET](./dicom-cropping-by-shifts/)
-Naučte se ořezávat obrázky DICOM pomocí Aspose.Imaging for .NET. Vylepšete zpracování lékařských snímků pomocí tohoto podrobného průvodce.
+Naučte se, jak provádět kompresi DICOM pomocí Aspose.Imaging pro .NET. Postupujte podle tohoto podrobného návodu, jak efektivně ukládat a přenášet lékařské snímky s vysokou diagnostickou kvalitou.
+### [Ořezávání DICOM pomocí posunů v Aspose.Imaging pro .NET](./dicom-cropping-by-shifts/)
+Naučte se, jak ořezávat snímky DICOM pomocí Aspose.Imaging pro .NET. Vylepšete zpracování lékařských snímků pomocí tohoto podrobného návodu.
 ### [Jednoduchá změna velikosti DICOM v Aspose.Imaging pro .NET](./dicom-simple-resizing/)
-Naučte se měnit velikost obrázků DICOM pomocí Aspose.Imaging for .NET, mocného nástroje pro zpracování lékařských obrázků. Jednoduché kroky pro přesné výsledky.
-### [Další možnosti změny velikosti obrázku DICOM v Aspose.Imaging pro .NET](./dicoms-other-image-resizing-options/)
-Naučte se měnit velikost obrázků DICOM pomocí Aspose.Imaging for .NET. Podrobný průvodce pro efektivní manipulaci s lékařskými snímky.
-### [Převeďte DICOM na PNG v Aspose.Imaging pro .NET](./convert-dicom-to-png/)
-Převeďte DICOM na PNG bez námahy pomocí Aspose.Imaging pro .NET. Zjednodušte sdílení lékařských snímků.
-### [Dithering pro DICOM Image v Aspose.Imaging pro .NET](./dithering-for-dicom-image/)
-Naučte se, jak provádět prahové dithering na obrazech DICOM pomocí Aspose.Imaging for .NET. Vylepšete kvalitu obrazu a snižte barevné palety bez námahy.
+Naučte se, jak změnit velikost obrázků DICOM pomocí Aspose.Imaging pro .NET, výkonného nástroje pro zpracování lékařských obrazů. Jednoduché kroky pro přesné výsledky.
+### [Další možnosti změny velikosti obrázků v Aspose.Imaging pro .NET v DICOMu](./dicoms-other-image-resizing-options/)
+Naučte se, jak změnit velikost obrázků DICOM pomocí Aspose.Imaging pro .NET. Podrobný návod pro efektivní manipulaci s lékařskými snímky.
+### [Převod DICOM do PNG v Aspose.Imaging pro .NET](./convert-dicom-to-png/)
+Převádějte DICOM do PNG bez námahy s Aspose.Imaging pro .NET. Zjednodušte sdílení lékařských snímků.
+### [Dithering pro DICOM obraz v Aspose.Imaging pro .NET](./dithering-for-dicom-image/)
+Naučte se, jak provádět prahové dithering na DICOM obrázcích pomocí Aspose.Imaging pro .NET. Bez námahy vylepšete kvalitu obrazu a snižte počet barevných palet.
 ### [Export do DICOM v Aspose.Imaging pro .NET](./export-to-dicom/)
-Naučte se exportovat obrázky do formátu DICOM v .NET pomocí Aspose.Imaging. Převádějte lékařské snímky bez námahy.
+Naučte se, jak exportovat obrázky do formátu DICOM v .NET pomocí Aspose.Imaging. Převádějte lékařské snímky bez námahy.
 ### [Stupně šedi na DICOM v Aspose.Imaging pro .NET](./grayscale-on-dicom/)
-Naučte se, jak provádět odstíny šedi na obrázcích DICOM pomocí Aspose.Imaging for .NET, výkonné knihovny pro zpracování obrázků.
+Naučte se, jak provádět úpravu stupňů šedi na obrázcích DICOM pomocí Aspose.Imaging pro .NET, výkonné knihovny pro zpracování obrazu.
 ### [Podpora ukládání XMP tagů v Aspose.Imaging pro .NET](./support-storing-xmp-tags/)
-Naučte se přidávat metadata XMP do obrázků DICOM pomocí Aspose.Imaging for .NET. Optimalizujte správu a organizaci obrázků pomocí tohoto podrobného průvodce.
+Naučte se, jak přidat metadata XMP k obrázkům DICOM pomocí Aspose.Imaging pro .NET. Optimalizujte správu a organizaci obrázků pomocí tohoto podrobného návodu.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

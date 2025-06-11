@@ -1,31 +1,33 @@
 ---
-title: Zpracování dat XMP v obrázcích pomocí Aspose.Imaging pro Java
-linktitle: Zpracování dat XMP v obrázcích
-second_title: Aspose.Imaging Java Image Processing API
-description: Naučte se zacházet s metadaty XMP v obrázcích pomocí Aspose.Imaging for Java. Vkládáním a načítáním metadat můžete vylepšit své soubory obrázků.
-weight: 16
-url: /cs/java/document-conversion-and-processing/xmp-data-handling-in-images/
+"description": "Naučte se, jak pracovat s metadaty XMP v obrázcích pomocí Aspose.Imaging pro Javu. Vkládejte a načítejte metadata pro vylepšení obrazových souborů."
+"linktitle": "Zpracování dat XMP v obrazech"
+"second_title": "API pro zpracování obrazu v Javě Aspose.Imaging"
+"title": "Zpracování dat XMP v obrazech pomocí Aspose.Imaging pro Javu"
+"url": "/cs/java/document-conversion-and-processing/xmp-data-handling-in-images/"
+"weight": 16
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Zpracování dat XMP v obrázcích pomocí Aspose.Imaging pro Java
+# Zpracování dat XMP v obrazech pomocí Aspose.Imaging pro Javu
 
-Aspose.Imaging for Java je všestranná a výkonná knihovna pro práci s obrázky v různých formátech. Tento tutoriál vás provede procesem zpracování dat XMP (Extensible Metadata Platform) v obrázcích pomocí Aspose.Imaging for Java. XMP je standard pro vkládání metadat do obrazových souborů, což vám umožňuje ukládat cenné informace, jako je autor, popis a další.
+Aspose.Imaging pro Javu je všestranná a výkonná knihovna pro práci s obrázky v různých formátech. Tento tutoriál vás provede procesem zpracování dat XMP (Extensible Metadata Platform) v obrázcích pomocí knihovny Aspose.Imaging pro Javu. XMP je standard pro vkládání metadat do obrazových souborů, který umožňuje ukládat cenné informace, jako je autor, popis a další.
 
 ## Předpoklady
 
 Než začnete, ujistěte se, že máte splněny následující předpoklady:
 
 - Vývojové prostředí Java nastavené na vašem počítači.
--  Nainstalovaná knihovna Aspose.Imaging for Java. Můžete si jej stáhnout z[Aspose.Imaging pro webové stránky Java](https://releases.aspose.com/imaging/java/).
+- Je nainstalována knihovna Aspose.Imaging pro Javu. Můžete si ji stáhnout z [Web Aspose.Imaging pro Javu](https://releases.aspose.com/imaging/java/).
 - Základní znalost programování v Javě.
 
 ## Import balíčků
 
-Začněte importováním potřebných balíčků do vašeho projektu Java. Na začátek kódu můžete přidat následující příkazy pro import:
+Začněte importem potřebných balíčků do vašeho projektu Java. Na začátek kódu můžete přidat následující příkazy importu:
 
 ```java
 import com.aspose.imaging.Image;
@@ -43,11 +45,11 @@ import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 ```
 
-Nyní rozeberme příklad do podrobného průvodce:
+Nyní si tento příklad rozdělme do podrobného návodu:
 
-## Krok 1: Zadejte možnosti Velikost obrázku a Tiff
+## Krok 1: Zadejte velikost obrázku a možnosti formátu TIFF
 
-Nejprve definujte adresář, kde bude váš obrázek uložen, a vytvořte obdélník pro určení velikosti obrázku. V tomto příkladu používáme obrázek Tiff s určitými možnostmi.
+Nejprve definujte adresář, kam bude váš obrázek uložen, a vytvořte obdélník, který určí velikost obrázku. V tomto příkladu používáme obrázek Tiff s určitými možnostmi.
 
 ```java
 String dataDir = "Your Document Directory" + "ConvertingImages/";
@@ -59,15 +61,15 @@ tiffOptions.setBitsPerSample(new int[] { 8 });
 
 ## Krok 2: Vytvořte nový obrázek
 
-Nyní vytvořte nový obrázek se zadanými možnostmi. Tento obrázek bude použit k uložení metadat XMP.
+Nyní vytvořte nový obraz se zadanými možnostmi. Tento obraz bude použit k uložení metadat XMP.
 
 ```java
 try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(), rect.getHeight()))) {
 ```
 
-## Krok 3: Vytvořte XMP záhlaví a upoutávku
+## Krok 3: Vytvořte hlavičku a upoutávku XMP
 
-Vytvořte instance XMP-Header a XMP-Trailer pro vaše metadata XMP. Tato záhlaví a upoutávky pomáhají definovat strukturu metadat.
+Vytvořte instance XMP-Header a XMP-Trailer pro vaše metadata XMP. Tyto hlavičky a trailery pomáhají definovat strukturu metadat.
 
 ```java
     XmpHeaderPi xmpHeader = new XmpHeaderPi();
@@ -76,7 +78,7 @@ Vytvořte instance XMP-Header a XMP-Trailer pro vaše metadata XMP. Tato záhlav
     XmpTrailerPi xmpTrailer = new XmpTrailerPi(true);
 ```
 
-## Krok 4: Vytvořte metainformace XMP
+## Krok 4: Vytvoření meta informací XMP
 
 Nyní vytvořte instanci XMP meta pro nastavení různých atributů. Můžete přidat informace, jako je autor a popis.
 
@@ -86,17 +88,17 @@ Nyní vytvořte instanci XMP meta pro nastavení různých atributů. Můžete p
     xmpMeta.addAttribute("Description", "The fake metadata value");
 ```
 
-## Krok 5: Vytvořte XMP Packet Wrapper
+## Krok 5: Vytvoření obalovacího modulu XMP paketů
 
-Vytvořte instanci XmpPacketWrapper, která obsahuje záhlaví XMP, upoutávku a metainformace.
+Vytvořte instanci třídy XmpPacketWrapper, která obsahuje hlavičku, upoutávku a meta informace XMP.
 
 ```java
     XmpPacketWrapper xmpData = new XmpPacketWrapper(xmpHeader, xmpTrailer, xmpMeta);
 ```
 
-## Krok 6: Přidejte balíček Photoshopu
+## Krok 6: Přidání balíčku Photoshopu
 
-Chcete-li uložit informace specifické pro Photoshop, vytvořte balíček Photoshopu a nastavte jeho atributy, jako je město, země a barevný režim. Poté přidejte tento balíček do metadat XMP.
+Chcete-li ukládat informace specifické pro Photoshop, vytvořte balíček Photoshopu a nastavte jeho atributy, jako je město, země a barevný režim. Poté tento balíček přidejte do metadat XMP.
 
 ```java
     PhotoshopPackage photoshopPackage = new PhotoshopPackage();
@@ -106,9 +108,9 @@ Chcete-li uložit informace specifické pro Photoshop, vytvořte balíček Photo
     xmpData.addPackage(photoshopPackage);
 ```
 
-## Krok 7: Přidejte balíček Dublin Core
+## Krok 7: Přidání balíčku Dublin Core
 
-Pro obecnější informace, jako je autor, název a další hodnoty, vytvořte balíček DublinCore a nastavte jeho atributy. Přidejte tento balíček také do metadat XMP.
+Pro obecnější informace, jako je autor, název a další hodnoty, vytvořte balíček DublinCore a nastavte jeho atributy. Tento balíček také přidejte do metadat XMP.
 
 ```java
     DublinCorePackage dublinCorePackage = new DublinCorePackage();
@@ -118,64 +120,64 @@ Pro obecnější informace, jako je autor, název a další hodnoty, vytvořte b
     xmpData.addPackage(dublinCorePackage);
 ```
 
-## Krok 8: Aktualizujte metadata XMP v obrázku
+## Krok 8: Aktualizace metadat XMP v obrazu
 
- Aktualizujte metadata XMP do obrázku pomocí`setXmpData` metoda.
+Aktualizujte metadata XMP do obrazu pomocí `setXmpData` metoda.
 
 ```java
     ByteArrayOutputStream ms = new ByteArrayOutputStream();
     image.setXmpData(xmpData);
 ```
 
-## Krok 9: Uložte obrázek
+## Krok 9: Uložení obrázku
 
-Nyní můžete uložit obrázek s vloženými metadaty XMP na disk nebo do paměťového toku.
+Nyní můžete uložit obraz s vloženými metadaty XMP na disk nebo do paměťového streamu.
 
 ```java
     image.save(ms);
 ```
 
-## Krok 10: Načtěte obrázek a načtěte metadata XMP
+## Krok 10: Načtení obrazu a načtení metadat XMP
 
-Chcete-li získat metadata XMP z obrázku, načtěte obrázek z paměťového toku nebo disku a získejte přístup k datům XMP.
+Chcete-li načíst metadata XMP z obrazu, načtěte obraz z paměťového proudu nebo disku a zpřístupněte data XMP.
 
 ```java
     try (TiffImage img = (TiffImage) Image.load(new ByteArrayInputStream(ms.toByteArray()))) {
         XmpPacketWrapper imgXmpData = img.getXmpData();
         for (XmpPackage pack : imgXmpData.getPackages()) {
-            // Použít data balíčku...
+            // Použít data balíčku ...
         }
     }
 }
 ```
 
-Gratulujeme! Úspěšně jste se naučili, jak zacházet s daty XMP v obrázcích pomocí Aspose.Imaging for Java. To vám umožňuje ukládat a získávat cenná metadata v rámci vašich obrazových souborů.
+Gratulujeme! Úspěšně jste se naučili, jak zpracovávat XMP data v obrázcích pomocí Aspose.Imaging pro Javu. To vám umožní ukládat a načítat cenná metadata v obrazových souborech.
 
 ## Závěr
 
-V tomto tutoriálu jsme prozkoumali, jak pracovat s metadaty XMP v obrázcích pomocí Aspose.Imaging for Java. Podle tohoto podrobného průvodce můžete snadno vkládat a načítat metadata do svých obrazových souborů, čímž se zvýší jejich informace a použitelnost.
+V tomto tutoriálu jsme prozkoumali, jak pracovat s metadaty XMP v obrázcích pomocí Aspose.Imaging pro Javu. Podle podrobného návodu můžete snadno vkládat a načítat metadata v obrazových souborech, čímž vylepšíte jejich informační obsah a použitelnost.
 
-## FAQ
+## Často kladené otázky
 
 ### Q1: Co jsou metadata XMP?
 
-A1: XMP (Extensible Metadata Platform) je standard pro vkládání metadat do různých typů souborů, včetně obrázků. Umožňuje vám ukládat informace, jako je autor, název, popis a další, v rámci samotného souboru.
+A1: XMP (Extensible Metadata Platform) je standard pro vkládání metadat do různých typů souborů, včetně obrázků. Umožňuje ukládat informace, jako je autor, název, popis a další, přímo do souboru.
 
-### Q2: Proč jsou metadata XMP důležitá?
+### Otázka 2: Proč jsou metadata XMP důležitá?
 
-Odpověď 2: Metadata XMP jsou nezbytná pro organizaci a kategorizaci digitálních aktiv. Pomáhá při přiřazování vlastnictví, popisu obsahu a přidávání kontextu k souborům, jako jsou obrázky, díky čemuž jsou přístupnější a smysluplnější.
+A2: Metadata XMP jsou nezbytná pro organizaci a kategorizaci digitálních aktiv. Pomáhají s přiřazováním vlastnictví, popisem obsahu a přidáváním kontextu k souborům, jako jsou obrázky, čímž je činí přístupnějšími a smysluplnějšími.
 
-### Otázka 3: Mohu upravit metadata XMP po jejich vložení do obrázku?
+### Q3: Mohu upravovat metadata XMP po jejich vložení do obrázku?
 
-Odpověď 3: Ano, metadata XMP můžete upravit po jejich vložení do obrázku. Aspose.Imaging for Java poskytuje nástroje pro úpravu a aktualizaci atributů metadat podle potřeby.
+A3: Ano, metadata XMP můžete upravovat po vložení do obrázku. Aspose.Imaging pro Javu poskytuje nástroje pro úpravu a aktualizaci atributů metadat podle potřeby.
 
-### Q4: Je Aspose.Imaging for Java bezplatný nástroj?
+### Q4: Je Aspose.Imaging pro Javu bezplatný nástroj?
 
- A4: Aspose.Imaging for Java nabízí bezplatnou zkušební verzi, ale pro plnou funkčnost a rozšířené použití je vyžadována placená licence. Možnosti můžete prozkoumat na[Aspose.Imaging pro webové stránky Java](https://purchase.aspose.com/buy).
+A4: Aspose.Imaging pro Javu nabízí bezplatnou zkušební verzi, ale pro plnou funkčnost a rozšířené používání je vyžadována placená licence. Možnosti si můžete prohlédnout na [Web Aspose.Imaging pro Javu](https://purchase.aspose.com/buy).
 
-### Q5: Kde mohu získat pomoc a podporu pro Aspose.Imaging pro Java?
+### Q5: Kde mohu získat pomoc a podporu pro Aspose.Imaging pro Javu?
 
- A5: Pokud narazíte na nějaké problémy nebo máte dotazy týkající se Aspose.Imaging pro Java, můžete navštívit stránku[Aspose.Imaging fóra](https://forum.aspose.com/) za podporu a vedení komunity.
+A5: Pokud narazíte na jakékoli problémy nebo máte otázky týkající se Aspose.Imaging pro Javu, můžete navštívit [Fóra Aspose.Imaging](https://forum.aspose.com/) pro podporu a vedení komunity.
 
 
 
@@ -188,7 +190,7 @@ Rectangle rect = new Rectangle(0, 0, 100, 200);
 TiffOptions tiffOptions = new TiffOptions(TiffExpectedFormat.TiffJpegRgb);
 tiffOptions.setPhotometric(TiffPhotometrics.MinIsBlack);
 tiffOptions.setBitsPerSample(new int[] { 8 });
-// vytvořit zbrusu nový obrázek pouze pro účely vzorku
+// vytvořte zcela nový obrázek pouze pro vzorové účely
 try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(), rect.getHeight())))
 {
 	// vytvořit instanci XMP-Header
@@ -196,20 +198,20 @@ try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(),
 	xmpHeader.setGuid(dataDir);
 	// vytvořit instanci Xmp-TrailerPi
 	XmpTrailerPi xmpTrailer = new XmpTrailerPi(true);
-	// vytvořte instanci meta třídy XMP pro nastavení různých atributů
+	// vytvořit instanci metatřídy XMP pro nastavení různých atributů
 	XmpMeta xmpMeta = new XmpMeta();
 	xmpMeta.addAttribute("Author", "Mr Smith");
 	xmpMeta.addAttribute("Description", "The fake metadata value");
-	//vytvořte instanci XmpPacketWrapper, která obsahuje všechna metadata
+	// vytvořit instanci XmpPacketWrapper, která obsahuje všechna metadata
 	XmpPacketWrapper xmpData = new XmpPacketWrapper(xmpHeader, xmpTrailer, xmpMeta);
-	// vytvořte instanci balíku Photoshop a nastavte atributy Photoshopu
+	// vytvořit instanci balíčku Photoshop a nastavit atributy Photoshopu
 	PhotoshopPackage photoshopPackage = new PhotoshopPackage();
 	photoshopPackage.setCity("London");
 	photoshopPackage.setCountry("England");
 	photoshopPackage.setColorMode(ColorMode.Rgb);
-	// přidat balíček photoshop do metadat XMP
+	// přidat balíček Photoshopu do metadat XMP
 	xmpData.addPackage(photoshopPackage);
-	// vytvořte instanci balíčku DublinCore a nastavte atributy dublinCore
+	// vytvořit instanci balíčku DublinCore a nastavit atributy dublinCore
 	DublinCorePackage dublinCorePackage = new DublinCorePackage();
 	dublinCorePackage.setAuthor("Charles Bukowski");
 	dublinCorePackage.setTitle("Confessions of a Man Insane Enough to Live With the Beasts");
@@ -217,26 +219,28 @@ try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(),
 	// přidat balíček dublinCore do metadat XMP
 	xmpData.addPackage(dublinCorePackage);
 	ByteArrayOutputStream ms = new ByteArrayOutputStream();
-	// aktualizovat metadata XMP na obrázek
+	// aktualizovat metadata XMP do obrazu
 	image.setXmpData(xmpData);
-	// Uložit obrázek na disk nebo do paměti
+	// Uložení obrazu na disk nebo do paměťového proudu
 	image.save(ms);
-	// Chcete-li číst/získat metadata, načtěte obrázek z paměti nebo z disku
+	// Načtěte obraz z paměťového proudu nebo z disku pro čtení/získání metadat.
 	try (TiffImage img = (TiffImage) Image.load(new ByteArrayInputStream(ms.toByteArray())))
 	{
 		// Získání metadat XMP
 		XmpPacketWrapper imgXmpData = img.getXmpData();
 		for (XmpPackage pack : imgXmpData.getPackages())
 		{
-			// Použít data balíčku...
+			// Použít data balíčku ...
 		}
 	}
 }
         
 ```
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

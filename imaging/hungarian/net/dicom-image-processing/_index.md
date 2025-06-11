@@ -1,122 +1,126 @@
 ---
-title: DICOM képfeldolgozás az Aspose.Imaging segítségével .NET-hez
-linktitle: DICOM képfeldolgozás
-second_title: Aspose.Imaging .NET Image Processing API
-description: Fedezze fel a DICOM-képfeldolgozás átfogó oktatóanyag-sorozatát az Aspose.Imaging for .NET használatával. Tanulja meg az orvosi képeket könnyedén javítani.
-weight: 28
-url: /hu/net/dicom-image-processing/
+"description": "Fedezzen fel egy átfogó oktatóanyag-sorozatot a DICOM képfeldolgozásról az Aspose.Imaging for .NET használatával. Tanulja meg, hogyan javíthatja könnyedén az orvosi képeket."
+"linktitle": "DICOM képfeldolgozás"
+"second_title": "Aspose.Imaging .NET képfeldolgozó API"
+"title": "DICOM képfeldolgozás az Aspose.Imaging for .NET segítségével"
+"url": "/hu/net/dicom-image-processing/"
+"weight": 28
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# DICOM képfeldolgozás az Aspose.Imaging segítségével .NET-hez
+# DICOM képfeldolgozás az Aspose.Imaging for .NET segítségével
 
 
-Szeretné elsajátítani a DICOM képfeldolgozás művészetét az Aspose.Imaging for .NET segítségével? Ne keressen tovább! Ebben az oktatóanyag-sorozatban végigvezetjük Önt az orvosi képek egyszerű javításához és kezeléséhez szükséges különféle technikákon. Legyen szó egészségügyi szakemberről, fejlesztőről vagy csak kíváncsi tanulóról, ezek az oktatóanyagok felvértezik azokat a tudást és készségeket, amelyek segítségével a legtöbbet hozhatja ki az Aspose.Imaging for .NET-ből.
+Alig várod, hogy elsajátítsd a DICOM képfeldolgozás művészetét az Aspose.Imaging for .NET segítségével? Ne keress tovább! Ebben az oktatóanyag-sorozatban végigvezetünk a különféle technikákon, amelyekkel könnyedén javíthatod és manipulálhatod az orvosi képeket. Akár orvos, fejlesztő vagy csak kíváncsi tanuló vagy, ezek az oktatóanyagok felvértezik azzal a tudással és készségekkel, hogy a legtöbbet hozhasd ki az Aspose.Imaging for .NET-ből.
 
-## A DICOM-képek fényerejének beállítása
+## DICOM képek fényerejének beállítása
 
-Az orvostudományban a DICOM-képek megfelelő fényerőszintje kulcsfontosságú a pontos diagnózishoz. Lépésről lépésre szóló útmutatónkból megtudhatja, hogyan állíthatja be a fényerőt az Aspose.Imaging for .NET használatával. Fokozatmentesen fokozza az orvosi képek kritikus részleteinek láthatóságát.
+Az orvosi területen a DICOM képek megfelelő fényerőszintje kulcsfontosságú a pontos diagnózishoz. Lépésről lépésre útmutatónkkal megtanulhatja, hogyan állíthatja be a fényerőt az Aspose.Imaging for .NET segítségével. Könnyedén javíthatja az orvosi képeken a kritikus részletek láthatóságát.
 
-## Növelje a képkontrasztot a DICOM-képekben
+## DICOM képek kontrasztjának javítása
 
-A kontraszt elengedhetetlen az orvosi képek árnyalatainak kiemeléséhez. Fedezze fel, hogyan állíthatja be a kontrasztot a DICOM-képekben az Aspose.Imaging for .NET segítségével. Ez az oktatóanyag könnyen követhető lépéseket tartalmaz az optimális kontraszt eléréséhez és a képminőség javításához.
+A kontraszt elengedhetetlen az orvosi képek árnyalatainak kiemeléséhez. Fedezze fel, hogyan állítható be a kontraszt a DICOM képeken az Aspose.Imaging for .NET segítségével. Ez az oktatóanyag könnyen követhető lépéseket kínál az optimális kontraszt eléréséhez és a képminőség javításához.
 
-## A Gamma finomhangolása a DICOM Images-ben
+## Gamma finomhangolása DICOM képekben
 
-A gamma-korrekció jelentősen befolyásolhatja a DICOM-képek minőségét. Ismerje meg, hogyan állíthatja be a gammát az orvosi képekben az Aspose.Imaging for .NET segítségével. Végigvezetjük a folyamaton, hogy elérje a tökéletes gamma-beállításokat az Ön egyedi igényeinek megfelelően.
+A gammakorrekció jelentősen befolyásolhatja a DICOM képek minőségét. Ismerje meg, hogyan állíthatja be a gammaértéket orvosi képein az Aspose.Imaging for .NET segítségével. Végigvezetjük Önt a folyamaton, hogy elérje az Ön igényeinek tökéletesen megfelelő gammabeállításokat.
 
-## Szűrők alkalmazása DICOM-képekre
+## Szűrők alkalmazása DICOM képekre
 
-szűrők nélkülözhetetlen eszközök lehetnek az orvosi képfeldolgozásban. Fedezze fel, hogyan alkalmazhat különféle szűrőket a DICOM-képekre az Aspose.Imaging for .NET segítségével. Javítsa a kép részleteit, távolítsa el a zajt, és javítsa az orvosi képek diagnosztikai minőségét.
+szűrők nélkülözhetetlen eszközök lehetnek az orvosi képfeldolgozásban. Fedezze fel, hogyan alkalmazhatók különféle szűrők DICOM képekre az Aspose.Imaging for .NET segítségével. Javítsa a kép részleteit, távolítsa el a zajt és javítsa az orvosi képek diagnosztikai minőségét.
 
-## Könnyű binarizálás Bradley adaptív küszöbével
+## Könnyed binarizáció Bradley adaptív küszöbértékével
 
-A binarizálás leegyszerűsíti az orvosi képek szegmentálását. Az Aspose.Imaging for .NET Bradley adaptív küszöbéről szóló oktatóanyagunk lépésről lépésre végigvezeti a folyamaton. Pontos binarizálást érhet el a jobb képelemzés érdekében.
+A binarizáció leegyszerűsíti az orvosi képek szegmentálását. A Bradley adaptív küszöbértékéről szóló oktatóanyagunk az Aspose.Imaging for .NET programban lépésről lépésre végigvezeti Önt a folyamaton. Érjen el precíz binarizációt a jobb képelemzés érdekében.
 
-## Lépésről lépésre binarizálás fix küszöbértékkel
+## Lépésről lépésre történő binarizálás fix küszöbértékkel
 
-Rögzített küszöbértékkel szeretne binarizálást végezni a DICOM-képekben? Ez a kódpéldákat tartalmazó oktatóanyag egyszerűvé teszi az Aspose.Imaging for ..NET használatát. Ezzel az egyszerű útmutatóval javíthatja az orvosi képek értelmezhetőségét.
+Szeretne fix küszöbértékű binarizálást végezni DICOM képeken? Ez a kódpéldákat tartalmazó oktatóanyag gyerekjátékká teszi az Aspose.Imaging for ..NET használatát. Javítsa az orvosi képek értelmezhetőségét ezzel az egyszerű útmutatóval.
 
-## Az Otsu Threshold használata a binarizáláshoz
+## Az Otsu-küszöb használata a binarizációhoz
 
-Az Otsu Thresholding egy hatékony technika a kép binarizálására. Ismerje meg, hogyan alkalmazhatja az Otsu Threshold funkciót DICOM-képeire az Aspose.Imaging for .NET segítségével. Könnyedén javíthatja az orvosi képfeldolgozás minőségét és pontosságát.
+Az Otsu Thresholding egy hatékony technika a képek binarizálásához. Tanulja meg, hogyan alkalmazza az Otsu Threshold-ot DICOM képeire az Aspose.Imaging for .NET segítségével. Növelje az orvosi képfeldolgozás minőségét és pontosságát erőfeszítés nélkül.
 
 ## Hatékony DICOM tömörítés
 
-Hatékonyan tárolja és továbbítsa az orvosi képeket kiváló diagnosztikai minőségben az Aspose.Imaging for .NET DICOM-tömörítésével. Lépésről lépésre mutató útmutatónk biztosítja, hogy nagy mennyiségű orvosi adatot hatékonyan kezelhessen.
+Hatékonyan tárolja és továbbítsa az orvosi képeket kiváló diagnosztikai minőségben az Aspose.Imaging for .NET DICOM tömörítésének elsajátításával. Lépésről lépésre útmutatónk biztosítja, hogy hatékonyan kezelhesse a nagy mennyiségű orvosi adatot.
 
-## Precíz DICOM vágás váltással
+## Precíz DICOM vágás eltolással
 
-Ki kell vágnia a DICOM-képeket egy adott érdeklődési területhez? Az Aspose.Imaging for .NET megkönnyíti. Ez az oktatóanyag végigvezeti Önt a folyamaton, javítva orvosi képfeldolgozási képességeit.
+DICOM képeket kell vágnia egy adott érdeklődési területhez? Az Aspose.Imaging for .NET egyszerűvé teszi ezt. Ez az oktatóanyag végigvezeti Önt a folyamaton, és javítja orvosi képfeldolgozási képességeit.
 
-## Egyszerű átméretezés a DICOM-képekhez
+## DICOM képek egyszerű átméretezése
 
-Fedezze fel, hogyan méretezheti át könnyedén a DICOM-képeket az Aspose.Imaging for .NET segítségével. Legyen szó nagyításról vagy méretcsökkentésről, ezzel a hatékony eszközzel precíz eredményeket érhet el.
+Fedezze fel, hogyan méretezheti át könnyedén a DICOM képeket az Aspose.Imaging for .NET segítségével. Akár a képméretek nagyításáról, akár kicsinyítéséről van szó, ezzel a hatékony eszközzel pontos eredményeket érhet el.
 
 ## DICOM egyéb képátméretezési lehetőségeinek felfedezése
 
-Merüljön el mélyebben a képméretezésben az Aspose.Imaging for .NET segítségével. Ez az útmutató a hatékony orvosi képkezelés különféle átméretezési technikáit ismerteti. Válassza ki az igényeinek leginkább megfelelő módszert, és sajátítsa el az átméretezés művészetét.
+Merüljön el mélyebben a képátméretezésben az Aspose.Imaging for .NET segítségével. Ez az útmutató a hatékony orvosi képmanipulációhoz szükséges különféle átméretezési technikákat ismerteti. Válassza ki az igényeinek leginkább megfelelő módszert, és sajátítsa el az átméretezés művészetét.
 
-## A DICOM konvertálása PNG formátumba
+## DICOM konvertálása PNG formátumba
 
-Egyszerűsítse az orvosi képmegosztást a DICOM-képek egyszerű konvertálásával PNG-formátumba az Aspose.Imaging for .NET segítségével. Ez az oktatóanyag azt a know-how-t nyújtja, amellyel orvosi képeit különböző platformokon elérhetővé teheti.
+Egyszerűsítse az orvosi képek megosztását a DICOM képek PNG formátumba konvertálásával az Aspose.Imaging for .NET segítségével. Ez az oktatóanyag bemutatja, hogyan teheti orvosi képeit különböző platformokon is hozzáférhetővé.
 
-## Küszöb dithering a DICOM-képekhez
+## Küszöbérték-dithering DICOM képekhez
 
-Fedezze fel a küszöbérték dithering technikáját a DICOM-képekben az Aspose.Imaging for .NET használatával. A pontosabb orvosi képelemzés érdekében könnyedén javíthatja a képminőséget és csökkentheti a színpalettákat.
+Fedezze fel a küszöbérték-dithering technikáját DICOM képeken az Aspose.Imaging for .NET segítségével. Javítsa a képminőséget és csökkentse a színpalettákat könnyedén a pontosabb orvosi képelemzés érdekében.
 
 ## Képek exportálása DICOM formátumba
 
-Ismerje meg, hogyan exportálhat képeket DICOM formátumba .NET-ben az Aspose.Imaging segítségével. Ez az alapvető készség biztosítja a kompatibilitást és a szabványosítást az orvosi képalkotó iparban.
+Tanulja meg, hogyan exportálhat képeket DICOM formátumba .NET-ben az Aspose.Imaging használatával. Ez az alapvető készség biztosítja a kompatibilitást és a szabványosítást az orvosi képalkotó iparágban.
 
-## Szürkeárnyalatos DICOM-képekhez
+## Szürkeárnyalatos DICOM képekhez
 
-A szürkeárnyalatos képek értelmezése kényelmesebb lehet. Fedezze fel, hogyan hajthat végre szürkeárnyalatos DICOM-képeket az Aspose.Imaging for .NET segítségével. Növelje a kép tisztaságát és egyszerűsítse a diagnózist.
+A szürkeárnyalatos képek értelmezése kényelmesebb. Fedezze fel, hogyan végezhet szürkeárnyalatos skálázást DICOM képeken az Aspose.Imaging for .NET segítségével. Növelje a képek tisztaságát és egyszerűsítse a diagnózist.
 
-## XMP-címkék tárolása DICOM-képekben
+## XMP címkék tárolása DICOM képekben
 
-Optimalizálja a képkezelést és -szervezést XMP-metaadatok hozzáadásával a DICOM-képekhez az Aspose.Imaging for .NET segítségével. Ez az oktatóanyag lépésről lépésre nyújt útmutatót az orvosi képanyag egyszerűsítéséhez.
+Optimalizálja a képkezelést és -rendszerezést XMP metaadatok hozzáadásával a DICOM képekhez az Aspose.Imaging for .NET használatával. Ez az oktatóanyag lépésről lépésre bemutatja az orvosi képi eszközök egyszerűsítését.
 
-Illessze be az Aspose.Imaging for .NET-et az orvosi képfeldolgozó eszköztárába, és aknázza ki a DICOM képkezelésben rejlő lehetőségeket. Ezek az oktatóanyagok lehetővé teszik, hogy a legtöbbet hozza ki ebből a sokoldalú szoftverből, akár egészségügyi szakember, akár fejlesztő. Kezdje el orvosi képeinek javítását még ma!
+Építse be az Aspose.Imaging for .NET-et orvosi képfeldolgozó eszköztárába, és aknázza ki a DICOM képmanipuláció teljes potenciálját. Ezek az oktatóanyagok segítenek abban, hogy a legtöbbet hozza ki ebből a sokoldalú szoftverből, akár orvos, akár fejlesztő. Kezdje el orvosi képeinek javítását még ma!
 ## DICOM képfeldolgozási oktatóanyagok
-### [Állítsa be a DICOM kép fényerejét az Aspose.Imaging for .NET programban](./adjust-brightness-of-dicom-image/)
-Ismerje meg, hogyan állíthatja be a DICOM-kép fényerejét az Aspose.Imaging for .NET alkalmazásban. Egyszerűen javíthatja az orvosi képeket.
-### [Állítsa be a DICOM-kép kontrasztját az Aspose.Imaging for .NET-ben](./adjust-contrast-of-dicom-image/)
-Javítsa az orvosi képeket az Aspose.Imaging for .NET segítségével. Állítsa be a DICOM képkontrasztot egyszerű lépésekkel.
-### [Állítsa be a DICOM-kép gammáját az Aspose.Imaging for .NET-ben](./adjust-gamma-of-dicom-image/)
-Ismerje meg, hogyan állíthatja be a DICOM-képek gammáját az Aspose.Imaging for .NET segítségével. Növelje az orvosi képminőséget egyszerű lépésekkel.
-### [Alkalmazzon szűrőt a DICOM képre az Aspose.Imaging for .NET-ben](./apply-filter-on-dicom-image/)
-Ismerje meg, hogyan alkalmazhat szűrőket a DICOM-képekre az Aspose.Imaging for .NET segítségével. Fokozza az orvosi képfeldolgozást könnyedén.
-### [Binarizálás Bradley adaptív küszöbértékével a DICOM-képen az Aspose.Imaging for .NET-ben](./binarization-with-bradleys-adaptive-threshold-on-dicom-image/)
-Tanulja meg a Bradley Adaptive Threshold alkalmazását a DICOM-képekre az Aspose.Imaging for .NET segítségével. A binarizálás egyszerűvé válik a lépésről lépésre bemutatott útmutatóval.
-### [Binarizálás fix küszöbértékkel a DICOM-képen az Aspose.Imaging for .NET-ben](./binarization-with-fixed-threshold-on-dicom-image/)
-Ismerje meg, hogyan hajthat végre binarizálást egy DICOM-képen az Aspose.Imaging for .NET segítségével. Útmutató lépésről lépésre kódpéldákkal.
-### [Binarizálás Otsu küszöbértékkel a DICOM képen az Aspose.Imaging for .NET-ben](./binarization-with-otsu-threshold-on-dicom-image/)
-Fokozza orvosi képfeldolgozását az Aspose.Imaging for .NET segítségével. Ismerje meg, hogyan hajthat végre DICOM-képbinarizálást az Otsu Thresholding használatával.
-### [DICOM-tömörítés az Aspose.Imaging-ben .NET-hez](./dicom-compression/)
-Ismerje meg, hogyan hajthat végre DICOM-tömörítést az Aspose.Imaging for .NET használatával. Kövesse ezt a lépésenkénti útmutatót, hogy hatékonyan tárolja és továbbítsa az orvosi képeket, kiváló diagnosztikai minőségben.
-### [DICOM Cropping Shifts in Aspose.Imaging for .NET](./dicom-cropping-by-shifts/)
-Ismerje meg, hogyan vághat le DICOM-képeket az Aspose.Imaging for .NET segítségével. Fokozza az orvosi képfeldolgozást ezzel a lépésenkénti útmutatóval.
-### [DICOM egyszerű átméretezés az Aspose.Imaging for .NET-ben](./dicom-simple-resizing/)
-Ismerje meg, hogyan méretezheti át a DICOM-képeket az Aspose.Imaging for .NET segítségével, amely egy hatékony eszköz az orvosi képfeldolgozáshoz. Egyszerű lépések a pontos eredményért.
-### [A DICOM egyéb képátméretezési lehetőségei az Aspose.Imaging for .NET-ben](./dicoms-other-image-resizing-options/)
-Ismerje meg, hogyan méretezheti át a DICOM-képeket az Aspose.Imaging for .NET használatával. Lépésről lépésre szóló útmutató a hatékony orvosi képkezeléshez.
-### [A DICOM konvertálása PNG-re az Aspose.Imaging for .NET-ben](./convert-dicom-to-png/)
-Könnyedén konvertálja a DICOM-ot PNG-re az Aspose.Imaging for .NET segítségével. Egyszerűsítse az orvosi képmegosztást.
-### [Dithering for DICOM Image in Aspose.Imaging for .NET](./dithering-for-dicom-image/)
-Ismerje meg, hogyan hajthat végre küszöbérték ditheringet a DICOM-képeken az Aspose.Imaging for .NET segítségével. Javítsa a képminőséget és csökkentse a színpalettákat könnyedén.
-### [Exportálás DICOM-ba az Aspose.Imaging for .NET-ben](./export-to-dicom/)
-Ismerje meg, hogyan exportálhat képeket DICOM formátumba .NET-ben az Aspose.Imaging segítségével. Konvertálja az orvosi képeket könnyedén.
-### [Szürkeárnyalatos a DICOM-on az Aspose.Imaging for .NET-ben](./grayscale-on-dicom/)
-Tanulja meg, hogyan végezhet szürkeárnyalatos DICOM-képeket az Aspose.Imaging for .NET segítségével, amely egy hatékony képfeldolgozó könyvtár.
-### [Az XMP-címkék tárolásának támogatása az Aspose.Imaging for .NET-ben](./support-storing-xmp-tags/)
-Ismerje meg, hogyan adhat hozzá XMP-metaadatokat DICOM-képekhez az Aspose.Imaging for .NET segítségével. Optimalizálja a képkezelést és -szervezést ezzel a lépésről-lépésre szóló útmutatóval.
+### [DICOM kép fényerejének beállítása az Aspose.Imaging for .NET programban](./adjust-brightness-of-dicom-image/)
+Tanulja meg, hogyan állíthatja be a DICOM képek fényerejét az Aspose.Imaging for .NET programban. Javítsa orvosi képeit egyszerűen.
+### [DICOM kép kontrasztjának beállítása az Aspose.Imaging for .NET programban](./adjust-contrast-of-dicom-image/)
+Javítsa orvosi képeinek minőségét az Aspose.Imaging for .NET segítségével. Állítsa be a DICOM képek kontrasztját egyszerű lépésekkel.
+### [DICOM kép gamma beállításához használja az Aspose.Imaging for .NET programot](./adjust-gamma-of-dicom-image/)
+Tanulja meg, hogyan állíthatja be a gammaértéket DICOM képeken az Aspose.Imaging for .NET segítségével. Javítsa az orvosi képek minőségét egyszerű lépésekkel.
+### [Szűrő alkalmazása DICOM képre az Aspose.Imaging for .NET programban](./apply-filter-on-dicom-image/)
+Tanulja meg, hogyan alkalmazhat szűrőket DICOM képekre az Aspose.Imaging for .NET segítségével. Könnyedén javíthatja az orvosi képfeldolgozást.
+### [Binarizálás Bradley adaptív küszöbértékével DICOM képen az Aspose.Imaging for .NET programban](./binarization-with-bradleys-adaptive-threshold-on-dicom-image/)
+Tanuld meg alkalmazni Bradley adaptív küszöbértékét DICOM képekre az Aspose.Imaging for .NET segítségével. Binarizálás egyszerűen, lépésről lépésre útmutatóval.
+### [Binarizálás fix küszöbértékkel DICOM képen az Aspose.Imaging for .NET programban](./binarization-with-fixed-threshold-on-dicom-image/)
+Tanuld meg, hogyan végezhetsz binarizálást egy DICOM képen az Aspose.Imaging for .NET használatával. Lépésről lépésre útmutató kódpéldákkal.
+### [Binarizálás Otsu Thresholddal DICOM képen Aspose.Imaging for .NET-ben](./binarization-with-otsu-threshold-on-dicom-image/)
+Fejlessze orvosi képfeldolgozását az Aspose.Imaging for .NET segítségével. Ismerje meg, hogyan végezhet DICOM képek binarizálását az Otsu Thresholding segítségével.
+### [DICOM tömörítés az Aspose.Imaging for .NET programban](./dicom-compression/)
+Ismerje meg, hogyan végezhet DICOM tömörítést az Aspose.Imaging for .NET használatával. Kövesse ezt a lépésről lépésre szóló útmutatót az orvosi képek hatékony, magas diagnosztikai minőségű tárolásához és továbbításához.
+### [DICOM vágás eltolással az Aspose.Imaging .NET-hez készült verziójában](./dicom-cropping-by-shifts/)
+Tanulja meg, hogyan vághatja a DICOM képeket az Aspose.Imaging for .NET segítségével. Fejlessze az orvosi képfeldolgozást ezzel a lépésről lépésre szóló útmutatóval.
+### [DICOM egyszerű átméretezése az Aspose.Imaging for .NET programban](./dicom-simple-resizing/)
+Tanulja meg, hogyan méretezheti át a DICOM képeket az Aspose.Imaging for .NET segítségével, amely egy hatékony orvosi képfeldolgozó eszköz. Egyszerű lépések a precíz eredményekért.
+### [A DICOM egyéb képátméretezési lehetőségei az Aspose.Imaging for .NET programban](./dicoms-other-image-resizing-options/)
+Tanulja meg, hogyan méretezheti át a DICOM képeket az Aspose.Imaging for .NET segítségével. Lépésről lépésre útmutató a hatékony orvosi képmanipulációhoz.
+### [DICOM PNG-vé konvertálása az Aspose.Imaging for .NET programban](./convert-dicom-to-png/)
+Konvertálja a DICOM fájlokat PNG-vé könnyedén az Aspose.Imaging for .NET segítségével. Egyszerűsítse az orvosi képek megosztását.
+### [DICOM kép ditheringje az Aspose.Imaging for .NET programban](./dithering-for-dicom-image/)
+Tanulja meg, hogyan végezhet küszöbérték-ditheringet DICOM képeken az Aspose.Imaging for .NET segítségével. Javítsa a képminőséget és csökkentse a színpalettákat könnyedén.
+### [Exportálás DICOM formátumba Aspose.Imaging for .NET-ben](./export-to-dicom/)
+Tanulja meg, hogyan exportálhat képeket DICOM formátumba .NET-ben az Aspose.Imaging segítségével. Orvosi képek konvertálása könnyedén.
+### [Szürkeárnyalatos DICOM-on az Aspose.Imaging .NET-hez alkalmazásban](./grayscale-on-dicom/)
+Tanulja meg, hogyan végezhet szürkeárnyalatos korrekciót DICOM képeken az Aspose.Imaging for .NET segítségével, amely egy hatékony képfeldolgozó könyvtár.
+### [XMP címkék tárolásának támogatása az Aspose.Imaging for .NET fájlban](./support-storing-xmp-tags/)
+Ismerje meg, hogyan adhat hozzá XMP metaadatokat DICOM képekhez az Aspose.Imaging for .NET használatával. Optimalizálja a képkezelést és -rendszerezést ezzel a lépésről lépésre szóló útmutatóval.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

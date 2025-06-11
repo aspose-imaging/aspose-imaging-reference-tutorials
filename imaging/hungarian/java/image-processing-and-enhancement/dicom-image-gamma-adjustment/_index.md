@@ -1,36 +1,38 @@
 ---
-title: DICOM kép gamma beállítás Aspose.Imaging for Java segítségével
-linktitle: DICOM kép gamma beállítás
-second_title: Aspose.Imaging Java Image Processing API
-description: Ismerje meg, hogyan állíthatja be a DICOM-képek gammáját Java nyelven az Aspose.Imaging for Java segítségével. Növelje az orvosi képminőséget egyszerű lépésekkel.
-weight: 24
-url: /hu/java/image-processing-and-enhancement/dicom-image-gamma-adjustment/
+"description": "Tanulja meg, hogyan állíthatja be a DICOM képek gammaértékét Java nyelven az Aspose.Imaging for Java segítségével. Javítsa az orvosi képek minőségét egyszerű lépésekkel."
+"linktitle": "DICOM kép gamma beállítás"
+"second_title": "Aspose.Imaging Java képfeldolgozó API"
+"title": "DICOM kép gamma beállítás Aspose.Imaging segítségével Java-ban"
+"url": "/hu/java/image-processing-and-enhancement/dicom-image-gamma-adjustment/"
+"weight": 24
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# DICOM kép gamma beállítás Aspose.Imaging for Java segítségével
+# DICOM kép gamma beállítás Aspose.Imaging segítségével Java-ban
 
-Javítani szeretné a DICOM-képek minőségét Java-alkalmazásaiban? Az Aspose.Imaging for Java egy nagy teljesítményű és sokoldalú könyvtár, amely lehetővé teszi a képek kezelését és feldolgozását, beleértve a DICOM formátumot is. Ebben a lépésről lépésre bemutatott oktatóanyagban végigvezetjük a DICOM-kép gamma beállításának folyamatán az Aspose.Imaging for Java használatával. 
+Szeretnéd javítani a DICOM képek minőségét Java alkalmazásaidban? Az Aspose.Imaging for Java egy hatékony és sokoldalú könyvtár, amely lehetővé teszi a képek, beleértve a DICOM formátumúakat is, manipulálását és feldolgozását. Ebben a lépésről lépésre bemutató útmutatóban végigvezetünk a DICOM képek gamma beállításának folyamatán az Aspose.Imaging for Java segítségével. 
 
 ## Előfeltételek
 
-Mielőtt elkezdené, győződjön meg arról, hogy a következő előfeltételeket teljesítette:
+Mielőtt elkezdené, győződjön meg arról, hogy a következő előfeltételek teljesülnek:
 
 ### 1. Java fejlesztői környezet
-- Győződjön meg arról, hogy a Java Development Kit (JDK) telepítve van a rendszerén.
+- Győződjön meg róla, hogy a Java Development Kit (JDK) telepítve van a rendszerén.
 
-### 2. Aspose.Imaging for Java Library
--  Az Aspose.Imaging for Java könyvtárat a következő webhelyről szerezheti be[letöltési link](https://releases.aspose.com/imaging/java/).
+### 2. Aspose.Imaging Java könyvtárhoz
+- Az Aspose.Imaging for Java könyvtárat a következő helyről szerezheti be: [letöltési link](https://releases.aspose.com/imaging/java/).
 
-### 3. Írja be a DICOM képet
-- Rendelkeznie kell egy DICOM képpel, amelyet fel szeretne dolgozni. Ha nem rendelkezik ilyennel, könnyedén találhat DICOM-mintaképeket az interneten, vagy használhatja a sajátját.
+### 3. DICOM kép bevitele
+- Rendelkeznie kell egy DICOM képpel, amelyet feldolgozni szeretne. Ha nincs ilyen, könnyen találhat minta DICOM képeket online, vagy használhat sajátot.
 
 ## Csomagok importálása
 
-Először is importálnia kell a Java-projekthez szükséges csomagokat. A következőképpen teheti meg:
+Először importálnod kell a Java projektedhez szükséges csomagokat. Így teheted meg:
 
 ```java
 import com.aspose.imaging.fileformats.dicom.DicomImage;
@@ -41,11 +43,11 @@ import java.io.FileInputStream;
 import java.io.IOException;
 ```
 
-Bontsuk le a DICOM-kép gamma beállításának folyamatát egy sor könnyen követhető lépésre.
+Bontsuk le a DICOM kép gamma beállításának folyamatát könnyen követhető lépésekre.
 
-## 1. lépés: Állítsa be a fájl elérési útját
+## 1. lépés: Állítsa be a fájlútvonalakat
 
-Meg kell adnia a bemeneti és kimeneti fájl elérési útját. Cserélje ki`"Your Document Directory"` azzal a könyvtárral, ahol a DICOM képfájl található.
+Meg kell adnia a bemeneti és kimeneti fájl elérési útját. Csere `"Your Document Directory"` a DICOM kép tényleges könyvtárával.
 
 ```java
 String dataDir = "Your Document Directory" + "dicom/";
@@ -53,33 +55,33 @@ String inputFile = dataDir + "image.dcm";
 String outputFile = dataDir + "AdjustingGamma.bmp";
 ```
 
-## 2. lépés: Töltse be a DICOM-képet
+## 2. lépés: Töltse be a DICOM képet
 
- Töltse be a DICOM-képet az Aspose.Imaging segítségével`DicomImage` osztály.
+Töltsd be a DICOM képet az Aspose.Imaging segítségével `DicomImage` osztály.
 
 ```java
 File file = new File(inputFile);
 
 try (FileInputStream fis = new FileInputStream(file)) {
-    // Töltsön be egy DICOM-képet a DicomImage egy példányába
+    // DICOM kép betöltése a DicomImage példányába
     try (DicomImage image = (DicomImage) Image.load(fis)) {
 ```
 
-## 3. lépés: Állítsa be a gammát
+## 3. lépés: Gamma beállítása
 
-Most állítsa be a DICOM kép gamma értékét a kívánt gammaérték megadásával (pl. 50).
+Most állítsa be a DICOM kép gammaértékét a kívánt gammaérték (pl. 50) megadásával.
 
 ```java
-        // Állítsa be a gammát
+        // Gamma beállítása
         image.adjustGamma(50);
 ```
 
 ## 4. lépés: Mentse el a kapott képet
 
- Hozzon létre egy példányt a`BmpOptions` az eredményül kapott képhez, és mentse el.
+Hozz létre egy példányt a következőből: `BmpOptions` a kapott képhez, és mentse el.
 
 ```java
-        // Hozzon létre egy BmpOptions példányt az eredményül kapott képhez, és mentse az eredményül kapott képet
+        // Hozz létre egy BmpOptions példányt a kapott képhez, és mentsd el a kapott képet.
         image.save(outputFile, new BmpOptions());
     }
 } catch (IOException ex) {
@@ -89,38 +91,40 @@ Most állítsa be a DICOM kép gamma értékét a kívánt gammaérték megadás
 }
 ```
 
-Ez az! Sikeresen beállította egy DICOM-kép gammáját az Aspose.Imaging for Java segítségével.
+Ennyi! Sikeresen beállítottad egy DICOM kép gamma értékét az Aspose.Imaging for Java segítségével.
 
 ## Következtetés
 
-Az Aspose.Imaging for Java zökkenőmentes és hatékony módot biztosít a DICOM-képek feldolgozására a Java-alkalmazásokban. Ennek a lépésről-lépésre szóló útmutatónak a követésével a gamma beállításával könnyedén javíthatja DICOM-képeinek minőségét. Intuitív API-jával és átfogó dokumentációjával az Aspose.Imaging for Java értékes eszköz a képkezelési feladatokhoz.
+Az Aspose.Imaging for Java zökkenőmentes és hatékony módszert kínál a DICOM képek feldolgozására a Java alkalmazásokban. Ezt a lépésről lépésre szóló útmutatót követve könnyedén javíthatja DICOM képeinek minőségét a gamma beállításával. Intuitív API-jának és átfogó dokumentációjának köszönhetően az Aspose.Imaging for Java értékes eszköz a képmanipulációs feladatokhoz.
 
- Ha bármilyen kérdése van, vagy problémába ütközik, ne habozzon kérni segítséget a[Aspose.Képalkotó közösség](https://forum.aspose.com/). Kiváló támogatást és forrásokat biztosítanak a képfeldolgozás során.
+Ha bármilyen kérdése van, vagy problémába ütközik, ne habozzon segítséget kérni a [Aspose.Imaging közösség](https://forum.aspose.com/)Kiváló támogatást és erőforrásokat nyújtanak a képfeldolgozási folyamathoz.
 
 ## GYIK
 
-### 1. kérdés: Mi az a DICOM-kép?
+### 1. kérdés: Mi az a DICOM kép?
 
-V1: A DICOM (Digital Imaging and Communications in Medicine) egy szabványos formátum, amelyet az egészségügyben használnak orvosi képek továbbítására, tárolására és megjelenítésére. Biztosítja az orvosi képalkotás interoperabilitását és következetességét.
+A1: A DICOM (Digital Imaging and Communications in Medicine) egy szabványos formátum, amelyet az egészségügyi ágazatban használnak orvosi képek továbbítására, tárolására és megjelenítésére. Biztosítja az interoperabilitást és a konzisztenciát az orvosi képalkotásban.
 
-### 2. kérdés: Miért fontos a gamma-beállítás a DICOM-képeknél?
+### 2. kérdés: Miért fontos a gammakorrekció a DICOM képek esetében?
 
-2. válasz: A gamma-beállítás kulcsfontosságú a DICOM-képek vizuális minőségének javításához. Segít javítani az orvosi képek kontrasztját és általános megjelenését, megkönnyítve azok értelmezését és elemzését.
+A2: A gammakorrekció kulcsfontosságú a DICOM képek vizuális minőségének javításához. Segít javítani az orvosi képek kontrasztját és általános megjelenését, így könnyebben értelmezhetők és elemezhetők.
 
-### 3. kérdés: Feldolgozhatom a DICOM-képeket más programozási nyelveken?
+### 3. kérdés: Feldolgozhatom a DICOM képeket más programozási nyelveken?
 
-3. válasz: Igen, az Aspose.Imaging könyvtárakat biztosít különféle programozási nyelvekhez, beleértve a .NET-t, a Java-t és még sok mást, így sokoldalúan használható a különböző platformokon végzett képfeldolgozáshoz.
+V3: Igen, az Aspose.Imaging különféle programozási nyelvekhez biztosít könyvtárakat, beleértve a .NET-et, a Java-t és egyebeket, így sokoldalúan használható képfeldolgozáshoz különböző platformokon.
 
-### 4. kérdés: Vannak korlátozások a DICOM-képekkel való munka során?
+### 4. kérdés: Vannak-e korlátozások a DICOM képekkel való munka során?
 
-4. válasz: Egyes DICOM-képek összetett szerkezetűek és metaadatokkal rendelkezhetnek. Győződjön meg arról, hogy jól ismeri a DICOM szabványt és annak változatait az ilyen esetek hatékony kezeléséhez.
+4. válasz: Egyes DICOM képek összetett szerkezettel és metaadatokkal rendelkezhetnek. Győződjön meg arról, hogy jól ismeri a DICOM szabványt és annak változatait, hogy hatékonyan tudja kezelni az ilyen eseteket.
 
 ### 5. kérdés: Hol találok további Aspose.Imaging oktatóanyagokat és forrásokat?
 
- A5: Felfedezheti a[Aspose.Képalkotási dokumentáció](https://reference.aspose.com/imaging/java/) átfogó útmutatókért, példákért és API-referenciákért.
+A5: Felfedezheted a [Aspose.Imaging dokumentáció](https://reference.aspose.com/imaging/java/) átfogó útmutatókért, példákért és API-referenciákért.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

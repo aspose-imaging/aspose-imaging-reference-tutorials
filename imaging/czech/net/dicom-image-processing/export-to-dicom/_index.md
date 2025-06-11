@@ -1,54 +1,56 @@
 ---
-title: Export obrázků do DICOM v Aspose.Imaging pro .NET
-linktitle: Export do DICOM v Aspose.Imaging pro .NET
-second_title: Aspose.Imaging .NET Image Processing API
-description: Naučte se exportovat obrázky do formátu DICOM v .NET pomocí Aspose.Imaging. Převádějte lékařské snímky bez námahy.
-weight: 23
-url: /cs/net/dicom-image-processing/export-to-dicom/
+"description": "Naučte se, jak exportovat obrázky do formátu DICOM v .NET pomocí Aspose.Imaging. Převádějte lékařské snímky bez námahy."
+"linktitle": "Export do DICOM v Aspose.Imaging pro .NET"
+"second_title": "Rozhraní API pro zpracování obrazu Aspose.Imaging .NET"
+"title": "Export obrázků do formátu DICOM v Aspose.Imaging pro .NET"
+"url": "/cs/net/dicom-image-processing/export-to-dicom/"
+"weight": 23
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Export obrázků do DICOM v Aspose.Imaging pro .NET
+# Export obrázků do formátu DICOM v Aspose.Imaging pro .NET
 
-oblasti lékařského zobrazování je nesporným králem formát Digital Imaging and Communications in Medicine (DICOM). Soubory DICOM ukládají a spravují lékařské snímky a související informace, což usnadňuje bezproblémovou výměnu a interpretaci lékařských snímků napříč různými zdravotnickými systémy. Pokud chcete ve své aplikaci .NET pracovat se soubory DICOM, jste na správném místě. V tomto tutoriálu se ponoříme do toho, jak exportovat obrázky do DICOM pomocí Aspose.Imaging for .NET, výkonné knihovny, která tento proces zjednodušuje. Na konci této příručky budete vybaveni znalostmi, abyste mohli využít potenciál Aspose.Imaging pro .NET a snadno vytvářet soubory DICOM.
+oblasti lékařského zobrazování je formát DICOM (Digital Imaging and Communications in Medicine) nesporným králem. Soubory DICOM ukládají a spravují lékařské snímky a související informace, což usnadňuje bezproblémovou výměnu a interpretaci lékařských snímků napříč různými systémy zdravotní péče. Pokud chcete pracovat se soubory DICOM ve své aplikaci .NET, jste na správném místě. V tomto tutoriálu se ponoříme do exportu snímků do formátu DICOM pomocí knihovny Aspose.Imaging for .NET, což je výkonná knihovna, která celý proces zjednodušuje. Po přečtení této příručky budete vybaveni znalostmi, které vám pomohou využít potenciál knihovny Aspose.Imaging for .NET a snadno vytvářet soubory DICOM.
 
 ## Předpoklady
 
-Než přejdeme k technickým aspektům, je nezbytné zajistit, abyste splnili následující předpoklady:
+Než se pustíme do technických aspektů, je nezbytné zajistit, abyste splnili následující předpoklady:
 
 1. Aspose.Imaging pro .NET
 
- Ve vývojovém prostředí musíte mít nainstalovaný Aspose.Imaging for .NET. Pokud jste tak ještě neučinili, můžete si jej stáhnout z webu Aspose. Tady je[odkaz ke stažení](https://releases.aspose.com/imaging/net/)pro tvoje pohodlí.
+Ve svém vývojovém prostředí musíte mít nainstalovaný Aspose.Imaging pro .NET. Pokud tak ještě neučiníte, můžete si jej stáhnout z webových stránek Aspose. Zde je [odkaz ke stažení](https://releases.aspose.com/imaging/net/) pro vaše pohodlí.
 
 2. Vývojové prostředí .NET
 
-Chcete-li pracovat s Aspose.Imaging pro .NET, potřebujete vývojové prostředí .NET. Ujistěte se, že máte nainstalované Visual Studio nebo jakýkoli jiný vývojový nástroj .NET dle vašeho výběru.
+Pro práci s Aspose.Imaging pro .NET potřebujete vývojové prostředí pro .NET. Ujistěte se, že máte nainstalované Visual Studio nebo jiný vámi zvolený vývojový nástroj pro .NET.
 
 3. Soubory obrázků
 
-Shromážděte soubory obrázků, které chcete převést do formátu DICOM. Tento tutoriál předpokládá, že máte pro konverzi připravený ukázkový soubor obrázku (např. „sample.jpg“) a soubor vícestránkového obrázku (např. „multipage.tif“).
+Připravte si obrazové soubory, které chcete převést do formátu DICOM. Tento tutoriál předpokládá, že máte připravený ukázkový obrazový soubor (např. „sample.jpg“) a vícestránkový obrazový soubor (např. „multipage.tif“) pro převod.
 
 ## Importovat jmenné prostory
 
-Ujistěte se, že ve svém kódu C# importujete potřebné jmenné prostory pro přístup ke knihovně Aspose.Imaging. Můžete to udělat přidáním následujících řádků na začátek kódu:
+V kódu C# nezapomeňte importovat potřebné jmenné prostory pro přístup ke knihovně Aspose.Imaging. Toho dosáhnete přidáním následujících řádků na začátek kódu:
 
 ```csharp
 using Aspose.Imaging;
 using Aspose.Imaging.Dicom;
 ```
 
-Nyní si rozdělme proces exportu obrázků do DICOM pomocí Aspose.Imaging for .NET do řady zvládnutelných kroků.
+Nyní si rozdělme proces exportu obrázků do formátu DICOM pomocí Aspose.Imaging for .NET do série snadno zvládnutelných kroků.
 
-## Krok 1: Nastavte prostředí
+## Krok 1: Nastavení prostředí
 
- Ujistěte se, že jste vytvořili projekt .NET ve svém vývojovém prostředí a přidali Aspose.Imaging for .NET jako referenci. Pokud ne, podívejte se do dokumentace Aspose.Imaging[tady](https://reference.aspose.com/imaging/net/) pro návod, jak začít.
+Ujistěte se, že jste ve svém vývojovém prostředí vytvořili projekt .NET a přidali Aspose.Imaging pro .NET jako referenci. Pokud jste tak neučinili, podívejte se do dokumentace k Aspose.Imaging. [zde](https://reference.aspose.com/imaging/net/) pro radu, jak začít.
 
-## Krok 2: Definujte cesty k souboru
+## Krok 2: Definování cest k souborům
 
-V kódu C# definujte cesty pro své vstupní obrazové soubory, jednostránkové a vícestránkové, a také cesty pro výstupní soubory DICOM. Měli byste nahradit "Your Document Directory" skutečnou cestou k adresáři, kde jsou uloženy soubory obrázků.
+V kódu C# definujte cesty ke vstupním obrazovým souborům, jednostránkovým a vícestránkovým, a také cesty k výstupním souborům DICOM. „Adresář dokumentů“ byste měli nahradit skutečnou cestou k adresáři, kde jsou obrazové soubory uloženy.
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -59,9 +61,9 @@ string outputFileNameSingleDcm = Path.Combine(dataDir, "output.dcm");
 string outputFileNameMultipageDcm = Path.Combine(dataDir, "outputMultipage.dcm");
 ```
 
-## Krok 3: Převeďte jeden obrázek na DICOM
+## Krok 3: Převod jednoho snímku do formátu DICOM
 
-Chcete-li převést jeden obrázek (v tomto případě „sample.jpg“) na DICOM, použijte následující fragment kódu:
+Chcete-li převést jeden obrázek (v tomto případě „sample.jpg“) do formátu DICOM, použijte následující úryvek kódu:
 
 ```csharp
 using (var image = Image.Load(inputFileNameSingle))
@@ -70,11 +72,11 @@ using (var image = Image.Load(inputFileNameSingle))
 }
 ```
 
-Tento kód načte obrázek, uloží jej jako soubor DICOM a použije možnosti DicomOptions pro převod.
+Tento kód načte obrázek, uloží ho jako soubor DICOM a pro převod použije DicomOptions.
 
-## Krok 4: Převeďte vícestránkový obrázek na DICOM
+## Krok 4: Převod vícestránkového obrazu do formátu DICOM
 
-Formát DICOM podporuje vícestránkové obrázky. Obrázky GIF nebo TIFF můžete převést na DICOM stejným způsobem jako obrázky JPEG. Můžete to udělat takto:
+Formát DICOM podporuje vícestránkové obrázky. Obrázky GIF nebo TIFF můžete převést do formátu DICOM stejným způsobem jako obrázky JPEG. Postupujte takto:
 
 ```csharp
 using (var image = Image.Load(inputFileNameMultipage))
@@ -83,38 +85,40 @@ using (var image = Image.Load(inputFileNameMultipage))
 }
 ```
 
-Tento kód provádí stejný proces převodu pro vícestránkové obrazy a zajišťuje, že každá stránka zůstane zachována ve výsledném souboru DICOM.
+Tento kód provádí stejný proces převodu pro vícestránkové obrázky a zajišťuje, že každá stránka je ve výsledném souboru DICOM zachována.
 
 ## Závěr
 
-Export snímků do formátu DICOM je nezbytný pro různé aplikace ve zdravotnictví a lékařství. Aspose.Imaging for .NET tento proces zjednodušuje a umožňuje vývojářům efektivně vytvářet soubory DICOM. Podle tohoto podrobného průvodce můžete bezproblémově integrovat funkci exportu DICOM do svých aplikací .NET.
+Export obrázků do formátu DICOM je nezbytný pro různé aplikace ve zdravotnictví a lékařském zobrazování. Aspose.Imaging pro .NET tento proces zjednodušuje a umožňuje vývojářům efektivně vytvářet soubory DICOM. Dodržováním tohoto podrobného návodu můžete bezproblémově integrovat funkci exportu DICOM do vašich aplikací .NET.
 
- Pokud narazíte na nějaké problémy nebo máte specifické požadavky, komunita Aspose.Imaging a fóra podpory jsou cennými zdroji. Můžete najít pomoc a návod[tady](https://forum.aspose.com/).
+Pokud narazíte na nějaké problémy nebo máte specifické požadavky, komunita a fóra podpory Aspose.Imaging jsou cennými zdroji. Najdete tam pomoc a rady. [zde](https://forum.aspose.com/).
 
-## FAQ
+## Často kladené otázky
 
-### Q1: Mohu převést obrázky na DICOM pomocí Aspose.Imaging for .NET ve webové aplikaci?
+### Q1: Mohu převést obrázky do formátu DICOM pomocí Aspose.Imaging pro .NET ve webové aplikaci?
 
-Odpověď 1: Ano, Aspose.Imaging for .NET lze použít ve webových aplikacích k převodu obrázků na DICOM. Ujistěte se, že integrujete knihovnu do svého webového projektu a postupujte podle stejných kroků popsaných v tomto kurzu.
+A1: Ano, Aspose.Imaging pro .NET lze použít ve webových aplikacích k převodu obrázků do formátu DICOM. Ujistěte se, že jste knihovnu integrovali do svého webového projektu a postupovali podle stejných kroků popsaných v tomto tutoriálu.
 
 ### Q2: Existují nějaké možnosti licencování pro Aspose.Imaging pro .NET?
 
-A2: Aspose nabízí různé možnosti licencování, včetně dočasných licencí pro hodnocení a komerčních licencí pro produkční použití. Můžete prozkoumat podrobnosti o licencích[tady](https://purchase.aspose.com/buy) a získat dočasnou licenci[tady](https://purchase.aspose.com/temporary-license/).
+A2: Aspose nabízí různé možnosti licencování, včetně dočasných licencí pro zkušební použití a komerčních licencí pro produkční použití. Můžete si prohlédnout podrobnosti o licencování. [zde](https://purchase.aspose.com/buy) a získat dočasnou licenci [zde](https://purchase.aspose.com/temporary-license/).
 
-### Q3: Mohu převést jiné obrazové formáty na DICOM kromě JPEG, GIF a TIFF?
+### Q3: Mohu převést do formátu DICOM i jiné obrazové formáty než JPEG, GIF a TIFF?
 
-Odpověď 3: Aspose.Imaging for .NET podporuje širokou škálu obrazových formátů, takže můžete převádět obrazy ve formátech jako BMP, PNG a další do DICOM také. Proces zůstává podobný pro různé typy obrázků.
+A3: Aspose.Imaging pro .NET podporuje širokou škálu obrazových formátů, takže můžete převádět obrázky ve formátech jako BMP, PNG a další do formátu DICOM. Proces zůstává podobný pro různé typy obrázků.
 
-### Q4: Jak mohu zacházet s metadaty DICOM při převodu obrázků?
+### Q4: Jak mohu zpracovat metadata DICOM při převodu obrázků?
 
-A4: Aspose.Imaging for .NET umožňuje manipulovat a přizpůsobovat metadata DICOM během procesu převodu. Podrobné informace o zacházení s metadaty DICOM najdete v dokumentaci.
+A4: Aspose.Imaging pro .NET umožňuje manipulovat s metadaty DICOM a upravovat je během procesu převodu. Podrobné informace o práci s metadaty DICOM naleznete v dokumentaci.
 
 ### Q5: Je k dispozici zkušební verze Aspose.Imaging pro .NET?
 
- Odpověď 5: Ano, máte přístup k bezplatné zkušební verzi Aspose.Imaging for .NET, abyste mohli vyhodnotit její schopnosti. Můžete si stáhnout zkušební verzi[tady](https://releases.aspose.com/).
+A5: Ano, můžete si zdarma vyzkoušet zkušební verzi Aspose.Imaging pro .NET a otestovat její funkce. Zkušební verzi si můžete stáhnout. [zde](https://releases.aspose.com/).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

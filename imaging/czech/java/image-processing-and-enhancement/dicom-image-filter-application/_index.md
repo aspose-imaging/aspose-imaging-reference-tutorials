@@ -1,37 +1,39 @@
 ---
-title: DICOM Image Filtering s Aspose.Imaging pro Java
-linktitle: Aplikace obrazového filtru DICOM
-second_title: Aspose.Imaging Java Image Processing API
-description: Naučte se používat filtry na obrázky DICOM pomocí Aspose.Imaging for Java. Snadno vylepšete lékařské zobrazování.
-weight: 26
-url: /cs/java/image-processing-and-enhancement/dicom-image-filter-application/
+"description": "Naučte se, jak aplikovat filtry na snímky DICOM pomocí Aspose.Imaging pro Javu. Snadno vylepšete lékařské zobrazování."
+"linktitle": "Aplikace pro filtrování obrázků DICOM"
+"second_title": "API pro zpracování obrazu v Javě Aspose.Imaging"
+"title": "Filtrování obrázků DICOM pomocí Aspose.Imaging pro Javu"
+"url": "/cs/java/image-processing-and-enhancement/dicom-image-filter-application/"
+"weight": 26
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# DICOM Image Filtering s Aspose.Imaging pro Java
+# Filtrování obrázků DICOM pomocí Aspose.Imaging pro Javu
 
-pokrokem v oblasti lékařského zobrazování je stále důležitější schopnost zpracovávat snímky DICOM (Digital Imaging and Communications in Medicine). Obrázky DICOM jsou bohaté na lékařské informace, ale někdy vyžadují vylepšení a filtry, aby se zlepšila jejich kvalita nebo extrahovaly specifické vlastnosti. V tomto komplexním průvodci vás provedeme procesem aplikace filtrů na obrázky DICOM pomocí Aspose.Imaging for Java. Tato výkonná knihovna poskytuje širokou škálu funkcí pro zpracování a manipulaci s obrazem, což z ní činí neocenitelný nástroj pro zdravotníky, výzkumníky a vývojáře.
+S rozvojem oblasti lékařského zobrazování se stává stále důležitější schopnost zpracovávat snímky DICOM (Digital Imaging and Communications in Medicine). Snímky DICOM jsou bohaté na lékařské informace, ale někdy vyžadují vylepšení a filtry pro zlepšení jejich kvality nebo extrahování specifických prvků. V této komplexní příručce vás provedeme procesem aplikace filtrů na snímky DICOM pomocí knihovny Aspose.Imaging pro Javu. Tato výkonná knihovna poskytuje širokou škálu funkcí pro zpracování a manipulaci s obrazy, což z ní činí neocenitelný nástroj pro zdravotnické pracovníky, výzkumníky a vývojáře.
 
 ## Předpoklady
 
-Než se vrhneme na kroky použití filtrů na obrazy DICOM, ujistěte se, že máte splněny následující předpoklady:
+Než se ponoříme do kroků aplikace filtrů na snímky DICOM, ujistěte se, že máte splněny následující předpoklady:
 
 - Vývojové prostředí Java: Ujistěte se, že máte ve svém systému nastavené vývojové prostředí Java.
 
--  Knihovna Aspose.Imaging for Java: Budete si muset stáhnout a nainstalovat knihovnu Aspose.Imaging for Java. Můžete si jej stáhnout z webu[tady](https://releases.aspose.com/imaging/java/).
+- Knihovna Aspose.Imaging pro Java: Budete si muset stáhnout a nainstalovat knihovnu Aspose.Imaging pro Java. Můžete si ji stáhnout z webových stránek [zde](https://releases.aspose.com/imaging/java/).
 
-- Obrázek DICOM: Měli byste mít obrázek DICOM, na který chcete použít filtry. Pokud žádný nemáte, můžete najít ukázkové obrázky DICOM online nebo si vytvořit vlastní pomocí generátoru obrázků DICOM.
+- Snímek DICOM: Měli byste mít snímek DICOM, na který chcete použít filtry. Pokud žádný nemáte, můžete si ukázkové snímky DICOM najít online nebo si vytvořit vlastní pomocí generátoru snímků DICOM.
 
-- Základní znalost jazyka Java: Prospěšná bude znalost programování v jazyce Java, protože budeme psát kód Java pro použití filtrů na obrázky DICOM.
+- Základní znalost Javy: Znalost programování v Javě bude přínosem, protože budeme psát kód v Javě pro aplikaci filtrů na obrázky DICOM.
 
-Nyní, když máte potřebné předpoklady, přistoupíme k podrobnému návodu, jak aplikovat filtry na obrázky DICOM pomocí Aspose.Imaging for Java.
+Nyní, když máte splněny potřebné předpoklady, pojďme k podrobnému návodu, jak aplikovat filtry na obrázky DICOM pomocí Aspose.Imaging pro Javu.
 
-## Krok 1: Importujte balíčky
+## Krok 1: Import balíčků
 
-Chcete-li začít, musíte importovat potřebné balíčky z knihovny Aspose.Imaging. Tyto balíčky obsahují třídy a metody potřebné pro zpracování obrazu DICOM. Přidejte do kódu Java následující příkazy pro import:
+Chcete-li začít, je třeba importovat potřebné balíčky z knihovny Aspose.Imaging. Tyto balíčky obsahují třídy a metody potřebné pro zpracování obrázků DICOM. Do kódu Java přidejte následující příkazy importu:
 
 ```java
 import com.aspose.imaging.Image;
@@ -40,14 +42,14 @@ import com.aspose.imaging.imagefilters.filteroptions.MedianFilterOptions;
 import com.aspose.imaging.imageoptions.BmpOptions;
 ```
 
-Tyto balíčky poskytují základní nástroje a funkce pro práci s obrazy DICOM.
+Tyto balíčky poskytují základní nástroje a funkce pro práci s DICOM snímky.
 
-## Krok 2: Načtení obrázku DICOM
+## Krok 2: Načtení obrazu DICOM
 
-tomto kroku načtete obraz DICOM, na který chcete použít filtry. Ujistěte se, že jste zadali cestu k souboru obrázku DICOM a výstupní cestu pro filtrovaný obrázek. Můžete to udělat takto:
+V tomto kroku načtete obrázek DICOM, na který chcete použít filtry. Nezapomeňte zadat cestu k souboru obrázku DICOM a výstupní cestu pro filtrovaný obrázek. Postupujte takto:
 
 ```java
-// Cesta k adresáři dokumentů.
+// Cesta k adresáři s dokumenty.
 String dataDir = "Your Document Directory" + "dicom/";
 String inputFile = dataDir + "image.dcm";
 String outputFile = "Your Document Directory" + "ApplyFilterOnDICOMImage_out.bmp";
@@ -55,7 +57,7 @@ String outputFile = "Your Document Directory" + "ApplyFilterOnDICOMImage_out.bmp
 File file = new File(inputFile);
 
 try (FileInputStream fis = new FileInputStream(file)) {
-    // Načtěte obraz DICOM v instanci DicomImage
+    // Načtení obrazu DICOM do instance DicomImage
     try (DicomImage image = (DicomImage) Image.load(fis)) {
         // Pokračujte dalším krokem.
     }
@@ -65,18 +67,18 @@ try (FileInputStream fis = new FileInputStream(file)) {
 }
 ```
 
- Ujistěte se, že vyměníte`"Your Document Directory"` se skutečnou cestou k adresáři, kde se nachází váš obraz DICOM.
+Ujistěte se, že vyměníte `"Your Document Directory"` se skutečnou cestou k adresáři, kde se nachází váš DICOM obrázek.
 
 ## Krok 3: Použití filtrů
 
-Nyní přichází ta vzrušující část. V tomto kroku použijete filtr na načtený obraz DICOM. Jako příklad použijeme střední filtr s poloměrem 8. Jak na to:
+teď přichází ta vzrušující část. V tomto kroku aplikujete filtr na načtený DICOM obrázek. Jako příklad použijeme Mediánový filtr s poloměrem 8. Postupujte takto:
 
 ```java
-// Dodejte filtry do obrazu DICOM.
+// Dodávejte filtry k obrazu DICOM.
 image.filter(image.getBounds(), new MedianFilterOptions(8));
 ```
 
- The`MedianFilterOptions` umožňují zadat poloměr filtru, který určuje velikost jádra filtru. Tuto hodnotu můžete upravit podle svých konkrétních požadavků.
+Ten/Ta/To `MedianFilterOptions` umožňují zadat poloměr filtru, který určuje velikost jádra filtru. Tuto hodnotu můžete upravit podle svých specifických požadavků.
 
 ## Krok 4: Uložení filtrovaného obrázku
 
@@ -90,34 +92,36 @@ Výstupní formát a možnosti si můžete přizpůsobit podle svých potřeb.
 
 ## Závěr
 
-V tomto podrobném průvodci jsme prozkoumali, jak aplikovat filtry na obrázky DICOM pomocí Aspose.Imaging for Java. Tato výkonná knihovna vám umožňuje snadno vylepšovat a zpracovávat lékařské snímky. Dodržováním uvedených kroků a pochopením základů Aspose.Imaging můžete převzít kontrolu nad svými úkoly zpracování obrazu DICOM.
+tomto podrobném návodu jsme prozkoumali, jak aplikovat filtry na snímky DICOM pomocí knihovny Aspose.Imaging pro Javu. Tato výkonná knihovna vám umožňuje snadno vylepšovat a zpracovávat lékařské snímky. Dodržováním uvedených kroků a pochopením základů knihovny Aspose.Imaging můžete převzít kontrolu nad svými úlohami zpracování snímků DICOM.
 
-Nyní, když jste se naučili, jak aplikovat filtry na snímky DICOM, můžete prozkoumat další funkce a možnosti Aspose.Imaging for Java, abyste dále obohatili své lékařské zobrazovací aplikace.
+Nyní, když jste se naučili, jak aplikovat filtry na snímky DICOM, můžete prozkoumat další funkce a možnosti softwaru Aspose.Imaging pro Javu a dále obohatit své aplikace pro lékařské zobrazování.
 
-## FAQ
+## Často kladené otázky
 
-### Q1: Co je Aspose.Imaging pro Java?
+### Otázka 1: Co je Aspose.Imaging pro Javu?
 
-A1: Aspose.Imaging for Java je knihovna Java, která poskytuje rozsáhlé funkce pro práci s obrázky, včetně zpracování obrázků DICOM.
+A1: Aspose.Imaging pro Javu je knihovna v Javě, která poskytuje rozsáhlé funkce pro práci s obrázky, včetně zpracování obrázků DICOM.
 
-### Q2: Kde najdu dokumentaci Aspose.Imaging for Java?
+### Q2: Kde najdu dokumentaci k Aspose.Imaging pro Javu?
 
- A2: Máte přístup k dokumentaci[tady](https://reference.aspose.com/imaging/java/) prozkoumat podrobné informace a příklady.
+A2: Můžete přistupovat k dokumentaci [zde](https://reference.aspose.com/imaging/java/) prozkoumat podrobné informace a příklady.
 
-### Q3: Je Aspose.Imaging for Java k použití zdarma?
+### Q3: Je Aspose.Imaging pro Javu zdarma?
 
-Odpověď 3: Aspose.Imaging for Java je komerční knihovna a na webu najdete informace o cenách a licencích.
+A3: Aspose.Imaging pro Javu je komerční knihovna a informace o cenách a licencích naleznete na webových stránkách.
 
-### Q4: Mohu použít jiné filtry na obrazy DICOM pomocí Aspose.Imaging for Java?
+### Q4: Mohu na snímky DICOM použít jiné filtry pomocí Aspose.Imaging pro Javu?
 
-Odpověď 4: Ano, Aspose.Imaging for Java nabízí širokou škálu filtrů a možností pro zpracování obrazu, což umožňuje aplikovat různá vylepšení na obrazy DICOM.
+A4: Ano, Aspose.Imaging pro Javu nabízí širokou škálu filtrů a možností pro zpracování obrazu, což vám umožňuje aplikovat různá vylepšení na snímky DICOM.
 
-### Q5: Kde mohu získat podporu pro Aspose.Imaging pro Java?
+### Q5: Kde mohu získat podporu pro Aspose.Imaging pro Javu?
 
- A5: Můžete navštívit fórum komunity Aspose.Imaging[tady](https://forum.aspose.com/) klást otázky, hledat pomoc a zapojit se do komunity.
+A5: Můžete navštívit fórum komunity Aspose.Imaging [zde](https://forum.aspose.com/) klást otázky, vyhledávat pomoc a zapojit se do komunity.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

@@ -1,37 +1,39 @@
 ---
-title: Zmień rozmiar obrazów DICOM za pomocą Aspose.Imaging dla .NET
-linktitle: DICOM Proste zmienianie rozmiaru w Aspose.Imaging dla .NET
-second_title: Aspose.Imaging .NET API przetwarzania obrazu
-description: Dowiedz się, jak zmieniać rozmiar obrazów DICOM za pomocą Aspose.Imaging dla .NET, potężnego narzędzia do przetwarzania obrazów medycznych. Proste kroki dla precyzyjnych wyników.
-weight: 19
-url: /pl/net/dicom-image-processing/dicom-simple-resizing/
+"description": "Dowiedz się, jak zmieniać rozmiar obrazów DICOM za pomocą Aspose.Imaging for .NET, potężnego narzędzia do przetwarzania obrazów medycznych. Proste kroki dla precyzyjnych rezultatów."
+"linktitle": "Proste zmienianie rozmiaru DICOM w Aspose.Imaging dla .NET"
+"second_title": "Aspose.Imaging .NET Interfejs API przetwarzania obrazu"
+"title": "Zmiana rozmiaru obrazów DICOM za pomocą Aspose.Imaging dla .NET"
+"url": "/pl/net/dicom-image-processing/dicom-simple-resizing/"
+"weight": 19
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Zmień rozmiar obrazów DICOM za pomocą Aspose.Imaging dla .NET
+# Zmiana rozmiaru obrazów DICOM za pomocą Aspose.Imaging dla .NET
 
-stale rozwijającej się dziedzinie obrazowania medycznego najważniejsza jest elastyczność i precyzja w obsłudze plików DICOM (Digital Imaging and Communications in Medicine). Aspose.Imaging dla .NET okazuje się potężnym rozwiązaniem oferującym kompleksowy zestaw narzędzi do pracy z obrazami medycznymi. W tym samouczku omówimy prosty proces zmiany rozmiaru obrazów DICOM przy użyciu Aspose.Imaging dla .NET. 
+ciągle rozwijającej się dziedzinie obrazowania medycznego potrzeba elastyczności i precyzji w obsłudze plików DICOM (Digital Imaging and Communications in Medicine) jest najważniejsza. Aspose.Imaging dla .NET wyłania się jako potężne rozwiązanie, oferujące kompleksowy zestaw narzędzi do pracy z obrazami medycznymi. W tym samouczku przyjrzymy się prostemu procesowi zmiany rozmiaru obrazów DICOM przy użyciu Aspose.Imaging dla .NET. 
 
-## Warunki wstępne
+## Wymagania wstępne
 
-Zanim przejdziemy do przewodnika krok po kroku, upewnij się, że spełnione są następujące wymagania wstępne:
+Zanim przejdziemy do szczegółowego przewodnika, upewnij się, że spełnione są następujące wymagania wstępne:
 
-1.  Aspose.Imaging dla .NET: Musisz mieć zainstalowaną bibliotekę Aspose.Imaging dla .NET w swoim środowisku programistycznym. Jeśli jeszcze tego nie zrobiłeś, możesz pobrać go z[Tutaj](https://releases.aspose.com/imaging/net/).
+1. Aspose.Imaging dla .NET: Musisz mieć zainstalowaną bibliotekę Aspose.Imaging dla .NET w swoim środowisku programistycznym. Jeśli jeszcze jej nie masz, możesz ją pobrać ze strony [Tutaj](https://releases.aspose.com/imaging/net/).
 
-2. Środowisko programistyczne .NET: Wymagana jest praktyczna znajomość języka C# i środowiska programistycznego .NET.
+2. Środowisko programistyczne .NET: wymagana jest praktyczna znajomość języka C# oraz środowiska programistycznego .NET.
 
-3. Plik obrazu DICOM: Powinieneś mieć plik obrazu DICOM, którego rozmiar chcesz zmienić. Jeśli potrzebujesz przykładowego obrazu DICOM do testów, możesz go łatwo znaleźć w Internecie.
+3. Plik obrazu DICOM: Powinieneś mieć plik obrazu DICOM, którego rozmiar chcesz zmienić. Jeśli potrzebujesz przykładowego obrazu DICOM do testów, możesz go łatwo znaleźć online.
 
-4. Visual Studio (opcjonalnie): chociaż nie jest to obowiązkowe, korzystanie z programu Visual Studio w tym samouczku poprawi środowisko programistyczne.
+4. Visual Studio (opcjonalnie): Choć nie jest to obowiązkowe, korzystanie z programu Visual Studio na potrzeby tego samouczka wzbogaci Twoje doświadczenie związane z tworzeniem oprogramowania.
 
-Podzielmy teraz proces zmiany rozmiaru obrazu DICOM na proste, wykonalne kroki.
+Teraz omówimy proces zmiany rozmiaru obrazu DICOM na proste i możliwe do wykonania kroki.
 
 ## Krok 1: Importuj przestrzenie nazw
 
-Pierwszym krokiem jest zaimportowanie przestrzeni nazw niezbędnych do pracy z Aspose.Imaging. W projekcie C# uwzględnij następujące przestrzenie nazw:
+Pierwszym krokiem jest zaimportowanie niezbędnych przestrzeni nazw do pracy z Aspose.Imaging. W swoim projekcie C# uwzględnij następujące przestrzenie nazw:
 
 ```csharp
 using System;
@@ -41,15 +43,15 @@ using Aspose.Imaging.FileFormats.Dicom;
 using Aspose.Imaging.ImageOptions;
 ```
 
-Importując te przestrzenie nazw, zyskujesz dostęp do funkcjonalności wymaganych do przetwarzania obrazów DICOM.
+Importując te przestrzenie nazw, uzyskujesz dostęp do funkcjonalności wymaganych do przetwarzania obrazów DICOM.
 
 ## Krok 2: Zmiana rozmiaru obrazu DICOM
 
-Podzielmy teraz proces zmiany rozmiaru obrazu DICOM na kilka łatwych do wykonania kroków.
+Teraz podzielimy proces zmiany rozmiaru obrazu DICOM na kilka łatwiejszych do wykonania kroków.
 
 ### Krok 2.1: Ustaw katalog dokumentów
 
- W kodzie C# określ katalog, w którym znajduje się plik DICOM. Powinieneś wymienić`"Your Document Directory"` z rzeczywistą ścieżką do katalogu plików.
+W kodzie C# określ katalog, w którym znajduje się plik DICOM. Powinieneś zastąpić `"Your Document Directory"` z rzeczywistą ścieżką do katalogu plików.
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -57,7 +59,7 @@ string dataDir = "Your Document Directory";
 
 ### Krok 2.2: Otwórz plik DICOM
 
- Następnie otwórz plik DICOM za pomocą a`FileStream` . Upewnij się, że wymieniłeś`"file.dcm"` z nazwą pliku DICOM.
+Następnie otwórz plik DICOM za pomocą `FileStream`. Upewnij się, że wymienisz `"file.dcm"` z nazwą pliku DICOM.
 
 ```csharp
 using (var fileStream = new FileStream(dataDir + "file.dcm", FileMode.Open, FileAccess.Read))
@@ -68,7 +70,7 @@ using (var fileStream = new FileStream(dataDir + "file.dcm", FileMode.Open, File
 
 ### Krok 2.3: Załaduj obraz DICOM
 
- Załaduj obraz DICOM z pliku`fileStream`Umożliwia to dostęp do obrazu i wykonywanie na nim operacji.
+Załaduj obraz DICOM z `fileStream`. Dzięki temu można uzyskać dostęp do obrazu i wykonywać na nim operacje.
 
 ```csharp
 using (DicomImage image = new DicomImage(fileStream))
@@ -79,15 +81,15 @@ using (DicomImage image = new DicomImage(fileStream))
 
 ### Krok 2.4: Zmień rozmiar obrazu DICOM
 
-Po załadowaniu obrazu DICOM możesz teraz zmienić jego rozmiar do żądanych wymiarów. W tym przykładzie zmieniamy jego rozmiar na 200x200 pikseli.
+Po załadowaniu obrazu DICOM możesz teraz zmienić jego rozmiar na żądane wymiary. W tym przykładzie zmieniamy jego rozmiar na 200x200 pikseli.
 
 ```csharp
 image.Resize(200, 200);
 ```
 
-### Krok 2.5: Zapisz obraz o zmienionym rozmiarze
+### Krok 2.5: Zapisz zmieniony rozmiar obrazu
 
-Na koniec zapisz obraz DICOM o zmienionym rozmiarze w określonym katalogu wyjściowym. W tym przykładzie zapisujemy go jako plik BMP.
+Na koniec zapisz zmieniony rozmiar obrazu DICOM w określonym katalogu wyjściowym. W tym przykładzie zapisujemy go jako plik BMP.
 
 ```csharp
 image.Save(dataDir + "DICOMSimpleResizing_out.bmp", new BmpOptions());
@@ -95,34 +97,36 @@ image.Save(dataDir + "DICOMSimpleResizing_out.bmp", new BmpOptions());
 
 ## Wniosek
 
-Gratulacje! Pomyślnie zmieniłeś rozmiar obrazu DICOM przy użyciu Aspose.Imaging dla .NET. Dzięki tym prostym krokom możesz skutecznie manipulować obrazami medycznymi, aby spełnić Twoje specyficzne wymagania.
+Gratulacje! Udało Ci się zmienić rozmiar obrazu DICOM przy użyciu Aspose.Imaging dla .NET. Dzięki tym prostym krokom możesz sprawnie manipulować obrazami medycznymi, aby spełnić swoje specyficzne wymagania.
 
- Jeśli napotkasz jakiekolwiek problemy lub masz pytania dotyczące Aspose.Imaging dla .NET, nie wahaj się zwrócić o pomoc do wspierającej społeczności na stronie[Forum Aspose](https://forum.aspose.com/).
+Jeśli napotkasz jakiekolwiek problemy lub będziesz mieć pytania dotyczące Aspose.Imaging dla .NET, nie wahaj się szukać pomocy u społeczności wsparcia na stronie [Forum Aspose](https://forum.aspose.com/).
 
-## Często zadawane pytania
+## Najczęściej zadawane pytania
 
-### P1: Co to jest DICOM?
+### P1: Czym jest DICOM?
 
-A1: DICOM oznacza cyfrowe obrazowanie i komunikację w medycynie. Jest to standard przechowywania, przesyłania i udostępniania obrazów medycznych i powiązanych informacji.
+A1: DICOM oznacza Digital Imaging and Communications in Medicine. Jest to standard przechowywania, przesyłania i udostępniania obrazów medycznych i powiązanych informacji.
 
-### P2: Czy mogę używać Aspose.Imaging także do innych formatów obrazów?
+### P2: Czy mogę używać Aspose.Imaging również do innych formatów obrazów?
 
-O2: Tak, Aspose.Imaging dla .NET obsługuje szeroką gamę formatów obrazów poza DICOM, w tym BMP, JPEG, PNG i inne.
+A2: Tak, Aspose.Imaging dla .NET obsługuje szeroką gamę formatów obrazów wykraczających poza DICOM, w tym BMP, JPEG, PNG i inne.
 
-### P3: Czy do otwarcia obrazu o zmienionym rozmiarze wymagana jest przeglądarka DICOM?
+### P3: Czy do otwarcia zmienionego rozmiaru obrazu wymagana jest przeglądarka DICOM?
 
-O3: Nie, po zmianie rozmiaru obrazu DICOM przy użyciu Aspose.Imaging, powstały obraz ma standardowy format obrazu (np. BMP) i można go oglądać w popularnych przeglądarkach obrazów.
+A3: Nie. Po zmianie rozmiaru obrazu DICOM za pomocą programu Aspose.Imaging, powstały obraz jest zapisywany w standardowym formacie (np. BMP) i można go przeglądać za pomocą popularnych przeglądarek obrazów.
 
-### P4: Czy Aspose.Imaging for .NET jest kompatybilny ze wszystkimi wersjami .NET Framework?
+### P4: Czy Aspose.Imaging dla .NET jest kompatybilny ze wszystkimi wersjami .NET Framework?
 
-O4: Aspose.Imaging dla .NET jest kompatybilny z różnymi wersjami .NET Framework, w tym .NET Core i .NET Standard. Koniecznie sprawdź dokumentację, aby poznać szczegóły.
+A4: Aspose.Imaging for .NET jest kompatybilny z różnymi wersjami .NET Framework, w tym .NET Core i .NET Standard. Sprawdź dokumentację, aby uzyskać szczegółowe informacje.
 
-### P5: Gdzie mogę znaleźć więcej samouczków Aspose.Imaging dla .NET?
+### P5: Gdzie mogę znaleźć więcej samouczków dotyczących Aspose.Imaging dla platformy .NET?
 
- Odpowiedź 5: Możesz eksplorować[Dokumentacja Aspose.Imaging dla .NET](https://reference.aspose.com/imaging/net/) dla szerokiej gamy samouczków i przykładów.
+A5: Możesz eksplorować   [Dokumentacja Aspose.Imaging dla .NET](https://reference.aspose.com/imaging/net/) gdzie znajdziesz szeroką gamę samouczków i przykładów.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

@@ -1,52 +1,54 @@
 ---
-title: Forgassa el a DICOM képeket az Aspose.Imaging for .NET segítségével
-linktitle: Forgassa el a DICOM-képet az Aspose.Imaging for .NET-ben
-second_title: Aspose.Imaging .NET Image Processing API
-description: Fedezze fel a DICOM-képforgatást az Aspose.Imaging for .NET segítségével. Lépésről lépésre útmutató az orvosi képek manipulálásához.
-weight: 11
-url: /hu/net/image-transformation/rotate-dicom-image/
+"description": "Fedezze fel a DICOM képforgatást az Aspose.Imaging for .NET segítségével. Lépésről lépésre útmutató az orvosi képek manipulálásához."
+"linktitle": "DICOM kép elforgatása az Aspose.Imaging for .NET programban"
+"second_title": "Aspose.Imaging .NET képfeldolgozó API"
+"title": "DICOM képek forgatása az Aspose.Imaging for .NET segítségével"
+"url": "/hu/net/image-transformation/rotate-dicom-image/"
+"weight": 11
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Forgassa el a DICOM képeket az Aspose.Imaging for .NET segítségével
+# DICOM képek forgatása az Aspose.Imaging for .NET segítségével
 
 ## Bevezetés
 
-mai digitális korban a képfeldolgozás a különféle iparágak szerves részévé vált, az egészségügytől a tervezésig és azon túl is. Ha Ön .NET-fejlesztő, aki orvosi képeket szeretne manipulálni és javítani, az Aspose.Imaging for .NET egy hatékony eszköz az Ön rendelkezésére. Ebben az átfogó útmutatóban végigvezetjük a DICOM-kép elforgatásának folyamatán az Aspose.Imaging for .NET használatával.
+A mai digitális korban a képfeldolgozás számos iparág szerves részévé vált, az egészségügytől a tervezésen át egészen azon túlig. Ha Ön .NET fejlesztő, aki orvosi képeket szeretne manipulálni és javítani, az Aspose.Imaging for .NET egy hatékony eszköz a rendelkezésére. Ebben az átfogó útmutatóban végigvezetjük Önt egy DICOM kép forgatásának folyamatán az Aspose.Imaging for .NET segítségével.
 
-Akár tapasztalt fejlesztő, akár csak most kezdi utazását a képfeldolgozás világába, ez az oktatóanyag világos, lépésről lépésre szóló utasításokat tartalmaz, amelyek biztosítják, hogy sikeresen elforgathassa a DICOM-képeket, és integrálja ezt a funkciót .NET-alkalmazásaiba. . Egyből merüljünk bele!
+Akár tapasztalt fejlesztő vagy, akár csak most ismerkedsz a képfeldolgozás világával, ez az oktatóanyag világos, lépésről lépésre bemutatja, hogyan forgathatod el sikeresen a DICOM képeket, és hogyan integrálhatod ezt a funkciót .NET alkalmazásaidba. Vágjunk bele azonnal!
 
 ## Előfeltételek
 
-Mielőtt belemerülnénk az Aspose.Imaging for .NET használatával forgó DICOM-képek izgalmas világába, elengedhetetlen a következő előfeltételek teljesítése:
+Mielőtt belemerülnénk a DICOM képek forgatásának izgalmas világába az Aspose.Imaging for .NET segítségével, elengedhetetlen, hogy a következő előfeltételek teljesüljenek:
 
-1. Környezet beállítása: Győződjön meg arról, hogy működő fejlesztői környezettel rendelkezik telepített Visual Studio és .NET-keretrendszerrel.
+1. Környezet beállítása: Győződjön meg arról, hogy rendelkezik egy működő fejlesztői környezettel, amelyen telepítve van a Visual Studio és a .NET Framework.
 
-2. Aspose.Imaging for .NET Library: Töltse le és telepítse az Aspose.Imaging for .NET webhelyről[letöltési link](https://releases.aspose.com/imaging/net/).
+2. Aspose.Imaging for .NET könyvtár: Töltse le és telepítse az Aspose.Imaging for .NET-et a következő helyről: [letöltési link](https://releases.aspose.com/imaging/net/).
 
-3. DICOM-kép: A munkához egy DICOM-képfájlra lesz szüksége. Ha nem rendelkezik ilyennel, találhat DICOM-mintákat az interneten, vagy használhatja a sajátját.
+3. DICOM kép: Szükséged lesz egy DICOM képfájlra a munkához. Ha nincs ilyened, online találhatsz minta DICOM képeket, vagy használhatsz sajátot.
 
-4. Alapvető C# ismeretek: Az oktatóanyag követéséhez a C# alapvető ismerete szükséges.
+4. C# alapismeretek: A bemutató követéséhez alapvető C# ismeretekre van szükség.
 
-Most, hogy teljesítettük az előfeltételeket, folytassuk a szükséges névterek importálását a DICOM-képforgatás megkezdéséhez.
+Most, hogy lefedtük az előfeltételeket, folytassuk a szükséges névterek importálásával, hogy elkezdhessük a DICOM képelforgatást.
 
 ## Névterek importálása
 
-Először is importálnunk kell a megfelelő névtereket az Aspose.Imaging for .NET könyvtár eléréséhez és a DICOM lemezképekkel való munkavégzéshez. A következőképpen teheti meg:
+Először is importálnunk kell a megfelelő névtereket az Aspose.Imaging for .NET könyvtár eléréséhez és a DICOM képekkel való munkához. Így teheted meg:
 
 ```csharp
 using Aspose.Imaging;
 using Aspose.Imaging.FileFormats.Dicom;
 ```
 
-Most bontsuk le a példát több lépésre egy lépésről-lépésre útmutató formátumban, hogy a DICOM-képek elforgatásának folyamata kezelhetőbb legyen.
+Most bontsuk le a példát több lépésre egy lépésről lépésre bemutató formátumban, hogy a DICOM kép forgatásának folyamata könnyebben kezelhető legyen.
 
-## 1. lépés: Töltse be a DICOM-képet
+## 1. lépés: Töltse be a DICOM képet
 
-Kezdje az elforgatni kívánt DICOM-kép betöltésével. Ezt általában a kép fájlból történő kiolvasásával érik el. Ebben a példában egy fájlfolyamot használunk:
+Kezdje a forgatni kívánt DICOM kép betöltésével. Ezt jellemzően egy fájlból olvassuk be a képet. Ebben a példában egy fájlfolyamot használunk:
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -59,9 +61,9 @@ using (var fileStream = new FileStream(dataDir + "file.dcm", FileMode.Open, File
 }
 ```
 
-## 2. lépés: Forgassa el a DICOM-képet
+## 2. lépés: A DICOM kép elforgatása
 
-Most jön az izgalmas rész – a DICOM-kép elforgatása. Ebben a példában 10 fokkal elforgatjuk a képet, de beállíthatja a szöget saját igényei szerint:
+Most jön az izgalmas rész – a DICOM kép elforgatása. Ebben a példában 10 fokkal forgatjuk el a képet, de a szöget az igényeidnek megfelelően állíthatod be:
 
 ```csharp
 image.Rotate(10);
@@ -69,7 +71,7 @@ image.Rotate(10);
 
 ## 3. lépés: Mentse el az elforgatott képet
 
-Az elforgatás befejezése után elengedhetetlen az elforgatott DICOM-kép mentése. BMP fájlként mentjük:
+forgatás befejezése után elengedhetetlen az elforgatott DICOM kép mentése. BMP fájlként fogjuk menteni:
 
 ```csharp
 image.Save(dataDir + "RotatingDICOMImage_out.bmp", new BmpOptions());
@@ -77,32 +79,34 @@ image.Save(dataDir + "RotatingDICOMImage_out.bmp", new BmpOptions());
 
 ## Következtetés
 
-Gratulálunk! Sikeresen elforgatott egy DICOM-képet az Aspose.Imaging for .NET használatával. Ez a nagy teljesítményű könyvtár lehetővé teszi az orvosi képek egyszerű manipulálását, és lehetőségeket nyit meg különféle alkalmazások számára az egészségügyben és azon kívül. Az ebben az útmutatóban ismertetett lépésekkel zökkenőmentesen integrálhatja a képforgatást .NET-projektjeibe.
+Gratulálunk! Sikeresen elforgatott egy DICOM képet az Aspose.Imaging for .NET segítségével. Ez a hatékony könyvtár lehetővé teszi az orvosi képek egyszerű manipulálását, megnyitva az utat az egészségügyben és azon túl is számos alkalmazás előtt. Az útmutatóban ismertetett lépésekkel mostantól zökkenőmentesen integrálhatja a képforgatást .NET-projektjeibe.
 
 ## GYIK
 
-### 1. kérdés: Mi az a DICOM, és miért fontos az orvosi területen?
+### 1. kérdés: Mi a DICOM, és miért fontos az orvostudományban?
 
-A1: A DICOM a Digital Imaging and Communications in Medicine rövidítése. Ez az orvosi képek tárolásának és továbbításának szabványa, amely elengedhetetlen az orvosi adatok hatékony megosztásához és eléréséhez.
+A1: A DICOM a Digital Imaging and Communications in Medicine (Digitális képalkotás és kommunikáció az orvostudományban) rövidítése. Ez az orvosi képek tárolására és továbbítására szolgáló szabvány, így elengedhetetlen az orvosi adatok hatékony megosztásához és eléréséhez.
 
-### 2. kérdés: Az Aspose.Imaging for .NET kezelhet más képkezelési feladatokat?
+### 2. kérdés: Az Aspose.Imaging for .NET képes más képmanipulációs feladatok kezelésére is?
 
-2. válasz: Igen, az Aspose.Imaging for .NET funkciók széles skáláját kínálja a képfeldolgozáshoz, beleértve az átalakítást, az átméretezést és egyebeket.
+V2: Igen, az Aspose.Imaging for .NET számos képfeldolgozási funkciót kínál, beleértve a konvertálást, átméretezést és egyebeket.
 
-### 3. kérdés: Hol találhatok további dokumentációt és támogatást az Aspose.Imaging for .NET-hez?
+### 3. kérdés: Hol találok további dokumentációt és támogatást az Aspose.Imaging for .NET-hez?
 
- 3. válasz: A dokumentációt a címen érheti el[Aspose.Imaging for .NET Documentation](https://reference.aspose.com/imaging/net/) és kérjen segítséget a[Aspose.Imaging fórum](https://forum.aspose.com/).
+A3: A dokumentációt a következő címen érheti el: [Aspose.Imaging .NET dokumentációhoz](https://reference.aspose.com/imaging/net/) és kérjen segítséget a [Aspose.Imaging fórum](https://forum.aspose.com/).
 
-### 4. kérdés: Az Aspose.Imaging for .NET alkalmas kezdők és tapasztalt fejlesztők számára is?
+### 4. kérdés: Az Aspose.Imaging for .NET alkalmas mind a kezdő, mind a tapasztalt fejlesztők számára?
 
-A4: Abszolút! Az Aspose.Imaging for .NET minden képzettségi szintű fejlesztőt kínál, könnyen használható szolgáltatásokat és fejlett funkciókat biztosítva.
+A4: Teljesen egyetértek! Az Aspose.Imaging for .NET minden képzettségi szintű fejlesztő számára megfelelő, könnyen használható funkciókat és fejlett lehetőségeket kínálva.
 
-### 5. kérdés: Vannak licencelési lehetőségek az Aspose.Imaging for .NET számára?
+### 5. kérdés: Vannak licencelési lehetőségek az Aspose.Imaging for .NET-hez?
 
- 5. válasz: Igen, felfedezheti a licencelési lehetőségeket, beleértve az ingyenes próbaverziót és a vásárlást, a webhelyen[Aspose.Imaging vásárlási oldal](https://purchase.aspose.com/buy) és[ideiglenes engedélyek](https://purchase.aspose.com/temporary-license/).
+5. válasz: Igen, megtekintheti a licencelési lehetőségeket, beleértve az ingyenes próbaverziót és a vásárlást is, a következő címen: [Aspose.Imaging vásárlási oldal](https://purchase.aspose.com/buy) és [ideiglenes engedélyek](https://purchase.aspose.com/temporary-license/).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

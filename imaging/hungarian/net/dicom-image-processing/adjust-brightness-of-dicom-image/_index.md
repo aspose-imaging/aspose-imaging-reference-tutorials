@@ -1,33 +1,35 @@
 ---
-title: Állítsa be a DICOM kép fényerejét az Aspose.Imaging for .NET segítségével
-linktitle: Állítsa be a DICOM kép fényerejét az Aspose.Imaging for .NET programban
-second_title: Aspose.Imaging .NET Image Processing API
-description: Ismerje meg, hogyan állíthatja be a DICOM-kép fényerejét az Aspose.Imaging for .NET alkalmazásban. Egyszerűen javíthatja az orvosi képeket.
-weight: 10
-url: /hu/net/dicom-image-processing/adjust-brightness-of-dicom-image/
+"description": "Tanulja meg, hogyan állíthatja be a DICOM képek fényerejét az Aspose.Imaging for .NET programban. Javítsa orvosi képeit egyszerűen."
+"linktitle": "DICOM kép fényerejének beállítása az Aspose.Imaging for .NET programban"
+"second_title": "Aspose.Imaging .NET képfeldolgozó API"
+"title": "DICOM kép fényerejének beállítása az Aspose.Imaging for .NET segítségével"
+"url": "/hu/net/dicom-image-processing/adjust-brightness-of-dicom-image/"
+"weight": 10
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Állítsa be a DICOM kép fényerejét az Aspose.Imaging for .NET segítségével
+# DICOM kép fényerejének beállítása az Aspose.Imaging for .NET segítségével
 
-Az orvosi képalkotás világában a DICOM (Digital Imaging and Communications in Medicine) fájlok kezelése rendkívül fontos. Ezek a fájlok létfontosságú egészségügyi adatokat tartalmaznak, és néha módosítani kell a bennük lévő képeket, például módosítani kell a fényerőt. Ebben a lépésenkénti útmutatóban bemutatjuk, hogyan állíthatja be a DICOM-képek fényerejét az Aspose.Imaging for .NET segítségével.
+Az orvosi képalkotás világában a DICOM (Digital Imaging and Communications in Medicine) fájlok kezelése rendkívül fontos. Ezek a fájlok létfontosságú orvosi adatokat tartalmaznak, és néha szükség van a bennük lévő képek módosítására, például a fényerő megváltoztatására. Ebben a lépésről lépésre bemutatjuk, hogyan állíthatja be egy DICOM kép fényerejét az Aspose.Imaging for .NET segítségével.
 
 ## Előfeltételek
 
-Mielőtt belemerülnénk a lépésről lépésre történő folyamatba, győződjön meg arról, hogy a következő előfeltételek teljesülnek:
+Mielőtt belemerülnénk a lépésről lépésre történő folyamatba, győződjünk meg arról, hogy a következő előfeltételek teljesülnek:
 
--  Aspose.Imaging for .NET: Ezt a hatékony könyvtárat telepítenie kell. Ha nem, akkor letöltheti a[weboldal](https://releases.aspose.com/imaging/net/).
+- Aspose.Imaging .NET-hez: Ennek a hatékony könyvtárnak telepítve kell lennie. Ha nincs, letöltheti innen: [weboldal](https://releases.aspose.com/imaging/net/).
 
-- Az Ön dokumentumkönyvtára: Győződjön meg arról, hogy beállított egy könyvtárat, ahol tárolhatja DICOM képfájljait.
+- Dokumentumkönyvtár: Győződjön meg arról, hogy van egy könyvtár, ahová a DICOM képfájlokat tárolhatja.
 
-Most, hogy az előfeltételeket lefedtük, folytassuk a DICOM-képek fényerejének beállítását.
+Most, hogy az előfeltételekkel tisztában vagyunk, folytassuk a DICOM kép fényerejének beállításával.
 
 ## Névterek importálása
 
-A C# projektben importálnia kell az Aspose.Imaging használatához szükséges névtereket. Helyezze el a következő névtereket a kódfájl tetején:
+A C# projektedben importálnod kell a szükséges névtereket az Aspose.Imaging használatához. A következő névtereket kell a kódfájl elejére illesztened:
 
 ```csharp
 using System;
@@ -36,9 +38,9 @@ using Aspose.Imaging.FileFormats.Dicom;
 using Aspose.Imaging.ImageOptions;
 ```
 
-## 1. lépés: Inicializálja a DicomImage-et
+## 1. lépés: A DicomImage inicializálása
 
- Először is inicializálnia kell a`DicomImage` osztályba a DICOM képfájl betöltésével. Íme, hogyan kell csinálni:
+Először is inicializálnod kell a `DicomImage` osztály a DICOM képfájl betöltésével. Így teheted meg:
 
 ```csharp
 // A dokumentumok könyvtárának elérési útja.
@@ -46,64 +48,66 @@ string dataDir = "Your Document Directory";
 using (var fileStream = new FileStream(dataDir + "file.dcm", FileMode.Open, FileAccess.Read))
 using (DicomImage image = new DicomImage(fileStream))
 {
-    // A kódod ide kerül
+    // A kódod ide fog kerülni
 }
 ```
 
- A fenti kódban cserélje ki`"Your Document Directory"` a dokumentumkönyvtár tényleges elérési útjával és`"file.dcm"` a DICOM fájl nevével.
+A fenti kódban cserélje ki a `"Your Document Directory"` a dokumentumkönyvtár tényleges elérési útjával és `"file.dcm"` a DICOM fájl nevével.
 
 ## 2. lépés: Állítsa be a fényerőt
 
- Benne`using`blokkot, most beállíthatja a DICOM-kép fényerejét. Ebben a példában a fényerőt 50 egységgel növeljük, de ezt az értéket szükség szerint módosíthatja:
+Bent a `using` blokkban most már beállíthatja a DICOM kép fényerejét. Ebben a példában 50 egységgel növeljük a fényerőt, de ezt az értéket szükség szerint módosíthatja:
 
 ```csharp
 // Állítsa be a fényerőt
 image.AdjustBrightness(50);
 ```
 
-Ez a lépés biztosítja, hogy a DICOM kép fényereje az Ön igényei szerint módosuljon.
+Ez a lépés biztosítja, hogy a DICOM kép fényereje az Ön igényeinek megfelelően módosuljon.
 
 ## 3. lépés: Mentse el a kapott képet
 
- A fényerő beállítása után elengedhetetlen a módosított kép mentése. Ehhez hozzon létre egy példányt a`BmpOptions` az eredményül kapott képhez, és mentse el BMP-fájlként:
+Miután beállítottad a fényerőt, elengedhetetlen a módosított kép mentése. Ehhez hozz létre egy példányt a következőből: `BmpOptions` a kapott képhez, és mentse el BMP fájlként:
 
 ```csharp
-// Hozzon létre egy BmpOptions példányt az eredményül kapott képhez, és mentse az eredményül kapott képet
+// Hozz létre egy BmpOptions példányt a kapott képhez, és mentsd el a kapott képet.
 image.Save(dataDir + "AdjustBrightnessDICOM_out.bmp", new BmpOptions());
 ```
 
- Győződjön meg róla, hogy cseréli`"AdjustBrightnessDICOM_out.bmp"` a kívánt kimeneti fájlnévvel és hellyel.
+Győződjön meg róla, hogy kicseréli `"AdjustBrightnessDICOM_out.bmp"` a kívánt kimeneti fájl nevével és helyével.
 
 ## Következtetés
 
-Ebben az oktatóanyagban bemutattuk, hogyan állítható be a DICOM-képek fényereje az Aspose.Imaging for .NET használatával. Ez a könyvtár leegyszerűsíti az orvosi képalkotó adatokkal végzett munka folyamatát, megkönnyítve a képek javítását és módosítását különféle orvosi célokra.
+Ebben az oktatóanyagban bemutattuk, hogyan állítható be egy DICOM kép fényereje az Aspose.Imaging for .NET segítségével. Ez a könyvtár leegyszerűsíti az orvosi képalkotó adatokkal való munkát, megkönnyítve a képek javítását és módosítását különféle orvosi célokra.
 
-Ahogy felfedezi az Aspose.Imaging képességeit, azt fogja találni, hogy értékes eszköz az orvosi képalkotó munkafolyamatban. Nyugodtan kísérletezzen különböző fényerő-értékekkel a kívánt eredmény elérése érdekében. Ezzel a tudással hatékonyan kezelheti és javíthatja a DICOM-képeket az orvosi projektekben.
+Ahogy felfedezed az Aspose.Imaging képességeit, értékes eszköznek fogod találni az orvosi képalkotási munkafolyamatodban. Kísérletezz szabadon különböző fényerőértékekkel a kívánt eredmények elérése érdekében. Ezzel a tudással hatékonyan kezelheted és javíthatod a DICOM képeket az orvosi projektjeidben.
 
 ## GYIK
 
-### 1. kérdés: Az Aspose.Imaging for .NET alkalmas az orvosi képalkotás területén dolgozó szakemberek számára?
+### 1. kérdés: Alkalmas-e az Aspose.Imaging for .NET az orvosi képalkotás területén dolgozó szakemberek számára?
 
-1. válasz: Igen, az Aspose.Imaging egy sokoldalú könyvtár, amelyet az orvosi képalkotás területén dolgozó szakemberek használnak a DICOM-fájlok hatékony feldolgozására, javítására és kezelésére.
+V1: Igen, az Aspose.Imaging egy sokoldalú könyvtár, amelyet az orvosi képalkotás területén dolgozó szakemberek használnak a DICOM fájlok hatékony feldolgozására, javítására és kezelésére.
 
-### 2. kérdés: Használhatom az Aspose.Imaging programot személyes és kereskedelmi célokra is?
+### 2. kérdés: Használhatom az Aspose.Imaging-et személyes és kereskedelmi célokra is?
 
- 2. válasz: Az Aspose.Imaging licencelési lehetőségeket kínál személyes és kereskedelmi használatra egyaránt. Ezeket a lehetőségeket a[vásárlási oldal](https://purchase.aspose.com/buy).
+A2: Az Aspose.Imaging licencelési lehetőségeket kínál mind személyes, mind kereskedelmi használatra. Ezeket a lehetőségeket a következő helyen tekintheti meg: [vásárlási oldal](https://purchase.aspose.com/buy).
 
-### 3. kérdés: Elérhető-e próbaverzió az Aspose.Imaging for .NET-hez?
+### 3. kérdés: Van elérhető próbaverzió az Aspose.Imaging for .NET-hez?
 
- 3. válasz: Igen, letöltheti az Aspose.Imaging ingyenes próbaverzióját a webhelyről[itt](https://releases.aspose.com/).
+A3: Igen, letöltheti az Aspose.Imaging ingyenes próbaverzióját innen: [itt](https://releases.aspose.com/).
 
-### 4. kérdés: Hol találhatok további támogatást vagy segítséget az Aspose.Imaging szolgáltatással kapcsolatban?
+### 4. kérdés: Hol találok további támogatást vagy segítséget az Aspose.Imaginghez?
 
-4. válasz: Támogatást kaphat, és kapcsolatba léphet az Aspose.Imaging közösséggel a webhelyen[Aspose fórumok](https://forum.aspose.com/).
+A4: Támogatást kaphat és kapcsolatba léphet az Aspose.Imaging közösséggel a következő címen: [Aspose fórumok](https://forum.aspose.com/).
 
-### 5. kérdés: Milyen egyéb képkezelési funkciókat kínál az Aspose.Imaging?
+### 5. kérdés: Milyen egyéb képmanipulációs funkciókat kínál az Aspose.Imaging?
 
-A5: Az Aspose.Imaging funkciók széles skáláját kínálja a képkezeléshez, beleértve az átméretezést, a vágást, az elforgatást és a különféle szűrési lehetőségeket, így átfogó megoldást jelent az orvosi képekkel való munkavégzéshez.
+A5: Az Aspose.Imaging számos képmanipulációs funkciót kínál, beleértve az átméretezést, a vágást, az forgatást és a különféle szűrési lehetőségeket, így átfogó megoldást kínál az orvosi képekkel való munkához.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

@@ -1,33 +1,35 @@
 ---
-title: Aspose.Imaging for Java ile DICOM Görüntü Kontrast Ayarı
-linktitle: DICOM Görüntü Kontrast Ayarı
-second_title: Aspose.Imaging Java Görüntü İşleme API'si
-description: Aspose.Imaging for Java'yı kullanarak DICOM görüntülerinin kontrastını nasıl ayarlayacağınızı öğrenin. Tıbbi görüntülerin görsel kalitesini zahmetsizce artırın.
-weight: 23
-url: /tr/java/image-processing-and-enhancement/dicom-image-contrast-adjustment/
+"description": "Java için Aspose.Imaging'i kullanarak DICOM görüntülerindeki kontrastı nasıl ayarlayacağınızı öğrenin. Tıbbi görüntülerin görsel kalitesini zahmetsizce artırın."
+"linktitle": "DICOM Görüntü Kontrast Ayarı"
+"second_title": "Aspose.Imaging Java Görüntü İşleme API'si"
+"title": "Java için Aspose.Imaging ile DICOM Görüntü Kontrast Ayarlaması"
+"url": "/tr/java/image-processing-and-enhancement/dicom-image-contrast-adjustment/"
+"weight": 23
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Aspose.Imaging for Java ile DICOM Görüntü Kontrast Ayarı
+# Java için Aspose.Imaging ile DICOM Görüntü Kontrast Ayarlaması
 
-Sürekli gelişen tıbbi görüntüleme alanında, görüntü kontrastını ayarlama yeteneği büyük önem taşımaktadır. Aspose.Imaging for Java'nın gücüyle, DICOM (Tıpta Dijital Görüntüleme ve İletişim) görüntülerini zahmetsizce değiştirerek görsel kalitelerini artırabilirsiniz. Bu eğitim, hassas ve etkili görüntü kontrastı ayarlamaları yapmanızı sağlayarak süreç boyunca size adım adım rehberlik edecektir.
+Sürekli gelişen tıbbi görüntüleme alanında, görüntü kontrastını ayarlama yeteneği son derece önemlidir. Java için Aspose.Imaging'in gücüyle, DICOM (Tıpta Dijital Görüntüleme ve İletişim) görüntülerini görsel kalitelerini artırmak için zahmetsizce düzenleyebilirsiniz. Bu eğitim, sizi adım adım süreçte yönlendirerek hassas ve etkili görüntü kontrastı ayarlamaları elde etmenizi sağlayacaktır.
 
-## Önkoşullar
+## Ön koşullar
 
-Bu eğitime dalmadan önce aşağıdaki önkoşulların mevcut olduğundan emin olun:
+Bu eğitime başlamadan önce aşağıdaki ön koşulların mevcut olduğundan emin olun:
 
-1.  Aspose.Imaging for Java: DICOM görüntüleri ile çalışmak ve kontrast ayarlamaları yapmak için Aspose.Imaging for Java'ya sahip olmanız gerekir. İndirebilirsin[Burada](https://releases.aspose.com/imaging/java/).
+1. Java için Aspose.Imaging: DICOM görüntüleriyle çalışmak ve kontrast ayarlamaları yapmak için Java için Aspose.Imaging'e sahip olmanız gerekir. İndirebilirsiniz [Burada](https://releases.aspose.com/imaging/java/).
 
-2. Java Geliştirme Ortamı: Java Geliştirme Kiti (JDK) ve seçtiğiniz entegre geliştirme ortamı (IDE) dahil, çalışan bir Java geliştirme ortamına sahip olduğunuzdan emin olun.
+2. Java Geliştirme Ortamı: Java Geliştirme Kiti (JDK) ve seçtiğiniz entegre geliştirme ortamı (IDE) dahil olmak üzere çalışan bir Java geliştirme ortamına sahip olduğunuzdan emin olun.
 
-3. DICOM Görüntüsü: Ayarlamak istediğiniz DICOM görüntüsünü hazırlayın. Test amacıyla örnek DICOM görüntülerini bulabilir veya kendinizinkini kullanabilirsiniz.
+3. DICOM Görüntüsü: Ayarlamak istediğiniz DICOM görüntüsünü hazırlayın. Test amaçlı örnek DICOM görüntüleri bulabilir veya kendinizinkini kullanabilirsiniz.
 
 ## Paketleri İçe Aktar
 
-Java projenizde Aspose.Imaging for Java'dan gerekli paketleri içe aktarın. Bu paketler, DICOM görüntüleri üzerinde kontrast ayarlaması yapmak için gereken araçları ve işlevleri sağlayacaktır.
+Java projenizde, Aspose.Imaging for Java'dan gerekli paketleri içe aktarın. Bu paketler, DICOM görüntülerinde kontrast ayarlaması yapmak için gereken araçları ve işlevleri sağlayacaktır.
 
 ```java
 import com.aspose.imaging.imageoptions.BmpOptions;
@@ -38,9 +40,9 @@ import java.io.FileInputStream;
 import java.io.IOException;
 ```
 
-## 1. Adım: Dosya Yollarını Belirleyin
+## Adım 1: Dosya Yollarını Belirleyin
 
- Giriş DICOM görüntünüzün ve çıkış BMP görüntünüzün yollarını tanımlayın. Değiştirdiğinizden emin olun`"Your Document Directory"` belge dizininizin gerçek yolu ile.
+Giriş DICOM görüntünüz ve çıkış BMP görüntünüz için yolları tanımlayın. Değiştirdiğinizden emin olun `"Your Document Directory"` belge dizininize giden gerçek yol ile.
 
 ```java
 String dataDir = "Your Document Directory" + "dicom/";
@@ -50,14 +52,14 @@ String outputFile = "Your Document Directory" + "AdjustingContrast_out.bmp";
 
 ## Adım 2: DICOM Görüntüsünü Yükleyin
 
-DICOM görüntüsünü belirtilen giriş dosyasından yüklemek için aşağıdaki kodu kullanın.
+Belirtilen giriş dosyasından DICOM görüntüsünü yüklemek için aşağıdaki kodu kullanın.
 
 ```java
 File file = new File(inputFile);
 
 try (FileInputStream fis = new FileInputStream(file)) {
     try (DicomImage image = (DicomImage) Image.load(fis)) {
-        // Bu blokta daha ileri adımlar atılacak
+        // Bu blok içerisinde daha ileri adımlar atılacak
     }
 } catch (IOException ex) {
     Logger.println(ex.getMessage());
@@ -65,17 +67,17 @@ try (FileInputStream fis = new FileInputStream(file)) {
 }
 ```
 
-## 3. Adım: Kontrastı Ayarlayın
+## Adım 3: Kontrastı Ayarlayın
 
-DICOM görüntüsünü yüklediğiniz bloğun içinde görüntünün kontrastını ayarlayabilirsiniz. Bu örnekte kontrastı 50 birim arttırıyoruz.
+DICOM görüntüsünü yüklediğiniz bloğun içinde görüntünün kontrastını ayarlayabilirsiniz. Bu örnekte kontrastı 50 birim artırıyoruz.
 
 ```java
 image.adjustContrast(50);
 ```
 
-## Adım 4: BmpOptions Örneğini Oluşturun ve Görüntüyü Kaydedin
+## Adım 4: BmpOptions'ın bir örneğini oluşturun ve görüntüyü kaydedin
 
- Kontrastı ayarladıktan sonra bir örnek oluşturun.`BmpOptions` ortaya çıkan görüntü için ve kaydedin. Görüntü BMP formatında kaydedilecektir.
+Kontrastı ayarladıktan sonra, bir örnek oluşturun `BmpOptions` Sonuç görüntüsünü seçin ve kaydedin. Görüntü BMP formatında kaydedilecektir.
 
 ```java
 image.save(outputFile, new BmpOptions());
@@ -83,34 +85,36 @@ image.save(outputFile, new BmpOptions());
 
 ## Çözüm
 
-Tebrikler! Aspose.Imaging for Java'yı kullanarak DICOM görüntüsünün kontrastını başarıyla ayarladınız. Bu güçlü araç, tıbbi görüntülerin görsel kalitesini kolaylıkla artırmanıza olanak tanır.
+Tebrikler! Aspose.Imaging for Java kullanarak bir DICOM görüntüsünün kontrastını başarıyla ayarladınız. Bu güçlü araç, tıbbi görüntülerin görsel kalitesini kolaylıkla geliştirmenize olanak tanır.
 
-Aspose.Imaging for Java, DICOM görüntülerini değiştirme sürecini basitleştirerek sağlık profesyonelleri, araştırmacılar ve tıbbi görüntüleme verileriyle çalışan herkes için değerli bir varlık haline getiriyor.
+Java için Aspose.Imaging, DICOM görüntülerinin işlenmesi sürecini basitleştirerek sağlık profesyonelleri, araştırmacılar ve tıbbi görüntüleme verileriyle çalışan herkes için değerli bir varlık haline getirir.
 
-## SSS'ler
+## SSS
 
 ### S1: DICOM nedir ve tıbbi görüntülemede neden önemlidir?
 
-Cevap1: DICOM, Tıpta Dijital Görüntüleme ve İletişim anlamına gelir. Tıbbi görüntülerin ve ilgili bilgilerin iletilmesine, saklanmasına ve paylaşılmasına yönelik bir standarttır. DICOM, tıbbi görüntülerin farklı cihazlar ve yazılımlar arasında tutarlı bir şekilde görüntülenebilmesini ve yorumlanabilmesini sağlar.
+A1: DICOM, Tıpta Dijital Görüntüleme ve İletişim anlamına gelir. Tıbbi görüntüleri ve ilişkili bilgileri iletmek, depolamak ve paylaşmak için bir standarttır. DICOM, tıbbi görüntülerin farklı cihazlar ve yazılımlar arasında tutarlı bir şekilde görüntülenebilmesini ve yorumlanabilmesini sağlar.
 
-### S2: Aspose.Imaging for Java ile diğer görüntü formatlarının kontrastını ayarlayabilir miyim?
+### S2: Aspose.Imaging for Java ile diğer görüntü biçimlerinin kontrastını ayarlayabilir miyim?
 
-C2: Evet, Aspose.Imaging for Java, kontrastın ayarlanması da dahil olmak üzere çeşitli görüntü formatları için çok çeşitli görüntü işleme yetenekleri sağlar.
+C2: Evet, Aspose.Imaging for Java, kontrast ayarlama da dahil olmak üzere çeşitli görüntü biçimleri için geniş yelpazede görüntü işleme yetenekleri sağlar.
 
 ### S3: Aspose.Imaging for Java ile uygulayabileceğim başka görüntü geliştirme teknikleri var mı?
 
-Cevap3: Evet, Aspose.Imaging for Java parlaklık ayarı, yeniden boyutlandırma, kırpma ve daha fazlası gibi çok sayıda görüntü işleme işlevi sunar.
+C3: Evet, Aspose.Imaging for Java parlaklık ayarlama, yeniden boyutlandırma, kırpma ve daha fazlası gibi çok sayıda görüntü düzenleme işlevi sunar.
 
 ### S4: Aspose.Imaging for Java ticari kullanıma uygun mudur?
 
- Cevap4: Evet, Aspose.Imaging for Java ticari lisanslar ve destek sunmaktadır. Lisans satın alabilirsiniz[Burada](https://purchase.aspose.com/buy) veya geçici lisans seçeneklerini keşfedin[Burada](https://purchase.aspose.com/temporary-license/).
+A4: Evet, Aspose.Imaging for Java ticari lisanslar ve destek sunar. Bir lisans satın alabilirsiniz [Burada](https://purchase.aspose.com/buy) veya geçici lisans seçeneklerini keşfedin [Burada](https://purchase.aspose.com/temporary-license/).
 
 ### S5: Aspose.Imaging for Java için ek kaynakları ve desteği nerede bulabilirim?
 
- Cevap5: Belgeleri ve desteği şu adreste bulabilirsiniz:[Aspose.Imaging for Java forumu](https://forum.aspose.com/).
+A5: Dokümantasyon ve desteği şu adreste bulabilirsiniz: [Java forumu için Aspose.Imaging](https://forum.aspose.com/).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

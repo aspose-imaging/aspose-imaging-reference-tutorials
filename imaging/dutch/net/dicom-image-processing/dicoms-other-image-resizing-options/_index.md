@@ -1,93 +1,95 @@
 ---
-title: DICOM's andere opties voor het wijzigen van de afbeeldingsgrootte in Aspose.Imaging voor .NET
-linktitle: DICOM's andere opties voor het wijzigen van de afbeeldingsgrootte in Aspose.Imaging voor .NET
-second_title: Aspose.Imaging .NET-API voor beeldverwerking
-description: Leer hoe u het formaat van DICOM-afbeeldingen kunt wijzigen met Aspose.Imaging voor .NET. Een stapsgewijze handleiding voor efficiënte medische beeldmanipulatie.
-weight: 20
-url: /nl/net/dicom-image-processing/dicoms-other-image-resizing-options/
+"description": "Leer hoe u de grootte van DICOM-afbeeldingen kunt aanpassen met Aspose.Imaging voor .NET. Een stapsgewijze handleiding voor efficiënte medische beeldmanipulatie."
+"linktitle": "Andere DICOM-opties voor het wijzigen van de beeldgrootte in Aspose.Imaging voor .NET"
+"second_title": "Aspose.Imaging .NET-beeldverwerkings-API"
+"title": "Andere DICOM-opties voor het wijzigen van de beeldgrootte in Aspose.Imaging voor .NET"
+"url": "/nl/net/dicom-image-processing/dicoms-other-image-resizing-options/"
+"weight": 20
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# DICOM's andere opties voor het wijzigen van de afbeeldingsgrootte in Aspose.Imaging voor .NET
+# Andere DICOM-opties voor het wijzigen van de beeldgrootte in Aspose.Imaging voor .NET
 
-Wilt u werken met DICOM-afbeeldingen (Digital Imaging and Communications in Medicine) in uw .NET-toepassing? Aspose.Imaging voor .NET biedt een krachtige set tools om DICOM-afbeeldingen efficiënt te manipuleren. In deze zelfstudie gaan we dieper in op "DICOM's andere opties voor het wijzigen van de afbeeldingsgrootte" met behulp van Aspose.Imaging voor .NET. We behandelen de vereisten, importeren naamruimten en bieden een stapsgewijze handleiding om u te helpen het formaat van DICOM-afbeeldingen effectief te begrijpen en te implementeren.
+Wilt u met DICOM-afbeeldingen (Digital Imaging and Communications in Medicine) werken in uw .NET-applicatie? Aspose.Imaging voor .NET biedt een krachtige set tools om DICOM-afbeeldingen efficiënt te bewerken. In deze tutorial verdiepen we ons in "DICOM's andere opties voor het aanpassen van de beeldgrootte" met behulp van Aspose.Imaging voor .NET. We behandelen de vereisten, importeren naamruimten en bieden een stapsgewijze handleiding om u te helpen DICOM-afbeeldingen effectief aan te passen.
 
 ## Vereisten
 
-Voordat we beginnen, zorg ervoor dat u aan de volgende vereisten voldoet:
+Voordat we beginnen, moet u ervoor zorgen dat u aan de volgende voorwaarden voldoet:
 
-1. Installeer Aspose.Imaging voor .NET
-Als u met DICOM-images wilt werken met Aspose.Imaging voor .NET, moet u de bibliotheek installeren. U kunt het downloaden van de website.
+1. Aspose.Imaging voor .NET installeren
+Om met DICOM-afbeeldingen te werken met Aspose.Imaging voor .NET, moet u de bibliotheek installeren. U kunt deze downloaden van de website.
 
 [Download Aspose.Imaging voor .NET](https://releases.aspose.com/imaging/net/)
 
-2. Zet een ontwikkelomgeving op
+2. Een ontwikkelomgeving opzetten
 Zorg ervoor dat u een .NET-ontwikkelomgeving hebt ingesteld, inclusief Visual Studio of een andere compatibele IDE.
 
 3. DICOM-afbeelding
-zou een DICOM-afbeeldingsbestand moeten hebben (bijvoorbeeld "file.dcm") waarvan u de grootte wilt wijzigen met Aspose.Imaging voor .NET.
+U moet een DICOM-afbeeldingsbestand (bijvoorbeeld 'file.dcm') hebben waarvan u de grootte wilt wijzigen met Aspose.Imaging voor .NET.
 
 ## Naamruimten importeren
 
-In uw C#-code moet u de benodigde naamruimten importeren om Aspose.Imaging te gebruiken. Hier leest u hoe u het moet doen:
+In je C#-code moet je de benodigde naamruimten importeren om Aspose.Imaging te gebruiken. Zo doe je dat:
 
 ```csharp
 using Aspose.Imaging;
 using Aspose.Imaging.ImageOptions;
 ```
 
-Laten we nu het proces voor het wijzigen van de afbeeldingsgrootte in meerdere stappen opsplitsen.
+Laten we het proces voor het aanpassen van de afbeeldingsgrootte opsplitsen in meerdere stappen.
 
 ## Stap 1: Laad de DICOM-afbeelding
-Om te beginnen moet u de DICOM-image vanuit uw bestandssysteem laden.
+Om te beginnen moet u de DICOM-image laden vanuit uw bestandssysteem.
 
 ```csharp
 string dataDir = "Your Document Directory";
 using (var fileStream = new FileStream(dataDir + "file.dcm", FileMode.Open, FileAccess.Read))
 using (DicomImage image = new DicomImage(fileStream))
 {
-    // Jouw code hier
+    // Uw code hier
 }
 ```
 
-## Stap 2: Formaat aanpassen op hoogte proportioneel
-U kunt het formaat van de DICOM-afbeelding proportioneel wijzigen door de hoogte in pixels en het formaattype op te geven. In dit voorbeeld gebruiken we 'AdaptiveResample' als het formaatwijzigingstype.
+## Stap 2: Pas de grootte proportioneel aan op basis van de hoogte
+kunt de DICOM-afbeelding proportioneel vergroten of verkleinen door de hoogte in pixels en het formaattype op te geven. In dit voorbeeld gebruiken we 'AdaptiveResample' als formaattype.
 
 ```csharp
 image.ResizeHeightProportionally(100, ResizeType.AdaptiveResample);
 ```
 
 ## Stap 3: Sla de gewijzigde afbeelding op
-Nadat u het formaat van de afbeelding heeft gewijzigd, kunt u deze in het gewenste formaat opslaan. Hier slaan we het op als een BMP-afbeelding.
+Nadat u de afbeelding hebt aangepast, kunt u deze opslaan in het gewenste formaat. In dit geval slaan we hem op als een BMP-afbeelding.
 
 ```csharp
 image.Save(dataDir + "DICOMSOtherImageResizingOptions_out.bmp", new BmpOptions());
 ```
 
-## Stap 4: Formaat aanpassen op breedte proportioneel
-U kunt het formaat van de DICOM-afbeelding ook proportioneel wijzigen door de breedte in pixels en het formaattype op te geven.
+## Stap 4: Pas de breedte proportioneel aan
+U kunt de DICOM-afbeelding ook proportioneel van grootte veranderen door de breedte in pixels en het type formaatwijziging op te geven.
 
 ```csharp
 image1.ResizeWidthProportionally(150, ResizeType.AdaptiveResample);
 ```
 
 ## Stap 5: Sla de gewijzigde afbeelding op
-Sla de gewijzigde afbeelding op als een BMP-afbeelding, net als in de vorige stap.
+Sla de afbeelding met het gewijzigde formaat op als een BMP-afbeelding, net als in de vorige stap.
 
 ```csharp
 image1.Save(dataDir + "DICOMSOtherImageResizingOptions1_out.bmp", new BmpOptions());
 ```
 
-Gefeliciteerd! U hebt het formaat van een DICOM-afbeelding gewijzigd met Aspose.Imaging voor .NET. Deze bibliotheek biedt verschillende mogelijkheden voor het manipuleren van DICOM-beelden, waardoor het een waardevol hulpmiddel is voor toepassingen in de gezondheidszorg en medische beeldvorming.
+Gefeliciteerd! U hebt met succes een DICOM-afbeelding verkleind met Aspose.Imaging voor .NET. Deze bibliotheek biedt diverse opties voor het bewerken van DICOM-afbeeldingen, waardoor het een waardevolle tool is voor toepassingen in de gezondheidszorg en medische beeldvorming.
 
 ## Conclusie
 
-In deze zelfstudie hebben we "DICOM's andere opties voor het wijzigen van de grootte van afbeeldingen" onderzocht met behulp van Aspose.Imaging voor .NET. We hebben de vereisten behandeld, naamruimten geïmporteerd en een stapsgewijze handleiding gegeven voor het wijzigen van de grootte van DICOM-afbeeldingen. Aspose.Imaging for .NET vereenvoudigt het werken met medische beelden en biedt een breed scala aan functies voor toepassingen in de gezondheidszorg.
+In deze tutorial hebben we "DICOM's andere opties voor het aanpassen van de beeldgrootte" onderzocht met behulp van Aspose.Imaging voor .NET. We hebben de vereisten besproken, naamruimten geïmporteerd en een stapsgewijze handleiding gegeven voor het aanpassen van de grootte van DICOM-afbeeldingen. Aspose.Imaging voor .NET vereenvoudigt het werken met medische beelden en biedt een breed scala aan functies voor toepassingen in de gezondheidszorg.
 
-Heeft u meer vragen of heeft u hulp nodig bij Aspose.Imaging voor .NET? Bekijk de documentatie of bezoek het Aspose-communityforum voor ondersteuning:
+Heeft u nog vragen of hulp nodig met Aspose.Imaging voor .NET? Bekijk de documentatie of bezoek het Aspose communityforum voor ondersteuning:
 
 - [Aspose.Imaging voor .NET-documentatie](https://reference.aspose.com/imaging/net/)
 - [Aspose.Imaging voor .NET-ondersteuning](https://forum.aspose.com/)
@@ -96,7 +98,7 @@ Heeft u meer vragen of heeft u hulp nodig bij Aspose.Imaging voor .NET? Bekijk d
 
 ### Vraag 1: Wat is DICOM?
 
-A1: DICOM staat voor Digital Imaging and Communications in Medicine. Het is een standaard voor het verzenden, opslaan en delen van medische beelden, zoals röntgenfoto's, MRI's en CT-scans, in digitaal formaat.
+A1: DICOM staat voor Digital Imaging and Communications in Medicine. Het is een standaard voor het digitaal verzenden, opslaan en delen van medische beelden, zoals röntgenfoto's, MRI's en CT-scans.
 
 ### V2: Kan ik Aspose.Imaging voor .NET gratis gebruiken?
 
@@ -104,18 +106,20 @@ A2: Aspose.Imaging voor .NET is een commerciële bibliotheek. U kunt een gratis 
 
 ### V3: Welke andere opties voor beeldmanipulatie biedt Aspose.Imaging voor .NET?
 
-A3: Aspose.Imaging voor .NET biedt een breed scala aan beeldverwerkingsopties, waaronder formaatconversie, beeldverbetering en tekenen op afbeeldingen. U kunt de volledige set functies verkennen in de documentatie.
+A3: Aspose.Imaging voor .NET biedt een breed scala aan beeldverwerkingsopties, waaronder formaatconversie, beeldverbetering en tekenen op afbeeldingen. U kunt de volledige set functies bekijken in de documentatie.
 
-### Vraag 4: Is Aspose.Imaging voor .NET geschikt voor toepassingen in de gezondheidszorg?
+### V4: Is Aspose.Imaging voor .NET geschikt voor toepassingen in de gezondheidszorg?
 
-A4: Ja, Aspose.Imaging for .NET wordt vaak gebruikt in toepassingen in de gezondheidszorg voor het verwerken van DICOM-beelden, waardoor het een waardevol hulpmiddel is voor de ontwikkeling van software voor medische beeldvorming.
+A4: Ja, Aspose.Imaging voor .NET wordt veel gebruikt in toepassingen in de gezondheidszorg voor het verwerken van DICOM-beelden, waardoor het een waardevol hulpmiddel is voor de ontwikkeling van software voor medische beeldvorming.
 
-### V5: Kan ik een tijdelijke licentie verkrijgen voor Aspose.Imaging voor .NET?
+### V5: Kan ik een tijdelijke licentie voor Aspose.Imaging voor .NET krijgen?
 w
- A5: Ja, u kunt een tijdelijke licentie verkrijgen voor test- en evaluatiedoeleinden. Bezoek[Aspose's tijdelijke licentiepagina](https://purchase.aspose.com/temporary-license/) voor meer informatie.
+A5: Ja, u kunt een tijdelijke licentie verkrijgen voor test- en evaluatiedoeleinden. Bezoek [Aspose's tijdelijke licentiepagina](https://purchase.aspose.com/temporary-license/) voor meer informatie.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
