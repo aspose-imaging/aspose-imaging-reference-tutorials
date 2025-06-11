@@ -8,7 +8,9 @@ url: /net/dicom-image-processing/binarization-with-bradleys-adaptive-threshold-o
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Binarization with Bradley's Adaptive Threshold on DICOM Image in Aspose.Imaging for .NET
@@ -107,6 +109,7 @@ A5: You can join the Aspose community and get support from fellow developers on 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

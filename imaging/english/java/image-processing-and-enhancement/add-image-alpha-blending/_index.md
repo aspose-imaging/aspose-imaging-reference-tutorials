@@ -8,7 +8,9 @@ url: /java/image-processing-and-enhancement/add-image-alpha-blending/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Image Alpha Blending with Aspose.Imaging for Java
@@ -129,6 +131,7 @@ A5: Yes, you can get a free trial of Aspose.Imaging for Java from [https://relea
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

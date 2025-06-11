@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Load an SVG Image with Aspose.Imaging Java: A Comprehensive Tutorial
 
@@ -186,7 +188,11 @@ To further explore Aspose.Imaging, consider diving into other features like imag
 - [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 Now that you're equipped with the knowledge to load SVG images using Aspose.Imaging for Java, embark on your projects with confidence and creativity!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

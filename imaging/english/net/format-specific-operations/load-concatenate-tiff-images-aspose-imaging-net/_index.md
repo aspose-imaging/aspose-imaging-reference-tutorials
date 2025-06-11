@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Load and Concatenate TIFF Images using Aspose.Imaging .NET
 
@@ -180,7 +182,11 @@ By following this guide, you've learned how to load and concatenate TIFF images 
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/net/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

@@ -4,8 +4,11 @@ description: "Step-by-step tutorials for image resizing, cropping, rotating, and
 weight: 4
 url: "/java/image-transformations/"
 ---
+
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Java Image Transformation Tutorials for Aspose.Imaging
 
@@ -78,7 +81,11 @@ Learn how to resize images in Java using Aspose.Imaging and the Lanczos method f
 - [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging)
 - [Free Support](https://forum.aspose.com/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

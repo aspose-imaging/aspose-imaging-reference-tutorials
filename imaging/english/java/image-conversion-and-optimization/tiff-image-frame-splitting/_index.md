@@ -8,7 +8,9 @@ url: /java/image-conversion-and-optimization/tiff-image-frame-splitting/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Split TIFF Frames with Aspose.Imaging for Java
@@ -127,6 +129,7 @@ A5: Yes, Aspose.Imaging for Java supports a wide range of image formats, includi
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

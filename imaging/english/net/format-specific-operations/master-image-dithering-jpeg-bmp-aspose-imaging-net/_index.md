@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Master Image Dithering with Aspose.Imaging .NET: Convert JPEG to BMP
 
@@ -156,7 +158,11 @@ A5: Detailed documentation can be found at [Aspose.Imaging .NET Documentation](h
 - **Support Forum**: [Aspose.Imaging Support](https://forum.aspose.com/c/imaging/10)
 
 Happy coding, and enjoy experimenting with Aspose.Imaging to bring your image processing needs to life!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

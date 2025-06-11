@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Adjust Gamma in DICOM Images Using Aspose.Imaging .NET
 
@@ -146,6 +148,9 @@ To further enhance your knowledge, explore other features offered by Aspose.Imag
 Happy coding, and enjoy enhancing your DICOM images with Aspose.Imaging!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

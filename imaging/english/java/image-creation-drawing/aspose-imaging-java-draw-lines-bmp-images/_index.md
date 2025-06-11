@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Create Stunning BMP Images with Aspose.Imaging Java: Drawing and Saving Lines
 
@@ -219,7 +221,11 @@ Next steps include exploring more advanced features like handling different file
 - [Support Forum](https://forum.aspose.com/c/imaging/10)
 
 By following this guide, you're well-equipped to integrate Aspose.Imaging into your Java projects for robust image manipulation capabilities. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

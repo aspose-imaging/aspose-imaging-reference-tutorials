@@ -8,7 +8,9 @@ url: /java/image-processing-and-enhancement/otsu-threshold-binarization/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Otsu Threshold Binarization with Aspose.Imaging for Java
@@ -115,6 +117,7 @@ A5: Yes, Aspose.Imaging for Java is suitable for both personal and commercial pr
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

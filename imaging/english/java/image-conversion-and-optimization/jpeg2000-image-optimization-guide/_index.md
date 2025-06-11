@@ -8,7 +8,9 @@ url: /java/image-conversion-and-optimization/jpeg2000-image-optimization-guide/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Optimize JPEG2000 Images with Aspose.Imaging for Java
@@ -128,6 +130,7 @@ A5: Yes, you can explore a free trial of Aspose.Imaging for Java [here](https://
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

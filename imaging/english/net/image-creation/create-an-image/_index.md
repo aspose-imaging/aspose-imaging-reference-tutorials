@@ -8,7 +8,9 @@ url: /net/image-creation/create-an-image/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Creating Images with Aspose.Imaging for .NET
@@ -110,6 +112,7 @@ A5: You can seek support and get your questions answered in the Aspose community
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

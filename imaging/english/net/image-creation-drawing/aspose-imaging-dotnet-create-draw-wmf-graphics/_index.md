@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering WMF Graphics with Aspose.Imaging for .NET: Create and Draw Vector Images
 
@@ -211,7 +213,11 @@ This tutorial provided a comprehensive guide to creating and manipulating WMF gr
 - "WMF Graphics"
 - "Aspose.Imaging for .NET"
 - "Vector-Based Images"
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

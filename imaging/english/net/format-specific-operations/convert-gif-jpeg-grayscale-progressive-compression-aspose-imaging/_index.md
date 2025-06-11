@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Comprehensive Guide: Convert GIF to JPEG with Grayscale and Progressive Compression Using Aspose.Imaging .NET
 
@@ -161,6 +163,9 @@ A: Yes, it's designed to work across different .NET Frameworks and Core versions
 By mastering the conversion process with Aspose.Imaging, you’re equipped to handle complex image processing tasks efficiently in your .NET applications. Happy coding!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

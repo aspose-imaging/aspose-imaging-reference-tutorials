@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Convert GIF Frames to TIFF Files Using Aspose.Imaging .NET
 
@@ -158,7 +160,11 @@ In this tutorial, you've learned how to convert individual frames from a GIF int
 - [Purchase Aspose Licensing Options](https://purchase.aspose.com/buy)
 - [Free Trial and Temporary License](https://releases.aspose.com/imaging/net/)
 - [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

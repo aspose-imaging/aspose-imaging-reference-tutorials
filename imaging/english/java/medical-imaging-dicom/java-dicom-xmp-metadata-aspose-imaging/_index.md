@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering DICOM Image Manipulation in Java: Add and Manage XMP Metadata with Aspose.Imaging
 
@@ -236,7 +238,11 @@ In this tutorial, you’ve learned how to load, modify, and save DICOM images us
 - [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 Start integrating these powerful image processing capabilities into your Java applications today, and enhance the way you handle DICOM images!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

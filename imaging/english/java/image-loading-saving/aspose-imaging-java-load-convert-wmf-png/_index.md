@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Aspose.Imaging Java: Loading and Converting WMF Images
 
@@ -216,7 +218,11 @@ Ready to implement these solutions? Dive into the world of advanced image proces
 - **Purchase and Trial:** Explore licensing options on their [Purchase page](https://purchase.aspose.com/buy) or start with a free trial at [Free Trial Page](https://releases.aspose.com/imaging/java/). For temporary licenses, visit the [Temporary License Page](https://purchase.aspose.com/temporary-license/).
 
 Now that you have all the information and tools needed, go ahead and try converting your WMF files to PNG with Aspose.Imaging for Java!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Export DjVu to Grayscale PNG Using Aspose.Imaging for Java
 
@@ -202,7 +204,11 @@ A5: Absolutely! Implement loops or parallel processing techniques to handle mult
 - **Support**: https://forum.aspose.com/c/imaging/10
 
 Explore these resources to deepen your understanding and mastery of Aspose.Imaging for Java. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

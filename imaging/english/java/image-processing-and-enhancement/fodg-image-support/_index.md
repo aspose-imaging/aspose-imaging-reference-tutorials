@@ -8,7 +8,9 @@ url: /java/image-processing-and-enhancement/fodg-image-support/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # FODG Image Support with Aspose.Imaging for Java
@@ -123,6 +125,7 @@ Yes, Aspose.Imaging for Java is well-suited for batch image processing. You can 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

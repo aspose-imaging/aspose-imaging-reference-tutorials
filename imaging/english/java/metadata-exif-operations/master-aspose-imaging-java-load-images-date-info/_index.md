@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Aspose.Imaging Java: Loading Images and Retrieving Date Information
 
@@ -182,7 +184,11 @@ You've now learned how to load images and retrieve last modified dates using Asp
 - [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 Feel free to explore these resources for more detailed information and support. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Comprehensive Guide to BMP Image Manipulation with Aspose.Imaging .NET
 
@@ -214,7 +216,11 @@ As a next step, explore more advanced features in the [official documentation](h
 
 - [Documentation](https://reference.aspose.com/imaging/net/)
 - [Download Library](https://releases.aspose.com/imaging/net)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

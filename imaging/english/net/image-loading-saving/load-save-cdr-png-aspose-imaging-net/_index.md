@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Load & Save CDR as PNG Using Aspose.Imaging for .NET: A Complete Guide
 
@@ -181,7 +183,11 @@ Ready to implement? Try out the provided code snippets and explore further possi
 - [Free Trial](https://releases.aspose.com/imaging/net/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
 - [Support Forum](https://forum.aspose.com/c/imaging/10)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Implementing Java EPS Image Preview & Safe File Deletion with Aspose.Imaging
 
@@ -228,7 +230,11 @@ A5: Yes, while you can start with a free trial, purchasing a license is necessar
 - **Support**: For questions, reach out on the [Aspose Forum](https://forum.aspose.com/c/imaging/10).
 
 By following this tutorial and utilizing Aspose.Imaging for Java, you'll be well-equipped to handle EPS image previews and safe file deletions in your projects. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

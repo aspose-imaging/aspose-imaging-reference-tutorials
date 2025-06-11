@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Auto Image Masking with Aspose.Imaging for .NET: A Step-by-Step Guide
 ## Introduction
@@ -162,7 +164,11 @@ Ready to try it out? Implement these steps in your projects and witness the powe
    Auto image masking helps separate foreground from background, ideal for e-commerce product images.
 2. **How do I optimize performance when using Aspose.Imaging for .NET?**
    Manage resources efficiently and consider parallel processing to handle multiple tasks simultaneously.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

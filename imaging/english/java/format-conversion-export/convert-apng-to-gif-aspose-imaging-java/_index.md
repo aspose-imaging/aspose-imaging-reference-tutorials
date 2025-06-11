@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Conversion with Aspose.Imaging Java: Load and Convert APNG to GIF
 
@@ -232,7 +234,11 @@ Congratulations! You've successfully navigated the process of loading, convertin
 - Temporary license: https://purchase.aspose.com/temporary-license/
 
 This comprehensive guide should serve as a solid foundation for your journey with Aspose.Imaging in Java. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

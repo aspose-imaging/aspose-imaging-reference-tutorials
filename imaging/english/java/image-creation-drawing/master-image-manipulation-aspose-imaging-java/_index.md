@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Manipulation in Java with Aspose.Imaging
 
@@ -215,7 +217,11 @@ Congratulations! You've learned how to load, manipulate, and save images using A
 - **Temporary License**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
 
 Start implementing these powerful image manipulation techniques in your Java projects today with Aspose.Imaging!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

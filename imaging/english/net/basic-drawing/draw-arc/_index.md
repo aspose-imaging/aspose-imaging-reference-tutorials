@@ -8,7 +8,9 @@ url: /net/basic-drawing/draw-arc/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Creating Arcs with Aspose.Imaging for .NET
@@ -127,6 +129,7 @@ A5: You can visit the Aspose.Imaging forum for support and discussions [here](ht
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

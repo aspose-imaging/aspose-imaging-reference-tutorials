@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Draw Raster Images onto an SVG Canvas Using Aspose.Imaging .NET
 
@@ -193,7 +195,11 @@ Ready to try it out? Implement the solution in your project today!
 - **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
 
 Embark on your journey with Aspose.Imaging for .NET today and transform how you handle images in your applications!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

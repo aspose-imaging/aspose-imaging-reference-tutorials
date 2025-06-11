@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Segmentation with Aspose.Imaging .NET: A Comprehensive Guide to Graph Cut Auto Masking
 
@@ -182,7 +184,11 @@ Next steps? Experiment with different configurations or integrate this feature i
 - **Download**: Access latest releases via [Aspose Releases](https://releases.aspose.com/imaging/net/).
 - **Purchase & Free Trial**: Consider trying out or purchasing through the official [Aspose Purchase Page](https://purchase.aspose.com/buy) and [Free Trials](https://releases.aspose.com/imaging/net/).
 - **Support**: For any questions, visit the [Aspose Support Forum](https://forum.aspose.com/c/imaging/10).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

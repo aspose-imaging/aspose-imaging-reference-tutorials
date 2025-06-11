@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Create WMF Graphics Using Aspose.Imaging for Java
 
@@ -303,7 +305,11 @@ Feel free to experiment and apply these methods in your upcoming projects.
 - [Support Forum](https://forum.aspose.com/c/imaging/10)
 
 Feel free to explore these resources for further learning and support. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

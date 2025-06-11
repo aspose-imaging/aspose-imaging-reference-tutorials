@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Comprehensive Guide to Manual Image Masking with Aspose.Imaging .NET for Seamless Transparency Control
 
@@ -178,7 +180,11 @@ To continue exploring the capabilities of Aspose.Imaging, consider diving deeper
 - **Documentation**: [Aspose.Imaging .NET Documentation](https://reference.aspose.com/imaging/net/)
 - **Download**: [Aspose.Imaging Releases](https://releases.aspose.com/imaging/net/)
 - **Purchase**: [Buy a License](https://purchase.aspose.com/buy)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

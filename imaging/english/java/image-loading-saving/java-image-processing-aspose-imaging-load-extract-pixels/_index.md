@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Java Image Processing with Aspose.Imaging: Loading and Extracting Pixels
 
@@ -212,7 +214,11 @@ You've now learned how to leverage Aspose.Imaging for Java to load and extract p
 - **Support**: Join the community on the [Aspose Forum](https://forum.aspose.com/c/imaging/10) for any queries or discussions.
 
 By following this tutorial, you're now equipped to handle complex image processing tasks in Java using Aspose.Imaging. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

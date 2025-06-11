@@ -1,39 +1,41 @@
 ---
-title: تحويل الصور النقطية إلى TIFF في Java باستخدام Aspose.Imaging
-linktitle: تحويل الصور النقطية إلى TIFF
-second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
-description: تعرف على كيفية تحويل الصور النقطية إلى تنسيق TIFF في Java باستخدام Aspose.Imaging for Java. دليل شامل لمعالجة الصور.
-weight: 20
-url: /ar/java/image-conversion-and-optimization/raster-image-tiff-conversion/
+"description": "تعلّم كيفية تحويل الصور النقطية إلى صيغة TIFF في جافا باستخدام Aspose.Imaging for Java. دليل شامل لمعالجة الصور."
+"linktitle": "تحويل الصور النقطية إلى صيغة TIFF"
+"second_title": "واجهة برمجة تطبيقات معالجة الصور Java Aspose.Imaging"
+"title": "تحويل الصور النقطية إلى TIFF في Java باستخدام Aspose.Imaging"
+"url": "/ar/java/image-conversion-and-optimization/raster-image-tiff-conversion/"
+"weight": 20
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # تحويل الصور النقطية إلى TIFF في Java باستخدام Aspose.Imaging
 
-إذا كنت تتطلع إلى معالجة الصور النقطية وتحويلها في تطبيق Java الخاص بك، فإن Aspose.Imaging for Java هي الأداة المثالية. سيرشدك هذا البرنامج التعليمي خطوة بخطوة خلال عملية تحويل صورة نقطية إلى تنسيق TIFF باستخدام Aspose.Imaging for Java. قبل أن نتعمق في التفاصيل، دعنا نلقي نظرة على ما تحتاجه للبدء.
+إذا كنت ترغب في معالجة الصور النقطية وتحويلها في تطبيق جافا، فإن Aspose.Imaging for Java هو الأداة المثالية. سيرشدك هذا البرنامج التعليمي خطوة بخطوة خلال عملية تحويل صورة نقطية إلى صيغة TIFF باستخدام Aspose.Imaging for Java. قبل الخوض في التفاصيل، دعنا نلقي نظرة على ما تحتاجه للبدء.
 
 ## المتطلبات الأساسية
 
-قبل البدء في تحويل الصور النقطية إلى TIFF، تأكد من توفر المتطلبات الأساسية التالية:
+قبل أن تبدأ في تحويل الصور النقطية إلى TIFF، تأكد من توفر المتطلبات الأساسية التالية:
 
 ### 1. بيئة تطوير جافا
 
-تأكد من تثبيت Java Development Kit (JDK) على نظامك. يمكنك تنزيله من موقع أوراكل.
+تأكد من تثبيت Java Development Kit (JDK) على نظامك. يمكنك تنزيله من موقع Oracle الإلكتروني.
 
-### 2. Aspose.Imaging لجافا
+### 2. Aspose.Imaging لـ Java
 
- ستحتاج إلى الحصول على Aspose.Imaging for Java، الذي يوفر واجهات برمجة التطبيقات الضرورية للعمل مع تنسيقات الصور المختلفة. يمكنك تنزيله من[هنا](https://releases.aspose.com/imaging/java/).
+ستحتاج إلى الحصول على Aspose.Imaging لجافا، الذي يوفر واجهات برمجة التطبيقات اللازمة للعمل مع تنسيقات الصور المختلفة. يمكنك تنزيله من [هنا](https://releases.aspose.com/imaging/java/).
 
-### 3. المعرفة الأساسية بالجافا
+### 3. المعرفة الأساسية بلغة جافا
 
-يفترض هذا البرنامج التعليمي أن لديك فهمًا أساسيًا لبرمجة Java. يجب أن تكون على دراية بمفاهيم مثل الفئات والكائنات واستدعاءات الأساليب.
+يفترض هذا البرنامج التعليمي أن لديك فهمًا أساسيًا لبرمجة جافا. يجب أن تكون على دراية بمفاهيم مثل الفئات والكائنات واستدعاءات الدوال.
 
-## حزم الاستيراد
+## استيراد الحزم
 
-للبدء، تحتاج إلى استيراد حزم Aspose.Imaging for Java المطلوبة إلى برنامج Java الخاص بك. وإليك كيف يمكنك القيام بذلك:
+للبدء، عليك استيراد حزم Aspose.Imaging for Java المطلوبة إلى برنامج Java. إليك كيفية القيام بذلك:
 
 ```java
 import com.aspose.imaging.Image;
@@ -51,7 +53,7 @@ import com.aspose.imaging.fileformats.tiff.TiffFrame;
 
 ## الخطوة 1: إعداد البيئة
 
- الخطوة الأولى هي إعداد البيئة. قم بإنشاء دليل لمشروعك ووضع الصورة النقطية التي تريد تحويلها إلى TIFF فيه. يمكنك استبدال`"Your Document Directory"` مع المسار الفعلي إلى دليل المشروع الخاص بك.
+الخطوة الأولى هي إعداد البيئة. أنشئ مجلدًا لمشروعك وضع فيه الصورة النقطية التي تريد تحويلها إلى TIFF. يمكنك استبدال `"Your Document Directory"` مع المسار الفعلي إلى دليل المشروع الخاص بك.
 
 ```java
 String dataDir = "Your Document Directory" + "ModifyingImages/";
@@ -59,7 +61,7 @@ String dataDir = "Your Document Directory" + "ModifyingImages/";
 
 ## الخطوة 2: إنشاء TiffOptions
 
-الآن، قم بإنشاء مثيل لـ`TiffOptions` وتعيين خصائصه المختلفة لتنسيق TIFF. يمكنك تخصيص هذه الخيارات وفقًا لمتطلباتك.
+الآن، قم بإنشاء مثيل لـ `TiffOptions` وضبط خصائصه المختلفة لصيغة TIFF. يمكنك تخصيص هذه الخيارات وفقًا لاحتياجاتك.
 
 ```java
 TiffOptions options = new TiffOptions(TiffExpectedFormat.Default);
@@ -74,7 +76,7 @@ options.setCompression(TiffCompressions.AdobeDeflate);
 
 ## الخطوة 3: تحميل الصورة
 
- قم بتحميل الصورة الموجودة التي تريد تحويلها إلى مثيل لها`RasterImage`. تأكد من تحديد المسار إلى ملف الصورة الخاص بك.
+قم بتحميل الصورة الموجودة التي تريد تحويلها إلى مثيل لها `RasterImage`تأكد من تحديد المسار لملف الصورة الخاص بك.
 
 ```java
 try (RasterImage image = (RasterImage) Image.load(dataDir + "SampleTiff1.tiff")) {
@@ -82,7 +84,7 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "SampleTiff1.tiff"))
 
 ## الخطوة 4: إنشاء TiffImage وحفظه
 
- إنشاء جديد`TiffImage` من`RasterImage` وحفظ الصورة الناتجة أثناء تمرير مثيل`TiffOptions`. يمكنك أيضًا تحديد المسار الذي تريد حفظ صورة TIFF المحولة فيه.
+إنشاء جديد `TiffImage` من `RasterImage` وحفظ الصورة الناتجة أثناء تمرير المثيل `TiffOptions`يمكنك أيضًا تحديد المسار الذي تريد حفظ صورة TIFF المحولة فيه.
 
 ```java
     try (TiffImage tiffImage = new TiffImage(new TiffFrame(image))) {
@@ -91,37 +93,39 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "SampleTiff1.tiff"))
 }
 ```
 
-هذا كل شيء! لقد نجحت في تحويل صورة نقطية إلى تنسيق TIFF باستخدام Aspose.Imaging for Java.
+هذا كل شيء! لقد نجحت في تحويل صورة نقطية إلى صيغة TIFF باستخدام Aspose.Imaging لـ Java.
 
 ## خاتمة
 
-تعلمت في هذا البرنامج التعليمي كيفية تحويل صورة نقطية إلى تنسيق TIFF باستخدام Aspose.Imaging for Java. تتيح لك هذه المكتبة القوية معالجة الصور وتحويلها بسهولة. سواء كنت تعمل على معالجة الصور، أو تحويل المستندات، أو أي تطبيق آخر يتضمن صورًا، فإن Aspose.Imaging for Java يعد أداة قيمة في مجموعة أدواتك.
+في هذا البرنامج التعليمي، تعلمت كيفية تحويل صورة نقطية إلى صيغة TIFF باستخدام Aspose.Imaging for Java. تتيح لك هذه المكتبة القوية معالجة الصور وتحويلها بسهولة. سواء كنت تعمل على معالجة الصور، أو تحويل المستندات، أو أي تطبيق آخر يتضمن الصور، فإن Aspose.Imaging for Java أداة قيّمة في جعبتك.
 
- يمكنك الآن الاستفادة الكاملة من Aspose.Imaging for Java للعمل مع الصور في تطبيقات Java الخاصة بك. استكشف الوثائق لمزيد من الميزات والإمكانيات على[Aspose.Imaging لتوثيق جافا](https://reference.aspose.com/imaging/java/).
+الآن يمكنك الاستفادة الكاملة من Aspose.Imaging for Java للعمل مع الصور في تطبيقات Java. استكشف الوثائق لمزيد من الميزات والإمكانيات على [توثيق Aspose.Imaging لـ Java](https://reference.aspose.com/imaging/java/).
 
 ## الأسئلة الشائعة
 
 ### س1: ما هي تنسيقات الصور التي يدعمها Aspose.Imaging for Java؟
-يدعم Aspose.Imaging for Java مجموعة واسعة من تنسيقات الصور، بما في ذلك JPEG وPNG وTIFF وBMP وGIF وغيرها الكثير. تحقق من الوثائق للحصول على قائمة كاملة بالتنسيقات المدعومة.
+يدعم Aspose.Imaging for Java مجموعة واسعة من تنسيقات الصور، بما في ذلك JPEG وPNG وTIFF وBMP وGIF وغيرها الكثير. راجع الوثائق للاطلاع على قائمة كاملة بالتنسيقات المدعومة.
 
-### س2: هل يمكنني إجراء عمليات تحرير الصور باستخدام Aspose.Imaging for Java؟
+### س2: هل يمكنني إجراء عمليات تحرير الصور باستخدام Aspose.Imaging لـ Java؟
 
-ج2: نعم، يمكنك إجراء العديد من عمليات تحرير الصور مثل تغيير الحجم، والاقتصاص، والتدوير، والمزيد باستخدام Aspose.Imaging for Java.
+ج2: نعم، يمكنك إجراء عمليات تحرير الصور المختلفة مثل تغيير الحجم، والقص، والتدوير، والمزيد باستخدام Aspose.Imaging لـ Java.
 
-### س3: كيف يمكنني الحصول على ترخيص مؤقت لبرنامج Aspose.Imaging for Java؟
+### س3: كيف يمكنني الحصول على ترخيص مؤقت لـ Aspose.Imaging لـ Java؟
 
- ج3:يمكنك الحصول على ترخيص مؤقت من خلال الزيارة[Aspose الترخيص المؤقت](https://purchase.aspose.com/temporary-license/).
+ج3: يمكنك الحصول على رخصة مؤقتة عن طريق زيارة [ترخيص Aspose المؤقت](https://purchase.aspose.com/temporary-license/).
 
-### س4: هل هناك إصدار تجريبي مجاني متاح لـ Aspose.Imaging for Java؟
+### س4: هل هناك نسخة تجريبية مجانية متاحة لـ Aspose.Imaging لنظام Java؟
 
- ج4: نعم، يمكنك الوصول إلى النسخة التجريبية المجانية من Aspose.Imaging for Java على[Aspose.Imaging نسخة تجريبية مجانية](https://releases.aspose.com/).
+ج4: نعم، يمكنك الوصول إلى نسخة تجريبية مجانية من Aspose.Imaging for Java على [تجربة مجانية لبرنامج Aspose.Imaging](https://releases.aspose.com/).
 
-### س5: أين يمكنني الحصول على الدعم أو طرح الأسئلة حول Aspose.Imaging for Java؟
+### س5: أين يمكنني الحصول على الدعم أو طرح الأسئلة حول Aspose.Imaging لـ Java؟
 
- ج5: يمكنك الانضمام إلى مجتمع Aspose.Imaging والحصول على الدعم من خلال[Aspose.منتدى التصوير](https://forum.aspose.com/).
+A5: يمكنك الانضمام إلى مجتمع Aspose.Imaging والحصول على الدعم على [منتدى Aspose.Imaging](https://forum.aspose.com/).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

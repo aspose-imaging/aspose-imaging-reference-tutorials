@@ -8,7 +8,9 @@ url: /java/image-processing-and-enhancement/diagonal-image-watermarking/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Diagonal Image Watermarking with Aspose.Imaging for Java
@@ -151,6 +153,7 @@ A5: If you have any questions or need assistance, visit the Aspose.Imaging for J
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

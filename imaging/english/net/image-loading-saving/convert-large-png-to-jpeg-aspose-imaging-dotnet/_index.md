@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Convert Large PNG Files to JPEG with Aspose.Imaging .NET
 
@@ -146,6 +148,9 @@ A: Visit [Aspose's support forum](https://forum.aspose.com/c/imaging/10) for ass
 Try implementing this solution in your projects to harness the power of Aspose.Imaging for .NET!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

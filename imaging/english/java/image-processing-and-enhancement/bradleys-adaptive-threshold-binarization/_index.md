@@ -8,7 +8,9 @@ url: /java/image-processing-and-enhancement/bradleys-adaptive-threshold-binariza
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Image Binarization with Aspose.Imaging for Java
@@ -121,6 +123,7 @@ A5: Yes, Aspose.Imaging for Java is versatile and can be used in various Java-ba
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

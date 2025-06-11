@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering TIFF Frame Extraction to BMP Format Using Aspose.Imaging Java
 
@@ -182,7 +184,11 @@ Congratulations on mastering the process of converting TIFF frames to BMP files 
 - [Support Forum](https://forum.aspose.com/c/imaging/10)
 
 Embark on your journey to mastering image processing with Aspose.Imaging Java and unlock new possibilities in handling TIFF images.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

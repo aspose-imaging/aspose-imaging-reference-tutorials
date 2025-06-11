@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Enhancement: Load and Normalize Histogram of an Image using Aspose.Imaging Java
 
@@ -192,7 +194,11 @@ Take action today by trying out these techniques on your own image projects!
 - **Support**: [Join the Forum](https://forum.aspose.com/c/imaging/10)
 
 By following these guidelines, you’ll be well-equipped to enhance your images using Aspose.Imaging Java's histogram normalization features. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

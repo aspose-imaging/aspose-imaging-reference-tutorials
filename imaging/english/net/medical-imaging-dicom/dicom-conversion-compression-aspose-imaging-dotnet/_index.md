@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Comprehensive Guide to DICOM Conversion with Compression Options Using Aspose.Imaging .NET
 
@@ -211,7 +213,11 @@ Next steps could include exploring advanced features of Aspose.Imaging or integr
 ## FAQ Section
 1. **Can I use Aspose.Imaging for free?**
    - Yes, you can start with a [free trial](https://purchase.aspose.com/temporary-license/), which allows you to evaluate the features before purchasing.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

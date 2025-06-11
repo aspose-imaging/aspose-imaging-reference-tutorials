@@ -8,7 +8,9 @@ url: /java/image-conversion-and-optimization/gif-to-tiff-image-conversion/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Convert GIF to TIFF Using Aspose.Imaging for Java
@@ -152,6 +154,7 @@ try (Image objImage = Image.load(dataDir + "aspose-logo.gif"))
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

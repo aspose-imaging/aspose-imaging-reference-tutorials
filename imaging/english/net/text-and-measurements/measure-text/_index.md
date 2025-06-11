@@ -8,7 +8,9 @@ url: /net/text-and-measurements/measure-text/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Text Measurement in Images with Aspose.Imaging for .NET
@@ -105,6 +107,7 @@ A5: You can download Aspose.Imaging for .NET from the [download page](https://re
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

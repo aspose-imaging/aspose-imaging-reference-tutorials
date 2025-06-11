@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Path Extraction and Creation in TIFF Using Aspose.Imaging Java
 
@@ -219,7 +221,11 @@ By following this guide, you have learned how to leverage Aspose.Imaging for Jav
 - [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 Embrace the power of Aspose.Imaging Java and transform your image processing capabilities today!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Processing with Aspose.Imaging Java: Loading and Saving FODG Files as PNG
 
@@ -221,7 +223,11 @@ Next Steps:
 - **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
 
 By mastering these techniques, you're well on your way to leveraging Aspose.Imaging for sophisticated image processing tasks in Java. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

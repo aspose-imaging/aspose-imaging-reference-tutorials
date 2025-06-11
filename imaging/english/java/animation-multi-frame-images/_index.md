@@ -4,8 +4,11 @@ description: "Learn to create and manipulate animated images, GIF animations, an
 weight: 11
 url: "/java/animation-multi-frame-images/"
 ---
+
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Java Animation and Multi-frame Image Tutorials for Aspose.Imaging
 
@@ -42,7 +45,11 @@ Learn how to process and convert multi-frame TIFF images into JPEG using Aspose.
 - [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging)
 - [Free Support](https://forum.aspose.com/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

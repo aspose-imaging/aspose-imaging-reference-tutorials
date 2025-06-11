@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Configuring BMP Images in .NET with Aspose.Imaging: A Complete Guide
 
@@ -164,7 +166,11 @@ A5: By optimizing configuration settings, managing memory efficiently, and lever
 - **Free Trial**: [Download Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Request Temporary License](https://purchase.aspose.com/temporary-license/)
 - **Support Forum**: [Aspose Imaging Support](https://forum.aspose.com/c/imaging/10)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

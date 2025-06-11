@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Efficiently Modify a PNG Image's Background Using Aspose.Imaging .NET
 
@@ -160,7 +162,11 @@ A: Use try-catch blocks to manage exceptions gracefully and maintain application
 - **Free Trial**: [Start Free](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Acquire Temporary License](https://purchase.aspose.com/temporary-license/)
 - **Support**: [Aspose Forums](https://forum.aspose.com/c/imaging/10)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

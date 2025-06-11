@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Proportional DICOM Image Resizing with Aspose.Imaging for .NET: A Complete Guide
 
@@ -88,7 +90,11 @@ string outputDir = "YOUR_OUTPUT_DIRECTORY";
 
 // Open a DICOM file for reading
 using (var fileStream = new FileStream(dataDir + "/file.dcm\
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

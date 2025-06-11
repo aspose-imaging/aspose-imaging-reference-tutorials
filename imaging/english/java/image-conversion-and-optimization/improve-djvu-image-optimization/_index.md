@@ -8,7 +8,9 @@ url: /java/image-conversion-and-optimization/improve-djvu-image-optimization/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Optimize DJVU Images with Aspose.Imaging for Java
@@ -111,6 +113,7 @@ A5: DJVU image optimization reduces file sizes, making images load faster on web
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

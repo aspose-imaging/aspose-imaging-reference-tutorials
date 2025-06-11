@@ -8,7 +8,9 @@ url: /net/vector-image-processing/draw-raster-image-on-emf/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Draw Raster Images on EMF with Aspose.Imaging for .NET
@@ -132,6 +134,7 @@ For support and assistance, you can visit the Aspose.Imaging forum [here](https:
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

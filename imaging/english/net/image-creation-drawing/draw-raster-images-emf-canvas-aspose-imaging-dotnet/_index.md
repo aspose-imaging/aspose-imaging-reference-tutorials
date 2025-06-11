@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Draw a Raster Image on an EMF Canvas Using Aspose.Imaging .NET
 
@@ -162,7 +164,11 @@ The primary limitation comes from available system resources rather than Aspose.
 
 **5. What file formats does Aspose.Imaging support for raster images?**
 Aspose.Imaging supports a wide range of raster formats, including PNG, JPEG, BMP, and TIFF, among others.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

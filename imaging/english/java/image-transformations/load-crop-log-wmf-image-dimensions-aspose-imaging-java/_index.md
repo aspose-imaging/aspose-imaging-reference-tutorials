@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Load, Crop, and Log Dimensions of a WMF Image Using Aspose.Imaging Java
 
@@ -176,7 +178,11 @@ Next steps could include exploring other image formats supported by Aspose.Imagi
 - Support Forum: [Aspose.Imaging Community Support](https://forum.aspose.com/c/imaging/10)
 
 Now that you have the tools and knowledge, try implementing this solution in your next project!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

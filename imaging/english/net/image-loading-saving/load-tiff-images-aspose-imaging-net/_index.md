@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Load a TIFF Image Using Aspose.Imaging for .NET: A Comprehensive Guide
 
@@ -93,7 +95,11 @@ First, define the path to your input TIFF file. Replace `YOUR_DOCUMENT_DIRECTORY
 
 ```csharp
 string inputFileName = Path.Combine(@"YOUR_DOCUMENT_DIRECTORY\
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

@@ -8,7 +8,9 @@ url: /java/image-processing-and-enhancement/dicom-image-gamma-adjustment/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # DICOM Image Gamma Adjustment with Aspose.Imaging for Java
@@ -122,6 +124,7 @@ A5: You can explore the [Aspose.Imaging documentation](https://reference.aspose.
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

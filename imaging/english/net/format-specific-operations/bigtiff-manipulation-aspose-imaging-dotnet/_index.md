@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering BigTIFF Image Manipulation with Aspose.Imaging .NET
 
@@ -96,7 +98,11 @@ After loading, you may want to modify or save it in a different format. Here's h
 Specify output options using `BigTiffOptions` to convert the image:
 ```csharp
 string outputFilePath = Path.Combine("YOUR_OUTPUT_DIRECTORY\
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

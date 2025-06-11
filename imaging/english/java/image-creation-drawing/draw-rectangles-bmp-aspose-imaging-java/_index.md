@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Draw Rectangles in BMP Files Using Aspose.Imaging for Java
 
@@ -190,7 +192,11 @@ By following this guide, you've learned how to effectively use Aspose.Imaging fo
 - **Support Forum**: [Aspose Support Community](https://forum.aspose.com/c/imaging/10)
 
 Now that you have all the tools and knowledge, start experimenting with Aspose.Imaging for Java to unleash your creativity in image processing!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

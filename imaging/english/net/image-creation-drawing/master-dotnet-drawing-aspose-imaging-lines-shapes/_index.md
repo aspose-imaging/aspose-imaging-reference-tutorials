@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Drawing in .NET with Aspose.Imaging: Lines & Shapes
 
@@ -261,7 +263,11 @@ This guide has walked you through the process of drawing lines, shapes, and savi
 - Explore the full range of features offered by Aspose.Imaging.
 - Consider integrating these drawing capabilities into your existing projects.
 - Share your creations or seek feedback from developer communities to improve your skills.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

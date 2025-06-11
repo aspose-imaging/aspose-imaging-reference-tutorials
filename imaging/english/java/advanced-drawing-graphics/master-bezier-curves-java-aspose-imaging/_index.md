@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Create Stunning Bezier Curves in Java with Aspose.Imaging
 
@@ -192,7 +194,11 @@ Congratulations! You've successfully learned how to draw Bezier curves using Asp
 - **Support:** Join discussions in the [Aspose Forum](https://forum.aspose.com/c/imaging/10)
 
 Start drawing those curves today and elevate your Java projects with Aspose.Imaging!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

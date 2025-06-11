@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Efficient WMF to PNG Conversion Using Aspose.Imaging in .NET
 
@@ -135,7 +137,11 @@ You've successfully learned how to convert a WMF file to PNG using Aspose.Imagin
 - **Purchase License:** Buy a license for full access via [Aspose Purchase](https://purchase.aspose.com/buy).
 - **Free Trial:** Start with Aspose's free trial to test features.
 - **Temporary License:** Request a temporary license if you're evaluating the product for purchase.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

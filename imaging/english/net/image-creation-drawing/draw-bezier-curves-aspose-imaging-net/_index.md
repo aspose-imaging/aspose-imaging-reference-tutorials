@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Drawing Bezier Curves in .NET Using Aspose.Imaging: A Developer's Guide
 
@@ -183,7 +185,11 @@ Ready to apply these skills? Start creating custom graphic elements today!
 - **Free Trial**: [Try Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Get Temporary License](https://purchase.aspose.com/temporary-license/)
 - **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

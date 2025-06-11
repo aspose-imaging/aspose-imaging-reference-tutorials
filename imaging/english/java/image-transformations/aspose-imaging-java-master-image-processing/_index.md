@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Processing with Aspose.Imaging for Java: Load, Save, and Remove Background
 
@@ -225,7 +227,11 @@ Visit [Aspose Support](https://forum.aspose.com/c/imaging/10) to seek help from 
 - **Temporary License**: [Request Temporary License](https://purchase.aspose.com/temporary-license/)
 
 By following this guide, you are well-equipped to leverage the powerful image processing capabilities of Aspose.Imaging for Java in your projects. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

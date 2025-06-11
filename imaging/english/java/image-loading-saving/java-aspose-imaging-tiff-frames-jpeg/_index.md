@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Manipulation in Java with Aspose.Imaging: Load and Save TIFF Frames as JPEG
 
@@ -260,7 +262,11 @@ Explore more features of Aspose.Imaging by diving into its [documentation](https
 - **Download:** Get the latest version from [Aspose.Imaging Releases](https://releases.aspose.com/imaging/java/).
 - **Purchase and Trial:** Access purchase options or start with a free trial at [Aspose Purchase Page](https://purchase.aspose.com/buy) and [Free Trial](https://releases.aspose.com/imaging/java/).
 - **Support:** For questions, visit the [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

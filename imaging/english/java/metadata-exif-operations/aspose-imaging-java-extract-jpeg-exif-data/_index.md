@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Load and Extract JPEG EXIF Data Using Aspose.Imaging Java
 
@@ -227,7 +229,11 @@ A5: The Aspose community forum is an excellent place to seek help. Check out [As
 - **Free Trial**: Test Aspose.Imaging features with a free trial available at [Aspose Downloads](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: Apply for extended access via [Aspose Temporary License](https://purchase.aspose.com/temporary-license/)
 - **Support**: Engage with the community on [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

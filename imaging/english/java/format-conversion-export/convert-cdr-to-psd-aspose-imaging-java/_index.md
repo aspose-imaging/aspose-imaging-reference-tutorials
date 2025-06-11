@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Vector Image Processing with Aspose.Imaging Java: Convert CDR to PSD
 
@@ -194,7 +196,11 @@ A: Visit the [Aspose support forum](https://forum.aspose.com/c/imaging/10) for a
 - **Temporary License:** [Request Now](https://purchase.aspose.com/temporary-license/)
 
 Embark on your journey with Aspose.Imaging for Java and unlock new possibilities in vector image processing!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

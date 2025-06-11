@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Processing in Java with Aspose.Imaging: Loading and Accessing JPEG EXIF Data
 
@@ -225,7 +227,11 @@ Next steps? Try implementing these techniques in your projects and explore more 
 - [Support Forum](https://forum.aspose.com/c/imaging/10)
 
 Now that you have all the tools and knowledge at your disposal, it's time to start implementing these powerful features in your Java applications!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Blur an Image Using Aspose.Imaging for .NET
 
@@ -97,7 +99,8 @@ RasterImage rasterImage = (RasterImage)image;
 
 Use the `GaussianBlurFilterOptions` to blur your image. Here, a 5x5 radius is applied across the entire image bounds.
 
-```csharprasterImage.Filter(rasterImage.Bounds, new GaussianBlurFilterOptions(5, 5));
+```csharp
+rasterImage.Filter(rasterImage.Bounds, new GaussianBlurFilterOptions(5, 5));
 ```
 
 **Explanation**: 
@@ -156,7 +159,11 @@ You've learned how to blur an image using Aspose.Imaging for .NET, complete with
 - **Free Trial**: [Start a Free Trial](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Get Your Temporary License](https://purchase.aspose.com/temporary-license/)
 - **Support**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

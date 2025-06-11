@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Processing in Java: A Comprehensive Guide to Aspose.Imaging Java
 
@@ -190,7 +192,11 @@ The free trial has evaluation limitations, such as watermarks on processed image
 - **Support:** [Aspose Forum Support](https://forum.aspose.com/c/imaging/10) 
 
 With this comprehensive guide, you're well-equipped to start utilizing Aspose.Imaging for Java in your projects. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

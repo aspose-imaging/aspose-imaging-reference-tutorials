@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Title: Mastering DICOM Image Resizing with Aspose.Imaging Java
 
@@ -188,7 +190,11 @@ Ready to take your skills further? Give these techniques a try and see how they 
 - [Support Forum](https://forum.aspose.com/c/imaging/10)
 
 By following this comprehensive guide, you should now be equipped to efficiently manage DICOM image processing tasks using Aspose.Imaging for Java.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

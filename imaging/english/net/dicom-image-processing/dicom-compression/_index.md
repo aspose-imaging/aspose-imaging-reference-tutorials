@@ -8,7 +8,9 @@ url: /net/dicom-image-processing/dicom-compression/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # DICOM Compression in Aspose.Imaging for .NET
@@ -161,6 +163,7 @@ A5: Yes, you can obtain a [free trial license](https://releases.aspose.com/) to 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

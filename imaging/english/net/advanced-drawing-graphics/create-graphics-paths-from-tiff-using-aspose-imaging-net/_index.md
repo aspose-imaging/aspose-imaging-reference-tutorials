@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Create and Manipulate Graphics Paths from TIFF Images Using Aspose.Imaging .NET
 
@@ -182,7 +184,11 @@ A: While other libraries exist, Aspose.Imaging offers a comprehensive set of fea
 - **Support**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 Embark on your journey with Aspose.Imaging for .NET today, and unlock new possibilities in image processing!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

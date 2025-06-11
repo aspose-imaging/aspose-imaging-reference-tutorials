@@ -8,7 +8,9 @@ url: /java/image-conversion-and-optimization/convert-raster-images-to-scalable-v
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Convert Raster Images to SVG with Aspose.Imaging for Java
@@ -118,6 +120,7 @@ A5: Yes, there are other libraries and tools available for image conversion. How
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

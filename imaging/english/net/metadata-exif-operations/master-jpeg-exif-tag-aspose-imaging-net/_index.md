@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Read JPEG EXIF Tags Using Aspose.Imaging for .NET
 
@@ -160,7 +162,11 @@ A5: Visit the [Aspose.Imaging forum](https://forum.aspose.com/c/imaging/10) for 
 - **Download**: Get the latest version from [this page](https://releases.aspose.com/imaging/net/).
 - **Purchase**: For acquiring a license, visit [Aspose’s purchase site](https://purchase.aspose.com/buy).
 - **Free Trial and Temporary License**: Available at [these links](https://releases.aspose.com/imaging/net/) and [here](https://purchase.aspose.com/temporary-license/).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

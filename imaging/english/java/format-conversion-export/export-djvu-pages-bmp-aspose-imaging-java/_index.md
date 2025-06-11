@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Comprehensive Guide: Using Aspose.Imaging Java to Export DJVU Pages as BMP Files
 
@@ -205,7 +207,11 @@ By following this guide, you've learned how to leverage Aspose.Imaging Java to c
 - **Support Forum:** [Aspose.Imaging Support](https://forum.aspose.com/c/imaging/10)
 
 Embark on your journey to mastering document conversion with Aspose.Imaging Java today!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

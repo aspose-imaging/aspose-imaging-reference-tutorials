@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Managing DICOM Metadata in Java with Aspose.Imaging
 
@@ -189,7 +191,11 @@ Managing DICOM metadata with Aspose.Imaging for Java is a powerful capability th
 - **Temporary License**: Obtain one for testing via the [temporary license page](https://purchase.aspose.com/temporary-license/)
 
 Dive in and start managing DICOM metadata efficiently with Aspose.Imaging for Java!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

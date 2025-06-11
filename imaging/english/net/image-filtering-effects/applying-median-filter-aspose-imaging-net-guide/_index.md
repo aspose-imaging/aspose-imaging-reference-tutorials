@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Apply a Median Filter Using Aspose.Imaging .NET: A Comprehensive Guide
 
@@ -167,7 +169,11 @@ Ready to get started? Implement these steps and experience enhanced image qualit
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Free Trial Version](https://releases.aspose.com/imaging/net/)
 - [Temporary License Application](https://purchase.aspose.com/temporary-license)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Efficient Image Loading and Cropping with Aspose.Imaging for .NET: A Step-by-Step Guide
 
@@ -186,7 +188,11 @@ To further expand your skills, consider exploring additional features like resiz
 - **Support Forum:** https://forum.aspose.com/c/imaging/10
 
 Start integrating these image handling techniques into your projects today and see the difference in performance and efficiency!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

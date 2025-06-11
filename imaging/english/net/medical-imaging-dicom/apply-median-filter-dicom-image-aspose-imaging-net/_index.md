@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Apply a Median Filter to DICOM Images Using Aspose.Imaging for .NET
 
@@ -158,6 +160,9 @@ Ready to take your skills further? Implement this solution in your projects!
 - [Support](https://forum.aspose.com/c/imaging/10)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

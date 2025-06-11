@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Load and Export a BMP Image as PDF Using Aspose.Imaging for Java
 
@@ -199,7 +201,11 @@ Ready to try it out? Start implementing this solution in your projects today!
 - [Support Forum](https://forum.aspose.com/c/imaging/10)
 
 Explore these resources to deepen your understanding and expand the capabilities of Aspose.Imaging in your projects. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

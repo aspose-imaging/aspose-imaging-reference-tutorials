@@ -8,7 +8,9 @@ url: /java/document-conversion-and-processing/frame-saving-in-different-raster-f
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Frame Saving in Different Raster Formats
@@ -93,6 +95,7 @@ A5: For any questions, issues, or assistance with Aspose.Imaging for Java, you c
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Create and Save BMP Images Using Aspose.Imaging for .NET
 
@@ -151,7 +153,11 @@ Next, consider exploring more features of Aspose.Imaging or diving deeper into o
 - **Purchase License**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Aspose.Imaging for Free](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

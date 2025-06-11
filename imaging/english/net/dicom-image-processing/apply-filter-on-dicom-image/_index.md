@@ -8,7 +8,9 @@ url: /net/dicom-image-processing/apply-filter-on-dicom-image/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Applying Filters to DICOM Images with Aspose.Imaging for .NET
@@ -100,6 +102,7 @@ A5: You can obtain a temporary license from [here](https://purchase.aspose.com/t
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

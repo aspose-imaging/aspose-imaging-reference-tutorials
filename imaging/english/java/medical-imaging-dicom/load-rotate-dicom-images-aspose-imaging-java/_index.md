@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Load and Rotate a DICOM Image Using Aspose.Imaging for Java
 
@@ -192,7 +194,11 @@ A5: Double-check your code for syntax errors and ensure all dependencies are cor
 - **Support**: Seek help on the [Aspose forum](https://forum.aspose.com/c/imaging/10).
 
 By following this guide, you're now equipped to handle DICOM image rotations in Java with confidence. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

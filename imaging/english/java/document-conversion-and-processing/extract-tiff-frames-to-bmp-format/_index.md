@@ -8,7 +8,9 @@ url: /java/document-conversion-and-processing/extract-tiff-frames-to-bmp-format/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # TIFF to BMP Conversion with Aspose.Imaging for Java
@@ -122,6 +124,7 @@ A5: For any questions, issues, or support related to Aspose.Imaging for Java, yo
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Processing with Aspose.Imaging Java: Applying the Gauss Wiener Filter
 
@@ -220,7 +222,11 @@ You've now learned how to leverage Aspose.Imaging for Java to load images, cast 
 - **Support Forum**: [Aspose.Imaging Community](https://forum.aspose.com/c/imaging/10)
 
 We hope this guide empowers you to enhance your projects with sophisticated image processing capabilities. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

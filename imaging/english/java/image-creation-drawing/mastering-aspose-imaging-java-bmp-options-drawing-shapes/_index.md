@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Processing with Aspose.Imaging Java: Configuring BMP Options and Drawing Shapes
 
@@ -222,7 +224,11 @@ A: Absolutely. It efficiently handles various image formats, including high-reso
 - **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
 
 Now that you're equipped with this knowledge, go ahead and try implementing these features in your Java applications!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

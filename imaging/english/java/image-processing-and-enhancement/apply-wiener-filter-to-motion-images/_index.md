@@ -8,7 +8,9 @@ url: /java/image-processing-and-enhancement/apply-wiener-filter-to-motion-images
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Apply Wiener Filter to Motion Images with Aspose.Imaging for Java
@@ -120,6 +122,7 @@ A5: If you encounter issues or have questions, you can visit the [Aspose.Imaging
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Load a Damaged TIFF Image Using Aspose.Imaging Java
 
@@ -163,7 +165,11 @@ Try implementing this solution in your projects today!
 - **Support Forum**: https://forum.aspose.com/c/imaging/10
 
 This guide equips you with the knowledge and tools to handle damaged TIFF images using Aspose.Imaging for Java. Start experimenting and integrating these capabilities into your applications today!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

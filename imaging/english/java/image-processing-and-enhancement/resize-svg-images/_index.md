@@ -8,7 +8,9 @@ url: /java/image-processing-and-enhancement/resize-svg-images/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Resize SVG Images with Aspose.Imaging for Java
@@ -123,6 +125,7 @@ A5: Yes, Aspose.Imaging can be used in commercial projects. You can find licensi
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

@@ -8,7 +8,9 @@ url: /net/dicom-image-processing/adjust-contrast-of-dicom-image/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # DICOM Image Contrast Adjustment with Aspose.Imaging for .NET
@@ -122,6 +124,7 @@ A5: Absolutely! While Aspose.Imaging is versatile for medical image processing, 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

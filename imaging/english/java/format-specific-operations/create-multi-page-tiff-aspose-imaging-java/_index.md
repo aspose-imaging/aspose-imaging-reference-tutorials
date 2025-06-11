@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Create a Multi-Page TIFF with Aspose.Imaging for Java
 
@@ -211,7 +213,11 @@ We encourage you to try implementing this solution in your next project and expl
 - [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 By following this guide, you should be well-equipped to create and manipulate multi-page TIFF files with Aspose.Imaging for Java. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

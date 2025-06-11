@@ -4,8 +4,11 @@ description: "Step-by-step tutorials for Aspose.Imaging installation, licensing,
 weight: 1
 url: "/java/getting-started/"
 ---
+
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Aspose.Imaging Getting Started Tutorials for Java Developers
 
@@ -48,7 +51,11 @@ Learn to resize JPGs and create multi-frame TIFF files using Aspose.Imaging for 
 - [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging)
 - [Free Support](https://forum.aspose.com/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

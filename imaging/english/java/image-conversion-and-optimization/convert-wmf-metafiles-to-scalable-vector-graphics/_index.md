@@ -8,7 +8,9 @@ url: /java/image-conversion-and-optimization/convert-wmf-metafiles-to-scalable-v
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Convert WMF Metafiles to Scalable Vector Graphics
@@ -104,6 +106,7 @@ A5: Aspose.Imaging for Java is compatible with Java 8 and later versions.
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

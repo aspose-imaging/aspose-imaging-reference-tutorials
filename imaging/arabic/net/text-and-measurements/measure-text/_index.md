@@ -1,60 +1,62 @@
 ---
-title: قياس النص في الصور باستخدام Aspose.Imaging لـ .NET
-linktitle: قياس النص في Aspose.Imaging لـ .NET
-second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
-description: قياس النص في الصور باستخدام Aspose.Imaging لـ .NET. مكتبة .NET قوية. قياس النص دقيق وفعال.
-weight: 10
-url: /ar/net/text-and-measurements/measure-text/
+"description": "قياس النص في الصور باستخدام Aspose.Imaging لـ .NET. مكتبة .NET فعّالة. قياس دقيق وفعال للنص."
+"linktitle": "قياس النص في Aspose.Imaging لـ .NET"
+"second_title": "واجهة برمجة تطبيقات معالجة الصور Aspose.Imaging .NET"
+"title": "قياس النص في الصور باستخدام Aspose.Imaging لـ .NET"
+"url": "/ar/net/text-and-measurements/measure-text/"
+"weight": 10
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # قياس النص في الصور باستخدام Aspose.Imaging لـ .NET
 
-إذا كنت مطور .NET وتسعى إلى معالجة الصور وقياس النص بدقة، فإن Aspose.Imaging for .NET يعد حلاً قويًا. في هذا الدليل التفصيلي، سنستكشف كيفية قياس النص باستخدام Aspose.Imaging، بدءًا من المتطلبات الأساسية وانتهاءً بمثال عملي. دعونا نتعمق في الأمر!
+إذا كنت مطور .NET وترغب في معالجة الصور وقياس النصوص بدقة، فإن Aspose.Imaging for .NET يُعد حلاً فعالاً. في هذا الدليل التفصيلي، سنستكشف كيفية قياس النصوص باستخدام Aspose.Imaging، بدءًا من المتطلبات الأساسية ووصولًا إلى مثال عملي. لنبدأ!
 
 ## المتطلبات الأساسية
 
 قبل أن نبدأ، تأكد من توفر المتطلبات الأساسية التالية:
 
-1. Aspose.Imaging لمكتبة .NET
- يجب أن يكون Aspose.Imaging for .NET مثبتًا لديك. إذا لم تقم بذلك بعد، يمكنك تنزيله من[هنا](https://releases.aspose.com/imaging/net/).
+1. مكتبة Aspose.Imaging لـ .NET
+يجب أن يكون لديك Aspose.Imaging for .NET مُثبّتًا. إذا لم تقم بذلك بعد، يمكنك تنزيله من [هنا](https://releases.aspose.com/imaging/net/).
 
 2. بيئة تطوير .NET
- تأكد من إعداد بيئة تطوير .NET. إذا لم يكن الأمر كذلك، يمكنك تنزيله من[هنا](https://dotnet.microsoft.com/download).
+تأكد من إعداد بيئة تطوير .NET لديك. إذا لم يكن الأمر كذلك، يمكنك تنزيلها من [هنا](https://dotnet.microsoft.com/download).
 
-3. صورة عينة
-لديك صورة عينة تريد العمل معها. يمكنك استخدام صورتك الخاصة أو تنزيل واحدة إلى دليل المشروع الخاص بك.
+3. صورة نموذجية
+لديك صورة نموذجية ترغب بالعمل عليها. يمكنك استخدام صورتك الخاصة أو تنزيلها إلى دليل مشروعك.
 
 ## استيراد مساحات الأسماء الضرورية
 
-للبدء في قياس النص في Aspose.Imaging لـ .NET، تحتاج إلى استيراد مساحات الأسماء الضرورية. هذه خطوة أساسية قبل كتابة أي كود. إليك كيفية القيام بذلك:
+لبدء قياس النص في Aspose.Imaging لـ .NET، عليك استيراد مساحات الأسماء اللازمة. هذه خطوة أساسية قبل كتابة أي شيفرة برمجية. إليك كيفية القيام بذلك:
 
-أولاً، افتح مشروع C# الخاص بك وأضف مساحات الأسماء المطلوبة:
+أولاً، افتح مشروع C# الخاص بك وأضف المساحات المطلوبة:
 
 ```csharp
 using Aspose.Imaging;
 using Aspose.Imaging.Drawing;
 ```
 
-توفر مساحات الأسماء هذه إمكانية الوصول إلى الفئات والأساليب اللازمة لمعالجة الصور وقياس النص.
+توفر هذه المساحات الأسماء إمكانية الوصول إلى الفئات والطرق اللازمة لمعالجة الصور وقياس النص.
 
-## قياس النص – مثال عملي
+## قياس النص - مثال عملي
 
-الآن، دعنا نستكشف مثالًا عمليًا لقياس النص في Aspose.Imaging for .NET:
+الآن، دعنا نستكشف مثالاً عمليًا لقياس النص في Aspose.Imaging لـ .NET:
 
 ### الخطوة 1: إنشاء كائن صورة
 
 ```csharp
 using (Image backgroundImage = Image.Load("Your Image Path"))
 {
-    // الرمز الخاص بك هنا
+    // الكود الخاص بك هنا
 }
 ```
 
- في هذه الخطوة، تقوم بتحميل صورتك. يستبدل`"Your Image Path"` مع المسار إلى ملف الصورة الخاص بك.
+في هذه الخطوة، قم بتحميل صورتك. استبدل `"Your Image Path"` مع المسار إلى ملف صورتك.
 
 ### الخطوة 2: تهيئة الرسومات
 
@@ -62,7 +64,7 @@ using (Image backgroundImage = Image.Load("Your Image Path"))
     Graphics graphics = new Graphics(backgroundImage);
 ```
 
-بعد ذلك، تقوم بإنشاء كائن رسومي، وهو أمر ضروري لقياس النص.
+بعد ذلك، قم بإنشاء كائن رسومي، وهو أمر ضروري لقياس النص.
 
 ### الخطوة 3: تحديد سمات النص
 
@@ -72,38 +74,40 @@ using (Image backgroundImage = Image.Load("Your Image Path"))
     SizeF size = graphics.MeasureString("Test", font, SizeF.Empty, format);
 ```
 
- هنا، يمكنك تعيين تنسيق النص، وتحديد الخط (في هذه الحالة، "Arial" بحجم 10)، واستخدام`MeasureString` طريقة قياس النص "اختبار" داخل الصورة.
+هنا، يمكنك تعيين تنسيق النص، وتحديد الخط (في هذه الحالة، "Arial" بحجم 10)، واستخدام `MeasureString` طريقة قياس النص "اختبار" داخل الصورة.
 
 ## خاتمة
 
- في هذا البرنامج التعليمي، قمنا بتغطية الخطوات الأساسية لقياس النص داخل الصورة باستخدام Aspose.Imaging for .NET. من خلال الإعداد الصحيح، يمكنك استيراد مساحات الأسماء المطلوبة والاستفادة من`MeasureString`بهذه الطريقة، يمكنك قياس النص بدقة في صورك. هذا مجرد مثال واحد لما يمكن أن يفعله Aspose.Imaging for .NET لتلبية احتياجات معالجة الصور الخاصة بك.
+في هذا البرنامج التعليمي، تناولنا الخطوات الأساسية لقياس النص داخل صورة باستخدام Aspose.Imaging لـ .NET. مع الإعداد الصحيح، واستيراد مساحات الأسماء المطلوبة، واستخدام `MeasureString` باستخدام هذه الطريقة، يمكنك قياس النص في صورك بدقة. هذا مجرد مثال واحد على ما يمكن لـ Aspose.Imaging for .NET فعله لمعالجة صورك.
 
- لمزيد من الإرشادات والوثائق المتعمقة، قم بزيارة[Aspose.Imaging لوثائق .NET](https://reference.aspose.com/imaging/net/).
+لمزيد من الإرشادات والتوثيق المتعمق، قم بزيارة [توثيق Aspose.Imaging لـ .NET](https://reference.aspose.com/imaging/net/).
 
 ## الأسئلة الشائعة
 
-### س1: هل يعتبر Aspose.Imaging for .NET مكتبة مجانية؟
+### س1: هل Aspose.Imaging لـ .NET مكتبة مجانية؟
 
- A1: Aspose.Imaging لـ .NET ليس مجانيًا. يمكنك العثور على تفاصيل الترخيص والأسعار على[موقع أسبوز](https://purchase.aspose.com/buy).
+ج١: Aspose.Imaging لـ .NET ليس مجانيًا. يمكنك الاطلاع على تفاصيل الترخيص والأسعار على [موقع Aspose](https://purchase.aspose.com/buy).
 
 ### س2: هل يمكنني تجربة Aspose.Imaging لـ .NET قبل الشراء؟
 
- ج2: نعم، يمكنك تجربة الإصدار التجريبي المجاني من Aspose.Imaging for .NET من خلال زيارة الموقع[هنا](https://releases.aspose.com/). 
+ج2: نعم، يمكنك تجربة نسخة تجريبية مجانية من Aspose.Imaging لـ .NET من خلال زيارة [هنا](https://releases.aspose.com/). 
 
 ### س3: كيف يمكنني الحصول على ترخيص مؤقت لـ Aspose.Imaging لـ .NET؟
 
- ج3: للحصول على ترخيص مؤقت قم بزيارة[هذا الرابط](https://purchase.aspose.com/temporary-license/).
+أ3: للحصول على ترخيص مؤقت، قم بزيارة [هذا الرابط](https://purchase.aspose.com/temporary-license/).
 
 ### س4: أين يمكنني العثور على دعم المجتمع أو طرح الأسئلة؟
 
- ج4: إذا كانت لديك أسئلة أو كنت بحاجة إلى مساعدة، تفضل بزيارة[Aspose.منتدى التصوير](https://forum.aspose.com/).
+أ4: إذا كانت لديك أسئلة أو تحتاج إلى مساعدة، قم بزيارة [منتدى Aspose.Imaging](https://forum.aspose.com/).
 
 ### س5: كيف يمكنني تنزيل Aspose.Imaging لـ .NET؟
 
- ج5: يمكنك تنزيل Aspose.Imaging لـ .NET من ملف[صفحة التحميل](https://releases.aspose.com/imaging/net/).
+A5: يمكنك تنزيل Aspose.Imaging لـ .NET من [صفحة التحميل](https://releases.aspose.com/imaging/net/).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

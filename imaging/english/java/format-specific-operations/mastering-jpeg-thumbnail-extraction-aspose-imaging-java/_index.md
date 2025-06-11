@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Title: Mastering Aspose.Imaging Java: Load and Save JPEG Thumbnails
 
@@ -210,7 +212,11 @@ Ready to start implementing? Head over to the [Aspose.Imaging documentation](htt
 - Support: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
 
 With these resources, you’re equipped to make the most of Aspose.Imaging in your Java projects. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

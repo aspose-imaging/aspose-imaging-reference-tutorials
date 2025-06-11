@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Load a CDR Image and Save it as a Multi-page PSD Using Aspose.Imaging for Java
 
@@ -214,7 +216,11 @@ In this tutorial, we've explored how to use Aspose.Imaging for Java to load CDR 
 - **Support:** [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 By following this guide, you should be well-equipped to handle CDR image loading and conversion tasks in your Java applications using Aspose.Imaging. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

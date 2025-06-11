@@ -8,7 +8,9 @@ url: /net/dicom-image-processing/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # DICOM Image Processing with Aspose.Imaging for .NET
@@ -114,9 +116,11 @@ Learn how to export images to DICOM format in .NET using Aspose.Imaging. Convert
 Learn how to perform grayscaling on DICOM images with Aspose.Imaging for .NET, a powerful image processing library.
 ### [Support Storing XMP Tags in Aspose.Imaging for .NET](./support-storing-xmp-tags/)
 Learn how to add XMP metadata to DICOM images using Aspose.Imaging for .NET. Optimize image management and organization with this step-by-step guide.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

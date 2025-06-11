@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Comprehensive Guide to Configuring BmpOptions in Aspose.Imaging Java
 
@@ -199,7 +201,11 @@ Ready to put what you've learned into practice? Start implementing these configu
 - [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 With these resources, you're well-equipped to master `BmpOptions` and unlock the full potential of Aspose.Imaging in your Java projects. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

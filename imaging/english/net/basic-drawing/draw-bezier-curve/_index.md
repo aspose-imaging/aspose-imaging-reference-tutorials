@@ -8,7 +8,9 @@ url: /net/basic-drawing/draw-bezier-curve/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Drawing Bezier Curves in Aspose.Imaging for .NET
@@ -136,6 +138,7 @@ A5: You can explore the [documentation](https://reference.aspose.com/imaging/net
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

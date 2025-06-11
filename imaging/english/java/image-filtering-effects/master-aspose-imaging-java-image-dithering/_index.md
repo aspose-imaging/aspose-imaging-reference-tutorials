@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Master Aspose.Imaging Java for Image Dithering and Configurable Paths
 
@@ -211,7 +213,11 @@ For further exploration and support:
 - **Support Forum:** [Aspose.Imaging Support](https://forum.aspose.com/c/imaging/10)
 
 Start exploring the possibilities with Aspose.Imaging for Java today and enhance your image processing projects!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

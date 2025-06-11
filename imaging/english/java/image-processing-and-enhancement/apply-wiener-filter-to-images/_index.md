@@ -8,7 +8,9 @@ url: /java/image-processing-and-enhancement/apply-wiener-filter-to-images/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Apply Wiener Filter to Images with Aspose.Imaging for Java
@@ -115,6 +117,7 @@ A5: You can find support and assistance in the [Aspose.Imaging for Java forums](
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

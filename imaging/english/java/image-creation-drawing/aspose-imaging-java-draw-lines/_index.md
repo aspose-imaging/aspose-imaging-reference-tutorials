@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Creating Stunning Images with Aspose.Imaging Java: A Comprehensive Guide to Drawing Lines
 
@@ -242,7 +244,11 @@ Throughout this tutorial, we explored how to configure bitmap options and draw l
 - [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 By leveraging these resources, you can enhance your understanding and usage of Aspose.Imaging for Java in your projects. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

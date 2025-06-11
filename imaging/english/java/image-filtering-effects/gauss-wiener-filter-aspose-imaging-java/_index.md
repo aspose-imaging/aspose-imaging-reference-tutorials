@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Processing: Applying the Gauss Wiener Filter with Aspose.Imaging for Java
 
@@ -190,7 +192,11 @@ A: Purchase a subscription from [Aspose's purchase page](https://purchase.aspose
 - **Purchase License:** Visit [Aspose Purchase](https://purchase.aspose.com/buy) for licensing options.
 - **Free Trial & Temporary License:** Start with a free trial or obtain a temporary license at [Aspose Free Trial and Licensing](https://releases.aspose.com/imaging/java/).
 - **Support Forum:** Engage with the community on [Aspose Support Forum](https://forum.aspose.com/c/imaging/10).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

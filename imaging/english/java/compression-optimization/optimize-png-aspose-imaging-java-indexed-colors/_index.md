@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Title: Master Aspose.Imaging Java: Optimize PNGs with Indexed Colors and Transparency
 
@@ -236,7 +238,11 @@ Try implementing this solution in your projects and see the difference it makes!
 - **Support**: [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
 
 By exploring these resources, you can deepen your understanding of Aspose.Imaging and its capabilities. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

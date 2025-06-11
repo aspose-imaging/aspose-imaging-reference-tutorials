@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Add a Watermark to Images Using Aspose.Imaging for .NET: A Comprehensive Guide
 
@@ -166,6 +168,9 @@ By following this guide, you've learned how to add watermarks to images using As
 By leveraging these resources, you can further explore and master the Aspose.Imaging library for .NET. Happy coding!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

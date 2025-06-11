@@ -8,7 +8,9 @@ url: /net/vector-image-processing/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Vector Image Processing
@@ -51,6 +53,7 @@ Aspose.Imaging for .NET empowers you to take control of vector image processing,
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

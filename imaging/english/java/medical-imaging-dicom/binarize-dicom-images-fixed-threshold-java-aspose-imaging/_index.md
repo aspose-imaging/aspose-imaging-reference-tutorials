@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Perform Binarization with Fixed Threshold on DICOM Images Using Aspose.Imaging for Java
 
@@ -179,7 +181,11 @@ Ready to try it out? Implement this solution in your project today!
 - **Free Trial and Temporary License**: Try before you buy at [Releases](https://releases.aspose.com/imaging/java/) or get a temporary license from [Temporary Licenses](https://purchase.aspose.com/temporary-license/).
 
 By following this tutorial, you should now be equipped to implement fixed threshold binarization on DICOM images using Aspose.Imaging for Java effectively. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

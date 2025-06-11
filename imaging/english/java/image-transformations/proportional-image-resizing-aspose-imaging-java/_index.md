@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Proportional Image Resizing with Aspose.Imaging for Java
 
@@ -208,7 +210,11 @@ Ready to try it out? Head over to [Aspose.Imaging Documentation](https://referen
 - **Free Trial & Temporary License:** [Try Aspose.Imaging Free](https://releases.aspose.com/imaging/java/) and [Temporary License Page](https://purchase.aspose.com/temporary-license/)
 
 Embark on your image processing journey with confidence, knowing you have the right tools at your disposal!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

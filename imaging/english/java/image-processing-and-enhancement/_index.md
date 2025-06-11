@@ -8,7 +8,9 @@ url: /java/image-processing-and-enhancement/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Image Processing and Enhancement
@@ -122,9 +124,11 @@ Learn how to adjust image brightness using Aspose.Imaging for Java. Enhance your
 Learn how to apply filters to DICOM images using Aspose.Imaging for Java. Enhance medical imaging with ease.
 ### [Image Binarization](./bradleys-adaptive-threshold-binarization/)
 Learn image binarization with Aspose.Imaging for Java. Transform DICOM images easily. Explore a step-by-step guide with code examples.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

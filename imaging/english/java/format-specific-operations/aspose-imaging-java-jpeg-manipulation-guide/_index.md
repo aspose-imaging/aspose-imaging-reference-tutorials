@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Comprehensive Guide to JPEG Image Manipulation using Aspose.Imaging for Java
 
@@ -192,7 +194,11 @@ A5: Optimize your code by managing resources effectively and using appropriate d
 - **Support Forum:** [Aspose Imaging Support](https://forum.aspose.com/c/imaging/10)
 
 Happy coding, and enjoy exploring the capabilities of Aspose.Imaging for Java!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

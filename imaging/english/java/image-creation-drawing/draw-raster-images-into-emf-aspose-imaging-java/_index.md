@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Draw Raster Images into EMF Using Aspose.Imaging for Java
 
@@ -222,7 +224,11 @@ Ready to apply what you've learned? Try implementing these techniques in your ne
 - **Support Forum**: [Aspose.Imaging Support](https://forum.aspose.com/c/imaging/10) 
 
 Embark on your journey with Aspose.Imaging for Java today and unlock new potentials in image processing!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

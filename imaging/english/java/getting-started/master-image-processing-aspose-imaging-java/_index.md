@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Master Image Processing with Aspose.Imaging Java: Resize JPGs and Create TIFF Frames
 
@@ -215,7 +217,11 @@ You've now mastered how to resize JPG images and create multi-frame TIFF files u
    By consolidating multiple images into a single file, making it easier to handle and distribute large collections of related images.
 
 For more resources, refer to Aspose.Imaging's [documentation](https://reference.aspose.com/imaging/java/) and explore their [download page](https://releases.aspose.com/imaging/java/) for the latest updates. For any support queries, visit the [Aspose forum](https://forum.aspose.com/c/imaging/10).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

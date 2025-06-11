@@ -8,7 +8,9 @@ url: /java/metafile-and-vector-image-handling/otg-file-format-support/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Effortless Image Processing with Aspose.Imaging for Java
@@ -146,6 +148,7 @@ A5: If you have any questions or encounter issues, you can visit the Aspose.Imag
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

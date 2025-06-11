@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Crop WMF Images Using Aspose.Imaging for .NET: A Comprehensive Guide
 
@@ -151,7 +153,11 @@ As a next step, consider exploring other features of Aspose.Imaging, such as res
 - **Temporary License:** Obtain a temporary license for evaluation purposes at [Purchase Aspose](https://purchase.aspose.com/temporary-license/)
 
 By following this comprehensive guide, you should now be equipped to handle WMF images efficiently in your .NET applications. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

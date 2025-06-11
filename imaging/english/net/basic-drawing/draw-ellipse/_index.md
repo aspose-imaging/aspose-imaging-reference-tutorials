@@ -8,7 +8,9 @@ url: /net/basic-drawing/draw-ellipse/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Drawing Ellipses in Aspose.Imaging for .NET
@@ -148,6 +150,7 @@ You can seek support and engage with the Aspose community on the [forum](https:/
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

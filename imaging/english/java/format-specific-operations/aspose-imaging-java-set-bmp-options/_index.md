@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Aspose.Imaging Java: Setting BMP Options
 
@@ -185,7 +187,11 @@ While other libraries exist, Aspose.Imaging provides comprehensive support and e
 - **Support**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 This tutorial provides the foundation you need to effectively implement BMP options in your Java projects using Aspose.Imaging. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

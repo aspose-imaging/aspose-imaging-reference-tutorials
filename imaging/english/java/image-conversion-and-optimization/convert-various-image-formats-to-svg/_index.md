@@ -8,7 +8,9 @@ url: /java/image-conversion-and-optimization/convert-various-image-formats-to-sv
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Convert Various Image Formats to SVG with Aspose.Imaging for Java
@@ -93,6 +95,7 @@ A5: SVG is a scalable and XML-based image format that offers high-quality vector
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

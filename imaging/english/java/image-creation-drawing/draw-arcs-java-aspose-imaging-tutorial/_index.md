@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Title: Master Drawing Arcs with Aspose.Imaging Java
 
@@ -190,7 +192,11 @@ In this tutorial, we've covered how to draw arcs on images using Aspose.Imaging 
 - [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 Feel free to dive into these resources for more detailed information and support. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

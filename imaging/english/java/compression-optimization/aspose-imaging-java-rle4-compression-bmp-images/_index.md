@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Title: Mastering Aspose.Imaging Java: Implement RLE4 Compression for BMP Images
 
@@ -192,7 +194,11 @@ Take the leap and start implementing these techniques in your next project!
 - **Support**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 By implementing these steps and utilizing the provided resources, you'll be well-equipped to handle BMP image compression with Aspose.Imaging for Java. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

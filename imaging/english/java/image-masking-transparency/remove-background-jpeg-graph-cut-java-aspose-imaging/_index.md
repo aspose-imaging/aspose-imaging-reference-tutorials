@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Master Image Manipulation in Java with Aspose.Imaging: Remove Backgrounds Using Graph Cut
 
@@ -220,7 +222,11 @@ To further enhance your skills, consider exploring other features of Aspose.Imag
 - [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 Start your journey with Aspose.Imaging today and unlock the full potential of image processing in Java!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

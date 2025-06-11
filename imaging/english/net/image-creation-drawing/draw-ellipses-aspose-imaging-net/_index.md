@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Draw Ellipses on Images Using Aspose.Imaging for .NET
 
@@ -169,6 +171,9 @@ Next steps could include integrating this feature into a larger application or e
 Try implementing these techniques in your next project and see how Aspose.Imaging for .NET can enhance your image processing capabilities!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

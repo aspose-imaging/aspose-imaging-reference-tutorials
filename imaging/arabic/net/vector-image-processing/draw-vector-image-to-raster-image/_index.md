@@ -1,42 +1,44 @@
 ---
-title: ارسم صورة متجهة إلى صورة نقطية في Aspose.Imaging لـ .NET
-linktitle: ارسم صورة متجهة إلى صورة نقطية في Aspose.Imaging لـ .NET
-second_title: Aspose.Imaging .NET واجهة برمجة تطبيقات معالجة الصور
-description: تعرف على كيفية تحويل الصور المتجهة إلى صور نقطية في .NET باستخدام Aspose.Imaging. دليل خطوة بخطوة لمعالجة الصور بكفاءة.
-weight: 13
-url: /ar/net/vector-image-processing/draw-vector-image-to-raster-image/
+"description": "تعرّف على كيفية تحويل الصور المتجهة إلى صور نقطية في .NET باستخدام Aspose.Imaging. دليل خطوة بخطوة لمعالجة الصور بكفاءة."
+"linktitle": "رسم صورة متجهة إلى صورة نقطية في Aspose.Imaging لـ .NET"
+"second_title": "واجهة برمجة تطبيقات معالجة الصور Aspose.Imaging .NET"
+"title": "رسم صورة متجهة إلى صورة نقطية في Aspose.Imaging لـ .NET"
+"url": "/ar/net/vector-image-processing/draw-vector-image-to-raster-image/"
+"weight": 13
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# ارسم صورة متجهة إلى صورة نقطية في Aspose.Imaging لـ .NET
+# رسم صورة متجهة إلى صورة نقطية في Aspose.Imaging لـ .NET
 
 
-هل تتطلع إلى تحويل الصور المتجهة إلى صور نقطية بسهولة في تطبيقات .NET الخاصة بك؟ يوفر Aspose.Imaging for .NET حلاً فعالاً لهذه المهمة. في هذا الدليل التفصيلي خطوة بخطوة، سنرشدك خلال عملية رسم الصور المتجهة إلى الصور النقطية باستخدام Aspose.Imaging for .NET. 
+هل ترغب في تحويل الصور المتجهة إلى صور نقطية بسهولة في تطبيقات .NET؟ يوفر Aspose.Imaging for .NET حلاً فعالاً لهذه المهمة. في هذا الدليل المفصل، سنشرح لك عملية تحويل الصور المتجهة إلى صور نقطية باستخدام Aspose.Imaging for .NET. 
 
 ## المتطلبات الأساسية
 
-قبل أن نتعمق في البرنامج التعليمي، تأكد من توفر المتطلبات الأساسية التالية:
+قبل أن نتعمق في البرنامج التعليمي، تأكد من أن لديك المتطلبات الأساسية التالية:
 
 ### 1. Aspose.Imaging لـ .NET
 
- يجب أن يكون Aspose.Imaging for .NET مثبتًا لديك. إذا لم يكن لديك، يمكنك تنزيله من الموقع على[قم بتنزيل Aspose.Imaging لـ .NET](https://releases.aspose.com/imaging/net/).
+يجب أن يكون لديك Aspose.Imaging for .NET مُثبّتًا. إذا لم يكن مُثبّتًا لديك، يُمكنك تنزيله من الموقع الإلكتروني على [تنزيل Aspose.Imaging لـ .NET](https://releases.aspose.com/imaging/net/).
 
 ### 2. بيئة تطوير .NET
 
-تأكد من إعداد بيئة تطوير .NET على جهاز الكمبيوتر الخاص بك. يمكنك استخدام Visual Studio أو أي أداة تطوير .NET أخرى.
+تأكد من تثبيت بيئة تطوير .NET على جهاز الكمبيوتر الخاص بك. يمكنك استخدام Visual Studio أو أي أداة تطوير .NET أخرى.
 
-الآن، دعونا نقسم عملية رسم الصور المتجهة إلى صور نقطية إلى خطوات بسيطة وسهلة المتابعة:
+الآن، دعنا نقسم عملية تحويل الصور المتجهة إلى صور نقطية إلى خطوات بسيطة وسهلة المتابعة:
 
 ## الخطوة 1: تهيئة مشروعك
 
 ابدأ بإنشاء مشروع .NET جديد في بيئة التطوير الخاصة بك. تأكد من دمج Aspose.Imaging for .NET في مشروعك.
 
-## الخطوة 2: تحميل الصورة المتجهة
+## الخطوة 2: تحميل صورة المتجه
 
-في هذه الخطوة، نقوم بتحميل الصورة المتجهة (بتنسيق SVG) التي تريد تحويلها إلى صورة نقطية.
+في هذه الخطوة، نقوم بتحميل الصورة المتجهة (بتنسيق SVG) التي نريد تحويلها إلى صورة نقطية.
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -47,9 +49,9 @@ using (SvgImage svgImage = (SvgImage)Image.Load(dataDir + "asposenet_220_src02.s
 }
 ```
 
-## الخطوة 3: تنقيط الصورة المتجهة
+## الخطوة 3: تحويل الصورة المتجهة إلى صورة نقطية
 
-الآن، نحن بحاجة إلى تنقيط صورة SVG إلى تنسيق PNG. هذا هو المكان الذي يحدث فيه التحويل من المتجه إلى البيانات النقطية.
+الآن، نحتاج إلى تحويل صورة SVG إلى صيغة PNG. هنا يتم التحويل من متجه إلى نقطي.
 
 ```csharp
 SvgRasterizationOptions rasterizationOptions = new SvgRasterizationOptions();
@@ -61,7 +63,7 @@ svgImage.Save(drawnImageStream, saveOptions);
 
 ## الخطوة 4: تحميل الصورة النقطية
 
-بعد التنقيط، قم بتحميل صورة PNG من الدفق لمزيد من الرسم.
+بعد التحويل إلى صورة نقطية، قم بتحميل صورة PNG من التدفق لمزيد من الرسم.
 
 ```csharp
 drawnImageStream.Seek(0, System.IO.SeekOrigin.Begin);
@@ -88,7 +90,7 @@ graphics.DrawImage(imageToDraw, origin, size);
 
 ## الخطوة 6: حفظ النتيجة
 
-وأخيراً، احفظ الصورة الناتجة. لديك الآن صورة نقطية تتضمن الصورة المتجهة الخاصة بك.
+أخيرًا، احفظ الصورة الناتجة. لديك الآن صورة نقطية تتضمن صورتك المتجهة.
 
 ```csharp
 using (SvgImage resultImage = graphics.EndRecording())
@@ -99,28 +101,30 @@ using (SvgImage resultImage = graphics.EndRecording())
 
 ## خاتمة
 
-في هذا البرنامج التعليمي، أوضحنا كيفية تحويل الصور المتجهة إلى صور نقطية باستخدام Aspose.Imaging for .NET. من خلال هذه الخطوات البسيطة، يمكنك دمج هذه الوظيفة بسهولة في تطبيقات .NET الخاصة بك.
+في هذا البرنامج التعليمي، شرحنا كيفية تحويل الصور المتجهة إلى صور نقطية باستخدام Aspose.Imaging لـ .NET. بهذه الخطوات البسيطة، يمكنك دمج هذه الوظيفة بسهولة في تطبيقات .NET الخاصة بك.
 
-### أسئلة مكررة
+### الأسئلة الشائعة
 
 ### ما هو Aspose.Imaging لـ .NET؟
-Aspose.Imaging for .NET هي مكتبة .NET توفر ميزات قوية لمعالجة الصور، بما في ذلك القدرة على العمل مع تنسيقات الصور المختلفة، وتحويل الصور، وتنفيذ مهام معالجة الصور المتقدمة.
+Aspose.Imaging for .NET هي مكتبة .NET توفر ميزات معالجة الصور القوية، بما في ذلك القدرة على العمل مع تنسيقات الصور المختلفة، وتحويل الصور، وإجراء مهام معالجة الصور المتقدمة.
 
-### أين يمكنني العثور على الوثائق الخاصة بـ Aspose.Imaging for .NET؟
- يمكنك العثور على وثائق Aspose.Imaging لـ .NET[هنا](https://reference.aspose.com/imaging/net/).
+### أين يمكنني العثور على الوثائق الخاصة بـ Aspose.Imaging لـ .NET؟
+يمكنك العثور على الوثائق الخاصة بـ Aspose.Imaging لـ .NET [هنا](https://reference.aspose.com/imaging/net/).
 
 ### هل هناك نسخة تجريبية مجانية متاحة؟
- نعم، يمكنك الوصول إلى النسخة التجريبية المجانية من Aspose.Imaging for .NET[هنا](https://releases.aspose.com/).
+نعم، يمكنك الوصول إلى نسخة تجريبية مجانية من Aspose.Imaging لـ .NET [هنا](https://releases.aspose.com/).
 
 ### كيف يمكنني الحصول على ترخيص مؤقت لـ Aspose.Imaging لـ .NET؟
- إذا كنت بحاجة إلى ترخيص مؤقت، يمكنك الحصول عليه[هنا](https://purchase.aspose.com/temporary-license/).
+إذا كنت بحاجة إلى ترخيص مؤقت، يمكنك الحصول على واحد [هنا](https://purchase.aspose.com/temporary-license/).
 
 ### أين يمكنني الحصول على الدعم لـ Aspose.Imaging لـ .NET؟
- للحصول على أي دعم أو استفسارات، يمكنك زيارة[Aspose.منتدى التصوير](https://forum.aspose.com/).
+لأي دعم أو استفسارات يمكنك زيارة [منتدى Aspose.Imaging](https://forum.aspose.com/).
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

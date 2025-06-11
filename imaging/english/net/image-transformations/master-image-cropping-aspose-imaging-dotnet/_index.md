@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Cropping in .NET with Aspose.Imaging
 
@@ -154,7 +156,11 @@ A5: Tasks include resizing, format conversion, and advanced editing like filters
 - **Free Trial:** Start with a trial via [here](https://releases.aspose.com/imaging/net/).
 - **Temporary License:** Request one for extended testing through [this link](https://purchase.aspose.com/temporary-license/).
 - **Support:** Join the community forum at [Aspose Support](https://forum.aspose.com/c/imaging/10).
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

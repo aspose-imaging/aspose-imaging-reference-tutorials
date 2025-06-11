@@ -1,19 +1,21 @@
 ---
-title: ضبط جاما لصورة DICOM باستخدام Aspose.Imaging لـ Java
-linktitle: ضبط جاما لصورة DICOM
-second_title: Aspose.Imaging واجهة برمجة تطبيقات معالجة الصور لجافا
-description: تعرف على كيفية ضبط جاما صور DICOM في Java باستخدام Aspose.Imaging for Java. تعزيز جودة الصورة الطبية بخطوات سهلة.
-weight: 24
-url: /ar/java/image-processing-and-enhancement/dicom-image-gamma-adjustment/
+"description": "تعلّم كيفية ضبط غاما صور DICOM في جافا باستخدام Aspose.Imaging for Java. حسّن جودة الصور الطبية بخطوات سهلة."
+"linktitle": "ضبط جاما لصورة DICOM"
+"second_title": "واجهة برمجة تطبيقات معالجة الصور Java Aspose.Imaging"
+"title": "تعديل جاما لصور DICOM باستخدام Aspose.Imaging لـ Java"
+"url": "/ar/java/image-processing-and-enhancement/dicom-image-gamma-adjustment/"
+"weight": 24
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# ضبط جاما لصورة DICOM باستخدام Aspose.Imaging لـ Java
+# تعديل جاما لصور DICOM باستخدام Aspose.Imaging لـ Java
 
-هل تتطلع إلى تحسين جودة صور DICOM في تطبيقات Java الخاصة بك؟ Aspose.Imaging for Java هي مكتبة قوية ومتعددة الاستخدامات تسمح لك بمعالجة الصور ومعالجتها، بما في ذلك تنسيق DICOM. في هذا البرنامج التعليمي خطوة بخطوة، سنرشدك خلال عملية ضبط جاما لصورة DICOM باستخدام Aspose.Imaging for Java. 
+هل ترغب في تحسين جودة صور DICOM في تطبيقات Java؟ Aspose.Imaging for Java هي مكتبة قوية ومتعددة الاستخدامات تتيح لك معالجة الصور، بما في ذلك تنسيق DICOM. في هذا البرنامج التعليمي المفصل، سنرشدك خلال عملية ضبط جاما لصورة DICOM باستخدام Aspose.Imaging for Java. 
 
 ## المتطلبات الأساسية
 
@@ -22,15 +24,15 @@ url: /ar/java/image-processing-and-enhancement/dicom-image-gamma-adjustment/
 ### 1. بيئة تطوير جافا
 - تأكد من تثبيت Java Development Kit (JDK) على نظامك.
 
-### 2. Aspose.Imaging لمكتبة جافا
--  يمكنك الحصول على مكتبة Aspose.Imaging for Java من[رابط التحميل](https://releases.aspose.com/imaging/java/).
+### 2. مكتبة Aspose.Imaging لـ Java
+- يمكنك الحصول على مكتبة Aspose.Imaging لـ Java من [رابط التحميل](https://releases.aspose.com/imaging/java/).
 
 ### 3. إدخال صورة DICOM
-- يجب أن يكون لديك صورة DICOM التي تريد معالجتها. إذا لم يكن لديك واحدة، يمكنك بسهولة العثور على نماذج من صور DICOM عبر الإنترنت أو استخدام صورك الخاصة.
+- يجب أن يكون لديك صورة DICOM ترغب في معالجتها. إذا لم تكن لديك واحدة، يمكنك بسهولة العثور على نماذج صور DICOM على الإنترنت أو استخدام صورك الخاصة.
 
-## حزم الاستيراد
+## استيراد الحزم
 
-أولاً، تحتاج إلى استيراد الحزم المطلوبة لمشروع Java الخاص بك. وإليك كيف يمكنك القيام بذلك:
+أولاً، عليك استيراد الحزم المطلوبة لمشروع جافا. إليك كيفية القيام بذلك:
 
 ```java
 import com.aspose.imaging.fileformats.dicom.DicomImage;
@@ -41,11 +43,11 @@ import java.io.FileInputStream;
 import java.io.IOException;
 ```
 
-دعونا نقسم عملية ضبط جاما صورة DICOM إلى سلسلة من الخطوات سهلة المتابعة.
+دعونا نقوم بتقسيم عملية ضبط جاما لصورة DICOM إلى سلسلة من الخطوات السهلة المتابعة.
 
 ## الخطوة 1: تعيين مسارات الملفات
 
-تحتاج إلى تحديد مسارات ملف الإدخال والإخراج. يستبدل`"Your Document Directory"` مع الدليل الفعلي حيث توجد صورة DICOM الخاصة بك.
+يجب عليك تحديد مسارات ملفات الإدخال والإخراج. استبدل `"Your Document Directory"` مع الدليل الفعلي الذي توجد به صورة DICOM الخاصة بك.
 
 ```java
 String dataDir = "Your Document Directory" + "dicom/";
@@ -53,15 +55,15 @@ String inputFile = dataDir + "image.dcm";
 String outputFile = dataDir + "AdjustingGamma.bmp";
 ```
 
-## الخطوة 2: قم بتحميل صورة DICOM
+## الخطوة 2: تحميل صورة DICOM
 
- قم بتحميل صورة DICOM باستخدام Aspose.Imaging`DicomImage` فصل.
+قم بتحميل صورة DICOM باستخدام Aspose.Imaging's `DicomImage` فصل.
 
 ```java
 File file = new File(inputFile);
 
 try (FileInputStream fis = new FileInputStream(file)) {
-    // قم بتحميل صورة DICOM في مثيل DicomImage
+    // تحميل صورة DICOM في مثيل DicomImage
     try (DicomImage image = (DicomImage) Image.load(fis)) {
 ```
 
@@ -74,12 +76,12 @@ try (FileInputStream fis = new FileInputStream(file)) {
         image.adjustGamma(50);
 ```
 
-## الخطوة 4: احفظ الصورة الناتجة
+## الخطوة 4: حفظ الصورة الناتجة
 
- إنشاء مثيل ل`BmpOptions` للصورة الناتجة وحفظها.
+إنشاء مثيل لـ `BmpOptions` للحصول على الصورة الناتجة وحفظها.
 
 ```java
-        // قم بإنشاء مثيل BmpOptions للصورة الناتجة واحفظ الصورة الناتجة
+        // إنشاء مثيل لـ BmpOptions للصورة الناتجة وحفظ الصورة الناتجة
         image.save(outputFile, new BmpOptions());
     }
 } catch (IOException ex) {
@@ -89,38 +91,40 @@ try (FileInputStream fis = new FileInputStream(file)) {
 }
 ```
 
-هذا كل شيء! لقد نجحت في ضبط جاما صورة DICOM باستخدام Aspose.Imaging for Java.
+هذا كل شيء! لقد نجحت في ضبط جاما صورة DICOM باستخدام Aspose.Imaging لـ Java.
 
 ## خاتمة
 
-يوفر Aspose.Imaging for Java طريقة سلسة وفعالة لمعالجة صور DICOM في تطبيقات Java الخاصة بك. باتباع هذا الدليل التفصيلي، يمكنك بسهولة تحسين جودة صور DICOM الخاصة بك عن طريق ضبط جاما. بفضل واجهة برمجة التطبيقات البديهية والوثائق الشاملة، يعد Aspose.Imaging for Java أداة قيمة لمهام معالجة الصور.
+يوفر Aspose.Imaging for Java طريقة سلسة وفعّالة لمعالجة صور DICOM في تطبيقات Java. باتباع هذا الدليل المفصل، يمكنك بسهولة تحسين جودة صور DICOM عن طريق ضبط جاما. بفضل واجهة برمجة التطبيقات سهلة الاستخدام والوثائق الشاملة، يُعد Aspose.Imaging for Java أداة قيّمة لمعالجة الصور.
 
- إذا كانت لديك أي أسئلة أو واجهت مشاكل، فلا تتردد في طلب المساعدة من[Aspose.Imaging المجتمع](https://forum.aspose.com/). أنها توفر دعمًا وموارد ممتازة لمساعدتك في رحلة معالجة الصور الخاصة بك.
+إذا كان لديك أي أسئلة أو واجهت أي مشكلات، فلا تتردد في طلب المساعدة من [مجتمع Aspose.Imaging](https://forum.aspose.com/)إنهم يقدمون الدعم والموارد الممتازة لمساعدتك في رحلة معالجة الصور الخاصة بك.
 
 ## الأسئلة الشائعة
 
 ### س1: ما هي صورة DICOM؟
 
-A1: DICOM (التصوير الرقمي والاتصالات في الطب) هو تنسيق قياسي يستخدم في صناعة الرعاية الصحية لنقل الصور الطبية وتخزينها وعرضها. ويضمن إمكانية التشغيل البيني والاتساق في التصوير الطبي.
+A1: DICOM (التصوير الرقمي والاتصالات في الطب) هو تنسيق قياسي يُستخدم في قطاع الرعاية الصحية لنقل الصور الطبية وتخزينها وعرضها. وهو يضمن التوافق والاتساق في التصوير الطبي.
 
-### س2: ما سبب أهمية ضبط جاما لصور DICOM؟
+### س2: لماذا يعد تعديل جاما مهمًا لصور DICOM؟
 
-ج2: يعد ضبط جاما أمرًا ضروريًا لتحسين الجودة المرئية لصور DICOM. فهو يساعد على تعزيز التباين والمظهر العام للصور الطبية، مما يسهل تفسيرها وتحليلها.
+ج٢: يُعدّ ضبط جاما أمرًا بالغ الأهمية لتحسين جودة صور DICOM. فهو يُحسّن التباين والمظهر العام للصور الطبية، مما يُسهّل تفسيرها وتحليلها.
 
 ### س3: هل يمكنني معالجة صور DICOM بلغات برمجة أخرى؟
 
-ج3: نعم، يوفر Aspose.Imaging مكتبات لمختلف لغات البرمجة، بما في ذلك .NET وJava والمزيد، مما يجعله متعدد الاستخدامات لمعالجة الصور عبر الأنظمة الأساسية المختلفة.
+ج3: نعم، يوفر Aspose.Imaging مكتبات للغات برمجة مختلفة، بما في ذلك .NET وJava والمزيد، مما يجعله متعدد الاستخدامات لمعالجة الصور عبر منصات مختلفة.
 
-### س 4: هل هناك أي قيود عند العمل مع صور DICOM؟
+### س4: هل هناك أي قيود عند العمل مع صور DICOM؟
 
-ج4: قد تحتوي بعض صور DICOM على بنيات وبيانات تعريف معقدة. تأكد من أن لديك فهمًا جيدًا لمعيار DICOM وأشكاله المختلفة للتعامل مع مثل هذه الحالات بفعالية.
+ج٤: قد تحتوي بعض صور DICOM على هياكل وبيانات وصفية معقدة. تأكد من فهمك الجيد لمعيار DICOM وتنوعاته للتعامل مع هذه الحالات بفعالية.
 
-### س5: أين يمكنني العثور على المزيد من البرامج التعليمية والموارد الخاصة بـ Aspose.Imaging؟
+### س5: أين يمكنني العثور على المزيد من دروس Aspose.Imaging والموارد؟
 
- ج5: يمكنك استكشاف[Aspose.تصوير الوثائق](https://reference.aspose.com/imaging/java/) للحصول على أدلة شاملة وأمثلة ومرجع API.
+أ5: يمكنك استكشاف [توثيق Aspose.Imaging](https://reference.aspose.com/imaging/java/) للحصول على أدلة شاملة وأمثلة ومرجع واجهة برمجة التطبيقات.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

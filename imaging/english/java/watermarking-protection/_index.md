@@ -4,8 +4,11 @@ description: "Complete tutorials for adding watermarks, signatures, and protecti
 weight: 15
 url: "/java/watermarking-protection/"
 ---
+
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Java Image Watermarking and Protection Tutorials for Aspose.Imaging
 
@@ -27,7 +30,11 @@ Learn how to create effective text watermarks in Java using Aspose.Imaging. Prot
 - [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging)
 - [Free Support](https://forum.aspose.com/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Title: Mastering Aspose.Imaging Java: Load and Crop Images Effortlessly
 
@@ -163,7 +165,11 @@ Ready to implement this solution? Start experimenting with different image types
 - **Free Trial & Temporary License:** Start with a trial or request a temporary license at [Aspose Trials](https://releases.aspose.com/imaging/java/) and [Temporary License Page](https://purchase.aspose.com/temporary-license/)
 
 By following this comprehensive guide, you’re now equipped to tackle image processing challenges with ease using Aspose.Imaging for Java. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

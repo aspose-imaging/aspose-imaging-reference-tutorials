@@ -8,7 +8,9 @@ url: /net/image-transformation/flip-dicom-image/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Flip DICOM Images with Aspose.Imaging for .NET
@@ -109,6 +111,7 @@ A5: Aspose.Imaging for .NET provides a wide range of features, including resizin
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

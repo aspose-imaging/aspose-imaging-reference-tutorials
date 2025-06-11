@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Master JPEG Baseline Compression with Aspose.Imaging .NET
 
@@ -153,7 +155,11 @@ Ready to take your image processing skills to the next level? Implement this sol
 - [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 This comprehensive guide will set you on the right path to mastering JPEG baseline compression with Aspose.Imaging for .NET. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

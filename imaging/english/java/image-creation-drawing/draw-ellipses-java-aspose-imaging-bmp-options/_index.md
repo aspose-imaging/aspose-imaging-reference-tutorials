@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Manipulation in Java with Aspose.Imaging: Drawing Ellipses Using BMP Options
 
@@ -199,7 +201,11 @@ As next steps, consider exploring other drawing functions provided by the librar
 - [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 By leveraging Aspose.Imaging, you can elevate your Java applications with robust image manipulation features. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

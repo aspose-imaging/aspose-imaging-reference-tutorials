@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Aspose.Imaging for Java: Converting and Resizing SVG to PNG
 
@@ -230,7 +232,11 @@ Ready to implement what you've learned? Try converting and resizing some of your
 - [Get Support from the Community Forum](https://forum.aspose.com/c/imaging/10)
 
 With these resources and this guide, you're well-equipped to start transforming SVG images with confidence using Aspose.Imaging for Java. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

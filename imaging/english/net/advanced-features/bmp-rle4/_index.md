@@ -8,7 +8,9 @@ url: /net/advanced-features/bmp-rle4/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # BMP RLE4 Compression in Aspose.Imaging for .NET Tutorial
@@ -122,6 +124,7 @@ A5: You can obtain a temporary license for Aspose.Imaging for .NET by visiting t
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Read Pixel Values from 16-bit TIFF Images Using Aspose.Imaging for .NET
 ## Introduction
@@ -141,6 +143,9 @@ As your next step, consider exploring additional features of Aspose.Imaging or i
 Embark on your journey to mastering image processing with Aspose.Imaging for .NET today!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

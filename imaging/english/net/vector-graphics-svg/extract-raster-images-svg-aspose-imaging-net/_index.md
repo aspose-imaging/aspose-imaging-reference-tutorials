@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Extract Raster Images from SVG Using Aspose.Imaging for .NET
 
@@ -149,6 +151,9 @@ Ready to try it out? Implement this solution in your next project and see how it
 This tutorial is designed to guide you through using Aspose.Imaging for .NET effectively, ensuring you get the most out of this powerful library. Happy coding!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

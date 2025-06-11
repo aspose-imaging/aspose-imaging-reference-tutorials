@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Comprehensive Guide to Compressing SVG Files Using Aspose.Imaging for Java
 
@@ -219,7 +221,11 @@ In this tutorial, we explored how to load, configure, and save compressed SVG fi
 - [Support Forum](https://forum.aspose.com/c/imaging/10)
 
 By utilizing these resources, you can further explore Aspose.Imaging's capabilities and enhance your Java applications with powerful image processing functionalities.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

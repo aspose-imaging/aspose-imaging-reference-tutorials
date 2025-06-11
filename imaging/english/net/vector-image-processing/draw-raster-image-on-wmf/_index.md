@@ -8,7 +8,9 @@ url: /net/vector-image-processing/draw-raster-image-on-wmf/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Draw Raster Image on WMF in Aspose.Imaging for .NET
@@ -127,6 +129,7 @@ Now, you have the knowledge to seamlessly integrate image drawing into your .NET
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

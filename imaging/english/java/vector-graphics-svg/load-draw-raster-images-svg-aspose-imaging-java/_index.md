@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Load and Draw a Raster Image onto an SVG Canvas using Aspose.Imaging for Java
 
@@ -195,7 +197,11 @@ In this tutorial, we explored how to load and draw a raster image on an SVG canv
 - [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 By following this guide, you should now be well-equipped to integrate raster images into SVG canvases using Aspose.Imaging for Java. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

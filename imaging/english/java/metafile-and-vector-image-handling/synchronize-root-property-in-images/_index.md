@@ -8,7 +8,9 @@ url: /java/metafile-and-vector-image-handling/synchronize-root-property-in-image
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Synchronize Root Property in Images with Aspose.Imaging for Java
@@ -100,6 +102,7 @@ A5: For any assistance or queries, you can visit the support forum [here](https:
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

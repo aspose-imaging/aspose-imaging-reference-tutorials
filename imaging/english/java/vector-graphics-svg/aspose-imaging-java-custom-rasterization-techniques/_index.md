@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Image Processing with Aspose.Imaging Java: Custom Rasterization Techniques
 
@@ -239,7 +241,11 @@ In this tutorial, you've learned how to set a default font in your Java applicat
 - [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
 
 By following this guide, you'll be well-equipped to handle complex image processing tasks in Java using Aspose.Imaging. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

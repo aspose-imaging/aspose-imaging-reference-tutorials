@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Load and Save an Enhanced Metafile (EMF) Using Aspose.Imaging for Java
 
@@ -204,7 +206,11 @@ Always use try-catch blocks to handle potential IOExceptions or other runtime ex
 - **Support**: Join the discussion on [Aspose Forum](https://forum.aspose.com/c/imaging/10).
 
 With these resources, you're well-equipped to dive deeper into image processing with Aspose.Imaging for Java. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

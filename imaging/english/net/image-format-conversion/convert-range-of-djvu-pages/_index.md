@@ -8,7 +8,9 @@ url: /net/image-format-conversion/convert-range-of-djvu-pages/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Convert Range of DJVU Pages in Aspose.Imaging for .NET
@@ -115,6 +117,7 @@ Yes, Aspose.Imaging for .NET provides powerful capabilities for batch processing
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

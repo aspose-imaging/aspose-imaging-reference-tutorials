@@ -8,7 +8,9 @@ url: /java/metafile-and-vector-image-handling/generate-wmf-metafile-images/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Creating WMF Images with Aspose.Imaging for Java
@@ -210,6 +212,7 @@ A5: You can find support and engage with the Aspose community on the [Aspose.Ima
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

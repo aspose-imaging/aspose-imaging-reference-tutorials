@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Read EXIF Tags from JPEG Images Using Aspose.Imaging for .NET
 
@@ -153,6 +155,9 @@ A5: Process images in parallel where possible, and ensure proper disposal of ima
 Embark on your journey with Aspose.Imaging for .NET today and start harnessing the power of image metadata!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

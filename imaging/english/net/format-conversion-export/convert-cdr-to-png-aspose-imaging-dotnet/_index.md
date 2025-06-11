@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Convert CDR Files to PNG with Aspose.Imaging for .NET
 
@@ -180,7 +182,11 @@ In this tutorial, you've learned how to convert CDR files to PNG using Aspose.Im
 - [Support Forum](https://forum.aspose.com/c/imaging/10)
 
 Embark on your image conversion journey with Aspose.Imaging for .NET and unlock new possibilities in your applications!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

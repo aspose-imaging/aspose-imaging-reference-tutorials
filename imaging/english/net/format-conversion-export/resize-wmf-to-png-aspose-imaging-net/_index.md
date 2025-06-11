@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Resize and Convert WMF to PNG Using Aspose.Imaging .NET: A Complete Guide
 
@@ -168,7 +170,11 @@ Yes, script these steps and run them over multiple files using .NET's file manag
 - **Support Forum**: [Aspose Community Support](https://forum.aspose.com/c/imaging/10)
 
 Embark on your image processing journey with Aspose.Imaging for .NET and explore endless possibilities in handling graphics.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

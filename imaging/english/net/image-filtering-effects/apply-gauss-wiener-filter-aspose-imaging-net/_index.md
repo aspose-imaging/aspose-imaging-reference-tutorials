@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Apply the Gauss Wiener Filter on Colored Images Using Aspose.Imaging .NET
 
@@ -164,7 +166,11 @@ A: A trial license allows full access for testing but may impose watermarks or u
 - **Support Forum:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
 
 Explore these resources to deepen your understanding and enhance your image processing projects. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

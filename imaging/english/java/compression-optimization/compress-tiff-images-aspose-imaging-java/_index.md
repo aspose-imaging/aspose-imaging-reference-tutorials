@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Tutorial: Compressing TIFF Images Using Aspose.Imaging Java
 
@@ -194,7 +196,11 @@ By following this guide, you’ve learned how to effectively compress TIFF image
 - **Free Trial:** [Start Here](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Request Here](https://purchase.aspose.com/temporary-license/)
 - **Support:** For further assistance, visit the [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

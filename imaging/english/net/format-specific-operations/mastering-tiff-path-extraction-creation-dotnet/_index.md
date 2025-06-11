@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering TIFF Path Extraction and Creation with .NET Using Aspose.Imaging
 
@@ -217,7 +219,11 @@ Try implementing this solution in your next project to see how it transforms you
 - **Download:** [Aspose.Imaging Releases](https://releases.aspose.com/imaging/net/)
 - **Purchase:** [Buy Aspose.Total](https://purchase.aspose.com/buy)
 - **Free Trial:** [Try Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

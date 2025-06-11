@@ -12,7 +12,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Master Image Optimization with Aspose.Imaging .NET: Load, Cache, and Crop
 
@@ -128,7 +130,11 @@ public class ExpandOrCropImageFeature
 
             // Save the modified image in JPEG format
             rasterImage.Save(dataDir + "/Grayscaling_out.jpg\
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

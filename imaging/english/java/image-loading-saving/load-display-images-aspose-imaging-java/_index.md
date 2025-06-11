@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Load and Display an Image Using Aspose.Imaging for Java
 
@@ -181,7 +183,11 @@ A5: Use `image.resize(width, height)` to adjust the dimensions as needed.
 - **Support**: https://forum.aspose.com/c/imaging/10
 
 By following this guide, you’ll be well on your way to effectively managing images in your Java applications using Aspose.Imaging. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

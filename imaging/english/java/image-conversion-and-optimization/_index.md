@@ -8,7 +8,9 @@ url: /java/image-conversion-and-optimization/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Image Conversion and Optimization
@@ -92,9 +94,11 @@ Master the art of raster image frame saving with Aspose.Imaging for Java. Learn 
 Learn how to convert raster images to TIFF format in Java using Aspose.Imaging for Java. A comprehensive guide for image manipulation.
 ### [TIFF Image Frame Splitting](./tiff-image-frame-splitting/)
 Learn how to split TIFF image frames using Aspose.Imaging for Java. Step-by-step guide with prerequisites, code example, and FAQs for developers.
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

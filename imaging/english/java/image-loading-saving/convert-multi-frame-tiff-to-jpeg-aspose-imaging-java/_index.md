@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Convert Multi-frame TIFF Images to JPEG Using Aspose.Imaging for Java
 
@@ -264,7 +266,11 @@ Ready to implement this solution? Give it a try and see how it enhances your ima
 - [Support Forum](https://forum.aspose.com/c/imaging/10)
 
 With these resources and your new knowledge, you're well-equipped to start converting TIFF images to JPEG using Aspose.Imaging for Java!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

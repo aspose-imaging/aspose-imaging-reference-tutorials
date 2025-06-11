@@ -4,8 +4,11 @@ description: "Learn to adjust image brightness, contrast, gamma, and color prope
 weight: 5
 url: "/java/color-brightness-adjustments/"
 ---
+
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Java Color and Brightness Adjustment Tutorials with Aspose.Imaging
 
@@ -36,7 +39,11 @@ Learn how to efficiently adjust image brightness using Aspose.Imaging for Java. 
 - [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging)
 - [Free Support](https://forum.aspose.com/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

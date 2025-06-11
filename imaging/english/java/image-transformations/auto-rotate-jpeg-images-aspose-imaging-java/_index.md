@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Aspose.Imaging Java: Load, Auto-Rotate and Save JPEG Images
 
@@ -192,7 +194,11 @@ Ready to take on the next challenge? Implement these techniques and watch your p
 - **Support**: Join the community forum for assistance at [Aspose Forum](https://forum.aspose.com/c/imaging/10). 
 
 With this comprehensive guide, you're well-equipped to tackle JPEG image processing with Aspose.Imaging for Java. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

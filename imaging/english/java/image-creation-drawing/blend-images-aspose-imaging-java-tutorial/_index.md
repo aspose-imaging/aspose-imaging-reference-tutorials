@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Blend Images Using Aspose.Imaging Java: A Complete Tutorial
 
@@ -218,7 +220,11 @@ A: Ensure your overlay and background images are high-resolution. Also, check yo
 - **Support Forum**: [Aspose Imaging Support](https://forum.aspose.com/c/imaging/10)
 
 With this guide, you are well-equipped to start blending images using Aspose.Imaging for Java. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

@@ -8,7 +8,9 @@ url: /java/image-processing-and-enhancement/apply-wiener-filter-to-colored-image
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # Enhance Colored Images with Wiener Filter with Aspose.Imaging for Java
@@ -113,6 +115,7 @@ A5: Yes, you can use Aspose.Imaging for Java for commercial projects. To obtain 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

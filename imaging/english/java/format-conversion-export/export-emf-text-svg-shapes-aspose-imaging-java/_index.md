@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Export EMF Text as SVG Shapes or Plain Text Using Aspose.Imaging for Java
 
@@ -201,7 +203,11 @@ Visit the [Aspose forum](https://forum.aspose.com/c/imaging/10) for community he
 - **Purchase & Trial:** Check out their [purchase options](https://purchase.aspose.com/buy) and [free trial](https://releases.aspose.com/imaging/java/) to get started.
 
 Feel free to dive deeper into the world of image processing with Aspose.Imaging for Java!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

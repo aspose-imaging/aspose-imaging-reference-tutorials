@@ -8,7 +8,9 @@ url: /java/document-conversion-and-processing/xmp-data-handling-in-images/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # XMP Data Handling in Images with Aspose.Imaging for Java
@@ -238,6 +240,7 @@ try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(),
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

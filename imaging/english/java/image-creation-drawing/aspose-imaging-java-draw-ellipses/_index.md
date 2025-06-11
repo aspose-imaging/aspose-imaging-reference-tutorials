@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # Mastering Aspose.Imaging Java: Drawing Ellipses with Dotted and Continuous Outlines
 
@@ -214,7 +216,11 @@ By following this guide, you've learned how to draw ellipses with both dotted an
 - **Support**: https://forum.aspose.com/c/imaging/10
 
 We hope you found this tutorial helpful. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

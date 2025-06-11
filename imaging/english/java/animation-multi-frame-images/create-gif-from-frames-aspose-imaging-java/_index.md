@@ -14,7 +14,9 @@ keywords:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/pf/main-container >}}
+
 {{< blocks/products/pf/tutorial-page-section >}}
 # How to Create a GIF from Multiple Frames Using Aspose.Imaging Java
 
@@ -183,7 +185,11 @@ Try implementing this solution today and see how it enhances your image processi
 - **Support**: Engage with the community on the [Aspose Forum](https://forum.aspose.com/c/imaging/10)
 
 By integrating Aspose.Imaging into your Java projects, you can unlock powerful image processing capabilities that streamline and enhance your workflows. Happy coding!
+
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}
