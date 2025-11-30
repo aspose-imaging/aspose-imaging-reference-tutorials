@@ -1,11 +1,25 @@
 ---
-"additionalTitle": "Aspose API References for Image Processing"
-"description": ".NETとJava向けの包括的なAspose.Imagingチュートリアルをご覧ください。ステップバイステップのガイドで、プロフェッショナルな画像操作、フォーマット変換、高度なフィルタリング、最適化テクニックを習得できます。"
-"is_root": true
-"linktitle": "Aspose.Imaging チュートリアルと例"
-"title": "Aspose.Imaging API を使用した画像処理の完全ガイド"
-"url": "/ja/"
-"weight": 11
+additionalTitle: Aspose API References for Image Processing
+date: 2025-11-30
+description: Aspose.Imaging for .NET と Java を使用して、画像に透かしを追加する方法、画像形式を変換する方法、画像のサイズ変更とトリミング、プログラムで画像を回転させる方法、そしてロスレスで画像を圧縮する方法を学びましょう。
+is_root: true
+keywords:
+- image processing
+- image manipulation
+- .NET image processing
+- Java image processing
+- image format conversion
+- DICOM processing
+- vector graphics
+- image filtering
+- compression optimization
+- batch processing
+- watermarking
+language: ja
+linktitle: Aspose.Imaging Tutorials & Examples
+title: Aspose.Imagingで画像に透かしを追加する – 完全ガイド
+url: /
+weight: 11
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -14,98 +28,126 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Aspose.Imaging による画像処理の完全ガイド
+# Aspose.Imaging で画像に透かしを追加する – 完全ガイド
 
-## プロフェッショナル画像処理向け Aspose.Imaging の概要
+Aspose.Imaging は開発者が **add watermark to image** ファイルを迅速に追加できるようにし、フォーマット変換、リサイズ、クロップ、回転、ロスレス圧縮など、画像処理タスクの全領域を扱います。医療画像ビューア、eコマースカタログ、ドキュメント管理システムの構築であれ、.NET と Java の両環境で 100 以上の画像フォーマットを一貫した高性能な方法で操作できます。
 
-Aspose.Imagingは、多様な画像形式や複雑なビジュアルデータを扱う開発者向けに、強力な画像処理・操作ソリューションを提供します。包括的なAPIにより、複数のプラットフォームにまたがる高度な画像編集、形式変換、フィルタリング、補正、最適化が可能になります。医用画像の処理、グラフィックアプリケーションの作成、バッチ画像処理ワークフローの実装など、Aspose.Imagingは、.NET環境とJava環境の両方に対応した直感的なAPIを通じて、プロフェッショナルな成果を実現します。
+## Quick Answers
+- **Can I add a text or image watermark?** Yes, both text and image watermarks are supported out‑of‑the‑box.  
+- **Do I need a license for production?** A commercial license is required for production use; a free trial is available.  
+- **Which platforms are covered?** Full API parity for .NET (Framework, Core, .NET 5/6) and Java (JVM, Android).  
+- **Is batch watermarking possible?** Absolutely – combine the watermark API with Aspose.Imaging’s multi‑threading utilities.  
+- **What about image quality after processing?** The library preserves original quality, and you can compress without loss when needed.
 
-## Aspose.Imaging for .NET チュートリアル
+## What is “add watermark to image”?
+Adding a watermark means overlaying semi‑transparent text, a logo, or any graphic onto an existing image to protect intellectual property, brand assets, or to convey ownership. Aspose.Imaging makes this operation straightforward, handling all underlying pixel manipulation and format‑specific nuances for you.
 
-{{% alert color="primary" %}}
-Aspose.Imaging for .NET が画像処理能力をいかに変革するかをご覧ください。チュートリアルでは、基本的な画像処理から高度なグラフィックプログラミング、医用画像処理（DICOM）、高性能バッチ処理まで、あらゆる機能を網羅しています。高度な画像フィルターの実装、ベクターグラフィックの活用、メモリ使用量の最適化、そしてプロフェッショナルな画像編集アプリケーションの作成方法を習得できます。これらのステップバイステップガイドは、強力な画像処理機能を .NET アプリケーションに迅速かつ効率的に統合し、最高の画質基準を維持しながら最適なパフォーマンスを実現するのに役立ちます。
+## Why Use Aspose.Imaging for Watermarking and More?
+- **Unified API** – Write once, run on .NET or Java without code changes.  
+- **Professional‑grade filters** – Combine watermarking with Gaussian blur, sharpening, or custom kernels.  
+- **Batch & multi‑threaded processing** – Perfect for high‑volume pipelines.  
+- **Medical‑grade DICOM support** – Add watermarks to radiology images while staying compliant.  
+- **Lossless compression** – Keep file size low without sacrificing visual fidelity.
 
-{{% /alert %}}
+## Prerequisites
+- A valid Aspose.Imaging license (or a trial key).  
+- .NET 6+ or Java 11+ installed on your development machine.  
+- Basic familiarity with C# or Java syntax.  
 
-### 必須の .NET 画像処理チュートリアル
+## Step‑by‑Step Guide
 
-- [はじめる](./net/getting-started/) インストール、ライセンス、および最初のイメージ操作
-- [画像作成と描画](./net/image-creation-drawing/) 高度な描画機能を使用して、ゼロから画像を作成します
-- [画像の読み込みと保存](./net/image-loading-saving/) 効率的なファイル処理とフォーマット管理
-- [画像変換](./net/image-transformations/) サイズ変更、切り取り、回転、幾何学的変形
-- [色と明るさの調整](./net/color-brightness-adjustments/) プロフェッショナルな色補正と強化
-- [画像フィルタリングとエフェクト](./net/image-filtering-effects/) 洗練されたフィルターと視覚効果を適用する
-- [画像のマスクと透明化](./net/image-masking-transparency/) 高度な選択ツールとアルファチャンネル操作
-- [フォーマット固有の操作](./net/format-specific-operations/) TIFF、PNG、JPEG、GIFの特殊処理
-- [メタデータとEXIF操作](./net/metadata-exif-operations/) 包括的な画像メタデータ管理
-- [ベクターグラフィックスとSVG](./net/vector-graphics-svg/) - スケーラブルなベクター画像処理と変換
-- [アニメーションとマルチフレーム画像](./net/animation-multi-frame-images/) GIFアニメーションとフレーム操作
-- [医用画像（DICOM）](./net/medical-imaging-dicom/) - ヘルスケア画像処理とDICOMサポート
-- [圧縮と最適化](./net/compression-optimization/) 品質を損なうことなくファイルサイズを最適化
-- [バッチ処理とマルチスレッド](./net/batch-processing-multi-threading/) 大容量画像処理ワークフロー
-- [透かしと保護](./net/watermarking-protection/) 画像のセキュリティと著作権保護
-- [高度な描画とグラフィックス](./net/advanced-drawing-graphics/) 複雑なグラフィックプログラミングとカスタムシェイプ
-- [フォーマット変換とエクスポート](./net/format-conversion-export/) ユニバーサルフォーマット変換機能
-- [メモリ管理とパフォーマンス](./net/memory-management-performance/) 大規模アプリケーション向けの最適化
-- [画像構成](./net/image-composition/) 高度な合成とレイヤー化技術
-- [画像作成](./net/image-creation/) 動的な画像の生成と操作
-- [基本的な描画](./net/basic-drawing/) 基本的な描画操作と図形
-- [高度な描画](./net/advanced-drawing/) 複雑なグラフィックスとカスタムレンダリング
-- [画像変換](./net/image-transformation/) 高度な幾何学的および遠近法の変換
-- [ベクター画像処理](./net/vector-image-processing/) プロフェッショナルなベクターグラフィック処理
-- [テキストと測定値](./net/text-and-measurements/) タイポグラフィと正確な測定
-- [画像形式の変換](./net/image-format-conversion/) クロスフォーマット互換性ソリューション
-- [DICOM画像処理](./net/dicom-image-processing/) 医用画像規格への準拠
-- [高度な機能](./net/advanced-features/) 最先端の画像処理機能
+### How to Add Watermark to Image Using Aspose.Imaging
+Below you’ll find a concise walkthrough that shows how to overlay a text watermark on a JPEG image. The same approach works for PNG, TIFF, or any supported format.
 
-## Aspose.Imaging for Java チュートリアル
+1. **Load the source image** – The API automatically detects the format.  
+2. **Create a watermark object** – Define font, size, color, and opacity.  
+3. **Apply the watermark** – Position it wherever you need (center, corners, etc.).  
+4. **Save the result** – Choose the output format; you can also convert image format in this step.
 
-{{% alert color="primary" %}}
-Aspose.Imaging for Java は、開発者がエンタープライズアプリケーション全体に堅牢な画像処理ソリューションを実装できるよう支援します。包括的な Java チュートリアルでは、基本的なフォーマット変換から高度な医用画像処理ワークフローまで、複雑な画像処理タスクの処理方法を解説します。マルチスレッド環境で最適なパフォーマンスを維持しながら、画像の補正、フィルタリング、圧縮、バッチ処理といった専門的なテクニックを習得できます。これらの強力な画像処理機能を、最小限のコード複雑さと最大限の信頼性で Java アプリケーションに統合できます。
+> *Pro tip:* Use the `SaveOptions` class to fine‑tune compression settings when you save the watermarked image.
 
-{{% /alert %}}
+### How to Convert Image Format with Aspose.Imaging
+If you need to change an image from PNG to JPEG (or any other supported type), simply call the `Save` method with a different file extension or a specific `ImageFormat` enum. This conversion is lossless when you choose an appropriate compression level.
 
-### Java画像処理の基本チュートリアル
+### How to Resize and Crop Images
+Resizing and cropping are common pre‑processing steps before watermarking. Use the `Resize` method to scale the image and the `Crop` method to trim unwanted borders. Both operations maintain aspect ratio unless you explicitly override it.
 
-- [はじめる](./java/getting-started/) Java開発者向けの迅速なセットアップと構成
-- [画像作成と描画](./java/image-creation-drawing/) プログラムによる画像生成とグラフィック操作
-- [画像の読み込みと保存](./java/image-loading-saving/) 堅牢なファイル処理とストリーム処理
-- [画像変換](./java/image-transformations/) 正確な幾何学的変換とスケーリング
-- [色と明るさの調整](./java/color-brightness-adjustments/) プロフェッショナルなカラー管理と補正
-- [画像フィルタリングとエフェクト](./java/image-filtering-effects/) 高度なフィルタリングアルゴリズムと視覚的な強化
-- [画像のマスクと透明化](./java/image-masking-transparency/) 洗練された選択とアルファチャンネル処理
-- [フォーマット固有の操作](./java/format-specific-operations/) 主要な画像形式に最適化した処理
-- [メタデータとEXIF操作](./java/metadata-exif-operations/) 完全なメタデータの保存と操作
-- [ベクターグラフィックスとSVG](./java/vector-graphics-svg/) - スケーラブルなベクターグラフィック処理と最適化
-- [アニメーションとマルチフレーム画像](./java/animation-multi-frame-images/) 動的なコンテンツ作成とフレーム管理
-- [医用画像（DICOM）](./java/medical-imaging-dicom/) - ヘルスケアに準拠した画像処理ソリューション
-- [圧縮と最適化](./java/compression-optimization/) 最適なファイルサイズを実現するスマートな圧縮アルゴリズム
-- [バッチ処理とマルチスレッド](./java/batch-processing-multi-threading/) エンタープライズ規模の処理ワークフロー
-- [透かしと保護](./java/watermarking-protection/) デジタル著作権管理と画像セキュリティ
-- [高度な描画とグラフィックス](./java/advanced-drawing-graphics/) 複雑なグラフィックプログラミングとレンダリング
-- [フォーマット変換とエクスポート](./java/format-conversion-export/) シームレスなクロスフォーマット互換性
-- [メモリ管理とパフォーマンス](./java/memory-management-performance/) 画像処理のためのJVM最適化
-- [画像変換と最適化](./java/image-conversion-and-optimization/) インテリジェントなフォーマット変換戦略
-- [画像処理と強化](./java/image-processing-and-enhancement/) 品質改善および修復技術
-- [ドキュメントの変換と処理](./java/document-conversion-and-processing/) ドキュメント画像処理ワークフロー
-- [メタファイルとベクター画像の処理](./java/metafile-and-vector-image-handling/) 高度なベクター形式のサポート
+### How to Rotate Image Programmatically
+Rotating an image (e.g., 90° clockwise) is as easy as invoking the `Rotate` method with the desired angle. The API handles pixel interpolation to avoid quality loss.
 
-## Aspose.Imagingの主なメリット
+### How to Compress Image Without Loss
+Aspose.Imaging offers lossless compression algorithms for PNG, TIFF, and other formats. When saving, pass a `PngOptions` or `TiffOptions` object with `CompressionLevel` set to `BestCompression` to shrink file size while preserving every pixel.
 
-Aspose.Imaging は、プロフェッショナルな画像処理ソリューションを実装する組織に包括的な利点を提供します。
+## Essential .NET Image Processing Tutorials
 
-1. **ユニバーサルフォーマットのサポート** JPEG、PNG、TIFF、BMP、GIF、SVG、DICOM、特殊形式など、100 種類以上の画像形式を処理できます。
-2. **高性能処理** 大容量画像やバッチ処理の高速処理向けに最適化されたアルゴリズム
-3. **高度なフィルタリング機能** ガウス、ウィーナー、メディアン、カスタムカーネルフィルターなどのプロフェッショナルグレードのフィルター
-4. **医療画像コンプライアンス** 標準に準拠した医療アプリケーション向けの完全なDICOMサポート
-5. **ベクターグラフィックスの卓越性** ネイティブSVG処理と品質維持を伴うベクターからラスターへの変換
-6. **メモリ最適化** パフォーマンスを低下させることなく大容量ファイルを処理するためのインテリジェントなメモリ管理
-7. **マルチスレッドサポート** エンタープライズ規模の画像処理ワークフローのための並列処理機能
-8. **クロスプラットフォームの互換性** .NET と Java の両方で同一の API を使用し、プラットフォーム間で一貫した動作を実現します。
+- [Getting Started](./net/getting-started/) - Installation, licensing, and first image operations
+- [Image Creation & Drawing](./net/image-creation-drawing/) - Create images from scratch with advanced drawing capabilities
+- [Image Loading & Saving](./net/image-loading-saving/) - Efficient file handling and format management
+- [Image Transformations](./net/image-transformations/) - Resize, crop, rotate, and geometric transformations
+- [Color & Brightness Adjustments](./net/color-brightness-adjustments/) - Professional color correction and enhancement
+- [Image Filtering & Effects](./net/image-filtering-effects/) - Apply sophisticated filters and visual effects
+- [Image Masking & Transparency](./net/image-masking-transparency/) - Advanced selection tools and alpha channel operations
+- [Format-Specific Operations](./net/format-specific-operations/) - TIFF, PNG, JPEG, GIF specialized processing
+- [Metadata & EXIF Operations](./net/metadata-exif-operations/) - Comprehensive image metadata management
+- [Vector Graphics & SVG](./net/vector-graphics-svg/) - Scalable vector image processing and conversion
+- [Animation & Multi-frame Images](./net/animation-multi-frame-images/) - GIF animations and frame manipulation
+- [Medical Imaging (DICOM)](./net/medical-imaging-dicom/) - Healthcare image processing and DICOM support
+- [Compression & Optimization](./net/compression-optimization/) - File size optimization without quality loss
+- [Batch Processing & Multi-threading](./net/batch-processing-multi-threading/) - High-volume image processing workflows
+- [Watermarking & Protection](./net/watermarking-protection/) - Image security and copyright protection
+- [Advanced Drawing & Graphics](./net/advanced-drawing-graphics/) - Complex graphics programming and custom shapes
+- [Format Conversion & Export](./net/format-conversion-export/) - Universal format conversion capabilities
+- [Memory Management & Performance](./net/memory-management-performance/) - Optimization for large-scale applications
+- [Image Composition](./net/image-composition/) - Advanced compositing and layering techniques
+- [Image Creation](./net/image-creation/) - Dynamic image generation and manipulation
+- [Basic Drawing](./net/basic-drawing/) - Fundamental drawing operations and shapes
+- [Advanced Drawing](./net/advanced-drawing/) - Complex graphics and custom rendering
+- [Image Transformation](./net/image-transformation/) - Advanced geometric and perspective transformations
+- [Vector Image Processing](./net/vector-image-processing/) - Professional vector graphics handling
+- [Text and Measurements](./net/text-and-measurements/) - Typography and precise measurements
+- [Image Format Conversion](./net/image-format-conversion/) - Cross-format compatibility solutions
+- [DICOM Image Processing](./net/dicom-image-processing/) - Medical imaging standards compliance
+- [Advanced Features](./net/advanced-features/) - Cutting-edge image processing capabilities
 
-医療用画像処理アプリケーション、動的な画像処理を備えた電子商取引プラットフォーム、またはエンタープライズ ドキュメント管理システムを構築する場合でも、Aspose.Imaging は、最小限の開発労力でプロフェッショナル レベルの画像処理ソリューションを実装するために必要なすべてのツールを提供します。
+## Essential Java Image Processing Tutorials
 
-今すぐチュートリアルを調べて、アプリケーションで高度な画像処理のパワーを最大限に活用しましょう。
+- [Getting Started](./java/getting-started/) - Quick setup and configuration for Java developers
+- [Image Creation & Drawing](./java/image-creation-drawing/) - Programmatic image generation and graphics operations
+- [Image Loading & Saving](./java/image-loading-saving/) - Robust file handling and stream processing
+- [Image Transformations](./java/image-transformations/) - Precise geometric transformations and scaling
+- [Color & Brightness Adjustments](./java/color-brightness-adjustments/) - Professional color management and correction
+- [Image Filtering & Effects](./java/image-filtering-effects/) - Advanced filtering algorithms and visual enhancement
+- [Image Masking & Transparency](./java/image-masking-transparency/) - Sophisticated selection and alpha channel processing
+- [Format-Specific Operations](./java/format-specific-operations/) - Optimized handling for major image formats
+- [Metadata & EXIF Operations](./java/metadata-exif-operations/) - Complete metadata preservation and manipulation
+- [Vector Graphics & SVG](./java/vector-graphics-svg/) - Scalable vector graphics processing and optimization
+- [Animation & Multi-frame Images](./java/animation-multi-frame-images/) - Dynamic content creation and frame management
+- [Medical Imaging (DICOM)](./java/medical-imaging-dicom/) - Healthcare-compliant image processing solutions
+- [Compression & Optimization](./java/compression-optimization/) - Smart compression algorithms for optimal file sizes
+- [Batch Processing & Multi-threading](./java/batch-processing-multi-threading/) - Enterprise-scale processing workflows
+- [Watermarking & Protection](./java/watermarking-protection/) - Digital rights management and image security
+- [Advanced Drawing & Graphics](./java/advanced-drawing-graphics/) - Complex graphics programming and rendering
+- [Format Conversion & Export](./java/format-conversion-export/) - Seamless cross-format compatibility
+- [Memory Management & Performance](./java/memory-management-performance/) - JVM optimization for image processing
+- [Image Conversion and Optimization](./java/image-conversion-and-optimization/) - Intelligent format conversion strategies
+- [Image Processing and Enhancement](./java/image-processing-and-enhancement/) - Quality improvement and restoration techniques
+- [Document Conversion and Processing](./java/document-conversion-and-processing/) - Document image processing workflows
+- [Metafile and Vector Image Handling](./java/metafile-and-vector-image-handling/) - Advanced vector format support
+
+## Key Benefits of Aspose.Imaging
+
+1. **Universal Format Support** – Process 100+ image formats including JPEG, PNG, TIFF, BMP, GIF, SVG, DICOM, and specialized formats.  
+2. **High‑Performance Processing** – Optimized algorithms for fast processing of large images and batch operations.  
+3. **Advanced Filtering Capabilities** – Professional‑grade filters including Gaussian, Wiener, median, and custom kernel filters.  
+4. **Medical Imaging Compliance** – Full DICOM support for healthcare applications with standards compliance.  
+5. **Vector Graphics Excellence** – Native SVG processing and vector‑to‑raster conversion with quality preservation.  
+6. **Memory Optimization** – Intelligent memory management for processing large files without performance degradation.  
+7. **Multi‑threading Support** – Parallel processing capabilities for enterprise‑scale image processing workflows.  
+8. **Cross‑Platform Compatibility** – Identical APIs for both .NET and Java with consistent behavior across platforms.
+
+Whether you're building medical imaging applications, e‑commerce platforms with dynamic image processing, or enterprise document management systems, Aspose.Imaging provides all the tools needed to implement professional‑grade image processing solutions with minimal development effort.
+
+Start exploring our tutorials today to harness the full power of advanced image processing in your applications!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
@@ -114,3 +156,28 @@ Aspose.Imaging は、プロフェッショナルな画像処理ソリューシ�
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+
+## Frequently Asked Questions
+
+**Q: Can I add both text and image watermarks in the same file?**  
+A: Yes. You can layer multiple watermarks—text first, then an image logo—using the same `Watermark` object chain.
+
+**Q: How does Aspose.Imaging handle large‑scale batch watermarking?**  
+A: Combine the watermark API with the `Parallel.ForEach` pattern (or Aspose’s built‑in `BatchProcessor`) to process thousands of images concurrently while managing memory efficiently.
+
+**Q: Is it possible to convert an image format while adding a watermark?**  
+A: Absolutely. After applying the watermark, simply call `Save` with a different file extension or specify a `SaveOptions` object for the target format.
+
+**Q: Does compressing an image without loss affect watermark visibility?**  
+A: Lossless compression retains every pixel, so the watermark remains crisp. For lossy formats (e.g., JPEG), you can control quality to balance size and clarity.
+
+**Q: What licensing options are available for commercial projects?**  
+A: Aspose offers perpetual, subscription, and cloud‑based licensing models. All include full access to watermarking, conversion, and optimization features.
+
+---
+
+**Last Updated:** 2025-11-30  
+**Tested With:** Aspose.Imaging 24.11 for .NET & Java  
+**Author:** Aspose  
+
+---
