@@ -1,8 +1,11 @@
 ---
-"description": "دروس تعليمية خطوة بخطوة لعمليات الرسم المتقدمة ومسارات الرسومات والتأثيرات المرئية المعقدة باستخدام Aspose.Imaging for Java."
-"title": "دروس الرسم والرسومات المتقدمة بلغة جافا لـ Aspose.Imaging"
-"url": "/ar/java/advanced-drawing-graphics/"
-"weight": 16
+date: 2025-12-08
+description: تعلم كيفية تعيين لون خلفية الصورة في جافا باستخدام Aspose.Imaging. استكشف
+  الرسم المتقدم، مسارات الرسومات، وأنشئ تقنيات جافا لإنشاء PNG شفاف.
+language: ar
+title: تعيين لون خلفية الصورة في جافا – دروس Aspose.Imaging
+url: /java/advanced-drawing-graphics/
+weight: 16
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -10,41 +13,37 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# دروس الرسم والرسومات المتقدمة بلغة جافا لـ Aspose.Imaging
+# تعيين لون خلفية الصورة – دروس متقدمة في الرسم والرسومات في Java لـ Aspose.Imaging
 
-استكشف إمكانيات الرسومات المتقدمة مع دروسنا التعليمية الشاملة لرسم Aspose.Imaging بلغة جافا. تغطي هذه الأدلة التفصيلية عمليات الرسم المعقدة، ومعالجة مسارات الرسومات، وإنشاء الأشكال المتقدمة، وعرض النصوص باستخدام خطوط مخصصة، وتطبيق تأثيرات بصرية متطورة. يتضمن كل درس أمثلة مفصلة لأكواد جافا توضح كيفية إنشاء رسومات وعناصر بصرية بجودة احترافية تُحسّن تطبيقات معالجة الصور بلغة جافا.
+في هذه المجموعة من **دروس معالجة الصور في Java**، ستكتشف كيفية **تعيين لون خلفية الصورة** باستخدام Aspose.Imaging، إلى جانب تقنيات رسم متقدمة أخرى مثل مسارات الرسومات، الخطوط المخصصة، والتأثيرات البصرية. سواء كنت بحاجة إلى إنشاء خلفية صلبة، أو توليد صورة PNG شفافة، أو بناء رسومات معقدة لتطبيقك، فإن هذه الأدلة خطوة بخطوة توفر لك الشيفرة والتفسيرات التي تحتاجها. كما تُظهر السلسلة كيفية **إنشاء صور PNG شفافة في Java**، مما يمنحك الأدوات لإنتاج أصول عالية الجودة لأي منصة. معًا، تشكل هذه الموارد مجموعة كاملة من **دروس معالجة الصور في Java**.
 
-## البرامج التعليمية المتاحة
+## كيفية تعيين لون خلفية الصورة في Java
 
-### [معالجة متقدمة للصور في جافا باستخدام Aspose.Imaging: الأبعاد والشفافية](./master-image-manipulation-aspose-imaging-java/)
-تعلم إتقان معالجة الصور بلغة جافا باستخدام Aspose.Imaging. يغطي هذا البرنامج التعليمي تحميل الصور، وتعديل أبعادها، وبيانات البكسل، وإنشاء صور PNG شفافة.
+تعيين لون خلفية الصورة غالبًا ما يكون الخطوة الأولى عند إعداد الرسومات للتقارير، أو عناصر واجهة المستخدم، أو أصول الألعاب. باستخدام Aspose.Imaging يمكنك تحديد لون الخلفية عند الإنشاء أو تعديل صورة موجودة، مما يمنحك سيطرة كاملة على المظهر البصري لمشاريع Java الخاصة بك.
 
-### [معالجة الصور المتقدمة بلغة جافا باستخدام Aspose.Imaging: التقنيات والبرامج التعليمية](./advanced-image-manipulation-aspose-imaging-java/)
-أتقن معالجة الصور المتقدمة بلغة جافا باستخدام Aspose.Imaging. تعلم كيفية ضبط ألوان الخلفية، ومعالجة الشفافية، وحفظ الصور بكفاءة.
+## الدروس المتاحة
 
-### [معالجة الصور المتقدمة بلغة جافا باستخدام مكتبة Aspose.Imaging](./mastering-image-processing-java-aspose-imaging/)
-أتقن معالجة الصور بكفاءة في جافا باستخدام مكتبة Aspose.Imaging القوية. تعلم كيفية تحميل الصور ومعالجتها وحفظها بسهولة عبر مختلف التنسيقات.
+### [معالجة الصور المتقدمة في Java باستخدام Aspose.Imaging&#58; الأبعاد والشفافية](./master-image-manipulation-aspose-imaging-java/)
 
-### [عرض النصوص المتقدم في جافا باستخدام Aspose.Imaging: دليل شامل](./mastering-text-rendering-aspose-imaging-java/)
-تعلّم تقنيات عرض النصوص المتقدمة في جافا باستخدام Aspose.Imaging. يغطي هذا الدليل الإعداد، وتنسيق الخطوط، والتطبيقات العملية لتحسين الرسومات.
+### [معالجة الصور المتقدمة في Java باستخدام Aspose.Imaging&#58; تقنيات ودروس](./advanced-image-manipulation-aspose-imaging-java/)
 
-### [Aspose.Imaging Java: تحويل مسارات TIFF إلى GraphicsPath - دليل خطوة بخطوة](./aspose-imaging-java-tiff-graphicspath-conversion/)
-تعرّف على كيفية تحويل موارد مسار TIFF إلى GraphicsPath باستخدام Aspose.Imaging لجافا. مثالي للتعامل مع الرسومات المتجهة في صور TIFF بسهولة.
+### [معالجة الصور المتقدمة في Java باستخدام مكتبة Aspose.Imaging](./mastering-image-processing-java-aspose-imaging/)
 
-### [ارسم منحنيات بيزير في جافا باستخدام Aspose.Imaging - دليل شامل](./master-bezier-curves-java-aspose-imaging/)
-تعلّم كيفية إنشاء منحنيات بيزير رائعة في جافا باستخدام Aspose.Imaging. يغطي هذا الدليل الإعداد والتكوين والتطبيقات العملية للحصول على رسومات سلسة.
+### [عرض النص المتقدم في Java باستخدام Aspose.Imaging&#58; دليل كامل](./mastering-text-rendering-aspose-imaging-java/)
 
-### [تحويل الصور إلى صور ثنائية بكفاءة في جافا باستخدام Aspose.Imaging: دليل Otsu Thresholding](./aspose-imaging-java-otsu-thresholding-guide/)
-اكتشف كيفية تحويل الصور إلى صور ثنائية باستخدام Aspose.Imaging لجافا. تعرّف على تحميل الصور، والتخزين المؤقت، وتقنيات تحديد عتبة Otsu. حسّن مشاريعك في جافا اليوم!
+### [Aspose.Imaging Java&#58; تحويل مسارات TIFF إلى GraphicsPath - دليل خطوة بخطوة](./aspose-imaging-java-tiff-graphicspath-conversion/)
 
-### [إتقان معالجة الصور في Java باستخدام Aspose.Imaging: تتبع التحميل وحفظ التقدم](./master-image-processing-aspose-imaging-java/)
-تعرّف على كيفية تتبّع تحميل الصور بكفاءة وحفظ تقدّمها باستخدام Aspose.Imaging لجافا. حسّن تطبيقات جافا لديك باستخدام معالجة رسومية متقدمة.
+### [رسم منحنيات بيزيه في Java باستخدام Aspose.Imaging - دليل شامل](./master-bezier-curves-java-aspose-imaging/)
+
+### [تحويل الصور إلى ثنائية بكفاءة في Java باستخدام Aspose.Imaging&#58; دليل عتبة Otsu](./aspose-imaging-java-otsu-thresholding-guide/)
+
+### [إتقان معالجة الصور في Java باستخدام Aspose.Imaging&#58; تتبع تحميل وحفظ التقدم](./master-image-processing-aspose-imaging-java/)
 
 ## موارد إضافية
 
 - [توثيق Aspose.Imaging لـ Java](https://docs.aspose.com/imaging/java/)
-- [مرجع واجهة برمجة التطبيقات Aspose.Imaging لـ Java](https://reference.aspose.com/imaging/java/)
-- [تنزيل Aspose.Imaging لـ Java](https://releases.aspose.com/imaging/java/)
+- [مرجع API لـ Aspose.Imaging لـ Java](https://reference.aspose.com/imaging/java/)
+- [تحميل Aspose.Imaging لـ Java](https://releases.aspose.com/imaging/java/)
 - [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging)
 - [دعم مجاني](https://forum.aspose.com/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
@@ -56,3 +55,5 @@
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+
+---
