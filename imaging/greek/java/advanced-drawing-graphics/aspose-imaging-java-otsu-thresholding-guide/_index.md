@@ -1,9 +1,17 @@
 ---
-"date": "2025-06-04"
-"description": "Ανακαλύψτε πώς να δυαδοποιήσετε εικόνες χρησιμοποιώντας το Aspose.Imaging για Java. Μάθετε για τη φόρτωση εικόνων, την προσωρινή αποθήκευση και τις τεχνικές κατωφλίου Otsu. Βελτιώστε τα έργα Java σας σήμερα!"
-"title": "Αποτελεσματική Δυαδοποίηση Εικόνας σε Java με Οδηγό Κατωφλίου Aspose.Imaging' Otsu"
-"url": "/el/java/advanced-drawing-graphics/aspose-imaging-java-otsu-thresholding-guide/"
-"weight": 1
+date: '2025-12-10'
+description: Μάθετε πώς να χρησιμοποιείτε το Aspose.Imaging για Java για να εκτελείτε
+  δυαδική μετατροπή εικόνας, να βελτιστοποιείτε την επεξεργασία εικόνας και να αποθηκεύετε
+  επεξεργασμένα αρχεία εικόνας με κατώφλι Otsu.
+keywords:
+- Aspose.Imaging for Java
+- Image Binarization in Java
+- Otsu Thresholding Technique
+- Java Image Processing with Aspose
+- Advanced Drawing & Graphics
+title: 'Πώς να χρησιμοποιήσετε το Aspose.Imaging για Java: Δυαδικοποίηση εικόνας Otsu'
+url: /el/java/advanced-drawing-graphics/aspose-imaging-java-otsu-thresholding-guide/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,45 +19,37 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Master Επεξεργασία Εικόνας σε Java: Ένας αναλυτικός οδηγός για το Aspose.Imaging για Java
+# Ανάλυση Επεξεργασίας Εικόνας σε Java: Ένας Εκτενής Οδηγός για το Aspose.Imaging για Java
 
-## Εισαγωγή
+## Introduction
 
-Στη σημερινή ψηφιακή εποχή, όπου οι εικόνες είναι καθοριστικές για την εμπλοκή των χρηστών και τη μεταφορά πληροφοριών, η αποτελεσματική διαχείριση της ποιότητας και της επεξεργασίας της εικόνας είναι ζωτικής σημασίας. Εάν αντιμετωπίζετε την πρόκληση της μετατροπής έγχρωμων εικόνων σε δυαδικές μορφές για ανάλυση ή αποτελεσματικότητα αποθήκευσης, αυτό το σεμινάριο θα σας καθοδηγήσει στη χρήση. **Aspose.Imaging για Java** για να επιτευχθεί απρόσκοπτη δυαδοποίηση με το Otsu Thresholding.
+Αν αναρωτιέστε **πώς να χρησιμοποιήσετε το Aspose** για γρήγορη και αξιόπιστη διαχείριση εικόνων, βρίσκεστε στο σωστό μέρος. Στον σημερινό ψηφιακό κόσμο, η μετατροπή έγχρωμων εικόνων σε δυαδικές μορφές — γνωστή ως **binary image conversion** — είναι απαραίτητη για ανάλυση εγγράφων, pipelines υπολογιστικής όρασης και βελτιστοποίηση αποθήκευσης. Αυτό το tutorial σας καθοδηγεί βήμα‑βήμα στη φόρτωση, την προσωρινή αποθήκευση (caching), την εφαρμογή **Otsu image binarization** και, τέλος, **την αποθήκευση της επεξεργασμένης εικόνας** με το Aspose.Imaging για Java. Στο τέλος, θα μπορείτε να **βελτιστοποιήσετε την επεξεργασία εικόνας** στα έργα Java σας με λίγες μόνο γραμμές κώδικα.
 
-Σε αυτό το σεμινάριο, θα εξερευνήσουμε πώς μπορείτε να αξιοποιήσετε τις ισχυρές λειτουργίες της βιβλιοθήκης του Aspose.Imaging για τη φόρτωση, την προσωρινή αποθήκευση, την επεξεργασία και την αποθήκευση εικόνων σε Java. Θα ανακαλύψετε όχι μόνο το "πώς" αλλά και το "γιατί" πίσω από κάθε βήμα. Μέχρι το τέλος αυτού του οδηγού, θα είστε εξοικειωμένοι με:
+## Quick Answers
+- **What does “how to use aspose” refer to?** Using Aspose.Imaging’s API to load, manipulate, and save images in Java.  
+- **Which algorithm is used for binarization?** Otsu’s global thresholding method.  
+- **Do I need a license for development?** A free trial works for evaluation; a purchased license is required for production.  
+- **Can I process images other than JPEG?** Yes—Aspose.Imaging supports PNG, BMP, TIFF, GIF, and more.  
+- **What Java version is required?** JDK 8 or higher.
 
-- Φόρτωση και αρχικοποίηση εικόνων χρησιμοποιώντας το Aspose.Imaging
-- Αποθήκευση RasterImages στην προσωρινή μνήμη για βέλτιστη απόδοση
-- Υλοποίηση δυαδοποίησης κατωφλίου Otsu
-- Αποτελεσματική αποθήκευση επεξεργασμένων εικόνων
+## What is Aspose.Imaging for Java?
+Το Aspose.Imaging for Java είναι μια ολοκληρωμένη βιβλιοθήκη που επιτρέπει στους προγραμματιστές να εκτελούν προχωρημένες λειτουργίες εικόνας — αλλαγή μεγέθους, μετατροπή μορφής, φιλτράρισμα και **binary image conversion** — χωρίς να εξαρτώνται από εγγενή στοιχεία του λειτουργικού συστήματος. Το ευέλικτο API του καθιστά εύκολη την ενσωμάτωση ισχυρών ροών εργασίας εικόνας σε οποιαδήποτε εφαρμογή Java.
 
-Έτοιμοι να ξεκινήσετε; Ας βεβαιωθούμε πρώτα ότι η εγκατάστασή σας είναι έτοιμη για επιτυχία.
+## Why use Otsu Thresholding?
+Η μέθοδος Otsu καθορίζει αυτόματα το βέλτιστο όριο που διαχωρίζει το προσκήνιο από το φόντο, εξαλείφοντας την ανάγκη για χειροκίνητη ρύθμιση. Αυτό είναι ιδιαίτερα χρήσιμο όταν έχετε μεταβαλλόμενες συνθήκες φωτισμού σε μια σειρά σαρωμένων εγγράφων.
 
-## Προαπαιτούμενα
+## Prerequisites
 
-Για να ακολουθήσετε αυτό το σεμινάριο, θα χρειαστείτε:
+- **Aspose.Imaging for Java** (Maven, Gradle, ή χειροκίνητο JAR)
+- **JDK 8+** εγκατεστημένο
+- IDE όπως IntelliJ IDEA, Eclipse ή NetBeans
+- Βασικές γνώσεις Java
 
-### Απαιτούμενες βιβλιοθήκες και εκδόσεις
+## Setting Up Aspose.Imaging for Java
 
-1. **Aspose.Imaging για Java**Αυτή η βιβλιοθήκη παρέχει ολοκληρωμένες δυνατότητες επεξεργασίας εικόνας.
-2. **Κιτ ανάπτυξης Java (JDK)**Βεβαιωθείτε ότι το JDK 8 ή νεότερη έκδοση είναι εγκατεστημένο στο σύστημά σας.
+Πριν γράψετε κώδικα, προσθέστε τη βιβλιοθήκη στο έργο σας.
 
-### Απαιτήσεις Ρύθμισης Περιβάλλοντος
-
-- Ολοκληρωμένο Περιβάλλον Ανάπτυξης (IDE) όπως IntelliJ IDEA, Eclipse ή NetBeans
-- Εργαλείο δημιουργίας Maven ή Gradle που έχει ρυθμιστεί στη ρύθμιση του έργου σας
-
-### Προαπαιτούμενα Γνώσεων
-
-- Βασική κατανόηση του προγραμματισμού Java
-- Εξοικείωση με τις έννοιες επεξεργασίας εικόνας
-
-## Ρύθμιση του Aspose.Imaging για Java
-
-Πριν ξεκινήσετε την υλοποίηση λειτουργιών, βεβαιωθείτε ότι το Aspose.Imaging είναι ενσωματωμένο στο περιβάλλον ανάπτυξής σας. Μπορείτε να το κάνετε αυτό μέσω Maven, Gradle ή απευθείας λήψης.
-
-**Maven:**
+**Maven:**  
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -58,160 +58,128 @@
 </dependency>
 ```
 
-**Βαθμός:**
+**Gradle:**  
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-**Άμεση λήψη:**
-Πρόσβαση στο [Aspose.Imaging για εκδόσεις Java](https://releases.aspose.com/imaging/java/) για να κατεβάσετε απευθείας τη βιβλιοθήκη.
+**Direct Download:**  
+Access the [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) to download the JAR manually.
 
-### Βήματα απόκτησης άδειας χρήσης
+### License Acquisition Steps
+- **Free Trial:** Explore all features without a license.  
+- **Temporary License:** Use for extended evaluation periods.  
+- **Purchase:** Obtain a full license from [Aspose](https://purchase.aspose.com/buy).
 
-- **Δωρεάν δοκιμή**Μπορείτε να ξεκινήσετε με μια δωρεάν δοκιμαστική περίοδο για να εξερευνήσετε τις λειτουργίες του Aspose.Imaging.
-- **Προσωρινή Άδεια**Αποκτήστε μια προσωρινή άδεια χρήσης εάν χρειάζεστε εκτεταμένη πρόσβαση χωρίς περιορισμούς αξιολόγησης.
-- **Αγορά**Για συνεχή χρήση, σκεφτείτε να αγοράσετε μια πλήρη άδεια χρήσης από [Άσποζε](https://purchase.aspose.com/buy).
-
-Για αρχικοποίηση, δημιουργήστε ένα `Image` instance και φορτώστε το αρχείο εικόνας σας όπως φαίνεται παρακάτω:
-
-```java
-import com.aspose.imaging.Image;
-
-String dataDir = "YOUR_DOCUMENT_DIRECTORY";
-try (Image image = Image.load(dataDir + "/aspose-logo.jpg")) {
-    // Η εικόνα φορτώθηκε με επιτυχία.
-}
-```
-
-## Οδηγός Εφαρμογής
-
-### Χαρακτηριστικό 1: Φόρτωση και Αρχικοποίηση Εικόνας
-
-#### Επισκόπηση
-
-Η φόρτωση εικόνων είναι το πρώτο βήμα σε οποιαδήποτε εργασία επεξεργασίας εικόνας. Το Aspose.Imaging παρέχει μια απλή μέθοδο για τη φόρτωση μιας εικόνας από τον καθορισμένο κατάλογο.
-
-#### Βήμα προς βήμα εφαρμογή
-
-**Φόρτωση εικόνας**
+Για την αρχικοποίηση της βιβλιοθήκης, δημιουργήστε ένα αντικείμενο `Image` και φορτώστε το αρχείο προέλευσης:
 
 ```java
 import com.aspose.imaging.Image;
 
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
 try (Image image = Image.load(dataDir + "/aspose-logo.jpg")) {
-    // Η εικόνα έχει πλέον φορτωθεί και είναι έτοιμη για περαιτέρω επεξεργασία.
+    // Image loaded successfully
 }
 ```
 
-Αυτό το απόσπασμα κώδικα δείχνει πώς να φορτώσετε ένα αρχείο εικόνας χρησιμοποιώντας το Aspose.Imaging. Βεβαιωθείτε ότι η διαδρομή `dataDir` δείχνει σωστά στον κατάλογο εικόνων σας.
+## How to Use Aspose.Imaging for Image Binarization
 
-### Χαρακτηριστικό 2: Αποθήκευση εικόνας raster στην προσωρινή μνήμη
+### Feature 1: Image Loading and Initialization
 
-#### Επισκόπηση
+Η φόρτωση είναι το πρώτο βήμα σε κάθε ροή εργασίας. Το API αφαιρεί την πολυπλοκότητα του χειρισμού μορφών αρχείων, ώστε να μπορείτε να εργάζεστε ομοιόμορφα με JPEG, PNG, TIFF κ.ά.
 
-Η προσωρινή αποθήκευση βελτιώνει την απόδοση αποθηκεύοντας δεδομένα εικόνας στη μνήμη, μειώνοντας τους περιττούς υπολογισμούς κατά την επεξεργασία εργασιών.
+```java
+import com.aspose.imaging.Image;
 
-#### Βήμα προς βήμα εφαρμογή
+String dataDir = "YOUR_DOCUMENT_DIRECTORY";
+try (Image image = Image.load(dataDir + "/aspose-logo.jpg")) {
+    // The image is now loaded and ready for further manipulation.
+}
+```
 
-**Δεδομένα εικόνας προσωρινής αποθήκευσης**
+### Feature 2: Caching a RasterImage
+
+Η προσωρινή αποθήκευση (caching) βελτιώνει την ταχύτητα διατηρώντας τα δεδομένα εικονοστοιχείων στη μνήμη, κάτι που είναι κρίσιμο όταν επεξεργάζεστε μεγάλες παρτίδες.
 
 ```java
 import com.aspose.imaging.RasterCachedImage;
 
-// Υποθέστε ότι το 'image' είναι μια παρουσία του Image που έχει φορτωθεί προηγουμένως
+// Assume 'image' is an instance of Image that has been loaded previously
 RasterCachedImage rasterCachedImage = (RasterCachedImage) image;
 if (!rasterCachedImage.isCached()) {
-    // Αποθήκευση δεδομένων εικόνας στην προσωρινή μνήμη, εάν δεν είναι ήδη αποθηκευμένα στην προσωρινή μνήμη
+    // Cache the image data if it's not already cached
     rasterCachedImage.cacheData();
 }
 ```
 
-Αυτό το απόσπασμα ελέγχει εάν το `RasterCachedImage` είναι ήδη αποθηκευμένο στην προσωρινή μνήμη. Εάν όχι, αποθηκεύει τα δεδομένα εικόνας στην προσωρινή μνήμη για να βελτιστοποιήσει τα επόμενα βήματα επεξεργασίας.
+### Feature 3: Binarization with Otsu Thresholding
 
-### Χαρακτηριστικό 3: Δυαδοποίηση με κατώφλι Otsu
-
-#### Επισκόπηση
-
-Η δυαδοποίηση μετατρέπει μια εικόνα σε κλίμακα του γκρι σε δυαδική μορφή, η οποία μπορεί να είναι απαραίτητη για εργασίες ανάλυσης εικόνας και αναγνώρισης μοτίβων.
-
-#### Βήμα προς βήμα εφαρμογή
-
-**Εφαρμόστε τη μέθοδο του Otsu**
+Τώρα εφαρμόστε **Otsu image binarization** για να μετατρέψετε το raster σε μια ασπρόμαυρη αναπαράσταση.
 
 ```java
-// Ας υποθέσουμε ότι το 'rasterCachedImage' είναι μια παρουσία του RasterCachedImage που έχει αποθηκευτεί προσωρινά προηγουμένως.
+// Assume 'rasterCachedImage' is an instance of RasterCachedImage that has been cached previously
 class FeatureBinarizationWithOtsuThreshold {
-    // Δυαδοποίηση της εικόνας χρησιμοποιώντας τη μέθοδο Otsu Thresholding
+    // Binarize the image using Otsu Thresholding method
     rasterCachedImage.binarizeOtsu();
 }
 ```
 
-Αυτός ο κώδικας εφαρμόζει την μέθοδο κατωφλίου του Otsu για να δυαδοποιήσει την εικόνα σας. Ο αλγόριθμος καθορίζει αυτόματα μια βέλτιστη καθολική τιμή κατωφλίου.
+### Feature 4: Save the Processed Image
 
-### Λειτουργία 4: Αποθήκευση της επεξεργασμένης εικόνας
-
-#### Επισκόπηση
-
-Μόλις ολοκληρωθεί η επεξεργασία, η αποθήκευση της εικόνας σας στην προτιμώμενη μορφή είναι απαραίτητη για περαιτέρω χρήση ή διανομή.
-
-#### Βήμα προς βήμα εφαρμογή
-
-**Αποθήκευση της εικόνας**
+Τέλος, **αποθηκεύστε την επεξεργασμένη εικόνα** στη μορφή που χρειάζεστε. Εδώ χρησιμοποιούμε JPEG, αλλά λειτουργεί οποιαδήποτε υποστηριζόμενη μορφή.
 
 ```java
 import com.aspose.imaging.imageoptions.JpegOptions;
 
 String outputDir = "YOUR_OUTPUT_DIRECTORY";
-// Ας υποθέσουμε ότι το 'rasterCachedImage' είναι μια παρουσία του RasterCachedImage που έχει υποστεί προηγούμενη επεξεργασία.
+// Assume 'rasterCachedImage' is an instance of RasterCachedImage that has been processed previously
 class FeatureSaveProcessedImage {
     rasterCachedImage.save(outputDir + "/BinarizationWithOtsuThreshold_out.jpg");
 }
 ```
 
-Αυτό το απόσπασμα αποθηκεύει την δυαδοποιημένη εικόνα σε μορφή JPEG, διασφαλίζοντας ότι αποθηκεύεται αποτελεσματικά για μελλοντική πρόσβαση.
+## Practical Applications
 
-## Πρακτικές Εφαρμογές
+1. **Document Analysis:** Pre‑process scanned pages before OCR to improve text extraction accuracy.  
+2. **Medical Imaging:** Generate clear binary masks for tissue segmentation.  
+3. **Computer Vision:** Feed binary images into neural networks that expect high‑contrast inputs.
 
-1. **Ανάλυση Εγγράφων**Χρησιμοποιήστε τη δυαδοποίηση για την προεπεξεργασία σαρωμένων εγγράφων πριν από την αναγνώριση κειμένου.
-2. **Ιατρική Απεικόνιση**Βελτιώστε τις δυαδικές εικόνες για να βελτιώσετε την ανίχνευση και την ανάλυση μοτίβων.
-3. **Έργα Υπολογιστικής Όρασης**Προετοιμασία εικόνων για μοντέλα μηχανικής μάθησης που απαιτούν δυαδικές εισόδους.
+## Performance Considerations
 
-## Παράγοντες Απόδοσης
+- **Optimize Image Processing:** Cache only the images you need and release them promptly with try‑with‑resources.  
+- **Batch Processing:** Loop through a directory of files to amortize I/O overhead.  
+- **Memory Management:** Use `RasterCachedImage.isCached()` checks to avoid redundant caching.
 
-- **Βελτιστοποίηση χρήσης μνήμης**Διασφαλίστε την αποτελεσματική χρήση των πόρων αποθηκεύοντας στην προσωρινή μνήμη μόνο τις απαραίτητες εικόνες.
-- **Μαζική επεξεργασία**: Επεξεργαστείτε πολλές εικόνες σε μια παρτίδα για να μειώσετε το φόρτο εργασίας.
-- **Διαχείριση Πόρων**Απελευθερώστε τη μνήμη και κλείστε τις ροές εικόνων αμέσως μετά την επεξεργασία.
+## Frequently Asked Questions
 
-## Σύναψη
+**Q: What is Otsu Thresholding?**  
+A: It’s an automatic global thresholding algorithm that selects the optimal value to separate foreground and background pixels.
 
-Έχετε πλέον κατακτήσει τα βασικά της χρήσης του Aspose.Imaging για Java για τη φόρτωση, επεξεργασία και αποθήκευση εικόνων με τεχνικές δυαδοποίησης. Πειραματιστείτε περαιτέρω εξερευνώντας άλλες λειτουργίες που προσφέρει η βιβλιοθήκη, όπως προηγμένο φιλτράρισμα ή μετατροπή μορφής.
+**Q: How do I set up Aspose.Imaging if I don’t use Maven or Gradle?**  
+A: Download the JAR from the [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) page and add it to your project’s classpath.
 
-Τα επόμενα βήματα περιλαμβάνουν την ενσωμάτωση αυτής της λειτουργικότητας στα έργα σας και τον πειραματισμό με διαφορετικούς τύπους εικόνων και σενάρια επεξεργασίας. Μη διστάσετε να επικοινωνήσετε μαζί μας μέσω του [Φόρουμ υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10) για οποιεσδήποτε ερωτήσεις έχετε!
+**Q: Can I process images other than JPEGs with Aspose.Imaging?**  
+A: Yes—Aspose.Imaging supports PNG, BMP, GIF, TIFF, and many more formats.
 
-## Ενότητα Συχνών Ερωτήσεων
+**Q: What are the benefits of caching RasterImages?**  
+A: Caching reduces repeated disk reads and speeds up subsequent operations like filtering or binarization.
 
-1. **Τι είναι το κατώφλι του Ότσου;**
-   - Μια μέθοδος που χρησιμοποιείται στην επεξεργασία εικόνας για την αυτόματη εκτέλεση κατωφλίου εικόνας βάσει ομαδοποίησης ή τη μείωση μιας εικόνας επιπέδου γκρι σε δυαδική εικόνα.
+**Q: How do I purchase a license for Aspose.Imaging?**  
+A: Visit the [Aspose](https://purchase.aspose.com/buy) purchasing page to choose a licensing plan that fits your needs.
 
-2. **Πώς μπορώ να ρυθμίσω το Aspose.Imaging αν δεν χρησιμοποιώ Maven ή Gradle;**
-   - Μπορείτε να κατεβάσετε την τελευταία έκδοση απευθείας από το [Aspose.Imaging για εκδόσεις Java](https://releases.aspose.com/imaging/java/) σελίδα και συμπεριλάβετέ την στη διαδρομή κλάσεων του έργου σας.
+## Resources
 
-3. **Μπορώ να επεξεργαστώ εικόνες εκτός από JPEG με το Aspose.Imaging;**
-   - Ναι, το Aspose.Imaging υποστηρίζει ένα ευρύ φάσμα μορφών, όπως PNG, BMP, GIF, TIFF και άλλα.
+- **Documentation:** Explore the full capabilities at [Aspose.Imaging Java Documentation](https://reference.aspose.com/imaging/java/).  
+- **Download:** Get the latest library version from [Aspose releases](https://releases.aspose.com/imaging/java/).  
+- **Purchase:** Learn about licensing options on [Aspose's purchase page](https://purchase.aspose.com/buy).  
+- **Free Trial & Temporary License:** Try Aspose.Imaging with a free trial or request a temporary license at [Aspose Licensing](https://purchase.aspose.com/temporary-license/).  
+- **Support:** Ask questions on the [Aspose support forum](https://forum.aspose.com/c/imaging/10).
 
-4. **Ποια είναι τα οφέλη της προσωρινής αποθήκευσης RasterImages;**
-   - Η προσωρινή αποθήκευση βελτιώνει την απόδοση αποθηκεύοντας δεδομένα εικόνας στη μνήμη, καθιστώντας την επακόλουθη επεξεργασία ταχύτερη και πιο αποτελεσματική.
+---
 
-5. **Πώς μπορώ να αγοράσω μια άδεια χρήσης για το Aspose.Imaging;**
-   - Επίσκεψη [Σελίδα αγορών της Aspose](https://purchase.aspose.com/buy) για να εξερευνήσετε επιλογές αδειοδότησης και να ολοκληρώσετε την απόκτησή σας.
-
-## Πόροι
-
-- **Απόδειξη με έγγραφα**Εξερευνήστε όλες τις δυνατότητες στο [Τεκμηρίωση Java για το Aspose.Imaging](https://reference.aspose.com/imaging/java/).
-- **Λήψη**: Αποκτήστε την πιο πρόσφατη έκδοση της βιβλιοθήκης από [Απελευθερώσεις Aspose](https://releases.aspose.com/imaging/java/).
-- **Αγορά**Μάθετε περισσότερα σχετικά με τις επιλογές αδειοδότησης στο [Σελίδα αγορών της Aspose](https://purchase.aspose.com/buy).
-- **Δωρεάν δοκιμή και προσωρινή άδεια χρήσης**Δοκιμάστε το Aspose.Imaging με δωρεάν δοκιμαστική περίοδο ή ζητήστε μια προσωρινή άδεια χρήσης στη διεύθυνση [Άδειες χρήσης Aspose](https://purchase.aspose.com/temporary-license/).
+**Last Updated:** 2025-12-10  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

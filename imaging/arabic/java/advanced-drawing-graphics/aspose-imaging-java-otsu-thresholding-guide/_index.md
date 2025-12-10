@@ -1,9 +1,16 @@
 ---
-"date": "2025-06-04"
-"description": "اكتشف كيفية تحويل الصور إلى صور ثنائية باستخدام Aspose.Imaging لجافا. تعرّف على تحميل الصور، والتخزين المؤقت، وتقنيات تحديد عتبة Otsu. حسّن مشاريعك في جافا اليوم!"
-"title": "تحويل الصور إلى صور ثنائية بكفاءة في جافا باستخدام دليل تحديد العتبات Aspose.Imaging وOtsu"
-"url": "/ar/java/advanced-drawing-graphics/aspose-imaging-java-otsu-thresholding-guide/"
-"weight": 1
+date: '2025-12-10'
+description: تعرّف على كيفية استخدام Aspose.Imaging للغة Java لإجراء تحويل الصورة
+  إلى ثنائية، وتحسين معالجة الصور، وحفظ ملفات الصور المعالجة باستخدام عتبة أوتسو.
+keywords:
+- Aspose.Imaging for Java
+- Image Binarization in Java
+- Otsu Thresholding Technique
+- Java Image Processing with Aspose
+- Advanced Drawing & Graphics
+title: 'كيفية استخدام Aspose.Imaging للغة جافا: تحويل الصورة إلى ثنائية بطريقة أوتسو'
+url: /ar/java/advanced-drawing-graphics/aspose-imaging-java-otsu-thresholding-guide/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,45 +18,35 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# معالجة الصور الرئيسية في جافا: دليل شامل لـ Aspose.Imaging لجافا
+# معالجة الصور المتقدمة في جافا: دليل شامل لـ Aspose.Imaging لجافا
 
-## مقدمة
+## المقدمة
 
-في عصرنا الرقمي اليوم، حيث تُعدّ الصور محوريةً لتفاعل المستخدم ونقل المعلومات، تُعدّ إدارة جودة الصورة ومعالجتها بكفاءة أمرًا بالغ الأهمية. إذا كنت تواجه صعوبةً في تحويل الصور الملونة إلى صيغ ثنائية لأغراض التحليل أو كفاءة التخزين، فسيرشدك هذا البرنامج التعليمي خلال استخدام... **Aspose.Imaging لـ Java** لتحقيق ثنائية سلسة باستخدام عتبة أوتسو.
+إذا كنت تتساءل **how to use Aspose** حول كيفية استخدام Aspose لمعالجة الصور بسرعة وموثوقية، فقد وصلت إلى المكان الصحيح. في العالم الرقمي اليوم، تحويل الصور الملونة إلى صيغ ثنائية—المعروفة باسم **binary image conversion**—أمر أساسي لتحليل المستندات، خطوط معالجة الرؤية الحاسوبية، وتحسين التخزين. يشرح هذا الدليل كيفية تحميل الصور، التخزين المؤقت، تطبيق **Otsu image binarization**، وأخيرًا **saving the processed image** باستخدام Aspose.Imaging لجافا. في النهاية، ستكون قادرًا على **optimize image processing** في مشاريع جافا الخاصة بك ببضع أسطر من الشيفرة.
 
-في هذا البرنامج التعليمي، سنستكشف كيفية الاستفادة من ميزات مكتبة Aspose.Imaging القوية لتحميل الصور وتخزينها مؤقتًا ومعالجتها وحفظها في جافا. ستكتشف ليس فقط كيفية القيام بذلك، بل أيضًا سبب كل خطوة. بنهاية هذا الدليل، ستكون متمكنًا من:
+## الإجابات السريعة
+- **ما المقصود بـ “how to use aspose”؟** استخدام واجهة برمجة تطبيقات Aspose.Imaging لتحميل الصور، تعديلها، وحفظها في جافا.  
+- **ما الخوارزمية المستخدمة في التحويل إلى ثنائي؟** Otsu’s global thresholding method.  
+- **هل أحتاج إلى ترخيص للتطوير؟** نسخة تجريبية مجانية تكفي للتقييم؛ يلزم الحصول على ترخيص مدفوع للإنتاج.  
+- **هل يمكنني معالجة صور غير JPEG؟** نعم—يدعم Aspose.Imaging صيغ PNG، BMP، TIFF، GIF، وغيرها.  
+- **ما نسخة جافا المطلوبة؟** JDK 8 أو أعلى.
 
-- تحميل الصور وتهيئتها باستخدام Aspose.Imaging
-- تخزين الصور النقطية مؤقتًا للحصول على الأداء الأمثل
-- تنفيذ ثنائية عتبة أوتسو
-- حفظ الصور المعالجة بشكل فعال
+## ما هو Aspose.Imaging لجافا؟
+Aspose.Imaging لجافا هي مكتبة شاملة تتيح للمطورين إجراء عمليات صور متقدمة—تغيير الحجم، تحويل الصيغ، الترشيح، و **binary image conversion**—دون الاعتماد على مكونات نظام التشغيل الأصلية. تجعل واجهة برمجة التطبيقات السلسة من السهل دمج سير عمل صور قوي في أي تطبيق جافا.
 
-هل أنت مستعد للبدء؟ أولاً، تأكد من أن إعداداتك جاهزة للنجاح.
+## لماذا نستخدم عتبة Otsu؟
+طريقة Otsu تحدد تلقائيًا العتبة المثلى التي تفصل بين المقدمة والخلفية، مما يلغي الحاجة إلى الضبط اليدوي. هذا مفيد بشكل خاص عندما تكون ظروف الإضاءة متباينة عبر مجموعة من المستندات الممسوحة ضوئيًا.
 
-## المتطلبات الأساسية
+## المتطلبات المسبقة
+- **Aspose.Imaging لجافا** (Maven، Gradle، أو JAR يدوي)  
+- **JDK 8+** مثبت  
+- IDE مثل IntelliJ IDEA، Eclipse، أو NetBeans  
+- معرفة أساسية بجافا  
 
-لمتابعة هذا البرنامج التعليمي، ستحتاج إلى:
+## إعداد Aspose.Imaging لجافا
+قبل كتابة الشيفرة، أضف المكتبة إلى مشروعك.
 
-### المكتبات والإصدارات المطلوبة
-
-1. **Aspose.Imaging لـ Java**:تتيح هذه المكتبة إمكانيات معالجة الصور الشاملة.
-2. **مجموعة تطوير جافا (JDK)**:تأكد من تثبيت JDK 8 أو أعلى على نظامك.
-
-### متطلبات إعداد البيئة
-
-- بيئة التطوير المتكاملة (IDE) مثل IntelliJ IDEA أو Eclipse أو NetBeans
-- أداة بناء Maven أو Gradle التي تم تكوينها في إعداد مشروعك
-
-### متطلبات المعرفة
-
-- فهم أساسي لبرمجة جافا
-- التعرف على مفاهيم معالجة الصور
-
-## إعداد Aspose.Imaging لـ Java
-
-قبل البدء بتطبيق الميزات، تأكد من دمج Aspose.Imaging في بيئة التطوير لديك. يمكنك القيام بذلك عبر Maven أو Gradle أو التنزيل المباشر.
-
-**مافن:**
+**Maven:**
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -58,160 +55,120 @@
 </dependency>
 ```
 
-**جرادل:**
+**Gradle:**
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-**التحميل المباشر:**
-الوصول إلى [إصدارات Aspose.Imaging لـ Java](https://releases.aspose.com/imaging/java/) لتحميل المكتبة مباشرة .
+**Direct Download:**  
+قم بزيارة [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) لتنزيل ملف JAR يدويًا.
 
 ### خطوات الحصول على الترخيص
+- **Free Trial:** استكشف جميع الميزات بدون ترخيص.  
+- **Temporary License:** استخدمه لفترات تقييم ممتدة.  
+- **Purchase:** احصل على ترخيص كامل من [Aspose](https://purchase.aspose.com/buy).
 
-- **نسخة تجريبية مجانية**:يمكنك البدء بفترة تجريبية مجانية لاستكشاف ميزات Aspose.Imaging.
-- **رخصة مؤقتة**:احصل على ترخيص مؤقت إذا كنت بحاجة إلى وصول موسع دون قيود التقييم.
-- **شراء**:للاستخدام المستمر، فكر في شراء ترخيص كامل من [أسبوزي](https://purchase.aspose.com/buy).
-
-للتهيئة، قم بإنشاء `Image` قم بتحميل ملف صورتك كما هو موضح أدناه:
-
-```java
-import com.aspose.imaging.Image;
-
-String dataDir = "YOUR_DOCUMENT_DIRECTORY";
-try (Image image = Image.load(dataDir + "/aspose-logo.jpg")) {
-    // تم تحميل الصورة بنجاح
-}
-```
-
-## دليل التنفيذ
-
-### الميزة 1: تحميل الصورة وتهيئتها
-
-#### ملخص
-
-تحميل الصور هو الخطوة الأولى في أي عملية معالجة صور. يوفر Aspose.Imaging طريقة سهلة لتحميل صورة من الدليل المحدد.
-
-#### التنفيذ خطوة بخطوة
-
-**تحميل صورة**
+لتهيئة المكتبة، أنشئ كائن `Image` وحمّل ملف المصدر الخاص بك:
 
 ```java
 import com.aspose.imaging.Image;
 
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
 try (Image image = Image.load(dataDir + "/aspose-logo.jpg")) {
-    // تم الآن تحميل الصورة وهي جاهزة لمزيد من التعديل.
+    // Image loaded successfully
 }
 ```
 
-يوضح هذا المقطع كيفية تحميل ملف صورة باستخدام Aspose.Imaging. تأكد من أن المسار `dataDir` يشير بشكل صحيح إلى دليل الصورة الخاص بك.
+## كيفية استخدام Aspose.Imaging لتحويل الصور إلى ثنائي
 
-### الميزة 2: تخزين صورة نقطية مؤقتًا
+### الميزة 1: تحميل الصورة والتهيئة
+التحميل هو الخطوة الأولى في أي سير عمل. تُجرد الواجهة برمجة التطبيقات معالجة صيغ الملفات، بحيث يمكنك العمل مع JPEG، PNG، TIFF، وغيرها بشكل موحد.
 
-#### ملخص
+```java
+import com.aspose.imaging.Image;
 
-يعمل التخزين المؤقت على تحسين الأداء عن طريق تخزين بيانات الصورة في الذاكرة، مما يقلل من العمليات الحسابية المكررة أثناء مهام المعالجة.
+String dataDir = "YOUR_DOCUMENT_DIRECTORY";
+try (Image image = Image.load(dataDir + "/aspose-logo.jpg")) {
+    // The image is now loaded and ready for further manipulation.
+}
+```
 
-#### التنفيذ خطوة بخطوة
-
-**تخزين بيانات الصورة مؤقتًا**
+### الميزة 2: التخزين المؤقت لـ RasterImage
+التخزين المؤقت يحسن السرعة عن طريق الاحتفاظ ببيانات البكسل في الذاكرة، وهو أمر حيوي عند معالجة دفعات كبيرة.
 
 ```java
 import com.aspose.imaging.RasterCachedImage;
 
-// افترض أن "الصورة" هي مثيل للصورة التي تم تحميلها مسبقًا
+// Assume 'image' is an instance of Image that has been loaded previously
 RasterCachedImage rasterCachedImage = (RasterCachedImage) image;
 if (!rasterCachedImage.isCached()) {
-    // تخزين بيانات الصورة مؤقتًا إذا لم يتم تخزينها مؤقتًا بالفعل
+    // Cache the image data if it's not already cached
     rasterCachedImage.cacheData();
 }
 ```
 
-تتحقق هذه القطعة من ما إذا كان `RasterCachedImage` تم تخزينها مؤقتًا. إذا لم يكن الأمر كذلك، فسيتم تخزين بيانات الصورة مؤقتًا لتحسين خطوات المعالجة اللاحقة.
-
-### الميزة 3: التحويل الثنائي باستخدام عتبة أوتسو
-
-#### ملخص
-
-تقوم عملية التحويل الثنائي بتحويل الصورة ذات التدرج الرمادي إلى شكل ثنائي، وهو أمر ضروري لمهام تحليل الصور والتعرف على الأنماط.
-
-#### التنفيذ خطوة بخطوة
-
-**تطبيق طريقة أوتسو**
+### الميزة 3: التحويل إلى ثنائي باستخدام عتبة Otsu
+الآن قم بتطبيق **Otsu image binarization** لتحويل الـ raster إلى تمثيل أبيض وأسود.
 
 ```java
-// افترض أن 'rasterCachedImage' عبارة عن مثيل لـ RasterCachedImage تم تخزينه مؤقتًا مسبقًا
+// Assume 'rasterCachedImage' is an instance of RasterCachedImage that has been cached previously
 class FeatureBinarizationWithOtsuThreshold {
-    // تحويل الصورة إلى صورة ثنائية باستخدام طريقة عتبة أوتسو
+    // Binarize the image using Otsu Thresholding method
     rasterCachedImage.binarizeOtsu();
 }
 ```
 
-يُطبّق هذا الكود عتبة أوتسو لثنائية صورتك. تُحدّد الخوارزمية تلقائيًا قيمة عتبة عالمية مثالية.
-
 ### الميزة 4: حفظ الصورة المعالجة
-
-#### ملخص
-
-بمجرد معالجة صورتك، يعد حفظها بالتنسيق المفضل أمرًا ضروريًا للاستخدام أو التوزيع الإضافي.
-
-#### التنفيذ خطوة بخطوة
-
-**احفظ الصورة**
+أخيرًا، **save the processed image** بالتنسيق الذي تحتاجه. هنا نستخدم JPEG، لكن أي تنسيق مدعوم يعمل.
 
 ```java
 import com.aspose.imaging.imageoptions.JpegOptions;
 
 String outputDir = "YOUR_OUTPUT_DIRECTORY";
-// افترض أن 'rasterCachedImage' عبارة عن مثيل لـ RasterCachedImage تمت معالجته مسبقًا
+// Assume 'rasterCachedImage' is an instance of RasterCachedImage that has been processed previously
 class FeatureSaveProcessedImage {
     rasterCachedImage.save(outputDir + "/BinarizationWithOtsuThreshold_out.jpg");
 }
 ```
 
-يحفظ هذا المقطع الصورة الثنائية بتنسيق JPEG، مما يضمن تخزينها بكفاءة للوصول إليها في المستقبل.
-
 ## التطبيقات العملية
-
-1. **تحليل المستندات**:استخدم التثنية لمعالجة المستندات الممسوحة ضوئيًا قبل التعرف على النص.
-2. **التصوير الطبي**:تحسين الصور الثنائية لتحسين اكتشاف الأنماط وتحليلها.
-3. **مشاريع الرؤية الحاسوبية**:إعداد الصور لنماذج التعلم الآلي التي تتطلب مدخلات ثنائية.
+1. **Document Analysis:** معالجة مسبقة للصفحات الممسوحة قبل OCR لتحسين دقة استخراج النص.  
+2. **Medical Imaging:** إنشاء أقنعة ثنائية واضحة لتقسيم الأنسجة.  
+3. **Computer Vision:** إدخال الصور الثنائية إلى الشبكات العصبية التي تتوقع مدخلات ذات تباين عالي.
 
 ## اعتبارات الأداء
+- **Optimize Image Processing:** قم بتخزين مؤقت فقط للصور التي تحتاجها وحرّرها فورًا باستخدام try‑with‑resources.  
+- **Batch Processing:** كرّر عبر دليل الملفات لتقليل عبء الإدخال/الإخراج.  
+- **Memory Management:** استخدم فحوصات `RasterCachedImage.isCached()` لتجنب التخزين المؤقت الزائد.
 
-- **تحسين استخدام الذاكرة**:تأكد من الاستخدام الفعال للموارد من خلال تخزين الصور الضرورية فقط.
-- **معالجة الدفعات**:قم بمعالجة صور متعددة في دفعة واحدة لتقليل التكلفة.
-- **إدارة الموارد**:قم بتحرير الذاكرة وإغلاق تدفقات الصور على الفور بعد المعالجة.
+## الأسئلة المتكررة
+**Q: ما هو Otsu Thresholding؟**  
+A: هو خوارزمية عتبة عالمية تلقائية تختار القيمة المثلى لفصل بكسلات المقدمة عن الخلفية.
 
-## خاتمة
+**Q: كيف أقوم بإعداد Aspose.Imaging إذا لم أكن أستخدم Maven أو Gradle؟**  
+A: قم بتنزيل ملف JAR من صفحة [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) وأضفه إلى مسار الفئات (classpath) الخاص بمشروعك.
 
-لقد أتقنتَ الآن أساسيات استخدام Aspose.Imaging لجافا لتحميل الصور ومعالجتها وحفظها باستخدام تقنيات التثنية. جرّب المزيد من خلال استكشاف الميزات الأخرى التي تقدمها المكتبة، مثل التصفية المتقدمة أو تحويل الصيغ.
+**Q: هل يمكنني معالجة صور غير JPEGs باستخدام Aspose.Imaging؟**  
+A: نعم—يدعم Aspose.Imaging صيغ PNG، BMP، GIF، TIFF، والعديد من الصيغ الأخرى.
 
-تشمل الخطوات التالية دمج هذه الوظيفة في مشاريعك وتجربة أنواع مختلفة من الصور وسيناريوهات المعالجة. لا تتردد في التواصل معنا عبر [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10) لأي استفسارات قد تكون لديكم!
+**Q: ما هي فوائد التخزين المؤقت لـ RasterImages؟**  
+A: التخزين المؤقت يقلل من عمليات القراءة المتكررة من القرص ويسرّع العمليات اللاحقة مثل الترشيح أو التحويل إلى ثنائي.
 
-## قسم الأسئلة الشائعة
+**Q: كيف أشتري ترخيصًا لـ Aspose.Imaging؟**  
+A: زر صفحة الشراء على [Aspose](https://purchase.aspose.com/buy) لاختيار خطة الترخيص التي تناسب احتياجاتك.
 
-1. **ما هو عتبة أوتسو؟**
-   - طريقة تستخدم في معالجة الصور لأداء عتبة الصورة المستندة إلى التجميع تلقائيًا، أو تقليل صورة ذات مستوى رمادي إلى صورة ثنائية.
+## الموارد
+- **Documentation:** استكشف جميع الإمكانات في [Aspose.Imaging Java Documentation](https://reference.aspose.com/imaging/java/).  
+- **Download:** احصل على أحدث نسخة من المكتبة من [Aspose releases](https://releases.aspose.com/imaging/java/).  
+- **Purchase:** تعرف على خيارات الترخيص في [Aspose's purchase page](https://purchase.aspose.com/buy).  
+- **Free Trial & Temporary License:** جرّب Aspose.Imaging بنسخة تجريبية مجانية أو اطلب ترخيصًا مؤقتًا عبر [Aspose Licensing](https://purchase.aspose.com/temporary-license/).  
+- **Support:** اطرح أسئلتك على [Aspose support forum](https://forum.aspose.com/c/imaging/10).
 
-2. **كيف أقوم بإعداد Aspose.Imaging إذا لم أستخدم Maven أو Gradle؟**
-   - يمكنك تنزيل الإصدار الأحدث مباشرة من [إصدارات Aspose.Imaging لـ Java](https://releases.aspose.com/imaging/java/) الصفحة وأدرجها في مسار مشروعك.
+---
 
-3. **هل يمكنني معالجة الصور غير JPEG باستخدام Aspose.Imaging؟**
-   - نعم، يدعم Aspose.Imaging مجموعة واسعة من التنسيقات بما في ذلك PNG وBMP وGIF وTIFF والمزيد.
-
-4. **ما هي فوائد تخزين RasterImages مؤقتًا؟**
-   - يعمل التخزين المؤقت على تحسين الأداء عن طريق تخزين بيانات الصورة في الذاكرة، مما يجعل المعالجة اللاحقة أسرع وأكثر كفاءة.
-
-5. **كيف يمكنني شراء ترخيص لـ Aspose.Imaging؟**
-   - يزور [صفحة الشراء الخاصة بـ Aspose](https://purchase.aspose.com/buy) لاستكشاف خيارات الترخيص واستكمال عملية الشراء الخاصة بك.
-
-## موارد
-
-- **التوثيق**:استكشف الإمكانيات الكاملة في [توثيق Aspose.Imaging بلغة Java](https://reference.aspose.com/imaging/java/).
-- **تحميل**:احصل على أحدث إصدار للمكتبة من [إصدارات Aspose](https://releases.aspose.com/imaging/java/).
-- **شراء**:تعرف على المزيد حول خيارات الترخيص على [صفحة شراء Aspose](https://purchase.aspose.com/buy).
-- **نسخة تجريبية مجانية وترخيص مؤقت**:جرب Aspose.Imaging مع نسخة تجريبية مجانية أو اطلب ترخيصًا مؤقتًا على [ترخيص Aspose](https://purchase.aspose.com/temporary-license/).
+**آخر تحديث:** 2025-12-10  
+**تم الاختبار باستخدام:** Aspose.Imaging 25.5 for Java  
+**المؤلف:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
