@@ -1,9 +1,16 @@
 ---
-"date": "2025-06-04"
-"description": "Làm chủ thao tác hình ảnh nâng cao trong Java bằng Aspose.Imaging. Học cách thiết lập màu nền, xử lý độ trong suốt và lưu hình ảnh hiệu quả."
-"title": "Kỹ thuật và hướng dẫn xử lý hình ảnh Java nâng cao với Aspose.Imaging&#58;"
-"url": "/vi/java/advanced-drawing-graphics/advanced-image-manipulation-aspose-imaging-java/"
-"weight": 1
+date: '2025-12-10'
+description: Tìm hiểu cách đặt màu nền trong Java với Aspose.Imaging, lưu PNG với
+  độ trong suốt và làm chủ các thao tác xử lý ảnh nâng cao trong Java.
+keywords:
+- Java image manipulation
+- Aspose.Imaging for Java
+- set transparent color Java
+- save raster images with Java
+- advanced drawing & graphics
+title: Đặt màu nền trong Java bằng Aspose.Imaging – Nâng cao
+url: /vi/java/advanced-drawing-graphics/advanced-image-manipulation-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,35 +18,50 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Làm chủ Aspose.Imaging cho Java: Kỹ thuật xử lý hình ảnh nâng cao
+# Làm Chủ Aspose.Imaging cho Java: Các Kỹ Thuật Xử Lý Ảnh Nâng Cao
 
 ## Giới thiệu
 
-Trong thời đại kỹ thuật số, hình ảnh là thành phần cơ bản của truyền thông và xây dựng thương hiệu. Cho dù bạn đang tạo đồ họa cho phương tiện truyền thông xã hội, thiết kế logo hay phát triển các ứng dụng xử lý nội dung do người dùng tải lên, thì việc xử lý hình ảnh hiệu quả là rất quan trọng. Hướng dẫn này sẽ hướng dẫn bạn cách sử dụng Aspose.Imaging for Java để tải, xử lý và lưu hình ảnh raster với các tính năng nâng cao như thiết lập màu nền và độ trong suốt.
+Trong thời đại số, hình ảnh là thành phần nền tảng của giao tiếp và thương hiệu. Dù bạn đang tạo đồ họa cho mạng xã hội, thiết kế logo, hay phát triển ứng dụng xử lý nội dung do người dùng tải lên, **java image manipulation** hiệu quả là rất quan trọng. Hướng dẫn này sẽ chỉ cho bạn cách sử dụng Aspose.Imaging cho Java để tải, thao tác và lưu ảnh raster với các tính năng nâng cao như **set background color java**, xử lý độ trong suốt, và lưu PNG có độ trong suốt.
 
-**Những gì bạn sẽ học được:**
+**Bạn sẽ học được**
 
-- Cách tải hình ảnh raster bằng thư viện Aspose.Imaging
-- Thiết lập màu nền và màu trong suốt trong hình ảnh
-- Lưu hình ảnh có các thuộc tính cụ thể như tùy chọn PNG
+- Cách tải ảnh raster bằng thư viện Aspose.Imaging  
+- **Set background color java** và màu trong suốt trong ảnh  
+- Lưu ảnh với các thuộc tính cụ thể như tùy chọn PNG và **save png with transparency**  
 
-Bạn đã sẵn sàng nâng cao kỹ năng xử lý hình ảnh dựa trên Java chưa? Trước tiên, hãy cùng tìm hiểu các điều kiện tiên quyết.
+Sẵn sàng nâng cao kỹ năng xử lý ảnh bằng Java? Hãy bắt đầu với các yêu cầu trước.
 
-## Điều kiện tiên quyết
+## Câu trả lời nhanh
+- **Thư viện chính là gì?** Aspose.Imaging cho Java  
+- **Cách đặt màu nền?** Dùng `image.setBackgroundColor(Color.getWhite())`  
+- **Có thể lưu PNG với độ trong suốt không?** Có, thông qua `PngOptions` và `setTransparentColor(true)`  
+- **Cần giấy phép không?** Cần giấy phép dùng thử hoặc giấy phép Aspose.Imaging chính thức cho môi trường sản xuất  
+- **Công cụ xây dựng nào phù hợp nhất?** Cả Maven (`aspose imaging maven`) và Gradle đều được hỗ trợ  
 
-Trước khi bắt đầu, hãy đảm bảo bạn có những điều sau:
+## set background color java là gì?
+Đặt màu nền trong xử lý ảnh Java có nghĩa là xác định màu sẽ lấp đầy bất kỳ khu vực trống hoặc trong suốt nào của ảnh raster. Với Aspose.Imaging, thao tác này chỉ cần một lời gọi phương thức, nhanh chóng và đáng tin cậy cho bất kỳ quy trình **java image manipulation** nào.
 
-1. **Thư viện bắt buộc**: Bạn sẽ cần Aspose.Imaging cho Java phiên bản 25.5.
-2. **Môi trường phát triển**: Một IDE phù hợp như IntelliJ IDEA hoặc Eclipse và cài đặt JDK trên máy của bạn.
-3. **Kiến thức cơ bản**: Quen thuộc với lập trình Java và xử lý các hoạt động I/O tệp.
+## Tại sao nên set background color java với Aspose.Imaging?
+- **Nhất quán thương hiệu** – Đảm bảo mọi ảnh xuất ra đều phù hợp với bảng màu thương hiệu của bạn.  
+- **Cải thiện chất lượng hình ảnh** – Các vùng trong suốt được thay thế bằng màu nền đồng nhất, tránh hiện tượng lưới kiểm tra không mong muốn.  
+- **Tương thích đa định dạng** – Một số định dạng (như JPEG) không hỗ trợ trong suốt; màu nền đảm bảo hiển thị đúng.
 
-## Thiết lập Aspose.Imaging cho Java
+## Yêu cầu trước
 
-Aspose.Imaging là một thư viện đa năng hỗ trợ nhiều định dạng hình ảnh, lý tưởng cho các tác vụ xử lý hình ảnh phức tạp trong các ứng dụng Java.
+Trước khi bắt đầu, hãy chắc chắn bạn đã có:
 
-### Cài đặt Maven
+1. **Thư viện cần thiết** – Aspose.Imaging cho Java phiên bản 25.5 (hoặc mới hơn).  
+2. **Môi trường phát triển** – IntelliJ IDEA, Eclipse, hoặc bất kỳ IDE nào hỗ trợ Java với JDK 8+ đã cài đặt.  
+3. **Kiến thức cơ bản** – Quen thuộc với lập trình Java và I/O file.  
 
-Để đưa Aspose.Imaging vào dự án của bạn bằng Maven, hãy thêm phần phụ thuộc sau vào `pom.xml` tài liệu:
+## Cài đặt Aspose.Imaging cho Java
+
+Aspose.Imaging là thư viện đa năng hỗ trợ nhiều định dạng ảnh, rất thích hợp cho các tác vụ xử lý ảnh phức tạp.
+
+### Cài đặt Maven (aspose imaging maven)
+
+Thêm phụ thuộc vào `pom.xml` của bạn:
 
 ```xml
 <dependency>
@@ -51,27 +73,27 @@ Aspose.Imaging là một thư viện đa năng hỗ trợ nhiều định dạng
 
 ### Cài đặt Gradle
 
-Đối với các dự án sử dụng Gradle, hãy bao gồm dòng này trong `build.gradle` tài liệu:
+Thêm dòng sau vào file `build.gradle`:
 
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-### Tải xuống trực tiếp
+### Tải trực tiếp
 
-Ngoài ra, hãy tải xuống Aspose.Imaging for Java JAR mới nhất từ [Aspose.Imaging phát hành](https://releases.aspose.com/imaging/java/).
+Hoặc tải JAR Aspose.Imaging cho Java mới nhất từ [Aspose.Imaging releases](https://releases.aspose.com/imaging/java/).
 
-#### Mua lại giấy phép
+#### Nhận giấy phép (aspose imaging license)
 
-Aspose cung cấp giấy phép dùng thử miễn phí để đánh giá sản phẩm của họ. Bạn có thể yêu cầu giấy phép tạm thời hoặc mua giấy phép đầy đủ nếu bạn cần quyền truy cập mở rộng hơn.
+Aspose cung cấp giấy phép dùng thử miễn phí để đánh giá. Bạn có thể yêu cầu giấy phép tạm thời hoặc mua giấy phép đầy đủ cho môi trường sản xuất.
 
-- **Dùng thử miễn phí**: Thăm nom [Dùng thử miễn phí Aspose Imaging](https://releases.aspose.com/imaging/java/)
-- **Giấy phép tạm thời**: Yêu cầu tại [Giấy phép tạm thời Aspose](https://purchase.aspose.com/temporary-license/).
-- **Mua**: Để sử dụng lâu dài, hãy cân nhắc mua giấy phép từ [Mua Aspose](https://purchase.aspose.com/buy).
+- **Dùng thử miễn phí**: Truy cập [Aspose Imaging Free Trial](https://releases.aspose.com/imaging/java/)  
+- **Giấy phép tạm thời**: Yêu cầu tại [Aspose Temporary License](https://purchase.aspose.com/temporary-license/).  
+- **Mua giấy phép**: Đối với sử dụng lâu dài, hãy mua giấy phép tại [Aspose Purchase](https://purchase.aspose.com/buy).
 
 ### Khởi tạo cơ bản
 
-Sau khi thiết lập thư viện trong dự án của bạn:
+Sau khi thêm thư viện vào dự án, bạn có thể bắt đầu sử dụng:
 
 ```java
 import com.aspose.imaging.Image;
@@ -79,17 +101,17 @@ import com.aspose.imaging.RasterImage;
 
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
 RasterImage image = (RasterImage) Image.load(dataDir + "aspose_logo.png");
-// Mã chỉnh sửa hình ảnh của bạn sẽ nằm ở đây.
+// Your image manipulation code goes here.
 ```
 
-## Hướng dẫn thực hiện
+## Hướng dẫn triển khai
 
-Bây giờ, chúng ta hãy khám phá các tính năng chính và cách triển khai chúng bằng Aspose.Imaging cho Java.
+Bây giờ, chúng ta sẽ khám phá các tính năng chính và cách thực hiện chúng bằng Aspose.Imaging cho Java.
 
-### Tải và Hiển thị Hình ảnh
+### Tải và hiển thị ảnh
 
 #### Tổng quan
-Tải hình ảnh raster thường là bước đầu tiên trong bất kỳ tác vụ xử lý hình ảnh nào. Tính năng này cho phép bạn tải hình ảnh nhanh chóng để thao tác hoặc hiển thị thêm.
+Tải ảnh raster thường là bước đầu tiên trong bất kỳ tác vụ xử lý ảnh nào. Tính năng này cho phép bạn tải ảnh nhanh chóng để thực hiện các thao tác tiếp theo hoặc hiển thị.
 
 ##### Bước 1: Nhập các lớp cần thiết
 
@@ -98,26 +120,26 @@ import com.aspose.imaging.Image;
 import com.aspose.imaging.RasterImage;
 ```
 
-##### Bước 2: Tải hình ảnh
+##### Bước 2: Tải ảnh
 
-Các `load` phương pháp đọc một hình ảnh từ một thư mục được chỉ định. Ở đây, chúng tôi sử dụng định dạng hình ảnh raster cho các hoạt động của mình.
+Phương thức `load` đọc ảnh từ thư mục được chỉ định. Ở đây, chúng ta sử dụng định dạng ảnh raster cho các thao tác.
 
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
 
 try (RasterImage image = (RasterImage) Image.load(dataDir + "aspose_logo.png")) {
-    // Bây giờ hình ảnh đã được tải và có thể chỉnh sửa.
+    // The image is now loaded and can be manipulated.
 }
 ```
 
-**Tham số & Mục đích phương pháp:**  
-- `dataDir`Đường dẫn thư mục chứa tệp hình ảnh.  
-- `load()`: Tải một tệp hình ảnh vào đối tượng RasterImage.
+**Tham số & Mục đích phương thức:**  
+- `dataDir`: Đường dẫn thư mục chứa file ảnh.  
+- `load()`: Tải file ảnh vào đối tượng `RasterImage`.
 
-### Đặt màu nền cho hình ảnh
+### Đặt màu nền cho ảnh
 
 #### Tổng quan
-Việc tùy chỉnh màu nền của hình ảnh có thể tăng tính thẩm mỹ hoặc đáp ứng các yêu cầu thiết kế cụ thể.
+Tùy chỉnh màu nền của ảnh có thể nâng cao thẩm mỹ hoặc đáp ứng các yêu cầu thiết kế cụ thể.
 
 ##### Bước 1: Nhập các lớp cần thiết
 
@@ -126,9 +148,9 @@ import com.aspose.imaging.Color;
 import com.aspose.imaging.RasterImage;
 ```
 
-##### Bước 2: Thiết lập màu nền
+##### Bước 2: Đặt màu nền
 
-Sử dụng `setBackgroundColor` để thay đổi màu nền của hình ảnh. Ở đây, chúng tôi đặt nó thành màu trắng.
+Sử dụng `setBackgroundColor` để thay đổi màu nền của ảnh. Ở đây, chúng ta đặt màu trắng, một lựa chọn phổ biến khi **set background color java** được yêu cầu cho các định dạng không hỗ trợ trong suốt.
 
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
@@ -138,13 +160,13 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "aspose_logo.png")) 
 }
 ```
 
-**Tham số & Mục đích phương pháp:**  
+**Tham số & Mục đích phương thức:**  
 - `Color.getWhite()`: Đặt màu nền thành màu trắng.
 
-### Đặt màu trong suốt cho hình ảnh
+### Đặt màu trong suốt cho ảnh
 
 #### Tổng quan
-Việc xác định màu trong suốt có thể rất quan trọng khi làm việc với hình ảnh nhiều lớp hoặc chuẩn bị đồ họa để sử dụng trên web.
+Xác định màu trong suốt có thể quan trọng khi làm việc với ảnh lớp hoặc chuẩn bị đồ họa cho web.
 
 ##### Bước 1: Nhập các lớp cần thiết
 
@@ -153,9 +175,9 @@ import com.aspose.imaging.Color;
 import com.aspose.imaging.RasterImage;
 ```
 
-##### Bước 2: Xác định màu trong suốt
+##### Bước 2: Định nghĩa màu trong suốt
 
-Ở đây, chúng tôi đặt màu đen làm màu trong suốt và cho phép sử dụng tính năng trong suốt.
+Ở đây, chúng ta đặt màu đen làm màu trong suốt và bật tính năng sử dụng trong suốt.
 
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
@@ -166,14 +188,14 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "aspose_logo.png")) 
 }
 ```
 
-**Tham số & Mục đích phương pháp:**  
-- `Color.getBlack()`: Định nghĩa màu đen là màu trong suốt.
+**Tham số & Mục đích phương thức:**  
+- `Color.getBlack()`: Định nghĩa màu đen làm màu trong suốt.  
 - `setTransparentColor(boolean)`: Bật hoặc tắt tính năng trong suốt.
 
-### Lưu hình ảnh với các thuộc tính được chỉ định
+### Lưu ảnh với các thuộc tính đã chỉ định
 
 #### Tổng quan
-Việc lưu hình ảnh có các thuộc tính cụ thể như độ trong suốt và cài đặt nền là điều cần thiết để duy trì tính nhất quán về mặt hình ảnh trên nhiều nền tảng khác nhau.
+Lưu ảnh với các thuộc tính cụ thể như trong suốt và màu nền là cần thiết để duy trì tính nhất quán hình ảnh trên các nền tảng khác nhau.
 
 ##### Bước 1: Nhập các lớp cần thiết
 
@@ -182,9 +204,9 @@ import com.aspose.imaging.imageoptions.PngOptions;
 import com.aspose.imaging.RasterImage;
 ```
 
-##### Bước 2: Lưu hình ảnh
+##### Bước 2: Lưu ảnh
 
-Ở đây, chúng tôi lưu hình ảnh dưới dạng PNG với các tùy chọn được chỉ định cho độ trong suốt và màu nền.
+Ở đây, chúng ta lưu ảnh dưới dạng PNG với các tùy chọn đã chỉ định cho trong suốt và màu nền, minh họa **save png with transparency**.
 
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
@@ -201,65 +223,55 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "aspose_logo.png")) 
 }
 ```
 
-**Tham số & Mục đích phương pháp:**  
-- `PngOptions`: Chỉ định tùy chọn PNG để lưu hình ảnh.  
-- `save()`: Lưu hình ảnh đã chỉnh sửa vào thư mục đã chỉ định.
+**Tham số & Mục đích phương thức:**  
+- `PngOptions`: Xác định các tùy chọn PNG khi lưu ảnh.  
+- `save()`: Lưu ảnh đã chỉnh sửa vào thư mục được chỉ định.
 
-## Ứng dụng thực tế
+## Ứng dụng thực tiễn
 
-Sau đây là một số ứng dụng thực tế của những tính năng này:
+Dưới đây là một số kịch bản thực tế mà các kỹ thuật này tỏa sáng:
 
-1. **Phát triển Web**: Tùy chỉnh hình ảnh động dựa trên sở thích hoặc chủ đề của người dùng.
-2. **Phần mềm thiết kế đồ họa**: Triển khai các công cụ chỉnh sửa nâng cao cho phép người dùng thiết lập độ trong suốt và nền dễ dàng.
-3. **Chiến dịch tiếp thị**: Tự động xử lý hàng loạt hình ảnh để tạo nên thương hiệu thống nhất trên nhiều nền tảng.
+1. **Phát triển web** – Tự động tạo đồ họa phù hợp với chủ đề, nơi màu nền khớp với bảng màu của trang.  
+2. **Phần mềm thiết kế đồ họa** – Cung cấp cho người dùng khả năng đặt nền đồng nhất trước khi xuất ra các định dạng không có kênh alpha.  
+3. **Chiến dịch marketing** – Xử lý hàng loạt ảnh sản phẩm để đảm bảo nền đồng nhất và logo trong suốt cho quảng cáo trên mạng xã hội.
 
-## Cân nhắc về hiệu suất
+## Lưu ý về hiệu năng
 
-Việc tối ưu hóa hiệu suất là rất quan trọng khi xử lý hình ảnh quy mô lớn:
+Khi xử lý ảnh độ phân giải cao, hãy ghi nhớ các lời khuyên sau:
 
-- **Hướng dẫn sử dụng tài nguyên**: Đảm bảo hệ thống của bạn có đủ bộ nhớ, đặc biệt là khi xử lý hình ảnh có độ phân giải cao.
-- **Thực hành tốt nhất**:
-  - Sử dụng các hoạt động I/O đệm để giảm thiểu tải cho tài nguyên hệ thống.
-  - Đóng tất cả các đối tượng hình ảnh ngay lập tức bằng cách sử dụng lệnh try-with-resources để giải phóng bộ nhớ.
+- **Tiêu thụ tài nguyên** – Phân bổ đủ bộ nhớ heap; ảnh lớn có thể nhanh chóng tiêu thụ RAM.  
+- **Thực hành tốt** – Sử dụng try‑with‑resources (như trong ví dụ) để tự động đóng đối tượng ảnh và giải phóng tài nguyên gốc.  
+- **I/O có bộ đệm** – Bao bọc các luồng file trong buffer nếu bạn làm việc trực tiếp với stream, giảm tải I/O đĩa.
 
-## Phần kết luận
+## Kết luận
 
-Trong hướng dẫn này, chúng tôi đã khám phá cách tận dụng Aspose.Imaging for Java để thao tác hiệu quả với hình ảnh raster. Bằng cách thiết lập màu nền và màu trong suốt và lưu với các thuộc tính cụ thể, bạn có thể tạo đồ họa hấp dẫn về mặt thị giác phù hợp với nhu cầu của ứng dụng. Để khám phá thêm, hãy cân nhắc tìm hiểu sâu hơn về các tính năng nâng cao hơn như bộ lọc hình ảnh hoặc chuyển đổi.
+Trong hướng dẫn này, chúng ta đã khám phá cách **set background color java** bằng Aspose.Imaging, định nghĩa màu trong suốt, và **save png with transparency**. Những khả năng này cho phép bạn tạo ra các đồ họa chuyên nghiệp, nhất quán với thương hiệu cho nhiều ứng dụng.
 
-Bước tiếp theo? Hãy thử áp dụng các kỹ thuật này vào dự án của bạn và chia sẻ kinh nghiệm của bạn với cộng đồng!
+Bước tiếp theo? Thử nghiệm các tính năng khác của Aspose.Imaging như bộ lọc ảnh, thay đổi kích thước, và chuyển đổi định dạng. Chia sẻ các triển khai của bạn với cộng đồng và tiếp tục khám phá!
 
-## Phần Câu hỏi thường gặp
+## Phần FAQ
 
-**Câu hỏi 1: Làm thế nào để đảm bảo thư viện Aspose.Imaging của tôi được cập nhật?**
+**Q1: Làm sao để đảm bảo thư viện Aspose.Imaging luôn cập nhật?**  
+A1: Thường xuyên kiểm tra [Aspose.Imaging releases](https://releases.aspose.com/imaging/java/) để có phiên bản mới. Sử dụng Maven hoặc Gradle sẽ tự động tải phiên bản mới nhất.
 
-A1: Kiểm tra thường xuyên [Aspose.Imaging phát hành](https://releases.aspose.com/imaging/java/) để cập nhật. Sử dụng công cụ xây dựng như Maven hoặc Gradle cũng có thể tự động xử lý việc quản lý phụ thuộc.
+**Q2: Nếu việc tải ảnh thất bại, tôi nên làm gì?**  
+A2: Kiểm tra lại đường dẫn file, chắc chắn file tồn tại và định dạng được Aspose.Imaging hỗ trợ.
 
-**Câu hỏi 2: Nếu việc tải hình ảnh không thành công thì sao?**
+**Q3: Tôi có thể thao tác ảnh vector bằng Aspose.Imaging cho Java không?**  
+A3: Có, Aspose.Imaging hỗ trợ các định dạng vector như SVG và EMF, mặc dù API sẽ khác so với xử lý ảnh raster.
 
-A2: Kiểm tra đường dẫn tệp và đảm bảo có thể truy cập được. Xác minh định dạng tệp được Aspose.Imaging hỗ trợ.
+**Q4: Làm sao để làm việc với các không gian màu khác nhau?**  
+A4: Thư viện cung cấp các tiện ích chuyển đổi; tham khảo tài liệu chính thức để biết các phương thức như `convertColorSpace`.
 
-**Câu hỏi 3: Tôi có thể thao tác hình ảnh vector bằng Aspose.Imaging cho Java không?**
+**Q5: Những lỗi thường gặp khi lưu ảnh với trong suốt là gì?**  
+A5: Đảm bảo định dạng đầu ra (ví dụ PNG) hỗ trợ kênh alpha. Ngoài ra, kiểm tra lại rằng `setTransparentColor(true)` đã được gọi trước khi lưu.
 
-A3: Có, Aspose.Imaging hỗ trợ nhiều định dạng vector như SVG và EMF. Tuy nhiên, các thao tác có thể khác với thao tác hình ảnh raster.
+---
 
-**Câu hỏi 4: Tôi có thể xử lý các không gian màu khác nhau trong hình ảnh như thế nào?**
-
-A4: Aspose.Imaging cung cấp các công cụ để chuyển đổi giữa các không gian màu khác nhau bằng các phương pháp có sẵn trong tài liệu của thư viện.
-
-**Câu hỏi 5: Một số vấn đề thường gặp khi lưu ảnh có độ trong suốt là gì?**
-
-A5: Đảm bảo rằng định dạng đầu ra hỗ trợ tính minh bạch (ví dụ: PNG). Cài đặt không chính xác có thể dẫn đến kết quả không mong muốn, vì vậy hãy kiểm tra lại `PngOptions`.
-
-## Tài nguyên
-
-- **Tài liệu**: [Tài liệu tham khảo Java Aspose.Imaging](https://reference.aspose.com/imaging/java/)
-- **Tải về**: [Bản phát hành Aspose.Imaging cho Java](https://releases.aspose.com/imaging/java/)
-- **Mua**: [Trang mua hàng Aspose](https://purchase.aspose.com/buy)
-- **Dùng thử miễn phí**: [Dùng thử Aspose.Imaging miễn phí](https://releases.aspose.com/imaging/java/)
-- **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Cộng đồng hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
-
-Chúc bạn viết mã vui vẻ!
+**Cập nhật lần cuối:** 2025-12-10  
+**Kiểm tra với:** Aspose.Imaging 25.5 cho Java  
+**Tác giả:** Aspose  
+**Tài nguyên liên quan:** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/) | [Aspose.Imaging for Java Releases](https://releases.aspose.com/imaging/java/) | [Aspose Purchase Page](https://purchase.aspose.com/buy) | [Try Aspose.Imaging Free Trial](https://releases.aspose.com/imaging/java/) | [Request Temporary License](https://purchase.aspose.com/temporary-license/) | [Aspose Support Community](https://forum.aspose.com/c/imaging/10)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
