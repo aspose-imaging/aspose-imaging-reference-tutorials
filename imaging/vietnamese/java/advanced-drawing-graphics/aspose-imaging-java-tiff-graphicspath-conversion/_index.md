@@ -1,9 +1,17 @@
 ---
-"date": "2025-06-04"
-"description": "Tìm hiểu cách chuyển đổi tài nguyên đường dẫn TIFF thành GraphicsPath bằng Aspose.Imaging cho Java. Hoàn hảo để xử lý đồ họa vector trong hình ảnh TIFF một cách dễ dàng."
-"title": "Aspose.Imaging Java&#58; Chuyển đổi đường dẫn TIFF sang GraphicsPath - Hướng dẫn từng bước"
-"url": "/vi/java/advanced-drawing-graphics/aspose-imaging-java-tiff-graphicspath-conversion/"
-"weight": 1
+date: '2025-12-11'
+description: Tìm hiểu cách chuyển đổi các tài nguyên đường dẫn tiff thành GraphicsPath
+  bằng Aspose.Imaging cho Java. Hướng dẫn từng bước này bao gồm việc chuyển đổi, tạo
+  đường dẫn tùy chỉnh và các thực tiễn tốt nhất.
+keywords:
+- Convert TIFF Paths to GraphicsPath
+- Aspose.Imaging Java
+- TIFF image manipulation
+- Java GraphicsPath conversion tutorial
+- Advanced Drawing & Graphics
+title: Cách chuyển đổi TIFF sang GraphicsPath bằng Aspose.Imaging Java
+url: /vi/java/advanced-drawing-graphics/aspose-imaging-java-tiff-graphicspath-conversion/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,30 +19,38 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Làm chủ Aspose.Imaging Java: Chuyển đổi tài nguyên đường dẫn TIFF sang GraphicsPath
+# Cách Chuyển Đổi TIFF sang GraphicsPath với Aspose.Imaging Java
 
 **Giới thiệu**
 
-Bạn có đang gặp khó khăn khi thao tác đồ họa vector trong hình ảnh TIFF bằng Java không? Hướng dẫn này chính là giải pháp dành cho bạn! Chúng ta sẽ khám phá cách chuyển đổi tài nguyên đường dẫn từ hình ảnh TIFF thành `GraphicsPath` và ngược lại, tận dụng sức mạnh của Aspose.Imaging cho Java. Bằng cách thành thạo các kỹ thuật này, bạn sẽ nâng cao khả năng làm việc với các tác vụ hình ảnh phức tạp một cách liền mạch.
+Bạn đang gặp khó khăn trong việc thao tác đồ họa vector trong ảnh TIFF bằng Java? Hướng dẫn này là giải pháp cho bạn! Chúng ta sẽ khám phá cách chuyển đổi các tài nguyên đường dẫn (path resources) từ ảnh TIFF thành một `GraphicsPath` và ngược lại, tận dụng sức mạnh của Aspose.Imaging cho Java. Khi nắm vững các kỹ thuật này, bạn sẽ nâng cao khả năng làm việc với các tác vụ hình ảnh phức tạp một cách liền mạch.
 
-**Những gì bạn sẽ học được:**
-- Chuyển đổi tài nguyên đường dẫn trong hình ảnh TIFF thành `GraphicsPath`.
-- Tạo tài nguyên đường dẫn tùy chỉnh từ một `GraphicsPath`.
-- Thiết lập và cấu hình Aspose.Imaging cho Java.
-- Áp dụng các trường hợp sử dụng thực tế liên quan đến hình ảnh TIFF.
+## Câu trả lời nhanh
+- **“how to convert tiff” có nghĩa là gì?** Nó đề cập đến việc chuyển đổi dữ liệu vector nhúng trong TIFF (các tài nguyên đường dẫn) thành đối tượng `GraphicsPath` của Java hoặc ngược lại.
+- **Thư viện nào thực hiện việc chuyển đổi?** Aspose.Imaging cho Java cung cấp các tiện ích `PathResourceConverter`.
+- **Có cần giấy phép không?** Bản dùng thử miễn phí đủ cho việc đánh giá, nhưng giấy phép vĩnh viễn sẽ loại bỏ các giới hạn đánh giá.
+- **Yêu cầu phiên bản Java nào?** JDK 8 trở lên.
+- **Có thể sử dụng trong dịch vụ web không?** Có — chỉ cần đảm bảo quản lý bộ nhớ đúng cách với try‑with‑resources.
 
-Trước khi bắt đầu triển khai, hãy đảm bảo rằng bạn đã thiết lập mọi thứ chính xác.
+## “how to convert tiff” là gì?
+Chuyển đổi TIFF có nghĩa là trích xuất thông tin đường dẫn vector được lưu trong tệp TIFF và chuyển nó thành định dạng mà các API đồ họa của Java hiểu (`GraphicsPath`). Điều này cho phép bạn chỉnh sửa, render hoặc mở rộng dữ liệu vector một cách lập trình.
+
+## Tại sao nên dùng Aspose.Imaging cho việc chuyển đổi TIFF?
+- **Hỗ trợ TIFF đầy đủ:** Xử lý đa khung, độ phân giải cao và các tệp TIFF nén.
+- **Chuyển đổi đường dẫn tích hợp:** `PathResourceConverter` trừu tượng hoá các đặc tả phức tạp của TIFF.
+- **Đa nền tảng:** Hoạt động trên mọi hệ điều hành hỗ trợ Java.
+- **Không phụ thuộc bên ngoài:** Tất cả chức năng nằm trong JAR Aspose.Imaging.
 
 ## Điều kiện tiên quyết
 
-Để thực hiện hướng dẫn này một cách hiệu quả, hãy đảm bảo rằng bạn có:
-- **Bộ phát triển Java (JDK):** Máy của bạn đã cài đặt phiên bản 8 trở lên.
-- **Aspose.Imaging cho Java:** Đây là một thư viện mạnh mẽ cần thiết để thao tác hình ảnh TIFF và đường dẫn của chúng. Đảm bảo bạn đã tải xuống phiên bản chính xác như được nêu trong phần thiết lập bên dưới.
+- **Java Development Kit (JDK):** Phiên bản 8 trở lên đã được cài đặt.
+- **Aspose.Imaging cho Java:** Đã tải về và thêm vào dự án của bạn (xem các bước thiết lập bên dưới).
+- **Giấy phép Aspose.Imaging hợp lệ** (tùy chọn cho việc đánh giá, bắt buộc cho môi trường sản xuất).
 
-## Thiết lập Aspose.Imaging cho Java
+## Cài đặt Aspose.Imaging cho Java
 
-### Cài đặt Maven
-Nếu bạn đang sử dụng Maven, hãy thêm phụ thuộc sau vào `pom.xml`:
+### Cài đặt qua Maven
+Nếu bạn sử dụng Maven, thêm phụ thuộc sau vào file `pom.xml` của bạn:
 
 ```xml
 <dependency>
@@ -44,60 +60,61 @@ Nếu bạn đang sử dụng Maven, hãy thêm phụ thuộc sau vào `pom.xml`
 </dependency>
 ```
 
-### Cài đặt Gradle
-Đối với những người sử dụng Gradle, hãy bao gồm sự phụ thuộc trong `build.gradle`:
+### Cài đặt qua Gradle
+Đối với những người dùng Gradle, bao gồm phụ thuộc trong file `build.gradle`:
 
 ```gradle
 implementation 'com.aspose:aspose-imaging:25.5'
 ```
 
-### Tải xuống trực tiếp
-Ngoài ra, hãy tải xuống phiên bản mới nhất trực tiếp từ [Phiên bản Aspose.Imaging cho Java](https://releases.aspose.com/imaging/java/).
+### Tải trực tiếp
+Hoặc tải phiên bản mới nhất trực tiếp từ [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-### Mua lại giấy phép
+### Nhận giấy phép
 
-Để sử dụng đầy đủ Aspose.Imaging mà không có giới hạn đánh giá:
-- **Dùng thử miễn phí:** Bắt đầu bằng cách tải xuống bản dùng thử miễn phí để kiểm tra khả năng của nó.
-- **Giấy phép tạm thời:** Xin giấy phép tạm thời nếu bạn cần thêm thời gian.
-- **Mua:** Mua giấy phép đầy đủ để sử dụng không hạn chế.
+Để sử dụng đầy đủ Aspose.Imaging mà không bị giới hạn đánh giá:
+
+- **Bản dùng thử:** Bắt đầu bằng cách tải bản dùng thử miễn phí để thử nghiệm tính năng.
+- **Giấy phép tạm thời:** Nhận giấy phép tạm thời nếu bạn cần thời gian thêm.
+- **Mua bản quyền:** Mua giấy phép đầy đủ để sử dụng không giới hạn.
 
 #### Khởi tạo cơ bản
-Sau khi cài đặt, hãy khởi tạo thư viện trong ứng dụng Java của bạn:
+Sau khi cài đặt, khởi tạo thư viện trong ứng dụng Java của bạn:
 
 ```java
 import com.aspose.imaging.*;
 
 public class ImagingSetup {
     public static void main(String[] args) {
-        // Đặt đường dẫn tệp giấy phép
+        // Set the license file path
         License license = new License();
         license.setLicense("path/to/your/license.lic");
     }
 }
 ```
 
-## Hướng dẫn thực hiện
+## Hướng dẫn triển khai
 
-### Tính năng 1: Chuyển đổi tài nguyên Path sang GraphicsPath
+### Tính năng 1: Chuyển đổi Path Resources sang GraphicsPath
 
 #### Tổng quan
-Tính năng này cho phép bạn chuyển đổi các tài nguyên đường dẫn hiện có trong hình ảnh TIFF thành `GraphicsPath` đối tượng, cho phép thao tác và hiển thị thêm.
+Tính năng này cho phép bạn chuyển các tài nguyên đường dẫn hiện có trong ảnh TIFF thành một đối tượng `GraphicsPath`, giúp thực hiện các thao tác chỉnh sửa và render tiếp theo.
 
-##### Thực hiện từng bước
+##### Các bước thực hiện
 
-**1. Tải hình ảnh TIFF**
+**1. Tải ảnh TIFF**
 
-Bắt đầu bằng cách tải hình ảnh TIFF của bạn bằng Aspose.Imaging:
+Bắt đầu bằng cách tải ảnh TIFF của bạn bằng Aspose.Imaging:
 
 ```java
 try (TiffImage image = (TiffImage) Image.load("YOUR_DOCUMENT_DIRECTORY/Bottle.tif")) {
-    // Tiến hành chuyển đổi tài nguyên đường dẫn
+    // Proceed to convert path resources
 }
 ```
 
-**2. Chuyển đổi tài nguyên Path sang GraphicsPath**
+**2. Chuyển đổi Path Resources sang GraphicsPath**
 
-Trích xuất và chuyển đổi tài nguyên đường dẫn từ khung đang hoạt động:
+Trích xuất và chuyển đổi các tài nguyên đường dẫn từ khung hiện tại:
 
 ```java
 GraphicsPath graphicsPath = PathResourceConverter.toGraphicsPath(
@@ -105,37 +122,37 @@ GraphicsPath graphicsPath = PathResourceConverter.toGraphicsPath(
     image.getActiveFrame().getSize()
 );
 ```
-*Ghi chú:* Các `toGraphicsPath` Phương pháp này dịch các đường dẫn bên trong của TIFF thành định dạng mà Graphics của Java có thể hiểu được, cho phép hiển thị hoặc sửa đổi dễ dàng.
+*Lưu ý:* Phương thức `toGraphicsPath` dịch các đường dẫn nội bộ của TIFF thành định dạng mà Graphics của Java có thể hiểu, cho phép render hoặc chỉnh sửa dễ dàng.
 
-**3. Vẽ trên hình ảnh**
+**3. Vẽ lên ảnh**
 
-Tạo một cái mới `Graphics` đối tượng để vẽ trên hình ảnh của bạn:
+Tạo một đối tượng `Graphics` mới để vẽ lên ảnh:
 
 ```java
 Graphics graphics = new Graphics(image);
 graphics.drawPath(new Pen(Color.getRed(), 10), graphicsPath);
 image.save("YOUR_OUTPUT_DIRECTORY/BottleWithRedBorder.tif");
 ```
-*Giải thích:* Ở đây, chúng tôi đang vẽ đường viền màu đỏ dọc theo các đường dẫn được trích xuất từ TIFF. Bạn có thể tùy chỉnh bút và đường dẫn khi cần.
+*Giải thích:* Ở đây, chúng ta vẽ một đường viền màu đỏ dọc theo các đường đã trích xuất từ TIFF. Bạn có thể tùy chỉnh bút vẽ và đường dẫn theo nhu cầu.
 
 ### Tính năng 2: Tạo PathResources từ GraphicsPath
 
 #### Tổng quan
-Tạo các hình dạng vector tùy chỉnh trong `GraphicsPath` và đặt chúng làm tài nguyên đường dẫn trong khung đang hoạt động của hình ảnh TIFF.
+Tạo các hình vector tùy chỉnh trong một `GraphicsPath` và đặt chúng làm tài nguyên đường dẫn trong khung hoạt động của ảnh TIFF.
 
-##### Thực hiện từng bước
+##### Các bước thực hiện
 
-**1. Tải hình ảnh TIFF**
+**1. Tải ảnh TIFF**
 
 ```java
 try (TiffImage image = (TiffImage) Image.load("YOUR_DOCUMENT_DIRECTORY/Bottle.tif")) {
-    // Bắt đầu tạo đường dẫn tùy chỉnh
+    // Start creating custom paths
 }
 ```
 
-**2. Tạo GraphicsPath tùy chỉnh**
+**2. Tạo một GraphicsPath tùy chỉnh**
 
-Sử dụng hình dạng để xác định đường dẫn của bạn:
+Sử dụng các hình dạng để định nghĩa đường dẫn của bạn:
 
 ```java
 Figure figure = new Figure();
@@ -145,11 +162,11 @@ GraphicsPath graphicsPath = new GraphicsPath();
 graphicsPath.addFigure(figure);
 ```
 
-*Giải thích:* Các `createBezierShape` phương pháp tạo ra đường cong Bezier từ các tọa độ được chỉ định. Bạn có thể điều chỉnh chúng để phù hợp với nhu cầu thiết kế của mình.
+*Giải thích:* Phương thức `createBezierShape` tạo một đường cong Bezier từ các tọa độ được chỉ định. Bạn có thể điều chỉnh chúng để phù hợp với nhu cầu thiết kế.
 
-**3. Chuyển đổi và thiết lập PathResources**
+**3. Chuyển đổi và đặt PathResources**
 
-Chuyển đổi đường dẫn tùy chỉnh trở lại thành tài nguyên đường dẫn cho hình ảnh TIFF:
+Chuyển đổi đường dẫn tùy chỉnh trở lại thành tài nguyên đường dẫn cho ảnh TIFF:
 
 ```java
 PathResource[] pathResources = PathResourceConverter.fromGraphicsPath(
@@ -159,11 +176,11 @@ image.getActiveFrame().setPathResources(Arrays.asList(pathResources));
 image.save("YOUR_OUTPUT_DIRECTORY/BottleWithRectanglePath.tif");
 ```
 
-*Giải thích:* Bước này đảm bảo các đường dẫn tùy chỉnh của bạn được lưu lại ở định dạng TIFF, biến chúng thành một phần dữ liệu của tệp.
+*Giải thích:* Bước này đảm bảo các đường tùy chỉnh của bạn được lưu lại trong định dạng TIFF, trở thành một phần của dữ liệu tệp.
 
-### Phương pháp trợ giúp: Tạo hình Bezier
+#### Phương thức trợ giúp: Tạo Bezier Shape
 
-Để tạo ra một `BezierShape`, sử dụng phương pháp trợ giúp này:
+Để tạo một `BezierShape`, sử dụng phương thức trợ giúp sau:
 
 ```java
 private static BezierShape createBezierShape(float ... coordinates) {
@@ -180,55 +197,68 @@ private static BezierShape createBezierShape(float ... coordinates) {
 }
 ```
 
-## Ứng dụng thực tế
+## Ứng dụng thực tiễn
 
-Sau đây là một số tình huống mà các kỹ thuật này phát huy tác dụng:
+Dưới đây là một vài kịch bản mà các kỹ thuật này tỏa sáng:
 
-1. **Thiết kế đồ họa:** Nâng cao tác phẩm nghệ thuật kỹ thuật số bằng cách chỉnh sửa đường dẫn vector trong tệp TIFF.
-2. **Ngành in ấn:** Đảm bảo dữ liệu đường dẫn chính xác để có bản in chất lượng cao.
-3. **Mô hình kiến trúc:** Quản lý bản vẽ tòa nhà phức tạp trong các dự án kỹ thuật.
+1. **Thiết kế đồ họa:** Nâng cao tác phẩm kỹ thuật số bằng cách chỉnh sửa các đường vector trong tệp TIFF.
+2. **Ngành in ấn:** Đảm bảo dữ liệu đường dẫn chính xác cho các bản in chất lượng cao.
+3. **Mô hình kiến trúc:** Quản lý các đường viền phức tạp của công trình trong các dự án kỹ thuật.
 
-Những khả năng này cho phép tích hợp liền mạch với phần mềm thiết kế đồ họa hoặc công cụ CAD, mở rộng khả năng cho dự án của bạn.
+Những khả năng này cho phép tích hợp liền mạch với phần mềm thiết kế đồ họa hoặc công cụ CAD, mở rộng tiềm năng dự án của bạn.
 
-## Cân nhắc về hiệu suất
+## Lưu ý về hiệu năng
 
-Để có hiệu suất tối ưu:
-- **Quản lý bộ nhớ:** Quản lý bộ nhớ hiệu quả bằng cách xử lý tài nguyên kịp thời bằng các khối thử-với-tài-nguyên.
-- **Tối ưu hóa dữ liệu đường dẫn:** Đơn giản hóa dữ liệu đường dẫn khi có thể để giảm chi phí xử lý.
+Để đạt hiệu năng tối ưu:
 
-Việc thực hiện các hướng dẫn này sẽ giúp duy trì hoạt động trơn tru và ngăn ngừa tình trạng rò rỉ hoặc tắc nghẽn tài nguyên tiềm ẩn.
+- **Quản lý bộ nhớ:** Sử dụng khối try‑with‑resources (như trong ví dụ) để tự động giải phóng các đối tượng ảnh.
+- **Đơn giản hoá dữ liệu đường dẫn:** Loại bỏ các điểm hoặc đường cong không cần thiết để giảm tải xử lý.
 
-## Phần kết luận
+Tuân thủ các hướng dẫn này giúp duy trì hoạt động mượt mà và ngăn ngừa rò rỉ bộ nhớ hoặc tắc nghẽn.
 
-Bây giờ bạn đã thành thạo cách chuyển đổi tài nguyên đường dẫn trong hình ảnh TIFF thành `GraphicsPath` đối tượng với Aspose.Imaging cho Java và ngược lại. Kiến thức này mở ra những hướng đi mới để xử lý các tác vụ đồ họa vector phức tạp một cách hiệu quả. Để nâng cao kỹ năng của bạn, hãy khám phá các tính năng bổ sung của thư viện và cân nhắc tích hợp các kỹ thuật này vào các dự án lớn hơn.
+## Các vấn đề thường gặp và giải pháp
 
-## Phần Câu hỏi thường gặp
+| Vấn đề | Nguyên nhân | Giải pháp |
+|-------|-------------|----------|
+| **NullPointerException khi chuyển đổi** | Khung ảnh không có tài nguyên đường dẫn | Kiểm tra lại TIFF có thực sự chứa các đường vector trước khi chuyển đổi. |
+| **Giấy phép không được áp dụng** | Đường dẫn file giấy phép không đúng | Sử dụng đường dẫn tuyệt đối hoặc đặt file giấy phép trong classpath. |
+| **Màu sắc sai hoặc thiếu viền** | Độ rộng bút quá nhỏ đối với ảnh độ phân giải cao | Tăng độ rộng `Pen` tỷ lệ với DPI của ảnh. |
 
-**Câu hỏi 1: GraphicsPath trong Java là gì?**
-A: Một `GraphicsPath` biểu thị một loạt các đường thẳng và đường cong được kết nối, hữu ích khi vẽ các hình dạng phức tạp.
+## Câu hỏi thường gặp
 
-**Câu hỏi 2: Tôi quản lý cấp phép với Aspose.Imaging như thế nào?**
-A: Bắt đầu bằng bản dùng thử miễn phí hoặc yêu cầu giấy phép tạm thời để đánh giá các tính năng trước khi mua.
+**Q1: GraphicsPath trong Java là gì?**  
+A: `GraphicsPath` đại diện cho một chuỗi các đường thẳng và đường cong nối tiếp, hữu ích cho việc vẽ các hình dạng phức tạp.
 
-**Câu hỏi 3: Tôi có thể sử dụng Aspose.Imaging trong các dự án thương mại không?**
-A: Có, nhưng bạn sẽ cần phải có giấy phép phù hợp để có toàn quyền sử dụng.
+**Q2: Làm sao quản lý giấy phép với Aspose.Imaging?**  
+A: Bắt đầu với bản dùng thử, sau đó áp dụng file giấy phép vĩnh viễn thông qua lớp `License` như đã minh họa ở trên.
 
-**Câu hỏi 4: Những vấn đề thường gặp khi chuyển đổi đường dẫn là gì?**
-A: Đảm bảo rằng tệp TIFF của bạn không bị hỏng và đường dẫn được xác định chính xác trong dữ liệu hình ảnh.
+**Q3: Tôi có thể dùng Aspose.Imaging trong dự án thương mại không?**  
+A: Có, với điều kiện bạn sở hữu giấy phép thương mại hợp lệ.
 
-**Câu hỏi 5: Làm thế nào để tối ưu hóa hiệu suất với các tệp TIFF lớn?**
-A: Sử dụng các biện pháp quản lý bộ nhớ hiệu quả, chẳng hạn như xử lý tài nguyên kịp thời và đơn giản hóa dữ liệu đường dẫn khi có thể.
+**Q4: Những vấn đề thường gặp khi chuyển đổi đường dẫn là gì?**  
+A: Các tệp TIFF bị hỏng hoặc thiếu tài nguyên đường dẫn có thể gây lỗi chuyển đổi. Luôn xác thực tệp nguồn trước khi xử lý.
 
-## Tài nguyên
+**Q5: Làm sao cải thiện hiệu năng khi làm việc với tệp TIFF lớn?**  
+A: Chỉ tải khung cần thiết, giải phóng đối tượng kịp thời và đơn giản hoá hình học đường dẫn khi có thể.
 
-- **Tài liệu:** [Tài liệu tham khảo Java Aspose.Imaging](https://reference.aspose.com/imaging/java/)
-- **Tải xuống:** [Bản phát hành Aspose.Imaging cho Java](https://releases.aspose.com/imaging/java/)
-- **Mua:** [Mua giấy phép Aspose.Imaging](https://purchase.aspose.com/buy)
-- **Dùng thử miễn phí:** [Hãy thử Aspose.Imaging](https://releases.aspose.com/imaging/java/)
-- **Giấy phép tạm thời:** [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn hình ảnh Aspose](https://forum.aspose.com/c/imaging/10)
+## Kết luận
 
-Với hướng dẫn toàn diện này, bạn sẽ được trang bị đầy đủ để xử lý các tác vụ hình ảnh nâng cao trong Java bằng Aspose.Imaging. Chúc bạn viết mã vui vẻ!
+Bạn đã nắm vững cách chuyển đổi tài nguyên đường dẫn trong TIFF thành các đối tượng `GraphicsPath` bằng Aspose.Imaging cho Java — và ngược lại. Những kỹ thuật này mở ra cánh cửa cho việc thao tác đồ họa vector nâng cao trong tệp TIFF, giúp bạn xây dựng các giải pháp hình ảnh phong phú hơn.
+
+---
+
+**Cập nhật lần cuối:** 2025-12-11  
+**Được kiểm tra với:** Aspose.Imaging 25.5 cho Java  
+**Tác giả:** Aspose  
+
+**Tài nguyên**
+
+- **Tài liệu:** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
+- **Tải về:** [Aspose.Imaging for Java Releases](https://releases.aspose.com/imaging/java/)
+- **Mua bản quyền:** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
+- **Bản dùng thử:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
+- **Giấy phép tạm thời:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
+- **Diễn đàn hỗ trợ:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
