@@ -9,7 +9,7 @@ keywords:
 - Java APNG creation
 - load save APNG in Java
 - animation & multi-frame images
-title: 'aspose imaging maven függőség: Animált PNG-k létrehozása Java-ban'
+title: 'aspose imaging maven függőség - Animált PNG-k létrehozása Java-ban'
 url: /hu/java/animation-multi-frame-images/aspose-imaging-java-animated-png-guide/
 weight: 1
 ---

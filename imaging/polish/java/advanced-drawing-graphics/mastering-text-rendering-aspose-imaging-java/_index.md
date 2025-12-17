@@ -40,7 +40,7 @@ Teraz przejdźmy do wymagań wstępnych, zanim zaczniemy!
 - **Czy potrzebna jest licencja?** Darmowa wersja próbna wystarczy do oceny; pełna licencja jest wymagana w środowisku produkcyjnym.  
 - **Czy to nadaje się do dynamicznego generowania obrazów?** Absolutnie – możesz generować obrazy w locie z własnym tekstem.
 
-## Prerequisites (H2)
+## Prerequisites
 
 Zanim rozpoczniesz implementację **tekstu z czcionkami**, upewnij się, że masz:
 
@@ -48,7 +48,7 @@ Zanim rozpoczniesz implementację **tekstu z czcionkami**, upewnij się, że mas
 - **Środowisko:** Zainstalowany Java Development Kit (JDK).  
 - **Wiedza wstępna:** Podstawowa znajomość programowania w Javie oraz pojęć przetwarzania obrazu.
 
-## Setting Up Aspose.Imaging for Java (H2)
+## Setting Up Aspose.Imaging for Java
 
 Aby rozpocząć korzystanie z Aspose.Imaging dla Javy, zintegrować bibliotekę z projektem.
 
@@ -84,7 +84,7 @@ Po skonfigurowaniu biblioteki możesz zainicjować ją w aplikacji Java i rozpoc
 
 W tej sekcji przeprowadzimy Cię przez dwie główne funkcje: rysowanie **styled text Java** różnymi czcionkami oraz tworzenie obiektu graficznego do nagrywania EMF.
 
-### Funkcja 1: Rysowanie tekstu różnymi czcionkami (H2)
+### Funkcja 1: Rysowanie tekstu różnymi czcionkami
 
 #### Overview
 Ta funkcja umożliwia renderowanie **tekstu z czcionkami** przy użyciu pogrubienia, kursywy, podkreślenia i przekreślenia – idealna do **dynamic image generation**.
@@ -136,7 +136,7 @@ try {
 
 Tworzy to wektorowy plik EMF, który zachowuje ostrość tekstu przy dowolnej skali.
 
-### Funkcja 2: Tworzenie obiektu Graphics do nagrywania EMF (H2)
+### Funkcja 2: Tworzenie obiektu Graphics do nagrywania EMF
 
 #### Overview
 Poprawnie zainicjalizowany obiekt graficzny jest podstawą każdej operacji rysowania, szczególnie gdy planujesz **zapisz plik EMF**.
@@ -166,7 +166,7 @@ try {
 
 Teraz masz gotową powierzchnię graficzną do dalszych operacji **tekstu z czcionkami**.
 
-## Practical Applications (H2)
+## Practical Applications
 
 Oto kilka rzeczywistych scenariuszy, w których **tekst z czcionkami** błyszczy:
 
@@ -176,7 +176,7 @@ Oto kilka rzeczywistych scenariuszy, w których **tekst z czcionkami** błyszczy
 
 Te przykłady pokazują, jak **dynamic image generation** i **styled text Java** mogą podnieść jakość wizualną Twoich aplikacji.
 
-## Performance Considerations (H2)
+## Performance Considerations
 
 Aby aplikacja działała płynnie:
 
@@ -190,7 +190,7 @@ W tym samouczku nauczyłeś się, jak renderować **tekst z czcionkami** w Javie
 
 **Kolejne kroki:** Poznaj dodatkowe funkcje Aspose.Imaging, takie jak filtry obrazu, znakowanie wodne i konwersja formatów, aby jeszcze bardziej wzbogacić swoje rozwiązania.
 
-## FAQ Section (H2)
+## FAQ Section
 
 1. **Jak rozpocząć pracę z Aspose.Imaging dla Javy?**  
    Pobierz bibliotekę przez Maven, Gradle lub bezpośrednio z [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).

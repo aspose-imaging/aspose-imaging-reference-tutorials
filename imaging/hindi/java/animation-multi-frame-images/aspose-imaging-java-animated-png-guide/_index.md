@@ -9,7 +9,7 @@ keywords:
 - Java APNG creation
 - load save APNG in Java
 - animation & multi-frame images
-title: 'aspose इमेजिंग maven निर्भरता: जावा में एनीमेटेड PNG बनाएं'
+title: 'aspose इमेजिंग maven निर्भरता - जावा में एनीमेटेड PNG बनाएं'
 url: /hi/java/animation-multi-frame-images/aspose-imaging-java-animated-png-guide/
 weight: 1
 ---

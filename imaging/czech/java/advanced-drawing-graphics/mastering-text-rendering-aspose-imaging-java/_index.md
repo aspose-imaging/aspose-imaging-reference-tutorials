@@ -39,7 +39,7 @@ Nyní si projděme předpoklady, než začneme!
 - **Potřebuji licenci?** Pro hodnocení stačí bezplatná zkušební verze; pro produkční nasazení je vyžadována plná licence.  
 - **Je to vhodné pro dynamické generování obrázků?** Rozhodně – můžete generovat obrázky za běhu s vlastním textem.
 
-## Předpoklady (H2)
+## Předpoklady
 
 Než začnete implementovat **text s fonty**, ujistěte se, že máte:
 
@@ -47,7 +47,7 @@ Než začnete implementovat **text s fonty**, ujistěte se, že máte:
 - **Nastavení prostředí:** Nainstalovaný Java Development Kit (JDK).  
 - **Základní znalosti:** Základy programování v Javě a povědomí o konceptu zpracování obrazu.
 
-## Nastavení Aspose.Imaging pro Java (H2)
+## Nastavení Aspose.Imaging pro Java
 
 Pro zahájení používání Aspose.Imaging pro Java integrujte knihovnu do svého projektu.
 
@@ -83,7 +83,7 @@ Jakmile je knihovna nastavena, můžete ji inicializovat ve své Java aplikaci a
 
 V této sekci projdeme dvě hlavní funkce: kreslení **styled text Java** s různými fonty a vytvoření grafického objektu pro záznam EMF.
 
-### Funkce 1: Kreslení textu s různými fonty (H2)
+### Funkce 1: Kreslení textu s různými fonty
 
 #### Přehled
 Tato funkce umožňuje vykreslit **text s fonty** s tučným, kurzívou, podtržením a přeškrtnutím – ideální pro **dynamic image generation**.
@@ -135,7 +135,7 @@ try {
 
 Tím vznikne vektorový soubor EMF, který zachová ostrý text při libovolném měřítku.
 
-### Funkce 2: Vytvoření grafického objektu pro záznam EMF (H2)
+### Funkce 2: Vytvoření grafického objektu pro záznam EMF
 
 #### Přehled
 Správně inicializovaný grafický objekt je základem pro jakoukoli kreslicí operaci, zejména pokud plánujete **uložit EMF soubor**.
@@ -165,7 +165,7 @@ try {
 
 Nyní máte připravený grafický povrch pro další operace **text s fonty**.
 
-## Praktické aplikace (H2)
+## Praktické aplikace
 
 Zde jsou některé reálné scénáře, kde **text s fonty** vyniká:
 
@@ -175,7 +175,7 @@ Zde jsou některé reálné scénáře, kde **text s fonty** vyniká:
 
 Tyto příklady ukazují, jak **dynamic image generation** a **styled text Java** mohou zvýšit vizuální kvalitu vašich aplikací.
 
-## Úvahy o výkonu (H2)
+## Úvahy o výkonu
 
 Aby vaše aplikace zůstala rychlá:
 
@@ -189,7 +189,7 @@ V tomto tutoriálu jste se naučili, jak v Javě pomocí Aspose.Imaging vykreslo
 
 **Další kroky:** Prozkoumejte další funkce Aspose.Imaging, jako jsou filtry obrázků, vodoznaky a konverze formátů, abyste ještě více rozšířili svá řešení.
 
-## Často kladené otázky (FAQ) (H2)
+## Často kladené otázky (FAQ)
 
 1. **Jak začít s Aspose.Imaging pro Java?**  
    Stáhněte knihovnu přes Maven, Gradle nebo přímo z [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).

@@ -40,7 +40,7 @@ Most nézzük meg a szükséges előfeltételeket, mielőtt elkezdenénk!
 - **Szükség van licencre?** Egy ingyenes próba verzió elegendő az értékeléshez; a teljes licenc a termeléshez kötelező.  
 - **Alkalmas ez dinamikus kép generálásra?** Teljesen – a saját szöveggel „repülő” képeket hozhat létre.
 
-## Előkövetelmények (H2)
+## Előkövetelmények
 
 Mielőtt elkezdené a **szöveg betűtípusokkal** megvalósítását, győződjön meg róla, hogy rendelkezik a következőkkel:
 
@@ -48,7 +48,7 @@ Mielőtt elkezdené a **szöveg betűtípusokkal** megvalósítását, győződj
 - **Környezet beállítása:** Telepített Java Development Kit (JDK) a gépén.  
 - **Ismeretek:** Alapvető Java programozás és képfeldolgozási koncepciók ismerete.
 
-## Az Aspose.Imaging beállítása Java-hoz (H2)
+## Az Aspose.Imaging beállítása Java-hoz
 
 Az Aspose.Imaging for Java használatának megkezdéséhez integrálja a könyvtárat a projektjébe.
 
@@ -84,7 +84,7 @@ Miután a könyvtár be van állítva, inicializálhatja Java‑alkalmazásában
 
 Ebben a részben két fő funkciót mutatunk be: a **styled text Java** rajzolását különböző betűtípusokkal, valamint egy grafikus objektum létrehozását EMF felvételhez.
 
-### 1. funkció: Szöveg rajzolása különböző betűtípusokkal (H2)
+### 1. funkció: Szöveg rajzolása különböző betűtípusokkal
 
 #### Áttekintés
 Ez a funkció lehetővé teszi a **szöveg betűtípusokkal** megjelenítését félkövér, dőlt, aláhúzott és áthúzott stílusokkal – tökéletes a **dynamic image generation** számára.
@@ -136,7 +136,7 @@ try {
 
 Ez egy EMF vektor fájlt hoz létre, amely bármilyen méretnél éles szöveget biztosít.
 
-### 2. funkció: Grafikus objektum létrehozása EMF felvételhez (H2)
+### 2. funkció: Grafikus objektum létrehozása EMF felvételhez
 
 #### Áttekintés
 A megfelelően inicializált grafikus objektum minden rajzolási művelet alapja, különösen akkor, ha **EMF fájl mentésére** készül.
@@ -166,7 +166,7 @@ try {
 
 Most már rendelkezik egy készen álló grafikus felülettel a további **szöveg betűtípusokkal** műveletekhez.
 
-## Gyakorlati alkalmazások (H2)
+## Gyakorlati alkalmazások
 
 Íme néhány valós példaforgató, ahol a **szöveg betűtípusokkal** ragyog:
 
@@ -176,7 +176,7 @@ Most már rendelkezik egy készen álló grafikus felülettel a további **szöv
 
 Ezek a példák azt mutatják, hogyan növelheti a **dynamic image generation** és a **styled text Java** a projektjei vizuális minőségét.
 
-## Teljesítményfontosságú szempontok (H2)
+## Teljesítményfontosságú szempontok
 
 Az alkalmazás gyorsaságának megőrzéséhez:
 
@@ -190,7 +190,7 @@ Ebben a tutorialban megtanulta, hogyan rendereljen **szöveget betűtípusokkal*
 
 **Következő lépések:** Fedezze fel az Aspose.Imaging további funkcióit, mint a képszűrők, vízjelezés és formátumkonverzió, hogy tovább fokozza megoldásait.
 
-## Gyakran Ismételt Kérdések (H2)
+## Gyakran Ismételt Kérdések
 
 1. **Hogyan kezdjek hozzá az Aspose.Imaging for Java‑hoz?**  
    Töltse le a könyvtárat Maven‑nel, Gradle‑lel, vagy közvetlenül a [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) oldalról.

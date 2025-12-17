@@ -8,7 +8,7 @@ keywords:
 - Java APNG creation
 - load save APNG in Java
 - animation & multi-frame images
-title: 'اعتماد مافن Aspose Imaging: إنشاء صور PNG متحركة في جافا'
+title: 'اعتماد مافن Aspose Imaging - إنشاء صور PNG متحركة في جافا'
 url: /ar/java/animation-multi-frame-images/aspose-imaging-java-animated-png-guide/
 weight: 1
 ---

@@ -9,7 +9,7 @@ keywords:
 - Java APNG creation
 - load save APNG in Java
 - animation & multi-frame images
-title: 'dipendenza Maven di Aspose Imaging: creare PNG animati in Java'
+title: 'dipendenza Maven di Aspose Imaging - creare PNG animati in Java'
 url: /it/java/animation-multi-frame-images/aspose-imaging-java-animated-png-guide/
 weight: 1
 ---

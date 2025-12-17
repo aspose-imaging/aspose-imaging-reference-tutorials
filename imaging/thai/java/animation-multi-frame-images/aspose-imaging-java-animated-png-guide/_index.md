@@ -9,7 +9,7 @@ keywords:
 - Java APNG creation
 - load save APNG in Java
 - animation & multi-frame images
-title: 'การพึ่งพา Maven ของ Aspose Imaging: สร้าง PNG เคลื่อนไหวใน Java'
+title: 'การพึ่งพา Maven ของ Aspose Imaging - สร้าง PNG เคลื่อนไหวใน Java'
 url: /th/java/animation-multi-frame-images/aspose-imaging-java-animated-png-guide/
 weight: 1
 ---

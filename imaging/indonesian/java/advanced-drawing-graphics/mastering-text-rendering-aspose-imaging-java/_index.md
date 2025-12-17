@@ -39,7 +39,7 @@ Sekarang, mari kita tinjau prasyarat sebelum memulai!
 - **Apakah saya memerlukan lisensi?** Versi percobaan gratis dapat digunakan untuk evaluasi; lisensi penuh diperlukan untuk produksi.  
 - **Apakah ini cocok untuk pembuatan gambar dinamis?** Tentu – Anda dapat menghasilkan gambar secara langsung dengan teks khusus.
 
-## Prasyarat (H2)
+## Prasyarat
 
 Sebelum Anda mulai mengimplementasikan **teks dengan font**, pastikan Anda memiliki:
 
@@ -47,7 +47,7 @@ Sebelum Anda mulai mengimplementasikan **teks dengan font**, pastikan Anda memil
 - **Pengaturan Lingkungan:** Java Development Kit (JDK) terpasang di mesin Anda.  
 - **Prasyarat Pengetahuan:** Pemrograman Java dasar dan pemahaman konsep pemrosesan gambar.
 
-## Menyiapkan Aspose.Imaging untuk Java (H2)
+## Menyiapkan Aspose.Imaging untuk Java
 
 Untuk mulai menggunakan Aspose.Imaging untuk Java, integrasikan pustaka ke dalam proyek Anda.
 
@@ -83,7 +83,7 @@ Setelah pustaka terpasang, Anda dapat menginisialisasinya dalam aplikasi Java da
 
 Di bagian ini kami akan membahas dua fitur utama: menggambar **styled text Java** dengan berbagai font, dan membuat objek grafis untuk perekaman EMF.
 
-### Fitur 1: Menggambar Teks dengan Berbagai Font (H2)
+### Fitur 1: Menggambar Teks dengan Berbagai Font
 
 #### Ikhtisar
 Fitur ini memungkinkan Anda merender **teks dengan font** menggunakan gaya tebal, miring, garis bawah, dan coret—sempurna untuk **dynamic image generation**.
@@ -135,7 +135,7 @@ try {
 
 Ini menghasilkan file vektor EMF yang mempertahankan teks tajam pada skala apa pun.
 
-### Fitur 2: Membuat Objek Graphics untuk Perekaman EMF (H2)
+### Fitur 2: Membuat Objek Graphics untuk Perekaman EMF
 
 #### Ikhtisar
 Objek graphics yang diinisialisasi dengan benar adalah dasar bagi setiap operasi menggambar, terutama ketika Anda berencana **menyimpan file EMF**.
@@ -165,7 +165,7 @@ try {
 
 Sekarang Anda memiliki permukaan graphics siap pakai untuk operasi **teks dengan font** selanjutnya.
 
-## Aplikasi Praktis (H2)
+## Aplikasi Praktis
 
 Berikut beberapa skenario dunia nyata di mana **teks dengan font** bersinar:
 
@@ -175,7 +175,7 @@ Berikut beberapa skenario dunia nyata di mana **teks dengan font** bersinar:
 
 Contoh-contoh ini menunjukkan bagaimana **dynamic image generation** dan **styled text Java** dapat meningkatkan kualitas visual aplikasi Anda.
 
-## Pertimbangan Kinerja (H2)
+## Pertimbangan Kinerja
 
 Agar aplikasi Anda tetap responsif:
 
@@ -189,7 +189,7 @@ Dalam tutorial ini Anda telah belajar cara merender **teks dengan font** di Java
 
 **Langkah Selanjutnya:** Jelajahi fitur Aspose.Imaging tambahan seperti filter gambar, watermark, dan konversi format untuk lebih meningkatkan solusi Anda.
 
-## Bagian FAQ (H2)
+## Bagian FAQ
 
 1. **Bagaimana cara memulai dengan Aspose.Imaging untuk Java?**  
    Unduh pustaka melalui Maven, Gradle, atau langsung dari [Rilis Aspose.Imaging untuk Java](https://releases.aspose.com/imaging/java/).

@@ -40,7 +40,7 @@ Maintenant, parcourons les prérequis avant de commencer !
 - **Ai‑je besoin d’une licence ?** Un essai gratuit suffit pour l'évaluation ; une licence complète est requise pour la production.  
 - **Ce procédé convient‑il à la génération d'images dynamiques ?** Absolument – vous pouvez générer des images à la volée avec du texte personnalisé.
 
-## Prérequis (H2)
+## Prérequis
 
 Avant de commencer à implémenter le **texte avec polices**, assurez-vous d'avoir :
 
@@ -48,7 +48,7 @@ Avant de commencer à implémenter le **texte avec polices**, assurez-vous d'avo
 - **Configuration de l'environnement :** Un Java Development Kit (JDK) installé sur votre machine.  
 - **Prérequis de connaissances :** Programmation Java de base et familiarité avec les concepts de traitement d'images.
 
-## Configuration d'Aspose.Imaging pour Java (H2)
+## Configuration d'Aspose.Imaging pour Java
 
 Pour commencer à utiliser Aspose.Imaging pour Java, intégrez la bibliothèque dans votre projet.
 
@@ -84,7 +84,7 @@ Une fois la bibliothèque configurée, vous pouvez l'initialiser dans votre appl
 
 Dans cette section, nous parcourrons deux fonctionnalités principales : dessiner du **texte stylisé Java** avec différentes polices, et créer un objet graphique pour l'enregistrement EMF.
 
-### Fonctionnalité 1 : Dessiner du texte avec différentes polices (H2)
+### Fonctionnalité 1 : Dessiner du texte avec différentes polices
 
 #### Vue d'ensemble
 Cette fonctionnalité vous permet de rendre du **texte avec polices** en utilisant les styles gras, italique, souligné et barré — parfait pour la **génération d'images dynamiques**.
@@ -136,7 +136,7 @@ try {
 
 Cela crée un fichier vectoriel EMF qui conserve un texte net à n'importe quelle échelle.
 
-### Fonctionnalité 2 : Créer un objet Graphics pour l'enregistrement EMF (H2)
+### Fonctionnalité 2 : Créer un objet Graphics pour l'enregistrement EMF
 
 #### Vue d'ensemble
 Un objet graphics correctement initialisé est la base de toute opération de dessin, surtout lorsque vous prévoyez de **enregistrer le fichier EMF**.
@@ -166,7 +166,7 @@ try {
 
 Vous avez maintenant une surface graphique prête à l'emploi pour toute opération supplémentaire de **texte avec polices**.
 
-## Applications pratiques (H2)
+## Applications pratiques
 
 Voici quelques scénarios réels où le **texte avec polices** brille :
 
@@ -176,7 +176,7 @@ Voici quelques scénarios réels où le **texte avec polices** brille :
 
 Ces exemples illustrent comment la **génération d'images dynamiques** et le **texte stylisé Java** peuvent améliorer la qualité visuelle de vos applications.
 
-## Considérations de performance (H2)
+## Considérations de performance
 
 Pour que votre application reste réactive :
 
@@ -190,7 +190,7 @@ Dans ce tutoriel, vous avez appris comment rendre du **texte avec polices** en J
 
 **Prochaines étapes :** Explorez d'autres fonctionnalités d'Aspose.Imaging telles que les filtres d'image, le filigrane et la conversion de formats pour améliorer davantage vos solutions.
 
-## Section FAQ (H2)
+## Section FAQ
 
 1. **Comment démarrer avec Aspose.Imaging pour Java ?**  
    Téléchargez la bibliothèque via Maven, Gradle, ou directement depuis les [releases Aspose.Imaging pour Java](https://releases.aspose.com/imaging/java/).

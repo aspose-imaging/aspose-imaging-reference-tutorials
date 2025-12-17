@@ -1,5 +1,5 @@
 ---
-title: "aspose imaging maven dependency: Create Animated PNGs in Java"
+title: "Aspose Imaging Maven dependency - Create Animated PNGs in Java"
 description: "Learn how to add the aspose imaging maven dependency and create animated PNGs in Java. Follow this step‑by‑step guide to convert tiff to apng and save image as apng."
 date: "2025-12-17"
 weight: 1

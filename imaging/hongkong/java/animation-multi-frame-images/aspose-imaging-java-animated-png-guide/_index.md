@@ -8,7 +8,7 @@ keywords:
 - Java APNG creation
 - load save APNG in Java
 - animation & multi-frame images
-title: aspose imaging Maven 依賴：在 Java 中建立動畫 PNG
+title: aspose imaging Maven 依賴 - 在 Java 中建立動畫 PNG
 url: /zh-hant/java/animation-multi-frame-images/aspose-imaging-java-animated-png-guide/
 weight: 1
 ---

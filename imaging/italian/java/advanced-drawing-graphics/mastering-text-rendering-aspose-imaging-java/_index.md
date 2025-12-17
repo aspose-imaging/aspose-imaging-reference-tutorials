@@ -40,7 +40,7 @@ Ora, esaminiamo i prerequisiti prima di iniziare!
 - **Ho bisogno di una licenza?** Una prova gratuita è sufficiente per la valutazione; è necessaria una licenza completa per la produzione.  
 - **È adatto per la generazione dinamica di immagini?** Assolutamente – puoi generare immagini al volo con testo personalizzato.
 
-## Prerequisiti (H2)
+## Prerequisiti
 
 Prima di iniziare a implementare **text with fonts**, assicurati di avere:
 
@@ -48,7 +48,7 @@ Prima di iniziare a implementare **text with fonts**, assicurati di avere:
 - **Configurazione dell'ambiente:** Un Java Development Kit (JDK) installato sulla tua macchina.  
 - **Prerequisiti di conoscenza:** Programmazione Java di base e familiarità con i concetti di elaborazione delle immagini.
 
-## Configurare Aspose.Imaging per Java (H2)
+## Configurare Aspose.Imaging per Java
 
 Per iniziare a usare Aspose.Imaging per Java, integra la libreria nel tuo progetto.
 
@@ -84,7 +84,7 @@ Una volta configurata la libreria, puoi inizializzarla nella tua applicazione Ja
 
 In questa sezione esamineremo due funzionalità principali: disegnare **styled text Java** con font diversi e creare un oggetto grafico per la registrazione EMF.
 
-### Funzione 1: Disegnare testo con font diversi (H2)
+### Funzione 1: Disegnare testo con font diversi
 
 #### Panoramica
 Questa funzionalità ti consente di rendere **text with fonts** usando stili grassetto, corsivo, sottolineato e barrato—perfetta per **dynamic image generation**.
@@ -136,7 +136,7 @@ try {
 
 Questo crea un file vettoriale EMF che mantiene il testo nitido a qualsiasi scala.
 
-### Funzione 2: Creare un oggetto Graphics per la registrazione EMF (H2)
+### Funzione 2: Creare un oggetto Graphics per la registrazione EMF
 
 #### Panoramica
 Un oggetto graphics correttamente inizializzato è la base per qualsiasi operazione di disegno, specialmente quando prevedi di **save EMF file**.
@@ -166,7 +166,7 @@ try {
 
 Ora hai una superficie graphics pronta all'uso per ulteriori operazioni di **text with fonts**.
 
-## Applicazioni pratiche (H2)
+## Applicazioni pratiche
 
 Ecco alcuni scenari reali in cui **text with fonts** brilla:
 
@@ -176,7 +176,7 @@ Ecco alcuni scenari reali in cui **text with fonts** brilla:
 
 Questi esempi illustrano come **dynamic image generation** e **styled text Java** possano migliorare la qualità visiva delle tue applicazioni.
 
-## Considerazioni sulle prestazioni (H2)
+## Considerazioni sulle prestazioni
 
 Per mantenere la tua applicazione reattiva:
 
@@ -190,7 +190,7 @@ In questo tutorial hai imparato come rendere **text with fonts** in Java usando 
 
 **Passi successivi:** Esplora funzionalità aggiuntive di Aspose.Imaging come filtri immagine, watermarking e conversione di formato per migliorare ulteriormente le tue soluzioni.
 
-## Sezione FAQ (H2)
+## Sezione FAQ
 
 1. **Come posso iniziare con Aspose.Imaging per Java?**  
    Scarica la libreria via Maven, Gradle, o direttamente da [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).

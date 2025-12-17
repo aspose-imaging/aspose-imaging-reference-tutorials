@@ -38,7 +38,7 @@ weight: 1
 - **是否需要许可证？** 免费试用可用于评估；生产环境需购买正式许可证。  
 - **这适用于动态图像生成吗？** 完全适合 – 您可以即时生成带有自定义文本的图像。
 
-## 先决条件 (H2)
+## 先决条件
 
 在开始实现 **text with fonts** 之前，请确保您具备以下条件：
 
@@ -46,7 +46,7 @@ weight: 1
 - **环境配置：** 已在机器上安装 Java Development Kit (JDK)。  
 - **知识前置：** 基础的 Java 编程经验以及对图像处理概念的了解。
 
-## 为 Java 设置 Aspose.Imaging (H2)
+## 为 Java 设置 Aspose.Imaging
 
 要开始使用 Aspose.Imaging for Java，请将库集成到您的项目中。
 
@@ -82,7 +82,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 
 本节将介绍两个核心功能：使用不同字体绘制 **styled text Java**，以及创建用于 EMF 记录的 graphics 对象。
 
-### 功能 1：使用不同字体绘制文本 (H2)
+### 功能 1：使用不同字体绘制文本
 
 #### 概述
 此功能可让您使用粗体、斜体、下划线和删除线等样式渲染 **text with fonts**，非常适合 **dynamic image generation**。
@@ -134,7 +134,7 @@ try {
 
 这样即可生成一个 EMF 矢量文件，保持文本在任何比例下都清晰锐利。
 
-### 功能 2：创建用于 EMF 记录的 Graphics 对象 (H2)
+### 功能 2：创建用于 EMF 记录的 Graphics 对象
 
 #### 概述
 正确初始化的 graphics 对象是所有绘图操作的基础，尤其是在计划 **save EMF file** 时。
@@ -164,7 +164,7 @@ try {
 
 现在，您拥有一个可随时用于进一步 **text with fonts** 操作的 graphics 表面。
 
-## 实际应用 (H2)
+## 实际应用
 
 以下是 **text with fonts** 发光的真实场景：
 
@@ -174,7 +174,7 @@ try {
 
 这些示例展示了 **dynamic image generation** 与 **styled text Java** 如何提升应用的视觉质量。
 
-## 性能考虑 (H2)
+## 性能考虑
 
 为保持应用流畅：
 
@@ -188,7 +188,7 @@ try {
 
 **后续步骤：** 探索 Aspose.Imaging 的其他功能，如图像滤镜、水印以及格式转换，以进一步增强您的解决方案。
 
-## 常见问题 (H2)
+## 常见问题
 
 1. **如何开始使用 Aspose.Imaging for Java？**  
    通过 Maven、Gradle 或直接从 [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) 下载库。
