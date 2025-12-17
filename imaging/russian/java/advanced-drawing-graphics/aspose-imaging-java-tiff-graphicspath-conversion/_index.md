@@ -243,12 +243,6 @@ private static BezierShape createBezierShape(float ... coordinates) {
 
 Теперь вы освоили, как конвертировать ресурсы путей TIFF в объекты `GraphicsPath` с помощью Aspose.Imaging для Java, а также как выполнить обратный процесс. Эти техники открывают двери к продвинутой работе с векторной графикой внутри TIFF‑файлов, позволяя создавать более богатые решения в области обработки изображений.
 
----
-
-**Last Updated:** 2025-12-11  
-**Tested With:** Aspose.Imaging 25.5 for Java  
-**Author:** Aspose  
-
 ## Ресурсы
 
 - **Документация:** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
@@ -257,6 +251,12 @@ private static BezierShape createBezierShape(float ... coordinates) {
 - **Бесплатная пробная версия:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
 - **Форум поддержки:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+
+---
+
+**Last Updated:** 2025-12-11  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

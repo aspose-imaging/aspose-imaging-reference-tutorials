@@ -245,12 +245,6 @@ A: Chỉ tải khung cần thiết, giải phóng đối tượng kịp thời v
 
 Bạn đã nắm vững cách chuyển đổi tài nguyên đường dẫn trong TIFF thành các đối tượng `GraphicsPath` bằng Aspose.Imaging cho Java — và ngược lại. Những kỹ thuật này mở ra cánh cửa cho việc thao tác đồ họa vector nâng cao trong tệp TIFF, giúp bạn xây dựng các giải pháp hình ảnh phong phú hơn.
 
----
-
-**Cập nhật lần cuối:** 2025-12-11  
-**Được kiểm tra với:** Aspose.Imaging 25.5 cho Java  
-**Tác giả:** Aspose  
-
 **Tài nguyên**
 
 - **Tài liệu:** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
@@ -259,6 +253,12 @@ Bạn đã nắm vững cách chuyển đổi tài nguyên đường dẫn trong
 - **Bản dùng thử:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
 - **Diễn đàn hỗ trợ:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+
+---
+
+**Cập nhật lần cuối:** 2025-12-11  
+**Được kiểm tra với:** Aspose.Imaging 25.5 cho Java  
+**Tác giả:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

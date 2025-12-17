@@ -236,12 +236,6 @@ A: Ładuj tylko wymaganą klatkę, niezwłocznie zwalniaj obiekty i upraszczaj g
 
 Teraz opanowałeś, jak przekonwertować zasoby ścieżek TIFF na obiekty `GraphicsPath` przy użyciu Aspose.Imaging dla Javy — oraz jak odwrócić ten proces. Te techniki otwierają drzwi do zaawansowanej manipulacji grafiką wektorową w plikach TIFF, umożliwiając tworzenie bogatszych rozwiązań obrazowych.
 
----
-
-**Last Updated:** 2025-12-11  
-**Tested With:** Aspose.Imaging 25.5 for Java  
-**Author:** Aspose  
-
 **Resources**
 
 - **Documentation:** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
@@ -250,6 +244,12 @@ Teraz opanowałeś, jak przekonwertować zasoby ścieżek TIFF na obiekty `Graph
 - **Free Trial:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
 - **Support Forum:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+
+---
+
+**Last Updated:** 2025-12-11  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

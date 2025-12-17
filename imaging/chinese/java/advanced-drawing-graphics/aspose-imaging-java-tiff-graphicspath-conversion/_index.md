@@ -243,12 +243,6 @@ A：仅加载所需帧，及时释放对象，并在可能的情况下简化路�
 
 现在，您已经掌握了使用 Aspose.Imaging for Java 将 TIFF 路径资源转换为 `GraphicsPath` 对象以及逆向转换的完整方法。这些技术为在 TIFF 文件内部进行高级矢量图形操作打开了大门，帮助您构建更丰富的图像解决方案。
 
----
-
-**最后更新：** 2025-12-11  
-**测试环境：** Aspose.Imaging 25.5 for Java  
-**作者：** Aspose  
-
 **资源**
 
 - **文档：** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
@@ -257,6 +251,12 @@ A：仅加载所需帧，及时释放对象，并在可能的情况下简化路�
 - **免费试用：** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **临时许可证：** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
 - **支持论坛：** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+
+---
+
+**最后更新：** 2025-12-11  
+**测试环境：** Aspose.Imaging 25.5 for Java  
+**作者：** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

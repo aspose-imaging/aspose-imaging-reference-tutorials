@@ -243,12 +243,6 @@ A: Laden Sie nur den benötigten Frame, entsorgen Sie Objekte umgehend und verei
 
 Sie haben nun gelernt, wie Sie TIFF‑Pfadressourcen in `GraphicsPath`‑Objekte mit Aspose.Imaging für Java konvertieren – und umgekehrt. Diese Techniken öffnen die Tür zu fortgeschrittener Vektorgrafik‑Manipulation innerhalb von TIFF‑Dateien und befähigen Sie, reichhaltigere Bildlösungen zu entwickeln.
 
----
-
-**Last Updated:** 2025-12-11  
-**Tested With:** Aspose.Imaging 25.5 for Java  
-**Author:** Aspose  
-
 ## Ressourcen
 
 - **Dokumentation:** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
@@ -257,6 +251,12 @@ Sie haben nun gelernt, wie Sie TIFF‑Pfadressourcen in `GraphicsPath`‑Objekte
 - **Kostenlose Testversion:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz anfordern:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
 - **Support-Forum:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+
+---
+
+**Last Updated:** 2025-12-11  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

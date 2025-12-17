@@ -245,20 +245,20 @@ A: Φορτώστε μόνο το απαραίτητο πλαίσιο, απελ�
 
 Τώρα έχετε κατακτήσει τη μετατροπή των path resources ενός TIFF σε αντικείμενα `GraphicsPath` με το Aspose.Imaging for Java—και το αντίστροφο. Αυτές οι τεχνικές ανοίγουν το δρόμο για προχωρημένη διαχείριση διανυσματικών γραφικών μέσα σε αρχεία TIFF, επιτρέποντάς σας να δημιουργήσετε πιο πλούσιες λύσεις απεικόνισης.
 
+**Πόροι**
+
+- **Απόδειξη με έγγραφα:** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
+- **Λήψη:** [Aspose.Imaging for Java Releases](https://releases.aspose.com/imaging/java/)
+- **Αγορά:** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
+- **Δωρεάν δοκιμή:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
+- **Προσωρινή Άδεια Χρήσης:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
+- **Φόρουμ Υποστήριξης:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+
 ---
 
 **Τελευταία Ενημέρωση:** 2025-12-11  
 **Δοκιμασμένο Με:** Aspose.Imaging 25.5 for Java  
 **Συγγραφέας:** Aspose  
-
-**Πόροι**
-
-- **Documentation:** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
-- **Download:** [Aspose.Imaging for Java Releases](https://releases.aspose.com/imaging/java/)
-- **Purchase:** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
-- **Free Trial:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
-- **Temporary License:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -236,12 +236,6 @@ C: Yalnızca gerekli çerçeveyi yükleyin, nesneleri hızlıca serbest bırakı
 
 Artık TIFF yol kaynaklarını Aspose.Imaging for Java ile `GraphicsPath` nesnelerine ve tersine dönüştürmeyi öğrendiniz. Bu teknikler, TIFF dosyaları içinde gelişmiş vektör‑grafik manipülasyonunun kapılarını açar ve daha zengin görüntüleme çözümleri oluşturmanızı sağlar.
 
----
-
-**Son Güncelleme:** 2025-12-11  
-**Test Edilen Sürüm:** Aspose.Imaging 25.5 for Java  
-**Yazar:** Aspose  
-
 **Kaynaklar**
 
 - **Dokümantasyon:** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
@@ -250,6 +244,12 @@ Artık TIFF yol kaynaklarını Aspose.Imaging for Java ile `GraphicsPath` nesnel
 - **Ücretsiz Deneme:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
 - **Destek Forum:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+
+---
+
+**Son Güncelleme:** 2025-12-11  
+**Test Edilen Sürüm:** Aspose.Imaging 25.5 for Java  
+**Yazar:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

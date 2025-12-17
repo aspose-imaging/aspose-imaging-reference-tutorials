@@ -239,10 +239,6 @@ V: Töltsön be csak a szükséges keretet, gyorsan szabadítsa fel az objektumo
 
 You've now mastered how to convert TIFF path resources into `GraphicsPath` objects with Aspose.Imaging for Java—and how to reverse the process. These techniques open the door to advanced vector‑graphics manipulation inside TIFF files, empowering you to build richer imaging solutions.
 
-**Utolsó frissítés:** 2025-12-11  
-**Tesztelve:** Aspose.Imaging 25.5 for Java  
-**Szerző:** Aspose  
-
 **Erőforrások**
 
 - **Documentation:** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
@@ -251,6 +247,12 @@ You've now mastered how to convert TIFF path resources into `GraphicsPath` objec
 - **Free Trial:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
 - **Support Forum:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+
+---
+
+**Utolsó frissítés:** 2025-12-11  
+**Tesztelve:** Aspose.Imaging 25.5 for Java  
+**Szerző:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

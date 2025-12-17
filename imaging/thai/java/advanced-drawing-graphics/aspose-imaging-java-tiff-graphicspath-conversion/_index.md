@@ -244,20 +244,20 @@ A: โหลดเฉพาะเฟรมที่ต้องการ ปล�
 
 คุณได้เรียนรู้วิธีแปลง Path Resources ของ TIFF ให้เป็นอ็อบเจ็กต์ `GraphicsPath` ด้วย Aspose.Imaging for Java — และวิธีทำกลับกัน เทคนิคเหล่านี้เปิดประตูสู่การจัดการกราฟิกเวกเตอร์ขั้นสูงภายในไฟล์ TIFF ทำให้คุณสร้างโซลูชันการประมวลผลภาพที่มีความลึกและหลากหลายยิ่งขึ้น
 
+**แหล่งข้อมูล**
+
+- **เอกสารประกอบ:** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
+- **ดาวน์โหลด:** [Aspose.Imaging for Java Releases](https://releases.aspose.com/imaging/java/)
+- **ซื้อ:** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
+- **ทดลองใช้ฟรี:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
+- **ใบอนุญาตชั่วคราว:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
+- **ฟอรัมสนับสนุน:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+
 ---
 
 **Last Updated:** 2025-12-11  
 **Tested With:** Aspose.Imaging 25.5 for Java  
 **Author:** Aspose  
-
-**Resources**
-
-- **Documentation:** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
-- **Download:** [Aspose.Imaging for Java Releases](https://releases.aspose.com/imaging/java/)
-- **Purchase:** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
-- **Free Trial:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
-- **Temporary License:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

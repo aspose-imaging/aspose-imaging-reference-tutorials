@@ -245,12 +245,6 @@ R: Carga solo el cuadro necesario, elimina objetos rápidamente y simplifica la 
 
 Ahora dominas cómo convertir recursos de ruta de TIFF en objetos `GraphicsPath` con Aspose.Imaging para Java, y cómo revertir el proceso. Estas técnicas abren la puerta a la manipulación avanzada de gráficos vectoriales dentro de archivos TIFF, permitiéndote crear soluciones de imágenes más ricas.
 
----
-
-**Última actualización:** 2025-12-11  
-**Probado con:** Aspose.Imaging 25.5 para Java  
-**Autor:** Aspose  
-
 **Recursos**
 
 - **Documentación:** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
@@ -259,6 +253,12 @@ Ahora dominas cómo convertir recursos de ruta de TIFF en objetos `GraphicsPath`
 - **Prueba gratuita:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
 - **Foro de soporte:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+
+---
+
+**Última actualización:** 2025-12-11  
+**Probado con:** Aspose.Imaging 25.5 para Java  
+**Autor:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -238,12 +238,6 @@ Muat hanya frame yang diperlukan, buang objek dengan cepat, dan sederhanakan geo
 
 Anda kini telah menguasai cara mengonversi path resources TIFF menjadi objek `GraphicsPath` dengan Aspose.Imaging untuk Java—dan cara membalik proses tersebut. Teknik ini membuka pintu untuk manipulasi vektor‑grafik lanjutan di dalam file TIFF, memungkinkan Anda membangun solusi imaging yang lebih kaya.
 
----
-
-**Last Updated:** 2025-12-11  
-**Tested With:** Aspose.Imaging 25.5 for Java  
-**Author:** Aspose  
-
 **Sumber Daya**
 - **Dokumentasi:** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
 - **Unduhan:** [Aspose.Imaging for Java Releases](https://releases.aspose.com/imaging/java/)
@@ -251,6 +245,12 @@ Anda kini telah menguasai cara mengonversi path resources TIFF menjadi objek `Gr
 - **Percobaan Gratis:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
 - **Forum Dukungan:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+
+---
+
+**Last Updated:** 2025-12-11  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

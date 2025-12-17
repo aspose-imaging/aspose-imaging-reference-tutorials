@@ -245,12 +245,6 @@ A: Načítejte pouze požadovaný rámec, rychle uvolňujte objekty a zjednoduš
 
 Nyní ovládáte, jak převést zdroje cest TIFF do objektů `GraphicsPath` pomocí Aspose.Imaging pro Java — a jak proces obrátit. Tyto techniky otevírají dveře k pokročilé manipulaci s vektorovou grafikou uvnitř TIFF souborů, což vám umožní vytvářet bohatší řešení pro zpracování obrazu.
 
----
-
-**Last Updated:** 2025-12-11  
-**Tested With:** Aspose.Imaging 25.5 for Java  
-**Author:** Aspose  
-
 **Zdroje**
 
 - **Documentation:** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
@@ -259,6 +253,12 @@ Nyní ovládáte, jak převést zdroje cest TIFF do objektů `GraphicsPath` pomo
 - **Free Trial:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
 - **Support Forum:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+
+---
+
+**Last Updated:** 2025-12-11  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -197,9 +197,9 @@ private static BezierShape createBezierShape(float ... coordinates) {
 
 ## 実用的な応用例
 
-1. **Graphic Design:** TIFF ファイル内のベクターパスを編集してデジタルアートワークを強化します。
-2. **Printing Industry:** 高品質印刷出力のために正確なパスデータを確保します。
-3. **Architectural Modeling:** エンジニアリングプロジェクトで複雑な建物輪郭を管理します。
+1. **グラフィックデザイン:** TIFF ファイル内のベクターパスを編集してデジタルアートワークを強化します。
+2. **印刷業界:** 高品質印刷出力のために正確なパスデータを確保します。
+3. **建築モデリング:** エンジニアリングプロジェクトで複雑な建物輪郭を管理します。
 
 ## パフォーマンス上の考慮点
 
@@ -235,20 +235,19 @@ A: 必要なフレームだけを読み込み、オブジェクトを速やか�
 
 これで Aspose.Imaging for Java を使用して TIFF のパスリソースを `GraphicsPath` オブジェクトに変換し、逆方向の変換も行う方法を習得しました。これらのテクニックにより、TIFF ファイル内のベクターグラフィックを高度に操作でき、よりリッチな画像処理ソリューションを構築できるようになります。
 
+**リソース**
+
+- **ドキュメント:** [Aspose.Imaging Java リファレンス](https://reference.aspose.com/imaging/java/)
+- **ダウンロード:** [Aspose.Imaging for Java リリース](https://releases.aspose.com/imaging/java/)
+- **購入:** [Aspose.Imaging ライセンスを購入](https://purchase.aspose.com/buy)
+- **無料トライアル:** [Aspose.Imaging を試す](https://releases.aspose.com/imaging/java/)
+- **一時ライセンス:** [一時ライセンスをリクエスト](https://purchase.aspose.com/temporary-license/)
+- **サポートフォーラム:** [Aspose Imaging フォーラム](https://forum.aspose.com/c/imaging/10)
 ---
 
 **Last Updated:** 2025-12-11  
 **Tested With:** Aspose.Imaging 25.5 for Java  
 **Author:** Aspose  
-
-**リソース**
-
-- **Documentation:** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
-- **Download:** [Aspose.Imaging for Java Releases](https://releases.aspose.com/imaging/java/)
-- **Purchase:** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
-- **Free Trial:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
-- **Temporary License:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

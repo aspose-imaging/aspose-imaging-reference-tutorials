@@ -241,12 +241,6 @@ A：僅載入所需的影格，及時釋放物件，並盡可能簡化路徑幾�
 
 您現在已掌握如何使用 Aspose.Imaging for Java 將 TIFF 路徑資源轉換為 `GraphicsPath`，以及如何將 `GraphicsPath` 重新寫回 TIFF。這些技巧為在 TIFF 檔案內進行高階向量圖形操作提供了可能，讓您能打造更豐富的影像解決方案。
 
----
-
-**最後更新:** 2025-12-11  
-**測試環境:** Aspose.Imaging 25.5 for Java  
-**作者:** Aspose  
-
 **資源**
 
 - **文件說明：** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
@@ -255,6 +249,12 @@ A：僅載入所需的影格，及時釋放物件，並盡可能簡化路徑幾�
 - **免費試用：** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **臨時授權：** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
 - **支援論壇：** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+
+---
+
+**最後更新:** 2025-12-11  
+**測試環境:** Aspose.Imaging 25.5 for Java  
+**作者:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

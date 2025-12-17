@@ -245,12 +245,6 @@ A: Läs endast in den nödvändiga ramen, disponera objekt omedelbart och fören
 
 Du har nu lärt dig hur du konverterar TIFF‑path‑resurser till `GraphicsPath`‑objekt med Aspose.Imaging för Java – och hur du vänder processen. Dessa tekniker öppnar dörren till avancerad vektorgrafikmanipulation i TIFF‑filer, vilket ger dig möjlighet att bygga rikare bildlösningar.
 
----
-
-**Senast uppdaterad:** 2025-12-11  
-**Testat med:** Aspose.Imaging 25.5 för Java  
-**Författare:** Aspose  
-
 **Resurser**
 
 - **Dokumentation:** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
@@ -259,6 +253,12 @@ Du har nu lärt dig hur du konverterar TIFF‑path‑resurser till `GraphicsPath
 - **Gratis prov:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
 - **Supportforum:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+
+---
+
+**Senast uppdaterad:** 2025-12-11  
+**Testat med:** Aspose.Imaging 25.5 för Java  
+**Författare:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

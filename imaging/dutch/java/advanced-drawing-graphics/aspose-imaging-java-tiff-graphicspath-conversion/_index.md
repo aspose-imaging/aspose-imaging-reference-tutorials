@@ -240,12 +240,6 @@ A: Laad alleen het benodigde frame, verwijder objecten direct, en vereenvoudig d
 
 Je hebt nu onder de knie hoe je TIFF‑padresources kunt converteren naar `GraphicsPath`‑objecten met Aspose.Imaging voor Java—en hoe je het proces omkeert. Deze technieken openen de deur naar geavanceerde vector‑grafiekmanipulatie binnen TIFF‑bestanden, waardoor je in staat bent rijkere beeldoplossingen te bouwen.
 
----
-
-**Last Updated:** 2025-12-11  
-**Tested With:** Aspose.Imaging 25.5 for Java  
-**Author:** Aspose  
-
 **Bronnen**
 
 - **Documentatie:** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
@@ -254,6 +248,12 @@ Je hebt nu onder de knie hoe je TIFF‑padresources kunt converteren naar `Graph
 - **Gratis proefversie:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
 - **Ondersteuningsforum:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+
+---
+
+**Last Updated:** 2025-12-11  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
