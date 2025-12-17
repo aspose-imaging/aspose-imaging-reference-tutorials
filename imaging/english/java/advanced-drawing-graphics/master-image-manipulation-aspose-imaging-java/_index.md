@@ -1,5 +1,5 @@
 ---
-title: "Aspose Imaging Java: Manipulate Image Size & Transparency"
+title: "Aspose Imaging Java - Manipulate Image Size & Transparency"
 description: "Learn how to use Aspose Imaging Java to read image size, resize images, convert JPEG to PNG, and create transparent PNGs with easy code examples."
 date: "2025-12-14"
 weight: 1
@@ -244,6 +244,12 @@ Try implementing the solution discussed today in your next project. Share your e
 
 By utilizing these resources, you can further enhance your understanding and application of Aspose Imaging Java. Happy coding!
 
+---
+
+**Last Updated:** 2025-12-14  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -251,9 +257,3 @@ By utilizing these resources, you can further enhance your understanding and app
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Last Updated:** 2025-12-14  
-**Tested With:** Aspose.Imaging 25.5 for Java  
-**Author:** Aspose

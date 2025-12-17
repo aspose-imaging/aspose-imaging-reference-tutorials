@@ -9,7 +9,7 @@ keywords:
 - manipulating pixel data in Java
 - create transparent PNG with Java
 - Java graphics & drawing
-title: 'Aspose Imaging Java: Thao tác Kích thước và Độ trong suốt Hình ảnh'
+title: 'Aspose Imaging Java - Thao tác Kích thước và Độ trong suốt Hình ảnh'
 url: /vi/java/advanced-drawing-graphics/master-image-manipulation-aspose-imaging-java/
 weight: 1
 ---
@@ -246,6 +246,12 @@ Hãy áp dụng giải pháp đã thảo luận trong dự án tiếp theo của
 
 Bằng cách tận dụng các tài nguyên này, bạn có thể nâng cao hiểu biết và ứng dụng Aspose Imaging Java một cách sâu rộng. Chúc bạn lập trình vui vẻ!
 
+---
+
+**Cập nhật lần cuối:** 2025-12-14  
+**Được kiểm tra với:** Aspose.Imaging 25.5 for Java  
+**Tác giả:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -253,9 +259,3 @@ Bằng cách tận dụng các tài nguyên này, bạn có thể nâng cao hi�
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Cập nhật lần cuối:** 2025-12-14  
-**Được kiểm tra với:** Aspose.Imaging 25.5 for Java  
-**Tác giả:** Aspose

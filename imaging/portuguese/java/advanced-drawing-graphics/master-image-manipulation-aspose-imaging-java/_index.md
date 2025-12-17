@@ -9,7 +9,7 @@ keywords:
 - manipulating pixel data in Java
 - create transparent PNG with Java
 - Java graphics & drawing
-title: 'Aspose Imaging Java: Manipular Tamanho e Transparência da Imagem'
+title: 'Aspose Imaging Java - Manipular Tamanho e Transparência da Imagem'
 url: /pt/java/advanced-drawing-graphics/master-image-manipulation-aspose-imaging-java/
 weight: 1
 ---
@@ -246,6 +246,12 @@ Tente implementar a solução discutida hoje em seu próximo projeto. Compartilh
 
 Utilizando esses recursos, você pode aprofundar ainda mais sua compreensão e aplicação do Aspose Imaging Java. Feliz codificação!
 
+---
+
+**Última atualização:** 2025-12-14  
+**Testado com:** Aspose.Imaging 25.5 for Java  
+**Autor:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -253,9 +259,3 @@ Utilizando esses recursos, você pode aprofundar ainda mais sua compreensão e a
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Última atualização:** 2025-12-14  
-**Testado com:** Aspose.Imaging 25.5 for Java  
-**Autor:** Aspose
