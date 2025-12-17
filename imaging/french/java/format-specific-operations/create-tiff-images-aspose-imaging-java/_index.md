@@ -196,7 +196,7 @@ Explorez davantage de fonctionnalités d'Aspose.Imaging en plongeant dans leur d
 - [Licence d'achat](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Demande de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 En maîtrisant ces techniques, vous serez parfaitement équipé pour gérer des tâches complexes de traitement d'images dans vos applications Java. Bon codage !
 

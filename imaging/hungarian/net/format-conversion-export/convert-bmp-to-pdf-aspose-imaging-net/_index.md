@@ -128,7 +128,7 @@ V1: Igen, kötegelt feldolgozást végezhet a képeken egy könyvtáron kereszt�
 A2: Próbaverzió elérhető, de kereskedelmi használatra licenc beszerzése szükséges. Látogassa meg a következőt: [Vásárlás](https://purchase.aspose.com/buy) további részletekért.
 
 **3. kérdés: Hogyan javíthatom ki a konverziós hibákat?**
-V3: Ellenőrizze a fájlelérési utakat, és győződjön meg arról, hogy az Aspose.Imaging megfelelően telepítve van. További információ: [Támogatási fórum](https://forum.aspose.com/c/imaging/10) ha a problémák továbbra is fennállnak.
+V3: Ellenőrizze a fájlelérési utakat, és győződjön meg arról, hogy az Aspose.Imaging megfelelően telepítve van. További információ: [Támogatási fórum](https://forum.aspose.com/c/imaging/14) ha a problémák továbbra is fennállnak.
 
 **4. kérdés: Módosíthatom a PDF dokumentum tulajdonságait a konvertálás során?**
 V4: Igen, beállíthat különféle dokumentuminformációs tulajdonságokat, például címet, szerzőt vagy kulcsszavakat a következő használatával: `PdfDocumentInfo`.
@@ -142,7 +142,7 @@ V5: További könyvtárak közé tartozik az ImageMagick és a Ghostscript, bár
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Reméljük, hogy ez az útmutató hasznos volt. Most miért nem vág bele, és próbálja meg BMP-fájljait PDF-be konvertálni az Aspose.Imaging for .NET segítségével?
 

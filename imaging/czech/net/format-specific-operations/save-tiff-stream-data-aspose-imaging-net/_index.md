@@ -148,7 +148,7 @@ Využívejte bufferované streamy a zajistěte správné nakládání s zdroji p
 - **Nákup:** [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Začněte s bezplatnou zkušební verzí](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence:** [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Podpora fóra Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Podpora fóra Aspose](https://forum.aspose.com/c/imaging/14)
 
 Tato příručka vám pomůže plně využít potenciál Aspose.Imaging pro vaše .NET projekty. Přejeme vám příjemné programování!
 

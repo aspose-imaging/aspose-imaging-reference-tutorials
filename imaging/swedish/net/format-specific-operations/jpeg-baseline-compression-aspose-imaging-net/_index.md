@@ -147,7 +147,7 @@ Redo att ta dina bildbehandlingskunskaper till nästa nivå? Implementera den h�
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Den här omfattande guiden kommer att hjälpa dig att bemästra JPEG-baskomprimering med Aspose.Imaging för .NET. Lycka till med kodningen!
 

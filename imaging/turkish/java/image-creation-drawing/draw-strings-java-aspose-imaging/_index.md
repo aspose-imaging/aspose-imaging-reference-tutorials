@@ -204,7 +204,7 @@ Artık Aspose.Imaging for Java kullanarak görüntülerde farklı hizalamalarla 
 - **Satın almak:** [Aspose.Imaging Lisansını Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Aspose.Imaging'i Ücretsiz Deneyin](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10) 
+- **Destek:** [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14) 
 
 Aspose.Imaging for Java ile ilgili anlayışınızı ve yeteneklerinizi geliştirmek için bu kaynakları keşfedin. İyi kodlamalar!
 

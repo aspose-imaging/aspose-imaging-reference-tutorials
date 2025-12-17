@@ -182,7 +182,7 @@ try (DicomImage image = (DicomImage) Image.load(inputFile)) {
 - [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - [رخصة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا الدليل، ستكون جاهزًا تمامًا للتعامل مع صور DICOM بكفاءة باستخدام Aspose.Imaging لـ Java. برمجة ممتعة!
 

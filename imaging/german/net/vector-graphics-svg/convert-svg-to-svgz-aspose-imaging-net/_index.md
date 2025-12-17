@@ -149,7 +149,7 @@ Sie haben gelernt, wie Sie eine SVG-Datei mit Aspose.Imaging für .NET in ein ko
 - [Lizenz erwerben](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/net/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Begeben Sie sich noch heute auf Ihre Reise mit Aspose.Imaging für .NET und entdecken Sie das Potenzial optimierter Vektorgrafiken!
 

@@ -138,7 +138,7 @@ Bir sonraki adımı atmaya hazır mısınız? Bu çözümü bugün projenizde uy
 - **Satın almak**: [Aspose Ürünlerini Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'i Ücretsiz Deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Talebinde Bulunun](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

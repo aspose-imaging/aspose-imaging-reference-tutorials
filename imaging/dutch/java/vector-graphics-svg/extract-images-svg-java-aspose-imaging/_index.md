@@ -250,7 +250,7 @@ A: Overweeg het gebruik van batchverwerkingstechnieken en optimaliseer het geheu
 - **Aankoop:** [Koop Aspose](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Start uw gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Een tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Implementeer deze functies in uw Java-projecten om nieuwe mogelijkheden te ontsluiten en beeldverwerkingsworkflows te stroomlijnen met Aspose.Imaging. Veel plezier met coderen!
 

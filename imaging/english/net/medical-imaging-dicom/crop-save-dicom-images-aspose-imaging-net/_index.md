@@ -189,7 +189,7 @@ Try implementing the solution today to see how it fits into your workflow!
 - **Purchase License:** [Buy Aspose Products](https://purchase.aspose.com/buy)
 - **Free Trial:** [Aspose.Imaging Free Trials](https://releases.aspose.com/imaging/net/)
 - **Temporary License:** [Get Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum:** [Aspose Support Community](https://forum.aspose.com/c/imaging/10)
+- **Support Forum:** [Aspose Support Community](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

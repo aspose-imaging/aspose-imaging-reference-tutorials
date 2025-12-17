@@ -200,7 +200,7 @@ Aspose.Imaging의 계량형 라이선스는 다재다능합니다. 실제 적용
    - 사용하세요 `Metered.getConsumptionQuantity()` 이미지 처리 전후에 사용량을 추적하는 방법입니다.
 
 5. **문제가 발생하면 지원을 받을 수 있나요?**
-   - 방문하다 [Aspose 포럼](https://forum.aspose.com/c/imaging/10) 지역사회 전문가의 도움을 받으세요.
+   - 방문하다 [Aspose 포럼](https://forum.aspose.com/c/imaging/14) 지역사회 전문가의 도움을 받으세요.
 
 ## 자원
 

@@ -204,7 +204,7 @@ Teraz wiesz, jak wykorzystać Aspose.Imaging for Java do ładowania i wyodrębni
 - **Zakup**:Nabywaj licencje bezpośrednio od [Kup Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**:Zacznij eksperymentować z [bezpłatna licencja próbna](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**:Uzyskaj tymczasową licencję na testowanie w [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/).
-- **Wsparcie**:Dołącz do społeczności na [Forum Aspose](https://forum.aspose.com/c/imaging/10) w razie pytań lub dyskusji.
+- **Wsparcie**:Dołącz do społeczności na [Forum Aspose](https://forum.aspose.com/c/imaging/14) w razie pytań lub dyskusji.
 
 Po wykonaniu tego samouczka jesteś teraz wyposażony do obsługi złożonych zadań przetwarzania obrazu w Javie przy użyciu Aspose.Imaging. Miłego kodowania!
 

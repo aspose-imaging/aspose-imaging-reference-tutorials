@@ -167,7 +167,7 @@ Aprendió a convertir imágenes raster a SVG con Aspose.Imaging para .NET. Esta 
 - [Comprar licencias](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/net/)
 - [Solicitud de licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Con esta guía completa, estarás listo para empezar a usar Aspose.Imaging para .NET en tus proyectos. ¡Que disfrutes programando!
 

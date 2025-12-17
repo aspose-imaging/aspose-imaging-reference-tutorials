@@ -186,7 +186,7 @@ A5: 非常に高性能ですが、一部の高度な機能には商用ライセ�
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imagingを無料でお試しください](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose Imagingフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose Imagingフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースとこのガイドがあれば、Aspose.Imaging を使用して WebP 画像を Java プロジェクトに統合する準備が整います。コーディングを楽しみましょう！
 

@@ -169,7 +169,7 @@ Az útmutató követésével megtanultad, hogyan konvertálhatsz SVG fájlokat H
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezzel az átfogó útmutatóval felkészülhetsz arra, hogy kihasználd az Aspose.Imaging for Java erejét az SVG-k HTML5 vászonelemekké alakításában. Jó kódolást!
 

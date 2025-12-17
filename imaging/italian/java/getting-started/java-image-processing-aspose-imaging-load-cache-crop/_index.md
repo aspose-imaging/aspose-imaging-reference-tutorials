@@ -190,7 +190,7 @@ Come passaggi successivi, valuta la possibilità di esplorare funzionalità aggi
 - **Acquistare:** [Acquista Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Prova gratuita di Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea:** [Ottieni una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto:** [Forum di imaging Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto:** [Forum di imaging Aspose](https://forum.aspose.com/c/imaging/14)
 
 Intraprendi il tuo viaggio verso l'elaborazione avanzata delle immagini con Aspose.Imaging per Java e scopri nuove potenzialità nelle tue applicazioni!
 

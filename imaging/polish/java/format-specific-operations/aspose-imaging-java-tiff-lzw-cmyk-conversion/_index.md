@@ -179,7 +179,7 @@ A3: Możesz zacząć od bezpłatnej licencji próbnej, która pozwala przetestow
 A4: Użyj przetwarzania wsadowego i efektywnych technik zarządzania zasobami, takich jak usuwanie obrazów po użyciu. Rozważ również optymalizację rozdzielczości przed konwersją, jeśli to możliwe.
 
 **P5: Gdzie mogę znaleźć pomoc, jeśli napotkam problemy z Aspose.Imaging?**
-A5: W przypadku pytań lub problemów odwiedź stronę [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10) gdzie możesz uzyskać pomoc zarówno od społeczności, jak i przedstawicieli władz.
+A5: W przypadku pytań lub problemów odwiedź stronę [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14) gdzie możesz uzyskać pomoc zarówno od społeczności, jak i przedstawicieli władz.
 
 ## Zasoby
 

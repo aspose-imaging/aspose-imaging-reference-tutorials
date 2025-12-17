@@ -193,7 +193,7 @@ Hãy thử áp dụng các giải pháp này vào dự án của bạn ngay hôm
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Phiên bản dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Yêu cầu cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình tối ưu hóa việc xử lý TIFF với Aspose.Imaging trong .NET ngay hôm nay!
 

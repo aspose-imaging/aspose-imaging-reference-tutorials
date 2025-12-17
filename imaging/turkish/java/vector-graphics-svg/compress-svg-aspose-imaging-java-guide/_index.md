@@ -211,7 +211,7 @@ Bu eğitimde, Aspose.Imaging for Java kullanarak sıkıştırılmış SVG dosyal
 - [Satın almak](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kaynakları kullanarak Aspose.Imaging'in yeteneklerini daha fazla keşfedebilir ve Java uygulamalarınızı güçlü görüntü işleme işlevleriyle geliştirebilirsiniz.
 

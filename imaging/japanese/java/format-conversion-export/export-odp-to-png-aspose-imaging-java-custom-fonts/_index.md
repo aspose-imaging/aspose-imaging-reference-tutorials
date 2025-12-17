@@ -202,7 +202,7 @@ Aspose.Imaging の可能性をさらに探求するには、豊富なドキュ�
 - **購入：** [Aspose ライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料トライアルを始める](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** [一時ライセンスを申請する](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドが、JavaプロジェクトにAspose.Imagingをシームレスに実装する一助となれば幸いです。コーディングを楽しみましょう！
 

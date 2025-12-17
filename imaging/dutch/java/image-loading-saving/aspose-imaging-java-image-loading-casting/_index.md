@@ -159,7 +159,7 @@ We raden u aan om deze oplossingen in uw projecten te implementeren. Raadpleeg v
    - Veelvoorkomende problemen zijn onder andere onjuiste bestandspaden of incompatibele afbeeldingstypen. Controleer of uw afbeeldingen worden ondersteund door Aspose.Imaging.
 
 **5. Waar kan ik ondersteuning vinden als ik problemen ondervind?**
-   - Bezoek de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10) voor hulp van de community en Aspose-experts.
+   - Bezoek de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14) voor hulp van de community en Aspose-experts.
 
 ## Bronnen
 
@@ -167,7 +167,7 @@ We raden u aan om deze oplossingen in uw projecten te implementeren. Raadpleeg v
 - **Download**: Krijg toegang tot de nieuwste bibliotheekversie op [Aspose-releases](https://releases.aspose.com/imaging/java/).
 - **Aankoop**: Voor een productieklare licentie, bezoek [Aspose Aankoop](https://purchase.aspose.com/buy).
 - **Gratis proefperiode**: Begin uw reis met een gratis proefperiode van [Aspose-downloads](https://releases.aspose.com/imaging/java/).
-- **Steun**: Krijg hulp via de [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Steun**: Krijg hulp via de [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Door Aspose.Imaging voor Java te gebruiken, bent u in staat om complexe beeldverwerkingstaken eenvoudig en efficiënt uit te voeren. Veel plezier met coderen!
 

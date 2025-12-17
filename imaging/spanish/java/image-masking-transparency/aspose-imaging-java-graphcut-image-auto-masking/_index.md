@@ -205,7 +205,7 @@ En este tutorial, exploramos cómo implementar el enmascaramiento automático de
 - Experimente con diferentes configuraciones de las opciones de enmascaramiento.
 - Explore otras funciones que ofrece Aspose.Imaging para obtener capacidades adicionales de procesamiento de imágenes.
 
-Si tiene más preguntas o necesita ayuda, visite el sitio [Foro de Aspose.Imaging](https://forum.aspose.com/c/imaging/10).
+Si tiene más preguntas o necesita ayuda, visite el sitio [Foro de Aspose.Imaging](https://forum.aspose.com/c/imaging/14).
 
 ## Sección de preguntas frecuentes
 
@@ -231,7 +231,7 @@ R: La prueba gratuita te permite probar todas las funcionalidades, pero incluye 
 - **Compra**: [Comprar opciones de licencia de Aspose](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Comience con una prueba gratuita](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal**: [Obtenga una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Foro de Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: [Foro de Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 ¡Embárquese hoy mismo en su viaje hacia el dominio del enmascaramiento automático de imágenes con Aspose.Imaging y Java!
 

@@ -167,7 +167,7 @@ Agora você domina o carregamento e o salvamento de quadros TIFF usando o Aspose
 - **Comprar**: [Compre uma licença para Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Comece com um teste gratuito](https://releases.aspose.com/imaging/net/)
 - **Licença Temporária**: [Solicitar uma Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum de Imagem Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum de Imagem Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

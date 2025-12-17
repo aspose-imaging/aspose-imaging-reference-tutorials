@@ -209,7 +209,7 @@ A: [Aspose.Imaging ドキュメント](https://reference.aspose.com/imaging/java
 - **購入**： [ライセンスを購入する](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imaging を試す](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [リクエストはこちら](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging Java の旅に乗り出し、画像変換の処理方法を今すぐ変革しましょう。
 

@@ -184,7 +184,7 @@ Készen állsz a következő kihívásra? Alkalmazd ezeket a technikákat, és n
 - **Vásárlás**Fontolja meg egy hosszú távú használatra szóló licenc megvásárlását a következő címen: [Aspose Vásárlási Oldal](https://purchase.aspose.com/buy).
 - **Ingyenes próbaverzió**: Kezdje ingyenes próbaverzióval, hogy felfedezhesse a funkciókat a következő címen: [Aspose Imaging ingyenes próbaverzió](https://releases.aspose.com/imaging/java/).
 - **Ideiglenes engedély**: Szerezzen be ideiglenes engedélyt meghosszabbított tesztelésre.
-- **Támogatás**Csatlakozzon a közösségi fórumhoz segítségért a következő címen: [Aspose Fórum](https://forum.aspose.com/c/imaging/10). 
+- **Támogatás**Csatlakozzon a közösségi fórumhoz segítségért a következő címen: [Aspose Fórum](https://forum.aspose.com/c/imaging/14). 
 
 Ezzel az átfogó útmutatóval felkészülhetsz a JPEG képfeldolgozásra az Aspose.Imaging for Java segítségével. Jó kódolást!
 

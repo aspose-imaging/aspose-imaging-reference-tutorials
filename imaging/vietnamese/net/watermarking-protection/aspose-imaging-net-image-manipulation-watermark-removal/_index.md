@@ -167,7 +167,7 @@ Bước tiếp theo, hãy cân nhắc thử nghiệm các tính năng nâng cao 
 - **Mua giấy phép**: [Mua ngay](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Yêu cầu ở đây](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Đặt câu hỏi](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Đặt câu hỏi](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách khám phá các tài nguyên này, bạn sẽ có nền tảng vững chắc để thành thạo Aspose.Imaging và các khả năng của nó. Chúc bạn viết mã vui vẻ!
 

@@ -234,7 +234,7 @@ Aspose.Imaging의 그리기 기능은 다양한 애플리케이션에 통합될 
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이러한 리소스를 활용하면 프로젝트에서 Aspose.Imaging for Java에 대한 이해와 활용도를 높일 수 있습니다. 즐거운 코딩 되세요!
 

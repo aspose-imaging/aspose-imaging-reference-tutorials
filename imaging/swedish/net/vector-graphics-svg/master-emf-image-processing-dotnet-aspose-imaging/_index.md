@@ -165,7 +165,7 @@ Vanliga problem inkluderar felaktiga filsökvägar eller format som inte stöds,
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Utforska gärna dessa resurser och kontakta support om du stöter på några utmaningar. Lycka till med kodningen!
 

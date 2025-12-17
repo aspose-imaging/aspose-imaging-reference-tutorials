@@ -202,7 +202,7 @@ Klaar om deze oplossingen te implementeren? Duik vol vertrouwen in de wereld van
    - Gebruik de juiste rasterinstellingen en houd de systeembronnen in de gaten tijdens batchverwerking.
 
 5. **Hoe krijg ik ondersteuning als ik problemen ondervind?**
-   - Bezoek de [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10) voor ondersteuning vanuit de community of neem contact op met hun professionele ondersteuningsteam.
+   - Bezoek de [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14) voor ondersteuning vanuit de community of neem contact op met hun professionele ondersteuningsteam.
 
 ## Bronnen
 

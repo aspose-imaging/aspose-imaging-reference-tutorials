@@ -176,7 +176,7 @@ A5: Rozhodně. Je navržen tak, aby se dal snadno integrovat a používat spole�
 - **Nákup**: [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začněte zde](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Přihlásit se nyní](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum komunity](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum komunity](https://forum.aspose.com/c/imaging/14)
 
 tímto komplexním průvodcem jste nyní vybaveni k zvládnutí načítání a změny velikosti obrázků v Javě pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 

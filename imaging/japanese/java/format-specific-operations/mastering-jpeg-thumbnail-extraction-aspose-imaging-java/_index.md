@@ -193,7 +193,7 @@ Aspose.Imaging for Javaを使用して、JPEG画像を読み込み、EXIFメタ�
    - 評価用に一時ライセンスを取得することも、実稼働用に完全ライセンスを購入することもできます。
 
 5. **問題が発生した場合、どこでサポートを受けられますか?**  
-   - 訪問 [Asposeフォーラム](https://forum.aspose.com/c/imaging/10) コミュニティと公式サポートのため。
+   - 訪問 [Asposeフォーラム](https://forum.aspose.com/c/imaging/14) コミュニティと公式サポートのため。
 
 ## リソース
 
@@ -202,7 +202,7 @@ Aspose.Imaging for Javaを使用して、JPEG画像を読み込み、EXIFメタ�
 - 購入： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - 無料トライアル: [無料トライアルあり](https://releases.aspose.com/imaging/java/)
 - 一時ライセンス: [一時ライセンスを申請する](https://purchase.aspose.com/temporary-license/)
-- サポート： [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- サポート： [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを活用すれば、JavaプロジェクトでAspose.Imagingを最大限に活用できるようになります。コーディングを楽しみましょう！
 

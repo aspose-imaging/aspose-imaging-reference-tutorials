@@ -181,7 +181,7 @@ Klaar om het uit te proberen? Pas toe wat je vandaag hebt geleerd en zie de resu
 - [Aankooplicentieopties](https://purchase.aspose.com/buy)
 - [Gratis proefversie downloaden](https://releases.aspose.com/imaging/java/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteunings- en communityforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteunings- en communityforum](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u nu in staat om efficiënt beeldformaatconversies uit te voeren met Aspose.Imaging Java. Veel plezier met coderen!
 

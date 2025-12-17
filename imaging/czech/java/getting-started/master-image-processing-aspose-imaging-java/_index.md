@@ -209,7 +209,7 @@ Nyní jste zvládli, jak měnit velikost obrázků JPG a vytvářet vícesnímko
 5. **Jak rámce TIFF zlepšují správu obrázků?**  
    Sloučením více obrázků do jednoho souboru se usnadňuje manipulace a distribuce velkých kolekcí souvisejících obrázků.
 
-Další zdroje naleznete na stránkách Aspose.Imaging. [dokumentace](https://reference.aspose.com/imaging/java/) a prozkoumat jejich [stránka ke stažení](https://releases.aspose.com/imaging/java/) pro nejnovější aktualizace. S případnými dotazy ohledně podpory navštivte [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+Další zdroje naleznete na stránkách Aspose.Imaging. [dokumentace](https://reference.aspose.com/imaging/java/) a prozkoumat jejich [stránka ke stažení](https://releases.aspose.com/imaging/java/) pro nejnovější aktualizace. S případnými dotazy ohledně podpory navštivte [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

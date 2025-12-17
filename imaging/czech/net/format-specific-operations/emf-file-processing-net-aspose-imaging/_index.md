@@ -142,7 +142,7 @@ A: Rozhodně. Použijte `Save` metoda s různými příponami souborů, aby toho
 - **Licence k zakoupení:** [Možnosti nákupu Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Získejte bezplatnou zkušební kopii](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence:** [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory:** [Komunita podpory Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory:** [Komunita podpory Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Prozkoumejte tyto zdroje, abyste prohloubili své znalosti a vylepšili své implementace pomocí Aspose.Imaging pro .NET. Přejeme vám příjemné programování!
 

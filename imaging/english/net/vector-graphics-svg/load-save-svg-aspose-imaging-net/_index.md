@@ -195,7 +195,7 @@ Ready to start? Implement these techniques in your next project and see the diff
 - **Purchase:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Temporary License:** [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Embark on your journey with Aspose.Imaging today, and unlock new potentials in image processing for .NET applications!
 

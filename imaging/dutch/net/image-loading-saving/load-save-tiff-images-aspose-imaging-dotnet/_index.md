@@ -149,7 +149,7 @@ A3: Optimaliseer het geheugenbeheer en pas de configuratie-instellingen aan zoal
 A4: Veelvoorkomende problemen zijn onder andere onjuiste bestandspaden, onjuiste configuratie-instellingen en niet-ondersteunde afbeeldingsformaten. Zorg er altijd voor dat de paden correct zijn en dat de configuraties voldoen aan uw vereisten.
 
 **V5: Waar kan ik meer informatie vinden over Aspose.Imaging?**
-A5: Bezoek de [Aspose-documentatie](https://reference.aspose.com/imaging/net/) voor uitgebreide gidsen en de [Forums](https://forum.aspose.com/c/imaging/10) voor steun van de gemeenschap.
+A5: Bezoek de [Aspose-documentatie](https://reference.aspose.com/imaging/net/) voor uitgebreide gidsen en de [Forums](https://forum.aspose.com/c/imaging/14) voor steun van de gemeenschap.
 
 ## Bronnen
 - **Documentatie:** [Aspose Imaging .NET-referentie](https://reference.aspose.com/imaging/net/)
@@ -157,7 +157,7 @@ A5: Bezoek de [Aspose-documentatie](https://reference.aspose.com/imaging/net/) v
 - **Aankoop:** [Koop licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Proefversies downloaden](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie:** [Hier aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Forums](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose Forums](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -201,7 +201,7 @@ Bu eğitim size birden fazla resim formatını yükleme ve bunları Aspose.Imagi
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme İndir](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10) 
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14) 
 
 Bu kılavuzu takip ederek, Aspose.Imaging Java ile görüntü işleme konusunda ustalaşma yolunda iyi bir mesafe kat etmiş olacaksınız. İyi kodlamalar!
 

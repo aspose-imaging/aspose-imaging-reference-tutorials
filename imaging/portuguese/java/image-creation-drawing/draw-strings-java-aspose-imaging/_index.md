@@ -204,7 +204,7 @@ Agora você já sabe como desenhar strings com diferentes alinhamentos em imagen
 - **Comprar:** [Compre a licença Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Experimente o Aspose.Imaging gratuitamente](https://releases.aspose.com/imaging/java/)
 - **Licença temporária:** [Solicitar Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar:** [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Apoiar:** [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Explore estes recursos para aprimorar seus conhecimentos e habilidades com o Aspose.Imaging para Java. Boa programação!
 

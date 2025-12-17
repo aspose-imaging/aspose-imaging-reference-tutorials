@@ -138,7 +138,7 @@ dicomImage.Save(@"YOUR_OUTPUT_DIRECTORY/GrayscalingOnDICOM_out.bmp", new BmpOpti
 2. **هل يمكنني تحويل الصور إلى صيغ أخرى غير BMP؟**
    - نعم، يدعم Aspose.Imaging تنسيقات إخراج مختلفة مثل JPEG وPNG.
 3. **كيف أقوم باستكشاف الأخطاء وإصلاحها أثناء تحويل الصورة؟**
-   - تحقق من مسارات الملفات، وتأكد من استخدام إصدار المكتبة الصحيح، ثم راجع [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10).
+   - تحقق من مسارات الملفات، وتأكد من استخدام إصدار المكتبة الصحيح، ثم راجع [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14).
 4. **هل Aspose.Imaging مناسب للتطبيقات في الوقت الفعلي؟**
    - على الرغم من قوة هذه الميزة، يجب أخذ تحسينات الأداء في الاعتبار لتلبية احتياجات المعالجة في الوقت الفعلي.
 5. **ما هي بعض حالات الاستخدام الشائعة لتحويل تدرج الرمادي DICOM؟**
@@ -150,7 +150,7 @@ dicomImage.Save(@"YOUR_OUTPUT_DIRECTORY/GrayscalingOnDICOM_out.bmp", new BmpOpti
 - [شراء ترخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/net/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

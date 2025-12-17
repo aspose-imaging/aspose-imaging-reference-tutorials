@@ -183,7 +183,7 @@ Aspose.Imaging for Javaを使用してDICOM画像の明るさを調整する方�
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料お試し](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java のパワーを活用して、画像処理タスクを簡単かつ正確に向上させましょう。
 

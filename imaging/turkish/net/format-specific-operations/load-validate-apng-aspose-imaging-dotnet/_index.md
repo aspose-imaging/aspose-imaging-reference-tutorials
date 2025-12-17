@@ -202,7 +202,7 @@ Evet, dağıtım sürecinizin bir parçası olarak APNG'leri otomatik olarak do�
 - **Satın almak:** [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Deneme Alın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans:** [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Aspose.Imaging kullanarak .NET uygulamalarınızda APNG görüntülerini etkili bir şekilde yönetme becerilerini kazandınız. İyi kodlamalar!
 

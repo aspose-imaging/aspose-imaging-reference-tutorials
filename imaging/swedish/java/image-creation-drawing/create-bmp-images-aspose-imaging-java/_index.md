@@ -170,7 +170,7 @@ A3: Använd effektiva minneshanteringstekniker som try-with-resources och optime
 A4: Ja, Aspose.Imaging kan användas tillsammans med andra Java-bibliotek för omfattande bildbehandlingslösningar.
 
 **F5: Var kan jag få support om jag stöter på problem?**
-A5: Besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/10) för hjälp och samhällsvägledning.
+A5: Besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/14) för hjälp och samhällsvägledning.
 
 ## Resurser
 

@@ -189,7 +189,7 @@ A3：調整 `CdrRasterizationOptions` 解析度和定位類型等參數來微調
 A4：商業應用需要購買許可證。您可以先免費試用，也可以申請臨時許可證。
 
 **Q5：如果我遇到問題，我可以在哪裡獲得支援？**
-A5：訪問 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10) 尋求幫助和社區討論。
+A5：訪問 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14) 尋求幫助和社區討論。
 
 ## 資源
 
@@ -197,7 +197,7 @@ A5：訪問 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10) 尋求�
 - **下載庫：** 取得最新版本 [Aspose.Imaging 發布](https://releases.aspose.com/imaging/java/)
 - **購買許可證：** 訪問 [Aspose 購買網站](https://purchase.aspose.com/buy)
 - **免費試用和臨時許可證：** 開始您的旅程 [Aspose 免費試用](https://releases.aspose.com/imaging/java/) 和 [臨時執照](https://purchase.aspose.com/temporary-license/)
-- **支援論壇：** 與社區互動尋求協助 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- **支援論壇：** 與社區互動尋求協助 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 立即踏上您的 Aspose.Imaging Java 之旅，讓您的數位成像專案煥發生機！
 

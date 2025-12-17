@@ -145,7 +145,7 @@ In diesem Tutorial haben Sie gelernt, wie Sie verlustbehaftete GIF-Komprimierung
 - **Kaufen**: [Kaufen Sie eine Lizenz](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Probieren Sie es aus](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Erhalten Sie eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Fragen stellen](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Fragen stellen](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

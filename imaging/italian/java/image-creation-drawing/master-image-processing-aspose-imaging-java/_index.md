@@ -162,7 +162,7 @@ A5: Elaborare le immagini in sequenza e gestire la memoria in modo efficiente ch
 - **Acquistare:** [Acquista ora](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Inizia qui](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea:** [Ottieni una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto:** [Forum della comunità](https://forum.aspose.com/c/imaging/10)
+- **Supporto:** [Forum della comunità](https://forum.aspose.com/c/imaging/14)
 
 Sfruttando queste risorse, puoi migliorare ulteriormente la tua comprensione e applicazione di Aspose.Imaging per Java. Buona programmazione!
 

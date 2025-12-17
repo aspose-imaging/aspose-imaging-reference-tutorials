@@ -199,7 +199,7 @@ try (Image image = Image.load(dataDir + "Picture1.emf")) {
    - المكتبة متاحة بموجب ترخيص تجريبي، وتتطلب الميزات الكاملة الشراء.
 
 5. **أين يمكنني الحصول على الدعم إذا لزم الأمر؟**
-   - يزور [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10) للحصول على المساعدة.
+   - يزور [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14) للحصول على المساعدة.
 
 ## موارد
 

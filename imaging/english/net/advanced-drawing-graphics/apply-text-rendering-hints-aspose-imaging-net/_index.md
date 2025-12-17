@@ -178,7 +178,7 @@ A: Common issues include memory leaks and performance bottlenecks, which can be 
 - **Purchase**: Buy a license or get a free trial from [Aspose Purchase](https://purchase.aspose.com/buy).
 - **Free Trial**: Start with a trial at [Releases](https://releases.aspose.com/imaging/net/).
 - **Temporary License**: Request one from [Aspose](https://purchase.aspose.com/temporary-license/).
-- **Support**: Get help in the [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Support**: Get help in the [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Embark on your journey to mastering image processing with Aspose.Imaging, and take your applications to new heights!
 

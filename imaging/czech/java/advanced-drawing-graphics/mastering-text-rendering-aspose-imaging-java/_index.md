@@ -223,7 +223,7 @@ V tomto tutoriálu jste se naučili, jak v Javě pomocí Aspose.Imaging vykreslo
 - **Stažení:** Získejte nejnovější verzi Aspose.Imaging na [Releases Page](https://releases.aspose.com/imaging/java/).  
 - **Nákup:** Zakupte plnou licenci přes [Aspose Purchase Page](https://purchase.aspose.com/buy).  
 - **Bezplatná zkušební verze:** Vyzkoušejte Aspose.Imaging s bezplatnou zkušební licencí na [Temporary License Page](https://purchase.aspose.com/temporary-license/).  
-- **Podpora:** Připojte se k diskusím nebo požádejte o pomoc na [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Podpora:** Připojte se k diskusím nebo požádejte o pomoc na [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 ---
 

@@ -195,7 +195,7 @@ A: 물론입니다. Spring 같은 프레임워크나 Apache Commons와 함께 �
 - **구매:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)  
 - **무료 체험:** [Get Started with Free Trial](https://releases.aspose.com/imaging/java/)  
 - **임시 라이선스:** [Acquire Temporary License](https://purchase.aspose.com/temporary-license/)  
-- **지원 포럼:** [Aspose Community Support](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼:** [Aspose Community Support](https://forum.aspose.com/c/imaging/14)
 
 ---
 

@@ -153,7 +153,7 @@ Vous avez appris à flouter une image avec Aspose.Imaging pour .NET, avec les é
 - **Achat**: [Acheter des produits Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencez un essai gratuit](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Obtenez votre permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -221,7 +221,7 @@ image.save(outputDir + "/ConvertWMFToWebp_out.webp", imageOptions);
 - [ซื้อ Aspose.Imaging](https://purchase.aspose.com/buy)
 - [ทดลองใช้ Aspose.Imaging ฟรี](https://releases.aspose.com/imaging/java/)
 - [การขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 บทช่วยสอนนี้มีวัตถุประสงค์เพื่อให้คำแนะนำที่ชัดเจนและปฏิบัติได้ในการแปลงรูปภาพโดยใช้ Aspose.Imaging สำหรับ Java เพื่อเพิ่มพูนความรู้แก่คุณเพื่อปรับปรุงแอปพลิเคชันเว็บของคุณอย่างมีประสิทธิภาพ
 

@@ -159,7 +159,7 @@ Aspose.Imaging for .NET を使用して、画像に回転したテキスト透�
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらの手順を実装してみて、Aspose.Imaging が画像処理タスクをいかに効率化できるかを確認してください。
 

@@ -156,7 +156,7 @@ bmpOptions.setBitsPerPixel(24);
 
 **س2: كيف يمكنني استكشاف مشكلات الترخيص وإصلاحها مع Aspose.Imaging؟**
 
-تأكد من صحة مسار ملف الترخيص وأنك تستخدم إصدارًا صالحًا من المكتبة. إذا استمرت المشاكل، استشر [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10).
+تأكد من صحة مسار ملف الترخيص وأنك تستخدم إصدارًا صالحًا من المكتبة. إذا استمرت المشاكل، استشر [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14).
 
 **س3: هل يمكنني استخدام Aspose.Imaging لمعالجة الصور دفعة واحدة؟**
 
@@ -177,7 +177,7 @@ bmpOptions.setBitsPerPixel(24);
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [تجربة مجانية لبرنامج Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [التقدم بطلب للحصول على ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 يوفر هذا البرنامج التعليمي الأساس اللازم لتطبيق خيارات BMP بفعالية في مشاريع Java باستخدام Aspose.Imaging. برمجة ممتعة!
 

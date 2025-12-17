@@ -190,7 +190,7 @@ Következő lépésként érdemes lehet további funkciókat is kipróbálni, mi
 - **Vásárlás:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Aspose.Imaging ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Képalkotó Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Képalkotó Fórum](https://forum.aspose.com/c/imaging/14)
 
 Lépj be a fejlett képfeldolgozás útjára az Aspose.Imaging for Java segítségével, és tárd fel az alkalmazásaidban rejlő új lehetőségeket!
 

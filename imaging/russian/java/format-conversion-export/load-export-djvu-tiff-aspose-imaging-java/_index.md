@@ -203,7 +203,7 @@ license.setLicense("path/to/your/license.lic");
 - **Покупка**: [Купить Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Получить бесплатную лицензию](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия**: [Запросить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: [Форум сообщества Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: [Форум сообщества Aspose](https://forum.aspose.com/c/imaging/14)
 
 Используя Aspose.Imaging для Java, вы можете оптимизировать рабочие процессы обработки документов и легко работать с файлами DjVu. Удачного кодирования!
 

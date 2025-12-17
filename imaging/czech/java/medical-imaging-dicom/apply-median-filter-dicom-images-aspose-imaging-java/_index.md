@@ -185,7 +185,7 @@ A: Použijte různé `ImageOptions` třídy poskytované službou Aspose.Imaging
 - **Zakoupit licenci**: [Koupit nyní](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začít](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Přihlaste se zde](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Podpora Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Podpora Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Začněte prozkoumávat výkonné možnosti zpracování obrazu v Aspose.Imaging pro Javu ještě dnes!
 

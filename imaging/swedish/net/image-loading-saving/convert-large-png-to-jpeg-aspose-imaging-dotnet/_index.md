@@ -131,7 +131,7 @@ A: Se till att du har .NET Framework eller .NET Core installerat, tillsammans me
 A: Ja, efter att ha erhållit en lämplig licens från Aspose.
 
 **F: Finns det support tillgänglig om jag stöter på problem?**
-A: Besök [Asposes supportforum](https://forum.aspose.com/c/imaging/10) för hjälp eller konsultera dokumentationen.
+A: Besök [Asposes supportforum](https://forum.aspose.com/c/imaging/14) för hjälp eller konsultera dokumentationen.
 
 ## Resurser
 - **Dokumentation:** [Aspose.Imaging .NET-dokumentation](https://reference.aspose.com/imaging/net/)

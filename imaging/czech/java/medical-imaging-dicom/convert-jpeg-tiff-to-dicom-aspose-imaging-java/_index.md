@@ -171,7 +171,7 @@ Nyní máte nástroje pro převod obrázků JPEG a TIFF do formátu DICOM pomoc�
 - **Nákup**: [Koupit Aspose Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušet zdarma](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto tutoriálu budete dobře vybaveni pro zvládání úloh konverze obrázků ve vašich projektech lékařského zobrazování pomocí Aspose.Imaging pro Javu.
 

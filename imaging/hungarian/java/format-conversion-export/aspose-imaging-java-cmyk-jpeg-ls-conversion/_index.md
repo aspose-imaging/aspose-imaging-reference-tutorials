@@ -173,7 +173,7 @@ Az Aspose.Imaging képességeinek további felfedezéséhez érdemes alaposabban
    - Fontolja meg a folyamat kisebb részekre bontását, vagy használja a könyvtár által biztosított memóriahatékony módszereket.
 
 5. **Hol kaphatok támogatást, ha problémákba ütközöm?**
-   - Látogatás [Aspose támogatói fóruma](https://forum.aspose.com/c/imaging/10) közösségi szakértők és az Aspose munkatársainak segítségét kérem.
+   - Látogatás [Aspose támogatói fóruma](https://forum.aspose.com/c/imaging/14) közösségi szakértők és az Aspose munkatársainak segítségét kérem.
 
 ## Erőforrás
 

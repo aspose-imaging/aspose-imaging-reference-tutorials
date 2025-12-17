@@ -196,7 +196,7 @@ Como próximos pasos, intente integrar esta capacidad en un proyecto existente o
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Explora estos recursos para profundizar tu comprensión y mejorar aún más las capacidades de procesamiento de imágenes de tu aplicación. ¡Que disfrutes programando!
 

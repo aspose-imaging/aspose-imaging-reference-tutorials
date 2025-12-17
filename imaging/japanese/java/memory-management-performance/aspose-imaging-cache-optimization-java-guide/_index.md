@@ -233,7 +233,7 @@ try (RasterImage image = (RasterImage) Image.create(options, 100, 100)) {
 - [購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドを読めば、JavaでAspose.Imaging Cacheを効果的に最適化できるようになります。コーディングを楽しんでください！
 

@@ -147,7 +147,7 @@ Látogatás [Aspose vásárlás](https://purchase.aspose.com/buy) az Ön igénye
 - **Dokumentáció:** Fedezze fel az átfogó útmutatókat a következő címen: [Aspose.Imaging dokumentáció](https://reference.aspose.com/imaging/net/).
 - **Letöltés:** Szerezd meg az Aspose.Imaging legújabb verzióját innen: [Kiadások oldala](https://releases.aspose.com/imaging/net/).
 - **Vásárlás és licencelés:** A vásárlási lehetőségekről bővebb információ a következő címen található: [Vásárlás](https://purchase.aspose.com/buy) és [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/).
-- **Támogatás:** Kérdések vagy problémák esetén látogassa meg a [Aspose Fórum](https://forum.aspose.com/c/imaging/10).
+- **Támogatás:** Kérdések vagy problémák esetén látogassa meg a [Aspose Fórum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

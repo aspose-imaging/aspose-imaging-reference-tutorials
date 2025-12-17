@@ -177,7 +177,7 @@ Pronti a esplorare ulteriormente? Provate a implementare questa soluzione e scop
 - **Acquistare**: Considera l'acquisto per l'accesso completo su [Sito di acquisto Aspose](https://purchase.aspose.com/buy).
 - **Prova gratuita**: Prova le funzionalità con la versione di prova gratuita disponibile nella stessa pagina.
 - **Licenza temporanea**: Richiedi una licenza temporanea per estendere il tuo periodo di valutazione.
-- **Supporto**: Partecipa alle discussioni e fai domande su [Forum di Aspose](https://forum.aspose.com/c/imaging/10).
+- **Supporto**: Partecipa alle discussioni e fai domande su [Forum di Aspose](https://forum.aspose.com/c/imaging/14).
 
 Con questa guida completa, sei pronto a padroneggiare la trasparenza delle immagini in Java usando Aspose.Imaging. Buon lavoro!
 

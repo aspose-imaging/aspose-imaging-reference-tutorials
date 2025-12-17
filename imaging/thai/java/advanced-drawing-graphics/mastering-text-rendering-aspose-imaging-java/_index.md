@@ -223,7 +223,7 @@ try {
 - **Download:** Access the latest version of Aspose.Imaging from the [หน้าการปล่อย](https://releases.aspose.com/imaging/java/).  
 - **Purchase:** Get a full license through the [หน้าการซื้อ Aspose](https://purchase.aspose.com/buy).  
 - **Free Trial:** Try out Aspose.Imaging with a free trial available on the [หน้าลิขสิทธิ์ชั่วคราว](https://purchase.aspose.com/temporary-license/).  
-- **Support:** Join discussions or seek help at the [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10).
+- **Support:** Join discussions or seek help at the [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14).
 
 ---
 

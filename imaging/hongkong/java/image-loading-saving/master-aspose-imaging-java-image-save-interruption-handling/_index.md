@@ -231,7 +231,7 @@ try {
    - 考慮實施線程池和高效的資源管理實踐來處理高並發性。
 
 5. **如何解決使用 Aspose.Imaging 時常見的問題？**
-   - 看官方 [文件](https://reference.aspose.com/imaging/java/) 詳細指南，或訪問 [Aspose 論壇](https://forum.aspose.com/c/imaging/10) 尋求社區支持。
+   - 看官方 [文件](https://reference.aspose.com/imaging/java/) 詳細指南，或訪問 [Aspose 論壇](https://forum.aspose.com/c/imaging/14) 尋求社區支持。
 
 ## 資源
 

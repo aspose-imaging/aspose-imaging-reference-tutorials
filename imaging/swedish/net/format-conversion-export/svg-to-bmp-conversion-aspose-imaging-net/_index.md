@@ -142,7 +142,7 @@ För att ytterligare förbättra dina färdigheter med Aspose.Imaging, utforska 
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din resa för att bemästra bildkonvertering med Aspose.Imaging för .NET och utforska möjligheterna som detta kraftfulla bibliotek erbjuder. Lycka till med kodningen!
 

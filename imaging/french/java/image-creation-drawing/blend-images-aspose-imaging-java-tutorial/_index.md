@@ -210,7 +210,7 @@ R : Assurez-vous que vos images de superposition et d'arrière-plan sont en hau
 - **Licence d'achat**: [Page d'achat d'Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Essayez Aspose.Imaging pour Java](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**: [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance**: [Assistance à l'imagerie Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance**: [Assistance à l'imagerie Aspose](https://forum.aspose.com/c/imaging/14)
 
 Grâce à ce guide, vous êtes prêt à commencer à fusionner des images avec Aspose.Imaging pour Java. Bon codage !
 

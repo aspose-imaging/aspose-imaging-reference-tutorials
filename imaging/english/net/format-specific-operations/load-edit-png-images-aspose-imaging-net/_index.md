@@ -155,7 +155,7 @@ You’ve now learned how to load, access, and manipulate pixel data in PNG files
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/net/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Community Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Community Support Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

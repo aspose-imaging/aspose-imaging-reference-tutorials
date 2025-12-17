@@ -181,7 +181,7 @@ Saat Anda semakin nyaman dengan Aspose.Imaging, pertimbangkan untuk menjelajahi 
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Kami harap panduan ini membantu Anda dalam perjalanan Anda dengan Aspose.Imaging untuk .NET. Selamat membuat kode!
 

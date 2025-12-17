@@ -163,7 +163,7 @@ try (TiffImage tiffImage = (TiffImage) Image.load(inputFileName)) {
 答：免费试用版提供完整功能，但图片会添加水印，且使用时间受限。建议您购买临时许可证或购买许可证，以获得不间断的访问权限。
 
 **问题5：如何解决图像处理的常见问题？**
-答：确保您的文件路径正确，检查您是否有足够的系统资源，并参考 [支持论坛](https://forum.aspose.com/c/imaging/10) 如果需要的话。
+答：确保您的文件路径正确，检查您是否有足够的系统资源，并参考 [支持论坛](https://forum.aspose.com/c/imaging/14) 如果需要的话。
 
 ## 资源
 
@@ -172,7 +172,7 @@ try (TiffImage tiffImage = (TiffImage) Image.load(inputFileName)) {
 - **购买**：通过以下方式获取许可证 [Aspose的购买页面](https://purchase.aspose.com/buy)
 - **免费试用**：开始探索功能 [免费试用版](https://releases.aspose.com/imaging/java/)
 - **临时执照**：通过以下方式申请临时许可证 [Aspose 的临时许可证页面](https://purchase.aspose.com/temporary-license/)
-- **支持**：如有任何疑问，请访问 [支持论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**：如有任何疑问，请访问 [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 通过这份全面的指南，您就可以使用 Aspose.Imaging for Java 增强您的图像处理能力！
 

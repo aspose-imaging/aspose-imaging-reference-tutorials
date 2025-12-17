@@ -138,7 +138,7 @@ Siap untuk melangkah ke tahap berikutnya? Cobalah menerapkan solusi ini dalam pr
 - **Pembelian**: [Beli Produk Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

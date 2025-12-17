@@ -258,7 +258,7 @@ A5 : Envisagez de traiter les images volumineuses en morceaux plus petits, en t
 - **Licence d'achat :** [Acheter une licence](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Obtenez votre essai gratuit](https://releases.aspose.com/imaging/java/)
 - **Licence temporaire :** [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance :** [Prise en charge d'Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance :** [Prise en charge d'Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Nous espérons que ce tutoriel vous aura permis d'améliorer vos tâches de traitement d'images avec Aspose.Imaging pour Java. Bon codage !
 

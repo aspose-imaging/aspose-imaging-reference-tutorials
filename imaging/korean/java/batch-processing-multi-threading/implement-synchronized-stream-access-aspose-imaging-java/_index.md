@@ -165,7 +165,7 @@ public class SyncRootPropertyExample {
 - **구입:** 라이센스를 구매하세요 [Aspose 라이센싱 페이지](https://purchase.aspose.com/buy).
 - **무료 체험:** Aspose.Imaging의 출시 페이지에서 무료 평가판을 이용해 보세요.
 - **임시 면허:** 임시 라이선스 옵션을 통해 확장된 액세스 권한을 얻으세요.
-- **지원하다:** 토론에 참여하거나 도움을 요청하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/10).
+- **지원하다:** 토론에 참여하거나 도움을 요청하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/14).
 
 안정성과 성능을 향상하기 위해 Java 프로젝트에 동기화된 스트림 액세스를 통합하고 실험해 보세요!
 

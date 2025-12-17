@@ -149,7 +149,7 @@ Sẵn sàng thử nghiệm các kỹ năng mới của bạn? Triển khai giả
 - Mua: [Mua giấy phép](https://purchase.aspose.com/buy)
 - Dùng thử miễn phí: [Hãy thử Aspose.Imaging cho .NET](https://releases.aspose.com/imaging/net/)
 - Giấy phép tạm thời: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- Ủng hộ: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- Ủng hộ: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -206,7 +206,7 @@ Redo att omsätta denna kunskap i praktiken? Fördjupa dig i [Aspose.Imaging-dok
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Utforska gärna dessa resurser för ytterligare vägledning och stöd när du implementerar Aspose.Imaging i dina Java-projekt!
 

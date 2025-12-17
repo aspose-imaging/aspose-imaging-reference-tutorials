@@ -170,7 +170,7 @@ Siguiendo esta guía, ha aprendido a guardar una imagen rasterizada como TIFF me
 - **Compra:** [Comprar licencia](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Pruébalo ahora](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal:** [Solicitar aquí](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** [Hacer las cuestiones](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** [Hacer las cuestiones](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

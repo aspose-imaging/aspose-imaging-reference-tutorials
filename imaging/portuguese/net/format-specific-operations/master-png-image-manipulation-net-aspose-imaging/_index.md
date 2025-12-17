@@ -206,7 +206,7 @@ Com certeza! Obtenha uma licença através da página de compras se você planej
 - **Comprar**: [Página de compra do Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Comece um teste gratuito](https://releases.aspose.com/imaging/net/)
 - **Licença Temporária**: [Solicitar Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- **Fórum de Suporte**: [Suporte de imagem Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum de Suporte**: [Suporte de imagem Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

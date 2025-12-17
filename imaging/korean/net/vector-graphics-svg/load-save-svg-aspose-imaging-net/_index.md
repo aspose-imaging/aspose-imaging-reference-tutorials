@@ -190,7 +190,7 @@ Aspose.Imaging의 기능을 더 자세히 알아보려면 광범위한 문서를
 - **구입:** [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [Aspose.Imaging을 사용해 보세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허:** [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 지금 Aspose.Imaging과 함께 여정을 시작하고 .NET 애플리케이션을 위한 이미지 처리의 새로운 잠재력을 열어보세요!
 

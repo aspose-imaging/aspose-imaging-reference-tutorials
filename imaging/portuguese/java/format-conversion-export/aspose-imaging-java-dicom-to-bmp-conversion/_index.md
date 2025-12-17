@@ -179,7 +179,7 @@ Neste tutorial, você aprendeu a carregar imagens DICOM e convertê-las para o f
 - [Opções de compra](https://purchase.aspose.com/buy)
 - [Teste grátis](https://releases.aspose.com/imaging/java/)
 - [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte](https://forum.aspose.com/c/imaging/14)
 
 Seguindo este guia, você estará bem equipado para manipular imagens DICOM usando o Aspose.Imaging para Java. Boa programação!
 

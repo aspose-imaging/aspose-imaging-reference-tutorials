@@ -172,7 +172,7 @@ You've now mastered loading and saving TIFF frames using Aspose.Imaging for .NET
 - **Purchase**: [Buy a License for Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start with a Free Trial](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

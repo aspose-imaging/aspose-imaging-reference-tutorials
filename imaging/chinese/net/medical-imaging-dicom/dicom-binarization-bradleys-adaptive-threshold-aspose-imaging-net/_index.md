@@ -167,7 +167,7 @@ A5：虽然有效，但它最适合局部对比度变化明显的图像。请务
 - **购买**： [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用**： [开始免费试用](https://releases.aspose.com/imaging/net/)
 - **临时执照**： [申请临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持**：如有任何疑问，请访问 [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**：如有任何疑问，请访问 [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 踏上 Aspose.Imaging for .NET 之旅，解锁医学成像的新功能！
 

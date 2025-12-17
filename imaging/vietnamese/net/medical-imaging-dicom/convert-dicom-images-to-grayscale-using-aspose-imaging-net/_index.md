@@ -138,7 +138,7 @@ Khám phá các tính năng bổ sung của Aspose.Imaging hoặc tích hợp c�
 2. **Tôi có thể chuyển đổi hình ảnh sang định dạng khác ngoài BMP không?**
    - Có, Aspose.Imaging hỗ trợ nhiều định dạng đầu ra như JPEG và PNG.
 3. **Làm thế nào để khắc phục sự cố trong quá trình chuyển đổi hình ảnh?**
-   - Kiểm tra đường dẫn tệp, đảm bảo sử dụng đúng phiên bản thư viện và tham khảo [Diễn đàn hỗ trợ của Aspose](https://forum.aspose.com/c/imaging/10).
+   - Kiểm tra đường dẫn tệp, đảm bảo sử dụng đúng phiên bản thư viện và tham khảo [Diễn đàn hỗ trợ của Aspose](https://forum.aspose.com/c/imaging/14).
 4. **Aspose.Imaging có phù hợp cho các ứng dụng thời gian thực không?**
    - Mặc dù mạnh mẽ, hãy cân nhắc tối ưu hóa hiệu suất cho nhu cầu xử lý thời gian thực.
 5. **Một số trường hợp sử dụng phổ biến cho chuyển đổi thang độ xám DICOM là gì?**
@@ -150,7 +150,7 @@ Khám phá các tính năng bổ sung của Aspose.Imaging hoặc tích hợp c�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

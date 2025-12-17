@@ -156,7 +156,7 @@ writer.write("This is a sample output.\n");
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/net/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이러한 개념을 숙지하면 파일 I/O 작업을 효율적으로 관리하는 강력한 Java 애플리케이션을 만드는 데 큰 도움이 될 것입니다. 즐거운 코딩 되세요!
 

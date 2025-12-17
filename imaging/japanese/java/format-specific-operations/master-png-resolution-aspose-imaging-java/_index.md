@@ -191,7 +191,7 @@ Aspose.Imaging for Java でこれらのテクニックを習得することで�
 - **ダウンロード**最新のライブラリバージョンは以下にあります。 [Aspose リリース](https://releases.aspose.com/imaging/java/)
 - **購入**フルライセンスを取得する [Aspose 購入](https://purchase.aspose.com/buy)
 - **無料トライアルと一時ライセンス**トライアルを開始 [Aspose トライアル](https://releases.aspose.com/imaging/java/) 評価用の一時ライセンスを取得します。
-- **サポート**問題や質問がある場合は、 [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10) 
+- **サポート**問題や質問がある場合は、 [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14) 
 
 Aspose.Imaging Java を使用してイメージ操作タスクを実行する方法をしっかりと理解できたので、ぜひより高度な機能を試して、アプリケーションをさらに強化してください。
 

@@ -183,7 +183,7 @@ A5: Có, nó được thiết kế để tích hợp liền mạch trên nhiều
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Khám phá các tài nguyên này để hiểu rõ hơn và ứng dụng Aspose.Imaging trong Java.
 

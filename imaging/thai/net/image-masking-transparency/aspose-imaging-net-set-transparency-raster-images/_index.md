@@ -159,7 +159,7 @@ image.Save(outputPath, new PngOptions());
 - **ซื้อใบอนุญาต**- [ซื้อ Aspose.Licensing](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [ลองใช้ Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **ใบอนุญาตชั่วคราว**- [การขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **ฟอรั่มสนับสนุน**- [การสนับสนุนการถ่ายภาพ Aspose](https://forum.aspose.com/c/imaging/10)
+- **ฟอรั่มสนับสนุน**- [การสนับสนุนการถ่ายภาพ Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

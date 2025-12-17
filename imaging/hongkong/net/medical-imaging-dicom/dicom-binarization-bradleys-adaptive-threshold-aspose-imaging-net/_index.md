@@ -167,7 +167,7 @@ A5：雖然有效，但它最適合局部對比變化明顯的影像。請務必
 - **購買**： [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用**： [開始免費試用](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [申請臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**：如有任何疑問，請訪問 [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**：如有任何疑問，請訪問 [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 踏上 Aspose.Imaging for .NET 之旅，解鎖醫學影像的新功能！
 

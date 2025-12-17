@@ -167,7 +167,7 @@ A5: Obwohl effektiv, eignet es sich am besten für Bilder mit starken lokalen Ko
 - **Kaufen**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Starten Sie mit einer kostenlosen Testversion](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Fordern Sie eine temporäre Lizenz an](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: Bei Fragen besuchen Sie die [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: Bei Fragen besuchen Sie die [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Begeben Sie sich mit Aspose.Imaging für .NET auf Ihre Reise und erschließen Sie neue Möglichkeiten der medizinischen Bildgebung!
 

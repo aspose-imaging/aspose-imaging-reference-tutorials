@@ -211,7 +211,7 @@ Java에서 Aspose.Imaging을 사용할 때 최적의 성능을 보장하려면 �
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따라 하면 Aspose.Imaging을 Java 프로젝트에 통합하여 강력한 이미지 조작 기능을 활용할 수 있습니다. 즐거운 코딩 되세요!
 

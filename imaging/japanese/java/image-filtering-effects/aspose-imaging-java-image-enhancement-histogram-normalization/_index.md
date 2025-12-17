@@ -184,7 +184,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **購入**： [ライセンスを購入する](https://purchase.aspose.com/buy)
 - **無料トライアル**： [テスト機能](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [リクエストはこちら](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [フォーラムに参加する](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [フォーラムに参加する](https://forum.aspose.com/c/imaging/14)
 
 これらのガイドラインに従うことで、Aspose.Imaging Javaのヒストグラム正規化機能を使って画像を適切に加工できるようになります。コーディングを楽しみましょう！
 

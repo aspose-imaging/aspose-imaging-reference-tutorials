@@ -237,7 +237,7 @@ V5: Bár az Aspose.Imaging műveletek nem eredendően szálbiztosak, a párhuzam
 - **Vásárlás:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Próbáld ki az Aspose.Imaging-et](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Kezdje el utazását még ma az Aspose.Imaging for Java segítségével, és aknázza ki a képfeldolgozás teljes potenciálját alkalmazásaiban!
 

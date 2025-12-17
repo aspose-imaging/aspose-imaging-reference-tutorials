@@ -165,7 +165,7 @@ A5：雖然功能強大，但某些進階功能可能需要付費許可證才能
 - **購買**： [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用**： [免費試用 Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 本指南為您提供使用 Aspose.Imaging for .NET 將 TIFF 影像轉換為 PDF 所需的所有信息，增強您的文件管理解決方案。
 

@@ -141,7 +141,7 @@ foreach (var resource in imageResources)
 - **Αγορά**: [Απόκτηση Άδειας](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε με τη Δωρεάν Δοκιμή](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ Υποστήριξης**: [Υποστήριξη Aspose](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ Υποστήριξης**: [Υποστήριξη Aspose](https://forum.aspose.com/c/imaging/14)
 
 Αυτό το σεμινάριο έχει σχεδιαστεί για να σας καθοδηγήσει στην αποτελεσματική χρήση του Aspose.Imaging για .NET, διασφαλίζοντας ότι θα αξιοποιήσετε στο έπακρο αυτήν την ισχυρή βιβλιοθήκη. Καλή κωδικοποίηση!
 

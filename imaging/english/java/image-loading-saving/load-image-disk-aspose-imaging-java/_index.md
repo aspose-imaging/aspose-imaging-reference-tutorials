@@ -189,7 +189,7 @@ Ready to take your skills further? Try implementing this solution in your next p
 - [Purchase Options](https://purchase.aspose.com/buy)
 - [Free Trial Access](https://releases.aspose.com/imaging/java/)
 - [Temporary License Application](https://purchase.aspose.com/temporary-license/)
-- [Community Support](https://forum.aspose.com/c/imaging/10)
+- [Community Support](https://forum.aspose.com/c/imaging/14)
 
 By following this guide, you're well-equipped to harness the power of Aspose.Imaging for Java in your projects. Happy coding!
 

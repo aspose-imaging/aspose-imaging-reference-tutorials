@@ -195,7 +195,7 @@ Vid det här laget bör du ha en gedigen förståelse för hur man skapar och ma
 - **Köpa:** [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Få en gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens:** [Ansök om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden är du väl rustad att utnyttja Aspose.Imaging för .NETs fulla potential i dina projekt. Lycka till med kodningen!
 

@@ -219,7 +219,7 @@ A5: ใช่ Aspose.Imaging ช่วยให้ปรับแต่งฟิ
 - **ซื้อ:** [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี:** [ทดลองใช้ Aspose.Imaging ฟรี](https://releases.aspose.com/imaging/net/)
 - **ใบอนุญาตชั่วคราว:** [รับใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **ฟอรั่มการสนับสนุน:** [การสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10) 
+- **ฟอรั่มการสนับสนุน:** [การสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14) 
 
 เริ่มต้นการเดินทางของคุณด้วย Aspose.Imaging สำหรับ .NET วันนี้ และปฏิวัติวิธีการทำงานกับรูปภาพของคุณ!
 

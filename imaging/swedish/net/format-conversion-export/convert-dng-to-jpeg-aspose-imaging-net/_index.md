@@ -152,7 +152,7 @@ A: Absolut! Dess effektiva bearbetning gör den idealisk för serversideskonvert
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Kom igång med Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Begär en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

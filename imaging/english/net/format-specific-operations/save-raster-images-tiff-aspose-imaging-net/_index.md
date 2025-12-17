@@ -175,7 +175,7 @@ Ready to implement these techniques? Try applying them to your projects and see 
 - **Purchase:** [Buy License](https://purchase.aspose.com/buy)
 - **Free Trial:** [Try It Now](https://releases.aspose.com/imaging/net/)
 - **Temporary License:** [Request Here](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Ask Questions](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Ask Questions](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

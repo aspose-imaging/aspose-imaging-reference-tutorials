@@ -152,7 +152,7 @@ Siap untuk mulai menerapkan solusi ini dalam proyek Anda? Pelajari Aspose.Imagin
 - **Beli Lisensi:** [Beli Sekarang](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Memulai](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara:** [Minta di sini](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan:** [Komunitas Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan:** [Komunitas Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda dengan Aspose.Imaging untuk .NET hari ini dan tingkatkan kemampuan pemrosesan gambar aplikasi Anda!
 

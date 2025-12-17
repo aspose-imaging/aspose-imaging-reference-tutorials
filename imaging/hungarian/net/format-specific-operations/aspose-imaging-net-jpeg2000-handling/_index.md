@@ -179,7 +179,7 @@ Gyakori problémák közé tartozik a képobjektumok nem megfelelő megsemmisít
 Látogatás [Aspose weboldala](https://purchase.aspose.com/temporary-license/) ideiglenes engedélyt kérni.
 
 ### Hol találok támogatást, ha problémákba ütközöm az Aspose.Imaging .NET használatával?
-Segítségért látogasson el a [Aspose Fórum](https://forum.aspose.com/c/imaging/10) vagy tekintse meg kiterjedt dokumentációjukat és forrásaikat.
+Segítségért látogasson el a [Aspose Fórum](https://forum.aspose.com/c/imaging/14) vagy tekintse meg kiterjedt dokumentációjukat és forrásaikat.
 
 ## Erőforrás
 - **Dokumentáció:** Részletes útmutatók megtekintése itt: [Aspose dokumentáció](https://reference.aspose.com/imaging/net/)

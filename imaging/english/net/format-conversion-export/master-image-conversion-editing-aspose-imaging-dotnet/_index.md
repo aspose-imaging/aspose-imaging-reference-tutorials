@@ -224,7 +224,7 @@ A5: Yes, Aspose.Imaging allows comprehensive customization of metadata fields to
 - **Purchase:** [Buy a License](https://purchase.aspose.com/buy)
 - **Free Trial:** [Try Aspose.Imaging for Free](https://releases.aspose.com/imaging/net/)
 - **Temporary License:** [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum:** [Aspose Support](https://forum.aspose.com/c/imaging/10) 
+- **Support Forum:** [Aspose Support](https://forum.aspose.com/c/imaging/14) 
 
 Embark on your journey with Aspose.Imaging for .NET today, and revolutionize the way you work with images!
 

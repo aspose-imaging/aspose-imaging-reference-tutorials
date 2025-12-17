@@ -249,7 +249,7 @@ Los próximos pasos incluyen explorar funciones más avanzadas de Aspose.Imaging
 - [Compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Apoyo](https://forum.aspose.com/c/imaging/10)
+- [Apoyo](https://forum.aspose.com/c/imaging/14)
 
 ¡Pruebe implementar esta solución en su próximo proyecto para aprovechar el poder de Aspose.Imaging para Java!
 

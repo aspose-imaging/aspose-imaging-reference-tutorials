@@ -177,7 +177,7 @@ try (Image image = Image.load(dataDir + "aspose-logo.jpg")) {
 - **التوثيق**:استكشف سيناريوهات الاستخدام التفصيلية في [وثائق Aspose.Imaging Java](https://reference.aspose.com/imaging/java/).
 - **تحميل**:احصل على أحدث مكتبة Aspose.Imaging من [إصدارات Aspose](https://releases.aspose.com/imaging/java/).
 - **الشراء والتجربة المجانية**:تعرف على المزيد حول الحصول على ترخيص على [صفحة الشراء](https://purchase.aspose.com/buy) أو ابدأ بفترة تجريبية مجانية.
-- **يدعم**:للاستفسارات، توجه إلى [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10).
+- **يدعم**:للاستفسارات، توجه إلى [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

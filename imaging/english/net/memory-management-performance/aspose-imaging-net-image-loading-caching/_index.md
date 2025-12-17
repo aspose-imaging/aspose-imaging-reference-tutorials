@@ -143,7 +143,7 @@ Ready to take the next step? Try implementing this solution in your project toda
 - **Purchase**: [Buy Aspose Products](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Aspose.Imaging for Free](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

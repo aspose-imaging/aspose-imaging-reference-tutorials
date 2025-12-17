@@ -182,7 +182,7 @@ Gotowy, aby wykorzystać te umiejętności w praktyce? Zanurz się głębiej w m
 4. **Co zrobić, jeśli pliki TIFF po konwersji wydają się uszkodzone?**
    - Sprawdź, czy opcje rasteryzacji odpowiadają wymaganiom Twojego obrazu i sprawdź ścieżki plików pod kątem błędów.
 5. **Czy jest dostępna pomoc techniczna, jeśli napotkam problemy z Aspose.Imaging?**
-   - Tak, odwiedź [Forum Aspose](https://forum.aspose.com/c/imaging/10) Jeśli potrzebujesz wsparcia ze strony społeczności, skontaktuj się z zespołem wsparcia bezpośrednio.
+   - Tak, odwiedź [Forum Aspose](https://forum.aspose.com/c/imaging/14) Jeśli potrzebujesz wsparcia ze strony społeczności, skontaktuj się z zespołem wsparcia bezpośrednio.
 
 ## Zasoby
 - [Dokumentacja Aspose.Imaging](https://reference.aspose.com/imaging/net/)

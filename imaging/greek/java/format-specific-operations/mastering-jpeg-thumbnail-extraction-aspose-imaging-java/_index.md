@@ -193,7 +193,7 @@ try (JpegImage image = (JpegImage) Image.load("YOUR_DOCUMENT_DIRECTORY/aspose-lo
    - Μπορείτε να λάβετε μια προσωρινή άδεια χρήσης για αξιολόγηση ή να αγοράσετε μια πλήρη άδεια χρήσης για χρήση στην παραγωγή.
 
 5. **Πού μπορώ να βρω υποστήριξη αν αντιμετωπίσω προβλήματα;**  
-   - Επισκεφθείτε το [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10) για υποστήριξη από την κοινότητα και την επίσημη κοινότητα.
+   - Επισκεφθείτε το [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14) για υποστήριξη από την κοινότητα και την επίσημη κοινότητα.
 
 ## Πόροι
 
@@ -202,7 +202,7 @@ try (JpegImage image = (JpegImage) Image.load("YOUR_DOCUMENT_DIRECTORY/aspose-lo
 - Αγορά: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - Δωρεάν δοκιμή: [Διαθέσιμες δωρεάν δοκιμές](https://releases.aspose.com/imaging/java/)
 - Προσωρινή Άδεια: [Αίτηση για προσωρινή άδεια](https://purchase.aspose.com/temporary-license/)
-- Υποστήριξη: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- Υποστήριξη: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Με αυτούς τους πόρους, είστε εξοπλισμένοι για να αξιοποιήσετε στο έπακρο το Aspose.Imaging στα έργα σας στην Java. Καλή κωδικοποίηση!
 

@@ -227,7 +227,7 @@ I den här handledningen utforskade vi hur man återställer och hanterar TIFF-b
    - Ja, med korrekt licens är den idealisk för professionella och företagsapplikationer.
 
 5. **Var kan jag hitta fler resurser om Aspose.Imaging?**
-   - Besök [Aspose-dokumentation](https://reference.aspose.com/imaging/java/) och den [supportforum](https://forum.aspose.com/c/imaging/10) för detaljerade guider och hjälp från communityn.
+   - Besök [Aspose-dokumentation](https://reference.aspose.com/imaging/java/) och den [supportforum](https://forum.aspose.com/c/imaging/14) för detaljerade guider och hjälp från communityn.
 
 ## Resurser
 
@@ -236,7 +236,7 @@ I den här handledningen utforskade vi hur man återställer och hanterar TIFF-b
 - **Köpa**: https://purchase.aspose.com/buy
 - **Gratis provperiod**: https://releases.aspose.com/imaging/java/
 - **Tillfällig licens**https://purchase.aspose.com/temporary-license/
-- **Stöd**: https://forum.aspose.com/c/imaging/10
+- **Stöd**: https://forum.aspose.com/c/imaging/14
 
 Ge dig ut på din resa för att bemästra TIFF-bildåterställning med Aspose.Imaging för Java idag!
 

@@ -187,7 +187,7 @@ Tentu saja, ia dirancang untuk menangani persyaratan pribadi dan tingkat perusah
 
 **5. Di mana saya bisa mendapatkan dukungan jika diperlukan?**
 
-Kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/10) untuk bantuan komunitas atau menghubungi tim dukungan mereka secara langsung melalui situs web mereka.
+Kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/14) untuk bantuan komunitas atau menghubungi tim dukungan mereka secara langsung melalui situs web mereka.
 
 ## Sumber daya
 

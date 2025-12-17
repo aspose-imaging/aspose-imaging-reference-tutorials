@@ -161,7 +161,7 @@ Következő lépések? Kísérletezzen különböző konfigurációkkal a `BmpOp
    - Bitmap konfigurációk módosítása belül `BmpOptions` a kimeneti minőség beállításainak módosításához.
 
 5. **Hol találok támogatást, ha problémákba ütközöm?**
-   - Látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10) közösségi és szakmai segítségért.
+   - Látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14) közösségi és szakmai segítségért.
 
 ## Erőforrás
 

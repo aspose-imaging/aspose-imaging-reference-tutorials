@@ -149,7 +149,7 @@ SVG को SVGZ में परिवर्तित करने के लि
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET के साथ अपनी यात्रा शुरू करें और आज ही अनुकूलित वेक्टर ग्राफिक्स की क्षमता का पता लगाएं!
 

@@ -192,7 +192,7 @@ Erkunden Sie die Graphics-Klasse in der API-Dokumentation, die Methoden zum Zeic
 - **Kaufen**: [Aspose-Lizenzierung kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Testen Sie Aspose.Imaging kostenlos](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Hier anfordern](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Erkunden Sie diese Ressourcen, um Ihr Verständnis zu vertiefen und die Möglichkeiten von Aspose.Imaging Java in Ihren Projekten zu erweitern. Viel Spaß beim Programmieren!
 

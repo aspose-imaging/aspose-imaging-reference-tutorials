@@ -197,7 +197,7 @@ Aspose.Imaging Java로 작업할 때 최적의 성능을 위해 다음 팁을 �
 - **구입:** 방문하다 [Aspose 구매 페이지](https://purchase.aspose.com/buy) 라이센싱 옵션
 - **무료 체험:** 시험판으로 시작하세요 [무료 체험 링크](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** 임시 액세스를 통해 얻으십시오 [임시 면허 페이지](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** 커뮤니티와 소통하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** 커뮤니티와 소통하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

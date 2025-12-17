@@ -191,7 +191,7 @@ Bước tiếp theo, hãy cân nhắc khám phá các chức năng vẽ khác do
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Đơn xin cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách tận dụng Aspose.Imaging, bạn có thể nâng cao các ứng dụng Java của mình bằng các tính năng xử lý hình ảnh mạnh mẽ. Chúc bạn viết mã vui vẻ!
 

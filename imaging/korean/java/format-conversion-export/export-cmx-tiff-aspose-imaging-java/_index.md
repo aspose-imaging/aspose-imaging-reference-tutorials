@@ -236,7 +236,7 @@ A: 효율적이기는 하지만, 많은 수의 고해상도 이미지를 처리�
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료 체험판 시작하기](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따라 하면 이제 벡터 CMX 파일을 처리하고 Aspose.Imaging for Java를 사용하여 TIFF 이미지로 내보낼 수 있습니다. 즐거운 코딩 되세요!
 

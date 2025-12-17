@@ -181,7 +181,7 @@ using (WmfImage resultImage = graphics.EndRecording())
 قم بضبط إعدادات الدقة والجودة باستخدام خيارات تكوين Aspose.Imaging للحفاظ على سلامة الصورة.
 
 **5. هل يتوفر الدعم إذا واجهت مشاكل مع Aspose.Imaging؟**
-نعم يمكنك طلب المساعدة على [منتديات Aspose](https://forum.aspose.com/c/imaging/10) للحصول على الدعم المجتمعي أو الرسمي.
+نعم يمكنك طلب المساعدة على [منتديات Aspose](https://forum.aspose.com/c/imaging/14) للحصول على الدعم المجتمعي أو الرسمي.
 
 ## موارد
 

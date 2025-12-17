@@ -171,7 +171,7 @@ Come passo successivo, valuta l'opportunità di esplorare ulteriori funzionalit�
 - Per uso commerciale, è necessario acquistare una licenza. Le licenze di prova consentono una valutazione, ma presentano delle limitazioni.
 
 **D4: È disponibile assistenza in caso di problemi?**
-- Sì, Aspose offre forum della community e opzioni di supporto professionale. Visita il loro [pagina di supporto](https://forum.aspose.com/c/imaging/10) per maggiori informazioni.
+- Sì, Aspose offre forum della community e opzioni di supporto professionale. Visita il loro [pagina di supporto](https://forum.aspose.com/c/imaging/14) per maggiori informazioni.
 
 **D5: Posso integrare questa funzionalità in un'applicazione web?**
 - Assolutamente! La libreria è compatibile con i framework .NET utilizzati nelle applicazioni web, consentendo un'integrazione perfetta.

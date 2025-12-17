@@ -169,7 +169,7 @@ A5: Kontrollera sökvägar och behörigheter till din .NET-miljö och se till at
 - **Köpa:** [Köp licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Starta gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens:** [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

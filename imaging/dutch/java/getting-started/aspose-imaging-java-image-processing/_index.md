@@ -194,7 +194,7 @@ Klaar om je beeldverwerkingsvaardigheden naar een hoger niveau te tillen? Probee
 - **Aankoop**: Verkrijg een volledige licentie via [De aankooppagina van Aspose](https://purchase.aspose.com/buy).
 - **Gratis proefperiode**: Begin met een gratis proefperiode om de functies te verkennen op [Aspose-downloads](https://releases.aspose.com/imaging/java/).
 - **Tijdelijke licentie**: Vraag een tijdelijke licentie aan voor uitgebreide tests op [Aspose Tijdelijke Licentie](https://purchase.aspose.com/temporary-license/).
-- **Steun**: Sluit je aan bij de community en zoek hulp op de [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Steun**: Sluit je aan bij de community en zoek hulp op de [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

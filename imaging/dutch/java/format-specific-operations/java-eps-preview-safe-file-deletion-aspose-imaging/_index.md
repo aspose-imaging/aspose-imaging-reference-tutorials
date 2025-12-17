@@ -220,7 +220,7 @@ A5: Ja, u kunt beginnen met een gratis proefperiode, maar voor commercieel gebru
 - **Aankoop**: Koop een licentie via [Aspose Aankoop](https://purchase.aspose.com/buy).
 - **Gratis proefperiode**: Begin met een proefperiode om functies uit te proberen op [Aspose gratis proefversies](https://releases.aspose.com/imaging/java/).
 - **Tijdelijke licentie**: Vraag er een aan via [Aspose Tijdelijke Licentie](https://purchase.aspose.com/temporary-license/).
-- **Steun**: Voor vragen kunt u contact opnemen met de [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Steun**: Voor vragen kunt u contact opnemen met de [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Door deze tutorial te volgen en Aspose.Imaging voor Java te gebruiken, bent u goed toegerust om EPS-afbeeldingsvoorbeelden te maken en bestanden veilig te verwijderen uit uw projecten. Veel plezier met coderen!
 

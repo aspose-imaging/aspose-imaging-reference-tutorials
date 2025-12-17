@@ -170,7 +170,7 @@ A3: Používejte efektivní techniky správy paměti, jako je try-with-resources
 A4: Ano, Aspose.Imaging lze použít spolu s dalšími knihovnami Java pro komplexní řešení zpracování obrazu.
 
 **Q5: Kde mohu získat podporu, pokud narazím na problémy?**
-A5: Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) za pomoc a vedení komunity.
+A5: Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) za pomoc a vedení komunity.
 
 ## Zdroje
 

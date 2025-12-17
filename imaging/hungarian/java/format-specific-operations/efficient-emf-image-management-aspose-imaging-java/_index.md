@@ -166,7 +166,7 @@ Ebben az oktatóanyagban megtanultad, hogyan kezelheted hatékonyan az EMF-képe
 - **Vásárlás:** [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Indítsa el az ingyenes próbaverziót](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Kérelem itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével felkészült leszel az EMF képek hatékony kezelésére Java alkalmazásaidban az Aspose.Imaging használatával. Jó kódolást!
 

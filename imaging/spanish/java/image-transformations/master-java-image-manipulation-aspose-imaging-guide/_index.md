@@ -213,7 +213,7 @@ Para una mayor exploración y técnicas avanzadas, consulte lo siguiente:
 - **Descargar**: Obtenga la última versión de [Lanzamientos de Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Compra**:Obtenga su licencia en [Página de compra de Aspose](https://purchase.aspose.com/buy)
 - **Prueba gratuita**:Pruebe las funciones con una licencia temporal disponible en [Prueba gratuita de Aspose](https://releases.aspose.com/imaging/java/)
-- **Apoyo**:Únete a la discusión en el [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**:Únete a la discusión en el [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 ¡Empiece a experimentar y descubra nuevas posibilidades creativas con Aspose.Imaging para Java hoy mismo!
 

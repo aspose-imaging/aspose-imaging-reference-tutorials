@@ -189,7 +189,7 @@ image.save(outputFile, pngOptions);
 ج٤: يلزم شراء ترخيص للتطبيقات التجارية. يمكنك البدء بفترة تجريبية مجانية أو التقدم بطلب للحصول على ترخيص مؤقت.
 
 **س5: أين يمكنني الحصول على الدعم إذا واجهت مشاكل؟**
-أ5: قم بزيارة [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10) للحصول على المساعدة والمناقشات المجتمعية.
+أ5: قم بزيارة [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14) للحصول على المساعدة والمناقشات المجتمعية.
 
 ## موارد
 
@@ -197,7 +197,7 @@ image.save(outputFile, pngOptions);
 - **تنزيل المكتبة:** احصل على أحدث إصدار من [إصدارات Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **رخصة الشراء:** يزور [موقع شراء Aspose](https://purchase.aspose.com/buy)
 - **النسخة التجريبية المجانية والترخيص المؤقت:** ابدأ رحلتك في [نسخة تجريبية مجانية من Aspose](https://releases.aspose.com/imaging/java/) و [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم:** تواصل مع المجتمع للحصول على المساعدة في [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم:** تواصل مع المجتمع للحصول على المساعدة في [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 ابدأ رحلتك مع Aspose.Imaging Java اليوم، وأضف الحياة إلى مشاريع التصوير الرقمي الخاصة بك!
 

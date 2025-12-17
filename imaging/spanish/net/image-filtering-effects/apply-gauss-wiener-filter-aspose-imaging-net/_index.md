@@ -133,7 +133,7 @@ Al aplicar filtros, tenga en cuenta estos consejos para optimizar el rendimiento
 
 ¡Felicitaciones! Has aplicado correctamente el filtro Gauss-Wiener a imágenes en color con Aspose.Imaging .NET. Este tutorial te ha proporcionado los conocimientos necesarios para optimizar tus tareas de procesamiento de imágenes, garantizando resultados más limpios y precisos.
 
-Para seguir explorando las capacidades de Aspose.Imaging, considere explorar otros filtros y funciones disponibles en la biblioteca. Si tiene alguna pregunta o necesita ayuda, consulte [Foro de Aspose](https://forum.aspose.com/c/imaging/10).
+Para seguir explorando las capacidades de Aspose.Imaging, considere explorar otros filtros y funciones disponibles en la biblioteca. Si tiene alguna pregunta o necesita ayuda, consulte [Foro de Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Sección de preguntas frecuentes
 
@@ -158,7 +158,7 @@ R: Una licencia de prueba permite acceso completo para realizar pruebas, pero pu
 - **Licencia de compra:** [Compra de Aspose](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Licencia de prueba](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal:** [Solicitar licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Foro de soporte:** [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Foro de soporte:** [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Explora estos recursos para profundizar tus conocimientos y mejorar tus proyectos de procesamiento de imágenes. ¡Que disfrutes programando!
 

@@ -244,7 +244,7 @@ new File("YOUR_OUTPUT_DIRECTORY/result.png").delete();
 - **Покупка**: [Купить Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Бесплатная пробная версия Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия**: [Запросить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: [Форум поддержки Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: [Форум поддержки Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Используя Aspose.Imaging для Java, вы можете легко интегрировать высококачественную визуализацию шрифтов и текста EMF в свои приложения, улучшая как функциональность, так и визуальную привлекательность.
 

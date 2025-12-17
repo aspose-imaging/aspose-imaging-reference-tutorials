@@ -176,7 +176,7 @@ A5: その通りです。他のライブラリと簡単に統合して使用で�
 - **購入**： [ライセンスを購入する](https://purchase.aspose.com/buy)
 - **無料トライアル**： [ここから始めましょう](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [今すぐ申し込む](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [コミュニティフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [コミュニティフォーラム](https://forum.aspose.com/c/imaging/14)
 
 この包括的なガイドを読めば、Aspose.Imaging を使って Java で画像の読み込みとサイズ変更をマスターできます。コーディングを楽しみましょう！
 

@@ -202,7 +202,7 @@ public class SaveWMFAsPNG {
    - 在批次期間使用適當的光柵化設定並監控系統資源。
 
 5. **如果遇到問題，如何獲得支援？**
-   - 訪問 [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/10) 尋求社區支持或聯繫他們的專業支援團隊。
+   - 訪問 [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/14) 尋求社區支持或聯繫他們的專業支援團隊。
 
 ## 資源
 

@@ -170,7 +170,7 @@ A: Aspose.Imaging поддерживает множество форматов, 
 A: Да, вы можете задать пользовательское время кадра, используя `ApngOptions`.
 
 **В: Как устранить неполадки с Aspose.Imaging?**
-A: Обратитесь на форум поддержки. [здесь](https://forum.aspose.com/c/imaging/10) за помощь.
+A: Обратитесь на форум поддержки. [здесь](https://forum.aspose.com/c/imaging/14) за помощь.
 
 ## Ресурсы
 - **Документация**: [Справочник Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -178,7 +178,7 @@ A: Обратитесь на форум поддержки. [здесь](https:/
 - **Покупка**: [Купить лицензию](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Начать бесплатно](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия**: [Подать заявку здесь](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: [Форум Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: [Форум Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

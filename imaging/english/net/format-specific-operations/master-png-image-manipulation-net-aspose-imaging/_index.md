@@ -211,7 +211,7 @@ Absolutely! Obtain a license through their purchase page if you plan on using it
 - **Purchase**: [Aspose.Imaging Purchase Page](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start a Free Trial](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum**: [Aspose Imaging Support](https://forum.aspose.com/c/imaging/10)
+- **Support Forum**: [Aspose Imaging Support](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

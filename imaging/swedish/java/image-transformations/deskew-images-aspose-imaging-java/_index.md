@@ -182,7 +182,7 @@ A: Efter att du har köpt eller erhållit en tillfällig licens, konfigurera dit
 - **Köpa:** [Köp Aspose-licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Starta en gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Begär tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Vi hoppas att den här guiden hjälper dig att effektivt implementera snedkorrigeringsfunktioner i dina Java-applikationer med Aspose.Imaging. Lycka till med kodningen!
 

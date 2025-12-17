@@ -217,7 +217,7 @@ Aspose.Imaging for .NET'i kullanarak, görüntüleri verimli bir şekilde yükle
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'i Ücretsiz Deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, artık Aspose.Imaging kullanarak .NET uygulamalarınızda gelişmiş görüntü işleme özelliklerini uygulamak için donanımlısınız. Daha fazla keşfetmenin ve projelerinizi geliştirmenin tadını çıkarın!
 

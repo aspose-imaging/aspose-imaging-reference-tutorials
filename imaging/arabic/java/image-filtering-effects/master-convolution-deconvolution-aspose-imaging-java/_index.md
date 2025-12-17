@@ -195,7 +195,7 @@ for (int i = 0; i < deconvFilters.length; i++) {
 - **شراء**: [شراء Aspose Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [ابدأ بإصدار تجريبي مجاني](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [اطلب هنا](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم**: [اطرح الأسئلة](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم**: [اطرح الأسئلة](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا الدليل، ستكون على الطريق الصحيح لإتقان إمكانيات معالجة الصور القوية التي يوفرها Aspose.Imaging لجافا. برمجة ممتعة!
 

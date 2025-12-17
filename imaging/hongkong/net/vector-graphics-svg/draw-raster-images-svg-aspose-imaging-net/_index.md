@@ -187,7 +187,7 @@ using (SvgImage resultImage = graphics.EndRecording())
 - **購買**： [購買許可證](https://purchase.aspose.com/buy)
 - **免費試用**： [開始](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [在此請求](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 立即踏上 Aspose.Imaging for .NET 之旅，改變您在應用程式中處理圖像的方式！
 

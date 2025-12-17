@@ -183,7 +183,7 @@ Bu çözümleri projelerinize uygulamayı denemenizi ve iş akışınızı nası
 - **Satın almak**: Uzun süreli erişime ihtiyacınız varsa lisans satın almayı düşünün.
 - **Ücretsiz Deneme**: Özellikleri keşfetmek için ücretsiz denemeyle başlayın [Aspose Ücretsiz Deneme](https://releases.aspose.com/imaging/java/).
 - **Geçici Lisans**: Genişletilmiş değerlendirme için geçici bir lisans edinin [Aspose Geçici Lisans](https://purchase.aspose.com/temporary-license/).
-- **Destek**: Tartışmalara katılın ve yardım alın [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Destek**: Tartışmalara katılın ve yardım alın [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Keyifli kodlamalar ve görüntü işleme görevleriniz kusursuz ve verimli olsun!
 

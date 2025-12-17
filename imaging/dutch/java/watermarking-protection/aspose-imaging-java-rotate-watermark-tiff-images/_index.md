@@ -258,7 +258,7 @@ A5: Overweeg om grote afbeeldingen in kleinere stukken te verwerken en maak daar
 - **Licentie kopen:** [Koop een licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Ontvang uw gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum:** [Aspose.Imaging-ondersteuning](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum:** [Aspose.Imaging-ondersteuning](https://forum.aspose.com/c/imaging/14)
 
 We hopen dat deze tutorial je de vaardigheden heeft gegeven om je beeldverwerkingstaken met Aspose.Imaging voor Java te verbeteren. Veel plezier met coderen!
 

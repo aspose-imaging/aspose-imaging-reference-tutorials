@@ -181,7 +181,7 @@ Chúng tôi khuyến khích bạn thử triển khai giải pháp này trong cá
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn này cung cấp cho bạn kiến thức để xử lý các tác vụ ghép ảnh TIFF phức tạp bằng Aspose.Imaging cho Java. Chúc bạn viết mã vui vẻ!
 

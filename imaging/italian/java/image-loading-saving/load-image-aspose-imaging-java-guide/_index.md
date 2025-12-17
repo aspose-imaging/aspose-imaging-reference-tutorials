@@ -177,7 +177,7 @@ Vi invitiamo a provare a implementare questa soluzione ed esplorare le funzional
 - **Documentazione**: Esplora scenari di utilizzo dettagliati su [Documentazione Java di Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - **Scaricamento**: Ottieni l'ultima libreria Aspose.Imaging da [Rilasci di Aspose](https://releases.aspose.com/imaging/java/).
 - **Acquisto e prova gratuita**: Scopri di più sull'acquisizione di una licenza su [pagina di acquisto](https://purchase.aspose.com/buy) oppure inizia con una prova gratuita.
-- **Supporto**: Per domande, vai a [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Supporto**: Per domande, vai a [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

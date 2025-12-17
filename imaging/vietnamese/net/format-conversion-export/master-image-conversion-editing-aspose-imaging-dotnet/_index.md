@@ -219,7 +219,7 @@ A5: Có, Aspose.Imaging cho phép tùy chỉnh toàn diện các trường siêu
 - **Mua:** [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Dùng thử Aspose.Imaging miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời:** [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ:** [Hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Diễn đàn hỗ trợ:** [Hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Hãy bắt đầu hành trình của bạn với Aspose.Imaging cho .NET ngay hôm nay và cách mạng hóa cách bạn làm việc với hình ảnh!
 

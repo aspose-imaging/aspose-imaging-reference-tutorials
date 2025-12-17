@@ -171,7 +171,7 @@ Herzlichen Glückwunsch! Sie haben erfolgreich gelernt, wie Sie SVG-Bilder mit A
 
 **Nächste Schritte:**
 - Entdecken Sie weitere Funktionen von Aspose.Imaging wie Bildtransformationen und Filterung.
-- Treten Sie der [Aspose.Imaging-Forum](https://forum.aspose.com/c/imaging/10) um Erkenntnisse auszutauschen oder Rat von anderen Entwicklern einzuholen.
+- Treten Sie der [Aspose.Imaging-Forum](https://forum.aspose.com/c/imaging/14) um Erkenntnisse auszutauschen oder Rat von anderen Entwicklern einzuholen.
 
 Sind Sie bereit, Ihre Java-Projekte auf die nächste Stufe zu heben? Tauchen Sie noch heute in die Implementierung dieser Lösungen ein!
 
@@ -199,7 +199,7 @@ Sind Sie bereit, Ihre Java-Projekte auf die nächste Stufe zu heben? Tauchen Sie
 - [Lizenz erwerben](https://purchase.aspose.com/buy)
 - [Kostenloser Testdownload](https://releases.aspose.com/imaging/java/)
 - [Temporäre Lizenz anfordern](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Beginnen Sie noch heute mit der Integration von Aspose.Imaging für Java und optimieren Sie Ihre Bildverarbeitungs-Workflows!
 

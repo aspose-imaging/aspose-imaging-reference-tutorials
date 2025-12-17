@@ -183,7 +183,7 @@ Siap menerapkan solusi ini? Pelajari kodenya sekarang!
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Manfaatkan kekuatan Aspose.Imaging untuk Java untuk meningkatkan tugas pemrosesan gambar Anda dengan mudah dan tepat!
 

@@ -151,7 +151,7 @@ Bạn đã sẵn sàng thử chưa? Hãy áp dụng các bước này vào dự 
 - **Mua**: [Mua sản phẩm Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

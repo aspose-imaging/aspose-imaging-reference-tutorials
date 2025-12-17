@@ -149,7 +149,7 @@ Bạn đã học cách chuyển đổi tệp SVG sang định dạng SVGZ đư�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình của bạn với Aspose.Imaging cho .NET và khám phá tiềm năng của đồ họa vector được tối ưu hóa ngay hôm nay!
 

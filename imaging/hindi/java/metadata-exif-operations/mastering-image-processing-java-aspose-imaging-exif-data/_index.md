@@ -217,7 +217,7 @@ public class AccessJpegEXIFTags {
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस अनुरोध](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 अब जब आपके पास सभी उपकरण और ज्ञान उपलब्ध हैं, तो अब समय आ गया है कि आप अपने जावा अनुप्रयोगों में इन शक्तिशाली सुविधाओं को लागू करना शुरू करें!
 

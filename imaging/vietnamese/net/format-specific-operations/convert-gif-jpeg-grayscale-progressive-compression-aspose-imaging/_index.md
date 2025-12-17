@@ -153,7 +153,7 @@ A: Có, nó được thiết kế để hoạt động trên nhiều phiên bả
 - **Mua giấy phép**: [Trang mua hàng Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Dùng thử Aspose.Imaging miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Cộng đồng hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Cộng đồng hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm chủ quy trình chuyển đổi với Aspose.Imaging, bạn sẽ được trang bị để xử lý các tác vụ xử lý hình ảnh phức tạp một cách hiệu quả trong các ứng dụng .NET của mình. Chúc bạn viết mã vui vẻ!
 

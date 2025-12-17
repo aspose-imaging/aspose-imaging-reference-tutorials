@@ -155,7 +155,7 @@ Aspose.Imaging を使用する際は、パフォーマンスを最適化する�
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアルダウンロード](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 今すぐ Aspose.Imaging を使って JPEG EXIF の変更をマスターする旅に出かけましょう。
 

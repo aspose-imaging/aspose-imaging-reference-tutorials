@@ -144,7 +144,7 @@ EXIF 데이터 추출은 다양한 실제 적용 분야에 활용됩니다.
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging을 사용해 보세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허 취득](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 커뮤니티 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 커뮤니티 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따르면 Aspose.Imaging을 사용하여 Java 애플리케이션에서 EXIF 데이터를 효율적으로 읽는 기능을 구현할 수 있습니다.
 

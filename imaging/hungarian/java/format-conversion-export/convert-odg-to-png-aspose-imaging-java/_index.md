@@ -189,7 +189,7 @@ Ebben az oktatóanyagban megtanultad, hogyan konvertálhatsz hatékonyan ODG fá
 - **Vásárlás:** [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Próbáld ki az Aspose.Imaging-et](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum:** [Aspose támogató közösség](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum:** [Aspose támogató közösség](https://forum.aspose.com/c/imaging/14)
 
 Ez az útmutató segít zökkenőmentesen beépíteni az Aspose.Imaging-et Java-projektjeibe, biztosítva a kiváló minőségű képkonverziókat minden alkalommal. Jó kódolást!
 

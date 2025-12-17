@@ -223,7 +223,7 @@ A5: Umožňuje číst z konkrétních pozic v souboru nebo na ně zapisovat, co�
 - [Stáhnout Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze a dočasná licence](https://releases.aspose.com/imaging/java/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10) 
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14) 
 
 Vydejte se na svou cestu s Aspose.Imaging Java ještě dnes a odemkněte potenciál vysoce výkonného zpracování obrazu ve svých projektech!
 

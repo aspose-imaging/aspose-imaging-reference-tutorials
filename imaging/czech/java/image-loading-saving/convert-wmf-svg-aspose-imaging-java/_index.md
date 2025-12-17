@@ -190,7 +190,7 @@ Gratulujeme k dokončení tohoto průvodce! Nyní máte dovednosti převádět s
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum komunity Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum komunity Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto komplexního průvodce můžete efektivně implementovat Aspose.Imaging pro převod souborů WMF do SVG v Javě a prozkoumat jeho širokou škálu možností. Přejeme vám příjemné programování!
 

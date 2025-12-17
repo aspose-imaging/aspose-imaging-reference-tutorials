@@ -169,7 +169,7 @@ A3: Die Bibliothek behandelt solche Fälle ordnungsgemäß, indem sie für fehle
 A4: Die Testversion kann Nutzungsbeschränkungen wie ein Wasserzeichen oder Verarbeitungslimits aufweisen.
 
 **F5: Wie kann ich Support erhalten, wenn ich Probleme mit Aspose.Imaging habe?**
-A5: Besuchen Sie die [Aspose-Foren](https://forum.aspose.com/c/imaging/10) für die Unterstützung durch die Community und von offizieller Seite.
+A5: Besuchen Sie die [Aspose-Foren](https://forum.aspose.com/c/imaging/14) für die Unterstützung durch die Community und von offizieller Seite.
 
 ## Ressourcen
 
@@ -178,7 +178,7 @@ A5: Besuchen Sie die [Aspose-Foren](https://forum.aspose.com/c/imaging/10) für 
 - **Kaufen**: Erwerben Sie eine Lizenz über [Aspose Kauf](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: Starten Sie mit einer kostenlosen Testversion unter [Kostenlose Testversion von Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: Fordern Sie eine temporäre Lizenz an von [Aspose Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: Diskutieren Sie mit in [Aspose-Supportforen](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: Diskutieren Sie mit in [Aspose-Supportforen](https://forum.aspose.com/c/imaging/14)
 
 Begeben Sie sich noch heute auf Ihre Reise mit Aspose.Imaging für Java und erschließen Sie sich neue Möglichkeiten in der Bildverarbeitung!
 

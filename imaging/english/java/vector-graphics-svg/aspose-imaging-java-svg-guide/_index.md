@@ -178,7 +178,7 @@ Congratulations! You've successfully learned how to load and save SVG images usi
 
 **Next Steps:**
 - Explore other features of Aspose.Imaging like image transformations and filtering.
-- Join the [Aspose.Imaging forum](https://forum.aspose.com/c/imaging/10) to share insights or seek advice from fellow developers.
+- Join the [Aspose.Imaging forum](https://forum.aspose.com/c/imaging/14) to share insights or seek advice from fellow developers.
 
 Ready to take your Java projects to the next level? Dive into implementing these solutions today!
 
@@ -206,7 +206,7 @@ Ready to take your Java projects to the next level? Dive into implementing these
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial Download](https://releases.aspose.com/imaging/java/)
 - [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Start integrating Aspose.Imaging for Java today and streamline your image processing workflows!
 

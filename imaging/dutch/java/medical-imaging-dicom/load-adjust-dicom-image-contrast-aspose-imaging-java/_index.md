@@ -179,7 +179,7 @@ Klaar om uw medische beeldvormingsprojecten te verbeteren? Begin vandaag nog met
 - **Licentie kopen:** [Nu kopen](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Start uw gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - **Aanvraag tijdelijke licentie:** [Hier aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum:** [Aspose Ondersteuningscommunity](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum:** [Aspose Ondersteuningscommunity](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u goed toegerust om DICOM-beeldverwerkingstaken in uw Java-applicaties uit te voeren met Aspose.Imaging. Veel plezier met coderen!
 

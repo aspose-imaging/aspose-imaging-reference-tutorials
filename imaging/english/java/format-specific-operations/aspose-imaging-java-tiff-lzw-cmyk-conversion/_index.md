@@ -186,7 +186,7 @@ A3: You can start with a free trial license which allows you to test all feature
 A4: Use batch processing and efficient resource management techniques like disposing of images after use. Also, consider optimizing the resolution before conversion if possible.
 
 **Q5: Where can I find support if I encounter issues with Aspose.Imaging?**
-A5: For any queries or troubleshooting, visit [Aspose's support forum](https://forum.aspose.com/c/imaging/10) where you can find assistance from both the community and official representatives.
+A5: For any queries or troubleshooting, visit [Aspose's support forum](https://forum.aspose.com/c/imaging/14) where you can find assistance from both the community and official representatives.
 
 ## Resources
 

@@ -153,7 +153,7 @@ Voor meer informatie en bronnen:
 - **Licentie kopen:** [Nu kopen](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Aan de slag met een gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie:** [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum:** [Aspose.Imaging-ondersteuning](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum:** [Aspose.Imaging-ondersteuning](https://forum.aspose.com/c/imaging/14)
 
 Met deze handleiding bent u goed toegerust om DICOM naar PNG-conversie te integreren in uw .NET-projecten. Veel plezier met coderen!
 

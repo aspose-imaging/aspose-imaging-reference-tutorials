@@ -197,7 +197,7 @@ import com.aspose.imaging.imageoptions.GifOptions;
 - **شراء:** يزور [صفحة شراء Aspose](https://purchase.aspose.com/buy) لخيارات الترخيص
 - **نسخة تجريبية مجانية:** ابدأ بالتجربة في [رابط التجربة المجانية](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة:** احصل على وصول مؤقت عبر [صفحة الترخيص المؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** التفاعل مع المجتمع على [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** التفاعل مع المجتمع على [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -178,7 +178,7 @@ public class LoadSVG {
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用版下載](https://releases.aspose.com/imaging/java/)
 - [臨時許可證申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 現在您已經掌握了使用 Aspose.Imaging for Java 加載 SVG 圖像的知識，可以充滿信心和創造力地開始您的專案！
 

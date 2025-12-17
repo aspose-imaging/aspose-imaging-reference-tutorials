@@ -164,7 +164,7 @@ Pronto para experimentar? Implemente esta solução no seu projeto hoje mesmo!
    - Otimize seu ambiente e código para gerenciamento de memória, usando a coleta de lixo do Java de forma eficaz.
 
 5. **Há suporte disponível caso eu encontre problemas?**
-   - Você pode procurar assistência no [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10).
+   - Você pode procurar assistência no [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Recursos
 

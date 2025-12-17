@@ -182,7 +182,7 @@ In dieser Anleitung haben Sie gelernt, wie Sie Aspose.Imaging für Java effektiv
 - **Herunterladen**: [Aspose.Imaging-Veröffentlichungen](https://releases.aspose.com/imaging/java/)
 - **Kaufen**: [Aspose-Lizenzierungsoptionen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Holen Sie sich eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum**: [Aspose Support-Community](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum**: [Aspose Support-Community](https://forum.aspose.com/c/imaging/14)
 
 Nachdem Sie nun über alle Tools und Kenntnisse verfügen, können Sie mit Aspose.Imaging für Java experimentieren, um Ihrer Kreativität bei der Bildverarbeitung freien Lauf zu lassen!
 

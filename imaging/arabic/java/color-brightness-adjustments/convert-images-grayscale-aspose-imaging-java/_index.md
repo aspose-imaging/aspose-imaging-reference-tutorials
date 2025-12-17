@@ -188,7 +188,7 @@ rasterCachedImage.save(outputDir + "Grayscaling_out.jpg");
 - **تحميل**:احصل على أحدث إصدار من [إصدارات Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **الشراء والتجربة**:تعرف على خيارات الشراء وابدأ بفترة تجريبية مجانية [هنا](https://purchase.aspose.com/buy)
 - **رخصة مؤقتة**:الحصول على ترخيص مؤقت [هنا](https://purchase.aspose.com/temporary-license/)
-- **يدعم**:انضم إلى منتدى المجتمع على [منتدى Aspose للتصوير](https://forum.aspose.com/c/imaging/10)
+- **يدعم**:انضم إلى منتدى المجتمع على [منتدى Aspose للتصوير](https://forum.aspose.com/c/imaging/14)
 
 نأمل أن يُمكّنك هذا الدليل من استخدام Aspose.Imaging لجافا بفعالية في مشاريعك. برمجة ممتعة!
 

@@ -178,7 +178,7 @@ Klaar om deze oplossingen te implementeren? Probeer het eens in uw volgende proj
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Implementeer deze technieken in uw Java-projecten om het volledige potentieel van Aspose.Imaging te benutten voor naadloze beeldverwerking en -manipulatie.
 

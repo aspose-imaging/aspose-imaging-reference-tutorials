@@ -193,7 +193,7 @@ Cobalah menerapkan teknik ini dalam proyek Anda hari ini dan rasakan kekuatan As
 - **Pembelian:** Beli lisensi melalui [Portal Pembelian Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** Akses lisensi sementara melalui [Uji Coba Gratis Aspose](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** Dapatkan satu di [Aspose Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** Bergabunglah dengan komunitas dan dapatkan bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** Bergabunglah dengan komunitas dan dapatkan bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda dapat menggabungkan Aspose.Imaging secara efektif ke dalam proyek Java Anda untuk menangani pemuatan dan rotasi gambar dengan mudah. Selamat membuat kode!
 

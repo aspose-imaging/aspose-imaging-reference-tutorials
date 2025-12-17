@@ -166,7 +166,7 @@ Como siguiente paso, considere experimentar con otros formatos compatibles con A
 - **Compra**:Comprar una licencia a través de [Portal de compras de Aspose](https://purchase.aspose.com/buy).
 - **Prueba gratuita**:Comience con una prueba gratuita a través de [Descargas](https://releases.aspose.com/imaging/net/).
 - **Licencia temporal**:Solicitar uno [aquí](https://purchase.aspose.com/temporary-license/).
-- **Apoyo**:Únete a la comunidad en [Foros de Aspose](https://forum.aspose.com/c/imaging/10) para ayuda y discusiones.
+- **Apoyo**:Únete a la comunidad en [Foros de Aspose](https://forum.aspose.com/c/imaging/14) para ayuda y discusiones.
 
 Esperamos que esta guía te ayude a integrar la exportación de imágenes vectoriales en tus proyectos. ¡Que disfrutes programando!
 

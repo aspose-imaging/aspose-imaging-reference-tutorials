@@ -167,7 +167,7 @@ Utforska ytterligare funktioner genom att dyka in i [Aspose-dokumentation](https
 - **Köpa:** [Köp Aspose-licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Prova gratis utvärdering](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens:** [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

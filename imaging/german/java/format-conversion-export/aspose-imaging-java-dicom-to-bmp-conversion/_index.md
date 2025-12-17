@@ -179,7 +179,7 @@ In diesem Tutorial haben Sie gelernt, wie Sie DICOM-Bilder laden und mit Aspose.
 - [Kaufoptionen](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit dieser Anleitung sind Sie nun bestens gerüstet, um DICOM-Bilder mit Aspose.Imaging für Java zu verarbeiten. Viel Spaß beim Programmieren!
 

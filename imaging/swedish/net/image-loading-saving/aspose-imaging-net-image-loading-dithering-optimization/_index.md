@@ -159,7 +159,7 @@ Redo att komma igång? Fördjupa dig i att implementera dessa lösningar och se 
 - **Köpa:** [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Prova Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens:** [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose.Imaging supportforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose.Imaging supportforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

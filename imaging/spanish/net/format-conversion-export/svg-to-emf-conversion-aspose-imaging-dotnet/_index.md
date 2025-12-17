@@ -133,7 +133,7 @@ Ya aprendió a convertir archivos SVG al formato EMF con Aspose.Imaging para .NE
 **Próximos pasos:**
 - Explora más funciones de Aspose.Imaging
 - Experimente con diferentes opciones de conversión
-- Comparte comentarios o haz preguntas en el [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- Comparte comentarios o haz preguntas en el [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 ¿Listo para implementar estas habilidades? ¡Sumérgete en tu proyecto y empieza a convertir hoy mismo!
 
@@ -160,7 +160,7 @@ A5: Verifique las rutas de archivos, asegúrese de que Aspose.Imaging esté inst
 - **Compra**: [Comprar una licencia](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Comience con una prueba gratuita](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal**: [Solicitar una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Explora estos recursos para obtener orientación y apoyo más detallados mientras implementas tu solución. ¡Que disfrutes programando!
 

@@ -203,7 +203,7 @@ A5: Látogassa meg a [Aspose dokumentáció](https://reference.aspose.com/imagin
 - **Vásárlás**https://purchase.aspose.com/buy
 - **Ingyenes próbaverzió**https://releases.aspose.com/imaging/java/
 - **Ideiglenes engedély**https://purchase.aspose.com/temporary-license/
-- **Támogatás**https://forum.aspose.com/c/imaging/10
+- **Támogatás**https://forum.aspose.com/c/imaging/14
 
 Böngészd át ezeket az anyagokat, hogy tovább mélyítsd az Aspose.Imaging megértését és alkalmazását Java nyelven. Jó kódolást!
 

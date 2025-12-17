@@ -178,7 +178,7 @@ A: Även om Aspose.Imaging är optimerat för prestanda, överväg att använda 
 - **Köpa**: [Köp Aspose.Imaging-licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Börja med en gratis provperiod av Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Begär en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Gå med i Aspose-forumet för stöd](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Gå med i Aspose-forumet för stöd](https://forum.aspose.com/c/imaging/14)
 
 Med dessa resurser till ditt förfogande är du nu rustad att ta dig an TIFF-bildbehandling med självförtroende. Lycka till med kodningen!
 

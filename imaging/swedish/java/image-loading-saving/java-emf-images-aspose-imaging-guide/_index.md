@@ -179,7 +179,7 @@ A5: Följ stegen som beskrivs under licensförvärv för att hämta och aktivera
 - **Köpa**: [Köp licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Börja här](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Begär nu](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Gemenskapsforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Gemenskapsforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att utnyttja dessa resurser kan du utforska Aspose.Imagings möjligheter ytterligare och ta itu med eventuella utmaningar du stöter på under implementeringen. Lycka till med kodningen!
 

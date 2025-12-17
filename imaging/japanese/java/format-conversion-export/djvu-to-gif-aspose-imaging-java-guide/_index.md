@@ -210,7 +210,7 @@ DjVu 画像を GIF に変換すると、次のようないくつかのシナリ�
 - **購入：** [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料トライアルを始める](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このチュートリアルに従うことで、Aspose.Imaging for Java をプロジェクトで活用できるようになります。コーディングを楽しみましょう！
 

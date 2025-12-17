@@ -228,7 +228,7 @@ image.save(outDir + "result.png", options);
 - **购买**： [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用**： [尝试 Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **临时执照**： [获得临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持**： [Aspose 成像论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**： [Aspose 成像论坛](https://forum.aspose.com/c/imaging/14)
 
 通过探索这些资源，您可以加深对 Aspose.Imaging 及其功能的理解。祝您编码愉快！
 

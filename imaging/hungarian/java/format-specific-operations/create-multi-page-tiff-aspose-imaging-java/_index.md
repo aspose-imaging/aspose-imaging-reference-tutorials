@@ -203,7 +203,7 @@ Javasoljuk, hogy próbálja meg megvalósítani ezt a megoldást a következő p
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezt az útmutatót követve felkészült leszel többoldalas TIFF fájlok létrehozására és kezelésére az Aspose.Imaging for Java segítségével. Jó kódolást!
 

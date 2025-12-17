@@ -160,7 +160,7 @@ Vous avez maintenant découvert comment exploiter Aspose.Imaging pour .NET pour 
 - [Acheter une licence](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/net/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 Nous espérons que ce tutoriel vous aura apporté de précieuses informations sur l'utilisation efficace d'Aspose.Imaging pour .NET. Bon codage !
 

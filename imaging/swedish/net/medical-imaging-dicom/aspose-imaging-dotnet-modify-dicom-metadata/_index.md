@@ -186,7 +186,7 @@ Den här handledningen har guidat dig genom hur du laddar, modifierar, sparar oc
 - **Köpa**: [Köp Aspose-produkter](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose Forum för bildbehandling](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose Forum för bildbehandling](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

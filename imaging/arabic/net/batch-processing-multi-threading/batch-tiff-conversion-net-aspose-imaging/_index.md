@@ -149,7 +149,7 @@ tiffImage.Save(outputFileNameTif);
 - شراء: [شراء ترخيص](https://purchase.aspose.com/buy)
 - تجربة مجانية: [جرب Aspose.Imaging لـ .NET](https://releases.aspose.com/imaging/net/)
 - رخصة مؤقتة: [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- يدعم: [منتديات أسبوزي](https://forum.aspose.com/c/imaging/10)
+- يدعم: [منتديات أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

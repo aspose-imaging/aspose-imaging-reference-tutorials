@@ -187,7 +187,7 @@ Tento úryvek ukládá binární obraz ve formátu JPEG, čímž zajišťuje jeh
 
 Nyní jste zvládli základy používání knihovny Aspose.Imaging pro Javu k načítání, zpracování a ukládání obrázků pomocí technik binarizace. Experimentujte dále s dalšími funkcemi, které knihovna nabízí, jako je pokročilé filtrování nebo převod formátů.
 
-Dalšími kroky jsou integrace této funkce do vašich projektů a experimentování s různými typy obrázků a scénáři zpracování. Neváhejte se na nás obrátit prostřednictvím [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) pro jakékoli dotazy, které byste mohli mít!
+Dalšími kroky jsou integrace této funkce do vašich projektů a experimentování s různými typy obrázků a scénáři zpracování. Neváhejte se na nás obrátit prostřednictvím [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) pro jakékoli dotazy, které byste mohli mít!
 
 ## Sekce Často kladených otázek
 

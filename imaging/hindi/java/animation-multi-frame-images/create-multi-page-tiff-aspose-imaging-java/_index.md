@@ -214,7 +214,7 @@ Aspose.Imaging for Java का उपयोग करके एक बहु-प
 - [खरीद लाइसेंसिंग विकल्प](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण के साथ शुरुआत करें](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस जानकारी](https://purchase.aspose.com/temporary-license/)
-- [सामुदायिक सहायता और मंच](https://forum.aspose.com/c/imaging/10)
+- [सामुदायिक सहायता और मंच](https://forum.aspose.com/c/imaging/14)
 
 इन संसाधनों का लाभ उठाकर, आप Aspose.Imaging for Java की अपनी समझ को और गहरा कर सकते हैं और इसे अपनी परियोजनाओं में प्रभावी ढंग से लागू कर सकते हैं। हैप्पी कोडिंग!
 

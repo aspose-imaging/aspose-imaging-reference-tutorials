@@ -191,7 +191,7 @@ image.save(output);
    - نعم، فهو يدعم العديد من تنسيقات الصور مثل JPEG، PNG، BMP، والمزيد.
 
 5. **أين يمكنني العثور على الدعم إذا واجهت مشاكل؟**
-   - قم بزيارة [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/10) للحصول على الدعم المجتمعي والرسمي.
+   - قم بزيارة [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/14) للحصول على الدعم المجتمعي والرسمي.
 
 ## موارد
 

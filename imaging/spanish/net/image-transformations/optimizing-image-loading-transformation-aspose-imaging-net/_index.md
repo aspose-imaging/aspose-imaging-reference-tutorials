@@ -180,7 +180,7 @@ A5: Instale la biblioteca a través de NuGet o el Administrador de paquetes y si
 - **Compra**: [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Comience una prueba gratuita](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal**: [Obtenga una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 ¡Embárquese hoy mismo en su viaje hacia el dominio del procesamiento de imágenes con Aspose.Imaging para .NET!
 

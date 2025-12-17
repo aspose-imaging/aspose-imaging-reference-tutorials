@@ -184,7 +184,7 @@ A5: Verifique nuevamente su código para detectar errores de sintaxis y asegúre
 - **Compra**:Adquirir una licencia en [Sitio de compra de Aspose](https://purchase.aspose.com/buy).
 - **Prueba gratuita**:Comience con una prueba gratuita a través de [Ensayos de Aspose](https://releases.aspose.com/imaging/java/).
 - **Licencia temporal**:Obtener una licencia temporal de [Licencia Aspose](https://purchase.aspose.com/temporary-license/).
-- **Apoyo**:Busca ayuda en el [Foro de Aspose](https://forum.aspose.com/c/imaging/10).
+- **Apoyo**:Busca ayuda en el [Foro de Aspose](https://forum.aspose.com/c/imaging/14).
 
 Siguiendo esta guía, ya podrá gestionar rotaciones de imágenes DICOM en Java con confianza. ¡Que disfrute programando!
 

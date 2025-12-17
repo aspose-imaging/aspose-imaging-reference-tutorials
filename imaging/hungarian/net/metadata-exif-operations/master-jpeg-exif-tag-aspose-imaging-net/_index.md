@@ -149,7 +149,7 @@ A3: Implementáljon try-catch blokkokat a képbetöltési kód köré a kivétel
 V4: Igen, az Aspose.Imaging átfogó API-jával EXIF-címkéket is lehet olvasni és írni.
 
 **5. kérdés: Hol kaphatok támogatást, ha problémákba ütközöm?**
-A5: Látogassa meg a [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/10) a közösségi és hivatalos támogatásért.
+A5: Látogassa meg a [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/14) a közösségi és hivatalos támogatásért.
 
 ## Erőforrás
 

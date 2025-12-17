@@ -147,7 +147,7 @@ této příručce jsme prozkoumali, jak implementovat měřené licencování s 
 - Experimentujte dále integrací měřeného licencování do složitějších pracovních postupů.
 - Prozkoumejte další funkce nabízené službou Aspose.Imaging, které mohou vylepšit možnosti vaší aplikace.
 
-Doporučujeme vám vyzkoušet si tuto implementaci ve vašich projektech. Pokud máte dotazy nebo potřebujete podporu, neváhejte se na nás obrátit prostřednictvím [Fórum komunity Aspose](https://forum.aspose.com/c/imaging/10).
+Doporučujeme vám vyzkoušet si tuto implementaci ve vašich projektech. Pokud máte dotazy nebo potřebujete podporu, neváhejte se na nás obrátit prostřednictvím [Fórum komunity Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Sekce Často kladených otázek
 **Q1: Co je licencování na základě měření?**

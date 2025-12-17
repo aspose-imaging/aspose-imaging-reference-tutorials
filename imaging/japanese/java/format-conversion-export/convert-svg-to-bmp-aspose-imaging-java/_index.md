@@ -161,7 +161,7 @@ Aspose.Imaging for Javaを使用してSVGファイルをBMP形式に変換する
    - ビットマップ設定を調整する `BmpOptions` 出力品質設定を微調整します。
 
 5. **問題が発生した場合、どこでサポートを受けられますか?**
-   - 訪問 [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10) コミュニティと専門家の支援のため。
+   - 訪問 [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14) コミュニティと専門家の支援のため。
 
 ## リソース
 

@@ -160,7 +160,7 @@ A3: Cân nhắc tối ưu hóa việc sử dụng bộ nhớ, sử dụng các k
 A4: Mặc dù mạnh mẽ, hãy đảm bảo môi trường của bạn đáp ứng các yêu cầu cần thiết để có hiệu suất tối ưu.
 
 **Câu hỏi 5: Tôi có thể nhận được những lựa chọn hỗ trợ nào nếu gặp sự cố?**
-A5: Bạn có thể tìm kiếm sự giúp đỡ từ [Diễn đàn hình ảnh Aspose](https://forum.aspose.com/c/imaging/10) hoặc tham khảo tài liệu mở rộng của họ.
+A5: Bạn có thể tìm kiếm sự giúp đỡ từ [Diễn đàn hình ảnh Aspose](https://forum.aspose.com/c/imaging/14) hoặc tham khảo tài liệu mở rộng của họ.
 
 ## Tài nguyên
 

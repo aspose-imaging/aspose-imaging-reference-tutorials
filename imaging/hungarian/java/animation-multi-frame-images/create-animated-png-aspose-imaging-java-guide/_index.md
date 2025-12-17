@@ -228,7 +228,7 @@ A3: Ellenőrizze a licencfeltételeket a használati korlátok tekintetében; eg
 
 **4. kérdés: Mi van, ha hibákba ütközöm az animációs folyamat során?**
 
-4. válasz: Ellenőrizze a fájlelérési utakat, és győződjön meg arról, hogy az összes függőség megfelelően van konfigurálva. További információ [Aspose támogatás](https://forum.aspose.com/c/imaging/10) ha a problémák továbbra is fennállnak.
+4. válasz: Ellenőrizze a fájlelérési utakat, és győződjön meg arról, hogy az összes függőség megfelelően van konfigurálva. További információ [Aspose támogatás](https://forum.aspose.com/c/imaging/14) ha a problémák továbbra is fennállnak.
 
 **5. kérdés: Hogyan módosíthatom a keret tulajdonságait egyedi effektek eléréséhez?**
 
@@ -241,7 +241,7 @@ A5: Kísérletezz gammakorrekciókkal, alfa-keveréssel vagy az Aspose.Imaging �
 - **Vásárlás**: [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbálja ki az Aspose.Imaging-et ingyen](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezzel az átfogó útmutatóval minden szükséges eszközzel elkezdhetsz animált PNG-ket készíteni Java nyelven az Aspose.Imaging használatával. Jó kódolást!
 

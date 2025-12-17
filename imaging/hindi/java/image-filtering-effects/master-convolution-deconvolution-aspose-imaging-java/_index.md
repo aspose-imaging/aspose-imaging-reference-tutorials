@@ -195,7 +195,7 @@ for (int i = 0; i < deconvFilters.length; i++) {
 - **खरीदना**: [एस्पोज इमेजिंग खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [निःशुल्क परीक्षण के साथ शुरुआत करें](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस**: [यहां अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच**: [प्रश्न पूछें](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच**: [प्रश्न पूछें](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड का पालन करके, आप Aspose.Imaging for Java द्वारा प्रदान की जाने वाली शक्तिशाली इमेज प्रोसेसिंग क्षमताओं में महारत हासिल करने की दिशा में आगे बढ़ रहे हैं। हैप्पी कोडिंग!
 

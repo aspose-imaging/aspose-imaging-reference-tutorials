@@ -190,7 +190,7 @@ Pronti a iniziare? Provate a implementare questa soluzione nel vostro prossimo p
 - [Acquistare](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Questa guida ti fornirà tutto il necessario per utilizzare efficacemente Aspose.Imaging per caricare ed esportare immagini in formato WebP tramite Java. Buona programmazione!
 

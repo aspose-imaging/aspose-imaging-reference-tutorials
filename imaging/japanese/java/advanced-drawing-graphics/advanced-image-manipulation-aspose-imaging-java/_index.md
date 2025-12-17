@@ -257,7 +257,7 @@ A5: 出力形式が透過性をサポートしていることを確認してく�
 - **購入**： [Aspose 購入ページ](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imaging の無料トライアルをお試しください](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [Aspose サポートコミュニティ](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [Aspose サポートコミュニティ](https://forum.aspose.com/c/imaging/14)
 
 楽しいコーディングを！
 

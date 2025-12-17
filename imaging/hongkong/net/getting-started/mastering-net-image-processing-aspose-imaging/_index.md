@@ -133,7 +133,7 @@ Aspose.Imaging 可用於各種場景：
 - **購買**： [購買許可證](https://purchase.aspose.com/buy)
 - **免費試用**： [立即試用](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [取得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援論壇**： [在這裡提問](https://forum.aspose.com/c/imaging/10)
+- **支援論壇**： [在這裡提問](https://forum.aspose.com/c/imaging/14)
 
 立即開始使用 Aspose.Imaging，透過強大的圖像處理功能增強您的 .NET 應用程式！
 

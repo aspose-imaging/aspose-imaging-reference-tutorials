@@ -131,7 +131,7 @@ Seguindo este guia, você aprendeu a medir dimensões de strings usando o Aspose
 - [Comprar uma licença](https://purchase.aspose.com/buy)
 - [Teste grátis](https://releases.aspose.com/imaging/net/)
 - [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

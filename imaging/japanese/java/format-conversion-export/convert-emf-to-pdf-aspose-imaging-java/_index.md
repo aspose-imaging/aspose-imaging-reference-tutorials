@@ -226,7 +226,7 @@ Aspose.Imaging を使用する際のパフォーマンスを最適化するに�
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/java/)
 - [臨時免許申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 この包括的なガイドを読めば、Aspose.Imaging for Java を使って EMF ファイルを PDF に効率的に変換するための知識が得られます。コーディングを楽しみましょう！
 

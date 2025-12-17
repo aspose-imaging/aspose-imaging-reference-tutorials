@@ -160,7 +160,7 @@ A3: Fontolja meg a memóriahasználat optimalizálását, a párhuzamos feldolgo
 A4: Bár nagy teljesítményű, gondoskodjon arról, hogy a környezete megfeleljen az optimális teljesítményhez szükséges követelményeknek.
 
 **5. kérdés: Milyen támogatási lehetőségek állnak rendelkezésre, ha problémákba ütközöm?**
-A5: Segítséget kérhetsz [Aspose Képalkotó Fórum](https://forum.aspose.com/c/imaging/10) vagy tekintse meg a kiterjedt dokumentációjukat.
+A5: Segítséget kérhetsz [Aspose Képalkotó Fórum](https://forum.aspose.com/c/imaging/14) vagy tekintse meg a kiterjedt dokumentációjukat.
 
 ## Erőforrás
 

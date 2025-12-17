@@ -182,7 +182,7 @@ Bezpłatna wersja próbna ma ograniczenia ewaluacyjne, takie jak znaki wodne na 
 - **Zakup:** [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Aspose.Imaging Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa:** [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie:** [Wsparcie forum Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Wsparcie:** [Wsparcie forum Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Dzięki temu kompleksowemu przewodnikowi jesteś dobrze wyposażony, aby zacząć korzystać z Aspose.Imaging for Java w swoich projektach. Miłego kodowania!
 

@@ -159,7 +159,7 @@ image.Save(outputPath, new PngOptions());
 - **Αγορά Άδειας Χρήσης**: [Αγοράστε το Aspose.Licensing](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δοκιμάστε το Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Αίτημα Προσωρινής Άδειας Χρήσης](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ Υποστήριξης**: [Υποστήριξη απεικόνισης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ Υποστήριξης**: [Υποστήριξη απεικόνισης Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

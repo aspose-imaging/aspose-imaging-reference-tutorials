@@ -178,7 +178,7 @@ Common issues include failing to dispose of resources properly and neglecting er
 - **Purchase:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 By following this guide, you are now well-prepared to tackle image processing tasks using Aspose.Imaging for Java. Happy coding!
 

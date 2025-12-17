@@ -153,7 +153,7 @@ A5: संपीड़न गुणों को समायोजित कर
 - **खरीद लाइसेंस**: [एस्पोज इमेजिंग खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [Aspose इमेजिंग डाउनलोड](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता फ़ोरम**: [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- **सहायता फ़ोरम**: [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -203,7 +203,7 @@ WMF를 PDF로 변환하면 다음과 같은 다양한 시나리오에서 유용�
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 단계들을 숙지하면 WMF-PDF 변환을 손쉽게 처리할 수 있습니다. 즐거운 코딩 되세요!
 

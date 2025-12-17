@@ -187,7 +187,7 @@ Redo att testa det? Implementera lösningen i ditt projekt idag!
 - **Köpa**: [Köp licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Kom igång](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Begär här](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din resa med Aspose.Imaging för .NET idag och förändra hur du hanterar bilder i dina applikationer!
 

@@ -185,7 +185,7 @@ Aspose.Imaging Java को उन्नत चिकित्सा इमेज
 - **खरीद लाइसेंस**: [अभी खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [शुरू हो जाओ](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस**: [यहां आवेदन करें](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच**: [Aspose.Imaging समर्थन](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच**: [Aspose.Imaging समर्थन](https://forum.aspose.com/c/imaging/14)
 
 आज ही Aspose.Imaging for Java की शक्तिशाली छवि प्रसंस्करण क्षमताओं का अन्वेषण करना शुरू करें!
 

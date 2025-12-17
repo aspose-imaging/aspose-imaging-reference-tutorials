@@ -152,7 +152,7 @@ image.Save(dataDir + outputFile);
 - **شراء:** [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [ابدأ تجربة مجانية](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة:** [التقدم بطلب للحصول على ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

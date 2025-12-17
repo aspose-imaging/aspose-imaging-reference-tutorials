@@ -171,7 +171,7 @@ Aspose.Imaging을 사용할 때 성능을 최적화하려면:
 - **구입**: [Aspose Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료로 체험해보세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 튜토리얼을 따라하면 Java용 Aspose.Imaging을 사용하여 의료 영상 프로젝트에서 이미지 변환 작업을 처리하는 데 필요한 역량을 갖추게 됩니다.
 

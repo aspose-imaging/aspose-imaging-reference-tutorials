@@ -150,7 +150,7 @@ Du har nu lärt dig hur du laddar, öppnar och manipulerar pixeldata i PNG-filer
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Forum för samhällsstöd](https://forum.aspose.com/c/imaging/10)
+- [Forum för samhällsstöd](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -216,7 +216,7 @@ Gratulujeme! Úspěšně jste zvládli proces načítání, převodu a správy s
    - Ano, můžete skriptovat dávkové zpracování pomocí smyček nebo integrovat se systémy pro plánování úloh.
 
 5. **Jak získám podporu, pokud narazím na problémy?**
-   - Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) pro pomoc a diskuzi s ostatními uživateli.
+   - Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) pro pomoc a diskuzi s ostatními uživateli.
 
 ## Zdroje
 

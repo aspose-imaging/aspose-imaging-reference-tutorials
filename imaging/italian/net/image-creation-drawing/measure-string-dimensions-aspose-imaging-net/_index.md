@@ -131,7 +131,7 @@ Seguendo questa guida, hai imparato a misurare le dimensioni delle stringhe util
 - [Acquista una licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/net/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

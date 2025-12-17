@@ -213,7 +213,7 @@ Jste připraveni uvést do praxe to, co jste se naučili? Zkuste tyto funkce int
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na cestu s Aspose.Imaging pro Javu a odemkněte plný potenciál manipulace s obrázky ve vašich aplikacích!
 

@@ -220,7 +220,7 @@ A5: 네, 무료 체험판으로 시작할 수 있지만, 법적 요구 사항을
 - **구입**: 라이센스를 구매하세요 [Aspose 구매](https://purchase.aspose.com/buy).
 - **무료 체험**: 기능을 테스트하기 위해 평가판으로 시작하세요. [Aspose 무료 체험판](https://releases.aspose.com/imaging/java/).
 - **임시 면허**: 다음을 통해 요청하세요. [Aspose 임시 면허](https://purchase.aspose.com/temporary-license/).
-- **지원하다**: 질문이 있으시면 다음 주소로 문의하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/10).
+- **지원하다**: 질문이 있으시면 다음 주소로 문의하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/14).
 
 이 튜토리얼을 따라 Aspose.Imaging for Java를 활용하면 프로젝트에서 EPS 이미지 미리보기와 안전한 파일 삭제를 처리하는 데 필요한 역량을 갖추게 될 것입니다. 즐거운 코딩 되세요!
 

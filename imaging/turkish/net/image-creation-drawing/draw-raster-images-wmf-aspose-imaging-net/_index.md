@@ -181,7 +181,7 @@ Evet, Aspose.Imaging kırpma, yeniden boyutlandırma ve format dönüştürme gi
 Görüntü bütünlüğünü korumak için Aspose.Imaging'in yapılandırma seçeneklerini kullanarak çözünürlük ve kalite ayarlarını düzenleyin.
 
 **5. Aspose.Imaging ile ilgili sorunlarla karşılaşırsam destek alabileceğim bir yer var mı?**
-Evet, yardım isteyebilirsiniz [Aspose'un forumları](https://forum.aspose.com/c/imaging/10) Topluluk veya resmi destek için.
+Evet, yardım isteyebilirsiniz [Aspose'un forumları](https://forum.aspose.com/c/imaging/14) Topluluk veya resmi destek için.
 
 ## Kaynaklar
 

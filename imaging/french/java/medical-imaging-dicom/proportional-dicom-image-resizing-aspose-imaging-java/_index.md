@@ -204,7 +204,7 @@ Dans ce guide, nous avons exploré comment charger et redimensionner des images 
 - **Achat**: https://purchase.aspose.com/buy
 - **Essai gratuit**: https://releases.aspose.com/imaging/java/
 - **Permis temporaire**: https://purchase.aspose.com/temporary-license/
-- **Soutien**: https://forum.aspose.com/c/imaging/10
+- **Soutien**: https://forum.aspose.com/c/imaging/14
 
 En exploitant ces ressources, vous pourrez approfondir votre compréhension et implémenter efficacement Aspose.Imaging dans vos applications Java. Bon codage !
 

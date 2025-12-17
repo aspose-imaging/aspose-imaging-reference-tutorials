@@ -157,7 +157,7 @@ A: Maak gebruik van de batchverwerkingsmogelijkheden van Aspose.Imaging om meerd
 A: Hoewel de prestaties bij zeer grote bestanden kunnen variëren, is Aspose.Imaging ontworpen om grote hoeveelheden beeldgegevens efficiënt te verwerken.
 
 **V5: Welke ondersteuningsopties zijn beschikbaar als ik problemen ondervind?**
-A: Krijg toegang tot gedetailleerde documentatie en communityforums voor tips voor probleemoplossing op [Aspose-ondersteuning](https://forum.aspose.com/c/imaging/10).
+A: Krijg toegang tot gedetailleerde documentatie en communityforums voor tips voor probleemoplossing op [Aspose-ondersteuning](https://forum.aspose.com/c/imaging/14).
 
 ## Bronnen
 - **Documentatie**: [Aspose.Imaging .NET-documentatie](https://reference.aspose.com/imaging/net/)

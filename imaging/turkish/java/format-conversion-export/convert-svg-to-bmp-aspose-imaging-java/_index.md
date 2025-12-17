@@ -161,7 +161,7 @@ Sonraki adımlar? Farklı yapılandırmalarla denemeler yapın `BmpOptions` ve A
    - Bitmap yapılandırmalarını ayarlayın `BmpOptions` çıktı kalitesi ayarlarını değiştirmek için.
 
 5. **Sorun yaşarsam nereden destek alabilirim?**
-   - Ziyaret edin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10) Topluluk ve profesyonel yardım için.
+   - Ziyaret edin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14) Topluluk ve profesyonel yardım için.
 
 ## Kaynaklar
 

@@ -222,7 +222,7 @@ Készen állsz a tanultak alkalmazására? Próbáld ki a saját SVG-képeid kon
 - [Aspose.Imaging Java dokumentációhoz](https://reference.aspose.com/imaging/java/)
 - [Aspose.Imaging letöltése Java-hoz](https://releases.aspose.com/imaging/java/)
 - [Licenc vásárlása vagy ingyenes próbaverzió beszerzése](https://purchase.aspose.com/buy)
-- [Kérjen támogatást a Közösségi Fórumtól](https://forum.aspose.com/c/imaging/10)
+- [Kérjen támogatást a Közösségi Fórumtól](https://forum.aspose.com/c/imaging/14)
 
 Ezekkel az anyagokkal és ezzel az útmutatóval minden készen állsz arra, hogy magabiztosan elkezdj SVG képeket átalakítani az Aspose.Imaging for Java segítségével. Jó kódolást!
 

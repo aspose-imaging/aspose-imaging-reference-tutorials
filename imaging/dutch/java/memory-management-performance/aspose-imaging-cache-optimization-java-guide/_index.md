@@ -233,7 +233,7 @@ Klaar om deze oplossingen te implementeren? Probeer vandaag nog uw cache-instell
 - [Aankoop](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Met deze handleiding bent u goed toegerust om Aspose.Imaging Cache in Java effectief te optimaliseren. Veel plezier met coderen!
 

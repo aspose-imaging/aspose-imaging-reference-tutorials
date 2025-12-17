@@ -178,7 +178,7 @@ Próximos passos? Experimente diferentes configurações ou integre este recurso
 - **Documentação**: Explore guias abrangentes em [Referência do Aspose Imaging .NET](https://reference.aspose.com/imaging/net/).
 - **Download**: Acesse os últimos lançamentos via [Lançamentos Aspose](https://releases.aspose.com/imaging/net/).
 - **Compra e teste gratuito**: Considere experimentar ou comprar através do site oficial [Página de compra da Aspose](https://purchase.aspose.com/buy) e [Testes gratuitos](https://releases.aspose.com/imaging/net/).
-- **Apoiar**:Para qualquer dúvida, visite o [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10).
+- **Apoiar**:Para qualquer dúvida, visite o [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

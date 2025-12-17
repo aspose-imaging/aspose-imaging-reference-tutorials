@@ -145,7 +145,7 @@ A5: Proses gambar secara paralel jika memungkinkan, dan pastikan pembuangan obje
 - **Beli Lisensi**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Cobalah](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Minta di sini](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan**: [Ajukan Pertanyaan](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan**: [Ajukan Pertanyaan](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda dengan Aspose.Imaging untuk .NET hari ini dan mulailah memanfaatkan kekuatan metadata gambar!
 

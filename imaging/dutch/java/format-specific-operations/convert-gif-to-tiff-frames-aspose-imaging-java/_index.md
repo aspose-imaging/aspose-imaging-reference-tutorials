@@ -215,7 +215,7 @@ In deze tutorial hebben we onderzocht hoe Aspose.Imaging voor Java het converter
 ### Volgende stappen
 - Ontdek de aanvullende conversieopties die beschikbaar zijn in Aspose.Imaging.
 - Integreer deze functionaliteit in een groter project of workflow.
-- Deel feedback of zoek ondersteuning van de [Aspose communityforum](https://forum.aspose.com/c/imaging/10).
+- Deel feedback of zoek ondersteuning van de [Aspose communityforum](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ-sectie
 
@@ -241,7 +241,7 @@ A5: Ontdek de [Aspose.Imaging-documentatie](https://reference.aspose.com/imaging
 - **Aankoop:** https://purchase.aspose.com/buy
 - **Gratis proefperiode:** https://releases.aspose.com/imaging/java/
 - **Tijdelijke licentie:** https://purchase.aspose.com/tijdelijke-licentie/
-- **Steun:** https://forum.aspose.com/c/imaging/10
+- **Steun:** https://forum.aspose.com/c/imaging/14
 
 Door Aspose.Imaging voor Java te gebruiken, kunt u uw beeldconversieprocessen stroomlijnen en nieuwe mogelijkheden voor digitale mediaverwerking ontsluiten. Veel plezier met coderen!
 

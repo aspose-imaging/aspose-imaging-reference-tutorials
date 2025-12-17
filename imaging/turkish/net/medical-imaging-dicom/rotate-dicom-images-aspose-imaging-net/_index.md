@@ -147,7 +147,7 @@ Ziyaret etmek [Aspose Satın Alma](https://purchase.aspose.com/buy) İhtiyaçlar
 - **Belgeler:** Kapsamlı kılavuzları keşfedin [Aspose.Görüntüleme Belgeleri](https://reference.aspose.com/imaging/net/).
 - **İndirmek:** Aspose.Imaging'in en son sürümünü şu adresten edinin: [Bültenler Sayfası](https://releases.aspose.com/imaging/net/).
 - **Satın Alma ve Lisanslama:** Satın alma seçenekleri hakkında daha fazla ayrıntıya şu adresten ulaşabilirsiniz: [Satın almak](https://purchase.aspose.com/buy) Ve [Geçici Lisans](https://purchase.aspose.com/temporary-license/).
-- **Destek:** Sorularınız veya sorunlarınız için şu adresi ziyaret edin: [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Destek:** Sorularınız veya sorunlarınız için şu adresi ziyaret edin: [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

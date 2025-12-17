@@ -128,7 +128,7 @@ A1: Ja, u kunt afbeeldingen batchgewijs verwerken door over een directory te ite
 A2: Er is een proefversie beschikbaar, maar voor commercieel gebruik is het aanschaffen van een licentie noodzakelijk. Bezoek [Aankoop](https://purchase.aspose.com/buy) voor meer details.
 
 **Vraag 3: Hoe los ik conversiefouten op?**
-A3: Controleer de bestandspaden en zorg ervoor dat Aspose.Imaging correct is geïnstalleerd. Raadpleeg de [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10) als de problemen aanhouden.
+A3: Controleer de bestandspaden en zorg ervoor dat Aspose.Imaging correct is geïnstalleerd. Raadpleeg de [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14) als de problemen aanhouden.
 
 **V4: Kan ik de eigenschappen van een PDF-document wijzigen tijdens de conversie?**
 A4: Ja, u kunt verschillende eigenschappen van documentinformatie instellen, zoals titel, auteur of trefwoorden met behulp van `PdfDocumentInfo`.
@@ -142,7 +142,7 @@ A5: Andere bibliotheken zijn onder andere ImageMagick en Ghostscript, maar deze 
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 We hopen dat deze handleiding nuttig is geweest. Waarom waagt u de sprong niet en probeert u uw BMP-bestanden naar PDF te converteren met Aspose.Imaging voor .NET?
 

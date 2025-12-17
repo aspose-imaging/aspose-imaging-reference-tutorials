@@ -166,7 +166,7 @@ För mer information, kolla in dessa resurser:
 - [Köpa](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Dyk ner i Aspose.Imaging för .NET och ta dina bildbehandlingsmöjligheter till nästa nivå!
 

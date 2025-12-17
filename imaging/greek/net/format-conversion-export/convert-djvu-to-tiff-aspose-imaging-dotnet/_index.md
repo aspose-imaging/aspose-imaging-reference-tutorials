@@ -174,7 +174,7 @@ using Aspose.Imaging;
 - **Αγορά**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δοκιμάστε τη δωρεάν έκδοση](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

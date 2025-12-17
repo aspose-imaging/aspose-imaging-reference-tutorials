@@ -218,7 +218,7 @@ Aspose.Imaging поддерживает различные типы цветов
 - [Купить лицензию](https://purchase.aspose.com/buy)
 - [Бесплатный пробный доступ](https://releases.aspose.com/imaging/java/)
 - [Подать заявку на временную лицензию](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

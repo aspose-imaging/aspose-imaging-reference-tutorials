@@ -163,7 +163,7 @@ Java 개발을 한 단계 더 발전시킬 준비가 되셨나요? 다음 프로
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험판 및 임시 라이센스](https://releases.aspose.com/imaging/java/)
 
-추가 질문이 있으시면 다음을 방문하세요. [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)즐거운 코딩 되세요!
+추가 질문이 있으시면 다음을 방문하세요. [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)즐거운 코딩 되세요!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

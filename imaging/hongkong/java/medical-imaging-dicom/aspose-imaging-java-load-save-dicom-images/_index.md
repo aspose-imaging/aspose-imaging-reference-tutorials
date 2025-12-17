@@ -181,7 +181,7 @@ Aspose.Imaging for Java 提供多種解決方案。以下是一些實際使用�
 - **下載：** [最新發布](https://releases.aspose.com/imaging/java/)
 - **購買：** [購買 Aspose 許可證](https://purchase.aspose.com/buy)
 - **免費試用和臨時許可證：** [開始](https://releases.aspose.com/imaging/java/)
-- **支援論壇：** [Aspose 社區](https://forum.aspose.com/c/imaging/10)
+- **支援論壇：** [Aspose 社區](https://forum.aspose.com/c/imaging/14)
 
 本指南內容全面，幫助您掌握使用 Aspose.Imaging 在 Java 應用程式中高效管理 DICOM 影像所需的技能。祝您程式愉快！
 

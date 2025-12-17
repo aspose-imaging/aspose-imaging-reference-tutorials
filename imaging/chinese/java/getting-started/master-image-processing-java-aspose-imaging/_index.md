@@ -170,7 +170,7 @@ image.save("YOUR_OUTPUT_DIRECTORY/SampleTiff1.out.tiff");
 - **购买许可证：** [立即购买](https://purchase.aspose.com/buy)
 - **免费试用：** [开始试用](https://releases.aspose.com/imaging/java/)
 - **临时执照：** [点击此处获取](https://purchase.aspose.com/temporary-license/)
-- **支持论坛：** [提出问题](https://forum.aspose.com/c/imaging/10)
+- **支持论坛：** [提出问题](https://forum.aspose.com/c/imaging/14)
 
 按照本指南操作，您将能够使用 Aspose.Imaging for Java 轻松完成图像处理任务。祝您编码愉快！
 

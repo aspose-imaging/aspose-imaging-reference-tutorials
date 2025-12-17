@@ -150,7 +150,7 @@ Je hebt nu geleerd hoe je pixelgegevens in PNG-bestanden kunt laden, openen en b
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Community Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Community Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

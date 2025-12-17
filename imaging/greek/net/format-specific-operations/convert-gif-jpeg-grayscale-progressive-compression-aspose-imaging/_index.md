@@ -153,7 +153,7 @@ original.Save("YOUR_DOCUMENT_DIRECTORY/ConvertedImage.jpg", jpegOptions);
 - **Αγορά Άδειας Χρήσης**: [Σελίδα Αγοράς Aspose](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δοκιμάστε το Aspose.Imaging δωρεάν](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ Υποστήριξης**: [Κοινότητα Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ Υποστήριξης**: [Κοινότητα Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Κατακτώντας πλήρως τη διαδικασία μετατροπής με το Aspose.Imaging, είστε εξοπλισμένοι για να χειρίζεστε αποτελεσματικά σύνθετες εργασίες επεξεργασίας εικόνας στις εφαρμογές .NET που χρησιμοποιείτε. Καλή κωδικοποίηση!
 

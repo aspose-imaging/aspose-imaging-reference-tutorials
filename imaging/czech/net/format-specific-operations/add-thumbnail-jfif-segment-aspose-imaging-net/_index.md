@@ -176,7 +176,7 @@ Segment JFIF v současné době podporuje jednu miniaturu; můžete však vloži
 - **Nákup**: [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začněte svou bezplatnou zkušební verzi](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

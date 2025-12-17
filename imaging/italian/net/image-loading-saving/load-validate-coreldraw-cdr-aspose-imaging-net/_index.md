@@ -164,7 +164,7 @@ A5: Sì, la gestione efficiente della memoria e lo smaltimento delle risorse son
 - [Acquista una licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/net/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

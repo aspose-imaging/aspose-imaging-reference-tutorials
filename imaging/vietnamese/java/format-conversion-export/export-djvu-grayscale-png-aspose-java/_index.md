@@ -194,7 +194,7 @@ A5: Hoàn toàn được! Triển khai các vòng lặp hoặc kỹ thuật xử
 - **Mua**: https://purchase.aspose.com/buy
 - **Dùng thử miễn phí**: https://releases.aspose.com/imaging/java/
 - **Giấy phép tạm thời**: https://purchase.aspose.com/temporary-license/
-- **Ủng hộ**: https://forum.aspose.com/c/imaging/10
+- **Ủng hộ**: https://forum.aspose.com/c/imaging/14
 
 Khám phá các tài nguyên này để hiểu sâu hơn và thành thạo Aspose.Imaging cho Java. Chúc bạn viết mã vui vẻ!
 

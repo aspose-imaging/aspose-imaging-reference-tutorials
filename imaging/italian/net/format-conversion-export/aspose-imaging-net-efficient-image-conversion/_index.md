@@ -137,7 +137,7 @@ Esplora le funzionalità più avanzate di Aspose.Imaging, come l'elaborazione in
 - [Scarica Aspose.Imaging per .NET](https://releases.aspose.com/imaging/net/)
 - [Acquista una licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita e licenza temporanea](https://releases.aspose.com/imaging/net/)
-- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 Esplora queste risorse per approfondire la tua conoscenza e migliorare le tue implementazioni con Aspose.Imaging .NET. Buona programmazione!
 

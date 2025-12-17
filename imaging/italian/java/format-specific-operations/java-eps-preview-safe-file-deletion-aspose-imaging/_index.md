@@ -220,7 +220,7 @@ R5: Sì, sebbene sia possibile iniziare con una prova gratuita, per un utilizzo 
 - **Acquistare**: Acquista una licenza tramite [Acquisto Aspose](https://purchase.aspose.com/buy).
 - **Prova gratuita**: Inizia con una prova per testare le funzionalità a [Prove gratuite di Aspose](https://releases.aspose.com/imaging/java/).
 - **Licenza temporanea**: Richiedine uno tramite [Licenza temporanea Aspose](https://purchase.aspose.com/temporary-license/).
-- **Supporto**: Per domande, contattaci su [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Supporto**: Per domande, contattaci su [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Seguendo questo tutorial e utilizzando Aspose.Imaging per Java, sarai pronto a gestire le anteprime delle immagini EPS e l'eliminazione sicura dei file nei tuoi progetti. Buona programmazione!
 

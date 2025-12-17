@@ -175,7 +175,7 @@ A3: Ja, aber stellen Sie sicher, dass Sie eine entsprechende Lizenz erwerben von
 A4: Ja, implementieren Sie eine Stapelverarbeitung, um mehrere Dateien effizient zu verarbeiten. Dies kann die Verarbeitungszeit erheblich verkürzen.
 
 **F5: Wo erhalte ich Unterstützung, wenn Probleme auftreten?**
-A5: Besuchen Sie die [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) für die Unterstützung sowohl vom Aspose-Team als auch von Community-Mitgliedern.
+A5: Besuchen Sie die [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) für die Unterstützung sowohl vom Aspose-Team als auch von Community-Mitgliedern.
 
 ## Ressourcen
 - **Dokumentation:** Entdecken Sie detaillierte Anleitungen und API-Referenzen unter [Aspose.Imaging Dokumentation](https://reference.aspose.com/imaging/net/).

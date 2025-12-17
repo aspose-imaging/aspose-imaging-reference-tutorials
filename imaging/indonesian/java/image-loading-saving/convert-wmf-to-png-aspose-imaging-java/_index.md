@@ -193,7 +193,7 @@ Jelajahi lebih banyak fitur yang ditawarkan oleh Aspose.Imaging, seperti konvers
 - [Unduh Aspose.Imaging untuk Java](https://releases.aspose.com/imaging/java/)
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis dan Lisensi Sementara](https://releases.aspose.com/imaging/java/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda dengan Aspose.Imaging Java hari ini, dan ubah cara Anda menangani tugas pemrosesan gambar!
 

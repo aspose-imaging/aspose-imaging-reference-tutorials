@@ -167,7 +167,7 @@ További olvasmányokért és forrásokért:
 - **Vásárlás:** [Licencszerzés](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Próbáld ki vásárlás előtt](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Kérelem itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum:** [Kérdezze meg a közösséget](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum:** [Kérdezze meg a közösséget](https://forum.aspose.com/c/imaging/14)
 
 Most, hogy felvértezve a tudással, kezdje el alkalmazni ezeket a technikákat a Java projektjeiben!
 

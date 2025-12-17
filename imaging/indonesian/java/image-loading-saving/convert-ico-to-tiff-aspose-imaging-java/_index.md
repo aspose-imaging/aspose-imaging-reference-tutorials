@@ -181,7 +181,7 @@ Siap untuk mencobanya? Terapkan apa yang telah Anda pelajari hari ini dan lihat 
 - [Opsi Lisensi Pembelian](https://purchase.aspose.com/buy)
 - [Unduh Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Aplikasi Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan dan Komunitas](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan dan Komunitas](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda kini siap untuk menangani konversi format gambar menggunakan Aspose.Imaging Java secara efisien. Selamat membuat kode!
 

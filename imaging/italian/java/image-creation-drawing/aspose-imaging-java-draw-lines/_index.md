@@ -234,7 +234,7 @@ In questo tutorial, abbiamo esplorato come configurare le opzioni bitmap e diseg
 - [Acquista una licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 Sfruttando queste risorse, puoi migliorare la tua comprensione e l'utilizzo di Aspose.Imaging per Java nei tuoi progetti. Buona programmazione!
 

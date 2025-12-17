@@ -174,7 +174,7 @@ Aspose.Imaging을 사용할 때 성능을 최적화하기 위해 다음 팁을 �
 - [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허 요청](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 더 자세한 정보와 지원을 원하시면 다음 리소스를 자유롭게 살펴보세요. 즐거운 코딩 되세요!
 

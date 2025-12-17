@@ -156,7 +156,7 @@ A5: Çok yönlü olmasına rağmen, her zaman şu adımları izleyin: [belgeleme
 - **Satın almak**: Tam yeteneklerin kilidini açmak için bir lisans satın alın [Aspose Satın Alma](https://purchase.aspose.com/buy).
 - **Ücretsiz Deneme**: Aspose.Imaging'i hiçbir sınırlama olmadan indirerek deneyin [Ücretsiz Deneme](https://releases.aspose.com/imaging/net/).
 - **Geçici Lisans**: Genişletilmiş değerlendirme için geçici bir lisans edinin [Geçici Lisanslar](https://purchase.aspose.com/temporary-license/).
-- **Destek**: Topluluğa ulaşın veya yardım isteyin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10).
+- **Destek**: Topluluğa ulaşın veya yardım isteyin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

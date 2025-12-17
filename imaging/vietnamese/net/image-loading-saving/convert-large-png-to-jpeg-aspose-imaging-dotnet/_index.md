@@ -131,7 +131,7 @@ A: Đảm bảo bạn đã cài đặt .NET Framework hoặc .NET Core, cùng v�
 A: Có, sau khi có được giấy phép phù hợp từ Aspose.
 
 **H: Tôi có được hỗ trợ nếu gặp vấn đề không?**
-A: Ghé thăm [Diễn đàn hỗ trợ của Aspose](https://forum.aspose.com/c/imaging/10) để được hỗ trợ hoặc tham khảo tài liệu.
+A: Ghé thăm [Diễn đàn hỗ trợ của Aspose](https://forum.aspose.com/c/imaging/14) để được hỗ trợ hoặc tham khảo tài liệu.
 
 ## Tài nguyên
 - **Tài liệu:** [Tài liệu Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)

@@ -173,7 +173,7 @@ Hãy thoải mái thử triển khai các bước này vào môi trường phát
 - **Mua:** [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ:** [Diễn đàn hỗ trợ hình ảnh Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** [Diễn đàn hỗ trợ hình ảnh Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy thoải mái khám phá các tài nguyên này và tích hợp Aspose.Imaging vào các dự án của bạn để có khả năng xử lý hình ảnh liền mạch.
 

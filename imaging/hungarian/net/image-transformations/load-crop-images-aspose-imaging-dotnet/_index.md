@@ -180,7 +180,7 @@ Készségeid további bővítéséhez érdemes lehet megfontolni az Aspose.Imagi
 - **Licenc vásárlása:** https://purchase.aspose.com/buy
 - **Ingyenes próbaverzió:** https://releases.aspose.com/imaging/net/
 - **Ideiglenes engedély:** https://purchase.aspose.com/temporary-license/
-- **Támogatási fórum:** https://forum.aspose.com/c/imaging/10
+- **Támogatási fórum:** https://forum.aspose.com/c/imaging/14
 
 Kezdje el integrálni ezeket a képkezelési technikákat projektjeibe még ma, és tapasztalja meg a teljesítmény és a hatékonyság különbségét!
 

@@ -210,7 +210,7 @@ A: Убедитесь, что ваши наложения и фоновые из
 - **Лицензия на покупку**: [Страница покупки Aspose](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Попробуйте Aspose.Imaging для Java](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия**: [Получить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Форум поддержки**: [Поддержка визуализации Aspose](https://forum.aspose.com/c/imaging/10)
+- **Форум поддержки**: [Поддержка визуализации Aspose](https://forum.aspose.com/c/imaging/14)
 
 С этим руководством вы хорошо подготовлены к началу смешивания изображений с помощью Aspose.Imaging для Java. Удачного кодирования!
 

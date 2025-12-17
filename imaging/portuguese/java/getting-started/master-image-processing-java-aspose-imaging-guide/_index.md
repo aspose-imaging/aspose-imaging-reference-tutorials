@@ -227,7 +227,7 @@ Agora você domina técnicas essenciais de uso do Aspose.Imaging para Java, desd
 - [Comprar uma licença](https://purchase.aspose.com/buy)
 - [Versão de teste gratuita](https://releases.aspose.com/imaging/java/)
 - [Solicitação de Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte](https://forum.aspose.com/c/imaging/14)
 
 Este guia fornece uma base abrangente para aproveitar o Aspose.Imaging em Java. Ao compreender essas técnicas, você poderá aprimorar seus aplicativos com poderosos recursos de processamento de imagens. Boa programação!
 

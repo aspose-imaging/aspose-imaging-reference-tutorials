@@ -172,7 +172,7 @@ A: Mặc dù khả thi về mặt kỹ thuật, việc điều chỉnh quá mứ
 - **Mua giấy phép**: [Mua ngay](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Yêu cầu ở đây](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Cộng đồng Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Cộng đồng Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn này sẽ đóng vai trò là nguồn tài nguyên toàn diện để thành thạo việc điều chỉnh độ sáng bằng Aspose.Imaging cho .NET. Chúc bạn viết mã vui vẻ!
 

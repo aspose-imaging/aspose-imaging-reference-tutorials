@@ -174,7 +174,7 @@ if (System.IO.File.Exists(filePath))
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用版下載](https://releases.aspose.com/imaging/net/)
 - [臨時許可證申請](https://purchase.aspose.com/temporary-license/)
-- [支援論壇](https://forum.aspose.com/c/imaging/10)
+- [支援論壇](https://forum.aspose.com/c/imaging/14)
 
 使用 Aspose.Imaging for .NET 踏上您的圖像轉換之旅，並在您的應用程式中解鎖新的可能性！
 

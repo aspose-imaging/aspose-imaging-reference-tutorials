@@ -173,7 +173,7 @@ Försök gärna att implementera dessa steg i din egen utvecklingsmiljö och utf
 - **Köpa:** [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Starta gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Begär tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum:** [Aspose Imaging Supportforum](https://forum.aspose.com/c/imaging/10)
+- **Supportforum:** [Aspose Imaging Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Utforska gärna dessa resurser och integrera Aspose.Imaging i dina projekt för sömlösa bildbehandlingsmöjligheter.
 

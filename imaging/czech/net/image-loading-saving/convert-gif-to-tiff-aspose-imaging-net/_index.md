@@ -154,7 +154,7 @@ tomto tutoriálu jste se naučili, jak převést jednotlivé snímky z GIFu do f
 - [Stáhnout Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - [Možnosti licencování Aspose](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze a dočasná licence](https://releases.aspose.com/imaging/net/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

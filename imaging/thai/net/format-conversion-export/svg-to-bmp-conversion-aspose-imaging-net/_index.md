@@ -142,7 +142,7 @@ image.Save("@YOUR_OUTPUT_DIRECTORY/test.svg_out.bmp", options);
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/net/)
 - [ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/14)
 
 เริ่มต้นการเดินทางของคุณเพื่อฝึกฝนการแปลงรูปภาพด้วย Aspose.Imaging สำหรับ .NET และสำรวจความเป็นไปได้ที่ไลบรารีอันทรงพลังนี้มอบให้ ขอให้สนุกกับการเขียนโค้ด!
 

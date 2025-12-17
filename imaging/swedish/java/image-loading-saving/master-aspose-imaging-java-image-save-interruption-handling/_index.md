@@ -231,7 +231,7 @@ Genom att följa den här handledningen har du lärt dig hur du implementerar As
    - Överväg att implementera trådpooler och effektiva resurshanteringsmetoder för att hantera hög samtidighet.
 
 5. **Hur kan jag felsöka vanliga problem när jag använder Aspose.Imaging?**
-   - Kontrollera den officiella [dokumentation](https://reference.aspose.com/imaging/java/) för detaljerade guider, eller besök [Aspose-forum](https://forum.aspose.com/c/imaging/10) för samhällsstöd.
+   - Kontrollera den officiella [dokumentation](https://reference.aspose.com/imaging/java/) för detaljerade guider, eller besök [Aspose-forum](https://forum.aspose.com/c/imaging/14) för samhällsstöd.
 
 ## Resurser
 

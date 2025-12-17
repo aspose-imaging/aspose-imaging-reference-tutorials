@@ -142,7 +142,7 @@ Aspose.Imaging'in ek işlevlerini keşfetmek için şu adresi ziyaret edin: [bel
 - [Satın almak](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

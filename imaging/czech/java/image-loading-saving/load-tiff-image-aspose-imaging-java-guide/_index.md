@@ -196,7 +196,7 @@ Jako další kroky zkuste tuto funkci integrovat do stávajícího projektu nebo
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Prozkoumejte tyto zdroje, abyste prohloubili své znalosti a dále vylepšili možnosti zpracování obrázků ve vaší aplikaci. Přejeme vám příjemné programování!
 

@@ -197,7 +197,7 @@ Aspose.Imaging for .NET के साथ, अब आपने अपने अ�
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [समर्थन और मंच](https://forum.aspose.com/c/imaging/10)
+- [समर्थन और मंच](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

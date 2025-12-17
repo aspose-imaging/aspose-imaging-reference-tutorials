@@ -133,7 +133,7 @@ Bước tiếp theo, hãy cân nhắc khám phá các tính năng bổ sung củ
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Đơn xin cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình làm chủ xử lý hình ảnh với Aspose.Imaging cho .NET ngay hôm nay!
 

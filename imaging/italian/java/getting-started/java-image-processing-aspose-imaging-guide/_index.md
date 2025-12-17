@@ -204,7 +204,7 @@ R4: Supporta vari formati, tra cui TIFF, JPEG, PNG e altri. Consulta la document
 
 **D5: Come posso ottenere assistenza se riscontro problemi?**
 
-A5: Visita il [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10) per ricevere assistenza dagli esperti della comunità.
+A5: Visita il [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14) per ricevere assistenza dagli esperti della comunità.
 
 ## Risorse
 
@@ -213,7 +213,7 @@ A5: Visita il [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10) 
 - **Acquistare**: https://purchase.aspose.com/buy
 - **Prova gratuita**: https://releases.aspose.com/imaging/java/
 - **Licenza temporanea**: https://purchase.aspose.com/temporary-license/
-- **Supporto**: https://forum.aspose.com/c/imaging/10
+- **Supporto**: https://forum.aspose.com/c/imaging/14
 
 Sfruttando queste risorse, puoi approfondire la tua comprensione e migliorare l'uso di Aspose.Imaging in Java. Buon lavoro di programmazione!
 

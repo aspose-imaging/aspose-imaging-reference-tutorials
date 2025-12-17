@@ -175,7 +175,7 @@ Jelajahi fitur Aspose.Imaging lainnya atau integrasikan ke dalam proyek Anda yan
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Panduan ini bertujuan untuk menyediakan semua yang Anda butuhkan untuk mulai bekerja secara efektif dengan gambar TIFF di Java menggunakan Aspose.Imaging. Selamat membuat kode!
 

@@ -152,7 +152,7 @@ Sind Sie bereit, diese Lösung in Ihren Projekten zu implementieren? Tauchen Sie
 - **Kauflizenz:** [Jetzt kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Erste Schritte](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz:** [Hier anfordern](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum:** [Aspose Gemeinschaft](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum:** [Aspose Gemeinschaft](https://forum.aspose.com/c/imaging/14)
 
 Begeben Sie sich noch heute auf Ihre Reise mit Aspose.Imaging für .NET und verbessern Sie die Bildverarbeitungsfunktionen Ihrer Anwendung!
 

@@ -167,7 +167,7 @@ Sie beherrschen nun das Laden und Speichern von TIFF-Frames mit Aspose.Imaging f
 - **Kaufen**: [Kaufen Sie eine Lizenz für Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Beginnen Sie mit einer kostenlosen Testversion](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Fordern Sie eine temporäre Lizenz an](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

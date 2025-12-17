@@ -141,7 +141,7 @@ Klaar om het uit te proberen? Implementeer deze oplossing in uw volgende project
 - **Aankoop**: [Een licentie verkrijgen](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Aan de slag met een gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Aspose-ondersteuning](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Aspose-ondersteuning](https://forum.aspose.com/c/imaging/14)
 
 Deze tutorial is ontworpen om je te begeleiden bij het effectief gebruiken van Aspose.Imaging voor .NET, zodat je deze krachtige bibliotheek optimaal kunt benutten. Veel plezier met coderen!
 

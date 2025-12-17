@@ -154,7 +154,7 @@ Jste připraveni posunout své dovednosti ve zpracování obrazu DICOM dále? Im
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/net/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Tato komplexní příručka vás vybaví vším, co potřebujete k aplikaci prahového ditheringu na snímky DICOM pomocí Aspose.Imaging pro .NET, a tím vylepší vaše možnosti zpracování obrazu.
 

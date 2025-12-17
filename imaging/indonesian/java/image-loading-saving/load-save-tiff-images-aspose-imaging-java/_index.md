@@ -171,7 +171,7 @@ Dalam tutorial ini, kami mengeksplorasi cara memuat dan menyimpan gambar TIFF se
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulai Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Tutorial ini membekali Anda dengan pengetahuan untuk mengimplementasikan pemrosesan gambar TIFF dalam aplikasi Java Anda secara efisien. Selamat membuat kode!
 

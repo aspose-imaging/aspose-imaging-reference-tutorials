@@ -142,7 +142,7 @@ A: Kesinlikle. Şunu kullanın: `Save` Bunu başarmak için farklı dosya uzant�
 - **Lisans Satın Al:** [Aspose Satın Alma Seçenekleri](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Değerlendirme Kopyası Alın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans:** [Geçici Lisans Talebinde Bulunun](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu:** [Aspose.Imaging Destek Topluluğu](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu:** [Aspose.Imaging Destek Topluluğu](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET kullanarak anlayışınızı derinleştirmek ve uygulamalarınızı geliştirmek için bu kaynakları keşfedin. İyi kodlamalar!
 

@@ -186,7 +186,7 @@ image.save(outFileName, options);
 - [สั่งซื้อสมัครสมาชิก](https://purchase.aspose.com/buy)
 - [ใบอนุญาตทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - [ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 หากทำตามคำแนะนำนี้ คุณก็จะสามารถเรียนรู้การแปลงรูปภาพใน Java โดยใช้ Aspose.Imaging ได้อย่างคล่องแคล่ว ขอให้สนุกกับการเขียนโค้ด!
 

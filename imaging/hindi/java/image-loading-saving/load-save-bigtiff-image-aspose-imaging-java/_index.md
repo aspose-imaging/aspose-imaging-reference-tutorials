@@ -190,7 +190,7 @@ try {
 - [Java के लिए Aspose.Imaging डाउनलोड करें](https://releases.aspose.com/imaging/java/)
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण और अस्थायी लाइसेंस](https://releases.aspose.com/imaging/java/), [अस्थायी लाइसेंस पृष्ठ](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java की अपनी समझ को गहरा करने के लिए इन संसाधनों का अन्वेषण करें, यह सुनिश्चित करते हुए कि आप किसी भी BigTIFF छवि प्रसंस्करण आवश्यकताओं को संभालने के लिए सुसज्जित हैं।
 

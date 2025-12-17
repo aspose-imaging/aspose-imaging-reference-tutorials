@@ -161,7 +161,7 @@ Aspose.Imagingは多くの一般的なフォーマットを標準でサポート
 - **購入**： [ライセンスを取得する](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imagingを無料でお試しください](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [リクエストはこちら](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [Aspose サポートコミュニティ](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [Aspose サポートコミュニティ](https://forum.aspose.com/c/imaging/14)
 
 この包括的なガイドに従うことで、.NETアプリケーションにおける画像処理タスクを自信と効率性を持って実行できるようになります。コーディングを楽しみましょう！
 

@@ -183,7 +183,7 @@ Sẵn sàng triển khai giải pháp này chưa? Hãy tìm hiểu mã ngay!
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Tận dụng sức mạnh của Aspose.Imaging for Java để nâng cao khả năng xử lý hình ảnh của bạn một cách dễ dàng và chính xác!
 

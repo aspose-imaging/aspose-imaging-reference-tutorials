@@ -159,7 +159,7 @@ Részletesebb információkért és forrásokért tekintse meg az alábbiakat:
 - **Vásárlás:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Próbálja ki az Aspose.Imaging ingyenes próbaverzióját](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély:** [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Képalkotó Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Képalkotó Fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

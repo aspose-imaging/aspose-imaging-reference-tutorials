@@ -142,7 +142,7 @@ Chcete-li si dále vylepšit dovednosti s Aspose.Imaging, prozkoumejte další f
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/net/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na cestu k zvládnutí konverze obrázků s Aspose.Imaging pro .NET a prozkoumejte možnosti, které tato výkonná knihovna nabízí. Přejeme vám příjemné programování!
 

@@ -252,7 +252,7 @@ Bây giờ bạn đã nắm vững những điều cơ bản về thao tác DICO
 **Các bước tiếp theo:**
 - Khám phá thêm các tính năng trong [Tài liệu Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - Thử nghiệm với các thao tác DICOM phức tạp hơn.
-- Chia sẻ kinh nghiệm và giải pháp của bạn trên các diễn đàn như [Diễn đàn cộng đồng Aspose](https://forum.aspose.com/c/imaging/10).
+- Chia sẻ kinh nghiệm và giải pháp của bạn trên các diễn đàn như [Diễn đàn cộng đồng Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Phần Câu hỏi thường gặp
 
@@ -278,7 +278,7 @@ A5: Xác minh đường dẫn tệp là chính xác, đảm bảo bạn có quy�
 - **Mua**: [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Nhận bản dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn cộng đồng Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn cộng đồng Aspose](https://forum.aspose.com/c/imaging/14)
 
 Với hướng dẫn toàn diện này, bạn sẽ được trang bị đầy đủ để xử lý các tác vụ xử lý hình ảnh DICOM bằng Aspose.Imaging Java. Chúc bạn viết mã vui vẻ!
 

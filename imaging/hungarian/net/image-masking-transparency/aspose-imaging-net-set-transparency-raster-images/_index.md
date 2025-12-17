@@ -159,7 +159,7 @@ Implementáljon logikát az alkalmazásában, amely dinamikusan beállítja a `T
 - **Licenc vásárlása**: [Vásárolja meg az Aspose.Licensing-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbáld ki az Aspose.Imaging-et](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély kérése](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Aspose képalkotási támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Aspose képalkotási támogatás](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

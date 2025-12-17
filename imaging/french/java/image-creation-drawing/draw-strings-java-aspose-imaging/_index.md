@@ -204,7 +204,7 @@ Vous savez désormais dessiner des chaînes de caractères avec différents alig
 - **Achat:** [Acheter la licence Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Essayez Aspose.Imaging gratuitement](https://releases.aspose.com/imaging/java/)
 - **Licence temporaire :** [Demande de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Soutien:** [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Explorez ces ressources pour approfondir votre compréhension et vos compétences avec Aspose.Imaging pour Java. Bon codage !
 

@@ -214,7 +214,7 @@ A: Конечно. Он эффективно обрабатывает разли
 - **Покупка**: [Купить Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Попробуйте Aspose.Imaging бесплатно](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия**: [Получить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: [Форум Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: [Форум Aspose](https://forum.aspose.com/c/imaging/14)
 
 Теперь, когда вы вооружены этими знаниями, попробуйте реализовать эти функции в своих приложениях Java!
 

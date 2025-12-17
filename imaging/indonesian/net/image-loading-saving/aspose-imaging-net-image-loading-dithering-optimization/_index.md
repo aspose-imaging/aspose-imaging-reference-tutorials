@@ -159,7 +159,7 @@ Siap untuk memulai? Terjunlah dalam penerapan solusi ini dan lihat dampaknya pad
 - **Pembelian:** [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara:** [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Forum Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Forum Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

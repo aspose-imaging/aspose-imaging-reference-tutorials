@@ -160,7 +160,7 @@ Je hebt nu ontdekt hoe je Aspose.Imaging voor .NET kunt gebruiken om aangepaste 
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 We hopen dat deze tutorial je waardevolle inzichten heeft gegeven in het effectief gebruiken van Aspose.Imaging voor .NET. Veel plezier met coderen!
 

@@ -150,7 +150,7 @@ A: Obsługuje szeroką gamę formatów, w tym JPEG, PNG, TIFF i inne. Sprawdź [
 A: Możesz zacząć od bezpłatnego okresu próbnego lub skorzystać z tymczasowej licencji, aby zapoznać się z funkcjami programu przed podjęciem decyzji o zakupie.
 
 **P: Jak rozwiązywać typowe problemy z ładowaniem obrazów w Aspose.Imaging?**
-A: Sprawdź ścieżki plików, sprawdź wersje bibliotek i skonsultuj się z [forum wsparcia](https://forum.aspose.com/c/imaging/10) po pomoc.
+A: Sprawdź ścieżki plików, sprawdź wersje bibliotek i skonsultuj się z [forum wsparcia](https://forum.aspose.com/c/imaging/14) po pomoc.
 
 ## Zasoby
 - **Dokumentacja**: [Aspose.Imaging .NET Dokumentacja](https://reference.aspose.com/imaging/net/)
@@ -158,7 +158,7 @@ A: Sprawdź ścieżki plików, sprawdź wersje bibliotek i skonsultuj się z [fo
 - **Informacje o zakupie i licencji**: [Strona zakupu Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Rozpocznij bezpłatny okres próbny](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa**: [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

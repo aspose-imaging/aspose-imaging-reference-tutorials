@@ -155,7 +155,7 @@ Vyzkoušejte toto řešení implementovat do svých projektů ještě dnes!
 - **Nákup**https://purchase.aspose.com/buy
 - **Bezplatná zkušební verze**https://releases.aspose.com/imaging/java/
 - **Dočasná licence**https://purchase.aspose.com/temporary-license/
-- **Fórum podpory**https://forum.aspose.com/c/imaging/10
+- **Fórum podpory**https://forum.aspose.com/c/imaging/14
 
 Tato příručka vás vybaví znalostmi a nástroji pro práci s poškozenými obrázky TIFF pomocí Aspose.Imaging pro Javu. Začněte experimentovat a integrovat tyto funkce do svých aplikací ještě dnes!
 

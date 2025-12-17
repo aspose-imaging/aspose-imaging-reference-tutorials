@@ -160,7 +160,7 @@ A5：當然。其強大的功能集和性能優化使其成為小型和大型應
 - **購買**： [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用**： [免費試用](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [申請臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose.Imaging 支援論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose.Imaging 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 有了這些資源和指南，您就能在 .NET 中使用 Aspose.Imaging 處理 DICOM 映像了。祝您編碼愉快！
 

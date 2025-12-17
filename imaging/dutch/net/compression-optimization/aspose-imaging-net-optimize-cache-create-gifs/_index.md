@@ -182,7 +182,7 @@ Ontdek meer functies die Aspose.Imaging biedt in hun [officiële documentatie](h
    - Gebruik cache-instellingen om de toewijzing van bronnen effectief te beheren en overweeg batchverwerkingstechnieken.
 
 4. **Is er ondersteuning beschikbaar als ik problemen ondervind met Aspose.Imaging?**
-   - Ja, u kunt hulp vinden op de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10).
+   - Ja, u kunt hulp vinden op de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14).
 
 5. **Wat zijn enkele best practices voor het gebruik van aangepaste paletten in GIF's?**
    - Kies kleuren die nauw aansluiten bij uw ontwerpdoelen en test verschillende combinaties om optimale resultaten te bereiken.

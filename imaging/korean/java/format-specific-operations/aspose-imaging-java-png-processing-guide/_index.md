@@ -167,7 +167,7 @@ A5: 예, 다양한 필터 설정을 체인으로 연결할 수 있습니다. `Pn
 - **구입:** [라이센스 취득](https://purchase.aspose.com/buy)
 - **무료 체험:** [구매하기 전에 시도해 보세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [여기에서 요청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼:** [커뮤니티에 문의하기](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼:** [커뮤니티에 문의하기](https://forum.aspose.com/c/imaging/14)
 
 이제 지식을 갖추었으니, Java 프로젝트에서 이러한 기술을 구현해보세요!
 

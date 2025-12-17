@@ -160,7 +160,7 @@ A: A try-catch blokkok segítségével kezelheti a helytelen fájlelérési utak
 V: Igen, az Aspose a Java mellett .NET, C++ és más platformokhoz is kínál könyvtárakat.
 
 **K: Van elérhető támogatás, ha problémákba ütközöm?**
-V: Látogassa meg a [Aspose fórum](https://forum.aspose.com/c/imaging/10) a közösségi és hivatalos támogatásért.
+V: Látogassa meg a [Aspose fórum](https://forum.aspose.com/c/imaging/14) a közösségi és hivatalos támogatásért.
 
 **K: Melyek az Aspose.Imaging segítségével történő képfeldolgozás legjobb gyakorlatai?**
 V: Mindig tesztelj különböző fájlméretekkel, kezeld a kivételeket szabályosan, és hatékonyan kezeld az erőforrásokat a memóriavesztés megelőzése érdekében.
@@ -172,7 +172,7 @@ V: Mindig tesztelj különböző fájlméretekkel, kezeld a kivételeket szabál
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Ingyenes próbaverzió indítása](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az oktatóanyag követésével hatékonyan kezelheted az EMF fájlokat, és kihasználhatod az Aspose.Imaging hatékony funkcióit Java projektjeidben. Jó kódolást!
 

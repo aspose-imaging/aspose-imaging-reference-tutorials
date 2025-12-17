@@ -231,7 +231,7 @@ Bu eğitimde, Java uygulamanızda varsayılan bir yazı tipini nasıl ayarlayaca
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Sürümü](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Aspose.Imaging kullanarak Java'da karmaşık görüntü işleme görevlerini halletmek için iyi bir donanıma sahip olacaksınız. İyi kodlamalar!
 

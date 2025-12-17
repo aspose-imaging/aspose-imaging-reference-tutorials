@@ -178,7 +178,7 @@ Langkah selanjutnya? Bereksperimenlah dengan konfigurasi yang berbeda atau integ
 - **Dokumentasi**:Jelajahi panduan lengkap di [Referensi Aspose Imaging .NET](https://reference.aspose.com/imaging/net/).
 - **Unduh**: Akses rilis terbaru melalui [Rilis Aspose](https://releases.aspose.com/imaging/net/).
 - **Pembelian & Uji Coba Gratis**: Pertimbangkan untuk mencoba atau membeli melalui situs resmi [Halaman Pembelian Aspose](https://purchase.aspose.com/buy) Dan [Uji Coba Gratis](https://releases.aspose.com/imaging/net/).
-- **Mendukung**:Untuk pertanyaan apa pun, kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10).
+- **Mendukung**:Untuk pertanyaan apa pun, kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

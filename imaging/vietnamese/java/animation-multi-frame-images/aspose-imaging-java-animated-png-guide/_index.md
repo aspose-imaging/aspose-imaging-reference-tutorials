@@ -196,7 +196,7 @@ Sẵn sàng bắt đầu? Hãy áp dụng các bước này vào dự án của 
 - **Mua bản quyền:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)  
 - **Dùng thử miễn phí:** [Get Started with Free Trial](https://releases.aspose.com/imaging/java/)  
 - **Giấy phép tạm thời:** [Acquire Temporary License](https://purchase.aspose.com/temporary-license/)  
-- **Diễn đàn hỗ trợ:** [Aspose Community Support](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** [Aspose Community Support](https://forum.aspose.com/c/imaging/14)
 
 ---
 

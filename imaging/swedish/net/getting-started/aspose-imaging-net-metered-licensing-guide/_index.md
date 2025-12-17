@@ -147,7 +147,7 @@ den här guiden har vi utforskat hur man implementerar mätad licensiering med A
 - Experimentera ytterligare genom att integrera mätad licensiering i mer komplexa arbetsflöden.
 - Utforska ytterligare funktioner som erbjuds av Aspose.Imaging och som kan förbättra din applikations kapacitet.
 
-Vi uppmuntrar dig att testa den här implementeringen i dina projekt. Om du har frågor eller behöver support, tveka inte att kontakta oss via [Aspose community forum](https://forum.aspose.com/c/imaging/10).
+Vi uppmuntrar dig att testa den här implementeringen i dina projekt. Om du har frågor eller behöver support, tveka inte att kontakta oss via [Aspose community forum](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ-sektion
 **F1: Vad är mätlicensering?**

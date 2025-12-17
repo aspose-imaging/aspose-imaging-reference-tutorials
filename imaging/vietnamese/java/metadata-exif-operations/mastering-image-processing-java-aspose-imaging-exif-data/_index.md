@@ -217,7 +217,7 @@ Các bước tiếp theo? Hãy thử triển khai các kỹ thuật này trong c
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Yêu cầu cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Bây giờ bạn đã có đầy đủ các công cụ và kiến thức, đã đến lúc bắt đầu triển khai các tính năng mạnh mẽ này vào ứng dụng Java của bạn!
 

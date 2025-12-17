@@ -181,7 +181,7 @@ In deze tutorial heb je geleerd hoe je DICOM-afbeeldingen laadt en opslaat met A
 - **Downloaden:** [Nieuwste releases](https://releases.aspose.com/imaging/java/)
 - **Aankoop:** [Koop Aspose-licenties](https://purchase.aspose.com/buy)
 - **Gratis proefversie en tijdelijke licentie:** [Aan de slag](https://releases.aspose.com/imaging/java/)
-- **Ondersteuningsforum:** [Aspose-gemeenschap](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum:** [Aspose-gemeenschap](https://forum.aspose.com/c/imaging/14)
 
 Deze uitgebreide gids heeft je de vaardigheden bijgebracht die je nodig hebt om DICOM-afbeeldingen in Java-applicaties efficiënt te beheren met Aspose.Imaging. Veel plezier met coderen!
 

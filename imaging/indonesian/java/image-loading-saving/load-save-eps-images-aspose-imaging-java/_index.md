@@ -234,7 +234,7 @@ A: Manfaatkan operasi asinkron, kelola memori secara efektif, dan pertimbangkan 
 - **Pembelian:** [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Coba Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

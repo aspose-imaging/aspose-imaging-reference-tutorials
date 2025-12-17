@@ -148,7 +148,7 @@ Aspose.Imaging for .NET 是一个为图像处理任务提供广泛支持的库�
 - **购买：** [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用：** [从免费试用开始](https://releases.aspose.com/imaging/net/)
 - **临时执照：** [获得临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 论坛支持](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 论坛支持](https://forum.aspose.com/c/imaging/14)
 
 本指南旨在帮助您充分发挥 Aspose.Imaging 在 .NET 项目中的潜力。祝您编程愉快！
 

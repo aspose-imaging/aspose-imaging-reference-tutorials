@@ -195,7 +195,7 @@ Aspose.Imaging の機能を責任を持って活用し、不要になったリ�
 - **購入：** [ライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料お試し](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス:** [ここから入手](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [コミュニティフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [コミュニティフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドが、Aspose.Imaging for .NET を使用して画像メタデータを自信を持って管理するのに役立つことを願っています。コーディングを楽しみましょう！
 

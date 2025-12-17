@@ -204,7 +204,7 @@ Nyní jste se naučili, jak využít knihovnu Aspose.Imaging pro Javu k načít�
 - **Nákup**Získejte licence přímo od [Nákup Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**Začněte experimentovat s [bezplatná zkušební licence](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**Získejte dočasnou licenci k testování na adrese [Dočasná licence](https://purchase.aspose.com/temporary-license/).
-- **Podpora**Připojte se ke komunitě na [Fórum Aspose](https://forum.aspose.com/c/imaging/10) pro jakékoli dotazy nebo diskuze.
+- **Podpora**Připojte se ke komunitě na [Fórum Aspose](https://forum.aspose.com/c/imaging/14) pro jakékoli dotazy nebo diskuze.
 
 Díky tomuto tutoriálu jste nyní vybaveni pro zvládání složitých úloh zpracování obrazu v Javě pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 

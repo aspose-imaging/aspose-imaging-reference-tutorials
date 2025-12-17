@@ -171,7 +171,7 @@ image.save(outputFileNameMultipageDcm, new DicomOptions());
 - **ซื้อ**- [ซื้อ Aspose Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [ลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว**- [รับใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน**- [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน**- [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14)
 
 หากทำตามบทช่วยสอนนี้ คุณจะมีความพร้อมในการจัดการงานการแปลงภาพในโครงการถ่ายภาพทางการแพทย์ของคุณโดยใช้ Aspose.Imaging สำหรับ Java
 

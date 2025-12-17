@@ -156,7 +156,7 @@ writer.write("This is a sample output.\n");
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらの概念を習得すれば、ファイルI/O操作を効率的に管理する強力なJavaアプリケーションを作成できるようになります。コーディングを楽しんでください！
 

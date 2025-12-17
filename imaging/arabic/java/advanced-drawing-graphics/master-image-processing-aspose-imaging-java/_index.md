@@ -191,7 +191,7 @@ static void exportProgressCallback(ProgressEventHandlerInfo info) {
 - **الشراء**: [Buy Aspose Products](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [Start a Free Trial](https://releases.aspose.com/imaging/java/)
 - **ترخيص مؤقت**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **الدعم**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **الدعم**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 الآن، مسلحًا بهذه المعرفة، أنت جاهز لتطبيق Aspose.Imaging في مشاريع Java الخاصة بك لتعزيز قدرات معالجة الصور. برمجة سعيدة!
 

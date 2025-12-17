@@ -204,7 +204,7 @@ Bây giờ bạn đã biết cách tận dụng Aspose.Imaging for Java để t�
 - **Mua**Nhận giấy phép trực tiếp từ [Mua Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: Bắt đầu thử nghiệm với một [giấy phép dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: Xin giấy phép tạm thời để thử nghiệm tại [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/).
-- **Ủng hộ**:Tham gia cộng đồng trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10) cho bất kỳ thắc mắc hoặc thảo luận nào.
+- **Ủng hộ**:Tham gia cộng đồng trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14) cho bất kỳ thắc mắc hoặc thảo luận nào.
 
 Bằng cách làm theo hướng dẫn này, giờ đây bạn đã có đủ khả năng xử lý các tác vụ xử lý hình ảnh phức tạp trong Java bằng Aspose.Imaging. Chúc bạn viết mã vui vẻ!
 

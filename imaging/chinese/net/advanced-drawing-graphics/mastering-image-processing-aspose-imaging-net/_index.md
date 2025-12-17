@@ -167,7 +167,7 @@ Aspose.Imaging for .NET 在各种实际场景中表现出色：
 - **购买：** [购买 Aspose 许可证](https://purchase.aspose.com/buy)
 - **免费试用：** [尝试免费评估](https://releases.aspose.com/imaging/net/)
 - **临时执照：** [获得临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

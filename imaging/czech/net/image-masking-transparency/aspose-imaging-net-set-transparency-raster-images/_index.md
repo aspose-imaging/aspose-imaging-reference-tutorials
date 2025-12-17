@@ -159,7 +159,7 @@ Implementujte ve své aplikaci logiku, která dynamicky nastavuje `TransparentCo
 - **Zakoupit licenci**: [Koupit Aspose.Licensing](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Podpora zobrazování Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Podpora zobrazování Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

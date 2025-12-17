@@ -211,7 +211,7 @@ A: Gebruik aangepaste buffergroottes tijdens het laden om het geheugengebruik ef
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Start een gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u goed toegerust om geavanceerde beeldcompressietechnieken te implementeren met Aspose.Imaging voor Java. Ontdek meer en integreer deze methoden in uw projecten voor optimale prestaties en kwaliteit.
 

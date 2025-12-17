@@ -187,7 +187,7 @@ class FeatureSaveProcessedImage {
 
 现在，您已经掌握了使用 Aspose.Imaging for Java 加载、处理和保存二值化图像的基础知识。您可以进一步探索该库提供的其他功能，例如高级过滤或格式转换。
 
-下一步包括将此功能集成到您的项目中，并尝试不同的图像类型和处理场景。欢迎通过 [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10) 如有任何问题！
+下一步包括将此功能集成到您的项目中，并尝试不同的图像类型和处理场景。欢迎通过 [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14) 如有任何问题！
 
 ## 常见问题解答部分
 

@@ -181,7 +181,7 @@ import com.aspose.imaging.Image;
 - [Лицензия на покупку](https://purchase.aspose.com/buy)
 - [Бесплатная пробная загрузка](https://releases.aspose.com/imaging/java/)
 - [Запросить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Следуя этому руководству, вы будете на пути к освоению обработки изображений TIFF с помощью Aspose.Imaging в Java. Удачного кодирования!
 

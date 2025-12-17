@@ -161,7 +161,7 @@ canvas.Save("YOUR_OUTPUT_DIRECTORY\\AddSignatureToImage_out.png", new PngOptions
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/net/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10)
+- [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 有了这些资源，您将能够进一步探索并充分利用 Aspose.Imaging 的潜力，满足您的图像处理需求。祝您编码愉快！
 

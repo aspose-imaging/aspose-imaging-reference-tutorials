@@ -202,7 +202,7 @@ Gotowy do wdrożenia tych rozwiązań? Zanurz się w świecie zaawansowanego prz
    - Podczas przetwarzania wsadowego należy używać odpowiednich ustawień rasteryzacji i monitorować zasoby systemowe.
 
 5. **Jak uzyskać pomoc w razie problemów?**
-   - Odwiedź [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) aby uzyskać wsparcie społeczności lub skontaktować się z ich profesjonalnym zespołem wsparcia.
+   - Odwiedź [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) aby uzyskać wsparcie społeczności lub skontaktować się z ich profesjonalnym zespołem wsparcia.
 
 ## Zasoby
 

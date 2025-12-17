@@ -172,7 +172,7 @@ För vidare utforskning, överväg att experimentera med andra bildformat som st
 - **Köplicens:** [Köp Aspose.License](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Starta gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens:** [Få tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum:** [Aspose.Imaging-stöd](https://forum.aspose.com/c/imaging/10)
+- **Supportforum:** [Aspose.Imaging-stöd](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din resa med Aspose.Imaging för .NET idag och lås upp nya möjligheter inom bildbehandling!
 

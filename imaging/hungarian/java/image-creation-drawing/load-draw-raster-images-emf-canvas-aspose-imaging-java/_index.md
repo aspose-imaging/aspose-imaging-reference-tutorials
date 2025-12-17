@@ -191,7 +191,7 @@ Gyakori problémák közé tartozik a képfájl-eldobás nem megfelelő kezelés
 - **Vásárlás**https://purchase.aspose.com/buy
 - **Ingyenes próbaverzió**https://releases.aspose.com/imaging/java/
 - **Ideiglenes engedély**https://purchase.aspose.com/temporary-license/
-- **Támogatás**https://forum.aspose.com/c/imaging/10
+- **Támogatás**https://forum.aspose.com/c/imaging/14
 
 Reméljük, hogy hasznosnak találod ezt az útmutatót a projektjeidben. Jó programozást!
 

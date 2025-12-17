@@ -157,7 +157,7 @@ You've learned how to apply the Motion Wiener Filter using Aspose.Imaging for .N
 - **Purchase:** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
 - **Free Trial:** [Start Free Trial](https://releases.aspose.com/imaging/net/)
 - **Temporary License:** [Apply for Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Embark on your journey to mastering image processing with Aspose.Imaging for .NET today!
 

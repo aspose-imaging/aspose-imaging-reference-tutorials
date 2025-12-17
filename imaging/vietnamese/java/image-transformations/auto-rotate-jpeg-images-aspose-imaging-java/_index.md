@@ -184,7 +184,7 @@ Sẵn sàng đón nhận thử thách tiếp theo? Áp dụng các kỹ thuật 
 - **Mua**: Hãy cân nhắc mua giấy phép sử dụng lâu dài tại [Trang mua hàng Aspose](https://purchase.aspose.com/buy).
 - **Dùng thử miễn phí**: Bắt đầu với bản dùng thử miễn phí để khám phá các tính năng tại [Dùng thử miễn phí Aspose Imaging](https://releases.aspose.com/imaging/java/).
 - **Giấy phép tạm thời**: Xin giấy phép tạm thời để thử nghiệm mở rộng.
-- **Ủng hộ**: Tham gia diễn đàn cộng đồng để được hỗ trợ tại [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10). 
+- **Ủng hộ**: Tham gia diễn đàn cộng đồng để được hỗ trợ tại [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14). 
 
 Với hướng dẫn toàn diện này, bạn sẽ được trang bị đầy đủ để xử lý ảnh JPEG bằng Aspose.Imaging cho Java. Chúc bạn viết mã vui vẻ!
 

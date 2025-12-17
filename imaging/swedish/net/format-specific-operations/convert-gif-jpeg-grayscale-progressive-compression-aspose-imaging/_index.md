@@ -153,7 +153,7 @@ A: Ja, den är utformad för att fungera med olika .NET Frameworks och Core-vers
 - **Köplicens**: [Aspose köpsida](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**: [Aspose Support Community](https://forum.aspose.com/c/imaging/10)
+- **Supportforum**: [Aspose Support Community](https://forum.aspose.com/c/imaging/14)
 
 Genom att bemästra konverteringsprocessen med Aspose.Imaging är du rustad att hantera komplexa bildbehandlingsuppgifter effektivt i dina .NET-applikationer. Lycka till med kodningen!
 

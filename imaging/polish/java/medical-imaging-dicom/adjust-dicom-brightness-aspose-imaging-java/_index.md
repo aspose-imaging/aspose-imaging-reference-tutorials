@@ -183,7 +183,7 @@ Gotowy do wdrożenia tego rozwiązania? Zanurz się w kodzie już teraz!
 - **Zakup**: [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Wypróbuj za darmo](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**: [Poproś o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Wykorzystaj potencjał Aspose.Imaging for Java, aby z łatwością i precyzją uprościć przetwarzanie obrazów!
 

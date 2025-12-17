@@ -189,7 +189,7 @@ A5: استخدم الطرق المختلفة التي يوفرها Aspose.Imagin
 - **شراء**:تأمين ترخيص لفتح الميزات الكاملة في [صفحة شراء Aspose](https://purchase.aspose.com/buy).
 - **نسخة تجريبية مجانية**:اختبر قدرات Aspose.Imaging عبر [تنزيلات تجريبية مجانية](https://releases.aspose.com/imaging/java/).
 - **رخصة مؤقتة**:طلب ترخيص مؤقت للاختبار الموسع [هنا](https://purchase.aspose.com/temporary-license/).
-- **يدعم**:للاستفسارات أو المساعدة، قم بزيارة [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10).
+- **يدعم**:للاستفسارات أو المساعدة، قم بزيارة [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14).
 
 ابدأ رحلتك في معالجة الصور اليوم واكتشف الإمكانات الكاملة لـ Aspose.Imaging في Java!
 

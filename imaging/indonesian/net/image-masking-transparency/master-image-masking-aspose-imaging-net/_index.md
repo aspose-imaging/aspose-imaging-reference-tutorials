@@ -195,7 +195,7 @@ Sekarang, Anda seharusnya sudah memiliki pemahaman yang kuat tentang cara membua
 - **Pembelian:** [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Dapatkan Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara:** [Ajukan Permohonan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda akan siap memanfaatkan potensi penuh Aspose.Imaging for .NET dalam proyek Anda. Selamat membuat kode!
 

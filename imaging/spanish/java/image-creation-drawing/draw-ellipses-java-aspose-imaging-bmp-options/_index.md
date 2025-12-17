@@ -191,7 +191,7 @@ Como próximos pasos, considere explorar otras funciones de dibujo proporcionada
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Solicitud de licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Al aprovechar Aspose.Imaging, puede optimizar sus aplicaciones Java con robustas funciones de manipulación de imágenes. ¡Que disfrute programando!
 

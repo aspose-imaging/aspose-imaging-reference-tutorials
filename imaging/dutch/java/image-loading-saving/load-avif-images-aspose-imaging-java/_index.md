@@ -198,7 +198,7 @@ Om uw vaardigheden en begrip verder te vergroten, kunt u de volgende bronnen raa
 - **Aankoop en licentie:** Meer informatie over aankoopopties vindt u op [De aankooppagina van Aspose](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** Begin met een gratis proefperiode door naar [De proefpagina van Aspose](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** Vraag een tijdelijke licentie aan voor volledige toegang tot de functies op [Tijdelijke licentiepagina van Aspose](https://purchase.aspose.com/temporary-license/)
-- **Steun:** Betrek de gemeenschap erbij en zoek ondersteuning [Aspose's forum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** Betrek de gemeenschap erbij en zoek ondersteuning [Aspose's forum](https://forum.aspose.com/c/imaging/14)
 
 Met deze hulpmiddelen bent u goed toegerust om de kracht van Aspose.Imaging voor Java in uw projecten te benutten. Veel plezier met coderen!
 

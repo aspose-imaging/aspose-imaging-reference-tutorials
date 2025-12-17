@@ -172,7 +172,7 @@ Pro další zkoumání zvažte experimentování s jinými obrazovými formáty 
 - **Licence k zakoupení:** [Koupit Aspose.Licence](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Zahájit bezplatnou zkušební verzi](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence:** [Získat dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory:** [Podpora Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory:** [Podpora Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na svou cestu s Aspose.Imaging pro .NET ještě dnes a odemkněte nové možnosti ve zpracování obrazu!
 

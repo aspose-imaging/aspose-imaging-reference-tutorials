@@ -153,7 +153,7 @@ További információkért és forrásokért:
 - **Licenc vásárlása:** [Vásároljon most](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum:** [Aspose.Imaging támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum:** [Aspose.Imaging támogatás](https://forum.aspose.com/c/imaging/14)
 
 Ezzel az útmutatóval minden szükséges eszközzel integrálhatod a DICOM-PNG konverziót a .NET projektjeidbe. Jó kódolást!
 

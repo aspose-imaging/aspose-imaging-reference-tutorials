@@ -189,7 +189,7 @@ Az Aspose.Imaging .NET segítségével többszálú DJVU feldolgozás megvalós�
 - [Licencek vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedély információk](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10) 
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14) 
 
 Lépj be az Aspose.Imaging hatékony képfeldolgozási útjára, és hozd ki a legtöbbet a többszálú DJVU képfeldolgozásból a .NET-ben!
 

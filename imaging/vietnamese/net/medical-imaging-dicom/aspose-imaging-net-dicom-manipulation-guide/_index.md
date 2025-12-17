@@ -126,7 +126,7 @@ A: Thao tác này sẽ không thành công, do đó, bạn nên kiểm tra xem t
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Dùng thử Aspose.Imaging miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: Để biết thêm thông tin, hãy truy cập [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: Để biết thêm thông tin, hãy truy cập [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Với hướng dẫn toàn diện này, bạn đã sẵn sàng bắt đầu tận dụng Aspose.Imaging cho .NET trong các dự án chỉnh sửa hình ảnh DICOM của mình. Chúc bạn viết mã vui vẻ!
 

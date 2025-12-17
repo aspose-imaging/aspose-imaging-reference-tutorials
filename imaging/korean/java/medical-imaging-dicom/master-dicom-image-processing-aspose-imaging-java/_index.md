@@ -252,7 +252,7 @@ Java용 Aspose.Imaging을 사용할 때 성능을 최적화하려면 다음 팁�
 **다음 단계:**
 - 추가 기능을 탐색하세요 [Aspose.Imaging 문서](https://reference.aspose.com/imaging/java/).
 - 더욱 복잡한 DICOM 조작을 실험해 보세요.
-- 귀하의 경험과 솔루션을 다음과 같은 포럼에서 공유하세요. [Aspose 커뮤니티 포럼](https://forum.aspose.com/c/imaging/10).
+- 귀하의 경험과 솔루션을 다음과 같은 포럼에서 공유하세요. [Aspose 커뮤니티 포럼](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ 섹션
 
@@ -278,7 +278,7 @@ A5: 파일 경로가 올바른지 확인하고, 적절한 권한이 있는지 �
 - **구입**: [라이센스 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료 체험판을 받아보세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 커뮤니티 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 커뮤니티 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 포괄적인 가이드를 통해 Aspose.Imaging Java를 사용하여 DICOM 이미지 처리 작업을 효과적으로 처리할 수 있습니다. 즐거운 코딩 되세요!
 

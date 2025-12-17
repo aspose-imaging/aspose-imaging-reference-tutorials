@@ -241,7 +241,7 @@ try (EmfImage image = graphics.endRecording()) {
 - [Варианты покупки](https://purchase.aspose.com/buy)
 - [Бесплатная пробная версия](https://releases.aspose.com/imaging/java/)
 - [Временная лицензия](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки](https://forum.aspose.com/c/imaging/14)
 
 Теперь, когда у вас есть полное руководство по реализации функций рисования с помощью Aspose.Imaging для Java, начните экспериментировать и интегрировать эти методы в свои проекты. Удачного кодирования!
 

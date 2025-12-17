@@ -158,7 +158,7 @@ Trong hướng dẫn này, chúng tôi đã khám phá cách mở và xử lý h
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Phiên bản dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Đơn xin cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn toàn diện này sẽ giúp bạn triển khai và sử dụng hiệu quả Aspose.Imaging Java để xử lý hình ảnh theo luồng, nâng cao hiệu suất và khả năng của ứng dụng.
 

@@ -190,7 +190,7 @@ Bây giờ bạn đã học cách kết hợp nhiều hình ảnh thành một b
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Với những tài nguyên và mẹo này, bạn sẽ được trang bị đầy đủ để giải quyết mọi thách thức về chỉnh sửa hình ảnh bằng Aspose.Imaging cho .NET. Chúc bạn viết mã vui vẻ!
 

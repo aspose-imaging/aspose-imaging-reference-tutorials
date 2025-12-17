@@ -223,7 +223,7 @@ R5: Ele permite que você leia ou grave em posições específicas de um arquivo
 - [Baixar Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - [Licença de compra](https://purchase.aspose.com/buy)
 - [Teste gratuito e licença temporária](https://releases.aspose.com/imaging/java/)
-- [Fórum de Suporte](https://forum.aspose.com/c/imaging/10) 
+- [Fórum de Suporte](https://forum.aspose.com/c/imaging/14) 
 
 Embarque em sua jornada com o Aspose.Imaging Java hoje mesmo e libere o potencial do processamento de imagens de alto desempenho em seus projetos!
 

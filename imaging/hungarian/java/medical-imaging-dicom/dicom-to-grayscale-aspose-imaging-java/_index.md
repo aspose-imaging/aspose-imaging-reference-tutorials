@@ -154,7 +154,7 @@ További olvasmányért és támogatásért:
 - **Vásárlás**: [Vásároljon Aspose termékeket](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbálja ki ingyen](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Kérelem itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Aspose közösségi támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Aspose közösségi támogatás](https://forum.aspose.com/c/imaging/14)
 
 Indulj el az utazásodra az Aspose.Imaging Java segítségével, és fedezd fel a képfeldolgozás hatalmas lehetőségeit Java nyelven!
 

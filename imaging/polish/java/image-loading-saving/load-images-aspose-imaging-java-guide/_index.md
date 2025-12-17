@@ -177,7 +177,7 @@ Spróbuj zastosować te techniki w swoim kolejnym projekcie i zobacz, jak mogą 
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Dzięki temu przewodnikowi jesteś dobrze wyposażony, aby zacząć używać Aspose.Imaging dla Java w swoich projektach. Miłego kodowania!
 

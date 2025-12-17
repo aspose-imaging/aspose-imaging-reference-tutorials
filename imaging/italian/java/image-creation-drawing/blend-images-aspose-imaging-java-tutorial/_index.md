@@ -210,7 +210,7 @@ R: Assicurati che le immagini di sovrapposizione e di sfondo siano ad alta risol
 - **Acquista licenza**: [Pagina di acquisto Aspose](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Prova Aspose.Imaging per Java](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea**: [Ottieni una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Forum di supporto**: [Supporto per l'imaging Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum di supporto**: [Supporto per l'imaging Aspose](https://forum.aspose.com/c/imaging/14)
 
 Con questa guida, sarai pronto per iniziare a combinare immagini usando Aspose.Imaging per Java. Buon lavoro!
 

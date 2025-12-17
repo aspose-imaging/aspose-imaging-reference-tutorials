@@ -189,7 +189,7 @@ C5: Görüntülerinize dönüşümler ve geliştirmeler uygulamak için Aspose.I
 - **Satın almak**: Tüm özelliklerin kilidini açmak için bir lisansı güvence altına alın [Aspose satın alma sayfası](https://purchase.aspose.com/buy).
 - **Ücretsiz Deneme**Aspose.Imaging'in yeteneklerini şu şekilde test edin: [ücretsiz deneme indirmeleri](https://releases.aspose.com/imaging/java/).
 - **Geçici Lisans**: Genişletilmiş test için geçici bir lisans talep edin [Burada](https://purchase.aspose.com/temporary-license/).
-- **Destek**: Sorularınız veya yardım için şu adresi ziyaret edin: [Aspose destek forumu](https://forum.aspose.com/c/imaging/10).
+- **Destek**: Sorularınız veya yardım için şu adresi ziyaret edin: [Aspose destek forumu](https://forum.aspose.com/c/imaging/14).
 
 Görüntü işleme yolculuğunuza bugün başlayın ve Java'da Aspose.Imaging'in tüm potansiyelini ortaya çıkarın!
 

@@ -155,7 +155,7 @@ A5: Tasks include resizing, format conversion, and advanced editing like filters
 - **Purchase:** Explore licensing options at [Aspose Purchase](https://purchase.aspose.com/buy).
 - **Free Trial:** Start with a trial via [here](https://releases.aspose.com/imaging/net/).
 - **Temporary License:** Request one for extended testing through [this link](https://purchase.aspose.com/temporary-license/).
-- **Support:** Join the community forum at [Aspose Support](https://forum.aspose.com/c/imaging/10).
+- **Support:** Join the community forum at [Aspose Support](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

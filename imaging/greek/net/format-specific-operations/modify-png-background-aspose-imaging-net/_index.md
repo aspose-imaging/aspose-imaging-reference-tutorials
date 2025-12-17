@@ -156,7 +156,7 @@ A: Το Aspose.Imaging υποστηρίζει διάφορες μορφές. Α�
 - **Αγορά**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε δωρεάν](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Απόκτηση Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

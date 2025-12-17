@@ -170,7 +170,7 @@ Com este tutorial, você aprendeu os fundamentos do carregamento e salvamento de
 - **Comprar:** [Compre uma licença](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Comece seu teste gratuito](https://releases.aspose.com/imaging/net/)
 - **Licença temporária:** [Solicitar Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar:** [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar:** [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Seguindo este guia, você estará preparado para lidar com o processamento de imagens .NET com confiança usando o Aspose.Imaging para .NET. Boa programação!
 

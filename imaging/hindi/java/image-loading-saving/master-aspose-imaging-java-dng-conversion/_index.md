@@ -189,7 +189,7 @@ Aspose.Imaging और बड़ी छवि फ़ाइलों के सा
 - **खरीदना**: [अभी खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [Aspose.Imaging आज़माएँ](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच**: [Aspose सामुदायिक समर्थन](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच**: [Aspose सामुदायिक समर्थन](https://forum.aspose.com/c/imaging/14)
 
 आज ही Aspose.Imaging for Java के साथ अपनी यात्रा शुरू करें, और अपने अनुप्रयोगों में इमेज प्रोसेसिंग की पूरी क्षमता को अनलॉक करें!
 

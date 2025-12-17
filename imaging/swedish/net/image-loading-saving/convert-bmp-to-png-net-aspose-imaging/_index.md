@@ -130,7 +130,7 @@ I den här handledningen har vi utforskat hur man effektivt konverterar BMP-file
 
 För att ytterligare förbättra dina färdigheter:
 - Utforska ytterligare funktioner i Aspose.Imaging, såsom bildmanipulation eller formatkonverteringar.
-- Engagera dig med gemenskapen på [Asposes forum](https://forum.aspose.com/c/imaging/10) att dela insikter och söka råd.
+- Engagera dig med gemenskapen på [Asposes forum](https://forum.aspose.com/c/imaging/14) att dela insikter och söka råd.
 
 Redo att börja konvertera bilder i dina .NET-applikationer? Testa det idag!
 

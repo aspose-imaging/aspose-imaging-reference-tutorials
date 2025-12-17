@@ -217,7 +217,7 @@ Ready to take your imaging projects to the next level? Try implementing these so
 - **Purchase:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial:** [Get a Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Apply for Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 With this guide, you're well-equipped to leverage Aspose.Imaging Java effectively in your projects. Happy coding!
 

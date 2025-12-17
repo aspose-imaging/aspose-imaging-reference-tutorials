@@ -156,7 +156,7 @@ A: İstisnaları zarif bir şekilde yönetmek ve uygulama kararlılığını kor
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Başlayın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Forumları](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Forumları](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

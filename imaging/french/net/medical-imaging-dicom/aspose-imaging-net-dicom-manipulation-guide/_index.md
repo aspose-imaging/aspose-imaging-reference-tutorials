@@ -126,7 +126,7 @@ R : L'opération échouera, il est donc conseillé de vérifier si la balise exi
 - **Achat**: [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Essayez Aspose.Imaging gratuitement](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: Pour toute question, visitez le [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: Pour toute question, visitez le [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Grâce à ce guide complet, vous êtes prêt à exploiter Aspose.Imaging pour .NET dans vos projets de manipulation d'images DICOM. Bon codage !
 

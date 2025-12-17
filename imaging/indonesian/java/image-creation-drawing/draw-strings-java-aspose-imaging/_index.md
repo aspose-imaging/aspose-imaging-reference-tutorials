@@ -204,7 +204,7 @@ Kini Anda memiliki pengetahuan untuk menggambar string dengan perataan berbeda p
 - **Pembelian:** [Beli Lisensi Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Mendukung:** [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Jelajahi sumber daya ini untuk meningkatkan pemahaman dan kemampuan Anda dengan Aspose.Imaging untuk Java. Selamat membuat kode!
 

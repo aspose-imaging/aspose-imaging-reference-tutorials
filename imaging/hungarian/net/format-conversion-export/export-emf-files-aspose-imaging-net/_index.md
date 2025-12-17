@@ -169,7 +169,7 @@ Most már átfogó ismeretekkel rendelkezik az EMF fájlok különböző raszter
    - Kompatibilis a .NET Framework és a .NET Core/5+/6+ környezetekkel.
 
 5. **Van elérhető támogatás, ha problémákba ütközöm?**
-   - Igen, hozzáférhetsz a közösségi fórumokhoz és a hivatalos támogatási csatornákhoz a következőn keresztül: [Aspose támogatás](https://forum.aspose.com/c/imaging/10).
+   - Igen, hozzáférhetsz a közösségi fórumokhoz és a hivatalos támogatási csatornákhoz a következőn keresztül: [Aspose támogatás](https://forum.aspose.com/c/imaging/14).
 
 ## Erőforrás
 

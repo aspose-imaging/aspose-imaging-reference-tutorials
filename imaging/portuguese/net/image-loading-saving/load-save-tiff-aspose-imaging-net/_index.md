@@ -157,7 +157,7 @@ Experimente diferentes formatos de imagem suportados pelo Aspose.Imaging ou apro
 - **Comprar**: [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Experimente o Aspose.Imaging gratuitamente](https://releases.aspose.com/imaging/net/)
 - **Licença Temporária**: [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

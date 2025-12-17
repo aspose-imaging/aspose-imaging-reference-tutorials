@@ -234,7 +234,7 @@ A: Nutzen Sie asynchrone Vorgänge, verwalten Sie den Speicher effektiv und zieh
 - **Kaufen:** [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Versuchen Sie Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Erhalten Sie eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -160,7 +160,7 @@ A5: Durch Optimierung der Konfigurationseinstellungen, effizientes Speichermanag
 - **Lizenz erwerben**: [Aspose-Lizenzierung](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Laden Sie Aspose.Imaging herunter](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Temporäre Lizenz anfordern](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum**: [Aspose Imaging-Unterstützung](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum**: [Aspose Imaging-Unterstützung](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

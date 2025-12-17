@@ -190,7 +190,7 @@ jpegOptions.Source = new FileCreateSource(outputDir + "/ProcessedImage_out.jpg",
 - [การซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/net/)
 - [ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/14)
 
 ด้วยทรัพยากรและเคล็ดลับเหล่านี้ คุณจะพร้อมรับมือกับความท้าทายในการปรับแต่งรูปภาพโดยใช้ Aspose.Imaging สำหรับ .NET สนุกกับการเขียนโค้ด!
 

@@ -156,7 +156,7 @@ image.Save(outputDir + "RotatingImageOnSpecificAngle_out.jpg");
 - **購買**： [購買許可證](https://purchase.aspose.com/buy)
 - **免費試用**： [立即試用 Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [在此請求](https://purchase.aspose.com/temporary-license/)
-- **支援**：訪問 [Aspose 論壇](https://forum.aspose.com/c/imaging/10) 尋求幫助和社區討論。
+- **支援**：訪問 [Aspose 論壇](https://forum.aspose.com/c/imaging/14) 尋求幫助和社區討論。
 
 掌握這些技巧後，你將能夠自信地處理各種影像處理任務。祝你程式愉快！
 

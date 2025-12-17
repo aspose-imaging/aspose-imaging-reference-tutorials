@@ -179,7 +179,7 @@ A5: Postupujte podle kroků uvedených v části o získání licence a získejt
 - **Nákup**: [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začněte zde](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Požádat nyní](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum komunity](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum komunity](https://forum.aspose.com/c/imaging/14)
 
 Využitím těchto zdrojů můžete dále prozkoumat možnosti Aspose.Imaging a řešit jakékoli problémy, se kterými se setkáte během implementace. Přejeme vám příjemné programování!
 

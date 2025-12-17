@@ -264,7 +264,7 @@ További forrásokat és támogatási lehetőségeket itt talál:
 - **Vásárlás:** https://purchase.aspose.com/buy
 - **Ingyenes próbaverzió:** https://releases.aspose.com/imaging/java/
 - **Ideiglenes engedély:** https://purchase.aspose.com/temporary-license/
-- **Támogatás:** https://forum.aspose.com/c/imaging/10
+- **Támogatás:** https://forum.aspose.com/c/imaging/14
 
 Emeld a Java képfeldolgozásodat a következő szintre az Aspose.Imaging hatékony funkcióinak kihasználásával még ma!
 

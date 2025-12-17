@@ -258,7 +258,7 @@ A5：使用 try-catch 區塊來管理潛在的異常，例如找不到檔案或�
 - **購買**： [購買 Aspose Imaging](https://purchase.aspose.com/buy)
 - **免費試用**： [免費試用](https://releases.aspose.com/imaging/java/)
 - **臨時執照**： [在此請求](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -194,7 +194,7 @@ Gotowy, aby przenieść swoje umiejętności przetwarzania obrazu na wyższy poz
 - **Zakup**:Uzyskaj pełną licencję za pośrednictwem [Strona zakupu Aspose](https://purchase.aspose.com/buy).
 - **Bezpłatna wersja próbna**:Rozpocznij bezpłatny okres próbny, aby zapoznać się z funkcjami [Pobieranie Aspose](https://releases.aspose.com/imaging/java/).
 - **Licencja tymczasowa**:Poproś o tymczasową licencję na rozszerzone testy pod adresem [Licencja tymczasowa Aspose](https://purchase.aspose.com/temporary-license/).
-- **Wsparcie**:Dołącz do społeczności i poszukaj pomocy na [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Wsparcie**:Dołącz do społeczności i poszukaj pomocy na [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

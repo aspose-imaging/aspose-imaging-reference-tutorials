@@ -219,7 +219,7 @@ A5: はい、Aspose.Imaging では、特定のニーズに合わせてメタデ�
 - **購入：** [ライセンスを購入する](https://purchase.aspose.com/buy)
 - **無料トライアル:** [Aspose.Imagingを無料でお試しください](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス:** [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム:** [Aspose サポート](https://forum.aspose.com/c/imaging/10) 
+- **サポートフォーラム:** [Aspose サポート](https://forum.aspose.com/c/imaging/14) 
 
 今すぐ Aspose.Imaging for .NET を導入して、画像の操作方法に革命を起こしましょう。
 

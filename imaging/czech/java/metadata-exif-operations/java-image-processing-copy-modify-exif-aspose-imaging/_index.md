@@ -198,7 +198,7 @@ Experimentujte s různými poli EXIF a prozkoumejte pokročilejší funkce, kter
    - Rozhodně je navržen tak, aby efektivně zvládal požadavky na vysoký výkon.
 
 5. **Jak mohu přispět komunitě nebo vyhledat pomoc s problémy?**
-   - Připojte se k [Fórum Aspose](https://forum.aspose.com/c/imaging/10) klást otázky a sdílet postřehy.
+   - Připojte se k [Fórum Aspose](https://forum.aspose.com/c/imaging/14) klást otázky a sdílet postřehy.
 
 ## Zdroje
 

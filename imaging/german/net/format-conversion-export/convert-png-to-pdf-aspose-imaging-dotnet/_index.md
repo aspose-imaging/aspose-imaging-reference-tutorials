@@ -166,7 +166,7 @@ Erwägen Sie, große Bilder vor der Konvertierung in kleinere Segmente aufzuteil
 - **Kaufen**: [Aspose-Lizenz kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Testen Sie Aspose.Imaging kostenlos](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Temporäre Lizenz anfordern](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Beginnen Sie Ihre Reise mit Aspose.Imaging noch heute und verwandeln Sie Ihre Bildverarbeitungsaufgaben in optimierte Arbeitsabläufe.
 

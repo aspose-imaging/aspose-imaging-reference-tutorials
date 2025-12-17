@@ -195,7 +195,7 @@ Sonraki adımlar arasında Aspose.Imaging'in daha gelişmiş özelliklerini keş
 - **Lisans Satın Al:** Satın alma seçenekleri hakkında bilgi edinin [Aspose Satın Alma](https://purchase.aspose.com/buy).
 - **Ücretsiz Deneme:** Özellikleri test etmek için deneme sürümüyle başlayın.
 - **Geçici Lisans:** Genişletilmiş testler için geçici erişim sağlayın.
-- **Destek Forumu:** Yardım alın ve fikirlerinizi paylaşın [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10).
+- **Destek Forumu:** Yardım alın ve fikirlerinizi paylaşın [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14).
 
 Bu eğitimi takip ederek, Aspose.Imaging for Java kullanarak görüntü işleme konusunda değerli becerilerle kendinizi donattınız. İyi kodlamalar!
 

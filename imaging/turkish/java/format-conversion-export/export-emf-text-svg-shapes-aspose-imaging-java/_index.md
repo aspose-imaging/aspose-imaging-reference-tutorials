@@ -187,7 +187,7 @@ Kesinlikle, hem kişisel hem de kurumsal düzeydeki gereksinimleri güçlü bir 
 
 **5. Gerektiğinde nereden destek alabilirim?**
 
-Ziyaret edin [Aspose forumu](https://forum.aspose.com/c/imaging/10) Topluluk yardımı için veya doğrudan web sitesi üzerinden destek ekibiyle iletişime geçin.
+Ziyaret edin [Aspose forumu](https://forum.aspose.com/c/imaging/14) Topluluk yardımı için veya doğrudan web sitesi üzerinden destek ekibiyle iletişime geçin.
 
 ## Kaynaklar
 

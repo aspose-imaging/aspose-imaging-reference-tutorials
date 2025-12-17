@@ -221,7 +221,7 @@ A: Absolutely. It efficiently handles various image formats, including high-reso
 - **Purchase**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Aspose.Imaging Free](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Now that you're equipped with this knowledge, go ahead and try implementing these features in your Java applications!
 

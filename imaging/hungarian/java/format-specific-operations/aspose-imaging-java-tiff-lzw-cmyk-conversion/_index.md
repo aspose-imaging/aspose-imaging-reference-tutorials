@@ -179,7 +179,7 @@ A2: Természetesen! Az Aspose.Imaging számos képformátumot támogat, beleért
 A4: Használjon kötegelt feldolgozást és hatékony erőforrás-gazdálkodási technikákat, például a képek felhasználás utáni megsemmisítését. Ezenkívül, ha lehetséges, fontolja meg a felbontás optimalizálását a konvertálás előtt.
 
 **5. kérdés: Hol találok támogatást, ha problémákba ütközöm az Aspose.Imaging használatával?**
-V5: Bármilyen kérdés vagy hibaelhárítás esetén látogasson el a következő címre: [Aspose támogatói fóruma](https://forum.aspose.com/c/imaging/10) ahol segítséget kaphat mind a közösségtől, mind a hivatalos képviselőktől.
+V5: Bármilyen kérdés vagy hibaelhárítás esetén látogasson el a következő címre: [Aspose támogatói fóruma](https://forum.aspose.com/c/imaging/14) ahol segítséget kaphat mind a közösségtől, mind a hivatalos képviselőktől.
 
 ## Erőforrás
 

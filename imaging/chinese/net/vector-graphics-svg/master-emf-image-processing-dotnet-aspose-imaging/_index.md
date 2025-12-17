@@ -165,7 +165,7 @@ Aspose.Imaging for .NET 是一个综合库，使开发人员能够在 .NET 应�
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/net/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10)
+- [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 欢迎随意探索这些资源，如果遇到任何挑战，请联系我们寻求支持。祝您编码愉快！
 

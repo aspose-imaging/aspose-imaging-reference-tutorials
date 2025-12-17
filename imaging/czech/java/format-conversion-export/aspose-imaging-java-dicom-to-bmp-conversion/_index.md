@@ -179,7 +179,7 @@ V tomto tutoriálu jste se naučili, jak načítat obrázky DICOM a převádět 
 - [Možnosti nákupu](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu byste nyní měli být dobře vybaveni pro práci s obrázky DICOM pomocí Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

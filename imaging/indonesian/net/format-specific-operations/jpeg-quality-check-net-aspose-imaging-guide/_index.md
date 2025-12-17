@@ -177,7 +177,7 @@ Untuk mengeksplorasi lebih jauh apa yang ditawarkan Aspose.Imaging, pertimbangka
 - **Pembelian:** [Beli Lisensi](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Coba Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara:** [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah proyek pemrosesan gambar Anda berikutnya dengan percaya diri, karena Anda memiliki alat dan pengetahuan yang tepat untuk memastikan pengaturan kualitas JPEG yang optimal.
 

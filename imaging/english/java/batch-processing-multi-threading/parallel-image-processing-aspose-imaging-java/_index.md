@@ -230,7 +230,7 @@ A5: It allows you to read from or write to specific positions in a file, making 
 - [Download Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial and Temporary License](https://releases.aspose.com/imaging/java/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10) 
+- [Support Forum](https://forum.aspose.com/c/imaging/14) 
 
 Embark on your journey with Aspose.Imaging Java today and unlock the potential of high-performance image processing in your projects!
 

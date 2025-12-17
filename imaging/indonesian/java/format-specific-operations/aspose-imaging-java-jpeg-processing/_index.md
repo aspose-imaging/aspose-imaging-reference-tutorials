@@ -191,7 +191,7 @@ Gunakan `dispose()` metode pada objek Gambar untuk mengosongkan memori setelah p
 - **Pembelian:** [Beli Lisensi Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Uji Coba Gratis Aspose Imaging](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti tutorial ini, Anda akan membekali diri dengan pengetahuan untuk memuat dan menyimpan JPEG secara efisien menggunakan Aspose.Imaging untuk Java. Selamat membuat kode!
 

@@ -211,7 +211,7 @@ En este tutorial, exploramos cómo cargar, configurar y guardar archivos SVG com
 - [Compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Al utilizar estos recursos, puede explorar más a fondo las capacidades de Aspose.Imaging y mejorar sus aplicaciones Java con potentes funcionalidades de procesamiento de imágenes.
 

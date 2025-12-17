@@ -171,7 +171,7 @@ public class SaveImageExample {
 
 **Следующие шаги:**
 - Изучите другие функции Aspose.Imaging, такие как преобразование изображений и фильтрация.
-- Присоединяйтесь к [Форум Aspose.Imaging](https://forum.aspose.com/c/imaging/10) поделиться идеями или получить совет от коллег-разработчиков.
+- Присоединяйтесь к [Форум Aspose.Imaging](https://forum.aspose.com/c/imaging/14) поделиться идеями или получить совет от коллег-разработчиков.
 
 Готовы вывести свои проекты Java на новый уровень? Погрузитесь в реализацию этих решений уже сегодня!
 
@@ -199,7 +199,7 @@ public class SaveImageExample {
 - [Лицензия на покупку](https://purchase.aspose.com/buy)
 - [Бесплатная пробная загрузка](https://releases.aspose.com/imaging/java/)
 - [Запросить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Начните интеграцию Aspose.Imaging для Java уже сегодня и оптимизируйте свои рабочие процессы обработки изображений!
 

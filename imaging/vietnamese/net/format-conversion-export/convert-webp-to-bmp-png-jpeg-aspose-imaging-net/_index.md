@@ -173,7 +173,7 @@ Sẵn sàng thử chưa? Triển khai các giải pháp này và xem chúng có 
 - **Mua giấy phép**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu với Đánh giá miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Nộp đơn xin một cái ở đây](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Tham gia thảo luận](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Tham gia thảo luận](https://forum.aspose.com/c/imaging/14)
 
 Khám phá những tài nguyên này để mở rộng hiểu biết và khả năng chuyển đổi hình ảnh của bạn bằng Aspose.Imaging .NET.
 

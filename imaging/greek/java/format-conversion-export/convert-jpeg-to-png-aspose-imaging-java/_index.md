@@ -256,7 +256,7 @@ image.save("YOUR_OUTPUT_DIRECTORY/056_ycck_profile.png", new PngOptions());
 - **Αγορά:** [Άδειες χρήσης Aspose](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Ξεκινήστε](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** [Αίτηση για προσωρινή άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, μπορείτε να χρησιμοποιήσετε αποτελεσματικά το Aspose.Imaging Java για να διαχειριστείτε και να μετατρέψετε εικόνες JPEG στα έργα σας. Δοκιμάστε το σήμερα!
 

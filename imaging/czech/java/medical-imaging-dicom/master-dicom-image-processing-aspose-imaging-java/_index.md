@@ -252,7 +252,7 @@ Nyní jste zvládli základy manipulace s DICOM pomocí Aspose.Imaging v Javě. 
 **Další kroky:**
 - Prozkoumejte další funkce v [Dokumentace k Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - Experimentujte se složitějšími manipulacemi DICOM.
-- Sdílejte své zkušenosti a řešení na fórech, jako je [Fórum komunity Aspose](https://forum.aspose.com/c/imaging/10).
+- Sdílejte své zkušenosti a řešení na fórech, jako je [Fórum komunity Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Sekce Často kladených otázek
 
@@ -278,7 +278,7 @@ A5: Ověřte správnost cesty k souboru, ujistěte se, že máte příslušná o
 - **Nákup**: [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Získejte bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum komunity Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum komunity Aspose](https://forum.aspose.com/c/imaging/14)
 
 S touto komplexní příručkou jste dobře vybaveni pro zpracování obrázků DICOM pomocí Aspose.Imaging v Javě. Přejeme vám příjemné programování!
 

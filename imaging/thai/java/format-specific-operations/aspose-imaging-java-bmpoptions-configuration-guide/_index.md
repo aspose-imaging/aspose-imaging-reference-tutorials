@@ -191,7 +191,7 @@ public class BmpOptionsFeature {
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - [ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 ด้วยทรัพยากรเหล่านี้ คุณจะพร้อมแล้วที่จะเชี่ยวชาญ `BmpOptions` และปลดล็อกศักยภาพทั้งหมดของ Aspose.Imaging ในโปรเจ็กต์ Java ของคุณ ขอให้สนุกกับการเขียนโค้ด!
 

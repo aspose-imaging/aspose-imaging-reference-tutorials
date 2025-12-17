@@ -131,7 +131,7 @@ A: Görüntü işleme ihtiyaçlarınıza göre yeterli bellek kaynaklarının ya
 C: Evet, Aspose'dan uygun lisansı aldıktan sonra.
 
 **S: Sorunla karşılaşırsam destek alabileceğim bir yer var mı?**
-A: Ziyaret [Aspose'un destek forumu](https://forum.aspose.com/c/imaging/10) yardım için veya dokümanlara bakın.
+A: Ziyaret [Aspose'un destek forumu](https://forum.aspose.com/c/imaging/14) yardım için veya dokümanlara bakın.
 
 ## Kaynaklar
 - **Belgeler:** [Aspose.Imaging .NET Belgeleri](https://reference.aspose.com/imaging/net/)

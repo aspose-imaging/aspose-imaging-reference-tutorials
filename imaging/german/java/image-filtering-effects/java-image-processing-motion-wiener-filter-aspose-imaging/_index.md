@@ -177,7 +177,7 @@ A: Überprüfen Sie die [Aspose.Imaging-Dokumentation](https://reference.aspose.
 - **Kaufen:** [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Kostenlose Aspose-Testversion](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Temporäre Lizenz anfordern](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Dieser umfassende Leitfaden soll Sie in die Lage versetzen, den Motion Wiener Filter effektiv anzuwenden und Ihre Java-basierten Bildverarbeitungsprojekte mit Aspose.Imaging zu verbessern.
 

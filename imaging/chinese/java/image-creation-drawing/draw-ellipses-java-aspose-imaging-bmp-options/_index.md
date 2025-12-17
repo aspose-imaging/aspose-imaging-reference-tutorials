@@ -191,7 +191,7 @@ Aspose.Imaging 的功能不仅限于简单的任务，还提供各种实际应�
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/java/)
 - [临时执照申请](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 利用 Aspose.Imaging，您可以利用强大的图像处理功能提升您的 Java 应用程序。祝您编码愉快！
 

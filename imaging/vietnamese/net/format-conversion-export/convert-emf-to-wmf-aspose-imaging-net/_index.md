@@ -172,7 +172,7 @@ Trong hướng dẫn này, bạn đã học cách chuyển đổi tệp EMF sang
 - **Giấy phép mua hàng:** [Mua Aspose.License](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời:** [Nhận giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ:** [Hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** [Hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình của bạn với Aspose.Imaging cho .NET ngay hôm nay và mở ra những khả năng mới trong xử lý hình ảnh!
 

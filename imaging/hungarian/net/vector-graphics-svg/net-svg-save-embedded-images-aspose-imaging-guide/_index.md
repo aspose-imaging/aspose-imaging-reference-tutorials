@@ -166,7 +166,7 @@ V5: Igen, betöltheti és szükség szerint tovább módosíthatja az SVG fájlt
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Kezdje ingyenes próbaverzióval](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

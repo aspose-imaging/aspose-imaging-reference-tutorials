@@ -194,7 +194,7 @@ Postępując zgodnie z tym przewodnikiem, nauczyłeś się, jak załadować plik
 - [Zakup](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij swój kolejny projekt pewnie, wiedząc, że Aspose.Imaging for Java Ci pomoże!
 

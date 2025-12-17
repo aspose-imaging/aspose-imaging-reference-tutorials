@@ -130,7 +130,7 @@ Aspose.Imaging を使用する場合は、次のヒントを考慮してくだ�
 
 スキルをさらに強化するには:
 - 画像操作や形式変換など、Aspose.Imaging の追加機能について説明します。
-- コミュニティに参加する [Asposeのフォーラム](https://forum.aspose.com/c/imaging/10) 洞察を共有し、アドバイスを求める。
+- コミュニティに参加する [Asposeのフォーラム](https://forum.aspose.com/c/imaging/14) 洞察を共有し、アドバイスを求める。
 
 .NET アプリケーションで画像を変換する準備はできましたか? 今すぐお試しください。
 

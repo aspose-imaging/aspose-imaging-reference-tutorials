@@ -214,7 +214,7 @@ Aspose.Imaging 라이브러리의 포괄적인 문서를 통해 더 많은 기�
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging을 무료로 사용해 보세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [Aspose.Imaging 지원](https://forum.aspose.com/c/imaging/10) 
+- **지원 포럼**: [Aspose.Imaging 지원](https://forum.aspose.com/c/imaging/14) 
 
 지금 Aspose.Imaging for Java로 여정을 시작하고 이미지 처리의 새로운 잠재력을 열어보세요!
 

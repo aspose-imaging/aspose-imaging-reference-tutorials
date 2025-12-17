@@ -199,7 +199,7 @@ In diesem Tutorial haben Sie gelernt, wie Sie JPEG- und PNG-Dateien mit Aspose.I
 - **Dokumentation**: Mehr erfahren unter [Aspose.Imaging Dokumentation](https://reference.aspose.com/imaging/java/).
 - **Herunterladen**: Holen Sie sich die neuesten Veröffentlichungen von [Aspose-Freigabeseite](https://releases.aspose.com/imaging/java/).
 - **Kauf und kostenlose Testversion**: Testen Sie die Funktionen noch heute unter [Asposes Kauf- und kostenlose Testseite](https://purchase.aspose.com/buy).
-- **Unterstützung**: Nehmen Sie an Diskussionen teil über [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Unterstützung**: Nehmen Sie an Diskussionen teil über [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Wir hoffen, dass dieser Leitfaden Ihnen hilft, Aspose.Imaging Java effektiv für Ihre Bildverarbeitungsanforderungen zu nutzen. Viel Spaß beim Programmieren!
 

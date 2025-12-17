@@ -169,7 +169,7 @@ Nyní máte komplexní znalosti o exportu souborů EMF do různých rastrových 
    - Kompatibilní s prostředími .NET Framework a .NET Core/5+/6+.
 
 5. **Je k dispozici podpora, pokud narazím na problémy?**
-   - Ano, máte přístup ke komunitním fórům a oficiálním kanálům podpory prostřednictvím [Podpora Aspose](https://forum.aspose.com/c/imaging/10).
+   - Ano, máte přístup ke komunitním fórům a oficiálním kanálům podpory prostřednictvím [Podpora Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Zdroje
 

@@ -190,7 +190,7 @@ A5: Yes, it’s designed to integrate seamlessly across different Java environme
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/java/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Explore these resources to further your understanding and application of Aspose.Imaging in Java.
 

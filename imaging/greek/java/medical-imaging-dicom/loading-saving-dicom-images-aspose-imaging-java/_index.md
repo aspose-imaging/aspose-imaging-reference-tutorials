@@ -210,7 +210,7 @@
 - **Άδεια Αγοράς:** [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Ξεκινήστε τη δωρεάν δοκιμή σας](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ υποστήριξης:** [Κοινότητα Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ υποστήριξης:** [Κοινότητα Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, είστε πλήρως εξοπλισμένοι για να χειρίζεστε εικόνες DICOM στις εφαρμογές Java σας χρησιμοποιώντας το Aspose.Imaging. Καλή κωδικοποίηση!
 

@@ -150,7 +150,7 @@ A5: Részletes dokumentáció a következő címen található: [Aspose.Imaging 
 - **Licenc vásárlása**: [Vásároljon most](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Kezdés](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Jelentkezzen itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Aspose.Imaging támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Aspose.Imaging támogatás](https://forum.aspose.com/c/imaging/14)
 
 Jó programozást, és élvezd a kísérletezést az Aspose.Imaginggel, hogy életre kelthesd a képfeldolgozási igényeidet!
 

@@ -218,7 +218,7 @@ A: Utilice el procesamiento por lotes y optimice la configuración de memoria pa
 - **Compra**:Compra una licencia o versión de prueba a través de [Compra de Aspose](https://purchase.aspose.com/buy)
 - **Prueba gratuita**Pruebe Aspose.Imaging con esto [enlace de prueba gratuita](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal**:Obtener una licencia temporal a través de [este enlace](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**Únase a la discusión sobre los desafíos del procesamiento de imágenes en [Foros de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**Únase a la discusión sobre los desafíos del procesamiento de imágenes en [Foros de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Emprende tu próximo proyecto con confianza, sabiendo que cuentas con las herramientas y el conocimiento para convertir archivos CMX sin problemas. ¡Que disfrutes programando!
 

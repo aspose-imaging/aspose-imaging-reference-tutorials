@@ -195,7 +195,7 @@ image.Save(outputPath, exportOptions);
 - **شراء:** [شراء الترخيص](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [جرب مجانا](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة:** [احصل عليه هنا](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [منتدى المجتمع](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** [منتدى المجتمع](https://forum.aspose.com/c/imaging/14)
 
 نأمل أن يُمكّنك هذا الدليل من إدارة بيانات الصور بثقة باستخدام Aspose.Imaging لـ .NET. برمجة ممتعة!
 

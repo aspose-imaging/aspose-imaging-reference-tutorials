@@ -203,7 +203,7 @@ Vi uppmuntrar dig att prova att implementera den här lösningen i ditt nästa p
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden bör du vara väl rustad för att skapa och manipulera flersidiga TIFF-filer med Aspose.Imaging för Java. Lycka till med kodningen!
 

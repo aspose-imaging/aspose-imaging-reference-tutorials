@@ -191,7 +191,7 @@ Los problemas comunes incluyen el manejo inadecuado de la eliminación de imáge
 - **Compra**: https://purchase.aspose.com/buy
 - **Prueba gratuita**: https://releases.aspose.com/imaging/java/
 - **Licencia temporal**: https://purchase.aspose.com/licencia-temporal/
-- **Apoyo**: https://forum.aspose.com/c/imaging/10
+- **Apoyo**: https://forum.aspose.com/c/imaging/14
 
 Esperamos que esta guía te sea útil en tus proyectos. ¡Que disfrutes programando!
 

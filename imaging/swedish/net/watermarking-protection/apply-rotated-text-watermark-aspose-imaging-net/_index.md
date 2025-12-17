@@ -159,7 +159,7 @@ Du har framgångsrikt lärt dig hur man applicerar en roterad textvattenstämpel
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Försök att implementera dessa steg och se hur Aspose.Imaging kan effektivisera dina bildbehandlingsuppgifter!
 

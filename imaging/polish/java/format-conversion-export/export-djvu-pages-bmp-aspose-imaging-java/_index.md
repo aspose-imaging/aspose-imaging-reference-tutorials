@@ -197,7 +197,7 @@ Dzięki temu przewodnikowi nauczyłeś się, jak wykorzystać Aspose.Imaging Jav
 - **Kup licencję:** [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Rozpocznij bezpłatny okres próbny](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa:** [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia:** [Wsparcie Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia:** [Wsparcie Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij przygodę ze sztuką konwersji dokumentów za pomocą Aspose.Imaging Java już dziś!
 

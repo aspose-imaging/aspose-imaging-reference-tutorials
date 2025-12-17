@@ -197,7 +197,7 @@ import com.aspose.imaging.imageoptions.GifOptions;
 - **Покупка:** Посещать [Страница покупки Aspose](https://purchase.aspose.com/buy) для вариантов лицензирования
 - **Бесплатная пробная версия:** Начните с пробного периода [Бесплатная пробная версия](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия:** Получить временный доступ через [Страница временной лицензии](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать:** Взаимодействуйте с сообществом [Форум Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать:** Взаимодействуйте с сообществом [Форум Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

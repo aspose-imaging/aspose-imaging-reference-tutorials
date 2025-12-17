@@ -144,7 +144,7 @@ A5: Altre opzioni popolari includono ImageSharp e SkiaSharp, ma Aspose.Imaging o
 - **Acquistare**: [Acquista una licenza](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Per iniziare](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea**: [Richiedi qui](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -189,7 +189,7 @@ Ya ha aprendido a gestionar eficazmente los colores de las imágenes mediante pe
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10) 
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14) 
 
 ¡Comience hoy mismo a administrar sus imágenes con precisión de color utilizando Aspose.Imaging para Java!
 

@@ -201,7 +201,7 @@ Dengan menguasai teknik-teknik ini, Anda dapat memanfaatkan Aspose.Imaging for .
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Jangan ragu untuk menjelajahi sumber daya ini dan menghubungi dukungan jika Anda memiliki pertanyaan. Selamat membuat kode!
 

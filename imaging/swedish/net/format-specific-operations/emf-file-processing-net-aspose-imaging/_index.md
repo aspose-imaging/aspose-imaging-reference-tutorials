@@ -142,7 +142,7 @@ A: Absolut. Använd `Save` metod med olika filändelser för att uppnå detta.
 - **Köplicens:** [Aspose köpalternativ](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Få ett gratis utvärderingsexemplar](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens:** [Begär en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum:** [Aspose.Imaging supportgrupp](https://forum.aspose.com/c/imaging/10)
+- **Supportforum:** [Aspose.Imaging supportgrupp](https://forum.aspose.com/c/imaging/14)
 
 Utforska dessa resurser för att fördjupa din förståelse och förbättra dina implementeringar med Aspose.Imaging för .NET. Lycka till med kodningen!
 

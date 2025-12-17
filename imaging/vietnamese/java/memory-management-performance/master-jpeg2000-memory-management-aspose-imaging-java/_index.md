@@ -203,7 +203,7 @@ A5: Ghé thăm [Tài liệu Aspose](https://reference.aspose.com/imaging/java/) 
 - **Mua**: https://purchase.aspose.com/buy
 - **Dùng thử miễn phí**: https://releases.aspose.com/imaging/java/
 - **Giấy phép tạm thời**: https://purchase.aspose.com/temporary-license/
-- **Ủng hộ**: https://forum.aspose.com/c/imaging/10
+- **Ủng hộ**: https://forum.aspose.com/c/imaging/14
 
 Khám phá các tài nguyên này để nâng cao hơn nữa sự hiểu biết và ứng dụng của bạn về Aspose.Imaging trong Java. Chúc bạn viết mã vui vẻ!
 

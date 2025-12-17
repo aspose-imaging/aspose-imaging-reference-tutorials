@@ -187,7 +187,7 @@ W tym samouczku przyjrzeliśmy się sposobowi ładowania i rysowania obrazu rast
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Informacje o bezpłatnej wersji próbnej](https://releases.aspose.com/imaging/java/)
 - [Wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Postępując zgodnie z tym przewodnikiem, powinieneś być teraz dobrze wyposażony do integrowania obrazów rastrowych z płótnami SVG przy użyciu Aspose.Imaging dla Java. Miłego kodowania!
 

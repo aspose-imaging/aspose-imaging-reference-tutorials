@@ -198,7 +198,7 @@ A5: Överväg att optimera din Java-miljö för minneshantering och utforska alt
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Utforska dessa resurser för att fördjupa din förståelse och förbättra dina bildbehandlingsprojekt med Aspose.Imaging för Java. Lycka till med kodningen!
 

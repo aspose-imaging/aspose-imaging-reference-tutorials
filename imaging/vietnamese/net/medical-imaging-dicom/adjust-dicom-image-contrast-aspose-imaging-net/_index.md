@@ -160,7 +160,7 @@ A5: Hoàn toàn đúng. Bộ tính năng mạnh mẽ và khả năng tối ưu h
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Với các tài nguyên và hướng dẫn này, bạn đã được trang bị đầy đủ để bắt đầu làm việc với hình ảnh DICOM bằng Aspose.Imaging trong .NET. Chúc bạn viết mã vui vẻ!
 

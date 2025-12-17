@@ -140,7 +140,7 @@ image.Save(outputFilePath, tiffOptions);
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [เวอร์ชันทดลองใช้งานฟรี](https://releases.aspose.com/imaging/net/)
 - [ใบสมัครใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 หากทำตามคำแนะนำนี้ คุณจะพร้อมสำหรับการแปลงพื้นที่สีของภาพโดยใช้ Aspose.Imaging สำหรับ .NET ขอให้สนุกกับการเขียนโค้ด!
 

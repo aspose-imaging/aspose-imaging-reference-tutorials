@@ -128,7 +128,7 @@ A1: Ja, du kan batchbearbeta bilder genom att iterera över en katalog och till�
 A2: En testversion finns tillgänglig, men för kommersiellt bruk krävs det att man skaffar en licens. Besök [Köpa](https://purchase.aspose.com/buy) för mer information.
 
 **F3: Hur felsöker jag konverteringsfel?**
-A3: Kontrollera sökvägarna och se till att Aspose.Imaging är korrekt installerat. Se [Supportforum](https://forum.aspose.com/c/imaging/10) om problemen kvarstår.
+A3: Kontrollera sökvägarna och se till att Aspose.Imaging är korrekt installerat. Se [Supportforum](https://forum.aspose.com/c/imaging/14) om problemen kvarstår.
 
 **F4: Kan jag ändra PDF-dokumentegenskaper under konverteringen?**
 A4: Ja, du kan ange olika dokumentinformationsegenskaper som titel, författare eller nyckelord med hjälp av `PdfDocumentInfo`.
@@ -142,7 +142,7 @@ A5: Andra bibliotek inkluderar ImageMagick och Ghostscript, även om de kan krä
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Vi hoppas att den här guiden har varit till hjälp. Varför inte ta steget och prova att konvertera dina BMP-filer till PDF-filer med Aspose.Imaging för .NET?
 

@@ -175,7 +175,7 @@ A3 : Oui, mais assurez-vous d'acquérir une licence appropriée auprès de [Aspo
 A4 : Oui, implémentez le traitement par lots pour gérer efficacement plusieurs fichiers, ce qui peut réduire considérablement le temps de traitement.
 
 **Q5 : Où puis-je obtenir de l'aide si je rencontre des problèmes ?**
-A5 : Visitez le [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10) pour l'aide de l'équipe d'Aspose et des membres de la communauté.
+A5 : Visitez le [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14) pour l'aide de l'équipe d'Aspose et des membres de la communauté.
 
 ## Ressources
 - **Documentation:** Explorez des guides détaillés et des références API sur [Documentation d'Aspose.Imaging](https://reference.aspose.com/imaging/net/).

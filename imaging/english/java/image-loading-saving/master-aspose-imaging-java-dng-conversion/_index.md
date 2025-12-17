@@ -196,7 +196,7 @@ Yes, Aspose.Imaging can be utilized in commercial applications under the appropr
 - **Purchase**: [Buy Now](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum**: [Aspose Community Support](https://forum.aspose.com/c/imaging/10)
+- **Support Forum**: [Aspose Community Support](https://forum.aspose.com/c/imaging/14)
 
 Embark on your journey with Aspose.Imaging for Java today, and unlock the full potential of image processing in your applications!
 

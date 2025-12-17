@@ -171,7 +171,7 @@ Jako další krok zvažte prozkoumání dalších funkcí pro manipulaci s obrá
 - Pro komerční použití si budete muset zakoupit licenci. Zkušební licence umožňují vyzkoušení, ale mají svá omezení.
 
 **Q4: Je k dispozici podpora, pokud narazím na problémy?**
-- Ano, Aspose nabízí komunitní fóra a možnosti profesionální podpory. Navštivte jejich [stránka podpory](https://forum.aspose.com/c/imaging/10) pro více informací.
+- Ano, Aspose nabízí komunitní fóra a možnosti profesionální podpory. Navštivte jejich [stránka podpory](https://forum.aspose.com/c/imaging/14) pro více informací.
 
 **Q5: Mohu tuto funkci integrovat do webové aplikace?**
 - Rozhodně! Knihovna je kompatibilní s frameworky .NET používanými ve webových aplikacích, což umožňuje bezproblémovou integraci.

@@ -170,7 +170,7 @@ A3: Gebruik efficiënte geheugenbeheertechnieken zoals try-with-resources en opt
 A4: Ja, Aspose.Imaging kan samen met andere Java-bibliotheken worden gebruikt voor uitgebreide beeldverwerkingsoplossingen.
 
 **V5: Waar kan ik ondersteuning krijgen als ik problemen ondervind?**
-A5: Bezoek de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10) voor hulp en begeleiding vanuit de gemeenschap.
+A5: Bezoek de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14) voor hulp en begeleiding vanuit de gemeenschap.
 
 ## Bronnen
 

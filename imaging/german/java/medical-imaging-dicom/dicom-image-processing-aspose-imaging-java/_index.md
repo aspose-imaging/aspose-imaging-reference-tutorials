@@ -237,7 +237,7 @@ A5: Es gibt kostenlose Testversionen, für die volle Funktionalität ist jedoch 
 - **Kaufen**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Fordern Sie eine temporäre Lizenz an](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit dieser Anleitung sind Sie bestens gerüstet, Aspose.Imaging für Java für Ihre DICOM-Verarbeitungsaufgaben zu nutzen. Viel Spaß beim Programmieren!
 

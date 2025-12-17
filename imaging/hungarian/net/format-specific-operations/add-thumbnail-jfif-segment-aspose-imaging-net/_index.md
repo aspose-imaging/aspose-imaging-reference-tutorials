@@ -176,7 +176,7 @@ Jelenleg a JFIF szegmens egyetlen bélyegképet támogat; azonban további metaa
 - **Vásárlás**: [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Indítsa el az ingyenes próbaverziót](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -200,7 +200,7 @@ Langkah selanjutnya termasuk mengeksplorasi fungsionalitas tambahan dari pustaka
    - Gunakan `Metered.getConsumptionQuantity()` metode sebelum dan sesudah memproses gambar untuk melacak penggunaan.
 
 5. **Apakah ada dukungan yang tersedia jika saya mengalami masalah?**
-   - Mengunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/10) untuk bantuan dari pakar komunitas.
+   - Mengunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/14) untuk bantuan dari pakar komunitas.
 
 ## Sumber daya
 

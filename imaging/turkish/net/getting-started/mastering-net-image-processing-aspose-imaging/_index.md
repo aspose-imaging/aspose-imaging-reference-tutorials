@@ -133,7 +133,7 @@ A: Aspose.Imaging, .NET uygulamalarında döngüler ve görev paralelliği arac�
 - **Satın almak**: [Lisans satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Şimdi deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Sorularınızı Burada Sorun](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: [Sorularınızı Burada Sorun](https://forum.aspose.com/c/imaging/14)
 
 .NET uygulamalarınızı güçlü görüntü işleme yetenekleriyle geliştirmek için bugün Aspose.Imaging'i kullanmaya başlayın!
 

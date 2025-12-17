@@ -215,7 +215,7 @@ public class FrameConverter {
 ### الخطوات التالية
 - استكشف خيارات التحويل الإضافية المتوفرة في Aspose.Imaging.
 - دمج هذه الوظيفة في مشروع أو سير عمل أكبر.
-- شارك في التعليقات أو اطلب الدعم من [منتدى مجتمع Aspose](https://forum.aspose.com/c/imaging/10).
+- شارك في التعليقات أو اطلب الدعم من [منتدى مجتمع Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## قسم الأسئلة الشائعة
 
@@ -241,7 +241,7 @@ A1: إنها مكتبة قوية توفر إمكانيات معالجة الصو
 - **شراء:** https://purchase.aspose.com/buy
 - **نسخة تجريبية مجانية:** https://releases.aspose.com/imaging/java/
 - **رخصة مؤقتة:** https://purchase.aspose.com/temporary-license/
-- **يدعم:** https://forum.aspose.com/c/imaging/10
+- **يدعم:** https://forum.aspose.com/c/imaging/14
 
 باستخدام Aspose.Imaging لجافا، يمكنك تبسيط عمليات تحويل الصور وفتح آفاق جديدة في التعامل مع الوسائط الرقمية. برمجة ممتعة!
 

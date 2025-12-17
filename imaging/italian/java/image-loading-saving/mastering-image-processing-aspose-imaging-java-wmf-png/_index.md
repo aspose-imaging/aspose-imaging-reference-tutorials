@@ -189,7 +189,7 @@ A5: Utilizza i vari metodi forniti da Aspose.Imaging per applicare trasformazion
 - **Acquistare**: Ottieni una licenza per sbloccare tutte le funzionalità a [Pagina di acquisto di Aspose](https://purchase.aspose.com/buy).
 - **Prova gratuita**Prova le capacità di Aspose.Imaging tramite [download di prova gratuiti](https://releases.aspose.com/imaging/java/).
 - **Licenza temporanea**: Richiedi una licenza temporanea per test estesi [Qui](https://purchase.aspose.com/temporary-license/).
-- **Supporto**: Per domande o assistenza, visita il [Forum di supporto di Aspose](https://forum.aspose.com/c/imaging/10).
+- **Supporto**: Per domande o assistenza, visita il [Forum di supporto di Aspose](https://forum.aspose.com/c/imaging/14).
 
 Intraprendi oggi stesso il tuo viaggio nell'elaborazione delle immagini e scopri tutto il potenziale di Aspose.Imaging in Java!
 

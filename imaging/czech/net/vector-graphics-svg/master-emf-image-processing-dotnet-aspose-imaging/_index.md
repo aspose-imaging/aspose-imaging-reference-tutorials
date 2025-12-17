@@ -165,7 +165,7 @@ Mezi běžné problémy patří nesprávné cesty k souborům nebo nepodporovan�
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/net/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Neváhejte prozkoumat tyto zdroje a pokud narazíte na nějaké problémy, obraťte se na podporu. Přejeme vám hodně štěstí při programování!
 

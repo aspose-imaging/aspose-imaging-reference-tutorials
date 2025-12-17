@@ -190,7 +190,7 @@ Aspose.Imaging की क्षमताओं को और अधिक जा
 - **खरीदना:** [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [Aspose.Imaging आज़माएँ](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस:** [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता:** [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता:** [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
 
 आज Aspose.Imaging के साथ अपनी यात्रा शुरू करें, और .NET अनुप्रयोगों के लिए छवि प्रसंस्करण में नई संभावनाओं को अनलॉक करें!
 

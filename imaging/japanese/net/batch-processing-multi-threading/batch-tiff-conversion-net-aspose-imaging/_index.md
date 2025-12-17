@@ -149,7 +149,7 @@ Aspose.Imaging for .NET を使用したバッチ TIFF 変換の実装方法を�
 - 購入： [ライセンスを購入する](https://purchase.aspose.com/buy)
 - 無料トライアル: [Aspose.Imaging for .NET をお試しください](https://releases.aspose.com/imaging/net/)
 - 一時ライセンス: [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- サポート： [Aspose フォーラム](https://forum.aspose.com/c/imaging/10)
+- サポート： [Aspose フォーラム](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -176,7 +176,7 @@ Aspose.Imaging supports a wide range of image formats, including JPEG2000 and TI
 - **Purchase**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Get a Free Trial of Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

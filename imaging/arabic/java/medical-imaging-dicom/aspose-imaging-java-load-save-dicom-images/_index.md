@@ -181,7 +181,7 @@ Utils.deleteFile("YOUR_OUTPUT_DIRECTORY/SupportDicomYBR422.png");
 - **تحميل:** [أحدث الإصدارات](https://releases.aspose.com/imaging/java/)
 - **شراء:** [شراء ترخيص Aspose](https://purchase.aspose.com/buy)
 - **النسخة التجريبية المجانية والترخيص المؤقت:** [البدء](https://releases.aspose.com/imaging/java/)
-- **منتدى الدعم:** [مجتمع Aspose](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم:** [مجتمع Aspose](https://forum.aspose.com/c/imaging/14)
 
 هذا الدليل الشامل يزودك بالمهارات اللازمة لإدارة صور DICOM بكفاءة في تطبيقات Java باستخدام Aspose.Imaging. برمجة ممتعة!
 

@@ -144,7 +144,7 @@ A5: 다른 인기 있는 옵션으로는 ImageSharp와 SkiaSharp가 있지만 As
 - **구입**: [라이센스 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [시작하기](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [여기에서 요청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

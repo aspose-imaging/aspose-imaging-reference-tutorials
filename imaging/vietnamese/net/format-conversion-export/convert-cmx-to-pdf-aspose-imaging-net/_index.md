@@ -175,7 +175,7 @@ A: Xem lại các thiết lập làm mịn và quét của bạn trong `PdfOptio
 - **Mua**: [Mua giấy phép Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu dùng thử miễn phí Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Nhận Giấy phép tạm thời cho Aspose.Imaging](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn hình ảnh Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Ủng hộ**: [Diễn đàn hình ảnh Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Bằng cách làm theo hướng dẫn này, bạn sẽ được trang bị đầy đủ để xử lý việc chuyển đổi CMX sang PDF một cách dễ dàng.
 

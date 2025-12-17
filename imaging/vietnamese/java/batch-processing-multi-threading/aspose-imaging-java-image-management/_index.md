@@ -163,7 +163,7 @@ Bây giờ bạn đã biết cách tải, lưu và xóa hình ảnh bằng Aspos
 - **Mua**: Mua giấy phép của bạn tại [Mua Aspose](https://purchase.aspose.com/buy).
 - **Dùng thử miễn phí**: Hãy thử dùng bản dùng thử miễn phí có sẵn trên trang web của họ.
 - **Giấy phép tạm thời**: Sở hữu một phiên bản để có quyền truy cập đầy đủ tính năng mà không bị giới hạn.
-- **Ủng hộ**: Nhận trợ giúp từ cộng đồng trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10). 
+- **Ủng hộ**: Nhận trợ giúp từ cộng đồng trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14). 
 
 Bằng cách làm theo hướng dẫn toàn diện này, giờ đây bạn đã có đủ khả năng xử lý các tệp hình ảnh hiệu quả trong các ứng dụng Java của mình bằng Aspose.Imaging!
 

@@ -162,7 +162,7 @@ A5: Zpracovávejte obrázky sekvenčně a efektivně spravujte paměť zavírán
 - **Nákup:** [Koupit nyní](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Začněte zde](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum komunity](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum komunity](https://forum.aspose.com/c/imaging/14)
 
 Využitím těchto zdrojů si můžete dále prohloubit znalosti a aplikaci Aspose.Imaging pro Javu. Přeji vám příjemné programování!
 

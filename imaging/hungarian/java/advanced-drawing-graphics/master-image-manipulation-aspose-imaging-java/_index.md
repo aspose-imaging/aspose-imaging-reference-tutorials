@@ -222,7 +222,7 @@ Ezt az útmutatót követve megtanultad, hogyan használd ki a **Aspose Imaging 
 
 ### Felhívás a cselekvésre
 
-Próbáld ki a ma bemutatott megoldást a következő projektedben. Oszd meg tapasztalataidat és a felmerülő kihívásokat fórumokon vagy közösségekben, például a [Aspose Forum](https://forum.aspose.com/c/imaging/10) oldalon.
+Próbáld ki a ma bemutatott megoldást a következő projektedben. Oszd meg tapasztalataidat és a felmerülő kihívásokat fórumokon vagy közösségekben, például a [Aspose Forum](https://forum.aspose.com/c/imaging/14) oldalon.
 
 ## Gyakran Ismételt Kérdések
 
@@ -248,7 +248,7 @@ Próbáld ki a ma bemutatott megoldást a következő projektedben. Oszd meg tap
 - **Vásárlás:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Ingyenes próba:** [Get Started with Free Trial](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes licenc:** [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Ezeknek a forrásoknak a felhasználásával tovább mélyítheted az Aspose Imaging Java megértését és alkalmazását. Boldog kódolást!
 

@@ -138,7 +138,7 @@ Um Ihr Wissen weiter zu erweitern, erkunden Sie die anderen von Aspose.Imaging a
 - **Kaufen**: [Kaufen Sie eine Lizenz](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Kostenlose Testversion starten](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Beantragen Sie eine vorübergehende Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Viel Spaß beim Programmieren und beim Verbessern Ihrer DICOM-Bilder mit Aspose.Imaging!
 

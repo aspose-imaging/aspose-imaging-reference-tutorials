@@ -167,7 +167,7 @@ i++;
 - **Αγορά**: [Αγοράστε μια άδεια χρήσης για το Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε με μια δωρεάν δοκιμή](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Απεικόνισης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Απεικόνισης Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

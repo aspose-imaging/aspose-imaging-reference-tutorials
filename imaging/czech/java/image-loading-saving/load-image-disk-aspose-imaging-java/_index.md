@@ -182,7 +182,7 @@ Jste připraveni posunout své dovednosti dále? Zkuste toto řešení implement
 - [Možnosti nákupu](https://purchase.aspose.com/buy)
 - [Bezplatný zkušební přístup](https://releases.aspose.com/imaging/java/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Podpora komunity](https://forum.aspose.com/c/imaging/10)
+- [Podpora komunity](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu budete dobře vybaveni k využití síly Aspose.Imaging pro Javu ve svých projektech. Přejeme vám šťastné programování!
 

@@ -129,7 +129,7 @@ Nyní jste zvládli načítání obrázků a jejich export do WebP pomocí Aspos
 ### Další kroky
 - Experimentujte s různými možnostmi exportu, například s úpravou úrovní kvality.
 - Prozkoumejte integraci Aspose.Imaging do větších projektů nebo pracovních postupů.
-- Zapojte se do komunity na [Fórum Aspose](https://forum.aspose.com/c/imaging/10) za podporu a nápady.
+- Zapojte se do komunity na [Fórum Aspose](https://forum.aspose.com/c/imaging/14) za podporu a nápady.
 
 ## Sekce Často kladených otázek
 
@@ -154,7 +154,7 @@ Ujistěte se, že máte správné cesty a že vstupní soubor existuje. Pro nale
 - **Nákup:** [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Začněte zde](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence:** [Žádost o jednu](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory:** [Podpora Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory:** [Podpora Aspose](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se s jistotou na cestu zpracování obrazu s Aspose.Imaging .NET a prozkoumejte nekonečné možnosti digitálního zobrazování.
 

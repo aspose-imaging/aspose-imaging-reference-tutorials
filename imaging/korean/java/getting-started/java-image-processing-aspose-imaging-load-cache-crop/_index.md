@@ -190,7 +190,7 @@ Aspose.Imaging for Java를 사용하여 이미지를 로드, 캐싱, 자르는 �
 - **구입:** [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [Aspose.Imaging 무료 체험판](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [Aspose 이미징 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** [Aspose 이미징 포럼](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java로 고급 이미지 처리 여정을 시작하고 애플리케이션의 새로운 잠재력을 열어보세요!
 

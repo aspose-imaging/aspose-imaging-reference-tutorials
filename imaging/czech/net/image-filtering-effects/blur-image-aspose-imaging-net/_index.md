@@ -153,7 +153,7 @@ Naučili jste se, jak rozmazat obrázek pomocí knihovny Aspose.Imaging pro .NET
 - **Nákup**: [Kupte si produkty Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Zahájit bezplatnou zkušební verzi](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Získejte dočasný řidičský průkaz](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -197,7 +197,7 @@ Bu çözümü uygulamaya hazır mısınız? Java için Aspose.Imaging'e dalın v
 - **Satın almak:** Ziyaret etmek [Aspose Satın Alma Sayfası](https://purchase.aspose.com/buy) lisanslama seçenekleri için
 - **Ücretsiz Deneme:** Bir denemeyle başlayın [Ücretsiz Deneme Bağlantısı](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** Geçici erişim elde edin [Geçici Lisans Sayfası](https://purchase.aspose.com/temporary-license/)
-- **Destek:** Toplulukla etkileşim kurun [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek:** Toplulukla etkileşim kurun [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

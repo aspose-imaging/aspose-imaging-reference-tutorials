@@ -185,7 +185,7 @@ A: 別の `ImageOptions` さまざまな形式で保存するための Aspose.Im
 - **ライセンスを購入**： [今すぐ購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [始める](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [こちらからお申し込みください](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [Aspose.Imaging サポート](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [Aspose.Imaging サポート](https://forum.aspose.com/c/imaging/14)
 
 今すぐ Aspose.Imaging for Java の強力な画像処理機能をお試しください。
 

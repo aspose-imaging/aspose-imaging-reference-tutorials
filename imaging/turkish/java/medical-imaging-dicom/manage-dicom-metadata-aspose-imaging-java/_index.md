@@ -173,7 +173,7 @@ DICOM meta verilerini Aspose.Imaging for Java ile yönetmek, tıbbi görüntüle
    - Meta veri manipülasyonu piksel verilerini değiştirmez, böylece görüntü kalitesinin bozulmadan kalması sağlanır.
 
 5. **Sorun yaşarsam nereden destek alabilirim?**
-   - Ziyaret edin [Aspose.Görüntüleme forumu](https://forum.aspose.com/c/imaging/10) Topluluk uzmanlarından ve Aspose çalışanlarından yardım isteyin.
+   - Ziyaret edin [Aspose.Görüntüleme forumu](https://forum.aspose.com/c/imaging/14) Topluluk uzmanlarından ve Aspose çalışanlarından yardım isteyin.
 
 ## Kaynaklar
 

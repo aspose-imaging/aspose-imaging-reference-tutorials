@@ -173,7 +173,7 @@ N'hésitez pas à essayer d'implémenter ces étapes dans votre propre environne
 - **Achat:** [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Démarrer l'essai gratuit](https://releases.aspose.com/imaging/java/)
 - **Licence temporaire :** [Demande de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance :** [Forum d'assistance Aspose Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance :** [Forum d'assistance Aspose Imaging](https://forum.aspose.com/c/imaging/14)
 
 N'hésitez pas à explorer ces ressources et à intégrer Aspose.Imaging dans vos projets pour des capacités de traitement d'image transparentes.
 

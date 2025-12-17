@@ -163,7 +163,7 @@ A: I když Aspose.Imaging sám o sobě neposkytuje vestavěné multithreadingov�
 A: Bezplatná zkušební verze umožňuje plnou funkčnost, ale přidává k obrázkům vodoznaky a omezuje dobu používání. Zvažte pořízení dočasné nebo zakoupené licence pro nepřetržitý přístup.
 
 **Q5: Jak mohu řešit běžné problémy se zpracováním obrazu?**
-A: Ujistěte se, že máte správné cesty k souborům, zda máte dostatek systémových prostředků a podívejte se na [fórum podpory](https://forum.aspose.com/c/imaging/10) v případě potřeby.
+A: Ujistěte se, že máte správné cesty k souborům, zda máte dostatek systémových prostředků a podívejte se na [fórum podpory](https://forum.aspose.com/c/imaging/14) v případě potřeby.
 
 ## Zdroje
 
@@ -172,7 +172,7 @@ A: Ujistěte se, že máte správné cesty k souborům, zda máte dostatek syst�
 - **Nákup**Získejte licenci prostřednictvím [Nákupní stránka Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**Začněte prozkoumávat funkce s [bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**Požádejte o dočasnou licenci prostřednictvím [Stránka s dočasnou licencí společnosti Aspose](https://purchase.aspose.com/temporary-license/)
-- **Podpora**V případě jakýchkoli dotazů navštivte [fórum podpory](https://forum.aspose.com/c/imaging/10)
+- **Podpora**V případě jakýchkoli dotazů navštivte [fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 S tímto komplexním průvodcem jste připraveni vylepšit své schopnosti zpracování obrazu pomocí Aspose.Imaging pro Javu!
 

@@ -227,7 +227,7 @@ Je hebt geleerd hoe je WebP-afbeeldingen laadt en converteert met Aspose.Imaging
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

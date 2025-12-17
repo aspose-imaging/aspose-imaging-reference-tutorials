@@ -193,7 +193,7 @@ import com.aspose.imaging.examples.Utils;
    - JDK 8 أو أعلى وبيئة تطوير Java IDE متوافقة.
 
 5. **أين يمكنني العثور على الدعم إذا واجهت مشاكل؟**
-   - انضم إلى [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10) للحصول على الدعم المجتمعي والرسمي.
+   - انضم إلى [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14) للحصول على الدعم المجتمعي والرسمي.
 
 ## موارد
 

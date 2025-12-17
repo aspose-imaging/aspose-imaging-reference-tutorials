@@ -165,7 +165,7 @@ A1: إنها مكتبة توفر إمكانيات شاملة لتحويل الص
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جرب Aspose.Imaging مجانًا](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتديات أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتديات أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 يوفر لك هذا الدليل كل المعلومات اللازمة لبدء تحويل صور TIFF إلى ملفات PDF باستخدام Aspose.Imaging لـ .NET، مما يعزز حلول إدارة المستندات لديك.
 

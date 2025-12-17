@@ -174,7 +174,7 @@ Aspose.Imaging を使用して .NET で画像処理を行う場合は、次の�
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアルダウンロード](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス申請](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET を使用して画像変換の旅に乗り出し、アプリケーションの新たな可能性を解き放ちましょう。
 

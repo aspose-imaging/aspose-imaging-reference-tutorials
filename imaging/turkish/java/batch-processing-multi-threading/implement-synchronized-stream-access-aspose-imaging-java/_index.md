@@ -165,7 +165,7 @@ Uygulamalarınıza nasıl fayda sağlayabileceğini görmek için farklı yapıl
 - **Satın almak:** Lisans satın al [Aspose Lisanslama Sayfası](https://purchase.aspose.com/buy).
 - **Ücretsiz Deneme:** Aspose.Imaging'i yayın sayfasında bulunan ücretsiz deneme sürümüyle deneyin.
 - **Geçici Lisans:** Geçici lisanslama seçeneği ile genişletilmiş erişim elde edin.
-- **Destek:** Tartışmalara katılın veya yardım isteyin [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Destek:** Tartışmalara katılın veya yardım isteyin [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Gelişmiş kararlılık ve performans için Java projelerinize senkronize akış erişimini entegre edip denemeler yapmaktan çekinmeyin!
 

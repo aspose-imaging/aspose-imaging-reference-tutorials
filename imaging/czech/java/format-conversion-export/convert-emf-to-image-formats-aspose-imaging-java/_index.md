@@ -255,7 +255,7 @@ A5: Navštivte [stránka s dočasnou licencí](https://purchase.aspose.com/tempo
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Získejte bezplatnou zkušební verzi Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Využitím těchto zdrojů si můžete rozšířit znalosti a schopnosti s Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

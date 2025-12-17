@@ -165,7 +165,7 @@ A estas alturas, ya deberías tener una sólida comprensión de cómo cargar im�
 - **Compra**:Explora las opciones de compra en [Página de compra de Aspose](https://purchase.aspose.com/buy)
 - **Prueba gratuita**:Comience con una prueba gratuita disponible [aquí](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal**:Solicitar una licencia temporal en el [Página de Licencia Temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**:Únase a las discusiones y busque ayuda en [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**:Únase a las discusiones y busque ayuda en [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 ¡Embárquese hoy mismo en su viaje para dominar Aspose.Imaging en Java y transforme su forma de manejar las tareas de procesamiento de imágenes!
 

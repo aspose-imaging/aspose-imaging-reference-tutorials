@@ -190,7 +190,7 @@ public class FeatureCreateRectangleAndSave {
 - **購買：** [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用：** [Aspose.Imaging 免費試用](https://releases.aspose.com/imaging/java/)
 - **臨時執照：** [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 成像論壇](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 成像論壇](https://forum.aspose.com/c/imaging/14)
 
 使用 Aspose.Imaging for Java 踏上高級影像處理之旅，釋放應用程式的新潛力！
 

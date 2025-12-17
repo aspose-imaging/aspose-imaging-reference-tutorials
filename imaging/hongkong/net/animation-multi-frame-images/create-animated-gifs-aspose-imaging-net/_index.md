@@ -153,7 +153,7 @@ using (var image = new GifImage(new GifFrameBlock(frames[0])))
 - **購買**： [購買 Aspose 許可證](https://purchase.aspose.com/buy)
 - **免費試用**： [Aspose.Imaging 免費試用](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [申請臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 利用這些資源，今天就開始創建動態 GIF！
 

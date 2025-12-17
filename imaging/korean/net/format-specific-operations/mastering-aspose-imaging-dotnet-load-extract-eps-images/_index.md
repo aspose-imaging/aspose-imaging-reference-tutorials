@@ -205,7 +205,7 @@ Aspose.Imaging을 사용할 때 최적의 성능을 위해 다음 팁을 고려�
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging 무료 체험판](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 통해 Aspose.Imaging을 활용하여 .NET 애플리케이션에서 효율적인 EPS 파일 관리를 위한 준비를 마칠 수 있습니다. 즐거운 코딩 되세요!
 

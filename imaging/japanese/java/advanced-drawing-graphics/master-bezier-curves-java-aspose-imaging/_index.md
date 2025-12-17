@@ -197,7 +197,7 @@ A: ビルドツールの設定を確認し、正しいバージョンが参照�
 - **購入:** [Buy Aspose.Imaging for Java](https://purchase.aspose.com/buy)  
 - **無料トライアル:** [Aspose のウェブサイト](https://releases.aspose.com/imaging/java/) で開始  
 - **一時ライセンス:** [Aspose Purchase](https://purchase.aspose.com/temporary-license/) から申請  
-- **サポート:** [Aspose Forum](https://forum.aspose.com/c/imaging/10) でディスカッションに参加
+- **サポート:** [Aspose Forum](https://forum.aspose.com/c/imaging/14) でディスカッションに参加
 
 今日から曲線を描き始め、Aspose.Imaging で Java プロジェクトを次のレベルに引き上げましょう！
 

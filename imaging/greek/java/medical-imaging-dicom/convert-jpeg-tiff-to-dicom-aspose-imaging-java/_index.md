@@ -171,7 +171,7 @@ image.save(outputFileNameMultipageDcm, new DicomOptions());
 - **Αγορά**: [Αγοράστε Aspose Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δοκιμάστε δωρεάν](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτό το σεμινάριο, θα είστε άρτια εξοπλισμένοι για να χειρίζεστε εργασίες μετατροπής εικόνων στα έργα ιατρικής απεικόνισης που χρησιμοποιείτε χρησιμοποιώντας το Aspose.Imaging για Java.
 

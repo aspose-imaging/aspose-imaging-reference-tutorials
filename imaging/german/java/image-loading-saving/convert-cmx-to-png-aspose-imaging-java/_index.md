@@ -218,7 +218,7 @@ A: Nutzen Sie die Stapelverarbeitung und optimieren Sie die Speichereinstellunge
 - **Kaufen**: Kaufen Sie eine Lizenz oder Testversion über [Aspose Kauf](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: Probieren Sie Aspose.Imaging mit diesem [Link zur kostenlosen Testversion](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: Erhalten Sie eine temporäre Lizenz über [dieser Link](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: Diskutieren Sie mit über die Herausforderungen der Bildverarbeitung in [Aspose-Foren](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: Diskutieren Sie mit über die Herausforderungen der Bildverarbeitung in [Aspose-Foren](https://forum.aspose.com/c/imaging/14)
 
 Starten Sie Ihr nächstes Projekt voller Zuversicht – mit den Tools und dem Wissen, CMX-Dateien nahtlos zu konvertieren. Viel Spaß beim Programmieren!
 

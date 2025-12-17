@@ -191,7 +191,7 @@ for (int i = 0; i < colorTypes.length; ++i) {
 - **Αγορά:** [Αγοράστε άδειες χρήσης Aspose](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Δωρεάν δοκιμές απεικόνισης Aspose](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** [Φόρουμ Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** [Φόρουμ Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτό το σεμινάριο, θα έχετε εξοπλίσει τον εαυτό σας με τις γνώσεις για την αποτελεσματική φόρτωση και αποθήκευση αρχείων JPEG χρησιμοποιώντας το Aspose.Imaging για Java. Καλή κωδικοποίηση!
 

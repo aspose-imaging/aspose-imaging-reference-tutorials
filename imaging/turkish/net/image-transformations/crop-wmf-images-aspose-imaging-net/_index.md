@@ -138,7 +138,7 @@ Bir sonraki adım olarak, Aspose.Imaging'in yeniden boyutlandırma veya formatla
 **A4:** Evet, Aspose.Imaging PNG, JPEG, TIFF vb. gibi çok çeşitli formatları destekler.
 
 **S5:** Sorun yaşarsam nasıl destek alabilirim?
-**A5:** Ziyaret edin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10) yardım için.
+**A5:** Ziyaret edin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14) yardım için.
 
 ## Kaynaklar
 - **Belgeler:** Ayrıntılı kılavuzları ve API referanslarını şu adreste keşfedin: [Aspose Görüntüleme Belgeleri](https://reference.aspose.com/imaging/net/)

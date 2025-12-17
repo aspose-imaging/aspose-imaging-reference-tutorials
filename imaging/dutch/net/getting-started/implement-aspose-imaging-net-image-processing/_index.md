@@ -126,7 +126,7 @@ Caching zorgt ervoor dat laadtijden en het resourcegebruik afnemen, waardoor de 
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Aspose.Imaging gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose.Imaging Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose.Imaging Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 Door deze handleiding te volgen, bent u goed op weg met het implementeren van efficiënte beeldverwerking in uw .NET-applicaties met Aspose.Imaging. Veel plezier met coderen!
 
 {{< /blocks/products/pf/tutorial-page-section >}}

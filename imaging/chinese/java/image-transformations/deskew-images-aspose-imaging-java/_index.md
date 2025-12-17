@@ -182,7 +182,7 @@ image.save(outputFileName);
 - **购买：** [购买 Aspose 许可证](https://purchase.aspose.com/buy)
 - **免费试用：** [开始免费试用](https://releases.aspose.com/imaging/java/)
 - **临时执照：** [申请临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 希望本指南能帮助您使用 Aspose.Imaging 在 Java 应用程序中高效实现去歪斜功能。祝您编程愉快！
 

@@ -172,7 +172,7 @@ A: Bezoek de [Aspose.Imaging-documentatie](https://reference.aspose.com/imaging/
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Begin met een gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Hier aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Aspose Ondersteuningscommunity](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Aspose Ondersteuningscommunity](https://forum.aspose.com/c/imaging/14)
 
 Deze gids geeft je de kennis om GIF-afbeeldingen met vertrouwen te bewerken met Aspose.Imaging voor Java. Veel plezier met coderen!
 

@@ -191,7 +191,7 @@ Aspose.Imagingを使用して、メモリ制約を効果的に管理しながら
    - はい、JPEG、PNG、BMP など、さまざまな画像形式をサポートしています。
 
 5. **問題が発生した場合、どこでサポートを受けられますか?**
-   - 訪問 [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/10) コミュニティと公式サポートのため。
+   - 訪問 [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/14) コミュニティと公式サポートのため。
 
 ## リソース
 

@@ -171,7 +171,7 @@ In deze tutorial hebben we onderzocht hoe je TIFF-afbeeldingen effectief kunt la
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Gratis proefperiode starten](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Deze tutorial geeft je de kennis om TIFF-beeldverwerking efficiënt te implementeren in je Java-applicaties. Veel plezier met coderen!
 

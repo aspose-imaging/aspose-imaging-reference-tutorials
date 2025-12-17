@@ -182,7 +182,7 @@ try (Image image = Image.create(bmpCreateOptions, 100, 100)) {
 - [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - [Αποκτήστε μια δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Πληροφορίες Προσωρινής Άδειας Χρήσης](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Μη διστάσετε να εξερευνήσετε αυτούς τους πόρους για πιο λεπτομερείς πληροφορίες και υποστήριξη. Καλή κωδικοποίηση!
 

@@ -189,7 +189,7 @@ A5: Gebruik de verschillende methoden die Aspose.Imaging biedt om transformaties
 - **Aankoop**: Zorg dat u een licentie heeft om alle functies te ontgrendelen op [Aspose-aankooppagina](https://purchase.aspose.com/buy).
 - **Gratis proefperiode**Test de mogelijkheden van Aspose.Imaging via [gratis proefdownloads](https://releases.aspose.com/imaging/java/).
 - **Tijdelijke licentie**: Vraag een tijdelijke licentie aan voor uitgebreide tests [hier](https://purchase.aspose.com/temporary-license/).
-- **Steun**: Voor vragen of hulp kunt u terecht op de [Aspose-ondersteuningsforum](https://forum.aspose.com/c/imaging/10).
+- **Steun**: Voor vragen of hulp kunt u terecht op de [Aspose-ondersteuningsforum](https://forum.aspose.com/c/imaging/14).
 
 Begin vandaag nog met uw beeldverwerkingsreis en ontgrendel het volledige potentieel van Aspose.Imaging in Java!
 

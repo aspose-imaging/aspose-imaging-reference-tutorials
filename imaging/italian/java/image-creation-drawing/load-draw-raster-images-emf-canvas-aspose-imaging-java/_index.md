@@ -191,7 +191,7 @@ Tra i problemi più comuni rientrano la gestione impropria dell'eliminazione del
 - **Acquistare**: https://purchase.aspose.com/buy
 - **Prova gratuita**: https://releases.aspose.com/imaging/java/
 - **Licenza temporanea**: https://purchase.aspose.com/temporary-license/
-- **Supporto**: https://forum.aspose.com/c/imaging/10
+- **Supporto**: https://forum.aspose.com/c/imaging/14
 
 Speriamo che questa guida ti sia utile per i tuoi progetti. Buona programmazione!
 

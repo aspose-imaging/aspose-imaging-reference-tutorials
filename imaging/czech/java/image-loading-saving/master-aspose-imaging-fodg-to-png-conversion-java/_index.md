@@ -213,7 +213,7 @@ Další kroky:
 - **Nákup**: [Kupte si produkty Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte Aspose.Imaging zdarma](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Zvládnutím těchto technik jste na dobré cestě k využití Aspose.Imaging pro sofistikované úlohy zpracování obrazu v Javě. Přeji vám příjemné programování!
 

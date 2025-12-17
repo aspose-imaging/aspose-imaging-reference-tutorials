@@ -203,7 +203,7 @@ configExampleImage.save(YOUR_OUTPUT_DIRECTORY + "ProcessedImage_out.bmp");
 - **Άδεια Αγοράς:** [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Δοκιμάστε το Aspose.Imaging δωρεάν](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ υποστήριξης:** [Υποστήριξη Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ υποστήριξης:** [Υποστήριξη Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Ξεκινήστε να εξερευνάτε τις δυνατότητες με το Aspose.Imaging για Java σήμερα και βελτιώστε τα έργα επεξεργασίας εικόνας σας!
 

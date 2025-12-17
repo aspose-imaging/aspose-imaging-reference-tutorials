@@ -194,7 +194,7 @@ O: Zdecydowanie – działa wszędzie tam, gdzie obsługiwana jest Java, w tym W
 - **Zakup**: [Kup produkty Aspose](https://purchase.aspose.com/buy)
 - **Darmowa wersja próbna**: [Rozpocznij darmową wersję próbną](https://releases.aspose.com/imaging/java/)
 - **Tymczasowa licencja**: [Zamów tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Teraz, uzbrojony w tę wiedzę, jesteś gotowy wdrożyć Aspose.Imaging w swoich projektach Java, aby uzyskać rozszerzone możliwości przetwarzania obrazów. Szczęśliwego kodowania!
 

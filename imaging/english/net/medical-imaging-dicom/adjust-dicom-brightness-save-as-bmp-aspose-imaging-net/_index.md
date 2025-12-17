@@ -176,7 +176,7 @@ As next steps, consider exploring additional image manipulation features provide
 - For commercial use, you will need to purchase a license. Trial licenses allow evaluation but come with limitations.
 
 **Q4: Is there support available if I encounter issues?**
-- Yes, Aspose offers community forums and professional support options. Visit their [support page](https://forum.aspose.com/c/imaging/10) for more information.
+- Yes, Aspose offers community forums and professional support options. Visit their [support page](https://forum.aspose.com/c/imaging/14) for more information.
 
 **Q5: Can I integrate this functionality into a web application?**
 - Absolutely! The library is compatible with .NET frameworks used in web applications, allowing seamless integration.

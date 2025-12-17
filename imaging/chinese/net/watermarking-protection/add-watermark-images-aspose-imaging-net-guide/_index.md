@@ -158,7 +158,7 @@ image.Save("@YOUR_OUTPUT_DIRECTORY/AddWatermarkToImage_out.bmp");
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用版下载](https://releases.aspose.com/imaging/net/)
 - [获取临时许可证](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 利用这些资源，您可以进一步探索和掌握适用于 .NET 的 Aspose.Imaging 库。祝您编码愉快！
 

@@ -173,7 +173,7 @@ private static VectorRasterizationOptions GetRasterizationOptions(Image image)
 - **Αγορά**Αγοράστε μια άδεια χρήσης ή λάβετε μια δωρεάν δοκιμή από [Αγορά Aspose](https://purchase.aspose.com/buy).
 - **Δωρεάν δοκιμή**: Ξεκινήστε με μια δοκιμή στο [Κυκλοφορίες](https://releases.aspose.com/imaging/net/).
 - **Προσωρινή Άδεια**: Αίτημα από [Άσποζε](https://purchase.aspose.com/temporary-license/).
-- **Υποστήριξη**: Λάβετε βοήθεια στο [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10).
+- **Υποστήριξη**: Λάβετε βοήθεια στο [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14).
 
 Ξεκινήστε το ταξίδι σας για να τελειοποιήσετε την επεξεργασία εικόνας με το Aspose.Imaging και ανεβάστε τις εφαρμογές σας σε νέα ύψη!
 

@@ -174,7 +174,7 @@ if (System.IO.File.Exists(filePath))
 - [شراء الترخيص](https://purchase.aspose.com/buy)
 - [تنزيل النسخة التجريبية المجانية](https://releases.aspose.com/imaging/net/)
 - [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 ابدأ رحلة تحويل الصور الخاصة بك مع Aspose.Imaging لـ .NET واكتشف إمكانيات جديدة في تطبيقاتك!
 

@@ -181,7 +181,7 @@ Redo att prova det? Använd det du lärt dig idag och se resultaten!
 - [Köp licensalternativ](https://purchase.aspose.com/buy)
 - [Gratis provversion nedladdning](https://releases.aspose.com/imaging/java/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Support- och communityforum](https://forum.aspose.com/c/imaging/10)
+- [Support- och communityforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden är du nu rustad att effektivt hantera bildformatkonverteringar med Aspose.Imaging Java. Lycka till med kodningen!
 

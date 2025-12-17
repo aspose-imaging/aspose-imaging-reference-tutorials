@@ -153,7 +153,7 @@ GIF बनाते समय प्रदर्शन को अनुकूल
 - **खरीदना**: [Aspose लाइसेंसिंग खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [Aspose.Imaging निःशुल्क परीक्षण](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 इन संसाधनों का उपयोग करें और आज ही गतिशील GIF बनाना शुरू करें!
 

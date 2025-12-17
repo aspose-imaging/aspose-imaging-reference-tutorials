@@ -175,7 +175,7 @@ Bu çözümü bugün uygulamaya çalışın ve görüntü işleme yetenekleriniz
 - **Belgeleme**: [Aspose.Görüntüleme Java Referansı](https://reference.aspose.com/imaging/java/)
 - **İndirmek**: [Aspose.Görüntüleme Sürümleri](https://releases.aspose.com/imaging/java/)
 - **Satın Alma ve Lisanslama**: [Aspose Lisansı Satın Al](https://purchase.aspose.com/buy), [Ücretsiz Deneme](https://releases.aspose.com/imaging/java/), [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- **Destek**: Toplulukla etkileşim kurun [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek**: Toplulukla etkileşim kurun [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging'i Java projelerinize entegre ederek, iş akışlarınızı kolaylaştıran ve geliştiren güçlü görüntü işleme yeteneklerinin kilidini açabilirsiniz. İyi kodlamalar!
 

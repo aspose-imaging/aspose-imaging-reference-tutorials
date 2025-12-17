@@ -171,7 +171,7 @@ try (Image image = Image.create(imageOptions, 1000, 1000)) {
 - **التوثيق:** [مرجع Aspose.Imaging لـ Java](https://reference.aspose.com/imaging/java/)
 - **تحميل:** [أحدث الإصدارات](https://releases.aspose.com/imaging/java/)
 - **الشراء والتجربة:** استكشف خيارات الترخيص في [شراء Aspose](https://purchase.aspose.com/buy)
-- **يدعم:** انضم إلى مناقشات المجتمع على [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** انضم إلى مناقشات المجتمع على [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 جرب هذه الخطوات في مشروعك التالي لترى كيف يمكن لـ Aspose.Imaging Java تبسيط وتحسين سير عمل معالجة الصور لديك!
 

@@ -200,7 +200,7 @@ Aspose.Imaging 的計量許可功能非常靈活。以下是一些實際應用�
    - 使用 `Metered.getConsumptionQuantity()` 處理影像之前和之後的方法來追蹤使用情況。
 
 5. **如果我遇到問題，可以獲得支援嗎？**
-   - 訪問 [Aspose 論壇](https://forum.aspose.com/c/imaging/10) 尋求社區專家的協助。
+   - 訪問 [Aspose 論壇](https://forum.aspose.com/c/imaging/14) 尋求社區專家的協助。
 
 ## 資源
 

@@ -134,7 +134,7 @@ Sind Sie bereit, diese Fähigkeiten in die Praxis umzusetzen? Implementieren Sie
 - **Kaufen**: [Kaufen Sie eine Lizenz](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Starten Sie Ihre kostenlose Testversion](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Erhalten Sie eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

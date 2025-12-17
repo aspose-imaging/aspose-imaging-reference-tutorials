@@ -173,7 +173,7 @@ Artık, PNG resimlerini verimli bir şekilde yüklemek, değiştirmek ve kaydetm
 - **Satın almak:** Aspose.Imaging'i faydalı bulursanız lisans satın almayı düşünün.
 - **Ücretsiz Deneme:** Özellikleri değerlendirmek için ücretsiz denemeyle başlayın.
 - **Geçici Lisans:** Uzun süreli değerlendirme için geçici lisans alın.
-- **Destek:** Topluluğa katılın [Aspose Forumları](https://forum.aspose.com/c/imaging/10) yardım için. 
+- **Destek:** Topluluğa katılın [Aspose Forumları](https://forum.aspose.com/c/imaging/14) yardım için. 
 
 Bu eğitimi takip ederek Aspose.Imaging Java'yı kullanarak görüntü işleme yeteneklerinizi geliştirmek için gereken donanıma sahip olacaksınız.
 

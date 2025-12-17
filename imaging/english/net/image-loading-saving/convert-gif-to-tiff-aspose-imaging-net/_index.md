@@ -159,7 +159,7 @@ In this tutorial, you've learned how to convert individual frames from a GIF int
 - [Download Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - [Purchase Aspose Licensing Options](https://purchase.aspose.com/buy)
 - [Free Trial and Temporary License](https://releases.aspose.com/imaging/net/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

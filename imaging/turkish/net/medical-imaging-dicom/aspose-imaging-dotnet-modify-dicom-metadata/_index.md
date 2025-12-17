@@ -186,7 +186,7 @@ Bu eğitim, Aspose.Imaging for .NET kullanarak DICOM meta verilerini yükleme, d
 - **Satın almak**: [Aspose Ürünlerini Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'i deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Görüntüleme için Aspose Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Görüntüleme için Aspose Forumu](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

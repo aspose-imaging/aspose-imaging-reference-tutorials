@@ -224,7 +224,7 @@ jpegImage.save(outputPngRectFileName, new PngOptions(), quarter);
 - **खरीदना:** [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [निःशुल्क परीक्षण के साथ आरंभ करें](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस:** [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता:** [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता:** [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
 
 हमें उम्मीद है कि आपको Aspose.Imaging for Java के साथ JPEG इमेज प्रोसेसिंग में महारत हासिल करने में यह गाइड मददगार लगी होगी। इन समाधानों को लागू करके देखें कि वे आपकी परियोजनाओं को कैसे बेहतर बना सकते हैं!
 

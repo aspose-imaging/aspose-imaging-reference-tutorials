@@ -178,7 +178,7 @@ A: Có, Aspose.Imaging hỗ trợ nhiều định dạng hình ảnh. Kiểm tra
 
 **H: Tôi có thể tìm kiếm sự trợ giúp ở đâu nếu gặp vấn đề?**
 
-A: Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) để được cộng đồng và các chuyên gia của Aspose hỗ trợ.
+A: Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) để được cộng đồng và các chuyên gia của Aspose hỗ trợ.
 
 ## Tài nguyên
 

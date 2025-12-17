@@ -185,7 +185,7 @@ Aspose.Imaging Java 可以整合到各種系統中，以增強醫學影像解決
 - **購買許可證**： [立即購買](https://purchase.aspose.com/buy)
 - **免費試用**： [開始](https://releases.aspose.com/imaging/java/)
 - **臨時執照**： [在此申請](https://purchase.aspose.com/temporary-license/)
-- **支援論壇**： [Aspose.Imaging 支持](https://forum.aspose.com/c/imaging/10)
+- **支援論壇**： [Aspose.Imaging 支持](https://forum.aspose.com/c/imaging/14)
 
 立即開始探索 Aspose.Imaging for Java 強大的影像處理功能！
 

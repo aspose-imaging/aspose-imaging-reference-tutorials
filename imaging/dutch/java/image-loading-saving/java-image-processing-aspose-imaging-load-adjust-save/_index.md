@@ -215,7 +215,7 @@ Je beheerst nu de basisprincipes van Java-beeldverwerking met Aspose.Imaging. Va
 - **Aankoop**: [Koop Aspose-producten](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Begin hier](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Begin uw Java-beeldverwerkingsreis met Aspose.Imaging en ontgrendel nieuwe mogelijkheden in digitale beeldmanipulatie!
 

@@ -153,7 +153,7 @@ Daha fazla bilgi ve kaynak için:
 - **Lisans Satın Al:** [Şimdi al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Deneme ile Başlayın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans:** [Geçici Lisans Başvurusu Yapın](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu:** [Aspose.Görüntüleme Desteği](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu:** [Aspose.Görüntüleme Desteği](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzla, DICOM'u PNG'ye dönüştürmeyi .NET projelerinize entegre etmek için iyi bir donanıma sahip olacaksınız. İyi kodlamalar!
 

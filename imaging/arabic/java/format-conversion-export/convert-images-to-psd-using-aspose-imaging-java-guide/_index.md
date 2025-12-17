@@ -258,7 +258,7 @@ A5: استخدم كتل try-catch لإدارة الاستثناءات المحت
 - **شراء**: [شراء Aspose Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جرب مجانا](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [اطلب هنا](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

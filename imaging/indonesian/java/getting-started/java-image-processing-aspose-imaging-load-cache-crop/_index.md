@@ -190,7 +190,7 @@ Sebagai langkah selanjutnya, pertimbangkan untuk menjelajahi fitur tambahan sepe
 - **Pembelian:** [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Uji Coba Gratis Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Forum Pencitraan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Forum Pencitraan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda menuju pemrosesan gambar tingkat lanjut dengan Aspose.Imaging untuk Java dan buka potensi baru dalam aplikasi Anda!
 

@@ -197,7 +197,7 @@ In dieser Anleitung haben Sie gelernt, wie Sie mit Aspose.Imaging Java DJVU-Seit
 - **Kauflizenz:** [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Starten Sie Ihre kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Holen Sie sich eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum:** [Aspose.Imaging-Unterstützung](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum:** [Aspose.Imaging-Unterstützung](https://forum.aspose.com/c/imaging/14)
 
 Begeben Sie sich noch heute auf Ihre Reise zur Beherrschung der Dokumentenkonvertierung mit Aspose.Imaging Java!
 

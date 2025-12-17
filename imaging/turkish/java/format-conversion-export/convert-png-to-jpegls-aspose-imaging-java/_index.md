@@ -204,7 +204,7 @@ Bu eğitimde, Aspose.Imaging for Java kullanarak PNG görüntülerini JPEG-LS'ye
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Erişimi](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Başvurusu](https://purchase.aspose.com/temporary-license/)
-- [Topluluk Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Topluluk Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı kılavuzu takip ederek artık Aspose.Imaging for Java'yı kullanarak PNG-JPEG-LS dönüşümlerini ve tersini verimli bir şekilde idare edebilecek donanıma sahipsiniz. İyi kodlamalar!
 

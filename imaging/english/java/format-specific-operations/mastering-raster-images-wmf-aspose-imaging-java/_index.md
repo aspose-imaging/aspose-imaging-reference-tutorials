@@ -166,7 +166,7 @@ By following this tutorial, you've learned how to load and draw raster images on
 - **Purchase Options:** https://purchase.aspose.com/buy
 - **Free Trial:** https://releases.aspose.com/imaging/java/
 - **Temporary License:** https://purchase.aspose.com/temporary-license/
-- **Support Forum:** https://forum.aspose.com/c/imaging/10
+- **Support Forum:** https://forum.aspose.com/c/imaging/14
 
 By leveraging Aspose.Imaging for Java, you can enhance your applications with advanced image processing capabilities. Happy coding!
 

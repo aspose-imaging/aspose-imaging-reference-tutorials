@@ -182,7 +182,7 @@ A: JPEG, PNG, GIF, BMP 등 다양한 이미지 형식을 지원합니다. [선�
 - **구입:** [Aspose 라이선스 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [무료 체험판 시작하기](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드가 Aspose.Imaging을 사용하여 Java 애플리케이션에서 기울기 보정 기능을 효율적으로 구현하는 데 도움이 되기를 바랍니다. 즐거운 코딩 되세요!
 

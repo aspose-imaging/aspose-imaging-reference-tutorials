@@ -213,7 +213,7 @@ Aspose.Imaging универсален, что делает его пригодн
 - [Купить лицензию](https://purchase.aspose.com/buy)
 - [Бесплатная пробная версия](https://releases.aspose.com/imaging/java/)
 - [Запрос на временную лицензию](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Отправьтесь в путешествие с Aspose.Imaging для Java и раскройте весь потенциал обработки изображений в своих приложениях!
 

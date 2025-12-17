@@ -170,7 +170,7 @@ A: Aspose.Imaging podporuje řadu formátů, včetně JPEG, PNG, GIF, BMP a dal�
 A: Ano, můžete nastavit vlastní časy snímků pomocí `ApngOptions`.
 
 **Otázka: Jak mohu řešit problémy s Aspose.Imaging?**
-A: Viz fórum podpory [zde](https://forum.aspose.com/c/imaging/10) o pomoc.
+A: Viz fórum podpory [zde](https://forum.aspose.com/c/imaging/14) o pomoc.
 
 ## Zdroje
 - **Dokumentace**: [Referenční příručka k Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -178,7 +178,7 @@ A: Viz fórum podpory [zde](https://forum.aspose.com/c/imaging/10) o pomoc.
 - **Nákup**: [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začít zdarma](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Přihlaste se zde](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

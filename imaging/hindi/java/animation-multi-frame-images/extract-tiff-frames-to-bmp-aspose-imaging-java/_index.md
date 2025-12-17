@@ -174,7 +174,7 @@ Aspose.Imaging for Java का उपयोग करके TIFF फ़्रे
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging Java के साथ छवि प्रसंस्करण में निपुणता प्राप्त करने की अपनी यात्रा शुरू करें और TIFF छवियों को संभालने में नई संभावनाओं को अनलॉक करें।
 

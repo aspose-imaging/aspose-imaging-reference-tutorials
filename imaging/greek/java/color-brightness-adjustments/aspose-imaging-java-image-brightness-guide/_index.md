@@ -219,7 +219,7 @@ void saveAsTiff(RasterImage rasterImage) {
 - [Αγορά αδειών χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν Δοκιμαστικές Προσφορές](https://releases.aspose.com/imaging/java/)
 - [Πληροφορίες Προσωρινής Άδειας Χρήσης](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Αξιοποιώντας το Aspose.Imaging για Java, μπορείτε να ξεκλειδώσετε ισχυρές δυνατότητες επεξεργασίας εικόνας που βελτιστοποιούν τη διαδικασία ανάπτυξής σας. Καλή κωδικοποίηση!
 

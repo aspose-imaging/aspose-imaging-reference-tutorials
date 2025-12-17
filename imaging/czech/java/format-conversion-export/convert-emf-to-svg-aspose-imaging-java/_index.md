@@ -171,7 +171,7 @@ A5: Zkontrolujte cesty k souborům, ujistěte se, že jsou správné verze kniho
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Zahájit bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu můžete efektivně převést obrázky EMF do SVG pomocí Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

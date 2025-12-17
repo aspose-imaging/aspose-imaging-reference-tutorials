@@ -166,7 +166,7 @@ A5: Ja, du kan ladda och manipulera SVG-filen ytterligare efter behov. Se bara t
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Börja med en gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Ansök om en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

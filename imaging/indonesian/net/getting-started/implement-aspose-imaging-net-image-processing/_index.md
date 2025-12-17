@@ -126,7 +126,7 @@ Caching mengurangi waktu muat dan penggunaan sumber daya, sehingga meningkatkan 
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Uji Coba Gratis Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 Dengan mengikuti panduan ini, Anda sudah berada di jalur yang tepat untuk menerapkan pemrosesan gambar yang efisien dalam aplikasi .NET Anda menggunakan Aspose.Imaging. Selamat membuat kode!
 
 {{< /blocks/products/pf/tutorial-page-section >}}

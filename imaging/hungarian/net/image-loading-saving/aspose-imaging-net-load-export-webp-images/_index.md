@@ -129,7 +129,7 @@ Most már elsajátítottad a képek betöltését és WebP-be exportálását az
 ### Következő lépések
 - Kísérletezzen különböző exportálási lehetőségekkel, például a minőségi szintek beállításával.
 - Fedezze fel az Aspose.Imaging integrálását nagyobb projektekbe vagy munkafolyamatokba.
-- Lépj kapcsolatba a közösséggel a következőn: [Aspose Fórum](https://forum.aspose.com/c/imaging/10) támogatásért és ötletekért.
+- Lépj kapcsolatba a közösséggel a következőn: [Aspose Fórum](https://forum.aspose.com/c/imaging/14) támogatásért és ötletekért.
 
 ## GYIK szekció
 
@@ -154,7 +154,7 @@ Győződjön meg arról, hogy az elérési utak helyesek, és hogy a bemeneti f�
 - **Vásárlás:** [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Kezdje itt](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély:** [Kérj egyet](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum:** [Aspose támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum:** [Aspose támogatás](https://forum.aspose.com/c/imaging/14)
 
 Induljon el magabiztosan a képfeldolgozási útjára az Aspose.Imaging .NET segítségével, és fedezze fel a digitális képalkotás végtelen lehetőségeit.
 

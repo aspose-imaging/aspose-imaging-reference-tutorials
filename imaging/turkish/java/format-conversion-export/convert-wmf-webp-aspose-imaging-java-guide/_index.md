@@ -221,7 +221,7 @@ Artık Aspose.Imaging for Java kullanarak WMF görüntülerini WebP biçimine na
 - [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - [Aspose.Imaging'in Ücretsiz Denemesi](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Edinimi](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu eğitim, Aspose.Imaging for Java kullanarak görüntüleri dönüştürmeye yönelik açık ve pratik bir kılavuz sunmayı ve web uygulamalarınızı verimli bir şekilde geliştirmeniz için gereken bilgi birikimini size sağlamayı amaçlamaktadır.
 

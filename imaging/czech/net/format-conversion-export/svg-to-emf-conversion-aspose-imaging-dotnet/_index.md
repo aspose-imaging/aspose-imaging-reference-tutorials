@@ -133,7 +133,7 @@ Nyní jste se naučili, jak převádět soubory SVG do formátu EMF pomocí Aspo
 **Další kroky:**
 - Prozkoumejte další funkce Aspose.Imaging
 - Experimentujte s různými možnostmi konverze
-- Sdílejte zpětnou vazbu nebo se ptejte na otázky [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- Sdílejte zpětnou vazbu nebo se ptejte na otázky [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Jste připraveni tyto dovednosti implementovat? Ponořte se do svého projektu a začněte s konverzí ještě dnes!
 
@@ -160,7 +160,7 @@ A5: Zkontrolujte cesty k souborům, ujistěte se, že je Aspose.Imaging správn�
 - **Nákup**: [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začněte s bezplatnou zkušební verzí](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Neváhejte si prohlédnout tyto zdroje, kde najdete podrobnější pokyny a podporu při implementaci vašeho řešení. Přejeme vám příjemné programování!
 

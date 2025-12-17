@@ -197,7 +197,7 @@ Klaar om deze oplossing te implementeren? Duik in Aspose.Imaging voor Java en ve
 - **Aankoop:** Bezoek [Aspose Aankooppagina](https://purchase.aspose.com/buy) voor licentieopties
 - **Gratis proefperiode:** Begin met een proefperiode bij [Gratis proeflink](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** Krijg tijdelijk toegang via [Tijdelijke licentiepagina](https://purchase.aspose.com/temporary-license/)
-- **Steun:** Betrek de gemeenschap bij [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** Betrek de gemeenschap bij [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

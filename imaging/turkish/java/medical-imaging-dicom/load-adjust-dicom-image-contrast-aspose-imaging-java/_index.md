@@ -179,7 +179,7 @@ Tıbbi görüntüleme projelerinizi geliştirmeye hazır mısınız? Aspose.Imag
 - **Lisans Satın Al:** [Şimdi al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans Talebi:** [Burada Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu:** [Aspose Destek Topluluğu](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu:** [Aspose Destek Topluluğu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Aspose.Imaging kullanarak Java uygulamalarınızda DICOM görüntü işleme görevlerini halletmek için iyi bir donanıma sahip olursunuz. İyi kodlamalar!
 

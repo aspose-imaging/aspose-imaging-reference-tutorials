@@ -220,7 +220,7 @@ R5: Sim, embora você possa começar com uma avaliação gratuita, é necessári
 - **Comprar**: Compre uma licença através de [Aspose Compra](https://purchase.aspose.com/buy).
 - **Teste grátis**: Comece com um teste para testar os recursos em [Testes gratuitos do Aspose](https://releases.aspose.com/imaging/java/).
 - **Licença Temporária**: Solicite um via [Licença Temporária Aspose](https://purchase.aspose.com/temporary-license/).
-- **Apoiar**:Para dúvidas, entre em contato pelo [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Apoiar**:Para dúvidas, entre em contato pelo [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Seguindo este tutorial e utilizando o Aspose.Imaging para Java, você estará bem equipado para lidar com pré-visualizações de imagens EPS e exclusões seguras de arquivos em seus projetos. Boa programação!
 

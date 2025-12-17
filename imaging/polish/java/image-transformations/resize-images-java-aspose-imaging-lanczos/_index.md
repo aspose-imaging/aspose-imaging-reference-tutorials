@@ -187,7 +187,7 @@ Gotowy, aby wykorzystać swoje umiejętności w działaniu? Spróbuj wdrożyć t
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij przygodę z przetwarzaniem obrazu pewnie, wykorzystując Aspose.Imaging dla Java i zaawansowaną metodę resamplingu Lanczos!
 

@@ -162,7 +162,7 @@ Ano, napište tyto kroky do skriptu a spusťte je na více souborech pomocí fun
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušet zdarma](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Získat dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Podpora komunity Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Podpora komunity Aspose](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na cestu zpracování obrazu s Aspose.Imaging pro .NET a prozkoumejte nekonečné možnosti práce s grafikou.
 

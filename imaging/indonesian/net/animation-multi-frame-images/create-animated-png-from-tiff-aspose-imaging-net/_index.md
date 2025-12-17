@@ -170,7 +170,7 @@ J: Aspose.Imaging mendukung berbagai format, termasuk JPEG, PNG, GIF, BMP, dan b
 A: Ya, Anda dapat mengatur waktu bingkai khusus menggunakan `ApngOptions`.
 
 **T: Bagaimana cara memecahkan masalah dengan Aspose.Imaging?**
-A: Lihat forum dukungan [Di Sini](https://forum.aspose.com/c/imaging/10) untuk bantuan.
+A: Lihat forum dukungan [Di Sini](https://forum.aspose.com/c/imaging/14) untuk bantuan.
 
 ## Sumber daya
 - **Dokumentasi**: [Referensi Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -178,7 +178,7 @@ A: Lihat forum dukungan [Di Sini](https://forum.aspose.com/c/imaging/10) untuk b
 - **Pembelian**: [Beli Lisensi](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulai Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Daftar di sini](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

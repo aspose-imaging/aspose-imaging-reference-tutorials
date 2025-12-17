@@ -157,7 +157,7 @@ Bu çözümü bugün projelerinize uygulamayı deneyin ve SVG görsellerinin iş
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme İndir](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans Başvurusu](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Anlayışınızı derinleştirmek ve geliştirme projelerinizde Aspose.Imaging for .NET'i kullanmak için bu kaynakları keşfedin. İyi kodlamalar!
 

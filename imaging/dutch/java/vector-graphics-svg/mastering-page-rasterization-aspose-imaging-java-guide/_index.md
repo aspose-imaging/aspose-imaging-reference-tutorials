@@ -210,7 +210,7 @@ Klaar om uw beeldvormingsprojecten naar een hoger niveau te tillen? Probeer deze
 - **Aankoop:** [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Ontvang een gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Met deze gids bent u goed toegerust om Aspose.Imaging Java effectief in uw projecten te gebruiken. Veel plezier met coderen!
 

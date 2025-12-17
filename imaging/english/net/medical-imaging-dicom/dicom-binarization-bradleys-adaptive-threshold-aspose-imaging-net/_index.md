@@ -172,7 +172,7 @@ A5: While effective, it’s best suited for images where local contrast variatio
 - **Purchase**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Get Started with a Free Trial](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: For any questions, visit the [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: For any questions, visit the [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Embark on your journey with Aspose.Imaging for .NET and unlock new capabilities in medical imaging!
 

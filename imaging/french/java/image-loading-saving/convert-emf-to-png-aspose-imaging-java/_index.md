@@ -186,7 +186,7 @@ Découvrez davantage de fonctionnalités d’Aspose.Imaging ou essayez de conver
 - **Achat:** [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Obtenez un essai gratuit](https://releases.aspose.com/imaging/java/)
 - **Licence temporaire :** [Demander un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien:** [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 Lancez-vous dès aujourd'hui dans votre parcours de maîtrise des conversions d'images en Java avec Aspose.Imaging !
 

@@ -189,7 +189,7 @@ Aspose.Imaging 针对高效的内存管理和快速处理进行了优化，使�
 - **购买许可证：** [立即购买](https://purchase.aspose.com/buy)
 - **免费试用：** 使用临时许可证探索全部功能 [这里](https://releases。aspose.com/imaging/net/).
 - **临时执照：** 获取一个用于评估 [此链接](https://purchase。aspose.com/temporary-license/).
-- **支持论坛：** 访问 [Aspose 社区支持](https://forum.aspose.com/c/imaging/10) 如有任何疑问或问题。
+- **支持论坛：** 访问 [Aspose 社区支持](https://forum.aspose.com/c/imaging/14) 如有任何疑问或问题。
 
 通过遵循这份全面的指南，您现在能够使用 Aspose.Imaging for .NET 高效地创建 WebP 图像。祝您编码愉快！
 

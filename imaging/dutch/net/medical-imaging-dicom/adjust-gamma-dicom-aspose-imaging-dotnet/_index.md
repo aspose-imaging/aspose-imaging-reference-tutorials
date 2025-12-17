@@ -138,7 +138,7 @@ Om uw kennis verder te vergroten, kunt u de andere functies van Aspose.Imaging v
 - **Aankoop**: [Koop een licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Start een gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke vergunning aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Veel plezier met coderen en geniet van het verbeteren van uw DICOM-afbeeldingen met Aspose.Imaging!
 

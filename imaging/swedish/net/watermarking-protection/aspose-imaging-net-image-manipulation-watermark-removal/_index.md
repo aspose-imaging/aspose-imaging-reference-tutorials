@@ -167,7 +167,7 @@ Som nästa steg, överväg att experimentera med andra avancerade funktioner i A
 - **Köplicens**: [Köp nu](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Starta gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Begär här](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**: [Ställ frågor](https://forum.aspose.com/c/imaging/10)
+- **Supportforum**: [Ställ frågor](https://forum.aspose.com/c/imaging/14)
 
 Genom att utforska dessa resurser får du en solid grund för att bemästra Aspose.Imaging och dess funktioner. Lycka till med kodningen!
 

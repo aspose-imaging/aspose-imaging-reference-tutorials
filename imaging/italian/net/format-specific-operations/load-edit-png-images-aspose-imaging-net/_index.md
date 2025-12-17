@@ -150,7 +150,7 @@ Ora hai imparato come caricare, accedere e manipolare i dati pixel nei file PNG 
 - [Acquista una licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/net/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto della comunità](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto della comunità](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

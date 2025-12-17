@@ -148,7 +148,7 @@ Redo att implementera den här lösningen? Börja experimentera med olika bildty
    - Ett Java Development Kit (JDK) och en kompatibel IDE.
 
 5. **Finns det support tillgänglig för felsökning av problem?**
-   - Besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/10) för hjälp.
+   - Besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/14) för hjälp.
 
 ## Resurser
 

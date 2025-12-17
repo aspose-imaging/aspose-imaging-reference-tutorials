@@ -153,7 +153,7 @@ rasterImage.Save(outputDir + "/BlurAnImage_out.gif");
 - **購買**： [購買 Aspose 產品](https://purchase.aspose.com/buy)
 - **免費試用**： [開始免費試用](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [取得臨時駕照](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

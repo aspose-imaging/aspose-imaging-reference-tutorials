@@ -152,7 +152,7 @@ R: Assolutamente! La sua efficiente elaborazione lo rende ideale per la conversi
 - **Acquistare**: [Acquista Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Inizia con Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea**: [Richiedi una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -156,7 +156,7 @@ A5: على الرغم من تنوعها الكبير، راجع دائمًا [ا
 - **شراء**: قم بشراء ترخيص لفتح الإمكانيات الكاملة في [شراء Aspose](https://purchase.aspose.com/buy).
 - **نسخة تجريبية مجانية**:قم بتجربة Aspose.Imaging بدون أي قيود عن طريق تنزيل [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/net/).
 - **رخصة مؤقتة**:الحصول على ترخيص مؤقت للتقييم الموسع من [التراخيص المؤقتة](https://purchase.aspose.com/temporary-license/).
-- **يدعم**:تواصل مع المجتمع أو اطلب المساعدة على [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10).
+- **يدعم**:تواصل مع المجتمع أو اطلب المساعدة على [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

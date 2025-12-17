@@ -171,7 +171,7 @@ Aspose.Imaging은 JPEG2000 및 TIFF 애니메이션을 포함한 다양한 이�
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging 무료 체험판을 받아보세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

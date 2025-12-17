@@ -182,7 +182,7 @@ Aspose.Imaging for Java는 다양한 시나리오에서 사용될 수 있습니�
 - [구매 옵션](https://purchase.aspose.com/buy)
 - [무료 체험판 액세스](https://releases.aspose.com/imaging/java/)
 - [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- [커뮤니티 지원](https://forum.aspose.com/c/imaging/10)
+- [커뮤니티 지원](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따라 하면 Aspose.Imaging for Java의 강력한 기능을 프로젝트에 활용할 수 있습니다. 즐거운 코딩 되세요!
 

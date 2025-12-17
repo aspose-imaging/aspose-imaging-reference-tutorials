@@ -166,7 +166,7 @@ image.Save(outputDir + "test.pdf", exportOptions);
 - **شراء**: [شراء ترخيص Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جرب Aspose.Imaging مجانًا](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 ابدأ رحلتك مع Aspose.Imaging اليوم وقم بتحويل مهام معالجة الصور الخاصة بك إلى سير عمل مبسطة.
 

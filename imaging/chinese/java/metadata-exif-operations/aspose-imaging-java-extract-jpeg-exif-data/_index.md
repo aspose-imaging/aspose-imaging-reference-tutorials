@@ -212,7 +212,7 @@ A4：参观 [Aspose 的临时许可证页面](https://purchase.aspose.com/tempor
 
 **问题 5：如果我遇到问题，有哪些资源可用？**
 
-A5：Aspose 社区论坛是寻求帮助的绝佳场所。查看 [Aspose.Imaging 论坛](https://forum.aspose.com/c/imaging/10) 寻求支持和讨论。
+A5：Aspose 社区论坛是寻求帮助的绝佳场所。查看 [Aspose.Imaging 论坛](https://forum.aspose.com/c/imaging/14) 寻求支持和讨论。
 
 ## 资源
 
@@ -221,7 +221,7 @@ A5：Aspose 社区论坛是寻求帮助的绝佳场所。查看 [Aspose.Imaging 
 - **购买**：了解有关许可选项的更多信息 [Aspose 购买页面](https://purchase.aspose.com/buy)
 - **免费试用**：免费试用 Aspose.Imaging 功能 [Aspose 下载](https://releases.aspose.com/imaging/java/)
 - **临时执照**：申请延长访问权限 [Aspose临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持**与社区互动 [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**与社区互动 [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

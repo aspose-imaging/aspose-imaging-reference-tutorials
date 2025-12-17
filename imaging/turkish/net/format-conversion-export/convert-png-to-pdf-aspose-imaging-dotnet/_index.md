@@ -166,7 +166,7 @@ Bellek kullanımını etkili bir şekilde yönetmek için, dönüştürmeden ön
 - **Satın almak**: [Aspose Lisansı Satın Al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'i Ücretsiz Deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging ile yolculuğunuza bugün başlayın ve görüntü işleme görevlerinizi akıcı iş akışlarına dönüştürün.
 

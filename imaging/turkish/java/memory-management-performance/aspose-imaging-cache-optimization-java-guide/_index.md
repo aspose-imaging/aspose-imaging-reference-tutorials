@@ -233,7 +233,7 @@ Bu çözümleri uygulamaya hazır mısınız? Önbellek ayarlarınızı bugün o
 - [Satın almak](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzla, Java'da Aspose.Imaging Cache'i etkili bir şekilde optimize etmek için iyi bir donanıma sahip olacaksınız. İyi kodlamalar!
 

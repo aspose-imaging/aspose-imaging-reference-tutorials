@@ -160,7 +160,7 @@ A3: Valutare l'ottimizzazione dell'utilizzo della memoria, l'impiego di tecniche
 A4: Pur essendo potente, assicurati che il tuo ambiente soddisfi i requisiti necessari per prestazioni ottimali.
 
 **D5: Quali opzioni di supporto sono disponibili se riscontro problemi?**
-A5: Puoi chiedere aiuto a [Forum di imaging Aspose](https://forum.aspose.com/c/imaging/10) oppure fare riferimento alla loro ampia documentazione.
+A5: Puoi chiedere aiuto a [Forum di imaging Aspose](https://forum.aspose.com/c/imaging/14) oppure fare riferimento alla loro ampia documentazione.
 
 ## Risorse
 

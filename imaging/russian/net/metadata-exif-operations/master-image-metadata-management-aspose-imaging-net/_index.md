@@ -195,7 +195,7 @@ image.Save(outputPath, exportOptions);
 - **Покупка:** [Купить лицензию](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия:** [Попробуйте бесплатно](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия:** [Получить здесь](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать:** [Форум сообщества](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать:** [Форум сообщества](https://forum.aspose.com/c/imaging/14)
 
 Мы надеемся, что это руководство поможет вам уверенно управлять метаданными изображений с помощью Aspose.Imaging для .NET. Удачного кодирования!
 

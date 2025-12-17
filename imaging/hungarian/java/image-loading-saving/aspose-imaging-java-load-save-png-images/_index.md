@@ -178,7 +178,7 @@ Készen állsz a megoldások megvalósítására? Próbáld ki a következő pro
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Implementáld ezeket a technikákat Java projektjeidben, hogy kihasználhasd az Aspose.Imaging teljes potenciálját a zökkenőmentes képfeldolgozás és -manipuláció érdekében.
 

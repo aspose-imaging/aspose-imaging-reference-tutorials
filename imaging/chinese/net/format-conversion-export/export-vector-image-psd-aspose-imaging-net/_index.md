@@ -166,7 +166,7 @@ File.Delete(outputDir + "result.psd");
 - **购买**：通过购买许可证 [Aspose 购买门户](https://purchase。aspose.com/buy).
 - **免费试用**：通过以下方式开始免费试用 [下载](https://releases。aspose.com/imaging/net/).
 - **临时执照**请求一个 [这里](https://purchase。aspose.com/temporary-license/).
-- **支持**：加入社区 [Aspose 论坛](https://forum.aspose.com/c/imaging/10) 寻求帮助和讨论。
+- **支持**：加入社区 [Aspose 论坛](https://forum.aspose.com/c/imaging/14) 寻求帮助和讨论。
 
 希望本指南能帮助您将矢量图像导出功能集成到项目中。祝您编码愉快！
 

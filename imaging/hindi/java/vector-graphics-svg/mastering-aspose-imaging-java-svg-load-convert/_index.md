@@ -160,7 +160,7 @@ Aspose.Imaging का उपयोग करते समय इष्टतम 
 - **खरीदना:** [Aspose लाइसेंसिंग खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [निशुल्क आजमाइश शुरु करें](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस:** [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता:** [Aspose फ़ोरम समर्थन](https://forum.aspose.com/c/imaging/10)
+- **सहायता:** [Aspose फ़ोरम समर्थन](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड का पालन करके, आप Aspose.Imaging के साथ जावा में SVG इमेज हैंडलिंग में महारत हासिल करने की राह पर हैं। हैप्पी कोडिंग!
 

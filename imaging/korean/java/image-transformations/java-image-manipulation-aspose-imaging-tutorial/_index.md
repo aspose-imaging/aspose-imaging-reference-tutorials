@@ -213,7 +213,7 @@ Aspose.Imaging이 지원하는 다양한 파일 형식을 사용해보거나 고
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험판](https://releases.aspose.com/imaging/java/)
 - [임시 면허 요청](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java로 여정을 시작하고 애플리케이션에서 이미지 조작의 모든 잠재력을 활용하세요!
 

@@ -175,7 +175,7 @@ Odvažte se a vyzkoušejte toto řešení implementovat ještě dnes!
 - **Nákup:** Kupte si licenci pro komerční použití na [Nákupní stránka Aspose](https://purchase.aspose.com/buy).
 - **Bezplatná zkušební verze:** Začněte s bezplatnou zkušební verzí a otestujte si funkce na [Bezplatná zkušební verze Aspose](https://releases.aspose.com/imaging/java/).
 - **Dočasná licence:** Pokud potřebujete prodloužený přístup prostřednictvím [Stránka s licencí](https://purchase.aspose.com/temporary-license/).
-- **Podpora:** Zapojte se do diskusí a vyhledejte pomoc [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Podpora:** Zapojte se do diskusí a vyhledejte pomoc [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Dodržováním tohoto návodu budete dobře vybaveni pro snadnou práci s obrázky DICOM pomocí Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

@@ -155,7 +155,7 @@ Aspose.Imaging का उपयोग करते समय, प्रदर्
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण डाउनलोड](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस अनुरोध](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 आज ही Aspose.Imaging के साथ JPEG EXIF संशोधन में महारत हासिल करने की अपनी यात्रा शुरू करें!
 

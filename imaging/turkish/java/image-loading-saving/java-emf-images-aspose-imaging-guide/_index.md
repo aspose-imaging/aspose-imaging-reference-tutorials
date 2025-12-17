@@ -179,7 +179,7 @@ C5: Ücretsiz deneme veya satın alınmış sürüm olsun, lisansınızı edinme
 - **Satın almak**: [Lisans satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Buradan Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Şimdi Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Topluluk Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Topluluk Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kaynaklardan yararlanarak Aspose.Imaging'in yeteneklerini daha fazla keşfedebilir ve uygulama sırasında karşılaştığınız zorlukların üstesinden gelebilirsiniz. İyi kodlamalar!
 

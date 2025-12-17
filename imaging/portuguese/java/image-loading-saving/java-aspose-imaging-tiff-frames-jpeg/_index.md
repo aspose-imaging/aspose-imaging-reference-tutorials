@@ -254,7 +254,7 @@ Explore mais recursos do Aspose.Imaging mergulhando em seu [documentação](http
 - **Documentação:** Explore guias detalhados em [Documentação do Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - **Download:** Obtenha a versão mais recente em [Lançamentos do Aspose.Imaging](https://releases.aspose.com/imaging/java/).
 - **Compra e teste:** Acesse as opções de compra ou comece com um teste gratuito em [Página de compra da Aspose](https://purchase.aspose.com/buy) e [Teste grátis](https://releases.aspose.com/imaging/java/).
-- **Apoiar:** Para perguntas, visite o [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Apoiar:** Para perguntas, visite o [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

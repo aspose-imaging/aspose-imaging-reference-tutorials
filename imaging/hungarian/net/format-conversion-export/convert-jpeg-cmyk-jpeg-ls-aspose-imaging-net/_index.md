@@ -186,7 +186,7 @@ Arra biztatunk, hogy alkalmazd ezeket a technikákat a projektjeidben, és oszd 
 - **Licenc vásárlása:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Próbálja ki az Aspose.Imaging-et ingyen](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose.Imaging támogatói fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose.Imaging támogatói fórum](https://forum.aspose.com/c/imaging/14)
 
 Ez az útmutató segít abban, hogy hatékonyan implementálhasd a JPEG-LS CMYK konverziókat a .NET alkalmazásaidban, javítva mind a minőséget, mind a hatékonyságot. Jó kódolást!
 

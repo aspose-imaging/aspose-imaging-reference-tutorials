@@ -204,7 +204,7 @@ Ora hai imparato come sfruttare Aspose.Imaging per Java per caricare ed estrarre
 - **Acquistare**Acquisisci le licenze direttamente da [Acquista Aspose](https://purchase.aspose.com/buy)
 - **Prova gratuita**: Inizia a sperimentare con un [licenza di prova gratuita](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea**: Ottenere una licenza temporanea per effettuare test presso [Licenza temporanea](https://purchase.aspose.com/temporary-license/).
-- **Supporto**: Unisciti alla comunità su [Forum Aspose](https://forum.aspose.com/c/imaging/10) per qualsiasi domanda o discussione.
+- **Supporto**: Unisciti alla comunità su [Forum Aspose](https://forum.aspose.com/c/imaging/14) per qualsiasi domanda o discussione.
 
 Seguendo questo tutorial, sarai ora in grado di gestire complesse attività di elaborazione delle immagini in Java utilizzando Aspose.Imaging. Buon lavoro!
 

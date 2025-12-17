@@ -201,7 +201,7 @@ Bằng cách thành thạo các kỹ thuật này, bạn có thể tận dụng 
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy thoải mái khám phá các nguồn tài nguyên này và liên hệ để được hỗ trợ nếu bạn có bất kỳ câu hỏi nào. Chúc bạn viết mã vui vẻ!
 

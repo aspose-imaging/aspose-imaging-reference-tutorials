@@ -148,7 +148,7 @@ Som nästa steg, överväg att utforska andra funktioner i Aspose.Imaging eller 
 - **Köpa**: https://purchase.aspose.com/buy
 - **Gratis provperiod**: https://releases.aspose.com/imaging/net/
 - **Tillfällig licens**https://purchase.aspose.com/temporary-license/
-- **Stöd**: https://forum.aspose.com/c/imaging/10
+- **Stöd**: https://forum.aspose.com/c/imaging/14
 
 Ge dig ut på din resa mot att bemästra bildbehandling med Aspose.Imaging idag!
 

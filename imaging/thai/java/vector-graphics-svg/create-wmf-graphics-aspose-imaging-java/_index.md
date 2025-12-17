@@ -295,7 +295,7 @@ try (WmfImage image = graphics.endRecording()) {
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - [ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/14)
 
 โปรดอย่าลังเลที่จะสำรวจแหล่งข้อมูลเหล่านี้เพื่อเรียนรู้เพิ่มเติมและให้การสนับสนุน ขอให้สนุกกับการเขียนโค้ด!
 

@@ -150,7 +150,7 @@ A5: Podrobnou dokumentaci naleznete na adrese [Dokumentace k Aspose.Imaging .NET
 - **Zakoupit licenci**: [Koupit nyní](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začít](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Přihlaste se zde](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Podpora Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Podpora Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Přeji vám příjemné programování a užijte si experimentování s Aspose.Imaging, které vdechne vašim potřebám v oblasti zpracování obrazu život!
 

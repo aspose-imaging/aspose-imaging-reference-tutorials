@@ -199,7 +199,7 @@ Redo att prova? Implementera dessa lösningar och utforska mer om Aspose.Imaging
 - [Köpa](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Den här handledningen ger dig kunskapen för att manipulera DICOM-bilder med Aspose.Imaging Java, vilket säkerställer att dina applikationer är både effektiva och skalbara. Lycka till med kodningen!
 

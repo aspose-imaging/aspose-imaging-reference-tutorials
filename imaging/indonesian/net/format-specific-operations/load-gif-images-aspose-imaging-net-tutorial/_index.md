@@ -153,7 +153,7 @@ A5: Ya, ia menawarkan berbagai teknik pengoptimalan untuk mengelola penggunaan m
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Tingkatkan aplikasi .NET Anda ke tingkat berikutnya dengan menguasai pemrosesan gambar dengan Aspose.Imaging!
 

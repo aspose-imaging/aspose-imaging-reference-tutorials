@@ -217,7 +217,7 @@ public class AccessJpegEXIFTags {
 - [شراء الترخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 الآن بعد أن أصبحت كل الأدوات والمعرفة في متناول يدك، فقد حان الوقت لبدء تنفيذ هذه الميزات القوية في تطبيقات Java الخاصة بك!
 

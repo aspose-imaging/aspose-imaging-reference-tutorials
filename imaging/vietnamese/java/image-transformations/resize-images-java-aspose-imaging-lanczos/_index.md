@@ -187,7 +187,7 @@ Sẵn sàng áp dụng kỹ năng của bạn vào thực tế? Hãy thử áp d
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Hãy tự tin bắt đầu hành trình xử lý hình ảnh của bạn bằng cách tận dụng Aspose.Imaging cho Java và phương pháp lấy mẫu lại Lanczos mạnh mẽ!
 

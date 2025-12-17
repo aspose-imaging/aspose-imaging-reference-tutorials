@@ -184,7 +184,7 @@ Siguiendo esta guía, ha aprendido a aplicar eficazmente la compresión RLE4 con
 - **Licencia de compra**: [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Comience su prueba gratuita](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal**: [Obtenga una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Al implementar estos pasos y utilizar los recursos proporcionados, estará bien preparado para gestionar la compresión de imágenes BMP con Aspose.Imaging para Java. ¡Que disfrute programando!
 

@@ -150,7 +150,7 @@ A5: Detaljerad dokumentation finns på [Aspose.Imaging .NET-dokumentation](https
 - **Köplicens**: [Köp nu](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Kom igång](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Ansök här](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**: [Aspose.Imaging-stöd](https://forum.aspose.com/c/imaging/10)
+- **Supportforum**: [Aspose.Imaging-stöd](https://forum.aspose.com/c/imaging/14)
 
 Lycka till med kodningen och njut av experimenterandet med Aspose.Imaging för att förverkliga dina bildbehandlingsbehov!
 

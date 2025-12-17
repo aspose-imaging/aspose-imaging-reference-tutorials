@@ -156,7 +156,7 @@ A5: Bár rendkívül sokoldalú, mindig tekintse át a [dokumentáció](https://
 - **Vásárlás**: Vásároljon licencet a teljes funkcionalitás feloldásához a következő címen: [Aspose vásárlás](https://purchase.aspose.com/buy).
 - **Ingyenes próbaverzió**Teszteld az Aspose.Imaging alkalmazást korlátozások nélkül egy letöltéssel [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/).
 - **Ideiglenes engedély**: Szerezzen be egy ideiglenes engedélyt hosszabbított értékelésre a következőtől: [Ideiglenes engedélyek](https://purchase.aspose.com/temporary-license/).
-- **Támogatás**: Lépjen kapcsolatba a közösséggel, vagy kérjen segítséget a következő címen: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10).
+- **Támogatás**: Lépjen kapcsolatba a közösséggel, vagy kérjen segítséget a következő címen: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

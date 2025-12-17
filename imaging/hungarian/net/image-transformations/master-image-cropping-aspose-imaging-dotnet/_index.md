@@ -150,7 +150,7 @@ A5: A feladatok közé tartozik az átméretezés, a formátumkonverzió és a s
 - **Vásárlás:** Fedezze fel a licencelési lehetőségeket itt: [Aspose vásárlás](https://purchase.aspose.com/buy).
 - **Ingyenes próbaverzió:** Kezdje próbaverzióval a következőn keresztül: [itt](https://releases.aspose.com/imaging/net/).
 - **Ideiglenes engedély:** Kérjen egyet hosszabb tesztelésre a következő címen: [ez a link](https://purchase.aspose.com/temporary-license/).
-- **Támogatás:** Csatlakozz a közösségi fórumhoz a következő címen: [Aspose támogatás](https://forum.aspose.com/c/imaging/10).
+- **Támogatás:** Csatlakozz a közösségi fórumhoz a következő címen: [Aspose támogatás](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

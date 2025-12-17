@@ -174,7 +174,7 @@ Gratulujeme k zvládnutí procesu převodu snímků TIFF do souborů BMP pomocí
 - [Zakoupit licence](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na cestu k zvládnutí zpracování obrazu s Aspose.Imaging v Javě a odemkněte nové možnosti v práci s obrázky TIFF.
 

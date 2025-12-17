@@ -237,7 +237,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **เอกสารประกอบ:** [เอกสารประกอบ Aspose.Imaging สำหรับ Java](https://reference.aspose.com/imaging/java/)
 - **ดาวน์โหลด:** [Aspose.Imaging สำหรับการเปิดตัว Java](https://releases.aspose.com/imaging/java/)
 - **ซื้อและทดลองใช้ฟรี:** [ซื้อหรือลองใช้ Aspose.Imaging สำหรับ Java](https://purchase.aspose.com/buy)
-- **ฟอรั่มการสนับสนุน:** [ชุมชนสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- **ฟอรั่มการสนับสนุน:** [ชุมชนสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 คู่มือที่ครอบคลุมนี้ควรช่วยให้คุณมีความรู้ในการลดความเบลอของภาพอย่างมีประสิทธิภาพโดยใช้ Aspose.Imaging สำหรับ Java ขอให้สนุกกับการเขียนโค้ด!
 

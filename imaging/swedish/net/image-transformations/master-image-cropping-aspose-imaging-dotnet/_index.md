@@ -150,7 +150,7 @@ A5: Uppgifterna inkluderar storleksändring, formatkonvertering och avancerad re
 - **Köpa:** Utforska licensalternativ på [Aspose-köp](https://purchase.aspose.com/buy).
 - **Gratis provperiod:** Börja med en provperiod via [här](https://releases.aspose.com/imaging/net/).
 - **Tillfällig licens:** Begär en för utökad testning via [den här länken](https://purchase.aspose.com/temporary-license/).
-- **Stöd:** Gå med i communityforumet på [Aspose-stöd](https://forum.aspose.com/c/imaging/10).
+- **Stöd:** Gå med i communityforumet på [Aspose-stöd](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -156,7 +156,7 @@ A5: 매우 다재다능하지만 항상 다음을 검토하십시오. [선적 �
 - **구입**: 전체 기능을 잠금 해제하려면 라이센스를 구매하세요. [Aspose 구매](https://purchase.aspose.com/buy).
 - **무료 체험**: Aspose.Imaging을 제한 없이 다운로드하여 테스트해 보세요. [무료 체험](https://releases.aspose.com/imaging/net/).
 - **임시 면허**: 확장 평가를 위한 임시 라이센스를 얻으십시오. [임시 면허](https://purchase.aspose.com/temporary-license/).
-- **지원하다**: 커뮤니티에 연락하거나 도움을 요청하세요. [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10).
+- **지원하다**: 커뮤니티에 연락하거나 도움을 요청하세요. [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

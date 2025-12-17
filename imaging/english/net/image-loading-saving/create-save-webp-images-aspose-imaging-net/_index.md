@@ -193,7 +193,7 @@ Ready to take your skills further? Implement these techniques in your projects t
 - **Purchase**: [Buy a License](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start Your Free Trial](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Apply for a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Embark on your journey with Aspose.Imaging today and unlock the full potential of image processing in .NET!
 

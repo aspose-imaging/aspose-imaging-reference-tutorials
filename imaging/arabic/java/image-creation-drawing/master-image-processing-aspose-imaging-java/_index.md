@@ -162,7 +162,7 @@ A3: تنفيذ كتل try-catch لإدارة الاستثناءات مثل `IOEx
 - **شراء:** [اشتري الآن](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [ابدأ هنا](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة:** [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [منتدى المجتمع](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** [منتدى المجتمع](https://forum.aspose.com/c/imaging/14)
 
 بالاستفادة من هذه الموارد، يمكنك تعزيز فهمك وتطبيقك لـ Aspose.Imaging في Java. برمجة ممتعة!
 

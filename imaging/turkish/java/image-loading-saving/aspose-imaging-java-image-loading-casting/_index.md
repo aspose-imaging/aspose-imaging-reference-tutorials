@@ -159,7 +159,7 @@ Bu çözümleri projelerinizde uygulamaya çalışmanızı öneririz. Daha fazla
    - Yaygın sorunlar arasında yanlış dosya yolları veya uyumsuz görüntü türleri bulunur. Görüntülerinizin Aspose.Imaging tarafından desteklendiğinden emin olun.
 
 **5. Sorun yaşarsam nereden destek alabilirim?**
-   - Ziyaret edin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10) Topluluktan ve Aspose uzmanlarından yardım için.
+   - Ziyaret edin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14) Topluluktan ve Aspose uzmanlarından yardım için.
 
 ## Kaynaklar
 
@@ -167,7 +167,7 @@ Bu çözümleri projelerinizde uygulamaya çalışmanızı öneririz. Daha fazla
 - **İndirmek**: En son kütüphane sürümüne erişin [Aspose Sürümleri](https://releases.aspose.com/imaging/java/).
 - **Satın almak**: Üretime hazır bir lisans için şu adresi ziyaret edin: [Aspose Satın Alma](https://purchase.aspose.com/buy).
 - **Ücretsiz Deneme**: Yolculuğunuza ücretsiz denemeyle başlayın [Aspose İndirmeleri](https://releases.aspose.com/imaging/java/).
-- **Destek**: Yardım alın [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Destek**: Yardım alın [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Java için Aspose.Imaging'i kullanarak karmaşık görüntü işleme görevlerini kolaylıkla ve verimli bir şekilde halletmeye hazırsınız. İyi kodlamalar!
 

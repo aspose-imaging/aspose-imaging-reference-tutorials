@@ -170,7 +170,7 @@ Ebből az oktatóanyagból megismerkedtél a képek Aspose.Imaging for .NET hasz
 - **Vásárlás:** [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Indítsa el az ingyenes próbaverziót](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével most már magabiztosan kezelheti a .NET képfeldolgozást az Aspose.Imaging for .NET segítségével. Jó kódolást!
 

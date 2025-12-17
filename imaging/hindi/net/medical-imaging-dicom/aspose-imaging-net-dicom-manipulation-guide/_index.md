@@ -126,7 +126,7 @@ Aspose.Imaging का उपयोग करते समय, प्रदर्
 - **खरीदना**: [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [Aspose.Imaging को निःशुल्क आज़माएँ](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: प्रश्नों के लिए, यहां जाएं [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: प्रश्नों के लिए, यहां जाएं [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
 
 इस व्यापक गाइड के साथ, आप अपने DICOM इमेज मैनिपुलेशन प्रोजेक्ट्स में .NET के लिए Aspose.Imaging का लाभ उठाने के लिए पूरी तरह तैयार हैं। हैप्पी कोडिंग!
 

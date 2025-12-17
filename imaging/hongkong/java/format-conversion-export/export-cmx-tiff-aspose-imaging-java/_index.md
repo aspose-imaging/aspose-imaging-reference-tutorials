@@ -236,7 +236,7 @@ Utils.deleteFile("YOUR_OUTPUT_DIRECTORY/MultiPage2.cmx.tiff");
 - **購買**： [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用**： [開始免費試用](https://releases.aspose.com/imaging/java/)
 - **臨時執照**： [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/14)
 
 按照本指南操作，您現在就可以使用 Aspose.Imaging for Java 處理向量 CMX 檔案並將其匯出為 TIFF 圖像。祝您編碼愉快！
 

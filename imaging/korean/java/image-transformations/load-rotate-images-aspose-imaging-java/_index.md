@@ -193,7 +193,7 @@ Aspose.Imaging 성능을 최적화하는 것은 특히 대량의 이미지를 �
 - **구입:** 라이센스를 통해 구매하세요 [Aspose 구매 포털](https://purchase.aspose.com/buy)
 - **무료 체험:** 임시 라이센스에 액세스하려면 다음을 수행하십시오. [Aspose 무료 체험판](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** 하나를 얻으세요 [임시 라이센스를 Aspose합니다](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** 커뮤니티에 가입하여 도움을 받으세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** 커뮤니티에 가입하여 도움을 받으세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따르면 Aspose.Imaging을 Java 프로젝트에 효과적으로 통합하여 이미지 로딩 및 회전을 손쉽게 처리할 수 있습니다. 즐거운 코딩 되세요!
 

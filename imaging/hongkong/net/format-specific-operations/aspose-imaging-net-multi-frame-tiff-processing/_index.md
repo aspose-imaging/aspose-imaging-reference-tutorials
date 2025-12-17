@@ -167,7 +167,7 @@ i++;
 - **購買**： [購買 Aspose.Imaging 許可證](https://purchase.aspose.com/buy)
 - **免費試用**： [從免費試用開始](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [申請臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose 成像論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose 成像論壇](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

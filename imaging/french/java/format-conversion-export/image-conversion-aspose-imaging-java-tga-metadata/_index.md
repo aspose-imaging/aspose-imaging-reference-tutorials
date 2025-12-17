@@ -199,7 +199,7 @@ Tout au long de ce tutoriel, vous avez découvert comment convertir des fichiers
 - **Documentation**: Explorez-en plus sur [Documentation d'Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - **Télécharger**:Obtenez les dernières versions de [Page de publication d'Aspose](https://releases.aspose.com/imaging/java/).
 - **Achat et essai gratuit**: Essayez les fonctionnalités aujourd'hui sur [Page d'achat et d'essai gratuit d'Aspose](https://purchase.aspose.com/buy).
-- **Soutien**:Rejoignez les discussions sur [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Soutien**:Rejoignez les discussions sur [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Nous espérons que ce guide vous permettra d'utiliser efficacement Aspose.Imaging Java pour vos besoins de traitement d'images. Bon codage !
 

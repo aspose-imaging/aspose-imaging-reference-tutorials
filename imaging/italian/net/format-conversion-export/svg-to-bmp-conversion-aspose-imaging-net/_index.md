@@ -142,7 +142,7 @@ Per migliorare ulteriormente le tue competenze con Aspose.Imaging, esplora funzi
 - [Acquista licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/net/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Intraprendete il vostro viaggio verso la padronanza della conversione delle immagini con Aspose.Imaging per .NET ed esplorate le possibilità offerte da questa potente libreria. Buon divertimento!
 

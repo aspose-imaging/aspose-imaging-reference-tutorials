@@ -256,7 +256,7 @@ Aspose.Imaging을 사용하여 Java에서 이미지 처리 작업을 수행하�
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이러한 리소스와 새로운 지식을 활용하면 Aspose.Imaging for Java를 사용하여 TIFF 이미지를 JPEG로 변환할 준비가 완료되었습니다!
 

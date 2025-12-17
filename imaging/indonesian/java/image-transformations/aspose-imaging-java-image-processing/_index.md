@@ -183,7 +183,7 @@ Kami menganjurkan Anda untuk mencoba menerapkan solusi ini dalam proyek Anda dan
 - **Pembelian**Pertimbangkan untuk membeli lisensi jika Anda memerlukan akses jangka panjang.
 - **Uji Coba Gratis**: Mulailah dengan uji coba gratis untuk menjelajahi fitur-fitur di [Uji Coba Gratis Aspose](https://releases.aspose.com/imaging/java/).
 - **Lisensi Sementara**: Dapatkan lisensi sementara untuk evaluasi lanjutan dari [Aspose Lisensi Sementara](https://purchase.aspose.com/temporary-license/).
-- **Mendukung**: Bergabunglah dalam diskusi dan dapatkan bantuan mengenai [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Mendukung**: Bergabunglah dalam diskusi dan dapatkan bantuan mengenai [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Selamat membuat kode, semoga tugas pemrosesan gambar Anda berjalan lancar dan efisien!
 

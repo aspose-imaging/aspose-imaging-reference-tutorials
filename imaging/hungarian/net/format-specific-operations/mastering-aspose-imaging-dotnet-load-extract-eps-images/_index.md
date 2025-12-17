@@ -205,7 +205,7 @@ Készen állsz a következő szintre emelni? Próbáld ki ezt a megoldást egy v
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Aspose.Imaging ingyenes próbaverziók](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezzel az útmutatóval felkészülhetsz arra, hogy az Aspose.Imaging segítségével hatékonyan kezelhesd az EPS fájlokat .NET alkalmazásaidban. Jó kódolást!
 

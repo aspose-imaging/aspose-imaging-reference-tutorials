@@ -163,7 +163,7 @@ Sonraki adımlar arasında Aspose.Imaging'in daha gelişmiş özelliklerini keş
 - [Satın almak](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek](https://forum.aspose.com/c/imaging/10)
+- [Destek](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

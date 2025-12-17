@@ -159,7 +159,7 @@ Bằng cách làm theo hướng dẫn này, bạn đã học cách tải và v�
 - **Tùy chọn mua hàng:** https://purchase.aspose.com/mua
 - **Dùng thử miễn phí:** https://releases.aspose.com/imaging/java/
 - **Giấy phép tạm thời:** https://purchase.aspose.com/giấy-phép-tạm-thời/
-- **Diễn đàn hỗ trợ:** https://forum.aspose.com/c/imaging/10
+- **Diễn đàn hỗ trợ:** https://forum.aspose.com/c/imaging/14
 
 Bằng cách tận dụng Aspose.Imaging for Java, bạn có thể nâng cao ứng dụng của mình bằng khả năng xử lý hình ảnh tiên tiến. Chúc bạn viết mã vui vẻ!
 

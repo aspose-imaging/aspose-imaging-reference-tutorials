@@ -264,7 +264,7 @@ A5: Ensure that the output format supports transparency (e.g., PNG). Incorrect s
 - **Purchase**: [Aspose Purchase Page](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Aspose.Imaging Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum**: [Aspose Support Community](https://forum.aspose.com/c/imaging/10)
+- **Support Forum**: [Aspose Support Community](https://forum.aspose.com/c/imaging/14)
 
 Happy coding!
 

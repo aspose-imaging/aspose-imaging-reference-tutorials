@@ -180,7 +180,7 @@ Denemeye hazır mısınız? Bu çözümleri bugün projelerinize uygulayın!
 
 **S5:** Aspose.Imaging ile ilgili sorunlarla karşılaşırsam nereden destek alabilirim?
 
-**A5:** Ziyaret edin [Aspose.Görüntüleme Destek Forumu](https://forum.aspose.com/c/imaging/10) Topluluk uzmanlarından ve geliştiricilerden yardım isteyin.
+**A5:** Ziyaret edin [Aspose.Görüntüleme Destek Forumu](https://forum.aspose.com/c/imaging/14) Topluluk uzmanlarından ve geliştiricilerden yardım isteyin.
 
 ## Kaynaklar
 - **Belgeler:** [Aspose.Imaging .NET Belgeleri](https://reference.aspose.com/imaging/net/)
@@ -188,7 +188,7 @@ Denemeye hazır mısınız? Bu çözümleri bugün projelerinize uygulayın!
 - **Satın almak:** [Aspose.Imaging Lisansını Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Aspose.Imaging Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans:** [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

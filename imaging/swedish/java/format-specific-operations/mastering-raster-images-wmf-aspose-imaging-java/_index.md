@@ -159,7 +159,7 @@ Genom att följa den här handledningen har du lärt dig hur du laddar och ritar
 - **Köpalternativ:** https://purchase.aspose.com/buy
 - **Gratis provperiod:** https://releases.aspose.com/imaging/java/
 - **Tillfällig licens:** https://purchase.aspose.com/temporary-license/
-- **Supportforum:** https://forum.aspose.com/c/imaging/10
+- **Supportforum:** https://forum.aspose.com/c/imaging/14
 
 Genom att använda Aspose.Imaging för Java kan du förbättra dina applikationer med avancerade bildbehandlingsfunktioner. Lycka till med kodningen!
 

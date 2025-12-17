@@ -136,7 +136,7 @@ To further enhance your skills, consider exploring more features offered by Aspo
 - **Purchase**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start a Free Trial](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Request Here](https://purchase.aspose.com/temporary-license/)
-- **Support Forum**: [Aspose Support](https://forum.aspose.com/c/imaging/10)
+- **Support Forum**: [Aspose Support](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

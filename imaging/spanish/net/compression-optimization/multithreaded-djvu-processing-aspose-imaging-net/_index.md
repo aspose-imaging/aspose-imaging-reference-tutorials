@@ -189,7 +189,7 @@ Al implementar el procesamiento DJVU multihilo con Aspose.Imaging .NET, puede me
 - [Comprar licencias](https://purchase.aspose.com/buy)
 - [Acceso de prueba gratuito](https://releases.aspose.com/imaging/net/)
 - [Información sobre la licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10) 
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14) 
 
 ¡Embárquese en su viaje hacia el procesamiento de imágenes eficiente con Aspose.Imaging y desbloquee todo el potencial del procesamiento de imágenes DJVU multiproceso en .NET!
 

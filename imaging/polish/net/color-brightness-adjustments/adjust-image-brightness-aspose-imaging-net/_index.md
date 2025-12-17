@@ -172,7 +172,7 @@ A: Choć technicznie jest to wykonalne, drastyczne zmiany mogą pogorszyć jako�
 - **Kup licencję**: [Kup teraz](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Rozpocznij](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa**: [Zapytaj tutaj](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia**: [Społeczność Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia**: [Społeczność Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Ten przewodnik powinien służyć jako kompleksowe źródło wiedzy na temat opanowywania regulacji jasności za pomocą Aspose.Imaging dla .NET. Miłego kodowania!
 

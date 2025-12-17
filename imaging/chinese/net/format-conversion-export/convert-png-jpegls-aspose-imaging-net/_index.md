@@ -169,7 +169,7 @@ A4：当然！Aspose.Imaging 功能强大，足以满足个人和企业级应用
 - **购买：** [购买许可证](https://purchase.aspose.com/buy)
 - **免费试用：** [开始免费试用](https://releases.aspose.com/imaging/net/)
 - **临时执照：** [获得临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -190,7 +190,7 @@ Ready to implement this solution? Dive into the code now!
 - **Purchase**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Free](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Embrace the power of Aspose.Imaging for Java to elevate your image processing tasks with ease and precision!
 

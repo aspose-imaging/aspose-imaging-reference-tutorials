@@ -213,7 +213,7 @@ Experimente con diferentes formatos de archivos compatibles con Aspose.Imaging o
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Versión de prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Solicitud de licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 ¡Embárquese en su viaje con Aspose.Imaging para Java y desbloquee todo el potencial de la manipulación de imágenes en sus aplicaciones!
 

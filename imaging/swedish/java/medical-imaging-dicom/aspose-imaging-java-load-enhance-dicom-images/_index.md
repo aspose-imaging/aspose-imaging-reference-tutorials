@@ -203,7 +203,7 @@ Redo att implementera den här lösningen? Testa den och se hur den förbättrar
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Med den här handledningen är du nu rustad att förbättra dina Java-applikationer med kraftfulla bildbehandlingsfunktioner med hjälp av Aspose.Imaging. Lycka till med kodningen!
 

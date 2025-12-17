@@ -231,7 +231,7 @@ Ebben az oktatóanyagban megtanultad, hogyan állíthatsz be alapértelmezett be
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével felkészült leszel az összetett képfeldolgozási feladatok kezelésére Java nyelven az Aspose.Imaging használatával. Jó kódolást!
 

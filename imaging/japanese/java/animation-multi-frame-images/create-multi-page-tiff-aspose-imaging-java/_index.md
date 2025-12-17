@@ -214,7 +214,7 @@ Aspose.Imaging for Java を用いた複数ページの TIFF の作成は、複�
 - [ライセンスオプションの購入](https://purchase.aspose.com/buy)
 - [無料トライアルから始める](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス情報](https://purchase.aspose.com/temporary-license/)
-- [コミュニティサポートとフォーラム](https://forum.aspose.com/c/imaging/10)
+- [コミュニティサポートとフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを活用することで、Aspose.Imaging for Java の理解を深め、プロジェクトに効果的に応用することができます。コーディングを楽しみましょう！
 

@@ -191,7 +191,7 @@ A5: Ja, Aspose.Imaging stöder ett brett utbud av bildformat, inklusive JPEG, PN
 - **Köpa:** [Köp Aspose.License](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Starta din gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här handledningen har du utrustat dig med färdigheterna för att effektivt hantera bildbinariseringsuppgifter med Aspose.Imaging för Java. Lycka till med kodningen!
 

@@ -181,7 +181,7 @@ Aspose.Imaging का उपयोग करते समय इष्टतम 
 - [खरीद लाइसेंसिंग विकल्प](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण डाउनलोड](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस आवेदन](https://purchase.aspose.com/temporary-license/)
-- [समर्थन और सामुदायिक मंच](https://forum.aspose.com/c/imaging/10)
+- [समर्थन और सामुदायिक मंच](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड का पालन करके, अब आप Aspose.Imaging Java का उपयोग करके छवि प्रारूप रूपांतरण को कुशलतापूर्वक संभालने में सक्षम हैं। हैप्पी कोडिंग!
 

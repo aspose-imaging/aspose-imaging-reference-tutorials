@@ -160,7 +160,7 @@ A5: 本番環境で中断なく使用するには、有効なライセンスが�
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルを始める](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose フォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose フォーラム](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging Java のパワーを活用して、画像処理機能を向上させましょう。
 

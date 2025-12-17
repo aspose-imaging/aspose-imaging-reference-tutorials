@@ -186,7 +186,7 @@ A4: عادةً ما تكون صور WebP أصغر حجمًا من صور JPEG أ
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جرب Aspose.Imaging مجانًا](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى Aspose للتصوير](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى Aspose للتصوير](https://forum.aspose.com/c/imaging/14)
 
 بفضل هذه الموارد وهذا الدليل، أنت جاهز تمامًا لبدء دمج صور WebP في مشاريع Java الخاصة بك باستخدام Aspose.Imaging. برمجة ممتعة!
 

@@ -183,7 +183,7 @@ Chúng tôi khuyến khích bạn thử triển khai các giải pháp này vào
 - **Mua**: Hãy cân nhắc mua giấy phép nếu bạn cần truy cập lâu dài.
 - **Dùng thử miễn phí**: Bắt đầu với bản dùng thử miễn phí để khám phá các tính năng tại [Dùng thử miễn phí Aspose](https://releases.aspose.com/imaging/java/).
 - **Giấy phép tạm thời**: Xin giấy phép tạm thời để đánh giá mở rộng từ [Giấy phép tạm thời Aspose](https://purchase.aspose.com/temporary-license/).
-- **Ủng hộ**: Tham gia thảo luận và nhận trợ giúp về [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10).
+- **Ủng hộ**: Tham gia thảo luận và nhận trợ giúp về [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14).
 
 Chúc bạn viết mã vui vẻ và xử lý hình ảnh hiệu quả và liền mạch!
 

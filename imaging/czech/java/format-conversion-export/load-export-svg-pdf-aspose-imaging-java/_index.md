@@ -198,7 +198,7 @@ Naučili jste se, jak načítat a exportovat soubory SVG do PDF pomocí Aspose.I
 - [Nákup](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Začněte implementovat tyto funkce ve svých projektech ještě dnes a uvidíte, jak Aspose.Imaging pro Javu může vylepšit váš pracovní postup!
 

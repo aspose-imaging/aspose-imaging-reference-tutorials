@@ -215,7 +215,7 @@ rasterImage.save(outputDir, tiffOptions);
 - **Αγορά**: [Αγοράστε προϊόντα Aspose](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε εδώ](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ξεκινήστε το ταξίδι σας στην επεξεργασία εικόνας Java με το Aspose.Imaging και ξεκλειδώστε νέες δυνατότητες στον ψηφιακό χειρισμό εικόνας!
 

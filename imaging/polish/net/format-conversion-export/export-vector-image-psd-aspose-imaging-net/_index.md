@@ -166,7 +166,7 @@ Następnym krokiem może być eksperymentowanie z innymi formatami obsługiwanym
 - **Zakup**:Kup licencję przez [Portal zakupów Aspose](https://purchase.aspose.com/buy).
 - **Bezpłatna wersja próbna**:Rozpocznij bezpłatny okres próbny za pośrednictwem [Pobieranie](https://releases.aspose.com/imaging/net/).
 - **Licencja tymczasowa**:Poproś o jedno [Tutaj](https://purchase.aspose.com/temporary-license/).
-- **Wsparcie**:Dołącz do społeczności w [Fora Aspose](https://forum.aspose.com/c/imaging/10) po pomoc i dyskusję.
+- **Wsparcie**:Dołącz do społeczności w [Fora Aspose](https://forum.aspose.com/c/imaging/14) po pomoc i dyskusję.
 
 Mamy nadzieję, że ten przewodnik pomoże Ci zintegrować funkcjonalność eksportu obrazów wektorowych z Twoimi projektami. Miłego kodowania!
 

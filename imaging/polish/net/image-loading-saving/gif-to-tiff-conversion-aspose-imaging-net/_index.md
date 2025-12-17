@@ -177,7 +177,7 @@ A: Format TIFF zapewnia wyższą jakość i obsługuje większą głębię kolor
 - **Kup licencję**: [Strona zakupu Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Wypróbuj Aspose.Imaging za darmo](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa**: [Poproś o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie i społeczność**: [Fora Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie i społeczność**: [Fora Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

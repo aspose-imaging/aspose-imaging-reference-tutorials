@@ -199,7 +199,7 @@ Overweeg het gebruik van parallelle verwerkingstechnieken en zorg voor efficiën
 - **Aankoop**: [Koop Aspose-producten](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Ontvang een gratis proeflicentie](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Een tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose.Imaging Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose.Imaging Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -216,7 +216,7 @@ Terapkan solusi ini dalam proyek Anda hari ini!
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Uji Coba Gratis Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Ajukan Permohonan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan manipulasi gambar Anda dengan percaya diri menggunakan Aspose.Imaging untuk .NET!
 

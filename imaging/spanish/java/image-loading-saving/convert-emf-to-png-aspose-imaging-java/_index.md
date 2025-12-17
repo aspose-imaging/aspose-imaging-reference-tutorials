@@ -186,7 +186,7 @@ Siguiendo esta guía, ha aprendido a convertir archivos EMF a PNG con Aspose.Ima
 - **Compra:** [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Obtenga una prueba gratuita](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** [Solicitar licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 ¡Embárquese hoy mismo en su viaje para dominar las conversiones de imágenes en Java con Aspose.Imaging!
 

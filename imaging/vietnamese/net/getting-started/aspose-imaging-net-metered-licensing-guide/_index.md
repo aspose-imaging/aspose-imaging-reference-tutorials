@@ -147,7 +147,7 @@ Trong hướng dẫn này, chúng tôi đã khám phá cách triển khai cấp 
 - Thử nghiệm thêm bằng cách tích hợp cấp phép theo định mức vào các quy trình làm việc phức tạp hơn.
 - Khám phá các tính năng bổ sung do Aspose.Imaging cung cấp có thể nâng cao khả năng của ứng dụng của bạn.
 
-Chúng tôi khuyến khích bạn thử triển khai này trong các dự án của bạn. Nếu bạn có thắc mắc hoặc cần hỗ trợ, đừng ngần ngại liên hệ qua [Diễn đàn cộng đồng Aspose](https://forum.aspose.com/c/imaging/10).
+Chúng tôi khuyến khích bạn thử triển khai này trong các dự án của bạn. Nếu bạn có thắc mắc hoặc cần hỗ trợ, đừng ngần ngại liên hệ qua [Diễn đàn cộng đồng Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Phần Câu hỏi thường gặp
 **Câu hỏi 1: Cấp phép theo lưu lượng là gì?**

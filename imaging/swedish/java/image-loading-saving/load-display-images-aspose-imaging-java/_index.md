@@ -173,7 +173,7 @@ A5: Användning `image.resize(width, height)` för att justera måtten efter beh
 - **Köpa**: https://purchase.aspose.com/buy
 - **Gratis provperiod**: https://releases.aspose.com/imaging/java/
 - **Tillfällig licens**https://purchase.aspose.com/temporary-license/
-- **Stöd**: https://forum.aspose.com/c/imaging/10
+- **Stöd**: https://forum.aspose.com/c/imaging/14
 
 Genom att följa den här guiden är du på god väg att effektivt hantera bilder i dina Java-applikationer med hjälp av Aspose.Imaging. Lycka till med kodningen!
 

@@ -170,7 +170,7 @@ Siap menerapkan teknik ini? Cobalah terapkan pada proyek Anda dan rasakan manfaa
 - **Pembelian:** [Beli Lisensi](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Cobalah Sekarang](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara:** [Minta di sini](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Ajukan Pertanyaan](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Ajukan Pertanyaan](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

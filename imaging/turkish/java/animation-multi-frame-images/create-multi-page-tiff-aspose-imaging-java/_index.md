@@ -214,7 +214,7 @@ Sonraki adımlar arasında Aspose.Imaging'in gelişmiş görüntü düzenlemeler
 - [Lisanslama Seçeneklerini Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme ile Başlayın](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Bilgileri](https://purchase.aspose.com/temporary-license/)
-- [Topluluk Desteği ve Forumlar](https://forum.aspose.com/c/imaging/10)
+- [Topluluk Desteği ve Forumlar](https://forum.aspose.com/c/imaging/14)
 
 Bu kaynaklardan yararlanarak Aspose.Imaging for Java anlayışınızı derinleştirebilir ve projelerinizde etkili bir şekilde uygulayabilirsiniz. İyi kodlamalar!
 

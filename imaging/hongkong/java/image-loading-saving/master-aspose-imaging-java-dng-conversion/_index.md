@@ -189,7 +189,7 @@ objimage.save("YOUR_DOCUMENT_DIRECTORY\\Output\\converted-image.jpg");
 - **購買**： [立即購買](https://purchase.aspose.com/buy)
 - **免費試用**： [試試 Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **臨時執照**： [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援論壇**： [Aspose 社區支持](https://forum.aspose.com/c/imaging/10)
+- **支援論壇**： [Aspose 社區支持](https://forum.aspose.com/c/imaging/14)
 
 立即踏上 Aspose.Imaging for Java 之旅，釋放應用程式中影像處理的全部潛力！
 

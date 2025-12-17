@@ -195,7 +195,7 @@ Die nächsten Schritte umfassen die Integration dieser Lösungen in größere Pr
 - **Kaufen:** [Lizenz kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Kostenlos testen](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz:** [Hier erhalten](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Community-Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** [Community-Forum](https://forum.aspose.com/c/imaging/14)
 
 Wir hoffen, dass dieser Leitfaden Ihnen hilft, Bildmetadaten mit Aspose.Imaging für .NET sicher zu verwalten. Viel Spaß beim Programmieren!
 

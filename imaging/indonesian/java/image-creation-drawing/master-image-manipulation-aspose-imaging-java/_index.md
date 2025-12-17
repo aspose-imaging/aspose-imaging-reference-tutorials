@@ -199,7 +199,7 @@ Selamat! Anda telah mempelajari cara memuat, memanipulasi, dan menyimpan gambar 
    - Mendukung lebih dari 50 format gambar termasuk JPEG, PNG, TIFF, dan banyak lagi.
 
 5. **Bagaimana saya bisa mendapatkan bantuan jika saya menemui masalah?**
-   - Mengunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/10) untuk dukungan dan saran komunitas.
+   - Mengunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/14) untuk dukungan dan saran komunitas.
 
 ## Sumber daya
 

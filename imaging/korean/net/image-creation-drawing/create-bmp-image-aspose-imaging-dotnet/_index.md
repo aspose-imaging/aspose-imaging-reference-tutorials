@@ -142,7 +142,7 @@ Aspose.Imaging의 추가 기능을 탐색하려면 다음을 방문하세요. [�
 - [구입](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/net/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

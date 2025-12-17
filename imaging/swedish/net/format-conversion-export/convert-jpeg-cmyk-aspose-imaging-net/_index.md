@@ -136,7 +136,7 @@ Kolla in den officiella dokumentationen och nedladdningslänkarna i avsnittet Re
 - **Köplicens**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**: [Aspose.Imaging-stöd](https://forum.aspose.com/c/imaging/10)
+- **Supportforum**: [Aspose.Imaging-stöd](https://forum.aspose.com/c/imaging/14)
 Vi hoppas att den här guiden har varit till hjälp för dig att bemästra bildbehandling med Aspose.Imaging för .NET. Lycka till med kodningen!
 
 {{< /blocks/products/pf/tutorial-page-section >}}

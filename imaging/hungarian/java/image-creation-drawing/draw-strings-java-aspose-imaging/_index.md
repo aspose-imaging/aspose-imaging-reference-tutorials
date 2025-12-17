@@ -204,7 +204,7 @@ Most már rendelkezel azzal a tudással, hogy különböző igazítású karakte
 - **Vásárlás:** [Aspose.Imaging licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Próbálja ki az Aspose.Imaging-et ingyen](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10) 
+- **Támogatás:** [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14) 
 
 Böngészd át ezeket az anyagokat, hogy elmélyítsd az Aspose.Imaging for Java ismereteit és képességeit. Jó kódolást!
 

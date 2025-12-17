@@ -154,7 +154,7 @@ In questo tutorial, hai imparato a convertire singoli fotogrammi da un GIF in fo
 - [Scarica Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - [Acquista le opzioni di licenza Aspose](https://purchase.aspose.com/buy)
 - [Prova gratuita e licenza temporanea](https://releases.aspose.com/imaging/net/)
-- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

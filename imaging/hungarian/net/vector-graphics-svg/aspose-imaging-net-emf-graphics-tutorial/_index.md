@@ -149,7 +149,7 @@ Készen állsz a kezdésre? Próbáld ki ezt a megoldást a következő projekte
 - [Vásárlás](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10) 
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14) 
 
 Fedezze fel ezeket az erőforrásokat, hogy mélyebben megismerkedhessen az Aspose.Imaging képességeivel, és még ma fejleszthesse .NET alkalmazásait!
 

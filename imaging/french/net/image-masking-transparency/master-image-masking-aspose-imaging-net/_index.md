@@ -195,7 +195,7 @@ Vous devriez maintenant maîtriser parfaitement la création et la manipulation 
 - **Achat:** [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Obtenez un essai gratuit](https://releases.aspose.com/imaging/net/)
 - **Licence temporaire :** [Demander un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce guide, vous serez bien équipé pour exploiter tout le potentiel d'Aspose.Imaging pour .NET dans vos projets. Bon codage !
 

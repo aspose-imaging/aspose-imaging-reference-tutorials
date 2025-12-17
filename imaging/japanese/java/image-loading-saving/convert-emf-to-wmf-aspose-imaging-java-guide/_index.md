@@ -162,7 +162,7 @@ A: もちろんです。さまざまな Java ベースの環境内でシーム�
 - **ライセンスを購入:** [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [Aspose.Imaging 無料トライアル](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム:** [Aspose イメージング サポート](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム:** [Aspose イメージング サポート](https://forum.aspose.com/c/imaging/14)
 
 この包括的なガイドに従うことで、Aspose.Imaging for Java を使用して EMF ファイルを WMF に変換できるようになります。コーディングを楽しみましょう！
 

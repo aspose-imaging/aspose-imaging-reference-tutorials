@@ -212,7 +212,7 @@ A4: Visita [Pagina della licenza temporanea di Aspose](https://purchase.aspose.c
 
 **D5: Quali risorse sono disponibili se riscontro problemi?**
 
-A5: Il forum della community di Aspose è un ottimo posto per chiedere aiuto. Dai un'occhiata [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) per supporto e discussioni.
+A5: Il forum della community di Aspose è un ottimo posto per chiedere aiuto. Dai un'occhiata [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) per supporto e discussioni.
 
 ## Risorse
 
@@ -221,7 +221,7 @@ A5: Il forum della community di Aspose è un ottimo posto per chiedere aiuto. Da
 - **Acquistare**: Scopri di più sulle opzioni di licenza su [Pagina di acquisto Aspose](https://purchase.aspose.com/buy)
 - **Prova gratuita**: Prova le funzionalità di Aspose.Imaging con una prova gratuita disponibile su [Download di Aspose](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea**: Richiedi l'accesso esteso tramite [Licenza temporanea Aspose](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: Interagisci con la comunità su [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: Interagisci con la comunità su [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

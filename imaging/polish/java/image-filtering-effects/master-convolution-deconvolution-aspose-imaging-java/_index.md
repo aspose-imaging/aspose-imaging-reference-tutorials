@@ -195,7 +195,7 @@ A: Biblioteka jest solidna, ale może mieć ograniczenia wydajnościowe przy eks
 - **Zakup**: [Kup Aspose Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Zacznij od bezpłatnego okresu próbnego](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**: [Zapytaj tutaj](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia**: [Zadaj pytania](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia**: [Zadaj pytania](https://forum.aspose.com/c/imaging/14)
 
 Postępując zgodnie z tym przewodnikiem, jesteś na dobrej drodze do opanowania potężnych możliwości przetwarzania obrazu oferowanych przez Aspose.Imaging dla Java. Miłego kodowania!
 

@@ -216,7 +216,7 @@ Aspose.Imaging का उपयोग करते समय इष्टतम 
 - **खरीदना**: [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [Aspose.Imaging निःशुल्क परीक्षण](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस के लिए आवेदन करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET का उपयोग करके आत्मविश्वास के साथ अपनी छवि हेरफेर यात्रा शुरू करें!
 

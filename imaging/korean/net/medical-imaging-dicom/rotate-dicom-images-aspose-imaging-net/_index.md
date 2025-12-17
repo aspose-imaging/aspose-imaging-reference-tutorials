@@ -147,7 +147,7 @@ Aspose.Imaging은 .NET Standard와 호환되므로 .NET Core 및 최신 릴리�
 - **선적 서류 비치:** 포괄적인 가이드를 탐색하세요 [Aspose.Imaging 문서](https://reference.aspose.com/imaging/net/).
 - **다운로드:** Aspose.Imaging의 최신 버전을 받으세요. [출시 페이지](https://releases.aspose.com/imaging/net/).
 - **구매 및 라이센스:** 구매 옵션에 대한 자세한 내용은 다음에서 확인할 수 있습니다. [구입](https://purchase.aspose.com/buy) 그리고 [임시 면허](https://purchase.aspose.com/temporary-license/).
-- **지원하다:** 질문이나 문제가 있는 경우 다음을 방문하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/10).
+- **지원하다:** 질문이나 문제가 있는 경우 다음을 방문하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

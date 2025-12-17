@@ -198,7 +198,7 @@ Siap untuk lebih banyak lagi? Terapkan teknik-teknik ini dalam proyek Anda berik
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan panduan lengkap ini, Anda kini siap menguasai manipulasi gambar menggunakan Aspose.Imaging di Java. Selamat membuat kode!
 

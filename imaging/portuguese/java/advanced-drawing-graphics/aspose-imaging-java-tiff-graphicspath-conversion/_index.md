@@ -252,7 +252,7 @@ Agora você domina como converter recursos de caminho de TIFF em objetos `Graphi
 - **Compra:** [Comprar Licença Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste Gratuito:** [Experimentar Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licença Temporária:** [Solicitar Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- **Fórum de Suporte:** [Fórum Aspose Imaging](https://forum.aspose.com/c/imaging/10)
+- **Fórum de Suporte:** [Fórum Aspose Imaging](https://forum.aspose.com/c/imaging/14)
 
 ---
 

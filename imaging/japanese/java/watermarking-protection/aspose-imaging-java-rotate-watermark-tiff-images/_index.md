@@ -258,7 +258,7 @@ A5: Aspose.Imaging のオプションを活用して、操作中のメモリ使�
 - **ライセンスを購入:** [ライセンスを購入する](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料トライアルをお試しください](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム:** [Aspose.Imaging サポート](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム:** [Aspose.Imaging サポート](https://forum.aspose.com/c/imaging/14)
 
 このチュートリアルが、Aspose.Imaging for Java を使用した画像処理タスクを強化するスキルを身につける助けになれば幸いです。コーディングを楽しみましょう！
 

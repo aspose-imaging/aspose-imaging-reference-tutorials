@@ -217,7 +217,7 @@ Langkah selanjutnya? Cobalah menerapkan teknik ini dalam proyek Anda dan jelajah
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Permintaan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Sekarang Anda memiliki semua alat dan pengetahuan yang Anda miliki, saatnya untuk mulai menerapkan fitur-fitur hebat ini dalam aplikasi Java Anda!
 

@@ -147,7 +147,7 @@ image.Save(outputFile, new JpegOptions { CompressionType = JpegCompressionMode.B
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस अनुरोध](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 यह व्यापक गाइड आपको .NET के लिए Aspose.Imaging के साथ JPEG बेसलाइन संपीड़न में महारत हासिल करने के लिए सही रास्ते पर ले जाएगा। हैप्पी कोडिंग!
 

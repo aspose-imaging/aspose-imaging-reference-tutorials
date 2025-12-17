@@ -245,7 +245,7 @@ Aspose.Imaging for Java のパワーを活用して TIFF 画像を効率的に�
 - **購入：** [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料トライアルを受ける](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Aspose フォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Aspose フォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従うことで、TIFF画像処理をJavaアプリケーションにシームレスに統合できるようになります。コーディングを楽しみましょう！
 

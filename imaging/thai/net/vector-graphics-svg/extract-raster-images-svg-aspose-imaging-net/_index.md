@@ -141,7 +141,7 @@ foreach (var resource in imageResources)
 - **ซื้อ**- [การขอใบอนุญาต](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [เริ่มต้นด้วยการทดลองใช้ฟรี](https://releases.aspose.com/imaging/net/)
 - **ใบอนุญาตชั่วคราว**- [ขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **ฟอรั่มสนับสนุน**- [การสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- **ฟอรั่มสนับสนุน**- [การสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 บทช่วยสอนนี้ได้รับการออกแบบมาเพื่อแนะนำคุณในการใช้งาน Aspose.Imaging สำหรับ .NET อย่างมีประสิทธิภาพ ช่วยให้คุณได้รับประโยชน์สูงสุดจากไลบรารีอันทรงพลังนี้ ขอให้สนุกกับการเขียนโค้ด!
 

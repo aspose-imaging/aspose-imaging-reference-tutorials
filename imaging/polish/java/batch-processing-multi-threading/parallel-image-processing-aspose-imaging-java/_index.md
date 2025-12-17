@@ -223,7 +223,7 @@ A5: Umożliwia odczytywanie i zapisywanie danych w określonych miejscach pliku,
 - [Pobierz Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna i licencja tymczasowa](https://releases.aspose.com/imaging/java/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10) 
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14) 
 
 Rozpocznij przygodę z Aspose.Imaging Java już dziś i odkryj potencjał wydajnego przetwarzania obrazu w swoich projektach!
 

@@ -159,7 +159,7 @@ Dzięki temu samouczkowi nauczyłeś się, jak ładować i rysować obrazy rastr
 - **Opcje zakupu:** https://purchase.aspose.com/buy
 - **Bezpłatna wersja próbna:** https://releases.aspose.com/imaging/java/
 - **Licencja tymczasowa:** https://purchase.aspose.com/temporary-license/
-- **Forum wsparcia:** https://forum.aspose.com/c/imaging/10
+- **Forum wsparcia:** https://forum.aspose.com/c/imaging/14
 
 Wykorzystując Aspose.Imaging dla Java, możesz ulepszyć swoje aplikacje dzięki zaawansowanym możliwościom przetwarzania obrazu. Miłego kodowania!
 

@@ -199,7 +199,7 @@ Erwägen Sie den Einsatz paralleler Verarbeitungstechniken und sorgen Sie für e
 - **Kaufen**: [Aspose-Produkte kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Holen Sie sich eine kostenlose Testlizenz](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Erhalten Sie eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose.Imaging Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose.Imaging Support Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

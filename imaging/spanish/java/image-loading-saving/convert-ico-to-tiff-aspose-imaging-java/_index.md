@@ -181,7 +181,7 @@ En este tutorial, aprendiste a cargar una imagen ICO y guardarla como TIFF con A
 - [Opciones de licencia de compra](https://purchase.aspose.com/buy)
 - [Descarga de prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Solicitud de licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte y comunidad](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte y comunidad](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo esta guía, ya está preparado para gestionar conversiones de formatos de imagen con Aspose.Imaging Java de forma eficiente. ¡Que disfrute programando!
 

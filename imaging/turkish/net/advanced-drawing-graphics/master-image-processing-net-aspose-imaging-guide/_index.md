@@ -175,7 +175,7 @@ A3: Evet, ancak uygun bir lisans aldığınızdan emin olun. [Aspose](https://pu
 C4: Evet, birden fazla dosyayı verimli bir şekilde işlemek için toplu işlemeyi uygulayın; bu, işleme süresini önemli ölçüde azaltabilir.
 
 **S5: Sorun yaşarsam nereden destek alabilirim?**
-A5: Ziyaret edin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10) Hem Aspose ekibinden hem de topluluk üyelerinden yardım için.
+A5: Ziyaret edin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14) Hem Aspose ekibinden hem de topluluk üyelerinden yardım için.
 
 ## Kaynaklar
 - **Belgeler:** Ayrıntılı kılavuzları ve API referanslarını şu adreste keşfedin: [Aspose.Görüntüleme Belgeleri](https://reference.aspose.com/imaging/net/).

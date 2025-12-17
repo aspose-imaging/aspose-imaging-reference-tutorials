@@ -168,7 +168,7 @@ Nästa steg kan vara att utforska andra bildformat som stöds av Aspose.Imaging 
 - Köplicens: [Köp Aspose-licensalternativ](https://purchase.aspose.com/buy)
 - Gratis provperiod: [Få en gratis provperiod](https://releases.aspose.com/imaging/java/)
 - Tillfällig licens: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- Supportforum: [Aspose.Imaging Community Support](https://forum.aspose.com/c/imaging/10)
+- Supportforum: [Aspose.Imaging Community Support](https://forum.aspose.com/c/imaging/14)
 
 Nu när du har verktygen och kunskapen kan du försöka implementera den här lösningen i ditt nästa projekt!
 

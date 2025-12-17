@@ -197,7 +197,7 @@ Bạn đã sẵn sàng thử triển khai giải pháp này chưa? Hãy khám ph
 - **Mua:** Thăm nom [Trang mua hàng Aspose](https://purchase.aspose.com/buy) cho các tùy chọn cấp phép
 - **Dùng thử miễn phí:** Bắt đầu bằng một thử nghiệm tại [Liên kết dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** Nhận quyền truy cập tạm thời qua [Trang giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** Tham gia cộng đồng trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** Tham gia cộng đồng trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

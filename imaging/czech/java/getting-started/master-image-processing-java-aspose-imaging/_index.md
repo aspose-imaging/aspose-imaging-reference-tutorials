@@ -170,7 +170,7 @@ Jste připraveni posunout zpracování obrazu na další úroveň? Zkuste toto �
 - **Licence k zakoupení:** [Koupit nyní](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Začněte svou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Získejte zde](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory:** [Ptejte se](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory:** [Ptejte se](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu budete dobře vybaveni k snadnému zvládání úloh zpracování obrazu pomocí Aspose.Imaging pro Javu. Přeji vám příjemné programování!
 

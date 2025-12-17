@@ -223,7 +223,7 @@ A5: Pastikan Anda menyimpan gambar dalam cache setelah memuat, mengubah ukuran s
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Uji Coba Gratis Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) 
+- **Mendukung**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) 
 
 Dengan panduan lengkap ini, Anda akan siap untuk mulai mengintegrasikan Aspose.Imaging ke dalam proyek Java Anda untuk manajemen gambar yang efisien. Selamat membuat kode!
 

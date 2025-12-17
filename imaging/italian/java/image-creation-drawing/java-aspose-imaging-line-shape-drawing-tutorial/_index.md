@@ -241,7 +241,7 @@ Hai imparato a sfruttare la libreria Aspose.Imaging per disegnare linee, forme e
 - [Opzioni di acquisto](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Ora che hai una guida completa all'implementazione delle funzionalità di disegno con Aspose.Imaging per Java, inizia a sperimentare e integrare queste tecniche nei tuoi progetti. Buona programmazione!
 

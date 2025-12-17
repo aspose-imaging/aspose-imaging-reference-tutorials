@@ -163,7 +163,7 @@ for (int i = 0; i < colorTypes.Length; ++i)
 - **ซื้อ:** https://purchase.aspose.com/ซื้อ
 - **ทดลองใช้งานฟรี:** ภาษาไทย: https://releases.aspose.com/imaging/net/
 - **ใบอนุญาตชั่วคราว:** https://purchase.aspose.com/ใบอนุญาตชั่วคราว/
-- **สนับสนุน:** ภาษาไทย: https://forum.aspose.com/c/imaging/10
+- **สนับสนุน:** ภาษาไทย: https://forum.aspose.com/c/imaging/14
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

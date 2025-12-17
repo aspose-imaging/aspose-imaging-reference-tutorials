@@ -181,7 +181,7 @@ Ano, Aspose.Imaging poskytuje komplexní nástroje pro úpravu obrázků, včetn
 Upravte nastavení rozlišení a kvality pomocí konfiguračních možností Aspose.Imaging, abyste zachovali integritu obrazu.
 
 **5. Je k dispozici podpora, pokud narazím na problémy s Aspose.Imaging?**
-Ano, můžete vyhledat pomoc na [Asposeovy fóra](https://forum.aspose.com/c/imaging/10) pro podporu komunity nebo oficiální podporu.
+Ano, můžete vyhledat pomoc na [Asposeovy fóra](https://forum.aspose.com/c/imaging/14) pro podporu komunity nebo oficiální podporu.
 
 ## Zdroje
 

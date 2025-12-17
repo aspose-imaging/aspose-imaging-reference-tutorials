@@ -142,7 +142,7 @@ A: Absolut. Nutzen Sie die `Save` Methode mit unterschiedlichen Dateierweiterung
 - **Kauflizenz:** [Aspose-Kaufoptionen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Kostenlose Testversion anfordern](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz:** [Fordern Sie eine temporäre Lizenz an](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum:** [Aspose.Imaging Support Community](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum:** [Aspose.Imaging Support Community](https://forum.aspose.com/c/imaging/14)
 
 Entdecken Sie diese Ressourcen, um Ihr Verständnis zu vertiefen und Ihre Implementierungen mit Aspose.Imaging für .NET zu verbessern. Viel Spaß beim Programmieren!
 

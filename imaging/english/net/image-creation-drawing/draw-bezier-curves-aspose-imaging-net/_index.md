@@ -184,7 +184,7 @@ Ready to apply these skills? Start creating custom graphic elements today!
 - **Purchase**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Get Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

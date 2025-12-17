@@ -171,7 +171,7 @@ Artık Aspose.Imaging for Java kullanarak JPEG ve TIFF görüntülerini DICOM fo
 - **Satın almak**: [Aspose Görüntülemeyi Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz deneyin](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bu eğitimi takip ederek, Aspose.Imaging for Java'yı kullanarak tıbbi görüntüleme projelerinizde görüntü dönüştürme görevlerini yerine getirmek için gereken donanıma sahip olacaksınız.
 

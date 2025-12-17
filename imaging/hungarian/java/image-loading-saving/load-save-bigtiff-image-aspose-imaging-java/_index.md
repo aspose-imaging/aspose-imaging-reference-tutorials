@@ -190,7 +190,7 @@ A képességeid további bővítéséhez fedezd fel az Aspose.Imaging további f
 - [Aspose.Imaging letöltése Java-hoz](https://releases.aspose.com/imaging/java/)
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió és ideiglenes licenc](https://releases.aspose.com/imaging/java/), [Ideiglenes licencoldal](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Böngészd át ezeket az anyagokat, hogy elmélyítsd az Aspose.Imaging for Java ismereteit, és felkészült legyél bármilyen BigTIFF képfeldolgozási igény kezelésére.
 

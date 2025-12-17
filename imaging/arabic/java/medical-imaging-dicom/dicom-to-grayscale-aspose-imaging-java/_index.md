@@ -154,7 +154,7 @@ image.save(outputFile, new BmpOptions());
 - **شراء**: [شراء منتجات Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جربه مجانًا](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [اطلب هنا](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم**: [دعم مجتمع Aspose](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم**: [دعم مجتمع Aspose](https://forum.aspose.com/c/imaging/14)
 
 ابدأ رحلتك مع Aspose.Imaging Java واستكشف الإمكانات الهائلة لمعالجة الصور في Java!
 

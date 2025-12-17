@@ -224,7 +224,7 @@ Du har nu lärt dig hur man laddar, avkodar, läser egenskaper och konverterar J
 - **Köpa:** [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Kom igång med en gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Begär tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Vi hoppas att du tyckte att den här guiden var till hjälp för att bemästra JPEG-bildbehandling med Aspose.Imaging för Java. Försök att implementera dessa lösningar för att se hur de kan förbättra dina projekt!
 

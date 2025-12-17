@@ -170,7 +170,7 @@ Görüntü işlemeyi bir üst seviyeye taşımaya hazır mısınız? Bu çözüm
 - **Lisans Satın Al:** [Şimdi al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Deneme Sürümünüzü Başlatın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Buradan edinin](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu:** [Sorular Sorun](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu:** [Sorular Sorun](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Aspose.Imaging for Java'yı kullanarak görüntü işleme görevlerini kolaylıkla halletmek için iyi bir donanıma sahip olacaksınız. İyi kodlamalar!
 

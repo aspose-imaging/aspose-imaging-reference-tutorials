@@ -211,7 +211,7 @@ tym samouczku omówiliśmy podstawy ładowania, kopiowania i zapisywania ramek T
 - **Zakup**:Kup licencję do użytku komercyjnego na [ten link](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**:Rozpocznij od bezpłatnego okresu próbnego, aby przetestować funkcje na [Strona internetowa Aspose](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**:Uzyskaj tymczasową licencję na rozszerzoną ocenę od [Tutaj](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**:Dołącz do dyskusji lub poszukaj pomocy na [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**:Dołącz do dyskusji lub poszukaj pomocy na [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

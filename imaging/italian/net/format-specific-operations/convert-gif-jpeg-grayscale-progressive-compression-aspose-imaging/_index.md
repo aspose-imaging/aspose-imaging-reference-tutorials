@@ -153,7 +153,7 @@ R: Sì, è progettato per funzionare con diverse versioni di .NET Framework e Co
 - **Acquista licenza**: [Pagina di acquisto Aspose](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Prova Aspose.Imaging gratuitamente](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea**: [Ottieni una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Forum di supporto**: [Comunità di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum di supporto**: [Comunità di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 Padroneggiando il processo di conversione con Aspose.Imaging, sarai in grado di gestire in modo efficiente complesse attività di elaborazione delle immagini nelle tue applicazioni .NET. Buona programmazione!
 

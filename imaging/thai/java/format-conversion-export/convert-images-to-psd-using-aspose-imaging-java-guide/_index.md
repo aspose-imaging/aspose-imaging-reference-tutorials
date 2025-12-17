@@ -258,7 +258,7 @@ A5: ใช้บล็อก try-catch เพื่อจัดการข้�
 - **ซื้อ**- [ซื้อ Aspose Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [ลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว**- [ขอคำร้องได้ที่นี่](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน**- [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน**- [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

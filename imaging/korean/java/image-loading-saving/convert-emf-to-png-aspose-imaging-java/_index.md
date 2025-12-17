@@ -186,7 +186,7 @@ Aspose.Imaging의 더 많은 기능을 살펴보거나 다른 이미지 형식�
 - **구입:** [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [무료 체험판을 받아보세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 지금 Aspose.Imaging을 사용하여 Java로 이미지 변환을 마스터하는 여정을 시작하세요!
 

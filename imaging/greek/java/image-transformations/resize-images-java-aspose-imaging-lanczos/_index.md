@@ -187,7 +187,7 @@ image.save(outDir);
 - [Αγορά Άδειας Χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/14)
 
 Ξεκινήστε το ταξίδι σας στην επεξεργασία εικόνων με σιγουριά αξιοποιώντας το Aspose.Imaging για Java και την ισχυρή μέθοδο αναδειγματοληψίας Lanczos!
 

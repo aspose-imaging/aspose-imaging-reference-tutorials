@@ -163,7 +163,7 @@ Jste připraveni posunout svůj vývoj v Javě na další úroveň? Zkuste imple
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze a dočasná licence](https://releases.aspose.com/imaging/java/)
 
-V případě dalších dotazů navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)Šťastné programování!
+V případě dalších dotazů navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)Šťastné programování!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

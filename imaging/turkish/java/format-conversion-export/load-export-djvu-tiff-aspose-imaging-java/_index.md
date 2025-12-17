@@ -203,7 +203,7 @@ Bu çözümleri kendi projelerinizde uygulamaya hazır mısınız? Belgelere dah
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Lisans Alın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Talebinde Bulunun](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Topluluk Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Topluluk Forumu](https://forum.aspose.com/c/imaging/14)
 
 Java için Aspose.Imaging'i kullanarak belge işleme iş akışlarınızı kolaylaştırabilir ve DjVu dosyalarıyla kolayca başa çıkabilirsiniz. İyi kodlamalar!
 

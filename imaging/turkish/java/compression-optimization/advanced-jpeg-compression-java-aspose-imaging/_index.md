@@ -211,7 +211,7 @@ A: Bellek kullanımını etkili bir şekilde optimize etmek için yükleme sıra
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Aspose.Imaging for Java kullanarak gelişmiş görüntü sıkıştırma tekniklerini uygulamak için iyi bir donanıma sahip olursunuz. Daha fazla araştırma yapın ve bu yöntemleri projelerinize entegre ederek en iyi performansı ve kaliteyi elde edin.
 

@@ -257,7 +257,7 @@ A5: Assicurati che il formato di output supporti la trasparenza (ad esempio, PNG
 - **Acquistare**: [Pagina di acquisto Aspose](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Prova Aspose.Imaging versione di prova gratuita](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea**: [Richiedi licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Forum di supporto**: [Comunità di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum di supporto**: [Comunità di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 Buona programmazione!
 

@@ -184,7 +184,7 @@ Aspose.Imaging podporuje širokou škálu formátů, včetně JPEG, PNG, GIF, BM
 
 **5. Jak mohu získat podporu, pokud narazím na problémy?**
 
-Návštěva [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) za pomoc od komunity a odborníků z Aspose.
+Návštěva [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) za pomoc od komunity a odborníků z Aspose.
 
 ## Zdroje
 

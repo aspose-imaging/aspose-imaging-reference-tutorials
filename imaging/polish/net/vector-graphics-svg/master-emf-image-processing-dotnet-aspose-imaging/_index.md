@@ -165,7 +165,7 @@ Typowe problemy obejmują nieprawidłowe ścieżki plików lub nieobsługiwane f
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/net/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Możesz swobodnie przeglądać te zasoby i skontaktować się z nami, jeśli napotkasz jakiekolwiek wyzwania. Szczęśliwego kodowania!
 

@@ -198,7 +198,7 @@ Kísérletezz különböző EXIF mezőkkel, és fedezd fel az Aspose.Imaging ál
    - Abszolút, úgy tervezték, hogy hatékonyan kezelje a nagy teljesítményű követelményeket.
 
 5. **Hogyan járulhatok hozzá a közösséghez, vagy hogyan kérhetek segítséget a problémáimmal kapcsolatban?**
-   - Csatlakozz a [Aspose fórum](https://forum.aspose.com/c/imaging/10) kérdéseket feltenni és meglátásokat megosztani.
+   - Csatlakozz a [Aspose fórum](https://forum.aspose.com/c/imaging/14) kérdéseket feltenni és meglátásokat megosztani.
 
 ## Erőforrás
 

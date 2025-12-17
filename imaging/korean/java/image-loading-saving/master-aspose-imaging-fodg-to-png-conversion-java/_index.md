@@ -213,7 +213,7 @@ Java로 이미지 처리를 할 때 다음 팁을 고려하세요.
 - **구입**: [Aspose 제품 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging 무료 체험하기](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 이러한 기술을 익히면 Java에서 Aspose.Imaging을 활용하여 정교한 이미지 처리 작업을 수행하는 데 큰 도움이 될 것입니다. 즐거운 코딩 되세요!
 

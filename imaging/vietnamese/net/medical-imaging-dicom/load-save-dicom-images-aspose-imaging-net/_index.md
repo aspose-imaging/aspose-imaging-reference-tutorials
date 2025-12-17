@@ -126,7 +126,7 @@ A5: Có, Aspose.Imaging hỗ trợ môi trường đám mây, cho phép tích h�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Nhận bản dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

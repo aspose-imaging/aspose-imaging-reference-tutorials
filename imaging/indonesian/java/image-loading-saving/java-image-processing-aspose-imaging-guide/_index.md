@@ -181,7 +181,7 @@ Siap untuk melangkah ke tahap berikutnya? Cobalah menerapkan teknik-teknik ini d
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Pencitraan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Pencitraan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda dalam pemrosesan gambar dengan percaya diri, karena Anda memiliki alat dan pengetahuan untuk meraih keberhasilan. Selamat membuat kode!
 

@@ -165,7 +165,7 @@ Bây giờ, bạn đã hiểu rõ cách tải hình ảnh TIFF và lưu từng k
 - **Mua**: Khám phá các tùy chọn mua hàng tại [Trang mua hàng của Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: Bắt đầu với bản dùng thử miễn phí có sẵn [đây](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: Nộp đơn xin cấp giấy phép tạm thời trên [Trang Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: Tham gia thảo luận và tìm kiếm sự trợ giúp tại [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: Tham gia thảo luận và tìm kiếm sự trợ giúp tại [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình làm chủ Aspose.Imaging bằng Java ngay hôm nay và thay đổi cách bạn xử lý các tác vụ xử lý hình ảnh!
 

@@ -179,7 +179,7 @@ A3: Sie können mit einer kostenlosen Testlizenz beginnen und alle Funktionen un
 A4: Nutzen Sie Stapelverarbeitung und effiziente Ressourcenverwaltung, z. B. die automatische Löschung von Bildern nach der Verwendung. Optimieren Sie nach Möglichkeit die Auflösung vor der Konvertierung.
 
 **F5: Wo finde ich Unterstützung, wenn ich Probleme mit Aspose.Imaging habe?**
-A5: Bei Fragen oder zur Fehlerbehebung besuchen Sie [Asposes Support-Forum](https://forum.aspose.com/c/imaging/10) Hier finden Sie Unterstützung sowohl von der Community als auch von offiziellen Vertretern.
+A5: Bei Fragen oder zur Fehlerbehebung besuchen Sie [Asposes Support-Forum](https://forum.aspose.com/c/imaging/14) Hier finden Sie Unterstützung sowohl von der Community als auch von offiziellen Vertretern.
 
 ## Ressourcen
 

@@ -178,7 +178,7 @@ Aspose.Imaging をさらに深く理解するには、画像の変換や操作�
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアルダウンロード](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java を使用して SVG イメージを読み込むための知識が身についたので、自信と創造性を持ってプロジェクトに着手しましょう。
 

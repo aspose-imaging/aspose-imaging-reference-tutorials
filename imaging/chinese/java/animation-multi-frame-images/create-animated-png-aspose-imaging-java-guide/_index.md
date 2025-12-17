@@ -228,7 +228,7 @@ A3：检查许可条款以了解使用限制；否则，它对于大多数图像
 
 **Q4：动画制作过程中遇到错误怎么办？**
 
-A4：验证文件路径并确保所有依赖项均已正确配置。请咨询 [Aspose 支持](https://forum.aspose.com/c/imaging/10) 如果问题仍然存在。
+A4：验证文件路径并确保所有依赖项均已正确配置。请咨询 [Aspose 支持](https://forum.aspose.com/c/imaging/14) 如果问题仍然存在。
 
 **Q5：如何修改帧属性以获得独特的效果？**
 
@@ -241,7 +241,7 @@ A5：尝试使用 Aspose.Imaging 提供的伽马调整、alpha 混合或其他�
 - **购买**： [购买许可证](https://purchase.aspose.com/buy)
 - **免费试用**： [免费试用 Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **临时执照**： [获得临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持**： [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**： [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 有了这份全面的指南，您就能开始使用 Aspose.Imaging 在 Java 中创建动画 PNG 图片了。祝您编程愉快！
 

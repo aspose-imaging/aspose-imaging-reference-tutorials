@@ -168,7 +168,7 @@ Les prochaines étapes pourraient inclure l'exploration d'autres formats d'image
 - Licence d'achat : [Acheter des options de licence Aspose](https://purchase.aspose.com/buy)
 - Essai gratuit : [Obtenez un essai gratuit](https://releases.aspose.com/imaging/java/)
 - Licence temporaire : [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- Forum d'assistance : [Assistance communautaire Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- Forum d'assistance : [Assistance communautaire Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Maintenant que vous disposez des outils et des connaissances, essayez de mettre en œuvre cette solution dans votre prochain projet !
 

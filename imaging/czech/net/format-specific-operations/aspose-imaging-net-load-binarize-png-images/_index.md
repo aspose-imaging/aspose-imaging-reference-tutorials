@@ -152,7 +152,7 @@ V tomto tutoriálu jste se naučili, jak využít sílu Aspose.Imaging pro .NET 
 - **Nákup:** [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Zahájit bezplatnou zkušební verzi](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence:** [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

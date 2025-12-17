@@ -165,7 +165,7 @@ A5: 견고하지만 일부 고급 기능은 전체 기능을 사용하려면 유
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging을 무료로 사용해 보세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드에서는 Aspose.Imaging for .NET을 사용하여 TIFF 이미지를 PDF로 변환하는 데 필요한 모든 정보를 제공하여 문서 관리 솔루션을 강화합니다.
 

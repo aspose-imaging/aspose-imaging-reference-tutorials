@@ -178,7 +178,7 @@ A: Evet, Aspose.Imaging çok çeşitli görüntü formatlarını destekler. [bel
 
 **S: Sorunlarla karşılaşırsam nereden yardım alabilirim?**
 
-A: Ziyaret edin [Aspose destek forumu](https://forum.aspose.com/c/imaging/10) Topluluktan ve Aspose uzmanlarından yardım için.
+A: Ziyaret edin [Aspose destek forumu](https://forum.aspose.com/c/imaging/14) Topluluktan ve Aspose uzmanlarından yardım için.
 
 ## Kaynaklar
 

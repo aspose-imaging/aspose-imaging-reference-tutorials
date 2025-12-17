@@ -210,7 +210,7 @@ background.save(outDir + "/blended.png", pngOptions);
 - **购买许可证**： [Aspose 购买页面](https://purchase.aspose.com/buy)
 - **免费试用**： [尝试 Aspose.Imaging for Java](https://releases.aspose.com/imaging/java/)
 - **临时执照**： [获得临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持论坛**： [Aspose 成像支持](https://forum.aspose.com/c/imaging/10)
+- **支持论坛**： [Aspose 成像支持](https://forum.aspose.com/c/imaging/14)
 
 有了本指南，您就可以开始使用 Aspose.Imaging for Java 进行图像混合了。祝您编码愉快！
 

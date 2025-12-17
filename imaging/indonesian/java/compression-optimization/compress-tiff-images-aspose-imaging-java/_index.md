@@ -188,7 +188,7 @@ Dengan mengikuti panduan ini, Anda telah mempelajari cara mengompres gambar TIFF
 - **Pembelian:** [Beli Sekarang](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Mulai di sini](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Minta di sini](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** Untuk bantuan lebih lanjut, kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** Untuk bantuan lebih lanjut, kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

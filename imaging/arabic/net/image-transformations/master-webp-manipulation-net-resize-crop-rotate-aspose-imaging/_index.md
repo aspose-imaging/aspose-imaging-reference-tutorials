@@ -216,7 +216,7 @@ using (MemoryStream ms = new MemoryStream())
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [تجربة مجانية لبرنامج Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [التقدم بطلب للحصول على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 ابدأ رحلتك في معالجة الصور بثقة باستخدام Aspose.Imaging لـ .NET!
 

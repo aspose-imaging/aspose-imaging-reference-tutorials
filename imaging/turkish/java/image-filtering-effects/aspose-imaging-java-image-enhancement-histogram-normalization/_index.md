@@ -184,7 +184,7 @@ Bu teknikleri kendi imaj projelerinizde deneyerek bugün harekete geçin!
 - **Satın almak**: [Lisans satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Test Özellikleri](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Burada Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Foruma Katılın](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Foruma Katılın](https://forum.aspose.com/c/imaging/14)
 
 Bu yönergeleri izleyerek, Aspose.Imaging Java'nın histogram normalizasyon özelliklerini kullanarak görüntülerinizi geliştirmek için iyi bir donanıma sahip olacaksınız. İyi kodlamalar!
 

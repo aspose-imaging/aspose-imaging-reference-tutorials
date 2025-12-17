@@ -184,7 +184,7 @@ A5: Tối ưu hóa mã của bạn bằng cách quản lý tài nguyên hiệu q
 - **Giấy phép mua hàng:** [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Nhận giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ:** [Hỗ trợ hình ảnh Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** [Hỗ trợ hình ảnh Aspose](https://forum.aspose.com/c/imaging/14)
 
 Chúc bạn viết mã vui vẻ và khám phá các khả năng của Aspose.Imaging cho Java!
 

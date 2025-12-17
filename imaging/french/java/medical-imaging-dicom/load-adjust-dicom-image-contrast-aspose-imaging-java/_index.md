@@ -179,7 +179,7 @@ Prêt à optimiser vos projets d'imagerie médicale ? Commencez dès aujourd'hu
 - **Licence d'achat :** [Acheter maintenant](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Commencez votre essai gratuit](https://releases.aspose.com/imaging/java/)
 - **Demande de licence temporaire :** [Demandez ici](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance :** [Communauté de soutien Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance :** [Communauté de soutien Aspose](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce guide, vous serez parfaitement équipé pour gérer les tâches de traitement d'images DICOM dans vos applications Java avec Aspose.Imaging. Bon codage !
 

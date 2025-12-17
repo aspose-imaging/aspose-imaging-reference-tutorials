@@ -178,7 +178,7 @@ Prêt à mettre en œuvre ces solutions ? Essayez-les dans votre prochain proje
 - [Licence d'achat](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 Implémentez ces techniques dans vos projets Java pour exploiter tout le potentiel d’Aspose.Imaging pour un traitement et une manipulation d’images transparents.
 

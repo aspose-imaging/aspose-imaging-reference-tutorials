@@ -198,7 +198,7 @@ A: Controleer je build‑toolconfiguratie, zorg dat de juiste versie wordt geref
 - **Aankoop:** [Buy Aspose.Imaging for Java](https://purchase.aspose.com/buy)  
 - **Gratis proefversie:** Start je gratis proefversie op de [Aspose‑website](https://releases.aspose.com/imaging/java/)  
 - **Tijdelijke licentie:** Vraag een tijdelijke licentie aan via [Aspose Purchase](https://purchase.aspose.com/temporary-license/)  
-- **Ondersteuning:** Neem deel aan discussies in het [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuning:** Neem deel aan discussies in het [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Begin vandaag nog met het tekenen van die curven en til je Java‑projecten naar een hoger niveau met Aspose.Imaging!
 

@@ -180,7 +180,7 @@ A5: Cài đặt thư viện thông qua NuGet hoặc Package Manager và làm the
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình làm chủ xử lý hình ảnh với Aspose.Imaging cho .NET ngay hôm nay!
 

@@ -156,7 +156,7 @@ Explorez davantage en intégrant ces techniques dans vos projets ou en expérime
 - [Licence d'achat](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/net/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 En maîtrisant ces concepts, vous serez sur la bonne voie pour créer des applications Java performantes qui gèrent efficacement les opérations d'entrée/sortie de fichiers. Bon codage !
 

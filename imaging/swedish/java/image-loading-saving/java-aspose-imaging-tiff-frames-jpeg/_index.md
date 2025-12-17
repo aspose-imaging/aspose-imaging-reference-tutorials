@@ -254,7 +254,7 @@ Utforska fler funktioner i Aspose.Imaging genom att dyka in i dess [dokumentatio
 - **Dokumentation:** Utforska detaljerade guider på [Aspose.Imaging-dokumentation](https://reference.aspose.com/imaging/java/).
 - **Ladda ner:** Hämta den senaste versionen från [Aspose.Imaging-utgåvor](https://releases.aspose.com/imaging/java/).
 - **Köp och prova:** Få tillgång till köpalternativ eller börja med en gratis provperiod på [Aspose köpsida](https://purchase.aspose.com/buy) och [Gratis provperiod](https://releases.aspose.com/imaging/java/).
-- **Stöd:** För frågor, besök [Aspose-forumet](https://forum.aspose.com/c/imaging/10).
+- **Stöd:** För frågor, besök [Aspose-forumet](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

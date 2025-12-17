@@ -179,7 +179,7 @@ Masalah umum termasuk tidak membuang objek gambar dengan benar dan meremehkan me
 Mengunjungi [Situs web Aspose](https://purchase.aspose.com/temporary-license/) untuk meminta lisensi sementara.
 
 ### Di mana saya dapat menemukan dukungan jika saya mengalami masalah dengan Aspose.Imaging .NET?
-Untuk bantuan, kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/10) atau lihat dokumentasi dan sumber daya mereka yang lengkap.
+Untuk bantuan, kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/14) atau lihat dokumentasi dan sumber daya mereka yang lengkap.
 
 ## Sumber daya
 - **Dokumentasi:** Jelajahi panduan terperinci di [Dokumentasi Aspose](https://reference.aspose.com/imaging/net/)

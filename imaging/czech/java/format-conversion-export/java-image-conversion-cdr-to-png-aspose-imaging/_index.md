@@ -243,7 +243,7 @@ Jste připraveni posunout své možnosti konverze obrázků na další úroveň?
 - [Stáhněte si Aspose.Imaging pro Javu](https://releases.aspose.com/imaging/java/)
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze a dočasná licence](https://releases.aspose.com/imaging/java/)
-- [Fórum podpory komunity](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory komunity](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu budete dobře vybaveni k snadnému zvládání úloh konverze obrázků pomocí Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

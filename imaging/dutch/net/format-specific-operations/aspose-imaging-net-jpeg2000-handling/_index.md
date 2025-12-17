@@ -179,7 +179,7 @@ Veelvoorkomende problemen zijn onder meer het niet correct verwijderen van beeld
 Bezoek [De website van Aspose](https://purchase.aspose.com/temporary-license/) om een tijdelijke vergunning aan te vragen.
 
 ### Waar kan ik ondersteuning vinden als ik problemen ondervind met Aspose.Imaging .NET?
-Voor hulp kunt u terecht op de [Aspose Forum](https://forum.aspose.com/c/imaging/10) of raadpleeg hun uitgebreide documentatie en bronnen.
+Voor hulp kunt u terecht op de [Aspose Forum](https://forum.aspose.com/c/imaging/14) of raadpleeg hun uitgebreide documentatie en bronnen.
 
 ## Bronnen
 - **Documentatie:** Ontdek gedetailleerde gidsen op [Aspose-documentatie](https://reference.aspose.com/imaging/net/)

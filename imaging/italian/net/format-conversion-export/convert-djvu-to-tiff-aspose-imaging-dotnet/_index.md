@@ -174,7 +174,7 @@ Ti invitiamo a implementare questo processo di conversione nei tuoi progetti e a
 - **Acquistare**: [Acquista Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Prova la versione gratuita](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea**: [Ottieni una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

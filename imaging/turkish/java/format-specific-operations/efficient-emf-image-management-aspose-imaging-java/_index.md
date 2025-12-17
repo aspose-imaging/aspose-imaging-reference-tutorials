@@ -166,7 +166,7 @@ Bu eğitimde, Java için Aspose.Imaging ile EMF görüntülerini nasıl etkili b
 - **Satın almak:** [Lisans satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Burada Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Aspose.Imaging kullanarak Java uygulamalarınızda EMF görüntülerini etkili bir şekilde işlemek için iyi bir donanıma sahip olacaksınız. İyi kodlamalar!
 

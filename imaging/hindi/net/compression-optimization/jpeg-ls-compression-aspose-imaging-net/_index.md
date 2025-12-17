@@ -194,7 +194,7 @@ Aspose.Imaging का उपयोग करते समय इष्टतम 
 - **खरीदना**: [Aspose उत्पाद खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [अपना नि: शुल्क परीक्षण शुरू करो](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस के लिए आवेदन करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

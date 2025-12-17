@@ -188,7 +188,7 @@ You've now mastered how to load JPEG images and extract their EXIF tags using As
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Free Trial Download](https://releases.aspose.com/imaging/net/)
 - [Temporary License Information](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

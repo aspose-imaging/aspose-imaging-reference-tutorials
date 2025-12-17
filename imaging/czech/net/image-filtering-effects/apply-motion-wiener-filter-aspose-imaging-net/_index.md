@@ -152,7 +152,7 @@ Naučili jste se, jak aplikovat Wienerův filtr Motion pomocí Aspose.Imaging pr
 - **Nákup:** [Koupit licenci Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Zahájit bezplatnou zkušební verzi](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence:** [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na cestu k zvládnutí zpracování obrazu s Aspose.Imaging pro .NET ještě dnes!
 

@@ -181,7 +181,7 @@ Utils.deleteFile("YOUR_OUTPUT_DIRECTORY/SupportDicomYBR422.png");
 - **Λήψη:** [Τελευταίες κυκλοφορίες](https://releases.aspose.com/imaging/java/)
 - **Αγορά:** [Αγοράστε άδειες χρήσης Aspose](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή & Προσωρινή άδεια χρήσης:** [Ξεκινήστε](https://releases.aspose.com/imaging/java/)
-- **Φόρουμ υποστήριξης:** [Κοινότητα Άσποζ](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ υποστήριξης:** [Κοινότητα Άσποζ](https://forum.aspose.com/c/imaging/14)
 
 Αυτός ο ολοκληρωμένος οδηγός σας έχει εξοπλίσει με τις δεξιότητες που απαιτούνται για την αποτελεσματική διαχείριση εικόνων DICOM σε εφαρμογές Java χρησιμοποιώντας το Aspose.Imaging. Καλή κωδικοποίηση!
 

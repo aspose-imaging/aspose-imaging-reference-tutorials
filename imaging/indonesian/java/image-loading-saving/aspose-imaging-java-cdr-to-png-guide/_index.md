@@ -189,7 +189,7 @@ A3: Sesuaikan `CdrRasterizationOptions` parameter seperti resolusi dan jenis pos
 A4: Lisensi yang dibeli diperlukan untuk aplikasi komersial. Anda dapat memulai dengan uji coba gratis atau mengajukan lisensi sementara.
 
 **Q5: Di mana saya bisa mendapatkan dukungan jika saya mengalami masalah?**
-A5: Kunjungi [Forum dukungan Aspose](https://forum.aspose.com/c/imaging/10) untuk bantuan dan diskusi komunitas.
+A5: Kunjungi [Forum dukungan Aspose](https://forum.aspose.com/c/imaging/14) untuk bantuan dan diskusi komunitas.
 
 ## Sumber daya
 
@@ -197,7 +197,7 @@ A5: Kunjungi [Forum dukungan Aspose](https://forum.aspose.com/c/imaging/10) untu
 - **Unduh Perpustakaan:** Dapatkan versi terbaru dari [Rilis Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Beli Lisensi:** Mengunjungi [Situs Pembelian Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis & Lisensi Sementara:** Mulailah perjalanan Anda di [Uji Coba Gratis Aspose](https://releases.aspose.com/imaging/java/) Dan [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan:** Berinteraksi dengan komunitas untuk mendapatkan bantuan di [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan:** Berinteraksi dengan komunitas untuk mendapatkan bantuan di [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Aspose.Imaging Java Anda hari ini, dan wujudkan proyek pencitraan digital Anda!
 

@@ -192,7 +192,7 @@ A: Kontrollera dina systemresurser och optimera minnesanvändningen. Överväg a
 - **Ladda ner:** Hämta den senaste versionen från [Aspose.Imaging-utgåvor](https://releases.aspose.com/imaging/java/).
 - **Köpa:** Skaffa en fullständig licens på [Aspose köpsida](https://purchase.aspose.com/buy).
 - **Gratis provperiod och tillfällig licens:** Upplev funktioner utan begränsningar genom att hämta en gratis provperiod eller tillfällig licens via respektive länkar.
-- **Stöd:** För ytterligare hjälp, besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/10).
+- **Stöd:** För ytterligare hjälp, besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

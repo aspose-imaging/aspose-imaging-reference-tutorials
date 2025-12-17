@@ -186,7 +186,7 @@ image.save(outFileName, options);
 - [Αγορά Συνδρομής](https://purchase.aspose.com/buy)
 - [Άδεια Δωρεάν Δοκιμής](https://releases.aspose.com/imaging/java/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, είστε σε καλό δρόμο για να τελειοποιήσετε τις μετατροπές εικόνων σε Java χρησιμοποιώντας το Aspose.Imaging. Καλή κωδικοποίηση!
 

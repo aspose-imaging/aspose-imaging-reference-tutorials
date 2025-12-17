@@ -153,7 +153,7 @@ Utilize buffered streams and ensure proper disposal of resources to maintain opt
 - **Purchase:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial:** [Start with a Free Trial](https://releases.aspose.com/imaging/net/)
 - **Temporary License:** [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Forum Support](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose Forum Support](https://forum.aspose.com/c/imaging/14)
 
 This guide is designed to help you harness the full potential of Aspose.Imaging for your .NET projects. Happy coding!
 

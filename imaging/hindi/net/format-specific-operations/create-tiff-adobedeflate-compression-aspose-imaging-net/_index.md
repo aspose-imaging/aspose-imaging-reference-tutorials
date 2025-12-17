@@ -177,7 +177,7 @@ using (TiffImage tiffImage = new TiffImage(new TiffFrame(options, 100, 100)))
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड का पालन करके, आप Aspose.Imaging for .NET का उपयोग करके AdobeDeflate संपीड़न के साथ TIFF छवियों को बनाने और प्रबंधित करने के लिए अच्छी तरह से सुसज्जित हैं। हैप्पी कोडिंग!
 

@@ -231,7 +231,7 @@ Siguiendo este tutorial, aprendiste a implementar Aspose.Imaging en Java para gu
    - Considere implementar grupos de subprocesos y prácticas de gestión de recursos eficientes para manejar una alta concurrencia.
 
 5. **¿Cómo puedo solucionar problemas comunes al utilizar Aspose.Imaging?**
-   - Consulta el oficial [documentación](https://reference.aspose.com/imaging/java/) Para obtener guías detalladas, o visite el [Foros de Aspose](https://forum.aspose.com/c/imaging/10) para el apoyo de la comunidad.
+   - Consulta el oficial [documentación](https://reference.aspose.com/imaging/java/) Para obtener guías detalladas, o visite el [Foros de Aspose](https://forum.aspose.com/c/imaging/14) para el apoyo de la comunidad.
 
 ## Recursos
 

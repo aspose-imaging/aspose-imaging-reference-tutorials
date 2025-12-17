@@ -183,7 +183,7 @@ Denemeye hazır mısınız? Bu adımları bir sonraki projenizde uygulayın veya
    Evet, `JpegOptions` sınıf, çıktı kalitesini ve diğer parametreleri yapılandırmak için yöntemler sağlar.
 
 5. **Sorun yaşarsam nereden destek alabilirim?**
-   Ziyaret edin [Aspose.Görüntüleme forumu](https://forum.aspose.com/c/imaging/10) Topluluk desteği için veya doğrudan destek kanalları aracılığıyla Aspose ile iletişime geçin.
+   Ziyaret edin [Aspose.Görüntüleme forumu](https://forum.aspose.com/c/imaging/14) Topluluk desteği için veya doğrudan destek kanalları aracılığıyla Aspose ile iletişime geçin.
 
 ## Kaynaklar
 

@@ -184,7 +184,7 @@ Prova a implementare la soluzione oggi stesso per vedere come si adatta al tuo f
 - **Acquista licenza:** [Acquista i prodotti Aspose](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Prove gratuite di Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea:** [Ottieni la licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Forum di supporto:** [Comunità di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum di supporto:** [Comunità di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -211,7 +211,7 @@ A : Utilisez des tailles de tampon personnalisées pendant le chargement pour o
 - **Achat**: [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencez un essai gratuit](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**: [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce guide, vous serez parfaitement équipé pour mettre en œuvre des techniques avancées de compression d'images avec Aspose.Imaging pour Java. Explorez davantage et intégrez ces méthodes à vos projets pour optimiser les performances et la qualité.
 

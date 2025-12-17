@@ -171,7 +171,7 @@ Bây giờ bạn có các công cụ để chuyển đổi hình ảnh JPEG và 
 - **Mua**: [Mua Aspose Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn sẽ được trang bị đầy đủ để xử lý các tác vụ chuyển đổi hình ảnh trong các dự án hình ảnh y tế của mình bằng Aspose.Imaging for Java.
 

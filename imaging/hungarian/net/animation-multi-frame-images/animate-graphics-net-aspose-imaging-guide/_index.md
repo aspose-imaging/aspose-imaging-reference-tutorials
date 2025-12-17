@@ -191,7 +191,7 @@ Megtanultad, hogyan készíthetsz animált grafikákat az Aspose.Imaging for .NE
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével most már képes leszel dinamikus animált grafikákat létrehozni .NET alkalmazásaidban az Aspose.Imaging segítségével. Fedezd fel és újítsd fel ezeket a technikákat a projektjeidbe integrálva!
 

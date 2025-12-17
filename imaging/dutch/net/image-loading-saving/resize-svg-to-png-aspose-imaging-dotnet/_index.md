@@ -180,7 +180,7 @@ Klaar om het uit te proberen? Implementeer deze oplossingen vandaag nog in uw pr
 
 **Vraag 5:** Waar kan ik ondersteuning krijgen als ik problemen ondervind met Aspose.Imaging?
 
-**A5:** Bezoek de [Aspose.Imaging Ondersteuningsforum](https://forum.aspose.com/c/imaging/10) voor hulp van experts en ontwikkelaars uit de gemeenschap.
+**A5:** Bezoek de [Aspose.Imaging Ondersteuningsforum](https://forum.aspose.com/c/imaging/14) voor hulp van experts en ontwikkelaars uit de gemeenschap.
 
 ## Bronnen
 - **Documentatie:** [Aspose.Imaging .NET-documentatie](https://reference.aspose.com/imaging/net/)
@@ -188,7 +188,7 @@ Klaar om het uit te proberen? Implementeer deze oplossingen vandaag nog in uw pr
 - **Aankoop:** [Koop Aspose.Imaging-licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Aspose.Imaging gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie:** [Tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

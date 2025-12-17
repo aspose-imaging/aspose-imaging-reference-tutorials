@@ -189,7 +189,7 @@ Durch die Implementierung der Multithread-DJVU-Verarbeitung mit Aspose.Imaging .
 - [Lizenzen erwerben](https://purchase.aspose.com/buy)
 - [Kostenloser Testzugang](https://releases.aspose.com/imaging/net/)
 - [Informationen zur temporären Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) 
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) 
 
 Begeben Sie sich mit Aspose.Imaging auf Ihre Reise zur effizienten Bildverarbeitung und schöpfen Sie das volle Potenzial der Multithread-DJVU-Bildverarbeitung in .NET aus!
 

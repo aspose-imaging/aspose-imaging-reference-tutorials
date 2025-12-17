@@ -160,7 +160,7 @@ Daha derine dalmaya hazır mısınız? Bu çözümleri bir sonraki projenizde uy
 - **Satın almak:** [Aspose Lisansını Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Forum Desteği](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Forum Desteği](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Aspose.Imaging ile Java'da SVG resim işleme konusunda ustalaşma yolunda iyi bir mesafe kat etmiş olacaksınız. İyi kodlamalar!
 

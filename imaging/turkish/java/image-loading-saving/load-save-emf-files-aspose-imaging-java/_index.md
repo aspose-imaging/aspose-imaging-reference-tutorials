@@ -196,7 +196,7 @@ Dosya işlemleriyle ilgili olası IOException'ları veya diğer çalışma zaman
 - **Satın almak**: Tam lisans için şu adresi ziyaret edin: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy).
 - **Ücretsiz Deneme**: Bir denemeyle başlayın [Aspose.Imaging Ücretsiz İndirmeler](https://releases.aspose.com/imaging/java/).
 - **Geçici Lisans**: Geçici bir lisans alın [Aspose Lisanslama Sayfası](https://purchase.aspose.com/temporary-license/).
-- **Destek**: Tartışmaya katılın [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Destek**: Tartışmaya katılın [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Bu kaynaklarla, Aspose.Imaging for Java ile görüntü işleme konusunda daha derinlemesine bilgi edinmek için iyi bir donanıma sahip olacaksınız. İyi kodlamalar!
 

@@ -202,7 +202,7 @@ Jste připraveni implementovat tato řešení? Ponořte se s důvěrou do světa
    - Během dávkového zpracování používejte vhodná nastavení rasterizace a sledujte systémové prostředky.
 
 5. **Jak získám podporu, pokud narazím na problémy?**
-   - Navštivte [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) pro podporu komunity nebo kontaktujte jejich profesionální tým podpory.
+   - Navštivte [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) pro podporu komunity nebo kontaktujte jejich profesionální tým podpory.
 
 ## Zdroje
 

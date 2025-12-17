@@ -169,7 +169,7 @@ Java용 Aspose.Imaging을 사용할 때 다음과 같은 성능 팁을 고려하
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 포괄적인 가이드를 통해 Aspose.Imaging for Java의 강력한 기능을 활용하여 SVG를 HTML5 캔버스 요소로 변환하는 방법을 익힐 수 있습니다. 즐거운 코딩 되세요!
 

@@ -170,7 +170,7 @@ Prêt à mettre en œuvre ces techniques ? Essayez de les appliquer à vos proj
 - **Achat:** [Acheter une licence](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Essayez-le maintenant](https://releases.aspose.com/imaging/net/)
 - **Licence temporaire :** [Demandez ici](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Poser des questions](https://forum.aspose.com/c/imaging/10)
+- **Soutien:** [Poser des questions](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

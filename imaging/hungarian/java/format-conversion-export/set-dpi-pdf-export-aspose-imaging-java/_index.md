@@ -174,7 +174,7 @@ Használjon hatékony memóriakezelési technikákat, és gondoskodjon arról, h
 - **Vásárlás:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Aspose.Imaging ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Képalkotó Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Képalkotó Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezzel az átfogó útmutatóval most már felkészülhetsz arra, hogy DPI-beállításokat alkalmazz a PDF-exportjaidban az Aspose.Imaging for Java használatával. Jó kódolást!
 

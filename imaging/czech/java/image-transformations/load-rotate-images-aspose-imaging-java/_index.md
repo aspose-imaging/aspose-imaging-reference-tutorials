@@ -193,7 +193,7 @@ Vyzkoušejte si tyto techniky implementovat ve svých projektech ještě dnes a 
 - **Nákup:** Kupte si licence prostřednictvím [Nákupní portál Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** Získejte přístup k dočasné licenci prostřednictvím [Bezplatné zkušební verze Aspose](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** Získejte jeden na [Dočasné licence Aspose](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** Připojte se ke komunitě a získejte pomoc s [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** Připojte se ke komunitě a získejte pomoc s [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu můžete efektivně začlenit Aspose.Imaging do svých projektů v Javě a snadno tak zvládnout načítání a rotaci obrázků. Přeji vám příjemné programování!
 

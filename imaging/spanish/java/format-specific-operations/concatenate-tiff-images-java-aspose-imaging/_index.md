@@ -181,7 +181,7 @@ En este tutorial, aprendiste a concatenar varias imágenes TIFF con Aspose.Imagi
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Este tutorial te ha proporcionado los conocimientos necesarios para gestionar tareas complejas de concatenación de imágenes TIFF con Aspose.Imaging para Java. ¡Que disfrutes programando!
 

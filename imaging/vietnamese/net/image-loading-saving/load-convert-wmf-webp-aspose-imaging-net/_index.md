@@ -191,7 +191,7 @@ Sẵn sàng áp dụng các kỹ năng mới học được của bạn vào th�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Tận dụng các tài nguyên này để hiểu sâu hơn và nâng cao việc triển khai Aspose.Imaging cho .NET. Chúc bạn viết mã vui vẻ!
 

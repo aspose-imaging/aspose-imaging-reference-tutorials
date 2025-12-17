@@ -160,7 +160,7 @@ A5: Bằng cách tối ưu hóa cài đặt cấu hình, quản lý bộ nhớ h
 - **Mua giấy phép**: [Cấp phép Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Tải xuống Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Hỗ trợ hình ảnh Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Hỗ trợ hình ảnh Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

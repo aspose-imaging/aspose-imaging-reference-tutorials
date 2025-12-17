@@ -179,7 +179,7 @@ Typowe problemy obejmują nieprawidłowe usuwanie obiektów obrazu i niedoszacow
 Odwiedzać [Strona internetowa Aspose](https://purchase.aspose.com/temporary-license/) aby poprosić o tymczasową licencję.
 
 ### Gdzie mogę znaleźć pomoc, jeśli napotkam problemy z Aspose.Imaging .NET?
-Aby uzyskać pomoc, przejdź do [Forum Aspose](https://forum.aspose.com/c/imaging/10) lub zapoznaj się z ich obszerną dokumentacją i zasobami.
+Aby uzyskać pomoc, przejdź do [Forum Aspose](https://forum.aspose.com/c/imaging/14) lub zapoznaj się z ich obszerną dokumentacją i zasobami.
 
 ## Zasoby
 - **Dokumentacja:** Przeglądaj szczegółowe przewodniki na stronie [Dokumentacja Aspose](https://reference.aspose.com/imaging/net/)

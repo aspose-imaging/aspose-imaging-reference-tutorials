@@ -177,7 +177,7 @@ Dowiedz się więcej o Aspose.Imaging, korzystając z poniższych zasobów:
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/net/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Postępując zgodnie z tym przewodnikiem, będziesz dobrze wyposażony do tworzenia i zarządzania obrazami TIFF z kompresją AdobeDeflate przy użyciu Aspose.Imaging dla .NET. Miłego kodowania!
 

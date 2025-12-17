@@ -212,7 +212,7 @@ A4: Besök [Asposes tillfälliga licenssida](https://purchase.aspose.com/tempora
 
 **F5: Vilka resurser finns tillgängliga om jag stöter på problem?**
 
-A5: Aspose communityforum är ett utmärkt ställe att söka hjälp. Kolla in [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10) för stöd och diskussioner.
+A5: Aspose communityforum är ett utmärkt ställe att söka hjälp. Kolla in [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14) för stöd och diskussioner.
 
 ## Resurser
 
@@ -221,7 +221,7 @@ A5: Aspose communityforum är ett utmärkt ställe att söka hjälp. Kolla in [A
 - **Köpa**Läs mer om licensalternativ på [Aspose köpsida](https://purchase.aspose.com/buy)
 - **Gratis provperiod**Testa Aspose.Imaging-funktionerna med en gratis provperiod tillgänglig på [Aspose-nedladdningar](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**Ansök om utökad åtkomst via [Aspose tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: Engagera dig med samhället på [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: Engagera dig med samhället på [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -239,7 +239,7 @@ A következő lépések közé tartozik az Aspose.Imaging további funkcióinak 
 - **Vásárlás:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Ingyenes próbaverzió indítása](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével szilárd alapot kaphatsz az Aspose.Imaging használatához Java projektekben, hogy hatékonyan hozhass létre és kezelhess BMP képeket.
 

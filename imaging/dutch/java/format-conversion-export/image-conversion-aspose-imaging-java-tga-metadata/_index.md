@@ -199,7 +199,7 @@ In deze tutorial heb je geleerd hoe je JPEG- en PNG-bestanden naar TGA-formaat k
 - **Documentatie**: Ontdek meer op [Aspose.Imaging-documentatie](https://reference.aspose.com/imaging/java/).
 - **Download**: Ontvang de nieuwste releases van [Aspose-vrijgavepagina](https://releases.aspose.com/imaging/java/).
 - **Aankoop en gratis proefperiode**: Probeer vandaag nog functies op [Aspose's aankoop- en gratis proefpagina](https://purchase.aspose.com/buy).
-- **Steun**: Neem deel aan discussies op [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Steun**: Neem deel aan discussies op [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 We hopen dat deze handleiding je helpt om Aspose.Imaging Java effectief te gebruiken voor je beeldverwerking. Veel plezier met coderen!
 

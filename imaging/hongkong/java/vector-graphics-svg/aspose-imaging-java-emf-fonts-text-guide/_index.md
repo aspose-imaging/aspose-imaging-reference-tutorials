@@ -244,7 +244,7 @@ Aspose.Imaging 的 EMF 文字渲染功能可用於各種場景：
 - **購買**： [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用**： [Aspose.Imaging 免費試用](https://releases.aspose.com/imaging/java/)
 - **臨時執照**： [申請臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose.Imaging 支援論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose.Imaging 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 透過利用 Aspose.Imaging for Java，您可以將高品質的 EMF 字體和文字渲染無縫整合到您的應用程式中，從而增強功能和視覺吸引力。
 

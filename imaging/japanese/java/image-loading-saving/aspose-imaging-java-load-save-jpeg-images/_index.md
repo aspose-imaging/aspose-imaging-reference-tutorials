@@ -176,7 +176,7 @@ A: リソースの使用状況を監視し、画像処理ロジックを最適�
 - **購入：** [Aspose ライセンスオプションを購入する](https://purchase.aspose.com/buy)
 - **無料トライアル:** [Aspose.Imagingを無料で始める](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従うことで、Java で Aspose.Imaging を使用した画像処理を習得できるようになります。
 

@@ -178,7 +178,7 @@ R: Si bien Aspose.Imaging está optimizado para el rendimiento, considere utiliz
 - **Compra**: [Comprar licencia de Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Comience con una prueba gratuita de Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal**: [Solicitar una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Únase al foro de Aspose para obtener ayuda](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: [Únase al foro de Aspose para obtener ayuda](https://forum.aspose.com/c/imaging/14)
 
 Con estos recursos a tu disposición, ya estás preparado para procesar imágenes TIFF con confianza. ¡Que disfrutes programando!
 

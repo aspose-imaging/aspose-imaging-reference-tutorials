@@ -189,7 +189,7 @@ In this tutorial, we've covered how to draw arcs on images using Aspose.Imaging 
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Get a Free Trial](https://releases.aspose.com/imaging/java/)
 - [Temporary License Information](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Feel free to dive into these resources for more detailed information and support. Happy coding!
 

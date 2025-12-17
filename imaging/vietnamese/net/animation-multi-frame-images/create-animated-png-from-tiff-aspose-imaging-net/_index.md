@@ -170,7 +170,7 @@ A: Aspose.Imaging hỗ trợ nhiều định dạng, bao gồm JPEG, PNG, GIF, B
 A: Có, bạn có thể thiết lập thời gian khung hình tùy chỉnh bằng cách sử dụng `ApngOptions`.
 
 **H: Làm thế nào để khắc phục sự cố với Aspose.Imaging?**
-A: Tham khảo diễn đàn hỗ trợ [đây](https://forum.aspose.com/c/imaging/10) để được hỗ trợ.
+A: Tham khảo diễn đàn hỗ trợ [đây](https://forum.aspose.com/c/imaging/14) để được hỗ trợ.
 
 ## Tài nguyên
 - **Tài liệu**: [Tài liệu tham khảo Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -178,7 +178,7 @@ A: Tham khảo diễn đàn hỗ trợ [đây](https://forum.aspose.com/c/imagin
 - **Mua**: [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Nộp đơn tại đây](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

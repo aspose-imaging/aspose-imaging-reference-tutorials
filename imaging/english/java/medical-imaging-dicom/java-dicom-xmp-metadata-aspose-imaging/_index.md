@@ -235,7 +235,7 @@ In this tutorial, you’ve learned how to load, modify, and save DICOM images us
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/java/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Start integrating these powerful image processing capabilities into your Java applications today, and enhance the way you handle DICOM images!
 

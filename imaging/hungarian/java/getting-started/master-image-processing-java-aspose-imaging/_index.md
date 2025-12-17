@@ -170,7 +170,7 @@ Készen állsz arra, hogy a képfeldolgozásodat a következő szintre emeld? Pr
 - **Licenc vásárlása:** [Vásároljon most](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Indítsa el a próbaidőszakot](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Szerezd meg itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum:** [Kérdések feltevése](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum:** [Kérdések feltevése](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével könnyedén kezelheted a képfeldolgozási feladatokat az Aspose.Imaging for Java segítségével. Jó kódolást!
 

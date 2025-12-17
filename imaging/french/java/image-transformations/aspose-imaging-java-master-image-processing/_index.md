@@ -209,7 +209,7 @@ Les problèmes courants incluent des configurations de chemin incorrectes et des
 
 **5. Comment puis-je obtenir de l’aide si je rencontre des problèmes ?**
 
-Visite [Assistance Aspose](https://forum.aspose.com/c/imaging/10) pour demander de l’aide à la communauté ou pour demander directement de l’aide.
+Visite [Assistance Aspose](https://forum.aspose.com/c/imaging/14) pour demander de l’aide à la communauté ou pour demander directement de l’aide.
 
 ## Ressources
 

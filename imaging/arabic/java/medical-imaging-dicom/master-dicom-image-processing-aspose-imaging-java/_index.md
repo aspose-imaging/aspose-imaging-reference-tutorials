@@ -252,7 +252,7 @@ public class SaveDicomImage {
 **الخطوات التالية:**
 - استكشف المزيد من الميزات في [توثيق Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - تجربة مع معالجات DICOM أكثر تعقيدًا.
-- شارك بتجاربك وحلولك في المنتديات مثل [منتدى مجتمع Aspose](https://forum.aspose.com/c/imaging/10).
+- شارك بتجاربك وحلولك في المنتديات مثل [منتدى مجتمع Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## قسم الأسئلة الشائعة
 
@@ -278,7 +278,7 @@ A5: تحقق من صحة مسار الملف، وتأكد من حصولك على
 - **شراء**: [شراء ترخيص](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [احصل على نسخة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى مجتمع Aspose](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى مجتمع Aspose](https://forum.aspose.com/c/imaging/14)
 
 مع هذا الدليل الشامل، ستكون جاهزًا تمامًا للتعامل مع مهام معالجة صور DICOM باستخدام Aspose.Imaging Java. برمجة ممتعة!
 

@@ -189,7 +189,7 @@ Genom att implementera flertrådad DJVU-bearbetning med Aspose.Imaging .NET kan 
 - [Köp licenser](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Information om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10) 
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14) 
 
 Ge dig ut på din resa mot effektiv bildbehandling med Aspose.Imaging och lås upp den fulla potentialen hos flertrådad DJVU-bildbehandling i .NET!
 

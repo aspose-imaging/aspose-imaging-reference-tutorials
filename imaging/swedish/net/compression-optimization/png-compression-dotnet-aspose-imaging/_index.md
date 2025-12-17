@@ -156,7 +156,7 @@ A5: Även om den är mycket mångsidig, granska alltid [dokumentation](https://r
 - **Köpa**Köp en licens för att låsa upp alla funktioner på [Aspose-köp](https://purchase.aspose.com/buy).
 - **Gratis provperiod**Testa Aspose.Imaging utan begränsningar genom att ladda ner en [Gratis provperiod](https://releases.aspose.com/imaging/net/).
 - **Tillfällig licens**Erhåll en tillfällig licens för utökad utvärdering från [Tillfälliga licenser](https://purchase.aspose.com/temporary-license/).
-- **Stöd**Kontakta samhället eller sök hjälp på [Aspose Supportforum](https://forum.aspose.com/c/imaging/10).
+- **Stöd**Kontakta samhället eller sök hjälp på [Aspose Supportforum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

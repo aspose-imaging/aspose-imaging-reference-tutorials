@@ -204,7 +204,7 @@
 
 **س5: كيف يمكنني الحصول على المساعدة إذا واجهت مشاكل؟**
 
-أ5: قم بزيارة [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10) للحصول على المساعدة من خبراء المجتمع.
+أ5: قم بزيارة [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14) للحصول على المساعدة من خبراء المجتمع.
 
 ## موارد
 
@@ -213,7 +213,7 @@
 - **شراء**: https://purchase.aspose.com/buy
 - **نسخة تجريبية مجانية**: https://releases.aspose.com/imaging/java/
 - **رخصة مؤقتة**: https://purchase.aspose.com/temporary-license/
-- **يدعم**: https://forum.aspose.com/c/imaging/10
+- **يدعم**: https://forum.aspose.com/c/imaging/14
 
 بالاستفادة من هذه الموارد، يمكنك تعميق فهمك وتحسين استخدامك لـ Aspose.Imaging في Java. برمجة ممتعة!
 

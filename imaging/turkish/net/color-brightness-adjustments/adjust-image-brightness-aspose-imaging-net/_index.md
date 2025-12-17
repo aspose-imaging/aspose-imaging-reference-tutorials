@@ -172,7 +172,7 @@ A: Teknik olarak mümkün olsa da, aşırı ayarlamalar görüntü kalitesini d�
 - **Lisans Satın Al**: [Şimdi al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Başlayın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Burada Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Aspose.Görüntüleme Topluluğu](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: [Aspose.Görüntüleme Topluluğu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuz, Aspose.Imaging for .NET ile parlaklık ayarlamalarında ustalaşmak için kapsamlı bir kaynak görevi görmelidir. İyi kodlamalar!
 

@@ -216,7 +216,7 @@ Bu kılavuzu izleyerek, **Aspose Imaging Java**’yı kullanarak görüntü boyu
 Aspose Imaging Java’nın daha ileri özelliklerini keşfetmeyi ya da büyük projelere entegre etmeyi düşünün. Farklı görüntü formatları ve dönüşümlerle deneyler yaparak neler başarabileceğinizi görün.
 
 ### Eylem Çağrısı
-Bugün tartıştığımız çözümü bir sonraki projenizde uygulamayı deneyin. Deneyimlerinizi ve karşılaştığınız zorlukları forumlar ya da [Aspose Forum](https://forum.aspose.com/c/imaging/10) gibi topluluklarda paylaşın.
+Bugün tartıştığımız çözümü bir sonraki projenizde uygulamayı deneyin. Deneyimlerinizi ve karşılaştığınız zorlukları forumlar ya da [Aspose Forum](https://forum.aspose.com/c/imaging/14) gibi topluluklarda paylaşın.
 
 ## SSS Bölümü
 
@@ -242,7 +242,7 @@ Bugün tartıştığımız çözümü bir sonraki projenizde uygulamayı deneyin
 - **Purchase:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial:** [Get Started with Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bu kaynakları kullanarak Aspose Imaging Java konusundaki bilginizi ve uygulamanızı daha da geliştirebilirsiniz. Mutlu kodlamalar!
 

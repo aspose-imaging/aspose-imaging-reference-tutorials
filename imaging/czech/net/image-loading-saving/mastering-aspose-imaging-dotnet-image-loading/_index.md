@@ -150,7 +150,7 @@ A: Podporuje širokou škálu formátů včetně JPEG, PNG, TIFF a dalších. Zk
 A: Můžete začít s bezplatnou zkušební verzí nebo dočasnou licencí, abyste si mohli vyzkoušet jeho funkce před rozhodnutím o koupi.
 
 **Otázka: Jak vyřeším běžné problémy s načítáním obrázků v Aspose.Imaging?**
-A: Ověřte cesty k souborům, zkontrolujte verze knihoven a prostudujte [fórum podpory](https://forum.aspose.com/c/imaging/10) o pomoc.
+A: Ověřte cesty k souborům, zkontrolujte verze knihoven a prostudujte [fórum podpory](https://forum.aspose.com/c/imaging/14) o pomoc.
 
 ## Zdroje
 - **Dokumentace**: [Referenční příručka k Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -158,7 +158,7 @@ A: Ověřte cesty k souborům, zkontrolujte verze knihoven a prostudujte [fórum
 - **Informace o nákupu a licenci**: [Nákupní stránka Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začněte svou bezplatnou zkušební verzi](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

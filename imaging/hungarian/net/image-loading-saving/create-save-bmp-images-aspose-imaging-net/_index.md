@@ -128,7 +128,7 @@ Képfeldolgozással való munka során:
 ## Következtetés
 Ez az oktatóanyag megtanította, hogyan állíthat be BMP-beállításokat és hozhat létre képeket az Aspose.Imaging for .NET használatával. A fent vázolt lépéseket követve zökkenőmentesen integrálhatja a képalkotási funkciókat az alkalmazásaiba.
 
-Ezután érdemes lehet felfedezni az Aspose.Imaging további funkcióit, vagy mélyebben beleásni magát a könyvtár által támogatott egyéb képalkotási formátumokba. Ha további kérdései vannak, vagy segítségre van szüksége, tekintse meg a következő oldalunkat: [támogatási fórum](https://forum.aspose.com/c/imaging/10).
+Ezután érdemes lehet felfedezni az Aspose.Imaging további funkcióit, vagy mélyebben beleásni magát a könyvtár által támogatott egyéb képalkotási formátumokba. Ha további kérdései vannak, vagy segítségre van szüksége, tekintse meg a következő oldalunkat: [támogatási fórum](https://forum.aspose.com/c/imaging/14).
 
 ## GYIK szekció
 1. **Mi az Aspose.Imaging .NET-hez?**

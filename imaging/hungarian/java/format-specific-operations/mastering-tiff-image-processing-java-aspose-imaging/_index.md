@@ -245,7 +245,7 @@ Megtanultad, hogyan használd ki az Aspose.Imaging for Java erejét a TIFF képe
 - **Vásárlás:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Ingyenes próbaverzió igénylése](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórumok](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Fórumok](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével most már felkészült arra, hogy zökkenőmentesen integrálja a TIFF képfeldolgozást Java alkalmazásaiba. Jó kódolást!
 

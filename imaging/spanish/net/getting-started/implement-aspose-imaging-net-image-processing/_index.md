@@ -126,7 +126,7 @@ El almacenamiento en caché reduce los tiempos de carga y el uso de recursos, me
 - **Compra**: [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Prueba gratuita de Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal**: [Adquirir Licencia Temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Foro de soporte de Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: [Foro de soporte de Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 Siguiendo esta guía, estarás en el buen camino para implementar un procesamiento de imágenes eficiente en tus aplicaciones .NET con Aspose.Imaging. ¡Que disfrutes programando!
 
 {{< /blocks/products/pf/tutorial-page-section >}}

@@ -133,7 +133,7 @@ Beachten Sie beim Anwenden von Filtern die folgenden Tipps zur Leistungsoptimier
 
 Herzlichen Glückwunsch! Sie haben den Gauss-Wiener-Filter mit Aspose.Imaging .NET erfolgreich auf Farbbilder angewendet. Dieses Tutorial vermittelt Ihnen das Wissen, um Ihre Bildverarbeitungsaufgaben zu verbessern und sauberere und präzisere Ergebnisse zu erzielen.
 
-Um die Möglichkeiten von Aspose.Imaging weiter zu erkunden, sollten Sie sich mit den anderen in der Bibliothek verfügbaren Filtern und Funktionen befassen. Bei weiteren Fragen oder Unterstützung wenden Sie sich bitte an die [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+Um die Möglichkeiten von Aspose.Imaging weiter zu erkunden, sollten Sie sich mit den anderen in der Bibliothek verfügbaren Filtern und Funktionen befassen. Bei weiteren Fragen oder Unterstützung wenden Sie sich bitte an die [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ-Bereich
 
@@ -158,7 +158,7 @@ A: Eine Testlizenz ermöglicht den vollständigen Zugriff zum Testen, kann jedoc
 - **Kauflizenz:** [Aspose Kauf](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Testlizenz](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz:** [Beantragen Sie eine vorübergehende Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Entdecken Sie diese Ressourcen, um Ihr Verständnis zu vertiefen und Ihre Bildverarbeitungsprojekte zu verbessern. Viel Spaß beim Programmieren!
 

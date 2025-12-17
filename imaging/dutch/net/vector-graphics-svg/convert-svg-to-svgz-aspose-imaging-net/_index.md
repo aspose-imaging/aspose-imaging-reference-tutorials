@@ -149,7 +149,7 @@ Je hebt geleerd hoe je een SVG-bestand converteert naar een gecomprimeerd SVGZ-f
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Ga op reis met Aspose.Imaging voor .NET en ontdek vandaag nog de mogelijkheden van geoptimaliseerde vectorafbeeldingen!
 

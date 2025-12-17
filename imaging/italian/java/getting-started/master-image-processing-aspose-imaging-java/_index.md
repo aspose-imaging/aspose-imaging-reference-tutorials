@@ -209,7 +209,7 @@ Ora hai imparato a ridimensionare le immagini JPG e a creare file TIFF multi-fra
 5. **In che modo i frame TIFF migliorano la gestione delle immagini?**  
    Consolidando più immagini in un unico file, è più facile gestire e distribuire grandi raccolte di immagini correlate.
 
-Per ulteriori risorse, fare riferimento a Aspose.Imaging [documentazione](https://reference.aspose.com/imaging/java/) ed esplorare i loro [pagina di download](https://releases.aspose.com/imaging/java/) per gli ultimi aggiornamenti. Per qualsiasi domanda di supporto, visita [Forum di Aspose](https://forum.aspose.com/c/imaging/10).
+Per ulteriori risorse, fare riferimento a Aspose.Imaging [documentazione](https://reference.aspose.com/imaging/java/) ed esplorare i loro [pagina di download](https://releases.aspose.com/imaging/java/) per gli ultimi aggiornamenti. Per qualsiasi domanda di supporto, visita [Forum di Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -130,7 +130,7 @@ Trong suốt hướng dẫn này, chúng tôi đã khám phá cách chuyển đ�
 
 Để nâng cao hơn nữa kỹ năng của bạn:
 - Khám phá các tính năng bổ sung của Aspose.Imaging, chẳng hạn như chỉnh sửa hình ảnh hoặc chuyển đổi định dạng.
-- Tham gia cộng đồng trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10) để chia sẻ hiểu biết và tìm lời khuyên.
+- Tham gia cộng đồng trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14) để chia sẻ hiểu biết và tìm lời khuyên.
 
 Sẵn sàng bắt đầu chuyển đổi hình ảnh trong ứng dụng .NET của bạn chưa? Hãy thử ngay hôm nay!
 

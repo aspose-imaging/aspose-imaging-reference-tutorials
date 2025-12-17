@@ -179,7 +179,7 @@ A5: Volg de stappen die onder licentie verkrijgen worden beschreven om uw licent
 - **Aankoop**: [Koop licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Begin hier](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Nu aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Gemeenschapsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Gemeenschapsforum](https://forum.aspose.com/c/imaging/14)
 
 Door gebruik te maken van deze bronnen kunt u de mogelijkheden van Aspose.Imaging verder verkennen en eventuele uitdagingen tijdens de implementatie aanpakken. Veel plezier met coderen!
 

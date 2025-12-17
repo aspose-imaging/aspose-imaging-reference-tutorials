@@ -181,7 +181,7 @@ Fedezze fel az Aspose.Imaging további funkcióit a következővel kapcsolatban:
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió letöltése](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével jó úton haladsz a TIFF képfeldolgozás elsajátításához az Aspose.Imaging segítségével Java nyelven. Jó kódolást!
 

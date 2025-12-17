@@ -169,7 +169,7 @@ A5: Zkontrolujte cesty k souborům, oprávnění a ujistěte se, že je vaše pr
 - **Nákup:** [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Zahájit bezplatnou zkušební verzi](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence:** [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

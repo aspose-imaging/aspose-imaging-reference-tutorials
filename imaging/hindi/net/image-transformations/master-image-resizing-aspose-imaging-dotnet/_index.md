@@ -148,7 +148,7 @@ image.Save(outputDir);
 - **खरीदना**: https://purchase.aspose.com/buy
 - **मुफ्त परीक्षण**: https://releases.aspose.com/imaging/net/
 - **अस्थायी लाइसेंस**: https://purchase.aspose.com/temporary-license/
-- **सहायता**: https://forum.aspose.com/c/imaging/10
+- **सहायता**: https://forum.aspose.com/c/imaging/14
 
 Aspose.Imaging के साथ छवि प्रसंस्करण में महारत हासिल करने के लिए अपनी यात्रा शुरू करें!
 

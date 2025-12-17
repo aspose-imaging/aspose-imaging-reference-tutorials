@@ -190,7 +190,7 @@ Bằng cách làm theo hướng dẫn này, bạn đã học cách tải và lư
 - [Tải xuống Aspose.Imaging cho Java](https://releases.aspose.com/imaging/java/)
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí và Giấy phép tạm thời](https://releases.aspose.com/imaging/java/), [Trang giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Khám phá các tài nguyên này để hiểu sâu hơn về Aspose.Imaging for Java, đảm bảo bạn có đủ khả năng xử lý mọi nhu cầu xử lý hình ảnh BigTIFF.
 

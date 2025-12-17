@@ -152,7 +152,7 @@ Bu çözümü projelerinize uygulamaya başlamaya hazır mısınız? Bugün Aspo
 - **Lisans Satın Al:** [Şimdi al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Başlayın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans:** [Burada Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu:** [Aspose Topluluğu](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu:** [Aspose Topluluğu](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET ile yolculuğunuza bugün başlayın ve uygulamanızın görüntü işleme yeteneklerini yükseltin!
 

@@ -211,7 +211,7 @@ Az útmutató követésével megtanultad, hogyan használhatod az Aspose.Imaging
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ragadd magadhoz az Aspose.Imaging Java erejét, és alakítsd át képfeldolgozási képességeidet még ma!
 

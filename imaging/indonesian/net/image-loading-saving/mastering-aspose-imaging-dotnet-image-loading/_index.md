@@ -150,7 +150,7 @@ A: Mendukung berbagai macam format termasuk JPEG, PNG, TIFF, dan banyak lagi. Pe
 A: Anda dapat memulai dengan uji coba gratis atau lisensi sementara untuk mengevaluasi fitur-fiturnya sebelum memutuskan untuk membeli.
 
 **T: Bagaimana cara memecahkan masalah umum saat memuat gambar di Aspose.Imaging?**
-A: Verifikasi jalur file, periksa versi pustaka, dan konsultasikan [forum dukungan](https://forum.aspose.com/c/imaging/10) untuk bantuan.
+A: Verifikasi jalur file, periksa versi pustaka, dan konsultasikan [forum dukungan](https://forum.aspose.com/c/imaging/14) untuk bantuan.
 
 ## Sumber daya
 - **Dokumentasi**: [Referensi Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -158,7 +158,7 @@ A: Verifikasi jalur file, periksa versi pustaka, dan konsultasikan [forum dukung
 - **Informasi Pembelian dan Lisensi**: [Halaman Pembelian Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulai Uji Coba Gratis Anda](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

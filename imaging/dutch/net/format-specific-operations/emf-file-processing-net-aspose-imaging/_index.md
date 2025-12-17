@@ -142,7 +142,7 @@ A: Absoluut. Gebruik de `Save` methode met verschillende bestandsextensies om di
 - **Licentie kopen:** [Aspose Aankoopopties](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Ontvang een gratis evaluatie-exemplaar](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie:** [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum:** [Aspose.Imaging Ondersteuningscommunity](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum:** [Aspose.Imaging Ondersteuningscommunity](https://forum.aspose.com/c/imaging/14)
 
 Ontdek deze bronnen om uw begrip te verdiepen en uw implementaties met Aspose.Imaging voor .NET te verbeteren. Veel plezier met coderen!
 

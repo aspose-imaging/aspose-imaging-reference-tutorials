@@ -174,7 +174,7 @@ Sie haben nun gelernt, wie Sie mit Aspose.Imaging für Java Bilder laden und das
 - [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Antrag auf eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Erkunden Sie diese Ressourcen für detailliertere Informationen und Unterstützung. Viel Spaß beim Programmieren!
 

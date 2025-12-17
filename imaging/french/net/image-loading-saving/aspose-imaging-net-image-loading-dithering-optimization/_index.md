@@ -159,7 +159,7 @@ Prêt à vous lancer ? Lancez-vous dans la mise en œuvre de ces solutions et c
 - **Achat:** [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Essayez Aspose.Imaging gratuitement](https://releases.aspose.com/imaging/net/)
 - **Licence temporaire :** [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Forum d'assistance Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Soutien:** [Forum d'assistance Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

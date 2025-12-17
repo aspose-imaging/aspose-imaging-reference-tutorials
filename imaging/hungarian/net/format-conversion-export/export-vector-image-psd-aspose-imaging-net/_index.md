@@ -166,7 +166,7 @@ Következő lépésként érdemes lehet kipróbálni az Aspose.Imaging által t�
 - **Vásárlás**: Vásároljon licencet itt: [Aspose Vásárlási Portál](https://purchase.aspose.com/buy).
 - **Ingyenes próbaverzió**: Kezdje ingyenes próbaverzióval a következőn keresztül: [Letöltések](https://releases.aspose.com/imaging/net/).
 - **Ideiglenes engedély**Kérjen egyet [itt](https://purchase.aspose.com/temporary-license/).
-- **Támogatás**Csatlakozz a közösséghez [Aspose Fórumok](https://forum.aspose.com/c/imaging/10) segítségért és beszélgetésekért.
+- **Támogatás**Csatlakozz a közösséghez [Aspose Fórumok](https://forum.aspose.com/c/imaging/14) segítségért és beszélgetésekért.
 
 Reméljük, hogy ez az útmutató segít a vektorkép-exportálási funkció integrálásában a projektjeibe. Jó kódolást!
 

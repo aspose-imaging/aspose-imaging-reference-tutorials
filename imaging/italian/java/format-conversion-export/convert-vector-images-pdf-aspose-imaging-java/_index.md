@@ -249,7 +249,7 @@ I prossimi passi prevedono l'esplorazione di funzionalità più avanzate di Aspo
 - [Acquistare](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Supporto](https://forum.aspose.com/c/imaging/10)
+- [Supporto](https://forum.aspose.com/c/imaging/14)
 
 Prova a implementare questa soluzione nel tuo prossimo progetto per sfruttare la potenza di Aspose.Imaging per Java!
 

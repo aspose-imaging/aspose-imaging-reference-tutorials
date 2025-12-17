@@ -203,7 +203,7 @@ Ya aprendió a cargar una imagen DjVu y a exportar páginas específicas como TI
 - **Compra**: [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Obtenga una licencia gratuita](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal**: [Solicitar una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Foro de la comunidad de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: [Foro de la comunidad de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Al aprovechar Aspose.Imaging para Java, puede optimizar sus flujos de trabajo de procesamiento de documentos y trabajar con archivos DjVu fácilmente. ¡Que disfrute programando!
 

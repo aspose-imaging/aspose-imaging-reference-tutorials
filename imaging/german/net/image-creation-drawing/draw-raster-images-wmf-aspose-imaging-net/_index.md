@@ -181,7 +181,7 @@ Ja, Aspose.Imaging bietet umfassende Tools zum Bearbeiten von Bildern, einschlie
 Passen Sie die Auflösungs- und Qualitätseinstellungen mithilfe der Konfigurationsoptionen von Aspose.Imaging an, um die Bildintegrität zu wahren.
 
 **5. Gibt es Support, wenn ich Probleme mit Aspose.Imaging habe?**
-Ja, Sie können Hilfe suchen auf [Asposes Foren](https://forum.aspose.com/c/imaging/10) für Community- oder offiziellen Support.
+Ja, Sie können Hilfe suchen auf [Asposes Foren](https://forum.aspose.com/c/imaging/14) für Community- oder offiziellen Support.
 
 ## Ressourcen
 

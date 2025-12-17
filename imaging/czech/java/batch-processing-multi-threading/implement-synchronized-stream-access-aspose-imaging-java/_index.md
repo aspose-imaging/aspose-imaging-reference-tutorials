@@ -165,7 +165,7 @@ Dalším krokem je experimentování s různými konfiguracemi a případy použ
 - **Nákup:** Kupte si licenci na [Licenční stránka Aspose](https://purchase.aspose.com/buy).
 - **Bezplatná zkušební verze:** Vyzkoušejte Aspose.Imaging s bezplatnou zkušební verzí dostupnou na stránce s informacemi o vydání.
 - **Dočasná licence:** Získejte prodloužený přístup prostřednictvím možnosti dočasné licence.
-- **Podpora:** Zapojte se do diskusí nebo vyhledejte pomoc na [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Podpora:** Zapojte se do diskusí nebo vyhledejte pomoc na [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Neváhejte experimentovat a integrovat synchronizovaný přístup k streamům do svých projektů v Javě pro zvýšení stability a výkonu!
 

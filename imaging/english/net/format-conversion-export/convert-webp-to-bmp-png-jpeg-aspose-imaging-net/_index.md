@@ -178,7 +178,7 @@ Ready to give it a try? Implement these solutions and see how they can transform
 - **Purchase a License**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start with a Free Evaluation](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Apply for One Here](https://purchase.aspose.com/temporary-license/)
-- **Support Forum**: [Join the Discussion](https://forum.aspose.com/c/imaging/10)
+- **Support Forum**: [Join the Discussion](https://forum.aspose.com/c/imaging/14)
 
 Dive into these resources to expand your understanding and capabilities in image conversion using Aspose.Imaging .NET.
 

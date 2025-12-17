@@ -182,7 +182,7 @@ Poznaj więcej funkcji oferowanych przez Aspose.Imaging w ich [oficjalna dokumen
    - Użyj ustawień pamięci podręcznej, aby skutecznie zarządzać alokacją zasobów i rozważ zastosowanie technik przetwarzania wsadowego.
 
 4. **Czy istnieje jakaś pomoc dostępna w przypadku problemów z Aspose.Imaging?**
-   - Tak, pomoc można znaleźć na stronie [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10).
+   - Tak, pomoc można znaleźć na stronie [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14).
 
 5. **Jakie są najlepsze praktyki korzystania z niestandardowych palet w plikach GIF?**
    - Wybierz kolory, które najlepiej wpisują się w cele Twojego projektu i przetestuj różne połączenia, aby uzyskać optymalne rezultaty.

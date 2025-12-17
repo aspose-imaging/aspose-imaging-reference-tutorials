@@ -184,7 +184,7 @@ Cselekedj még ma, és próbáld ki ezeket a technikákat a saját képalkotási
 - **Vásárlás**: [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Tesztfunkciók](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Kérelem itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Csatlakozz a fórumhoz](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Csatlakozz a fórumhoz](https://forum.aspose.com/c/imaging/14)
 
 Ezen irányelvek követésével jól felkészült leszel arra, hogy az Aspose.Imaging Java hisztogram-normalizálási funkcióival javítsd a képeidet. Jó kódolást!
 

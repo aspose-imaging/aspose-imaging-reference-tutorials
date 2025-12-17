@@ -179,7 +179,7 @@ Készen állsz arra, hogy fejlesszd orvosi képalkotó projektjeidet? Kezdd az A
 - **Licenc vásárlása:** [Vásároljon most](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Indítsa el az ingyenes próbaverziót](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedélykérelem:** [Kérelem itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum:** [Aspose támogató közösség](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum:** [Aspose támogató közösség](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével felkészült leszel a DICOM képfeldolgozási feladatok kezelésére Java alkalmazásaidban az Aspose.Imaging használatával. Jó kódolást!
 

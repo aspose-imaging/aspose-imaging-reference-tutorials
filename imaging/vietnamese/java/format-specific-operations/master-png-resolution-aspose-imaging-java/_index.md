@@ -191,7 +191,7 @@ Bằng cách thành thạo các kỹ thuật này với Aspose.Imaging for Java,
 - **Tải về**: Phiên bản thư viện mới nhất có thể được tìm thấy trên [Aspose phát hành](https://releases.aspose.com/imaging/java/)
 - **Mua**: Nhận giấy phép đầy đủ từ [Mua Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí & Giấy phép tạm thời**: Bắt đầu với các thử nghiệm tại [Thử nghiệm Aspose](https://releases.aspose.com/imaging/java/) và xin giấy phép tạm thời để đánh giá.
-- **Ủng hộ**: Đối với bất kỳ vấn đề hoặc câu hỏi nào, hãy truy cập [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Ủng hộ**: Đối với bất kỳ vấn đề hoặc câu hỏi nào, hãy truy cập [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Bây giờ bạn đã hiểu rõ cách sử dụng Aspose.Imaging Java cho các tác vụ chỉnh sửa hình ảnh, hãy thoải mái khám phá các tính năng nâng cao hơn và cải thiện ứng dụng của bạn hơn nữa!
 

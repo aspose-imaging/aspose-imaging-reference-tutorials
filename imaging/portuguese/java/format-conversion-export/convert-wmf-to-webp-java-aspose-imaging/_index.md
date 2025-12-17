@@ -186,7 +186,7 @@ Os próximos passos podem incluir a integração dessas conversões em um aplica
 - [Comprar assinatura](https://purchase.aspose.com/buy)
 - [Licença de teste gratuita](https://releases.aspose.com/imaging/java/)
 - [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Seguindo este guia, você estará no caminho certo para dominar a conversão de imagens em Java usando o Aspose.Imaging. Boa programação!
 

@@ -148,7 +148,7 @@ Prêt à mettre en œuvre cette solution ? Commencez à expérimenter différen
    - Un kit de développement Java (JDK) et un IDE compatible.
 
 5. **Existe-t-il une assistance disponible pour résoudre les problèmes ?**
-   - Visite [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10) pour obtenir de l'aide.
+   - Visite [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14) pour obtenir de l'aide.
 
 ## Ressources
 

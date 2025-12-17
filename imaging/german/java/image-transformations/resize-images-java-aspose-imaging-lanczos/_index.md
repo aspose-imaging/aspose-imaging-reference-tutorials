@@ -187,7 +187,7 @@ Sind Sie bereit, Ihre Fähigkeiten in die Tat umzusetzen? Versuchen Sie, diese L
 - [Lizenz erwerben](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Begeben Sie sich voller Zuversicht auf Ihre Reise zur Bildverarbeitung, indem Sie Aspose.Imaging für Java und die leistungsstarke Lanczos-Resampling-Methode nutzen!
 

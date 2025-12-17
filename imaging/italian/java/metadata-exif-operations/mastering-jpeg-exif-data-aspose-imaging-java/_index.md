@@ -169,7 +169,7 @@ A3: La libreria gestirà correttamente questi casi restituendo null per i campi 
 A4: La versione di prova potrebbe avere delle restrizioni d'uso, come una filigrana o limiti di elaborazione.
 
 **D5: Come posso ottenere supporto se riscontro problemi con Aspose.Imaging?**
-A5: Visita il [Forum di Aspose](https://forum.aspose.com/c/imaging/10) per il supporto della comunità e delle autorità.
+A5: Visita il [Forum di Aspose](https://forum.aspose.com/c/imaging/14) per il supporto della comunità e delle autorità.
 
 ## Risorse
 
@@ -178,7 +178,7 @@ A5: Visita il [Forum di Aspose](https://forum.aspose.com/c/imaging/10) per il su
 - **Acquistare**: Acquisire una licenza tramite [Acquisto Aspose](https://purchase.aspose.com/buy)
 - **Prova gratuita**: Inizia con una prova gratuita su [Prova gratuita di Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea**: Richiedi una licenza temporanea da [Licenza temporanea Aspose](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: Partecipa alla discussione in [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: Partecipa alla discussione in [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 Intraprendi il tuo viaggio con Aspose.Imaging per Java e scopri subito nuove possibilità nell'elaborazione delle immagini!
 

@@ -222,7 +222,7 @@ Bu eğitimde, SVG resimlerini PNG dosyaları olarak yüklemek, yeniden boyutland
 - [Java için Aspose.Imaging Belgeleri](https://reference.aspose.com/imaging/java/)
 - [Java için Aspose.Imaging'i indirin](https://releases.aspose.com/imaging/java/)
 - [Lisans Satın Alın veya Ücretsiz Deneme Edinin](https://purchase.aspose.com/buy)
-- [Topluluk Forumundan Destek Alın](https://forum.aspose.com/c/imaging/10)
+- [Topluluk Forumundan Destek Alın](https://forum.aspose.com/c/imaging/14)
 
 Bu kaynaklar ve bu kılavuzla, Aspose.Imaging for Java kullanarak SVG resimlerini güvenle dönüştürmeye başlamak için iyi bir donanıma sahip olacaksınız. İyi kodlamalar!
 

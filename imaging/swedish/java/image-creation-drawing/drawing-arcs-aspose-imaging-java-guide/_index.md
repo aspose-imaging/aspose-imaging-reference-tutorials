@@ -192,7 +192,7 @@ Utforska klassen Graphics i API-dokumentationen, som erbjuder metoder för att r
 - **Köpa**: [Köp Aspose-licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova Aspose.Imaging gratis](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Begär här](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Utforska dessa resurser för att fördjupa din förståelse och utöka funktionerna i Aspose.Imaging Java i dina projekt. Lycka till med kodningen!
 

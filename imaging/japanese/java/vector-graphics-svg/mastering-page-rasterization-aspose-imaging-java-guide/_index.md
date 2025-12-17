@@ -210,7 +210,7 @@ Aspose.Imaging Java を使ったラスタライズオプションの作成方法
 - **購入：** [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料トライアルを受ける](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドを読めば、Aspose.Imaging Java をプロジェクトで効果的に活用できるようになります。コーディングを楽しみましょう！
 

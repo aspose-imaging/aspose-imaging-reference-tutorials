@@ -166,7 +166,7 @@ A5: Sí, puede cargar y manipular el archivo SVG según sea necesario. Solo aseg
 - **Compra**: [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Comience con una prueba gratuita](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal**: [Solicitar una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -175,7 +175,7 @@ Next steps could include exploring other image formats supported by Aspose.Imagi
 - Purchase License: [Buy Aspose Licensing Options](https://purchase.aspose.com/buy)
 - Free Trial: [Get a Free Trial](https://releases.aspose.com/imaging/java/)
 - Temporary License: [Obtain a Temporary License](https://purchase.aspose.com/temporary-license/)
-- Support Forum: [Aspose.Imaging Community Support](https://forum.aspose.com/c/imaging/10)
+- Support Forum: [Aspose.Imaging Community Support](https://forum.aspose.com/c/imaging/14)
 
 Now that you have the tools and knowledge, try implementing this solution in your next project!
 

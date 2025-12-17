@@ -212,7 +212,7 @@ if (image != null) {
 - **구입**: [지금 구매하세요](https://purchase.aspose.com/buy)
 - **무료 체험**: [시작하기](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [여기에서 요청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [Aspose.Imaging 커뮤니티](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [Aspose.Imaging 커뮤니티](https://forum.aspose.com/c/imaging/14)
 
 이 가이드가 정교한 이미지 처리 기능으로 프로젝트를 더욱 향상하는 데 도움이 되기를 바랍니다. 즐거운 코딩 되세요!
 

@@ -184,7 +184,7 @@ Wagen Sie den Sprung und beginnen Sie mit der Implementierung dieser Techniken i
 - **Lizenz erwerben**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Starten Sie Ihre kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Erhalten Sie eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Durch die Umsetzung dieser Schritte und die Nutzung der bereitgestellten Ressourcen sind Sie bestens gerüstet für die BMP-Bildkomprimierung mit Aspose.Imaging für Java. Viel Spaß beim Programmieren!
 

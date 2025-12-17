@@ -171,7 +171,7 @@ Következő lépésként érdemes lehet megfontolni az Aspose.Imaging által biz
 - Kereskedelmi használathoz licencet kell vásárolnia. A próbalicencek lehetővé teszik az értékelést, de korlátozásokkal járnak.
 
 **4. kérdés: Van-e elérhető támogatás, ha problémákba ütközöm?**
-- Igen, az Aspose közösségi fórumokat és professzionális támogatási lehetőségeket kínál. Látogassa meg a következőt: [támogatási oldal](https://forum.aspose.com/c/imaging/10) további információkért.
+- Igen, az Aspose közösségi fórumokat és professzionális támogatási lehetőségeket kínál. Látogassa meg a következőt: [támogatási oldal](https://forum.aspose.com/c/imaging/14) további információkért.
 
 **K5: Integrálhatom ezt a funkciót egy webes alkalmazásba?**
 - Abszolút! A könyvtár kompatibilis a webes alkalmazásokban használt .NET keretrendszerekkel, így zökkenőmentes integrációt tesz lehetővé.

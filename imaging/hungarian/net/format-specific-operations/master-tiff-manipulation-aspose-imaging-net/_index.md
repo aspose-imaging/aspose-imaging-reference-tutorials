@@ -168,7 +168,7 @@ Fedezze fel az Aspose.Imaging további funkcióit, vagy integrálja ezeket a ké
 - [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - [Az Aspose.Imaging ingyenes próbaverziója](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes értékelési engedély](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ez az oktatóanyag felvértezte Önt azokkal az eszközökkel, amelyekkel hatékonyan manipulálhatja a TIFF képeket az Aspose.Imaging .NET használatával. Kezdje el alkalmazni ezeket a technikákat a projektjeiben, és fedezze fel a hatékony könyvtár által kínált további lehetőségeket!
 

@@ -138,7 +138,7 @@ A: Začněte s bezplatnou zkušební verzí nebo si požádejte o dočasnou lice
 - **Licence k zakoupení:** [Koupit nyní](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Začít](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence:** [Žádost zde](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory:** [Komunita Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory:** [Komunita Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

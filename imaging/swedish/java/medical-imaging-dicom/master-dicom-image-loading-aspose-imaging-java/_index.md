@@ -160,7 +160,7 @@ A3: Överväg att optimera minnesanvändningen, använda parallella bearbetnings
 A4: Även om den är kraftfull, se till att din miljö uppfyller de nödvändiga kraven för optimal prestanda.
 
 **F5: Vilka supportalternativ finns tillgängliga om jag stöter på problem?**
-A5: Du kan söka hjälp från [Aspose Bildforum](https://forum.aspose.com/c/imaging/10) eller hänvisa till deras omfattande dokumentation.
+A5: Du kan söka hjälp från [Aspose Bildforum](https://forum.aspose.com/c/imaging/14) eller hänvisa till deras omfattande dokumentation.
 
 ## Resurser
 

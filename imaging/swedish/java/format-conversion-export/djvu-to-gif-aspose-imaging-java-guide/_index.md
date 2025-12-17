@@ -210,7 +210,7 @@ Redo att ta nästa steg? Försök att implementera dessa tekniker i dina projekt
 - **Köpa:** [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Starta din gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här handledningen är du nu rustad att använda Aspose.Imaging för Java i dina projekt. Lycka till med kodningen!
 

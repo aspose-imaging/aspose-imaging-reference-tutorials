@@ -166,7 +166,7 @@ A5: Ναι, μπορείτε να φορτώσετε και να επεξεργ�
 - **Αγορά**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε με μια δωρεάν δοκιμή](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Αίτηση για προσωρινή άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

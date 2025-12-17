@@ -193,7 +193,7 @@ static void exportProgressCallback(ProgressEventHandlerInfo info) {
 - **ซื้อผลิตภัณฑ์**: [Buy Aspose Products](https://purchase.aspose.com/buy)
 - **ทดลองใช้ฟรี**: [Start a Free Trial](https://releases.aspose.com/imaging/java/)
 - **ลิขสิทธิ์ชั่วคราว**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 ตอนนี้คุณพร้อมแล้วที่จะนำ Aspose.Imaging ไปใช้ในโปรเจกต์ Java ของคุณเพื่อเพิ่มศักยภาพการประมวลผลภาพ ขอให้สนุกกับการเขียนโค้ด!
 

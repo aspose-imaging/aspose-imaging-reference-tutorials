@@ -213,7 +213,7 @@ A: はい、JPEG、PNG、BMP などさまざまな形式をサポートしてい
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアルダウンロード](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドは、Aspose.Imaging for .NET を使用して DjVu 画像を効果的に変換するのに必要な知識とツールを提供することを目的としています。コーディングを楽しみましょう！
 

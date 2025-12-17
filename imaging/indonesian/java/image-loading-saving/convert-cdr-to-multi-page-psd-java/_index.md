@@ -197,7 +197,7 @@ Dalam tutorial ini, kami telah mempelajari cara menggunakan Aspose.Imaging untuk
    - Tentu saja! Mendukung berbagai format gambar selain CDR dan PSD.
 
 5. **Bagaimana saya dapat memecahkan masalah saat memuat atau menyimpan gambar?**
-   - Periksa [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10) untuk solusi umum, dan pastikan versi perpustakaan Anda mutakhir.
+   - Periksa [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14) untuk solusi umum, dan pastikan versi perpustakaan Anda mutakhir.
 
 ## Sumber daya
 
@@ -206,7 +206,7 @@ Dalam tutorial ini, kami telah mempelajari cara menggunakan Aspose.Imaging untuk
 - **Pembelian:** [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Dapatkan Lisensi Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda akan siap menangani tugas pemuatan dan konversi gambar CDR di aplikasi Java Anda menggunakan Aspose.Imaging. Selamat membuat kode!
 

@@ -168,14 +168,14 @@ if (File.Exists(outputFilePath))
 4. **처리할 수 있는 CAD 파일 크기에 제한이 있나요?**
    - 대용량 파일을 처리하려면 더 많은 메모리가 필요할 수 있습니다. 시스템 성능에 따라 필요에 따라 최적화하세요.
 5. **문제가 발생하면 어디에서 지원을 받을 수 있나요?**
-   - 방문하다 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10) 도움과 지역 사회에 대한 조언을 구하세요.
+   - 방문하다 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14) 도움과 지역 사회에 대한 조언을 구하세요.
 
 ## 자원
 - **선적 서류 비치**: 전체를 탐색하세요 [Aspose.Imaging .NET 문서](https://reference.aspose.com/imaging/net/)
 - **다운로드**: 최신 버전을 받으세요 [출시](https://releases.aspose.com/imaging/net/)
 - **구매 및 무료 체험**평가판에 액세스하거나 라이선스를 구매하세요. [Aspose 구매](https://purchase.aspose.com/buy) 그리고 [무료 체험판](https://releases.aspose.com/imaging/net/).
 - **임시 면허**: 임시 면허를 요청하세요 [임시 라이센스를 Aspose합니다](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: 도움을 받으세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: 도움을 받으세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

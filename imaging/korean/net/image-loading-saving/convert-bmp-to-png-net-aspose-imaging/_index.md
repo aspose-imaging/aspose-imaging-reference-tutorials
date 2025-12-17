@@ -130,7 +130,7 @@ Aspose.Imaging을 사용할 때 다음 팁을 고려하세요.
 
 기술을 더욱 향상시키려면:
 - Aspose.Imaging의 이미지 조작이나 형식 변환과 같은 추가 기능을 살펴보세요.
-- 커뮤니티와 소통하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10) 통찰력을 공유하고 조언을 구합니다.
+- 커뮤니티와 소통하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/14) 통찰력을 공유하고 조언을 구합니다.
 
 .NET 애플리케이션에서 이미지 변환을 시작할 준비가 되셨나요? 지금 바로 사용해 보세요!
 

@@ -133,7 +133,7 @@ Overweeg als volgende stap om de extra functies van Aspose.Imaging te verkennen 
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Begin vandaag nog aan uw reis om beeldverwerking onder de knie te krijgen met Aspose.Imaging voor .NET!
 

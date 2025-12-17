@@ -190,7 +190,7 @@ jpegOptions.Source = new FileCreateSource(outputDir + "/ProcessedImage_out.jpg",
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 इन संसाधनों और सुझावों के साथ, आप .NET के लिए Aspose.Imaging का उपयोग करके किसी भी छवि हेरफेर चुनौती से निपटने के लिए अच्छी तरह से सुसज्जित हैं। हैप्पी कोडिंग!
 

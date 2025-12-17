@@ -224,7 +224,7 @@ Most már megtanultad, hogyan tölthetsz be, dekódolhatsz, olvashatsz tulajdons
 - **Vásárlás:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Reméljük, hogy hasznosnak találta ezt az útmutatót a JPEG képfeldolgozás elsajátításában az Aspose.Imaging for Java segítségével. Próbálja ki ezeket a megoldásokat, hogy megtudja, hogyan javíthatják projektjeit!
 

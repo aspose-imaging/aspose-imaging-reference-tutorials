@@ -218,7 +218,7 @@ A: Performanstan ödün vermeden büyük dosyaları verimli bir şekilde işleme
 - **Satın almak**: Lisans veya deneme sürümünü şu şekilde satın alın: [Aspose Satın Alma](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: Aspose.Imaging'i bununla deneyin [ücretsiz deneme bağlantısı](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: Geçici bir lisans almak için: [bu bağlantı](https://purchase.aspose.com/temporary-license/)
-- **Destek**: Görüntü işleme zorlukları hakkındaki tartışmaya katılın [Aspose Forumları](https://forum.aspose.com/c/imaging/10)
+- **Destek**: Görüntü işleme zorlukları hakkındaki tartışmaya katılın [Aspose Forumları](https://forum.aspose.com/c/imaging/14)
 
 CMX dosyalarını sorunsuz bir şekilde dönüştürmek için gerekli araçlara ve bilgiye sahip olduğunuzu bilerek bir sonraki projenize güvenle başlayın. İyi kodlamalar!
 

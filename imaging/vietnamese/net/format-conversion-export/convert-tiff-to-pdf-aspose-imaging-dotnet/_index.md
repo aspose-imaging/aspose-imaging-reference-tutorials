@@ -165,7 +165,7 @@ A5: Mặc dù mạnh mẽ, một số tính năng nâng cao có thể yêu cầu
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Dùng thử Aspose.Imaging miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn này cung cấp cho bạn mọi thông tin cần thiết để bắt đầu chuyển đổi hình ảnh TIFF sang PDF bằng Aspose.Imaging cho .NET, giúp nâng cao giải pháp quản lý tài liệu của bạn.
 

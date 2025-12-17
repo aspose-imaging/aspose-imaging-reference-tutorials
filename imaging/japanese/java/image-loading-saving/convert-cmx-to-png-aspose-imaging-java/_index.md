@@ -218,7 +218,7 @@ A: バッチ処理を活用し、メモリ設定を最適化して、パフォ�
 - **購入**ライセンスまたは試用版を購入する [Aspose 購入](https://purchase.aspose.com/buy)
 - **無料トライアル**Aspose.Imagingを試してみる [無料トライアルリンク](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**一時ライセンスを取得するには [このリンク](https://purchase.aspose.com/temporary-license/)
-- **サポート**画像処理の課題に関する議論に参加しましょう [Aspose フォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**画像処理の課題に関する議論に参加しましょう [Aspose フォーラム](https://forum.aspose.com/c/imaging/14)
 
 CMXファイルをシームレスに変換するためのツールと知識が揃っているので、自信を持って次のプロジェクトに着手できます。コーディングを楽しみましょう！
 

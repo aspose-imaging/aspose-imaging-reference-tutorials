@@ -150,7 +150,7 @@ Jste připraveni prozkoumat více? Zkuste implementovat řešení v reálném sc
 - **Nákup:** [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Začněte s bezplatnou zkušební verzí](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence:** [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory:** [Podpora Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory:** [Podpora Aspose](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na svou cestu za zobrazováním s Aspose.Imaging ještě dnes a odhalte nové možnosti v digitální manipulaci s obrazy!
 

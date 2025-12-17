@@ -199,7 +199,7 @@ Paralel işleme tekniklerini kullanmayı düşünün ve nesneleri kullanımdan h
 - **Satın almak**: [Aspose Ürünlerini Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Deneme Lisansı Alın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose.Görüntüleme Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose.Görüntüleme Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

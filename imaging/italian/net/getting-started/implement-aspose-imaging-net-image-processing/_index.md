@@ -126,7 +126,7 @@ La memorizzazione nella cache riduce i tempi di caricamento e l'utilizzo delle r
 - **Acquistare**: [Acquista Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Prova gratuita di Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea**: [Acquisire la licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: [Forum di supporto di Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: [Forum di supporto di Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 Seguendo questa guida, sarai sulla buona strada per implementare un'elaborazione efficiente delle immagini nelle tue applicazioni .NET utilizzando Aspose.Imaging. Buona programmazione!
 
 {{< /blocks/products/pf/tutorial-page-section >}}

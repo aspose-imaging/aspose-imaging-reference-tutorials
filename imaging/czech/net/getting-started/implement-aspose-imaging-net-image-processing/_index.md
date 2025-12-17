@@ -126,7 +126,7 @@ Ukládání do mezipaměti zkracuje dobu načítání a využívání zdrojů, c
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Bezplatná zkušební verze Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum podpory Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum podpory Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 Dodržováním tohoto návodu jste na dobré cestě k implementaci efektivního zpracování obrazu ve vašich .NET aplikacích pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 
 {{< /blocks/products/pf/tutorial-page-section >}}

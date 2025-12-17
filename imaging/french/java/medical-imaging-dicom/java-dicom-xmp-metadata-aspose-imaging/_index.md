@@ -228,7 +228,7 @@ Dans ce tutoriel, vous avez appris à charger, modifier et enregistrer des image
 - [Licence d'achat](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 Commencez dès aujourd’hui à intégrer ces puissantes capacités de traitement d’images dans vos applications Java et améliorez la façon dont vous gérez les images DICOM !
 

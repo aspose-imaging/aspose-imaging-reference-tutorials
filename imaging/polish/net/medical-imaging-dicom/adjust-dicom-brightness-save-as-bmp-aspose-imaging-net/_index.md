@@ -171,7 +171,7 @@ W kolejnych krokach rozważ eksplorację dodatkowych funkcji manipulacji obrazam
 - Do użytku komercyjnego musisz kupić licencję. Licencje próbne umożliwiają ocenę, ale mają ograniczenia.
 
 **P4: Czy mogę liczyć na pomoc, jeśli wystąpią jakieś problemy?**
-- Tak, Aspose oferuje fora społecznościowe i profesjonalne opcje wsparcia. Odwiedź ich [strona wsparcia](https://forum.aspose.com/c/imaging/10) Aby uzyskać więcej informacji.
+- Tak, Aspose oferuje fora społecznościowe i profesjonalne opcje wsparcia. Odwiedź ich [strona wsparcia](https://forum.aspose.com/c/imaging/14) Aby uzyskać więcej informacji.
 
 **P5: Czy mogę zintegrować tę funkcjonalność z aplikacją internetową?**
 - Oczywiście! Biblioteka jest zgodna z frameworkami .NET używanymi w aplikacjach internetowych, co umożliwia bezproblemową integrację.

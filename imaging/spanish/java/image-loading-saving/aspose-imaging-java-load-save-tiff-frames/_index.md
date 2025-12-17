@@ -211,7 +211,7 @@ En este tutorial, hemos cubierto los aspectos básicos de la carga, copia y guar
 - **Compra**:Compra una licencia para uso comercial en [este enlace](https://purchase.aspose.com/buy)
 - **Prueba gratuita**:Comience con una prueba gratuita para probar las funciones en [El sitio web de Aspose](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal**:Obtener una licencia temporal para evaluación extendida de [aquí](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**:Únase a las discusiones o busque ayuda en el [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**:Únase a las discusiones o busque ayuda en el [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -224,7 +224,7 @@ Ebben a tutorialban megtanulta, hogyan rendereljen **szöveget betűtípusokkal*
 - **Letöltés:** A legújabb Aspose.Imaging verzió elérhető a [Releases Page](https://releases.aspose.com/imaging/java/) címen.  
 - **Vásárlás:** Teljes licenc a [Aspose Purchase Page](https://purchase.aspose.com/buy) oldalon.  
 - **Ingyenes próba:** Próbálja ki az Aspose.Imaging‑et egy ingyenes próba verzióval a [Temporary License Page](https://purchase.aspose.com/temporary-license/) oldalon.  
-- **Támogatás:** Csatlakozzon a beszélgetésekhez vagy kérjen segítséget a [Aspose Forum](https://forum.aspose.com/c/imaging/10) közösségben.
+- **Támogatás:** Csatlakozzon a beszélgetésekhez vagy kérjen segítséget a [Aspose Forum](https://forum.aspose.com/c/imaging/14) közösségben.
 
 ---
 

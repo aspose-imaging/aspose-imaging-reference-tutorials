@@ -153,7 +153,7 @@ Megtanultad, hogyan lehet elmosni egy képet az Aspose.Imaging for .NET segíts�
 - **Vásárlás**: [Vásároljon Aspose termékeket](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Ingyenes próbaverzió indítása](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Szerezd meg az ideiglenes jogosítványodat](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

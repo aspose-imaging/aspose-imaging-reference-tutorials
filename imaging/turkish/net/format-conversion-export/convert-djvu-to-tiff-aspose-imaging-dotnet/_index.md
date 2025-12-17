@@ -174,7 +174,7 @@ Bu dönüşüm sürecini projelerinizde uygulamanızı ve Aspose.Imaging for .NE
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Sürümü Deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

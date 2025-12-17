@@ -217,7 +217,7 @@ Klaar om je vaardigheden verder te ontwikkelen? Implementeer deze technieken in 
 - [Download Aspose.Imaging voor .NET](https://releases.aspose.com/imaging/net/)
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefversie en tijdelijke licentie](https://releases.aspose.com/imaging/net/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Deze handleiding helpt u op weg met het tekenen en bewerken van DICOM-afbeeldingen met Aspose.Imaging voor .NET en biedt een basis voor het bouwen van complexere beeldverwerkingstoepassingen.
 

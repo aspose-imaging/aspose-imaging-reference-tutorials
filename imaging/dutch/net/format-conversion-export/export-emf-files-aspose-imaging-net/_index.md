@@ -169,7 +169,7 @@ U beschikt nu over een grondige kennis van het exporteren van EMF-bestanden naar
    - Compatibel met .NET Framework en .NET Core/5+/6+ omgevingen.
 
 5. **Is er ondersteuning beschikbaar als ik problemen ondervind?**
-   - Ja, u kunt toegang krijgen tot communityforums en officiële ondersteuningskanalen via [Aspose-ondersteuning](https://forum.aspose.com/c/imaging/10).
+   - Ja, u kunt toegang krijgen tot communityforums en officiële ondersteuningskanalen via [Aspose-ondersteuning](https://forum.aspose.com/c/imaging/14).
 
 ## Bronnen
 

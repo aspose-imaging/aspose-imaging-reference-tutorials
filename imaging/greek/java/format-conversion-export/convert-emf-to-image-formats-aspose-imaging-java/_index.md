@@ -255,7 +255,7 @@ A5: Επισκεφθείτε το [σελίδα προσωρινής άδεια�
 - **Αγορά**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Αποκτήστε μια δωρεάν δοκιμή του Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αίτηση για προσωρινή άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Αξιοποιώντας αυτούς τους πόρους, μπορείτε να επεκτείνετε τις γνώσεις και τις δυνατότητές σας με το Aspose.Imaging για Java. Καλή κωδικοποίηση!
 

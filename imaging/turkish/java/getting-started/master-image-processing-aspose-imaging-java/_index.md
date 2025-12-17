@@ -209,7 +209,7 @@ Artık Aspose.Imaging for Java kullanarak JPG resimlerinin boyutunu nasıl yenid
 5. **TIFF çerçeveleri görüntü yönetimini nasıl iyileştirir?**  
    Birden fazla görseli tek bir dosyada birleştirerek, ilgili görsellerden oluşan büyük koleksiyonların işlenmesini ve dağıtılmasını kolaylaştırır.
 
-Daha fazla kaynak için Aspose.Imaging'e bakın [belgeleme](https://reference.aspose.com/imaging/java/) ve keşfetmek [indirme sayfası](https://releases.aspose.com/imaging/java/) en son güncellemeler için. Herhangi bir destek sorusu için şu adresi ziyaret edin: [Aspose forumu](https://forum.aspose.com/c/imaging/10).
+Daha fazla kaynak için Aspose.Imaging'e bakın [belgeleme](https://reference.aspose.com/imaging/java/) ve keşfetmek [indirme sayfası](https://releases.aspose.com/imaging/java/) en son güncellemeler için. Herhangi bir destek sorusu için şu adresi ziyaret edin: [Aspose forumu](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

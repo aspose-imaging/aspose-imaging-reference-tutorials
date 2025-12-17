@@ -147,7 +147,7 @@ image.Save(outputFile, new JpegOptions { CompressionType = JpegCompressionMode.B
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/net/)
 - [臨時許可證申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 本指南將協助您掌握使用 Aspose.Imaging for .NET 進行 JPEG 基線壓縮的正確方法。祝您編碼愉快！
 

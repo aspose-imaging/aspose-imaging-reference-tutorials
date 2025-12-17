@@ -126,7 +126,7 @@ A: De bewerking zal mislukken. Daarom is het raadzaam om te controleren of de ta
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Een tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Steun**: Voor vragen kunt u terecht op de [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: Voor vragen kunt u terecht op de [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Met deze uitgebreide handleiding bent u helemaal klaar om Aspose.Imaging voor .NET te gebruiken in uw DICOM-beeldmanipulatieprojecten. Veel plezier met coderen!
 

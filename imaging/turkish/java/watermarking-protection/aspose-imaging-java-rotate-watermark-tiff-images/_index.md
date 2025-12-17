@@ -258,7 +258,7 @@ C5: İşlemler sırasında bellek kullanımını azaltmak için Aspose.Imaging'i
 - **Lisans Satın Al:** [Lisans satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Deneme Sürümünüzü Alın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu:** [Aspose.Görüntüleme Desteği](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu:** [Aspose.Görüntüleme Desteği](https://forum.aspose.com/c/imaging/14)
 
 Bu eğitimin, Aspose.Imaging for Java kullanarak görüntü işleme görevlerinizi geliştirmeniz için gereken becerileri size kazandırdığını umuyoruz. İyi kodlamalar!
 

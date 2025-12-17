@@ -131,7 +131,7 @@ A: Pastikan Anda telah menginstal .NET Framework atau .NET Core, beserta sumber 
 A: Ya, setelah memperoleh lisensi yang sesuai dari Aspose.
 
 **T: Apakah ada dukungan yang tersedia jika saya mengalami masalah?**
-A: Kunjungi [Forum dukungan Aspose](https://forum.aspose.com/c/imaging/10) untuk bantuan atau lihat dokumentasi.
+A: Kunjungi [Forum dukungan Aspose](https://forum.aspose.com/c/imaging/14) untuk bantuan atau lihat dokumentasi.
 
 ## Sumber daya
 - **Dokumentasi:** [Dokumentasi Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)

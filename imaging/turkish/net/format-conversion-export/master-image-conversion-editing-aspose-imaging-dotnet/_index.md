@@ -219,7 +219,7 @@ C5: Evet, Aspose.Imaging, özel ihtiyaçlarınıza uyacak şekilde meta veri ala
 - **Satın almak:** [Lisans satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Aspose.Imaging'i Ücretsiz Deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans:** [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu:** [Aspose Desteği](https://forum.aspose.com/c/imaging/10) 
+- **Destek Forumu:** [Aspose Desteği](https://forum.aspose.com/c/imaging/14) 
 
 Aspose.Imaging for .NET ile yolculuğunuza bugün başlayın ve görsellerle çalışma şeklinizde devrim yaratın!
 

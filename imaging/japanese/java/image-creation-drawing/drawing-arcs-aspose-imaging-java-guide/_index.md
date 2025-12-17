@@ -192,7 +192,7 @@ API ドキュメントの Graphics クラスを調べてください。このク
 - **購入**： [Aspose ライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imagingを無料でお試しください](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [リクエストはこちら](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを活用して理解を深め、Aspose.Imaging Java の機能をプロジェクトに拡張しましょう。コーディングを楽しみましょう！
 

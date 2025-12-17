@@ -174,7 +174,7 @@ Parabéns por dominar o processo de conversão de quadros TIFF para arquivos BMP
 - [Licenças de compra](https://purchase.aspose.com/buy)
 - [Teste grátis](https://releases.aspose.com/imaging/java/)
 - [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte](https://forum.aspose.com/c/imaging/14)
 
 Embarque em sua jornada para dominar o processamento de imagens com o Aspose.Imaging Java e descubra novas possibilidades no tratamento de imagens TIFF.
 

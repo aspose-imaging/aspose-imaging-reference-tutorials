@@ -182,7 +182,7 @@ Büyük resimlerle çalışırken kaynak kullanımını optimize etmek için Asp
 - **Satın almak:** [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Aspose.Imaging Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Forum Desteği](https://forum.aspose.com/c/imaging/10) 
+- **Destek:** [Aspose Forum Desteği](https://forum.aspose.com/c/imaging/14) 
 
 Bu kapsamlı rehberle projelerinizde Aspose.Imaging for Java'yı kullanmaya başlamak için iyi bir donanıma sahip olacaksınız. İyi kodlamalar!
 

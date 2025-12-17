@@ -231,7 +231,7 @@ try (Image img = Image.load(dataDir + "missing-font.wmf")) {
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण संस्करण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड का पालन करके, आप Aspose.Imaging का उपयोग करके जावा में जटिल छवि प्रसंस्करण कार्यों को संभालने के लिए अच्छी तरह से सुसज्जित होंगे। हैप्पी कोडिंग!
 

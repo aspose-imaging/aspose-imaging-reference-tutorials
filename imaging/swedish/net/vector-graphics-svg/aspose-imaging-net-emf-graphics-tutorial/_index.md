@@ -149,7 +149,7 @@ Redo att komma igång? Försök att implementera den här lösningen i ditt näs
 - [Köpa](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10) 
+- [Supportforum](https://forum.aspose.com/c/imaging/14) 
 
 Utforska dessa resurser för att fördjupa dig i Aspose.Imagings möjligheter och förbättra dina .NET-applikationer idag!
 

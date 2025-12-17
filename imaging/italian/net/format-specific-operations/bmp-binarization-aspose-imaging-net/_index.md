@@ -171,7 +171,7 @@ A questo punto, dovresti avere una solida conoscenza di come binarizzare le imma
 - **Acquista licenza:** [Acquista ora](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Ottieni la tua prova gratuita](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea:** [Richiedi licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Forum di supporto:** [Supporto Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum di supporto:** [Supporto Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

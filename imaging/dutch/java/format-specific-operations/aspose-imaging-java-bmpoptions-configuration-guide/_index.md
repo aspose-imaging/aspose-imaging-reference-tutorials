@@ -191,7 +191,7 @@ Klaar om wat je hebt geleerd in de praktijk te brengen? Begin vandaag nog met de
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Met deze hulpmiddelen bent u goed toegerust om de techniek onder de knie te krijgen `BmpOptions` en ontgrendel het volledige potentieel van Aspose.Imaging in je Java-projecten. Veel plezier met coderen!
 

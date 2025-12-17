@@ -185,7 +185,7 @@ A : Utiliser différent `ImageOptions` classes fournies par Aspose.Imaging pour 
 - **Licence d'achat**: [Acheter maintenant](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencer](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**: [Postulez ici](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance**: [Prise en charge d'Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance**: [Prise en charge d'Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Commencez à explorer les puissantes capacités de traitement d’image d’Aspose.Imaging pour Java dès aujourd’hui !
 

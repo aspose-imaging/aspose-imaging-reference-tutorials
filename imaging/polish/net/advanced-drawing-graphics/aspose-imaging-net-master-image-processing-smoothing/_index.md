@@ -169,7 +169,7 @@ Opanowując te techniki, możesz znacznie usprawnić przepływy pracy przetwarza
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/net/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Postępując zgodnie z tym przewodnikiem, będziesz dobrze wyposażony, aby wykorzystać moc Aspose.Imaging dla .NET w swoich zadaniach przetwarzania obrazu. Miłego kodowania!
 

@@ -189,7 +189,7 @@ Klaar om je nieuwe vaardigheden in de praktijk te brengen? Probeer deze oplossin
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proeftoegang](https://releases.aspose.com/imaging/net/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Community Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Community Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u goed toegerust om complexe beeldconversies uit te voeren met Aspose.Imaging .NET. Veel plezier met coderen!
 

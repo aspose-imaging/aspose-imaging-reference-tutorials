@@ -212,7 +212,7 @@ In this tutorial, we’ve explored how to implement image auto-masking using the
 - Experiment with different configurations of the masking options.
 - Explore other features offered by Aspose.Imaging for additional image processing capabilities.
 
-For further questions or support, visit the [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10).
+For further questions or support, visit the [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ Section
 
@@ -238,7 +238,7 @@ A: The free trial allows you to test all functionalities, but it includes a wate
 - **Purchase**: [Buy Aspose Licensing Options](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start with a Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Embark on your journey to mastering image auto-masking with Aspose.Imaging and Java today!
 

@@ -191,7 +191,7 @@ Bu tekniklerde Aspose.Imaging for Java ile ustalaşarak, uygulamalarınızdaki g
 - **İndirmek**: En son kütüphane sürümleri şu adreste bulunabilir: [Aspose Sürümleri](https://releases.aspose.com/imaging/java/)
 - **Satın almak**: Tam lisansı şu adresten edinin: [Aspose Satın Alma](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme ve Geçici Lisans**: Denemelere şu şekilde başlayın: [Aspose Denemeleri](https://releases.aspose.com/imaging/java/) ve değerlendirme için geçici lisanslar alın.
-- **Destek**: Herhangi bir sorun veya sorunuz varsa, şu adresi ziyaret edin: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10) 
+- **Destek**: Herhangi bir sorun veya sorunuz varsa, şu adresi ziyaret edin: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14) 
 
 Artık Aspose.Imaging Java'yı görüntü düzenleme görevleri için nasıl kullanacağınız konusunda sağlam bir anlayışa sahip olduğunuza göre, daha gelişmiş özellikleri keşfetmekten ve uygulamalarınızı daha da geliştirmekten çekinmeyin!
 

@@ -164,7 +164,7 @@ Gotowy, aby to wypróbować? Wdróż to rozwiązanie w swoim projekcie już dzi�
    - Zoptymalizuj swoje środowisko i kod pod kątem zarządzania pamięcią, skutecznie wykorzystując funkcję zbierania śmieci języka Java.
 
 5. **Czy mogę liczyć na pomoc, jeśli wystąpią jakieś problemy?**
-   - Możesz szukać pomocy na [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10).
+   - Możesz szukać pomocy na [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Zasoby
 

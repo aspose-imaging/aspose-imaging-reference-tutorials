@@ -149,7 +149,7 @@ Klaar om te implementeren? Duik in Aspose.Imaging en benut het volledige potenti
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Veel plezier met coderen met Aspose.Imaging voor .NET! 🚀
 

@@ -133,7 +133,7 @@ A: Aspose.Imaging obsługuje operacje wsadowe za pomocą pętli i paralelizmu za
 - **Zakup**: [Kup licencję](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Spróbuj teraz](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa**: [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia**: [Zadaj pytanie tutaj](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia**: [Zadaj pytanie tutaj](https://forum.aspose.com/c/imaging/14)
 
 Zacznij korzystać z Aspose.Imaging już dziś i rozbuduj swoje aplikacje .NET o solidne funkcje przetwarzania obrazów!
 

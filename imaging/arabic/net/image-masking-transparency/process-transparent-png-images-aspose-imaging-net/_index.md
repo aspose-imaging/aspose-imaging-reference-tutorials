@@ -145,7 +145,7 @@ using Aspose.Imaging.FileFormats.Png;
 - استكشف تنسيقات الملفات الأخرى التي يدعمها Aspose.Imaging.
 
 **نداء للعمل:**
-جرّب تطبيق هذه الميزات في مشروعك القادم لترى كيف يُمكن لـ Aspose.Imaging for .NET تبسيط مهام معالجة الصور. شارك تجاربك أو اطرح أسئلة في [منتدى Aspose](https://forum.aspose.com/c/imaging/10) إذا واجهت أي تحديات.
+جرّب تطبيق هذه الميزات في مشروعك القادم لترى كيف يُمكن لـ Aspose.Imaging for .NET تبسيط مهام معالجة الصور. شارك تجاربك أو اطرح أسئلة في [منتدى Aspose](https://forum.aspose.com/c/imaging/14) إذا واجهت أي تحديات.
 
 ## قسم الأسئلة الشائعة
 1. **ما هو Aspose.Imaging لـ .NET؟**
@@ -165,7 +165,7 @@ using Aspose.Imaging.FileFormats.Png;
 - [خيارات الشراء](https://purchase.aspose.com/buy)
 - [الوصول إلى النسخة التجريبية المجانية](https://releases.aspose.com/imaging/net/)
 - [الحصول على ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم والمجتمع](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم والمجتمع](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

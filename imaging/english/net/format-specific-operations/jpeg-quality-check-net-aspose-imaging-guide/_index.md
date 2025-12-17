@@ -182,7 +182,7 @@ To further explore what Aspose.Imaging offers, consider diving into its extensiv
 - **Purchase:** [Buy License](https://purchase.aspose.com/buy)
 - **Free Trial:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Temporary License:** [Acquire Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Embark on your next image processing project with confidence, knowing you have the right tools and knowledge to ensure optimal JPEG quality settings.
 

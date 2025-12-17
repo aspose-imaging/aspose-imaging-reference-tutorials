@@ -167,7 +167,7 @@ Come passaggi successivi, valuta la possibilità di sperimentare altre funzional
 - **Acquista licenza**: [Acquista ora](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Inizia la prova gratuita](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea**: [Richiedi qui](https://purchase.aspose.com/temporary-license/)
-- **Forum di supporto**: [Fai domande](https://forum.aspose.com/c/imaging/10)
+- **Forum di supporto**: [Fai domande](https://forum.aspose.com/c/imaging/14)
 
 Esplorando queste risorse, avrai una solida base per padroneggiare Aspose.Imaging e le sue funzionalità. Buona programmazione!
 

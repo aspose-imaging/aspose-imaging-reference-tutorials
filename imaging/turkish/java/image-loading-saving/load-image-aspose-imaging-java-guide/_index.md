@@ -177,7 +177,7 @@ Bu çözümü uygulamaya çalışmanızı ve Aspose.Imaging'in daha gelişmiş i
 - **Belgeleme**: Ayrıntılı kullanım senaryolarını şu adreste keşfedin: [Aspose.Görüntüleme Java Belgeleri](https://reference.aspose.com/imaging/java/).
 - **İndirmek**: En son Aspose.Imaging kütüphanesini şu adresten edinin: [Aspose Sürümleri](https://releases.aspose.com/imaging/java/).
 - **Satın al ve Ücretsiz Deneme**: Lisans edinme hakkında daha fazla bilgi edinin [satın alma sayfası](https://purchase.aspose.com/buy) veya ücretsiz denemeyle başlayın.
-- **Destek**: Sorularınız için şuraya gidin: [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Destek**: Sorularınız için şuraya gidin: [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

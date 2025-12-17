@@ -245,7 +245,7 @@ W tym samouczku nauczyłeś się, jak tworzyć wielostronicowe pliki TIFF przy u
 - **Zakup**: https://purchase.aspose.com/buy
 - **Bezpłatna wersja próbna**: https://releases.aspose.com/imaging/java/
 - **Licencja tymczasowa**: https://purchase.aspose.com/temporary-license/
-- **Wsparcie**: https://forum.aspose.com/c/imaging/10
+- **Wsparcie**: https://forum.aspose.com/c/imaging/14
 
 Teraz, gdy posiadasz już wiedzę, możesz zacząć wdrażać i odkrywać te techniki w swoich projektach Java!
 

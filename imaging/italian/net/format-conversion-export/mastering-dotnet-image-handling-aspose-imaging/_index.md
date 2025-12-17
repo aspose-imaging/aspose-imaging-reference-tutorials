@@ -170,7 +170,7 @@ Grazie a questo tutorial, hai appreso le basi del caricamento e del salvataggio 
 - **Acquistare:** [Acquista una licenza](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Inizia la tua prova gratuita](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea:** [Richiedi licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto:** [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto:** [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 Seguendo questa guida, sarai ora in grado di gestire l'elaborazione delle immagini .NET con sicurezza utilizzando Aspose.Imaging per .NET. Buon lavoro!
 

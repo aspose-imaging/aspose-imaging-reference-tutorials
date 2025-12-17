@@ -179,7 +179,7 @@ In this tutorial, you've learned how to convert CDR files to PNG using Aspose.Im
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial Download](https://releases.aspose.com/imaging/net/)
 - [Temporary License Request](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Embark on your image conversion journey with Aspose.Imaging for .NET and unlock new possibilities in your applications!
 

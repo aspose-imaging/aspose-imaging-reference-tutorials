@@ -179,7 +179,7 @@ Trong hướng dẫn này, bạn đã học cách tải hình ảnh DICOM và ch
 - [Tùy chọn mua hàng](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, giờ đây bạn đã được trang bị đầy đủ để xử lý hình ảnh DICOM bằng Aspose.Imaging for Java. Chúc bạn viết mã vui vẻ!
 

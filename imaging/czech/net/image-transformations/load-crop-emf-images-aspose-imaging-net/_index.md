@@ -186,7 +186,7 @@ Jste připraveni uvést do praxe to, co jste se naučili? Ponořte se hlouběji 
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatný zkušební přístup](https://releases.aspose.com/imaging/net/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Tato komplexní příručka je navržena tak, aby vám poskytla znalosti a dovednosti potřebné k efektivní integraci funkcí zpracování obrazu EMF do vašich .NET aplikací. S Aspose.Imaging rozšiřte svou sadu vývojářských nástrojů a vylepšete funkčnost svého projektu.
 

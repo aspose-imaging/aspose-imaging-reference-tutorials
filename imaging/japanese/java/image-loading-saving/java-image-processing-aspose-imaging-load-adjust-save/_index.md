@@ -215,7 +215,7 @@ Aspose.Imaging を使った Java 画像処理の基礎を習得しました。�
 - **購入**： [Aspose製品を購入する](https://purchase.aspose.com/buy)
 - **無料トライアル**： [ここから始めましょう](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging を使用して Java 画像処理の旅に乗り出し、デジタル画像操作の新たな可能性を解き放ちましょう。
 

@@ -220,7 +220,7 @@ C5: Evet, ücretsiz denemeyle başlayabilirsiniz ancak yasal gerekliliklere uyma
 - **Satın almak**: Lisans satın al [Aspose Satın Alma](https://purchase.aspose.com/buy).
 - **Ücretsiz Deneme**: Özellikleri test etmek için bir deneme sürümüyle başlayın [Aspose Ücretsiz Denemeler](https://releases.aspose.com/imaging/java/).
 - **Geçici Lisans**: Birini şu şekilde talep edin: [Aspose Geçici Lisans](https://purchase.aspose.com/temporary-license/).
-- **Destek**Sorularınız için bize ulaşın: [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Destek**Sorularınız için bize ulaşın: [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Bu öğreticiyi takip ederek ve Java için Aspose.Imaging'i kullanarak, projelerinizde EPS görüntü önizlemelerini ve güvenli dosya silme işlemlerini halletmek için iyi donanımlı olacaksınız. İyi kodlamalar!
 

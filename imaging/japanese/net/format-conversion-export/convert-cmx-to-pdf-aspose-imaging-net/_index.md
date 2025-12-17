@@ -175,7 +175,7 @@ A: ラスタライズとスムージングの設定を確認してください�
 - **購入**： [Aspose.Imaging ライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imagingの無料トライアルを開始](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [Aspose.Imagingの一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose Imagingフォーラム](https://forum.aspose.com/c/imaging/10) 
+- **サポート**： [Aspose Imagingフォーラム](https://forum.aspose.com/c/imaging/14) 
 
 このガイドに従うことで、CMX から PDF への変換を簡単に処理できるようになります。
 

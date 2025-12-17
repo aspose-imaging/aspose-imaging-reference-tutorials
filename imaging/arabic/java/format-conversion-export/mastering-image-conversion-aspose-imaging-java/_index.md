@@ -212,7 +212,7 @@ image.save("YOUR_OUTPUT_DIRECTORY/ExportToTIFF_out.tiff", new TiffOptions(TiffEx
 - [شراء ترخيص](https://purchase.aspose.com/buy)
 - [احصل على نسخة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 ابدأ رحلة معالجة الصور الخاصة بك مع Aspose.Imaging for Java، وارتقِ بجودة مشاريعك اليوم!
 

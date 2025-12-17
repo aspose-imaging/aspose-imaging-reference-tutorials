@@ -166,7 +166,7 @@ I den här handledningen har du lärt dig hur du hanterar EMF-bilder effektivt m
 - **Köpa:** [Köp en licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Starta din gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Begär här](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden är du väl rustad för att hantera EMF-bilder effektivt i dina Java-applikationer med Aspose.Imaging. Lycka till med kodningen!
 

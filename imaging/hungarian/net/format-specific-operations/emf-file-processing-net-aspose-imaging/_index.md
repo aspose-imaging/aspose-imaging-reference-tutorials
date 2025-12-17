@@ -142,7 +142,7 @@ V: Feltétlenül. Használd a `Save` módszer különböző fájlkiterjesztések
 - **Licenc vásárlása:** [Aspose vásárlási lehetőségek](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Ingyenes próbapéldány beszerzése](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum:** [Aspose.Imaging támogató közösség](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum:** [Aspose.Imaging támogató közösség](https://forum.aspose.com/c/imaging/14)
 
 Böngészd át ezeket az anyagokat, hogy elmélyítsd az Aspose.Imaging for .NET megértését és fejleszd a megvalósításaidat. Jó kódolást!
 

@@ -149,7 +149,7 @@ A3: Optimera minneshanteringen och finjustera dina konfigurationsinställningar 
 A4: Vanliga problem inkluderar felaktiga sökvägar, felaktiga konfigurationsinställningar och bildformat som inte stöds. Se alltid till att sökvägarna är korrekta och att konfigurationerna överensstämmer med dina krav.
 
 **F5: Var kan jag hitta fler resurser om Aspose.Imaging?**
-A5: Besök [Aspose-dokumentation](https://reference.aspose.com/imaging/net/) för omfattande guider och [Forum](https://forum.aspose.com/c/imaging/10) för samhällsstöd.
+A5: Besök [Aspose-dokumentation](https://reference.aspose.com/imaging/net/) för omfattande guider och [Forum](https://forum.aspose.com/c/imaging/14) för samhällsstöd.
 
 ## Resurser
 - **Dokumentation:** [Aspose Imaging .NET-referens](https://reference.aspose.com/imaging/net/)
@@ -157,7 +157,7 @@ A5: Besök [Aspose-dokumentation](https://reference.aspose.com/imaging/net/) fö
 - **Köpa:** [Köp licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Nedladdningar av provversioner](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens:** [Begär här](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose-forum](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose-forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

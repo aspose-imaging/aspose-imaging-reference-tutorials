@@ -217,7 +217,7 @@ Sẵn sàng nâng cao kỹ năng của bạn? Hãy thử áp dụng các kỹ th
 - [Tải xuống Aspose.Imaging cho .NET](https://releases.aspose.com/imaging/net/)
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí và Giấy phép tạm thời](https://releases.aspose.com/imaging/net/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn này sẽ giúp bạn bắt đầu vẽ và xử lý hình ảnh DICOM bằng Aspose.Imaging cho .NET, cung cấp nền tảng để xây dựng các ứng dụng xử lý hình ảnh phức tạp hơn.
 

@@ -210,7 +210,7 @@ V: Győződjön meg arról, hogy az átfedés és a háttérképek nagy felbont�
 - **Licenc vásárlása**: [Aspose Vásárlási Oldal](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbáld ki az Aspose.Imaging-et Java-ban](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Aspose képalkotási támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Aspose képalkotási támogatás](https://forum.aspose.com/c/imaging/14)
 
 Ezzel az útmutatóval felkészülhetsz arra, hogy elkezdj képeket keverni az Aspose.Imaging for Java segítségével. Jó kódolást!
 

@@ -144,7 +144,7 @@ Bu eğitimde, JPEG görüntülerinden EXIF verilerini çıkarmak ve görüntüle
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'i deneyin](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Topluluk Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Topluluk Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Aspose.Imaging'i kullanarak Java uygulamalarınızda EXIF veri okumasını verimli bir şekilde uygulayabilirsiniz.
 

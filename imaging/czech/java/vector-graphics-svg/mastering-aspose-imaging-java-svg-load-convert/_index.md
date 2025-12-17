@@ -160,7 +160,7 @@ Jste připraveni ponořit se hlouběji? Zkuste implementovat tato řešení ve s
 - **Nákup:** [Koupit licenci Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Zahájit bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Získat dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Podpora fóra Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Podpora fóra Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu jste na dobré cestě k zvládnutí práce s obrázky SVG v Javě s Aspose.Imaging. Přejeme vám příjemné programování!
 

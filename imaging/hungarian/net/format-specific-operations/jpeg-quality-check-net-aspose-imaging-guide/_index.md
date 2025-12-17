@@ -177,7 +177,7 @@ Az Aspose.Imaging további szolgáltatásainak megismeréséhez érdemes áttanu
 - **Vásárlás:** [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Próbáld ki az Aspose.Imaging-et](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély:** [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Kezdje magabiztosan a következő képfeldolgozási projektjét, tudván, hogy rendelkezik a megfelelő eszközökkel és tudással az optimális JPEG minőségi beállítások biztosításához.
 

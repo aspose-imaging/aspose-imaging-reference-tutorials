@@ -187,7 +187,7 @@ Com certeza, ele foi projetado para atender a requisitos pessoais e empresariais
 
 **5. Onde posso obter suporte, se necessário?**
 
-Visite o [Fórum Aspose](https://forum.aspose.com/c/imaging/10) para obter ajuda da comunidade ou entre em contato com a equipe de suporte diretamente pelo site.
+Visite o [Fórum Aspose](https://forum.aspose.com/c/imaging/14) para obter ajuda da comunidade ou entre em contato com a equipe de suporte diretamente pelo site.
 
 ## Recursos
 

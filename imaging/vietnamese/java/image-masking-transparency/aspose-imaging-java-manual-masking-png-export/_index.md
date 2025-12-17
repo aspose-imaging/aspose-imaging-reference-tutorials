@@ -218,7 +218,7 @@ Bắt đầu bằng cách kiểm tra cài đặt cấu hình và đảm bảo t�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Truy cập dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

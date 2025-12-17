@@ -188,7 +188,7 @@ Anda telah mempelajari cara mengonversi gambar ke skala abu-abu secara efektif m
 - **Unduh**:Dapatkan versi terbaru dari [Rilis Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Pembelian & Uji Coba**:Pelajari tentang opsi pembelian dan mulai dengan uji coba gratis [Di Sini](https://purchase.aspose.com/buy)
 - **Lisensi Sementara**: Dapatkan lisensi sementara [Di Sini](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: Bergabunglah dengan forum komunitas di [Forum Pencitraan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: Bergabunglah dengan forum komunitas di [Forum Pencitraan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Kami harap panduan ini membantu Anda menggunakan Aspose.Imaging for Java secara efektif dalam proyek Anda. Selamat membuat kode!
 

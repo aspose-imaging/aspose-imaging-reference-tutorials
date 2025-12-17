@@ -194,7 +194,7 @@ Aspose.Imaging을 사용할 때 최적의 성능을 보장하려면:
 - **구입**: 다음을 통해 정식 라이센스를 취득하세요. [Aspose 구매 페이지](https://purchase.aspose.com/buy).
 - **무료 체험**: 무료 체험판을 통해 기능을 탐색해보세요. [Aspose 다운로드](https://releases.aspose.com/imaging/java/).
 - **임시 면허**: 연장된 테스트를 위한 임시 라이센스를 요청하세요. [Aspose 임시 면허](https://purchase.aspose.com/temporary-license/).
-- **지원하다**: 커뮤니티에 가입하여 도움을 요청하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/10).
+- **지원하다**: 커뮤니티에 가입하여 도움을 요청하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

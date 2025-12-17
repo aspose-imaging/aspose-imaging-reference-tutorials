@@ -161,7 +161,7 @@ Dalšími kroky by mohla být integrace této funkce do větší aplikace nebo p
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/net/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Zkuste tyto techniky implementovat ve svém dalším projektu a uvidíte, jak vám Aspose.Imaging pro .NET může vylepšit možnosti zpracování obrazu!
 

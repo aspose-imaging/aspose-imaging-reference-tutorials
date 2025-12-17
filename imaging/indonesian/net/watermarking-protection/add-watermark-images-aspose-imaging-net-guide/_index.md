@@ -158,7 +158,7 @@ Dengan mengikuti panduan ini, Anda telah mempelajari cara menambahkan tanda air 
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Unduh Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Akuisisi Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan memanfaatkan sumber daya ini, Anda dapat lebih jauh menjelajahi dan menguasai pustaka Aspose.Imaging untuk .NET. Selamat membuat kode!
 

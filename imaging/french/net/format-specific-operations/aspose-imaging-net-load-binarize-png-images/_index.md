@@ -152,7 +152,7 @@ Dans ce tutoriel, vous avez appris à exploiter la puissance d'Aspose.Imaging po
 - **Achat:** [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Commencez un essai gratuit](https://releases.aspose.com/imaging/net/)
 - **Licence temporaire :** [Demander un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

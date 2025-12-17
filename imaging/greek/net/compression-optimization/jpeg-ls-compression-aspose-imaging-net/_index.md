@@ -194,7 +194,7 @@ jpegImage.Save(outputPngFileName, pngOptions);
 - **Αγορά**: [Αγοράστε προϊόντα Aspose](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε τη δωρεάν δοκιμή σας](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Αίτηση για προσωρινή άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

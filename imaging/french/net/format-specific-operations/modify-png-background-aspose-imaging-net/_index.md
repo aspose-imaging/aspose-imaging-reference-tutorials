@@ -156,7 +156,7 @@ A : Utilisez des blocs try-catch pour gérer les exceptions avec élégance et 
 - **Achat**: [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencez gratuitement](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Obtenir une licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forums Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forums Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -168,14 +168,14 @@ Con esta guía, dominará la carga y exportación de archivos CAD con Aspose.Ima
 4. **¿Existe un límite en el tamaño de los archivos CAD que puedo procesar?**
    - El procesamiento de archivos grandes puede requerir más memoria; optimice según sea necesario en función de las capacidades de su sistema.
 5. **¿Dónde puedo encontrar ayuda si tengo problemas?**
-   - Visita [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10) para asistencia y asesoramiento comunitario.
+   - Visita [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14) para asistencia y asesoramiento comunitario.
 
 ## Recursos
 - **Documentación**:Explora la completa [Documentación de Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
 - **Descargar**: Obtenga la última versión de [Lanzamientos](https://releases.aspose.com/imaging/net/)
 - **Compra y prueba gratuita**:Acceda a versiones de prueba o compre una licencia a través de [Compra de Aspose](https://purchase.aspose.com/buy) y [Pruebas gratuitas](https://releases.aspose.com/imaging/net/).
 - **Licencia temporal**:Solicitar una licencia temporal de [Licencias temporales de Aspose](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: Obtenga ayuda sobre el [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: Obtenga ayuda sobre el [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

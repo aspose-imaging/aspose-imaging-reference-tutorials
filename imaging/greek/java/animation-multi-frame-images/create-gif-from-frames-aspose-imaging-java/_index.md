@@ -175,7 +175,7 @@ import com.aspose.imaging.fileformats.gif.GifImage;
 - **Απόδειξη με έγγραφα**: [Αναφορά Java Aspose.Imaging](https://reference.aspose.com/imaging/java/)
 - **Λήψη**: [Εκδόσεις Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Αγορά & Άδεια Χρήσης**: [Αγοράστε Άδεια Χρήσης Aspose](https://purchase.aspose.com/buy), [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/), [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: Αλληλεπιδράστε με την κοινότητα στο [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: Αλληλεπιδράστε με την κοινότητα στο [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ενσωματώνοντας το Aspose.Imaging στα έργα σας σε Java, μπορείτε να ξεκλειδώσετε ισχυρές δυνατότητες επεξεργασίας εικόνας που βελτιστοποιούν και βελτιώνουν τις ροές εργασίας σας. Καλή κωδικοποίηση!
 

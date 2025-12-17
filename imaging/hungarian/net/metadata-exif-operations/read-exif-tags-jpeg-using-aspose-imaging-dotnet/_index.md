@@ -145,7 +145,7 @@ A5: Ahol lehetséges, párhuzamosan dolgozza fel a képeket, és biztosítsa a k
 - **Licenc vásárlása**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbáld ki](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Kérelem itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Kérdések feltevése](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Kérdések feltevése](https://forum.aspose.com/c/imaging/14)
 
 Indulj el az Aspose.Imaging for .NET segítségével még ma, és kezdd el kiaknázni a képmetaadatok erejét!
 

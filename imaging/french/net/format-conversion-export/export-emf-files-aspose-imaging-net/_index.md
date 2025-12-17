@@ -169,7 +169,7 @@ Vous maîtrisez désormais parfaitement l'exportation de fichiers EMF vers diff�
    - Compatible avec les environnements .NET Framework et .NET Core/5+/6+.
 
 5. **Existe-t-il une assistance disponible si je rencontre des problèmes ?**
-   - Oui, vous pouvez accéder aux forums communautaires et aux canaux d'assistance officiels via [Assistance Aspose](https://forum.aspose.com/c/imaging/10).
+   - Oui, vous pouvez accéder aux forums communautaires et aux canaux d'assistance officiels via [Assistance Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Ressources
 

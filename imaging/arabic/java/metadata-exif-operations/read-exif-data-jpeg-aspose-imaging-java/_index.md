@@ -144,7 +144,7 @@ try (Image image = Image.load(dataDir)) {
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جرب Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [الحصول على ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى مجتمع Aspose](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى مجتمع Aspose](https://forum.aspose.com/c/imaging/14)
 
 من خلال اتباع هذا الدليل، يمكنك تنفيذ قراءة بيانات EXIF بكفاءة في تطبيقات Java الخاصة بك باستخدام Aspose.Imaging.
 

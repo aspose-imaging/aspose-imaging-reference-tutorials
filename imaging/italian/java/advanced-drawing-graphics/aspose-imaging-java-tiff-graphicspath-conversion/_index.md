@@ -246,7 +246,7 @@ Ora hai padroneggiato la conversione delle risorse di percorso TIFF in oggetti `
 - **Acquisto:** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Forum di supporto:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Forum di supporto:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 ---
 

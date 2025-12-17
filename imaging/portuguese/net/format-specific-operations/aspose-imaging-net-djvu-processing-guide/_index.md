@@ -197,7 +197,7 @@ R: Sim, ele pode ser integrado a aplicativos ASP.NET e outras estruturas do lado
 - **Comprar**: [Compre a licença Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Experimente o Aspose.Imaging gratuitamente](https://releases.aspose.com/imaging/net/)
 - **Licença Temporária**: [Obter licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Esperamos que este guia ajude você a aproveitar o Aspose.Imaging para suas necessidades de processamento de imagens DjVu em .NET. Boa programação!
 

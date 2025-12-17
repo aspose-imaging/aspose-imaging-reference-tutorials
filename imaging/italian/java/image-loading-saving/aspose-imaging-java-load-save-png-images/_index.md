@@ -178,7 +178,7 @@ Pronti a implementare queste soluzioni? Provatele nel vostro prossimo progetto!
 - [Acquista licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Implementa queste tecniche nei tuoi progetti Java per sfruttare appieno il potenziale di Aspose.Imaging per un'elaborazione e una manipolazione delle immagini senza interruzioni.
 

@@ -220,7 +220,7 @@ public class SaveCroppedDicomAsBmp {
 - **Αγορά**: [Αγοράστε άδειες χρήσης Aspose](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δωρεάν δοκιμές Aspose](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Λήψη προσωρινής άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Με αυτόν τον ολοκληρωμένο οδηγό, είστε πλέον εξοπλισμένοι για να εφαρμόσετε την επεξεργασία εικόνας DICOM σε Java χρησιμοποιώντας το Aspose.Imaging. Καλή κωδικοποίηση!
 

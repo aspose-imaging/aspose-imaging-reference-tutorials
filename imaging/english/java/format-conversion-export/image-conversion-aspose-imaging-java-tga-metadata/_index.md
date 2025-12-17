@@ -206,7 +206,7 @@ Throughout this tutorial, you've explored how to convert JPEG and PNG files into
 - **Documentation**: Explore more at [Aspose.Imaging Documentation](https://reference.aspose.com/imaging/java/).
 - **Download**: Get the latest releases from [Aspose Releasing Page](https://releases.aspose.com/imaging/java/).
 - **Purchase and Free Trial**: Try features today at [Aspose's Purchase and Free Trial Page](https://purchase.aspose.com/buy).
-- **Support**: Join discussions on [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Support**: Join discussions on [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 We hope this guide empowers you to utilize Aspose.Imaging Java effectively for your image processing needs. Happy coding!
 

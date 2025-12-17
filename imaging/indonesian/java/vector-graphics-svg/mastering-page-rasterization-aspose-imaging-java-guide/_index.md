@@ -210,7 +210,7 @@ Siap untuk membawa proyek pencitraan Anda ke tingkat berikutnya? Cobalah menerap
 - **Pembelian:** [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Dapatkan Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Ajukan Permohonan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan panduan ini, Anda akan diperlengkapi dengan baik untuk memanfaatkan Aspose.Imaging Java secara efektif dalam proyek Anda. Selamat membuat kode!
 

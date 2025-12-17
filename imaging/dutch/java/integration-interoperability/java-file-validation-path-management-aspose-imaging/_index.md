@@ -221,7 +221,7 @@ A5: Voeg de Aspose.Imaging-afhankelijkheid toe aan je project met behulp van Mav
 - **Aankoop**: Verkrijg een licentie via [De aankooppagina van Aspose](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: Begin met experimenteren met [Gratis proefperiode van Aspose](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**Verkrijg uitgebreide toegang via [Tijdelijke licentiepagina van Aspose](https://purchase.aspose.com/temporary-license/)
-- **Steun**: Betrek de community en het ondersteuningsteam bij [Aspose's forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: Betrek de community en het ondersteuningsteam bij [Aspose's forum](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u goed toegerust om bestandsvalidatie en padbeheer te implementeren in uw Java-applicaties met Aspose.Imaging. Veel plezier met coderen!
 

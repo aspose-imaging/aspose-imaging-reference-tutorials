@@ -162,7 +162,7 @@ Aspose.Imaging을 설치한 후 프로젝트에서 초기화하여 이미지 처
 - **라이센스 구매:** [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [Aspose.Imaging 무료 체험판](https://releases.aspose.com/imaging/net/)
 - **임시 면허:** [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼:** [Aspose 이미징 지원](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼:** [Aspose 이미징 지원](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

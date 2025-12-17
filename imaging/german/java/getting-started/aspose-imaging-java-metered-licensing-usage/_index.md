@@ -200,7 +200,7 @@ Zu den nächsten Schritten gehört die Erkundung zusätzlicher Funktionen der As
    - Verwenden Sie die `Metered.getConsumptionQuantity()` Methode vor und nach der Bildverarbeitung zur Nutzungsverfolgung.
 
 5. **Gibt es Support, wenn ich auf Probleme stoße?**
-   - Besuchen [Aspose Forum](https://forum.aspose.com/c/imaging/10) um Unterstützung durch Community-Experten.
+   - Besuchen [Aspose Forum](https://forum.aspose.com/c/imaging/14) um Unterstützung durch Community-Experten.
 
 ## Ressourcen
 

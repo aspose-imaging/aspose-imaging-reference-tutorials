@@ -150,7 +150,7 @@ A5: Tài liệu chi tiết có thể được tìm thấy tại [Tài liệu Asp
 - **Mua giấy phép**: [Mua ngay](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Nộp đơn tại đây](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Chúc bạn viết mã vui vẻ và tận hưởng việc thử nghiệm với Aspose.Imaging để biến nhu cầu xử lý hình ảnh của bạn thành hiện thực!
 

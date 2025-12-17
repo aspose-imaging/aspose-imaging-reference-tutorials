@@ -204,7 +204,7 @@ Trong hướng dẫn này, chúng tôi đã khám phá cách tải và thay đ�
 - **Mua**: https://purchase.aspose.com/buy
 - **Dùng thử miễn phí**: https://releases.aspose.com/imaging/java/
 - **Giấy phép tạm thời**: https://purchase.aspose.com/temporary-license/
-- **Ủng hộ**: https://forum.aspose.com/c/imaging/10
+- **Ủng hộ**: https://forum.aspose.com/c/imaging/14
 
 Bằng cách tận dụng các tài nguyên này, bạn có thể hiểu sâu hơn và triển khai Aspose.Imaging hiệu quả trong các ứng dụng Java của mình. Chúc bạn viết mã vui vẻ!
 

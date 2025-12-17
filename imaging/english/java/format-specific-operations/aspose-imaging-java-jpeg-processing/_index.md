@@ -198,7 +198,7 @@ Use the `dispose()` method on Image objects to free up memory after processing i
 - **Purchase:** [Buy Aspose Licensing](https://purchase.aspose.com/buy)
 - **Free Trial:** [Aspose Imaging Free Trials](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 By following this tutorial, you will have equipped yourself with the knowledge to efficiently load and save JPEGs using Aspose.Imaging for Java. Happy coding!
 

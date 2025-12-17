@@ -159,7 +159,7 @@ Vous avez appris à appliquer un filigrane textuel pivoté à une image avec Asp
 - [Licence d'achat](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/net/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 Essayez de mettre en œuvre ces étapes et voyez comment Aspose.Imaging peut rationaliser vos tâches de traitement d’image !
 

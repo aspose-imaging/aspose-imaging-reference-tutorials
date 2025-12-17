@@ -200,7 +200,7 @@ A következő lépések közé tartozik az Aspose.Imaging könyvtár további fu
    - Használd a `Metered.getConsumptionQuantity()` módszer a képek feldolgozása előtt és után a használat nyomon követésére.
 
 5. **Van elérhető támogatás, ha problémákba ütközöm?**
-   - Látogatás [Aspose Fórum](https://forum.aspose.com/c/imaging/10) közösségi szakértők segítségét kérni.
+   - Látogatás [Aspose Fórum](https://forum.aspose.com/c/imaging/14) közösségi szakértők segítségét kérni.
 
 ## Erőforrás
 

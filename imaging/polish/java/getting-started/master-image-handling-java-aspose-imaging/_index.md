@@ -178,7 +178,7 @@ A5: Chociaż Aspose.Imaging nie nakłada żadnych sztywnych ograniczeń, przetwa
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Postępując zgodnie z tym przewodnikiem, jesteś teraz gotowy do wdrożenia efektywnej obsługi obrazów w swoich aplikacjach Java przy użyciu Aspose.Imaging. Miłego kodowania!
 

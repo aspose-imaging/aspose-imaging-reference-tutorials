@@ -182,7 +182,7 @@ A5: Er is een gratis proefversie beschikbaar, maar voor sommige geavanceerde fun
 - **Aankoop**: [Koop Aspose.Imaging-licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Start uw gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 kunt deze bronnen gerust verkennen en vol vertrouwen beginnen met de implementatie van uw beeldverwerkingsprojecten met Aspose.Imaging voor Java.
 

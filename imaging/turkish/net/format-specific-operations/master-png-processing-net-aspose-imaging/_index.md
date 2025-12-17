@@ -201,7 +201,7 @@ Bu tekniklerde ustalaşarak, PNG dosyalarını verimli bir şekilde yönetmek i�
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kaynakları keşfetmekten çekinmeyin ve herhangi bir sorunuz varsa destek için bize ulaşın. İyi kodlamalar!
 

@@ -184,7 +184,7 @@ A: Koop een abonnement bij [De aankooppagina van Aspose](https://purchase.aspose
 - **Downloadbibliotheek:** Download de nieuwste versie van [Aspose.Imaging-releases](https://releases.aspose.com/imaging/java/).
 - **Licentie kopen:** Bezoek [Aspose Aankoop](https://purchase.aspose.com/buy) voor licentieopties.
 - **Gratis proefversie en tijdelijke licentie:** Begin met een gratis proefperiode of verkrijg een tijdelijke licentie op [Aspose gratis proefversie en licentie](https://releases.aspose.com/imaging/java/).
-- **Ondersteuningsforum:** Betrek de gemeenschap bij [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10).
+- **Ondersteuningsforum:** Betrek de gemeenschap bij [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

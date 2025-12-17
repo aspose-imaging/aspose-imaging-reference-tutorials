@@ -198,7 +198,7 @@ A4: Ja, men det är viktigt att hantera resurser effektivt och använda multitr�
 
 **F5: Hur kan jag få mer support om jag stöter på problem med Aspose.Imaging?**
 
-A5: Besök [Asposes forum](https://forum.aspose.com/c/imaging/10) för communitysupport eller kontakta deras kundtjänst direkt via köpsidan.
+A5: Besök [Asposes forum](https://forum.aspose.com/c/imaging/14) för communitysupport eller kontakta deras kundtjänst direkt via köpsidan.
 
 ## Resurser
 

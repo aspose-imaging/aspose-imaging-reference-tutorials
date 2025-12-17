@@ -223,7 +223,7 @@ A5：确保在加载后缓存图像，使用比例方法有效地调整大小，
 - **购买**： [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用**： [Aspose.Imaging 免费试用](https://releases.aspose.com/imaging/java/)
 - **临时执照**： [获得临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持**： [Aspose.Imaging 论坛](https://forum.aspose.com/c/imaging/10) 
+- **支持**： [Aspose.Imaging 论坛](https://forum.aspose.com/c/imaging/14) 
 
 有了这份全面的指南，您就可以开始将 Aspose.Imaging 集成到您的 Java 项目中，实现高效的图像管理。祝您编程愉快！
 

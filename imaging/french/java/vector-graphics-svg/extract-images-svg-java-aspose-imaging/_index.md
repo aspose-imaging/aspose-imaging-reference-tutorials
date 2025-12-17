@@ -250,7 +250,7 @@ R : Envisagez d’utiliser des techniques de traitement par lots et d’optimise
 - **Achat:** [Acheter Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Commencez votre essai gratuit](https://releases.aspose.com/imaging/java/)
 - **Licence temporaire :** [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Implémentez ces fonctionnalités dans vos projets Java pour exploiter de nouvelles fonctionnalités et optimiser le traitement d'images avec Aspose.Imaging. Bon codage !
 

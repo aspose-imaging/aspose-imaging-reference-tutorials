@@ -212,7 +212,7 @@ public class RemoveBackgroundGraphCut {
 - [Купить лицензию](https://purchase.aspose.com/buy)
 - [Получите бесплатную пробную версию](https://releases.aspose.com/imaging/java/)
 - [Запросить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Начните свой путь с Aspose.Imaging сегодня и раскройте весь потенциал обработки изображений в Java!
 

@@ -205,7 +205,7 @@ Neste tutorial, exploramos como implementar o mascaramento automático de imagen
 - Experimente diferentes configurações das opções de mascaramento.
 - Explore outros recursos oferecidos pelo Aspose.Imaging para obter capacidades adicionais de processamento de imagens.
 
-Para mais perguntas ou suporte, visite o [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10).
+Para mais perguntas ou suporte, visite o [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14).
 
 ## Seção de perguntas frequentes
 
@@ -231,7 +231,7 @@ R: O teste gratuito permite que você teste todas as funcionalidades, mas inclui
 - **Comprar**: [Compre opções de licenciamento Aspose](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Comece com um teste gratuito](https://releases.aspose.com/imaging/java/)
 - **Licença Temporária**: [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Embarque hoje mesmo em sua jornada para dominar o mascaramento automático de imagens com Aspose.Imaging e Java!
 

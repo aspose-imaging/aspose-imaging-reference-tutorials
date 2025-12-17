@@ -257,7 +257,7 @@ A5：确保输出格式支持透明度（例如 PNG）。错误的设置可能�
 - **购买**： [Aspose 购买页面](https://purchase.aspose.com/buy)
 - **免费试用**： [试用 Aspose.Imaging 免费试用版](https://releases.aspose.com/imaging/java/)
 - **临时执照**： [申请临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持论坛**： [Aspose 支持社区](https://forum.aspose.com/c/imaging/10)
+- **支持论坛**： [Aspose 支持社区](https://forum.aspose.com/c/imaging/14)
 
 编码愉快！
 

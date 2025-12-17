@@ -133,7 +133,7 @@ Houd bij het toepassen van filters rekening met de volgende tips om de prestatie
 
 Gefeliciteerd! Je hebt het Gauss-Wiener-filter succesvol toegepast op gekleurde afbeeldingen met Aspose.Imaging .NET. Deze tutorial heeft je de kennis bijgebracht om je beeldverwerkingstaken te verbeteren en zorgt voor schonere en nauwkeurigere resultaten.
 
-Om de mogelijkheden van Aspose.Imaging verder te verkennen, kunt u ook de andere filters en functies in de bibliotheek bekijken. Voor verdere vragen of ondersteuning kunt u terecht op de [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+Om de mogelijkheden van Aspose.Imaging verder te verkennen, kunt u ook de andere filters en functies in de bibliotheek bekijken. Voor verdere vragen of ondersteuning kunt u terecht op de [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ-sectie
 
@@ -158,7 +158,7 @@ A: Met een proeflicentie hebt u volledige toegang om te testen, maar er kunnen w
 - **Licentie kopen:** [Aspose Aankoop](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Proeflicentie](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie:** [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Ontdek deze bronnen om je kennis te verdiepen en je beeldverwerkingsprojecten te verbeteren. Veel plezier met coderen!
 

@@ -171,7 +171,7 @@ Como próximos passos, considere explorar os recursos adicionais de manipulaçã
 - Para uso comercial, você precisará adquirir uma licença. Licenças de teste permitem avaliação, mas apresentam limitações.
 
 **Q4: Há suporte disponível caso eu encontre problemas?**
-- Sim, a Aspose oferece fóruns comunitários e opções de suporte profissional. Visite o site deles [página de suporte](https://forum.aspose.com/c/imaging/10) para maiores informações.
+- Sim, a Aspose oferece fóruns comunitários e opções de suporte profissional. Visite o site deles [página de suporte](https://forum.aspose.com/c/imaging/14) para maiores informações.
 
 **P5: Posso integrar essa funcionalidade em um aplicativo web?**
 - Com certeza! A biblioteca é compatível com frameworks .NET usados em aplicações web, permitindo uma integração perfeita.

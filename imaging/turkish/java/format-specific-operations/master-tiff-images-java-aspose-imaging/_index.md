@@ -166,7 +166,7 @@ Bu çözümü uygulamaya hazır mısınız? Farklı yapılandırmaları deneyere
 - [Satın almak](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı kılavuzu takip ederek, TIFF görüntülerini etkili bir şekilde yönetmek için Aspose.Imaging for Java'nın tüm potansiyelinden yararlanabilirsiniz. İyi kodlamalar!
 

@@ -180,7 +180,7 @@ A5: Εγκαταστήστε τη βιβλιοθήκη μέσω του NuGet ή 
 - **Αγορά**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Έναρξη δωρεάν δοκιμής](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ξεκινήστε το ταξίδι σας για να τελειοποιήσετε την επεξεργασία εικόνας με το Aspose.Imaging για .NET σήμερα!
 

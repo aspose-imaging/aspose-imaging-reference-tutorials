@@ -199,7 +199,7 @@ Ao longo deste tutorial, você aprendeu a converter arquivos JPEG e PNG para o f
 - **Documentação**: Explore mais em [Documentação do Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - **Download**: Obtenha os últimos lançamentos de [Página de lançamento do Aspose](https://releases.aspose.com/imaging/java/).
 - **Compra e teste gratuito**: Experimente os recursos hoje em [Página de compra e teste gratuito do Aspose](https://purchase.aspose.com/buy).
-- **Apoiar**: Participe de discussões sobre [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Apoiar**: Participe de discussões sobre [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Esperamos que este guia ajude você a utilizar o Aspose.Imaging Java de forma eficaz para suas necessidades de processamento de imagens. Boa programação!
 

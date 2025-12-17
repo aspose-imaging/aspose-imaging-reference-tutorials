@@ -181,7 +181,7 @@ image.Save();
 - [Купить лицензию](https://purchase.aspose.com/buy)
 - [Бесплатная пробная версия](https://releases.aspose.com/imaging/net/)
 - [Временная лицензия](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Мы надеемся, что это руководство поможет вам в вашем путешествии с Aspose.Imaging для .NET. Удачного кодирования!
 

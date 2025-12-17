@@ -282,7 +282,7 @@ public String onImageResourceReady(byte[] imageData, int imageType, String sugge
 - [ดาวน์โหลด Aspose.Imaging สำหรับ Java](https://releases.aspose.com/imaging/java/)
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรีและใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 ร่วมออกเดินทางกับ Aspose.Imaging Java วันนี้เพื่อปลดล็อคความสามารถในการประมวลผลภาพอันทรงพลังในแอพพลิเคชั่นของคุณ!
 

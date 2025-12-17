@@ -133,7 +133,7 @@ R: O Aspose.Imaging oferece suporte a operações em lote por meio de loops e pa
 - **Comprar**: [Comprar licença](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Experimente agora](https://releases.aspose.com/imaging/net/)
 - **Licença Temporária**: [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Fórum de Suporte**: [Faça perguntas aqui](https://forum.aspose.com/c/imaging/10)
+- **Fórum de Suporte**: [Faça perguntas aqui](https://forum.aspose.com/c/imaging/14)
 
 Comece a usar o Aspose.Imaging hoje mesmo para aprimorar seus aplicativos .NET com recursos robustos de processamento de imagens!
 

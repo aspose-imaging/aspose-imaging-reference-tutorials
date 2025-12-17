@@ -133,7 +133,7 @@ Most már megtanultad, hogyan konvertálhatsz SVG fájlokat EMF formátumba az A
 **Következő lépések:**
 - Fedezze fel az Aspose.Imaging további funkcióit
 - Kísérletezzen különböző konverziós lehetőségekkel
-- Ossza meg visszajelzését vagy tegyen fel kérdéseket a [Aspose fórum](https://forum.aspose.com/c/imaging/10)
+- Ossza meg visszajelzését vagy tegyen fel kérdéseket a [Aspose fórum](https://forum.aspose.com/c/imaging/14)
 
 Készen állsz ezen készségek alkalmazására? Vágj bele a projektedbe, és kezdj el konvertálni még ma!
 
@@ -160,7 +160,7 @@ A3: Optimalizálja a kódját a memóriahasználat szempontjából a képek keze
 - **Vásárlás**: [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Kezdje ingyenes próbaverzióval](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Nyugodtan böngészd át ezeket az erőforrásokat részletesebb útmutatásért és támogatásért a megoldásod megvalósítása során. Jó kódolást!
 

@@ -191,7 +191,7 @@ try (PngImage png = new PngImage(width, height)) {
 - **下載**：最新的庫版本可以在 [Aspose 版本](https://releases.aspose.com/imaging/java/)
 - **購買**：取得完整許可證 [Aspose 購買](https://purchase.aspose.com/buy)
 - **免費試用和臨時許可證**：從試驗開始 [Aspose 試驗](https://releases.aspose.com/imaging/java/) 並取得臨時許可證進行評估。
-- **支援**：如有任何疑問，請訪問 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10) 
+- **支援**：如有任何疑問，請訪問 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14) 
 
 現在您已經對如何使用 Aspose.Imaging Java 進行圖像處理任務有了深入的了解，請隨意探索更多高級功能並進一步增強您的應用程式！
 

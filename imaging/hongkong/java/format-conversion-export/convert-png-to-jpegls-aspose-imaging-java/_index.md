@@ -204,7 +204,7 @@ finally {
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/java/)
 - [臨時執照申請](https://purchase.aspose.com/temporary-license/)
-- [社群支援論壇](https://forum.aspose.com/c/imaging/10)
+- [社群支援論壇](https://forum.aspose.com/c/imaging/14)
 
 透過遵循這份全面的指南，您現在可以使用 Aspose.Imaging for Java 有效地處理 PNG 到 JPEG-LS 的轉換，反之亦然。祝您編碼愉快！
 

@@ -189,7 +189,7 @@ Pronto para colocar esse conhecimento em prática? Experimente implementar essas
 - [Comprar uma licença](https://purchase.aspose.com/buy)
 - [Teste grátis](https://releases.aspose.com/imaging/java/)
 - [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte](https://forum.aspose.com/c/imaging/10) 
+- [Fórum de Suporte](https://forum.aspose.com/c/imaging/14) 
 
 Comece a gerenciar suas imagens com precisão de cores hoje mesmo usando o Aspose.Imaging para Java!
 

@@ -147,7 +147,7 @@ Siap untuk meningkatkan keterampilan pemrosesan gambar Anda ke tingkat berikutny
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Permintaan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Panduan lengkap ini akan mengarahkan Anda ke jalur yang tepat untuk menguasai kompresi dasar JPEG dengan Aspose.Imaging untuk .NET. Selamat membuat kode!
 

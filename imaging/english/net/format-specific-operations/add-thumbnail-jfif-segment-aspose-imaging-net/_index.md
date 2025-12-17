@@ -181,7 +181,7 @@ Currently, the JFIF segment supports a single thumbnail; however, you can embed 
 - **Purchase**: [Buy a License](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start Your Free Trial](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Obtain a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

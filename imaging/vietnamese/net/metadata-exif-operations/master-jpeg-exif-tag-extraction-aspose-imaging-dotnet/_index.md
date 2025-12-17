@@ -183,7 +183,7 @@ Bây giờ bạn đã thành thạo cách tải hình ảnh JPEG và trích xu�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Tải xuống dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Thông tin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

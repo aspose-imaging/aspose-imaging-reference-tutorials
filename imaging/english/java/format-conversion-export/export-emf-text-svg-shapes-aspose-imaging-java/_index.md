@@ -194,7 +194,7 @@ Absolutely, it’s designed to handle both personal and enterprise-level require
 
 **5. Where can I get support if needed?**
 
-Visit the [Aspose forum](https://forum.aspose.com/c/imaging/10) for community help or contact their support team directly through their website.
+Visit the [Aspose forum](https://forum.aspose.com/c/imaging/14) for community help or contact their support team directly through their website.
 
 ## Resources
 

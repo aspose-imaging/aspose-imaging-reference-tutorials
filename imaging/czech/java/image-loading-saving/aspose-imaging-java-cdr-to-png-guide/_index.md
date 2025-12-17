@@ -189,7 +189,7 @@ A3: Úprava `CdrRasterizationOptions` parametry, jako je rozlišení a typy polo
 A4: Pro komerční aplikace je vyžadována zakoupená licence. Můžete začít s bezplatnou zkušební verzí nebo požádat o dočasnou licenci.
 
 **Q5: Kde mohu získat podporu, pokud narazím na problémy?**
-A5: Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) za pomoc a diskuze v komunitě.
+A5: Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) za pomoc a diskuze v komunitě.
 
 ## Zdroje
 
@@ -197,7 +197,7 @@ A5: Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) za
 - **Stáhnout knihovnu:** Získejte nejnovější verzi z [Aspose.Imaging Releases](https://releases.aspose.com/imaging/java/)
 - **Licence k zakoupení:** Návštěva [Nákupní místo Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze a dočasná licence:** Začněte svou cestu na [Bezplatná zkušební verze Aspose](https://releases.aspose.com/imaging/java/) a [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory:** Zapojte se do komunity a požádejte o pomoc na adrese [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory:** Zapojte se do komunity a požádejte o pomoc na adrese [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na svou cestu s Aspose.Imaging v Javě ještě dnes a vdechněte život svým projektům digitálního zobrazování!
 

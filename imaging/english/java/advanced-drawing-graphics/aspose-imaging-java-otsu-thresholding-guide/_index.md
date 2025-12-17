@@ -194,7 +194,7 @@ This snippet saves the binarized image in JPEG format, ensuring it’s stored ef
 
 You've now mastered the basics of using Aspose.Imaging for Java to load, process, and save images with binarization techniques. Experiment further by exploring other features offered by the library, such as advanced filtering or format conversion.
 
-Next steps include integrating this functionality into your projects and experimenting with different image types and processing scenarios. Don't hesitate to reach out through the [Aspose support forum](https://forum.aspose.com/c/imaging/10) for any questions you may have!
+Next steps include integrating this functionality into your projects and experimenting with different image types and processing scenarios. Don't hesitate to reach out through the [Aspose support forum](https://forum.aspose.com/c/imaging/14) for any questions you may have!
 
 ## FAQ Section
 

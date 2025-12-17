@@ -137,7 +137,7 @@ Ontdek de meer geavanceerde functies van Aspose.Imaging, zoals batchverwerking o
 - [Download Aspose.Imaging voor .NET](https://releases.aspose.com/imaging/net/)
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefversie en tijdelijke licentie](https://releases.aspose.com/imaging/net/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Ontdek deze bronnen om uw begrip te verdiepen en uw implementaties met Aspose.Imaging .NET te verbeteren. Veel plezier met coderen!
 

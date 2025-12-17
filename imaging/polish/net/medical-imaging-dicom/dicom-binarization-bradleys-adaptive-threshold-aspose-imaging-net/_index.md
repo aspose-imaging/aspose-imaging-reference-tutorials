@@ -167,7 +167,7 @@ A5: Choć jest skuteczny, najlepiej nadaje się do obrazów, w których widoczne
 - **Zakup**: [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Rozpocznij bezpłatny okres próbny](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa**: [Poproś o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**:W razie pytań odwiedź stronę [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**:W razie pytań odwiedź stronę [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij przygodę z Aspose.Imaging for .NET i odkryj nowe możliwości w dziedzinie obrazowania medycznego!
 

@@ -193,7 +193,7 @@ Pronti per iniziare l'implementazione? Andate su [Documentazione di Aspose.Imagi
    - È possibile ottenere una licenza temporanea per la valutazione oppure acquistare una licenza completa per l'uso in produzione.
 
 5. **Dove posso trovare supporto se riscontro problemi?**  
-   - Visita il [Forum di Aspose](https://forum.aspose.com/c/imaging/10) per il supporto della comunità e delle autorità.
+   - Visita il [Forum di Aspose](https://forum.aspose.com/c/imaging/14) per il supporto della comunità e delle autorità.
 
 ## Risorse
 
@@ -202,7 +202,7 @@ Pronti per iniziare l'implementazione? Andate su [Documentazione di Aspose.Imagi
 - Acquistare: [Acquista Aspose.Imaging](https://purchase.aspose.com/buy)
 - Prova gratuita: [Prove gratuite disponibili](https://releases.aspose.com/imaging/java/)
 - Licenza temporanea: [Richiedi una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- Supporto: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- Supporto: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Con queste risorse, sarai pronto a sfruttare al meglio Aspose.Imaging nei tuoi progetti Java. Buon coding!
 

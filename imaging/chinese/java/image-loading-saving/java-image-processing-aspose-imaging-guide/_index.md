@@ -181,7 +181,7 @@ rasterImage.save(outputDir + "filtered_image.jpg");
 - **购买**： [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用**： [免费试用 Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **临时执照**： [申请临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持**： [Aspose 成像论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**： [Aspose 成像论坛](https://forum.aspose.com/c/imaging/14)
 
 满怀信心地踏上你的图像处理之旅，相信你拥有取得成功所需的工具和知识。祝你编码愉快！
 

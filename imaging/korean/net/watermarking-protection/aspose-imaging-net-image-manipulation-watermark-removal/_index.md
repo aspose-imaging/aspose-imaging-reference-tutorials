@@ -167,7 +167,7 @@ File.Delete(Path.Combine(dataDir, "ball.png")); // 필요한 경우 원본 파�
 - **라이센스 구매**: [지금 구매하세요](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료 체험판 시작하기](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [여기에서 요청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [질문하기](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [질문하기](https://forum.aspose.com/c/imaging/14)
 
 이러한 리소스를 활용하면 Aspose.Imaging과 그 기능을 완벽하게 익힐 수 있는 탄탄한 기반을 갖추게 될 것입니다. 즐거운 코딩 되세요!
 

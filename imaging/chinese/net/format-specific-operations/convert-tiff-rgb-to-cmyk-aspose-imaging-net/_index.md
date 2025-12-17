@@ -140,7 +140,7 @@ image.Save(outputFilePath, tiffOptions);
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用版](https://releases.aspose.com/imaging/net/)
 - [临时执照申请](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 按照本指南操作，您将能够熟练掌握使用 Aspose.Imaging for .NET 进行图像色彩空间转换的技能。祝您编码愉快！
 

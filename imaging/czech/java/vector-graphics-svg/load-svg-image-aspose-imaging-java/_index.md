@@ -178,7 +178,7 @@ Chcete-li se blíže seznámit s Aspose.Imaging, zvažte ponoření se do dalš�
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Stáhnout zkušební verzi zdarma](https://releases.aspose.com/imaging/java/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Nyní, když máte znalosti pro načítání SVG obrázků pomocí Aspose.Imaging pro Javu, pusťte se do svých projektů s jistotou a kreativitou!
 

@@ -190,7 +190,7 @@ Como próximos passos, considere explorar recursos adicionais, como redimensiona
 - **Comprar:** [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Teste gratuito do Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licença temporária:** [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar:** [Fórum de Imagem Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar:** [Fórum de Imagem Aspose](https://forum.aspose.com/c/imaging/14)
 
 Embarque em sua jornada para o processamento avançado de imagens com o Aspose.Imaging para Java e libere novos potenciais em seus aplicativos!
 

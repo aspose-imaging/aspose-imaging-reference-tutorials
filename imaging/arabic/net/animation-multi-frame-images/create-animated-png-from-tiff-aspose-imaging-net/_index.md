@@ -170,7 +170,7 @@ string outputFile = Path.Combine(outDir, "img4.tif.500ms.png");
 ج: نعم، يمكنك تعيين أوقات إطارات مخصصة باستخدام `ApngOptions`.
 
 **س: كيف يمكنني استكشاف الأخطاء وإصلاحها باستخدام Aspose.Imaging؟**
-أ: راجع منتدى الدعم [هنا](https://forum.aspose.com/c/imaging/10) للحصول على المساعدة.
+أ: راجع منتدى الدعم [هنا](https://forum.aspose.com/c/imaging/14) للحصول على المساعدة.
 
 ## موارد
 - **التوثيق**: [مرجع Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -178,7 +178,7 @@ string outputFile = Path.Combine(outDir, "img4.tif.500ms.png");
 - **شراء**: [شراء ترخيص](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [ابدأ مجانًا](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [تقدم هنا](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

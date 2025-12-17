@@ -184,7 +184,7 @@ Klaar voor de volgende uitdaging? Implementeer deze technieken en zie je product
 - **Aankoop**: Overweeg de aanschaf van een licentie voor langdurig gebruik op [Aspose Aankooppagina](https://purchase.aspose.com/buy).
 - **Gratis proefperiode**: Begin met een gratis proefperiode om de functies te verkennen op [Aspose Imaging gratis proefperiode](https://releases.aspose.com/imaging/java/).
 - **Tijdelijke licentie**:Verkrijg een tijdelijke licentie voor uitgebreide tests.
-- **Steun**: Sluit je aan bij het communityforum voor hulp op [Aspose Forum](https://forum.aspose.com/c/imaging/10). 
+- **Steun**: Sluit je aan bij het communityforum voor hulp op [Aspose Forum](https://forum.aspose.com/c/imaging/14). 
 
 Met deze uitgebreide handleiding bent u goed toegerust om JPEG-beeldverwerking met Aspose.Imaging voor Java aan te pakken. Veel plezier met coderen!
 

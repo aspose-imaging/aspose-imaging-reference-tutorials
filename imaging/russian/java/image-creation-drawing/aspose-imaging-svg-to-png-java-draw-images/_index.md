@@ -236,7 +236,7 @@ try (SvgImage resultImage = graphics.endRecording()) {
 - [Купить лицензию](https://purchase.aspose.com/buy)
 - [Информация о бесплатной пробной версии](https://releases.aspose.com/imaging/java/)
 - [Сведения о временной лицензии](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Это всеобъемлющее руководство должно помочь вам легко интегрировать Aspose.Imaging для Java в ваши проекты, обеспечивая эффективные и универсальные возможности манипулирования изображениями. Удачного кодирования!
 

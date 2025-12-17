@@ -211,7 +211,7 @@ image.save("YOUR_OUTPUT_DIRECTORY" + "/Sample.svgz", svgOptions);
 - [購買](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/java/)
 - [臨時執照](https://purchase.aspose.com/temporary-license/)
-- [支援論壇](https://forum.aspose.com/c/imaging/10)
+- [支援論壇](https://forum.aspose.com/c/imaging/14)
 
 透過利用這些資源，您可以進一步探索 Aspose.Imaging 的功能，並使用強大的映像處理功能來增強您的 Java 應用程式。
 

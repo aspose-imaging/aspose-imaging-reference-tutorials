@@ -157,7 +157,7 @@ A: Aspose.Imaging'in toplu işleme yeteneklerinden yararlanarak aynı anda birde
 A: Performans çok büyük dosyalarda değişebilse de Aspose.Imaging önemli miktardaki görüntü verilerini verimli bir şekilde işleyecek şekilde tasarlanmıştır.
 
 **S5: Sorunlarla karşılaşırsam hangi destek seçenekleri mevcut?**
-A: Sorun giderme ipuçları için ayrıntılı belgelere ve topluluk forumlarına erişin [Aspose Desteği](https://forum.aspose.com/c/imaging/10).
+A: Sorun giderme ipuçları için ayrıntılı belgelere ve topluluk forumlarına erişin [Aspose Desteği](https://forum.aspose.com/c/imaging/14).
 
 ## Kaynaklar
 - **Belgeleme**: [Aspose.Imaging .NET Belgeleri](https://reference.aspose.com/imaging/net/)

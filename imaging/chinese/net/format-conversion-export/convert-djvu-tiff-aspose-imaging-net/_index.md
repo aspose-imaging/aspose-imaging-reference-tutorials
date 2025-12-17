@@ -213,7 +213,7 @@ using (DjvuImage image = (DjvuImage)Image.Load(dataDir))
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用版下载](https://releases.aspose.com/imaging/net/)
 - [临时许可证申请](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 本指南旨在为您提供使用 Aspose.Imaging for .NET 高效转换 DjVu 图像所需的知识和工具。祝您编码愉快！
 

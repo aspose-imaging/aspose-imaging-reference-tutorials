@@ -174,7 +174,7 @@ Aspose.Imaging for Java を使用して TIFF フレームを BMP ファイルに
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging Java を使用して画像処理をマスターし、TIFF 画像の処理における新たな可能性を解き放ちましょう。
 

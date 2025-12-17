@@ -146,7 +146,7 @@ Ready to try it out? Implement this solution in your next project and see how it
 - **Purchase**: [Acquire a License](https://purchase.aspose.com/buy)
 - **Free Trial**: [Get Started with Free Trial](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum**: [Aspose Support](https://forum.aspose.com/c/imaging/10)
+- **Support Forum**: [Aspose Support](https://forum.aspose.com/c/imaging/14)
 
 This tutorial is designed to guide you through using Aspose.Imaging for .NET effectively, ensuring you get the most out of this powerful library. Happy coding!
 

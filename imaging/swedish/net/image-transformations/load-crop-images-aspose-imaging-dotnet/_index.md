@@ -180,7 +180,7 @@ För att ytterligare utöka dina kunskaper, överväg att utforska ytterligare f
 - **Köplicens:** https://purchase.aspose.com/buy
 - **Gratis provperiod:** https://releases.aspose.com/imaging/net/
 - **Tillfällig licens:** https://purchase.aspose.com/temporary-license/
-- **Supportforum:** https://forum.aspose.com/c/imaging/10
+- **Supportforum:** https://forum.aspose.com/c/imaging/14
 
 Börja integrera dessa bildhanteringstekniker i dina projekt idag och se skillnaden i prestanda och effektivitet!
 

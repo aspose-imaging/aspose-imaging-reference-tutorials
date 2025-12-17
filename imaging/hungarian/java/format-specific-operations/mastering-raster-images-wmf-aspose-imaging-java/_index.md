@@ -159,7 +159,7 @@ Ezzel az oktatóanyaggal megtanultad, hogyan tölthetsz be és rajzolhatsz raszt
 - **Vásárlási lehetőségek:** https://purchase.aspose.com/buy
 - **Ingyenes próbaverzió:** https://releases.aspose.com/imaging/java/
 - **Ideiglenes engedély:** https://purchase.aspose.com/temporary-license/
-- **Támogatási fórum:** https://forum.aspose.com/c/imaging/10
+- **Támogatási fórum:** https://forum.aspose.com/c/imaging/14
 
 Az Aspose.Imaging for Java kihasználásával fejlett képfeldolgozási képességekkel bővítheted alkalmazásaidat. Jó kódolást!
 

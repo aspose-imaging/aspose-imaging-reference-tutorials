@@ -138,7 +138,7 @@ Prêt à passer à l'étape suivante ? Essayez d'implémenter cette solution da
 - **Achat**: [Acheter des produits Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Essayez Aspose.Imaging gratuitement](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Demander une licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

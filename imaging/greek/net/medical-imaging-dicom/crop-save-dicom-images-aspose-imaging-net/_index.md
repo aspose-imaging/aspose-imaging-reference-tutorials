@@ -184,7 +184,7 @@ saveAsBMP(image, outputPath);
 - **Άδεια Αγοράς:** [Αγοράστε προϊόντα Aspose](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Δωρεάν δοκιμές Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια:** [Λήψη προσωρινής άδειας](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ υποστήριξης:** [Κοινότητα Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ υποστήριξης:** [Κοινότητα Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

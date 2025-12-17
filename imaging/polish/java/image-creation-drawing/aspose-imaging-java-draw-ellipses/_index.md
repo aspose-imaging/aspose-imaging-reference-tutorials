@@ -206,7 +206,7 @@ Dzięki temu przewodnikowi nauczyłeś się rysować elipsy zarówno z kropkowan
 - **Zakup**: https://purchase.aspose.com/buy
 - **Bezpłatna wersja próbna**: https://releases.aspose.com/imaging/java/
 - **Licencja tymczasowa**: https://purchase.aspose.com/temporary-license/
-- **Wsparcie**: https://forum.aspose.com/c/imaging/10
+- **Wsparcie**: https://forum.aspose.com/c/imaging/14
 
 Mamy nadzieję, że ten samouczek był dla Ciebie pomocny. Miłego kodowania!
 

@@ -198,7 +198,7 @@ Aspose.Imaging for Java 的功能非常强大，远远超出了基本的图像�
 - **购买**： [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用**： [尝试 Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **临时执照**： [申请临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持**： [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**： [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 有了这份全面的指南，您现在已经做好了充分准备，可以使用 Java 中的 Aspose.Imaging 进行图像处理。祝您编程愉快！
 

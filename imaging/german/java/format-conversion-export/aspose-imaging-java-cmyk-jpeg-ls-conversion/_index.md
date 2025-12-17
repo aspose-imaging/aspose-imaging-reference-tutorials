@@ -173,7 +173,7 @@ Um die Möglichkeiten von Aspose.Imaging weiter zu erkunden, sollten Sie tiefer 
    - Erwägen Sie, den Prozess in kleinere Teile aufzuteilen, oder verwenden Sie speichereffiziente Methoden, die von der Bibliothek bereitgestellt werden.
 
 5. **Wo erhalte ich Unterstützung, wenn Probleme auftreten?**
-   - Besuchen [Asposes Support-Forum](https://forum.aspose.com/c/imaging/10) für Unterstützung durch Community-Experten und Aspose-Mitarbeiter.
+   - Besuchen [Asposes Support-Forum](https://forum.aspose.com/c/imaging/14) für Unterstützung durch Community-Experten und Aspose-Mitarbeiter.
 
 ## Ressourcen
 

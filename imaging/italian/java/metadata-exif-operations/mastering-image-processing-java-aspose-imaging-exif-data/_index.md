@@ -217,7 +217,7 @@ Prossimi passi? Prova a implementare queste tecniche nei tuoi progetti ed esplor
 - [Acquista licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Richiesta di licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Ora che hai tutti gli strumenti e le conoscenze a disposizione, è il momento di iniziare a implementare queste potenti funzionalità nelle tue applicazioni Java!
 

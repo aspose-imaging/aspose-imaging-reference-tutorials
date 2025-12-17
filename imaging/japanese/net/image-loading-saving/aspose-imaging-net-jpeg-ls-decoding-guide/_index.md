@@ -153,7 +153,7 @@ A5: 圧縮プロパティを調整するには、 `JpegOptions` クラスを選�
 - **ライセンスを購入**： [Aspose Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose Imaging のダウンロード](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

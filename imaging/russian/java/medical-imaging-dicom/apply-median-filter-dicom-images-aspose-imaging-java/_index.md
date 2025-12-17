@@ -185,7 +185,7 @@ A: Используйте разные `ImageOptions` классы, предос
 - **Лицензия на покупку**: [Купить сейчас](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Начать](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия**: [Подать заявку здесь](https://purchase.aspose.com/temporary-license/)
-- **Форум поддержки**: [Поддержка Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Форум поддержки**: [Поддержка Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Начните изучать мощные возможности обработки изображений Aspose.Imaging для Java уже сегодня!
 

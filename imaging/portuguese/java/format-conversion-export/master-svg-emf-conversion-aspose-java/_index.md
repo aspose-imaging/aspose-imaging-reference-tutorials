@@ -204,7 +204,7 @@ R5: Use recursos de processamento em lote e garanta que sua JVM tenha alocação
 - [Baixe Aspose.Imaging para Java](https://releases.aspose.com/imaging/java/)
 - [Comprar uma licença](https://purchase.aspose.com/buy)
 - [Teste gratuito e licença temporária](https://releases.aspose.com/imaging/java/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Explore estes recursos para expandir seus conhecimentos e capacidades com o Aspose.Imaging para Java. Boa programação!
 

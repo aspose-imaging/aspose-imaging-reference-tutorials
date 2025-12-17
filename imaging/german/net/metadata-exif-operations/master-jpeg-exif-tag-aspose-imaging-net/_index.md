@@ -149,7 +149,7 @@ A3: Implementieren Sie Try-Catch-Blöcke um Ihren Bildladecode, um Ausnahmen ord
 A4: Ja, Sie können mit der umfassenden API von Aspose.Imaging EXIF-Tags sowohl lesen als auch schreiben.
 
 **F5: Wo erhalte ich Unterstützung, wenn Probleme auftreten?**
-A5: Besuchen Sie die [Aspose.Imaging-Forum](https://forum.aspose.com/c/imaging/10) für die Unterstützung durch die Community und von offizieller Seite.
+A5: Besuchen Sie die [Aspose.Imaging-Forum](https://forum.aspose.com/c/imaging/14) für die Unterstützung durch die Community und von offizieller Seite.
 
 ## Ressourcen
 

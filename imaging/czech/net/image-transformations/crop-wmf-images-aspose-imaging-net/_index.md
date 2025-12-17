@@ -138,7 +138,7 @@ Jako další krok zvažte prozkoumání dalších funkcí Aspose.Imaging, jako j
 **A4:** Ano, Aspose.Imaging podporuje širokou škálu formátů včetně PNG, JPEG, TIFF atd.
 
 **Otázka 5:** Jak získám podporu, pokud narazím na problémy?
-**A5:** Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) o pomoc.
+**A5:** Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) o pomoc.
 
 ## Zdroje
 - **Dokumentace:** Prozkoumejte podrobné průvodce a reference API na [Dokumentace k zobrazování Aspose](https://reference.aspose.com/imaging/net/)

@@ -165,7 +165,7 @@ Da el siguiente paso experimentando con diferentes configuraciones y casos de us
 - **Compra:** Compre una licencia en [Página de licencias de Aspose](https://purchase.aspose.com/buy).
 - **Prueba gratuita:** Pruebe Aspose.Imaging con una prueba gratuita disponible en su página de lanzamiento.
 - **Licencia temporal:** Obtenga acceso extendido a través de la opción de licencia temporal.
-- **Apoyo:** Únase a las discusiones o busque ayuda en el [Foro de Aspose](https://forum.aspose.com/c/imaging/10).
+- **Apoyo:** Únase a las discusiones o busque ayuda en el [Foro de Aspose](https://forum.aspose.com/c/imaging/14).
 
 ¡Siéntase animado a experimentar e integrar el acceso a transmisiones sincronizadas en sus proyectos Java para lograr una mayor estabilidad y rendimiento!
 

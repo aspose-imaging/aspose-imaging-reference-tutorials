@@ -214,7 +214,7 @@ Các bước tiếp theo có thể bao gồm khám phá các tính năng bổ su
 - [Tùy chọn cấp phép mua hàng](https://purchase.aspose.com/buy)
 - [Bắt đầu với bản dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Thông tin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Hỗ trợ cộng đồng và diễn đàn](https://forum.aspose.com/c/imaging/10)
+- [Hỗ trợ cộng đồng và diễn đàn](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách tận dụng các tài nguyên này, bạn có thể hiểu sâu hơn về Aspose.Imaging for Java và áp dụng hiệu quả vào các dự án của mình. Chúc bạn viết code vui vẻ!
 

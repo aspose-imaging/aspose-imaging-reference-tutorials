@@ -156,7 +156,7 @@ W celu uzyskania dalszych informacji i pomocy:
 - **Zakup**: [Kup licencję](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Wypróbuj Aspose.Imaging już teraz](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa**: [Zapytaj tutaj](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**:Odwiedź [Forum Aspose](https://forum.aspose.com/c/imaging/10) w celu uzyskania pomocy i dyskusji społeczności.
+- **Wsparcie**:Odwiedź [Forum Aspose](https://forum.aspose.com/c/imaging/14) w celu uzyskania pomocy i dyskusji społeczności.
 
 Opanowując te techniki, będziesz dobrze wyposażony, aby pewnie zająć się szerokim zakresem zadań przetwarzania obrazu. Szczęśliwego kodowania!
 

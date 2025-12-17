@@ -216,7 +216,7 @@ Ya dominas las técnicas esenciales para redimensionar, recortar y rotar imágen
 - **Compra**: [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Prueba gratuita de Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal**: [Solicitar licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 ¡Embárquese en su viaje de manipulación de imágenes con confianza utilizando Aspose.Imaging para .NET!
 

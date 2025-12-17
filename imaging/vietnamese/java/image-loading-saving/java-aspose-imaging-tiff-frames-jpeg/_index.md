@@ -254,7 +254,7 @@ Khám phá thêm nhiều tính năng của Aspose.Imaging bằng cách khám ph�
 - **Tài liệu:** Khám phá hướng dẫn chi tiết tại [Tài liệu Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - **Tải xuống:** Nhận phiên bản mới nhất từ [Aspose.Imaging phát hành](https://releases.aspose.com/imaging/java/).
 - **Mua và dùng thử:** Truy cập các tùy chọn mua hàng hoặc bắt đầu dùng thử miễn phí tại [Trang mua hàng Aspose](https://purchase.aspose.com/buy) Và [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/).
-- **Ủng hộ:** Đối với các câu hỏi, hãy truy cập [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10).
+- **Ủng hộ:** Đối với các câu hỏi, hãy truy cập [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

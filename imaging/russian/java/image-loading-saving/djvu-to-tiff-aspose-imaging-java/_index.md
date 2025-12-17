@@ -297,7 +297,7 @@ public class SaveAsTiff {
 - **Покупка:** [Купить Aspose.Imaging для Java](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия:** [Попробуйте Aspose.Imaging бесплатно](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия:** [Запросить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать:** [Форум Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать:** [Форум Aspose](https://forum.aspose.com/c/imaging/14)
 
 Следуя этому руководству, вы вооружились навыками для эффективной обработки преобразований DjVu в TIFF. Продолжайте изучать и улучшать свои приложения Java с помощью Aspose.Imaging!
 

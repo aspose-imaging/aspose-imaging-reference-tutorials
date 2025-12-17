@@ -249,7 +249,7 @@ Nästa steg inkluderar att utforska mer avancerade funktioner i Aspose.Imaging e
 - [Köpa](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Stöd](https://forum.aspose.com/c/imaging/10)
+- [Stöd](https://forum.aspose.com/c/imaging/14)
 
 Försök att implementera den här lösningen i ditt nästa projekt för att utnyttja kraften i Aspose.Imaging för Java!
 

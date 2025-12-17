@@ -126,7 +126,7 @@ A5: Ναι, το Aspose.Imaging υποστηρίζει περιβάλλοντα 
 - [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - [Αποκτήστε μια δωρεάν δοκιμή](https://releases.aspose.com/imaging/net/)
 - [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

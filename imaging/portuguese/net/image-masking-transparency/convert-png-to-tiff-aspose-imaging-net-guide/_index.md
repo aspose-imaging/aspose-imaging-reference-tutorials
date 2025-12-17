@@ -144,7 +144,7 @@ R5: Outras opções populares incluem ImageSharp e SkiaSharp, mas o Aspose.Imagi
 - **Comprar**: [Compre uma licença](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Começar](https://releases.aspose.com/imaging/net/)
 - **Licença Temporária**: [Solicite aqui](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

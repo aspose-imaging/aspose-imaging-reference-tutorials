@@ -166,7 +166,7 @@ Aspose.Imaging .NETを使用して、CDR形式のベクター画像をPSD形式�
 - **購入**ライセンスを購入する [Aspose 購入ポータル](https://purchase。aspose.com/buy).
 - **無料トライアル**無料トライアルを開始するには [ダウンロード](https://releases。aspose.com/imaging/net/).
 - **一時ライセンス**リクエスト [ここ](https://purchase。aspose.com/temporary-license/).
-- **サポート**コミュニティに参加しましょう [Aspose フォーラム](https://forum.aspose.com/c/imaging/10) ヘルプとディスカッションのため。
+- **サポート**コミュニティに参加しましょう [Aspose フォーラム](https://forum.aspose.com/c/imaging/14) ヘルプとディスカッションのため。
 
 このガイドが、ベクター画像のエクスポート機能をプロジェクトに統合する一助になれば幸いです。コーディングを楽しみましょう！
 

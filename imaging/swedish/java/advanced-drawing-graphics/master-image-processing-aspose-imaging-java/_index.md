@@ -194,7 +194,7 @@ A: Absolut – det körs var som helst Java stöds, inklusive Windows, Linux och
 - **Köp**: [Buy Aspose Products](https://purchase.aspose.com/buy)
 - **Gratis provversion**: [Start a Free Trial](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Nu, beväpnad med denna kunskap, är du redo att implementera Aspose.Imaging i dina Java‑projekt för förbättrade bildbehandlingsmöjligheter. Lycka till med kodningen!
 

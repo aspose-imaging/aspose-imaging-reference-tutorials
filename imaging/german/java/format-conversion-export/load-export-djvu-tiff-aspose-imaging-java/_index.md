@@ -203,7 +203,7 @@ Sind Sie bereit, diese Lösungen in Ihren eigenen Projekten zu implementieren? T
 - **Kaufen**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Holen Sie sich eine kostenlose Lizenz](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Fordern Sie eine temporäre Lizenz an](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Community Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Community Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit Aspose.Imaging für Java können Sie Ihre Dokumentverarbeitungs-Workflows optimieren und DjVu-Dateien problemlos bearbeiten. Viel Spaß beim Programmieren!
 

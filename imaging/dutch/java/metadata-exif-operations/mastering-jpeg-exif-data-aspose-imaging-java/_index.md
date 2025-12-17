@@ -169,7 +169,7 @@ A3: De bibliotheek zal dergelijke gevallen op een elegante manier afhandelen doo
 A4: De proefversie kan gebruiksbeperkingen hebben, zoals een watermerk of verwerkingslimieten.
 
 **V5: Hoe kan ik ondersteuning krijgen als ik problemen ondervind met Aspose.Imaging?**
-A5: Bezoek de [Aspose-forums](https://forum.aspose.com/c/imaging/10) voor steun van de gemeenschap en de overheid.
+A5: Bezoek de [Aspose-forums](https://forum.aspose.com/c/imaging/14) voor steun van de gemeenschap en de overheid.
 
 ## Bronnen
 
@@ -178,7 +178,7 @@ A5: Bezoek de [Aspose-forums](https://forum.aspose.com/c/imaging/10) voor steun 
 - **Aankoop**: Verkrijg een licentie via [Aspose Aankoop](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: Begin met een gratis proefperiode bij [Aspose.Imaging gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: Vraag een tijdelijke licentie aan bij [Aspose Tijdelijke Licentie](https://purchase.aspose.com/temporary-license/)
-- **Steun**: Doe mee aan de discussie in [Aspose-ondersteuningsforums](https://forum.aspose.com/c/imaging/10)
+- **Steun**: Doe mee aan de discussie in [Aspose-ondersteuningsforums](https://forum.aspose.com/c/imaging/14)
 
 Ga op reis met Aspose.Imaging voor Java en ontdek vandaag nog nieuwe mogelijkheden op het gebied van beeldverwerking!
 

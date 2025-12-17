@@ -190,7 +190,7 @@ Aspose.Imaging은 강력하지만, 성능을 최적화하면 작업이 더욱 �
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/net/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이러한 리소스와 팁을 활용하면 Aspose.Imaging for .NET을 사용하여 이미지 조작 문제를 해결하는 데 큰 도움이 될 것입니다. 즐거운 코딩 되세요!
 

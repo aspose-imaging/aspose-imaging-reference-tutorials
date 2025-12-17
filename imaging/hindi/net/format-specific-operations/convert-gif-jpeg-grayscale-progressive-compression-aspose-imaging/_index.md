@@ -153,7 +153,7 @@ original.Save("YOUR_DOCUMENT_DIRECTORY/ConvertedImage.jpg", jpegOptions);
 - **खरीद लाइसेंस**: [Aspose खरीद पृष्ठ](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [Aspose.Imaging को निःशुल्क आज़माएँ](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच**: [Aspose समर्थन समुदाय](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच**: [Aspose समर्थन समुदाय](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging के साथ रूपांतरण प्रक्रिया में महारत हासिल करके, आप अपने .NET अनुप्रयोगों में जटिल छवि प्रसंस्करण कार्यों को कुशलतापूर्वक संभालने के लिए सुसज्जित हैं। हैप्पी कोडिंग!
 

@@ -222,7 +222,7 @@ Redo att implementera det du har lärt dig? Försök att konvertera och ändra s
 - [Aspose.Imaging för Java-dokumentation](https://reference.aspose.com/imaging/java/)
 - [Ladda ner Aspose.Imaging för Java](https://releases.aspose.com/imaging/java/)
 - [Köp en licens eller få en gratis provperiod](https://purchase.aspose.com/buy)
-- [Få stöd från communityforumet](https://forum.aspose.com/c/imaging/10)
+- [Få stöd från communityforumet](https://forum.aspose.com/c/imaging/14)
 
 Med dessa resurser och den här guiden är du väl rustad att börja transformera SVG-bilder med tillförsikt med Aspose.Imaging för Java. Lycka till med kodningen!
 

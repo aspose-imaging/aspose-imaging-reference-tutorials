@@ -167,7 +167,7 @@ i++;
 - **ซื้อ**- [ซื้อใบอนุญาตสำหรับ Aspose.Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [เริ่มต้นด้วยการทดลองใช้ฟรี](https://releases.aspose.com/imaging/net/)
 - **ใบอนุญาตชั่วคราว**- [ขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน**- [ฟอรั่มการถ่ายภาพ Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน**- [ฟอรั่มการถ่ายภาพ Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

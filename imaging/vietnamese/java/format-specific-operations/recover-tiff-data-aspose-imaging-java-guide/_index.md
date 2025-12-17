@@ -227,7 +227,7 @@ Tiếp theo, hãy cân nhắc khám phá các tính năng nâng cao hơn của A
    - Có, với giấy phép phù hợp, nó lý tưởng cho các ứng dụng chuyên nghiệp và doanh nghiệp.
 
 5. **Tôi có thể tìm thêm tài nguyên về Aspose.Imaging ở đâu?**
-   - Thăm nom [Tài liệu Aspose](https://reference.aspose.com/imaging/java/) và [diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10) để có hướng dẫn chi tiết và trợ giúp từ cộng đồng.
+   - Thăm nom [Tài liệu Aspose](https://reference.aspose.com/imaging/java/) và [diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14) để có hướng dẫn chi tiết và trợ giúp từ cộng đồng.
 
 ## Tài nguyên
 
@@ -236,7 +236,7 @@ Tiếp theo, hãy cân nhắc khám phá các tính năng nâng cao hơn của A
 - **Mua**: https://purchase.aspose.com/buy
 - **Dùng thử miễn phí**: https://releases.aspose.com/imaging/java/
 - **Giấy phép tạm thời**: https://purchase.aspose.com/temporary-license/
-- **Ủng hộ**: https://forum.aspose.com/c/imaging/10
+- **Ủng hộ**: https://forum.aspose.com/c/imaging/14
 
 Hãy bắt đầu hành trình làm chủ công cụ khôi phục hình ảnh TIFF với Aspose.Imaging for Java ngay hôm nay!
 

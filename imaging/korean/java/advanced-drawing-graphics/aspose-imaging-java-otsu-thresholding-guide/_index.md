@@ -187,7 +187,7 @@ class FeatureSaveProcessedImage {
 
 이제 Aspose.Imaging for Java를 사용하여 이진화 기법을 사용하여 이미지를 로드, 처리 및 저장하는 기본 방법을 익혔습니다. 고급 필터링이나 형식 변환 등 라이브러리에서 제공하는 다른 기능들을 살펴보며 더욱 깊이 있게 실험해 보세요.
 
-다음 단계는 이 기능을 프로젝트에 통합하고 다양한 이미지 유형과 처리 시나리오를 실험하는 것입니다. [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10) 궁금한 점이 있으면 문의하세요!
+다음 단계는 이 기능을 프로젝트에 통합하고 다양한 이미지 유형과 처리 시나리오를 실험하는 것입니다. [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14) 궁금한 점이 있으면 문의하세요!
 
 ## FAQ 섹션
 

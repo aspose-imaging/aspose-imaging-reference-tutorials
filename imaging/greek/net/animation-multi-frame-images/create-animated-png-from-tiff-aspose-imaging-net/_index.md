@@ -170,7 +170,7 @@ string outputFile = Path.Combine(outDir, "img4.tif.500ms.png");
 Α: Ναι, μπορείτε να ορίσετε προσαρμοσμένους χρόνους καρέ χρησιμοποιώντας `ApngOptions`.
 
 **Ε: Πώς μπορώ να αντιμετωπίσω προβλήματα με το Aspose.Imaging;**
-Α: Ανατρέξτε στο φόρουμ υποστήριξης [εδώ](https://forum.aspose.com/c/imaging/10) για βοήθεια.
+Α: Ανατρέξτε στο φόρουμ υποστήριξης [εδώ](https://forum.aspose.com/c/imaging/14) για βοήθεια.
 
 ## Πόροι
 - **Απόδειξη με έγγραφα**: [Αναφορά Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -178,7 +178,7 @@ string outputFile = Path.Combine(outDir, "img4.tif.500ms.png");
 - **Αγορά**: [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε δωρεάν](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Κάντε αίτηση εδώ](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

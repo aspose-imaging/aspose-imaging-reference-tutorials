@@ -162,7 +162,7 @@ Bạn đã học thành công cách đồng bộ hóa quyền truy cập vào `M
 - **Giấy phép mua hàng:** [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Aspose.Imaging dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời:** [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ:** [Hỗ trợ hình ảnh Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** [Hỗ trợ hình ảnh Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

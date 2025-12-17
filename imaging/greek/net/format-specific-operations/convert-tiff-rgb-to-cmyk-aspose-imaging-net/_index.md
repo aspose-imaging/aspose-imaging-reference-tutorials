@@ -140,7 +140,7 @@ image.Save(outputFilePath, tiffOptions);
 - [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμαστική έκδοση](https://releases.aspose.com/imaging/net/)
 - [Αίτηση Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, θα είστε πλήρως εξοπλισμένοι για να τελειοποιήσετε τη μετατροπή χρωματικού χώρου εικόνας χρησιμοποιώντας το Aspose.Imaging για .NET. Καλή κωδικοποίηση!
 

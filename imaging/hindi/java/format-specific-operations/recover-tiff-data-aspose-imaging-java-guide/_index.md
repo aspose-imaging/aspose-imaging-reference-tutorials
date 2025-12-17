@@ -227,7 +227,7 @@ TIFF डेटा रिकवरी के साथ काम करते स
    - हां, उचित लाइसेंस के साथ, यह व्यावसायिक और उद्यम अनुप्रयोगों के लिए आदर्श है।
 
 5. **मैं Aspose.Imaging के बारे में अधिक संसाधन कहां पा सकता हूं?**
-   - मिलने जाना [Aspose दस्तावेज़ीकरण](https://reference.aspose.com/imaging/java/) और यह [सहयता मंच](https://forum.aspose.com/c/imaging/10) विस्तृत मार्गदर्शन और सामुदायिक सहायता के लिए.
+   - मिलने जाना [Aspose दस्तावेज़ीकरण](https://reference.aspose.com/imaging/java/) और यह [सहयता मंच](https://forum.aspose.com/c/imaging/14) विस्तृत मार्गदर्शन और सामुदायिक सहायता के लिए.
 
 ## संसाधन
 
@@ -236,7 +236,7 @@ TIFF डेटा रिकवरी के साथ काम करते स
 - **खरीदना**: https://purchase.aspose.com/buy
 - **मुफ्त परीक्षण**: https://releases.aspose.com/imaging/java/
 - **अस्थायी लाइसेंस**: https://purchase.aspose.com/temporary-license/
-- **सहायता**: https://forum.aspose.com/c/imaging/10
+- **सहायता**: https://forum.aspose.com/c/imaging/14
 
 आज ही Aspose.Imaging for Java के साथ TIFF इमेज रिकवरी में महारत हासिल करने की अपनी यात्रा शुरू करें!
 

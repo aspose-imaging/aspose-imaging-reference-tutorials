@@ -171,7 +171,7 @@ Consider splitting large images into smaller segments before conversion to manag
 - **Purchase**: [Buy Aspose License](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Aspose.Imaging for Free](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Start your journey with Aspose.Imaging today and transform your image processing tasks into streamlined workflows.
 

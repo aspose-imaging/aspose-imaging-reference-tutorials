@@ -191,7 +191,7 @@ Gotowy, aby wykorzystać swoje nowo odkryte umiejętności? Spróbuj wdrożyć t
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/net/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Skorzystaj z tych zasobów, aby pogłębić swoje zrozumienie i udoskonalić implementację Aspose.Imaging dla .NET. Miłego kodowania!
 

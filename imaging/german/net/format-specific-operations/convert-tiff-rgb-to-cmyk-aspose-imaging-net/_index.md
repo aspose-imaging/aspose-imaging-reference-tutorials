@@ -140,7 +140,7 @@ Sie haben gelernt, wie Sie TIFF-RGB-Bilder mit Aspose.Imaging für .NET in CMYK 
 - [Erwerben Sie eine Lizenz](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/net/)
 - [Antrag auf eine vorübergehende Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit dieser Anleitung sind Sie bestens gerüstet, um die Farbraumkonvertierung von Bildern mit Aspose.Imaging für .NET zu meistern. Viel Spaß beim Programmieren!
 

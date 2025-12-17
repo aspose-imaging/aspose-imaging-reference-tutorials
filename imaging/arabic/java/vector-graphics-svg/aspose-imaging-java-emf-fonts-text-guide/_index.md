@@ -244,7 +244,7 @@ new File("YOUR_OUTPUT_DIRECTORY/result.png").delete();
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [تجربة مجانية لبرنامج Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى دعم Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى دعم Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 من خلال الاستفادة من Aspose.Imaging for Java، يمكنك دمج خطوط EMF عالية الجودة وعرض النصوص بسلاسة في تطبيقاتك، مما يعزز كل من الوظائف والجاذبية البصرية.
 

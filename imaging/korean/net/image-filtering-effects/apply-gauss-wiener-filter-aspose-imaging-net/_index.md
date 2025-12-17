@@ -133,7 +133,7 @@ image.Save(outputDir + "/ApplyGaussWienerFilter_out.gif");
 
 축하합니다! Aspose.Imaging .NET을 사용하여 컬러 이미지에 가우스 위너 필터를 성공적으로 적용했습니다. 이 튜토리얼은 이미지 처리 작업을 향상시켜 더욱 깔끔하고 정확한 결과를 얻는 데 필요한 지식을 제공합니다.
 
-Aspose.Imaging의 기능을 계속 살펴보려면 라이브러리에서 제공하는 다른 필터와 기능을 살펴보세요. 추가 질문이나 지원은 [Aspose 포럼](https://forum.aspose.com/c/imaging/10).
+Aspose.Imaging의 기능을 계속 살펴보려면 라이브러리에서 제공하는 다른 필터와 기능을 살펴보세요. 추가 질문이나 지원은 [Aspose 포럼](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ 섹션
 
@@ -158,7 +158,7 @@ A: 그 [Aspose 문서](https://reference.aspose.com/imaging/net/) 광범위한 �
 - **라이센스 구매:** [Aspose 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [평가판 라이센스](https://releases.aspose.com/imaging/net/)
 - **임시 면허:** [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼:** [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼:** [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 다음 자료를 살펴보고 이미지 처리 프로젝트에 대한 이해를 높이고 더욱 향상된 기능을 경험해 보세요. 즐거운 코딩 되세요!
 

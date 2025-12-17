@@ -126,7 +126,7 @@ A: Operace se nezdaří, proto je vhodné před pokusem o aktualizaci zkontrolov
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte Aspose.Imaging zdarma](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**V případě dotazů navštivte [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**V případě dotazů navštivte [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 S tímto komplexním průvodcem jste připraveni začít využívat Aspose.Imaging pro .NET ve svých projektech manipulace s obrázky DICOM. Přejeme vám příjemné programování!
 

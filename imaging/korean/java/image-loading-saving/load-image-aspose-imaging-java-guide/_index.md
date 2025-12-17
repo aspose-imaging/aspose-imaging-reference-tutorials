@@ -177,7 +177,7 @@ Aspose.Imaging의 추가 기능(예: 이미지 크기 조정, 변환)을 사용�
 - **선적 서류 비치**: 자세한 사용 시나리오를 살펴보세요. [Aspose.Imaging Java 문서](https://reference.aspose.com/imaging/java/).
 - **다운로드**: 최신 Aspose.Imaging 라이브러리를 받으세요. [Aspose 릴리스](https://releases.aspose.com/imaging/java/).
 - **구매 및 무료 체험**: 라이센스 취득에 대해 자세히 알아보세요. [구매 페이지](https://purchase.aspose.com/buy) 또는 무료 체험판으로 시작하세요.
-- **지원하다**: 문의사항은 다음으로 이동하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/10).
+- **지원하다**: 문의사항은 다음으로 이동하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

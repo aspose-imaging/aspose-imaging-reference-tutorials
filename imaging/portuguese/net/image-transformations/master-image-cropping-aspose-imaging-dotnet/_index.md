@@ -150,7 +150,7 @@ A5: As tarefas incluem redimensionamento, conversão de formato e edição avan�
 - **Comprar:** Explore as opções de licenciamento em [Aspose Compra](https://purchase.aspose.com/buy).
 - **Teste gratuito:** Comece com um teste via [aqui](https://releases.aspose.com/imaging/net/).
 - **Licença temporária:** Solicite um para testes estendidos através de [este link](https://purchase.aspose.com/temporary-license/).
-- **Apoiar:** Participe do fórum da comunidade em [Suporte Aspose](https://forum.aspose.com/c/imaging/10).
+- **Apoiar:** Participe do fórum da comunidade em [Suporte Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

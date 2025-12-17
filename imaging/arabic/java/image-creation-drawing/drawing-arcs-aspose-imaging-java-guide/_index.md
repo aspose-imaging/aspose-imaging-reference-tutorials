@@ -192,7 +192,7 @@ Aspose.Imaging Java هي مكتبة قوية لمعالجة الصور والت�
 - **شراء**: [شراء ترخيص Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جرب Aspose.Imaging مجانًا](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [اطلب هنا](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 استكشف هذه الموارد لتعميق فهمك وتوسيع إمكانيات Aspose.Imaging Java في مشاريعك. برمجة ممتعة!
 

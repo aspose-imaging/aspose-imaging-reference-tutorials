@@ -173,7 +173,7 @@ A: Yaygın sorunlar arasında bellek sızıntıları ve performans darboğazlar�
 - **Satın almak**: Lisans satın alın veya ücretsiz deneme edinin [Aspose Satın Alma](https://purchase.aspose.com/buy).
 - **Ücretsiz Deneme**: Bir denemeyle başlayın [Sürümler](https://releases.aspose.com/imaging/net/).
 - **Geçici Lisans**: Bir tane talep edin [Aspose](https://purchase.aspose.com/temporary-license/).
-- **Destek**: Yardım alın [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Destek**: Yardım alın [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Aspose.Imaging ile görüntü işleme konusunda uzmanlaşma yolculuğunuza başlayın ve uygulamalarınızı yeni zirvelere taşıyın!
 

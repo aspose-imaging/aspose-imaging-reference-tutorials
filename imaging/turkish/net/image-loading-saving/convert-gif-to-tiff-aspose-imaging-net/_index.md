@@ -154,7 +154,7 @@ Bu eğitimde, Aspose.Imaging for .NET kullanarak bir GIF'ten tek tek kareleri TI
 - [Aspose.Imaging'i indirin](https://releases.aspose.com/imaging/net/)
 - [Aspose Lisanslama Seçeneklerini Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme ve Geçici Lisans](https://releases.aspose.com/imaging/net/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

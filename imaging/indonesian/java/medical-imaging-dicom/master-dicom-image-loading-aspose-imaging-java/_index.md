@@ -160,7 +160,7 @@ A3: Pertimbangkan untuk mengoptimalkan penggunaan memori, menggunakan teknik pem
 A4: Meski kuat, pastikan lingkungan Anda memenuhi persyaratan yang diperlukan untuk kinerja optimal.
 
 **Q5: Pilihan dukungan apa yang tersedia jika saya mengalami masalah?**
-A5: Anda dapat mencari bantuan dari [Forum Pencitraan Aspose](https://forum.aspose.com/c/imaging/10) atau merujuk pada dokumentasi lengkap mereka.
+A5: Anda dapat mencari bantuan dari [Forum Pencitraan Aspose](https://forum.aspose.com/c/imaging/14) atau merujuk pada dokumentasi lengkap mereka.
 
 ## Sumber daya
 

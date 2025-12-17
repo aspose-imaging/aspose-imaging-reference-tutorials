@@ -250,7 +250,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **購買：** [購買 Aspose](https://purchase.aspose.com/buy)
 - **免費試用：** [開始免費試用](https://releases.aspose.com/imaging/java/)
 - **臨時執照：** [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 在您的 Java 專案中實現這些功能，解鎖新功能，並使用 Aspose.Imaging 簡化影像處理工作流程。祝您編碼愉快！
 

@@ -134,7 +134,7 @@ Sẵn sàng áp dụng những kỹ năng này vào thực tế? Triển khai gi
 - **Mua**: [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

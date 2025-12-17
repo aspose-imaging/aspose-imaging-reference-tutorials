@@ -178,7 +178,7 @@ Bạn đã sẵn sàng triển khai các giải pháp này chưa? Hãy thử áp
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Triển khai các kỹ thuật này vào các dự án Java của bạn để khai thác toàn bộ tiềm năng của Aspose.Imaging nhằm xử lý và chỉnh sửa hình ảnh liền mạch.
 

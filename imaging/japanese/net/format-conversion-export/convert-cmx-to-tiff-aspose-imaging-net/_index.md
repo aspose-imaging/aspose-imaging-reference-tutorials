@@ -182,7 +182,7 @@ image.Save(outputFilePath, tiffOptions);
 4. **変換後に TIFF ファイルが破損しているように見える場合はどうすればよいでしょうか?**
    - ラスタライズ オプションが画像の要件と一致していることを確認し、ファイル パスにエラーがないか確認します。
 5. **Aspose.Imaging で問題が発生した場合、サポートを受けることはできますか?**
-   - はい、 [Asposeフォーラム](https://forum.aspose.com/c/imaging/10) コミュニティ サポートについては、サポート チームに直接お問い合わせください。
+   - はい、 [Asposeフォーラム](https://forum.aspose.com/c/imaging/14) コミュニティ サポートについては、サポート チームに直接お問い合わせください。
 
 ## リソース
 - [Aspose.Imaging ドキュメント](https://reference.aspose.com/imaging/net/)

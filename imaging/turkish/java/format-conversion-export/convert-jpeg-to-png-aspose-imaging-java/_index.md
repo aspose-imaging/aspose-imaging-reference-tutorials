@@ -256,7 +256,7 @@ Aspose.Imaging for Java kullanarak CMYK ve YCCK profilleriyle JPEG görüntüler
 - **Satın almak:** [Aspose Lisanslama](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Başvurusunda Bulunun](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, projelerinizdeki JPEG resimlerini yönetmek ve dönüştürmek için Aspose.Imaging Java'yı etkili bir şekilde kullanabilirsiniz. Bugün deneyin!
 

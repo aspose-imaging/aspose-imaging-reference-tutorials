@@ -158,7 +158,7 @@ Az útmutató követésével megtanultad, hogyan adhatsz hozzá vízjeleket kép
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió letöltése](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezen források felhasználásával jobban felfedezheted és elsajátíthatod az Aspose.Imaging .NET-hez készült könyvtárat. Jó kódolást!
 

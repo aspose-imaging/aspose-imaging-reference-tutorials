@@ -221,7 +221,7 @@ Bây giờ bạn đã biết cách chuyển đổi hình ảnh WMF sang định 
 - [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn này nhằm mục đích cung cấp hướng dẫn rõ ràng và thiết thực về cách chuyển đổi hình ảnh bằng Aspose.Imaging cho Java, cung cấp cho bạn kiến thức để cải thiện ứng dụng web của mình một cách hiệu quả.
 

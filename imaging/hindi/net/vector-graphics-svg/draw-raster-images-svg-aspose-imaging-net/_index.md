@@ -187,7 +187,7 @@ using (SvgImage resultImage = graphics.EndRecording())
 - **खरीदना**: [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [शुरू हो जाओ](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [यहां अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
 
 आज ही Aspose.Imaging for .NET के साथ अपनी यात्रा शुरू करें और अपने अनुप्रयोगों में छवियों को संभालने के तरीके को बदलें!
 

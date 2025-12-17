@@ -178,7 +178,7 @@ A: Aspose.Imaging はパフォーマンスが最適化されていますが、�
 - **購入**： [Aspose.Imagingライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imagingの無料トライアルをお試しください](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Asposeフォーラムに参加してサポートを受ける](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Asposeフォーラムに参加してサポートを受ける](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを活用すれば、自信を持ってTIFF画像処理に取り組むことができます。コーディングを楽しみましょう！
 

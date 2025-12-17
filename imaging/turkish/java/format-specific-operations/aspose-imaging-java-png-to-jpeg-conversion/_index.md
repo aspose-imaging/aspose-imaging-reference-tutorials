@@ -225,7 +225,7 @@ Denemeye hazır mısınız? Bu teknikleri bir sonraki projenizde uygulayın ve p
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Erişimi](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Başvurusu](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı kılavuzla artık projelerinizde etkili görüntü işleme için Aspose.Imaging Java'yı kullanmaya hazırsınız. İyi kodlamalar!
 

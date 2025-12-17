@@ -198,7 +198,7 @@ A4: 네, 하지만 리소스를 효율적으로 관리하고 멀티스레딩을 
 
 **질문 5: Aspose.Imaging에서 문제가 발생하면 어떻게 추가 지원을 받을 수 있나요?**
 
-A5: 방문 [Aspose 포럼](https://forum.aspose.com/c/imaging/10) 커뮤니티 지원을 요청하거나 구매 페이지를 통해 고객 서비스에 직접 문의하세요.
+A5: 방문 [Aspose 포럼](https://forum.aspose.com/c/imaging/14) 커뮤니티 지원을 요청하거나 구매 페이지를 통해 고객 서비스에 직접 문의하세요.
 
 ## 자원
 

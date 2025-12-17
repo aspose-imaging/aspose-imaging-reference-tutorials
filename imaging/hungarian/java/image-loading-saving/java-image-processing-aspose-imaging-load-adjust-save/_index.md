@@ -215,7 +215,7 @@ Most már elsajátítottad a Java képfeldolgozás alapjait az Aspose.Imaging se
 - **Vásárlás**: [Vásároljon Aspose termékeket](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Kezdje itt](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Indulj el a Java képfeldolgozási utadra az Aspose.Imaging segítségével, és tárd fel a digitális képmanipuláció új lehetőségeit!
 

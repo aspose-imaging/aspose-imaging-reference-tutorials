@@ -182,7 +182,7 @@ In deze tutorial hebben we behandeld hoe je bogen op afbeeldingen tekent met Asp
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Ontvang een gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Informatie over tijdelijke licenties](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Duik gerust in deze bronnen voor meer gedetailleerde informatie en ondersteuning. Veel plezier met coderen!
 

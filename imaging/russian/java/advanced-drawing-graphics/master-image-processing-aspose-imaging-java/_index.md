@@ -194,7 +194,7 @@ static void exportProgressCallback(ProgressEventHandlerInfo info) {
 - **Приобрести**: [Buy Aspose Products](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Start a Free Trial](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Поддержка**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Поддержка**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Теперь, вооружившись этими знаниями, вы готовы внедрять Aspose.Imaging в свои Java‑проекты для расширенных возможностей обработки изображений. Приятного кодинга!
 

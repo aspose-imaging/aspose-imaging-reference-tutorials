@@ -141,7 +141,7 @@ Gotowy, aby to wypróbować? Wdróż to rozwiązanie w swoim kolejnym projekcie 
 - **Zakup**: [Uzyskaj licencję](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Rozpocznij z bezpłatną wersją próbną](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa**: [Poproś o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia**: [Wsparcie Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia**: [Wsparcie Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ten samouczek został zaprojektowany, aby poprowadzić Cię przez efektywne korzystanie z Aspose.Imaging dla .NET, zapewniając, że w pełni wykorzystasz tę potężną bibliotekę. Miłego kodowania!
 

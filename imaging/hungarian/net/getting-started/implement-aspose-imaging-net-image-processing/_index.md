@@ -126,7 +126,7 @@ A gyorsítótárazás csökkenti a betöltési időket és az erőforrás-felhas
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Aspose.Imaging ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose.Imaging támogatói fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose.Imaging támogatói fórum](https://forum.aspose.com/c/imaging/14)
 Az útmutató követésével jó úton haladsz afelé, hogy hatékony képfeldolgozást valósíts meg .NET alkalmazásaidban az Aspose.Imaging használatával. Jó kódolást!
 
 {{< /blocks/products/pf/tutorial-page-section >}}

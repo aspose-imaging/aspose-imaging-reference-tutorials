@@ -210,7 +210,7 @@ R: Certifique-se de que as imagens de sobreposição e de fundo sejam de alta re
 - **Licença de compra**: [Página de compra da Aspose](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Experimente o Aspose.Imaging para Java](https://releases.aspose.com/imaging/java/)
 - **Licença Temporária**: [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Fórum de Suporte**: [Suporte de imagem Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum de Suporte**: [Suporte de imagem Aspose](https://forum.aspose.com/c/imaging/14)
 
 Com este guia, você estará bem equipado para começar a mesclar imagens usando o Aspose.Imaging para Java. Boa programação!
 

@@ -177,7 +177,7 @@ Ya dominas los conceptos básicos de la combinación de imágenes con Aspose.Ima
 - **Compra:** https://purchase.aspose.com/buy
 - **Prueba gratuita:** https://releases.aspose.com/imaging/java/
 - **Licencia temporal:** https://purchase.aspose.com/licencia-temporal/
-- **Apoyo:** https://forum.aspose.com/c/imaging/10
+- **Apoyo:** https://forum.aspose.com/c/imaging/14
 
 ¡Comience a experimentar con Aspose.Imaging para Java hoy y descubra nuevas posibilidades en el procesamiento de imágenes!
 

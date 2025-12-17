@@ -159,7 +159,7 @@ Jste připraveni to vyzkoušet? Stáhněte si a otestujte řešení ve svých pr
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/net/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Neváhejte a prozkoumejte tyto zdroje, kde najdete podrobnější informace a podporu. Přejeme vám příjemné programování!
 

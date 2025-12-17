@@ -193,7 +193,7 @@ Ya aprendió a cargar imágenes JPEG, recuperar datos de miniaturas de los metad
    - Puede obtener una licencia temporal para evaluación o comprar una licencia completa para uso en producción.
 
 5. **¿Dónde puedo encontrar ayuda si tengo problemas?**  
-   - Visita el [Foro de Aspose](https://forum.aspose.com/c/imaging/10) para apoyo comunitario y oficial.
+   - Visita el [Foro de Aspose](https://forum.aspose.com/c/imaging/14) para apoyo comunitario y oficial.
 
 ## Recursos
 
@@ -202,7 +202,7 @@ Ya aprendió a cargar imágenes JPEG, recuperar datos de miniaturas de los metad
 - Compra: [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - Prueba gratuita: [Pruebas gratuitas disponibles](https://releases.aspose.com/imaging/java/)
 - Licencia temporal: [Solicitar una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- Apoyo: [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- Apoyo: [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Con estos recursos, podrás aprovechar al máximo Aspose.Imaging en tus proyectos Java. ¡Que disfrutes programando!
 

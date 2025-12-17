@@ -214,7 +214,7 @@ Aspose.Imaging for Java를 사용하여 여러 페이지로 구성된 TIFF 파�
 - [라이선스 옵션 구매](https://purchase.aspose.com/buy)
 - [무료 체험판으로 시작하세요](https://releases.aspose.com/imaging/java/)
 - [임시 면허 정보](https://purchase.aspose.com/temporary-license/)
-- [커뮤니티 지원 및 포럼](https://forum.aspose.com/c/imaging/10)
+- [커뮤니티 지원 및 포럼](https://forum.aspose.com/c/imaging/14)
 
 이러한 리소스를 활용하면 Aspose.Imaging for Java에 대한 이해를 높이고 프로젝트에 효과적으로 적용할 수 있습니다. 즐거운 코딩 되세요!
 

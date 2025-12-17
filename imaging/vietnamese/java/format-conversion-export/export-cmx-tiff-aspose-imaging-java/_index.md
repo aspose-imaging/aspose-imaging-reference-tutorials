@@ -236,7 +236,7 @@ A: Mặc dù hiệu quả, việc xử lý số lượng lớn hình ảnh có �
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, giờ đây bạn đã có thể xử lý các tệp CMX vector và xuất chúng dưới dạng ảnh TIFF bằng Aspose.Imaging cho Java. Chúc bạn viết mã vui vẻ!
 

@@ -237,7 +237,7 @@ A5: Aspose.Imaging 작업은 본질적으로 스레드로부터 안전하지 않
 - **구입:** [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [Aspose.Imaging을 사용해 보세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 지금 당장 Aspose.Imaging for Java로 여정을 시작하고 애플리케이션에서 이미지 처리의 모든 잠재력을 활용하세요!
 

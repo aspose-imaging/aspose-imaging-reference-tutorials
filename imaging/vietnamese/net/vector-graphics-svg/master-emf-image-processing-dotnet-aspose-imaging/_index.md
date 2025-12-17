@@ -165,7 +165,7 @@ Các sự cố thường gặp bao gồm đường dẫn tệp không chính xá
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Hãy thoải mái khám phá các tài nguyên này và tìm kiếm sự hỗ trợ nếu bạn gặp bất kỳ thách thức nào. Chúc bạn viết mã vui vẻ!
 

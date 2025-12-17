@@ -160,7 +160,7 @@ By the end of this tutorial, you should be comfortable converting raster images 
 - [Purchase](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/java/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Explore these resources to deepen your understanding and get the most out of Aspose.Imaging for Java. Happy coding!
 

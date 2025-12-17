@@ -194,7 +194,7 @@ Az útmutató követésével megtanultad, hogyan tölthetsz be egy PNG fájlt, h
 - [Vásárlás](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Kezdj bele a következő projektedbe bizalommal, tudván, hogy az Aspose.Imaging for Java megoldást kínál!
 

@@ -156,7 +156,7 @@ writer.write("This is a sample output.\n");
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/net/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10)
+- [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 掌握这些概念后，您就能轻松创建功能强大、能够高效管理文件 I/O 操作的 Java 应用程序。祝您编程愉快！
 

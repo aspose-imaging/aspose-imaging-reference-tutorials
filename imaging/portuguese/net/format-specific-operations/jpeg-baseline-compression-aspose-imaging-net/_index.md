@@ -147,7 +147,7 @@ Pronto para levar suas habilidades em processamento de imagens para o próximo n
 - [Licença de compra](https://purchase.aspose.com/buy)
 - [Teste grátis](https://releases.aspose.com/imaging/net/)
 - [Solicitação de Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Este guia completo o colocará no caminho certo para dominar a compactação de linha de base JPEG com o Aspose.Imaging para .NET. Boa programação!
 

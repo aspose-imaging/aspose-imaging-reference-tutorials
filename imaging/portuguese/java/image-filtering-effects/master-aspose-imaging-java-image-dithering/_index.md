@@ -203,7 +203,7 @@ Para mais exploração e suporte:
 - **Licença de compra:** [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Experimente o Aspose.Imaging gratuitamente](https://releases.aspose.com/imaging/java/)
 - **Licença temporária:** [Solicitar Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- **Fórum de suporte:** [Suporte Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Fórum de suporte:** [Suporte Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Comece a explorar as possibilidades do Aspose.Imaging para Java hoje mesmo e aprimore seus projetos de processamento de imagens!
 

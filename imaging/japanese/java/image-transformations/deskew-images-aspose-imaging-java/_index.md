@@ -182,7 +182,7 @@ A: 一時ライセンスを購入または取得した後、Aspose ドキュメ�
 - **購入：** [Aspose ライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料トライアルを始める](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドが、Aspose.Imaging を使用した Java アプリケーションで傾き補正機能を効率的に実装する一助になれば幸いです。コーディングを楽しみましょう。
 

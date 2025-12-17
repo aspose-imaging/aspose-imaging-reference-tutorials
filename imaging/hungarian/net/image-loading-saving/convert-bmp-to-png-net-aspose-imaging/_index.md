@@ -130,7 +130,7 @@ Ebben az oktatóanyagban azt vizsgáltuk meg, hogyan lehet hatékonyan BMP fájl
 
 A készségeid további fejlesztéséhez:
 - Fedezze fel az Aspose.Imaging további funkcióit, például a képmanipulációt vagy a formátumkonverziókat.
-- Lépj kapcsolatba a közösséggel a következőn: [Aspose fóruma](https://forum.aspose.com/c/imaging/10) hogy megosszák egymással a gondolataikat és tanácsot kérjenek.
+- Lépj kapcsolatba a közösséggel a következőn: [Aspose fóruma](https://forum.aspose.com/c/imaging/14) hogy megosszák egymással a gondolataikat és tanácsot kérjenek.
 
 Készen állsz a képek konvertálására .NET alkalmazásaidban? Próbáld ki még ma!
 

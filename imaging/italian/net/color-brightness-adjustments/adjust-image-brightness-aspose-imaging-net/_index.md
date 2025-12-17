@@ -172,7 +172,7 @@ R: Sebbene tecnicamente fattibili, regolazioni estreme potrebbero peggiorare la 
 - **Acquista licenza**: [Acquista ora](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Per iniziare](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea**: [Richiedi qui](https://purchase.aspose.com/temporary-license/)
-- **Forum di supporto**: [Comunità Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum di supporto**: [Comunità Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Questa guida dovrebbe essere una risorsa completa per padroneggiare le regolazioni della luminosità con Aspose.Imaging per .NET. Buona programmazione!
 

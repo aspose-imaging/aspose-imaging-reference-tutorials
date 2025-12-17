@@ -186,7 +186,7 @@ Artık Aspose.Imaging for Java kullanarak EMF görüntülerini çeşitli formatl
    - Yaygın sorunlar arasında yanlış dosya yolları veya desteklenmeyen biçim dönüştürmeleri bulunur; kurulumunuzun eğitim adımlarıyla eşleştiğinden emin olun.
 
 5. **Aspose.Imaging için desteği nereden bulabilirim?**
-   - Ziyaret edin [Aspose forumu](https://forum.aspose.com/c/imaging/10) yardım ve diğer kullanıcılarla bağlantı kurmak için.
+   - Ziyaret edin [Aspose forumu](https://forum.aspose.com/c/imaging/14) yardım ve diğer kullanıcılarla bağlantı kurmak için.
 
 ## Kaynaklar
 

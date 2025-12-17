@@ -204,7 +204,7 @@ Ora hai le conoscenze necessarie per disegnare stringhe con diversi allineamenti
 - **Acquistare:** [Acquista la licenza di Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Prova Aspose.Imaging gratuitamente](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea:** [Richiedi licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto:** [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Supporto:** [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Esplora queste risorse per approfondire la tua conoscenza e le tue capacità con Aspose.Imaging per Java. Buona programmazione!
 

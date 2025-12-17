@@ -181,7 +181,7 @@ Denemeye hazır mısınız? Bugün öğrendiklerinizi uygulayın ve sonuçları 
 - [Lisanslama Seçeneklerini Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme İndir](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Başvurusu](https://purchase.aspose.com/temporary-license/)
-- [Destek ve Topluluk Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek ve Topluluk Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek artık Aspose.Imaging Java'yı kullanarak görüntü formatı dönüşümlerini verimli bir şekilde yönetebilecek donanıma sahipsiniz. İyi kodlamalar!
 

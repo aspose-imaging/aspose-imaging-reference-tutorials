@@ -236,7 +236,7 @@ Utils.deleteFile("YOUR_OUTPUT_DIRECTORY/MultiPage2.cmx.tiff");
 - **Αγορά**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε μια δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, είστε πλέον εξοπλισμένοι για να χειρίζεστε αρχεία CMX διανύσματος και να τα εξάγετε ως εικόνες TIFF χρησιμοποιώντας το Aspose.Imaging για Java. Καλή κωδικοποίηση!
 

@@ -181,7 +181,7 @@ try {
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - [ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/14)
 
 บทช่วยสอนนี้ช่วยให้คุณมีความรู้ในการจัดการงานเชื่อมโยงภาพ TIFF ที่ซับซ้อนโดยใช้ Aspose.Imaging สำหรับ Java ขอให้สนุกกับการเขียนโค้ด!
 

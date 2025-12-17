@@ -174,7 +174,7 @@ TiffOptions で適切な設定を構成すると、TIFF 出力が特定の要件
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料版を試す](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

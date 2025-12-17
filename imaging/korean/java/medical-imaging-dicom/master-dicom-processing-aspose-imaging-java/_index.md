@@ -175,7 +175,7 @@ DICOM 파일과 같은 대용량 데이터 세트를 다룰 때는 성능 최적
 - **구입:** 상업적 사용을 위한 라이센스를 구매하세요 [Aspose 구매 페이지](https://purchase.aspose.com/buy).
 - **무료 체험:** 무료 체험판을 통해 기능을 평가해보세요. [Aspose 무료 체험판](https://releases.aspose.com/imaging/java/).
 - **임시 면허:** 확장된 액세스가 필요한 경우 임시 라이센스를 요청하세요. [라이센스 페이지](https://purchase.aspose.com/temporary-license/).
-- **지원하다:** 토론에 참여하고 도움을 요청하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/10).
+- **지원하다:** 토론에 참여하고 도움을 요청하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/14).
 
 이 가이드를 따라 하면 Aspose.Imaging for Java를 사용하여 DICOM 이미지를 쉽게 처리할 수 있게 됩니다. 즐거운 코딩 되세요!
 

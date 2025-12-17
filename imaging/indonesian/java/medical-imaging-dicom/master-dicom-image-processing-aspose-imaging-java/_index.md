@@ -252,7 +252,7 @@ Anda kini telah menguasai dasar-dasar manipulasi DICOM menggunakan Aspose.Imagin
 **Langkah Berikutnya:**
 - Jelajahi fitur lebih lanjut di [Dokumentasi Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - Bereksperimen dengan manipulasi DICOM yang lebih kompleks.
-- Bagikan pengalaman dan solusi Anda di forum seperti [Forum komunitas Aspose](https://forum.aspose.com/c/imaging/10).
+- Bagikan pengalaman dan solusi Anda di forum seperti [Forum komunitas Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Bagian FAQ
 
@@ -278,7 +278,7 @@ A5: Verifikasi apakah jalur berkas sudah benar, pastikan Anda memiliki izin yang
 - **Pembelian**: [Beli Lisensi](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Dapatkan Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Komunitas Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Komunitas Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan panduan lengkap ini, Anda akan siap menangani tugas pemrosesan gambar DICOM menggunakan Aspose.Imaging Java. Selamat membuat kode!
 

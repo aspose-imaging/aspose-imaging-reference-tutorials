@@ -161,7 +161,7 @@ Các bước tiếp theo? Thử nghiệm với các cấu hình khác nhau trong
    - Điều chỉnh cấu hình bitmap trong `BmpOptions` để điều chỉnh cài đặt chất lượng đầu ra.
 
 5. **Tôi có thể tìm sự hỗ trợ ở đâu nếu gặp vấn đề?**
-   - Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) để được cộng đồng và chuyên gia hỗ trợ.
+   - Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) để được cộng đồng và chuyên gia hỗ trợ.
 
 ## Tài nguyên
 

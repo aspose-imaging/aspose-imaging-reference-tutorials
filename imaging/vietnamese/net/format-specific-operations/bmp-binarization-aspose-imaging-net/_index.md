@@ -171,7 +171,7 @@ Bây giờ, bạn hẳn đã hiểu rõ cách nhị phân hóa hình ảnh BMP b
 - **Giấy phép mua hàng:** [Mua ngay](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Nhận bản dùng thử miễn phí của bạn](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời:** [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ:** [Hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** [Hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

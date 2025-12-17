@@ -228,7 +228,7 @@ C3: Kullanım sınırları için lisans koşullarını kontrol edin; aksi takdir
 
 **S4: Animasyon süreci sırasında hatalarla karşılaşırsam ne olur?**
 
-A4: Dosya yollarını doğrulayın ve tüm bağımlılıkların doğru şekilde yapılandırıldığından emin olun. Danışın [Aspose Desteği](https://forum.aspose.com/c/imaging/10) eğer sorunlar devam ederse.
+A4: Dosya yollarını doğrulayın ve tüm bağımlılıkların doğru şekilde yapılandırıldığından emin olun. Danışın [Aspose Desteği](https://forum.aspose.com/c/imaging/14) eğer sorunlar devam ederse.
 
 **S5: Benzersiz efektler için kare özelliklerini nasıl değiştirebilirim?**
 
@@ -241,7 +241,7 @@ C5: Aspose.Imaging tarafından sağlanan gama ayarlamaları, alfa harmanlaması 
 - **Satın almak**: [Lisans satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'i Ücretsiz Deneyin](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı kılavuzla, Aspose.Imaging kullanarak Java'da animasyonlu PNG'ler oluşturmaya başlamak için iyi bir donanıma sahip olacaksınız. İyi kodlamalar!
 

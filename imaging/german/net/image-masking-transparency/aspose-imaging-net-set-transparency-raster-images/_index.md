@@ -159,7 +159,7 @@ Implementieren Sie eine Logik in Ihrer Anwendung, die dynamisch festlegt `Transp
 - **Lizenz erwerben**: [Aspose.Licensing kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Versuchen Sie Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Temporäre Lizenz anfordern](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum**: [Aspose Imaging-Unterstützung](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum**: [Aspose Imaging-Unterstützung](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

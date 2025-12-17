@@ -138,7 +138,7 @@ Aspose.Imaging'in ek özelliklerini keşfedin veya uygulamanızın yeteneklerini
 2. **Resimleri BMP dışındaki formatlara dönüştürebilir miyim?**
    - Evet, Aspose.Imaging JPEG ve PNG gibi çeşitli çıktı formatlarını destekler.
 3. **Görüntü dönüştürme sırasında sorunları nasıl giderebilirim?**
-   - Dosya yollarını kontrol edin, doğru kitaplık sürümünün kullanıldığından emin olun ve şuraya bakın: [Aspose'un destek forumu](https://forum.aspose.com/c/imaging/10).
+   - Dosya yollarını kontrol edin, doğru kitaplık sürümünün kullanıldığından emin olun ve şuraya bakın: [Aspose'un destek forumu](https://forum.aspose.com/c/imaging/14).
 4. **Aspose.Imaging gerçek zamanlı uygulamalar için uygun mudur?**
    - Sağlam olsa da gerçek zamanlı işlem ihtiyaçlarınız için performans iyileştirmelerini göz önünde bulundurun.
 5. **DICOM gri tonlamalı dönüştürme için bazı yaygın kullanım durumları nelerdir?**
@@ -150,7 +150,7 @@ Aspose.Imaging'in ek özelliklerini keşfedin veya uygulamanızın yeteneklerini
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

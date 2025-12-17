@@ -193,7 +193,7 @@ Prozkoumejte další funkce, které Aspose.Imaging nabízí, jako je například
 - [Stáhněte si Aspose.Imaging pro Javu](https://releases.aspose.com/imaging/java/)
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze a dočasná licence](https://releases.aspose.com/imaging/java/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na svou cestu s Aspose.Imaging Java ještě dnes a transformujte způsob, jakým zvládáte úlohy zpracování obrazu!
 

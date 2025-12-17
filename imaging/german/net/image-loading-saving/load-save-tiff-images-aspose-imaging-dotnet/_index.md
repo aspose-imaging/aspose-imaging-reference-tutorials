@@ -149,7 +149,7 @@ A3: Optimieren Sie die Speicherverwaltung und optimieren Sie Ihre Konfigurations
 A4: Häufige Probleme sind falsche Dateipfade, falsche Konfigurationseinstellungen und nicht unterstützte Bildformate. Stellen Sie stets sicher, dass die Pfade korrekt sind und die Konfigurationen Ihren Anforderungen entsprechen.
 
 **F5: Wo finde ich weitere Ressourcen zu Aspose.Imaging?**
-A5: Besuchen Sie die [Aspose-Dokumentation](https://reference.aspose.com/imaging/net/) für umfassende Anleitungen und die [Foren](https://forum.aspose.com/c/imaging/10) für die Unterstützung der Gemeinschaft.
+A5: Besuchen Sie die [Aspose-Dokumentation](https://reference.aspose.com/imaging/net/) für umfassende Anleitungen und die [Foren](https://forum.aspose.com/c/imaging/14) für die Unterstützung der Gemeinschaft.
 
 ## Ressourcen
 - **Dokumentation:** [Aspose Imaging .NET-Referenz](https://reference.aspose.com/imaging/net/)
@@ -157,7 +157,7 @@ A5: Besuchen Sie die [Aspose-Dokumentation](https://reference.aspose.com/imaging
 - **Kaufen:** [Lizenz kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Testversionen herunterladen](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz:** [Hier anfordern](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Aspose-Foren](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** [Aspose-Foren](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -213,7 +213,7 @@ A estas alturas, ya deberías tener una sólida comprensión de cómo cargar arc
 - **Licencia de compra**:Comprar una licencia para uso comercial [aquí](https://purchase.aspose.com/buy).
 - **Prueba gratuita**:Comience con una prueba gratuita para probar funciones sin limitaciones.
 - **Licencia temporal**:Obtenga una licencia temporal para explorar todas las capacidades.
-- **Foro de soporte**:Para cualquier pregunta, visite el foro de soporte de Aspose en [Foros de Aspose](https://forum.aspose.com/c/imaging/10).
+- **Foro de soporte**:Para cualquier pregunta, visite el foro de soporte de Aspose en [Foros de Aspose](https://forum.aspose.com/c/imaging/14).
 
 Si sigue esta guía, podrá administrar y convertir de manera eficiente imágenes DJVU utilizando Aspose.Imaging para Java, mejorando sus flujos de trabajo de procesamiento de documentos con facilidad.
 

@@ -236,7 +236,7 @@ R : Bien qu’efficace, le traitement d’un grand nombre d’images haute réso
 - **Achat**: [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencez un essai gratuit](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**: [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce guide, vous serez désormais en mesure de gérer des fichiers CMX vectoriels et de les exporter au format TIFF avec Aspose.Imaging pour Java. Bon codage !
 

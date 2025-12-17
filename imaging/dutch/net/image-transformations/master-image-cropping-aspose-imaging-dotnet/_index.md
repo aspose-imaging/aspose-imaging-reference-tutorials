@@ -150,7 +150,7 @@ A5: Taken omvatten onder andere het aanpassen van het formaat, het converteren v
 - **Aankoop:** Ontdek licentieopties op [Aspose Aankoop](https://purchase.aspose.com/buy).
 - **Gratis proefperiode:** Begin met een proefperiode via [hier](https://releases.aspose.com/imaging/net/).
 - **Tijdelijke licentie:** Vraag er een aan voor uitgebreide tests via [deze link](https://purchase.aspose.com/temporary-license/).
-- **Steun:** Sluit je aan bij het communityforum op [Aspose-ondersteuning](https://forum.aspose.com/c/imaging/10).
+- **Steun:** Sluit je aan bij het communityforum op [Aspose-ondersteuning](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

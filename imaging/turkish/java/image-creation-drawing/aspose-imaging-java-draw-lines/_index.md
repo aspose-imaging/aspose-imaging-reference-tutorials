@@ -234,7 +234,7 @@ Bu eğitim boyunca, Aspose.Imaging for Java kullanarak bitmap seçeneklerini nas
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kaynaklardan yararlanarak projelerinizde Aspose.Imaging for Java'nın anlaşılmasını ve kullanımını geliştirebilirsiniz. İyi kodlamalar!
 

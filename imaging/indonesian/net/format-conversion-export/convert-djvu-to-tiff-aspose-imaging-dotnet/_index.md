@@ -174,7 +174,7 @@ Kami mendorong Anda untuk menerapkan proses konversi ini dalam proyek Anda dan m
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Versi Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

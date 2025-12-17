@@ -198,7 +198,7 @@ try (Image image = Image.load(workFile)) {
    - 当然，它的设计是为了有效地处理高性能要求。
 
 5. **我如何为社区做出贡献或寻求问题帮助？**
-   - 加入 [Aspose 论坛](https://forum.aspose.com/c/imaging/10) 提出问题并分享见解。
+   - 加入 [Aspose 论坛](https://forum.aspose.com/c/imaging/14) 提出问题并分享见解。
 
 ## 资源
 

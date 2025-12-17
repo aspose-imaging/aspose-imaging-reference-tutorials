@@ -177,7 +177,7 @@ A: TIFF はより高い品質を提供し、より多くの色深度をサポー
 - **ライセンスを購入する**： [Aspose 購入ページ](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imagingを無料でお試しください](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポートとコミュニティ**： [Aspose フォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポートとコミュニティ**： [Aspose フォーラム](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

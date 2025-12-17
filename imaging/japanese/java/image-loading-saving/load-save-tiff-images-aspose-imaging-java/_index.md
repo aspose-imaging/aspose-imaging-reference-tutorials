@@ -171,7 +171,7 @@ JPEG RGB 圧縮による TIFF イメージの読み込みと保存が有益と�
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルを開始](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このチュートリアルでは、JavaアプリケーションでTIFF画像処理を効率的に実装するための知識を習得できます。コーディングを楽しみましょう！
 

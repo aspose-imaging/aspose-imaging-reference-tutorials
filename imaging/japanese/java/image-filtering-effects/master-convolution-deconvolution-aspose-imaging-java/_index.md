@@ -195,7 +195,7 @@ A: このライブラリは堅牢ですが、非常に大きな画像や複雑�
 - **購入**： [Aspose Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルから始める](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [リクエストはこちら](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [質問する](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [質問する](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従うことで、Aspose.Imaging for Java が提供する強力な画像処理機能を習得できるようになります。コーディングを楽しみましょう！
 

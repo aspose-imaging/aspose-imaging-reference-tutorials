@@ -176,7 +176,7 @@ R: Monitore o uso de recursos, otimize a lógica de processamento de imagens e u
 - **Comprar:** [Compre opções de licenciamento Aspose](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Comece gratuitamente com Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licença temporária:** [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar:** [Fórum Aspose para Suporte](https://forum.aspose.com/c/imaging/10)
+- **Apoiar:** [Fórum Aspose para Suporte](https://forum.aspose.com/c/imaging/14)
 
 Seguindo este guia, você estará no caminho certo para dominar o processamento de imagens com o Aspose.Imaging em Java!
 

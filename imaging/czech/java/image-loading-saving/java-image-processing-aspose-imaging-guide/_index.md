@@ -181,7 +181,7 @@ Jste připraveni udělat další krok? Zkuste implementovat tyto techniky ve sv�
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte Aspose.Imaging zdarma](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum pro zobrazování Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum pro zobrazování Aspose](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na cestu zpracování obrazu s jistotou a vězte, že máte nástroje a znalosti potřebné k úspěchu. Šťastné programování!
 

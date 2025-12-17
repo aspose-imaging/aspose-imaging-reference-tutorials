@@ -158,7 +158,7 @@ In deze tutorial hebben we onderzocht hoe je afbeeldingen kunt openen en verwerk
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefversie](https://releases.aspose.com/imaging/java/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Deze uitgebreide handleiding helpt u bij het efficiënt implementeren en gebruiken van Aspose.Imaging Java voor streamgebaseerde beeldverwerking, waardoor de prestaties en mogelijkheden van uw toepassingen worden verbeterd.
 

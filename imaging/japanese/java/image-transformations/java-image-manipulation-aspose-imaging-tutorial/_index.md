@@ -213,7 +213,7 @@ Aspose.Imaging でサポートされているさまざまなファイル形式�
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料試用版](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java の旅に乗り出し、アプリケーションでの画像操作の可能性を最大限に引き出しましょう。
 

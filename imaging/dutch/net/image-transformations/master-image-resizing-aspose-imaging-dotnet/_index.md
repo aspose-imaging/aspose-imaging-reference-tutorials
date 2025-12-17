@@ -148,7 +148,7 @@ Overweeg als volgende stap om andere functies van Aspose.Imaging te verkennen of
 - **Aankoop**: https://purchase.aspose.com/buy
 - **Gratis proefperiode**: https://releases.aspose.com/imaging/net/
 - **Tijdelijke licentie**: https://purchase.aspose.com/tijdelijke-licentie/
-- **Steun**: https://forum.aspose.com/c/imaging/10
+- **Steun**: https://forum.aspose.com/c/imaging/14
 
 Begin vandaag nog met het beheersen van beeldverwerking met Aspose.Imaging!
 

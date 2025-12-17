@@ -143,7 +143,7 @@ A: Start with a free trial or request a temporary license. Purchase a full licen
 - **Purchase License:** [Buy Now](https://purchase.aspose.com/buy)
 - **Free Trial:** [Get Started](https://releases.aspose.com/imaging/net/)
 - **Temporary License:** [Request Here](https://purchase.aspose.com/temporary-license/)
-- **Support Forum:** [Aspose.Imaging Community](https://forum.aspose.com/c/imaging/10)
+- **Support Forum:** [Aspose.Imaging Community](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

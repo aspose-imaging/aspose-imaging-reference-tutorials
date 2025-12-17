@@ -158,7 +158,7 @@ For further reading and tools:
 - **Purchase License**: [Buy Aspose Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Aspose Imaging Downloads](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forums**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Support Forums**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

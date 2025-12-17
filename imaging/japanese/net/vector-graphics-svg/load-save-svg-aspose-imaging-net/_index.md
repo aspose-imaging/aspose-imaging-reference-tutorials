@@ -190,7 +190,7 @@ Aspose.Imaging の機能をさらに詳しく調べるには、豊富なドキ�
 - **購入：** [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [Aspose.Imaging を試す](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス:** [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 今すぐ Aspose.Imaging を使い始め、.NET アプリケーションの画像処理の新たな可能性を解き放ちましょう。
 

@@ -159,7 +159,7 @@ Implementera logik i din applikation som dynamiskt ställer in `TransparentColor
 - **Köplicens**: [Köp Aspose.Licensing](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Begär tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**: [Aspose Imaging Support](https://forum.aspose.com/c/imaging/10)
+- **Supportforum**: [Aspose Imaging Support](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

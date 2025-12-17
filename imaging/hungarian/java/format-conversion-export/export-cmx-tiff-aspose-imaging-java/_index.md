@@ -236,7 +236,7 @@ V: Bár hatékony, nagyszámú, nagy felbontású kép feldolgozása további me
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Ingyenes próbaverzió indítása](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével most már képes leszel vektoros CMX fájlok kezelésére és TIFF képként exportálására az Aspose.Imaging for Java segítségével. Jó kódolást!
 

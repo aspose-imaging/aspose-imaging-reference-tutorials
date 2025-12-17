@@ -191,7 +191,7 @@ Redo att omsätta dina nyfunna färdigheter i praktiken? Testa att implementera 
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Utnyttja dessa resurser för att fördjupa din förståelse och förbättra din implementering av Aspose.Imaging för .NET. Lycka till med kodningen!
 

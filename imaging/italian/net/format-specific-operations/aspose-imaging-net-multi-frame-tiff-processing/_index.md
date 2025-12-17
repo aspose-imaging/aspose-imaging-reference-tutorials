@@ -167,7 +167,7 @@ Ora hai imparato a caricare e salvare frame TIFF utilizzando Aspose.Imaging per 
 - **Acquistare**: [Acquista una licenza per Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Inizia con una prova gratuita](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea**: [Richiedi una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: [Forum di imaging Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: [Forum di imaging Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

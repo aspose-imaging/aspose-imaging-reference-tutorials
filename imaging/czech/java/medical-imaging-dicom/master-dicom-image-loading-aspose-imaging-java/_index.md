@@ -160,7 +160,7 @@ A3: Zvažte optimalizaci využití paměti, použití technik paralelního zprac
 A4: I když je systém výkonný, zajistěte, aby vaše prostředí splňovalo nezbytné požadavky pro optimální výkon.
 
 **Q5: Jaké možnosti podpory jsou k dispozici, pokud narazím na problémy?**
-A5: Můžete požádat o pomoc od [Fórum pro zobrazování Aspose](https://forum.aspose.com/c/imaging/10) nebo se podívejte na jejich rozsáhlou dokumentaci.
+A5: Můžete požádat o pomoc od [Fórum pro zobrazování Aspose](https://forum.aspose.com/c/imaging/14) nebo se podívejte na jejich rozsáhlou dokumentaci.
 
 ## Zdroje
 

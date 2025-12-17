@@ -182,7 +182,7 @@ A: รองรับรูปแบบภาพมากมาย เช่น 
 - **ซื้อ:** [ซื้อใบอนุญาต Aspose](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี:** [เริ่มทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว:** [ขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน:** [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน:** [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14)
 
 เราหวังว่าคู่มือนี้จะช่วยให้คุณนำฟีเจอร์การเอียงตัวไปด้านข้าง (Deep ewing) มาใช้ในแอปพลิเคชัน Java ของคุณได้อย่างมีประสิทธิภาพโดยใช้ Aspose.Imaging ขอให้สนุกกับการเขียนโค้ด!
 

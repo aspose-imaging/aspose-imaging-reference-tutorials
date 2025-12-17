@@ -145,7 +145,7 @@ A5: Mümkün olan durumlarda görüntüleri paralel olarak işleyin ve belleği 
 - **Lisans Satın Alın**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Burada Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Sorular Sorun](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: [Sorular Sorun](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET ile yolculuğunuza bugün başlayın ve görüntü meta verilerinin gücünden yararlanmaya başlayın!
 

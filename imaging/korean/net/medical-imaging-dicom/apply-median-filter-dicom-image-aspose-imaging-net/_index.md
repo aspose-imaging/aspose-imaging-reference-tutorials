@@ -152,7 +152,7 @@ Aspose.Imaging for .NET을 사용하여 DICOM 이미지에 중앙값 필터를 �
 - [구입](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/net/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원하다](https://forum.aspose.com/c/imaging/10)
+- [지원하다](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

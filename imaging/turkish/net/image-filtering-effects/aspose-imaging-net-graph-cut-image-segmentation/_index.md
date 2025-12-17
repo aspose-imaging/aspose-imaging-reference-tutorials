@@ -178,7 +178,7 @@ Sonraki adımlar? Farklı yapılandırmaları deneyin veya bu özelliği tam pot
 - **Belgeleme**: Kapsamlı kılavuzları keşfedin [Aspose Imaging .NET Referansı](https://reference.aspose.com/imaging/net/).
 - **İndirmek**: En son sürümlere şu şekilde erişin: [Aspose Sürümleri](https://releases.aspose.com/imaging/net/).
 - **Satın Al ve Ücretsiz Deneme**: Resmi mağazadan denemeyi veya satın almayı düşünün [Aspose Satın Alma Sayfası](https://purchase.aspose.com/buy) Ve [Ücretsiz Denemeler](https://releases.aspose.com/imaging/net/).
-- **Destek**: Herhangi bir sorunuz varsa, şu adresi ziyaret edin: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10).
+- **Destek**: Herhangi bir sorunuz varsa, şu adresi ziyaret edin: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

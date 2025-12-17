@@ -206,7 +206,7 @@ NuGet을 통해 패키지를 올바르게 추가했는지 확인하세요. IDE�
 - **구입**: [Aspose.Imaging 구매 페이지](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료 체험판 시작하기](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [Aspose 이미징 지원](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [Aspose 이미징 지원](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

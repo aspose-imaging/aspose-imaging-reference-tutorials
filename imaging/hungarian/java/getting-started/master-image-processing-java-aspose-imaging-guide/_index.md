@@ -227,7 +227,7 @@ Most már elsajátítottad az Aspose.Imaging for Java alapvető technikáit, az 
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Ez az útmutató átfogó alapot nyújt az Aspose.Imaging Java nyelven történő használatához. Ezen technikák megértésével hatékony képfeldolgozási képességekkel fejlesztheti alkalmazásait. Jó kódolást!
 

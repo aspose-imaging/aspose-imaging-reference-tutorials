@@ -179,7 +179,7 @@ Siap untuk menyempurnakan proyek pencitraan medis Anda? Mulailah dengan menginte
 - **Beli Lisensi:** [Beli Sekarang](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Mulai Uji Coba Gratis Anda](https://releases.aspose.com/imaging/java/)
 - **Permintaan Lisensi Sementara:** [Minta di sini](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan:** [Komunitas Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan:** [Komunitas Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda akan siap menangani tugas pemrosesan gambar DICOM dalam aplikasi Java Anda menggunakan Aspose.Imaging. Selamat membuat kode!
 

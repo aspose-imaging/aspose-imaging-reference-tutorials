@@ -181,7 +181,7 @@ TIFF イメージの連結が非常に役立つ実際のシナリオをいくつ
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このチュートリアルでは、Aspose.Imaging for Java を使用して複雑な TIFF 画像の連結タスクを処理するための知識を習得しました。コーディングを楽しみましょう！
 

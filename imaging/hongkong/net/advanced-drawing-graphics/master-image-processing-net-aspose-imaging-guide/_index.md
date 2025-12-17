@@ -175,7 +175,7 @@ A3：是的，但請確保您從 [Aspose](https://purchase.aspose.com/buy) 如�
 A4：是的，實現批次處理以有效地處理多個文件，這可以顯著減少處理時間。
 
 **Q5：如果我遇到問題，我可以在哪裡獲得支援？**
-A5：訪問 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10) 尋求 Aspose 團隊和社區成員的協助。
+A5：訪問 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14) 尋求 Aspose 團隊和社區成員的協助。
 
 ## 資源
 - **文件:** 探索詳細指南和 API 參考 [Aspose.Imaging 文檔](https://reference。aspose.com/imaging/net/).

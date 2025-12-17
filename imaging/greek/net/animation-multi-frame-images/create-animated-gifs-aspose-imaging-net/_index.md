@@ -153,7 +153,7 @@ using (var image = new GifImage(new GifFrameBlock(frames[0])))
 - **Αγορά**: [Αγοράστε άδειες χρήσης Aspose](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δωρεάν δοκιμή Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Αξιοποιήστε αυτούς τους πόρους και ξεκινήστε να δημιουργείτε δυναμικά GIF σήμερα κιόλας!
 

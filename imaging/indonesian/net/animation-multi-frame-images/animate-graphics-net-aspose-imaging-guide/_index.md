@@ -191,7 +191,7 @@ Anda telah mempelajari cara membuat grafik animasi menggunakan Aspose.Imaging un
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda kini siap membuat grafik animasi dinamis dalam aplikasi .NET Anda dengan Aspose.Imaging. Jelajahi dan berinovasi dengan memadukan teknik-teknik ini ke dalam proyek Anda!
 

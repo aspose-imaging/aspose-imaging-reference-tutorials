@@ -155,7 +155,7 @@ In dieser Anleitung haben Sie gelernt, wie Sie JPEG-EXIF-Daten mit Aspose.Imagin
 - [Erwerben Sie eine Lizenz](https://purchase.aspose.com/buy)
 - [Kostenloser Testdownload](https://releases.aspose.com/imaging/net/)
 - [Antrag auf eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Begeben Sie sich noch heute auf Ihre Reise zur Beherrschung der JPEG-EXIF-Modifikation mit Aspose.Imaging!
 

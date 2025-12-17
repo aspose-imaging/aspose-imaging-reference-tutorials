@@ -197,7 +197,7 @@ Aspose.Imaging for Java가 프로젝트의 WebP 이미지 처리에 어떻게 �
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허 요청](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 포괄적인 가이드를 따라 하면 이제 Java로 WebP 이미지 처리를 효율적이고 자신 있게 수행할 수 있게 됩니다. 즐거운 코딩 되세요!
 

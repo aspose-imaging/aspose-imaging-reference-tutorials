@@ -171,7 +171,7 @@ Mezi běžné problémy patří nesprávné nakládání s prostředky a zanedb�
 - **Nákup:** [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Vyzkoušejte Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu jste nyní dobře připraveni na zpracování obrazu pomocí Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

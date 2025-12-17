@@ -181,7 +181,7 @@ import com.aspose.imaging.Image;
 - [Αγορά Άδειας Χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν Δοκιμαστική Λήψη](https://releases.aspose.com/imaging/java/)
 - [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, είστε σε καλό δρόμο για να τελειοποιήσετε την επεξεργασία εικόνων TIFF με το Aspose.Imaging σε Java. Καλή κωδικοποίηση!
 

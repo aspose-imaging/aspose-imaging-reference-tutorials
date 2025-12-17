@@ -179,7 +179,7 @@ Jste připraveni vylepšit své projekty lékařského zobrazování? Začněte 
 - **Licence k zakoupení:** [Koupit nyní](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Začněte svou bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - **Žádost o dočasnou licenci:** [Žádost zde](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory:** [Komunita podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory:** [Komunita podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu budete dobře vybaveni pro zpracování obrázků DICOM ve vašich Java aplikacích pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 

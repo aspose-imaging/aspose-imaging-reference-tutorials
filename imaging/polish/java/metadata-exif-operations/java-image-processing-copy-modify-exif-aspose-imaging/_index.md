@@ -198,7 +198,7 @@ Eksperymentuj z różnymi polami EXIF i poznaj bardziej zaawansowane funkcje ofe
    - Oczywiście, jest on zaprojektowany tak, aby efektywnie spełniać wymagania dotyczące wysokiej wydajności.
 
 5. **Jak mogę przyczynić się do rozwoju społeczności lub szukać pomocy w rozwiązywaniu problemów?**
-   - Dołącz do [Forum Aspose](https://forum.aspose.com/c/imaging/10) aby zadawać pytania i dzielić się spostrzeżeniami.
+   - Dołącz do [Forum Aspose](https://forum.aspose.com/c/imaging/14) aby zadawać pytania i dzielić się spostrzeżeniami.
 
 ## Zasoby
 

@@ -197,7 +197,7 @@ A: Có, nó có thể được tích hợp vào các ứng dụng ASP.NET và c�
 - **Mua**: [Mua giấy phép Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Hãy thử Aspose.Imaging miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Chúng tôi hy vọng hướng dẫn này giúp bạn tận dụng Aspose.Imaging cho nhu cầu xử lý hình ảnh DjVu của bạn trong .NET. Chúc bạn viết mã vui vẻ!
 

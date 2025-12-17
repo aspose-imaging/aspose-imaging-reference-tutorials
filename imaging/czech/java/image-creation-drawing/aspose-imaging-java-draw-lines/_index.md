@@ -234,7 +234,7 @@ V tomto tutoriálu jsme prozkoumali, jak konfigurovat možnosti bitmapy a kresli
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Využitím těchto zdrojů si můžete prohloubit znalosti a používání Aspose.Imaging pro Javu ve svých projektech. Přeji vám příjemné programování!
 

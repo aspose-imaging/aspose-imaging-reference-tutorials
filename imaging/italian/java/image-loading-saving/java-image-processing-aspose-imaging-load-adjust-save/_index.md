@@ -215,7 +215,7 @@ Ora hai padroneggiato le basi dell'elaborazione delle immagini Java con Aspose.I
 - **Acquistare**: [Acquista i prodotti Aspose](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Inizia qui](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea**: [Ottieni una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Intraprendi il tuo viaggio nell'elaborazione delle immagini Java con Aspose.Imaging e scopri nuove possibilità nella manipolazione delle immagini digitali!
 

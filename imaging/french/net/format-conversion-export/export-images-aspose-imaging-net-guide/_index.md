@@ -207,7 +207,7 @@ A3 : Oui, Aspose.Imaging offre un contrôle détaillé des paramètres de compr
 A4 : Absolument ! Vous pouvez traiter efficacement plusieurs fichiers grâce aux techniques de programmation parallèle de .NET.
 
 **Q5 : Comment puis-je résoudre les problèmes courants avec Aspose.Imaging ?**
-A5 : Vérifiez le [forum d'assistance](https://forum.aspose.com/c/imaging/10) pour des solutions aux problèmes courants et consulter le vaste [documentation](https://reference.aspose.com/imaging/net/) à titre indicatif.
+A5 : Vérifiez le [forum d'assistance](https://forum.aspose.com/c/imaging/14) pour des solutions aux problèmes courants et consulter le vaste [documentation](https://reference.aspose.com/imaging/net/) à titre indicatif.
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

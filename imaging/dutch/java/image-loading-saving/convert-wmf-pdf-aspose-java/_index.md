@@ -203,7 +203,7 @@ In deze tutorial heb je geleerd hoe je WMF-bestanden naar PDF converteert met As
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Als je deze stappen beheerst, ben je goed toegerust om WMF-naar-PDF-conversies met gemak uit te voeren. Veel plezier met coderen!
 

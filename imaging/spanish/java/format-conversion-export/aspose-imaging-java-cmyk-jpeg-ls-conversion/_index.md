@@ -173,7 +173,7 @@ Para explorar más a fondo las capacidades de Aspose.Imaging, considere profundi
    - Considere dividir el proceso en partes más pequeñas o utilizar métodos eficientes en el uso de memoria proporcionados por la biblioteca.
 
 5. **¿Dónde puedo obtener ayuda si tengo problemas?**
-   - Visita [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10) para obtener ayuda de expertos de la comunidad y del personal de Aspose.
+   - Visita [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14) para obtener ayuda de expertos de la comunidad y del personal de Aspose.
 
 ## Recursos
 

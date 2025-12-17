@@ -183,7 +183,7 @@ objimage.save(destPath, jpegOptions);
    نعم، `JpegOptions` توفر الفئة طرقًا لتكوين جودة الإخراج والمعلمات الأخرى.
 
 5. **أين يمكنني الحصول على الدعم إذا واجهت مشاكل؟**
-   قم بزيارة [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/10) للحصول على دعم المجتمع أو الاتصال بـ Aspose مباشرة من خلال قنوات الدعم الخاصة بهم.
+   قم بزيارة [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/14) للحصول على دعم المجتمع أو الاتصال بـ Aspose مباشرة من خلال قنوات الدعم الخاصة بهم.
 
 ## موارد
 

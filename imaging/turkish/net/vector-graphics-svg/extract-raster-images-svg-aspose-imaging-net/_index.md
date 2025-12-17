@@ -141,7 +141,7 @@ Denemeye hazır mısınız? Bu çözümü bir sonraki projenizde uygulayın ve i
 - **Satın almak**: [Lisans Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Deneme ile Başlayın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Aspose Desteği](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: [Aspose Desteği](https://forum.aspose.com/c/imaging/14)
 
 Bu eğitim, Aspose.Imaging for .NET'i etkili bir şekilde kullanmanıza rehberlik etmek ve bu güçlü kütüphaneden en iyi şekilde yararlanmanızı sağlamak için tasarlanmıştır. İyi kodlamalar!
 

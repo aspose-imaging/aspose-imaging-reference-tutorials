@@ -173,7 +173,7 @@ En este tutorial, hemos explorado cómo usar Aspose.Imaging .NET para convertir 
 - **Comprar una licencia**: [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Comience con una evaluación gratuita](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal**: [Solicite uno aquí](https://purchase.aspose.com/temporary-license/)
-- **Foro de soporte**: [Únase a la discusión](https://forum.aspose.com/c/imaging/10)
+- **Foro de soporte**: [Únase a la discusión](https://forum.aspose.com/c/imaging/14)
 
 Sumérjase en estos recursos para ampliar su comprensión y capacidades en la conversión de imágenes utilizando Aspose.Imaging .NET.
 

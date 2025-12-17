@@ -214,7 +214,7 @@ Langkah selanjutnya dapat mencakup penjelajahan fitur-fitur tambahan Aspose.Imag
 - [Opsi Lisensi Pembelian](https://purchase.aspose.com/buy)
 - [Mulailah dengan Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Informasi Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Dukungan dan Forum Komunitas](https://forum.aspose.com/c/imaging/10)
+- [Dukungan dan Forum Komunitas](https://forum.aspose.com/c/imaging/14)
 
 Dengan memanfaatkan sumber daya ini, Anda dapat memperdalam pemahaman Anda tentang Aspose.Imaging untuk Java dan menerapkannya secara efektif dalam proyek Anda. Selamat membuat kode!
 

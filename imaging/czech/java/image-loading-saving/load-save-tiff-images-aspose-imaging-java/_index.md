@@ -171,7 +171,7 @@ V tomto tutoriálu jsme prozkoumali, jak efektivně načítat a ukládat obrázk
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Zahájit bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Tento tutoriál vás vybaví znalostmi pro efektivní implementaci zpracování obrázků TIFF ve vašich aplikacích v Javě. Přejeme vám příjemné programování!
 

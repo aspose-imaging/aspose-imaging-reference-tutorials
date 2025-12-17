@@ -193,7 +193,7 @@ Utforska fler funktioner som erbjuds av Aspose.Imaging, till exempel formatkonve
 - [Ladda ner Aspose.Imaging för Java](https://releases.aspose.com/imaging/java/)
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod och tillfällig licens](https://releases.aspose.com/imaging/java/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din resa med Aspose.Imaging Java idag och förändra hur du hanterar bildbehandlingsuppgifter!
 

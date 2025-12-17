@@ -191,7 +191,7 @@ public class LinearAnimation : IAnimation {
 - [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/net/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, είστε πλέον εξοπλισμένοι για να δημιουργείτε δυναμικά κινούμενα γραφικά στις εφαρμογές .NET σας με το Aspose.Imaging. Εξερευνήστε και καινοτομήστε ενσωματώνοντας αυτές τις τεχνικές στα έργα σας!
 

@@ -177,7 +177,7 @@ Chcete-li dále prozkoumat, co Aspose.Imaging nabízí, zvažte ponoření se do
 - **Nákup:** [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Vyzkoušejte Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence:** [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Pusťte se do svého dalšího projektu zpracování obrazu s důvěrou a vědomím, že máte správné nástroje a znalosti k zajištění optimálního nastavení kvality JPEG.
 

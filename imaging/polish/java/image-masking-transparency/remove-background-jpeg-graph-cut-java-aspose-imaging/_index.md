@@ -212,7 +212,7 @@ Aby jeszcze bardziej rozwinąć swoje umiejętności, rozważ eksplorację innyc
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Uzyskaj bezpłatną wersję próbną](https://releases.aspose.com/imaging/java/)
 - [Poproś o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij swoją przygodę z Aspose.Imaging już dziś i odkryj pełen potencjał przetwarzania obrazu w Javie!
 

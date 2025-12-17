@@ -225,7 +225,7 @@ A: Utilize batch processing and optimize memory settings to handle large files e
 - **Purchase**: Buy a license or trial version through [Aspose Purchase](https://purchase.aspose.com/buy)
 - **Free Trial**: Try out Aspose.Imaging with this [free trial link](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: Obtain a temporary license via [this link](https://purchase.aspose.com/temporary-license/)
-- **Support**: Join the discussion on image processing challenges in [Aspose Forums](https://forum.aspose.com/c/imaging/10)
+- **Support**: Join the discussion on image processing challenges in [Aspose Forums](https://forum.aspose.com/c/imaging/14)
 
 Embark on your next project with confidence, knowing you have the tools and knowledge to convert CMX files seamlessly. Happy coding!
 

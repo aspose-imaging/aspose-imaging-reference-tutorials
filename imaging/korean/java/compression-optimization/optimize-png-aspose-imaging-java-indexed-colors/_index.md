@@ -228,7 +228,7 @@ image.save(outDir + "result.png", options);
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging을 사용해 보세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허 취득](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 이미징 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 이미징 포럼](https://forum.aspose.com/c/imaging/14)
 
 이러한 리소스를 살펴보면 Aspose.Imaging과 그 기능에 대한 이해가 깊어질 것입니다. 즐거운 코딩 되세요!
 

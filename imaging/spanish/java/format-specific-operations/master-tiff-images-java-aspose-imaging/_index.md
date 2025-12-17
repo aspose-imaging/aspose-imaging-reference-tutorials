@@ -166,7 +166,7 @@ Ha aprendido a cargar, guardar y configurar imágenes TIFF de forma eficiente co
 - [Compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo esta guía completa, podrá aprovechar al máximo el potencial de Aspose.Imaging para Java para gestionar imágenes TIFF eficazmente. ¡Que disfrute programando!
 

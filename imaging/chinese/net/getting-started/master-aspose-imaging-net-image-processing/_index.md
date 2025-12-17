@@ -159,14 +159,14 @@ Aspose.Imaging 可用于各种实际场景，例如：
 4. **Aspose.Imaging 支持哪些文件格式？**
    - 它支持超过 100 种图像格式，包括 JPEG、PNG、GIF 等。
 5. **如何解决 Aspose.Imaging 的常见问题？**
-   - 参考 [Aspose 的支持论坛](https://forum.aspose.com/c/imaging/10) 寻找解决方案或查看其详细文档。
+   - 参考 [Aspose 的支持论坛](https://forum.aspose.com/c/imaging/14) 寻找解决方案或查看其详细文档。
 
 ## 资源
 - **文档**：综合指南 [Aspose 文档](https://reference.aspose.com/imaging/net/)
 - **下载最新版本**：可从 [发布页面](https://releases.aspose.com/imaging/net/)
 - **购买许可证**：可直接在以下网址购买 [Aspose 的购买页面](https://purchase.aspose.com/buy)
 - **免费试用和临时许可证**：可在 [发布页面](https://releases.aspose.com/imaging/net/) 和 [临时许可证部分](https://purchase.aspose.com/temporary-license/)
-- **支持论坛**如有任何疑问，请访问 [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- **支持论坛**如有任何疑问，请访问 [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -188,7 +188,7 @@ Dodržováním tohoto návodu jste se naučili, jak efektivně komprimovat obrá
 - **Nákup:** [Koupit nyní](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Začněte zde](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Žádost zde](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** Pro další pomoc navštivte [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** Pro další pomoc navštivte [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

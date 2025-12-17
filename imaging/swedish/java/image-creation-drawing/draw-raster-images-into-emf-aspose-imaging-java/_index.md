@@ -214,7 +214,7 @@ Redo att tillämpa det du har lärt dig? Försök att implementera dessa teknike
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova Aspose.Imaging gratis](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**: [Aspose.Imaging-stöd](https://forum.aspose.com/c/imaging/10) 
+- **Supportforum**: [Aspose.Imaging-stöd](https://forum.aspose.com/c/imaging/14) 
 
 Ge dig ut på din resa med Aspose.Imaging för Java idag och lås upp nya potentialer inom bildbehandling!
 

@@ -203,7 +203,7 @@ try (Image image = Image.load("YOUR_DOCUMENT_DIRECTORY/input.wmf")) {
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/java/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10)
+- [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 掌握这些步骤后，您就能轻松完成 WMF 转 PDF 的转换了。祝您编码愉快！
 

@@ -126,7 +126,7 @@ R5: Sim, o Aspose.Imaging oferece suporte a ambientes de nuvem, permitindo a int
 - [Comprar uma licença](https://purchase.aspose.com/buy)
 - [Obtenha um teste gratuito](https://releases.aspose.com/imaging/net/)
 - [Solicitar uma Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

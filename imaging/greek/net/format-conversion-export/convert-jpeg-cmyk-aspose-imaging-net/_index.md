@@ -136,7 +136,7 @@ using (JpegImage image = (JpegImage)Image.Load(jpegStream))
 - **Αγορά Άδειας Χρήσης**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δοκιμάστε το Aspose.Imaging δωρεάν](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ Υποστήριξης**: [Υποστήριξη Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ Υποστήριξης**: [Υποστήριξη Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 Ελπίζουμε ότι αυτός ο οδηγός σας βοήθησε στην τελειοποίηση της επεξεργασίας εικόνας με το Aspose.Imaging για .NET. Καλή κωδικοποίηση!
 
 {{< /blocks/products/pf/tutorial-page-section >}}

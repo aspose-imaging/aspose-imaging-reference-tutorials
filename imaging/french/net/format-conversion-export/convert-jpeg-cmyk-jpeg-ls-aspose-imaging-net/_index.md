@@ -186,7 +186,7 @@ Nous vous encourageons à mettre en œuvre ces techniques dans vos projets et à
 - **Licence d'achat :** [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Essayez Aspose.Imaging gratuitement](https://releases.aspose.com/imaging/net/)
 - **Licence temporaire :** [Demander une licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Forum d'assistance Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Soutien:** [Forum d'assistance Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Ce guide devrait vous permettre d'implémenter efficacement les conversions JPEG-LS CMJN dans vos applications .NET, améliorant ainsi la qualité et l'efficacité. Bon codage !
 

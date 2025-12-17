@@ -248,7 +248,7 @@ You've learned how to leverage the Aspose.Imaging library to draw lines, shapes,
 - [Purchase Options](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/java/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Now that you have a comprehensive guide to implementing drawing features with Aspose.Imaging for Java, start experimenting and integrating these techniques into your projects. Happy coding!
 

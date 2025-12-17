@@ -193,7 +193,7 @@ Esplora altre funzionalità offerte da Aspose.Imaging, come la conversione del f
 - [Scarica Aspose.Imaging per Java](https://releases.aspose.com/imaging/java/)
 - [Acquista licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita e licenza temporanea](https://releases.aspose.com/imaging/java/)
-- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 Intraprendi oggi stesso il tuo viaggio con Aspose.Imaging Java e trasforma il modo in cui gestisci le attività di elaborazione delle immagini!
 

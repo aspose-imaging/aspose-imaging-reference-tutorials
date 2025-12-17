@@ -129,7 +129,7 @@ Artık Aspose.Imaging for .NET kullanarak bir görüntüyü yükleme ve WebP'ye 
 ### Sonraki Adımlar
 - Kalite seviyelerini ayarlamak gibi farklı ihracat seçeneklerini deneyin.
 - Aspose.Imaging'i daha büyük projelere veya iş akışlarına entegre etmeyi keşfedin.
-- Toplulukla etkileşim kurun [Aspose Forum](https://forum.aspose.com/c/imaging/10) Destek ve fikirleriniz için.
+- Toplulukla etkileşim kurun [Aspose Forum](https://forum.aspose.com/c/imaging/14) Destek ve fikirleriniz için.
 
 ## SSS Bölümü
 
@@ -154,7 +154,7 @@ Yollarınızın doğru olduğundan ve giriş dosyasının mevcut olduğundan emi
 - **Satın almak:** [Lisans satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Buradan Başlayın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans:** [Birini İste](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu:** [Aspose Desteği](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu:** [Aspose Desteği](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging .NET'i kullanarak görüntü işleme yolculuğunuza güvenle başlayın ve dijital görüntülemedeki sonsuz olanakları keşfedin.
 

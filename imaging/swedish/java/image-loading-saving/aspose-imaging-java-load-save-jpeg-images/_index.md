@@ -176,7 +176,7 @@ A: Övervaka resursanvändning, optimera bildbehandlingslogik och använd effekt
 - **Köpa:** [Köp Aspose-licensalternativ](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Börja gratis med Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose-forum för support](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose-forum för support](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden är du på god väg att bemästra bildbehandling med Aspose.Imaging i Java!
 

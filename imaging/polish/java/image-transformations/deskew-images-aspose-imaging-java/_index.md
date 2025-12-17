@@ -182,7 +182,7 @@ O: Po zakupieniu lub uzyskaniu tymczasowej licencji skonfiguruj aplikację tak, 
 - **Zakup:** [Kup licencję Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Rozpocznij bezpłatny okres próbny](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa:** [Poproś o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mamy nadzieję, że ten przewodnik pomoże Ci skutecznie wdrożyć funkcje deskewing w Twoich aplikacjach Java przy użyciu Aspose.Imaging. Miłego kodowania!
 

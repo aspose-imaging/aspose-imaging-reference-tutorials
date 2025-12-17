@@ -180,7 +180,7 @@ image.save(outputFile, new BmpOptions());
 - [شراء](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 من خلال اتباع هذا الدليل الشامل، يجب أن تكون الآن مجهزًا لإدارة مهام معالجة صور DICOM بكفاءة باستخدام Aspose.Imaging for Java.
 

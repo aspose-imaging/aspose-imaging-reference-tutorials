@@ -216,7 +216,7 @@ Implementeer deze oplossingen vandaag nog in uw projecten!
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Aspose.Imaging gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Begin vol vertrouwen aan uw beeldmanipulatiereis met Aspose.Imaging voor .NET!
 

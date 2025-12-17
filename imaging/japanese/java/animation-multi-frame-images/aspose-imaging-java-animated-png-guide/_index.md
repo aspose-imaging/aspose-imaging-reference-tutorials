@@ -195,7 +195,7 @@ A: もちろんです。Spring や Apache Commons などのフレームワーク
 - **購入:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)  
 - **無料トライアル:** [Get Started with Free Trial](https://releases.aspose.com/imaging/java/)  
 - **一時ライセンス:** [Acquire Temporary License](https://purchase.aspose.com/temporary-license/)  
-- **サポートフォーラム:** [Aspose Community Support](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム:** [Aspose Community Support](https://forum.aspose.com/c/imaging/14)
 
 ---
 

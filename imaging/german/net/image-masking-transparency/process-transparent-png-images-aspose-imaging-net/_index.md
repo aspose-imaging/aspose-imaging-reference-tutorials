@@ -145,7 +145,7 @@ In diesem Tutorial haben Sie gelernt, wie Sie ein PNG-Bild laden, seine Pixel ex
 - Entdecken Sie andere von Aspose.Imaging unterstützte Dateiformate.
 
 **Aufruf zum Handeln:**
-Implementieren Sie diese Funktionen in Ihrem nächsten Projekt und überzeugen Sie sich selbst, wie Aspose.Imaging für .NET Bildverarbeitungsaufgaben optimieren kann. Teilen Sie Ihre Erfahrungen oder stellen Sie Fragen im [Aspose-Forum](https://forum.aspose.com/c/imaging/10) wenn Sie auf Herausforderungen stoßen.
+Implementieren Sie diese Funktionen in Ihrem nächsten Projekt und überzeugen Sie sich selbst, wie Aspose.Imaging für .NET Bildverarbeitungsaufgaben optimieren kann. Teilen Sie Ihre Erfahrungen oder stellen Sie Fragen im [Aspose-Forum](https://forum.aspose.com/c/imaging/14) wenn Sie auf Herausforderungen stoßen.
 
 ## FAQ-Bereich
 1. **Was ist Aspose.Imaging für .NET?**
@@ -165,7 +165,7 @@ Implementieren Sie diese Funktionen in Ihrem nächsten Projekt und überzeugen S
 - [Kaufoptionen](https://purchase.aspose.com/buy)
 - [Kostenloser Testzugang](https://releases.aspose.com/imaging/net/)
 - [Erwerb einer temporären Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support- und Community-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support- und Community-Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

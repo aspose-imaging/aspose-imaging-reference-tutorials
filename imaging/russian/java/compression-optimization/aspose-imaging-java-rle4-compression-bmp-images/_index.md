@@ -184,7 +184,7 @@ image.save("YOUR_OUTPUT_DIRECTORY\\output.bmp", options);
 - **Лицензия на покупку**: [Купить Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Начните бесплатную пробную версию](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия**: [Получить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Выполнив эти шаги и используя предоставленные ресурсы, вы будете хорошо подготовлены к обработке сжатия изображений BMP с помощью Aspose.Imaging для Java. Удачного кодирования!
 

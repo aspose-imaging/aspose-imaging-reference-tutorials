@@ -216,7 +216,7 @@ Seguir estas prácticas ayudará a mantener una aplicación receptiva y eficient
    - Sí, puedes crear scripts de procesamiento por lotes utilizando bucles o integrarlos con sistemas de programación de trabajos.
 
 5. **¿Cómo puedo obtener ayuda si encuentro problemas?**
-   - Visita el [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10) para asistencia y discusiones con otros usuarios.
+   - Visita el [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14) para asistencia y discusiones con otros usuarios.
 
 ## Recursos
 

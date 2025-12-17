@@ -212,7 +212,7 @@ A4: 방문 [Aspose의 임시 라이센스 페이지](https://purchase.aspose.com
 
 **질문 5: 문제가 발생하면 어떤 리소스를 이용할 수 있나요?**
 
-A5: Aspose 커뮤니티 포럼은 도움을 구하기에 좋은 곳입니다. 확인해 보세요. [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/10) 지원과 토론을 위해.
+A5: Aspose 커뮤니티 포럼은 도움을 구하기에 좋은 곳입니다. 확인해 보세요. [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/14) 지원과 토론을 위해.
 
 ## 자원
 
@@ -221,7 +221,7 @@ A5: Aspose 커뮤니티 포럼은 도움을 구하기에 좋은 곳입니다. �
 - **구입**: 라이선스 옵션에 대해 자세히 알아보세요. [Aspose 구매 페이지](https://purchase.aspose.com/buy)
 - **무료 체험**: 무료 체험판을 통해 Aspose.Imaging 기능을 테스트해 보세요. [Aspose 다운로드](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: 확장된 접근을 신청하려면 다음을 수행하십시오. [Aspose 임시 면허](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: 커뮤니티에 참여하세요 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: 커뮤니티에 참여하세요 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

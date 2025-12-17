@@ -218,7 +218,7 @@ In this tutorial, we explored how to load, configure, and save compressed SVG fi
 - [Purchase](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/java/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Support Forum](https://forum.aspose.com/c/imaging/14)
 
 By utilizing these resources, you can further explore Aspose.Imaging's capabilities and enhance your Java applications with powerful image processing functionalities.
 

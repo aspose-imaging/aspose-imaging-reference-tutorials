@@ -157,7 +157,7 @@ Aspose.Imaging द्वारा समर्थित विभिन्न �
 - **खरीदना**: [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [Aspose.Imaging निःशुल्क आज़माएँ](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

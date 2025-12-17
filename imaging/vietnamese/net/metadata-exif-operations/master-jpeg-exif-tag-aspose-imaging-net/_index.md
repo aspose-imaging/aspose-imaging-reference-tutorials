@@ -149,7 +149,7 @@ A3: Triển khai các khối try-catch xung quanh mã tải hình ảnh của b�
 A4: Có, bạn có thể đọc và ghi thẻ EXIF bằng API toàn diện của Aspose.Imaging.
 
 **Câu hỏi 5: Tôi có thể nhận được hỗ trợ ở đâu nếu gặp vấn đề?**
-A5: Ghé thăm [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/10) để được cộng đồng và chính quyền hỗ trợ.
+A5: Ghé thăm [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/14) để được cộng đồng và chính quyền hỗ trợ.
 
 ## Tài nguyên
 

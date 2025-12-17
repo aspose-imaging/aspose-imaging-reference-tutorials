@@ -166,7 +166,7 @@ File.Delete(outputDir + "result.psd");
 - **購買**：透過購買許可證 [Aspose 購買門戶](https://purchase。aspose.com/buy).
 - **免費試用**：透過以下方式開始免費試用 [下載](https://releases。aspose.com/imaging/net/).
 - **臨時執照**請求一個 [這裡](https://purchase。aspose.com/temporary-license/).
-- **支援**：加入社區 [Aspose 論壇](https://forum.aspose.com/c/imaging/10) 尋求幫助和討論。
+- **支援**：加入社區 [Aspose 論壇](https://forum.aspose.com/c/imaging/14) 尋求幫助和討論。
 
 希望本指南能幫助您將向量影像匯出功能整合到專案中。祝您編碼愉快！
 

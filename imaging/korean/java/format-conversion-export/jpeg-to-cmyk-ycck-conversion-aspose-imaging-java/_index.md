@@ -192,7 +192,7 @@ A: 시스템 리소스를 확인하고 메모리 사용량을 최적화하세요
 - **다운로드:** 최신 버전을 받으세요 [Aspose.Imaging 릴리스](https://releases.aspose.com/imaging/java/).
 - **구입:** 정식 라이센스를 취득하세요 [Aspose 구매 페이지](https://purchase.aspose.com/buy).
 - **무료 체험판 및 임시 라이센스:** 각 링크에서 무료 체험판이나 임시 라이선스를 받아 제한 없이 기능을 경험해 보세요.
-- **지원하다:** 추가 지원이 필요하면 다음을 방문하세요. [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10).
+- **지원하다:** 추가 지원이 필요하면 다음을 방문하세요. [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

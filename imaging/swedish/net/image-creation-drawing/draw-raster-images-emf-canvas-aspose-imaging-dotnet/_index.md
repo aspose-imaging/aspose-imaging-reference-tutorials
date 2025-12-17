@@ -142,7 +142,7 @@ Bästa praxis inkluderar att använda `using` uttalanden för automatisk avyttri
 ## Slutsats
 Du har nu lärt dig hur man ritar rasterbilder på EMF-dukar med hjälp av Aspose.Imaging för .NET. Den här funktionen kan avsevärt förbättra den visuella kvaliteten på dina projekt och erbjuder en blandning av vektorprecision och rasterrikedom.
 
-När du går vidare, överväg att utforska ytterligare funktioner i Aspose.Imaging eller integrera den här funktionen i större arbetsflöden inom dina applikationer. Om du har ytterligare frågor, tveka inte att kontakta oss via [Aspose Supportforum](https://forum.aspose.com/c/imaging/10).
+När du går vidare, överväg att utforska ytterligare funktioner i Aspose.Imaging eller integrera den här funktionen i större arbetsflöden inom dina applikationer. Om du har ytterligare frågor, tveka inte att kontakta oss via [Aspose Supportforum](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ-sektion
 **1. Vad är en EMF-fil?**

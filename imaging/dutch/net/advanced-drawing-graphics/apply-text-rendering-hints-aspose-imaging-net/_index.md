@@ -173,7 +173,7 @@ A: Veelvoorkomende problemen zijn onder meer geheugenlekken en prestatieprobleme
 - **Aankoop**: Koop een licentie of ontvang een gratis proefversie van [Aspose Aankoop](https://purchase.aspose.com/buy).
 - **Gratis proefperiode**: Begin met een proefperiode bij [Uitgaven](https://releases.aspose.com/imaging/net/).
 - **Tijdelijke licentie**: Vraag er een aan bij [Aspose](https://purchase.aspose.com/temporary-license/).
-- **Steun**: Krijg hulp in de [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Steun**: Krijg hulp in de [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Ga aan de slag met het beheersen van beeldverwerking met Aspose.Imaging en til uw toepassingen naar een hoger niveau!
 

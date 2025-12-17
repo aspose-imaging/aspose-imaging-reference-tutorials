@@ -183,7 +183,7 @@ Most már elsajátítottad a JPEG képek betöltését és az EXIF címkéik kin
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió letöltése](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedély információk](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -156,7 +156,7 @@ Gehen Sie noch tiefer in die Materie, indem Sie diese Techniken in Ihre Projekte
 - [Lizenz erwerben](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/net/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Wenn Sie diese Konzepte beherrschen, sind Sie auf dem besten Weg, leistungsstarke Java-Anwendungen zu erstellen, die Datei-E/A-Operationen effizient verwalten. Viel Spaß beim Programmieren!
 

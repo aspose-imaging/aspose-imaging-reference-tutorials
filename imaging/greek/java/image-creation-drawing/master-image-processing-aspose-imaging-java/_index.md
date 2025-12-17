@@ -162,7 +162,7 @@ A5: Επεξεργαστείτε εικόνες διαδοχικά και δια
 - **Αγορά:** [Αγοράστε τώρα](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Ξεκινήστε εδώ](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** [Φόρουμ Κοινότητας](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** [Φόρουμ Κοινότητας](https://forum.aspose.com/c/imaging/14)
 
 Αξιοποιώντας αυτούς τους πόρους, μπορείτε να βελτιώσετε περαιτέρω την κατανόηση και την εφαρμογή του Aspose.Imaging για Java. Καλή κωδικοποίηση!
 

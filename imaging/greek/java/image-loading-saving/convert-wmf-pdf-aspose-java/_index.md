@@ -203,7 +203,7 @@ try (Image image = Image.load("YOUR_DOCUMENT_DIRECTORY/input.wmf")) {
 - [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/14)
 
 Κατακτώντας αυτά τα βήματα, είστε πλήρως εξοπλισμένοι για να χειρίζεστε εύκολα μετατροπές WMF σε PDF. Καλή κωδικοποίηση!
 

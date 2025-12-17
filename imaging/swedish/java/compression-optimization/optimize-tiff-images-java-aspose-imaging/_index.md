@@ -191,7 +191,7 @@ Du har nu lärt dig hur du effektivt laddar och ändrar storlek på TIFF-bilder 
    - Ja, den stöder många bildformat som JPEG, PNG, BMP och mer.
 
 5. **Var kan jag hitta stöd om jag stöter på problem?**
-   - Besök [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10) för stöd från samhället och myndigheterna.
+   - Besök [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14) för stöd från samhället och myndigheterna.
 
 ## Resurser
 

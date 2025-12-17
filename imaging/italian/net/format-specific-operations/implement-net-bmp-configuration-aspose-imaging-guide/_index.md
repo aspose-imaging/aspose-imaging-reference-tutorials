@@ -160,7 +160,7 @@ A5: Ottimizzando le impostazioni di configurazione, gestendo in modo efficiente 
 - **Acquista licenza**: [Licenza Aspose](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Scarica Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea**: [Richiedi licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Forum di supporto**: [Supporto per l'imaging Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum di supporto**: [Supporto per l'imaging Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

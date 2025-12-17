@@ -152,7 +152,7 @@ A: Kesinlikle! Verimli işleme özelliği onu web ortamlarında sunucu taraflı 
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging ile Başlayın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Talebinde Bulunun](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -159,14 +159,14 @@ Du har nu lärt dig hur du laddar, filtrerar och sparar bilder med Aspose.Imagin
 4. **Vilka filformat stöder Aspose.Imaging?**
    - Den stöder över 100 bildformat inklusive JPEG, PNG, GIF och mer.
 5. **Hur kan jag felsöka vanliga problem med Aspose.Imaging?**
-   - Referera till [Asposes supportforum](https://forum.aspose.com/c/imaging/10) för lösningar eller kontrollera deras detaljerade dokumentation.
+   - Referera till [Asposes supportforum](https://forum.aspose.com/c/imaging/14) för lösningar eller kontrollera deras detaljerade dokumentation.
 
 ## Resurser
 - **Dokumentation**Omfattande guider på [Aspose-dokumentation](https://reference.aspose.com/imaging/net/)
 - **Ladda ner senaste versionen**Tillgänglig från [Sida med utgåvor](https://releases.aspose.com/imaging/net/)
 - **Köplicens**Direkt köplänk finns på [Asposes köpsida](https://purchase.aspose.com/buy)
 - **Gratis provperiod och tillfällig licens**Tillgänglig på [Sida med utgåvor](https://releases.aspose.com/imaging/net/) och [Avsnitt om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**För eventuella frågor, besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- **Supportforum**För eventuella frågor, besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

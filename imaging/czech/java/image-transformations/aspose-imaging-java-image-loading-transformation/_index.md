@@ -183,7 +183,7 @@ A5: Ano, je navržen tak, aby se bezproblémově integroval do různých prostř
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Prozkoumejte tyto zdroje, abyste si lépe porozuměli a lépe využili Aspose.Imaging v Javě.
 

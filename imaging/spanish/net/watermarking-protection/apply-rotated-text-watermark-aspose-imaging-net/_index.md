@@ -159,7 +159,7 @@ Has aprendido a aplicar una marca de agua de texto rotado a una imagen con Aspos
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/net/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Pruebe a implementar estos pasos y vea cómo Aspose.Imaging puede simplificar sus tareas de procesamiento de imágenes.
 

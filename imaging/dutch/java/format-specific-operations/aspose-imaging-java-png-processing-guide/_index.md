@@ -167,7 +167,7 @@ Voor meer informatie en bronnen:
 - **Aankoop:** [Licentieverwerving](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Probeer voordat u koopt](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Hier aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum:** [Vraag het de gemeenschap](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum:** [Vraag het de gemeenschap](https://forum.aspose.com/c/imaging/14)
 
 Nu u over de nodige kennis beschikt, kunt u aan de slag gaan met de implementatie van deze technieken in uw Java-projecten!
 

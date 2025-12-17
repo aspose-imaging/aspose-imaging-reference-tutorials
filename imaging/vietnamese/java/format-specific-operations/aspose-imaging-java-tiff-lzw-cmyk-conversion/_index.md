@@ -179,7 +179,7 @@ A3: Bạn có thể bắt đầu với giấy phép dùng thử miễn phí cho 
 A4: Sử dụng xử lý hàng loạt và các kỹ thuật quản lý tài nguyên hiệu quả như loại bỏ hình ảnh sau khi sử dụng. Ngoài ra, hãy cân nhắc tối ưu hóa độ phân giải trước khi chuyển đổi nếu có thể.
 
 **Câu hỏi 5: Tôi có thể tìm kiếm sự hỗ trợ ở đâu nếu gặp sự cố với Aspose.Imaging?**
-A5: Đối với bất kỳ thắc mắc hoặc khắc phục sự cố nào, hãy truy cập [Diễn đàn hỗ trợ của Aspose](https://forum.aspose.com/c/imaging/10) nơi bạn có thể tìm thấy sự hỗ trợ từ cả cộng đồng và đại diện chính thức.
+A5: Đối với bất kỳ thắc mắc hoặc khắc phục sự cố nào, hãy truy cập [Diễn đàn hỗ trợ của Aspose](https://forum.aspose.com/c/imaging/14) nơi bạn có thể tìm thấy sự hỗ trợ từ cả cộng đồng và đại diện chính thức.
 
 ## Tài nguyên
 

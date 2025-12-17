@@ -181,7 +181,7 @@ license.setLicense("path/to/your/license/file.lic");
 - [Варианты приобретения лицензий](https://purchase.aspose.com/buy)
 - [Бесплатная пробная загрузка](https://releases.aspose.com/imaging/java/)
 - [Заявление на временную лицензию](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки и сообщества](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки и сообщества](https://forum.aspose.com/c/imaging/14)
 
 Следуя этому руководству, вы теперь готовы эффективно обрабатывать преобразования форматов изображений с помощью Aspose.Imaging Java. Удачного кодирования!
 

@@ -180,7 +180,7 @@ Para ampliar tus habilidades, considera explorar funciones adicionales como el c
 - **Licencia de compra:** https://purchase.aspose.com/buy
 - **Prueba gratuita:** https://releases.aspose.com/imaging/net/
 - **Licencia temporal:** https://purchase.aspose.com/licencia-temporal/
-- **Foro de soporte:** https://forum.aspose.com/c/imaging/10
+- **Foro de soporte:** https://forum.aspose.com/c/imaging/14
 
 ¡Comience hoy mismo a integrar estas técnicas de manejo de imágenes en sus proyectos y vea la diferencia en rendimiento y eficiencia!
 

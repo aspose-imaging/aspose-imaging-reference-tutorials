@@ -180,7 +180,7 @@ Aspose.Imaging で最適なパフォーマンスを確保するには:
 
 **質問5:** Aspose.Imaging で問題が発生した場合、どこでサポートを受けられますか?
 
-**A5:** 訪問 [Aspose.Imaging サポートフォーラム](https://forum.aspose.com/c/imaging/10) コミュニティの専門家や開発者からのサポートを受けることができます。
+**A5:** 訪問 [Aspose.Imaging サポートフォーラム](https://forum.aspose.com/c/imaging/14) コミュニティの専門家や開発者からのサポートを受けることができます。
 
 ## リソース
 - **ドキュメント:** [Aspose.Imaging .NET ドキュメント](https://reference.aspose.com/imaging/net/)
@@ -188,7 +188,7 @@ Aspose.Imaging で最適なパフォーマンスを確保するには:
 - **購入：** [Aspose.Imagingライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [Aspose.Imaging 無料トライアル](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス:** [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

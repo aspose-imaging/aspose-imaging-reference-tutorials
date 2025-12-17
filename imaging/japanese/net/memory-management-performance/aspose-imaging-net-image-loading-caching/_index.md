@@ -138,7 +138,7 @@ Aspose.Imaging .NET による画像の読み込みとキャッシュの基本を
 - **購入**： [Aspose製品を購入する](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imagingを無料でお試しください](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

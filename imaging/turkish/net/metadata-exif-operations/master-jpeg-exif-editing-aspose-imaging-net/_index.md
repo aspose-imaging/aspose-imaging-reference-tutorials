@@ -155,7 +155,7 @@ Bu kılavuzda, Aspose.Imaging for .NET kullanarak JPEG EXIF verilerini nasıl de
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme İndir](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 JPEG EXIF modifikasyonunda ustalaşma yolculuğunuza bugün Aspose.Imaging ile başlayın!
 

@@ -186,7 +186,7 @@ Další kroky by mohly zahrnovat experimentování s různými obrazovými form�
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Získejte bezplatnou zkušební verzi](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Podpora zobrazování Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Podpora zobrazování Aspose](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na cestu s Aspose.Imaging ještě dnes a odemkněte plný potenciál zpracování obrazu v .NET!
 

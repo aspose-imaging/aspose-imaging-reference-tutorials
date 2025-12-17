@@ -193,7 +193,7 @@ Ya aprendió a implementar Aspose.Imaging para .NET para cargar y guardar imáge
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Versión de prueba gratuita](https://releases.aspose.com/imaging/net/)
 - [Solicitud de licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 ¡Embárquese hoy mismo en su viaje para optimizar el manejo de TIFF con Aspose.Imaging en .NET!
 

@@ -218,7 +218,7 @@ A: Använd batchbehandling och optimera minnesinställningarna för att hantera 
 - **Köpa**Köp en licens eller testversion via [Aspose-köp](https://purchase.aspose.com/buy)
 - **Gratis provperiod**Testa Aspose.Imaging med detta [länk till gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**Erhåll en tillfällig licens via [den här länken](https://purchase.aspose.com/temporary-license/)
-- **Stöd**Delta i diskussionen om utmaningar inom bildbehandling i [Aspose-forum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**Delta i diskussionen om utmaningar inom bildbehandling i [Aspose-forum](https://forum.aspose.com/c/imaging/14)
 
 Sätt igång ditt nästa projekt med tillförsikt, i vetskapen om att du har verktygen och kunskapen för att konvertera CMX-filer sömlöst. Lycka till med kodningen!
 

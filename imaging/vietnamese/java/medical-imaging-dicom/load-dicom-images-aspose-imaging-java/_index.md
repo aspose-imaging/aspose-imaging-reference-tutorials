@@ -160,7 +160,7 @@ Tối ưu hóa việc sử dụng bộ nhớ bằng cách xử lý hình ảnh t
 Aspose.Imaging chủ yếu tập trung vào DICOM, nhưng nó cũng hỗ trợ nhiều định dạng hình ảnh khác.
 
 **5. Tôi có thể nhận trợ giúp ở đâu nếu gặp sự cố với Aspose.Imaging?**
-Ghé thăm [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10) để được hỗ trợ và kết nối với những người dùng và chuyên gia khác.
+Ghé thăm [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14) để được hỗ trợ và kết nối với những người dùng và chuyên gia khác.
 
 ## Tài nguyên
 

@@ -138,7 +138,7 @@ Ontdek de extra functies van Aspose.Imaging of integreer andere beeldverwerkings
 2. **Kan ik afbeeldingen converteren naar andere formaten dan BMP?**
    - Ja, Aspose.Imaging ondersteunt verschillende uitvoerformaten zoals JPEG en PNG.
 3. **Hoe los ik problemen op tijdens het converteren van afbeeldingen?**
-   - Controleer de bestandspaden, zorg ervoor dat de juiste bibliotheekversie wordt gebruikt en raadpleeg [Aspose's ondersteuningsforum](https://forum.aspose.com/c/imaging/10).
+   - Controleer de bestandspaden, zorg ervoor dat de juiste bibliotheekversie wordt gebruikt en raadpleeg [Aspose's ondersteuningsforum](https://forum.aspose.com/c/imaging/14).
 4. **Is Aspose.Imaging geschikt voor real-time toepassingen?**
    - Hoewel robuust, kunt u ook rekening houden met prestatie-optimalisaties voor realtimeverwerkingsbehoeften.
 5. **Wat zijn enkele veelvoorkomende toepassingsgevallen voor DICOM-grijswaardenconversie?**
@@ -150,7 +150,7 @@ Ontdek de extra functies van Aspose.Imaging of integreer andere beeldverwerkings
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -168,14 +168,14 @@ Met deze handleiding hebt u het laden en exporteren van CAD-bestanden met Aspose
 4. **Zit er een limiet aan de grootte van de CAD-bestanden die ik kan verwerken?**
    - Voor de verwerking van grote bestanden is mogelijk meer geheugen nodig. Optimaliseer indien nodig op basis van de mogelijkheden van uw systeem.
 5. **Waar kan ik ondersteuning vinden als ik problemen ondervind?**
-   - Bezoek [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10) voor hulp en advies aan de gemeenschap.
+   - Bezoek [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14) voor hulp en advies aan de gemeenschap.
 
 ## Bronnen
 - **Documentatie**: Ontdek de volledige [Aspose.Imaging .NET-documentatie](https://reference.aspose.com/imaging/net/)
 - **Download**: Download de nieuwste versie van [Uitgaven](https://releases.aspose.com/imaging/net/)
 - **Aankoop & gratis proefperiode**Krijg toegang tot proefversies of koop een licentie via [Aspose Aankoop](https://purchase.aspose.com/buy) En [Gratis proefperiodes](https://releases.aspose.com/imaging/net/).
 - **Tijdelijke licentie**: Vraag een tijdelijke licentie aan bij [Aspose Tijdelijke Licenties](https://purchase.aspose.com/temporary-license/)
-- **Steun**: Krijg hulp op de [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: Krijg hulp op de [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

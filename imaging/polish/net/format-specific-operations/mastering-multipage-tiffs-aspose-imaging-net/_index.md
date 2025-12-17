@@ -158,7 +158,7 @@ Oto kilka typowych pytań, które możesz mieć:
 - [Zakup](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/net/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Ten kompleksowy przewodnik powinien wyposażyć Cię w wiedzę, aby skutecznie używać Aspose.Imaging dla .NET w Twoich projektach. Miłego kodowania!
 

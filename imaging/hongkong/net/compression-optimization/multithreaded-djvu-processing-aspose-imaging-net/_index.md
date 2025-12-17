@@ -189,7 +189,7 @@ Task.WaitAll(tasks.ToArray());
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/net/)
 - [臨時許可證資訊](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10) 
+- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14) 
 
 使用 Aspose.Imaging 踏上高效影像處理之旅，充分發揮 .NET 中多執行緒 DJVU 影像處理的潛力！
 

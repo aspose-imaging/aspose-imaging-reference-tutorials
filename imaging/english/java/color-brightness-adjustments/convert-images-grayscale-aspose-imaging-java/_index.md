@@ -195,7 +195,7 @@ You've learned how to effectively convert images to grayscale using Aspose.Imagi
 - **Download**: Get the latest version from [Aspose.Imaging Releases](https://releases.aspose.com/imaging/java/)
 - **Purchase & Trial**: Learn about purchasing options and start with a free trial [here](https://purchase.aspose.com/buy)
 - **Temporary License**: Obtain a temporary license [here](https://purchase.aspose.com/temporary-license/)
-- **Support**: Join the community forum at [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: Join the community forum at [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 We hope this guide empowers you to effectively use Aspose.Imaging for Java in your projects. Happy coding!
 

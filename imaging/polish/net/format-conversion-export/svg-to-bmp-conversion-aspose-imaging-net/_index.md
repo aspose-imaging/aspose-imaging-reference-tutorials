@@ -142,7 +142,7 @@ Aby jeszcze bardziej rozwinąć swoje umiejętności korzystania z Aspose.Imagin
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/net/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij swoją podróż, aby opanować konwersję obrazów z Aspose.Imaging dla .NET i odkryj możliwości, jakie oferuje ta potężna biblioteka. Miłego kodowania!
 

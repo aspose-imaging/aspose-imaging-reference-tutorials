@@ -183,7 +183,7 @@ Vi uppmuntrar dig att prova att implementera dessa lösningar i dina projekt och
 - **Köpa**Överväg att köpa en licens om du behöver långsiktig åtkomst.
 - **Gratis provperiod**Börja med en gratis provperiod för att utforska funktioner på [Aspose Gratis Provperiod](https://releases.aspose.com/imaging/java/).
 - **Tillfällig licens**Erhåll en tillfällig licens för utökad utvärdering från [Aspose tillfällig licens](https://purchase.aspose.com/temporary-license/).
-- **Stöd**Delta i diskussioner och få hjälp med [Aspose-forumet](https://forum.aspose.com/c/imaging/10).
+- **Stöd**Delta i diskussioner och få hjälp med [Aspose-forumet](https://forum.aspose.com/c/imaging/14).
 
 Lycka till med kodningen, och må dina bildbehandlingsuppgifter bli sömlösa och effektiva!
 

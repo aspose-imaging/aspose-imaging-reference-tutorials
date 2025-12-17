@@ -166,7 +166,7 @@ Hãy cân nhắc việc chia hình ảnh lớn thành các phân đoạn nhỏ h
 - **Mua**: [Mua giấy phép Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Dùng thử Aspose.Imaging miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình của bạn với Aspose.Imaging ngay hôm nay và biến các tác vụ xử lý hình ảnh của bạn thành quy trình làm việc hợp lý.
 

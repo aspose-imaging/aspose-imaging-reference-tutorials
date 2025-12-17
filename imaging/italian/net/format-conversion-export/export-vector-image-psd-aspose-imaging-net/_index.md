@@ -166,7 +166,7 @@ Come passo successivo, valuta la possibilità di sperimentare altri formati supp
 - **Acquistare**: Acquista una licenza tramite [Portale di acquisto Aspose](https://purchase.aspose.com/buy).
 - **Prova gratuita**: Inizia con una prova gratuita tramite [Scarica](https://releases.aspose.com/imaging/net/).
 - **Licenza temporanea**: Richiedine uno [Qui](https://purchase.aspose.com/temporary-license/).
-- **Supporto**: Unisciti alla comunità in [Forum di Aspose](https://forum.aspose.com/c/imaging/10) per aiuto e discussioni.
+- **Supporto**: Unisciti alla comunità in [Forum di Aspose](https://forum.aspose.com/c/imaging/14) per aiuto e discussioni.
 
 Speriamo che questa guida ti aiuti a integrare la funzionalità di esportazione di immagini vettoriali nei tuoi progetti. Buona programmazione!
 

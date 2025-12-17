@@ -200,7 +200,7 @@ By now, you should have a solid understanding of how to create and manipulate im
 - **Purchase:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial:** [Get a Free Trial](https://releases.aspose.com/imaging/net/)
 - **Temporary License:** [Apply for Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 By following this guide, you are well-equipped to harness the full potential of Aspose.Imaging for .NET in your projects. Happy coding!
 

@@ -212,7 +212,7 @@ public class ExtractExifData {
 
 **س5: ما هي الموارد المتاحة إذا واجهت مشاكل؟**
 
-ج٥: منتدى مجتمع Aspose هو مكان ممتاز لطلب المساعدة. تفضل بزيارة [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/10) للدعم والمناقشات.
+ج٥: منتدى مجتمع Aspose هو مكان ممتاز لطلب المساعدة. تفضل بزيارة [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/14) للدعم والمناقشات.
 
 ## موارد
 
@@ -221,7 +221,7 @@ public class ExtractExifData {
 - **شراء**:تعرف على المزيد حول خيارات الترخيص على [صفحة شراء Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**:اختبار ميزات Aspose.Imaging مع نسخة تجريبية مجانية متاحة على [تنزيلات Aspose](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**:تقدم بطلب للحصول على وصول موسع عبر [ترخيص Aspose المؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم**:التفاعل مع المجتمع على [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **يدعم**:التفاعل مع المجتمع على [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

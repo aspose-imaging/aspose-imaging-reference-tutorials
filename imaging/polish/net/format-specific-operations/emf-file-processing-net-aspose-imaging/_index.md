@@ -142,7 +142,7 @@ A: Oczywiście. Użyj `Save` Aby to osiągnąć, należy zastosować metodę z r
 - **Kup licencję:** [Opcje zakupu Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Pobierz bezpłatną kopię ewaluacyjną](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa:** [Poproś o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia:** [Społeczność wsparcia Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia:** [Społeczność wsparcia Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Przeglądaj te zasoby, aby pogłębić swoje zrozumienie i ulepszyć implementacje przy użyciu Aspose.Imaging dla .NET. Miłego kodowania!
 

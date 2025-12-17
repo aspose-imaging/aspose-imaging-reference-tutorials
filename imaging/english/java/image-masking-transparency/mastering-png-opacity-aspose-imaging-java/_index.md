@@ -184,7 +184,7 @@ Ready to explore further? Try implementing this solution and see how it transfor
 - **Purchase**: Consider purchasing for full access at [Aspose purchase site](https://purchase.aspose.com/buy).
 - **Free Trial**: Try out features with a free trial available on the same page.
 - **Temporary License**: Apply for a temporary license to extend your evaluation period.
-- **Support**: Join discussions and ask questions on the [Aspose forum](https://forum.aspose.com/c/imaging/10).
+- **Support**: Join discussions and ask questions on the [Aspose forum](https://forum.aspose.com/c/imaging/14).
 
 With this comprehensive guide, you're now ready to master image transparency in Java using Aspose.Imaging. Happy coding!
 

@@ -242,7 +242,7 @@ A: 必要なフレームだけを読み込み、オブジェクトを速やか�
 - **購入:** [Aspose.Imaging ライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [Aspose.Imaging を試す](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** [一時ライセンスをリクエスト](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム:** [Aspose Imaging フォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム:** [Aspose Imaging フォーラム](https://forum.aspose.com/c/imaging/14)
 ---
 
 **Last Updated:** 2025-12-11  

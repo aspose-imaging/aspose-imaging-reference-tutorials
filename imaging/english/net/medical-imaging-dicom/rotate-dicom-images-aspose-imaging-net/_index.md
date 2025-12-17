@@ -152,7 +152,7 @@ Visit [Aspose Purchase](https://purchase.aspose.com/buy) for information on purc
 - **Documentation:** Explore comprehensive guides at [Aspose.Imaging Documentation](https://reference.aspose.com/imaging/net/).
 - **Download:** Get the latest version of Aspose.Imaging from [Releases Page](https://releases.aspose.com/imaging/net/).
 - **Purchase and Licensing:** More details on purchasing options are available at [Purchase](https://purchase.aspose.com/buy) and [Temporary License](https://purchase.aspose.com/temporary-license/).
-- **Support:** For questions or issues, visit the [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Support:** For questions or issues, visit the [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

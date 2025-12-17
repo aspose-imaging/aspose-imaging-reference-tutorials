@@ -171,7 +171,7 @@ A5: Yes, you can load and further manipulate the SVG file as needed. Just ensure
 - **Purchase**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start with a Free Trial](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Apply for a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

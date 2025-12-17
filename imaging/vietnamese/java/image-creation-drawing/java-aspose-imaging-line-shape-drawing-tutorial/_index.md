@@ -241,7 +241,7 @@ Bạn đã học cách tận dụng thư viện Aspose.Imaging để vẽ các �
 - [Tùy chọn mua hàng](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Bây giờ bạn đã có hướng dẫn toàn diện về cách triển khai các tính năng vẽ bằng Aspose.Imaging cho Java, hãy bắt đầu thử nghiệm và tích hợp các kỹ thuật này vào dự án của bạn. Chúc bạn viết mã vui vẻ!
 

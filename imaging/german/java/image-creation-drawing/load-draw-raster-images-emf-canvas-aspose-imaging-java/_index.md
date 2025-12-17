@@ -191,7 +191,7 @@ Zu den häufigen Problemen zählen die unsachgemäße Handhabung der Bildentsorg
 - **Kaufen**: https://purchase.aspose.com/buy
 - **Kostenlose Testversion**: https://releases.aspose.com/imaging/java/
 - **Temporäre Lizenz**: https://purchase.aspose.com/temporary-license/
-- **Unterstützung**: https://forum.aspose.com/c/imaging/10
+- **Unterstützung**: https://forum.aspose.com/c/imaging/14
 
 Wir hoffen, dass Ihnen dieser Leitfaden bei Ihren Projekten hilfreich ist. Viel Spaß beim Programmieren!
 

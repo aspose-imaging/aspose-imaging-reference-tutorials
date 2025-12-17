@@ -258,7 +258,7 @@ A5: Sử dụng khối try-catch để quản lý các trường hợp ngoại l
 - **Mua**: [Mua Aspose Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Yêu cầu ở đây](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

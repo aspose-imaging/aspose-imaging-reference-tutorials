@@ -177,7 +177,7 @@ Siap untuk mulai menerapkan? Terjunlah ke dunia pemrosesan gambar dengan percaya
 - **Pembelian:** https://purchase.aspose.com/beli
 - **Uji Coba Gratis:** https://releases.aspose.com/imaging/java/
 - **Lisensi Sementara:** https://purchase.aspose.com/lisensi-sementara/
-- **Mendukung:** https://forum.aspose.com/c/imaging/10
+- **Mendukung:** https://forum.aspose.com/c/imaging/14
 
 Mulailah bereksperimen dengan Aspose.Imaging untuk Java hari ini dan buka kemungkinan baru dalam pemrosesan gambar!
 

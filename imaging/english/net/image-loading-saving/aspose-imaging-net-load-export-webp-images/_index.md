@@ -134,7 +134,7 @@ You've now mastered loading an image and exporting it to WebP using Aspose.Imagi
 ### Next Steps
 - Experiment with different export options like adjusting quality levels.
 - Explore integrating Aspose.Imaging into larger projects or workflows.
-- Engage with the community on the [Aspose Forum](https://forum.aspose.com/c/imaging/10) for support and ideas.
+- Engage with the community on the [Aspose Forum](https://forum.aspose.com/c/imaging/14) for support and ideas.
 
 ## FAQ Section
 
@@ -159,7 +159,7 @@ Ensure your paths are correct and that the input file exists. Check for exceptio
 - **Purchase:** [Buy a License](https://purchase.aspose.com/buy)
 - **Free Trial:** [Start Here](https://releases.aspose.com/imaging/net/)
 - **Temporary License:** [Request One](https://purchase.aspose.com/temporary-license/)
-- **Support Forum:** [Aspose Support](https://forum.aspose.com/c/imaging/10)
+- **Support Forum:** [Aspose Support](https://forum.aspose.com/c/imaging/14)
 
 Embark on your image processing journey with confidence using Aspose.Imaging .NET, and explore endless possibilities in digital imaging.
 

@@ -177,7 +177,7 @@ Sẵn sàng bắt đầu triển khai? Hãy tự tin dấn thân vào thế gi�
 - **Mua:** https://purchase.aspose.com/mua
 - **Dùng thử miễn phí:** https://releases.aspose.com/imaging/java/
 - **Giấy phép tạm thời:** https://purchase.aspose.com/giấy-phép-tạm-thời/
-- **Ủng hộ:** https://forum.aspose.com/c/imaging/10
+- **Ủng hộ:** https://forum.aspose.com/c/imaging/14
 
 Hãy bắt đầu thử nghiệm với Aspose.Imaging for Java ngay hôm nay và mở khóa những khả năng mới trong xử lý hình ảnh!
 

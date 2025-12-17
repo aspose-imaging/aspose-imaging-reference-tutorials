@@ -159,7 +159,7 @@ PNG 포맷은 손실 없는 압축을 지원하고 투명도를 적용하면서�
 - **라이센스 구매**: [Aspose.Licensing을 구매하세요](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging을 사용해 보세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [임시 허가 요청](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [Aspose 이미징 지원](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [Aspose 이미징 지원](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

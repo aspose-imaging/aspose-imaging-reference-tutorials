@@ -188,7 +188,7 @@ using (Image image = Image.Create(webPOptions, 1000, 1000))
 - **ซื้อ**- [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [เริ่มทดลองใช้งานฟรี](https://releases.aspose.com/imaging/net/)
 - **ใบอนุญาตชั่วคราว**- [การขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน**- [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน**- [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14)
 
 ร่วมออกเดินทางไปกับ Aspose.Imaging วันนี้ และปลดล็อกศักยภาพของการประมวลผลภาพใน .NET!
 

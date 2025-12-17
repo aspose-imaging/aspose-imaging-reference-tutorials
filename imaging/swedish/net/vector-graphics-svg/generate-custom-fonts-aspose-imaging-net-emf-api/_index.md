@@ -181,7 +181,7 @@ Redo att ta dina kunskaper vidare? Implementera dessa tekniker och se hur de fö
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din resa med Aspose.Imaging idag och lyft dina .NET-applikationer till nya höjder!
 

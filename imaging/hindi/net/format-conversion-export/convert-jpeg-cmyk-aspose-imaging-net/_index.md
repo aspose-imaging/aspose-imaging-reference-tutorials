@@ -136,7 +136,7 @@ Aspose.Imaging की दोषरहित CMYK रूपांतरण क्
 - **खरीद लाइसेंस**: [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [Aspose.Imaging को निःशुल्क आज़माएँ](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच**: [Aspose.Imaging समर्थन](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच**: [Aspose.Imaging समर्थन](https://forum.aspose.com/c/imaging/14)
 हमें उम्मीद है कि यह गाइड Aspose.Imaging for .NET के साथ इमेज प्रोसेसिंग में महारत हासिल करने में मददगार साबित होगी। हैप्पी कोडिंग!
 
 {{< /blocks/products/pf/tutorial-page-section >}}

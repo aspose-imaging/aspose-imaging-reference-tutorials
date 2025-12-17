@@ -186,7 +186,7 @@ Volgende stappen kunnen bestaan uit het integreren van deze conversies in een we
 - [Abonnement kopen](https://purchase.aspose.com/buy)
 - [Gratis proeflicentie](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u goed op weg om het converteren van afbeeldingen in Java met Aspose.Imaging onder de knie te krijgen. Veel plezier met coderen!
 

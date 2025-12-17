@@ -241,7 +241,7 @@ Megtanultad, hogyan használhatod az Aspose.Imaging könyvtárat vonalak, alakza
 - [Vásárlási lehetőségek](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Most, hogy átfogó útmutatót kaptál a rajzolási funkciók Aspose.Imaging for Java segítségével történő megvalósításához, kezdj el kísérletezni és integrálni ezeket a technikákat a projektjeidbe. Jó kódolást!
 

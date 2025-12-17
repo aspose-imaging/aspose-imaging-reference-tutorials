@@ -166,7 +166,7 @@ Aspose.Imaging を .NET で使用して、効率的な画像の読み込みと�
 - [購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET を導入して、画像処理機能を次のレベルに引き上げましょう。
 

@@ -178,7 +178,7 @@ Nästa steg? Experimentera med olika konfigurationer eller integrera den här fu
 - **Dokumentation**Utforska omfattande guider på [Aspose Imaging .NET-referens](https://reference.aspose.com/imaging/net/).
 - **Ladda ner**Få tillgång till de senaste utgåvorna via [Aspose-utgåvor](https://releases.aspose.com/imaging/net/).
 - **Köp och gratis provperiod**Överväg att prova eller köpa via den officiella [Aspose köpsida](https://purchase.aspose.com/buy) och [Gratis provperioder](https://releases.aspose.com/imaging/net/).
-- **Stöd**För eventuella frågor, besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/10).
+- **Stöd**För eventuella frågor, besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

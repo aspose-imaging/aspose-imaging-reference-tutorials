@@ -212,7 +212,7 @@ A4: Ziyaret [Aspose'nin geçici lisans sayfası](https://purchase.aspose.com/tem
 
 **S5: Sorunlarla karşılaşırsam hangi kaynaklara erişebilirim?**
 
-A5: Aspose topluluk forumu yardım aramak için mükemmel bir yerdir. Şuraya göz atın [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/10) Destek ve tartışmalar için.
+A5: Aspose topluluk forumu yardım aramak için mükemmel bir yerdir. Şuraya göz atın [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/14) Destek ve tartışmalar için.
 
 ## Kaynaklar
 
@@ -221,7 +221,7 @@ A5: Aspose topluluk forumu yardım aramak için mükemmel bir yerdir. Şuraya g�
 - **Satın almak**: Lisanslama seçenekleri hakkında daha fazla bilgi edinin [Aspose Satın Alma Sayfası](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: Aspose.Imaging özelliklerini ücretsiz deneme sürümüyle test edin [Aspose İndirmeleri](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: Genişletilmiş erişim için başvuruda bulunun [Aspose Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- **Destek**: Toplulukla etkileşim kurun [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: Toplulukla etkileşim kurun [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

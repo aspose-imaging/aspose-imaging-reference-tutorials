@@ -205,7 +205,7 @@ V tomto tutoriálu jsme prozkoumali, jak implementovat automatické maskování 
 - Experimentujte s různými konfiguracemi možností maskování.
 - Prozkoumejte další funkce nabízené službou Aspose.Imaging pro další možnosti zpracování obrazu.
 
-Pro další dotazy nebo podporu navštivte [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10).
+Pro další dotazy nebo podporu navštivte [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14).
 
 ## Sekce Často kladených otázek
 
@@ -231,7 +231,7 @@ A: Bezplatná zkušební verze vám umožňuje otestovat všechny funkce, ale za
 - **Nákup**: [Možnosti licencování Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začněte s bezplatnou zkušební verzí](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na cestu k zvládnutí automatického maskování obrázků s Aspose.Imaging a Javou ještě dnes!
 

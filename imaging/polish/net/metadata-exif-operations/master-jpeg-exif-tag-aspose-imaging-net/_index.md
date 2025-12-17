@@ -149,7 +149,7 @@ A3: Zaimplementuj bloki try-catch w kodzie ładowania obrazów, aby sprawnie obs
 A4: Tak, możesz odczytywać i zapisywać znaczniki EXIF przy użyciu kompleksowego API Aspose.Imaging.
 
 **P5: Gdzie mogę uzyskać pomoc, jeśli napotkam problemy?**
-A5: Odwiedź [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) o wsparcie społeczności i władz.
+A5: Odwiedź [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) o wsparcie społeczności i władz.
 
 ## Zasoby
 

@@ -186,7 +186,7 @@ Aspose.Imaging for .NET を使って EMF 画像を読み込み、切り抜き、
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアルアクセス](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス申請](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 この包括的なガイドは、EMF画像処理機能を.NETアプリケーションに効果的に統合するために必要な知識とスキルを習得できるように設計されています。Aspose.Imagingを使用すると、開発ツールキットを拡張し、プロジェクトの機能を強化することができます。
 

@@ -159,7 +159,7 @@ Seguendo questo tutorial, hai imparato a caricare e disegnare immagini raster su
 - **Opzioni di acquisto:** https://purchase.aspose.com/buy
 - **Prova gratuita:** https://releases.aspose.com/imaging/java/
 - **Licenza temporanea:** https://purchase.aspose.com/licenza-temporanea/
-- **Forum di supporto:** https://forum.aspose.com/c/imaging/10
+- **Forum di supporto:** https://forum.aspose.com/c/imaging/14
 
 Sfruttando Aspose.Imaging per Java, puoi migliorare le tue applicazioni con funzionalità avanzate di elaborazione delle immagini. Buon lavoro!
 

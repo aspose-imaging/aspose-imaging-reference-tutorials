@@ -172,7 +172,7 @@ A: Ghé thăm [Tài liệu Aspose.Imaging](https://reference.aspose.com/imaging/
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu với bản dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Yêu cầu ở đây](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Cộng đồng hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Cộng đồng hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn này cung cấp cho bạn kiến thức để tự tin thao tác với ảnh GIF bằng Aspose.Imaging cho Java. Chúc bạn viết mã vui vẻ!
 

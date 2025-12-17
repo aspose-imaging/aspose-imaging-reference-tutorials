@@ -258,7 +258,7 @@ A5: Valutare la possibilità di elaborare immagini di grandi dimensioni in blocc
 - **Acquista licenza:** [Acquista una licenza](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Ottieni la tua prova gratuita](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea:** [Ottieni la licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Forum di supporto:** [Supporto Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum di supporto:** [Supporto Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Ci auguriamo che questo tutorial ti abbia fornito le competenze necessarie per migliorare le tue attività di elaborazione delle immagini utilizzando Aspose.Imaging per Java. Buona programmazione!
 

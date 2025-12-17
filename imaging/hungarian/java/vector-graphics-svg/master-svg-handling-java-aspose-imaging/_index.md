@@ -282,7 +282,7 @@ Az Aspose.Imaging Java használatával könnyedén kezelhetsz SVG-ket. Ez az okt
 - [Aspose.Imaging letöltése Java-hoz](https://releases.aspose.com/imaging/java/)
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió és ideiglenes licenc](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Indulj el az Aspose.Imaging Java segítségével még ma, és használd ki az alkalmazásaidban rejlő hatékony képfeldolgozási lehetőségeket!
 

@@ -177,7 +177,7 @@ BMP オプションを設定すると、開発者は色深度や圧縮などの�
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imaging 無料トライアル](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスを申請する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このチュートリアルでは、Aspose.Imaging を使用して Java プロジェクトに BMP オプションを効果的に実装するために必要な基礎知識を習得します。コーディングを楽しみましょう！
 

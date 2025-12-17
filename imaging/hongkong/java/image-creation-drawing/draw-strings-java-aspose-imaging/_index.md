@@ -204,7 +204,7 @@ image.save();
 - **購買：** [購買 Aspose.Imaging 許可證](https://purchase.aspose.com/buy)
 - **免費試用：** [免費試用 Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **臨時執照：** [申請臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10) 
+- **支持：** [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14) 
 
 探索這些資源，進一步加深您對 Aspose.Imaging for Java 的理解和掌握。祝您程式愉快！
 

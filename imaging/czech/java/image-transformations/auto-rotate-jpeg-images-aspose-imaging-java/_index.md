@@ -184,7 +184,7 @@ Jste připraveni přijmout další výzvu? Zaveďte tyto techniky a sledujte, ja
 - **Nákup**Zvažte zakoupení licence pro dlouhodobé užívání na adrese [Nákupní stránka Aspose](https://purchase.aspose.com/buy).
 - **Bezplatná zkušební verze**Začněte s bezplatnou zkušební verzí a prozkoumejte funkce na [Bezplatná zkušební verze Aspose Imaging](https://releases.aspose.com/imaging/java/).
 - **Dočasná licence**Získejte dočasnou licenci pro prodloužené testování.
-- **Podpora**Připojte se k komunitnímu fóru a získejte pomoc na adrese [Fórum Aspose](https://forum.aspose.com/c/imaging/10). 
+- **Podpora**Připojte se k komunitnímu fóru a získejte pomoc na adrese [Fórum Aspose](https://forum.aspose.com/c/imaging/14). 
 
 S tímto komplexním průvodcem jste dobře vybaveni pro zpracování obrázků JPEG pomocí Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

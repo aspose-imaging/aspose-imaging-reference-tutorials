@@ -207,7 +207,7 @@ A3: 예, Aspose.Imaging은 다음과 같은 형식별 옵션을 통해 압축 �
 A4: 물론입니다! .NET의 병렬 프로그래밍 기술을 사용하면 여러 파일을 효율적으로 처리할 수 있습니다.
 
 **질문 5: Aspose.Imaging에서 자주 발생하는 문제는 어떻게 해결할 수 있나요?**
-A5: 확인하세요 [지원 포럼](https://forum.aspose.com/c/imaging/10) 일반적인 문제에 대한 해결책을 알아보고 광범위한 정보를 참조하세요. [선적 서류 비치](https://reference.aspose.com/imaging/net/) 지침을 위해.
+A5: 확인하세요 [지원 포럼](https://forum.aspose.com/c/imaging/14) 일반적인 문제에 대한 해결책을 알아보고 광범위한 정보를 참조하세요. [선적 서류 비치](https://reference.aspose.com/imaging/net/) 지침을 위해.
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -186,7 +186,7 @@ Sie beherrschen nun die Konvertierung von EMF-Bildern in verschiedene Formate mi
    - Häufige Probleme sind falsche Dateipfade oder nicht unterstützte Formatkonvertierungen. Stellen Sie sicher, dass Ihr Setup den Schritten des Tutorials entspricht.
 
 5. **Wo finde ich Unterstützung für Aspose.Imaging?**
-   - Besuchen Sie die [Aspose-Forum](https://forum.aspose.com/c/imaging/10) um Hilfe zu erhalten und mit anderen Benutzern in Kontakt zu treten.
+   - Besuchen Sie die [Aspose-Forum](https://forum.aspose.com/c/imaging/14) um Hilfe zu erhalten und mit anderen Benutzern in Kontakt zu treten.
 
 ## Ressourcen
 

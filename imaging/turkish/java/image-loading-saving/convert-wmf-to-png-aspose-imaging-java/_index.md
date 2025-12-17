@@ -193,7 +193,7 @@ Diğer vektör grafikleri için format dönüştürme veya gelişmiş düzenleme
 - [Java için Aspose.Imaging'i indirin](https://releases.aspose.com/imaging/java/)
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme ve Geçici Lisans](https://releases.aspose.com/imaging/java/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging Java ile yolculuğunuza bugün başlayın ve görüntü işleme görevlerinizi ele alma şeklinizi değiştirin!
 

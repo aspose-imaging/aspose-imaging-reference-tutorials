@@ -149,7 +149,7 @@ Aprendió a convertir un archivo SVG a formato SVGZ comprimido con Aspose.Imagin
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/net/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 ¡Embárquese en su viaje con Aspose.Imaging para .NET y explore el potencial de los gráficos vectoriales optimizados hoy mismo!
 

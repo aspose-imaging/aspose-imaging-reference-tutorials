@@ -180,7 +180,7 @@ To further explore Aspose.Imaging's capabilities, consider delving into its comp
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Free Trial Version](https://releases.aspose.com/imaging/java/)
 - [Temporary License Information](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 By following this guide, you're well on your way to implementing a robust solution for managing JPEG image quality with Aspose.Imaging for Java. Happy coding!
 

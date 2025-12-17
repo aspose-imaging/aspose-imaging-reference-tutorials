@@ -130,7 +130,7 @@ Bu eğitim boyunca, .NET'te Aspose.Imaging kullanarak BMP dosyalarının PNG'ler
 
 Becerilerinizi daha da geliştirmek için:
 - Görüntü düzenleme veya biçim dönüştürmeleri gibi Aspose.Imaging'in ek özelliklerini keşfedin.
-- Toplulukla etkileşim kurun [Aspose'nin forumu](https://forum.aspose.com/c/imaging/10) Görüş paylaşmak ve tavsiye almak.
+- Toplulukla etkileşim kurun [Aspose'nin forumu](https://forum.aspose.com/c/imaging/14) Görüş paylaşmak ve tavsiye almak.
 
 .NET uygulamalarınızda resimleri dönüştürmeye başlamaya hazır mısınız? Bugün deneyin!
 

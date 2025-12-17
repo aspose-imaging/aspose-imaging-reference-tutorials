@@ -181,7 +181,7 @@ tym samouczku nauczyłeś się, jak ładować i zapisywać obrazy DICOM przy uż
 - **Pobierać:** [Najnowsze wydania](https://releases.aspose.com/imaging/java/)
 - **Zakup:** [Kup licencję Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna i licencja tymczasowa:** [Rozpocznij](https://releases.aspose.com/imaging/java/)
-- **Forum wsparcia:** [Społeczność Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia:** [Społeczność Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ten kompleksowy przewodnik wyposażył Cię w umiejętności potrzebne do efektywnego zarządzania obrazami DICOM w aplikacjach Java przy użyciu Aspose.Imaging. Miłego kodowania!
 

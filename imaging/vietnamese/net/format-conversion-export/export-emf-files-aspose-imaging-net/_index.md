@@ -169,7 +169,7 @@ Bây giờ bạn đã hiểu toàn diện về việc xuất tệp EMF sang nhi�
    - Tương thích với môi trường .NET Framework và .NET Core/5+/6+.
 
 5. **Tôi có được hỗ trợ nếu gặp vấn đề không?**
-   - Có, bạn có thể truy cập diễn đàn cộng đồng và kênh hỗ trợ chính thức thông qua [Hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10).
+   - Có, bạn có thể truy cập diễn đàn cộng đồng và kênh hỗ trợ chính thức thông qua [Hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Tài nguyên
 

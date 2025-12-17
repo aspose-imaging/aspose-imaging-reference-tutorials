@@ -183,7 +183,7 @@ objimage.save(destPath, jpegOptions);
    是的， `JpegOptions` 類別提供了配置輸出品質和其他參數的方法。
 
 5. **如果遇到問題，我可以在哪裡獲得支援？**
-   訪問 [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/10) 尋求社區支持或透過其支援管道直接聯繫 Aspose。
+   訪問 [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/14) 尋求社區支持或透過其支援管道直接聯繫 Aspose。
 
 ## 資源
 

@@ -152,7 +152,7 @@ Klaar om deze oplossing in uw projecten te implementeren? Duik vandaag nog in As
 - **Licentie kopen:** [Nu kopen](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Aan de slag](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie:** [Hier aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum:** [Aspose-gemeenschap](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum:** [Aspose-gemeenschap](https://forum.aspose.com/c/imaging/14)
 
 Begin vandaag nog met Aspose.Imaging voor .NET en verbeter de beeldverwerkingsmogelijkheden van uw applicatie!
 

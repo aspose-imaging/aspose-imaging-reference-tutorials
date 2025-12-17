@@ -174,7 +174,7 @@ Anda kini telah mempelajari cara memuat gambar dan mengambil tanggal terakhir ya
 - [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Permintaan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Jangan ragu untuk menjelajahi sumber daya ini untuk mendapatkan informasi dan dukungan yang lebih rinci. Selamat membuat kode!
 

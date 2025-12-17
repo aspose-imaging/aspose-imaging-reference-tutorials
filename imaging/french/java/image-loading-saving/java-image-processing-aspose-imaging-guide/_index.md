@@ -181,7 +181,7 @@ Prêt à passer à l'étape suivante ? Essayez d'appliquer ces techniques dans 
 - **Achat**: [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Essayez Aspose.Imaging gratuitement](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**: [Demander une licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum d'imagerie Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum d'imagerie Aspose](https://forum.aspose.com/c/imaging/14)
 
 Lancez-vous dans le traitement d'images en toute confiance, sachant que vous disposez des outils et des connaissances nécessaires pour réussir. Bon codage !
 

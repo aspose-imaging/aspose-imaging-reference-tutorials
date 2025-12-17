@@ -154,7 +154,7 @@ Neste tutorial, você aprendeu a converter quadros individuais de um GIF para o 
 - [Baixar Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - [Opções de licenciamento do Aspose](https://purchase.aspose.com/buy)
 - [Teste gratuito e licença temporária](https://releases.aspose.com/imaging/net/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

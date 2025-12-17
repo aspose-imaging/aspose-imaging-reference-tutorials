@@ -212,7 +212,7 @@ A4: Ghé thăm [Trang giấy phép tạm thời của Aspose](https://purchase.a
 
 **Câu hỏi 5: Tôi có thể nhờ tới những nguồn lực nào nếu gặp vấn đề?**
 
-A5: Diễn đàn cộng đồng Aspose là nơi tuyệt vời để tìm kiếm sự trợ giúp. Hãy xem [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/10) để được hỗ trợ và thảo luận.
+A5: Diễn đàn cộng đồng Aspose là nơi tuyệt vời để tìm kiếm sự trợ giúp. Hãy xem [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/14) để được hỗ trợ và thảo luận.
 
 ## Tài nguyên
 
@@ -221,7 +221,7 @@ A5: Diễn đàn cộng đồng Aspose là nơi tuyệt vời để tìm kiếm 
 - **Mua**: Tìm hiểu thêm về các tùy chọn cấp phép trên [Trang mua hàng Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: Kiểm tra các tính năng của Aspose.Imaging với bản dùng thử miễn phí có sẵn tại [Tải xuống Aspose](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: Nộp đơn xin quyền truy cập mở rộng qua [Giấy phép tạm thời Aspose](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**:Tham gia cộng đồng trên [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**:Tham gia cộng đồng trên [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

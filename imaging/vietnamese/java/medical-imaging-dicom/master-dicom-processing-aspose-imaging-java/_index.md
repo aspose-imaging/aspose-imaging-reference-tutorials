@@ -175,7 +175,7 @@ Hãy thử áp dụng giải pháp này ngay hôm nay!
 - **Mua:** Mua giấy phép sử dụng thương mại tại [Trang mua hàng Aspose](https://purchase.aspose.com/buy).
 - **Dùng thử miễn phí:** Bắt đầu với bản dùng thử miễn phí để đánh giá các tính năng tại [Dùng thử miễn phí Aspose](https://releases.aspose.com/imaging/java/).
 - **Giấy phép tạm thời:** Yêu cầu cấp giấy phép tạm thời nếu bạn cần mở rộng quyền truy cập thông qua [Trang giấy phép](https://purchase.aspose.com/temporary-license/).
-- **Ủng hộ:** Tham gia thảo luận và tìm kiếm sự trợ giúp trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10).
+- **Ủng hộ:** Tham gia thảo luận và tìm kiếm sự trợ giúp trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14).
 
 Bằng cách làm theo hướng dẫn này, bạn sẽ được trang bị đầy đủ để xử lý hình ảnh DICOM dễ dàng bằng Aspose.Imaging for Java. Chúc bạn viết mã vui vẻ!
 

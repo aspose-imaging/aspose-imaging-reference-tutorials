@@ -199,7 +199,7 @@ Aspose.Imaging for Java が非常に役立つ実用的なシナリオをいく�
    - JPEG、PNG、TIFF など 50 を超える画像形式をサポートしています。
 
 5. **問題が発生した場合、どうすればサポートを受けることができますか?**
-   - 訪問 [Asposeのフォーラム](https://forum.aspose.com/c/imaging/10) サポートとコミュニティのアドバイスについては、こちらをご覧ください。
+   - 訪問 [Asposeのフォーラム](https://forum.aspose.com/c/imaging/14) サポートとコミュニティのアドバイスについては、こちらをご覧ください。
 
 ## リソース
 

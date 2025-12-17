@@ -196,7 +196,7 @@ Como próximos passos, tente integrar esse recurso a um projeto existente ou exp
 - [Licença de compra](https://purchase.aspose.com/buy)
 - [Teste grátis](https://releases.aspose.com/imaging/java/)
 - [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte](https://forum.aspose.com/c/imaging/14)
 
 Explore estes recursos para aprofundar seu conhecimento e aprimorar ainda mais os recursos de processamento de imagens do seu aplicativo. Boa programação!
 

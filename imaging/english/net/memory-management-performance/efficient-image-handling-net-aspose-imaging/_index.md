@@ -166,7 +166,7 @@ For further information and assistance:
 - **Purchase**: [Acquire a License](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Aspose.Imaging for Free](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Request Here](https://purchase.aspose.com/temporary-license/)
-- **Support Forum**: [Aspose Support Community](https://forum.aspose.com/c/imaging/10)
+- **Support Forum**: [Aspose Support Community](https://forum.aspose.com/c/imaging/14)
 
 By following this comprehensive guide, you'll be well-equipped to tackle image processing tasks in your .NET applications with confidence and efficiency. Happy coding!
 

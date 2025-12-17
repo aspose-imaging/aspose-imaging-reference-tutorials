@@ -194,7 +194,7 @@ Aspose.Imaging .NET を使って、JPEG-LS で画像を圧縮し、視覚的に�
 - **購入**： [Aspose製品を購入する](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルを始める](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスを申請する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

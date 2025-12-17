@@ -219,7 +219,7 @@ A5: Tak, Aspose.Imaging pozwala na wszechstronne dostosowywanie pól metadanych 
 - **Zakup:** [Kup licencję](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Wypróbuj Aspose.Imaging za darmo](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa:** [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia:** [Wsparcie Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Forum wsparcia:** [Wsparcie Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Rozpocznij przygodę z Aspose.Imaging for .NET już dziś i zrewolucjonizuj sposób pracy z obrazami!
 

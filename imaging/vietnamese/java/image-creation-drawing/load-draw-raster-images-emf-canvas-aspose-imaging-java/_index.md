@@ -191,7 +191,7 @@ Các vấn đề thường gặp bao gồm việc xử lý hình ảnh không đ
 - **Mua**: https://purchase.aspose.com/buy
 - **Dùng thử miễn phí**: https://releases.aspose.com/imaging/java/
 - **Giấy phép tạm thời**: https://purchase.aspose.com/temporary-license/
-- **Ủng hộ**: https://forum.aspose.com/c/imaging/10
+- **Ủng hộ**: https://forum.aspose.com/c/imaging/14
 
 Chúng tôi hy vọng bạn thấy hướng dẫn này hữu ích trong các dự án của mình. Chúc bạn viết code vui vẻ!
 

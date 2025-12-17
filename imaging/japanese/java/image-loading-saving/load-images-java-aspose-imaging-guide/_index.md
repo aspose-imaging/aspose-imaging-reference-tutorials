@@ -163,7 +163,7 @@ Java 開発を次のレベルに引き上げる準備はできていますか? �
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアルと一時ライセンス](https://releases.aspose.com/imaging/java/)
 
-ご質問等ございましたら、 [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)楽しいコーディングを！
+ご質問等ございましたら、 [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)楽しいコーディングを！
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

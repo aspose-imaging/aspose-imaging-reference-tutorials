@@ -204,7 +204,7 @@ A4: Különböző formátumokat támogat, beleértve a TIFF, JPEG, PNG és egyeb
 
 **5. kérdés: Hogyan kaphatok segítséget, ha problémákba ütközöm?**
 
-A5: Látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10) közösségi szakértők segítségét kérni.
+A5: Látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14) közösségi szakértők segítségét kérni.
 
 ## Erőforrás
 
@@ -213,7 +213,7 @@ A5: Látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/ima
 - **Vásárlás**https://purchase.aspose.com/buy
 - **Ingyenes próbaverzió**https://releases.aspose.com/imaging/java/
 - **Ideiglenes engedély**https://purchase.aspose.com/temporary-license/
-- **Támogatás**https://forum.aspose.com/c/imaging/10
+- **Támogatás**https://forum.aspose.com/c/imaging/14
 
 Ezen források felhasználásával elmélyítheted az Aspose.Imaging megértését és fejlesztheted annak használatát Java nyelven. Jó kódolást!
 

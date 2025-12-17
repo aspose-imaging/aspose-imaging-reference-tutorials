@@ -153,7 +153,7 @@ Sonraki adımlar arasında farklı kare dizileriyle denemeler yapmak ve daha gen
 - **Satın almak**: [Aspose Lisansını Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kaynakları kullanın ve bugün dinamik GIF'ler oluşturmaya başlayın!
 

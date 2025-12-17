@@ -175,7 +175,7 @@ import com.aspose.imaging.fileformats.gif.GifImage;
 - **प्रलेखन**: [Aspose.Imaging जावा संदर्भ](https://reference.aspose.com/imaging/java/)
 - **डाउनलोड करना**: [Aspose.Imaging रिलीज़](https://releases.aspose.com/imaging/java/)
 - **खरीद और लाइसेंसिंग**: [Aspose लाइसेंस खरीदें](https://purchase.aspose.com/buy), [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/), [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: समुदाय के साथ जुड़ें [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: समुदाय के साथ जुड़ें [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging को अपने Java प्रोजेक्ट में एकीकृत करके, आप शक्तिशाली इमेज प्रोसेसिंग क्षमताओं को अनलॉक कर सकते हैं जो आपके वर्कफ़्लो को सुव्यवस्थित और बेहतर बनाती हैं। हैप्पी कोडिंग!
 

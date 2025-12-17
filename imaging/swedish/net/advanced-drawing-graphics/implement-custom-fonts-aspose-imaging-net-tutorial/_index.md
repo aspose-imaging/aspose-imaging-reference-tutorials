@@ -148,7 +148,7 @@ Redo att implementera dessa lösningar i dina projekt? Testa det!
 - [Köpa](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Omfamna kraften hos Aspose.Imaging för .NET och höj dina bildbehandlingsmöjligheter idag!
 

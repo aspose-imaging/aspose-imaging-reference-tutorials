@@ -200,7 +200,7 @@ Next steps include integrating these solutions into larger projects or exploring
 - **Purchase:** [Buy License](https://purchase.aspose.com/buy)
 - **Free Trial:** [Try Free](https://releases.aspose.com/imaging/net/)
 - **Temporary License:** [Obtain Here](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Community Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Community Forum](https://forum.aspose.com/c/imaging/14)
 
 We hope this guide empowers you to manage image metadata with confidence using Aspose.Imaging for .NET. Happy coding!
 

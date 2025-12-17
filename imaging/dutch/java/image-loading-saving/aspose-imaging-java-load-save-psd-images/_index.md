@@ -193,7 +193,7 @@ Klaar om deze krachtige oplossing te implementeren? Duik vandaag nog in Aspose.I
 - **Licentie kopen:** [Koop vandaag nog een volledige licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Begin met een gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum:** [Krijg hulp van de community](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum:** [Krijg hulp van de community](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u goed toegerust om krachtige beeldverwerkingsmogelijkheden te integreren in uw Java-applicaties met Aspose.Imaging. Veel plezier met coderen!
 

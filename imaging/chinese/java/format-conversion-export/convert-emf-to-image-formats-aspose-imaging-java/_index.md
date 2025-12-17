@@ -255,7 +255,7 @@ A5：访问 [临时执照页面](https://purchase.aspose.com/temporary-license/)
 - **购买**： [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用**： [免费试用 Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **临时执照**： [申请临时执照](https://purchase.aspose.com/temporary-license/)
-- **支持**： [Aspose.Imaging 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**： [Aspose.Imaging 论坛](https://forum.aspose.com/c/imaging/14)
 
 利用这些资源，您可以扩展 Aspose.Imaging for Java 的知识和能力。祝您编程愉快！
 

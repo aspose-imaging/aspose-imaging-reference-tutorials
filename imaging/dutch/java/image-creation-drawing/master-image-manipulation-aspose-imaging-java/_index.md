@@ -199,7 +199,7 @@ Gefeliciteerd! Je hebt geleerd hoe je afbeeldingen kunt laden, bewerken en opsla
    - Het ondersteunt meer dan 50 afbeeldingsformaten, waaronder JPEG, PNG, TIFF en meer.
 
 5. **Hoe kan ik hulp krijgen als ik problemen ondervind?**
-   - Bezoek [Aspose's forum](https://forum.aspose.com/c/imaging/10) voor ondersteuning en advies van de community.
+   - Bezoek [Aspose's forum](https://forum.aspose.com/c/imaging/14) voor ondersteuning en advies van de community.
 
 ## Bronnen
 

@@ -150,7 +150,7 @@ Készen állsz a további felfedezésre? Próbáld ki a megoldást egy valós he
 - **Vásárlás:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Kezdje ingyenes próbaverzióval](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély:** [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum:** [Aspose támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum:** [Aspose támogatás](https://forum.aspose.com/c/imaging/14)
 
 Indulj el képalkotási utazásodra még ma az Aspose.Imaging segítségével, és tárd fel a digitális képmanipuláció új lehetőségeit!
 

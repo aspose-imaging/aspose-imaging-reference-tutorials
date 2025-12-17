@@ -166,7 +166,7 @@ using (FileStream outputStream = new FileStream(outputPath, FileMode.Create))
 - [Αγορά Άδειας Χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/net/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, είστε πλέον εξοπλισμένοι για να εφαρμόσετε μετατροπή EMF σε PDF στα έργα .NET σας χρησιμοποιώντας το Aspose.Imaging. Καλή κωδικοποίηση!
 

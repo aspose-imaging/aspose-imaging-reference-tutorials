@@ -153,7 +153,7 @@ A: Evet, farklı .NET Framework'ler ve Core sürümlerinde çalışacak şekilde
 - **Lisans Satın Al**: [Aspose Satın Alma Sayfası](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'i Ücretsiz Deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Aspose Destek Topluluğu](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: [Aspose Destek Topluluğu](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging ile dönüştürme sürecinde ustalaşarak, .NET uygulamalarınızda karmaşık görüntü işleme görevlerini verimli bir şekilde halletmek için donanımlı hale gelirsiniz. İyi kodlamalar!
 

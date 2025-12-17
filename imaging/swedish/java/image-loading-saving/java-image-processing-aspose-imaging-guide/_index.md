@@ -181,7 +181,7 @@ Redo att ta nästa steg? Försök att implementera dessa tekniker i dina egna Ja
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova Aspose.Imaging gratis](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Begär en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose Bildforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose Bildforum](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din bildbehandlingsresa med självförtroende, i vetskapen om att du har verktygen och kunskapen för att lyckas. Lycka till med kodningen!
 

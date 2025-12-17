@@ -199,7 +199,7 @@ En este tutorial, hemos explorado cómo cargar y redimensionar imágenes DICOM c
 - [Compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Este tutorial te proporciona los conocimientos necesarios para manipular imágenes DICOM con Aspose.Imaging Java, garantizando así la eficiencia y la escalabilidad de tus aplicaciones. ¡Que disfrutes programando!
 

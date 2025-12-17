@@ -230,7 +230,7 @@ A5: Ensure you're caching images after loading, resize efficiently using proport
 - **Purchase**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Aspose.Imaging Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10) 
+- **Support**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14) 
 
 With this comprehensive guide, you're well-equipped to start integrating Aspose.Imaging into your Java projects for efficient image management. Happy coding!
 

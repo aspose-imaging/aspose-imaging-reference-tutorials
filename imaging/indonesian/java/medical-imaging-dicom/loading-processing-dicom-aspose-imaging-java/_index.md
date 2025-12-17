@@ -182,7 +182,7 @@ Untuk terus menjelajahi apa yang ditawarkan Aspose.Imaging, pertimbangkan untuk 
 - [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - [Lisensi Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Permintaan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda akan diperlengkapi dengan baik untuk menangani gambar DICOM secara efisien menggunakan Aspose.Imaging untuk Java. Selamat membuat kode!
 

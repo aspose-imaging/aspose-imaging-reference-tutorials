@@ -169,7 +169,7 @@ A3: A könyvtár az ilyen eseteket szabályosan kezeli, ha a hiányzó adatmező
 4. válasz: A próbaverziónak lehetnek használati korlátozásai, például vízjel vagy feldolgozási korlátok.
 
 **5. kérdés: Hogyan kaphatok támogatást, ha problémákba ütközöm az Aspose.Imaging használatával?**
-A5: Látogassa meg a [Aspose fórumok](https://forum.aspose.com/c/imaging/10) a közösségi és hivatalos támogatásért.
+A5: Látogassa meg a [Aspose fórumok](https://forum.aspose.com/c/imaging/14) a közösségi és hivatalos támogatásért.
 
 ## Erőforrás
 
@@ -178,7 +178,7 @@ A5: Látogassa meg a [Aspose fórumok](https://forum.aspose.com/c/imaging/10) a 
 - **Vásárlás**: Szerezzen be licencet a következőn keresztül: [Aspose vásárlás](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**Kezdje egy ingyenes próbaverzióval a következő címen: [Aspose.Imaging ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: Ideiglenes engedélyt kérek a következőtől: [Aspose ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**Csatlakozz a beszélgetéshez itt: [Aspose támogatási fórumok](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**Csatlakozz a beszélgetéshez itt: [Aspose támogatási fórumok](https://forum.aspose.com/c/imaging/14)
 
 Indulj el az utazásodra az Aspose.Imaging for Java segítségével, és tárd fel a képfeldolgozás új lehetőségeit még ma!
 

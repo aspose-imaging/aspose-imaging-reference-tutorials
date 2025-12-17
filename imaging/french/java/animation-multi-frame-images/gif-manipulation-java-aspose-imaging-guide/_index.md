@@ -172,7 +172,7 @@ A : Visitez le [Documentation d'Aspose.Imaging](https://reference.aspose.com/ima
 - **Achat**: [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencez par un essai gratuit](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**: [Demandez ici](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance**: [Communauté de soutien Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance**: [Communauté de soutien Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ce guide vous donne les connaissances nécessaires pour manipuler des images GIF en toute confiance avec Aspose.Imaging pour Java. Bon codage !
 

@@ -133,7 +133,7 @@ Som nästa steg, överväg att utforska ytterligare funktioner i Aspose.Imaging 
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din resa mot att bemästra bildbehandling med Aspose.Imaging för .NET idag!
 

@@ -191,7 +191,7 @@ A5: Ναι, το Aspose.Imaging υποστηρίζει ένα ευρύ φάσμ�
 - **Αγορά:** [Αγοράστε το Aspose.License](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Ξεκινήστε τη δωρεάν δοκιμή σας](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτό το σεμινάριο, έχετε εξοπλίσει τον εαυτό σας με τις δεξιότητες για να αντιμετωπίσετε αποτελεσματικά τις εργασίες δυαδοποίησης εικόνων χρησιμοποιώντας το Aspose.Imaging για Java. Καλή κωδικοποίηση!
 

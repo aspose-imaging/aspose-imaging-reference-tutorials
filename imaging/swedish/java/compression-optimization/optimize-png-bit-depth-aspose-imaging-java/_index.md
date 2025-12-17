@@ -173,7 +173,7 @@ Vid det här laget bör du ha en gedigen förståelse för hur man använder Asp
 - **Köpa:** Överväg att köpa en licens om du tycker att Aspose.Imaging är fördelaktigt.
 - **Gratis provperiod:** Börja med en gratis provperiod för att utvärdera funktionerna.
 - **Tillfällig licens:** Erhåll en tillfällig licens för utökad utvärdering.
-- **Stöd:** Gå med i gemenskapen på [Aspose-forum](https://forum.aspose.com/c/imaging/10) för hjälp. 
+- **Stöd:** Gå med i gemenskapen på [Aspose-forum](https://forum.aspose.com/c/imaging/14) för hjälp. 
 
 Genom att följa den här handledningen kommer du att vara väl rustad för att förbättra dina bildbehandlingsmöjligheter med Aspose.Imaging Java.
 

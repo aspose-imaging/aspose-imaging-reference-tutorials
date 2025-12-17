@@ -148,7 +148,7 @@ Wykorzystuj buforowane strumienie i zapewnij właściwą utylizację zasobów, a
 - **Zakup:** [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Zacznij od bezpłatnego okresu próbnego](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa:** [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie:** [Wsparcie forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie:** [Wsparcie forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ten przewodnik ma pomóc Ci wykorzystać pełen potencjał Aspose.Imaging w Twoich projektach .NET. Miłego kodowania!
 

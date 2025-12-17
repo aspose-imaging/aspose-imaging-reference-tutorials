@@ -180,7 +180,7 @@ rasterImage.Save(outputDir + "CroppingByRectangle_out.jpg");
 - **购买许可证：** https://purchase.aspose.com/buy
 - **免费试用：** https://releases.aspose.com/imaging/net/
 - **临时执照：** https://purchase.aspose.com/temporary-license/
-- **支持论坛：** https://forum.aspose.com/c/imaging/10
+- **支持论坛：** https://forum.aspose.com/c/imaging/14
 
 立即开始将这些图像处理技术集成到您的项目中，看看性能和效率的差异！
 

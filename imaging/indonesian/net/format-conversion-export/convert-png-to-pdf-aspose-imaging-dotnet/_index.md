@@ -166,7 +166,7 @@ Pertimbangkan untuk membagi gambar besar menjadi segmen yang lebih kecil sebelum
 - **Pembelian**: [Beli Lisensi Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda dengan Aspose.Imaging hari ini dan ubah tugas pemrosesan gambar Anda menjadi alur kerja yang efisien.
 

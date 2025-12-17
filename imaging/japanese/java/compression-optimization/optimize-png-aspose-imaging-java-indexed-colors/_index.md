@@ -228,7 +228,7 @@ image.save(outDir + "result.png", options);
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imaging を試す](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose Imagingフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose Imagingフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを活用することで、Aspose.Imagingとその機能への理解を深めることができます。コーディングを楽しみましょう！
 

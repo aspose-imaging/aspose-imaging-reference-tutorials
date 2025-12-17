@@ -204,7 +204,7 @@ Ebben az útmutatóban azt vizsgáltuk meg, hogyan lehet a DICOM képeket arány
 - **Vásárlás**https://purchase.aspose.com/buy
 - **Ingyenes próbaverzió**https://releases.aspose.com/imaging/java/
 - **Ideiglenes engedély**https://purchase.aspose.com/temporary-license/
-- **Támogatás**https://forum.aspose.com/c/imaging/10
+- **Támogatás**https://forum.aspose.com/c/imaging/14
 
 Ezen források felhasználásával elmélyítheted a megértésedet, és hatékonyan megvalósíthatod az Aspose.Imaging-et a Java alkalmazásaidban. Jó kódolást!
 

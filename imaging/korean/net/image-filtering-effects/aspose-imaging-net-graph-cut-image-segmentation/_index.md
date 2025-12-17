@@ -178,7 +178,7 @@ Aspose.Imaging을 사용할 때 최적의 성능을 보장하려면:
 - **선적 서류 비치**: 포괄적인 가이드를 탐색하세요 [Aspose Imaging .NET 참조](https://reference.aspose.com/imaging/net/).
 - **다운로드**: 최신 릴리스에 액세스하세요 [Aspose 릴리스](https://releases.aspose.com/imaging/net/).
 - **구매 및 무료 체험**: 공식 판매처를 통해 직접 체험해보거나 구매해보는 것을 고려해 보세요. [Aspose 구매 페이지](https://purchase.aspose.com/buy) 그리고 [무료 체험판](https://releases.aspose.com/imaging/net/).
-- **지원하다**: 문의사항은 다음 웹사이트를 방문하세요. [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10).
+- **지원하다**: 문의사항은 다음 웹사이트를 방문하세요. [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

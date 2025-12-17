@@ -223,7 +223,7 @@ try {
 - **Download:** 最新バージョンの Aspose.Imaging は [Releases Page](https://releases.aspose.com/imaging/java/) から入手できます。  
 - **Purchase:** フルライセンスは [Aspose Purchase Page](https://purchase.aspose.com/buy) で取得できます。  
 - **Free Trial:** 無料トライアルは [Temporary License Page](https://purchase.aspose.com/temporary-license/) で利用可能です。  
-- **Support:** 議論に参加したり助けを求めるには [Aspose Forum](https://forum.aspose.com/c/imaging/10) をご利用ください。
+- **Support:** 議論に参加したり助けを求めるには [Aspose Forum](https://forum.aspose.com/c/imaging/14) をご利用ください。
 
 ---
 

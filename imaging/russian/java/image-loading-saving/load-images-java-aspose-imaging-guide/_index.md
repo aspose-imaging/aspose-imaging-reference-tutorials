@@ -163,7 +163,7 @@ try (Image image = Image.load(inputFileName)) {
 - [Купить лицензию](https://purchase.aspose.com/buy)
 - [Бесплатная пробная версия и временная лицензия](https://releases.aspose.com/imaging/java/)
 
-Если у вас есть дополнительные вопросы, посетите [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10). Удачного кодирования!
+Если у вас есть дополнительные вопросы, посетите [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14). Удачного кодирования!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

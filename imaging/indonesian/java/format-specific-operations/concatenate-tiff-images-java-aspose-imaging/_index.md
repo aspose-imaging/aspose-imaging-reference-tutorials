@@ -181,7 +181,7 @@ Kami menganjurkan Anda untuk mencoba menerapkan solusi ini dalam proyek Anda! Un
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Tutorial ini telah membekali Anda dengan pengetahuan untuk menangani tugas penggabungan gambar TIFF yang rumit menggunakan Aspose.Imaging untuk Java. Selamat membuat kode!
 

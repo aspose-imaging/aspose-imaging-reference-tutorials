@@ -158,7 +158,7 @@ I den här handledningen utforskade vi hur man öppnar och bearbetar bilder med 
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provversion](https://releases.aspose.com/imaging/java/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Den här omfattande guiden bör hjälpa dig att effektivt implementera och använda Aspose.Imaging Java för strömbaserad bildbehandling, vilket förbättrar dina applikationers prestanda och funktioner.
 

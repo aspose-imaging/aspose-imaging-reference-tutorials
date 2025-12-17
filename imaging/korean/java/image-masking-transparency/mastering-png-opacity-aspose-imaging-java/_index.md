@@ -177,7 +177,7 @@ Aspose.Imaging for Java를 활용하여 PNG 불투명도 레벨을 효과적으�
 - **구입**: 전체 액세스를 위해 구매를 고려하세요. [Aspose 구매 사이트](https://purchase.aspose.com/buy).
 - **무료 체험**: 같은 페이지에서 제공되는 무료 체험판을 통해 기능을 체험해 보세요.
 - **임시 면허**: 평가 기간을 연장하기 위해 임시 라이센스를 신청하세요.
-- **지원하다**: 토론에 참여하고 질문을 하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/10).
+- **지원하다**: 토론에 참여하고 질문을 하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/14).
 
 이 포괄적인 가이드를 통해 이제 Aspose.Imaging을 사용하여 Java에서 이미지 투명도를 완벽하게 구현할 준비가 되었습니다. 즐거운 코딩 되세요!
 

@@ -191,7 +191,7 @@ This tutorial has guided you through loading, modifying, saving, and verifying D
 - **Purchase**: [Buy Aspose Products](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Forum for Imaging](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Forum for Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -206,7 +206,7 @@ Seguindo este guia, você aprendeu a desenhar elipses com contornos pontilhados 
 - **Comprar**: https://purchase.aspose.com/buy
 - **Teste grátis**: https://releases.aspose.com/imaging/java/
 - **Licença Temporária**: https://purchase.aspose.com/temporary-license/
-- **Apoiar**: https://forum.aspose.com/c/imaging/10
+- **Apoiar**: https://forum.aspose.com/c/imaging/14
 
 Esperamos que este tutorial tenha sido útil. Boa programação!
 

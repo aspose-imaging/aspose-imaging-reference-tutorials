@@ -173,7 +173,7 @@ A5: Használat `image.resize(width, height)` hogy szükség szerint módosítsa 
 - **Vásárlás**https://purchase.aspose.com/buy
 - **Ingyenes próbaverzió**https://releases.aspose.com/imaging/java/
 - **Ideiglenes engedély**https://purchase.aspose.com/temporary-license/
-- **Támogatás**https://forum.aspose.com/c/imaging/10
+- **Támogatás**https://forum.aspose.com/c/imaging/14
 
 Ezt az útmutatót követve jó úton haladsz a Java-alkalmazásokban található képek hatékony kezeléséhez az Aspose.Imaging segítségével. Jó kódolást!
 

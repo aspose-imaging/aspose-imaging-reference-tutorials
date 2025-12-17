@@ -199,7 +199,7 @@ Warto rozważyć wykorzystanie technik przetwarzania równoległego i zadbać o 
 - **Zakup**: [Kup produkty Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Uzyskaj bezpłatną licencję próbną](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa**: [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Forum wsparcia Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Forum wsparcia Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

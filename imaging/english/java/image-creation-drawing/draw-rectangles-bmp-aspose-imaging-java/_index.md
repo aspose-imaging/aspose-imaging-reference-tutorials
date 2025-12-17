@@ -189,7 +189,7 @@ By following this guide, you've learned how to effectively use Aspose.Imaging fo
 - **Download**: [Aspose.Imaging Releases](https://releases.aspose.com/imaging/java/)
 - **Purchase**: [Aspose Licensing Options](https://purchase.aspose.com/buy)
 - **Free Trial**: [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum**: [Aspose Support Community](https://forum.aspose.com/c/imaging/10)
+- **Support Forum**: [Aspose Support Community](https://forum.aspose.com/c/imaging/14)
 
 Now that you have all the tools and knowledge, start experimenting with Aspose.Imaging for Java to unleash your creativity in image processing!
 

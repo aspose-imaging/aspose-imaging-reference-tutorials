@@ -165,7 +165,7 @@ Machen Sie den nächsten Schritt, indem Sie mit verschiedenen Konfigurationen un
 - **Kaufen:** Kaufen Sie eine Lizenz bei [Aspose-Lizenzierungsseite](https://purchase.aspose.com/buy).
 - **Kostenlose Testversion:** Probieren Sie Aspose.Imaging mit einer kostenlosen Testversion aus, die auf der Release-Seite verfügbar ist.
 - **Temporäre Lizenz:** Erhalten Sie erweiterten Zugriff über die Option einer temporären Lizenzierung.
-- **Unterstützung:** Nehmen Sie an Diskussionen teil oder suchen Sie Hilfe auf der [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Unterstützung:** Nehmen Sie an Diskussionen teil oder suchen Sie Hilfe auf der [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Fühlen Sie sich ermutigt, zu experimentieren und synchronisierten Stream-Zugriff in Ihre Java-Projekte zu integrieren, um die Stabilität und Leistung zu verbessern!
 

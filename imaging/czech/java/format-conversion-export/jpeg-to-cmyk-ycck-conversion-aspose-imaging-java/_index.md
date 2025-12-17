@@ -192,7 +192,7 @@ A: Zkontrolujte systémové prostředky a optimalizujte využití paměti. Zvaž
 - **Stáhnout:** Získejte nejnovější verzi z [Vydání Aspose.Imaging](https://releases.aspose.com/imaging/java/).
 - **Nákup:** Získejte plnou licenci na [Nákupní stránka Aspose](https://purchase.aspose.com/buy).
 - **Bezplatná zkušební verze a dočasná licence:** Vyzkoušejte si funkce bez omezení získáním bezplatné zkušební verze nebo dočasné licence na příslušných odkazech.
-- **Podpora:** Pro další pomoc navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10).
+- **Podpora:** Pro další pomoc navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

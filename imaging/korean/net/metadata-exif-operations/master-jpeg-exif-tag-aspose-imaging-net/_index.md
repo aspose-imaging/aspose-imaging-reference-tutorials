@@ -149,7 +149,7 @@ A3: 이미지 로딩 코드 주위에 try-catch 블록을 구현하여 예외를
 A4: 네, Aspose.Imaging의 포괄적인 API를 사용하면 EXIF 태그를 읽고 쓸 수 있습니다.
 
 **질문 5: 문제가 발생하면 어디에서 지원을 받을 수 있나요?**
-A5: 방문하세요 [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/10) 커뮤니티와 공식적인 지원을 위해.
+A5: 방문하세요 [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/14) 커뮤니티와 공식적인 지원을 위해.
 
 ## 자원
 

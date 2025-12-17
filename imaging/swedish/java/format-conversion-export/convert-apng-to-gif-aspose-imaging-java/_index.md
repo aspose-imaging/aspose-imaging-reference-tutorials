@@ -216,7 +216,7 @@ Grattis! Du har framgångsrikt navigerat processen att ladda, konvertera och han
    - Ja, du kan skripta batchbearbetning med hjälp av loopar eller integrera med jobbplaneringssystem.
 
 5. **Hur får jag support om jag stöter på problem?**
-   - Besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/10) för hjälp och diskussioner med andra användare.
+   - Besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/14) för hjälp och diskussioner med andra användare.
 
 ## Resurser
 

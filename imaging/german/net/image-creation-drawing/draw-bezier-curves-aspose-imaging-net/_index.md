@@ -179,7 +179,7 @@ Bereit, diese Fähigkeiten anzuwenden? Beginnen Sie noch heute mit der Erstellun
 - **Kaufen**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Versuchen Sie Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Beantragung einer temporären Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

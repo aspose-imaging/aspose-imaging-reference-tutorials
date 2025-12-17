@@ -145,7 +145,7 @@ A5：尽可能并行处理图像，并确保正确处理图像对象以有效管
 - **购买许可证**： [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用**： [试用](https://releases.aspose.com/imaging/net/)
 - **临时执照**： [在此请求](https://purchase.aspose.com/temporary-license/)
-- **支持论坛**： [提出问题](https://forum.aspose.com/c/imaging/10)
+- **支持论坛**： [提出问题](https://forum.aspose.com/c/imaging/14)
 
 立即踏上 Aspose.Imaging for .NET 之旅，开始利用图像元数据的强大功能！
 

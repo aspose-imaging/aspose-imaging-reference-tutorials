@@ -171,7 +171,7 @@ Xin chúc mừng! Bạn đã học thành công cách tải và lưu hình ảnh
 
 **Các bước tiếp theo:**
 - Khám phá các tính năng khác của Aspose.Imaging như chuyển đổi và lọc hình ảnh.
-- Tham gia [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/10) để chia sẻ hiểu biết hoặc tìm lời khuyên từ các nhà phát triển khác.
+- Tham gia [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/14) để chia sẻ hiểu biết hoặc tìm lời khuyên từ các nhà phát triển khác.
 
 Sẵn sàng đưa các dự án Java của bạn lên tầm cao mới? Hãy bắt đầu triển khai các giải pháp này ngay hôm nay!
 
@@ -199,7 +199,7 @@ Sẵn sàng đưa các dự án Java của bạn lên tầm cao mới? Hãy bắ
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Tải xuống dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu tích hợp Aspose.Imaging cho Java ngay hôm nay và hợp lý hóa quy trình xử lý hình ảnh của bạn!
 

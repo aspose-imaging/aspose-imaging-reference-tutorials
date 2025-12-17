@@ -227,7 +227,7 @@ TIFF 데이터 복구 작업 시 성능을 최적화하는 것이 중요합니�
    - 네, 적절한 라이선스를 받으면 전문가 및 기업용 애플리케이션에 적합합니다.
 
 5. **Aspose.Imaging에 대한 추가 자료는 어디에서 찾을 수 있나요?**
-   - 방문하다 [Aspose 문서](https://reference.aspose.com/imaging/java/) 그리고 [지원 포럼](https://forum.aspose.com/c/imaging/10) 자세한 가이드와 커뮤니티 도움말을 확인하세요.
+   - 방문하다 [Aspose 문서](https://reference.aspose.com/imaging/java/) 그리고 [지원 포럼](https://forum.aspose.com/c/imaging/14) 자세한 가이드와 커뮤니티 도움말을 확인하세요.
 
 ## 자원
 
@@ -236,7 +236,7 @@ TIFF 데이터 복구 작업 시 성능을 최적화하는 것이 중요합니�
 - **구입**: https://purchase.aspose.com/buy
 - **무료 체험**: https://releases.aspose.com/imaging/java/
 - **임시 면허**: https://purchase.aspose.com/temporary-license/
-- **지원하다**: https://forum.aspose.com/c/imaging/10
+- **지원하다**: https://forum.aspose.com/c/imaging/14
 
 지금 당장 Aspose.Imaging for Java로 TIFF 이미지 복구를 마스터하는 여정을 시작하세요!
 

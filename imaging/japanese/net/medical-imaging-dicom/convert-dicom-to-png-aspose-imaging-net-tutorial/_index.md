@@ -153,7 +153,7 @@ Aspose.Imaging を統合すると、これらのソリューションを PACS (�
 - **ライセンスを購入:** [今すぐ購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料トライアルを始める](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス:** [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム:** [Aspose.Imaging サポート](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム:** [Aspose.Imaging サポート](https://forum.aspose.com/c/imaging/14)
 
 このガイドを活用すれば、DICOMからPNGへの変換機能を.NETプロジェクトに統合する準備が整います。コーディングを楽しみましょう！
 

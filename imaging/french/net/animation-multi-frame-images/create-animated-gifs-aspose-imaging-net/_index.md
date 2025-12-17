@@ -153,7 +153,7 @@ Les prochaines étapes incluent l’expérimentation de différentes séquences 
 - **Achat**: [Acheter une licence Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Essai gratuit d'Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Demande de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 Utilisez ces ressources et commencez à créer des GIF dynamiques dès aujourd’hui !
 

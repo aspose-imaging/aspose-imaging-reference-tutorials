@@ -178,7 +178,7 @@ Klaar om deze kennis in de praktijk te brengen? Probeer de oplossing eens in je 
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefversie downloaden](https://releases.aspose.com/imaging/net/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

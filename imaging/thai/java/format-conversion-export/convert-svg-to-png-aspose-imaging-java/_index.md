@@ -222,7 +222,7 @@ public class Main {
 - [เอกสารประกอบ Aspose.Imaging สำหรับ Java](https://reference.aspose.com/imaging/java/)
 - [ดาวน์โหลด Aspose.Imaging สำหรับ Java](https://releases.aspose.com/imaging/java/)
 - [ซื้อใบอนุญาตหรือรับรุ่นทดลองใช้ฟรี](https://purchase.aspose.com/buy)
-- [รับการสนับสนุนจากฟอรั่มชุมชน](https://forum.aspose.com/c/imaging/10)
+- [รับการสนับสนุนจากฟอรั่มชุมชน](https://forum.aspose.com/c/imaging/14)
 
 ด้วยทรัพยากรเหล่านี้และคู่มือนี้ คุณก็พร้อมที่จะเริ่มแปลงภาพ SVG ด้วยความมั่นใจโดยใช้ Aspose.Imaging สำหรับ Java สนุกกับการเขียนโค้ด!
 

@@ -190,7 +190,7 @@ För vidare läsning och resurser:
 - [Köp licenser](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Med dessa resurser och tips är du väl rustad för att ta dig an alla utmaningar med bildmanipulation med Aspose.Imaging för .NET. Lycka till med kodningen!
 

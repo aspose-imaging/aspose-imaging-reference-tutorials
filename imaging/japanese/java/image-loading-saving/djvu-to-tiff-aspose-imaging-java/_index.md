@@ -297,7 +297,7 @@ Aspose.Imaging for Java を使用する場合は、パフォーマンスを最�
 - **購入：** [Aspose.Imaging for Java を購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [Aspose.Imagingを無料でお試しください](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従うことで、DjVuからTIFFへの変換を効率的に行うスキルを身に付けることができます。Aspose.Imagingを使って、Javaアプリケーションをさらに探求し、強化していきましょう！
 

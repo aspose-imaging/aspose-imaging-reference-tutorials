@@ -177,7 +177,7 @@ V: Ellenőrizze a [Aspose.Imaging dokumentáció](https://reference.aspose.com/i
 - **Vásárlás:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Aspose ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ez az átfogó útmutató segít hatékonyan alkalmazni a Motion Wiener szűrőt, és javítani Java-alapú képfeldolgozási projektjeidet az Aspose.Imaging segítségével.
 

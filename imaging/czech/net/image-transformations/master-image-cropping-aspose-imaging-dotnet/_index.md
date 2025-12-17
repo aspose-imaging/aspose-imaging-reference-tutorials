@@ -150,7 +150,7 @@ A5: Úkoly zahrnují změnu velikosti, převod formátů a pokročilé úpravy, 
 - **Nákup:** Prozkoumejte možnosti licencování na [Nákup Aspose](https://purchase.aspose.com/buy).
 - **Bezplatná zkušební verze:** Začněte se zkušební verzí prostřednictvím [zde](https://releases.aspose.com/imaging/net/).
 - **Dočasná licence:** Požádejte o jeden pro prodloužené testování prostřednictvím [tento odkaz](https://purchase.aspose.com/temporary-license/).
-- **Podpora:** Připojte se ke komunitnímu fóru na adrese [Podpora Aspose](https://forum.aspose.com/c/imaging/10).
+- **Podpora:** Připojte se ke komunitnímu fóru na adrese [Podpora Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

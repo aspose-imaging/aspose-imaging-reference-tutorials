@@ -175,7 +175,7 @@ Prozkoumejte další funkce Aspose.Imaging nebo jej integrujte do svých stávaj
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte Aspose.Imaging zdarma](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Tato příručka si klade za cíl poskytnout vám vše potřebné k efektivní práci s obrázky TIFF v Javě pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 

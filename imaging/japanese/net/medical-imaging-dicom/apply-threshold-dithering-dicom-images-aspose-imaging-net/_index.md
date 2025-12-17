@@ -154,7 +154,7 @@ DICOM 画像処理スキルをさらに向上させたいですか? 今すぐソ
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 この包括的なガイドには、Aspose.Imaging for .NET を使用して DICOM 画像にしきい値ディザリングを適用するために必要なものがすべて揃っており、画像処理機能が強化されます。
 

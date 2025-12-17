@@ -167,7 +167,7 @@ A5: Có, bạn có thể nối các thiết lập bộ lọc khác nhau trong `P
 - **Mua:** [Mua lại giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Hãy thử trước khi mua](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Yêu cầu ở đây](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ:** [Hỏi cộng đồng](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** [Hỏi cộng đồng](https://forum.aspose.com/c/imaging/14)
 
 Bây giờ bạn đã có đủ kiến thức, hãy bắt đầu triển khai các kỹ thuật này vào các dự án Java của mình nhé!
 

@@ -166,7 +166,7 @@ Készen áll a megoldás megvalósítására? Merüljön el mélyebben a külön
 - [Vásárlás](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezt az átfogó útmutatót követve kihasználhatod az Aspose.Imaging for Java teljes potenciálját a TIFF képek hatékony kezeléséhez. Jó kódolást!
 

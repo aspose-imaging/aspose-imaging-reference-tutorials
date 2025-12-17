@@ -212,7 +212,7 @@ Siap menguji kemampuan Anda? Mulailah menerapkan solusi ini dalam proyek Anda be
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Dapatkan Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan pemrosesan gambar Anda dengan Aspose.Imaging untuk Java, dan tingkatkan kualitas proyek Anda hari ini!
 

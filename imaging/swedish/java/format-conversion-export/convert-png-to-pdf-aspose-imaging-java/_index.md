@@ -194,7 +194,7 @@ Genom att följa den här guiden har du lärt dig hur du laddar en PNG-fil, ange
 - [Köpa](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Börja med ditt nästa projekt med tillförsikt, i vetskapen om att Aspose.Imaging för Java har allt du behöver!
 

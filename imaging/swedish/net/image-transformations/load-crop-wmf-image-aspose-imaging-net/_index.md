@@ -186,7 +186,7 @@ Nästa steg kan inkludera att experimentera med olika bildformat som stöds av A
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Få en gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Ansök om en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**: [Aspose Imaging Support](https://forum.aspose.com/c/imaging/10)
+- **Supportforum**: [Aspose Imaging Support](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din resa med Aspose.Imaging idag och lås upp den fulla potentialen av bildbehandling i .NET!
 

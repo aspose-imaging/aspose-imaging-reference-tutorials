@@ -191,7 +191,7 @@ kolejnym kroku rozważ zapoznanie się z innymi funkcjami rysowania udostępnian
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Wykorzystując Aspose.Imaging, możesz podnieść poziom swoich aplikacji Java dzięki solidnym funkcjom manipulacji obrazami. Miłego kodowania!
 

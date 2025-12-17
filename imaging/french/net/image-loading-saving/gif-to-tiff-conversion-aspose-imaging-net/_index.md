@@ -177,7 +177,7 @@ R : Bien qu’il existe un essai gratuit, une licence doit être achetée pour u
 - **Acheter une licence**: [Page d'achat d'Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Essayez Aspose.Imaging gratuitement](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Demande de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien et communauté**: [Forums Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien et communauté**: [Forums Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

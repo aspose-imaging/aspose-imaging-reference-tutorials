@@ -189,7 +189,7 @@ Görüntü düzenleme becerilerinizi daha da geliştirmek için Aspose.Imaging'i
    - Ziyaret etmek [Aspose Geçici Lisans](https://purchase.aspose.com/temporary-license/) edinme hakkında ayrıntılı bilgi için.
 
 5. **Sorunlarla karşılaşırsam hangi destek seçenekleri mevcut?**
-   - The [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10) Topluluktan ve Aspose ekibinden yardım teklif ediyor.
+   - The [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14) Topluluktan ve Aspose ekibinden yardım teklif ediyor.
 
 ## Kaynaklar
 

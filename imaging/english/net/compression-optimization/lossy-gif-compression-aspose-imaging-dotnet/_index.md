@@ -150,7 +150,7 @@ In this tutorial, you've learned how to apply lossy GIF compression using Aspose
 - **Purchase**: [Buy a License](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try It Out](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Obtain a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Ask Questions](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Ask Questions](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

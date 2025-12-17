@@ -193,7 +193,7 @@ Próbálja meg alkalmazni ezeket a megoldásokat a projektjeiben még ma!
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Kezdje el a TIFF-kezelés optimalizálásának útját még ma az Aspose.Imaging segítségével .NET-ben!
 

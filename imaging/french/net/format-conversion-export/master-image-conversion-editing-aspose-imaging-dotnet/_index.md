@@ -219,7 +219,7 @@ A5 : Oui, Aspose.Imaging permet une personnalisation complète des champs de m�
 - **Achat:** [Acheter une licence](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Essayez Aspose.Imaging gratuitement](https://releases.aspose.com/imaging/net/)
 - **Licence temporaire :** [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance :** [Assistance Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Forum d'assistance :** [Assistance Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Lancez-vous dès aujourd'hui dans votre voyage avec Aspose.Imaging pour .NET et révolutionnez votre façon de travailler avec les images !
 

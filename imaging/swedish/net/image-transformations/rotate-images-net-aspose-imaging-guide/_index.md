@@ -156,7 +156,7 @@ För vidare läsning och hjälp:
 - **Köpa**: [Köp en licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Testa Aspose.Imaging nu](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Begär här](https://purchase.aspose.com/temporary-license/)
-- **Stöd**Besök [Aspose-forumet](https://forum.aspose.com/c/imaging/10) för hjälp och diskussioner i samhället.
+- **Stöd**Besök [Aspose-forumet](https://forum.aspose.com/c/imaging/14) för hjälp och diskussioner i samhället.
 
 Genom att behärska dessa tekniker kommer du att vara väl rustad att ta itu med en mängd olika bildbehandlingsuppgifter med självförtroende. Lycka till med kodningen!
 

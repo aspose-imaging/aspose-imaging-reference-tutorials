@@ -167,7 +167,7 @@ V5: Bár hatékony, leginkább olyan képekhez alkalmas, ahol a lokális kontras
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**Bármilyen kérdés esetén látogassa meg a [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**Bármilyen kérdés esetén látogassa meg a [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Induljon el az útjára az Aspose.Imaging for .NET segítségével, és fedezze fel az orvosi képalkotás új lehetőségeit!
 

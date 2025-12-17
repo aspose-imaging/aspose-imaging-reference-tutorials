@@ -190,7 +190,7 @@ Xin chúc mừng vì đã hoàn thành hướng dẫn này! Bây giờ bạn đ�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Phiên bản dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Nộp đơn xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn cộng đồng Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn cộng đồng Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn toàn diện này, bạn có thể triển khai Aspose.Imaging hiệu quả để chuyển đổi các tệp WMF sang SVG trong Java và khám phá nhiều khả năng của nó. Chúc bạn viết mã vui vẻ!
 

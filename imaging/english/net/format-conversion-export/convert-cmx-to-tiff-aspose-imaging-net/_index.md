@@ -187,7 +187,7 @@ Ready to put these skills into practice? Dive deeper into Aspose.Imaging's capab
 4. **What should I do if my TIFF files appear corrupted after conversion?**
    - Verify that rasterization options match your image's requirements and check file paths for errors.
 5. **Is there support available if I encounter issues with Aspose.Imaging?**
-   - Yes, visit the [Aspose forum](https://forum.aspose.com/c/imaging/10) for community support or contact their support team directly.
+   - Yes, visit the [Aspose forum](https://forum.aspose.com/c/imaging/14) for community support or contact their support team directly.
 
 ## Resources
 - [Aspose.Imaging Documentation](https://reference.aspose.com/imaging/net/)

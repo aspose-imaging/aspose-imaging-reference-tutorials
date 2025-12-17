@@ -147,7 +147,7 @@ En esta guía, hemos explorado cómo implementar licencias medidas con Aspose.Im
 - Experimente más integrando licencias medidas en flujos de trabajo más complejos.
 - Explore las características adicionales que ofrece Aspose.Imaging que pueden mejorar las capacidades de su aplicación.
 
-Te animamos a probar esta implementación en tus proyectos. Si tienes preguntas o necesitas ayuda, no dudes en contactarnos a través de [Foro de la comunidad Aspose](https://forum.aspose.com/c/imaging/10).
+Te animamos a probar esta implementación en tus proyectos. Si tienes preguntas o necesitas ayuda, no dudes en contactarnos a través de [Foro de la comunidad Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Sección de preguntas frecuentes
 **P1: ¿Qué es una licencia medida?**

@@ -184,7 +184,7 @@ A: Kaufen Sie ein Abonnement von [Asposes Kaufseite](https://purchase.aspose.com
 - **Download-Bibliothek:** Holen Sie sich die neueste Version von [Aspose.Imaging-Veröffentlichungen](https://releases.aspose.com/imaging/java/).
 - **Kauflizenz:** Besuchen [Aspose Kauf](https://purchase.aspose.com/buy) für Lizenzierungsoptionen.
 - **Kostenlose Testversion und temporäre Lizenz:** Beginnen Sie mit einer kostenlosen Testversion oder erwerben Sie eine temporäre Lizenz unter [Kostenlose Testversion und Lizenzierung von Aspose](https://releases.aspose.com/imaging/java/).
-- **Support-Forum:** Engagieren Sie sich mit der Community auf [Aspose Support Forum](https://forum.aspose.com/c/imaging/10).
+- **Support-Forum:** Engagieren Sie sich mit der Community auf [Aspose Support Forum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

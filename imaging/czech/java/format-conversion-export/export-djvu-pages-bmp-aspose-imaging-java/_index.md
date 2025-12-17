@@ -197,7 +197,7 @@ Dodržováním tohoto návodu jste se naučili, jak efektivně využít Aspose.I
 - **Licence k zakoupení:** [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Začněte svou bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory:** [Podpora Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory:** [Podpora Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na cestu k zvládnutí konverze dokumentů s Aspose.Imaging Java ještě dnes!
 

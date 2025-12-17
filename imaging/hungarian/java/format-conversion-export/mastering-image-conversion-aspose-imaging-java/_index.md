@@ -212,7 +212,7 @@ Készen állsz, hogy próbára tedd a képességeidet? Kezdd el alkalmazni ezeke
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió igénylése](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Kezdje el képfeldolgozási útját az Aspose.Imaging for Java segítségével, és emelje projektjei minőségét még ma!
 

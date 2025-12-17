@@ -150,7 +150,7 @@ C5: Görevler arasında yeniden boyutlandırma, format dönüştürme ve filtrel
 - **Satın almak:** Lisanslama seçeneklerini keşfedin [Aspose Satın Alma](https://purchase.aspose.com/buy).
 - **Ücretsiz Deneme:** Bir deneme ile başlayın [Burada](https://releases.aspose.com/imaging/net/).
 - **Geçici Lisans:** Genişletilmiş test için bir talepte bulunun [bu bağlantı](https://purchase.aspose.com/temporary-license/).
-- **Destek:** Topluluk forumuna katılın [Aspose Desteği](https://forum.aspose.com/c/imaging/10).
+- **Destek:** Topluluk forumuna katılın [Aspose Desteği](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

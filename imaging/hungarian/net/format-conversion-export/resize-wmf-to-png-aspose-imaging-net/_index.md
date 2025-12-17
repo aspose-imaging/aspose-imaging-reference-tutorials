@@ -162,7 +162,7 @@ Igen, írd meg ezeket a lépéseket szkriptben, és futtasd őket több fájlon 
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbálja ki ingyen](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Aspose közösségi támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Aspose közösségi támogatás](https://forum.aspose.com/c/imaging/14)
 
 Indulj el a képfeldolgozási utadra az Aspose.Imaging for .NET segítségével, és fedezd fel a grafikakezelés végtelen lehetőségeit.
 

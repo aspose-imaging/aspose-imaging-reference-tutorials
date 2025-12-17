@@ -186,7 +186,7 @@ A következő lépések magukban foglalhatják ezen konverziók integrálását 
 - [Előfizetés vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezt az útmutatót követve jó úton haladsz a Java képkonverziók elsajátításában az Aspose.Imaging használatával. Jó kódolást!
 

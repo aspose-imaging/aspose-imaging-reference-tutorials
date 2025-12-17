@@ -228,7 +228,7 @@ A3: Controleer de licentievoorwaarden voor gebruikslimieten. Verder is het zeer 
 
 **V4: Wat als ik fouten tegenkom tijdens het animatieproces?**
 
-A4: Controleer de bestandspaden en zorg ervoor dat alle afhankelijkheden correct zijn geconfigureerd. Raadpleeg [Aspose-ondersteuning](https://forum.aspose.com/c/imaging/10) als de problemen aanhouden.
+A4: Controleer de bestandspaden en zorg ervoor dat alle afhankelijkheden correct zijn geconfigureerd. Raadpleeg [Aspose-ondersteuning](https://forum.aspose.com/c/imaging/14) als de problemen aanhouden.
 
 **V5: Hoe kan ik frame-eigenschappen aanpassen voor unieke effecten?**
 
@@ -241,7 +241,7 @@ A5: Experimenteer met gamma-aanpassingen, alfa-blending en andere beeldtransform
 - **Aankoop**: [Koop een licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer Aspose.Imaging gratis](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Met deze uitgebreide handleiding bent u goed voorbereid om geanimeerde PNG's in Java te maken met Aspose.Imaging. Veel plezier met coderen!
 

@@ -197,7 +197,7 @@ Bu eğitimde, CDR dosyalarını yüklemek ve bunları çok sayfalı PSD'ler olar
    - Kesinlikle! CDR ve PSD'nin ötesinde geniş bir yelpazede görüntü formatlarını destekler.
 
 5. **Resimlerin yüklenmesi veya kaydedilmesiyle ilgili sorunları nasıl giderebilirim?**
-   - Kontrol et [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10) Ortak çözümler için kütüphane sürümünüzün güncel olduğundan emin olun.
+   - Kontrol et [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14) Ortak çözümler için kütüphane sürümünüzün güncel olduğundan emin olun.
 
 ## Kaynaklar
 
@@ -206,7 +206,7 @@ Bu eğitimde, CDR dosyalarını yüklemek ve bunları çok sayfalı PSD'ler olar
 - **Satın almak:** [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Lisans Alın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Talebinde Bulunun](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Aspose.Imaging kullanarak Java uygulamalarınızda CDR görüntü yükleme ve dönüştürme görevlerini halletmek için iyi bir donanıma sahip olmalısınız. İyi kodlamalar!
 

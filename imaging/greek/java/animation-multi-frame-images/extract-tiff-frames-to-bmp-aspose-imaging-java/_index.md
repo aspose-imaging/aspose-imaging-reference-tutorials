@@ -174,7 +174,7 @@ frameCounter++;
 - [Αγορά αδειών χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/14)
 
 Ξεκινήστε το ταξίδι σας προς την τελειοποίηση της επεξεργασίας εικόνας με το Aspose.Imaging Java και ξεκλειδώστε νέες δυνατότητες στη διαχείριση εικόνων TIFF.
 

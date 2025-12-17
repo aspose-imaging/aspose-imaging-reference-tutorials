@@ -198,7 +198,7 @@ A: Periksa konfigurasi alat build Anda, pastikan versi yang tepat direferensikan
 - **Beli:** [Buy Aspose.Imaging for Java](https://purchase.aspose.com/buy)
 - **Percobaan Gratis:** Mulai percobaan gratis Anda di [Aspose website](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** Ajukan lisensi sementara melalui [Aspose Purchase](https://purchase.aspose.com/temporary-license/)
-- **Dukungan:** Bergabung dalam diskusi di [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Dukungan:** Bergabung dalam diskusi di [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Mulailah menggambar kurva tersebut hari ini dan tingkatkan proyek Java Anda dengan Aspose.Imaging!
 

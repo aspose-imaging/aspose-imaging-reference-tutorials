@@ -205,7 +205,7 @@ Trong hướng dẫn này, chúng tôi đã khám phá cách triển khai tự �
 - Thử nghiệm với các cấu hình khác nhau của tùy chọn che chắn.
 - Khám phá các tính năng khác do Aspose.Imaging cung cấp để có thêm khả năng xử lý hình ảnh.
 
-Để biết thêm câu hỏi hoặc hỗ trợ, hãy truy cập [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/10).
+Để biết thêm câu hỏi hoặc hỗ trợ, hãy truy cập [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/14).
 
 ## Phần Câu hỏi thường gặp
 
@@ -231,7 +231,7 @@ A: Bản dùng thử miễn phí cho phép bạn kiểm tra mọi chức năng, 
 - **Mua**: [Mua Tùy chọn cấp phép Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu với bản dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình làm chủ chức năng tự động che ảnh bằng Aspose.Imaging và Java ngay hôm nay!
 

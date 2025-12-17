@@ -200,7 +200,7 @@ A4: Las imágenes en escala de grises contienen solo tonos de gris, lo que reduc
 
 **P5: ¿Cómo puedo obtener ayuda si tengo problemas con Aspose.Imaging?**
 
-A5: Visita el [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10) para obtener ayuda de expertos de la comunidad y personal de apoyo oficial.
+A5: Visita el [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14) para obtener ayuda de expertos de la comunidad y personal de apoyo oficial.
 
 ## Recursos
 

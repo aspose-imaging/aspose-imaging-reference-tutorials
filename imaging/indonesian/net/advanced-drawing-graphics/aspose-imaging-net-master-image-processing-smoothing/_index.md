@@ -169,7 +169,7 @@ Dengan menguasai teknik-teknik ini, Anda dapat menyederhanakan alur kerja pemros
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda akan siap memanfaatkan kekuatan Aspose.Imaging untuk .NET dalam tugas pemrosesan gambar Anda. Selamat membuat kode!
 

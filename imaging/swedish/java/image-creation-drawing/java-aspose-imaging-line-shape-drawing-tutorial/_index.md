@@ -241,7 +241,7 @@ Du har lärt dig hur du använder Aspose.Imaging-biblioteket för att rita linje
 - [Köpalternativ](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Nu när du har en omfattande guide till att implementera ritfunktioner med Aspose.Imaging för Java, börja experimentera och integrera dessa tekniker i dina projekt. Lycka till med kodningen!
 

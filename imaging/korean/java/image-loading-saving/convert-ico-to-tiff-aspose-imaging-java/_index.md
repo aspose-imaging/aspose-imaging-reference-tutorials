@@ -181,7 +181,7 @@ Aspose.Imaging을 사용하는 동안 최적의 성능을 보장하려면:
 - [라이선스 옵션 구매](https://purchase.aspose.com/buy)
 - [무료 체험판 다운로드](https://releases.aspose.com/imaging/java/)
 - [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- [지원 및 커뮤니티 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 및 커뮤니티 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따라 하면 이제 Aspose.Imaging Java를 사용하여 이미지 형식을 효율적으로 변환할 수 있습니다. 즐거운 코딩 되세요!
 

@@ -175,7 +175,7 @@ A3: Có, nhưng hãy đảm bảo bạn có được giấy phép phù hợp t�
 A4: Có, triển khai xử lý hàng loạt để xử lý nhiều tệp một cách hiệu quả, có thể giảm đáng kể thời gian xử lý.
 
 **Câu hỏi 5: Tôi có thể nhận được hỗ trợ ở đâu nếu gặp vấn đề?**
-A5: Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) để được hỗ trợ từ cả nhóm Aspose và các thành viên cộng đồng.
+A5: Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) để được hỗ trợ từ cả nhóm Aspose và các thành viên cộng đồng.
 
 ## Tài nguyên
 - **Tài liệu:** Khám phá hướng dẫn chi tiết và tài liệu tham khảo API tại [Tài liệu Aspose.Imaging](https://reference.aspose.com/imaging/net/).

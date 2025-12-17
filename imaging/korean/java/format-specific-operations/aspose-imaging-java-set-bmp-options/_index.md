@@ -156,7 +156,7 @@ BMP 옵션을 설정하면 개발자는 색상 깊이와 압축 등의 이미지
 
 **질문 2: Aspose.Imaging의 라이선스 문제를 해결하려면 어떻게 해야 하나요?**
 
-라이선스 파일 경로가 올바른지, 그리고 유효한 버전의 라이브러리를 사용하고 있는지 확인하세요. 문제가 지속되면 다음을 참조하세요. [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10).
+라이선스 파일 경로가 올바른지, 그리고 유효한 버전의 라이브러리를 사용하고 있는지 확인하세요. 문제가 지속되면 다음을 참조하세요. [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14).
 
 **질문 3: Aspose.Imaging을 사용하여 이미지를 일괄 처리할 수 있나요?**
 
@@ -177,7 +177,7 @@ BMP 옵션을 설정하면 개발자는 색상 깊이와 압축 등의 이미지
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging 무료 체험판](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 튜토리얼은 Aspose.Imaging을 사용하여 Java 프로젝트에서 BMP 옵션을 효과적으로 구현하는 데 필요한 기초를 제공합니다. 즐거운 코딩 되세요!
 

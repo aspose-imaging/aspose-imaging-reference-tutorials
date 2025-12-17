@@ -189,7 +189,7 @@ rasterImg.save("YOUR_OUTPUT_DIRECTORY/ChangeBackgroundColor_out.png");
    - เยี่ยม [ใบอนุญาตชั่วคราว Aspose](https://purchase.aspose.com/temporary-license/) เพื่อดูรายละเอียดในการซื้อ
 
 5. **มีตัวเลือกการสนับสนุนอะไรบ้างหากฉันประสบปัญหา?**
-   - การ [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10) เสนอความช่วยเหลือจากชุมชนและทีมงาน Aspose
+   - การ [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14) เสนอความช่วยเหลือจากชุมชนและทีมงาน Aspose
 
 ## ทรัพยากร
 

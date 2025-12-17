@@ -195,7 +195,7 @@ Các bước tiếp theo bao gồm tích hợp các giải pháp này vào các 
 - **Mua:** [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời:** [Nhận được ở đây](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn cộng đồng](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn cộng đồng](https://forum.aspose.com/c/imaging/14)
 
 Chúng tôi hy vọng hướng dẫn này giúp bạn quản lý siêu dữ liệu hình ảnh một cách tự tin bằng Aspose.Imaging cho .NET. Chúc bạn viết mã vui vẻ!
 

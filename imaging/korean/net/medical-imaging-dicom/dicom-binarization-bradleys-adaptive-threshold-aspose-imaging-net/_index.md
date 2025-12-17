@@ -167,7 +167,7 @@ A5: 효과적이기는 하지만, 국소적 대비 변화가 두드러지는 이
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료 체험판으로 시작하세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: 문의사항은 다음 웹사이트를 방문하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: 문의사항은 다음 웹사이트를 방문하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET으로 여정을 시작하고 의료 영상 분야의 새로운 역량을 열어보세요!
 

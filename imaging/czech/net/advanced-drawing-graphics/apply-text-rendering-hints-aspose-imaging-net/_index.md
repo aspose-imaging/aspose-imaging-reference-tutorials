@@ -173,7 +173,7 @@ A: Mezi běžné problémy patří úniky paměti a problémy s výkonem, které
 - **Nákup**Kupte si licenci nebo získejte bezplatnou zkušební verzi od [Nákup Aspose](https://purchase.aspose.com/buy).
 - **Bezplatná zkušební verze**Začněte se zkušební verzí na adrese [Vydání](https://releases.aspose.com/imaging/net/).
 - **Dočasná licence**Požádejte o jeden od [Aspose](https://purchase.aspose.com/temporary-license/).
-- **Podpora**Získejte pomoc v [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Podpora**Získejte pomoc v [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Vydejte se na cestu k zvládnutí zpracování obrazu s Aspose.Imaging a posuňte své aplikace na novou úroveň!
 

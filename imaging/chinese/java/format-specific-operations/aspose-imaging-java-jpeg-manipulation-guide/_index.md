@@ -184,7 +184,7 @@ A5：通过有效管理资源和使用适当的维度进行处理来优化您的
 - **购买许可证：** [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用：** [免费试用](https://releases.aspose.com/imaging/java/)
 - **临时执照：** [获取临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持论坛：** [Aspose 成像支持](https://forum.aspose.com/c/imaging/10)
+- **支持论坛：** [Aspose 成像支持](https://forum.aspose.com/c/imaging/14)
 
 快乐编码，并享受探索 Aspose.Imaging for Java 的功能！
 

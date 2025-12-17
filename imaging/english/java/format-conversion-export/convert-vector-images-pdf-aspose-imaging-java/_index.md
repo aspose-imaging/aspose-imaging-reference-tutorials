@@ -256,7 +256,7 @@ Next steps include exploring more advanced features of Aspose.Imaging or integra
 - [Purchase](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/java/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support](https://forum.aspose.com/c/imaging/10)
+- [Support](https://forum.aspose.com/c/imaging/14)
 
 Try implementing this solution in your next project to harness the power of Aspose.Imaging for Java!
 

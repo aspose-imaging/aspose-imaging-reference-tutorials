@@ -189,7 +189,7 @@ A3: समायोजित करें `CdrRasterizationOptions` परिण
 A4: व्यावसायिक अनुप्रयोगों के लिए खरीदा गया लाइसेंस आवश्यक है। आप निःशुल्क परीक्षण के साथ शुरू कर सकते हैं या अस्थायी लाइसेंस के लिए आवेदन कर सकते हैं।
 
 **प्रश्न 5: यदि मुझे कोई समस्या आती है तो मैं सहायता कहां से प्राप्त कर सकता हूं?**
-A5: पर जाएँ [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10) सहायता और सामुदायिक चर्चा के लिए।
+A5: पर जाएँ [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14) सहायता और सामुदायिक चर्चा के लिए।
 
 ## संसाधन
 
@@ -197,7 +197,7 @@ A5: पर जाएँ [Aspose समर्थन मंच](https://forum.aspo
 - **डाउनलोड लाइब्रेरी:** नवीनतम संस्करण प्राप्त करें [Aspose.Imaging रिलीज़](https://releases.aspose.com/imaging/java/)
 - **क्रय लाइसेंस:** मिलने जाना [Aspose खरीद साइट](https://purchase.aspose.com/buy)
 - **निःशुल्क परीक्षण एवं अस्थायी लाइसेंस:** अपनी यात्रा यहां से शुरू करें [Aspose निःशुल्क परीक्षण](https://releases.aspose.com/imaging/java/) और [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच:** मदद के लिए समुदाय से जुड़ें [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच:** मदद के लिए समुदाय से जुड़ें [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 आज ही अपनी Aspose.Imaging Java यात्रा शुरू करें, और अपने डिजिटल इमेजिंग प्रोजेक्ट्स को जीवंत करें!
 

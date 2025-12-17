@@ -221,7 +221,7 @@ Sie haben nun gelernt, wie Sie WMF-Bilder mit Aspose.Imaging für Java in das We
 - [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion von Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - [Erwerb einer temporären Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Dieses Tutorial soll eine klare und praktische Anleitung zum Konvertieren von Bildern mit Aspose.Imaging für Java bieten und Ihnen das Wissen vermitteln, um Ihre Webanwendungen effizient zu verbessern.
 

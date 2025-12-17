@@ -200,7 +200,7 @@ Sonraki adımlar arasında Aspose.Imaging kütüphanesinin ek işlevlerinin keş
    - Kullanın `Metered.getConsumptionQuantity()` Kullanım takibi için görüntülerin işlenmesinden önce ve sonra uygulanan yöntem.
 
 5. **Sorunla karşılaşırsam destek alabileceğim bir yer var mı?**
-   - Ziyaret etmek [Aspose Forum](https://forum.aspose.com/c/imaging/10) Topluluk uzmanlarından yardım isteyin.
+   - Ziyaret etmek [Aspose Forum](https://forum.aspose.com/c/imaging/14) Topluluk uzmanlarından yardım isteyin.
 
 ## Kaynaklar
 

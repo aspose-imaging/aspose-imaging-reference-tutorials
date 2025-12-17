@@ -163,7 +163,7 @@ A: Mặc dù Aspose.Imaging không cung cấp tính năng đa luồng tích hợ
 A: Bản dùng thử miễn phí cho phép đầy đủ chức năng nhưng thêm hình mờ vào hình ảnh và giới hạn thời gian sử dụng. Hãy cân nhắc mua giấy phép tạm thời hoặc mua để truy cập không bị gián đoạn.
 
 **Câu hỏi 5: Làm thế nào để khắc phục sự cố thường gặp khi xử lý hình ảnh?**
-A: Đảm bảo đường dẫn tệp của bạn là chính xác, kiểm tra xem bạn có đủ tài nguyên hệ thống hay không và tham khảo [diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10) nếu cần.
+A: Đảm bảo đường dẫn tệp của bạn là chính xác, kiểm tra xem bạn có đủ tài nguyên hệ thống hay không và tham khảo [diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14) nếu cần.
 
 ## Tài nguyên
 
@@ -172,7 +172,7 @@ A: Đảm bảo đường dẫn tệp của bạn là chính xác, kiểm tra xe
 - **Mua**: Có được giấy phép thông qua [Trang mua hàng của Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: Bắt đầu khám phá các tính năng với [phiên bản dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: Yêu cầu cấp giấy phép tạm thời qua [Trang giấy phép tạm thời của Aspose](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: Nếu có bất kỳ câu hỏi nào, hãy truy cập [diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: Nếu có bất kỳ câu hỏi nào, hãy truy cập [diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Với hướng dẫn toàn diện này, bạn đã sẵn sàng nâng cao khả năng xử lý hình ảnh của mình bằng Aspose.Imaging cho Java!
 

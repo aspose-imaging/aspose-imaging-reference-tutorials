@@ -228,7 +228,7 @@ A3: 使用制限についてはライセンス条項を確認してください�
 
 **Q4: アニメーション処理中にエラーが発生した場合はどうなりますか?**
 
-A4: ファイルパスを確認し、すべての依存関係が正しく設定されていることを確認してください。 [Aspose サポート](https://forum.aspose.com/c/imaging/10) 問題が解決しない場合は。
+A4: ファイルパスを確認し、すべての依存関係が正しく設定されていることを確認してください。 [Aspose サポート](https://forum.aspose.com/c/imaging/14) 問題が解決しない場合は。
 
 **Q5: 独自の効果を得るためにフレームのプロパティを変更するにはどうすればよいですか?**
 
@@ -241,7 +241,7 @@ A5: Aspose.Imaging が提供するガンマ調整、アルファ ブレンディ
 - **購入**： [ライセンスを購入する](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imagingを無料でお試しください](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 この包括的なガイドを読めば、Aspose.Imagingを使ってJavaでアニメーションPNGを作成するための準備が整います。コーディングを楽しみましょう！
 

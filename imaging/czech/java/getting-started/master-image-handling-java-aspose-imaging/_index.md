@@ -178,7 +178,7 @@ A5: Ačkoli samotný Aspose.Imaging nestanovuje žádná pevná omezení, zpraco
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu jste nyní připraveni implementovat efektivní zpracování obrázků ve vašich Java aplikacích pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 

@@ -184,7 +184,7 @@ Aspose.Imaging は、JPEG、PNG、GIF、BMP、TIFF など、幅広い形式を�
 
 **5. 問題が発生した場合、どうすればサポートを受けることができますか?**
 
-訪問 [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10) コミュニティと Aspose の専門家からのサポートを受けられます。
+訪問 [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14) コミュニティと Aspose の専門家からのサポートを受けられます。
 
 ## リソース
 

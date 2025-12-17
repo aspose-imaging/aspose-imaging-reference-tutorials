@@ -255,7 +255,7 @@ A5: Kunjungi [halaman lisensi sementara](https://purchase.aspose.com/temporary-l
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Dapatkan Uji Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Ajukan Permohonan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Dengan memanfaatkan sumber daya ini, Anda dapat memperluas pengetahuan dan kemampuan Anda dengan Aspose.Imaging untuk Java. Selamat membuat kode!
 

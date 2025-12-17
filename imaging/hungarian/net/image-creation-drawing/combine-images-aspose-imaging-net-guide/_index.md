@@ -190,7 +190,7 @@ További olvasmányokért és forrásokért:
 - [Licencek vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezekkel az erőforrásokkal és tippekkel felkészült leszel arra, hogy bármilyen képmanipulációs kihívással megbirkózz az Aspose.Imaging for .NET használatával. Jó kódolást!
 

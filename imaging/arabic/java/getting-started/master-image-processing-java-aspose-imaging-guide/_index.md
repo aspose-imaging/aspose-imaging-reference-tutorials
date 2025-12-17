@@ -227,7 +227,7 @@ try (RasterImage image = (RasterImage) Image.load("YOUR_DOCUMENT_DIRECTORY/src.p
 - [شراء ترخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 يقدم هذا الدليل أساسيات شاملة للاستفادة من Aspose.Imaging في جافا. بفهم هذه التقنيات، يمكنك تحسين تطبيقاتك بقدرات معالجة صور فعّالة. برمجة ممتعة!
 

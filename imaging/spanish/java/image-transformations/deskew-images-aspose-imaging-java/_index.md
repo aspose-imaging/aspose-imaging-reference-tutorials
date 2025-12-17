@@ -182,7 +182,7 @@ R: Después de comprar u obtener una licencia temporal, configure su aplicación
 - **Compra:** [Comprar licencia de Aspose](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Comience una prueba gratuita](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** [Solicitar Licencia Temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Esperamos que esta guía te ayude a implementar funciones de corrección de sesgo eficientemente en tus aplicaciones Java con Aspose.Imaging. ¡Que disfrutes programando!
 

@@ -223,7 +223,7 @@ A5: تأكد من تخزين الصور مؤقتًا بعد تحميلها، و�
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [تجربة مجانية لبرنامج Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/10) 
+- **يدعم**: [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/14) 
 
 مع هذا الدليل الشامل، أنت جاهز تمامًا لبدء دمج Aspose.Imaging في مشاريع Java لإدارة الصور بكفاءة. برمجة ممتعة!
 

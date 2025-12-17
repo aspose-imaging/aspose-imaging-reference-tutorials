@@ -162,7 +162,7 @@ Ya, tuliskan skrip langkah-langkah ini dan jalankan pada beberapa file menggunak
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan**: [Dukungan Komunitas Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan**: [Dukungan Komunitas Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan pemrosesan gambar Anda dengan Aspose.Imaging untuk .NET dan jelajahi kemungkinan tak terbatas dalam menangani grafik.
 

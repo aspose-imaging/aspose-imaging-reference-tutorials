@@ -167,7 +167,7 @@ A5 : Bien qu'efficace, cette méthode est particulièrement adaptée aux images
 - **Achat**: [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencez avec un essai gratuit](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Demander une licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: Pour toute question, visitez le [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: Pour toute question, visitez le [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Lancez-vous dans votre voyage avec Aspose.Imaging pour .NET et débloquez de nouvelles fonctionnalités en imagerie médicale !
 

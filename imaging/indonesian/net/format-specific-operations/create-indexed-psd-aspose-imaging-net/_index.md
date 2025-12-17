@@ -150,7 +150,7 @@ Siap untuk mengeksplorasi lebih jauh? Cobalah menerapkan solusinya dalam skenari
 - **Pembelian:** [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Mulailah dengan Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara:** [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan:** [Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan:** [Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan pencitraan Anda dengan Aspose.Imaging hari ini, dan buka kemungkinan baru dalam manipulasi gambar digital!
 

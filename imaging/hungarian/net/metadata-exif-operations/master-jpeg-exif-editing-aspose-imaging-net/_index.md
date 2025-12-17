@@ -155,7 +155,7 @@ Ebben az útmutatóban megtanultad, hogyan módosíthatod a JPEG EXIF adatokat a
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió letöltése](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Kezdje el a JPEG EXIF módosítás elsajátításának útját még ma az Aspose.Imaging segítségével!
 

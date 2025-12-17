@@ -162,7 +162,7 @@ A5: Xử lý hình ảnh theo trình tự và quản lý bộ nhớ hiệu quả
 - **Mua:** [Mua ngay](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bắt đầu tại đây](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn cộng đồng](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn cộng đồng](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách tận dụng các tài nguyên này, bạn có thể nâng cao hơn nữa sự hiểu biết và ứng dụng của mình về Aspose.Imaging cho Java. Chúc bạn viết mã vui vẻ!
 

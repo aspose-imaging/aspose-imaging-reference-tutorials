@@ -173,7 +173,7 @@ Aspose.Imaging .NET을 사용할 때 성능을 최적화하기 위해 다음 팁
 - **라이센스 구매**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료 평가로 시작하세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [여기에서 신청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [토론에 참여하세요](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [토론에 참여하세요](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging .NET을 사용하여 이미지 변환에 대한 이해와 역량을 확장할 수 있는 다음 리소스를 살펴보세요.
 

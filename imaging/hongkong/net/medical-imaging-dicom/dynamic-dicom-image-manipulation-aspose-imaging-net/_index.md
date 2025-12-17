@@ -217,7 +217,7 @@ image.Save(path);
 - [下載 Aspose.Imaging for .NET](https://releases.aspose.com/imaging/net/)
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用和臨時許可證](https://releases.aspose.com/imaging/net/)
-- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 本指南將協助您開始使用 Aspose.Imaging for .NET 繪製和處理 DICOM 影像，為建立更複雜的影像處理應用程式奠定基礎。
 

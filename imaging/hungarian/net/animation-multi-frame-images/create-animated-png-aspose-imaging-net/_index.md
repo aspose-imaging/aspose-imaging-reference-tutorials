@@ -172,7 +172,7 @@ Most már megtanultad, hogyan hozhatsz létre APNG-t egyetlen képből az Aspose
 - **Vásárlás**Teljes licencért látogasson el ide: [Aspose vásárlás](https://purchase.aspose.com/buy).
 - **Ingyenes próbaverzió**Kezdje egy próbaverzióval itt: [Aspose ingyenes próbaverziók](https://releases.aspose.com/imaging/net/).
 - **Ideiglenes engedély**: Ideiglenes hozzáférés beszerzése a következőn keresztül: [Licencoldal](https://purchase.aspose.com/temporary-license/).
-- **Támogatás**: Csatlakozz a beszélgetésekhez, vagy tegyél fel kérdéseket a [Aspose Fórum](https://forum.aspose.com/c/imaging/10).
+- **Támogatás**: Csatlakozz a beszélgetésekhez, vagy tegyél fel kérdéseket a [Aspose Fórum](https://forum.aspose.com/c/imaging/14).
 
 Indulj el az Aspose.Imaging for .NET segítségével lenyűgöző animációk létrehozásának útjára, fejlesztve mind a technikai készségeidet, mind a projekt eredményeit.
 

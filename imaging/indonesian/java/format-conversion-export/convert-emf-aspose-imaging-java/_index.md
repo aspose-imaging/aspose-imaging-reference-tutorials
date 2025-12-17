@@ -186,7 +186,7 @@ Anda kini telah menguasai cara mengonversi gambar EMF ke berbagai format menggun
    - Masalah umum mencakup jalur file yang salah atau konversi format yang tidak didukung; pastikan pengaturan Anda sesuai dengan langkah-langkah tutorial.
 
 5. **Di mana saya dapat menemukan dukungan untuk Aspose.Imaging?**
-   - Kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/10) untuk bantuan dan untuk terhubung dengan pengguna lain.
+   - Kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/14) untuk bantuan dan untuk terhubung dengan pengguna lain.
 
 ## Sumber daya
 

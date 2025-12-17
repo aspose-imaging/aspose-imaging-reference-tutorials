@@ -198,7 +198,7 @@ Kísérletezzen a különböző konfigurációkkal `PdfOptions` osztályba, vagy
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió információi](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ez az átfogó útmutató felvértezi Önt az Aspose.Imaging Java-ban való hatékony használatához szükséges készségekkel, digitális médiaprojektjei fejlesztésével. Jó kódolást!
 

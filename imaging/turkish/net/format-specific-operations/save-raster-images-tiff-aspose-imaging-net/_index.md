@@ -170,7 +170,7 @@ Bu teknikleri uygulamaya hazır mısınız? Bunları projelerinize uygulamayı d
 - **Satın almak:** [Lisans satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Şimdi Deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans:** [Burada Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Sorular Sorun](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Sorular Sorun](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

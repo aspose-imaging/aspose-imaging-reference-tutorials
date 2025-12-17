@@ -165,7 +165,7 @@ A: Optimieren Sie Ihren Code, indem Sie Pfade inkrementell verarbeiten und eine 
 A: Ja, es ist für die nahtlose Integration mit jeder .NET-Anwendung konzipiert, die erweiterte Bildverarbeitungsfunktionen erfordert.
 
 **F: Welcher Support steht mir zur Verfügung, wenn ich auf Probleme stoße?**
-A: Besuchen Sie die [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) für Unterstützung durch Community-Experten und Aspose-Mitarbeiter.
+A: Besuchen Sie die [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) für Unterstützung durch Community-Experten und Aspose-Mitarbeiter.
 
 **F: Gibt es Alternativen zur Verwendung von Aspose.Imaging für die TIFF-Manipulation in .NET?**
 A: Es gibt zwar auch andere Bibliotheken, aber Aspose.Imaging bietet einen umfassenden Satz an Funktionen, die speziell auf hochwertige Bildverarbeitungsaufgaben zugeschnitten sind.
@@ -176,7 +176,7 @@ A: Es gibt zwar auch andere Bibliotheken, aber Aspose.Imaging bietet einen umfas
 - **Kaufen**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Testen Sie Aspose.Imaging kostenlos](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Holen Sie sich eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Begeben Sie sich noch heute auf Ihre Reise mit Aspose.Imaging für .NET und erschließen Sie sich neue Möglichkeiten in der Bildverarbeitung!
 

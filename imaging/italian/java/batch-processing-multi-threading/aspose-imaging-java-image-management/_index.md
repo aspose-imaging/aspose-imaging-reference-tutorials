@@ -163,7 +163,7 @@ Ora hai imparato come caricare, salvare ed eliminare immagini utilizzando Aspose
 - **Acquistare**: Acquista la tua licenza su [Acquisto Aspose](https://purchase.aspose.com/buy).
 - **Prova gratuita**: Provatelo con la versione di prova gratuita disponibile sul loro sito.
 - **Licenza temporanea**: Ottienine uno per avere accesso a tutte le funzionalità senza limitazioni.
-- **Supporto**: Ricevi aiuto dalla comunità su [Forum Aspose](https://forum.aspose.com/c/imaging/10). 
+- **Supporto**: Ricevi aiuto dalla comunità su [Forum Aspose](https://forum.aspose.com/c/imaging/14). 
 
 Seguendo questa guida completa, sarai ora in grado di gestire in modo efficiente i file immagine nelle tue applicazioni Java utilizzando Aspose.Imaging!
 

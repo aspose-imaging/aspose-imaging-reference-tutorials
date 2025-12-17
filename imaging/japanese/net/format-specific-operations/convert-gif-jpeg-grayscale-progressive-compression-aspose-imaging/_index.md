@@ -153,7 +153,7 @@ A: はい、異なるバージョンの.NET FrameworkおよびCoreで動作す�
 - **ライセンスを購入**： [Aspose 購入ページ](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imagingを無料でお試しください](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [Aspose サポートコミュニティ](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [Aspose サポートコミュニティ](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging を使った変換プロセスをマスターすれば、.NET アプリケーションで複雑な画像処理タスクを効率的に処理できるようになります。コーディングを楽しみましょう！
 

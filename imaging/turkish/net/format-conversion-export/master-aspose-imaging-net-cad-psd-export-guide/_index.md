@@ -168,14 +168,14 @@ Bu kılavuzla, Aspose.Imaging for .NET kullanarak CAD dosyalarını yükleme ve 
 4. **İşleyebileceğim CAD dosyalarının boyutunda bir sınır var mı?**
    - Büyük dosyaların işlenmesi daha fazla bellek gerektirebilir; sisteminizin kapasitesine göre gerektiği gibi optimize edin.
 5. **Sorun yaşarsam nereden destek alabilirim?**
-   - Ziyaret etmek [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10) yardım ve toplum tavsiyesi için.
+   - Ziyaret etmek [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14) yardım ve toplum tavsiyesi için.
 
 ## Kaynaklar
 - **Belgeleme**: Tümünü keşfedin [Aspose.Imaging .NET Belgeleri](https://reference.aspose.com/imaging/net/)
 - **İndirmek**: En son sürümü şu adresten edinin: [Sürümler](https://releases.aspose.com/imaging/net/)
 - **Satın Al ve Ücretsiz Deneme**Deneme sürümlerine erişin veya bir lisans satın alın [Aspose Satın Alma](https://purchase.aspose.com/buy) Ve [Ücretsiz Denemeler](https://releases.aspose.com/imaging/net/).
 - **Geçici Lisans**: Geçici bir lisans talep edin [Aspose Geçici Lisanslar](https://purchase.aspose.com/temporary-license/)
-- **Destek**: Konuyla ilgili yardım alın [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek**: Konuyla ilgili yardım alın [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -199,7 +199,7 @@ Aspose.Imaging поддерживает широкий спектр формат
 - **Покупка**: [Купить продукцию Aspose](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Получите бесплатную пробную лицензию](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия**: [Получить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: [Форум поддержки Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: [Форум поддержки Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

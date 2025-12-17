@@ -189,7 +189,7 @@ image.Dispose();
 - [شراء الترخيص](https://purchase.aspose.com/buy)
 - [الوصول إلى النسخة التجريبية المجانية](https://releases.aspose.com/imaging/net/)
 - [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- [منتدى دعم المجتمع](https://forum.aspose.com/c/imaging/10)
+- [منتدى دعم المجتمع](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا الدليل، ستكون جاهزًا تمامًا للتعامل مع تحويلات الصور المعقدة باستخدام Aspose.Imaging .NET. برمجة ممتعة!
 

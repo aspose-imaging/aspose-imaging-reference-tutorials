@@ -203,7 +203,7 @@ Siap menerapkan solusi ini? Cobalah dan lihat bagaimana solusi ini meningkatkan 
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Dengan tutorial ini, Anda kini siap untuk menyempurnakan aplikasi Java Anda dengan kemampuan pemrosesan gambar yang canggih menggunakan Aspose.Imaging. Selamat membuat kode!
 

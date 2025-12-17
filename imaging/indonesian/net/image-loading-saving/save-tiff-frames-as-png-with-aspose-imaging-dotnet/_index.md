@@ -182,7 +182,7 @@ Ambil langkah selanjutnya dan mulailah menerapkan solusi ini dalam proyek Anda h
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Versi Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Permintaan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

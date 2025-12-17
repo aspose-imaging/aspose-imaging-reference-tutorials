@@ -171,7 +171,7 @@ Esplora il [Documentazione di Aspose](https://reference.aspose.com/imaging/java/
 - **Documentazione:** [Riferimento ad Aspose.Imaging per Java](https://reference.aspose.com/imaging/java/)
 - **Scaricamento:** [Ultime uscite](https://releases.aspose.com/imaging/java/)
 - **Acquisto e prova:** Esplora le opzioni di licenza su [Acquisto Aspose](https://purchase.aspose.com/buy)
-- **Supporto:** Partecipa alle discussioni della comunità su [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto:** Partecipa alle discussioni della comunità su [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Prova questi passaggi nel tuo prossimo progetto per scoprire come Aspose.Imaging Java può semplificare e migliorare i flussi di lavoro di elaborazione delle immagini!
 

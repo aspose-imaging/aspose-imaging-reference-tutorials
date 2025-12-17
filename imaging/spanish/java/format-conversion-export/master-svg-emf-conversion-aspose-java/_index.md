@@ -204,7 +204,7 @@ A5: Utilice funciones de procesamiento por lotes y asegúrese de que su JVM teng
 - [Descargar Aspose.Imaging para Java](https://releases.aspose.com/imaging/java/)
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Prueba gratuita y licencia temporal](https://releases.aspose.com/imaging/java/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Explora estos recursos para ampliar tus conocimientos y capacidades con Aspose.Imaging para Java. ¡Que disfrutes programando!
 

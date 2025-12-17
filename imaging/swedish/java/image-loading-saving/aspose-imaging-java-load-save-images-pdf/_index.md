@@ -160,7 +160,7 @@ A5: En giltig licens krävs för oavbruten användning i produktionsmiljöer. Ö
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Starta din gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose-forum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose-forum](https://forum.aspose.com/c/imaging/14)
 
 Omfamna kraften i Aspose.Imaging Java för att höja dina bildbehandlingsmöjligheter!
 

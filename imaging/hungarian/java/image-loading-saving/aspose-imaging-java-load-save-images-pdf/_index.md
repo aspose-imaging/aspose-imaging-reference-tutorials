@@ -160,7 +160,7 @@ V4: Igen, kötegelt feldolgozáshoz ciklusonként végigmehet a könyvtárakon, 
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Indítsa el az ingyenes próbaverziót](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Fórumok](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Fórumok](https://forum.aspose.com/c/imaging/14)
 
 Használd ki az Aspose.Imaging Java erejét, hogy még magasabb szintre emeld képfeldolgozási képességeidet!
 

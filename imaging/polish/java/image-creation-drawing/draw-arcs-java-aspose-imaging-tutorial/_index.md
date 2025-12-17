@@ -182,7 +182,7 @@ tym samouczku omówiliśmy, jak rysować łuki na obrazach za pomocą Aspose.Ima
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Uzyskaj bezpłatną wersję próbną](https://releases.aspose.com/imaging/java/)
 - [Informacje o licencji tymczasowej](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Możesz swobodnie zagłębić się w te zasoby, aby uzyskać bardziej szczegółowe informacje i wsparcie. Miłego kodowania!
 

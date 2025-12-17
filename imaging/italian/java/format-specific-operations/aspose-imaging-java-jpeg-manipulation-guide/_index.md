@@ -184,7 +184,7 @@ A5: Ottimizza il tuo codice gestendo le risorse in modo efficace e utilizzando d
 - **Acquista licenza:** [Acquista Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Prova gratis](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea:** [Ottieni la licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Forum di supporto:** [Supporto per l'imaging Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum di supporto:** [Supporto per l'imaging Aspose](https://forum.aspose.com/c/imaging/14)
 
 Buona programmazione e buon divertimento nell'esplorazione delle funzionalità di Aspose.Imaging per Java!
 

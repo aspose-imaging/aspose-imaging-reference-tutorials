@@ -182,7 +182,7 @@ foreach (var tiffFrame in multiImage.Frames)
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण संस्करण](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस अनुरोध](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

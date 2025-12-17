@@ -153,7 +153,7 @@ Voor meer informatie en hulpmiddelen:
 - **Aankooplicentie**: [Koop Aspose Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Aspose Imaging-downloads](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforums**: [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforums**: [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

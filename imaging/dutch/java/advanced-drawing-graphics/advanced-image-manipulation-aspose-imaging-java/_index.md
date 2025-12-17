@@ -257,7 +257,7 @@ A5: Zorg ervoor dat het uitvoerformaat transparantie ondersteunt (bijv. PNG). On
 - **Aankoop**: [Aspose Aankooppagina](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer Aspose.Imaging gratis uit](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Aspose Ondersteuningscommunity](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Aspose Ondersteuningscommunity](https://forum.aspose.com/c/imaging/14)
 
 Veel plezier met coderen!
 

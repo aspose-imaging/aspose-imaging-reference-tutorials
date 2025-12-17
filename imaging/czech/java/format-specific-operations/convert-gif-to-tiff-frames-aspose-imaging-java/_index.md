@@ -215,7 +215,7 @@ V tomto tutoriálu jsme prozkoumali, jak Aspose.Imaging pro Javu zjednodušuje p
 ### Další kroky
 - Prozkoumejte další možnosti převodu dostupné v Aspose.Imaging.
 - Integrujte tuto funkci do většího projektu nebo pracovního postupu.
-- Sdílejte zpětnou vazbu nebo vyhledejte podporu od [Fórum komunity Aspose](https://forum.aspose.com/c/imaging/10).
+- Sdílejte zpětnou vazbu nebo vyhledejte podporu od [Fórum komunity Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Sekce Často kladených otázek
 
@@ -241,7 +241,7 @@ A5: Prozkoumejte [Dokumentace k Aspose.Imaging](https://reference.aspose.com/ima
 - **Nákup:** https://purchase.aspose.com/buy
 - **Bezplatná zkušební verze:** https://releases.aspose.com/imaging/java/
 - **Dočasná licence:** https://purchase.aspose.com/temporary-license/
-- **Podpora:** https://forum.aspose.com/c/imaging/10
+- **Podpora:** https://forum.aspose.com/c/imaging/14
 
 Využitím Aspose.Imaging pro Javu můžete zefektivnit procesy konverze obrázků a odemknout nové možnosti v oblasti práce s digitálními médii. Přejeme vám příjemné programování!
 

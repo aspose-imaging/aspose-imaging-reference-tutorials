@@ -199,7 +199,7 @@ finally
 - **شراء**: [شراء منتجات Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [احصل على ترخيص تجريبي مجاني](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [الحصول على ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى دعم Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى دعم Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -206,7 +206,7 @@ try (BmpOptions bmpCreateOptions = new BmpOptions()) {
 - **Αγορά**: https://purchase.aspose.com/buy
 - **Δωρεάν δοκιμή**: https://releases.aspose.com/imaging/java/
 - **Προσωρινή Άδεια**: https://purchase.aspose.com/temporary-license/
-- **Υποστήριξη**: https://forum.aspose.com/c/imaging/10
+- **Υποστήριξη**: https://forum.aspose.com/c/imaging/14
 
 Ελπίζουμε να βρήκατε αυτό το σεμινάριο χρήσιμο. Καλή κωδικοποίηση!
 

@@ -202,7 +202,7 @@ try (Image image = Image.load(imageFilePath)) {
 - **खरीद लाइसेंस**: [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [अपना नि: शुल्क परीक्षण शुरू करो](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच**: [Aspose समर्थन](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच**: [Aspose समर्थन](https://forum.aspose.com/c/imaging/14)
 
 इस व्यापक गाइड के साथ, अब आप Aspose.Imaging का उपयोग करके जावा में PNG इमेज प्रोसेसिंग में महारत हासिल करने के लिए तैयार हैं। हैप्पी कोडिंग!
 

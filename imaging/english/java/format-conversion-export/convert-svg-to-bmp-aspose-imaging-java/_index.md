@@ -168,7 +168,7 @@ Next steps? Experiment with different configurations in `BmpOptions` and explore
    - Adjust bitmap configurations within `BmpOptions` to tweak output quality settings.
 
 5. **Where can I find support if I encounter issues?**
-   - Visit the [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) for community and professional assistance.
+   - Visit the [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) for community and professional assistance.
 
 ## Resources
 

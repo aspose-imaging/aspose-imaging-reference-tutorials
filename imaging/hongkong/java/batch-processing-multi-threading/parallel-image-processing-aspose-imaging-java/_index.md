@@ -223,7 +223,7 @@ A5：它允許您讀取或寫入檔案中的特定位置，使其成為高效處
 - [下載 Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用和臨時許可證](https://releases.aspose.com/imaging/java/)
-- [支援論壇](https://forum.aspose.com/c/imaging/10) 
+- [支援論壇](https://forum.aspose.com/c/imaging/14) 
 
 立即踏上 Aspose.Imaging Java 之旅，釋放專案中高效能影像處理的潛力！
 

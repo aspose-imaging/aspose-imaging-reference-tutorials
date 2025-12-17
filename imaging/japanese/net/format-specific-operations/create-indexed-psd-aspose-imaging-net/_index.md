@@ -150,7 +150,7 @@ Aspose.Imaging for .NET を使ったインデックス付き PSD ファイル作
 - **購入：** [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料トライアルから始める](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス:** [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム:** [Aspose サポート](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム:** [Aspose サポート](https://forum.aspose.com/c/imaging/14)
 
 今すぐ Aspose.Imaging でイメージングの旅に乗り出し、デジタル画像操作の新たな可能性を解き放ちましょう。
 

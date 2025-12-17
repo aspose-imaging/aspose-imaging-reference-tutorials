@@ -210,7 +210,7 @@ Voor meer informatie en bronnen:
 - **Licentie kopen:** [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Start uw gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum:** [Aspose Ondersteuningscommunity](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum:** [Aspose Ondersteuningscommunity](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u goed toegerust om DICOM-afbeeldingen in uw Java-applicaties te verwerken met Aspose.Imaging. Veel plezier met coderen!
 

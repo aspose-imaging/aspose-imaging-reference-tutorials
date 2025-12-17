@@ -244,7 +244,7 @@ Ez az oktatóanyag az Aspose.Imaging Java-hoz való beállítását és használ
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Aspose.Imaging ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose.Imaging támogatói fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose.Imaging támogatói fórum](https://forum.aspose.com/c/imaging/14)
 
 Az Aspose.Imaging for Java használatával zökkenőmentesen integrálhatja a kiváló minőségű EMF betűtípus- és szövegmegjelenítést alkalmazásaiba, javítva mind a funkcionalitást, mind a vizuális megjelenést.
 

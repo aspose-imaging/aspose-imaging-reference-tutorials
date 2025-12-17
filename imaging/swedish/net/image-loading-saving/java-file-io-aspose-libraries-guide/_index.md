@@ -156,7 +156,7 @@ Utforska vidare genom att integrera dessa tekniker i dina projekt eller experime
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att behärska dessa koncept är du på god väg att skapa kraftfulla Java-applikationer som effektivt hanterar fil-I/O-operationer. Lycka till med kodningen!
 

@@ -177,7 +177,7 @@ Javasoljuk, hogy próbáld ki ennek a megoldásnak a megvalósítását, és fed
 - **Dokumentáció**: Fedezze fel a részletes használati forgatókönyveket a következő címen: [Aspose.Imaging Java dokumentáció](https://reference.aspose.com/imaging/java/).
 - **Letöltés**Szerezd meg a legújabb Aspose.Imaging könyvtárat innen: [Aspose kiadások](https://releases.aspose.com/imaging/java/).
 - **Vásárlás és ingyenes próbaverzió**További információ a licenc beszerzéséről a következő címen: [vásárlási oldal](https://purchase.aspose.com/buy) vagy kezdje egy ingyenes próbaverzióval.
-- **Támogatás**Kérdések esetén látogasson el a következő oldalra: [Aspose Fórum](https://forum.aspose.com/c/imaging/10).
+- **Támogatás**Kérdések esetén látogasson el a következő oldalra: [Aspose Fórum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

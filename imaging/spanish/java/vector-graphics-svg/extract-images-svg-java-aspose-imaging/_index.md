@@ -250,7 +250,7 @@ A: Considere utilizar técnicas de procesamiento por lotes y optimizar el uso de
 - **Compra:** [Comprar Aspose](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Comience su prueba gratuita](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** [Obtenga una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Implementa estas funciones en tus proyectos Java para desbloquear nuevas capacidades y optimizar los flujos de trabajo de procesamiento de imágenes con Aspose.Imaging. ¡Que disfrutes programando!
 

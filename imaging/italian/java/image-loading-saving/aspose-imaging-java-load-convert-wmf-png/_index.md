@@ -202,7 +202,7 @@ Pronti a implementare queste soluzioni? Immergetevi nel mondo dell'elaborazione 
    - Utilizzare impostazioni di rasterizzazione appropriate e monitorare le risorse di sistema durante l'elaborazione in batch.
 
 5. **Come posso ottenere supporto se riscontro dei problemi?**
-   - Visita il [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) per ricevere supporto dalla comunità o contattare il loro team di supporto professionale.
+   - Visita il [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) per ricevere supporto dalla comunità o contattare il loro team di supporto professionale.
 
 ## Risorse
 

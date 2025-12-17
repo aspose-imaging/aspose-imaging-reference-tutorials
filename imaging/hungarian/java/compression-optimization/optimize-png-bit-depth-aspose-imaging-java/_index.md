@@ -173,7 +173,7 @@ Mostanra már alaposan ismernie kell az Aspose.Imaging Java-beli használatát P
 - **Vásárlás:** Fontold meg a licenc megvásárlását, ha hasznosnak találod az Aspose.Imaging programot.
 - **Ingyenes próbaverzió:** Kezdje egy ingyenes próbaverzióval a funkciók kiértékeléséhez.
 - **Ideiglenes engedély:** Szerezzen be ideiglenes engedélyt hosszabbított értékeléshez.
-- **Támogatás:** Csatlakozz a közösséghez a [Aspose Fórumok](https://forum.aspose.com/c/imaging/10) segítségért. 
+- **Támogatás:** Csatlakozz a közösséghez a [Aspose Fórumok](https://forum.aspose.com/c/imaging/14) segítségért. 
 
 Ennek az oktatóanyagnak a követésével felkészült leszel arra, hogy fejleszd képfeldolgozási képességeidet az Aspose.Imaging Java használatával.
 

@@ -209,7 +209,7 @@ for (int i : range.getArray()) {
 - **شراء**: [شراء ترخيص](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جرب Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [اطلب هنا](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 ابدأ رحلتك مع Aspose.Imaging Java وقم بتغيير طريقة تعاملك مع تحويلات الصور اليوم!
 

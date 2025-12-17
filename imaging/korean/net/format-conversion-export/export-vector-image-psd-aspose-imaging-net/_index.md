@@ -166,7 +166,7 @@ Aspose.Imaging .NET을 사용하여 CDR 형식의 벡터 이미지를 PSD로 내
 - **구입**: 라이센스를 구매하세요 [Aspose 구매 포털](https://purchase.aspose.com/buy).
 - **무료 체험**: 무료 체험판을 통해 시작하세요 [다운로드](https://releases.aspose.com/imaging/net/).
 - **임시 면허**: 요청 하나 [여기](https://purchase.aspose.com/temporary-license/).
-- **지원하다**: 커뮤니티에 가입하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10) 도움과 토론을 위해.
+- **지원하다**: 커뮤니티에 가입하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/14) 도움과 토론을 위해.
 
 이 가이드가 벡터 이미지 내보내기 기능을 프로젝트에 통합하는 데 도움이 되기를 바랍니다. 즐거운 코딩 되세요!
 

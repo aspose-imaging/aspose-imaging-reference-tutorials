@@ -203,7 +203,7 @@ license.setLicense("path/to/your/license.lic");
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [احصل على ترخيص مجاني](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى مجتمع Aspose](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى مجتمع Aspose](https://forum.aspose.com/c/imaging/14)
 
 باستخدام Aspose.Imaging لجافا، يمكنك تبسيط سير عمل معالجة مستنداتك ومعالجة ملفات DjVu بسهولة. برمجة ممتعة!
 

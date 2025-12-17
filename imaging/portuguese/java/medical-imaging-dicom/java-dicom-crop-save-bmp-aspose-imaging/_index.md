@@ -220,7 +220,7 @@ Neste tutorial, exploramos como carregar, recortar e salvar imagens DICOM usando
 - **Comprar**: [Compre o licenciamento Aspose](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Testes gratuitos do Aspose](https://releases.aspose.com/imaging/java/)
 - **Licença Temporária**: [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Com este guia completo, você agora está preparado para implementar o processamento de imagens DICOM em Java usando Aspose.Imaging. Boa programação!
 

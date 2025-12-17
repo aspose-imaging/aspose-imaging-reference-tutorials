@@ -211,7 +211,7 @@ Ebben az oktatóanyagban a TIFF képkockák Aspose.Imaging for Java használatá
 - **Vásárlás**: Kereskedelmi célú licenc vásárlása itt: [ez a link](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: Kezdje egy ingyenes próbaverzióval a funkciók tesztelését a következő címen: [Aspose weboldala](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: Szerezzen be egy ideiglenes engedélyt hosszabbított értékelésre a következőtől: [itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: Csatlakozz a beszélgetésekhez, vagy kérj segítséget a következő oldalon: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: Csatlakozz a beszélgetésekhez, vagy kérj segítséget a következő oldalon: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

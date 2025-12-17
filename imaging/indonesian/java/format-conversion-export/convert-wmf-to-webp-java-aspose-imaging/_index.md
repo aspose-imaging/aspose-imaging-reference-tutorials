@@ -186,7 +186,7 @@ Langkah selanjutnya dapat mencakup mengintegrasikan konversi ini ke dalam aplika
 - [Beli Langganan](https://purchase.aspose.com/buy)
 - [Lisensi Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda sudah berada di jalur yang benar untuk menguasai konversi gambar di Java menggunakan Aspose.Imaging. Selamat membuat kode!
 

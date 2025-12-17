@@ -195,7 +195,7 @@ Langkah selanjutnya termasuk mengintegrasikan solusi ini ke dalam proyek yang le
 - **Pembelian:** [Beli Lisensi](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Coba Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara:** [Dapatkan Disini](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Forum Komunitas](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Forum Komunitas](https://forum.aspose.com/c/imaging/14)
 
 Kami harap panduan ini memberdayakan Anda untuk mengelola metadata gambar dengan percaya diri menggunakan Aspose.Imaging untuk .NET. Selamat membuat kode!
 

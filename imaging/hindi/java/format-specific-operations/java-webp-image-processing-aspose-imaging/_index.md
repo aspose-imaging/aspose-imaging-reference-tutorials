@@ -197,7 +197,7 @@ try (FileOutputStream fs = new FileOutputStream("YOUR_OUTPUT_DIRECTORY/Animation
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस अनुरोध](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 इस व्यापक गाइड का पालन करके, अब आप जावा में WebP इमेज प्रोसेसिंग को दक्षता और आत्मविश्वास के साथ संभालने में सक्षम हैं। हैप्पी कोडिंग!
 

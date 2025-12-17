@@ -198,7 +198,7 @@ Klaar voor meer? Implementeer deze technieken in je volgende project!
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Met deze uitgebreide handleiding bent u nu goed voorbereid om beeldmanipulatie met Aspose.Imaging in Java onder de knie te krijgen. Veel plezier met coderen!
 

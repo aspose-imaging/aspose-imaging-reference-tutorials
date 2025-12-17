@@ -237,7 +237,7 @@ A5 : Bien que les opérations Aspose.Imaging ne soient pas intrinsèquement thr
 - **Achat:** [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Essayez Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licence temporaire :** [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Commencez votre voyage avec Aspose.Imaging pour Java dès aujourd'hui et libérez tout le potentiel du traitement d'images dans vos applications !
 

@@ -216,7 +216,7 @@ Gefeliciteerd! Je hebt het proces van het laden, converteren en beheren van APNG
    - Ja, u kunt batchverwerking scripten met behulp van lussen of integreren met taakplanningsystemen.
 
 5. **Hoe krijg ik ondersteuning als ik problemen ondervind?**
-   - Bezoek de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10) voor hulp en discussies met andere gebruikers.
+   - Bezoek de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14) voor hulp en discussies met andere gebruikers.
 
 ## Bronnen
 

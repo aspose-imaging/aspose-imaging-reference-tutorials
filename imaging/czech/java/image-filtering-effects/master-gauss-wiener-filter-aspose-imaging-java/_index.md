@@ -212,7 +212,7 @@ Nyní jste se naučili, jak využít Aspose.Imaging pro Javu k načítání obr�
 - **Nákup**: [Koupit nyní](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začít](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Žádost zde](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Komunita Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Komunita Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Doufáme, že vám tento průvodce pomůže vylepšit vaše projekty sofistikovanými funkcemi pro zpracování obrazu. Přejeme vám příjemné programování!
 

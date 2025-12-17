@@ -153,7 +153,7 @@ A5: Ja, den erbjuder olika optimeringstekniker för att hantera minnesanvändnin
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Ta dina .NET-applikationer till nästa nivå genom att bemästra bildbehandling med Aspose.Imaging!
 

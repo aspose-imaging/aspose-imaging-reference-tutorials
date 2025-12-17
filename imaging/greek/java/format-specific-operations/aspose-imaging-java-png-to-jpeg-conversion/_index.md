@@ -225,7 +225,7 @@ image.save("YOUR_OUTPUT_DIRECTORY/halfGigImage.jpg", options);
 - [Αγορά Άδειας Χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμαστική πρόσβαση](https://releases.aspose.com/imaging/java/)
 - [Αίτηση Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Με αυτόν τον ολοκληρωμένο οδηγό, είστε πλέον έτοιμοι να αξιοποιήσετε το Aspose.Imaging Java για αποτελεσματική επεξεργασία εικόνας στα έργα σας. Καλή κωδικοποίηση!
 

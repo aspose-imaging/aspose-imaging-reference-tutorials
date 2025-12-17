@@ -199,7 +199,7 @@ Fontolja meg párhuzamos feldolgozási technikák használatát, és biztosítsa
 - **Vásárlás**: [Vásároljon Aspose termékeket](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Ingyenes próbalicenc beszerzése](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose.Imaging támogatói fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose.Imaging támogatói fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

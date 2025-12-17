@@ -197,7 +197,7 @@ image.save(outFile, psdOptions); // 複数ページおよびラスタライズ�
    - もちろんです！CDRやPSD以外にも幅広い画像形式をサポートしています。
 
 5. **画像の読み込みや保存に関する問題をトラブルシューティングするにはどうすればよいですか?**
-   - チェックしてください [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10) 一般的な解決策については、ライブラリのバージョンが最新であることを確認してください。
+   - チェックしてください [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14) 一般的な解決策については、ライブラリのバージョンが最新であることを確認してください。
 
 ## リソース
 
@@ -206,7 +206,7 @@ image.save(outFile, psdOptions); // 複数ページおよびラスタライズ�
 - **購入：** [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料ライセンスを取得する](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従うことで、Aspose.Imaging を使用した Java アプリケーションで CDR 画像の読み込みと変換タスクを処理できるようになります。コーディングを楽しみましょう！
 

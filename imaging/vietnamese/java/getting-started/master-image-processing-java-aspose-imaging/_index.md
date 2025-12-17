@@ -170,7 +170,7 @@ Bạn đã sẵn sàng đưa quá trình xử lý hình ảnh của mình lên m
 - **Giấy phép mua hàng:** [Mua ngay](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bắt đầu dùng thử](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Nhận được ở đây](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ:** [Đặt câu hỏi](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** [Đặt câu hỏi](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn sẽ được trang bị đầy đủ để xử lý các tác vụ xử lý hình ảnh một cách dễ dàng bằng Aspose.Imaging cho Java. Chúc bạn viết mã vui vẻ!
 

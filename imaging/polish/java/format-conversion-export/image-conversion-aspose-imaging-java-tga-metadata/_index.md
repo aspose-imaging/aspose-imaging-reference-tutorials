@@ -199,7 +199,7 @@ tym samouczku zapoznałeś się ze sposobem konwersji plików JPEG i PNG do form
 - **Dokumentacja**:Dowiedz się więcej na [Dokumentacja Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - **Pobierać**:Otrzymaj najnowsze wydania z [Strona wydania Aspose](https://releases.aspose.com/imaging/java/).
 - **Zakup i bezpłatna wersja próbna**:Wypróbuj funkcje już dziś na [Strona zakupów i bezpłatnego okresu próbnego Aspose](https://purchase.aspose.com/buy).
-- **Wsparcie**:Dołącz do dyskusji na temat [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Wsparcie**:Dołącz do dyskusji na temat [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Mamy nadzieję, że ten przewodnik pomoże Ci skutecznie wykorzystać Aspose.Imaging Java do Twoich potrzeb przetwarzania obrazu. Miłego kodowania!
 

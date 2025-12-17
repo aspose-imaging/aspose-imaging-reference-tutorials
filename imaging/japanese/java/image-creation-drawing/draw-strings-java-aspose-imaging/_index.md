@@ -204,7 +204,7 @@ Aspose.Imaging for Java を使用して、画像上にさまざまな配置の�
 - **購入：** [Aspose.Imagingライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [Aspose.Imagingを無料でお試しください](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10) 
+- **サポート：** [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14) 
 
 これらのリソースを活用して、Aspose.Imaging for Java の理解と活用方法をさらに深めましょう。コーディングを楽しみましょう！
 

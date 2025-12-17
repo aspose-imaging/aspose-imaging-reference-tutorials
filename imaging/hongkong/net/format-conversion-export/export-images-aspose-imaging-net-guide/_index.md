@@ -207,7 +207,7 @@ A3：是的，Aspose.Imaging 透過格式特定的選項提供對壓縮設定的
 A4：當然！您可以使用 .NET 中的平行程式設計技術有效率地處理多個檔案。
 
 **問題 5：如何解決 Aspose.Imaging 的常見問題？**
-A5：檢查 [支援論壇](https://forum.aspose.com/c/imaging/10) 尋找常見問題的解決方案並諮詢廣泛的 [文件](https://reference.aspose.com/imaging/net/) 尋求指導。
+A5：檢查 [支援論壇](https://forum.aspose.com/c/imaging/14) 尋找常見問題的解決方案並諮詢廣泛的 [文件](https://reference.aspose.com/imaging/net/) 尋求指導。
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

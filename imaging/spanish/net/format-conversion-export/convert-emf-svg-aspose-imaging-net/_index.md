@@ -189,7 +189,7 @@ Este tutorial exploró la conversión de archivos EMF a formato SVG con Aspose.I
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Acceso de prueba gratuito](https://releases.aspose.com/imaging/net/)
 - [Solicitud de licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de la comunidad](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de la comunidad](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo esta guía, estarás bien preparado para gestionar conversiones de imágenes complejas con Aspose.Imaging .NET. ¡Que disfrutes programando!
 

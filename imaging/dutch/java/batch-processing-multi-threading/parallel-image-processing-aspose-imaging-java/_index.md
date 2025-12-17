@@ -223,7 +223,7 @@ A5: Hiermee kunt u specifieke posities in een bestand lezen of ernaar schrijven.
 - [Download Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefversie en tijdelijke licentie](https://releases.aspose.com/imaging/java/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10) 
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14) 
 
 Begin vandaag nog met Aspose.Imaging Java en ontgrendel het potentieel van hoogwaardige beeldverwerking in uw projecten!
 

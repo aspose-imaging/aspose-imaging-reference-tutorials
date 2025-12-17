@@ -198,7 +198,7 @@ Java プロジェクトを次のレベルに引き上げる準備はできてい
 - **購入とライセンス:** 購入オプションの詳細については、 [Asposeの購入ページ](https://purchase.aspose.com/buy)
 - **無料トライアル:** まずは無料トライアルをご利用ください [Asposeのトライアルページ](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** 全機能アクセスのための一時ライセンスをリクエストするには、 [Aspose の一時ライセンスページ](https://purchase.aspose.com/temporary-license/)
-- **サポート：** コミュニティに参加し、サポートを求める [Asposeのフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** コミュニティに参加し、サポートを求める [Asposeのフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを活用することで、Aspose.Imaging for Java のパワーをプロジェクトで活用できるようになります。さあ、コーディングを楽しみましょう！
 

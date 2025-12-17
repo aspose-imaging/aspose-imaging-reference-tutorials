@@ -131,7 +131,7 @@ A: 네, Aspose.Imaging은 다양한 이미지 포맷을 변환할 수 있도록 
 A: 네, Aspose로부터 적절한 라이선스를 취득한 후에 가능합니다.
 
 **질문: 문제가 발생하면 지원을 받을 수 있나요?**
-A: 방문 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10) 도움이 필요하면 문의하거나 문서를 참조하세요.
+A: 방문 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14) 도움이 필요하면 문의하거나 문서를 참조하세요.
 
 ## 자원
 - **선적 서류 비치:** [Aspose.Imaging .NET 문서](https://reference.aspose.com/imaging/net/)

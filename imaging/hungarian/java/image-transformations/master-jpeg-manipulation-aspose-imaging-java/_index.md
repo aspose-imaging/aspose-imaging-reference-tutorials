@@ -198,7 +198,7 @@ Készen állsz a továbbiakra? Alkalmazd ezeket a technikákat a következő pro
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbáld ki az Aspose.Imaging-et](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezzel az átfogó útmutatóval most már felkészült vagy a képmanipuláció elsajátítására az Aspose.Imaging használatával Java nyelven. Jó kódolást!
 

@@ -176,7 +176,7 @@ A: Houd het resourcegebruik in de gaten, optimaliseer de logica voor beeldverwer
 - **Aankoop:** [Koop Aspose-licentieopties](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Start gratis met Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Forum voor Ondersteuning](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose Forum voor Ondersteuning](https://forum.aspose.com/c/imaging/14)
 
 Als u deze handleiding volgt, bent u op de goede weg om de beeldverwerking met Aspose.Imaging in Java onder de knie te krijgen!
 

@@ -282,7 +282,7 @@ En exploitant Aspose.Imaging Java, vous pouvez gérer efficacement les fichiers 
 - [Télécharger Aspose.Imaging pour Java](https://releases.aspose.com/imaging/java/)
 - [Acheter une licence](https://purchase.aspose.com/buy)
 - [Essai gratuit et licence temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 Lancez-vous dès aujourd'hui dans votre voyage avec Aspose.Imaging Java pour débloquer de puissantes capacités de traitement d'images dans vos applications !
 

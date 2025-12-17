@@ -227,7 +227,7 @@ Bây giờ bạn đã thành thạo các kỹ thuật thiết yếu khi sử d�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Phiên bản dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Yêu cầu cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn này cung cấp nền tảng toàn diện để tận dụng Aspose.Imaging trong Java. Bằng cách hiểu các kỹ thuật này, bạn có thể nâng cao ứng dụng của mình bằng khả năng xử lý hình ảnh mạnh mẽ. Chúc bạn viết mã vui vẻ!
 

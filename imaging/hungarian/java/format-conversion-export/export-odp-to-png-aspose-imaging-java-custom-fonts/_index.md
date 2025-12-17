@@ -202,7 +202,7 @@ Az Aspose.Imaging lehetőségeinek további felfedezéséhez érdemes lehet átt
 - **Vásárlás:** [Aspose licencelés vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Indítsa el az ingyenes próbaverziót](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/14)
 
 Reméljük, hogy ez az útmutató segít zökkenőmentesen implementálni az Aspose.Imaging-et Java projektjeidben. Jó kódolást!
 

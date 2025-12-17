@@ -165,7 +165,7 @@ Dê o próximo passo experimentando diferentes configurações e casos de uso pa
 - **Comprar:** Compre uma licença em [Página de licenciamento Aspose](https://purchase.aspose.com/buy).
 - **Teste gratuito:** Experimente o Aspose.Imaging com um teste gratuito disponível na página de lançamentos.
 - **Licença temporária:** Obtenha acesso estendido por meio da opção de licenciamento temporário.
-- **Apoiar:** Participe de discussões ou procure ajuda no [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Apoiar:** Participe de discussões ou procure ajuda no [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Sinta-se encorajado a experimentar e integrar o acesso ao fluxo sincronizado em seus projetos Java para maior estabilidade e desempenho!
 

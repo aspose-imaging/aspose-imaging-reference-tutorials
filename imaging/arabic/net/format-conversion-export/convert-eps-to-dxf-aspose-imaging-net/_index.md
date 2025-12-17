@@ -131,7 +131,7 @@ File.Delete(Path.Combine("YOUR_OUTPUT_DIRECTORY", "output.dxf"));
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [ابدأ تجربة مجانية](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [اطلب هنا](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم**: [دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم**: [دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

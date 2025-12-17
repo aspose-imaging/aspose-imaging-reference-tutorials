@@ -251,7 +251,7 @@ A: โหลดเฉพาะเฟรมที่ต้องการ ปล�
 - **ซื้อ:** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
 - **ทดลองใช้ฟรี:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **ฟอรัมสนับสนุน:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **ฟอรัมสนับสนุน:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 ---
 

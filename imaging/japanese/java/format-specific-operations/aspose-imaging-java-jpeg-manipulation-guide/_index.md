@@ -184,7 +184,7 @@ A5: リソースを効果的に管理し、処理に適切なディメンショ�
 - **ライセンスを購入:** [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料お試し](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム:** [Aspose イメージング サポート](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム:** [Aspose イメージング サポート](https://forum.aspose.com/c/imaging/14)
 
 コーディングを楽しみながら、Aspose.Imaging for Java の機能をお楽しみください。
 

@@ -241,7 +241,7 @@ Aspose.Imagingライブラリを活用して、Javaで線、図形、パター�
 - [購入オプション](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java で描画機能を実装するための包括的なガイドができました。これらのテクニックを試して、プロジェクトに取り入れてみましょう。コーディングを楽しんでください！
 

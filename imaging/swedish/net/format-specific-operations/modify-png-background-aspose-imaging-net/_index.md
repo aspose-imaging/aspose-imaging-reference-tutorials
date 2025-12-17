@@ -156,7 +156,7 @@ A: Använd try-catch-block för att hantera undantag på ett smidigt sätt och b
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Börja gratis](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Skaffa tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose-forum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose-forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

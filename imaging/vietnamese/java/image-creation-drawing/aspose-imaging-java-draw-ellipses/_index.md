@@ -206,7 +206,7 @@ Bằng cách làm theo hướng dẫn này, bạn đã học cách vẽ hình el
 - **Mua**: https://purchase.aspose.com/buy
 - **Dùng thử miễn phí**: https://releases.aspose.com/imaging/java/
 - **Giấy phép tạm thời**: https://purchase.aspose.com/temporary-license/
-- **Ủng hộ**: https://forum.aspose.com/c/imaging/10
+- **Ủng hộ**: https://forum.aspose.com/c/imaging/14
 
 Chúng tôi hy vọng bạn thấy hướng dẫn này hữu ích. Chúc bạn viết mã vui vẻ!
 

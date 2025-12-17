@@ -181,7 +181,7 @@ Javasoljuk, hogy próbálja meg megvalósítani ezt a megoldást a projektjeiben
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Ez az oktatóanyag felvértezte Önt az összetett TIFF képösszefűzési feladatok Aspose.Imaging for Java használatával történő kezelésének ismereteivel. Jó kódolást!
 

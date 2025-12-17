@@ -194,7 +194,7 @@ V5: Feltétlenül! Implementáljon ciklusokat vagy párhuzamos feldolgozási tec
 - **Vásárlás**https://purchase.aspose.com/buy
 - **Ingyenes próbaverzió**https://releases.aspose.com/imaging/java/
 - **Ideiglenes engedély**https://purchase.aspose.com/temporary-license/
-- **Támogatás**https://forum.aspose.com/c/imaging/10
+- **Támogatás**https://forum.aspose.com/c/imaging/14
 
 Böngészd át ezeket az anyagokat, hogy elmélyítsd az Aspose.Imaging for Java megértését és elsajátítását. Jó kódolást!
 

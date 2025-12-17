@@ -209,7 +209,7 @@ try (TiffImage tiffImage = new TiffImage(outputSettings, newWidth, newHeight)) {
 5. **TIFF 프레임은 어떻게 이미지 관리를 개선합니까?**  
    여러 이미지를 하나의 파일에 통합하면 관련 이미지의 대규모 컬렉션을 더 쉽게 처리하고 배포할 수 있습니다.
 
-더 많은 리소스는 Aspose.Imaging의 리소스를 참조하세요. [선적 서류 비치](https://reference.aspose.com/imaging/java/) 그리고 그들의 탐험 [다운로드 페이지](https://releases.aspose.com/imaging/java/) 최신 업데이트를 확인하세요. 지원 문의는 다음 사이트를 방문하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/10).
+더 많은 리소스는 Aspose.Imaging의 리소스를 참조하세요. [선적 서류 비치](https://reference.aspose.com/imaging/java/) 그리고 그들의 탐험 [다운로드 페이지](https://releases.aspose.com/imaging/java/) 최신 업데이트를 확인하세요. 지원 문의는 다음 사이트를 방문하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

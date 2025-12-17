@@ -186,7 +186,7 @@ Les prochaines étapes pourraient inclure l’expérimentation de différents fo
 - **Achat**: [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Obtenez un essai gratuit](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Demander un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance**: [Assistance à l'imagerie Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance**: [Assistance à l'imagerie Aspose](https://forum.aspose.com/c/imaging/14)
 
 Lancez-vous dès aujourd'hui dans votre voyage avec Aspose.Imaging et libérez tout le potentiel du traitement d'images dans .NET !
 

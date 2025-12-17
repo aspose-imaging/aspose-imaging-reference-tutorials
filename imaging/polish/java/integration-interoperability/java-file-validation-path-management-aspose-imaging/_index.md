@@ -221,7 +221,7 @@ A5: Dodaj zależność Aspose.Imaging do swojego projektu za pomocą Maven lub G
 - **Zakup**:Uzyskaj licencję za pośrednictwem [Strona zakupu Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**:Zacznij eksperymentować z [Bezpłatna wersja próbna Aspose](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**:Uzyskaj rozszerzony dostęp za pośrednictwem [Strona tymczasowej licencji Aspose](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**:Współpracuj ze społecznością i zespołem wsparcia [Forum Aspose'a](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**:Współpracuj ze społecznością i zespołem wsparcia [Forum Aspose'a](https://forum.aspose.com/c/imaging/14)
 
 Postępując zgodnie z tym przewodnikiem, będziesz dobrze wyposażony do implementacji walidacji plików i zarządzania ścieżkami w swoich aplikacjach Java przy użyciu Aspose.Imaging. Miłego kodowania!
 

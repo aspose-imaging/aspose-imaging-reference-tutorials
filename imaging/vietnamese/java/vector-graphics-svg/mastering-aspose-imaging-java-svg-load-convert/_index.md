@@ -160,7 +160,7 @@ Sẵn sàng để tìm hiểu sâu hơn? Hãy thử áp dụng các giải pháp
 - **Mua:** [Mua bản quyền Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Nhận giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn đang trên đường thành thạo cách xử lý hình ảnh SVG trong Java với Aspose.Imaging. Chúc bạn viết mã vui vẻ!
 

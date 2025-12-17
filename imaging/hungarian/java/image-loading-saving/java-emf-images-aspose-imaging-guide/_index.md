@@ -179,7 +179,7 @@ V3: Igen, beviteli mezők használatával engedélyezze a felhasználóknak a v�
 - **Vásárlás**: [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Kezdje itt](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Kérjen most](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Közösségi fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Közösségi fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezen erőforrások kihasználásával jobban felfedezheted az Aspose.Imaging képességeit, és megoldhatod a megvalósítás során felmerülő kihívásokat. Jó kódolást!
 

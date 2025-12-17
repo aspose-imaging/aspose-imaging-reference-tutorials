@@ -126,7 +126,7 @@ File.Delete(outputDir + "/output.dcm");
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جرب Aspose.Imaging مجانًا](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [الحصول على ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم**:للاستفسارات، قم بزيارة [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم**:للاستفسارات، قم بزيارة [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 مع هذا الدليل الشامل، أنت جاهز تمامًا للاستفادة من Aspose.Imaging لـ .NET في مشاريع معالجة صور DICOM. برمجة ممتعة!
 

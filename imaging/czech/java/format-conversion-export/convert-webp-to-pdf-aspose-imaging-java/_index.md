@@ -198,7 +198,7 @@ Experimentujte s různými konfiguracemi `PdfOptions` třídu nebo prozkoumejte 
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Informace o bezplatné zkušební verzi](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Tato komplexní příručka si klade za cíl vybavit vás dovednostmi potřebnými k efektivnímu využití Aspose.Imaging pro Javu a vylepšení vašich digitálních mediálních projektů. Přejeme vám příjemné programování!
 

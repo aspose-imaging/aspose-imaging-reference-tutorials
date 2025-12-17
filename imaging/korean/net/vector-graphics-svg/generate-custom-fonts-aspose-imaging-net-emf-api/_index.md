@@ -181,7 +181,7 @@ Aspose.Imaging을 사용할 때 다음 성능 팁을 염두에 두세요.
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/net/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 지금 Aspose.Imaging과 함께 여정을 시작하고 .NET 애플리케이션을 새로운 차원으로 끌어올리세요!
 

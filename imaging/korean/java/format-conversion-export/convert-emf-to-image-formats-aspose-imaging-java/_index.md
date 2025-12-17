@@ -255,7 +255,7 @@ A5: 방문하세요 [임시 면허 페이지](https://purchase.aspose.com/tempor
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging 무료 체험판을 받아보세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/14)
 
 이러한 리소스를 활용하면 Aspose.Imaging for Java에 대한 지식과 역량을 확장할 수 있습니다. 즐거운 코딩 되세요!
 

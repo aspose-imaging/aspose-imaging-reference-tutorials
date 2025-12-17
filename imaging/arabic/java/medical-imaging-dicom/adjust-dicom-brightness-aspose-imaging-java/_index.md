@@ -183,7 +183,7 @@ image.save(outputFile, new BmpOptions());
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جرب مجانا](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 استمتع بقوة Aspose.Imaging for Java للارتقاء بمهام معالجة الصور الخاصة بك بسهولة ودقة!
 

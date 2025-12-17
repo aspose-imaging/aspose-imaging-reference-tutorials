@@ -257,7 +257,7 @@ A5: Đảm bảo rằng định dạng đầu ra hỗ trợ tính minh bạch (v
 - **Mua**: [Trang mua hàng Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Dùng thử Aspose.Imaging miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Cộng đồng hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Cộng đồng hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Chúc bạn viết mã vui vẻ!
 

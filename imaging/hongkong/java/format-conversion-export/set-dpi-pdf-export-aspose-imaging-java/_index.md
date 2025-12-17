@@ -174,7 +174,7 @@ Aspose.Imaging 支援多種影像格式，允許在它們之間進行無縫轉�
 - **購買：** [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用：** [Aspose.Imaging 免費試用](https://releases.aspose.com/imaging/java/)
 - **臨時執照：** [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 成像論壇](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 成像論壇](https://forum.aspose.com/c/imaging/14)
 
 有了這份全面的指南，您現在就可以使用 Aspose.Imaging for Java 在 PDF 匯出中實作 DPI 設定了。祝您編碼愉快！
 

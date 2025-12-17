@@ -198,7 +198,7 @@ C: Derleme aracınızın yapılandırmasını kontrol edin, doğru sürümün re
 - **Satın Alma:** [Buy Aspose.Imaging for Java](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** Ücretsiz denemenizi [Aspose web sitesinde](https://releases.aspose.com/imaging/java/) başlatın
 - **Geçici Lisans:** [Aspose Purchase](https://purchase.aspose.com/temporary-license/) üzerinden geçici lisans başvurusu yapın
-- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/10) içinde tartışmalara katılın
+- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/14) içinde tartışmalara katılın
 
 Bugün bu eğrileri çizmeye başlayın ve Java projelerinizi Aspose.Imaging ile yükseltin!
 

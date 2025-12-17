@@ -203,7 +203,7 @@ Bu çözümü bir sonraki projenizde uygulamaya çalışmanızı ve şu adreste 
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Erişimi](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Aspose.Imaging for Java ile çok sayfalı TIFF dosyaları oluşturmak ve düzenlemek için iyi bir donanıma sahip olmalısınız. İyi kodlamalar!
 

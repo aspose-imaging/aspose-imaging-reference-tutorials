@@ -170,7 +170,7 @@ Redo att ta din bildbehandling till nästa nivå? Testa att implementera den hä
 - **Köplicens:** [Köp nu](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Starta din provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Hämta här](https://purchase.aspose.com/temporary-license/)
-- **Supportforum:** [Ställ frågor](https://forum.aspose.com/c/imaging/10)
+- **Supportforum:** [Ställ frågor](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden kommer du att vara väl rustad för att enkelt hantera bildbehandlingsuppgifter med Aspose.Imaging för Java. Lycka till med kodningen!
 

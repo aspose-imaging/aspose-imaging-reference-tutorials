@@ -182,7 +182,7 @@ Aspose.Imaging for Javaを使ってディスクから画像を読み込む方法
 - [購入オプション](https://purchase.aspose.com/buy)
 - [無料トライアルアクセス](https://releases.aspose.com/imaging/java/)
 - [臨時免許申請](https://purchase.aspose.com/temporary-license/)
-- [コミュニティサポート](https://forum.aspose.com/c/imaging/10)
+- [コミュニティサポート](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従うことで、Aspose.Imaging for Java のパワーをプロジェクトで活用できるようになります。コーディングを楽しみましょう！
 

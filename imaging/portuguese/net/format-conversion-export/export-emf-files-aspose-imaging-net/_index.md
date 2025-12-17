@@ -169,7 +169,7 @@ Agora você tem um conhecimento abrangente sobre como exportar arquivos EMF para
    - Compatível com ambientes .NET Framework e .NET Core/5+/6+.
 
 5. **Há suporte disponível caso eu encontre problemas?**
-   - Sim, você pode acessar fóruns da comunidade e canais de suporte oficiais por meio [Suporte Aspose](https://forum.aspose.com/c/imaging/10).
+   - Sim, você pode acessar fóruns da comunidade e canais de suporte oficiais por meio [Suporte Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Recursos
 

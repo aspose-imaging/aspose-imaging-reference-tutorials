@@ -173,7 +173,7 @@ Aspose.Imaging for Java를 사용하여 DICOM 메타데이터를 관리하는 �
    - 메타데이터 조작은 픽셀 데이터를 변경하지 않으므로 이미지 품질이 그대로 유지됩니다.
 
 5. **문제가 발생하면 어디에서 지원을 받을 수 있나요?**
-   - 방문하세요 [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/10) 커뮤니티 전문가와 Aspose 직원에게 도움을 요청하세요.
+   - 방문하세요 [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/14) 커뮤니티 전문가와 Aspose 직원에게 도움을 요청하세요.
 
 ## 자원
 

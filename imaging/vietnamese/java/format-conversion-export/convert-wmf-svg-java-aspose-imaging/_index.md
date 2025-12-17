@@ -198,7 +198,7 @@ A4: Có, nhưng điều quan trọng là phải quản lý tài nguyên hiệu q
 
 **Câu hỏi 5: Tôi có thể nhận được hỗ trợ thêm như thế nào nếu gặp sự cố với Aspose.Imaging?**
 
-A5: Ghé thăm [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10) để được cộng đồng hỗ trợ hoặc liên hệ trực tiếp với bộ phận chăm sóc khách hàng của họ thông qua trang mua hàng.
+A5: Ghé thăm [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14) để được cộng đồng hỗ trợ hoặc liên hệ trực tiếp với bộ phận chăm sóc khách hàng của họ thông qua trang mua hàng.
 
 ## Tài nguyên
 

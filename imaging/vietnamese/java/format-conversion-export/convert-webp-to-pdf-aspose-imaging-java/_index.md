@@ -198,7 +198,7 @@ Thử nghiệm với các cấu hình khác nhau của `PdfOptions` lớp học 
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Thông tin dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn toàn diện này nhằm mục đích trang bị cho bạn những kỹ năng cần thiết để sử dụng hiệu quả Aspose.Imaging cho Java, nâng cao các dự án truyền thông kỹ thuật số của bạn. Chúc bạn viết mã vui vẻ!
 

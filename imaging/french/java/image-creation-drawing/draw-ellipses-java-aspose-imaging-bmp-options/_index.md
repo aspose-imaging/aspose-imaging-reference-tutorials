@@ -191,7 +191,7 @@ Dans les prochaines étapes, envisagez d’explorer d’autres fonctions de dess
 - [Acheter une licence](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Demande de permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 En exploitant Aspose.Imaging, vous pouvez enrichir vos applications Java avec de puissantes fonctionnalités de manipulation d'images. Bon codage !
 

@@ -193,7 +193,7 @@ En este tutorial, explicamos cómo cargar, redimensionar proporcionalmente y gua
    - JDK 8 o superior y un IDE Java compatible.
 
 5. **¿Dónde puedo encontrar ayuda si tengo problemas?**
-   - Únete a la [Foro de Aspose](https://forum.aspose.com/c/imaging/10) para apoyo comunitario y oficial.
+   - Únete a la [Foro de Aspose](https://forum.aspose.com/c/imaging/14) para apoyo comunitario y oficial.
 
 ## Recursos
 

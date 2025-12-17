@@ -295,7 +295,7 @@ Känn dig fri att experimentera och tillämpa dessa metoder i dina kommande proj
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Utforska gärna dessa resurser för vidare lärande och stöd. Lycka till med kodningen!
 

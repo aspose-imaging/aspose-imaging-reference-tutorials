@@ -171,7 +171,7 @@ image.save(outDir + "/TiffOptionsConfiguration_out.tiff", options); // कॉन
 - **खरीदना**: [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [निशुल्क आजमाइश शुरु करें](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 यह ट्यूटोरियल आपको अपने जावा अनुप्रयोगों में TIFF इमेज प्रोसेसिंग को कुशलतापूर्वक लागू करने के ज्ञान से लैस करता है। हैप्पी कोडिंग!
 

@@ -140,7 +140,7 @@ Você aprendeu a converter imagens TIFF RGB para CMYK usando o Aspose.Imaging pa
 - [Comprar uma licença](https://purchase.aspose.com/buy)
 - [Versão de teste gratuita](https://releases.aspose.com/imaging/net/)
 - [Pedido de Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Seguindo este guia, você estará bem equipado para dominar a conversão de espaço de cores de imagens usando o Aspose.Imaging para .NET. Boa programação!
 

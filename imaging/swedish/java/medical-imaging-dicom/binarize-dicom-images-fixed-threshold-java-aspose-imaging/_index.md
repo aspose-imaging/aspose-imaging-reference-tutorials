@@ -164,7 +164,7 @@ Redo att testa det? Implementera den här lösningen i ditt projekt idag!
    - Optimera din miljö och kod för minneshantering genom att effektivt använda Javas sophämtning.
 
 5. **Finns det support tillgänglig om jag stöter på problem?**
-   - Du kan söka hjälp på [Aspose Supportforum](https://forum.aspose.com/c/imaging/10).
+   - Du kan söka hjälp på [Aspose Supportforum](https://forum.aspose.com/c/imaging/14).
 
 ## Resurser
 

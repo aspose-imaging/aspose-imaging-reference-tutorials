@@ -184,7 +184,7 @@ Versuchen Sie noch heute, die Lösung zu implementieren, um zu sehen, wie sie in
 - **Kauflizenz:** [Aspose-Produkte kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Kostenlose Testversionen von Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz:** [Beantragung einer temporären Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum:** [Aspose Support-Community](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum:** [Aspose Support-Community](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

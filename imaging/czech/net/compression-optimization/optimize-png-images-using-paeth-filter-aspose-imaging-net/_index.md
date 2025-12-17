@@ -134,7 +134,7 @@ Jste připraveni uvést tyto dovednosti do praxe? Implementujte řešení hned t
 - **Nákup**: [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začněte svou bezplatnou zkušební verzi](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

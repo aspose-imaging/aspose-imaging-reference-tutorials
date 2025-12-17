@@ -203,7 +203,7 @@ try (Image image = Image.load("YOUR_DOCUMENT_DIRECTORY/input.wmf")) {
 - [شراء ترخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 بإتقان هذه الخطوات، ستكون جاهزًا تمامًا لتحويل ملفات WMF إلى PDF بسهولة. برمجة ممتعة!
 

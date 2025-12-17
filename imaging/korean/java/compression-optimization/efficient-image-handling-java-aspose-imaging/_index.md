@@ -223,7 +223,7 @@ A5: 로딩 후 이미지를 캐싱하고, 비례적 방법을 사용하여 효�
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging 무료 체험판](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/10) 
+- **지원하다**: [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/14) 
 
 이 포괄적인 가이드를 통해 Aspose.Imaging을 Java 프로젝트에 통합하여 효율적인 이미지 관리를 시작할 수 있습니다. 즐거운 코딩 되세요!
 

@@ -181,7 +181,7 @@ You've now learned how to load images and retrieve last modified dates using Asp
 - [Purchase Aspose.Imaging](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/java/)
 - [Temporary License Request](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Feel free to explore these resources for more detailed information and support. Happy coding!
 

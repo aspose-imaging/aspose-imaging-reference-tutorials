@@ -236,7 +236,7 @@ Aspose.Imaging のさらなる機能を活用して、アプリケーション�
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアル情報](https://releases.aspose.com/imaging/java/)
 - [一時ライセンスの詳細](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 この包括的なガイドは、Aspose.Imaging for Javaをプロジェクトにシームレスに統合し、効率的で多用途な画像操作機能を実現するお手伝いをします。コーディングを楽しみましょう！
 

@@ -186,7 +186,7 @@ Khám phá thêm nhiều tính năng của Aspose.Imaging hoặc thử chuyển 
 - **Mua:** [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Nhận bản dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình làm chủ việc chuyển đổi hình ảnh trong Java với Aspose.Imaging ngay hôm nay!
 

@@ -151,7 +151,7 @@ Aprendió a convertir imágenes CMX a PNG con Aspose.Imaging para .NET. Esta gu�
 - **Compra**: [Comprar productos Aspose](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Comience una prueba gratuita](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal**: [Solicitar licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

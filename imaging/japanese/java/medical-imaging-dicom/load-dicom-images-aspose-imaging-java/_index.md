@@ -160,7 +160,7 @@ Aspose.Imaging は JDK 8 以降をサポートしており、最新の Java ア�
 Aspose.Imaging は主に DICOM に重点を置いていますが、他のさまざまな画像形式もサポートしています。
 
 **5. Aspose.Imaging で問題が発生した場合、どこでサポートを受けることができますか?**
-訪問 [Asposeフォーラム](https://forum.aspose.com/c/imaging/10) サポートを受けたり、他のユーザーや専門家と交流したりできます。
+訪問 [Asposeフォーラム](https://forum.aspose.com/c/imaging/14) サポートを受けたり、他のユーザーや専門家と交流したりできます。
 
 ## リソース
 

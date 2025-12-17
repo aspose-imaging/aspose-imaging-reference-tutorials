@@ -180,7 +180,7 @@ A5: Installeer de bibliotheek via NuGet of Package Manager en volg de initialisa
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Gratis proefperiode starten](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Begin vandaag nog aan uw reis om beeldverwerking onder de knie te krijgen met Aspose.Imaging voor .NET!
 

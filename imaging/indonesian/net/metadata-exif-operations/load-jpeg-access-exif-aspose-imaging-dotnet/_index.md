@@ -172,7 +172,7 @@ Untuk informasi lebih rinci, lihat sumber daya berikut:
 - **Pembelian:** [Beli Opsi Lisensi Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Coba Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara:** [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Dukungan Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Dukungan Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda akan dapat menangani gambar JPEG dan metadatanya menggunakan Aspose.Imaging untuk .NET. Selamat membuat kode!
 

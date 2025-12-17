@@ -159,7 +159,7 @@ RasterImage rasterImage = (RasterImage) image;
    - よくある問題としては、ファイルパスが正しくない、画像形式に互換性がない、などが挙げられます。画像がAspose.Imagingでサポートされていることを確認してください。
 
 **5. 問題が発生した場合、どこでサポートを受けられますか?**
-   - 訪問 [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10) コミュニティと Aspose の専門家からのサポートを受けられます。
+   - 訪問 [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14) コミュニティと Aspose の専門家からのサポートを受けられます。
 
 ## リソース
 

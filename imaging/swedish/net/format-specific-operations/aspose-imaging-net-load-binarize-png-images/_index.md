@@ -152,7 +152,7 @@ I den här handledningen har du lärt dig hur du utnyttjar kraften i Aspose.Imag
 - **Köpa:** [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Starta en gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens:** [Ansök om en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -155,7 +155,7 @@ En esta guía, aprendiste a modificar datos EXIF JPEG con Aspose.Imaging para .N
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Descarga de prueba gratuita](https://releases.aspose.com/imaging/net/)
 - [Solicitud de licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 ¡Embárquese hoy mismo en su viaje hacia el dominio de la modificación EXIF JPEG con Aspose.Imaging!
 

@@ -183,7 +183,7 @@ A5: Ja, es ist für die nahtlose Integration in verschiedene Java-Umgebungen kon
 - [Lizenz erwerben](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Erkunden Sie diese Ressourcen, um Ihr Verständnis und Ihre Anwendung von Aspose.Imaging in Java zu verbessern.
 

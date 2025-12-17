@@ -171,7 +171,7 @@ Als Nächstes können Sie die zusätzlichen Bildbearbeitungsfunktionen von Aspos
 - Für die kommerzielle Nutzung ist eine Lizenz erforderlich. Testlizenzen ermöglichen die Evaluierung, sind jedoch mit Einschränkungen verbunden.
 
 **F4: Gibt es Support, wenn ich auf Probleme stoße?**
-- Ja, Aspose bietet Community-Foren und professionelle Support-Optionen. Besuchen Sie deren [Support-Seite](https://forum.aspose.com/c/imaging/10) für weitere Informationen.
+- Ja, Aspose bietet Community-Foren und professionelle Support-Optionen. Besuchen Sie deren [Support-Seite](https://forum.aspose.com/c/imaging/14) für weitere Informationen.
 
 **F5: Kann ich diese Funktionalität in eine Webanwendung integrieren?**
 - Absolut! Die Bibliothek ist mit den in Webanwendungen verwendeten .NET-Frameworks kompatibel und ermöglicht so eine nahtlose Integration.

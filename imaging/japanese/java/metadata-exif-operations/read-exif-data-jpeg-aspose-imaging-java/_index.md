@@ -144,7 +144,7 @@ EXIF データの抽出には、さまざまな実世界アプリケーション
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imaging を試す](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose コミュニティフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose コミュニティフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従うことで、Aspose.Imaging を使用して Java アプリケーションで EXIF データの読み取りを効率的に実装できます。
 

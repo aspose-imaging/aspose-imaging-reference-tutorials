@@ -198,7 +198,7 @@ A5: メモリ管理のために Java 環境を最適化することを検討し�
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアルアクセス](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを活用して、Aspose.Imaging for Java を使った画像処理プロジェクトの理解を深め、強化しましょう。コーディングを楽しみましょう！
 

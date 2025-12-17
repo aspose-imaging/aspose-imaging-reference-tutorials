@@ -199,7 +199,7 @@ Cobalah menerapkan solusi ini dalam proyek Anda hari ini dan lihat bagaimana sol
    - Pustaka ini tersedia berdasarkan lisensi uji coba; fitur lengkap memerlukan pembelian.
 
 5. **Di mana saya bisa mendapatkan dukungan jika diperlukan?**
-   - Mengunjungi [Forum dukungan Aspose](https://forum.aspose.com/c/imaging/10) untuk bantuan.
+   - Mengunjungi [Forum dukungan Aspose](https://forum.aspose.com/c/imaging/14) untuk bantuan.
 
 ## Sumber daya
 

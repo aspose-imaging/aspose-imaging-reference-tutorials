@@ -172,7 +172,7 @@ Sẵn sàng để tìm hiểu sâu hơn? Khám phá các tài nguyên bên dư�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, giờ đây bạn đã có thể chuyển đổi tệp WMF sang PDF bằng Aspose.Imaging cho .NET một cách hiệu quả. Chúc bạn viết mã vui vẻ!
 

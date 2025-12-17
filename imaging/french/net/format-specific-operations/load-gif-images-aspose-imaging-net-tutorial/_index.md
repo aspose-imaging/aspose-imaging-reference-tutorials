@@ -153,7 +153,7 @@ A5 : Oui, il propose diverses techniques d’optimisation pour gérer efficacem
 - [Licence d'achat](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/net/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 Faites passer vos applications .NET au niveau supérieur en maîtrisant le traitement d'images avec Aspose.Imaging !
 

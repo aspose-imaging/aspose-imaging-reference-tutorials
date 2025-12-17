@@ -204,7 +204,7 @@ A5 : Utilisez les fonctionnalités de traitement par lots et assurez-vous que v
 - [Télécharger Aspose.Imaging pour Java](https://releases.aspose.com/imaging/java/)
 - [Acheter une licence](https://purchase.aspose.com/buy)
 - [Essai gratuit et licence temporaire](https://releases.aspose.com/imaging/java/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 Explorez ces ressources pour approfondir vos connaissances et développer vos compétences avec Aspose.Imaging pour Java. Bon codage !
 

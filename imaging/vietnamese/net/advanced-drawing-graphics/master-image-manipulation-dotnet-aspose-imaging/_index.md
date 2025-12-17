@@ -149,7 +149,7 @@ Sẵn sàng triển khai chưa? Hãy khám phá Aspose.Imaging và phát huy h�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Chúc bạn viết mã vui vẻ với Aspose.Imaging cho .NET! 🚀
 

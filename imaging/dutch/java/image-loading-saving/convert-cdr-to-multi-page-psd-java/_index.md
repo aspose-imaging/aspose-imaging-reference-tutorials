@@ -197,7 +197,7 @@ In deze tutorial hebben we uitgelegd hoe je Aspose.Imaging voor Java kunt gebrui
    - Absoluut! Het ondersteunt een breed scala aan afbeeldingsformaten, naast CDR en PSD.
 
 5. **Hoe kan ik problemen met het laden of opslaan van afbeeldingen oplossen?**
-   - Controleer de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10) voor veelvoorkomende oplossingen en zorg ervoor dat uw bibliotheekversie up-to-date is.
+   - Controleer de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14) voor veelvoorkomende oplossingen en zorg ervoor dat uw bibliotheekversie up-to-date is.
 
 ## Bronnen
 
@@ -206,7 +206,7 @@ In deze tutorial hebben we uitgelegd hoe je Aspose.Imaging voor Java kunt gebrui
 - **Aankoop:** [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Ontvang een gratis licentie](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u goed toegerust om CDR-images te laden en te converteren in uw Java-applicaties met Aspose.Imaging. Veel plezier met coderen!
 

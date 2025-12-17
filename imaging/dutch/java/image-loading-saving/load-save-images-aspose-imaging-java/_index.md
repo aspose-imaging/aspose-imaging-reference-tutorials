@@ -195,7 +195,7 @@ Volgende stappen kunnen bestaan uit het verkennen van geavanceerdere functies va
 - **Licentie kopen:** Meer informatie over aankoopopties vindt u op [Aspose Aankoop](https://purchase.aspose.com/buy).
 - **Gratis proefperiode:** Begin met een proefperiode om de functies uit te proberen.
 - **Tijdelijke licentie:** Krijg tijdelijke toegang voor uitgebreide tests.
-- **Ondersteuningsforum:** Krijg hulp en deel inzichten over de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10).
+- **Ondersteuningsforum:** Krijg hulp en deel inzichten over de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14).
 
 Door deze tutorial te volgen, heb je waardevolle vaardigheden opgedaan in beeldverwerking met Aspose.Imaging voor Java. Veel plezier met coderen!
 

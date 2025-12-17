@@ -184,7 +184,7 @@ Zkuste implementovat řešení ještě dnes a uvidíte, jak se hodí do vašeho 
 - **Licence k zakoupení:** [Kupte si produkty Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Bezplatné zkušební verze Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence:** [Získat dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory:** [Komunita podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory:** [Komunita podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

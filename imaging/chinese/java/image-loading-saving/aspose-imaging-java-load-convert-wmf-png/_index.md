@@ -202,7 +202,7 @@ public class SaveWMFAsPNG {
    - 在批处理期间使用适当的光栅化设置并监控系统资源。
 
 5. **如果遇到问题，如何获得支持？**
-   - 访问 [Aspose.Imaging 论坛](https://forum.aspose.com/c/imaging/10) 寻求社区支持或联系他们的专业支持团队。
+   - 访问 [Aspose.Imaging 论坛](https://forum.aspose.com/c/imaging/14) 寻求社区支持或联系他们的专业支持团队。
 
 ## 资源
 

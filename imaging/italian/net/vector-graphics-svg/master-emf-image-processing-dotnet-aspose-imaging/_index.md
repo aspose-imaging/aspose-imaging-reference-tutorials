@@ -165,7 +165,7 @@ I problemi più comuni includono percorsi di file errati o formati non supportat
 - [Acquista licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/net/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Sentiti libero di esplorare queste risorse e di chiedere supporto se incontri difficoltà. Buona programmazione!
 

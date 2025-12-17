@@ -193,7 +193,7 @@ Készen állsz ennek a hatékony megoldásnak a megvalósítására? Merülj el 
 - **Licenc vásárlása:** [Vásároljon teljes licencet még ma](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Kezdje ingyenes próbaverzióval](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum:** [Kérjen segítséget a közösségtől](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum:** [Kérjen segítséget a közösségtől](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével felkészült leszel arra, hogy az Aspose.Imaging segítségével hatékony képfeldolgozási képességeket integrálj Java-alkalmazásaidba. Jó kódolást!
 

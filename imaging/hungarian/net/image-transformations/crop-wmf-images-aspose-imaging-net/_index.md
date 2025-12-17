@@ -138,7 +138,7 @@ Következő lépésként érdemes lehet az Aspose.Imaging egyéb funkcióit is f
 **A4:** Igen, az Aspose.Imaging számos formátumot támogat, beleértve a PNG-t, JPEG-et, TIFF-et stb.
 
 **5. kérdés:** Hogyan kaphatok támogatást, ha problémákba ütközöm?
-**A5:** Látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10) segítségért.
+**A5:** Látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14) segítségért.
 
 ## Erőforrás
 - **Dokumentáció:** Részletes útmutatókat és API-referenciákat itt talál: [Aspose képalkotási dokumentáció](https://reference.aspose.com/imaging/net/)

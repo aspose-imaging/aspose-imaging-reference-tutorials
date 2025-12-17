@@ -211,7 +211,7 @@ R: Utilize tamanhos de buffer personalizados durante o carregamento para otimiza
 - **Comprar**: [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Comece um teste gratuito](https://releases.aspose.com/imaging/java/)
 - **Licença Temporária**: [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Seguindo este guia, você estará bem equipado para implementar técnicas avançadas de compressão de imagens usando o Aspose.Imaging para Java. Explore mais a fundo e integre esses métodos aos seus projetos para obter desempenho e qualidade ideais.
 

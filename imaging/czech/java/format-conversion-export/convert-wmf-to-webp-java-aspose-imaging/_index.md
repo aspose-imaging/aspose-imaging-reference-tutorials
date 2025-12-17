@@ -186,7 +186,7 @@ Další kroky by mohly zahrnovat integraci těchto konverzí do webové aplikace
 - [Zakoupit předplatné](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební licence](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu jste na dobré cestě k zvládnutí konverzí obrázků v Javě pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 

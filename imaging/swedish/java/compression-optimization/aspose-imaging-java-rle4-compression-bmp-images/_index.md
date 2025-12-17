@@ -184,7 +184,7 @@ Ta steget och börja implementera dessa tekniker i ditt nästa projekt!
 - **Köplicens**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Starta din gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att implementera dessa steg och använda de tillhandahållna resurserna kommer du att vara väl rustad för att hantera BMP-bildkomprimering med Aspose.Imaging för Java. Lycka till med kodningen!
 

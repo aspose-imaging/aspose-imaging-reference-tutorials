@@ -213,7 +213,7 @@ Bạn đã sẵn sàng áp dụng những gì đã học vào thực tế chưa?
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Phiên bản dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Yêu cầu cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình với Aspose.Imaging for Java và khai thác toàn bộ tiềm năng chỉnh sửa hình ảnh trong ứng dụng của bạn!
 

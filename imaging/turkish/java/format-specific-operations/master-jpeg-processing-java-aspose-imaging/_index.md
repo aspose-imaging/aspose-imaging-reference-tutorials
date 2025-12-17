@@ -224,7 +224,7 @@ Artık Aspose.Imaging for Java kullanarak JPEG görüntülerini yüklemeyi, kodu
 - **Satın almak:** [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Deneme ile Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzun Aspose.Imaging for Java ile JPEG görüntü işleme konusunda ustalaşmanızda size yardımcı olmasını umuyoruz. Projelerinizi nasıl geliştirebileceklerini görmek için bu çözümleri uygulamaya çalışın!
 

@@ -180,7 +180,7 @@ Jste připraveni posunout své dovednosti dále? Vyzkoušejte tyto techniky a uv
 - [Nákup](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto komplexního průvodce byste nyní měli být vybaveni k efektivní správě úloh zpracování obrazu DICOM pomocí Aspose.Imaging pro Javu.
 

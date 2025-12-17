@@ -153,7 +153,7 @@ Langkah selanjutnya termasuk bereksperimen dengan rangkaian bingkai yang berbeda
 - **Pembelian**: [Beli Lisensi Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Uji Coba Gratis Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ambil sumber daya ini dan mulailah membuat GIF dinamis hari ini!
 

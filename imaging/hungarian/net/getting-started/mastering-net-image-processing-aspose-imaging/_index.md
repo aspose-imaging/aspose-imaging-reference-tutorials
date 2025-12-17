@@ -133,7 +133,7 @@ A: Az Aspose.Imaging támogatja a kötegelt műveleteket ciklusokon és feladatp
 - **Vásárlás**: [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbálja ki most](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Kérdéseket tehet fel itt](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Kérdéseket tehet fel itt](https://forum.aspose.com/c/imaging/14)
 
 Kezdje el használni az Aspose.Imaging-et még ma, hogy robusztus képfeldolgozási képességekkel fejlessze .NET alkalmazásait!
 

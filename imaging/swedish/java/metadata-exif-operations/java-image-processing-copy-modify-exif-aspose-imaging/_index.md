@@ -198,7 +198,7 @@ Experimentera med olika EXIF-fält och utforska mer avancerade funktioner som er
    - Absolut, den är utformad för att hantera högpresterande krav effektivt.
 
 5. **Hur kan jag bidra till samhället eller söka hjälp med problem?**
-   - Gå med i [Aspose-forumet](https://forum.aspose.com/c/imaging/10) att ställa frågor och dela insikter.
+   - Gå med i [Aspose-forumet](https://forum.aspose.com/c/imaging/14) att ställa frågor och dela insikter.
 
 ## Resurser
 

@@ -256,7 +256,7 @@ Naučili jste se, jak ukládat obrázky JPEG s profily CMYK a YCCK a převádět
 - **Nákup:** [Licencování Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Začít](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu můžete efektivně používat Aspose.Imaging Java ke správě a konverzi obrázků JPEG ve vašich projektech. Vyzkoušejte si to ještě dnes!
 

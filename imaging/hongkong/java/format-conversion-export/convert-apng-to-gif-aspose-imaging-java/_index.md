@@ -216,7 +216,7 @@ Aspose.Imaging for Java 提供多種應用程序，包括：
    - 是的，您可以使用循環編寫批次腳本或與作業排程系統整合。
 
 5. **如果遇到問題，如何獲得支援？**
-   - 訪問 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10) 尋求協助並與其他使用者進行討論。
+   - 訪問 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14) 尋求協助並與其他使用者進行討論。
 
 ## 資源
 

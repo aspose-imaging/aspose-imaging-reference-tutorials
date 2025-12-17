@@ -203,7 +203,7 @@ Aspose.Imaging का उपयोग करते समय इष्टतम 
 - **क्रय लाइसेंस:** [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [Aspose.Imaging निःशुल्क आज़माएँ](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस:** [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच:** [Aspose.Imaging समर्थन](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच:** [Aspose.Imaging समर्थन](https://forum.aspose.com/c/imaging/14)
 
 आज ही Aspose.Imaging for Java के साथ संभावनाओं की खोज शुरू करें और अपनी इमेज प्रोसेसिंग परियोजनाओं को बढ़ाएं!
 

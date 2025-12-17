@@ -171,7 +171,7 @@ WebP는 품질 저하 없이 뛰어난 압축률을 제공하여 로드 시간�
 - **선적 서류 비치:** [Java 참조용 Aspose.Imaging](https://reference.aspose.com/imaging/java/)
 - **다운로드:** [최신 릴리스](https://releases.aspose.com/imaging/java/)
 - **구매 및 체험:** 라이선스 옵션을 살펴보세요 [Aspose 구매](https://purchase.aspose.com/buy)
-- **지원하다:** 커뮤니티 토론에 참여하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** 커뮤니티 토론에 참여하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 다음 프로젝트에서 이러한 단계를 시도해 보고 Aspose.Imaging Java가 어떻게 이미지 처리 워크플로를 간소화하고 향상시킬 수 있는지 확인해 보세요!
 

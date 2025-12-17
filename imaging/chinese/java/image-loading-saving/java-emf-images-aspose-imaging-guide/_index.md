@@ -179,7 +179,7 @@ A5：按照许可证获取中概述的步骤获取并激活您的许可证，无
 - **购买**： [购买许可证](https://purchase.aspose.com/buy)
 - **免费试用**： [从这里开始](https://releases.aspose.com/imaging/java/)
 - **临时执照**： [立即申请](https://purchase.aspose.com/temporary-license/)
-- **支持**： [社区论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**： [社区论坛](https://forum.aspose.com/c/imaging/14)
 
 利用这些资源，您可以进一步探索 Aspose.Imaging 的功能，并解决实施过程中遇到的任何挑战。祝您编码愉快！
 

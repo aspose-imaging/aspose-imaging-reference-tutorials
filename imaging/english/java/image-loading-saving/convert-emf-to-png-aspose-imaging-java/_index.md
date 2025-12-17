@@ -193,7 +193,7 @@ Explore more features of Aspose.Imaging or try converting other image formats!
 - **Purchase:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial:** [Get a Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Apply for Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Embark on your journey of mastering image conversions in Java with Aspose.Imaging today!
 

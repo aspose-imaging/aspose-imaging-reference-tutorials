@@ -133,7 +133,7 @@ Sebagai langkah berikutnya, pertimbangkan untuk menjelajahi fitur-fitur tambahan
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Aplikasi Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda untuk menguasai pemrosesan gambar dengan Aspose.Imaging untuk .NET hari ini!
 

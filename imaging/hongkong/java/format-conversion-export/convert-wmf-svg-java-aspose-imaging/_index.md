@@ -198,7 +198,7 @@ A4：是的，但有效地管理資源和謹慎使用多執行緒很重要。
 
 **問題5：如果我遇到 Aspose.Imaging 問題，如何獲得更多支援？**
 
-A5：參觀 [Aspose 的論壇](https://forum.aspose.com/c/imaging/10) 尋求社區支援或透過購買頁面直接聯繫他們的客戶服務。
+A5：參觀 [Aspose 的論壇](https://forum.aspose.com/c/imaging/14) 尋求社區支援或透過購買頁面直接聯繫他們的客戶服務。
 
 ## 資源
 

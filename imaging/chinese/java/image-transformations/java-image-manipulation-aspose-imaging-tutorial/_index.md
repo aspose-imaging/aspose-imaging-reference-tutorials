@@ -213,7 +213,7 @@ Aspose.Imaging 功能多样，适用于多种实际场景：
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用版](https://releases.aspose.com/imaging/java/)
 - [临时许可证申请](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 踏上 Aspose.Imaging for Java 之旅，充分发挥应用程序中图像处理的潜力！
 

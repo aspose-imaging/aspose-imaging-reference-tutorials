@@ -198,7 +198,7 @@ R4: Sim, mas é importante gerenciar recursos de forma eficiente e usar multithr
 
 **P5: Como posso obter mais suporte se tiver problemas com o Aspose.Imaging?**
 
-A5: Visita [Fórum do Aspose](https://forum.aspose.com/c/imaging/10) para obter suporte da comunidade ou entre em contato com o atendimento ao cliente diretamente pela página de compra.
+A5: Visita [Fórum do Aspose](https://forum.aspose.com/c/imaging/14) para obter suporte da comunidade ou entre em contato com o atendimento ao cliente diretamente pela página de compra.
 
 ## Recursos
 

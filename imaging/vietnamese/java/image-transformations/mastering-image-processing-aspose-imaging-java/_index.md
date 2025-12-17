@@ -182,7 +182,7 @@ Bản dùng thử miễn phí có những hạn chế về đánh giá, chẳng 
 - **Mua:** [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Aspose.Imaging dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Ủng hộ:** [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Với hướng dẫn toàn diện này, bạn sẽ được trang bị đầy đủ để bắt đầu sử dụng Aspose.Imaging for Java trong các dự án của mình. Chúc bạn viết mã vui vẻ!
 

@@ -214,7 +214,7 @@ Volgende stappen kunnen bestaan uit het verkennen van aanvullende functies van A
 - [Aankooplicentieopties](https://purchase.aspose.com/buy)
 - [Begin met een gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Informatie over tijdelijke licenties](https://purchase.aspose.com/temporary-license/)
-- [Communityondersteuning en forums](https://forum.aspose.com/c/imaging/10)
+- [Communityondersteuning en forums](https://forum.aspose.com/c/imaging/14)
 
 Door gebruik te maken van deze bronnen kunt u uw kennis van Aspose.Imaging voor Java verdiepen en het effectief toepassen in uw projecten. Veel plezier met coderen!
 

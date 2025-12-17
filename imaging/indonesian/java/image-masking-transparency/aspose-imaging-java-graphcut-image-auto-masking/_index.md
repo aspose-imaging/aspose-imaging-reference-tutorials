@@ -205,7 +205,7 @@ Dalam tutorial ini, kami telah mempelajari cara menerapkan auto-masking gambar m
 - Bereksperimenlah dengan konfigurasi opsi masking yang berbeda-beda.
 - Jelajahi fitur lain yang ditawarkan oleh Aspose.Imaging untuk kemampuan pemrosesan gambar tambahan.
 
-Untuk pertanyaan atau dukungan lebih lanjut, kunjungi [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10).
+Untuk pertanyaan atau dukungan lebih lanjut, kunjungi [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14).
 
 ## Bagian FAQ
 
@@ -231,7 +231,7 @@ A: Uji coba gratis memungkinkan Anda menguji semua fungsi, tetapi menyertakan ta
 - **Pembelian**: [Beli Opsi Lisensi Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulailah dengan Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda untuk menguasai penyamaran gambar otomatis dengan Aspose.Imaging dan Java hari ini!
 

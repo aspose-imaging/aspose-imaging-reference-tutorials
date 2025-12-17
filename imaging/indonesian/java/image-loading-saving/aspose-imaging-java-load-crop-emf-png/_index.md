@@ -209,7 +209,7 @@ Anda kini telah menguasai cara memuat, memotong berkas EMF, dan mengonversinya k
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Manfaatkan kekuatan Aspose.Imaging Java untuk meningkatkan kemampuan pemrosesan gambar Anda hari ini!
 

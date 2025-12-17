@@ -225,7 +225,7 @@ Sẵn sàng thử chưa? Áp dụng các kỹ thuật này vào dự án tiếp 
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Truy cập dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Đơn xin cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Với hướng dẫn toàn diện này, giờ đây bạn đã sẵn sàng tận dụng Aspose.Imaging Java để xử lý hình ảnh hiệu quả trong các dự án của mình. Chúc bạn viết mã vui vẻ!
 

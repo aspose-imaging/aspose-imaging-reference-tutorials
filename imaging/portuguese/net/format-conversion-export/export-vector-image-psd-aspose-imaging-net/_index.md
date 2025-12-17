@@ -166,7 +166,7 @@ Como próximo passo, considere experimentar outros formatos suportados pelo Aspo
 - **Comprar**: Compre uma licença através de [Portal de Compras Aspose](https://purchase.aspose.com/buy).
 - **Teste grátis**: Comece com um teste gratuito via [Transferências](https://releases.aspose.com/imaging/net/).
 - **Licença Temporária**: Solicite um [aqui](https://purchase.aspose.com/temporary-license/).
-- **Apoiar**: Junte-se à comunidade em [Fóruns Aspose](https://forum.aspose.com/c/imaging/10) para ajuda e discussões.
+- **Apoiar**: Junte-se à comunidade em [Fóruns Aspose](https://forum.aspose.com/c/imaging/14) para ajuda e discussões.
 
 Esperamos que este guia ajude você a integrar a funcionalidade de exportação de imagens vetoriais aos seus projetos. Boa programação!
 

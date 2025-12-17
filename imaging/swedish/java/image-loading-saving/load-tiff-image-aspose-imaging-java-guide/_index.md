@@ -196,7 +196,7 @@ Som nästa steg, försök att integrera den här funktionen i ett befintligt pro
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Utforska dessa resurser för att fördjupa din förståelse och ytterligare förbättra din applikations bildbehandlingsfunktioner. Lycka till med kodningen!
 

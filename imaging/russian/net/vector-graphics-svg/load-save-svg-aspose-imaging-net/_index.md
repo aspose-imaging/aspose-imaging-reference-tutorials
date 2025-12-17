@@ -190,7 +190,7 @@ image.Save(fs);
 - **Покупка:** [Купить Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия:** [Попробуйте Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия:** [Запросить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать:** [Форум Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать:** [Форум Aspose](https://forum.aspose.com/c/imaging/14)
 
 Начните свое путешествие с Aspose.Imaging сегодня и откройте новые возможности обработки изображений для приложений .NET!
 

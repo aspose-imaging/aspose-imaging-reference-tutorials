@@ -182,7 +182,7 @@ Try implementing this solution today and see how it enhances your image processi
 - **Documentation**: [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
 - **Download**: [Aspose.Imaging Releases](https://releases.aspose.com/imaging/java/)
 - **Purchase & Licensing**: [Buy Aspose License](https://purchase.aspose.com/buy), [Free Trial](https://releases.aspose.com/imaging/java/), [Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: Engage with the community on the [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: Engage with the community on the [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 By integrating Aspose.Imaging into your Java projects, you can unlock powerful image processing capabilities that streamline and enhance your workflows. Happy coding!
 

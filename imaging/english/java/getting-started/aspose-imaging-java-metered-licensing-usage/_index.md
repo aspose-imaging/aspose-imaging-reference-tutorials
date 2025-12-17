@@ -207,7 +207,7 @@ Next steps include exploring additional functionalities of the Aspose.Imaging li
    - Use the `Metered.getConsumptionQuantity()` method before and after processing images to track usage.
 
 5. **Is there support available if I encounter issues?**
-   - Visit [Aspose Forum](https://forum.aspose.com/c/imaging/10) for assistance from community experts.
+   - Visit [Aspose Forum](https://forum.aspose.com/c/imaging/14) for assistance from community experts.
 
 ## Resources
 

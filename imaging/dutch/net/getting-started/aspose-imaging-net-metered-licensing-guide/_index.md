@@ -147,7 +147,7 @@ In deze handleiding hebben we besproken hoe u gedoseerde licenties kunt implemen
 - Experimenteer verder door gemeten licenties te integreren in complexere workflows.
 - Ontdek de extra functies van Aspose.Imaging die de mogelijkheden van uw applicatie kunnen uitbreiden.
 
-We raden u aan deze implementatie in uw projecten uit te proberen. Als u vragen heeft of ondersteuning nodig heeft, kunt u contact met ons opnemen via de [Aspose communityforum](https://forum.aspose.com/c/imaging/10).
+We raden u aan deze implementatie in uw projecten uit te proberen. Als u vragen heeft of ondersteuning nodig heeft, kunt u contact met ons opnemen via de [Aspose communityforum](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ-sectie
 **V1: Wat is gemeten licentieverlening?**

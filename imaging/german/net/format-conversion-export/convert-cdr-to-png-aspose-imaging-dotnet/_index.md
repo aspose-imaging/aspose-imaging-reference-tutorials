@@ -174,7 +174,7 @@ In diesem Tutorial haben Sie gelernt, wie Sie CDR-Dateien mit Aspose.Imaging fü
 - [Lizenz erwerben](https://purchase.aspose.com/buy)
 - [Kostenloser Testdownload](https://releases.aspose.com/imaging/net/)
 - [Antrag auf eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Begeben Sie sich mit Aspose.Imaging für .NET auf Ihre Bildkonvertierungsreise und entdecken Sie neue Möglichkeiten in Ihren Anwendungen!
 

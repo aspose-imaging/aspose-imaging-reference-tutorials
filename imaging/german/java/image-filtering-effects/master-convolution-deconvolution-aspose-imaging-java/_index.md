@@ -195,7 +195,7 @@ A: Die Bibliothek ist robust, kann aber bei extrem großen Bildern oder komplexe
 - **Kaufen**: [Aspose Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Beginnen Sie mit einer kostenlosen Testversion](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Hier anfordern](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum**: [Fragen stellen](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum**: [Fragen stellen](https://forum.aspose.com/c/imaging/14)
 
 Wenn Sie dieser Anleitung folgen, sind Sie auf dem besten Weg, die leistungsstarken Bildverarbeitungsfunktionen von Aspose.Imaging für Java zu beherrschen. Viel Spaß beim Programmieren!
 

@@ -153,7 +153,7 @@ AdobeDeflate 압축을 사용하여 이미지를 TIFF로 변환하는 것이 유
 - [구입](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 다음 리소스를 탐색하여 Aspose.Imaging for Java에 대한 이해를 높이고 최대한 활용하세요. 즐거운 코딩 되세요!
 

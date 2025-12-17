@@ -199,7 +199,7 @@ Explore the Graphics class in the API documentation, which offers methods to dra
 - **Purchase**: [Buy Aspose Licensing](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Aspose.Imaging Free](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Request Here](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Explore these resources to deepen your understanding and extend the capabilities of Aspose.Imaging Java in your projects. Happy coding!
 

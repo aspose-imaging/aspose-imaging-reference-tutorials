@@ -158,7 +158,7 @@ In dieser Anleitung haben Sie gelernt, wie Sie mit Aspose.Imaging für .NET Wass
 - [Erwerben Sie eine Lizenz](https://purchase.aspose.com/buy)
 - [Kostenloser Testdownload](https://releases.aspose.com/imaging/net/)
 - [Erwerb einer temporären Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Mithilfe dieser Ressourcen können Sie die Aspose.Imaging-Bibliothek für .NET weiter erkunden und beherrschen. Viel Spaß beim Programmieren!
 

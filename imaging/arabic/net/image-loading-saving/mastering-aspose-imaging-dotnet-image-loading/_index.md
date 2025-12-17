@@ -150,7 +150,7 @@ using (var tempImage = Aspose.Imaging.Image.Load(dataDir + "/Image1.png"))
 ج: يمكنك البدء بفترة تجريبية مجانية أو ترخيص مؤقت لتقييم ميزاته قبل اتخاذ قرار الشراء.
 
 **س: كيف يمكنني استكشاف الأخطاء وإصلاحها فيما يتعلق بالمشكلات الشائعة المتعلقة بتحميل الصور في Aspose.Imaging؟**
-أ: التحقق من مسارات الملفات، والتحقق من إصدارات المكتبة، واستشارة [منتدى الدعم](https://forum.aspose.com/c/imaging/10) للحصول على المساعدة.
+أ: التحقق من مسارات الملفات، والتحقق من إصدارات المكتبة، واستشارة [منتدى الدعم](https://forum.aspose.com/c/imaging/14) للحصول على المساعدة.
 
 ## موارد
 - **التوثيق**: [مرجع Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -158,7 +158,7 @@ using (var tempImage = Aspose.Imaging.Image.Load(dataDir + "/Image1.png"))
 - **معلومات الشراء والترخيص**: [صفحة شراء Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [ابدأ تجربتك المجانية](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

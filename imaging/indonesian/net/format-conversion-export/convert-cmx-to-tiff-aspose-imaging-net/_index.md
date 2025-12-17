@@ -182,7 +182,7 @@ Siap untuk mempraktikkan keterampilan ini? Pelajari lebih dalam kemampuan Aspose
 4. **Apa yang harus saya lakukan jika file TIFF saya tampak rusak setelah dikonversi?**
    - Verifikasi bahwa opsi rasterisasi sesuai dengan persyaratan gambar Anda dan periksa jalur file untuk menemukan kesalahan.
 5. **Apakah ada dukungan yang tersedia jika saya mengalami masalah dengan Aspose.Imaging?**
-   - Ya, kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/10) untuk dukungan komunitas atau hubungi tim dukungan mereka secara langsung.
+   - Ya, kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/14) untuk dukungan komunitas atau hubungi tim dukungan mereka secara langsung.
 
 ## Sumber daya
 - [Dokumentasi Aspose.Imaging](https://reference.aspose.com/imaging/net/)

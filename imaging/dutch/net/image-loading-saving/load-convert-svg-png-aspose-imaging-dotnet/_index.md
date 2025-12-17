@@ -157,7 +157,7 @@ Probeer deze oplossing vandaag nog uit in uw projecten en ontdek hoe het de verw
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefversie downloaden](https://releases.aspose.com/imaging/net/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Ontdek deze bronnen om je begrip te verdiepen en Aspose.Imaging voor .NET te benutten in je ontwikkelprojecten. Veel plezier met coderen!
 

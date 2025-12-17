@@ -149,7 +149,7 @@ Pronto para testar suas novas habilidades? Implemente esta solução no seu pró
 - Comprar: [Compre uma licença](https://purchase.aspose.com/buy)
 - Teste gratuito: [Experimente o Aspose.Imaging para .NET](https://releases.aspose.com/imaging/net/)
 - Licença temporária: [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- Apoiar: [Fóruns Aspose](https://forum.aspose.com/c/imaging/10)
+- Apoiar: [Fóruns Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

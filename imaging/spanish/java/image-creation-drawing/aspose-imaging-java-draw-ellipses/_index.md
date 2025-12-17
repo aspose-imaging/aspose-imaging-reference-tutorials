@@ -206,7 +206,7 @@ Siguiendo esta guía, has aprendido a dibujar elipses con contornos punteados y 
 - **Compra**: https://purchase.aspose.com/buy
 - **Prueba gratuita**: https://releases.aspose.com/imaging/java/
 - **Licencia temporal**: https://purchase.aspose.com/licencia-temporal/
-- **Apoyo**: https://forum.aspose.com/c/imaging/10
+- **Apoyo**: https://forum.aspose.com/c/imaging/14
 
 Esperamos que este tutorial te haya sido útil. ¡Que disfrutes programando!
 

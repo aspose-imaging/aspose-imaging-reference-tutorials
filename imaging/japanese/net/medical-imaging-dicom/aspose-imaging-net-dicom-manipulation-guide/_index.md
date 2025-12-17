@@ -126,7 +126,7 @@ A: 操作は失敗するため、更新を試みる前にタグが存在する�
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imagingを無料でお試しください](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**ご質問は、 [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**ご質問は、 [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 この包括的なガイドを読めば、DICOM画像操作プロジェクトでAspose.Imaging for .NETを活用する準備が整います。コーディングを楽しみましょう！
 

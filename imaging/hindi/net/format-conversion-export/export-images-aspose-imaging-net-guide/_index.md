@@ -207,7 +207,7 @@ A3: हाँ, Aspose.Imaging प्रारूप-विशिष्ट वि
 A4: बिल्कुल! आप .NET में समानांतर प्रोग्रामिंग तकनीकों का उपयोग करके कई फ़ाइलों को कुशलतापूर्वक संसाधित कर सकते हैं।
 
 **प्रश्न 5: मैं Aspose.Imaging के साथ सामान्य समस्याओं का निवारण कैसे कर सकता हूं?**
-A5: जाँच करें [सहयता मंच](https://forum.aspose.com/c/imaging/10) आम समस्याओं के समाधान के लिए और व्यापक परामर्श के लिए [प्रलेखन](https://reference.aspose.com/imaging/net/) दिशा - निर्देश के लिए।
+A5: जाँच करें [सहयता मंच](https://forum.aspose.com/c/imaging/14) आम समस्याओं के समाधान के लिए और व्यापक परामर्श के लिए [प्रलेखन](https://reference.aspose.com/imaging/net/) दिशा - निर्देश के लिए।
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

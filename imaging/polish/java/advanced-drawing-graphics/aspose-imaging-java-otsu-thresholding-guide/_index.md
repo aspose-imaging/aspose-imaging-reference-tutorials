@@ -187,7 +187,7 @@ Ten fragment kodu zapisuje binarny obraz w formacie JPEG, co zapewnia jego efekt
 
 Opanowałeś już podstawy korzystania z Aspose.Imaging for Java do ładowania, przetwarzania i zapisywania obrazów za pomocą technik binaryzacji. Eksperymentuj dalej, eksplorując inne funkcje oferowane przez bibliotekę, takie jak zaawansowane filtrowanie lub konwersja formatu.
 
-Następne kroki obejmują integrację tej funkcjonalności z projektami i eksperymentowanie z różnymi typami obrazów i scenariuszami przetwarzania. Nie wahaj się skontaktować się z nami za pośrednictwem [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10) na wszelkie pytania, które możesz mieć!
+Następne kroki obejmują integrację tej funkcjonalności z projektami i eksperymentowanie z różnymi typami obrazów i scenariuszami przetwarzania. Nie wahaj się skontaktować się z nami za pośrednictwem [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14) na wszelkie pytania, które możesz mieć!
 
 ## Sekcja FAQ
 

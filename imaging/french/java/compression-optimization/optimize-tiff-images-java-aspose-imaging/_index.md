@@ -191,7 +191,7 @@ Vous savez maintenant comment charger et redimensionner efficacement des images 
    - Oui, il prend en charge de nombreux formats d'image tels que JPEG, PNG, BMP, etc.
 
 5. **Où puis-je trouver de l’aide si je rencontre des problèmes ?**
-   - Visitez le [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) pour le soutien communautaire et officiel.
+   - Visitez le [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) pour le soutien communautaire et officiel.
 
 ## Ressources
 

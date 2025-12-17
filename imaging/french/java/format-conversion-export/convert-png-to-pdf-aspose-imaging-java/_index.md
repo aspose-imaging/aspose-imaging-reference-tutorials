@@ -194,7 +194,7 @@ En suivant ce guide, vous avez appris à charger un fichier PNG, à définir les
 - [Achat](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 Lancez-vous dans votre prochain projet en toute confiance, sachant qu'Aspose.Imaging pour Java est là pour vous !
 

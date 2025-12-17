@@ -168,7 +168,7 @@ Bereit, tiefer einzutauchen? Implementieren Sie diese Lösungen noch heute in Ih
 - [Kaufen](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/net/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Erkunden Sie diese Ressourcen, um Ihr Verständnis und Ihre Anwendung von Aspose.Imaging .NET für die Verarbeitung von DjVu-Dateien zu verbessern. Viel Spaß beim Programmieren!
 

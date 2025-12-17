@@ -170,7 +170,7 @@ Pronto para levar seu processamento de imagens para o próximo nível? Experimen
 - **Licença de compra:** [Comprar agora](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Comece seu teste](https://releases.aspose.com/imaging/java/)
 - **Licença temporária:** [Obtenha aqui](https://purchase.aspose.com/temporary-license/)
-- **Fórum de suporte:** [Fazer perguntas](https://forum.aspose.com/c/imaging/10)
+- **Fórum de suporte:** [Fazer perguntas](https://forum.aspose.com/c/imaging/14)
 
 Seguindo este guia, você estará bem equipado para lidar com tarefas de processamento de imagens com facilidade usando o Aspose.Imaging para Java. Boa programação!
 

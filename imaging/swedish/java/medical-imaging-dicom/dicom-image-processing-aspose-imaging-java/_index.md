@@ -237,7 +237,7 @@ A5: Det finns gratis provperioder, men för att få full funktionalitet krävs d
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Få en gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Begär en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden kommer du att vara väl rustad att utnyttja Aspose.Imaging för Java i dina DICOM-bearbetningsuppgifter. Lycka till med kodningen!
 

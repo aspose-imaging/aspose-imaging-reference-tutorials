@@ -189,7 +189,7 @@ Yeni becerilerinizi eyleme geçirmeye hazır mısınız? Bu çözümleri bugün 
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Erişimi](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans Başvurusu](https://purchase.aspose.com/temporary-license/)
-- [Topluluk Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Topluluk Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Aspose.Imaging .NET kullanarak karmaşık görüntü dönüşümlerini idare edebilecek donanıma sahip olacaksınız. İyi kodlamalar!
 

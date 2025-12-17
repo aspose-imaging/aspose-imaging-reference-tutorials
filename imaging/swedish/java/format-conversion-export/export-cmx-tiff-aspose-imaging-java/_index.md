@@ -236,7 +236,7 @@ A: Även om det är effektivt kan bearbetning av ett stort antal högupplösta b
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Starta en gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden är du nu rustad att hantera vektor-CMX-filer och exportera dem som TIFF-bilder med Aspose.Imaging för Java. Lycka till med kodningen!
 

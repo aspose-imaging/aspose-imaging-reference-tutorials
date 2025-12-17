@@ -191,7 +191,7 @@ Aspose.Imaging for .NET을 사용하여 애니메이션 그래픽을 만드는 �
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/net/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따라 하면 이제 Aspose.Imaging을 사용하여 .NET 애플리케이션에서 역동적인 애니메이션 그래픽을 제작할 수 있습니다. 이러한 기술을 프로젝트에 통합하여 탐구하고 혁신해 보세요!
 

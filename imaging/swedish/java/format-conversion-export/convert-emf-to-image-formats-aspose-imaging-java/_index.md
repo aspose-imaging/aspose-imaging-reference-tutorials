@@ -255,7 +255,7 @@ A5: Besök [sida för tillfällig licens](https://purchase.aspose.com/temporary-
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Skaffa en gratis provperiod av Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Ansök om en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Genom att utnyttja dessa resurser kan du utöka dina kunskaper och dina förmågor med Aspose.Imaging för Java. Lycka till med kodningen!
 

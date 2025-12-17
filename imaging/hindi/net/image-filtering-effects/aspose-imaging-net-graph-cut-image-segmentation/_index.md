@@ -178,7 +178,7 @@ Aspose.Imaging का उपयोग करते समय इष्टतम 
 - **प्रलेखन**: यहां विस्तृत मार्गदर्शिका देखें [Aspose इमेजिंग .NET संदर्भ](https://reference.aspose.com/imaging/net/).
 - **डाउनलोड करना**: नवीनतम रिलीज तक पहुंचें [एस्पोज रिलीज](https://releases.aspose.com/imaging/net/).
 - **खरीदें और निःशुल्क परीक्षण करें**: आधिकारिक के माध्यम से आज़माने या खरीदने पर विचार करें [Aspose खरीद पृष्ठ](https://purchase.aspose.com/buy) और [निःशुल्क परीक्षण](https://releases.aspose.com/imaging/net/).
-- **सहायता**किसी भी प्रश्न के लिए, यहां जाएं [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10).
+- **सहायता**किसी भी प्रश्न के लिए, यहां जाएं [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

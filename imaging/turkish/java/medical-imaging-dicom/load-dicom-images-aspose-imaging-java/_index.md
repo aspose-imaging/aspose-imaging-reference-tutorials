@@ -160,7 +160,7 @@ Görüntüleri daha küçük parçalar halinde işleyerek ve Java'nın çöp top
 Aspose.Imaging öncelikli olarak DICOM'a odaklansa da çok çeşitli diğer görüntü formatlarını da destekler.
 
 **5. Aspose.Imaging ile ilgili sorunlarla karşılaşırsam nereden yardım alabilirim?**
-Ziyaret edin [Aspose forumları](https://forum.aspose.com/c/imaging/10) Destek almak ve diğer kullanıcılar ve uzmanlarla bağlantı kurmak için.
+Ziyaret edin [Aspose forumları](https://forum.aspose.com/c/imaging/14) Destek almak ve diğer kullanıcılar ve uzmanlarla bağlantı kurmak için.
 
 ## Kaynaklar
 

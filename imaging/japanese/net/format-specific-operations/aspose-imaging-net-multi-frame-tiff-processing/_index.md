@@ -167,7 +167,7 @@ Aspose.Imaging for .NET を使った TIFF フレームの読み込みと保存�
 - **購入**： [Aspose.Imagingのライセンスを購入する](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルから始める](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose Imagingフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose Imagingフォーラム](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

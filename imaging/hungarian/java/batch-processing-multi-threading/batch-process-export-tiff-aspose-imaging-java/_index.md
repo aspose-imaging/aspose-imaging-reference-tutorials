@@ -163,7 +163,7 @@ V: Bár az Aspose.Imaging önmagában nem biztosít beépített többszálú fel
 V: Az ingyenes próbaverzió teljes funkcionalitást biztosít, de vízjeleket ad a képekhez és korlátozza a használati időt. Fontolja meg egy ideiglenes vagy megvásárolt licenc beszerzését a megszakítás nélküli hozzáférés érdekében.
 
 **5. kérdés: Hogyan oldhatom meg a képfeldolgozással kapcsolatos gyakori problémákat?**
-A: Győződjön meg arról, hogy a fájlelérési utak helyesek, ellenőrizze, hogy rendelkezik-e elegendő rendszererőforrással, és tekintse meg a következőt: [támogatási fórum](https://forum.aspose.com/c/imaging/10) ha szükséges.
+A: Győződjön meg arról, hogy a fájlelérési utak helyesek, ellenőrizze, hogy rendelkezik-e elegendő rendszererőforrással, és tekintse meg a következőt: [támogatási fórum](https://forum.aspose.com/c/imaging/14) ha szükséges.
 
 ## Erőforrás
 
@@ -172,7 +172,7 @@ A: Győződjön meg arról, hogy a fájlelérési utak helyesek, ellenőrizze, h
 - **Vásárlás**: Szerezzen be licencet a következőn keresztül: [Az Aspose vásárlási oldala](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: Kezdje el felfedezni a funkciókat a [ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: Ideiglenes engedély igénylése a következőn keresztül: [Az Aspose ideiglenes licencoldala](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**Bármilyen kérdés esetén látogassa meg a [támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**Bármilyen kérdés esetén látogassa meg a [támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezzel az átfogó útmutatóval készen állsz arra, hogy fejleszd képfeldolgozási képességeidet az Aspose.Imaging for Java segítségével!
 

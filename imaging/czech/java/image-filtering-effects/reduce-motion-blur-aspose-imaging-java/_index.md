@@ -237,7 +237,7 @@ Pro další informace a podporu se podívejte na následující zdroje:
 - **Dokumentace:** [Dokumentace k Aspose.Imaging pro Javu](https://reference.aspose.com/imaging/java/)
 - **Stáhnout:** [Aspose.Imaging pro verze Javy](https://releases.aspose.com/imaging/java/)
 - **Nákup a bezplatná zkušební verze:** [Kupte si nebo vyzkoušejte Aspose.Imaging pro Javu](https://purchase.aspose.com/buy)
-- **Fórum podpory:** [Komunita podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory:** [Komunita podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Tato komplexní příručka by vám měla poskytnout znalosti, jak efektivně omezit rozmazání pohybem ve vašich obrázcích pomocí Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

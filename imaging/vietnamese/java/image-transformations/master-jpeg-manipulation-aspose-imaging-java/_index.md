@@ -198,7 +198,7 @@ Sẵn sàng chưa? Áp dụng những kỹ thuật này vào dự án tiếp the
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Hãy thử Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Với hướng dẫn toàn diện này, giờ đây bạn đã sẵn sàng để thành thạo thao tác chỉnh sửa hình ảnh bằng Aspose.Imaging trong Java. Chúc bạn viết mã vui vẻ!
 

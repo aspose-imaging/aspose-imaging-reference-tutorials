@@ -149,7 +149,7 @@ Vous avez appris à convertir un fichier SVG au format SVGZ compressé avec Aspo
 - [Licence d'achat](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/net/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 Lancez-vous dans votre voyage avec Aspose.Imaging pour .NET et explorez dès aujourd'hui le potentiel des graphiques vectoriels optimisés !
 

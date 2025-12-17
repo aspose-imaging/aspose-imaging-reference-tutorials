@@ -138,7 +138,7 @@ image.Save(Path.Combine(dataDir, "output_image.bmp"), new BmpOptions());
 - **شراء**: [شراء ترخيص](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [ابدأ تجربة مجانية](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [التقدم بطلب للحصول على ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 استمتع بالبرمجة السعيدة، وعزز صور DICOM الخاصة بك باستخدام Aspose.Imaging!
 

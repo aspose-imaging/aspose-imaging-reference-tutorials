@@ -171,7 +171,7 @@ public class SaveImageExample {
 
 **後續步驟：**
 - 探索 Aspose.Imaging 的其他功能，如影像轉換和過濾。
-- 加入 [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/10) 分享見解或尋求其他開發人員的建議。
+- 加入 [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/14) 分享見解或尋求其他開發人員的建議。
 
 準備好將您的 Java 專案提升到新的水平了嗎？立即開始實施這些解決方案！
 
@@ -199,7 +199,7 @@ public class SaveImageExample {
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用版下載](https://releases.aspose.com/imaging/java/)
 - [申請臨時許可證](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 立即開始整合 Aspose.Imaging for Java 並簡化您的影像處理工作流程！
 

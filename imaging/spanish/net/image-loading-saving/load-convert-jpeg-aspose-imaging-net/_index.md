@@ -159,7 +159,7 @@ Siguiendo este tutorial, ha aprendido a gestionar eficazmente los perfiles de co
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/net/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Explora estos recursos para obtener información más detallada y soporte. ¡Que disfrutes programando!
 

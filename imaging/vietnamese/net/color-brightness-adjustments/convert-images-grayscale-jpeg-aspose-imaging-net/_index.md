@@ -155,7 +155,7 @@ Bạn đã sẵn sàng để tìm hiểu sâu hơn chưa? Hãy thử áp dụng 
    Có, bạn có thể sử dụng nó trong bất kỳ bối cảnh sản xuất nào sau khi mua giấy phép.
 
 5. **Có hỗ trợ nào để khắc phục sự cố liên quan đến Aspose.Imaging không?**
-   Có, bạn có thể tìm kiếm sự giúp đỡ từ [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10).
+   Có, bạn có thể tìm kiếm sự giúp đỡ từ [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Tài nguyên
 - **Tài liệu:** https://reference.aspose.com/imaging/net/
@@ -163,7 +163,7 @@ Bạn đã sẵn sàng để tìm hiểu sâu hơn chưa? Hãy thử áp dụng 
 - **Mua:** https://purchase.aspose.com/mua
 - **Dùng thử miễn phí:** https://releases.aspose.com/imaging/net/
 - **Giấy phép tạm thời:** https://purchase.aspose.com/giấy-phép-tạm-thời/
-- **Ủng hộ:** https://forum.aspose.com/c/imaging/10
+- **Ủng hộ:** https://forum.aspose.com/c/imaging/14
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -173,7 +173,7 @@ Sekarang, Anda seharusnya sudah memiliki pemahaman yang kuat tentang cara menggu
 - **Pembelian:** Pertimbangkan untuk membeli lisensi jika Anda merasa Aspose.Imaging bermanfaat.
 - **Uji Coba Gratis:** Mulailah dengan uji coba gratis untuk mengevaluasi fitur.
 - **Lisensi Sementara:** Dapatkan lisensi sementara untuk evaluasi lanjutan.
-- **Mendukung:** Bergabunglah dengan komunitas di [Forum Aspose](https://forum.aspose.com/c/imaging/10) untuk bantuan. 
+- **Mendukung:** Bergabunglah dengan komunitas di [Forum Aspose](https://forum.aspose.com/c/imaging/14) untuk bantuan. 
 
 Dengan mengikuti tutorial ini, Anda akan diperlengkapi dengan baik untuk meningkatkan kemampuan pemrosesan gambar Anda menggunakan Aspose.Imaging Java.
 

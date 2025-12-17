@@ -177,7 +177,7 @@ Jste připraveni začít s implementací? Ponořte se s důvěrou do světa zpra
 - **Nákup:** https://purchase.aspose.com/buy
 - **Bezplatná zkušební verze:** https://releases.aspose.com/imaging/java/
 - **Dočasná licence:** https://purchase.aspose.com/temporary-license/
-- **Podpora:** https://forum.aspose.com/c/imaging/10
+- **Podpora:** https://forum.aspose.com/c/imaging/14
 
 Začněte experimentovat s Aspose.Imaging pro Javu ještě dnes a odemkněte nové možnosti ve zpracování obrazu!
 

@@ -175,7 +175,7 @@ Through this tutorial, you've learned the essentials of loading and saving image
 - **Purchase:** [Buy a License](https://purchase.aspose.com/buy)
 - **Free Trial:** [Start Your Free Trial](https://releases.aspose.com/imaging/net/)
 - **Temporary License:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 By following this guide, you're now equipped to handle .NET image processing with confidence using Aspose.Imaging for .NET. Happy coding!
 

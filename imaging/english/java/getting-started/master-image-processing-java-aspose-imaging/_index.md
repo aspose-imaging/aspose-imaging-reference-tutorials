@@ -177,7 +177,7 @@ Ready to take your image processing to the next level? Try implementing this sol
 - **Purchase License:** [Buy Now](https://purchase.aspose.com/buy)
 - **Free Trial:** [Start Your Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Obtain Here](https://purchase.aspose.com/temporary-license/)
-- **Support Forum:** [Ask Questions](https://forum.aspose.com/c/imaging/10)
+- **Support Forum:** [Ask Questions](https://forum.aspose.com/c/imaging/14)
 
 By following this guide, you'll be well-equipped to handle image processing tasks with ease using Aspose.Imaging for Java. Happy coding!
 

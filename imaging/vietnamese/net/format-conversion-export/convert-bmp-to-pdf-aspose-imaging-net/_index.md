@@ -128,7 +128,7 @@ A1: Có, bạn có thể xử lý hàng loạt hình ảnh bằng cách lặp qu
 A2: Có phiên bản dùng thử, nhưng để sử dụng thương mại, cần phải có giấy phép. Truy cập [Mua](https://purchase.aspose.com/buy) để biết thêm chi tiết.
 
 **Câu hỏi 3: Làm thế nào để khắc phục lỗi chuyển đổi?**
-A3: Kiểm tra đường dẫn tệp và đảm bảo Aspose.Imaging được cài đặt đúng cách. Tham khảo [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10) nếu vấn đề vẫn tiếp diễn.
+A3: Kiểm tra đường dẫn tệp và đảm bảo Aspose.Imaging được cài đặt đúng cách. Tham khảo [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14) nếu vấn đề vẫn tiếp diễn.
 
 **Câu hỏi 4: Tôi có thể sửa đổi thuộc tính của tài liệu PDF trong quá trình chuyển đổi không?**
 A4: Có, bạn có thể thiết lập nhiều thuộc tính thông tin tài liệu như tiêu đề, tác giả hoặc từ khóa bằng cách sử dụng `PdfDocumentInfo`.
@@ -142,7 +142,7 @@ A5: Các thư viện khác bao gồm ImageMagick và Ghostscript, mặc dù chú
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Chúng tôi hy vọng hướng dẫn này hữu ích. Bây giờ, tại sao không thử chuyển đổi tệp BMP của bạn sang PDF bằng Aspose.Imaging cho .NET?
 

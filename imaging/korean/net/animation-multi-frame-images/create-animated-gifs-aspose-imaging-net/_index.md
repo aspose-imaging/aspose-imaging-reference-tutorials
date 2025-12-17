@@ -153,7 +153,7 @@ GIF를 만들 때 성능을 최적화하는 것이 중요합니다.
 - **구입**: [Aspose 라이선스 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging 무료 체험판](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이러한 리소스를 활용하여 오늘부터 역동적인 GIF를 만들어 보세요!
 

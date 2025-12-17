@@ -191,7 +191,7 @@ for (int i = 0; i < colorTypes.length; ++i) {
 - **شراء:** [شراء ترخيص Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [تجارب مجانية لـ Aspose Imaging](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة:** [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا البرنامج التعليمي، ستكتسب المعرفة اللازمة لتحميل وحفظ ملفات JPEG بكفاءة باستخدام Aspose.Imaging لجافا. برمجة ممتعة!
 

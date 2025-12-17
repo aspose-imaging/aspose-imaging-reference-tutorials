@@ -194,7 +194,7 @@ A5: Απολύτως! Εφαρμόστε βρόχους ή τεχνικές πα
 - **Αγορά**: https://purchase.aspose.com/buy
 - **Δωρεάν δοκιμή**: https://releases.aspose.com/imaging/java/
 - **Προσωρινή Άδεια**: https://purchase.aspose.com/temporary-license/
-- **Υποστήριξη**: https://forum.aspose.com/c/imaging/10
+- **Υποστήριξη**: https://forum.aspose.com/c/imaging/14
 
 Εξερευνήστε αυτούς τους πόρους για να εμβαθύνετε την κατανόηση και την εξειδίκευσή σας στο Aspose.Imaging για Java. Καλή κωδικοποίηση!
 

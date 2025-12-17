@@ -195,7 +195,7 @@ Nästa steg inkluderar att integrera dessa lösningar i större projekt eller ut
 - **Köpa:** [Köp licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Prova gratis](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens:** [Hämta här](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Gemenskapsforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Gemenskapsforum](https://forum.aspose.com/c/imaging/14)
 
 Vi hoppas att den här guiden ger dig möjlighet att hantera bildmetadata med tillförsikt med Aspose.Imaging för .NET. Lycka till med kodningen!
 

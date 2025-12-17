@@ -148,7 +148,7 @@ image.crop(new Rectangle(92, 179, 260, 197));
    - مجموعة تطوير Java (JDK) وبيئة تطوير متكاملة متوافقة.
 
 5. **هل هناك دعم متاح لاستكشاف المشكلات وإصلاحها؟**
-   - يزور [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10) للحصول على المساعدة.
+   - يزور [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14) للحصول على المساعدة.
 
 ## موارد
 

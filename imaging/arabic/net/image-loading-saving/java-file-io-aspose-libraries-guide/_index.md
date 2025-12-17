@@ -156,7 +156,7 @@ writer.write("This is a sample output.\n");
 - [شراء الترخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/net/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 بإتقان هذه المفاهيم، ستكون على الطريق الصحيح لإنشاء تطبيقات جافا فعّالة تُدير عمليات إدخال/إخراج الملفات بكفاءة. برمجة ممتعة!
 

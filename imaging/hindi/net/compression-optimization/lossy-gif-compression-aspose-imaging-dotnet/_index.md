@@ -145,7 +145,7 @@ Aspose.Imaging स्वचालित छवि प्रसंस्करण
 - **खरीदना**: [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [कोशिश करके देखो](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [प्रश्न पूछें](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [प्रश्न पूछें](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

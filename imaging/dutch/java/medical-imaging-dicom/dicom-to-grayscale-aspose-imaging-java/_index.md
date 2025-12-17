@@ -154,7 +154,7 @@ Voor meer informatie en ondersteuning:
 - **Aankoop**: [Koop Aspose-producten](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Gratis proberen](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Hier aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Aspose Community Support](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Aspose Community Support](https://forum.aspose.com/c/imaging/14)
 
 Ga op reis met Aspose.Imaging Java en ontdek de enorme mogelijkheden van beeldverwerking in Java!
 

@@ -205,7 +205,7 @@ In deze tutorial hebben we onderzocht hoe je automatische beeldmaskering kunt im
 - Experimenteer met verschillende configuraties van de maskeropties.
 - Ontdek andere functies die Aspose.Imaging biedt voor extra beeldverwerkingsmogelijkheden.
 
-Voor verdere vragen of ondersteuning kunt u terecht op de [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10).
+Voor verdere vragen of ondersteuning kunt u terecht op de [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ-sectie
 
@@ -231,7 +231,7 @@ A: Met de gratis proefperiode kunt u alle functionaliteiten uitproberen, maar er
 - **Aankoop**: [Koop Aspose-licentieopties](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Begin met een gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Begin vandaag nog met het beheersen van automatische beeldmaskering met Aspose.Imaging en Java!
 

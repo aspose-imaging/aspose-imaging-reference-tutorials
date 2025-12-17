@@ -197,7 +197,7 @@ I den här handledningen har vi utforskat hur man använder Aspose.Imaging för 
    - Absolut! Den stöder ett brett utbud av bildformat utöver CDR och PSD.
 
 5. **Hur kan jag felsöka problem med att ladda eller spara bilder?**
-   - Kontrollera [Aspose Supportforum](https://forum.aspose.com/c/imaging/10) för vanliga lösningar och se till att din biblioteksversion är uppdaterad.
+   - Kontrollera [Aspose Supportforum](https://forum.aspose.com/c/imaging/14) för vanliga lösningar och se till att din biblioteksversion är uppdaterad.
 
 ## Resurser
 
@@ -206,7 +206,7 @@ I den här handledningen har vi utforskat hur man använder Aspose.Imaging för 
 - **Köpa:** [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Få en gratis licens](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Begär en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden bör du vara väl rustad för att hantera CDR-bildinläsning och konverteringsuppgifter i dina Java-applikationer med Aspose.Imaging. Lycka till med kodningen!
 

@@ -193,7 +193,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **ซื้อ:** ซื้อใบอนุญาตผ่านทาง [พอร์ทัลการซื้อ Aspose](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี:** เข้าถึงใบอนุญาตชั่วคราวผ่านทาง [ทดลองใช้ Aspose ฟรี](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว:** รับหนึ่งที่ [ใบอนุญาตชั่วคราว Aspose](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน:** เข้าร่วมชุมชนและรับความช่วยเหลือเกี่ยวกับ [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน:** เข้าร่วมชุมชนและรับความช่วยเหลือเกี่ยวกับ [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14)
 
 หากทำตามคำแนะนำนี้ คุณจะผสาน Aspose.Imaging เข้ากับโปรเจ็กต์ Java ของคุณได้อย่างมีประสิทธิภาพ เพื่อจัดการการโหลดและการหมุนภาพได้อย่างง่ายดาย ขอให้สนุกกับการเขียนโค้ด!
 

@@ -129,7 +129,7 @@ image.Save(outputPath, options);
 ### 다음 단계
 - 품질 수준을 조정하는 등 다양한 내보내기 옵션을 실험해 보세요.
 - 대규모 프로젝트나 워크플로에 Aspose.Imaging을 통합하는 방법을 살펴보세요.
-- 커뮤니티와 교류하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10) 지원과 아이디어를 얻으세요.
+- 커뮤니티와 교류하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/14) 지원과 아이디어를 얻으세요.
 
 ## FAQ 섹션
 
@@ -154,7 +154,7 @@ Aspose.Imaging은 메모리 사용을 효율적으로 관리하지만, 성능을
 - **구입:** [라이센스 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [여기서 시작하세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허:** [요청 하나](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼:** [Aspose 지원](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼:** [Aspose 지원](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging .NET을 사용하여 자신 있게 이미지 처리 여정을 시작하고 디지털 이미징의 무한한 가능성을 탐험해 보세요.
 

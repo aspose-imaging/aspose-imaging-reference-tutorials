@@ -180,7 +180,7 @@ Készen állsz arra, hogy továbbfejleszd a képességeidet? Próbáld ki ezeket
 - [Vásárlás](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezt az átfogó útmutatót követve most már képes leszel hatékonyan kezelni a DICOM képfeldolgozási feladatokat az Aspose.Imaging for Java használatával.
 

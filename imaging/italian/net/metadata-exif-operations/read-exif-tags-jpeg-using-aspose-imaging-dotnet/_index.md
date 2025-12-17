@@ -145,7 +145,7 @@ A5: Elaborare le immagini in parallelo ove possibile e garantire la corretta eli
 - **Acquista una licenza**: [Acquista Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Provalo](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea**: [Richiedi qui](https://purchase.aspose.com/temporary-license/)
-- **Forum di supporto**: [Fai domande](https://forum.aspose.com/c/imaging/10)
+- **Forum di supporto**: [Fai domande](https://forum.aspose.com/c/imaging/14)
 
 Intraprendi oggi stesso il tuo viaggio con Aspose.Imaging per .NET e inizia a sfruttare la potenza dei metadati delle immagini!
 

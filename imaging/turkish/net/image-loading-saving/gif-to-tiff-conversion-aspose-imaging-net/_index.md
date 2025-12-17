@@ -177,7 +177,7 @@ C: TIFF daha yüksek kalite sağlar ve daha fazla renk derinliğini destekler, p
 - **Lisans Satın Alın**: [Aspose Satın Alma Sayfası](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'i Ücretsiz Deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- **Destek ve Topluluk**: [Aspose Forumları](https://forum.aspose.com/c/imaging/10)
+- **Destek ve Topluluk**: [Aspose Forumları](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

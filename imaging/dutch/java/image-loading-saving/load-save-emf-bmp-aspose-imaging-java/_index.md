@@ -160,7 +160,7 @@ A: Gebruik try-catch-blokken om uitzonderingen te beheren die kunnen ontstaan do
 A: Ja, Aspose biedt naast Java ook bibliotheken voor .NET, C++ en andere platforms.
 
 **V: Is er ondersteuning beschikbaar als ik problemen ondervind?**
-A: Bezoek de [Aspose-forum](https://forum.aspose.com/c/imaging/10) voor steun van de gemeenschap en de overheid.
+A: Bezoek de [Aspose-forum](https://forum.aspose.com/c/imaging/14) voor steun van de gemeenschap en de overheid.
 
 **V: Wat zijn enkele best practices voor beeldverwerking met Aspose.Imaging?**
 A: Test altijd met verschillende bestandsgrootten, ga zorgvuldig om met uitzonderingen en beheer bronnen effectief om geheugenlekken te voorkomen.
@@ -172,7 +172,7 @@ A: Test altijd met verschillende bestandsgrootten, ga zorgvuldig om met uitzonde
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Gratis proefperiode starten](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Door deze tutorial te volgen, bent u in staat om efficiënt met EMF-bestanden om te gaan en de krachtige functies van Aspose.Imaging in uw Java-projecten te benutten. Veel plezier met coderen!
 

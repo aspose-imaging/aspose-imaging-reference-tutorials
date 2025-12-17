@@ -166,7 +166,7 @@ Utforska ytterligare inställningar inom `PdfOptions` för att justera egenskape
 - **Köpa**: [Köp Aspose-licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Begär tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Börja din resa med Aspose.Imaging idag och omvandla dina bildbehandlingsuppgifter till effektiva arbetsflöden.
 

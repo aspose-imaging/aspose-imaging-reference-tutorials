@@ -171,7 +171,7 @@ objImage.Save(outputDir);
 - **رخصة الشراء:** [اشتري الآن](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [احصل على نسختك التجريبية المجانية](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة:** [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم:** [دعم Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم:** [دعم Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

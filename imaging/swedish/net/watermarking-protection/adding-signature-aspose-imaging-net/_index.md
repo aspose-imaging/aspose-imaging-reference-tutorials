@@ -161,7 +161,7 @@ För att fortsätta utforska, överväg att experimentera med andra funktioner s
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Med dessa resurser är du väl rustad att utforska vidare och utnyttja Aspose.Imagings fulla potential för dina bildbehandlingsbehov. Lycka till med kodningen!
 

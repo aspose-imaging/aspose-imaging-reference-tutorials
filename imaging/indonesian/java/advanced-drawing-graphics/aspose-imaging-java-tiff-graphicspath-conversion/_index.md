@@ -244,7 +244,7 @@ Anda kini telah menguasai cara mengonversi path resources TIFF menjadi objek `Gr
 - **Pembelian:** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
 - **Percobaan Gratis:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 ---
 

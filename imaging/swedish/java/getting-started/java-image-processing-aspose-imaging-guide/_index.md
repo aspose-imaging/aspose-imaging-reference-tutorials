@@ -204,7 +204,7 @@ A4: Den stöder olika format, inklusive TIFF, JPEG, PNG med flera. Se dokumentat
 
 **F5: Hur kan jag få hjälp om jag stöter på problem?**
 
-A5: Besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/10) för hjälp från samhällsexperter.
+A5: Besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/14) för hjälp från samhällsexperter.
 
 ## Resurser
 
@@ -213,7 +213,7 @@ A5: Besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/10) för hj�
 - **Köpa**: https://purchase.aspose.com/buy
 - **Gratis provperiod**: https://releases.aspose.com/imaging/java/
 - **Tillfällig licens**https://purchase.aspose.com/temporary-license/
-- **Stöd**: https://forum.aspose.com/c/imaging/10
+- **Stöd**: https://forum.aspose.com/c/imaging/14
 
 Genom att utnyttja dessa resurser kan du fördjupa din förståelse och förbättra din användning av Aspose.Imaging i Java. Lycka till med kodningen!
 

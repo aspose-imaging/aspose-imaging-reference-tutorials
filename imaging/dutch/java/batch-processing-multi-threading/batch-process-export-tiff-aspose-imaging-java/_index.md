@@ -163,7 +163,7 @@ A: Hoewel Aspose.Imaging zelf geen ingebouwde multithreading biedt, kunt u paral
 A: De gratis proefperiode biedt volledige functionaliteit, maar voegt watermerken toe aan afbeeldingen en beperkt de gebruiksduur. Overweeg een tijdelijke of gekochte licentie aan te schaffen voor ononderbroken toegang.
 
 **V5: Hoe los ik veelvoorkomende problemen met beeldverwerking op?**
-A: Zorg ervoor dat uw bestandspaden correct zijn, controleer of u voldoende systeembronnen hebt en raadpleeg de [ondersteuningsforum](https://forum.aspose.com/c/imaging/10) indien nodig.
+A: Zorg ervoor dat uw bestandspaden correct zijn, controleer of u voldoende systeembronnen hebt en raadpleeg de [ondersteuningsforum](https://forum.aspose.com/c/imaging/14) indien nodig.
 
 ## Bronnen
 
@@ -172,7 +172,7 @@ A: Zorg ervoor dat uw bestandspaden correct zijn, controleer of u voldoende syst
 - **Aankoop**: Verkrijg een licentie via [De aankooppagina van Aspose](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: Begin met het verkennen van functies met de [gratis proefversie](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: Vraag een tijdelijke licentie aan via [Tijdelijke licentiepagina van Aspose](https://purchase.aspose.com/temporary-license/)
-- **Steun**: Voor vragen kunt u terecht op de [ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: Voor vragen kunt u terecht op de [ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Met deze uitgebreide handleiding bent u klaar om uw beeldverwerkingsmogelijkheden te verbeteren met Aspose.Imaging voor Java!
 

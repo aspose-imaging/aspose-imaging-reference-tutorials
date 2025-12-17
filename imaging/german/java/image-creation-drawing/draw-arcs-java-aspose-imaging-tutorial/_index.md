@@ -182,7 +182,7 @@ In diesem Tutorial haben wir gezeigt, wie man mit Aspose.Imaging für Java Böge
 - [Erwerben Sie eine Lizenz](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Informationen zur temporären Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Tauchen Sie ein in diese Ressourcen, um detailliertere Informationen und Unterstützung zu erhalten. Viel Spaß beim Programmieren!
 

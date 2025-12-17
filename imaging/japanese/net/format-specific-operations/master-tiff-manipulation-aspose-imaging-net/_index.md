@@ -168,7 +168,7 @@ Aspose.Imaging のその他の機能をご覧いただくか、これらの機�
 - [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - [Aspose.Imagingの無料トライアル](https://releases.aspose.com/imaging/net/)
 - [評価用一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このチュートリアルでは、Aspose.Imaging .NET を使って TIFF 画像を効率的に操作するためのツールを紹介しました。これらのテクニックをプロジェクトに実装し、この強力なライブラリがもたらすさらなる可能性を探求してみてください。
 

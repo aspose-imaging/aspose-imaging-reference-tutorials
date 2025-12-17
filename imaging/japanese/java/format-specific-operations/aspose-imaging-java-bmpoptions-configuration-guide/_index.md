@@ -191,7 +191,7 @@ Aspose.Imaging を使用する際のパフォーマンスを最適化するに�
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースがあれば、マスターする準備は万端です `BmpOptions` JavaプロジェクトでAspose.Imagingの潜在能力を最大限に引き出しましょう。コーディングを楽しみましょう！
 

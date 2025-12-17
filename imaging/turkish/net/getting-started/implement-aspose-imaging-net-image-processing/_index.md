@@ -126,7 +126,7 @@ Evet, ancak öncelikle Aspose.Imaging'in dönüştürme işlevleri kullanılarak
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose.Görüntüleme Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose.Görüntüleme Destek Forumu](https://forum.aspose.com/c/imaging/14)
 Bu kılavuzu takip ederek, Aspose.Imaging kullanarak .NET uygulamalarınızda verimli görüntü işlemeyi uygulamaya doğru iyi bir yoldasınız. İyi kodlamalar!
 
 {{< /blocks/products/pf/tutorial-page-section >}}

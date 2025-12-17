@@ -162,7 +162,7 @@ Aspose.Imaging を使いこなすには、高度な編集機能やフォーマ�
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料お試し](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [Aspose コミュニティ サポート](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [Aspose コミュニティ サポート](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET を使用して画像処理の旅に乗り出し、グラフィックス処理の無限の可能性を探求しましょう。
 

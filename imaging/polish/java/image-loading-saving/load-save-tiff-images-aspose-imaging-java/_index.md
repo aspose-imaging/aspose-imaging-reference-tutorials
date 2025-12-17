@@ -171,7 +171,7 @@ W tym samouczku przyjrzeliśmy się, jak skutecznie ładować i zapisywać obraz
 - **Zakup**: [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Rozpocznij bezpłatny okres próbny](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**: [Poproś o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ten samouczek wyposaży Cię w wiedzę, aby skutecznie wdrożyć przetwarzanie obrazu TIFF w Twoich aplikacjach Java. Miłego kodowania!
 

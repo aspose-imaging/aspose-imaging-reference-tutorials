@@ -191,7 +191,7 @@ Ora hai imparato come caricare e ridimensionare in modo efficiente le immagini T
    - Sì, supporta numerosi formati immagine come JPEG, PNG, BMP e altri.
 
 5. **Dove posso trovare supporto se riscontro problemi?**
-   - Visita il [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) per il supporto della comunità e delle autorità.
+   - Visita il [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) per il supporto della comunità e delle autorità.
 
 ## Risorse
 

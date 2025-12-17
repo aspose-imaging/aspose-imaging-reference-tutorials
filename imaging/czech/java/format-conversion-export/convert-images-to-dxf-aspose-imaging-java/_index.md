@@ -184,7 +184,7 @@ V tomto tutoriálu jsme prozkoumali, jak pomocí Aspose.Imaging pro Javu převé
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Začněte implementovat tato řešení ještě dnes a vylepšete své možnosti zpracování obrazu s Aspose.Imaging pro Javu!
 

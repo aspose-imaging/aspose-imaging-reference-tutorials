@@ -153,7 +153,7 @@ Bây giờ bạn đã biết cách tải hình ảnh AVIF bằng Aspose.Imaging 
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Tải xuống dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Đơn xin cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

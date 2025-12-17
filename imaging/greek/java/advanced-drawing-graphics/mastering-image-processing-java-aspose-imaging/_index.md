@@ -171,7 +171,7 @@ try (Image image = Image.load(dataDir)) {
 - **Αγορά:** [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Δοκιμάστε το Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, είστε πλέον πλήρως προετοιμασμένοι για να αντιμετωπίσετε εργασίες επεξεργασίας εικόνας χρησιμοποιώντας το Aspose.Imaging για Java. Καλή κωδικοποίηση!
 

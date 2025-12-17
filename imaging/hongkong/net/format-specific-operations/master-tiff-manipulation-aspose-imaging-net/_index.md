@@ -168,7 +168,7 @@ using (TiffImage image1 = (TiffImage)Image.Load(dataDir + "/sample.tif"))
 - [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - [Aspose.Imaging 免費試用](https://releases.aspose.com/imaging/net/)
 - [臨時評估許可證](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 本教學為您提供了使用 Aspose.Imaging .NET 高效處理 TIFF 影像的工具。立即在您的專案中運用這些技術，探索這個強大庫提供的更多可能性！
 

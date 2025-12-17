@@ -225,7 +225,7 @@ Aspose.Imaging 的设计注重效率，但适当的资源管理可以提高性�
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/java/)
 - [临时执照申请](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 有了这份全面的指南，您现在就可以利用 Aspose.Imaging Java 在项目中进行高效的图像处理了。祝您编程愉快！
 

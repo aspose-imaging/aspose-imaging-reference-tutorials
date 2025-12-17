@@ -148,7 +148,7 @@ Använd buffrade strömmar och säkerställ korrekt hantering av resurser för a
 - **Köpa:** [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Börja med en gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens:** [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose Forum Support](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose Forum Support](https://forum.aspose.com/c/imaging/14)
 
 Den här guiden är utformad för att hjälpa dig att utnyttja Aspose.Imagings fulla potential för dina .NET-projekt. Lycka till med kodningen!
 

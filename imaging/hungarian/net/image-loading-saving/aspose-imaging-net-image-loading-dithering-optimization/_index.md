@@ -159,7 +159,7 @@ Készen áll a kezdésre? Merüljön el a megoldások megvalósításában, és 
 - **Vásárlás:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Próbálja ki az Aspose.Imaging-et ingyen](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély:** [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose.Imaging támogatói fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose.Imaging támogatói fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

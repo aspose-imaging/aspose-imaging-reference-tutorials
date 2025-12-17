@@ -161,7 +161,7 @@ Aspose.Imaging 开箱即用地支持多种常见格式，您还可以通过自�
 - **购买**： [获取许可证](https://purchase.aspose.com/buy)
 - **免费试用**： [免费试用 Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **临时执照**： [在此请求](https://purchase.aspose.com/temporary-license/)
-- **支持论坛**： [Aspose 支持社区](https://forum.aspose.com/c/imaging/10)
+- **支持论坛**： [Aspose 支持社区](https://forum.aspose.com/c/imaging/14)
 
 遵循这份全面的指南，您将能够自信高效地处理 .NET 应用程序中的图像处理任务。祝您编码愉快！
 

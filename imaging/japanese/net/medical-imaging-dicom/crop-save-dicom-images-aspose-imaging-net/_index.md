@@ -184,7 +184,7 @@ Aspose.Imaging for .NET を使って、DICOM 画像をシフト値で切り抜�
 - **ライセンスを購入:** [Aspose製品を購入する](https://purchase.aspose.com/buy)
 - **無料トライアル:** [Aspose.Imaging 無料トライアル](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス:** [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム:** [Aspose サポートコミュニティ](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム:** [Aspose サポートコミュニティ](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

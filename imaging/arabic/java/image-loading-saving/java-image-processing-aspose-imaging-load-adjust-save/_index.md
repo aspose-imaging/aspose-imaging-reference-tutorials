@@ -215,7 +215,7 @@ rasterImage.save(outputDir, tiffOptions);
 - **شراء**: [شراء منتجات Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [ابدأ هنا](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 ابدأ رحلتك في معالجة الصور باستخدام Java مع Aspose.Imaging واكتشف إمكانيات جديدة في معالجة الصور الرقمية!
 

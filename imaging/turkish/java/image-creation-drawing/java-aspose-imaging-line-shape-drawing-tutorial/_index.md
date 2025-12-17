@@ -241,7 +241,7 @@ Java'da çizgiler, şekiller ve desenler çizmek için Aspose.Imaging kitaplığ
 - [Satın Alma Seçenekleri](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Artık Aspose.Imaging for Java ile çizim özelliklerini uygulamak için kapsamlı bir kılavuza sahip olduğunuza göre, bu teknikleri denemeye ve projelerinize entegre etmeye başlayın. İyi kodlamalar!
 

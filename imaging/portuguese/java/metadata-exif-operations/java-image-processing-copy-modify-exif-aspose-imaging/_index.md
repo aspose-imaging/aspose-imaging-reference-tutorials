@@ -198,7 +198,7 @@ Experimente diferentes campos EXIF e explore os recursos mais avançados ofereci
    - Com certeza, ele foi projetado para lidar com requisitos de alto desempenho de forma eficaz.
 
 5. **Como posso contribuir com a comunidade ou buscar ajuda para resolver problemas?**
-   - Junte-se a [Fórum Aspose](https://forum.aspose.com/c/imaging/10) para fazer perguntas e compartilhar ideias.
+   - Junte-se a [Fórum Aspose](https://forum.aspose.com/c/imaging/14) para fazer perguntas e compartilhar ideias.
 
 ## Recursos
 

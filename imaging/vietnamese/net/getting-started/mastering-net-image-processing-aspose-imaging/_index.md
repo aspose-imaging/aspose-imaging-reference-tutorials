@@ -133,7 +133,7 @@ A: Aspose.Imaging hỗ trợ các hoạt động hàng loạt thông qua các v�
 - **Mua**: [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Hãy thử ngay](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Nhận giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Đặt câu hỏi ở đây](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Đặt câu hỏi ở đây](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu sử dụng Aspose.Imaging ngay hôm nay để nâng cao các ứng dụng .NET của bạn với khả năng xử lý hình ảnh mạnh mẽ!
 

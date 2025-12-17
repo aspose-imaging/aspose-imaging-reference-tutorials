@@ -181,7 +181,7 @@ Ja, Aspose.Imaging biedt uitgebreide hulpmiddelen voor het bewerken van afbeeldi
 Pas de resolutie- en kwaliteitsinstellingen aan met de configuratieopties van Aspose.Imaging om de integriteit van het beeld te behouden.
 
 **5. Is er ondersteuning beschikbaar als ik problemen ondervind met Aspose.Imaging?**
-Ja, u kunt hulp zoeken op [Aspose's forums](https://forum.aspose.com/c/imaging/10) voor steun van de gemeenschap of van de overheid.
+Ja, u kunt hulp zoeken op [Aspose's forums](https://forum.aspose.com/c/imaging/14) voor steun van de gemeenschap of van de overheid.
 
 ## Bronnen
 

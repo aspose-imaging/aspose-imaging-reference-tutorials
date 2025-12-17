@@ -231,7 +231,7 @@ tomto tutoriálu jste se naučili, jak nastavit výchozí písmo ve vaší aplik
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu budete dobře vybaveni pro zvládání složitých úloh zpracování obrazu v Javě pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 

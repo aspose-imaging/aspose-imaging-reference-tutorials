@@ -158,7 +158,7 @@ Här är några vanliga frågor du kan ha:
 - [Köpa](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Den här omfattande guiden bör ge dig kunskapen för att effektivt använda Aspose.Imaging för .NET i dina projekt. Lycka till med kodningen!
 

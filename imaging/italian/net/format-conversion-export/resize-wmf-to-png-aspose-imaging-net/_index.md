@@ -162,7 +162,7 @@ Sì, crea uno script di questi passaggi ed eseguili su più file utilizzando le 
 - **Acquistare**: [Acquista Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Prova gratis](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea**: [Ottieni la licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Forum di supporto**: [Supporto alla comunità Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum di supporto**: [Supporto alla comunità Aspose](https://forum.aspose.com/c/imaging/14)
 
 Intraprendi il tuo viaggio nell'elaborazione delle immagini con Aspose.Imaging per .NET ed esplora infinite possibilità nella gestione della grafica.
 

@@ -163,7 +163,7 @@ R: Embora o Aspose.Imaging em si não forneça multithreading integrado, você p
 R: O teste gratuito permite a funcionalidade completa, mas adiciona marcas d'água às imagens e limita o tempo de uso. Considere obter uma licença temporária ou comprada para acesso ininterrupto.
 
 **P5: Como soluciono problemas comuns com processamento de imagens?**
-R: Certifique-se de que os caminhos dos seus arquivos estejam corretos, verifique se você tem recursos de sistema suficientes e consulte o [fórum de suporte](https://forum.aspose.com/c/imaging/10) se necessário.
+R: Certifique-se de que os caminhos dos seus arquivos estejam corretos, verifique se você tem recursos de sistema suficientes e consulte o [fórum de suporte](https://forum.aspose.com/c/imaging/14) se necessário.
 
 ## Recursos
 
@@ -172,7 +172,7 @@ R: Certifique-se de que os caminhos dos seus arquivos estejam corretos, verifiqu
 - **Comprar**: Adquira uma licença através de [Página de compras da Aspose](https://purchase.aspose.com/buy)
 - **Teste grátis**: Comece a explorar os recursos com o [versão de teste gratuita](https://releases.aspose.com/imaging/java/)
 - **Licença Temporária**: Solicite uma licença temporária através de [Página de licença temporária da Aspose](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**:Para qualquer dúvida, visite o [fórum de suporte](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**:Para qualquer dúvida, visite o [fórum de suporte](https://forum.aspose.com/c/imaging/14)
 
 Com este guia abrangente, você está pronto para aprimorar seus recursos de processamento de imagens usando o Aspose.Imaging para Java!
 

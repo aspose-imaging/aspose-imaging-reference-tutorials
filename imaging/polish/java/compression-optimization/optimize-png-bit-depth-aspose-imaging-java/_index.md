@@ -173,7 +173,7 @@ Teraz powinieneś mieć solidne zrozumienie, jak używać Aspose.Imaging for Jav
 - **Zakup:** Jeśli uważasz, że Aspose.Imaging jest dla Ciebie przydatny, rozważ zakup licencji.
 - **Bezpłatna wersja próbna:** Zacznij od bezpłatnego okresu próbnego, aby ocenić funkcje.
 - **Licencja tymczasowa:** Uzyskaj tymczasową licencję na rozszerzoną ocenę.
-- **Wsparcie:** Dołącz do społeczności na [Fora Aspose](https://forum.aspose.com/c/imaging/10) po pomoc. 
+- **Wsparcie:** Dołącz do społeczności na [Fora Aspose](https://forum.aspose.com/c/imaging/14) po pomoc. 
 
 Po zapoznaniu się z tym samouczkiem będziesz w stanie udoskonalić swoje możliwości przetwarzania obrazów przy użyciu Aspose.Imaging Java.
 

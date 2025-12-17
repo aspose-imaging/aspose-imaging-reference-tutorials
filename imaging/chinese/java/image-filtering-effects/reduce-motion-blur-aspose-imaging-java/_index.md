@@ -237,7 +237,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **文档：** [Aspose.Imaging for Java 文档](https://reference.aspose.com/imaging/java/)
 - **下载：** [Aspose.Imaging for Java 版本](https://releases.aspose.com/imaging/java/)
 - **购买和免费试用：** [购买或试用 Aspose.Imaging for Java](https://purchase.aspose.com/buy)
-- **支持论坛：** [Aspose 支持社区](https://forum.aspose.com/c/imaging/10)
+- **支持论坛：** [Aspose 支持社区](https://forum.aspose.com/c/imaging/14)
 
 本指南内容全面，将帮助您掌握使用 Aspose.Imaging for Java 有效减少图像运动模糊的知识。祝您编程愉快！
 

@@ -162,7 +162,7 @@ A5: Procesar imágenes secuencialmente y administrar la memoria de manera eficie
 - **Compra:** [Comprar ahora](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Empieza aquí](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** [Obtenga una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** [Foro de la comunidad](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** [Foro de la comunidad](https://forum.aspose.com/c/imaging/14)
 
 Al aprovechar estos recursos, podrá mejorar aún más su comprensión y aplicación de Aspose.Imaging para Java. ¡Que disfrute programando!
 

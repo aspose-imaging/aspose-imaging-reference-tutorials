@@ -193,7 +193,7 @@ try {
 - **购买许可证：** [立即购买完整许可证](https://purchase.aspose.com/buy)
 - **免费试用：** [从免费试用开始](https://releases.aspose.com/imaging/java/)
 - **临时执照：** [申请临时执照](https://purchase.aspose.com/temporary-license/)
-- **支持论坛：** [获取社区帮助](https://forum.aspose.com/c/imaging/10)
+- **支持论坛：** [获取社区帮助](https://forum.aspose.com/c/imaging/14)
 
 遵循本指南，您将能够使用 Aspose.Imaging 将强大的图像处理功能集成到您的 Java 应用程序中。祝您编码愉快！
 

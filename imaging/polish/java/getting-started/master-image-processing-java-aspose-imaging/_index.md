@@ -170,7 +170,7 @@ Gotowy, aby przenieść przetwarzanie obrazu na wyższy poziom? Spróbuj wdroży
 - **Kup licencję:** [Kup teraz](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Rozpocznij okres próbny](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa:** [Uzyskaj tutaj](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia:** [Zadaj pytania](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia:** [Zadaj pytania](https://forum.aspose.com/c/imaging/14)
 
 Postępując zgodnie z tym przewodnikiem, będziesz dobrze wyposażony do obsługi zadań przetwarzania obrazu z łatwością przy użyciu Aspose.Imaging dla Java. Miłego kodowania!
 

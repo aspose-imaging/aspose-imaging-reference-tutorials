@@ -256,7 +256,7 @@ Vous avez appris à enregistrer des images JPEG avec les profils CMJN et YCCK et
 - **Achat:** [Licences Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Commencer](https://releases.aspose.com/imaging/java/)
 - **Licence temporaire :** [Demander un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce guide, vous pourrez utiliser efficacement Aspose.Imaging Java pour gérer et convertir des images JPEG dans vos projets. Essayez-le dès aujourd'hui !
 

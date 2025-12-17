@@ -165,7 +165,7 @@ A5 : Oui, Aspose.Imaging prend en charge une large gamme de formats, notamment 
 - **Acheter une licence**: Visite [Page d'achat d'Aspose](https://purchase.aspose.com/buy) pour les options de licence.
 - **Essai gratuit**: Testez les fonctionnalités en téléchargeant depuis [Communiqués](https://releases.aspose.com/imaging/net/).
 - **Permis temporaire**: Demandez un permis temporaire à [Licences Aspose](https://purchase.aspose.com/temporary-license/).
-- **Soutien et communauté**:Rejoignez les discussions ou demandez de l'aide sur le [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Soutien et communauté**:Rejoignez les discussions ou demandez de l'aide sur le [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

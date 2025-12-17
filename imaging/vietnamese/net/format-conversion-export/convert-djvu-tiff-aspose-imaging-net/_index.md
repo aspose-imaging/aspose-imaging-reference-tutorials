@@ -213,7 +213,7 @@ A: Có, nó hỗ trợ nhiều định dạng khác nhau bao gồm JPEG, PNG, BM
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Tải xuống dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Yêu cầu cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn này nhằm mục đích cung cấp cho bạn kiến thức và công cụ cần thiết để chuyển đổi hình ảnh DjVu hiệu quả bằng Aspose.Imaging cho .NET. Chúc bạn viết mã vui vẻ!
 

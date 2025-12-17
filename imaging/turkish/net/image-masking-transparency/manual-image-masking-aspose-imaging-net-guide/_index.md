@@ -169,7 +169,7 @@ Aspose.Imaging'in yeteneklerini keşfetmeye devam etmek için, belgelerini daha 
 4. **Görüntüleri maskelerken karşılaşılan yaygın sorunlar nelerdir?**
    - Yaygın sorunlar arasında yanlış yol tanımları, işlenmeyen istisnalar veya büyük görüntü boyutlarından kaynaklanan performans darboğazları yer alır.
 5. **Başka sorularım olursa nereden destek alabilirim?**
-   - Ziyaret edin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10) Topluluk uzmanlarından ve Aspose çalışanlarından yardım isteyin.
+   - Ziyaret edin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14) Topluluk uzmanlarından ve Aspose çalışanlarından yardım isteyin.
 
 ## Kaynaklar
 - **Belgeleme**: [Aspose.Imaging .NET Belgeleri](https://reference.aspose.com/imaging/net/)

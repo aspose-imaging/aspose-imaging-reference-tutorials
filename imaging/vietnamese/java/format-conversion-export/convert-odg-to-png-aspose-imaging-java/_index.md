@@ -189,7 +189,7 @@ Trong hướng dẫn này, bạn đã học cách chuyển đổi hiệu quả c
 - **Mua:** [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Hãy thử Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ:** [Cộng đồng hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** [Cộng đồng hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn này được thiết kế để giúp bạn tích hợp Aspose.Imaging vào các dự án Java của mình một cách liền mạch, đảm bảo chuyển đổi hình ảnh chất lượng cao mọi lúc. Chúc bạn viết mã vui vẻ!
 

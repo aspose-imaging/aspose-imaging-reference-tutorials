@@ -187,7 +187,7 @@ Redo att omsätta dina färdigheter i praktiken? Försök att implementera den h
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din bildbehandlingsresa med självförtroende genom att utnyttja Aspose.Imaging för Java och Lanczos kraftfulla resampling-metod!
 

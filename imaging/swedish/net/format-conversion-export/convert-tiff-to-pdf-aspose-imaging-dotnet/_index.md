@@ -165,7 +165,7 @@ A5: Även om de är robusta kan vissa avancerade funktioner kräva en betald lic
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose-forum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose-forum](https://forum.aspose.com/c/imaging/14)
 
 Den här guiden ger dig all information som behövs för att börja konvertera TIFF-bilder till PDF-filer med Aspose.Imaging för .NET, vilket stärker dina dokumenthanteringslösningar.
 

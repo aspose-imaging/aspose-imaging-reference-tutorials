@@ -159,7 +159,7 @@ Bạn đã sẵn sàng thử chưa? Hãy tải xuống và thử nghiệm giải
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy thoải mái khám phá các tài nguyên này để biết thêm thông tin chuyên sâu và hỗ trợ. Chúc bạn viết mã vui vẻ!
 

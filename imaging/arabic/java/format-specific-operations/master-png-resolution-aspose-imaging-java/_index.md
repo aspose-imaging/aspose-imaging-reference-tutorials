@@ -191,7 +191,7 @@ try (PngImage png = new PngImage(width, height)) {
 - **تحميل**:يمكن العثور على أحدث إصدارات المكتبة على [إصدارات Aspose](https://releases.aspose.com/imaging/java/)
 - **شراء**:احصل على ترخيص كامل من [شراء Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية وترخيص مؤقت**:ابدأ بالتجارب في [تجارب أسبوزي](https://releases.aspose.com/imaging/java/) والحصول على تراخيص مؤقتة للتقييم.
-- **يدعم**:لأي مشاكل أو أسئلة، قم بزيارة [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10) 
+- **يدعم**:لأي مشاكل أو أسئلة، قم بزيارة [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14) 
 
 الآن بعد أن أصبح لديك فهم قوي لكيفية استخدام Aspose.Imaging Java لمهام معالجة الصور، فلا تتردد في استكشاف المزيد من الميزات المتقدمة وتحسين تطبيقاتك بشكل أكبر!
 

@@ -180,7 +180,7 @@ image.Save(outputPath, pngOptions);
 
 **问题5：** 如果我遇到 Aspose.Imaging 问题，我应该在哪里获得支持？
 
-**答案5：** 访问 [Aspose.Imaging 支持论坛](https://forum.aspose.com/c/imaging/10) 寻求社区专家和开发人员的帮助。
+**答案5：** 访问 [Aspose.Imaging 支持论坛](https://forum.aspose.com/c/imaging/14) 寻求社区专家和开发人员的帮助。
 
 ## 资源
 - **文档：** [Aspose.Imaging .NET文档](https://reference.aspose.com/imaging/net/)
@@ -188,7 +188,7 @@ image.Save(outputPath, pngOptions);
 - **购买：** [购买 Aspose.Imaging 许可证](https://purchase.aspose.com/buy)
 - **免费试用：** [Aspose.Imaging 免费试用](https://releases.aspose.com/imaging/net/)
 - **临时执照：** [获取临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

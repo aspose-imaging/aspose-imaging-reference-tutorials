@@ -148,7 +148,7 @@ Utilice transmisiones almacenadas en búfer y garantice la eliminación adecuada
 - **Compra:** [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Comience con una prueba gratuita](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal:** [Obtenga una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** [Soporte del foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** [Soporte del foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Esta guía está diseñada para ayudarte a aprovechar al máximo el potencial de Aspose.Imaging en tus proyectos .NET. ¡Que disfrutes programando!
 

@@ -150,7 +150,7 @@ Gotowy, aby odkryć więcej? Spróbuj wdrożyć rozwiązanie w scenariuszu z pra
 - **Zakup:** [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Zacznij od bezpłatnego okresu próbnego](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa:** [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia:** [Wsparcie Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia:** [Wsparcie Aspose](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij swoją przygodę z obrazowaniem z Aspose.Imaging już dziś i odkryj nowe możliwości w dziedzinie cyfrowej obróbki obrazu!
 

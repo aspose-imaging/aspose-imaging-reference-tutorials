@@ -184,7 +184,7 @@ A5: Kiểm tra lại mã của bạn để tìm lỗi cú pháp và đảm bảo
 - **Mua**: Có được giấy phép tại [Trang web mua hàng Aspose](https://purchase.aspose.com/buy).
 - **Dùng thử miễn phí**: Bắt đầu với bản dùng thử miễn phí qua [Thử nghiệm Aspose](https://releases.aspose.com/imaging/java/).
 - **Giấy phép tạm thời**: Xin giấy phép tạm thời từ [Cấp phép Aspose](https://purchase.aspose.com/temporary-license/).
-- **Ủng hộ**: Tìm kiếm sự giúp đỡ trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10).
+- **Ủng hộ**: Tìm kiếm sự giúp đỡ trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14).
 
 Bằng cách làm theo hướng dẫn này, giờ đây bạn đã có thể tự tin xử lý việc xoay hình ảnh DICOM trong Java. Chúc bạn viết mã vui vẻ!
 

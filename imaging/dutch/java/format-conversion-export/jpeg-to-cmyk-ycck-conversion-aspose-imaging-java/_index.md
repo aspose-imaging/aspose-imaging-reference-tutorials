@@ -192,7 +192,7 @@ A: Controleer uw systeembronnen en optimaliseer het geheugengebruik. Overweeg he
 - **Downloaden:** Download de nieuwste versie van [Aspose.Imaging-releases](https://releases.aspose.com/imaging/java/).
 - **Aankoop:** Verkrijg een volledige licentie bij [Aspose Aankooppagina](https://purchase.aspose.com/buy).
 - **Gratis proefversie en tijdelijke licentie:** Ervaar de functies zonder beperkingen door een gratis proefversie of tijdelijke licentie aan te vragen via de betreffende links.
-- **Steun:** Voor verdere hulp kunt u terecht op de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10).
+- **Steun:** Voor verdere hulp kunt u terecht op de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -163,7 +163,7 @@ Pronti a portare il vostro sviluppo Java a un livello superiore? Provate a imple
 - [Acquista una licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita e licenza temporanea](https://releases.aspose.com/imaging/java/)
 
-Per ulteriori domande, visitare il [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)Buona programmazione!
+Per ulteriori domande, visitare il [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)Buona programmazione!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -218,7 +218,7 @@ try (MaskingResult maskingResults = new ImageMasking(image).decompose(maskingOpt
 - [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμαστική πρόσβαση](https://releases.aspose.com/imaging/java/)
 - [Αίτηση για Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -167,7 +167,7 @@ Pro další čtení a zdroje:
 - **Nákup:** [Získání licence](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Vyzkoušejte před nákupem](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Žádost zde](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory:** [Zeptejte se komunity](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory:** [Zeptejte se komunity](https://forum.aspose.com/c/imaging/14)
 
 Nyní, když máte potřebné znalosti, můžete začít implementovat tyto techniky ve svých projektech v Javě!
 

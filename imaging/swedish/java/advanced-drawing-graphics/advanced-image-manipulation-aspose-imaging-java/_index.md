@@ -257,7 +257,7 @@ A5: Se till att utdataformatet stöder transparens (t.ex. PNG). Felaktiga instä
 - **Köpa**: [Aspose köpsida](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Testa Aspose.Imaging gratis](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Begär tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**: [Aspose Support Community](https://forum.aspose.com/c/imaging/10)
+- **Supportforum**: [Aspose Support Community](https://forum.aspose.com/c/imaging/14)
 
 Lycka till med kodningen!
 

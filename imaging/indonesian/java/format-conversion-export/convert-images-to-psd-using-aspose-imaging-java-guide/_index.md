@@ -258,7 +258,7 @@ A5: Gunakan blok try-catch untuk mengelola potensi pengecualian seperti file tid
 - **Pembelian**: [Beli Aspose Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Minta di sini](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

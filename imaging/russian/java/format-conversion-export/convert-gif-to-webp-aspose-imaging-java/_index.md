@@ -225,7 +225,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **Покупка**: [Купить Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Бесплатные пробные версии Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия**: [Получить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: [Форум Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: [Форум Aspose](https://forum.aspose.com/c/imaging/14)
 
 С этим всеобъемлющим руководством вы будете хорошо подготовлены к оптимизации изображений с помощью Aspose.Imaging для Java и улучшению ваших приложений или веб-сайтов. Удачного кодирования!
 

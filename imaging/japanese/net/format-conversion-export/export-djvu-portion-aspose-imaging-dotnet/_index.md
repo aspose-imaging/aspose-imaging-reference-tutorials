@@ -138,7 +138,7 @@ A: まずは無料トライアルをご利用いただくか、一時ライセ�
 - **ライセンスを購入:** [今すぐ購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [始める](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス:** [リクエストはこちら](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム:** [Aspose.Imaging コミュニティ](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム:** [Aspose.Imaging コミュニティ](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

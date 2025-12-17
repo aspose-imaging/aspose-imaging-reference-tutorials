@@ -156,7 +156,7 @@ A5: I když je to velmi všestranné, vždy si to zkontrolujte [dokumentace](htt
 - **Nákup**Zakupte si licenci pro odemknutí všech funkcí na [Nákup Aspose](https://purchase.aspose.com/buy).
 - **Bezplatná zkušební verze**Vyzkoušejte si Aspose.Imaging bez omezení stažením [Bezplatná zkušební verze](https://releases.aspose.com/imaging/net/).
 - **Dočasná licence**Získejte dočasnou licenci pro rozšířené hodnocení od [Dočasné licence](https://purchase.aspose.com/temporary-license/).
-- **Podpora**Obraťte se na komunitu nebo vyhledejte pomoc na [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10).
+- **Podpora**Obraťte se na komunitu nebo vyhledejte pomoc na [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

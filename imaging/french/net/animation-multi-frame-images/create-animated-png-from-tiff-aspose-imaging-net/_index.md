@@ -170,7 +170,7 @@ R : Aspose.Imaging prend en charge de nombreux formats, notamment JPEG, PNG, GI
 : Oui, vous pouvez définir des durées d'image personnalisées à l'aide de `ApngOptions`.
 
 **Q : Comment résoudre les problèmes avec Aspose.Imaging ?**
-A : Consultez le forum d'assistance [ici](https://forum.aspose.com/c/imaging/10) pour obtenir de l'aide.
+A : Consultez le forum d'assistance [ici](https://forum.aspose.com/c/imaging/14) pour obtenir de l'aide.
 
 ## Ressources
 - **Documentation**: [Référence Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -178,7 +178,7 @@ A : Consultez le forum d'assistance [ici](https://forum.aspose.com/c/imaging/10)
 - **Achat**: [Acheter une licence](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencez gratuitement](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Postulez ici](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

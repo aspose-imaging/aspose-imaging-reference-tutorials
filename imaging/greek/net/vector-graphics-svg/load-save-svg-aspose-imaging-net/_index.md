@@ -190,7 +190,7 @@ image.Save(fs);
 - **Αγορά:** [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Δοκιμάστε το Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια:** [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ξεκινήστε το ταξίδι σας με το Aspose.Imaging σήμερα και ξεκλειδώστε νέες δυνατότητες στην επεξεργασία εικόνας για εφαρμογές .NET!
 

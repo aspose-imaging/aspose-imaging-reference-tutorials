@@ -252,7 +252,7 @@ Nyní ovládáte, jak převést zdroje cest TIFF do objektů `GraphicsPath` pomo
 - **Purchase:** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
 - **Free Trial:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Support Forum:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 ---
 

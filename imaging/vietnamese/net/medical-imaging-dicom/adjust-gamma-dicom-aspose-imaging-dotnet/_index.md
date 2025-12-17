@@ -138,7 +138,7 @@ Bạn đã học cách điều chỉnh gamma trong hình ảnh DICOM và lưu ch
 - **Mua**: [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Nộp đơn xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Chúc bạn viết mã vui vẻ và tận hưởng việc cải thiện hình ảnh DICOM của mình với Aspose.Imaging!
 

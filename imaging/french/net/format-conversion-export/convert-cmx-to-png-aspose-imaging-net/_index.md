@@ -151,7 +151,7 @@ Prêt à essayer ? Mettez en œuvre ces étapes dans votre projet et constatez l
 - **Achat**: [Acheter des produits Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencez un essai gratuit](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Demander un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

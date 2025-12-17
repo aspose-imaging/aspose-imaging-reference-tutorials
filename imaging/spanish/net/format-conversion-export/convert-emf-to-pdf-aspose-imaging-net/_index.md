@@ -166,7 +166,7 @@ Para una mayor exploración, considere profundizar en otras características de 
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/net/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo esta guía, ya está preparado para implementar la conversión de EMF a PDF en sus proyectos .NET con Aspose.Imaging. ¡Que disfrute programando!
 

@@ -133,7 +133,7 @@ Console.WriteLine("Last modified date from XMP metadata: " + modifyDateXmp);
 - **شراء**: [شراء الترخيص](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جرب الآن](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم**: [اطرح الأسئلة هنا](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم**: [اطرح الأسئلة هنا](https://forum.aspose.com/c/imaging/14)
 
 ابدأ باستخدام Aspose.Imaging اليوم لتعزيز تطبيقات .NET الخاصة بك بإمكانيات معالجة الصور القوية!
 

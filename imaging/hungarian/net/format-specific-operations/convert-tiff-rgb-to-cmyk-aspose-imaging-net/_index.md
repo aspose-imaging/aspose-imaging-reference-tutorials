@@ -140,7 +140,7 @@ Megtanultad, hogyan konvertálhatsz TIFF RGB képeket CMYK formátumba az Aspose
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével elsajátíthatod a kép színtér-konverzióját az Aspose.Imaging for .NET használatával. Jó kódolást!
 

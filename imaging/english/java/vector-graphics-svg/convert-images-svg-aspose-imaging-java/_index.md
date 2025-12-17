@@ -208,7 +208,7 @@ This tutorial has equipped you with the knowledge to load multiple image formats
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial Download](https://releases.aspose.com/imaging/java/)
 - [Temporary License Request](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) 
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) 
 
 By following this guide, you're well on your way to mastering image processing with Aspose.Imaging Java. Happy coding!
 

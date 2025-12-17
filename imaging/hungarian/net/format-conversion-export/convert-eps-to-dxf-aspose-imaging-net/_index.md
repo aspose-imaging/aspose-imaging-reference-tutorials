@@ -131,7 +131,7 @@ Készségeid további fejlesztéséhez érdemes lehet felfedezni az Aspose.Imagi
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Ingyenes próbaverzió indítása](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Kérelem itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Aspose támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Aspose támogatás](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

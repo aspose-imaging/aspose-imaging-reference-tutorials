@@ -149,7 +149,7 @@ Készen állsz, hogy próbára tedd új készségeidet? Alkalmazd ezt a megoldá
 - Vásárlás: [Licenc vásárlása](https://purchase.aspose.com/buy)
 - Ingyenes próbaverzió: [Próbáld ki az Aspose.Imaging .NET-et](https://releases.aspose.com/imaging/net/)
 - Ideiglenes jogosítvány: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- Támogatás: [Aspose Fórumok](https://forum.aspose.com/c/imaging/10)
+- Támogatás: [Aspose Fórumok](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

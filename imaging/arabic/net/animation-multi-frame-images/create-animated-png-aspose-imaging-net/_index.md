@@ -172,7 +172,7 @@ apngImage.Save();
 - **شراء**:للحصول على الترخيص الكامل، انتقل إلى [شراء Aspose](https://purchase.aspose.com/buy).
 - **نسخة تجريبية مجانية**:ابدأ بالتجربة في [تجارب مجانية لـ Aspose](https://releases.aspose.com/imaging/net/).
 - **رخصة مؤقتة**:الحصول على وصول مؤقت عبر [صفحة الترخيص](https://purchase.aspose.com/temporary-license/).
-- **يدعم**:انضم إلى المناقشات أو اطرح الأسئلة على [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10).
+- **يدعم**:انضم إلى المناقشات أو اطرح الأسئلة على [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14).
 
 ابدأ رحلتك لإنشاء رسوم متحركة جذابة باستخدام Aspose.Imaging لـ .NET، مما يعزز مهاراتك الفنية ونتائج مشروعك.
 

@@ -160,7 +160,7 @@ V5: Teljesen egyetértek. Robusztus funkciókészlete és teljesítményoptimali
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbálja ki ingyen](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose.Imaging támogatói fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose.Imaging támogatói fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezekkel az anyagokkal és ezzel az útmutatóval minden szükséges eszközzel elkezdhetsz dolgozni DICOM képekkel az Aspose.Imaging segítségével .NET-ben. Jó kódolást!
 

@@ -167,7 +167,7 @@ Készen áll a megvalósításra? Kezdje el a képek konvertálását még ma!
 - [Licencek vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezzel az átfogó útmutatóval felkészülhetsz arra, hogy elkezdhesd használni az Aspose.Imaging for .NET-et a projektjeidben. Jó kódolást!
 

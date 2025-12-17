@@ -257,7 +257,7 @@ A5: Ujistěte se, že výstupní formát podporuje průhlednost (např. PNG). Ne
 - **Nákup**: [Nákupní stránka Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte bezplatnou zkušební verzi Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Komunita podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Komunita podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Šťastné kódování!
 

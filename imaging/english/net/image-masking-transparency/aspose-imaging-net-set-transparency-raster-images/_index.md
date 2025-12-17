@@ -164,7 +164,7 @@ Implement logic in your application that dynamically sets `TransparentColor` bas
 - **Purchase License**: [Buy Aspose.Licensing](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Request Temporary Licensing](https://purchase.aspose.com/temporary-license/)
-- **Support Forum**: [Aspose Imaging Support](https://forum.aspose.com/c/imaging/10)
+- **Support Forum**: [Aspose Imaging Support](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -167,7 +167,7 @@ A5: Hoewel effectief, is het het meest geschikt voor afbeeldingen met opvallende
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Begin met een gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: Voor vragen kunt u terecht op de [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: Voor vragen kunt u terecht op de [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Ga op reis met Aspose.Imaging voor .NET en ontgrendel nieuwe mogelijkheden op het gebied van medische beeldvorming!
 

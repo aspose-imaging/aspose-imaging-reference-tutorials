@@ -188,7 +188,7 @@ Készen állsz arra, hogy továbbfejleszd a képességeidet? Alkalmazd ezeket a 
 - **Vásárlás**: [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Indítsa el az ingyenes próbaverziót](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Indulj el az Aspose.Imaging utadra még ma, és hozd ki a .NET képfeldolgozásának teljes potenciálját!
 

@@ -138,7 +138,7 @@ Aspose.Imaging의 추가 기능을 살펴보거나 다른 이미지 처리 기�
 2. **BMP 이외의 다른 형식으로 이미지를 변환할 수 있나요?**
    - 네, Aspose.Imaging은 JPEG, PNG 등 다양한 출력 형식을 지원합니다.
 3. **이미지 변환 중에 문제가 발생하면 어떻게 해결합니까?**
-   - 파일 경로를 확인하고 올바른 라이브러리 버전이 사용되었는지 확인하고 다음을 참조하세요. [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10).
+   - 파일 경로를 확인하고 올바른 라이브러리 버전이 사용되었는지 확인하고 다음을 참조하세요. [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14).
 4. **Aspose.Imaging은 실시간 애플리케이션에 적합합니까?**
    - 견고하면서도 실시간 처리 요구 사항에 대한 성능 최적화를 고려하세요.
 5. **DICOM 회색조 변환의 일반적인 사용 사례는 무엇입니까?**
@@ -150,7 +150,7 @@ Aspose.Imaging의 추가 기능을 살펴보거나 다른 이미지 처리 기�
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/net/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

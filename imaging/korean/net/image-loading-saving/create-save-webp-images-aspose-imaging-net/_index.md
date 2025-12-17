@@ -188,7 +188,7 @@ Aspose.Imaging .NET을 사용할 때 다음 팁을 고려하세요.
 - **구입**: [라이센스 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료 체험판을 시작하세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 지금 Aspose.Imaging과 함께 여정을 시작하고 .NET에서 이미지 처리의 모든 잠재력을 활용해보세요!
 

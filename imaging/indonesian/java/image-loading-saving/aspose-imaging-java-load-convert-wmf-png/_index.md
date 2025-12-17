@@ -202,7 +202,7 @@ Siap menerapkan solusi ini? Terjunlah ke dunia pemrosesan gambar tingkat lanjut 
    - Gunakan pengaturan rasterisasi yang tepat dan pantau sumber daya sistem selama pemrosesan batch.
 
 5. **Bagaimana cara mendapatkan dukungan jika saya mengalami masalah?**
-   - Kunjungi [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) untuk dukungan komunitas atau menghubungi tim dukungan profesional mereka.
+   - Kunjungi [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) untuk dukungan komunitas atau menghubungi tim dukungan profesional mereka.
 
 ## Sumber daya
 

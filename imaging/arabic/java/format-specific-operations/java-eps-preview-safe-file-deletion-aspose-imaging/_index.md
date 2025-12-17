@@ -220,7 +220,7 @@ A1: EPS (Encapsulated PostScript) هو تنسيق متجه يُستخدم على
 - **شراء**: شراء ترخيص من خلال [شراء Aspose](https://purchase.aspose.com/buy).
 - **نسخة تجريبية مجانية**:ابدأ بإصدار تجريبي لاختبار الميزات في [تجارب مجانية لـ Aspose](https://releases.aspose.com/imaging/java/).
 - **رخصة مؤقتة**:اطلب واحدة عبر [ترخيص Aspose المؤقت](https://purchase.aspose.com/temporary-license/).
-- **يدعم**:للاستفسارات، تواصل معنا على [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10).
+- **يدعم**:للاستفسارات، تواصل معنا على [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14).
 
 باتباع هذا البرنامج التعليمي واستخدام Aspose.Imaging لجافا، ستكون جاهزًا تمامًا للتعامل مع معاينات صور EPS وحذف الملفات بأمان في مشاريعك. برمجة ممتعة!
 

@@ -297,7 +297,7 @@ Herzlichen Glückwunsch! Sie haben erfolgreich gelernt, wie Sie DjVu-Bilder mit 
 - **Kaufen:** [Aspose.Imaging für Java kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Testen Sie Aspose.Imaging kostenlos](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Fordern Sie eine temporäre Lizenz an](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit dieser Anleitung haben Sie sich die Fähigkeiten angeeignet, DjVu-zu-TIFF-Konvertierungen effizient durchzuführen. Entdecken und verbessern Sie Ihre Java-Anwendungen weiter mit Aspose.Imaging!
 

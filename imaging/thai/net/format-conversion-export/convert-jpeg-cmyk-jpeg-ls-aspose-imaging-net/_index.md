@@ -186,7 +186,7 @@ JPEG-LS ในรูปแบบ CMYK มีประโยชน์อย่า
 - **ซื้อใบอนุญาต:** [ซื้อ Aspose.Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี:** [ทดลองใช้ Aspose.Imaging ฟรี](https://releases.aspose.com/imaging/net/)
 - **ใบอนุญาตชั่วคราว:** [ขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน:** [ฟอรั่มสนับสนุน Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน:** [ฟอรั่มสนับสนุน Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 คู่มือนี้ควรช่วยให้คุณนำการแปลงไฟล์ JPEG-LS CMYK ไปใช้กับแอปพลิเคชัน .NET ได้อย่างมีประสิทธิภาพ ส่งผลให้ทั้งคุณภาพและประสิทธิภาพดีขึ้น ขอให้สนุกกับการเขียนโค้ด!
 

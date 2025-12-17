@@ -295,7 +295,7 @@ Bu yöntemleri denemekten ve gelecekteki projelerinizde uygulamaktan çekinmeyin
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Daha fazla öğrenme ve destek için bu kaynakları keşfetmekten çekinmeyin. İyi kodlamalar!
 

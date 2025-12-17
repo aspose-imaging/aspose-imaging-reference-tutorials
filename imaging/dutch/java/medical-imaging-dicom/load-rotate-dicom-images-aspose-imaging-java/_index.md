@@ -184,7 +184,7 @@ A5: Controleer uw code op syntaxisfouten en zorg dat alle afhankelijkheden corre
 - **Aankoop**: Koop een licentie bij [Aspose aankoopsite](https://purchase.aspose.com/buy).
 - **Gratis proefperiode**: Begin met een gratis proefperiode via [Aspose-proeven](https://releases.aspose.com/imaging/java/).
 - **Tijdelijke licentie**: Vraag een tijdelijke licentie aan bij [Aspose-licentie](https://purchase.aspose.com/temporary-license/).
-- **Steun**: Zoek hulp op de [Aspose-forum](https://forum.aspose.com/c/imaging/10).
+- **Steun**: Zoek hulp op de [Aspose-forum](https://forum.aspose.com/c/imaging/14).
 
 Door deze handleiding te volgen, bent u nu in staat om met vertrouwen DICOM-beeldrotaties in Java uit te voeren. Veel plezier met coderen!
 

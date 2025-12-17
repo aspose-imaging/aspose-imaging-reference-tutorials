@@ -178,7 +178,7 @@ A3: Ziyaret edin [geçici lisans sayfası](https://purchase.aspose.com/temporary
 C4: Yaygın zorluklar arasında dosya boyutu ile kalite arasında doğru dengeyi bulmak ve büyük resimler için bellek kullanımını yönetmek yer alıyor.
 
 **S5: Aspose.Imaging kullanıcıları için bir topluluk veya destek forumu var mı?**  
-A5: Evet, ziyaret edebilirsiniz [Aspose'un Görüntüleme Forumu](https://forum.aspose.com/c/imaging/10) Diğer kullanıcılardan ve Aspose ekibinden yardım istemek.
+A5: Evet, ziyaret edebilirsiniz [Aspose'un Görüntüleme Forumu](https://forum.aspose.com/c/imaging/14) Diğer kullanıcılardan ve Aspose ekibinden yardım istemek.
 
 ## Kaynaklar
 
@@ -187,7 +187,7 @@ A5: Evet, ziyaret edebilirsiniz [Aspose'un Görüntüleme Forumu](https://forum.
 - **Satın almak:** Tam erişim için bir lisans satın almayı düşünün [Aspose Satın Alma Sayfası](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** Bir değerlendirme ile başlayın [Aspose'un Ücretsiz Denemesi](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** Geçici lisans için başvurunuzu buradan yapabilirsiniz: [Aspose Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- **Destek:** Tartışmaya katılın [Aspose Görüntüleme Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek:** Tartışmaya katılın [Aspose Görüntüleme Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Aspose.Imaging for Java kullanarak GIF dosyalarını etkili bir şekilde yönetebilir ve optimize edebilir, dosya boyutlarının küçültülmesiyle yüksek kaliteli görseller elde edebilirsiniz. İyi kodlamalar!
 

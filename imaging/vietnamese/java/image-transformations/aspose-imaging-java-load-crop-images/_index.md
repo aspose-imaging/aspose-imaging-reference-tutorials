@@ -148,7 +148,7 @@ Sẵn sàng triển khai giải pháp này? Hãy bắt đầu thử nghiệm v�
    - Bộ công cụ phát triển Java (JDK) và IDE tương thích.
 
 5. **Có hỗ trợ nào để khắc phục sự cố không?**
-   - Thăm nom [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) để được hỗ trợ.
+   - Thăm nom [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) để được hỗ trợ.
 
 ## Tài nguyên
 

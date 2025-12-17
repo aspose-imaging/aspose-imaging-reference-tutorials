@@ -131,7 +131,7 @@ Caching reduces load times and resource usage, significantly improving applicati
 - **Purchase**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Aspose.Imaging Free Trial](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Acquire Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose.Imaging Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose.Imaging Support Forum](https://forum.aspose.com/c/imaging/14)
 By following this guide, you're well on your way to implementing efficient image processing in your .NET applications using Aspose.Imaging. Happy coding!
 
 {{< /blocks/products/pf/tutorial-page-section >}}

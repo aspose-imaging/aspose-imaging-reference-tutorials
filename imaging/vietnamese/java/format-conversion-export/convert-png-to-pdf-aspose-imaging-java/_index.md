@@ -194,7 +194,7 @@ Bằng cách làm theo hướng dẫn này, bạn đã học cách tải tệp P
 - [Mua](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Hãy tự tin bắt tay vào dự án tiếp theo của bạn vì Aspose.Imaging for Java sẽ hỗ trợ bạn!
 

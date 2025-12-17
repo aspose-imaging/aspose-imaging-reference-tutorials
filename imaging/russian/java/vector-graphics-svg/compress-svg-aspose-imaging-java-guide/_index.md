@@ -211,7 +211,7 @@ image.save("YOUR_OUTPUT_DIRECTORY" + "/Sample.svgz", svgOptions);
 - [Покупка](https://purchase.aspose.com/buy)
 - [Бесплатная пробная версия](https://releases.aspose.com/imaging/java/)
 - [Временная лицензия](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки](https://forum.aspose.com/c/imaging/14)
 
 Используя эти ресурсы, вы сможете глубже изучить возможности Aspose.Imaging и усовершенствовать свои приложения Java с помощью мощных функций обработки изображений.
 

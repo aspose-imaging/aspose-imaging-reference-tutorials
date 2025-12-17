@@ -152,7 +152,7 @@ Megtanultad, hogyan alkalmazd a Motion Wiener szűrőt az Aspose.Imaging for .NE
 - **Vásárlás:** [Aspose.Imaging licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Ingyenes próbaverzió indítása](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Kezdje el a képfeldolgozás elsajátításának útját még ma az Aspose.Imaging for .NET segítségével!
 

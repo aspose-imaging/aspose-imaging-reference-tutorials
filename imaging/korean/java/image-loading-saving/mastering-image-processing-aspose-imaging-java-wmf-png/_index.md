@@ -189,7 +189,7 @@ A5: Aspose.Imaging이 제공하는 다양한 방법을 활용하여 이미지에
 - **구입**: 모든 기능을 잠금 해제하기 위한 라이센스를 확보하세요. [Aspose 구매 페이지](https://purchase.aspose.com/buy).
 - **무료 체험**Aspose.Imaging의 기능을 테스트해보세요 [무료 체험판 다운로드](https://releases.aspose.com/imaging/java/).
 - **임시 면허**: 장기 테스트를 위한 임시 라이센스를 요청하세요 [여기](https://purchase.aspose.com/temporary-license/).
-- **지원하다**: 질문이나 도움이 필요하면 다음을 방문하세요. [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10).
+- **지원하다**: 질문이나 도움이 필요하면 다음을 방문하세요. [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14).
 
 오늘부터 이미지 처리 여정을 시작하고 Java에서 Aspose.Imaging의 모든 잠재력을 활용해 보세요!
 

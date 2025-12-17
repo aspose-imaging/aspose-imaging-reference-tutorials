@@ -154,7 +154,7 @@ den här handledningen har du lärt dig hur du konverterar enskilda bildrutor fr
 - [Ladda ner Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - [Köp Aspose-licensalternativ](https://purchase.aspose.com/buy)
 - [Gratis provperiod och tillfällig licens](https://releases.aspose.com/imaging/net/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

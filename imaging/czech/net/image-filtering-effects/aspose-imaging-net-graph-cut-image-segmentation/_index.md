@@ -178,7 +178,7 @@ Další kroky? Experimentujte s různými konfiguracemi nebo integrujte tuto fun
 - **Dokumentace**Prozkoumejte komplexní průvodce na adrese [Referenční příručka k Aspose Imaging .NET](https://reference.aspose.com/imaging/net/).
 - **Stáhnout**Přístup k nejnovějším vydáním prostřednictvím [Aspose Releases](https://releases.aspose.com/imaging/net/).
 - **Nákup a bezplatná zkušební verze**Zvažte vyzkoušení nebo nákup přes oficiálního prodejce. [Nákupní stránka Aspose](https://purchase.aspose.com/buy) a [Bezplatné zkušební verze](https://releases.aspose.com/imaging/net/).
-- **Podpora**V případě jakýchkoli dotazů navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10).
+- **Podpora**V případě jakýchkoli dotazů navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

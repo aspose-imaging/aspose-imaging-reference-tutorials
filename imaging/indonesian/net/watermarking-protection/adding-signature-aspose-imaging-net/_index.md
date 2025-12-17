@@ -161,7 +161,7 @@ Untuk terus menjelajah, pertimbangkan untuk bereksperimen dengan fitur-fitur lai
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Dengan sumber daya ini, Anda diperlengkapi dengan baik untuk menjelajah lebih jauh dan memanfaatkan potensi penuh Aspose.Imaging untuk kebutuhan pemrosesan gambar Anda. Selamat membuat kode!
 

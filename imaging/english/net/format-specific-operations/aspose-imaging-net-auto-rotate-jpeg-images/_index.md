@@ -202,7 +202,7 @@ For more detailed information and to further your understanding of Aspose.Imagin
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/net/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support and Forums](https://forum.aspose.com/c/imaging/10)
+- [Support and Forums](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

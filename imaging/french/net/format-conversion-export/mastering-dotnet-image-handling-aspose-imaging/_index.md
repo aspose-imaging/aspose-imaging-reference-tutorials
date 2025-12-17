@@ -170,7 +170,7 @@ Grâce à ce tutoriel, vous avez appris les bases du chargement et de l'enregist
 - **Achat:** [Acheter une licence](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Commencez votre essai gratuit](https://releases.aspose.com/imaging/net/)
 - **Licence temporaire :** [Demande de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien:** [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce guide, vous serez désormais équipé pour gérer le traitement d'images .NET en toute confiance grâce à Aspose.Imaging pour .NET. Bon codage !
 

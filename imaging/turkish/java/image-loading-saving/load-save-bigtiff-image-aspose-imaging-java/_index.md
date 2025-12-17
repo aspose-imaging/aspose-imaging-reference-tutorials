@@ -190,7 +190,7 @@ Yeteneklerinizi daha da geliştirmek için Aspose.Imaging'in gelişmiş görünt
 - [Java için Aspose.Imaging'i indirin](https://releases.aspose.com/imaging/java/)
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme ve Geçici Lisans](https://releases.aspose.com/imaging/java/), [Geçici Lisans Sayfası](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java hakkındaki anlayışınızı derinleştirmek ve herhangi bir BigTIFF görüntü işleme ihtiyacınızı karşılayabilecek donanıma sahip olmanızı sağlamak için bu kaynakları inceleyin.
 

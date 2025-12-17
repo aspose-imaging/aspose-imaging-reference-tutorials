@@ -155,7 +155,7 @@ Essayez d’implémenter cette solution dans vos projets dès aujourd’hui !
 - **Achat**: https://purchase.aspose.com/buy
 - **Essai gratuit**: https://releases.aspose.com/imaging/java/
 - **Permis temporaire**: https://purchase.aspose.com/temporary-license/
-- **Forum d'assistance**: https://forum.aspose.com/c/imaging/10
+- **Forum d'assistance**: https://forum.aspose.com/c/imaging/14
 
 Ce guide vous fournit les connaissances et les outils nécessaires pour gérer les images TIFF endommagées avec Aspose.Imaging pour Java. Expérimentez et intégrez ces fonctionnalités à vos applications dès aujourd'hui !
 

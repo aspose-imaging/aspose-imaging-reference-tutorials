@@ -193,7 +193,7 @@ Fedezze fel az Aspose.Imaging által kínált további funkciókat, például a 
 - [Aspose.Imaging letöltése Java-hoz](https://releases.aspose.com/imaging/java/)
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió és ideiglenes licenc](https://releases.aspose.com/imaging/java/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Indulj el az Aspose.Imaging Java segítségével még ma, és alakítsd át a képfeldolgozási feladatok kezelésének módját!
 

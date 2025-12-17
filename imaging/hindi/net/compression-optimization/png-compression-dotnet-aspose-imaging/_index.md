@@ -156,7 +156,7 @@ A5: हालांकि यह अत्यधिक बहुमुखी ह
 - **खरीदना**: पूर्ण क्षमताओं को अनलॉक करने के लिए लाइसेंस खरीदें [Aspose खरीद](https://purchase.aspose.com/buy).
 - **मुफ्त परीक्षण**: डाउनलोड करके बिना किसी सीमा के Aspose.Imaging का परीक्षण करें [मुफ्त परीक्षण](https://releases.aspose.com/imaging/net/).
 - **अस्थायी लाइसेंस**: विस्तारित मूल्यांकन के लिए अस्थायी लाइसेंस प्राप्त करें [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/).
-- **सहायता**: समुदाय तक पहुंचें या मदद मांगें [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10).
+- **सहायता**: समुदाय तक पहुंचें या मदद मांगें [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

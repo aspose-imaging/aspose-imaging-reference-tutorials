@@ -237,7 +237,7 @@ A5: Er zijn gratis proefversies beschikbaar, maar om de volledige functionalitei
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Ontvang een gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u goed toegerust om Aspose.Imaging voor Java te gebruiken bij uw DICOM-verwerkingstaken. Veel plezier met coderen!
 

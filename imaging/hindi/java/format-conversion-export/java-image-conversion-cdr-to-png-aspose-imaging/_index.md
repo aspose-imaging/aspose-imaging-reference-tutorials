@@ -243,7 +243,7 @@ public class SetRasterizationOptions {
 - [Java के लिए Aspose.Imaging डाउनलोड करें](https://releases.aspose.com/imaging/java/)
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण और अस्थायी लाइसेंस](https://releases.aspose.com/imaging/java/)
-- [सामुदायिक सहायता मंच](https://forum.aspose.com/c/imaging/10)
+- [सामुदायिक सहायता मंच](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड का पालन करके, आप Aspose.Imaging for Java का उपयोग करके आसानी से छवि रूपांतरण कार्यों को संभालने के लिए अच्छी तरह से सुसज्जित हैं। हैप्पी कोडिंग!
 

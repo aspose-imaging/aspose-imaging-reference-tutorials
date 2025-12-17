@@ -171,7 +171,7 @@ WebP ให้การบีบอัดที่เหนือกว่าโ
 - **เอกสารประกอบ:** [อ้างอิง Aspose.Imaging สำหรับ Java](https://reference.aspose.com/imaging/java/)
 - **ดาวน์โหลด:** [ข่าวล่าสุด](https://releases.aspose.com/imaging/java/)
 - **การซื้อและทดลองใช้งาน:** สำรวจตัวเลือกการออกใบอนุญาตได้ที่ [การซื้อ Aspose](https://purchase.aspose.com/buy)
-- **สนับสนุน:** เข้าร่วมการสนทนาของชุมชนบน [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน:** เข้าร่วมการสนทนาของชุมชนบน [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14)
 
 ลองทำตามขั้นตอนเหล่านี้ในโปรเจ็กต์ถัดไปของคุณเพื่อดูว่า Aspose.Imaging Java สามารถปรับกระบวนการประมวลผลภาพของคุณให้มีประสิทธิภาพและดีขึ้นได้อย่างไร!
 

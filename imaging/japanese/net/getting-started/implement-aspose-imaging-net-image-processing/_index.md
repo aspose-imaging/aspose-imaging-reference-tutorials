@@ -126,7 +126,7 @@ Otsu しきい値処理は、グレースケール画像をバイナリ形式に
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imaging 無料トライアル](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose.Imaging サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose.Imaging サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 このガイドに従えば、Aspose.Imaging を使用して .NET アプリケーションに効率的な画像処理を実装できるようになります。コーディングを楽しみましょう！
 
 {{< /blocks/products/pf/tutorial-page-section >}}

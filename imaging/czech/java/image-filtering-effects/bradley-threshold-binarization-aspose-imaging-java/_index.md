@@ -198,7 +198,7 @@ A5: Zvažte optimalizaci prostředí Java pro správu paměti a prozkoumejte mo�
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatný zkušební přístup](https://releases.aspose.com/imaging/java/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Prozkoumejte tyto zdroje, abyste si prohloubili znalosti a vylepšili své projekty zpracování obrazu pomocí Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

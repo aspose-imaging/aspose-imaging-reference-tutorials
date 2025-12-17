@@ -203,7 +203,7 @@ Le animamos a que intente implementar esta solución en su próximo proyecto y e
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Acceso de prueba gratuito](https://releases.aspose.com/imaging/java/)
 - [Obtenga una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo esta guía, estarás bien preparado para crear y manipular archivos TIFF multipágina con Aspose.Imaging para Java. ¡Que disfrutes programando!
 

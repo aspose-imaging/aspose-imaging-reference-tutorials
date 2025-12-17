@@ -148,7 +148,7 @@ Aspose의 내장 메서드를 활용해 이미지 데이터를 처리하고, 집
 - **구입:** [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [무료 체험판으로 시작하세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허:** [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [Aspose 포럼 지원](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** [Aspose 포럼 지원](https://forum.aspose.com/c/imaging/14)
 
 이 가이드는 .NET 프로젝트에서 Aspose.Imaging의 잠재력을 최대한 활용하는 데 도움이 되도록 설계되었습니다. 즐거운 코딩 되세요!
 

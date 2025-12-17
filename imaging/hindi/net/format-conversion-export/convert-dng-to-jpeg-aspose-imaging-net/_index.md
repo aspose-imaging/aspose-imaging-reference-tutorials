@@ -152,7 +152,7 @@ A: छवि संपीड़न स्तर को समायोजित 
 - **खरीदना**: [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [Aspose.Imaging के साथ आरंभ करें](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

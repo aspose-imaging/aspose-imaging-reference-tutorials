@@ -159,7 +159,7 @@ image.Save(outputPath, new PngOptions());
 - **खरीद लाइसेंस**: [Aspose.Licensing खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [Aspose.Imaging आज़माएँ](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच**: [एस्पोज इमेजिंग सहायता](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच**: [एस्पोज इमेजिंग सहायता](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

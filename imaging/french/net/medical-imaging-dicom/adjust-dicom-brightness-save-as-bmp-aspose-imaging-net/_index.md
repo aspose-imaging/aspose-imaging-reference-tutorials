@@ -171,7 +171,7 @@ Pour les prochaines étapes, envisagez d'explorer les fonctionnalités de manipu
 - Pour une utilisation commerciale, vous devrez acheter une licence. Les licences d'essai permettent une évaluation, mais comportent des limitations.
 
 **Q4 : Une assistance est-elle disponible si je rencontre des problèmes ?**
-- Oui, Aspose propose des forums communautaires et des options d'assistance professionnelle. Visitez leur site. [page d'assistance](https://forum.aspose.com/c/imaging/10) pour plus d'informations.
+- Oui, Aspose propose des forums communautaires et des options d'assistance professionnelle. Visitez leur site. [page d'assistance](https://forum.aspose.com/c/imaging/14) pour plus d'informations.
 
 **Q5 : Puis-je intégrer cette fonctionnalité dans une application Web ?**
 - Absolument ! La bibliothèque est compatible avec les frameworks .NET utilisés dans les applications web, permettant une intégration transparente.

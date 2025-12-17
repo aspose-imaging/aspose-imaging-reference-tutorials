@@ -217,7 +217,7 @@ Jste připraveni posunout své dovednosti dále? Zkuste implementovat tyto techn
 - [Stáhnout Aspose.Imaging pro .NET](https://releases.aspose.com/imaging/net/)
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze a dočasná licence](https://releases.aspose.com/imaging/net/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Tato příručka by vám měla pomoci začít s kreslením a manipulací s obrázky DICOM pomocí Aspose.Imaging pro .NET a poskytnout základ pro vytváření složitějších aplikací pro zpracování obrazu.
 

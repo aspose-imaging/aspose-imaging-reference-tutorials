@@ -153,7 +153,7 @@ using (var image = new GifImage(new GifFrameBlock(frames[0])))
 - **Покупка**: [Купить лицензию Aspose](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Бесплатная пробная версия Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия**: [Запросить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Воспользуйтесь этими ресурсами и начните создавать динамичные GIF-файлы уже сегодня!
 

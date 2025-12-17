@@ -173,7 +173,7 @@ Możesz swobodnie wypróbować te kroki we własnym środowisku programistycznym
 - **Zakup:** [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Rozpocznij bezpłatny okres próbny](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa:** [Poproś o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia:** [Forum wsparcia Aspose Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia:** [Forum wsparcia Aspose Imaging](https://forum.aspose.com/c/imaging/14)
 
 Zachęcamy do zapoznania się z tymi zasobami i zintegrowania Aspose.Imaging ze swoimi projektami w celu uzyskania możliwości płynnego przetwarzania obrazu.
 

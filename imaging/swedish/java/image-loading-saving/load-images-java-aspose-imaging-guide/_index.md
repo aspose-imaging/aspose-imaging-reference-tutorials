@@ -163,7 +163,7 @@ Redo att ta din Java-utveckling till nästa nivå? Försök att implementera den
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provperiod och tillfällig licens](https://releases.aspose.com/imaging/java/)
 
-För ytterligare frågor, besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)Lycka till med kodningen!
+För ytterligare frågor, besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)Lycka till med kodningen!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

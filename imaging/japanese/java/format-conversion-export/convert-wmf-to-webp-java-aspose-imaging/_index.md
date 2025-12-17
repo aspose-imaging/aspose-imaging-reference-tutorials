@@ -186,7 +186,7 @@ Aspose.Imaging for Javaを使用してWMF画像をWebP形式に変換する方�
 - [サブスクリプションを購入する](https://purchase.aspose.com/buy)
 - [無料試用ライセンス](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従えば、Aspose.Imaging を使った Java での画像変換をマスターできるはずです。コーディングを楽しみましょう！
 

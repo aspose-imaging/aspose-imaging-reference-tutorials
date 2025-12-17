@@ -170,7 +170,7 @@ Készen állsz a megvalósítására? Próbáld ki őket a projektjeidben, és t
 - **Vásárlás:** [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Próbálja ki most](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély:** [Kérelem itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Kérdések feltevése](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Kérdések feltevése](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

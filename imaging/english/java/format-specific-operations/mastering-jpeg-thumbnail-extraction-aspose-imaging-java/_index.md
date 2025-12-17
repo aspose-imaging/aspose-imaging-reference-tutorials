@@ -200,7 +200,7 @@ Ready to start implementing? Head over to the [Aspose.Imaging documentation](htt
    - You can get a temporary license for evaluation or purchase a full license for production use.
 
 5. **Where can I find support if I encounter issues?**  
-   - Visit the [Aspose forum](https://forum.aspose.com/c/imaging/10) for community and official support.
+   - Visit the [Aspose forum](https://forum.aspose.com/c/imaging/14) for community and official support.
 
 ## Resources
 
@@ -209,7 +209,7 @@ Ready to start implementing? Head over to the [Aspose.Imaging documentation](htt
 - Purchase: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - Free Trial: [Free Trials Available](https://releases.aspose.com/imaging/java/)
 - Temporary License: [Apply for a Temporary License](https://purchase.aspose.com/temporary-license/)
-- Support: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- Support: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 With these resources, you’re equipped to make the most of Aspose.Imaging in your Java projects. Happy coding!
 

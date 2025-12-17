@@ -173,7 +173,7 @@ finally {
    - 考虑将过程分解为更小的块或使用库提供的节省内存的方法。
 
 5. **如果遇到问题，我可以在哪里获得支持？**
-   - 访问 [Aspose 的支持论坛](https://forum.aspose.com/c/imaging/10) 寻求社区专家和 Aspose 员工的帮助。
+   - 访问 [Aspose 的支持论坛](https://forum.aspose.com/c/imaging/14) 寻求社区专家和 Aspose 员工的帮助。
 
 ## 资源
 

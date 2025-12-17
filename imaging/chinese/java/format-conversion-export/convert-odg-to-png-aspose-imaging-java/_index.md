@@ -189,7 +189,7 @@ image.save(outFileName, new PngOptions() {
 - **购买：** [购买许可证](https://purchase.aspose.com/buy)
 - **免费试用：** [尝试 Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **临时执照：** [申请临时执照](https://purchase.aspose.com/temporary-license/)
-- **支持论坛：** [Aspose 支持社区](https://forum.aspose.com/c/imaging/10)
+- **支持论坛：** [Aspose 支持社区](https://forum.aspose.com/c/imaging/14)
 
 本指南旨在帮助您将 Aspose.Imaging 无缝集成到您的 Java 项目中，确保每次都能获得高质量的图像转换。祝您编码愉快！
 

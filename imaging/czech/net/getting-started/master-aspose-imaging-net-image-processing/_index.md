@@ -159,14 +159,14 @@ Nyní jste se naučili, jak načítat, filtrovat a ukládat obrázky pomocí Asp
 4. **Jaké formáty souborů podporuje Aspose.Imaging?**
    - Podporuje více než 100 obrazových formátů včetně JPEG, PNG, GIF a dalších.
 5. **Jak mohu vyřešit běžné problémy s Aspose.Imaging?**
-   - Viz [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) pro řešení nebo si prohlédněte jejich podrobnou dokumentaci.
+   - Viz [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) pro řešení nebo si prohlédněte jejich podrobnou dokumentaci.
 
 ## Zdroje
 - **Dokumentace**Komplexní průvodci na [Dokumentace Aspose](https://reference.aspose.com/imaging/net/)
 - **Stáhnout nejnovější verzi**Přístupné z [Stránka s vydáními](https://releases.aspose.com/imaging/net/)
 - **Zakoupit licenci**Odkaz pro přímý nákup je k dispozici na [Nákupní stránka Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze a dočasná licence**K dispozici na [Stránka s vydáními](https://releases.aspose.com/imaging/net/) a [Sekce dočasné licence](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**V případě jakýchkoli dotazů navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**V případě jakýchkoli dotazů navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

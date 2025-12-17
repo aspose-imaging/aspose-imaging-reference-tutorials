@@ -193,7 +193,7 @@ C: Kesinlikle – Java'nın desteklendiği her yerde çalışır, Windows, Linux
 - **Purchase**: [Buy Aspose Products](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start a Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Şimdi bu bilgiyle donanmış olarak, Java projelerinizde gelişmiş görüntü işleme yetenekleri için Aspose.Imaging'i uygulamaya hazır durumdasınız. Kodlamanın tadını çıkarın!
 

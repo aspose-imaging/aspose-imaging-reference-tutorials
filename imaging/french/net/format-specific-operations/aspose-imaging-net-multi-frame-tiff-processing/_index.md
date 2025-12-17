@@ -167,7 +167,7 @@ Vous maîtrisez désormais le chargement et l'enregistrement d'images TIFF avec 
 - **Achat**: [Acheter une licence pour Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencez par un essai gratuit](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Demander une licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum d'imagerie Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum d'imagerie Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

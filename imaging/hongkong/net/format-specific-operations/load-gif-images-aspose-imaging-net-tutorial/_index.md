@@ -153,7 +153,7 @@ A5：是的，它提供了各種最佳化技術來有效地管理記憶體使用
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/net/)
 - [臨時執照](https://purchase.aspose.com/temporary-license/)
-- [支援論壇](https://forum.aspose.com/c/imaging/10)
+- [支援論壇](https://forum.aspose.com/c/imaging/14)
 
 透過掌握 Aspose.Imaging 的圖像處理，將您的 .NET 應用程式提升到新的水平！
 

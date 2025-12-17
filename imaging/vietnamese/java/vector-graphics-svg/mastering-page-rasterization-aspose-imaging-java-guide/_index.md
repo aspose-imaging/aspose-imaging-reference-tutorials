@@ -210,7 +210,7 @@ Sẵn sàng đưa dự án hình ảnh của bạn lên tầm cao mới? Hãy th
 - **Mua:** [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Nhận bản dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Với hướng dẫn này, bạn sẽ được trang bị đầy đủ để tận dụng Aspose.Imaging Java hiệu quả trong các dự án của mình. Chúc bạn viết mã vui vẻ!
 

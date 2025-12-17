@@ -188,7 +188,7 @@ using (Image image = Image.Create(webPOptions, 1000, 1000))
 - **Покупка**: [Купить лицензию](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Начните бесплатную пробную версию](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия**: [Подать заявку на временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: [Форум Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: [Форум Aspose](https://forum.aspose.com/c/imaging/14)
 
 Начните свое путешествие с Aspose.Imaging сегодня и раскройте весь потенциал обработки изображений в .NET!
 

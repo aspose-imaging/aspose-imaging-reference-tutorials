@@ -194,7 +194,7 @@ image.save(output); // يحفظ الصورة المعدلة في مسار الإ
 - **شراء**:الحصول على ترخيص كامل من خلال [صفحة شراء Aspose](https://purchase.aspose.com/buy).
 - **نسخة تجريبية مجانية**:ابدأ بفترة تجريبية مجانية لاستكشاف الميزات في [تنزيلات Aspose](https://releases.aspose.com/imaging/java/).
 - **رخصة مؤقتة**:اطلب ترخيصًا مؤقتًا للاختبار الموسع في [ترخيص Aspose المؤقت](https://purchase.aspose.com/temporary-license/).
-- **يدعم**:انضم إلى المجتمع واطلب المساعدة على [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10).
+- **يدعم**:انضم إلى المجتمع واطلب المساعدة على [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

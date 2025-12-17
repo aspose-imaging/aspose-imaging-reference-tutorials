@@ -186,7 +186,7 @@ Các bước tiếp theo có thể bao gồm tích hợp các chuyển đổi n�
 - [Mua Đăng ký](https://purchase.aspose.com/buy)
 - [Giấy phép dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn đang trên đường thành thạo việc chuyển đổi hình ảnh trong Java bằng Aspose.Imaging. Chúc bạn viết mã vui vẻ!
 

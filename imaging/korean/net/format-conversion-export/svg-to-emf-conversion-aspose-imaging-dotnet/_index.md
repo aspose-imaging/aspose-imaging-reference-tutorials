@@ -133,7 +133,7 @@ image.Save(emfFilePath, emfOptions);
 **다음 단계:**
 - Aspose.Imaging의 더 많은 기능을 살펴보세요
 - 다양한 변환 옵션을 실험해보세요
-- 피드백을 공유하거나 질문을 하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- 피드백을 공유하거나 질문을 하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 기술을 구현할 준비가 되셨나요? 지금 바로 프로젝트에 뛰어들어 전환을 시작하세요!
 
@@ -160,7 +160,7 @@ A5: 파일 경로를 확인하고 Aspose.Imaging이 올바르게 설치되었는
 - **구입**: [라이센스 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료 체험판으로 시작하세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 솔루션을 구현하는 동안 더 자세한 지침과 지원을 원하시면 다음 리소스를 자유롭게 살펴보세요. 즐거운 코딩 되세요!
 

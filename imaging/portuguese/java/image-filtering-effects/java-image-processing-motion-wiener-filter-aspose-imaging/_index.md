@@ -177,7 +177,7 @@ A: Verifique o [Documentação do Aspose.Imaging](https://reference.aspose.com/i
 - **Comprar:** [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Teste gratuito do Aspose](https://releases.aspose.com/imaging/java/)
 - **Licença temporária:** [Solicitar Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar:** [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar:** [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Este guia abrangente deve capacitá-lo a aplicar o Motion Wiener Filter de forma eficaz, aprimorando seus projetos de processamento de imagens baseados em Java com o Aspose.Imaging.
 

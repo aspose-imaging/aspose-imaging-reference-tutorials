@@ -137,7 +137,7 @@ image.Save(outputImagePath, exportOptions);
 - [Aspose.Imaging for .NET をダウンロード](https://releases.aspose.com/imaging/net/)
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアルと一時ライセンス](https://releases.aspose.com/imaging/net/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを活用して、Aspose.Imaging .NET の理解を深め、実装を強化しましょう。コーディングを楽しみましょう！
 

@@ -191,7 +191,7 @@ Utilizzare il `dispose()` metodo sugli oggetti Immagine per liberare memoria al 
 - **Acquistare:** [Acquista la licenza Aspose](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Prove gratuite di Aspose Imaging](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea:** [Richiedi licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto:** [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Supporto:** [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Seguendo questo tutorial, avrai acquisito le conoscenze necessarie per caricare e salvare in modo efficiente file JPEG utilizzando Aspose.Imaging per Java. Buon lavoro!
 

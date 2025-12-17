@@ -214,7 +214,7 @@ Siap menerapkan apa yang telah Anda pelajari? Cobalah menerapkan teknik-teknik i
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan**: [Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/10) 
+- **Forum Dukungan**: [Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/14) 
 
 Mulailah perjalanan Anda dengan Aspose.Imaging untuk Java hari ini dan buka potensi baru dalam pemrosesan gambar!
 

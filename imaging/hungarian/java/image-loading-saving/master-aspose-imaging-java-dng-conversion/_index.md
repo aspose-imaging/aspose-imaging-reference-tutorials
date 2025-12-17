@@ -189,7 +189,7 @@ Igen, az Aspose.Imaging felhasználható kereskedelmi alkalmazásokban a megfele
 - **Vásárlás**: [Vásároljon most](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbáld ki az Aspose.Imaging-et](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Aspose közösségi támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Aspose közösségi támogatás](https://forum.aspose.com/c/imaging/14)
 
 Kezdje útját még ma az Aspose.Imaging for Java segítségével, és aknázza ki a képfeldolgozás teljes potenciálját alkalmazásaiban!
 

@@ -184,7 +184,7 @@ I den här handledningen har vi utforskat hur man använder Aspose.Imaging för 
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Börja implementera dessa lösningar idag och förbättra dina bildbehandlingsmöjligheter med Aspose.Imaging för Java!
 

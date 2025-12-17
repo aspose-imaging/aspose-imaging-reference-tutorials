@@ -162,7 +162,7 @@ for (String file : emfFiles) {
 - **Άδεια Αγοράς:** [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Δωρεάν δοκιμή Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ υποστήριξης:** [Υποστήριξη απεικόνισης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ υποστήριξης:** [Υποστήριξη απεικόνισης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον ολοκληρωμένο οδηγό, είστε πλέον έτοιμοι να μετατρέψετε αρχεία EMF σε WMF χρησιμοποιώντας το Aspose.Imaging για Java. Καλή κωδικοποίηση!
 

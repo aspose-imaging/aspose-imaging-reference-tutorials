@@ -167,7 +167,7 @@ A5: Etkili olsa da, yerel kontrast değişimlerinin belirgin olduğu görüntül
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Deneme ile Başlayın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Talebinde Bulunun](https://purchase.aspose.com/temporary-license/)
-- **Destek**: Herhangi bir sorunuz varsa, şu adresi ziyaret edin: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek**: Herhangi bir sorunuz varsa, şu adresi ziyaret edin: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET ile yolculuğunuza başlayın ve tıbbi görüntülemede yeni yeteneklerin kilidini açın!
 

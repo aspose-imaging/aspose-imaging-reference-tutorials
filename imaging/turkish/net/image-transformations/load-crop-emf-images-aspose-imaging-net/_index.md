@@ -186,7 +186,7 @@ Becerilerinizi daha da ileri götürmek için Aspose.Imaging belgelerinde buluna
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Erişimi](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı kılavuz, EMF görüntü işleme yeteneklerini .NET uygulamalarınıza etkili bir şekilde entegre etmek için gereken bilgi ve becerileri size kazandırmak için tasarlanmıştır. Aspose.Imaging ile geliştirme araç setinizi genişletin ve projenizin işlevselliğini artırın.
 

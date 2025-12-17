@@ -190,7 +190,7 @@ Como próximos pasos, considere explorar funciones adicionales como el cambio de
 - **Compra:** [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Prueba gratuita de Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** [Obtenga una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** [Foro de imágenes de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** [Foro de imágenes de Aspose](https://forum.aspose.com/c/imaging/14)
 
 ¡Embárquese en su viaje hacia el procesamiento avanzado de imágenes con Aspose.Imaging para Java y desbloquee un nuevo potencial en sus aplicaciones!
 

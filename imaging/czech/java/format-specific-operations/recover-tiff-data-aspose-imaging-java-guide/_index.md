@@ -227,7 +227,7 @@ Dále zvažte prozkoumání pokročilejších funkcí Aspose.Imaging nebo jeho i
    - Ano, s řádnou licencí je ideální pro profesionální a podnikové aplikace.
 
 5. **Kde najdu další zdroje o Aspose.Imaging?**
-   - Návštěva [Dokumentace Aspose](https://reference.aspose.com/imaging/java/) a [fórum podpory](https://forum.aspose.com/c/imaging/10) pro podrobné návody a pomoc komunity.
+   - Návštěva [Dokumentace Aspose](https://reference.aspose.com/imaging/java/) a [fórum podpory](https://forum.aspose.com/c/imaging/14) pro podrobné návody a pomoc komunity.
 
 ## Zdroje
 
@@ -236,7 +236,7 @@ Dále zvažte prozkoumání pokročilejších funkcí Aspose.Imaging nebo jeho i
 - **Nákup**https://purchase.aspose.com/buy
 - **Bezplatná zkušební verze**https://releases.aspose.com/imaging/java/
 - **Dočasná licence**https://purchase.aspose.com/temporary-license/
-- **Podpora**https://forum.aspose.com/c/imaging/10
+- **Podpora**https://forum.aspose.com/c/imaging/14
 
 Vydejte se na cestu k zvládnutí obnovy obrázků TIFF s Aspose.Imaging pro Javu ještě dnes!
 

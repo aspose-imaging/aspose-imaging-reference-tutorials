@@ -215,7 +215,7 @@ rasterImage.save(outputDir, tiffOptions);
 - **購買**： [購買 Aspose 產品](https://purchase.aspose.com/buy)
 - **免費試用**： [從這裡開始](https://releases.aspose.com/imaging/java/)
 - **臨時執照**： [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 使用 Aspose.Imaging 踏上您的 Java 影像處理之旅，開啟數位影像處理的新可能性！
 

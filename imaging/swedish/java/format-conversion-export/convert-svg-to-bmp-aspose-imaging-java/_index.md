@@ -161,7 +161,7 @@ Nästa steg? Experimentera med olika konfigurationer i `BmpOptions` och utforska
    - Justera bitmappskonfigurationer inom `BmpOptions` för att justera inställningarna för utdatakvalitet.
 
 5. **Var kan jag hitta stöd om jag stöter på problem?**
-   - Besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/10) för samhälls- och professionell hjälp.
+   - Besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/14) för samhälls- och professionell hjälp.
 
 ## Resurser
 

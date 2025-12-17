@@ -204,7 +204,7 @@ In this tutorial, we've explored how to use Aspose.Imaging for Java to load CDR 
    - Absolutely! It supports a wide range of image formats beyond CDR and PSD.
 
 5. **How can I troubleshoot issues with loading or saving images?**
-   - Check the [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) for common solutions, and ensure your library version is up to date.
+   - Check the [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) for common solutions, and ensure your library version is up to date.
 
 ## Resources
 
@@ -213,7 +213,7 @@ In this tutorial, we've explored how to use Aspose.Imaging for Java to load CDR 
 - **Purchase:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial:** [Get a Free License](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 By following this guide, you should be well-equipped to handle CDR image loading and conversion tasks in your Java applications using Aspose.Imaging. Happy coding!
 

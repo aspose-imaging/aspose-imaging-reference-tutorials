@@ -188,7 +188,7 @@ Bu kılavuzu takip ederek, Aspose.Imaging for Java ile LZW sıkıştırmasını 
 - **Satın almak:** [Şimdi al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Buradan Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Burada Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek:** Daha fazla yardım için şu adresi ziyaret edin: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek:** Daha fazla yardım için şu adresi ziyaret edin: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

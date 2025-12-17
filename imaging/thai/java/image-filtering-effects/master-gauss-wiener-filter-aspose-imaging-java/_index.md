@@ -212,7 +212,7 @@ if (image != null) {
 - **ซื้อ**- [ซื้อเลย](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [เริ่มต้นใช้งาน](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว**- [ขอคำร้องได้ที่นี่](https://purchase.aspose.com/temporary-license/)
-- **ฟอรั่มสนับสนุน**- [ชุมชน Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **ฟอรั่มสนับสนุน**- [ชุมชน Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 เราหวังว่าคู่มือนี้จะช่วยให้คุณปรับปรุงโครงการของคุณให้ดีขึ้นด้วยความสามารถในการประมวลผลภาพอันซับซ้อน ขอให้สนุกกับการเขียนโค้ด!
 

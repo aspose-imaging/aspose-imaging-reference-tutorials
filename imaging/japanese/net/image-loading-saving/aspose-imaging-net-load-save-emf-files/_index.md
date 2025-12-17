@@ -152,7 +152,7 @@ Aspose.Imaging for .NET を使用して EMF ファイルを読み込み、保存
 - **ライセンスを購入:** [今すぐ購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [始める](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス:** [リクエストはこちら](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム:** [Aspose コミュニティ](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム:** [Aspose コミュニティ](https://forum.aspose.com/c/imaging/14)
 
 今すぐ Aspose.Imaging for .NET を導入して、アプリケーションの画像処理機能を向上させましょう。
 

@@ -233,7 +233,7 @@ Bạn đã sẵn sàng triển khai các giải pháp này chưa? Hãy thử t�
 - [Mua](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Với hướng dẫn này, bạn sẽ được trang bị đầy đủ để tối ưu hóa Aspose.Imaging Cache trong Java một cách hiệu quả. Chúc bạn viết mã vui vẻ!
 

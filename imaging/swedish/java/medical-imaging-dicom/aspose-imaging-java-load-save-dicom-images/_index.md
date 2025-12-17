@@ -181,7 +181,7 @@ den här handledningen lärde du dig hur du laddar och sparar DICOM-bilder med A
 - **Ladda ner:** [Senaste utgåvorna](https://releases.aspose.com/imaging/java/)
 - **Köpa:** [Köp Aspose-licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod och tillfällig licens:** [Kom igång](https://releases.aspose.com/imaging/java/)
-- **Supportforum:** [Aspose-gemenskapen](https://forum.aspose.com/c/imaging/10)
+- **Supportforum:** [Aspose-gemenskapen](https://forum.aspose.com/c/imaging/14)
 
 Den här omfattande guiden har utrustat dig med de färdigheter som behövs för att effektivt hantera DICOM-bilder i Java-applikationer med hjälp av Aspose.Imaging. Lycka till med kodningen!
 

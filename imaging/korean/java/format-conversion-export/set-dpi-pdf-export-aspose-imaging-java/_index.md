@@ -174,7 +174,7 @@ Aspose.Imaging은 다양한 이미지 형식을 지원하여 DPI와 같은 품�
 - **구입:** [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [Aspose.Imaging 무료 체험판](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [Aspose 이미징 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** [Aspose 이미징 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 종합 가이드를 통해 이제 Aspose.Imaging for Java를 사용하여 PDF 내보내기에서 DPI 설정을 구현할 수 있습니다. 즐거운 코딩 되세요!
 

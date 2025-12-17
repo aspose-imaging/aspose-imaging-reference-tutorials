@@ -236,7 +236,7 @@ Utils.deleteFile("YOUR_OUTPUT_DIRECTORY/MultiPage2.cmx.tiff");
 - **खरीदना**: [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [निःशुल्क परीक्षण शुरू करें](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [Aspose.Imaging फ़ोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [Aspose.Imaging फ़ोरम](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड का पालन करके, अब आप वेक्टर CMX फ़ाइलों को संभालने और उन्हें Aspose.Imaging for Java का उपयोग करके TIFF छवियों के रूप में निर्यात करने में सक्षम हैं। हैप्पी कोडिंग!
 

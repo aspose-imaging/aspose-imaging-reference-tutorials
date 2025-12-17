@@ -198,7 +198,7 @@ Ha aprendido a cargar y exportar archivos SVG a PDF con Aspose.Imaging para Java
 - [Compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 ¡Comience a implementar estas funciones en sus proyectos hoy mismo y vea cómo Aspose.Imaging para Java puede mejorar su flujo de trabajo!
 

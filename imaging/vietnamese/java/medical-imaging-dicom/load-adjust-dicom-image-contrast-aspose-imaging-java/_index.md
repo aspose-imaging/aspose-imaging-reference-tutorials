@@ -179,7 +179,7 @@ Sẵn sàng nâng cao các dự án hình ảnh y tế của bạn? Hãy bắt �
 - **Giấy phép mua hàng:** [Mua ngay](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Yêu cầu cấp giấy phép tạm thời:** [Yêu cầu ở đây](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ:** [Cộng đồng hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** [Cộng đồng hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn sẽ được trang bị đầy đủ để xử lý các tác vụ xử lý hình ảnh DICOM trong các ứng dụng Java của mình bằng Aspose.Imaging. Chúc bạn viết mã vui vẻ!
 

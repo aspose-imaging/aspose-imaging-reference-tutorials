@@ -174,7 +174,7 @@ Aspose.Imaging for Java를 사용하여 TIFF 프레임을 BMP 파일로 변환�
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging Java를 사용하여 이미지 처리를 마스터하는 여정을 시작하고 TIFF 이미지 처리에서 새로운 가능성을 열어보세요.
 

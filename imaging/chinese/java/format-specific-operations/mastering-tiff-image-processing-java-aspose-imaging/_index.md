@@ -245,7 +245,7 @@ try (TiffImage image = (TiffImage) Image.load("YOUR_DOCUMENT_DIRECTORY" + "TestD
 - **购买：** [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用：** [获取免费试用](https://releases.aspose.com/imaging/java/)
 - **临时执照：** [申请临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 按照本指南操作，您现在可以将 TIFF 图像处理无缝集成到 Java 应用程序中。祝您编码愉快！
 

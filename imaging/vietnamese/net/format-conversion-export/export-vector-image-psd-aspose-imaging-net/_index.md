@@ -166,7 +166,7 @@ Bước tiếp theo, hãy cân nhắc thử nghiệm các định dạng khác �
 - **Mua**: Mua giấy phép thông qua [Cổng thông tin mua hàng Aspose](https://purchase.aspose.com/buy).
 - **Dùng thử miễn phí**: Bắt đầu với bản dùng thử miễn phí qua [Tải xuống](https://releases.aspose.com/imaging/net/).
 - **Giấy phép tạm thời**: Yêu cầu một [đây](https://purchase.aspose.com/temporary-license/).
-- **Ủng hộ**:Tham gia cộng đồng trong [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10) để được trợ giúp và thảo luận.
+- **Ủng hộ**:Tham gia cộng đồng trong [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14) để được trợ giúp và thảo luận.
 
 Chúng tôi hy vọng hướng dẫn này sẽ giúp bạn tích hợp chức năng xuất hình ảnh vector vào dự án của mình. Chúc bạn viết mã vui vẻ!
 

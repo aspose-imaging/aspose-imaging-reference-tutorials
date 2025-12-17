@@ -170,7 +170,7 @@ R: Aspose.Imaging admite numerosos formatos, como JPEG, PNG, GIF, BMP y más. Co
 A: Sí, puedes configurar tiempos de cuadro personalizados usando `ApngOptions`.
 
 **P: ¿Cómo puedo solucionar problemas con Aspose.Imaging?**
-A: Consulte el foro de soporte [aquí](https://forum.aspose.com/c/imaging/10) para obtener ayuda.
+A: Consulte el foro de soporte [aquí](https://forum.aspose.com/c/imaging/14) para obtener ayuda.
 
 ## Recursos
 - **Documentación**: [Referencia de Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -178,7 +178,7 @@ A: Consulte el foro de soporte [aquí](https://forum.aspose.com/c/imaging/10) pa
 - **Compra**: [Comprar una licencia](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Empieza gratis](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal**: [Aplicar aquí](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

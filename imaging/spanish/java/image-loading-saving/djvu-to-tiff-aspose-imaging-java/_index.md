@@ -297,7 +297,7 @@ Al trabajar con Aspose.Imaging para Java, tenga en cuenta los siguientes consejo
 - **Compra:** [Comprar Aspose.Imaging para Java](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Pruebe Aspose.Imaging gratis](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** [Solicitar una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo esta guía, adquirirá las habilidades necesarias para gestionar conversiones de DjVu a TIFF de forma eficiente. ¡Siga explorando y mejorando sus aplicaciones Java con Aspose.Imaging!
 

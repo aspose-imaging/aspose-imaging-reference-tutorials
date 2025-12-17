@@ -192,7 +192,7 @@ Aspose.Imaging Java 是一個強大的圖像處理和操作庫，非常適合創
 - **購買**： [購買 Aspose 許可證](https://purchase.aspose.com/buy)
 - **免費試用**： [免費試用 Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **臨時執照**： [在此請求](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 探索這些資源，加深您的理解，並在您的專案中擴展 Aspose.Imaging Java 的功能。祝您程式愉快！
 

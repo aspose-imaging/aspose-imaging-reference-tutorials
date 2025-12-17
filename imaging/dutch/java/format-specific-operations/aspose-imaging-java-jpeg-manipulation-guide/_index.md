@@ -184,7 +184,7 @@ A5: Optimaliseer uw code door bronnen effectief te beheren en de juiste dimensie
 - **Licentie kopen:** [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Probeer gratis](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum:** [Aspose Imaging-ondersteuning](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum:** [Aspose Imaging-ondersteuning](https://forum.aspose.com/c/imaging/14)
 
 Veel plezier met coderen en ontdek de mogelijkheden van Aspose.Imaging voor Java!
 

@@ -211,7 +211,7 @@ image.save(outDir + "outputFile_JpegLs.jpg", jpegOptionsJpegLs);
 - **Αγορά**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε μια δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, είστε άρτια εξοπλισμένοι για να εφαρμόσετε προηγμένες τεχνικές συμπίεσης εικόνας χρησιμοποιώντας το Aspose.Imaging για Java. Εξερευνήστε περαιτέρω και ενσωματώστε αυτές τις μεθόδους στα έργα σας για να επιτύχετε βέλτιστη απόδοση και ποιότητα.
 

@@ -174,7 +174,7 @@ Selamat karena telah menguasai proses konversi bingkai TIFF ke berkas BMP menggu
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda untuk menguasai pemrosesan gambar dengan Aspose.Imaging Java dan buka kemungkinan baru dalam menangani gambar TIFF.
 

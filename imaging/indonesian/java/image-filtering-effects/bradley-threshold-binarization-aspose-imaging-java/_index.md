@@ -198,7 +198,7 @@ A5: Pertimbangkan untuk mengoptimalkan lingkungan Java Anda untuk manajemen memo
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Akses Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Permintaan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Jelajahi sumber daya ini untuk memperdalam pemahaman Anda dan menyempurnakan proyek pemrosesan gambar Anda dengan Aspose.Imaging untuk Java. Selamat membuat kode!
 

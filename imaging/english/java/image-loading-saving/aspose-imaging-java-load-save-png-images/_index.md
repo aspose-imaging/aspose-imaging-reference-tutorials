@@ -185,7 +185,7 @@ Ready to implement these solutions? Give it a try in your next project!
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/java/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Implement these techniques in your Java projects to harness the full potential of Aspose.Imaging for seamless image processing and manipulation.
 

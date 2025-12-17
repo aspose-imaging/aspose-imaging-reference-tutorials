@@ -214,7 +214,7 @@ R : Absolument. Il gère efficacement divers formats d'image, y compris les fich
 - **Achat**: [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Essayez Aspose.Imaging gratuitement](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**: [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Maintenant que vous êtes équipé de ces connaissances, allez-y et essayez d'implémenter ces fonctionnalités dans vos applications Java !
 

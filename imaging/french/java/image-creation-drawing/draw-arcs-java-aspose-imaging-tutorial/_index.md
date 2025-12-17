@@ -182,7 +182,7 @@ Dans ce tutoriel, nous avons expliqué comment dessiner des arcs sur des images 
 - [Acheter une licence](https://purchase.aspose.com/buy)
 - [Obtenez un essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Informations sur les licences temporaires](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 N'hésitez pas à consulter ces ressources pour obtenir des informations plus détaillées et de l'aide. Bon codage !
 

@@ -148,7 +148,7 @@ image.crop(new Rectangle(92, 179, 260, 197));
    - Комплект разработки Java (JDK) и совместимая IDE.
 
 5. **Доступна ли поддержка по устранению неполадок?**
-   - Посещать [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10) за помощь.
+   - Посещать [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14) за помощь.
 
 ## Ресурсы
 

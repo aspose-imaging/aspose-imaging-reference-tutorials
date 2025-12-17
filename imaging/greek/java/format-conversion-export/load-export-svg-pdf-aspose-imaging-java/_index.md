@@ -198,7 +198,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - [Αγορά](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/14)
 
 Ξεκινήστε να εφαρμόζετε αυτές τις λειτουργίες στα έργα σας σήμερα και δείτε πώς το Aspose.Imaging για Java μπορεί να βελτιώσει τη ροή εργασίας σας!
 

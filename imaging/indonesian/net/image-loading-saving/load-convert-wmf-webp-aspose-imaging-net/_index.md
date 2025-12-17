@@ -191,7 +191,7 @@ Siap untuk menerapkan keterampilan baru Anda? Cobalah menerapkan fitur-fitur ini
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Manfaatkan sumber daya ini untuk memperdalam pemahaman Anda dan meningkatkan implementasi Aspose.Imaging untuk .NET. Selamat membuat kode!
 

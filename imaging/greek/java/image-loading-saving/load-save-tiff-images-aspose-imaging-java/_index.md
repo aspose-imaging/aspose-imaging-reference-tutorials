@@ -171,7 +171,7 @@ image.save(outDir + "/TiffOptionsConfiguration_out.tiff", options); // Αποθ�
 - **Αγορά**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Έναρξη δωρεάν δοκιμής](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Αυτό το σεμινάριο σας εξοπλίζει με τις γνώσεις για να εφαρμόσετε αποτελεσματικά την επεξεργασία εικόνας TIFF στις εφαρμογές Java σας. Καλή κωδικοποίηση!
 

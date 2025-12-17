@@ -189,7 +189,7 @@ Bằng cách triển khai xử lý DJVU đa luồng với Aspose.Imaging .NET, b
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Truy cập dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Thông tin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) 
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Bắt đầu hành trình xử lý hình ảnh hiệu quả với Aspose.Imaging và khai thác toàn bộ tiềm năng của xử lý hình ảnh DJVU đa luồng trong .NET!
 

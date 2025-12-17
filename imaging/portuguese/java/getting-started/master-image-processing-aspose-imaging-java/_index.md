@@ -209,7 +209,7 @@ Agora você domina como redimensionar imagens JPG e criar arquivos TIFF multiqua
 5. **Como os quadros TIFF melhoram o gerenciamento de imagens?**  
    Consolidando várias imagens em um único arquivo, fica mais fácil manipular e distribuir grandes coleções de imagens relacionadas.
 
-Para mais recursos, consulte o Aspose.Imaging [documentação](https://reference.aspose.com/imaging/java/) e explorar seus [página de download](https://releases.aspose.com/imaging/java/) para obter as atualizações mais recentes. Para qualquer dúvida de suporte, visite o [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+Para mais recursos, consulte o Aspose.Imaging [documentação](https://reference.aspose.com/imaging/java/) e explorar seus [página de download](https://releases.aspose.com/imaging/java/) para obter as atualizações mais recentes. Para qualquer dúvida de suporte, visite o [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

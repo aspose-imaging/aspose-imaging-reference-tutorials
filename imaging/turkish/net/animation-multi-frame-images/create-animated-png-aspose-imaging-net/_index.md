@@ -172,7 +172,7 @@ Artık Aspose.Imaging for .NET kullanarak tek bir görüntüden APNG oluşturmay
 - **Satın almak**: Tam lisans için şuraya gidin: [Aspose Satın Alma](https://purchase.aspose.com/buy).
 - **Ücretsiz Deneme**: Bir denemeyle başlayın [Aspose Ücretsiz Denemeler](https://releases.aspose.com/imaging/net/).
 - **Geçici Lisans**: Geçici erişim elde edin [Lisans Sayfası](https://purchase.aspose.com/temporary-license/).
-- **Destek**: Tartışmalara katılın veya sorular sorun [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Destek**: Tartışmalara katılın veya sorular sorun [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Aspose.Imaging for .NET ile büyüleyici animasyonlar oluşturma yolculuğunuza çıkın, hem teknik becerilerinizi hem de proje sonuçlarınızı geliştirin.
 

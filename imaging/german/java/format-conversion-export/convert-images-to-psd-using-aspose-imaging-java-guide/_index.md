@@ -258,7 +258,7 @@ A5: Verwenden Sie Try-Catch-Blöcke, um potenzielle Ausnahmen wie „Datei nicht
 - **Kaufen**: [Aspose Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Kostenlos testen](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Hier anfordern](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

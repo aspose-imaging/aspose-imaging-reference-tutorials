@@ -182,7 +182,7 @@ Siguiendo esta guía, ha aprendido a convertir imágenes CMX a TIFF eficazmente 
 4. **¿Qué debo hacer si mis archivos TIFF aparecen dañados después de la conversión?**
    - Verifique que las opciones de rasterización coincidan con los requisitos de su imagen y verifique las rutas de archivos para detectar errores.
 5. **¿Hay soporte disponible si encuentro problemas con Aspose.Imaging?**
-   - Sí, visita el [Foro de Aspose](https://forum.aspose.com/c/imaging/10) para obtener apoyo de la comunidad o comuníquese directamente con su equipo de soporte.
+   - Sí, visita el [Foro de Aspose](https://forum.aspose.com/c/imaging/14) para obtener apoyo de la comunidad o comuníquese directamente con su equipo de soporte.
 
 ## Recursos
 - [Documentación de Aspose.Imaging](https://reference.aspose.com/imaging/net/)

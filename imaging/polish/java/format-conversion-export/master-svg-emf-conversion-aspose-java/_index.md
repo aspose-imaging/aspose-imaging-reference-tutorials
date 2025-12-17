@@ -204,7 +204,7 @@ A5: Korzystaj z funkcji przetwarzania wsadowego i upewnij się, że Twoja maszyn
 - [Pobierz Aspose.Imaging dla Java](https://releases.aspose.com/imaging/java/)
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna i licencja tymczasowa](https://releases.aspose.com/imaging/java/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Zanurz się w tych zasobach, aby poszerzyć swoją wiedzę i możliwości dzięki Aspose.Imaging for Java. Miłego kodowania!
 

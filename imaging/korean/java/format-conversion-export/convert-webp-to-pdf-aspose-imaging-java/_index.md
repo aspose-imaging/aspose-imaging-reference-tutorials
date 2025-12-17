@@ -198,7 +198,7 @@ WebP를 PDF로 변환하는 것이 유익한 몇 가지 시나리오는 다음�
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험 정보](https://releases.aspose.com/imaging/java/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 종합 가이드는 Aspose.Imaging for Java를 효과적으로 활용하여 디지털 미디어 프로젝트를 향상시키는 데 필요한 기술을 익히는 데 도움이 됩니다. 즐거운 코딩 되세요!
 

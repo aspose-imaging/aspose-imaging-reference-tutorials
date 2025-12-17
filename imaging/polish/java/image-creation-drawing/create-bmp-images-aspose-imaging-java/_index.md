@@ -170,7 +170,7 @@ A3: Stosuj efektywne techniki zarządzania pamięcią, takie jak „wypróbuj za
 A4: Tak, Aspose.Imaging można używać razem z innymi bibliotekami Java w celu tworzenia kompleksowych rozwiązań do przetwarzania obrazu.
 
 **P5: Gdzie mogę uzyskać pomoc, jeśli napotkam problemy?**
-A5: Odwiedź [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10) w celu uzyskania pomocy i wskazówek od społeczności.
+A5: Odwiedź [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14) w celu uzyskania pomocy i wskazówek od społeczności.
 
 ## Zasoby
 

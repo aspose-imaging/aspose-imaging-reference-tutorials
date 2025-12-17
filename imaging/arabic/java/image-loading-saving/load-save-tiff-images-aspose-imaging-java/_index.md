@@ -171,7 +171,7 @@ image.save(outDir + "/TiffOptionsConfiguration_out.tiff", options); // احفظ 
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [ابدأ التجربة المجانية](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 يُزوِّدك هذا البرنامج التعليمي بالمعرفة اللازمة لتطبيق معالجة صور TIFF بكفاءة في تطبيقات جافا. برمجة ممتعة!
 

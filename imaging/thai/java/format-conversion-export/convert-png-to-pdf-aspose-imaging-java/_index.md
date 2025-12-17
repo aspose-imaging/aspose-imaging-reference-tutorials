@@ -194,7 +194,7 @@ try (PngImage pngImage = (PngImage) Image.load("YOUR_DOCUMENT_DIRECTORY/aspose_l
 - [ซื้อ](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - [ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/14)
 
 เริ่มต้นโครงการถัดไปของคุณด้วยความมั่นใจ เมื่อรู้ว่า Aspose.Imaging สำหรับ Java จะช่วยคุณได้!
 

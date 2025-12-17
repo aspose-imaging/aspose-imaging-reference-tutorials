@@ -179,7 +179,7 @@ W tym samouczku nauczyłeś się, jak ładować obrazy DICOM i konwertować je d
 - [Opcje zakupu](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Postępując zgodnie z tym przewodnikiem, powinieneś być teraz dobrze wyposażony do obsługi obrazów DICOM przy użyciu Aspose.Imaging dla Java. Miłego kodowania!
 

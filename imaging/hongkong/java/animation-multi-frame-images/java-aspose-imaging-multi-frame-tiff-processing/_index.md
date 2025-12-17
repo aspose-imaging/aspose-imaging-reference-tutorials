@@ -181,7 +181,7 @@ import com.aspose.imaging.Image;
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用版下載](https://releases.aspose.com/imaging/java/)
 - [申請臨時許可證](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 請按照本指南操作，您將能夠順利掌握使用 Java 中的 Aspose.Imaging 進行 TIFF 影像處理的方法。祝您程式愉快！
 

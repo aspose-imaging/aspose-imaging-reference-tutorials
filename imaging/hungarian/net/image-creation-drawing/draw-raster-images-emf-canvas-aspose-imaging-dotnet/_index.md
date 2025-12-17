@@ -142,7 +142,7 @@ A legjobb gyakorlatok közé tartozik a `using` utasítások az automatikus megs
 ## Következtetés
 Most már megtanultad, hogyan rajzolhatsz raszteres képeket EMF vásznakra az Aspose.Imaging for .NET segítségével. Ez a képesség jelentősen javíthatja projektjeid vizuális minőségét, a vektoros pontosság és a rasztergazdagság ötvözetét kínálva.
 
-A továbblépés során érdemes lehet az Aspose.Imaging további funkcióit is megvizsgálni, vagy integrálni ezt a funkciót az alkalmazásain belüli nagyobb munkafolyamatokba. Ha további kérdései vannak, forduljon hozzánk bizalommal a következő elérhetőségeken keresztül: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10).
+A továbblépés során érdemes lehet az Aspose.Imaging további funkcióit is megvizsgálni, vagy integrálni ezt a funkciót az alkalmazásain belüli nagyobb munkafolyamatokba. Ha további kérdései vannak, forduljon hozzánk bizalommal a következő elérhetőségeken keresztül: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14).
 
 ## GYIK szekció
 **1. Mi az az EMF fájl?**

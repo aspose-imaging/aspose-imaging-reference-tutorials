@@ -182,7 +182,7 @@ A3: يؤدي ضغط التفريغ إلى تقليل حجم الملف مع ال
 - **شراء**: [شراء ترخيص Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [ابدأ تجربتك المجانية](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 لا تتردد في استكشاف هذه الموارد والبدء في تنفيذ مشاريع معالجة الصور الخاصة بك بثقة باستخدام Aspose.Imaging for Java.
 

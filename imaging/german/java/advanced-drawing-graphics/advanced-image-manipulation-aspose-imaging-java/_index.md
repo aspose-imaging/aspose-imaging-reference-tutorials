@@ -257,7 +257,7 @@ A5: Stellen Sie sicher, dass das Ausgabeformat Transparenz unterstützt (z. B. P
 - **Kaufen**: [Aspose-Kaufseite](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Testen Sie die kostenlose Testversion von Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Temporäre Lizenz anfordern](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum**: [Aspose Support-Community](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum**: [Aspose Support-Community](https://forum.aspose.com/c/imaging/14)
 
 Viel Spaß beim Programmieren!
 

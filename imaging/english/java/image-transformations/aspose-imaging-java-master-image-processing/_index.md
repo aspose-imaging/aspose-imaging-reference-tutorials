@@ -216,7 +216,7 @@ Common issues include incorrect path configurations and unsupported file formats
 
 **5. How do I get support if I encounter issues?**
 
-Visit [Aspose Support](https://forum.aspose.com/c/imaging/10) to seek help from the community or reach out directly for more assistance.
+Visit [Aspose Support](https://forum.aspose.com/c/imaging/14) to seek help from the community or reach out directly for more assistance.
 
 ## Resources
 

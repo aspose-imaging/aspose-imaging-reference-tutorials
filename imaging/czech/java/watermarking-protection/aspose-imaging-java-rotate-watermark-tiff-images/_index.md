@@ -258,7 +258,7 @@ A5: Zvažte zpracování velkých obrázků v menších blocích s využitím mo
 - **Licence k zakoupení:** [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Získejte bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory:** [Podpora Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory:** [Podpora Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Doufáme, že vám tento tutoriál pomohl získat dovednosti potřebné k vylepšení vašich úloh zpracování obrazu pomocí Aspose.Imaging pro Javu. Přejeme vám hodně štěstí při programování!
 

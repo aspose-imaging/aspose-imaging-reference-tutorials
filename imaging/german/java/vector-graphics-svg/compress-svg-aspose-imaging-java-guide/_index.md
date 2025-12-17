@@ -211,7 +211,7 @@ In diesem Tutorial haben wir untersucht, wie Sie komprimierte SVG-Dateien mit As
 - [Kaufen](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Durch die Nutzung dieser Ressourcen können Sie die Fähigkeiten von Aspose.Imaging weiter erkunden und Ihre Java-Anwendungen mit leistungsstarken Bildverarbeitungsfunktionen erweitern.
 

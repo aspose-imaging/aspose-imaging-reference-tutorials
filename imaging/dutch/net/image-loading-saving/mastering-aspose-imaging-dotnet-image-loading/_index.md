@@ -150,7 +150,7 @@ A: Het ondersteunt een breed scala aan formaten, waaronder JPEG, PNG, TIFF en me
 A: U kunt beginnen met een gratis proefversie of een tijdelijke licentie om de functies uit te proberen voordat u tot aankoop overgaat.
 
 **V: Hoe los ik veelvoorkomende problemen met het laden van afbeeldingen in Aspose.Imaging op?**
-A: Controleer bestandspaden, controleer bibliotheekversies en raadpleeg de [ondersteuningsforum](https://forum.aspose.com/c/imaging/10) voor hulp.
+A: Controleer bestandspaden, controleer bibliotheekversies en raadpleeg de [ondersteuningsforum](https://forum.aspose.com/c/imaging/14) voor hulp.
 
 ## Bronnen
 - **Documentatie**: [Aspose.Imaging .NET-referentie](https://reference.aspose.com/imaging/net/)
@@ -158,7 +158,7 @@ A: Controleer bestandspaden, controleer bibliotheekversies en raadpleeg de [onde
 - **Aankoop- en licentie-informatie**: [Aspose Aankooppagina](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Start uw gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

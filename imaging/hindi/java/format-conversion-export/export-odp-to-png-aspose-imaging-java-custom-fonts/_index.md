@@ -202,7 +202,7 @@ Aspose.Imaging की संभावनाओं को और अधिक ज
 - **खरीदना:** [Aspose लाइसेंसिंग खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [अपना नि: शुल्क परीक्षण शुरू करो](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस:** [अस्थायी लाइसेंस के लिए आवेदन करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता:** [Aspose.Imaging फ़ोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता:** [Aspose.Imaging फ़ोरम](https://forum.aspose.com/c/imaging/14)
 
 हमें उम्मीद है कि यह गाइड आपको अपने जावा प्रोजेक्ट में Aspose.Imaging को सहजता से लागू करने में मदद करेगी। हैप्पी कोडिंग!
 

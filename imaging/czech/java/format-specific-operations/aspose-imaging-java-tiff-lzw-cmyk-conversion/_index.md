@@ -179,7 +179,7 @@ A3: Můžete začít s bezplatnou zkušební licencí, která vám umožní vyzk
 A4: Používejte dávkové zpracování a efektivní techniky správy zdrojů, jako je likvidace obrázků po použití. Pokud je to možné, zvažte také optimalizaci rozlišení před konverzí.
 
 **Q5: Kde najdu podporu, pokud narazím na problémy s Aspose.Imaging?**
-A5: V případě jakýchkoli dotazů nebo problémů navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) kde můžete najít pomoc jak od komunity, tak od oficiálních zástupců.
+A5: V případě jakýchkoli dotazů nebo problémů navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) kde můžete najít pomoc jak od komunity, tak od oficiálních zástupců.
 
 ## Zdroje
 

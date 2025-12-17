@@ -189,7 +189,7 @@ A5: Wykorzystaj różne metody udostępniane przez Aspose.Imaging, aby zastosowa
 - **Zakup**:Zabezpiecz licencję, aby odblokować pełne funkcje na [Strona zakupu Aspose](https://purchase.aspose.com/buy).
 - **Bezpłatna wersja próbna**:Przetestuj możliwości Aspose.Imaging za pośrednictwem [bezpłatne pobieranie wersji próbnych](https://releases.aspose.com/imaging/java/).
 - **Licencja tymczasowa**:Poproś o tymczasową licencję na rozszerzone testy [Tutaj](https://purchase.aspose.com/temporary-license/).
-- **Wsparcie**: W przypadku pytań lub potrzeby pomocy odwiedź stronę [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10).
+- **Wsparcie**: W przypadku pytań lub potrzeby pomocy odwiedź stronę [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14).
 
 Rozpocznij przygodę z przetwarzaniem obrazu już dziś i odkryj pełen potencjał Aspose.Imaging w Javie!
 

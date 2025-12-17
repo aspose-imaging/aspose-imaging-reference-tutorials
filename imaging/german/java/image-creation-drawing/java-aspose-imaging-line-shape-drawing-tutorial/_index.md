@@ -241,7 +241,7 @@ Sie haben gelernt, wie Sie die Aspose.Imaging-Bibliothek nutzen, um Linien, Form
 - [Kaufoptionen](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Nachdem Sie nun eine umfassende Anleitung zur Implementierung von Zeichenfunktionen mit Aspose.Imaging für Java erhalten haben, können Sie mit dem Experimentieren beginnen und diese Techniken in Ihre Projekte integrieren. Viel Spaß beim Programmieren!
 

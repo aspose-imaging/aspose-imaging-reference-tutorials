@@ -219,7 +219,7 @@ A5: 네, Aspose.Imaging을 사용하면 사용자의 특정 요구 사항에 맞
 - **구입:** [라이센스 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [Aspose.Imaging을 무료로 사용해 보세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허:** [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼:** [Aspose 지원](https://forum.aspose.com/c/imaging/10) 
+- **지원 포럼:** [Aspose 지원](https://forum.aspose.com/c/imaging/14) 
 
 지금 Aspose.Imaging for .NET으로 여정을 시작하고, 이미지 작업 방식을 혁신해보세요!
 

@@ -244,7 +244,7 @@ In deze tutorial leer je hoe je Aspose.Imaging voor Java instelt en gebruikt om 
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Aspose.Imaging gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose.Imaging Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose.Imaging Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Met Aspose.Imaging voor Java kunt u naadloos hoogwaardige EMF-lettertypen en tekstrendering integreren in uw toepassingen, waardoor zowel de functionaliteit als de visuele aantrekkingskracht worden verbeterd.
 

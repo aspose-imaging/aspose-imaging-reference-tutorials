@@ -138,7 +138,7 @@ Prozkoumejte další funkce Aspose.Imaging nebo integrujte další techniky zpra
 2. **Mohu převést obrázky do jiných formátů než BMP?**
    - Ano, Aspose.Imaging podporuje různé výstupní formáty, jako je JPEG a PNG.
 3. **Jak řeším problémy během převodu obrázků?**
-   - Zkontrolujte cesty k souborům, ujistěte se, že je použita správná verze knihovny, a podívejte se na [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10).
+   - Zkontrolujte cesty k souborům, ujistěte se, že je použita správná verze knihovny, a podívejte se na [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14).
 4. **Je Aspose.Imaging vhodný pro aplikace v reálném čase?**
    - I když je robustní, zvažte optimalizaci výkonu pro potřeby zpracování v reálném čase.
 5. **Jaké jsou některé běžné případy použití pro převod stupňů šedi do DICOM?**
@@ -150,7 +150,7 @@ Prozkoumejte další funkce Aspose.Imaging nebo integrujte další techniky zpra
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/net/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

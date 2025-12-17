@@ -237,7 +237,7 @@ A5：有免费试用选项，但完整功能需要购买许可证或获取临时
 - **购买**： [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用**： [获取免费试用](https://releases.aspose.com/imaging/java/)
 - **临时执照**： [申请临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持**： [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**： [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 遵循本指南，您将能够充分运用 Aspose.Imaging for Java 完成 DICOM 处理任务。祝您编码愉快！
 

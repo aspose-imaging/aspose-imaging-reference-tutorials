@@ -224,7 +224,7 @@ Agora você aprendeu a carregar, decodificar, ler propriedades e converter image
 - **Comprar:** [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Comece com um teste gratuito](https://releases.aspose.com/imaging/java/)
 - **Licença temporária:** [Solicitar Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar:** [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar:** [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Esperamos que este guia tenha sido útil para você dominar o processamento de imagens JPEG com o Aspose.Imaging para Java. Experimente implementar essas soluções para ver como elas podem aprimorar seus projetos!
 

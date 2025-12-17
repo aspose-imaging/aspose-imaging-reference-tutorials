@@ -172,7 +172,7 @@ Take the next step by experimenting with different configurations and use cases 
 - **Purchase:** Buy a license at [Aspose Licensing Page](https://purchase.aspose.com/buy).
 - **Free Trial:** Try Aspose.Imaging with a free trial available on their release page.
 - **Temporary License:** Obtain extended access via the temporary licensing option.
-- **Support:** Join discussions or seek help on the [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Support:** Join discussions or seek help on the [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Feel encouraged to experiment and integrate synchronized stream access into your Java projects for enhanced stability and performance!
 

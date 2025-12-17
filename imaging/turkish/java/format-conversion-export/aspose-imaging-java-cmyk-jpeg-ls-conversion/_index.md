@@ -173,7 +173,7 @@ Aspose.Imaging'in yeteneklerini daha fazla keşfetmek için, belgelerine daha de
    - İşlemi daha küçük parçalara bölmeyi veya kütüphanenin sağladığı bellek açısından verimli yöntemleri kullanmayı düşünün.
 
 5. **Sorun yaşarsam nereden destek alabilirim?**
-   - Ziyaret etmek [Aspose'un Destek Forumu](https://forum.aspose.com/c/imaging/10) Topluluk uzmanlarından ve Aspose çalışanlarından yardım isteyin.
+   - Ziyaret etmek [Aspose'un Destek Forumu](https://forum.aspose.com/c/imaging/14) Topluluk uzmanlarından ve Aspose çalışanlarından yardım isteyin.
 
 ## Kaynaklar
 

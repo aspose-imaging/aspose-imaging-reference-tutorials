@@ -191,7 +191,7 @@ A5: Да, Aspose.Imaging поддерживает широкий спектр ф
 - **Покупка:** [Купить Aspose.License](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия:** [Начните бесплатную пробную версию](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия:** [Получить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать:** [Форум Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать:** [Форум Aspose](https://forum.aspose.com/c/imaging/14)
 
 Следуя этому руководству, вы вооружились навыками эффективного решения задач бинаризации изображений с помощью Aspose.Imaging для Java. Удачного кодирования!
 

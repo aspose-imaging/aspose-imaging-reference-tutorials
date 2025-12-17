@@ -179,7 +179,7 @@ Redo att förbättra dina medicinska bildbehandlingsprojekt? Börja med att inte
 - **Köplicens:** [Köp nu](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Starta din gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Ansökan om tillfällig licens:** [Begär här](https://purchase.aspose.com/temporary-license/)
-- **Supportforum:** [Aspose Support Community](https://forum.aspose.com/c/imaging/10)
+- **Supportforum:** [Aspose Support Community](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden är du väl rustad för att hantera DICOM-bildbehandlingsuppgifter i dina Java-applikationer med Aspose.Imaging. Lycka till med kodningen!
 

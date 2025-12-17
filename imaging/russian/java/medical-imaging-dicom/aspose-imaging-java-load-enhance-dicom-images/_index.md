@@ -203,7 +203,7 @@ try (FileInputStream fis = new FileInputStream(file)) {
 - [Лицензия на покупку](https://purchase.aspose.com/buy)
 - [Бесплатная пробная версия](https://releases.aspose.com/imaging/java/)
 - [Временная лицензия](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки](https://forum.aspose.com/c/imaging/14)
 
 С помощью этого руководства вы теперь готовы улучшить свои приложения Java с помощью мощных возможностей обработки изображений с помощью Aspose.Imaging. Удачного кодирования!
 

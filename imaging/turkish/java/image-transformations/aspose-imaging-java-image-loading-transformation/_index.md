@@ -183,7 +183,7 @@ C5: Evet, farklı Java ortamlarına sorunsuz bir şekilde entegre olabilecek şe
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Java'da Aspose.Imaging'i daha iyi anlamak ve uygulamak için bu kaynakları inceleyin.
 

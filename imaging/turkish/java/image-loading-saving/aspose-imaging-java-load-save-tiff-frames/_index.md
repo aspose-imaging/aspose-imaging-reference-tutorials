@@ -211,7 +211,7 @@ Bu eğitimde, Aspose.Imaging for Java kullanarak TIFF karelerini yükleme, kopya
 - **Satın almak**: Ticari kullanım için lisans satın alın [bu bağlantı](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: Özellikleri test etmek için ücretsiz denemeyle başlayın [Aspose'un web sitesi](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: Genişletilmiş değerlendirme için geçici bir lisans edinin [Burada](https://purchase.aspose.com/temporary-license/)
-- **Destek**: Tartışmalara katılın veya yardım isteyin [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek**: Tartışmalara katılın veya yardım isteyin [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

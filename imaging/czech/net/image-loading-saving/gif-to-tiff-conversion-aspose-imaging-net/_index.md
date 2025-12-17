@@ -177,7 +177,7 @@ A: Formát TIFF poskytuje vyšší kvalitu a podporuje více barevných hloubek,
 - **Zakoupit licenci**: [Nákupní stránka Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte Aspose.Imaging zdarma](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora a komunita**: [Fóra Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora a komunita**: [Fóra Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

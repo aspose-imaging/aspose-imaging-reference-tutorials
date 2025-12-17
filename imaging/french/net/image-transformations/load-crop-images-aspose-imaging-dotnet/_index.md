@@ -180,7 +180,7 @@ Pour développer vos compétences, explorez les fonctionnalités supplémentaire
 - **Licence d'achat :** https://purchase.aspose.com/buy
 - **Essai gratuit :** https://releases.aspose.com/imaging/net/
 - **Licence temporaire :** https://purchase.aspose.com/temporary-license/
-- **Forum d'assistance :** https://forum.aspose.com/c/imaging/10
+- **Forum d'assistance :** https://forum.aspose.com/c/imaging/14
 
 Commencez dès aujourd’hui à intégrer ces techniques de traitement d’images dans vos projets et constatez la différence en termes de performances et d’efficacité !
 

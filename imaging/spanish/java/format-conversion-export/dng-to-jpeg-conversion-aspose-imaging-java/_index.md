@@ -183,7 +183,7 @@ Ya aprendió a convertir imágenes DNG a JPEG con Aspose.Imaging para Java. Esta
    Sí, el `JpegOptions` La clase proporciona métodos para configurar la calidad de salida y otros parámetros.
 
 5. **¿Dónde puedo obtener ayuda si tengo problemas?**
-   Visita el [Foro de Aspose.Imaging](https://forum.aspose.com/c/imaging/10) Para obtener apoyo de la comunidad o comuníquese directamente con Aspose a través de sus canales de soporte.
+   Visita el [Foro de Aspose.Imaging](https://forum.aspose.com/c/imaging/14) Para obtener apoyo de la comunidad o comuníquese directamente con Aspose a través de sus canales de soporte.
 
 ## Recursos
 

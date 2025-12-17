@@ -231,7 +231,7 @@ In questo tutorial, hai imparato come impostare un font predefinito nella tua ap
 - [Acquista una licenza](https://purchase.aspose.com/buy)
 - [Versione di prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Ottieni una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 Seguendo questa guida, sarai pronto a gestire complesse attività di elaborazione delle immagini in Java utilizzando Aspose.Imaging. Buon lavoro!
 

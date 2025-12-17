@@ -180,7 +180,7 @@ Prêt à développer vos compétences ? Essayez ces techniques et découvrez co
 - [Achat](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce guide complet, vous devriez maintenant être équipé pour gérer efficacement les tâches de traitement d'images DICOM à l'aide d'Aspose.Imaging pour Java.
 

@@ -171,7 +171,7 @@ DIB（设备独立位图）是一种位图图像格式，主要由 Microsoft Win
 - **购买：** [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用：** [尝试 Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **临时执照：** [申请临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 按照本指南操作，您现在已做好充分准备，可以使用 Aspose.Imaging for Java 处理图像处理任务。祝您编码愉快！
 

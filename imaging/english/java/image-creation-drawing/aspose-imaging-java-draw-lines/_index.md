@@ -241,7 +241,7 @@ Throughout this tutorial, we explored how to configure bitmap options and draw l
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/java/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 By leveraging these resources, you can enhance your understanding and usage of Aspose.Imaging for Java in your projects. Happy coding!
 

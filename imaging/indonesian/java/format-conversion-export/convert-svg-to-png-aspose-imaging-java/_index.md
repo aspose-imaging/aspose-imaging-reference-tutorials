@@ -222,7 +222,7 @@ Siap menerapkan apa yang telah Anda pelajari? Cobalah mengonversi dan mengubah u
 - [Dokumentasi Aspose.Imaging untuk Java](https://reference.aspose.com/imaging/java/)
 - [Unduh Aspose.Imaging untuk Java](https://releases.aspose.com/imaging/java/)
 - [Beli Lisensi atau Dapatkan Uji Coba Gratis](https://purchase.aspose.com/buy)
-- [Dapatkan Dukungan dari Forum Komunitas](https://forum.aspose.com/c/imaging/10)
+- [Dapatkan Dukungan dari Forum Komunitas](https://forum.aspose.com/c/imaging/14)
 
 Dengan sumber daya dan panduan ini, Anda siap untuk mulai mengubah gambar SVG dengan percaya diri menggunakan Aspose.Imaging untuk Java. Selamat membuat kode!
 

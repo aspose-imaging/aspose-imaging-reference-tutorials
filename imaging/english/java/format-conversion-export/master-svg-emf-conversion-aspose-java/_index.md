@@ -211,7 +211,7 @@ A5: Use batch processing features and ensure your JVM has adequate memory alloca
 - [Download Aspose.Imaging for Java](https://releases.aspose.com/imaging/java/)
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Free Trial and Temporary License](https://releases.aspose.com/imaging/java/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Dive into these resources to expand your knowledge and capabilities with Aspose.Imaging for Java. Happy coding!
 

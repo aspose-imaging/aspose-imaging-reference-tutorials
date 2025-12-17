@@ -219,7 +219,7 @@ A5: Ano, Aspose.Imaging umožňuje komplexní přizpůsobení polí metadat tak,
 - **Nákup:** [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Vyzkoušejte Aspose.Imaging zdarma](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence:** [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory:** [Podpora Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Fórum podpory:** [Podpora Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Vydejte se na svou cestu s Aspose.Imaging pro .NET ještě dnes a zrevolucionizujte způsob, jakým pracujete s obrázky!
 

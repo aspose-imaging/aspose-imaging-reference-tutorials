@@ -193,7 +193,7 @@ image.Save(outputPath, new TiffOptions(TiffExpectedFormat.Default));
 - [Купить лицензию](https://purchase.aspose.com/buy)
 - [Бесплатная пробная версия](https://releases.aspose.com/imaging/net/)
 - [Запрос на временную лицензию](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Начните свой путь по оптимизации обработки TIFF с помощью Aspose.Imaging в .NET уже сегодня!
 

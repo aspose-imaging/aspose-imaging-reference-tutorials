@@ -158,7 +158,7 @@ Bu kılavuzu takip ederek, Aspose.Imaging for .NET kullanarak görsellere filigr
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme İndir](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans Edinimi](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kaynaklardan yararlanarak .NET için Aspose.Imaging kütüphanesini daha fazla keşfedebilir ve ustalaşabilirsiniz. İyi kodlamalar!
 

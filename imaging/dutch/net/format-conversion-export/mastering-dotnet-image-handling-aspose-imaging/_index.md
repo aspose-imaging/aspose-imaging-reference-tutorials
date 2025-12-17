@@ -170,7 +170,7 @@ In deze tutorial heb je de basisprincipes geleerd van het laden en opslaan van a
 - **Aankoop:** [Koop een licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Start uw gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie:** [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u nu in staat om vol vertrouwen .NET-beeldverwerking uit te voeren met Aspose.Imaging voor .NET. Veel plezier met coderen!
 

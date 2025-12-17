@@ -149,7 +149,7 @@ A3: Implemente bloques try-catch alrededor de su código de carga de imágenes p
 A4: Sí, puedes leer y escribir etiquetas EXIF con la API completa de Aspose.Imaging.
 
 **P5: ¿Dónde puedo obtener ayuda si tengo problemas?**
-A5: Visita el [Foro de Aspose.Imaging](https://forum.aspose.com/c/imaging/10) para apoyo comunitario y oficial.
+A5: Visita el [Foro de Aspose.Imaging](https://forum.aspose.com/c/imaging/14) para apoyo comunitario y oficial.
 
 ## Recursos
 

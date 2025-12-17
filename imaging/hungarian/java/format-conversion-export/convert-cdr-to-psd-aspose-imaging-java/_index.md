@@ -178,7 +178,7 @@ V: Igen, az Aspose.Imaging számos képformátumot támogat. Ellenőrizze a [dok
 
 **K: Hol találok segítséget, ha problémákba ütközöm?**
 
-V: Látogassa meg a [Aspose támogatói fórum](https://forum.aspose.com/c/imaging/10) a közösség és az Aspose szakértőinek segítségét kérem.
+V: Látogassa meg a [Aspose támogatói fórum](https://forum.aspose.com/c/imaging/14) a közösség és az Aspose szakértőinek segítségét kérem.
 
 ## Erőforrás
 

@@ -200,7 +200,7 @@ A4: A szürkeárnyalatos képek csak a szürkeárnyalatokat tartalmazzák, így 
 
 **5. kérdés: Hogyan kaphatok támogatást, ha problémákba ütközöm az Aspose.Imaging használatával?**
 
-A5: Látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10) közösségi szakértők és hivatalos támogató személyzet segítségét kérni.
+A5: Látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14) közösségi szakértők és hivatalos támogató személyzet segítségét kérni.
 
 ## Erőforrás
 

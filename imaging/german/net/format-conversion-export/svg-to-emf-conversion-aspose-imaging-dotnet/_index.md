@@ -133,7 +133,7 @@ Sie haben nun gelernt, wie Sie SVG-Dateien mit Aspose.Imaging für .NET in das E
 **Nächste Schritte:**
 - Entdecken Sie weitere Funktionen von Aspose.Imaging
 - Experimentieren Sie mit verschiedenen Konvertierungsoptionen
-- Geben Sie Feedback oder stellen Sie Fragen im [Aspose-Forum](https://forum.aspose.com/c/imaging/10)
+- Geben Sie Feedback oder stellen Sie Fragen im [Aspose-Forum](https://forum.aspose.com/c/imaging/14)
 
 Bereit, diese Fähigkeiten umzusetzen? Tauchen Sie ein in Ihr Projekt und beginnen Sie noch heute mit der Konvertierung!
 
@@ -160,7 +160,7 @@ A5: Überprüfen Sie die Dateipfade, stellen Sie sicher, dass Aspose.Imaging kor
 - **Kaufen**: [Kaufen Sie eine Lizenz](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Beginnen Sie mit einer kostenlosen Testversion](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Fordern Sie eine temporäre Lizenz an](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Nutzen Sie diese Ressourcen für ausführlichere Anleitungen und Unterstützung bei der Implementierung Ihrer Lösung. Viel Spaß beim Programmieren!
 

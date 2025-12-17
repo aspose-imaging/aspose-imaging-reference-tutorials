@@ -170,7 +170,7 @@ Voor verdere verkenning kunt u zich verdiepen in de meer geavanceerde functies v
 - **Aankooplicentie**: [Koop Aspose Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Begin met een gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Een tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Aspose.Imaging-ondersteuning](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Aspose.Imaging-ondersteuning](https://forum.aspose.com/c/imaging/14)
 
 Zet de volgende stap door deze optimalisaties in uw .NET-projecten te implementeren en ontdek hoe Aspose.Imaging uw beeldverwerkingstaken naar een hoger niveau kan tillen!
 

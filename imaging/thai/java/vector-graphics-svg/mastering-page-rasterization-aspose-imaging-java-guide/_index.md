@@ -210,7 +210,7 @@ class SinglePageRasterizationOptionsCreator {
 - **ซื้อ:** [ซื้อ Aspose.Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี:** [รับทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว:** [การขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน:** [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน:** [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14)
 
 ด้วยคู่มือนี้ คุณจะสามารถใช้ Aspose.Imaging Java ในโครงการของคุณได้อย่างมีประสิทธิภาพ ขอให้สนุกกับการเขียนโค้ด!
 

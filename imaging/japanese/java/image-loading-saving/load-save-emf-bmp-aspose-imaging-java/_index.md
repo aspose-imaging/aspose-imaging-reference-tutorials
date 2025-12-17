@@ -160,7 +160,7 @@ A: 不正なファイル パスやサポートされていない形式によっ�
 A: はい、Aspose は Java に加えて .NET、C++、その他のプラットフォーム用のライブラリも提供しています。
 
 **Q: 問題が発生した場合、サポートを受けることはできますか?**
-A: をご覧ください [Asposeフォーラム](https://forum.aspose.com/c/imaging/10) コミュニティと公式サポートのため。
+A: をご覧ください [Asposeフォーラム](https://forum.aspose.com/c/imaging/14) コミュニティと公式サポートのため。
 
 **Q: Aspose.Imaging を使用した画像処理のベスト プラクティスは何ですか?**
 A: 常にさまざまなファイル サイズでテストし、例外を適切に処理し、リソースを効果的に管理して、メモリ リークを防止します。
@@ -172,7 +172,7 @@ A: 常にさまざまなファイル サイズでテストし、例外を適切�
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルを開始](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このチュートリアルに従うことで、EMFファイルを効率的に処理し、JavaプロジェクトでAspose.Imagingの強力な機能を活用できるようになります。コーディングを楽しみましょう！
 

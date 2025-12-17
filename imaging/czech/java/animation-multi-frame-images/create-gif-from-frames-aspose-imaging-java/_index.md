@@ -175,7 +175,7 @@ Vyzkoušejte si toto řešení implementovat ještě dnes a uvidíte, jak vám v
 - **Dokumentace**: [Referenční příručka k Aspose.Imaging v Javě](https://reference.aspose.com/imaging/java/)
 - **Stáhnout**: [Aspose.Imaging Releases](https://releases.aspose.com/imaging/java/)
 - **Nákup a licencování**: [Koupit licenci Aspose](https://purchase.aspose.com/buy), [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/), [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- **Podpora**Zapojte se do komunity na [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**Zapojte se do komunity na [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Integrací Aspose.Imaging do vašich projektů v Javě můžete odemknout výkonné funkce pro zpracování obrazu, které zefektivní a vylepší vaše pracovní postupy. Přejeme vám příjemné programování!
 

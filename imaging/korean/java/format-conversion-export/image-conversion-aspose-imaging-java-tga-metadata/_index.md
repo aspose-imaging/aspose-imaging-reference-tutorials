@@ -199,7 +199,7 @@ try (TgaImage image = (TgaImage) Image.load(inputFile)) {
 - **선적 서류 비치**: 더 자세히 알아보세요 [Aspose.Imaging 문서](https://reference.aspose.com/imaging/java/).
 - **다운로드**: 최신 릴리스를 받으세요 [Aspose 릴리스 페이지](https://releases.aspose.com/imaging/java/).
 - **구매 및 무료 체험**: 오늘 기능을 사용해 보세요 [Aspose 구매 및 무료 체험 페이지](https://purchase.aspose.com/buy).
-- **지원하다**: 토론에 참여하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10).
+- **지원하다**: 토론에 참여하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/14).
 
 이 가이드가 Aspose.Imaging Java를 이미지 처리에 효과적으로 활용하는 데 도움이 되기를 바랍니다. 즐거운 코딩 되세요!
 

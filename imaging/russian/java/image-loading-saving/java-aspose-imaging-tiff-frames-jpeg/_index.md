@@ -254,7 +254,7 @@ Aspose.Imaging предлагает бесплатную пробную верс
 - **Документация:** Изучите подробные руководства на сайте [Документация Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - **Скачать:** Получите последнюю версию с сайта [Релизы Aspose.Imaging](https://releases.aspose.com/imaging/java/).
 - **Покупка и пробная версия:** Получите доступ к возможностям покупки или начните с бесплатной пробной версии на сайте [Страница покупки Aspose](https://purchase.aspose.com/buy) и [Бесплатная пробная версия](https://releases.aspose.com/imaging/java/).
-- **Поддерживать:** Если у вас есть вопросы, посетите [Форум Aspose](https://forum.aspose.com/c/imaging/10).
+- **Поддерживать:** Если у вас есть вопросы, посетите [Форум Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

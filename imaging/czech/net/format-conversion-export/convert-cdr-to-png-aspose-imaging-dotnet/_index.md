@@ -174,7 +174,7 @@ V tomto tutoriálu jste se naučili, jak převést soubory CDR do formátu PNG p
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Stáhnout zkušební verzi zdarma](https://releases.aspose.com/imaging/net/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na cestu konverze obrázků s Aspose.Imaging pro .NET a odemkněte nové možnosti ve svých aplikacích!
 

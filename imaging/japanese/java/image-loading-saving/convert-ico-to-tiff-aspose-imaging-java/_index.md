@@ -181,7 +181,7 @@ Aspose.Imaging の使用中に最適なパフォーマンスを確保するに�
 - [ライセンスオプションの購入](https://purchase.aspose.com/buy)
 - [無料トライアルダウンロード](https://releases.aspose.com/imaging/java/)
 - [臨時免許申請](https://purchase.aspose.com/temporary-license/)
-- [サポートとコミュニティフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートとコミュニティフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従うことで、Aspose.Imaging Java を使用して画像形式の変換を効率的に処理できるようになります。コーディングを楽しみましょう！
 

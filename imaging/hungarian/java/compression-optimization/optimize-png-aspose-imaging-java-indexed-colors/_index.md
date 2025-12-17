@@ -228,7 +228,7 @@ Próbáld ki ezt a megoldást a projektjeidben, és nézd meg a különbséget!
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbáld ki az Aspose.Imaging-et](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Képalkotó Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Képalkotó Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezen források felfedezésével elmélyítheted az Aspose.Imaging és képességeinek megértését. Jó kódolást!
 

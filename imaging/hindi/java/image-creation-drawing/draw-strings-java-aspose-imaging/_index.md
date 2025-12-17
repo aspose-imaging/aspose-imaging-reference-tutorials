@@ -204,7 +204,7 @@ image.save();
 - **खरीदना:** [Aspose.Imaging लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [Aspose.Imaging को निःशुल्क आज़माएँ](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस:** [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता:** [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10) 
+- **सहायता:** [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14) 
 
 Aspose.Imaging for Java के साथ अपनी समझ और क्षमताओं को बढ़ाने के लिए इन संसाधनों का अन्वेषण करें। हैप्पी कोडिंग!
 

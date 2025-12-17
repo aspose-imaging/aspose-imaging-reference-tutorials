@@ -176,7 +176,7 @@ A5: Absolut. Es ist so konzipiert, dass es problemlos integriert und zusammen mi
 - **Kaufen**: [Kaufen Sie eine Lizenz](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Hier beginnen](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Jetzt bewerben](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Community-Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Community-Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit diesem umfassenden Leitfaden sind Sie nun bestens gerüstet, um das Laden und Ändern der Bildgröße in Java mit Aspose.Imaging zu meistern. Viel Spaß beim Programmieren!
 

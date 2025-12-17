@@ -202,7 +202,7 @@ Igen, integráld az Aspose.Imaging-et a build szkriptekbe az APNG-k automatikus 
 - **Vásárlás:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Ingyenes próbaverzió igénylése](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével elsajátítottad az APNG-képek hatékony kezelésének képességeit .NET-alkalmazásaidban az Aspose.Imaging használatával. Jó kódolást!
 

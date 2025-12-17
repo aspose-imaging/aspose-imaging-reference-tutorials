@@ -161,7 +161,7 @@ Für weitere Informationen und Unterstützung:
 - **Kaufen**: [Erwerben Sie eine Lizenz](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Testen Sie Aspose.Imaging kostenlos](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Hier anfordern](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum**: [Aspose Support-Community](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum**: [Aspose Support-Community](https://forum.aspose.com/c/imaging/14)
 
 Mit diesem umfassenden Leitfaden sind Sie bestens gerüstet, um Bildverarbeitungsaufgaben in Ihren .NET-Anwendungen sicher und effizient zu bewältigen. Viel Spaß beim Programmieren!
 

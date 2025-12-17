@@ -184,7 +184,7 @@ A: Abonelik satın alın [Aspose'un satın alma sayfası](https://purchase.aspos
 - **Kütüphaneyi İndirin:** En son sürümü şu adresten edinin: [Aspose.Görüntüleme Sürümleri](https://releases.aspose.com/imaging/java/).
 - **Lisans Satın Al:** Ziyaret etmek [Aspose Satın Alma](https://purchase.aspose.com/buy) lisanslama seçenekleri için.
 - **Ücretsiz Deneme & Geçici Lisans:** Ücretsiz denemeyle başlayın veya geçici bir lisans edinin [Aspose Ücretsiz Deneme ve Lisanslama](https://releases.aspose.com/imaging/java/).
-- **Destek Forumu:** Toplulukla etkileşim kurun [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10).
+- **Destek Forumu:** Toplulukla etkileşim kurun [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

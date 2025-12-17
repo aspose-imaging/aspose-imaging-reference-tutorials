@@ -199,7 +199,7 @@ image.save(outputFile, new BmpOptions());
 - [खरीदना](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 यह ट्यूटोरियल आपको Aspose.Imaging Java का उपयोग करके DICOM छवियों में हेरफेर करने के ज्ञान से लैस करता है, जिससे यह सुनिश्चित होता है कि आपके अनुप्रयोग कुशल और स्केलेबल दोनों हैं। हैप्पी कोडिंग!
 

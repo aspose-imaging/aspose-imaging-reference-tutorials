@@ -153,7 +153,7 @@ A5: 네, 메모리 사용량을 효과적으로 관리하기 위한 다양한 �
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/net/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging으로 이미지 처리를 마스터하여 .NET 애플리케이션을 한 단계 업그레이드하세요!
 

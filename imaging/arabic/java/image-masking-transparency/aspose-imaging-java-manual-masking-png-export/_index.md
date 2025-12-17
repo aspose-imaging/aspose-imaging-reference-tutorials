@@ -218,7 +218,7 @@ try (MaskingResult maskingResults = new ImageMasking(image).decompose(maskingOpt
 - [شراء ترخيص](https://purchase.aspose.com/buy)
 - [الوصول إلى النسخة التجريبية المجانية](https://releases.aspose.com/imaging/java/)
 - [التقدم بطلب للحصول على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

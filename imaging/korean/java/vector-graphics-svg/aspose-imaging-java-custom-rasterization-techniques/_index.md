@@ -231,7 +231,7 @@ try (Image img = Image.load(dataDir + "missing-font.wmf")) {
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험판](https://releases.aspose.com/imaging/java/)
 - [임시 면허 취득](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따라 하면 Aspose.Imaging을 사용하여 Java에서 복잡한 이미지 처리 작업을 처리하는 데 필요한 역량을 갖추게 될 것입니다. 즐거운 코딩 되세요!
 

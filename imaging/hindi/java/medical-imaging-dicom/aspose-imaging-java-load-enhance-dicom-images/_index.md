@@ -203,7 +203,7 @@ try (FileInputStream fis = new FileInputStream(file)) {
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 इस ट्यूटोरियल के साथ, अब आप Aspose.Imaging का उपयोग करके शक्तिशाली इमेज प्रोसेसिंग क्षमताओं के साथ अपने जावा अनुप्रयोगों को बढ़ाने के लिए सुसज्जित हैं। हैप्पी कोडिंग!
 

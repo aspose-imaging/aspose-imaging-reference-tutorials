@@ -187,7 +187,7 @@ Aspose.Imaging을 사용하여 Java에서 이미지 처리 작업을 수행하�
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험 정보](https://releases.aspose.com/imaging/java/)
 - [임시 면허 요청](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따라 하면 이제 Aspose.Imaging for Java를 사용하여 래스터 이미지를 SVG 캔버스에 통합하는 방법을 익힐 수 있을 것입니다. 즐거운 코딩 되세요!
 

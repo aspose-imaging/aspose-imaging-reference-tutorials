@@ -250,7 +250,7 @@ A: Sorunsuz bir performans sağlamak için toplu işlem tekniklerini kullanmayı
 - **Satın almak:** [Aspose'u satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging'i kullanarak yeni yeteneklerin kilidini açmak ve görüntü işleme iş akışlarını kolaylaştırmak için bu özellikleri Java projelerinize uygulayın. İyi kodlamalar!
 

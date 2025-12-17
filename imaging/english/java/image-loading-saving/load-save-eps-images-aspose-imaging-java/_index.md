@@ -241,7 +241,7 @@ A: Utilize asynchronous operations, manage memory effectively, and consider cach
 - **Purchase:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Obtain a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

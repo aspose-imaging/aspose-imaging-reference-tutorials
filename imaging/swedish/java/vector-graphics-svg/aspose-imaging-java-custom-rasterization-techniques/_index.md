@@ -231,7 +231,7 @@ den här handledningen har du lärt dig hur du ställer in ett standardteckensni
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provversion](https://releases.aspose.com/imaging/java/)
 - [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden kommer du att vara väl rustad för att hantera komplexa bildbehandlingsuppgifter i Java med hjälp av Aspose.Imaging. Lycka till med kodningen!
 

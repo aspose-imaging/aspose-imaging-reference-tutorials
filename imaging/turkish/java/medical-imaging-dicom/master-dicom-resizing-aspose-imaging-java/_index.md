@@ -180,7 +180,7 @@ Becerilerinizi daha da ileriye taşımaya hazır mısınız? Bu teknikleri deney
 - [Satın almak](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı kılavuzu takip ederek artık Aspose.Imaging for Java'yı kullanarak DICOM görüntü işleme görevlerini verimli bir şekilde yönetebilecek donanıma sahip olacaksınız.
 

@@ -170,7 +170,7 @@ A: Aspose.Imaging, JPEG, PNG, GIF, BMP ve daha fazlası dahil olmak üzere çok 
 A: Evet, kullanarak özel kare süreleri ayarlayabilirsiniz. `ApngOptions`.
 
 **S: Aspose.Imaging ile ilgili sorunları nasıl giderebilirim?**
-A: Destek forumuna başvurun [Burada](https://forum.aspose.com/c/imaging/10) yardım için.
+A: Destek forumuna başvurun [Burada](https://forum.aspose.com/c/imaging/14) yardım için.
 
 ## Kaynaklar
 - **Belgeleme**: [Aspose.Imaging .NET Referansı](https://reference.aspose.com/imaging/net/)
@@ -178,7 +178,7 @@ A: Destek forumuna başvurun [Burada](https://forum.aspose.com/c/imaging/10) yar
 - **Satın almak**: [Lisans satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Başlayın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Buraya Başvurun](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

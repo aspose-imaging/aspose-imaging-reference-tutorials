@@ -156,7 +156,7 @@ writer.write("This is a sample output.\n");
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 इन अवधारणाओं में महारत हासिल करके, आप शक्तिशाली जावा एप्लिकेशन बनाने की दिशा में आगे बढ़ रहे हैं जो फ़ाइल I/O संचालन को कुशलतापूर्वक प्रबंधित करते हैं। हैप्पी कोडिंग!
 

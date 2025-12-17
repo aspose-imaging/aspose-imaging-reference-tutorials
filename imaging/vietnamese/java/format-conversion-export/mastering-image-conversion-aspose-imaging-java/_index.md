@@ -212,7 +212,7 @@ Sẵn sàng thử nghiệm các kỹ năng của bạn chưa? Hãy bắt đầu 
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Nhận bản dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Bắt đầu hành trình xử lý hình ảnh của bạn với Aspose.Imaging for Java và nâng cao chất lượng dự án của bạn ngay hôm nay!
 

@@ -189,7 +189,7 @@ Siap untuk mempraktikkan pengetahuan ini? Cobalah menerapkan teknik ini dalam pr
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10) 
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14) 
 
 Mulailah mengelola gambar Anda dengan presisi warna hari ini menggunakan Aspose.Imaging untuk Java!
 

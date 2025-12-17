@@ -149,7 +149,7 @@ A3: 例外を適切に処理するには、イメージ読み込みコードの�
 A4: はい、Aspose.Imaging の包括的な API を使用して EXIF タグの読み取りと書き込みの両方が可能です。
 
 **Q5: 問題が発生した場合、どこでサポートを受けることができますか?**
-A5: 訪問 [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/10) コミュニティと公式サポートのため。
+A5: 訪問 [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/14) コミュニティと公式サポートのため。
 
 ## リソース
 

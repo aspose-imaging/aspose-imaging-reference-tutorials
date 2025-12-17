@@ -156,7 +156,7 @@ A5: Meskipun sangat serbaguna, selalu tinjau [dokumentasi](https://reference.asp
 - **Pembelian**: Beli lisensi untuk membuka kemampuan penuh di [Aspose Pembelian](https://purchase.aspose.com/buy).
 - **Uji Coba Gratis**: Uji Aspose.Imaging tanpa batasan dengan mengunduh [Uji Coba Gratis](https://releases.aspose.com/imaging/net/).
 - **Lisensi Sementara**: Dapatkan lisensi sementara untuk evaluasi lanjutan dari [Lisensi Sementara](https://purchase.aspose.com/temporary-license/).
-- **Mendukung**: Jangkau komunitas atau cari bantuan di [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10).
+- **Mendukung**: Jangkau komunitas atau cari bantuan di [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

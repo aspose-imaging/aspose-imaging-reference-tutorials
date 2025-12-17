@@ -151,7 +151,7 @@ public class ConvertCMXToPNG
 - **खरीदना**: [Aspose उत्पाद खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [निःशुल्क परीक्षण शुरू करें](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस के लिए आवेदन करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

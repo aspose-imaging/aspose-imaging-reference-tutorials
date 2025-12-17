@@ -245,7 +245,7 @@ Sepanjang panduan ini, kami telah membahas cara memuat gambar secara efektif, me
 - **Pembelian**: Pertimbangkan untuk membeli langganan di [Aspose Pembelian](https://purchase.aspose.com/buy).
 - **Uji Coba Gratis**: Mulailah dengan uji coba gratis untuk menguji fitur tanpa batasan.
 - **Lisensi Sementara**: Dapatkan lisensi sementara untuk akses penuh selama periode evaluasi Anda.
-- **Mendukung**: Bergabunglah dengan komunitas dan cari bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Mendukung**: Bergabunglah dengan komunitas dan cari bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

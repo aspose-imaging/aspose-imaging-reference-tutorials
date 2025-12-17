@@ -209,7 +209,7 @@ Vanliga problem inkluderar felaktiga sökvägskonfigurationer och filformat som 
 
 **5. Hur får jag support om jag stöter på problem?**
 
-Besök [Aspose-stöd](https://forum.aspose.com/c/imaging/10) att söka hjälp från samhället eller kontakta dem direkt för mer stöd.
+Besök [Aspose-stöd](https://forum.aspose.com/c/imaging/14) att söka hjälp från samhället eller kontakta dem direkt för mer stöd.
 
 ## Resurser
 

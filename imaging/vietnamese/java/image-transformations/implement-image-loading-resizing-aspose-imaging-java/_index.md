@@ -176,7 +176,7 @@ A5: Hoàn toàn được. Nó được thiết kế để dễ dàng tích hợp
 - **Mua**: [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu tại đây](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Nộp đơn ngay](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn cộng đồng](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn cộng đồng](https://forum.aspose.com/c/imaging/14)
 
 Với hướng dẫn toàn diện này, giờ đây bạn đã có thể thành thạo việc tải và thay đổi kích thước hình ảnh trong Java bằng Aspose.Imaging. Chúc bạn viết mã vui vẻ!
 

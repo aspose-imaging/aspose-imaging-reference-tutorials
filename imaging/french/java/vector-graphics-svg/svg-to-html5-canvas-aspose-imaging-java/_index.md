@@ -169,7 +169,7 @@ En suivant ce guide, vous avez appris à convertir des fichiers SVG en élément
 - [Licence d'achat](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 Grâce à ce guide complet, vous serez parfaitement équipé pour exploiter la puissance d'Aspose.Imaging pour Java et transformer des fichiers SVG en éléments canvas HTML5. Bon codage !
 

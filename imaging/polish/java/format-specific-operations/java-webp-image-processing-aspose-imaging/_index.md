@@ -197,7 +197,7 @@ Przyjrzeliśmy się, w jaki sposób Aspose.Imaging for Java może zrewolucjonizo
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dzięki temu kompleksowemu przewodnikowi jesteś teraz wyposażony, aby obsługiwać przetwarzanie obrazów WebP w Javie z wydajnością i pewnością. Udanego kodowania!
 

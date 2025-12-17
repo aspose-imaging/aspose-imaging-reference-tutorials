@@ -203,7 +203,7 @@ A5: เยี่ยมชม [เอกสารประกอบ Aspose](https
 - **ซื้อ**: https://purchase.aspose.com/ซื้อ
 - **ทดลองใช้งานฟรี**: https://releases.aspose.com/imaging/java/
 - **ใบอนุญาตชั่วคราว**: https://purchase.aspose.com/ใบอนุญาตชั่วคราว/
-- **สนับสนุน**: https://forum.aspose.com/c/imaging/10
+- **สนับสนุน**: https://forum.aspose.com/c/imaging/14
 
 สำรวจทรัพยากรเหล่านี้เพื่อเพิ่มความเข้าใจและการใช้งาน Aspose.Imaging ใน Java ของคุณให้มากขึ้น เขียนโค้ดให้สนุก!
 

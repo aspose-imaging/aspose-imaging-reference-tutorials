@@ -204,7 +204,7 @@ Aspose.Imaging for Java を活用して画像からピクセル値を読み込�
 - **購入**ライセンスを直接取得 [Asposeを購入する](https://purchase.aspose.com/buy)
 - **無料トライアル**実験を始めましょう [無料試用ライセンス](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**試験のための臨時ライセンスを取得する [一時ライセンス](https://purchase。aspose.com/temporary-license/).
-- **サポート**コミュニティに参加する [Asposeフォーラム](https://forum.aspose.com/c/imaging/10) ご質問やご相談がございましたら、お気軽にお問い合わせください。
+- **サポート**コミュニティに参加する [Asposeフォーラム](https://forum.aspose.com/c/imaging/14) ご質問やご相談がございましたら、お気軽にお問い合わせください。
 
 このチュートリアルに従うことで、Aspose.Imaging を使用して Java で複雑な画像処理タスクを処理できるようになります。コーディングを楽しみましょう！
 

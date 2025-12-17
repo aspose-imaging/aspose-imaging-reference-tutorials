@@ -245,7 +245,7 @@ V tomto tutoriálu jste se naučili, jak v Javě s Aspose.Imaging vytvářet ví
 - **Nákup**https://purchase.aspose.com/buy
 - **Bezplatná zkušební verze**https://releases.aspose.com/imaging/java/
 - **Dočasná licence**https://purchase.aspose.com/temporary-license/
-- **Podpora**https://forum.aspose.com/c/imaging/10
+- **Podpora**https://forum.aspose.com/c/imaging/14
 
 Nyní, když máte potřebné znalosti, začněte tyto techniky implementovat a zkoumat ve svých projektech v Javě!
 

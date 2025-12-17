@@ -257,7 +257,7 @@ R5: Certifique-se de que o formato de saída seja compatível com transparência
 - **Comprar**: [Página de compra da Aspose](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Experimente o Aspose.Imaging gratuitamente](https://releases.aspose.com/imaging/java/)
 - **Licença Temporária**: [Solicitar Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- **Fórum de Suporte**: [Comunidade de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum de Suporte**: [Comunidade de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Boa codificação!
 

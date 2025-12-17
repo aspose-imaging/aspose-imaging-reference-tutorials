@@ -178,7 +178,7 @@ Ya aprendiste a cargar una imagen SVG y convertirla a formato canvas HTML5 con A
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Descarga de prueba gratuita](https://releases.aspose.com/imaging/net/)
 - [Solicitud de licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

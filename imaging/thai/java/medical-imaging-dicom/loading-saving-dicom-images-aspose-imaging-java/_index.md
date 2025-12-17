@@ -210,7 +210,7 @@
 - **ซื้อใบอนุญาต:** [ซื้อ Aspose.Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี:** [เริ่มทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว:** [ขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **ฟอรั่มการสนับสนุน:** [ชุมชนสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- **ฟอรั่มการสนับสนุน:** [ชุมชนสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 หากทำตามคำแนะนำนี้ คุณจะสามารถจัดการกับภาพ DICOM ในแอปพลิเคชัน Java ของคุณโดยใช้ Aspose.Imaging ได้อย่างมีประสิทธิภาพ ขอให้สนุกกับการเขียนโค้ด!
 

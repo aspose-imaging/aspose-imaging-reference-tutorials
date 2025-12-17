@@ -245,7 +245,7 @@ Naučili jste se, jak využít sílu Aspose.Imaging pro Javu k efektivnímu zpra
 - **Nákup:** [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Získejte bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fóra Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fóra Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu jste nyní vybaveni k bezproblémové integraci zpracování obrázků TIFF do vašich aplikací v Javě. Přejeme vám příjemné programování!
 

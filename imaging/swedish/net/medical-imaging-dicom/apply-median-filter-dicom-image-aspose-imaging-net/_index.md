@@ -152,7 +152,7 @@ Redo att ta dina kunskaper vidare? Implementera den här lösningen i dina proje
 - [Köpa](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Stöd](https://forum.aspose.com/c/imaging/10)
+- [Stöd](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

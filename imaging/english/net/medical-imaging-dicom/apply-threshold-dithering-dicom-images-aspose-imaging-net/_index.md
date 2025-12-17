@@ -159,7 +159,7 @@ Ready to take your DICOM image processing skills further? Implement the solution
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/net/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Support Forum](https://forum.aspose.com/c/imaging/14)
 
 This comprehensive guide equips you with everything needed to apply threshold dithering to DICOM images using Aspose.Imaging for .NET, enhancing your image processing capabilities.
 

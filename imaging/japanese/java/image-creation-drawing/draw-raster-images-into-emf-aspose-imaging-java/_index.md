@@ -214,7 +214,7 @@ Aspose.Imagingライブラリの詳細な機能については、包括的なド
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imagingを無料でお試しください](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [Aspose.Imaging サポート](https://forum.aspose.com/c/imaging/10) 
+- **サポートフォーラム**： [Aspose.Imaging サポート](https://forum.aspose.com/c/imaging/14) 
 
 今すぐ Aspose.Imaging for Java を使い始め、画像処理の新たな可能性を解き放ちましょう。
 

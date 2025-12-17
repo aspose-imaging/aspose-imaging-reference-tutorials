@@ -138,7 +138,7 @@ Aspose.Imaging을 사용할 때 다음과 같은 성능 팁을 고려하세요.
 **A4:** 네, Aspose.Imaging은 PNG, JPEG, TIFF 등 다양한 포맷을 지원합니다.
 
 **질문 5:** 문제가 발생하면 어떻게 지원을 받을 수 있나요?
-**A5:** 방문하세요 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10) 도움이 필요하면.
+**A5:** 방문하세요 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14) 도움이 필요하면.
 
 ## 자원
 - **선적 서류 비치:** 자세한 가이드와 API 참조를 살펴보세요. [Aspose Imaging 문서](https://reference.aspose.com/imaging/net/)

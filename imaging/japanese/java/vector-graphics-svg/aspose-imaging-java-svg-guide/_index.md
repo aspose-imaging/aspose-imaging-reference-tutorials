@@ -171,7 +171,7 @@ Aspose.Imaging を使用する際に最適なパフォーマンスを確保す�
 
 **次のステップ:**
 - 画像の変換やフィルタリングなど、Aspose.Imaging のその他の機能について説明します。
-- 参加する [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/10) 他の開発者と意見を共有したり、アドバイスを求めたりすることができます。
+- 参加する [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/14) 他の開発者と意見を共有したり、アドバイスを求めたりすることができます。
 
 Java プロジェクトを次のレベルに引き上げる準備はできていますか? 今すぐこれらのソリューションの実装に着手しましょう。
 
@@ -199,7 +199,7 @@ Java プロジェクトを次のレベルに引き上げる準備はできてい
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアルダウンロード](https://releases.aspose.com/imaging/java/)
 - [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 今すぐ Aspose.Imaging for Java の統合を開始し、画像処理ワークフローを効率化しましょう。
 

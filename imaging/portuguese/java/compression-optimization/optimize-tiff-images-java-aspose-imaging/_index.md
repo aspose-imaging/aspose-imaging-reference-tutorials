@@ -191,7 +191,7 @@ Agora você aprendeu a carregar e redimensionar imagens TIFF em Java com eficiê
    - Sim, ele suporta vários formatos de imagem como JPEG, PNG, BMP e mais.
 
 5. **Onde posso encontrar suporte se tiver problemas?**
-   - Visite o [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) para apoio comunitário e oficial.
+   - Visite o [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) para apoio comunitário e oficial.
 
 ## Recursos
 

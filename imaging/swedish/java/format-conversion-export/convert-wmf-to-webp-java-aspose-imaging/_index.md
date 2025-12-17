@@ -186,7 +186,7 @@ Nästa steg kan innefatta att integrera dessa konverteringar i en webbapplikatio
 - [Köp prenumeration](https://purchase.aspose.com/buy)
 - [Gratis provlicens](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden är du på god väg att bemästra bildkonverteringar i Java med hjälp av Aspose.Imaging. Lycka till med kodningen!
 

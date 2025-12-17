@@ -167,7 +167,7 @@ Prozkoumejte další možnosti ponořením se do [Dokumentace Aspose](https://re
 - **Nákup:** [Koupit licenci Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Vyzkoušejte bezplatné ohodnocení](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence:** [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

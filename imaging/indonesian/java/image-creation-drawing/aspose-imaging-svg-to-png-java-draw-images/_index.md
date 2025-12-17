@@ -236,7 +236,7 @@ Pertimbangkan untuk menjelajahi fitur-fitur Aspose.Imaging lebih lanjut untuk me
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Informasi Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Detail Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Panduan lengkap ini akan membantu Anda mengintegrasikan Aspose.Imaging for Java ke dalam proyek Anda dengan lancar, sehingga memungkinkan kemampuan manipulasi gambar yang efisien dan serbaguna. Selamat membuat kode!
 

@@ -187,7 +187,7 @@ Siap untuk menerapkan keterampilan Anda? Cobalah menerapkan solusi ini dalam pro
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan pemrosesan gambar Anda dengan percaya diri dengan memanfaatkan Aspose.Imaging untuk Java dan metode resampling Lanczos yang canggih!
 

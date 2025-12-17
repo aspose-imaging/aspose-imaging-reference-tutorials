@@ -198,7 +198,7 @@ image.save(outputFile, options);
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण जानकारी](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 इस व्यापक गाइड का उद्देश्य आपको Aspose.Imaging for Java का प्रभावी ढंग से उपयोग करने के लिए आवश्यक कौशल से लैस करना है, जिससे आपके डिजिटल मीडिया प्रोजेक्ट्स में वृद्धि होगी। हैप्पी कोडिंग!
 

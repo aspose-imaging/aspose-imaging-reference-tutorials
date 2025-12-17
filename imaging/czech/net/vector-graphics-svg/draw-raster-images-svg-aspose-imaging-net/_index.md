@@ -187,7 +187,7 @@ Jste připraveni to vyzkoušet? Implementujte toto řešení ve svém projektu j
 - **Nákup**: [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začít](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Žádost zde](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na svou cestu s Aspose.Imaging pro .NET ještě dnes a transformujte způsob, jakým pracujete s obrázky ve svých aplikacích!
 

@@ -170,7 +170,7 @@ A3：使用高效的内存管理技术，例如 try-with-resources，并优化�
 A4：是的，Aspose.Imaging 可以与其他 Java 库一起使用，以提供全面的图像处理解决方案。
 
 **Q5：如果我遇到问题，我可以在哪里获得支持？**
-A5：访问 [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10) 寻求援助和社区指导。
+A5：访问 [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14) 寻求援助和社区指导。
 
 ## 资源
 

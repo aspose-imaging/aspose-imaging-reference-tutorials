@@ -159,14 +159,14 @@ image.Save(outputDir + "/ApplyGaussWienerFilter_out.gif");
 4. **ما هي تنسيقات الملفات التي يدعمها Aspose.Imaging؟**
    - يدعم أكثر من 100 تنسيق للصور بما في ذلك JPEG وPNG وGIF والمزيد.
 5. **كيف يمكنني إصلاح المشكلات الشائعة مع Aspose.Imaging؟**
-   - راجع إلى [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10) للحصول على حلول أو التحقق من وثائقها التفصيلية.
+   - راجع إلى [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14) للحصول على حلول أو التحقق من وثائقها التفصيلية.
 
 ## موارد
 - **التوثيق**: أدلة شاملة في [وثائق Aspose](https://reference.aspose.com/imaging/net/)
 - **تنزيل أحدث إصدار**:يمكن الوصول إليها من [صفحة الإصدارات](https://releases.aspose.com/imaging/net/)
 - **شراء الترخيص**:رابط الشراء المباشر متاح على [صفحة شراء Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية وترخيص مؤقت**:متوفر في [صفحة الإصدارات](https://releases.aspose.com/imaging/net/) و [قسم الترخيص المؤقت](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم**:لأي استفسارات، قم بزيارة [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم**:لأي استفسارات، قم بزيارة [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

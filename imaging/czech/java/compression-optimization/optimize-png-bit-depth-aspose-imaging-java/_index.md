@@ -173,7 +173,7 @@ Nyní byste měli mít solidní znalosti o tom, jak používat Aspose.Imaging pr
 - **Nákup:** Pokud shledáte Aspose.Imaging přínosným, zvažte zakoupení licence.
 - **Bezplatná zkušební verze:** Začněte s bezplatnou zkušební verzí a otestujte si funkce.
 - **Dočasná licence:** Získejte dočasnou licenci pro rozšířené vyhodnocení.
-- **Podpora:** Připojte se ke komunitě na [Fóra Aspose](https://forum.aspose.com/c/imaging/10) o pomoc. 
+- **Podpora:** Připojte se ke komunitě na [Fóra Aspose](https://forum.aspose.com/c/imaging/14) o pomoc. 
 
 Dodržováním tohoto tutoriálu budete dobře vybaveni k vylepšení svých schopností zpracování obrazu pomocí Aspose.Imaging v Javě.
 

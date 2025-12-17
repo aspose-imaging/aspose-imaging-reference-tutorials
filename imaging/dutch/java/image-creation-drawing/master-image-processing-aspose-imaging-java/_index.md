@@ -162,7 +162,7 @@ A5: Verwerk afbeeldingen sequentieel en beheer het geheugen efficiënt door obje
 - **Aankoop:** [Nu kopen](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Begin hier](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Gemeenschapsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Gemeenschapsforum](https://forum.aspose.com/c/imaging/14)
 
 Door gebruik te maken van deze bronnen kunt u uw begrip en toepassing van Aspose.Imaging voor Java verder verbeteren. Veel plezier met coderen!
 

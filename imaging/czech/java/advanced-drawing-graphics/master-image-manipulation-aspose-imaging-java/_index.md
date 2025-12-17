@@ -212,7 +212,7 @@ Postupným sledováním tohoto průvodce jste se naučili, jak efektivně využ�
 Zvažte prozkoumání pokročilejších funkcí Aspose Imaging Java nebo jejich integraci do větších projektů. Experimentujte s různými formáty obrázků a transformacemi a zjistěte, co vše můžete dosáhnout.
 
 ### Výzva k akci
-Vyzkoušejte implementaci řešení diskutovaného v tomto tutoriálu ve svém dalším projektu. Sdílejte své zkušenosti a případné výzvy na fórech nebo v komunitách, jako je [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+Vyzkoušejte implementaci řešení diskutovaného v tomto tutoriálu ve svém dalším projektu. Sdílejte své zkušenosti a případné výzvy na fórech nebo v komunitách, jako je [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 ## Často kladené otázky
 
@@ -238,7 +238,7 @@ Vyzkoušejte implementaci řešení diskutovaného v tomto tutoriálu ve svém d
 - **Purchase:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial:** [Get Started with Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 ---
 

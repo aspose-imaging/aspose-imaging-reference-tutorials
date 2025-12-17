@@ -250,7 +250,7 @@ A: Warto rozważyć wykorzystanie technik przetwarzania wsadowego i zoptymalizow
 - **Zakup:** [Kup Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Rozpocznij bezpłatny okres próbny](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa:** [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Zaimplementuj te funkcje w swoich projektach Java, aby odblokować nowe możliwości i usprawnić przepływy pracy przetwarzania obrazów przy użyciu Aspose.Imaging. Miłego kodowania!
 

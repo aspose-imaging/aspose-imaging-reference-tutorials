@@ -150,7 +150,7 @@ V: Számos formátumot támogat, beleértve a JPEG, PNG, TIFF és egyebeket. Ell
 V: Ingyenes próbaverzióval vagy ideiglenes licenccel kezdheti a funkciók kiértékelését, mielőtt a vásárlásról döntene.
 
 **K: Hogyan oldhatom meg a képbetöltéssel kapcsolatos gyakori problémákat az Aspose.Imagingben?**
-A: Ellenőrizze a fájlelérési utakat, a könyvtár verzióit, és tekintse meg a következőt: [támogatási fórum](https://forum.aspose.com/c/imaging/10) segítségért.
+A: Ellenőrizze a fájlelérési utakat, a könyvtár verzióit, és tekintse meg a következőt: [támogatási fórum](https://forum.aspose.com/c/imaging/14) segítségért.
 
 ## Erőforrás
 - **Dokumentáció**: [Aspose.Imaging .NET referencia](https://reference.aspose.com/imaging/net/)
@@ -158,7 +158,7 @@ A: Ellenőrizze a fájlelérési utakat, a könyvtár verzióit, és tekintse me
 - **Vásárlási és licencinformációk**: [Aspose Vásárlási Oldal](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Indítsa el az ingyenes próbaverziót](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

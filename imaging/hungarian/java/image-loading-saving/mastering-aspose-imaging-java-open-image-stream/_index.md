@@ -158,7 +158,7 @@ Ebben az oktatóanyagban azt vizsgáltuk meg, hogyan lehet képeket megnyitni é
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ez az átfogó útmutató segít hatékonyan megvalósítani és használni az Aspose.Imaging Java-t stream-alapú képfeldolgozáshoz, növelve alkalmazásai teljesítményét és képességeit.
 

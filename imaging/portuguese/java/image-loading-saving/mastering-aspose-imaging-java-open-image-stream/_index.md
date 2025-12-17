@@ -158,7 +158,7 @@ Neste tutorial, exploramos como abrir e processar imagens usando fluxos com o As
 - [Comprar uma licença](https://purchase.aspose.com/buy)
 - [Versão de teste gratuita](https://releases.aspose.com/imaging/java/)
 - [Pedido de Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Este guia abrangente deve ajudar você a implementar e utilizar com eficiência o Aspose.Imaging Java para processamento de imagens baseado em fluxo, melhorando o desempenho e os recursos dos seus aplicativos.
 

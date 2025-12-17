@@ -178,7 +178,7 @@ Aspose.Imaging का उपयोग करते समय अपने एप
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 निर्बाध छवि प्रसंस्करण और हेरफेर के लिए Aspose.Imaging की पूरी क्षमता का उपयोग करने के लिए इन तकनीकों को अपने जावा प्रोजेक्ट में लागू करें।
 

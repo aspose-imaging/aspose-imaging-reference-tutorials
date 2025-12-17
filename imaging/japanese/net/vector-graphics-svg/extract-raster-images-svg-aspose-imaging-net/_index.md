@@ -141,7 +141,7 @@ SVG からラスター イメージを抽出すると便利な実際のシナリ
 - **購入**： [ライセンスを取得する](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルを始める](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [Aspose サポート](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [Aspose サポート](https://forum.aspose.com/c/imaging/14)
 
 このチュートリアルは、Aspose.Imaging for .NET を効果的に使用し、この強力なライブラリを最大限に活用できるようにするためのものです。コーディングを楽しみましょう！
 

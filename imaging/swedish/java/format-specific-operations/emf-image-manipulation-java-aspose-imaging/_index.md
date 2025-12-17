@@ -247,7 +247,7 @@ Genom den här handledningen har du lärt dig hur du smidigt manipulerar EMF-bil
 - [Köpa](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här omfattande guiden är du väl rustad för att integrera avancerade bildbehandlingsfunktioner i dina Java-applikationer med hjälp av Aspose.Imaging. Lycka till med kodningen!
 

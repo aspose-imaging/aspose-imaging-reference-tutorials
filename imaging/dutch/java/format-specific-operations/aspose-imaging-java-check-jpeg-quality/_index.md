@@ -173,7 +173,7 @@ Als u de mogelijkheden van Aspose.Imaging verder wilt ontdekken, kunt u de uitge
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefversie](https://releases.aspose.com/imaging/java/)
 - [Informatie over tijdelijke licenties](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u goed op weg met het implementeren van een robuuste oplossing voor het beheren van de JPEG-beeldkwaliteit met Aspose.Imaging voor Java. Veel plezier met coderen!
 

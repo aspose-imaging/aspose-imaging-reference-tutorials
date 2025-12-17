@@ -190,7 +190,7 @@ Overweeg als volgende stap om extra functies te verkennen, zoals formaatwijzigin
 - **Aankoop:** [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Aspose.Imaging gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Begin uw reis naar geavanceerde beeldverwerking met Aspose.Imaging voor Java en ontgrendel nieuwe mogelijkheden in uw applicaties!
 

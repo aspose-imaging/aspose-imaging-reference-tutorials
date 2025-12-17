@@ -173,7 +173,7 @@ String outputPath = Path.combine(Utils.getOutDir(), "SpecifyBitDepth_out.png");
 - **购买：** 如果您发现 Aspose.Imaging 有益，请考虑购买许可证。
 - **免费试用：** 从免费试用开始评估功能。
 - **临时执照：** 获取临时许可证以进行延长评估。
-- **支持：** 加入社区 [Aspose 论坛](https://forum.aspose.com/c/imaging/10) 寻求帮助。 
+- **支持：** 加入社区 [Aspose 论坛](https://forum.aspose.com/c/imaging/14) 寻求帮助。 
 
 通过学习本教程，您将能够使用 Aspose.Imaging Java 增强您的图像处理能力。
 

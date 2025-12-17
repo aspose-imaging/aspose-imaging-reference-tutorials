@@ -182,7 +182,7 @@ En este tutorial, explicamos cómo dibujar arcos en imágenes con Aspose.Imaging
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Obtenga una prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Información sobre la licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 No dudes en explorar estos recursos para obtener información más detallada y soporte. ¡Que disfrutes programando!
 

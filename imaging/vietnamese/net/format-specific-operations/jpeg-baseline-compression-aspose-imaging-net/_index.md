@@ -147,7 +147,7 @@ Sẵn sàng nâng cao kỹ năng xử lý hình ảnh của bạn lên một t�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Yêu cầu cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn toàn diện này sẽ đưa bạn đi đúng hướng để thành thạo nén cơ sở JPEG với Aspose.Imaging cho .NET. Chúc bạn viết mã vui vẻ!
 

@@ -183,7 +183,7 @@ Wir empfehlen Ihnen, diese Lösungen in Ihren Projekten zu implementieren und zu
 - **Kaufen**: Erwägen Sie den Kauf einer Lizenz, wenn Sie langfristigen Zugriff benötigen.
 - **Kostenlose Testversion**: Beginnen Sie mit einer kostenlosen Testversion, um die Funktionen zu erkunden unter [Kostenlose Aspose-Testversion](https://releases.aspose.com/imaging/java/).
 - **Temporäre Lizenz**: Erhalten Sie eine temporäre Lizenz zur erweiterten Evaluierung von [Aspose Temporäre Lizenz](https://purchase.aspose.com/temporary-license/).
-- **Unterstützung**: Nehmen Sie an Diskussionen teil und erhalten Sie Hilfe auf der [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Unterstützung**: Nehmen Sie an Diskussionen teil und erhalten Sie Hilfe auf der [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Viel Spaß beim Programmieren und mögen Ihre Bildverarbeitungsaufgaben reibungslos und effizient ablaufen!
 

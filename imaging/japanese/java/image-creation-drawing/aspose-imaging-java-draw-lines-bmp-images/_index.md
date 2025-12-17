@@ -211,7 +211,7 @@ Aspose.Imaging for Javaを使ってBMP画像を作成し、複雑な線を描き
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従うことで、Aspose.ImagingをJavaプロジェクトに統合し、強力な画像操作機能を実現できるようになります。コーディングを楽しみましょう！
 

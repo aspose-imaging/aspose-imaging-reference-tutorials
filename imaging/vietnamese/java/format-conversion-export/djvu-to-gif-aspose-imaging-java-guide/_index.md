@@ -210,7 +210,7 @@ Sẵn sàng thực hiện bước tiếp theo? Hãy thử áp dụng các kỹ t
 - **Mua:** [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, giờ đây bạn đã có thể tận dụng Aspose.Imaging for Java trong các dự án của mình. Chúc bạn viết mã vui vẻ!
 

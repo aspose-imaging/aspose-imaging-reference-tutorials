@@ -218,7 +218,7 @@ Zacznij od sprawdzenia ustawień konfiguracji i upewnienia się, że wszystkie z
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatny dostęp próbny](https://releases.aspose.com/imaging/java/)
 - [Złóż wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

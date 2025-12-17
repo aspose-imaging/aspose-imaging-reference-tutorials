@@ -192,7 +192,7 @@ A: Sistem kaynaklarınızı kontrol edin ve bellek kullanımını optimize edin.
 - **İndirmek:** En son sürümü şu adresten edinin: [Aspose.Imaging sürümleri](https://releases.aspose.com/imaging/java/).
 - **Satın almak:** Tam lisansı şu adresten edinin: [Aspose Satınalma sayfası](https://purchase.aspose.com/buy).
 - **Ücretsiz Deneme & Geçici Lisans:** İlgili bağlantılardan ücretsiz deneme veya geçici lisans alarak özellikleri sınırlama olmaksızın deneyimleyin.
-- **Destek:** Daha fazla yardım için şu adresi ziyaret edin: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10).
+- **Destek:** Daha fazla yardım için şu adresi ziyaret edin: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

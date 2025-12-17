@@ -181,7 +181,7 @@ TIFF 이미지를 연결하는 것이 매우 유용한 실제 시나리오는 �
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 튜토리얼에서는 Aspose.Imaging for Java를 사용하여 복잡한 TIFF 이미지 연결 작업을 처리하는 방법을 익혔습니다. 즐거운 코딩 되세요!
 

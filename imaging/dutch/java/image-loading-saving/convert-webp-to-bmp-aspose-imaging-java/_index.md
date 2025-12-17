@@ -173,7 +173,7 @@ U kunt deze stappen gerust in uw eigen ontwikkelomgeving implementeren en zo de 
 - **Aankoop:** [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Gratis proefperiode starten](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum:** [Aspose Imaging Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum:** [Aspose Imaging Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 U kunt deze bronnen gerust verkennen en Aspose.Imaging integreren in uw projecten voor naadloze beeldverwerkingsmogelijkheden.
 

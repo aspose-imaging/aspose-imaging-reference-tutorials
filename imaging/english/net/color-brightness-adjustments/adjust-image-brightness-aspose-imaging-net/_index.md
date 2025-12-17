@@ -177,7 +177,7 @@ A: While technically feasible, extreme adjustments may degrade image quality.
 - **Purchase License**: [Buy Now](https://purchase.aspose.com/buy)
 - **Free Trial**: [Get Started](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Request Here](https://purchase.aspose.com/temporary-license/)
-- **Support Forum**: [Aspose.Imaging Community](https://forum.aspose.com/c/imaging/10)
+- **Support Forum**: [Aspose.Imaging Community](https://forum.aspose.com/c/imaging/14)
 
 This guide should serve as a comprehensive resource for mastering brightness adjustments with Aspose.Imaging for .NET. Happy coding!
 

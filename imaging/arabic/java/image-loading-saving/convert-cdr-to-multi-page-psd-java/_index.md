@@ -197,7 +197,7 @@ image.save(outFile, psdOptions); // يحفظ الصورة بصيغة PSD مع ت
    - بالتأكيد! يدعم مجموعة واسعة من تنسيقات الصور، بالإضافة إلى CDR وPSD.
 
 5. **كيف يمكنني استكشاف الأخطاء وإصلاحها عند تحميل الصور أو حفظها؟**
-   - التحقق من [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10) للحصول على حلول مشتركة، وتأكد من تحديث إصدار المكتبة لديك.
+   - التحقق من [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14) للحصول على حلول مشتركة، وتأكد من تحديث إصدار المكتبة لديك.
 
 ## موارد
 
@@ -206,7 +206,7 @@ image.save(outFile, psdOptions); // يحفظ الصورة بصيغة PSD مع ت
 - **شراء:** [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [احصل على ترخيص مجاني](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة:** [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا الدليل، ستكون جاهزًا تمامًا للتعامل مع مهام تحميل وتحويل صور CDR في تطبيقات Java باستخدام Aspose.Imaging. برمجة ممتعة!
 

@@ -177,7 +177,7 @@ Bereit für die Umsetzung? Tauchen Sie selbstbewusst in die Welt der Bildverarbe
 - **Kaufen:** https://purchase.aspose.com/buy
 - **Kostenlose Testversion:** https://releases.aspose.com/imaging/java/
 - **Temporäre Lizenz:** https://purchase.aspose.com/temporary-license/
-- **Unterstützung:** https://forum.aspose.com/c/imaging/10
+- **Unterstützung:** https://forum.aspose.com/c/imaging/14
 
 Beginnen Sie noch heute mit dem Experimentieren mit Aspose.Imaging für Java und erschließen Sie sich neue Möglichkeiten in der Bildverarbeitung!
 

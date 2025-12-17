@@ -231,7 +231,7 @@ In diesem Tutorial haben Sie gelernt, wie Sie Aspose.Imaging Java zum Speichern 
    - Erwägen Sie die Implementierung von Thread-Pools und effizienten Ressourcenverwaltungsverfahren, um eine hohe Parallelität zu bewältigen.
 
 5. **Wie kann ich häufige Probleme bei der Verwendung von Aspose.Imaging beheben?**
-   - Überprüfen Sie die offizielle [Dokumentation](https://reference.aspose.com/imaging/java/) für detaillierte Anleitungen oder besuchen Sie die [Aspose-Foren](https://forum.aspose.com/c/imaging/10) für die Unterstützung der Gemeinschaft.
+   - Überprüfen Sie die offizielle [Dokumentation](https://reference.aspose.com/imaging/java/) für detaillierte Anleitungen oder besuchen Sie die [Aspose-Foren](https://forum.aspose.com/c/imaging/14) für die Unterstützung der Gemeinschaft.
 
 ## Ressourcen
 

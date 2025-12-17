@@ -241,7 +241,7 @@ Has aprendido a usar la biblioteca Aspose.Imaging para dibujar líneas, formas y
 - [Opciones de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Ahora que tienes una guía completa para implementar funciones de dibujo con Aspose.Imaging para Java, empieza a experimentar e integrar estas técnicas en tus proyectos. ¡Que disfrutes programando!
 

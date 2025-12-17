@@ -150,7 +150,7 @@ image.Save(outputPath);
 - **شراء الترخيص**: [اشتري الآن](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [البدء](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [تقدم هنا](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم**: [دعم Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم**: [دعم Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 استمتع بالبرمجة السعيدة، واستمتع بالتجربة مع Aspose.Imaging لإضفاء الحيوية على احتياجات معالجة الصور الخاصة بك!
 

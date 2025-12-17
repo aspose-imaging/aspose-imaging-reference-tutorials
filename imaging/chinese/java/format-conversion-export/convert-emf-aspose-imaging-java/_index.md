@@ -186,7 +186,7 @@ try (EmfImage image = (EmfImage) Image.load("YOUR_DOCUMENT_DIRECTORY" + filePath
    - 常见问题包括文件路径不正确或格式转换不受支持；确保您的设置符合教程步骤。
 
 5. **在哪里可以找到对 Aspose.Imaging 的支持？**
-   - 访问 [Aspose 论坛](https://forum.aspose.com/c/imaging/10) 寻求帮助并与其他用户联系。
+   - 访问 [Aspose 论坛](https://forum.aspose.com/c/imaging/14) 寻求帮助并与其他用户联系。
 
 ## 资源
 

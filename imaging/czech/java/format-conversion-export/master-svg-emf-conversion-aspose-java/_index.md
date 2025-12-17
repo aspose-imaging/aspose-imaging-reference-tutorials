@@ -204,7 +204,7 @@ A5: Používejte funkce dávkového zpracování a zajistěte, aby vaše JVM mě
 - [Stáhněte si Aspose.Imaging pro Javu](https://releases.aspose.com/imaging/java/)
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze a dočasná licence](https://releases.aspose.com/imaging/java/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ponořte se do těchto zdrojů a rozšířte si znalosti a schopnosti s Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

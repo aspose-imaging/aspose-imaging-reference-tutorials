@@ -161,7 +161,7 @@ Chcete-li pokračovat v prozkoumávání, zvažte experimentování s dalšími 
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/net/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 S těmito zdroji jste dobře vybaveni k dalšímu prozkoumání a využití plného potenciálu Aspose.Imaging pro vaše potřeby zpracování obrazu. Přejeme vám hodně štěstí při programování!
 

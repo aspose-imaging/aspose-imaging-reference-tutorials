@@ -136,7 +136,7 @@ Consultez la documentation officielle et les liens de téléchargement dans la s
 - **Licence d'achat**: [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Essayez Aspose.Imaging gratuitement](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance**: [Prise en charge d'Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance**: [Prise en charge d'Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 Nous espérons que ce guide vous aura été utile pour maîtriser le traitement d'images avec Aspose.Imaging pour .NET. Bon codage !
 
 {{< /blocks/products/pf/tutorial-page-section >}}

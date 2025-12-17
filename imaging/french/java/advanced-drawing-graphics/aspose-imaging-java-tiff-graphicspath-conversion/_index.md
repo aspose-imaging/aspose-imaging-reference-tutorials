@@ -240,7 +240,7 @@ Vous avez maintenant maîtrisé la conversion des ressources de chemin TIFF en o
 - **Achat :** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licence temporaire :** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Forum de support :** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Forum de support :** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 ---
 

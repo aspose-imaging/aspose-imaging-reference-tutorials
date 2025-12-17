@@ -169,7 +169,7 @@ A3: Biblioteket hanterar sådana fall smidigt genom att returnera null för sakn
 A4: Testversionen kan ha användningsbegränsningar som vattenstämpel eller bearbetningsbegränsningar.
 
 **F5: Hur kan jag få support om jag stöter på problem med Aspose.Imaging?**
-A5: Besök [Aspose-forum](https://forum.aspose.com/c/imaging/10) för stöd från samhället och myndigheterna.
+A5: Besök [Aspose-forum](https://forum.aspose.com/c/imaging/14) för stöd från samhället och myndigheterna.
 
 ## Resurser
 
@@ -178,7 +178,7 @@ A5: Besök [Aspose-forum](https://forum.aspose.com/c/imaging/10) för stöd frå
 - **Köpa**: Skaffa en licens genom [Aspose-köp](https://purchase.aspose.com/buy)
 - **Gratis provperiod**Börja med en gratis provperiod på [Aspose.Imaging Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**Begär en tillfällig licens från [Aspose tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**Delta i diskussionen i [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**Delta i diskussionen i [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din resa med Aspose.Imaging för Java och lås upp nya möjligheter inom bildbehandling idag!
 

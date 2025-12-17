@@ -196,7 +196,7 @@ Cevap: Kesinlikle mümkündür; Spring gibi çerçeveler veya Apache Commons gib
 - **Satın Alma:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)  
 - **Ücretsiz Deneme:** [Get Started with Free Trial](https://releases.aspose.com/imaging/java/)  
 - **Geçici Lisans:** [Acquire Temporary License](https://purchase.aspose.com/temporary-license/)  
-- **Destek Forumu:** [Aspose Community Support](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu:** [Aspose Community Support](https://forum.aspose.com/c/imaging/14)
 
 ---
 

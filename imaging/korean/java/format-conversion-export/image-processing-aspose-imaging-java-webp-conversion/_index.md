@@ -190,7 +190,7 @@ Aspose.Imaging을 사용할 때 성능을 극대화하려면 다음을 수행하
 - [구입](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드는 Java를 사용하여 Aspose.Imaging을 효과적으로 사용하여 WebP 형식의 이미지를 로드하고 내보내는 데 필요한 모든 것을 제공합니다. 즐거운 코딩 되세요!
 

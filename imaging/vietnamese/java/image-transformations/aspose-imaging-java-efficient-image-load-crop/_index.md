@@ -184,7 +184,7 @@ Aspose.Imaging hỗ trợ nhiều định dạng, bao gồm JPEG, PNG, GIF, BMP,
 
 **5. Tôi có thể nhận được hỗ trợ như thế nào nếu gặp vấn đề?**
 
-Thăm nom [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) để được cộng đồng và các chuyên gia của Aspose hỗ trợ.
+Thăm nom [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) để được cộng đồng và các chuyên gia của Aspose hỗ trợ.
 
 ## Tài nguyên
 

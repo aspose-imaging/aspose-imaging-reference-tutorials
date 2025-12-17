@@ -168,7 +168,7 @@ Các bước tiếp theo có thể bao gồm khám phá các định dạng hìn
 - Giấy phép mua hàng: [Mua Tùy chọn cấp phép Aspose](https://purchase.aspose.com/buy)
 - Dùng thử miễn phí: [Nhận bản dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - Giấy phép tạm thời: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- Diễn đàn hỗ trợ: [Hỗ trợ cộng đồng Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- Diễn đàn hỗ trợ: [Hỗ trợ cộng đồng Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Bây giờ bạn đã có đủ công cụ và kiến thức, hãy thử triển khai giải pháp này vào dự án tiếp theo của bạn!
 

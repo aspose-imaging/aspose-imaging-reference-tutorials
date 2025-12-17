@@ -200,7 +200,7 @@ A4: Gambar skala abu-abu hanya berisi nuansa abu-abu, mengurangi ukuran file dan
 
 **Q5: Bagaimana saya bisa mendapatkan dukungan jika saya mengalami masalah dengan Aspose.Imaging?**
 
-A5: Kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10) untuk bantuan dari pakar komunitas dan staf pendukung resmi.
+A5: Kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14) untuk bantuan dari pakar komunitas dan staf pendukung resmi.
 
 ## Sumber daya
 

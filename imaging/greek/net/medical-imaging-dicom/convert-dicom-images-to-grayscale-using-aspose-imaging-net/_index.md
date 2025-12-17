@@ -138,7 +138,7 @@ dicomImage.Save(@"YOUR_OUTPUT_DIRECTORY/GrayscalingOnDICOM_out.bmp", new BmpOpti
 2. **Μπορώ να μετατρέψω εικόνες σε μορφές εκτός από BMP;**
    - Ναι, το Aspose.Imaging υποστηρίζει διάφορες μορφές εξόδου όπως JPEG και PNG.
 3. **Πώς μπορώ να αντιμετωπίσω προβλήματα κατά τη μετατροπή εικόνας;**
-   - Ελέγξτε τις διαδρομές αρχείων, βεβαιωθείτε ότι χρησιμοποιείται η σωστή έκδοση βιβλιοθήκης και ανατρέξτε στο [Φόρουμ υποστήριξης του Aspose](https://forum.aspose.com/c/imaging/10).
+   - Ελέγξτε τις διαδρομές αρχείων, βεβαιωθείτε ότι χρησιμοποιείται η σωστή έκδοση βιβλιοθήκης και ανατρέξτε στο [Φόρουμ υποστήριξης του Aspose](https://forum.aspose.com/c/imaging/14).
 4. **Είναι το Aspose.Imaging κατάλληλο για εφαρμογές πραγματικού χρόνου;**
    - Ενώ είναι ισχυρό, λάβετε υπόψη τις βελτιστοποιήσεις απόδοσης για τις ανάγκες επεξεργασίας σε πραγματικό χρόνο.
 5. **Ποιες είναι μερικές συνήθεις περιπτώσεις χρήσης για μετατροπή σε κλίμακα του γκρι DICOM;**
@@ -150,7 +150,7 @@ dicomImage.Save(@"YOUR_OUTPUT_DIRECTORY/GrayscalingOnDICOM_out.bmp", new BmpOpti
 - [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/net/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -237,7 +237,7 @@ Aspose.Imaging과 같은 이미지 처리 라이브러리를 사용할 때 다�
 - **선적 서류 비치:** [Java용 Aspose.Imaging 문서](https://reference.aspose.com/imaging/java/)
 - **다운로드:** [Java 릴리스용 Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **구매 및 무료 체험:** [Aspose.Imaging for Java를 구매하거나 사용해 보세요](https://purchase.aspose.com/buy)
-- **지원 포럼:** [Aspose 지원 커뮤니티](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼:** [Aspose 지원 커뮤니티](https://forum.aspose.com/c/imaging/14)
 
 이 종합 가이드는 Aspose.Imaging for Java를 사용하여 이미지의 모션 블러를 효과적으로 줄이는 방법을 알려드립니다. 즐거운 코딩 되세요!
 

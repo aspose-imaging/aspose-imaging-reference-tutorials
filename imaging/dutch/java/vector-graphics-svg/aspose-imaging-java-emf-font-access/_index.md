@@ -237,7 +237,7 @@ A5: Hoewel Aspose.Imaging-bewerkingen niet inherent thread-safe zijn, kunt u par
 - **Aankoop:** [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Probeer Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Begin vandaag nog met Aspose.Imaging voor Java en ontgrendel het volledige potentieel van beeldverwerking in uw applicaties!
 

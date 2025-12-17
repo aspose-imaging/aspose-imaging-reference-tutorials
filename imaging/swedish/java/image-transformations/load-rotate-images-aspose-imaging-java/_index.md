@@ -193,7 +193,7 @@ Försök att implementera dessa tekniker i dina projekt idag och upplev kraften 
 - **Köpa:** Köp licenser via [Aspose köpportal](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** Få tillgång till en tillfällig licens via [Aspose Gratis Testperioder](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** Skaffa en på [Aspose tillfälliga licenser](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** Gå med i gemenskapen och få hjälp med [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** Gå med i gemenskapen och få hjälp med [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden kan du effektivt integrera Aspose.Imaging i dina Java-projekt för att enkelt hantera bildinläsning och rotation. Lycka till med kodningen!
 

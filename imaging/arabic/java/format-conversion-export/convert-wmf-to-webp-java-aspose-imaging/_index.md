@@ -186,7 +186,7 @@ image.save(outFileName, options);
 - [شراء الاشتراك](https://purchase.aspose.com/buy)
 - [رخصة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا الدليل، ستكون على الطريق الصحيح لإتقان تحويل الصور في جافا باستخدام Aspose.Imaging. برمجة ممتعة!
 

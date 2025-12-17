@@ -148,7 +148,7 @@ Maak gebruik van gebufferde stromen en zorg voor een juiste afvoer van bronnen o
 - **Aankoop:** [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Begin met een gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie:** [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Forum Ondersteuning](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose Forum Ondersteuning](https://forum.aspose.com/c/imaging/14)
 
 Deze handleiding is ontworpen om u te helpen het volledige potentieel van Aspose.Imaging te benutten voor uw .NET-projecten. Veel plezier met coderen!
 

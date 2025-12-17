@@ -215,7 +215,7 @@ Sie beherrschen nun die Grundlagen der Java-Bildverarbeitung mit Aspose.Imaging.
 - **Kaufen**: [Aspose-Produkte kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Hier beginnen](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Holen Sie sich eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Begeben Sie sich mit Aspose.Imaging auf Ihre Reise in die Java-Bildverarbeitung und erschließen Sie neue Möglichkeiten der digitalen Bildbearbeitung!
 

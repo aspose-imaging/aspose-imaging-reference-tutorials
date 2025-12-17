@@ -194,7 +194,7 @@ In dieser Anleitung haben Sie gelernt, wie Sie eine PNG-Datei laden, PDF-Dokumen
 - [Kaufen](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Beginnen Sie Ihr nächstes Projekt mit Zuversicht, denn Sie wissen, dass Aspose.Imaging für Java Sie abdeckt!
 

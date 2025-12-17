@@ -178,7 +178,7 @@ Aspose.Imaging для Java можно интегрировать в различ
 - [Лицензия на покупку](https://purchase.aspose.com/buy)
 - [Бесплатная пробная версия](https://releases.aspose.com/imaging/java/)
 - [Временная лицензия](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки](https://forum.aspose.com/c/imaging/14)
 
 Реализуйте эти методы в своих проектах Java, чтобы раскрыть весь потенциал Aspose.Imaging для бесперебойной обработки и манипулирования изображениями.
 

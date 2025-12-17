@@ -165,7 +165,7 @@ Sekarang, Anda seharusnya sudah memiliki pemahaman yang kuat tentang cara memuat
 - **Pembelian**: Jelajahi opsi pembelian di [Halaman Pembelian Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: Mulailah dengan uji coba gratis yang tersedia [Di Sini](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: Ajukan permohonan lisensi sementara pada [Halaman Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: Bergabunglah dalam diskusi dan cari bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: Bergabunglah dalam diskusi dan cari bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda untuk menguasai Aspose.Imaging di Java hari ini, dan ubah cara Anda menangani tugas pemrosesan gambar!
 

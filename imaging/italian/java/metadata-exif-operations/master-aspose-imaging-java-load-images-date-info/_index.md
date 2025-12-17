@@ -174,7 +174,7 @@ Ora hai imparato come caricare immagini e recuperare le date di ultima modifica 
 - [Acquista Aspose.Imaging](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Richiesta di licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 Sentiti libero di esplorare queste risorse per informazioni più dettagliate e supporto. Buona programmazione!
 

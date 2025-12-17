@@ -211,7 +211,7 @@ image.save(outDir + "outputFile_JpegLs.jpg", jpegOptionsJpegLs);
 - **购买**： [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用**： [开始免费试用](https://releases.aspose.com/imaging/java/)
 - **临时执照**： [获得临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持**： [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**： [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 遵循本指南，您将能够使用 Aspose.Imaging for Java 实现高级图像压缩技术。进一步探索并将这些方法集成到您的项目中，以实现最佳性能和质量。
 

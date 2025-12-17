@@ -173,7 +173,7 @@ Jangan ragu untuk mencoba menerapkan langkah-langkah ini dalam lingkungan pengem
 - **Pembelian:** [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Mulai Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan:** [Forum Dukungan Pencitraan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan:** [Forum Dukungan Pencitraan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Jangan ragu untuk menjelajahi sumber daya ini dan mengintegrasikan Aspose.Imaging ke dalam proyek Anda untuk kemampuan pemrosesan gambar yang lancar.
 

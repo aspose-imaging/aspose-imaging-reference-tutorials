@@ -199,7 +199,7 @@ Al trabajar con el procesamiento de imágenes a gran escala, tenga en cuenta est
    - Admite más de 50 formatos de imagen, incluidos JPEG, PNG, TIFF y más.
 
 5. **¿Cómo puedo obtener ayuda si encuentro problemas?**
-   - Visita [Foro de Aspose](https://forum.aspose.com/c/imaging/10) para apoyo y asesoramiento comunitario.
+   - Visita [Foro de Aspose](https://forum.aspose.com/c/imaging/14) para apoyo y asesoramiento comunitario.
 
 ## Recursos
 

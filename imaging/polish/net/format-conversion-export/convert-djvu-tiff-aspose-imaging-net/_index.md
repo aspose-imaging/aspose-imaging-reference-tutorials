@@ -213,7 +213,7 @@ Odp.: Tak, obsługuje różne formaty, w tym JPEG, PNG, BMP i inne.
 - [Kup licencje](https://purchase.aspose.com/buy)
 - [Bezpłatne pobieranie wersji próbnych](https://releases.aspose.com/imaging/net/)
 - [Wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ten przewodnik ma na celu dostarczenie Ci wiedzy i narzędzi potrzebnych do efektywnej konwersji obrazów DjVu przy użyciu Aspose.Imaging dla .NET. Miłego kodowania!
 

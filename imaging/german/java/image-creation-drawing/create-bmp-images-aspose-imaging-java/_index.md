@@ -170,7 +170,7 @@ A3: Verwenden Sie effiziente Speicherverwaltungstechniken wie Try-with-Resources
 A4: Ja, Aspose.Imaging kann zusammen mit anderen Java-Bibliotheken für umfassende Bildverarbeitungslösungen verwendet werden.
 
 **F5: Wo erhalte ich Unterstützung, wenn Probleme auftreten?**
-A5: Besuchen Sie die [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) für Unterstützung und Community-Beratung.
+A5: Besuchen Sie die [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) für Unterstützung und Community-Beratung.
 
 ## Ressourcen
 

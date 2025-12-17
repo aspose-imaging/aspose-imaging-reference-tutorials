@@ -199,7 +199,7 @@ Bu çözümü bugün bir projede uygulamayı deneyin ve iş akışınızı nası
    - Kütüphane deneme lisansı altında kullanıma açıktır; tüm özelliklerin kullanılabilmesi için satın alma gerekmektedir.
 
 5. **Gerektiğinde nereden destek alabilirim?**
-   - Ziyaret etmek [Aspose'un destek forumu](https://forum.aspose.com/c/imaging/10) yardım için.
+   - Ziyaret etmek [Aspose'un destek forumu](https://forum.aspose.com/c/imaging/14) yardım için.
 
 ## Kaynaklar
 

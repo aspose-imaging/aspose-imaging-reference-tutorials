@@ -186,7 +186,7 @@ Nyní jste zvládli převod EMF obrázků do různých formátů pomocí Aspose.
    - Mezi běžné problémy patří nesprávné cesty k souborům nebo nepodporované konverze formátů; ujistěte se, že vaše nastavení odpovídá krokům v tutoriálu.
 
 5. **Kde najdu podporu pro Aspose.Imaging?**
-   - Navštivte [Fórum Aspose](https://forum.aspose.com/c/imaging/10) pro pomoc a pro spojení s ostatními uživateli.
+   - Navštivte [Fórum Aspose](https://forum.aspose.com/c/imaging/14) pro pomoc a pro spojení s ostatními uživateli.
 
 ## Zdroje
 

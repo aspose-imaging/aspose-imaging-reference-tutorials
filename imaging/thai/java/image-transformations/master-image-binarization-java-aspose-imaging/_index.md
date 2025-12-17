@@ -191,7 +191,7 @@ A5: ใช่ Aspose.Imaging รองรับรูปแบบภาพต่
 - **ซื้อ:** [ซื้อใบอนุญาต Aspose](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี:** [เริ่มทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว:** [รับใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน:** [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน:** [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14)
 
 เมื่อทำตามบทช่วยสอนนี้แล้ว คุณจะมีทักษะในการจัดการงานการแปลงภาพเป็นไบนารีอย่างมีประสิทธิภาพโดยใช้ Aspose.Imaging สำหรับ Java ขอให้สนุกกับการเขียนโค้ด!
 

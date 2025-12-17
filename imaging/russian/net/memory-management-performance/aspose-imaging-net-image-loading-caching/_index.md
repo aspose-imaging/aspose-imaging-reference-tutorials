@@ -138,7 +138,7 @@ if (!rasterCachedImage.IsCached)
 - **Покупка**: [Купить продукцию Aspose](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Попробуйте Aspose.Imaging бесплатно](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия**: [Запросить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

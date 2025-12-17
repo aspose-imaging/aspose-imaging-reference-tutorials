@@ -295,7 +295,7 @@ Hãy thoải mái thử nghiệm và áp dụng những phương pháp này vào
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Hãy thoải mái khám phá các tài nguyên này để học hỏi và hỗ trợ thêm. Chúc bạn lập trình vui vẻ!
 

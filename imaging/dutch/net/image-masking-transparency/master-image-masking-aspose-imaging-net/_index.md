@@ -195,7 +195,7 @@ Je zou nu een goed begrip moeten hebben van hoe je afbeeldingsmaskers kunt maken
 - **Aankoop:** [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Ontvang een gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie:** [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u goed toegerust om het volledige potentieel van Aspose.Imaging voor .NET in uw projecten te benutten. Veel plezier met coderen!
 

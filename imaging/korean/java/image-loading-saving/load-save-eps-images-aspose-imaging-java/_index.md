@@ -234,7 +234,7 @@ A: 비동기 작업을 활용하고, 메모리를 효과적으로 관리하며, 
 - **구입:** [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [Aspose.Imaging을 사용해 보세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [임시 면허 취득](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -155,7 +155,7 @@ try-with-resources 語句確保資源得到有效管理。
 - **購買**：https://purchase.aspose.com/buy
 - **免費試用**：https://releases.aspose.com/imaging/java/
 - **臨時執照**：https://purchase.aspose.com/temporary-license/
-- **支援論壇**：https://forum.aspose.com/c/imaging/10
+- **支援論壇**：https://forum.aspose.com/c/imaging/14
 
 本指南將為您提供使用 Aspose.Imaging for Java 處理損壞的 TIFF 影像的知識和工具。立即開始嘗試並將這些功能整合到您的應用程式中！
 

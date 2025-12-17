@@ -258,7 +258,7 @@ A5: Överväg att bearbeta stora bilder i mindre bitar och utnyttja Aspose.Imagi
 - **Köplicens:** [Köp en licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Få din gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Skaffa tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum:** [Aspose.Imaging-stöd](https://forum.aspose.com/c/imaging/10)
+- **Supportforum:** [Aspose.Imaging-stöd](https://forum.aspose.com/c/imaging/14)
 
 Vi hoppas att den här handledningen har utrustat dig med de färdigheter som krävs för att förbättra dina bildbehandlingsuppgifter med Aspose.Imaging för Java. Lycka till med kodningen!
 

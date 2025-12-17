@@ -245,7 +245,7 @@ A lo largo de esta guía, hemos explicado cómo cargar una imagen de manera efic
 - **Compra**:Considere comprar una suscripción en [Compra de Aspose](https://purchase.aspose.com/buy).
 - **Prueba gratuita**:Comience con una prueba gratuita para probar funciones sin limitaciones.
 - **Licencia temporal**:Obtenga una licencia temporal para acceso completo durante su período de evaluación.
-- **Apoyo**Únase a la comunidad y busque ayuda en [Foros de Aspose](https://forum.aspose.com/c/imaging/10).
+- **Apoyo**Únase a la comunidad y busque ayuda en [Foros de Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

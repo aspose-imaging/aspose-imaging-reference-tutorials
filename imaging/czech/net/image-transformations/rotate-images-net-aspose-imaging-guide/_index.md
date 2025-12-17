@@ -156,7 +156,7 @@ Pro další čtení a pomoc:
 - **Nákup**: [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte Aspose.Imaging hned teď](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Žádost zde](https://purchase.aspose.com/temporary-license/)
-- **Podpora**Navštivte [Fórum Aspose](https://forum.aspose.com/c/imaging/10) pro pomoc a diskuze v komunitě.
+- **Podpora**Navštivte [Fórum Aspose](https://forum.aspose.com/c/imaging/14) pro pomoc a diskuze v komunitě.
 
 Zvládnutím těchto technik budete dobře vybaveni k tomu, abyste s jistotou zvládli širokou škálu úkolů zpracování obrazu. Přeji vám šťastné programování!
 

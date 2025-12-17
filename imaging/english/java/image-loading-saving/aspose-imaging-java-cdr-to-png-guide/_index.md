@@ -196,7 +196,7 @@ A3: Adjust `CdrRasterizationOptions` parameters such as resolution and positioni
 A4: A purchased license is required for commercial applications. You can start with a free trial or apply for a temporary license.
 
 **Q5: Where can I get support if I encounter issues?**
-A5: Visit the [Aspose support forum](https://forum.aspose.com/c/imaging/10) for assistance and community discussions.
+A5: Visit the [Aspose support forum](https://forum.aspose.com/c/imaging/14) for assistance and community discussions.
 
 ## Resources
 
@@ -204,7 +204,7 @@ A5: Visit the [Aspose support forum](https://forum.aspose.com/c/imaging/10) for 
 - **Download Library:** Get the latest version from [Aspose.Imaging Releases](https://releases.aspose.com/imaging/java/)
 - **Purchase License:** Visit [Aspose Purchase Site](https://purchase.aspose.com/buy)
 - **Free Trial & Temporary License:** Start your journey at [Aspose Free Trial](https://releases.aspose.com/imaging/java/) and [Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum:** Engage with the community for help at [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Support Forum:** Engage with the community for help at [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Embark on your Aspose.Imaging Java journey today, and bring your digital imaging projects to life!
 

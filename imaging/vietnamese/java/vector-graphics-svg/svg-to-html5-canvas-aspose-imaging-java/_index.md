@@ -169,7 +169,7 @@ Bằng cách làm theo hướng dẫn này, bạn đã học cách chuyển đ�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Với hướng dẫn toàn diện này, bạn sẽ được trang bị đầy đủ để khai thác sức mạnh của Aspose.Imaging for Java trong việc chuyển đổi SVG thành các thành phần canvas HTML5. Chúc bạn viết mã vui vẻ!
 

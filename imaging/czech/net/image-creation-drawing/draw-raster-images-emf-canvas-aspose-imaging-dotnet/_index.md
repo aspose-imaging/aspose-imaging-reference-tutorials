@@ -142,7 +142,7 @@ Mezi osvědčené postupy patří použití `using` příkazy pro automatické o
 ## Závěr
 Nyní jste se naučili, jak kreslit rastrové obrázky na plátna EMF pomocí Aspose.Imaging pro .NET. Tato funkce může výrazně zlepšit vizuální kvalitu vašich projektů a nabídnout kombinaci vektorové přesnosti a rastrové bohatosti.
 
-V budoucnu zvažte prozkoumání dalších funkcí Aspose.Imaging nebo integraci této funkce do větších pracovních postupů ve vašich aplikacích. Máte-li další dotazy, neváhejte se na nás obrátit prostřednictvím [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10).
+V budoucnu zvažte prozkoumání dalších funkcí Aspose.Imaging nebo integraci této funkce do větších pracovních postupů ve vašich aplikacích. Máte-li další dotazy, neváhejte se na nás obrátit prostřednictvím [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Sekce Často kladených otázek
 **1. Co je to soubor EMF?**

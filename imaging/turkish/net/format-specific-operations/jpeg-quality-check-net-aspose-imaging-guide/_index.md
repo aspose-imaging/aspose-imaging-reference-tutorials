@@ -177,7 +177,7 @@ Aspose.Imaging'in sunduğu olanakları daha ayrıntılı incelemek için kapsaml
 - **Satın almak:** [Lisans satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Aspose.Imaging'i deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans:** [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Doğru araçlara ve en iyi JPEG kalite ayarlarını sağlayacak bilgiye sahip olduğunuzu bilerek, bir sonraki görüntü işleme projenize güvenle başlayın.
 

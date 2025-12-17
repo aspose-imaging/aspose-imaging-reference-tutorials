@@ -171,7 +171,7 @@ Aspose.Imaging unterstützt eine Vielzahl von Bildformaten, einschließlich JPEG
 - **Kaufen**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Holen Sie sich eine kostenlose Testversion von Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Fordern Sie eine temporäre Lizenz an](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

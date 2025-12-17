@@ -216,7 +216,7 @@ Durch die Befolgung dieses Leitfadens haben Sie gelernt, wie Sie **Aspose Imagin
 Erkunden Sie weiterführende Funktionen von Aspose Imaging Java oder integrieren Sie sie in größere Projekte. Experimentieren Sie mit verschiedenen Bildformaten und Transformationen, um zu sehen, was Sie noch erreichen können.
 
 ### Handlungsaufforderung
-Versuchen Sie, die heute besprochene Lösung in Ihrem nächsten Projekt umzusetzen. Teilen Sie Ihre Erfahrungen und etwaige Herausforderungen in Foren oder Communities wie [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+Versuchen Sie, die heute besprochene Lösung in Ihrem nächsten Projekt umzusetzen. Teilen Sie Ihre Erfahrungen und etwaige Herausforderungen in Foren oder Communities wie [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ‑Abschnitt
 
@@ -242,7 +242,7 @@ Versuchen Sie, die heute besprochene Lösung in Ihrem nächsten Projekt umzusetz
 - **Kauf:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Get Started with Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Durch die Nutzung dieser Ressourcen können Sie Ihr Verständnis und Ihre Anwendung von Aspose Imaging Java weiter vertiefen. Happy coding!
 

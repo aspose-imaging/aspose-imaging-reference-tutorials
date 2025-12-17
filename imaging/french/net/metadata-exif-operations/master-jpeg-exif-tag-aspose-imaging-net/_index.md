@@ -149,7 +149,7 @@ A3 : Implémentez des blocs try-catch autour de votre code de chargement d’im
 A4 : Oui, vous pouvez à la fois lire et écrire des balises EXIF avec l'API complète d'Aspose.Imaging.
 
 **Q5 : Où puis-je obtenir de l'aide si je rencontre des problèmes ?**
-A5 : Visitez le [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) pour le soutien communautaire et officiel.
+A5 : Visitez le [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) pour le soutien communautaire et officiel.
 
 ## Ressources
 

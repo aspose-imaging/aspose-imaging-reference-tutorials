@@ -150,7 +150,7 @@ Daha fazlasını keşfetmeye hazır mısınız? Çözümü gerçek dünya senary
 - **Satın almak:** [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Deneme ile Başlayın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans:** [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu:** [Aspose Desteği](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu:** [Aspose Desteği](https://forum.aspose.com/c/imaging/14)
 
 Görüntüleme yolculuğunuza bugün Aspose.Imaging ile başlayın ve dijital görüntü manipülasyonunda yeni olasılıkların kilidini açın!
 

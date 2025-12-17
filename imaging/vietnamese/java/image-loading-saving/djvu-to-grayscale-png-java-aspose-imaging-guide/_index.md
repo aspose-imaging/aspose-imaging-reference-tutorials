@@ -200,7 +200,7 @@ A4: Hình ảnh thang độ xám chỉ chứa các sắc thái xám, giúp giả
 
 **Câu hỏi 5: Tôi có thể nhận được hỗ trợ như thế nào nếu gặp sự cố với Aspose.Imaging?**
 
-A5: Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) để được hỗ trợ từ các chuyên gia cộng đồng và nhân viên hỗ trợ chính thức.
+A5: Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) để được hỗ trợ từ các chuyên gia cộng đồng và nhân viên hỗ trợ chính thức.
 
 ## Tài nguyên
 

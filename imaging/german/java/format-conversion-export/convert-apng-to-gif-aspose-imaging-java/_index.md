@@ -216,7 +216,7 @@ Herzlichen Glückwunsch! Sie haben den Prozess des Ladens, Konvertierens und Ver
    - Ja, Sie können die Stapelverarbeitung mithilfe von Schleifen skripten oder in Jobplanungssysteme integrieren.
 
 5. **Wie erhalte ich Unterstützung, wenn Probleme auftreten?**
-   - Besuchen Sie die [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) für Hilfe und Diskussionen mit anderen Benutzern.
+   - Besuchen Sie die [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) für Hilfe und Diskussionen mit anderen Benutzern.
 
 ## Ressourcen
 

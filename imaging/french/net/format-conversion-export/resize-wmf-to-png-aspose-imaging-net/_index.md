@@ -162,7 +162,7 @@ Oui, écrivez ces étapes et exécutez-les sur plusieurs fichiers à l'aide des 
 - **Achat**: [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Essai gratuit](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance**: [Soutien communautaire Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance**: [Soutien communautaire Aspose](https://forum.aspose.com/c/imaging/14)
 
 Lancez-vous dans votre parcours de traitement d'images avec Aspose.Imaging pour .NET et explorez des possibilités infinies dans la gestion des graphiques.
 

@@ -199,7 +199,7 @@ Trong suốt hướng dẫn này, bạn đã khám phá cách chuyển đổi c�
 - **Tài liệu**: Khám phá thêm tại [Tài liệu Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - **Tải về**: Nhận bản phát hành mới nhất từ [Trang phát hành Aspose](https://releases.aspose.com/imaging/java/).
 - **Mua và dùng thử miễn phí**: Hãy thử các tính năng ngay hôm nay tại [Trang mua hàng và dùng thử miễn phí của Aspose](https://purchase.aspose.com/buy).
-- **Ủng hộ**: Tham gia thảo luận trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10).
+- **Ủng hộ**: Tham gia thảo luận trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14).
 
 Chúng tôi hy vọng hướng dẫn này giúp bạn sử dụng Aspose.Imaging Java hiệu quả cho nhu cầu xử lý hình ảnh của mình. Chúc bạn viết code vui vẻ!
 

@@ -167,7 +167,7 @@ W kolejnym kroku rozważ eksperymentowanie z innymi zaawansowanymi funkcjami Asp
 - **Kup licencję**: [Kup teraz](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Rozpocznij bezpłatny okres próbny](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa**: [Zapytaj tutaj](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia**: [Zadaj pytania](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia**: [Zadaj pytania](https://forum.aspose.com/c/imaging/14)
 
 Dzięki eksploracji tych zasobów będziesz mieć solidne podstawy do opanowania Aspose.Imaging i jego możliwości. Miłego kodowania!
 

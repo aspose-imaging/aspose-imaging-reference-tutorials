@@ -183,7 +183,7 @@ A: Monitor resource usage, optimize image processing logic, and use efficient da
 - **Purchase:** [Buy Aspose Licensing Options](https://purchase.aspose.com/buy)
 - **Free Trial:** [Start Free with Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Forum for Support](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose Forum for Support](https://forum.aspose.com/c/imaging/14)
 
 By following this guide, you're well on your way to mastering image processing with Aspose.Imaging in Java!
 

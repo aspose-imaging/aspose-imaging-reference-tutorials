@@ -156,7 +156,7 @@ A: Gebruik try-catch-blokken om uitzonderingen op een elegante manier te beheren
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Gratis starten](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Forums](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Forums](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -153,7 +153,7 @@ A5: 압축 속성을 조정하려면 다음을 사용하세요. `JpegOptions` �
 - **라이센스 구매**: [Aspose Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose Imaging 다운로드](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

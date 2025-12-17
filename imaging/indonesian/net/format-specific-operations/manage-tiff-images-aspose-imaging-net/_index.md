@@ -157,7 +157,7 @@ A: Manfaatkan kemampuan pemrosesan batch Aspose.Imaging untuk mengelola beberapa
 A: Walaupun kinerjanya dapat bervariasi dengan file yang sangat besar, Aspose.Imaging dirancang untuk menangani data gambar yang besar secara efisien.
 
 **Q5: Pilihan dukungan apa yang tersedia jika saya mengalami masalah?**
-A: Akses dokumentasi terperinci dan forum komunitas untuk tips pemecahan masalah di [Dukungan Aspose](https://forum.aspose.com/c/imaging/10).
+A: Akses dokumentasi terperinci dan forum komunitas untuk tips pemecahan masalah di [Dukungan Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Sumber daya
 - **Dokumentasi**: [Dokumentasi Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)

@@ -225,7 +225,7 @@ Klaar om het uit te proberen? Implementeer deze technieken in uw volgende projec
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proeftoegang](https://releases.aspose.com/imaging/java/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Met deze uitgebreide handleiding bent u nu klaar om Aspose.Imaging Java te gebruiken voor efficiënte beeldverwerking in uw projecten. Veel plezier met coderen!
 

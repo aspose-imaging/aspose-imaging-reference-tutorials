@@ -178,7 +178,7 @@ A3: Látogassa meg a [ideiglenes licencoldal](https://purchase.aspose.com/tempor
 4. válasz: Gyakori kihívások közé tartozik a fájlméret és a minőség közötti megfelelő egyensúly megtalálása, valamint a nagy képek memóriahasználatának kezelése.
 
 **5. kérdés: Van közösségi vagy támogatói fórum az Aspose.Imaging felhasználók számára?**  
-A5: Igen, meglátogathatja [Aspose képalkotó fóruma](https://forum.aspose.com/c/imaging/10) hogy segítséget kérjen más felhasználóktól és az Aspose csapatától.
+A5: Igen, meglátogathatja [Aspose képalkotó fóruma](https://forum.aspose.com/c/imaging/14) hogy segítséget kérjen más felhasználóktól és az Aspose csapatától.
 
 ## Erőforrás
 
@@ -187,7 +187,7 @@ A5: Igen, meglátogathatja [Aspose képalkotó fóruma](https://forum.aspose.com
 - **Vásárlás:** Fontolja meg a teljes hozzáféréshez szükséges licenc megvásárlását a következő címen: [Aspose Vásárlási Oldal](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** Kezdje egy értékeléssel a következőn keresztül: [Az Aspose ingyenes próbaverziója](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** Ideiglenes jogosítvány igénylése itt: [Aspose ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** Csatlakozz a beszélgetéshez [Aspose képalkotási támogatói fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** Csatlakozz a beszélgetéshez [Aspose képalkotási támogatói fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével hatékonyan kezelheted és optimalizálhatod a GIF fájlokat az Aspose.Imaging for Java segítségével, biztosítva a kiváló minőségű vizuális élményt csökkentett fájlméret mellett. Jó kódolást!
 

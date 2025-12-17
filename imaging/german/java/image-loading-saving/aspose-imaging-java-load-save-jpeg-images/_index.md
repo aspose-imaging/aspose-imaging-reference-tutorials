@@ -176,7 +176,7 @@ A: Überwachen Sie die Ressourcennutzung, optimieren Sie die Bildverarbeitungslo
 - **Kaufen:** [Aspose-Lizenzierungsoptionen kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Starten Sie kostenlos mit Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Holen Sie sich eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Aspose-Forum für Support](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** [Aspose-Forum für Support](https://forum.aspose.com/c/imaging/14)
 
 Wenn Sie dieser Anleitung folgen, sind Sie auf dem besten Weg, die Bildverarbeitung mit Aspose.Imaging in Java zu meistern!
 

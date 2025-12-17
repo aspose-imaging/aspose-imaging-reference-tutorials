@@ -173,7 +173,7 @@ Untuk lebih mengeksplorasi kemampuan Aspose.Imaging, pertimbangkan untuk mempela
    - Pertimbangkan untuk memecah proses menjadi bagian-bagian yang lebih kecil atau gunakan metode hemat memori yang disediakan oleh perpustakaan.
 
 5. **Di mana saya bisa mendapatkan dukungan jika saya mengalami masalah?**
-   - Mengunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10) untuk bantuan dari pakar komunitas dan staf Aspose.
+   - Mengunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14) untuk bantuan dari pakar komunitas dan staf Aspose.
 
 ## Sumber daya
 

@@ -227,7 +227,7 @@ Sonra, Aspose.Imaging'in daha gelişmiş özelliklerini keşfetmeyi veya görün
    - Evet, uygun lisanslama ile profesyonel ve kurumsal uygulamalar için idealdir.
 
 5. **Aspose.Imaging hakkında daha fazla kaynağı nerede bulabilirim?**
-   - Ziyaret etmek [Aspose belgeleri](https://reference.aspose.com/imaging/java/) ve [destek forumu](https://forum.aspose.com/c/imaging/10) Ayrıntılı kılavuzlar ve topluluk yardımı için.
+   - Ziyaret etmek [Aspose belgeleri](https://reference.aspose.com/imaging/java/) ve [destek forumu](https://forum.aspose.com/c/imaging/14) Ayrıntılı kılavuzlar ve topluluk yardımı için.
 
 ## Kaynaklar
 

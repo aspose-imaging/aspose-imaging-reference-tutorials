@@ -177,7 +177,7 @@ Chúng tôi khuyến khích bạn thử triển khai giải pháp này và khám
 - **Tài liệu**: Khám phá các kịch bản sử dụng chi tiết tại [Tài liệu Java Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - **Tải về**: Nhận thư viện Aspose.Imaging mới nhất từ [Aspose phát hành](https://releases.aspose.com/imaging/java/).
 - **Mua và dùng thử miễn phí**: Tìm hiểu thêm về việc xin giấy phép trên [trang mua hàng](https://purchase.aspose.com/buy) hoặc bắt đầu bằng bản dùng thử miễn phí.
-- **Ủng hộ**: Nếu có thắc mắc, hãy truy cập [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10).
+- **Ủng hộ**: Nếu có thắc mắc, hãy truy cập [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

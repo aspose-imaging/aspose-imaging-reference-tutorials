@@ -183,7 +183,7 @@ Bu çözümü uygulamaya hazır mısınız? Hemen koda dalın!
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz deneyin](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Görüntü işleme görevlerinizi kolaylıkla ve hassasiyetle bir üst seviyeye taşımak için Aspose.Imaging for Java'nın gücünü kucaklayın!
 

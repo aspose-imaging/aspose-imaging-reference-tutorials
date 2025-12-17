@@ -228,7 +228,7 @@ Dalam tutorial ini, Anda telah mempelajari cara memuat, memodifikasi, dan menyim
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah mengintegrasikan kemampuan pemrosesan gambar hebat ini ke dalam aplikasi Java Anda hari ini, dan tingkatkan cara Anda menangani gambar DICOM!
 

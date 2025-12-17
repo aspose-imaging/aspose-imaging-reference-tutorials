@@ -144,7 +144,7 @@ A5: Andra populära alternativ inkluderar ImageSharp och SkiaSharp, men Aspose.I
 - **Köpa**: [Köp en licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Kom igång](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Begär här](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -177,7 +177,7 @@ For further exploration, consider experimenting with other image formats support
 - **Purchase License:** [Buy Aspose.License](https://purchase.aspose.com/buy)
 - **Free Trial:** [Start Free Trial](https://releases.aspose.com/imaging/net/)
 - **Temporary License:** [Get Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum:** [Aspose.Imaging Support](https://forum.aspose.com/c/imaging/10)
+- **Support Forum:** [Aspose.Imaging Support](https://forum.aspose.com/c/imaging/14)
 
 Embark on your journey with Aspose.Imaging for .NET today and unlock new possibilities in image processing!
 

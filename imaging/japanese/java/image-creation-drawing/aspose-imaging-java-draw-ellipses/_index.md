@@ -206,7 +206,7 @@ Aspose.Imaging を使用する場合は、次の点を考慮してください�
 - **購入**https://purchase.aspose.com/buy
 - **無料トライアル**https://releases.aspose.com/imaging/java/
 - **一時ライセンス**https://purchase.aspose.com/temporary-license/
-- **サポート**https://forum.aspose.com/c/imaging/10
+- **サポート**https://forum.aspose.com/c/imaging/14
 
 このチュートリアルがお役に立てば幸いです。楽しいコーディングを！
 

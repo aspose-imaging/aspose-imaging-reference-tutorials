@@ -201,7 +201,7 @@ Door deze technieken onder de knie te krijgen, kunt u Aspose.Imaging voor .NET g
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Bekijk deze bronnen gerust en neem contact op met onze ondersteuning als je vragen hebt. Veel plezier met coderen!
 

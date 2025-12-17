@@ -244,7 +244,7 @@ Den här handledningen behandlade hur man konfigurerar och använder Aspose.Imag
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Aspose.Imaging Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Begär tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose.Imaging supportforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose.Imaging supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att använda Aspose.Imaging för Java kan du sömlöst integrera högkvalitativ EMF-teckensnitt och textrendering i dina applikationer, vilket förbättrar både funktionalitet och visuell attraktionskraft.
 

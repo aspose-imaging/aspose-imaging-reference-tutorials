@@ -157,7 +157,7 @@ Expérimentez avec différents formats d'image pris en charge par Aspose.Imaging
 - **Achat**: [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Essayez Aspose.Imaging gratuitement](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

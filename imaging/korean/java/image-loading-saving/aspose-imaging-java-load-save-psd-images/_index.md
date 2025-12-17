@@ -193,7 +193,7 @@ Aspose.Imaging for Java를 사용하여 이미지를 로드하고, 저장 옵션
 - **라이센스 구매:** [오늘 정식 라이선스를 구매하세요](https://purchase.aspose.com/buy)
 - **무료 체험:** [무료 체험판으로 시작하세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼:** [커뮤니티로부터 도움을 받으세요](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼:** [커뮤니티로부터 도움을 받으세요](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따라 하면 Aspose.Imaging을 사용하여 강력한 이미지 처리 기능을 Java 애플리케이션에 통합할 수 있습니다. 즐거운 코딩 되세요!
 

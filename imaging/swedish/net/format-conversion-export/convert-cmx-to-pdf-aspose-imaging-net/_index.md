@@ -175,7 +175,7 @@ A: Granska dina inställningar för rasterisering och utjämning i `PdfOptions` 
 - **Köpa**: [Köp Aspose.Imaging-licenser](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Starta en gratis provperiod av Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens för Aspose.Imaging](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose Bildforum](https://forum.aspose.com/c/imaging/10) 
+- **Stöd**: [Aspose Bildforum](https://forum.aspose.com/c/imaging/14) 
 
 Genom att följa den här guiden är du väl rustad för att enkelt hantera konverteringar från CMX till PDF.
 

@@ -163,7 +163,7 @@ Vous savez maintenant comment charger, enregistrer et supprimer des images avec 
 - **Achat**: Achetez votre licence chez [Achat Aspose](https://purchase.aspose.com/buy).
 - **Essai gratuit**:Testez avec un essai gratuit disponible sur leur site.
 - **Permis temporaire**:Obtenez-en un pour un accès complet aux fonctionnalités sans limitations.
-- **Soutien**: Obtenez de l'aide de la communauté sur [Forum Aspose](https://forum.aspose.com/c/imaging/10). 
+- **Soutien**: Obtenez de l'aide de la communauté sur [Forum Aspose](https://forum.aspose.com/c/imaging/14). 
 
 En suivant ce guide complet, vous êtes désormais équipé pour gérer efficacement les fichiers image dans vos applications Java à l'aide d'Aspose.Imaging !
 

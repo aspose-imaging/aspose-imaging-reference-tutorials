@@ -220,7 +220,7 @@ A5: Có, mặc dù bạn có thể bắt đầu bằng bản dùng thử miễn 
 - **Mua**: Mua giấy phép thông qua [Mua Aspose](https://purchase.aspose.com/buy).
 - **Dùng thử miễn phí**: Bắt đầu bằng bản dùng thử để kiểm tra các tính năng tại [Bản dùng thử miễn phí của Aspose](https://releases.aspose.com/imaging/java/).
 - **Giấy phép tạm thời**: Yêu cầu một thông qua [Giấy phép tạm thời Aspose](https://purchase.aspose.com/temporary-license/).
-- **Ủng hộ**: Nếu có thắc mắc, hãy liên hệ qua [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10).
+- **Ủng hộ**: Nếu có thắc mắc, hãy liên hệ qua [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14).
 
 Bằng cách làm theo hướng dẫn này và sử dụng Aspose.Imaging for Java, bạn sẽ được trang bị đầy đủ để xử lý bản xem trước hình ảnh EPS và xóa tệp an toàn trong các dự án của mình. Chúc bạn viết mã vui vẻ!
 

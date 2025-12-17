@@ -163,7 +163,7 @@ Prêt à faire passer votre développement Java au niveau supérieur ? Essayez 
 - [Acheter une licence](https://purchase.aspose.com/buy)
 - [Essai gratuit et licence temporaire](https://releases.aspose.com/imaging/java/)
 
-Pour toute autre question, visitez le [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)Bon codage !
+Pour toute autre question, visitez le [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)Bon codage !
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

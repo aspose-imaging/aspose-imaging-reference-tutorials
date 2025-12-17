@@ -169,7 +169,7 @@ try (JpegImage image = (JpegImage) Image.load("YOUR_DOCUMENT_DIRECTORY/aspose-lo
 ج4: قد تحتوي النسخة التجريبية على قيود استخدام مثل العلامة المائية أو حدود المعالجة.
 
 **س5: كيف يمكنني الحصول على الدعم إذا واجهت مشاكل مع Aspose.Imaging؟**
-أ5: قم بزيارة [منتديات Aspose](https://forum.aspose.com/c/imaging/10) للحصول على الدعم المجتمعي والرسمي.
+أ5: قم بزيارة [منتديات Aspose](https://forum.aspose.com/c/imaging/14) للحصول على الدعم المجتمعي والرسمي.
 
 ## موارد
 
@@ -178,7 +178,7 @@ try (JpegImage image = (JpegImage) Image.load("YOUR_DOCUMENT_DIRECTORY/aspose-lo
 - **شراء**:الحصول على الترخيص من خلال [شراء Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**:ابدأ بفترة تجريبية مجانية في [تجربة مجانية لبرنامج Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**:طلب ترخيص مؤقت من [ترخيص Aspose المؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم**:انضم إلى المناقشة في [منتديات دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **يدعم**:انضم إلى المناقشة في [منتديات دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 ابدأ رحلتك مع Aspose.Imaging لـ Java واكتشف إمكانيات جديدة في معالجة الصور اليوم!
 

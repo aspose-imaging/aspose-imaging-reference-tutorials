@@ -168,7 +168,7 @@ Redo att dyka djupare? Implementera dessa lösningar i dina projekt idag!
 - [Köpa](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Utforska dessa resurser för att förbättra din förståelse och tillämpning av Aspose.Imaging .NET för hantering av DjVu-filer. Lycka till med kodningen!
 

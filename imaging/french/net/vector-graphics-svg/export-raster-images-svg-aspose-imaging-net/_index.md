@@ -167,7 +167,7 @@ Prêt à mettre en œuvre ? Commencez à convertir vos images dès aujourd'hui�
 - [Acheter des licences](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/net/)
 - [Demande de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 Grâce à ce guide complet, vous êtes prêt à utiliser Aspose.Imaging pour .NET dans vos projets. Bon codage !
 

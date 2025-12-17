@@ -211,7 +211,7 @@ In questo tutorial, abbiamo trattato gli aspetti essenziali del caricamento, del
 - **Acquistare**: Acquista una licenza per uso commerciale su [questo collegamento](https://purchase.aspose.com/buy)
 - **Prova gratuita**: Inizia con una prova gratuita per testare le funzionalità su [Il sito web di Aspose](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea**: Ottieni una licenza temporanea per una valutazione estesa da [Qui](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: Partecipa alle discussioni o chiedi aiuto su [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: Partecipa alle discussioni o chiedi aiuto su [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

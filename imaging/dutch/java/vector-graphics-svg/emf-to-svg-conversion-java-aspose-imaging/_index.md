@@ -199,7 +199,7 @@ Probeer deze oplossing vandaag nog in een project uit en zie hoe het uw workflow
    - De bibliotheek is beschikbaar onder een proeflicentie; voor alle functies moet u betalen.
 
 5. **Waar kan ik indien nodig ondersteuning krijgen?**
-   - Bezoek [Aspose's ondersteuningsforum](https://forum.aspose.com/c/imaging/10) voor hulp.
+   - Bezoek [Aspose's ondersteuningsforum](https://forum.aspose.com/c/imaging/14) voor hulp.
 
 ## Bronnen
 

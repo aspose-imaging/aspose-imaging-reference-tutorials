@@ -171,7 +171,7 @@ Sie verfügen nun über die Tools, um JPEG- und TIFF-Bilder mit Aspose.Imaging f
 - **Kaufen**: [Aspose Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Kostenlos testen](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Holen Sie sich eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Wenn Sie diesem Tutorial folgen, sind Sie gut gerüstet, um Bildkonvertierungsaufgaben in Ihren medizinischen Bildgebungsprojekten mit Aspose.Imaging für Java zu bewältigen.
 

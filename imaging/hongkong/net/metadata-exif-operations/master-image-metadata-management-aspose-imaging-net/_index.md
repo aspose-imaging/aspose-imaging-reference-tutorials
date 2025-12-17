@@ -195,7 +195,7 @@ image.Save(outputPath, exportOptions);
 - **購買：** [購買許可證](https://purchase.aspose.com/buy)
 - **免費試用：** [免費試用](https://releases.aspose.com/imaging/net/)
 - **臨時執照：** [點擊此處獲取](https://purchase.aspose.com/temporary-license/)
-- **支持：** [社群論壇](https://forum.aspose.com/c/imaging/10)
+- **支持：** [社群論壇](https://forum.aspose.com/c/imaging/14)
 
 我們希望本指南能夠幫助您自信地使用 Aspose.Imaging for .NET 管理映像元資料。祝您編碼愉快！
 

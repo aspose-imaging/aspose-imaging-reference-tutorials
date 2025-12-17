@@ -221,7 +221,7 @@ V5: Adja hozzá az Aspose.Imaging függőséget a projekthez Maven vagy Gradle h
 - **Vásárlás**: Szerezzen be licencet a következőn keresztül: [Az Aspose vásárlási oldala](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: Kezdj el kísérletezni [Az Aspose ingyenes próbaverziója](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**Bővített hozzáférés beszerzése a következőn keresztül: [Az Aspose ideiglenes licencoldala](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: Lépjen kapcsolatba a közösséggel és a támogató csapattal a következő címen: [Aspose fóruma](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: Lépjen kapcsolatba a közösséggel és a támogató csapattal a következő címen: [Aspose fóruma](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével felkészült leszel arra, hogy fájlérvényesítést és elérési útkezelést valósíts meg Java-alkalmazásaidban az Aspose.Imaging használatával. Jó kódolást!
 

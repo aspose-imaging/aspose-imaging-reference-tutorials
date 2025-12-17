@@ -174,7 +174,7 @@ Use técnicas eficientes de gerenciamento de memória e garanta que seu ambiente
 - **Comprar:** [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Teste gratuito do Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licença temporária:** [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar:** [Fórum de Imagem Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar:** [Fórum de Imagem Aspose](https://forum.aspose.com/c/imaging/14)
 
 Com este guia completo, você agora está preparado para implementar configurações de DPI em suas exportações de PDF usando o Aspose.Imaging para Java. Boa programação!
 

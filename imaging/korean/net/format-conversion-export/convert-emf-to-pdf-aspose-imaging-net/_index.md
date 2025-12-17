@@ -166,7 +166,7 @@ EMF를 PDF로 변환하는 데는 여러 가지 실용적인 용도가 있습니
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/net/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따라 하면 이제 Aspose.Imaging을 사용하여 .NET 프로젝트에서 EMF-PDF 변환을 구현할 수 있습니다. 즐거운 코딩 되세요!
 

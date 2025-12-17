@@ -247,7 +247,7 @@ Ebben az oktatóanyagban megtanultad, hogyan manipulálhatod zökkenőmentesen a
 - [Vásárlás](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezt az átfogó útmutatót követve felkészülhetsz arra, hogy fejlett képfeldolgozási képességeket integrálj Java-alkalmazásaidba az Aspose.Imaging segítségével. Jó kódolást!
 

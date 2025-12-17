@@ -197,7 +197,7 @@ V: Igen, integrálható ASP.NET alkalmazásokba és más szerveroldali keretrend
 - **Vásárlás**: [Aspose.Imaging licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbáld ki az Aspose.Imaging ingyenes verzióját](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Reméljük, hogy ez az útmutató segít abban, hogy az Aspose.Imaging segítségével a lehető legjobban kihasználd a DjVu képfeldolgozási igényeidet .NET-ben. Jó kódolást!
 

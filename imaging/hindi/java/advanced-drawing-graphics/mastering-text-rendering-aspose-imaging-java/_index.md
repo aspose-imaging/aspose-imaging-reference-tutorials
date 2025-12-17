@@ -215,7 +215,7 @@ try {
 - **Download:** नवीनतम Aspose.Imaging संस्करण प्राप्त करें [Releases Page](https://releases.aspose.com/imaging/java/) से।  
 - **Purchase:** पूर्ण लाइसेंस प्राप्त करें [Aspose Purchase Page](https://purchase.aspose.com/buy) के माध्यम से।  
 - **Free Trial:** [Temporary License Page](https://purchase.aspose.com/temporary-license/) पर उपलब्ध फ्री ट्रायल के साथ Aspose.Imaging आज़माएँ।  
-- **Support:** चर्चा में शामिल हों या मदद लें [Aspose Forum](https://forum.aspose.com/c/imaging/10) पर।
+- **Support:** चर्चा में शामिल हों या मदद लें [Aspose Forum](https://forum.aspose.com/c/imaging/14) पर।
 
 ---
 

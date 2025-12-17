@@ -295,7 +295,7 @@ Siéntete libre de experimentar y aplicar estos métodos en tus próximos proyec
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Explora estos recursos para aprender más y obtener apoyo. ¡Que disfrutes programando!
 

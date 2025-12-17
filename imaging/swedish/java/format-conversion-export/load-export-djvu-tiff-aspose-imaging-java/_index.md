@@ -203,7 +203,7 @@ Redo att implementera dessa lösningar i dina egna projekt? Fördjupa dig i doku
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Få en gratis licens](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Begär en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose Community Forum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose Community Forum](https://forum.aspose.com/c/imaging/14)
 
 Genom att använda Aspose.Imaging för Java kan du effektivisera dina dokumentbehandlingsarbetsflöden och hantera DjVu-filer med lätthet. Lycka till med kodningen!
 

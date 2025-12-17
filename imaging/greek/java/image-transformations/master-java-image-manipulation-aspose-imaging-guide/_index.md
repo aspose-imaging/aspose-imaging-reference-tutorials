@@ -213,7 +213,7 @@ A5: Το Aspose.Imaging είναι συμβατό με τα περισσότερ
 - **Λήψη**: Αποκτήστε την τελευταία έκδοση από [Εκδόσεις Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Αγορά**Αποκτήστε την άδειά σας στο [Σελίδα Αγοράς Aspose](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**Δοκιμάστε λειτουργίες με μια προσωρινή άδεια χρήσης που είναι διαθέσιμη στο [Δωρεάν δοκιμή Aspose](https://releases.aspose.com/imaging/java/)
-- **Υποστήριξη**: Συμμετέχετε στη συζήτηση στο [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: Συμμετέχετε στη συζήτηση στο [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ξεκινήστε να πειραματίζεστε και να ξεκλειδώνετε νέες δημιουργικές δυνατότητες με το Aspose.Imaging για Java σήμερα!
 

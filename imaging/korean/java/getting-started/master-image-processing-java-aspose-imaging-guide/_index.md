@@ -227,7 +227,7 @@ Aspose.Imaging을 사용할 때 성능을 최적화하려면 다음 팁을 고�
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험판](https://releases.aspose.com/imaging/java/)
 - [임시 면허 요청](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드는 Java에서 Aspose.Imaging을 활용하는 데 필요한 포괄적인 기반을 제공합니다. 이러한 기술을 이해하면 강력한 이미지 처리 기능으로 애플리케이션을 향상시킬 수 있습니다. 즐거운 코딩 되세요!
 

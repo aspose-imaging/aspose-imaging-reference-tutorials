@@ -223,7 +223,7 @@ C5: Bir dosyadaki belirli konumlardan okuma veya yazma yapmanıza olanak tanır,
 - [Aspose.Imaging'i indirin](https://releases.aspose.com/imaging/java/)
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme ve Geçici Lisans](https://releases.aspose.com/imaging/java/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10) 
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14) 
 
 Aspose.Imaging Java ile yolculuğunuza bugün başlayın ve projelerinizde yüksek performanslı görüntü işleme potansiyelinin kilidini açın!
 

@@ -181,7 +181,7 @@ Neste tutorial, exploramos como desenhar um arco em uma imagem usando o Aspose.I
 - [Comprar uma licença](https://purchase.aspose.com/buy)
 - [Teste grátis](https://releases.aspose.com/imaging/net/)
 - [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Esperamos que este guia ajude você em sua jornada com o Aspose.Imaging para .NET. Boa programação!
 

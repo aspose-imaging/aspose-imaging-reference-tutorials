@@ -199,7 +199,7 @@ Gratulacje! Nauczyłeś się, jak ładować, manipulować i zapisywać obrazy za
    - Obsługuje ponad 50 formatów obrazów, w tym JPEG, PNG, TIFF i inne.
 
 5. **Jak mogę uzyskać pomoc, jeśli napotkam problemy?**
-   - Odwiedzać [Forum Aspose'a](https://forum.aspose.com/c/imaging/10) w celu uzyskania wsparcia i porad społeczności.
+   - Odwiedzać [Forum Aspose'a](https://forum.aspose.com/c/imaging/14) w celu uzyskania wsparcia i porad społeczności.
 
 ## Zasoby
 

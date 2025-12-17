@@ -206,7 +206,7 @@ Aspose.Imaging का उपयोग करते समय, निम्नल
 - **खरीदना**: https://purchase.aspose.com/buy
 - **मुफ्त परीक्षण**: https://releases.aspose.com/imaging/java/
 - **अस्थायी लाइसेंस**: https://purchase.aspose.com/temporary-license/
-- **सहायता**: https://forum.aspose.com/c/imaging/10
+- **सहायता**: https://forum.aspose.com/c/imaging/14
 
 हमें उम्मीद है कि आपको यह ट्यूटोरियल उपयोगी लगा होगा। हैप्पी कोडिंग!
 

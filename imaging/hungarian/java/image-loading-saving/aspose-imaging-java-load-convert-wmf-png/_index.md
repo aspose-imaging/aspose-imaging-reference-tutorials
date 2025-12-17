@@ -202,7 +202,7 @@ Készen állsz a megoldások bevezetésére? Merülj el magabiztosan a fejlett k
    - Használjon megfelelő raszterizációs beállításokat, és figyelje a rendszer erőforrásait a kötegelt feldolgozás során.
 
 5. **Hogyan kaphatok támogatást, ha problémákba ütközöm?**
-   - Látogassa meg a [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/10) közösségi támogatásért, vagy vegye fel a kapcsolatot a szakmai támogató csapatukkal.
+   - Látogassa meg a [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/14) közösségi támogatásért, vagy vegye fel a kapcsolatot a szakmai támogató csapatukkal.
 
 ## Erőforrás
 

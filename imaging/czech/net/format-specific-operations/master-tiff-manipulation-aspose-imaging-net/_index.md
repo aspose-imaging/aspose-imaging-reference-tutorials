@@ -168,7 +168,7 @@ Prozkoumejte další funkce Aspose.Imaging nebo integrujte tyto možnosti do sv�
 - [Zakoupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - [Dočasná licence pro hodnocení](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Tento tutoriál vás vybavil nástroji pro efektivní manipulaci s obrázky TIFF pomocí knihovny Aspose.Imaging .NET. Začněte tyto techniky implementovat ve svých projektech a prozkoumejte další možnosti, které tato výkonná knihovna nabízí!
 

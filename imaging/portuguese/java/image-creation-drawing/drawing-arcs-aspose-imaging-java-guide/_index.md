@@ -192,7 +192,7 @@ Explore a classe Graphics na documentação da API, que oferece métodos para de
 - **Comprar**: [Compre o licenciamento Aspose](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Experimente o Aspose.Imaging gratuitamente](https://releases.aspose.com/imaging/java/)
 - **Licença Temporária**: [Solicite aqui](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Explore estes recursos para aprofundar seu conhecimento e ampliar os recursos do Aspose.Imaging Java em seus projetos. Boa programação!
 

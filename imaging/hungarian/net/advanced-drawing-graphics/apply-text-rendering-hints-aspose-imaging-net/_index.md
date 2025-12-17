@@ -173,7 +173,7 @@ V: Gyakori problémák a memóriaszivárgások és a teljesítménybeli szűk ke
 - **Vásárlás**: Vásároljon licencet vagy szerezzen ingyenes próbaverziót innen: [Aspose vásárlás](https://purchase.aspose.com/buy).
 - **Ingyenes próbaverzió**Kezdje egy próbaverzióval itt: [Kiadások](https://releases.aspose.com/imaging/net/).
 - **Ideiglenes engedély**: Kérjen egyet innen: [Aspose](https://purchase.aspose.com/temporary-license/).
-- **Támogatás**Kérjen segítséget a következő helyen: [Aspose Fórum](https://forum.aspose.com/c/imaging/10).
+- **Támogatás**Kérjen segítséget a következő helyen: [Aspose Fórum](https://forum.aspose.com/c/imaging/14).
 
 Indulj el a képfeldolgozás elsajátításának útján az Aspose.Imaging segítségével, és emeld alkalmazásaid új magasságokba!
 

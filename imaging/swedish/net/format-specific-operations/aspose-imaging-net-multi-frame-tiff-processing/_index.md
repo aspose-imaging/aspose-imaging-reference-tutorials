@@ -167,7 +167,7 @@ Du har nu bemästrat hur man laddar och sparar TIFF-bilder med Aspose.Imaging f�
 - **Köpa**: [Köp en licens för Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Börja med en gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Begär en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose Bildforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose Bildforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

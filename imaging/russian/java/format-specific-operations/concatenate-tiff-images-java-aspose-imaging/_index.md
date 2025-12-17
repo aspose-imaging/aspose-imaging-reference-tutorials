@@ -181,7 +181,7 @@ try {
 - [Лицензия на покупку](https://purchase.aspose.com/buy)
 - [Бесплатная пробная версия](https://releases.aspose.com/imaging/java/)
 - [Временная лицензия](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки](https://forum.aspose.com/c/imaging/14)
 
 Этот урок снабдил вас знаниями для решения сложных задач по объединению изображений TIFF с использованием Aspose.Imaging для Java. Удачного кодирования!
 

@@ -237,7 +237,7 @@ Bước tiếp theo, hãy cân nhắc khám phá các bộ lọc và tính năng
 - **Tài liệu:** [Tài liệu Aspose.Imaging cho Java](https://reference.aspose.com/imaging/java/)
 - **Tải xuống:** [Bản phát hành Aspose.Imaging cho Java](https://releases.aspose.com/imaging/java/)
 - **Mua & Dùng thử miễn phí:** [Mua hoặc dùng thử Aspose.Imaging cho Java](https://purchase.aspose.com/buy)
-- **Diễn đàn hỗ trợ:** [Cộng đồng hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** [Cộng đồng hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn toàn diện này sẽ cung cấp cho bạn kiến thức để giảm hiệu quả hiện tượng nhòe chuyển động trong hình ảnh bằng Aspose.Imaging for Java. Chúc bạn viết mã vui vẻ!
 

@@ -258,7 +258,7 @@ A5: Rozważ przetwarzanie większych obrazów w mniejszych fragmentach, wykorzys
 - **Kup licencję:** [Kup licencję](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Pobierz bezpłatną wersję próbną](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa:** [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia:** [Wsparcie Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia:** [Wsparcie Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Mamy nadzieję, że ten samouczek wyposażył Cię w umiejętności, które pozwolą Ci udoskonalić zadania przetwarzania obrazu przy użyciu Aspose.Imaging for Java. Miłego kodowania!
 

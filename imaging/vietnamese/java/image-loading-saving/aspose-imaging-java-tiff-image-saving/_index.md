@@ -175,7 +175,7 @@ Khám phá các tính năng khác của Aspose.Imaging hoặc tích hợp vào c
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Hãy thử Aspose.Imaging miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn này nhằm mục đích cung cấp cho bạn mọi thứ cần thiết để bắt đầu làm việc hiệu quả với hình ảnh TIFF trong Java bằng Aspose.Imaging. Chúc bạn viết mã vui vẻ!
 

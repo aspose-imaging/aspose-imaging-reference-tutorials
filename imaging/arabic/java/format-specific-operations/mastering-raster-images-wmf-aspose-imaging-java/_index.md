@@ -159,7 +159,7 @@ try (WmfImage resultImage = graphics.endRecording()) {
 - **خيارات الشراء:** https://purchase.aspose.com/buy
 - **نسخة تجريبية مجانية:** https://releases.aspose.com/imaging/java/
 - **رخصة مؤقتة:** https://purchase.aspose.com/temporary-license/
-- **منتدى الدعم:** https://forum.aspose.com/c/imaging/10
+- **منتدى الدعم:** https://forum.aspose.com/c/imaging/14
 
 باستخدام Aspose.Imaging لجافا، يمكنك تحسين تطبيقاتك بإمكانيات معالجة صور متقدمة. برمجة ممتعة!
 

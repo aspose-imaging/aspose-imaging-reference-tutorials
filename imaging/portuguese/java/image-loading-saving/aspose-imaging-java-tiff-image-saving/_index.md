@@ -175,7 +175,7 @@ Explore outros recursos do Aspose.Imaging ou integre-o aos seus projetos existen
 - **Comprar**: [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Experimente o Aspose.Imaging gratuitamente](https://releases.aspose.com/imaging/java/)
 - **Licença Temporária**: [Solicitar uma Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Este guia tem como objetivo fornecer tudo o que você precisa para começar a trabalhar efetivamente com imagens TIFF em Java usando Aspose.Imaging. Boa programação!
 

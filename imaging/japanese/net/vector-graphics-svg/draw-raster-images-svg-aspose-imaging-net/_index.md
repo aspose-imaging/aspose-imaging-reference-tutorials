@@ -187,7 +187,7 @@ Aspose.Imaging for .NET を使って、SVG キャンバスにラスター画像�
 - **購入**： [ライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [始める](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [リクエストはこちら](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 今すぐ Aspose.Imaging for .NET を導入して、アプリケーションで画像を処理する方法を変革しましょう。
 

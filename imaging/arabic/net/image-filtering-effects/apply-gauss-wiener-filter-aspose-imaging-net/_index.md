@@ -133,7 +133,7 @@ image.Save(outputDir + "/ApplyGaussWienerFilter_out.gif");
 
 تهانينا! لقد نجحت في تطبيق مرشح Gauss Wiener على الصور الملونة باستخدام Aspose.Imaging .NET. زودك هذا البرنامج التعليمي بالمعرفة اللازمة لتحسين مهام معالجة الصور، وضمان نتائج أكثر وضوحًا ودقة.
 
-لمواصلة استكشاف إمكانيات Aspose.Imaging، يُرجى الاطلاع على الفلاتر والميزات الأخرى المتوفرة في المكتبة. لمزيد من الأسئلة أو الدعم، يُرجى مراجعة [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10).
+لمواصلة استكشاف إمكانيات Aspose.Imaging، يُرجى الاطلاع على الفلاتر والميزات الأخرى المتوفرة في المكتبة. لمزيد من الأسئلة أو الدعم، يُرجى مراجعة [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14).
 
 ## قسم الأسئلة الشائعة
 
@@ -158,7 +158,7 @@ image.Save(outputDir + "/ApplyGaussWienerFilter_out.gif");
 - **رخصة الشراء:** [شراء Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [رخصة تجريبية](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة:** [التقدم بطلب للحصول على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم:** [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم:** [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 استكشف هذه الموارد لتعميق فهمك وتحسين مشاريع معالجة الصور لديك. برمجة ممتعة!
 

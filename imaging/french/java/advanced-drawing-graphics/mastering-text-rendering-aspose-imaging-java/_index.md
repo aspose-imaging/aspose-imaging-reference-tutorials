@@ -224,7 +224,7 @@ Dans ce tutoriel, vous avez appris comment rendre du **texte avec polices** en J
 - **Download :** Téléchargez la dernière version d'Aspose.Imaging depuis la [Releases Page](https://releases.aspose.com/imaging/java/).  
 - **Purchase :** Obtenez une licence complète via la [Aspose Purchase Page](https://purchase.aspose.com/buy).  
 - **Free Trial :** Essayez Aspose.Imaging avec un essai gratuit disponible sur la [Temporary License Page](https://purchase.aspose.com/temporary-license/).  
-- **Support :** Rejoignez les discussions ou demandez de l'aide sur le [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Support :** Rejoignez les discussions ou demandez de l'aide sur le [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 ---
 

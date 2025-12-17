@@ -197,7 +197,7 @@ Redo att prova att implementera den här lösningen? Fördjupa dig i Aspose.Imag
 - **Köpa:** Besök [Aspose köpsida](https://purchase.aspose.com/buy) för licensalternativ
 - **Gratis provperiod:** Börja med en provperiod på [Länk för gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** Få tillfällig åtkomst via [Sida för tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** Engagera dig med gemenskapen på [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** Engagera dig med gemenskapen på [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

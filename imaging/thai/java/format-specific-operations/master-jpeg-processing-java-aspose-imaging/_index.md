@@ -224,7 +224,7 @@ jpegImage.save(outputPngRectFileName, new PngOptions(), quarter);
 - **ซื้อ:** [ซื้อ Aspose.Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี:** [เริ่มต้นด้วยการทดลองใช้ฟรี](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว:** [ขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน:** [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน:** [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14)
 
 เราหวังว่าคู่มือนี้จะเป็นประโยชน์กับคุณในการเรียนรู้การประมวลผลภาพ JPEG ด้วย Aspose.Imaging สำหรับ Java ลองใช้โซลูชันเหล่านี้เพื่อดูว่าโซลูชันเหล่านี้จะช่วยปรับปรุงโครงการของคุณได้อย่างไร!
 

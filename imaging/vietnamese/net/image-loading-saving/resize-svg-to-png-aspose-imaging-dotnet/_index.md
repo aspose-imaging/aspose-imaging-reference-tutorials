@@ -180,7 +180,7 @@ Sẵn sàng thử chưa? Triển khai các giải pháp này vào dự án của
 
 **Câu hỏi 5:** Tôi có thể nhận hỗ trợ ở đâu nếu gặp sự cố với Aspose.Imaging?
 
-**A5:** Ghé thăm [Diễn đàn hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/10) để được hỗ trợ từ các chuyên gia cộng đồng và nhà phát triển.
+**A5:** Ghé thăm [Diễn đàn hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/14) để được hỗ trợ từ các chuyên gia cộng đồng và nhà phát triển.
 
 ## Tài nguyên
 - **Tài liệu:** [Tài liệu Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -188,7 +188,7 @@ Sẵn sàng thử chưa? Triển khai các giải pháp này vào dự án của
 - **Mua:** [Mua giấy phép Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Aspose.Imaging dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời:** [Nhận giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

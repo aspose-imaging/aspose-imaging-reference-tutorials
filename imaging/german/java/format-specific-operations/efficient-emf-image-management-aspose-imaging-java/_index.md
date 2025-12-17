@@ -166,7 +166,7 @@ In diesem Tutorial haben Sie gelernt, wie Sie EMF-Bilder effizient mit Aspose.Im
 - **Kaufen:** [Kaufen Sie eine Lizenz](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Starten Sie Ihre kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Hier anfordern](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit dieser Anleitung sind Sie bestens gerüstet, um EMF-Bilder in Ihren Java-Anwendungen mit Aspose.Imaging effektiv zu verarbeiten. Viel Spaß beim Programmieren!
 

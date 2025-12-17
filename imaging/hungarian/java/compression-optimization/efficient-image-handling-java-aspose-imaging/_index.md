@@ -223,7 +223,7 @@ V5: Győződjön meg arról, hogy a képeket betöltés után gyorsítótárazta
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Aspose.Imaging ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/10) 
+- **Támogatás**: [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/14) 
 
 Ezzel az átfogó útmutatóval minden szükséges eszközzel elkezdheted integrálni az Aspose.Imaging-et Java projektjeidbe a hatékony képkezelés érdekében. Jó kódolást!
 

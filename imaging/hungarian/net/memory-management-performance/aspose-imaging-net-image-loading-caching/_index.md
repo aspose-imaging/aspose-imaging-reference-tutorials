@@ -138,7 +138,7 @@ Készen áll a következő lépésre? Próbálja ki ezt a megoldást a projektj�
 - **Vásárlás**: [Vásároljon Aspose termékeket](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbálja ki az Aspose.Imaging-et ingyen](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

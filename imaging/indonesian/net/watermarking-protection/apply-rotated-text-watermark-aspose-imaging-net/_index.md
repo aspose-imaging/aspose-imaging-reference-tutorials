@@ -159,7 +159,7 @@ Anda telah berhasil mempelajari cara menerapkan tanda air teks yang diputar ke g
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Cobalah menerapkan langkah-langkah ini dan lihat bagaimana Aspose.Imaging dapat menyederhanakan tugas pemrosesan gambar Anda!
 

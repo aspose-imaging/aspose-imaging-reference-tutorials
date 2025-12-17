@@ -228,7 +228,7 @@ A3: Zkontrolujte licenční podmínky ohledně omezení použití; jinak je prog
 
 **Q4: Co když během animace narazím na chyby?**
 
-A4: Ověřte cesty k souborům a ujistěte se, že všechny závislosti jsou správně nakonfigurovány. Konzultujte [Podpora Aspose](https://forum.aspose.com/c/imaging/10) pokud problémy přetrvávají.
+A4: Ověřte cesty k souborům a ujistěte se, že všechny závislosti jsou správně nakonfigurovány. Konzultujte [Podpora Aspose](https://forum.aspose.com/c/imaging/14) pokud problémy přetrvávají.
 
 **Q5: Jak mohu upravit vlastnosti rámečku pro dosažení jedinečných efektů?**
 
@@ -241,7 +241,7 @@ A5: Experimentujte s úpravami gama, prolínáním alfa nebo jinými transformac
 - **Nákup**: [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte Aspose.Imaging zdarma](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 S tímto komplexním průvodcem jste dobře vybaveni k zahájení tvorby animovaných PNG souborů v Javě pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 

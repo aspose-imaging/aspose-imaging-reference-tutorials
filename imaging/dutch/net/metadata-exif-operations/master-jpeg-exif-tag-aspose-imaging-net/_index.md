@@ -149,7 +149,7 @@ A3: Implementeer try-catch-blokken rond uw code voor het laden van afbeeldingen 
 A4: Ja, u kunt EXIF-tags lezen en schrijven met de uitgebreide API van Aspose.Imaging.
 
 **V5: Waar kan ik ondersteuning krijgen als ik problemen ondervind?**
-A5: Bezoek de [Aspose.Imaging forum](https://forum.aspose.com/c/imaging/10) voor steun van de gemeenschap en de overheid.
+A5: Bezoek de [Aspose.Imaging forum](https://forum.aspose.com/c/imaging/14) voor steun van de gemeenschap en de overheid.
 
 ## Bronnen
 

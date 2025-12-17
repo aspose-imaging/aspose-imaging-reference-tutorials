@@ -189,7 +189,7 @@ Sẵn sàng áp dụng các kỹ năng mới của bạn vào thực tế? Hãy 
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Truy cập dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Đơn xin cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ cộng đồng](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ cộng đồng](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn sẽ được trang bị đầy đủ để xử lý các chuyển đổi hình ảnh phức tạp bằng Aspose.Imaging .NET. Chúc bạn viết mã vui vẻ!
 

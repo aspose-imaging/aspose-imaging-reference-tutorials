@@ -153,7 +153,7 @@ Du har lärt dig hur man suddigar en bild med Aspose.Imaging för .NET, komplett
 - **Köpa**: [Köp Aspose-produkter](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Starta en gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Skaffa din tillfälliga licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

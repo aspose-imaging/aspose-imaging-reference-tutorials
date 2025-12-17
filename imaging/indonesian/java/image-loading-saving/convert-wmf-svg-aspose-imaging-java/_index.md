@@ -190,7 +190,7 @@ Selamat karena telah menyelesaikan panduan ini! Kini Anda memiliki keterampilan 
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Versi Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Ajukan Permohonan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Komunitas Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Komunitas Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan lengkap ini, Anda dapat menerapkan Aspose.Imaging secara efektif untuk mengonversi file WMF ke SVG di Java dan menjelajahi berbagai kemampuannya. Selamat membuat kode!
 

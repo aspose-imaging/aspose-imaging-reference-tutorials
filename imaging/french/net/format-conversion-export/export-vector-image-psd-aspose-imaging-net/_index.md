@@ -166,7 +166,7 @@ Dans une prochaine étape, envisagez d’expérimenter d’autres formats pris e
 - **Achat**: Achetez une licence via [Portail d'achat Aspose](https://purchase.aspose.com/buy).
 - **Essai gratuit**: Commencez par un essai gratuit via [Téléchargements](https://releases.aspose.com/imaging/net/).
 - **Permis temporaire**:Demandez-en un [ici](https://purchase.aspose.com/temporary-license/).
-- **Soutien**:Rejoignez la communauté dans [Forums Aspose](https://forum.aspose.com/c/imaging/10) pour de l'aide et des discussions.
+- **Soutien**:Rejoignez la communauté dans [Forums Aspose](https://forum.aspose.com/c/imaging/14) pour de l'aide et des discussions.
 
 Nous espérons que ce guide vous aidera à intégrer la fonctionnalité d'exportation d'images vectorielles à vos projets. Bon codage !
 

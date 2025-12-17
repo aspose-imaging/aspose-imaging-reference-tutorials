@@ -170,7 +170,7 @@ A: Az Aspose.Imaging számos formátumot támogat, beleértve a JPEG, PNG, GIF, 
 V: Igen, beállíthat egyéni képkockaidőket a következő használatával: `ApngOptions`.
 
 **K: Hogyan oldhatom meg az Aspose.Imaginggel kapcsolatos problémákat?**
-A: Lásd a támogatási fórumot [itt](https://forum.aspose.com/c/imaging/10) segítségért.
+A: Lásd a támogatási fórumot [itt](https://forum.aspose.com/c/imaging/14) segítségért.
 
 ## Erőforrás
 - **Dokumentáció**: [Aspose.Imaging .NET referencia](https://reference.aspose.com/imaging/net/)
@@ -178,7 +178,7 @@ A: Lásd a támogatási fórumot [itt](https://forum.aspose.com/c/imaging/10) se
 - **Vásárlás**: [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Ingyenes kezdés](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Jelentkezzen itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

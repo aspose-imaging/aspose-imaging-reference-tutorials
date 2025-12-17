@@ -150,7 +150,7 @@ Vous savez maintenant comment charger, consulter et manipuler les données de pi
 - [Acheter une licence](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/net/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum de soutien communautaire](https://forum.aspose.com/c/imaging/10)
+- [Forum de soutien communautaire](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -225,7 +225,7 @@ Agora você já tem um conhecimento sólido sobre a conversão de arquivos GIF p
 - **Comprar**: [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Testes gratuitos do Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licença Temporária**: [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Com este guia completo, você estará bem equipado para otimizar suas imagens usando o Aspose.Imaging para Java e aprimorar seus aplicativos ou sites. Boa programação!
 

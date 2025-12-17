@@ -189,7 +189,7 @@ Pronti a mettere in pratica le vostre nuove competenze? Provate a implementare q
 - [Acquista licenza](https://purchase.aspose.com/buy)
 - [Accesso di prova gratuito](https://releases.aspose.com/imaging/net/)
 - [Domanda di licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto della comunità](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto della comunità](https://forum.aspose.com/c/imaging/14)
 
 Seguendo questa guida, sarai pronto a gestire conversioni di immagini complesse utilizzando Aspose.Imaging .NET. Buon lavoro!
 

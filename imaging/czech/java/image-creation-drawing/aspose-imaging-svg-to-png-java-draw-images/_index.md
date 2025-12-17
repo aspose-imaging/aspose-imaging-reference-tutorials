@@ -236,7 +236,7 @@ Zvažte prozkoumání dalších funkcí knihovny Aspose.Imaging, abyste odemkli 
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Informace o bezplatné zkušební verzi](https://releases.aspose.com/imaging/java/)
 - [Podrobnosti o dočasné licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Tato komplexní příručka by vám měla pomoci bezproblémově integrovat Aspose.Imaging pro Javu do vašich projektů a umožnit efektivní a všestranné možnosti manipulace s obrázky. Přejeme vám příjemné programování!
 

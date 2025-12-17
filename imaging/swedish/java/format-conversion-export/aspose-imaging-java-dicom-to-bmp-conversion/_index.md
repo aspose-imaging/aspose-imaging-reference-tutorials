@@ -179,7 +179,7 @@ I den här handledningen har du lärt dig hur du laddar DICOM-bilder och konvert
 - [Köpalternativ](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden bör du nu vara väl rustad för att hantera DICOM-bilder med Aspose.Imaging för Java. Lycka till med kodningen!
 

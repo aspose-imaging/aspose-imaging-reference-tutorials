@@ -153,7 +153,7 @@ Untuk bacaan dan alat lebih lanjut:
 - **Beli Lisensi**: [Beli Aspose Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Unduhan Pencitraan Aspose](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

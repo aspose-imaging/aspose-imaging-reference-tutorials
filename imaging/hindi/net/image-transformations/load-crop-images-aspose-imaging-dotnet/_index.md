@@ -180,7 +180,7 @@ rasterImage.Save(outputDir + "CroppingByRectangle_out.jpg");
 - **क्रय लाइसेंस:** https://purchase.aspose.com/buy
 - **मुफ्त परीक्षण:** https://releases.aspose.com/imaging/net/
 - **अस्थायी लाइसेंस:** https://purchase.aspose.com/temporary-license/
-- **सहयता मंच:** https://forum.aspose.com/c/imaging/10
+- **सहयता मंच:** https://forum.aspose.com/c/imaging/14
 
 आज ही इन छवि प्रबंधन तकनीकों को अपनी परियोजनाओं में एकीकृत करना शुरू करें और प्रदर्शन और दक्षता में अंतर देखें!
 

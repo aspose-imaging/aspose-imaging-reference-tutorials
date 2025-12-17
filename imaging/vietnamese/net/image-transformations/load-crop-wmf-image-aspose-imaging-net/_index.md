@@ -186,7 +186,7 @@ Các bước tiếp theo có thể bao gồm thử nghiệm các định dạng 
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Nhận bản dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Nộp đơn xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Hỗ trợ hình ảnh Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Hỗ trợ hình ảnh Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình cùng Aspose.Imaging ngay hôm nay và khai thác toàn bộ tiềm năng của xử lý hình ảnh trong .NET!
 

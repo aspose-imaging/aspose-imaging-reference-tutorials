@@ -206,7 +206,7 @@ Aspose.Imaging のドキュメントで追加機能とカスタマイズ オプ�
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス申請](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 Java プロジェクトに Aspose.Imaging を実装する際は、追加のガイダンスとサポートを得るためにこれらのリソースを自由に参照してください。
 

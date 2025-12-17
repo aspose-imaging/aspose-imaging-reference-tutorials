@@ -142,7 +142,7 @@ Tot de beste praktijken behoort het gebruik van `using` instructies voor automat
 ## Conclusie
 Je hebt nu geleerd hoe je rasterafbeeldingen op EMF-canvas tekent met Aspose.Imaging voor .NET. Deze mogelijkheid kan de visuele kwaliteit van je projecten aanzienlijk verbeteren en biedt een combinatie van vectorprecisie en rasterrijkdom.
 
-Overweeg tijdens uw voortgang de aanvullende functies van Aspose.Imaging te verkennen of deze functionaliteit te integreren in grotere workflows binnen uw applicaties. Heeft u nog vragen? Neem dan gerust contact met ons op via [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10).
+Overweeg tijdens uw voortgang de aanvullende functies van Aspose.Imaging te verkennen of deze functionaliteit te integreren in grotere workflows binnen uw applicaties. Heeft u nog vragen? Neem dan gerust contact met ons op via [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ-sectie
 **1. Wat is een EMF-bestand?**

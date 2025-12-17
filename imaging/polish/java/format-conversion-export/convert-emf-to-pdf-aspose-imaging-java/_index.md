@@ -226,7 +226,7 @@ Postępując zgodnie z tym przewodnikiem, nauczyłeś się, jak wykorzystać Asp
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ten kompleksowy przewodnik powinien wyposażyć Cię w wiedzę, aby zacząć skutecznie konwertować pliki EMF do PDF za pomocą Aspose.Imaging for Java. Miłego kodowania!
 

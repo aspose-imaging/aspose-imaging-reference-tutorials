@@ -194,7 +194,7 @@ A5: Rozhodně! Implementujte smyčky nebo techniky paralelního zpracování pro
 - **Nákup**https://purchase.aspose.com/buy
 - **Bezplatná zkušební verze**https://releases.aspose.com/imaging/java/
 - **Dočasná licence**https://purchase.aspose.com/temporary-license/
-- **Podpora**https://forum.aspose.com/c/imaging/10
+- **Podpora**https://forum.aspose.com/c/imaging/14
 
 Prozkoumejte tyto zdroje a prohloubete si znalosti a zvládnutí Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

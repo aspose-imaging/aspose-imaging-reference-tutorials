@@ -255,7 +255,7 @@ A5: Besuchen Sie die [Seite mit temporärer Lizenz](https://purchase.aspose.com/
 - **Kaufen**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Holen Sie sich eine kostenlose Testversion von Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Beantragen Sie eine vorübergehende Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Durch die Nutzung dieser Ressourcen können Sie Ihr Wissen und Ihre Fähigkeiten mit Aspose.Imaging für Java erweitern. Viel Spaß beim Programmieren!
 

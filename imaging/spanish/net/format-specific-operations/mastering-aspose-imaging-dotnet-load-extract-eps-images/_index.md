@@ -205,7 +205,7 @@ Ya domina la carga y extracción de imágenes EPS con Aspose.Imaging para .NET. 
 - **Compra**: [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Pruebas gratuitas de Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal**: [Solicitar Licencia Temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Con esta guía, estará bien preparado para aprovechar Aspose.Imaging y gestionar eficientemente los archivos EPS en sus aplicaciones .NET. ¡Que disfrute programando!
 

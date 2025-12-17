@@ -189,7 +189,7 @@ Bạn đã sẵn sàng áp dụng những gì đã học vào thực tế chưa?
    - Thăm nom [Giấy phép tạm thời Aspose](https://purchase.aspose.com/temporary-license/) để biết thông tin chi tiết về cách mua nó.
 
 5. **Tôi có thể nhận được những lựa chọn hỗ trợ nào nếu gặp sự cố?**
-   - Các [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) cung cấp sự hỗ trợ từ cộng đồng và nhóm Aspose.
+   - Các [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) cung cấp sự hỗ trợ từ cộng đồng và nhóm Aspose.
 
 ## Tài nguyên
 

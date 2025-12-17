@@ -225,7 +225,7 @@ Siap untuk mencobanya? Terapkan teknik ini pada proyek Anda berikutnya dan lihat
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Akses Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Aplikasi Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan panduan lengkap ini, Anda kini siap memanfaatkan Aspose.Imaging Java untuk pemrosesan gambar yang efisien dalam proyek Anda. Selamat membuat kode!
 

@@ -210,7 +210,7 @@ J: Pastikan gambar overlay dan latar belakang beresolusi tinggi. Periksa juga pe
 - **Beli Lisensi**: [Halaman Pembelian Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Aspose.Imaging untuk Java](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan**: [Dukungan Pencitraan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan**: [Dukungan Pencitraan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan panduan ini, Anda akan siap untuk mulai memadukan gambar menggunakan Aspose.Imaging untuk Java. Selamat membuat kode!
 

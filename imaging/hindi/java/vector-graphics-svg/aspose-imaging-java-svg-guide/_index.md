@@ -171,7 +171,7 @@ Aspose.Imaging का उपयोग करते समय इष्टतम 
 
 **अगले कदम:**
 - Aspose.Imaging की अन्य विशेषताओं जैसे छवि रूपांतरण और फ़िल्टरिंग का अन्वेषण करें।
-- शामिल होना [Aspose.Imaging फ़ोरम](https://forum.aspose.com/c/imaging/10) अंतर्दृष्टि साझा करने या साथी डेवलपर्स से सलाह लेने के लिए।
+- शामिल होना [Aspose.Imaging फ़ोरम](https://forum.aspose.com/c/imaging/14) अंतर्दृष्टि साझा करने या साथी डेवलपर्स से सलाह लेने के लिए।
 
 क्या आप अपने जावा प्रोजेक्ट को अगले स्तर पर ले जाने के लिए तैयार हैं? आज ही इन समाधानों को लागू करना शुरू करें!
 
@@ -199,7 +199,7 @@ Aspose.Imaging का उपयोग करते समय इष्टतम 
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण डाउनलोड](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 आज ही Aspose.Imaging for Java को एकीकृत करना शुरू करें और अपनी छवि प्रसंस्करण कार्यप्रवाह को सुव्यवस्थित करें!
 

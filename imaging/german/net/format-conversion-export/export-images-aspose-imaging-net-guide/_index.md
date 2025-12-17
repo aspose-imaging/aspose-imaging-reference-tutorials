@@ -207,7 +207,7 @@ A3: Ja, Aspose.Imaging bietet detaillierte Kontrolle über die Komprimierungsein
 A4: Absolut! Mithilfe paralleler Programmiertechniken in .NET können Sie mehrere Dateien effizient verarbeiten.
 
 **F5: Wie kann ich häufige Probleme mit Aspose.Imaging beheben?**
-A5: Überprüfen Sie die [Support-Forum](https://forum.aspose.com/c/imaging/10) für Lösungen häufiger Probleme und konsultieren Sie die umfangreiche [Dokumentation](https://reference.aspose.com/imaging/net/) zur Orientierung.
+A5: Überprüfen Sie die [Support-Forum](https://forum.aspose.com/c/imaging/14) für Lösungen häufiger Probleme und konsultieren Sie die umfangreiche [Dokumentation](https://reference.aspose.com/imaging/net/) zur Orientierung.
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

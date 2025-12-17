@@ -171,7 +171,7 @@ Bước tiếp theo, hãy cân nhắc khám phá các tính năng chỉnh sửa 
 - Đối với mục đích thương mại, bạn sẽ cần mua giấy phép. Giấy phép dùng thử cho phép đánh giá nhưng có giới hạn.
 
 **Câu hỏi 4: Tôi có được hỗ trợ nếu gặp vấn đề không?**
-- Có, Aspose cung cấp diễn đàn cộng đồng và các tùy chọn hỗ trợ chuyên nghiệp. Truy cập [trang hỗ trợ](https://forum.aspose.com/c/imaging/10) để biết thêm thông tin.
+- Có, Aspose cung cấp diễn đàn cộng đồng và các tùy chọn hỗ trợ chuyên nghiệp. Truy cập [trang hỗ trợ](https://forum.aspose.com/c/imaging/14) để biết thêm thông tin.
 
 **Câu hỏi 5: Tôi có thể tích hợp chức năng này vào ứng dụng web không?**
 - Hoàn toàn đúng! Thư viện này tương thích với các nền tảng .NET được sử dụng trong các ứng dụng web, cho phép tích hợp liền mạch.

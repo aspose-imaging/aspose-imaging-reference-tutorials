@@ -176,7 +176,7 @@ A: Monitoruj wykorzystanie zasobów, optymalizuj logikę przetwarzania obrazów 
 - **Zakup:** [Kup opcje licencjonowania Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Zacznij za darmo z Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa:** [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie:** [Forum Aspose dla wsparcia](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie:** [Forum Aspose dla wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Postępując zgodnie z tym przewodnikiem, będziesz na dobrej drodze do opanowania przetwarzania obrazu za pomocą Aspose.Imaging w Javie!
 

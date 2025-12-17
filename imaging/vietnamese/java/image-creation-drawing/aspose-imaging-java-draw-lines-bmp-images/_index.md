@@ -211,7 +211,7 @@ Các bước tiếp theo bao gồm khám phá các tính năng nâng cao hơn nh
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn sẽ được trang bị đầy đủ để tích hợp Aspose.Imaging vào các dự án Java của mình để có khả năng xử lý hình ảnh mạnh mẽ. Chúc bạn viết mã vui vẻ!
 

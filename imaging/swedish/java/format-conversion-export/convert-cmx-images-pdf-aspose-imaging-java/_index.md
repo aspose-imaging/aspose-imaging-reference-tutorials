@@ -242,7 +242,7 @@ Utforska ytterligare funktioner i Aspose.Imaging för att förbättra dina proje
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden är du rustad att hantera CMX-till-PDF-konverteringar med tillförsikt med Aspose.Imaging för Java. Lycka till med kodningen!
 

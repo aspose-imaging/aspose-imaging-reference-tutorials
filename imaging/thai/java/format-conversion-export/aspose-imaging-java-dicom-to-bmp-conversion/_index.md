@@ -179,7 +179,7 @@ implementation 'com.aspose:aspose-imaging:25.5'
 - [ตัวเลือกการซื้อ](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - [ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/14)
 
 หากทำตามคำแนะนำนี้ คุณก็พร้อมที่จะจัดการกับภาพ DICOM โดยใช้ Aspose.Imaging สำหรับ Java แล้ว ขอให้สนุกกับการเขียนโค้ด!
 

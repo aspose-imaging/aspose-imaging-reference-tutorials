@@ -237,7 +237,7 @@ A5: Ενώ οι λειτουργίες Aspose.Imaging δεν είναι εγγε
 - **Αγορά:** [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Δοκιμάστε το Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ξεκινήστε το ταξίδι σας με το Aspose.Imaging για Java σήμερα και ξεκλειδώστε όλες τις δυνατότητες της επεξεργασίας εικόνας στις εφαρμογές σας!
 

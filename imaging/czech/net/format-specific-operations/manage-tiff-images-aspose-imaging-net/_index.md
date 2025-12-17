@@ -157,7 +157,7 @@ A: Využijte možnosti dávkového zpracování Aspose.Imaging ke správě něko
 A: I když se výkon může u velmi velkých souborů lišit, Aspose.Imaging je navržen tak, aby efektivně zpracovával rozsáhlá obrazová data.
 
 **Q5: Jaké možnosti podpory jsou k dispozici, pokud narazím na problémy?**
-A: Pro tipy na řešení problémů si přečtěte podrobnou dokumentaci a komunitní fóra na adrese [Podpora Aspose](https://forum.aspose.com/c/imaging/10).
+A: Pro tipy na řešení problémů si přečtěte podrobnou dokumentaci a komunitní fóra na adrese [Podpora Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Zdroje
 - **Dokumentace**: [Dokumentace k Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)

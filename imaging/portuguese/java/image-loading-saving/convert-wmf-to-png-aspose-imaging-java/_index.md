@@ -193,7 +193,7 @@ Explore mais recursos oferecidos pelo Aspose.Imaging, como conversão de formato
 - [Baixe Aspose.Imaging para Java](https://releases.aspose.com/imaging/java/)
 - [Licença de compra](https://purchase.aspose.com/buy)
 - [Teste gratuito e licença temporária](https://releases.aspose.com/imaging/java/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Embarque em sua jornada com o Aspose.Imaging Java hoje mesmo e transforme a maneira como você lida com tarefas de processamento de imagens!
 

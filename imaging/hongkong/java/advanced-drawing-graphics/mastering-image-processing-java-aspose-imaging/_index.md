@@ -171,7 +171,7 @@ DIB（裝置獨立點陣圖）是一種點陣圖影像格式，主要由 Microso
 - **購買：** [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用：** [試試 Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **臨時執照：** [申請臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 按照本指南操作，您現在已做好充分準備，可以使用 Aspose.Imaging for Java 處理影像處理任務。祝您編碼愉快！
 

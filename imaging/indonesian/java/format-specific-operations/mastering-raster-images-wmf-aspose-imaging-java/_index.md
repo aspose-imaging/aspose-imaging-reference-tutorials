@@ -159,7 +159,7 @@ Dengan mengikuti tutorial ini, Anda telah mempelajari cara memuat dan menggambar
 - **Opsi Pembelian:** https://purchase.aspose.com/beli
 - **Uji Coba Gratis:** https://releases.aspose.com/imaging/java/
 - **Lisensi Sementara:** https://purchase.aspose.com/lisensi-sementara/
-- **Forum Dukungan:** https://forum.aspose.com/c/imaging/10
+- **Forum Dukungan:** https://forum.aspose.com/c/imaging/14
 
 Dengan memanfaatkan Aspose.Imaging untuk Java, Anda dapat menyempurnakan aplikasi Anda dengan kemampuan pemrosesan gambar tingkat lanjut. Selamat membuat kode!
 

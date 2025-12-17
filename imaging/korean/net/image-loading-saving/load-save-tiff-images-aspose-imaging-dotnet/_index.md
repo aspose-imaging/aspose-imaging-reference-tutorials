@@ -149,7 +149,7 @@ A3: 성능 고려 사항 섹션에서 설명한 대로 메모리 관리를 최�
 A4: 일반적인 문제로는 잘못된 파일 경로, 부적절한 구성 설정, 지원되지 않는 이미지 형식 등이 있습니다. 경로가 정확하고 구성이 요구 사항에 맞는지 항상 확인하세요.
 
 **질문 5: Aspose.Imaging에 대한 추가 리소스는 어디에서 찾을 수 있나요?**
-A5: 방문하세요 [Aspose 문서](https://reference.aspose.com/imaging/net/) 포괄적인 가이드 및 [포럼](https://forum.aspose.com/c/imaging/10) 지역사회 지원을 위해.
+A5: 방문하세요 [Aspose 문서](https://reference.aspose.com/imaging/net/) 포괄적인 가이드 및 [포럼](https://forum.aspose.com/c/imaging/14) 지역사회 지원을 위해.
 
 ## 자원
 - **선적 서류 비치:** [Aspose Imaging .NET 참조](https://reference.aspose.com/imaging/net/)
@@ -157,7 +157,7 @@ A5: 방문하세요 [Aspose 문서](https://reference.aspose.com/imaging/net/) �
 - **구입:** [라이센스 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [평가판 다운로드](https://releases.aspose.com/imaging/net/)
 - **임시 면허:** [여기에서 요청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

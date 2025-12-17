@@ -219,7 +219,7 @@ A5：是的，Aspose.Imaging 允许全面定制元数据字段以满足您的特
 - **购买：** [购买许可证](https://purchase.aspose.com/buy)
 - **免费试用：** [免费试用 Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **临时执照：** [获得临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持论坛：** [Aspose 支持](https://forum.aspose.com/c/imaging/10) 
+- **支持论坛：** [Aspose 支持](https://forum.aspose.com/c/imaging/14) 
 
 立即踏上 Aspose.Imaging for .NET 之旅，彻底改变您处理图像的方式！
 

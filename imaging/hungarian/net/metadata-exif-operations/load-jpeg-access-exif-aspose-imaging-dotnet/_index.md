@@ -172,7 +172,7 @@ Részletesebb információkért tekintse meg ezeket a forrásokat:
 - **Vásárlás:** [Aspose licencelési lehetőségek vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Ingyenes próbaverziók kipróbálása](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély:** [Ideiglenes engedélyek igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórum Támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Fórum Támogatás](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével felkészült leszel a JPEG képek és metaadataik kezelésére az Aspose.Imaging for .NET segítségével. Jó kódolást!
 

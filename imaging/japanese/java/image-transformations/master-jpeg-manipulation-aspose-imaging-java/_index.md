@@ -198,7 +198,7 @@ Aspose.Imaging for Javaを使用してJPEG画像を作成および操作する�
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imaging を試す](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 この包括的なガイドを読めば、JavaでAspose.Imagingを使った画像操作をマスターする準備が整います。コーディングを楽しんでください！
 

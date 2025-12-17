@@ -192,7 +192,7 @@ Aspose.Imaging Java छवि प्रसंस्करण और हेरफ
 - **खरीदना**: [Aspose लाइसेंसिंग खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [Aspose.Imaging निःशुल्क आज़माएँ](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस**: [यहां अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
 
 अपनी समझ को गहरा करने और अपनी परियोजनाओं में Aspose.Imaging Java की क्षमताओं को बढ़ाने के लिए इन संसाधनों का अन्वेषण करें। हैप्पी कोडिंग!
 

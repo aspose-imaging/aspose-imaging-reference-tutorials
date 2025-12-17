@@ -159,7 +159,7 @@ Javasoljuk, hogy próbálja meg megvalósítani ezeket a megoldásokat a projekt
    - Gyakori problémák lehetnek a helytelen fájlelérési útvonalak vagy az inkompatibilis képtípusok. Győződjön meg arról, hogy az Aspose.Imaging támogatja a képeket.
 
 **5. Hol találok támogatást, ha problémákba ütközöm?**
-   - Látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10) a közösség és az Aspose szakértőinek segítségét kérem.
+   - Látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14) a közösség és az Aspose szakértőinek segítségét kérem.
 
 ## Erőforrás
 
@@ -167,7 +167,7 @@ Javasoljuk, hogy próbálja meg megvalósítani ezeket a megoldásokat a projekt
 - **Letöltés**: A legújabb könyvtárverzió elérése itt: [Aspose kiadások](https://releases.aspose.com/imaging/java/).
 - **Vásárlás**Gyártásra kész licencért látogasson el a következő oldalra: [Aspose vásárlás](https://purchase.aspose.com/buy).
 - **Ingyenes próbaverzió**Kezdje utazását egy ingyenes próbaverzióval innen: [Aspose letöltések](https://releases.aspose.com/imaging/java/).
-- **Támogatás**Segítséget kérhet a következőn keresztül: [Aspose Fórum](https://forum.aspose.com/c/imaging/10).
+- **Támogatás**Segítséget kérhet a következőn keresztül: [Aspose Fórum](https://forum.aspose.com/c/imaging/14).
 
 Az Aspose.Imaging Java-hoz való használatával könnyedén és hatékonyan kezelhetsz összetett képfeldolgozási feladatokat. Jó kódolást!
 

@@ -225,7 +225,7 @@ Aspose.Imaging Java의 로딩 및 저장 기능을 숙달하면 이제 대용량
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험판 액세스](https://releases.aspose.com/imaging/java/)
 - [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 포괄적인 가이드를 통해 이제 Aspose.Imaging Java를 활용하여 프로젝트에서 효율적인 이미지 처리를 할 준비가 되었습니다. 즐거운 코딩 되세요!
 

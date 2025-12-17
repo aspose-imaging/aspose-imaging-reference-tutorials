@@ -249,7 +249,7 @@ Dalšími kroky jsou prozkoumání pokročilejších funkcí Aspose.Imaging nebo
 - [Nákup](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Podpora](https://forum.aspose.com/c/imaging/10)
+- [Podpora](https://forum.aspose.com/c/imaging/14)
 
 Zkuste implementovat toto řešení ve svém dalším projektu a využít tak sílu Aspose.Imaging pro Javu!
 

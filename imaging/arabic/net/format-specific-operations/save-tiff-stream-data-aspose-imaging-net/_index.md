@@ -148,7 +148,7 @@ Aspose.Imaging for .NET هي مكتبة توفر دعمًا واسع النطا�
 - **شراء:** [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [ابدأ بإصدار تجريبي مجاني](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة:** [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [دعم منتدى Aspose](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** [دعم منتدى Aspose](https://forum.aspose.com/c/imaging/14)
 
 صُمم هذا الدليل لمساعدتك على الاستفادة القصوى من إمكانات Aspose.Imaging في مشاريع .NET الخاصة بك. برمجة ممتعة!
 

@@ -171,7 +171,7 @@ Aspose.Imaging obsługuje szeroką gamę formatów obrazów, w tym animacje JPEG
 - **Zakup**: [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Uzyskaj bezpłatną wersję próbną Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa**: [Poproś o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -217,7 +217,7 @@ public class AccessJpegEXIFTags {
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/java/)
 - [臨時許可證申請](https://purchase.aspose.com/temporary-license/)
-- [支援論壇](https://forum.aspose.com/c/imaging/10)
+- [支援論壇](https://forum.aspose.com/c/imaging/14)
 
 現在您已經掌握了所有工具和知識，是時候開始在 Java 應用程式中實現這些強大的功能了！
 

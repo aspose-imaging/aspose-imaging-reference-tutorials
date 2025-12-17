@@ -171,7 +171,7 @@ Bu eğitimde, Java için Aspose.Imaging kullanarak TIFF görüntülerini etkili 
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu eğitim size Java uygulamalarınızda TIFF görüntü işlemeyi verimli bir şekilde uygulamak için gereken bilgiyi sağlar. İyi kodlamalar!
 

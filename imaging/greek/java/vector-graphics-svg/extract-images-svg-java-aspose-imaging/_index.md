@@ -250,7 +250,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **Αγορά:** [Αγοράστε Aspose](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Ξεκινήστε τη δωρεάν δοκιμή σας](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Εφαρμόστε αυτές τις δυνατότητες στα έργα Java σας για να ξεκλειδώσετε νέες δυνατότητες και να βελτιστοποιήσετε τις ροές εργασίας επεξεργασίας εικόνας χρησιμοποιώντας το Aspose.Imaging. Καλή κωδικοποίηση!
 

@@ -199,7 +199,7 @@ Próbáld ki ezt a megoldást egy projektben még ma, és nézd meg, hogyan emel
    - könyvtár próbalicenccel érhető el; a teljes funkciókhoz vásárlás szükséges.
 
 5. **Hol kaphatok támogatást, ha szükségem van rá?**
-   - Látogatás [Aspose támogatói fóruma](https://forum.aspose.com/c/imaging/10) segítségért.
+   - Látogatás [Aspose támogatói fóruma](https://forum.aspose.com/c/imaging/14) segítségért.
 
 ## Erőforrás
 

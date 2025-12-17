@@ -184,7 +184,7 @@ C5: Kodunuzu sözdizimi hataları açısından tekrar kontrol edin ve tüm bağ�
 - **Satın almak**: Lisans satın alın [Aspose satın alma sitesi](https://purchase.aspose.com/buy).
 - **Ücretsiz Deneme**: Ücretsiz denemeyle başlayın [Aspose denemeleri](https://releases.aspose.com/imaging/java/).
 - **Geçici Lisans**: Geçici bir lisans alın [Aspose lisanslama](https://purchase.aspose.com/temporary-license/).
-- **Destek**: Yardım isteyin [Aspose forumu](https://forum.aspose.com/c/imaging/10).
+- **Destek**: Yardım isteyin [Aspose forumu](https://forum.aspose.com/c/imaging/14).
 
 Bu kılavuzu takip ederek artık Java'da DICOM görüntü döndürmelerini güvenle yapabilecek donanıma sahipsiniz. İyi kodlamalar!
 

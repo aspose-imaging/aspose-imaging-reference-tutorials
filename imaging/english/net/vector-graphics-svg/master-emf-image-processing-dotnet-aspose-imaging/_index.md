@@ -170,7 +170,7 @@ Common issues include incorrect file paths or unsupported formats, which can be 
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/net/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Feel free to explore these resources and reach out for support if you encounter any challenges. Happy coding!
 

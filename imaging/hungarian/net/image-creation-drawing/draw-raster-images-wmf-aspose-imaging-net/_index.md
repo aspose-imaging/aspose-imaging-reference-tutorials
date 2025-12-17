@@ -181,7 +181,7 @@ Igen, az Aspose.Imaging átfogó eszközöket biztosít a képek szerkesztéséh
 A kép integritásának megőrzése érdekében az Aspose.Imaging konfigurációs lehetőségeivel állítsa be a felbontást és a minőséget.
 
 **5. Van-e elérhető támogatás, ha problémákba ütközöm az Aspose.Imaging használatával?**
-Igen, kérhetsz segítséget [Aspose fórumai](https://forum.aspose.com/c/imaging/10) közösségi vagy hivatalos támogatásért.
+Igen, kérhetsz segítséget [Aspose fórumai](https://forum.aspose.com/c/imaging/14) közösségi vagy hivatalos támogatásért.
 
 ## Erőforrás
 

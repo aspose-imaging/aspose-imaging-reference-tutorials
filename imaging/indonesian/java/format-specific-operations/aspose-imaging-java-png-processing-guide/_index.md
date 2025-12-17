@@ -167,7 +167,7 @@ Untuk bacaan dan sumber daya lebih lanjut:
 - **Pembelian:** [Akuisisi Lisensi](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Coba Sebelum Membeli](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Minta di sini](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan:** [Tanyakan pada Komunitas](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan:** [Tanyakan pada Komunitas](https://forum.aspose.com/c/imaging/14)
 
 Sekarang Anda telah dibekali dengan pengetahuan, lanjutkan dan mulai terapkan teknik-teknik ini dalam proyek Java Anda!
 

@@ -156,7 +156,7 @@ Zbadaj tę tajniki, integrując te techniki ze swoimi projektami lub eksperyment
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/net/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Opanowując te koncepcje, jesteś na dobrej drodze do tworzenia potężnych aplikacji Java, które skutecznie zarządzają operacjami wejścia/wyjścia plików. Miłego kodowania!
 

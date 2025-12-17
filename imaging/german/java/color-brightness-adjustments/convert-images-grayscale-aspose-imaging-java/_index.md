@@ -188,7 +188,7 @@ Sie haben gelernt, wie Sie Bilder mit Aspose.Imaging für Java effektiv in Graus
 - **Herunterladen**: Holen Sie sich die neueste Version von [Aspose.Imaging-Veröffentlichungen](https://releases.aspose.com/imaging/java/)
 - **Kaufen & Testen**: Informieren Sie sich über Kaufoptionen und starten Sie mit einer kostenlosen Testversion [Hier](https://purchase.aspose.com/buy)
 - **Temporäre Lizenz**: Erhalten Sie eine temporäre Lizenz [Hier](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: Treten Sie dem Community-Forum bei unter [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: Treten Sie dem Community-Forum bei unter [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Wir hoffen, dass dieser Leitfaden Ihnen hilft, Aspose.Imaging für Java effektiv in Ihren Projekten einzusetzen. Viel Spaß beim Programmieren!
 

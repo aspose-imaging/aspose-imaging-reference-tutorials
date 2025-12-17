@@ -173,7 +173,7 @@ public class LoadAndCheckJpegQuality {
 - [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμαστική έκδοση](https://releases.aspose.com/imaging/java/)
 - [Πληροφορίες Προσωρινής Άδειας Χρήσης](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, είστε σε καλό δρόμο για την εφαρμογή μιας ισχυρής λύσης για τη διαχείριση της ποιότητας εικόνας JPEG με το Aspose.Imaging για Java. Καλή κωδικοποίηση!
 

@@ -179,7 +179,7 @@ Gotowy, aby wypróbować te techniki? Wdróż je w swoim kolejnym projekcie i po
 - [Zakup](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/net/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Wsparcie](https://forum.aspose.com/c/imaging/10)
+- [Wsparcie](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

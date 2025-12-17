@@ -151,7 +151,7 @@ Klaar om het zelf te proberen? Implementeer deze stappen in uw project en zie de
 - **Aankoop**: [Koop Aspose-producten](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Start een gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

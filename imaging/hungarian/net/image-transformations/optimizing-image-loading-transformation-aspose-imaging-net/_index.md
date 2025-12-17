@@ -180,7 +180,7 @@ A3: Igen, használja a `RotateFlipType.Rotate90FlipNone` felsorolás forgatásho
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Ingyenes próbaverzió indítása](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Kezdje el a képfeldolgozás elsajátításának útját még ma az Aspose.Imaging for .NET segítségével!
 

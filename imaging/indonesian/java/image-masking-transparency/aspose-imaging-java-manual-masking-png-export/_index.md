@@ -218,7 +218,7 @@ Mulailah dengan memeriksa pengaturan konfigurasi dan memastikan semua dependensi
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Akses Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Ajukan Permohonan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

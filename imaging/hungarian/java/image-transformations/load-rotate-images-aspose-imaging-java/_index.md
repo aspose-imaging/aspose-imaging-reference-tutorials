@@ -193,7 +193,7 @@ Próbáld ki ezeket a technikákat a projektjeidben még ma, és tapasztald meg 
 - **Vásárlás:** Vásároljon licenceket a [Aspose Vásárlási Portál](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** Ideiglenes engedélyhez férhet hozzá a következőn keresztül: [Aspose ingyenes próbaverziók](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** Szerezz be egyet a következő címen: [Aspose ideiglenes engedélyek](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** Csatlakozz a közösséghez, és kérj segítséget a témában [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** Csatlakozz a közösséghez, és kérj segítséget a témában [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezt az útmutatót követve hatékonyan beépítheted az Aspose.Imaging-et Java projektjeidbe, hogy könnyedén kezelhesd a képek betöltését és forgatását. Jó kódolást!
 

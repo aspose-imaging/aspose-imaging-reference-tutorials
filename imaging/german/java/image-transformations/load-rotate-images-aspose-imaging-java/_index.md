@@ -193,7 +193,7 @@ Versuchen Sie noch heute, diese Techniken in Ihren Projekten zu implementieren u
 - **Kaufen:** Kaufen Sie Lizenzen über die [Aspose Einkaufsportal](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** Erhalten Sie eine temporäre Lizenz über [Kostenlose Aspose-Testversionen](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** Erhalten Sie eines bei [Aspose Temporäre Lizenzen](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** Treten Sie der Community bei und erhalten Sie Hilfe zu [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** Treten Sie der Community bei und erhalten Sie Hilfe zu [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit dieser Anleitung können Sie Aspose.Imaging effektiv in Ihre Java-Projekte integrieren, um das Laden und Drehen von Bildern problemlos zu handhaben. Viel Spaß beim Programmieren!
 

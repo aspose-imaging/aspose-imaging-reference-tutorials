@@ -241,7 +241,7 @@ Você aprendeu a utilizar a biblioteca Aspose.Imaging para desenhar linhas, form
 - [Opções de compra](https://purchase.aspose.com/buy)
 - [Teste grátis](https://releases.aspose.com/imaging/java/)
 - [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte](https://forum.aspose.com/c/imaging/14)
 
 Agora que você tem um guia completo para implementar recursos de desenho com o Aspose.Imaging para Java, comece a experimentar e integrar essas técnicas aos seus projetos. Boa programação!
 

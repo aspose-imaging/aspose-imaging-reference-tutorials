@@ -184,7 +184,7 @@ V5: Ellenőrizd a kódodat szintaktikai hibák szempontjából, és győződj me
 - **Vásárlás**: Szerezzen be engedélyt a következő címen: [Aspose vásárlási oldal](https://purchase.aspose.com/buy).
 - **Ingyenes próbaverzió**: Kezdje ingyenes próbaverzióval a következőn keresztül: [Aspose-próbák](https://releases.aspose.com/imaging/java/).
 - **Ideiglenes engedély**Szerezzen be egy ideiglenes engedélyt [Aspose licencelés](https://purchase.aspose.com/temporary-license/).
-- **Támogatás**Kérjen segítséget a [Aspose fórum](https://forum.aspose.com/c/imaging/10).
+- **Támogatás**Kérjen segítséget a [Aspose fórum](https://forum.aspose.com/c/imaging/14).
 
 Az útmutató követésével most már magabiztosan kezelheted a DICOM képek forgatását Java nyelven. Jó kódolást!
 

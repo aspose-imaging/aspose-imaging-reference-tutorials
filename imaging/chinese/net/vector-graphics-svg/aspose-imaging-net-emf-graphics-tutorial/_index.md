@@ -149,7 +149,7 @@ using (EmfImage image = new EmfRecorderGraphics2D().EndRecording())
 - [购买](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/net/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10) 
+- [支持论坛](https://forum.aspose.com/c/imaging/14) 
 
 探索这些资源，深入了解 Aspose.Imaging 的功能并增强您的 .NET 应用程序！
 

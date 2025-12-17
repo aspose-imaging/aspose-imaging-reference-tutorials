@@ -177,7 +177,7 @@ A: A TIFF jobb minőséget biztosít és nagyobb színmélységet támogat, így
 - **Licenc vásárlása**: [Aspose Vásárlási Oldal](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbáld ki az Aspose.Imaging ingyenes verzióját](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás és közösség**: [Aspose Fórumok](https://forum.aspose.com/c/imaging/10)
+- **Támogatás és közösség**: [Aspose Fórumok](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -220,7 +220,7 @@ A5: Ja, även om du kan börja med en gratis provperiod är det nödvändigt att
 - **Köpa**Köp en licens via [Aspose-köp](https://purchase.aspose.com/buy).
 - **Gratis provperiod**Börja med en provperiod för att testa funktionerna på [Aspose Gratis Testperioder](https://releases.aspose.com/imaging/java/).
 - **Tillfällig licens**Begär en via [Aspose tillfällig licens](https://purchase.aspose.com/temporary-license/).
-- **Stöd**Vid frågor, kontakta [Aspose-forumet](https://forum.aspose.com/c/imaging/10).
+- **Stöd**Vid frågor, kontakta [Aspose-forumet](https://forum.aspose.com/c/imaging/14).
 
 Genom att följa den här handledningen och använda Aspose.Imaging för Java kommer du att vara väl rustad för att hantera EPS-bildförhandsgranskningar och säkra filraderingar i dina projekt. Lycka till med kodningen!
 

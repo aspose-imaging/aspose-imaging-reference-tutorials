@@ -224,7 +224,7 @@ W tym samouczku nauczyłeś się, jak renderować **tekst z czcionkami** w Javie
 - **Download:** Pobierz najnowszą wersję Aspose.Imaging ze [Strony wydań](https://releases.aspose.com/imaging/java/).  
 - **Purchase:** Uzyskaj pełną licencję poprzez [Stronę zakupu Aspose](https://purchase.aspose.com/buy).  
 - **Free Trial:** Wypróbuj Aspose.Imaging za darmo, korzystając z wersji próbnej dostępnej na [Stronie tymczasowej licencji](https://purchase.aspose.com/temporary-license/).  
-- **Support:** Dołącz do dyskusji lub uzyskaj pomoc na [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Support:** Dołącz do dyskusji lub uzyskaj pomoc na [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 ---
 

@@ -154,7 +154,7 @@ image.Save(outputDir + "/DitheringForDICOMImage_out.bmp", new BmpOptions());
 - [شراء الترخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/net/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 يزودك هذا الدليل الشامل بكل ما تحتاجه لتطبيق تقنية dithering العتبة على صور DICOM باستخدام Aspose.Imaging لـ .NET، مما يعزز قدرات معالجة الصور لديك.
 

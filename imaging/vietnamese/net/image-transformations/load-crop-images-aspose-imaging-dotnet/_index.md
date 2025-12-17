@@ -180,7 +180,7 @@ Bạn đã học cách tải, lưu trữ đệm, cắt và lưu hình ảnh bằ
 - **Giấy phép mua hàng:** https://purchase.aspose.com/mua
 - **Dùng thử miễn phí:** https://releases.aspose.com/imaging/net/
 - **Giấy phép tạm thời:** https://purchase.aspose.com/giấy-phép-tạm-thời/
-- **Diễn đàn hỗ trợ:** https://forum.aspose.com/c/imaging/10
+- **Diễn đàn hỗ trợ:** https://forum.aspose.com/c/imaging/14
 
 Hãy bắt đầu tích hợp các kỹ thuật xử lý hình ảnh này vào dự án của bạn ngay hôm nay và xem sự khác biệt về hiệu suất và hiệu quả!
 

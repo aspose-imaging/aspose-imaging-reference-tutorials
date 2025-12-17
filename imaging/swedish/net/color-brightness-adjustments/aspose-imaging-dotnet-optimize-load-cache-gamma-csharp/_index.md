@@ -217,7 +217,7 @@ Genom att använda Aspose.Imaging för .NET har du lärt dig hur du effektivt la
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden är du nu rustad att implementera avancerade bildbehandlingsfunktioner i dina .NET-applikationer med hjälp av Aspose.Imaging. Njut av att utforska vidare och förbättra dina projekt!
 

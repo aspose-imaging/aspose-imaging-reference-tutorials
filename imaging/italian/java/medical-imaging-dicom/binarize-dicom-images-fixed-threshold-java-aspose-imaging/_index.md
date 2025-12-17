@@ -164,7 +164,7 @@ Pronti a provarlo? Implementate questa soluzione nel vostro progetto oggi stesso
    - Ottimizza l'ambiente e il codice per la gestione della memoria, utilizzando in modo efficace la garbage collection di Java.
 
 5. **C'è supporto disponibile se riscontro problemi?**
-   - Puoi richiedere assistenza su [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10).
+   - Puoi richiedere assistenza su [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Risorse
 

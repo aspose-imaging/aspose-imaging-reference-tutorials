@@ -174,7 +174,7 @@ Sử dụng các kỹ thuật quản lý bộ nhớ hiệu quả và đảm bả
 - **Mua:** [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Aspose.Imaging dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn hình ảnh Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn hình ảnh Aspose](https://forum.aspose.com/c/imaging/14)
 
 Với hướng dẫn toàn diện này, giờ đây bạn đã có thể triển khai cài đặt DPI trong tệp xuất PDF bằng Aspose.Imaging for Java. Chúc bạn viết mã vui vẻ!
 

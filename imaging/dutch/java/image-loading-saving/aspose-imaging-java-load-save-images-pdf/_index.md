@@ -160,7 +160,7 @@ A5: Een geldige licentie is vereist voor ononderbroken gebruik in productieomgev
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Start uw gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Forums](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Forums](https://forum.aspose.com/c/imaging/14)
 
 Omarm de kracht van Aspose.Imaging Java en verbeter uw beeldverwerkingsmogelijkheden!
 

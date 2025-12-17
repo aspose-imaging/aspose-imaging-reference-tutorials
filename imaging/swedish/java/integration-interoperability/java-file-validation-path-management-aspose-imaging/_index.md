@@ -221,7 +221,7 @@ A5: Lägg till Aspose.Imaging-beroendet till ditt projekt med hjälp av Maven el
 - **Köpa**: Skaffa en licens genom [Asposes köpsida](https://purchase.aspose.com/buy)
 - **Gratis provperiod**Börja experimentera med [Asposes gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**Få utökad åtkomst via [Asposes tillfälliga licenssida](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: Interagera med communityn och supportteamet på [Asposes forum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: Interagera med communityn och supportteamet på [Asposes forum](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden är du väl rustad för att implementera filvalidering och sökvägshantering i dina Java-applikationer med hjälp av Aspose.Imaging. Lycka till med kodningen!
 

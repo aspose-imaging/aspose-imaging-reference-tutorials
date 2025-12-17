@@ -159,7 +159,7 @@ image.Save(outputDir + "/ColorConversionUsingDefaultProfiles_out.icc");
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/net/)
 - [臨時執照](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 歡迎隨意探索這些資源，獲得更深入的資訊和支持。祝您程式愉快！
 

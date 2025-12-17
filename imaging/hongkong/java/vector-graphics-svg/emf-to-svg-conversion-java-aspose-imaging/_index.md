@@ -199,7 +199,7 @@ try (Image image = Image.load(dataDir + "Picture1.emf")) {
    - 該庫可在試用許可下使用；全部功能需要購買。
 
 5. **如果需要的話我可以在哪裡獲得支援？**
-   - 訪問 [Aspose 的支援論壇](https://forum.aspose.com/c/imaging/10) 尋求幫助。
+   - 訪問 [Aspose 的支援論壇](https://forum.aspose.com/c/imaging/14) 尋求幫助。
 
 ## 資源
 

@@ -187,7 +187,7 @@ In questo tutorial, abbiamo esplorato come caricare e disegnare un'immagine rast
 - [Acquista una licenza](https://purchase.aspose.com/buy)
 - [Informazioni sulla prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Richiesta di licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 Seguendo questa guida, dovresti essere pronto a integrare immagini raster in canvas SVG utilizzando Aspose.Imaging per Java. Buon lavoro!
 

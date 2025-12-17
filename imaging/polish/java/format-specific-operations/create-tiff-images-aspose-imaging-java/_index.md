@@ -196,7 +196,7 @@ Poznaj więcej funkcji pakietu Aspose.Imaging, zagłębiając się w jego obszer
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Opanowując te techniki, będziesz dobrze wyposażony do obsługi złożonych zadań przetwarzania obrazu w swoich aplikacjach Java. Miłego kodowania!
 

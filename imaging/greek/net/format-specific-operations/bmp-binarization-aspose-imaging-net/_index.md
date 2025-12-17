@@ -171,7 +171,7 @@ objImage.Save(outputDir);
 - **Άδεια Αγοράς:** [Αγοράστε τώρα](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Αποκτήστε τη δωρεάν δοκιμή σας](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια:** [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ υποστήριξης:** [Υποστήριξη Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ υποστήριξης:** [Υποστήριξη Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -203,7 +203,7 @@ W tym samouczku nauczyłeś się, jak konwertować pliki WMF do PDF za pomocą A
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Opanowanie tych kroków sprawi, że będziesz dobrze wyposażony, aby z łatwością obsługiwać konwersje WMF-PDF. Miłego kodowania!
 

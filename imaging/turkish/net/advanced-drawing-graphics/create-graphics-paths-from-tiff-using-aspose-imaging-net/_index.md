@@ -165,7 +165,7 @@ A: Yolları artımlı olarak işleyerek kodunuzu optimize edin ve bellek kullan�
 C: Evet, gelişmiş görüntü işleme yetenekleri gerektiren herhangi bir .NET uygulamasıyla sorunsuz entegrasyon için tasarlanmıştır.
 
 **S: Sorunlarla karşılaşırsam hangi desteği alabilirim?**
-A: Ziyaret edin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10) Topluluk uzmanlarından ve Aspose çalışanlarından yardım isteyin.
+A: Ziyaret edin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14) Topluluk uzmanlarından ve Aspose çalışanlarından yardım isteyin.
 
 **S: .NET'te TIFF düzenleme için Aspose.Imaging kullanmaya alternatifler var mı?**
 C: Başka kütüphaneler de mevcut olsa da Aspose.Imaging, özellikle yüksek kaliteli görüntü işleme görevleri için tasarlanmış kapsamlı bir özellik seti sunuyor.
@@ -176,7 +176,7 @@ C: Başka kütüphaneler de mevcut olsa da Aspose.Imaging, özellikle yüksek ka
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'i Ücretsiz Deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET ile yolculuğunuza bugün başlayın ve görüntü işlemede yeni olasılıkların kilidini açın!
 

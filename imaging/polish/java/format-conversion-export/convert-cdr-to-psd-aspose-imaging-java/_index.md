@@ -178,7 +178,7 @@ A: Tak, Aspose.Imaging obsługuje szeroki zakres formatów obrazów. Sprawdź [d
 
 **P: Gdzie mogę znaleźć pomoc, jeśli napotkam problemy?**
 
-A: Odwiedź [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10) Aby uzyskać pomoc od społeczności i ekspertów Aspose.
+A: Odwiedź [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14) Aby uzyskać pomoc od społeczności i ekspertów Aspose.
 
 ## Zasoby
 

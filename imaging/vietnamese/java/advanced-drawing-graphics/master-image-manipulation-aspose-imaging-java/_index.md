@@ -216,7 +216,7 @@ Sau khi hoàn thành hướng dẫn này, bạn đã biết cách tận dụng *
 Hãy khám phá các tính năng nâng cao hơn của Aspose Imaging Java hoặc tích hợp nó vào các dự án lớn hơn. Thử nghiệm với các định dạng ảnh và các phép biến đổi khác nhau để khám phá thêm khả năng.
 
 ### Kêu gọi hành động
-Hãy áp dụng giải pháp đã thảo luận trong dự án tiếp theo của bạn. Chia sẻ trải nghiệm và những thách thức bạn gặp phải trên các diễn đàn hoặc cộng đồng như [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+Hãy áp dụng giải pháp đã thảo luận trong dự án tiếp theo của bạn. Chia sẻ trải nghiệm và những thách thức bạn gặp phải trên các diễn đàn hoặc cộng đồng như [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 ## Phần Câu hỏi thường gặp
 
@@ -242,7 +242,7 @@ Hãy áp dụng giải pháp đã thảo luận trong dự án tiếp theo của
 - **Mua:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Get Started with Free Trial](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Hỗ trợ:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Hỗ trợ:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách tận dụng các tài nguyên này, bạn có thể nâng cao hiểu biết và ứng dụng Aspose Imaging Java một cách sâu rộng. Chúc bạn lập trình vui vẻ!
 

@@ -177,7 +177,7 @@ Doporučujeme vám vyzkoušet implementaci tohoto řešení a prozkoumat pokroč
 - **Dokumentace**Prozkoumejte podrobné scénáře použití na adrese [Dokumentace k Aspose.Imaging v Javě](https://reference.aspose.com/imaging/java/).
 - **Stáhnout**Získejte nejnovější knihovnu Aspose.Imaging z [Aspose Releases](https://releases.aspose.com/imaging/java/).
 - **Nákup a bezplatná zkušební verze**Více informací o získání licence naleznete na [stránka nákupu](https://purchase.aspose.com/buy) nebo začněte s bezplatnou zkušební verzí.
-- **Podpora**V případě dotazů se obraťte na [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Podpora**V případě dotazů se obraťte na [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

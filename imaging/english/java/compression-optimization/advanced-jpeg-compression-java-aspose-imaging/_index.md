@@ -218,7 +218,7 @@ A: Utilize custom buffer sizes during loading to optimize memory usage effective
 - **Purchase**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start a Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 By following this guide, you're well-equipped to implement advanced image compression techniques using Aspose.Imaging for Java. Explore further and integrate these methods into your projects to achieve optimal performance and quality.
 

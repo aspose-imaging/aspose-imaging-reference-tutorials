@@ -188,7 +188,7 @@ TIFF 이미지를 LZW로 압축하는 것이 유익한 실제 시나리오는 �
 - **구입:** [지금 구매하세요](https://purchase.aspose.com/buy)
 - **무료 체험:** [여기서 시작하세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [여기에서 요청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** 추가 지원이 필요하면 다음을 방문하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** 추가 지원이 필요하면 다음을 방문하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

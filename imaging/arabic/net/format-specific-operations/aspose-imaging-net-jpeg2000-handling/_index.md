@@ -179,7 +179,7 @@ using (Image image = Image.Load(Path.Combine(dataDir, "inputFile.jp2"),
 يزور [موقع Aspose](https://purchase.aspose.com/temporary-license/) لطلب ترخيص مؤقت.
 
 ### أين يمكنني العثور على الدعم إذا واجهت مشاكل مع Aspose.Imaging .NET؟
-للحصول على المساعدة، توجه إلى [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10) أو قم بالرجوع إلى وثائقهم ومواردهم الشاملة.
+للحصول على المساعدة، توجه إلى [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14) أو قم بالرجوع إلى وثائقهم ومواردهم الشاملة.
 
 ## موارد
 - **التوثيق:** استكشف الأدلة التفصيلية في [وثائق Aspose](https://reference.aspose.com/imaging/net/)

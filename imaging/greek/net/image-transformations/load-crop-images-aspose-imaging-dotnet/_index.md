@@ -180,7 +180,7 @@ rasterImage.Save(outputDir + "CroppingByRectangle_out.jpg");
 - **Άδεια Αγοράς:** https://purchase.aspose.com/buy
 - **Δωρεάν δοκιμή:** https://releases.aspose.com/imaging/net/
 - **Προσωρινή Άδεια:** https://purchase.aspose.com/temporary-license/
-- **Φόρουμ υποστήριξης:** https://forum.aspose.com/c/imaging/10
+- **Φόρουμ υποστήριξης:** https://forum.aspose.com/c/imaging/14
 
 Ξεκινήστε να ενσωματώνετε αυτές τις τεχνικές επεξεργασίας εικόνας στα έργα σας σήμερα και δείτε τη διαφορά στην απόδοση και την αποτελεσματικότητα!
 

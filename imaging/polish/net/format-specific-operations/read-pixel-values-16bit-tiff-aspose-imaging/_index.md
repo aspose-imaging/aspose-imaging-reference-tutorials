@@ -133,7 +133,7 @@ Następnym krokiem może być zapoznanie się z dodatkowymi funkcjami pakietu As
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/net/)
 - [Wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij przygodę ze zdobywaniem mistrzostwa w przetwarzaniu obrazu dzięki Aspose.Imaging for .NET już dziś!
 

@@ -140,7 +140,7 @@ Vous avez appris à convertir des images TIFF RVB en CMJN avec Aspose.Imaging po
 - [Acheter une licence](https://purchase.aspose.com/buy)
 - [Version d'essai gratuite](https://releases.aspose.com/imaging/net/)
 - [Demande de permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce guide, vous serez bien équipé pour maîtriser la conversion de l'espace colorimétrique des images avec Aspose.Imaging pour .NET. Bon codage !
 

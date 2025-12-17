@@ -236,7 +236,7 @@ Hãy cân nhắc khám phá thêm các tính năng của Aspose.Imaging để m�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Thông tin dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Chi tiết Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn toàn diện này sẽ giúp bạn tích hợp Aspose.Imaging for Java vào các dự án của mình một cách liền mạch, cho phép khả năng xử lý hình ảnh hiệu quả và linh hoạt. Chúc bạn viết mã vui vẻ!
 

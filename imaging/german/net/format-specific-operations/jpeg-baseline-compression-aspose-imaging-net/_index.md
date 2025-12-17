@@ -147,7 +147,7 @@ Sind Sie bereit, Ihre Bildverarbeitungsfähigkeiten auf die nächste Stufe zu he
 - [Lizenz erwerben](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/net/)
 - [Antrag auf eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Dieser umfassende Leitfaden führt Sie auf den richtigen Weg zur Beherrschung der JPEG-Basislinienkomprimierung mit Aspose.Imaging für .NET. Viel Spaß beim Programmieren!
 

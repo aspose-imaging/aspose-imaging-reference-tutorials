@@ -170,7 +170,7 @@ Pro další zkoumání zvažte ponoření se do pokročilejších funkcí Aspose
 - **Zakoupit licenci**: [Koupit Aspose Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začněte s bezplatnou zkušební verzí](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Podpora Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Podpora Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Udělejte další krok implementací těchto optimalizací do vašich .NET projektů a prozkoumejte, jak Aspose.Imaging může vylepšit vaše úlohy zpracování obrazu!
 

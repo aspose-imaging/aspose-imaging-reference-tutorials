@@ -181,7 +181,7 @@ Ya, Aspose.Imaging menyediakan alat lengkap untuk mengedit gambar termasuk memot
 Sesuaikan pengaturan resolusi dan kualitas menggunakan opsi konfigurasi Aspose.Imaging untuk menjaga integritas gambar.
 
 **5. Apakah ada dukungan yang tersedia jika saya mengalami masalah dengan Aspose.Imaging?**
-Ya, Anda dapat mencari bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/10) untuk dukungan komunitas atau resmi.
+Ya, Anda dapat mencari bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/14) untuk dukungan komunitas atau resmi.
 
 ## Sumber daya
 

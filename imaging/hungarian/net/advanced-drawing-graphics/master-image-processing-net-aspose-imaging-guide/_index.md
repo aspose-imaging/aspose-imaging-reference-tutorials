@@ -175,7 +175,7 @@ A3: Igen, de győződjön meg róla, hogy megfelelő engedélyt szerez be a köv
 4. válasz: Igen, kötegelt feldolgozást kell alkalmazni a több fájl hatékony kezelése érdekében, ami jelentősen csökkentheti a feldolgozási időt.
 
 **5. kérdés: Hol kaphatok támogatást, ha problémákba ütközöm?**
-A5: Látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10) segítségért mind az Aspose csapatától, mind a közösség tagjaitól.
+A5: Látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14) segítségért mind az Aspose csapatától, mind a közösség tagjaitól.
 
 ## Erőforrás
 - **Dokumentáció:** Részletes útmutatókat és API-referenciákat itt talál: [Aspose.Imaging dokumentáció](https://reference.aspose.com/imaging/net/).

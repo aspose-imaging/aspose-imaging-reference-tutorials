@@ -182,7 +182,7 @@ Az ingyenes próbaverzió értékelési korlátokkal rendelkezik, például víz
 - **Vásárlás:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Aspose.Imaging ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórum Támogatás](https://forum.aspose.com/c/imaging/10) 
+- **Támogatás:** [Aspose Fórum Támogatás](https://forum.aspose.com/c/imaging/14) 
 
 Ezzel az átfogó útmutatóval felkészülhetsz arra, hogy elkezdhesd használni az Aspose.Imaging for Java-t a projektjeidben. Jó kódolást!
 

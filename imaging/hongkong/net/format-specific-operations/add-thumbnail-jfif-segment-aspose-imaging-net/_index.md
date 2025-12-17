@@ -176,7 +176,7 @@ Aspose.Imaging 需要相容的 .NET 環境，例如 .NET Framework 或 .NET Core
 - **購買**： [購買許可證](https://purchase.aspose.com/buy)
 - **免費試用**： [開始免費試用](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

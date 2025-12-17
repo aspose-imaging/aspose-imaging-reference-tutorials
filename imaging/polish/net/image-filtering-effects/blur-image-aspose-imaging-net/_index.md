@@ -153,7 +153,7 @@ Nauczyłeś się, jak rozmywać obraz za pomocą Aspose.Imaging dla .NET, wraz z
 - **Zakup**: [Kup produkty Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Rozpocznij bezpłatny okres próbny](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa**: [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

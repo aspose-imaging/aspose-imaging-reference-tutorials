@@ -217,7 +217,7 @@ Aspose.Imaging के साथ काम करते समय इष्टत
 - [.NET के लिए Aspose.Imaging डाउनलोड करें](https://releases.aspose.com/imaging/net/)
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण और अस्थायी लाइसेंस](https://releases.aspose.com/imaging/net/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 यह मार्गदर्शिका आपको .NET के लिए Aspose.Imaging का उपयोग करके DICOM छवियों को आरेखित करने और उनमें हेरफेर करने में मदद करेगी, तथा अधिक जटिल छवि प्रसंस्करण अनुप्रयोगों के निर्माण के लिए आधार प्रदान करेगी।
 

@@ -160,7 +160,7 @@ A5: Do nieprzerwanego użytkowania w środowiskach produkcyjnych wymagana jest w
 - **Zakup**: [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Rozpocznij bezpłatny okres próbny](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**: [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Fora Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Fora Aspose](https://forum.aspose.com/c/imaging/14)
 
 Wykorzystaj potencjał pakietu Aspose.Imaging Java i zwiększ możliwości przetwarzania obrazów!
 

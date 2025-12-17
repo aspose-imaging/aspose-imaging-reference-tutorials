@@ -207,7 +207,7 @@ A3: نعم، يوفر Aspose.Imaging تحكمًا تفصيليًا في إعدا
 ج٤: بالتأكيد! يمكنك معالجة ملفات متعددة بكفاءة باستخدام تقنيات البرمجة المتوازية في .NET.
 
 **س5: كيف يمكنني إصلاح المشكلات الشائعة مع Aspose.Imaging؟**
-أ5: تحقق من [منتدى الدعم](https://forum.aspose.com/c/imaging/10) للحصول على حلول للمشاكل الشائعة والتشاور على نطاق واسع [التوثيق](https://reference.aspose.com/imaging/net/) للإرشاد.
+أ5: تحقق من [منتدى الدعم](https://forum.aspose.com/c/imaging/14) للحصول على حلول للمشاكل الشائعة والتشاور على نطاق واسع [التوثيق](https://reference.aspose.com/imaging/net/) للإرشاد.
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

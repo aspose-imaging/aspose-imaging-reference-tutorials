@@ -189,7 +189,7 @@ image.Dispose();
 - [Αγορά Άδειας Χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμαστική πρόσβαση](https://releases.aspose.com/imaging/net/)
 - [Αίτηση Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Κοινότητας](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Κοινότητας](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, θα είστε άρτια εξοπλισμένοι για να χειρίζεστε πολύπλοκες μετατροπές εικόνων χρησιμοποιώντας το Aspose.Imaging .NET. Καλή κωδικοποίηση!
 

@@ -171,7 +171,7 @@ R5: Verifique os caminhos dos arquivos, garanta as versões corretas da bibliote
 - [Comprar uma licença](https://purchase.aspose.com/buy)
 - [Comece um teste gratuito](https://releases.aspose.com/imaging/java/)
 - [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Seguindo este guia, você pode converter imagens EMF para SVGs com eficiência usando o Aspose.Imaging para Java. Boa programação!
 

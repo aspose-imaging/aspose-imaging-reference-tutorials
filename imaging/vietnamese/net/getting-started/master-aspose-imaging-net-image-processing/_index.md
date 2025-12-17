@@ -159,14 +159,14 @@ Bây giờ bạn đã học cách tải, lọc và lưu hình ảnh bằng Aspos
 4. **Aspose.Imaging hỗ trợ những định dạng tệp nào?**
    - Nó hỗ trợ hơn 100 định dạng hình ảnh bao gồm JPEG, PNG, GIF và nhiều định dạng khác.
 5. **Làm thế nào để tôi có thể khắc phục những sự cố thường gặp với Aspose.Imaging?**
-   - Tham khảo [Diễn đàn hỗ trợ của Aspose](https://forum.aspose.com/c/imaging/10) để tìm giải pháp hoặc kiểm tra tài liệu chi tiết của họ.
+   - Tham khảo [Diễn đàn hỗ trợ của Aspose](https://forum.aspose.com/c/imaging/14) để tìm giải pháp hoặc kiểm tra tài liệu chi tiết của họ.
 
 ## Tài nguyên
 - **Tài liệu**: Hướng dẫn toàn diện tại [Tài liệu Aspose](https://reference.aspose.com/imaging/net/)
 - **Tải xuống phiên bản mới nhất**: Có thể truy cập từ [Trang phát hành](https://releases.aspose.com/imaging/net/)
 - **Mua giấy phép**: Liên kết mua hàng trực tiếp có sẵn trên [Trang mua hàng của Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí và Giấy phép tạm thời**: Có sẵn tại [Trang phát hành](https://releases.aspose.com/imaging/net/) Và [Phần Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: Mọi thắc mắc, hãy truy cập [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: Mọi thắc mắc, hãy truy cập [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

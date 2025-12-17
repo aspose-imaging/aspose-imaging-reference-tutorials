@@ -150,7 +150,7 @@ Redo att utforska mer? Försök att implementera lösningen i ett verkligt scena
 - **Köpa:** [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Börja med en gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens:** [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum:** [Aspose-stöd](https://forum.aspose.com/c/imaging/10)
+- **Supportforum:** [Aspose-stöd](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din bildresa med Aspose.Imaging idag och lås upp nya möjligheter inom digital bildmanipulation!
 

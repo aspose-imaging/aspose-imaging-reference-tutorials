@@ -177,7 +177,7 @@ A: Kiểm tra [Tài liệu Aspose.Imaging](https://reference.aspose.com/imaging/
 - **Mua:** [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Dùng thử miễn phí Aspose](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn toàn diện này sẽ giúp bạn áp dụng Bộ lọc Wiener chuyển động hiệu quả, nâng cao các dự án xử lý hình ảnh dựa trên Java của bạn với Aspose.Imaging.
 

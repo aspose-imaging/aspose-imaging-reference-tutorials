@@ -196,7 +196,7 @@ Aspose.Imaging을 사용하여 TIFF 이미지를 로드하는 것이 유익한 �
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 다음 리소스를 탐색하여 이해를 높이고 애플리케이션의 이미지 처리 기능을 더욱 향상시키세요. 즐거운 코딩 되세요!
 

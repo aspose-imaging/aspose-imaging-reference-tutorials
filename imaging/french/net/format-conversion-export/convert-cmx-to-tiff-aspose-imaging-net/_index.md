@@ -182,7 +182,7 @@ Prêt à mettre ces compétences en pratique ? Découvrez dès aujourd'hui les 
 4. **Que dois-je faire si mes fichiers TIFF semblent corrompus après la conversion ?**
    - Vérifiez que les options de rastérisation correspondent aux exigences de votre image et vérifiez les chemins de fichiers pour détecter les erreurs.
 5. **Existe-t-il une assistance disponible si je rencontre des problèmes avec Aspose.Imaging ?**
-   - Oui, visitez le [Forum Aspose](https://forum.aspose.com/c/imaging/10) pour obtenir de l'aide auprès de la communauté ou contactez directement leur équipe d'assistance.
+   - Oui, visitez le [Forum Aspose](https://forum.aspose.com/c/imaging/14) pour obtenir de l'aide auprès de la communauté ou contactez directement leur équipe d'assistance.
 
 ## Ressources
 - [Documentation d'Aspose.Imaging](https://reference.aspose.com/imaging/net/)

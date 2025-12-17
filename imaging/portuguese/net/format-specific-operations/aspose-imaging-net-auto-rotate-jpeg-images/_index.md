@@ -197,7 +197,7 @@ Para obter informações mais detalhadas e aprofundar seu conhecimento sobre o A
 - [Comprar uma licença](https://purchase.aspose.com/buy)
 - [Teste grátis](https://releases.aspose.com/imaging/net/)
 - [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Suporte e Fóruns](https://forum.aspose.com/c/imaging/10)
+- [Suporte e Fóruns](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

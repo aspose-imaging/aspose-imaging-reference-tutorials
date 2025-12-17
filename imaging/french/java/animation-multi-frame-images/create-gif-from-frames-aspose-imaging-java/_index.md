@@ -175,7 +175,7 @@ Essayez d’implémenter cette solution dès aujourd’hui et voyez comment elle
 - **Documentation**: [Référence Java Aspose.Imaging](https://reference.aspose.com/imaging/java/)
 - **Télécharger**: [Sorties d'Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Achat et licence**: [Acheter la licence Aspose](https://purchase.aspose.com/buy), [Essai gratuit](https://releases.aspose.com/imaging/java/), [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: S'engager avec la communauté sur le [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: S'engager avec la communauté sur le [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 En intégrant Aspose.Imaging à vos projets Java, vous bénéficiez de puissantes capacités de traitement d'images qui optimisent et optimisent vos flux de travail. Bon codage !
 

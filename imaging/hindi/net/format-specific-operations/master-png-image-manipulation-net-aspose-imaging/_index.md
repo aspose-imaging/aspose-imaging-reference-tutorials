@@ -206,7 +206,7 @@ png.Save(Path.Combine("YOUR_OUTPUT_DIRECTORY", "SpecifyBitDepth_out.png"), optio
 - **खरीदना**: [Aspose.Imaging खरीद पृष्ठ](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [निःशुल्क परीक्षण शुरू करें](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच**: [एस्पोज इमेजिंग सहायता](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच**: [एस्पोज इमेजिंग सहायता](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -239,7 +239,7 @@ Aspose.Imaging을 사용하여 성능을 최적화하는 데는 다음이 포함
 - **구입:** [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [무료 체험판 시작하기](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따르면 이제 Java 프로젝트에서 Aspose.Imaging을 사용하여 BMP 이미지를 효율적으로 만들고 관리할 수 있는 튼튼한 기반을 갖추게 되었을 것입니다.
 

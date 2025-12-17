@@ -181,7 +181,7 @@ Pronto para aprimorar suas habilidades? Implemente estas técnicas e veja como e
 - [Licença de compra](https://purchase.aspose.com/buy)
 - [Teste grátis](https://releases.aspose.com/imaging/net/)
 - [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte](https://forum.aspose.com/c/imaging/14)
 
 Embarque em sua jornada com a Aspose.Imaging hoje mesmo e eleve seus aplicativos .NET a novos patamares!
 

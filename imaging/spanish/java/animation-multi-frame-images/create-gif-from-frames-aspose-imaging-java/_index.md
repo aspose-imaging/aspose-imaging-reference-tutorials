@@ -175,7 +175,7 @@ Siguiendo este tutorial, has aprendido a crear un GIF a partir de varios fotogra
 - **Documentación**: [Referencia de Java de Aspose.Imaging](https://reference.aspose.com/imaging/java/)
 - **Descargar**: [Lanzamientos de Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Compra y licencias**: [Comprar licencia de Aspose](https://purchase.aspose.com/buy), [Prueba gratuita](https://releases.aspose.com/imaging/java/), [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: Interactúe con la comunidad en el [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: Interactúe con la comunidad en el [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Al integrar Aspose.Imaging en tus proyectos Java, puedes aprovechar al máximo las potentes funciones de procesamiento de imágenes que optimizan y mejoran tus flujos de trabajo. ¡Que disfrutes programando!
 

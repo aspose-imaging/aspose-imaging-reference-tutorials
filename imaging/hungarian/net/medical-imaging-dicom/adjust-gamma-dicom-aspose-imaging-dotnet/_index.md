@@ -138,7 +138,7 @@ Tudásod további bővítéséhez fedezd fel az Aspose.Imaging által kínált e
 - **Vásárlás**: [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Ingyenes próbaverzió indítása](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/14)
 
 Jó programozást, és élvezd a DICOM képeid javítását az Aspose.Imaging segítségével!
 

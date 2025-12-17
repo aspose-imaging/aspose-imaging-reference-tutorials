@@ -177,7 +177,7 @@ using (TiffImage tiffImage = new TiffImage(new TiffFrame(options, 100, 100)))
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/net/)
 - [ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/14)
 
 หากทำตามคำแนะนำนี้ คุณจะสามารถสร้างและจัดการรูปภาพ TIFF ด้วยการบีบอัด AdobeDeflate โดยใช้ Aspose.Imaging สำหรับ .NET ได้อย่างครบครัน ขอให้สนุกกับการเขียนโค้ด!
 

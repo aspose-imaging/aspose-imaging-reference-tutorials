@@ -206,7 +206,7 @@ Auf jeden Fall! Wenn Sie das Produkt kommerziell nutzen möchten, erwerben Sie e
 - **Kaufen**: [Aspose.Imaging Kaufseite](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Kostenlose Testversion starten](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Temporäre Lizenz anfordern](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum**: [Aspose Imaging-Unterstützung](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum**: [Aspose Imaging-Unterstützung](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

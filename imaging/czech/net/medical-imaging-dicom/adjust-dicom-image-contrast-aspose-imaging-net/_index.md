@@ -160,7 +160,7 @@ A5: Rozhodně. Jeho robustní sada funkcí a optimalizace výkonu ho činí ide�
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte to zdarma](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum podpory Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum podpory Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 S těmito zdroji a touto příručkou jste dobře vybaveni k zahájení práce s DICOM snímky pomocí Aspose.Imaging v .NET. Přejeme vám příjemné programování!
 

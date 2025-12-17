@@ -214,7 +214,7 @@ A következő lépések magukban foglalhatják az Aspose.Imaging további funkci
 - [Licencelési lehetőségek vásárlása](https://purchase.aspose.com/buy)
 - [Kezdje ingyenes próbaverzióval](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély információk](https://purchase.aspose.com/temporary-license/)
-- [Közösségi támogatás és fórumok](https://forum.aspose.com/c/imaging/10)
+- [Közösségi támogatás és fórumok](https://forum.aspose.com/c/imaging/14)
 
 Ezen források felhasználásával elmélyítheted az Aspose.Imaging for Java megértését, és hatékonyan alkalmazhatod a projektjeidben. Jó kódolást!
 

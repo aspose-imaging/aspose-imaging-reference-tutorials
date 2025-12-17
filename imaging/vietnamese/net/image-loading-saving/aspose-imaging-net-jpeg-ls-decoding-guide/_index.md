@@ -153,7 +153,7 @@ A5: Điều chỉnh các thuộc tính nén bằng cách sử dụng `JpegOption
 - **Mua giấy phép**: [Mua Aspose Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Tải xuống hình ảnh Aspose](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

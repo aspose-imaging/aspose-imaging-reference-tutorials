@@ -210,7 +210,7 @@ Aspose.Imaging을 사용할 때 다음 팁을 고려하세요.
 - **라이센스 구매:** [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [무료 체험판을 시작하세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼:** [Aspose 지원 커뮤니티](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼:** [Aspose 지원 커뮤니티](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따라 하면 Aspose.Imaging을 사용하여 Java 애플리케이션에서 DICOM 이미지를 처리하는 데 필요한 모든 기능을 갖추게 됩니다. 즐거운 코딩 되세요!
 

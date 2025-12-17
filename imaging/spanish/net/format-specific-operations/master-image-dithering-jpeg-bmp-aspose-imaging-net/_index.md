@@ -150,7 +150,7 @@ A5: La documentación detallada se puede encontrar en [Documentación de Aspose.
 - **Licencia de compra**: [Comprar ahora](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Empezar](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal**: [Aplicar aquí](https://purchase.aspose.com/temporary-license/)
-- **Foro de soporte**: [Soporte de Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Foro de soporte**: [Soporte de Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 ¡Feliz codificación y disfruta experimentando con Aspose.Imaging para darle vida a tus necesidades de procesamiento de imágenes!
 

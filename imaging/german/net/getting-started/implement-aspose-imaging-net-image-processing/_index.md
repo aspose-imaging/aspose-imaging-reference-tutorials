@@ -126,7 +126,7 @@ Durch das Caching werden Ladezeiten und Ressourcennutzung reduziert, wodurch die
 - **Kaufen**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Kostenlose Testversion von Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Erwerben Sie eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose.Imaging Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose.Imaging Support Forum](https://forum.aspose.com/c/imaging/14)
 Wenn Sie dieser Anleitung folgen, sind Sie auf dem besten Weg, mit Aspose.Imaging eine effiziente Bildverarbeitung in Ihren .NET-Anwendungen zu implementieren. Viel Spaß beim Programmieren!
 
 {{< /blocks/products/pf/tutorial-page-section >}}

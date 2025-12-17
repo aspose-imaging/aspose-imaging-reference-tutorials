@@ -166,7 +166,7 @@ Overweeg om grote afbeeldingen op te splitsen in kleinere segmenten vóór de co
 - **Aankoop**: [Koop Aspose-licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Begin vandaag nog met Aspose.Imaging en transformeer uw beeldverwerkingstaken in gestroomlijnde workflows.
 

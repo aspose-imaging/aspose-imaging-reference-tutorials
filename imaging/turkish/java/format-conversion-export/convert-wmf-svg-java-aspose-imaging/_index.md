@@ -198,7 +198,7 @@ C4: Evet, ancak kaynakları verimli bir şekilde yönetmek ve çoklu iş parçac
 
 **S5: Aspose.Imaging ile ilgili sorunlarla karşılaşırsam daha fazla desteğe nasıl ulaşabilirim?**
 
-A5: Ziyaret [Aspose'nin forumu](https://forum.aspose.com/c/imaging/10) Topluluk desteği için veya doğrudan satın alma sayfasından müşteri hizmetleriyle iletişime geçin.
+A5: Ziyaret [Aspose'nin forumu](https://forum.aspose.com/c/imaging/14) Topluluk desteği için veya doğrudan satın alma sayfasından müşteri hizmetleriyle iletişime geçin.
 
 ## Kaynaklar
 

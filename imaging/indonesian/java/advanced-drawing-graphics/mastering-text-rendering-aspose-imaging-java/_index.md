@@ -223,7 +223,7 @@ Dalam tutorial ini Anda telah belajar cara merender **teks dengan font** di Java
 - **Unduhan:** Akses versi terbaru Aspose.Imaging dari [Halaman Rilis](https://releases.aspose.com/imaging/java/).  
 - **Pembelian:** Dapatkan lisensi penuh melalui [Halaman Pembelian Aspose](https://purchase.aspose.com/buy).  
 - **Percobaan Gratis:** Coba Aspose.Imaging dengan percobaan gratis yang tersedia di [Halaman Lisensi Sementara](https://purchase.aspose.com/temporary-license/).  
-- **Dukungan:** Bergabunglah dalam diskusi atau minta bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Dukungan:** Bergabunglah dalam diskusi atau minta bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 ---
 

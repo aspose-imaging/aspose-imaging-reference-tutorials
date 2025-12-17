@@ -201,7 +201,7 @@ Daha derine dalmaya hazır mısınız? Bu çözümleri projelerinize uygulamaya 
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Anlayışınızı derinleştirmek ve Aspose.Imaging for Java ile görüntü işleme yeteneklerinizi geliştirmek için bu kaynakları keşfedin. İyi kodlamalar!
 

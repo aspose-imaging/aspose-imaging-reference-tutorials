@@ -196,7 +196,7 @@ try-with-resources कथन यह सुनिश्चित करता ह
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 अपनी समझ को गहरा करने और अपने एप्लिकेशन की इमेज प्रोसेसिंग क्षमताओं को और बेहतर बनाने के लिए इन संसाधनों का अन्वेषण करें। हैप्पी कोडिंग!
 

@@ -211,7 +211,7 @@ Aspose.Imaging के साथ काम करते समय प्रदर
 - [खरीदना](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 इन संसाधनों का उपयोग करके, आप Aspose.Imaging की क्षमताओं का और अधिक अन्वेषण कर सकते हैं और शक्तिशाली छवि प्रसंस्करण कार्यात्मकताओं के साथ अपने Java अनुप्रयोगों को बढ़ा सकते हैं।
 

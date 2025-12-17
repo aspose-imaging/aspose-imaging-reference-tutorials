@@ -142,7 +142,7 @@ Aspose.Imaging의 기술을 더욱 향상시키려면 추가 기능을 살펴보
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/net/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET을 사용하여 이미지 변환을 마스터하는 여정을 시작하고, 이 강력한 라이브러리가 제공하는 가능성을 탐험해 보세요. 즐거운 코딩 되세요!
 

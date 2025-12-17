@@ -211,7 +211,7 @@ A: 네, Aspose.Imaging은 PNG, TIFF, BMP 등 다양한 형식을 지원합니다
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료 체험판 시작하기](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따라 하면 Aspose.Imaging for Java를 사용하여 고급 이미지 압축 기술을 구현할 수 있습니다. 더 자세히 살펴보고 이러한 방법을 프로젝트에 통합하여 최적의 성능과 품질을 달성하세요.
 

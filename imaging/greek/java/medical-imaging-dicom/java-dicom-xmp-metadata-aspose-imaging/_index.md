@@ -228,7 +228,7 @@ new File(outDir + "/output.dcm").delete();
 - [Αγορά Άδειας Χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ξεκινήστε να ενσωματώνετε αυτές τις ισχυρές δυνατότητες επεξεργασίας εικόνας στις εφαρμογές Java που διαθέτετε σήμερα και βελτιώστε τον τρόπο που χειρίζεστε εικόνες DICOM!
 

@@ -154,7 +154,7 @@ In deze tutorial heb je geleerd hoe je individuele frames van een GIF naar TIFF-
 - [Download Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - [Aankoop Aspose-licentieopties](https://purchase.aspose.com/buy)
 - [Gratis proefversie en tijdelijke licentie](https://releases.aspose.com/imaging/net/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

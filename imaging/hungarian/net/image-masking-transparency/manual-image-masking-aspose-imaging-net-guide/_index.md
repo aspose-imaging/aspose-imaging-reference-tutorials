@@ -169,7 +169,7 @@ Az Aspose.Imaging képességeinek további felfedezéséhez érdemes alaposabban
 4. **Milyen gyakori problémák merülhetnek fel a képek maszkolásakor?**
    - Gyakori problémák lehetnek a helytelen elérési út definíciók, a kezeletlen kivételek vagy a nagy képméret miatti teljesítménybeli szűk keresztmetszetek.
 5. **Hol találok támogatást, ha további kérdéseim vannak?**
-   - Látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10) közösségi szakértők és az Aspose munkatársainak segítségét kérem.
+   - Látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14) közösségi szakértők és az Aspose munkatársainak segítségét kérem.
 
 ## Erőforrás
 - **Dokumentáció**: [Aspose.Imaging .NET dokumentáció](https://reference.aspose.com/imaging/net/)

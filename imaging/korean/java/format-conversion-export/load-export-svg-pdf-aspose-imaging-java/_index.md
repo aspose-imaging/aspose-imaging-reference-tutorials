@@ -198,7 +198,7 @@ Aspose.Imaging for Java를 사용하여 SVG 파일을 PDF로 로드하고 내보
 - [구입](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 오늘부터 여러분의 프로젝트에 이러한 기능을 구현해보고 Aspose.Imaging for Java가 여러분의 작업 흐름을 어떻게 향상시킬 수 있는지 확인해 보세요!
 

@@ -189,7 +189,7 @@ Dzięki wdrożeniu wielowątkowego przetwarzania DJVU z Aspose.Imaging .NET moż
 - [Kup licencje](https://purchase.aspose.com/buy)
 - [Bezpłatny dostęp próbny](https://releases.aspose.com/imaging/net/)
 - [Informacje o licencji tymczasowej](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10) 
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Rozpocznij przygodę z wydajnym przetwarzaniem obrazów dzięki Aspose.Imaging i odkryj pełen potencjał wielowątkowego przetwarzania obrazów DJVU w środowisku .NET!
 

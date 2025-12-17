@@ -183,7 +183,7 @@ A5: Tak, jest on zaprojektowany tak, aby można go było bezproblemowo integrowa
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Zapoznaj się z tymi zasobami, aby lepiej zrozumieć i zastosować Aspose.Imaging w Javie.
 

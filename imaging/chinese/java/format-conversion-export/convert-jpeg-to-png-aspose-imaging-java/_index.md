@@ -256,7 +256,7 @@ image.save("YOUR_OUTPUT_DIRECTORY/056_ycck_profile.png", new PngOptions());
 - **购买：** [Aspose 许可](https://purchase.aspose.com/buy)
 - **免费试用：** [开始](https://releases.aspose.com/imaging/java/)
 - **临时执照：** [申请临时执照](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 按照本指南，您可以有效地使用 Aspose.Imaging Java 来管理和转换项目中的 JPEG 图像。立即试用！
 

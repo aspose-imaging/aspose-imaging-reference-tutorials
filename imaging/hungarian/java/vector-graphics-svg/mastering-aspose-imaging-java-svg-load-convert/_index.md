@@ -160,7 +160,7 @@ Készen állsz mélyebbre merülni? Próbáld ki ezeket a megoldásokat a követ
 - **Vásárlás:** [Aspose licencelés vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Ingyenes próbaverzió indítása](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórum Támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Fórum Támogatás](https://forum.aspose.com/c/imaging/14)
 
 Ezt az útmutatót követve jó úton haladsz az SVG képkezelés elsajátításához Java nyelven az Aspose.Imaging segítségével. Jó kódolást!
 

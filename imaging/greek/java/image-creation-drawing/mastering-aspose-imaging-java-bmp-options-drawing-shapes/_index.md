@@ -214,7 +214,7 @@ image.save(outputDirectory);
 - **Αγορά**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δοκιμάστε το Aspose.Imaging δωρεάν](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Τώρα που είστε εξοπλισμένοι με αυτές τις γνώσεις, προχωρήστε και δοκιμάστε να εφαρμόσετε αυτές τις λειτουργίες στις εφαρμογές Java που διαθέτετε!
 

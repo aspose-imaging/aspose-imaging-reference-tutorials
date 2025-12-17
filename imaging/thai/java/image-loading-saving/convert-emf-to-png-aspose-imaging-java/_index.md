@@ -186,7 +186,7 @@ byte[] outputBytes = outputStream.toByteArray();
 - **ซื้อ:** [ซื้อ Aspose.Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี:** [รับทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว:** [การขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน:** [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน:** [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 เริ่มต้นการเดินทางสู่การเรียนรู้การแปลงภาพใน Java ด้วย Aspose.Imaging วันนี้!
 

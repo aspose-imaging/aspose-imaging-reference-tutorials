@@ -180,7 +180,7 @@ Pronti a provarlo? Implementate queste soluzioni nei vostri progetti oggi stesso
 
 **D5:** Dove posso trovare supporto se riscontro problemi con Aspose.Imaging?
 
-**A5:** Visita il [Forum di supporto di Aspose.Imaging](https://forum.aspose.com/c/imaging/10) per ricevere assistenza da esperti e sviluppatori della comunità.
+**A5:** Visita il [Forum di supporto di Aspose.Imaging](https://forum.aspose.com/c/imaging/14) per ricevere assistenza da esperti e sviluppatori della comunità.
 
 ## Risorse
 - **Documentazione:** [Documentazione di Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -188,7 +188,7 @@ Pronti a provarlo? Implementate queste soluzioni nei vostri progetti oggi stesso
 - **Acquistare:** [Acquista la licenza di Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Prova gratuita di Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea:** [Ottieni la licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto:** [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto:** [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

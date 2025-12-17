@@ -200,7 +200,7 @@ A4: Grijswaardenafbeeldingen bevatten alleen grijstinten, waardoor de bestandsgr
 
 **V5: Hoe kan ik ondersteuning krijgen als ik problemen ondervind met Aspose.Imaging?**
 
-A5: Bezoek de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10) voor hulp van deskundigen uit de gemeenschap en ondersteunend personeel van de overheid.
+A5: Bezoek de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14) voor hulp van deskundigen uit de gemeenschap en ondersteunend personeel van de overheid.
 
 ## Bronnen
 

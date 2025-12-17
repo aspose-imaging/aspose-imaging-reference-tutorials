@@ -199,7 +199,7 @@ Aspose.Imaging for Javaを使用してEMFファイルをSVGに変換するプロ
    - ライブラリは試用ライセンスで利用できます。フル機能を使用するには購入が必要です。
 
 5. **必要な場合はどこでサポートを受けられますか?**
-   - 訪問 [Asposeのサポートフォーラム](https://forum.aspose.com/c/imaging/10) 援助をお願いします。
+   - 訪問 [Asposeのサポートフォーラム](https://forum.aspose.com/c/imaging/14) 援助をお願いします。
 
 ## リソース
 

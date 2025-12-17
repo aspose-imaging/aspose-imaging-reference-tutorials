@@ -177,7 +177,7 @@ Gotowy na dalsze odkrywanie? Spróbuj wdrożyć to rozwiązanie i zobacz, jak pr
 - **Zakup**:Rozważ zakup pełnego dostępu na [Strona zakupu Aspose](https://purchase.aspose.com/buy).
 - **Bezpłatna wersja próbna**:Wypróbuj funkcje dzięki bezpłatnej wersji próbnej dostępnej na tej samej stronie.
 - **Licencja tymczasowa**:Złóż wniosek o tymczasową licencję, aby przedłużyć okres oceny.
-- **Wsparcie**:Dołącz do dyskusji i zadawaj pytania na [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Wsparcie**:Dołącz do dyskusji i zadawaj pytania na [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Dzięki temu kompleksowemu przewodnikowi jesteś teraz gotowy, aby opanować przezroczystość obrazu w Javie przy użyciu Aspose.Imaging. Miłego kodowania!
 

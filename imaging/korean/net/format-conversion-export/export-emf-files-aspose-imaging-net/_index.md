@@ -169,7 +169,7 @@ EMF 파일을 변환할 때 성능을 최적화하려면 다음 사항을 고려
    - .NET Framework 및 .NET Core/5+/6+ 환경과 호환됩니다.
 
 5. **문제가 발생하면 지원을 받을 수 있나요?**
-   - 예, 커뮤니티 포럼과 공식 지원 채널에 접속할 수 있습니다. [Aspose 지원](https://forum.aspose.com/c/imaging/10).
+   - 예, 커뮤니티 포럼과 공식 지원 채널에 접속할 수 있습니다. [Aspose 지원](https://forum.aspose.com/c/imaging/14).
 
 ## 자원
 

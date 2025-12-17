@@ -209,7 +209,7 @@ Je beheerst nu hoe je EMF-bestanden kunt laden, bijsnijden en converteren naar P
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Omarm de kracht van Aspose.Imaging Java en verbeter vandaag nog uw beeldverwerkingsmogelijkheden!
 

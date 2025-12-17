@@ -176,7 +176,7 @@ A: Monitorare l'utilizzo delle risorse, ottimizzare la logica di elaborazione de
 - **Acquistare:** [Acquista le opzioni di licenza Aspose](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Inizia gratuitamente con Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea:** [Ottieni una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto:** [Forum Aspose per il supporto](https://forum.aspose.com/c/imaging/10)
+- **Supporto:** [Forum Aspose per il supporto](https://forum.aspose.com/c/imaging/14)
 
 Seguendo questa guida sarai sulla buona strada per padroneggiare l'elaborazione delle immagini con Aspose.Imaging in Java!
 

@@ -210,7 +210,7 @@ image.save("YOUR_OUTPUT_DIRECTORY/ConvertDjvuPagesToGif_out.gif", exportOptions)
 - **Αγορά:** [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Ξεκινήστε τη δωρεάν δοκιμή σας](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτό το σεμινάριο, είστε πλέον εξοπλισμένοι για να αξιοποιήσετε το Aspose.Imaging για Java στα έργα σας. Καλή κωδικοποίηση!
 

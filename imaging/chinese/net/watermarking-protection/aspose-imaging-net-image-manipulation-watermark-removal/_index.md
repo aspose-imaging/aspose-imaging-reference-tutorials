@@ -167,7 +167,7 @@ File.Delete(Path.Combine(dataDir, "ball.png")); // 必要时清理原始文件
 - **购买许可证**： [立即购买](https://purchase.aspose.com/buy)
 - **免费试用**： [开始免费试用](https://releases.aspose.com/imaging/net/)
 - **临时执照**： [在此请求](https://purchase.aspose.com/temporary-license/)
-- **支持论坛**： [提出问题](https://forum.aspose.com/c/imaging/10)
+- **支持论坛**： [提出问题](https://forum.aspose.com/c/imaging/14)
 
 通过探索这些资源，您将为掌握 Aspose.Imaging 及其功能奠定坚实的基础。祝您编程愉快！
 

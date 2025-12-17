@@ -178,7 +178,7 @@ A: Obwohl Aspose.Imaging auf Leistung optimiert ist, sollten Sie für optimale E
 - **Kaufen**: [Aspose.Imaging-Lizenz kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Beginnen Sie mit einer kostenlosen Testversion von Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Fordern Sie eine temporäre Lizenz an](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Treten Sie dem Aspose-Forum bei, um Support zu erhalten](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Treten Sie dem Aspose-Forum bei, um Support zu erhalten](https://forum.aspose.com/c/imaging/14)
 
 Mit diesen Ressourcen sind Sie nun bestens gerüstet, um die TIFF-Bildverarbeitung sicher in Angriff zu nehmen. Viel Spaß beim Programmieren!
 

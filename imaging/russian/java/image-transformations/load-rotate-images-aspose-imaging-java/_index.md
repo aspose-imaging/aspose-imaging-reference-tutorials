@@ -193,7 +193,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **Покупка:** Купить лицензии через [Портал покупок Aspose](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия:** Доступ к временной лицензии через [Бесплатные пробные версии Aspose](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия:** Получите один на [Временные лицензии Aspose](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать:** Присоединяйтесь к сообществу и получите помощь по [Форум Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать:** Присоединяйтесь к сообществу и получите помощь по [Форум Aspose](https://forum.aspose.com/c/imaging/14)
 
 Следуя этому руководству, вы сможете эффективно интегрировать Aspose.Imaging в свои проекты Java для легкой обработки загрузки и поворота изображений. Удачного кодирования!
 

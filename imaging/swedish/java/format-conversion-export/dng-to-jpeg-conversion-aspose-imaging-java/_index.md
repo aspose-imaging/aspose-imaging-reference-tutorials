@@ -183,7 +183,7 @@ Redo att testa det? Implementera dessa steg i ditt nästa projekt eller experime
    Ja, den `JpegOptions` Klassen tillhandahåller metoder för att konfigurera utdatakvalitet och andra parametrar.
 
 5. **Var kan jag få stöd om jag stöter på problem?**
-   Besök [Aspose.Imaging-forum](https://forum.aspose.com/c/imaging/10) för communitysupport eller kontakta Aspose direkt via deras supportkanaler.
+   Besök [Aspose.Imaging-forum](https://forum.aspose.com/c/imaging/14) för communitysupport eller kontakta Aspose direkt via deras supportkanaler.
 
 ## Resurser
 

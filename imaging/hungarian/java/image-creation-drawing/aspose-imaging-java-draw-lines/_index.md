@@ -234,7 +234,7 @@ Ebben az oktatóanyagban azt vizsgáltuk meg, hogyan konfigurálhatók a bitkép
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezen források felhasználásával elmélyítheted az Aspose.Imaging for Java megértését és használatát a projektjeidben. Jó kódolást!
 

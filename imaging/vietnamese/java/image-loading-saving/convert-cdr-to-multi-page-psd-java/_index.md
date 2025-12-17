@@ -197,7 +197,7 @@ Trong hướng dẫn này, chúng tôi đã khám phá cách sử dụng Aspose.
    - Hoàn toàn có thể! Nó hỗ trợ nhiều định dạng hình ảnh khác nhau ngoài CDR và PSD.
 
 5. **Tôi có thể khắc phục sự cố khi tải hoặc lưu hình ảnh như thế nào?**
-   - Kiểm tra [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) để biết các giải pháp phổ biến và đảm bảo phiên bản thư viện của bạn được cập nhật.
+   - Kiểm tra [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) để biết các giải pháp phổ biến và đảm bảo phiên bản thư viện của bạn được cập nhật.
 
 ## Tài nguyên
 
@@ -206,7 +206,7 @@ Trong hướng dẫn này, chúng tôi đã khám phá cách sử dụng Aspose.
 - **Mua:** [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Nhận giấy phép miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn sẽ được trang bị tốt để xử lý các tác vụ tải và chuyển đổi hình ảnh CDR trong các ứng dụng Java của mình bằng Aspose.Imaging. Chúc bạn viết mã vui vẻ!
 

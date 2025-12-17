@@ -170,7 +170,7 @@ Melalui tutorial ini, Anda telah mempelajari dasar-dasar memuat dan menyimpan ga
 - **Pembelian:** [Beli Lisensi](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Mulai Uji Coba Gratis Anda](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara:** [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda kini siap menangani pemrosesan gambar .NET dengan percaya diri menggunakan Aspose.Imaging for .NET. Selamat membuat kode!
 

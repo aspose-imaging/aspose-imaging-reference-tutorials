@@ -170,7 +170,7 @@ Klaar om uw beeldverwerking naar een hoger niveau te tillen? Probeer deze oploss
 - **Licentie kopen:** [Nu kopen](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Start uw proefperiode](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Hier verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum:** [Stel vragen](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum:** [Stel vragen](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u goed toegerust om beeldverwerkingstaken met gemak uit te voeren met Aspose.Imaging voor Java. Veel plezier met coderen!
 

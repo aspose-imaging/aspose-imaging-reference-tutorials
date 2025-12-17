@@ -258,7 +258,7 @@ A5: Utilizzare blocchi try-catch per gestire potenziali eccezioni, come file non
 - **Acquistare**: [Acquista Aspose Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Prova gratis](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea**: [Richiedi qui](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

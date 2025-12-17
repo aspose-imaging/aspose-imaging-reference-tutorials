@@ -237,7 +237,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **Απόδειξη με έγγραφα:** [Aspose.Imaging για τεκμηρίωση Java](https://reference.aspose.com/imaging/java/)
 - **Λήψη:** [Aspose.Imaging για εκδόσεις Java](https://releases.aspose.com/imaging/java/)
 - **Αγορά & Δωρεάν Δοκιμή:** [Αγοράστε ή δοκιμάστε το Aspose.Imaging για Java](https://purchase.aspose.com/buy)
-- **Φόρουμ υποστήριξης:** [Κοινότητα Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ υποστήριξης:** [Κοινότητα Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Αυτός ο ολοκληρωμένος οδηγός θα σας εξοπλίσει με τις γνώσεις για να μειώσετε αποτελεσματικά το θάμπωμα κίνησης στις εικόνες σας χρησιμοποιώντας το Aspose.Imaging για Java. Καλή κωδικοποίηση!
 

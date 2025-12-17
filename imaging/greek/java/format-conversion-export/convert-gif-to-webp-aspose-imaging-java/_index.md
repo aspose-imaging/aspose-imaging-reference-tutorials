@@ -225,7 +225,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **Αγορά**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δωρεάν δοκιμές Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Με αυτόν τον ολοκληρωμένο οδηγό, είστε πλήρως εξοπλισμένοι για να βελτιστοποιήσετε τις εικόνες σας χρησιμοποιώντας το Aspose.Imaging για Java και να βελτιώσετε τις εφαρμογές ή τους ιστότοπούς σας. Καλή κωδικοποίηση!
 

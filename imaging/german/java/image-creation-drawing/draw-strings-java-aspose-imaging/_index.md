@@ -204,7 +204,7 @@ Sie wissen nun, wie Sie mit Aspose.Imaging für Java Zeichenketten mit unterschi
 - **Kaufen:** [Aspose.Imaging-Lizenz kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Testen Sie Aspose.Imaging kostenlos](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Temporäre Lizenz anfordern](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) 
+- **Unterstützung:** [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) 
 
 Entdecken Sie diese Ressourcen, um Ihr Verständnis und Ihre Fähigkeiten mit Aspose.Imaging für Java zu verbessern. Viel Spaß beim Programmieren!
 

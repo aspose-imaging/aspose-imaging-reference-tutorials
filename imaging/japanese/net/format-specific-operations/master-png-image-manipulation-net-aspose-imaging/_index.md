@@ -206,7 +206,7 @@ NuGet 経由でパッケージが正しく追加されていることを確認�
 - **購入**： [Aspose.Imaging 購入ページ](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルを始める](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [Aspose イメージング サポート](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [Aspose イメージング サポート](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

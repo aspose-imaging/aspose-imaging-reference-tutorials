@@ -197,7 +197,7 @@ Wir haben untersucht, wie Aspose.Imaging für Java die WebP-Bildverarbeitung in 
 - [Lizenz erwerben](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Antrag auf eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit dieser umfassenden Anleitung sind Sie nun in der Lage, die WebP-Bildverarbeitung in Java effizient und sicher durchzuführen. Viel Spaß beim Programmieren!
 

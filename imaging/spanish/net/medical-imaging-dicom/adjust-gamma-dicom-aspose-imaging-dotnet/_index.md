@@ -138,7 +138,7 @@ Para mejorar aún más sus conocimientos, explore otras funciones que ofrece Asp
 - **Compra**: [Comprar una licencia](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Comience una prueba gratuita](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal**: [Solicitar una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Foro de Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: [Foro de Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 ¡Feliz codificación y disfruta mejorando tus imágenes DICOM con Aspose.Imaging!
 

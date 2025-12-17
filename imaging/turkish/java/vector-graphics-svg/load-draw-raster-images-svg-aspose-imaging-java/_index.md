@@ -187,7 +187,7 @@ Bu eğitimde, Java için Aspose.Imaging kullanarak bir SVG tuvaline raster bir g
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Bilgileri](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, artık Aspose.Imaging for Java kullanarak raster görüntüleri SVG tuvallerine entegre etmek için iyi bir donanıma sahip olmalısınız. İyi kodlamalar!
 

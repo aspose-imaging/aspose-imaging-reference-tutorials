@@ -193,7 +193,7 @@ Jste připraveni implementovat toto výkonné řešení? Ponořte se do Aspose.I
 - **Licence k zakoupení:** [Kupte si plnou licenci ještě dnes](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Začněte s bezplatnou zkušební verzí](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory:** [Získejte pomoc od komunity](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory:** [Získejte pomoc od komunity](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu budete dobře vybaveni k integraci výkonných funkcí pro zpracování obrazu do vašich Java aplikací pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 

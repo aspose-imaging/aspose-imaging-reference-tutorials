@@ -160,7 +160,7 @@ A3: استخدم كتل try-catch حول الكود الخاص بك لإدارة
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [ابدأ تجربتك المجانية](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتديات أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتديات أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 استمتع بقوة Aspose.Imaging Java لتعزيز قدرات معالجة الصور لديك!
 

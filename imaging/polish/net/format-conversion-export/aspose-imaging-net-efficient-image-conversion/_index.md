@@ -137,7 +137,7 @@ Poznaj bardziej zaawansowane funkcje Aspose.Imaging, takie jak przetwarzanie wsa
 - [Pobierz Aspose.Imaging dla .NET](https://releases.aspose.com/imaging/net/)
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna i licencja tymczasowa](https://releases.aspose.com/imaging/net/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Przeglądaj te zasoby, aby pogłębić swoje zrozumienie i ulepszyć implementacje za pomocą Aspose.Imaging .NET. Miłego kodowania!
 

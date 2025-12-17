@@ -184,7 +184,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 오늘부터 이러한 솔루션 구현을 시작하고 Aspose.Imaging for Java로 이미지 처리 역량을 강화하세요!
 

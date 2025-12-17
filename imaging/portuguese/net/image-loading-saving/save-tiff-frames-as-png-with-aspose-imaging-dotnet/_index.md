@@ -182,7 +182,7 @@ Dê o próximo passo e comece a implementar esta solução em seus projetos hoje
 - [Comprar uma licença](https://purchase.aspose.com/buy)
 - [Versão de teste gratuita](https://releases.aspose.com/imaging/net/)
 - [Solicitação de Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

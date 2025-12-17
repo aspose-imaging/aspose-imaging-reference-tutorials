@@ -161,7 +161,7 @@ Langkah selanjutnya? Bereksperimen dengan konfigurasi yang berbeda di `BmpOption
    - Sesuaikan konfigurasi bitmap dalam `BmpOptions` untuk mengubah pengaturan kualitas keluaran.
 
 5. **Di mana saya dapat menemukan dukungan jika saya mengalami masalah?**
-   - Kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10) untuk bantuan komunitas dan profesional.
+   - Kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14) untuk bantuan komunitas dan profesional.
 
 ## Sumber daya
 

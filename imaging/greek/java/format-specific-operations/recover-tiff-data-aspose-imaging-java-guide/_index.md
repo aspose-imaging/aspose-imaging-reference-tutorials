@@ -227,7 +227,7 @@ tiffImage.close();
    - Ναι, με την κατάλληλη αδειοδότηση, είναι ιδανικό για επαγγελματικές και εταιρικές εφαρμογές.
 
 5. **Πού μπορώ να βρω περισσότερους πόρους σχετικά με το Aspose.Imaging;**
-   - Επίσκεψη [Τεκμηρίωση Aspose](https://reference.aspose.com/imaging/java/) και το [φόρουμ υποστήριξης](https://forum.aspose.com/c/imaging/10) για λεπτομερείς οδηγούς και βοήθεια από την κοινότητα.
+   - Επίσκεψη [Τεκμηρίωση Aspose](https://reference.aspose.com/imaging/java/) και το [φόρουμ υποστήριξης](https://forum.aspose.com/c/imaging/14) για λεπτομερείς οδηγούς και βοήθεια από την κοινότητα.
 
 ## Πόροι
 
@@ -236,7 +236,7 @@ tiffImage.close();
 - **Αγορά**: https://purchase.aspose.com/buy
 - **Δωρεάν δοκιμή**: https://releases.aspose.com/imaging/java/
 - **Προσωρινή Άδεια**: https://purchase.aspose.com/temporary-license/
-- **Υποστήριξη**: https://forum.aspose.com/c/imaging/10
+- **Υποστήριξη**: https://forum.aspose.com/c/imaging/14
 
 Ξεκινήστε το ταξίδι σας για να τελειοποιήσετε την ανάκτηση εικόνων TIFF με το Aspose.Imaging για Java σήμερα!
 

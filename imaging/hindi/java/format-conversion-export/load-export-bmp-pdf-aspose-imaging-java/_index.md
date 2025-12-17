@@ -191,7 +191,7 @@ Aspose.Imaging की क्षमताओं का और अधिक पत
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 अपनी समझ को गहरा करने और अपनी परियोजनाओं में Aspose.Imaging की क्षमताओं का विस्तार करने के लिए इन संसाधनों का अन्वेषण करें। हैप्पी कोडिंग!
 

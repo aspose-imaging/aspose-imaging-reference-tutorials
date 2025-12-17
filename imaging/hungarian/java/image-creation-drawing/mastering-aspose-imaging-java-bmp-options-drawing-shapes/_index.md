@@ -214,7 +214,7 @@ V: Teljesen. Hatékonyan kezeli a különféle képformátumokat, beleértve a n
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbáld ki az Aspose.Imaging ingyenes verzióját](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Most, hogy felvértezve ezzel a tudással, próbáld meg implementálni ezeket a funkciókat a Java alkalmazásaidban!
 

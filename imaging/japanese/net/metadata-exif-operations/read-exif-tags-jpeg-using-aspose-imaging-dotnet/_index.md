@@ -145,7 +145,7 @@ A5: 可能な場合は画像を並列処理し、画像オブジェクトを適�
 - **ライセンスを購入する**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [試してみる](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [リクエストはこちら](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [質問する](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [質問する](https://forum.aspose.com/c/imaging/14)
 
 今すぐ Aspose.Imaging for .NET を使い始め、画像メタデータのパワーを活用しましょう。
 

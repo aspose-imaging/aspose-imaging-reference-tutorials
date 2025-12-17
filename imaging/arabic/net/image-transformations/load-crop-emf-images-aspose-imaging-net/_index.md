@@ -186,7 +186,7 @@ using (FileStream outputStream = new FileStream(outputDir + "/CroppingEMFImage_o
 - [شراء الترخيص](https://purchase.aspose.com/buy)
 - [الوصول إلى النسخة التجريبية المجانية](https://releases.aspose.com/imaging/net/)
 - [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 صُمم هذا الدليل الشامل لتزويدك بالمعرفة والمهارات اللازمة لدمج قدرات معالجة صور EMF في تطبيقات .NET بفعالية. مع Aspose.Imaging، وسّع مجموعة أدوات التطوير لديك وحسّن أداء مشروعك.
 

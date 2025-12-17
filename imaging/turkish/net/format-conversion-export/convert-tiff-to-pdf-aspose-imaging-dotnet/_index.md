@@ -165,7 +165,7 @@ A5: Sağlam olsa da, bazı gelişmiş özellikler tam işlevsellik için ücretl
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'i Ücretsiz Deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Forumları](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Forumları](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuz, Aspose.Imaging for .NET kullanarak TIFF görüntülerini PDF'lere dönüştürmeye başlamak için gereken tüm bilgileri sağlar ve belge yönetimi çözümlerinizi güçlendirir.
 

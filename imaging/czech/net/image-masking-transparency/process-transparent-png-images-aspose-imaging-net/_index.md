@@ -145,7 +145,7 @@ tomto tutoriálu jste se naučili, jak načíst obrázek PNG, extrahovat a manip
 - Prozkoumejte další formáty souborů podporované službou Aspose.Imaging.
 
 **Výzva k akci:**
-Zkuste implementovat tyto funkce ve svém dalším projektu a uvidíte, jak Aspose.Imaging pro .NET dokáže zefektivnit úlohy zpracování obrazu. Podělte se o své zkušenosti nebo se zeptejte na otázky v [Fórum Aspose](https://forum.aspose.com/c/imaging/10) pokud narazíte na nějaké problémy.
+Zkuste implementovat tyto funkce ve svém dalším projektu a uvidíte, jak Aspose.Imaging pro .NET dokáže zefektivnit úlohy zpracování obrazu. Podělte se o své zkušenosti nebo se zeptejte na otázky v [Fórum Aspose](https://forum.aspose.com/c/imaging/14) pokud narazíte na nějaké problémy.
 
 ## Sekce Často kladených otázek
 1. **Co je Aspose.Imaging pro .NET?**
@@ -165,7 +165,7 @@ Zkuste implementovat tyto funkce ve svém dalším projektu a uvidíte, jak Aspo
 - [Možnosti nákupu](https://purchase.aspose.com/buy)
 - [Bezplatný zkušební přístup](https://releases.aspose.com/imaging/net/)
 - [Získání dočasné licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory a komunity](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory a komunity](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

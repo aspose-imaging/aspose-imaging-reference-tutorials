@@ -191,7 +191,7 @@ Jste připraveni uvést své nově nabyté dovednosti do praxe? Zkuste implement
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/net/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Využijte tyto zdroje k prohloubení svých znalostí a vylepšení implementace Aspose.Imaging pro .NET. Přejeme vám příjemné programování!
 

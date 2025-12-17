@@ -153,7 +153,7 @@ A4: التحقق من مسارات الملفات، والتأكد من إصدا
 - [شراء الترخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/net/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 قم بأخذ تطبيقات .NET الخاصة بك إلى المستوى التالي من خلال إتقان معالجة الصور باستخدام Aspose.Imaging!
 

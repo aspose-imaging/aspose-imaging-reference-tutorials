@@ -196,7 +196,7 @@ Ready to put your newfound skills into action? Try implementing these features a
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/net/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Leverage these resources to deepen your understanding and enhance your implementation of Aspose.Imaging for .NET. Happy coding!
 

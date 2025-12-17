@@ -177,7 +177,7 @@ Zjistěte více o Aspose.Imaging pomocí těchto zdrojů:
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/net/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu budete dobře vybaveni k vytváření a správě obrázků TIFF s kompresí AdobeDeflate pomocí Aspose.Imaging pro .NET. Přejeme vám příjemné programování!
 

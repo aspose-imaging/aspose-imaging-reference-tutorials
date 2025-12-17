@@ -178,7 +178,7 @@ Aby lepiej poznać Aspose.Imaging, rozważ zagłębienie się w inne funkcje, ta
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna do pobrania](https://releases.aspose.com/imaging/java/)
 - [Wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Teraz, gdy posiadasz wiedzę pozwalającą na ładowanie obrazów SVG przy użyciu Aspose.Imaging for Java, możesz śmiało i kreatywnie realizować swoje projekty!
 

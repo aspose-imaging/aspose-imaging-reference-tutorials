@@ -170,7 +170,7 @@ using (Image image = Image.Load(dataDir + "/aspose-logo.jpg"))
 - **ライセンスを購入**： [Aspose Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルから始める](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [Aspose.Imaging サポート](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [Aspose.Imaging サポート](https://forum.aspose.com/c/imaging/14)
 
 次のステップとして、.NET プロジェクトにこれらの最適化を実装し、Aspose.Imaging によって画像処理タスクがどのように向上するかを確認してください。
 

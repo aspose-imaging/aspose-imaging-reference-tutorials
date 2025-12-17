@@ -169,7 +169,7 @@ A5: ファイルパスと権限を確認し、.NET環境が正しく設定され
 - **購入：** [ライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料トライアルを開始](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス:** [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

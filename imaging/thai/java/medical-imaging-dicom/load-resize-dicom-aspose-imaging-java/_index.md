@@ -199,7 +199,7 @@ image.save(outputFile, new BmpOptions());
 - [ซื้อ](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - [ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/14)
 
 บทช่วยสอนนี้จะช่วยให้คุณมีความรู้ในการจัดการภาพ DICOM โดยใช้ Aspose.Imaging Java เพื่อให้แน่ใจว่าแอปพลิเคชันของคุณมีประสิทธิภาพและปรับขนาดได้ ขอให้สนุกกับการเขียนโค้ด!
 

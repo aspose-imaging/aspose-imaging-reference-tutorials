@@ -162,7 +162,7 @@ V: Természetesen úgy tervezték, hogy zökkenőmentesen működjön különfé
 - **Licenc vásárlása:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Aspose.Imaging ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum:** [Aspose képalkotási támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum:** [Aspose képalkotási támogatás](https://forum.aspose.com/c/imaging/14)
 
 Ezzel az átfogó útmutatóval most már képes leszel EMF fájlokat WMF formátumba konvertálni az Aspose.Imaging for Java segítségével. Jó kódolást!
 

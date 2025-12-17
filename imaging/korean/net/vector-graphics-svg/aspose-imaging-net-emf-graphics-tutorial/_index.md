@@ -149,7 +149,7 @@ Aspose.Imaging을 사용할 때 최적의 성능을 보장하려면:
 - [구입](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/net/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10) 
+- [지원 포럼](https://forum.aspose.com/c/imaging/14) 
 
 이러한 리소스를 탐색하여 Aspose.Imaging의 기능을 더욱 자세히 알아보고 오늘부터 .NET 애플리케이션을 개선해보세요!
 

@@ -223,7 +223,7 @@ A5: Đảm bảo bạn đang lưu trữ hình ảnh sau khi tải, thay đổi k
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Aspose.Imaging dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/10) 
+- **Ủng hộ**: [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/14) 
 
 Với hướng dẫn toàn diện này, bạn sẽ được trang bị đầy đủ để bắt đầu tích hợp Aspose.Imaging vào các dự án Java của mình để quản lý hình ảnh hiệu quả. Chúc bạn viết mã vui vẻ!
 

@@ -165,7 +165,7 @@ Ga een stap verder door te experimenteren met verschillende configuraties en use
 - **Aankoop:** Koop een licentie bij [Aspose-licentiepagina](https://purchase.aspose.com/buy).
 - **Gratis proefperiode:** Probeer Aspose.Imaging met een gratis proefversie die u op hun releasepagina kunt vinden.
 - **Tijdelijke licentie:** Krijg uitgebreide toegang via de tijdelijke licentieoptie.
-- **Steun:** Neem deel aan discussies of zoek hulp op de [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Steun:** Neem deel aan discussies of zoek hulp op de [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Experimenteer en integreer gesynchroniseerde streamtoegang in uw Java-projecten voor verbeterde stabiliteit en prestaties!
 

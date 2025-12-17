@@ -245,7 +245,7 @@ En este tutorial, aprendiste a crear archivos TIFF multipágina usando la compre
 - **Compra**: https://purchase.aspose.com/buy
 - **Prueba gratuita**: https://releases.aspose.com/imaging/java/
 - **Licencia temporal**: https://purchase.aspose.com/licencia-temporal/
-- **Apoyo**: https://forum.aspose.com/c/imaging/10
+- **Apoyo**: https://forum.aspose.com/c/imaging/14
 
 ¡Ahora que estás equipado con el conocimiento, comienza a implementar y explorar estas técnicas en tus proyectos Java!
 

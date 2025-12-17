@@ -206,7 +206,7 @@ Congratulations! You've learned how to load, manipulate, and save images using A
    - It supports over 50 image formats including JPEG, PNG, TIFF, and more.
 
 5. **How can I get help if I encounter issues?**
-   - Visit [Aspose's forum](https://forum.aspose.com/c/imaging/10) for support and community advice.
+   - Visit [Aspose's forum](https://forum.aspose.com/c/imaging/14) for support and community advice.
 
 ## Resources
 

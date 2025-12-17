@@ -199,7 +199,7 @@ image.save();
 - **Αγορά:** [Buy Aspose.Imaging for Java](https://purchase.aspose.com/buy)  
 - **Δωρεάν Δοκιμή:** Ξεκινήστε τη δωρεάν δοκιμή στην [Aspose website](https://releases.aspose.com/imaging/java/)  
 - **Προσωρινή Άδεια:** Αιτηθείτε προσωρινή άδεια μέσω [Aspose Purchase](https://purchase.aspose.com/temporary-license/)  
-- **Υποστήριξη:** Συμμετέχετε σε συζητήσεις στο [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** Συμμετέχετε σε συζητήσεις στο [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Ξεκινήστε να σχεδιάζετε αυτές τις καμπύλες σήμερα και ανεβάστε τα Java projects σας με το Aspose.Imaging!
 

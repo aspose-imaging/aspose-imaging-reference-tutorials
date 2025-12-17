@@ -182,7 +182,7 @@ A5: Διατίθεται δωρεάν δοκιμαστική περίοδος, �
 - **Αγορά**: [Αγοράστε Άδεια Χρήσης Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε τη δωρεάν δοκιμή σας](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Μη διστάσετε να εξερευνήσετε αυτούς τους πόρους και να ξεκινήσετε την υλοποίηση των έργων επεξεργασίας εικόνας σας με σιγουριά χρησιμοποιώντας το Aspose.Imaging για Java.
 

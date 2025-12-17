@@ -160,7 +160,7 @@ R5: Per un utilizzo ininterrotto in ambienti di produzione è necessaria una lic
 - **Acquistare**: [Acquista Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Inizia la tua prova gratuita](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea**: [Ottieni una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: [Forum di Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: [Forum di Aspose](https://forum.aspose.com/c/imaging/14)
 
 Sfrutta la potenza di Aspose.Imaging Java per potenziare le tue capacità di elaborazione delle immagini!
 

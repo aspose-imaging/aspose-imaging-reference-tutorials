@@ -168,14 +168,14 @@ Với hướng dẫn này, bạn đã thành thạo việc tải và xuất các
 4. **Có giới hạn về kích thước tệp CAD mà tôi có thể xử lý không?**
    - Xử lý các tệp lớn có thể cần nhiều bộ nhớ hơn; hãy tối ưu hóa khi cần dựa trên khả năng của hệ thống.
 5. **Tôi có thể tìm sự hỗ trợ ở đâu nếu gặp vấn đề?**
-   - Thăm nom [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) để được hỗ trợ và tư vấn từ cộng đồng.
+   - Thăm nom [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) để được hỗ trợ và tư vấn từ cộng đồng.
 
 ## Tài nguyên
 - **Tài liệu**: Khám phá đầy đủ [Tài liệu Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
 - **Tải về**: Nhận phiên bản mới nhất từ [Phát hành](https://releases.aspose.com/imaging/net/)
 - **Mua & Dùng thử miễn phí**Truy cập phiên bản dùng thử hoặc mua giấy phép qua [Mua Aspose](https://purchase.aspose.com/buy) Và [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/).
 - **Giấy phép tạm thời**: Yêu cầu cấp giấy phép tạm thời từ [Giấy phép tạm thời Aspose](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: Nhận trợ giúp về [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: Nhận trợ giúp về [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

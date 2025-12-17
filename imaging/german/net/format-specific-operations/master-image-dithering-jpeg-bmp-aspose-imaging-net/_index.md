@@ -150,7 +150,7 @@ A5: Eine ausführliche Dokumentation finden Sie unter [Aspose.Imaging .NET Dokum
 - **Lizenz erwerben**: [Jetzt kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Erste Schritte](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Hier bewerben](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum**: [Aspose.Imaging-Unterstützung](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum**: [Aspose.Imaging-Unterstützung](https://forum.aspose.com/c/imaging/14)
 
 Viel Spaß beim Programmieren und Experimentieren mit Aspose.Imaging, um Ihre Bildverarbeitungsanforderungen zu verwirklichen!
 

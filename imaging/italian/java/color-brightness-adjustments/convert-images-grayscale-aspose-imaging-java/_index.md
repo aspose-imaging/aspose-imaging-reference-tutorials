@@ -188,7 +188,7 @@ Hai imparato come convertire efficacemente le immagini in scala di grigi utilizz
 - **Scaricamento**: Ottieni l'ultima versione da [Rilasci di Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Acquisto e prova**: Scopri le opzioni di acquisto e inizia con una prova gratuita [Qui](https://purchase.aspose.com/buy)
 - **Licenza temporanea**: Ottenere una licenza temporanea [Qui](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: Unisciti al forum della comunità su [Forum di imaging Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: Unisciti al forum della comunità su [Forum di imaging Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ci auguriamo che questa guida ti aiuti a utilizzare efficacemente Aspose.Imaging per Java nei tuoi progetti. Buona programmazione!
 

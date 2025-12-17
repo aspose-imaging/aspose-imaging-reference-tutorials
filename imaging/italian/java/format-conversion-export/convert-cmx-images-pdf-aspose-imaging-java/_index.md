@@ -242,7 +242,7 @@ Esplora ulteriori funzionalità di Aspose.Imaging per migliorare i tuoi progetti
 - [Acquista licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Seguendo questa guida, sarai pronto ad affrontare le conversioni da CMX a PDF con sicurezza utilizzando Aspose.Imaging per Java. Buon lavoro!
 

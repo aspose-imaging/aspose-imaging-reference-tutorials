@@ -182,7 +182,7 @@ Genom att följa den här guiden har du lärt dig hur du effektivt använder Asp
 - **Ladda ner**: [Aspose.Imaging-utgåvor](https://releases.aspose.com/imaging/java/)
 - **Köpa**: [Aspose-licensalternativ](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**: [Aspose Support Community](https://forum.aspose.com/c/imaging/10)
+- **Supportforum**: [Aspose Support Community](https://forum.aspose.com/c/imaging/14)
 
 Nu när du har alla verktyg och kunskaper kan du börja experimentera med Aspose.Imaging för Java för att släppa lös din kreativitet inom bildbehandling!
 

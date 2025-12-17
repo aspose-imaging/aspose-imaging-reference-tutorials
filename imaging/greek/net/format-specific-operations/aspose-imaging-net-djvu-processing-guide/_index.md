@@ -197,7 +197,7 @@ A: Εκτός από τα PNG και TIFF, μπορείτε να κάνετε ε
 - **Αγορά**: [Αγοράστε Άδεια Χρήσης Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δοκιμάστε το Aspose.Imaging δωρεάν](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ελπίζουμε ότι αυτός ο οδηγός θα σας δώσει τη δυνατότητα να αξιοποιήσετε το Aspose.Imaging για τις ανάγκες επεξεργασίας εικόνας DjVu σε .NET. Καλή κωδικοποίηση!
 

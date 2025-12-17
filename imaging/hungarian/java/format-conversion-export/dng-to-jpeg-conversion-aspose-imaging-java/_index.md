@@ -183,7 +183,7 @@ Készen állsz kipróbálni? Alkalmazd ezeket a lépéseket a következő projek
    Igen, a `JpegOptions` Az osztály metódusokat biztosít a kimeneti minőség és egyéb paraméterek konfigurálására.
 
 5. **Hol kaphatok támogatást, ha problémákba ütközöm?**
-   Látogassa meg a [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/10) közösségi támogatásért, vagy vegye fel a kapcsolatot közvetlenül az Aspose-szal a támogatási csatornáikon keresztül.
+   Látogassa meg a [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/14) közösségi támogatásért, vagy vegye fel a kapcsolatot közvetlenül az Aspose-szal a támogatási csatornáikon keresztül.
 
 ## Erőforrás
 

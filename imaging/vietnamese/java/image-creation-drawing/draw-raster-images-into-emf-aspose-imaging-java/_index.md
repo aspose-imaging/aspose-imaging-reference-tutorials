@@ -214,7 +214,7 @@ Bạn đã sẵn sàng áp dụng những gì đã học chưa? Hãy thử áp d
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Dùng thử Aspose.Imaging miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/10) 
+- **Diễn đàn hỗ trợ**: [Hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/14) 
 
 Hãy bắt đầu hành trình cùng Aspose.Imaging for Java ngay hôm nay và khám phá những tiềm năng mới trong xử lý hình ảnh!
 

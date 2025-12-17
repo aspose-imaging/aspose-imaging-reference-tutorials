@@ -203,7 +203,7 @@ Sẵn sàng triển khai các giải pháp này vào dự án của riêng bạn
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Nhận giấy phép miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn cộng đồng Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn cộng đồng Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách tận dụng Aspose.Imaging for Java, bạn có thể sắp xếp hợp lý quy trình xử lý tài liệu và xử lý các tệp DjVu một cách dễ dàng. Chúc bạn viết mã vui vẻ!
 

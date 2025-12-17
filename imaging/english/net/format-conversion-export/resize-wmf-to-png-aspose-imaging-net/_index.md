@@ -167,7 +167,7 @@ Yes, script these steps and run them over multiple files using .NET's file manag
 - **Purchase**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Free](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Get Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum**: [Aspose Community Support](https://forum.aspose.com/c/imaging/10)
+- **Support Forum**: [Aspose Community Support](https://forum.aspose.com/c/imaging/14)
 
 Embark on your image processing journey with Aspose.Imaging for .NET and explore endless possibilities in handling graphics.
 

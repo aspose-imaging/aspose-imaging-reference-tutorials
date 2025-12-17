@@ -155,7 +155,7 @@ Bereit, tiefer einzutauchen? Versuchen Sie noch heute, diese Techniken umzusetze
    Ja, es kann nach dem Erwerb einer Lizenz in jeder Produktionsumgebung verwendet werden.
 
 5. **Gibt es Support zur Behebung von Problemen mit Aspose.Imaging?**
-   Ja, Sie können Hilfe suchen bei der [Aspose-Foren](https://forum.aspose.com/c/imaging/10).
+   Ja, Sie können Hilfe suchen bei der [Aspose-Foren](https://forum.aspose.com/c/imaging/14).
 
 ## Ressourcen
 - **Dokumentation:** https://reference.aspose.com/imaging/net/
@@ -163,7 +163,7 @@ Bereit, tiefer einzutauchen? Versuchen Sie noch heute, diese Techniken umzusetze
 - **Kaufen:** https://purchase.aspose.com/buy
 - **Kostenlose Testversion:** https://releases.aspose.com/imaging/net/
 - **Temporäre Lizenz:** https://purchase.aspose.com/temporary-license/
-- **Unterstützung:** https://forum.aspose.com/c/imaging/10
+- **Unterstützung:** https://forum.aspose.com/c/imaging/14
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

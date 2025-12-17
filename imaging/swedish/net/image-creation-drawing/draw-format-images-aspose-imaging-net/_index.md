@@ -159,7 +159,7 @@ I den här guiden utforskade du hur man ritar rektanglar på en bild med hjälp 
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provversion](https://releases.aspose.com/imaging/net/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

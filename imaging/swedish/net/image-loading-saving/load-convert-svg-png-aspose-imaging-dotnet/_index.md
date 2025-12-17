@@ -157,7 +157,7 @@ Försök att implementera den här lösningen i dina projekt idag och se hur det
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provversion nedladdning](https://releases.aspose.com/imaging/net/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Utforska dessa resurser för att fördjupa din förståelse och utnyttja Aspose.Imaging för .NET i dina utvecklingsprojekt. Lycka till med kodningen!
 

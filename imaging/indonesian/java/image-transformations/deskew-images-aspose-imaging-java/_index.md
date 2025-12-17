@@ -182,7 +182,7 @@ A: Setelah membeli atau memperoleh lisensi sementara, konfigurasikan aplikasi An
 - **Pembelian:** [Beli Lisensi Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Mulai Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Kami harap panduan ini membantu Anda menerapkan fitur deskewing secara efisien dalam aplikasi Java Anda menggunakan Aspose.Imaging. Selamat membuat kode!
 

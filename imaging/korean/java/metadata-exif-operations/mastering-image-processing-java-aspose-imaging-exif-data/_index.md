@@ -217,7 +217,7 @@ Aspose.Imaging for Java를 사용하여 JPEG 이미지를 로드하고 EXIF 데�
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허 요청](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이제 모든 도구와 지식을 갖추었으니, Java 애플리케이션에서 이 강력한 기능을 구현할 차례입니다!
 

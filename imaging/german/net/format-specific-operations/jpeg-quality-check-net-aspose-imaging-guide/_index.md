@@ -177,7 +177,7 @@ Um die Angebote von Aspose.Imaging genauer zu erkunden, können Sie in die umfan
 - **Kaufen:** [Lizenz kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Versuchen Sie Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz:** [Erwerben Sie eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Beginnen Sie Ihr nächstes Bildverarbeitungsprojekt mit der Gewissheit, dass Sie über die richtigen Werkzeuge und Kenntnisse verfügen, um optimale JPEG-Qualitätseinstellungen sicherzustellen.
 

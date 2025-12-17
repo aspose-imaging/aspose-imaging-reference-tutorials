@@ -158,7 +158,7 @@ Dalam tutorial ini, kami mengeksplorasi cara membuka dan memproses gambar menggu
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Versi Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Aplikasi Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Panduan komprehensif ini akan membantu Anda mengimplementasikan dan memanfaatkan Aspose.Imaging Java secara efisien untuk pemrosesan gambar berbasis aliran, meningkatkan kinerja dan kemampuan aplikasi Anda.
 

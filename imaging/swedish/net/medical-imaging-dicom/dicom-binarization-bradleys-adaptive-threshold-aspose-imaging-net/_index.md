@@ -167,7 +167,7 @@ A5: Även om den är effektiv, passar den bäst för bilder där lokala kontrast
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Kom igång med en gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Begär en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**För eventuella frågor, besök [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd**För eventuella frågor, besök [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din resa med Aspose.Imaging för .NET och lås upp nya möjligheter inom medicinsk avbildning!
 

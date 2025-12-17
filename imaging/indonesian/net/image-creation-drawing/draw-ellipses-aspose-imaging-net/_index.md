@@ -161,7 +161,7 @@ Langkah selanjutnya dapat mencakup mengintegrasikan fitur ini ke dalam aplikasi 
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Cobalah menerapkan teknik ini dalam proyek Anda berikutnya dan lihat bagaimana Aspose.Imaging untuk .NET dapat meningkatkan kemampuan pemrosesan gambar Anda!
 

@@ -191,7 +191,7 @@ Teraz nauczyłeś się, jak efektywnie ładować i zmieniać rozmiar obrazów TI
    - Tak, obsługuje wiele formatów obrazów, takich jak JPEG, PNG, BMP i inne.
 
 5. **Gdzie mogę znaleźć pomoc, jeśli napotkam problemy?**
-   - Odwiedź [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) o wsparcie społeczności i władz.
+   - Odwiedź [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) o wsparcie społeczności i władz.
 
 ## Zasoby
 

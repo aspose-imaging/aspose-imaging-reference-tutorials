@@ -156,7 +156,7 @@ Jelajahi lebih jauh dengan mengintegrasikan teknik ini ke dalam proyek Anda atau
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Dengan menguasai konsep-konsep ini, Anda sudah berada di jalur yang tepat untuk menciptakan aplikasi Java yang hebat yang mengelola operasi I/O file secara efisien. Selamat membuat kode!
 

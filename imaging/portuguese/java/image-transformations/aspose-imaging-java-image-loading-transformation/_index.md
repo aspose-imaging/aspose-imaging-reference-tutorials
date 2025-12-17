@@ -183,7 +183,7 @@ R5: Sim, ele foi projetado para se integrar perfeitamente em diferentes ambiente
 - [Licença de compra](https://purchase.aspose.com/buy)
 - [Teste grátis](https://releases.aspose.com/imaging/java/)
 - [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte](https://forum.aspose.com/c/imaging/14)
 
 Explore estes recursos para aprofundar seu entendimento e aplicação do Aspose.Imaging em Java.
 

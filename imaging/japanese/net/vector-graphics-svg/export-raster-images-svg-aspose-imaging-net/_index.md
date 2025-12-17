@@ -167,7 +167,7 @@ Aspose.Imaging for .NETを使用してラスター画像をSVGに変換する方
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス申請](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 この包括的なガイドを読めば、Aspose.Imaging for .NET をプロジェクトで使い始める準備が整います。コーディングを楽しみましょう！
 

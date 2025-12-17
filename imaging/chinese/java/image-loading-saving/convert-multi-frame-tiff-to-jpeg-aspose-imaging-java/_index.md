@@ -256,7 +256,7 @@ license.setLicense("path_to_your_license.lic");
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/java/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10)
+- [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 有了这些资源和新知识，您就可以开始使用 Aspose.Imaging for Java 将 TIFF 图像转换为 JPEG！
 

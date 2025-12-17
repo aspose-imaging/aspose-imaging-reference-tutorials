@@ -148,7 +148,7 @@ Memanfaatkan aliran yang di-buffer dan memastikan pembuangan sumber daya yang te
 - **Pembelian:** [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Mulailah dengan Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara:** [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Dukungan Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Dukungan Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Panduan ini dirancang untuk membantu Anda memanfaatkan potensi penuh Aspose.Imaging untuk proyek .NET Anda. Selamat membuat kode!
 

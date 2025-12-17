@@ -220,7 +220,7 @@ public class SaveCroppedDicomAsBmp {
 - **購買**： [購買 Aspose 許可證](https://purchase.aspose.com/buy)
 - **免費試用**： [Aspose 免費試用](https://releases.aspose.com/imaging/java/)
 - **臨時執照**： [取得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 有了這份全面的指南，您現在就可以使用 Aspose.Imaging 在 Java 中實作 DICOM 影像處理了。祝您程式愉快！
 

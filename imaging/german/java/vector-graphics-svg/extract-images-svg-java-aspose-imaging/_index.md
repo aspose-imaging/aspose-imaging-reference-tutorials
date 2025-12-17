@@ -250,7 +250,7 @@ A: Erwägen Sie die Verwendung von Stapelverarbeitungstechniken und die Optimier
 - **Kaufen:** [Aspose kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Starten Sie Ihre kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Erhalten Sie eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Implementieren Sie diese Funktionen in Ihre Java-Projekte, um neue Möglichkeiten freizuschalten und Bildverarbeitungs-Workflows mit Aspose.Imaging zu optimieren. Viel Spaß beim Programmieren!
 

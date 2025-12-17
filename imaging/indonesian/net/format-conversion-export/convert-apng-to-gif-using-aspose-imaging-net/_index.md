@@ -171,7 +171,7 @@ Aspose.Imaging mendukung berbagai format gambar, termasuk animasi JPEG2000 dan T
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Dapatkan Uji Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

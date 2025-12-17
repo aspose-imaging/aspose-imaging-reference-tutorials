@@ -220,7 +220,7 @@ public class SaveCroppedDicomAsBmp {
 - **구입**: [Aspose 라이선스 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose 무료 체험판](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허 취득](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 포괄적인 가이드를 통해 이제 Aspose.Imaging을 사용하여 Java로 DICOM 이미지 처리를 구현할 수 있게 되었습니다. 즐거운 코딩 되세요!
 

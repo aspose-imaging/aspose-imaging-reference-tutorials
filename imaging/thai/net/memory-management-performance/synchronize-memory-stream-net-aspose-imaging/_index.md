@@ -162,7 +162,7 @@ Install-Package Aspose.Imaging
 - **ซื้อใบอนุญาต:** [ซื้อ Aspose.Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี:** [ทดลองใช้ Aspose.Imaging ฟรี](https://releases.aspose.com/imaging/net/)
 - **ใบอนุญาตชั่วคราว:** [ขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **ฟอรั่มการสนับสนุน:** [การสนับสนุนการถ่ายภาพ Aspose](https://forum.aspose.com/c/imaging/10)
+- **ฟอรั่มการสนับสนุน:** [การสนับสนุนการถ่ายภาพ Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

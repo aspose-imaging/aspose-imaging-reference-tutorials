@@ -245,7 +245,7 @@ CCITTFAX3 संपीड़न के साथ बहु-पृष्ठ TIFF 
 - **खरीदना**: https://purchase.aspose.com/buy
 - **मुफ्त परीक्षण**: https://releases.aspose.com/imaging/java/
 - **अस्थायी लाइसेंस**: https://purchase.aspose.com/temporary-license/
-- **सहायता**: https://forum.aspose.com/c/imaging/10
+- **सहायता**: https://forum.aspose.com/c/imaging/14
 
 अब जब आप ज्ञान से लैस हैं, तो अपने जावा प्रोजेक्ट्स में इन तकनीकों को लागू करना और खोजना शुरू करें!
 

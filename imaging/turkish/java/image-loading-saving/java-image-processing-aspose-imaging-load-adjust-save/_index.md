@@ -215,7 +215,7 @@ Artık Aspose.Imaging ile Java görüntü işlemenin temellerine hakim oldunuz. 
 - **Satın almak**: [Aspose Ürünlerini Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Buradan Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging ile Java görüntü işleme yolculuğunuza başlayın ve dijital görüntü işlemede yeni olasılıkların kilidini açın!
 

@@ -184,7 +184,7 @@ A5: تحقق جيدًا من الكود الخاص بك بحثًا عن أخطا
 - **شراء**:الحصول على ترخيص في [موقع شراء Aspose](https://purchase.aspose.com/buy).
 - **نسخة تجريبية مجانية**:ابدأ بفترة تجريبية مجانية عبر [تجارب أسبوزي](https://releases.aspose.com/imaging/java/).
 - **رخصة مؤقتة**:الحصول على ترخيص مؤقت من [ترخيص Aspose](https://purchase.aspose.com/temporary-license/).
-- **يدعم**:اطلب المساعدة على [منتدى Aspose](https://forum.aspose.com/c/imaging/10).
+- **يدعم**:اطلب المساعدة على [منتدى Aspose](https://forum.aspose.com/c/imaging/14).
 
 باتباع هذا الدليل، أصبحتَ الآن جاهزًا للتعامل مع تدويرات صور DICOM في Java بثقة. برمجة ممتعة!
 

@@ -182,7 +182,7 @@ tomto tutoriálu jsme si ukázali, jak kreslit oblouky na obrázcích pomocí As
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Získejte bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - [Informace o dočasné licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Neváhejte se ponořit do těchto zdrojů, kde najdete podrobnější informace a podporu. Přejeme vám příjemné programování!
 

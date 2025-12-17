@@ -193,7 +193,7 @@ Aspose.Imaging for Javaを使用して、画像の読み込み、保存オプシ
 - **ライセンスを購入:** [今すぐフルライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料トライアルから始めましょう](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** [一時ライセンスを申請する](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム:** [コミュニティから助けを得る](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム:** [コミュニティから助けを得る](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従うことで、Aspose.Imaging を使用して強力な画像処理機能を Java アプリケーションに統合できるようになります。コーディングを楽しみましょう！
 

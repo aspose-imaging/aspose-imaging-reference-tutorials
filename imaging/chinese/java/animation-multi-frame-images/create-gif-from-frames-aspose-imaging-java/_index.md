@@ -175,7 +175,7 @@ import com.aspose.imaging.fileformats.gif.GifImage;
 - **文档**： [Aspose.Imaging Java 参考](https://reference.aspose.com/imaging/java/)
 - **下载**： [Aspose.Imaging 发布](https://releases.aspose.com/imaging/java/)
 - **购买和许可**： [购买 Aspose 许可证](https://purchase.aspose.com/buy)， [免费试用](https://releases.aspose.com/imaging/java/)， [临时执照](https://purchase.aspose.com/temporary-license/)
-- **支持**与社区互动 [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**与社区互动 [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 通过将 Aspose.Imaging 集成到您的 Java 项目中，您可以解锁强大的图像处理功能，从而简化和增强您的工作流程。祝您编码愉快！
 

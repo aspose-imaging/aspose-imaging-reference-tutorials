@@ -190,7 +190,7 @@ Aspose.Imaging for .NET を使用して複数の画像を 1 つに結合する�
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースとヒントを活用すれば、Aspose.Imaging for .NET を使ったあらゆる画像処理の課題に十分対応できるようになります。コーディングを楽しみましょう！
 

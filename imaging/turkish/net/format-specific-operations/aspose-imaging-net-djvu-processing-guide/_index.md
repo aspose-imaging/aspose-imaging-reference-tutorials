@@ -197,7 +197,7 @@ C: Evet, ASP.NET uygulamalarına ve diğer sunucu taraflı çerçevelere entegre
 - **Satın almak**: [Aspose.Imaging Lisansını Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'i Ücretsiz Deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzun, .NET'te DjVu görüntü işleme ihtiyaçlarınız için Aspose.Imaging'i kullanmanıza yardımcı olmasını umuyoruz. İyi kodlamalar!
 

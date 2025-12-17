@@ -173,7 +173,7 @@ try {
 - **Αγορά:** [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Έναρξη δωρεάν δοκιμής](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ υποστήριξης:** [Φόρουμ Υποστήριξης Απεικόνισης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ υποστήριξης:** [Φόρουμ Υποστήριξης Απεικόνισης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Μη διστάσετε να εξερευνήσετε αυτούς τους πόρους και να ενσωματώσετε το Aspose.Imaging στα έργα σας για απρόσκοπτες δυνατότητες επεξεργασίας εικόνας.
 

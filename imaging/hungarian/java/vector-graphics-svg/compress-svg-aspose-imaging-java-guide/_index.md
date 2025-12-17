@@ -211,7 +211,7 @@ Ebben az oktatóanyagban azt vizsgáltuk meg, hogyan lehet betölteni, konfigur�
 - [Vásárlás](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezen erőforrások felhasználásával jobban felfedezheti az Aspose.Imaging képességeit, és hatékony képfeldolgozási funkciókkal bővítheti Java-alkalmazásait.
 

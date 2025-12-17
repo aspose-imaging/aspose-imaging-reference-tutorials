@@ -149,7 +149,7 @@ A3: Implementujte bloky try-catch kolem kódu pro načítání obrázků, abyste
 A4: Ano, pomocí komplexního API Aspose.Imaging můžete číst i zapisovat tagy EXIF.
 
 **Q5: Kde mohu získat podporu, pokud narazím na problémy?**
-A5: Navštivte [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) pro podporu komunity a oficiální podporu.
+A5: Navštivte [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) pro podporu komunity a oficiální podporu.
 
 ## Zdroje
 

@@ -209,7 +209,7 @@ A: Il [Documentazione di Aspose.Imaging](https://reference.aspose.com/imaging/ja
 - **Acquistare**: [Acquista una licenza](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Prova Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea**: [Richiedi qui](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Intraprendi il tuo viaggio con Aspose.Imaging Java e trasforma subito il modo in cui gestisci le conversioni delle immagini!
 

@@ -184,7 +184,7 @@ A: Köp en prenumeration från [Asposes köpsida](https://purchase.aspose.com/bu
 - **Nedladdningsbibliotek:** Hämta den senaste versionen från [Aspose.Imaging-utgåvor](https://releases.aspose.com/imaging/java/).
 - **Köplicens:** Besök [Aspose-köp](https://purchase.aspose.com/buy) för licensalternativ.
 - **Gratis provperiod och tillfällig licens:** Börja med en gratis provperiod eller skaffa en tillfällig licens på [Aspose Gratis provperiod och licensiering](https://releases.aspose.com/imaging/java/).
-- **Supportforum:** Engagera dig med gemenskapen på [Aspose Supportforum](https://forum.aspose.com/c/imaging/10).
+- **Supportforum:** Engagera dig med gemenskapen på [Aspose Supportforum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

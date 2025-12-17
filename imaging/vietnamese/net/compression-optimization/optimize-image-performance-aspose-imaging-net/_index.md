@@ -170,7 +170,7 @@ Trong hướng dẫn này, bạn đã học cách tải và lưu trữ hình ả
 - **Mua giấy phép**: [Mua Aspose Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu với bản dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Hãy thực hiện bước tiếp theo bằng cách triển khai các tối ưu hóa này vào các dự án .NET của bạn và khám phá cách Aspose.Imaging có thể nâng cao tác vụ xử lý hình ảnh của bạn!
 

@@ -204,7 +204,7 @@ Je hebt nu geleerd hoe je Aspose.Imaging voor Java kunt gebruiken om pixelwaarde
 - **Aankoop**Verwerf licenties rechtstreeks van [Aankoop Aspose](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: Begin met experimenteren met een [gratis proeflicentie](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: Verkrijg een tijdelijke licentie voor testen bij [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/).
-- **Steun**: Sluit je aan bij de community op de [Aspose Forum](https://forum.aspose.com/c/imaging/10) voor vragen of discussies.
+- **Steun**: Sluit je aan bij de community op de [Aspose Forum](https://forum.aspose.com/c/imaging/14) voor vragen of discussies.
 
 Na het volgen van deze tutorial bent u nu in staat om complexe beeldverwerkingstaken in Java uit te voeren met Aspose.Imaging. Veel plezier met coderen!
 

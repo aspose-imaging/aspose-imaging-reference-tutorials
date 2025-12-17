@@ -191,7 +191,7 @@ Masalah umum meliputi penanganan pembuangan gambar yang tidak tepat yang menyeba
 - **Pembelian**: https://purchase.aspose.com/beli
 - **Uji Coba Gratis**: https://releases.aspose.com/imaging/java/
 - **Lisensi Sementara**: https://purchase.aspose.com/lisensi-sementara/
-- **Mendukung**: https://forum.aspose.com/c/imaging/10
+- **Mendukung**: https://forum.aspose.com/c/imaging/14
 
 Kami harap panduan ini bermanfaat bagi proyek Anda. Selamat membuat kode!
 

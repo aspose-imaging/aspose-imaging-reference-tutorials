@@ -205,7 +205,7 @@ Redo att ta det till nästa nivå? Testa att implementera den här lösningen i 
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Aspose.Imaging Gratis provperioder](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Begär tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Med den här guiden är du väl rustad att utnyttja Aspose.Imaging för effektiv EPS-filhantering i dina .NET-applikationer. Lycka till med kodningen!
 

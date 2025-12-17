@@ -181,7 +181,7 @@ Bir sonraki adımı atmaya hazır mısınız? Bu teknikleri kendi Java uygulamal
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'i Ücretsiz Deneyin](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Talebinde Bulunun](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Görüntüleme Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Görüntüleme Forumu](https://forum.aspose.com/c/imaging/14)
 
 Başarılı olmak için gereken araçlara ve bilgiye sahip olduğunuzu bilerek görüntü işleme yolculuğunuza güvenle başlayın. İyi kodlamalar!
 

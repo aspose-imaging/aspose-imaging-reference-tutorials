@@ -173,7 +173,7 @@ A: Do typowych problemów zaliczają się wycieki pamięci i wąskie gardła wyd
 - **Zakup**:Kup licencję lub skorzystaj z bezpłatnej wersji próbnej [Zakup Aspose](https://purchase.aspose.com/buy).
 - **Bezpłatna wersja próbna**:Zacznij od okresu próbnego [Wydania](https://releases.aspose.com/imaging/net/).
 - **Licencja tymczasowa**:Poproś o jeden z [Postawić](https://purchase.aspose.com/temporary-license/).
-- **Wsparcie**:Uzyskaj pomoc w [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Wsparcie**:Uzyskaj pomoc w [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Rozpocznij przygodę z przetwarzaniem obrazu dzięki Aspose.Imaging i przenieś swoje aplikacje na nowy poziom!
 

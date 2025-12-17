@@ -147,7 +147,7 @@ tym przewodniku przyjrzeliśmy się sposobowi implementacji licencjonowania mier
 - Eksperymentuj dalej, integrując licencjonowanie licznikowe z bardziej złożonymi procesami pracy.
 - Poznaj dodatkowe funkcje oferowane przez Aspose.Imaging, które mogą zwiększyć możliwości Twojej aplikacji.
 
-Zachęcamy do wypróbowania tej implementacji w swoich projektach. Jeśli masz pytania lub potrzebujesz wsparcia, nie wahaj się skontaktować się z nami za pośrednictwem [Forum społeczności Aspose](https://forum.aspose.com/c/imaging/10).
+Zachęcamy do wypróbowania tej implementacji w swoich projektach. Jeśli masz pytania lub potrzebujesz wsparcia, nie wahaj się skontaktować się z nami za pośrednictwem [Forum społeczności Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Sekcja FAQ
 **P1: Czym jest licencjonowanie licznikowe?**

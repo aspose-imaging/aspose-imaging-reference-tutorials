@@ -166,7 +166,7 @@ image.Save(outputPath);
 - [Αγορά](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/net/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/14)
 
 Βουτήξτε στο Aspose.Imaging για .NET και ανεβάστε τις δυνατότητες επεξεργασίας εικόνας σας στο επόμενο επίπεδο!
 

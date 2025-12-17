@@ -177,7 +177,7 @@ Aspose.Imaging के साथ काम करते समय:
 - **लाइसेंस खरीदें**: [Aspose खरीद पृष्ठ](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [Aspose.Imaging निःशुल्क आज़माएँ](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **समर्थन और समुदाय**: [Aspose फ़ोरम](https://forum.aspose.com/c/imaging/10)
+- **समर्थन और समुदाय**: [Aspose फ़ोरम](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

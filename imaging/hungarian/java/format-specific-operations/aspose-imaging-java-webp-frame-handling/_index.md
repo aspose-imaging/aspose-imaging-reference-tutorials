@@ -168,7 +168,7 @@ Ellenőrizd a memóriahasználatot, és gondoskodj róla, hogy használat után 
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Kezdje ingyenes próbaverzióval](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Tedd meg a következő lépést, és kezdd el alkalmazni ezeket a technikákat a projektjeidben még ma!
 

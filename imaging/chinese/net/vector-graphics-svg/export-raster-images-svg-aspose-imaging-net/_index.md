@@ -167,7 +167,7 @@ foreach (string path in paths)
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/net/)
 - [临时许可证申请](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10)
+- [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 有了这份全面的指南，您就可以开始在项目中使用 Aspose.Imaging for .NET 了。祝您编程愉快！
 

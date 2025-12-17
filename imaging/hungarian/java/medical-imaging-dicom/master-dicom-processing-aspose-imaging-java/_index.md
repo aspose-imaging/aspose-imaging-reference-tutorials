@@ -175,7 +175,7 @@ Vágj bele, és próbáld ki ezt a megoldást még ma!
 - **Vásárlás:** Vásároljon licencet kereskedelmi használatra itt: [Aspose Vásárlási Oldal](https://purchase.aspose.com/buy).
 - **Ingyenes próbaverzió:** Kezdje egy ingyenes próbaverzióval, hogy kiértékelhesse a funkciókat a következő címen: [Aspose ingyenes próbaverzió](https://releases.aspose.com/imaging/java/).
 - **Ideiglenes engedély:** Kérjen ideiglenes licencet, ha hosszabb hozzáférésre van szüksége a [Licencoldal](https://purchase.aspose.com/temporary-license/).
-- **Támogatás:** Csatlakozzon a beszélgetésekhez és kérjen segítséget a [Aspose Fórum](https://forum.aspose.com/c/imaging/10).
+- **Támogatás:** Csatlakozzon a beszélgetésekhez és kérjen segítséget a [Aspose Fórum](https://forum.aspose.com/c/imaging/14).
 
 Az útmutató követésével könnyedén kezelheted a DICOM képeket az Aspose.Imaging for Java segítségével. Jó kódolást!
 

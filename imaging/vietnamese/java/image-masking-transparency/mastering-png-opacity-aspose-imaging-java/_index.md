@@ -177,7 +177,7 @@ Sẵn sàng khám phá thêm? Hãy thử triển khai giải pháp này và xem 
 - **Mua**: Hãy cân nhắc mua để có quyền truy cập đầy đủ tại [Trang web mua hàng Aspose](https://purchase.aspose.com/buy).
 - **Dùng thử miễn phí**: Hãy dùng thử các tính năng với bản dùng thử miễn phí có sẵn trên cùng một trang.
 - **Giấy phép tạm thời**: Nộp đơn xin cấp giấy phép tạm thời để gia hạn thời gian đánh giá.
-- **Ủng hộ**:Tham gia thảo luận và đặt câu hỏi trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10).
+- **Ủng hộ**:Tham gia thảo luận và đặt câu hỏi trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14).
 
 Với hướng dẫn toàn diện này, giờ đây bạn đã sẵn sàng để làm chủ tính năng trong suốt của hình ảnh trong Java bằng Aspose.Imaging. Chúc bạn viết mã vui vẻ!
 

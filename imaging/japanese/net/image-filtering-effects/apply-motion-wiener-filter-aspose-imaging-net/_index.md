@@ -152,7 +152,7 @@ Aspose.Imaging for .NET を使用してモーションウィーナーフィル�
 - **購入：** [Aspose.Imagingライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料トライアルを開始](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス:** [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 今すぐ Aspose.Imaging for .NET を使って画像処理をマスターする旅に出かけましょう。
 

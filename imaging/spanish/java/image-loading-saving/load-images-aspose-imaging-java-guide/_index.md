@@ -177,7 +177,7 @@ Siguiendo esta guía, ya sabe cómo cargar imágenes con Aspose.Imaging para Jav
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Con esta guía, estarás bien preparado para empezar a usar Aspose.Imaging para Java en tus proyectos. ¡Que disfrutes programando!
 

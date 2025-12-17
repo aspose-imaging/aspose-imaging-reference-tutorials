@@ -237,7 +237,7 @@ Voor verdere verkenning en ondersteuning kunt u de volgende bronnen raadplegen:
 - **Documentatie:** [Aspose.Imaging voor Java-documentatie](https://reference.aspose.com/imaging/java/)
 - **Downloaden:** [Aspose.Imaging voor Java-releases](https://releases.aspose.com/imaging/java/)
 - **Aankoop & gratis proefperiode:** [Koop of probeer Aspose.Imaging voor Java](https://purchase.aspose.com/buy)
-- **Ondersteuningsforum:** [Aspose Ondersteuningscommunity](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum:** [Aspose Ondersteuningscommunity](https://forum.aspose.com/c/imaging/14)
 
 Deze uitgebreide gids geeft je de kennis om bewegingsonscherpte in je afbeeldingen effectief te verminderen met Aspose.Imaging voor Java. Veel plezier met coderen!
 

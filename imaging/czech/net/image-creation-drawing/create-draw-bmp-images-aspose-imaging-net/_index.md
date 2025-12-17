@@ -156,7 +156,7 @@ Jste připraveni začít vytvářet úžasné obrázky BMP? Implementujte tyto k
 - **Nákup:** [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Zkušební verze](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence:** [Žádost zde](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory:** [Podpora komunity Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory:** [Podpora komunity Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -244,7 +244,7 @@ A5: There are free trial options, but full functionality requires purchasing a l
 - **Purchase**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Get a Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 By following this guide, you'll be well-equipped to leverage Aspose.Imaging for Java in your DICOM processing tasks. Happy coding!
 

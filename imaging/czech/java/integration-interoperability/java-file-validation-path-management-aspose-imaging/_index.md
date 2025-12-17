@@ -221,7 +221,7 @@ A5: Přidejte závislost Aspose.Imaging do svého projektu pomocí Mavenu nebo G
 - **Nákup**Získejte licenci prostřednictvím [Nákupní stránka Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**Začněte experimentovat s [Bezplatná zkušební verze Aspose](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**Získejte rozšířený přístup prostřednictvím [Stránka s dočasnou licencí společnosti Aspose](https://purchase.aspose.com/temporary-license/)
-- **Podpora**Zapojte se do komunity a podpůrného týmu na [Asposeovo fórum](https://forum.aspose.com/c/imaging/10)
+- **Podpora**Zapojte se do komunity a podpůrného týmu na [Asposeovo fórum](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu budete dobře vybaveni k implementaci ověřování souborů a správy cest ve vašich Java aplikacích pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 

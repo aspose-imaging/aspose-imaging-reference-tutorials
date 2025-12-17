@@ -225,7 +225,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging 무료 체험판](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 종합 가이드를 통해 Aspose.Imaging for Java를 사용하여 이미지를 최적화하고 애플리케이션이나 웹사이트를 개선하는 데 필요한 모든 것을 갖추게 될 것입니다. 즐거운 코딩 되세요!
 

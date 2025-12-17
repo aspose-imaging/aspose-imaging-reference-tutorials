@@ -148,7 +148,7 @@ Bạn đã sẵn sàng triển khai các giải pháp này vào dự án của m
 - [Mua](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Tận dụng sức mạnh của Aspose.Imaging cho .NET và nâng cao khả năng xử lý hình ảnh của bạn ngay hôm nay!
 

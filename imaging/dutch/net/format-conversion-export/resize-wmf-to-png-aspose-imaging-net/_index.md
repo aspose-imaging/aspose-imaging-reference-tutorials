@@ -162,7 +162,7 @@ Ja, u kunt deze stappen in een script vastleggen en uitvoeren op meerdere bestan
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer gratis](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Aspose Community Support](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Aspose Community Support](https://forum.aspose.com/c/imaging/14)
 
 Begin uw beeldverwerkingsreis met Aspose.Imaging voor .NET en ontdek de eindeloze mogelijkheden voor het verwerken van graphics.
 

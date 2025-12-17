@@ -171,7 +171,7 @@ Gefeliciteerd! Je hebt succesvol geleerd hoe je SVG-afbeeldingen kunt laden en o
 
 **Volgende stappen:**
 - Ontdek andere functies van Aspose.Imaging, zoals beeldtransformatie en filtering.
-- Doe mee met de [Aspose.Imaging forum](https://forum.aspose.com/c/imaging/10) om inzichten te delen of advies te vragen aan andere ontwikkelaars.
+- Doe mee met de [Aspose.Imaging forum](https://forum.aspose.com/c/imaging/14) om inzichten te delen of advies te vragen aan andere ontwikkelaars.
 
 Klaar om je Java-projecten naar een hoger niveau te tillen? Begin vandaag nog met de implementatie van deze oplossingen!
 
@@ -199,7 +199,7 @@ Klaar om je Java-projecten naar een hoger niveau te tillen? Begin vandaag nog me
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefversie downloaden](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Begin vandaag nog met de integratie van Aspose.Imaging voor Java en stroomlijn uw beeldverwerkingsworkflows!
 

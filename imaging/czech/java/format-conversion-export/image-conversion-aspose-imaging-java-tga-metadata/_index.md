@@ -199,7 +199,7 @@ tomto tutoriálu jste se seznámili s tím, jak převést soubory JPEG a PNG do 
 - **Dokumentace**Prozkoumejte více na [Dokumentace k Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - **Stáhnout**Získejte nejnovější vydání od [Stránka s vydáním Aspose](https://releases.aspose.com/imaging/java/).
 - **Nákup a bezplatná zkušební verze**Vyzkoušejte funkce ještě dnes na [Stránka s nákupem a bezplatnou zkušební verzí od Aspose](https://purchase.aspose.com/buy).
-- **Podpora**Zapojte se do diskusí na [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Podpora**Zapojte se do diskusí na [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Doufáme, že vám tento průvodce pomůže efektivně využít Aspose.Imaging Java pro vaše potřeby zpracování obrazu. Přejeme vám příjemné programování!
 

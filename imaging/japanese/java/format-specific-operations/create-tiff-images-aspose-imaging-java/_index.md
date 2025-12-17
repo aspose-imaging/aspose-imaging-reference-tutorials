@@ -196,7 +196,7 @@ TIFF オプションを設定し、プログラムで画像を作成する方法
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのテクニックを習得すれば、Javaアプリケーションで複雑な画像処理タスクを処理できるようになります。コーディングを楽しみましょう！
 

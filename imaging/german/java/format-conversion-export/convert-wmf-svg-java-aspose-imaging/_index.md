@@ -198,7 +198,7 @@ A4: Ja, aber es ist wichtig, Ressourcen effizient zu verwalten und Multithreadin
 
 **F5: Wie kann ich weiteren Support erhalten, wenn ich Probleme mit Aspose.Imaging habe?**
 
-A5: Besuch [Asposes Forum](https://forum.aspose.com/c/imaging/10) für Community-Support oder kontaktieren Sie den Kundenservice direkt über die Kaufseite.
+A5: Besuch [Asposes Forum](https://forum.aspose.com/c/imaging/14) für Community-Support oder kontaktieren Sie den Kundenservice direkt über die Kaufseite.
 
 ## Ressourcen
 

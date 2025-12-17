@@ -160,7 +160,7 @@ A5: 構成設定を最適化し、メモリを効率的に管理し、キャッ�
 - **ライセンスを購入**： [Aspose ライセンス](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imaging をダウンロード](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [Aspose イメージング サポート](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [Aspose イメージング サポート](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

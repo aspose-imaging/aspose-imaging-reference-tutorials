@@ -172,7 +172,7 @@ Készen állsz a mélyebb elmélyülésre? Fedezd fel az alábbi forrásokat, va
 - [Licencek vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével most már képes leszel WMF fájlokat PDF-be konvertálni az Aspose.Imaging for .NET segítségével. Jó kódolást!
 

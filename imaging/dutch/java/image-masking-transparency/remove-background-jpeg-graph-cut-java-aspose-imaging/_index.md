@@ -212,7 +212,7 @@ Om je vaardigheden verder te verbeteren, kun je ook andere functies van Aspose.I
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Ontvang een gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Begin vandaag nog met Aspose.Imaging en ontgrendel het volledige potentieel van beeldverwerking in Java!
 

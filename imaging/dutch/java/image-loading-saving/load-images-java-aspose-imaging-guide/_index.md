@@ -163,7 +163,7 @@ Klaar om je Java-ontwikkeling naar een hoger niveau te tillen? Probeer deze oplo
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefversie en tijdelijke licentie](https://releases.aspose.com/imaging/java/)
 
-Voor verdere vragen kunt u terecht op de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)Veel plezier met coderen!
+Voor verdere vragen kunt u terecht op de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)Veel plezier met coderen!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

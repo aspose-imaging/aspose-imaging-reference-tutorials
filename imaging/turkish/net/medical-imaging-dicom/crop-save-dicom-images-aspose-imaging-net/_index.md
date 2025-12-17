@@ -184,7 +184,7 @@ Bir DICOM görüntüsünü kaydırma değerlerini kullanarak nasıl kırpacağı
 - **Lisans Satın Al:** [Aspose Ürünlerini Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Aspose.Imaging Ücretsiz Denemeler](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans:** [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu:** [Aspose Destek Topluluğu](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu:** [Aspose Destek Topluluğu](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

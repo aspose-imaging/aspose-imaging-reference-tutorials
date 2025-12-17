@@ -161,7 +161,7 @@ canvas.Save("YOUR_OUTPUT_DIRECTORY\\AddSignatureToImage_out.png", new PngOptions
 - [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/net/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/14)
 
 Με αυτούς τους πόρους, είστε άρτια εξοπλισμένοι για να εξερευνήσετε περαιτέρω και να αξιοποιήσετε πλήρως τις δυνατότητες του Aspose.Imaging για τις ανάγκες επεξεργασίας εικόνας σας. Καλή κωδικοποίηση!
 

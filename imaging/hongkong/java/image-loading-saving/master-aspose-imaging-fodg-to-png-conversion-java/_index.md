@@ -213,7 +213,7 @@ public class FeatureSaveImageAsPng {
 - **購買**： [購買 Aspose 產品](https://purchase.aspose.com/buy)
 - **免費試用**： [免費試用 Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **臨時執照**： [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 掌握這些技巧後，您就能順利利用 Aspose.Imaging 在 Java 中完成複雜的影像處理任務了。祝您程式愉快！
 

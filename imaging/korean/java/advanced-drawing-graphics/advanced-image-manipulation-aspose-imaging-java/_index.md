@@ -257,7 +257,7 @@ A5: 출력 형식이 투명도(예: PNG)를 지원하는지 확인하세요. 설
 - **구입**: [Aspose 구매 페이지](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging 무료 체험판을 사용해 보세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [Aspose 지원 커뮤니티](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [Aspose 지원 커뮤니티](https://forum.aspose.com/c/imaging/14)
 
 즐거운 코딩 되세요!
 

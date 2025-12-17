@@ -169,7 +169,7 @@ Para continuar explorando las capacidades de Aspose.Imaging, considere profundiz
 4. **¿Cuáles son algunos problemas comunes al enmascarar imágenes?**
    - Los problemas comunes incluyen definiciones de rutas incorrectas, excepciones no controladas o cuellos de botella en el rendimiento debido a tamaños de imagen grandes.
 5. **¿Dónde puedo encontrar ayuda si tengo más preguntas?**
-   - Visita el [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10) para obtener ayuda de expertos de la comunidad y del personal de Aspose.
+   - Visita el [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14) para obtener ayuda de expertos de la comunidad y del personal de Aspose.
 
 ## Recursos
 - **Documentación**: [Documentación de Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)

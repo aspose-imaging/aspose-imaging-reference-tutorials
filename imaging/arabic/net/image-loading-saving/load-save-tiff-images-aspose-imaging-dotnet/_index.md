@@ -149,7 +149,7 @@ A3: قم بتحسين إدارة الذاكرة وضبط إعدادات التك
 ج٤: تشمل المشاكل الشائعة مسارات ملفات غير صحيحة، وإعدادات تهيئة غير صحيحة، وتنسيقات صور غير مدعومة. تأكد دائمًا من صحة المسارات وتوافق التهيئة مع متطلباتك.
 
 **س5: أين يمكنني العثور على المزيد من الموارد حول Aspose.Imaging؟**
-أ5: قم بزيارة [وثائق Aspose](https://reference.aspose.com/imaging/net/) للحصول على أدلة شاملة و [المنتديات](https://forum.aspose.com/c/imaging/10) لدعم المجتمع.
+أ5: قم بزيارة [وثائق Aspose](https://reference.aspose.com/imaging/net/) للحصول على أدلة شاملة و [المنتديات](https://forum.aspose.com/c/imaging/14) لدعم المجتمع.
 
 ## موارد
 - **التوثيق:** [مرجع Aspose Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -157,7 +157,7 @@ A3: قم بتحسين إدارة الذاكرة وضبط إعدادات التك
 - **شراء:** [شراء الترخيص](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [تنزيلات تجريبية](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة:** [اطلب هنا](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [منتديات أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** [منتديات أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

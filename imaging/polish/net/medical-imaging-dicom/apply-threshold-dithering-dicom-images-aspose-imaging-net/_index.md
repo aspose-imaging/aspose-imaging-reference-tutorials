@@ -154,7 +154,7 @@ Gotowy, aby rozwinąć swoje umiejętności przetwarzania obrazu DICOM? Wdróż 
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/net/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Ten kompleksowy przewodnik wyposaży Cię we wszystko, co potrzebne, aby zastosować dithering progowy do obrazów DICOM przy użyciu Aspose.Imaging dla .NET, zwiększając Twoje możliwości przetwarzania obrazów.
 

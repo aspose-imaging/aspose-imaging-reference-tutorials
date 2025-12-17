@@ -236,7 +236,7 @@ A: I když je zpracování velkého množství obrázků s vysokým rozlišením
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Zahájit bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu jste nyní vybaveni pro práci s vektorovými soubory CMX a jejich export jako obrázků TIFF pomocí Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

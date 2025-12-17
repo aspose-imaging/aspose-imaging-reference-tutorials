@@ -182,7 +182,7 @@ public class ResizeImage {
 - **Αγορά:** [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Δωρεάν δοκιμή Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** [Υποστήριξη Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Υποστήριξη:** [Υποστήριξη Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Με αυτόν τον ολοκληρωμένο οδηγό, είστε πλήρως εξοπλισμένοι για να ξεκινήσετε να χρησιμοποιείτε το Aspose.Imaging για Java στα έργα σας. Καλή κωδικοποίηση!
 

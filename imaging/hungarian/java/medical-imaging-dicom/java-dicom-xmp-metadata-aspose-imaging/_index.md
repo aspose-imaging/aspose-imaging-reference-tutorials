@@ -228,7 +228,7 @@ Ebben az oktatóanyagban megtanultad, hogyan tölthetsz be, módosíthatsz és m
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Kezdje el integrálni ezeket a hatékony képfeldolgozási képességeket Java alkalmazásaiba még ma, és fejlessze a DICOM képek kezelésének módját!
 

@@ -182,7 +182,7 @@ public class ResizeImage {
 - **شراء:** [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [تجربة مجانية لبرنامج Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة:** [الحصول على ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [دعم منتدى Aspose](https://forum.aspose.com/c/imaging/10) 
+- **يدعم:** [دعم منتدى Aspose](https://forum.aspose.com/c/imaging/14) 
 
 مع هذا الدليل الشامل، أنت جاهز تمامًا لبدء استخدام Aspose.Imaging لـ Java في مشاريعك. برمجة ممتعة!
 

@@ -199,7 +199,7 @@ Gotowy, aby spróbować? Wdróż te rozwiązania i dowiedz się więcej o możli
 - [Zakup](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Ten samouczek wyposaża Cię w wiedzę, jak manipulować obrazami DICOM przy użyciu Aspose.Imaging Java, zapewniając, że Twoje aplikacje są zarówno wydajne, jak i skalowalne. Miłego kodowania!
 

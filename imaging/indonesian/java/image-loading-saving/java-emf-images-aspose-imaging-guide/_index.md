@@ -179,7 +179,7 @@ A5: Ikuti langkah-langkah yang diuraikan dalam perolehan lisensi untuk mendapatk
 - **Pembelian**: [Beli Lisensi](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulai di sini](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Minta Sekarang](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Komunitas](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Komunitas](https://forum.aspose.com/c/imaging/14)
 
 Dengan memanfaatkan sumber daya ini, Anda dapat lebih mengeksplorasi kemampuan Aspose.Imaging dan mengatasi tantangan apa pun yang Anda hadapi selama implementasi. Selamat membuat kode!
 

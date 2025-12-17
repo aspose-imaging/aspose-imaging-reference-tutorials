@@ -295,7 +295,7 @@ Jangan ragu untuk bereksperimen dan menerapkan metode ini dalam proyek Anda mend
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Jangan ragu untuk menjelajahi sumber daya ini untuk pembelajaran dan dukungan lebih lanjut. Selamat membuat kode!
 

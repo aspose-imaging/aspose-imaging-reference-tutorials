@@ -234,7 +234,7 @@ R: Utilize operações assíncronas, gerencie a memória de forma eficaz e consi
 - **Comprar:** [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Experimente o Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licença temporária:** [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar:** [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Apoiar:** [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

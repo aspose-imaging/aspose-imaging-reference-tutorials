@@ -183,7 +183,7 @@ Jste připraveni to vyzkoušet? Implementujte tyto kroky ve svém dalším proje
    Ano, ten/ta/to `JpegOptions` třída poskytuje metody pro konfiguraci kvality výstupu a dalších parametrů.
 
 5. **Kde mohu získat podporu, pokud narazím na problémy?**
-   Navštivte [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) Pro podporu komunity nebo kontaktujte Aspose přímo prostřednictvím jejich kanálů podpory.
+   Navštivte [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) Pro podporu komunity nebo kontaktujte Aspose přímo prostřednictvím jejich kanálů podpory.
 
 ## Zdroje
 

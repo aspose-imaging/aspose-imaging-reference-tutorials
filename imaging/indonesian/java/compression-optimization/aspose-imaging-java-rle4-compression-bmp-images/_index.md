@@ -184,7 +184,7 @@ Ambillah langkah maju dan mulailah menerapkan teknik ini dalam proyek Anda berik
 - **Beli Lisensi**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulai Uji Coba Gratis Anda](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan menerapkan langkah-langkah ini dan memanfaatkan sumber daya yang disediakan, Anda akan siap menangani kompresi gambar BMP dengan Aspose.Imaging untuk Java. Selamat membuat kode!
 

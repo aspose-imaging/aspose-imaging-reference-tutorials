@@ -150,7 +150,7 @@ A5: Ayrıntılı dokümanlar şu adreste bulunabilir: [Aspose.Imaging .NET Belge
 - **Lisans Satın Al**: [Şimdi al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Başlayın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Buraya Başvurun](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Aspose.Görüntüleme Desteği](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: [Aspose.Görüntüleme Desteği](https://forum.aspose.com/c/imaging/14)
 
 Keyifli kodlamalar ve Aspose.Imaging ile görüntü işleme ihtiyaçlarınızı gerçeğe dönüştürmek için denemeler yapmanın tadını çıkarın!
 

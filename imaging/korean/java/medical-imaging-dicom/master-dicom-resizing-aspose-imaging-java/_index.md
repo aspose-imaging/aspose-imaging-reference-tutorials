@@ -180,7 +180,7 @@ DICOM 이미지 크기를 조정할 때 성능을 최적화하려면:
 - [구입](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 포괄적인 가이드를 따르면 이제 Aspose.Imaging for Java를 사용하여 DICOM 이미지 처리 작업을 효율적으로 관리할 수 있게 되었을 것입니다.
 

@@ -243,7 +243,7 @@ A5: `setTransparentColor()` メソッドを使用して、画像全体で透明�
 - **ライセンスを購入**： [ライセンスを購入する](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルを始める](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [質問する](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [質問する](https://forum.aspose.com/c/imaging/14)
 
 このガイドが、Aspose.Imaging を用いた Java 画像処理の習得にお役に立てば幸いです。ご質問がございましたら、サポートフォーラムからお気軽にお問い合わせいただくか、ドキュメントで詳細情報をご確認ください。楽しいコーディングを！
 

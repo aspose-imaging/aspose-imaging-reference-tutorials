@@ -245,7 +245,7 @@ Aspose.Imaging for Java의 기능을 활용하여 TIFF 이미지를 효율적으
 - **구입:** [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [무료 체험판을 받아보세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따라 하면 이제 TIFF 이미지 처리를 Java 애플리케이션에 원활하게 통합할 수 있습니다. 즐거운 코딩 되세요!
 

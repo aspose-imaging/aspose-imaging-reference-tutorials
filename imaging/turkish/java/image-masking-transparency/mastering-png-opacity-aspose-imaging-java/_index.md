@@ -177,7 +177,7 @@ Daha fazlasını keşfetmeye hazır mısınız? Bu çözümü uygulamaya çalı�
 - **Satın almak**: Tam erişim için satın almayı düşünün [Aspose satın alma sitesi](https://purchase.aspose.com/buy).
 - **Ücretsiz Deneme**: Aynı sayfada bulunan ücretsiz deneme sürümüyle özellikleri deneyin.
 - **Geçici Lisans**: Değerlendirme sürenizi uzatmak için geçici lisans başvurusunda bulunun.
-- **Destek**: Tartışmalara katılın ve sorular sorun [Aspose forumu](https://forum.aspose.com/c/imaging/10).
+- **Destek**: Tartışmalara katılın ve sorular sorun [Aspose forumu](https://forum.aspose.com/c/imaging/14).
 
 Bu kapsamlı kılavuzla artık Aspose.Imaging kullanarak Java'da görüntü şeffaflığında ustalaşmaya hazırsınız. İyi kodlamalar!
 

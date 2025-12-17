@@ -256,7 +256,7 @@ Klaar om deze oplossing te implementeren? Probeer het eens uit en zie hoe het uw
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Met deze hulpmiddelen en uw nieuwe kennis bent u goed toegerust om TIFF-afbeeldingen naar JPEG te converteren met Aspose.Imaging voor Java!
 

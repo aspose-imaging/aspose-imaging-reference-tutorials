@@ -149,7 +149,7 @@ Pronto para começar? Experimente implementar esta solução no seu próximo pro
 - [Comprar](https://purchase.aspose.com/buy)
 - [Teste grátis](https://releases.aspose.com/imaging/net/)
 - [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte](https://forum.aspose.com/c/imaging/10) 
+- [Fórum de Suporte](https://forum.aspose.com/c/imaging/14) 
 
 Explore esses recursos para se aprofundar nos recursos do Aspose.Imaging e aprimorar seus aplicativos .NET hoje mesmo!
 

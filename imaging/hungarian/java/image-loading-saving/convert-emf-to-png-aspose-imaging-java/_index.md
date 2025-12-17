@@ -186,7 +186,7 @@ Fedezze fel az Aspose.Imaging további funkcióit, vagy próbáljon meg más ké
 - **Vásárlás:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Ingyenes próbaverzió igénylése](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Kezdje el a képkonverziók elsajátításának útját Java nyelven az Aspose.Imaging segítségével még ma!
 

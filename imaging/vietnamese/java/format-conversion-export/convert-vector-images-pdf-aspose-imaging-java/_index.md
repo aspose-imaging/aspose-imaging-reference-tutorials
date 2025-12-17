@@ -249,7 +249,7 @@ Các bước tiếp theo bao gồm khám phá các tính năng nâng cao hơn c�
 - [Mua](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Ủng hộ](https://forum.aspose.com/c/imaging/10)
+- [Ủng hộ](https://forum.aspose.com/c/imaging/14)
 
 Hãy thử triển khai giải pháp này vào dự án tiếp theo của bạn để khai thác sức mạnh của Aspose.Imaging cho Java!
 

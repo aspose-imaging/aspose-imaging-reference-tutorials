@@ -169,7 +169,7 @@ A3：庫將透過對缺少的資料欄位傳回 null 來優雅地處理此類情
 A4：試用版可能有使用限制，例如浮水印或處理限制。
 
 **問題5：如果我遇到 Aspose.Imaging 問題，如何獲得支援？**
-A5：訪問 [Aspose 論壇](https://forum.aspose.com/c/imaging/10) 獲得社區和官方支持。
+A5：訪問 [Aspose 論壇](https://forum.aspose.com/c/imaging/14) 獲得社區和官方支持。
 
 ## 資源
 
@@ -178,7 +178,7 @@ A5：訪問 [Aspose 論壇](https://forum.aspose.com/c/imaging/10) 獲得社區�
 - **購買**：透過以下方式取得許可證 [Aspose 購買](https://purchase.aspose.com/buy)
 - **免費試用**：立即開始免費試用 [Aspose.Imaging 免費試用](https://releases.aspose.com/imaging/java/)
 - **臨時執照**：申請臨時許可證 [Aspose臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**加入討論 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**加入討論 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 立即踏上 Aspose.Imaging for Java 之旅，開啟影像處理的新篇章！
 

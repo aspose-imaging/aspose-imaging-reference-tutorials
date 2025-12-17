@@ -178,7 +178,7 @@ Om Aspose.Imaging verder te verkennen, kunt u zich verdiepen in andere functies,
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefversie downloaden](https://releases.aspose.com/imaging/java/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Nu u beschikt over de kennis om SVG-afbeeldingen te laden met Aspose.Imaging voor Java, kunt u vol vertrouwen en creativiteit aan uw projecten beginnen!
 

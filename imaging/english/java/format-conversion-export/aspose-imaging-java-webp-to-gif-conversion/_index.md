@@ -204,7 +204,7 @@ Ready to try implementing this solution? Dive into Aspose.Imaging for Java and e
 - **Purchase:** Visit [Aspose Purchase Page](https://purchase.aspose.com/buy) for licensing options
 - **Free Trial:** Start with a trial at [Free Trial Link](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** Get temporary access via [Temporary License Page](https://purchase.aspose.com/temporary-license/)
-- **Support:** Engage with the community on [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** Engage with the community on [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

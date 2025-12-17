@@ -171,7 +171,7 @@ Tebrikler! Aspose.Imaging for Java kullanarak SVG resimlerini yüklemeyi ve kayd
 
 **Sonraki Adımlar:**
 - Görüntü dönüştürmeleri ve filtreleme gibi Aspose.Imaging'in diğer özelliklerini keşfedin.
-- Katıl [Aspose.Görüntüleme forumu](https://forum.aspose.com/c/imaging/10) fikir paylaşmak veya diğer geliştiricilerden tavsiye almak.
+- Katıl [Aspose.Görüntüleme forumu](https://forum.aspose.com/c/imaging/14) fikir paylaşmak veya diğer geliştiricilerden tavsiye almak.
 
 Java projelerinizi bir üst seviyeye taşımaya hazır mısınız? Bu çözümleri bugün uygulamaya başlayın!
 
@@ -199,7 +199,7 @@ Java projelerinizi bir üst seviyeye taşımaya hazır mısınız? Bu çözümle
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme İndir](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java'yı bugün entegre etmeye başlayın ve görüntü işleme iş akışlarınızı kolaylaştırın!
 

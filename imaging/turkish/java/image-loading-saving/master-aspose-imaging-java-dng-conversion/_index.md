@@ -189,7 +189,7 @@ Evet, Aspose.Imaging uygun lisans anlaşması kapsamında ticari uygulamalarda k
 - **Satın almak**: [Şimdi al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'i deneyin](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Aspose Topluluk Desteği](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: [Aspose Topluluk Desteği](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java ile yolculuğunuza bugün başlayın ve uygulamalarınızda görüntü işlemenin tüm potansiyelini ortaya çıkarın!
 

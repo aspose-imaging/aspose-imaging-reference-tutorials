@@ -189,7 +189,7 @@ Pronti a mettere in pratica ciò che avete imparato? Provate a implementare la s
    - Visita [Licenza temporanea Aspose](https://purchase.aspose.com/temporary-license/) per maggiori dettagli su come acquistarlo.
 
 5. **Quali opzioni di supporto sono disponibili se riscontro problemi?**
-   - IL [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10) offre assistenza da parte della comunità e del team Aspose.
+   - IL [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14) offre assistenza da parte della comunità e del team Aspose.
 
 ## Risorse
 

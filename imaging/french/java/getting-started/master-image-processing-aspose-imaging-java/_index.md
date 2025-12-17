@@ -209,7 +209,7 @@ Vous maîtrisez désormais le redimensionnement d'images JPG et la création de 
 5. **Comment les cadres TIFF améliorent-ils la gestion des images ?**  
    En consolidant plusieurs images dans un seul fichier, il est plus facile de gérer et de distribuer de grandes collections d'images associées.
 
-Pour plus de ressources, reportez-vous à Aspose.Imaging [documentation](https://reference.aspose.com/imaging/java/) et explorer leur [page de téléchargement](https://releases.aspose.com/imaging/java/) pour les dernières mises à jour. Pour toute question d'assistance, consultez le [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+Pour plus de ressources, reportez-vous à Aspose.Imaging [documentation](https://reference.aspose.com/imaging/java/) et explorer leur [page de téléchargement](https://releases.aspose.com/imaging/java/) pour les dernières mises à jour. Pour toute question d'assistance, consultez le [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

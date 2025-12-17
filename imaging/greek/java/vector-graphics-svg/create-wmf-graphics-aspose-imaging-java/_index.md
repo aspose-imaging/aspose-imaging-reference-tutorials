@@ -295,7 +295,7 @@ try (WmfImage image = graphics.endRecording()) {
 - [Αγορά Άδειας Χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/14)
 
 Μη διστάσετε να εξερευνήσετε αυτούς τους πόρους για περαιτέρω μάθηση και υποστήριξη. Καλή κωδικοποίηση!
 

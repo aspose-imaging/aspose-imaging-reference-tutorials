@@ -164,7 +164,7 @@ En este tutorial, hemos aprendido a realizar la binarización de umbral fijo en 
    - Optimice su entorno y código para la gestión de memoria, utilizando la recolección de basura de Java de manera efectiva.
 
 5. **¿Hay soporte disponible si encuentro problemas?**
-   - Puede buscar ayuda en el [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10).
+   - Puede buscar ayuda en el [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Recursos
 

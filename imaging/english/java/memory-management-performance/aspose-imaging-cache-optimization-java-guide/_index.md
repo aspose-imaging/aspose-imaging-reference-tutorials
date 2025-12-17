@@ -240,7 +240,7 @@ Ready to implement these solutions? Try optimizing your cache settings today and
 - [Purchase](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/java/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Support Forum](https://forum.aspose.com/c/imaging/14)
 
 With this guide, you're well-equipped to optimize Aspose.Imaging Cache in Java effectively. Happy coding!
 

@@ -156,7 +156,7 @@ Sẵn sàng bắt đầu tạo hình ảnh BMP tuyệt đẹp? Thực hiện cá
 - **Mua:** [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Phiên bản dùng thử](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời:** [Yêu cầu ở đây](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ:** [Hỗ trợ cộng đồng Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** [Hỗ trợ cộng đồng Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

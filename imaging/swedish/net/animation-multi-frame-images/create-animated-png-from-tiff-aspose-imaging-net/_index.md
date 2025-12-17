@@ -170,7 +170,7 @@ A: Aspose.Imaging stöder många format, inklusive JPEG, PNG, GIF, BMP med flera
 A: Ja, du kan ställa in anpassade bildtider med hjälp av `ApngOptions`.
 
 **F: Hur felsöker jag problem med Aspose.Imaging?**
-A: Se supportforumet [här](https://forum.aspose.com/c/imaging/10) för hjälp.
+A: Se supportforumet [här](https://forum.aspose.com/c/imaging/14) för hjälp.
 
 ## Resurser
 - **Dokumentation**: [Aspose.Imaging .NET-referens](https://reference.aspose.com/imaging/net/)
@@ -178,7 +178,7 @@ A: Se supportforumet [här](https://forum.aspose.com/c/imaging/10) för hjälp.
 - **Köpa**: [Köp en licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Börja gratis](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Ansök här](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

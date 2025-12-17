@@ -178,7 +178,7 @@ Következő lépések? Kísérletezz különböző konfigurációkkal, vagy inte
 - **Dokumentáció**Fedezze fel az átfogó útmutatókat a következő címen: [Aspose Imaging .NET referencia](https://reference.aspose.com/imaging/net/).
 - **Letöltés**: A legújabb kiadások elérése itt: [Aspose kiadások](https://releases.aspose.com/imaging/net/).
 - **Vásárlás és ingyenes próbaverzió**: Fontolja meg a kipróbálást vagy a hivatalos forrásból történő vásárlást [Aspose Vásárlási Oldal](https://purchase.aspose.com/buy) és [Ingyenes próbaverziók](https://releases.aspose.com/imaging/net/).
-- **Támogatás**Bármilyen kérdés esetén látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10).
+- **Támogatás**Bármilyen kérdés esetén látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

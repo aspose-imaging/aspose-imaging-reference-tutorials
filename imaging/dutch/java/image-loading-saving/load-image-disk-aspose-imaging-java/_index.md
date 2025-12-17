@@ -182,7 +182,7 @@ Klaar om je vaardigheden verder te ontwikkelen? Probeer deze oplossing eens in j
 - [Aankoopopties](https://purchase.aspose.com/buy)
 - [Gratis proeftoegang](https://releases.aspose.com/imaging/java/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Gemeenschapsondersteuning](https://forum.aspose.com/c/imaging/10)
+- [Gemeenschapsondersteuning](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u goed toegerust om de kracht van Aspose.Imaging voor Java in uw projecten te benutten. Veel plezier met coderen!
 

@@ -131,7 +131,7 @@ Om je vaardigheden verder te verbeteren, kun je de andere functies van Aspose.Im
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Start een gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Hier aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Aspose-ondersteuning](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Aspose-ondersteuning](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

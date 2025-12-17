@@ -148,7 +148,7 @@ Jako další kroky zvažte prozkoumání dalších funkcí Aspose.Imaging nebo s
 - **Nákup**https://purchase.aspose.com/buy
 - **Bezplatná zkušební verze**https://releases.aspose.com/imaging/net/
 - **Dočasná licence**https://purchase.aspose.com/temporary-license/
-- **Podpora**https://forum.aspose.com/c/imaging/10
+- **Podpora**https://forum.aspose.com/c/imaging/14
 
 Vydejte se na cestu k zvládnutí zpracování obrazu s Aspose.Imaging ještě dnes!
 

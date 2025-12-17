@@ -219,7 +219,7 @@ Aspose.Imaging を使用して Java プログラミング スキルをさらに�
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアルの提供](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス情報](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java を活用することで、強力な画像処理機能を活用し、開発プロセスを効率化できます。コーディングを楽しみましょう！
 

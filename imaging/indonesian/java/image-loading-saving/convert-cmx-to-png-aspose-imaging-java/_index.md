@@ -218,7 +218,7 @@ A: Manfaatkan pemrosesan batch dan optimalkan pengaturan memori untuk menangani 
 - **Pembelian**: Beli lisensi atau versi uji coba melalui [Aspose Pembelian](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**:Coba Aspose.Imaging dengan ini [tautan uji coba gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: Dapatkan lisensi sementara melalui [tautan ini](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: Bergabunglah dalam diskusi tentang tantangan pemrosesan gambar di [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: Bergabunglah dalam diskusi tentang tantangan pemrosesan gambar di [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah proyek Anda berikutnya dengan percaya diri, karena Anda memiliki alat dan pengetahuan untuk mengonversi file CMX dengan lancar. Selamat membuat kode!
 

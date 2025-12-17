@@ -188,7 +188,7 @@ Pronto para aprimorar suas habilidades? Implemente essas técnicas em seus proje
 - **Comprar**: [Compre uma licença](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Comece seu teste gratuito](https://releases.aspose.com/imaging/net/)
 - **Licença Temporária**: [Solicitar uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Embarque em sua jornada com o Aspose.Imaging hoje mesmo e libere todo o potencial do processamento de imagens no .NET!
 

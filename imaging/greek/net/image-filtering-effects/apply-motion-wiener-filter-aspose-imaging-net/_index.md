@@ -152,7 +152,7 @@ using System;
 - **Αγορά:** [Αγοράστε Άδεια Χρήσης Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Έναρξη δωρεάν δοκιμής](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια:** [Αίτηση για Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ξεκινήστε το ταξίδι σας για να τελειοποιήσετε την επεξεργασία εικόνας με το Aspose.Imaging για .NET σήμερα!
 

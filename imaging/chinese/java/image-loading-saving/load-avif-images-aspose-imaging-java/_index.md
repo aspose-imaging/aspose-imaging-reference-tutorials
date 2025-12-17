@@ -198,7 +198,7 @@ public class LoadAvifFeature {
 - **购买和许可：** 详细了解购买选项，请访问 [Aspose的购买页面](https://purchase.aspose.com/buy)
 - **免费试用：** 访问以下网址开始免费试用 [Aspose 的试用页面](https://releases.aspose.com/imaging/java/)
 - **临时执照：** 申请临时许可证以获取完整功能访问权限 [Aspose 的临时许可证页面](https://purchase.aspose.com/temporary-license/)
-- **支持：** 与社区互动并寻求支持 [Aspose 的论坛](https://forum.aspose.com/c/imaging/10)
+- **支持：** 与社区互动并寻求支持 [Aspose 的论坛](https://forum.aspose.com/c/imaging/14)
 
 有了这些资源，您就能充分发挥 Aspose.Imaging for Java 的强大功能，让您的项目更加顺畅。祝您编程愉快！
 

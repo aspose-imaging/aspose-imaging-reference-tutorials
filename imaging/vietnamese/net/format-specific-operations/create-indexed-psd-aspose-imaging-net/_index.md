@@ -150,7 +150,7 @@ Sẵn sàng khám phá thêm? Hãy thử triển khai giải pháp trong một t
 - **Mua:** [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bắt đầu với bản dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời:** [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ:** [Hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** [Hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình chụp ảnh của bạn với Aspose.Imaging ngay hôm nay và mở ra những khả năng mới trong việc chỉnh sửa hình ảnh kỹ thuật số!
 

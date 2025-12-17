@@ -234,7 +234,7 @@ Aspose.Imaging 的绘图功能可以集成到各种应用程序中：
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/java/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 通过利用这些资源，您可以增强对 Aspose.Imaging for Java 的理解，并在项目中更好地运用。祝您编程愉快！
 

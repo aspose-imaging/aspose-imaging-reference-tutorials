@@ -187,7 +187,7 @@ try (SvgImage resultImage = graphics.endRecording()) {
 - [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - [Πληροφορίες για τη δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Αίτηση Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, θα πρέπει πλέον να είστε πλήρως εξοπλισμένοι για να ενσωματώσετε εικόνες ράστερ σε καμβάδες SVG χρησιμοποιώντας το Aspose.Imaging για Java. Καλή κωδικοποίηση!
 

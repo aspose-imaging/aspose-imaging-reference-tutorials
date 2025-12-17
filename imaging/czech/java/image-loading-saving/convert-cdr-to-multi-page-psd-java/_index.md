@@ -197,7 +197,7 @@ V tomto tutoriálu jsme prozkoumali, jak pomocí Aspose.Imaging pro Javu načís
    - Rozhodně! Podporuje širokou škálu obrazových formátů kromě CDR a PSD.
 
 5. **Jak mohu vyřešit problémy s načítáním nebo ukládáním obrázků?**
-   - Zkontrolujte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) pro běžná řešení a ujistěte se, že máte aktuální verzi knihovny.
+   - Zkontrolujte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) pro běžná řešení a ujistěte se, že máte aktuální verzi knihovny.
 
 ## Zdroje
 
@@ -206,7 +206,7 @@ V tomto tutoriálu jsme prozkoumali, jak pomocí Aspose.Imaging pro Javu načís
 - **Nákup:** [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Získejte bezplatnou licenci](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu byste měli být dobře vybaveni pro zvládání úloh načítání a konverze CDR obrazů ve vašich Java aplikacích pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 

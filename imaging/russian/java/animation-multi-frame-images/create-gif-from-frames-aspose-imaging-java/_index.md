@@ -175,7 +175,7 @@ import com.aspose.imaging.fileformats.gif.GifImage;
 - **Документация**: [Справочник по Java Aspose.Imaging](https://reference.aspose.com/imaging/java/)
 - **Скачать**: [Релизы Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Покупка и лицензирование**: [Купить лицензию Aspose](https://purchase.aspose.com/buy), [Бесплатная пробная версия](https://releases.aspose.com/imaging/java/), [Временная лицензия](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: Взаимодействовать с сообществом на [Форум Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: Взаимодействовать с сообществом на [Форум Aspose](https://forum.aspose.com/c/imaging/14)
 
 Интегрируя Aspose.Imaging в свои проекты Java, вы можете разблокировать мощные возможности обработки изображений, которые оптимизируют и улучшают ваши рабочие процессы. Удачного кодирования!
 

@@ -130,7 +130,7 @@ In diesem Tutorial haben wir untersucht, wie man BMP-Dateien mit Aspose.Imaging 
 
 So verbessern Sie Ihre Fähigkeiten weiter:
 - Entdecken Sie zusätzliche Funktionen von Aspose.Imaging, wie z. B. Bildbearbeitung oder Formatkonvertierungen.
-- Engagieren Sie sich mit der Community auf [Asposes Forum](https://forum.aspose.com/c/imaging/10) um Erkenntnisse auszutauschen und Rat einzuholen.
+- Engagieren Sie sich mit der Community auf [Asposes Forum](https://forum.aspose.com/c/imaging/14) um Erkenntnisse auszutauschen und Rat einzuholen.
 
 Sind Sie bereit, Bilder in Ihren .NET-Anwendungen zu konvertieren? Probieren Sie es noch heute aus!
 

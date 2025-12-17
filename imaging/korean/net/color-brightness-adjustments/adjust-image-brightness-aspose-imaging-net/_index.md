@@ -172,7 +172,7 @@ A: 기술적으로는 가능하지만 극단적인 조정은 이미지 품질을
 - **라이센스 구매**: [지금 구매하세요](https://purchase.aspose.com/buy)
 - **무료 체험**: [시작하기](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [여기에서 요청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [Aspose.Imaging 커뮤니티](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [Aspose.Imaging 커뮤니티](https://forum.aspose.com/c/imaging/14)
 
 이 가이드는 Aspose.Imaging for .NET을 사용하여 밝기를 조정하는 방법을 익히는 데 도움이 되는 포괄적인 자료입니다. 즐거운 코딩 되세요!
 

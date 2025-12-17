@@ -218,7 +218,7 @@ R: Utilize o processamento em lote e otimize as configurações de memória para
 - **Comprar**: Compre uma licença ou versão de teste através [Aspose Compra](https://purchase.aspose.com/buy)
 - **Teste grátis**: Experimente o Aspose.Imaging com este [link de teste gratuito](https://releases.aspose.com/imaging/java/)
 - **Licença Temporária**: Obtenha uma licença temporária através de [este link](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: Junte-se à discussão sobre os desafios do processamento de imagens em [Fóruns Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: Junte-se à discussão sobre os desafios do processamento de imagens em [Fóruns Aspose](https://forum.aspose.com/c/imaging/14)
 
 Embarque no seu próximo projeto com confiança, sabendo que você tem as ferramentas e o conhecimento para converter arquivos CMX com facilidade. Boa programação!
 

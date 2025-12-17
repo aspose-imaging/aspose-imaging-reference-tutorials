@@ -163,7 +163,7 @@ Java geliştirmenizi bir üst seviyeye taşımaya hazır mısınız? Bu çözüm
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme ve Geçici Lisans](https://releases.aspose.com/imaging/java/)
 
-Daha fazla sorunuz varsa, şu adresi ziyaret edin: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10). Keyifli kodlamalar!
+Daha fazla sorunuz varsa, şu adresi ziyaret edin: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14). Keyifli kodlamalar!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

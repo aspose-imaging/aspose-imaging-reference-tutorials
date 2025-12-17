@@ -178,7 +178,7 @@ A5: Παρόλο που δεν υπάρχουν αυστηροί περιορι�
 - [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμαστική έκδοση](https://releases.aspose.com/imaging/java/)
 - [Αίτηση Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, είστε πλέον έτοιμοι να εφαρμόσετε αποτελεσματικό χειρισμό εικόνων στις εφαρμογές Java σας χρησιμοποιώντας το Aspose.Imaging. Καλή κωδικοποίηση!
 

@@ -167,7 +167,7 @@ Ready to dive deeper? Try implementing these solutions in your next project and 
 - **Purchase:** [Buy Aspose Licensing](https://purchase.aspose.com/buy)
 - **Free Trial:** [Start Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Get Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Forum Support](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose Forum Support](https://forum.aspose.com/c/imaging/14)
 
 By following this guide, you're well on your way to mastering SVG image handling in Java with Aspose.Imaging. Happy coding!
 

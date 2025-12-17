@@ -189,7 +189,7 @@ image.Dispose();
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/net/)
 - [临时执照申请](https://purchase.aspose.com/temporary-license/)
-- [社区支持论坛](https://forum.aspose.com/c/imaging/10)
+- [社区支持论坛](https://forum.aspose.com/c/imaging/14)
 
 遵循本指南，您将能够使用 Aspose.Imaging .NET 处理复杂的图像转换。祝您编码愉快！
 

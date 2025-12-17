@@ -199,7 +199,7 @@ Considere utilizar técnicas de procesamiento paralelo y garantice una gestión 
 - **Compra**: [Comprar productos Aspose](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Obtenga una licencia de prueba gratuita](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal**: [Obtenga una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Foro de soporte de Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: [Foro de soporte de Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

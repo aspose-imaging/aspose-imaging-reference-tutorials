@@ -209,7 +209,7 @@ A: Cái [Tài liệu Aspose.Imaging](https://reference.aspose.com/imaging/java/)
 - **Mua**: [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Hãy thử Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Yêu cầu ở đây](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình cùng Aspose.Imaging Java và thay đổi cách bạn xử lý chuyển đổi hình ảnh ngay hôm nay!
 

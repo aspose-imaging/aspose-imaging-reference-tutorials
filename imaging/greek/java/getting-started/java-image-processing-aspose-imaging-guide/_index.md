@@ -204,7 +204,7 @@ A4: Υποστηρίζει διάφορες μορφές, όπως TIFF, JPEG, P
 
 **Ε5: Πώς μπορώ να λάβω βοήθεια εάν αντιμετωπίσω προβλήματα;**
 
-A5: Επισκεφθείτε το [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10) για βοήθεια από ειδικούς της κοινότητας.
+A5: Επισκεφθείτε το [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14) για βοήθεια από ειδικούς της κοινότητας.
 
 ## Πόροι
 
@@ -213,7 +213,7 @@ A5: Επισκεφθείτε το [Φόρουμ Υποστήριξης Aspose](h
 - **Αγορά**: https://purchase.aspose.com/buy
 - **Δωρεάν δοκιμή**: https://releases.aspose.com/imaging/java/
 - **Προσωρινή Άδεια**: https://purchase.aspose.com/temporary-license/
-- **Υποστήριξη**: https://forum.aspose.com/c/imaging/10
+- **Υποστήριξη**: https://forum.aspose.com/c/imaging/14
 
 Αξιοποιώντας αυτούς τους πόρους, μπορείτε να εμβαθύνετε την κατανόησή σας και να βελτιώσετε τη χρήση του Aspose.Imaging σε Java. Καλή κωδικοποίηση!
 

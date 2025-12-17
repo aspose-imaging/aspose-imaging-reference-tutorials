@@ -191,7 +191,7 @@ Jste připraveni uvést do praxe to, co jste se naučili? Začněte implementova
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 S těmito zdroji jste dobře vybaveni k zvládnutí `BmpOptions` a odemkněte plný potenciál Aspose.Imaging ve vašich projektech v Javě. Přejeme vám příjemné programování!
 

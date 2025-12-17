@@ -170,7 +170,7 @@ Prêt à passer au niveau supérieur en matière de traitement d'images ? Essay
 - **Licence d'achat :** [Acheter maintenant](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Commencez votre essai](https://releases.aspose.com/imaging/java/)
 - **Licence temporaire :** [Obtenez ici](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance :** [Poser des questions](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance :** [Poser des questions](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce guide, vous serez parfaitement équipé pour gérer facilement les tâches de traitement d'images avec Aspose.Imaging pour Java. Bon codage !
 

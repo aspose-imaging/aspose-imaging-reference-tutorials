@@ -152,7 +152,7 @@ Neste tutorial, você aprendeu a aproveitar o poder do Aspose.Imaging for .NET p
 - **Comprar:** [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Comece um teste gratuito](https://releases.aspose.com/imaging/net/)
 - **Licença temporária:** [Solicitar uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar:** [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar:** [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

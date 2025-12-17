@@ -222,7 +222,7 @@ public class Main {
 - [توثيق Aspose.Imaging لـ Java](https://reference.aspose.com/imaging/java/)
 - [تنزيل Aspose.Imaging لـ Java](https://releases.aspose.com/imaging/java/)
 - [شراء ترخيص أو الحصول على نسخة تجريبية مجانية](https://purchase.aspose.com/buy)
-- [احصل على الدعم من منتدى المجتمع](https://forum.aspose.com/c/imaging/10)
+- [احصل على الدعم من منتدى المجتمع](https://forum.aspose.com/c/imaging/14)
 
 بفضل هذه الموارد وهذا الدليل، أنت جاهز تمامًا لبدء تحويل صور SVG بثقة باستخدام Aspose.Imaging لـ Java. برمجة ممتعة!
 

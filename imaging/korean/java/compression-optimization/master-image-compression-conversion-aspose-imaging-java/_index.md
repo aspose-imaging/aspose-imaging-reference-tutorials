@@ -182,7 +182,7 @@ A5: 무료 체험판을 이용할 수 있지만, 일부 고급 기능을 사용�
 - **구입**: [Aspose.Imaging 라이선스 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료 체험판을 시작하세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/14)
 
 이러한 리소스를 탐색하고 Aspose.Imaging for Java를 사용하여 자신 있게 이미지 처리 프로젝트를 구현해 보세요.
 

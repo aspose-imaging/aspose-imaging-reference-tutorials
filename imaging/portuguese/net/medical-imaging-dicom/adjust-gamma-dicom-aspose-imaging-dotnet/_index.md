@@ -138,7 +138,7 @@ Para aprimorar ainda mais seu conhecimento, explore outros recursos oferecidos p
 - **Comprar**: [Compre uma licença](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Comece um teste gratuito](https://releases.aspose.com/imaging/net/)
 - **Licença Temporária**: [Solicitar uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Boa codificação e divirta-se aprimorando suas imagens DICOM com o Aspose.Imaging!
 

@@ -170,7 +170,7 @@ using (Image image = Image.Load(dataDir + "/aspose-logo.jpg"))
 - **购买许可证**： [购买 Aspose Imaging](https://purchase.aspose.com/buy)
 - **免费试用**： [从免费试用开始](https://releases.aspose.com/imaging/net/)
 - **临时执照**： [获得临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持论坛**： [Aspose.Imaging 支持](https://forum.aspose.com/c/imaging/10)
+- **支持论坛**： [Aspose.Imaging 支持](https://forum.aspose.com/c/imaging/14)
 
 通过在您的.NET项目中实施这些优化来采取下一步，并探索Aspose.Imaging如何提升您的图像处理任务！
 

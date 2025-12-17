@@ -187,7 +187,7 @@ Ez a kódrészlet JPEG formátumban menti a bináris képet, biztosítva, hogy a
 
 Most már elsajátítottad az Aspose.Imaging Java-ban való használatának alapjait, amelyekkel képeket tölthetsz be, dolgozhatsz fel és menthetsz binarizálási technikákkal. Kísérletezz tovább a könyvtár által kínált egyéb funkciók, például a speciális szűrés vagy a formátumkonverzió felfedezésével.
 
-A következő lépések közé tartozik ennek a funkciónak az integrálása a projektekbe, valamint a különböző képtípusok és feldolgozási forgatókönyvek kipróbálása. Ne habozzon kapcsolatba lépni velünk a következő címen: [Aspose támogatói fórum](https://forum.aspose.com/c/imaging/10) bármilyen felmerülő kérdés esetén!
+A következő lépések közé tartozik ennek a funkciónak az integrálása a projektekbe, valamint a különböző képtípusok és feldolgozási forgatókönyvek kipróbálása. Ne habozzon kapcsolatba lépni velünk a következő címen: [Aspose támogatói fórum](https://forum.aspose.com/c/imaging/14) bármilyen felmerülő kérdés esetén!
 
 ## GYIK szekció
 

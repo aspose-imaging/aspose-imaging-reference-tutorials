@@ -149,7 +149,7 @@ A3：优化内存管理并微调配置设置，如性能注意事项部分所述
 A4：常见问题包括文件路径错误、配置设置不当以及图像格式不受支持。请务必确保路径正确且配置符合您的要求。
 
 **问题5：在哪里可以找到有关 Aspose.Imaging 的更多资源？**
-A5：访问 [Aspose 文档](https://reference.aspose.com/imaging/net/) 获得全面的指南和 [论坛](https://forum.aspose.com/c/imaging/10) 寻求社区支持。
+A5：访问 [Aspose 文档](https://reference.aspose.com/imaging/net/) 获得全面的指南和 [论坛](https://forum.aspose.com/c/imaging/14) 寻求社区支持。
 
 ## 资源
 - **文档：** [Aspose Imaging .NET 参考](https://reference.aspose.com/imaging/net/)
@@ -157,7 +157,7 @@ A5：访问 [Aspose 文档](https://reference.aspose.com/imaging/net/) 获得全
 - **购买：** [购买许可证](https://purchase.aspose.com/buy)
 - **免费试用：** [试用版下载](https://releases.aspose.com/imaging/net/)
 - **临时执照：** [在此请求](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

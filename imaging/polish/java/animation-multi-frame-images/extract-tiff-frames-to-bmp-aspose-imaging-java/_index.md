@@ -174,7 +174,7 @@ Gratulacje opanowania procesu konwersji ramek TIFF do plików BMP przy użyciu A
 - [Kup licencje](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij przygodę ze sztuką przetwarzania obrazu dzięki Aspose.Imaging Java i odkryj nowe możliwości w zakresie obsługi obrazów TIFF.
 

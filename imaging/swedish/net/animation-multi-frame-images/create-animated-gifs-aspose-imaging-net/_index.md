@@ -153,7 +153,7 @@ Nästa steg inkluderar att experimentera med olika bildsekvenser och utforska yt
 - **Köpa**: [Köp Aspose-licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Aspose.Imaging Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Begär tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Ta dessa resurser och börja skapa dynamiska GIF-bilder idag!
 

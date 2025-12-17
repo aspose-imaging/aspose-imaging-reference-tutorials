@@ -130,7 +130,7 @@ Tout au long de ce tutoriel, nous avons exploré comment convertir efficacement 
 
 Pour améliorer davantage vos compétences :
 - Découvrez des fonctionnalités supplémentaires d'Aspose.Imaging, telles que la manipulation d'images ou les conversions de format.
-- Engagez-vous avec la communauté sur [Forum d'Aspose](https://forum.aspose.com/c/imaging/10) pour partager des idées et demander des conseils.
+- Engagez-vous avec la communauté sur [Forum d'Aspose](https://forum.aspose.com/c/imaging/14) pour partager des idées et demander des conseils.
 
 Prêt à convertir des images dans vos applications .NET ? Essayez-le dès aujourd'hui !
 

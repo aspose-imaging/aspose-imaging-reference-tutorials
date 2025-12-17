@@ -209,7 +209,7 @@ Agora você já domina como carregar, recortar arquivos EMF e convertê-los para
 - [Licença de compra](https://purchase.aspose.com/buy)
 - [Teste grátis](https://releases.aspose.com/imaging/java/)
 - [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Aproveite o poder do Aspose.Imaging Java para elevar seus recursos de processamento de imagens hoje mesmo!
 

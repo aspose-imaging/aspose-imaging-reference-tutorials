@@ -165,7 +165,7 @@ Ambil langkah berikutnya dengan bereksperimen menggunakan berbagai konfigurasi d
 - **Pembelian:** Beli lisensi di [Halaman Lisensi Aspose](https://purchase.aspose.com/buy).
 - **Uji Coba Gratis:** Cobalah Aspose.Imaging dengan uji coba gratis yang tersedia di halaman rilis mereka.
 - **Lisensi Sementara:** Dapatkan akses tambahan melalui opsi lisensi sementara.
-- **Mendukung:** Bergabunglah dalam diskusi atau cari bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Mendukung:** Bergabunglah dalam diskusi atau cari bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Jangan ragu untuk bereksperimen dan mengintegrasikan akses aliran tersinkronisasi ke dalam proyek Java Anda untuk meningkatkan stabilitas dan kinerja!
 

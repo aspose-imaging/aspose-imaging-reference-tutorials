@@ -199,7 +199,7 @@ Ebben az oktatóanyagban megismerkedtél azzal, hogyan konvertálhatsz JPEG és 
 - **Dokumentáció**További információkért látogasson el a következő oldalra: [Aspose.Imaging dokumentáció](https://reference.aspose.com/imaging/java/).
 - **Letöltés**: Szerezd meg a legújabb kiadásokat innen: [Aspose kiadási oldal](https://releases.aspose.com/imaging/java/).
 - **Vásárlás és ingyenes próbaverzió**Próbálja ki a funkciókat még ma itt: [Az Aspose vásárlási és ingyenes próbaverziós oldala](https://purchase.aspose.com/buy).
-- **Támogatás**Csatlakozz a beszélgetésekhez a következőn: [Aspose Fórum](https://forum.aspose.com/c/imaging/10).
+- **Támogatás**Csatlakozz a beszélgetésekhez a következőn: [Aspose Fórum](https://forum.aspose.com/c/imaging/14).
 
 Reméljük, hogy ez az útmutató segít abban, hogy hatékonyan használd az Aspose.Imaging Java-t képfeldolgozási igényeidhez. Jó kódolást!
 

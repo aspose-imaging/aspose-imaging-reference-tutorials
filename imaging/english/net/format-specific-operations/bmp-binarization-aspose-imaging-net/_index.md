@@ -176,7 +176,7 @@ By now, you should have a solid understanding of how to binarize BMP images usin
 - **Purchase License:** [Buy Now](https://purchase.aspose.com/buy)
 - **Free Trial:** [Get Your Free Trial](https://releases.aspose.com/imaging/net/)
 - **Temporary License:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum:** [Aspose.Imaging Support](https://forum.aspose.com/c/imaging/10)
+- **Support Forum:** [Aspose.Imaging Support](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

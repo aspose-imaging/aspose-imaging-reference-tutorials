@@ -176,7 +176,7 @@ A: Theo dõi việc sử dụng tài nguyên, tối ưu hóa logic xử lý hìn
 - **Mua:** [Mua Tùy chọn cấp phép Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bắt đầu miễn phí với Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn đang trên con đường thành thạo xử lý hình ảnh bằng Aspose.Imaging trong Java!
 

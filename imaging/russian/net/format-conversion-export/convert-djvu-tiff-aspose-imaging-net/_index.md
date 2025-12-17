@@ -213,7 +213,7 @@ A: Да, он поддерживает различные форматы, вкл
 - [Лицензии на покупку](https://purchase.aspose.com/buy)
 - [Бесплатные пробные загрузки](https://releases.aspose.com/imaging/net/)
 - [Запрос на временную лицензию](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Цель этого руководства — предоставить вам знания и инструменты, необходимые для эффективного преобразования изображений DjVu с помощью Aspose.Imaging для .NET. Удачного кодирования!
 

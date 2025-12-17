@@ -180,7 +180,7 @@ A3: Yes, but ensure you acquire a proper license from [Aspose](https://purchase.
 A4: Yes, implement batch processing to handle multiple files efficiently, which can significantly reduce processing time.
 
 **Q5: Where can I get support if I face issues?**
-A5: Visit the [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) for assistance from both Aspose's team and community members.
+A5: Visit the [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) for assistance from both Aspose's team and community members.
 
 ## Resources
 - **Documentation:** Explore detailed guides and API references at [Aspose.Imaging Documentation](https://reference.aspose.com/imaging/net/).

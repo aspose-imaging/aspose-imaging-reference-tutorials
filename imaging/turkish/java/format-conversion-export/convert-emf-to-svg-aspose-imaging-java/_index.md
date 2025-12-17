@@ -171,7 +171,7 @@ C5: Dosya yollarını kontrol edin, doğru kitaplık sürümlerinin olduğundan 
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Aspose.Imaging for Java kullanarak EMF görüntülerini verimli bir şekilde SVG'lere dönüştürebilirsiniz. İyi kodlamalar!
 

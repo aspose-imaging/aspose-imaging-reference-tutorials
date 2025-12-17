@@ -182,7 +182,7 @@ A5: Uji coba gratis tersedia, tetapi beberapa fitur lanjutan mungkin memerlukan 
 - **Pembelian**: [Beli Lisensi Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulai Uji Coba Gratis Anda](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Jangan ragu untuk menjelajahi sumber daya ini dan mulai menerapkan proyek pemrosesan gambar Anda dengan percaya diri menggunakan Aspose.Imaging untuk Java.
 

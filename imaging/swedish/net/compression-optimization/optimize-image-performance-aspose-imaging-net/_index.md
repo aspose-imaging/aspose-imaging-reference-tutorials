@@ -170,7 +170,7 @@ För vidare utforskning, överväg att dyka in i mer avancerade funktioner i Asp
 - **Köplicens**: [Köp Aspose Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Börja med en gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**: [Aspose.Imaging-stöd](https://forum.aspose.com/c/imaging/10)
+- **Supportforum**: [Aspose.Imaging-stöd](https://forum.aspose.com/c/imaging/14)
 
 Ta nästa steg genom att implementera dessa optimeringar i dina .NET-projekt och utforska hur Aspose.Imaging kan förbättra dina bildbehandlingsuppgifter!
 

@@ -182,7 +182,7 @@ A5: K dispozici je bezplatná zkušební verze, ale některé pokročilé funkce
 - **Nákup**: [Koupit licenci Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začněte svou bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Neváhejte a prozkoumejte tyto zdroje a začněte s jistotou implementovat své projekty zpracování obrazu pomocí Aspose.Imaging pro Javu.
 

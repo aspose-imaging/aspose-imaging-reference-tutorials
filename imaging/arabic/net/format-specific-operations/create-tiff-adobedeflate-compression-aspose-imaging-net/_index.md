@@ -177,7 +177,7 @@ using (TiffImage tiffImage = new TiffImage(new TiffFrame(options, 100, 100)))
 - [شراء الترخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/net/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا الدليل، ستكون جاهزًا تمامًا لإنشاء صور TIFF وإدارتها باستخدام ضغط AdobeDeflate باستخدام Aspose.Imaging لـ .NET. برمجة ممتعة!
 

@@ -196,7 +196,7 @@ EMF는 벡터 그래픽에 확장성과 높은 품질을 제공하므로 인쇄�
 - **구입**: 전체 라이센스를 보려면 방문하세요. [Aspose.Imaging 구매](https://purchase.aspose.com/buy).
 - **무료 체험**: 시험판으로 시작하세요 [Aspose.Imaging 무료 다운로드](https://releases.aspose.com/imaging/java/).
 - **임시 면허**: 임시 면허를 취득하다 [Aspose 라이센싱 페이지](https://purchase.aspose.com/temporary-license/).
-- **지원하다**: 토론에 참여하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10).
+- **지원하다**: 토론에 참여하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/14).
 
 이 자료들을 활용하면 Aspose.Imaging for Java를 활용한 이미지 처리에 대해 더욱 깊이 있게 이해할 수 있습니다. 즐거운 코딩 되세요!
 

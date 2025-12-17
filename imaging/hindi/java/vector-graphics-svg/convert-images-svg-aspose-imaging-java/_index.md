@@ -201,7 +201,7 @@ Aspose.Imaging के साथ काम करते समय प्रदर
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण डाउनलोड](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस अनुरोध](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10) 
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14) 
 
 इस गाइड का पालन करके, आप Aspose.Imaging Java के साथ इमेज प्रोसेसिंग में महारत हासिल करने की दिशा में आगे बढ़ रहे हैं। हैप्पी कोडिंग!
 

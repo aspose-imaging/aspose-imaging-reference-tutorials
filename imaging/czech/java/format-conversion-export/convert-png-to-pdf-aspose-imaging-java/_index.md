@@ -194,7 +194,7 @@ Dodržováním tohoto návodu jste se naučili, jak načíst soubor PNG, nastavi
 - [Nákup](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Pusťte se do svého dalšího projektu s důvěrou s vědomím, že Aspose.Imaging pro Javu se o vás postará!
 

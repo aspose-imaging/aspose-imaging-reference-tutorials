@@ -183,7 +183,7 @@ Sie beherrschen nun das Laden von JPEG-Bildern und das Extrahieren ihrer EXIF-Ta
 - [Erwerben Sie eine Lizenz](https://purchase.aspose.com/buy)
 - [Kostenloser Testdownload](https://releases.aspose.com/imaging/net/)
 - [Informationen zur temporären Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

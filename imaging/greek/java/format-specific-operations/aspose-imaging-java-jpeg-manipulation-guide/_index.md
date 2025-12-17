@@ -184,7 +184,7 @@ A5: Βελτιστοποιήστε τον κώδικά σας διαχειριζ
 - **Άδεια Αγοράς:** [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Δοκιμάστε δωρεάν](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** [Λήψη προσωρινής άδειας](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ υποστήριξης:** [Υποστήριξη απεικόνισης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ υποστήριξης:** [Υποστήριξη απεικόνισης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Καλή κωδικοποίηση και απολαύστε την εξερεύνηση των δυνατοτήτων του Aspose.Imaging για Java!
 

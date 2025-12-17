@@ -147,7 +147,7 @@ Besök [Aspose-köp](https://purchase.aspose.com/buy) för information om att k�
 - **Dokumentation:** Utforska omfattande guider på [Aspose.Imaging-dokumentation](https://reference.aspose.com/imaging/net/).
 - **Ladda ner:** Hämta den senaste versionen av Aspose.Imaging från [Sida med utgåvor](https://releases.aspose.com/imaging/net/).
 - **Köp och licensiering:** Mer information om köpalternativ finns på [Köpa](https://purchase.aspose.com/buy) och [Tillfällig licens](https://purchase.aspose.com/temporary-license/).
-- **Stöd:** Vid frågor eller problem, besök [Aspose-forumet](https://forum.aspose.com/c/imaging/10).
+- **Stöd:** Vid frågor eller problem, besök [Aspose-forumet](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

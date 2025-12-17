@@ -170,7 +170,7 @@ Siap membawa pemrosesan gambar Anda ke tingkat berikutnya? Cobalah menerapkan so
 - **Beli Lisensi:** [Beli Sekarang](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Mulai Uji Coba Anda](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Dapatkan Disini](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan:** [Ajukan Pertanyaan](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan:** [Ajukan Pertanyaan](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda akan siap menangani tugas pemrosesan gambar dengan mudah menggunakan Aspose.Imaging untuk Java. Selamat membuat kode!
 

@@ -195,7 +195,7 @@ Kolejne kroki mogą obejmować eksplorację bardziej zaawansowanych funkcji paki
 - **Kup licencję:** Dowiedz się więcej o opcjach zakupu na stronie [Zakup Aspose](https://purchase.aspose.com/buy).
 - **Bezpłatna wersja próbna:** Zacznij od wersji próbnej, aby sprawdzić funkcje.
 - **Licencja tymczasowa:** Uzyskaj tymczasowy dostęp na potrzeby rozszerzonych testów.
-- **Forum wsparcia:** Uzyskaj pomoc i podziel się swoimi spostrzeżeniami na temat [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10).
+- **Forum wsparcia:** Uzyskaj pomoc i podziel się swoimi spostrzeżeniami na temat [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14).
 
 Dzięki temu samouczkowi zyskasz cenne umiejętności w zakresie przetwarzania obrazu przy użyciu Aspose.Imaging dla Java. Miłego kodowania!
 

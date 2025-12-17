@@ -186,7 +186,7 @@ Aspose.Imaging के साथ काम करते समय:
 - [सदस्यता खरीदें](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण लाइसेंस](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड का पालन करके, आप Aspose.Imaging का उपयोग करके जावा में छवि रूपांतरण में महारत हासिल करने की दिशा में आगे बढ़ रहे हैं। हैप्पी कोडिंग!
 

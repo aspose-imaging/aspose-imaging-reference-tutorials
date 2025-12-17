@@ -225,7 +225,7 @@ Aspose.Imaging Javaの読み込みと保存機能を習得することで、大�
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアルアクセス](https://releases.aspose.com/imaging/java/)
 - [臨時免許申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 この包括的なガイドを読めば、Aspose.Imaging Java を活用してプロジェクトで効率的な画像処理を実現できるようになります。コーディングを楽しみましょう！
 

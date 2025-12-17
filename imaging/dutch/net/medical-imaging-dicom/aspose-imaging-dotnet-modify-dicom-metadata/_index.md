@@ -186,7 +186,7 @@ Deze tutorial heeft u begeleid bij het laden, wijzigen, opslaan en verifiëren v
 - **Aankoop**: [Koop Aspose-producten](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Forum voor Beeldvorming](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Forum voor Beeldvorming](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

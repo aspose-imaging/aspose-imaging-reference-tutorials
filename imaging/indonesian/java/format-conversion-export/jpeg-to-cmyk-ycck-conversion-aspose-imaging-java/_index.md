@@ -192,7 +192,7 @@ A: Periksa sumber daya sistem Anda dan optimalkan penggunaan memori. Pertimbangk
 - **Unduh:** Dapatkan versi terbaru dari [Rilis Aspose.Imaging](https://releases.aspose.com/imaging/java/).
 - **Pembelian:** Dapatkan lisensi lengkap di [Halaman Pembelian Aspose](https://purchase.aspose.com/buy).
 - **Uji Coba Gratis & Lisensi Sementara:** Nikmati fitur tanpa batasan dengan mendapatkan uji coba gratis atau lisensi sementara di tautan masing-masing.
-- **Mendukung:** Untuk bantuan lebih lanjut, kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10).
+- **Mendukung:** Untuk bantuan lebih lanjut, kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

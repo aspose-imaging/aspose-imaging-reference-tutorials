@@ -182,7 +182,7 @@ A: Nadat u een tijdelijke licentie hebt aangeschaft of verkregen, configureert u
 - **Aankoop:** [Koop Aspose-licenties](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Start een gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 We hopen dat deze handleiding je helpt om de deskewing-functies efficiënt te implementeren in je Java-applicaties met Aspose.Imaging. Veel plezier met coderen!
 

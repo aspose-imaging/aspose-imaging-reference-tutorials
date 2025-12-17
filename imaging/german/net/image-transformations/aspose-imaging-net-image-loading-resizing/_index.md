@@ -166,7 +166,7 @@ Weitere Informationen finden Sie in diesen Ressourcen:
 - [Kaufen](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/net/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Tauchen Sie ein in Aspose.Imaging für .NET und bringen Sie Ihre Bildverarbeitungsfunktionen auf die nächste Stufe!
 

@@ -169,7 +169,7 @@ Pour continuer à explorer les capacités d'Aspose.Imaging, envisagez d'approfon
 4. **Quels sont les problèmes courants lors du masquage d’images ?**
    - Les problèmes courants incluent des définitions de chemin incorrectes, des exceptions non gérées ou des goulots d’étranglement des performances en raison de tailles d’image importantes.
 5. **Où puis-je trouver de l’aide si j’ai d’autres questions ?**
-   - Visitez le [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10) pour obtenir l'aide des experts de la communauté et du personnel d'Aspose.
+   - Visitez le [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14) pour obtenir l'aide des experts de la communauté et du personnel d'Aspose.
 
 ## Ressources
 - **Documentation**: [Documentation d'Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)

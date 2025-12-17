@@ -168,7 +168,7 @@ Nächste Schritte könnten die Erkundung anderer von Aspose.Imaging unterstützt
 - Kauflizenz: [Aspose-Lizenzierungsoptionen kaufen](https://purchase.aspose.com/buy)
 - Kostenlose Testversion: [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - Temporäre Lizenz: [Erhalten Sie eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- Support-Forum: [Unterstützung der Aspose.Imaging-Community](https://forum.aspose.com/c/imaging/10)
+- Support-Forum: [Unterstützung der Aspose.Imaging-Community](https://forum.aspose.com/c/imaging/14)
 
 Jetzt, da Sie über die Werkzeuge und das Wissen verfügen, versuchen Sie, diese Lösung in Ihrem nächsten Projekt zu implementieren!
 

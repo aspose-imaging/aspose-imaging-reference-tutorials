@@ -197,7 +197,7 @@ Aspose.Imaging Java के साथ काम करते समय, इष्
 - **खरीदना:** मिलने जाना [Aspose खरीद पृष्ठ](https://purchase.aspose.com/buy) लाइसेंसिंग विकल्पों के लिए
 - **मुफ्त परीक्षण:** एक परीक्षण के साथ शुरू करें [निःशुल्क परीक्षण लिंक](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस:** के माध्यम से अस्थायी पहुँच प्राप्त करें [अस्थायी लाइसेंस पृष्ठ](https://purchase.aspose.com/temporary-license/)
-- **सहायता:** समुदाय के साथ जुड़ें [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता:** समुदाय के साथ जुड़ें [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

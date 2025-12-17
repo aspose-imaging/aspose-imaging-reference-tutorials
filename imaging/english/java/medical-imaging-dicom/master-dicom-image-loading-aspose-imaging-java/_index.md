@@ -167,7 +167,7 @@ A3: Consider optimizing memory usage, employing parallel processing techniques, 
 A4: While powerful, ensure your environment meets the necessary requirements for optimal performance.
 
 **Q5: What support options are available if I encounter issues?**
-A5: You can seek help from [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10) or refer to their extensive documentation.
+A5: You can seek help from [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14) or refer to their extensive documentation.
 
 ## Resources
 

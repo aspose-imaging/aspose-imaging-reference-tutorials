@@ -159,7 +159,7 @@ Terapkan logika dalam aplikasi Anda yang secara dinamis mengatur `TransparentCol
 - **Beli Lisensi**: [Beli Aspose.Licensing](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan**: [Dukungan Pencitraan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan**: [Dukungan Pencitraan Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

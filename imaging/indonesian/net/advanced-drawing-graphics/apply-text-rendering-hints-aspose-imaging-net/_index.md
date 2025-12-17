@@ -173,7 +173,7 @@ A: Masalah umum meliputi kebocoran memori dan kemacetan kinerja, yang dapat diat
 - **Pembelian**: Beli lisensi atau dapatkan uji coba gratis dari [Aspose Pembelian](https://purchase.aspose.com/buy).
 - **Uji Coba Gratis**: Mulailah dengan uji coba di [Rilis](https://releases.aspose.com/imaging/net/).
 - **Lisensi Sementara**:Minta satu dari [Asumsikan](https://purchase.aspose.com/temporary-license/).
-- **Mendukung**: Dapatkan bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Mendukung**: Dapatkan bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Mulailah perjalanan Anda untuk menguasai pemrosesan gambar dengan Aspose.Imaging, dan tingkatkan aplikasi Anda ke tingkat yang lebih tinggi!
 

@@ -203,7 +203,7 @@ I den här handledningen har du lärt dig hur du konverterar WMF-filer till PDF 
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att bemästra dessa steg är du väl rustad för att hantera WMF-till-PDF-konverteringar med lätthet. Lycka till med kodningen!
 

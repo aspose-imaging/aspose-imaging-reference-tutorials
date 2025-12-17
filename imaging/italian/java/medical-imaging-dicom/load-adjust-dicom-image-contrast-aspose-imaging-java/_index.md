@@ -179,7 +179,7 @@ Pronti a migliorare i vostri progetti di imaging medico? Iniziate integrando Asp
 - **Acquista licenza:** [Acquista ora](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Inizia la tua prova gratuita](https://releases.aspose.com/imaging/java/)
 - **Richiesta di licenza temporanea:** [Richiedi qui](https://purchase.aspose.com/temporary-license/)
-- **Forum di supporto:** [Comunità di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum di supporto:** [Comunità di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 Seguendo questa guida, sarai pronto a gestire le attività di elaborazione delle immagini DICOM nelle tue applicazioni Java utilizzando Aspose.Imaging. Buona programmazione!
 

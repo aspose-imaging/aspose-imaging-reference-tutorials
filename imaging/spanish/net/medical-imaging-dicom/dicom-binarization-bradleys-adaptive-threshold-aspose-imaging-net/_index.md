@@ -167,7 +167,7 @@ A5: Si bien es eficaz, es más adecuado para imágenes con variaciones de contra
 - **Compra**: [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Comience con una prueba gratuita](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal**: [Solicitar una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**:Para cualquier consulta, visite el [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**:Para cualquier consulta, visite el [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 ¡Embárquese en su viaje con Aspose.Imaging para .NET y desbloquee nuevas capacidades en imágenes médicas!
 

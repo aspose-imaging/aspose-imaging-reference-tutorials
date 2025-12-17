@@ -211,7 +211,7 @@ In deze tutorial hebben we de basisprincipes behandeld van het laden, kopiëren 
 - **Aankoop**: Koop een licentie voor commercieel gebruik op [deze link](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: Begin met een gratis proefperiode om functies te testen op [De website van Aspose](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: Verkrijg een tijdelijke licentie voor uitgebreide evaluatie van [hier](https://purchase.aspose.com/temporary-license/)
-- **Steun**: Neem deel aan discussies of zoek hulp op de [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: Neem deel aan discussies of zoek hulp op de [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

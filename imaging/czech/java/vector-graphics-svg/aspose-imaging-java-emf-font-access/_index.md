@@ -237,7 +237,7 @@ A5: I když operace Aspose.Imaging nejsou ze své podstaty bezpečné pro vlákn
 - **Nákup:** [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Vyzkoušejte Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Začněte svou cestu s Aspose.Imaging pro Javu ještě dnes a odemkněte plný potenciál zpracování obrazu ve vašich aplikacích!
 

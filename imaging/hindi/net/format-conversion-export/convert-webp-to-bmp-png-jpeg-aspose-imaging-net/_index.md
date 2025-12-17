@@ -173,7 +173,7 @@ Aspose.Imaging .NET के साथ काम करते समय, प्र
 - **लाइसेंस खरीदें**: [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [निःशुल्क मूल्यांकन से शुरुआत करें](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [यहां से आवेदन करें](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच**: [चर्चा में शामिल हों](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच**: [चर्चा में शामिल हों](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging .NET का उपयोग करके छवि रूपांतरण में अपनी समझ और क्षमताओं का विस्तार करने के लिए इन संसाधनों में गोता लगाएँ।
 

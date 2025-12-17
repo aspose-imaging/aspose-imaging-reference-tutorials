@@ -237,7 +237,7 @@ För ytterligare utforskning och stöd, se följande resurser:
 - **Dokumentation:** [Aspose.Imaging för Java-dokumentation](https://reference.aspose.com/imaging/java/)
 - **Ladda ner:** [Aspose.Imaging för Java-utgåvor](https://releases.aspose.com/imaging/java/)
 - **Köp & Gratis provperiod:** [Köp eller prova Aspose.Imaging för Java](https://purchase.aspose.com/buy)
-- **Supportforum:** [Aspose Support Community](https://forum.aspose.com/c/imaging/10)
+- **Supportforum:** [Aspose Support Community](https://forum.aspose.com/c/imaging/14)
 
 Den här omfattande guiden bör ge dig kunskapen för att effektivt minska rörelseoskärpa i dina bilder med Aspose.Imaging för Java. Lycka till med kodningen!
 

@@ -191,7 +191,7 @@ Použijte `dispose()` metoda na objektech Image pro uvolnění paměti po dokon�
 - **Nákup:** [Koupit licenci Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Bezplatné zkušební verze Aspose Imaging](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto tutoriálu se vybavíte znalostmi, jak efektivně načítat a ukládat soubory JPEG pomocí Aspose.Imaging pro Javu. Přejeme vám hodně štěstí při programování!
 

@@ -182,7 +182,7 @@ A: Geçici bir lisans satın aldıktan veya edindikten sonra, uygulamanızı Asp
 - **Satın almak:** [Aspose Lisansını Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzun, Aspose.Imaging kullanarak Java uygulamalarınızda eğim giderme özelliklerini etkili bir şekilde uygulamanıza yardımcı olmasını umuyoruz. İyi kodlamalar!
 

@@ -157,7 +157,7 @@ A: Tận dụng khả năng xử lý hàng loạt của Aspose.Imaging để qu�
 A: Mặc dù hiệu suất có thể thay đổi đối với các tệp rất lớn, Aspose.Imaging được thiết kế để xử lý dữ liệu hình ảnh lớn một cách hiệu quả.
 
 **Câu hỏi 5: Tôi có thể nhận được những lựa chọn hỗ trợ nào nếu gặp sự cố?**
-A: Truy cập tài liệu chi tiết và diễn đàn cộng đồng để biết mẹo khắc phục sự cố tại [Hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10).
+A: Truy cập tài liệu chi tiết và diễn đàn cộng đồng để biết mẹo khắc phục sự cố tại [Hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Tài nguyên
 - **Tài liệu**: [Tài liệu Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)

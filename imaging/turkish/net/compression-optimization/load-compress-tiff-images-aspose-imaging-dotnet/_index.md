@@ -165,7 +165,7 @@ A5: Evet, Aspose.Imaging JPEG, PNG, BMP, GIF ve daha fazlası dahil olmak üzere
 - **Lisans Satın Alın**: Ziyaret etmek [Aspose Satın Alma Sayfası](https://purchase.aspose.com/buy) lisanslama seçenekleri için.
 - **Ücretsiz Deneme**: Özellikleri şuradan indirerek deneyin: [Sürümler](https://releases.aspose.com/imaging/net/).
 - **Geçici Lisans**: Geçici lisans talebinde bulunun [Aspose Lisanslama](https://purchase.aspose.com/temporary-license/).
-- **Destek ve Topluluk**: Tartışmalara katılın veya yardım isteyin [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Destek ve Topluluk**: Tartışmalara katılın veya yardım isteyin [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

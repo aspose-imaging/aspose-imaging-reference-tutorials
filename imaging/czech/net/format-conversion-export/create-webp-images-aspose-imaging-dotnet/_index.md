@@ -189,7 +189,7 @@ Aspose.Imaging je optimalizován pro efektivní správu paměti a rychlé zpraco
 - **Licence k zakoupení:** [Koupit nyní](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** Prozkoumejte všechny funkce s dočasnou licencí od [zde](https://releases.aspose.com/imaging/net/).
 - **Dočasná licence:** Získejte jeden k vyhodnocení na [tento odkaz](https://purchase.aspose.com/temporary-license/).
-- **Fórum podpory:** Návštěva [Podpora komunity Aspose](https://forum.aspose.com/c/imaging/10) pro jakékoli dotazy nebo problémy.
+- **Fórum podpory:** Návštěva [Podpora komunity Aspose](https://forum.aspose.com/c/imaging/14) pro jakékoli dotazy nebo problémy.
 
 Dodržováním tohoto komplexního průvodce jste nyní vybaveni k efektivní a účinné tvorbě obrázků WebP pomocí Aspose.Imaging pro .NET. Přejeme vám příjemné programování!
 

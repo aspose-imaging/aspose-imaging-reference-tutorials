@@ -138,7 +138,7 @@ Im nächsten Schritt können Sie weitere Funktionen von Aspose.Imaging erkunden,
 **A4:** Ja, Aspose.Imaging unterstützt eine Vielzahl von Formaten, darunter PNG, JPEG, TIFF usw.
 
 **F5:** Wie erhalte ich Unterstützung, wenn Probleme auftreten?
-**A5:** Besuchen Sie die [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) um Hilfe.
+**A5:** Besuchen Sie die [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) um Hilfe.
 
 ## Ressourcen
 - **Dokumentation:** Entdecken Sie detaillierte Anleitungen und API-Referenzen unter [Aspose Imaging Dokumentation](https://reference.aspose.com/imaging/net/)

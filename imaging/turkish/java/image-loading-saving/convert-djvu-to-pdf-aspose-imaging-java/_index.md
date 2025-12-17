@@ -206,7 +206,7 @@ Bu bilgiyi uygulamaya koymaya hazır mısınız? Daha derinlemesine dalın [Aspo
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Java projelerinizde Aspose.Imaging'i uygularken ek rehberlik ve destek için bu kaynakları keşfetmekten çekinmeyin!
 

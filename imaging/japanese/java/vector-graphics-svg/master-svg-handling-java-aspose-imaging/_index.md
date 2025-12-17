@@ -282,7 +282,7 @@ Aspose.Imaging Java を活用することで、SVG を簡単かつ効果的に�
 - [Aspose.Imaging for Java をダウンロード](https://releases.aspose.com/imaging/java/)
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアルと一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 今すぐ Aspose.Imaging Java を使い始めて、アプリケーションで強力な画像処理機能を実現しましょう。
 

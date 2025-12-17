@@ -184,7 +184,7 @@ O Aspose.Imaging suporta uma ampla variedade de formatos, incluindo JPEG, PNG, G
 
 **5. Como posso obter suporte se tiver problemas?**
 
-Visita [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10) para assistência da comunidade e dos especialistas da Aspose.
+Visita [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14) para assistência da comunidade e dos especialistas da Aspose.
 
 ## Recursos
 

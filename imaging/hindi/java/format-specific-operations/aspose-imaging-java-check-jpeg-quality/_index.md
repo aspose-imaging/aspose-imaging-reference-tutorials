@@ -173,7 +173,7 @@ Aspose.Imaging की क्षमताओं को और अधिक जा
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण संस्करण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस जानकारी](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड का पालन करके, आप Aspose.Imaging for Java के साथ JPEG छवि गुणवत्ता को प्रबंधित करने के लिए एक मजबूत समाधान को लागू करने के अपने रास्ते पर हैं। हैप्पी कोडिंग!
 

@@ -297,7 +297,7 @@ Xin chúc mừng! Bạn đã học thành công cách chuyển đổi hình ản
 - **Mua:** [Mua Aspose.Imaging cho Java](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Hãy thử Aspose.Imaging miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn đã trang bị cho mình các kỹ năng để xử lý chuyển đổi DjVu sang TIFF một cách hiệu quả. Tiếp tục khám phá và cải thiện các ứng dụng Java của bạn với Aspose.Imaging!
 

@@ -256,7 +256,7 @@ Como próximos pasos, considere explorar las características adicionales que of
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 ¡Con estos recursos y su nuevo conocimiento, está bien equipado para comenzar a convertir imágenes TIFF a JPEG usando Aspose.Imaging para Java!
 

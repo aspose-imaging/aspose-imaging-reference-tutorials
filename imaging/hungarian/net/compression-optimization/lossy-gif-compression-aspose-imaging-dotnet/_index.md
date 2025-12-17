@@ -145,7 +145,7 @@ Ebben az oktatóanyagban megtanultad, hogyan alkalmazhatsz veszteséges GIF-töm
 - **Vásárlás**: [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbáld ki](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Kérdések feltevése](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Kérdések feltevése](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -189,7 +189,7 @@ Có, Aspose.Imaging có thể được sử dụng trong các ứng dụng thư�
 - **Mua**: [Mua ngay](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Hãy thử Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Hỗ trợ cộng đồng Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Hỗ trợ cộng đồng Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình với Aspose.Imaging for Java ngay hôm nay và khai thác toàn bộ tiềm năng xử lý hình ảnh trong ứng dụng của bạn!
 

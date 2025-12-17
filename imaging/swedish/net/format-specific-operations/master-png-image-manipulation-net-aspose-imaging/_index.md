@@ -206,7 +206,7 @@ Absolut! Skaffa en licens via deras köpsida om du planerar att använda den kom
 - **Köpa**: [Aspose.Imaging köpsida](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Starta en gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Begär tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**: [Aspose Imaging Support](https://forum.aspose.com/c/imaging/10)
+- **Supportforum**: [Aspose Imaging Support](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

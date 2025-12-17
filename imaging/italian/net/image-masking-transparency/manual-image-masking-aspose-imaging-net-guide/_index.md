@@ -169,7 +169,7 @@ Per continuare a esplorare le capacità di Aspose.Imaging, ti consigliamo di leg
 4. **Quali sono alcuni problemi comuni quando si mascherano le immagini?**
    - Tra i problemi più comuni rientrano definizioni di percorsi errati, eccezioni non gestite o colli di bottiglia nelle prestazioni dovuti a immagini di grandi dimensioni.
 5. **Dove posso trovare supporto se ho ulteriori domande?**
-   - Visita il [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10) per ricevere assistenza dagli esperti della comunità e dallo staff di Aspose.
+   - Visita il [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14) per ricevere assistenza dagli esperti della comunità e dallo staff di Aspose.
 
 ## Risorse
 - **Documentazione**: [Documentazione di Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)

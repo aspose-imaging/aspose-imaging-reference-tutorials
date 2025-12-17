@@ -184,7 +184,7 @@ Wypróbuj rozwiązanie już dziś i zobacz, jak wpisuje się w Twój proces prac
 - **Kup licencję:** [Kup produkty Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Bezpłatne wersje próbne Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa:** [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia:** [Społeczność wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia:** [Społeczność wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

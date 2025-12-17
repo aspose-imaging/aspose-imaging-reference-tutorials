@@ -188,7 +188,7 @@ Ya aprendió a crear y guardar imágenes WebP con Aspose.Imaging .NET, con espec
 - **Compra**: [Comprar una licencia](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Comience su prueba gratuita](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal**: [Solicitar una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 ¡Embárquese hoy en su viaje con Aspose.Imaging y descubra todo el potencial del procesamiento de imágenes en .NET!
 

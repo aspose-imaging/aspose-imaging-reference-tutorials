@@ -170,7 +170,7 @@ Ya tienes las habilidades para cargar, procesar y guardar imágenes con Aspose.I
 - **Licencia de compra:** [Comprar ahora](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Comience su prueba](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** [Obtener aquí](https://purchase.aspose.com/temporary-license/)
-- **Foro de soporte:** [Hacer las cuestiones](https://forum.aspose.com/c/imaging/10)
+- **Foro de soporte:** [Hacer las cuestiones](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo esta guía, estarás bien preparado para manejar fácilmente las tareas de procesamiento de imágenes con Aspose.Imaging para Java. ¡Que disfrutes programando!
 

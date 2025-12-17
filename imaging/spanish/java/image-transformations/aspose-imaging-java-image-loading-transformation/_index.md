@@ -183,7 +183,7 @@ A5: Sí, está diseñado para integrarse perfectamente en diferentes entornos Ja
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Explore estos recursos para mejorar su comprensión y aplicación de Aspose.Imaging en Java.
 

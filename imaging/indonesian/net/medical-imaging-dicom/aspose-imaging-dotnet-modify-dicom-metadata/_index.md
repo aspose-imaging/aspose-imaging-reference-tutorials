@@ -186,7 +186,7 @@ Tutorial ini memandu Anda dalam memuat, memodifikasi, menyimpan, dan memverifika
 - **Pembelian**: [Beli Produk Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose untuk Pencitraan](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Aspose untuk Pencitraan](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

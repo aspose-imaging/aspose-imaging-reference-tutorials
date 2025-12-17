@@ -168,7 +168,7 @@ Klaar om dieper te duiken? Implementeer deze oplossingen vandaag nog in uw proje
 - [Aankoop](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Ontdek deze bronnen om je begrip en toepassing van Aspose.Imaging .NET voor het verwerken van DjVu-bestanden te verbeteren. Veel plezier met coderen!
 

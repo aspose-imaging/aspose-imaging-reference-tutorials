@@ -220,7 +220,7 @@ Dans ce tutoriel, nous avons découvert comment charger, recadrer et enregistrer
 - **Achat**: [Acheter une licence Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Essais gratuits d'Aspose](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**: [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 Grâce à ce guide complet, vous êtes désormais équipé pour implémenter le traitement d'images DICOM en Java avec Aspose.Imaging. Bon codage !
 

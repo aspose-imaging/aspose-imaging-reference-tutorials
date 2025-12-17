@@ -181,7 +181,7 @@ Gotowy na kolejny krok? Spróbuj wdrożyć te techniki w swoich aplikacjach Java
 - **Zakup**: [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Wypróbuj Aspose.Imaging za darmo](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**: [Poproś o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Forum obrazowania Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Forum obrazowania Aspose](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij swoją podróż przetwarzania obrazu z pewnością siebie, wiedząc, że masz narzędzia i wiedzę, aby odnieść sukces. Udanego kodowania!
 

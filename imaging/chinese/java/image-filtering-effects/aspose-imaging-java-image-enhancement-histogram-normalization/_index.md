@@ -184,7 +184,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **购买**： [购买许可证](https://purchase.aspose.com/buy)
 - **免费试用**： [测试功能](https://releases.aspose.com/imaging/java/)
 - **临时执照**： [在此请求](https://purchase.aspose.com/temporary-license/)
-- **支持**： [加入论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**： [加入论坛](https://forum.aspose.com/c/imaging/14)
 
 遵循这些指南，您将能够使用 Aspose.Imaging Java 的直方图归一化功能来增强您的图像。祝您编码愉快！
 

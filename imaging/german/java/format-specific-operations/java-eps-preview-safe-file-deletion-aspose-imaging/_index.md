@@ -220,7 +220,7 @@ A5: Ja, Sie können zwar mit einer kostenlosen Testversion beginnen, für die la
 - **Kaufen**: Kaufen Sie eine Lizenz über [Aspose Kauf](https://purchase.aspose.com/buy).
 - **Kostenlose Testversion**: Beginnen Sie mit einer Testversion, um die Funktionen zu testen bei [Kostenlose Aspose-Testversionen](https://releases.aspose.com/imaging/java/).
 - **Temporäre Lizenz**: Fordern Sie eines an über [Aspose Temporäre Lizenz](https://purchase.aspose.com/temporary-license/).
-- **Unterstützung**: Bei Fragen wenden Sie sich bitte an die [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Unterstützung**: Bei Fragen wenden Sie sich bitte an die [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Mit diesem Tutorial und Aspose.Imaging für Java sind Sie bestens gerüstet für die EPS-Bildvorschau und das sichere Löschen von Dateien in Ihren Projekten. Viel Spaß beim Programmieren!
 

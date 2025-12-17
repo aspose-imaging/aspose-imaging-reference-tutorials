@@ -160,7 +160,7 @@ C5: Yapılandırma ayarlarını optimize ederek, belleği verimli bir şekilde y
 - **Lisans Satın Al**: [Aspose Lisanslama](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'i indirin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Aspose Görüntüleme Desteği](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: [Aspose Görüntüleme Desteği](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

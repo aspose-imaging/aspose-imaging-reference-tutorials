@@ -159,7 +159,7 @@ RasterImage rasterImage = (RasterImage) image;
    - आम समस्याओं में गलत फ़ाइल पथ या असंगत छवि प्रकार शामिल हैं। सुनिश्चित करें कि आपकी छवियाँ Aspose.Imaging द्वारा समर्थित हैं।
 
 **5. यदि मुझे कोई समस्या आती है तो मैं सहायता कहां से प्राप्त कर सकता हूं?**
-   - दौरा करना [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10) समुदाय और Aspose विशेषज्ञों से सहायता के लिए।
+   - दौरा करना [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14) समुदाय और Aspose विशेषज्ञों से सहायता के लिए।
 
 ## संसाधन
 
@@ -167,7 +167,7 @@ RasterImage rasterImage = (RasterImage) image;
 - **डाउनलोड करना**: नवीनतम लाइब्रेरी संस्करण तक पहुंचें [एस्पोज रिलीज](https://releases.aspose.com/imaging/java/).
 - **खरीदना**: उत्पादन-तैयार लाइसेंस के लिए, यहां जाएं [Aspose खरीद](https://purchase.aspose.com/buy).
 - **मुफ्त परीक्षण**: निःशुल्क परीक्षण के साथ अपनी यात्रा शुरू करें [Aspose डाउनलोड](https://releases.aspose.com/imaging/java/).
-- **सहायता**: के माध्यम से सहायता प्राप्त करें [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10).
+- **सहायता**: के माध्यम से सहायता प्राप्त करें [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14).
 
 Java के लिए Aspose.Imaging का लाभ उठाकर, आप जटिल इमेज प्रोसेसिंग कार्यों को आसानी और दक्षता से संभालने में सक्षम हैं। हैप्पी कोडिंग!
 

@@ -214,7 +214,7 @@ A: Tentu saja. Program ini menangani berbagai format gambar secara efisien, term
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Sekarang Anda telah dibekali dengan pengetahuan ini, lanjutkan dan coba terapkan fitur-fitur ini dalam aplikasi Java Anda!
 

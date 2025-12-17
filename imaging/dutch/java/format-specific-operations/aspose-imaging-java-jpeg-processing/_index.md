@@ -191,7 +191,7 @@ Gebruik de `dispose()` Methode op Afbeeldingsobjecten om geheugen vrij te maken 
 - **Aankoop:** [Koop Aspose-licenties](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Gratis proefversies van Aspose Imaging](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Door deze tutorial te volgen, beschikt u over de kennis om efficiënt JPEG's te laden en op te slaan met Aspose.Imaging voor Java. Veel plezier met coderen!
 

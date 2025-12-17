@@ -215,7 +215,7 @@ rasterImage.save(outputDir, tiffOptions);
 - **खरीदना**: [Aspose उत्पाद खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [यहाँ से शुरू](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging के साथ अपनी जावा इमेज प्रोसेसिंग यात्रा शुरू करें और डिजिटल इमेज हेरफेर में नई संभावनाओं को अनलॉक करें!
 

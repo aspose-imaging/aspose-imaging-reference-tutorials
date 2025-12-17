@@ -145,7 +145,7 @@ In deze tutorial heb je geleerd hoe je lossy GIF-compressie toepast met Aspose.I
 - **Aankoop**: [Koop een licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer het eens](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Een tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Stel vragen](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Stel vragen](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

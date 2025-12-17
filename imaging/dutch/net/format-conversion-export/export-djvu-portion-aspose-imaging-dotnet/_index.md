@@ -138,7 +138,7 @@ A: Begin met een gratis proefperiode of vraag een tijdelijke licentie aan. Koop 
 - **Licentie kopen:** [Nu kopen](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Aan de slag](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie:** [Hier aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum:** [Aspose.Imaging-community](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum:** [Aspose.Imaging-community](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

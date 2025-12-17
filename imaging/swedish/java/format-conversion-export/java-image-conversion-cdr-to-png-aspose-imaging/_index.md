@@ -243,7 +243,7 @@ Redo att ta dina bildkonverteringsmöjligheter till nästa nivå? Försök att i
 - [Ladda ner Aspose.Imaging för Java](https://releases.aspose.com/imaging/java/)
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provperiod och tillfällig licens](https://releases.aspose.com/imaging/java/)
-- [Forum för samhällsstöd](https://forum.aspose.com/c/imaging/10)
+- [Forum för samhällsstöd](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden är du väl rustad för att enkelt hantera bildkonverteringsuppgifter med Aspose.Imaging för Java. Lycka till med kodningen!
 

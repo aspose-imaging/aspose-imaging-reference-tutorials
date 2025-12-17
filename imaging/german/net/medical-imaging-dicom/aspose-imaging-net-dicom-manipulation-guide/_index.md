@@ -126,7 +126,7 @@ A: Der Vorgang schlägt fehl. Daher ist es ratsam, vor dem Versuch einer Aktuali
 - **Kaufen**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Testen Sie Aspose.Imaging kostenlos](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Erhalten Sie eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: Bei Fragen besuchen Sie die [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: Bei Fragen besuchen Sie die [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit diesem umfassenden Leitfaden sind Sie bestens gerüstet, um Aspose.Imaging für .NET in Ihren DICOM-Bildbearbeitungsprojekten zu nutzen. Viel Spaß beim Programmieren!
 

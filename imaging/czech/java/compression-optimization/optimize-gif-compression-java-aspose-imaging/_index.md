@@ -178,7 +178,7 @@ A3: Navštivte [stránka s dočasnou licencí](https://purchase.aspose.com/tempo
 A4: Mezi běžné problémy patří nalezení správné rovnováhy mezi velikostí souboru a kvalitou a také správa využití paměti u velkých obrázků.
 
 **Q5: Existuje komunita nebo fórum podpory pro uživatele Aspose.Imaging?**  
-A5: Ano, můžete navštívit [Asposeovo zobrazovací fórum](https://forum.aspose.com/c/imaging/10) vyhledat pomoc od ostatních uživatelů a týmu Aspose.
+A5: Ano, můžete navštívit [Asposeovo zobrazovací fórum](https://forum.aspose.com/c/imaging/14) vyhledat pomoc od ostatních uživatelů a týmu Aspose.
 
 ## Zdroje
 
@@ -187,7 +187,7 @@ A5: Ano, můžete navštívit [Asposeovo zobrazovací fórum](https://forum.aspo
 - **Nákup:** Zvažte zakoupení licence pro plný přístup na [Nákupní stránka Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** Začněte s hodnocením prostřednictvím [Bezplatná zkušební verze Aspose](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** Požádejte o dočasnou licenci zde: [Dočasná licence Aspose](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** Zapojte se do diskuse v [Fórum podpory pro zobrazovací technologie Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** Zapojte se do diskuse v [Fórum podpory pro zobrazovací technologie Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu můžete efektivně spravovat a optimalizovat soubory GIF pomocí Aspose.Imaging pro Javu a zajistit si vysoce kvalitní vizuální efekty s menší velikostí souborů. Přejeme vám příjemné programování!
 

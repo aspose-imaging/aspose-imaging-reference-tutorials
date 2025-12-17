@@ -194,7 +194,7 @@ A5 : Absolument ! Implémentez des boucles ou des techniques de traitement par
 - **Achat**: https://purchase.aspose.com/buy
 - **Essai gratuit**: https://releases.aspose.com/imaging/java/
 - **Permis temporaire**: https://purchase.aspose.com/temporary-license/
-- **Soutien**: https://forum.aspose.com/c/imaging/10
+- **Soutien**: https://forum.aspose.com/c/imaging/14
 
 Explorez ces ressources pour approfondir votre compréhension et votre maîtrise d'Aspose.Imaging pour Java. Bon codage !
 

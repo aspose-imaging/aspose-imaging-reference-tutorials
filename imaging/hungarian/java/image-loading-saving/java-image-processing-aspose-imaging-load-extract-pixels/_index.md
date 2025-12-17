@@ -204,7 +204,7 @@ Most már megtanultad, hogyan használhatod az Aspose.Imaging programot Java-ban
 - **Vásárlás**Licencek beszerzése közvetlenül a következő cégtől: [Vásároljon Aspose-t](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: Kezdj el kísérletezni egy [ingyenes próbalicenc](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: Szerezzen be ideiglenes engedélyt tesztelésre a következő címen: [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/).
-- **Támogatás**Csatlakozz a közösséghez a következő oldalon: [Aspose Fórum](https://forum.aspose.com/c/imaging/10) bármilyen kérdés vagy megbeszélés esetén.
+- **Támogatás**Csatlakozz a közösséghez a következő oldalon: [Aspose Fórum](https://forum.aspose.com/c/imaging/14) bármilyen kérdés vagy megbeszélés esetén.
 
 Ennek az oktatóanyagnak a követésével most már képes leszel összetett képfeldolgozási feladatok kezelésére Java nyelven az Aspose.Imaging használatával. Jó kódolást!
 

@@ -197,7 +197,7 @@ Prêt à essayer cette solution ? Découvrez Aspose.Imaging pour Java et améli
 - **Achat:** Visite [Page d'achat d'Aspose](https://purchase.aspose.com/buy) pour les options de licence
 - **Essai gratuit :** Commencez par un essai à [Lien d'essai gratuit](https://releases.aspose.com/imaging/java/)
 - **Licence temporaire :** Obtenez un accès temporaire via [Page de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** Engagez-vous avec la communauté sur [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien:** Engagez-vous avec la communauté sur [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

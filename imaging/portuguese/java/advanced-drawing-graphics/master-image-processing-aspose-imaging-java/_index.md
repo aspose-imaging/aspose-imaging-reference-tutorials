@@ -194,7 +194,7 @@ R: Absolutamente – ele funciona onde o Java é suportado, incluindo Windows, L
 - **Compra**: [Buy Aspose Products](https://purchase.aspose.com/buy)
 - **Teste Gratuito**: [Start a Free Trial](https://releases.aspose.com/imaging/java/)
 - **Licença Temporária**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Suporte**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Suporte**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Agora, equipado com esse conhecimento, você está pronto para implementar o Aspose.Imaging em seus projetos Java e aprimorar as capacidades de processamento de imagens. Boa codificação!
 

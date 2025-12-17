@@ -189,7 +189,7 @@ Redo att omsätta det du lärt dig i praktiken? Försök att implementera lösni
    - Besök [Aspose tillfällig licens](https://purchase.aspose.com/temporary-license/) för detaljer om hur man förvärvar den.
 
 5. **Vilka supportalternativ finns tillgängliga om jag stöter på problem?**
-   - De [Aspose Supportforum](https://forum.aspose.com/c/imaging/10) erbjuder hjälp från samhället och Aspose-teamet.
+   - De [Aspose Supportforum](https://forum.aspose.com/c/imaging/14) erbjuder hjälp från samhället och Aspose-teamet.
 
 ## Resurser
 

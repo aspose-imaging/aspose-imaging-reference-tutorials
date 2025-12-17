@@ -194,7 +194,7 @@ Ya aprendió a cargar, procesar y guardar imágenes rasterizadas con Aspose.Imag
 - **Compra**:Obtenga una licencia completa a través de [Página de compra de Aspose](https://purchase.aspose.com/buy).
 - **Prueba gratuita**:Comience con una prueba gratuita para explorar las funciones en [Descargas de Aspose](https://releases.aspose.com/imaging/java/).
 - **Licencia temporal**:Solicitar una licencia temporal para realizar pruebas extendidas en [Licencia temporal de Aspose](https://purchase.aspose.com/temporary-license/).
-- **Apoyo**Únase a la comunidad y busque ayuda en el [Foro de Aspose](https://forum.aspose.com/c/imaging/10).
+- **Apoyo**Únase a la comunidad y busque ayuda en el [Foro de Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

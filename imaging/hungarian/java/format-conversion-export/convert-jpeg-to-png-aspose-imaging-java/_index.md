@@ -256,7 +256,7 @@ Megtanultad, hogyan menthetsz JPEG képeket CMYK és YCCK profilokkal, és hogya
 - **Vásárlás:** [Aspose licencelés](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Kezdés](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezt az útmutatót követve hatékonyan használhatod az Aspose.Imaging Java-t JPEG képek kezelésére és konvertálására a projektjeidben. Próbáld ki még ma!
 

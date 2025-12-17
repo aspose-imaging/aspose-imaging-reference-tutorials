@@ -228,7 +228,7 @@ A3: Periksa ketentuan lisensi untuk batasan penggunaan; jika tidak, ini sangat s
 
 **Q4: Bagaimana jika saya menemukan kesalahan selama proses animasi?**
 
-A4: Verifikasi jalur file dan pastikan semua dependensi dikonfigurasi dengan benar. Konsultasikan [Dukungan Aspose](https://forum.aspose.com/c/imaging/10) jika masalah terus berlanjut.
+A4: Verifikasi jalur file dan pastikan semua dependensi dikonfigurasi dengan benar. Konsultasikan [Dukungan Aspose](https://forum.aspose.com/c/imaging/14) jika masalah terus berlanjut.
 
 **Q5: Bagaimana saya dapat memodifikasi properti bingkai untuk mendapatkan efek yang unik?**
 
@@ -241,7 +241,7 @@ A5: Bereksperimenlah dengan penyesuaian gamma, pencampuran alfa, atau transforma
 - **Pembelian**: [Beli Lisensi](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan panduan lengkap ini, Anda akan siap untuk mulai membuat PNG animasi di Java menggunakan Aspose.Imaging. Selamat membuat kode!
 

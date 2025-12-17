@@ -194,7 +194,7 @@ Sẵn sàng nâng cao kỹ năng xử lý hình ảnh của bạn lên một t�
 - **Mua**: Có được giấy phép đầy đủ thông qua [Trang mua hàng của Aspose](https://purchase.aspose.com/buy).
 - **Dùng thử miễn phí**: Bắt đầu với bản dùng thử miễn phí để khám phá các tính năng tại [Tải xuống Aspose](https://releases.aspose.com/imaging/java/).
 - **Giấy phép tạm thời**: Yêu cầu cấp giấy phép tạm thời để thử nghiệm mở rộng tại [Giấy phép tạm thời Aspose](https://purchase.aspose.com/temporary-license/).
-- **Ủng hộ**:Tham gia cộng đồng và tìm kiếm sự giúp đỡ trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10).
+- **Ủng hộ**:Tham gia cộng đồng và tìm kiếm sự giúp đỡ trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

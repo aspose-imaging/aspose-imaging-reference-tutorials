@@ -169,7 +169,7 @@ Kini Anda memiliki pemahaman menyeluruh tentang cara mengekspor file EMF ke berb
    - Kompatibel dengan lingkungan .NET Framework dan .NET Core/5+/6+.
 
 5. **Apakah ada dukungan yang tersedia jika saya mengalami masalah?**
-   - Ya, Anda dapat mengakses forum komunitas dan saluran dukungan resmi melalui [Dukungan Aspose](https://forum.aspose.com/c/imaging/10).
+   - Ya, Anda dapat mengakses forum komunitas dan saluran dukungan resmi melalui [Dukungan Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Sumber daya
 

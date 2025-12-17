@@ -191,7 +191,7 @@ Verwenden Sie die `dispose()` Methode für Bildobjekte, um nach Abschluss der Ve
 - **Kaufen:** [Aspose-Lizenzierung kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Kostenlose Testversionen von Aspose Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Temporäre Lizenz anfordern](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Durch das Durcharbeiten dieses Tutorials haben Sie sich das Wissen angeeignet, um JPEGs mit Aspose.Imaging für Java effizient zu laden und zu speichern. Viel Spaß beim Programmieren!
 

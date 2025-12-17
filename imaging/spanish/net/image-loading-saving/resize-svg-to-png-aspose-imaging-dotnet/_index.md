@@ -180,7 +180,7 @@ En este tutorial, aprendiste a redimensionar imágenes SVG y convertirlas a form
 
 **Pregunta 5:** ¿Dónde puedo obtener ayuda si tengo problemas con Aspose.Imaging?
 
-**A5:** Visita el [Foro de soporte de Aspose.Imaging](https://forum.aspose.com/c/imaging/10) para obtener ayuda de expertos de la comunidad y desarrolladores.
+**A5:** Visita el [Foro de soporte de Aspose.Imaging](https://forum.aspose.com/c/imaging/14) para obtener ayuda de expertos de la comunidad y desarrolladores.
 
 ## Recursos
 - **Documentación:** [Documentación de Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -188,7 +188,7 @@ En este tutorial, aprendiste a redimensionar imágenes SVG y convertirlas a form
 - **Compra:** [Comprar licencia de Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Prueba gratuita de Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal:** [Obtener una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -178,7 +178,7 @@ V: Bár az Aspose.Imaging teljesítményre van optimalizálva, a legjobb eredmé
 - **Vásárlás**: [Aspose.Imaging licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Kezdje az Aspose.Imaging ingyenes próbaverziójával](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Csatlakozz az Aspose fórumhoz támogatásért](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Csatlakozz az Aspose fórumhoz támogatásért](https://forum.aspose.com/c/imaging/14)
 
 Ezekkel a rendelkezésre álló forrásokkal most már magabiztosan kezelheted a TIFF képfeldolgozást. Jó programozást!
 

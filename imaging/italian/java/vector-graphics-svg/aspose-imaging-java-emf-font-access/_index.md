@@ -237,7 +237,7 @@ R5: Sebbene le operazioni di Aspose.Imaging non siano intrinsecamente thread-saf
 - **Acquistare:** [Acquista Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Prova Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea:** [Ottieni una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Inizia oggi stesso il tuo viaggio con Aspose.Imaging per Java e sfrutta appieno il potenziale dell'elaborazione delle immagini nelle tue applicazioni!
 

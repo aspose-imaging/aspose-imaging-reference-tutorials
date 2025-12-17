@@ -169,7 +169,7 @@ A5: Process images sequentially and manage memory efficiently by closing objects
 - **Purchase:** [Buy Now](https://purchase.aspose.com/buy)
 - **Free Trial:** [Start Here](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Community Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Community Forum](https://forum.aspose.com/c/imaging/14)
 
 By leveraging these resources, you can further enhance your understanding and application of Aspose.Imaging for Java. Happy coding!
 

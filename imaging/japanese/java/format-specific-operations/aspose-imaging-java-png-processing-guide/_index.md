@@ -167,7 +167,7 @@ A5: はい、異なるフィルター設定を連鎖させることができま�
 - **購入：** [ライセンス取得](https://purchase.aspose.com/buy)
 - **無料トライアル:** [購入前に試す](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** [リクエストはこちら](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム:** [コミュニティに質問する](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム:** [コミュニティに質問する](https://forum.aspose.com/c/imaging/14)
 
 これで知識が身についたので、これらのテクニックを Java プロジェクトに実装してみましょう。
 

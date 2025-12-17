@@ -188,7 +188,7 @@ rasterCachedImage.save(outputDir + "Grayscaling_out.jpg");
 - **Λήψη**: Αποκτήστε την τελευταία έκδοση από [Εκδόσεις Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Αγορά & Δοκιμή**Μάθετε για τις επιλογές αγοράς και ξεκινήστε με μια δωρεάν δοκιμή [εδώ](https://purchase.aspose.com/buy)
 - **Προσωρινή Άδεια**: Αποκτήστε προσωρινή άδεια [εδώ](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**Γίνετε μέλος του φόρουμ της κοινότητας στη διεύθυνση [Φόρουμ Απεικόνισης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**Γίνετε μέλος του φόρουμ της κοινότητας στη διεύθυνση [Φόρουμ Απεικόνισης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ελπίζουμε ότι αυτός ο οδηγός θα σας δώσει τη δυνατότητα να χρησιμοποιήσετε αποτελεσματικά το Aspose.Imaging για Java στα έργα σας. Καλή κωδικοποίηση!
 

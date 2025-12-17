@@ -151,7 +151,7 @@ In this tutorial, you learned how to leverage Aspose.Imaging for Java to extract
 - **Purchase**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Obtain a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Community Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Community Forum](https://forum.aspose.com/c/imaging/14)
 
 By following this guide, you can efficiently implement EXIF data reading in your Java applications using Aspose.Imaging.
 

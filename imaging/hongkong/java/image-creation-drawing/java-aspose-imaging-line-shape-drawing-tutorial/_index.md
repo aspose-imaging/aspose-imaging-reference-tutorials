@@ -241,7 +241,7 @@ try (EmfImage image = graphics.endRecording()) {
 - [購買選項](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/java/)
 - [臨時執照](https://purchase.aspose.com/temporary-license/)
-- [支援論壇](https://forum.aspose.com/c/imaging/10)
+- [支援論壇](https://forum.aspose.com/c/imaging/14)
 
 現在您已經掌握了使用 Aspose.Imaging for Java 實作繪圖功能的全面指南，可以開始嘗試並將這些技術整合到您的專案中了。祝您程式愉快！
 

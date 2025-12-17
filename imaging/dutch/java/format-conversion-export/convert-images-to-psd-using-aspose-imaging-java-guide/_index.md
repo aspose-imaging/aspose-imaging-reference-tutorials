@@ -258,7 +258,7 @@ A5: Gebruik try-catch-blokken om mogelijke uitzonderingen, zoals een bestand nie
 - **Aankoop**: [Koop Aspose Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer gratis](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Hier aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

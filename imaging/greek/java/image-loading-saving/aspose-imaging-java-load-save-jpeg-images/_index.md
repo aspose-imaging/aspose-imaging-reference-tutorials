@@ -176,7 +176,7 @@ license.setLicense("path_to_your_license_file");
 - **Αγορά:** [Αγοράστε επιλογές αδειοδότησης Aspose](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Ξεκινήστε δωρεάν με το Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, είστε σε καλό δρόμο για να τελειοποιήσετε την επεξεργασία εικόνας με το Aspose.Imaging σε Java!
 

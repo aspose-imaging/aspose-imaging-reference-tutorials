@@ -162,7 +162,7 @@ A5 : Traitez les images de manière séquentielle et gérez efficacement la mé
 - **Achat:** [Acheter maintenant](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Commencez ici](https://releases.aspose.com/imaging/java/)
 - **Licence temporaire :** [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Forum communautaire](https://forum.aspose.com/c/imaging/10)
+- **Soutien:** [Forum communautaire](https://forum.aspose.com/c/imaging/14)
 
 En exploitant ces ressources, vous pourrez approfondir votre compréhension et votre application d'Aspose.Imaging pour Java. Bon codage !
 

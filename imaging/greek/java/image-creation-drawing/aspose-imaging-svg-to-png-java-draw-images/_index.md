@@ -236,7 +236,7 @@ try (SvgImage resultImage = graphics.endRecording()) {
 - [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - [Πληροφορίες για τη δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Λεπτομέρειες Προσωρινής Άδειας Χρήσης](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Αυτός ο ολοκληρωμένος οδηγός θα σας βοηθήσει να ενσωματώσετε απρόσκοπτα το Aspose.Imaging για Java στα έργα σας, επιτρέποντας αποτελεσματικές και ευέλικτες δυνατότητες χειρισμού εικόνας. Καλή κωδικοποίηση!
 

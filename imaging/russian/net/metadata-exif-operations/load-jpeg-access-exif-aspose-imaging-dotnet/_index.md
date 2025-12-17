@@ -172,7 +172,7 @@ if (exif != null)
 - **Покупка:** [Купить варианты лицензирования Aspose](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия:** [Попробуйте бесплатные пробные версии](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия:** [Запросить временные лицензии](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать:** [Поддержка форума Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать:** [Поддержка форума Aspose](https://forum.aspose.com/c/imaging/14)
 
 Следуя этому руководству, вы будете хорошо подготовлены к работе с изображениями JPEG и их метаданными с помощью Aspose.Imaging для .NET. Удачного кодирования!
 

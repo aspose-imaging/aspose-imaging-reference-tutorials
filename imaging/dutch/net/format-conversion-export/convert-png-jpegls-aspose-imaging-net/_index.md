@@ -169,7 +169,7 @@ A5: Controleer bestandspaden, machtigingen en zorg ervoor dat uw .NET-omgeving c
 - **Aankoop:** [Koop licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Gratis proefperiode starten](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie:** [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

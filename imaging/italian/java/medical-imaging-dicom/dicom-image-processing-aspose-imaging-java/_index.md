@@ -237,7 +237,7 @@ A5: Sono disponibili opzioni di prova gratuite, ma per usufruire di tutte le fun
 - **Acquistare**: [Acquista Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Ottieni una prova gratuita](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea**: [Richiedi una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Seguendo questa guida, sarai pronto a sfruttare al meglio Aspose.Imaging per Java nelle tue attività di elaborazione DICOM. Buon lavoro!
 

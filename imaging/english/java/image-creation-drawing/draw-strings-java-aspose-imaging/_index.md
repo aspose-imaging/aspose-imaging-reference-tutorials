@@ -211,7 +211,7 @@ You now have the knowledge to draw strings with different alignments on images u
 - **Purchase:** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
 - **Free Trial:** [Try Aspose.Imaging for Free](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) 
+- **Support:** [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) 
 
 Explore these resources to further your understanding and capabilities with Aspose.Imaging for Java. Happy coding!
 

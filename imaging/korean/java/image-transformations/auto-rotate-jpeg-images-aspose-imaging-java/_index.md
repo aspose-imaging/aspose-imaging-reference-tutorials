@@ -184,7 +184,7 @@ try (JpegImage image = (JpegImage) Image.load(dataDir + "aspose-logo.jpg")) {
 - **구입**: 장기 사용을 위해 라이센스 구매를 고려하세요. [Aspose 구매 페이지](https://purchase.aspose.com/buy).
 - **무료 체험**: 무료 체험판을 통해 기능을 탐색해보세요. [Aspose Imaging 무료 체험판](https://releases.aspose.com/imaging/java/).
 - **임시 면허**: 장기 테스트를 위해 임시 라이센스를 얻으세요.
-- **지원하다**: 도움이 필요하면 커뮤니티 포럼에 가입하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/10). 
+- **지원하다**: 도움이 필요하면 커뮤니티 포럼에 가입하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/14). 
 
 이 포괄적인 가이드를 통해 Aspose.Imaging for Java를 사용하여 JPEG 이미지 처리를 완벽하게 수행할 수 있습니다. 즐거운 코딩 되세요!
 

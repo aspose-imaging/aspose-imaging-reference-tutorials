@@ -177,7 +177,7 @@ using (TiffImage tiffImage = new TiffImage(new TiffFrame(options, 100, 100)))
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/net/)
 - [臨時執照](https://purchase.aspose.com/temporary-license/)
-- [支援論壇](https://forum.aspose.com/c/imaging/10)
+- [支援論壇](https://forum.aspose.com/c/imaging/14)
 
 按照本指南操作，您將能夠使用 Aspose.Imaging for .NET 建立和管理基於 AdobeDeflate 壓縮的 TIFF 映像。祝您編碼愉快！
 

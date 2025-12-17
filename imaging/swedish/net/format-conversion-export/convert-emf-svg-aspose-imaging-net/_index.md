@@ -189,7 +189,7 @@ Redo att omsätta dina nya färdigheter i praktiken? Testa att implementera dess
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Forum för samhällsstöd](https://forum.aspose.com/c/imaging/10)
+- [Forum för samhällsstöd](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden kommer du att vara väl rustad för att hantera komplexa bildkonverteringar med Aspose.Imaging .NET. Lycka till med kodningen!
 

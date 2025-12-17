@@ -191,7 +191,7 @@ try (EmfImage resultImage = graphics.endRecording()) {
 - **खरीदना**: https://purchase.aspose.com/buy
 - **मुफ्त परीक्षण**: https://releases.aspose.com/imaging/java/
 - **अस्थायी लाइसेंस**: https://purchase.aspose.com/temporary-license/
-- **सहायता**: https://forum.aspose.com/c/imaging/10
+- **सहायता**: https://forum.aspose.com/c/imaging/14
 
 हमें उम्मीद है कि यह गाइड आपको अपनी परियोजनाओं में मददगार लगेगी। हैप्पी कोडिंग!
 

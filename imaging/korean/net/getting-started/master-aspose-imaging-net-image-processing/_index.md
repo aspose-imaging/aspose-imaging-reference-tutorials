@@ -159,14 +159,14 @@ Aspose.Imaging은 다음과 같은 다양한 실제 시나리오에서 활용할
 4. **Aspose.Imaging은 어떤 파일 형식을 지원하나요?**
    - JPEG, PNG, GIF 등 100개 이상의 이미지 형식을 지원합니다.
 5. **Aspose.Imaging에서 자주 발생하는 문제는 어떻게 해결할 수 있나요?**
-   - 참조하다 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10) 해결책을 알아보거나 자세한 설명서를 확인하세요.
+   - 참조하다 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14) 해결책을 알아보거나 자세한 설명서를 확인하세요.
 
 ## 자원
 - **선적 서류 비치**: 종합 가이드 [Aspose 문서](https://reference.aspose.com/imaging/net/)
 - **최신 버전 다운로드**: 접근 가능 [출시 페이지](https://releases.aspose.com/imaging/net/)
 - **라이센스 구매**: 직접 구매 링크는 다음에서 제공됩니다. [Aspose 구매 페이지](https://purchase.aspose.com/buy)
 - **무료 체험판 및 임시 라이센스**: 에서 사용 가능 [릴리스 페이지](https://releases.aspose.com/imaging/net/) 그리고 [임시 면허 섹션](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: 문의사항은 다음을 방문하세요. [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: 문의사항은 다음을 방문하세요. [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -228,7 +228,7 @@ Trong hướng dẫn này, bạn đã học cách tải, sửa đổi và lưu h
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu tích hợp các khả năng xử lý hình ảnh mạnh mẽ này vào các ứng dụng Java của bạn ngay hôm nay và cải thiện cách bạn xử lý hình ảnh DICOM!
 

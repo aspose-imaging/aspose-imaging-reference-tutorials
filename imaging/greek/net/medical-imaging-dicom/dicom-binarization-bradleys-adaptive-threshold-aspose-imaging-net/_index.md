@@ -167,7 +167,7 @@ A5: Ενώ είναι αποτελεσματικό, είναι ιδανικό γ
 - **Αγορά**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε με μια δωρεάν δοκιμή](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: Για οποιεσδήποτε ερωτήσεις, επισκεφθείτε το [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: Για οποιεσδήποτε ερωτήσεις, επισκεφθείτε το [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ξεκινήστε το ταξίδι σας με το Aspose.Imaging για .NET και ξεκλειδώστε νέες δυνατότητες στην ιατρική απεικόνιση!
 

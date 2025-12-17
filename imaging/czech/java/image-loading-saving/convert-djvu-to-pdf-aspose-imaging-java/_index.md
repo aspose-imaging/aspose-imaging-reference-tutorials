@@ -206,7 +206,7 @@ Jste připraveni uvést tyto znalosti do praxe? Ponořte se hlouběji do... [Dok
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Neváhejte a prozkoumejte tyto zdroje, kde najdete další rady a podporu při implementaci Aspose.Imaging ve vašich projektech v Javě!
 

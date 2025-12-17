@@ -186,7 +186,7 @@ Sonraki adımlar arasında bu dönüşümleri bir web uygulamasına entegre etme
 - [Abonelik Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Lisansı](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Aspose.Imaging kullanarak Java'da görüntü dönüştürme konusunda ustalaşma yolunda iyi bir mesafe kat etmiş olacaksınız. İyi kodlamalar!
 

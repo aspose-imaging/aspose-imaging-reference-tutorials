@@ -215,7 +215,7 @@ Bu eğitim boyunca, Aspose.Imaging for Java'nın GIF karelerini TIFF formatına 
 ### Sonraki Adımlar
 - Aspose.Imaging'de mevcut olan ek dönüştürme seçeneklerini keşfedin.
 - Bu işlevselliği daha büyük bir projeye veya iş akışına entegre edin.
-- Geri bildirim paylaşın veya destek isteyin [Aspose topluluk forumu](https://forum.aspose.com/c/imaging/10).
+- Geri bildirim paylaşın veya destek isteyin [Aspose topluluk forumu](https://forum.aspose.com/c/imaging/14).
 
 ## SSS Bölümü
 

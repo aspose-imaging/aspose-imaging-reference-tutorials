@@ -194,7 +194,7 @@ A: Проверьте конфигурацию вашего инструмент
 - **Купить:** [Buy Aspose.Imaging for Java](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия:** Начните бесплатную пробную версию на [Aspose website](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия:** Оформите временную лицензию через [Aspose Purchase](https://purchase.aspose.com/temporary-license/)
-- **Поддержка:** Присоединяйтесь к обсуждениям на [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Поддержка:** Присоединяйтесь к обсуждениям на [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Начните рисовать эти кривые уже сегодня и поднимите свои Java‑проекты на новый уровень с Aspose.Imaging!
 

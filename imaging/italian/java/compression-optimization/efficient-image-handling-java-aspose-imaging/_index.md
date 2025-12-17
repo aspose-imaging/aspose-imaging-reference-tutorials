@@ -223,7 +223,7 @@ A5: Assicurati di memorizzare nella cache le immagini dopo il caricamento, di ri
 - **Acquistare**: [Acquista Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Prova gratuita di Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea**: [Ottieni una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) 
+- **Supporto**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) 
 
 Con questa guida completa, sarai pronto per iniziare a integrare Aspose.Imaging nei tuoi progetti Java per una gestione efficiente delle immagini. Buon lavoro!
 

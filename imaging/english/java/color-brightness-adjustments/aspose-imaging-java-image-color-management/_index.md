@@ -196,7 +196,7 @@ Ready to put this knowledge into practice? Try implementing these techniques in 
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/java/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10) 
+- [Support Forum](https://forum.aspose.com/c/imaging/14) 
 
 Start managing your images with color precision today using Aspose.Imaging for Java!
 

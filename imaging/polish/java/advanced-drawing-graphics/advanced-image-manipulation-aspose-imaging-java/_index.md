@@ -257,7 +257,7 @@ A5: Upewnij się, że format wyjściowy obsługuje przezroczystość (np. PNG). 
 - **Zakup**: [Strona zakupu Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Wypróbuj Aspose.Imaging za darmo](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**: [Poproś o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia**: [Społeczność wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia**: [Społeczność wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Miłego kodowania!
 

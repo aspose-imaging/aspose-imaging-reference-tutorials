@@ -184,7 +184,7 @@ Common issues include not disposing of image objects properly and underestimatin
 Visit [Aspose's website](https://purchase.aspose.com/temporary-license/) to request a temporary license.
 
 ### Where can I find support if I encounter issues with Aspose.Imaging .NET?
-For assistance, head over to the [Aspose Forum](https://forum.aspose.com/c/imaging/10) or consult their extensive documentation and resources.
+For assistance, head over to the [Aspose Forum](https://forum.aspose.com/c/imaging/14) or consult their extensive documentation and resources.
 
 ## Resources
 - **Documentation:** Explore detailed guides at [Aspose Documentation](https://reference.aspose.com/imaging/net/)

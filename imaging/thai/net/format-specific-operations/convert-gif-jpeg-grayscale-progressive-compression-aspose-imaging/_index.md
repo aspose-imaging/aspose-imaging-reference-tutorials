@@ -153,7 +153,7 @@ A: ใช่ ออกแบบมาเพื่อใช้งานกับ 
 - **ซื้อใบอนุญาต**- [หน้าสั่งซื้อ Aspose](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [ทดลองใช้ Aspose.Imaging ฟรี](https://releases.aspose.com/imaging/net/)
 - **ใบอนุญาตชั่วคราว**- [การขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **ฟอรั่มสนับสนุน**- [ชุมชนสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- **ฟอรั่มสนับสนุน**- [ชุมชนสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 การเรียนรู้กระบวนการแปลงข้อมูลด้วย Aspose.Imaging จะช่วยให้คุณจัดการงานประมวลผลภาพที่ซับซ้อนได้อย่างมีประสิทธิภาพในแอปพลิเคชัน .NET ขอให้สนุกกับการเขียนโค้ด!
 

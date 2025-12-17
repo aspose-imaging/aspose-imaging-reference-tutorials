@@ -138,7 +138,7 @@ A: Aspose.Imaging supports batch operations through loops and task parallelism i
 - **Purchase**: [Buy License](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Now](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Get Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum**: [Ask Questions Here](https://forum.aspose.com/c/imaging/10)
+- **Support Forum**: [Ask Questions Here](https://forum.aspose.com/c/imaging/14)
 
 Start using Aspose.Imaging today to enhance your .NET applications with robust image processing capabilities!
 

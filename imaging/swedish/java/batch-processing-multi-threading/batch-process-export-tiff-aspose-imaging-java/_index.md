@@ -163,7 +163,7 @@ A: Även om Aspose.Imaging i sig inte erbjuder inbyggd multitrådning, kan du ha
 A: Den kostnadsfria provperioden ger full funktionalitet men lägger till vattenstämplar på bilder och begränsar användningstiden. Överväg att skaffa en tillfällig eller köpt licens för oavbruten åtkomst.
 
 **F5: Hur felsöker jag vanliga problem med bildbehandling?**
-A: Se till att dina sökvägar är korrekta, kontrollera att du har tillräckliga systemresurser och hänvisa till [supportforum](https://forum.aspose.com/c/imaging/10) om det behövs.
+A: Se till att dina sökvägar är korrekta, kontrollera att du har tillräckliga systemresurser och hänvisa till [supportforum](https://forum.aspose.com/c/imaging/14) om det behövs.
 
 ## Resurser
 
@@ -172,7 +172,7 @@ A: Se till att dina sökvägar är korrekta, kontrollera att du har tillräcklig
 - **Köpa**: Skaffa en licens genom [Asposes köpsida](https://purchase.aspose.com/buy)
 - **Gratis provperiod**Börja utforska funktioner med [gratis provversion](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**Begär en tillfällig licens via [Asposes tillfälliga licenssida](https://purchase.aspose.com/temporary-license/)
-- **Stöd**För eventuella frågor, besök [supportforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**För eventuella frågor, besök [supportforum](https://forum.aspose.com/c/imaging/14)
 
 Med den här omfattande guiden är du redo att förbättra dina bildbehandlingsmöjligheter med Aspose.Imaging för Java!
 

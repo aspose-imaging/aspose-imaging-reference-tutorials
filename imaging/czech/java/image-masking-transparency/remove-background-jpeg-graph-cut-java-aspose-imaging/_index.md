@@ -212,7 +212,7 @@ Chcete-li si dále vylepšit dovednosti, zvažte prozkoumání dalších funkcí
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Získejte bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Začněte svou cestu s Aspose.Imaging ještě dnes a odemkněte plný potenciál zpracování obrazu v Javě!
 

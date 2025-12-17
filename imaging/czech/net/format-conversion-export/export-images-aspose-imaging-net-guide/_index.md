@@ -207,7 +207,7 @@ A3: Ano, Aspose.Imaging nabízí podrobnou kontrolu nad nastavením komprese pro
 A4: Rozhodně! V .NET můžete efektivně zpracovávat více souborů pomocí technik paralelního programování.
 
 **Q5: Jak mohu řešit běžné problémy s Aspose.Imaging?**
-A5: Zkontrolujte [fórum podpory](https://forum.aspose.com/c/imaging/10) pro řešení běžných problémů a nahlédněte do rozsáhlého [dokumentace](https://reference.aspose.com/imaging/net/) pro vodítko.
+A5: Zkontrolujte [fórum podpory](https://forum.aspose.com/c/imaging/14) pro řešení běžných problémů a nahlédněte do rozsáhlého [dokumentace](https://reference.aspose.com/imaging/net/) pro vodítko.
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

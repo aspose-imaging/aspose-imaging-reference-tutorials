@@ -167,7 +167,7 @@ Klaar om te implementeren? Begin vandaag nog met het converteren van uw afbeeldi
 - [Licenties kopen](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Met deze uitgebreide handleiding bent u klaar om Aspose.Imaging voor .NET in uw projecten te gebruiken. Veel plezier met coderen!
 

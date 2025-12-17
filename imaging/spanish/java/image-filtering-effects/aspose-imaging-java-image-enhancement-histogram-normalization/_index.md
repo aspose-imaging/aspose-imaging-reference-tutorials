@@ -184,7 +184,7 @@ Siguiendo esta guía, ha aprendido a usar Aspose.Imaging Java eficazmente para c
 - **Compra**: [Comprar una licencia](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Características de la prueba](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal**: [Solicitar aquí](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Únase al foro](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: [Únase al foro](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo estas pautas, estará bien preparado para mejorar sus imágenes con las funciones de normalización de histogramas de Aspose.Imaging Java. ¡Que disfrute programando!
 

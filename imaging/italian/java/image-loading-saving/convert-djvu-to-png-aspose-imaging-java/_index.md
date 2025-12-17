@@ -213,7 +213,7 @@ Pronti ad approfondire? Provate a implementare queste soluzioni nei vostri proge
 - **Acquista licenza**: Acquista una licenza per uso commerciale [Qui](https://purchase.aspose.com/buy).
 - **Prova gratuita**: Inizia con una prova gratuita per testare le funzionalità senza limitazioni.
 - **Licenza temporanea**: Ottieni una licenza temporanea per esplorare tutte le funzionalità.
-- **Forum di supporto**: Per qualsiasi domanda, visita il forum di supporto di Aspose all'indirizzo [Forum di Aspose](https://forum.aspose.com/c/imaging/10).
+- **Forum di supporto**: Per qualsiasi domanda, visita il forum di supporto di Aspose all'indirizzo [Forum di Aspose](https://forum.aspose.com/c/imaging/14).
 
 Seguendo questa guida, potrai gestire e convertire in modo efficiente le immagini DJVU utilizzando Aspose.Imaging per Java, migliorando con facilità i flussi di lavoro di elaborazione dei documenti.
 

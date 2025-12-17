@@ -202,7 +202,7 @@ Aspose.Imaging for Java를 활용하여 필수적인 PNG 이미지 작업을 수
 - **라이센스 구매**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료 체험판을 시작하세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [Aspose 지원](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [Aspose 지원](https://forum.aspose.com/c/imaging/14)
 
 이 포괄적인 가이드를 통해 이제 Aspose.Imaging을 사용하여 Java로 PNG 이미지 처리를 완벽하게 익힐 수 있습니다. 즐거운 코딩 되세요!
 

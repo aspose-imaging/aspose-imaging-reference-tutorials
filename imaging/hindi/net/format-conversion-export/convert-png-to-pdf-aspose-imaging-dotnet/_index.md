@@ -166,7 +166,7 @@ PNG को PDF में परिवर्तित करने के कई 
 - **खरीदना**: [Aspose लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [Aspose.Imaging को निःशुल्क आज़माएँ](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 आज ही Aspose.Imaging के साथ अपनी यात्रा शुरू करें और अपने इमेज प्रोसेसिंग कार्यों को सुव्यवस्थित वर्कफ़्लो में बदलें।
 

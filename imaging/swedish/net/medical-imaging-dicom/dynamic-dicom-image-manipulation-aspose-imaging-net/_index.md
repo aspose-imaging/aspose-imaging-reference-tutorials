@@ -217,7 +217,7 @@ Redo att ta dina kunskaper vidare? Försök att implementera dessa tekniker i di
 - [Ladda ner Aspose.Imaging för .NET](https://releases.aspose.com/imaging/net/)
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provperiod och tillfällig licens](https://releases.aspose.com/imaging/net/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Den här guiden bör hjälpa dig att komma igång med att rita och manipulera DICOM-bilder med Aspose.Imaging för .NET, och ge en grund för att bygga mer komplexa bildbehandlingsprogram.
 

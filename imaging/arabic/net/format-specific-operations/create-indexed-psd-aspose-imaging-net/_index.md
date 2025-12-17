@@ -150,7 +150,7 @@ using (var psd = Image.Create(createOptions, 500, 500))
 - **شراء:** [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [ابدأ بإصدار تجريبي مجاني](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة:** [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم:** [دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم:** [دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 ابدأ رحلتك في التصوير مع Aspose.Imaging اليوم، واكتشف إمكانيات جديدة في معالجة الصور الرقمية!
 

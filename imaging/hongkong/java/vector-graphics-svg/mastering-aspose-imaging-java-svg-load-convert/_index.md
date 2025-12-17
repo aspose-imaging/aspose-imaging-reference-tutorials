@@ -160,7 +160,7 @@ Aspose.Imaging 提供了多種將 SVG 處理整合到實際應用程式中的方
 - **購買：** [購買 Aspose 許可證](https://purchase.aspose.com/buy)
 - **免費試用：** [開始免費試用](https://releases.aspose.com/imaging/java/)
 - **臨時執照：** [取得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 論壇支持](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 論壇支持](https://forum.aspose.com/c/imaging/14)
 
 按照本指南操作，您將能夠順利掌握使用 Aspose.Imaging 在 Java 中處理 SVG 影像的方法。祝您程式愉快！
 

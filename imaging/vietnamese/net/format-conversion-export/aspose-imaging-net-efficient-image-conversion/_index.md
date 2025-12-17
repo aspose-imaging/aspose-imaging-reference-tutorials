@@ -137,7 +137,7 @@ Khám phá các tính năng nâng cao hơn của Aspose.Imaging, chẳng hạn n
 - [Tải xuống Aspose.Imaging cho .NET](https://releases.aspose.com/imaging/net/)
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí và Giấy phép tạm thời](https://releases.aspose.com/imaging/net/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Khám phá các tài nguyên này để hiểu sâu hơn và nâng cao việc triển khai Aspose.Imaging .NET của bạn. Chúc bạn viết mã vui vẻ!
 

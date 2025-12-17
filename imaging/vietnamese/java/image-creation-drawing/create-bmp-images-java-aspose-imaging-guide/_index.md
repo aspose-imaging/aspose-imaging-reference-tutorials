@@ -239,7 +239,7 @@ Các bước tiếp theo bao gồm khám phá thêm các tính năng của Aspos
 - **Mua:** [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, giờ đây bạn sẽ có nền tảng vững chắc để sử dụng Aspose.Imaging trong các dự án Java của mình để tạo và quản lý ảnh BMP hiệu quả.
 

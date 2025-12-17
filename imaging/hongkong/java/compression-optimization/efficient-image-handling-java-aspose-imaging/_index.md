@@ -223,7 +223,7 @@ A5：確保在載入後快取映像，使用比例方法有效地調整大小，
 - **購買**： [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用**： [Aspose.Imaging 免費試用](https://releases.aspose.com/imaging/java/)
 - **臨時執照**： [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/10) 
+- **支援**： [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/14) 
 
 有了這份全面的指南，您就可以開始將 Aspose.Imaging 整合到您的 Java 專案中，實現高效的影像管理。祝您程式愉快！
 

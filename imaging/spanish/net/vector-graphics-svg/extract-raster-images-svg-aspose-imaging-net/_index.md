@@ -141,7 +141,7 @@ En este tutorial, aprendiste a extraer imágenes rasterizadas de archivos SVG co
 - **Compra**: [Adquirir una licencia](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Comience con la prueba gratuita](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal**: [Solicitar Licencia Temporal](https://purchase.aspose.com/temporary-license/)
-- **Foro de soporte**: [Soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Foro de soporte**: [Soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Este tutorial está diseñado para guiarte en el uso eficaz de Aspose.Imaging para .NET, asegurándote de sacar el máximo provecho de esta potente biblioteca. ¡Que disfrutes programando!
 

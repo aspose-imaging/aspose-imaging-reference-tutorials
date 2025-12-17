@@ -254,7 +254,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **Απόδειξη με έγγραφα:** Εξερευνήστε λεπτομερείς οδηγούς στο [Τεκμηρίωση Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - **Λήψη:** Αποκτήστε την τελευταία έκδοση από [Εκδόσεις Aspose.Imaging](https://releases.aspose.com/imaging/java/).
 - **Αγορά και δοκιμή:** Αποκτήστε πρόσβαση σε επιλογές αγοράς ή ξεκινήστε με μια δωρεάν δοκιμή στο [Σελίδα Αγοράς Aspose](https://purchase.aspose.com/buy) και [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/).
-- **Υποστήριξη:** Για ερωτήσεις, επισκεφθείτε το [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10).
+- **Υποστήριξη:** Για ερωτήσεις, επισκεφθείτε το [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

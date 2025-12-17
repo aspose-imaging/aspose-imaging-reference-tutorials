@@ -195,7 +195,7 @@ J: Pustaka ini tangguh tetapi mungkin memiliki kendala kinerja dengan gambar yan
 - **Pembelian**: [Beli Aspose Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulailah dengan Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Minta di sini](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan**: [Ajukan Pertanyaan](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan**: [Ajukan Pertanyaan](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda sudah berada di jalur yang tepat untuk menguasai kemampuan pemrosesan gambar canggih yang ditawarkan oleh Aspose.Imaging untuk Java. Selamat membuat kode!
 

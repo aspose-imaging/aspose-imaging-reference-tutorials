@@ -173,7 +173,7 @@ Sentiti libero di provare a implementare questi passaggi nel tuo ambiente di svi
 - **Acquistare:** [Acquista Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Inizia la prova gratuita](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea:** [Richiedi licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Forum di supporto:** [Forum di supporto per Aspose Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum di supporto:** [Forum di supporto per Aspose Imaging](https://forum.aspose.com/c/imaging/14)
 
 Sentiti libero di esplorare queste risorse e di integrare Aspose.Imaging nei tuoi progetti per ottenere funzionalità di elaborazione delle immagini senza interruzioni.
 

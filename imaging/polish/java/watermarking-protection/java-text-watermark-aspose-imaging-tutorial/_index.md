@@ -245,7 +245,7 @@ W tym przewodniku omówiliśmy, jak skutecznie załadować obraz, rysować na ni
 - **Zakup**:Rozważ zakup subskrypcji na [Zakup Aspose](https://purchase.aspose.com/buy).
 - **Bezpłatna wersja próbna**: Zacznij od bezpłatnego okresu próbnego, aby przetestować funkcje bez ograniczeń.
 - **Licencja tymczasowa**: Uzyskaj tymczasową licencję zapewniającą pełny dostęp na czas trwania okresu próbnego.
-- **Wsparcie**:Dołącz do społeczności i poszukaj pomocy [Fora Aspose](https://forum.aspose.com/c/imaging/10).
+- **Wsparcie**:Dołącz do społeczności i poszukaj pomocy [Fora Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

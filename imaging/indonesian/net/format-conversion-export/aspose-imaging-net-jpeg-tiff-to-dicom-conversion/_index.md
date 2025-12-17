@@ -163,7 +163,7 @@ Langkah selanjutnya termasuk menjelajahi fitur Aspose.Imaging yang lebih canggih
 - [Pembelian](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Mendukung](https://forum.aspose.com/c/imaging/10)
+- [Mendukung](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

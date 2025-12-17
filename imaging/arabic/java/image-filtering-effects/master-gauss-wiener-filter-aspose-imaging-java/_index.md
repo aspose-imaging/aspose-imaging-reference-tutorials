@@ -212,7 +212,7 @@ if (image != null) {
 - **شراء**: [اشتري الآن](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [البدء](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [اطلب هنا](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم**: [مجتمع Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم**: [مجتمع Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 نأمل أن يُمكّنك هذا الدليل من تحسين مشاريعك باستخدام إمكانيات معالجة صور متطورة. برمجة ممتعة!
 

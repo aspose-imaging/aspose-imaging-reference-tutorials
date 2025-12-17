@@ -175,7 +175,7 @@ A3: Tak, ale upewnij się, że posiadasz odpowiednią licencję [Postawić](http
 A4: Tak, należy wdrożyć przetwarzanie wsadowe w celu wydajnej obsługi wielu plików, co może znacznie skrócić czas przetwarzania.
 
 **P5: Gdzie mogę uzyskać pomoc, jeśli napotkam problemy?**
-A5: Odwiedź [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10) o pomoc zarówno zespołowi Aspose, jak i członkom społeczności.
+A5: Odwiedź [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14) o pomoc zarówno zespołowi Aspose, jak i członkom społeczności.
 
 ## Zasoby
 - **Dokumentacja:** Zapoznaj się ze szczegółowymi przewodnikami i odniesieniami do API na stronie [Dokumentacja Aspose.Imaging](https://reference.aspose.com/imaging/net/).

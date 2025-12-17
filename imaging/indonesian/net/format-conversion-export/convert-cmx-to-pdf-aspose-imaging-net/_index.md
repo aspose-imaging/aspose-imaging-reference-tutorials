@@ -175,7 +175,7 @@ A: Tinjau pengaturan rasterisasi dan penghalusan Anda di `PdfOptions` konfiguras
 - **Pembelian**: [Beli Lisensi Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulai Uji Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara untuk Aspose.Imaging](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Pencitraan Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Mendukung**: [Forum Pencitraan Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Dengan mengikuti panduan ini, Anda diperlengkapi dengan baik untuk menangani konversi CMX ke PDF dengan mudah.
 

@@ -187,7 +187,7 @@ Készen állsz kipróbálni? Alkalmazd a megoldást a projektedben még ma!
 - **Vásárlás**: [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Kezdés](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Kérelem itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Indulj el az Aspose.Imaging for .NET segítségével még ma, és alakítsd át a képek kezelését az alkalmazásaidban!
 

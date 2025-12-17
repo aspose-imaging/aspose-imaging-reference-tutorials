@@ -225,7 +225,7 @@ Bây giờ bạn đã hiểu rõ về cách chuyển đổi tệp GIF sang WebP 
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bản dùng thử miễn phí Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Với hướng dẫn toàn diện này, bạn sẽ được trang bị đầy đủ để tối ưu hóa hình ảnh của mình bằng Aspose.Imaging for Java và cải thiện ứng dụng hoặc trang web của bạn. Chúc bạn viết mã vui vẻ!
 

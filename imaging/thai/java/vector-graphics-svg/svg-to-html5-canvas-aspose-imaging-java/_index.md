@@ -169,7 +169,7 @@ image.save(outputDir + "/Sample.html", htmlOptions); // บันทึกไฟ
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - [ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/14)
 
 ด้วยคู่มือที่ครอบคลุมนี้ คุณจะพร้อมอย่างเต็มที่ในการใช้ความสามารถของ Aspose.Imaging สำหรับ Java ในการแปลง SVG ให้เป็นองค์ประกอบแคนวาส HTML5 สนุกกับการเขียนโค้ด!
 

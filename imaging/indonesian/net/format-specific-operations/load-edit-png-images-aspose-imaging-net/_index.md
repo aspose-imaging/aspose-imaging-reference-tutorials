@@ -150,7 +150,7 @@ Anda kini telah mempelajari cara memuat, mengakses, dan memanipulasi data piksel
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Komunitas](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Komunitas](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

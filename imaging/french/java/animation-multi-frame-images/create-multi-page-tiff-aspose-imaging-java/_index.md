@@ -214,7 +214,7 @@ Les prochaines étapes pourraient inclure l’exploration de fonctionnalités su
 - [Options de licence d'achat](https://purchase.aspose.com/buy)
 - [Commencez par un essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Informations sur les licences temporaires](https://purchase.aspose.com/temporary-license/)
-- [Assistance communautaire et forums](https://forum.aspose.com/c/imaging/10)
+- [Assistance communautaire et forums](https://forum.aspose.com/c/imaging/14)
 
 En exploitant ces ressources, vous pourrez approfondir votre compréhension d'Aspose.Imaging pour Java et l'appliquer efficacement à vos projets. Bon codage !
 

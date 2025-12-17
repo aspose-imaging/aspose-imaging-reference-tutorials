@@ -192,7 +192,7 @@ Prozkoumejte třídu Graphics v dokumentaci k API, která nabízí metody pro kr
 - **Nákup**: [Koupit licenci Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte Aspose.Imaging zdarma](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Žádost zde](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Prozkoumejte tyto zdroje, abyste prohloubili své znalosti a rozšířili možnosti Aspose.Imaging Java ve svých projektech. Přejeme vám příjemné programování!
 

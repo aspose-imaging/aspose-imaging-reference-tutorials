@@ -212,7 +212,7 @@ if (image != null) {
 - **購買**： [立即購買](https://purchase.aspose.com/buy)
 - **免費試用**： [開始](https://releases.aspose.com/imaging/java/)
 - **臨時執照**： [在此請求](https://purchase.aspose.com/temporary-license/)
-- **支援論壇**： [Aspose.Imaging 社區](https://forum.aspose.com/c/imaging/10)
+- **支援論壇**： [Aspose.Imaging 社區](https://forum.aspose.com/c/imaging/14)
 
 我們希望本指南能夠幫助您利用先進的影像處理功能來增強您的專案。祝您編碼愉快！
 

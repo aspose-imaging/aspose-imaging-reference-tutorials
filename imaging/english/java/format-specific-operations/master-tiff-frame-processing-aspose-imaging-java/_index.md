@@ -172,7 +172,7 @@ By now, you should have a solid understanding of how to load TIFF images and sav
 - **Purchase**: Explore purchasing options at [Aspose's Purchase Page](https://purchase.aspose.com/buy)
 - **Free Trial**: Start with a free trial available [here](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: Apply for a temporary license on the [Temporary License page](https://purchase.aspose.com/temporary-license/)
-- **Support**: Join discussions and seek help at [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: Join discussions and seek help at [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Embark on your journey to mastering Aspose.Imaging in Java today, and transform how you handle image processing tasks!
 

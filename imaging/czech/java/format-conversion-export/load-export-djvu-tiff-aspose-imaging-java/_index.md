@@ -203,7 +203,7 @@ Jste připraveni implementovat tato řešení do svých vlastních projektů? Po
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Získejte bezplatnou licenci](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum komunity Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum komunity Aspose](https://forum.aspose.com/c/imaging/14)
 
 Využitím Aspose.Imaging pro Javu můžete zefektivnit pracovní postupy zpracování dokumentů a snadno zvládat soubory DjVu. Přejeme vám příjemné programování!
 

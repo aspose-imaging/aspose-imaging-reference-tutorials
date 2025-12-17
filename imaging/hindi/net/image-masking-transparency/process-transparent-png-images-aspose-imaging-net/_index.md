@@ -145,7 +145,7 @@ Aspose.Imaging for .NET बहुमुखी है और इसे कई व
 - Aspose.Imaging द्वारा समर्थित अन्य फ़ाइल स्वरूपों का अन्वेषण करें।
 
 **कार्यवाई के लिए बुलावा:**
-अपने अगले प्रोजेक्ट में इन सुविधाओं को लागू करने का प्रयास करें ताकि आप देख सकें कि Aspose.Imaging for .NET किस तरह इमेज प्रोसेसिंग कार्यों को सरल बना सकता है। अपने अनुभव साझा करें या प्रश्न पूछें [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10) यदि आपको किसी भी चुनौती का सामना करना पड़ता है।
+अपने अगले प्रोजेक्ट में इन सुविधाओं को लागू करने का प्रयास करें ताकि आप देख सकें कि Aspose.Imaging for .NET किस तरह इमेज प्रोसेसिंग कार्यों को सरल बना सकता है। अपने अनुभव साझा करें या प्रश्न पूछें [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14) यदि आपको किसी भी चुनौती का सामना करना पड़ता है।
 
 ## अक्सर पूछे जाने वाले प्रश्न अनुभाग
 1. **.NET के लिए Aspose.Imaging क्या है?**
@@ -165,7 +165,7 @@ Aspose.Imaging for .NET बहुमुखी है और इसे कई व
 - [खरीद विकल्प](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण पहुँच](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस अधिग्रहण](https://purchase.aspose.com/temporary-license/)
-- [समर्थन और सामुदायिक मंच](https://forum.aspose.com/c/imaging/10)
+- [समर्थन और सामुदायिक मंच](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -166,7 +166,7 @@ A5: Ya, Anda dapat memuat dan memanipulasi lebih lanjut berkas SVG sesuai kebutu
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulailah dengan Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Ajukan Permohonan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

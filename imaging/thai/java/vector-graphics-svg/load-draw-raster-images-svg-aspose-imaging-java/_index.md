@@ -187,7 +187,7 @@ try (SvgImage resultImage = graphics.endRecording()) {
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ข้อมูลทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - [การขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 หากทำตามคำแนะนำนี้ คุณก็พร้อมที่จะรวมภาพแรสเตอร์ลงในแคนวาส SVG โดยใช้ Aspose.Imaging สำหรับ Java แล้ว ขอให้สนุกกับการเขียนโค้ด!
 

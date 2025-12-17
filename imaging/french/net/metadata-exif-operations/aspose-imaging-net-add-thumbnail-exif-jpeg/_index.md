@@ -172,7 +172,7 @@ Prêt à l'essayer ? Implémentez cette solution dans votre projet et constatez
 - [Licence d'achat](https://purchase.aspose.com/buy)
 - [Version d'essai gratuite](https://releases.aspose.com/imaging/net/)
 - [Demande de permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

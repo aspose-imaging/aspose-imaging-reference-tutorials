@@ -202,7 +202,7 @@ license.setLicense("path/to/your/license/file");
 - **购买：** [购买 Aspose 许可证](https://purchase.aspose.com/buy)
 - **免费试用：** [开始免费试用](https://releases.aspose.com/imaging/java/)
 - **临时执照：** [申请临时执照](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose.Imaging 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose.Imaging 论坛](https://forum.aspose.com/c/imaging/14)
 
 希望本指南能帮助您在 Java 项目中无缝实现 Aspose.Imaging。祝您编程愉快！
 

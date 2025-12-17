@@ -181,7 +181,7 @@ Zachęcamy do wypróbowania wdrożenia tego rozwiązania w swoich projektach! Ab
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Ten samouczek wyposażył Cię w wiedzę, aby poradzić sobie ze złożonymi zadaniami łączenia obrazów TIFF przy użyciu Aspose.Imaging dla Java. Miłego kodowania!
 

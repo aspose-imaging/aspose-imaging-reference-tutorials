@@ -159,14 +159,14 @@ Most már megtanultad, hogyan tölthetsz be, szűrhetsz és menthetsz képeket a
 4. **Milyen fájlformátumokat támogat az Aspose.Imaging?**
    - Több mint 100 képformátumot támogat, beleértve a JPEG, PNG, GIF és egyebeket.
 5. **Hogyan tudom elhárítani az Aspose.Imaging gyakori problémáit?**
-   - Lásd a következőt: [Aspose támogatói fóruma](https://forum.aspose.com/c/imaging/10) megoldásokért, vagy tekintse meg a részletes dokumentációjukat.
+   - Lásd a következőt: [Aspose támogatói fóruma](https://forum.aspose.com/c/imaging/14) megoldásokért, vagy tekintse meg a részletes dokumentációjukat.
 
 ## Erőforrás
 - **Dokumentáció**Átfogó útmutatók a következő címen: [Aspose dokumentáció](https://reference.aspose.com/imaging/net/)
 - **Legújabb verzió letöltése**Elérhető innen: [Kiadások oldala](https://releases.aspose.com/imaging/net/)
 - **Licenc vásárlása**Közvetlen vásárlási link elérhető a következő címen: [Aspose vásárlási oldala](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió és ideiglenes licenc**Elérhető a következő címen: [Kiadások oldal](https://releases.aspose.com/imaging/net/) és [Ideiglenes engedély szakasz](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**Bármilyen kérdés esetén látogassa meg a következőt: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**Bármilyen kérdés esetén látogassa meg a következőt: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

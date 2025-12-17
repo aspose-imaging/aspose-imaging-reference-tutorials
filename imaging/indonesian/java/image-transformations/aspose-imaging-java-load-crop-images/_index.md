@@ -148,7 +148,7 @@ Siap menerapkan solusi ini? Mulailah bereksperimen dengan berbagai jenis dan kon
    - Java Development Kit (JDK) dan IDE yang kompatibel.
 
 5. **Apakah ada dukungan yang tersedia untuk memecahkan masalah?**
-   - Mengunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10) untuk bantuan.
+   - Mengunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14) untuk bantuan.
 
 ## Sumber daya
 

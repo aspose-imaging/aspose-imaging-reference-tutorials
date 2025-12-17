@@ -183,7 +183,7 @@ A5: ใช่แล้ว ได้รับการออกแบบมาใ
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - [ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/14)
 
 สำรวจทรัพยากรเหล่านี้เพื่อเพิ่มความเข้าใจและการประยุกต์ใช้ Aspose.Imaging ใน Java ของคุณ
 

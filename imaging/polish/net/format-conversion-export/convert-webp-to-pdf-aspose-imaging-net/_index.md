@@ -160,7 +160,7 @@ Dzięki temu przewodnikowi nauczyłeś się, jak konwertować obrazy WebP do pli
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatny dostęp próbny](https://releases.aspose.com/imaging/net/)
 - [Wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Dzięki temu kompleksowemu przewodnikowi jesteś teraz wyposażony, aby wykorzystać Aspose.Imaging dla .NET w swoich projektach. Miłego kodowania!
 

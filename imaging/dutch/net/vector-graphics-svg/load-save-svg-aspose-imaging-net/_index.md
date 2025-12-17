@@ -190,7 +190,7 @@ Klaar om te beginnen? Implementeer deze technieken in je volgende project en zie
 - **Aankoop:** [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Probeer Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie:** [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Begin vandaag nog met Aspose.Imaging en ontgrendel nieuwe mogelijkheden op het gebied van beeldverwerking voor .NET-toepassingen!
 

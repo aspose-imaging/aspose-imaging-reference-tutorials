@@ -179,7 +179,7 @@ Redo att tillämpa dessa färdigheter? Börja skapa anpassade grafiska element i
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Få tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

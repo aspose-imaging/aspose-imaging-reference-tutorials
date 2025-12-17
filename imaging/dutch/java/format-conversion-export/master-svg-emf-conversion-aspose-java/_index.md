@@ -204,7 +204,7 @@ A5: Gebruik batchverwerkingsfuncties en zorg ervoor dat uw JVM voldoende geheuge
 - [Download Aspose.Imaging voor Java](https://releases.aspose.com/imaging/java/)
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefversie en tijdelijke licentie](https://releases.aspose.com/imaging/java/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Duik in deze bronnen om je kennis en vaardigheden met Aspose.Imaging voor Java te vergroten. Veel plezier met coderen!
 

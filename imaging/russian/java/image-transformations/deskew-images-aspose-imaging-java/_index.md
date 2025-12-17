@@ -182,7 +182,7 @@ A: После покупки или получения временной лиц
 - **Покупка:** [Купить лицензию Aspose](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия:** [Начать бесплатную пробную версию](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия:** [Запросить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать:** [Форум Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать:** [Форум Aspose](https://forum.aspose.com/c/imaging/14)
 
 Мы надеемся, что это руководство поможет вам эффективно реализовать функции выравнивания в ваших приложениях Java с помощью Aspose.Imaging. Удачного кодирования!
 

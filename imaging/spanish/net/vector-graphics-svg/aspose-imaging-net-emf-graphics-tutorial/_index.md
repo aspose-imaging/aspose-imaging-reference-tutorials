@@ -149,7 +149,7 @@ Este tutorial exploró cómo dibujar y guardar texto en gráficos EMF con Aspose
 - [Compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/net/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10) 
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14) 
 
 ¡Explore estos recursos para profundizar en las capacidades de Aspose.Imaging y mejorar sus aplicaciones .NET hoy mismo!
 

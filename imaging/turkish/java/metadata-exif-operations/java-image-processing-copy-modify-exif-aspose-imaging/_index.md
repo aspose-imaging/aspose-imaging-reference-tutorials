@@ -198,7 +198,7 @@ Farklı EXIF alanlarını deneyin ve Aspose.Imaging tarafından sunulan daha gel
    - Kesinlikle, yüksek performans gereksinimlerini etkili bir şekilde karşılayacak şekilde tasarlanmıştır.
 
 5. **Topluluğa nasıl katkıda bulunabilirim veya sorunlarımla ilgili nasıl yardım alabilirim?**
-   - Katıl [Aspose forumu](https://forum.aspose.com/c/imaging/10) Soru sormak ve fikir paylaşmak için.
+   - Katıl [Aspose forumu](https://forum.aspose.com/c/imaging/14) Soru sormak ve fikir paylaşmak için.
 
 ## Kaynaklar
 

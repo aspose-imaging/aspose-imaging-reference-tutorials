@@ -182,7 +182,7 @@ Entdecken Sie weitere Funktionen von Aspose.Imaging in ihrem [offizielle Dokumen
    - Verwenden Sie Cache-Einstellungen, um die Ressourcenzuweisung effektiv zu verwalten, und ziehen Sie Stapelverarbeitungstechniken in Betracht.
 
 4. **Gibt es Support, wenn ich Probleme mit Aspose.Imaging habe?**
-   - Ja, Sie finden Hilfe auf der [Aspose Support Forum](https://forum.aspose.com/c/imaging/10).
+   - Ja, Sie finden Hilfe auf der [Aspose Support Forum](https://forum.aspose.com/c/imaging/14).
 
 5. **Was sind bewährte Methoden für die Verwendung benutzerdefinierter Paletten in GIFs?**
    - Wählen Sie Farben, die genau zu Ihren Designzielen passen, und testen Sie verschiedene Kombinationen, um optimale Ergebnisse zu erzielen.

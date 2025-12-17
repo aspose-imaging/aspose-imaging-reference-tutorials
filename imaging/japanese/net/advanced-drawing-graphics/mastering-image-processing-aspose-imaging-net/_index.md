@@ -167,7 +167,7 @@ Aspose.Imaging をデータベースやクラウド ストレージ ソリュー
 - **購入：** [Aspose ライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料評価版を試す](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス:** [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

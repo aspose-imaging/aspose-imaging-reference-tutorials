@@ -193,7 +193,7 @@ try (JpegImage image = (JpegImage) Image.load("YOUR_DOCUMENT_DIRECTORY/aspose-lo
    - 您可以獲得臨時許可證進行評估，或購買完整許可證用於生產用途。
 
 5. **如果遇到問題，我可以在哪裡找到支援？**  
-   - 訪問 [Aspose 論壇](https://forum.aspose.com/c/imaging/10) 獲得社區和官方支持。
+   - 訪問 [Aspose 論壇](https://forum.aspose.com/c/imaging/14) 獲得社區和官方支持。
 
 ## 資源
 
@@ -202,7 +202,7 @@ try (JpegImage image = (JpegImage) Image.load("YOUR_DOCUMENT_DIRECTORY/aspose-lo
 - 購買： [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - 免費試用： [提供免費試用](https://releases.aspose.com/imaging/java/)
 - 臨時執照： [申請臨時執照](https://purchase.aspose.com/temporary-license/)
-- 支持： [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- 支持： [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 有了這些資源，您就可以在 Java 專案中充分利用 Aspose.Imaging。祝您程式愉快！
 

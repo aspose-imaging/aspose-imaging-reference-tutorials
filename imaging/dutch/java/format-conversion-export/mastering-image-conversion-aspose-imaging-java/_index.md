@@ -212,7 +212,7 @@ Klaar om je vaardigheden op de proef te stellen? Begin vandaag nog met de implem
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Ontvang een gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Begin uw beeldverwerkingsreis met Aspose.Imaging voor Java en verbeter vandaag nog de kwaliteit van uw projecten!
 

@@ -145,7 +145,7 @@ A5: Bearbeta bilder parallellt där det är möjligt och säkerställ korrekt ka
 - **Köp en licens**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova det](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Begär här](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**: [Ställ frågor](https://forum.aspose.com/c/imaging/10)
+- **Supportforum**: [Ställ frågor](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din resa med Aspose.Imaging för .NET idag och börja utnyttja kraften i bildmetadata!
 

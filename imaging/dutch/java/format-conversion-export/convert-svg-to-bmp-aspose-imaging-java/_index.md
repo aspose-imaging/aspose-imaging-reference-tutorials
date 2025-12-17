@@ -161,7 +161,7 @@ Volgende stappen? Experimenteer met verschillende configuraties in `BmpOptions` 
    - Pas bitmapconfiguraties aan binnen `BmpOptions` om de instellingen voor de uitvoerkwaliteit aan te passen.
 
 5. **Waar kan ik ondersteuning vinden als ik problemen ondervind?**
-   - Bezoek de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10) voor gemeenschaps- en professionele hulp.
+   - Bezoek de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14) voor gemeenschaps- en professionele hulp.
 
 ## Bronnen
 

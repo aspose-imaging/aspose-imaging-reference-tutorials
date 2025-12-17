@@ -183,7 +183,7 @@ A5: 네, 다양한 Java 환경에서 원활하게 통합되도록 설계되었�
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 다음 리소스를 탐색하여 Java에서 Aspose.Imaging에 대한 이해와 응용 프로그램을 더욱 심화해 보세요.
 

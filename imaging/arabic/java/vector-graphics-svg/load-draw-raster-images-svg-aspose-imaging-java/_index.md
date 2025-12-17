@@ -187,7 +187,7 @@ try (SvgImage resultImage = graphics.endRecording()) {
 - [شراء ترخيص](https://purchase.aspose.com/buy)
 - [معلومات عن النسخة التجريبية المجانية](https://releases.aspose.com/imaging/java/)
 - [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا الدليل، ستكون الآن جاهزًا تمامًا لدمج الصور النقطية في لوحات SVG باستخدام Aspose.Imaging لـ Java. برمجة ممتعة!
 

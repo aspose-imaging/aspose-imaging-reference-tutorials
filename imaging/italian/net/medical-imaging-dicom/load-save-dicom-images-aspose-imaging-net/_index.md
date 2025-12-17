@@ -126,7 +126,7 @@ R5: Sì, Aspose.Imaging supporta gli ambienti cloud, consentendo l'integrazione 
 - [Acquista una licenza](https://purchase.aspose.com/buy)
 - [Ottieni una prova gratuita](https://releases.aspose.com/imaging/net/)
 - [Richiedi una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

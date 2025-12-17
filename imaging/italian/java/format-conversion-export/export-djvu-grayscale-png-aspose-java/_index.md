@@ -194,7 +194,7 @@ A5: Assolutamente! Implementare cicli o tecniche di elaborazione parallela per g
 - **Acquistare**: https://purchase.aspose.com/buy
 - **Prova gratuita**: https://releases.aspose.com/imaging/java/
 - **Licenza temporanea**: https://purchase.aspose.com/temporary-license/
-- **Supporto**: https://forum.aspose.com/c/imaging/10
+- **Supporto**: https://forum.aspose.com/c/imaging/14
 
 Esplora queste risorse per approfondire la tua comprensione e padronanza di Aspose.Imaging per Java. Buona programmazione!
 

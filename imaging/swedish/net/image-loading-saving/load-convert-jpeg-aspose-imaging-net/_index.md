@@ -159,7 +159,7 @@ Redo att testa det? Ladda ner och testa lösningen i dina projekt idag!
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Utforska gärna dessa resurser för mer djupgående information och support. Lycka till med kodningen!
 

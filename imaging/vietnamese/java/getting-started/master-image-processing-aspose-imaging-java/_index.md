@@ -209,7 +209,7 @@ Bây giờ bạn đã thành thạo cách thay đổi kích thước hình ảnh
 5. **Khung TIFF cải thiện việc quản lý hình ảnh như thế nào?**  
    Bằng cách hợp nhất nhiều hình ảnh thành một tệp duy nhất, giúp xử lý và phân phối nhiều bộ sưu tập hình ảnh liên quan dễ dàng hơn.
 
-Để biết thêm tài nguyên, hãy tham khảo Aspose.Imaging [tài liệu](https://reference.aspose.com/imaging/java/) và khám phá chúng [trang tải xuống](https://releases.aspose.com/imaging/java/) để biết thông tin cập nhật mới nhất. Đối với bất kỳ thắc mắc hỗ trợ nào, hãy truy cập [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10).
+Để biết thêm tài nguyên, hãy tham khảo Aspose.Imaging [tài liệu](https://reference.aspose.com/imaging/java/) và khám phá chúng [trang tải xuống](https://releases.aspose.com/imaging/java/) để biết thông tin cập nhật mới nhất. Đối với bất kỳ thắc mắc hỗ trợ nào, hãy truy cập [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

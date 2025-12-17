@@ -199,7 +199,7 @@ Essayez d’implémenter cette solution dans un projet dès aujourd’hui et voy
    - La bibliothèque est disponible sous une licence d'essai ; les fonctionnalités complètes nécessitent un achat.
 
 5. **Où puis-je obtenir de l’aide si nécessaire ?**
-   - Visite [Forum d'assistance d'Aspose](https://forum.aspose.com/c/imaging/10) pour obtenir de l'aide.
+   - Visite [Forum d'assistance d'Aspose](https://forum.aspose.com/c/imaging/14) pour obtenir de l'aide.
 
 ## Ressources
 

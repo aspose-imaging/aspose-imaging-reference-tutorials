@@ -160,7 +160,7 @@ A5：透過優化配置設定、高效能管理記憶體以及利用快取策略
 - **購買許可證**： [Aspose 許可](https://purchase.aspose.com/buy)
 - **免費試用**： [下載 Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [申請臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援論壇**： [Aspose 成像支持](https://forum.aspose.com/c/imaging/10)
+- **支援論壇**： [Aspose 成像支持](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

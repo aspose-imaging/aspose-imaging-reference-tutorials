@@ -217,7 +217,7 @@ Aspose.Imaging을 사용하는 동안 최적의 성능을 보장하려면:
 - [Aspose.Imaging for .NET 다운로드](https://releases.aspose.com/imaging/net/)
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험판 및 임시 라이센스](https://releases.aspose.com/imaging/net/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드는 Aspose.Imaging for .NET을 사용하여 DICOM 이미지를 그리거나 조작하는 방법을 알려주며, 보다 복잡한 이미지 처리 애플리케이션을 구축하기 위한 기반을 제공합니다.
 

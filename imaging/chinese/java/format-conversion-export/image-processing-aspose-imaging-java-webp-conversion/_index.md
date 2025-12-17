@@ -190,7 +190,7 @@ Aspose.Imaging Java 可用于各种实际场景：
 - [购买](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/java/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10)
+- [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 本指南将帮助您掌握使用 Aspose.Imaging 加载和导出 WebP 格式图像所需的一切，并帮助您使用 Java 进行开发。祝您编程愉快！
 

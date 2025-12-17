@@ -138,7 +138,7 @@ Bước tiếp theo, hãy cân nhắc khám phá các tính năng khác của As
 **A4:** Có, Aspose.Imaging hỗ trợ nhiều định dạng khác nhau bao gồm PNG, JPEG, TIFF, v.v.
 
 **Câu hỏi 5:** Tôi có thể nhận được hỗ trợ như thế nào nếu gặp vấn đề?
-**A5:** Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) để được hỗ trợ.
+**A5:** Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) để được hỗ trợ.
 
 ## Tài nguyên
 - **Tài liệu:** Khám phá hướng dẫn chi tiết và tài liệu tham khảo API tại [Tài liệu hình ảnh Aspose](https://reference.aspose.com/imaging/net/)

@@ -182,7 +182,7 @@ Jelajahi lebih banyak fitur yang ditawarkan oleh Aspose.Imaging di [dokumentasi 
    - Gunakan pengaturan cache untuk mengelola alokasi sumber daya secara efektif dan pertimbangkan teknik pemrosesan batch.
 
 4. **Apakah ada dukungan yang tersedia jika saya mengalami masalah dengan Aspose.Imaging?**
-   - Ya, Anda dapat menemukan bantuan di [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10).
+   - Ya, Anda dapat menemukan bantuan di [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14).
 
 5. **Apa sajakah praktik terbaik untuk menggunakan palet khusus dalam GIF?**
    - Pilih warna yang selaras dengan tujuan desain Anda dan uji berbagai kombinasi untuk mencapai hasil optimal.

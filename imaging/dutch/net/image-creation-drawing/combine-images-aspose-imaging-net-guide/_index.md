@@ -190,7 +190,7 @@ Voor meer informatie en bronnen:
 - [Licenties kopen](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Met deze hulpmiddelen en tips bent u goed toegerust om elke uitdaging op het gebied van beeldmanipulatie aan te pakken met Aspose.Imaging voor .NET. Veel plezier met coderen!
 

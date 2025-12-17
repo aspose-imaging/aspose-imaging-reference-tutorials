@@ -209,7 +209,7 @@ rasterizationOptions.setPageSize(metaImage.getSize());
 - [Αγορά Άδειας Χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Αγκαλιάστε τη δύναμη του Aspose.Imaging Java για να βελτιώσετε τις δυνατότητες επεξεργασίας εικόνας σας σήμερα!
 

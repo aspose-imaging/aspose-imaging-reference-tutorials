@@ -159,7 +159,7 @@ image.Save(outputDir);
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/net/)
 - [ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/14)
 
 ลองนำขั้นตอนเหล่านี้ไปปฏิบัติแล้วดูว่า Aspose.Imaging จะช่วยปรับปรุงงานการประมวลผลภาพของคุณได้อย่างไร!
 

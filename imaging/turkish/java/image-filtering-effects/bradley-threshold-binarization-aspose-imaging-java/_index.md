@@ -198,7 +198,7 @@ C5: Bellek yönetimi için Java ortamınızı optimize etmeyi düşünün ve top
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Erişimi](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Anlayışınızı derinleştirmek ve görüntü işleme projelerinizi Aspose.Imaging for Java ile geliştirmek için bu kaynakları keşfedin. İyi kodlamalar!
 

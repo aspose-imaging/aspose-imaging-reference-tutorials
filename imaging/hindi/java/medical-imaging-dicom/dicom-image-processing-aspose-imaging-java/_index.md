@@ -237,7 +237,7 @@ A4: आधिकारिक जानकारी में गोता लग
 - **खरीदना**: [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [निःशुल्क परीक्षण प्राप्त करें](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड का पालन करके, आप अपने DICOM प्रोसेसिंग कार्यों में Aspose.Imaging for Java का लाभ उठाने के लिए अच्छी तरह से सुसज्जित होंगे। हैप्पी कोडिंग!
 

@@ -171,7 +171,7 @@ Sebagai langkah selanjutnya, pertimbangkan untuk menjelajahi fitur manipulasi ga
 - Untuk penggunaan komersial, Anda perlu membeli lisensi. Lisensi uji coba memungkinkan evaluasi tetapi memiliki batasan.
 
 **Q4: Apakah ada dukungan yang tersedia jika saya mengalami masalah?**
-- Ya, Aspose menawarkan forum komunitas dan opsi dukungan profesional. Kunjungi situs web mereka [halaman dukungan](https://forum.aspose.com/c/imaging/10) untuk informasi lebih lanjut.
+- Ya, Aspose menawarkan forum komunitas dan opsi dukungan profesional. Kunjungi situs web mereka [halaman dukungan](https://forum.aspose.com/c/imaging/14) untuk informasi lebih lanjut.
 
 **Q5: Dapatkah saya mengintegrasikan fungsi ini ke dalam aplikasi web?**
 - Tentu saja! Pustaka ini kompatibel dengan kerangka kerja .NET yang digunakan dalam aplikasi web, sehingga memungkinkan integrasi yang lancar.

@@ -198,7 +198,7 @@ Para aprimorar ainda mais suas habilidades e compreensão, explore estes recurso
 - **Compra e Licenciamento:** Saiba mais sobre as opções de compra em [Página de compras da Aspose](https://purchase.aspose.com/buy)
 - **Teste gratuito:** Comece com um teste gratuito visitando [Página de teste do Aspose](https://releases.aspose.com/imaging/java/)
 - **Licença temporária:** Solicite uma licença temporária para acesso a todos os recursos em [Página de licença temporária da Aspose](https://purchase.aspose.com/temporary-license/)
-- **Apoiar:** Envolva-se com a comunidade e busque apoio em [Fórum do Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar:** Envolva-se com a comunidade e busque apoio em [Fórum do Aspose](https://forum.aspose.com/c/imaging/14)
 
 Com esses recursos, você estará bem equipado para aproveitar o poder do Aspose.Imaging para Java em seus projetos. Boa programação!
 

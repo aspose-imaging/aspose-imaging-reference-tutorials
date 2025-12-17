@@ -209,7 +209,7 @@ Typowe problemy obejmują nieprawidłowe konfiguracje ścieżek i nieobsługiwan
 
 **5. Gdzie mogę uzyskać pomoc w przypadku wystąpienia problemów?**
 
-Odwiedzać [Wsparcie Aspose](https://forum.aspose.com/c/imaging/10) aby zwrócić się o pomoc do społeczności lub zwrócić się bezpośrednio po dodatkowe wsparcie.
+Odwiedzać [Wsparcie Aspose](https://forum.aspose.com/c/imaging/14) aby zwrócić się o pomoc do społeczności lub zwrócić się bezpośrednio po dodatkowe wsparcie.
 
 ## Zasoby
 

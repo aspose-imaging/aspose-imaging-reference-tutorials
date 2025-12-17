@@ -200,7 +200,7 @@ A4: Gråskalebilder innehåller endast nyanser av grått, vilket minskar filstor
 
 **F5: Hur kan jag få support om jag stöter på problem med Aspose.Imaging?**
 
-A5: Besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/10) för hjälp från experter i samhället och officiell stödpersonal.
+A5: Besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/14) för hjälp från experter i samhället och officiell stödpersonal.
 
 ## Resurser
 

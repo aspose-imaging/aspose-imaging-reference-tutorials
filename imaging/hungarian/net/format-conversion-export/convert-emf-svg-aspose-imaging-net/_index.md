@@ -189,7 +189,7 @@ Készen állsz arra, hogy új készségeidet a gyakorlatban is alkalmazd? Prób�
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Közösségi Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Közösségi Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével felkészült leszel az Aspose.Imaging .NET használatával végzett összetett képkonverziók kezelésére. Jó kódolást!
 

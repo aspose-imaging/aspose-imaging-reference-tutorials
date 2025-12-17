@@ -169,7 +169,7 @@ Dzięki temu przewodnikowi nauczyłeś się, jak konwertować pliki SVG na eleme
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Dzięki temu kompleksowemu przewodnikowi jesteś dobrze wyposażony, aby wykorzystać moc Aspose.Imaging for Java w przekształcaniu SVG w elementy HTML5 canvas. Miłego kodowania!
 

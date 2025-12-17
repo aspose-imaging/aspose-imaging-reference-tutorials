@@ -211,7 +211,7 @@ V tomto tutoriálu jsme se seznámili s tím, jak načítat, konfigurovat a ukl�
 - [Nákup](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Využitím těchto zdrojů můžete dále prozkoumat možnosti Aspose.Imaging a vylepšit své Java aplikace o výkonné funkce pro zpracování obrazu.
 

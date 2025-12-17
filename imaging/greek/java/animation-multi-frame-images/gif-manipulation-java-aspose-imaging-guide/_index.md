@@ -172,7 +172,7 @@ image.save("YOUR_OUTPUT_DIRECTORY/output.gif", new GifOptions() {
 - **Αγορά**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε με μια δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αίτημα εδώ](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ Υποστήριξης**: [Κοινότητα Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ Υποστήριξης**: [Κοινότητα Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Αυτός ο οδηγός σας εξοπλίζει με τις γνώσεις για να χειρίζεστε με σιγουριά εικόνες GIF χρησιμοποιώντας το Aspose.Imaging για Java. Καλή κωδικοποίηση!
 

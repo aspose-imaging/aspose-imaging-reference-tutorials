@@ -178,7 +178,7 @@ A: Hoewel Aspose.Imaging is geoptimaliseerd voor prestaties, kunt u voor de best
 - **Aankoop**: [Koop Aspose.Imaging-licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Begin met een gratis proefperiode van Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Sluit je aan bij het Aspose Forum voor ondersteuning](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Sluit je aan bij het Aspose Forum voor ondersteuning](https://forum.aspose.com/c/imaging/14)
 
 Met deze hulpmiddelen tot uw beschikking bent u nu klaar om vol vertrouwen aan de slag te gaan met TIFF-beeldverwerking. Veel plezier met coderen!
 

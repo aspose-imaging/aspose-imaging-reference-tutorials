@@ -214,7 +214,7 @@ image.save(outputDirectory);
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جرب Aspose.Imaging مجانًا](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 الآن بعد أن أصبحت لديك هذه المعرفة، يمكنك المضي قدمًا ومحاولة تنفيذ هذه الميزات في تطبيقات Java الخاصة بك!
 

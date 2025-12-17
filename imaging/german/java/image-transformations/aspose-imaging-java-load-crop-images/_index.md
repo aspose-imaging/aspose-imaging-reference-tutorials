@@ -148,7 +148,7 @@ Bereit für die Implementierung dieser Lösung? Experimentieren Sie mit verschie
    - Ein Java Development Kit (JDK) und eine kompatible IDE.
 
 5. **Gibt es Support zur Fehlerbehebung?**
-   - Besuchen [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) um Hilfe.
+   - Besuchen [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) um Hilfe.
 
 ## Ressourcen
 

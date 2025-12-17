@@ -224,7 +224,7 @@ Bây giờ bạn đã học cách tải, giải mã, đọc thuộc tính và ch
 - **Mua:** [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bắt đầu với bản dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Chúng tôi hy vọng bạn thấy hướng dẫn này hữu ích trong việc làm chủ xử lý ảnh JPEG với Aspose.Imaging for Java. Hãy thử triển khai các giải pháp này để xem chúng có thể cải thiện dự án của bạn như thế nào!
 

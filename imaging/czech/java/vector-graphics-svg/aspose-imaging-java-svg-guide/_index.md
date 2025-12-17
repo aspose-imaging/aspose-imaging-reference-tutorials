@@ -171,7 +171,7 @@ Gratulujeme! Úspěšně jste se naučili, jak načítat a ukládat obrázky SVG
 
 **Další kroky:**
 - Prozkoumejte další funkce Aspose.Imaging, jako jsou transformace obrázků a filtrování.
-- Připojte se k [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) sdílet postřehy nebo požádat o radu kolegy vývojáře.
+- Připojte se k [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) sdílet postřehy nebo požádat o radu kolegy vývojáře.
 
 Jste připraveni posunout své Java projekty na další úroveň? Pusťte se do implementace těchto řešení ještě dnes!
 
@@ -199,7 +199,7 @@ Jste připraveni posunout své Java projekty na další úroveň? Pusťte se do 
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Stáhnout zkušební verzi zdarma](https://releases.aspose.com/imaging/java/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Začněte integrovat Aspose.Imaging pro Javu ještě dnes a zefektivnite své pracovní postupy zpracování obrazu!
 

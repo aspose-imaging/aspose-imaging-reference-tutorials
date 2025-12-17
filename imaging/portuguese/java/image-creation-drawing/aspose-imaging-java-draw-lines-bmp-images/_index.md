@@ -211,7 +211,7 @@ Os próximos passos incluem explorar recursos mais avançados, como lidar com di
 - [Licença de compra](https://purchase.aspose.com/buy)
 - [Teste grátis](https://releases.aspose.com/imaging/java/)
 - [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte](https://forum.aspose.com/c/imaging/14)
 
 Seguindo este guia, você estará bem equipado para integrar o Aspose.Imaging aos seus projetos Java e obter recursos robustos de manipulação de imagens. Boa programação!
 

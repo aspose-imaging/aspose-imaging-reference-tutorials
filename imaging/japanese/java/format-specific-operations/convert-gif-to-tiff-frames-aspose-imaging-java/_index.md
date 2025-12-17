@@ -241,7 +241,7 @@ A5: 探索する [Aspose.Imaging ドキュメント](https://reference.aspose.co
 - **購入：** https://purchase.aspose.com/buy
 - **無料トライアル:** https://releases.aspose.com/imaging/java/
 - **一時ライセンス:** https://purchase.aspose.com/temporary-license/
-- **サポート：** https://forum.aspose.com/c/imaging/10
+- **サポート：** https://forum.aspose.com/c/imaging/14
 
 Aspose.Imaging for Javaを活用することで、画像変換プロセスを効率化し、デジタルメディア処理の新たな可能性を切り開くことができます。コーディングを楽しみましょう！
 

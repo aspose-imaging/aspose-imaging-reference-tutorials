@@ -250,7 +250,7 @@ A: Överväg att använda batchbehandlingstekniker och optimera minnesanvändnin
 - **Köpa:** [Köp Aspose](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Starta din gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Implementera dessa funktioner i dina Java-projekt för att låsa upp nya möjligheter och effektivisera arbetsflöden för bildbehandling med Aspose.Imaging. Lycka till med kodningen!
 

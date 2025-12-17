@@ -179,7 +179,7 @@ A3: Du kan börja med en gratis provlicens som låter dig testa alla funktioner 
 A4: Använd batchbehandling och effektiva resurshanteringstekniker som att kassera bilder efter användning. Överväg också att optimera upplösningen före konvertering om möjligt.
 
 **F5: Var kan jag hitta support om jag stöter på problem med Aspose.Imaging?**
-A5: För eventuella frågor eller felsökning, besök [Asposes supportforum](https://forum.aspose.com/c/imaging/10) där du kan få hjälp från både samhället och officiella representanter.
+A5: För eventuella frågor eller felsökning, besök [Asposes supportforum](https://forum.aspose.com/c/imaging/14) där du kan få hjälp från både samhället och officiella representanter.
 
 ## Resurser
 

@@ -167,7 +167,7 @@ Ontdek extra mogelijkheden door in de [Aspose-documentatie](https://reference.as
 - **Aankoop:** [Koop Aspose-licenties](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Probeer gratis evaluatie](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie:** [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

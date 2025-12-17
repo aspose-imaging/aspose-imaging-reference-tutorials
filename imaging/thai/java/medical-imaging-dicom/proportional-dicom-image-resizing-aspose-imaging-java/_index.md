@@ -204,7 +204,7 @@ public class FeatureResizeHeightProportional {
 - **ซื้อ**: https://purchase.aspose.com/ซื้อ
 - **ทดลองใช้งานฟรี**: https://releases.aspose.com/imaging/java/
 - **ใบอนุญาตชั่วคราว**: https://purchase.aspose.com/ใบอนุญาตชั่วคราว/
-- **สนับสนุน**: https://forum.aspose.com/c/imaging/10
+- **สนับสนุน**: https://forum.aspose.com/c/imaging/14
 
 การใช้ประโยชน์จากทรัพยากรเหล่านี้จะช่วยให้คุณเข้าใจและนำ Aspose.Imaging ไปใช้กับแอปพลิเคชัน Java ได้อย่างมีประสิทธิภาพ ขอให้สนุกกับการเขียนโค้ด!
 

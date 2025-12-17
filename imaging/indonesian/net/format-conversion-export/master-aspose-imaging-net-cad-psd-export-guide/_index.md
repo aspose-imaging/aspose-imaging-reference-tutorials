@@ -168,14 +168,14 @@ Dengan panduan ini, Anda telah menguasai cara memuat dan mengekspor file CAD men
 4. **Apakah ada batasan ukuran file CAD yang dapat saya proses?**
    - Memproses file besar mungkin memerlukan lebih banyak memori; optimalkan sesuai kebutuhan berdasarkan kemampuan sistem Anda.
 5. **Di mana saya dapat menemukan dukungan jika saya mengalami masalah?**
-   - Mengunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10) untuk bantuan dan saran komunitas.
+   - Mengunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14) untuk bantuan dan saran komunitas.
 
 ## Sumber daya
 - **Dokumentasi**:Jelajahi selengkapnya [Dokumentasi Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
 - **Unduh**:Dapatkan versi terbaru dari [Rilis](https://releases.aspose.com/imaging/net/)
 - **Pembelian & Uji Coba Gratis**Akses versi uji coba atau beli lisensi melalui [Aspose Pembelian](https://purchase.aspose.com/buy) Dan [Uji Coba Gratis](https://releases.aspose.com/imaging/net/).
 - **Lisensi Sementara**: Minta lisensi sementara dari [Aspose Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**:Dapatkan bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**:Dapatkan bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

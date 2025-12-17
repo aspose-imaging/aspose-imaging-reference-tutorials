@@ -145,7 +145,7 @@ A5: Xử lý hình ảnh song song khi có thể và đảm bảo xử lý đún
 - **Mua giấy phép**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Hãy thử xem](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Yêu cầu ở đây](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Đặt câu hỏi](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Đặt câu hỏi](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình với Aspose.Imaging cho .NET ngay hôm nay và khai thác sức mạnh của siêu dữ liệu hình ảnh!
 

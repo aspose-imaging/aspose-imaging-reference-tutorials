@@ -197,7 +197,7 @@ try (FileOutputStream fs = new FileOutputStream("YOUR_OUTPUT_DIRECTORY/Animation
 - [Αγορά Άδειας Χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Αίτηση Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον ολοκληρωμένο οδηγό, είστε πλέον εξοπλισμένοι για να χειρίζεστε την επεξεργασία εικόνων WebP σε Java με αποτελεσματικότητα και σιγουριά. Καλή κωδικοποίηση!
 

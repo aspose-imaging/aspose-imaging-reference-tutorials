@@ -147,7 +147,7 @@ Neste guia, exploramos como implementar o licenciamento medido com o Aspose.Imag
 - Experimente ainda mais integrando o licenciamento medido em fluxos de trabalho mais complexos.
 - Explore recursos adicionais oferecidos pelo Aspose.Imaging que podem aprimorar os recursos do seu aplicativo.
 
-Incentivamos você a experimentar esta implementação em seus projetos. Se tiver dúvidas ou precisar de suporte, não hesite em nos contatar através do [Fórum da comunidade Aspose](https://forum.aspose.com/c/imaging/10).
+Incentivamos você a experimentar esta implementação em seus projetos. Se tiver dúvidas ou precisar de suporte, não hesite em nos contatar através do [Fórum da comunidade Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Seção de perguntas frequentes
 **T1: O que é licenciamento medido?**

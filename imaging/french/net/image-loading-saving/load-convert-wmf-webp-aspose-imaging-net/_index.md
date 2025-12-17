@@ -191,7 +191,7 @@ Prêt à mettre en pratique vos nouvelles compétences ? Essayez ces fonctionna
 - [Licence d'achat](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/net/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 Exploitez ces ressources pour approfondir votre compréhension et améliorer votre implémentation d'Aspose.Imaging pour .NET. Bon codage !
 

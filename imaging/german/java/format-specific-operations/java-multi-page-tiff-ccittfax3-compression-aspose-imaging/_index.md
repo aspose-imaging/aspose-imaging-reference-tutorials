@@ -245,7 +245,7 @@ In diesem Tutorial haben Sie gelernt, wie Sie mehrseitige TIFF-Dateien mit CCITT
 - **Kaufen**: https://purchase.aspose.com/buy
 - **Kostenlose Testversion**: https://releases.aspose.com/imaging/java/
 - **Temporäre Lizenz**: https://purchase.aspose.com/temporary-license/
-- **Unterstützung**: https://forum.aspose.com/c/imaging/10
+- **Unterstützung**: https://forum.aspose.com/c/imaging/14
 
 Nachdem Sie nun über das entsprechende Wissen verfügen, können Sie mit der Implementierung und Erkundung dieser Techniken in Ihren Java-Projekten beginnen!
 

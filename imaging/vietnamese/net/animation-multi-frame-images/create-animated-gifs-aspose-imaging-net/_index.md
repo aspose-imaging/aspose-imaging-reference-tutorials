@@ -153,7 +153,7 @@ Các bước tiếp theo bao gồm thử nghiệm với các chuỗi khung hình
 - **Mua**: [Mua bản quyền Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Aspose.Imaging dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy sử dụng những tài nguyên này và bắt đầu tạo ảnh GIF động ngay hôm nay!
 

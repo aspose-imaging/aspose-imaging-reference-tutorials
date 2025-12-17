@@ -196,7 +196,7 @@ Explore más funciones de Aspose.Imaging profundizando en su documentación comp
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Solicitud de licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Al dominar estas técnicas, estarás bien preparado para gestionar tareas complejas de procesamiento de imágenes en tus aplicaciones Java. ¡Feliz programación!
 

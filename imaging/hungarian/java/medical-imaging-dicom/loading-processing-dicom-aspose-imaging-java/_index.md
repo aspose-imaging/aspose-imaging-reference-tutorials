@@ -182,7 +182,7 @@ Az Aspose.Imaging további funkcióinak felfedezéséhez érdemes lehet kiprób�
 - [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével hatékonyan kezelheted a DICOM képeket az Aspose.Imaging for Java segítségével. Jó kódolást!
 

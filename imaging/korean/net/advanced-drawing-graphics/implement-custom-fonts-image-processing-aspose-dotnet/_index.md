@@ -160,7 +160,7 @@ image.Save(outputFileName);
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/net/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 튜토리얼이 Aspose.Imaging for .NET을 효과적으로 사용하는 데 도움이 되었기를 바랍니다. 즐거운 코딩 되세요!
 

@@ -154,7 +154,7 @@ Aspose.Imaging Java를 사용하여 DICOM 이미지를 회색조 처리하는 �
 - **구입**: [Aspose 제품 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료로 체험해보세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [여기에서 요청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [Aspose 커뮤니티 지원](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [Aspose 커뮤니티 지원](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging Java와 함께 여정을 떠나 Java에서 이미지 처리의 광대한 잠재력을 탐험해보세요!
 

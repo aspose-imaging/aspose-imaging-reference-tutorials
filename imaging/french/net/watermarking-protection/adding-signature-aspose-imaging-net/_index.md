@@ -161,7 +161,7 @@ Pour poursuivre votre exploration, pensez à tester d'autres fonctionnalités d'
 - [Acheter une licence](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/net/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 Grâce à ces ressources, vous êtes prêt à explorer plus en profondeur et à exploiter tout le potentiel d'Aspose.Imaging pour vos besoins en traitement d'images. Bon codage !
 

@@ -178,7 +178,7 @@ A: Ja, Aspose.Imaging stöder ett brett utbud av bildformat. Kontrollera [dokume
 
 **F: Var kan jag hitta hjälp om jag stöter på problem?**
 
-A: Besök [Aspose supportforum](https://forum.aspose.com/c/imaging/10) för hjälp från samhället och Aspose-experter.
+A: Besök [Aspose supportforum](https://forum.aspose.com/c/imaging/14) för hjälp från samhället och Aspose-experter.
 
 ## Resurser
 

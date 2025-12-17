@@ -150,7 +150,7 @@ A5: Las tareas incluyen cambio de tamaño, conversión de formato y edición ava
 - **Compra:** Explora las opciones de licencia en [Compra de Aspose](https://purchase.aspose.com/buy).
 - **Prueba gratuita:** Comience con una prueba a través de [aquí](https://releases.aspose.com/imaging/net/).
 - **Licencia temporal:** Solicite uno para realizar pruebas extendidas a través de [este enlace](https://purchase.aspose.com/temporary-license/).
-- **Apoyo:** Únase al foro de la comunidad en [Soporte de Aspose](https://forum.aspose.com/c/imaging/10).
+- **Apoyo:** Únase al foro de la comunidad en [Soporte de Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

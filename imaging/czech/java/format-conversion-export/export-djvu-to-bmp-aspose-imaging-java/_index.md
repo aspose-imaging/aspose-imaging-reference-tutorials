@@ -209,7 +209,7 @@ A: Ten [Dokumentace k Aspose.Imaging](https://reference.aspose.com/imaging/java/
 - **Nákup**: [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Žádost zde](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na cestu s Aspose.Imaging Java a transformujte způsob, jakým zvládáte konverze obrázků, ještě dnes!
 

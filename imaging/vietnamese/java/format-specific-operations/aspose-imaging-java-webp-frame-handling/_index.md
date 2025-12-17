@@ -168,7 +168,7 @@ Kiểm tra mức sử dụng bộ nhớ và đảm bảo mọi tài nguyên đư
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu với bản dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy thực hiện bước tiếp theo và bắt đầu áp dụng những kỹ thuật này vào dự án của bạn ngay hôm nay!
 

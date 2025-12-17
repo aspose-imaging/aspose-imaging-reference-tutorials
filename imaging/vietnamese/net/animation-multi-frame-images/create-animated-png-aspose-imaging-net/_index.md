@@ -172,7 +172,7 @@ Bây giờ bạn đã học cách tạo APNG từ một hình ảnh duy nhất b
 - **Mua**: Để có giấy phép đầy đủ, hãy truy cập [Mua Aspose](https://purchase.aspose.com/buy).
 - **Dùng thử miễn phí**: Bắt đầu bằng một thử nghiệm tại [Bản dùng thử miễn phí của Aspose](https://releases.aspose.com/imaging/net/).
 - **Giấy phép tạm thời**: Nhận quyền truy cập tạm thời thông qua [Trang giấy phép](https://purchase.aspose.com/temporary-license/).
-- **Ủng hộ**: Tham gia thảo luận hoặc đặt câu hỏi trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10).
+- **Ủng hộ**: Tham gia thảo luận hoặc đặt câu hỏi trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14).
 
 Bắt đầu hành trình tạo ra những hình ảnh động hấp dẫn với Aspose.Imaging cho .NET, nâng cao cả kỹ năng kỹ thuật và kết quả dự án của bạn.
 

@@ -172,7 +172,7 @@ Para uma exploração mais aprofundada, considere experimentar outros formatos d
 - **Licença de compra:** [Compre Aspose.License](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Iniciar teste gratuito](https://releases.aspose.com/imaging/net/)
 - **Licença temporária:** [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Fórum de suporte:** [Suporte Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Fórum de suporte:** [Suporte Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Embarque em sua jornada com o Aspose.Imaging for .NET hoje mesmo e descubra novas possibilidades no processamento de imagens!
 

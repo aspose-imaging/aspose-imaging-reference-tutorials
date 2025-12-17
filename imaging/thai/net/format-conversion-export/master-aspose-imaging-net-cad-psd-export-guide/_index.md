@@ -168,14 +168,14 @@ if (File.Exists(outputFilePath))
 4. **มีข้อจำกัดเกี่ยวกับขนาดไฟล์ CAD ที่ฉันสามารถประมวลผลได้หรือไม่?**
    - การประมวลผลไฟล์ขนาดใหญ่จะต้องใช้หน่วยความจำเพิ่มมากขึ้น ดังนั้นควรเพิ่มประสิทธิภาพตามความจำเป็นโดยขึ้นอยู่กับความสามารถของระบบของคุณ
 5. **ฉันสามารถขอความช่วยเหลือได้ที่ไหนหากประสบปัญหา?**
-   - เยี่ยม [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10) เพื่อขอความช่วยเหลือและคำแนะนำชุมชน
+   - เยี่ยม [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14) เพื่อขอความช่วยเหลือและคำแนะนำชุมชน
 
 ## ทรัพยากร
 - **เอกสารประกอบ**:สำรวจเต็มรูปแบบ [เอกสารประกอบ Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
 - **ดาวน์โหลด**: รับเวอร์ชันล่าสุดได้จาก [การเปิดตัว](https://releases.aspose.com/imaging/net/)
 - **สั่งซื้อและทดลองใช้ฟรี**เข้าถึงเวอร์ชันทดลองใช้หรือซื้อใบอนุญาตผ่าน [การซื้อ Aspose](https://purchase.aspose.com/buy) และ [ทดลองใช้งานฟรี](https://releases-aspose.com/imaging/net/).
 - **ใบอนุญาตชั่วคราว**: ขอใบอนุญาตชั่วคราวจาก [ใบอนุญาตชั่วคราว Aspose](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน**:รับความช่วยเหลือเกี่ยวกับ [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน**:รับความช่วยเหลือเกี่ยวกับ [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

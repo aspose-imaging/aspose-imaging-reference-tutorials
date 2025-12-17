@@ -172,7 +172,7 @@ V: Bár technikailag megvalósítható, a szélsőséges beállítások ronthatj
 - **Licenc vásárlása**: [Vásároljon most](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Kezdés](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Kérelem itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Aspose.Imaging közösség](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Aspose.Imaging közösség](https://forum.aspose.com/c/imaging/14)
 
 Ez az útmutató átfogó forrásként szolgálhat a fényerő-beállítások elsajátításához az Aspose.Imaging for .NET segítségével. Jó kódolást!
 

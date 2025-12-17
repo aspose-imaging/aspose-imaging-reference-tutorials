@@ -142,7 +142,7 @@ Las mejores prácticas incluyen el uso de `using` declaraciones para la eliminac
 ## Conclusión
 Ya aprendió a dibujar imágenes rasterizadas en lienzos EMF con Aspose.Imaging para .NET. Esta función puede mejorar significativamente la calidad visual de sus proyectos, ofreciendo una combinación de precisión vectorial y riqueza rasterizada.
 
-A medida que avance, considere explorar funciones adicionales de Aspose.Imaging o integrar esta funcionalidad en flujos de trabajo más amplios dentro de sus aplicaciones. Si tiene más preguntas, no dude en contactarnos a través del [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10).
+A medida que avance, considere explorar funciones adicionales de Aspose.Imaging o integrar esta funcionalidad en flujos de trabajo más amplios dentro de sus aplicaciones. Si tiene más preguntas, no dude en contactarnos a través del [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Sección de preguntas frecuentes
 **1. ¿Qué es un archivo EMF?**

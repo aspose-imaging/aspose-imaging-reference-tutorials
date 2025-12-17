@@ -196,7 +196,7 @@ Probeer vervolgens deze mogelijkheid te integreren in een bestaand project of ve
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Verken deze bronnen om uw begrip te verdiepen en de beeldverwerkingsmogelijkheden van uw applicatie verder te verbeteren. Veel plezier met coderen!
 

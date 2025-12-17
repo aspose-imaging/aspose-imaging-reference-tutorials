@@ -182,7 +182,7 @@ Aspose.Imaging รองรับรูปแบบต่างๆ เช่น 
 - **ซื้อ:** [ซื้อ Aspose.Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี:** [ทดลองใช้ Aspose.Imaging ฟรี](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว:** [การขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน:** [การสนับสนุนฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10) 
+- **สนับสนุน:** [การสนับสนุนฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14) 
 
 ด้วยคู่มือที่ครอบคลุมนี้ คุณจะพร้อมแล้วในการเริ่มใช้ Aspose.Imaging สำหรับ Java ในโปรเจ็กต์ของคุณ ขอให้สนุกกับการเขียนโค้ด!
 

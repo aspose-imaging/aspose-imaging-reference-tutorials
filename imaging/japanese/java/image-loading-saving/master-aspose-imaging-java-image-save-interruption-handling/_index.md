@@ -231,7 +231,7 @@ Aspose.Imaging を使用する際のパフォーマンスの最適化には、�
    - 高い同時実行性を処理するには、スレッド プールと効率的なリソース管理プラクティスを実装することを検討してください。
 
 5. **Aspose.Imaging の使用時によくある問題をトラブルシューティングするにはどうすればよいですか?**
-   - 公式をチェック [ドキュメント](https://reference.aspose.com/imaging/java/) 詳しいガイドについては、 [Asposeフォーラム](https://forum.aspose.com/c/imaging/10) コミュニティサポートのため。
+   - 公式をチェック [ドキュメント](https://reference.aspose.com/imaging/java/) 詳しいガイドについては、 [Asposeフォーラム](https://forum.aspose.com/c/imaging/14) コミュニティサポートのため。
 
 ## リソース
 

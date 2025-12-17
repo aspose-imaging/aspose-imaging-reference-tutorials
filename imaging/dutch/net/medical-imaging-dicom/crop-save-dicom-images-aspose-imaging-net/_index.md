@@ -184,7 +184,7 @@ Probeer de oplossing vandaag nog uit en ontdek of deze past bij uw workflow!
 - **Licentie kopen:** [Koop Aspose-producten](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Aspose.Imaging gratis proefversies](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie:** [Tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum:** [Aspose Ondersteuningscommunity](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum:** [Aspose Ondersteuningscommunity](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

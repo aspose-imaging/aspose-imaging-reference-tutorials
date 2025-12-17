@@ -191,7 +191,7 @@ Klaar om het uit te proberen? Begin vandaag nog met de implementatie van deze op
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Ontdek deze bronnen om je kennis te verdiepen en de mogelijkheden van Aspose.Imaging in je projecten uit te breiden. Veel plezier met coderen!
 

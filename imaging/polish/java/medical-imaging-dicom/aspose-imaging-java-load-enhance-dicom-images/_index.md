@@ -203,7 +203,7 @@ Gotowy do wdrożenia tego rozwiązania? Wypróbuj je i zobacz, jak ulepszy Twoje
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Dzięki temu samouczkowi jesteś teraz wyposażony w narzędzia do ulepszania swoich aplikacji Java o potężne możliwości przetwarzania obrazu przy użyciu Aspose.Imaging. Miłego kodowania!
 

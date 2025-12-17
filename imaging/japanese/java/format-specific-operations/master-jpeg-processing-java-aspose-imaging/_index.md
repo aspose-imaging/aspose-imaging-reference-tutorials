@@ -224,7 +224,7 @@ Aspose.Imaging for Javaを使用してJPEG画像を読み込み、デコード�
 - **購入：** [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料トライアルを始める](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドが、Aspose.Imaging for Java を使った JPEG 画像処理の習得にお役に立てば幸いです。ぜひこれらのソリューションを実装して、プロジェクトを効果的に強化できるかどうかお試しください。
 

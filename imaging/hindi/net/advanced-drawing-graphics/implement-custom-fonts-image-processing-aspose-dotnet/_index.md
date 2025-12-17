@@ -160,7 +160,7 @@ image.Save(outputFileName);
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 हमें उम्मीद है कि इस ट्यूटोरियल ने आपको .NET के लिए Aspose.Imaging का प्रभावी ढंग से उपयोग करने में बहुमूल्य जानकारी प्रदान की है। हैप्पी कोडिंग!
 

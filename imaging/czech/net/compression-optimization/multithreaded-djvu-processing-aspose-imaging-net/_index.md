@@ -189,7 +189,7 @@ Implementací vícevláknového zpracování DJVU s Aspose.Imaging .NET můžete
 - [Zakoupit licence](https://purchase.aspose.com/buy)
 - [Bezplatný zkušební přístup](https://releases.aspose.com/imaging/net/)
 - [Informace o dočasné licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) 
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Vydejte se na cestu k efektivnímu zpracování obrazu s Aspose.Imaging a odemkněte plný potenciál vícevláknového zpracování obrazu DJVU v .NET!
 

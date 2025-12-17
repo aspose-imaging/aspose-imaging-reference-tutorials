@@ -182,7 +182,7 @@ Az útmutató követésével megtanultad, hogyan használhatod hatékonyan az As
 - **Letöltés**: [Aspose.Imaging kiadások](https://releases.aspose.com/imaging/java/)
 - **Vásárlás**: [Aspose licencelési lehetőségek](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Aspose támogató közösség](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Aspose támogató közösség](https://forum.aspose.com/c/imaging/14)
 
 Most, hogy minden eszközzel és tudással rendelkezel, kezdj el kísérletezni az Aspose.Imaging for Java programmal, hogy szabadjára engedhesd kreativitásodat a képfeldolgozásban!
 

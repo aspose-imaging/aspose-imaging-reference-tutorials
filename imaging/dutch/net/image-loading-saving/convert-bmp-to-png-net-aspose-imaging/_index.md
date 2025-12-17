@@ -130,7 +130,7 @@ In deze tutorial hebben we besproken hoe je BMP-bestanden efficiënt naar PNG's 
 
 Om uw vaardigheden verder te verbeteren:
 - Ontdek de extra functies van Aspose.Imaging, zoals beeldmanipulatie of formaatconversie.
-- Betrek de gemeenschap bij [Aspose's forum](https://forum.aspose.com/c/imaging/10) om inzichten te delen en advies te vragen.
+- Betrek de gemeenschap bij [Aspose's forum](https://forum.aspose.com/c/imaging/14) om inzichten te delen en advies te vragen.
 
 Klaar om afbeeldingen in uw .NET-applicaties te converteren? Probeer het vandaag nog!
 

@@ -250,7 +250,7 @@ Ready to take your image conversion capabilities to the next level? Try implemen
 - [Download Aspose.Imaging for Java](https://releases.aspose.com/imaging/java/)
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Free Trial and Temporary License](https://releases.aspose.com/imaging/java/)
-- [Community Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Community Support Forum](https://forum.aspose.com/c/imaging/14)
 
 By following this guide, you're well-equipped to handle image conversion tasks with ease using Aspose.Imaging for Java. Happy coding!
 

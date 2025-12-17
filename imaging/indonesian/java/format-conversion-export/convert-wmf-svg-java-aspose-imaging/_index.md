@@ -198,7 +198,7 @@ A4: Ya, tetapi penting untuk mengelola sumber daya secara efisien dan menggunaka
 
 **Q5: Bagaimana saya bisa mendapatkan dukungan lebih lanjut jika saya mengalami masalah dengan Aspose.Imaging?**
 
-A5: Kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/10) untuk dukungan komunitas atau hubungi layanan pelanggan mereka secara langsung melalui halaman pembelian.
+A5: Kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/14) untuk dukungan komunitas atau hubungi layanan pelanggan mereka secara langsung melalui halaman pembelian.
 
 ## Sumber daya
 

@@ -196,7 +196,7 @@ Mindig használj try-catch blokkokat a lehetséges IOException kivételek vagy m
 - **Vásárlás**A teljes licencért látogasson el ide: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy).
 - **Ingyenes próbaverzió**Kezdje egy próbaverzióval itt: [Aspose.Imaging ingyenes letöltések](https://releases.aspose.com/imaging/java/).
 - **Ideiglenes engedély**Szerezzen be egy ideiglenes engedélyt [Aspose licencelési oldal](https://purchase.aspose.com/temporary-license/).
-- **Támogatás**Csatlakozz a beszélgetéshez a következőn: [Aspose Fórum](https://forum.aspose.com/c/imaging/10).
+- **Támogatás**Csatlakozz a beszélgetéshez a következőn: [Aspose Fórum](https://forum.aspose.com/c/imaging/14).
 
 Ezekkel az anyagokkal felkészülhetsz arra, hogy mélyebben belemerülj a képfeldolgozásba az Aspose.Imaging for Java segítségével. Jó kódolást!
 

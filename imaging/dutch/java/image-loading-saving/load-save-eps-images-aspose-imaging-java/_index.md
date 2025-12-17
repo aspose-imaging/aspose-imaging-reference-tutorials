@@ -234,7 +234,7 @@ A: Maak gebruik van asynchrone bewerkingen, beheer het geheugen effectief en ove
 - **Aankoop:** [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Probeer Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Een tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -182,7 +182,7 @@ image.Save(outputFilePath, tiffOptions);
 4. **TIFF 파일을 변환한 후 손상된 것으로 나타나면 어떻게 해야 합니까?**
    - 래스터화 옵션이 이미지 요구 사항과 일치하는지 확인하고 파일 경로에 오류가 있는지 확인하세요.
 5. **Aspose.Imaging에서 문제가 발생하면 지원을 받을 수 있나요?**
-   - 네, 방문하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10) 커뮤니티 지원을 요청하거나 지원팀에 직접 문의하세요.
+   - 네, 방문하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/14) 커뮤니티 지원을 요청하거나 지원팀에 직접 문의하세요.
 
 ## 자원
 - [Aspose.Imaging 문서](https://reference.aspose.com/imaging/net/)

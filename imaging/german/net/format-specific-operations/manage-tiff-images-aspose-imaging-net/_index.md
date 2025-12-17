@@ -157,7 +157,7 @@ A: Nutzen Sie die Stapelverarbeitungsfunktionen von Aspose.Imaging, um mehrere B
 A: Während die Leistung bei sehr großen Dateien variieren kann, ist Aspose.Imaging darauf ausgelegt, große Bilddaten effizient zu verarbeiten.
 
 **F5: Welche Supportoptionen stehen mir zur Verfügung, wenn Probleme auftreten?**
-A: Zugriff auf ausführliche Dokumentation und Community-Foren für Tipps zur Fehlerbehebung unter [Aspose-Unterstützung](https://forum.aspose.com/c/imaging/10).
+A: Zugriff auf ausführliche Dokumentation und Community-Foren für Tipps zur Fehlerbehebung unter [Aspose-Unterstützung](https://forum.aspose.com/c/imaging/14).
 
 ## Ressourcen
 - **Dokumentation**: [Aspose.Imaging .NET Dokumentation](https://reference.aspose.com/imaging/net/)

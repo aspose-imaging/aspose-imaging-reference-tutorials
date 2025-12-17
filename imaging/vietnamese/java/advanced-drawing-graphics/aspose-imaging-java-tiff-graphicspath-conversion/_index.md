@@ -252,7 +252,7 @@ Bạn đã nắm vững cách chuyển đổi tài nguyên đường dẫn trong
 - **Mua bản quyền:** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
 - **Bản dùng thử:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 ---
 

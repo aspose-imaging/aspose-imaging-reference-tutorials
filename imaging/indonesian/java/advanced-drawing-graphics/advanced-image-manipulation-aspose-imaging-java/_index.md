@@ -257,7 +257,7 @@ A5: Pastikan format output mendukung transparansi (misalnya, PNG). Pengaturan ya
 - **Pembelian**: [Halaman Pembelian Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Uji Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan**: [Komunitas Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan**: [Komunitas Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Selamat membuat kode!
 

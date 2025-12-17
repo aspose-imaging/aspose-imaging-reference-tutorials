@@ -191,7 +191,7 @@ Hemos explorado cómo cargar imágenes WMF y convertirlas a formato WebP con Asp
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/net/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Aproveche estos recursos para profundizar su comprensión y mejorar su implementación de Aspose.Imaging para .NET. ¡Que disfrute programando!
 

@@ -210,7 +210,7 @@ A: Zorg ervoor dat je overlay- en achtergrondafbeeldingen een hoge resolutie heb
 - **Aankooplicentie**: [Aspose Aankooppagina](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer Aspose.Imaging voor Java](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Een tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Aspose Imaging-ondersteuning](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Aspose Imaging-ondersteuning](https://forum.aspose.com/c/imaging/14)
 
 Met deze handleiding bent u goed voorbereid om te beginnen met het blenden van afbeeldingen met Aspose.Imaging voor Java. Veel plezier met coderen!
 

@@ -209,7 +209,7 @@ Anda kini telah menguasai cara mengubah ukuran gambar JPG dan membuat file TIFF 
 5. **Bagaimana bingkai TIFF meningkatkan manajemen gambar?**  
    Dengan menggabungkan beberapa gambar menjadi satu berkas, membuatnya lebih mudah untuk menangani dan mendistribusikan koleksi besar gambar terkait.
 
-Untuk sumber daya lebih lanjut, lihat Aspose.Imaging [dokumentasi](https://reference.aspose.com/imaging/java/) dan jelajahi mereka [halaman unduhan](https://releases.aspose.com/imaging/java/) untuk pembaruan terkini. Untuk pertanyaan dukungan apa pun, kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+Untuk sumber daya lebih lanjut, lihat Aspose.Imaging [dokumentasi](https://reference.aspose.com/imaging/java/) dan jelajahi mereka [halaman unduhan](https://releases.aspose.com/imaging/java/) untuk pembaruan terkini. Untuk pertanyaan dukungan apa pun, kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

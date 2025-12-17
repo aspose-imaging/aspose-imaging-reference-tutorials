@@ -218,7 +218,7 @@ By following this guide, you have learned how to leverage Aspose.Imaging for Jav
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/java/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Embrace the power of Aspose.Imaging Java and transform your image processing capabilities today!
 

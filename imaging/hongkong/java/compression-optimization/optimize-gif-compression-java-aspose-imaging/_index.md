@@ -178,7 +178,7 @@ A3：參觀 [臨時執照頁面](https://purchase.aspose.com/temporary-license/)
 A4：常見的挑戰包括在檔案大小和品質之間找到適當的平衡，以及管理大型影像的記憶體使用情況。
 
 **問題 5：Aspose.Imaging 用戶有社群或支援論壇嗎？**  
-A5：是的，您可以訪問 [Aspose 的成像論壇](https://forum.aspose.com/c/imaging/10) 向其他使用者和 Aspose 團隊尋求協助。
+A5：是的，您可以訪問 [Aspose 的成像論壇](https://forum.aspose.com/c/imaging/14) 向其他使用者和 Aspose 團隊尋求協助。
 
 ## 資源
 
@@ -187,7 +187,7 @@ A5：是的，您可以訪問 [Aspose 的成像論壇](https://forum.aspose.com/
 - **購買：** 考慮購買許可證以獲得完全訪問權限 [Aspose 購買頁面](https://purchase.aspose.com/buy)
 - **免費試用：** 透過以下方式開始評估 [Aspose 的免費試用版](https://releases.aspose.com/imaging/java/)
 - **臨時執照：** 在此申請臨時許可證： [Aspose臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支持：** 加入討論 [Aspose Imaging 支援論壇](https://forum.aspose.com/c/imaging/10)
+- **支持：** 加入討論 [Aspose Imaging 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 按照本指南，您可以使用 Aspose.Imaging for Java 有效地管理和優化 GIF 文件，確保在減小文件大小的同時獲得高品質的視覺效果。祝您編碼愉快！
 

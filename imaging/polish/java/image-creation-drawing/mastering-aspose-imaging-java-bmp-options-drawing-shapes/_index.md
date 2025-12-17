@@ -214,7 +214,7 @@ A: Oczywiście. Wydajnie obsługuje różne formaty obrazów, w tym pliki BMP o 
 - **Zakup**: [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Wypróbuj Aspose.Imaging za darmo](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**: [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Teraz, gdy posiadasz już tę wiedzę, możesz spróbować zaimplementować te funkcje w swoich aplikacjach Java!
 

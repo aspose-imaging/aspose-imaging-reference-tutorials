@@ -131,7 +131,7 @@ using (var image = Aspose.Imaging.Image.Load(dataDir + "/halfGigImage.png"))
 答：是的，在從 Aspose 獲得適當的許可證後。
 
 **Q：如果我遇到問題，可以獲得支援嗎？**
-答：參觀 [Aspose 的支援論壇](https://forum.aspose.com/c/imaging/10) 尋求協助或查閱文件。
+答：參觀 [Aspose 的支援論壇](https://forum.aspose.com/c/imaging/14) 尋求協助或查閱文件。
 
 ## 資源
 - **文件:** [Aspose.Imaging .NET文檔](https://reference.aspose.com/imaging/net/)

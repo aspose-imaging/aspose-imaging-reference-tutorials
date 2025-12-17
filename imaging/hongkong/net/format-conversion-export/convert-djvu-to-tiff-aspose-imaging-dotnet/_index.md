@@ -174,7 +174,7 @@ using Aspose.Imaging;
 - **購買**： [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用**： [試用免費版本](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

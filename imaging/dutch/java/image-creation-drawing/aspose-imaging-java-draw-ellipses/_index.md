@@ -206,7 +206,7 @@ Door deze handleiding te volgen, heb je geleerd hoe je ellipsen tekent met zowel
 - **Aankoop**: https://purchase.aspose.com/buy
 - **Gratis proefperiode**: https://releases.aspose.com/imaging/java/
 - **Tijdelijke licentie**: https://purchase.aspose.com/tijdelijke-licentie/
-- **Steun**: https://forum.aspose.com/c/imaging/10
+- **Steun**: https://forum.aspose.com/c/imaging/14
 
 We hopen dat je deze tutorial nuttig vond. Veel plezier met coderen!
 

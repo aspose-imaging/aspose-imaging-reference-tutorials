@@ -157,7 +157,7 @@ svgImage.Save(outputFilePath, pngOptions);
 - [Лицензия на покупку](https://purchase.aspose.com/buy)
 - [Бесплатная пробная загрузка](https://releases.aspose.com/imaging/net/)
 - [Заявление на временную лицензию](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки](https://forum.aspose.com/c/imaging/14)
 
 Изучите эти ресурсы, чтобы углубить свои знания и использовать Aspose.Imaging для .NET в своих проектах по разработке. Удачного кодирования!
 

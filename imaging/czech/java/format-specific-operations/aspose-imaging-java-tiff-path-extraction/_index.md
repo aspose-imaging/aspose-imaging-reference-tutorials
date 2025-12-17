@@ -211,7 +211,7 @@ Dodržováním tohoto návodu jste se naučili, jak využít Aspose.Imaging pro 
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Využijte sílu Aspose.Imaging v Javě a transformujte své schopnosti zpracování obrazu ještě dnes!
 

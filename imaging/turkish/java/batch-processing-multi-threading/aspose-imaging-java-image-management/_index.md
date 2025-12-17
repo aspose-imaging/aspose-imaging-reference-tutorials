@@ -163,7 +163,7 @@ Artık Aspose.Imaging for Java kullanarak görüntüleri nasıl yükleyeceğiniz
 - **Satın almak**: Lisansınızı şu adresten satın alın: [Aspose Satın Alma](https://purchase.aspose.com/buy).
 - **Ücretsiz Deneme**:Sitelerinde bulunan ücretsiz deneme sürümüyle test edin.
 - **Geçici Lisans**: Sınırlama olmaksızın tüm özelliklere erişim için bir tane edinin.
-- **Destek**: Topluluktan yardım alın [Aspose Forum](https://forum.aspose.com/c/imaging/10). 
+- **Destek**: Topluluktan yardım alın [Aspose Forum](https://forum.aspose.com/c/imaging/14). 
 
 Bu kapsamlı kılavuzu takip ederek, artık Aspose.Imaging'i kullanarak Java uygulamalarınızda görüntü dosyalarını etkili bir şekilde işleyebilecek donanıma sahipsiniz!
 

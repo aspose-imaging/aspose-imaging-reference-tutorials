@@ -142,7 +142,7 @@ R : Absolument. Utilisez le `Save` méthode avec différentes extensions de fich
 - **Licence d'achat :** [Options d'achat Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Obtenez une copie d'évaluation gratuite](https://releases.aspose.com/imaging/net/)
 - **Licence temporaire :** [Demander une licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance :** [Communauté de soutien Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance :** [Communauté de soutien Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Explorez ces ressources pour approfondir votre compréhension et améliorer vos implémentations avec Aspose.Imaging pour .NET. Bon codage !
 

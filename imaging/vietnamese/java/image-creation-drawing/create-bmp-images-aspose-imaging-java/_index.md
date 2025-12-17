@@ -170,7 +170,7 @@ A3: Sử dụng các kỹ thuật quản lý bộ nhớ hiệu quả như thử 
 A4: Có, Aspose.Imaging có thể được sử dụng cùng với các thư viện Java khác để tạo ra các giải pháp xử lý hình ảnh toàn diện.
 
 **Câu hỏi 5: Tôi có thể nhận được hỗ trợ ở đâu nếu gặp vấn đề?**
-A5: Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) để được hỗ trợ và hướng dẫn cộng đồng.
+A5: Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) để được hỗ trợ và hướng dẫn cộng đồng.
 
 ## Tài nguyên
 

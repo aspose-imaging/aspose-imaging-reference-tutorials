@@ -166,7 +166,7 @@ Pronti a implementare questa soluzione? Approfondite l'argomento sperimentando d
 - [Acquistare](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Seguendo questa guida completa, potrai sfruttare appieno il potenziale di Aspose.Imaging per Java per gestire efficacemente le immagini TIFF. Buon lavoro!
 

@@ -191,7 +191,7 @@ Les problèmes courants incluent une mauvaise gestion de l'élimination des imag
 - **Achat**: https://purchase.aspose.com/buy
 - **Essai gratuit**: https://releases.aspose.com/imaging/java/
 - **Permis temporaire**: https://purchase.aspose.com/temporary-license/
-- **Soutien**: https://forum.aspose.com/c/imaging/10
+- **Soutien**: https://forum.aspose.com/c/imaging/14
 
 Nous espérons que ce guide vous sera utile pour vos projets. Bon codage !
 

@@ -172,7 +172,7 @@ rasterImage.Save("YOUR_OUTPUT_DIRECTORY/AdjustBrightness_out.tiff", tiffOptions)
 - **شراء الترخيص**: [اشتري الآن](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [البدء](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [اطلب هنا](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم**: [مجتمع Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم**: [مجتمع Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 يُفترض أن يكون هذا الدليل مرجعًا شاملًا لإتقان ضبط السطوع باستخدام Aspose.Imaging لـ .NET. برمجة ممتعة!
 

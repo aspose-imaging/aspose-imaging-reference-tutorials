@@ -165,7 +165,7 @@ Tegye meg a következő lépést: kísérletezzen különböző konfigurációkk
 - **Vásárlás:** Vásároljon licencet itt: [Aspose licencelési oldal](https://purchase.aspose.com/buy).
 - **Ingyenes próbaverzió:** Próbáld ki az Aspose.Imaging ingyenes próbaverzióját a kiadási oldalukon.
 - **Ideiglenes engedély:** Szerezzen kiterjesztett hozzáférést az ideiglenes licencelési opcióval.
-- **Támogatás:** Csatlakozzon a beszélgetésekhez, vagy kérjen segítséget a következő oldalon: [Aspose Fórum](https://forum.aspose.com/c/imaging/10).
+- **Támogatás:** Csatlakozzon a beszélgetésekhez, vagy kérjen segítséget a következő oldalon: [Aspose Fórum](https://forum.aspose.com/c/imaging/14).
 
 Bátorítunk kísérletezni, és integrálni a szinkronizált adatfolyam-hozzáférést Java-projektjeibe a fokozott stabilitás és teljesítmény érdekében!
 

@@ -216,7 +216,7 @@ Gratulacje! Udało Ci się pomyślnie przejść przez proces ładowania, konwert
    - Tak, można tworzyć skrypty przetwarzania wsadowego za pomocą pętli lub integrować je z systemami planowania zadań.
 
 5. **Gdzie mogę uzyskać pomoc, jeśli napotkam problemy?**
-   - Odwiedź [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10) w celu uzyskania pomocy i dyskusji z innymi użytkownikami.
+   - Odwiedź [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14) w celu uzyskania pomocy i dyskusji z innymi użytkownikami.
 
 ## Zasoby
 

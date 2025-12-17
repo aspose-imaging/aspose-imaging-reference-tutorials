@@ -171,7 +171,7 @@ Para garantizar un rendimiento óptimo al utilizar Aspose.Imaging:
 
 **Próximos pasos:**
 - Explore otras funciones de Aspose.Imaging como transformaciones y filtrado de imágenes.
-- Únete a la [Foro de Aspose.Imaging](https://forum.aspose.com/c/imaging/10) para compartir ideas o buscar asesoramiento de otros desarrolladores.
+- Únete a la [Foro de Aspose.Imaging](https://forum.aspose.com/c/imaging/14) para compartir ideas o buscar asesoramiento de otros desarrolladores.
 
 ¿Listo para llevar tus proyectos Java al siguiente nivel? ¡Sumérgete en la implementación de estas soluciones hoy mismo!
 
@@ -199,7 +199,7 @@ Para garantizar un rendimiento óptimo al utilizar Aspose.Imaging:
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Descarga de prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Solicitar Licencia Temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 ¡Comience a integrar Aspose.Imaging para Java hoy mismo y optimice sus flujos de trabajo de procesamiento de imágenes!
 

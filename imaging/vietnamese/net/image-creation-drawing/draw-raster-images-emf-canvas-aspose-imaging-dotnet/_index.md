@@ -142,7 +142,7 @@ Các biện pháp tốt nhất bao gồm sử dụng `using` các câu lệnh đ
 ## Phần kết luận
 Bây giờ bạn đã học cách vẽ hình ảnh raster lên canvas EMF bằng Aspose.Imaging cho .NET. Khả năng này có thể cải thiện đáng kể chất lượng hình ảnh của các dự án của bạn, mang lại sự kết hợp giữa độ chính xác của vector và độ phong phú của raster.
 
-Khi bạn tiến lên, hãy cân nhắc khám phá các tính năng bổ sung của Aspose.Imaging hoặc tích hợp chức năng này vào các quy trình làm việc lớn hơn trong các ứng dụng của bạn. Nếu bạn có thêm câu hỏi, đừng ngần ngại liên hệ qua [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10).
+Khi bạn tiến lên, hãy cân nhắc khám phá các tính năng bổ sung của Aspose.Imaging hoặc tích hợp chức năng này vào các quy trình làm việc lớn hơn trong các ứng dụng của bạn. Nếu bạn có thêm câu hỏi, đừng ngần ngại liên hệ qua [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Phần Câu hỏi thường gặp
 **1. Tệp EMF là gì?**

@@ -153,7 +153,7 @@ Daha fazla okuma ve araçlar için:
 - **Lisans Satın Al**: [Aspose Görüntülemeyi Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose Görüntüleme İndirmeleri](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumları**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumları**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

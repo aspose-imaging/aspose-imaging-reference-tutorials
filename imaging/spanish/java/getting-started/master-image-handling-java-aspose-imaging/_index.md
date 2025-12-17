@@ -178,7 +178,7 @@ A5: Si bien Aspose.Imaging no impone límites estrictos, procesar imágenes muy 
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Versión de prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Solicitud de licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo esta guía, ya está listo para implementar un manejo eficaz de imágenes en sus aplicaciones Java con Aspose.Imaging. ¡Que disfrute programando!
 

@@ -171,7 +171,7 @@ Som nästa steg, överväg att utforska ytterligare bildmanipuleringsfunktioner 
 - För kommersiellt bruk måste du köpa en licens. Testlicenser tillåter utvärdering men har begränsningar.
 
 **F4: Finns det support tillgänglig om jag stöter på problem?**
-- Ja, Aspose erbjuder communityforum och professionella supportalternativ. Besök deras [supportsida](https://forum.aspose.com/c/imaging/10) för mer information.
+- Ja, Aspose erbjuder communityforum och professionella supportalternativ. Besök deras [supportsida](https://forum.aspose.com/c/imaging/14) för mer information.
 
 **F5: Kan jag integrera den här funktionen i en webbapplikation?**
 - Absolut! Biblioteket är kompatibelt med .NET-ramverk som används i webbapplikationer, vilket möjliggör sömlös integration.

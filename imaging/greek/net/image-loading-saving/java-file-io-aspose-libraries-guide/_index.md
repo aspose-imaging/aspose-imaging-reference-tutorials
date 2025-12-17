@@ -156,7 +156,7 @@ writer.write("This is a sample output.\n");
 - [Αγορά Άδειας Χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/net/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/14)
 
 Κατακτώντας αυτές τις έννοιες, είστε σε καλό δρόμο για τη δημιουργία ισχυρών εφαρμογών Java που διαχειρίζονται αποτελεσματικά τις λειτουργίες εισόδου/εξόδου αρχείων. Καλή κωδικοποίηση!
 

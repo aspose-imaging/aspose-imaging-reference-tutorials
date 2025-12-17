@@ -187,7 +187,7 @@ Klaar om je vaardigheden in de praktijk te brengen? Probeer deze oplossing eens 
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Begin vol vertrouwen aan uw beeldverwerkingsreis door gebruik te maken van Aspose.Imaging voor Java en de krachtige Lanczos-resamplingmethode!
 

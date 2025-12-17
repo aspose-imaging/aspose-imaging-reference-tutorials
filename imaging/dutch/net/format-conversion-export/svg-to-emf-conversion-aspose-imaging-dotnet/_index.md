@@ -133,7 +133,7 @@ Je hebt nu geleerd hoe je SVG-bestanden naar EMF-formaat converteert met Aspose.
 **Volgende stappen:**
 - Ontdek meer functies van Aspose.Imaging
 - Experimenteer met verschillende conversieopties
-- Deel feedback of stel vragen in de [Aspose-forum](https://forum.aspose.com/c/imaging/10)
+- Deel feedback of stel vragen in de [Aspose-forum](https://forum.aspose.com/c/imaging/14)
 
 Klaar om deze vaardigheden te implementeren? Duik in je project en begin vandaag nog met converteren!
 
@@ -160,7 +160,7 @@ A5: Controleer de bestandspaden, zorg dat Aspose.Imaging correct is geïnstallee
 - **Aankoop**: [Koop een licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Begin met een gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bekijk gerust deze bronnen voor meer gedetailleerde begeleiding en ondersteuning bij de implementatie van uw oplossing. Veel plezier met coderen!
 

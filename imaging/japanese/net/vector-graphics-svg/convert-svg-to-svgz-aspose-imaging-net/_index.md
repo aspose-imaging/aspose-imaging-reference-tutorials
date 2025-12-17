@@ -149,7 +149,7 @@ Aspose.Imaging for .NET を使用して、SVG ファイルを圧縮された SVG
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET の旅に乗り出し、最適化されたベクター グラフィックスの可能性を今すぐ探求しましょう。
 

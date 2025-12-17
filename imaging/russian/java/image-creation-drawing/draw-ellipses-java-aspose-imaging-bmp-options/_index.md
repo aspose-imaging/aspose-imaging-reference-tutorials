@@ -191,7 +191,7 @@ try (Image image = Image.create(bmpCreateOptions, 100, 100)) {
 - [Купить лицензию](https://purchase.aspose.com/buy)
 - [Бесплатная пробная версия](https://releases.aspose.com/imaging/java/)
 - [Заявление на временную лицензию](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Используя Aspose.Imaging, вы можете улучшить свои приложения Java с помощью надежных функций обработки изображений. Удачного кодирования!
 

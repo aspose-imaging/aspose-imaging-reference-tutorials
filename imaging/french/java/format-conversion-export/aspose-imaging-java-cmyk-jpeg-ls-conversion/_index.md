@@ -173,7 +173,7 @@ Pour explorer davantage les fonctionnalités d'Aspose.Imaging, explorez sa docum
    - Envisagez de décomposer le processus en morceaux plus petits ou d’utiliser des méthodes économes en mémoire fournies par la bibliothèque.
 
 5. **Où puis-je obtenir de l’aide si je rencontre des problèmes ?**
-   - Visite [Forum d'assistance d'Aspose](https://forum.aspose.com/c/imaging/10) pour obtenir l'aide des experts de la communauté et du personnel d'Aspose.
+   - Visite [Forum d'assistance d'Aspose](https://forum.aspose.com/c/imaging/14) pour obtenir l'aide des experts de la communauté et du personnel d'Aspose.
 
 ## Ressources
 

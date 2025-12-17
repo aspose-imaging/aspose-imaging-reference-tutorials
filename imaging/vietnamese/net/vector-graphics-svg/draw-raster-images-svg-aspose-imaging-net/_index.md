@@ -187,7 +187,7 @@ Bạn đã sẵn sàng thử chưa? Hãy triển khai giải pháp này vào d�
 - **Mua**: [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Yêu cầu ở đây](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình cùng Aspose.Imaging cho .NET ngay hôm nay và thay đổi cách bạn xử lý hình ảnh trong ứng dụng của mình!
 

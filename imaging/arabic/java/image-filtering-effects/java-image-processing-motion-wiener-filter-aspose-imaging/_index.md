@@ -177,7 +177,7 @@ System.out.println("Output Directory: " + outputDir);
 - **شراء:** [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [نسخة تجريبية مجانية من Aspose](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة:** [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 يجب أن يمكّنك هذا الدليل الشامل من تطبيق Motion Wiener Filter بشكل فعال، مما يعزز مشروعات معالجة الصور المستندة إلى Java باستخدام Aspose.Imaging.
 

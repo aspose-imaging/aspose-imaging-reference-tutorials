@@ -215,7 +215,7 @@ Ebben az oktatóanyagban azt vizsgáltuk, hogy az Aspose.Imaging Java-hoz hogyan
 ### Következő lépések
 - Fedezze fel az Aspose.Imaging további konverziós lehetőségeit.
 - Integrálja ezt a funkciót egy nagyobb projektbe vagy munkafolyamatba.
-- Ossza meg visszajelzését, vagy kérjen támogatást a [Aspose közösségi fórum](https://forum.aspose.com/c/imaging/10).
+- Ossza meg visszajelzését, vagy kérjen támogatást a [Aspose közösségi fórum](https://forum.aspose.com/c/imaging/14).
 
 ## GYIK szekció
 
@@ -241,7 +241,7 @@ A5: Fedezd fel a [Aspose.Imaging dokumentáció](https://reference.aspose.com/im
 - **Vásárlás:** https://purchase.aspose.com/buy
 - **Ingyenes próbaverzió:** https://releases.aspose.com/imaging/java/
 - **Ideiglenes engedély:** https://purchase.aspose.com/temporary-license/
-- **Támogatás:** https://forum.aspose.com/c/imaging/10
+- **Támogatás:** https://forum.aspose.com/c/imaging/14
 
 Az Aspose.Imaging Java-hoz való felhasználásával egyszerűsítheted a képkonverziós folyamatokat, és új lehetőségeket tárhatsz fel a digitális médiakezelésben. Jó kódolást!
 

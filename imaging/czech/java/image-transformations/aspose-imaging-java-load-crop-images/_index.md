@@ -148,7 +148,7 @@ Jste připraveni implementovat toto řešení? Začněte experimentovat s různ�
    - Vývojářská sada pro Javu (JDK) a kompatibilní IDE.
 
 5. **Je k dispozici podpora pro řešení problémů?**
-   - Návštěva [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) o pomoc.
+   - Návštěva [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) o pomoc.
 
 ## Zdroje
 

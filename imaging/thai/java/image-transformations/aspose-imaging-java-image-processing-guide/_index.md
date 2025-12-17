@@ -264,7 +264,7 @@ public class SaveImage {
 - **ซื้อ:** https://purchase.aspose.com/ซื้อ
 - **ทดลองใช้งานฟรี:** https://releases.aspose.com/imaging/java/
 - **ใบอนุญาตชั่วคราว:** https://purchase.aspose.com/ใบอนุญาตชั่วคราว/
-- **สนับสนุน:** ภาษาไทย: https://forum.aspose.com/c/imaging/10
+- **สนับสนุน:** ภาษาไทย: https://forum.aspose.com/c/imaging/14
 
 ยกระดับการประมวลผลภาพ Java ของคุณสู่ระดับใหม่ด้วยการใช้ประโยชน์จากคุณสมบัติอันทรงพลังของ Aspose.Imaging วันนี้!
 

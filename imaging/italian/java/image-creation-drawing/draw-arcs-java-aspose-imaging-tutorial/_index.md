@@ -182,7 +182,7 @@ In questo tutorial abbiamo spiegato come disegnare archi sulle immagini utilizza
 - [Acquista una licenza](https://purchase.aspose.com/buy)
 - [Ottieni una prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Informazioni sulla licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 Sentiti libero di immergerti in queste risorse per informazioni più dettagliate e supporto. Buona programmazione!
 

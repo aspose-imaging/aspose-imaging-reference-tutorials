@@ -181,7 +181,7 @@ Ti invitiamo a provare a implementare questa soluzione nei tuoi progetti! Per ul
 - [Acquista licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Questo tutorial ti ha fornito le conoscenze necessarie per gestire complesse attività di concatenazione di immagini TIFF utilizzando Aspose.Imaging per Java. Buon lavoro!
 

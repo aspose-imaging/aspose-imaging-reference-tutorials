@@ -170,7 +170,7 @@ string outputFile = Path.Combine(outDir, "img4.tif.500ms.png");
 答：是的，您可以使用以下方式設定自訂幀時間 `ApngOptions`。
 
 **Q：如何解決 Aspose.Imaging 的問題？**
-答：請參閱支援論壇 [這裡](https://forum.aspose.com/c/imaging/10) 尋求幫助。
+答：請參閱支援論壇 [這裡](https://forum.aspose.com/c/imaging/14) 尋求幫助。
 
 ## 資源
 - **文件**： [Aspose.Imaging .NET參考](https://reference.aspose.com/imaging/net/)
@@ -178,7 +178,7 @@ string outputFile = Path.Combine(outDir, "img4.tif.500ms.png");
 - **購買**： [購買許可證](https://purchase.aspose.com/buy)
 - **免費試用**： [免費開始](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [在此申請](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

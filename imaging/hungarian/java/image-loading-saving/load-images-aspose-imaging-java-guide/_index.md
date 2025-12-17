@@ -177,7 +177,7 @@ Próbáld ki ezeket a technikákat a következő projektedben, hogy lásd, hogya
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezzel az útmutatóval felkészülhetsz arra, hogy elkezdhesd használni az Aspose.Imaging for Java-t a projektjeidben. Jó kódolást!
 

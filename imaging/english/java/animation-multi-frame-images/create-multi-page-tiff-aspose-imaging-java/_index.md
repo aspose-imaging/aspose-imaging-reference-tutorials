@@ -221,7 +221,7 @@ Next steps could include exploring additional features of Aspose.Imaging such as
 - [Purchase Licensing Options](https://purchase.aspose.com/buy)
 - [Start with a Free Trial](https://releases.aspose.com/imaging/java/)
 - [Temporary License Information](https://purchase.aspose.com/temporary-license/)
-- [Community Support and Forums](https://forum.aspose.com/c/imaging/10)
+- [Community Support and Forums](https://forum.aspose.com/c/imaging/14)
 
 By leveraging these resources, you can deepen your understanding of Aspose.Imaging for Java and apply it effectively in your projects. Happy coding!
 

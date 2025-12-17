@@ -179,7 +179,7 @@ A3: Tüm özellikleri sınırlama olmaksızın test etmenize olanak tanıyan üc
 A4: Toplu işleme ve görüntüleri kullandıktan sonra elden çıkarmak gibi verimli kaynak yönetimi tekniklerini kullanın. Ayrıca, mümkünse dönüştürmeden önce çözünürlüğü optimize etmeyi düşünün.
 
 **S5: Aspose.Imaging ile ilgili sorunlarla karşılaşırsam nereden destek alabilirim?**
-A5: Herhangi bir soru veya sorun giderme için şu adresi ziyaret edin: [Aspose'un destek forumu](https://forum.aspose.com/c/imaging/10) Hem topluluktan hem de resmi temsilcilerden yardım alabileceğiniz bir yer.
+A5: Herhangi bir soru veya sorun giderme için şu adresi ziyaret edin: [Aspose'un destek forumu](https://forum.aspose.com/c/imaging/14) Hem topluluktan hem de resmi temsilcilerden yardım alabileceğiniz bir yer.
 
 ## Kaynaklar
 

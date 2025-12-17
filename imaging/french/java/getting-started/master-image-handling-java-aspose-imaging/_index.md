@@ -178,7 +178,7 @@ A5 : Bien qu'Aspose.Imaging n'impose aucune limite stricte, le traitement d'ima
 - [Acheter une licence](https://purchase.aspose.com/buy)
 - [Version d'essai gratuite](https://releases.aspose.com/imaging/java/)
 - [Demande de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce guide, vous êtes désormais prêt à implémenter une gestion d'images efficace dans vos applications Java avec Aspose.Imaging. Bon codage !
 

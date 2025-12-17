@@ -163,7 +163,7 @@ Nyní jste se naučili, jak načítat, ukládat a mazat obrázky pomocí knihovn
 - **Nákup**Kupte si licenci na [Nákup Aspose](https://purchase.aspose.com/buy).
 - **Bezplatná zkušební verze**Vyzkoušejte si bezplatnou zkušební verzi dostupnou na jejich stránkách.
 - **Dočasná licence**Pořiďte si jeden pro přístup k plným funkcím bez omezení.
-- **Podpora**Získejte pomoc od komunity na [Fórum Aspose](https://forum.aspose.com/c/imaging/10). 
+- **Podpora**Získejte pomoc od komunity na [Fórum Aspose](https://forum.aspose.com/c/imaging/14). 
 
 Dodržováním tohoto komplexního průvodce jste nyní vybaveni k efektivní práci s obrazovými soubory ve vašich aplikacích Java pomocí Aspose.Imaging!
 

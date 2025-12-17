@@ -190,7 +190,7 @@ Sonraki adımlar olarak, Aspose.Imaging'de bulunan yeniden boyutlandırma, renk 
 - **Satın almak:** [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Aspose.Imaging Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Görüntüleme Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Görüntüleme Forumu](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java ile gelişmiş görüntü işleme yolculuğunuza çıkın ve uygulamalarınızda yeni potansiyellerin kilidini açın!
 

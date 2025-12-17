@@ -156,7 +156,7 @@ Esplora ulteriormente integrando queste tecniche nei tuoi progetti o sperimentan
 - [Acquista licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/net/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Padroneggiando questi concetti, sarai sulla buona strada per creare potenti applicazioni Java che gestiscono in modo efficiente le operazioni di I/O sui file. Buona programmazione!
 

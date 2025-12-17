@@ -166,7 +166,7 @@ A memóriahasználat hatékony kezelése érdekében érdemes a nagy képeket ki
 - **Vásárlás**: [Aspose licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbálja ki az Aspose.Imaging-et ingyen](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Kezdje el utazását még ma az Aspose.Imaging segítségével, és alakítsa át képfeldolgozási feladatait egyszerűsített munkafolyamatokká.
 

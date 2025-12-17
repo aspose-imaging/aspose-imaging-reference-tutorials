@@ -172,7 +172,7 @@ A: Navštivte [Dokumentace k Aspose.Imaging](https://reference.aspose.com/imagin
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začněte s bezplatnou zkušební verzí](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Žádost zde](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Komunita podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Komunita podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Tato příručka vás vybaví znalostmi, jak s jistotou manipulovat s obrázky GIF pomocí Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

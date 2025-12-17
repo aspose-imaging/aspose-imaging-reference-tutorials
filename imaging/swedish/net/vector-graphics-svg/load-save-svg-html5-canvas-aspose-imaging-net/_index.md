@@ -178,7 +178,7 @@ Redo att omsätta den här kunskapen i praktiken? Försök att implementera lös
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provversion nedladdning](https://releases.aspose.com/imaging/net/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

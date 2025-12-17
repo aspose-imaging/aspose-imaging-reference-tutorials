@@ -242,7 +242,7 @@ Projelerinizi geliştirmek için Aspose.Imaging'in diğer özelliklerini keşfed
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Aspose.Imaging for Java kullanarak CMX'ten PDF'e dönüşümleri güvenle gerçekleştirebileceksiniz. İyi kodlamalar!
 

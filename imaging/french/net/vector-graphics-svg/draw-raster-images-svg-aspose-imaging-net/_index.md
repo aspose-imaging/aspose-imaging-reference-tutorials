@@ -187,7 +187,7 @@ Prêt à l'essayer ? Implémentez la solution dans votre projet dès aujourd'hu
 - **Achat**: [Acheter une licence](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencer](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Demandez ici](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Lancez-vous dès aujourd'hui dans votre voyage avec Aspose.Imaging pour .NET et transformez la façon dont vous gérez les images dans vos applications !
 

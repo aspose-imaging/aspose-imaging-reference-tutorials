@@ -244,7 +244,7 @@ Hướng dẫn này đề cập đến cách thiết lập và sử dụng Aspos
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Aspose.Imaging dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách sử dụng Aspose.Imaging for Java, bạn có thể tích hợp liền mạch phông chữ EMF chất lượng cao và kết xuất văn bản vào ứng dụng của mình, nâng cao cả chức năng và tính hấp dẫn về mặt hình ảnh.
 

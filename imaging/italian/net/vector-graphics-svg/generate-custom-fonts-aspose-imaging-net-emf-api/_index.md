@@ -181,7 +181,7 @@ Pronti a migliorare le vostre competenze? Implementate queste tecniche e scoprit
 - [Acquista licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/net/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Intraprendi subito il tuo viaggio con Aspose.Imaging e porta le tue applicazioni .NET a nuovi livelli!
 

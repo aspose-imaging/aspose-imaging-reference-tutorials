@@ -184,7 +184,7 @@ Próbáld ki a megoldás bevezetését még ma, hogy lásd, hogyan illeszkedik a
 - **Licenc vásárlása:** [Vásároljon Aspose termékeket](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Aspose.Imaging ingyenes próbaverziók](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély:** [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum:** [Aspose támogató közösség](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum:** [Aspose támogató közösség](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

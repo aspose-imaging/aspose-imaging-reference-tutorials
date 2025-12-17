@@ -156,7 +156,7 @@ using (Image image = Image.Create(saveOptions, 100, 100))
 - **Αγορά:** [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Δοκιμαστική έκδοση](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια:** [Αίτημα εδώ](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ υποστήριξης:** [Υποστήριξη Κοινότητας Aspose](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ υποστήριξης:** [Υποστήριξη Κοινότητας Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

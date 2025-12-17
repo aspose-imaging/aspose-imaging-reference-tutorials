@@ -176,7 +176,7 @@ Actuellement, le segment JFIF prend en charge une seule miniature ; cependant, 
 - **Achat**: [Acheter une licence](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencez votre essai gratuit](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

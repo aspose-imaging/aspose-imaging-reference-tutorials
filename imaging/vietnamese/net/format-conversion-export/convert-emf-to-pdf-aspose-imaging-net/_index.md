@@ -166,7 +166,7 @@ Bây giờ bạn đã có hướng dẫn toàn diện về cách chuyển đổi
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, giờ đây bạn đã có thể triển khai chuyển đổi EMF sang PDF trong các dự án .NET của mình bằng Aspose.Imaging. Chúc bạn viết mã vui vẻ!
 

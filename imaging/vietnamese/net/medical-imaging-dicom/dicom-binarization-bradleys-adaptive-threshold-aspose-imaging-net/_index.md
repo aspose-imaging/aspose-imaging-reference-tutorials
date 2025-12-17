@@ -167,7 +167,7 @@ A5: Mặc dù hiệu quả, nhưng nó phù hợp nhất với những hình ả
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu với bản dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: Nếu có bất kỳ câu hỏi nào, hãy truy cập [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: Nếu có bất kỳ câu hỏi nào, hãy truy cập [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình của bạn với Aspose.Imaging cho .NET và mở khóa những khả năng mới trong hình ảnh y tế!
 

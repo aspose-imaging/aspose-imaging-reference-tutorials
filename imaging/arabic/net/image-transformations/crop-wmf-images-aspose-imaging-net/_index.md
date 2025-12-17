@@ -138,7 +138,7 @@ public static void CropWMFImage()
 **أ4:** نعم، يدعم Aspose.Imaging مجموعة واسعة من التنسيقات بما في ذلك PNG وJPEG وTIFF وما إلى ذلك.
 
 **س5:** كيف يمكنني الحصول على الدعم إذا واجهت مشاكل؟
-**أ5:** قم بزيارة [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10) للحصول على المساعدة.
+**أ5:** قم بزيارة [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14) للحصول على المساعدة.
 
 ## موارد
 - **التوثيق:** استكشف الأدلة التفصيلية ومراجع واجهة برمجة التطبيقات على [توثيق Aspose Imaging](https://reference.aspose.com/imaging/net/)

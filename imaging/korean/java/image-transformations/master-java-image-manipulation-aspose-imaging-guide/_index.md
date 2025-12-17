@@ -213,7 +213,7 @@ A5: Aspose.Imaging은 대부분의 Java 프레임워크와 호환됩니다. Spri
 - **다운로드**: 최신 릴리스를 받으세요 [Aspose.Imaging 릴리스](https://releases.aspose.com/imaging/java/)
 - **구입**: 면허증을 취득하세요 [Aspose 구매 페이지](https://purchase.aspose.com/buy)
 - **무료 체험**: 임시 라이센스를 사용하여 기능을 테스트해 보세요. [Aspose 무료 체험판](https://releases.aspose.com/imaging/java/)
-- **지원하다**: 토론에 참여하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: 토론에 참여하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 지금 당장 Aspose.Imaging for Java로 실험을 시작하고 새로운 창의적 가능성을 열어보세요!
 

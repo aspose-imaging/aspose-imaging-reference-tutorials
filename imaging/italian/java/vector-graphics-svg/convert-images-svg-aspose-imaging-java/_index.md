@@ -201,7 +201,7 @@ Questo tutorial ti ha fornito le conoscenze necessarie per caricare diversi form
 - [Acquista licenza](https://purchase.aspose.com/buy)
 - [Download di prova gratuito](https://releases.aspose.com/imaging/java/)
 - [Richiesta di licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10) 
+- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Seguendo questa guida, sarai sulla buona strada per padroneggiare l'elaborazione delle immagini con Aspose.Imaging Java. Buon lavoro!
 

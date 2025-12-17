@@ -237,7 +237,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **التوثيق:** [توثيق Aspose.Imaging لـ Java](https://reference.aspose.com/imaging/java/)
 - **تحميل:** [إصدارات Aspose.Imaging لـ Java](https://releases.aspose.com/imaging/java/)
 - **الشراء والتجربة المجانية:** [شراء أو تجربة Aspose.Imaging لـ Java](https://purchase.aspose.com/buy)
-- **منتدى الدعم:** [مجتمع دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم:** [مجتمع دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 سيزودك هذا الدليل الشامل بالمعرفة اللازمة لتقليل تشويش الحركة في صورك بفعالية باستخدام Aspose.Imaging لجافا. برمجة ممتعة!
 

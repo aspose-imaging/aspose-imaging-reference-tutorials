@@ -166,7 +166,7 @@ image.Save(outputDir + "test.pdf", exportOptions);
 - **Покупка**: [Купить лицензию Aspose](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Попробуйте Aspose.Imaging бесплатно](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия**: [Запросить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Начните свой путь с Aspose.Imaging сегодня и превратите свои задачи по обработке изображений в оптимизированные рабочие процессы.
 

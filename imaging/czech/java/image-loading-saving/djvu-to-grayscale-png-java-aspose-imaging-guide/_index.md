@@ -200,7 +200,7 @@ A4: Obrázky ve stupních šedi obsahují pouze odstíny šedé, čímž se zmen
 
 **Q5: Jak mohu získat podporu, pokud narazím na problémy s Aspose.Imaging?**
 
-A5: Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) o pomoc od komunitních expertů a oficiálního podpůrného personálu.
+A5: Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) o pomoc od komunitních expertů a oficiálního podpůrného personálu.
 
 ## Zdroje
 

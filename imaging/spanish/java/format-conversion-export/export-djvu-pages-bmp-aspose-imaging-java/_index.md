@@ -197,7 +197,7 @@ Siguiendo esta guía, ha aprendido a usar Aspose.Imaging Java para convertir pá
 - **Licencia de compra:** [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Comience su prueba gratuita](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** [Obtenga una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Foro de soporte:** [Soporte de Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Foro de soporte:** [Soporte de Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 ¡Embárquese hoy mismo en su viaje hacia el dominio de la conversión de documentos con Aspose.Imaging Java!
 

@@ -210,7 +210,7 @@ Ready to take it to the next level? Try implementing this solution in a real-wor
 - **Purchase**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Aspose.Imaging Free Trials](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 With this guide, you're well-equipped to leverage Aspose.Imaging for efficient EPS file management in your .NET applications. Happy coding!
 

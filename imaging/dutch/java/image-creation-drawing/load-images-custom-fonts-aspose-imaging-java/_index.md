@@ -195,7 +195,7 @@ Volgende stappen kunnen bestaan uit het verkennen van geavanceerdere functies va
 - [Aspose-licentie kopen](https://purchase.aspose.com/buy)
 - [Gratis proefversie en tijdelijke licentie](https://releases.aspose.com/imaging/java/)
 
-We hopen dat deze gids informatief en nuttig is geweest. Als u nog vragen heeft, kunt u contact opnemen met de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)Veel plezier met coderen!
+We hopen dat deze gids informatief en nuttig is geweest. Als u nog vragen heeft, kunt u contact opnemen met de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)Veel plezier met coderen!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

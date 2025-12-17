@@ -155,7 +155,7 @@ Készen állsz mélyebbre merülni? Próbáld ki ezeket a technikákat még ma!
    Igen, licenc megvásárlása után bármilyen termelési környezetben használható.
 
 5. **Van elérhető támogatás az Aspose.Imaginggel kapcsolatos problémák elhárításához?**
-   Igen, kérhetsz segítséget a [Aspose fórumok](https://forum.aspose.com/c/imaging/10).
+   Igen, kérhetsz segítséget a [Aspose fórumok](https://forum.aspose.com/c/imaging/14).
 
 ## Erőforrás
 - **Dokumentáció:** https://reference.aspose.com/imaging/net/
@@ -163,7 +163,7 @@ Készen állsz mélyebbre merülni? Próbáld ki ezeket a technikákat még ma!
 - **Vásárlás:** https://purchase.aspose.com/buy
 - **Ingyenes próbaverzió:** https://releases.aspose.com/imaging/net/
 - **Ideiglenes engedély:** https://purchase.aspose.com/temporary-license/
-- **Támogatás:** https://forum.aspose.com/c/imaging/10
+- **Támogatás:** https://forum.aspose.com/c/imaging/14
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

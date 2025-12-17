@@ -199,7 +199,7 @@ Prova a implementare questa soluzione in un progetto oggi stesso e scopri come m
    - La libreria è disponibile con una licenza di prova; per usufruire di tutte le funzionalità è necessario acquistarla.
 
 5. **Dove posso trovare supporto se necessario?**
-   - Visita [Forum di supporto di Aspose](https://forum.aspose.com/c/imaging/10) per assistenza.
+   - Visita [Forum di supporto di Aspose](https://forum.aspose.com/c/imaging/14) per assistenza.
 
 ## Risorse
 

@@ -179,7 +179,7 @@ En este tutorial, aprendiste a cargar imágenes DICOM y convertirlas a formato B
 - [Opciones de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo esta guía, ya estarás bien preparado para gestionar imágenes DICOM con Aspose.Imaging para Java. ¡Que disfrutes programando!
 

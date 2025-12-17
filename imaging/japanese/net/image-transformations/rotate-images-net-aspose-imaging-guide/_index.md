@@ -156,7 +156,7 @@ A: よくある問題としては、角度の指定が間違っていたり、�
 - **購入**： [ライセンスを購入する](https://purchase.aspose.com/buy)
 - **無料トライアル**： [今すぐ Aspose.Imaging を試す](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [リクエストはこちら](https://purchase.aspose.com/temporary-license/)
-- **サポート**訪問 [Asposeフォーラム](https://forum.aspose.com/c/imaging/10) ヘルプとコミュニティのディスカッションのため。
+- **サポート**訪問 [Asposeフォーラム](https://forum.aspose.com/c/imaging/14) ヘルプとコミュニティのディスカッションのため。
 
 これらのテクニックを習得すれば、幅広い画像処理タスクに自信を持って取り組むことができるようになります。楽しいコーディングを！
 

@@ -181,7 +181,7 @@ Khám phá các tính năng bổ sung của Aspose.Imaging bằng cách tìm hi�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Tải xuống dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn đang trên con đường thành thạo xử lý hình ảnh TIFF bằng Aspose.Imaging trong Java. Chúc bạn viết mã vui vẻ!
 

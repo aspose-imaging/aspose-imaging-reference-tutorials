@@ -172,7 +172,7 @@ Pro podrobnější informace se podívejte na tyto zdroje:
 - **Nákup:** [Možnosti licencování Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Vyzkoušejte bezplatné zkušební verze](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence:** [Žádost o dočasné licence](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Podpora fóra Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Podpora fóra Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu byste měli být dobře vybaveni pro práci s obrázky JPEG a jejich metadaty pomocí Aspose.Imaging pro .NET. Přejeme vám příjemné programování!
 

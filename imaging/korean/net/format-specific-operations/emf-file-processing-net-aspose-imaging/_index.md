@@ -142,7 +142,7 @@ A: 물론입니다. `Save` 이를 달성하기 위해 다양한 파일 확장자
 - **라이센스 구매:** [Aspose 구매 옵션](https://purchase.aspose.com/buy)
 - **무료 체험:** [무료 평가판 받기](https://releases.aspose.com/imaging/net/)
 - **임시 면허:** [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼:** [Aspose.Imaging 지원 커뮤니티](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼:** [Aspose.Imaging 지원 커뮤니티](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET을 사용하여 더 깊이 이해하고 구현을 개선할 수 있는 다음 리소스를 살펴보세요. 즐거운 코딩 되세요!
 

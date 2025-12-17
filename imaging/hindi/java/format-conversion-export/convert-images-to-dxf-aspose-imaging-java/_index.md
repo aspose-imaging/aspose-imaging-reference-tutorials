@@ -184,7 +184,7 @@ Aspose.Imaging को बिना किसी सीमा के पूर्
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 आज ही इन समाधानों को लागू करना शुरू करें और Aspose.Imaging for Java के साथ अपनी छवि प्रसंस्करण क्षमताओं को बढ़ाएं!
 

@@ -198,7 +198,7 @@ try (JpegImage image = new JpegImage(1000, 1000)) {
 - **ซื้อ**- [ซื้อ Aspose.Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [ลองใช้ Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว**- [ขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน**- [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน**- [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14)
 
 ด้วยคู่มือที่ครอบคลุมนี้ คุณก็พร้อมแล้วที่จะเชี่ยวชาญการจัดการรูปภาพโดยใช้ Aspose.Imaging ใน Java ขอให้สนุกกับการเขียนโค้ด!
 

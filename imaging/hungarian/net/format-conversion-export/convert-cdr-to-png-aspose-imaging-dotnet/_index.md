@@ -174,7 +174,7 @@ Ebben az oktatóanyagban megtanultad, hogyan konvertálhatsz CDR fájlokat PNG f
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió letöltése](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Induljon el képkonverziós útjára az Aspose.Imaging for .NET segítségével, és tárja fel az új lehetőségeket alkalmazásaiban!
 

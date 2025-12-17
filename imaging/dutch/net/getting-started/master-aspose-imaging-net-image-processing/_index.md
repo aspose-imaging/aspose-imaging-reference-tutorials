@@ -159,14 +159,14 @@ Je hebt nu geleerd hoe je afbeeldingen kunt laden, filteren en opslaan met Aspos
 4. **Welke bestandsformaten ondersteunt Aspose.Imaging?**
    - Het ondersteunt meer dan 100 afbeeldingsformaten, waaronder JPEG, PNG, GIF en meer.
 5. **Hoe kan ik veelvoorkomende problemen met Aspose.Imaging oplossen?**
-   - Verwijzen naar [Aspose's ondersteuningsforum](https://forum.aspose.com/c/imaging/10) voor oplossingen of raadpleeg de gedetailleerde documentatie.
+   - Verwijzen naar [Aspose's ondersteuningsforum](https://forum.aspose.com/c/imaging/14) voor oplossingen of raadpleeg de gedetailleerde documentatie.
 
 ## Bronnen
 - **Documentatie**: Uitgebreide gidsen op [Aspose-documentatie](https://reference.aspose.com/imaging/net/)
 - **Download nieuwste versie**: Toegankelijk vanaf [Releases-pagina](https://releases.aspose.com/imaging/net/)
 - **Aankooplicentie**: Directe aankooplink beschikbaar op [Aspose's aankooppagina](https://purchase.aspose.com/buy)
 - **Gratis proefversie en tijdelijke licentie**: Beschikbaar bij de [Releases-pagina](https://releases.aspose.com/imaging/net/) En [Sectie Tijdelijke Licentie](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: Voor vragen kunt u terecht op [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: Voor vragen kunt u terecht op [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

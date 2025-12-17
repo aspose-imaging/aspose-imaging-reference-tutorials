@@ -168,14 +168,14 @@ if (File.Exists(outputFilePath))
 4. **هل هناك حد لحجم ملفات CAD التي يمكنني معالجتها؟**
    - قد تتطلب معالجة الملفات الكبيرة مزيدًا من الذاكرة؛ لذا قم بتحسينها حسب الحاجة استنادًا إلى إمكانيات نظامك.
 5. **أين يمكنني العثور على الدعم إذا واجهت مشاكل؟**
-   - يزور [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10) للحصول على المساعدة والمشورة المجتمعية.
+   - يزور [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14) للحصول على المساعدة والمشورة المجتمعية.
 
 ## موارد
 - **التوثيق**:استكشف كامل [توثيق Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
 - **تحميل**:احصل على أحدث إصدار من [الإصدارات](https://releases.aspose.com/imaging/net/)
 - **شراء وتجربة مجانية**:يمكنك الوصول إلى الإصدارات التجريبية أو شراء ترخيص عبر [شراء Aspose](https://purchase.aspose.com/buy) و [التجارب المجانية](https://releases.aspose.com/imaging/net/).
 - **رخصة مؤقتة**:طلب ترخيص مؤقت من [تراخيص Aspose المؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم**:احصل على المساعدة بشأن [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم**:احصل على المساعدة بشأن [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

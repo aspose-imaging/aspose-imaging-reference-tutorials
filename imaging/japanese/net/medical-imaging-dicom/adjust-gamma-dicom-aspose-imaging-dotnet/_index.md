@@ -138,7 +138,7 @@ Aspose.Imaging for .NET を使用して、DICOM 画像のガンマを調整し�
 - **購入**： [ライセンスを購入する](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルを始める](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスを申請する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/14)
 
 コーディングを楽しみながら、Aspose.Imaging で DICOM イメージの強化を楽しみましょう。
 

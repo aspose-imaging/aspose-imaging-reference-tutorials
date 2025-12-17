@@ -211,7 +211,7 @@ Dans ce tutoriel, nous avons abordé les bases du chargement, de la copie et de 
 - **Achat**: Achetez une licence pour une utilisation commerciale sur [ce lien](https://purchase.aspose.com/buy)
 - **Essai gratuit**: Commencez par un essai gratuit pour tester les fonctionnalités sur [Site Web d'Aspose](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**:Obtenez une licence temporaire pour une évaluation prolongée auprès de [ici](https://purchase.aspose.com/temporary-license/)
-- **Soutien**:Rejoignez les discussions ou demandez de l'aide sur le [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**:Rejoignez les discussions ou demandez de l'aide sur le [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

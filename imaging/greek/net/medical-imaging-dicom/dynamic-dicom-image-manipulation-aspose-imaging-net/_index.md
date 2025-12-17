@@ -217,7 +217,7 @@ image.Save(path);
 - [Λήψη Aspose.Imaging για .NET](https://releases.aspose.com/imaging/net/)
 - [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή και προσωρινή άδεια χρήσης](https://releases.aspose.com/imaging/net/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Αυτός ο οδηγός θα σας βοηθήσει να ξεκινήσετε με τη σχεδίαση και τον χειρισμό εικόνων DICOM χρησιμοποιώντας το Aspose.Imaging για .NET, παρέχοντας μια βάση για τη δημιουργία πιο σύνθετων εφαρμογών επεξεργασίας εικόνας.
 

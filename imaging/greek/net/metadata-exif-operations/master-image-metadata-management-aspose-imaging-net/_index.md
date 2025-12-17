@@ -195,7 +195,7 @@ image.Save(outputPath, exportOptions);
 - **Αγορά:** [Αγορά Άδειας Χρήσης](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Δοκιμάστε δωρεάν](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια:** [Αποκτήστε εδώ](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** [Φόρουμ Κοινότητας](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** [Φόρουμ Κοινότητας](https://forum.aspose.com/c/imaging/14)
 
 Ελπίζουμε ότι αυτός ο οδηγός θα σας δώσει τη δυνατότητα να διαχειρίζεστε τα μεταδεδομένα εικόνων με σιγουριά χρησιμοποιώντας το Aspose.Imaging για .NET. Καλή κωδικοποίηση!
 

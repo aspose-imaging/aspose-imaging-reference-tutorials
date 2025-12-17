@@ -197,7 +197,7 @@ Genom att följa den här guiden har du lärt dig hur du använder Aspose.Imagin
 - **Köplicens:** [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Starta din gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum:** [Aspose.Imaging-stöd](https://forum.aspose.com/c/imaging/10)
+- **Supportforum:** [Aspose.Imaging-stöd](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din resa mot att bemästra dokumentkonvertering med Aspose.Imaging Java idag!
 

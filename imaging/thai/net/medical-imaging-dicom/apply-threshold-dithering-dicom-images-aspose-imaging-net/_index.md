@@ -154,7 +154,7 @@ image.Save(outputDir + "/DitheringForDICOMImage_out.bmp", new BmpOptions());
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/net/)
 - [ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/14)
 
 คู่มือที่ครอบคลุมนี้ช่วยให้คุณมีทุกสิ่งที่จำเป็นในการใช้การสั่นแบบขีดจำกัดกับภาพ DICOM โดยใช้ Aspose.Imaging สำหรับ .NET ซึ่งช่วยเพิ่มความสามารถในการประมวลผลภาพของคุณ
 

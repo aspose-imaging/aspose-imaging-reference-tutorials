@@ -159,7 +159,7 @@ Zachęcamy do wypróbowania tych rozwiązań w swoich projektach. Aby uzyskać w
    - Typowe problemy obejmują nieprawidłowe ścieżki plików lub niezgodne typy obrazów. Upewnij się, że Twoje obrazy są obsługiwane przez Aspose.Imaging.
 
 **5. Gdzie mogę znaleźć pomoc, jeśli napotkam problemy?**
-   - Odwiedź [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10) Aby uzyskać pomoc od społeczności i ekspertów Aspose.
+   - Odwiedź [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14) Aby uzyskać pomoc od społeczności i ekspertów Aspose.
 
 ## Zasoby
 
@@ -167,7 +167,7 @@ Zachęcamy do wypróbowania tych rozwiązań w swoich projektach. Aby uzyskać w
 - **Pobierać**:Uzyskaj dostęp do najnowszej wersji biblioteki na [Wydania Aspose](https://releases.aspose.com/imaging/java/).
 - **Zakup**:Aby uzyskać licencję gotową do produkcji, odwiedź stronę [Zakup Aspose](https://purchase.aspose.com/buy).
 - **Bezpłatna wersja próbna**:Rozpocznij swoją podróż od bezpłatnego okresu próbnego [Pobieranie Aspose](https://releases.aspose.com/imaging/java/).
-- **Wsparcie**:Uzyskaj pomoc poprzez [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Wsparcie**:Uzyskaj pomoc poprzez [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Wykorzystując Aspose.Imaging dla Java, jesteś wyposażony w możliwość obsługi złożonych zadań przetwarzania obrazu z łatwością i wydajnością. Miłego kodowania!
 

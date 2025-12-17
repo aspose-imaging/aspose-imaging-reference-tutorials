@@ -199,7 +199,7 @@ Den kostnadsfria provperioden låter dig testa alla funktioner men kan innebära
 - **Köpa**: [Köp Aspose-produkter](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Skaffa en gratis provlicens](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose.Imaging supportforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose.Imaging supportforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

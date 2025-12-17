@@ -187,7 +187,7 @@ En esta guía, hemos explorado cómo redimensionar imágenes usando el método L
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 ¡Embárquese en su viaje de procesamiento de imágenes con confianza aprovechando Aspose.Imaging para Java y el poderoso método de remuestreo de Lanczos!
 

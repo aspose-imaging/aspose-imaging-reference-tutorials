@@ -142,7 +142,7 @@ En iyi uygulamalar şunları içerir: `using` Uygulamanızın mimarisi tarafınd
 ## Çözüm
 Artık Aspose.Imaging for .NET kullanarak EMF tuvallerine raster görüntüleri nasıl çizeceğinizi öğrendiniz. Bu yetenek, vektör hassasiyeti ve raster zenginliğinin bir karışımını sunarak projelerinizin görsel kalitesini önemli ölçüde artırabilir.
 
-İlerledikçe, Aspose.Imaging'in ek özelliklerini keşfetmeyi veya bu işlevselliği uygulamalarınızdaki daha büyük iş akışlarına entegre etmeyi düşünün. Başka sorularınız varsa, şu adresten bize ulaşmaktan çekinmeyin: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10).
+İlerledikçe, Aspose.Imaging'in ek özelliklerini keşfetmeyi veya bu işlevselliği uygulamalarınızdaki daha büyük iş akışlarına entegre etmeyi düşünün. Başka sorularınız varsa, şu adresten bize ulaşmaktan çekinmeyin: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14).
 
 ## SSS Bölümü
 **1. EMF dosyası nedir?**

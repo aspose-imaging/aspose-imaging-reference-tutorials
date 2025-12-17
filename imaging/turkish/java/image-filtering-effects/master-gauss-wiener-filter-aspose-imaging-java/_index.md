@@ -212,7 +212,7 @@ Artık görüntüleri yüklemek, bunları işlenebilir bir biçime dönüştürm
 - **Satın almak**: [Şimdi al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Burada Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Aspose.Görüntüleme Topluluğu](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: [Aspose.Görüntüleme Topluluğu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzun projelerinizi gelişmiş görüntü işleme yetenekleriyle geliştirmenize yardımcı olmasını umuyoruz. İyi kodlamalar!
 

@@ -204,7 +204,7 @@ Je weet nu hoe je strings met verschillende uitlijningen op afbeeldingen kunt te
 - **Aankoop:** [Koop Aspose.Imaging-licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Probeer Aspose.Imaging gratis](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10) 
+- **Steun:** [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14) 
 
 Ontdek deze bronnen om uw kennis en vaardigheden met Aspose.Imaging voor Java te vergroten. Veel plezier met coderen!
 

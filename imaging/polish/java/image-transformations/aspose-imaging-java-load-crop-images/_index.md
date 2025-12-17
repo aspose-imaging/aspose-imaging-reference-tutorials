@@ -148,7 +148,7 @@ Gotowy do wdrożenia tego rozwiązania? Zacznij eksperymentować z różnymi typ
    - Zestaw Java Development Kit (JDK) i zgodne z nim środowisko IDE.
 
 5. **Czy jest dostępna pomoc w rozwiązywaniu problemów?**
-   - Odwiedzać [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10) po pomoc.
+   - Odwiedzać [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14) po pomoc.
 
 ## Zasoby
 

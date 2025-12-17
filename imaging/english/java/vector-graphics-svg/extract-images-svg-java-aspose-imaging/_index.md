@@ -257,7 +257,7 @@ A: Consider using batch processing techniques and optimizing memory usage to ens
 - **Purchase:** [Buy Aspose](https://purchase.aspose.com/buy)
 - **Free Trial:** [Start Your Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Obtain a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Implement these features in your Java projects to unlock new capabilities and streamline image processing workflows using Aspose.Imaging. Happy coding!
 

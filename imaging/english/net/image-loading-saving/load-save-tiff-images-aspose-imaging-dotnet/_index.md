@@ -154,7 +154,7 @@ A3: Optimize memory management and fine-tune your configuration settings as disc
 A4: Common issues include incorrect file paths, improper configuration settings, and unsupported image formats. Always ensure paths are correct and configurations align with your requirements.
 
 **Q5: Where can I find more resources about Aspose.Imaging?**
-A5: Visit the [Aspose Documentation](https://reference.aspose.com/imaging/net/) for comprehensive guides and the [Forums](https://forum.aspose.com/c/imaging/10) for community support.
+A5: Visit the [Aspose Documentation](https://reference.aspose.com/imaging/net/) for comprehensive guides and the [Forums](https://forum.aspose.com/c/imaging/14) for community support.
 
 ## Resources
 - **Documentation:** [Aspose Imaging .NET Reference](https://reference.aspose.com/imaging/net/)
@@ -162,7 +162,7 @@ A5: Visit the [Aspose Documentation](https://reference.aspose.com/imaging/net/) 
 - **Purchase:** [Buy License](https://purchase.aspose.com/buy)
 - **Free Trial:** [Trial Downloads](https://releases.aspose.com/imaging/net/)
 - **Temporary License:** [Request Here](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Forums](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose Forums](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

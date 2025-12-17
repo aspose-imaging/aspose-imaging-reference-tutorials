@@ -160,7 +160,7 @@ A5: Für den unterbrechungsfreien Einsatz in Produktionsumgebungen ist eine gül
 - **Kaufen**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Starten Sie Ihre kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Holen Sie sich eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose-Foren](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose-Foren](https://forum.aspose.com/c/imaging/14)
 
 Nutzen Sie die Leistungsfähigkeit von Aspose.Imaging Java, um Ihre Bildverarbeitungsfunktionen zu verbessern!
 

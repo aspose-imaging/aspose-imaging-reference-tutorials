@@ -138,7 +138,7 @@ public static void CropWMFImage()
 **A4：** 是的，Aspose.Imaging 支持多种格式，包括 PNG、JPEG、TIFF 等。
 
 **问题5：** 如果遇到问题，如何获得支持？
-**答案5：** 访问 [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10) 寻求帮助。
+**答案5：** 访问 [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14) 寻求帮助。
 
 ## 资源
 - **文档：** 探索详细指南和 API 参考 [Aspose Imaging 文档](https://reference.aspose.com/imaging/net/)

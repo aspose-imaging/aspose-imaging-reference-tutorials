@@ -166,7 +166,7 @@ Sẵn sàng áp dụng những kỹ năng này? Hãy thử triển khai giải p
 - [Mua](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Hãy khám phá Aspose.Imaging dành cho .NET và nâng cao khả năng xử lý hình ảnh của bạn lên một tầm cao mới!
 

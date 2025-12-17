@@ -181,7 +181,7 @@ license.setLicense("path/to/your/license/file.lic");
 - [ตัวเลือกการซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ดาวน์โหลดทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - [ใบสมัครใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [การสนับสนุนและฟอรั่มชุมชน](https://forum.aspose.com/c/imaging/10)
+- [การสนับสนุนและฟอรั่มชุมชน](https://forum.aspose.com/c/imaging/14)
 
 เมื่อทำตามคำแนะนำนี้แล้ว คุณจะพร้อมสำหรับการแปลงรูปแบบภาพโดยใช้ Aspose.Imaging Java อย่างมีประสิทธิภาพ ขอให้สนุกกับการเขียนโค้ด!
 

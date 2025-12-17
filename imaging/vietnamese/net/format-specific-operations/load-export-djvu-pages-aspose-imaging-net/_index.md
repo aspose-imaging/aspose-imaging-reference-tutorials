@@ -168,7 +168,7 @@ Sẵn sàng để tìm hiểu sâu hơn? Triển khai các giải pháp này và
 - [Mua](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Khám phá các tài nguyên này để nâng cao hiểu biết và ứng dụng của bạn về Aspose.Imaging .NET để xử lý các tệp DjVu. Chúc bạn viết mã vui vẻ!
 

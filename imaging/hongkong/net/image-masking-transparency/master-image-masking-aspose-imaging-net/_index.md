@@ -195,7 +195,7 @@ RasterImage image = (RasterImage)Image.Load(Path.Combine(dataDir, "src.png"));
 - **購買：** [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用：** [取得免費試用](https://releases.aspose.com/imaging/net/)
 - **臨時執照：** [申請臨時執照](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 遵循本指南，您將能夠在專案中充分發揮 Aspose.Imaging for .NET 的潛力。祝您編碼愉快！
 

@@ -145,7 +145,7 @@ Trong hướng dẫn này, bạn đã học cách tải hình ảnh PNG, trích 
 - Khám phá các định dạng tệp khác được Aspose.Imaging hỗ trợ.
 
 **Kêu gọi hành động:**
-Hãy thử triển khai các tính năng này trong dự án tiếp theo của bạn để xem Aspose.Imaging cho .NET có thể hợp lý hóa các tác vụ xử lý hình ảnh như thế nào. Chia sẻ kinh nghiệm của bạn hoặc đặt câu hỏi trong [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10) nếu bạn gặp bất kỳ thách thức nào.
+Hãy thử triển khai các tính năng này trong dự án tiếp theo của bạn để xem Aspose.Imaging cho .NET có thể hợp lý hóa các tác vụ xử lý hình ảnh như thế nào. Chia sẻ kinh nghiệm của bạn hoặc đặt câu hỏi trong [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14) nếu bạn gặp bất kỳ thách thức nào.
 
 ## Phần Câu hỏi thường gặp
 1. **Aspose.Imaging dành cho .NET là gì?**
@@ -165,7 +165,7 @@ Hãy thử triển khai các tính năng này trong dự án tiếp theo của b
 - [Tùy chọn mua hàng](https://purchase.aspose.com/buy)
 - [Truy cập dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ và cộng đồng](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ và cộng đồng](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

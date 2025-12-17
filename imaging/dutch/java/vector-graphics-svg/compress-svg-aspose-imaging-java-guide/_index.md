@@ -211,7 +211,7 @@ In deze tutorial hebben we uitgelegd hoe je gecomprimeerde SVG-bestanden kunt la
 - [Aankoop](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Met behulp van deze bronnen kunt u de mogelijkheden van Aspose.Imaging verder verkennen en uw Java-toepassingen uitbreiden met krachtige beeldverwerkingsfuncties.
 

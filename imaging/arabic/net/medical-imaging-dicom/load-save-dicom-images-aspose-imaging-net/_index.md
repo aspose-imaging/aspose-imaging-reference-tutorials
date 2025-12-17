@@ -126,7 +126,7 @@ A4: فكر في استخدام المعالجة غير المتزامنة وتح
 - [شراء ترخيص](https://purchase.aspose.com/buy)
 - [احصل على نسخة تجريبية مجانية](https://releases.aspose.com/imaging/net/)
 - [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

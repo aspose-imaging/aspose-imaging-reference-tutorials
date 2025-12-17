@@ -226,7 +226,7 @@ Bu kılavuzu takip ederek, EMF dosyalarını PDF'lere dönüştürmek için Aspo
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Başvurusu](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı rehber, Aspose.Imaging for Java'yı kullanarak EMF dosyalarını PDF'lere dönüştürmeye başlamak için gereken bilgiyle sizi donatmalıdır. İyi kodlamalar!
 

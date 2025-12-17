@@ -143,7 +143,7 @@ As a next step, consider exploring other features of Aspose.Imaging, such as res
 **A4:** Yes, Aspose.Imaging supports a wide range of formats including PNG, JPEG, TIFF, etc.
 
 **Q5:** How do I obtain support if I encounter issues?
-**A5:** Visit the [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) for assistance.
+**A5:** Visit the [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) for assistance.
 
 ## Resources
 - **Documentation:** Explore detailed guides and API references at [Aspose Imaging Documentation](https://reference.aspose.com/imaging/net/)

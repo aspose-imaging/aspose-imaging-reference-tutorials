@@ -172,7 +172,7 @@ A: Хотя это технически осуществимо, чрезмерн
 - **Лицензия на покупку**: [Купить сейчас](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Начать](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия**: [Запросить здесь](https://purchase.aspose.com/temporary-license/)
-- **Форум поддержки**: [Сообщество Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Форум поддержки**: [Сообщество Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Это руководство должно служить всеобъемлющим ресурсом для освоения настроек яркости с помощью Aspose.Imaging для .NET. Удачного кодирования!
 

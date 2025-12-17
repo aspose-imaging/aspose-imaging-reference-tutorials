@@ -220,7 +220,7 @@ V tomto tutoriálu jsme se seznámili s tím, jak načítat, ořezávat a uklád
 - **Nákup**: [Koupit licenci Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Bezplatné zkušební verze Aspose](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Získat dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 S tímto komplexním průvodcem jste nyní vybaveni k implementaci zpracování obrazu DICOM v Javě pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 

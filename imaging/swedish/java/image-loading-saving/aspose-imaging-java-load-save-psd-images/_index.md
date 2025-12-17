@@ -193,7 +193,7 @@ Redo att implementera den här kraftfulla lösningen? Dyk ner i Aspose.Imaging f
 - **Köplicens:** [Köp en fullständig licens idag](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Börja med en gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Ansök om en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum:** [Få hjälp från samhället](https://forum.aspose.com/c/imaging/10)
+- **Supportforum:** [Få hjälp från samhället](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden är du väl rustad för att integrera kraftfulla bildbehandlingsfunktioner i dina Java-applikationer med hjälp av Aspose.Imaging. Lycka till med kodningen!
 

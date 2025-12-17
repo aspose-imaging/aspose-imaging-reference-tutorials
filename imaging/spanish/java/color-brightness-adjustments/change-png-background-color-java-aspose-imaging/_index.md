@@ -189,7 +189,7 @@ Explore más funciones de Aspose.Imaging, como cambiar el tamaño y el recorte, 
    - Visita [Licencia temporal de Aspose](https://purchase.aspose.com/temporary-license/) para más detalles sobre su adquisición.
 
 5. **¿Qué opciones de soporte están disponibles si encuentro problemas?**
-   - El [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10) ofrece asistencia de la comunidad y el equipo de Aspose.
+   - El [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14) ofrece asistencia de la comunidad y el equipo de Aspose.
 
 ## Recursos
 

@@ -199,7 +199,7 @@ Aspose.Imaging 支持多种格式，包括 BMP、PNG、JPEG、TIFF 等。
 - **购买**： [购买 Aspose 产品](https://purchase.aspose.com/buy)
 - **免费试用**： [获取免费试用许可证](https://releases.aspose.com/imaging/net/)
 - **临时执照**： [获得临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持**： [Aspose.Imaging 支持论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**： [Aspose.Imaging 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

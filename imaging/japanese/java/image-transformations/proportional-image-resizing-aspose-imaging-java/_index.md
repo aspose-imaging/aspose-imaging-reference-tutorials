@@ -193,7 +193,7 @@ import com.aspose.imaging.examples.Utils;
    - JDK 8 以上および互換性のある Java IDE。
 
 5. **問題が発生した場合、どこでサポートを受けられますか?**
-   - 参加する [Asposeフォーラム](https://forum.aspose.com/c/imaging/10) コミュニティと公式サポートのため。
+   - 参加する [Asposeフォーラム](https://forum.aspose.com/c/imaging/14) コミュニティと公式サポートのため。
 
 ## リソース
 

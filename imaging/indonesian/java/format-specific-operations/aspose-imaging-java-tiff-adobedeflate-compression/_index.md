@@ -153,7 +153,7 @@ Di akhir tutorial ini, Anda akan merasa nyaman mengonversi gambar raster ke TIFF
 - [Pembelian](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Jelajahi sumber daya ini untuk memperdalam pemahaman Anda dan memanfaatkan Aspose.Imaging untuk Java secara maksimal. Selamat membuat kode!
 

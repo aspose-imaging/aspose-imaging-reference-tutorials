@@ -176,7 +176,7 @@ A: Figyelemmel kell kísérni az erőforrás-felhasználást, optimalizálni kel
 - **Vásárlás:** [Aspose licencelési lehetőségek vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Kezdje ingyenesen az Aspose.Imaginggel](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórum Támogatásért](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Fórum Támogatásért](https://forum.aspose.com/c/imaging/14)
 
 Ezt az útmutatót követve jó úton haladsz a képfeldolgozás elsajátításában az Aspose.Imaging segítségével Java nyelven!
 

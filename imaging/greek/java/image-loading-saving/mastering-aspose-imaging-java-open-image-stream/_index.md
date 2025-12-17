@@ -158,7 +158,7 @@ image.close();
 - [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμαστική έκδοση](https://releases.aspose.com/imaging/java/)
 - [Αίτηση Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Αυτός ο ολοκληρωμένος οδηγός θα σας βοηθήσει να εφαρμόσετε και να χρησιμοποιήσετε αποτελεσματικά το Aspose.Imaging Java για επεξεργασία εικόνας μέσω ροής, βελτιώνοντας την απόδοση και τις δυνατότητες των εφαρμογών σας.
 

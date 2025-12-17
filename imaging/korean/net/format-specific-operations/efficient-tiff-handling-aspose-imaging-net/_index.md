@@ -193,7 +193,7 @@ image.Save(outputPath, new TiffOptions(TiffExpectedFormat.Default));
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험판](https://releases.aspose.com/imaging/net/)
 - [임시 면허 요청](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 지금 당장 Aspose.Imaging을 사용하여 .NET에서 TIFF 처리를 최적화하는 여정을 시작하세요!
 

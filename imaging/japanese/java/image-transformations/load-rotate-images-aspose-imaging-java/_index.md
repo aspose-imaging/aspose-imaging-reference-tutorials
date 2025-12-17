@@ -193,7 +193,7 @@ Aspose.Imaging for Java を使った画像の読み込みと回転の基本を�
 - **購入：** ライセンスを購入する [Aspose 購入ポータル](https://purchase.aspose.com/buy)
 - **無料トライアル:** 一時ライセンスにアクセスするには [Aspose 無料トライアル](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** 入手先 [Aspose 一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- **サポート：** コミュニティに参加して助けを得ましょう [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** コミュニティに参加して助けを得ましょう [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従うことで、Aspose.ImagingをJavaプロジェクトに効果的に組み込み、画像の読み込みと回転を簡単に処理できるようになります。コーディングを楽しみましょう！
 

@@ -188,7 +188,7 @@ In this tutorial, you learned how to load and save DICOM images using Aspose.Ima
 - **Download:** [Latest Releases](https://releases.aspose.com/imaging/java/)
 - **Purchase:** [Buy Aspose Licensing](https://purchase.aspose.com/buy)
 - **Free Trial & Temporary License:** [Get Started](https://releases.aspose.com/imaging/java/)
-- **Support Forum:** [Aspose Community](https://forum.aspose.com/c/imaging/10)
+- **Support Forum:** [Aspose Community](https://forum.aspose.com/c/imaging/14)
 
 This comprehensive guide has equipped you with the skills needed to efficiently manage DICOM images in Java applications using Aspose.Imaging. Happy coding!
 

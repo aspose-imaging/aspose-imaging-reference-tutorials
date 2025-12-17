@@ -133,7 +133,7 @@ A: Aspose.Imaging admite operaciones por lotes a través de bucles y paralelismo
 - **Compra**: [Comprar licencia](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Pruébalo ahora](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal**: [Obtener una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Foro de soporte**: [Haga preguntas aquí](https://forum.aspose.com/c/imaging/10)
+- **Foro de soporte**: [Haga preguntas aquí](https://forum.aspose.com/c/imaging/14)
 
 ¡Comience a utilizar Aspose.Imaging hoy mismo para mejorar sus aplicaciones .NET con sólidas capacidades de procesamiento de imágenes!
 

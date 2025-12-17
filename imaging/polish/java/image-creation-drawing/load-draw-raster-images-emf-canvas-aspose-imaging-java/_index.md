@@ -191,7 +191,7 @@ Do typowych problemów zalicza się niewłaściwą obsługę usuwania obrazów, 
 - **Zakup**: https://purchase.aspose.com/buy
 - **Bezpłatna wersja próbna**: https://releases.aspose.com/imaging/java/
 - **Licencja tymczasowa**: https://purchase.aspose.com/temporary-license/
-- **Wsparcie**: https://forum.aspose.com/c/imaging/10
+- **Wsparcie**: https://forum.aspose.com/c/imaging/14
 
 Mamy nadzieję, że ten przewodnik okaże się pomocny w Twoich projektach. Miłego kodowania!
 

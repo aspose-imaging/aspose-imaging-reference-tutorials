@@ -186,7 +186,7 @@ Aspose.Imaging के साथ काम करते समय:
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण पहुँच](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस अनुरोध](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 यह व्यापक गाइड आपको EMF इमेज प्रोसेसिंग क्षमताओं को आपके .NET अनुप्रयोगों में प्रभावी ढंग से एकीकृत करने के लिए आवश्यक ज्ञान और कौशल से लैस करने के लिए डिज़ाइन किया गया है। Aspose.Imaging के साथ, अपने विकास टूलकिट का विस्तार करें और अपनी परियोजना की कार्यक्षमता को बढ़ाएँ।
 

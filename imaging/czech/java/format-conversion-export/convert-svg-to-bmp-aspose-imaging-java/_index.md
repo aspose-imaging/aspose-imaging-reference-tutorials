@@ -161,7 +161,7 @@ Další kroky? Experimentujte s různými konfiguracemi v `BmpOptions` a prozkou
    - Upravte konfigurace bitmap v rámci `BmpOptions` pro úpravu nastavení kvality výstupu.
 
 5. **Kde mohu najít podporu, pokud narazím na problémy?**
-   - Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) za komunitní a odbornou pomoc.
+   - Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) za komunitní a odbornou pomoc.
 
 ## Zdroje
 

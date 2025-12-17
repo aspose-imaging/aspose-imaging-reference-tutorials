@@ -150,7 +150,7 @@ using (var tempImage = Aspose.Imaging.Image.Load(dataDir + "/Image1.png"))
 Α: Μπορείτε να ξεκινήσετε με μια δωρεάν δοκιμαστική έκδοση ή μια προσωρινή άδεια χρήσης για να αξιολογήσετε τις δυνατότητές του πριν αποφασίσετε να το αγοράσετε.
 
 **Ε: Πώς μπορώ να αντιμετωπίσω συνηθισμένα προβλήματα με τη φόρτωση εικόνων στο Aspose.Imaging;**
-Α: Επαληθεύστε τις διαδρομές αρχείων, ελέγξτε τις εκδόσεις της βιβλιοθήκης και συμβουλευτείτε το [φόρουμ υποστήριξης](https://forum.aspose.com/c/imaging/10) για βοήθεια.
+Α: Επαληθεύστε τις διαδρομές αρχείων, ελέγξτε τις εκδόσεις της βιβλιοθήκης και συμβουλευτείτε το [φόρουμ υποστήριξης](https://forum.aspose.com/c/imaging/14) για βοήθεια.
 
 ## Πόροι
 - **Απόδειξη με έγγραφα**: [Αναφορά Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -158,7 +158,7 @@ using (var tempImage = Aspose.Imaging.Image.Load(dataDir + "/Image1.png"))
 - **Πληροφορίες Αγοράς και Άδειας Χρήσης**: [Σελίδα Αγοράς Aspose](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε τη δωρεάν δοκιμή σας](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -182,7 +182,7 @@ Bu eğitimde, Java için Aspose.Imaging kullanarak resimlere yay çizmeyi ele al
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Alın](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Bilgileri](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Daha detaylı bilgi ve destek için bu kaynaklara göz atmaktan çekinmeyin. İyi kodlamalar!
 

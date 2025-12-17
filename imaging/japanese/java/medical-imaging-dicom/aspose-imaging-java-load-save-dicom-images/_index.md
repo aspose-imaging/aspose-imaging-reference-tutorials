@@ -181,7 +181,7 @@ Aspose.Imaging for Javaは、多用途なソリューションを提供します
 - **ダウンロード：** [最新リリース](https://releases.aspose.com/imaging/java/)
 - **購入：** [Aspose ライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアルと一時ライセンス:** [始める](https://releases.aspose.com/imaging/java/)
-- **サポートフォーラム:** [Aspose コミュニティ](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム:** [Aspose コミュニティ](https://forum.aspose.com/c/imaging/14)
 
 この包括的なガイドでは、Aspose.Imaging を使用して Java アプリケーションで DICOM 画像を効率的に管理するために必要なスキルを習得できます。コーディングを楽しみましょう！
 

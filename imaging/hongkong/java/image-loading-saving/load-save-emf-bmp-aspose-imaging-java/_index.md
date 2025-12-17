@@ -160,7 +160,7 @@ Aspose.Imaging for Java 可用於各種場景：
 答：是的，Aspose 除了 Java 之外，還提供適用於 .NET、C++ 和其他平台的函式庫。
 
 **Q：如果我遇到問題，可以獲得支援嗎？**
-答：訪問 [Aspose 論壇](https://forum.aspose.com/c/imaging/10) 獲得社區和官方支持。
+答：訪問 [Aspose 論壇](https://forum.aspose.com/c/imaging/14) 獲得社區和官方支持。
 
 **Q：使用 Aspose.Imaging 進行影像處理的一些最佳實踐是什麼？**
 答：請務必使用各種檔案大小進行測試，妥善處理異常，並有效管理資源以防止記憶體洩漏。
@@ -172,7 +172,7 @@ Aspose.Imaging for Java 可用於各種場景：
 - **購買**： [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用**： [開始免費試用](https://releases.aspose.com/imaging/java/)
 - **臨時執照**： [取得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 透過學習本教程，您將能夠有效地處理 EMF 文件，並在 Java 專案中充分利用 Aspose.Imaging 的強大功能。祝您程式愉快！
 

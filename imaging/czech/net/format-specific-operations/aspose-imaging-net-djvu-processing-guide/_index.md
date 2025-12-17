@@ -197,7 +197,7 @@ A: Ano, lze jej integrovat do aplikací ASP.NET a dalších serverových framewo
 - **Nákup**: [Koupit licenci Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte Aspose.Imaging zdarma](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Doufáme, že vám tento průvodce pomůže využít Aspose.Imaging pro vaše potřeby zpracování obrázků DjVu v .NET. Přejeme vám příjemné programování!
 

@@ -183,7 +183,7 @@ Je hebt nu onder de knie hoe je JPEG-afbeeldingen laadt en hun EXIF-tags extrahe
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefversie downloaden](https://releases.aspose.com/imaging/net/)
 - [Informatie over tijdelijke licenties](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -213,7 +213,7 @@ Daha derine dalmaya hazır mısınız? Bu çözümleri bugün projelerinizde uyg
 - **Lisans Satın Al**: Ticari kullanım için lisans satın alın [Burada](https://purchase.aspose.com/buy).
 - **Ücretsiz Deneme**: Sınırlama olmaksızın özellikleri test etmek için ücretsiz denemeyle başlayın.
 - **Geçici Lisans**: Tam kapasiteyi keşfetmek için geçici bir lisans edinin.
-- **Destek Forumu**: Herhangi bir sorunuz varsa Aspose destek forumunu ziyaret edin: [Aspose Forumları](https://forum.aspose.com/c/imaging/10).
+- **Destek Forumu**: Herhangi bir sorunuz varsa Aspose destek forumunu ziyaret edin: [Aspose Forumları](https://forum.aspose.com/c/imaging/14).
 
 Bu kılavuzu takip ederek, Aspose.Imaging for Java'yı kullanarak DJVU görüntülerini etkin bir şekilde yönetebilir ve dönüştürebilir, belge işleme iş akışlarınızı kolaylıkla geliştirebilirsiniz.
 

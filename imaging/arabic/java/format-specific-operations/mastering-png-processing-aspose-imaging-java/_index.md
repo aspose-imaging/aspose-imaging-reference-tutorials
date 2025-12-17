@@ -202,7 +202,7 @@ try (Image image = Image.load(imageFilePath)) {
 - **شراء الترخيص**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [ابدأ تجربتك المجانية](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم**: [دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم**: [دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 بفضل هذا الدليل الشامل، أصبحتَ الآن جاهزًا لإتقان معالجة صور PNG في Java باستخدام Aspose.Imaging. برمجة ممتعة!
 

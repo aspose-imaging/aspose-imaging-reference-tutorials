@@ -166,7 +166,7 @@ A5: はい、必要に応じてSVGファイルを読み込み、さらに操作�
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルから始める](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスを申請する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

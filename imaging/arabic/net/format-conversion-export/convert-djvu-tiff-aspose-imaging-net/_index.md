@@ -213,7 +213,7 @@ using (DjvuImage image = (DjvuImage)Image.Load(dataDir))
 - [شراء التراخيص](https://purchase.aspose.com/buy)
 - [تنزيلات تجريبية مجانية](https://releases.aspose.com/imaging/net/)
 - [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 يهدف هذا الدليل إلى تزويدك بالمعرفة والأدوات اللازمة لتحويل صور DjVu بفعالية باستخدام Aspose.Imaging لـ .NET. برمجة ممتعة!
 

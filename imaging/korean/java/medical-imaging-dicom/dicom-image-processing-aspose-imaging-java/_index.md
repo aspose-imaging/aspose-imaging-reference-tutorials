@@ -237,7 +237,7 @@ A5: 무료 체험판 옵션은 있지만, 모든 기능을 사용하려면 라�
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료 체험판을 받아보세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따라 하면 DICOM 처리 작업에서 Aspose.Imaging for Java를 효과적으로 활용할 수 있습니다. 즐거운 코딩 되세요!
 

@@ -160,7 +160,7 @@ A5: その通りです。堅牢な機能セットとパフォーマンスの最�
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料でお試しください](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose.Imaging サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose.Imaging サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースとガイドがあれば、.NETでAspose.Imagingを使用してDICOM画像を扱う準備が整います。コーディングを楽しみましょう！
 

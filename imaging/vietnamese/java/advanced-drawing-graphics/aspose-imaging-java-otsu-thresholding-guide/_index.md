@@ -187,7 +187,7 @@ class FeatureSaveProcessedImage {
 
 Bây giờ bạn đã nắm vững những điều cơ bản về cách sử dụng Aspose.Imaging for Java để tải, xử lý và lưu hình ảnh bằng các kỹ thuật nhị phân hóa. Hãy thử nghiệm thêm bằng cách khám phá các tính năng khác mà thư viện cung cấp, chẳng hạn như lọc nâng cao hoặc chuyển đổi định dạng.
 
-Các bước tiếp theo bao gồm tích hợp chức năng này vào các dự án của bạn và thử nghiệm với các loại hình ảnh và kịch bản xử lý khác nhau. Đừng ngần ngại liên hệ qua [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) nếu bạn có bất kỳ thắc mắc nào!
+Các bước tiếp theo bao gồm tích hợp chức năng này vào các dự án của bạn và thử nghiệm với các loại hình ảnh và kịch bản xử lý khác nhau. Đừng ngần ngại liên hệ qua [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) nếu bạn có bất kỳ thắc mắc nào!
 
 ## Phần Câu hỏi thường gặp
 

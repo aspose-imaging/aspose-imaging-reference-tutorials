@@ -282,7 +282,7 @@ Aspose.Imaging Java'yı kullanarak SVG'leri kolayca ve etkili bir şekilde yöne
 - [Java için Aspose.Imaging'i indirin](https://releases.aspose.com/imaging/java/)
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme ve Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Uygulamalarınızda güçlü görüntü işleme yeteneklerinin kilidini açmak için bugün Aspose.Imaging Java ile yolculuğunuza başlayın!
 

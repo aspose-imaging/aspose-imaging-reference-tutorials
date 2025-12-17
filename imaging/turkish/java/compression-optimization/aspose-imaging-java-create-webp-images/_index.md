@@ -171,7 +171,7 @@ Keşfedin [Aspose belgeleri](https://reference.aspose.com/imaging/java/) ve iler
 - **Belgeler:** [Java için Aspose.Imaging Referansı](https://reference.aspose.com/imaging/java/)
 - **İndirmek:** [Son Sürümler](https://releases.aspose.com/imaging/java/)
 - **Satın Alma ve Deneme:** Lisanslama seçeneklerini keşfedin [Aspose Satın Alma](https://purchase.aspose.com/buy)
-- **Destek:** Topluluk tartışmalarına katılın [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek:** Topluluk tartışmalarına katılın [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bir sonraki projenizde bu adımları deneyerek Aspose.Imaging Java'nın görüntü işleme iş akışlarınızı nasıl kolaylaştırabileceğini ve geliştirebileceğini görün!
 

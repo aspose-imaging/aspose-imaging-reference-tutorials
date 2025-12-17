@@ -226,7 +226,7 @@ Bằng cách làm theo hướng dẫn này, bạn đã biết cách tận dụng
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Đơn xin cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn toàn diện này sẽ trang bị cho bạn kiến thức để bắt đầu chuyển đổi tệp EMF sang PDF bằng Aspose.Imaging for Java một cách hiệu quả. Chúc bạn viết mã vui vẻ!
 

@@ -172,7 +172,7 @@ Du har nu lärt dig hur man skapar en APNG från en enda bild med hjälp av Aspo
 - **Köpa**För en fullständig licens, gå till [Aspose-köp](https://purchase.aspose.com/buy).
 - **Gratis provperiod**Börja med en provperiod på [Aspose Gratis Testperioder](https://releases.aspose.com/imaging/net/).
 - **Tillfällig licens**Få tillfällig åtkomst via [Licenssida](https://purchase.aspose.com/temporary-license/).
-- **Stöd**Delta i diskussioner eller ställ frågor om [Aspose-forumet](https://forum.aspose.com/c/imaging/10).
+- **Stöd**Delta i diskussioner eller ställ frågor om [Aspose-forumet](https://forum.aspose.com/c/imaging/14).
 
 Ge dig ut på din resa för att skapa fängslande animationer med Aspose.Imaging för .NET, och förbättra både dina tekniska färdigheter och dina projektresultat.
 

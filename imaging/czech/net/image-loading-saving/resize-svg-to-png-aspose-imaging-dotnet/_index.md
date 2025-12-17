@@ -180,7 +180,7 @@ Jste připraveni to vyzkoušet? Implementujte tato řešení ve svých projektec
 
 **Otázka 5:** Kde získám podporu, pokud narazím na problémy s Aspose.Imaging?
 
-**A5:** Navštivte [Fórum podpory Aspose.Imaging](https://forum.aspose.com/c/imaging/10) pro pomoc od komunitních expertů a vývojářů.
+**A5:** Navštivte [Fórum podpory Aspose.Imaging](https://forum.aspose.com/c/imaging/14) pro pomoc od komunitních expertů a vývojářů.
 
 ## Zdroje
 - **Dokumentace:** [Dokumentace k Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -188,7 +188,7 @@ Jste připraveni to vyzkoušet? Implementujte tato řešení ve svých projektec
 - **Nákup:** [Koupit licenci Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Bezplatná zkušební verze Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence:** [Získat dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -172,7 +172,7 @@ if (exif != null)
 - **购买：** [购买 Aspose 许可证选项](https://purchase.aspose.com/buy)
 - **免费试用：** [尝试免费试用](https://releases.aspose.com/imaging/net/)
 - **临时执照：** [申请临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 论坛支持](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 论坛支持](https://forum.aspose.com/c/imaging/14)
 
 按照本指南操作，您将能够使用 Aspose.Imaging for .NET 处理 JPEG 图像及其元数据。祝您编码愉快！
 

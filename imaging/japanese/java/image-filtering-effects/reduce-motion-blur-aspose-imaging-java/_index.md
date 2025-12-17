@@ -237,7 +237,7 @@ Aspose.Imaging などの画像処理ライブラリを使用する場合は、�
 - **ドキュメント:** [Aspose.Imaging for Java ドキュメント](https://reference.aspose.com/imaging/java/)
 - **ダウンロード：** [Aspose.Imaging for Java リリース](https://releases.aspose.com/imaging/java/)
 - **購入と無料トライアル:** [Aspose.Imaging for Java を購入または試用する](https://purchase.aspose.com/buy)
-- **サポートフォーラム:** [Aspose サポートコミュニティ](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム:** [Aspose サポートコミュニティ](https://forum.aspose.com/c/imaging/14)
 
 この包括的なガイドを読めば、Aspose.Imaging for Java を使用して画像のモーションブラーを効果的に軽減するための知識が得られます。コーディングを楽しみましょう！
 

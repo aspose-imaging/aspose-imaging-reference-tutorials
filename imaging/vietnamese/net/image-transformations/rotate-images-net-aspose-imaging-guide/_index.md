@@ -156,7 +156,7 @@ A: Các vấn đề thường gặp bao gồm chỉ định góc không chính x
 - **Mua**: [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Hãy thử Aspose.Imaging ngay](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Yêu cầu ở đây](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: Ghé thăm [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10) để được trợ giúp và thảo luận trong cộng đồng.
+- **Ủng hộ**: Ghé thăm [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14) để được trợ giúp và thảo luận trong cộng đồng.
 
 Bằng cách thành thạo các kỹ thuật này, bạn sẽ được trang bị tốt để xử lý nhiều tác vụ xử lý hình ảnh một cách tự tin. Chúc bạn viết mã vui vẻ!
 

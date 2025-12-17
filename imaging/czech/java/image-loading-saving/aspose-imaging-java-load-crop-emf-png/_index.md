@@ -209,7 +209,7 @@ Nyní jste zvládli, jak načítat, ořezávat soubory EMF a převádět je do f
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Využijte sílu Aspose.Imaging Java a pozvedněte své schopnosti zpracování obrazu ještě dnes!
 

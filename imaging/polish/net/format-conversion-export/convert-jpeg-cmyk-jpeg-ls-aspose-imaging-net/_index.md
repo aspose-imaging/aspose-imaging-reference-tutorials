@@ -186,7 +186,7 @@ Zachęcamy Was do stosowania tych technik w swoich projektach i dzielenia się s
 - **Kup licencję:** [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Wypróbuj Aspose.Imaging za darmo](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa:** [Poproś o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie:** [Forum wsparcia Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie:** [Forum wsparcia Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Ten przewodnik powinien umożliwić Ci skuteczną implementację konwersji JPEG-LS CMYK w Twoich aplikacjach .NET, zwiększając zarówno jakość, jak i wydajność. Miłego kodowania!
 

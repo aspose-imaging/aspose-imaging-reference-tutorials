@@ -215,7 +215,7 @@ GIF 프레임을 TIFF로 변환하는 실제 응용 프로그램은 다음과 �
 ### 다음 단계
 - Aspose.Imaging에서 사용할 수 있는 추가 변환 옵션을 살펴보세요.
 - 이 기능을 더 큰 프로젝트나 워크플로에 통합하세요.
-- 피드백을 공유하거나 지원을 요청하세요. [Aspose 커뮤니티 포럼](https://forum.aspose.com/c/imaging/10).
+- 피드백을 공유하거나 지원을 요청하세요. [Aspose 커뮤니티 포럼](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ 섹션
 
@@ -241,7 +241,7 @@ A5: 탐색 [Aspose.Imaging 문서](https://reference.aspose.com/imaging/java/) �
 - **구입:** https://purchase.aspose.com/buy
 - **무료 체험:** https://releases.aspose.com/imaging/java/
 - **임시 면허:** https://purchase.aspose.com/temporary-license/
-- **지원하다:** https://forum.aspose.com/c/imaging/10
+- **지원하다:** https://forum.aspose.com/c/imaging/14
 
 Aspose.Imaging for Java를 활용하면 이미지 변환 프로세스를 간소화하고 디지털 미디어 처리의 새로운 가능성을 열 수 있습니다. 즐거운 코딩 되세요!
 

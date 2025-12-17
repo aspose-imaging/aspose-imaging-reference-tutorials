@@ -137,7 +137,7 @@ image.Save(outputImagePath, exportOptions);
 - [Λήψη Aspose.Imaging για .NET](https://releases.aspose.com/imaging/net/)
 - [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή και προσωρινή άδεια χρήσης](https://releases.aspose.com/imaging/net/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Εξερευνήστε αυτούς τους πόρους για να εμβαθύνετε την κατανόησή σας και να βελτιώσετε τις εφαρμογές σας με το Aspose.Imaging .NET. Καλή κωδικοποίηση!
 

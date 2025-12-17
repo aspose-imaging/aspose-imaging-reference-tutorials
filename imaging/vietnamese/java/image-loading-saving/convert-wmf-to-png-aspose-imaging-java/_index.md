@@ -193,7 +193,7 @@ Khám phá thêm nhiều tính năng khác do Aspose.Imaging cung cấp, chẳng
 - [Tải xuống Aspose.Imaging cho Java](https://releases.aspose.com/imaging/java/)
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí và Giấy phép tạm thời](https://releases.aspose.com/imaging/java/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình với Aspose.Imaging Java ngay hôm nay và thay đổi cách bạn xử lý các tác vụ xử lý hình ảnh!
 

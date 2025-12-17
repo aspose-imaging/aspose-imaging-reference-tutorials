@@ -169,7 +169,7 @@ Chcete-li pokračovat v prozkoumávání možností Aspose.Imaging, zvažte hlub
 4. **Jaké jsou některé běžné problémy při maskování obrázků?**
    - Mezi běžné problémy patří nesprávné definice cest, neošetřené výjimky nebo úzká místa ve výkonu v důsledku velkých velikostí obrázků.
 5. **Kde mohu najít podporu, pokud budu mít další otázky?**
-   - Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) za pomoc od komunitních expertů a zaměstnanců Aspose.
+   - Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) za pomoc od komunitních expertů a zaměstnanců Aspose.
 
 ## Zdroje
 - **Dokumentace**: [Dokumentace k Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)

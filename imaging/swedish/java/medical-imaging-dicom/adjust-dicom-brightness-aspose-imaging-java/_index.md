@@ -183,7 +183,7 @@ Redo att implementera den här lösningen? Fördjupa dig i koden nu!
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova gratis](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Begär tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Omfamna kraften i Aspose.Imaging för Java för att höja dina bildbehandlingsuppgifter med enkelhet och precision!
 

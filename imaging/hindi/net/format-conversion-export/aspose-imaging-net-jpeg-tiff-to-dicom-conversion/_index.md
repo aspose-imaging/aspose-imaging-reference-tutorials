@@ -163,7 +163,7 @@ Aspose.Imaging का उपयोग करते समय इष्टतम 
 - [खरीदना](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहायता](https://forum.aspose.com/c/imaging/10)
+- [सहायता](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

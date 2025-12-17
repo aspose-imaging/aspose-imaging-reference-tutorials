@@ -247,7 +247,7 @@ Je hebt nu onder de knie hoe je TIFF‑padresources kunt converteren naar `Graph
 - **Aankoop:** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
 - **Gratis proefversie:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 ---
 

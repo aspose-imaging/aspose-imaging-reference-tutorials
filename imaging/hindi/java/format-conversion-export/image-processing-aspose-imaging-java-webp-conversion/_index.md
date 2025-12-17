@@ -190,7 +190,7 @@ Aspose.Imaging के साथ कार्य करते समय प्र
 - [खरीदना](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 यह गाइड आपको जावा का उपयोग करके WebP प्रारूप में छवियों को लोड करने और निर्यात करने के लिए Aspose.Imaging का प्रभावी ढंग से उपयोग करने के लिए आवश्यक सभी चीज़ों से लैस करेगी। हैप्पी कोडिंग!
 

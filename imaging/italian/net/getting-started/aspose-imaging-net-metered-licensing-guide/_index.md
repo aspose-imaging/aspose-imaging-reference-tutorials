@@ -147,7 +147,7 @@ In questa guida abbiamo illustrato come implementare le licenze a consumo con As
 - Sperimenta ulteriormente integrando le licenze a consumo in flussi di lavoro più complessi.
 - Esplora le funzionalità aggiuntive offerte da Aspose.Imaging che possono migliorare le capacità della tua applicazione.
 
-Ti invitiamo a provare questa implementazione nei tuoi progetti. Se hai domande o hai bisogno di supporto, non esitare a contattarci tramite [Forum della comunità Aspose](https://forum.aspose.com/c/imaging/10).
+Ti invitiamo a provare questa implementazione nei tuoi progetti. Se hai domande o hai bisogno di supporto, non esitare a contattarci tramite [Forum della comunità Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Sezione FAQ
 **D1: Che cosa sono le licenze a consumo?**

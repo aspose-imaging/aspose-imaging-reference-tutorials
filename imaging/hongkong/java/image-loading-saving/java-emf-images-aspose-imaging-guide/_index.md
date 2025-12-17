@@ -179,7 +179,7 @@ A5：按照許可證取得中概述的步驟取得並啟動您的許可證，無
 - **購買**： [購買許可證](https://purchase.aspose.com/buy)
 - **免費試用**： [從這裡開始](https://releases.aspose.com/imaging/java/)
 - **臨時執照**： [立即申請](https://purchase.aspose.com/temporary-license/)
-- **支援**： [社群論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [社群論壇](https://forum.aspose.com/c/imaging/14)
 
 利用這些資源，您可以進一步探索 Aspose.Imaging 的功能，並解決實施過程中遇到的任何挑戰。祝您編碼愉快！
 

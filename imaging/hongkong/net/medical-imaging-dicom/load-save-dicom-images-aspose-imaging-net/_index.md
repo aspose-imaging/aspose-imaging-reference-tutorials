@@ -126,7 +126,7 @@ A5：是的，Aspose.Imaging 支援雲端環境，允許整合到各種 SaaS 平
 - [購買許可證](https://purchase.aspose.com/buy)
 - [取得免費試用](https://releases.aspose.com/imaging/net/)
 - [申請臨時許可證](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

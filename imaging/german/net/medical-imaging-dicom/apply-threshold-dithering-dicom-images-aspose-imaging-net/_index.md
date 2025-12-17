@@ -154,7 +154,7 @@ Sind Sie bereit, Ihre DICOM-Bildverarbeitungskenntnisse zu erweitern? Implementi
 - [Lizenz erwerben](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/net/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Dieser umfassende Leitfaden stattet Sie mit allem aus, was Sie brauchen, um mit Aspose.Imaging für .NET Schwellenwert-Dithering auf DICOM-Bilder anzuwenden und so Ihre Bildverarbeitungsfunktionen zu verbessern.
 

@@ -228,7 +228,7 @@ Hãy thử áp dụng giải pháp này vào dự án của bạn và xem sự k
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Hãy thử Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn hình ảnh Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn hình ảnh Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách khám phá các tài nguyên này, bạn có thể hiểu sâu hơn về Aspose.Imaging và các khả năng của nó. Chúc bạn viết mã vui vẻ!
 

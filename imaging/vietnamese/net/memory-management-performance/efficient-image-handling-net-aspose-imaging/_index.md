@@ -161,7 +161,7 @@ Mặc dù Aspose.Imaging hỗ trợ nhiều định dạng phổ biến ngay khi
 - **Mua**: [Xin giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Dùng thử Aspose.Imaging miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Yêu cầu ở đây](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Cộng đồng hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Cộng đồng hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn toàn diện này, bạn sẽ được trang bị đầy đủ để xử lý các tác vụ xử lý hình ảnh trong ứng dụng .NET của mình một cách tự tin và hiệu quả. Chúc bạn viết mã vui vẻ!
 

@@ -189,7 +189,7 @@ Jste připraveni uvést do praxe to, co jste se naučili? Zkuste implementovat �
    - Návštěva [Dočasná licence Aspose](https://purchase.aspose.com/temporary-license/) pro podrobnosti o jeho získání.
 
 5. **Jaké možnosti podpory jsou k dispozici, pokud narazím na problémy?**
-   - Ten/Ta/To [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) nabízí pomoc od komunity a týmu Aspose.
+   - Ten/Ta/To [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) nabízí pomoc od komunity a týmu Aspose.
 
 ## Zdroje
 

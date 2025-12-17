@@ -186,7 +186,7 @@ using (WmfImage image = (WmfImage)Image.Load(dataDir + "File.wmf"))
 - **購買**： [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用**： [取得免費試用](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [申請臨時執照](https://purchase.aspose.com/temporary-license/)
-- **支援論壇**： [Aspose 成像支持](https://forum.aspose.com/c/imaging/10)
+- **支援論壇**： [Aspose 成像支持](https://forum.aspose.com/c/imaging/14)
 
 立即踏上 Aspose.Imaging 之旅，釋放 .NET 中影像處理的全部潛力！
 

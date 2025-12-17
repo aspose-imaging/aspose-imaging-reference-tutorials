@@ -184,7 +184,7 @@ Passa all'azione oggi stesso, provando queste tecniche nei tuoi progetti di imma
 - **Acquistare**: [Acquista una licenza](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Funzionalità di prova](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea**: [Richiedi qui](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: [Unisciti al Forum](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: [Unisciti al Forum](https://forum.aspose.com/c/imaging/14)
 
 Seguendo queste linee guida, sarai pronto a migliorare le tue immagini utilizzando le funzionalità di normalizzazione degli istogrammi di Aspose.Imaging Java. Buon lavoro!
 

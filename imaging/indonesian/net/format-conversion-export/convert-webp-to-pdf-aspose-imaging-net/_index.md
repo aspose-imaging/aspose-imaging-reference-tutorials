@@ -160,7 +160,7 @@ Dengan mengikuti panduan ini, Anda telah mempelajari cara mengonversi gambar Web
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Akses Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Aplikasi Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Dengan panduan lengkap ini, Anda kini siap memanfaatkan Aspose.Imaging for .NET dalam proyek Anda. Selamat membuat kode!
 

@@ -195,7 +195,7 @@ By following this guide, you’ve learned how to effectively compress TIFF image
 - **Purchase:** [Buy Now](https://purchase.aspose.com/buy)
 - **Free Trial:** [Start Here](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Request Here](https://purchase.aspose.com/temporary-license/)
-- **Support:** For further assistance, visit the [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** For further assistance, visit the [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

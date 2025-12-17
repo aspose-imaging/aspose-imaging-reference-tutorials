@@ -136,7 +136,7 @@ Kiểm tra tài liệu chính thức và liên kết tải xuống trong phần 
 - **Mua giấy phép**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Dùng thử Aspose.Imaging miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 Chúng tôi hy vọng hướng dẫn này hữu ích trong việc làm chủ xử lý hình ảnh với Aspose.Imaging cho .NET. Chúc bạn viết mã vui vẻ!
 
 {{< /blocks/products/pf/tutorial-page-section >}}

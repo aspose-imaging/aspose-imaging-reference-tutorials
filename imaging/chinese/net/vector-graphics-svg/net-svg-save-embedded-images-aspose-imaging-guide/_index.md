@@ -166,7 +166,7 @@ A5：是的，您可以根据需要加载并进一步操作 SVG 文件。只需�
 - **购买**： [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用**： [从免费试用开始](https://releases.aspose.com/imaging/net/)
 - **临时执照**： [申请临时执照](https://purchase.aspose.com/temporary-license/)
-- **支持**： [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**： [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

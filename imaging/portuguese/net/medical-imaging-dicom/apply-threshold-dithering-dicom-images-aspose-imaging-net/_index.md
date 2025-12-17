@@ -154,7 +154,7 @@ Pronto para aprimorar suas habilidades em processamento de imagens DICOM? Implem
 - [Licença de compra](https://purchase.aspose.com/buy)
 - [Teste grátis](https://releases.aspose.com/imaging/net/)
 - [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte](https://forum.aspose.com/c/imaging/14)
 
 Este guia abrangente fornece tudo o que você precisa para aplicar o pontilhamento de limite a imagens DICOM usando o Aspose.Imaging for .NET, aprimorando seus recursos de processamento de imagens.
 

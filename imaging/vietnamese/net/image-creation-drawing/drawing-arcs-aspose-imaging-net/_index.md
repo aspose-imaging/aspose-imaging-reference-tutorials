@@ -181,7 +181,7 @@ Khi bạn cảm thấy thoải mái hơn với Aspose.Imaging, hãy cân nhắc 
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Chúng tôi hy vọng hướng dẫn này sẽ giúp ích cho bạn trong hành trình sử dụng Aspose.Imaging cho .NET. Chúc bạn viết mã vui vẻ!
 

@@ -250,7 +250,7 @@ R: Considere usar técnicas de processamento em lote e otimizar o uso de memóri
 - **Comprar:** [Compre Aspose](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Comece seu teste gratuito](https://releases.aspose.com/imaging/java/)
 - **Licença temporária:** [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar:** [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar:** [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Implemente esses recursos em seus projetos Java para desbloquear novas funcionalidades e otimizar os fluxos de trabalho de processamento de imagens usando o Aspose.Imaging. Boa programação!
 

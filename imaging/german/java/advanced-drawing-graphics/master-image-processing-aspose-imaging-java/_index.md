@@ -194,7 +194,7 @@ A: Absolut – es läuft überall dort, wo Java unterstützt wird, einschließli
 - **Kauf**: [Buy Aspose Products](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Start a Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Jetzt, ausgestattet mit diesem Wissen, sind Sie bereit, Aspose.Imaging in Ihren Java‑Projekten zu implementieren, um erweiterte Bildverarbeitungs‑Funktionen zu nutzen. Viel Spaß beim Coden!
 

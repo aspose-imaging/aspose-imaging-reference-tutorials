@@ -167,7 +167,7 @@ Sebagai langkah selanjutnya, pertimbangkan untuk bereksperimen dengan fitur-fitu
 - **Beli Lisensi**: [Beli Sekarang](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulai Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Minta di sini](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan**: [Ajukan Pertanyaan](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan**: [Ajukan Pertanyaan](https://forum.aspose.com/c/imaging/14)
 
 Dengan menjelajahi sumber daya ini, Anda akan memiliki dasar yang kuat untuk menguasai Aspose.Imaging dan kemampuannya. Selamat membuat kode!
 

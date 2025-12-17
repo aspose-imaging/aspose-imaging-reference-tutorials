@@ -250,7 +250,7 @@ A: スムーズなパフォーマンスを確保するには、バッチ処理�
 - **購入：** [Asposeを購入する](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料トライアルを始める](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらの機能をJavaプロジェクトに実装することで、Aspose.Imagingを使った新しい機能を活用し、画像処理ワークフローを効率化できます。コーディングを楽しみましょう！
 

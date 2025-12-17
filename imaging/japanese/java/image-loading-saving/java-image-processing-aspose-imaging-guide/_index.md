@@ -181,7 +181,7 @@ Aspose.Imaging for Javaを使った画像の読み込みとフィルタリング
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imagingを無料でお試しください](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose Imagingフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose Imagingフォーラム](https://forum.aspose.com/c/imaging/14)
 
 画像処理の旅に自信を持って乗り出しましょう。成功に必要なツールと知識が揃っています。コーディングを楽しみましょう！
 

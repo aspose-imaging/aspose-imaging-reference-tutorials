@@ -227,7 +227,7 @@ Overweeg vervolgens om de meer geavanceerde functies van Aspose.Imaging te verke
    - Ja, met de juiste licentie is het ideaal voor professionele en zakelijke toepassingen.
 
 5. **Waar kan ik meer informatie over Aspose.Imaging vinden?**
-   - Bezoek [Aspose-documentatie](https://reference.aspose.com/imaging/java/) en de [ondersteuningsforum](https://forum.aspose.com/c/imaging/10) voor gedetailleerde handleidingen en hulp van de community.
+   - Bezoek [Aspose-documentatie](https://reference.aspose.com/imaging/java/) en de [ondersteuningsforum](https://forum.aspose.com/c/imaging/14) voor gedetailleerde handleidingen en hulp van de community.
 
 ## Bronnen
 
@@ -236,7 +236,7 @@ Overweeg vervolgens om de meer geavanceerde functies van Aspose.Imaging te verke
 - **Aankoop**: https://purchase.aspose.com/buy
 - **Gratis proefperiode**: https://releases.aspose.com/imaging/java/
 - **Tijdelijke licentie**: https://purchase.aspose.com/tijdelijke-licentie/
-- **Steun**: https://forum.aspose.com/c/imaging/10
+- **Steun**: https://forum.aspose.com/c/imaging/14
 
 Begin vandaag nog met het onder de knie krijgen van TIFF-imageherstel met Aspose.Imaging voor Java!
 

@@ -171,7 +171,7 @@ Grattis! Du har nu lärt dig hur man laddar och sparar SVG-bilder med Aspose.Ima
 
 **Nästa steg:**
 - Utforska andra funktioner i Aspose.Imaging, som bildtransformationer och filtrering.
-- Gå med i [Aspose.Imaging-forum](https://forum.aspose.com/c/imaging/10) att dela insikter eller söka råd från andra utvecklare.
+- Gå med i [Aspose.Imaging-forum](https://forum.aspose.com/c/imaging/14) att dela insikter eller söka råd från andra utvecklare.
 
 Redo att ta dina Java-projekt till nästa nivå? Fördjupa dig i att implementera dessa lösningar idag!
 
@@ -199,7 +199,7 @@ Redo att ta dina Java-projekt till nästa nivå? Fördjupa dig i att implementer
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provversion nedladdning](https://releases.aspose.com/imaging/java/)
 - [Begär tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Börja integrera Aspose.Imaging för Java idag och effektivisera dina arbetsflöden för bildbehandling!
 

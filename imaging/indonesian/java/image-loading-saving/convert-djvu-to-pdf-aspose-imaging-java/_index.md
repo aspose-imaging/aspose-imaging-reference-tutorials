@@ -206,7 +206,7 @@ Siap untuk mempraktikkan pengetahuan ini? Pelajari lebih dalam [Dokumentasi Aspo
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Permintaan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Jangan ragu untuk menjelajahi sumber daya ini untuk panduan dan dukungan tambahan saat Anda menerapkan Aspose.Imaging dalam proyek Java Anda!
 

@@ -189,7 +189,7 @@ Bu eğitimde, Java için Aspose.Imaging kullanarak ODG dosyalarını PNG'ye etki
 - **Satın almak:** [Lisans satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Aspose.Imaging'i deneyin](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Başvurusu Yapın](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu:** [Aspose Destek Topluluğu](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu:** [Aspose Destek Topluluğu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuz, Aspose.Imaging'i Java projelerinize sorunsuz bir şekilde entegre etmenize yardımcı olmak ve her seferinde yüksek kaliteli görüntü dönüşümleri sağlamak için tasarlanmıştır. İyi kodlamalar!
 

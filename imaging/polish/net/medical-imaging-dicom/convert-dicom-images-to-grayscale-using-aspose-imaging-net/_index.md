@@ -138,7 +138,7 @@ Poznaj dodatkowe funkcje Aspose.Imaging lub zintegruj inne techniki przetwarzani
 2. **Czy mogę konwertować obrazy do formatów innych niż BMP?**
    - Tak, Aspose.Imaging obsługuje różne formaty wyjściowe, takie jak JPEG i PNG.
 3. **Jak rozwiązywać problemy podczas konwersji obrazu?**
-   - Sprawdź ścieżki plików, upewnij się, że używana jest prawidłowa wersja biblioteki i zapoznaj się z [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10).
+   - Sprawdź ścieżki plików, upewnij się, że używana jest prawidłowa wersja biblioteki i zapoznaj się z [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14).
 4. **Czy Aspose.Imaging nadaje się do zastosowań w czasie rzeczywistym?**
    - Mimo że jest to rozwiązanie solidne, należy rozważyć optymalizację wydajności pod kątem potrzeb przetwarzania w czasie rzeczywistym.
 5. **Jakie są typowe przypadki użycia konwersji do skali szarości DICOM?**
@@ -150,7 +150,7 @@ Poznaj dodatkowe funkcje Aspose.Imaging lub zintegruj inne techniki przetwarzani
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/net/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

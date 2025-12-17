@@ -178,7 +178,7 @@ Aspose.Imaging को अन्य प्रणालियों के सा�
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण डाउनलोड](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस आवेदन](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

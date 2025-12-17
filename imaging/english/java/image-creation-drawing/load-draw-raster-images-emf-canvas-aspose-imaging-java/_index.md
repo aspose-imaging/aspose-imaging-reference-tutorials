@@ -198,7 +198,7 @@ Common issues include improper handling of image disposal leading to memory leak
 - **Purchase**: https://purchase.aspose.com/buy
 - **Free Trial**: https://releases.aspose.com/imaging/java/
 - **Temporary License**: https://purchase.aspose.com/temporary-license/
-- **Support**: https://forum.aspose.com/c/imaging/10
+- **Support**: https://forum.aspose.com/c/imaging/14
 
 We hope you find this guide helpful in your projects. Happy coding!
 

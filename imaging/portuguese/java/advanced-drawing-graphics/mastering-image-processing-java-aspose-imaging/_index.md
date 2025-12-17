@@ -171,7 +171,7 @@ Problemas comuns incluem a falha no descarte adequado de recursos e a negligênc
 - **Comprar:** [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Experimente o Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licença temporária:** [Solicitar Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar:** [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar:** [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Seguindo este guia, você estará bem preparado para lidar com tarefas de processamento de imagens usando o Aspose.Imaging para Java. Boa programação!
 

@@ -264,7 +264,7 @@ Khám phá thêm nhiều tài nguyên và tùy chọn hỗ trợ tại:
 - **Mua:** https://purchase.aspose.com/mua
 - **Dùng thử miễn phí:** https://releases.aspose.com/imaging/java/
 - **Giấy phép tạm thời:** https://purchase.aspose.com/giấy-phép-tạm-thời/
-- **Ủng hộ:** https://forum.aspose.com/c/imaging/10
+- **Ủng hộ:** https://forum.aspose.com/c/imaging/14
 
 Nâng cao khả năng xử lý hình ảnh Java của bạn bằng cách tận dụng các tính năng mạnh mẽ của Aspose.Imaging ngay hôm nay!
 

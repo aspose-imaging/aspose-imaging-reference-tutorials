@@ -138,7 +138,7 @@ A: Börja med en gratis provperiod eller begär en tillfällig licens. Köp en f
 - **Köplicens:** [Köp nu](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Kom igång](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens:** [Begär här](https://purchase.aspose.com/temporary-license/)
-- **Supportforum:** [Aspose.Imaging-gemenskapen](https://forum.aspose.com/c/imaging/10)
+- **Supportforum:** [Aspose.Imaging-gemenskapen](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

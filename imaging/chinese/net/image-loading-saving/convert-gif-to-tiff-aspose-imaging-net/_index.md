@@ -154,7 +154,7 @@ frame.Save(tiffOutputPath, new TiffOptions(TiffExpectedFormat.Default));
 - [下载 Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - [购买 Aspose 许可证选项](https://purchase.aspose.com/buy)
 - [免费试用和临时许可证](https://releases.aspose.com/imaging/net/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

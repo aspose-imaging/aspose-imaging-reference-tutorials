@@ -157,7 +157,7 @@ A: Wykorzystaj możliwości przetwarzania wsadowego programu Aspose.Imaging, aby
 A: Wydajność może się różnić w przypadku bardzo dużych plików, jednak Aspose.Imaging jest zaprojektowany tak, aby efektywnie obsługiwać dużą ilość danych graficznych.
 
 **P5: Jakie opcje wsparcia są dostępne, jeśli napotkam problemy?**
-A: Uzyskaj dostęp do szczegółowej dokumentacji i forów społecznościowych, aby uzyskać wskazówki dotyczące rozwiązywania problemów pod adresem [Wsparcie Aspose](https://forum.aspose.com/c/imaging/10).
+A: Uzyskaj dostęp do szczegółowej dokumentacji i forów społecznościowych, aby uzyskać wskazówki dotyczące rozwiązywania problemów pod adresem [Wsparcie Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Zasoby
 - **Dokumentacja**: [Dokumentacja Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)

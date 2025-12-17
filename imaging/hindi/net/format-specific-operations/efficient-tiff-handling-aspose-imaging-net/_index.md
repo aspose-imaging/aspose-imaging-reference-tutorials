@@ -193,7 +193,7 @@ image.Save(outputPath, new TiffOptions(TiffExpectedFormat.Default));
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण संस्करण](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस अनुरोध](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 आज ही .NET में Aspose.Imaging के साथ TIFF हैंडलिंग को अनुकूलित करने की अपनी यात्रा शुरू करें!
 

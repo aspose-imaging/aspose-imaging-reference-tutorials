@@ -203,7 +203,7 @@ Jste připraveni implementovat toto řešení? Vyzkoušejte si ho a uvidíte, ja
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Díky tomuto tutoriálu jste nyní vybaveni k vylepšení svých Java aplikací o výkonné funkce pro zpracování obrazu pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 

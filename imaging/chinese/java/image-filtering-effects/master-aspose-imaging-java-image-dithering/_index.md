@@ -203,7 +203,7 @@ Aspose.Imaging 的抖动功能可应用于各种场景，包括：
 - **购买许可证：** [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用：** [免费试用 Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **临时执照：** [申请临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持论坛：** [Aspose.Imaging 支持](https://forum.aspose.com/c/imaging/10)
+- **支持论坛：** [Aspose.Imaging 支持](https://forum.aspose.com/c/imaging/14)
 
 立即开始探索 Aspose.Imaging for Java 的可能性并增强您的图像处理项目！
 

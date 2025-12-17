@@ -167,7 +167,7 @@ Fedezze fel a további lehetőségeket a [Aspose dokumentáció](https://referen
 - **Vásárlás:** [Aspose licencelés vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Próbálja ki az ingyenes értékelést](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély:** [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -199,7 +199,7 @@ Xin chúc mừng! Bạn đã học cách tải, thao tác và lưu hình ảnh b
    - Nó hỗ trợ hơn 50 định dạng hình ảnh bao gồm JPEG, PNG, TIFF, v.v.
 
 5. **Tôi có thể nhận được trợ giúp như thế nào nếu gặp vấn đề?**
-   - Thăm nom [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10) để được hỗ trợ và tư vấn từ cộng đồng.
+   - Thăm nom [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14) để được hỗ trợ và tư vấn từ cộng đồng.
 
 ## Tài nguyên
 

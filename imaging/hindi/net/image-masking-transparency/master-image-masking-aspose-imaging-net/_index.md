@@ -195,7 +195,7 @@ RasterImage image = (RasterImage)Image.Load(Path.Combine(dataDir, "src.png"));
 - **खरीदना:** [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [निःशुल्क परीक्षण प्राप्त करें](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस:** [अस्थायी लाइसेंस के लिए आवेदन करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता:** [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता:** [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड का पालन करके, आप अपनी परियोजनाओं में Aspose.Imaging for .NET की पूरी क्षमता का उपयोग करने के लिए अच्छी तरह से सुसज्जित हैं। हैप्पी कोडिंग!
 

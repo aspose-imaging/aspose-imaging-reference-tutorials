@@ -191,7 +191,7 @@ Aspose.Imaging के साथ काम करते समय प्रदर
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 इन संसाधनों के साथ, आप महारत हासिल करने के लिए अच्छी तरह से सुसज्जित हैं `BmpOptions` और अपने जावा प्रोजेक्ट्स में Aspose.Imaging की पूरी क्षमता को अनलॉक करें। हैप्पी कोडिंग!
 

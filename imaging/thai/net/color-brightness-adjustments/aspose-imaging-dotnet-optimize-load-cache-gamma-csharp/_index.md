@@ -217,7 +217,7 @@ rasterImageForSaving.Save(outputDir + "/AdjustGamma_out.tiff", tiffOptions);
 - **ซื้อ**- [ซื้อ Aspose.Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [ทดลองใช้ Aspose.Imaging ฟรี](https://releases.aspose.com/imaging/net/)
 - **ใบอนุญาตชั่วคราว**- [รับใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน**- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน**- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 เมื่อทำตามคำแนะนำนี้แล้ว คุณจะพร้อมแล้วที่จะใช้งานฟีเจอร์การประมวลผลภาพขั้นสูงในแอปพลิเคชัน .NET ของคุณโดยใช้ Aspose.Imaging เพลิดเพลินไปกับการสำรวจเพิ่มเติมและปรับปรุงโครงการของคุณ!
 

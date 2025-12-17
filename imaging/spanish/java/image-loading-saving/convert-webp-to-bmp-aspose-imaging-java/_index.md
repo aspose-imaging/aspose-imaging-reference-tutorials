@@ -173,7 +173,7 @@ Siéntase libre de intentar implementar estos pasos en su propio entorno de desa
 - **Compra:** [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Comience una prueba gratuita](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** [Solicitar Licencia Temporal](https://purchase.aspose.com/temporary-license/)
-- **Foro de soporte:** [Foro de soporte de imágenes de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Foro de soporte:** [Foro de soporte de imágenes de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Siéntase libre de explorar estos recursos e integrar Aspose.Imaging en sus proyectos para obtener capacidades de procesamiento de imágenes perfectas.
 

@@ -214,7 +214,7 @@ A: Hoàn toàn đúng. Nó xử lý hiệu quả nhiều định dạng hình �
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Hãy thử Aspose.Imaging miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bây giờ bạn đã có kiến thức này, hãy thử triển khai các tính năng này vào ứng dụng Java của bạn nhé!
 

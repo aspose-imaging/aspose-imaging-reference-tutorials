@@ -186,7 +186,7 @@ Ez az oktatóanyag végigvezette Önt a DICOM metaadatok betöltésén, módosí
 - **Vásárlás**: [Vásároljon Aspose termékeket](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbáld ki az Aspose.Imaging-et](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Képalkotási Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Képalkotási Fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

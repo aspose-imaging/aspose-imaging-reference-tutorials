@@ -177,7 +177,7 @@ Als u nog meer wilt weten over wat Aspose.Imaging te bieden heeft, kunt u de uit
 - **Aankoop:** [Koop licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Probeer Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie:** [Tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Begin vol vertrouwen aan uw volgende beeldverwerkingsproject, wetende dat u over de juiste hulpmiddelen en kennis beschikt om optimale JPEG-kwaliteitsinstellingen te garanderen.
 

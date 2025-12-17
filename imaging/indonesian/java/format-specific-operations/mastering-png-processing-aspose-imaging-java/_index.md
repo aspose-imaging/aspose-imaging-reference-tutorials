@@ -202,7 +202,7 @@ Siap untuk mengembangkan keterampilan Anda lebih jauh? Cobalah menerapkan solusi
 - **Beli Lisensi**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulai Uji Coba Gratis Anda](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan**: [Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan**: [Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan panduan lengkap ini, Anda kini siap menguasai pemrosesan gambar PNG di Java menggunakan Aspose.Imaging. Selamat membuat kode!
 

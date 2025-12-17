@@ -198,7 +198,7 @@ Experimente diferentes configurações do `PdfOptions` aula ou explore mais recu
 - [Comprar uma licença](https://purchase.aspose.com/buy)
 - [Informações sobre o teste gratuito](https://releases.aspose.com/imaging/java/)
 - [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Este guia abrangente visa equipar você com as habilidades necessárias para utilizar o Aspose.Imaging para Java com eficiência, aprimorando seus projetos de mídia digital. Boa programação!
 

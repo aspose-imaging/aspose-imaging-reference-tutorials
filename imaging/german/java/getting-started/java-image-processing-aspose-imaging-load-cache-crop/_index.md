@@ -190,7 +190,7 @@ Als nächste Schritte sollten Sie zusätzliche Funktionen wie Größenänderung,
 - **Kaufen:** [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Kostenlose Testversion von Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Holen Sie sich eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Begeben Sie sich mit Aspose.Imaging für Java auf Ihre Reise zur fortgeschrittenen Bildverarbeitung und erschließen Sie neues Potenzial in Ihren Anwendungen!
 

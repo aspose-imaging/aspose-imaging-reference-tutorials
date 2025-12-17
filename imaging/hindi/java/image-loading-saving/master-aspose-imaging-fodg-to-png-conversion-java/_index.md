@@ -213,7 +213,7 @@ public class FeatureSaveImageAsPng {
 - **खरीदना**: [Aspose उत्पाद खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [Aspose.Imaging निःशुल्क आज़माएँ](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
 
 इन तकनीकों में महारत हासिल करके, आप जावा में जटिल इमेज प्रोसेसिंग कार्यों के लिए Aspose.Imaging का लाभ उठाने के लिए तैयार हैं। हैप्पी कोडिंग!
 

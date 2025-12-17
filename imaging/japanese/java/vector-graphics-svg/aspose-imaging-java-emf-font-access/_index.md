@@ -237,7 +237,7 @@ A5: Aspose.Imaging の操作は本質的にスレッドセーフではありま�
 - **購入：** [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [Aspose.Imaging を試す](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 今すぐ Aspose.Imaging for Java を使い始めて、アプリケーションでの画像処理の可能性を最大限に引き出しましょう。
 

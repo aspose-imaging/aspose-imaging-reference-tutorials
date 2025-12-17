@@ -156,7 +156,7 @@ Bu teknikleri projelerinize entegre ederek veya daha karmaşık veri işleme gö
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kavramlara hakim olarak, dosya G/Ç işlemlerini verimli bir şekilde yöneten güçlü Java uygulamaları oluşturma yolunda iyi bir mesafe kat etmiş olursunuz. İyi kodlamalar!
 

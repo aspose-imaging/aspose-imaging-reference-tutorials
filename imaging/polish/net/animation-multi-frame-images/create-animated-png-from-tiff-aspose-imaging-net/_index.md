@@ -170,7 +170,7 @@ A: Aspose.Imaging obsługuje wiele formatów, w tym JPEG, PNG, GIF, BMP i inne. 
 A: Tak, możesz ustawić niestandardowe czasy klatek za pomocą `ApngOptions`.
 
 **P: Jak rozwiązywać problemy z Aspose.Imaging?**
-A: Zapoznaj się z forum pomocy technicznej [Tutaj](https://forum.aspose.com/c/imaging/10) po pomoc.
+A: Zapoznaj się z forum pomocy technicznej [Tutaj](https://forum.aspose.com/c/imaging/14) po pomoc.
 
 ## Zasoby
 - **Dokumentacja**: [Aspose.Imaging .NET Dokumentacja](https://reference.aspose.com/imaging/net/)
@@ -178,7 +178,7 @@ A: Zapoznaj się z forum pomocy technicznej [Tutaj](https://forum.aspose.com/c/i
 - **Zakup**: [Kup licencję](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Zacznij za darmo](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa**: [Złóż wniosek tutaj](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

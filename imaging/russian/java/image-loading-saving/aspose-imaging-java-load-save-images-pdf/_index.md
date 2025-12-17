@@ -160,7 +160,7 @@ A5: Для бесперебойного использования в произ
 - **Покупка**: [Купить Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Начните бесплатную пробную версию](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия**: [Получить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: [Форумы Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: [Форумы Aspose](https://forum.aspose.com/c/imaging/14)
 
 Воспользуйтесь возможностями Aspose.Imaging Java, чтобы расширить свои возможности обработки изображений!
 

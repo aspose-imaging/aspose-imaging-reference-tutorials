@@ -156,7 +156,7 @@ A5: Embora seja altamente versátil, revise sempre o [documentação](https://re
 - **Comprar**: Compre uma licença para desbloquear todos os recursos em [Aspose Compra](https://purchase.aspose.com/buy).
 - **Teste grátis**: Teste o Aspose.Imaging sem limitações baixando um [Teste grátis](https://releases.aspose.com/imaging/net/).
 - **Licença Temporária**: Obtenha uma licença temporária para avaliação estendida de [Licenças Temporárias](https://purchase.aspose.com/temporary-license/).
-- **Apoiar**: Entre em contato com a comunidade ou procure ajuda em [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10).
+- **Apoiar**: Entre em contato com a comunidade ou procure ajuda em [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

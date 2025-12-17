@@ -242,7 +242,7 @@ Prozkoumejte další funkce Aspose.Imaging pro vylepšení vašich projektů. Ex
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu budete vybaveni k tomu, abyste s jistotou zvládli konverze CMX do PDF pomocí Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

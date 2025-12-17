@@ -186,7 +186,7 @@ Ya domina la conversión de imágenes EMF a varios formatos con Aspose.Imaging p
    - Los problemas comunes incluyen rutas de archivos incorrectas o conversiones de formatos no compatibles; asegúrese de que su configuración coincida con los pasos del tutorial.
 
 5. **¿Dónde puedo encontrar soporte para Aspose.Imaging?**
-   - Visita el [Foro de Aspose](https://forum.aspose.com/c/imaging/10) para obtener ayuda y conectarse con otros usuarios.
+   - Visita el [Foro de Aspose](https://forum.aspose.com/c/imaging/14) para obtener ayuda y conectarse con otros usuarios.
 
 ## Recursos
 

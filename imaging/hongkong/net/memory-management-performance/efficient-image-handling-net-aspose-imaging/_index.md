@@ -161,7 +161,7 @@ Aspose.Imaging 開箱即用地支援多種常見格式，您還可以透過自�
 - **購買**： [取得許可證](https://purchase.aspose.com/buy)
 - **免費試用**： [免費試用 Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [在此請求](https://purchase.aspose.com/temporary-license/)
-- **支援論壇**： [Aspose 支持社區](https://forum.aspose.com/c/imaging/10)
+- **支援論壇**： [Aspose 支持社區](https://forum.aspose.com/c/imaging/14)
 
 遵循這份全面的指南，您將能夠自信且有效率地處理 .NET 應用程式中的影像處理任務。祝您編碼愉快！
 

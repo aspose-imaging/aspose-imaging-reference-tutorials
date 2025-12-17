@@ -194,7 +194,7 @@ try (PngImage pngImage = (PngImage) Image.load("YOUR_DOCUMENT_DIRECTORY/aspose_l
 - [شراء](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 ابدأ مشروعك التالي بثقة، مع العلم أن Aspose.Imaging for Java قد قام بتغطيتك!
 

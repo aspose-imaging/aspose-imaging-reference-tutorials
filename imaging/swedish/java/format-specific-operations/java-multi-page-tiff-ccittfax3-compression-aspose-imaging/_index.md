@@ -245,7 +245,7 @@ I den här handledningen har du lärt dig hur du skapar flersidiga TIFF-filer me
 - **Köpa**: https://purchase.aspose.com/buy
 - **Gratis provperiod**: https://releases.aspose.com/imaging/java/
 - **Tillfällig licens**https://purchase.aspose.com/temporary-license/
-- **Stöd**: https://forum.aspose.com/c/imaging/10
+- **Stöd**: https://forum.aspose.com/c/imaging/14
 
 Nu när du är utrustad med kunskapen kan du börja implementera och utforska dessa tekniker i dina Java-projekt!
 

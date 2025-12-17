@@ -152,7 +152,7 @@ Ready to take your image processing skills to the next level? Implement this sol
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/net/)
 - [Temporary License Request](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 This comprehensive guide will set you on the right path to mastering JPEG baseline compression with Aspose.Imaging for .NET. Happy coding!
 

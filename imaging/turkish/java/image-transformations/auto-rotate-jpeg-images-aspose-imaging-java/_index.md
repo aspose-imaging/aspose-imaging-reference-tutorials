@@ -184,7 +184,7 @@ Bir sonraki zorluğa hazır mısınız? Bu teknikleri uygulayın ve üretkenliğ
 - **Satın almak**: Uzun vadeli kullanım için bir lisans satın almayı düşünün [Aspose Satın Alma Sayfası](https://purchase.aspose.com/buy).
 - **Ücretsiz Deneme**: Özellikleri keşfetmek için ücretsiz denemeyle başlayın [Aspose Imaging Ücretsiz Deneme](https://releases.aspose.com/imaging/java/).
 - **Geçici Lisans**:Uzun süreli testler için geçici lisans alın.
-- **Destek**: Yardım için topluluk forumuna katılın [Aspose Forum](https://forum.aspose.com/c/imaging/10). 
+- **Destek**: Yardım için topluluk forumuna katılın [Aspose Forum](https://forum.aspose.com/c/imaging/14). 
 
 Bu kapsamlı kılavuzla, Aspose.Imaging for Java ile JPEG görüntü işlemeyi ele almak için iyi bir donanıma sahip olacaksınız. İyi kodlamalar!
 

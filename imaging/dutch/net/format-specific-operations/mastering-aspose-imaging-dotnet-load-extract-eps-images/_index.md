@@ -205,7 +205,7 @@ Klaar om naar een hoger niveau te gaan? Probeer deze oplossing eens in een prakt
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Aspose.Imaging gratis proefversies](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Met deze handleiding bent u goed toegerust om Aspose.Imaging te gebruiken voor efficiënt EPS-bestandsbeheer in uw .NET-applicaties. Veel plezier met coderen!
 

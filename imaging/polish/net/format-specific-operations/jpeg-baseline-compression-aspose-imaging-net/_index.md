@@ -147,7 +147,7 @@ Gotowy, aby przenieść swoje umiejętności przetwarzania obrazu na wyższy poz
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/net/)
 - [Wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ten kompleksowy przewodnik wskaże Ci właściwą ścieżkę do opanowania kompresji bazowej JPEG z Aspose.Imaging dla .NET. Miłego kodowania!
 

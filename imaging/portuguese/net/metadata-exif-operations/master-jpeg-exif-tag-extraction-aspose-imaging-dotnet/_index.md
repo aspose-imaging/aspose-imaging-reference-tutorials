@@ -183,7 +183,7 @@ Agora você já domina como carregar imagens JPEG e extrair suas tags EXIF usand
 - [Comprar uma licença](https://purchase.aspose.com/buy)
 - [Download de teste gratuito](https://releases.aspose.com/imaging/net/)
 - [Informações sobre licença temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

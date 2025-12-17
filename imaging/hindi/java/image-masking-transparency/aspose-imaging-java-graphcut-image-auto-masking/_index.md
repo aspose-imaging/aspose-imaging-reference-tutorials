@@ -205,7 +205,7 @@ class LEIntegerReader {
 - मास्किंग विकल्पों के विभिन्न विन्यासों के साथ प्रयोग करें।
 - अतिरिक्त छवि प्रसंस्करण क्षमताओं के लिए Aspose.Imaging द्वारा प्रस्तुत अन्य सुविधाओं का अन्वेषण करें।
 
-आगे के प्रश्नों या सहायता के लिए, यहां जाएं [Aspose.Imaging फ़ोरम](https://forum.aspose.com/c/imaging/10).
+आगे के प्रश्नों या सहायता के लिए, यहां जाएं [Aspose.Imaging फ़ोरम](https://forum.aspose.com/c/imaging/14).
 
 ## अक्सर पूछे जाने वाले प्रश्न अनुभाग
 
@@ -231,7 +231,7 @@ class LEIntegerReader {
 - **खरीदना**: [Aspose लाइसेंसिंग विकल्प खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [निःशुल्क परीक्षण के साथ शुरुआत करें](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [Aspose.Imaging फ़ोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [Aspose.Imaging फ़ोरम](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging और Java के साथ आज ही इमेज ऑटो-मास्किंग में महारत हासिल करने की अपनी यात्रा शुरू करें!
 

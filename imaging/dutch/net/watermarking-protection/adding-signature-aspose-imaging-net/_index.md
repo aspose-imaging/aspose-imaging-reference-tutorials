@@ -161,7 +161,7 @@ Om verder te experimenteren, kunt u overwegen om te experimenteren met andere fu
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Met deze hulpmiddelen bent u goed toegerust om Aspose.Imaging verder te verkennen en het volledige potentieel ervan te benutten voor uw beeldverwerkingsbehoeften. Veel plezier met coderen!
 

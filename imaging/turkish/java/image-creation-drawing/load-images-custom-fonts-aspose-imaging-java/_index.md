@@ -195,7 +195,7 @@ Sonraki adımlar arasında Aspose.Imaging'in daha gelişmiş özelliklerini keş
 - [Aspose Lisansı Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme ve Geçici Lisans](https://releases.aspose.com/imaging/java/)
 
-Bu kılavuzun bilgilendirici ve yararlı olmasını umuyoruz. Başka sorularınız varsa, bizimle iletişime geçmekten çekinmeyin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10). Keyifli kodlamalar!
+Bu kılavuzun bilgilendirici ve yararlı olmasını umuyoruz. Başka sorularınız varsa, bizimle iletişime geçmekten çekinmeyin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14). Keyifli kodlamalar!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

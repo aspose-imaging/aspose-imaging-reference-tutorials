@@ -182,7 +182,7 @@ A5: Có bản dùng thử miễn phí, nhưng một số tính năng nâng cao c
 - **Mua**: [Mua giấy phép Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Hãy thoải mái khám phá các tài nguyên này và bắt đầu triển khai các dự án xử lý hình ảnh của bạn một cách tự tin bằng cách sử dụng Aspose.Imaging cho Java.
 

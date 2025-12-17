@@ -158,7 +158,7 @@ W tym samouczku przyjrzeliśmy się, jak otwierać i przetwarzać obrazy za pomo
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ten kompleksowy przewodnik pomoże Ci skutecznie wdrożyć i wykorzystać pakiet Aspose.Imaging Java do przetwarzania obrazów w oparciu o strumień, zwiększając wydajność i możliwości Twoich aplikacji.
 

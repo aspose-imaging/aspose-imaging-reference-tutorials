@@ -175,7 +175,7 @@ import com.aspose.imaging.fileformats.gif.GifImage;
 - **선적 서류 비치**: [Aspose.Imaging Java 참조](https://reference.aspose.com/imaging/java/)
 - **다운로드**: [Aspose.Imaging 릴리스](https://releases.aspose.com/imaging/java/)
 - **구매 및 라이센스**: [Aspose 라이선스 구매](https://purchase.aspose.com/buy), [무료 체험](https://releases.aspose.com/imaging/java/), [임시 면허](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: 커뮤니티에 참여하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: 커뮤니티에 참여하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging을 Java 프로젝트에 통합하면 워크플로를 간소화하고 향상시키는 강력한 이미지 처리 기능을 활용할 수 있습니다. 즐거운 코딩 되세요!
 

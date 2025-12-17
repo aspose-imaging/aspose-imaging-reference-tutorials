@@ -204,7 +204,7 @@ A5: Verwenden Sie Stapelverarbeitungsfunktionen und stellen Sie sicher, dass Ihr
 - [Laden Sie Aspose.Imaging für Java herunter](https://releases.aspose.com/imaging/java/)
 - [Erwerben Sie eine Lizenz](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion und temporäre Lizenz](https://releases.aspose.com/imaging/java/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Tauchen Sie ein in diese Ressourcen, um Ihr Wissen und Ihre Fähigkeiten mit Aspose.Imaging für Java zu erweitern. Viel Spaß beim Programmieren!
 

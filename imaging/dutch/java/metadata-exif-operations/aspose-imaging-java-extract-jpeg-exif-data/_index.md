@@ -212,7 +212,7 @@ A4: Bezoek [Tijdelijke licentiepagina van Aspose](https://purchase.aspose.com/te
 
 **V5: Welke hulpmiddelen kan ik gebruiken als ik problemen ondervind?**
 
-A5: Het Aspose-communityforum is een uitstekende plek om hulp te zoeken. Bekijk [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10) voor ondersteuning en discussies.
+A5: Het Aspose-communityforum is een uitstekende plek om hulp te zoeken. Bekijk [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14) voor ondersteuning en discussies.
 
 ## Bronnen
 
@@ -221,7 +221,7 @@ A5: Het Aspose-communityforum is een uitstekende plek om hulp te zoeken. Bekijk 
 - **Aankoop**: Meer informatie over licentieopties op [Aspose Aankooppagina](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: Test Aspose.Imaging-functies met een gratis proefversie beschikbaar op [Aspose-downloads](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: Vraag uitgebreide toegang aan via [Aspose Tijdelijke Licentie](https://purchase.aspose.com/temporary-license/)
-- **Steun**: Betrek de gemeenschap bij [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: Betrek de gemeenschap bij [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -179,7 +179,7 @@ Yaygın sorunlar arasında görüntü nesnelerinin düzgün bir şekilde elden �
 Ziyaret etmek [Aspose'un web sitesi](https://purchase.aspose.com/temporary-license/) geçici lisans talebinde bulunmak.
 
 ### Aspose.Imaging .NET ile ilgili sorunlarla karşılaşırsam nereden destek alabilirim?
-Yardım için şuraya gidin: [Aspose Forum](https://forum.aspose.com/c/imaging/10) veya kapsamlı dokümantasyon ve kaynaklarına başvurun.
+Yardım için şuraya gidin: [Aspose Forum](https://forum.aspose.com/c/imaging/14) veya kapsamlı dokümantasyon ve kaynaklarına başvurun.
 
 ## Kaynaklar
 - **Belgeler:** Ayrıntılı kılavuzları keşfedin [Aspose Belgeleri](https://reference.aspose.com/imaging/net/)

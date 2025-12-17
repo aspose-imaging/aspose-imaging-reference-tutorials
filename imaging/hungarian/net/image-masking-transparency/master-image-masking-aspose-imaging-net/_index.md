@@ -195,7 +195,7 @@ Mostanra már alaposan ismerned kell a képmaszkok létrehozásának és manipul
 - **Vásárlás:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Ingyenes próbaverzió igénylése](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével minden szükséges eszközzel felkészülhetsz arra, hogy az Aspose.Imaging for .NET teljes potenciálját kiaknázd a projektjeidben. Jó kódolást!
 

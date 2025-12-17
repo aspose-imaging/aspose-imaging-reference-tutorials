@@ -159,7 +159,7 @@ Aspose.Imaging for .NET을 사용하여 이미지에 회전된 텍스트 워터�
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/net/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이러한 단계를 구현해보고 Aspose.Imaging이 어떻게 이미지 처리 작업을 간소화할 수 있는지 확인해 보세요!
 

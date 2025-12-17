@@ -178,7 +178,7 @@ try {
 - [Αγορά Άδειας Χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/14)
 
 Εφαρμόστε αυτές τις τεχνικές στα έργα Java σας για να αξιοποιήσετε πλήρως τις δυνατότητες του Aspose.Imaging για απρόσκοπτη επεξεργασία και χειρισμό εικόνων.
 

@@ -202,7 +202,7 @@ Jste připraveni posunout své dovednosti dále? Zkuste tato řešení implement
 - **Zakoupit licenci**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začněte svou bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Podpora Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Podpora Aspose](https://forum.aspose.com/c/imaging/14)
 
 S tímto komplexním průvodcem jste nyní vybaveni k zvládnutí zpracování obrázků PNG v Javě pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 

@@ -178,7 +178,7 @@ V5: Bár az Aspose.Imaging maga nem szab szigorú korlátokat, a nagyon nagy ké
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével most már készen állsz arra, hogy hatékony képkezelést valósíts meg Java alkalmazásaidban az Aspose.Imaging használatával. Jó kódolást!
 

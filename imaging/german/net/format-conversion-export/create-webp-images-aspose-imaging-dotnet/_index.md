@@ -189,7 +189,7 @@ Aspose.Imaging ist für effiziente Speicherverwaltung und schnelle Verarbeitung 
 - **Kauflizenz:** [Jetzt kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** Entdecken Sie alle Funktionen mit einer temporären Lizenz von [Hier](https://releases.aspose.com/imaging/net/).
 - **Temporäre Lizenz:** Besorgen Sie sich ein Exemplar zur Evaluierung bei [dieser Link](https://purchase.aspose.com/temporary-license/).
-- **Support-Forum:** Besuchen [Aspose Community-Unterstützung](https://forum.aspose.com/c/imaging/10) bei Fragen oder Problemen.
+- **Support-Forum:** Besuchen [Aspose Community-Unterstützung](https://forum.aspose.com/c/imaging/14) bei Fragen oder Problemen.
 
 Mit dieser umfassenden Anleitung können Sie nun effizient und effektiv WebP-Bilder mit Aspose.Imaging für .NET erstellen. Viel Spaß beim Programmieren!
 

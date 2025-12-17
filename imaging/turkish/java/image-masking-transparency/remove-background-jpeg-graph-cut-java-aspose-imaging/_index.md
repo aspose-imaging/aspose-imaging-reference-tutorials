@@ -212,7 +212,7 @@ Becerilerinizi daha da geliştirmek için Aspose.Imaging'in görüntü dönüş�
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Alın](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Talebinde Bulunun](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging ile yolculuğunuza bugün başlayın ve Java'da görüntü işlemenin tüm potansiyelini ortaya çıkarın!
 

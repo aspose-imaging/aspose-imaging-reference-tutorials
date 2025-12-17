@@ -145,7 +145,7 @@ A5: Processe imagens em paralelo sempre que possível e garanta o descarte adequ
 - **Comprar uma licença**: [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Experimente](https://releases.aspose.com/imaging/net/)
 - **Licença Temporária**: [Solicite aqui](https://purchase.aspose.com/temporary-license/)
-- **Fórum de Suporte**: [Fazer perguntas](https://forum.aspose.com/c/imaging/10)
+- **Fórum de Suporte**: [Fazer perguntas](https://forum.aspose.com/c/imaging/14)
 
 Embarque em sua jornada com o Aspose.Imaging for .NET hoje mesmo e comece a aproveitar o poder dos metadados de imagem!
 

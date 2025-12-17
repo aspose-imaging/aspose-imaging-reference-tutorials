@@ -171,7 +171,7 @@ Sekarang, Anda seharusnya sudah memiliki pemahaman yang kuat tentang cara melaku
 - **Beli Lisensi:** [Beli Sekarang](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Dapatkan Uji Coba Gratis Anda](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara:** [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan:** [Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan:** [Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

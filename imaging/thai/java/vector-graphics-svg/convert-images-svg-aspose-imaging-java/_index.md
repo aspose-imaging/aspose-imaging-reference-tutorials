@@ -201,7 +201,7 @@ finally {
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ดาวน์โหลดทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - [การขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10) 
+- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14) 
 
 หากทำตามคำแนะนำนี้ คุณก็จะสามารถเรียนรู้การประมวลผลภาพด้วย Aspose.Imaging Java ได้อย่างคล่องแคล่ว ขอให้สนุกกับการเขียนโค้ด!
 

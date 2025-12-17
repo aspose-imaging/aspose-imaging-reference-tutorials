@@ -169,7 +169,7 @@ A5 : Vérifiez les chemins d'accès aux fichiers et les autorisations, et assur
 - **Achat:** [Acheter une licence](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Démarrer l'essai gratuit](https://releases.aspose.com/imaging/net/)
 - **Licence temporaire :** [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien:** [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

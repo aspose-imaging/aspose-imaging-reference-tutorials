@@ -228,7 +228,7 @@ Probeer deze oplossing eens uit in uw projecten en zie het verschil!
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Door deze bronnen te verkennen, kunt u uw begrip van Aspose.Imaging en de mogelijkheden ervan verdiepen. Veel plezier met coderen!
 

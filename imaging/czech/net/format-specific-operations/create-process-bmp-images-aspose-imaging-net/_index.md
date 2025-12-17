@@ -199,7 +199,7 @@ Zvažte použití technik paralelního zpracování a zajistěte efektivní spr�
 - **Nákup**: [Kupte si produkty Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Získejte bezplatnou zkušební licenci](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum podpory Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum podpory Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -187,7 +187,7 @@ I den här handledningen utforskade vi hur man laddar och ritar en rasterbild p�
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Information om gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden borde du nu vara väl rustad för att integrera rasterbilder i SVG-canvaser med hjälp av Aspose.Imaging för Java. Lycka till med kodningen!
 

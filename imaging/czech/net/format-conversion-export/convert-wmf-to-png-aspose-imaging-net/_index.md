@@ -112,7 +112,7 @@ Optimalizace výkonu:
 ## Závěr
 Úspěšně jste se naučili, jak převést soubor WMF do formátu PNG pomocí Aspose.Imaging .NET. Tato dovednost je neocenitelná pro správu digitálních zdrojů napříč platformami a aplikacemi. Dále prozkoumejte další funkce Aspose.Imaging nebo jej integrujte s jinými systémy pro vylepšení funkčnosti.
 
-**Výzva k akci:** Zkuste toto řešení implementovat ve svém dalším projektu! Podělte se o své výsledky a otázky na [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+**Výzva k akci:** Zkuste toto řešení implementovat ve svém dalším projektu! Podělte se o své výsledky a otázky na [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Sekce Často kladených otázek
 1. **Co je WMF číslo?**

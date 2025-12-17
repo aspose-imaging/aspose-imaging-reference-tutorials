@@ -198,7 +198,7 @@ Java 프로젝트를 한 단계 더 발전시킬 준비가 되셨나요? 지금 
 - **구매 및 라이센스:** 구매 옵션에 대해 자세히 알아보세요. [Aspose 구매 페이지](https://purchase.aspose.com/buy)
 - **무료 체험:** 방문하여 무료 체험판을 시작하세요 [Aspose 체험판 페이지](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** 전체 기능 액세스를 위한 임시 라이센스를 요청하세요. [Aspose의 임시 라이센스 페이지](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** 커뮤니티에 참여하고 지원을 구하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** 커뮤니티에 참여하고 지원을 구하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 이러한 리소스를 활용하면 프로젝트에서 Aspose.Imaging for Java의 강력한 기능을 활용할 수 있습니다. 즐거운 코딩 되세요!
 

@@ -175,7 +175,7 @@ A: Revise suas configurações de rasterização e suavização no `PdfOptions` 
 - **Comprar**: [Compre licenças Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Inicie um teste gratuito do Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Licença Temporária**: [Obtenha uma licença temporária para Aspose.Imaging](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum de Imagem Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Apoiar**: [Fórum de Imagem Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Seguindo este guia, você estará bem equipado para lidar com conversões de CMX para PDF com facilidade.
 

@@ -206,7 +206,7 @@ Genom att följa den här guiden har du lärt dig hur du ritar ellipser med båd
 - **Köpa**: https://purchase.aspose.com/buy
 - **Gratis provperiod**: https://releases.aspose.com/imaging/java/
 - **Tillfällig licens**https://purchase.aspose.com/temporary-license/
-- **Stöd**: https://forum.aspose.com/c/imaging/10
+- **Stöd**: https://forum.aspose.com/c/imaging/14
 
 Vi hoppas att du tyckte att den här handledningen var hjälpsam. Lycka till med kodningen!
 

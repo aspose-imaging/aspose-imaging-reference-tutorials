@@ -131,7 +131,7 @@ Aspose.Imaging을 사용할 때 최적의 성능을 위해 다음 팁을 고려�
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료 체험판 시작하기](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [여기에서 요청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [Aspose 지원](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [Aspose 지원](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

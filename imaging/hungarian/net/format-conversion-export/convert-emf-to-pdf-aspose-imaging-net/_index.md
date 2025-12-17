@@ -166,7 +166,7 @@ További kutatás céljából érdemes lehet az Aspose.Imaging egyéb funkcióit
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével most már képes leszel EMF-PDF konverziót megvalósítani .NET projektjeidben az Aspose.Imaging használatával. Jó kódolást!
 

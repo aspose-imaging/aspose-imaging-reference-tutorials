@@ -242,7 +242,7 @@ public class CMXToPDFConverter {
 - [Αγορά Άδειας Χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, είστε εξοπλισμένοι για να αντιμετωπίσετε τις μετατροπές CMX σε PDF με σιγουριά χρησιμοποιώντας το Aspose.Imaging για Java. Καλή κωδικοποίηση!
 

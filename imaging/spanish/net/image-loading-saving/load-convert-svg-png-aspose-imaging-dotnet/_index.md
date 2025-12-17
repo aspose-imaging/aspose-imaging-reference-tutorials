@@ -157,7 +157,7 @@ Ya domina los conceptos básicos de la carga y conversión de imágenes SVG con 
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Descarga de prueba gratuita](https://releases.aspose.com/imaging/net/)
 - [Solicitud de licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Explora estos recursos para profundizar tus conocimientos y aprovechar Aspose.Imaging para .NET en tus proyectos de desarrollo. ¡Que disfrutes programando!
 

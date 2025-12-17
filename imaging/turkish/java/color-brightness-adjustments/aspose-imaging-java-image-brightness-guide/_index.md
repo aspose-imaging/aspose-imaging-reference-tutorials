@@ -219,7 +219,7 @@ Daha fazla okuma ve destek için:
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Teklifleri](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Bilgileri](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Java için Aspose.Imaging'i kullanarak, geliştirme sürecinizi kolaylaştıran güçlü görüntü işleme yeteneklerinin kilidini açabilirsiniz. İyi kodlamalar!
 

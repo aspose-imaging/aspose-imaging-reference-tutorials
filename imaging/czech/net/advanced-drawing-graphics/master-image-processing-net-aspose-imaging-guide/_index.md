@@ -175,7 +175,7 @@ A3: Ano, ale ujistěte se, že máte řádnou licenci od [Aspose](https://purcha
 A4: Ano, implementujte dávkové zpracování pro efektivní zpracování více souborů, což může výrazně zkrátit dobu zpracování.
 
 **Q5: Kde mohu získat podporu, pokud narazím na problémy?**
-A5: Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) za pomoc jak týmu Aspose, tak i členům komunity.
+A5: Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) za pomoc jak týmu Aspose, tak i členům komunity.
 
 ## Zdroje
 - **Dokumentace:** Prozkoumejte podrobné průvodce a reference API na [Dokumentace k Aspose.Imaging](https://reference.aspose.com/imaging/net/).

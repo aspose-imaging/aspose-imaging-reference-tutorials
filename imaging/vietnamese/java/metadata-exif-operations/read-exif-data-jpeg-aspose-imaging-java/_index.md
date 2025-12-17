@@ -144,7 +144,7 @@ Trong hướng dẫn này, bạn đã học cách tận dụng Aspose.Imaging fo
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Hãy thử Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn cộng đồng Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn cộng đồng Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn có thể triển khai hiệu quả việc đọc dữ liệu EXIF trong các ứng dụng Java của mình bằng Aspose.Imaging.
 

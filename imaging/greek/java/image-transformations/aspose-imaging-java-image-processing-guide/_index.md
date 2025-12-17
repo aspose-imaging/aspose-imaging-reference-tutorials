@@ -264,7 +264,7 @@ public class SaveImage {
 - **Αγορά:** https://purchase.aspose.com/buy
 - **Δωρεάν δοκιμή:** https://releases.aspose.com/imaging/java/
 - **Προσωρινή Άδεια:** https://purchase.aspose.com/temporary-license/
-- **Υποστήριξη:** https://forum.aspose.com/c/imaging/10
+- **Υποστήριξη:** https://forum.aspose.com/c/imaging/14
 
 Ανεβάστε την επεξεργασία εικόνας Java στο επόμενο επίπεδο αξιοποιώντας τις ισχυρές δυνατότητες του Aspose.Imaging σήμερα!
 

@@ -150,7 +150,7 @@ A5: Gedetailleerde documentatie is te vinden op [Aspose.Imaging .NET-documentati
 - **Aankooplicentie**: [Nu kopen](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Aan de slag](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Solliciteer hier](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Aspose.Imaging-ondersteuning](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Aspose.Imaging-ondersteuning](https://forum.aspose.com/c/imaging/14)
 
 Veel plezier met coderen en geniet van het experimenteren met Aspose.Imaging om uw beeldverwerkingsbehoeften tot leven te brengen!
 

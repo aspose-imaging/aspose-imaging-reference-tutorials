@@ -182,7 +182,7 @@ De gratis proefperiode kent evaluatiebeperkingen, zoals watermerken op bewerkte 
 - **Aankoop:** [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Aspose.Imaging gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Een tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Forum Ondersteuning](https://forum.aspose.com/c/imaging/10) 
+- **Steun:** [Aspose Forum Ondersteuning](https://forum.aspose.com/c/imaging/14) 
 
 Met deze uitgebreide handleiding bent u goed toegerust om Aspose.Imaging voor Java in uw projecten te gebruiken. Veel plezier met coderen!
 

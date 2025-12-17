@@ -237,7 +237,7 @@ V5: Vannak ingyenes próbaverziók, de a teljes funkcionalitás eléréséhez li
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Ingyenes próbaverzió igénylése](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével felkészült leszel arra, hogy az Aspose.Imaging for Java-t kihasználd a DICOM feldolgozási feladataidban. Jó kódolást!
 

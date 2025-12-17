@@ -188,7 +188,7 @@ Siguiendo esta guía, ha aprendido a comprimir eficazmente imágenes TIFF median
 - **Compra:** [Comprar ahora](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Empieza aquí](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** [Solicitar aquí](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** Para obtener más ayuda, visite el sitio web [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** Para obtener más ayuda, visite el sitio web [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

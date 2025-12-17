@@ -199,7 +199,7 @@ Herzlichen Glückwunsch! Sie haben gelernt, wie Sie Bilder mit Aspose.Imaging f�
    - Es unterstützt über 50 Bildformate, darunter JPEG, PNG, TIFF und mehr.
 
 5. **Wie kann ich Hilfe erhalten, wenn ich auf Probleme stoße?**
-   - Besuchen [Asposes Forum](https://forum.aspose.com/c/imaging/10) für Unterstützung und Community-Beratung.
+   - Besuchen [Asposes Forum](https://forum.aspose.com/c/imaging/14) für Unterstützung und Community-Beratung.
 
 ## Ressourcen
 

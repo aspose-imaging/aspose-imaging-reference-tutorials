@@ -145,7 +145,7 @@ V tomto tutoriálu jste se naučili, jak aplikovat ztrátovou kompresi GIF pomoc
 - **Nákup**: [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte to](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Ptejte se](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Ptejte se](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -184,7 +184,7 @@ Podejmij ryzyko i zacznij stosować te techniki w swoim kolejnym projekcie!
 - **Kup licencję**: [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Rozpocznij bezpłatny okres próbny](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**: [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dzięki wdrożeniu tych kroków i wykorzystaniu dostarczonych zasobów będziesz dobrze wyposażony do obsługi kompresji obrazów BMP za pomocą Aspose.Imaging dla Java. Udanego kodowania!
 

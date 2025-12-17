@@ -179,7 +179,7 @@ Aspose.Imaging क्या प्रदान करता है, इसका
 - **क्रय लाइसेंस:** [अभी खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [अपना नि: शुल्क परीक्षण शुरू करो](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस अनुरोध:** [यहां अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच:** [Aspose समर्थन समुदाय](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच:** [Aspose समर्थन समुदाय](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड का पालन करके, आप Aspose.Imaging का उपयोग करके अपने जावा अनुप्रयोगों में DICOM इमेज प्रोसेसिंग कार्यों को संभालने के लिए अच्छी तरह से सुसज्जित हैं। हैप्पी कोडिंग!
 

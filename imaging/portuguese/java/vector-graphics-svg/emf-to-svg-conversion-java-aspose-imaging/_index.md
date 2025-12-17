@@ -199,7 +199,7 @@ Experimente implementar esta solução em um projeto hoje mesmo e veja como ela 
    - biblioteca está disponível sob uma licença de teste; todos os recursos exigem compra.
 
 5. **Onde posso obter suporte, se necessário?**
-   - Visita [Fórum de suporte da Aspose](https://forum.aspose.com/c/imaging/10) para assistência.
+   - Visita [Fórum de suporte da Aspose](https://forum.aspose.com/c/imaging/14) para assistência.
 
 ## Recursos
 

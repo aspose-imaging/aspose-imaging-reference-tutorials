@@ -227,7 +227,7 @@ Ensuite, envisagez d'explorer les fonctionnalités plus avancées d'Aspose.Imagi
    - Oui, avec une licence appropriée, il est idéal pour les applications professionnelles et d'entreprise.
 
 5. **Où puis-je trouver plus de ressources sur Aspose.Imaging ?**
-   - Visite [Documentation Aspose](https://reference.aspose.com/imaging/java/) et le [forum d'assistance](https://forum.aspose.com/c/imaging/10) pour des guides détaillés et une aide communautaire.
+   - Visite [Documentation Aspose](https://reference.aspose.com/imaging/java/) et le [forum d'assistance](https://forum.aspose.com/c/imaging/14) pour des guides détaillés et une aide communautaire.
 
 ## Ressources
 
@@ -236,7 +236,7 @@ Ensuite, envisagez d'explorer les fonctionnalités plus avancées d'Aspose.Imagi
 - **Achat**: https://purchase.aspose.com/buy
 - **Essai gratuit**: https://releases.aspose.com/imaging/java/
 - **Permis temporaire**: https://purchase.aspose.com/temporary-license/
-- **Soutien**: https://forum.aspose.com/c/imaging/10
+- **Soutien**: https://forum.aspose.com/c/imaging/14
 
 Lancez-vous dès aujourd'hui dans votre voyage pour maîtriser la récupération d'images TIFF avec Aspose.Imaging pour Java !
 

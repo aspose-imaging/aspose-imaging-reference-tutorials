@@ -171,7 +171,7 @@ Khám phá [Tài liệu Aspose](https://reference.aspose.com/imaging/java/) và 
 - **Tài liệu:** [Tài liệu tham khảo Aspose.Imaging cho Java](https://reference.aspose.com/imaging/java/)
 - **Tải xuống:** [Bản phát hành mới nhất](https://releases.aspose.com/imaging/java/)
 - **Mua và dùng thử:** Khám phá các tùy chọn cấp phép tại [Mua Aspose](https://purchase.aspose.com/buy)
-- **Ủng hộ:** Tham gia thảo luận cộng đồng trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** Tham gia thảo luận cộng đồng trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy thử các bước này trong dự án tiếp theo của bạn để xem Aspose.Imaging Java có thể hợp lý hóa và cải thiện quy trình xử lý hình ảnh của bạn như thế nào!
 

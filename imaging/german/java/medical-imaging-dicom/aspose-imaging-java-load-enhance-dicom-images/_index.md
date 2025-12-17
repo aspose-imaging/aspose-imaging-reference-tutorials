@@ -203,7 +203,7 @@ Bereit für die Implementierung dieser Lösung? Probieren Sie sie aus und überz
 - [Lizenz erwerben](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit diesem Tutorial sind Sie nun in der Lage, Ihre Java-Anwendungen mit leistungsstarken Bildverarbeitungsfunktionen mithilfe von Aspose.Imaging zu erweitern. Viel Spaß beim Programmieren!
 

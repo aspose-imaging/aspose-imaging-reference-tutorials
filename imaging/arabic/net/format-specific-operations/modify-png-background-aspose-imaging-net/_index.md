@@ -156,7 +156,7 @@ if (!Directory.Exists(dataDir))
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [ابدأ مجانًا](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [الحصول على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتديات أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتديات أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -204,7 +204,7 @@ Bây giờ bạn đã có kiến thức để vẽ các chuỗi với các căn 
 - **Mua:** [Mua giấy phép Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Dùng thử Aspose.Imaging miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Ủng hộ:** [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Khám phá các tài nguyên này để nâng cao hiểu biết và khả năng của bạn với Aspose.Imaging for Java. Chúc bạn viết mã vui vẻ!
 

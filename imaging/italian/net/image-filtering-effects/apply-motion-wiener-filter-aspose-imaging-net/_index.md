@@ -152,7 +152,7 @@ Hai imparato ad applicare il filtro Motion Wiener utilizzando Aspose.Imaging per
 - **Acquistare:** [Acquista la licenza di Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Inizia la prova gratuita](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea:** [Richiedi una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Intraprendi oggi stesso il tuo viaggio per padroneggiare l'elaborazione delle immagini con Aspose.Imaging per .NET!
 

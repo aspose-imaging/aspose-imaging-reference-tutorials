@@ -203,7 +203,7 @@ A5: Navštivte [Dokumentace Aspose](https://reference.aspose.com/imaging/java/) 
 - **Nákup**https://purchase.aspose.com/buy
 - **Bezplatná zkušební verze**https://releases.aspose.com/imaging/java/
 - **Dočasná licence**https://purchase.aspose.com/temporary-license/
-- **Podpora**https://forum.aspose.com/c/imaging/10
+- **Podpora**https://forum.aspose.com/c/imaging/14
 
 Prozkoumejte tyto zdroje a prohloubete své znalosti a aplikaci Aspose.Imaging v Javě. Přejeme vám příjemné programování!
 

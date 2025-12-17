@@ -149,7 +149,7 @@ Anda telah mempelajari cara mengonversi file SVG ke format SVGZ terkompresi meng
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda dengan Aspose.Imaging untuk .NET dan jelajahi potensi grafik vektor yang dioptimalkan hari ini!
 

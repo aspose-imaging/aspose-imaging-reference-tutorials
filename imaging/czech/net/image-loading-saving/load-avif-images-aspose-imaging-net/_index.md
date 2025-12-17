@@ -153,7 +153,7 @@ Nyní jste se naučili, jak načítat obrázky AVIF pomocí Aspose.Imaging pro .
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Stáhnout zkušební verzi zdarma](https://releases.aspose.com/imaging/net/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

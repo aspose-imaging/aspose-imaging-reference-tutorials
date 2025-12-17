@@ -160,7 +160,7 @@ A5: แน่นอน ชุดคุณสมบัติที่แข็ง
 - **ซื้อ**- [ซื้อ Aspose.Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [ทดลองใช้ฟรี](https://releases.aspose.com/imaging/net/)
 - **ใบอนุญาตชั่วคราว**- [ขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน**- [ฟอรั่มสนับสนุน Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน**- [ฟอรั่มสนับสนุน Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 ด้วยทรัพยากรเหล่านี้และคู่มือนี้ คุณจะพร้อมแล้วที่จะเริ่มทำงานกับรูปภาพ DICOM โดยใช้ Aspose.Imaging ใน .NET ขอให้สนุกกับการเขียนโค้ด!
 

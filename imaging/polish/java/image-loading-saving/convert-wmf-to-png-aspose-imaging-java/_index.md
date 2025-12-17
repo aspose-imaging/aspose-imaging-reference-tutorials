@@ -193,7 +193,7 @@ Poznaj więcej funkcji oferowanych przez Aspose.Imaging, takich jak konwersja fo
 - [Pobierz Aspose.Imaging dla Java](https://releases.aspose.com/imaging/java/)
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna i licencja tymczasowa](https://releases.aspose.com/imaging/java/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij przygodę z Aspose.Imaging Java już dziś i zmień sposób, w jaki obsługujesz zadania związane z przetwarzaniem obrazów!
 

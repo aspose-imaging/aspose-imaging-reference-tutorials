@@ -192,7 +192,7 @@ A: Kiểm tra tài nguyên hệ thống của bạn và tối ưu hóa việc s�
 - **Tải xuống:** Nhận phiên bản mới nhất từ [Aspose.Imaging phát hành](https://releases.aspose.com/imaging/java/).
 - **Mua:** Có được giấy phép đầy đủ tại [Trang mua hàng Aspose](https://purchase.aspose.com/buy).
 - **Dùng thử miễn phí & Giấy phép tạm thời:** Trải nghiệm các tính năng không giới hạn bằng cách nhận bản dùng thử miễn phí hoặc giấy phép tạm thời tại các liên kết tương ứng.
-- **Ủng hộ:** Để được hỗ trợ thêm, hãy truy cập [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10).
+- **Ủng hộ:** Để được hỗ trợ thêm, hãy truy cập [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

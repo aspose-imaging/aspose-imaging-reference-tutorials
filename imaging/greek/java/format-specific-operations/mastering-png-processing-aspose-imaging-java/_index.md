@@ -202,7 +202,7 @@ try (Image image = Image.load(imageFilePath)) {
 - **Αγορά Άδειας Χρήσης**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε τη δωρεάν δοκιμή σας](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ Υποστήριξης**: [Υποστήριξη Aspose](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ Υποστήριξης**: [Υποστήριξη Aspose](https://forum.aspose.com/c/imaging/14)
 
 Με αυτόν τον ολοκληρωμένο οδηγό, είστε πλέον εξοπλισμένοι για να τελειοποιήσετε την επεξεργασία εικόνων PNG σε Java χρησιμοποιώντας το Aspose.Imaging. Καλή κωδικοποίηση!
 

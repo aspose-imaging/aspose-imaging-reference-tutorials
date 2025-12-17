@@ -149,7 +149,7 @@ A3：在图像加载代码周围实现 try-catch 块以优雅地处理异常。
 A4：是的，您可以使用 Aspose.Imaging 的综合 API 读取和写入 EXIF 标签。
 
 **Q5：如果我遇到问题，我可以在哪里获得支持？**
-A5：访问 [Aspose.Imaging 论坛](https://forum.aspose.com/c/imaging/10) 获得社区和官方支持。
+A5：访问 [Aspose.Imaging 论坛](https://forum.aspose.com/c/imaging/14) 获得社区和官方支持。
 
 ## 资源
 

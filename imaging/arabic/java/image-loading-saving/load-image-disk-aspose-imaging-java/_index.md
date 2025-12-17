@@ -182,7 +182,7 @@ image.close();
 - [خيارات الشراء](https://purchase.aspose.com/buy)
 - [الوصول إلى النسخة التجريبية المجانية](https://releases.aspose.com/imaging/java/)
 - [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- [دعم المجتمع](https://forum.aspose.com/c/imaging/10)
+- [دعم المجتمع](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا الدليل، ستكون جاهزًا تمامًا للاستفادة من إمكانيات Aspose.Imaging لـ Java في مشاريعك. برمجة ممتعة!
 

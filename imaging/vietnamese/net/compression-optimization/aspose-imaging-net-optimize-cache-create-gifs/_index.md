@@ -182,7 +182,7 @@ Khám phá thêm nhiều tính năng được cung cấp bởi Aspose.Imaging tr
    - Sử dụng cài đặt bộ nhớ đệm để quản lý việc phân bổ tài nguyên hiệu quả và cân nhắc các kỹ thuật xử lý hàng loạt.
 
 4. **Có hỗ trợ nào không nếu tôi gặp sự cố với Aspose.Imaging?**
-   - Có, bạn có thể tìm thấy sự trợ giúp trên [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10).
+   - Có, bạn có thể tìm thấy sự trợ giúp trên [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14).
 
 5. **Một số cách thực hành tốt nhất khi sử dụng bảng màu tùy chỉnh trong GIF là gì?**
    - Chọn màu sắc phù hợp nhất với mục tiêu thiết kế của bạn và thử nhiều cách kết hợp khác nhau để đạt được kết quả tối ưu.

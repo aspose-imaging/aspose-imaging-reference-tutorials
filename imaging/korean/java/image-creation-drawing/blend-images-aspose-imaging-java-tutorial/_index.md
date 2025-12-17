@@ -210,7 +210,7 @@ A: 오버레이와 배경 이미지가 고해상도인지 확인하세요. 또�
 - **라이센스 구매**: [Aspose 구매 페이지](https://purchase.aspose.com/buy)
 - **무료 체험**: [Java용 Aspose.Imaging을 사용해 보세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허 취득](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [Aspose 이미징 지원](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [Aspose 이미징 지원](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 통해 Aspose.Imaging for Java를 사용하여 이미지 블렌딩을 시작할 수 있습니다. 즐거운 코딩 되세요!
 

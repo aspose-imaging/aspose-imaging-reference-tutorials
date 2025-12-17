@@ -182,7 +182,7 @@ Dalam tutorial ini, kami telah membahas cara menggambar busur pada gambar menggu
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Dapatkan Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Informasi Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Jangan ragu untuk mempelajari sumber daya ini untuk mendapatkan informasi dan dukungan yang lebih rinci. Selamat membuat kode!
 

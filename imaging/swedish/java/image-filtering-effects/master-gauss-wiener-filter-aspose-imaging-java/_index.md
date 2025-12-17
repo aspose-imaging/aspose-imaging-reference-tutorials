@@ -212,7 +212,7 @@ Du har nu lärt dig hur du använder Aspose.Imaging för Java för att ladda bil
 - **Köpa**: [Köp nu](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Kom igång](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Begär här](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**: [Aspose.Imaging-gemenskapen](https://forum.aspose.com/c/imaging/10)
+- **Supportforum**: [Aspose.Imaging-gemenskapen](https://forum.aspose.com/c/imaging/14)
 
 Vi hoppas att den här guiden ger dig möjlighet att förbättra dina projekt med sofistikerade bildbehandlingsfunktioner. Lycka till med kodningen!
 

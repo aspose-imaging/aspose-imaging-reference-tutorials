@@ -182,7 +182,7 @@ Dengan mengikuti panduan ini, Anda telah mempelajari cara menggunakan Aspose.Ima
 - **Unduh**: [Rilis Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Pembelian**: [Opsi Lisensi Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan**: [Komunitas Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan**: [Komunitas Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Sekarang setelah Anda memiliki semua alat dan pengetahuan, mulailah bereksperimen dengan Aspose.Imaging untuk Java untuk melepaskan kreativitas Anda dalam pemrosesan gambar!
 

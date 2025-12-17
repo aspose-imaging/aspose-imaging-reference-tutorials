@@ -181,7 +181,7 @@ Tak, Aspose.Imaging udostępnia kompleksowe narzędzia do edycji obrazów, w tym
 Dostosuj ustawienia rozdzielczości i jakości za pomocą opcji konfiguracji Aspose.Imaging, aby zachować integralność obrazu.
 
 **5. Czy istnieje pomoc techniczna, jeśli wystąpią problemy z Aspose.Imaging?**
-Tak, możesz szukać pomocy na [Fora Aspose'a](https://forum.aspose.com/c/imaging/10) o wsparcie społeczności lub oficjalne.
+Tak, możesz szukać pomocy na [Fora Aspose'a](https://forum.aspose.com/c/imaging/14) o wsparcie społeczności lub oficjalne.
 
 ## Zasoby
 

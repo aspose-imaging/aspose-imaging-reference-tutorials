@@ -166,7 +166,7 @@ Trong hướng dẫn này, bạn đã học cách quản lý hình ảnh EMF hi�
 - **Mua:** [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Yêu cầu ở đây](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn sẽ được trang bị đầy đủ để xử lý hình ảnh EMF hiệu quả trong các ứng dụng Java của mình bằng Aspose.Imaging. Chúc bạn viết mã vui vẻ!
 

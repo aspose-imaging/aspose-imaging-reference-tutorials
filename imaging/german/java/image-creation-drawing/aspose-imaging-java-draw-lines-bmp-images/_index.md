@@ -211,7 +211,7 @@ Zu den nächsten Schritten gehört die Erkundung erweiterter Funktionen wie die 
 - [Lizenz erwerben](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit dieser Anleitung sind Sie bestens gerüstet, Aspose.Imaging in Ihre Java-Projekte zu integrieren und so von robusten Bildbearbeitungsfunktionen zu profitieren. Viel Spaß beim Programmieren!
 

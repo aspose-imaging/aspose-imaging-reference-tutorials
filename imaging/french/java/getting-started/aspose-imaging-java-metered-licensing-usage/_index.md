@@ -200,7 +200,7 @@ Les prochaines étapes incluent l’exploration de fonctionnalités supplémenta
    - Utilisez le `Metered.getConsumptionQuantity()` méthode avant et après le traitement des images pour suivre l'utilisation.
 
 5. **Existe-t-il une assistance disponible si je rencontre des problèmes ?**
-   - Visite [Forum Aspose](https://forum.aspose.com/c/imaging/10) pour obtenir l’aide d’experts de la communauté.
+   - Visite [Forum Aspose](https://forum.aspose.com/c/imaging/14) pour obtenir l’aide d’experts de la communauté.
 
 ## Ressources
 

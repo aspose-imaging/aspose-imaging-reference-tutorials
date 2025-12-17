@@ -159,7 +159,7 @@ Díky tomuto tutoriálu jste se naučili, jak načítat a kreslit rastrové obr�
 - **Možnosti nákupu:** https://purchase.aspose.com/buy
 - **Bezplatná zkušební verze:** https://releases.aspose.com/imaging/java/
 - **Dočasná licence:** https://purchase.aspose.com/temporary-license/
-- **Fórum podpory:** https://forum.aspose.com/c/imaging/10
+- **Fórum podpory:** https://forum.aspose.com/c/imaging/14
 
 Využitím Aspose.Imaging pro Javu můžete vylepšit své aplikace o pokročilé funkce pro zpracování obrazu. Přejeme vám příjemné programování!
 

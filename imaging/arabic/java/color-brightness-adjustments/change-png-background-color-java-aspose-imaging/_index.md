@@ -189,7 +189,7 @@ rasterImg.save("YOUR_OUTPUT_DIRECTORY/ChangeBackgroundColor_out.png");
    - يزور [ترخيص Aspose المؤقت](https://purchase.aspose.com/temporary-license/) للحصول على تفاصيل حول كيفية الحصول عليه.
 
 5. **ما هي خيارات الدعم المتاحة إذا واجهت مشاكل؟**
-   - ال [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10) يقدم المساعدة من المجتمع وفريق Aspose.
+   - ال [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14) يقدم المساعدة من المجتمع وفريق Aspose.
 
 ## موارد
 

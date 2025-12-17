@@ -211,7 +211,7 @@ public class SaveConcatenatedTIFFImages {
 - **Покупка**: Купить лицензию для коммерческого использования на [эта ссылка](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: Начните с бесплатной пробной версии, чтобы протестировать функции [Сайт Aspose](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия**: Получите временную лицензию для расширенной оценки от [здесь](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: Присоединяйтесь к обсуждениям или обратитесь за помощью на [Форум Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: Присоединяйтесь к обсуждениям или обратитесь за помощью на [Форум Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

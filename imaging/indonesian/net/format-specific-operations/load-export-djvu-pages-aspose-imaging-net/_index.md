@@ -168,7 +168,7 @@ Siap untuk menyelami lebih dalam? Terapkan solusi ini dalam proyek Anda hari ini
 - [Pembelian](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Jelajahi sumber daya ini untuk meningkatkan pemahaman dan penerapan Aspose.Imaging .NET untuk menangani file DjVu. Selamat membuat kode!
 

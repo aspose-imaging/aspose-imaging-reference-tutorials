@@ -156,7 +156,7 @@ Khám phá sâu hơn bằng cách tích hợp các kỹ thuật này vào dự �
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách nắm vững các khái niệm này, bạn đang trên đường tạo ra các ứng dụng Java mạnh mẽ có thể quản lý hiệu quả các hoạt động I/O tệp. Chúc bạn viết mã vui vẻ!
 

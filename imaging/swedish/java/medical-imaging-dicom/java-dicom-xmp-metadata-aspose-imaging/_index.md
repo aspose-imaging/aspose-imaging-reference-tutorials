@@ -228,7 +228,7 @@ I den här handledningen har du lärt dig hur du laddar, modifierar och sparar D
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Börja integrera dessa kraftfulla bildbehandlingsfunktioner i dina Java-applikationer idag och förbättra hur du hanterar DICOM-bilder!
 

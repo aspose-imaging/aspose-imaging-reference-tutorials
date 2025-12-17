@@ -225,7 +225,7 @@ Prêt à essayer ? Mettez en œuvre ces techniques dans votre prochain projet e
 - [Licence d'achat](https://purchase.aspose.com/buy)
 - [Accès d'essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Demande de permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 Grâce à ce guide complet, vous êtes désormais prêt à exploiter Aspose.Imaging Java pour un traitement d'images efficace dans vos projets. Bon codage !
 

@@ -243,7 +243,7 @@ A5: Használhatja a `setTransparentColor()` metódust, megadva azt a színt, ame
 - **Licenc vásárlása**: [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Indítsa el az ingyenes próbaverziót](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Kérdések feltevése](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Kérdések feltevése](https://forum.aspose.com/c/imaging/14)
 
 Reméljük, hogy ez az útmutató hasznosnak bizonyult az Aspose.Imaging segítségével végzett Java képmanipuláció során. Ha bármilyen kérdése van, forduljon hozzánk bizalommal a támogatási fórumon keresztül, vagy tekintse meg a dokumentációt részletesebb információkért. Jó kódolást!
 

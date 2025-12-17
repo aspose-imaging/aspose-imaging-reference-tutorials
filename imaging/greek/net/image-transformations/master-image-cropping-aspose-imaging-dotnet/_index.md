@@ -150,7 +150,7 @@ A5: Οι εργασίες περιλαμβάνουν αλλαγή μεγέθου
 - **Αγορά:** Εξερευνήστε τις επιλογές αδειοδότησης στο [Αγορά Aspose](https://purchase.aspose.com/buy).
 - **Δωρεάν δοκιμή:** Ξεκινήστε με μια δοκιμή μέσω [εδώ](https://releases.aspose.com/imaging/net/).
 - **Προσωρινή Άδεια:** Ζητήστε ένα για εκτεταμένες δοκιμές μέσω [αυτός ο σύνδεσμος](https://purchase.aspose.com/temporary-license/).
-- **Υποστήριξη:** Γίνετε μέλος του φόρουμ της κοινότητας στη διεύθυνση [Υποστήριξη Aspose](https://forum.aspose.com/c/imaging/10).
+- **Υποστήριξη:** Γίνετε μέλος του φόρουμ της κοινότητας στη διεύθυνση [Υποστήριξη Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

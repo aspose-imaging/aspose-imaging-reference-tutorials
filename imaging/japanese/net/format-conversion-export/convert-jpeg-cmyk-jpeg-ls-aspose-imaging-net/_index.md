@@ -186,7 +186,7 @@ Aspose.Imaging を使用して .NET で画像変換を行う場合は、パフ�
 - **ライセンスを購入:** [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [Aspose.Imagingを無料でお試しください](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス:** [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Aspose.Imaging サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Aspose.Imaging サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドを活用すれば、.NETアプリケーションにJPEG-LS CMYK変換を効果的に実装し、品質と効率性の両方を向上させることができます。コーディングを楽しみましょう！
 

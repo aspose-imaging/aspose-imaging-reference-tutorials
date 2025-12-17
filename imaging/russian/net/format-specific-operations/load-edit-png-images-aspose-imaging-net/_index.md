@@ -150,7 +150,7 @@ png.Save("YOUR_OUTPUT_DIRECTORY/SettingResolution_output.png", options);
 - [Купить лицензию](https://purchase.aspose.com/buy)
 - [Бесплатная пробная версия](https://releases.aspose.com/imaging/net/)
 - [Временная лицензия](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки сообщества](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки сообщества](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

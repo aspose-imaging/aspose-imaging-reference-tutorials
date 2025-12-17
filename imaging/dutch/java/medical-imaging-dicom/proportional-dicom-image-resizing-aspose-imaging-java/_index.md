@@ -204,7 +204,7 @@ In deze handleiding hebben we besproken hoe u DICOM-afbeeldingen proportioneel k
 - **Aankoop**: https://purchase.aspose.com/buy
 - **Gratis proefperiode**: https://releases.aspose.com/imaging/java/
 - **Tijdelijke licentie**: https://purchase.aspose.com/tijdelijke-licentie/
-- **Steun**: https://forum.aspose.com/c/imaging/10
+- **Steun**: https://forum.aspose.com/c/imaging/14
 
 Door gebruik te maken van deze bronnen kunt u uw kennis verdiepen en Aspose.Imaging effectief implementeren in uw Java-applicaties. Veel plezier met coderen!
 

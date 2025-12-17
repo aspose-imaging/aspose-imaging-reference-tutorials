@@ -197,7 +197,7 @@ for (int i : range.getRange()) {
 - **ซื้อใบอนุญาต:** [ซื้อ Aspose.Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี:** [เริ่มทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว:** [รับใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **ฟอรั่มการสนับสนุน:** [การสนับสนุน Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **ฟอรั่มการสนับสนุน:** [การสนับสนุน Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 เริ่มต้นการเดินทางของคุณสู่การเชี่ยวชาญการแปลงเอกสารด้วย Aspose.Imaging Java วันนี้!
 

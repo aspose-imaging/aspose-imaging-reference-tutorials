@@ -173,7 +173,7 @@ Jste připraveni to vyzkoušet? Implementujte tato řešení a uvidíte, jak moh
 - **Zakoupit licenci**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začněte s bezplatným vyhodnocením](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Požádejte o jeden zde](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Zapojte se do diskuse](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Zapojte se do diskuse](https://forum.aspose.com/c/imaging/14)
 
 Ponořte se do těchto zdrojů a rozšířte si znalosti a schopnosti v oblasti konverze obrázků pomocí Aspose.Imaging .NET.
 

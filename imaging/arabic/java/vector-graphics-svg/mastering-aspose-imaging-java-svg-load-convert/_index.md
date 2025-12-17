@@ -160,7 +160,7 @@ try {
 - **شراء:** [شراء ترخيص Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [ابدأ التجربة المجانية](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة:** [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [دعم منتدى Aspose](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** [دعم منتدى Aspose](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا الدليل، ستكون على الطريق الصحيح لإتقان التعامل مع صور SVG في Java باستخدام Aspose.Imaging. برمجة ممتعة!
 

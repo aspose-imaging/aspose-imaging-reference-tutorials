@@ -170,7 +170,7 @@ A3：使用高效率的記憶體管理技術，例如 try-with-resources，並�
 A4：是的，Aspose.Imaging 可以與其他 Java 程式庫一起使用，以提供全面的影像處理解決方案。
 
 **Q5：如果我遇到問題，我可以在哪裡獲得支援？**
-A5：訪問 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10) 尋求援助和社區指導。
+A5：訪問 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14) 尋求援助和社區指導。
 
 ## 資源
 

@@ -149,7 +149,7 @@ Redo att testa dina nya färdigheter? Implementera den här lösningen i ditt n�
 - Köpa: [Köp en licens](https://purchase.aspose.com/buy)
 - Gratis provperiod: [Prova Aspose.Imaging för .NET](https://releases.aspose.com/imaging/net/)
 - Tillfällig licens: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- Stöd: [Aspose-forum](https://forum.aspose.com/c/imaging/10)
+- Stöd: [Aspose-forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

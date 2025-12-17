@@ -175,7 +175,7 @@ A: Rasterleştirme ve yumuşatma ayarlarınızı gözden geçirin `PdfOptions` y
 - **Satın almak**: [Aspose.Imaging Lisanslarını Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'in Ücretsiz Deneme Sürümünü Başlatın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Aspose.Imaging için Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Görüntüleme Forumu](https://forum.aspose.com/c/imaging/10) 
+- **Destek**: [Aspose Görüntüleme Forumu](https://forum.aspose.com/c/imaging/14) 
 
 Bu kılavuzu takip ederek CMX'i PDF'ye dönüştürme işlemlerini kolaylıkla yapabilecek donanıma sahip olacaksınız.
 

@@ -182,7 +182,7 @@ Bu becerileri uygulamaya koymaya hazır mısınız? Aspose.Imaging'in yetenekler
 4. **Dönüştürme işleminden sonra TIFF dosyalarım bozuk görünüyorsa ne yapmalıyım?**
    - Rasterleştirme seçeneklerinin görüntünüzün gereksinimleriyle eşleştiğini doğrulayın ve dosya yollarında hata olup olmadığını kontrol edin.
 5. **Aspose.Imaging ile ilgili sorunlarla karşılaşırsam destek alabileceğim bir yer var mı?**
-   - Evet, ziyaret edin [Aspose forumu](https://forum.aspose.com/c/imaging/10) Topluluk desteği için veya doğrudan destek ekibiyle iletişime geçin.
+   - Evet, ziyaret edin [Aspose forumu](https://forum.aspose.com/c/imaging/14) Topluluk desteği için veya doğrudan destek ekibiyle iletişime geçin.
 
 ## Kaynaklar
 - [Aspose.Görüntüleme Belgeleri](https://reference.aspose.com/imaging/net/)

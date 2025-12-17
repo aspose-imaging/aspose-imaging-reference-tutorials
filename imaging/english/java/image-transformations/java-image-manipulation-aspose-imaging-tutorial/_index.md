@@ -220,7 +220,7 @@ Ready to put what you've learned into practice? Try integrating these features i
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Free Trial Version](https://releases.aspose.com/imaging/java/)
 - [Temporary License Request](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Embark on your journey with Aspose.Imaging for Java and unlock the full potential of image manipulation in your applications!
 

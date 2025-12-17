@@ -165,7 +165,7 @@ Zrób kolejny krok, eksperymentując z różnymi konfiguracjami i przypadkami u�
 - **Zakup:** Kup licencję na [Strona licencjonowania Aspose](https://purchase.aspose.com/buy).
 - **Bezpłatna wersja próbna:** Wypróbuj Aspose.Imaging, korzystając z bezpłatnej wersji próbnej dostępnej na stronie internetowej wydawcy.
 - **Licencja tymczasowa:** Uzyskaj rozszerzony dostęp poprzez opcję licencji tymczasowej.
-- **Wsparcie:** Dołącz do dyskusji lub poszukaj pomocy na [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Wsparcie:** Dołącz do dyskusji lub poszukaj pomocy na [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Zachęcamy do eksperymentowania i integrowania zsynchronizowanego dostępu do strumieni w projektach Java w celu zwiększenia stabilności i wydajności!
 

@@ -177,7 +177,7 @@ Zkuste tyto techniky implementovat ve svém dalším projektu a uvidíte, jak v�
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 S touto příručkou jste dobře připraveni začít používat Aspose.Imaging pro Javu ve svých projektech. Přejeme vám příjemné programování!
 

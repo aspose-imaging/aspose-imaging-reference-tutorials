@@ -189,7 +189,7 @@ Aspose.Imaging .NET ile çok iş parçacıklı DJVU işlemeyi uygulayarak, gör�
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Erişimi](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans Bilgileri](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10) 
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14) 
 
 Aspose.Imaging ile verimli görüntü işleme yolculuğunuza çıkın ve .NET'te çok iş parçacıklı DJVU görüntü işlemenin tüm potansiyelini ortaya çıkarın!
 

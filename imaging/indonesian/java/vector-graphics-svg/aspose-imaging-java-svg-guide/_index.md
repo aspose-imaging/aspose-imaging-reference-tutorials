@@ -171,7 +171,7 @@ Selamat! Anda telah berhasil mempelajari cara memuat dan menyimpan gambar SVG me
 
 **Langkah Berikutnya:**
 - Jelajahi fitur lain dari Aspose.Imaging seperti transformasi dan pemfilteran gambar.
-- Bergabunglah dengan [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) untuk berbagi wawasan atau mencari saran dari sesama pengembang.
+- Bergabunglah dengan [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) untuk berbagi wawasan atau mencari saran dari sesama pengembang.
 
 Siap untuk membawa proyek Java Anda ke tingkat berikutnya? Mulailah menerapkan solusi ini hari ini!
 
@@ -199,7 +199,7 @@ Siap untuk membawa proyek Java Anda ke tingkat berikutnya? Mulailah menerapkan s
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Unduh Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulai integrasikan Aspose.Imaging untuk Java hari ini dan sederhanakan alur kerja pemrosesan gambar Anda!
 

@@ -126,7 +126,7 @@ A5: ใช่ Aspose.Imaging รองรับสภาพแวดล้อม
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [รับทดลองใช้งานฟรี](https://releases.aspose.com/imaging/net/)
 - [ขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

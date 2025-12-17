@@ -200,7 +200,7 @@ A4: Obrazy w skali szarości zawierają wyłącznie odcienie szarości, co pozwa
 
 **P5: Gdzie mogę uzyskać pomoc, jeśli napotkam problemy z Aspose.Imaging?**
 
-A5: Odwiedź [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10) aby uzyskać pomoc od ekspertów społeczności i oficjalnego personelu wsparcia.
+A5: Odwiedź [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14) aby uzyskać pomoc od ekspertów społeczności i oficjalnego personelu wsparcia.
 
 ## Zasoby
 

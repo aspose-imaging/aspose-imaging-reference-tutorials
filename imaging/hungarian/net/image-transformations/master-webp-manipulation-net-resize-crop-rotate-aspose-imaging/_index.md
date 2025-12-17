@@ -216,7 +216,7 @@ Alkalmazd ezeket a megoldásokat még ma a projektjeidben!
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Aspose.Imaging ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Kezdje el magabiztosan a képszerkesztési utaját az Aspose.Imaging for .NET segítségével!
 

@@ -157,7 +157,7 @@ A: While this guide focuses on JPEG, Aspose.Imaging supports various formats. Ch
 - **Purchase**: [Buy Now](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Free](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Get Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Forums](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Forums](https://forum.aspose.com/c/imaging/14)
 
 With this knowledge, you're well-equipped to handle image processing tasks with precision and confidence. Happy coding!
 

@@ -221,7 +221,7 @@ A5: Thêm phụ thuộc Aspose.Imaging vào dự án của bạn bằng Maven ho
 - **Mua**: Có được giấy phép thông qua [Trang mua hàng của Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: Bắt đầu thử nghiệm với [Bản dùng thử miễn phí của Aspose](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**Có được quyền truy cập mở rộng thông qua [Trang giấy phép tạm thời của Aspose](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**:Tham gia cộng đồng và nhóm hỗ trợ trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**:Tham gia cộng đồng và nhóm hỗ trợ trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn sẽ được trang bị đầy đủ để triển khai xác thực tệp và quản lý đường dẫn trong các ứng dụng Java của mình bằng Aspose.Imaging. Chúc bạn viết mã vui vẻ!
 

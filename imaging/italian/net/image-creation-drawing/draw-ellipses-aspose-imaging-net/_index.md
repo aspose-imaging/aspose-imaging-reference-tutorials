@@ -161,7 +161,7 @@ I prossimi passi potrebbero includere l'integrazione di questa funzionalità in 
 - [Acquista licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/net/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Prova a implementare queste tecniche nel tuo prossimo progetto e scopri come Aspose.Imaging per .NET può migliorare le tue capacità di elaborazione delle immagini!
 

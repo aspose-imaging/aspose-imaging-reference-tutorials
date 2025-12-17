@@ -133,7 +133,7 @@ Bir sonraki adımınız olarak Aspose.Imaging'in ek özelliklerini keşfetmeyi v
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans Başvurusu](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET ile görüntü işleme konusunda ustalaşma yolculuğunuza bugün başlayın!
 

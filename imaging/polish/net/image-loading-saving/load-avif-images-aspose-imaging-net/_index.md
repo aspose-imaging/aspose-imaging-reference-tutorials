@@ -153,7 +153,7 @@ Teraz wiesz, jak ładować obrazy AVIF za pomocą Aspose.Imaging dla .NET. Ta po
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna do pobrania](https://releases.aspose.com/imaging/net/)
 - [Wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

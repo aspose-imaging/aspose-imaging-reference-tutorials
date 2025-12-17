@@ -198,7 +198,7 @@ Experimenteer met verschillende EXIF-velden en ontdek de geavanceerdere functies
    - Absoluut, het is ontworpen om effectief aan hoge prestatievereisten te voldoen.
 
 5. **Hoe kan ik een bijdrage leveren aan de gemeenschap of hulp zoeken bij problemen?**
-   - Doe mee met de [Aspose-forum](https://forum.aspose.com/c/imaging/10) om vragen te stellen en inzichten te delen.
+   - Doe mee met de [Aspose-forum](https://forum.aspose.com/c/imaging/14) om vragen te stellen en inzichten te delen.
 
 ## Bronnen
 

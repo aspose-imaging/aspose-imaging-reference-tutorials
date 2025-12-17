@@ -255,7 +255,7 @@ TIFF هو تنسيق مرن يدعم طبقات متعددة وصور عالية
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [احصل على نسخة تجريبية مجانية من Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [التقدم بطلب للحصول على ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 بالاستفادة من هذه الموارد، يمكنك توسيع معرفتك وقدراتك باستخدام Aspose.Imaging لـ Java. برمجة ممتعة!
 

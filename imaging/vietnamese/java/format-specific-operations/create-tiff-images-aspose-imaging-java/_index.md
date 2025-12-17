@@ -196,7 +196,7 @@ Khám phá thêm nhiều tính năng của Aspose.Imaging bằng cách tìm hi�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Yêu cầu cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách thành thạo các kỹ thuật này, bạn sẽ được trang bị tốt để xử lý các tác vụ xử lý hình ảnh phức tạp trong các ứng dụng Java của mình. Chúc bạn viết mã vui vẻ!
 

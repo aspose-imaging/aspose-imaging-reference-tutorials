@@ -204,7 +204,7 @@ Trong hướng dẫn này, bạn đã học cách chuyển đổi hình ảnh PN
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Truy cập dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Đơn xin cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ cộng đồng](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ cộng đồng](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn toàn diện này, giờ đây bạn đã có thể xử lý hiệu quả việc chuyển đổi PNG sang JPEG-LS và ngược lại bằng Aspose.Imaging for Java. Chúc bạn viết mã vui vẻ!
 

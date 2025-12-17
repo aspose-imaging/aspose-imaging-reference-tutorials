@@ -205,7 +205,7 @@ In diesem Tutorial haben wir untersucht, wie Sie die automatische Bildmaskierung
 - Experimentieren Sie mit verschiedenen Konfigurationen der Maskierungsoptionen.
 - Entdecken Sie weitere von Aspose.Imaging angebotene Funktionen für zusätzliche Bildverarbeitungsmöglichkeiten.
 
-Für weitere Fragen oder Unterstützung besuchen Sie die [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10).
+Für weitere Fragen oder Unterstützung besuchen Sie die [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ-Bereich
 
@@ -231,7 +231,7 @@ A: Mit der kostenlosen Testversion können Sie alle Funktionen testen, die Bilde
 - **Kaufen**: [Aspose-Lizenzierungsoptionen kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Beginnen Sie mit einer kostenlosen Testversion](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Holen Sie sich eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Begeben Sie sich noch heute auf die Reise zur Beherrschung der automatischen Bildmaskierung mit Aspose.Imaging und Java!
 

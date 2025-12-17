@@ -196,7 +196,7 @@ try (TiffImage tiffImage = new TiffImage(new TiffFrame(options, 100, 100))) {
 - [Лицензия на покупку](https://purchase.aspose.com/buy)
 - [Бесплатная пробная версия](https://releases.aspose.com/imaging/java/)
 - [Запрос на временную лицензию](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Освоив эти методы, вы будете хорошо подготовлены к решению сложных задач обработки изображений в ваших приложениях Java. Удачного кодирования!
 

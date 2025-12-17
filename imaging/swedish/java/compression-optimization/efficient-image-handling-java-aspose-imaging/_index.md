@@ -223,7 +223,7 @@ A5: Se till att du cachar bilder efter inläsning, ändrar storlek effektivt med
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Aspose.Imaging Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10) 
+- **Stöd**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14) 
 
 Med den här omfattande guiden är du väl rustad för att börja integrera Aspose.Imaging i dina Java-projekt för effektiv bildhantering. Lycka till med kodningen!
 

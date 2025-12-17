@@ -199,7 +199,7 @@ Aspose.Imaging は、BMP、PNG、JPEG、TIFF など、幅広い形式をサポ�
 - **購入**： [Aspose製品を購入する](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルライセンスを入手する](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose.Imaging サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose.Imaging サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

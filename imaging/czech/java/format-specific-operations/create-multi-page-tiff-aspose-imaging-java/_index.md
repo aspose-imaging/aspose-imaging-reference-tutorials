@@ -203,7 +203,7 @@ Doporučujeme vám vyzkoušet implementaci tohoto řešení ve vašem dalším p
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatný zkušební přístup](https://releases.aspose.com/imaging/java/)
 - [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu byste měli být dobře vybaveni k vytváření a manipulaci s vícestránkovými soubory TIFF pomocí Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

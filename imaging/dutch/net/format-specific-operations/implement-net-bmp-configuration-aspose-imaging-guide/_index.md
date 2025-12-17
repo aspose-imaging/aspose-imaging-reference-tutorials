@@ -160,7 +160,7 @@ A5: Door configuratie-instellingen te optimaliseren, het geheugen efficiënt te 
 - **Aankooplicentie**: [Aspose-licenties](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Download Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Aspose Imaging-ondersteuning](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Aspose Imaging-ondersteuning](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

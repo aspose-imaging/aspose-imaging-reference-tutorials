@@ -197,7 +197,7 @@ För mer detaljerad information och för att ytterligare förstå Aspose.Imaging
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Support och forum](https://forum.aspose.com/c/imaging/10)
+- [Support och forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

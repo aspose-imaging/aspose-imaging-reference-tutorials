@@ -169,7 +169,7 @@ foreach (string fileName in files)
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/net/)
 - [ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/14)
 
 หากทำตามคำแนะนำนี้ คุณก็พร้อมที่จะใช้ประโยชน์จากความสามารถของ Aspose.Imaging สำหรับ .NET ในงานประมวลผลภาพของคุณ ขอให้สนุกกับการเขียนโค้ด!
 

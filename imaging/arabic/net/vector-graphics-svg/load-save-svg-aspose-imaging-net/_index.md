@@ -190,7 +190,7 @@ image.Save(fs);
 - **شراء:** [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [جرب Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة:** [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 ابدأ رحلتك مع Aspose.Imaging اليوم، واكتشف إمكانيات جديدة في معالجة الصور لتطبيقات .NET!
 

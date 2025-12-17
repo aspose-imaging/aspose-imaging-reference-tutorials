@@ -126,7 +126,7 @@ A: 작업이 실패하므로 업데이트를 시도하기 전에 태그가 존�
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging을 무료로 사용해 보세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [임시 면허 취득](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: 문의사항은 다음 사이트를 방문하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: 문의사항은 다음 사이트를 방문하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 포괄적인 가이드를 통해 DICOM 이미지 조작 프로젝트에서 Aspose.Imaging for .NET을 활용할 준비가 모두 끝났습니다. 즐거운 코딩 되세요!
 

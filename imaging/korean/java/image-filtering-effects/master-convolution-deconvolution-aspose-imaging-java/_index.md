@@ -195,7 +195,7 @@ A: 이 라이브러리는 강력하지만, 매우 큰 이미지나 복잡한 연
 - **구입**: [Aspose Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료 체험판으로 시작하세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [여기에서 요청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [질문하기](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [질문하기](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따라 하면 Aspose.Imaging for Java가 제공하는 강력한 이미지 처리 기능을 완벽하게 익힐 수 있습니다. 즐거운 코딩 되세요!
 

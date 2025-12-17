@@ -160,7 +160,7 @@ Az útmutató követésével megtanultad, hogyan konvertálhatsz WebP képeket P
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezzel az átfogó útmutatóval most már felkészülhetsz arra, hogy az Aspose.Imaging for .NET-et kihasználd a projektjeidben. Jó kódolást!
 

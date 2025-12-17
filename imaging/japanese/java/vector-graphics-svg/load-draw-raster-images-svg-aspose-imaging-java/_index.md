@@ -187,7 +187,7 @@ Aspose.Imaging を使用して Java で画像処理を行う場合:
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアル情報](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従うことで、Aspose.Imaging for Java を使用してラスター画像を SVG キャンバスに統合する準備が整います。コーディングを楽しみましょう！
 

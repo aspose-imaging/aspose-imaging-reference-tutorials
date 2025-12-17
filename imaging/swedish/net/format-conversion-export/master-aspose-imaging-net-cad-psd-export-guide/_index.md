@@ -168,14 +168,14 @@ Med den här guiden har du bemästrat hur du laddar och exporterar CAD-filer med
 4. **Finns det en gräns för storleken på CAD-filer jag kan bearbeta?**
    - Bearbetning av stora filer kan kräva mer minne; optimera efter behov baserat på systemets kapacitet.
 5. **Var kan jag hitta stöd om jag stöter på problem?**
-   - Besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/10) för hjälp och samhällsrådgivning.
+   - Besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/14) för hjälp och samhällsrådgivning.
 
 ## Resurser
 - **Dokumentation**Utforska hela [Aspose.Imaging .NET-dokumentation](https://reference.aspose.com/imaging/net/)
 - **Ladda ner**Hämta den senaste versionen från [Utgåvor](https://releases.aspose.com/imaging/net/)
 - **Köp och gratis provperiod**Få tillgång till testversioner eller köp en licens via [Aspose-köp](https://purchase.aspose.com/buy) och [Gratis provperioder](https://releases.aspose.com/imaging/net/).
 - **Tillfällig licens**Begär en tillfällig licens från [Aspose tillfälliga licenser](https://purchase.aspose.com/temporary-license/)
-- **Stöd**Få hjälp med [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd**Få hjälp med [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

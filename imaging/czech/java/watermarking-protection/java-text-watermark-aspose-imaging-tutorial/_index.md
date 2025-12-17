@@ -245,7 +245,7 @@ V tomto průvodci jsme se zabývali tím, jak efektivně načíst obrázek, kres
 - **Nákup**Zvažte zakoupení předplatného na [Nákup Aspose](https://purchase.aspose.com/buy).
 - **Bezplatná zkušební verze**Začněte s bezplatnou zkušební verzí a otestujte si funkce bez omezení.
 - **Dočasná licence**Získejte dočasnou licenci pro plný přístup během zkušebního období.
-- **Podpora**Připojte se ke komunitě a vyhledejte pomoc na [Fóra Aspose](https://forum.aspose.com/c/imaging/10).
+- **Podpora**Připojte se ke komunitě a vyhledejte pomoc na [Fóra Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

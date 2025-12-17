@@ -158,7 +158,7 @@ In diesem Tutorial haben wir untersucht, wie man Bilder mithilfe von Streams mit
 - [Erwerben Sie eine Lizenz](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Antrag auf eine vorübergehende Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Dieser umfassende Leitfaden soll Ihnen dabei helfen, Aspose.Imaging Java für die streambasierte Bildverarbeitung effizient zu implementieren und zu nutzen und so die Leistung und Fähigkeiten Ihrer Anwendungen zu verbessern.
 

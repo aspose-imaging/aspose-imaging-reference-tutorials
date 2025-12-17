@@ -145,7 +145,7 @@ den här handledningen lärde du dig hur du laddar en PNG-bild, extraherar och m
 - Utforska andra filformat som stöds av Aspose.Imaging.
 
 **Uppmaning till handling:**
-Försök att implementera dessa funktioner i ditt nästa projekt för att se hur Aspose.Imaging för .NET kan effektivisera bildbehandlingsuppgifter. Dela dina erfarenheter eller ställ frågor i [Aspose-forumet](https://forum.aspose.com/c/imaging/10) om du stöter på några utmaningar.
+Försök att implementera dessa funktioner i ditt nästa projekt för att se hur Aspose.Imaging för .NET kan effektivisera bildbehandlingsuppgifter. Dela dina erfarenheter eller ställ frågor i [Aspose-forumet](https://forum.aspose.com/c/imaging/14) om du stöter på några utmaningar.
 
 ## FAQ-sektion
 1. **Vad är Aspose.Imaging för .NET?**
@@ -165,7 +165,7 @@ Försök att implementera dessa funktioner i ditt nästa projekt för att se hur
 - [Köpalternativ](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licensinhämtning](https://purchase.aspose.com/temporary-license/)
-- [Support- och communityforum](https://forum.aspose.com/c/imaging/10)
+- [Support- och communityforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -138,7 +138,7 @@ public static void CropWMFImage()
 **ก4:** ใช่ Aspose.Imaging รองรับรูปแบบต่างๆ มากมาย เช่น PNG, JPEG, TIFF เป็นต้น
 
 **คำถามที่ 5:** ฉันจะได้รับการสนับสนุนได้อย่างไรหากประสบปัญหา?
-**A5:** เยี่ยมชม [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10) เพื่อขอความช่วยเหลือ
+**A5:** เยี่ยมชม [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14) เพื่อขอความช่วยเหลือ
 
 ## ทรัพยากร
 - **เอกสารประกอบ:** สำรวจคำแนะนำโดยละเอียดและการอ้างอิง API ได้ที่ [เอกสารประกอบการถ่ายภาพ Aspose](https://reference.aspose.com/imaging/net/)

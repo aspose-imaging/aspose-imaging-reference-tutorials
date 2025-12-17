@@ -228,7 +228,7 @@ new File(outDir + "/output.dcm").delete();
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 आज ही इन शक्तिशाली छवि प्रसंस्करण क्षमताओं को अपने जावा अनुप्रयोगों में एकीकृत करना शुरू करें, और DICOM छवियों को संभालने के तरीके को बेहतर बनाएं!
 

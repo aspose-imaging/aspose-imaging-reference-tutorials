@@ -189,7 +189,7 @@ Aspose.Imaging for JavaでICCプロファイルを使用して画像の色を効
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10) 
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14) 
 
 Aspose.Imaging for Java を使用して、今すぐ色精度の高い画像の管理を始めましょう。
 

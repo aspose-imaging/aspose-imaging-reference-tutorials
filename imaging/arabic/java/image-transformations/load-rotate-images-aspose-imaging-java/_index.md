@@ -193,7 +193,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **شراء:** شراء التراخيص من خلال [بوابة شراء Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** الوصول إلى ترخيص مؤقت عبر [تجارب مجانية لـ Aspose](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة:** احصل على واحدة في [تراخيص Aspose المؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** انضم إلى المجتمع واحصل على المساعدة بشأن [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** انضم إلى المجتمع واحصل على المساعدة بشأن [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا الدليل، يمكنك دمج Aspose.Imaging بفعالية في مشاريع Java الخاصة بك لتسهيل تحميل الصور وتدويرها. برمجة ممتعة!
 

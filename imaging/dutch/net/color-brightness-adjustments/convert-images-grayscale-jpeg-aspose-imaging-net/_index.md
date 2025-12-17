@@ -155,7 +155,7 @@ Klaar om dieper te duiken? Probeer deze technieken vandaag nog!
    Ja, het kan in elke productieomgeving gebruikt worden na aanschaf van een licentie.
 
 5. **Is er ondersteuning beschikbaar voor het oplossen van problemen met Aspose.Imaging?**
-   Ja, u kunt hulp zoeken bij de [Aspose-forums](https://forum.aspose.com/c/imaging/10).
+   Ja, u kunt hulp zoeken bij de [Aspose-forums](https://forum.aspose.com/c/imaging/14).
 
 ## Bronnen
 - **Documentatie:** https://reference.aspose.com/imaging/net/
@@ -163,7 +163,7 @@ Klaar om dieper te duiken? Probeer deze technieken vandaag nog!
 - **Aankoop:** https://purchase.aspose.com/buy
 - **Gratis proefperiode:** https://releases.aspose.com/imaging/net/
 - **Tijdelijke licentie:** https://purchase.aspose.com/tijdelijke-licentie/
-- **Steun:** https://forum.aspose.com/c/imaging/10
+- **Steun:** https://forum.aspose.com/c/imaging/14
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

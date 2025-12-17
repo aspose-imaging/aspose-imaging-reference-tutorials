@@ -196,7 +196,7 @@ R: Controlla la configurazione del tuo strumento di build, assicurati che la ver
 - **Acquisto:** [Buy Aspose.Imaging for Java](https://purchase.aspose.com/buy)  
 - **Prova gratuita:** Inizia la tua prova gratuita sul [sito Aspose](https://releases.aspose.com/imaging/java/)  
 - **Licenza temporanea:** Richiedi una licenza temporanea tramite [Aspose Purchase](https://purchase.aspose.com/temporary-license/)  
-- **Supporto:** Partecipa alle discussioni nel [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto:** Partecipa alle discussioni nel [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Inizia a disegnare queste curve oggi stesso e porta i tuoi progetti Java a un livello superiore con Aspose.Imaging!
 

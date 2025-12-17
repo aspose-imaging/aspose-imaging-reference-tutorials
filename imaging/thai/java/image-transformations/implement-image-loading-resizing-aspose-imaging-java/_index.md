@@ -176,7 +176,7 @@ A5: แน่นอน ได้รับการออกแบบมาให
 - **ซื้อ**- [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [เริ่มต้นที่นี่](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว**- [สมัครเลยตอนนี้](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน**- [ฟอรั่มชุมชน](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน**- [ฟอรั่มชุมชน](https://forum.aspose.com/c/imaging/14)
 
 ด้วยคู่มือที่ครอบคลุมนี้ คุณจะพร้อมแล้วที่จะเชี่ยวชาญการโหลดและปรับขนาดภาพใน Java โดยใช้ Aspose.Imaging ขอให้สนุกกับการเขียนโค้ด!
 

@@ -194,7 +194,7 @@ A: Prüfen Sie Ihre Build‑Tool‑Konfiguration, stellen Sie sicher, dass die k
 - **Kauf:** [Buy Aspose.Imaging for Java](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** Starten Sie Ihre Testversion auf der [Aspose website](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** Beantragen Sie eine temporäre Lizenz über [Aspose Purchase](https://purchase.aspose.com/temporary-license/)
-- **Support:** Nehmen Sie an Diskussionen im [Aspose Forum](https://forum.aspose.com/c/imaging/10) teil
+- **Support:** Nehmen Sie an Diskussionen im [Aspose Forum](https://forum.aspose.com/c/imaging/14) teil
 
 Beginnen Sie noch heute mit dem Zeichnen dieser Kurven und heben Sie Ihre Java‑Projekte mit Aspose.Imaging auf ein neues Niveau!
 

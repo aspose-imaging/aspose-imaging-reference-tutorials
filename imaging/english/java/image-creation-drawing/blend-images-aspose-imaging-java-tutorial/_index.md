@@ -217,7 +217,7 @@ A: Ensure your overlay and background images are high-resolution. Also, check yo
 - **Purchase License**: [Aspose Purchase Page](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Aspose.Imaging for Java](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Obtain a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum**: [Aspose Imaging Support](https://forum.aspose.com/c/imaging/10)
+- **Support Forum**: [Aspose Imaging Support](https://forum.aspose.com/c/imaging/14)
 
 With this guide, you are well-equipped to start blending images using Aspose.Imaging for Java. Happy coding!
 

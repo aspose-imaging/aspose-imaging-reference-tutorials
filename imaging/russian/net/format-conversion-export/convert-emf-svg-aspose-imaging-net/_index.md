@@ -189,7 +189,7 @@ image.Dispose();
 - [Лицензия на покупку](https://purchase.aspose.com/buy)
 - [Бесплатный пробный доступ](https://releases.aspose.com/imaging/net/)
 - [Заявление на временную лицензию](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки сообщества](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки сообщества](https://forum.aspose.com/c/imaging/14)
 
 Следуя этому руководству, вы будете хорошо подготовлены к обработке сложных преобразований изображений с использованием Aspose.Imaging .NET. Удачного кодирования!
 

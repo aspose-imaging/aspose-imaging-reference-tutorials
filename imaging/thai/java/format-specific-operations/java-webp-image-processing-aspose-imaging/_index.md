@@ -197,7 +197,7 @@ try (FileOutputStream fs = new FileOutputStream("YOUR_OUTPUT_DIRECTORY/Animation
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - [การขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 เมื่อปฏิบัติตามคำแนะนำที่ครอบคลุมนี้แล้ว คุณจะพร้อมรับมือกับการประมวลผลภาพ WebP ใน Java ได้อย่างมีประสิทธิภาพและมั่นใจ ขอให้สนุกกับการเขียนโค้ด!
 

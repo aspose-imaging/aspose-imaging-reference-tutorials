@@ -159,7 +159,7 @@ try (WmfImage resultImage = graphics.endRecording()) {
 - **Επιλογές Αγοράς:** https://purchase.aspose.com/buy
 - **Δωρεάν δοκιμή:** https://releases.aspose.com/imaging/java/
 - **Προσωρινή Άδεια:** https://purchase.aspose.com/temporary-license/
-- **Φόρουμ υποστήριξης:** https://forum.aspose.com/c/imaging/10
+- **Φόρουμ υποστήριξης:** https://forum.aspose.com/c/imaging/14
 
 Αξιοποιώντας το Aspose.Imaging για Java, μπορείτε να βελτιώσετε τις εφαρμογές σας με προηγμένες δυνατότητες επεξεργασίας εικόνας. Καλή κωδικοποίηση!
 

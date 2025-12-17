@@ -182,7 +182,7 @@ Becerilerinizi daha da ileri götürmeye hazır mısınız? Bu çözümü bir so
 - [Satın Alma Seçenekleri](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Erişimi](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Başvurusu](https://purchase.aspose.com/temporary-license/)
-- [Topluluk Desteği](https://forum.aspose.com/c/imaging/10)
+- [Topluluk Desteği](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek projelerinizde Aspose.Imaging for Java'nın gücünden yararlanmak için iyi bir donanıma sahip olursunuz. İyi kodlamalar!
 

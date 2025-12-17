@@ -202,7 +202,7 @@ Aby jeszcze lepiej poznać możliwości pakietu Aspose.Imaging, zapoznaj się z 
 - **Zakup:** [Kup licencję Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Rozpocznij bezpłatny okres próbny](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa:** [Złóż wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie:** [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie:** [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Mamy nadzieję, że ten przewodnik pomoże Ci bezproblemowo zaimplementować Aspose.Imaging w Twoich projektach Java. Miłego kodowania!
 

@@ -191,7 +191,7 @@ V5: Igen, az Aspose.Imaging számos képformátumot támogat, beleértve a JPEG,
 - **Vásárlás:** [Aspose.Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Indítsa el az ingyenes próbaverziót](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezzel az oktatóanyaggal felvértezve magadat a képbináris feladatok hatékony elvégzéséhez az Aspose.Imaging for Java használatával. Jó kódolást!
 

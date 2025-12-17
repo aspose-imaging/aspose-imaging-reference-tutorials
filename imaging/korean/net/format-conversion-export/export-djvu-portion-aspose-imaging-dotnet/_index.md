@@ -138,7 +138,7 @@ A: 무료 체험판을 이용하거나 임시 라이선스를 요청하세요. �
 - **라이센스 구매:** [지금 구매하세요](https://purchase.aspose.com/buy)
 - **무료 체험:** [시작하기](https://releases.aspose.com/imaging/net/)
 - **임시 면허:** [여기에서 요청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼:** [Aspose.Imaging 커뮤니티](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼:** [Aspose.Imaging 커뮤니티](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

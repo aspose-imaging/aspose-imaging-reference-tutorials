@@ -217,7 +217,7 @@ Pronto para aprimorar suas habilidades? Experimente implementar essas técnicas 
 - [Baixe o Aspose.Imaging para .NET](https://releases.aspose.com/imaging/net/)
 - [Comprar uma licença](https://purchase.aspose.com/buy)
 - [Teste gratuito e licença temporária](https://releases.aspose.com/imaging/net/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Este guia deve ajudar você a começar a desenhar e manipular imagens DICOM usando o Aspose.Imaging for .NET, fornecendo uma base para criar aplicativos de processamento de imagens mais complexos.
 

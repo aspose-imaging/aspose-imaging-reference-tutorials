@@ -201,7 +201,7 @@ Tutorial ini telah membekali Anda dengan pengetahuan untuk memuat berbagai forma
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Unduh Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Permintaan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10) 
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Dengan mengikuti panduan ini, Anda sudah berada di jalur yang tepat untuk menguasai pemrosesan gambar dengan Aspose.Imaging Java. Selamat membuat kode!
 

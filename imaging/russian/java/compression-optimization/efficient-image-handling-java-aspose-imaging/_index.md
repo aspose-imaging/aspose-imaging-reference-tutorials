@@ -223,7 +223,7 @@ A5: Убедитесь, что вы кэшируете изображения п
 - **Покупка**: [Купить Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Бесплатная пробная версия Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия**: [Получить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: [Форум Aspose.Imaging](https://forum.aspose.com/c/imaging/10) 
+- **Поддерживать**: [Форум Aspose.Imaging](https://forum.aspose.com/c/imaging/14) 
 
 С этим всеобъемлющим руководством вы будете хорошо подготовлены к началу интеграции Aspose.Imaging в ваши проекты Java для эффективного управления изображениями. Удачного кодирования!
 

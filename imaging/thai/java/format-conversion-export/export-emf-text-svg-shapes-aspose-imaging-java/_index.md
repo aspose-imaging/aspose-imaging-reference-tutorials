@@ -187,7 +187,7 @@ image.save("YOUR_OUTPUT_DIRECTORY/ExportTextasShape_text_out.svg", new SvgOption
 
 **5. ฉันจะได้รับการสนับสนุนที่ไหนหากจำเป็น?**
 
-เยี่ยมชม [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10) สำหรับความช่วยเหลือจากชุมชนหรือติดต่อทีมสนับสนุนโดยตรงผ่านทางเว็บไซต์ของพวกเขา
+เยี่ยมชม [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14) สำหรับความช่วยเหลือจากชุมชนหรือติดต่อทีมสนับสนุนโดยตรงผ่านทางเว็บไซต์ของพวกเขา
 
 ## ทรัพยากร
 

@@ -195,7 +195,7 @@ for (int i = 0; i < deconvFilters.length; i++) {
 - **Αγορά**: [Αγοράστε Aspose Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε με μια δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αίτημα εδώ](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ Υποστήριξης**: [Κάντε ερωτήσεις](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ Υποστήριξης**: [Κάντε ερωτήσεις](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, είστε σε καλό δρόμο για να εξοικειωθείτε με τις ισχυρές δυνατότητες επεξεργασίας εικόνας που προσφέρει το Aspose.Imaging για Java. Καλή κωδικοποίηση!
 

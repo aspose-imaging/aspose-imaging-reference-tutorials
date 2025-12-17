@@ -196,7 +196,7 @@ try {
 - **شراء**:للحصول على ترخيص كامل، قم بزيارة [شراء Aspose.Imaging](https://purchase.aspose.com/buy).
 - **نسخة تجريبية مجانية**:ابدأ بالتجربة في [تنزيلات مجانية لبرنامج Aspose.Imaging](https://releases.aspose.com/imaging/java/).
 - **رخصة مؤقتة**:الحصول على ترخيص مؤقت من [صفحة ترخيص Aspose](https://purchase.aspose.com/temporary-license/).
-- **يدعم**:انضم إلى المناقشة على [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10).
+- **يدعم**:انضم إلى المناقشة على [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14).
 
 بفضل هذه الموارد، ستكون جاهزًا للتعمق أكثر في معالجة الصور باستخدام Aspose.Imaging لجافا. برمجة ممتعة!
 

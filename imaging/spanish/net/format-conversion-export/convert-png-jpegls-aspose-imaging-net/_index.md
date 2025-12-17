@@ -169,7 +169,7 @@ A5: Verifique las rutas de archivo y los permisos, y asegúrese de que su entorn
 - **Compra:** [Comprar licencia](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Comience una prueba gratuita](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal:** [Obtenga una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

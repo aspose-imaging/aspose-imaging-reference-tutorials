@@ -186,7 +186,7 @@ Jelajahi lebih banyak fitur Aspose.Imaging atau coba konversi format gambar lain
 - **Pembelian:** [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Dapatkan Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Ajukan Permohonan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda untuk menguasai konversi gambar di Java dengan Aspose.Imaging hari ini!
 

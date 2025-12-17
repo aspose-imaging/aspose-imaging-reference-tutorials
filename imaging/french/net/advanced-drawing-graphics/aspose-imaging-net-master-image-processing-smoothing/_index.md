@@ -169,7 +169,7 @@ En maîtrisant ces techniques, vous pouvez considérablement optimiser vos flux 
 - [Licence d'achat](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/net/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce guide, vous serez bien équipé pour exploiter la puissance d'Aspose.Imaging pour .NET dans vos tâches de traitement d'images. Bon codage !
 

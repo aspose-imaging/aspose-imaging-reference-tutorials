@@ -153,7 +153,7 @@ Nach Abschluss dieses Tutorials sollten Sie mit der Konvertierung von Rasterbild
 - [Kaufen](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Erkunden Sie diese Ressourcen, um Ihr Verständnis zu vertiefen und das Beste aus Aspose.Imaging für Java herauszuholen. Viel Spaß beim Programmieren!
 

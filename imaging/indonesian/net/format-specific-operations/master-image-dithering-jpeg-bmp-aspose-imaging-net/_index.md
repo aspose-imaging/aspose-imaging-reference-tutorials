@@ -150,7 +150,7 @@ A5: Dokumentasi terperinci dapat ditemukan di [Dokumentasi Aspose.Imaging .NET](
 - **Beli Lisensi**: [Beli Sekarang](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Memulai](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Daftar di sini](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan**: [Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan**: [Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Selamat membuat kode, dan nikmatilah bereksperimen dengan Aspose.Imaging untuk mewujudkan kebutuhan pemrosesan gambar Anda!
 

@@ -148,7 +148,7 @@ image.crop(new Rectangle(92, 179, 260, 197));
    - Java Development Kit (JDK) และ IDE ที่เข้ากันได้
 
 5. **มีการสนับสนุนสำหรับการแก้ไขปัญหาหรือไม่**
-   - เยี่ยม [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10) เพื่อขอความช่วยเหลือ
+   - เยี่ยม [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14) เพื่อขอความช่วยเหลือ
 
 ## ทรัพยากร
 

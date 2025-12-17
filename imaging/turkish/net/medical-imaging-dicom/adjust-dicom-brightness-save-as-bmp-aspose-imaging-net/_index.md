@@ -171,7 +171,7 @@ Sonraki adımlar olarak, yeteneklerinizi daha da genişletmek için Aspose.Imagi
 - Ticari kullanım için bir lisans satın almanız gerekecektir. Deneme lisansları değerlendirmeye izin verir ancak sınırlamalarla birlikte gelir.
 
 **S4: Sorunla karşılaşırsam destek alabileceğim bir yer var mı?**
-- Evet, Aspose topluluk forumları ve profesyonel destek seçenekleri sunar. Ziyaret edin [destek sayfası](https://forum.aspose.com/c/imaging/10) Daha fazla bilgi için.
+- Evet, Aspose topluluk forumları ve profesyonel destek seçenekleri sunar. Ziyaret edin [destek sayfası](https://forum.aspose.com/c/imaging/14) Daha fazla bilgi için.
 
 **S5: Bu işlevselliği bir web uygulamasına entegre edebilir miyim?**
 - Kesinlikle! Kütüphane web uygulamalarında kullanılan .NET framework'leriyle uyumludur ve sorunsuz entegrasyona olanak tanır.

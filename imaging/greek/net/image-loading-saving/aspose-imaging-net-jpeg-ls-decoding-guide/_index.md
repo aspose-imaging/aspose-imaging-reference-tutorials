@@ -153,7 +153,7 @@ A5: Προσαρμόστε τις ιδιότητες συμπίεσης χρησ
 - **Αγορά Άδειας Χρήσης**: [Αγοράστε Aspose Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Λήψεις Aspose Imaging](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ υποστήριξης**: [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ υποστήριξης**: [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

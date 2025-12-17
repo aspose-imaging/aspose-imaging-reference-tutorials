@@ -175,7 +175,7 @@ A: Rivedi le impostazioni di rasterizzazione e levigatura in `PdfOptions` config
 - **Acquistare**: [Acquista licenze Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Inizia una prova gratuita di Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea**: [Ottieni una licenza temporanea per Aspose.Imaging](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: [Forum di imaging Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Supporto**: [Forum di imaging Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Seguendo questa guida sarai pronto a gestire con facilità le conversioni da CMX a PDF.
 

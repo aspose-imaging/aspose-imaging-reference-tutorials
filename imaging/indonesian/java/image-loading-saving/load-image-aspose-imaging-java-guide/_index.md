@@ -177,7 +177,7 @@ Kami menganjurkan Anda untuk mencoba menerapkan solusi ini dan menjelajahi fungs
 - **Dokumentasi**:Jelajahi skenario penggunaan terperinci di [Dokumen Java Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - **Unduh**:Dapatkan pustaka Aspose.Imaging terbaru dari [Rilis Aspose](https://releases.aspose.com/imaging/java/).
 - **Pembelian dan Uji Coba Gratis**:Pelajari lebih lanjut tentang memperoleh lisensi di [halaman pembelian](https://purchase.aspose.com/buy) atau mulai dengan uji coba gratis.
-- **Mendukung**:Untuk pertanyaan, kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Mendukung**:Untuk pertanyaan, kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

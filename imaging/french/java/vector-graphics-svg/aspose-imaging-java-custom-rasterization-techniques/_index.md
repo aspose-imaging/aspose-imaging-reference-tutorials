@@ -231,7 +231,7 @@ Dans ce tutoriel, vous avez appris à définir une police par défaut dans votre
 - [Acheter une licence](https://purchase.aspose.com/buy)
 - [Version d'essai gratuite](https://releases.aspose.com/imaging/java/)
 - [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce guide, vous serez bien équipé pour gérer des tâches complexes de traitement d'images en Java avec Aspose.Imaging. Bon codage !
 

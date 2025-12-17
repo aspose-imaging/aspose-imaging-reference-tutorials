@@ -176,7 +176,7 @@ A5: Absolutnie. Jest zaprojektowany tak, aby łatwo go zintegrować i używać r
 - **Zakup**: [Kup licencję](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Zacznij tutaj](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**: [Złóż wniosek teraz](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Forum społeczności](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Forum społeczności](https://forum.aspose.com/c/imaging/14)
 
 Dzięki temu kompleksowemu przewodnikowi jesteś teraz wyposażony, aby opanować ładowanie i zmianę rozmiaru obrazów w Javie przy użyciu Aspose.Imaging. Miłego kodowania!
 

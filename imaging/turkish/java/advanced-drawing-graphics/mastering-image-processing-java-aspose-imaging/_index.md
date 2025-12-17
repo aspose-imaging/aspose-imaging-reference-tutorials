@@ -171,7 +171,7 @@ Yaygın sorunlar arasında kaynakları düzgün bir şekilde elden çıkarmamak 
 - **Satın almak:** [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Aspose.Imaging'i deneyin](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek artık Aspose.Imaging for Java kullanarak görüntü işleme görevlerini üstlenmeye hazırsınız. İyi kodlamalar!
 

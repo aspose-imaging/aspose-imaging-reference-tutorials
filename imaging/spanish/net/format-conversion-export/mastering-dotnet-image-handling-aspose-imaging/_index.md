@@ -170,7 +170,7 @@ Con este tutorial, ha aprendido los fundamentos de la carga y el almacenamiento 
 - **Compra:** [Comprar una licencia](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Comience su prueba gratuita](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal:** [Solicitar Licencia Temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo esta guía, ya está preparado para procesar imágenes .NET con confianza usando Aspose.Imaging para .NET. ¡Que disfrute programando!
 

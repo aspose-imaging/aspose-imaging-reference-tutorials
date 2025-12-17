@@ -295,7 +295,7 @@ N'hésitez pas à expérimenter et à appliquer ces méthodes dans vos projets �
 - [Licence d'achat](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 N'hésitez pas à explorer ces ressources pour approfondir vos connaissances et bénéficier d'un soutien accru. Bon codage !
 

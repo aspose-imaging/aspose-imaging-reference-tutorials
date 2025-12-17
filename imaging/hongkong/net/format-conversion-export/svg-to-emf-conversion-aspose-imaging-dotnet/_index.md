@@ -133,7 +133,7 @@ image.Save(emfFilePath, emfOptions);
 **後續步驟：**
 - 探索 Aspose.Imaging 的更多功能
 - 嘗試不同的轉換選項
-- 分享回饋或提出問題 [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- 分享回饋或提出問題 [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 準備好運用這些技能了嗎？立即投入您的項目，開始轉換！
 
@@ -160,7 +160,7 @@ A5：檢查檔案路徑，確保 Aspose.Imaging 已正確安裝，並查看錯�
 - **購買**： [購買許可證](https://purchase.aspose.com/buy)
 - **免費試用**： [從免費試用開始](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [申請臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 在實施解決方案的過程中，歡迎隨意瀏覽這些資源，以獲得更詳細的指導和支援。祝您編碼愉快！
 

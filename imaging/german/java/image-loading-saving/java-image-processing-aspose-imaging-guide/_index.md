@@ -181,7 +181,7 @@ Bereit für den nächsten Schritt? Versuchen Sie, diese Techniken in Ihren eigen
 - **Kaufen**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Testen Sie Aspose.Imaging kostenlos](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Fordern Sie eine temporäre Lizenz an](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Beginnen Sie Ihre Reise in die Bildverarbeitung mit Zuversicht, denn Sie verfügen über die Werkzeuge und das Wissen, um erfolgreich zu sein. Viel Spaß beim Programmieren!
 

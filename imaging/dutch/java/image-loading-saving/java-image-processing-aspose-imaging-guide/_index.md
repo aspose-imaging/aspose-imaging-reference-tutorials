@@ -181,7 +181,7 @@ Klaar voor de volgende stap? Probeer deze technieken eens in je eigen Java-appli
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer Aspose.Imaging gratis](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Begin vol vertrouwen aan je reis in de beeldverwerking, wetende dat je de tools en kennis hebt om te slagen. Veel plezier met coderen!
 

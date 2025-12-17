@@ -180,7 +180,7 @@ Siap untuk mencobanya? Terapkan solusi ini dalam proyek Anda hari ini!
 
 **Pertanyaan 5:** Di mana saya mendapatkan dukungan jika saya mengalami masalah dengan Aspose.Imaging?
 
-**Jwb:** Kunjungi [Forum Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/10) untuk bantuan dari pakar dan pengembang komunitas.
+**Jwb:** Kunjungi [Forum Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/14) untuk bantuan dari pakar dan pengembang komunitas.
 
 ## Sumber daya
 - **Dokumentasi:** [Dokumentasi Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -188,7 +188,7 @@ Siap untuk mencobanya? Terapkan solusi ini dalam proyek Anda hari ini!
 - **Pembelian:** [Beli Lisensi Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Uji Coba Gratis Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara:** [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -154,7 +154,7 @@ frame.Save(tiffOutputPath, new TiffOptions(TiffExpectedFormat.Default));
 - [تنزيل Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - [شراء خيارات ترخيص Aspose](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية وترخيص مؤقت](https://releases.aspose.com/imaging/net/)
-- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

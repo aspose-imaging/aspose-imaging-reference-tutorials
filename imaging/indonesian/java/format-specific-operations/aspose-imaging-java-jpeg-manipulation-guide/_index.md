@@ -184,7 +184,7 @@ A5: Optimalkan kode Anda dengan mengelola sumber daya secara efektif dan menggun
 - **Beli Lisensi:** [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Coba Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan:** [Dukungan Pencitraan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan:** [Dukungan Pencitraan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Selamat membuat kode, dan nikmati penjelajahan kemampuan Aspose.Imaging untuk Java!
 

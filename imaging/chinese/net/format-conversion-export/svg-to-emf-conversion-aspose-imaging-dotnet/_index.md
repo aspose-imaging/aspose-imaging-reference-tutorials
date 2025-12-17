@@ -133,7 +133,7 @@ image.Save(emfFilePath, emfOptions);
 **后续步骤：**
 - 探索 Aspose.Imaging 的更多功能
 - 尝试不同的转换选项
-- 分享反馈或提出问题 [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- 分享反馈或提出问题 [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 准备好运用这些技能了吗？立即投入您的项目，开始转换！
 
@@ -160,7 +160,7 @@ A5：检查文件路径，确保 Aspose.Imaging 已正确安装，并查看错�
 - **购买**： [购买许可证](https://purchase.aspose.com/buy)
 - **免费试用**： [从免费试用开始](https://releases.aspose.com/imaging/net/)
 - **临时执照**： [申请临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持**： [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**： [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 在实施解决方案的过程中，欢迎随意浏览这些资源，获取更详细的指导和支持。祝您编码愉快！
 

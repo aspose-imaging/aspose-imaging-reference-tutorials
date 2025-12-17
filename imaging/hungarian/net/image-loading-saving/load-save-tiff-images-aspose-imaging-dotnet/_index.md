@@ -149,7 +149,7 @@ A2: Igen, számos formátumot támogat, beleértve a JPEG, PNG, BMP és egyebeke
 4. válasz: Gyakori problémák lehetnek a helytelen fájlelérési utak, a nem megfelelő konfigurációs beállítások és a nem támogatott képformátumok. Mindig győződjön meg arról, hogy az elérési utak helyesek, és a konfigurációk megfelelnek az Ön igényeinek.
 
 **5. kérdés: Hol találok további forrásokat az Aspose.Imagingről?**
-A5: Látogassa meg a [Aspose dokumentáció](https://reference.aspose.com/imaging/net/) átfogó útmutatókért és a [Fórumok](https://forum.aspose.com/c/imaging/10) közösségi támogatásért.
+A5: Látogassa meg a [Aspose dokumentáció](https://reference.aspose.com/imaging/net/) átfogó útmutatókért és a [Fórumok](https://forum.aspose.com/c/imaging/14) közösségi támogatásért.
 
 ## Erőforrás
 - **Dokumentáció:** [Aspose Imaging .NET referencia](https://reference.aspose.com/imaging/net/)
@@ -157,7 +157,7 @@ A5: Látogassa meg a [Aspose dokumentáció](https://reference.aspose.com/imagin
 - **Vásárlás:** [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Próbaverziók letöltése](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély:** [Kérelem itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórumok](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Fórumok](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

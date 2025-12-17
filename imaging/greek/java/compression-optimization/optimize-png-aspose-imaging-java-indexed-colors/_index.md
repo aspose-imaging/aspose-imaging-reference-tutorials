@@ -228,7 +228,7 @@ image.save(outDir + "result.png", options);
 - **Αγορά**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δοκιμάστε το Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Απεικόνισης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Απεικόνισης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Εξερευνώντας αυτούς τους πόρους, μπορείτε να εμβαθύνετε την κατανόησή σας για το Aspose.Imaging και τις δυνατότητές του. Καλή κωδικοποίηση!
 

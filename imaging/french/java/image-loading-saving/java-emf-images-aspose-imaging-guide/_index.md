@@ -179,7 +179,7 @@ A5 : Suivez les étapes décrites dans la section Acquisition de licence pour o
 - **Achat**: [Acheter une licence](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencez ici](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**: [Demander maintenant](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum communautaire](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum communautaire](https://forum.aspose.com/c/imaging/14)
 
 En exploitant ces ressources, vous pourrez explorer plus en profondeur les fonctionnalités d'Aspose.Imaging et relever les défis rencontrés lors de sa mise en œuvre. Bon codage !
 

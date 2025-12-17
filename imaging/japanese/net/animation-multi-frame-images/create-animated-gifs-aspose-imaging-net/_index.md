@@ -153,7 +153,7 @@ Aspose.Imaging for .NET を使ってアニメーション GIF を作成する方
 - **購入**： [Aspose ライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imaging 無料トライアル](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを活用して、今すぐダイナミック GIF を作成してみましょう。
 

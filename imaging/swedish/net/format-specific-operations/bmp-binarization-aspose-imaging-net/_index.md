@@ -171,7 +171,7 @@ Vid det här laget bör du ha en gedigen förståelse för hur man binäriserar 
 - **Köplicens:** [Köp nu](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Få din gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens:** [Begär tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum:** [Aspose.Imaging-stöd](https://forum.aspose.com/c/imaging/10)
+- **Supportforum:** [Aspose.Imaging-stöd](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

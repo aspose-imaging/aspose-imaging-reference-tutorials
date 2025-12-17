@@ -173,7 +173,7 @@ private static VectorRasterizationOptions GetRasterizationOptions(Image image)
 - **खरीदना**: लाइसेंस खरीदें या निःशुल्क परीक्षण प्राप्त करें [Aspose खरीद](https://purchase.aspose.com/buy).
 - **मुफ्त परीक्षण**: एक परीक्षण के साथ शुरू करें [विज्ञप्ति](https://releases.aspose.com/imaging/net/).
 - **अस्थायी लाइसेंस**: एक से अनुरोध करें [असपोज](https://purchase.aspose.com/temporary-license/).
-- **सहायता**: सहायता प्राप्त करें [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10).
+- **सहायता**: सहायता प्राप्त करें [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14).
 
 Aspose.Imaging के साथ इमेज प्रोसेसिंग में निपुणता प्राप्त करने की अपनी यात्रा शुरू करें, और अपने अनुप्रयोगों को नई ऊंचाइयों पर ले जाएं!
 

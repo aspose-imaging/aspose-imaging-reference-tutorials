@@ -220,7 +220,7 @@ A5: Ya, meskipun Anda dapat memulai dengan uji coba gratis, pembelian lisensi di
 - **Pembelian**: Beli lisensi melalui [Aspose Pembelian](https://purchase.aspose.com/buy).
 - **Uji Coba Gratis**: Mulailah dengan uji coba untuk menguji fitur-fitur di [Uji Coba Gratis Aspose](https://releases.aspose.com/imaging/java/).
 - **Lisensi Sementara**: Minta satu melalui [Aspose Lisensi Sementara](https://purchase.aspose.com/temporary-license/).
-- **Mendukung**:Untuk pertanyaan, hubungi kami di [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Mendukung**:Untuk pertanyaan, hubungi kami di [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Dengan mengikuti tutorial ini dan memanfaatkan Aspose.Imaging untuk Java, Anda akan diperlengkapi dengan baik untuk menangani pratinjau gambar EPS dan penghapusan file yang aman dalam proyek Anda. Selamat membuat kode!
 

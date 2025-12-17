@@ -162,7 +162,7 @@ A5: 이미지를 순차적으로 처리하고 필요하지 않은 객체를 닫�
 - **구입:** [지금 구매하세요](https://purchase.aspose.com/buy)
 - **무료 체험:** [여기서 시작하세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [커뮤니티 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** [커뮤니티 포럼](https://forum.aspose.com/c/imaging/14)
 
 이러한 리소스를 활용하면 Aspose.Imaging for Java에 대한 이해와 활용 능력을 더욱 향상시킬 수 있습니다. 즐거운 코딩 되세요!
 

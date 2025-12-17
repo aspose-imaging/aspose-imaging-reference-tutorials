@@ -220,7 +220,7 @@ Trong hướng dẫn này, chúng tôi đã khám phá cách tải, cắt và l�
 - **Mua**: [Mua bản quyền Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bản dùng thử miễn phí của Aspose](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Nhận giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Với hướng dẫn toàn diện này, giờ đây bạn đã có thể triển khai xử lý hình ảnh DICOM trong Java bằng Aspose.Imaging. Chúc bạn viết mã vui vẻ!
 

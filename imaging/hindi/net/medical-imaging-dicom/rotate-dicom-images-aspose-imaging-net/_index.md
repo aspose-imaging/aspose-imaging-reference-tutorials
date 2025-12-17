@@ -147,7 +147,7 @@ Aspose.Imaging .NET मानक के साथ संगत है, जिस
 - **दस्तावेज़ीकरण:** विस्तृत मार्गदर्शिकाएँ यहाँ देखें [Aspose.Imaging दस्तावेज़ीकरण](https://reference.aspose.com/imaging/net/).
 - **डाउनलोड करना:** Aspose.Imaging का नवीनतम संस्करण यहाँ से प्राप्त करें [विज्ञप्ति पृष्ठ](https://releases.aspose.com/imaging/net/).
 - **खरीद और लाइसेंसिंग:** खरीद विकल्पों पर अधिक जानकारी यहां उपलब्ध है [खरीदना](https://purchase.aspose.com/buy) और [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/).
-- **सहायता:** प्रश्नों या समस्याओं के लिए कृपया यहां जाएं [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10).
+- **सहायता:** प्रश्नों या समस्याओं के लिए कृपया यहां जाएं [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

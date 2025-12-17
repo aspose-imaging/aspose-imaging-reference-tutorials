@@ -257,7 +257,7 @@ A5: Asegúrese de que el formato de salida admita transparencias (p. ej., PNG). 
 - **Compra**: [Página de compra de Aspose](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Pruebe Aspose.Imaging versión de prueba gratuita](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal**: [Solicitar Licencia Temporal](https://purchase.aspose.com/temporary-license/)
-- **Foro de soporte**: [Comunidad de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Foro de soporte**: [Comunidad de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 ¡Feliz codificación!
 

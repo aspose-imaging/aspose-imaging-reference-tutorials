@@ -222,7 +222,7 @@ Prêt à mettre en pratique ce que vous avez appris ? Essayez dès aujourd'hui 
 - [Documentation d'Aspose.Imaging pour Java](https://reference.aspose.com/imaging/java/)
 - [Télécharger Aspose.Imaging pour Java](https://releases.aspose.com/imaging/java/)
 - [Achetez une licence ou obtenez un essai gratuit](https://purchase.aspose.com/buy)
-- [Obtenez de l'aide sur le forum communautaire](https://forum.aspose.com/c/imaging/10)
+- [Obtenez de l'aide sur le forum communautaire](https://forum.aspose.com/c/imaging/14)
 
 Grâce à ces ressources et à ce guide, vous êtes prêt à commencer à transformer des images SVG en toute confiance avec Aspose.Imaging pour Java. Bon codage !
 

@@ -237,7 +237,7 @@ További információkért és támogatásért tekintse meg a következő forrá
 - **Dokumentáció:** [Aspose.Imaging Java dokumentációhoz](https://reference.aspose.com/imaging/java/)
 - **Letöltés:** [Aspose.Imaging Java kiadásokhoz](https://releases.aspose.com/imaging/java/)
 - **Vásárlás és ingyenes próbaverzió:** [Vásárolja meg vagy próbálja ki az Aspose.Imaging for Java programot](https://purchase.aspose.com/buy)
-- **Támogatási fórum:** [Aspose támogató közösség](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum:** [Aspose támogató közösség](https://forum.aspose.com/c/imaging/14)
 
 Ez az átfogó útmutató felvértezi Önt azzal a tudással, amellyel hatékonyan csökkentheti a képei elmosódását az Aspose.Imaging for Java használatával. Jó kódolást!
 

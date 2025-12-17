@@ -175,7 +175,7 @@ R3: Sim, mas certifique-se de adquirir uma licença adequada de [Aspose](https:/
 R4: Sim, implemente o processamento em lote para lidar com vários arquivos de forma eficiente, o que pode reduzir significativamente o tempo de processamento.
 
 **P5: Onde posso obter suporte se tiver problemas?**
-A5: Visite o [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10) pela assistência da equipe da Aspose e dos membros da comunidade.
+A5: Visite o [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14) pela assistência da equipe da Aspose e dos membros da comunidade.
 
 ## Recursos
 - **Documentação:** Explore guias detalhados e referências de API em [Documentação do Aspose.Imaging](https://reference.aspose.com/imaging/net/).

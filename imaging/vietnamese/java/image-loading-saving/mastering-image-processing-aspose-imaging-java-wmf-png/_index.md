@@ -189,7 +189,7 @@ A5: Sử dụng nhiều phương pháp khác nhau do Aspose.Imaging cung cấp �
 - **Mua**: Đảm bảo giấy phép để mở khóa đầy đủ các tính năng tại [Trang mua hàng Aspose](https://purchase.aspose.com/buy).
 - **Dùng thử miễn phí**Kiểm tra khả năng của Aspose.Imaging thông qua [tải xuống dùng thử miễn phí](https://releases.aspose.com/imaging/java/).
 - **Giấy phép tạm thời**: Yêu cầu cấp giấy phép tạm thời để thử nghiệm mở rộng [đây](https://purchase.aspose.com/temporary-license/).
-- **Ủng hộ**: Để có câu hỏi hoặc hỗ trợ, hãy truy cập [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10).
+- **Ủng hộ**: Để có câu hỏi hoặc hỗ trợ, hãy truy cập [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14).
 
 Hãy bắt đầu hành trình xử lý hình ảnh của bạn ngay hôm nay và khai thác toàn bộ tiềm năng của Aspose.Imaging trong Java!
 

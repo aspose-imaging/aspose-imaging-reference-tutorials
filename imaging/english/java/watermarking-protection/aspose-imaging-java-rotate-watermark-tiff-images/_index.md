@@ -265,7 +265,7 @@ A5: Consider processing large images in smaller chunks, leveraging Aspose.Imagin
 - **Purchase License:** [Buy a License](https://purchase.aspose.com/buy)
 - **Free Trial:** [Get Your Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Obtain Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum:** [Aspose.Imaging Support](https://forum.aspose.com/c/imaging/10)
+- **Support Forum:** [Aspose.Imaging Support](https://forum.aspose.com/c/imaging/14)
 
 We hope this tutorial has equipped you with the skills to enhance your image processing tasks using Aspose.Imaging for Java. Happy coding!
 

@@ -161,7 +161,7 @@ image.Save(outputPath);
 - **Αγορά**: [Απόκτηση Άδειας](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δοκιμάστε το Aspose.Imaging δωρεάν](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Αίτημα εδώ](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ Υποστήριξης**: [Κοινότητα Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ Υποστήριξης**: [Κοινότητα Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον ολοκληρωμένο οδηγό, θα είστε άρτια εξοπλισμένοι για να αντιμετωπίσετε εργασίες επεξεργασίας εικόνας στις εφαρμογές .NET σας με σιγουριά και αποτελεσματικότητα. Καλή κωδικοποίηση!
 

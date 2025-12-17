@@ -161,7 +161,7 @@ För ytterligare information och hjälp:
 - **Köpa**: [Skaffa en licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Begär här](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**: [Aspose Support Community](https://forum.aspose.com/c/imaging/10)
+- **Supportforum**: [Aspose Support Community](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här omfattande guiden kommer du att vara väl rustad för att ta itu med bildbehandlingsuppgifter i dina .NET-applikationer med självförtroende och effektivitet. Lycka till med kodningen!
 

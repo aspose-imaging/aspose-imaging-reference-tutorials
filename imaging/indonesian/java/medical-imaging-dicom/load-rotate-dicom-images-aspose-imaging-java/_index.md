@@ -184,7 +184,7 @@ A5: Periksa kembali kode Anda untuk kesalahan sintaksis dan pastikan semua depen
 - **Pembelian**: Dapatkan lisensi di [Situs pembelian Aspose](https://purchase.aspose.com/buy).
 - **Uji Coba Gratis**: Mulailah dengan uji coba gratis melalui [Uji coba Aspose](https://releases.aspose.com/imaging/java/).
 - **Lisensi Sementara**: Dapatkan lisensi sementara dari [Aspose lisensi](https://purchase.aspose.com/temporary-license/).
-- **Mendukung**:Cari bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Mendukung**:Cari bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Dengan mengikuti panduan ini, Anda kini siap menangani rotasi gambar DICOM di Java dengan percaya diri. Selamat membuat kode!
 

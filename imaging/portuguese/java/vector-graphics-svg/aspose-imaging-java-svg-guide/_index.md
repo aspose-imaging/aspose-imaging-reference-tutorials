@@ -171,7 +171,7 @@ Parabéns! Você aprendeu com sucesso a carregar e salvar imagens SVG usando o A
 
 **Próximos passos:**
 - Explore outros recursos do Aspose.Imaging, como transformações e filtragem de imagens.
-- Junte-se a [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) para compartilhar ideias ou buscar conselhos de outros desenvolvedores.
+- Junte-se a [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) para compartilhar ideias ou buscar conselhos de outros desenvolvedores.
 
 Pronto para levar seus projetos Java para o próximo nível? Mergulhe na implementação dessas soluções hoje mesmo!
 
@@ -199,7 +199,7 @@ Pronto para levar seus projetos Java para o próximo nível? Mergulhe na impleme
 - [Licença de compra](https://purchase.aspose.com/buy)
 - [Download de teste gratuito](https://releases.aspose.com/imaging/java/)
 - [Solicitar Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Comece a integrar o Aspose.Imaging para Java hoje mesmo e simplifique seus fluxos de trabalho de processamento de imagens!
 

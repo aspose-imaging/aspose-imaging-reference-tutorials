@@ -177,7 +177,7 @@ R: Il formato TIFF offre una qualità più elevata e supporta più profondità d
 - **Acquista una licenza**: [Pagina di acquisto Aspose](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Prova Aspose.Imaging gratuitamente](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea**: [Richiedi licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto e comunità**: [Forum di Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto e comunità**: [Forum di Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

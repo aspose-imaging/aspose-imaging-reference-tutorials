@@ -188,7 +188,7 @@ Has aprendido a convertir imágenes a escala de grises de forma eficaz con Aspos
 - **Descargar**: Obtenga la última versión de [Lanzamientos de Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Compra y prueba**:Infórmese sobre las opciones de compra y comience con una prueba gratuita [aquí](https://purchase.aspose.com/buy)
 - **Licencia temporal**:Obtener una licencia temporal [aquí](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**Únase al foro de la comunidad en [Foro de imágenes de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**Únase al foro de la comunidad en [Foro de imágenes de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Esperamos que esta guía te ayude a usar Aspose.Imaging para Java eficazmente en tus proyectos. ¡Que disfrutes programando!
 

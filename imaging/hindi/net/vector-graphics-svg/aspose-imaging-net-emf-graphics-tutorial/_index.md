@@ -149,7 +149,7 @@ Aspose.Imaging के साथ काम करते समय इष्टत
 - [खरीदना](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10) 
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14) 
 
 Aspose.Imaging की क्षमताओं में गहराई से गोता लगाने और अपने .NET अनुप्रयोगों को बढ़ाने के लिए इन संसाधनों का अन्वेषण करें!
 

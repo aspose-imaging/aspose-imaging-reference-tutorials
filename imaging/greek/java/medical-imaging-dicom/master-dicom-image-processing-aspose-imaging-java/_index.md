@@ -252,7 +252,7 @@ public class SaveDicomImage {
 **Επόμενα βήματα:**
 - Εξερευνήστε περαιτέρω χαρακτηριστικά στο [Τεκμηρίωση Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - Πειραματιστείτε με πιο σύνθετους χειρισμούς DICOM.
-- Μοιραστείτε τις εμπειρίες και τις λύσεις σας σε φόρουμ όπως το [Φόρουμ κοινότητας Aspose](https://forum.aspose.com/c/imaging/10).
+- Μοιραστείτε τις εμπειρίες και τις λύσεις σας σε φόρουμ όπως το [Φόρουμ κοινότητας Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Ενότητα Συχνών Ερωτήσεων
 
@@ -278,7 +278,7 @@ A5: Επαληθεύστε ότι η διαδρομή του αρχείου εί
 - **Αγορά**: [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Αποκτήστε μια δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Κοινότητας Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Κοινότητας Aspose](https://forum.aspose.com/c/imaging/14)
 
 Με αυτόν τον ολοκληρωμένο οδηγό, είστε άρτια εξοπλισμένοι για να χειριστείτε εργασίες επεξεργασίας εικόνας DICOM χρησιμοποιώντας το Aspose.Imaging Java. Καλή κωδικοποίηση!
 

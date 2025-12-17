@@ -198,7 +198,7 @@ A5: Hãy cân nhắc tối ưu hóa môi trường Java của bạn để quản
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Truy cập dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Yêu cầu cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Khám phá các tài nguyên này để hiểu sâu hơn và nâng cao các dự án xử lý hình ảnh của bạn với Aspose.Imaging for Java. Chúc bạn viết mã vui vẻ!
 

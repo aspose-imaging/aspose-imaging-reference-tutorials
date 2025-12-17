@@ -204,7 +204,7 @@ A5: استخدم ميزات المعالجة الدفعية وتأكد من أن
 - [تنزيل Aspose.Imaging لـ Java](https://releases.aspose.com/imaging/java/)
 - [شراء ترخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية وترخيص مؤقت](https://releases.aspose.com/imaging/java/)
-- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 انغمس في هذه الموارد لتوسيع معرفتك وقدراتك مع Aspose.Imaging لجافا. برمجة ممتعة!
 

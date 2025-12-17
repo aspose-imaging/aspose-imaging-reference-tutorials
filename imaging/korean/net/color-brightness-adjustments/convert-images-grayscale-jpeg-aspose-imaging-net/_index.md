@@ -155,7 +155,7 @@ Aspose.Imaging for .NET을 사용하여 이미지를 회색조 JPEG로 변환하
    네, 라이선스를 구매한 후에는 모든 프로덕션 환경에서 활용할 수 있습니다.
 
 5. **Aspose.Imaging 관련 문제 해결에 대한 지원이 있나요?**
-   네, 도움을 요청할 수 있습니다. [Aspose 포럼](https://forum.aspose.com/c/imaging/10).
+   네, 도움을 요청할 수 있습니다. [Aspose 포럼](https://forum.aspose.com/c/imaging/14).
 
 ## 자원
 - **선적 서류 비치:** https://reference.aspose.com/imaging/net/
@@ -163,7 +163,7 @@ Aspose.Imaging for .NET을 사용하여 이미지를 회색조 JPEG로 변환하
 - **구입:** https://purchase.aspose.com/buy
 - **무료 체험:** https://releases.aspose.com/imaging/net/
 - **임시 면허:** https://purchase.aspose.com/temporary-license/
-- **지원하다:** https://forum.aspose.com/c/imaging/10
+- **지원하다:** https://forum.aspose.com/c/imaging/14
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

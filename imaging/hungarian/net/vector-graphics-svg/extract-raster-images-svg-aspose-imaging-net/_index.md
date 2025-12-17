@@ -141,7 +141,7 @@ Készen állsz kipróbálni? Alkalmazd ezt a megoldást a következő projektedb
 - **Vásárlás**: [Licenc beszerzése](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Aspose támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Aspose támogatás](https://forum.aspose.com/c/imaging/14)
 
 Ez az oktatóanyag bemutatja az Aspose.Imaging for .NET hatékony használatát, biztosítva, hogy a legtöbbet hozhasd ki ebből a hatékony könyvtárból. Jó kódolást!
 

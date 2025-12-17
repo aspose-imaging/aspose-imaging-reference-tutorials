@@ -238,7 +238,7 @@ In this tutorial, you've learned how to set a default font in your Java applicat
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Free Trial Version](https://releases.aspose.com/imaging/java/)
 - [Obtain a Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 By following this guide, you'll be well-equipped to handle complex image processing tasks in Java using Aspose.Imaging. Happy coding!
 

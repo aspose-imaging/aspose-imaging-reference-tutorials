@@ -177,7 +177,7 @@ A: 네, 이 방법은 애니메이션을 위해 설계되었지만 단일 프레
 - **라이센스 구매**: [Aspose 구매 페이지](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging 무료 체험하기](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원 및 커뮤니티**: [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원 및 커뮤니티**: [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

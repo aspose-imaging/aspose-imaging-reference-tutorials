@@ -153,7 +153,7 @@ original.Save("YOUR_DOCUMENT_DIRECTORY/ConvertedImage.jpg", jpegOptions);
 - **購買許可證**： [Aspose 購買頁面](https://purchase.aspose.com/buy)
 - **免費試用**： [免費試用 Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援論壇**： [Aspose 支持社區](https://forum.aspose.com/c/imaging/10)
+- **支援論壇**： [Aspose 支持社區](https://forum.aspose.com/c/imaging/14)
 
 透過掌握 Aspose.Imaging 的轉換過程，您將能夠在 .NET 應用程式中有效地處理複雜的影像處理任務。祝您編碼愉快！
 

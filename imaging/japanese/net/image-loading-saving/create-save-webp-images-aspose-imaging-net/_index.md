@@ -188,7 +188,7 @@ Aspose.Imaging .NET を使って WebP 画像を作成し、保存する方法を
 - **購入**： [ライセンスを購入する](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルを始める](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスを申請する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 今すぐ Aspose.Imaging を使い始め、.NET での画像処理の可能性を最大限に引き出しましょう。
 

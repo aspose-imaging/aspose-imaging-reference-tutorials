@@ -179,7 +179,7 @@ A5: Postępuj zgodnie z instrukcjami podanymi w części dotyczącej nabywania l
 - **Zakup**: [Kup licencję](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Zacznij tutaj](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**: [Zapytaj teraz](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Forum społeczności](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Forum społeczności](https://forum.aspose.com/c/imaging/14)
 
 Wykorzystując te zasoby, możesz dalej eksplorować możliwości Aspose.Imaging i rozwiązywać wszelkie problemy, jakie napotkasz podczas implementacji. Miłego kodowania!
 

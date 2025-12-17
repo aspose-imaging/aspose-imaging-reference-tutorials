@@ -152,7 +152,7 @@ using System;
 - **Покупка:** [Купить лицензию Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия:** [Начать бесплатную пробную версию](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия:** [Подать заявку на временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать:** [Форум Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать:** [Форум Aspose](https://forum.aspose.com/c/imaging/14)
 
 Начните свой путь к освоению обработки изображений с Aspose.Imaging для .NET уже сегодня!
 

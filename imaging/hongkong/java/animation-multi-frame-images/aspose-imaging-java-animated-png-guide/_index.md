@@ -195,7 +195,7 @@ A: 完全可以，您可以將其與 Spring、Apache Commons 等框架或函式�
 - **購買：** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)  
 - **免費試用：** [Get Started with Free Trial](https://releases.aspose.com/imaging/java/)  
 - **暫時授權：** [Acquire Temporary License](https://purchase.aspose.com/temporary-license/)  
-- **支援論壇：** [Aspose Community Support](https://forum.aspose.com/c/imaging/10)
+- **支援論壇：** [Aspose Community Support](https://forum.aspose.com/c/imaging/14)
 
 ---
 

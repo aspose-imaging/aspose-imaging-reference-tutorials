@@ -201,7 +201,7 @@ Deze tutorial heeft je de kennis bijgebracht om meerdere afbeeldingsformaten te 
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefversie downloaden](https://releases.aspose.com/imaging/java/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10) 
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14) 
 
 Door deze handleiding te volgen, bent u goed op weg om beeldverwerking met Aspose.Imaging Java onder de knie te krijgen. Veel plezier met coderen!
 

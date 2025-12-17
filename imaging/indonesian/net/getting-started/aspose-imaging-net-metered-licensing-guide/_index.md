@@ -147,7 +147,7 @@ Dalam panduan ini, kami telah menjajaki cara menerapkan lisensi terukur dengan A
 - Bereksperimen lebih jauh dengan mengintegrasikan lisensi terukur ke dalam alur kerja yang lebih kompleks.
 - Jelajahi fitur tambahan yang ditawarkan oleh Aspose.Imaging yang dapat meningkatkan kemampuan aplikasi Anda.
 
-Kami menganjurkan Anda untuk mencoba penerapan ini dalam proyek Anda. Jika Anda memiliki pertanyaan atau memerlukan dukungan, jangan ragu untuk menghubungi kami melalui [Forum komunitas Aspose](https://forum.aspose.com/c/imaging/10).
+Kami menganjurkan Anda untuk mencoba penerapan ini dalam proyek Anda. Jika Anda memiliki pertanyaan atau memerlukan dukungan, jangan ragu untuk menghubungi kami melalui [Forum komunitas Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Bagian FAQ
 **Q1: Apa itu lisensi terukur?**

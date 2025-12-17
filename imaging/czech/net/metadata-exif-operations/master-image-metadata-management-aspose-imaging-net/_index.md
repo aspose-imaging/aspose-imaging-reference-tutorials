@@ -195,7 +195,7 @@ Dalšími kroky je integrace těchto řešení do větších projektů nebo proz
 - **Nákup:** [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Vyzkoušet zdarma](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence:** [Získejte zde](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum komunity](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum komunity](https://forum.aspose.com/c/imaging/14)
 
 Doufáme, že vám tento průvodce pomůže s jistotou spravovat metadata obrázků pomocí Aspose.Imaging pro .NET. Přejeme vám příjemné programování!
 

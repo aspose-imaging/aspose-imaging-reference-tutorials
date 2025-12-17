@@ -207,7 +207,7 @@ A: แน่นอน คุณสามารถใช้ร่วมกับ�
 - **ซื้อ:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)  
 - **ทดลองใช้ฟรี:** [Get Started with Free Trial](https://releases.aspose.com/imaging/java/)  
 - **ใบอนุญาตชั่วคราว:** [Acquire Temporary License](https://purchase.aspose.com/temporary-license/)  
-- **ฟอรั่มสนับสนุน:** [Aspose Community Support](https://forum.aspose.com/c/imaging/10)
+- **ฟอรั่มสนับสนุน:** [Aspose Community Support](https://forum.aspose.com/c/imaging/14)
 
 ---
 

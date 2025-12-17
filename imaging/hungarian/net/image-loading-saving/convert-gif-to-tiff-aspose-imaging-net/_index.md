@@ -154,7 +154,7 @@ Ebben az oktatóanyagban megtanultad, hogyan konvertálhatsz GIF-fájlok egyes k
 - [Aspose.Imaging letöltése](https://releases.aspose.com/imaging/net/)
 - [Aspose licencelési lehetőségek vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió és ideiglenes licenc](https://releases.aspose.com/imaging/net/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

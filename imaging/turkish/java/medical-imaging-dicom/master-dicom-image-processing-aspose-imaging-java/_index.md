@@ -252,7 +252,7 @@ Artık Aspose.Imaging Java kullanarak DICOM manipülasyonunun temellerine hakim 
 **Sonraki Adımlar:**
 - Daha fazla özelliği keşfedin [Aspose.Görüntüleme belgeleri](https://reference.aspose.com/imaging/java/).
 - Daha karmaşık DICOM manipülasyonlarını deneyin.
-- Deneyimlerinizi ve çözümlerinizi şu forumlarda paylaşın: [Aspose topluluk forumu](https://forum.aspose.com/c/imaging/10).
+- Deneyimlerinizi ve çözümlerinizi şu forumlarda paylaşın: [Aspose topluluk forumu](https://forum.aspose.com/c/imaging/14).
 
 ## SSS Bölümü
 
@@ -278,7 +278,7 @@ C5: Dosya yolunun doğru olduğundan emin olun, uygun izinlere sahip olduğunuzd
 - **Satın almak**: [Lisans satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Deneme Alın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Topluluk Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Topluluk Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı kılavuzla, Aspose.Imaging Java'yı kullanarak DICOM görüntü işleme görevlerini halletmek için iyi bir donanıma sahip olacaksınız. İyi kodlamalar!
 

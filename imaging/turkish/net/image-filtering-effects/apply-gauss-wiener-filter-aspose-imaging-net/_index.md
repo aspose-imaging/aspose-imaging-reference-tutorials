@@ -133,7 +133,7 @@ Filtreleri uygularken performansı optimize etmek için şu ipuçlarını göz �
 
 Tebrikler! Aspose.Imaging .NET kullanarak Gauss Wiener filtresini renkli görüntülere başarıyla uyguladınız. Bu eğitim, görüntü işleme görevlerinizi geliştirmeniz, daha temiz ve daha hassas sonuçlar elde etmeniz için gereken bilgiyle sizi donattı.
 
-Aspose.Imaging'in yeteneklerini keşfetmeye devam etmek için, kütüphanede bulunan diğer filtreleri ve özellikleri incelemeyi düşünün. Daha fazla soru veya destek için şuraya bakın: [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+Aspose.Imaging'in yeteneklerini keşfetmeye devam etmek için, kütüphanede bulunan diğer filtreleri ve özellikleri incelemeyi düşünün. Daha fazla soru veya destek için şuraya bakın: [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 ## SSS Bölümü
 
@@ -158,7 +158,7 @@ C: Deneme lisansı test için tam erişime izin verir ancak filigran veya kullan
 - **Lisans Satın Al:** [Aspose Satın Alma](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Deneme Lisansı](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans:** [Geçici Lisans Başvurusu Yapın](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Anlayışınızı derinleştirmek ve görüntü işleme projelerinizi geliştirmek için bu kaynakları keşfedin. İyi kodlamalar!
 

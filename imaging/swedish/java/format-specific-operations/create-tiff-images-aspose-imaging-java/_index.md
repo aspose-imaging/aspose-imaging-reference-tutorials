@@ -196,7 +196,7 @@ Utforska fler funktioner i Aspose.Imaging genom att dyka ner i deras omfattande 
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att behärska dessa tekniker kommer du att vara väl rustad för att hantera komplexa bildbehandlingsuppgifter i dina Java-applikationer. Lycka till med kodningen!
 

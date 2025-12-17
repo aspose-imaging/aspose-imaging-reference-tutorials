@@ -282,7 +282,7 @@ Využitím Aspose.Imaging v Javě můžete efektivně a snadno spravovat SVG obr
 - [Stáhněte si Aspose.Imaging pro Javu](https://releases.aspose.com/imaging/java/)
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze a dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na cestu s Aspose.Imaging Java ještě dnes a odemkněte si výkonné funkce pro zpracování obrazu ve svých aplikacích!
 

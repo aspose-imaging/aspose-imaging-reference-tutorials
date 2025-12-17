@@ -147,7 +147,7 @@ To further enhance your skills with Aspose.Imaging, explore additional functiona
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/net/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Embark on your journey to master image conversion with Aspose.Imaging for .NET, and explore the possibilities that this powerful library offers. Happy coding!
 

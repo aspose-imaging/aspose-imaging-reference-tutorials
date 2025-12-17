@@ -181,7 +181,7 @@ Jste připraveni to vyzkoušet? Využijte to, co jste se dnes naučili, a uvidí
 - [Možnosti zakoupení licencí](https://purchase.aspose.com/buy)
 - [Stáhnout zkušební verzi zdarma](https://releases.aspose.com/imaging/java/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory a komunity](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory a komunity](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu jste nyní vybaveni k efektivnímu zpracování konverzí obrazových formátů pomocí Aspose.Imaging v Javě. Přejeme vám příjemné programování!
 

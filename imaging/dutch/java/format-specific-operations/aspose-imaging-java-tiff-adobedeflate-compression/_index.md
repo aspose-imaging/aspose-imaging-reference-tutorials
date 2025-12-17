@@ -153,7 +153,7 @@ Aan het einde van deze tutorial zou je vertrouwd moeten zijn met het converteren
 - [Aankoop](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Verken deze bronnen om je kennis te verdiepen en Aspose.Imaging voor Java optimaal te benutten. Veel plezier met programmeren!
 

@@ -171,7 +171,7 @@ objImage.Save(outputDir);
 - **라이센스 구매:** [지금 구매하세요](https://purchase.aspose.com/buy)
 - **무료 체험:** [무료 체험판을 받으세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허:** [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼:** [Aspose.Imaging 지원](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼:** [Aspose.Imaging 지원](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

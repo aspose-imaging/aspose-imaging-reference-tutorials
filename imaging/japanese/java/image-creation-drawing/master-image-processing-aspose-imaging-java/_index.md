@@ -162,7 +162,7 @@ A5: 画像を順次処理し、不要なオブジェクトを閉じることで�
 - **購入：** [今すぐ購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [ここから始めましょう](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [コミュニティフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [コミュニティフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを活用することで、Aspose.Imaging for Java の理解と応用をさらに深めることができます。コーディングを楽しみましょう！
 

@@ -153,7 +153,7 @@ A5: Có, nó cung cấp nhiều kỹ thuật tối ưu hóa khác nhau để qu�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Nâng tầm ứng dụng .NET của bạn bằng cách làm chủ xử lý hình ảnh với Aspose.Imaging!
 

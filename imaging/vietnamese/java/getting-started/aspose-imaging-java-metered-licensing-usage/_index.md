@@ -200,7 +200,7 @@ Các bước tiếp theo bao gồm khám phá các chức năng bổ sung của 
    - Sử dụng `Metered.getConsumptionQuantity()` phương pháp trước và sau khi xử lý hình ảnh để theo dõi mức sử dụng.
 
 5. **Tôi có được hỗ trợ nếu gặp vấn đề không?**
-   - Thăm nom [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10) để được hỗ trợ từ các chuyên gia cộng đồng.
+   - Thăm nom [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14) để được hỗ trợ từ các chuyên gia cộng đồng.
 
 ## Tài nguyên
 

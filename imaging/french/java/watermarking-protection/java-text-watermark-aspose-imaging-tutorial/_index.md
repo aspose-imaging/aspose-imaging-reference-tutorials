@@ -245,7 +245,7 @@ Tout au long de ce guide, nous avons expliqué comment charger efficacement une 
 - **Achat**: Envisagez d'acheter un abonnement chez [Achat Aspose](https://purchase.aspose.com/buy).
 - **Essai gratuit**:Commencez par un essai gratuit pour tester les fonctionnalités sans limitations.
 - **Permis temporaire**: Obtenez une licence temporaire pour un accès complet pendant votre période d'évaluation.
-- **Soutien**:Rejoignez la communauté et demandez de l'aide sur [Forums Aspose](https://forum.aspose.com/c/imaging/10).
+- **Soutien**:Rejoignez la communauté et demandez de l'aide sur [Forums Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

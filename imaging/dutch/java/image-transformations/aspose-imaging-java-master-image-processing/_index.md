@@ -209,7 +209,7 @@ Veelvoorkomende problemen zijn onder andere onjuiste padconfiguraties en niet-on
 
 **5. Hoe krijg ik ondersteuning als ik problemen ondervind?**
 
-Bezoek [Aspose-ondersteuning](https://forum.aspose.com/c/imaging/10) om hulp te vragen aan de gemeenschap of om zelf contact op te nemen voor meer ondersteuning.
+Bezoek [Aspose-ondersteuning](https://forum.aspose.com/c/imaging/14) om hulp te vragen aan de gemeenschap of om zelf contact op te nemen voor meer ondersteuning.
 
 ## Bronnen
 

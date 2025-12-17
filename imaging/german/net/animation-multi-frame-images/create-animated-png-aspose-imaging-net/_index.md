@@ -172,7 +172,7 @@ Sie haben nun gelernt, wie Sie mit Aspose.Imaging für .NET aus einem einzelnen 
 - **Kaufen**: Eine Volllizenz erhalten Sie unter [Aspose Kauf](https://purchase.aspose.com/buy).
 - **Kostenlose Testversion**: Beginnen Sie mit einem Test bei [Kostenlose Aspose-Testversionen](https://releases.aspose.com/imaging/net/).
 - **Temporäre Lizenz**: Erhalten Sie temporären Zugriff über die [Lizenzseite](https://purchase.aspose.com/temporary-license/).
-- **Unterstützung**: Nehmen Sie an Diskussionen teil oder stellen Sie Fragen auf der [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Unterstützung**: Nehmen Sie an Diskussionen teil oder stellen Sie Fragen auf der [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Begeben Sie sich auf die Reise, um mit Aspose.Imaging für .NET fesselnde Animationen zu erstellen und sowohl Ihre technischen Fähigkeiten als auch Ihre Projektergebnisse zu verbessern.
 

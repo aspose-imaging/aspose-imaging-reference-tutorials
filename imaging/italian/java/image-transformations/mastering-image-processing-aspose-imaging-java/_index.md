@@ -182,7 +182,7 @@ La prova gratuita presenta limitazioni di valutazione, come la presenza di filig
 - **Acquistare:** [Acquista Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Prova gratuita di Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea:** [Ottieni una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto:** [Supporto del forum Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Supporto:** [Supporto del forum Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Con questa guida completa, sarai pronto per iniziare a utilizzare Aspose.Imaging per Java nei tuoi progetti. Buona programmazione!
 

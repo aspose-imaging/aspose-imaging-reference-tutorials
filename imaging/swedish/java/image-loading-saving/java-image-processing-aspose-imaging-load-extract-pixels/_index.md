@@ -204,7 +204,7 @@ Du har nu lärt dig hur du använder Aspose.Imaging för Java för att ladda och
 - **Köpa**Skaffa licenser direkt från [Köp Aspose](https://purchase.aspose.com/buy)
 - **Gratis provperiod**Börja experimentera med en [gratis provlicens](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**Erhåll en tillfällig licens för testning på [Tillfällig licens](https://purchase.aspose.com/temporary-license/).
-- **Stöd**Gå med i gemenskapen på [Aspose-forumet](https://forum.aspose.com/c/imaging/10) för eventuella frågor eller diskussioner.
+- **Stöd**Gå med i gemenskapen på [Aspose-forumet](https://forum.aspose.com/c/imaging/14) för eventuella frågor eller diskussioner.
 
 Genom att följa den här handledningen är du nu rustad att hantera komplexa bildbehandlingsuppgifter i Java med hjälp av Aspose.Imaging. Lycka till med kodningen!
 

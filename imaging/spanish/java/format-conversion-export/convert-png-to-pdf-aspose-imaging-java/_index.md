@@ -194,7 +194,7 @@ Siguiendo esta guía, ha aprendido a cargar un archivo PNG, configurar la inform
 - [Compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Embárquese en su próximo proyecto con confianza, sabiendo que Aspose.Imaging para Java lo tiene cubierto.
 

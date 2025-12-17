@@ -204,7 +204,7 @@ den här guiden har vi utforskat hur man laddar och ändrar storlek på DICOM-bi
 - **Köpa**: https://purchase.aspose.com/buy
 - **Gratis provperiod**: https://releases.aspose.com/imaging/java/
 - **Tillfällig licens**https://purchase.aspose.com/temporary-license/
-- **Stöd**: https://forum.aspose.com/c/imaging/10
+- **Stöd**: https://forum.aspose.com/c/imaging/14
 
 Genom att utnyttja dessa resurser kan du fördjupa din förståelse och effektivt implementera Aspose.Imaging i dina Java-applikationer. Lycka till med kodningen!
 

@@ -172,7 +172,7 @@ Nyní jste se naučili, jak vytvořit APNG z jednoho obrázku pomocí Aspose.Ima
 - **Nákup**Pro plnou licenci přejděte na [Nákup Aspose](https://purchase.aspose.com/buy).
 - **Bezplatná zkušební verze**Začněte se zkušební verzí na adrese [Bezplatné zkušební verze Aspose](https://releases.aspose.com/imaging/net/).
 - **Dočasná licence**Získejte dočasný přístup prostřednictvím [Stránka s licencí](https://purchase.aspose.com/temporary-license/).
-- **Podpora**Zapojte se do diskusí nebo se zeptejte na otázky [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Podpora**Zapojte se do diskusí nebo se zeptejte na otázky [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Vydejte se na cestu k tvorbě poutavých animací s Aspose.Imaging pro .NET a zlepšete si tak své technické dovednosti i výsledky projektů.
 

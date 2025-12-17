@@ -199,7 +199,7 @@ Envisagez d’utiliser des techniques de traitement parallèle et assurez une ge
 - **Achat**: [Acheter des produits Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Obtenez une licence d'essai gratuite](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum d'assistance Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum d'assistance Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

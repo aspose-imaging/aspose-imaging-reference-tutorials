@@ -126,7 +126,7 @@ A5: Ja, Aspose.Imaging ondersteunt cloudomgevingen en maakt integratie in versch
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Ontvang een gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

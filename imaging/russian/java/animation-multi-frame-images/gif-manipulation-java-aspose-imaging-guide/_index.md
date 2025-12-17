@@ -172,7 +172,7 @@ A: Конечно! Эффективная обработка ресурсов д
 - **Покупка**: [Купить Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Начните с бесплатной пробной версии](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия**: [Запросить здесь](https://purchase.aspose.com/temporary-license/)
-- **Форум поддержки**: [Сообщество поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- **Форум поддержки**: [Сообщество поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Это руководство вооружит вас знаниями, которые позволят вам уверенно манипулировать изображениями GIF с помощью Aspose.Imaging для Java. Удачного кодирования!
 

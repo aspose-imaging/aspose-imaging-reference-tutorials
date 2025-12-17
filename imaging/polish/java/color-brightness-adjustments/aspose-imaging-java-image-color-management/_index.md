@@ -189,7 +189,7 @@ Gotowy, aby wykorzystać tę wiedzę w praktyce? Spróbuj wdrożyć te techniki 
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10) 
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14) 
 
 Zacznij już dziś zarządzać swoimi obrazami z precyzją kolorów przy użyciu Aspose.Imaging for Java!
 

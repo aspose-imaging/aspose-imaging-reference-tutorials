@@ -171,7 +171,7 @@ Jelajahi [Dokumentasi Aspose](https://reference.aspose.com/imaging/java/) dan fo
 - **Dokumentasi:** [Referensi Aspose.Imaging untuk Java](https://reference.aspose.com/imaging/java/)
 - **Unduh:** [Rilis Terbaru](https://releases.aspose.com/imaging/java/)
 - **Pembelian & Uji Coba:** Jelajahi opsi lisensi di [Aspose Pembelian](https://purchase.aspose.com/buy)
-- **Mendukung:** Bergabunglah dalam diskusi komunitas di [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** Bergabunglah dalam diskusi komunitas di [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Cobalah langkah-langkah ini dalam proyek Anda berikutnya untuk melihat bagaimana Aspose.Imaging Java dapat menyederhanakan dan meningkatkan alur kerja pemrosesan gambar Anda!
 

@@ -162,7 +162,7 @@ A: Absolut, es ist so konzipiert, dass es nahtlos in verschiedenen Java-basierte
 - **Kauflizenz:** [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Kostenlose Testversion von Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Fordern Sie eine temporäre Lizenz an](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum:** [Aspose Imaging-Unterstützung](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum:** [Aspose Imaging-Unterstützung](https://forum.aspose.com/c/imaging/14)
 
 Mit dieser umfassenden Anleitung sind Sie nun in der Lage, EMF-Dateien mit Aspose.Imaging für Java in WMF zu konvertieren. Viel Spaß beim Programmieren!
 

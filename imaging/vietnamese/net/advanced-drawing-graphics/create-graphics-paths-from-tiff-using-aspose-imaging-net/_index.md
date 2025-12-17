@@ -165,7 +165,7 @@ A: Tối ưu hóa mã của bạn bằng cách xử lý các đường dẫn the
 A: Có, nó được thiết kế để tích hợp liền mạch với bất kỳ ứng dụng .NET nào yêu cầu khả năng xử lý hình ảnh nâng cao.
 
 **H: Tôi sẽ nhận được hỗ trợ gì nếu gặp sự cố?**
-A: Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) để được hỗ trợ từ các chuyên gia cộng đồng và nhân viên Aspose.
+A: Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) để được hỗ trợ từ các chuyên gia cộng đồng và nhân viên Aspose.
 
 **H: Có giải pháp thay thế nào cho việc sử dụng Aspose.Imaging để xử lý TIFF trong .NET không?**
 A: Mặc dù có nhiều thư viện khác, Aspose.Imaging cung cấp một bộ tính năng toàn diện được thiết kế riêng cho các tác vụ xử lý hình ảnh chất lượng cao.
@@ -176,7 +176,7 @@ A: Mặc dù có nhiều thư viện khác, Aspose.Imaging cung cấp một bộ
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Dùng thử Aspose.Imaging miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình của bạn với Aspose.Imaging cho .NET ngay hôm nay và mở ra những khả năng mới trong xử lý hình ảnh!
 

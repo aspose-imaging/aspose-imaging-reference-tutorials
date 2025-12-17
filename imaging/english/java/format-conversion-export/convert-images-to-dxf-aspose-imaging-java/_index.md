@@ -191,7 +191,7 @@ In this tutorial, we've explored how to use Aspose.Imaging for Java to convert i
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/java/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Start implementing these solutions today and enhance your image processing capabilities with Aspose.Imaging for Java!
 

@@ -198,7 +198,7 @@ image.save(outputFile, options);
 - [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - [Πληροφορίες για τη δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Αυτός ο ολοκληρωμένος οδηγός στοχεύει να σας εξοπλίσει με τις δεξιότητες που απαιτούνται για την αποτελεσματική χρήση του Aspose.Imaging για Java, βελτιώνοντας τα έργα ψηφιακών μέσων σας. Καλή κωδικοποίηση!
 

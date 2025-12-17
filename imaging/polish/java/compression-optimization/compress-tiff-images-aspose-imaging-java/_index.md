@@ -188,7 +188,7 @@ Dzięki temu przewodnikowi nauczyłeś się, jak skutecznie kompresować obrazy 
 - **Zakup:** [Kup teraz](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Zacznij tutaj](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa:** [Zapytaj tutaj](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie:** Aby uzyskać dalszą pomoc, odwiedź stronę [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie:** Aby uzyskać dalszą pomoc, odwiedź stronę [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

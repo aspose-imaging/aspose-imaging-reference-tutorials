@@ -164,7 +164,7 @@ Jste připraveni to vyzkoušet? Implementujte toto řešení ve svém projektu j
    - Optimalizujte své prostředí a kód pro správu paměti s efektivním využitím garbage collection v Javě.
 
 5. **Je k dispozici podpora, pokud narazím na problémy?**
-   - Pomoc můžete vyhledat na [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10).
+   - Pomoc můžete vyhledat na [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Zdroje
 

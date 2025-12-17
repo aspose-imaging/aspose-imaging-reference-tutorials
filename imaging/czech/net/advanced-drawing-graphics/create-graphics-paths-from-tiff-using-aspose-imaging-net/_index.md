@@ -165,7 +165,7 @@ A: Optimalizujte svůj kód postupným zpracováním cest a zajistěte správné
 A: Ano, je navržen pro bezproblémovou integraci s jakoukoli aplikací .NET, která vyžaduje pokročilé funkce pro zpracování obrazu.
 
 **Otázka: Jaká podpora je k dispozici, pokud narazím na problémy?**
-A: Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) za pomoc od komunitních expertů a zaměstnanců Aspose.
+A: Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) za pomoc od komunitních expertů a zaměstnanců Aspose.
 
 **Otázka: Existují alternativy k použití Aspose.Imaging pro manipulaci s TIFF v .NET?**
 A: Ačkoli existují i jiné knihovny, Aspose.Imaging nabízí komplexní sadu funkcí přizpůsobených speciálně pro úlohy zpracování vysoce kvalitního obrazu.
@@ -176,7 +176,7 @@ A: Ačkoli existují i jiné knihovny, Aspose.Imaging nabízí komplexní sadu f
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte Aspose.Imaging zdarma](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na cestu s Aspose.Imaging pro .NET ještě dnes a odemkněte nové možnosti ve zpracování obrazu!
 

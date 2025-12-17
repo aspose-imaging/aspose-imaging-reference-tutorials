@@ -128,7 +128,7 @@ Khi làm việc với xử lý hình ảnh:
 ## Phần kết luận
 Hướng dẫn này hướng dẫn bạn cách thiết lập tùy chọn BMP và tạo hình ảnh bằng Aspose.Imaging cho .NET. Bằng cách làm theo các bước nêu trên, bạn có thể tích hợp liền mạch các khả năng tạo hình ảnh vào ứng dụng của mình.
 
-Tiếp theo, hãy cân nhắc khám phá thêm các tính năng của Aspose.Imaging hoặc tìm hiểu sâu hơn về các định dạng hình ảnh khác được thư viện hỗ trợ. Nếu bạn có thêm câu hỏi hoặc cần trợ giúp, hãy tham khảo [diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10).
+Tiếp theo, hãy cân nhắc khám phá thêm các tính năng của Aspose.Imaging hoặc tìm hiểu sâu hơn về các định dạng hình ảnh khác được thư viện hỗ trợ. Nếu bạn có thêm câu hỏi hoặc cần trợ giúp, hãy tham khảo [diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14).
 
 ## Phần Câu hỏi thường gặp
 1. **Aspose.Imaging dành cho .NET là gì?**

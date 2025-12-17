@@ -133,7 +133,7 @@ A: Aspose.Imaging podporuje dávkové operace prostřednictvím smyček a parale
 - **Nákup**: [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušet nyní](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Získat dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Ptejte se zde](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Ptejte se zde](https://forum.aspose.com/c/imaging/14)
 
 Začněte používat Aspose.Imaging ještě dnes a vylepšete své .NET aplikace robustními možnostmi zpracování obrazu!
 

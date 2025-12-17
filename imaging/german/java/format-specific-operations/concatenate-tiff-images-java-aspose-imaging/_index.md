@@ -181,7 +181,7 @@ Wir empfehlen Ihnen, diese Lösung in Ihren Projekten zu implementieren! Weitere
 - [Lizenz erwerben](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Dieses Tutorial hat Ihnen das Wissen vermittelt, komplexe TIFF-Bildverkettungsaufgaben mit Aspose.Imaging für Java zu bewältigen. Viel Spaß beim Programmieren!
 

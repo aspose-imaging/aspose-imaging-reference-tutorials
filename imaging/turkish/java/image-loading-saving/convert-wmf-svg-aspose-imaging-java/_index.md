@@ -190,7 +190,7 @@ Bu kılavuzu tamamladığınız için tebrikler! Artık Aspose.Imaging for Java 
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Sürümü](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Başvurusunda Bulunun](https://purchase.aspose.com/temporary-license/)
-- [Aspose Topluluk Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Topluluk Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı kılavuzu takip ederek, Java'da WMF dosyalarını SVG'ye dönüştürmek için Aspose.Imaging'i etkili bir şekilde uygulayabilir ve geniş yelpazedeki yeteneklerini keşfedebilirsiniz. İyi kodlamalar!
 

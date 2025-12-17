@@ -219,7 +219,7 @@ A5: हाँ, Aspose.Imaging आपकी विशिष्ट आवश्य
 - **खरीदना:** [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [Aspose.Imaging को निःशुल्क आज़माएँ](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस:** [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच:** [Aspose समर्थन](https://forum.aspose.com/c/imaging/10) 
+- **सहयता मंच:** [Aspose समर्थन](https://forum.aspose.com/c/imaging/14) 
 
 आज ही Aspose.Imaging for .NET के साथ अपनी यात्रा शुरू करें, और छवियों के साथ काम करने के तरीके में क्रांतिकारी बदलाव लाएं!
 

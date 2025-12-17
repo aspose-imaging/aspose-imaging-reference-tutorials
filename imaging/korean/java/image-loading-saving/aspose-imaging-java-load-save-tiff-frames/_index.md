@@ -211,7 +211,7 @@ Aspose.Imaging을 사용하여 TIFF 이미지를 조작하는 방법을 이해�
 - **구입**: 상업적 사용을 위한 라이센스를 구매하세요 [이 링크](https://purchase.aspose.com/buy)
 - **무료 체험**: 무료 체험판을 통해 기능을 테스트해 보세요. [Aspose 웹사이트](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: 확장 평가를 위한 임시 라이센스를 얻으십시오. [여기](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: 토론에 참여하거나 도움을 요청하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: 토론에 참여하거나 도움을 요청하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -196,7 +196,7 @@ A: Absolutely, you can use it alongside frameworks like Spring or libraries such
 - **Purchase:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)  
 - **Free Trial:** [Get Started with Free Trial](https://releases.aspose.com/imaging/java/)  
 - **Temporary License:** [Acquire Temporary License](https://purchase.aspose.com/temporary-license/)  
-- **Support Forum:** [Aspose Community Support](https://forum.aspose.com/c/imaging/10)
+- **Support Forum:** [Aspose Community Support](https://forum.aspose.com/c/imaging/14)
 
 ---
 

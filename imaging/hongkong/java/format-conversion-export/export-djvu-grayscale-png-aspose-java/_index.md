@@ -194,7 +194,7 @@ A5：當然！實現循環或並行處理技術可以有效地處理多個文件
 - **購買**：https://purchase.aspose.com/buy
 - **免費試用**：https://releases.aspose.com/imaging/java/
 - **臨時執照**：https://purchase.aspose.com/temporary-license/
-- **支援**：https://forum.aspose.com/c/imaging/10
+- **支援**：https://forum.aspose.com/c/imaging/14
 
 探索這些資源，加深您對 Aspose.Imaging for Java 的理解與掌握。祝您程式愉快！
 

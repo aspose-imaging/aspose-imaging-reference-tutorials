@@ -157,7 +157,7 @@ A: Használja ki az Aspose.Imaging kötegelt feldolgozási képességeit több k
 V: Bár a teljesítmény nagyon nagy fájlok esetén változhat, az Aspose.Imaging úgy lett kialakítva, hogy hatékonyan kezelje a jelentős képadatokat.
 
 **5. kérdés: Milyen támogatási lehetőségek állnak rendelkezésre, ha problémákba ütközöm?**
-A: Részletes dokumentációt és közösségi fórumokat találhat hibaelhárítási tippekért a következő címen: [Aspose támogatás](https://forum.aspose.com/c/imaging/10).
+A: Részletes dokumentációt és közösségi fórumokat találhat hibaelhárítási tippekért a következő címen: [Aspose támogatás](https://forum.aspose.com/c/imaging/14).
 
 ## Erőforrás
 - **Dokumentáció**: [Aspose.Imaging .NET dokumentáció](https://reference.aspose.com/imaging/net/)

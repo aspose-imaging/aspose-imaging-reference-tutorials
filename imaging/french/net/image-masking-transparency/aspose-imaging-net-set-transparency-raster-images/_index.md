@@ -159,7 +159,7 @@ Implémentez une logique dans votre application qui définit dynamiquement `Tran
 - **Licence d'achat**: [Acheter Aspose.Licensing](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Essayez Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Demande de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance**: [Assistance à l'imagerie Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance**: [Assistance à l'imagerie Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

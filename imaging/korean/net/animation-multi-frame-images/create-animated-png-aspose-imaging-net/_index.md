@@ -172,7 +172,7 @@ CMS 플랫폼이나 그래픽 디자인 도구와 같은 시스템과 통합하�
 - **구입**: 전체 라이센스를 받으려면 다음으로 이동하세요. [Aspose 구매](https://purchase.aspose.com/buy).
 - **무료 체험**: 시험판으로 시작하세요 [Aspose 무료 체험판](https://releases.aspose.com/imaging/net/).
 - **임시 면허**: 다음을 통해 임시 액세스를 얻습니다. [라이센스 페이지](https://purchase.aspose.com/temporary-license/).
-- **지원하다**: 토론에 참여하거나 질문을 하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/10).
+- **지원하다**: 토론에 참여하거나 질문을 하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/14).
 
 Aspose.Imaging for .NET을 사용하여 매혹적인 애니메이션을 만드는 여정을 시작하고 기술적 능력과 프로젝트 성과를 모두 향상시키세요.
 

@@ -221,7 +221,7 @@ A5：使用 Maven 或 Gradle 將 Aspose.Imaging 依賴項新增至您的專案�
 - **購買**：透過以下方式取得許可證 [Aspose的購買頁面](https://purchase.aspose.com/buy)
 - **免費試用**：開始嘗試 [Aspose 的免費試用版](https://releases.aspose.com/imaging/java/)
 - **臨時執照**：透過以下方式取得擴充存取權限 [Aspose 的臨時許可證頁面](https://purchase.aspose.com/temporary-license/)
-- **支援**：與社區和支援團隊互動 [Aspose 的論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**：與社區和支援團隊互動 [Aspose 的論壇](https://forum.aspose.com/c/imaging/14)
 
 按照本指南操作，您將能夠使用 Aspose.Imaging 在 Java 應用程式中實作檔案驗證和路徑管理。祝您編碼愉快！
 

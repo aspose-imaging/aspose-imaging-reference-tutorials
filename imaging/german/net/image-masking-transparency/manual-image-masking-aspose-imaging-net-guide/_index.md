@@ -169,7 +169,7 @@ Um die Funktionen von Aspose.Imaging weiter zu erkunden, sollten Sie tiefer in d
 4. **Welche Probleme treten häufig beim Maskieren von Bildern auf?**
    - Zu den häufigsten Problemen zählen falsche Pfaddefinitionen, nicht behandelte Ausnahmen oder Leistungsengpässe aufgrund großer Bildgrößen.
 5. **Wo finde ich Unterstützung, wenn ich weitere Fragen habe?**
-   - Besuchen Sie die [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) für Unterstützung durch Community-Experten und Aspose-Mitarbeiter.
+   - Besuchen Sie die [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) für Unterstützung durch Community-Experten und Aspose-Mitarbeiter.
 
 ## Ressourcen
 - **Dokumentation**: [Aspose.Imaging .NET Dokumentation](https://reference.aspose.com/imaging/net/)

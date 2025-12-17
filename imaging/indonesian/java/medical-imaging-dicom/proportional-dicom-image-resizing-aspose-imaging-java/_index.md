@@ -204,7 +204,7 @@ Dalam panduan ini, kami telah mempelajari cara memuat dan mengubah ukuran gambar
 - **Pembelian**: https://purchase.aspose.com/beli
 - **Uji Coba Gratis**: https://releases.aspose.com/imaging/java/
 - **Lisensi Sementara**: https://purchase.aspose.com/lisensi-sementara/
-- **Mendukung**: https://forum.aspose.com/c/imaging/10
+- **Mendukung**: https://forum.aspose.com/c/imaging/14
 
 Dengan memanfaatkan sumber daya ini, Anda dapat memperdalam pemahaman dan menerapkan Aspose.Imaging secara efektif dalam aplikasi Java Anda. Selamat membuat kode!
 

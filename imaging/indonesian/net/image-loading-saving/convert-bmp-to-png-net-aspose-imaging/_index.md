@@ -130,7 +130,7 @@ Sepanjang tutorial ini, kami telah menjajaki cara mengonversi file BMP ke PNG se
 
 Untuk lebih meningkatkan keterampilan Anda:
 - Jelajahi fitur tambahan Aspose.Imaging, seperti manipulasi gambar atau konversi format.
-- Berinteraksi dengan komunitas di [Forum Aspose](https://forum.aspose.com/c/imaging/10) untuk berbagi wawasan dan mencari saran.
+- Berinteraksi dengan komunitas di [Forum Aspose](https://forum.aspose.com/c/imaging/14) untuk berbagi wawasan dan mencari saran.
 
 Siap untuk mulai mengonversi gambar dalam aplikasi .NET Anda? Cobalah hari ini!
 

@@ -198,7 +198,7 @@ Redo för mer? Implementera dessa tekniker i ditt nästa projekt!
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Begär en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Med den här omfattande guiden är du nu väl förberedd för att bemästra bildmanipulation med Aspose.Imaging i Java. Lycka till med kodningen!
 

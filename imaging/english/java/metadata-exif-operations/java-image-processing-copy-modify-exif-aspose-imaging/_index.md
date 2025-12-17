@@ -205,7 +205,7 @@ Experiment with different EXIF fields and explore more advanced features offered
    - Absolutely, it's designed to handle high-performance requirements effectively.
 
 5. **How can I contribute to the community or seek help with issues?**
-   - Join the [Aspose forum](https://forum.aspose.com/c/imaging/10) to ask questions and share insights.
+   - Join the [Aspose forum](https://forum.aspose.com/c/imaging/14) to ask questions and share insights.
 
 ## Resources
 

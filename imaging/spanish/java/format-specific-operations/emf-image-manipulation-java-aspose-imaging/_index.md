@@ -247,7 +247,7 @@ En este tutorial, aprendiste a manipular imágenes EMF sin problemas con Aspose.
 - [Compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo esta guía completa, estará bien preparado para integrar funciones avanzadas de procesamiento de imágenes en sus aplicaciones Java con Aspose.Imaging. ¡Que disfrute programando!
 

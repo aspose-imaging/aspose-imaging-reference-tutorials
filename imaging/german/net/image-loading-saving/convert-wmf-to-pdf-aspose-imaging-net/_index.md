@@ -172,7 +172,7 @@ Bereit, tiefer einzutauchen? Entdecken Sie die unten stehenden Ressourcen oder b
 - [Lizenzen erwerben](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/net/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit dieser Anleitung können Sie WMF-Dateien nun mit Aspose.Imaging für .NET effektiv in PDF konvertieren. Viel Spaß beim Programmieren!
 

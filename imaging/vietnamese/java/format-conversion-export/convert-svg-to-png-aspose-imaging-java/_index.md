@@ -222,7 +222,7 @@ Bạn đã sẵn sàng áp dụng những gì đã học chưa? Hãy thử chuy�
 - [Tài liệu Aspose.Imaging cho Java](https://reference.aspose.com/imaging/java/)
 - [Tải xuống Aspose.Imaging cho Java](https://releases.aspose.com/imaging/java/)
 - [Mua Giấy phép hoặc Nhận bản dùng thử miễn phí](https://purchase.aspose.com/buy)
-- [Nhận hỗ trợ từ Diễn đàn cộng đồng](https://forum.aspose.com/c/imaging/10)
+- [Nhận hỗ trợ từ Diễn đàn cộng đồng](https://forum.aspose.com/c/imaging/14)
 
 Với các tài nguyên và hướng dẫn này, bạn đã được trang bị đầy đủ để bắt đầu chuyển đổi hình ảnh SVG một cách tự tin bằng Aspose.Imaging cho Java. Chúc bạn viết mã vui vẻ!
 

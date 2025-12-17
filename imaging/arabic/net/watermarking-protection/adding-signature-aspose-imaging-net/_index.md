@@ -161,7 +161,7 @@ canvas.Save("YOUR_OUTPUT_DIRECTORY\\AddSignatureToImage_out.png", new PngOptions
 - [شراء ترخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/net/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 بفضل هذه الموارد، ستكون جاهزًا لاستكشاف المزيد والاستفادة من إمكانات Aspose.Imaging الكاملة لتلبية احتياجاتك في معالجة الصور. برمجة ممتعة!
 

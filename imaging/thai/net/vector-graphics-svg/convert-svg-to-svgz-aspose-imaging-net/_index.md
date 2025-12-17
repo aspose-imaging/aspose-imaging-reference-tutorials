@@ -149,7 +149,7 @@ using (var image = Image.Load(inputFilePath))
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/net/)
 - [ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 ร่วมออกเดินทางไปกับ Aspose.Imaging สำหรับ .NET และสำรวจศักยภาพของกราฟิกเวกเตอร์ที่ได้รับการปรับให้เหมาะสมวันนี้!
 

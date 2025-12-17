@@ -156,7 +156,7 @@ Nastavení možností BMP umožňuje vývojářům přizpůsobit vlastnosti obra
 
 **Q2: Jak mohu řešit problémy s licencí u Aspose.Imaging?**
 
-Ujistěte se, že je cesta k licenčnímu souboru správná a že používáte platnou verzi knihovny. Pokud problémy přetrvávají, obraťte se na [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10).
+Ujistěte se, že je cesta k licenčnímu souboru správná a že používáte platnou verzi knihovny. Pokud problémy přetrvávají, obraťte se na [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14).
 
 **Q3: Mohu použít Aspose.Imaging pro dávkové zpracování obrázků?**
 
@@ -177,7 +177,7 @@ Přestože existují i jiné knihovny, Aspose.Imaging poskytuje komplexní podpo
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Bezplatná zkušební verze Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Tento tutoriál poskytuje základy, které potřebujete k efektivní implementaci BMP možností ve vašich projektech v Javě pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 

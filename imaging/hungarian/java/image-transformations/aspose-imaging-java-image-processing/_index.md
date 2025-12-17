@@ -183,7 +183,7 @@ Javasoljuk, hogy próbálja meg megvalósítani ezeket a megoldásokat a projekt
 - **Vásárlás**: Fontolja meg licenc vásárlását, ha hosszú távú hozzáférésre van szüksége.
 - **Ingyenes próbaverzió**: Kezdje ingyenes próbaverzióval, hogy felfedezhesse a funkciókat a következő címen: [Aspose ingyenes próbaverzió](https://releases.aspose.com/imaging/java/).
 - **Ideiglenes engedély**: Szerezzen be egy ideiglenes engedélyt hosszabbított értékelésre a következőtől: [Aspose ideiglenes engedély](https://purchase.aspose.com/temporary-license/).
-- **Támogatás**: Csatlakozz a beszélgetésekhez és kérj segítséget a következő témában: [Aspose Fórum](https://forum.aspose.com/c/imaging/10).
+- **Támogatás**: Csatlakozz a beszélgetésekhez és kérj segítséget a következő témában: [Aspose Fórum](https://forum.aspose.com/c/imaging/14).
 
 Boldog kódolást, és kívánom, hogy a képfeldolgozási feladataid zökkenőmentesek és hatékonyak legyenek!
 

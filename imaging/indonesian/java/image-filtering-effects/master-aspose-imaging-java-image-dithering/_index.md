@@ -203,7 +203,7 @@ Untuk eksplorasi dan dukungan lebih lanjut:
 - **Beli Lisensi:** [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan:** [Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan:** [Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Mulailah menjelajahi kemungkinan dengan Aspose.Imaging untuk Java hari ini dan tingkatkan proyek pemrosesan gambar Anda!
 

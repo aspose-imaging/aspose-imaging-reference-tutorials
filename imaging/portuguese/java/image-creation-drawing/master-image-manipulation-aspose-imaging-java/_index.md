@@ -199,7 +199,7 @@ Parabéns! Você aprendeu a carregar, manipular e salvar imagens usando o Aspose
    - Ele suporta mais de 50 formatos de imagem, incluindo JPEG, PNG, TIFF e mais.
 
 5. **Como posso obter ajuda se tiver problemas?**
-   - Visita [Fórum do Aspose](https://forum.aspose.com/c/imaging/10) para obter suporte e aconselhamento comunitário.
+   - Visita [Fórum do Aspose](https://forum.aspose.com/c/imaging/14) para obter suporte e aconselhamento comunitário.
 
 ## Recursos
 

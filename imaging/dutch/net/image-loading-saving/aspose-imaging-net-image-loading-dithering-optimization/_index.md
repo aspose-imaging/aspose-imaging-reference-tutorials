@@ -159,7 +159,7 @@ Klaar om aan de slag te gaan? Duik in de implementatie van deze oplossingen en z
 - **Aankoop:** [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Probeer Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie:** [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose.Imaging Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose.Imaging Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -210,7 +210,7 @@ Aspose.Imaging Java를 사용하여 래스터화 옵션을 생성하는 방법�
 - **구입:** [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [무료 체험판을 받아보세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 통해 Aspose.Imaging Java를 프로젝트에서 효과적으로 활용할 수 있습니다. 즐거운 코딩 되세요!
 

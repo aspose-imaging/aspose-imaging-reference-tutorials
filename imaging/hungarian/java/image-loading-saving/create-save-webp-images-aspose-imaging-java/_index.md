@@ -186,7 +186,7 @@ A4: A WebP képek általában kisebbek, mint a JPEG vagy PNG képek, ami gyorsab
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbáld ki az Aspose.Imaging ingyenes verzióját](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Képalkotó Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Képalkotó Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezekkel az anyagokkal és ezzel az útmutatóval minden készen állsz arra, hogy elkezdj WebP képeket integrálni Java projektjeidbe az Aspose.Imaging használatával. Jó kódolást!
 

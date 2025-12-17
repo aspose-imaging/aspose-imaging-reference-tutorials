@@ -177,7 +177,7 @@ A: TIFF bietet eine höhere Qualität und unterstützt mehr Farbtiefen, ideal f�
 - **Erwerben Sie eine Lizenz**: [Aspose-Kaufseite](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Testen Sie Aspose.Imaging kostenlos](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Temporäre Lizenz anfordern](https://purchase.aspose.com/temporary-license/)
-- **Support und Community**: [Aspose-Foren](https://forum.aspose.com/c/imaging/10)
+- **Support und Community**: [Aspose-Foren](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

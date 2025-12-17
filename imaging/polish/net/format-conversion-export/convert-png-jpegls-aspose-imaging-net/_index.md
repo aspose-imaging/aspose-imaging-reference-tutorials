@@ -169,7 +169,7 @@ A5: Sprawdź ścieżki plików, uprawnienia i upewnij się, że środowisko .NET
 - **Zakup:** [Kup licencję](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Rozpocznij bezpłatny okres próbny](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa:** [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie:** [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie:** [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -199,7 +199,7 @@ Grattis! Du har lärt dig hur man laddar, manipulerar och sparar bilder med Aspo
    - Den stöder över 50 bildformat inklusive JPEG, PNG, TIFF och mer.
 
 5. **Hur kan jag få hjälp om jag stöter på problem?**
-   - Besök [Asposes forum](https://forum.aspose.com/c/imaging/10) för stöd och samhällsrådgivning.
+   - Besök [Asposes forum](https://forum.aspose.com/c/imaging/14) för stöd och samhällsrådgivning.
 
 ## Resurser
 

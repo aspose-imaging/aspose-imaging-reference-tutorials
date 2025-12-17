@@ -152,7 +152,7 @@ image.Save(outputDir, new BmpOptions());
 - [Αγορά](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/net/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Υποστήριξη](https://forum.aspose.com/c/imaging/10)
+- [Υποστήριξη](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

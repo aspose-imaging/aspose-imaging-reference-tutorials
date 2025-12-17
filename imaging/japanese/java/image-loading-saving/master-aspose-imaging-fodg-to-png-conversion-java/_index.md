@@ -213,7 +213,7 @@ Java で画像処理を行う場合は、次のヒントを考慮してくださ
 - **購入**： [Aspose製品を購入する](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imagingを無料でお試しください](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのテクニックを習得すれば、Javaで高度な画像処理タスクを実行するためにAspose.Imagingを活用できるようになります。コーディングを楽しみましょう！
 

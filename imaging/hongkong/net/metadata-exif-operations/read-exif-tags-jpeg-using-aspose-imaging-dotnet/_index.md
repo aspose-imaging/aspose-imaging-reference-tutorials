@@ -145,7 +145,7 @@ A5：盡可能並行處理影像，並確保正確處理影像物件以有效管
 - **購買許可證**： [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用**： [試用](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [在此請求](https://purchase.aspose.com/temporary-license/)
-- **支援論壇**： [提出問題](https://forum.aspose.com/c/imaging/10)
+- **支援論壇**： [提出問題](https://forum.aspose.com/c/imaging/14)
 
 立即踏上 Aspose.Imaging for .NET 之旅，開始利用影像元資料的強大功能！
 

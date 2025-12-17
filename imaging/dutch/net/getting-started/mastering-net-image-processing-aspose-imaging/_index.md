@@ -133,7 +133,7 @@ A: Aspose.Imaging ondersteunt batchbewerkingen via lussen en taakparallellisme i
 - **Aankoop**: [Koop licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer nu](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Stel hier uw vragen](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Stel hier uw vragen](https://forum.aspose.com/c/imaging/14)
 
 Begin vandaag nog met Aspose.Imaging en verbeter uw .NET-toepassingen met robuuste beeldverwerkingsmogelijkheden!
 

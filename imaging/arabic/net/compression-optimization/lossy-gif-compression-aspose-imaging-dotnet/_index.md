@@ -145,7 +145,7 @@ using (Image image = Image.Load("@YOUR_DOCUMENT_DIRECTORY/anim_orig.gif"))
 - **شراء**: [شراء ترخيص](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جربها](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [الحصول على ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [اطرح الأسئلة](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [اطرح الأسئلة](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

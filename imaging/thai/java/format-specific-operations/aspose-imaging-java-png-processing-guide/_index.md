@@ -167,7 +167,7 @@ A5: ใช่ คุณสามารถเชื่อมต่อการต
 - **ซื้อ:** [การขอใบอนุญาต](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี:** [ลองก่อนซื้อ](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว:** [ขอคำร้องได้ที่นี่](https://purchase.aspose.com/temporary-license/)
-- **ฟอรั่มการสนับสนุน:** [สอบถามชุมชน](https://forum.aspose.com/c/imaging/10)
+- **ฟอรั่มการสนับสนุน:** [สอบถามชุมชน](https://forum.aspose.com/c/imaging/14)
 
 ตอนนี้ที่คุณได้รับความรู้แล้ว เริ่มนำเทคนิคเหล่านี้ไปใช้ในโปรเจ็กต์ Java ของคุณได้เลย!
 

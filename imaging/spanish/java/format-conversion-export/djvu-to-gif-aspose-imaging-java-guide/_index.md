@@ -210,7 +210,7 @@ Siguiendo esta guía, has aprendido a convertir archivos DjVu a GIF con Aspose.I
 - **Compra:** [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Comience su prueba gratuita](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** [Obtenga una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo este tutorial, ya estás preparado para aprovechar Aspose.Imaging para Java en tus proyectos. ¡Que disfrutes programando!
 

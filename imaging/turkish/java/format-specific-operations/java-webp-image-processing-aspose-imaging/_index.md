@@ -197,7 +197,7 @@ Aspose.Imaging for Java'nın projelerinizde WebP görüntü işlemeyi nasıl dev
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı kılavuzu takip ederek, artık Java'da WebP görüntü işlemeyi verimli ve güvenli bir şekilde halletmeye hazırsınız. İyi kodlamalar!
 

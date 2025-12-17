@@ -147,7 +147,7 @@ Klaar om je beeldverwerkingsvaardigheden naar een hoger niveau te tillen? Implem
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Deze uitgebreide gids helpt je op weg om JPEG-basislijncompressie onder de knie te krijgen met Aspose.Imaging voor .NET. Veel plezier met coderen!
 

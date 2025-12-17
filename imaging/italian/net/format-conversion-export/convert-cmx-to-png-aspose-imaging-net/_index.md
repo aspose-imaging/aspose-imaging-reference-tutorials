@@ -151,7 +151,7 @@ Pronti a provarlo voi stessi? Implementate questi passaggi nel vostro progetto e
 - **Acquistare**: [Acquista i prodotti Aspose](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Inizia una prova gratuita](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea**: [Richiedi una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

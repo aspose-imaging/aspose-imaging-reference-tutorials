@@ -243,7 +243,7 @@ Artık TIFF yol kaynaklarını Aspose.Imaging for Java ile `GraphicsPath` nesnel
 - **Satın Alma:** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Destek Forum:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek Forum:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 ---
 

@@ -140,7 +140,7 @@ Anda telah mempelajari cara mengonversi gambar TIFF RGB ke CMYK menggunakan Aspo
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Versi Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Aplikasi Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda akan diperlengkapi dengan baik untuk menguasai konversi ruang warna gambar menggunakan Aspose.Imaging untuk .NET. Selamat membuat kode!
 

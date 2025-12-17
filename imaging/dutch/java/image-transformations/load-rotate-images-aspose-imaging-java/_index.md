@@ -193,7 +193,7 @@ Probeer deze technieken vandaag nog in uw projecten te implementeren en ervaar z
 - **Aankoop:** Koop licenties via de [Aspose Aankoopportaal](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** Krijg toegang tot een tijdelijke licentie via [Aspose gratis proefversies](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** Haal er een bij [Aspose Tijdelijke Licenties](https://purchase.aspose.com/temporary-license/)
-- **Steun:** Sluit je aan bij de community en krijg hulp bij het [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** Sluit je aan bij de community en krijg hulp bij het [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, kunt u Aspose.Imaging effectief integreren in uw Java-projecten en het laden en roteren van afbeeldingen eenvoudig verwerken. Veel plezier met coderen!
 

@@ -197,7 +197,7 @@ A: Check your build tool configuration, ensure the correct version is referenced
 - **Purchase:** [Buy Aspose.Imaging for Java](https://purchase.aspose.com/buy)
 - **Free Trial:** Start your free trial on the [Aspose website](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** Apply for a temporary license via [Aspose Purchase](https://purchase.aspose.com/temporary-license/)
-- **Support:** Join discussions in the [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** Join discussions in the [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Start drawing those curves today and elevate your Java projects with Aspose.Imaging!
 

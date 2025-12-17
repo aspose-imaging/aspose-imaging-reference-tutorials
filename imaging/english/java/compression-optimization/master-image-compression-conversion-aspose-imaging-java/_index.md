@@ -189,7 +189,7 @@ A5: A free trial is available, but some advanced features may require purchasing
 - **Purchase**: [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start Your Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Feel free to explore these resources and start implementing your image processing projects with confidence using Aspose.Imaging for Java.
 

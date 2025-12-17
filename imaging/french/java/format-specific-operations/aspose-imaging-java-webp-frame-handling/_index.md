@@ -168,7 +168,7 @@ Vérifiez votre utilisation de la mémoire et assurez-vous que toutes les ressou
 - **Achat**: [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencez par un essai gratuit](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**: [Demander une licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Passez à l’étape suivante et commencez à mettre en œuvre ces techniques dans vos projets dès aujourd’hui !
 

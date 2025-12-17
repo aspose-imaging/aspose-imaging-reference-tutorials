@@ -138,7 +138,7 @@ Jelajahi fitur tambahan Aspose.Imaging atau integrasikan teknik pemrosesan gamba
 2. **Bisakah saya mengonversi gambar ke format selain BMP?**
    - Ya, Aspose.Imaging mendukung berbagai format keluaran seperti JPEG dan PNG.
 3. **Bagaimana cara memecahkan masalah selama konversi gambar?**
-   - Periksa jalur file, pastikan versi pustaka yang benar digunakan, dan rujuk ke [Forum dukungan Aspose](https://forum.aspose.com/c/imaging/10).
+   - Periksa jalur file, pastikan versi pustaka yang benar digunakan, dan rujuk ke [Forum dukungan Aspose](https://forum.aspose.com/c/imaging/14).
 4. **Apakah Aspose.Imaging cocok untuk aplikasi waktu nyata?**
    - Meskipun tangguh, pertimbangkan pengoptimalan kinerja untuk kebutuhan pemrosesan waktu nyata.
 5. **Apa saja kasus penggunaan umum untuk konversi skala abu-abu DICOM?**
@@ -150,7 +150,7 @@ Jelajahi fitur tambahan Aspose.Imaging atau integrasikan teknik pemrosesan gamba
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

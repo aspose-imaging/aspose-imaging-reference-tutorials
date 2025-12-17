@@ -206,7 +206,7 @@ Absoluut! Vraag een licentie aan via hun aankooppagina als je van plan bent het 
 - **Aankoop**: [Aspose.Imaging aankooppagina](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Start een gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Aspose Imaging-ondersteuning](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Aspose Imaging-ondersteuning](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

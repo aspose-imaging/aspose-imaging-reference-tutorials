@@ -176,7 +176,7 @@ A5: Absolut. Den är utformad för att enkelt kunna integreras och användas til
 - **Köpa**: [Köp en licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Börja här](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Ansök nu](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Gemenskapsforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Gemenskapsforum](https://forum.aspose.com/c/imaging/14)
 
 Med den här omfattande guiden är du nu rustad att bemästra bildinläsning och storleksändring i Java med hjälp av Aspose.Imaging. Lycka till med kodningen!
 

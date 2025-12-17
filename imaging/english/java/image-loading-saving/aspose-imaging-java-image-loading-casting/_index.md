@@ -166,7 +166,7 @@ We encourage you to try implementing these solutions in your projects. For furth
    - Common issues include incorrect file paths or incompatible image types. Ensure your images are supported by Aspose.Imaging.
 
 **5. Where can I find support if I encounter problems?**
-   - Visit the [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) for assistance from the community and Aspose experts.
+   - Visit the [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) for assistance from the community and Aspose experts.
 
 ## Resources
 
@@ -174,7 +174,7 @@ We encourage you to try implementing these solutions in your projects. For furth
 - **Download**: Access the latest library version on [Aspose Releases](https://releases.aspose.com/imaging/java/).
 - **Purchase**: For a production-ready license, visit [Aspose Purchase](https://purchase.aspose.com/buy).
 - **Free Trial**: Start your journey with a free trial from [Aspose Downloads](https://releases.aspose.com/imaging/java/).
-- **Support**: Get help through the [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Support**: Get help through the [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 By leveraging Aspose.Imaging for Java, you're equipped to handle complex image processing tasks with ease and efficiency. Happy coding!
 

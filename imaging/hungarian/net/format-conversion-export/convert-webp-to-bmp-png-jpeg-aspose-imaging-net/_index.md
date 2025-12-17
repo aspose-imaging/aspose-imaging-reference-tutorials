@@ -173,7 +173,7 @@ Készen állsz kipróbálni? Implementáld ezeket a megoldásokat, és nézd meg
 - **Licenc vásárlása**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Kezdje ingyenes értékeléssel](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Jelentkezz egyet itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Csatlakozz a beszélgetéshez](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Csatlakozz a beszélgetéshez](https://forum.aspose.com/c/imaging/14)
 
 Merülj el ezekben az anyagokban, hogy bővítsd ismereteidet és képességeidet a képkonverzióban az Aspose.Imaging .NET használatával.
 

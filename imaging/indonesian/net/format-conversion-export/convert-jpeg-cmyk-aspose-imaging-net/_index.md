@@ -136,7 +136,7 @@ Lihat dokumentasi resmi dan tautan unduhan di bagian Sumber Daya untuk panduan l
 - **Beli Lisensi**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan**: [Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan**: [Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 Kami harap panduan ini bermanfaat dalam menguasai pemrosesan gambar dengan Aspose.Imaging untuk .NET. Selamat membuat kode!
 
 {{< /blocks/products/pf/tutorial-page-section >}}

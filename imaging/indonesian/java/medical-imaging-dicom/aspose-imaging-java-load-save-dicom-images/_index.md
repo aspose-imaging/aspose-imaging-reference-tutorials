@@ -181,7 +181,7 @@ Dalam tutorial ini, Anda mempelajari cara memuat dan menyimpan gambar DICOM meng
 - **Unduh:** [Rilis Terbaru](https://releases.aspose.com/imaging/java/)
 - **Pembelian:** [Beli Lisensi Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis & Lisensi Sementara:** [Memulai](https://releases.aspose.com/imaging/java/)
-- **Forum Dukungan:** [Komunitas Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan:** [Komunitas Aspose](https://forum.aspose.com/c/imaging/14)
 
 Panduan komprehensif ini telah membekali Anda dengan keterampilan yang dibutuhkan untuk mengelola gambar DICOM secara efisien dalam aplikasi Java menggunakan Aspose.Imaging. Selamat membuat kode!
 

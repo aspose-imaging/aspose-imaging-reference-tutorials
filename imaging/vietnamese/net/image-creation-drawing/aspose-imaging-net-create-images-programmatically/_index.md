@@ -179,7 +179,7 @@ Sẵn sàng thử những kỹ thuật này chưa? Áp dụng chúng vào dự �
 - [Mua](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Ủng hộ](https://forum.aspose.com/c/imaging/10)
+- [Ủng hộ](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

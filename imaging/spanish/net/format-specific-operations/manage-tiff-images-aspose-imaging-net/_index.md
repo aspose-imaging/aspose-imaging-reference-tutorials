@@ -157,7 +157,7 @@ A: Aproveche las capacidades de procesamiento por lotes de Aspose.Imaging para a
 R: Si bien el rendimiento puede variar con archivos muy grandes, Aspose.Imaging está diseñado para manejar datos de imágenes sustanciales de manera eficiente.
 
 **P5: ¿Qué opciones de soporte están disponibles si encuentro problemas?**
-A: Acceda a documentación detallada y foros de la comunidad para obtener sugerencias para la solución de problemas en [Soporte de Aspose](https://forum.aspose.com/c/imaging/10).
+A: Acceda a documentación detallada y foros de la comunidad para obtener sugerencias para la solución de problemas en [Soporte de Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Recursos
 - **Documentación**: [Documentación de Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)

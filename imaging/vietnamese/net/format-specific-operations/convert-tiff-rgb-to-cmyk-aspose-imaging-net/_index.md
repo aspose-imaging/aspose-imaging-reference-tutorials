@@ -140,7 +140,7 @@ Bạn đã học cách chuyển đổi hình ảnh TIFF RGB sang CMYK bằng Asp
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Phiên bản dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Đơn xin cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn sẽ được trang bị đầy đủ để thành thạo việc chuyển đổi không gian màu hình ảnh bằng Aspose.Imaging cho .NET. Chúc bạn viết mã vui vẻ!
 

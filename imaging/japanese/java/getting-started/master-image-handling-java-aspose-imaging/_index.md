@@ -178,7 +178,7 @@ A5: Aspose.Imaging自体には厳格な制限はありませんが、非常に�
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料試用版](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従うことで、Aspose.Imaging を使用して Java アプリケーションに効果的な画像処理を実装できるようになります。コーディングを楽しみましょう！
 

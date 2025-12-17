@@ -137,7 +137,7 @@ Utforska mer avancerade funktioner i Aspose.Imaging, såsom batchbehandling elle
 - [Ladda ner Aspose.Imaging för .NET](https://releases.aspose.com/imaging/net/)
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provperiod och tillfällig licens](https://releases.aspose.com/imaging/net/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Utforska dessa resurser för att fördjupa din förståelse och förbättra dina implementeringar med Aspose.Imaging .NET. Lycka till med kodningen!
 

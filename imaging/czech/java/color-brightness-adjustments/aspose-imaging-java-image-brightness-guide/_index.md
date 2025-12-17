@@ -219,7 +219,7 @@ Pro další čtení a podporu:
 - [Zakoupit licence](https://purchase.aspose.com/buy)
 - [Nabídky bezplatných zkušebních verzí](https://releases.aspose.com/imaging/java/)
 - [Informace o dočasné licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Využitím Aspose.Imaging pro Javu můžete odemknout výkonné funkce pro zpracování obrazu, které zefektivní váš proces vývoje. Přejeme vám příjemné programování!
 

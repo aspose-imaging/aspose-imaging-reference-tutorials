@@ -213,7 +213,7 @@ Aspose.Imaging을 사용할 때 성능을 최적화하려면:
 - **라이센스 구매**: 상업적 사용을 위한 라이센스 구매 [여기](https://purchase.aspose.com/buy).
 - **무료 체험**: 제한 없이 기능을 테스트하려면 무료 체험판을 시작하세요.
 - **임시 면허**: 모든 기능을 탐색할 수 있는 임시 라이센스를 얻으세요.
-- **지원 포럼**: 질문이 있으시면 Aspose 지원 포럼을 방문하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/10).
+- **지원 포럼**: 질문이 있으시면 Aspose 지원 포럼을 방문하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/14).
 
 이 가이드를 따르면 Aspose.Imaging for Java를 사용하여 DJVU 이미지를 효율적으로 관리하고 변환하여 문서 처리 워크플로를 더욱 쉽게 향상시킬 수 있습니다.
 

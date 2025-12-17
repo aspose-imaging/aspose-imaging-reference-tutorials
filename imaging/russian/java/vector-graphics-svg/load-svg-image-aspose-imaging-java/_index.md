@@ -178,7 +178,7 @@ public class LoadSVG {
 - [Лицензия на покупку](https://purchase.aspose.com/buy)
 - [Бесплатная пробная загрузка](https://releases.aspose.com/imaging/java/)
 - [Запрос на временную лицензию](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Теперь, когда вы обладаете знаниями о загрузке изображений SVG с помощью Aspose.Imaging для Java, приступайте к своим проектам с уверенностью и креативностью!
 

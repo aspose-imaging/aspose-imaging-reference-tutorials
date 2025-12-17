@@ -258,7 +258,7 @@ A5：使用 try-catch 块来管理潜在的异常，例如找不到文件或内�
 - **购买**： [购买 Aspose Imaging](https://purchase.aspose.com/buy)
 - **免费试用**： [免费试用](https://releases.aspose.com/imaging/java/)
 - **临时执照**： [在此请求](https://purchase.aspose.com/temporary-license/)
-- **支持**： [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**： [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

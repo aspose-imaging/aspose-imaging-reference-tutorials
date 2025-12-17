@@ -214,7 +214,7 @@ A: 물론입니다. 고해상도 BMP 파일을 포함한 다양한 이미지 형
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging 무료 체험하기](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 이제 이러한 지식을 갖추었으니, Java 애플리케이션에서 이러한 기능을 구현해 보세요!
 

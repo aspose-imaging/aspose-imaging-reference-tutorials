@@ -190,7 +190,7 @@ image.save(outputFileNameSvg, svgOptions);
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用版](https://releases.aspose.com/imaging/java/)
 - [申请临时执照](https://purchase.aspose.com/temporary-license/)
-- [Aspose 社区论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 社区论坛](https://forum.aspose.com/c/imaging/14)
 
 遵循这份全面的指南，您可以高效地使用 Aspose.Imaging 在 Java 中将 WMF 文件转换为 SVG，并探索其丰富的功能。祝您编程愉快！
 

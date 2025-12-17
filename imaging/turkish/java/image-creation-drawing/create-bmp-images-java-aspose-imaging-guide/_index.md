@@ -239,7 +239,7 @@ Sonraki adımlar arasında Aspose.Imaging'in daha fazla özelliğini keşfetmek 
 - **Satın almak:** [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, artık Java projelerinizde BMP görüntülerini etkin bir şekilde oluşturmak ve yönetmek için Aspose.Imaging'i kullanmak için sağlam bir temele sahip olacaksınız.
 

@@ -192,7 +192,7 @@ API belgelerinde, çizgiler, dikdörtgenler ve elipsler dahil olmak üzere çeş
 - **Satın almak**: [Aspose Lisansını Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'i Ücretsiz Deneyin](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Burada Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Projelerinizde Aspose.Imaging Java'nın yeteneklerini daha derin anlamak ve genişletmek için bu kaynakları keşfedin. İyi kodlamalar!
 

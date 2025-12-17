@@ -158,7 +158,7 @@ Seguindo este guia, você aprendeu a adicionar marcas d'água a imagens usando o
 - [Comprar uma licença](https://purchase.aspose.com/buy)
 - [Download de teste gratuito](https://releases.aspose.com/imaging/net/)
 - [Aquisição de Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Aproveitando esses recursos, você pode explorar e dominar ainda mais a biblioteca Aspose.Imaging para .NET. Boa programação!
 

@@ -177,7 +177,7 @@ Bây giờ bạn có các công cụ để kiểm tra cài đặt chất lượn
 - **Mua:** [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Hãy thử Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời:** [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy tự tin bắt tay vào dự án xử lý hình ảnh tiếp theo của bạn, vì bạn biết mình có đủ công cụ và kiến thức phù hợp để đảm bảo cài đặt chất lượng JPEG tối ưu.
 

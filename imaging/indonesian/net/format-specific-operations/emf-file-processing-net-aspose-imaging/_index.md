@@ -142,7 +142,7 @@ A: Tentu saja. Gunakan `Save` metode dengan ekstensi file yang berbeda untuk men
 - **Beli Lisensi:** [Opsi Pembelian Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Dapatkan Salinan Evaluasi Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara:** [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan:** [Komunitas Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan:** [Komunitas Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Jelajahi sumber daya ini untuk memperdalam pemahaman dan menyempurnakan implementasi Anda menggunakan Aspose.Imaging for .NET. Selamat membuat kode!
 

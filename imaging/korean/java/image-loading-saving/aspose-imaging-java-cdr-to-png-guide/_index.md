@@ -189,7 +189,7 @@ A3: 조정 `CdrRasterizationOptions` 결과를 미세하게 조정하기 위한 
 A4: 상업용 애플리케이션에는 구매한 라이선스가 필요합니다. 무료 체험판을 사용하거나 임시 라이선스를 신청할 수 있습니다.
 
 **질문 5: 문제가 발생하면 어디에서 지원을 받을 수 있나요?**
-A5: 방문하세요 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10) 도움과 지역 사회 토론을 위해.
+A5: 방문하세요 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14) 도움과 지역 사회 토론을 위해.
 
 ## 자원
 
@@ -197,7 +197,7 @@ A5: 방문하세요 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10
 - **라이브러리 다운로드:** 최신 버전을 받으세요 [Aspose.Imaging 릴리스](https://releases.aspose.com/imaging/java/)
 - **라이센스 구매:** 방문하다 [Aspose 구매 사이트](https://purchase.aspose.com/buy)
 - **무료 체험판 및 임시 라이센스:** 여행을 시작하세요 [Aspose 무료 체험판](https://releases.aspose.com/imaging/java/) 그리고 [임시 면허](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼:** 도움을 받으려면 커뮤니티에 참여하세요. [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼:** 도움을 받으려면 커뮤니티에 참여하세요. [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 지금 Aspose.Imaging Java 여정을 시작하고 디지털 이미징 프로젝트를 현실로 만들어 보세요!
 

@@ -199,7 +199,7 @@ Tebrikler! Aspose.Imaging for Java kullanarak görüntüleri nasıl yükleyeceğ
    - JPEG, PNG, TIFF ve daha fazlası dahil olmak üzere 50'den fazla resim formatını destekler.
 
 5. **Sorunlarla karşılaşırsam nasıl yardım alabilirim?**
-   - Ziyaret etmek [Aspose'nin forumu](https://forum.aspose.com/c/imaging/10) destek ve topluluk tavsiyesi için.
+   - Ziyaret etmek [Aspose'nin forumu](https://forum.aspose.com/c/imaging/14) destek ve topluluk tavsiyesi için.
 
 ## Kaynaklar
 

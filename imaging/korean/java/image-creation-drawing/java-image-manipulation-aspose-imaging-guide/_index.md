@@ -243,7 +243,7 @@ A5: 다음을 사용할 수 있습니다. `setTransparentColor()` 이 방법은 
 - **라이센스 구매**: [라이센스 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료 체험판을 시작하세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [질문하기](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [질문하기](https://forum.aspose.com/c/imaging/14)
 
 이 가이드가 Aspose.Imaging을 활용한 Java 이미지 조작 여정에 도움이 되었기를 바랍니다. 궁금한 점이 있으시면 지원 포럼을 통해 문의하시거나 설명서를 확인하여 자세한 정보를 확인하세요. 즐거운 코딩 되세요!
 

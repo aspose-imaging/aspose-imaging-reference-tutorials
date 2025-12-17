@@ -202,7 +202,7 @@ Para explorar más a fondo las posibilidades de Aspose.Imaging, considere sumerg
 - **Compra:** [Comprar licencia de Aspose](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Comience su prueba gratuita](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** [Solicitar una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** [Foro de Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** [Foro de Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Esperamos que esta guía te ayude a implementar Aspose.Imaging en tus proyectos Java sin problemas. ¡Que disfrutes programando!
 

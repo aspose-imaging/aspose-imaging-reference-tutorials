@@ -197,7 +197,7 @@ A: Ya, dapat diintegrasikan ke dalam aplikasi ASP.NET dan kerangka kerja sisi se
 - **Pembelian**: [Beli Lisensi Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Kami harap panduan ini memberdayakan Anda untuk memanfaatkan Aspose.Imaging untuk kebutuhan pemrosesan gambar DjVu Anda dalam .NET. Selamat membuat kode!
 

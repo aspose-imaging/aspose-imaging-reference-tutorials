@@ -167,7 +167,7 @@ För vidare läsning och resurser:
 - **Köpa:** [Licensförvärv](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Prova innan du köper](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Begär här](https://purchase.aspose.com/temporary-license/)
-- **Supportforum:** [Fråga gemenskapen](https://forum.aspose.com/c/imaging/10)
+- **Supportforum:** [Fråga gemenskapen](https://forum.aspose.com/c/imaging/14)
 
 Nu när du är utrustad med kunskapen kan du börja implementera dessa tekniker i dina Java-projekt!
 

@@ -197,7 +197,7 @@ Bằng cách làm theo hướng dẫn này, bạn đã học được cách tậ
 - **Giấy phép mua hàng:** [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ:** [Hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** [Hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình làm chủ công cụ chuyển đổi tài liệu với Aspose.Imaging Java ngay hôm nay!
 

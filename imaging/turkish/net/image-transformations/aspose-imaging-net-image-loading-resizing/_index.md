@@ -166,7 +166,7 @@ Daha fazla bilgi için şu kaynaklara göz atın:
 - [Satın almak](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET'e dalın ve görüntü işleme yeteneklerinizi bir üst seviyeye taşıyın!
 

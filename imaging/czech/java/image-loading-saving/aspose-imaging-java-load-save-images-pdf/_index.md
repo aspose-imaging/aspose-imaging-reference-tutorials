@@ -160,7 +160,7 @@ A5: Pro nepřerušované používání v produkčním prostředí je vyžadován
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začněte svou bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fóra Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fóra Aspose](https://forum.aspose.com/c/imaging/14)
 
 Využijte sílu Aspose.Imaging v Javě a pozvedněte své schopnosti zpracování obrazu!
 

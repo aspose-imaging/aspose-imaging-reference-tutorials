@@ -112,7 +112,7 @@ Việc chuyển đổi hình ảnh WMF sang PNG rất hữu ích trong nhiều t
 ## Phần kết luận
 Bạn đã học thành công cách chuyển đổi tệp WMF sang PNG bằng Aspose.Imaging .NET. Kỹ năng này vô cùng hữu ích để quản lý tài sản kỹ thuật số trên nhiều nền tảng và ứng dụng. Tiếp theo, hãy khám phá thêm các tính năng của Aspose.Imaging hoặc tích hợp nó với các hệ thống khác để tăng cường chức năng.
 
-**Kêu gọi hành động:** Hãy thử triển khai giải pháp này trong dự án tiếp theo của bạn! Chia sẻ kết quả và câu hỏi của bạn trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10).
+**Kêu gọi hành động:** Hãy thử triển khai giải pháp này trong dự án tiếp theo của bạn! Chia sẻ kết quả và câu hỏi của bạn trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Phần Câu hỏi thường gặp
 1. **Tệp WMF là gì?**

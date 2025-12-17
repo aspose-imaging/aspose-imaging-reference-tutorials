@@ -153,7 +153,7 @@ try (TiffFrame tiffFrame = TiffFrame.fromRasterImage(image)) {
 - [購買](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/java/)
 - [臨時執照](https://purchase.aspose.com/temporary-license/)
-- [支援論壇](https://forum.aspose.com/c/imaging/10)
+- [支援論壇](https://forum.aspose.com/c/imaging/14)
 
 探索這些資源，加深您的理解，並充分利用 Aspose.Imaging for Java。祝您程式愉快！
 

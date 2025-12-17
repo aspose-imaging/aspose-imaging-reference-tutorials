@@ -177,7 +177,7 @@ Aspose.Imaging क्या प्रदान करता है, इसके
 - **खरीदना:** [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [Aspose.Imaging आज़माएँ](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस:** [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता:** [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता:** [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
 
 अपने अगले इमेज प्रोसेसिंग प्रोजेक्ट पर पूरे विश्वास के साथ काम शुरू करें, क्योंकि आपको पता है कि आपके पास इष्टतम JPEG गुणवत्ता सेटिंग सुनिश्चित करने के लिए सही उपकरण और ज्ञान है।
 

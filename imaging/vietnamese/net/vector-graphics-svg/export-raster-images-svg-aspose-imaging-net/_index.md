@@ -167,7 +167,7 @@ Sẵn sàng triển khai? Hãy bắt đầu chuyển đổi hình ảnh của b�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Yêu cầu cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Với hướng dẫn toàn diện này, bạn đã sẵn sàng để bắt đầu sử dụng Aspose.Imaging cho .NET trong các dự án của mình. Chúc bạn viết mã vui vẻ!
 

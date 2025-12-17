@@ -144,7 +144,7 @@ Ebben az oktatóanyagban megtanultad, hogyan használhatod az Aspose.Imaging for
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbáld ki az Aspose.Imaging-et](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Közösségi Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Közösségi Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezt az útmutatót követve hatékonyan implementálhatod az EXIF adatolvasást Java alkalmazásaidban az Aspose.Imaging használatával.
 

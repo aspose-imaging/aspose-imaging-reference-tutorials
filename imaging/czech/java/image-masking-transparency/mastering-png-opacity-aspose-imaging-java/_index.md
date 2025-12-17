@@ -177,7 +177,7 @@ Jste připraveni prozkoumat dále? Zkuste implementovat toto řešení a uvidít
 - **Nákup**Zvažte zakoupení pro plný přístup na [Nákupní stránka Aspose](https://purchase.aspose.com/buy).
 - **Bezplatná zkušební verze**Vyzkoušejte si funkce s bezplatnou zkušební verzí dostupnou na stejné stránce.
 - **Dočasná licence**Požádejte o dočasnou licenci pro prodloužení zkušební doby.
-- **Podpora**Zapojte se do diskusí a ptejte se na [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Podpora**Zapojte se do diskusí a ptejte se na [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 S tímto komplexním průvodcem jste nyní připraveni zvládnout průhlednost obrázků v Javě pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 

@@ -174,7 +174,7 @@ Félicitations, vous maîtrisez parfaitement la conversion d'images TIFF en fich
 - [Acheter des licences](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 Lancez-vous dans votre voyage vers la maîtrise du traitement d'images avec Aspose.Imaging Java et débloquez de nouvelles possibilités dans la gestion des images TIFF.
 

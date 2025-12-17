@@ -163,7 +163,7 @@ Các bước tiếp theo bao gồm khám phá các tính năng nâng cao hơn c�
 - [Mua](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Ủng hộ](https://forum.aspose.com/c/imaging/10)
+- [Ủng hộ](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

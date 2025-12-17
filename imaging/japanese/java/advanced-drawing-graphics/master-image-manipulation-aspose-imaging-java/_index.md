@@ -215,7 +215,7 @@ Java で画像処理を行う際のパフォーマンス最適化ポイントは
 Aspose Imaging Java のより高度な機能を探求したり、既存プロジェクトに統合したりしてみてください。さまざまな画像フォーマットや変換を試し、さらに多くのことが実現できるか検証しましょう。
 
 ### Call-to-Action
-次のプロジェクトで本記事で紹介したソリューションを実装してみてください。経験や課題は [Aspose Forum](https://forum.aspose.com/c/imaging/10) などのコミュニティで共有しましょう。
+次のプロジェクトで本記事で紹介したソリューションを実装してみてください。経験や課題は [Aspose Forum](https://forum.aspose.com/c/imaging/14) などのコミュニティで共有しましょう。
 
 ## FAQ Section
 
@@ -241,7 +241,7 @@ Aspose Imaging Java のより高度な機能を探求したり、既存プロジ
 - **Purchase:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial:** [Get Started with Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを活用して、Aspose Imaging Java の理解と活用をさらに深めてください。Happy coding!
 

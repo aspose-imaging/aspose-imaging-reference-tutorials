@@ -190,7 +190,7 @@ We encourage you to try implementing these solutions in your projects and see ho
 - **Purchase**: Consider purchasing a license if you need long-term access.
 - **Free Trial**: Start with a free trial to explore features at [Aspose Free Trial](https://releases.aspose.com/imaging/java/).
 - **Temporary License**: Obtain a temporary license for extended evaluation from [Aspose Temporary License](https://purchase.aspose.com/temporary-license/).
-- **Support**: Join discussions and get help on the [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Support**: Join discussions and get help on the [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Happy coding, and may your image processing tasks be seamless and efficient!
 

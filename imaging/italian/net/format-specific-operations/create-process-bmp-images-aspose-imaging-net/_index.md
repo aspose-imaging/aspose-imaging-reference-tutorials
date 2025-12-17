@@ -199,7 +199,7 @@ Si consiglia di utilizzare tecniche di elaborazione parallela e di garantire una
 - **Acquistare**: [Acquista i prodotti Aspose](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Ottieni una licenza di prova gratuita](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea**: [Ottieni una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: [Forum di supporto di Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: [Forum di supporto di Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

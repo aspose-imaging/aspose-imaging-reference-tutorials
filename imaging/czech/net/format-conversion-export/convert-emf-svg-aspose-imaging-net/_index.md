@@ -189,7 +189,7 @@ Jste připraveni uvést své nové dovednosti do praxe? Zkuste tato řešení im
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatný zkušební přístup](https://releases.aspose.com/imaging/net/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory komunity](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory komunity](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu budete dobře vybaveni pro zvládání složitých konverzí obrázků pomocí Aspose.Imaging .NET. Přeji vám příjemné programování!
 

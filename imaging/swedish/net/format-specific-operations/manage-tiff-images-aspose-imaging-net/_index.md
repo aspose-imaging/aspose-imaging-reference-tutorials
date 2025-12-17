@@ -157,7 +157,7 @@ A: Utnyttja Aspose.Imagings batchbehandlingsfunktioner för att hantera flera bi
 A: Även om prestandan kan variera med mycket stora filer, är Aspose.Imaging utformad för att hantera betydande bilddata effektivt.
 
 **F5: Vilka supportalternativ finns tillgängliga om jag stöter på problem?**
-A: Få tillgång till detaljerad dokumentation och communityforum för felsökningstips på [Aspose-stöd](https://forum.aspose.com/c/imaging/10).
+A: Få tillgång till detaljerad dokumentation och communityforum för felsökningstips på [Aspose-stöd](https://forum.aspose.com/c/imaging/14).
 
 ## Resurser
 - **Dokumentation**: [Aspose.Imaging .NET-dokumentation](https://reference.aspose.com/imaging/net/)

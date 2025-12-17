@@ -217,7 +217,7 @@ Další kroky? Zkuste implementovat tyto techniky ve svých projektech a prozkou
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Nyní, když máte k dispozici všechny nástroje a znalosti, je čas začít implementovat tyto výkonné funkce do vašich Java aplikací!
 

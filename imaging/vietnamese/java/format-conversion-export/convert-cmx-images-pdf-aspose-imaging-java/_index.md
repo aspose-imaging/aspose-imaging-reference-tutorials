@@ -242,7 +242,7 @@ Khám phá thêm các tính năng của Aspose.Imaging để nâng cao dự án 
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn sẽ được trang bị để tự tin xử lý chuyển đổi CMX sang PDF bằng Aspose.Imaging cho Java. Chúc bạn viết mã vui vẻ!
 

@@ -217,7 +217,7 @@ Következő lépések? Próbálja meg alkalmazni ezeket a technikákat a projekt
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Most, hogy minden eszköz és tudás a rendelkezésedre áll, itt az ideje, hogy elkezdd implementálni ezeket a hatékony funkciókat a Java alkalmazásaidban!
 

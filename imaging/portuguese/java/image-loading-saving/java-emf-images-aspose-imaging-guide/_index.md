@@ -179,7 +179,7 @@ R5: Siga as etapas descritas na aquisição de licença para obter e ativar sua 
 - **Comprar**: [Comprar licença](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Comece aqui](https://releases.aspose.com/imaging/java/)
 - **Licença Temporária**: [Solicite agora](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum da Comunidade](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum da Comunidade](https://forum.aspose.com/c/imaging/14)
 
 Aproveitando esses recursos, você pode explorar ainda mais os recursos do Aspose.Imaging e superar quaisquer desafios que encontrar durante a implementação. Boa programação!
 

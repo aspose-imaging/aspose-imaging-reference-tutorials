@@ -239,7 +239,7 @@ Aspose.Imaging 可以集成到各种系统中，例如：
 - **购买：** [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用：** [开始免费试用](https://releases.aspose.com/imaging/java/)
 - **临时执照：** [申请临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 通过遵循本指南，您现在应该拥有在 Java 项目中使用 Aspose.Imaging 高效创建和管理 BMP 图像的坚实基础。
 

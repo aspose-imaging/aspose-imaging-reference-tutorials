@@ -199,7 +199,7 @@ Hãy thử triển khai giải pháp này vào một dự án ngay hôm nay và 
    - Thư viện có sẵn theo giấy phép dùng thử; tính năng đầy đủ cần phải mua.
 
 5. **Tôi có thể nhận hỗ trợ ở đâu nếu cần?**
-   - Thăm nom [Diễn đàn hỗ trợ của Aspose](https://forum.aspose.com/c/imaging/10) để được hỗ trợ.
+   - Thăm nom [Diễn đàn hỗ trợ của Aspose](https://forum.aspose.com/c/imaging/14) để được hỗ trợ.
 
 ## Tài nguyên
 

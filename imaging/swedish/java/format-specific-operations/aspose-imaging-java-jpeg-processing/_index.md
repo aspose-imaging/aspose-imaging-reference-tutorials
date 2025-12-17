@@ -191,7 +191,7 @@ Använd `dispose()` metod på bildobjekt för att frigöra minne efter att bearb
 - **Köpa:** [Köp Aspose-licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Aspose Imaging Gratis Testperioder](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Begär tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här handledningen har du försett dig med kunskapen för att effektivt ladda och spara JPEG-filer med Aspose.Imaging för Java. Lycka till med kodningen!
 

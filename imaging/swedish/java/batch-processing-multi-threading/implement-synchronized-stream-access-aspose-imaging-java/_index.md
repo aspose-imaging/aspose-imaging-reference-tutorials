@@ -165,7 +165,7 @@ Ta nästa steg genom att experimentera med olika konfigurationer och användning
 - **Köpa:** Köp en licens på [Aspose-licenssidan](https://purchase.aspose.com/buy).
 - **Gratis provperiod:** Testa Aspose.Imaging med en gratis provperiod som finns tillgänglig på deras releasesida.
 - **Tillfällig licens:** Få utökad åtkomst via alternativet för tillfällig licens.
-- **Stöd:** Delta i diskussioner eller sök hjälp med [Aspose-forumet](https://forum.aspose.com/c/imaging/10).
+- **Stöd:** Delta i diskussioner eller sök hjälp med [Aspose-forumet](https://forum.aspose.com/c/imaging/14).
 
 Känn dig uppmuntrad att experimentera och integrera synkroniserad strömåtkomst i dina Java-projekt för förbättrad stabilitet och prestanda!
 

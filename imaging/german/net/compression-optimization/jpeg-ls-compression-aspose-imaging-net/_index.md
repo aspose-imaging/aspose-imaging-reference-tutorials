@@ -194,7 +194,7 @@ Sie haben nun gelernt, wie Sie Bilder mit JPEG-LS komprimieren und mit Aspose.Im
 - **Kaufen**: [Aspose-Produkte kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Starten Sie Ihre kostenlose Testversion](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Beantragen Sie eine vorübergehende Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -184,7 +184,7 @@ Zacznij działać już dziś, wypróbowując te techniki we własnych projektach
 - **Zakup**: [Kup licencję](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Funkcje testowe](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**: [Zapytaj tutaj](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Dołącz do forum](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Dołącz do forum](https://forum.aspose.com/c/imaging/14)
 
 Postępując zgodnie z tymi wskazówkami, będziesz dobrze wyposażony do ulepszania swoich obrazów za pomocą funkcji normalizacji histogramu Aspose.Imaging Java. Miłego kodowania!
 

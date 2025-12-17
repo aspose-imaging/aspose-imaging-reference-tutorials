@@ -178,7 +178,7 @@ Jste připraveni implementovat tato řešení? Vyzkoušejte je ve svém dalším
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Implementujte tyto techniky ve svých projektech v Javě, abyste plně využili potenciál Aspose.Imaging pro bezproblémové zpracování a manipulaci s obrázky.
 

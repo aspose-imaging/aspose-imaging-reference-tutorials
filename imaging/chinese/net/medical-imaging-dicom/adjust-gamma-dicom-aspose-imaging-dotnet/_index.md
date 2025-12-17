@@ -138,7 +138,7 @@ image.Save(Path.Combine(dataDir, "output_image.bmp"), new BmpOptions());
 - **购买**： [购买许可证](https://purchase.aspose.com/buy)
 - **免费试用**： [开始免费试用](https://releases.aspose.com/imaging/net/)
 - **临时执照**： [申请临时执照](https://purchase.aspose.com/temporary-license/)
-- **支持**： [Aspose.Imaging 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**： [Aspose.Imaging 论坛](https://forum.aspose.com/c/imaging/14)
 
 快乐编码，并享受使用 Aspose.Imaging 增强您的 DICOM 图像！
 

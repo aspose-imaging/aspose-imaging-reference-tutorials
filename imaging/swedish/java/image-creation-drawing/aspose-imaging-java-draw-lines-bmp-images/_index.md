@@ -211,7 +211,7 @@ Nästa steg inkluderar att utforska mer avancerade funktioner som att hantera ol
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden är du väl rustad för att integrera Aspose.Imaging i dina Java-projekt för robusta bildmanipuleringsfunktioner. Lycka till med kodningen!
 

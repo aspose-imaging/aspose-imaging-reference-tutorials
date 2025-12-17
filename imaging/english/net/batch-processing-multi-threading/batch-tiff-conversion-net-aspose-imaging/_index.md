@@ -154,7 +154,7 @@ Ready to put your new skills to the test? Implement this solution in your next p
 - Purchase: [Buy a License](https://purchase.aspose.com/buy)
 - Free trial: [Try Aspose.Imaging for .NET](https://releases.aspose.com/imaging/net/)
 - Temporary license: [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
-- Support: [Aspose Forums](https://forum.aspose.com/c/imaging/10)
+- Support: [Aspose Forums](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

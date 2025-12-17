@@ -184,7 +184,7 @@ RLE4 圧縮が有利になる実際のシナリオをいくつか示します。
 - **ライセンスを購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルを始める](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらの手順を実装し、提供されているリソースを活用することで、Aspose.Imaging for Java で BMP 画像圧縮を処理できるようになります。コーディングを楽しみましょう！
 

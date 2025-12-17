@@ -148,7 +148,7 @@ Nutzen Sie gepufferte Streams und stellen Sie eine ordnungsgemäße Verteilung d
 - **Kaufen:** [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Beginnen Sie mit einer kostenlosen Testversion](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz:** [Holen Sie sich eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Aspose Forum-Support](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** [Aspose Forum-Support](https://forum.aspose.com/c/imaging/14)
 
 Dieser Leitfaden soll Ihnen helfen, das volle Potenzial von Aspose.Imaging für Ihre .NET-Projekte auszuschöpfen. Viel Spaß beim Programmieren!
 

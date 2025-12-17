@@ -174,7 +174,7 @@ Teraz wiesz, jak ładować obrazy i pobierać daty ostatniej modyfikacji za pomo
 - [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Zapraszamy do zapoznania się z tymi zasobami, aby uzyskać bardziej szczegółowe informacje i wsparcie. Miłego kodowania!
 

@@ -203,7 +203,7 @@ try (Image multipageImage = Image.create(images.toArray(new Image[0]), true)) {
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/java/)
 - [获得临时许可证](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 按照本指南操作，您将能够使用 Aspose.Imaging for Java 创建和操作多页 TIFF 文件。祝您编码愉快！
 

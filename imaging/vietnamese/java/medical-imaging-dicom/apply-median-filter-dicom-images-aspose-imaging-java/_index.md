@@ -185,7 +185,7 @@ A: Sử dụng khác nhau `ImageOptions` các lớp do Aspose.Imaging cung cấp
 - **Mua giấy phép**: [Mua ngay](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Nộp đơn tại đây](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu khám phá khả năng xử lý hình ảnh mạnh mẽ của Aspose.Imaging cho Java ngay hôm nay!
 

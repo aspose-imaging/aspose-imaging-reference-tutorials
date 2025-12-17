@@ -209,7 +209,7 @@ Problemi comuni includono configurazioni di percorso errate e formati di file no
 
 **5. Come posso ottenere supporto se riscontro problemi?**
 
-Visita [Supporto Aspose](https://forum.aspose.com/c/imaging/10) per cercare aiuto nella comunità o contattarla direttamente per ricevere ulteriore assistenza.
+Visita [Supporto Aspose](https://forum.aspose.com/c/imaging/14) per cercare aiuto nella comunità o contattarla direttamente per ricevere ulteriore assistenza.
 
 ## Risorse
 

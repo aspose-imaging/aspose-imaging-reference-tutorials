@@ -157,7 +157,7 @@ Próbáld ki ezt a megoldást a projektjeidben még ma, és nézd meg, hogyan eg
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió letöltése](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Böngészd át ezeket az erőforrásokat, hogy elmélyítsd a tudásodat és hasznosítsd az Aspose.Imaging for .NET-et fejlesztési projektjeidben. Jó kódolást!
 

@@ -160,7 +160,7 @@ try (DicomImage image = (DicomImage) Image.load(inputFile)) {
 يركز Aspose.Imaging بشكل أساسي على DICOM، ولكنه يدعم أيضًا مجموعة واسعة من تنسيقات الصور الأخرى.
 
 **5. أين يمكنني الحصول على المساعدة إذا واجهت مشاكل مع Aspose.Imaging؟**
-قم بزيارة [منتديات Aspose](https://forum.aspose.com/c/imaging/10) للحصول على الدعم والتواصل مع المستخدمين والخبراء الآخرين.
+قم بزيارة [منتديات Aspose](https://forum.aspose.com/c/imaging/14) للحصول على الدعم والتواصل مع المستخدمين والخبراء الآخرين.
 
 ## موارد
 

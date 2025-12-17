@@ -142,7 +142,7 @@ A: Hoàn toàn đúng. Sử dụng `Save` phương pháp với các phần mở 
 - **Giấy phép mua hàng:** [Tùy chọn mua Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Nhận bản sao đánh giá miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời:** [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ:** [Cộng đồng hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** [Cộng đồng hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Khám phá các tài nguyên này để hiểu sâu hơn và nâng cao việc triển khai của bạn bằng cách sử dụng Aspose.Imaging cho .NET. Chúc bạn viết mã vui vẻ!
 

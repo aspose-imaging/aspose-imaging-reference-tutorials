@@ -156,7 +156,7 @@ Genom att ange BMP-alternativ kan utvecklare anpassa bildegenskaper, såsom fär
 
 **F2: Hur felsöker jag licensproblem med Aspose.Imaging?**
 
-Se till att sökvägen till din licensfil är korrekt och att du använder en giltig version av biblioteket. Om problemen kvarstår, kontakta [Asposes supportforum](https://forum.aspose.com/c/imaging/10).
+Se till att sökvägen till din licensfil är korrekt och att du använder en giltig version av biblioteket. Om problemen kvarstår, kontakta [Asposes supportforum](https://forum.aspose.com/c/imaging/14).
 
 **F3: Kan jag använda Aspose.Imaging för batchbearbetning av bilder?**
 
@@ -177,7 +177,7 @@ Medan andra bibliotek finns, erbjuder Aspose.Imaging omfattande stöd och använ
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Aspose.Imaging Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Ansök om en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Den här handledningen ger dig grunden du behöver för att effektivt implementera BMP-alternativ i dina Java-projekt med Aspose.Imaging. Lycka till med kodningen!
 

@@ -181,7 +181,7 @@ Sẵn sàng thực hiện bước tiếp theo? Hãy thử áp dụng các kỹ t
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Dùng thử Aspose.Imaging miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn hình ảnh Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn hình ảnh Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy tự tin bắt đầu hành trình xử lý hình ảnh của bạn, biết rằng bạn có đủ công cụ và kiến thức để thành công. Chúc bạn lập trình vui vẻ!
 

@@ -175,7 +175,7 @@ Próbálja ki ezt a megoldást még ma, és nézze meg, hogyan javítja képfeld
 - **Dokumentáció**: [Aspose.Imaging Java referencia](https://reference.aspose.com/imaging/java/)
 - **Letöltés**: [Aspose.Imaging kiadások](https://releases.aspose.com/imaging/java/)
 - **Vásárlás és licencelés**: [Aspose licenc vásárlása](https://purchase.aspose.com/buy), [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/), [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: Lépjen kapcsolatba a közösséggel a következő oldalon: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: Lépjen kapcsolatba a közösséggel a következő oldalon: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az Aspose.Imaging Java projektjeibe integrálásával hatékony képfeldolgozási képességeket oldhat fel, amelyek egyszerűsítik és javítják a munkafolyamatait. Jó kódolást!
 

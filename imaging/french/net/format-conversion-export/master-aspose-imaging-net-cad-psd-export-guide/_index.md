@@ -168,14 +168,14 @@ Grâce à ce guide, vous maîtriserez le chargement et l'exportation de fichiers
 4. **Existe-t-il une limite à la taille des fichiers CAO que je peux traiter ?**
    - Le traitement de fichiers volumineux peut nécessiter plus de mémoire ; optimisez-la selon les besoins en fonction des capacités de votre système.
 5. **Où puis-je trouver de l’aide si je rencontre des problèmes ?**
-   - Visite [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10) pour obtenir de l'aide et des conseils communautaires.
+   - Visite [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14) pour obtenir de l'aide et des conseils communautaires.
 
 ## Ressources
 - **Documentation**: Explorez l'intégralité [Documentation d'Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
 - **Télécharger**: Obtenez la dernière version à partir de [Communiqués](https://releases.aspose.com/imaging/net/)
 - **Achat et essai gratuit**Accédez aux versions d'essai ou achetez une licence via [Achat Aspose](https://purchase.aspose.com/buy) et [Essais gratuits](https://releases.aspose.com/imaging/net/).
 - **Permis temporaire**:Demander une licence temporaire à [Licences temporaires Aspose](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: Obtenez de l'aide sur le [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: Obtenez de l'aide sur le [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

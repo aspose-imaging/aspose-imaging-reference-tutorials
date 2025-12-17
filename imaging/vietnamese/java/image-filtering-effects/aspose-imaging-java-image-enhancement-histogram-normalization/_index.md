@@ -184,7 +184,7 @@ Hãy hành động ngay hôm nay bằng cách thử nghiệm những kỹ thuậ
 - **Mua**: [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Tính năng kiểm tra](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Yêu cầu ở đây](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Tham gia Diễn đàn](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Tham gia Diễn đàn](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo các hướng dẫn này, bạn sẽ được trang bị tốt để cải thiện hình ảnh của mình bằng các tính năng chuẩn hóa biểu đồ của Aspose.Imaging Java. Chúc bạn viết mã vui vẻ!
 

@@ -204,7 +204,7 @@ A4：它支持多种格式，包括 TIFF、JPEG、PNG 等。详情请参阅文�
 
 **Q5：遇到问题如何获得帮助？**
 
-A5：访问 [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10) 寻求社区专家的帮助。
+A5：访问 [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14) 寻求社区专家的帮助。
 
 ## 资源
 
@@ -213,7 +213,7 @@ A5：访问 [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10) 寻求�
 - **购买**：https://purchase.aspose.com/buy
 - **免费试用**：https://releases.aspose.com/imaging/java/
 - **临时执照**：https://purchase.aspose.com/temporary-license/
-- **支持**：https://forum.aspose.com/c/imaging/10
+- **支持**：https://forum.aspose.com/c/imaging/14
 
 通过利用这些资源，您可以加深对 Java 中 Aspose.Imaging 的理解，并提升其使用能力。祝您编程愉快！
 

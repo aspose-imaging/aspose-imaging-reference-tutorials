@@ -195,7 +195,7 @@ Die nächsten Schritte könnten das Erkunden erweiterter Funktionen von Aspose.I
 - [Aspose-Lizenz erwerben](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion und temporäre Lizenz](https://releases.aspose.com/imaging/java/)
 
-Wir hoffen, dieser Leitfaden war informativ und hilfreich. Bei weiteren Fragen wenden Sie sich bitte an die [Aspose Support Forum](https://forum.aspose.com/c/imaging/10). Viel Spaß beim Programmieren!
+Wir hoffen, dieser Leitfaden war informativ und hilfreich. Bei weiteren Fragen wenden Sie sich bitte an die [Aspose Support Forum](https://forum.aspose.com/c/imaging/14). Viel Spaß beim Programmieren!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

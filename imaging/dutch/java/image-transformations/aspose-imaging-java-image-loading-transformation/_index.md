@@ -183,7 +183,7 @@ A5: Ja, het is ontworpen om naadloos te integreren in verschillende Java-omgevin
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Ontdek deze bronnen om uw begrip en toepassing van Aspose.Imaging in Java te vergroten.
 

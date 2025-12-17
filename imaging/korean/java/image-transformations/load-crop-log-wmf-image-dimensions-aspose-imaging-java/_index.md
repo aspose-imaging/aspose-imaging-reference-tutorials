@@ -168,7 +168,7 @@ WMF 이미지의 크기를 로드, 자르기, 기록하는 기능은 여러 가�
 - 라이센스 구매: [Aspose 라이선스 옵션 구매](https://purchase.aspose.com/buy)
 - 무료 체험: [무료 체험판을 받아보세요](https://releases.aspose.com/imaging/java/)
 - 임시 면허: [임시 면허 취득](https://purchase.aspose.com/temporary-license/)
-- 지원 포럼: [Aspose.Imaging 커뮤니티 지원](https://forum.aspose.com/c/imaging/10)
+- 지원 포럼: [Aspose.Imaging 커뮤니티 지원](https://forum.aspose.com/c/imaging/14)
 
 이제 도구와 지식이 갖춰졌으니, 다음 프로젝트에서 이 솔루션을 구현해 보세요!
 

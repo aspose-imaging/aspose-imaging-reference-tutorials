@@ -245,7 +245,7 @@ license.setLicense("path_to_your_license.lic");
 - **Αγορά**: https://purchase.aspose.com/buy
 - **Δωρεάν δοκιμή**: https://releases.aspose.com/imaging/java/
 - **Προσωρινή Άδεια**: https://purchase.aspose.com/temporary-license/
-- **Υποστήριξη**: https://forum.aspose.com/c/imaging/10
+- **Υποστήριξη**: https://forum.aspose.com/c/imaging/14
 
 Τώρα που είστε εξοπλισμένοι με τις γνώσεις, ξεκινήστε να εφαρμόζετε και να εξερευνάτε αυτές τις τεχνικές στα έργα Java σας!
 

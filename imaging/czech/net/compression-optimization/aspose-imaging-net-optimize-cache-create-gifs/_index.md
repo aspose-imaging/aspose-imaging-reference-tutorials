@@ -182,7 +182,7 @@ Prozkoumejte další funkce, které nabízí Aspose.Imaging. [oficiální dokume
    - Pro efektivní správu alokace zdrojů používejte nastavení mezipaměti a zvažte techniky dávkového zpracování.
 
 4. **Je k dispozici nějaká podpora, pokud narazím na problémy s Aspose.Imaging?**
-   - Ano, pomoc můžete najít na [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10).
+   - Ano, pomoc můžete najít na [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14).
 
 5. **Jaké jsou některé osvědčené postupy pro používání vlastních palet v GIFech?**
    - Vyberte barvy, které se co nejvíce shodují s vašimi designovými cíli, a vyzkoušejte různé kombinace, abyste dosáhli optimálních výsledků.

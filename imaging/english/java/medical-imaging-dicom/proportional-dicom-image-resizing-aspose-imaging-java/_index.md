@@ -211,7 +211,7 @@ In this guide, we’ve explored how to load and resize DICOM images proportional
 - **Purchase**: https://purchase.aspose.com/buy
 - **Free Trial**: https://releases.aspose.com/imaging/java/
 - **Temporary License**: https://purchase.aspose.com/temporary-license/
-- **Support**: https://forum.aspose.com/c/imaging/10
+- **Support**: https://forum.aspose.com/c/imaging/14
 
 By leveraging these resources, you can deepen your understanding and effectively implement Aspose.Imaging in your Java applications. Happy coding!
 

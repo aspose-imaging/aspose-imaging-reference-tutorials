@@ -159,7 +159,7 @@ Bạn đã học thành công cách áp dụng hình mờ văn bản xoay vào h
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Hãy thử thực hiện các bước này và xem Aspose.Imaging có thể hợp lý hóa các tác vụ xử lý hình ảnh của bạn như thế nào!
 

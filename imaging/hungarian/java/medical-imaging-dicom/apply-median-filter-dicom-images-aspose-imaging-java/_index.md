@@ -185,7 +185,7 @@ V: Használjon különböző `ImageOptions` Az Aspose.Imaging által biztosítot
 - **Licenc vásárlása**: [Vásároljon most](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Kezdés](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Jelentkezzen itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Aspose.Imaging támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Aspose.Imaging támogatás](https://forum.aspose.com/c/imaging/14)
 
 Kezdje el felfedezni az Aspose.Imaging for Java hatékony képfeldolgozási képességeit még ma!
 

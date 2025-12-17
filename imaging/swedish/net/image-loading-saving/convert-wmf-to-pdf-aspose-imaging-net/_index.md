@@ -172,7 +172,7 @@ Redo att dyka djupare? Utforska resurserna nedan eller börja konvertera WMF-fil
 - [Köp licenser](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden är du nu utrustad för att effektivt konvertera WMF-filer till PDF med Aspose.Imaging för .NET. Lycka till med kodningen!
 

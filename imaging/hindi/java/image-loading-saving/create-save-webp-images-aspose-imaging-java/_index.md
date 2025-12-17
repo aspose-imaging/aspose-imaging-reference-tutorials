@@ -186,7 +186,7 @@ A5: अत्यधिक सक्षम होने के बावजूद
 - **खरीदना**: [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [Aspose.Imaging निःशुल्क आज़माएँ](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [एस्पोज इमेजिंग फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [एस्पोज इमेजिंग फोरम](https://forum.aspose.com/c/imaging/14)
 
 इन संसाधनों और इस गाइड के साथ, आप Aspose.Imaging का उपयोग करके अपने Java प्रोजेक्ट में WebP छवियों को एकीकृत करने के लिए अच्छी तरह से सुसज्जित हैं। हैप्पी कोडिंग!
 

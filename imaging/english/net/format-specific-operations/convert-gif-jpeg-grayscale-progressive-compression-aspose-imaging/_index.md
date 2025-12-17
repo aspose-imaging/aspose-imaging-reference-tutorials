@@ -158,7 +158,7 @@ A: Yes, it's designed to work across different .NET Frameworks and Core versions
 - **Purchase License**: [Aspose Purchase Page](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Aspose.Imaging for Free](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Obtain a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum**: [Aspose Support Community](https://forum.aspose.com/c/imaging/10)
+- **Support Forum**: [Aspose Support Community](https://forum.aspose.com/c/imaging/14)
 
 By mastering the conversion process with Aspose.Imaging, you’re equipped to handle complex image processing tasks efficiently in your .NET applications. Happy coding!
 

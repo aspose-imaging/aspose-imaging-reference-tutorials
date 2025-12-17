@@ -196,7 +196,7 @@ try-with-resources 語句確保資源在使用後自動釋放。此步驟初始�
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/java/)
 - [臨時執照](https://purchase.aspose.com/temporary-license/)
-- [支援論壇](https://forum.aspose.com/c/imaging/10)
+- [支援論壇](https://forum.aspose.com/c/imaging/14)
 
 探索這些資源，加深您的理解，並進一步提升應用程式的圖像處理能力。祝您編碼愉快！
 

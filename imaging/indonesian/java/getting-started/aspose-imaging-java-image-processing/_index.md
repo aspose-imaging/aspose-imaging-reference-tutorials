@@ -194,7 +194,7 @@ Siap untuk meningkatkan keterampilan pemrosesan gambar Anda ke tingkat berikutny
 - **Pembelian**: Dapatkan lisensi penuh melalui [Halaman pembelian Aspose](https://purchase.aspose.com/buy).
 - **Uji Coba Gratis**: Mulailah dengan uji coba gratis untuk menjelajahi fitur-fitur di [Unduhan Aspose](https://releases.aspose.com/imaging/java/).
 - **Lisensi Sementara**: Minta lisensi sementara untuk pengujian yang diperpanjang di [Aspose Lisensi Sementara](https://purchase.aspose.com/temporary-license/).
-- **Mendukung**: Bergabunglah dengan komunitas dan cari bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Mendukung**: Bergabunglah dengan komunitas dan cari bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

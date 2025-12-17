@@ -148,7 +148,7 @@ Sebagai langkah selanjutnya, pertimbangkan untuk menjelajahi fitur-fitur Aspose.
 - **Pembelian**: https://purchase.aspose.com/beli
 - **Uji Coba Gratis**: https://releases.aspose.com/imaging/net/
 - **Lisensi Sementara**: https://purchase.aspose.com/lisensi-sementara/
-- **Mendukung**: https://forum.aspose.com/c/imaging/10
+- **Mendukung**: https://forum.aspose.com/c/imaging/14
 
 Mulailah perjalanan Anda untuk menguasai pemrosesan gambar dengan Aspose.Imaging hari ini!
 

@@ -197,7 +197,7 @@ Siap mencoba menerapkan solusi ini? Pelajari Aspose.Imaging untuk Java dan tingk
 - **Pembelian:** Mengunjungi [Halaman Pembelian Aspose](https://purchase.aspose.com/buy) untuk pilihan lisensi
 - **Uji Coba Gratis:** Mulailah dengan uji coba di [Tautan Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** Dapatkan akses sementara melalui [Halaman Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** Berinteraksi dengan komunitas di [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** Berinteraksi dengan komunitas di [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

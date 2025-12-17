@@ -245,7 +245,7 @@ Du har lärt dig hur du utnyttjar kraften i Aspose.Imaging för Java för att be
 - **Köpa:** [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Få en gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Begär en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose-forum](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose-forum](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden är du nu utrustad för att integrera TIFF-bildbehandling i dina Java-applikationer sömlöst. Lycka till med kodningen!
 

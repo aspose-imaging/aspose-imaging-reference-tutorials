@@ -227,7 +227,7 @@ Nyní jste zvládli základní techniky používání Aspose.Imaging pro Javu, o
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Tato příručka poskytuje komplexní základ pro využití Aspose.Imaging v Javě. Pochopením těchto technik můžete vylepšit své aplikace o výkonné funkce pro zpracování obrazu. Přejeme vám příjemné programování!
 

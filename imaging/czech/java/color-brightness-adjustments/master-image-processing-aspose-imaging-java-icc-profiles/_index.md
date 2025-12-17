@@ -201,7 +201,7 @@ Jste připraveni ponořit se hlouběji? Zkuste implementovat tato řešení ve s
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Prozkoumejte tyto zdroje, abyste si prohloubili znalosti a vylepšili své schopnosti zpracování obrazu pomocí Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

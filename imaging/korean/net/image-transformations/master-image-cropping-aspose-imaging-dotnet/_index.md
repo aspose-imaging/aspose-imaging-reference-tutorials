@@ -150,7 +150,7 @@ A5: 작업에는 크기 조정, 형식 변환, 필터 및 효과와 같은 고�
 - **구입:** 라이선스 옵션을 살펴보세요 [Aspose 구매](https://purchase.aspose.com/buy).
 - **무료 체험:** 체험판을 통해 시작하세요 [여기](https://releases.aspose.com/imaging/net/).
 - **임시 면허:** 확장 테스트를 위해 하나를 요청하세요. [이 링크](https://purchase.aspose.com/temporary-license/).
-- **지원하다:** 커뮤니티 포럼에 참여하세요 [Aspose 지원](https://forum.aspose.com/c/imaging/10).
+- **지원하다:** 커뮤니티 포럼에 참여하세요 [Aspose 지원](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

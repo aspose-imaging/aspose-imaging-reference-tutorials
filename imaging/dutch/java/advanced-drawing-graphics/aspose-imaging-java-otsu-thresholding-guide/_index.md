@@ -187,7 +187,7 @@ Met dit fragment wordt de gebinariseerde afbeelding in JPEG-formaat opgeslagen. 
 
 Je beheerst nu de basisprincipes van het gebruik van Aspose.Imaging voor Java voor het laden, verwerken en opslaan van afbeeldingen met binarisatietechnieken. Experimenteer verder door andere functies van de bibliotheek te verkennen, zoals geavanceerde filtering of formaatconversie.
 
-De volgende stappen omvatten het integreren van deze functionaliteit in uw projecten en het experimenteren met verschillende afbeeldingstypen en verwerkingsscenario's. Aarzel niet om contact met ons op te nemen via [Aspose-ondersteuningsforum](https://forum.aspose.com/c/imaging/10) voor alle vragen die u heeft!
+De volgende stappen omvatten het integreren van deze functionaliteit in uw projecten en het experimenteren met verschillende afbeeldingstypen en verwerkingsscenario's. Aarzel niet om contact met ons op te nemen via [Aspose-ondersteuningsforum](https://forum.aspose.com/c/imaging/14) voor alle vragen die u heeft!
 
 ## FAQ-sectie
 

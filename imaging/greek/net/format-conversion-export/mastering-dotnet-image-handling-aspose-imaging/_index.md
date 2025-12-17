@@ -170,7 +170,7 @@ string inputImagePath = Path.Combine(dataDir, "aspose-logo.jpg");
 - **Αγορά:** [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Ξεκινήστε τη δωρεάν δοκιμή σας](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια:** [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, είστε πλέον εξοπλισμένοι για να χειρίζεστε την επεξεργασία εικόνων .NET με σιγουριά χρησιμοποιώντας το Aspose.Imaging για .NET. Καλή κωδικοποίηση!
 

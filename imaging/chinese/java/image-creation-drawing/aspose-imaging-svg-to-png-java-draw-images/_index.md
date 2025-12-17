@@ -236,7 +236,7 @@ try (SvgImage resultImage = graphics.endRecording()) {
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用信息](https://releases.aspose.com/imaging/java/)
 - [临时许可证详情](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 本指南全面易懂，助您无缝集成 Aspose.Imaging for Java 到您的项目中，实现高效、灵活的图像处理功能。祝您编码愉快！
 

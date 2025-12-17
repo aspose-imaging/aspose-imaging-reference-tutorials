@@ -155,7 +155,7 @@ Jste připraveni ponořit se hlouběji? Zkuste tyto techniky implementovat ješt
    Ano, po zakoupení licence jej lze použít v jakémkoli produkčním prostředí.
 
 5. **Je k dispozici podpora pro řešení problémů s Aspose.Imaging?**
-   Ano, můžete požádat o pomoc od [Fóra Aspose](https://forum.aspose.com/c/imaging/10).
+   Ano, můžete požádat o pomoc od [Fóra Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Zdroje
 - **Dokumentace:** https://reference.aspose.com/imaging/net/
@@ -163,7 +163,7 @@ Jste připraveni ponořit se hlouběji? Zkuste tyto techniky implementovat ješt
 - **Nákup:** https://purchase.aspose.com/buy
 - **Bezplatná zkušební verze:** https://releases.aspose.com/imaging/net/
 - **Dočasná licence:** https://purchase.aspose.com/temporary-license/
-- **Podpora:** https://forum.aspose.com/c/imaging/10
+- **Podpora:** https://forum.aspose.com/c/imaging/14
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

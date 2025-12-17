@@ -245,7 +245,7 @@ license.setLicense("path_to_your_license.lic");
 - **شراء**: https://purchase.aspose.com/buy
 - **نسخة تجريبية مجانية**: https://releases.aspose.com/imaging/java/
 - **رخصة مؤقتة**: https://purchase.aspose.com/temporary-license/
-- **يدعم**: https://forum.aspose.com/c/imaging/10
+- **يدعم**: https://forum.aspose.com/c/imaging/14
 
 الآن بعد أن أصبحت مجهزًا بالمعرفة، ابدأ في تنفيذ واستكشاف هذه التقنيات في مشاريع Java الخاصة بك!
 

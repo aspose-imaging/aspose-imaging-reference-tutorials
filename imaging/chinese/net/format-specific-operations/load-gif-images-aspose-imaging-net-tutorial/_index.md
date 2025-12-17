@@ -153,7 +153,7 @@ A5：是的，它提供了各种优化技术来有效地管理内存使用。
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/net/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10)
+- [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 通过掌握 Aspose.Imaging 的图像处理，将您的 .NET 应用程序提升到新的水平！
 

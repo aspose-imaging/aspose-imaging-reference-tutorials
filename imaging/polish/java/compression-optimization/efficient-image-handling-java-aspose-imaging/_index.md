@@ -223,7 +223,7 @@ A5: Upewnij się, że obrazy są buforowane po załadowaniu, zmieniaj ich rozmia
 - **Zakup**: [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Aspose.Imaging Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**: [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) 
+- **Wsparcie**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) 
 
 Dzięki temu kompleksowemu przewodnikowi jesteś dobrze wyposażony, aby rozpocząć integrację Aspose.Imaging z projektami Java w celu wydajnego zarządzania obrazami. Miłego kodowania!
 

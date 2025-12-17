@@ -184,7 +184,7 @@ A: त्रिज्या और चिकने मान को संशो
 - **डाउनलोड लाइब्रेरी:** नवीनतम संस्करण प्राप्त करें [Aspose.Imaging रिलीज़](https://releases.aspose.com/imaging/java/).
 - **क्रय लाइसेंस:** मिलने जाना [Aspose खरीद](https://purchase.aspose.com/buy) लाइसेंसिंग विकल्पों के लिए.
 - **निःशुल्क परीक्षण एवं अस्थायी लाइसेंस:** निःशुल्क परीक्षण के साथ आरंभ करें या अस्थायी लाइसेंस प्राप्त करें [Aspose निःशुल्क परीक्षण और लाइसेंसिंग](https://releases.aspose.com/imaging/java/).
-- **सहयता मंच:** समुदाय के साथ जुड़ें [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10).
+- **सहयता मंच:** समुदाय के साथ जुड़ें [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

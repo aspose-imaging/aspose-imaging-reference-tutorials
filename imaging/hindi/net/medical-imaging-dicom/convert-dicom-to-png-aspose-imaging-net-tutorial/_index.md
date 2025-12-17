@@ -153,7 +153,7 @@ Aspose.Imaging को एकीकृत करने से इन समाध
 - **क्रय लाइसेंस:** [अभी खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [निःशुल्क परीक्षण के साथ आरंभ करें](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस:** [अस्थायी लाइसेंस के लिए आवेदन करें](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच:** [Aspose.Imaging समर्थन](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच:** [Aspose.Imaging समर्थन](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड के साथ, आप अपने .NET प्रोजेक्ट में DICOM से PNG रूपांतरण को एकीकृत करने के लिए अच्छी तरह से सुसज्जित हैं। हैप्पी कोडिंग!
 

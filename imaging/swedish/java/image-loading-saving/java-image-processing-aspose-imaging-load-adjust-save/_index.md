@@ -215,7 +215,7 @@ Du har nu bemästrat grunderna i Java-bildbehandling med Aspose.Imaging. Från a
 - **Köpa**: [Köp Aspose-produkter](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Börja här](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din Java-bildbehandlingsresa med Aspose.Imaging och lås upp nya möjligheter inom digital bildmanipulation!
 

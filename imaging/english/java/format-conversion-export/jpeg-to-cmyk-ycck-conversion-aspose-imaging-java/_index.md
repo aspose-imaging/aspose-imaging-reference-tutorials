@@ -199,7 +199,7 @@ A: Check your system resources and optimize memory usage. Consider using multi-t
 - **Download:** Get the latest version from [Aspose.Imaging releases](https://releases.aspose.com/imaging/java/).
 - **Purchase:** Obtain a full license at [Aspose Purchase page](https://purchase.aspose.com/buy).
 - **Free Trial & Temporary License:** Experience features without limitations by getting a free trial or temporary license at the respective links.
-- **Support:** For further assistance, visit the [Aspose Support Forum](https://forum.aspose.com/c/imaging/10).
+- **Support:** For further assistance, visit the [Aspose Support Forum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

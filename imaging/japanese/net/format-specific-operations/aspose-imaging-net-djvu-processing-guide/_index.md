@@ -197,7 +197,7 @@ A: はい、ASP.NET アプリケーションやその他のサーバー側フレ
 - **購入**： [Aspose.Imagingライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imagingを無料でお試しください](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドが、.NET での DjVu 画像処理のニーズに Aspose.Imaging を活用していただくためのお役に立てれば幸いです。コーディングを楽しみましょう！
 

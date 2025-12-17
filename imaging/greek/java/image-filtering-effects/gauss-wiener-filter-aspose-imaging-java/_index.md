@@ -184,7 +184,7 @@ A: Το Aspose.Imaging υποστηρίζει Java 8 και νεότερες ε�
 - **Λήψη βιβλιοθήκης:** Αποκτήστε την τελευταία έκδοση από [Εκδόσεις Aspose.Imaging](https://releases.aspose.com/imaging/java/).
 - **Άδεια Αγοράς:** Επίσκεψη [Αγορά Aspose](https://purchase.aspose.com/buy) για επιλογές αδειοδότησης.
 - **Δωρεάν δοκιμή & Προσωρινή άδεια χρήσης:** Ξεκινήστε με μια δωρεάν δοκιμή ή αποκτήστε μια προσωρινή άδεια χρήσης στο [Δωρεάν δοκιμή και αδειοδότηση Aspose](https://releases.aspose.com/imaging/java/).
-- **Φόρουμ υποστήριξης:** Αλληλεπιδράστε με την κοινότητα στο [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10).
+- **Φόρουμ υποστήριξης:** Αλληλεπιδράστε με την κοινότητα στο [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

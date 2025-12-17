@@ -257,7 +257,7 @@ A5: Βεβαιωθείτε ότι η μορφή εξόδου υποστηρίζ�
 - **Αγορά**: [Σελίδα Αγοράς Aspose](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δοκιμάστε τη δωρεάν δοκιμή του Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ Υποστήριξης**: [Κοινότητα Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ Υποστήριξης**: [Κοινότητα Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Καλή κωδικοποίηση!
 

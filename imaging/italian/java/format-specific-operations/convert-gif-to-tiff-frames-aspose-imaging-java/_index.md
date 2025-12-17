@@ -215,7 +215,7 @@ In questo tutorial, abbiamo esplorato come Aspose.Imaging per Java semplifica la
 ### Prossimi passi
 - Esplora ulteriori opzioni di conversione disponibili in Aspose.Imaging.
 - Integrare questa funzionalità in un progetto o flusso di lavoro più ampio.
-- Condividi feedback o chiedi supporto al [Forum della comunità Aspose](https://forum.aspose.com/c/imaging/10).
+- Condividi feedback o chiedi supporto al [Forum della comunità Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Sezione FAQ
 
@@ -241,7 +241,7 @@ A5: Esplora il [Documentazione di Aspose.Imaging](https://reference.aspose.com/i
 - **Acquistare:** https://purchase.aspose.com/buy
 - **Prova gratuita:** https://releases.aspose.com/imaging/java/
 - **Licenza temporanea:** https://purchase.aspose.com/licenza-temporanea/
-- **Supporto:** https://forum.aspose.com/c/imaging/10
+- **Supporto:** https://forum.aspose.com/c/imaging/14
 
 Sfruttando Aspose.Imaging per Java, puoi semplificare i processi di conversione delle immagini e sbloccare nuove possibilità nella gestione dei media digitali. Buona programmazione!
 

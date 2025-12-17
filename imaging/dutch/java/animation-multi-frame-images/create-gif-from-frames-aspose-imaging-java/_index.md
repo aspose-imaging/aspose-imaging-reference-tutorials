@@ -175,7 +175,7 @@ Probeer deze oplossing vandaag nog uit en zie hoe het uw beeldverwerkingsmogelij
 - **Documentatie**: [Aspose.Imaging Java-referentie](https://reference.aspose.com/imaging/java/)
 - **Download**: [Aspose.Imaging-releases](https://releases.aspose.com/imaging/java/)
 - **Aankoop en licenties**: [Koop Aspose-licentie](https://purchase.aspose.com/buy), [Gratis proefperiode](https://releases.aspose.com/imaging/java/), [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- **Steun**: Betrek de gemeenschap bij de [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: Betrek de gemeenschap bij de [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Door Aspose.Imaging in uw Java-projecten te integreren, krijgt u toegang tot krachtige beeldverwerkingsmogelijkheden die uw workflows stroomlijnen en verbeteren. Veel codeerplezier!
 

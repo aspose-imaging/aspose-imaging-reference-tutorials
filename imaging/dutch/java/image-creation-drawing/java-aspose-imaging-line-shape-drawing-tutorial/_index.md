@@ -241,7 +241,7 @@ Je hebt geleerd hoe je de Aspose.Imaging-bibliotheek kunt gebruiken om lijnen, v
 - [Aankoopopties](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Nu je een uitgebreide handleiding hebt voor het implementeren van tekenfuncties met Aspose.Imaging voor Java, kun je beginnen met experimenteren en deze technieken integreren in je projecten. Veel plezier met coderen!
 

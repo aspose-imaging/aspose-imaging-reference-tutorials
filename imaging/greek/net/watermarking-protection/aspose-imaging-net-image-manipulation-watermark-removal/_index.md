@@ -167,7 +167,7 @@ File.Delete(Path.Combine(dataDir, "ball.png")); // Καθαρίστε το αρ�
 - **Αγορά Άδειας Χρήσης**: [Αγοράστε τώρα](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Έναρξη δωρεάν δοκιμής](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Αίτημα εδώ](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ Υποστήριξης**: [Κάντε ερωτήσεις](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ Υποστήριξης**: [Κάντε ερωτήσεις](https://forum.aspose.com/c/imaging/14)
 
 Εξερευνώντας αυτούς τους πόρους, θα έχετε μια σταθερή βάση για να κατακτήσετε το Aspose.Imaging και τις δυνατότητές του. Καλή κωδικοποίηση!
 

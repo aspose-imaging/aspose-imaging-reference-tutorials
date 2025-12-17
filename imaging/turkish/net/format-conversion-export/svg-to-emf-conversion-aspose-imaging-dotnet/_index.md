@@ -133,7 +133,7 @@ Artık Aspose.Imaging for .NET kullanarak SVG dosyalarını EMF formatına nası
 **Sonraki Adımlar:**
 - Aspose.Imaging'in daha fazla özelliğini keşfedin
 - Farklı dönüştürme seçeneklerini deneyin
-- Geri bildirim paylaşın veya sorular sorun [Aspose forumu](https://forum.aspose.com/c/imaging/10)
+- Geri bildirim paylaşın veya sorular sorun [Aspose forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu becerileri uygulamaya hazır mısınız? Projenize dalın ve bugün dönüştürmeye başlayın!
 
@@ -160,7 +160,7 @@ C5: Dosya yollarını kontrol edin, Aspose.Imaging'in doğru şekilde yüklendi�
 - **Satın almak**: [Lisans satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Deneme ile Başlayın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Talebinde Bulunun](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Çözümünüzü uygularken daha detaylı rehberlik ve destek için bu kaynakları keşfetmekten çekinmeyin. İyi kodlamalar!
 

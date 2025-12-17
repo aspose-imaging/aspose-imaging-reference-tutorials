@@ -227,7 +227,7 @@ Em seguida, considere explorar recursos mais avançados do Aspose.Imaging ou int
    - Sim, com o licenciamento adequado, é ideal para aplicações profissionais e empresariais.
 
 5. **Onde posso encontrar mais recursos sobre o Aspose.Imaging?**
-   - Visita [Documentação Aspose](https://reference.aspose.com/imaging/java/) e o [fórum de suporte](https://forum.aspose.com/c/imaging/10) para guias detalhados e ajuda da comunidade.
+   - Visita [Documentação Aspose](https://reference.aspose.com/imaging/java/) e o [fórum de suporte](https://forum.aspose.com/c/imaging/14) para guias detalhados e ajuda da comunidade.
 
 ## Recursos
 
@@ -236,7 +236,7 @@ Em seguida, considere explorar recursos mais avançados do Aspose.Imaging ou int
 - **Comprar**: https://purchase.aspose.com/buy
 - **Teste grátis**: https://releases.aspose.com/imaging/java/
 - **Licença Temporária**: https://purchase.aspose.com/temporary-license/
-- **Apoiar**: https://forum.aspose.com/c/imaging/10
+- **Apoiar**: https://forum.aspose.com/c/imaging/14
 
 Embarque hoje mesmo em sua jornada para dominar a recuperação de imagens TIFF com o Aspose.Imaging para Java!
 

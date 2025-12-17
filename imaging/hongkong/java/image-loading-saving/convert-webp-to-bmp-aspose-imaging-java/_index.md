@@ -173,7 +173,7 @@ try {
 - **購買：** [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用：** [開始免費試用](https://releases.aspose.com/imaging/java/)
 - **臨時執照：** [申請臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援論壇：** [Aspose Imaging 支援論壇](https://forum.aspose.com/c/imaging/10)
+- **支援論壇：** [Aspose Imaging 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 請隨意探索這些資源並將 Aspose.Imaging 整合到您的專案中，以實現無縫影像處理功能。
 

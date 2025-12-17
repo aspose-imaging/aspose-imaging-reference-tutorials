@@ -200,7 +200,7 @@ Los próximos pasos incluyen explorar funcionalidades adicionales de la bibliote
    - Utilice el `Metered.getConsumptionQuantity()` Método antes y después de procesar imágenes para rastrear el uso.
 
 5. **¿Hay soporte disponible si encuentro problemas?**
-   - Visita [Foro de Aspose](https://forum.aspose.com/c/imaging/10) para obtener ayuda de expertos de la comunidad.
+   - Visita [Foro de Aspose](https://forum.aspose.com/c/imaging/14) para obtener ayuda de expertos de la comunidad.
 
 ## Recursos
 

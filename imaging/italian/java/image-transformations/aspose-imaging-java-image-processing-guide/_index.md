@@ -264,7 +264,7 @@ Scopri altre risorse e opzioni di supporto su:
 - **Acquistare:** https://purchase.aspose.com/buy
 - **Prova gratuita:** https://releases.aspose.com/imaging/java/
 - **Licenza temporanea:** https://purchase.aspose.com/licenza-temporanea/
-- **Supporto:** https://forum.aspose.com/c/imaging/10
+- **Supporto:** https://forum.aspose.com/c/imaging/14
 
 Porta l'elaborazione delle immagini Java a un livello superiore sfruttando subito le potenti funzionalità di Aspose.Imaging!
 

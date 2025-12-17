@@ -200,7 +200,7 @@ A4: Graustufenbilder enthalten nur Grautöne, wodurch die Dateigröße reduziert
 
 **F5: Wie kann ich Support erhalten, wenn ich Probleme mit Aspose.Imaging habe?**
 
-A5: Besuchen Sie die [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) für die Unterstützung durch Community-Experten und offizielles Supportpersonal.
+A5: Besuchen Sie die [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) für die Unterstützung durch Community-Experten und offizielles Supportpersonal.
 
 ## Ressourcen
 

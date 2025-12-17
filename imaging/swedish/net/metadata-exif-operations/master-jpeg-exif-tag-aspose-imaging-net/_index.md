@@ -149,7 +149,7 @@ A3: Implementera try-catch-block runt din bildinläsningskod för att hantera un
 A4: Ja, du kan både läsa och skriva EXIF-taggar med Aspose.Imagings omfattande API.
 
 **F5: Var kan jag få support om jag stöter på problem?**
-A5: Besök [Aspose.Imaging-forum](https://forum.aspose.com/c/imaging/10) för stöd från samhället och myndigheterna.
+A5: Besök [Aspose.Imaging-forum](https://forum.aspose.com/c/imaging/14) för stöd från samhället och myndigheterna.
 
 ## Resurser
 

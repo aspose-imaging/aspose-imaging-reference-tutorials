@@ -236,7 +236,7 @@ Overweeg om de verdere functies van Aspose.Imaging te verkennen om nog meer moge
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Informatie over gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentiegegevens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Deze uitgebreide handleiding helpt je om Aspose.Imaging voor Java naadloos te integreren in je projecten, waardoor je efficiënte en veelzijdige mogelijkheden voor beeldmanipulatie krijgt. Veel plezier met coderen!
 

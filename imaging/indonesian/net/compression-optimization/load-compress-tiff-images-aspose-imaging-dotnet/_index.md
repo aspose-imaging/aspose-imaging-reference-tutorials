@@ -165,7 +165,7 @@ A5: Ya, Aspose.Imaging mendukung berbagai format termasuk JPEG, PNG, BMP, GIF, d
 - **Beli Lisensi**: Mengunjungi [Halaman Pembelian Aspose](https://purchase.aspose.com/buy) untuk pilihan lisensi.
 - **Uji Coba Gratis**: Uji fitur dengan mengunduh dari [Rilis](https://releases.aspose.com/imaging/net/).
 - **Lisensi Sementara**: Minta lisensi sementara di [Lisensi Aspose](https://purchase.aspose.com/temporary-license/).
-- **Dukungan dan Komunitas**: Bergabunglah dalam diskusi atau cari bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Dukungan dan Komunitas**: Bergabunglah dalam diskusi atau cari bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

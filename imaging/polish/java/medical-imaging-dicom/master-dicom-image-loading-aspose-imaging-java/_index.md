@@ -160,7 +160,7 @@ A3: Rozważ optymalizację wykorzystania pamięci, zastosuj techniki przetwarzan
 A4: Aby zapewnić optymalną wydajność, należy zadbać o to, aby środowisko spełniało niezbędne wymagania.
 
 **P5: Jakie opcje wsparcia są dostępne, jeśli napotkam problemy?**
-A5: Możesz szukać pomocy u [Forum obrazowania Aspose](https://forum.aspose.com/c/imaging/10) lub zapoznaj się z ich obszerną dokumentacją.
+A5: Możesz szukać pomocy u [Forum obrazowania Aspose](https://forum.aspose.com/c/imaging/14) lub zapoznaj się z ich obszerną dokumentacją.
 
 ## Zasoby
 

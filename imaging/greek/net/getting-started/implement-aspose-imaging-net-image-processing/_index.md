@@ -126,7 +126,7 @@ rasterCachedImage.Save(outputPath + "/BinarizationWithOtsuThreshold_out.jpg");
 - **Αγορά**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δωρεάν δοκιμή Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Απόκτηση Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 Ακολουθώντας αυτόν τον οδηγό, είστε σε καλό δρόμο για την εφαρμογή αποτελεσματικής επεξεργασίας εικόνας στις εφαρμογές .NET χρησιμοποιώντας το Aspose.Imaging. Καλή κωδικοποίηση!
 
 {{< /blocks/products/pf/tutorial-page-section >}}

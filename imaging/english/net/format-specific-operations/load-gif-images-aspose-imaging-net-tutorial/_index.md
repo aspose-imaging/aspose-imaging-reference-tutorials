@@ -158,7 +158,7 @@ A5: Yes, it offers various optimization techniques to manage memory usage effect
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/net/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Take your .NET applications to the next level by mastering image processing with Aspose.Imaging!
 

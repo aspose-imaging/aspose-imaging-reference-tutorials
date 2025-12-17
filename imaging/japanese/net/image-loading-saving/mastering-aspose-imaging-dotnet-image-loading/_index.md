@@ -150,7 +150,7 @@ A: JPEG、PNG、TIFFなど、幅広いフォーマットに対応しています
 A: 購入を決定する前に、無料トライアルまたは一時ライセンスで機能を評価することから始めることができます。
 
 **Q: Aspose.Imaging での画像読み込みに関する一般的な問題をトラブルシューティングするにはどうすればよいですか?**
-A: ファイルパスを確認し、ライブラリのバージョンをチェックし、 [サポートフォーラム](https://forum.aspose.com/c/imaging/10) 援助をお願いします。
+A: ファイルパスを確認し、ライブラリのバージョンをチェックし、 [サポートフォーラム](https://forum.aspose.com/c/imaging/14) 援助をお願いします。
 
 ## リソース
 - **ドキュメント**： [Aspose.Imaging .NET リファレンス](https://reference.aspose.com/imaging/net/)
@@ -158,7 +158,7 @@ A: ファイルパスを確認し、ライブラリのバージョンをチェ�
 - **購入およびライセンス情報**： [Aspose 購入ページ](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルを始める](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

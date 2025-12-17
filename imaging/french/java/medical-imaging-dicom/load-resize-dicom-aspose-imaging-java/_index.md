@@ -199,7 +199,7 @@ Prêt à essayer ? Mettez en œuvre ces solutions et découvrez les fonctionnal
 - [Achat](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 Ce tutoriel vous apprend à manipuler des images DICOM avec Aspose.Imaging Java, garantissant ainsi l'efficacité et l'évolutivité de vos applications. Bon codage !
 

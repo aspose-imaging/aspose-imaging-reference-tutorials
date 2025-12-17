@@ -142,7 +142,7 @@ Le migliori pratiche includono l'utilizzo `using` istruzioni per l'eliminazione 
 ## Conclusione
 Ora hai imparato a disegnare immagini raster su canvas EMF utilizzando Aspose.Imaging per .NET. Questa funzionalità può migliorare significativamente la qualità visiva dei tuoi progetti, offrendo un mix di precisione vettoriale e ricchezza raster.
 
-Man mano che procedete, valutate l'opportunità di esplorare funzionalità aggiuntive di Aspose.Imaging o di integrare questa funzionalità in flussi di lavoro più ampi all'interno delle vostre applicazioni. Per ulteriori domande, non esitate a contattarci tramite [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10).
+Man mano che procedete, valutate l'opportunità di esplorare funzionalità aggiuntive di Aspose.Imaging o di integrare questa funzionalità in flussi di lavoro più ampi all'interno delle vostre applicazioni. Per ulteriori domande, non esitate a contattarci tramite [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Sezione FAQ
 **1. Che cos'è un file EMF?**

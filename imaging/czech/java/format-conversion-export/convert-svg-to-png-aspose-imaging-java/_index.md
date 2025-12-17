@@ -222,7 +222,7 @@ Jste připraveni implementovat, co jste se naučili? Zkuste ještě dnes převé
 - [Dokumentace k Aspose.Imaging pro Javu](https://reference.aspose.com/imaging/java/)
 - [Stáhněte si Aspose.Imaging pro Javu](https://releases.aspose.com/imaging/java/)
 - [Zakupte si licenci nebo získejte bezplatnou zkušební verzi](https://purchase.aspose.com/buy)
-- [Získejte podporu z komunitního fóra](https://forum.aspose.com/c/imaging/10)
+- [Získejte podporu z komunitního fóra](https://forum.aspose.com/c/imaging/14)
 
 S těmito zdroji a touto příručkou jste dobře vybaveni k tomu, abyste s jistotou začali transformovat SVG obrázky pomocí Aspose.Imaging pro Javu. Přeji vám příjemné programování!
 

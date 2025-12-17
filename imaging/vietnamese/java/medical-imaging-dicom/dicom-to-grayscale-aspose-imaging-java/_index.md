@@ -154,7 +154,7 @@ Grayscale hình ảnh DICOM với Aspose.Imaging Java là một quá trình đơ
 - **Mua**: [Mua sản phẩm Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Yêu cầu ở đây](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Hỗ trợ cộng đồng Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Hỗ trợ cộng đồng Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình cùng Aspose.Imaging Java và khám phá tiềm năng to lớn của xử lý hình ảnh trong Java!
 

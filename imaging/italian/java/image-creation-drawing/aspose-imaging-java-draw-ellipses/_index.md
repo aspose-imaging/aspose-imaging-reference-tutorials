@@ -206,7 +206,7 @@ Seguendo questa guida, hai imparato a disegnare ellissi con contorni sia puntegg
 - **Acquistare**: https://purchase.aspose.com/buy
 - **Prova gratuita**: https://releases.aspose.com/imaging/java/
 - **Licenza temporanea**: https://purchase.aspose.com/temporary-license/
-- **Supporto**: https://forum.aspose.com/c/imaging/10
+- **Supporto**: https://forum.aspose.com/c/imaging/14
 
 Speriamo che questo tutorial ti sia stato utile. Buona programmazione!
 

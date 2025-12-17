@@ -149,7 +149,7 @@ A3: Βελτιστοποιήστε τη διαχείριση μνήμης και
 A4: Συνηθισμένα προβλήματα περιλαμβάνουν λανθασμένες διαδρομές αρχείων, ακατάλληλες ρυθμίσεις διαμόρφωσης και μη υποστηριζόμενες μορφές εικόνας. Να βεβαιώνεστε πάντα ότι οι διαδρομές είναι σωστές και οι διαμορφώσεις συμμορφώνονται με τις απαιτήσεις σας.
 
 **Ε5: Πού μπορώ να βρω περισσότερους πόρους σχετικά με το Aspose.Imaging;**
-A5: Επισκεφθείτε το [Τεκμηρίωση Aspose](https://reference.aspose.com/imaging/net/) για ολοκληρωμένους οδηγούς και [Φόρουμ](https://forum.aspose.com/c/imaging/10) για την υποστήριξη της κοινότητας.
+A5: Επισκεφθείτε το [Τεκμηρίωση Aspose](https://reference.aspose.com/imaging/net/) για ολοκληρωμένους οδηγούς και [Φόρουμ](https://forum.aspose.com/c/imaging/14) για την υποστήριξη της κοινότητας.
 
 ## Πόροι
 - **Απόδειξη με έγγραφα:** [Αναφορά Aspose Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -157,7 +157,7 @@ A5: Επισκεφθείτε το [Τεκμηρίωση Aspose](https://referenc
 - **Αγορά:** [Αγορά Άδειας Χρήσης](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Δοκιμαστικές λήψεις](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια:** [Αίτημα εδώ](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

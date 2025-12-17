@@ -177,7 +177,7 @@ Ready to try it out? Implement this solution in your project and see how it stre
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial Version](https://releases.aspose.com/imaging/net/)
 - [Temporary License Application](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

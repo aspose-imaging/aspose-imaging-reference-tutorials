@@ -250,7 +250,7 @@ A5: You can use the `setTransparentColor()` method, specifying the color you wis
 - **Purchase License**: [Buy a License](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start Your Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum**: [Ask Questions](https://forum.aspose.com/c/imaging/10)
+- **Support Forum**: [Ask Questions](https://forum.aspose.com/c/imaging/14)
 
 We hope this guide has been helpful in your journey with Java image manipulation using Aspose.Imaging. If you have any questions, feel free to reach out through the support forum or check the documentation for more detailed information. Happy coding!
 

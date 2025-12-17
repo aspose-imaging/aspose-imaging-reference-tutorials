@@ -178,7 +178,7 @@ A5: Hoewel Aspose.Imaging zelf geen harde limieten oplegt, kan het verwerken van
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefversie](https://releases.aspose.com/imaging/java/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u nu klaar om effectieve beeldverwerking te implementeren in uw Java-applicaties met Aspose.Imaging. Veel plezier met coderen!
 

@@ -191,7 +191,7 @@ Come passaggi successivi, valuta la possibilità di esplorare altre funzioni di 
 - [Acquista una licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Domanda di licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 Sfruttando Aspose.Imaging, puoi arricchire le tue applicazioni Java con robuste funzionalità di manipolazione delle immagini. Buon lavoro!
 

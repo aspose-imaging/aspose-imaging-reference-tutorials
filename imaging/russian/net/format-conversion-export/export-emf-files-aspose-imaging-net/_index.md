@@ -169,7 +169,7 @@ image.Save(outputfile + ".webp", new WebPOptions { VectorRasterizationOptions = 
    - Совместимо со средами .NET Framework и .NET Core/5+/6+.
 
 5. **Могу ли я получить поддержку, если у меня возникнут проблемы?**
-   - Да, вы можете получить доступ к форумам сообщества и официальным каналам поддержки через [Поддержка Aspose](https://forum.aspose.com/c/imaging/10).
+   - Да, вы можете получить доступ к форумам сообщества и официальным каналам поддержки через [Поддержка Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Ресурсы
 

@@ -178,7 +178,7 @@ vectorRasterizationOptions.setPageHeight(768);
 
 **س: أين يمكنني العثور على المساعدة إذا واجهت مشاكل؟**
 
-أ: قم بزيارة [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10) للحصول على المساعدة من المجتمع وخبراء Aspose.
+أ: قم بزيارة [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14) للحصول على المساعدة من المجتمع وخبراء Aspose.
 
 ## موارد
 

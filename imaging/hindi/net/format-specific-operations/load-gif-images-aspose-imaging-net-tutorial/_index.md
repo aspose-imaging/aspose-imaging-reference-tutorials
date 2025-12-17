@@ -153,7 +153,7 @@ A4: फ़ाइल पथ की जाँच करें, उचित ला
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging के साथ इमेज प्रोसेसिंग में निपुणता प्राप्त करके अपने .NET अनुप्रयोगों को अगले स्तर तक ले जाएं!
 

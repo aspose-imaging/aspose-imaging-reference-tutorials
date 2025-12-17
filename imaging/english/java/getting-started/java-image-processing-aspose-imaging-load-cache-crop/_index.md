@@ -197,7 +197,7 @@ As next steps, consider exploring additional features like resizing, color adjus
 - **Purchase:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial:** [Aspose.Imaging Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Embark on your journey to advanced image processing with Aspose.Imaging for Java and unlock new potential in your applications!
 

@@ -191,7 +191,7 @@ A5: 네, Aspose.Imaging은 JPEG, PNG, BMP 등 다양한 이미지 형식을 지�
 - **구입:** [Aspose.License 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [무료 체험판을 시작하세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 튜토리얼을 따라 하면 Aspose.Imaging for Java를 사용하여 이미지 이진화 작업을 효과적으로 처리하는 기술을 갖추게 됩니다. 즐거운 코딩 되세요!
 

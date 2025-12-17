@@ -168,7 +168,7 @@ Volgende stappen kunnen zijn het verkennen van andere beeldformaten die Aspose.I
 - Licentie kopen: [Koop Aspose-licentieopties](https://purchase.aspose.com/buy)
 - Gratis proefperiode: [Ontvang een gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - Tijdelijke licentie: [Een tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- Ondersteuningsforum: [Aspose.Imaging Community-ondersteuning](https://forum.aspose.com/c/imaging/10)
+- Ondersteuningsforum: [Aspose.Imaging Community-ondersteuning](https://forum.aspose.com/c/imaging/14)
 
 Nu u over de tools en kennis beschikt, kunt u deze oplossing in uw volgende project implementeren!
 

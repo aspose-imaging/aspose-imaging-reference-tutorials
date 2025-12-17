@@ -170,7 +170,7 @@ Aspose.Imaging for .NET を使用する際にパフォーマンスを最大化�
 - **購入：** [ライセンスを購入する](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料トライアルを始める](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス:** [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従うことで、Aspose.Imaging for .NET を使って自信を持って .NET 画像処理を行えるようになります。コーディングを楽しんでください！
 

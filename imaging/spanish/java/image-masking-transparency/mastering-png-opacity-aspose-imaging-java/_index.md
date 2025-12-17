@@ -177,7 +177,7 @@ Has aprendido a usar Aspose.Imaging para Java para cargar y mostrar eficazmente 
 - **Compra**:Considere comprar para tener acceso completo en [Sitio de compra de Aspose](https://purchase.aspose.com/buy).
 - **Prueba gratuita**Pruebe las funciones con una versión de prueba gratuita disponible en la misma página.
 - **Licencia temporal**:Solicite una licencia temporal para extender su período de evaluación.
-- **Apoyo**:Únase a las discusiones y haga preguntas en el [Foro de Aspose](https://forum.aspose.com/c/imaging/10).
+- **Apoyo**:Únase a las discusiones y haga preguntas en el [Foro de Aspose](https://forum.aspose.com/c/imaging/14).
 
 Con esta guía completa, ya estás listo para dominar la transparencia de imágenes en Java con Aspose.Imaging. ¡Que disfrutes programando!
 

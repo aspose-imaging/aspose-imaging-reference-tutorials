@@ -168,7 +168,7 @@ Periksa penggunaan memori Anda dan pastikan semua sumber daya dibuang dengan ben
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulailah dengan Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ambil langkah berikutnya dan mulailah menerapkan teknik ini dalam proyek Anda hari ini!
 

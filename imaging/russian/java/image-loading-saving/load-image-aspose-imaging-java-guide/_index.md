@@ -177,7 +177,7 @@ Aspose.Imaging для Java универсален и может использо
 - **Документация**: Изучите подробные сценарии использования на [Документация Java Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - **Скачать**: Получите последнюю версию библиотеки Aspose.Imaging с сайта [Релизы Aspose](https://releases.aspose.com/imaging/java/).
 - **Покупка и бесплатная пробная версия**: Узнайте больше о получении лицензии на [страница покупки](https://purchase.aspose.com/buy) или начните с бесплатной пробной версии.
-- **Поддерживать**: Если у вас есть вопросы, перейдите по ссылке [Форум Aspose](https://forum.aspose.com/c/imaging/10).
+- **Поддерживать**: Если у вас есть вопросы, перейдите по ссылке [Форум Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

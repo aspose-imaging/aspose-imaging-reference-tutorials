@@ -182,7 +182,7 @@ Aspose.Imaging'in sunduğu diğer özellikleri keşfedin [resmi belgeler](https:
    - Kaynak dağıtımını etkin bir şekilde yönetmek için önbellek ayarlarını kullanın ve toplu işleme tekniklerini göz önünde bulundurun.
 
 4. **Aspose.Imaging ile ilgili sorunlarla karşılaşırsam herhangi bir destek alabilir miyim?**
-   - Evet, yardım bulabilirsiniz [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10).
+   - Evet, yardım bulabilirsiniz [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14).
 
 5. **GIF'lerde özel paletleri kullanmaya yönelik en iyi uygulamalar nelerdir?**
    - Tasarım hedeflerinize uygun renkleri seçin ve en iyi sonuçları elde etmek için farklı kombinasyonları deneyin.

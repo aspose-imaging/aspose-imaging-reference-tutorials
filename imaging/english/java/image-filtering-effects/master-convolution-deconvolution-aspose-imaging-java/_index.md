@@ -202,7 +202,7 @@ A: The library is robust but may have performance constraints with extremely lar
 - **Purchase**: [Buy Aspose Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start with a Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Request Here](https://purchase.aspose.com/temporary-license/)
-- **Support Forum**: [Ask Questions](https://forum.aspose.com/c/imaging/10)
+- **Support Forum**: [Ask Questions](https://forum.aspose.com/c/imaging/14)
 
 By following this guide, you are well on your way to mastering the powerful image processing capabilities offered by Aspose.Imaging for Java. Happy coding!
 

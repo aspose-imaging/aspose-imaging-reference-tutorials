@@ -160,7 +160,7 @@ A5：通过优化配置设置、高效管理内存以及利用缓存策略。
 - **购买许可证**： [Aspose 许可](https://purchase.aspose.com/buy)
 - **免费试用**： [下载 Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **临时执照**： [申请临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持论坛**： [Aspose 成像支持](https://forum.aspose.com/c/imaging/10)
+- **支持论坛**： [Aspose 成像支持](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

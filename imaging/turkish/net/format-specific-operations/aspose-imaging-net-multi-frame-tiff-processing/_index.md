@@ -167,7 +167,7 @@ Artık Aspose.Imaging for .NET kullanarak TIFF karelerini yükleme ve kaydetme k
 - **Satın almak**: [Aspose.Imaging için bir Lisans satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Deneme ile Başlayın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Talebinde Bulunun](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Görüntüleme Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Görüntüleme Forumu](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

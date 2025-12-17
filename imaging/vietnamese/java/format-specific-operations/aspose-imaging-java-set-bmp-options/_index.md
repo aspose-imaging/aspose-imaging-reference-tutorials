@@ -156,7 +156,7 @@ Thiết lập tùy chọn BMP cho phép các nhà phát triển tùy chỉnh cá
 
 **Câu hỏi 2: Làm thế nào để khắc phục sự cố về giấy phép với Aspose.Imaging?**
 
-Đảm bảo đường dẫn tệp giấy phép của bạn là chính xác và bạn đang sử dụng phiên bản hợp lệ của thư viện. Nếu sự cố vẫn tiếp diễn, hãy tham khảo [Diễn đàn hỗ trợ của Aspose](https://forum.aspose.com/c/imaging/10).
+Đảm bảo đường dẫn tệp giấy phép của bạn là chính xác và bạn đang sử dụng phiên bản hợp lệ của thư viện. Nếu sự cố vẫn tiếp diễn, hãy tham khảo [Diễn đàn hỗ trợ của Aspose](https://forum.aspose.com/c/imaging/14).
 
 **Câu hỏi 3: Tôi có thể sử dụng Aspose.Imaging để xử lý hàng loạt hình ảnh không?**
 
@@ -177,7 +177,7 @@ Trong khi có nhiều thư viện khác, Aspose.Imaging cung cấp hỗ trợ to
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Aspose.Imaging dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Nộp đơn xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn này cung cấp nền tảng bạn cần để triển khai hiệu quả các tùy chọn BMP trong các dự án Java của mình bằng Aspose.Imaging. Chúc bạn viết mã vui vẻ!
 

@@ -212,7 +212,7 @@ image.save("YOUR_OUTPUT_DIRECTORY/ExportToTIFF_out.tiff", new TiffOptions(TiffEx
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [รับทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - [ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/14)
 
 เริ่มต้นการเดินทางในการประมวลผลภาพของคุณด้วย Aspose.Imaging สำหรับ Java และยกระดับคุณภาพของโปรเจ็กต์ของคุณวันนี้!
 

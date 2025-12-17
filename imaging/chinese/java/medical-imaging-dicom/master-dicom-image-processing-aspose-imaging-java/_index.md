@@ -278,7 +278,7 @@ A5：验证文件路径是否正确，确保您拥有适当的权限，并检查
 - **购买**： [购买许可证](https://purchase.aspose.com/buy)
 - **免费试用**： [获取免费试用](https://releases.aspose.com/imaging/java/)
 - **临时执照**： [申请临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持**： [Aspose 社区论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**： [Aspose 社区论坛](https://forum.aspose.com/c/imaging/14)
 
 有了这份全面的指南，您将能够使用 Aspose.Imaging Java 轻松完成 DICOM 图像处理任务。祝您编程愉快！
 

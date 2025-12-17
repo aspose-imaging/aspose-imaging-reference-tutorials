@@ -167,7 +167,7 @@ Uygulamaya hazır mısınız? Görsellerinizi bugün dönüştürmeye başlayın
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı kılavuzla, projelerinizde Aspose.Imaging for .NET'i kullanmaya başlayabilirsiniz. İyi kodlamalar!
 

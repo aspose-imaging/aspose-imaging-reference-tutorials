@@ -140,7 +140,7 @@ image.Save(outputFilePath, tiffOptions);
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण संस्करण](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस आवेदन](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड का पालन करके, आप .NET के लिए Aspose.Imaging का उपयोग करके छवि रंग स्थान रूपांतरण में महारत हासिल करने के लिए अच्छी तरह से सुसज्जित होंगे। हैप्पी कोडिंग!
 

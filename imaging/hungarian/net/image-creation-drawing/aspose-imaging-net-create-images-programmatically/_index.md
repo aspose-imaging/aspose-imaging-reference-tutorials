@@ -179,7 +179,7 @@ Készen állsz kipróbálni ezeket a technikákat? Alkalmazd őket a következő
 - [Vásárlás](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatás](https://forum.aspose.com/c/imaging/10)
+- [Támogatás](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

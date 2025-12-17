@@ -257,7 +257,7 @@ V5: Győződjön meg arról, hogy a kimeneti formátum támogatja az átlátszó
 - **Vásárlás**: [Aspose Vásárlási Oldal](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbálja ki az Aspose.Imaging ingyenes próbaverzióját](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Aspose támogató közösség](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Aspose támogató közösség](https://forum.aspose.com/c/imaging/14)
 
 Jó kódolást!
 

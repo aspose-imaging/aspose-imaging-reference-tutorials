@@ -172,7 +172,7 @@ if (exif != null)
 - **Αγορά:** [Αγοράστε επιλογές αδειοδότησης Aspose](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Δοκιμάστε τις δωρεάν δοκιμές](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια:** [Αίτημα Προσωρινών Αδειών](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** [Υποστήριξη Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** [Υποστήριξη Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, θα πρέπει να είστε άρτια εξοπλισμένοι για να χειρίζεστε εικόνες JPEG και τα μεταδεδομένα τους χρησιμοποιώντας το Aspose.Imaging για .NET. Καλή κωδικοποίηση!
 

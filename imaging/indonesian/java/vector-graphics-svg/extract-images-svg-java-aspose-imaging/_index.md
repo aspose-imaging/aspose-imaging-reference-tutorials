@@ -250,7 +250,7 @@ A: Pertimbangkan untuk menggunakan teknik pemrosesan batch dan mengoptimalkan pe
 - **Pembelian:** [Beli Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Mulai Uji Coba Gratis Anda](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Terapkan fitur-fitur ini dalam proyek Java Anda untuk membuka kemampuan baru dan menyederhanakan alur kerja pemrosesan gambar menggunakan Aspose.Imaging. Selamat membuat kode!
 

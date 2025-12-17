@@ -138,7 +138,7 @@ Aspose.Imaging を使用する場合は、次のパフォーマンスのヒン�
 **A4:** はい、Aspose.Imaging は PNG、JPEG、TIFF など幅広い形式をサポートしています。
 
 **質問5:** 問題が発生した場合、どうすればサポートを受けられますか?
-**A5:** 訪問 [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10) 援助をお願いします。
+**A5:** 訪問 [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14) 援助をお願いします。
 
 ## リソース
 - **ドキュメント:** 詳細なガイドとAPIリファレンスについては、 [Aspose Imaging ドキュメント](https://reference.aspose.com/imaging/net/)

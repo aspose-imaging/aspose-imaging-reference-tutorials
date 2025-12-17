@@ -245,7 +245,7 @@ Dalam tutorial ini, Anda telah mempelajari cara membuat file TIFF multi-halaman 
 - **Pembelian**: https://purchase.aspose.com/beli
 - **Uji Coba Gratis**: https://releases.aspose.com/imaging/java/
 - **Lisensi Sementara**: https://purchase.aspose.com/lisensi-sementara/
-- **Mendukung**: https://forum.aspose.com/c/imaging/10
+- **Mendukung**: https://forum.aspose.com/c/imaging/14
 
 Sekarang Anda telah dibekali dengan pengetahuan, mulailah menerapkan dan mengeksplorasi teknik-teknik ini dalam proyek Java Anda!
 

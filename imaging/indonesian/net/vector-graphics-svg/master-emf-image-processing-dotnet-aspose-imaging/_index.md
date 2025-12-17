@@ -165,7 +165,7 @@ Masalah umum mencakup jalur file yang salah atau format yang tidak didukung, yan
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Jangan ragu untuk menjelajahi sumber daya ini dan mencari dukungan jika Anda menemui tantangan apa pun. Selamat membuat kode!
 

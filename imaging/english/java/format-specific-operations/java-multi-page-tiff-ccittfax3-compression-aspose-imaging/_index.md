@@ -252,7 +252,7 @@ In this tutorial, you’ve learned how to create multi-page TIFF files using CCI
 - **Purchase**: https://purchase.aspose.com/buy
 - **Free Trial**: https://releases.aspose.com/imaging/java/
 - **Temporary License**: https://purchase.aspose.com/temporary-license/
-- **Support**: https://forum.aspose.com/c/imaging/10
+- **Support**: https://forum.aspose.com/c/imaging/14
 
 Now that you're equipped with the knowledge, start implementing and exploring these techniques in your Java projects!
 

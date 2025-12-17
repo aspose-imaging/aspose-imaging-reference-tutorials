@@ -241,7 +241,7 @@ try (EmfImage image = graphics.endRecording()) {
 - [Επιλογές Αγοράς](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/14)
 
 Τώρα που έχετε έναν ολοκληρωμένο οδηγό για την υλοποίηση λειτουργιών σχεδίασης με το Aspose.Imaging για Java, ξεκινήστε να πειραματίζεστε και να ενσωματώνετε αυτές τις τεχνικές στα έργα σας. Καλή κωδικοποίηση!
 

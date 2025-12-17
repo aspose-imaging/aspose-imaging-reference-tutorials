@@ -175,7 +175,7 @@ File.Delete(Path.Combine(dataDir, "MultiPage.pdf"));
 - **购买**： [购买 Aspose.Imaging 许可证](https://purchase.aspose.com/buy)
 - **免费试用**： [开始免费试用 Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **临时执照**： [获取 Aspose.Imaging 的临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持**： [Aspose 成像论坛](https://forum.aspose.com/c/imaging/10) 
+- **支持**： [Aspose 成像论坛](https://forum.aspose.com/c/imaging/14) 
 
 通过遵循本指南，您可以轻松处理 CMX 到 PDF 的转换。
 

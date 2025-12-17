@@ -171,7 +171,7 @@ Teraz powinieneś mieć solidne zrozumienie, jak binaryzować obrazy BMP za pomo
 - **Kup licencję:** [Kup teraz](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Pobierz bezpłatną wersję próbną](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa:** [Poproś o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia:** [Wsparcie Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia:** [Wsparcie Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

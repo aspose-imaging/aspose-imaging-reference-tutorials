@@ -183,7 +183,7 @@ Aspose.Imaging for .NET を使用して JPEG 画像を読み込み、EXIF タグ
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアルダウンロード](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス情報](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

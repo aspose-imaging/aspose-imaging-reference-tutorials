@@ -166,7 +166,7 @@ Bir sonraki adım olarak Aspose.Imaging tarafından desteklenen diğer formatlar
 - **Satın almak**: Lisans satın al [Aspose Satın Alma Portalı](https://purchase.aspose.com/buy).
 - **Ücretsiz Deneme**: Ücretsiz denemeyle başlayın [İndirmeler](https://releases.aspose.com/imaging/net/).
 - **Geçici Lisans**: Bir tane talep et [Burada](https://purchase.aspose.com/temporary-license/).
-- **Destek**: Topluluğa katılın [Aspose Forumları](https://forum.aspose.com/c/imaging/10) yardım ve tartışmalar için.
+- **Destek**: Topluluğa katılın [Aspose Forumları](https://forum.aspose.com/c/imaging/14) yardım ve tartışmalar için.
 
 Bu kılavuzun vektör görüntü dışa aktarma işlevselliğini projelerinize entegre etmenize yardımcı olmasını umuyoruz. İyi kodlamalar!
 

@@ -187,7 +187,7 @@ Por supuesto, está diseñado para gestionar requisitos tanto personales como em
 
 **5. ¿Dónde puedo obtener ayuda si la necesito?**
 
-Visita el [Foro de Aspose](https://forum.aspose.com/c/imaging/10) para obtener ayuda de la comunidad o comuníquese con su equipo de soporte directamente a través de su sitio web.
+Visita el [Foro de Aspose](https://forum.aspose.com/c/imaging/14) para obtener ayuda de la comunidad o comuníquese con su equipo de soporte directamente a través de su sitio web.
 
 ## Recursos
 

@@ -212,7 +212,7 @@ Redo att testa dina färdigheter? Börja implementera dessa lösningar i ditt n�
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Få en gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din bildbehandlingsresa med Aspose.Imaging för Java och höj kvaliteten på dina projekt idag!
 

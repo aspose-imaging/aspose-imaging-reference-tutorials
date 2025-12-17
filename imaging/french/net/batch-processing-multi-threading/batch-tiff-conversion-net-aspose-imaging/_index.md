@@ -149,7 +149,7 @@ Prêt à mettre vos nouvelles compétences à l'épreuve ? Mettez cette solutio
 - Achat: [Acheter une licence](https://purchase.aspose.com/buy)
 - Essai gratuit : [Essayez Aspose.Imaging pour .NET](https://releases.aspose.com/imaging/net/)
 - Permis temporaire : [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- Soutien: [Forums Aspose](https://forum.aspose.com/c/imaging/10)
+- Soutien: [Forums Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

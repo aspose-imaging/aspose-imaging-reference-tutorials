@@ -160,7 +160,7 @@ A5: Απολύτως. Το ισχυρό σύνολο χαρακτηριστικ�
 - **Αγορά**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δοκιμάστε το δωρεάν](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Με αυτούς τους πόρους και αυτόν τον οδηγό, είστε πλήρως εξοπλισμένοι για να ξεκινήσετε να εργάζεστε με εικόνες DICOM χρησιμοποιώντας το Aspose.Imaging σε .NET. Καλή κωδικοποίηση!
 

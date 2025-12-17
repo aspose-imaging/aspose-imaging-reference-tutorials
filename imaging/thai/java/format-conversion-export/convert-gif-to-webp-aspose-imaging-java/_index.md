@@ -225,7 +225,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **ซื้อ**- [ซื้อ Aspose.Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [ทดลองใช้ Aspose.Imaging ฟรี](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว**- [รับใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน**- [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน**- [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14)
 
 คู่มือฉบับสมบูรณ์นี้จะช่วยให้คุณปรับแต่งรูปภาพของคุณโดยใช้ Aspose.Imaging สำหรับ Java และปรับปรุงแอปพลิเคชันหรือเว็บไซต์ของคุณได้อย่างดี ขอให้สนุกกับการเขียนโค้ด!
 

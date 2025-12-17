@@ -161,7 +161,7 @@ Um die Möglichkeiten weiter zu erkunden, experimentieren Sie mit weiteren Funkt
 - [Erwerben Sie eine Lizenz](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/net/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit diesen Ressourcen sind Sie bestens gerüstet, um das volle Potenzial von Aspose.Imaging für Ihre Bildverarbeitungsanforderungen zu nutzen. Viel Spaß beim Programmieren!
 

@@ -173,7 +173,7 @@ Bây giờ, bạn đã học cách sử dụng hiệu quả Aspose.Imaging for J
    - Hãy cân nhắc việc chia nhỏ quy trình thành các phần nhỏ hơn hoặc sử dụng các phương pháp tiết kiệm bộ nhớ do thư viện cung cấp.
 
 5. **Tôi có thể nhận được hỗ trợ ở đâu nếu gặp vấn đề?**
-   - Thăm nom [Diễn đàn hỗ trợ của Aspose](https://forum.aspose.com/c/imaging/10) để được hỗ trợ từ các chuyên gia cộng đồng và nhân viên Aspose.
+   - Thăm nom [Diễn đàn hỗ trợ của Aspose](https://forum.aspose.com/c/imaging/14) để được hỗ trợ từ các chuyên gia cộng đồng và nhân viên Aspose.
 
 ## Tài nguyên
 

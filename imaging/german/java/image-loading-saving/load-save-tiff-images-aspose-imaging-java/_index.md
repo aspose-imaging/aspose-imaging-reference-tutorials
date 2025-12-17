@@ -171,7 +171,7 @@ In diesem Tutorial haben wir untersucht, wie man TIFF-Bilder mit Aspose.Imaging 
 - **Kaufen**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Kostenlose Testversion starten](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Temporäre Lizenz anfordern](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Dieses Tutorial vermittelt Ihnen das Wissen, um die TIFF-Bildverarbeitung effizient in Ihren Java-Anwendungen zu implementieren. Viel Spaß beim Programmieren!
 

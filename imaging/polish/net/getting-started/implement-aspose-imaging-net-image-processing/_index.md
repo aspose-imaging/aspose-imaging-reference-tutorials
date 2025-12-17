@@ -126,7 +126,7 @@ Buforowanie skraca czas ładowania i wykorzystanie zasobów, znacznie poprawiaj�
 - **Zakup**: [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Aspose.Imaging Bezpłatna wersja próbna](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa**: [Uzyskaj licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Forum wsparcia Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Forum wsparcia Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 Postępując zgodnie z tym przewodnikiem, jesteś na dobrej drodze do wdrożenia wydajnego przetwarzania obrazu w swoich aplikacjach .NET przy użyciu Aspose.Imaging. Miłego kodowania!
 
 {{< /blocks/products/pf/tutorial-page-section >}}

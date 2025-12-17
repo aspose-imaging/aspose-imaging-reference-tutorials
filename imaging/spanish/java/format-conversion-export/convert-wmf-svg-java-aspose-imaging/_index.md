@@ -198,7 +198,7 @@ A4: Sí, pero es importante administrar los recursos de manera eficiente y utili
 
 **P5: ¿Cómo puedo obtener más ayuda si encuentro problemas con Aspose.Imaging?**
 
-A5: Visita [Foro de Aspose](https://forum.aspose.com/c/imaging/10) para obtener soporte de la comunidad o comuníquese directamente con su servicio de atención al cliente a través de la página de compra.
+A5: Visita [Foro de Aspose](https://forum.aspose.com/c/imaging/14) para obtener soporte de la comunidad o comuníquese directamente con su servicio de atención al cliente a través de la página de compra.
 
 ## Recursos
 

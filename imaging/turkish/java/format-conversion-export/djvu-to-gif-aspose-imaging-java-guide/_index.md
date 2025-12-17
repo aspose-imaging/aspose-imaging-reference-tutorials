@@ -210,7 +210,7 @@ Bir sonraki adımı atmaya hazır mısınız? Bu teknikleri bugün projelerinizd
 - **Satın almak:** [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bu eğitimi takip ederek artık projelerinizde Aspose.Imaging for Java'yı kullanmaya hazırsınız. İyi kodlamalar!
 

@@ -170,7 +170,7 @@ Sẵn sàng áp dụng những kỹ thuật này chưa? Hãy thử áp dụng ch
 - **Mua:** [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Hãy thử ngay bây giờ](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời:** [Yêu cầu ở đây](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Đặt câu hỏi](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Đặt câu hỏi](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -182,7 +182,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **ดาวน์โหลด**- [Aspose.Imaging เปิดตัว](https://releases.aspose.com/imaging/java/)
 - **ซื้อ**- [ตัวเลือกการออกใบอนุญาต Aspose](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [รับใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **ฟอรั่มสนับสนุน**- [ชุมชนสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- **ฟอรั่มสนับสนุน**- [ชุมชนสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 ตอนนี้คุณมีเครื่องมือและความรู้ทั้งหมดแล้ว เริ่มทดลองใช้ Aspose.Imaging สำหรับ Java เพื่อปลดปล่อยความคิดสร้างสรรค์ของคุณในการประมวลผลภาพ!
 

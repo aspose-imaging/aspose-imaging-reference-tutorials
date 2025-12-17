@@ -160,7 +160,7 @@ En suivant ce guide, vous avez appris à convertir des images WebP en PDF avec A
 - [Acheter une licence](https://purchase.aspose.com/buy)
 - [Accès d'essai gratuit](https://releases.aspose.com/imaging/net/)
 - [Demande de permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 Grâce à ce guide complet, vous êtes désormais équipé pour exploiter pleinement Aspose.Imaging pour .NET dans vos projets. Bon codage !
 

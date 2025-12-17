@@ -158,7 +158,7 @@ Dodržováním tohoto návodu jste se naučili, jak přidávat vodoznaky do obr�
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Stáhnout zkušební verzi zdarma](https://releases.aspose.com/imaging/net/)
 - [Získání dočasné licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Využitím těchto zdrojů můžete dále prozkoumat a zvládnout knihovnu Aspose.Imaging pro .NET. Přeji vám příjemné programování!
 

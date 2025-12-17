@@ -191,7 +191,7 @@ try (Image image = Image.create(bmpCreateOptions, 100, 100)) {
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - [ใบสมัครใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 การใช้ประโยชน์จาก Aspose.Imaging ช่วยให้คุณยกระดับแอปพลิเคชัน Java ของคุณด้วยฟีเจอร์การจัดการรูปภาพที่มีประสิทธิภาพ ขอให้สนุกกับการเขียนโค้ด!
 

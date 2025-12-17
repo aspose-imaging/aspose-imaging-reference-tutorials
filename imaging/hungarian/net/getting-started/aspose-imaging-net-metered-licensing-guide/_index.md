@@ -147,7 +147,7 @@ Ebben az útmutatóban azt vizsgáltuk meg, hogyan valósítható meg a mért li
 - Kísérletezz tovább a mért licencelés integrálásával a bonyolultabb munkafolyamatokba.
 - Fedezze fel az Aspose.Imaging által kínált további funkciókat, amelyekkel bővítheti alkalmazása képességeit.
 
-Javasoljuk, hogy próbálja ki ezt a megoldást a projektjeiben. Ha kérdése van, vagy segítségre van szüksége, forduljon hozzánk bizalommal a következő címen: [Aspose közösségi fórum](https://forum.aspose.com/c/imaging/10).
+Javasoljuk, hogy próbálja ki ezt a megoldást a projektjeiben. Ha kérdése van, vagy segítségre van szüksége, forduljon hozzánk bizalommal a következő címen: [Aspose közösségi fórum](https://forum.aspose.com/c/imaging/14).
 
 ## GYIK szekció
 **1. kérdés: Mi a mért licencelés?**

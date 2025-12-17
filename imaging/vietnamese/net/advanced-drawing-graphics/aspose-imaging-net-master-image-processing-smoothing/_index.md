@@ -169,7 +169,7 @@ Bằng cách thành thạo các kỹ thuật này, bạn có thể hợp lý hó
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn sẽ được trang bị đầy đủ để tận dụng sức mạnh của Aspose.Imaging cho .NET trong các tác vụ xử lý hình ảnh của mình. Chúc bạn viết mã vui vẻ!
 

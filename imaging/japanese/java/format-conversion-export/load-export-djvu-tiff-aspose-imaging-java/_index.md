@@ -203,7 +203,7 @@ Aspose.Imaging for Javaを使用してDjVu画像を読み込み、特定のペ�
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料ライセンスを取得する](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose コミュニティフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose コミュニティフォーラム](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Javaを活用することで、ドキュメント処理ワークフローを効率化し、DjVuファイルも簡単に扱えるようになります。コーディングを楽しみましょう！
 

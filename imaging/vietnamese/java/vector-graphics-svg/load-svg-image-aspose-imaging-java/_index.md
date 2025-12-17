@@ -178,7 +178,7 @@ Trong hướng dẫn này, bạn đã học cách tải hình ảnh SVG bằng A
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Tải xuống dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Yêu cầu cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bây giờ bạn đã có kiến thức để tải hình ảnh SVG bằng Aspose.Imaging cho Java, hãy bắt tay vào dự án của mình một cách tự tin và sáng tạo!
 

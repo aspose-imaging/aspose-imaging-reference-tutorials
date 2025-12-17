@@ -180,7 +180,7 @@ Készen állsz kipróbálni? Alkalmazd ezeket a megoldásokat a projektjeidben m
 
 **5. kérdés:** Hol kaphatok támogatást, ha problémákba ütközöm az Aspose.Imaging használatával?
 
-**A5:** Látogassa meg a [Aspose.Imaging támogatói fórum](https://forum.aspose.com/c/imaging/10) közösségi szakértők és fejlesztők segítségét kérni.
+**A5:** Látogassa meg a [Aspose.Imaging támogatói fórum](https://forum.aspose.com/c/imaging/14) közösségi szakértők és fejlesztők segítségét kérni.
 
 ## Erőforrás
 - **Dokumentáció:** [Aspose.Imaging .NET dokumentáció](https://reference.aspose.com/imaging/net/)
@@ -188,7 +188,7 @@ Készen állsz kipróbálni? Alkalmazd ezeket a megoldásokat a projektjeidben m
 - **Vásárlás:** [Aspose.Imaging licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Aspose.Imaging ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély:** [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

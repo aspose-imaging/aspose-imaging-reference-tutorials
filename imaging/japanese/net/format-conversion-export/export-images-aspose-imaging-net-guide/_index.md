@@ -207,7 +207,7 @@ A3: はい、Aspose.Imagingでは、次のようなフォーマット固有の�
 A4: もちろんです! .NET の並列プログラミング技術を使用すれば、複数のファイルを効率的に処理できます。
 
 **Q5: Aspose.Imaging の一般的な問題をトラブルシューティングするにはどうすればよいですか?**
-A5: チェック [サポートフォーラム](https://forum.aspose.com/c/imaging/10) 一般的な問題の解決策については、広範な [ドキュメント](https://reference.aspose.com/imaging/net/) ガイダンスのため。
+A5: チェック [サポートフォーラム](https://forum.aspose.com/c/imaging/14) 一般的な問題の解決策については、広範な [ドキュメント](https://reference.aspose.com/imaging/net/) ガイダンスのため。
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

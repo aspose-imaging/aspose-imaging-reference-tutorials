@@ -189,7 +189,7 @@ A: After purchasing or obtaining a temporary license, configure your application
 - **Purchase:** [Buy Aspose Licensing](https://purchase.aspose.com/buy)
 - **Free Trial:** [Start a Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 We hope this guide helps you implement deskewing features efficiently in your Java applications using Aspose.Imaging. Happy coding!
 

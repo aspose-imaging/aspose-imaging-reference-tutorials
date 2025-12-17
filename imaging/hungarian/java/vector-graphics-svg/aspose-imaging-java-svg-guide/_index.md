@@ -171,7 +171,7 @@ Gratulálunk! Sikeresen megtanultad, hogyan tölthetsz be és menthetsz SVG kép
 
 **Következő lépések:**
 - Fedezze fel az Aspose.Imaging egyéb funkcióit, például a képtranszformációkat és a szűrést.
-- Csatlakozz a [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/10) hogy megosszák a meglátásaikat, vagy tanácsot kérjenek más fejlesztőktől.
+- Csatlakozz a [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/14) hogy megosszák a meglátásaikat, vagy tanácsot kérjenek más fejlesztőktől.
 
 Készen állsz, hogy Java projektjeidet a következő szintre emeld? Merülj el ezeknek a megoldásoknak a bevezetésében még ma!
 
@@ -199,7 +199,7 @@ Készen állsz, hogy Java projektjeidet a következő szintre emeld? Merülj el 
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió letöltése](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Kezdje el az Aspose.Imaging Java-ba való integrálását még ma, és egyszerűsítse képfeldolgozási munkafolyamatait!
 

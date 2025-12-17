@@ -149,7 +149,7 @@ A3: 「パフォーマンスに関する考慮事項」セクションで説明�
 A4: よくある問題としては、ファイルパスの誤り、不適切な構成設定、サポートされていない画像形式などが挙げられます。パスが正しいこと、構成が要件を満たしていることを常に確認してください。
 
 **Q5: Aspose.Imaging に関する詳細なリソースはどこで入手できますか?**
-A5: 訪問 [Aspose ドキュメント](https://reference.aspose.com/imaging/net/) 包括的なガイドと [フォーラム](https://forum.aspose.com/c/imaging/10) コミュニティサポートのため。
+A5: 訪問 [Aspose ドキュメント](https://reference.aspose.com/imaging/net/) 包括的なガイドと [フォーラム](https://forum.aspose.com/c/imaging/14) コミュニティサポートのため。
 
 ## リソース
 - **ドキュメント:** [Aspose Imaging .NET リファレンス](https://reference.aspose.com/imaging/net/)
@@ -157,7 +157,7 @@ A5: 訪問 [Aspose ドキュメント](https://reference.aspose.com/imaging/net/
 - **購入：** [ライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [試用版ダウンロード](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス:** [リクエストはこちら](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Aspose フォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Aspose フォーラム](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

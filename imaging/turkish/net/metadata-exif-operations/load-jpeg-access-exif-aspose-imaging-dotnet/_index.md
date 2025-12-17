@@ -172,7 +172,7 @@ Daha detaylı bilgi için şu kaynaklara göz atın:
 - **Satın almak:** [Aspose Lisanslama Seçeneklerini Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Denemeleri Deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans:** [Geçici Lisans Talep Et](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Forum Desteği](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Forum Desteği](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Aspose.Imaging for .NET kullanarak JPEG görüntüleri ve meta verilerini işlemek için iyi bir donanıma sahip olmalısınız. İyi kodlamalar!
 

@@ -198,7 +198,7 @@ Bereit für mehr? Setzen Sie diese Techniken in Ihrem nächsten Projekt ein!
 - **Kaufen**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Versuchen Sie Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Fordern Sie eine temporäre Lizenz an](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit diesem umfassenden Leitfaden sind Sie nun bestens vorbereitet, die Bildbearbeitung mit Aspose.Imaging in Java zu meistern. Viel Spaß beim Programmieren!
 

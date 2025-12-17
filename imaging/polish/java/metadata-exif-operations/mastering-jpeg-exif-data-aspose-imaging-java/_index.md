@@ -169,7 +169,7 @@ A3: Biblioteka będzie prawidłowo obsługiwać takie przypadki, zwracając wart
 A4: Wersja próbna może mieć ograniczenia użytkowania, takie jak znak wodny lub limity przetwarzania.
 
 **P5: Gdzie mogę uzyskać pomoc, jeśli napotkam problemy z Aspose.Imaging?**
-A5: Odwiedź [Fora Aspose](https://forum.aspose.com/c/imaging/10) o wsparcie społeczności i władz.
+A5: Odwiedź [Fora Aspose](https://forum.aspose.com/c/imaging/14) o wsparcie społeczności i władz.
 
 ## Zasoby
 
@@ -178,7 +178,7 @@ A5: Odwiedź [Fora Aspose](https://forum.aspose.com/c/imaging/10) o wsparcie spo
 - **Zakup**:Uzyskaj licencję za pośrednictwem [Zakup Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**:Rozpocznij bezpłatny okres próbny na [Aspose.Imaging Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**:Poproś o tymczasową licencję od [Licencja tymczasowa Aspose](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**:Dołącz do dyskusji w [Fora wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**:Dołącz do dyskusji w [Fora wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij przygodę z Aspose.Imaging for Java i odkryj nowe możliwości przetwarzania obrazu już dziś!
 

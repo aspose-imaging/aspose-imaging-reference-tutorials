@@ -145,7 +145,7 @@ A5: 가능한 경우 이미지를 병렬로 처리하고, 메모리를 효율적
 - **라이센스 구매**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [시도해 보세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [여기에서 요청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [질문하기](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [질문하기](https://forum.aspose.com/c/imaging/14)
 
 지금 Aspose.Imaging for .NET으로 여정을 시작하고 이미지 메타데이터의 힘을 활용해 보세요!
 

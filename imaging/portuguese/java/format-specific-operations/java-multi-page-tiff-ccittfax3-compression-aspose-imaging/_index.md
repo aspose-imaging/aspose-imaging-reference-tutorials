@@ -245,7 +245,7 @@ Neste tutorial, você aprendeu a criar arquivos TIFF de várias páginas usando 
 - **Comprar**: https://purchase.aspose.com/buy
 - **Teste grátis**: https://releases.aspose.com/imaging/java/
 - **Licença Temporária**: https://purchase.aspose.com/temporary-license/
-- **Apoiar**: https://forum.aspose.com/c/imaging/10
+- **Apoiar**: https://forum.aspose.com/c/imaging/14
 
 Agora que você está equipado com o conhecimento, comece a implementar e explorar essas técnicas em seus projetos Java!
 

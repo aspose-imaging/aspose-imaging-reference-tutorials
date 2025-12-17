@@ -165,7 +165,7 @@ A5: Ja, Aspose.Imaging ondersteunt een breed scala aan formaten, waaronder JPEG,
 - **Koop een licentie**: Bezoek [Aspose Aankooppagina](https://purchase.aspose.com/buy) voor licentieopties.
 - **Gratis proefperiode**: Test functies door te downloaden van [Uitgaven](https://releases.aspose.com/imaging/net/).
 - **Tijdelijke licentie**: Vraag een tijdelijke licentie aan bij [Aspose-licenties](https://purchase.aspose.com/temporary-license/).
-- **Ondersteuning en gemeenschap**: Neem deel aan discussies of zoek hulp op de [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Ondersteuning en gemeenschap**: Neem deel aan discussies of zoek hulp op de [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

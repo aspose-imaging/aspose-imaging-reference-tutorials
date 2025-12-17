@@ -209,7 +209,7 @@ Bây giờ bạn đã thành thạo cách tải, cắt các tệp EMF và chuy�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Tận dụng sức mạnh của Aspose.Imaging Java để nâng cao khả năng xử lý hình ảnh của bạn ngay hôm nay!
 

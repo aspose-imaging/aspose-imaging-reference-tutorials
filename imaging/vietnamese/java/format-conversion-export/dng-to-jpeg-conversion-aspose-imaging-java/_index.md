@@ -183,7 +183,7 @@ Sẵn sàng thử chưa? Hãy áp dụng các bước này vào dự án tiếp 
    Vâng, `JpegOptions` Lớp này cung cấp các phương thức để cấu hình chất lượng đầu ra và các tham số khác.
 
 5. **Tôi có thể nhận được hỗ trợ ở đâu nếu gặp vấn đề?**
-   Ghé thăm [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/10) để được cộng đồng hỗ trợ hoặc liên hệ trực tiếp với Aspose thông qua kênh hỗ trợ của họ.
+   Ghé thăm [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/14) để được cộng đồng hỗ trợ hoặc liên hệ trực tiếp với Aspose thông qua kênh hỗ trợ của họ.
 
 ## Tài nguyên
 

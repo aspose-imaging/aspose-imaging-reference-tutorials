@@ -138,7 +138,7 @@ Untuk lebih meningkatkan pengetahuan Anda, jelajahi fitur lain yang ditawarkan o
 - **Pembelian**: [Beli Lisensi](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulai Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Ajukan Permohonan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Selamat membuat kode, dan nikmati peningkatan gambar DICOM Anda dengan Aspose.Imaging!
 

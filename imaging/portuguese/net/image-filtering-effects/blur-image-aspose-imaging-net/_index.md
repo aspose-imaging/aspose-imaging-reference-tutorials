@@ -153,7 +153,7 @@ Você aprendeu como desfocar uma imagem usando o Aspose.Imaging para .NET, com e
 - **Comprar**: [Compre produtos Aspose](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Comece um teste gratuito](https://releases.aspose.com/imaging/net/)
 - **Licença Temporária**: [Obtenha sua licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -144,7 +144,7 @@ A5: अन्य लोकप्रिय विकल्पों में Ima
 - **खरीदना**: [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [शुरू हो जाओ](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [यहां अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -203,7 +203,7 @@ A5: पर जाएँ [Aspose दस्तावेज़ीकरण](https:/
 - **खरीदना**: https://purchase.aspose.com/buy
 - **मुफ्त परीक्षण**: https://releases.aspose.com/imaging/java/
 - **अस्थायी लाइसेंस**: https://purchase.aspose.com/temporary-license/
-- **सहायता**: https://forum.aspose.com/c/imaging/10
+- **सहायता**: https://forum.aspose.com/c/imaging/14
 
 जावा में Aspose.Imaging की अपनी समझ और अनुप्रयोग को और बेहतर बनाने के लिए इन संसाधनों का अन्वेषण करें। हैप्पी कोडिंग!
 

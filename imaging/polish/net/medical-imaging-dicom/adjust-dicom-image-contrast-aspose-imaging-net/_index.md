@@ -160,7 +160,7 @@ A5: Zdecydowanie. Jego solidny zestaw funkcji i optymalizacje wydajności sprawi
 - **Zakup**: [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Wypróbuj za darmo](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa**: [Poproś o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Forum wsparcia Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Forum wsparcia Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Dzięki tym zasobom i temu przewodnikowi jesteś dobrze wyposażony, aby zacząć pracę z obrazami DICOM przy użyciu Aspose.Imaging w .NET. Miłego kodowania!
 

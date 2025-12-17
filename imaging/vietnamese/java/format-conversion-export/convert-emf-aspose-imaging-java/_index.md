@@ -186,7 +186,7 @@ Bây giờ bạn đã thành thạo việc chuyển đổi hình ảnh EMF sang 
    - Các vấn đề thường gặp bao gồm đường dẫn tệp không chính xác hoặc chuyển đổi định dạng không được hỗ trợ; hãy đảm bảo thiết lập của bạn khớp với các bước hướng dẫn.
 
 5. **Tôi có thể tìm thấy sự hỗ trợ cho Aspose.Imaging ở đâu?**
-   - Ghé thăm [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10) để được hỗ trợ và kết nối với những người dùng khác.
+   - Ghé thăm [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14) để được hỗ trợ và kết nối với những người dùng khác.
 
 ## Tài nguyên
 

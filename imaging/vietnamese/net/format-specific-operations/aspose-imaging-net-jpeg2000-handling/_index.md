@@ -179,7 +179,7 @@ Các vấn đề thường gặp bao gồm không xử lý đúng đối tượn
 Thăm nom [Trang web của Aspose](https://purchase.aspose.com/temporary-license/) để yêu cầu cấp giấy phép tạm thời.
 
 ### Tôi có thể tìm hỗ trợ ở đâu nếu gặp sự cố với Aspose.Imaging .NET?
-Để được hỗ trợ, hãy truy cập [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10) hoặc tham khảo tài liệu và nguồn tài nguyên phong phú của họ.
+Để được hỗ trợ, hãy truy cập [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14) hoặc tham khảo tài liệu và nguồn tài nguyên phong phú của họ.
 
 ## Tài nguyên
 - **Tài liệu:** Khám phá hướng dẫn chi tiết tại [Tài liệu Aspose](https://reference.aspose.com/imaging/net/)

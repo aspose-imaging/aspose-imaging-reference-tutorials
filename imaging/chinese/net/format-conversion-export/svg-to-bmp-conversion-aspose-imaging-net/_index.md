@@ -142,7 +142,7 @@ image.Save("@YOUR_OUTPUT_DIRECTORY/test.svg_out.bmp", options);
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/net/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10)
+- [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 使用 Aspose.Imaging for .NET 开启您的图像转换之旅，探索这个强大库提供的各种可能性。祝您编码愉快！
 

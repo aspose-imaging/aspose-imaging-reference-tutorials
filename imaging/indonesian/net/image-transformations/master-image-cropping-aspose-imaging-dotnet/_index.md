@@ -150,7 +150,7 @@ A5: Tugasnya meliputi pengubahan ukuran, konversi format, dan pengeditan lanjuta
 - **Pembelian:** Jelajahi opsi lisensi di [Aspose Pembelian](https://purchase.aspose.com/buy).
 - **Uji Coba Gratis:** Mulailah dengan uji coba melalui [Di Sini](https://releases.aspose.com/imaging/net/).
 - **Lisensi Sementara:** Minta satu untuk pengujian lanjutan melalui [tautan ini](https://purchase.aspose.com/temporary-license/).
-- **Mendukung:** Bergabunglah dengan forum komunitas di [Dukungan Aspose](https://forum.aspose.com/c/imaging/10).
+- **Mendukung:** Bergabunglah dengan forum komunitas di [Dukungan Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

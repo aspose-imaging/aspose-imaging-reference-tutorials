@@ -171,7 +171,7 @@ U beschikt nu over de tools om JPEG- en TIFF-afbeeldingen te converteren naar DI
 - **Aankoop**: [Koop Aspose Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer gratis](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Na het volgen van deze tutorial bent u goed toegerust om beeldconversietaken in uw medische beeldvormingsprojecten uit te voeren met Aspose.Imaging voor Java.
 

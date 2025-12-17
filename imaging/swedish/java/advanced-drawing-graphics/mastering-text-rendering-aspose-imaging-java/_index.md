@@ -223,7 +223,7 @@ I den här handledningen har du lärt dig hur du renderar **text with fonts** i 
 - **Download:** Hämta den senaste versionen av Aspose.Imaging från [Releases Page](https://releases.aspose.com/imaging/java/).  
 - **Purchase:** Skaffa en full licens via [Aspose Purchase Page](https://purchase.aspose.com/buy).  
 - **Free Trial:** Prova Aspose.Imaging med en gratis provperiod på [Temporary License Page](https://purchase.aspose.com/temporary-license/).  
-- **Support:** Delta i diskussioner eller sök hjälp på [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Support:** Delta i diskussioner eller sök hjälp på [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 ---
 

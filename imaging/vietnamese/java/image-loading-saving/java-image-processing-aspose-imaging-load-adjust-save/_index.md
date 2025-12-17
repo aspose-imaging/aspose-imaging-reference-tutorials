@@ -215,7 +215,7 @@ Bây giờ bạn đã nắm vững những điều cơ bản về xử lý hình
 - **Mua**: [Mua sản phẩm Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu tại đây](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bắt đầu hành trình xử lý hình ảnh Java của bạn với Aspose.Imaging và mở khóa những khả năng mới trong việc chỉnh sửa hình ảnh kỹ thuật số!
 

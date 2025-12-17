@@ -201,7 +201,7 @@ Ez az oktatóanyag felvértezte Önt azzal a tudással, amellyel több képform�
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió letöltése](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10) 
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14) 
 
 Az útmutató követésével jó úton haladsz a képfeldolgozás elsajátítása felé az Aspose.Imaging Java segítségével. Jó kódolást!
 

@@ -158,7 +158,7 @@ En este tutorial, exploramos cómo abrir y procesar imágenes mediante secuencia
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Versión de prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Solicitud de licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Esta guía completa debería ayudarle a implementar y utilizar de manera eficiente Aspose.Imaging Java para el procesamiento de imágenes basado en transmisiones, mejorando el rendimiento y las capacidades de sus aplicaciones.
 

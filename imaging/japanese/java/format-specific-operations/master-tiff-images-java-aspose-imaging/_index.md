@@ -166,7 +166,7 @@ Aspose.Imaging for Java を使用して TIFF 画像を効率的に読み込み�
 - [購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 この包括的なガイドに従うことで、Aspose.Imaging for Java の潜在能力を最大限に活用し、TIFF 画像を効果的に管理できるようになります。コーディングを楽しみましょう！
 

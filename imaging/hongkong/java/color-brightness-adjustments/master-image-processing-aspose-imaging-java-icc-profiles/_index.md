@@ -201,7 +201,7 @@ try (JpegImage image = (JpegImage) Image.load(dataDir + "aspose-logo_tn.jpg")) {
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/java/)
 - [臨時執照](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 探索這些資源，加深您對 Aspose.Imaging for Java 的理解，並提升您的影像處理能力。祝您編碼愉快！
 

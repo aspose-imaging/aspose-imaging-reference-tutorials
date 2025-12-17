@@ -136,7 +136,7 @@ Pro podrobné informace se podívejte na oficiální dokumentaci a odkazy ke sta
 - **Zakoupit licenci**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte Aspose.Imaging zdarma](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Podpora Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Podpora Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 Doufáme, že vám tento průvodce pomohl zvládnout zpracování obrazu pomocí Aspose.Imaging pro .NET. Přejeme vám hodně štěstí při programování!
 
 {{< /blocks/products/pf/tutorial-page-section >}}

@@ -181,7 +181,7 @@ Készen állsz kipróbálni? Alkalmazd a ma tanultakat, és nézd meg az eredmé
 - [Licencelési lehetőségek vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió letöltése](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Támogatási és közösségi fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási és közösségi fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével most már képes leszel hatékonyan kezelni a képformátum-konverziókat az Aspose.Imaging Java használatával. Jó kódolást!
 

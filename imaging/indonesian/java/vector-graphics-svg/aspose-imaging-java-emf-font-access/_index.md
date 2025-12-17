@@ -237,7 +237,7 @@ A5: Meskipun operasi Aspose.Imaging pada dasarnya tidak aman terhadap thread, An
 - **Pembelian:** [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Coba Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda dengan Aspose.Imaging untuk Java hari ini dan buka potensi penuh pemrosesan gambar dalam aplikasi Anda!
 

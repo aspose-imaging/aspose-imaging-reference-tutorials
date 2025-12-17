@@ -168,7 +168,7 @@ foreach (var pageIndex in pagesToExport)
 - [購買](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/net/)
 - [臨時執照](https://purchase.aspose.com/temporary-license/)
-- [支援論壇](https://forum.aspose.com/c/imaging/10)
+- [支援論壇](https://forum.aspose.com/c/imaging/14)
 
 探索這些資源，增強您對 Aspose.Imaging .NET 處理 DjVu 檔案的理解和應用。祝您編碼愉快！
 

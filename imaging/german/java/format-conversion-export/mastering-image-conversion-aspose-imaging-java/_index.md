@@ -212,7 +212,7 @@ Sind Sie bereit, Ihre Fähigkeiten unter Beweis zu stellen? Beginnen Sie noch he
 - [Erwerben Sie eine Lizenz](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Begeben Sie sich mit Aspose.Imaging für Java auf Ihre Reise in die Bildverarbeitung und steigern Sie noch heute die Qualität Ihrer Projekte!
 

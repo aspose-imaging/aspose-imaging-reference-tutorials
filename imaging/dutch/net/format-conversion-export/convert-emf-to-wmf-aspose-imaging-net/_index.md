@@ -172,7 +172,7 @@ Voor verdere verkenning kunt u experimenteren met andere afbeeldingsformaten die
 - **Licentie kopen:** [Koop Aspose.License](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Gratis proefperiode starten](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie:** [Tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum:** [Aspose.Imaging-ondersteuning](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum:** [Aspose.Imaging-ondersteuning](https://forum.aspose.com/c/imaging/14)
 
 Begin vandaag nog met Aspose.Imaging voor .NET en ontdek nieuwe mogelijkheden op het gebied van beeldverwerking!
 

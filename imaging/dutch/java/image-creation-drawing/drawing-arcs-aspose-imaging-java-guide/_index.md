@@ -192,7 +192,7 @@ Ontdek de Graphics-klasse in de API-documentatie. Deze biedt methoden om verschi
 - **Aankoop**: [Koop Aspose-licenties](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer Aspose.Imaging gratis](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Hier aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Verken deze bronnen om je kennis te verdiepen en de mogelijkheden van Aspose.Imaging Java in je projecten uit te breiden. Veel plezier met coderen!
 

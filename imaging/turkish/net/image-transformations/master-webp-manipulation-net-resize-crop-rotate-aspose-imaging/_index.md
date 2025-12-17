@@ -216,7 +216,7 @@ Bu çözümleri bugün projelerinize uygulayın!
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Başvurusu Yapın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET kullanarak görüntü düzenleme yolculuğunuza güvenle başlayın!
 

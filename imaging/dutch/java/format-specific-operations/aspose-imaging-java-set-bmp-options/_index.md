@@ -156,7 +156,7 @@ Door BMP-opties in te stellen, kunnen ontwikkelaars de eigenschappen van afbeeld
 
 **Vraag 2: Hoe los ik licentieproblemen met Aspose.Imaging op?**
 
-Zorg ervoor dat het pad naar uw licentiebestand correct is en dat u een geldige versie van de bibliotheek gebruikt. Raadpleeg de volgende bronnen als de problemen aanhouden: [Aspose's ondersteuningsforum](https://forum.aspose.com/c/imaging/10).
+Zorg ervoor dat het pad naar uw licentiebestand correct is en dat u een geldige versie van de bibliotheek gebruikt. Raadpleeg de volgende bronnen als de problemen aanhouden: [Aspose's ondersteuningsforum](https://forum.aspose.com/c/imaging/14).
 
 **V3: Kan ik Aspose.Imaging gebruiken voor batchverwerking van afbeeldingen?**
 
@@ -177,7 +177,7 @@ Hoewel er andere bibliotheken bestaan, biedt Aspose.Imaging uitgebreide onderste
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Aspose.Imaging gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke vergunning aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Deze tutorial biedt de basis die je nodig hebt om BMP-opties effectief te implementeren in je Java-projecten met Aspose.Imaging. Veel plezier met coderen!
 

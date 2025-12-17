@@ -175,7 +175,7 @@ Utils.deleteFile(output1);
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جرب Aspose.Imaging مجانًا](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 يهدف هذا الدليل إلى تزويدك بكل ما تحتاجه لبدء العمل بفعالية مع صور TIFF في جافا باستخدام Aspose.Imaging. برمجة ممتعة!
 

@@ -210,7 +210,7 @@ Pronti a fare il passo successivo? Provate a implementare queste tecniche nei vo
 - **Acquistare:** [Acquista Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Inizia la tua prova gratuita](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea:** [Ottieni una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Seguendo questo tutorial, sarai ora in grado di sfruttare Aspose.Imaging per Java nei tuoi progetti. Buona programmazione!
 

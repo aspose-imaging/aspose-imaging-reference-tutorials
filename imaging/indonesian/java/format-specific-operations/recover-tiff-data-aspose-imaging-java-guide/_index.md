@@ -227,7 +227,7 @@ Selanjutnya, pertimbangkan untuk menjelajahi fitur-fitur Aspose.Imaging yang leb
    - Ya, dengan perizinan yang tepat, ini ideal untuk aplikasi profesional dan perusahaan.
 
 5. **Di mana saya dapat menemukan lebih banyak sumber daya tentang Aspose.Imaging?**
-   - Mengunjungi [Dokumentasi Aspose](https://reference.aspose.com/imaging/java/) dan [forum dukungan](https://forum.aspose.com/c/imaging/10) untuk panduan terperinci dan bantuan komunitas.
+   - Mengunjungi [Dokumentasi Aspose](https://reference.aspose.com/imaging/java/) dan [forum dukungan](https://forum.aspose.com/c/imaging/14) untuk panduan terperinci dan bantuan komunitas.
 
 ## Sumber daya
 
@@ -236,7 +236,7 @@ Selanjutnya, pertimbangkan untuk menjelajahi fitur-fitur Aspose.Imaging yang leb
 - **Pembelian**: https://purchase.aspose.com/beli
 - **Uji Coba Gratis**: https://releases.aspose.com/imaging/java/
 - **Lisensi Sementara**: https://purchase.aspose.com/lisensi-sementara/
-- **Mendukung**: https://forum.aspose.com/c/imaging/10
+- **Mendukung**: https://forum.aspose.com/c/imaging/14
 
 Mulailah perjalanan Anda untuk menguasai pemulihan gambar TIFF dengan Aspose.Imaging untuk Java hari ini!
 

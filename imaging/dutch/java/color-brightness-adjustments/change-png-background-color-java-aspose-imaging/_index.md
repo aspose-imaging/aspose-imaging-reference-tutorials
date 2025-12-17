@@ -189,7 +189,7 @@ Klaar om wat je hebt geleerd in de praktijk te brengen? Probeer de oplossing van
    - Bezoek [Aspose Tijdelijke Licentie](https://purchase.aspose.com/temporary-license/) voor meer informatie over hoe u deze kunt verkrijgen.
 
 5. **Welke ondersteuningsopties zijn beschikbaar als ik problemen ondervind?**
-   - De [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10) biedt hulp van de community en het Aspose-team.
+   - De [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14) biedt hulp van de community en het Aspose-team.
 
 ## Bronnen
 

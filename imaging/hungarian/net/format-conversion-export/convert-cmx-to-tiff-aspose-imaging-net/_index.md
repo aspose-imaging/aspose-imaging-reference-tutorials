@@ -182,7 +182,7 @@ Készen állsz arra, hogy ezeket a készségeket a gyakorlatban is alkalmazd? Me
 4. **Mit tegyek, ha a TIFF fájljaim sérültnek tűnnek a konvertálás után?**
    - Ellenőrizze, hogy a raszterezési beállítások megfelelnek-e a kép követelményeinek, és ellenőrizze a fájlelérési utakat hibák szempontjából.
 5. **Van elérhető támogatás, ha problémákba ütközöm az Aspose.Imaging használatával?**
-   - Igen, látogassa meg a [Aspose fórum](https://forum.aspose.com/c/imaging/10) közösségi támogatásért, vagy vegye fel a kapcsolatot közvetlenül a támogató csapatukkal.
+   - Igen, látogassa meg a [Aspose fórum](https://forum.aspose.com/c/imaging/14) közösségi támogatásért, vagy vegye fel a kapcsolatot közvetlenül a támogató csapatukkal.
 
 ## Erőforrás
 - [Aspose.Imaging dokumentáció](https://reference.aspose.com/imaging/net/)

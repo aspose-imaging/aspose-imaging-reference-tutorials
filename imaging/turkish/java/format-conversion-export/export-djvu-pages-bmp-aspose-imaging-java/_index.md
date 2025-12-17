@@ -197,7 +197,7 @@ Bu kılavuzu takip ederek, DJVU sayfalarını BMP görüntülerine etkili bir ş
 - **Lisans Satın Al:** [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu:** [Aspose.Görüntüleme Desteği](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu:** [Aspose.Görüntüleme Desteği](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging Java ile belge dönüştürmede ustalaşma yolculuğunuza bugün başlayın!
 

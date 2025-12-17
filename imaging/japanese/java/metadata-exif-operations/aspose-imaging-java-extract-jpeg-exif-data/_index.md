@@ -212,7 +212,7 @@ A4: 訪問 [Aspose の一時ライセンスページ](https://purchase.aspose.co
 
 **Q5: 問題が発生した場合、どのようなリソースを利用できますか?**
 
-A5: Asposeコミュニティフォーラムは、サポートを求めるのに最適な場所です。 [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/10) サポートとディスカッションのため。
+A5: Asposeコミュニティフォーラムは、サポートを求めるのに最適な場所です。 [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/14) サポートとディスカッションのため。
 
 ## リソース
 
@@ -221,7 +221,7 @@ A5: Asposeコミュニティフォーラムは、サポートを求めるのに�
 - **購入**ライセンスオプションの詳細については、 [Aspose 購入ページ](https://purchase.aspose.com/buy)
 - **無料トライアル**Aspose.Imaging の機能を無料トライアルでお試しください。 [Aspose ダウンロード](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**延長アクセスを申請するには [Aspose 一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- **サポート**コミュニティに参加する [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**コミュニティに参加する [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

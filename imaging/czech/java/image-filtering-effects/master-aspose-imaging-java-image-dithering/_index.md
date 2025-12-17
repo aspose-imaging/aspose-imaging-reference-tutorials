@@ -203,7 +203,7 @@ Pro další zkoumání a podporu:
 - **Licence k zakoupení:** [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Vyzkoušejte Aspose.Imaging zdarma](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory:** [Podpora Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory:** [Podpora Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Začněte ještě dnes prozkoumávat možnosti s Aspose.Imaging pro Javu a vylepšete své projekty zpracování obrazu!
 

@@ -155,7 +155,7 @@ Dalam panduan ini, Anda telah mempelajari cara memodifikasi data JPEG EXIF mengg
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Unduh Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Permintaan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda untuk menguasai modifikasi JPEG EXIF dengan Aspose.Imaging hari ini!
 

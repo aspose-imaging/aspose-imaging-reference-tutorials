@@ -162,7 +162,7 @@ A5: Képek szekvenciális feldolgozása és a memória hatékony kezelése az ob
 - **Vásárlás:** [Vásároljon most](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Kezdje itt](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Közösségi fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Közösségi fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezen források felhasználásával tovább bővítheted az Aspose.Imaging for Java megértését és alkalmazását. Jó kódolást!
 

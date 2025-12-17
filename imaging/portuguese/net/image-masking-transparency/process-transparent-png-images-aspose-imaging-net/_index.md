@@ -145,7 +145,7 @@ Neste tutorial, você aprendeu a carregar uma imagem PNG, extrair e manipular se
 - Explore outros formatos de arquivo suportados pelo Aspose.Imaging.
 
 **Chamada para ação:**
-Experimente implementar esses recursos em seu próximo projeto para ver como o Aspose.Imaging para .NET pode otimizar as tarefas de processamento de imagens. Compartilhe suas experiências ou tire suas dúvidas no [Fórum Aspose](https://forum.aspose.com/c/imaging/10) se você encontrar algum desafio.
+Experimente implementar esses recursos em seu próximo projeto para ver como o Aspose.Imaging para .NET pode otimizar as tarefas de processamento de imagens. Compartilhe suas experiências ou tire suas dúvidas no [Fórum Aspose](https://forum.aspose.com/c/imaging/14) se você encontrar algum desafio.
 
 ## Seção de perguntas frequentes
 1. **O que é Aspose.Imaging para .NET?**
@@ -165,7 +165,7 @@ Experimente implementar esses recursos em seu próximo projeto para ver como o A
 - [Opções de compra](https://purchase.aspose.com/buy)
 - [Acesso de teste gratuito](https://releases.aspose.com/imaging/net/)
 - [Aquisição de Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte e Comunidade](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte e Comunidade](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

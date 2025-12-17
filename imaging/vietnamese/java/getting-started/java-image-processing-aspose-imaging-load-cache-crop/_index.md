@@ -190,7 +190,7 @@ Bước tiếp theo, hãy cân nhắc khám phá các tính năng bổ sung như
 - **Mua:** [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Aspose.Imaging dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn hình ảnh Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn hình ảnh Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bắt đầu hành trình xử lý hình ảnh nâng cao với Aspose.Imaging for Java và khai phá tiềm năng mới trong các ứng dụng của bạn!
 

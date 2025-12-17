@@ -182,7 +182,7 @@ Utforska fler funktioner som erbjuds av Aspose.Imaging i deras [officiell dokume
    - Använd cacheinställningar för att hantera resursallokering effektivt och överväg batchbearbetningstekniker.
 
 4. **Finns det någon support tillgänglig om jag stöter på problem med Aspose.Imaging?**
-   - Ja, du kan få hjälp på [Aspose Supportforum](https://forum.aspose.com/c/imaging/10).
+   - Ja, du kan få hjälp på [Aspose Supportforum](https://forum.aspose.com/c/imaging/14).
 
 5. **Vilka är några bästa metoder för att använda anpassade paletter i GIF-filer?**
    - Välj färger som stämmer väl överens med dina designmål och testa olika kombinationer för att uppnå optimala resultat.

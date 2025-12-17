@@ -187,7 +187,7 @@ Absolut, es ist so konzipiert, dass es mit einem robusten Lizenzmodell sowohl di
 
 **5. Wo bekomme ich bei Bedarf Unterstützung?**
 
-Besuchen Sie die [Aspose-Forum](https://forum.aspose.com/c/imaging/10) für Community-Hilfe oder kontaktieren Sie das Support-Team direkt über die Website.
+Besuchen Sie die [Aspose-Forum](https://forum.aspose.com/c/imaging/14) für Community-Hilfe oder kontaktieren Sie das Support-Team direkt über die Website.
 
 ## Ressourcen
 

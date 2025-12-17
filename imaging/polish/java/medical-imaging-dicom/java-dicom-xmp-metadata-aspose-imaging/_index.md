@@ -228,7 +228,7 @@ W tym samouczku nauczyłeś się, jak ładować, modyfikować i zapisywać obraz
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Zacznij już dziś integrować te potężne funkcje przetwarzania obrazu ze swoimi aplikacjami Java i usprawnij obsługę obrazów DICOM!
 

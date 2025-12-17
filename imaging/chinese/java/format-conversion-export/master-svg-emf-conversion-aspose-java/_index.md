@@ -204,7 +204,7 @@ A5：使用批处理功能并确保您的 JVM 具有足够的内存分配以有�
 - [下载 Aspose.Imaging for Java](https://releases.aspose.com/imaging/java/)
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用和临时许可证](https://releases.aspose.com/imaging/java/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 深入研究这些资源，扩展您使用 Aspose.Imaging for Java 的知识和能力。祝您编程愉快！
 

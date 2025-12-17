@@ -153,7 +153,7 @@ A5: ضبط خصائص الضغط باستخدام `JpegOptions` فئة لتخص�
 - **شراء الترخيص**: [شراء Aspose Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [تنزيلات Aspose Imaging](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **منتديات الدعم**: [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **منتديات الدعم**: [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -209,7 +209,7 @@ Teraz opanowałeś ładowanie, przycinanie plików EMF i konwertowanie ich do fo
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Skorzystaj z potencjału pakietu Aspose.Imaging Java i już dziś zwiększ możliwości przetwarzania obrazów!
 

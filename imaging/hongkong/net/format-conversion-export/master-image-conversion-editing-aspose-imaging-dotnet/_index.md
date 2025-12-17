@@ -219,7 +219,7 @@ A5：是的，Aspose.Imaging 允許全面自訂元資料欄位以滿足您的特
 - **購買：** [購買許可證](https://purchase.aspose.com/buy)
 - **免費試用：** [免費試用 Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **臨時執照：** [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援論壇：** [Aspose 支援](https://forum.aspose.com/c/imaging/10) 
+- **支援論壇：** [Aspose 支援](https://forum.aspose.com/c/imaging/14) 
 
 立即踏上 Aspose.Imaging for .NET 之旅，徹底改變您處理影像的方式！
 

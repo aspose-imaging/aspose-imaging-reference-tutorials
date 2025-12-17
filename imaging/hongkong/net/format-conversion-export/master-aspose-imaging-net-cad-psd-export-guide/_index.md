@@ -168,14 +168,14 @@ if (File.Exists(outputFilePath))
 4. **我可以處理的 CAD 檔案的大小有限制嗎？**
    - 處理大檔案可能需要更多記憶體；請根據系統功能進行最佳化。
 5. **如果遇到問題，我可以在哪裡找到支援？**
-   - 訪問 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10) 尋求幫助和社區建議。
+   - 訪問 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14) 尋求幫助和社區建議。
 
 ## 資源
 - **文件**：探索完整 [Aspose.Imaging .NET文檔](https://reference.aspose.com/imaging/net/)
 - **下載**：從取得最新版本 [發布](https://releases.aspose.com/imaging/net/)
 - **購買和免費試用**：造訪試用版或透過以下方式購買許可證 [Aspose 購買](https://purchase.aspose.com/buy) 和 [免費試用](https://releases。aspose.com/imaging/net/).
 - **臨時執照**：申請臨時許可證 [Aspose 臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**：獲取協助 [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**：獲取協助 [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

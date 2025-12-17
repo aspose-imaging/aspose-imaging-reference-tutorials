@@ -196,7 +196,7 @@ Aspose.Imaging의 더 많은 기능을 알아보려면 포괄적인 설명서를
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허 요청](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이러한 기술을 익히면 Java 애플리케이션에서 복잡한 이미지 처리 작업을 처리하는 데 필요한 역량을 갖추게 될 것입니다. 즐거운 코딩 되세요!
 

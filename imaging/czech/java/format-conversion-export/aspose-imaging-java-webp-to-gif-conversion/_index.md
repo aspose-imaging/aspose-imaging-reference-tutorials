@@ -197,7 +197,7 @@ Jste připraveni vyzkoušet implementaci tohoto řešení? Ponořte se do Aspose
 - **Nákup:** Návštěva [Nákupní stránka Aspose](https://purchase.aspose.com/buy) pro možnosti licencování
 - **Bezplatná zkušební verze:** Začněte se zkušební verzí na [Odkaz na bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** Získejte dočasný přístup prostřednictvím [Stránka s dočasnou licencí](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** Zapojte se do komunity na [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** Zapojte se do komunity na [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

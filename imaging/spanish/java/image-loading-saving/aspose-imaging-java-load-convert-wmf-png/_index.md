@@ -202,7 +202,7 @@ Siguiendo esta guía, ha aprendido a cargar y convertir archivos WMF a PNG con A
    - Utilice la configuración de rasterización adecuada y supervise los recursos del sistema durante el procesamiento por lotes.
 
 5. **¿Cómo puedo obtener ayuda si encuentro problemas?**
-   - Visita el [Foro de Aspose.Imaging](https://forum.aspose.com/c/imaging/10) para obtener apoyo de la comunidad o comuníquese con su equipo de soporte profesional.
+   - Visita el [Foro de Aspose.Imaging](https://forum.aspose.com/c/imaging/14) para obtener apoyo de la comunidad o comuníquese con su equipo de soporte profesional.
 
 ## Recursos
 

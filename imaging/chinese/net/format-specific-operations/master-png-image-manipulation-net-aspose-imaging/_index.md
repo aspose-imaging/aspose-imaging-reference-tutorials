@@ -206,7 +206,7 @@ png.Save(Path.Combine("YOUR_OUTPUT_DIRECTORY", "SpecifyBitDepth_out.png"), optio
 - **购买**： [Aspose.Imaging 购买页面](https://purchase.aspose.com/buy)
 - **免费试用**： [开始免费试用](https://releases.aspose.com/imaging/net/)
 - **临时执照**： [申请临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持论坛**： [Aspose 成像支持](https://forum.aspose.com/c/imaging/10)
+- **支持论坛**： [Aspose 成像支持](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -213,7 +213,7 @@ By following this guide, you've learned how to draw ellipses with both dotted an
 - **Purchase**: https://purchase.aspose.com/buy
 - **Free Trial**: https://releases.aspose.com/imaging/java/
 - **Temporary License**: https://purchase.aspose.com/temporary-license/
-- **Support**: https://forum.aspose.com/c/imaging/10
+- **Support**: https://forum.aspose.com/c/imaging/14
 
 We hope you found this tutorial helpful. Happy coding!
 

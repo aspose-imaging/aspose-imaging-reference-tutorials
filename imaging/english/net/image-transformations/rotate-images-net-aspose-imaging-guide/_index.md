@@ -161,7 +161,7 @@ For further reading and assistance:
 - **Purchase**: [Buy a License](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Aspose.Imaging Now](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Request Here](https://purchase.aspose.com/temporary-license/)
-- **Support**: Visit the [Aspose Forum](https://forum.aspose.com/c/imaging/10) for help and community discussions.
+- **Support**: Visit the [Aspose Forum](https://forum.aspose.com/c/imaging/14) for help and community discussions.
 
 By mastering these techniques, you’ll be well-equipped to tackle a wide range of image processing tasks with confidence. Happy coding!
 

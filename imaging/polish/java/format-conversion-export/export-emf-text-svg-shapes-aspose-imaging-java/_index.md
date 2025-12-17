@@ -187,7 +187,7 @@ Zdecydowanie. Jest on zaprojektowany tak, aby sprostać wymaganiom zarówno uży
 
 **5. Gdzie mogę uzyskać pomoc, jeśli zajdzie taka potrzeba?**
 
-Odwiedź [Forum Aspose](https://forum.aspose.com/c/imaging/10) Jeśli potrzebujesz pomocy ze strony społeczności, możesz skontaktować się z zespołem wsparcia bezpośrednio za pośrednictwem ich strony internetowej.
+Odwiedź [Forum Aspose](https://forum.aspose.com/c/imaging/14) Jeśli potrzebujesz pomocy ze strony społeczności, możesz skontaktować się z zespołem wsparcia bezpośrednio za pośrednictwem ich strony internetowej.
 
 ## Zasoby
 

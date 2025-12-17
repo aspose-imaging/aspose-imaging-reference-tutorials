@@ -193,7 +193,7 @@ Wypróbuj te rozwiązania w swoich projektach już dziś!
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/net/)
 - [Wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij już dziś optymalizację obsługi plików TIFF dzięki Aspose.Imaging w środowisku .NET!
 

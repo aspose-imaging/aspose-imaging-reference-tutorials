@@ -194,7 +194,7 @@ A: 빌드 도구 설정을 확인하고, 올바른 버전이 참조되는지 확
 - **구매:** [Buy Aspose.Imaging for Java](https://purchase.aspose.com/buy)
 - **무료 체험:** [Aspose website](https://releases.aspose.com/imaging/java/)에서 무료 체험을 시작하세요
 - **임시 라이선스:** [Aspose Purchase](https://purchase.aspose.com/temporary-license/)를 통해 임시 라이선스를 신청하세요
-- **지원:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)에서 토론에 참여하세요
+- **지원:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)에서 토론에 참여하세요
 
 오늘 바로 곡선을 그려 보세요, Aspose.Imaging으로 Java 프로젝트를 한 단계 끌어올리세요!
 

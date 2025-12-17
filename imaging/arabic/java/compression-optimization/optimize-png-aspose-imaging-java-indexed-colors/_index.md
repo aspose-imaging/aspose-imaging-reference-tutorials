@@ -228,7 +228,7 @@ image.save(outDir + "result.png", options);
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جرب Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [الحصول على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى Aspose للتصوير](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى Aspose للتصوير](https://forum.aspose.com/c/imaging/14)
 
 من خلال استكشاف هذه الموارد، يمكنك تعميق فهمك لـ Aspose.Imaging وإمكاناته. برمجة ممتعة!
 

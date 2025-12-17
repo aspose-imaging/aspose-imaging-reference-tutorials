@@ -168,14 +168,14 @@ Ezzel az útmutatóval elsajátítottad a CAD fájlok betöltését és exportá
 4. **Van-e korlátozás a feldolgozható CAD fájlok méretére?**
    - A nagy fájlok feldolgozása több memóriát igényelhet; optimalizálja szükség szerint a rendszer képességei alapján.
 5. **Hol találok támogatást, ha problémákba ütközöm?**
-   - Látogatás [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10) segítségért és közösségi tanácsért.
+   - Látogatás [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14) segítségért és közösségi tanácsért.
 
 ## Erőforrás
 - **Dokumentáció**Fedezze fel a teljes [Aspose.Imaging .NET dokumentáció](https://reference.aspose.com/imaging/net/)
 - **Letöltés**: Szerezd meg a legújabb verziót innen: [Kiadások](https://releases.aspose.com/imaging/net/)
 - **Vásárlás és ingyenes próbaverzió**Próbaverziók elérése vagy licenc vásárlása a következőn keresztül: [Aspose vásárlás](https://purchase.aspose.com/buy) és [Ingyenes próbaverziók](https://releases.aspose.com/imaging/net/).
 - **Ideiglenes engedély**: Ideiglenes engedélyt kérek a következőtől: [Aspose ideiglenes engedélyek](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**Segítség kérése a következőhöz: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**Segítség kérése a következőhöz: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

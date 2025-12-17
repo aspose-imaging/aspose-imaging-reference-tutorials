@@ -160,7 +160,7 @@ A: Sử dụng khối try-catch để quản lý các ngoại lệ có thể ph�
 A: Có, Aspose cung cấp các thư viện cho .NET, C++ và các nền tảng khác bên cạnh Java.
 
 **H: Tôi có được hỗ trợ nếu gặp sự cố không?**
-A: Ghé thăm [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10) để được cộng đồng và chính quyền hỗ trợ.
+A: Ghé thăm [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14) để được cộng đồng và chính quyền hỗ trợ.
 
 **H: Một số biện pháp tốt nhất để xử lý hình ảnh bằng Aspose.Imaging là gì?**
 A: Luôn thử nghiệm với nhiều kích thước tệp khác nhau, xử lý ngoại lệ một cách khéo léo và quản lý tài nguyên hiệu quả để tránh rò rỉ bộ nhớ.
@@ -172,7 +172,7 @@ A: Luôn thử nghiệm với nhiều kích thước tệp khác nhau, xử lý 
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Nhận giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn sẽ có khả năng xử lý hiệu quả các tệp EMF và tận dụng các tính năng mạnh mẽ của Aspose.Imaging trong các dự án Java của mình. Chúc bạn viết mã vui vẻ!
 

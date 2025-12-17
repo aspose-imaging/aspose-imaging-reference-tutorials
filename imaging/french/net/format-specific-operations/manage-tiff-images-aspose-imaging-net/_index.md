@@ -157,7 +157,7 @@ A : Tirez parti des capacités de traitement par lots d’Aspose.Imaging pour g
 R : Bien que les performances puissent varier avec des fichiers très volumineux, Aspose.Imaging est conçu pour gérer efficacement des données d'image importantes.
 
 **Q5 : Quelles options d’assistance sont disponibles si je rencontre des problèmes ?**
-A : Accédez à une documentation détaillée et à des forums communautaires pour obtenir des conseils de dépannage à l'adresse [Assistance Aspose](https://forum.aspose.com/c/imaging/10).
+A : Accédez à une documentation détaillée et à des forums communautaires pour obtenir des conseils de dépannage à l'adresse [Assistance Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Ressources
 - **Documentation**: [Documentation d'Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)

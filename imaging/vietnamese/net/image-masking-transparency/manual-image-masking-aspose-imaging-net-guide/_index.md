@@ -169,7 +169,7 @@ Bây giờ bạn đã học cách che hình ảnh thủ công bằng các hình 
 4. **Một số vấn đề thường gặp khi che hình ảnh là gì?**
    - Các vấn đề thường gặp bao gồm định nghĩa đường dẫn không chính xác, các ngoại lệ chưa được xử lý hoặc tình trạng tắc nghẽn hiệu suất do kích thước hình ảnh lớn.
 5. **Tôi có thể tìm sự hỗ trợ ở đâu nếu có thêm câu hỏi?**
-   - Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) để được hỗ trợ từ các chuyên gia cộng đồng và nhân viên Aspose.
+   - Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) để được hỗ trợ từ các chuyên gia cộng đồng và nhân viên Aspose.
 
 ## Tài nguyên
 - **Tài liệu**: [Tài liệu Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)

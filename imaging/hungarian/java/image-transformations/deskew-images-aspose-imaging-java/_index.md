@@ -182,7 +182,7 @@ A: Miután megvásárolt vagy ideiglenes licencet kapott, konfigurálja az alkal
 - **Vásárlás:** [Aspose licencelés vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Ingyenes próbaverzió indítása](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Reméljük, hogy ez az útmutató segít hatékonyan megvalósítani a kiegyenesítési funkciókat Java-alkalmazásaidban az Aspose.Imaging használatával. Jó kódolást!
 

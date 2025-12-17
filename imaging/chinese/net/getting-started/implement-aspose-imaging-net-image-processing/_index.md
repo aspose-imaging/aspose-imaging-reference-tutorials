@@ -126,7 +126,7 @@ Otsu 阈值将灰度图像转换为二进制格式，增强对比度以便更好
 - **购买**： [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用**： [Aspose.Imaging 免费试用](https://releases.aspose.com/imaging/net/)
 - **临时执照**： [获取临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持**： [Aspose.Imaging 支持论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**： [Aspose.Imaging 支持论坛](https://forum.aspose.com/c/imaging/14)
 按照本指南操作，您将能够顺利使用 Aspose.Imaging 在 .NET 应用程序中实现高效的图像处理。祝您编码愉快！
 
 {{< /blocks/products/pf/tutorial-page-section >}}

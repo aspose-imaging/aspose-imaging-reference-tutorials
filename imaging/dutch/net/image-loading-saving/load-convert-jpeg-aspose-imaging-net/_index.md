@@ -159,7 +159,7 @@ Klaar om het uit te proberen? Download en test de oplossing vandaag nog in uw pr
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Bekijk deze bronnen gerust voor meer diepgaande informatie en ondersteuning. Veel plezier met coderen!
 

@@ -188,7 +188,7 @@ Seguindo este guia, você aprendeu a compactar imagens TIFF com eficiência usan
 - **Comprar:** [Comprar agora](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Comece aqui](https://releases.aspose.com/imaging/java/)
 - **Licença temporária:** [Solicite aqui](https://purchase.aspose.com/temporary-license/)
-- **Apoiar:** Para obter mais assistência, visite o [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar:** Para obter mais assistência, visite o [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

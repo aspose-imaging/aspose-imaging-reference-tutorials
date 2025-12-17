@@ -243,7 +243,7 @@ Klaar om uw mogelijkheden voor beeldconversie naar een hoger niveau te tillen? P
 - [Download Aspose.Imaging voor Java](https://releases.aspose.com/imaging/java/)
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefversie en tijdelijke licentie](https://releases.aspose.com/imaging/java/)
-- [Community Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Community Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u goed toegerust om moeiteloos afbeeldingen te converteren met Aspose.Imaging voor Java. Veel plezier met coderen!
 

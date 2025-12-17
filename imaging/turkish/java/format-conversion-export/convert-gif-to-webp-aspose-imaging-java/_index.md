@@ -225,7 +225,7 @@ Artık Aspose.Imaging for Java kullanarak GIF dosyalarını WebP'ye dönüştür
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging Ücretsiz Denemeler](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı kılavuzla, Aspose.Imaging for Java kullanarak görüntülerinizi optimize etmek ve uygulamalarınızı veya web sitelerinizi geliştirmek için iyi bir donanıma sahip olacaksınız. İyi kodlamalar!
 

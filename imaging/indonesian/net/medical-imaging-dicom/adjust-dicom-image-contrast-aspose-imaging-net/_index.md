@@ -160,7 +160,7 @@ A5: Tentu saja. Rangkaian fiturnya yang tangguh dan pengoptimalan kinerjanya mem
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Cobalah Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Dengan sumber daya dan panduan ini, Anda akan siap untuk mulai bekerja dengan gambar DICOM menggunakan Aspose.Imaging di .NET. Selamat membuat kode!
 

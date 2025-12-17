@@ -195,7 +195,7 @@ Các bước tiếp theo có thể bao gồm khám phá các tính năng nâng c
 - **Giấy phép mua hàng:** Tìm hiểu về các tùy chọn mua hàng tại [Mua Aspose](https://purchase.aspose.com/buy).
 - **Dùng thử miễn phí:** Bắt đầu bằng bản dùng thử để kiểm tra các tính năng.
 - **Giấy phép tạm thời:** Nhận quyền truy cập tạm thời để thử nghiệm mở rộng.
-- **Diễn đàn hỗ trợ:** Nhận trợ giúp và chia sẻ hiểu biết sâu sắc về [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10).
+- **Diễn đàn hỗ trợ:** Nhận trợ giúp và chia sẻ hiểu biết sâu sắc về [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14).
 
 Bằng cách làm theo hướng dẫn này, bạn đã trang bị cho mình những kỹ năng có giá trị trong xử lý hình ảnh bằng Aspose.Imaging cho Java. Chúc bạn viết mã vui vẻ!
 

@@ -264,7 +264,7 @@ Ontdek meer bronnen en ondersteuningsopties op:
 - **Aankoop:** https://purchase.aspose.com/buy
 - **Gratis proefperiode:** https://releases.aspose.com/imaging/java/
 - **Tijdelijke licentie:** https://purchase.aspose.com/tijdelijke-licentie/
-- **Steun:** https://forum.aspose.com/c/imaging/10
+- **Steun:** https://forum.aspose.com/c/imaging/14
 
 Breng uw Java-beeldverwerking naar een hoger niveau door vandaag nog gebruik te maken van de krachtige functies van Aspose.Imaging!
 

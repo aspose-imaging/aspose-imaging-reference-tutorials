@@ -166,7 +166,7 @@ try {
 - **شراء:** [شراء ترخيص](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [ابدأ تجربتك المجانية](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة:** [اطلب هنا](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا الدليل، ستكون جاهزًا تمامًا للتعامل مع صور EMF بفعالية في تطبيقات Java باستخدام Aspose.Imaging. برمجة ممتعة!
 

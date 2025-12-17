@@ -191,7 +191,7 @@ Sử dụng `dispose()` phương pháp trên các đối tượng Hình ảnh đ
 - **Mua:** [Mua bản quyền Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bản dùng thử miễn phí Aspose Imaging](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn sẽ trang bị cho mình kiến thức để tải và lưu JPEG hiệu quả bằng Aspose.Imaging for Java. Chúc bạn viết mã vui vẻ!
 

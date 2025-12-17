@@ -186,7 +186,7 @@ A5: Ενώ είναι εξαιρετικά ικανές, ορισμένες πρ
 - **Αγορά**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δοκιμάστε το Aspose.Imaging δωρεάν](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Απεικόνισης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Απεικόνισης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Με αυτούς τους πόρους και αυτόν τον οδηγό, είστε πλήρως εξοπλισμένοι για να ξεκινήσετε την ενσωμάτωση εικόνων WebP στα έργα Java σας χρησιμοποιώντας το Aspose.Imaging. Καλή κωδικοποίηση!
 

@@ -258,7 +258,7 @@ V3: Igen, az Aspose.Imaging elérhető .NET-re is. További részletekért tekin
 - **Vásárlás**: [Vásároljon Aspose Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbálja ki ingyen](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Kérelem itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

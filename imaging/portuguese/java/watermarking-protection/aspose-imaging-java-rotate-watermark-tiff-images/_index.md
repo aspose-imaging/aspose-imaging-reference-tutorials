@@ -258,7 +258,7 @@ R5: Considere processar imagens grandes em pedaços menores, aproveitando as op�
 - **Licença de compra:** [Compre uma licença](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Obtenha seu teste gratuito](https://releases.aspose.com/imaging/java/)
 - **Licença temporária:** [Obter licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Fórum de suporte:** [Suporte Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Fórum de suporte:** [Suporte Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Esperamos que este tutorial tenha lhe fornecido as habilidades necessárias para aprimorar suas tarefas de processamento de imagens usando o Aspose.Imaging para Java. Boa programação!
 

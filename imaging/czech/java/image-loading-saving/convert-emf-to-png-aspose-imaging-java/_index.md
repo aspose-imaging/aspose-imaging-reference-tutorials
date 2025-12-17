@@ -186,7 +186,7 @@ Prozkoumejte další funkce Aspose.Imaging nebo zkuste převést jiné obrazové
 - **Nákup:** [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Získejte bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na cestu zvládnutí konverzí obrázků v Javě s Aspose.Imaging ještě dnes!
 

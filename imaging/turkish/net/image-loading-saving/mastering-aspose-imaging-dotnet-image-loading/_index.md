@@ -150,7 +150,7 @@ A: JPEG, PNG, TIFF ve daha fazlası dahil olmak üzere çok çeşitli formatlar�
 A: Satın almaya karar vermeden önce özelliklerini değerlendirmek için ücretsiz deneme veya geçici lisansla başlayabilirsiniz.
 
 **S: Aspose.Imaging'de görüntü yüklemeyle ilgili yaygın sorunları nasıl giderebilirim?**
-A: Dosya yollarını doğrulayın, kitaplık sürümlerini kontrol edin ve [destek forumu](https://forum.aspose.com/c/imaging/10) yardım için.
+A: Dosya yollarını doğrulayın, kitaplık sürümlerini kontrol edin ve [destek forumu](https://forum.aspose.com/c/imaging/14) yardım için.
 
 ## Kaynaklar
 - **Belgeleme**: [Aspose.Imaging .NET Referansı](https://reference.aspose.com/imaging/net/)
@@ -158,7 +158,7 @@ A: Dosya yollarını doğrulayın, kitaplık sürümlerini kontrol edin ve [dest
 - **Satın Alma ve Lisans Bilgileri**: [Aspose Satın Alma Sayfası](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

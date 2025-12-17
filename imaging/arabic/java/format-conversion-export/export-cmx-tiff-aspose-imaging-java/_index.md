@@ -236,7 +236,7 @@ Utils.deleteFile("YOUR_OUTPUT_DIRECTORY/MultiPage2.cmx.tiff");
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [ابدأ تجربة مجانية](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا الدليل، أصبحتَ الآن جاهزًا للتعامل مع ملفات CMX المتجهة وتصديرها كصور TIFF باستخدام Aspose.Imaging لـ Java. برمجة ممتعة!
 

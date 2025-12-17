@@ -195,7 +195,7 @@ következő lépések magukban foglalhatják az Aspose.Imaging fejlettebb funkci
 - **Licenc vásárlása:** Tudjon meg többet a vásárlási lehetőségekről a következő címen: [Aspose vásárlás](https://purchase.aspose.com/buy).
 - **Ingyenes próbaverzió:** Kezdj egy próbaverzióval a funkciók kipróbálásához.
 - **Ideiglenes engedély:** Ideiglenes hozzáférés beszerzése hosszabb teszteléshez.
-- **Támogatási fórum:** Kérjen segítséget és osszon meg információkat a következőről: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10).
+- **Támogatási fórum:** Kérjen segítséget és osszon meg információkat a következőről: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14).
 
 Ezzel az oktatóanyaggal értékes képfeldolgozási készségekre tettél szert az Aspose.Imaging for Java használatával. Jó kódolást!
 

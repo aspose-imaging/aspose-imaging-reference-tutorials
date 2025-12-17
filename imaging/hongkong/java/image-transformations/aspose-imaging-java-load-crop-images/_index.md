@@ -148,7 +148,7 @@ image.crop(new Rectangle(92, 179, 260, 197));
    - Java 開發工具包 (JDK) 和相容的 IDE。
 
 5. **是否有可用於解決問題的支援？**
-   - 訪問 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10) 尋求幫助。
+   - 訪問 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14) 尋求幫助。
 
 ## 資源
 

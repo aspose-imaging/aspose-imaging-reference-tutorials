@@ -184,7 +184,7 @@ image.save(outputDir);
 - **تنزيل المكتبة:** احصل على أحدث إصدار من [إصدارات Aspose.Imaging](https://releases.aspose.com/imaging/java/).
 - **رخصة الشراء:** يزور [شراء Aspose](https://purchase.aspose.com/buy) للحصول على خيارات الترخيص.
 - **النسخة التجريبية المجانية والترخيص المؤقت:** ابدأ بفترة تجريبية مجانية أو احصل على ترخيص مؤقت من [النسخة التجريبية المجانية والترخيص لبرنامج Aspose](https://releases.aspose.com/imaging/java/).
-- **منتدى الدعم:** التفاعل مع المجتمع على [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10).
+- **منتدى الدعم:** التفاعل مع المجتمع على [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

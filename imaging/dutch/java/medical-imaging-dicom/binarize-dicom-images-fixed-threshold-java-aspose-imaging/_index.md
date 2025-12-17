@@ -164,7 +164,7 @@ Klaar om het uit te proberen? Implementeer deze oplossing vandaag nog in uw proj
    - Optimaliseer uw omgeving en code voor geheugenbeheer door de garbage collection van Java effectief te gebruiken.
 
 5. **Is er ondersteuning beschikbaar als ik problemen ondervind?**
-   - U kunt hulp zoeken op de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10).
+   - U kunt hulp zoeken op de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14).
 
 ## Bronnen
 

@@ -188,7 +188,7 @@ Seguendo questa guida, hai imparato come comprimere efficacemente le immagini TI
 - **Acquistare:** [Acquista ora](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Inizia qui](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea:** [Richiedi qui](https://purchase.aspose.com/temporary-license/)
-- **Supporto:** Per ulteriore assistenza, visitare il [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto:** Per ulteriore assistenza, visitare il [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

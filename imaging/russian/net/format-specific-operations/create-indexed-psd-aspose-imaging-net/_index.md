@@ -150,7 +150,7 @@ using (var psd = Image.Create(createOptions, 500, 500))
 - **Покупка:** [Купить Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия:** [Начните с бесплатной пробной версии](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия:** [Получить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Форум поддержки:** [Поддержка Aspose](https://forum.aspose.com/c/imaging/10)
+- **Форум поддержки:** [Поддержка Aspose](https://forum.aspose.com/c/imaging/14)
 
 Отправьтесь в путешествие по миру визуализации с Aspose.Imaging уже сегодня и откройте для себя новые возможности в области цифровой обработки изображений!
 

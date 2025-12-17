@@ -159,7 +159,7 @@ Chúng tôi khuyến khích bạn thử triển khai các giải pháp này tron
    - Các vấn đề thường gặp bao gồm đường dẫn tệp không đúng hoặc loại hình ảnh không tương thích. Đảm bảo hình ảnh của bạn được Aspose.Imaging hỗ trợ.
 
 **5. Tôi có thể tìm sự hỗ trợ ở đâu nếu gặp vấn đề?**
-   - Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) để được cộng đồng và các chuyên gia của Aspose hỗ trợ.
+   - Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) để được cộng đồng và các chuyên gia của Aspose hỗ trợ.
 
 ## Tài nguyên
 
@@ -167,7 +167,7 @@ Chúng tôi khuyến khích bạn thử triển khai các giải pháp này tron
 - **Tải về**: Truy cập phiên bản thư viện mới nhất trên [Aspose phát hành](https://releases.aspose.com/imaging/java/).
 - **Mua**: Để có giấy phép sẵn sàng sản xuất, hãy truy cập [Mua Aspose](https://purchase.aspose.com/buy).
 - **Dùng thử miễn phí**: Bắt đầu hành trình của bạn với bản dùng thử miễn phí từ [Tải xuống Aspose](https://releases.aspose.com/imaging/java/).
-- **Ủng hộ**: Nhận trợ giúp thông qua [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10).
+- **Ủng hộ**: Nhận trợ giúp thông qua [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14).
 
 Bằng cách tận dụng Aspose.Imaging cho Java, bạn được trang bị để xử lý các tác vụ xử lý hình ảnh phức tạp một cách dễ dàng và hiệu quả. Chúc bạn viết mã vui vẻ!
 

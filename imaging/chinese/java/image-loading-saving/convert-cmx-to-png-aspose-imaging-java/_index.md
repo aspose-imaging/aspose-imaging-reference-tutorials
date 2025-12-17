@@ -218,7 +218,7 @@ try (Image image = Image.load(dataDir + "Rectangle.cmx")) {
 - **购买**：通过购买许可证或试用版 [Aspose 购买](https://purchase.aspose.com/buy)
 - **免费试用**：尝试使用 Aspose.Imaging [免费试用链接](https://releases.aspose.com/imaging/java/)
 - **临时执照**：通过以下方式获取临时许可证 [此链接](https://purchase.aspose.com/temporary-license/)
-- **支持**：参与图像处理挑战的讨论 [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**：参与图像处理挑战的讨论 [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 自信地开始您的下一个项目，因为您拥有无缝转换 CMX 文件的工具和知识。祝您编码愉快！
 

@@ -130,7 +130,7 @@ W tym samouczku zbadaliśmy, jak skutecznie konwertować pliki BMP na PNG za pom
 
 Aby jeszcze bardziej rozwinąć swoje umiejętności:
 - Poznaj dodatkowe funkcje pakietu Aspose.Imaging, takie jak manipulacja obrazami i konwersja formatów.
-- Współpracuj ze społecznością [Forum Aspose'a](https://forum.aspose.com/c/imaging/10) aby dzielić się swoimi spostrzeżeniami i szukać porad.
+- Współpracuj ze społecznością [Forum Aspose'a](https://forum.aspose.com/c/imaging/14) aby dzielić się swoimi spostrzeżeniami i szukać porad.
 
 Gotowy, aby zacząć konwertować obrazy w swoich aplikacjach .NET? Spróbuj już dziś!
 

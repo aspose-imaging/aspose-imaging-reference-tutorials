@@ -219,7 +219,7 @@ A3: تحقق من مسارات الملفات، وتأكد من التثبيت �
 - **شراء:** [شراء ترخيص](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [جرب Aspose.Imaging مجانًا](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة:** [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم:** [دعم Aspose](https://forum.aspose.com/c/imaging/10) 
+- **منتدى الدعم:** [دعم Aspose](https://forum.aspose.com/c/imaging/14) 
 
 ابدأ رحلتك مع Aspose.Imaging لـ .NET اليوم، وأحدث ثورة في طريقة عملك مع الصور!
 

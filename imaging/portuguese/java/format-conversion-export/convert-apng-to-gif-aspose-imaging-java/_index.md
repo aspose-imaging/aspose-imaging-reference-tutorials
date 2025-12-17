@@ -216,7 +216,7 @@ Parabéns! Você concluiu com sucesso o processo de carregamento, conversão e g
    - Sim, você pode criar scripts de processamento em lote usando loops ou integrá-los com sistemas de agendamento de tarefas.
 
 5. **Como obtenho suporte se tiver problemas?**
-   - Visite o [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10) para assistência e discussões com outros usuários.
+   - Visite o [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14) para assistência e discussões com outros usuários.
 
 ## Recursos
 

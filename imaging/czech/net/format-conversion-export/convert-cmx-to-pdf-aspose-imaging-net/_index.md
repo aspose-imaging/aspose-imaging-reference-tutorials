@@ -175,7 +175,7 @@ A: Zkontrolujte nastavení rastrování a vyhlazování v `PdfOptions` konfigura
 - **Nákup**: [Koupit licence Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začněte bezplatnou zkušební verzi Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Získejte dočasnou licenci pro Aspose.Imaging](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum pro zobrazování Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Podpora**: [Fórum pro zobrazování Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Dodržováním tohoto návodu budete dobře vybaveni k snadnému zvládnutí konverzí CMX do PDF.
 

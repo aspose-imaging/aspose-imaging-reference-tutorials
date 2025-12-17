@@ -209,7 +209,7 @@ Los problemas comunes incluyen configuraciones de ruta incorrectas y formatos de
 
 **5. ¿Cómo puedo obtener ayuda si encuentro problemas?**
 
-Visita [Soporte de Aspose](https://forum.aspose.com/c/imaging/10) buscar ayuda de la comunidad o comunicarse directamente para obtener más asistencia.
+Visita [Soporte de Aspose](https://forum.aspose.com/c/imaging/14) buscar ayuda de la comunidad o comunicarse directamente para obtener más asistencia.
 
 ## Recursos
 

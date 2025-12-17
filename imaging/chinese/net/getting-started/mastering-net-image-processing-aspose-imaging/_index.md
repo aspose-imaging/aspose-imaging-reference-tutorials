@@ -133,7 +133,7 @@ Aspose.Imaging 可用于各种场景：
 - **购买**： [购买许可证](https://purchase.aspose.com/buy)
 - **免费试用**： [立即试用](https://releases.aspose.com/imaging/net/)
 - **临时执照**： [获取临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持论坛**： [在这里提问](https://forum.aspose.com/c/imaging/10)
+- **支持论坛**： [在这里提问](https://forum.aspose.com/c/imaging/14)
 
 立即开始使用 Aspose.Imaging，通过强大的图像处理功能增强您的 .NET 应用程序！
 

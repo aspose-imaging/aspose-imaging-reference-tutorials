@@ -217,7 +217,7 @@ Využitím Aspose.Imaging pro .NET jste se naučili, jak efektivně načítat a 
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte Aspose.Imaging zdarma](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu jste nyní vybaveni k implementaci pokročilých funkcí pro zpracování obrazu ve vašich .NET aplikacích pomocí Aspose.Imaging. Užijte si další objevování a vylepšování svých projektů!
 

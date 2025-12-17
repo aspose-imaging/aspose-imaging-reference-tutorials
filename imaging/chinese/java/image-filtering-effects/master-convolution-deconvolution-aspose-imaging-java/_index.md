@@ -195,7 +195,7 @@ for (int i = 0; i < deconvFilters.length; i++) {
 - **购买**： [购买 Aspose Imaging](https://purchase.aspose.com/buy)
 - **免费试用**： [从免费试用开始](https://releases.aspose.com/imaging/java/)
 - **临时执照**： [在此请求](https://purchase.aspose.com/temporary-license/)
-- **支持论坛**： [提出问题](https://forum.aspose.com/c/imaging/10)
+- **支持论坛**： [提出问题](https://forum.aspose.com/c/imaging/14)
 
 按照本指南操作，您将顺利掌握 Aspose.Imaging for Java 提供的强大图像处理功能。祝您编码愉快！
 

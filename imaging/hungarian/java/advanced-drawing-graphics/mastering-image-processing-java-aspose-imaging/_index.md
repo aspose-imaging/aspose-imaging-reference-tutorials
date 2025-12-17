@@ -171,7 +171,7 @@ Gyakori problémák közé tartozik az erőforrások nem megfelelő megsemmisít
 - **Vásárlás:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Próbáld ki az Aspose.Imaging-et](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével most már jól felkészült vagy a képfeldolgozási feladatok elvégzésére az Aspose.Imaging for Java használatával. Jó kódolást!
 

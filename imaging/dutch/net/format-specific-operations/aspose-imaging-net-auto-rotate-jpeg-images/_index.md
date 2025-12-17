@@ -197,7 +197,7 @@ Voor meer gedetailleerde informatie en om uw begrip van Aspose.Imaging te vergro
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuning en forums](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuning en forums](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

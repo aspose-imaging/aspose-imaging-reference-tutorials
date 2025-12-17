@@ -165,7 +165,7 @@ A5: I když jsou robustní, některé pokročilé funkce mohou pro plnou funkčn
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte Aspose.Imaging zdarma](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fóra Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fóra Aspose](https://forum.aspose.com/c/imaging/14)
 
 Tato příručka vám poskytne veškeré informace potřebné k zahájení převodu obrázků TIFF do PDF pomocí nástroje Aspose.Imaging pro .NET, a tím posílí vaše řešení pro správu dokumentů.
 

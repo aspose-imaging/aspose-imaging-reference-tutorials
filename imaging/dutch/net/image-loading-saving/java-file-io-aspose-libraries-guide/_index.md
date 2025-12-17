@@ -156,7 +156,7 @@ Ontdek de mogelijkheden verder door deze technieken te integreren in uw projecte
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Door deze concepten onder de knie te krijgen, bent u goed op weg om krachtige Java-applicaties te creëren die efficiënt bestands-I/O-bewerkingen beheren. Veel plezier met coderen!
 

@@ -154,7 +154,7 @@ DICOM görüntü işleme becerilerinizi daha da ileri taşımaya hazır mısın�
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı kılavuz, Aspose.Imaging for .NET kullanarak DICOM görüntülerine eşik dithering uygulamak için ihtiyaç duyduğunuz her şeyi size sunarak görüntü işleme yeteneklerinizi geliştirir.
 

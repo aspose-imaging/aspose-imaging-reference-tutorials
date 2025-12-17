@@ -193,7 +193,7 @@ import com.aspose.imaging.examples.Utils;
    - JDK 8 或更高版本以及兼容的 Java IDE。
 
 5. **如果遇到问题，我可以在哪里找到支持？**
-   - 加入 [Aspose 论坛](https://forum.aspose.com/c/imaging/10) 获得社区和官方支持。
+   - 加入 [Aspose 论坛](https://forum.aspose.com/c/imaging/14) 获得社区和官方支持。
 
 ## 资源
 

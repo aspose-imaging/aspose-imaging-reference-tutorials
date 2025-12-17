@@ -189,7 +189,7 @@ I den här handledningen har du lärt dig hur du effektivt konverterar ODG-filer
 - **Köpa:** [Köp en licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Prova Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Ansök om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum:** [Aspose Support Community](https://forum.aspose.com/c/imaging/10)
+- **Supportforum:** [Aspose Support Community](https://forum.aspose.com/c/imaging/14)
 
 Den här guiden är utformad för att hjälpa dig att smidigt integrera Aspose.Imaging i dina Java-projekt, vilket säkerställer högkvalitativa bildkonverteringar varje gång. Lycka till med kodningen!
 

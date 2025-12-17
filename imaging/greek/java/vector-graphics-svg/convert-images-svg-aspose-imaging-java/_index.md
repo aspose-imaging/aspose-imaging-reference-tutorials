@@ -201,7 +201,7 @@ finally {
 - [Αγορά Άδειας Χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν Δοκιμαστική Λήψη](https://releases.aspose.com/imaging/java/)
 - [Αίτηση Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10) 
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Ακολουθώντας αυτόν τον οδηγό, είστε σε καλό δρόμο για να τελειοποιήσετε την επεξεργασία εικόνας με το Aspose.Imaging Java. Καλή κωδικοποίηση!
 

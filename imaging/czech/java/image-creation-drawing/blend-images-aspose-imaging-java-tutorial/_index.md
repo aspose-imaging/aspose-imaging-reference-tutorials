@@ -210,7 +210,7 @@ A: Ujistěte se, že vaše překryvné obrázky a obrázky na pozadí mají vyso
 - **Zakoupit licenci**: [Nákupní stránka Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte Aspose.Imaging pro Javu](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Podpora zobrazování Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Podpora zobrazování Aspose](https://forum.aspose.com/c/imaging/14)
 
 S tímto průvodcem jste dobře vybaveni k zahájení prolínání obrázků pomocí Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

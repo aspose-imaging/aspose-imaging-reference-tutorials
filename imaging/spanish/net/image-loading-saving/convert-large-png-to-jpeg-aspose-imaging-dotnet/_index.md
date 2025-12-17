@@ -131,7 +131,7 @@ R: Asegúrese de tener instalado .NET Framework o .NET Core, junto con recursos 
 R: Sí, después de adquirir una licencia adecuada de Aspose.
 
 **P: ¿Hay soporte disponible si encuentro problemas?**
-A: Visita [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10) para obtener ayuda o consultar la documentación.
+A: Visita [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14) para obtener ayuda o consultar la documentación.
 
 ## Recursos
 - **Documentación:** [Documentación de Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)

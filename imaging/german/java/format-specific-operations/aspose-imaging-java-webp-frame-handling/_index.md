@@ -168,7 +168,7 @@ Erwerben Sie eine Lizenz über die Kaufseite oder fordern Sie über deren Site e
 - **Kaufen**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Beginnen Sie mit einer kostenlosen Testversion](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Fordern Sie eine temporäre Lizenz an](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Machen Sie den nächsten Schritt und beginnen Sie noch heute mit der Implementierung dieser Techniken in Ihren Projekten!
 

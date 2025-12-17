@@ -223,7 +223,7 @@ A5: Zajistěte, aby se obrázky po načtení ukládaly do mezipaměti, aby se je
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Bezplatná zkušební verze Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) 
+- **Podpora**: [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) 
 
 S tímto komplexním průvodcem jste dobře vybaveni k zahájení integrace Aspose.Imaging do vašich projektů v Javě pro efektivní správu obrázků. Přejeme vám příjemné programování!
 

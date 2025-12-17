@@ -245,7 +245,7 @@ try (Image image = Image.load("YOUR_DOCUMENT_DIRECTORY/sample.bmp")) {
 - **شراء**:فكر في شراء اشتراك في [شراء Aspose](https://purchase.aspose.com/buy).
 - **نسخة تجريبية مجانية**:ابدأ بفترة تجريبية مجانية لاختبار الميزات دون قيود.
 - **رخصة مؤقتة**:احصل على ترخيص مؤقت للوصول الكامل خلال فترة التقييم الخاصة بك.
-- **يدعم**:انضم إلى المجتمع واطلب المساعدة على [منتديات أسبوزي](https://forum.aspose.com/c/imaging/10).
+- **يدعم**:انضم إلى المجتمع واطلب المساعدة على [منتديات أسبوزي](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

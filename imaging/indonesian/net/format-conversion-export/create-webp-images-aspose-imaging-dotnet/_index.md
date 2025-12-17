@@ -189,7 +189,7 @@ Aspose.Imaging dioptimalkan untuk manajemen memori yang efisien dan pemrosesan y
 - **Beli Lisensi:** [Beli Sekarang](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** Jelajahi fitur lengkap dengan lisensi sementara dari [Di Sini](https://releases.aspose.com/imaging/net/).
 - **Lisensi Sementara:** Dapatkan satu untuk evaluasi di [tautan ini](https://purchase.aspose.com/temporary-license/).
-- **Forum Dukungan:** Mengunjungi [Dukungan Komunitas Aspose](https://forum.aspose.com/c/imaging/10) untuk pertanyaan atau masalah apa pun.
+- **Forum Dukungan:** Mengunjungi [Dukungan Komunitas Aspose](https://forum.aspose.com/c/imaging/14) untuk pertanyaan atau masalah apa pun.
 
 Dengan mengikuti panduan lengkap ini, Anda kini siap membuat gambar WebP menggunakan Aspose.Imaging for .NET secara efisien dan efektif. Selamat membuat kode!
 

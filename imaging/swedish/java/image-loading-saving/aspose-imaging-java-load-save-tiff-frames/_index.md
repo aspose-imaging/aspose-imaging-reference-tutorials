@@ -211,7 +211,7 @@ den här handledningen har vi gått igenom det viktigaste för att ladda, kopier
 - **Köpa**Köp en licens för kommersiellt bruk på [den här länken](https://purchase.aspose.com/buy)
 - **Gratis provperiod**Börja med en gratis provperiod för att testa funktioner på [Asposes webbplats](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**Erhåll en tillfällig licens för utökad utvärdering från [här](https://purchase.aspose.com/temporary-license/)
-- **Stöd**Delta i diskussioner eller sök hjälp med [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd**Delta i diskussioner eller sök hjälp med [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

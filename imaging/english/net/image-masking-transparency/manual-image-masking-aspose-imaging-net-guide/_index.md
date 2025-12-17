@@ -174,7 +174,7 @@ To continue exploring the capabilities of Aspose.Imaging, consider diving deeper
 4. **What are some common issues when masking images?**
    - Common issues include incorrect path definitions, unhandled exceptions, or performance bottlenecks due to large image sizes.
 5. **Where can I find support if I have further questions?**
-   - Visit the [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) for assistance from community experts and Aspose staff.
+   - Visit the [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) for assistance from community experts and Aspose staff.
 
 ## Resources
 - **Documentation**: [Aspose.Imaging .NET Documentation](https://reference.aspose.com/imaging/net/)

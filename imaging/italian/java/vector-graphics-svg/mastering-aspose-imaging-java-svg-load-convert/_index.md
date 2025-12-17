@@ -160,7 +160,7 @@ Pronti ad approfondire? Provate a implementare queste soluzioni nel vostro pross
 - **Acquistare:** [Acquista la licenza Aspose](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Inizia la prova gratuita](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea:** [Ottieni la licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto:** [Supporto del forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto:** [Supporto del forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Seguendo questa guida, sarai sulla buona strada per padroneggiare la gestione delle immagini SVG in Java con Aspose.Imaging. Buon lavoro!
 

@@ -191,7 +191,7 @@ Artık Aspose.Imaging kullanarak Java'da TIFF resimlerini nasıl verimli bir şe
    - Evet, JPEG, PNG, BMP ve daha fazlası gibi çok sayıda resim formatını destekler.
 
 5. **Sorun yaşarsam nereden destek alabilirim?**
-   - Ziyaret edin [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/10) Topluluk ve resmi destek için.
+   - Ziyaret edin [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/14) Topluluk ve resmi destek için.
 
 ## Kaynaklar
 

@@ -237,7 +237,7 @@ Per ulteriori approfondimenti e supporto, fare riferimento alle seguenti risorse
 - **Documentazione:** [Documentazione di Aspose.Imaging per Java](https://reference.aspose.com/imaging/java/)
 - **Scaricamento:** [Aspose.Imaging per le versioni Java](https://releases.aspose.com/imaging/java/)
 - **Acquisto e prova gratuita:** [Acquista o prova Aspose.Imaging per Java](https://purchase.aspose.com/buy)
-- **Forum di supporto:** [Comunità di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum di supporto:** [Comunità di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 Questa guida completa ti fornirà le conoscenze necessarie per ridurre efficacemente il motion blur nelle tue immagini utilizzando Aspose.Imaging per Java. Buona programmazione!
 

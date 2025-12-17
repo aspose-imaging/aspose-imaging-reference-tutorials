@@ -200,7 +200,7 @@ Nästa steg inkluderar att utforska ytterligare funktioner i Aspose.Imaging-bibl
    - Använd `Metered.getConsumptionQuantity()` metod före och efter bearbetning av bilder för att spåra användning.
 
 5. **Finns det support tillgänglig om jag stöter på problem?**
-   - Besök [Aspose-forumet](https://forum.aspose.com/c/imaging/10) för hjälp från samhällsexperter.
+   - Besök [Aspose-forumet](https://forum.aspose.com/c/imaging/14) för hjälp från samhällsexperter.
 
 ## Resurser
 

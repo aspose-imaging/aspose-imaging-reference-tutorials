@@ -145,7 +145,7 @@ Bu eğitimde, Aspose.Imaging for .NET kullanarak bir PNG görüntüsünü nasıl
 - Aspose.Imaging tarafından desteklenen diğer dosya biçimlerini keşfedin.
 
 **Harekete Geçme Çağrısı:**
-Aspose.Imaging for .NET'in görüntü işleme görevlerini nasıl kolaylaştırabileceğini görmek için bu özellikleri bir sonraki projenizde uygulamaya çalışın. Deneyimlerinizi paylaşın veya şurada sorular sorun: [Aspose forumu](https://forum.aspose.com/c/imaging/10) Herhangi bir zorlukla karşılaşırsanız.
+Aspose.Imaging for .NET'in görüntü işleme görevlerini nasıl kolaylaştırabileceğini görmek için bu özellikleri bir sonraki projenizde uygulamaya çalışın. Deneyimlerinizi paylaşın veya şurada sorular sorun: [Aspose forumu](https://forum.aspose.com/c/imaging/14) Herhangi bir zorlukla karşılaşırsanız.
 
 ## SSS Bölümü
 1. **Aspose.Imaging for .NET nedir?**
@@ -165,7 +165,7 @@ Aspose.Imaging for .NET'in görüntü işleme görevlerini nasıl kolaylaştıra
 - [Satın Alma Seçenekleri](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Erişimi](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans Edinimi](https://purchase.aspose.com/temporary-license/)
-- [Destek ve Topluluk Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek ve Topluluk Forumu](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -182,7 +182,7 @@ A5：可以免费试用，但某些高级功能可能需要购买许可证才能
 - **购买**： [购买 Aspose.Imaging 许可证](https://purchase.aspose.com/buy)
 - **免费试用**： [开始免费试用](https://releases.aspose.com/imaging/java/)
 - **临时执照**： [获得临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持**： [Aspose.Imaging 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**： [Aspose.Imaging 论坛](https://forum.aspose.com/c/imaging/14)
 
 请随意探索这些资源并开始使用 Aspose.Imaging for Java 自信地实施您的图像处理项目。
 

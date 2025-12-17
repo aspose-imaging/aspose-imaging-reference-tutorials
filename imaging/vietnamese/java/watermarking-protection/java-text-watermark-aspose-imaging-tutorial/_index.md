@@ -245,7 +245,7 @@ Trong suốt hướng dẫn này, chúng tôi đã đề cập đến cách tả
 - **Mua**: Hãy cân nhắc mua đăng ký tại [Mua Aspose](https://purchase.aspose.com/buy).
 - **Dùng thử miễn phí**: Bắt đầu với bản dùng thử miễn phí để kiểm tra các tính năng mà không có giới hạn.
 - **Giấy phép tạm thời**:Xin giấy phép tạm thời để có quyền truy cập đầy đủ trong thời gian đánh giá của bạn.
-- **Ủng hộ**:Tham gia cộng đồng và tìm kiếm sự giúp đỡ trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10).
+- **Ủng hộ**:Tham gia cộng đồng và tìm kiếm sự giúp đỡ trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

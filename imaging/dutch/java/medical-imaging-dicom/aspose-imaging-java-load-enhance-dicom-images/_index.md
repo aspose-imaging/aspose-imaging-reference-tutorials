@@ -203,7 +203,7 @@ Klaar om deze oplossing te implementeren? Probeer het uit en zie hoe het uw proj
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Met deze tutorial bent u nu klaar om uw Java-applicaties te verbeteren met krachtige beeldverwerkingsmogelijkheden met Aspose.Imaging. Veel plezier met coderen!
 

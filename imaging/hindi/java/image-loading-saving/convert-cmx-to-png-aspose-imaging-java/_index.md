@@ -218,7 +218,7 @@ try (Image image = Image.load(dataDir + "Rectangle.cmx")) {
 - **खरीदना**: के माध्यम से लाइसेंस या परीक्षण संस्करण खरीदें [Aspose खरीद](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: इसके साथ Aspose.Imaging आज़माएँ [निःशुल्क परीक्षण लिंक](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस**: के माध्यम से एक अस्थायी लाइसेंस प्राप्त करें [इस लिंक](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: छवि प्रसंस्करण चुनौतियों पर चर्चा में शामिल हों [Aspose फ़ोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: छवि प्रसंस्करण चुनौतियों पर चर्चा में शामिल हों [Aspose फ़ोरम](https://forum.aspose.com/c/imaging/14)
 
 अपने अगले प्रोजेक्ट पर पूरे आत्मविश्वास के साथ आगे बढ़ें, यह जानते हुए कि आपके पास CMX फ़ाइलों को सहजता से परिवर्तित करने के लिए उपकरण और ज्ञान है। हैप्पी कोडिंग!
 

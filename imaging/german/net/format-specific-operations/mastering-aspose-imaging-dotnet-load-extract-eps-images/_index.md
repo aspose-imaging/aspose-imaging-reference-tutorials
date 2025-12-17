@@ -205,7 +205,7 @@ Bereit für den nächsten Schritt? Testen Sie die Implementierung dieser Lösung
 - **Kaufen**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Kostenlose Testversionen von Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Temporäre Lizenz anfordern](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit diesem Leitfaden sind Sie bestens gerüstet, Aspose.Imaging für die effiziente Verwaltung von EPS-Dateien in Ihren .NET-Anwendungen zu nutzen. Viel Spaß beim Programmieren!
 

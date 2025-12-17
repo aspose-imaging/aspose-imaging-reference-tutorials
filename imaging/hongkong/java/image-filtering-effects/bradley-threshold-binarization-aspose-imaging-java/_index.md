@@ -198,7 +198,7 @@ A5：考慮優化 Java 環境的記憶體管理並探索批次選項。
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/java/)
 - [臨時許可證申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 探索這些資源，加深您的理解，並使用 Aspose.Imaging for Java 增強您的影像處理專案。祝您編碼愉快！
 

@@ -165,7 +165,7 @@ Gyakori problémák lehetnek a helytelen fájlelérési utak vagy a nem támogat
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Nyugodtan böngészd át ezeket az erőforrásokat, és kérj segítséget, ha bármilyen kihívásba ütközöl. Jó kódolást!
 

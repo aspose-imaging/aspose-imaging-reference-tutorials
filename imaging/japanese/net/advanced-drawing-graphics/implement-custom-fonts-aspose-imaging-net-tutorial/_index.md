@@ -148,7 +148,7 @@ Aspose.Imaging for .NET でカスタムフォントを使用して画像を読�
 - [購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET のパワーを活用して、今すぐ画像処理能力を向上させましょう。
 

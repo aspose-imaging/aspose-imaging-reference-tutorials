@@ -156,7 +156,7 @@ Voor meer informatie en hulp:
 - **Aankoop**: [Koop een licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer Aspose.Imaging nu](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Hier aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun**: Bezoek de [Aspose Forum](https://forum.aspose.com/c/imaging/10) voor hulp en discussies in de community.
+- **Steun**: Bezoek de [Aspose Forum](https://forum.aspose.com/c/imaging/14) voor hulp en discussies in de community.
 
 Door deze technieken onder de knie te krijgen, bent u goed toegerust om een breed scala aan beeldverwerkingstaken vol vertrouwen uit te voeren. Veel plezier met coderen!
 

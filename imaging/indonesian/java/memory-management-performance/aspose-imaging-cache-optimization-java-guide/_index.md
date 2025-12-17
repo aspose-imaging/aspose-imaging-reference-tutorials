@@ -233,7 +233,7 @@ Siap menerapkan solusi ini? Cobalah mengoptimalkan pengaturan cache Anda hari in
 - [Pembelian](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Dengan panduan ini, Anda akan diperlengkapi dengan baik untuk mengoptimalkan Aspose.Imaging Cache di Java secara efektif. Selamat membuat kode!
 

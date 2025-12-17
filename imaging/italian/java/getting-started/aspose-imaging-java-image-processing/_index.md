@@ -194,7 +194,7 @@ Pronti a portare le vostre competenze di elaborazione delle immagini a un livell
 - **Acquistare**: Ottieni una licenza completa tramite [Pagina di acquisto di Aspose](https://purchase.aspose.com/buy).
 - **Prova gratuita**: Inizia con una prova gratuita per esplorare le funzionalità di [Download di Aspose](https://releases.aspose.com/imaging/java/).
 - **Licenza temporanea**: Richiedi una licenza temporanea per test estesi presso [Licenza temporanea Aspose](https://purchase.aspose.com/temporary-license/).
-- **Supporto**: Unisciti alla comunità e chiedi aiuto su [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Supporto**: Unisciti alla comunità e chiedi aiuto su [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

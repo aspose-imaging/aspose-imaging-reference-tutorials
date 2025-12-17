@@ -197,7 +197,7 @@ Felfedeztük, hogyan forradalmasíthatja az Aspose.Imaging Java-ban a WebP képf
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ennek az átfogó útmutatónak a követésével most már hatékonyan és magabiztosan kezelheted a WebP képfeldolgozást Java nyelven. Boldog kódolást!
 

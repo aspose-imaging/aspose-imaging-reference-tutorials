@@ -197,7 +197,7 @@ image.Save(outputDir + "aspose-logo_copy.jpg");
 - [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/net/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Υποστήριξη και Φόρουμ](https://forum.aspose.com/c/imaging/10)
+- [Υποστήριξη και Φόρουμ](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

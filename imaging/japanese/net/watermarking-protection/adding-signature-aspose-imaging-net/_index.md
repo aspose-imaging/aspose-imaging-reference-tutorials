@@ -161,7 +161,7 @@ Aspose.Imaging for .NET を使って、画像を別の画像の上に効果的�
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを活用することで、画像処理のニーズに合わせてAspose.Imagingの可能性をさらに探求し、最大限に活用できるようになります。コーディングを楽しみましょう！
 

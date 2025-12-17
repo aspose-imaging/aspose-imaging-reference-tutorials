@@ -216,7 +216,7 @@ Implementera dessa lösningar i dina projekt idag!
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Aspose.Imaging Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Ansök om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din bildmanipulationsresa med självförtroende med Aspose.Imaging för .NET!
 

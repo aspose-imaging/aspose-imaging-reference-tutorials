@@ -178,7 +178,7 @@ A5：虽然 Aspose.Imaging 本身没有硬性限制，但处理非常大的图�
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用版](https://releases.aspose.com/imaging/java/)
 - [临时许可证申请](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 按照本指南操作，您现在就可以使用 Aspose.Imaging 在 Java 应用程序中实现有效的图像处理了。祝您编码愉快！
 

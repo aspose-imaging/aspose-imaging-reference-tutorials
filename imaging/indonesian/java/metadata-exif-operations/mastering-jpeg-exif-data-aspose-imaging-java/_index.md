@@ -169,7 +169,7 @@ A3: Pustaka akan menangani kasus semacam itu dengan baik dengan mengembalikan nu
 A4: Versi uji coba mungkin memiliki batasan penggunaan seperti tanda air atau batasan pemrosesan.
 
 **Q5: Bagaimana saya bisa mendapatkan dukungan jika saya mengalami masalah dengan Aspose.Imaging?**
-A5: Kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/10) untuk dukungan masyarakat dan resmi.
+A5: Kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/14) untuk dukungan masyarakat dan resmi.
 
 ## Sumber daya
 
@@ -178,7 +178,7 @@ A5: Kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/10) untuk dukunga
 - **Pembelian**: Dapatkan lisensi melalui [Aspose Pembelian](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: Mulailah dengan uji coba gratis di [Uji Coba Gratis Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: Minta lisensi sementara dari [Aspose Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: Bergabunglah dalam diskusi di [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: Bergabunglah dalam diskusi di [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda dengan Aspose.Imaging untuk Java dan buka kemungkinan baru dalam pemrosesan gambar hari ini!
 

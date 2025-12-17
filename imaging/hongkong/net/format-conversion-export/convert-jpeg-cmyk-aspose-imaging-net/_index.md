@@ -136,7 +136,7 @@ Aspose.Imaging 的無損 CMYK 轉換功能有利於：
 - **購買許可證**： [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用**： [免費試用 Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援論壇**： [Aspose.Imaging 支持](https://forum.aspose.com/c/imaging/10)
+- **支援論壇**： [Aspose.Imaging 支持](https://forum.aspose.com/c/imaging/14)
 希望本指南能幫助您掌握使用 Aspose.Imaging for .NET 進行影像處理的方法。祝您編碼愉快！
 
 {{< /blocks/products/pf/tutorial-page-section >}}

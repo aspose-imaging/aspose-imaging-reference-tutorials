@@ -245,7 +245,7 @@ Genom hela den här guiden har vi gått igenom hur man effektivt laddar en bild,
 - **Köpa**Överväg att köpa en prenumeration på [Aspose-köp](https://purchase.aspose.com/buy).
 - **Gratis provperiod**Börja med en gratis provperiod för att testa funktioner utan begränsningar.
 - **Tillfällig licens**Skaffa en tillfällig licens för fullständig åtkomst under utvärderingsperioden.
-- **Stöd**Gå med i gemenskapen och sök hjälp på [Aspose-forum](https://forum.aspose.com/c/imaging/10).
+- **Stöd**Gå med i gemenskapen och sök hjälp på [Aspose-forum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

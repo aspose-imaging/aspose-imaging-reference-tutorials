@@ -159,7 +159,7 @@ Doporučujeme vám, abyste tato řešení vyzkoušeli implementovat ve svých pr
    - Mezi běžné problémy patří nesprávné cesty k souborům nebo nekompatibilní typy obrázků. Ujistěte se, že vaše obrázky jsou podporovány službou Aspose.Imaging.
 
 **5. Kde mohu najít podporu, pokud narazím na problémy?**
-   - Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) za pomoc od komunity a odborníků z Aspose.
+   - Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) za pomoc od komunity a odborníků z Aspose.
 
 ## Zdroje
 
@@ -167,7 +167,7 @@ Doporučujeme vám, abyste tato řešení vyzkoušeli implementovat ve svých pr
 - **Stáhnout**: Získejte přístup k nejnovější verzi knihovny na [Aspose Releases](https://releases.aspose.com/imaging/java/).
 - **Nákup**Pro licenci připravenou k produkčnímu prostředí navštivte [Nákup Aspose](https://purchase.aspose.com/buy).
 - **Bezplatná zkušební verze**Začněte svou cestu s bezplatnou zkušební verzí od [Soubory ke stažení Aspose](https://releases.aspose.com/imaging/java/).
-- **Podpora**Získejte pomoc prostřednictvím [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Podpora**Získejte pomoc prostřednictvím [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Využitím Aspose.Imaging pro Javu jste vybaveni k snadnému a efektivnímu zvládání složitých úloh zpracování obrazu. Přejeme vám příjemné programování!
 

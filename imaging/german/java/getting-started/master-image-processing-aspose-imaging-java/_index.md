@@ -209,7 +209,7 @@ Sie beherrschen nun die Größenänderung von JPG-Bildern und die Erstellung von
 5. **Wie verbessern TIFF-Frames die Bildverwaltung?**  
    Durch die Konsolidierung mehrerer Bilder in einer einzigen Datei wird die Handhabung und Verteilung großer Sammlungen verwandter Bilder vereinfacht.
 
-Weitere Ressourcen finden Sie unter Aspose.Imaging's [Dokumentation](https://reference.aspose.com/imaging/java/) und erkunden Sie ihre [Download-Seite](https://releases.aspose.com/imaging/java/) für die neuesten Updates. Bei Supportanfragen besuchen Sie die [Aspose-Forum](https://forum.aspose.com/c/imaging/10).
+Weitere Ressourcen finden Sie unter Aspose.Imaging's [Dokumentation](https://reference.aspose.com/imaging/java/) und erkunden Sie ihre [Download-Seite](https://releases.aspose.com/imaging/java/) für die neuesten Updates. Bei Supportanfragen besuchen Sie die [Aspose-Forum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

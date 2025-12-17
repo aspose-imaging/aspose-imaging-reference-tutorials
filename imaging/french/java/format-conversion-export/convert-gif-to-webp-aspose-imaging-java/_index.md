@@ -225,7 +225,7 @@ Vous maîtrisez désormais parfaitement la conversion de fichiers GIF en WebP av
 - **Achat**: [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Essais gratuits d'Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**: [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Grâce à ce guide complet, vous serez parfaitement équipé pour optimiser vos images avec Aspose.Imaging pour Java et améliorer vos applications ou sites web. Bon codage !
 

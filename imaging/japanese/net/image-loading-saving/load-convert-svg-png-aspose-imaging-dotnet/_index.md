@@ -157,7 +157,7 @@ Aspose.Imaging for .NET を使用した SVG 画像の読み込みと変換の基
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアルダウンロード](https://releases.aspose.com/imaging/net/)
 - [臨時免許申請](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを活用して理解を深め、開発プロジェクトでAspose.Imaging for .NETを活用しましょう。コーディングを楽しみましょう！
 

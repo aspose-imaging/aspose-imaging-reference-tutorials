@@ -167,7 +167,7 @@ Erwägen Sie als nächste Schritte, mit anderen erweiterten Funktionen von Aspos
 - **Lizenz erwerben**: [Jetzt kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Kostenlose Testversion starten](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Hier anfordern](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum**: [Fragen stellen](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum**: [Fragen stellen](https://forum.aspose.com/c/imaging/14)
 
 Durch die Erkundung dieser Ressourcen verfügen Sie über eine solide Grundlage für die Beherrschung von Aspose.Imaging und seinen Funktionen. Viel Spaß beim Programmieren!
 

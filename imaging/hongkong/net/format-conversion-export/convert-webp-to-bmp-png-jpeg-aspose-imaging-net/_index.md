@@ -173,7 +173,7 @@ Aspose.Imaging for .NET 的轉換功能可用於多種實際場景：
 - **購買許可證**： [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用**： [從免費評估開始](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [在此申請](https://purchase.aspose.com/temporary-license/)
-- **支援論壇**： [參與討論](https://forum.aspose.com/c/imaging/10)
+- **支援論壇**： [參與討論](https://forum.aspose.com/c/imaging/14)
 
 深入研究這些資源，以擴展您對使用 Aspose.Imaging .NET 進行圖像轉換的理解和能力。
 

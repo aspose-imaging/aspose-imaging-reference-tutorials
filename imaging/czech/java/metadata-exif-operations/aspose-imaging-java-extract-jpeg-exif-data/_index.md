@@ -212,7 +212,7 @@ A4: Návštěva [Stránka s dočasnou licencí společnosti Aspose](https://purc
 
 **Q5: Jaké zdroje jsou k dispozici, pokud narazím na problémy?**
 
-A5: Fórum komunity Aspose je skvělým místem pro vyhledání pomoci. Podívejte se [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) za podporu a diskuze.
+A5: Fórum komunity Aspose je skvělým místem pro vyhledání pomoci. Podívejte se [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) za podporu a diskuze.
 
 ## Zdroje
 
@@ -221,7 +221,7 @@ A5: Fórum komunity Aspose je skvělým místem pro vyhledání pomoci. Podívej
 - **Nákup**Více informací o možnostech licencování naleznete na [Nákupní stránka Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**Vyzkoušejte si funkce Aspose.Imaging s bezplatnou zkušební verzí dostupnou na [Soubory ke stažení Aspose](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**Požádejte o prodloužený přístup prostřednictvím [Dočasná licence Aspose](https://purchase.aspose.com/temporary-license/)
-- **Podpora**Zapojte se do komunity na [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**Zapojte se do komunity na [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

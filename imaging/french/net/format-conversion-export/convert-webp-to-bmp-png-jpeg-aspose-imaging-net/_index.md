@@ -173,7 +173,7 @@ Prêt à essayer ? Mettez en œuvre ces solutions et découvrez comment elles p
 - **Acheter une licence**: [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencez par une évaluation gratuite](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Postulez ici](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance**: [Rejoignez la discussion](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance**: [Rejoignez la discussion](https://forum.aspose.com/c/imaging/14)
 
 Plongez dans ces ressources pour élargir votre compréhension et vos capacités en matière de conversion d'images à l'aide d'Aspose.Imaging .NET.
 

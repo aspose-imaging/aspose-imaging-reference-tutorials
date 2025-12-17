@@ -202,7 +202,7 @@ Pronto para implementar essas soluções? Mergulhe no mundo do processamento ava
    - Use configurações de rasterização apropriadas e monitore os recursos do sistema durante o processamento em lote.
 
 5. **Como obtenho suporte se tiver problemas?**
-   - Visite o [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) para obter suporte da comunidade ou entre em contato com a equipe de suporte profissional.
+   - Visite o [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) para obter suporte da comunidade ou entre em contato com a equipe de suporte profissional.
 
 ## Recursos
 

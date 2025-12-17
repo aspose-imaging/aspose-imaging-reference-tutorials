@@ -231,7 +231,7 @@ Door deze tutorial te volgen, heb je geleerd hoe je Aspose.Imaging Java implemen
    - Overweeg de implementatie van threadpools en efficiënte resourcebeheerpraktijken om hoge gelijktijdigheid te verwerken.
 
 5. **Hoe kan ik veelvoorkomende problemen bij het gebruik van Aspose.Imaging oplossen?**
-   - Controleer de officiële [documentatie](https://reference.aspose.com/imaging/java/) voor gedetailleerde gidsen, of bezoek de [Aspose-forums](https://forum.aspose.com/c/imaging/10) voor steun van de gemeenschap.
+   - Controleer de officiële [documentatie](https://reference.aspose.com/imaging/java/) voor gedetailleerde gidsen, of bezoek de [Aspose-forums](https://forum.aspose.com/c/imaging/14) voor steun van de gemeenschap.
 
 ## Bronnen
 

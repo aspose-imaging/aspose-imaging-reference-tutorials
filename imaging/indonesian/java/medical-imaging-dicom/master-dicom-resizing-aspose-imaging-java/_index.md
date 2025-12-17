@@ -180,7 +180,7 @@ Siap untuk mengembangkan keterampilan Anda lebih jauh? Cobalah teknik-teknik ini
 - [Pembelian](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan komprehensif ini, Anda sekarang akan siap untuk mengelola tugas pemrosesan gambar DICOM secara efisien menggunakan Aspose.Imaging untuk Java.
 

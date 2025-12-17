@@ -154,7 +154,7 @@ Daha fazla okuma ve destek için:
 - **Satın almak**: [Aspose Ürünlerini Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz deneyin](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Burada Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Aspose Topluluk Desteği](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: [Aspose Topluluk Desteği](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging Java ile yolculuğunuza başlayın ve Java'da görüntü işleme alanının geniş potansiyelini keşfedin!
 

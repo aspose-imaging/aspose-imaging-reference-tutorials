@@ -129,7 +129,7 @@ Ya domina la carga de imágenes y su exportación a WebP con Aspose.Imaging para
 ### Próximos pasos
 - Experimente con diferentes opciones de exportación, como ajustar los niveles de calidad.
 - Explore la integración de Aspose.Imaging en proyectos o flujos de trabajo más grandes.
-- Interactúe con la comunidad en el [Foro de Aspose](https://forum.aspose.com/c/imaging/10) para apoyo e ideas.
+- Interactúe con la comunidad en el [Foro de Aspose](https://forum.aspose.com/c/imaging/14) para apoyo e ideas.
 
 ## Sección de preguntas frecuentes
 
@@ -154,7 +154,7 @@ Asegúrese de que las rutas sean correctas y de que el archivo de entrada exista
 - **Compra:** [Comprar una licencia](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Empieza aquí](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal:** [Solicitar uno](https://purchase.aspose.com/temporary-license/)
-- **Foro de soporte:** [Soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Foro de soporte:** [Soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Embárcate en tu viaje de procesamiento de imágenes con confianza utilizando Aspose.Imaging .NET y explora infinitas posibilidades en imágenes digitales.
 

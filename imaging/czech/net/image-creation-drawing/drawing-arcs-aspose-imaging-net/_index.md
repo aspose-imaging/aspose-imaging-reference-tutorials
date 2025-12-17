@@ -181,7 +181,7 @@ Jakmile se s Aspose.Imaging seznámíte, zvažte prozkoumání dalších funkcí
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/net/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Doufáme, že vám tento průvodce pomůže na vaší cestě s Aspose.Imaging pro .NET. Přejeme vám příjemné programování!
 

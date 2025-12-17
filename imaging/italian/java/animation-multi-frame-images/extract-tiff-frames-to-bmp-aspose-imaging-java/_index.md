@@ -174,7 +174,7 @@ Congratulazioni per aver padroneggiato il processo di conversione di fotogrammi 
 - [Acquista licenze](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Intraprendi il tuo viaggio per padroneggiare l'elaborazione delle immagini con Aspose.Imaging Java e scopri nuove possibilità nella gestione delle immagini TIFF.
 

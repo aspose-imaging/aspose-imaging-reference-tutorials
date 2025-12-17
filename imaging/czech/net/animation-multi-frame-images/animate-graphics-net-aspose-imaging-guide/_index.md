@@ -191,7 +191,7 @@ Naučili jste se, jak vytvářet animovanou grafiku pomocí Aspose.Imaging pro .
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/net/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu jste nyní vybaveni k vytváření dynamické animované grafiky ve vašich .NET aplikacích s Aspose.Imaging. Prozkoumejte a inovujte integrací těchto technik do vašich projektů!
 

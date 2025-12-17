@@ -133,7 +133,7 @@ A: Aspose.Imaging stöder batchoperationer via loopar och uppgiftsparallellism i
 - **Köpa**: [Köp licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Försök nu](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Få tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**: [Ställ frågor här](https://forum.aspose.com/c/imaging/10)
+- **Supportforum**: [Ställ frågor här](https://forum.aspose.com/c/imaging/14)
 
 Börja använda Aspose.Imaging idag för att förbättra dina .NET-applikationer med robusta bildbehandlingsfunktioner!
 

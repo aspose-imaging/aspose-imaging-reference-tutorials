@@ -226,7 +226,7 @@ Az útmutató követésével megtanultad, hogyan használhatod az Aspose.Imaging
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ez az átfogó útmutató felvértezi Önt azzal a tudással, amelyre szüksége van ahhoz, hogy hatékonyan elkezdhesse az EMF-fájlok PDF-be konvertálását az Aspose.Imaging for Java segítségével. Jó kódolást!
 

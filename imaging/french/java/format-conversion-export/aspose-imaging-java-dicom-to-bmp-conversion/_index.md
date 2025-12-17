@@ -179,7 +179,7 @@ Dans ce tutoriel, vous avez appris à charger des images DICOM et à les convert
 - [Options d'achat](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce guide, vous serez désormais bien équipé pour gérer les images DICOM avec Aspose.Imaging pour Java. Bon codage !
 

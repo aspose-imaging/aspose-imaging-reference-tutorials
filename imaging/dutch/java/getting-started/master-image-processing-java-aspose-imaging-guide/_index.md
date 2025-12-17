@@ -227,7 +227,7 @@ Je beheerst nu de essentiële technieken voor Aspose.Imaging voor Java, van het 
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefversie](https://releases.aspose.com/imaging/java/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Deze handleiding biedt een uitgebreide basis voor het benutten van Aspose.Imaging in Java. Door deze technieken te begrijpen, kunt u uw applicaties uitbreiden met krachtige beeldverwerkingsmogelijkheden. Veel plezier met coderen!
 

@@ -166,7 +166,7 @@ Considere dividir las imágenes grandes en segmentos más pequeños antes de la 
 - **Compra**: [Comprar licencia de Aspose](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Pruebe Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal**: [Solicitar Licencia Temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Comience hoy su viaje con Aspose.Imaging y transforme sus tareas de procesamiento de imágenes en flujos de trabajo optimizados.
 

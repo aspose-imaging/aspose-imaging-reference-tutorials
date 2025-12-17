@@ -173,7 +173,7 @@ R : Les problèmes courants incluent les fuites de mémoire et les goulots d’
 - **Achat**: Achetez une licence ou obtenez un essai gratuit auprès de [Achat Aspose](https://purchase.aspose.com/buy).
 - **Essai gratuit**: Commencez par un essai à [Communiqués](https://releases.aspose.com/imaging/net/).
 - **Permis temporaire**: Demandez-en un à [Aspose](https://purchase.aspose.com/temporary-license/).
-- **Soutien**: Obtenez de l'aide dans le [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Soutien**: Obtenez de l'aide dans le [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Lancez-vous dans votre voyage vers la maîtrise du traitement d'images avec Aspose.Imaging et propulsez vos applications vers de nouveaux sommets !
 

@@ -184,7 +184,7 @@ A5: Optimalizálja a kódját az erőforrások hatékony kezelésével és a meg
 - **Licenc vásárlása:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Próbálja ki ingyen](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum:** [Aspose képalkotási támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum:** [Aspose képalkotási támogatás](https://forum.aspose.com/c/imaging/14)
 
 Jó kódolást, és jó szórakozást az Aspose.Imaging for Java képességeinek felfedezéséhez!
 

@@ -165,7 +165,7 @@ V5: Igen, az Aspose.Imaging számos formátumot támogat, beleértve a JPEG, PNG
 - **Licenc vásárlása**Látogatás [Aspose Vásárlási Oldal](https://purchase.aspose.com/buy) licencelési lehetőségekért.
 - **Ingyenes próbaverzió**: A funkciók kipróbálásához töltse le a következőt: [Kiadások](https://releases.aspose.com/imaging/net/).
 - **Ideiglenes engedély**Ideiglenes engedély igénylése itt: [Aspose licencelés](https://purchase.aspose.com/temporary-license/).
-- **Támogatás és közösség**: Csatlakozz a beszélgetésekhez, vagy kérj segítséget a következő oldalon: [Aspose Fórum](https://forum.aspose.com/c/imaging/10).
+- **Támogatás és közösség**: Csatlakozz a beszélgetésekhez, vagy kérj segítséget a következő oldalon: [Aspose Fórum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

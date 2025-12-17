@@ -202,7 +202,7 @@ license.setLicense("path/to/your/license/file");
 - **شراء:** [شراء ترخيص Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [ابدأ تجربتك المجانية](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة:** [التقدم بطلب للحصول على ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 نأمل أن يساعدك هذا الدليل في تطبيق Aspose.Imaging بسلاسة في مشاريع Java الخاصة بك. برمجة ممتعة!
 

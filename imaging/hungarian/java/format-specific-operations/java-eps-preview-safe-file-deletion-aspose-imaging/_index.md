@@ -220,7 +220,7 @@ V5: Igen, bár ingyenes próbaverzióval kezdheti, a hosszú távú kereskedelmi
 - **Vásárlás**: Vásároljon licencet itt: [Aspose vásárlás](https://purchase.aspose.com/buy).
 - **Ingyenes próbaverzió**: Kezdje egy próbaverzióval a funkciók kipróbálásához itt: [Aspose ingyenes próbaverziók](https://releases.aspose.com/imaging/java/).
 - **Ideiglenes engedély**: Igényeljen egyet a következőn keresztül: [Aspose ideiglenes engedély](https://purchase.aspose.com/temporary-license/).
-- **Támogatás**Kérdés esetén forduljon a [Aspose Fórum](https://forum.aspose.com/c/imaging/10).
+- **Támogatás**Kérdés esetén forduljon a [Aspose Fórum](https://forum.aspose.com/c/imaging/14).
 
 Ennek az oktatóanyagnak a követésével és az Aspose.Imaging for Java használatával jól felkészült leszel az EPS képek előnézeteinek kezelésére és a fájlok biztonságos törlésére a projektjeidben. Jó kódolást!
 

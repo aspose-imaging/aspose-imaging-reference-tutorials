@@ -160,7 +160,7 @@ A: Hatalı dosya yollarından veya desteklenmeyen formatlardan kaynaklanabilecek
 C: Evet, Aspose, Java'nın yanı sıra .NET, C++ ve diğer platformlar için de kütüphaneler sunuyor.
 
 **S: Sorunla karşılaşırsam destek alabileceğim bir yer var mı?**
-A: Ziyaret edin [Aspose forumu](https://forum.aspose.com/c/imaging/10) Topluluk ve resmi destek için.
+A: Ziyaret edin [Aspose forumu](https://forum.aspose.com/c/imaging/14) Topluluk ve resmi destek için.
 
 **S: Aspose.Imaging ile görüntü işleme için en iyi uygulamalar nelerdir?**
 A: Bellek sızıntılarını önlemek için her zaman farklı dosya boyutlarıyla test yapın, istisnaları dikkatli bir şekilde ele alın ve kaynakları etkili bir şekilde yönetin.
@@ -172,7 +172,7 @@ A: Bellek sızıntılarını önlemek için her zaman farklı dosya boyutlarıyl
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bu öğreticiyi takip ederek, EMF dosyalarını verimli bir şekilde işlemek ve Java projelerinizde Aspose.Imaging'in güçlü özelliklerinden yararlanmak için donanımlı hale gelirsiniz. İyi kodlamalar!
 

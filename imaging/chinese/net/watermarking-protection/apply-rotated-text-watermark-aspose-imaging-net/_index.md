@@ -159,7 +159,7 @@ image.Save(outputDir);
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/net/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10)
+- [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 尝试执行这些步骤，看看 Aspose.Imaging 如何简化您的图像处理任务！
 

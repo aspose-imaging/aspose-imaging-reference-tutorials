@@ -252,7 +252,7 @@ Throughout this guide, we've covered how to effectively load an image, draw on i
 - **Purchase**: Consider purchasing a subscription at [Aspose Purchase](https://purchase.aspose.com/buy).
 - **Free Trial**: Start with a free trial to test features without limitations.
 - **Temporary License**: Obtain a temporary license for full access during your evaluation period.
-- **Support**: Join the community and seek help on [Aspose Forums](https://forum.aspose.com/c/imaging/10).
+- **Support**: Join the community and seek help on [Aspose Forums](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -156,7 +156,7 @@ A5: Mặc dù rất linh hoạt, nhưng hãy luôn xem xét [tài liệu](https:
 - **Mua**: Mua giấy phép để mở khóa đầy đủ các tính năng tại [Mua Aspose](https://purchase.aspose.com/buy).
 - **Dùng thử miễn phí**: Kiểm tra Aspose.Imaging không có giới hạn bằng cách tải xuống [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/).
 - **Giấy phép tạm thời**: Xin giấy phép tạm thời để đánh giá mở rộng từ [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/).
-- **Ủng hộ**: Tiếp cận cộng đồng hoặc tìm kiếm sự giúp đỡ tại [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10).
+- **Ủng hộ**: Tiếp cận cộng đồng hoặc tìm kiếm sự giúp đỡ tại [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

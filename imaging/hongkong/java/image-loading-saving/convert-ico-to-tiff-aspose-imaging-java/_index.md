@@ -181,7 +181,7 @@ license.setLicense("path/to/your/license/file.lic");
 - [購買許可選項](https://purchase.aspose.com/buy)
 - [免費試用版下載](https://releases.aspose.com/imaging/java/)
 - [臨時執照申請](https://purchase.aspose.com/temporary-license/)
-- [支援和社區論壇](https://forum.aspose.com/c/imaging/10)
+- [支援和社區論壇](https://forum.aspose.com/c/imaging/14)
 
 按照本指南操作，您現在能夠使用 Aspose.Imaging Java 有效地處理影像格式轉換。祝您編碼愉快！
 

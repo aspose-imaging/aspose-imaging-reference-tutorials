@@ -153,7 +153,7 @@ Je hebt geleerd hoe je een afbeelding kunt vervagen met Aspose.Imaging voor .NET
 - **Aankoop**: [Koop Aspose-producten](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Start een gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Haal uw tijdelijke rijbewijs](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

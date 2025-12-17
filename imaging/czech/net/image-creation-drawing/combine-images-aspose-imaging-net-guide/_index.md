@@ -190,7 +190,7 @@ Pro další čtení a zdroje:
 - [Zakoupit licence](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/net/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 S těmito zdroji a tipy budete dobře vybaveni k řešení jakéhokoli problému s manipulací s obrázky pomocí Aspose.Imaging pro .NET. Přeji vám příjemné programování!
 

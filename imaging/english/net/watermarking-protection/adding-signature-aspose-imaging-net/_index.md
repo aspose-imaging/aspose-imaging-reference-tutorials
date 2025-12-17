@@ -166,7 +166,7 @@ To continue exploring, consider experimenting with other features provided by As
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/net/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Support Forum](https://forum.aspose.com/c/imaging/14)
 
 With these resources, you're well-equipped to explore further and harness the full potential of Aspose.Imaging for your image processing needs. Happy coding!
 

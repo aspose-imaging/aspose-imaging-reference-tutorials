@@ -178,7 +178,7 @@ A3: Ghé thăm [trang giấy phép tạm thời](https://purchase.aspose.com/tem
 A4: Những thách thức thường gặp bao gồm tìm sự cân bằng phù hợp giữa kích thước và chất lượng tệp, cũng như quản lý việc sử dụng bộ nhớ cho những hình ảnh lớn.
 
 **Câu hỏi 5: Có cộng đồng hoặc diễn đàn hỗ trợ nào dành cho người dùng Aspose.Imaging không?**  
-A5: Có, bạn có thể ghé thăm [Diễn đàn hình ảnh của Aspose](https://forum.aspose.com/c/imaging/10) để tìm kiếm sự trợ giúp từ những người dùng khác và nhóm Aspose.
+A5: Có, bạn có thể ghé thăm [Diễn đàn hình ảnh của Aspose](https://forum.aspose.com/c/imaging/14) để tìm kiếm sự trợ giúp từ những người dùng khác và nhóm Aspose.
 
 ## Tài nguyên
 
@@ -187,7 +187,7 @@ A5: Có, bạn có thể ghé thăm [Diễn đàn hình ảnh của Aspose](http
 - **Mua:** Hãy cân nhắc mua giấy phép để có quyền truy cập đầy đủ tại [Trang mua hàng Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** Bắt đầu bằng việc đánh giá thông qua [Bản dùng thử miễn phí của Aspose](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** Nộp đơn xin giấy phép tạm thời tại đây: [Giấy phép tạm thời Aspose](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** Tham gia thảo luận trong [Diễn đàn hỗ trợ hình ảnh Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** Tham gia thảo luận trong [Diễn đàn hỗ trợ hình ảnh Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn có thể quản lý và tối ưu hóa hiệu quả các tệp GIF bằng Aspose.Imaging for Java, đảm bảo hình ảnh chất lượng cao với kích thước tệp giảm. Chúc bạn viết mã vui vẻ!
 

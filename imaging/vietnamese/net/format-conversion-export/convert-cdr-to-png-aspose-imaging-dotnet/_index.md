@@ -174,7 +174,7 @@ Trong hướng dẫn này, bạn đã học cách chuyển đổi tệp CDR sang
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Tải xuống dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Yêu cầu cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Bắt đầu hành trình chuyển đổi hình ảnh của bạn với Aspose.Imaging cho .NET và mở ra những khả năng mới trong ứng dụng của bạn!
 

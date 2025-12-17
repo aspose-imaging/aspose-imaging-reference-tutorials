@@ -188,7 +188,7 @@ Aspose.Imaging for Java を使用して、画像をグレースケールに効�
 - **ダウンロード**最新バージョンを入手する [Aspose.Imaging リリース](https://releases.aspose.com/imaging/java/)
 - **購入と試用**購入オプションについて学び、無料トライアルを始める [ここ](https://purchase.aspose.com/buy)
 - **一時ライセンス**一時ライセンスを取得する [ここ](https://purchase.aspose.com/temporary-license/)
-- **サポート**コミュニティフォーラムに参加する [Aspose Imagingフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**コミュニティフォーラムに参加する [Aspose Imagingフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドが、Aspose.Imaging for Java をプロジェクトで効果的に活用する助けになれば幸いです。コーディングを楽しみましょう！
 

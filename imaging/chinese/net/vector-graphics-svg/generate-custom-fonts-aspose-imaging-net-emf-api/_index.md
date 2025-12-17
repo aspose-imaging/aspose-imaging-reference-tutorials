@@ -181,7 +181,7 @@ using (EmfImage emf = new EmfImage(700, 100))
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/net/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10)
+- [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 立即踏上 Aspose.Imaging 之旅，将您的 .NET 应用程序提升到新的高度！
 

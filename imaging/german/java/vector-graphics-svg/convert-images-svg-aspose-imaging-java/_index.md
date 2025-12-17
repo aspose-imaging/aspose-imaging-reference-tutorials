@@ -201,7 +201,7 @@ Dieses Tutorial vermittelt Ihnen das Wissen, verschiedene Bildformate zu laden u
 - [Lizenz erwerben](https://purchase.aspose.com/buy)
 - [Kostenloser Testdownload](https://releases.aspose.com/imaging/java/)
 - [Antrag auf eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) 
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) 
 
 Wenn Sie dieser Anleitung folgen, sind Sie auf dem besten Weg, die Bildverarbeitung mit Aspose.Imaging Java zu meistern. Viel Spaß beim Programmieren!
 

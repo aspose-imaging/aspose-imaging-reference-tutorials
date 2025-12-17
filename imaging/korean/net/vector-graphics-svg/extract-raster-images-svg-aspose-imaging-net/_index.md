@@ -141,7 +141,7 @@ SVG에서 래스터 이미지를 추출하는 것이 유익한 실제 시나리�
 - **구입**: [면허 취득](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료 체험판으로 시작하세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [Aspose 지원](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [Aspose 지원](https://forum.aspose.com/c/imaging/14)
 
 이 튜토리얼은 Aspose.Imaging for .NET을 효과적으로 사용하는 방법을 안내하고, 이 강력한 라이브러리를 최대한 활용할 수 있도록 설계되었습니다. 즐거운 코딩 되세요!
 

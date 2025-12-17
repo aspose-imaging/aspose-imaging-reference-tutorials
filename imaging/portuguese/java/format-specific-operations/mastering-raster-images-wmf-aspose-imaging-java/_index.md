@@ -159,7 +159,7 @@ Seguindo este tutorial, você aprendeu a carregar e desenhar imagens raster em u
 - **Opções de compra:** https://purchase.aspose.com/buy
 - **Teste gratuito:** https://releases.aspose.com/imaging/java/
 - **Licença temporária:** https://purchase.aspose.com/temporary-license/
-- **Fórum de suporte:** https://forum.aspose.com/c/imaging/10
+- **Fórum de suporte:** https://forum.aspose.com/c/imaging/14
 
 Ao utilizar o Aspose.Imaging para Java, você pode aprimorar seus aplicativos com recursos avançados de processamento de imagens. Boa programação!
 

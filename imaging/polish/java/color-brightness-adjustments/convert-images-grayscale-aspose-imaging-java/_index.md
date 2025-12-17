@@ -188,7 +188,7 @@ Nauczyłeś się, jak skutecznie konwertować obrazy do skali szarości za pomoc
 - **Pobierać**:Pobierz najnowszą wersję z [Aspose.Imaging publikuje](https://releases.aspose.com/imaging/java/)
 - **Zakup i wersja próbna**:Dowiedz się więcej o opcjach zakupu i zacznij od bezpłatnego okresu próbnego [Tutaj](https://purchase.aspose.com/buy)
 - **Licencja tymczasowa**:Uzyskaj tymczasową licencję [Tutaj](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**:Dołącz do forum społeczności na [Forum obrazowania Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**:Dołącz do forum społeczności na [Forum obrazowania Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mamy nadzieję, że ten przewodnik pomoże Ci skutecznie używać Aspose.Imaging for Java w Twoich projektach. Miłego kodowania!
 

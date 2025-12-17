@@ -203,7 +203,7 @@ Explore more features of Aspose.Imaging by diving into their comprehensive docum
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/java/)
 - [Temporary License Request](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 By mastering these techniques, you'll be well-equipped to handle complex image processing tasks in your Java applications. Happy coding!
 

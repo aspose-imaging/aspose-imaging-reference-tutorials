@@ -218,7 +218,7 @@ A: Utilizza l'elaborazione in batch e ottimizza le impostazioni di memoria per g
 - **Acquistare**: Acquista una licenza o una versione di prova tramite [Acquisto Aspose](https://purchase.aspose.com/buy)
 - **Prova gratuita**: Prova Aspose.Imaging con questo [link di prova gratuito](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea**: Ottieni una licenza temporanea tramite [questo collegamento](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: Partecipa alla discussione sulle sfide dell'elaborazione delle immagini in [Forum di Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: Partecipa alla discussione sulle sfide dell'elaborazione delle immagini in [Forum di Aspose](https://forum.aspose.com/c/imaging/14)
 
 Affronta il tuo prossimo progetto con fiducia, sapendo di avere gli strumenti e le competenze per convertire i file CMX senza problemi. Buona programmazione!
 

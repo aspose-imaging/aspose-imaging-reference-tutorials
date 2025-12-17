@@ -198,7 +198,7 @@ Farklı yapılandırmalarla denemeler yapın `PdfOptions` Uygulamanızı daha da
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Bilgileri](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı rehber, dijital medya projelerinizi geliştirerek Aspose.Imaging for Java'yı etkili bir şekilde kullanmanız için gereken becerileri edinmenizi sağlamayı amaçlamaktadır. İyi kodlamalar!
 

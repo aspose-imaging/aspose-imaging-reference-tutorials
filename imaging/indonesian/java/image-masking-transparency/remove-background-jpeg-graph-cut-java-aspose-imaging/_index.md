@@ -212,7 +212,7 @@ Untuk lebih meningkatkan keterampilan Anda, pertimbangkan untuk menjelajahi fitu
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Dapatkan Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda dengan Aspose.Imaging hari ini dan buka potensi penuh pemrosesan gambar di Java!
 

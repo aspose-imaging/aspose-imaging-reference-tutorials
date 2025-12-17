@@ -128,7 +128,7 @@ A1: Sí, puedes procesar imágenes por lotes iterando sobre un directorio y apli
 A2: Hay una versión de prueba disponible, pero para uso comercial es necesario adquirir una licencia. Visita [Compra](https://purchase.aspose.com/buy) Para más detalles.
 
 **P3: ¿Cómo puedo solucionar errores de conversión?**
-A3: Verifique las rutas de los archivos y asegúrese de que Aspose.Imaging esté correctamente instalado. Consulte [Foro de soporte](https://forum.aspose.com/c/imaging/10) Si los problemas persisten.
+A3: Verifique las rutas de los archivos y asegúrese de que Aspose.Imaging esté correctamente instalado. Consulte [Foro de soporte](https://forum.aspose.com/c/imaging/14) Si los problemas persisten.
 
 **P4: ¿Puedo modificar las propiedades del documento PDF durante la conversión?**
 A4: Sí, puede configurar varias propiedades de información del documento como título, autor o palabras clave usando `PdfDocumentInfo`.
@@ -142,7 +142,7 @@ A5: Otras bibliotecas incluyen ImageMagick y Ghostscript, aunque pueden requerir
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/net/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Esperamos que esta guía te haya sido útil. Ahora, ¿por qué no te animas a convertir tus archivos BMP a PDF con Aspose.Imaging para .NET?
 

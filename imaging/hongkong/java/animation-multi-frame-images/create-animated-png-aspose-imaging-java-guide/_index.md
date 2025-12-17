@@ -228,7 +228,7 @@ A3：檢查授權條款以了解使用限制；否則，它對於大多數影像
 
 **Q4：動畫製作過程中遇到錯誤怎麼辦？**
 
-A4：驗證檔案路徑並確保所有依賴項已正確配置。請諮詢 [Aspose 支援](https://forum.aspose.com/c/imaging/10) 如果問題仍然存在。
+A4：驗證檔案路徑並確保所有依賴項已正確配置。請諮詢 [Aspose 支援](https://forum.aspose.com/c/imaging/14) 如果問題仍然存在。
 
 **Q5：如何修改幀屬性以獲得獨特的效果？**
 
@@ -241,7 +241,7 @@ A5：嘗試使用 Aspose.Imaging 提供的伽瑪調整、alpha 混合或其他�
 - **購買**： [購買許可證](https://purchase.aspose.com/buy)
 - **免費試用**： [免費試用 Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **臨時執照**： [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 有了這份全面的指南，您就能開始使用 Aspose.Imaging 在 Java 中建立動畫 PNG 圖片了。祝您程式愉快！
 

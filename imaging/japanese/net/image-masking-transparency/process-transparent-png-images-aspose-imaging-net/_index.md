@@ -145,7 +145,7 @@ Aspose.Imaging for .NET は汎用性が高く、さまざまな実際のシナ�
 - Aspose.Imaging でサポートされている他のファイル形式を調べます。
 
 **行動喚起:**
-次のプロジェクトでこれらの機能を実装して、Aspose.Imaging for .NETが画像処理タスクをいかに効率化できるかをお試しください。ご意見やご質問は、フォーラムでお気軽にお寄せください。 [Asposeフォーラム](https://forum.aspose.com/c/imaging/10) 何か困難に直面した場合。
+次のプロジェクトでこれらの機能を実装して、Aspose.Imaging for .NETが画像処理タスクをいかに効率化できるかをお試しください。ご意見やご質問は、フォーラムでお気軽にお寄せください。 [Asposeフォーラム](https://forum.aspose.com/c/imaging/14) 何か困難に直面した場合。
 
 ## FAQセクション
 1. **Aspose.Imaging for .NET とは何ですか?**
@@ -165,7 +165,7 @@ Aspose.Imaging for .NET は汎用性が高く、さまざまな実際のシナ�
 - [購入オプション](https://purchase.aspose.com/buy)
 - [無料トライアルアクセス](https://releases.aspose.com/imaging/net/)
 - [一時ライセンスの取得](https://purchase.aspose.com/temporary-license/)
-- [サポートとコミュニティフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートとコミュニティフォーラム](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

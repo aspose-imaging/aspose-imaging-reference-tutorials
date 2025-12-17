@@ -178,7 +178,7 @@ A5: Aspose.Imaging 자체에는 명확한 제한이 없지만, 매우 큰 이미
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험판](https://releases.aspose.com/imaging/java/)
 - [임시 면허 요청](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따라 하면 이제 Aspose.Imaging을 사용하여 Java 애플리케이션에서 효과적인 이미지 처리를 구현할 준비가 되었습니다. 즐거운 코딩 되세요!
 

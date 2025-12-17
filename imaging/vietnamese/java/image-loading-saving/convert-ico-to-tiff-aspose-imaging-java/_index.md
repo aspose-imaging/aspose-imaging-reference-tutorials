@@ -181,7 +181,7 @@ Bạn đã sẵn sàng thử chưa? Hãy áp dụng những gì bạn đã học
 - [Tùy chọn cấp phép mua hàng](https://purchase.aspose.com/buy)
 - [Tải xuống dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Đơn xin cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ và cộng đồng](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ và cộng đồng](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, giờ đây bạn đã có thể xử lý chuyển đổi định dạng hình ảnh bằng Aspose.Imaging Java một cách hiệu quả. Chúc bạn viết mã vui vẻ!
 

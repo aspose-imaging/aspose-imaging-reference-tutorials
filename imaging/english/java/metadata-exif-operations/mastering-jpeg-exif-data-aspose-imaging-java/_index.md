@@ -176,7 +176,7 @@ A3: The library will gracefully handle such cases by returning null for absent d
 A4: The trial version may have usage restrictions like a watermark or processing limits.
 
 **Q5: How can I get support if I encounter issues with Aspose.Imaging?**
-A5: Visit the [Aspose forums](https://forum.aspose.com/c/imaging/10) for community and official support.
+A5: Visit the [Aspose forums](https://forum.aspose.com/c/imaging/14) for community and official support.
 
 ## Resources
 
@@ -185,7 +185,7 @@ A5: Visit the [Aspose forums](https://forum.aspose.com/c/imaging/10) for communi
 - **Purchase**: Acquire a license through [Aspose Purchase](https://purchase.aspose.com/buy)
 - **Free Trial**: Start with a free trial at [Aspose.Imaging Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: Request a temporary license from [Aspose Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: Join the discussion in [Aspose Support Forums](https://forum.aspose.com/c/imaging/10)
+- **Support**: Join the discussion in [Aspose Support Forums](https://forum.aspose.com/c/imaging/14)
 
 Embark on your journey with Aspose.Imaging for Java and unlock new possibilities in image processing today!
 

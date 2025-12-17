@@ -142,7 +142,7 @@ Zu den bewährten Methoden gehört die Verwendung `using` Anweisungen zur automa
 ## Abschluss
 Sie haben nun gelernt, wie Sie mit Aspose.Imaging für .NET Rasterbilder auf EMF-Leinwände zeichnen. Diese Funktion kann die visuelle Qualität Ihrer Projekte deutlich verbessern und bietet eine Kombination aus Vektorpräzision und Rasterfülle.
 
-Erwägen Sie im weiteren Verlauf, zusätzliche Funktionen von Aspose.Imaging zu erkunden oder diese Funktionalität in größere Workflows innerhalb Ihrer Anwendungen zu integrieren. Bei weiteren Fragen wenden Sie sich bitte an uns über das [Aspose Support Forum](https://forum.aspose.com/c/imaging/10).
+Erwägen Sie im weiteren Verlauf, zusätzliche Funktionen von Aspose.Imaging zu erkunden oder diese Funktionalität in größere Workflows innerhalb Ihrer Anwendungen zu integrieren. Bei weiteren Fragen wenden Sie sich bitte an uns über das [Aspose Support Forum](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ-Bereich
 **1. Was ist eine EMF-Datei?**

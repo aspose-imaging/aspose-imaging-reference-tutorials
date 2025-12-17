@@ -150,7 +150,7 @@ A5: 자세한 문서는 다음에서 찾을 수 있습니다. [Aspose.Imaging .N
 - **라이센스 구매**: [지금 구매하세요](https://purchase.aspose.com/buy)
 - **무료 체험**: [시작하기](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [여기에서 신청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [Aspose.Imaging 지원](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [Aspose.Imaging 지원](https://forum.aspose.com/c/imaging/14)
 
 즐거운 코딩을 하시고, Aspose.Imaging을 사용하여 실험하며 이미지 처리 요구 사항을 실현해보세요!
 

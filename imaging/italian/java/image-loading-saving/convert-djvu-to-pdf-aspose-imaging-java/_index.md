@@ -206,7 +206,7 @@ Pronti a mettere in pratica queste conoscenze? Approfondite l'argomento [Documen
 - [Acquista licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Richiesta di licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Sentiti libero di esplorare queste risorse per ulteriore guida e supporto durante l'implementazione di Aspose.Imaging nei tuoi progetti Java!
 

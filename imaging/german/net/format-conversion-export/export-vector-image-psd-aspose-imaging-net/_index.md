@@ -166,7 +166,7 @@ Erwägen Sie als nächsten Schritt, mit anderen von Aspose.Imaging unterstützte
 - **Kaufen**: Kaufen Sie eine Lizenz über [Aspose Einkaufsportal](https://purchase.aspose.com/buy).
 - **Kostenlose Testversion**: Starten Sie mit einer kostenlosen Testversion über [Downloads](https://releases.aspose.com/imaging/net/).
 - **Temporäre Lizenz**: Fordern Sie eine [Hier](https://purchase.aspose.com/temporary-license/).
-- **Unterstützung**: Treten Sie der Community bei in [Aspose-Foren](https://forum.aspose.com/c/imaging/10) für Hilfe und Diskussionen.
+- **Unterstützung**: Treten Sie der Community bei in [Aspose-Foren](https://forum.aspose.com/c/imaging/14) für Hilfe und Diskussionen.
 
 Wir hoffen, dass dieser Leitfaden Ihnen hilft, die Funktion zum Exportieren von Vektorbildern in Ihre Projekte zu integrieren. Viel Spaß beim Programmieren!
 

@@ -226,7 +226,7 @@ Dodržováním tohoto návodu jste se naučili, jak využít Aspose.Imaging pro 
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Tato komplexní příručka by vám měla poskytnout znalosti potřebné k efektivnímu převodu souborů EMF do PDF pomocí Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

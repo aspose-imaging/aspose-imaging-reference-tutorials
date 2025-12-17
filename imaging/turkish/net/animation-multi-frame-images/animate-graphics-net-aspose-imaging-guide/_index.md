@@ -191,7 +191,7 @@ Aspose.Imaging for .NET kullanarak animasyonlu grafikler oluşturmayı öğrendi
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, artık Aspose.Imaging ile .NET uygulamalarınızda dinamik animasyonlu grafikler oluşturmak için donanımlısınız. Bu teknikleri projelerinize entegre ederek keşfedin ve yenilik yapın!
 

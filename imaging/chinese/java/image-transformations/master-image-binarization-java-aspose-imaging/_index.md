@@ -191,7 +191,7 @@ A5：是的，Aspose.Imaging 支持多种图像格式，包括 JPEG、PNG、BMP 
 - **购买：** [购买 Aspose.License](https://purchase.aspose.com/buy)
 - **免费试用：** [开始免费试用](https://releases.aspose.com/imaging/java/)
 - **临时执照：** [获得临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 通过学习本教程，您将掌握使用 Aspose.Imaging for Java 有效处理图像二值化任务的技能。祝您编程愉快！
 

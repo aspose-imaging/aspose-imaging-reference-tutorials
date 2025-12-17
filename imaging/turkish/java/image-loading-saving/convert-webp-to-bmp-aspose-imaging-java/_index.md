@@ -173,7 +173,7 @@ Bu adımları kendi geliştirme ortamınızda uygulamayı deneyebilir ve Aspose.
 - **Satın almak:** [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu:** [Aspose Görüntüleme Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu:** [Aspose Görüntüleme Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kaynakları keşfetmekten ve Aspose.Imaging'i projelerinize entegre ederek kusursuz görüntü işleme yetenekleri kazanmaktan çekinmeyin.
 

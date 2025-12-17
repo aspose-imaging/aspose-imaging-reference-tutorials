@@ -160,7 +160,7 @@ Optimalizálja a memóriahasználatot a képek kisebb darabokban történő feld
 Az Aspose.Imaging elsősorban a DICOM-ra összpontosít, de számos más képformátumot is támogat.
 
 **5. Hol kaphatok segítséget, ha problémákba ütközöm az Aspose.Imaging használatával?**
-Látogassa meg a [Aspose fórumok](https://forum.aspose.com/c/imaging/10) támogatásért és más felhasználókkal, valamint szakértőkkel való kapcsolatfelvételért.
+Látogassa meg a [Aspose fórumok](https://forum.aspose.com/c/imaging/14) támogatásért és más felhasználókkal, valamint szakértőkkel való kapcsolatfelvételért.
 
 ## Erőforrás
 

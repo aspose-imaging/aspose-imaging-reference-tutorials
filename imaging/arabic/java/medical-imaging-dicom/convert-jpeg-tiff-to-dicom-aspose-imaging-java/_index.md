@@ -171,7 +171,7 @@ image.save(outputFileNameMultipageDcm, new DicomOptions());
 - **شراء**: [شراء Aspose Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جرب مجانا](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 من خلال اتباع هذا البرنامج التعليمي، ستكون مجهزًا بشكل جيد للتعامل مع مهام تحويل الصور في مشاريع التصوير الطبي الخاصة بك باستخدام Aspose.Imaging for Java.
 

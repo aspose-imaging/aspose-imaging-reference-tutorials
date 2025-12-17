@@ -163,7 +163,7 @@ Teraz wiesz, jak ładować, zapisywać i usuwać obrazy za pomocą Aspose.Imagin
 - **Zakup**:Kup swoją licencję w [Zakup Aspose](https://purchase.aspose.com/buy).
 - **Bezpłatna wersja próbna**:Przetestuj za pomocą bezpłatnej wersji próbnej dostępnej na ich stronie.
 - **Licencja tymczasowa**:Pobierz, aby uzyskać dostęp do wszystkich funkcji bez ograniczeń.
-- **Wsparcie**:Uzyskaj pomoc od społeczności na [Forum Aspose](https://forum.aspose.com/c/imaging/10). 
+- **Wsparcie**:Uzyskaj pomoc od społeczności na [Forum Aspose](https://forum.aspose.com/c/imaging/14). 
 
 Dzięki temu kompleksowemu przewodnikowi będziesz teraz przygotowany do wydajnej obsługi plików graficznych w aplikacjach Java, korzystając z Aspose.Imaging!
 

@@ -167,7 +167,7 @@ R5: Embora eficaz, é mais adequado para imagens com variações de contraste lo
 - **Comprar**: [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Comece com um teste gratuito](https://releases.aspose.com/imaging/net/)
 - **Licença Temporária**: [Solicitar uma Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**:Para qualquer dúvida, visite o [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**:Para qualquer dúvida, visite o [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Embarque em sua jornada com o Aspose.Imaging para .NET e desbloqueie novos recursos em imagens médicas!
 

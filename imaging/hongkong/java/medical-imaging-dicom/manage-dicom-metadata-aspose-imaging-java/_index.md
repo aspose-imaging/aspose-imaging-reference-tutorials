@@ -173,7 +173,7 @@ image.save(outputPath, exportOptions);
    - 元數據操作不會改變像素數據，確保影像品質保持不變。
 
 5. **如果遇到問題，我可以在哪裡找到支援？**
-   - 訪問 [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/10) 尋求社區專家和 Aspose 員工的協助。
+   - 訪問 [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/14) 尋求社區專家和 Aspose 員工的協助。
 
 ## 資源
 

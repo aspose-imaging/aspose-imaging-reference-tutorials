@@ -182,7 +182,7 @@ Aspose.Imaging for Java 可以应用于许多实际场景：
 - [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - [免费试用许可证](https://releases.aspose.com/imaging/java/)
 - [临时许可证申请](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 按照本指南操作，您将能够使用 Aspose.Imaging for Java 高效处理 DICOM 图像。祝您编码愉快！
 

@@ -155,7 +155,7 @@ Hãy thử triển khai giải pháp này vào dự án của bạn ngay hôm na
 - **Mua**: https://purchase.aspose.com/buy
 - **Dùng thử miễn phí**: https://releases.aspose.com/imaging/java/
 - **Giấy phép tạm thời**: https://purchase.aspose.com/temporary-license/
-- **Diễn đàn hỗ trợ**: https://forum.aspose.com/c/imaging/10
+- **Diễn đàn hỗ trợ**: https://forum.aspose.com/c/imaging/14
 
 Hướng dẫn này cung cấp cho bạn kiến thức và công cụ để xử lý hình ảnh TIFF bị hỏng bằng Aspose.Imaging for Java. Hãy bắt đầu thử nghiệm và tích hợp các khả năng này vào ứng dụng của bạn ngay hôm nay!
 

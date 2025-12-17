@@ -190,7 +190,7 @@ Jste připraveni začít? Zkuste toto řešení implementovat ve svém dalším 
 - [Nákup](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Tato příručka by vás měla vybavit vším, co potřebujete k efektivnímu používání Aspose.Imaging pro načítání a export obrázků ve formátu WebP pomocí Javy. Přejeme vám příjemné programování!
 

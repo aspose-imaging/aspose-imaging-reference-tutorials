@@ -219,7 +219,7 @@ További olvasmányért és támogatásért:
 - [Licencek vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverziók](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély információk](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az Aspose.Imaging Java-hoz való felhasználásával hatékony képfeldolgozási képességeket szerezhetsz, amelyek leegyszerűsítik a fejlesztési folyamatot. Jó kódolást!
 

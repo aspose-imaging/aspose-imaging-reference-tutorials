@@ -160,7 +160,7 @@ A5: बिल्कुल। इसकी मजबूत फीचर सेट
 - **खरीदना**: [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [मुफ्त में आजमाएं](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [Aspose.Imaging सहायता फ़ोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [Aspose.Imaging सहायता फ़ोरम](https://forum.aspose.com/c/imaging/14)
 
 इन संसाधनों और इस गाइड के साथ, आप .NET में Aspose.Imaging का उपयोग करके DICOM छवियों के साथ काम करना शुरू करने के लिए अच्छी तरह से सुसज्जित हैं। हैप्पी कोडिंग!
 

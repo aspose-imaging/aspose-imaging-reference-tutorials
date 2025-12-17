@@ -173,7 +173,7 @@ Az Aspose.Imaging for Java segítségével a DICOM metaadatok kezelése egy hat�
    - A metaadatok manipulálása nem változtatja meg a pixeladatokat, így a képminőség változatlan marad.
 
 5. **Hol találok támogatást, ha problémákba ütközöm?**
-   - Látogassa meg a [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/10) közösségi szakértők és az Aspose munkatársainak segítségét kérem.
+   - Látogassa meg a [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/14) közösségi szakértők és az Aspose munkatársainak segítségét kérem.
 
 ## Erőforrás
 

@@ -182,7 +182,7 @@ Die kostenlose Testversion unterliegt Einschränkungen, z. B. Wasserzeichen auf 
 - **Kaufen:** [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Kostenlose Testversion von Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Erhalten Sie eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Aspose Forum-Support](https://forum.aspose.com/c/imaging/10) 
+- **Unterstützung:** [Aspose Forum-Support](https://forum.aspose.com/c/imaging/14) 
 
 Mit diesem umfassenden Leitfaden sind Sie bestens gerüstet, um Aspose.Imaging für Java in Ihren Projekten einzusetzen. Viel Spaß beim Programmieren!
 

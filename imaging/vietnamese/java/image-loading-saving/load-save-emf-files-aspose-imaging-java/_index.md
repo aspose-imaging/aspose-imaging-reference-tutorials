@@ -196,7 +196,7 @@ Luôn sử dụng các khối try-catch để xử lý các IOException tiềm �
 - **Mua**: Để có giấy phép đầy đủ, hãy truy cập [Mua Aspose.Imaging](https://purchase.aspose.com/buy).
 - **Dùng thử miễn phí**: Bắt đầu bằng một thử nghiệm tại [Tải xuống miễn phí Aspose.Imaging](https://releases.aspose.com/imaging/java/).
 - **Giấy phép tạm thời**: Xin giấy phép tạm thời từ [Trang cấp phép Aspose](https://purchase.aspose.com/temporary-license/).
-- **Ủng hộ**:Tham gia thảo luận trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10).
+- **Ủng hộ**:Tham gia thảo luận trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14).
 
 Với những tài nguyên này, bạn đã được trang bị đầy đủ để tìm hiểu sâu hơn về xử lý hình ảnh với Aspose.Imaging for Java. Chúc bạn viết mã vui vẻ!
 

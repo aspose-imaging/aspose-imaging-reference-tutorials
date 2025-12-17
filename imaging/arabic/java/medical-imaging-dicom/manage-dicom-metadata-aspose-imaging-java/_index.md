@@ -173,7 +173,7 @@ image.save(outputPath, exportOptions);
    - لا يؤدي التلاعب بالبيانات الوصفية إلى تغيير بيانات البكسل، مما يضمن بقاء جودة الصورة سليمة.
 
 5. **أين يمكنني العثور على الدعم إذا واجهت مشاكل؟**
-   - قم بزيارة [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/10) للحصول على المساعدة من خبراء المجتمع وموظفي Aspose.
+   - قم بزيارة [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/14) للحصول على المساعدة من خبراء المجتمع وموظفي Aspose.
 
 ## موارد
 

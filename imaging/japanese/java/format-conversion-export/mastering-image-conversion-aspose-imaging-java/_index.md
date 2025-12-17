@@ -212,7 +212,7 @@ Aspose.Imaging for Java を使って、様々な形式で画像をエクスポ�
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアルを受ける](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java を使用して画像処理の旅に乗り出し、今すぐプロジェクトの品質を向上させましょう。
 

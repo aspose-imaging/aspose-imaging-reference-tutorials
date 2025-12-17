@@ -171,7 +171,7 @@ WebP 提供卓越的壓縮，且不會損失質量，從而縮短載入時間並
 - **文件:** [Aspose.Imaging for Java 參考](https://reference.aspose.com/imaging/java/)
 - **下載：** [最新發布](https://releases.aspose.com/imaging/java/)
 - **購買和試用：** 探索授權選項 [Aspose 購買](https://purchase.aspose.com/buy)
-- **支持：** 加入社群討論 [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支持：** 加入社群討論 [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 在您的下一個專案中嘗試這些步驟，了解 Aspose.Imaging Java 如何簡化和增強您的影像處理工作流程！
 

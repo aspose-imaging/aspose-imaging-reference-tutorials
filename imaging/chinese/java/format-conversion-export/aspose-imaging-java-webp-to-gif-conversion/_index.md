@@ -197,7 +197,7 @@ import com.aspose.imaging.imageoptions.GifOptions;
 - **购买：** 访问 [Aspose 购买页面](https://purchase.aspose.com/buy) 许可选项
 - **免费试用：** 开始试用 [免费试用链接](https://releases.aspose.com/imaging/java/)
 - **临时执照：** 通过获取临时访问权限 [临时许可证页面](https://purchase.aspose.com/temporary-license/)
-- **支持：** 与社区互动 [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持：** 与社区互动 [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

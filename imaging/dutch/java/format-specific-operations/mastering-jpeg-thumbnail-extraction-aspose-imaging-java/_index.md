@@ -193,7 +193,7 @@ Klaar om te beginnen met implementeren? Ga naar de [Aspose.Imaging-documentatie]
    - U kunt een tijdelijke licentie voor evaluatie krijgen of een volledige licentie voor productiegebruik aanschaffen.
 
 5. **Waar kan ik ondersteuning vinden als ik problemen ondervind?**  
-   - Bezoek de [Aspose-forum](https://forum.aspose.com/c/imaging/10) voor steun van de gemeenschap en de overheid.
+   - Bezoek de [Aspose-forum](https://forum.aspose.com/c/imaging/14) voor steun van de gemeenschap en de overheid.
 
 ## Bronnen
 
@@ -202,7 +202,7 @@ Klaar om te beginnen met implementeren? Ga naar de [Aspose.Imaging-documentatie]
 - Aankoop: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - Gratis proefperiode: [Gratis proefversies beschikbaar](https://releases.aspose.com/imaging/java/)
 - Tijdelijke licentie: [Vraag een tijdelijke vergunning aan](https://purchase.aspose.com/temporary-license/)
-- Steun: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- Steun: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Met deze hulpmiddelen bent u klaar om Aspose.Imaging optimaal te benutten in uw Java-projecten. Veel plezier met coderen!
 

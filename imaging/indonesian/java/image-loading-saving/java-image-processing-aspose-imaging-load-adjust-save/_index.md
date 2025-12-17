@@ -215,7 +215,7 @@ Anda kini telah menguasai dasar-dasar pemrosesan gambar Java dengan Aspose.Imagi
 - **Pembelian**: [Beli Produk Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulai di sini](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan pemrosesan gambar Java Anda dengan Aspose.Imaging dan buka kemungkinan baru dalam manipulasi gambar digital!
 

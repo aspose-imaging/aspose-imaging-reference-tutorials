@@ -187,7 +187,7 @@ Neste tutorial, exploramos como carregar e desenhar uma imagem raster em uma tel
 - [Comprar uma licença](https://purchase.aspose.com/buy)
 - [Informações sobre o teste gratuito](https://releases.aspose.com/imaging/java/)
 - [Solicitação de Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Seguindo este guia, você estará bem equipado para integrar imagens raster em telas SVG usando o Aspose.Imaging para Java. Boa programação!
 

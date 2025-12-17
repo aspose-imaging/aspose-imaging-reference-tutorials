@@ -169,7 +169,7 @@ A3: 라이브러리는 데이터 필드가 없는 경우 null을 반환하여 �
 A4: 체험판에는 워터마크나 처리 제한 등 사용 제한이 있을 수 있습니다.
 
 **질문 5: Aspose.Imaging에서 문제가 발생하면 어떻게 지원을 받을 수 있나요?**
-A5: 방문하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10) 커뮤니티와 공식적인 지원을 위해.
+A5: 방문하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/14) 커뮤니티와 공식적인 지원을 위해.
 
 ## 자원
 
@@ -178,7 +178,7 @@ A5: 방문하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10) 커�
 - **구입**: 라이센스를 취득하다 [Aspose 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: 무료 체험판으로 시작하세요 [Aspose.Imaging 무료 체험판](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: 임시 면허를 요청하세요 [Aspose 임시 면허](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: 토론에 참여하세요 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: 토론에 참여하세요 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java로 여정을 시작하고 오늘부터 이미지 처리의 새로운 가능성을 열어보세요!
 

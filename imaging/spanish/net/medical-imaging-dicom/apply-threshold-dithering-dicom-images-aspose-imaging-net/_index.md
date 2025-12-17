@@ -154,7 +154,7 @@ Aprendió a aplicar tramado de umbral a imágenes DICOM con Aspose.Imaging para 
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/net/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Esta guía completa le proporciona todo lo que necesita para aplicar el tramado de umbral a las imágenes DICOM utilizando Aspose.Imaging para .NET, mejorando sus capacidades de procesamiento de imágenes.
 

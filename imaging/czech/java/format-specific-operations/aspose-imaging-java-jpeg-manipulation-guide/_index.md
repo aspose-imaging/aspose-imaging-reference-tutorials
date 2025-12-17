@@ -184,7 +184,7 @@ A5: Optimalizujte svůj kód efektivním řízením zdrojů a používáním vho
 - **Licence k zakoupení:** [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Vyzkoušet zdarma](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Získat dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory:** [Podpora zobrazování Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory:** [Podpora zobrazování Aspose](https://forum.aspose.com/c/imaging/14)
 
 Přeji vám příjemné programování a užijte si objevování možností Aspose.Imaging pro Javu!
 

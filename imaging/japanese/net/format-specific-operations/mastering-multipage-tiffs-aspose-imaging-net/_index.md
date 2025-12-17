@@ -158,7 +158,7 @@ Aspose.Imaging for .NET が複数の画像の読み込みと複数ページの T
 - [購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 この包括的なガイドを読めば、Aspose.Imaging for .NET をプロジェクトで効果的に活用するための知識が身に付くはずです。コーディングを楽しみましょう！
 

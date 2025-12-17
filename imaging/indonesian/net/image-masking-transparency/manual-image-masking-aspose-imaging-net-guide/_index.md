@@ -169,7 +169,7 @@ Untuk terus mengeksplorasi kemampuan Aspose.Imaging, pertimbangkan untuk mempela
 4. **Apa saja masalah umum saat menutupi gambar?**
    - Masalah umum meliputi definisi jalur yang salah, pengecualian yang tidak tertangani, atau kemacetan kinerja karena ukuran gambar yang besar.
 5. **Di mana saya dapat menemukan dukungan jika saya memiliki pertanyaan lebih lanjut?**
-   - Kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10) untuk bantuan dari pakar komunitas dan staf Aspose.
+   - Kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14) untuk bantuan dari pakar komunitas dan staf Aspose.
 
 ## Sumber daya
 - **Dokumentasi**: [Dokumentasi Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)

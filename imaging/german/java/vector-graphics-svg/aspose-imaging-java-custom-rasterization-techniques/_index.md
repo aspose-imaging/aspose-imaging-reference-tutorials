@@ -231,7 +231,7 @@ In diesem Tutorial haben Sie gelernt, wie Sie mit Aspose.Imaging eine Standardsc
 - [Erwerben Sie eine Lizenz](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Erhalten Sie eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit dieser Anleitung sind Sie bestens gerüstet, um komplexe Bildverarbeitungsaufgaben in Java mit Aspose.Imaging zu bewältigen. Viel Spaß beim Programmieren!
 

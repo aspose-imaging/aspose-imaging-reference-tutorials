@@ -225,7 +225,7 @@ Most már alaposan átlátod a GIF fájlok WebP formátumra konvertálását az 
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Aspose.Imaging ingyenes próbaverziók](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezzel az átfogó útmutatóval minden szükséges eszközzel optimalizálhatod a képeidet az Aspose.Imaging for Java segítségével, és fejlesztheted alkalmazásaid vagy webhelyeid teljesítményét. Jó kódolást!
 

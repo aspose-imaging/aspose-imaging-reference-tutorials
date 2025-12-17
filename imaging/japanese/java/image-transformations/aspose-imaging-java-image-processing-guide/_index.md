@@ -264,7 +264,7 @@ Aspose.Imaging のパフォーマンスを最適化するには:
 - **購入：** https://purchase.aspose.com/buy
 - **無料トライアル:** https://releases.aspose.com/imaging/java/
 - **一時ライセンス:** https://purchase.aspose.com/temporary-license/
-- **サポート：** https://forum.aspose.com/c/imaging/10
+- **サポート：** https://forum.aspose.com/c/imaging/14
 
 今すぐ Aspose.Imaging の強力な機能を活用して、Java 画像処理を次のレベルに引き上げましょう。
 

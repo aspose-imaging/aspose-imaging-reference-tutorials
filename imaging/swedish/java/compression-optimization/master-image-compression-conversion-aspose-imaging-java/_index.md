@@ -182,7 +182,7 @@ A5: En gratis provperiod är tillgänglig, men vissa avancerade funktioner kan k
 - **Köpa**: [Köp Aspose.Imaging-licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Starta din gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Utforska gärna dessa resurser och börja implementera dina bildbehandlingsprojekt med tillförsikt med Aspose.Imaging för Java.
 

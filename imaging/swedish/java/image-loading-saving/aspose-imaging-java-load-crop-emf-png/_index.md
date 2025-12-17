@@ -209,7 +209,7 @@ Du har nu bemästrat hur man laddar, beskär EMF-filer och konverterar dem till 
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Omfamna kraften i Aspose.Imaging Java för att höja dina bildbehandlingsmöjligheter idag!
 

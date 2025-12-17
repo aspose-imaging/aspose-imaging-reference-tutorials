@@ -243,7 +243,7 @@ Consider exploring further features of Aspose.Imaging to unlock even more potent
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Free Trial Information](https://releases.aspose.com/imaging/java/)
 - [Temporary License Details](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 This comprehensive guide should help you seamlessly integrate Aspose.Imaging for Java into your projects, enabling efficient and versatile image manipulation capabilities. Happy coding!
 

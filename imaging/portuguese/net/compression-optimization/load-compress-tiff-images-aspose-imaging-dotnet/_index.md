@@ -165,7 +165,7 @@ R5: Sim, o Aspose.Imaging suporta uma ampla variedade de formatos, incluindo JPE
 - **Comprar uma licença**: Visita [Página de compra da Aspose](https://purchase.aspose.com/buy) para opções de licenciamento.
 - **Teste grátis**: Teste os recursos baixando de [Lançamentos](https://releases.aspose.com/imaging/net/).
 - **Licença Temporária**: Solicite uma licença temporária em [Licenciamento Aspose](https://purchase.aspose.com/temporary-license/).
-- **Suporte e Comunidade**: Participe de discussões ou procure ajuda no [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Suporte e Comunidade**: Participe de discussões ou procure ajuda no [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

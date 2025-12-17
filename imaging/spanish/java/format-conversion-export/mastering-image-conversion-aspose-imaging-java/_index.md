@@ -212,7 +212,7 @@ Ya domina la exportación de imágenes en varios formatos con Aspose.Imaging par
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Obtenga una prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 ¡Embárquese en su viaje de procesamiento de imágenes con Aspose.Imaging para Java y mejore la calidad de sus proyectos hoy mismo!
 

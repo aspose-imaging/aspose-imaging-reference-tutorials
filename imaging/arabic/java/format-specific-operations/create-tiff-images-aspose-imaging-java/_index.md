@@ -196,7 +196,7 @@ try (TiffImage tiffImage = new TiffImage(new TiffFrame(options, 100, 100))) {
 - [شراء الترخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 بإتقان هذه التقنيات، ستكون مؤهلاً للتعامل مع مهام معالجة الصور المعقدة في تطبيقات جافا. برمجة ممتعة!
 

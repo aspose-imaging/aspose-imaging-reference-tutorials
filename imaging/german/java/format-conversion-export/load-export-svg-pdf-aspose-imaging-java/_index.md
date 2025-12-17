@@ -198,7 +198,7 @@ Sie haben gelernt, wie Sie SVG-Dateien mit Aspose.Imaging für Java laden und in
 - [Kaufen](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Beginnen Sie noch heute mit der Implementierung dieser Funktionen in Ihren Projekten und sehen Sie, wie Aspose.Imaging für Java Ihren Workflow verbessern kann!
 

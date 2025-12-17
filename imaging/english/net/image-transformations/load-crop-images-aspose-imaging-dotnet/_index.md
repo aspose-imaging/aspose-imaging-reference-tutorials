@@ -185,7 +185,7 @@ To further expand your skills, consider exploring additional features like resiz
 - **Purchase License:** https://purchase.aspose.com/buy
 - **Free Trial:** https://releases.aspose.com/imaging/net/
 - **Temporary License:** https://purchase.aspose.com/temporary-license/
-- **Support Forum:** https://forum.aspose.com/c/imaging/10
+- **Support Forum:** https://forum.aspose.com/c/imaging/14
 
 Start integrating these image handling techniques into your projects today and see the difference in performance and efficiency!
 

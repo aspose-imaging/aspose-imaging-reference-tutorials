@@ -250,7 +250,7 @@ A: A zökkenőmentes teljesítmény biztosítása érdekében érdemes kötegelt
 - **Vásárlás:** [Vásároljon Aspose-t](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Indítsa el az ingyenes próbaverziót](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Implementáld ezeket a funkciókat a Java-projekteidben, hogy új lehetőségeket tárj fel és egyszerűsítsd a képfeldolgozási munkafolyamatokat az Aspose.Imaging segítségével. Jó kódolást!
 

@@ -196,7 +196,7 @@ try (TiffImage tiffImage = new TiffImage(new TiffFrame(options, 100, 100))) {
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - [การขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 การฝึกฝนเทคนิคเหล่านี้จะทำให้คุณมีอุปกรณ์พร้อมสำหรับการจัดการงานประมวลผลภาพที่ซับซ้อนในแอปพลิเคชัน Java ของคุณ ขอให้สนุกกับการเขียนโค้ด!
 

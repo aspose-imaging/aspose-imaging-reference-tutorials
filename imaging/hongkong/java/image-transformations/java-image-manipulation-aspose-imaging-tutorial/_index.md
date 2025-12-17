@@ -213,7 +213,7 @@ Aspose.Imaging 功能多樣，適用於多種實際場景：
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用版](https://releases.aspose.com/imaging/java/)
 - [臨時許可證申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 踏上 Aspose.Imaging for Java 之旅，充分發揮應用程式中影像處理的潛力！
 

@@ -219,7 +219,7 @@ A5: Ja, Aspose.Imaging möjliggör omfattande anpassning av metadatafält för a
 - **Köpa:** [Köp en licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Prova Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens:** [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum:** [Aspose-stöd](https://forum.aspose.com/c/imaging/10) 
+- **Supportforum:** [Aspose-stöd](https://forum.aspose.com/c/imaging/14) 
 
 Ge dig ut på din resa med Aspose.Imaging för .NET idag och revolutionera hur du arbetar med bilder!
 

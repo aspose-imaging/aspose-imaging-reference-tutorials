@@ -188,7 +188,7 @@ Você aprendeu a converter imagens para tons de cinza com eficiência usando o A
 - **Download**: Obtenha a versão mais recente em [Lançamentos do Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Compra e teste**: Saiba mais sobre as opções de compra e comece com um teste gratuito [aqui](https://purchase.aspose.com/buy)
 - **Licença Temporária**: Obter uma licença temporária [aqui](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: Junte-se ao fórum da comunidade em [Fórum de Imagem Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: Junte-se ao fórum da comunidade em [Fórum de Imagem Aspose](https://forum.aspose.com/c/imaging/14)
 
 Esperamos que este guia capacite você a usar o Aspose.Imaging para Java com eficiência em seus projetos. Boa programação!
 

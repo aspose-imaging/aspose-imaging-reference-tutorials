@@ -187,7 +187,7 @@ Készen állsz arra, hogy a gyakorlatban is alkalmazd a képességeidet? Próbá
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Kezdje magabiztosan a képfeldolgozási folyamatot az Aspose.Imaging for Java és a hatékony Lanczos újramintavételezési módszerének használatával!
 

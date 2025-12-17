@@ -282,7 +282,7 @@ Aspose.Imaging Java का लाभ उठाकर, आप आसानी स
 - [Java के लिए Aspose.Imaging डाउनलोड करें](https://releases.aspose.com/imaging/java/)
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण और अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 अपने अनुप्रयोगों में शक्तिशाली छवि प्रसंस्करण क्षमताओं को अनलॉक करने के लिए आज Aspose.Imaging Java के साथ अपनी यात्रा शुरू करें!
 

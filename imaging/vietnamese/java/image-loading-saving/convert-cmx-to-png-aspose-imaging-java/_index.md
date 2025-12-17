@@ -218,7 +218,7 @@ A: Sử dụng xử lý hàng loạt và tối ưu hóa cài đặt bộ nhớ �
 - **Mua**: Mua bản quyền hoặc phiên bản dùng thử thông qua [Mua Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: Hãy thử Aspose.Imaging với điều này [liên kết dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: Xin giấy phép tạm thời qua [liên kết này](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**:Tham gia thảo luận về những thách thức trong xử lý hình ảnh [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**:Tham gia thảo luận về những thách thức trong xử lý hình ảnh [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt tay vào dự án tiếp theo của bạn một cách tự tin, biết rằng bạn có các công cụ và kiến thức để chuyển đổi các tệp CMX một cách liền mạch. Chúc bạn viết mã vui vẻ!
 

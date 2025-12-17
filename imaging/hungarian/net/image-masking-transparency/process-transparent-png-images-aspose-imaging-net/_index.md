@@ -145,7 +145,7 @@ Ebben az oktatóanyagban megtanultad, hogyan tölthetsz be egy PNG képet, hogya
 - Fedezze fel az Aspose.Imaging által támogatott egyéb fájlformátumokat.
 
 **Cselekvésre való felhívás:**
-Próbáld meg megvalósítani ezeket a funkciókat a következő projektedben, hogy lásd, hogyan egyszerűsítheti a képfeldolgozási feladatokat az Aspose.Imaging for .NET. Oszd meg tapasztalataidat, vagy tegyél fel kérdéseket a... [Aspose fórum](https://forum.aspose.com/c/imaging/10) ha bármilyen kihívással találkozol.
+Próbáld meg megvalósítani ezeket a funkciókat a következő projektedben, hogy lásd, hogyan egyszerűsítheti a képfeldolgozási feladatokat az Aspose.Imaging for .NET. Oszd meg tapasztalataidat, vagy tegyél fel kérdéseket a... [Aspose fórum](https://forum.aspose.com/c/imaging/14) ha bármilyen kihívással találkozol.
 
 ## GYIK szekció
 1. **Mi az Aspose.Imaging .NET-hez?**
@@ -165,7 +165,7 @@ Próbáld meg megvalósítani ezeket a funkciókat a következő projektedben, h
 - [Vásárlási lehetőségek](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- [Támogatási és közösségi fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási és közösségi fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

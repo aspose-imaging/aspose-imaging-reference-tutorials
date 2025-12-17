@@ -201,7 +201,7 @@ Ao dominar essas técnicas, você poderá aproveitar o Aspose.Imaging for .NET p
 - [Comprar uma licença](https://purchase.aspose.com/buy)
 - [Teste grátis](https://releases.aspose.com/imaging/net/)
 - [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Sinta-se à vontade para explorar esses recursos e entrar em contato com o suporte caso tenha alguma dúvida. Boa programação!
 

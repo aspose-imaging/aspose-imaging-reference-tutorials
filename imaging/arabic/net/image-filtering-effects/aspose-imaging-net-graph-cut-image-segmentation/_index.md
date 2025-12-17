@@ -178,7 +178,7 @@ File.Delete(Path.Combine("YOUR_OUTPUT_DIRECTORY", "output.png"));
 - **التوثيق**:استكشف الأدلة الشاملة في [مرجع Aspose Imaging .NET](https://reference.aspose.com/imaging/net/).
 - **تحميل**:الوصول إلى أحدث الإصدارات عبر [إصدارات Aspose](https://releases.aspose.com/imaging/net/).
 - **شراء وتجربة مجانية**:فكر في تجربة المنتج أو الشراء من خلال المتجر الرسمي [صفحة شراء Aspose](https://purchase.aspose.com/buy) و [التجارب المجانية](https://releases.aspose.com/imaging/net/).
-- **يدعم**:لأي استفسارات، قم بزيارة [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10).
+- **يدعم**:لأي استفسارات، قم بزيارة [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

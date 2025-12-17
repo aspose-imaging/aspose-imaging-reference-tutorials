@@ -205,7 +205,7 @@ class LEIntegerReader {
 - Πειραματιστείτε με διαφορετικές διαμορφώσεις των επιλογών κάλυψης.
 - Εξερευνήστε άλλες δυνατότητες που προσφέρει το Aspose.Imaging για πρόσθετες δυνατότητες επεξεργασίας εικόνας.
 
-Για περαιτέρω ερωτήσεις ή υποστήριξη, επισκεφθείτε τη διεύθυνση [Φόρουμ Aspose.Imaging](https://forum.aspose.com/c/imaging/10).
+Για περαιτέρω ερωτήσεις ή υποστήριξη, επισκεφθείτε τη διεύθυνση [Φόρουμ Aspose.Imaging](https://forum.aspose.com/c/imaging/14).
 
 ## Ενότητα Συχνών Ερωτήσεων
 
@@ -231,7 +231,7 @@ A: Ενώ το Aspose.Imaging έχει σχεδιαστεί κυρίως για 
 - **Αγορά**: [Αγοράστε επιλογές αδειοδότησης Aspose](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε με μια δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Ξεκινήστε το ταξίδι σας για να τελειοποιήσετε την αυτόματη κάλυψη εικόνων με Aspose.Imaging και Java σήμερα!
 

@@ -174,7 +174,7 @@ In questo tutorial, hai imparato a convertire i file CDR in PNG utilizzando Aspo
 - [Acquista licenza](https://purchase.aspose.com/buy)
 - [Download di prova gratuito](https://releases.aspose.com/imaging/net/)
 - [Richiesta di licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Intraprendi il tuo viaggio nella conversione delle immagini con Aspose.Imaging per .NET e scopri nuove possibilità nelle tue applicazioni!
 

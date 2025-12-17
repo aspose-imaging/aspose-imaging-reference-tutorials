@@ -167,7 +167,7 @@ A5：是的，您可以在其中链接不同的过滤器设置 `PngOptions` 保�
 - **购买：** [许可证获取](https://purchase.aspose.com/buy)
 - **免费试用：** [先试后买](https://releases.aspose.com/imaging/java/)
 - **临时执照：** [在此请求](https://purchase.aspose.com/temporary-license/)
-- **支持论坛：** [询问社区](https://forum.aspose.com/c/imaging/10)
+- **支持论坛：** [询问社区](https://forum.aspose.com/c/imaging/14)
 
 现在您已经掌握了这些知识，请继续在您的 Java 项目中实施这些技术！
 

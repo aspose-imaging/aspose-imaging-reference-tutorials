@@ -145,7 +145,7 @@ tym samouczku nauczyłeś się, jak załadować obraz PNG, wyodrębnić i manipu
 - Poznaj inne formaty plików obsługiwane przez Aspose.Imaging.
 
 **Wezwanie do działania:**
-Spróbuj wdrożyć te funkcje w swoim kolejnym projekcie, aby zobaczyć, jak Aspose.Imaging dla .NET może usprawnić zadania przetwarzania obrazu. Podziel się swoimi doświadczeniami lub zadaj pytania w [Forum Aspose](https://forum.aspose.com/c/imaging/10) jeśli napotkasz jakiekolwiek trudności.
+Spróbuj wdrożyć te funkcje w swoim kolejnym projekcie, aby zobaczyć, jak Aspose.Imaging dla .NET może usprawnić zadania przetwarzania obrazu. Podziel się swoimi doświadczeniami lub zadaj pytania w [Forum Aspose](https://forum.aspose.com/c/imaging/14) jeśli napotkasz jakiekolwiek trudności.
 
 ## Sekcja FAQ
 1. **Czym jest Aspose.Imaging dla .NET?**
@@ -165,7 +165,7 @@ Spróbuj wdrożyć te funkcje w swoim kolejnym projekcie, aby zobaczyć, jak Asp
 - [Opcje zakupu](https://purchase.aspose.com/buy)
 - [Bezpłatny dostęp próbny](https://releases.aspose.com/imaging/net/)
 - [Uzyskanie licencji tymczasowej](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia i społeczności](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia i społeczności](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -176,7 +176,7 @@ A: 물론입니다. 디렉토리를 순환하여 각 이미지에 동일한 처�
 - **구입:** [Aspose 라이선스 옵션 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [Aspose.Imaging으로 무료로 시작하세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따르면 Java에서 Aspose.Imaging을 사용하여 이미지 처리를 완벽하게 익힐 수 있습니다!
 

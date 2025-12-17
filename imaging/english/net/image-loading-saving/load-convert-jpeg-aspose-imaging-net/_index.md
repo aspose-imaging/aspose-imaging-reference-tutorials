@@ -164,7 +164,7 @@ Ready to try it out? Download and test the solution in your projects today!
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/net/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Feel free to explore these resources for more in-depth information and support. Happy coding!
 

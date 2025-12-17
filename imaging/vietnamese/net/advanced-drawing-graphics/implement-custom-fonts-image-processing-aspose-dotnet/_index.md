@@ -160,7 +160,7 @@ Bây giờ bạn đã khám phá cách tận dụng Aspose.Imaging cho .NET đ�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Chúng tôi hy vọng hướng dẫn này đã cung cấp cho bạn những hiểu biết có giá trị về cách sử dụng Aspose.Imaging cho .NET một cách hiệu quả. Chúc bạn viết mã vui vẻ!
 

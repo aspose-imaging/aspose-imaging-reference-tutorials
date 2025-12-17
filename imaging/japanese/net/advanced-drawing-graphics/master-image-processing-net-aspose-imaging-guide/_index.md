@@ -175,7 +175,7 @@ A3: はい、ただし、適切なライセンスを取得してください。 
 A4: はい、バッチ処理を実装して複数のファイルを効率的に処理すると、処理時間を大幅に短縮できます。
 
 **Q5: 問題が発生した場合、どこでサポートを受けることができますか?**
-A5: 訪問 [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10) Aspose チームとコミュニティ メンバーの両方からのサポート。
+A5: 訪問 [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14) Aspose チームとコミュニティ メンバーの両方からのサポート。
 
 ## リソース
 - **ドキュメント:** 詳細なガイドとAPIリファレンスについては、 [Aspose.Imaging ドキュメント](https://reference。aspose.com/imaging/net/).

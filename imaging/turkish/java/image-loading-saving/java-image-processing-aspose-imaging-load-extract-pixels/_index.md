@@ -204,7 +204,7 @@ Artık Aspose.Imaging for Java'yı kullanarak resimlerden piksel değerlerini na
 - **Satın almak**Lisansları doğrudan şu adresten edinin: [Aspose'u satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: Bir denemeye başlayın [ücretsiz deneme lisansı](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: Test için geçici bir lisans edinin [Geçici Lisans](https://purchase.aspose.com/temporary-license/).
-- **Destek**: Topluluğa katılın [Aspose Forum](https://forum.aspose.com/c/imaging/10) Herhangi bir soru veya tartışma için.
+- **Destek**: Topluluğa katılın [Aspose Forum](https://forum.aspose.com/c/imaging/14) Herhangi bir soru veya tartışma için.
 
 Bu eğitimi takip ederek, artık Aspose.Imaging kullanarak Java'da karmaşık görüntü işleme görevlerini halletmeye hazırsınız. İyi kodlamalar!
 

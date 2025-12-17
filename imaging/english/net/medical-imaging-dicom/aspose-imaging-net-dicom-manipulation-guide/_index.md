@@ -131,7 +131,7 @@ A: The operation will fail, so it's advisable to check whether the tag exists be
 - **Purchase**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Aspose.Imaging for Free](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Obtain a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: For queries, visit the [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: For queries, visit the [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 With this comprehensive guide, you're all set to start leveraging Aspose.Imaging for .NET in your DICOM image manipulation projects. Happy coding!
 

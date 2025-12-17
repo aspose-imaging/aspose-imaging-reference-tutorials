@@ -199,7 +199,7 @@ PACS（画像保管および通信システム）などの他のシステムと�
 - [購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このチュートリアルでは、Aspose.Imaging Java を使用して DICOM 画像を操作する知識を習得し、アプリケーションの効率性とスケーラビリティを両立させます。コーディングを楽しみましょう！
 

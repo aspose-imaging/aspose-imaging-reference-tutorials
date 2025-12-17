@@ -228,7 +228,7 @@ new File(outDir + "/output.dcm").delete();
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 오늘부터 이 강력한 이미지 처리 기능을 Java 애플리케이션에 통합하여 DICOM 이미지를 처리하는 방식을 개선해 보세요!
 

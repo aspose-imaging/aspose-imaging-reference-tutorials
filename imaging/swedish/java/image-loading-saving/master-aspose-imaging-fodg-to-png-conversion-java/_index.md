@@ -213,7 +213,7 @@ Nästa steg:
 - **Köpa**: [Köp Aspose-produkter](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova Aspose.Imaging gratis](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Genom att bemästra dessa tekniker är du på god väg att utnyttja Aspose.Imaging för sofistikerade bildbehandlingsuppgifter i Java. Lycka till med kodningen!
 

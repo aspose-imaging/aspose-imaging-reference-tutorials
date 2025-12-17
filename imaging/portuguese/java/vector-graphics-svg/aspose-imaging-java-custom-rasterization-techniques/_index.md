@@ -231,7 +231,7 @@ Neste tutorial, você aprendeu a definir uma fonte padrão em seu aplicativo Jav
 - [Comprar uma licença](https://purchase.aspose.com/buy)
 - [Versão de teste gratuita](https://releases.aspose.com/imaging/java/)
 - [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Seguindo este guia, você estará bem equipado para lidar com tarefas complexas de processamento de imagens em Java usando o Aspose.Imaging. Boa programação!
 

@@ -184,7 +184,7 @@ Vyzkoušejte si tyto techniky na svých vlastních obrazových projektech ješt�
 - **Nákup**: [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Testovací funkce](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Žádost zde](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Připojte se k fóru](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Připojte se k fóru](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním těchto pokynů budete dobře vybaveni k vylepšení svých obrázků pomocí funkcí pro normalizaci histogramu v Javě v Aspose.Imaging. Přejeme vám příjemné programování!
 

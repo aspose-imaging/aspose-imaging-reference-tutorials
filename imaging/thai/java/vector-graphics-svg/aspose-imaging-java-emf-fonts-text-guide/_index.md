@@ -244,7 +244,7 @@ new File("YOUR_OUTPUT_DIRECTORY/result.png").delete();
 - **ซื้อ**- [ซื้อ Aspose.Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [ทดลองใช้ Aspose.Imaging ฟรี](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว**- [ขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน**- [ฟอรั่มสนับสนุน Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน**- [ฟอรั่มสนับสนุน Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 ด้วยการใช้ Aspose.Imaging สำหรับ Java คุณสามารถผสานฟอนต์ EMF และการเรนเดอร์ข้อความคุณภาพสูงเข้ากับแอปพลิเคชันของคุณได้อย่างราบรื่น ช่วยปรับปรุงทั้งฟังก์ชันการใช้งานและความน่าสนใจทางภาพ
 

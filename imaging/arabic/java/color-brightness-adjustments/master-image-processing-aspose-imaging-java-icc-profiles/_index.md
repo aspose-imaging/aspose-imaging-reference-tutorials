@@ -201,7 +201,7 @@ try (JpegImage image = (JpegImage) Image.load(dataDir + "aspose-logo_tn.jpg")) {
 - [شراء الترخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 استكشف هذه الموارد لتعميق فهمك وتحسين قدراتك في معالجة الصور باستخدام Aspose.Imaging لجافا. برمجة ممتعة!
 

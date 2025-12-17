@@ -160,7 +160,7 @@ A5：在生产环境中不间断使用需要有效的许可证。请考虑购买
 - **购买**： [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用**： [开始免费试用](https://releases.aspose.com/imaging/java/)
 - **临时执照**： [获得临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持**： [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**： [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 利用 Aspose.Imaging Java 的强大功能来提升您的图像处理能力！
 

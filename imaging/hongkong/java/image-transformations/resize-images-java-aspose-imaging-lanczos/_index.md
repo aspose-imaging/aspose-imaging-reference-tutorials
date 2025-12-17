@@ -187,7 +187,7 @@ Lanczos 重採樣在各種情況下都有用：
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/java/)
 - [臨時執照](https://purchase.aspose.com/temporary-license/)
-- [支援論壇](https://forum.aspose.com/c/imaging/10)
+- [支援論壇](https://forum.aspose.com/c/imaging/14)
 
 利用 Aspose.Imaging for Java 和強大的 Lanczos 重採樣方法，滿懷信心地踏上您的影像處理之旅！
 

@@ -181,7 +181,7 @@ Aspose.Imaging'in ek özelliklerini keşfetmek için derinlemesine inceleme yap�
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme İndir](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Java'da Aspose.Imaging ile TIFF görüntü işleme konusunda ustalaşma yolunda iyi bir mesafe kat etmiş olacaksınız. İyi kodlamalar!
 

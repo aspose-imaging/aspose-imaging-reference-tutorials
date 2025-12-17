@@ -183,7 +183,7 @@ Ora hai imparato a caricare immagini JPEG ed estrarne i tag EXIF utilizzando Asp
 - [Acquista una licenza](https://purchase.aspose.com/buy)
 - [Download di prova gratuito](https://releases.aspose.com/imaging/net/)
 - [Informazioni sulla licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

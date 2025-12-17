@@ -221,7 +221,7 @@ A5: MavenまたはGradleを使用してプロジェクトにAspose.Imagingの依
 - **購入**ライセンスを取得する [Asposeの購入ページ](https://purchase.aspose.com/buy)
 - **無料トライアル**実験を始める [Asposeの無料トライアル](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**拡張アクセスを取得するには [Aspose の一時ライセンスページ](https://purchase.aspose.com/temporary-license/)
-- **サポート**コミュニティとサポートチームと連携する [Asposeのフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**コミュニティとサポートチームと連携する [Asposeのフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従うことで、Aspose.Imaging を使用して Java アプリケーションにファイル検証とパス管理を実装できるようになります。コーディングを楽しみましょう！
 

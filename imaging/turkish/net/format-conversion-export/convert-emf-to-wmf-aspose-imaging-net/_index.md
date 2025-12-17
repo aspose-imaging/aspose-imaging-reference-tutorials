@@ -172,7 +172,7 @@ Daha detaylı araştırma için Aspose.Imaging tarafından desteklenen diğer g�
 - **Lisans Satın Al:** [Aspose.License'ı satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans:** [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu:** [Aspose.Görüntüleme Desteği](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu:** [Aspose.Görüntüleme Desteği](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET ile yolculuğunuza bugün başlayın ve görüntü işlemede yeni olasılıkların kilidini açın!
 

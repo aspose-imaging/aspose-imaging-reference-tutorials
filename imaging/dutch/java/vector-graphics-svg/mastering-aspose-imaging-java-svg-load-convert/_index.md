@@ -160,7 +160,7 @@ Klaar om er dieper in te duiken? Probeer deze oplossingen eens in je volgende pr
 - **Aankoop:** [Koop Aspose-licenties](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Gratis proefperiode starten](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Forum Ondersteuning](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose Forum Ondersteuning](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u goed op weg om SVG-afbeeldingen in Java met Aspose.Imaging onder de knie te krijgen. Veel plezier met coderen!
 

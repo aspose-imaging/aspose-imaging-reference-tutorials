@@ -160,7 +160,7 @@ A5: Genom att optimera konfigurationsinställningar, hantera minne effektivt och
 - **Köplicens**: [Aspose-licensiering](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Ladda ner Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Begär tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**: [Aspose Imaging Support](https://forum.aspose.com/c/imaging/10)
+- **Supportforum**: [Aspose Imaging Support](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -206,7 +206,7 @@ En suivant ce guide, vous avez appris à dessiner des ellipses avec des contours
 - **Achat**: https://purchase.aspose.com/buy
 - **Essai gratuit**: https://releases.aspose.com/imaging/java/
 - **Permis temporaire**: https://purchase.aspose.com/temporary-license/
-- **Soutien**: https://forum.aspose.com/c/imaging/10
+- **Soutien**: https://forum.aspose.com/c/imaging/14
 
 Nous espérons que ce tutoriel vous a été utile. Bon codage !
 

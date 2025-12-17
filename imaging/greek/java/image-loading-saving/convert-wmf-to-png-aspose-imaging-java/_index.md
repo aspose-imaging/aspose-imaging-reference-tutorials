@@ -193,7 +193,7 @@ try (Image image = Image.load("YOUR_DOCUMENT_DIRECTORY/input.wmf")) {
 - [Λήψη του Aspose.Imaging για Java](https://releases.aspose.com/imaging/java/)
 - [Αγορά Άδειας Χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή και προσωρινή άδεια χρήσης](https://releases.aspose.com/imaging/java/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ξεκινήστε το ταξίδι σας με την Aspose.Imaging Java σήμερα και μεταμορφώστε τον τρόπο που χειρίζεστε τις εργασίες επεξεργασίας εικόνας!
 

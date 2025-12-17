@@ -201,7 +201,7 @@ Java용 Aspose.Imaging의 성능을 최적화하려면 다음과 같은 모범 �
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java에 대한 이해를 높이고 이미지 처리 능력을 향상시켜 줄 다음 자료들을 살펴보세요. 즐거운 코딩 되세요!
 

@@ -173,7 +173,7 @@ Aspose.Imaging for Java를 사용하여 WebP 이미지를 BMP로 변환하는 �
 - **구입:** [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [무료 체험판 시작하기](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼:** [Aspose Imaging 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼:** [Aspose Imaging 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이러한 리소스를 자유롭게 탐색하고 Aspose.Imaging을 프로젝트에 통합하여 원활한 이미지 처리 기능을 활용해 보세요.
 

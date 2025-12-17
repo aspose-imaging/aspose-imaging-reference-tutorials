@@ -156,7 +156,7 @@ Este tutorial le ha guiado a través de los fundamentos de la creación y el dib
 - **Compra:** [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Versión de prueba](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal:** [Solicitar aquí](https://purchase.aspose.com/temporary-license/)
-- **Foro de soporte:** [Soporte comunitario de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Foro de soporte:** [Soporte comunitario de Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

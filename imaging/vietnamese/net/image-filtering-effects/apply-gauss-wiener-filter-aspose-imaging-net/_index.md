@@ -133,7 +133,7 @@ Khi áp dụng bộ lọc, hãy cân nhắc những mẹo sau để tối ưu h�
 
 Xin chúc mừng! Bạn đã áp dụng thành công bộ lọc Gauss Wiener cho hình ảnh màu bằng Aspose.Imaging .NET. Hướng dẫn này đã trang bị cho bạn kiến thức để nâng cao tác vụ xử lý hình ảnh của mình, đảm bảo kết quả sạch hơn và chính xác hơn.
 
-Để tiếp tục khám phá các khả năng của Aspose.Imaging, hãy cân nhắc tìm hiểu các bộ lọc và tính năng khác có trong thư viện. Để biết thêm câu hỏi hoặc hỗ trợ, hãy tham khảo [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10).
+Để tiếp tục khám phá các khả năng của Aspose.Imaging, hãy cân nhắc tìm hiểu các bộ lọc và tính năng khác có trong thư viện. Để biết thêm câu hỏi hoặc hỗ trợ, hãy tham khảo [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Phần Câu hỏi thường gặp
 
@@ -158,7 +158,7 @@ A: Giấy phép dùng thử cho phép truy cập đầy đủ để thử nghi�
 - **Giấy phép mua hàng:** [Mua Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Giấy phép dùng thử](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời:** [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Khám phá các tài nguyên này để hiểu sâu hơn và nâng cao các dự án xử lý hình ảnh của bạn. Chúc bạn viết mã vui vẻ!
 

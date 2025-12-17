@@ -194,7 +194,7 @@ Pronto para levar suas habilidades em processamento de imagens para o próximo n
 - **Comprar**: Obtenha uma licença completa através de [Página de compras da Aspose](https://purchase.aspose.com/buy).
 - **Teste grátis**: Comece com um teste gratuito para explorar os recursos em [Downloads do Aspose](https://releases.aspose.com/imaging/java/).
 - **Licença Temporária**: Solicite uma licença temporária para testes prolongados em [Licença Temporária Aspose](https://purchase.aspose.com/temporary-license/).
-- **Apoiar**: Junte-se à comunidade e busque ajuda no [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Apoiar**: Junte-se à comunidade e busque ajuda no [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

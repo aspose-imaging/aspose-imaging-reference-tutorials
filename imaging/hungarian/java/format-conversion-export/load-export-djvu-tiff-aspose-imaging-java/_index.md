@@ -203,7 +203,7 @@ Készen állsz arra, hogy ezeket a megoldásokat saját projektjeidben is megval
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Ingyenes licenc beszerzése](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Közösségi Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Közösségi Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az Aspose.Imaging Java-hoz való használatával egyszerűsítheted a dokumentumfeldolgozási munkafolyamataidat, és könnyedén kezelheted a DjVu fájlokat. Jó kódolást!
 

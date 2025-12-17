@@ -173,7 +173,7 @@ using (Image image = Image.Load(dataDir + "/asposelogo.webp"))
 - **Αγοράστε μια άδεια χρήσης**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε με μια δωρεάν αξιολόγηση](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Κάντε αίτηση για ένα εδώ](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ Υποστήριξης**: [Συμμετέχετε στη συζήτηση](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ Υποστήριξης**: [Συμμετέχετε στη συζήτηση](https://forum.aspose.com/c/imaging/14)
 
 Βυθιστείτε σε αυτούς τους πόρους για να διευρύνετε την κατανόηση και τις δυνατότητές σας στη μετατροπή εικόνων χρησιμοποιώντας το Aspose.Imaging .NET.
 

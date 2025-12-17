@@ -153,7 +153,7 @@ Pro další čtení a nástroje:
 - **Zakoupit licenci**: [Koupit Aspose Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Soubory ke stažení Aspose Imaging](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fóra podpory**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fóra podpory**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -219,7 +219,7 @@ You've now learned how to leverage Aspose.Imaging for Java to load images, cast 
 - **Purchase**: [Buy Now](https://purchase.aspose.com/buy)
 - **Free Trial**: [Get Started](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Request Here](https://purchase.aspose.com/temporary-license/)
-- **Support Forum**: [Aspose.Imaging Community](https://forum.aspose.com/c/imaging/10)
+- **Support Forum**: [Aspose.Imaging Community](https://forum.aspose.com/c/imaging/14)
 
 We hope this guide empowers you to enhance your projects with sophisticated image processing capabilities. Happy coding!
 

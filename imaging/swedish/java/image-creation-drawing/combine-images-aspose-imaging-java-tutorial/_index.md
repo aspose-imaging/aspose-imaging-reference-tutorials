@@ -177,7 +177,7 @@ Redo att börja implementera? Dyk ner i bildbehandlingens värld med självfört
 - **Köpa:** https://purchase.aspose.com/buy
 - **Gratis provperiod:** https://releases.aspose.com/imaging/java/
 - **Tillfällig licens:** https://purchase.aspose.com/temporary-license/
-- **Stöd:** https://forum.aspose.com/c/imaging/10
+- **Stöd:** https://forum.aspose.com/c/imaging/14
 
 Börja experimentera med Aspose.Imaging för Java idag och lås upp nya möjligheter inom bildbehandling!
 

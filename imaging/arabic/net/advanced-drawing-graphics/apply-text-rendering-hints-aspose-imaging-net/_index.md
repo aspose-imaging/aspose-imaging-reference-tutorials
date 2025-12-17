@@ -173,7 +173,7 @@ private static VectorRasterizationOptions GetRasterizationOptions(Image image)
 - **شراء**:اشترِ ترخيصًا أو احصل على نسخة تجريبية مجانية من [شراء Aspose](https://purchase.aspose.com/buy).
 - **نسخة تجريبية مجانية**:ابدأ بالتجربة في [الإصدارات](https://releases.aspose.com/imaging/net/).
 - **رخصة مؤقتة**:اطلب واحدة من [أسبوزي](https://purchase.aspose.com/temporary-license/).
-- **يدعم**:احصل على المساعدة في [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10).
+- **يدعم**:احصل على المساعدة في [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14).
 
 ابدأ رحلتك نحو إتقان معالجة الصور باستخدام Aspose.Imaging، وخذ تطبيقاتك إلى آفاق جديدة!
 

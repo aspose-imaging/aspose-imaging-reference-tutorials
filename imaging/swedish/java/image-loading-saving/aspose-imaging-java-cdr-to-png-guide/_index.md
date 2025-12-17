@@ -189,7 +189,7 @@ A3: Justera `CdrRasterizationOptions` parametrar som upplösning och positioneri
 A4: En köpt licens krävs för kommersiella tillämpningar. Du kan börja med en gratis provperiod eller ansöka om en tillfällig licens.
 
 **F5: Var kan jag få support om jag stöter på problem?**
-A5: Besök [Aspose supportforum](https://forum.aspose.com/c/imaging/10) för hjälp och samhällsdiskussioner.
+A5: Besök [Aspose supportforum](https://forum.aspose.com/c/imaging/14) för hjälp och samhällsdiskussioner.
 
 ## Resurser
 
@@ -197,7 +197,7 @@ A5: Besök [Aspose supportforum](https://forum.aspose.com/c/imaging/10) för hj�
 - **Nedladdningsbibliotek:** Hämta den senaste versionen från [Aspose.Imaging-utgåvor](https://releases.aspose.com/imaging/java/)
 - **Köplicens:** Besök [Aspose köpwebbplats](https://purchase.aspose.com/buy)
 - **Gratis provperiod och tillfällig licens:** Börja din resa kl. [Aspose Gratis Provperiod](https://releases.aspose.com/imaging/java/) och [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum:** Kontakta samhället för att få hjälp på [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- **Supportforum:** Kontakta samhället för att få hjälp på [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din Aspose.Imaging Java-resa idag och väcka liv i dina digitala bildprojekt!
 

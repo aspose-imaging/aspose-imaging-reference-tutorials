@@ -190,7 +190,7 @@ try {
 - [下載 Aspose.Imaging for Java](https://releases.aspose.com/imaging/java/)
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用和臨時許可證](https://releases.aspose.com/imaging/java/)， [臨時許可證頁面](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 探索這些資源可以加深您對 Aspose.Imaging for Java 的理解，確保您能夠滿足任何 BigTIFF 影像處理需求。
 

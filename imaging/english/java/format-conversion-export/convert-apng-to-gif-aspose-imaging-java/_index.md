@@ -223,7 +223,7 @@ Congratulations! You've successfully navigated the process of loading, convertin
    - Yes, you can script batch processing using loops or integrate with job scheduling systems.
 
 5. **How do I get support if I encounter issues?**
-   - Visit the [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) for assistance and discussions with other users.
+   - Visit the [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) for assistance and discussions with other users.
 
 ## Resources
 

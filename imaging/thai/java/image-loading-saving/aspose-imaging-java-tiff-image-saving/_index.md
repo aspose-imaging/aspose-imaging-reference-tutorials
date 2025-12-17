@@ -175,7 +175,7 @@ Utils.deleteFile(output1);
 - **ซื้อ**- [ซื้อ Aspose.Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [ทดลองใช้ Aspose.Imaging ฟรี](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว**- [ขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน**- [ฟอรั่ม Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน**- [ฟอรั่ม Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 คู่มือนี้ออกแบบมาเพื่อให้ข้อมูลทุกอย่างที่จำเป็นแก่คุณเพื่อเริ่มต้นใช้งานรูปภาพ TIFF ใน Java ได้อย่างมีประสิทธิภาพโดยใช้ Aspose.Imaging ขอให้สนุกกับการเขียนโค้ด!
 

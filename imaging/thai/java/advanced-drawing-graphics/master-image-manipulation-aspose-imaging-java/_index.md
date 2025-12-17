@@ -215,7 +215,7 @@ try (RasterImage raster = (RasterImage) Image.load(dataDir + "aspose-logo.jpg"))
 ลองสำรวจฟีเจอร์ขั้นสูงเพิ่มเติมของ Aspose Imaging Java หรือผสานเข้ากับโครงการขนาดใหญ่ ทดลองกับรูปแบบภาพและการแปลงต่าง ๆ เพื่อดูว่าคุณสามารถทำอะไรได้บ้างต่อไป
 
 ### การกระตุ้นให้ทำ
-ลองนำโซลูชันที่อธิบายไว้ไปใช้ในโครงการต่อไปของคุณ แบ่งปันประสบการณ์และความท้าทายที่เจอในฟอรั่มหรือชุมชน เช่น [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+ลองนำโซลูชันที่อธิบายไว้ไปใช้ในโครงการต่อไปของคุณ แบ่งปันประสบการณ์และความท้าทายที่เจอในฟอรั่มหรือชุมชน เช่น [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 ## ส่วนคำถามที่พบบ่อย
 
@@ -241,7 +241,7 @@ try (RasterImage raster = (RasterImage) Image.load(dataDir + "aspose-logo.jpg"))
 - **ซื้อ:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้ฟรี:** [Get Started with Free Trial](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว:** [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 โดยใช้แหล่งข้อมูลเหล่านี้ คุณสามารถเพิ่มพูนความเข้าใจและการประยุกต์ใช้ Aspose Imaging Java ของคุณได้อย่างต่อเนื่อง ขอให้สนุกกับการเขียนโค้ด!
 

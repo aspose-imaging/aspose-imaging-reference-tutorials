@@ -157,7 +157,7 @@ A: Sfrutta le capacità di elaborazione batch di Aspose.Imaging per gestire più
 R: Anche se le prestazioni possono variare con file di grandi dimensioni, Aspose.Imaging è progettato per gestire in modo efficiente grandi quantità di dati di immagini.
 
 **D5: Quali opzioni di supporto sono disponibili se riscontro problemi?**
-A: Accedi alla documentazione dettagliata e ai forum della community per suggerimenti sulla risoluzione dei problemi su [Supporto Aspose](https://forum.aspose.com/c/imaging/10).
+A: Accedi alla documentazione dettagliata e ai forum della community per suggerimenti sulla risoluzione dei problemi su [Supporto Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Risorse
 - **Documentazione**: [Documentazione di Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)

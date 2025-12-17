@@ -172,7 +172,7 @@ V: Látogassa meg a [Aspose.Imaging dokumentáció](https://reference.aspose.com
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Kezdje ingyenes próbaverzióval](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Kérelem itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Aspose támogató közösség](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Aspose támogató közösség](https://forum.aspose.com/c/imaging/14)
 
 Ez az útmutató felvértezi Önt azzal a tudással, amellyel magabiztosan manipulálhatja a GIF képeket az Aspose.Imaging for Java segítségével. Jó kódolást!
 

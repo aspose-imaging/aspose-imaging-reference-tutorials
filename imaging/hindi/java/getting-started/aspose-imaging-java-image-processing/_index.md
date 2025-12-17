@@ -194,7 +194,7 @@ Aspose.Imaging का उपयोग करते समय इष्टतम 
 - **खरीदना**: के माध्यम से पूर्ण लाइसेंस प्राप्त करें [Aspose का खरीद पृष्ठ](https://purchase.aspose.com/buy).
 - **मुफ्त परीक्षण**: सुविधाओं का पता लगाने के लिए एक निःशुल्क परीक्षण के साथ शुरुआत करें [Aspose डाउनलोड](https://releases.aspose.com/imaging/java/).
 - **अस्थायी लाइसेंस**: विस्तारित परीक्षण के लिए अस्थायी लाइसेंस का अनुरोध करें [Aspose अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/).
-- **सहायता**: समुदाय में शामिल हों और मदद मांगें [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10).
+- **सहायता**: समुदाय में शामिल हों और मदद मांगें [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

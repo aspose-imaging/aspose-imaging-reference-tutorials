@@ -170,7 +170,7 @@ string inputImagePath = Path.Combine(dataDir, "aspose-logo.jpg");
 - **شراء:** [شراء ترخيص](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [ابدأ تجربتك المجانية](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة:** [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا الدليل، أصبحتَ الآن جاهزًا لمعالجة صور .NET بثقة باستخدام Aspose.Imaging لـ .NET. برمجة ممتعة!
 

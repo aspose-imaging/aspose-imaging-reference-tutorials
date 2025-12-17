@@ -160,7 +160,7 @@ A4: تحقق من أذونات الكتابة الخاصة بالتطبيق وت
 - **شراء الترخيص**: [ترخيص Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [تنزيل Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم**: [دعم التصوير Aspose](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم**: [دعم التصوير Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

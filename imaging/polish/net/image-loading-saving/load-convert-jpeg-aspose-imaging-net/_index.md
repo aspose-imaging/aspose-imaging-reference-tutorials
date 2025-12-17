@@ -159,7 +159,7 @@ Gotowy, aby to wypróbować? Pobierz i przetestuj rozwiązanie w swoich projekta
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/net/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Zapraszamy do zapoznania się z tymi zasobami, aby uzyskać bardziej szczegółowe informacje i wsparcie. Miłego kodowania!
 

@@ -161,7 +161,7 @@ A további felfedezéshez érdemes lehet kipróbálni az Aspose.Imaging által b
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezekkel az anyagokkal felkészült leszel arra, hogy tovább fedezd fel az Aspose.Imaging lehetőségeit, és teljes mértékben kihasználd a képfeldolgozási igényeidhez. Jó kódolást!
 

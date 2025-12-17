@@ -167,7 +167,7 @@ File.Delete(Path.Combine(dataDir, "ball.png")); // При необходимос
 - **Лицензия на покупку**: [Купить сейчас](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Начать бесплатную пробную версию](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия**: [Запросить здесь](https://purchase.aspose.com/temporary-license/)
-- **Форум поддержки**: [Задавайте вопросы](https://forum.aspose.com/c/imaging/10)
+- **Форум поддержки**: [Задавайте вопросы](https://forum.aspose.com/c/imaging/14)
 
 Изучая эти ресурсы, вы получите прочную основу для освоения Aspose.Imaging и его возможностей. Удачного кодирования!
 

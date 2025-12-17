@@ -173,7 +173,7 @@ Aspose.Imaging for Java 提供多种用例：
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用版](https://releases.aspose.com/imaging/java/)
 - [临时许可证信息](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 按照本指南操作，您将能够顺利使用 Aspose.Imaging for Java 实现一个强大的 JPEG 图像质量管理解决方案。祝您编码愉快！
 

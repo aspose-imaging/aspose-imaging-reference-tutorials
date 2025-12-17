@@ -149,7 +149,7 @@ A3: Оптимизируйте управление памятью и настр
 A4: Распространенные проблемы включают неправильные пути к файлам, неправильные настройки конфигурации и неподдерживаемые форматы изображений. Всегда проверяйте правильность путей и соответствие конфигураций вашим требованиям.
 
 **В5: Где я могу найти больше ресурсов об Aspose.Imaging?**
-A5: Посетите [Документация Aspose](https://reference.aspose.com/imaging/net/) для всеобъемлющих руководств и [Форумы](https://forum.aspose.com/c/imaging/10) для поддержки сообщества.
+A5: Посетите [Документация Aspose](https://reference.aspose.com/imaging/net/) для всеобъемлющих руководств и [Форумы](https://forum.aspose.com/c/imaging/14) для поддержки сообщества.
 
 ## Ресурсы
 - **Документация:** [Справочник по Aspose Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -157,7 +157,7 @@ A5: Посетите [Документация Aspose](https://reference.aspose.
 - **Покупка:** [Купить лицензию](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия:** [Пробные загрузки](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия:** [Запросить здесь](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать:** [Форумы Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать:** [Форумы Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

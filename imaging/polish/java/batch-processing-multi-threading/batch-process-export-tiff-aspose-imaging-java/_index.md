@@ -163,7 +163,7 @@ O: Chociaż Aspose.Imaging samo w sobie nie zapewnia wbudowanej obsługi wielu w
 A: Bezpłatna wersja próbna zapewnia pełną funkcjonalność, ale dodaje znaki wodne do obrazów i ogranicza czas użytkowania. Rozważ uzyskanie tymczasowej lub zakupionej licencji w celu uzyskania nieprzerwanego dostępu.
 
 **P5: Jak rozwiązywać typowe problemy z przetwarzaniem obrazu?**
-A: Upewnij się, że ścieżki plików są poprawne, sprawdź, czy masz wystarczające zasoby systemowe i zapoznaj się z [forum wsparcia](https://forum.aspose.com/c/imaging/10) jeśli to konieczne.
+A: Upewnij się, że ścieżki plików są poprawne, sprawdź, czy masz wystarczające zasoby systemowe i zapoznaj się z [forum wsparcia](https://forum.aspose.com/c/imaging/14) jeśli to konieczne.
 
 ## Zasoby
 
@@ -172,7 +172,7 @@ A: Upewnij się, że ścieżki plików są poprawne, sprawdź, czy masz wystarcz
 - **Zakup**:Uzyskaj licencję za pośrednictwem [Strona zakupu Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**:Rozpocznij odkrywanie funkcji za pomocą [bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**:Poproś o tymczasową licencję za pośrednictwem [Strona tymczasowej licencji Aspose](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**:W razie pytań odwiedź stronę [forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**:W razie pytań odwiedź stronę [forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Dzięki temu kompleksowemu przewodnikowi będziesz gotowy udoskonalić swoje możliwości przetwarzania obrazów przy użyciu Aspose.Imaging for Java!
 

@@ -226,7 +226,7 @@ public class SaveEMFAsPDF {
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/java/)
 - [臨時執照申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 本指南內容全面，幫助您掌握使用 Aspose.Imaging for Java 有效率地將 EMF 檔案轉換為 PDF 所需的知識。祝您程式愉快！
 

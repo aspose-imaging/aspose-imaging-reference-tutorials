@@ -131,7 +131,7 @@ Aspose.Imaging के साथ काम करते समय, इष्ट�
 - **खरीदना**: [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [निःशुल्क परीक्षण शुरू करें](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [यहां अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच**: [Aspose समर्थन](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच**: [Aspose समर्थन](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

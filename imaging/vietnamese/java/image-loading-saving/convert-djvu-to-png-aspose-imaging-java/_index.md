@@ -213,7 +213,7 @@ Sẵn sàng để tìm hiểu sâu hơn? Hãy thử triển khai các giải ph�
 - **Mua giấy phép**: Mua giấy phép sử dụng cho mục đích thương mại [đây](https://purchase.aspose.com/buy).
 - **Dùng thử miễn phí**: Bắt đầu với bản dùng thử miễn phí để kiểm tra các tính năng mà không có giới hạn.
 - **Giấy phép tạm thời**: Xin giấy phép tạm thời để khám phá đầy đủ các tính năng.
-- **Diễn đàn hỗ trợ**: Nếu có bất kỳ câu hỏi nào, hãy truy cập diễn đàn hỗ trợ Aspose tại [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10).
+- **Diễn đàn hỗ trợ**: Nếu có bất kỳ câu hỏi nào, hãy truy cập diễn đàn hỗ trợ Aspose tại [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14).
 
 Bằng cách làm theo hướng dẫn này, bạn có thể quản lý và chuyển đổi hình ảnh DJVU hiệu quả bằng Aspose.Imaging cho Java, giúp nâng cao quy trình xử lý tài liệu của bạn một cách dễ dàng.
 

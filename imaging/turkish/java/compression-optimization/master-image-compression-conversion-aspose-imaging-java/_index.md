@@ -182,7 +182,7 @@ C5: Ücretsiz deneme sürümü mevcuttur, ancak bazı gelişmiş özelliklerin t
 - **Satın almak**: [Aspose.Imaging Lisansını Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kaynakları keşfetmekten ve Aspose.Imaging for Java'yı kullanarak görüntü işleme projelerinizi güvenle uygulamaya başlamaktan çekinmeyin.
 

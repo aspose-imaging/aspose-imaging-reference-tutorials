@@ -126,7 +126,7 @@ A5: Tak, Aspose.Imaging obsługuje środowiska chmurowe, co umożliwia integracj
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Uzyskaj bezpłatną wersję próbną](https://releases.aspose.com/imaging/net/)
 - [Poproś o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -150,7 +150,7 @@ Bereit, mehr zu erfahren? Versuchen Sie, die Lösung in einem realen Szenario zu
 - **Kaufen:** [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Beginnen Sie mit einer kostenlosen Testversion](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz:** [Holen Sie sich eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum:** [Aspose-Unterstützung](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum:** [Aspose-Unterstützung](https://forum.aspose.com/c/imaging/14)
 
 Begeben Sie sich noch heute mit Aspose.Imaging auf Ihre Bildreise und erschließen Sie sich neue Möglichkeiten der digitalen Bildbearbeitung!
 

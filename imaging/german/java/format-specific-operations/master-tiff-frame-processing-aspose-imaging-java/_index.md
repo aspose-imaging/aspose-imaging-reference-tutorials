@@ -165,7 +165,7 @@ Sie sollten nun ein solides Verständnis dafür haben, wie Sie TIFF-Bilder laden
 - **Kaufen**: Entdecken Sie Kaufoptionen bei [Asposes Kaufseite](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: Beginnen Sie mit einer kostenlosen Testversion [Hier](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: Beantragen Sie eine vorläufige Lizenz auf der [Seite „Temporäre Lizenz“](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: Nehmen Sie an Diskussionen teil und suchen Sie Hilfe unter [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: Nehmen Sie an Diskussionen teil und suchen Sie Hilfe unter [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Begeben Sie sich noch heute auf die Reise zur Beherrschung von Aspose.Imaging in Java und verändern Sie die Art und Weise, wie Sie Bildverarbeitungsaufgaben bewältigen!
 

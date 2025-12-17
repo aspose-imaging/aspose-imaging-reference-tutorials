@@ -204,7 +204,7 @@ Neste guia, exploramos como carregar e redimensionar imagens DICOM proporcionalm
 - **Comprar**: https://purchase.aspose.com/buy
 - **Teste grátis**: https://releases.aspose.com/imaging/java/
 - **Licença Temporária**: https://purchase.aspose.com/temporary-license/
-- **Apoiar**: https://forum.aspose.com/c/imaging/10
+- **Apoiar**: https://forum.aspose.com/c/imaging/14
 
 Aproveitando esses recursos, você pode aprofundar seu conhecimento e implementar Aspose.Imaging com eficácia em seus aplicativos Java. Boa programação!
 

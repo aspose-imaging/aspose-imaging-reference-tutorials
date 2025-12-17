@@ -211,7 +211,7 @@ Bu kılavuzu takip ederek, TIFF dosyalarında kırpma yollarını çıkarmak ve 
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging Java'nın gücünü kucaklayın ve görüntü işleme yeteneklerinizi bugün dönüştürün!
 

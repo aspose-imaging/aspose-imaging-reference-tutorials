@@ -231,7 +231,7 @@ class LEIntegerReader {
 - **購買**： [購買 Aspose 許可證選項](https://purchase.aspose.com/buy)
 - **免費試用**： [從免費試用開始](https://releases.aspose.com/imaging/java/)
 - **臨時執照**： [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/14)
 
 立即踏上使用 Aspose.Imaging 和 Java 掌握影像自動遮罩的旅程！
 

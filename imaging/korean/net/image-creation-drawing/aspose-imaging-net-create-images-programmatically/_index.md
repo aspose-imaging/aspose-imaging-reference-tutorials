@@ -179,7 +179,7 @@ Aspose.Imaging for .NET은 다재다능합니다. 이 라이브러리의 몇 가
 - [구입](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/net/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원하다](https://forum.aspose.com/c/imaging/10)
+- [지원하다](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

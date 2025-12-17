@@ -190,7 +190,7 @@ Para más lecturas y recursos:
 - [Comprar licencias](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/net/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Con estos recursos y consejos, estarás bien preparado para afrontar cualquier reto de manipulación de imágenes con Aspose.Imaging para .NET. ¡Que disfrutes programando!
 

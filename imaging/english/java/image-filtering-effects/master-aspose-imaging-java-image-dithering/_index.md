@@ -210,7 +210,7 @@ For further exploration and support:
 - **Purchase License:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial:** [Try Aspose.Imaging Free](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum:** [Aspose.Imaging Support](https://forum.aspose.com/c/imaging/10)
+- **Support Forum:** [Aspose.Imaging Support](https://forum.aspose.com/c/imaging/14)
 
 Start exploring the possibilities with Aspose.Imaging for Java today and enhance your image processing projects!
 

@@ -184,7 +184,7 @@ A5: Zkontrolujte kód dvakrát, zda neobsahuje syntaktické chyby, a ujistěte s
 - **Nákup**Získejte licenci na [Nákupní stránka Aspose](https://purchase.aspose.com/buy).
 - **Bezplatná zkušební verze**Začněte s bezplatnou zkušební verzí prostřednictvím [Asposeovy studie](https://releases.aspose.com/imaging/java/).
 - **Dočasná licence**Získejte dočasnou licenci od [Licence Aspose](https://purchase.aspose.com/temporary-license/).
-- **Podpora**Vyhledejte pomoc na [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Podpora**Vyhledejte pomoc na [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Dodržováním tohoto návodu jste nyní vybaveni k tomu, abyste s jistotou zvládli rotaci obrázků DICOM v Javě. Přejeme vám příjemné programování!
 

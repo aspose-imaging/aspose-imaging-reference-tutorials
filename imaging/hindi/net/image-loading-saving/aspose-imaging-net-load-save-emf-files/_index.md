@@ -152,7 +152,7 @@ image.Save(outputPath, new EmfOptions());
 - **क्रय लाइसेंस:** [अभी खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [शुरू हो जाओ](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस:** [यहां अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच:** [एस्पोज समुदाय](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच:** [एस्पोज समुदाय](https://forum.aspose.com/c/imaging/14)
 
 आज ही Aspose.Imaging for .NET के साथ अपनी यात्रा शुरू करें और अपने एप्लिकेशन की इमेज प्रोसेसिंग क्षमताओं को उन्नत करें!
 

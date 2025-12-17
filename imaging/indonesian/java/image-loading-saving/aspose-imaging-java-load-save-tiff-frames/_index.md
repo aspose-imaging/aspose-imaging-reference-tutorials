@@ -211,7 +211,7 @@ Dalam tutorial ini, kami telah membahas hal-hal penting dalam memuat, menyalin, 
 - **Pembelian**: Beli lisensi untuk penggunaan komersial di [tautan ini](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: Mulailah dengan uji coba gratis untuk menguji fitur di [Situs web Aspose](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: Dapatkan lisensi sementara untuk evaluasi lanjutan dari [Di Sini](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: Bergabunglah dalam diskusi atau cari bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: Bergabunglah dalam diskusi atau cari bantuan di [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

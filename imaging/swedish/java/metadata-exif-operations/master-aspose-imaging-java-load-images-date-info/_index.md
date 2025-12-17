@@ -174,7 +174,7 @@ Du har nu lärt dig hur man laddar bilder och hämtar senast ändrade datum med 
 - [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Utforska gärna dessa resurser för mer detaljerad information och support. Lycka till med kodningen!
 

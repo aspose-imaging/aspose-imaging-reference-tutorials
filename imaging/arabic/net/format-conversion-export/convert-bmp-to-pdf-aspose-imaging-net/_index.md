@@ -128,7 +128,7 @@ image.Save(Path.Combine(outputDir, "sample_out.pdf"), exportOptions);
 ج٢: تتوفر نسخة تجريبية، ولكن للاستخدام التجاري، يلزم الحصول على ترخيص. تفضل بزيارة [شراء](https://purchase.aspose.com/buy) لمزيد من التفاصيل.
 
 **س3: كيف أقوم باستكشاف أخطاء التحويل وإصلاحها؟**
-ج٣: تحقق من مسارات الملفات وتأكد من تثبيت Aspose.Imaging بشكل صحيح. راجع [منتدى الدعم](https://forum.aspose.com/c/imaging/10) إذا استمرت المشاكل.
+ج٣: تحقق من مسارات الملفات وتأكد من تثبيت Aspose.Imaging بشكل صحيح. راجع [منتدى الدعم](https://forum.aspose.com/c/imaging/14) إذا استمرت المشاكل.
 
 **س4: هل يمكنني تعديل خصائص مستند PDF أثناء التحويل؟**
 ج4: نعم، يمكنك تعيين خصائص معلومات المستند المختلفة مثل العنوان أو المؤلف أو الكلمات الرئيسية باستخدام `PdfDocumentInfo`.
@@ -142,7 +142,7 @@ A5: تشمل المكتبات الأخرى ImageMagick وGhostscript، على ا
 - [شراء الترخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/net/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 نأمل أن يكون هذا الدليل مفيدًا. الآن، لمَ لا تُجرّب تحويل ملفات BMP إلى PDF باستخدام Aspose.Imaging for .NET؟
 

@@ -191,7 +191,7 @@ Maven 또는 Gradle 종속성을 사용하거나 Aspose 웹사이트에서 직�
 - **구입:** [Aspose 라이선스 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [Aspose Imaging 무료 체험판](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 튜토리얼을 따라 하면 Aspose.Imaging for Java를 사용하여 JPEG를 효율적으로 로드하고 저장하는 방법을 익힐 수 있습니다. 즐거운 코딩 되세요!
 

@@ -152,7 +152,7 @@ Klaar om je vaardigheden verder te ontwikkelen? Implementeer deze oplossing in j
 - [Aankoop](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Steun](https://forum.aspose.com/c/imaging/10)
+- [Steun](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

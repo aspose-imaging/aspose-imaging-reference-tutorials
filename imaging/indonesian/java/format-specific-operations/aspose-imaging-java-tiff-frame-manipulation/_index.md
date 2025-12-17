@@ -178,7 +178,7 @@ A: Meskipun Aspose.Imaging dioptimalkan untuk kinerja, pertimbangkan untuk mengg
 - **Pembelian**: [Beli Lisensi Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulailah dengan Uji Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Bergabunglah dengan Forum Aspose untuk Dukungan](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Bergabunglah dengan Forum Aspose untuk Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Dengan sumber daya ini, Anda kini siap menangani pemrosesan gambar TIFF dengan percaya diri. Selamat membuat kode!
 

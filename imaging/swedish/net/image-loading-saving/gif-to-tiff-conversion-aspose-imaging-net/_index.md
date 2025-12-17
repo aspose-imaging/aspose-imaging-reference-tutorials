@@ -177,7 +177,7 @@ A: TIFF ger högre kvalitet och stöder större färgdjup, perfekt för professi
 - **Köp en licens**: [Aspose köpsida](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Begär tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd och gemenskap**: [Aspose-forum](https://forum.aspose.com/c/imaging/10)
+- **Stöd och gemenskap**: [Aspose-forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -159,7 +159,7 @@ Siap untuk mencobanya? Unduh dan uji solusinya dalam proyek Anda hari ini!
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Jangan ragu untuk menjelajahi sumber daya ini untuk mendapatkan informasi dan dukungan yang lebih mendalam. Selamat membuat kode!
 

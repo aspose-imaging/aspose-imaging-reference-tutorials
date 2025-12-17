@@ -188,7 +188,7 @@ Door deze handleiding te volgen, hebt u geleerd hoe u TIFF-afbeeldingen effectie
 - **Aankoop:** [Nu kopen](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Begin hier](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Hier aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun:** Voor verdere hulp kunt u terecht op de [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** Voor verdere hulp kunt u terecht op de [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -225,7 +225,7 @@ Aspose.Imaging for Java を使用して GIF ファイルを WebP に変換する
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imaging 無料トライアル](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 この包括的なガイドを読めば、Aspose.Imaging for Java を使って画像を最適化し、アプリケーションやウェブサイトを強化するための十分な知識が得られます。コーディングを楽しみましょう！
 

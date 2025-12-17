@@ -149,7 +149,7 @@ A3: Optimice la gestión de la memoria y ajuste la configuración como se explic
 A4: Algunos problemas comunes incluyen rutas de archivo incorrectas, configuraciones incorrectas y formatos de imagen no compatibles. Asegúrese siempre de que las rutas sean correctas y que la configuración se ajuste a sus requisitos.
 
 **P5: ¿Dónde puedo encontrar más recursos sobre Aspose.Imaging?**
-A5: Visita el [Documentación de Aspose](https://reference.aspose.com/imaging/net/) para guías completas y la [Foros](https://forum.aspose.com/c/imaging/10) para el apoyo de la comunidad.
+A5: Visita el [Documentación de Aspose](https://reference.aspose.com/imaging/net/) para guías completas y la [Foros](https://forum.aspose.com/c/imaging/14) para el apoyo de la comunidad.
 
 ## Recursos
 - **Documentación:** [Referencia de Aspose Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -157,7 +157,7 @@ A5: Visita el [Documentación de Aspose](https://reference.aspose.com/imaging/ne
 - **Compra:** [Comprar licencia](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Descargas de prueba](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal:** [Solicitar aquí](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** [Foros de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** [Foros de Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

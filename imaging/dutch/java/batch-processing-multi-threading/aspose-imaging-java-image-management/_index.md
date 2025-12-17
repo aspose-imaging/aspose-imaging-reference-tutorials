@@ -163,7 +163,7 @@ Je hebt nu geleerd hoe je afbeeldingen kunt laden, opslaan en verwijderen met As
 - **Aankoop**: Koop uw licentie bij [Aspose Aankoop](https://purchase.aspose.com/buy).
 - **Gratis proefperiode**: Probeer het met een gratis proefversie die beschikbaar is op hun site.
 - **Tijdelijke licentie**: Schaf er een aan voor volledige toegang tot de functies zonder beperkingen.
-- **Steun**: Krijg hulp van de community op [Aspose Forum](https://forum.aspose.com/c/imaging/10). 
+- **Steun**: Krijg hulp van de community op [Aspose Forum](https://forum.aspose.com/c/imaging/14). 
 
 Nadat u deze uitgebreide handleiding hebt gevolgd, bent u klaar om afbeeldingsbestanden efficiënt te verwerken in uw Java-toepassingen met Aspose.Imaging!
 

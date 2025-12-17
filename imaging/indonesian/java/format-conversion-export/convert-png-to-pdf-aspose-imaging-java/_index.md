@@ -194,7 +194,7 @@ Dengan mengikuti panduan ini, Anda telah mempelajari cara memuat berkas PNG, men
 - [Pembelian](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Mulailah proyek Anda berikutnya dengan percaya diri, karena Aspose.Imaging untuk Java telah siap membantu Anda!
 

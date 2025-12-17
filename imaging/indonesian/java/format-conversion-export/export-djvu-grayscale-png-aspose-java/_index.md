@@ -194,7 +194,7 @@ A5: Tentu saja! Terapkan teknik pemrosesan loop atau paralel untuk menangani ban
 - **Pembelian**: https://purchase.aspose.com/beli
 - **Uji Coba Gratis**: https://releases.aspose.com/imaging/java/
 - **Lisensi Sementara**: https://purchase.aspose.com/lisensi-sementara/
-- **Mendukung**: https://forum.aspose.com/c/imaging/10
+- **Mendukung**: https://forum.aspose.com/c/imaging/14
 
 Jelajahi sumber daya ini untuk memperdalam pemahaman dan penguasaan Anda tentang Aspose.Imaging untuk Java. Selamat membuat kode!
 

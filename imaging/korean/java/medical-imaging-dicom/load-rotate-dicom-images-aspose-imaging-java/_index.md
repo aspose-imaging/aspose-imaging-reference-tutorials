@@ -184,7 +184,7 @@ A5: 구문 오류가 있는지 코드를 다시 한 번 확인하고 모든 종�
 - **구입**: 면허를 취득하다 [Aspose 구매 사이트](https://purchase.aspose.com/buy).
 - **무료 체험**: 무료 체험판을 통해 시작하세요 [Aspose 시험](https://releases.aspose.com/imaging/java/).
 - **임시 면허**: 임시 면허를 취득하다 [Aspose 라이선싱](https://purchase.aspose.com/temporary-license/).
-- **지원하다**: 도움을 구하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10).
+- **지원하다**: 도움을 구하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/14).
 
 이 가이드를 따라 하면 이제 Java에서 DICOM 이미지 회전을 자신 있게 처리할 수 있습니다. 즐거운 코딩 되세요!
 

@@ -205,7 +205,7 @@ Ebben az oktatóanyagban azt vizsgáltuk meg, hogyan valósítható meg a képek
 - Kísérletezzen a maszkolási beállítások különböző konfigurációival.
 - Fedezze fel az Aspose.Imaging által kínált további funkciókat a további képfeldolgozási lehetőségekért.
 
-További kérdésekért vagy támogatásért látogassa meg a [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/10).
+További kérdésekért vagy támogatásért látogassa meg a [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/14).
 
 ## GYIK szekció
 
@@ -231,7 +231,7 @@ V: Az ingyenes próbaverzió lehetővé teszi az összes funkció tesztelését,
 - **Vásárlás**: [Aspose licencelési lehetőségek vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Kezdje ingyenes próbaverzióval](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/14)
 
 Kezdje el az automatikus képmaszkolás elsajátításának útját még ma az Aspose.Imaging és a Java segítségével!
 

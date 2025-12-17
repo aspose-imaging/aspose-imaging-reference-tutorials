@@ -169,7 +169,7 @@ foreach (string fileName in files)
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/net/)
 - [臨時執照](https://purchase.aspose.com/temporary-license/)
-- [支援論壇](https://forum.aspose.com/c/imaging/10)
+- [支援論壇](https://forum.aspose.com/c/imaging/14)
 
 遵循本指南，您將能夠在影像處理任務中充分發揮 Aspose.Imaging for .NET 的強大功能。祝您編碼愉快！
 

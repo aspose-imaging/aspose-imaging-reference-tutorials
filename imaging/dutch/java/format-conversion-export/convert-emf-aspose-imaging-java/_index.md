@@ -186,7 +186,7 @@ Je beheerst nu het converteren van EMF-afbeeldingen naar verschillende formaten 
    - Veelvoorkomende problemen zijn onder andere onjuiste bestandspaden of niet-ondersteunde formaatconversies. Zorg ervoor dat uw instellingen overeenkomen met de stappen in de zelfstudie.
 
 5. **Waar kan ik ondersteuning vinden voor Aspose.Imaging?**
-   - Bezoek de [Aspose-forum](https://forum.aspose.com/c/imaging/10) voor hulp en om in contact te komen met andere gebruikers.
+   - Bezoek de [Aspose-forum](https://forum.aspose.com/c/imaging/14) voor hulp en om in contact te komen met andere gebruikers.
 
 ## Bronnen
 

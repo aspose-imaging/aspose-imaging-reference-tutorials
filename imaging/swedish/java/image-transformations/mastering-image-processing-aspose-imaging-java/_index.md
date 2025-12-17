@@ -182,7 +182,7 @@ Den kostnadsfria provperioden har utvärderingsbegränsningar, såsom vattenstä
 - **Köpa:** [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Aspose.Imaging Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose Forum Support](https://forum.aspose.com/c/imaging/10) 
+- **Stöd:** [Aspose Forum Support](https://forum.aspose.com/c/imaging/14) 
 
 Med den här omfattande guiden är du väl rustad för att börja använda Aspose.Imaging för Java i dina projekt. Lycka till med kodningen!
 

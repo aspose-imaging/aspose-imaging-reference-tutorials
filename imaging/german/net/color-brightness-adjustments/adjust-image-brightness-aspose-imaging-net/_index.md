@@ -172,7 +172,7 @@ A: Obwohl technisch möglich, können extreme Anpassungen die Bildqualität beei
 - **Lizenz erwerben**: [Jetzt kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Erste Schritte](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Hier anfordern](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum**: [Aspose.Imaging Gemeinschaft](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum**: [Aspose.Imaging Gemeinschaft](https://forum.aspose.com/c/imaging/14)
 
 Dieser Leitfaden soll als umfassende Ressource für die Beherrschung der Helligkeitsanpassung mit Aspose.Imaging für .NET dienen. Viel Spaß beim Programmieren!
 

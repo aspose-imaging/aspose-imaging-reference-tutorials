@@ -206,7 +206,7 @@ Készen állsz arra, hogy ezt a tudást a gyakorlatba is átültesd? Merülj el 
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 További útmutatásért és támogatásért böngészd át ezeket az anyagokat, miközben az Aspose.Imaging-et implementálod a Java projektjeidben!
 

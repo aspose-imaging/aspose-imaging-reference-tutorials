@@ -194,7 +194,7 @@ J: Tentu saja – ia berjalan di mana pun Java didukung, termasuk Windows, Linux
 - **Purchase**: [Buy Aspose Products](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start a Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Sekarang, dengan pengetahuan ini, Anda siap mengimplementasikan Aspose.Imaging dalam proyek Java Anda untuk kemampuan pengolahan gambar yang lebih baik. Selamat coding!
 

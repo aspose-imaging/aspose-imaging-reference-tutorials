@@ -187,7 +187,7 @@ Absolut, den är utformad för att hantera både personliga och företagsmässig
 
 **5. Var kan jag få stöd om det behövs?**
 
-Besök [Aspose-forumet](https://forum.aspose.com/c/imaging/10) för hjälp från communityn eller kontakta deras supportteam direkt via deras webbplats.
+Besök [Aspose-forumet](https://forum.aspose.com/c/imaging/14) för hjälp från communityn eller kontakta deras supportteam direkt via deras webbplats.
 
 ## Resurser
 

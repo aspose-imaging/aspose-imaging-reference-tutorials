@@ -195,7 +195,7 @@ Kolejne kroki mogą obejmować eksplorację bardziej zaawansowanych funkcji paki
 - [Kup licencję Aspose](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna i licencja tymczasowa](https://releases.aspose.com/imaging/java/)
 
-Mamy nadzieję, że ten przewodnik był pouczający i pomocny. Jeśli masz dalsze pytania, skontaktuj się z nami [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10). Miłego kodowania!
+Mamy nadzieję, że ten przewodnik był pouczający i pomocny. Jeśli masz dalsze pytania, skontaktuj się z nami [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14). Miłego kodowania!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

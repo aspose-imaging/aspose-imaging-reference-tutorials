@@ -216,7 +216,7 @@ using (MemoryStream ms = new MemoryStream())
 - **Покупка**: [Купить Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Бесплатная пробная версия Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия**: [Подать заявку на временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Начните уверенное путешествие по миру обработки изображений с помощью Aspose.Imaging для .NET!
 

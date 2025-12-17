@@ -177,7 +177,7 @@ A: TIFF biedt een hogere kwaliteit en ondersteunt meer kleurdieptes, ideaal voor
 - **Koop een licentie**: [Aspose Aankooppagina](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuning en gemeenschap**: [Aspose Forums](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuning en gemeenschap**: [Aspose Forums](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

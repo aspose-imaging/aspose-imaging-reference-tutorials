@@ -210,7 +210,7 @@ A: Se till att dina överläggs- och bakgrundsbilder har hög upplösning. Kontr
 - **Köplicens**: [Aspose köpsida](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova Aspose.Imaging för Java](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**: [Aspose Imaging Support](https://forum.aspose.com/c/imaging/10)
+- **Supportforum**: [Aspose Imaging Support](https://forum.aspose.com/c/imaging/14)
 
 Med den här guiden är du väl rustad för att börja blanda bilder med Aspose.Imaging för Java. Lycka till med kodningen!
 

@@ -252,7 +252,7 @@ A: Φορτώστε μόνο το απαραίτητο πλαίσιο, απελ�
 - **Αγορά:** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια Χρήσης:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ Υποστήριξης:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ Υποστήριξης:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 ---
 

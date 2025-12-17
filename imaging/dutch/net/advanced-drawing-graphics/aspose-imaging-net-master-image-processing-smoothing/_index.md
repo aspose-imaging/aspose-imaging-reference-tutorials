@@ -169,7 +169,7 @@ Door deze technieken onder de knie te krijgen, kunt u uw beeldverwerkingsworkflo
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u goed toegerust om de kracht van Aspose.Imaging voor .NET te benutten bij uw beeldverwerkingstaken. Veel plezier met coderen!
 

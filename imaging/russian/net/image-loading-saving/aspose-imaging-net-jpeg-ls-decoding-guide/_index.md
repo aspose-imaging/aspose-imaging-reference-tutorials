@@ -153,7 +153,7 @@ A5: Отрегулируйте свойства сжатия с помощью `
 - **Лицензия на покупку**: [Купить Aspose Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Загрузки Aspose Imaging](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия**: [Получить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Форумы поддержки**: [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- **Форумы поддержки**: [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

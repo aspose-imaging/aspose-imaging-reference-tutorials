@@ -206,7 +206,7 @@ Try implementing this solution in a project today and see how it elevates your w
    - The library is available under a trial license; full features require purchase.
 
 5. **Where can I get support if needed?**
-   - Visit [Aspose’s support forum](https://forum.aspose.com/c/imaging/10) for assistance.
+   - Visit [Aspose’s support forum](https://forum.aspose.com/c/imaging/14) for assistance.
 
 ## Resources
 

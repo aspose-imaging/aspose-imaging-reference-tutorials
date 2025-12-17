@@ -204,7 +204,7 @@ A5: Используйте функции пакетной обработки и
 - [Загрузить Aspose.Imaging для Java](https://releases.aspose.com/imaging/java/)
 - [Купить лицензию](https://purchase.aspose.com/buy)
 - [Бесплатная пробная версия и временная лицензия](https://releases.aspose.com/imaging/java/)
-- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Погрузитесь в эти ресурсы, чтобы расширить свои знания и возможности с Aspose.Imaging для Java. Удачного кодирования!
 

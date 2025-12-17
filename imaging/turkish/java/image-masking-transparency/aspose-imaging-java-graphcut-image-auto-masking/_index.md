@@ -205,7 +205,7 @@ Bu eğitimde, Aspose.Imaging for Java ile GraphCut yöntemini kullanarak görün
 - Maskeleme seçeneklerinin farklı yapılandırmalarını deneyin.
 - Ek görüntü işleme yetenekleri için Aspose.Imaging'in sunduğu diğer özellikleri keşfedin.
 
-Daha fazla soru veya destek için şu adresi ziyaret edin: [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/10).
+Daha fazla soru veya destek için şu adresi ziyaret edin: [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/14).
 
 ## SSS Bölümü
 
@@ -231,7 +231,7 @@ C: Ücretsiz deneme sürümünde tüm işlevleri test edebiliyorsunuz ancak gör
 - **Satın almak**: [Aspose Lisanslama Seçeneklerini Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Deneme ile Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging ve Java ile görüntü otomatik maskelemede ustalaşma yolculuğunuza bugün başlayın!
 

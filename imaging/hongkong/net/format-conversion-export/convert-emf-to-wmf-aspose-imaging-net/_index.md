@@ -172,7 +172,7 @@ using (Image image = Image.Load(fullPath))
 - **購買許可證：** [購買 Aspose.License](https://purchase.aspose.com/buy)
 - **免費試用：** [開始免費試用](https://releases.aspose.com/imaging/net/)
 - **臨時執照：** [取得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援論壇：** [Aspose.Imaging 支持](https://forum.aspose.com/c/imaging/10)
+- **支援論壇：** [Aspose.Imaging 支持](https://forum.aspose.com/c/imaging/14)
 
 立即踏上 Aspose.Imaging for .NET 之旅，開啟影像處理的新可能性！
 

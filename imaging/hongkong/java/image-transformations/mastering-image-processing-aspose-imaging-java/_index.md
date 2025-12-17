@@ -182,7 +182,7 @@ Aspose.Imaging 支援多種格式，包括 JPEG、PNG、GIF、BMP、TIFF 等。�
 - **購買：** [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用：** [Aspose.Imaging 免費試用](https://releases.aspose.com/imaging/java/)
 - **臨時執照：** [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 論壇支持](https://forum.aspose.com/c/imaging/10) 
+- **支持：** [Aspose 論壇支持](https://forum.aspose.com/c/imaging/14) 
 
 有了這份全面的指南，您就能在專案中使用 Aspose.Imaging for Java 了。祝您程式愉快！
 

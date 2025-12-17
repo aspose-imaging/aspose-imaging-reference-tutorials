@@ -213,7 +213,7 @@ C: Evet, JPEG, PNG, BMP ve daha fazlası dahil olmak üzere çeşitli formatlar�
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme İndirmeleri](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuz, Aspose.Imaging for .NET kullanarak DjVu görüntülerini etkili bir şekilde dönüştürmek için gereken bilgi ve araçları sağlamayı amaçlamaktadır. İyi kodlamalar!
 

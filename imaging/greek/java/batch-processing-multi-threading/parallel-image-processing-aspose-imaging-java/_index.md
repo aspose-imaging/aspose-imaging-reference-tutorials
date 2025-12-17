@@ -223,7 +223,7 @@ A5: Σας επιτρέπει να κάνετε ανάγνωση από ή εγ�
 - [Λήψη Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - [Αγορά Άδειας Χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή και προσωρινή άδεια χρήσης](https://releases.aspose.com/imaging/java/)
-- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/10) 
+- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/14) 
 
 Ξεκινήστε το ταξίδι σας με την Aspose.Imaging Java σήμερα και ξεκλειδώστε τις δυνατότητες της επεξεργασίας εικόνας υψηλής απόδοσης στα έργα σας!
 

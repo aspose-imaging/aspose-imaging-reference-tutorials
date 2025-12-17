@@ -148,7 +148,7 @@ Készen áll a megoldás megvalósítására? Kísérletezz különböző képt�
    - Java fejlesztői készlet (JDK) és egy kompatibilis IDE.
 
 5. **Van elérhető támogatás a problémák elhárításához?**
-   - Látogatás [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10) segítségért.
+   - Látogatás [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14) segítségért.
 
 ## Erőforrás
 

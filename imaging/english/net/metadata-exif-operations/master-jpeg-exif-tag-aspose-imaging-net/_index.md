@@ -154,7 +154,7 @@ A3: Implement try-catch blocks around your image-loading code to gracefully hand
 A4: Yes, you can both read and write EXIF tags with Aspose.Imaging’s comprehensive API.
 
 **Q5: Where can I get support if I encounter issues?**
-A5: Visit the [Aspose.Imaging forum](https://forum.aspose.com/c/imaging/10) for community and official support.
+A5: Visit the [Aspose.Imaging forum](https://forum.aspose.com/c/imaging/14) for community and official support.
 
 ## Resources
 

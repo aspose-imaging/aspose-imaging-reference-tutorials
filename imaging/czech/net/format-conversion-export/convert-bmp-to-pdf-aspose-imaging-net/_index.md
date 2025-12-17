@@ -128,7 +128,7 @@ A1: Ano, obrázky můžete dávkově zpracovávat iterací přes adresář a apl
 A2: Zkušební verze je k dispozici, ale pro komerční použití je nutné získat licenci. Navštivte [Nákup](https://purchase.aspose.com/buy) pro více informací.
 
 **Q3: Jak mohu řešit chyby při převodu?**
-A3: Zkontrolujte cesty k souborům a ujistěte se, že je soubor Aspose.Imaging správně nainstalován. Nahlédněte do [Fórum podpory](https://forum.aspose.com/c/imaging/10) pokud problémy přetrvávají.
+A3: Zkontrolujte cesty k souborům a ujistěte se, že je soubor Aspose.Imaging správně nainstalován. Nahlédněte do [Fórum podpory](https://forum.aspose.com/c/imaging/14) pokud problémy přetrvávají.
 
 **Q4: Mohu během převodu upravit vlastnosti dokumentu PDF?**
 A4: Ano, můžete nastavit různé vlastnosti informací o dokumentu, jako je název, autor nebo klíčová slova, pomocí `PdfDocumentInfo`.
@@ -142,7 +142,7 @@ A5: Mezi další knihovny patří ImageMagick a Ghostscript, i když ve srovnán
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/net/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Doufáme, že vám tento průvodce pomohl. Proč se tedy neodvážit a nezkusit převést soubory BMP do PDF pomocí Aspose.Imaging for .NET?
 

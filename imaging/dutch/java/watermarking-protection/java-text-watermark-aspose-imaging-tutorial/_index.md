@@ -245,7 +245,7 @@ In deze handleiding hebben we besproken hoe u effectief een afbeelding kunt lade
 - **Aankoop**: Overweeg een abonnement aan te schaffen bij [Aspose Aankoop](https://purchase.aspose.com/buy).
 - **Gratis proefperiode**: Begin met een gratis proefperiode om functies zonder beperkingen te testen.
 - **Tijdelijke licentie**: Schaf een tijdelijke licentie aan voor volledige toegang tijdens uw evaluatieperiode.
-- **Steun**: Sluit je aan bij de community en zoek hulp op [Aspose Forums](https://forum.aspose.com/c/imaging/10).
+- **Steun**: Sluit je aan bij de community en zoek hulp op [Aspose Forums](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

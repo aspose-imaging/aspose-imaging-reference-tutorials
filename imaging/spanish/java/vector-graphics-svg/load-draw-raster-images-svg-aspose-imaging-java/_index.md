@@ -187,7 +187,7 @@ En este tutorial, exploramos cómo cargar y dibujar una imagen rasterizada en un
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Información de prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Solicitud de licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo esta guía, ya estarás bien preparado para integrar imágenes raster en lienzos SVG con Aspose.Imaging para Java. ¡Que disfrutes programando!
 

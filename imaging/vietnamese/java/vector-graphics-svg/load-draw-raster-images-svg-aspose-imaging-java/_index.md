@@ -187,7 +187,7 @@ Trong hướng dẫn này, chúng tôi đã khám phá cách tải và vẽ hìn
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Thông tin dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Yêu cầu cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, giờ đây bạn đã có đủ khả năng để tích hợp hình ảnh raster vào canvas SVG bằng Aspose.Imaging for Java. Chúc bạn viết code vui vẻ!
 

@@ -177,7 +177,7 @@ A: Zkontrolujte [Dokumentace k Aspose.Imaging](https://reference.aspose.com/imag
 - **Nákup:** [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Bezplatná zkušební verze Aspose](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Tato komplexní příručka by vám měla pomoci efektivně aplikovat Wienerův filtr Motion a vylepšit vaše projekty zpracování obrazu v Javě pomocí Aspose.Imaging.
 

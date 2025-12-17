@@ -189,7 +189,7 @@ In diesem Tutorial haben Sie gelernt, wie Sie ODG-Dateien mit Aspose.Imaging fü
 - **Kaufen:** [Kaufen Sie eine Lizenz](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Versuchen Sie Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Beantragen Sie eine vorübergehende Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum:** [Aspose Support-Community](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum:** [Aspose Support-Community](https://forum.aspose.com/c/imaging/14)
 
 Diese Anleitung soll Ihnen helfen, Aspose.Imaging nahtlos in Ihre Java-Projekte zu integrieren und so stets hochwertige Bildkonvertierungen sicherzustellen. Viel Spaß beim Programmieren!
 

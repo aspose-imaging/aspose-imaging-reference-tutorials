@@ -160,7 +160,7 @@ C3: Bellek kullanımını optimize etmeyi, paralel işleme tekniklerini kullanma
 C4: Güçlü olsa da, ortamınızın optimum performans için gerekli gereksinimleri karşıladığından emin olun.
 
 **S5: Sorunlarla karşılaşırsam hangi destek seçenekleri mevcut?**
-A5: Yardım isteyebilirsiniz [Aspose Görüntüleme Forumu](https://forum.aspose.com/c/imaging/10) veya kapsamlı dokümanlarına bakın.
+A5: Yardım isteyebilirsiniz [Aspose Görüntüleme Forumu](https://forum.aspose.com/c/imaging/14) veya kapsamlı dokümanlarına bakın.
 
 ## Kaynaklar
 

@@ -129,7 +129,7 @@ image.Save(outputPath, options);
 ### 後續步驟
 - 嘗試不同的匯出選項，例如調整品質等級。
 - 探索將 Aspose.Imaging 整合到更大的專案或工作流程中。
-- 與社區互動 [Aspose 論壇](https://forum.aspose.com/c/imaging/10) 尋求支持和想法。
+- 與社區互動 [Aspose 論壇](https://forum.aspose.com/c/imaging/14) 尋求支持和想法。
 
 ## 常見問題部分
 
@@ -154,7 +154,7 @@ Aspose.Imaging 有效地管理記憶體使用情況，但始終確保您正確�
 - **購買：** [購買許可證](https://purchase.aspose.com/buy)
 - **免費試用：** [從這裡開始](https://releases.aspose.com/imaging/net/)
 - **臨時執照：** [請求一個](https://purchase.aspose.com/temporary-license/)
-- **支援論壇：** [Aspose 支援](https://forum.aspose.com/c/imaging/10)
+- **支援論壇：** [Aspose 支援](https://forum.aspose.com/c/imaging/14)
 
 使用 Aspose.Imaging .NET 自信地踏上您的影像處理之旅，探索數位成像的無限可能性。
 

@@ -192,7 +192,7 @@ Fedezd fel a Graphics osztályt az API dokumentációjában, amely metódusokat 
 - **Vásárlás**: [Aspose licencelés vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbáld ki az Aspose.Imaging ingyenes verzióját](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Kérelem itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Böngészd át ezeket az anyagokat, hogy elmélyítsd az Aspose.Imaging Java megértését és bővítsd annak képességeit a projektjeidben. Jó kódolást!
 

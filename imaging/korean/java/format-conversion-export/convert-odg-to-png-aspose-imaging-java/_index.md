@@ -189,7 +189,7 @@ Aspose.Imaging을 사용하는 동안 성능을 최적화하려면:
 - **구입:** [라이센스 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [Aspose.Imaging을 사용해 보세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼:** [Aspose 지원 커뮤니티](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼:** [Aspose 지원 커뮤니티](https://forum.aspose.com/c/imaging/14)
 
 이 가이드는 Aspose.Imaging을 Java 프로젝트에 원활하게 통합하여 항상 고품질 이미지 변환을 보장하는 데 도움이 되도록 설계되었습니다. 즐거운 코딩 되세요!
 

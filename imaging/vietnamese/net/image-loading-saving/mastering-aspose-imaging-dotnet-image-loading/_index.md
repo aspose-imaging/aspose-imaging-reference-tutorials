@@ -150,7 +150,7 @@ A: Nó hỗ trợ nhiều định dạng bao gồm JPEG, PNG, TIFF và nhiều �
 A: Bạn có thể bắt đầu bằng bản dùng thử miễn phí hoặc giấy phép tạm thời để đánh giá các tính năng trước khi quyết định mua.
 
 **H: Làm thế nào để khắc phục sự cố thường gặp khi tải hình ảnh trong Aspose.Imaging?**
-A: Xác minh đường dẫn tệp, kiểm tra phiên bản thư viện và tham khảo [diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10) để được hỗ trợ.
+A: Xác minh đường dẫn tệp, kiểm tra phiên bản thư viện và tham khảo [diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14) để được hỗ trợ.
 
 ## Tài nguyên
 - **Tài liệu**: [Tài liệu tham khảo Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -158,7 +158,7 @@ A: Xác minh đường dẫn tệp, kiểm tra phiên bản thư viện và tham
 - **Thông tin mua hàng và cấp phép**: [Trang mua hàng Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

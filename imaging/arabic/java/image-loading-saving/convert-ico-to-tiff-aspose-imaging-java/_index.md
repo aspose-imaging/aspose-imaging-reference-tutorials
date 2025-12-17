@@ -181,7 +181,7 @@ license.setLicense("path/to/your/license/file.lic");
 - [خيارات ترخيص الشراء](https://purchase.aspose.com/buy)
 - [تنزيل النسخة التجريبية المجانية](https://releases.aspose.com/imaging/java/)
 - [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم والمجتمع](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم والمجتمع](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا الدليل، أصبحتَ الآن جاهزًا لتحويل صيغ الصور باستخدام Aspose.Imaging Java بكفاءة. برمجة ممتعة!
 

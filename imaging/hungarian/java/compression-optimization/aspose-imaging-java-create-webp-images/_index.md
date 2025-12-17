@@ -171,7 +171,7 @@ Fedezze fel a [Aspose dokumentáció](https://reference.aspose.com/imaging/java/
 - **Dokumentáció:** [Aspose.Imaging Java-referenciához](https://reference.aspose.com/imaging/java/)
 - **Letöltés:** [Legújabb kiadások](https://releases.aspose.com/imaging/java/)
 - **Vásárlás és próbaverzió:** Fedezze fel a licencelési lehetőségeket itt: [Aspose vásárlás](https://purchase.aspose.com/buy)
-- **Támogatás:** Csatlakozz a közösségi beszélgetésekhez a [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** Csatlakozz a közösségi beszélgetésekhez a [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Próbáld ki ezeket a lépéseket a következő projektedben, hogy megtudd, hogyan egyszerűsítheti és javíthatja az Aspose.Imaging Java a képfeldolgozási munkafolyamataidat!
 

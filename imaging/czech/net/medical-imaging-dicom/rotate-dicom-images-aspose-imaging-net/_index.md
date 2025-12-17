@@ -147,7 +147,7 @@ Návštěva [Nákup Aspose](https://purchase.aspose.com/buy) pro informace o ná
 - **Dokumentace:** Prozkoumejte komplexní průvodce na [Dokumentace k Aspose.Imaging](https://reference.aspose.com/imaging/net/).
 - **Stáhnout:** Získejte nejnovější verzi Aspose.Imaging z [Stránka s vydáními](https://releases.aspose.com/imaging/net/).
 - **Nákup a licencování:** Více informací o možnostech nákupu naleznete na [Nákup](https://purchase.aspose.com/buy) a [Dočasná licence](https://purchase.aspose.com/temporary-license/).
-- **Podpora:** V případě dotazů nebo problémů navštivte [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Podpora:** V případě dotazů nebo problémů navštivte [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

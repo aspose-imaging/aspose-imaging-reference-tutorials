@@ -155,7 +155,7 @@ A5: Detailed documentation can be found at [Aspose.Imaging .NET Documentation](h
 - **Purchase License**: [Buy Now](https://purchase.aspose.com/buy)
 - **Free Trial**: [Get Started](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Apply Here](https://purchase.aspose.com/temporary-license/)
-- **Support Forum**: [Aspose.Imaging Support](https://forum.aspose.com/c/imaging/10)
+- **Support Forum**: [Aspose.Imaging Support](https://forum.aspose.com/c/imaging/14)
 
 Happy coding, and enjoy experimenting with Aspose.Imaging to bring your image processing needs to life!
 

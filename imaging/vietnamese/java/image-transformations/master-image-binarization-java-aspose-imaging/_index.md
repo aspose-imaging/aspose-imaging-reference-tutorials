@@ -191,7 +191,7 @@ A5: Có, Aspose.Imaging hỗ trợ nhiều định dạng hình ảnh bao gồm 
 - **Mua:** [Mua Aspose.License](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn đã trang bị cho mình các kỹ năng để xử lý các tác vụ nhị phân hóa hình ảnh một cách hiệu quả bằng cách sử dụng Aspose.Imaging cho Java. Chúc bạn viết mã vui vẻ!
 

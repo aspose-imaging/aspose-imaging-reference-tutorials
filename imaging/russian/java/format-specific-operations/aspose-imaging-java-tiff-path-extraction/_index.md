@@ -211,7 +211,7 @@ private static VectorPathRecord createBezierRecord(PointF point) {
 - [Лицензия на покупку](https://purchase.aspose.com/buy)
 - [Бесплатная пробная версия](https://releases.aspose.com/imaging/java/)
 - [Временная лицензия](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Воспользуйтесь возможностями Aspose.Imaging Java и трансформируйте свои возможности обработки изображений уже сегодня!
 

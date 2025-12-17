@@ -165,7 +165,7 @@ Aspose.Imaging은 다양한 분야에 걸쳐 다재다능한 솔루션을 제공
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/net/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이러한 리소스를 자유롭게 살펴보시고, 어려움이 있으면 도움을 요청하세요. 즐거운 코딩 되세요!
 

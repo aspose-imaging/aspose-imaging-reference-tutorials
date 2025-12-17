@@ -173,7 +173,7 @@ A5: 使用 `image.resize(width, height)` 必要に応じて寸法を調整しま
 - **購入**https://purchase.aspose.com/buy
 - **無料トライアル**https://releases.aspose.com/imaging/java/
 - **一時ライセンス**https://purchase.aspose.com/temporary-license/
-- **サポート**https://forum.aspose.com/c/imaging/10
+- **サポート**https://forum.aspose.com/c/imaging/14
 
 このガイドに従えば、Aspose.Imaging を使用して Java アプリケーションで画像を効果的に管理できるようになります。コーディングを楽しみましょう！
 

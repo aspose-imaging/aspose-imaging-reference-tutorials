@@ -180,7 +180,7 @@ DICOM छवियों का आकार बदलते समय प्र
 - [खरीदना](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 इस व्यापक गाइड का पालन करके, अब आप Aspose.Imaging for Java का उपयोग करके DICOM इमेज प्रोसेसिंग कार्यों को कुशलतापूर्वक प्रबंधित करने में सक्षम हो जाएंगे।
 

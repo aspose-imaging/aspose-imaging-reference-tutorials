@@ -221,7 +221,7 @@ A5: Aggiungi la dipendenza Aspose.Imaging al tuo progetto utilizzando Maven o Gr
 - **Acquistare**: Acquisire una licenza tramite [Pagina di acquisto di Aspose](https://purchase.aspose.com/buy)
 - **Prova gratuita**: Inizia a sperimentare con [Prova gratuita di Aspose](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea**Ottieni l'accesso esteso tramite [Pagina della licenza temporanea di Aspose](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: Interagisci con la community e il team di supporto su [Forum di Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: Interagisci con la community e il team di supporto su [Forum di Aspose](https://forum.aspose.com/c/imaging/14)
 
 Seguendo questa guida, sarai pronto a implementare la convalida dei file e la gestione dei percorsi nelle tue applicazioni Java utilizzando Aspose.Imaging. Buon lavoro!
 

@@ -187,7 +187,7 @@ Absoluut. Het is ontworpen om zowel aan de eisen op persoonlijk als ondernemings
 
 **5. Waar kan ik indien nodig ondersteuning krijgen?**
 
-Bezoek de [Aspose-forum](https://forum.aspose.com/c/imaging/10) voor hulp van de community of neem rechtstreeks contact op met hun ondersteuningsteam via hun website.
+Bezoek de [Aspose-forum](https://forum.aspose.com/c/imaging/14) voor hulp van de community of neem rechtstreeks contact op met hun ondersteuningsteam via hun website.
 
 ## Bronnen
 

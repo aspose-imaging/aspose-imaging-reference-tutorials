@@ -150,7 +150,7 @@ A5: 詳細な資料は以下をご覧ください。 [Aspose.Imaging .NET ドキ
 - **ライセンスを購入**： [今すぐ購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [始める](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [こちらからお申し込みください](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [Aspose.Imaging サポート](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [Aspose.Imaging サポート](https://forum.aspose.com/c/imaging/14)
 
 コーディングを楽しんで、Aspose.Imaging を試して、画像処理のニーズを実現しましょう。
 

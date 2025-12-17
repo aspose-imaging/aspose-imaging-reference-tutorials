@@ -126,7 +126,7 @@ A: Operacja się nie powiedzie, dlatego przed próbą aktualizacji zaleca się s
 - **Zakup**: [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Wypróbuj Aspose.Imaging za darmo](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa**: [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**:W przypadku pytań odwiedź stronę [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**:W przypadku pytań odwiedź stronę [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dzięki temu kompleksowemu przewodnikowi jesteś gotowy, aby zacząć korzystać z Aspose.Imaging dla .NET w swoich projektach manipulacji obrazami DICOM. Miłego kodowania!
 

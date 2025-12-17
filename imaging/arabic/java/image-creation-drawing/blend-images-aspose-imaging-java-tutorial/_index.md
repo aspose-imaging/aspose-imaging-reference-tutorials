@@ -210,7 +210,7 @@ background.save(outDir + "/blended.png", pngOptions);
 - **شراء الترخيص**: [صفحة شراء Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جرب Aspose.Imaging لـ Java](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [الحصول على ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم**: [دعم التصوير Aspose](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم**: [دعم التصوير Aspose](https://forum.aspose.com/c/imaging/14)
 
 مع هذا الدليل، أنت جاهز تمامًا لبدء دمج الصور باستخدام Aspose.Imaging لجافا. برمجة ممتعة!
 

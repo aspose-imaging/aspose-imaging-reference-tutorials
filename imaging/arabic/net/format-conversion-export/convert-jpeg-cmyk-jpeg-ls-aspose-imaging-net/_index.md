@@ -186,7 +186,7 @@ finally
 - **رخصة الشراء:** [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [جرب Aspose.Imaging مجانًا](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة:** [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [منتدى دعم Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** [منتدى دعم Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 يُمكّنك هذا الدليل من تنفيذ تحويلات JPEG-LS CMYK بفعالية في تطبيقات .NET، مما يُحسّن الجودة والكفاءة. برمجة ممتعة!
 

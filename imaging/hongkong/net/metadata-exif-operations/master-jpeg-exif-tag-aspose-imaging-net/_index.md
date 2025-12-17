@@ -149,7 +149,7 @@ A3：在映像載入程式碼周圍實作 try-catch 區塊以優雅地處理異�
 A4：是的，您可以使用 Aspose.Imaging 的綜合 API 讀取和寫入 EXIF 標籤。
 
 **Q5：如果我遇到問題，我可以在哪裡獲得支援？**
-A5：訪問 [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/10) 獲得社區和官方支持。
+A5：訪問 [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/14) 獲得社區和官方支持。
 
 ## 資源
 

@@ -187,7 +187,7 @@ Jste připraveni uvést své dovednosti do praxe? Zkuste toto řešení implemen
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na cestu zpracování obrazu s jistotou s využitím Aspose.Imaging pro Javu a výkonné metody převzorkování Lanczos!
 

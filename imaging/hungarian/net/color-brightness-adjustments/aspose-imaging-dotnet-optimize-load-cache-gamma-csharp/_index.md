@@ -217,7 +217,7 @@ Az Aspose.Imaging for .NET használatával megtanultad, hogyan töltsd be és gy
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbáld ki az Aspose.Imaging ingyenes verzióját](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével most már képes leszel fejlett képfeldolgozási funkciókat megvalósítani .NET alkalmazásaidban az Aspose.Imaging használatával. Jó szórakozást a további felfedezéshez és projektjeid fejlesztéséhez!
 

@@ -204,7 +204,7 @@ Ebben az oktatóanyagban megtanultad, hogyan konvertálhatsz PNG képeket JPEG-L
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Közösségi Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Közösségi Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezzel az átfogó útmutatóval most már képes leszel hatékonyan kezelni a PNG-JPEG-LS konverziókat és fordítva az Aspose.Imaging for Java használatával. Jó kódolást!
 

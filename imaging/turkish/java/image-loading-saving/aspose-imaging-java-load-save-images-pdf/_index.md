@@ -160,7 +160,7 @@ A5: Üretim ortamlarında kesintisiz kullanım için geçerli bir lisans gerekli
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Forumları](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Forumları](https://forum.aspose.com/c/imaging/14)
 
 Görüntü işleme yeteneklerinizi geliştirmek için Aspose.Imaging Java'nın gücünü kullanın!
 

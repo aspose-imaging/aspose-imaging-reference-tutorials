@@ -163,7 +163,7 @@ image.Save(outputFileNameMultipageDcm, new DicomOptions());
 - [Покупка](https://purchase.aspose.com/buy)
 - [Бесплатная пробная версия](https://releases.aspose.com/imaging/net/)
 - [Временная лицензия](https://purchase.aspose.com/temporary-license/)
-- [Поддерживать](https://forum.aspose.com/c/imaging/10)
+- [Поддерживать](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

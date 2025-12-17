@@ -161,7 +161,7 @@ Daha fazla bilgi ve yardım için:
 - **Satın almak**: [Lisans Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'i Ücretsiz Deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Burada Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Aspose Destek Topluluğu](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: [Aspose Destek Topluluğu](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı kılavuzu takip ederek, .NET uygulamalarınızda görüntü işleme görevlerini güvenle ve verimlilikle ele almak için iyi bir donanıma sahip olacaksınız. İyi kodlamalar!
 

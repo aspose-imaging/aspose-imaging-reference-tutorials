@@ -159,7 +159,7 @@ Kami menganjurkan Anda untuk mencoba menerapkan solusi ini dalam proyek Anda. Un
    - Masalah umum meliputi jalur file yang salah atau jenis gambar yang tidak kompatibel. Pastikan gambar Anda didukung oleh Aspose.Imaging.
 
 **5. Di mana saya dapat menemukan dukungan jika saya menghadapi masalah?**
-   - Kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10) untuk bantuan dari komunitas dan pakar Aspose.
+   - Kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14) untuk bantuan dari komunitas dan pakar Aspose.
 
 ## Sumber daya
 
@@ -167,7 +167,7 @@ Kami menganjurkan Anda untuk mencoba menerapkan solusi ini dalam proyek Anda. Un
 - **Unduh**:Akses versi perpustakaan terbaru di [Rilis Aspose](https://releases.aspose.com/imaging/java/).
 - **Pembelian**:Untuk lisensi siap produksi, kunjungi [Aspose Pembelian](https://purchase.aspose.com/buy).
 - **Uji Coba Gratis**: Mulailah perjalanan Anda dengan uji coba gratis dari [Unduhan Aspose](https://releases.aspose.com/imaging/java/).
-- **Mendukung**:Dapatkan bantuan melalui [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Mendukung**:Dapatkan bantuan melalui [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Dengan memanfaatkan Aspose.Imaging untuk Java, Anda siap menangani tugas pemrosesan gambar yang rumit dengan mudah dan efisien. Selamat membuat kode!
 

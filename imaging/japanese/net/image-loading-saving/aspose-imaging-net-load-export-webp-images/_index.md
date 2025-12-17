@@ -129,7 +129,7 @@ Aspose.Imaging for .NET を使って画像を読み込み、WebP にエクスポ
 ### 次のステップ
 - 品質レベルの調整など、さまざまなエクスポート オプションを試してください。
 - Aspose.Imaging を大規模なプロジェクトやワークフローに統合する方法を検討します。
-- コミュニティに参加して [Asposeフォーラム](https://forum.aspose.com/c/imaging/10) サポートとアイデアをお願いします。
+- コミュニティに参加して [Asposeフォーラム](https://forum.aspose.com/c/imaging/14) サポートとアイデアをお願いします。
 
 ## FAQセクション
 
@@ -154,7 +154,7 @@ Aspose.Imaging はメモリ使用量を効率的に管理しますが、パフ�
 - **購入：** [ライセンスを購入する](https://purchase.aspose.com/buy)
 - **無料トライアル:** [ここから始めましょう](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス:** [リクエスト1](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム:** [Aspose サポート](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム:** [Aspose サポート](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging .NET を使用して自信を持って画像処理の旅に乗り出し、デジタル イメージングの無限の可能性を探求しましょう。
 

@@ -129,7 +129,7 @@ Je beheerst nu het laden van een afbeelding en het exporteren ervan naar WebP me
 ### Volgende stappen
 - Experimenteer met verschillende exportopties, zoals het aanpassen van kwaliteitsniveaus.
 - Ontdek hoe u Aspose.Imaging kunt integreren in grotere projecten of workflows.
-- Betrek de gemeenschap bij de [Aspose Forum](https://forum.aspose.com/c/imaging/10) voor ondersteuning en ideeën.
+- Betrek de gemeenschap bij de [Aspose Forum](https://forum.aspose.com/c/imaging/14) voor ondersteuning en ideeën.
 
 ## FAQ-sectie
 
@@ -154,7 +154,7 @@ Zorg ervoor dat je paden correct zijn en dat het invoerbestand bestaat. Controle
 - **Aankoop:** [Koop een licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Begin hier](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie:** [Vraag er één aan](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum:** [Aspose-ondersteuning](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum:** [Aspose-ondersteuning](https://forum.aspose.com/c/imaging/14)
 
 Begin vol vertrouwen aan uw beeldverwerkingsreis met Aspose.Imaging .NET en ontdek de eindeloze mogelijkheden op het gebied van digitale beeldvorming.
 

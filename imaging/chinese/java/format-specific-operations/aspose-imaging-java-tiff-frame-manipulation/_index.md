@@ -178,7 +178,7 @@ tiffFrame.save("YOUR_OUTPUT_DIRECTORY/" + i + "_out.tiff", new TiffOptions(TiffE
 - **购买**： [购买 Aspose.Imaging 许可证](https://purchase.aspose.com/buy)
 - **免费试用**： [从 Aspose.Imaging 免费试用开始](https://releases.aspose.com/imaging/java/)
 - **临时执照**： [申请临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持**： [加入 Aspose 论坛获取支持](https://forum.aspose.com/c/imaging/10)
+- **支持**： [加入 Aspose 论坛获取支持](https://forum.aspose.com/c/imaging/14)
 
 有了这些资源，您现在就可以自信地处理 TIFF 图像了。祝您编码愉快！
 

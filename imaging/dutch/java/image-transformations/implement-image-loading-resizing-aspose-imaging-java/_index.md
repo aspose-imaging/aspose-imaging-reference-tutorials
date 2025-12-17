@@ -176,7 +176,7 @@ A5: Absoluut. Het is ontworpen om eenvoudig te integreren en te gebruiken naast 
 - **Aankoop**: [Koop een licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Begin hier](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Solliciteer nu](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Gemeenschapsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Gemeenschapsforum](https://forum.aspose.com/c/imaging/14)
 
 Met deze uitgebreide handleiding bent u nu klaar om het laden en vergroten/verkleinen van afbeeldingen in Java onder de knie te krijgen met Aspose.Imaging. Veel plezier met coderen!
 

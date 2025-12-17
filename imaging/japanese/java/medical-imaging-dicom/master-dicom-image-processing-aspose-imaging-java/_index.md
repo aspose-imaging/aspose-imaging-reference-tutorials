@@ -278,7 +278,7 @@ A5: ファイル パスが正しいこと、適切な権限があること、問
 - **購入**： [ライセンスを購入する](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルを受ける](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose コミュニティフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose コミュニティフォーラム](https://forum.aspose.com/c/imaging/14)
 
 この包括的なガイドを読めば、Aspose.Imaging Java を使って DICOM 画像処理タスクをスムーズに実行できるようになります。コーディングを楽しみましょう！
 

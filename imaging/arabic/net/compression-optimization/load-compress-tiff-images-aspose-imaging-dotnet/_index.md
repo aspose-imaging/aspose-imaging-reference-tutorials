@@ -165,7 +165,7 @@ A4: يقلل حجم الملف بشكل كبير مع الحفاظ على جود
 - **شراء ترخيص**: يزور [صفحة شراء Aspose](https://purchase.aspose.com/buy) للحصول على خيارات الترخيص.
 - **نسخة تجريبية مجانية**:اختبر الميزات عن طريق التنزيل من [الإصدارات](https://releases.aspose.com/imaging/net/).
 - **رخصة مؤقتة**: اطلب ترخيصًا مؤقتًا في [ترخيص Aspose](https://purchase.aspose.com/temporary-license/).
-- **الدعم والمجتمع**:انضم إلى المناقشات أو اطلب المساعدة على [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10).
+- **الدعم والمجتمع**:انضم إلى المناقشات أو اطلب المساعدة على [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

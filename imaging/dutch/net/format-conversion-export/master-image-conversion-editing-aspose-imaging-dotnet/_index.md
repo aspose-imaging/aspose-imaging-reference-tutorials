@@ -219,7 +219,7 @@ A5: Ja, Aspose.Imaging biedt de mogelijkheid om metagegevensvelden volledig aan 
 - **Aankoop:** [Koop een licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Probeer Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie:** [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum:** [Aspose-ondersteuning](https://forum.aspose.com/c/imaging/10) 
+- **Ondersteuningsforum:** [Aspose-ondersteuning](https://forum.aspose.com/c/imaging/14) 
 
 Begin vandaag nog met Aspose.Imaging voor .NET en verander de manier waarop u met afbeeldingen werkt!
 

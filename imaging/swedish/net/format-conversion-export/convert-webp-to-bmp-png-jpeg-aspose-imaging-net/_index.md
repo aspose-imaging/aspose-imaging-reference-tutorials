@@ -173,7 +173,7 @@ Redo att prova? Implementera dessa lösningar och se hur de kan förändra ditt 
 - **Köp en licens**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Börja med en gratis värdering](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Ansök om en här](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**: [Delta i diskussionen](https://forum.aspose.com/c/imaging/10)
+- **Supportforum**: [Delta i diskussionen](https://forum.aspose.com/c/imaging/14)
 
 Fördjupa dig i dessa resurser för att utöka din förståelse och dina möjligheter inom bildkonvertering med Aspose.Imaging .NET.
 

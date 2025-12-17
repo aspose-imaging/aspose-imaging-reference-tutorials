@@ -193,7 +193,7 @@ Sind Sie bereit, diese leistungsstarke Lösung zu implementieren? Tauchen Sie no
 - **Kauflizenz:** [Kaufen Sie noch heute eine Volllizenz](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Beginnen Sie mit einer kostenlosen Testversion](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Fordern Sie eine temporäre Lizenz an](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum:** [Holen Sie sich Hilfe von der Community](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum:** [Holen Sie sich Hilfe von der Community](https://forum.aspose.com/c/imaging/14)
 
 Mit dieser Anleitung sind Sie bestens gerüstet, um leistungsstarke Bildverarbeitungsfunktionen mit Aspose.Imaging in Ihre Java-Anwendungen zu integrieren. Viel Spaß beim Programmieren!
 

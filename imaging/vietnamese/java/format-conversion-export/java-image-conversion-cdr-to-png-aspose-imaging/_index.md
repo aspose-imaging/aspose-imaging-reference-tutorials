@@ -243,7 +243,7 @@ Sẵn sàng đưa khả năng chuyển đổi hình ảnh của bạn lên một
 - [Tải xuống Aspose.Imaging cho Java](https://releases.aspose.com/imaging/java/)
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí và Giấy phép tạm thời](https://releases.aspose.com/imaging/java/)
-- [Diễn đàn hỗ trợ cộng đồng](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ cộng đồng](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn sẽ được trang bị đầy đủ để xử lý các tác vụ chuyển đổi hình ảnh một cách dễ dàng bằng Aspose.Imaging cho Java. Chúc bạn viết mã vui vẻ!
 

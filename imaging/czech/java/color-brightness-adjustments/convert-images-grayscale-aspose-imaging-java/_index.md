@@ -188,7 +188,7 @@ Naučili jste se, jak efektivně převádět obrázky do stupňů šedi pomocí 
 - **Stáhnout**Získejte nejnovější verzi z [Aspose.Imaging Releases](https://releases.aspose.com/imaging/java/)
 - **Nákup a zkušební verze**Zjistěte si více o možnostech nákupu a začněte s bezplatnou zkušební verzí [zde](https://purchase.aspose.com/buy)
 - **Dočasná licence**Získejte dočasnou licenci [zde](https://purchase.aspose.com/temporary-license/)
-- **Podpora**Připojte se ke komunitnímu fóru na adrese [Fórum pro zobrazování Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**Připojte se ke komunitnímu fóru na adrese [Fórum pro zobrazování Aspose](https://forum.aspose.com/c/imaging/14)
 
 Doufáme, že vám tento průvodce pomůže efektivně používat Aspose.Imaging pro Javu ve vašich projektech. Přejeme vám příjemné programování!
 

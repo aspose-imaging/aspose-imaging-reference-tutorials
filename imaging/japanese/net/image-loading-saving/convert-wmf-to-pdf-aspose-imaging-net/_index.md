@@ -172,7 +172,7 @@ WMF を PDF に変換すると、次のようなさまざまなシナリオで�
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従うことで、Aspose.Imaging for .NET を使用してWMFファイルをPDFに効率的に変換できるようになります。コーディングを楽しみましょう！
 

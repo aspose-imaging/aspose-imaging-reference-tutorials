@@ -177,7 +177,7 @@ Készen állsz a megvalósításra? Merülj el magabiztosan a képfeldolgozás v
 - **Vásárlás:** https://purchase.aspose.com/buy
 - **Ingyenes próbaverzió:** https://releases.aspose.com/imaging/java/
 - **Ideiglenes engedély:** https://purchase.aspose.com/temporary-license/
-- **Támogatás:** https://forum.aspose.com/c/imaging/10
+- **Támogatás:** https://forum.aspose.com/c/imaging/14
 
 Kezdj el kísérletezni az Aspose.Imaging for Java-val még ma, és tárj fel új lehetőségeket a képfeldolgozásban!
 

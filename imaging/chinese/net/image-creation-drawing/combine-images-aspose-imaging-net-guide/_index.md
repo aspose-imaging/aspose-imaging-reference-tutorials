@@ -190,7 +190,7 @@ Aspose.Imaging 功能强大，优化性能可确保操作更顺畅：
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/net/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10)
+- [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 有了这些资源和技巧，您就可以使用 Aspose.Imaging for .NET 轻松应对任何图像处理挑战。祝您编码愉快！
 

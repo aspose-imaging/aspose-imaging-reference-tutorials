@@ -189,7 +189,7 @@ Klaar om deze kennis in de praktijk te brengen? Probeer deze technieken eens in 
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10) 
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14) 
 
 Begin vandaag nog met het beheren van uw afbeeldingen met kleurprecisie met Aspose.Imaging voor Java!
 

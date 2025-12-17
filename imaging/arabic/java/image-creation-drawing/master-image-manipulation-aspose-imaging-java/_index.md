@@ -199,7 +199,7 @@ try (Image image = Image.load(dataDir + "sampleTiff1.tiff")) {
    - إنه يدعم أكثر من 50 تنسيقًا للصور بما في ذلك JPEG وPNG وTIFF والمزيد.
 
 5. **كيف يمكنني الحصول على المساعدة إذا واجهت مشاكل؟**
-   - يزور [منتدى Aspose](https://forum.aspose.com/c/imaging/10) للحصول على الدعم والمشورة المجتمعية.
+   - يزور [منتدى Aspose](https://forum.aspose.com/c/imaging/14) للحصول على الدعم والمشورة المجتمعية.
 
 ## موارد
 

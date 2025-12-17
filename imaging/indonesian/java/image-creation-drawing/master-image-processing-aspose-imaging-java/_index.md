@@ -162,7 +162,7 @@ A5: Memproses gambar secara berurutan dan mengelola memori secara efisien dengan
 - **Pembelian:** [Beli Sekarang](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Mulai di sini](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Forum Komunitas](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Forum Komunitas](https://forum.aspose.com/c/imaging/14)
 
 Dengan memanfaatkan sumber daya ini, Anda dapat lebih meningkatkan pemahaman dan penerapan Aspose.Imaging untuk Java. Selamat membuat kode!
 

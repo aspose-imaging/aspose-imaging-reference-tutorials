@@ -214,7 +214,7 @@ R: Com certeza. Ele lida com eficiência com vários formatos de imagem, incluin
 - **Comprar**: [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Experimente o Aspose.Imaging gratuitamente](https://releases.aspose.com/imaging/java/)
 - **Licença Temporária**: [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Agora que você está equipado com esse conhecimento, vá em frente e tente implementar esses recursos em seus aplicativos Java!
 

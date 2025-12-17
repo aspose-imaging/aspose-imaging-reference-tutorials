@@ -179,7 +179,7 @@ A3: Puedes empezar con una licencia de prueba gratuita que te permite probar tod
 A4: Utilice el procesamiento por lotes y técnicas de gestión eficiente de recursos, como la eliminación de imágenes después de su uso. Además, considere optimizar la resolución antes de la conversión, si es posible.
 
 **P5: ¿Dónde puedo encontrar ayuda si tengo problemas con Aspose.Imaging?**
-A5: Para cualquier consulta o solución de problemas, visite [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10) donde podrá encontrar asistencia tanto de la comunidad como de representantes oficiales.
+A5: Para cualquier consulta o solución de problemas, visite [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14) donde podrá encontrar asistencia tanto de la comunidad como de representantes oficiales.
 
 ## Recursos
 

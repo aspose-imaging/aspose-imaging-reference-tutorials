@@ -247,7 +247,7 @@ public class SaveAsPNGExample {
 - [購買](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/java/)
 - [臨時執照](https://purchase.aspose.com/temporary-license/)
-- [支援論壇](https://forum.aspose.com/c/imaging/10)
+- [支援論壇](https://forum.aspose.com/c/imaging/14)
 
 透過遵循這份全面的指南，您將能夠使用 Aspose.Imaging 將進階影像處理功能整合到您的 Java 應用程式中。祝您程式愉快！
 

@@ -206,7 +206,7 @@ Dodržováním tohoto návodu jste se naučili, jak kreslit elipsy s tečkovaný
 - **Nákup**https://purchase.aspose.com/buy
 - **Bezplatná zkušební verze**https://releases.aspose.com/imaging/java/
 - **Dočasná licence**https://purchase.aspose.com/temporary-license/
-- **Podpora**https://forum.aspose.com/c/imaging/10
+- **Podpora**https://forum.aspose.com/c/imaging/14
 
 Doufáme, že vám tento tutoriál pomohl. Přejeme vám příjemné programování!
 

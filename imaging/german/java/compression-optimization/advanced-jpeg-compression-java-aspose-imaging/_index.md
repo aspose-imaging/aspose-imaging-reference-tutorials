@@ -211,7 +211,7 @@ A: Nutzen Sie beim Laden benutzerdefinierte Puffergrößen, um die Speichernutzu
 - **Kaufen**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Kostenlose Testversion starten](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Holen Sie sich eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit dieser Anleitung sind Sie bestens gerüstet, um erweiterte Bildkomprimierungstechniken mit Aspose.Imaging für Java zu implementieren. Erfahren Sie mehr und integrieren Sie diese Methoden in Ihre Projekte, um optimale Leistung und Qualität zu erzielen.
 

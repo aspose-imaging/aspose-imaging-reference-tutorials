@@ -176,7 +176,7 @@ license.setLicense("path_to_your_license_file");
 - **شراء:** [شراء خيارات ترخيص Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [ابدأ مجانًا مع Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة:** [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [منتدى Aspose للدعم](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** [منتدى Aspose للدعم](https://forum.aspose.com/c/imaging/14)
 
 من خلال اتباع هذا الدليل، ستكون في طريقك إلى إتقان معالجة الصور باستخدام Aspose.Imaging في Java!
 

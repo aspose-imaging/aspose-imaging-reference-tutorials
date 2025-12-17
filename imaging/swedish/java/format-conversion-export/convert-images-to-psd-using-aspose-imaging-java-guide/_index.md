@@ -258,7 +258,7 @@ A5: Använd try-catch-block för att hantera potentiella undantag som att filen 
 - **Köpa**: [Köp Aspose Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova gratis](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Begär här](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

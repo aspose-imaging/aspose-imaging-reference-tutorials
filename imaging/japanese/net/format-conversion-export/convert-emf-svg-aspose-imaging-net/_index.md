@@ -189,7 +189,7 @@ Aspose.Imaging を使用して EMF を SVG に変換すると効果的なシナ�
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアルアクセス](https://releases.aspose.com/imaging/net/)
 - [臨時免許申請](https://purchase.aspose.com/temporary-license/)
-- [コミュニティサポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [コミュニティサポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従うことで、Aspose.Imaging .NET を使った複雑な画像変換をスムーズに実行できるようになります。コーディングを楽しみましょう！
 

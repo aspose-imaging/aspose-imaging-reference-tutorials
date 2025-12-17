@@ -223,7 +223,7 @@ A5: Memungkinkan Anda membaca atau menulis ke posisi tertentu dalam suatu berkas
 - [Unduh Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis dan Lisensi Sementara](https://releases.aspose.com/imaging/java/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10) 
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14) 
 
 Mulailah perjalanan Anda dengan Aspose.Imaging Java hari ini dan buka potensi pemrosesan gambar berkinerja tinggi dalam proyek Anda!
 

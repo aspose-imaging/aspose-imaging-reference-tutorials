@@ -170,7 +170,7 @@ Klaar om deze technieken te implementeren? Probeer ze eens uit in uw projecten e
 - **Aankoop:** [Koop licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Probeer het nu](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie:** [Hier aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Stel vragen](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Stel vragen](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -153,7 +153,7 @@ C5: Evet, bellek kullanımını etkin bir şekilde yönetmek için çeşitli opt
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging ile görüntü işleme konusunda uzmanlaşarak .NET uygulamalarınızı bir üst seviyeye taşıyın!
 

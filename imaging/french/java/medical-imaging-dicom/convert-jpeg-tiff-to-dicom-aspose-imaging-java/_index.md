@@ -171,7 +171,7 @@ Vous disposez désormais des outils nécessaires pour convertir des images JPEG 
 - **Achat**: [Acheter Aspose Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Essai gratuit](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**: [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce tutoriel, vous serez bien équipé pour gérer les tâches de conversion d'images dans vos projets d'imagerie médicale à l'aide d'Aspose.Imaging pour Java.
 

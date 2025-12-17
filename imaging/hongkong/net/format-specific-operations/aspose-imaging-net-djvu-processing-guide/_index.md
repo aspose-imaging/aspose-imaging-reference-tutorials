@@ -197,7 +197,7 @@ Aspose.Imaging for .NET 可應用於多種實際場景：
 - **購買**： [購買 Aspose.Imaging 許可證](https://purchase.aspose.com/buy)
 - **免費試用**： [免費試用 Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 我們希望本指南能協助您利用 Aspose.Imaging 滿足您在 .NET 中的 DjVu 映像處理需求。祝您編碼愉快！
 

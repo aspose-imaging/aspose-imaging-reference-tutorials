@@ -170,7 +170,7 @@ Aby uzyskać dalsze informacje, rozważ zanurzenie się w bardziej zaawansowanyc
 - **Kup licencję**: [Kup Aspose Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Zacznij od bezpłatnego okresu próbnego](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa**: [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia**: [Wsparcie Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia**: [Wsparcie Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Zrób kolejny krok, wdrażając te optymalizacje w swoich projektach .NET i przekonaj się, jak Aspose.Imaging może usprawnić zadania związane z przetwarzaniem obrazów!
 

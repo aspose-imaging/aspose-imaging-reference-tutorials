@@ -199,7 +199,7 @@ Explore más funciones dentro de Aspose.Imaging, como la manipulación de imáge
    - La biblioteca está disponible bajo una licencia de prueba; es necesario comprar todas las funciones.
 
 5. **¿Dónde puedo obtener ayuda si la necesito?**
-   - Visita [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10) para obtener ayuda.
+   - Visita [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14) para obtener ayuda.
 
 ## Recursos
 

@@ -209,7 +209,7 @@ A: De [Aspose.Imaging-documentatie](https://reference.aspose.com/imaging/java/) 
 - **Aankoop**: [Koop een licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Hier aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Ga op reis met Aspose.Imaging Java en transformeer vandaag nog de manier waarop u afbeeldingen converteert!
 

@@ -186,7 +186,7 @@ A5: Hoewel zeer capabel, vereisen sommige geavanceerde functies mogelijk een com
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer Aspose.Imaging gratis](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Met deze bronnen en deze handleiding bent u goed toegerust om WebP-afbeeldingen in uw Java-projecten te integreren met Aspose.Imaging. Veel plezier met coderen!
 

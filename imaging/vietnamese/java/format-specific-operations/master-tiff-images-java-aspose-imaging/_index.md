@@ -166,7 +166,7 @@ Sẵn sàng triển khai giải pháp này? Hãy tìm hiểu sâu hơn bằng c�
 - [Mua](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn toàn diện này, bạn có thể khai thác toàn bộ tiềm năng của Aspose.Imaging for Java để quản lý hình ảnh TIFF hiệu quả. Chúc bạn viết mã vui vẻ!
 

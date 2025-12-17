@@ -154,7 +154,7 @@ DICOM 이미지 처리 기술을 더욱 발전시킬 준비가 되셨나요? 지
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/net/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 포괄적인 가이드는 Aspose.Imaging for .NET을 사용하여 DICOM 이미지에 임계값 디더링을 적용하는 데 필요한 모든 것을 제공하여 이미지 처리 역량을 향상시킵니다.
 

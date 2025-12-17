@@ -204,7 +204,7 @@ A4: TIFF, JPEG, PNG ve daha fazlası dahil olmak üzere çeşitli formatları de
 
 **S5: Sorunlarla karşılaşırsam nasıl yardım alabilirim?**
 
-A5: Ziyaret edin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10) Topluluk uzmanlarından yardım isteyin.
+A5: Ziyaret edin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14) Topluluk uzmanlarından yardım isteyin.
 
 ## Kaynaklar
 

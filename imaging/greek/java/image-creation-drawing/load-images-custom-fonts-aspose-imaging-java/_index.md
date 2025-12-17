@@ -195,7 +195,7 @@ img.save(outputPath + "/" + fileName + ".png", new PngOptions() {
 - [Αγορά Άδειας Χρήσης Aspose](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή και προσωρινή άδεια χρήσης](https://releases.aspose.com/imaging/java/)
 
-Ελπίζουμε ότι αυτός ο οδηγός ήταν κατατοπιστικός και χρήσιμος. Εάν έχετε περαιτέρω ερωτήσεις, μη διστάσετε να επικοινωνήσετε με τον/την [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)Καλή κωδικοποίηση!
+Ελπίζουμε ότι αυτός ο οδηγός ήταν κατατοπιστικός και χρήσιμος. Εάν έχετε περαιτέρω ερωτήσεις, μη διστάσετε να επικοινωνήσετε με τον/την [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)Καλή κωδικοποίηση!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

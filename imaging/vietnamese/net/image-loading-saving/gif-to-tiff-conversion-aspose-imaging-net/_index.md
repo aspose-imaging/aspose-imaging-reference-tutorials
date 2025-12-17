@@ -177,7 +177,7 @@ A: TIFF cung cấp chất lượng cao hơn và hỗ trợ nhiều độ sâu m�
 - **Mua giấy phép**: [Trang mua hàng Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Hãy thử Aspose.Imaging miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Hỗ trợ và cộng đồng**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Hỗ trợ và cộng đồng**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

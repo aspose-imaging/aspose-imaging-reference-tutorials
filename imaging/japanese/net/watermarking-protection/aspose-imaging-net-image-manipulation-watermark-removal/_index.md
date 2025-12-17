@@ -167,7 +167,7 @@ File.Delete(Path.Combine(dataDir, "ball.png")); // 必要に応じて元のフ�
 - **ライセンスを購入**： [今すぐ購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルを開始](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [リクエストはこちら](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [質問する](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [質問する](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを活用することで、Aspose.Imagingとその機能を習得するための確固たる基盤を築くことができます。コーディングを楽しみましょう！
 

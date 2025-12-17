@@ -154,7 +154,7 @@ In diesem Tutorial haben Sie gelernt, wie Sie einzelne Frames eines GIFs mit Asp
 - [Laden Sie Aspose.Imaging herunter](https://releases.aspose.com/imaging/net/)
 - [Erwerben Sie Aspose-Lizenzoptionen](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion und temporäre Lizenz](https://releases.aspose.com/imaging/net/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

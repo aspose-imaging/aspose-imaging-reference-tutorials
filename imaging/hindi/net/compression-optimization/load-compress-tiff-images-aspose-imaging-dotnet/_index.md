@@ -165,7 +165,7 @@ A5: हाँ, Aspose.Imaging JPEG, PNG, BMP, GIF, और अधिक सहि
 - **लाइसेंस खरीदें**: मिलने जाना [Aspose खरीद पृष्ठ](https://purchase.aspose.com/buy) लाइसेंसिंग विकल्पों के लिए.
 - **मुफ्त परीक्षण**: यहां से डाउनलोड करके सुविधाओं का परीक्षण करें [विज्ञप्ति](https://releases.aspose.com/imaging/net/).
 - **अस्थायी लाइसेंस**: अस्थायी लाइसेंस के लिए अनुरोध करें [Aspose लाइसेंसिंग](https://purchase.aspose.com/temporary-license/).
-- **समर्थन और समुदाय**: चर्चा में शामिल हों या मदद लें [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10).
+- **समर्थन और समुदाय**: चर्चा में शामिल हों या मदद लें [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

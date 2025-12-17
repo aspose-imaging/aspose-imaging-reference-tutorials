@@ -222,7 +222,7 @@ Aspose.Imaging for Java を使用すると、いくつかの実用的なタス�
 - [Aspose.Imaging for Java ドキュメント](https://reference.aspose.com/imaging/java/)
 - [Aspose.Imaging for Java をダウンロード](https://releases.aspose.com/imaging/java/)
 - [ライセンスを購入するか無料トライアルを入手する](https://purchase.aspose.com/buy)
-- [コミュニティフォーラムからサポートを受ける](https://forum.aspose.com/c/imaging/10)
+- [コミュニティフォーラムからサポートを受ける](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースとこのガイドがあれば、Aspose.Imaging for Java を使って自信を持って SVG 画像を変換できるようになります。コーディングを楽しみましょう！
 

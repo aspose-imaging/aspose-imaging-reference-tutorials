@@ -207,7 +207,7 @@ V3: Igen, az Aspose.Imaging részletes vezérlést kínál a tömörítési beá
 V4: Teljesen biztos! A .NET párhuzamos programozási technikáival több fájlt is hatékonyan feldolgozhat.
 
 **5. kérdés: Hogyan oldhatom meg az Aspose.Imaging gyakori problémáit?**
-A5: Ellenőrizze a [támogatási fórum](https://forum.aspose.com/c/imaging/10) gyakori problémák megoldásaiért, és tekintse meg a széleskörű [dokumentáció](https://reference.aspose.com/imaging/net/) útmutatásért.
+A5: Ellenőrizze a [támogatási fórum](https://forum.aspose.com/c/imaging/14) gyakori problémák megoldásaiért, és tekintse meg a széleskörű [dokumentáció](https://reference.aspose.com/imaging/net/) útmutatásért.
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

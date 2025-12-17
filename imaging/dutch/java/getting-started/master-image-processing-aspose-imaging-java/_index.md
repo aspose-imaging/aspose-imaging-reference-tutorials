@@ -209,7 +209,7 @@ Je beheerst nu hoe je JPG-afbeeldingen kunt verkleinen en multi-frame TIFF-besta
 5. **Hoe verbeteren TIFF-frames het beheer van afbeeldingen?**  
    Door meerdere afbeeldingen in één bestand te consolideren, kunt u grotere verzamelingen van gerelateerde afbeeldingen eenvoudiger verwerken en distribueren.
 
-Voor meer informatie, zie Aspose.Imaging's [documentatie](https://reference.aspose.com/imaging/java/) en hun verkennen [downloadpagina](https://releases.aspose.com/imaging/java/) voor de laatste updates. Voor ondersteuningsvragen kunt u terecht op de [Aspose-forum](https://forum.aspose.com/c/imaging/10).
+Voor meer informatie, zie Aspose.Imaging's [documentatie](https://reference.aspose.com/imaging/java/) en hun verkennen [downloadpagina](https://releases.aspose.com/imaging/java/) voor de laatste updates. Voor ondersteuningsvragen kunt u terecht op de [Aspose-forum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

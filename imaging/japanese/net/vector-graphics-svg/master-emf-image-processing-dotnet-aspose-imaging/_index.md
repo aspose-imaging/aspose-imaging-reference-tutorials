@@ -165,7 +165,7 @@ Aspose.Imaging for .NET は、開発者が .NET アプリケーションでさ�
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを自由に活用し、何か問題があればサポートにご連絡ください。楽しいコーディングを！
 

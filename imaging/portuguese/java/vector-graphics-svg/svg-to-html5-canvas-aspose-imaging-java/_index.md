@@ -169,7 +169,7 @@ Seguindo este guia, você aprendeu a converter arquivos SVG em elementos de tela
 - [Licença de compra](https://purchase.aspose.com/buy)
 - [Teste grátis](https://releases.aspose.com/imaging/java/)
 - [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte](https://forum.aspose.com/c/imaging/14)
 
 Com este guia completo, você estará bem equipado para aproveitar o poder do Aspose.Imaging para Java na transformação de SVGs em elementos de tela HTML5. Boa programação!
 

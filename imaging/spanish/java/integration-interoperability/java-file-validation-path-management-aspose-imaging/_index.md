@@ -221,7 +221,7 @@ A5: Agregue la dependencia Aspose.Imaging a su proyecto usando Maven o Gradle y 
 - **Compra**:Adquirir una licencia a través de [Página de compra de Aspose](https://purchase.aspose.com/buy)
 - **Prueba gratuita**:Empieza a experimentar con [Prueba gratuita de Aspose](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal**:Obtenga acceso extendido a través de [Página de licencia temporal de Aspose](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**:Interactúe con la comunidad y el equipo de apoyo en [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**:Interactúe con la comunidad y el equipo de apoyo en [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo esta guía, estarás bien preparado para implementar la validación de archivos y la gestión de rutas en tus aplicaciones Java con Aspose.Imaging. ¡Que disfrutes programando!
 

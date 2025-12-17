@@ -167,7 +167,7 @@ Siap untuk menerapkannya? Mulailah mengonversi gambar Anda hari ini!
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Permintaan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Dengan panduan lengkap ini, Anda siap untuk mulai menggunakan Aspose.Imaging for .NET dalam proyek Anda. Selamat membuat kode!
 

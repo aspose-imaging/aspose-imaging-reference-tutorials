@@ -202,7 +202,7 @@ Aspose.Imaging разработан для эффективного управл
 - **Покупка:** [Купить Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия:** [Получите бесплатную пробную версию](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия:** [Запросить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать:** [Форум Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать:** [Форум Aspose](https://forum.aspose.com/c/imaging/14)
 
 Следуя этому руководству, вы приобрели навыки эффективного управления изображениями APNG в ваших приложениях .NET с помощью Aspose.Imaging. Удачного кодирования!
 

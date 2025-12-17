@@ -212,7 +212,7 @@ if (image != null) {
 - **खरीदना**: [अभी खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [शुरू हो जाओ](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस**: [यहां अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच**: [Aspose.Imaging समुदाय](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच**: [Aspose.Imaging समुदाय](https://forum.aspose.com/c/imaging/14)
 
 हमें उम्मीद है कि यह गाइड आपको परिष्कृत छवि प्रसंस्करण क्षमताओं के साथ अपनी परियोजनाओं को बढ़ाने में सक्षम बनाएगी। हैप्पी कोडिंग!
 

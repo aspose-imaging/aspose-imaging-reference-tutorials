@@ -136,7 +136,7 @@ Raadpleeg de officiële documentatie en downloadlinks in het gedeelte Bronnen vo
 - **Aankooplicentie**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Aspose.Imaging-ondersteuning](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Aspose.Imaging-ondersteuning](https://forum.aspose.com/c/imaging/14)
 We hopen dat deze handleiding nuttig is geweest voor het beheersen van beeldverwerking met Aspose.Imaging voor .NET. Veel plezier met coderen!
 
 {{< /blocks/products/pf/tutorial-page-section >}}

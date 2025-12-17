@@ -221,7 +221,7 @@ Nyní jste se naučili, jak převádět obrázky WMF do formátu WebP pomocí kn
 - [Zakoupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - [Získání dočasné licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Tento tutoriál si klade za cíl poskytnout jasného a praktického průvodce konverzí obrázků pomocí Aspose.Imaging pro Javu a poskytnout vám znalosti potřebné k efektivnímu vylepšování vašich webových aplikací.
 

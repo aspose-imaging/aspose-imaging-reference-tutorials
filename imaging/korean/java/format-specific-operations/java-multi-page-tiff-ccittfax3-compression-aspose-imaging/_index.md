@@ -245,7 +245,7 @@ CCITTFAX3 압축을 사용하여 다중 페이지 TIFF 파일을 만드는 것�
 - **구입**: https://purchase.aspose.com/buy
 - **무료 체험**: https://releases.aspose.com/imaging/java/
 - **임시 면허**: https://purchase.aspose.com/temporary-license/
-- **지원하다**: https://forum.aspose.com/c/imaging/10
+- **지원하다**: https://forum.aspose.com/c/imaging/14
 
 이제 지식을 갖추었으니, Java 프로젝트에서 이러한 기술을 구현하고 탐색해보세요!
 

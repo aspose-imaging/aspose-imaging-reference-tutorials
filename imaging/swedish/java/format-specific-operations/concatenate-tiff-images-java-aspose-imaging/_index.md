@@ -181,7 +181,7 @@ Vi uppmuntrar dig att prova att implementera den här lösningen i dina projekt!
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Den här handledningen har utrustat dig med kunskapen för att hantera komplexa TIFF-bildkonkateneringsuppgifter med Aspose.Imaging för Java. Lycka till med kodningen!
 

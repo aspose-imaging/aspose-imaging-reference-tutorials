@@ -188,7 +188,7 @@ image.save(outputDir, outputSettings);
 - **ซื้อ:** [ซื้อเลย](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี:** [เริ่มต้นที่นี่](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว:** [ขอคำร้องได้ที่นี่](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน:** หากต้องการความช่วยเหลือเพิ่มเติม โปรดไปที่ [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน:** หากต้องการความช่วยเหลือเพิ่มเติม โปรดไปที่ [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -167,7 +167,7 @@ A5: 効果的ではありますが、局所的なコントラストの変化が�
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルを始める](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート**ご質問がありましたら、 [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**ご質問がありましたら、 [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET で医療画像処理の新たな可能性を解き放ちましょう。
 

@@ -167,7 +167,7 @@ A5: แม้ว่าจะได้ผล แต่ก็เหมาะที
 - **ซื้อ**- [ซื้อ Aspose.Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [เริ่มต้นด้วยการทดลองใช้ฟรี](https://releases.aspose.com/imaging/net/)
 - **ใบอนุญาตชั่วคราว**- [ขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน**: หากมีคำถามใด ๆ โปรดไปที่ [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน**: หากมีคำถามใด ๆ โปรดไปที่ [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14)
 
 ร่วมออกเดินทางไปกับ Aspose.Imaging สำหรับ .NET และปลดล็อกความสามารถใหม่ในด้านการถ่ายภาพทางการแพทย์!
 

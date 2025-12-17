@@ -175,7 +175,7 @@ A: Sprawdź ustawienia rasteryzacji i wygładzania w `PdfOptions` Konfiguracja. 
 - **Zakup**: [Kup licencje Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Rozpocznij bezpłatny okres próbny Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa**: [Uzyskaj tymczasową licencję na Aspose.Imaging](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Forum obrazowania Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Wsparcie**: [Forum obrazowania Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Postępując zgodnie z tym przewodnikiem, będziesz w pełni przygotowany do łatwej konwersji plików CMX do PDF.
 

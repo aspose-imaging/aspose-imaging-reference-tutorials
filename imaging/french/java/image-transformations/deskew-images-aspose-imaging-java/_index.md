@@ -182,7 +182,7 @@ R : Après avoir acheté ou obtenu une licence temporaire, configurez votre app
 - **Achat:** [Acheter une licence Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Commencez un essai gratuit](https://releases.aspose.com/imaging/java/)
 - **Licence temporaire :** [Demande de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Nous espérons que ce guide vous aidera à implémenter efficacement les fonctionnalités de redressement dans vos applications Java avec Aspose.Imaging. Bon codage !
 

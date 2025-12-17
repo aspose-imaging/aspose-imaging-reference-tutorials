@@ -199,7 +199,7 @@ Versuchen Sie noch heute, diese Lösung in einem Projekt zu implementieren und s
    - Die Bibliothek ist unter einer Testlizenz verfügbar; der volle Funktionsumfang ist kostenpflichtig.
 
 5. **Wo bekomme ich bei Bedarf Unterstützung?**
-   - Besuchen [Asposes Support-Forum](https://forum.aspose.com/c/imaging/10) um Hilfe.
+   - Besuchen [Asposes Support-Forum](https://forum.aspose.com/c/imaging/14) um Hilfe.
 
 ## Ressourcen
 

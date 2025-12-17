@@ -199,7 +199,7 @@ Gratulujeme! Naučili jste se, jak načítat, manipulovat a ukládat obrázky po
    - Podporuje více než 50 obrazových formátů včetně JPEG, PNG, TIFF a dalších.
 
 5. **Jak mohu získat pomoc, pokud narazím na problémy?**
-   - Návštěva [Asposeovo fórum](https://forum.aspose.com/c/imaging/10) za podporu a rady od komunity.
+   - Návštěva [Asposeovo fórum](https://forum.aspose.com/c/imaging/14) za podporu a rady od komunity.
 
 ## Zdroje
 

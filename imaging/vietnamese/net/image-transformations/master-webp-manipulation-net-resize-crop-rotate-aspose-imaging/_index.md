@@ -216,7 +216,7 @@ Triển khai các giải pháp này vào dự án của bạn ngay hôm nay!
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Aspose.Imaging dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy tự tin bắt đầu hành trình chỉnh sửa hình ảnh của bạn bằng cách sử dụng Aspose.Imaging cho .NET!
 

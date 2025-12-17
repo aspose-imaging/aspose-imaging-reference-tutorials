@@ -168,7 +168,7 @@ Jelajahi lebih banyak fitur Aspose.Imaging atau integrasikan kemampuan ini ke da
 - [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara untuk Evaluasi](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Tutorial ini telah membekali Anda dengan berbagai alat untuk memanipulasi gambar TIFF secara efisien menggunakan Aspose.Imaging .NET. Mulailah menerapkan teknik-teknik ini dalam proyek Anda dan jelajahi lebih jauh berbagai kemungkinan yang ditawarkan oleh pustaka hebat ini!
 

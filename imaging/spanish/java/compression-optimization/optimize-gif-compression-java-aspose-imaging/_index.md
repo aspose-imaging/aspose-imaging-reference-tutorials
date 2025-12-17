@@ -178,7 +178,7 @@ A3: Visita el [página de licencia temporal](https://purchase.aspose.com/tempora
 A4: Los desafíos comunes incluyen encontrar el equilibrio adecuado entre el tamaño y la calidad del archivo, así como administrar el uso de memoria para imágenes grandes.
 
 **P5: ¿Existe una comunidad o un foro de soporte para los usuarios de Aspose.Imaging?**  
-A5: Sí, puedes visitarnos. [Foro de imágenes de Aspose](https://forum.aspose.com/c/imaging/10) para buscar ayuda de otros usuarios y del equipo de Aspose.
+A5: Sí, puedes visitarnos. [Foro de imágenes de Aspose](https://forum.aspose.com/c/imaging/14) para buscar ayuda de otros usuarios y del equipo de Aspose.
 
 ## Recursos
 
@@ -187,7 +187,7 @@ A5: Sí, puedes visitarnos. [Foro de imágenes de Aspose](https://forum.aspose.c
 - **Compra:** Considere comprar una licencia para tener acceso completo en [Página de compra de Aspose](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** Comience con una evaluación a través de [Prueba gratuita de Aspose](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** Solicite una licencia temporal aquí: [Licencia temporal de Aspose](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** Únase a la discusión en [Foro de soporte de imágenes de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** Únase a la discusión en [Foro de soporte de imágenes de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo esta guía, podrá administrar y optimizar eficazmente sus archivos GIF con Aspose.Imaging para Java, garantizando imágenes de alta calidad con tamaños de archivo reducidos. ¡Que disfrute programando!
 

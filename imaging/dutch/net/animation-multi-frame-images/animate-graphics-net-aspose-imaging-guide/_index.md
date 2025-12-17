@@ -191,7 +191,7 @@ Je hebt geleerd hoe je geanimeerde afbeeldingen maakt met Aspose.Imaging voor .N
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u nu in staat om dynamische geanimeerde graphics te maken in uw .NET-applicaties met Aspose.Imaging. Ontdek en innoveer door deze technieken in uw projecten te integreren!
 

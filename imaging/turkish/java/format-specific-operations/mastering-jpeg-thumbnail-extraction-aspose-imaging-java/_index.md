@@ -193,7 +193,7 @@ Uygulamaya başlamaya hazır mısınız? Şuraya gidin: [Aspose.Görüntüleme b
    - Değerlendirme için geçici lisans alabilir veya üretim amaçlı tam lisans satın alabilirsiniz.
 
 5. **Sorun yaşarsam nereden destek alabilirim?**  
-   - Ziyaret edin [Aspose forumu](https://forum.aspose.com/c/imaging/10) Topluluk ve resmi destek için.
+   - Ziyaret edin [Aspose forumu](https://forum.aspose.com/c/imaging/14) Topluluk ve resmi destek için.
 
 ## Kaynaklar
 
@@ -202,7 +202,7 @@ Uygulamaya başlamaya hazır mısınız? Şuraya gidin: [Aspose.Görüntüleme b
 - Satın almak: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - Ücretsiz Deneme: [Ücretsiz Denemeler Mevcuttur](https://releases.aspose.com/imaging/java/)
 - Geçici Lisans: [Geçici Lisans Başvurusunda Bulunun](https://purchase.aspose.com/temporary-license/)
-- Destek: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- Destek: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bu kaynaklarla, Java projelerinizde Aspose.Imaging'i en iyi şekilde kullanmak için donanımlısınız. İyi kodlamalar!
 

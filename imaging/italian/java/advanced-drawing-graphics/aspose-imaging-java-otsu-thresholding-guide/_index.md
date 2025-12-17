@@ -187,7 +187,7 @@ Questo frammento salva l'immagine binarizzata in formato JPEG, garantendone l'ar
 
 Ora hai acquisito le basi dell'utilizzo di Aspose.Imaging per Java per caricare, elaborare e salvare immagini con tecniche di binarizzazione. Sperimenta ulteriormente esplorando altre funzionalità offerte dalla libreria, come il filtraggio avanzato o la conversione di formato.
 
-I prossimi passi includono l'integrazione di questa funzionalità nei tuoi progetti e la sperimentazione di diversi tipi di immagini e scenari di elaborazione. Non esitare a contattarci tramite [Forum di supporto di Aspose](https://forum.aspose.com/c/imaging/10) per qualsiasi domanda tu possa avere!
+I prossimi passi includono l'integrazione di questa funzionalità nei tuoi progetti e la sperimentazione di diversi tipi di immagini e scenari di elaborazione. Non esitare a contattarci tramite [Forum di supporto di Aspose](https://forum.aspose.com/c/imaging/14) per qualsiasi domanda tu possa avere!
 
 ## Sezione FAQ
 

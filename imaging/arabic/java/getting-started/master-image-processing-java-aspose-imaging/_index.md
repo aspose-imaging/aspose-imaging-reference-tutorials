@@ -170,7 +170,7 @@ image.save("YOUR_OUTPUT_DIRECTORY/SampleTiff1.out.tiff");
 - **رخصة الشراء:** [اشتري الآن](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [ابدأ تجربتك](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة:** [احصل عليه هنا](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم:** [اطرح الأسئلة](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم:** [اطرح الأسئلة](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا الدليل، ستكون جاهزًا تمامًا للتعامل مع مهام معالجة الصور بسهولة باستخدام Aspose.Imaging لـ Java. برمجة ممتعة!
 

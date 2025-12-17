@@ -203,7 +203,7 @@ Trong hướng dẫn này, bạn đã học cách chuyển đổi tệp WMF sang
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách thành thạo các bước này, bạn sẽ được trang bị tốt để xử lý việc chuyển đổi WMF sang PDF một cách dễ dàng. Chúc bạn viết mã vui vẻ!
 

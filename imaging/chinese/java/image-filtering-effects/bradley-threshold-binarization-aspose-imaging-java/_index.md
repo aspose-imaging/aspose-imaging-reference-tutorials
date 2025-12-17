@@ -198,7 +198,7 @@ A5：考虑优化 Java 环境的内存管理并探索批处理选项。
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/java/)
 - [临时许可证申请](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 探索这些资源，加深您的理解，并使用 Aspose.Imaging for Java 增强您的图像处理项目。祝您编码愉快！
 

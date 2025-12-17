@@ -183,7 +183,7 @@ Aspose.Imaging의 로드 및 저장 기능을 사용하는 실제 사용 사례�
 - **구입**: 장기적으로 액세스해야 하는 경우 라이선스 구매를 고려하세요.
 - **무료 체험**: 무료 체험판을 통해 기능을 탐색해보세요. [Aspose 무료 체험판](https://releases.aspose.com/imaging/java/).
 - **임시 면허**: 확장 평가를 위한 임시 라이센스를 얻으십시오. [Aspose 임시 면허](https://purchase.aspose.com/temporary-license/).
-- **지원하다**: 토론에 참여하고 도움을 받으세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10).
+- **지원하다**: 토론에 참여하고 도움을 받으세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/14).
 
 즐거운 코딩 되세요! 여러분의 이미지 처리 작업이 원활하고 효율적이기를 바랍니다!
 

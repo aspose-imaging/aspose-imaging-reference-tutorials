@@ -207,7 +207,7 @@ A4: Grayscale images contain only shades of gray, reducing file size and focusin
 
 **Q5: How can I get support if I encounter issues with Aspose.Imaging?**
 
-A5: Visit the [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) for assistance from community experts and official support staff.
+A5: Visit the [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) for assistance from community experts and official support staff.
 
 ## Resources
 

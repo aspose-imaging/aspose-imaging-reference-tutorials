@@ -184,7 +184,7 @@ Gör något idag genom att testa dessa tekniker på dina egna bildprojekt!
 - **Köpa**: [Köp en licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Testfunktioner](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Begär här](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Gå med i forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Gå med i forumet](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa dessa riktlinjer kommer du att vara väl rustad för att förbättra dina bilder med hjälp av Aspose.Imaging Javas histogramnormaliseringsfunktioner. Lycka till med kodningen!
 

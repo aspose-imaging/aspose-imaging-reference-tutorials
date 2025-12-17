@@ -175,7 +175,7 @@ A: Aspose.Imaging supports numerous formats, including JPEG, PNG, GIF, BMP, and 
 A: Yes, you can set custom frame times using `ApngOptions`.
 
 **Q: How do I troubleshoot issues with Aspose.Imaging?**
-A: Refer to the support forum [here](https://forum.aspose.com/c/imaging/10) for assistance.
+A: Refer to the support forum [here](https://forum.aspose.com/c/imaging/14) for assistance.
 
 ## Resources
 - **Documentation**: [Aspose.Imaging .NET Reference](https://reference.aspose.com/imaging/net/)
@@ -183,7 +183,7 @@ A: Refer to the support forum [here](https://forum.aspose.com/c/imaging/10) for 
 - **Purchase**: [Buy a License](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start Free](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Apply Here](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

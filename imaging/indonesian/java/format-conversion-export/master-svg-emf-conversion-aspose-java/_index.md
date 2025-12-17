@@ -204,7 +204,7 @@ A5: Gunakan fitur pemrosesan batch dan pastikan JVM Anda memiliki alokasi memori
 - [Unduh Aspose.Imaging untuk Java](https://releases.aspose.com/imaging/java/)
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis dan Lisensi Sementara](https://releases.aspose.com/imaging/java/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Pelajari sumber daya ini untuk memperluas pengetahuan dan kemampuan Anda dengan Aspose.Imaging untuk Java. Selamat membuat kode!
 

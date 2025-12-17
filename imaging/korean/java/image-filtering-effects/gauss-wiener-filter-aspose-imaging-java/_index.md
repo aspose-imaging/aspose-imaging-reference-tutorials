@@ -184,7 +184,7 @@ A: 구독을 구매하세요 [Aspose 구매 페이지](https://purchase.aspose.c
 - **라이브러리 다운로드:** 최신 버전을 받으세요 [Aspose.Imaging 릴리스](https://releases.aspose.com/imaging/java/).
 - **라이센스 구매:** 방문하다 [Aspose 구매](https://purchase.aspose.com/buy) 라이센스 옵션에 대해서는.
 - **무료 체험판 및 임시 라이센스:** 무료 체험판으로 시작하거나 임시 라이센스를 받으세요. [Aspose 무료 평가판 및 라이선싱](https://releases.aspose.com/imaging/java/).
-- **지원 포럼:** 커뮤니티와 소통하세요 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10).
+- **지원 포럼:** 커뮤니티와 소통하세요 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

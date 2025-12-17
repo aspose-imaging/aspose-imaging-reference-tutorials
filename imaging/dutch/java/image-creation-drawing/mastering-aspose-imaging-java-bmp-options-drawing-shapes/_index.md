@@ -214,7 +214,7 @@ A: Absoluut. Het verwerkt efficiënt verschillende afbeeldingsformaten, waaronde
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer Aspose.Imaging gratis](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Nu u over deze kennis beschikt, kunt u deze functies gaan implementeren in uw Java-toepassingen!
 

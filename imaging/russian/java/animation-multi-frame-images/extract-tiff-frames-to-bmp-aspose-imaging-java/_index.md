@@ -174,7 +174,7 @@ frameCounter++;
 - [Лицензии на покупку](https://purchase.aspose.com/buy)
 - [Бесплатная пробная версия](https://releases.aspose.com/imaging/java/)
 - [Временная лицензия](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки](https://forum.aspose.com/c/imaging/14)
 
 Начните свой путь к освоению обработки изображений с помощью Aspose.Imaging Java и откройте для себя новые возможности в работе с изображениями TIFF.
 

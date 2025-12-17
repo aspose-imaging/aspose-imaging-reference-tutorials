@@ -166,7 +166,7 @@ Jako další krok zvažte experimentování s dalšími formáty podporovanými 
 - **Nákup**Kupte si licenci prostřednictvím [Nákupní portál Aspose](https://purchase.aspose.com/buy).
 - **Bezplatná zkušební verze**Začněte s bezplatnou zkušební verzí prostřednictvím [Stažení](https://releases.aspose.com/imaging/net/).
 - **Dočasná licence**Požádejte o jeden [zde](https://purchase.aspose.com/temporary-license/).
-- **Podpora**Připojte se ke komunitě v [Fóra Aspose](https://forum.aspose.com/c/imaging/10) pro pomoc a diskuzi.
+- **Podpora**Připojte se ke komunitě v [Fóra Aspose](https://forum.aspose.com/c/imaging/14) pro pomoc a diskuzi.
 
 Doufáme, že vám tento průvodce pomůže integrovat funkce exportu vektorových obrázků do vašich projektů. Přejeme vám příjemné programování!
 

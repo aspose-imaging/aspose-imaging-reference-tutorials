@@ -217,7 +217,7 @@ Aspose.Imaging for .NET을 활용하여 이미지를 효율적으로 로드 및 
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging 무료 체험하기](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따라 하면 이제 Aspose.Imaging을 사용하여 .NET 애플리케이션에서 고급 이미지 처리 기능을 구현할 수 있습니다. 더 자세히 살펴보고 프로젝트를 개선해 보세요!
 

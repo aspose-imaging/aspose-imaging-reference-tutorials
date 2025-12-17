@@ -160,7 +160,7 @@ Optimice el uso de la memoria procesando imágenes en fragmentos más pequeños 
 Aspose.Imaging se centra principalmente en DICOM, pero también admite una amplia gama de otros formatos de imagen.
 
 **5. ¿Dónde puedo obtener ayuda si tengo problemas con Aspose.Imaging?**
-Visita el [Foros de Aspose](https://forum.aspose.com/c/imaging/10) para recibir apoyo y conectarse con otros usuarios y expertos.
+Visita el [Foros de Aspose](https://forum.aspose.com/c/imaging/14) para recibir apoyo y conectarse con otros usuarios y expertos.
 
 ## Recursos
 

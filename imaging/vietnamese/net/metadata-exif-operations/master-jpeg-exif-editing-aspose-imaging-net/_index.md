@@ -155,7 +155,7 @@ Trong hướng dẫn này, bạn đã học cách sửa đổi dữ liệu JPEG 
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Tải xuống dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Yêu cầu cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình làm chủ việc chỉnh sửa JPEG EXIF với Aspose.Imaging ngay hôm nay!
 

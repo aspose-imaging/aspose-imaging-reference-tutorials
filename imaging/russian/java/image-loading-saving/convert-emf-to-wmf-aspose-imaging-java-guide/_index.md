@@ -162,7 +162,7 @@ A: Обеспечьте эффективное управление память
 - **Лицензия на покупку:** [Купить Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия:** [Бесплатная пробная версия Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия:** [Запросить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Форум поддержки:** [Поддержка визуализации Aspose](https://forum.aspose.com/c/imaging/10)
+- **Форум поддержки:** [Поддержка визуализации Aspose](https://forum.aspose.com/c/imaging/14)
 
 Следуя этому всеобъемлющему руководству, вы теперь готовы конвертировать файлы EMF в WMF с помощью Aspose.Imaging для Java. Удачного кодирования!
 

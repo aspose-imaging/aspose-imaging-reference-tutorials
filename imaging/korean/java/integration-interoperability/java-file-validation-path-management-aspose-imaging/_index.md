@@ -221,7 +221,7 @@ A5: Maven이나 Gradle을 사용하여 프로젝트에 Aspose.Imaging 종속성�
 - **구입**: 라이센스를 취득하다 [Aspose 구매 페이지](https://purchase.aspose.com/buy)
 - **무료 체험**: 실험을 시작하세요 [Aspose 무료 체험판](https://releases.aspose.com/imaging/java/)
 - **임시 면허**다음을 통해 확장된 액세스 권한을 얻습니다. [Aspose의 임시 라이센스 페이지](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: 커뮤니티 및 지원 팀과 소통하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: 커뮤니티 및 지원 팀과 소통하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따라 하면 Aspose.Imaging을 사용하여 Java 애플리케이션에서 파일 유효성 검사 및 경로 관리를 구현하는 데 필요한 모든 기능을 갖추게 됩니다. 즐거운 코딩 되세요!
 

@@ -161,7 +161,7 @@ Pro další informace a pomoc:
 - **Nákup**: [Získejte licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte Aspose.Imaging zdarma](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Žádost zde](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Komunita podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Komunita podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto komplexního průvodce budete dobře vybaveni k řešení úloh zpracování obrazu ve vašich .NET aplikacích s jistotou a efektivitou. Přejeme vám hodně štěstí při programování!
 

@@ -214,7 +214,7 @@ tiffImage.save("YOUR_OUTPUT_DIRECTORY/output.tiff");
 - [Варианты приобретения лицензий](https://purchase.aspose.com/buy)
 - [Начните с бесплатной пробной версии](https://releases.aspose.com/imaging/java/)
 - [Информация о временной лицензии](https://purchase.aspose.com/temporary-license/)
-- [Поддержка сообщества и форумы](https://forum.aspose.com/c/imaging/10)
+- [Поддержка сообщества и форумы](https://forum.aspose.com/c/imaging/14)
 
 Используя эти ресурсы, вы сможете углубить свое понимание Aspose.Imaging для Java и эффективно применять его в своих проектах. Удачного кодирования!
 

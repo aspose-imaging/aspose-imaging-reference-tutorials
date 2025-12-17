@@ -258,7 +258,7 @@ A5: Aspose.Imaging의 옵션을 활용하여 작업 중 메모리 사용량을 �
 - **라이센스 구매:** [라이센스 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [무료 체험판을 받으세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [임시 면허 취득](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼:** [Aspose.Imaging 지원](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼:** [Aspose.Imaging 지원](https://forum.aspose.com/c/imaging/14)
 
 이 튜토리얼이 Aspose.Imaging for Java를 사용하여 이미지 처리 작업을 향상시키는 데 도움이 되었기를 바랍니다. 즐거운 코딩 되세요!
 

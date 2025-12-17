@@ -142,7 +142,7 @@ Aspose.Imaging のスキルをさらに向上させるには、追加の機能�
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET で画像変換をマスターし、この強力なライブラリがもたらす可能性を探求しましょう。コーディングを楽しみましょう！
 

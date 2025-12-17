@@ -153,7 +153,7 @@ A: Ya, aplikasi ini dirancang untuk bekerja di berbagai versi .NET Framework dan
 - **Beli Lisensi**: [Halaman Pembelian Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan**: [Komunitas Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan**: [Komunitas Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan menguasai proses konversi dengan Aspose.Imaging, Anda siap menangani tugas pemrosesan gambar yang rumit secara efisien dalam aplikasi .NET Anda. Selamat membuat kode!
 

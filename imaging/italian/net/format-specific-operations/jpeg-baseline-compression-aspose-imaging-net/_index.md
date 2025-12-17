@@ -147,7 +147,7 @@ Pronti a portare le vostre competenze di elaborazione delle immagini a un livell
 - [Acquista licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/net/)
 - [Richiesta di licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 Questa guida completa ti guiderà sulla strada giusta per padroneggiare la compressione base JPEG con Aspose.Imaging per .NET. Buon lavoro!
 

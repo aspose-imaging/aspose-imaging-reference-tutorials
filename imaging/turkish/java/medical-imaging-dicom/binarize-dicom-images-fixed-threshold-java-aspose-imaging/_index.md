@@ -164,7 +164,7 @@ Denemeye hazır mısınız? Bu çözümü bugün projenize uygulayın!
    - Java'nın çöp toplama özelliğini etkin bir şekilde kullanarak bellek yönetimi için ortamınızı ve kodunuzu optimize edin.
 
 5. **Sorunla karşılaşırsam destek alabileceğim bir yer var mı?**
-   - Yardım isteyebilirsiniz [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10).
+   - Yardım isteyebilirsiniz [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14).
 
 ## Kaynaklar
 

@@ -209,7 +209,7 @@ A: Проверьте входные пути и убедитесь, что вс
 - **Покупка**: [Купить лицензию](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Попробуйте Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия**: [Запросить здесь](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: [Форум Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: [Форум Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Отправьтесь в путешествие с Aspose.Imaging Java и измените свой подход к преобразованию изображений уже сегодня!
 

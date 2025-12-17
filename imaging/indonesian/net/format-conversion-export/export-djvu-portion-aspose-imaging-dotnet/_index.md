@@ -138,7 +138,7 @@ A: Mulailah dengan uji coba gratis atau minta lisensi sementara. Beli lisensi pe
 - **Beli Lisensi:** [Beli Sekarang](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Memulai](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara:** [Minta di sini](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan:** [Komunitas Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan:** [Komunitas Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -195,7 +195,7 @@ Langkah selanjutnya dapat mencakup penjelajahan fitur Aspose.Imaging yang lebih 
 - **Beli Lisensi:** Pelajari tentang opsi pembelian di [Aspose Pembelian](https://purchase.aspose.com/buy).
 - **Uji Coba Gratis:** Mulailah dengan uji coba untuk menguji fitur-fitur.
 - **Lisensi Sementara:** Dapatkan akses sementara untuk pengujian lanjutan.
-- **Forum Dukungan:** Dapatkan bantuan dan bagikan wawasan tentang [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10).
+- **Forum Dukungan:** Dapatkan bantuan dan bagikan wawasan tentang [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14).
 
 Dengan mengikuti tutorial ini, Anda telah membekali diri dengan keterampilan berharga dalam pemrosesan gambar menggunakan Aspose.Imaging untuk Java. Selamat membuat kode!
 

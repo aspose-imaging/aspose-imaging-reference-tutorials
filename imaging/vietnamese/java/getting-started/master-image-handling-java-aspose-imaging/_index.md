@@ -178,7 +178,7 @@ A5: Mặc dù Aspose.Imaging không áp đặt bất kỳ giới hạn cứng n�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Phiên bản dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Yêu cầu cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, giờ đây bạn đã sẵn sàng triển khai xử lý hình ảnh hiệu quả trong các ứng dụng Java của mình bằng Aspose.Imaging. Chúc bạn viết mã vui vẻ!
 

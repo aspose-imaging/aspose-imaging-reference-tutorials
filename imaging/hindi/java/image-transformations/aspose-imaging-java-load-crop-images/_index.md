@@ -148,7 +148,7 @@ image.crop(new Rectangle(92, 179, 260, 197));
    - एक जावा डेवलपमेंट किट (JDK) और एक संगत IDE.
 
 5. **क्या समस्या निवारण के लिए सहायता उपलब्ध है?**
-   - मिलने जाना [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10) सहायता के लिए.
+   - मिलने जाना [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14) सहायता के लिए.
 
 ## संसाधन
 

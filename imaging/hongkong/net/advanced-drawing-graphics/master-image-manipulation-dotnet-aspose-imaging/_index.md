@@ -149,7 +149,7 @@ Aspose.Imaging 提供了多種實用應用程序，例如：
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/net/)
 - [臨時執照](https://purchase.aspose.com/temporary-license/)
-- [支援論壇](https://forum.aspose.com/c/imaging/10)
+- [支援論壇](https://forum.aspose.com/c/imaging/14)
 
 祝您使用 Aspose.Imaging for .NET 程式設計愉快！ 🚀
 

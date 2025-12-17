@@ -214,7 +214,7 @@ tiffImage.save("YOUR_OUTPUT_DIRECTORY/output.tiff");
 - [購買許可選項](https://purchase.aspose.com/buy)
 - [從免費試用開始](https://releases.aspose.com/imaging/java/)
 - [臨時許可證資訊](https://purchase.aspose.com/temporary-license/)
-- [社群支援和論壇](https://forum.aspose.com/c/imaging/10)
+- [社群支援和論壇](https://forum.aspose.com/c/imaging/14)
 
 透過利用這些資源，您可以加深對 Aspose.Imaging for Java 的理解，並將其有效地應用於您的專案中。祝您編碼愉快！
 

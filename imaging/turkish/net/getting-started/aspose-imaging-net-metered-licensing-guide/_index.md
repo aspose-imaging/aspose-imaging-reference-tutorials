@@ -147,7 +147,7 @@ Bu kılavuzda, Aspose.Imaging for .NET ile ölçülü lisanslamanın nasıl uygu
 - Ölçülü lisanslamayı daha karmaşık iş akışlarına entegre ederek daha fazla deney yapın.
 - Uygulamanızın yeteneklerini artırabilecek Aspose.Imaging'in sunduğu ek özellikleri keşfedin.
 
-Bu uygulamayı projelerinizde denemenizi öneririz. Sorularınız varsa veya desteğe ihtiyacınız varsa, şu adresten bize ulaşmaktan çekinmeyin: [Aspose topluluk forumu](https://forum.aspose.com/c/imaging/10).
+Bu uygulamayı projelerinizde denemenizi öneririz. Sorularınız varsa veya desteğe ihtiyacınız varsa, şu adresten bize ulaşmaktan çekinmeyin: [Aspose topluluk forumu](https://forum.aspose.com/c/imaging/14).
 
 ## SSS Bölümü
 **S1: Ölçülü lisanslama nedir?**

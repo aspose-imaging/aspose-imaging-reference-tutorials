@@ -175,7 +175,7 @@ A3: Ja, men se till att du skaffar en korrekt licens från [Aspose](https://purc
 A4: Ja, implementera batchbehandling för att hantera flera filer effektivt, vilket kan minska bearbetningstiden avsevärt.
 
 **F5: Var kan jag få support om jag stöter på problem?**
-A5: Besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/10) för hjälp från både Asposes team och medlemmar i samhället.
+A5: Besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/14) för hjälp från både Asposes team och medlemmar i samhället.
 
 ## Resurser
 - **Dokumentation:** Utforska detaljerade guider och API-referenser på [Aspose.Imaging-dokumentation](https://reference.aspose.com/imaging/net/).

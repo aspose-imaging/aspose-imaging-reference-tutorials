@@ -141,7 +141,7 @@ Redo att testa det? Implementera den här lösningen i ditt nästa projekt och s
 - **Köpa**: [Skaffa en licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Kom igång med gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Begär tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**: [Aspose-stöd](https://forum.aspose.com/c/imaging/10)
+- **Supportforum**: [Aspose-stöd](https://forum.aspose.com/c/imaging/14)
 
 Den här handledningen är utformad för att vägleda dig genom att effektivt använda Aspose.Imaging för .NET, så att du får ut det mesta av detta kraftfulla bibliotek. Lycka till med kodningen!
 

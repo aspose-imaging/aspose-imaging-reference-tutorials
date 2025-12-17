@@ -173,7 +173,7 @@ R: Tra i problemi più comuni rientrano perdite di memoria e colli di bottiglia 
 - **Acquistare**: Acquista una licenza o ottieni una prova gratuita da [Acquisto Aspose](https://purchase.aspose.com/buy).
 - **Prova gratuita**: Inizia con una prova a [Comunicati stampa](https://releases.aspose.com/imaging/net/).
 - **Licenza temporanea**: Richiedine uno da [Posare](https://purchase.aspose.com/temporary-license/).
-- **Supporto**: Ottieni aiuto nel [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Supporto**: Ottieni aiuto nel [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Intraprendi il tuo viaggio per padroneggiare l'elaborazione delle immagini con Aspose.Imaging e porta le tue applicazioni a nuovi livelli!
 

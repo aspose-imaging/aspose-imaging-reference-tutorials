@@ -149,7 +149,7 @@ Klaar om je nieuwe vaardigheden in de praktijk te brengen? Implementeer deze opl
 - Aankoop: [Koop een licentie](https://purchase.aspose.com/buy)
 - Gratis proefperiode: [Probeer Aspose.Imaging voor .NET](https://releases.aspose.com/imaging/net/)
 - Tijdelijke licentie: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- Steun: [Aspose Forums](https://forum.aspose.com/c/imaging/10)
+- Steun: [Aspose Forums](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

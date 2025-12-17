@@ -142,7 +142,7 @@ Aspose.Imaging ile ilgili becerilerinizi daha da geliştirmek için ek işlevler
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET ile görüntü dönüştürmede ustalaşma yolculuğunuza çıkın ve bu güçlü kütüphanenin sunduğu olanakları keşfedin. İyi kodlamalar!
 

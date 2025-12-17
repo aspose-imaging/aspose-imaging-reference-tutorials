@@ -209,7 +209,7 @@ Masalah umum meliputi konfigurasi jalur yang salah dan format file yang tidak di
 
 **5. Bagaimana cara mendapatkan dukungan jika saya mengalami masalah?**
 
-Mengunjungi [Dukungan Aspose](https://forum.aspose.com/c/imaging/10) untuk mencari bantuan dari masyarakat atau menghubungi langsung untuk mendapatkan bantuan lebih lanjut.
+Mengunjungi [Dukungan Aspose](https://forum.aspose.com/c/imaging/14) untuk mencari bantuan dari masyarakat atau menghubungi langsung untuk mendapatkan bantuan lebih lanjut.
 
 ## Sumber daya
 

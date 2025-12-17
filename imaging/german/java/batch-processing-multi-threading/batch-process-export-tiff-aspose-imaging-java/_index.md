@@ -163,7 +163,7 @@ A: Obwohl Aspose.Imaging selbst kein integriertes Multithreading bietet, können
 A: Die kostenlose Testversion bietet volle Funktionalität, fügt den Bildern jedoch Wasserzeichen hinzu und begrenzt die Nutzungsdauer. Erwägen Sie den Erwerb einer temporären oder kostenpflichtigen Lizenz für einen unterbrechungsfreien Zugriff.
 
 **F5: Wie behebe ich häufige Probleme bei der Bildverarbeitung?**
-A: Stellen Sie sicher, dass Ihre Dateipfade korrekt sind, überprüfen Sie, ob Sie über ausreichende Systemressourcen verfügen, und beachten Sie die [Support-Forum](https://forum.aspose.com/c/imaging/10) falls erforderlich.
+A: Stellen Sie sicher, dass Ihre Dateipfade korrekt sind, überprüfen Sie, ob Sie über ausreichende Systemressourcen verfügen, und beachten Sie die [Support-Forum](https://forum.aspose.com/c/imaging/14) falls erforderlich.
 
 ## Ressourcen
 
@@ -172,7 +172,7 @@ A: Stellen Sie sicher, dass Ihre Dateipfade korrekt sind, überprüfen Sie, ob S
 - **Kaufen**: Erwerben Sie eine Lizenz über [Asposes Kaufseite](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: Entdecken Sie die Funktionen mit dem [kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: Fordern Sie eine temporäre Lizenz an über [Asposes temporäre Lizenzseite](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: Bei Fragen besuchen Sie die [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: Bei Fragen besuchen Sie die [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit diesem umfassenden Handbuch sind Sie bereit, Ihre Bildverarbeitungsfunktionen mit Aspose.Imaging für Java zu verbessern!
 

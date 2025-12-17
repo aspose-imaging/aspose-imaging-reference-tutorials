@@ -222,7 +222,7 @@ Pronto para colocar em prática o que aprendeu? Experimente converter e redimens
 - [Documentação do Aspose.Imaging para Java](https://reference.aspose.com/imaging/java/)
 - [Baixe Aspose.Imaging para Java](https://releases.aspose.com/imaging/java/)
 - [Compre uma licença ou obtenha uma avaliação gratuita](https://purchase.aspose.com/buy)
-- [Obtenha suporte do Fórum da Comunidade](https://forum.aspose.com/c/imaging/10)
+- [Obtenha suporte do Fórum da Comunidade](https://forum.aspose.com/c/imaging/14)
 
 Com esses recursos e este guia, você estará bem equipado para começar a transformar imagens SVG com confiança usando o Aspose.Imaging para Java. Boa programação!
 

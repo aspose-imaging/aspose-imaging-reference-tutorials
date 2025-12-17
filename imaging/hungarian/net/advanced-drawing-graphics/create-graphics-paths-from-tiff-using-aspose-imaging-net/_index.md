@@ -165,7 +165,7 @@ A: Optimalizálja a kódját az elérési utak fokozatos feldolgozásával, és 
 V: Igen, úgy tervezték, hogy zökkenőmentesen integrálható legyen bármely olyan .NET alkalmazással, amely fejlett képfeldolgozási képességeket igényel.
 
 **K: Milyen támogatás érhető el, ha problémákba ütközöm?**
-V: Látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10) közösségi szakértők és az Aspose munkatársainak segítségét kérem.
+V: Látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14) közösségi szakértők és az Aspose munkatársainak segítségét kérem.
 
 **K: Vannak alternatívái az Aspose.Imaging használatának TIFF-manipulációhoz .NET-ben?**
 V: Míg más könyvtárak is léteznek, az Aspose.Imaging átfogó funkciókészletet kínál, kifejezetten a kiváló minőségű képfeldolgozási feladatokhoz igazítva.
@@ -176,7 +176,7 @@ V: Míg más könyvtárak is léteznek, az Aspose.Imaging átfogó funkciókész
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbálja ki az Aspose.Imaging-et ingyen](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Indulj el az utazásodra még ma az Aspose.Imaging for .NET segítségével, és tárd fel a képfeldolgozás új lehetőségeit!
 

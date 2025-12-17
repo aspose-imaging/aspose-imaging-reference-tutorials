@@ -178,7 +178,7 @@ A: 네, Aspose.Imaging은 다양한 이미지 형식을 지원합니다. [선적
 
 **질문: 문제가 발생하면 어디에서 도움을 받을 수 있나요?**
 
-A: 방문하세요 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10) 커뮤니티와 Aspose 전문가에게 도움을 요청하세요.
+A: 방문하세요 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14) 커뮤니티와 Aspose 전문가에게 도움을 요청하세요.
 
 ## 자원
 

@@ -159,7 +159,7 @@ Aspose.Imaging for .NET 功能多樣，可讓您將其功能整合到各種場�
 - **購買：** [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用：** [試用 Aspose.Imaging 免費試用版](https://releases.aspose.com/imaging/net/)
 - **臨時執照：** [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 成像論壇](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 成像論壇](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

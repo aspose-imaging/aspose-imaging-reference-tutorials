@@ -191,7 +191,7 @@ Kullanın `dispose()` İşleme tamamlandıktan sonra belleği boşaltmak için G
 - **Satın almak:** [Aspose Lisansını Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Aspose Imaging Ücretsiz Denemeler](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu eğitimi takip ederek, Aspose.Imaging for Java kullanarak JPEG'leri verimli bir şekilde yüklemek ve kaydetmek için gereken bilgiyle kendinizi donatmış olacaksınız. İyi kodlamalar!
 

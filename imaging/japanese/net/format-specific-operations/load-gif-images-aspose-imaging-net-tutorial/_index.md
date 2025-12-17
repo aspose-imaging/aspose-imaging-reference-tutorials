@@ -153,7 +153,7 @@ A5: はい、メモリ使用量を効率的に管理するためのさまざま�
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging による画像処理を習得して、.NET アプリケーションを次のレベルに引き上げましょう。
 

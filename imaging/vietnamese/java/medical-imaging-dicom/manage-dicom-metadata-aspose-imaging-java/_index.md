@@ -173,7 +173,7 @@ Quản lý siêu dữ liệu DICOM bằng Aspose.Imaging for Java là một kh�
    - Việc chỉnh sửa siêu dữ liệu không làm thay đổi dữ liệu pixel, đảm bảo chất lượng hình ảnh vẫn được giữ nguyên.
 
 5. **Tôi có thể tìm sự hỗ trợ ở đâu nếu gặp vấn đề?**
-   - Ghé thăm [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/10) để được hỗ trợ từ các chuyên gia cộng đồng và nhân viên Aspose.
+   - Ghé thăm [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/14) để được hỗ trợ từ các chuyên gia cộng đồng và nhân viên Aspose.
 
 ## Tài nguyên
 

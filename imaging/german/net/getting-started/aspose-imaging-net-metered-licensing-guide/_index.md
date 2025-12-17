@@ -147,7 +147,7 @@ In diesem Leitfaden haben wir die Implementierung einer getakteten Lizenzierung 
 - Experimentieren Sie weiter, indem Sie mengengeregelte Lizenzen in komplexere Arbeitsabläufe integrieren.
 - Entdecken Sie zusätzliche Funktionen von Aspose.Imaging, die die Fähigkeiten Ihrer Anwendung erweitern können.
 
-Wir empfehlen Ihnen, diese Implementierung in Ihren Projekten auszuprobieren. Wenn Sie Fragen haben oder Unterstützung benötigen, wenden Sie sich bitte an uns über das [Aspose-Community-Forum](https://forum.aspose.com/c/imaging/10).
+Wir empfehlen Ihnen, diese Implementierung in Ihren Projekten auszuprobieren. Wenn Sie Fragen haben oder Unterstützung benötigen, wenden Sie sich bitte an uns über das [Aspose-Community-Forum](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ-Bereich
 **F1: Was ist eine zählerbasierte Lizenzierung?**

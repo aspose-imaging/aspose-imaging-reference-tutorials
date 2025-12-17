@@ -185,7 +185,7 @@ A: Gebruik verschillende `ImageOptions` klassen die door Aspose.Imaging worden a
 - **Aankooplicentie**: [Nu kopen](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Aan de slag](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Solliciteer hier](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Aspose.Imaging-ondersteuning](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Aspose.Imaging-ondersteuning](https://forum.aspose.com/c/imaging/14)
 
 Ontdek vandaag nog de krachtige beeldverwerkingsmogelijkheden van Aspose.Imaging voor Java!
 

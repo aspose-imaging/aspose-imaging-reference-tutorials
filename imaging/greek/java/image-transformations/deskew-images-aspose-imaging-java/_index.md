@@ -182,7 +182,7 @@ image.save(outputFileName);
 - **Αγορά:** [Αγοράστε άδειες χρήσης Aspose](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Ξεκινήστε μια δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ελπίζουμε ότι αυτός ο οδηγός θα σας βοηθήσει να εφαρμόσετε αποτελεσματικά τις λειτουργίες deskewing στις εφαρμογές Java σας χρησιμοποιώντας το Aspose.Imaging. Καλή κωδικοποίηση!
 

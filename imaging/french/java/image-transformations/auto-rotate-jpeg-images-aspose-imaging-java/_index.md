@@ -184,7 +184,7 @@ Prêt à relever le prochain défi ? Mettez en pratique ces techniques et voyez
 - **Achat**: Envisagez d'acheter une licence pour une utilisation à long terme sur [Page d'achat d'Aspose](https://purchase.aspose.com/buy).
 - **Essai gratuit**: Commencez par un essai gratuit pour explorer les fonctionnalités de [Essai gratuit d'Aspose Imaging](https://releases.aspose.com/imaging/java/).
 - **Permis temporaire**:Obtenez une licence temporaire pour des tests prolongés.
-- **Soutien**:Rejoignez le forum communautaire pour obtenir de l'aide à [Forum Aspose](https://forum.aspose.com/c/imaging/10). 
+- **Soutien**:Rejoignez le forum communautaire pour obtenir de l'aide à [Forum Aspose](https://forum.aspose.com/c/imaging/14). 
 
 Grâce à ce guide complet, vous serez parfaitement équipé pour traiter des images JPEG avec Aspose.Imaging pour Java. Bon codage !
 

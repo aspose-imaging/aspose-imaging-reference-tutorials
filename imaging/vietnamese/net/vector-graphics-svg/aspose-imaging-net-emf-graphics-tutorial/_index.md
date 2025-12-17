@@ -149,7 +149,7 @@ Sẵn sàng bắt đầu chưa? Hãy thử triển khai giải pháp này vào d
 - [Mua](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10) 
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14) 
 
 Khám phá các tài nguyên này để tìm hiểu sâu hơn về khả năng của Aspose.Imaging và nâng cao ứng dụng .NET của bạn ngay hôm nay!
 

@@ -188,7 +188,7 @@ Megtanultad, hogyan konvertálhatsz hatékonyan szürkeárnyalatos képeket az A
 - **Letöltés**: Szerezd meg a legújabb verziót innen: [Aspose.Imaging kiadások](https://releases.aspose.com/imaging/java/)
 - **Vásárlás és próba**: Ismerje meg a vásárlási lehetőségeket, és kezdje el az ingyenes próbaverziót [itt](https://purchase.aspose.com/buy)
 - **Ideiglenes engedély**: Ideiglenes jogosítvány beszerzése [itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**Csatlakozz a közösségi fórumhoz a következő címen: [Aspose Képalkotó Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**Csatlakozz a közösségi fórumhoz a következő címen: [Aspose Képalkotó Fórum](https://forum.aspose.com/c/imaging/14)
 
 Reméljük, hogy ez az útmutató segít abban, hogy hatékonyan használd az Aspose.Imaging for Java-t a projektjeidben. Jó kódolást!
 

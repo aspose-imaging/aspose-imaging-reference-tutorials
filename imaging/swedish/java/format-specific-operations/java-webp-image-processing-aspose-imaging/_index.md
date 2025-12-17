@@ -197,7 +197,7 @@ Vi har utforskat hur Aspose.Imaging för Java kan revolutionera WebP-bildbehandl
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här omfattande guiden är du nu rustad att hantera WebP-bildbehandling i Java med effektivitet och självförtroende. Lycka till med kodningen!
 

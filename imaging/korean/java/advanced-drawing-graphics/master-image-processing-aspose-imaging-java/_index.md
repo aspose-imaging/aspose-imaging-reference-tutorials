@@ -193,7 +193,7 @@ A: 물론입니다 – Windows, Linux, macOS 등 Java가 지원되는 모든 환
 - **Purchase**: [Buy Aspose Products](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start a Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 이제 이 지식을 바탕으로 Java 프로젝트에 Aspose.Imaging을 구현하여 향상된 이미지 처리 기능을 활용할 준비가 되었습니다. 즐거운 코딩 되세요!
 

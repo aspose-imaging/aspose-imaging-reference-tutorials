@@ -172,7 +172,7 @@ Daha derine dalmaya hazır mısınız? Aşağıdaki kaynakları keşfedin veya b
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, artık Aspose.Imaging for .NET'i kullanarak WMF dosyalarını PDF'ye etkili bir şekilde dönüştürebilecek donanıma sahipsiniz. İyi kodlamalar!
 

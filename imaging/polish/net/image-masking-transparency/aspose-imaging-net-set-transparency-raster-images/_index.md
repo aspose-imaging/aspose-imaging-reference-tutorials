@@ -159,7 +159,7 @@ Zaimplementuj w swojej aplikacji logikę, która dynamicznie ustawia `Transparen
 - **Kup licencję**: [Kup Aspose.Licensing](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Wypróbuj Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa**: [Poproś o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia**: [Wsparcie obrazowania Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia**: [Wsparcie obrazowania Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -162,7 +162,7 @@ image.Save("@YOUR_OUTPUT_DIRECTORY/CreateEMFMetaFileImage_out.png", imageOptions
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جرب مجانا](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم**: [دعم مجتمع Aspose](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم**: [دعم مجتمع Aspose](https://forum.aspose.com/c/imaging/14)
 
 ابدأ رحلتك في معالجة الصور باستخدام Aspose.Imaging لـ .NET واستكشف إمكانيات لا حصر لها في التعامل مع الرسومات.
 

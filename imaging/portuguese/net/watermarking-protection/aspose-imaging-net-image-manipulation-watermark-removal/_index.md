@@ -167,7 +167,7 @@ Como próximos passos, considere experimentar outros recursos avançados do Aspo
 - **Licença de compra**: [Comprar agora](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Iniciar teste gratuito](https://releases.aspose.com/imaging/net/)
 - **Licença Temporária**: [Solicite aqui](https://purchase.aspose.com/temporary-license/)
-- **Fórum de Suporte**: [Fazer perguntas](https://forum.aspose.com/c/imaging/10)
+- **Fórum de Suporte**: [Fazer perguntas](https://forum.aspose.com/c/imaging/14)
 
 Ao explorar esses recursos, você terá uma base sólida para dominar o Aspose.Imaging e seus recursos. Boa programação!
 

@@ -171,7 +171,7 @@ Kini Anda memiliki alat untuk mengonversi gambar JPEG dan TIFF ke dalam format D
 - **Pembelian**: [Beli Aspose Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti tutorial ini, Anda akan diperlengkapi dengan baik untuk menangani tugas konversi gambar dalam proyek pencitraan medis Anda menggunakan Aspose.Imaging untuk Java.
 

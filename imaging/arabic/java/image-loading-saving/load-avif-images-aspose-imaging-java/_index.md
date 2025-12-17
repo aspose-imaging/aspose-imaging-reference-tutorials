@@ -198,7 +198,7 @@ public class LoadAvifFeature {
 - **الشراء والترخيص:** تعرف على المزيد حول خيارات الشراء في [صفحة شراء Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** ابدأ بتجربة مجانية بزيارة [صفحة تجربة Aspose](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة:** اطلب ترخيصًا مؤقتًا للوصول إلى الميزات الكاملة على [صفحة الترخيص المؤقت لـ Aspose](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** التفاعل مع المجتمع والبحث عن الدعم [منتدى Aspose](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** التفاعل مع المجتمع والبحث عن الدعم [منتدى Aspose](https://forum.aspose.com/c/imaging/14)
 
 بفضل هذه الموارد، ستكون جاهزًا تمامًا لتسخير قوة Aspose.Imaging لـ Java في مشاريعك. برمجة ممتعة!
 

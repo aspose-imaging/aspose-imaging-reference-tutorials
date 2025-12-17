@@ -148,7 +148,7 @@ Utilisez des flux tamponnés et assurez-vous d’une élimination appropriée de
 - **Achat:** [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Commencez par un essai gratuit](https://releases.aspose.com/imaging/net/)
 - **Licence temporaire :** [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Assistance du forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien:** [Assistance du forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ce guide est conçu pour vous aider à exploiter tout le potentiel d'Aspose.Imaging pour vos projets .NET. Bon codage !
 

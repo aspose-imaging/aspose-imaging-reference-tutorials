@@ -165,7 +165,7 @@ A5: Ναι, το Aspose.Imaging υποστηρίζει ένα ευρύ φάσμ�
 - **Αγοράστε μια άδεια χρήσης**: Επίσκεψη [Σελίδα Αγοράς Aspose](https://purchase.aspose.com/buy) για επιλογές αδειοδότησης.
 - **Δωρεάν δοκιμή**: Δοκιμάστε τις λειτουργίες κατεβάζοντάς τες από [Κυκλοφορίες](https://releases.aspose.com/imaging/net/).
 - **Προσωρινή Άδεια**: Υποβάλετε αίτηση για προσωρινή άδεια στο [Άδειες χρήσης Aspose](https://purchase.aspose.com/temporary-license/).
-- **Υποστήριξη και Κοινότητα**: Συμμετέχετε σε συζητήσεις ή ζητήστε βοήθεια σχετικά με [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10).
+- **Υποστήριξη και Κοινότητα**: Συμμετέχετε σε συζητήσεις ή ζητήστε βοήθεια σχετικά με [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

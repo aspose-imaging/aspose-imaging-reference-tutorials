@@ -195,7 +195,7 @@ Další kroky by mohly zahrnovat prozkoumání pokročilejších funkcí Aspose.
 - [Zakoupit licenci Aspose](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze a dočasná licence](https://releases.aspose.com/imaging/java/)
 
-Doufáme, že tento průvodce byl informativní a užitečný. Máte-li další otázky, neváhejte se obrátit na [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)Šťastné programování!
+Doufáme, že tento průvodce byl informativní a užitečný. Máte-li další otázky, neváhejte se obrátit na [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)Šťastné programování!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

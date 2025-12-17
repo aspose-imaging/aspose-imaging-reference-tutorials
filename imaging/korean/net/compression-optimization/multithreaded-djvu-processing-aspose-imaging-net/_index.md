@@ -189,7 +189,7 @@ Aspose.Imaging .NET을 사용하여 멀티스레드 DJVU 처리를 구현하면 
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험판 액세스](https://releases.aspose.com/imaging/net/)
 - [임시 면허 정보](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10) 
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14) 
 
 Aspose.Imaging으로 효율적인 이미지 처리 여정을 시작하고 .NET에서 멀티스레드 DJVU 이미지 처리의 모든 잠재력을 활용하세요!
 

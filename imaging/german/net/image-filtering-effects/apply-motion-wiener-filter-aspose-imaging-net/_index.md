@@ -152,7 +152,7 @@ Sie haben gelernt, wie Sie den Motion Wiener Filter mit Aspose.Imaging für .NET
 - **Kaufen:** [Aspose.Imaging-Lizenz kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Kostenlose Testversion starten](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz:** [Beantragen Sie eine vorübergehende Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Begeben Sie sich noch heute auf Ihre Reise zur Beherrschung der Bildverarbeitung mit Aspose.Imaging für .NET!
 

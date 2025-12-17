@@ -223,7 +223,7 @@ A5: Cho phép bạn đọc hoặc ghi vào các vị trí cụ thể trong tệp
 - [Tải xuống Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí và Giấy phép tạm thời](https://releases.aspose.com/imaging/java/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10) 
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14) 
 
 Hãy bắt đầu hành trình cùng Aspose.Imaging Java ngay hôm nay và khai phá tiềm năng xử lý hình ảnh hiệu suất cao trong các dự án của bạn!
 

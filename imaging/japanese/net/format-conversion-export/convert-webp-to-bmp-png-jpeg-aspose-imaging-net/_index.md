@@ -173,7 +173,7 @@ Aspose.Imaging .NET を使用する場合は、パフォーマンスを最適化
 - **ライセンスを購入する**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料評価から始めましょう](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [こちらからお申し込みください](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [ディスカッションに参加する](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [ディスカッションに参加する](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを活用して、Aspose.Imaging .NET を使用した画像変換に関する理解と能力を広げてください。
 

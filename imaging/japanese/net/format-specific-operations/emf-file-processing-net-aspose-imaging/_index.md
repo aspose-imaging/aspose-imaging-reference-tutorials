@@ -142,7 +142,7 @@ A: もちろんです。 `Save` これを実現するには、異なるファイ
 - **ライセンスを購入:** [Aspose 購入オプション](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料評価版を入手する](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス:** [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム:** [Aspose.Imaging サポートコミュニティ](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム:** [Aspose.Imaging サポートコミュニティ](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを活用して、Aspose.Imaging for .NET の理解を深め、実装を強化しましょう。コーディングを楽しみましょう！
 

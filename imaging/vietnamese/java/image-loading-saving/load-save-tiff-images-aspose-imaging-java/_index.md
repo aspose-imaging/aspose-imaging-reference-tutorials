@@ -171,7 +171,7 @@ Trong hướng dẫn này, chúng tôi đã khám phá cách tải và lưu ản
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn này trang bị cho bạn kiến thức để triển khai xử lý hình ảnh TIFF trong các ứng dụng Java của bạn một cách hiệu quả. Chúc bạn viết mã vui vẻ!
 

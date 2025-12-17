@@ -165,7 +165,7 @@ A: Optimaliseer uw code door paden incrementeel te verwerken en zorg ervoor dat 
 A: Ja, het is ontworpen voor naadloze integratie met elke .NET-toepassing die geavanceerde beeldverwerkingsmogelijkheden vereist.
 
 **V: Welke ondersteuning is beschikbaar als ik problemen ondervind?**
-A: Bezoek de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10) voor hulp van experts uit de gemeenschap en Aspose-personeel.
+A: Bezoek de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14) voor hulp van experts uit de gemeenschap en Aspose-personeel.
 
 **V: Zijn er alternatieven voor het gebruik van Aspose.Imaging voor TIFF-manipulatie in .NET?**
 A: Hoewel er andere bibliotheken bestaan, biedt Aspose.Imaging een uitgebreide set functies die speciaal zijn afgestemd op hoogwaardige beeldverwerkingstaken.
@@ -176,7 +176,7 @@ A: Hoewel er andere bibliotheken bestaan, biedt Aspose.Imaging een uitgebreide s
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Begin vandaag nog met Aspose.Imaging voor .NET en ontdek nieuwe mogelijkheden op het gebied van beeldverwerking!
 

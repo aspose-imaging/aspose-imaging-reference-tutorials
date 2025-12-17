@@ -228,7 +228,7 @@ A3: Kiểm tra các điều khoản cấp phép để biết giới hạn sử d
 
 **Câu hỏi 4: Tôi phải làm gì nếu gặp lỗi trong quá trình hoạt hình?**
 
-A4: Xác minh đường dẫn tệp và đảm bảo tất cả các phụ thuộc được cấu hình đúng. Tham khảo [Hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) nếu vấn đề vẫn tiếp diễn.
+A4: Xác minh đường dẫn tệp và đảm bảo tất cả các phụ thuộc được cấu hình đúng. Tham khảo [Hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) nếu vấn đề vẫn tiếp diễn.
 
 **Câu hỏi 5: Làm thế nào để tôi có thể sửa đổi thuộc tính khung để có hiệu ứng độc đáo?**
 
@@ -241,7 +241,7 @@ A5: Thử nghiệm với các điều chỉnh gamma, pha trộn alpha hoặc cá
 - **Mua**: [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Dùng thử Aspose.Imaging miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Với hướng dẫn toàn diện này, bạn sẽ được trang bị đầy đủ để bắt đầu tạo PNG động trong Java bằng Aspose.Imaging. Chúc bạn lập trình vui vẻ!
 

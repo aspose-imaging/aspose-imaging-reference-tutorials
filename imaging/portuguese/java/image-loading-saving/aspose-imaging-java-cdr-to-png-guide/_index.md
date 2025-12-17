@@ -189,7 +189,7 @@ A3: Ajustar `CdrRasterizationOptions` parâmetros como resolução e tipos de po
 R4: É necessária uma licença adquirida para aplicativos comerciais. Você pode começar com um teste gratuito ou solicitar uma licença temporária.
 
 **P5: Onde posso obter suporte se tiver problemas?**
-A5: Visite o [Fórum de suporte Aspose](https://forum.aspose.com/c/imaging/10) para assistência e discussões comunitárias.
+A5: Visite o [Fórum de suporte Aspose](https://forum.aspose.com/c/imaging/14) para assistência e discussões comunitárias.
 
 ## Recursos
 
@@ -197,7 +197,7 @@ A5: Visite o [Fórum de suporte Aspose](https://forum.aspose.com/c/imaging/10) p
 - **Biblioteca de downloads:** Obtenha a versão mais recente em [Lançamentos do Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licença de compra:** Visita [Site de compra Aspose](https://purchase.aspose.com/buy)
 - **Teste gratuito e licença temporária:** Comece sua jornada em [Teste gratuito do Aspose](https://releases.aspose.com/imaging/java/) e [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- **Fórum de suporte:** Entre em contato com a comunidade para obter ajuda em [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum de suporte:** Entre em contato com a comunidade para obter ajuda em [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Embarque hoje mesmo na sua jornada Aspose.Imaging Java e dê vida aos seus projetos de imagem digital!
 

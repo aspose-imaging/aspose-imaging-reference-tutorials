@@ -166,7 +166,7 @@ Redo att implementera den här lösningen? Fördjupa dig genom att experimentera
 - [Köpa](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här omfattande guiden kan du utnyttja Aspose.Imaging för Javas fulla potential för att hantera TIFF-bilder effektivt. Lycka till med kodningen!
 

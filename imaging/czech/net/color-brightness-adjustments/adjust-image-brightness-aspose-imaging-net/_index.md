@@ -172,7 +172,7 @@ A: I když je to technicky proveditelné, extrémní úpravy mohou snížit kval
 - **Zakoupit licenci**: [Koupit nyní](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začít](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Žádost zde](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Komunita Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Komunita Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Tato příručka by měla sloužit jako komplexní zdroj pro zvládnutí úprav jasu pomocí Aspose.Imaging pro .NET. Přeji vám příjemné programování!
 

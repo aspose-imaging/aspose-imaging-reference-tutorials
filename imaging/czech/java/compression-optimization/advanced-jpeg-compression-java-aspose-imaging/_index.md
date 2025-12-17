@@ -211,7 +211,7 @@ A: Pro efektivní optimalizaci využití paměti používejte během načítán�
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Zahájit bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu budete dobře vybaveni k implementaci pokročilých technik komprese obrázků pomocí Aspose.Imaging pro Javu. Prozkoumejte tyto metody dále a integrujte je do svých projektů, abyste dosáhli optimálního výkonu a kvality.
 

@@ -214,7 +214,7 @@ Kapsamlı belgelerine dalarak Aspose.Imaging kütüphanesinin daha fazla özelli
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'i Ücretsiz Deneyin](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Aspose.Görüntüleme Desteği](https://forum.aspose.com/c/imaging/10) 
+- **Destek Forumu**: [Aspose.Görüntüleme Desteği](https://forum.aspose.com/c/imaging/14) 
 
 Aspose.Imaging for Java ile yolculuğunuza bugün başlayın ve görüntü işlemede yeni potansiyellerin kilidini açın!
 

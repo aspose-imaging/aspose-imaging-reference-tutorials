@@ -257,7 +257,7 @@ A4: يوفر Aspose.Imaging أدوات للتحويل بين مساحات الأ
 - **شراء**: [صفحة شراء Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جرب النسخة التجريبية المجانية من Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم**: [مجتمع دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم**: [مجتمع دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 برمجة سعيدة!
 

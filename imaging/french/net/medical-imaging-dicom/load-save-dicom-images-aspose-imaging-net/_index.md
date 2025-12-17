@@ -126,7 +126,7 @@ A5 : Oui, Aspose.Imaging prend en charge les environnements cloud, permettant l
 - [Acheter une licence](https://purchase.aspose.com/buy)
 - [Obtenez un essai gratuit](https://releases.aspose.com/imaging/net/)
 - [Demander une licence temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

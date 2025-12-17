@@ -159,7 +159,7 @@ Bereit zum Einstieg? Tauchen Sie ein in die Implementierung dieser Lösungen und
 - **Kaufen:** [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Testen Sie Aspose.Imaging kostenlos](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz:** [Holen Sie sich eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Aspose.Imaging Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** [Aspose.Imaging Support Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

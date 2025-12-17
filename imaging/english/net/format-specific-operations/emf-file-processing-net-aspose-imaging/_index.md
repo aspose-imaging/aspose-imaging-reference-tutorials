@@ -147,7 +147,7 @@ A: Absolutely. Use the `Save` method with different file extensions to achieve t
 - **Purchase License:** [Aspose Purchase Options](https://purchase.aspose.com/buy)
 - **Free Trial:** [Get a Free Evaluation Copy](https://releases.aspose.com/imaging/net/)
 - **Temporary License:** [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum:** [Aspose.Imaging Support Community](https://forum.aspose.com/c/imaging/10)
+- **Support Forum:** [Aspose.Imaging Support Community](https://forum.aspose.com/c/imaging/14)
 
 Explore these resources to deepen your understanding and enhance your implementations using Aspose.Imaging for .NET. Happy coding!
 

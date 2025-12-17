@@ -212,7 +212,7 @@ Bây giờ bạn đã biết cách tận dụng Aspose.Imaging for Java để t�
 - **Mua**: [Mua ngay](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Yêu cầu ở đây](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Cộng đồng Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Cộng đồng Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Chúng tôi hy vọng hướng dẫn này giúp bạn nâng cao khả năng xử lý hình ảnh tinh vi cho dự án của mình. Chúc bạn viết mã vui vẻ!
 

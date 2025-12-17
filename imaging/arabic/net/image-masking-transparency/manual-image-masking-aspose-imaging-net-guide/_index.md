@@ -169,7 +169,7 @@ using (RasterImage image = (RasterImage)Image.Load(sourceFileName))
 4. **ما هي بعض المشاكل الشائعة عند إخفاء الصور؟**
    - تتضمن المشكلات الشائعة تعريفات المسار غير الصحيحة، أو الاستثناءات غير المعالجة، أو الاختناقات في الأداء بسبب أحجام الصور الكبيرة.
 5. **أين يمكنني العثور على الدعم إذا كان لدي أسئلة أخرى؟**
-   - قم بزيارة [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10) للحصول على المساعدة من خبراء المجتمع وموظفي Aspose.
+   - قم بزيارة [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14) للحصول على المساعدة من خبراء المجتمع وموظفي Aspose.
 
 ## موارد
 - **التوثيق**: [توثيق Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)

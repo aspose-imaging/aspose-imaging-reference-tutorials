@@ -210,7 +210,7 @@ Aspose.Imaging Java के साथ रास्टराइज़ेशन व
 - **खरीदना:** [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [निःशुल्क परीक्षण प्राप्त करें](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस:** [अस्थायी लाइसेंस के लिए आवेदन करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता:** [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता:** [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड के साथ, आप अपनी परियोजनाओं में Aspose.Imaging Java का प्रभावी ढंग से लाभ उठाने के लिए अच्छी तरह से सुसज्जित हैं। हैप्पी कोडिंग!
 

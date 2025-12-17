@@ -172,7 +172,7 @@ A: Meskipun secara teknis memungkinkan, penyesuaian ekstrem dapat menurunkan kua
 - **Beli Lisensi**: [Beli Sekarang](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Memulai](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Minta di sini](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan**: [Komunitas Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan**: [Komunitas Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Panduan ini dapat menjadi sumber daya yang komprehensif untuk menguasai penyesuaian kecerahan dengan Aspose.Imaging untuk .NET. Selamat membuat kode!
 

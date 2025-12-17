@@ -227,7 +227,7 @@ try (RasterImage image = (RasterImage) Image.load("YOUR_DOCUMENT_DIRECTORY/src.p
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [เวอร์ชันทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - [การขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/14)
 
 คู่มือนี้ให้พื้นฐานที่ครอบคลุมสำหรับการใช้ประโยชน์จาก Aspose.Imaging ใน Java เมื่อเข้าใจเทคนิคเหล่านี้แล้ว คุณสามารถปรับปรุงแอปพลิเคชันของคุณด้วยความสามารถในการประมวลผลภาพอันทรงพลัง ขอให้สนุกกับการเขียนโค้ด!
 

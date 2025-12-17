@@ -145,7 +145,7 @@ I den här handledningen har du lärt dig hur du använder förlustbringande GIF
 - **Köpa**: [Köp en licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova det](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Ställ frågor](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Ställ frågor](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

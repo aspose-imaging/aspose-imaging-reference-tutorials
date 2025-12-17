@@ -160,7 +160,7 @@ A5: 프로덕션 환경에서 중단 없이 사용하려면 유효한 라이선�
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료 체험판을 시작하세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging Java의 힘을 활용해 이미지 처리 역량을 높여보세요!
 

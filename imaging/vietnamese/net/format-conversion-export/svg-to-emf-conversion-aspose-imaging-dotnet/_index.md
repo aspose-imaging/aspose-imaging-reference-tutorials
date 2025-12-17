@@ -133,7 +133,7 @@ Bây giờ bạn đã biết cách chuyển đổi tệp SVG sang định dạng
 **Các bước tiếp theo:**
 - Khám phá thêm nhiều tính năng của Aspose.Imaging
 - Thử nghiệm với các tùy chọn chuyển đổi khác nhau
-- Chia sẻ phản hồi hoặc đặt câu hỏi trong [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- Chia sẻ phản hồi hoặc đặt câu hỏi trong [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Sẵn sàng áp dụng những kỹ năng này? Hãy bắt đầu dự án của bạn và bắt đầu chuyển đổi ngay hôm nay!
 
@@ -160,7 +160,7 @@ A5: Kiểm tra đường dẫn tệp, đảm bảo Aspose.Imaging được cài 
 - **Mua**: [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu với bản dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy thoải mái khám phá các tài nguyên này để được hướng dẫn và hỗ trợ chi tiết hơn khi bạn triển khai giải pháp của mình. Chúc bạn viết mã vui vẻ!
 

@@ -159,7 +159,7 @@ Je hebt met succes geleerd hoe je een gedraaid tekstwatermerk op een afbeelding 
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Probeer deze stappen eens uit en zie hoe Aspose.Imaging uw beeldverwerkingstaken kan stroomlijnen!
 

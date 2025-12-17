@@ -182,7 +182,7 @@ Fedezze fel az Aspose.Imaging által kínált további funkciókat a ... oldalon
    - Használja a gyorsítótár-beállításokat az erőforrás-elosztás hatékony kezeléséhez, és vegye figyelembe a kötegelt feldolgozási technikákat.
 
 4. **Van-e elérhető támogatás, ha problémákba ütközöm az Aspose.Imaging használatával?**
-   - Igen, segítséget találhatsz a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10).
+   - Igen, segítséget találhatsz a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14).
 
 5. **Milyen bevált gyakorlatok vannak az egyéni paletták GIF-ekben való használatára?**
    - Válasszon olyan színeket, amelyek szorosan illeszkednek a tervezési céljaihoz, és teszteljen különböző kombinációkat az optimális eredmény elérése érdekében.

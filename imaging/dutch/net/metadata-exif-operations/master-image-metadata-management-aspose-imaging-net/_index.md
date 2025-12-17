@@ -195,7 +195,7 @@ Volgende stappen zijn het integreren van deze oplossingen in grotere projecten o
 - **Aankoop:** [Koop licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Probeer gratis](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie:** [Hier verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Gemeenschapsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Gemeenschapsforum](https://forum.aspose.com/c/imaging/14)
 
 We hopen dat deze handleiding je helpt om met vertrouwen afbeeldingsmetadata te beheren met Aspose.Imaging voor .NET. Veel plezier met coderen!
 

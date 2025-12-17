@@ -156,7 +156,7 @@ A: Verwenden Sie Try-Catch-Blöcke, um Ausnahmen ordnungsgemäß zu verwalten un
 - **Kaufen**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Kostenlos starten](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Erwerben Sie eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose-Foren](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose-Foren](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

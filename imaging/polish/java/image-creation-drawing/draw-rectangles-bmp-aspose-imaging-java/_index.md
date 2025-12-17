@@ -182,7 +182,7 @@ Dzięki temu przewodnikowi nauczyłeś się, jak skutecznie używać Aspose.Imag
 - **Pobierać**: [Aspose.Imaging publikuje](https://releases.aspose.com/imaging/java/)
 - **Zakup**: [Opcje licencjonowania Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia**: [Społeczność wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia**: [Społeczność wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Teraz, gdy dysponujesz już wszystkimi narzędziami i wiedzą, możesz zacząć eksperymentować z Aspose.Imaging for Java, aby uwolnić swoją kreatywność w zakresie przetwarzania obrazu!
 

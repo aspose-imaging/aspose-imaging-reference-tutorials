@@ -198,7 +198,7 @@ Experimentieren Sie mit verschiedenen EXIF-Feldern und entdecken Sie die erweite
    - Auf jeden Fall, es ist darauf ausgelegt, hohe Leistungsanforderungen effektiv zu bewältigen.
 
 5. **Wie kann ich zur Community beitragen oder Hilfe bei Problemen suchen?**
-   - Treten Sie der [Aspose-Forum](https://forum.aspose.com/c/imaging/10) um Fragen zu stellen und Erkenntnisse auszutauschen.
+   - Treten Sie der [Aspose-Forum](https://forum.aspose.com/c/imaging/14) um Fragen zu stellen und Erkenntnisse auszutauschen.
 
 ## Ressourcen
 

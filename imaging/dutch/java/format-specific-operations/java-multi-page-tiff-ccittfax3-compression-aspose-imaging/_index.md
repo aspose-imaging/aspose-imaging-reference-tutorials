@@ -245,7 +245,7 @@ In deze tutorial heb je geleerd hoe je TIFF-bestanden met meerdere pagina's maak
 - **Aankoop**: https://purchase.aspose.com/buy
 - **Gratis proefperiode**: https://releases.aspose.com/imaging/java/
 - **Tijdelijke licentie**: https://purchase.aspose.com/tijdelijke-licentie/
-- **Steun**: https://forum.aspose.com/c/imaging/10
+- **Steun**: https://forum.aspose.com/c/imaging/14
 
 Nu u over de nodige kennis beschikt, kunt u beginnen met het implementeren en verkennen van deze technieken in uw Java-projecten!
 

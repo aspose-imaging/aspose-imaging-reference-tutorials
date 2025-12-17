@@ -212,7 +212,7 @@ A4: Látogatás [Az Aspose ideiglenes licencoldala](https://purchase.aspose.com/
 
 **5. kérdés: Milyen források állnak rendelkezésre, ha problémákba ütközöm?**
 
-A5: Az Aspose közösségi fórum kiváló hely a segítségkérésre. Nézd meg [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/10) támogatásért és megbeszélésekért.
+A5: Az Aspose közösségi fórum kiváló hely a segítségkérésre. Nézd meg [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/14) támogatásért és megbeszélésekért.
 
 ## Erőforrás
 
@@ -221,7 +221,7 @@ A5: Az Aspose közösségi fórum kiváló hely a segítségkérésre. Nézd meg
 - **Vásárlás**További információ a licencelési lehetőségekről: [Aspose Vásárlási Oldal](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**Tesztelje az Aspose.Imaging funkcióit egy ingyenes próbaverzióval a következő címen: [Aspose letöltések](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: Hosszabbított hozzáférés igénylése itt: [Aspose ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: Lépj kapcsolatba a közösséggel a következőn: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: Lépj kapcsolatba a közösséggel a következőn: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

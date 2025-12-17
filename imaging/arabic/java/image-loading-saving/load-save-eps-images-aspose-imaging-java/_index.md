@@ -234,7 +234,7 @@ private static void deleteFile(String filePath) {
 - **شراء:** [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [جرب Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة:** [الحصول على ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

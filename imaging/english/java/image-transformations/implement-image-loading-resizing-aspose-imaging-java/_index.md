@@ -183,7 +183,7 @@ A5: Absolutely. It's designed to be easily integrated and used alongside other l
 - **Purchase**: [Buy a License](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start Here](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Apply Now](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Community Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Community Forum](https://forum.aspose.com/c/imaging/14)
 
 With this comprehensive guide, you're now equipped to master image loading and resizing in Java using Aspose.Imaging. Happy coding!
 

@@ -181,7 +181,7 @@ Có, Aspose.Imaging cung cấp các công cụ toàn diện để chỉnh sửa 
 Điều chỉnh độ phân giải và cài đặt chất lượng bằng các tùy chọn cấu hình của Aspose.Imaging để duy trì tính toàn vẹn của hình ảnh.
 
 **5. Có hỗ trợ nào không nếu tôi gặp sự cố với Aspose.Imaging?**
-Có, bạn có thể tìm kiếm sự giúp đỡ trên [Diễn đàn của Aspose](https://forum.aspose.com/c/imaging/10) để được cộng đồng hoặc chính quyền hỗ trợ.
+Có, bạn có thể tìm kiếm sự giúp đỡ trên [Diễn đàn của Aspose](https://forum.aspose.com/c/imaging/14) để được cộng đồng hoặc chính quyền hỗ trợ.
 
 ## Tài nguyên
 

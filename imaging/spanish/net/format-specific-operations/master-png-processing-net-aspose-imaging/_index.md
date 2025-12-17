@@ -201,7 +201,7 @@ Al dominar estas técnicas, podrá aprovechar Aspose.Imaging para .NET para gest
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/net/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Explora estos recursos y solicita ayuda si tienes alguna pregunta. ¡Que disfrutes programando!
 

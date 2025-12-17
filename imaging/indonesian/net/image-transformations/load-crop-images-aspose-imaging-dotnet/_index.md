@@ -180,7 +180,7 @@ Untuk lebih mengembangkan keterampilan Anda, pertimbangkan untuk menjelajahi fit
 - **Beli Lisensi:** https://purchase.aspose.com/beli
 - **Uji Coba Gratis:** https://releases.aspose.com/imaging/net/
 - **Lisensi Sementara:** https://purchase.aspose.com/lisensi-sementara/
-- **Forum Dukungan:** https://forum.aspose.com/c/imaging/10
+- **Forum Dukungan:** https://forum.aspose.com/c/imaging/14
 
 Mulailah mengintegrasikan teknik penanganan gambar ini ke dalam proyek Anda hari ini dan lihat perbedaan dalam kinerja dan efisiensi!
 

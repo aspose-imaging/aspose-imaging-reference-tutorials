@@ -153,7 +153,7 @@ Lorsque vous travaillez avec des images volumineuses ou un traitement par lots, 
 - [Achat](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 Explorez ces ressources pour approfondir votre compréhension et tirer le meilleur parti d'Aspose.Imaging pour Java. Bon codage !
 

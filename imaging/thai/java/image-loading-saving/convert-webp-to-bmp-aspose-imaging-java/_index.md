@@ -173,7 +173,7 @@ try {
 - **ซื้อ:** [ซื้อ Aspose.Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี:** [เริ่มทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว:** [ขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **ฟอรั่มการสนับสนุน:** [ฟอรั่มสนับสนุน Aspose Imaging](https://forum.aspose.com/c/imaging/10)
+- **ฟอรั่มการสนับสนุน:** [ฟอรั่มสนับสนุน Aspose Imaging](https://forum.aspose.com/c/imaging/14)
 
 อย่าลังเลที่จะสำรวจทรัพยากรเหล่านี้และรวม Aspose.Imaging เข้ากับโปรเจ็กต์ของคุณเพื่อให้สามารถประมวลผลภาพที่ราบรื่น
 

@@ -195,7 +195,7 @@ V: A függvénykönyvtár robusztus, de teljesítménybeli korlátai lehetnek re
 - **Vásárlás**: [Vásároljon Aspose Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Kezdje ingyenes próbaverzióval](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Kérelem itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Kérdések feltevése](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Kérdések feltevése](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével jó úton haladsz afelé, hogy elsajátítsd az Aspose.Imaging for Java által kínált hatékony képfeldolgozási képességeket. Jó kódolást!
 

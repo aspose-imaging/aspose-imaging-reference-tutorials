@@ -225,7 +225,7 @@ Jste připraveni to vyzkoušet? Implementujte tyto techniky ve svém dalším pr
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatný zkušební přístup](https://releases.aspose.com/imaging/java/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 S tímto komplexním průvodcem jste nyní připraveni využít Aspose.Imaging Java pro efektivní zpracování obrazu ve vašich projektech. Přejeme vám příjemné programování!
 

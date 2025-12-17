@@ -243,7 +243,7 @@ A5: Bạn có thể sử dụng `setTransparentColor()` phương pháp này ch�
 - **Mua giấy phép**: [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Đặt câu hỏi](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Đặt câu hỏi](https://forum.aspose.com/c/imaging/14)
 
 Chúng tôi hy vọng hướng dẫn này hữu ích trong hành trình xử lý ảnh Java của bạn bằng Aspose.Imaging. Nếu bạn có bất kỳ câu hỏi nào, hãy liên hệ qua diễn đàn hỗ trợ hoặc kiểm tra tài liệu để biết thêm thông tin chi tiết. Chúc bạn viết mã vui vẻ!
 

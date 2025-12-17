@@ -166,7 +166,7 @@ Als volgende stap kunt u experimenteren met andere formaten die door Aspose.Imag
 - **Aankoop**: Koop een licentie via [Aspose Aankoopportaal](https://purchase.aspose.com/buy).
 - **Gratis proefperiode**: Begin met een gratis proefperiode via [Downloaden](https://releases.aspose.com/imaging/net/).
 - **Tijdelijke licentie**: Vraag er een aan [hier](https://purchase.aspose.com/temporary-license/).
-- **Steun**: Sluit je aan bij de community in [Aspose Forums](https://forum.aspose.com/c/imaging/10) voor hulp en discussies.
+- **Steun**: Sluit je aan bij de community in [Aspose Forums](https://forum.aspose.com/c/imaging/14) voor hulp en discussies.
 
 We hopen dat deze gids je helpt bij het integreren van de exportfunctionaliteit voor vectorafbeeldingen in je projecten. Veel plezier met coderen!
 

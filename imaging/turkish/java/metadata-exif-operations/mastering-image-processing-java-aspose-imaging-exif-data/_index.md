@@ -217,7 +217,7 @@ Sonraki adımlar? Bu teknikleri projelerinizde uygulamaya çalışın ve Aspose.
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Artık tüm araçlara ve bilgiye sahip olduğunuza göre, bu güçlü özellikleri Java uygulamalarınızda uygulamaya başlamanın zamanı geldi!
 

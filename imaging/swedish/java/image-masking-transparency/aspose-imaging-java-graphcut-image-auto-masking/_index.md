@@ -205,7 +205,7 @@ I den här handledningen har vi utforskat hur man implementerar automatisk bildm
 - Experimentera med olika konfigurationer av maskeringsalternativen.
 - Utforska andra funktioner som erbjuds av Aspose.Imaging för ytterligare bildbehandlingsmöjligheter.
 
-För ytterligare frågor eller support, besök [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10).
+För ytterligare frågor eller support, besök [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ-sektion
 
@@ -231,7 +231,7 @@ A: Den kostnadsfria provperioden låter dig testa alla funktioner, men den inklu
 - **Köpa**: [Köp Aspose-licensalternativ](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Börja med en gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din resa mot att bemästra automatisk bildmaskning med Aspose.Imaging och Java idag!
 

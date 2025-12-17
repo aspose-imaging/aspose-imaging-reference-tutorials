@@ -217,7 +217,7 @@ Mit Aspose.Imaging für .NET haben Sie gelernt, Bilder effizient zu laden und zw
 - **Kaufen**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Testen Sie Aspose.Imaging kostenlos](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Holen Sie sich eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit dieser Anleitung sind Sie nun in der Lage, erweiterte Bildverarbeitungsfunktionen mit Aspose.Imaging in Ihre .NET-Anwendungen zu implementieren. Viel Spaß beim Entdecken und Optimieren Ihrer Projekte!
 

@@ -191,7 +191,7 @@ Mezi běžné problémy patří nesprávné zpracování likvidace obrazů, což
 - **Nákup**https://purchase.aspose.com/buy
 - **Bezplatná zkušební verze**https://releases.aspose.com/imaging/java/
 - **Dočasná licence**https://purchase.aspose.com/temporary-license/
-- **Podpora**https://forum.aspose.com/c/imaging/10
+- **Podpora**https://forum.aspose.com/c/imaging/14
 
 Doufáme, že vám tento průvodce pomůže ve vašich projektech. Přejeme vám příjemné programování!
 

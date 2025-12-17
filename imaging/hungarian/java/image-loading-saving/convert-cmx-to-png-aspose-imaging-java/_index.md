@@ -218,7 +218,7 @@ A: Használja a kötegelt feldolgozást és optimalizálja a memóriabeállítá
 - **Vásárlás**: Vásároljon licencet vagy próbaverziót a következő címen: [Aspose vásárlás](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**Próbáld ki az Aspose.Imaging-et ezzel [ingyenes próbaverzió linkje](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: Ideiglenes jogosítvány beszerzése a következőn keresztül: [ez a link](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**Csatlakozz a képfeldolgozási kihívásokról szóló beszélgetéshez a következőben: [Aspose Fórumok](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**Csatlakozz a képfeldolgozási kihívásokról szóló beszélgetéshez a következőben: [Aspose Fórumok](https://forum.aspose.com/c/imaging/14)
 
 Kezdj bele a következő projektedbe magabiztosan, tudván, hogy rendelkezel a CMX fájlok zökkenőmentes konvertálásához szükséges eszközökkel és tudással. Jó kódolást!
 

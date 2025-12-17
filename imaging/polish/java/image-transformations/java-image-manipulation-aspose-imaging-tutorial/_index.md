@@ -213,7 +213,7 @@ Gotowy, aby wykorzystać zdobytą wiedzę w praktyce? Spróbuj zintegrować te f
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij przygodę z Aspose.Imaging for Java i odkryj pełen potencjał manipulacji obrazami w swoich aplikacjach!
 

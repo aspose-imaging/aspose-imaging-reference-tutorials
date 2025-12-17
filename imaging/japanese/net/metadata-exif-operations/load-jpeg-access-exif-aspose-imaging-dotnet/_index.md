@@ -172,7 +172,7 @@ if (exif != null)
 - **購入：** [Aspose ライセンスオプションを購入する](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料トライアルを試す](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス:** [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Aspose フォーラム サポート](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Aspose フォーラム サポート](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従うことで、Aspose.Imaging for .NET を使用して JPEG 画像とそのメタデータを適切に処理できるようになります。コーディングを楽しみましょう！
 

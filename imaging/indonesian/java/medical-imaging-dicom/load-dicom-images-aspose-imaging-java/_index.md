@@ -160,7 +160,7 @@ Optimalkan penggunaan memori dengan memproses gambar dalam potongan yang lebih k
 Aspose.Imaging terutama berfokus pada DICOM, tetapi juga mendukung berbagai format gambar lainnya.
 
 **5. Di mana saya bisa mendapatkan bantuan jika saya mengalami masalah dengan Aspose.Imaging?**
-Kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/10) untuk dukungan dan terhubung dengan pengguna dan pakar lainnya.
+Kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/14) untuk dukungan dan terhubung dengan pengguna dan pakar lainnya.
 
 ## Sumber daya
 

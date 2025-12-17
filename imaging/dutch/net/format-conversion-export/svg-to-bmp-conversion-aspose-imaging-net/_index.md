@@ -142,7 +142,7 @@ Om uw vaardigheden met Aspose.Imaging verder te verbeteren, kunt u aanvullende f
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Begin je reis naar een meester in beeldconversie met Aspose.Imaging voor .NET en ontdek de mogelijkheden die deze krachtige bibliotheek biedt. Veel plezier met coderen!
 

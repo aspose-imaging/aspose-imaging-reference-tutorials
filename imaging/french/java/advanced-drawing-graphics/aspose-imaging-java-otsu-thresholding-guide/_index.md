@@ -187,7 +187,7 @@ Cet extrait enregistre l'image binarisée au format JPEG, garantissant ainsi son
 
 Vous maîtrisez désormais les bases de l'utilisation d'Aspose.Imaging pour Java pour charger, traiter et enregistrer des images avec des techniques de binarisation. Poursuivez vos expérimentations en explorant d'autres fonctionnalités de la bibliothèque, comme le filtrage avancé ou la conversion de format.
 
-Les prochaines étapes incluent l'intégration de cette fonctionnalité à vos projets et l'expérimentation de différents types d'images et scénarios de traitement. N'hésitez pas à nous contacter via le [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10) pour toutes questions que vous pourriez avoir !
+Les prochaines étapes incluent l'intégration de cette fonctionnalité à vos projets et l'expérimentation de différents types d'images et scénarios de traitement. N'hésitez pas à nous contacter via le [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14) pour toutes questions que vous pourriez avoir !
 
 ## Section FAQ
 

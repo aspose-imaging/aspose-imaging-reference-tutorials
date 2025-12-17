@@ -201,7 +201,7 @@ namespace CSharp.ModifyingAndConvertingImages.PNG
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/net/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 欢迎随意浏览这些资源，如有任何疑问，请联系我们的支持。祝您编程愉快！
 

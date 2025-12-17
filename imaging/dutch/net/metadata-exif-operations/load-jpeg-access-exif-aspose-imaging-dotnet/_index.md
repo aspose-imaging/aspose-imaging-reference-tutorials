@@ -172,7 +172,7 @@ Voor meer gedetailleerde informatie kunt u de volgende bronnen raadplegen:
 - **Aankoop:** [Koop Aspose-licentieopties](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Probeer gratis proefversies](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie:** [Tijdelijke licenties aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Forum Ondersteuning](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose Forum Ondersteuning](https://forum.aspose.com/c/imaging/14)
 
 Na het volgen van deze handleiding bent u goed voorbereid op het werken met JPEG-afbeeldingen en hun metadata met Aspose.Imaging voor .NET. Veel plezier met coderen!
 

@@ -191,7 +191,7 @@ Készen állsz kipróbálni? Kezdd el bevezetni ezt a megoldást a projektjeidbe
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Fedezd fel ezeket az erőforrásokat, hogy elmélyítsd az Aspose.Imaging megértését és bővítsd annak képességeit a projektjeidben. Jó kódolást!
 

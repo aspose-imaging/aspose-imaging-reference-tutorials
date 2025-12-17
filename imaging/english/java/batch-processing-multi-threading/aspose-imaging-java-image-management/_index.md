@@ -170,7 +170,7 @@ You've now learned how to load, save, and delete images using Aspose.Imaging for
 - **Purchase**: Buy your license at [Aspose Purchase](https://purchase.aspose.com/buy).
 - **Free Trial**: Test with a free trial available on their site.
 - **Temporary License**: Obtain one for full feature access without limitations.
-- **Support**: Get help from the community on [Aspose Forum](https://forum.aspose.com/c/imaging/10). 
+- **Support**: Get help from the community on [Aspose Forum](https://forum.aspose.com/c/imaging/14). 
 
 By following this comprehensive guide, you're now equipped to handle image files efficiently in your Java applications using Aspose.Imaging!
 

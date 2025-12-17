@@ -218,7 +218,7 @@ A: Wykorzystaj przetwarzanie wsadowe i zoptymalizuj ustawienia pamięci, aby wyd
 - **Zakup**:Kup licencję lub wersję próbną za pośrednictwem [Zakup Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**:Wypróbuj Aspose.Imaging z tym [bezpłatny link do wersji próbnej](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**:Uzyskaj tymczasową licencję za pośrednictwem [ten link](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**:Dołącz do dyskusji na temat wyzwań związanych z przetwarzaniem obrazu w [Fora Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**:Dołącz do dyskusji na temat wyzwań związanych z przetwarzaniem obrazu w [Fora Aspose](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij swój kolejny projekt z pewnością siebie, wiedząc, że masz narzędzia i wiedzę, aby płynnie konwertować pliki CMX. Miłego kodowania!
 

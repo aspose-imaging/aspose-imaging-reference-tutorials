@@ -254,7 +254,7 @@ Fedezze fel az Aspose.Imaging további funkcióit a részletes elemzéssel [doku
 - **Dokumentáció:** Részletes útmutatók megtekintése itt: [Aspose.Imaging dokumentáció](https://reference.aspose.com/imaging/java/).
 - **Letöltés:** Szerezd meg a legújabb verziót innen: [Aspose.Imaging kiadások](https://releases.aspose.com/imaging/java/).
 - **Vásárlás és próbaverzió:** Hozzáférés a vásárlási lehetőségekhez, vagy kezdjen el egy ingyenes próbaverziót a következő címen: [Aspose Vásárlási Oldal](https://purchase.aspose.com/buy) és [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/).
-- **Támogatás:** Kérdések esetén látogassa meg a [Aspose Fórum](https://forum.aspose.com/c/imaging/10).
+- **Támogatás:** Kérdések esetén látogassa meg a [Aspose Fórum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

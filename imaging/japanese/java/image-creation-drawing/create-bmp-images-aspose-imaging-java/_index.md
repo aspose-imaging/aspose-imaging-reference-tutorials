@@ -170,7 +170,7 @@ A3: try-with-resourcesなどの効率的なメモリ管理技術を使用して�
 A4: はい、Aspose.Imaging は他の Java ライブラリと併用して、包括的な画像処理ソリューションを実現できます。
 
 **Q5: 問題が発生した場合、どこでサポートを受けることができますか?**
-A5: 訪問 [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10) サポートとコミュニティのガイダンスを提供します。
+A5: 訪問 [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14) サポートとコミュニティのガイダンスを提供します。
 
 ## リソース
 

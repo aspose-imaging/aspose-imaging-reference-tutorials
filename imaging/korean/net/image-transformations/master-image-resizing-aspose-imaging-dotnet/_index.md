@@ -148,7 +148,7 @@ image.Save(outputDir);
 - **구입**: https://purchase.aspose.com/buy
 - **무료 체험**: https://releases.aspose.com/imaging/net/
 - **임시 면허**: https://purchase.aspose.com/temporary-license/
-- **지원하다**: https://forum.aspose.com/c/imaging/10
+- **지원하다**: https://forum.aspose.com/c/imaging/14
 
 지금 Aspose.Imaging과 함께 이미지 처리를 마스터하는 여정을 시작하세요!
 

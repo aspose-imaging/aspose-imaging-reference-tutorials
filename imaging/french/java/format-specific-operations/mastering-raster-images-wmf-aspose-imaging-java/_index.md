@@ -159,7 +159,7 @@ En suivant ce tutoriel, vous avez appris à charger et à dessiner des images ra
 - **Options d'achat :** https://purchase.aspose.com/buy
 - **Essai gratuit :** https://releases.aspose.com/imaging/java/
 - **Licence temporaire :** https://purchase.aspose.com/temporary-license/
-- **Forum d'assistance :** https://forum.aspose.com/c/imaging/10
+- **Forum d'assistance :** https://forum.aspose.com/c/imaging/14
 
 En exploitant Aspose.Imaging pour Java, vous pouvez enrichir vos applications avec des fonctionnalités avancées de traitement d'images. Bon codage !
 

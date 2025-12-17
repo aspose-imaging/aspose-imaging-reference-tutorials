@@ -172,7 +172,7 @@ As next steps, consider experimenting with other advanced features of Aspose.Ima
 - **Purchase License**: [Buy Now](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start Free Trial](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Request Here](https://purchase.aspose.com/temporary-license/)
-- **Support Forum**: [Ask Questions](https://forum.aspose.com/c/imaging/10)
+- **Support Forum**: [Ask Questions](https://forum.aspose.com/c/imaging/14)
 
 By exploring these resources, you'll have a solid foundation for mastering Aspose.Imaging and its capabilities. Happy coding!
 

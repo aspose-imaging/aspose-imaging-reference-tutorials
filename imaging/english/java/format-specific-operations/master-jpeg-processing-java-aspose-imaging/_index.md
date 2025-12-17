@@ -231,7 +231,7 @@ You've now learned how to load, decode, read properties, and convert JPEG images
 - **Purchase:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial:** [Get Started with a Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 We hope you found this guide helpful in mastering JPEG image processing with Aspose.Imaging for Java. Try implementing these solutions to see how they can enhance your projects!
 

@@ -167,7 +167,7 @@ Daha fazla okuma ve kaynak için:
 - **Satın almak:** [Lisans Edinimi](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Satın Almadan Önce Deneyin](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Burada Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu:** [Topluluğa Sor](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu:** [Topluluğa Sor](https://forum.aspose.com/c/imaging/14)
 
 Artık gerekli bilgiye sahip olduğunuza göre, bu teknikleri Java projelerinize uygulamaya başlayabilirsiniz!
 

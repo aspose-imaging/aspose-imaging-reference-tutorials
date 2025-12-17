@@ -189,7 +189,7 @@ WebP هو تنسيق صور يوفر ضغطًا فائقًا بدون فقدان
 - **رخصة الشراء:** [اشتري الآن](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** استكشف الميزات الكاملة باستخدام ترخيص مؤقت من [هنا](https://releases.aspose.com/imaging/net/).
 - **رخصة مؤقتة:** احصل على واحدة للتقييم في [هذا الرابط](https://purchase.aspose.com/temporary-license/).
-- **منتدى الدعم:** يزور [دعم مجتمع Aspose](https://forum.aspose.com/c/imaging/10) لأي أسئلة أو مشاكل.
+- **منتدى الدعم:** يزور [دعم مجتمع Aspose](https://forum.aspose.com/c/imaging/14) لأي أسئلة أو مشاكل.
 
 باتباع هذا الدليل الشامل، أصبحتَ الآن جاهزًا لإنشاء صور WebP باستخدام Aspose.Imaging لـ .NET بكفاءة وفعالية. برمجة ممتعة!
 

@@ -161,7 +161,7 @@ image.Save(outputPath);
 - **ซื้อ**- [การขอใบอนุญาต](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [ทดลองใช้ Aspose.Imaging ฟรี](https://releases.aspose.com/imaging/net/)
 - **ใบอนุญาตชั่วคราว**- [ขอคำร้องได้ที่นี่](https://purchase.aspose.com/temporary-license/)
-- **ฟอรั่มสนับสนุน**- [ชุมชนสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- **ฟอรั่มสนับสนุน**- [ชุมชนสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 หากปฏิบัติตามคำแนะนำที่ครอบคลุมนี้ คุณจะสามารถจัดการกับงานการประมวลผลภาพในแอปพลิเคชัน .NET ได้อย่างมั่นใจและมีประสิทธิภาพ ขอให้สนุกกับการเขียนโค้ด!
 

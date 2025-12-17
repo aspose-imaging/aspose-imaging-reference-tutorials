@@ -165,7 +165,7 @@ Teraz powinieneś mieć solidne zrozumienie, jak ładować obrazy TIFF i zapisyw
 - **Zakup**:Przeglądaj opcje zakupu na [Strona zakupów Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**:Rozpocznij od bezpłatnego okresu próbnego [Tutaj](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**:Złóż wniosek o tymczasową licencję na [Strona licencji tymczasowej](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**:Dołącz do dyskusji i poszukaj pomocy na [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**:Dołącz do dyskusji i poszukaj pomocy na [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij już dziś przygodę ze znajomością Aspose.Imaging w Javie i zmień sposób, w jaki radzisz sobie z zadaniami przetwarzania obrazów!
 

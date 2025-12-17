@@ -206,7 +206,7 @@ Explore funciones adicionales y opciones de personalización en la documentació
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Solicitud de licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 ¡Siéntete libre de explorar estos recursos para obtener orientación y soporte adicional a medida que implementas Aspose.Imaging en tus proyectos Java!
 

@@ -237,7 +237,7 @@ R5: Embora as operações Aspose.Imaging não sejam inerentemente seguras para t
 - **Comprar:** [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Experimente o Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licença temporária:** [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar:** [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar:** [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Comece sua jornada com o Aspose.Imaging para Java hoje mesmo e libere todo o potencial do processamento de imagens em seus aplicativos!
 

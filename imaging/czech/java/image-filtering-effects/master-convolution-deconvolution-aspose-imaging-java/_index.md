@@ -195,7 +195,7 @@ A: Knihovna je robustní, ale může mít omezení výkonu u extrémně velkých
 - **Nákup**: [Koupit Aspose Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začněte s bezplatnou zkušební verzí](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Žádost zde](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Ptejte se](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Ptejte se](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu jste na dobré cestě k zvládnutí výkonných funkcí pro zpracování obrazu, které nabízí Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

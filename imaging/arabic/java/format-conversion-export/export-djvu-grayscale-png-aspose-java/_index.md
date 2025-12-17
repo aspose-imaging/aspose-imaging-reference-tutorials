@@ -194,7 +194,7 @@ A3: التحقق من مسارات الملفات، والتحقق من سجلا
 - **شراء**: https://purchase.aspose.com/buy
 - **نسخة تجريبية مجانية**: https://releases.aspose.com/imaging/java/
 - **رخصة مؤقتة**: https://purchase.aspose.com/temporary-license/
-- **يدعم**: https://forum.aspose.com/c/imaging/10
+- **يدعم**: https://forum.aspose.com/c/imaging/14
 
 استكشف هذه الموارد لتعميق فهمك وإتقانك لـ Aspose.Imaging لجافا. برمجة ممتعة!
 

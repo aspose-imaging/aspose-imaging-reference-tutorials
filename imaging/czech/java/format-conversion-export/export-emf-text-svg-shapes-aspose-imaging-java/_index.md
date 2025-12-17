@@ -187,7 +187,7 @@ Rozhodně je navržen tak, aby splňoval požadavky jak na osobní, tak na podni
 
 **5. Kde mohu získat podporu, když ji potřebuji?**
 
-Navštivte [Fórum Aspose](https://forum.aspose.com/c/imaging/10) pro pomoc komunity nebo kontaktujte jejich tým podpory přímo prostřednictvím jejich webových stránek.
+Navštivte [Fórum Aspose](https://forum.aspose.com/c/imaging/14) pro pomoc komunity nebo kontaktujte jejich tým podpory přímo prostřednictvím jejich webových stránek.
 
 ## Zdroje
 

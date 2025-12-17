@@ -133,7 +133,7 @@ A: Aspose.Imaging supporta operazioni batch tramite cicli e parallelismo delle a
 - **Acquistare**: [Acquista licenza](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Prova ora](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea**: [Ottieni la licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Forum di supporto**: [Fai domande qui](https://forum.aspose.com/c/imaging/10)
+- **Forum di supporto**: [Fai domande qui](https://forum.aspose.com/c/imaging/14)
 
 Inizia subito a utilizzare Aspose.Imaging per potenziare le tue applicazioni .NET con potenti funzionalità di elaborazione delle immagini!
 

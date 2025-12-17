@@ -160,7 +160,7 @@ V5: A konfigurációs beállítások optimalizálásával, a memória hatékony 
 - **Licenc vásárlása**: [Aspose licencelés](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Aspose.Imaging letöltése](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Aspose képalkotási támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Aspose képalkotási támogatás](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

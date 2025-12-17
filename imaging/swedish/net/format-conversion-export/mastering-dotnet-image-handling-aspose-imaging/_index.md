@@ -170,7 +170,7 @@ Genom den här handledningen har du lärt dig grunderna i att ladda och spara bi
 - **Köpa:** [Köp en licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Starta din gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens:** [Begär tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden är du nu rustad att hantera .NET-bildbehandling med tillförsikt med Aspose.Imaging för .NET. Lycka till med kodningen!
 

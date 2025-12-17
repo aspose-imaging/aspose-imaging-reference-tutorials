@@ -187,7 +187,7 @@ try (SvgImage resultImage = graphics.endRecording()) {
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用訊息](https://releases.aspose.com/imaging/java/)
 - [臨時許可證申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 按照本指南操作，您現在應該能夠使用 Aspose.Imaging for Java 將光柵圖像整合到 SVG 畫布中。祝您編碼愉快！
 

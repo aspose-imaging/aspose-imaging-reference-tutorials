@@ -148,7 +148,7 @@ Utilize fluxos armazenados em buffer e garanta o descarte adequado de recursos p
 - **Comprar:** [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Comece com um teste gratuito](https://releases.aspose.com/imaging/net/)
 - **Licença temporária:** [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar:** [Suporte do Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar:** [Suporte do Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Este guia foi criado para ajudar você a aproveitar todo o potencial do Aspose.Imaging para seus projetos .NET. Boa programação!
 

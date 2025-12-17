@@ -202,7 +202,7 @@ Redo att ta dina kunskaper vidare? Försök att implementera dessa lösningar i 
 - **Köplicens**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Starta din gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Begär en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**: [Aspose-stöd](https://forum.aspose.com/c/imaging/10)
+- **Supportforum**: [Aspose-stöd](https://forum.aspose.com/c/imaging/14)
 
 Med den här omfattande guiden är du nu rustad att bemästra PNG-bildbehandling i Java med hjälp av Aspose.Imaging. Lycka till med kodningen!
 

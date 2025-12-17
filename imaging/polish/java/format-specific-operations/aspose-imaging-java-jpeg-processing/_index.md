@@ -191,7 +191,7 @@ Użyj `dispose()` metoda na obiektach Image w celu zwolnienia pamięci po zakoń
 - **Zakup:** [Kup licencję Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Bezpłatne wersje próbne Aspose Imaging](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa:** [Poproś o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie:** [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie:** [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Postępując zgodnie z tym samouczkiem, wyposażysz się w wiedzę, aby sprawnie ładować i zapisywać pliki JPEG za pomocą Aspose.Imaging dla Java. Miłego kodowania!
 

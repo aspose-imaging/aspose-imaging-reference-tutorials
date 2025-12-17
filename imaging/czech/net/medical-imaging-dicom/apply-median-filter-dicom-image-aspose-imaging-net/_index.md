@@ -152,7 +152,7 @@ Jste připraveni posunout své dovednosti dále? Implementujte toto řešení do
 - [Nákup](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/net/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Podpora](https://forum.aspose.com/c/imaging/10)
+- [Podpora](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

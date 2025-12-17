@@ -174,7 +174,7 @@ Gefeliciteerd met het beheersen van het converteren van TIFF-frames naar BMP-bes
 - [Licenties kopen](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Ga aan de slag met het beheersen van beeldverwerking met Aspose.Imaging Java en ontdek nieuwe mogelijkheden bij het verwerken van TIFF-afbeeldingen.
 

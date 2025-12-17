@@ -234,7 +234,7 @@ A: Használjon aszinkron műveleteket, kezelje hatékonyan a memóriát, és fon
 - **Vásárlás:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Próbáld ki az Aspose.Imaging-et](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

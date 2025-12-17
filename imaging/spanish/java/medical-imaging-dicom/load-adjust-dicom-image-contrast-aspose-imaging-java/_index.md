@@ -179,7 +179,7 @@ Para explorar más a fondo lo que ofrece Aspose.Imaging, considere experimentar 
 - **Licencia de compra:** [Comprar ahora](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Comience su prueba gratuita](https://releases.aspose.com/imaging/java/)
 - **Solicitud de licencia temporal:** [Solicitar aquí](https://purchase.aspose.com/temporary-license/)
-- **Foro de soporte:** [Comunidad de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Foro de soporte:** [Comunidad de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo esta guía, estará bien preparado para gestionar tareas de procesamiento de imágenes DICOM en sus aplicaciones Java con Aspose.Imaging. ¡Que disfrute programando!
 

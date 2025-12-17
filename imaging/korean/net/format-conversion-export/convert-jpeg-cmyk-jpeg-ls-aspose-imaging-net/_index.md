@@ -186,7 +186,7 @@ Aspose.Imaging을 사용하여 .NET에서 이미지 변환 작업을 수행할 �
 - **라이센스 구매:** [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [Aspose.Imaging을 무료로 사용해 보세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허:** [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [Aspose.Imaging 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** [Aspose.Imaging 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 통해 .NET 애플리케이션에서 JPEG-LS CMYK 변환을 효과적으로 구현하여 품질과 효율성을 모두 향상시킬 수 있습니다. 즐거운 코딩 되세요!
 

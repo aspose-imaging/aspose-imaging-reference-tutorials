@@ -191,7 +191,7 @@ Klaar om je nieuwe vaardigheden in de praktijk te brengen? Probeer deze functies
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Gebruik deze bronnen om uw begrip te verdiepen en uw implementatie van Aspose.Imaging voor .NET te verbeteren. Veel plezier met coderen!
 

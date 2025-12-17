@@ -179,7 +179,7 @@ Aspose.Imaging を使用して .NET で JPEG2000 画像を処理する基礎を�
 訪問 [Asposeのウェブサイト](https://purchase.aspose.com/temporary-license/) 一時ライセンスを申請します。
 
 ### Aspose.Imaging .NET で問題が発生した場合、サポートはどこで受けられますか?
-サポートが必要な場合は、 [Asposeフォーラム](https://forum.aspose.com/c/imaging/10) または、豊富なドキュメントやリソースを参照してください。
+サポートが必要な場合は、 [Asposeフォーラム](https://forum.aspose.com/c/imaging/14) または、豊富なドキュメントやリソースを参照してください。
 
 ## リソース
 - **ドキュメント:** 詳細なガイドをご覧ください [Aspose ドキュメント](https://reference.aspose.com/imaging/net/)

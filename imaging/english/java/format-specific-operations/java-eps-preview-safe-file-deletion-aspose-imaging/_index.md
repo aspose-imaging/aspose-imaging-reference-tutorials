@@ -227,7 +227,7 @@ A5: Yes, while you can start with a free trial, purchasing a license is necessar
 - **Purchase**: Buy a license through [Aspose Purchase](https://purchase.aspose.com/buy).
 - **Free Trial**: Start with a trial to test out features at [Aspose Free Trials](https://releases.aspose.com/imaging/java/).
 - **Temporary License**: Request one via [Aspose Temporary License](https://purchase.aspose.com/temporary-license/).
-- **Support**: For questions, reach out on the [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Support**: For questions, reach out on the [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 By following this tutorial and utilizing Aspose.Imaging for Java, you'll be well-equipped to handle EPS image previews and safe file deletions in your projects. Happy coding!
 

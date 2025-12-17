@@ -150,7 +150,7 @@ A5: Các nhiệm vụ bao gồm thay đổi kích thước, chuyển đổi đ�
 - **Mua:** Khám phá các tùy chọn cấp phép tại [Mua Aspose](https://purchase.aspose.com/buy).
 - **Dùng thử miễn phí:** Bắt đầu bằng một thử nghiệm thông qua [đây](https://releases.aspose.com/imaging/net/).
 - **Giấy phép tạm thời:** Yêu cầu một để thử nghiệm mở rộng thông qua [liên kết này](https://purchase.aspose.com/temporary-license/).
-- **Ủng hộ:** Tham gia diễn đàn cộng đồng tại [Hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10).
+- **Ủng hộ:** Tham gia diễn đàn cộng đồng tại [Hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

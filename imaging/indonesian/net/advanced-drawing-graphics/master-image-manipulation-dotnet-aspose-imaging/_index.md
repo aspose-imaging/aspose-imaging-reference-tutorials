@@ -149,7 +149,7 @@ Siap untuk mulai menerapkan? Pelajari Aspose.Imaging dan maksimalkan potensinya!
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Selamat membuat kode dengan Aspose.Imaging untuk .NET! 🚀
 

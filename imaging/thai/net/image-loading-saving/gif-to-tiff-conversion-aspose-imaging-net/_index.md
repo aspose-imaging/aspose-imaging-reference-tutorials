@@ -177,7 +177,7 @@ A: TIFF ให้คุณภาพสูงกว่าและรองรั
 - **ซื้อใบอนุญาต**- [หน้าสั่งซื้อ Aspose](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [ทดลองใช้ Aspose.Imaging ฟรี](https://releases.aspose.com/imaging/net/)
 - **ใบอนุญาตชั่วคราว**- [ขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **การสนับสนุนและชุมชน**- [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10)
+- **การสนับสนุนและชุมชน**- [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

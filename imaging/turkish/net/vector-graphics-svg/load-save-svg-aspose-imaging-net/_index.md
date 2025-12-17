@@ -190,7 +190,7 @@ Başlamaya hazır mısınız? Bu teknikleri bir sonraki projenizde uygulayın ve
 - **Satın almak:** [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Aspose.Imaging'i deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans:** [Geçici Lisans Talebinde Bulunun](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging ile yolculuğunuza bugün başlayın ve .NET uygulamaları için görüntü işleme alanında yeni potansiyellerin kilidini açın!
 

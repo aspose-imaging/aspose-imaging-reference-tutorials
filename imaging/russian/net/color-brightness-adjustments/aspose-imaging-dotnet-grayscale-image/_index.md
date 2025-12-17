@@ -159,7 +159,7 @@ Aspose.Imaging для .NET универсален, что позволяет и�
 - **Покупка:** [Купить Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия:** [Попробуйте бесплатную пробную версию Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия:** [Получить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать:** [Форум Aspose Imaging](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать:** [Форум Aspose Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

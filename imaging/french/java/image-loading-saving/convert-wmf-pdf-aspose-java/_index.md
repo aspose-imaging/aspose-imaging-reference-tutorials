@@ -203,7 +203,7 @@ Dans ce tutoriel, vous avez appris à convertir des fichiers WMF en PDF avec Asp
 - [Acheter une licence](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 En maîtrisant ces étapes, vous serez prêt à convertir facilement des fichiers WMF en PDF. Bon codage !
 

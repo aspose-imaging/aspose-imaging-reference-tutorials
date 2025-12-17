@@ -133,7 +133,7 @@ image.Save(emfFilePath, emfOptions);
 **الخطوات التالية:**
 - استكشف المزيد من ميزات Aspose.Imaging
 - تجربة خيارات التحويل المختلفة
-- شارك بتعليقاتك أو اطرح الأسئلة في [منتدى Aspose](https://forum.aspose.com/c/imaging/10)
+- شارك بتعليقاتك أو اطرح الأسئلة في [منتدى Aspose](https://forum.aspose.com/c/imaging/14)
 
 هل أنت مستعد لتطبيق هذه المهارات؟ انطلق في مشروعك وابدأ بالتحويل اليوم!
 
@@ -160,7 +160,7 @@ A5: تحقق من مسارات الملفات، وتأكد من تثبيت Aspos
 - **شراء**: [شراء ترخيص](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [ابدأ بإصدار تجريبي مجاني](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 لا تتردد في استكشاف هذه الموارد للحصول على إرشادات ودعم أكثر تفصيلاً أثناء تطبيق حلّك. برمجة ممتعة!
 

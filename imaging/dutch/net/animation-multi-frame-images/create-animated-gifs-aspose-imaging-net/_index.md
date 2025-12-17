@@ -153,7 +153,7 @@ De volgende stappen zijn het experimenteren met verschillende framereeksen en he
 - **Aankoop**: [Koop Aspose-licenties](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Aspose.Imaging gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Maak gebruik van deze hulpmiddelen en begin vandaag nog met het maken van dynamische GIF's!
 

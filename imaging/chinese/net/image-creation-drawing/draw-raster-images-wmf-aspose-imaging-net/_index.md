@@ -181,7 +181,7 @@ Aspose.Imaging 与 .NET Core 和 .NET 5/6+ 完全兼容，适合跨平台开发�
 使用 Aspose.Imaging 的配置选项调整分辨率和质量设置以保持图像完整性。
 
 **5. 如果我遇到 Aspose.Imaging 问题，可以获得支持吗？**
-是的，你可以寻求帮助 [Aspose 的论坛](https://forum.aspose.com/c/imaging/10) 寻求社区或官方支持。
+是的，你可以寻求帮助 [Aspose 的论坛](https://forum.aspose.com/c/imaging/14) 寻求社区或官方支持。
 
 ## 资源
 

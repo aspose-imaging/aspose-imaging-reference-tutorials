@@ -187,7 +187,7 @@ Det här kodavsnittet sparar den binäriserade bilden i JPEG-format, vilket säk
 
 Du har nu bemästrat grunderna i att använda Aspose.Imaging för Java för att ladda, bearbeta och spara bilder med binäriseringstekniker. Experimentera vidare genom att utforska andra funktioner som erbjuds av biblioteket, såsom avancerad filtrering eller formatkonvertering.
 
-Nästa steg inkluderar att integrera den här funktionen i dina projekt och experimentera med olika bildtyper och bearbetningsscenarier. Tveka inte att kontakta oss via [Aspose supportforum](https://forum.aspose.com/c/imaging/10) för eventuella frågor du kan ha!
+Nästa steg inkluderar att integrera den här funktionen i dina projekt och experimentera med olika bildtyper och bearbetningsscenarier. Tveka inte att kontakta oss via [Aspose supportforum](https://forum.aspose.com/c/imaging/14) för eventuella frågor du kan ha!
 
 ## FAQ-sektion
 

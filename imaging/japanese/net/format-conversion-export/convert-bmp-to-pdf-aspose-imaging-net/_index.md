@@ -128,7 +128,7 @@ A1: はい、ディレクトリを反復処理し、各ファイルに変換ロ�
 A2: 試用版はありますが、商用利用にはライセンスの取得が必要です。 [購入](https://purchase.aspose.com/buy) 詳細についてはこちらをご覧ください。
 
 **Q3: 変換エラーをトラブルシューティングするにはどうすればよいですか?**
-A3: ファイルパスを確認し、Aspose.Imagingが正しくインストールされていることを確認してください。 [サポートフォーラム](https://forum.aspose.com/c/imaging/10) 問題が解決しない場合は。
+A3: ファイルパスを確認し、Aspose.Imagingが正しくインストールされていることを確認してください。 [サポートフォーラム](https://forum.aspose.com/c/imaging/14) 問題が解決しない場合は。
 
 **Q4: 変換中に PDF ドキュメントのプロパティを変更できますか?**
 A4: はい、タイトル、著者、キーワードなどのさまざまなドキュメント情報プロパティを設定できます。 `PdfDocumentInfo`。
@@ -142,7 +142,7 @@ A5: 他のライブラリには ImageMagick や Ghostscript などがありま�
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドがお役に立てば幸いです。さあ、Aspose.Imaging for .NET を使って、BMP ファイルを PDF に変換してみませんか？
 

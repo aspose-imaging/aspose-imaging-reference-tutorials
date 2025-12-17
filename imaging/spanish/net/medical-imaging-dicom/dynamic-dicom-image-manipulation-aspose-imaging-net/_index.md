@@ -217,7 +217,7 @@ Siguiendo este tutorial, ha aprendido a dibujar en imágenes DICOM, manipular da
 - [Descargar Aspose.Imaging para .NET](https://releases.aspose.com/imaging/net/)
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Prueba gratuita y licencia temporal](https://releases.aspose.com/imaging/net/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Esta guía debería ayudarle a comenzar a dibujar y manipular imágenes DICOM utilizando Aspose.Imaging para .NET, proporcionándole una base para crear aplicaciones de procesamiento de imágenes más complejas.
 

@@ -210,7 +210,7 @@ A: Kaplama ve arka plan görsellerinizin yüksek çözünürlüklü olduğundan 
 - **Lisans Satın Al**: [Aspose Satın Alma Sayfası](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Java için Aspose.Imaging'i deneyin](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Aspose Görüntüleme Desteği](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: [Aspose Görüntüleme Desteği](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzla, Aspose.Imaging for Java kullanarak görüntüleri harmanlamaya başlamak için iyi bir donanıma sahip olacaksınız. İyi kodlamalar!
 

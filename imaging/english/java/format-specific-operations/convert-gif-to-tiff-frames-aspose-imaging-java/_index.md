@@ -222,7 +222,7 @@ Throughout this tutorial, we've explored how Aspose.Imaging for Java simplifies 
 ### Next Steps
 - Explore additional conversion options available in Aspose.Imaging.
 - Integrate this functionality into a larger project or workflow.
-- Share feedback or seek support from the [Aspose community forum](https://forum.aspose.com/c/imaging/10).
+- Share feedback or seek support from the [Aspose community forum](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ Section
 
@@ -248,7 +248,7 @@ A5: Explore the [Aspose.Imaging documentation](https://reference.aspose.com/imag
 - **Purchase:** https://purchase.aspose.com/buy
 - **Free Trial:** https://releases.aspose.com/imaging/java/
 - **Temporary License:** https://purchase.aspose.com/temporary-license/
-- **Support:** https://forum.aspose.com/c/imaging/10
+- **Support:** https://forum.aspose.com/c/imaging/14
 
 By leveraging Aspose.Imaging for Java, you can streamline your image conversion processes and unlock new possibilities in digital media handling. Happy coding!
 

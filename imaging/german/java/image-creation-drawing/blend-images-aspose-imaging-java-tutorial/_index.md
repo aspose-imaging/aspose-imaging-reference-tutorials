@@ -210,7 +210,7 @@ A: Stellen Sie sicher, dass Ihre Overlay- und Hintergrundbilder eine hohe Auflö
 - **Lizenz erwerben**: [Aspose-Kaufseite](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Testen Sie Aspose.Imaging für Java](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Erhalten Sie eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum**: [Aspose Imaging-Unterstützung](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum**: [Aspose Imaging-Unterstützung](https://forum.aspose.com/c/imaging/14)
 
 Mit dieser Anleitung sind Sie bestens gerüstet, um mit Aspose.Imaging für Java mit dem Mischen von Bildern zu beginnen. Viel Spaß beim Programmieren!
 

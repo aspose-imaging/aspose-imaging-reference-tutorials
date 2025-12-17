@@ -198,7 +198,7 @@ Bạn đã học cách tải và xuất tệp SVG sang PDF bằng Aspose.Imaging
 - [Mua](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu triển khai các tính năng này vào dự án của bạn ngay hôm nay và xem Aspose.Imaging for Java có thể cải thiện quy trình làm việc của bạn như thế nào!
 

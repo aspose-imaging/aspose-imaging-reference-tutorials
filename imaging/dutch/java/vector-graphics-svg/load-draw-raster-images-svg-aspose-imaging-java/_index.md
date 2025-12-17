@@ -187,7 +187,7 @@ In deze tutorial hebben we uitgelegd hoe je een rasterafbeelding laadt en tekent
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Informatie over gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u nu goed toegerust om rasterafbeeldingen te integreren in SVG-canvas met Aspose.Imaging voor Java. Veel plezier met coderen!
 

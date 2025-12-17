@@ -178,7 +178,7 @@ A5: Meskipun tidak ada batasan ketat yang diberlakukan oleh Aspose.Imaging sendi
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Versi Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Permintaan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda kini siap menerapkan penanganan gambar yang efektif dalam aplikasi Java Anda menggunakan Aspose.Imaging. Selamat membuat kode!
 

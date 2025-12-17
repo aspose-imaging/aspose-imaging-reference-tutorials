@@ -186,7 +186,7 @@ A5: Meskipun sangat mumpuni, beberapa fitur lanjutan mungkin memerlukan lisensi 
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Pencitraan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Pencitraan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan sumber daya dan panduan ini, Anda siap untuk mulai mengintegrasikan gambar WebP ke dalam proyek Java Anda menggunakan Aspose.Imaging. Selamat membuat kode!
 

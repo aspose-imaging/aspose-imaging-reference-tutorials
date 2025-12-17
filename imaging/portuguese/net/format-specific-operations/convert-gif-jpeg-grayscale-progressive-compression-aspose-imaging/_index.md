@@ -153,7 +153,7 @@ R: Sim, ele foi projetado para funcionar em diferentes versões do .NET Framewor
 - **Licença de compra**: [Página de compra da Aspose](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Experimente o Aspose.Imaging gratuitamente](https://releases.aspose.com/imaging/net/)
 - **Licença Temporária**: [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Fórum de Suporte**: [Comunidade de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum de Suporte**: [Comunidade de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ao dominar o processo de conversão com o Aspose.Imaging, você estará preparado para lidar com tarefas complexas de processamento de imagens com eficiência em seus aplicativos .NET. Boa programação!
 

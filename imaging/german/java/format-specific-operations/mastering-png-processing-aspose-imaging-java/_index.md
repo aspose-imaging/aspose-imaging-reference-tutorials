@@ -202,7 +202,7 @@ Bereit, Ihre Fähigkeiten zu erweitern? Versuchen Sie noch heute, diese Lösunge
 - **Lizenz erwerben**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Starten Sie Ihre kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Fordern Sie eine temporäre Lizenz an](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum**: [Aspose-Unterstützung](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum**: [Aspose-Unterstützung](https://forum.aspose.com/c/imaging/14)
 
 Mit diesem umfassenden Leitfaden sind Sie nun bestens gerüstet, um die PNG-Bildverarbeitung in Java mit Aspose.Imaging zu meistern. Viel Spaß beim Programmieren!
 

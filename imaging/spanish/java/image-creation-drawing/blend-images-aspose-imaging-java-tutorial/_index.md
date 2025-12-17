@@ -210,7 +210,7 @@ A: Asegúrate de que las imágenes de superposición y de fondo sean de alta res
 - **Licencia de compra**: [Página de compra de Aspose](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Pruebe Aspose.Imaging para Java](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal**: [Obtenga una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Foro de soporte**: [Soporte de imágenes de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Foro de soporte**: [Soporte de imágenes de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Con esta guía, estarás bien preparado para empezar a combinar imágenes con Aspose.Imaging para Java. ¡Que disfrutes programando!
 

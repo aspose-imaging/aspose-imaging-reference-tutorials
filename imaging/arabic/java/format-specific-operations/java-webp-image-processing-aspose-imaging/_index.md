@@ -197,7 +197,7 @@ try (FileOutputStream fs = new FileOutputStream("YOUR_OUTPUT_DIRECTORY/Animation
 - [شراء الترخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا الدليل الشامل، أصبحتَ الآن جاهزًا لمعالجة صور WebP في جافا بكفاءة وثقة. برمجة ممتعة!
 

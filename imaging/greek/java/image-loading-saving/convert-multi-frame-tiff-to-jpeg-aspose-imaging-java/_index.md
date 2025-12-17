@@ -256,7 +256,7 @@ license.setLicense("path_to_your_license.lic");
 - [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/14)
 
 Με αυτούς τους πόρους και τις νέες σας γνώσεις, είστε άρτια εξοπλισμένοι για να ξεκινήσετε τη μετατροπή εικόνων TIFF σε JPEG χρησιμοποιώντας το Aspose.Imaging για Java!
 

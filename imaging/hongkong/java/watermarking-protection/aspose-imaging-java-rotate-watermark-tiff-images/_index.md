@@ -258,7 +258,7 @@ A5：考慮以較小的區塊處理大影像，利用 Aspose.Imaging 的選項�
 - **購買許可證：** [購買許可證](https://purchase.aspose.com/buy)
 - **免費試用：** [取得免費試用版](https://releases.aspose.com/imaging/java/)
 - **臨時執照：** [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援論壇：** [Aspose.Imaging 支持](https://forum.aspose.com/c/imaging/10)
+- **支援論壇：** [Aspose.Imaging 支持](https://forum.aspose.com/c/imaging/14)
 
 我們希望本教學能幫助您掌握使用 Aspose.Imaging for Java 增強影像處理任務的技能。祝您程式愉快！
 

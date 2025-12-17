@@ -179,7 +179,7 @@ Vanliga problem inkluderar att bildobjekt inte hanteras korrekt och att man unde
 Besök [Asposes webbplats](https://purchase.aspose.com/temporary-license/) att ansöka om ett tillfälligt körkort.
 
 ### Var kan jag hitta support om jag stöter på problem med Aspose.Imaging .NET?
-För hjälp, gå till [Aspose-forumet](https://forum.aspose.com/c/imaging/10) eller konsultera deras omfattande dokumentation och resurser.
+För hjälp, gå till [Aspose-forumet](https://forum.aspose.com/c/imaging/14) eller konsultera deras omfattande dokumentation och resurser.
 
 ## Resurser
 - **Dokumentation:** Utforska detaljerade guider på [Aspose-dokumentation](https://reference.aspose.com/imaging/net/)

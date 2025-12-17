@@ -149,7 +149,7 @@ A3: Optimalizujte správu paměti a dolaďte nastavení konfigurace, jak je pops
 A4: Mezi běžné problémy patří nesprávné cesty k souborům, nesprávná nastavení konfigurace a nepodporované formáty obrázků. Vždy se ujistěte, že cesty jsou správné a konfigurace odpovídají vašim požadavkům.
 
 **Q5: Kde najdu další zdroje o Aspose.Imaging?**
-A5: Navštivte [Dokumentace Aspose](https://reference.aspose.com/imaging/net/) pro komplexní průvodce a [Fóra](https://forum.aspose.com/c/imaging/10) pro podporu komunity.
+A5: Navštivte [Dokumentace Aspose](https://reference.aspose.com/imaging/net/) pro komplexní průvodce a [Fóra](https://forum.aspose.com/c/imaging/14) pro podporu komunity.
 
 ## Zdroje
 - **Dokumentace:** [Referenční příručka k Aspose Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -157,7 +157,7 @@ A5: Navštivte [Dokumentace Aspose](https://reference.aspose.com/imaging/net/) p
 - **Nákup:** [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Zkušební verze ke stažení](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence:** [Žádost zde](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fóra Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fóra Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

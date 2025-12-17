@@ -210,7 +210,7 @@ Görüntüleme projelerinizi bir üst seviyeye taşımaya hazır mısınız? Bu 
 - **Satın almak:** [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Deneme Alın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Başvurusu Yapın](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzla, projelerinizde Aspose.Imaging Java'yı etkili bir şekilde kullanmak için iyi bir donanıma sahip olacaksınız. İyi kodlamalar!
 

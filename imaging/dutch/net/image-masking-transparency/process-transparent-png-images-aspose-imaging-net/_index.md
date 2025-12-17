@@ -145,7 +145,7 @@ In deze tutorial heb je geleerd hoe je een PNG-afbeelding laadt, de pixels extra
 - Ontdek andere bestandsindelingen die door Aspose.Imaging worden ondersteund.
 
 **Oproep tot actie:**
-Probeer deze functies in uw volgende project te implementeren om te zien hoe Aspose.Imaging voor .NET beeldverwerkingstaken kan stroomlijnen. Deel uw ervaringen of stel vragen in de [Aspose-forum](https://forum.aspose.com/c/imaging/10) als u uitdagingen tegenkomt.
+Probeer deze functies in uw volgende project te implementeren om te zien hoe Aspose.Imaging voor .NET beeldverwerkingstaken kan stroomlijnen. Deel uw ervaringen of stel vragen in de [Aspose-forum](https://forum.aspose.com/c/imaging/14) als u uitdagingen tegenkomt.
 
 ## FAQ-sectie
 1. **Wat is Aspose.Imaging voor .NET?**
@@ -165,7 +165,7 @@ Probeer deze functies in uw volgende project te implementeren om te zien hoe Asp
 - [Aankoopopties](https://purchase.aspose.com/buy)
 - [Gratis proeftoegang](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentieverwerving](https://purchase.aspose.com/temporary-license/)
-- [Ondersteunings- en communityforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteunings- en communityforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -202,7 +202,7 @@ Aspose.Imaging 旨在高效管理内存，但始终确保正确处理图像以�
 - **购买：** [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用：** [获取免费试用](https://releases.aspose.com/imaging/net/)
 - **临时执照：** [申请临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 通过遵循本指南，您将掌握使用 Aspose.Imaging 在 .NET 应用程序中有效管理 APNG 图像的技能。祝您编码愉快！
 

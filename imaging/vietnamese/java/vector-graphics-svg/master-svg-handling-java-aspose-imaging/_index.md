@@ -282,7 +282,7 @@ Bằng cách tận dụng Aspose.Imaging Java, bạn có thể quản lý SVG hi
 - [Tải xuống Aspose.Imaging cho Java](https://releases.aspose.com/imaging/java/)
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí và Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình với Aspose.Imaging Java ngay hôm nay để mở khóa khả năng xử lý hình ảnh mạnh mẽ trong ứng dụng của bạn!
 

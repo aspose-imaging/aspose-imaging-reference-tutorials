@@ -204,7 +204,7 @@ A5: बैच प्रोसेसिंग सुविधाओं का उ
 - [Java के लिए Aspose.Imaging डाउनलोड करें](https://releases.aspose.com/imaging/java/)
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण और अस्थायी लाइसेंस](https://releases.aspose.com/imaging/java/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java के साथ अपने ज्ञान और क्षमताओं का विस्तार करने के लिए इन संसाधनों में गोता लगाएँ। हैप्पी कोडिंग!
 

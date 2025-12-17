@@ -250,7 +250,7 @@ private static BezierShape createBezierShape(float ... coordinates) {
 - **Купить лицензию:** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Форум поддержки:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Форум поддержки:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 ---
 

@@ -173,7 +173,7 @@ A5: การใช้ `image.resize(width, height)` เพื่อปรับ
 - **ซื้อ**: https://purchase.aspose.com/ซื้อ
 - **ทดลองใช้งานฟรี**: https://releases.aspose.com/imaging/java/
 - **ใบอนุญาตชั่วคราว**: https://purchase.aspose.com/ใบอนุญาตชั่วคราว/
-- **สนับสนุน**: https://forum.aspose.com/c/imaging/10
+- **สนับสนุน**: https://forum.aspose.com/c/imaging/14
 
 หากทำตามคำแนะนำนี้ คุณจะสามารถจัดการรูปภาพในแอปพลิเคชัน Java ของคุณได้อย่างมีประสิทธิภาพด้วย Aspose.Imaging ขอให้สนุกกับการเขียนโค้ด!
 

@@ -189,7 +189,7 @@ Task.WaitAll(tasks.ToArray());
 - [شراء التراخيص](https://purchase.aspose.com/buy)
 - [الوصول إلى النسخة التجريبية المجانية](https://releases.aspose.com/imaging/net/)
 - [معلومات الترخيص المؤقت](https://purchase.aspose.com/temporary-license/)
-- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10) 
+- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14) 
 
 ابدأ رحلتك نحو معالجة الصور بكفاءة مع Aspose.Imaging واكتشف الإمكانات الكاملة لمعالجة الصور DJVU متعددة الخيوط في .NET!
 

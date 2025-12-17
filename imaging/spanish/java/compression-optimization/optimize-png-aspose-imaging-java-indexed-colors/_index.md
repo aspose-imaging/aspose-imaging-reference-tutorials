@@ -228,7 +228,7 @@ En este tutorial, aprendiste a usar Aspose.Imaging para Java para cargar, proces
 - **Compra**: [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Pruebe Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal**: [Obtener licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Foro de imágenes de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: [Foro de imágenes de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Al explorar estos recursos, podrá profundizar su comprensión de Aspose.Imaging y sus capacidades. ¡Que disfrute programando!
 

@@ -182,7 +182,7 @@ Aspose.Imaging을 최대한 활용하려면 라이선스 취득을 고려하세�
 - **다운로드**: [Aspose.Imaging 릴리스](https://releases.aspose.com/imaging/java/)
 - **구입**: [Aspose 라이선싱 옵션](https://purchase.aspose.com/buy)
 - **무료 체험**: [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [Aspose 지원 커뮤니티](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [Aspose 지원 커뮤니티](https://forum.aspose.com/c/imaging/14)
 
 이제 모든 도구와 지식을 갖추었으니 Aspose.Imaging for Java를 사용하여 이미지 처리 분야에서 창의력을 마음껏 발휘해 보세요!
 

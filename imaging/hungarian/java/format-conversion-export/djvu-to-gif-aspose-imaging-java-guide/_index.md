@@ -210,7 +210,7 @@ Készen állsz a következő lépésre? Próbáld ki ezeket a technikákat a pro
 - **Vásárlás:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Indítsa el az ingyenes próbaverziót](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ennek az oktatóanyagnak a követésével most már felkészült vagy arra, hogy az Aspose.Imaging for Java-t használd a projektjeidben. Jó kódolást!
 

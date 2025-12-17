@@ -189,7 +189,7 @@ Készen állsz arra, hogy a tanultakat a gyakorlatba is átültesd? Próbáld ki
    - Látogatás [Aspose ideiglenes engedély](https://purchase.aspose.com/temporary-license/) a beszerzésével kapcsolatos részletekért.
 
 5. **Milyen támogatási lehetőségek állnak rendelkezésre, ha problémákba ütközöm?**
-   - A [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10) segítséget kínál a közösségtől és az Aspose csapatától.
+   - A [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14) segítséget kínál a közösségtől és az Aspose csapatától.
 
 ## Erőforrás
 

@@ -185,7 +185,7 @@ A: While Aspose.Imaging is optimized for performance, consider using memory-effi
 - **Purchase**: [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start with a Free Trial of Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Join the Aspose Forum for Support](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Join the Aspose Forum for Support](https://forum.aspose.com/c/imaging/14)
 
 With these resources at your disposal, you're now equipped to tackle TIFF image processing with confidence. Happy coding!
 

@@ -148,7 +148,7 @@ Használjon pufferelt adatfolyamokat, és biztosítsa az erőforrások megfelel�
 - **Vásárlás:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Kezdje ingyenes próbaverzióval](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély:** [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórum Támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Fórum Támogatás](https://forum.aspose.com/c/imaging/14)
 
 Ez az útmutató segít kiaknázni az Aspose.Imaging teljes potenciálját .NET projektjeidben. Jó kódolást!
 

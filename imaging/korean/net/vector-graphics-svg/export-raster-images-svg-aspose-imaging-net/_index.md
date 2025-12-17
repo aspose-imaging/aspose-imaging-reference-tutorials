@@ -167,7 +167,7 @@ Aspose.Imaging for .NET을 사용하여 래스터 이미지를 SVG로 변환하�
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/net/)
 - [임시 면허 요청](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 포괄적인 가이드를 통해 프로젝트에서 Aspose.Imaging for .NET을 사용할 수 있습니다. 즐거운 코딩 되세요!
 

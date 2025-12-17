@@ -174,7 +174,7 @@ Vous savez maintenant comment charger des images et récupérer les dates de der
 - [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Demande de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 N'hésitez pas à explorer ces ressources pour obtenir des informations plus détaillées et de l'aide. Bon codage !
 

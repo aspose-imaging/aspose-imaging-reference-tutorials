@@ -181,7 +181,7 @@ Készen állsz a következő lépésre? Próbáld ki ezeket a technikákat a saj
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbálja ki az Aspose.Imaging-et ingyen](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Képalkotó Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Képalkotó Fórum](https://forum.aspose.com/c/imaging/14)
 
 Kezdj bele a képfeldolgozási utadba magabiztosan, tudván, hogy rendelkezel a sikerhez szükséges eszközökkel és tudással. Boldog programozást!
 

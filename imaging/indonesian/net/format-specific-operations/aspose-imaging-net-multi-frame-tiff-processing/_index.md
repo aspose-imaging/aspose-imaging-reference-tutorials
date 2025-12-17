@@ -167,7 +167,7 @@ Anda kini telah menguasai pemuatan dan penyimpanan bingkai TIFF menggunakan Aspo
 - **Pembelian**: [Beli Lisensi untuk Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulailah dengan Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Pencitraan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Pencitraan Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -160,7 +160,7 @@ Optimaliseer het geheugengebruik door afbeeldingen in kleinere stukken te verwer
 Aspose.Imaging richt zich primair op DICOM, maar ondersteunt ook een groot aantal andere beeldformaten.
 
 **5. Waar kan ik hulp krijgen als ik problemen heb met Aspose.Imaging?**
-Bezoek de [Aspose-forums](https://forum.aspose.com/c/imaging/10) voor ondersteuning en om in contact te komen met andere gebruikers en experts.
+Bezoek de [Aspose-forums](https://forum.aspose.com/c/imaging/14) voor ondersteuning en om in contact te komen met andere gebruikers en experts.
 
 ## Bronnen
 

@@ -195,7 +195,7 @@ image.Save(outputPath, exportOptions);
 - **购买：** [购买许可证](https://purchase.aspose.com/buy)
 - **免费试用：** [免费试用](https://releases.aspose.com/imaging/net/)
 - **临时执照：** [点击此处获取](https://purchase.aspose.com/temporary-license/)
-- **支持：** [社区论坛](https://forum.aspose.com/c/imaging/10)
+- **支持：** [社区论坛](https://forum.aspose.com/c/imaging/14)
 
 我们希望本指南能够帮助您自信地使用 Aspose.Imaging for .NET 管理图像元数据。祝您编码愉快！
 

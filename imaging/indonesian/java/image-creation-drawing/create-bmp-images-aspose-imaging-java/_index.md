@@ -170,7 +170,7 @@ A3: Gunakan teknik manajemen memori yang efisien seperti mencoba dengan sumber d
 A4: Ya, Aspose.Imaging dapat digunakan bersama pustaka Java lainnya untuk solusi pemrosesan gambar yang komprehensif.
 
 **Q5: Di mana saya bisa mendapatkan dukungan jika saya mengalami masalah?**
-A5: Kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10) untuk bantuan dan panduan komunitas.
+A5: Kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14) untuk bantuan dan panduan komunitas.
 
 ## Sumber daya
 

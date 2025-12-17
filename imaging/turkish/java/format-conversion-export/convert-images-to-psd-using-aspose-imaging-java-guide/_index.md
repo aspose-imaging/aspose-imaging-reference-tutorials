@@ -258,7 +258,7 @@ C5: Dosya bulunamadı veya bellek sorunları gibi olası istisnaları yönetmek 
 - **Satın almak**: [Aspose Görüntülemeyi Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz deneyin](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Burada Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

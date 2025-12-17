@@ -196,7 +196,7 @@ try (TiffImage tiffImage = new TiffImage(new TiffFrame(options, 100, 100))) {
 - [Αγορά Άδειας Χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Αίτηση Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Κατακτώντας αυτές τις τεχνικές, θα είστε άρτια εξοπλισμένοι για να χειρίζεστε πολύπλοκες εργασίες επεξεργασίας εικόνας στις εφαρμογές Java που χρησιμοποιείτε. Καλή κωδικοποίηση!
 

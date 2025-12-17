@@ -160,7 +160,7 @@ A5: Absoluut. De robuuste functionaliteit en prestatieoptimalisaties maken het i
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer het gratis](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose.Imaging Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose.Imaging Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Met deze bronnen en deze handleiding bent u goed toegerust om aan de slag te gaan met DICOM-afbeeldingen met Aspose.Imaging in .NET. Veel plezier met coderen!
 

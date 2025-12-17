@@ -186,7 +186,7 @@ Opanowałeś już konwersję obrazów EMF do różnych formatów za pomocą Aspo
    - Do typowych problemów zaliczają się nieprawidłowe ścieżki plików i nieobsługiwane konwersje formatów. Upewnij się, że konfiguracja jest zgodna z krokami opisanymi w samouczku.
 
 5. **Gdzie mogę znaleźć pomoc dotyczącą Aspose.Imaging?**
-   - Odwiedź [Forum Aspose](https://forum.aspose.com/c/imaging/10) Aby uzyskać pomoc i nawiązać kontakt z innymi użytkownikami.
+   - Odwiedź [Forum Aspose](https://forum.aspose.com/c/imaging/14) Aby uzyskać pomoc i nawiązać kontakt z innymi użytkownikami.
 
 ## Zasoby
 

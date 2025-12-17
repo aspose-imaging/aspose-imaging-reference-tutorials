@@ -154,7 +154,7 @@ Aspose.Imaging Java を使った DICOM 画像のグレースケール化は、�
 - **購入**： [Aspose製品を購入する](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料でお試しください](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [リクエストはこちら](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [Aspose コミュニティ サポート](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [Aspose コミュニティ サポート](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging Java の旅に乗り出し、Java での画像処理の広大な可能性を探求しましょう。
 

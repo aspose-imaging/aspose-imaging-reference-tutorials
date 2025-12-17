@@ -128,7 +128,7 @@ När du arbetar med bildbehandling:
 ## Slutsats
 Den här handledningen lärde dig hur du konfigurerar BMP-alternativ och skapar bilder med Aspose.Imaging för .NET. Genom att följa stegen som beskrivs ovan kan du sömlöst integrera bildskapandefunktioner i dina applikationer.
 
-Överväg sedan att utforska fler funktioner i Aspose.Imaging eller fördjupa dig i andra bildformat som stöds av biblioteket. Om du har ytterligare frågor eller behöver hjälp kan du läsa vår [supportforum](https://forum.aspose.com/c/imaging/10).
+Överväg sedan att utforska fler funktioner i Aspose.Imaging eller fördjupa dig i andra bildformat som stöds av biblioteket. Om du har ytterligare frågor eller behöver hjälp kan du läsa vår [supportforum](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ-sektion
 1. **Vad är Aspose.Imaging för .NET?**

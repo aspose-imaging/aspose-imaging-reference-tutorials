@@ -203,7 +203,7 @@ Siap menerapkan solusi ini dalam proyek Anda sendiri? Pelajari lebih lanjut doku
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Dapatkan Lisensi Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Komunitas Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Komunitas Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan memanfaatkan Aspose.Imaging untuk Java, Anda dapat menyederhanakan alur kerja pemrosesan dokumen dan menangani file DjVu dengan mudah. Selamat membuat kode!
 

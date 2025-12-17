@@ -206,7 +206,7 @@ Klaar om deze kennis in de praktijk te brengen? Duik dieper in de [Aspose.Imagin
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 kunt deze bronnen bekijken voor extra begeleiding en ondersteuning bij de implementatie van Aspose.Imaging in uw Java-projecten!
 

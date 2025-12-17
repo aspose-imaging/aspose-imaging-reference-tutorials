@@ -161,7 +161,7 @@ Voor meer informatie en assistentie:
 - **Aankoop**: [Een licentie verkrijgen](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Hier aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Aspose Ondersteuningscommunity](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Aspose Ondersteuningscommunity](https://forum.aspose.com/c/imaging/14)
 
 Door deze uitgebreide handleiding te volgen, bent u goed toegerust om beeldverwerkingstaken in uw .NET-applicaties met vertrouwen en efficiëntie uit te voeren. Veel plezier met coderen!
 

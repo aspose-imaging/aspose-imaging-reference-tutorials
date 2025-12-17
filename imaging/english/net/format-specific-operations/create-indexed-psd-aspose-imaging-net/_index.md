@@ -155,7 +155,7 @@ Ready to explore more? Try implementing the solution in a real-world scenario!
 - **Purchase:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial:** [Start with a Free Trial](https://releases.aspose.com/imaging/net/)
 - **Temporary License:** [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum:** [Aspose Support](https://forum.aspose.com/c/imaging/10)
+- **Support Forum:** [Aspose Support](https://forum.aspose.com/c/imaging/14)
 
 Embark on your imaging journey with Aspose.Imaging today, and unlock new possibilities in digital image manipulation!
 

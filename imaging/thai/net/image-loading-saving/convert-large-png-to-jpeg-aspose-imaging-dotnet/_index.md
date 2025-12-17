@@ -131,7 +131,7 @@ using (var image = Aspose.Imaging.Image.Load(dataDir + "/halfGigImage.png"))
 A: ใช่ หลังจากที่ได้รับใบอนุญาตที่เหมาะสมจาก Aspose แล้ว
 
 **ถาม: มีการสนับสนุนหรือไม่หากฉันประสบปัญหา?**
-ก. การเยี่ยมชม [ฟอรั่มสนับสนุนของ Aspose](https://forum.aspose.com/c/imaging/10) เพื่อขอความช่วยเหลือหรือดูเอกสารประกอบ
+ก. การเยี่ยมชม [ฟอรั่มสนับสนุนของ Aspose](https://forum.aspose.com/c/imaging/14) เพื่อขอความช่วยเหลือหรือดูเอกสารประกอบ
 
 ## ทรัพยากร
 - **เอกสารประกอบ:** [เอกสารประกอบ Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)

@@ -218,7 +218,7 @@ A: Aspose.Imaging은 엔터프라이즈 애플리케이션에 맞춰 고품질 �
 - **구입**: 라이센스 또는 평가판을 구매하세요 [Aspose 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: Aspose.Imaging을 이것으로 시도해보세요 [무료 체험 링크](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: 임시 면허를 취득하세요 [이 링크](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: 이미지 처리 과제에 대한 토론에 참여하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: 이미지 처리 과제에 대한 토론에 참여하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 CMX 파일을 원활하게 변환할 수 있는 도구와 지식을 갖추고 있다는 확신을 가지고 다음 프로젝트를 시작하세요. 즐거운 코딩 되세요!
 

@@ -188,7 +188,7 @@ Vous avez appris à convertir efficacement des images en niveaux de gris avec As
 - **Télécharger**: Obtenez la dernière version à partir de [Sorties d'Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Achat et essai**: Découvrez les options d'achat et commencez par un essai gratuit [ici](https://purchase.aspose.com/buy)
 - **Permis temporaire**: Obtenir un permis temporaire [ici](https://purchase.aspose.com/temporary-license/)
-- **Soutien**:Rejoignez le forum communautaire à [Forum d'imagerie Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**:Rejoignez le forum communautaire à [Forum d'imagerie Aspose](https://forum.aspose.com/c/imaging/14)
 
 Nous espérons que ce guide vous permettra d'utiliser efficacement Aspose.Imaging pour Java dans vos projets. Bon codage !
 

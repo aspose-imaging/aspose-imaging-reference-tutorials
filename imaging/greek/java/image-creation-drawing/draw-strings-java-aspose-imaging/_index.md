@@ -204,7 +204,7 @@ image.save();
 - **Αγορά:** [Αγοράστε Άδεια Χρήσης Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Δοκιμάστε το Aspose.Imaging δωρεάν](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Υποστήριξη:** [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Εξερευνήστε αυτούς τους πόρους για να διευρύνετε την κατανόησή σας και τις δυνατότητές σας με το Aspose.Imaging για Java. Καλή κωδικοποίηση!
 

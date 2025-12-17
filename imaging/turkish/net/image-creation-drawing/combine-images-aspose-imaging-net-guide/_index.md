@@ -190,7 +190,7 @@ Daha fazla okuma ve kaynak için:
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kaynaklar ve ipuçlarıyla, Aspose.Imaging for .NET kullanarak herhangi bir görüntü düzenleme zorluğunun üstesinden gelmek için iyi bir donanıma sahip olacaksınız. İyi kodlamalar!
 

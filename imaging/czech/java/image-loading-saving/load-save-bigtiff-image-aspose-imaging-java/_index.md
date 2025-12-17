@@ -190,7 +190,7 @@ Chcete-li dále rozšířit své možnosti, prozkoumejte další funkce Aspose.I
 - [Stáhněte si Aspose.Imaging pro Javu](https://releases.aspose.com/imaging/java/)
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze a dočasná licence](https://releases.aspose.com/imaging/java/), [Stránka s dočasnou licencí](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Prozkoumejte tyto zdroje a prohloubete si znalosti o Aspose.Imaging pro Javu, abyste byli připraveni zvládnout veškeré potřeby zpracování obrázků BigTIFF.
 

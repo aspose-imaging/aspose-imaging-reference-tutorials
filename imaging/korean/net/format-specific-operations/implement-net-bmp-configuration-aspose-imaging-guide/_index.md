@@ -160,7 +160,7 @@ A5: 구성 설정을 최적화하고, 메모리를 효율적으로 관리하고,
 - **라이센스 구매**: [Aspose 라이센싱](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging 다운로드](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [Aspose 이미징 지원](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [Aspose 이미징 지원](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

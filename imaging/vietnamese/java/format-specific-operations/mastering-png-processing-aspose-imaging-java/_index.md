@@ -202,7 +202,7 @@ Sẵn sàng nâng cao kỹ năng của bạn? Hãy thử áp dụng các giải 
 - **Mua giấy phép**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Với hướng dẫn toàn diện này, giờ đây bạn đã có đủ khả năng để thành thạo xử lý ảnh PNG trong Java bằng Aspose.Imaging. Chúc bạn viết mã vui vẻ!
 

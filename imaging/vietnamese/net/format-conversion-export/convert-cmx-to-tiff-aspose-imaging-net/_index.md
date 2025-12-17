@@ -182,7 +182,7 @@ Sẵn sàng áp dụng những kỹ năng này vào thực tế? Hãy khám phá
 4. **Tôi phải làm gì nếu tệp TIFF của tôi bị hỏng sau khi chuyển đổi?**
    - Xác minh rằng các tùy chọn rasterization phù hợp với yêu cầu của hình ảnh và kiểm tra đường dẫn tệp xem có lỗi không.
 5. **Có hỗ trợ nào không nếu tôi gặp sự cố với Aspose.Imaging?**
-   - Vâng, hãy ghé thăm [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10) để được cộng đồng hỗ trợ hoặc liên hệ trực tiếp với nhóm hỗ trợ của họ.
+   - Vâng, hãy ghé thăm [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14) để được cộng đồng hỗ trợ hoặc liên hệ trực tiếp với nhóm hỗ trợ của họ.
 
 ## Tài nguyên
 - [Tài liệu Aspose.Imaging](https://reference.aspose.com/imaging/net/)

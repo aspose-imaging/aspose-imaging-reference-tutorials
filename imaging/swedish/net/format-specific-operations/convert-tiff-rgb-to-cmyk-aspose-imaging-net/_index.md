@@ -140,7 +140,7 @@ Du har lärt dig hur man konverterar TIFF RGB-bilder till CMYK med Aspose.Imagin
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provversion](https://releases.aspose.com/imaging/net/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden kommer du att vara väl rustad för att bemästra bildfärgrymdskonvertering med Aspose.Imaging för .NET. Lycka till med kodningen!
 

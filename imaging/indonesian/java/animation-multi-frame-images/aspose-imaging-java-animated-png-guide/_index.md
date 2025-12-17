@@ -196,7 +196,7 @@ A: Tentu saja, Anda dapat menggunakannya bersama kerangka kerja seperti Spring a
 - **Pembelian:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)  
 - **Percobaan Gratis:** [Get Started with Free Trial](https://releases.aspose.com/imaging/java/)  
 - **Lisensi Sementara:** [Acquire Temporary License](https://purchase.aspose.com/temporary-license/)  
-- **Forum Dukungan:** [Aspose Community Support](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan:** [Aspose Community Support](https://forum.aspose.com/c/imaging/14)
 
 ---
 

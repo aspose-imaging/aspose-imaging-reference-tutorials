@@ -193,7 +193,7 @@ Aspose.Imaging for .NET を実装して TIFF 画像を効率的に読み込み�
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料試用版](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 今すぐ、.NET で Aspose.Imaging を使用して TIFF 処理を最適化する旅に出かけましょう。
 

@@ -173,7 +173,7 @@ Aspose.Imaging の機能をさらに詳しく調べるには、包括的なド�
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料試用版](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス情報](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従うことで、Aspose.Imaging for Java を使って JPEG 画像の品質を管理するための堅牢なソリューションを実装する準備が整います。コーディングを楽しみましょう！
 

@@ -182,7 +182,7 @@ Redo att omsätta dessa färdigheter i praktiken? Fördjupa dig i Aspose.Imaging
 4. **Vad ska jag göra om mina TIFF-filer verkar skadade efter konvertering?**
    - Kontrollera att rasteriseringsalternativen matchar bildens krav och kontrollera filsökvägarna för fel.
 5. **Finns det support tillgänglig om jag stöter på problem med Aspose.Imaging?**
-   - Ja, besök [Aspose-forumet](https://forum.aspose.com/c/imaging/10) för communitysupport eller kontakta deras supportteam direkt.
+   - Ja, besök [Aspose-forumet](https://forum.aspose.com/c/imaging/14) för communitysupport eller kontakta deras supportteam direkt.
 
 ## Resurser
 - [Aspose.Imaging-dokumentation](https://reference.aspose.com/imaging/net/)

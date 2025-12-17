@@ -169,7 +169,7 @@ Door deze handleiding te volgen, heb je geleerd hoe je SVG-bestanden kunt conver
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Met deze uitgebreide handleiding bent u goed toegerust om de kracht van Aspose.Imaging voor Java te benutten bij het transformeren van SVG's naar HTML5 canvas-elementen. Veel plezier met coderen!
 

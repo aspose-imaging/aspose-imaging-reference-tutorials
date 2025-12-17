@@ -165,7 +165,7 @@ A5: By optimizing configuration settings, managing memory efficiently, and lever
 - **Purchase License**: [Aspose Licensing](https://purchase.aspose.com/buy)
 - **Free Trial**: [Download Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum**: [Aspose Imaging Support](https://forum.aspose.com/c/imaging/10)
+- **Support Forum**: [Aspose Imaging Support](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

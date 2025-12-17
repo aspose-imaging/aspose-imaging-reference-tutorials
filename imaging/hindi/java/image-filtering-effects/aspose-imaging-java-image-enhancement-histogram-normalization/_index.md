@@ -184,7 +184,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **खरीदना**: [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [परीक्षण सुविधाएँ](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस**: [यहां अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [फोरम में शामिल हों](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [फोरम में शामिल हों](https://forum.aspose.com/c/imaging/14)
 
 इन दिशा-निर्देशों का पालन करके, आप Aspose.Imaging Java के हिस्टोग्राम सामान्यीकरण सुविधाओं का उपयोग करके अपनी छवियों को बेहतर बनाने के लिए अच्छी तरह से सुसज्जित होंगे। हैप्पी कोडिंग!
 

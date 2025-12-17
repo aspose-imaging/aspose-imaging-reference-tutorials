@@ -198,7 +198,7 @@ Thử nghiệm với các trường EXIF khác nhau và khám phá các tính n�
    - Chắc chắn rồi, nó được thiết kế để xử lý hiệu quả các yêu cầu hiệu suất cao.
 
 5. **Tôi có thể đóng góp cho cộng đồng hoặc tìm kiếm sự trợ giúp để giải quyết vấn đề như thế nào?**
-   - Tham gia [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10) để đặt câu hỏi và chia sẻ hiểu biết.
+   - Tham gia [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14) để đặt câu hỏi và chia sẻ hiểu biết.
 
 ## Tài nguyên
 

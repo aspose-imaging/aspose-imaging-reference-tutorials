@@ -200,7 +200,7 @@ Ready to try it out? Head over to [Aspose.Imaging Documentation](https://referen
    - JDK 8 or higher and a compatible Java IDE.
 
 5. **Where can I find support if I encounter issues?**
-   - Join the [Aspose Forum](https://forum.aspose.com/c/imaging/10) for community and official support.
+   - Join the [Aspose Forum](https://forum.aspose.com/c/imaging/14) for community and official support.
 
 ## Resources
 

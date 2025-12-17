@@ -141,7 +141,7 @@ foreach (var resource in imageResources)
 - **شراء**: [الحصول على ترخيص](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [ابدأ بالتجربة المجانية](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم**: [دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم**: [دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 صُمم هذا البرنامج التعليمي لإرشادك إلى كيفية استخدام Aspose.Imaging لـ .NET بفعالية، مما يضمن لك الاستفادة القصوى من هذه المكتبة الفعّالة. برمجة ممتعة!
 

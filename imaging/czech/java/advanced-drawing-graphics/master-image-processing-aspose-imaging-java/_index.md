@@ -193,7 +193,7 @@ A: Rozhodně – běží kdekoliv je podporována Java, včetně Windows, Linuxu
 - **Koupit**: [Buy Aspose Products](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Start a Free Trial](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Nyní, vybaveni těmito znalostmi, jste připraveni implementovat Aspose.Imaging ve svých Java projektech pro rozšířené možnosti zpracování obrázků. Šťastné programování!
 

@@ -190,7 +190,7 @@ Som nästa steg kan du överväga att utforska ytterligare funktioner som storle
 - **Köpa:** [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Aspose.Imaging Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose Bildforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose Bildforum](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din resa mot avancerad bildbehandling med Aspose.Imaging för Java och lås upp ny potential i dina applikationer!
 

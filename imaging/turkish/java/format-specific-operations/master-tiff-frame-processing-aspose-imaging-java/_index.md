@@ -165,7 +165,7 @@ Artık, Aspose.Imaging for Java kullanarak TIFF görüntülerinin nasıl yüklen
 - **Satın almak**: Satın alma seçeneklerini keşfedin [Aspose'un Satın Alma Sayfası](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: Ücretsiz denemeyle başlayın [Burada](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: Geçici lisans için başvuruda bulunun [Geçici Lisans sayfası](https://purchase.aspose.com/temporary-license/)
-- **Destek**: Tartışmalara katılın ve yardım isteyin [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek**: Tartışmalara katılın ve yardım isteyin [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging'i Java'da ustalaşma yolculuğunuza bugün başlayın ve görüntü işleme görevlerinizi ele alma biçiminizi değiştirin!
 

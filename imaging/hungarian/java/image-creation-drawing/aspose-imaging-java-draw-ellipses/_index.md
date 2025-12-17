@@ -206,7 +206,7 @@ Ezzel az útmutatóval megtanultad, hogyan rajzolhatsz pontozott és folytonos k
 - **Vásárlás**https://purchase.aspose.com/buy
 - **Ingyenes próbaverzió**https://releases.aspose.com/imaging/java/
 - **Ideiglenes engedély**https://purchase.aspose.com/temporary-license/
-- **Támogatás**https://forum.aspose.com/c/imaging/10
+- **Támogatás**https://forum.aspose.com/c/imaging/14
 
 Reméljük, hasznosnak találtad ezt az oktatóanyagot. Jó kódolást!
 

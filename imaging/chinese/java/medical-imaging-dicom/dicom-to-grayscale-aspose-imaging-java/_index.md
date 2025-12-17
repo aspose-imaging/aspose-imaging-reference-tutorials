@@ -154,7 +154,7 @@ image.save(outputFile, new BmpOptions());
 - **购买**： [购买 Aspose 产品](https://purchase.aspose.com/buy)
 - **免费试用**： [免费试用](https://releases.aspose.com/imaging/java/)
 - **临时执照**： [在此请求](https://purchase.aspose.com/temporary-license/)
-- **支持论坛**： [Aspose 社区支持](https://forum.aspose.com/c/imaging/10)
+- **支持论坛**： [Aspose 社区支持](https://forum.aspose.com/c/imaging/14)
 
 踏上 Aspose.Imaging Java 之旅，探索 Java 图像处理的巨大潜力！
 

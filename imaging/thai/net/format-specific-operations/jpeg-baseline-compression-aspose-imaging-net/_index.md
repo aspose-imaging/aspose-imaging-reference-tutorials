@@ -147,7 +147,7 @@ image.Save(outputFile, new JpegOptions { CompressionType = JpegCompressionMode.B
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/net/)
 - [การขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 คู่มือฉบับสมบูรณ์นี้จะช่วยให้คุณเรียนรู้วิธีการบีบอัดไฟล์ JPEG ขั้นพื้นฐานด้วย Aspose.Imaging สำหรับ .NET ได้อย่างถูกวิธี ขอให้สนุกกับการเขียนโค้ด!
 

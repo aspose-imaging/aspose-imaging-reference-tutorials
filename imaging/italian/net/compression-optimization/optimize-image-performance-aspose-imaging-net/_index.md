@@ -170,7 +170,7 @@ Per ulteriori approfondimenti, valuta l'idea di approfondire le funzionalità pi
 - **Acquista licenza**: [Acquista Aspose Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Inizia con una prova gratuita](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea**: [Ottieni una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Forum di supporto**: [Supporto Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum di supporto**: [Supporto Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Fai il passo successivo implementando queste ottimizzazioni nei tuoi progetti .NET e scopri come Aspose.Imaging può migliorare le tue attività di elaborazione delle immagini!
 

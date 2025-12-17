@@ -170,7 +170,7 @@ A3: Utilizza tecniche di gestione della memoria efficienti come try-with-resourc
 A4: Sì, Aspose.Imaging può essere utilizzato insieme ad altre librerie Java per soluzioni complete di elaborazione delle immagini.
 
 **D5: Dove posso trovare supporto se riscontro problemi?**
-A5: Visita il [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10) per assistenza e orientamento della comunità.
+A5: Visita il [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14) per assistenza e orientamento della comunità.
 
 ## Risorse
 

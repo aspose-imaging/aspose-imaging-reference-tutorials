@@ -203,7 +203,7 @@ license.setLicense("path/to/your/license.lic");
 - **Αγορά**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Αποκτήστε μια δωρεάν άδεια χρήσης](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Κοινότητας Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Κοινότητας Aspose](https://forum.aspose.com/c/imaging/14)
 
 Αξιοποιώντας το Aspose.Imaging για Java, μπορείτε να βελτιστοποιήσετε τις ροές εργασίας επεξεργασίας εγγράφων και να διαχειριστείτε αρχεία DjVu με ευκολία. Καλή κωδικοποίηση!
 

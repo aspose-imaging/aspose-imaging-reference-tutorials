@@ -178,7 +178,7 @@ A3: 방문하세요 [임시 면허 페이지](https://purchase.aspose.com/tempor
 A4: 일반적인 과제로는 파일 크기와 품질 간의 적절한 균형을 찾는 것과 대용량 이미지의 메모리 사용량을 관리하는 것이 있습니다.
 
 **질문 5: Aspose.Imaging 사용자를 위한 커뮤니티나 지원 포럼이 있나요?**  
-A5: 네, 방문하실 수 있습니다. [Aspose의 이미징 포럼](https://forum.aspose.com/c/imaging/10) 다른 사용자와 Aspose 팀에 도움을 요청하세요.
+A5: 네, 방문하실 수 있습니다. [Aspose의 이미징 포럼](https://forum.aspose.com/c/imaging/14) 다른 사용자와 Aspose 팀에 도움을 요청하세요.
 
 ## 자원
 
@@ -187,7 +187,7 @@ A5: 네, 방문하실 수 있습니다. [Aspose의 이미징 포럼](https://for
 - **구입:** 전체 액세스를 위해 라이센스 구매를 고려하세요. [Aspose 구매 페이지](https://purchase.aspose.com/buy)
 - **무료 체험:** 평가를 통해 시작하세요 [Aspose의 무료 체험판](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** 임시 면허를 신청하려면 여기를 클릭하세요: [Aspose 임시 면허](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** 토론에 참여하세요 [Aspose Imaging 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** 토론에 참여하세요 [Aspose Imaging 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따르면 Aspose.Imaging for Java를 사용하여 GIF 파일을 효과적으로 관리하고 최적화하여 파일 크기를 줄이면서도 고품질의 비주얼을 확보할 수 있습니다. 즐거운 코딩 되세요!
 

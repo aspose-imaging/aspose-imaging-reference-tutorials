@@ -189,7 +189,7 @@ Siap untuk mempraktikkan apa yang telah Anda pelajari? Cobalah menerapkan solusi
    - Mengunjungi [Aspose Lisensi Sementara](https://purchase.aspose.com/temporary-license/) untuk rincian tentang cara mendapatkannya.
 
 5. **Pilihan dukungan apa yang tersedia jika saya mengalami masalah?**
-   - Itu [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10) menawarkan bantuan dari komunitas dan tim Aspose.
+   - Itu [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14) menawarkan bantuan dari komunitas dan tim Aspose.
 
 ## Sumber daya
 

@@ -191,7 +191,7 @@ Veelvoorkomende problemen zijn onder andere het onjuist afhandelen van de verwij
 - **Aankoop**: https://purchase.aspose.com/buy
 - **Gratis proefperiode**: https://releases.aspose.com/imaging/java/
 - **Tijdelijke licentie**: https://purchase.aspose.com/tijdelijke-licentie/
-- **Steun**: https://forum.aspose.com/c/imaging/10
+- **Steun**: https://forum.aspose.com/c/imaging/14
 
 We hopen dat je deze gids nuttig vindt voor je projecten. Veel plezier met coderen!
 

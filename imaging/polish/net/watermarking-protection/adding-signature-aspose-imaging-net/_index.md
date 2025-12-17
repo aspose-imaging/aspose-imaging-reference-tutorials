@@ -161,7 +161,7 @@ Aby kontynuować eksplorację, rozważ eksperymentowanie z innymi funkcjami ofer
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/net/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Dzięki tym zasobom jesteś dobrze wyposażony, aby eksplorować dalej i wykorzystać cały potencjał Aspose.Imaging do swoich potrzeb przetwarzania obrazu. Miłego kodowania!
 

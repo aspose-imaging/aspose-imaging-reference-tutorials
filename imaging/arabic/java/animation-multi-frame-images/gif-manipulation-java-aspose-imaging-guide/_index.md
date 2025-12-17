@@ -172,7 +172,7 @@ image.save("YOUR_OUTPUT_DIRECTORY/output.gif", new GifOptions() {
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [ابدأ بإصدار تجريبي مجاني](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [اطلب هنا](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم**: [مجتمع دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم**: [مجتمع دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 يُزوِّدك هذا الدليل بالمعرفة اللازمة لمعالجة صور GIF بثقة باستخدام Aspose.Imaging لجافا. برمجة ممتعة!
 

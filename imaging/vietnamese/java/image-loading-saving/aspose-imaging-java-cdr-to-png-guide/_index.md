@@ -189,7 +189,7 @@ A3: Điều chỉnh `CdrRasterizationOptions` các thông số như độ phân 
 A4: Cần phải mua giấy phép cho các ứng dụng thương mại. Bạn có thể bắt đầu bằng bản dùng thử miễn phí hoặc đăng ký giấy phép tạm thời.
 
 **Câu hỏi 5: Tôi có thể nhận được hỗ trợ ở đâu nếu gặp vấn đề?**
-A5: Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) để được hỗ trợ và thảo luận trong cộng đồng.
+A5: Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) để được hỗ trợ và thảo luận trong cộng đồng.
 
 ## Tài nguyên
 
@@ -197,7 +197,7 @@ A5: Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imagi
 - **Tải xuống thư viện:** Nhận phiên bản mới nhất từ [Aspose.Imaging phát hành](https://releases.aspose.com/imaging/java/)
 - **Giấy phép mua hàng:** Thăm nom [Trang web mua hàng Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí & Giấy phép tạm thời:** Bắt đầu hành trình của bạn tại [Dùng thử miễn phí Aspose](https://releases.aspose.com/imaging/java/) Và [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ:** Tham gia cộng đồng để được giúp đỡ tại [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** Tham gia cộng đồng để được giúp đỡ tại [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình Aspose.Imaging Java ngay hôm nay và biến các dự án hình ảnh kỹ thuật số của bạn thành hiện thực!
 

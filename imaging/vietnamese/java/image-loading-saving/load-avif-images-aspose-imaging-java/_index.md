@@ -198,7 +198,7 @@ Sẵn sàng đưa các dự án Java của bạn lên tầm cao mới? Hãy tham
 - **Mua và cấp phép:** Tìm hiểu thêm về các tùy chọn mua hàng tại [Trang mua hàng của Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** Bắt đầu với bản dùng thử miễn phí bằng cách truy cập [Trang dùng thử của Aspose](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** Yêu cầu giấy phép tạm thời để truy cập đầy đủ tính năng tại [Trang giấy phép tạm thời của Aspose](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** Tham gia cộng đồng và tìm kiếm sự hỗ trợ trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** Tham gia cộng đồng và tìm kiếm sự hỗ trợ trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Với những tài nguyên này, bạn đã được trang bị đầy đủ để khai thác sức mạnh của Aspose.Imaging for Java trong các dự án của mình. Chúc bạn viết mã vui vẻ!
 

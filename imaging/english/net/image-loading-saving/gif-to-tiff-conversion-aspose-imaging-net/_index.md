@@ -182,7 +182,7 @@ A: TIFF provides higher quality and supports more color depths, ideal for profes
 - **Purchase a License**: [Aspose Purchase Page](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Aspose.Imaging Free](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support and Community**: [Aspose Forums](https://forum.aspose.com/c/imaging/10)
+- **Support and Community**: [Aspose Forums](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

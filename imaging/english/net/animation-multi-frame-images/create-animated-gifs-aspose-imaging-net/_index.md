@@ -158,7 +158,7 @@ Next steps include experimenting with different frame sequences and exploring ad
 - **Purchase**: [Buy Aspose Licensing](https://purchase.aspose.com/buy)
 - **Free Trial**: [Aspose.Imaging Free Trial](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Take these resources and start creating dynamic GIFs today!
 

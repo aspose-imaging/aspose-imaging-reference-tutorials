@@ -209,7 +209,7 @@ Opanowałeś już, jak zmieniać rozmiar obrazów JPG i tworzyć wieloklatkowe p
 5. **W jaki sposób ramki TIFF usprawniają zarządzanie obrazami?**  
    Konsolidacja wielu obrazów w jednym pliku ułatwia obsługę i dystrybucję dużych kolekcji powiązanych obrazów.
 
-Więcej zasobów znajdziesz w Aspose.Imaging [dokumentacja](https://reference.aspose.com/imaging/java/) i je zbadać [strona do pobrania](https://releases.aspose.com/imaging/java/) aby uzyskać najnowsze aktualizacje. W przypadku pytań dotyczących pomocy technicznej odwiedź [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+Więcej zasobów znajdziesz w Aspose.Imaging [dokumentacja](https://reference.aspose.com/imaging/java/) i je zbadać [strona do pobrania](https://releases.aspose.com/imaging/java/) aby uzyskać najnowsze aktualizacje. W przypadku pytań dotyczących pomocy technicznej odwiedź [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

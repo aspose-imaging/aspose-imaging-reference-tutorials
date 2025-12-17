@@ -195,7 +195,7 @@ Artık, Aspose.Imaging for .NET kullanarak görüntü maskelerinin nasıl oluşt
 - **Satın almak:** [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Deneme Alın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans:** [Geçici Lisans Başvurusu Yapın](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, projelerinizde Aspose.Imaging for .NET'in tüm potansiyelinden yararlanmak için iyi bir donanıma sahip olursunuz. İyi kodlamalar!
 

@@ -196,7 +196,7 @@ try (Image image = Image.load("YOUR_DOCUMENT_DIRECTORY/img4.tif")) {
 - **खरीद:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)  
 - **फ़्री ट्रायल:** [Get Started with Free Trial](https://releases.aspose.com/imaging/java/)  
 - **टेम्पररी लाइसेंस:** [Acquire Temporary License](https://purchase.aspose.com/temporary-license/)  
-- **सपोर्ट फ़ोरम:** [Aspose Community Support](https://forum.aspose.com/c/imaging/10)
+- **सपोर्ट फ़ोरम:** [Aspose Community Support](https://forum.aspose.com/c/imaging/14)
 
 ---
 

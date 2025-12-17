@@ -180,7 +180,7 @@ A: Review your rasterization and smoothing settings in the `PdfOptions` configur
 - **Purchase**: [Buy Aspose.Imaging Licenses](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start a Free Trial of Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Get a Temporary License for Aspose.Imaging](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10) 
+- **Support**: [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14) 
 
 By following this guide, you're well-equipped to handle CMX to PDF conversions with ease.
 

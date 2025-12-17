@@ -178,7 +178,7 @@ C: Aspose.Imaging performans için optimize edilmiş olsa da, en iyi sonuçları
 - **Satın almak**: [Aspose.Imaging Lisansını Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'in Ücretsiz Deneme Sürümüyle Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Talebinde Bulunun](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Destek için Aspose Forumuna katılın](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Destek için Aspose Forumuna katılın](https://forum.aspose.com/c/imaging/14)
 
 Bu kaynaklar elinizin altında olduğunda, artık TIFF görüntü işlemeyi güvenle ele almaya hazırsınız. İyi kodlamalar!
 

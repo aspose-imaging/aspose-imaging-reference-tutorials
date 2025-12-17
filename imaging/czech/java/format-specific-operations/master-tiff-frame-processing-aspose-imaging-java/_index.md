@@ -165,7 +165,7 @@ Nyní byste měli mít solidní znalosti o tom, jak načítat obrázky TIFF a uk
 - **Nákup**Prozkoumejte možnosti nákupu na [Nákupní stránka Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**Začněte s bezplatnou zkušební verzí [zde](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**Požádejte o dočasnou licenci na [Stránka s dočasnou licencí](https://purchase.aspose.com/temporary-license/)
-- **Podpora**Zapojte se do diskusí a vyhledejte pomoc na [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**Zapojte se do diskusí a vyhledejte pomoc na [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na cestu k zvládnutí Aspose.Imaging v Javě ještě dnes a transformujte způsob, jakým zvládáte úlohy zpracování obrazu!
 

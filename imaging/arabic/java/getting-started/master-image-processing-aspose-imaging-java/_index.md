@@ -209,7 +209,7 @@ try (TiffImage tiffImage = new TiffImage(outputSettings, newWidth, newHeight)) {
 5. **كيف تعمل إطارات TIFF على تحسين إدارة الصور؟**  
    من خلال دمج صور متعددة في ملف واحد، يصبح من الأسهل التعامل مع مجموعات كبيرة من الصور ذات الصلة وتوزيعها.
 
-لمزيد من الموارد، راجع Aspose.Imaging's [التوثيق](https://reference.aspose.com/imaging/java/) واستكشافهم [صفحة التحميل](https://releases.aspose.com/imaging/java/) للحصول على آخر التحديثات. لأي استفسارات دعم، تفضل بزيارة [منتدى Aspose](https://forum.aspose.com/c/imaging/10).
+لمزيد من الموارد، راجع Aspose.Imaging's [التوثيق](https://reference.aspose.com/imaging/java/) واستكشافهم [صفحة التحميل](https://releases.aspose.com/imaging/java/) للحصول على آخر التحديثات. لأي استفسارات دعم، تفضل بزيارة [منتدى Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

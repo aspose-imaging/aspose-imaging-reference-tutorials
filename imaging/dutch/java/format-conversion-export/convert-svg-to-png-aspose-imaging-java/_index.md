@@ -222,7 +222,7 @@ Klaar om te implementeren wat je hebt geleerd? Probeer vandaag nog een paar van 
 - [Aspose.Imaging voor Java-documentatie](https://reference.aspose.com/imaging/java/)
 - [Download Aspose.Imaging voor Java](https://releases.aspose.com/imaging/java/)
 - [Koop een licentie of ontvang een gratis proefversie](https://purchase.aspose.com/buy)
-- [Krijg ondersteuning van het communityforum](https://forum.aspose.com/c/imaging/10)
+- [Krijg ondersteuning van het communityforum](https://forum.aspose.com/c/imaging/14)
 
 Met deze bronnen en deze handleiding bent u goed toegerust om vol vertrouwen SVG-afbeeldingen te transformeren met Aspose.Imaging voor Java. Veel plezier met coderen!
 

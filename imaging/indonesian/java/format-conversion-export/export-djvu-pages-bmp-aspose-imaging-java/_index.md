@@ -197,7 +197,7 @@ Dengan mengikuti panduan ini, Anda telah mempelajari cara memanfaatkan Aspose.Im
 - **Beli Lisensi:** [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Mulai Uji Coba Gratis Anda](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan:** [Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan:** [Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda untuk menguasai konversi dokumen dengan Aspose.Imaging Java hari ini!
 

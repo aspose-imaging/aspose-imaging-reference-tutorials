@@ -204,7 +204,7 @@ Java メモリ管理と Aspose.Imaging 構成のベスト プラクティスに�
 - **購入**https://purchase.aspose.com/buy
 - **無料トライアル**https://releases.aspose.com/imaging/java/
 - **一時ライセンス**https://purchase.aspose.com/temporary-license/
-- **サポート**https://forum.aspose.com/c/imaging/10
+- **サポート**https://forum.aspose.com/c/imaging/14
 
 これらのリソースを活用することで、Aspose.Imaging の理解を深め、Java アプリケーションに効果的に実装できるようになります。コーディングを楽しみましょう！
 

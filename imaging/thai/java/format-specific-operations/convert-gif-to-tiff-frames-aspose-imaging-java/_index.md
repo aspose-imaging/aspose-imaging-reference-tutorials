@@ -241,7 +241,7 @@ A5: สำรวจ [เอกสารประกอบ Aspose.Imaging](https:
 - **ซื้อ:** https://purchase.aspose.com/ซื้อ
 - **ทดลองใช้งานฟรี:** https://releases.aspose.com/imaging/java/
 - **ใบอนุญาตชั่วคราว:** https://purchase.aspose.com/ใบอนุญาตชั่วคราว/
-- **สนับสนุน:** ภาษาไทย: https://forum.aspose.com/c/imaging/10
+- **สนับสนุน:** ภาษาไทย: https://forum.aspose.com/c/imaging/14
 
 การใช้ประโยชน์จาก Aspose.Imaging สำหรับ Java ช่วยให้คุณสามารถปรับกระบวนการแปลงรูปภาพให้มีประสิทธิภาพยิ่งขึ้นและปลดล็อกความเป็นไปได้ใหม่ๆ ในการจัดการสื่อดิจิทัล ขอให้สนุกกับการเขียนโค้ด!
 

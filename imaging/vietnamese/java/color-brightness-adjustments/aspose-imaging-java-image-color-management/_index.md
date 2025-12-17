@@ -189,7 +189,7 @@ Sẵn sàng áp dụng kiến thức này vào thực tế? Hãy thử áp dụn
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10) 
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14) 
 
 Hãy bắt đầu quản lý hình ảnh của bạn với độ chính xác màu sắc ngay hôm nay bằng Aspose.Imaging for Java!
 

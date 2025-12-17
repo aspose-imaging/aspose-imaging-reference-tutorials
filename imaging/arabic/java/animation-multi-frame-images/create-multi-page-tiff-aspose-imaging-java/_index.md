@@ -214,7 +214,7 @@ tiffImage.save("YOUR_OUTPUT_DIRECTORY/output.tiff");
 - [خيارات ترخيص الشراء](https://purchase.aspose.com/buy)
 - [ابدأ بإصدار تجريبي مجاني](https://releases.aspose.com/imaging/java/)
 - [معلومات الترخيص المؤقت](https://purchase.aspose.com/temporary-license/)
-- [دعم المجتمع والمنتديات](https://forum.aspose.com/c/imaging/10)
+- [دعم المجتمع والمنتديات](https://forum.aspose.com/c/imaging/14)
 
 بالاستفادة من هذه الموارد، يمكنك تعميق فهمك لـ Aspose.Imaging لـ Java وتطبيقه بفعالية في مشاريعك. برمجة ممتعة!
 

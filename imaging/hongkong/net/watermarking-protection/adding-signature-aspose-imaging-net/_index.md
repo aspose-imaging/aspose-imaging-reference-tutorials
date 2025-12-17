@@ -161,7 +161,7 @@ canvas.Save("YOUR_OUTPUT_DIRECTORY\\AddSignatureToImage_out.png", new PngOptions
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/net/)
 - [臨時執照](https://purchase.aspose.com/temporary-license/)
-- [支援論壇](https://forum.aspose.com/c/imaging/10)
+- [支援論壇](https://forum.aspose.com/c/imaging/14)
 
 有了這些資源，您將能夠進一步探索並充分利用 Aspose.Imaging 的潛力，滿足您的影像處理需求。祝您編碼愉快！
 

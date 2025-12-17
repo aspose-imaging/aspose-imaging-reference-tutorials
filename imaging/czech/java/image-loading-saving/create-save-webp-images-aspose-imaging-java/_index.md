@@ -186,7 +186,7 @@ A5: I když jsou pokročilé funkce vysoce výkonné, mohou vyžadovat komerčn�
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte Aspose.Imaging zdarma](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum pro zobrazování Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum pro zobrazování Aspose](https://forum.aspose.com/c/imaging/14)
 
 S těmito zdroji a touto příručkou jste dobře vybaveni k zahájení integrace obrázků WebP do vašich projektů v Javě pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 

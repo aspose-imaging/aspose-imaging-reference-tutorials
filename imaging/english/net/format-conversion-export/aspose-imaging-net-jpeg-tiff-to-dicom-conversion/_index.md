@@ -168,7 +168,7 @@ Next steps include exploring more advanced features of Aspose.Imaging or integra
 - [Purchase](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/net/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support](https://forum.aspose.com/c/imaging/10)
+- [Support](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

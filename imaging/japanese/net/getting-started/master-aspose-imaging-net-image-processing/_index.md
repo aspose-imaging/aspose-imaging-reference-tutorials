@@ -159,14 +159,14 @@ Aspose.Imaging .NET を使用して画像を読み込み、フィルター処理
 4. **Aspose.Imaging はどのようなファイル形式をサポートしていますか?**
    - JPEG、PNG、GIF など 100 を超える画像形式をサポートしています。
 5. **Aspose.Imaging の一般的な問題をトラブルシューティングするにはどうすればよいですか?**
-   - 参照 [Asposeのサポートフォーラム](https://forum.aspose.com/c/imaging/10) 解決策については、詳細なドキュメントを確認してください。
+   - 参照 [Asposeのサポートフォーラム](https://forum.aspose.com/c/imaging/14) 解決策については、詳細なドキュメントを確認してください。
 
 ## リソース
 - **ドキュメント**包括的なガイド [Aspose ドキュメント](https://reference.aspose.com/imaging/net/)
 - **最新バージョンをダウンロード**アクセス可能 [リリースページ](https://releases.aspose.com/imaging/net/)
 - **ライセンスを購入**直接購入リンクはこちら [Aspose の購入ページ](https://purchase.aspose.com/buy)
 - **無料トライアルと一時ライセンス**入手可能 [リリースページ](https://releases.aspose.com/imaging/net/) そして [一時ライセンスセクション](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**ご質問は [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**ご質問は [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

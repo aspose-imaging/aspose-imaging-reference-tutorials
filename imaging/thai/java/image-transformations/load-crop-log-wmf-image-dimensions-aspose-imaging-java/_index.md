@@ -168,7 +168,7 @@ int height = image.getHeight();
 - ซื้อใบอนุญาต: [ซื้อตัวเลือกการอนุญาตสิทธิ์ Aspose](https://purchase.aspose.com/buy)
 - ทดลองใช้งานฟรี: [รับทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - ใบอนุญาตชั่วคราว: [การขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- ฟอรั่มการสนับสนุน: [การสนับสนุนชุมชน Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- ฟอรั่มการสนับสนุน: [การสนับสนุนชุมชน Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 ตอนนี้คุณมีเครื่องมือและความรู้แล้ว ลองนำโซลูชั่นนี้ไปใช้ในโครงการถัดไปของคุณดูสิ!
 

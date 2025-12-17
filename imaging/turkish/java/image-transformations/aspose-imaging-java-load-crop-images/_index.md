@@ -148,7 +148,7 @@ Bu çözümü uygulamaya hazır mısınız? Farklı görüntü türleri ve yapı
    - Bir Java Geliştirme Kiti (JDK) ve uyumlu bir IDE.
 
 5. **Sorun giderme konusunda destek mevcut mu?**
-   - Ziyaret etmek [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10) yardım için.
+   - Ziyaret etmek [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14) yardım için.
 
 ## Kaynaklar
 

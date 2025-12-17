@@ -178,7 +178,7 @@ En este tutorial, aprendiste a cargar y guardar imágenes PNG con Aspose.Imaging
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Implemente estas técnicas en sus proyectos Java para aprovechar todo el potencial de Aspose.Imaging para el procesamiento y la manipulación de imágenes sin inconvenientes.
 

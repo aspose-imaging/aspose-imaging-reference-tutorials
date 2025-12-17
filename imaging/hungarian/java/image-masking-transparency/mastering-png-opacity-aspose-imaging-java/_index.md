@@ -177,7 +177,7 @@ Készen áll a további felfedezésre? Próbálja ki ezt a megoldást, és nézz
 - **Vásárlás**: Fontolja meg a teljes hozzáférés megvásárlását a következő címen: [Aspose vásárlási oldal](https://purchase.aspose.com/buy).
 - **Ingyenes próbaverzió**: Próbálja ki a funkciókat egy ingyenes próbaverzióval, amely ugyanazon az oldalon érhető el.
 - **Ideiglenes engedély**: Igényeljen ideiglenes engedélyt az értékelési időszak meghosszabbításához.
-- **Támogatás**: Csatlakozz a beszélgetésekhez és tegyél fel kérdéseket a [Aspose fórum](https://forum.aspose.com/c/imaging/10).
+- **Támogatás**: Csatlakozz a beszélgetésekhez és tegyél fel kérdéseket a [Aspose fórum](https://forum.aspose.com/c/imaging/14).
 
 Ezzel az átfogó útmutatóval most már készen állsz a képátlátszóság elsajátítására Java nyelven az Aspose.Imaging használatával. Jó kódolást!
 

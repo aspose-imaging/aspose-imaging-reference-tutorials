@@ -217,7 +217,7 @@ Bằng cách tận dụng Aspose.Imaging cho .NET, bạn đã học được cá
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Hãy thử Aspose.Imaging miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, giờ đây bạn đã được trang bị để triển khai các tính năng xử lý hình ảnh nâng cao trong các ứng dụng .NET của mình bằng Aspose.Imaging. Hãy tận hưởng việc khám phá sâu hơn và cải thiện các dự án của bạn!
 

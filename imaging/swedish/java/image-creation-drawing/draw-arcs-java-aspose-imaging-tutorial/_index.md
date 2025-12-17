@@ -182,7 +182,7 @@ den här handledningen har vi gått igenom hur man ritar bågar på bilder med A
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Få en gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Information om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Använd gärna dessa resurser för mer detaljerad information och support. Lycka till med kodningen!
 

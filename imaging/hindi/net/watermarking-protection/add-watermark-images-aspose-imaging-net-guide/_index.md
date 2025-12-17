@@ -158,7 +158,7 @@ image.Save("@YOUR_OUTPUT_DIRECTORY/AddWatermarkToImage_out.bmp");
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण डाउनलोड](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस अधिग्रहण](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 इन संसाधनों का लाभ उठाकर, आप .NET के लिए Aspose.Imaging लाइब्रेरी को और अधिक खोज सकते हैं और उसमें महारत हासिल कर सकते हैं। हैप्पी कोडिंग!
 

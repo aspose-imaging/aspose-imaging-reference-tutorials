@@ -143,7 +143,7 @@ Explore additional features of Aspose.Imaging or integrate other image processin
 2. **Can I convert images to formats other than BMP?**
    - Yes, Aspose.Imaging supports various output formats like JPEG and PNG.
 3. **How do I troubleshoot issues during image conversion?**
-   - Check file paths, ensure the correct library version is used, and refer to [Aspose's support forum](https://forum.aspose.com/c/imaging/10).
+   - Check file paths, ensure the correct library version is used, and refer to [Aspose's support forum](https://forum.aspose.com/c/imaging/14).
 4. **Is Aspose.Imaging suitable for real-time applications?**
    - While robust, consider performance optimizations for real-time processing needs.
 5. **What are some common use cases for DICOM grayscale conversion?**
@@ -155,7 +155,7 @@ Explore additional features of Aspose.Imaging or integrate other image processin
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/net/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Support Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

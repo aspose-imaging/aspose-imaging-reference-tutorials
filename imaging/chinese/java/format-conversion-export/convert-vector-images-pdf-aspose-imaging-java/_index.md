@@ -249,7 +249,7 @@ public static void exportToPdf(VectorMultipageImage image, PdfOptions options, S
 - [购买](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/java/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [支持](https://forum.aspose.com/c/imaging/10)
+- [支持](https://forum.aspose.com/c/imaging/14)
 
 尝试在您的下一个项目中实施此解决方案，以利用 Aspose.Imaging for Java 的强大功能！
 

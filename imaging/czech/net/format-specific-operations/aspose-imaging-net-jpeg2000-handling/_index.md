@@ -179,7 +179,7 @@ Mezi běžné problémy patří nesprávná likvidace obrazových objektů a pod
 Návštěva [Webové stránky společnosti Aspose](https://purchase.aspose.com/temporary-license/) požádat o dočasnou licenci.
 
 ### Kde mohu najít podporu, pokud narazím na problémy s Aspose.Imaging .NET?
-Pro pomoc se obraťte na [Fórum Aspose](https://forum.aspose.com/c/imaging/10) nebo si prohlédněte jejich rozsáhlou dokumentaci a zdroje.
+Pro pomoc se obraťte na [Fórum Aspose](https://forum.aspose.com/c/imaging/14) nebo si prohlédněte jejich rozsáhlou dokumentaci a zdroje.
 
 ## Zdroje
 - **Dokumentace:** Prozkoumejte podrobné průvodce na [Dokumentace Aspose](https://reference.aspose.com/imaging/net/)

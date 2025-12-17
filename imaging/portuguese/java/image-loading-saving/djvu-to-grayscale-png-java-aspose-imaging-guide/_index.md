@@ -200,7 +200,7 @@ A4: Imagens em escala de cinza contêm apenas tons de cinza, reduzindo o tamanho
 
 **P5: Como posso obter suporte se tiver problemas com o Aspose.Imaging?**
 
-A5: Visite o [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10) para assistência de especialistas da comunidade e equipe de apoio oficial.
+A5: Visite o [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14) para assistência de especialistas da comunidade e equipe de apoio oficial.
 
 ## Recursos
 

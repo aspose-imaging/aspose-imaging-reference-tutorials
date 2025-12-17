@@ -191,7 +191,7 @@ R5: Sì, Aspose.Imaging supporta un'ampia gamma di formati immagine, tra cui JPE
 - **Acquistare:** [Acquista Aspose.License](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Inizia la tua prova gratuita](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea:** [Ottieni una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Seguendo questo tutorial, avrai acquisito le competenze necessarie per affrontare efficacemente le attività di binarizzazione delle immagini utilizzando Aspose.Imaging per Java. Buon lavoro!
 

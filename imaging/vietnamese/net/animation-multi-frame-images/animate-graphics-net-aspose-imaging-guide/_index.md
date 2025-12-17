@@ -191,7 +191,7 @@ Bạn đã học cách tạo đồ họa động bằng Aspose.Imaging cho .NET.
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, giờ đây bạn đã có thể tạo đồ họa hoạt hình động trong các ứng dụng .NET của mình bằng Aspose.Imaging. Khám phá và đổi mới bằng cách tích hợp các kỹ thuật này vào các dự án của bạn!
 

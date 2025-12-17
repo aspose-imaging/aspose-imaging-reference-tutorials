@@ -168,7 +168,7 @@ using (TiffImage image1 = (TiffImage)Image.Load(dataDir + "/sample.tif"))
 - [Αγορά Aspose.Imaging](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή του Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - [Προσωρινή Άδεια Αξιολόγησης](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Αυτό το σεμινάριο σας έχει εξοπλίσει με τα εργαλεία για να χειρίζεστε εικόνες TIFF αποτελεσματικά χρησιμοποιώντας το Aspose.Imaging .NET. Ξεκινήστε να εφαρμόζετε αυτές τις τεχνικές στα έργα σας και εξερευνήστε περαιτέρω δυνατότητες που προσφέρει αυτή η ισχυρή βιβλιοθήκη!
 

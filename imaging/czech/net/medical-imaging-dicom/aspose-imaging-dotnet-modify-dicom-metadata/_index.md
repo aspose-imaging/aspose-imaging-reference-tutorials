@@ -186,7 +186,7 @@ Tento tutoriál vás provedl načítáním, úpravou, uložením a ověřování
 - **Nákup**: [Kupte si produkty Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum Aspose pro zobrazování](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum Aspose pro zobrazování](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

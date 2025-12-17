@@ -152,7 +152,7 @@ using System;
 - **購買：** [購買 Aspose.Imaging 許可證](https://purchase.aspose.com/buy)
 - **免費試用：** [開始免費試用](https://releases.aspose.com/imaging/net/)
 - **臨時執照：** [申請臨時執照](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 立即開始使用 Aspose.Imaging for .NET 掌握影像處理的旅程！
 

@@ -224,7 +224,7 @@ Sie haben nun gelernt, wie Sie JPEG-Bilder mit Aspose.Imaging für Java laden, d
 - **Kaufen:** [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Starten Sie mit einer kostenlosen Testversion](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Temporäre Lizenz anfordern](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Wir hoffen, dieser Leitfaden hat Ihnen geholfen, die JPEG-Bildverarbeitung mit Aspose.Imaging für Java zu meistern. Probieren Sie die Implementierung dieser Lösungen aus und überzeugen Sie sich selbst davon, wie sie Ihre Projekte verbessern können!
 

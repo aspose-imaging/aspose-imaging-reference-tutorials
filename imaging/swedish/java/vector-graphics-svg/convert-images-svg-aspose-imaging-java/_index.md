@@ -201,7 +201,7 @@ Den här handledningen har utrustat dig med kunskapen för att ladda flera bildf
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provversion nedladdning](https://releases.aspose.com/imaging/java/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10) 
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14) 
 
 Genom att följa den här guiden är du på god väg att bemästra bildbehandling med Aspose.Imaging Java. Lycka till med kodningen!
 

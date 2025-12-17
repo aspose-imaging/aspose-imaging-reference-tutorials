@@ -243,7 +243,7 @@ Pronto para levar seus recursos de conversão de imagens ao próximo nível? Exp
 - [Baixe Aspose.Imaging para Java](https://releases.aspose.com/imaging/java/)
 - [Comprar uma licença](https://purchase.aspose.com/buy)
 - [Teste gratuito e licença temporária](https://releases.aspose.com/imaging/java/)
-- [Fórum de Suporte à Comunidade](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte à Comunidade](https://forum.aspose.com/c/imaging/14)
 
 Seguindo este guia, você estará bem equipado para lidar com tarefas de conversão de imagens com facilidade usando o Aspose.Imaging para Java. Boa programação!
 

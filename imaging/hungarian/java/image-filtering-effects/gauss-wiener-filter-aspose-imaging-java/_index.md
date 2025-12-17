@@ -184,7 +184,7 @@ A: Vásároljon előfizetést innen: [Az Aspose vásárlási oldala](https://pur
 - **Letöltési könyvtár:** Szerezd meg a legújabb verziót innen: [Aspose.Imaging kiadások](https://releases.aspose.com/imaging/java/).
 - **Licenc vásárlása:** Látogatás [Aspose vásárlás](https://purchase.aspose.com/buy) licencelési lehetőségekért.
 - **Ingyenes próbaverzió és ideiglenes licenc:** Kezdje ingyenes próbaverzióval, vagy szerezzen be ideiglenes licencet a következő címen: [Aspose ingyenes próbaverzió és licencelés](https://releases.aspose.com/imaging/java/).
-- **Támogatási fórum:** Lépj kapcsolatba a közösséggel a következőn: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10).
+- **Támogatási fórum:** Lépj kapcsolatba a közösséggel a következőn: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

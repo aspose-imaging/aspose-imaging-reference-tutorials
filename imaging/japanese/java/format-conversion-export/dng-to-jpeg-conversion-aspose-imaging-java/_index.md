@@ -183,7 +183,7 @@ Aspose.Imaging for Javaを使用してDNG画像をJPEGに変換する方法を�
    はい、 `JpegOptions` クラスは、出力品質やその他のパラメータを構成するためのメソッドを提供します。
 
 5. **問題が発生した場合、どこでサポートを受けることができますか?**
-   訪問 [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/10) コミュニティ サポートについては、またはサポート チャネルを通じて Aspose に直接お問い合わせください。
+   訪問 [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/14) コミュニティ サポートについては、またはサポート チャネルを通じて Aspose に直接お問い合わせください。
 
 ## リソース
 

@@ -156,7 +156,7 @@ A: 물론입니다. 하지만 필요한 경우 적절한 라이센스가 있는�
 - **구입**: [라이센스 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [지금 Aspose.Imaging을 사용해 보세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [여기에서 요청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: 방문하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10) 도움과 커뮤니티 토론을 위해.
+- **지원하다**: 방문하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/14) 도움과 커뮤니티 토론을 위해.
 
 이러한 기술을 숙달하면 다양한 이미지 처리 작업을 자신 있게 처리할 수 있습니다. 즐거운 코딩 되세요!
 

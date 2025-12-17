@@ -202,7 +202,7 @@ Next steps could include exploring more advanced features of Aspose.Imaging or i
 - [Purchase Aspose License](https://purchase.aspose.com/buy)
 - [Free Trial and Temporary License](https://releases.aspose.com/imaging/java/)
 
-We hope this guide has been informative and helpful. If you have further questions, feel free to reach out to the [Aspose Support Forum](https://forum.aspose.com/c/imaging/10). Happy coding!
+We hope this guide has been informative and helpful. If you have further questions, feel free to reach out to the [Aspose Support Forum](https://forum.aspose.com/c/imaging/14). Happy coding!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

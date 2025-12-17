@@ -191,7 +191,7 @@ Sebagai langkah selanjutnya, pertimbangkan untuk menjelajahi fungsi menggambar l
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Aplikasi Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan memanfaatkan Aspose.Imaging, Anda dapat meningkatkan aplikasi Java Anda dengan fitur manipulasi gambar yang tangguh. Selamat membuat kode!
 

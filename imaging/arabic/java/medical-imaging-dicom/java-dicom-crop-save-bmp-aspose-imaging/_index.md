@@ -220,7 +220,7 @@ public class SaveCroppedDicomAsBmp {
 - **شراء**: [شراء ترخيص Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [تجارب مجانية لـ Aspose](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 بفضل هذا الدليل الشامل، أصبحتَ الآن جاهزًا لتنفيذ معالجة صور DICOM في جافا باستخدام Aspose.Imaging. برمجةً ممتعة!
 

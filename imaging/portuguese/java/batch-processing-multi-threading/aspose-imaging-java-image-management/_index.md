@@ -163,7 +163,7 @@ Agora você aprendeu a carregar, salvar e excluir imagens usando o Aspose.Imagin
 - **Comprar**: Compre sua licença em [Aspose Compra](https://purchase.aspose.com/buy).
 - **Teste grátis**: Teste com uma versão gratuita disponível no site deles.
 - **Licença Temporária**: Obtenha um para ter acesso a todos os recursos sem limitações.
-- **Apoiar**: Obtenha ajuda da comunidade em [Fórum Aspose](https://forum.aspose.com/c/imaging/10). 
+- **Apoiar**: Obtenha ajuda da comunidade em [Fórum Aspose](https://forum.aspose.com/c/imaging/14). 
 
 Seguindo este guia abrangente, você agora está equipado para manipular arquivos de imagem com eficiência em seus aplicativos Java usando o Aspose.Imaging!
 

@@ -147,7 +147,7 @@ using (DicomImage image = new DicomImage(fileStream))
 - **Απόδειξη με έγγραφα:** Εξερευνήστε ολοκληρωμένους οδηγούς στο [Τεκμηρίωση Aspose.Imaging](https://reference.aspose.com/imaging/net/).
 - **Λήψη:** Αποκτήστε την τελευταία έκδοση του Aspose.Imaging από [Σελίδα κυκλοφοριών](https://releases.aspose.com/imaging/net/).
 - **Αγορά και Άδεια Χρήσης:** Περισσότερες λεπτομέρειες σχετικά με τις επιλογές αγοράς είναι διαθέσιμες στη διεύθυνση [Αγορά](https://purchase.aspose.com/buy) και [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/).
-- **Υποστήριξη:** Για ερωτήσεις ή προβλήματα, επισκεφθείτε την [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10).
+- **Υποστήριξη:** Για ερωτήσεις ή προβλήματα, επισκεφθείτε την [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

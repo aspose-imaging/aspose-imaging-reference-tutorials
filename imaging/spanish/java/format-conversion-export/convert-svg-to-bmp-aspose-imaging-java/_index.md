@@ -161,7 +161,7 @@ Ya domina el proceso de conversión de archivos SVG a formato BMP con Aspose.Ima
    - Ajustar las configuraciones de mapa de bits dentro `BmpOptions` para ajustar la configuración de calidad de salida.
 
 5. **¿Dónde puedo encontrar ayuda si tengo problemas?**
-   - Visita el [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10) para asistencia comunitaria y profesional.
+   - Visita el [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14) para asistencia comunitaria y profesional.
 
 ## Recursos
 

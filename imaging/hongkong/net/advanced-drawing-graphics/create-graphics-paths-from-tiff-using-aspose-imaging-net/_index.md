@@ -165,7 +165,7 @@ image.Save(Path.Combine(outputDir, "BottleWithRectanglePath.tif"));
 答：是的，它旨在與任何需要高級影像處理功能的 .NET 應用程式無縫整合。
 
 **Q：如果我遇到問題，可以獲得什麼支援？**
-答：訪問 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10) 尋求社區專家和 Aspose 員工的協助。
+答：訪問 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14) 尋求社區專家和 Aspose 員工的協助。
 
 **Q：除了在 .NET 中使用 Aspose.Imaging 進行 TIFF 操作外，還有其他方法嗎？**
 答：雖然存在其他函式庫，但 Aspose.Imaging 提供了一套專門針對高品質影像處理任務而客製化的綜合功能。
@@ -176,7 +176,7 @@ image.Save(Path.Combine(outputDir, "BottleWithRectanglePath.tif"));
 - **購買**： [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用**： [免費試用 Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 立即踏上 Aspose.Imaging for .NET 之旅，開啟影像處理的新可能性！
 

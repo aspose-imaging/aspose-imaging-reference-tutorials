@@ -219,7 +219,7 @@ Aspose.Imaging을 사용하여 Java 프로그래밍 기술을 계속 향상시�
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험판 제공](https://releases.aspose.com/imaging/java/)
 - [임시 면허 정보](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java를 활용하면 개발 프로세스를 간소화하는 강력한 이미지 처리 기능을 활용할 수 있습니다. 즐거운 코딩 되세요!
 

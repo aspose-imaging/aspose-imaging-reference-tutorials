@@ -159,7 +159,7 @@ Implemente lógica em seu aplicativo que define dinamicamente `TransparentColor`
 - **Licença de compra**: [Compre Aspose.Licensing](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Experimente o Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Licença Temporária**: [Solicitar Licenciamento Temporário](https://purchase.aspose.com/temporary-license/)
-- **Fórum de Suporte**: [Suporte de imagem Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum de Suporte**: [Suporte de imagem Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

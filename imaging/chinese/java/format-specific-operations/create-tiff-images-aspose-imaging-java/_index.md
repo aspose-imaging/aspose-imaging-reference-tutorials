@@ -196,7 +196,7 @@ try (TiffImage tiffImage = new TiffImage(new TiffFrame(options, 100, 100))) {
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/java/)
 - [临时许可证申请](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 掌握这些技巧后，你将能够在 Java 应用程序中轻松应对复杂的图像处理任务。祝你编程愉快！
 

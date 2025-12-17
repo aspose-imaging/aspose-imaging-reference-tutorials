@@ -155,7 +155,7 @@ Aspose.Imaging 修改 EXIF 数据的功能可应用于各种实际场景：
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用版下载](https://releases.aspose.com/imaging/net/)
 - [临时许可证申请](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 立即开始使用 Aspose.Imaging 掌握 JPEG EXIF 修改的旅程！
 

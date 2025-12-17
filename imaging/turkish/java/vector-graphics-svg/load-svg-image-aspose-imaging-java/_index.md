@@ -178,7 +178,7 @@ Aspose.Imaging'i daha fazla keşfetmek için görüntü dönüştürme ve düzen
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme İndir](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Artık Aspose.Imaging for Java'yı kullanarak SVG görsellerini yükleme bilgisine sahip olduğunuza göre, projelerinize güvenle ve yaratıcılıkla başlayabilirsiniz!
 

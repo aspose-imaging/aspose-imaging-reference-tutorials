@@ -205,7 +205,7 @@ Bir sonraki seviyeye geçmeye hazır mısınız? Bu çözümü gerçek dünya se
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging Ücretsiz Denemeler](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzla, .NET uygulamalarınızda verimli EPS dosya yönetimi için Aspose.Imaging'i kullanmak için iyi bir donanıma sahip olacaksınız. İyi kodlamalar!
 

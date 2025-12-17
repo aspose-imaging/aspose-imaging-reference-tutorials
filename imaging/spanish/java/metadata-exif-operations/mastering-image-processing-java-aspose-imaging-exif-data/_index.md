@@ -217,7 +217,7 @@ Hemos explorado cómo cargar imágenes JPEG y acceder a datos EXIF con Aspose.Im
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Solicitud de licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Ahora que tienes todas las herramientas y el conocimiento a tu disposición, ¡es hora de comenzar a implementar estas poderosas funciones en tus aplicaciones Java!
 

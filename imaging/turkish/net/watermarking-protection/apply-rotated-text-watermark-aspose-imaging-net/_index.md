@@ -159,7 +159,7 @@ Aspose.Imaging for .NET kullanarak bir görüntüye döndürülmüş metin filig
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu adımları uygulamayı deneyin ve Aspose.Imaging'in görüntü işleme görevlerinizi nasıl kolaylaştırabileceğini görün!
 

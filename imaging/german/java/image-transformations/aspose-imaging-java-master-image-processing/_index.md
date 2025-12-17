@@ -209,7 +209,7 @@ Häufige Probleme sind falsche Pfadkonfigurationen und nicht unterstützte Datei
 
 **5. Wie erhalte ich Unterstützung, wenn Probleme auftreten?**
 
-Besuchen [Aspose-Unterstützung](https://forum.aspose.com/c/imaging/10) um Hilfe von der Community zu erbitten oder sich direkt an uns zu wenden, um weitere Unterstützung zu erhalten.
+Besuchen [Aspose-Unterstützung](https://forum.aspose.com/c/imaging/14) um Hilfe von der Community zu erbitten oder sich direkt an uns zu wenden, um weitere Unterstützung zu erhalten.
 
 ## Ressourcen
 

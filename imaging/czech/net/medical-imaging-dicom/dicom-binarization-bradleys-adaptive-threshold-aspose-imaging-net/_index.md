@@ -167,7 +167,7 @@ A5: I když je efektivní, nejlépe se hodí pro obrázky, kde jsou výrazné lo
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začněte s bezplatnou zkušební verzí](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**V případě jakýchkoli dotazů navštivte [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**V případě jakýchkoli dotazů navštivte [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na cestu s Aspose.Imaging pro .NET a odemkněte nové možnosti v lékařském zobrazování!
 

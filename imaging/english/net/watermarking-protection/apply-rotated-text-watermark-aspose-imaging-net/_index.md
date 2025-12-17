@@ -164,7 +164,7 @@ You've successfully learned how to apply a rotated text watermark to an image us
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/net/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Try implementing these steps and see how Aspose.Imaging can streamline your image processing tasks!
 

@@ -237,7 +237,7 @@ C5: Aspose.Imaging işlemleri doğası gereği iş parçacığı güvenli olmasa
 - **Satın almak:** [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Aspose.Imaging'i deneyin](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java ile yolculuğunuza bugün başlayın ve uygulamalarınızda görüntü işlemenin tüm potansiyelini ortaya çıkarın!
 

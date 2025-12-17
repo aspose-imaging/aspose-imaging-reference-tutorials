@@ -175,7 +175,7 @@ A: Tekintse át a raszterezési és simítási beállításokat a `PdfOptions` k
 - **Vásárlás**: [Aspose.Imaging licencek vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Indítsa el az Aspose.Imaging ingyenes próbaverzióját](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Szerezzen be egy ideiglenes licencet az Aspose.Imaginghez](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Képalkotó Fórum](https://forum.aspose.com/c/imaging/10) 
+- **Támogatás**: [Aspose Képalkotó Fórum](https://forum.aspose.com/c/imaging/14) 
 
 Az útmutató követésével könnyedén kezelheti a CMX-ből PDF-be konvertálásokat.
 

@@ -150,7 +150,7 @@ A5: Λεπτομερής τεκμηρίωση μπορείτε να βρείτε
 - **Αγορά Άδειας Χρήσης**: [Αγοράστε τώρα](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Κάντε αίτηση εδώ](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ Υποστήριξης**: [Υποστήριξη Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ Υποστήριξης**: [Υποστήριξη Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Καλή κωδικοποίηση και απολαύστε τον πειραματισμό με το Aspose.Imaging για να ζωντανέψετε τις ανάγκες σας σε επεξεργασία εικόνας!
 

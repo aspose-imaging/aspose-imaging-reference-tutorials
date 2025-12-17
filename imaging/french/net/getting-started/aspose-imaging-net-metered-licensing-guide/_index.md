@@ -147,7 +147,7 @@ Dans ce guide, nous avons exploré la mise en œuvre de licences mesurées avec 
 - Expérimentez davantage en intégrant des licences mesurées dans des flux de travail plus complexes.
 - Découvrez les fonctionnalités supplémentaires offertes par Aspose.Imaging qui peuvent améliorer les capacités de votre application.
 
-Nous vous encourageons à tester cette implémentation dans vos projets. Pour toute question ou besoin d'assistance, n'hésitez pas à nous contacter via le [Forum communautaire Aspose](https://forum.aspose.com/c/imaging/10).
+Nous vous encourageons à tester cette implémentation dans vos projets. Pour toute question ou besoin d'assistance, n'hésitez pas à nous contacter via le [Forum communautaire Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Section FAQ
 **Q1 : Qu'est-ce qu'une licence mesurée ?**

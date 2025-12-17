@@ -169,7 +169,7 @@ A3: Knihovna takové případy elegantně zpracuje vrácením hodnoty null pro c
 A4: Zkušební verze může mít omezení použití, jako je vodoznak nebo limity zpracování.
 
 **Q5: Jak mohu získat podporu, pokud narazím na problémy s Aspose.Imaging?**
-A5: Navštivte [Fóra Aspose](https://forum.aspose.com/c/imaging/10) pro podporu komunity a oficiální podporu.
+A5: Navštivte [Fóra Aspose](https://forum.aspose.com/c/imaging/14) pro podporu komunity a oficiální podporu.
 
 ## Zdroje
 
@@ -178,7 +178,7 @@ A5: Navštivte [Fóra Aspose](https://forum.aspose.com/c/imaging/10) pro podporu
 - **Nákup**Získejte licenci prostřednictvím [Nákup Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**Začněte s bezplatnou zkušební verzí na [Bezplatná zkušební verze Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**Požádejte o dočasnou licenci od [Dočasná licence Aspose](https://purchase.aspose.com/temporary-license/)
-- **Podpora**Zapojte se do diskuse [Fóra podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**Zapojte se do diskuse [Fóra podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na cestu s Aspose.Imaging pro Javu a odemkněte nové možnosti ve zpracování obrazu ještě dnes!
 

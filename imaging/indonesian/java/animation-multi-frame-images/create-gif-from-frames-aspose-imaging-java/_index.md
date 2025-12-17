@@ -175,7 +175,7 @@ Cobalah menerapkan solusi ini hari ini dan lihat bagaimana ia meningkatkan kemam
 - **Dokumentasi**: [Referensi Java Aspose.Imaging](https://reference.aspose.com/imaging/java/)
 - **Unduh**: [Rilis Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Pembelian & Lisensi**: [Beli Lisensi Aspose](https://purchase.aspose.com/buy)Bahasa Indonesia: [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)Bahasa Indonesia: [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**:Berinteraksi dengan komunitas di [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**:Berinteraksi dengan komunitas di [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengintegrasikan Aspose.Imaging ke dalam proyek Java Anda, Anda dapat membuka kemampuan pemrosesan gambar canggih yang menyederhanakan dan menyempurnakan alur kerja Anda. Selamat membuat kode!
 

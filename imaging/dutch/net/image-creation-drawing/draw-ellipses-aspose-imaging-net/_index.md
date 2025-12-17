@@ -161,7 +161,7 @@ Volgende stappen kunnen bestaan uit het integreren van deze functie in een grote
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Probeer deze technieken in uw volgende project te implementeren en ontdek hoe Aspose.Imaging voor .NET uw beeldverwerkingsmogelijkheden kan verbeteren!
 

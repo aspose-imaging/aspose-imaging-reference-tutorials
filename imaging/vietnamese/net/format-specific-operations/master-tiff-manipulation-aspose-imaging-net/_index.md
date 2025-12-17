@@ -168,7 +168,7 @@ Khám phá thêm các tính năng của Aspose.Imaging hoặc tích hợp các k
 - [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời để đánh giá](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn này cung cấp cho bạn các công cụ để thao tác hiệu quả với hình ảnh TIFF bằng Aspose.Imaging .NET. Hãy bắt đầu triển khai các kỹ thuật này trong các dự án của bạn và khám phá thêm nhiều khả năng khác mà thư viện mạnh mẽ này cung cấp!
 

@@ -200,7 +200,7 @@ A4：灰階影像僅包含灰色陰影，可減少檔案大小並集中於內容
 
 **問題5：如果我遇到 Aspose.Imaging 問題，如何獲得支援？**
 
-A5：訪問 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10) 尋求社區專家和官方支援人員的協助。
+A5：訪問 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14) 尋求社區專家和官方支援人員的協助。
 
 ## 資源
 

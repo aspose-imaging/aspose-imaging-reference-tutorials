@@ -207,7 +207,7 @@ A3: Tak, Aspose.Imaging oferuje szczegółową kontrolę nad ustawieniami kompre
 A4: Oczywiście! Możesz wydajnie przetwarzać wiele plików, używając technik programowania równoległego w .NET.
 
 **P5: Jak rozwiązywać typowe problemy z Aspose.Imaging?**
-A5: Sprawdź [forum wsparcia](https://forum.aspose.com/c/imaging/10) aby znaleźć rozwiązania typowych problemów i zapoznać się z obszernym [dokumentacja](https://reference.aspose.com/imaging/net/) w celu uzyskania wskazówek.
+A5: Sprawdź [forum wsparcia](https://forum.aspose.com/c/imaging/14) aby znaleźć rozwiązania typowych problemów i zapoznać się z obszernym [dokumentacja](https://reference.aspose.com/imaging/net/) w celu uzyskania wskazówek.
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

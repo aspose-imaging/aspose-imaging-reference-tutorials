@@ -168,7 +168,7 @@ Dalšími kroky by mohlo být prozkoumání dalších obrazových formátů podp
 - Licence k zakoupení: [Možnosti licencování Aspose](https://purchase.aspose.com/buy)
 - Bezplatná zkušební verze: [Získejte bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - Dočasná licence: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- Fórum podpory: [Podpora komunity Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- Fórum podpory: [Podpora komunity Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Nyní, když máte nástroje a znalosti, zkuste toto řešení implementovat ve svém dalším projektu!
 

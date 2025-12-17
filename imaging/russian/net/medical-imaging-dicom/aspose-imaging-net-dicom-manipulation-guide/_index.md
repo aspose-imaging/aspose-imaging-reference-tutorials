@@ -126,7 +126,7 @@ A: Операция завершится неудачей, поэтому пер
 - **Покупка**: [Купить Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Попробуйте Aspose.Imaging бесплатно](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия**: [Получить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: По вопросам посетите [Форум Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: По вопросам посетите [Форум Aspose](https://forum.aspose.com/c/imaging/14)
 
 С этим всеобъемлющим руководством вы полностью готовы начать использовать Aspose.Imaging для .NET в своих проектах по обработке изображений DICOM. Удачного кодирования!
 

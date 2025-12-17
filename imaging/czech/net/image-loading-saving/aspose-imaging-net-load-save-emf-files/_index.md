@@ -152,7 +152,7 @@ Jste připraveni začít implementovat toto řešení ve svých projektech? Pono
 - **Licence k zakoupení:** [Koupit nyní](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Začít](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence:** [Žádost zde](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory:** [Aspose Community](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory:** [Aspose Community](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na cestu s Aspose.Imaging pro .NET ještě dnes a pozvedněte schopnosti vaší aplikace v oblasti zpracování obrazu!
 

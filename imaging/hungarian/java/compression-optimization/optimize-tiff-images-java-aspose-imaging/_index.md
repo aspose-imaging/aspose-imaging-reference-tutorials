@@ -191,7 +191,7 @@ Most már megtanultad, hogyan tölthetsz be és méretezhetsz át hatékonyan TI
    - Igen, számos képformátumot támogat, például JPEG, PNG, BMP és egyebeket.
 
 5. **Hol találok támogatást, ha problémákba ütközöm?**
-   - Látogassa meg a [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/10) a közösségi és hivatalos támogatásért.
+   - Látogassa meg a [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/14) a közösségi és hivatalos támogatásért.
 
 ## Erőforrás
 

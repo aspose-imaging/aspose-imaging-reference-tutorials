@@ -198,7 +198,7 @@ A: Kontrollera din byggverktygskonfiguration, säkerställ att rätt version ref
 - **Köp:** [Buy Aspose.Imaging for Java](https://purchase.aspose.com/buy)  
 - **Gratis prov:** Starta din gratis provperiod på [Aspose‑webbplatsen](https://releases.aspose.com/imaging/java/)  
 - **Tillfällig licens:** Ansök om en tillfällig licens via [Aspose Purchase](https://purchase.aspose.com/temporary-license/)  
-- **Support:** Delta i diskussioner i [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** Delta i diskussioner i [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Börja rita kurvorna idag och lyft dina Java‑projekt med Aspose.Imaging!
 

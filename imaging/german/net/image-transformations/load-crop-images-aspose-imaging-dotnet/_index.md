@@ -180,7 +180,7 @@ Um Ihre Fähigkeiten weiter zu erweitern, erkunden Sie zusätzliche Funktionen w
 - **Kauflizenz:** https://purchase.aspose.com/buy
 - **Kostenlose Testversion:** https://releases.aspose.com/imaging/net/
 - **Temporäre Lizenz:** https://purchase.aspose.com/temporary-license/
-- **Support-Forum:** https://forum.aspose.com/c/imaging/10
+- **Support-Forum:** https://forum.aspose.com/c/imaging/14
 
 Beginnen Sie noch heute mit der Integration dieser Bildverarbeitungstechniken in Ihre Projekte und erleben Sie den Unterschied in Leistung und Effizienz!
 

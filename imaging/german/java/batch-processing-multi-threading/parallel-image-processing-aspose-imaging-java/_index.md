@@ -223,7 +223,7 @@ A5: Es ermöglicht Ihnen, von bestimmten Positionen in einer Datei zu lesen oder
 - [Laden Sie Aspose.Imaging herunter](https://releases.aspose.com/imaging/java/)
 - [Lizenz erwerben](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion und temporäre Lizenz](https://releases.aspose.com/imaging/java/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10) 
+- [Support-Forum](https://forum.aspose.com/c/imaging/14) 
 
 Begeben Sie sich noch heute auf Ihre Reise mit Aspose.Imaging Java und schöpfen Sie das Potenzial der leistungsstarken Bildverarbeitung in Ihren Projekten aus!
 

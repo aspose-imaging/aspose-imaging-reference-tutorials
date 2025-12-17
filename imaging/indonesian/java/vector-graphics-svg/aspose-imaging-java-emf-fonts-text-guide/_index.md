@@ -244,7 +244,7 @@ Tutorial ini membahas cara menyiapkan dan menggunakan Aspose.Imaging untuk Java 
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Uji Coba Gratis Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Dengan memanfaatkan Aspose.Imaging untuk Java, Anda dapat dengan mudah mengintegrasikan font EMF dan rendering teks berkualitas tinggi ke dalam aplikasi Anda, meningkatkan fungsionalitas dan daya tarik visual.
 

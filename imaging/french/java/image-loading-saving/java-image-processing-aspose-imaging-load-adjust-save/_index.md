@@ -215,7 +215,7 @@ Vous maîtrisez désormais les bases du traitement d'images Java avec Aspose.Ima
 - **Achat**: [Acheter des produits Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencez ici](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**: [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Lancez-vous dans votre aventure de traitement d'images Java avec Aspose.Imaging et débloquez de nouvelles possibilités dans la manipulation d'images numériques !
 

@@ -189,7 +189,7 @@ A3: Beállítás `CdrRasterizationOptions` paraméterek, például a felbontás 
 4. válasz: Kereskedelmi alkalmazásokhoz licenc vásárlása szükséges. Ingyenes próbaverzióval kezdheti, vagy ideiglenes licencet kérhet.
 
 **5. kérdés: Hol kaphatok támogatást, ha problémákba ütközöm?**
-A5: Látogassa meg a [Aspose támogatói fórum](https://forum.aspose.com/c/imaging/10) segítségnyújtásért és közösségi beszélgetésekért.
+A5: Látogassa meg a [Aspose támogatói fórum](https://forum.aspose.com/c/imaging/14) segítségnyújtásért és közösségi beszélgetésekért.
 
 ## Erőforrás
 
@@ -197,7 +197,7 @@ A5: Látogassa meg a [Aspose támogatói fórum](https://forum.aspose.com/c/imag
 - **Letöltési könyvtár:** Szerezd meg a legújabb verziót innen: [Aspose.Imaging kiadások](https://releases.aspose.com/imaging/java/)
 - **Licenc vásárlása:** Látogatás [Aspose vásárlási oldal](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió és ideiglenes licenc:** Kezdje utazását itt: [Aspose ingyenes próbaverzió](https://releases.aspose.com/imaging/java/) és [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum:** Lépjen kapcsolatba a közösséggel segítségért a következő címen: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum:** Lépjen kapcsolatba a közösséggel segítségért a következő címen: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Kezdje el Aspose.Imaging Java utazását még ma, és keltse életre digitális képalkotási projektjeit!
 

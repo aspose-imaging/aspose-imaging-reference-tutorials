@@ -163,7 +163,7 @@ Du har nu lärt dig hur du laddar, sparar och tar bort bilder med Aspose.Imaging
 - **Köpa**Köp din licens på [Aspose-köp](https://purchase.aspose.com/buy).
 - **Gratis provperiod**Testa med en gratis provperiod som finns tillgänglig på deras webbplats.
 - **Tillfällig licens**Skaffa en för åtkomst till alla funktioner utan begränsningar.
-- **Stöd**Få hjälp från samhället på [Aspose-forumet](https://forum.aspose.com/c/imaging/10). 
+- **Stöd**Få hjälp från samhället på [Aspose-forumet](https://forum.aspose.com/c/imaging/14). 
 
 Genom att följa den här omfattande guiden är du nu rustad att hantera bildfiler effektivt i dina Java-applikationer med hjälp av Aspose.Imaging!
 

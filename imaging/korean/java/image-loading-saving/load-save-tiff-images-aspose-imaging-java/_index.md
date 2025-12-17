@@ -171,7 +171,7 @@ JPEG RGB 압축을 사용하여 TIFF 이미지를 로드하고 저장하는 것�
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료 체험판 시작하기](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 튜토리얼은 Java 애플리케이션에서 TIFF 이미지 처리를 효율적으로 구현하는 방법을 알려드립니다. 즐거운 코딩 되세요!
 

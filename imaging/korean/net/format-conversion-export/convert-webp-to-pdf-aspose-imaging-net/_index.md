@@ -160,7 +160,7 @@ if (File.Exists(outputFile))
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험판 액세스](https://releases.aspose.com/imaging/net/)
 - [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 포괄적인 가이드를 통해 이제 프로젝트에서 Aspose.Imaging for .NET을 활용할 준비가 되었습니다. 즐거운 코딩 되세요!
 

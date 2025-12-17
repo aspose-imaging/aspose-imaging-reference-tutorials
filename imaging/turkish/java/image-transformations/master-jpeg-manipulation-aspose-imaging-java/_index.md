@@ -198,7 +198,7 @@ Daha fazlasına hazır mısınız? Bu teknikleri bir sonraki projenizde uygulay�
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'i deneyin](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Talebinde Bulunun](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı rehberle artık Java'da Aspose.Imaging kullanarak görüntü düzenleme konusunda ustalaşmaya hazırsınız. İyi kodlamalar!
 

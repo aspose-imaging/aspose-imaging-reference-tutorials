@@ -189,7 +189,7 @@ Aspose.Imaging is geoptimaliseerd voor efficiënt geheugenbeheer en snelle verwe
 - **Licentie kopen:** [Nu kopen](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** Ontdek alle functies met een tijdelijke licentie van [hier](https://releases.aspose.com/imaging/net/).
 - **Tijdelijke licentie:** Vraag er een aan voor evaluatie op [deze link](https://purchase.aspose.com/temporary-license/).
-- **Ondersteuningsforum:** Bezoek [Aspose Community Support](https://forum.aspose.com/c/imaging/10) voor vragen of problemen.
+- **Ondersteuningsforum:** Bezoek [Aspose Community Support](https://forum.aspose.com/c/imaging/14) voor vragen of problemen.
 
 Door deze uitgebreide handleiding te volgen, bent u nu in staat om efficiënt en effectief WebP-afbeeldingen te maken met Aspose.Imaging voor .NET. Veel plezier met coderen!
 

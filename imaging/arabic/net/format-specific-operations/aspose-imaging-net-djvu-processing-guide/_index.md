@@ -197,7 +197,7 @@ image.Save(Path.Combine(outputDir, "multipageExportMultiple_out.tiff"), tiffOpti
 - **شراء**: [شراء ترخيص Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جرب Aspose.Imaging مجانًا](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [الحصول على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 نأمل أن يُمكّنك هذا الدليل من الاستفادة من Aspose.Imaging لتلبية احتياجاتك في معالجة صور DjVu في .NET. برمجة ممتعة!
 

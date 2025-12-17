@@ -207,7 +207,7 @@ R3: Sim, o Aspose.Imaging oferece controle detalhado sobre as configurações de
 R4: Com certeza! Você pode processar vários arquivos com eficiência usando técnicas de programação paralela em .NET.
 
 **P5: Como posso solucionar problemas comuns com o Aspose.Imaging?**
-A5: Verifique o [fórum de suporte](https://forum.aspose.com/c/imaging/10) para soluções de problemas comuns e consultar a extensa [documentação](https://reference.aspose.com/imaging/net/) para orientação.
+A5: Verifique o [fórum de suporte](https://forum.aspose.com/c/imaging/14) para soluções de problemas comuns e consultar a extensa [documentação](https://reference.aspose.com/imaging/net/) para orientação.
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

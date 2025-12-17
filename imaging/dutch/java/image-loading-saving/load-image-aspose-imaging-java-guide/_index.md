@@ -177,7 +177,7 @@ We moedigen u aan om deze oplossing te implementeren en de meer geavanceerde fun
 - **Documentatie**: Ontdek gedetailleerde gebruiksscenario's op [Aspose.Imaging Java-documentatie](https://reference.aspose.com/imaging/java/).
 - **Download**: Download de nieuwste Aspose.Imaging-bibliotheek van [Aspose-releases](https://releases.aspose.com/imaging/java/).
 - **Aankoop en gratis proefperiode**:Lees meer over het verkrijgen van een licentie op de [aankooppagina](https://purchase.aspose.com/buy) of start met een gratis proefperiode.
-- **Steun**: Voor vragen kunt u terecht op [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Steun**: Voor vragen kunt u terecht op [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

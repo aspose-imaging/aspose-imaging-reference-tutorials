@@ -190,7 +190,7 @@ Untuk bacaan dan sumber daya lebih lanjut:
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Dengan sumber daya dan kiat ini, Anda akan siap menghadapi tantangan manipulasi gambar apa pun menggunakan Aspose.Imaging for .NET. Selamat membuat kode!
 

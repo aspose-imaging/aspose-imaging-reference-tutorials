@@ -228,7 +228,7 @@ V tomto tutoriálu jste se naučili, jak načítat, upravovat a ukládat snímky
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Začněte integrovat tyto výkonné funkce pro zpracování obrazu do svých Java aplikací ještě dnes a vylepšete způsob, jakým pracujete s obrázky DICOM!
 

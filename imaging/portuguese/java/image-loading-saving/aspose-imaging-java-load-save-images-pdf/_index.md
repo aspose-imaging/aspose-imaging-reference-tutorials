@@ -160,7 +160,7 @@ R5: Uma licença válida é necessária para uso ininterrupto em ambientes de pr
 - **Comprar**: [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Comece seu teste gratuito](https://releases.aspose.com/imaging/java/)
 - **Licença Temporária**: [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fóruns Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fóruns Aspose](https://forum.aspose.com/c/imaging/14)
 
 Aproveite o poder do Aspose.Imaging Java para elevar suas capacidades de processamento de imagens!
 

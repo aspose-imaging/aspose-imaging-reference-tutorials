@@ -148,7 +148,7 @@ continuación, considere explorar otras características de Aspose.Imaging o int
    - Un kit de desarrollo de Java (JDK) y un IDE compatible.
 
 5. **¿Hay soporte disponible para solucionar problemas?**
-   - Visita [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10) para obtener ayuda.
+   - Visita [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14) para obtener ayuda.
 
 ## Recursos
 

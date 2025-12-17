@@ -160,7 +160,7 @@ Teraz odkryłeś, jak wykorzystać Aspose.Imaging dla .NET do ustawiania niestan
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/net/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Mamy nadzieję, że ten samouczek dostarczył Ci cennych informacji na temat efektywnego korzystania z Aspose.Imaging dla .NET. Miłego kodowania!
 

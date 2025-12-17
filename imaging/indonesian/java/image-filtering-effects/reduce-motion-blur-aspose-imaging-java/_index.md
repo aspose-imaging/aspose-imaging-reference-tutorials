@@ -237,7 +237,7 @@ Untuk eksplorasi dan dukungan lebih lanjut, lihat sumber daya berikut:
 - **Dokumentasi:** [Dokumentasi Aspose.Imaging untuk Java](https://reference.aspose.com/imaging/java/)
 - **Unduh:** [Aspose.Imaging untuk Rilis Java](https://releases.aspose.com/imaging/java/)
 - **Pembelian & Uji Coba Gratis:** [Beli atau Coba Aspose.Imaging untuk Java](https://purchase.aspose.com/buy)
-- **Forum Dukungan:** [Komunitas Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan:** [Komunitas Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Panduan lengkap ini akan membekali Anda dengan pengetahuan untuk mengurangi keburaman gerakan pada gambar Anda secara efektif menggunakan Aspose.Imaging untuk Java. Selamat membuat kode!
 

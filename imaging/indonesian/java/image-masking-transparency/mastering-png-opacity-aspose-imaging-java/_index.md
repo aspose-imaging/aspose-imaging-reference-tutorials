@@ -177,7 +177,7 @@ Siap untuk menjelajah lebih jauh? Coba terapkan solusi ini dan lihat bagaimana s
 - **Pembelian**: Pertimbangkan untuk membeli untuk akses penuh di [Situs pembelian Aspose](https://purchase.aspose.com/buy).
 - **Uji Coba Gratis**Cobalah fitur-fitur dengan uji coba gratis yang tersedia di halaman yang sama.
 - **Lisensi Sementara**: Ajukan permohonan lisensi sementara untuk memperpanjang periode evaluasi Anda.
-- **Mendukung**: Bergabunglah dalam diskusi dan ajukan pertanyaan tentang [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Mendukung**: Bergabunglah dalam diskusi dan ajukan pertanyaan tentang [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Dengan panduan lengkap ini, Anda kini siap menguasai transparansi gambar di Java menggunakan Aspose.Imaging. Selamat membuat kode!
 

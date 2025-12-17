@@ -176,7 +176,7 @@ A5：當然。它的設計使其能夠輕鬆與其他庫整合和使用。
 - **購買**： [購買許可證](https://purchase.aspose.com/buy)
 - **免費試用**： [從這裡開始](https://releases.aspose.com/imaging/java/)
 - **臨時執照**： [立即申請](https://purchase.aspose.com/temporary-license/)
-- **支援**： [社群論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [社群論壇](https://forum.aspose.com/c/imaging/14)
 
 有了這份全面的指南，您現在就能熟練如何使用 Aspose.Imaging 在 Java 中載入和調整圖像大小。祝您程式愉快！
 

@@ -153,7 +153,7 @@ A5: Ja, er zijn diverse optimalisatietechnieken beschikbaar om het geheugengebru
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Til uw .NET-toepassingen naar een hoger niveau door beeldverwerking onder de knie te krijgen met Aspose.Imaging!
 

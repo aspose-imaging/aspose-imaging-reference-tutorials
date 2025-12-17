@@ -130,7 +130,7 @@ V tomto tutoriálu jsme prozkoumali, jak efektivně převádět soubory BMP do P
 
 Pro další zlepšení vašich dovedností:
 - Prozkoumejte další funkce Aspose.Imaging, jako je manipulace s obrázky nebo převody formátů.
-- Zapojte se do komunity na [Asposeovo fórum](https://forum.aspose.com/c/imaging/10) sdílet postřehy a vyhledávat rady.
+- Zapojte se do komunity na [Asposeovo fórum](https://forum.aspose.com/c/imaging/14) sdílet postřehy a vyhledávat rady.
 
 Jste připraveni začít s převodem obrázků ve vašich .NET aplikacích? Vyzkoušejte to ještě dnes!
 

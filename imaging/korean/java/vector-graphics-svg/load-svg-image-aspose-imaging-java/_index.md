@@ -178,7 +178,7 @@ Aspose.Imaging을 더 자세히 알아보려면 이미지 변환 및 조작과 �
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험판 다운로드](https://releases.aspose.com/imaging/java/)
 - [임시 면허 요청](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이제 Aspose.Imaging for Java를 사용하여 SVG 이미지를 로드하는 방법을 알았으니, 자신감과 창의성을 가지고 프로젝트를 시작하세요!
 

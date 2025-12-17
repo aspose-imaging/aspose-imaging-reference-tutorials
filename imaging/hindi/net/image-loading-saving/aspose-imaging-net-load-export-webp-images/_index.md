@@ -129,7 +129,7 @@ image.Save(outputPath, options);
 ### अगले कदम
 - गुणवत्ता स्तर समायोजित करने जैसे विभिन्न निर्यात विकल्पों के साथ प्रयोग करें।
 - Aspose.Imaging को बड़ी परियोजनाओं या वर्कफ़्लो में एकीकृत करने का अन्वेषण करें।
-- समुदाय के साथ जुड़ें [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10) समर्थन और विचारों के लिए.
+- समुदाय के साथ जुड़ें [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14) समर्थन और विचारों के लिए.
 
 ## अक्सर पूछे जाने वाले प्रश्न अनुभाग
 
@@ -154,7 +154,7 @@ Aspose.Imaging कुशलतापूर्वक मेमोरी उपय
 - **खरीदना:** [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [यहाँ से शुरू](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस:** [एक अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच:** [Aspose समर्थन](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच:** [Aspose समर्थन](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging .NET का उपयोग करके आत्मविश्वास के साथ अपनी इमेज प्रोसेसिंग यात्रा शुरू करें, और डिजिटल इमेजिंग में अनंत संभावनाओं का पता लगाएं।
 

@@ -172,7 +172,7 @@ A: 방문하세요 [Aspose.Imaging 문서](https://reference.aspose.com/imaging/
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료 체험판으로 시작하세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [여기에서 요청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [Aspose 지원 커뮤니티](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [Aspose 지원 커뮤니티](https://forum.aspose.com/c/imaging/14)
 
 이 가이드는 Aspose.Imaging for Java를 사용하여 GIF 이미지를 자신 있게 조작하는 방법을 알려드립니다. 즐거운 코딩 되세요!
 

@@ -174,7 +174,7 @@ Verimli bellek yönetimi tekniklerini kullanın ve çalışma zamanı sorunları
 - **Satın almak:** [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Aspose.Imaging Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Görüntüleme Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Görüntüleme Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı kılavuzla artık Aspose.Imaging for Java kullanarak PDF dışa aktarımlarınızda DPI ayarlarını uygulamak için donanımlısınız. İyi kodlamalar!
 

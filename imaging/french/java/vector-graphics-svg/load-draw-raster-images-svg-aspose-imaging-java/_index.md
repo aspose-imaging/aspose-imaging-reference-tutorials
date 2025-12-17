@@ -187,7 +187,7 @@ Dans ce tutoriel, nous avons exploré comment charger et dessiner une image rast
 - [Acheter une licence](https://purchase.aspose.com/buy)
 - [Informations sur l'essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Demande de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce guide, vous serez désormais bien équipé pour intégrer des images raster dans des canevas SVG avec Aspose.Imaging pour Java. Bon codage !
 

@@ -228,7 +228,7 @@ Prova a implementare questa soluzione nei tuoi progetti e scopri la differenza!
 - **Acquistare**: [Acquista Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Prova Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea**: [Ottieni la licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: [Forum di imaging Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: [Forum di imaging Aspose](https://forum.aspose.com/c/imaging/14)
 
 Esplorando queste risorse, puoi approfondire la tua conoscenza di Aspose.Imaging e delle sue funzionalità. Buona programmazione!
 

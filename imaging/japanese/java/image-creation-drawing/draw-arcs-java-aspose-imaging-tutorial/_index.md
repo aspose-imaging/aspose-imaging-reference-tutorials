@@ -182,7 +182,7 @@ try (Image image = Image.create(bmpCreateOptions, 100, 100)) {
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアルを受ける](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス情報](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 より詳しい情報やサポートについては、これらのリソースをぜひご参照ください。楽しいコーディングを！
 

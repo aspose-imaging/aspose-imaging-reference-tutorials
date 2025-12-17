@@ -175,7 +175,7 @@ A3: Ja, maar zorg ervoor dat u een juiste licentie aanschaft van [Aspose](https:
 A4: Ja, implementeer batchverwerking om meerdere bestanden efficiënter te verwerken, wat de verwerkingstijd aanzienlijk kan verkorten.
 
 **V5: Waar kan ik ondersteuning krijgen als ik problemen ondervind?**
-A5: Bezoek de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10) voor hulp van zowel het Aspose-team als de leden van de gemeenschap.
+A5: Bezoek de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14) voor hulp van zowel het Aspose-team als de leden van de gemeenschap.
 
 ## Bronnen
 - **Documentatie:** Ontdek gedetailleerde handleidingen en API-referenties op [Aspose.Imaging-documentatie](https://reference.aspose.com/imaging/net/).

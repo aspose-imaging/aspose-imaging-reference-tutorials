@@ -149,7 +149,7 @@ Siap untuk menguji keterampilan baru Anda? Terapkan solusi ini pada proyek Anda 
 - Pembelian: [Beli Lisensi](https://purchase.aspose.com/buy)
 - Uji coba gratis: [Coba Aspose.Imaging untuk .NET](https://releases.aspose.com/imaging/net/)
 - Lisensi sementara: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- Mendukung: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- Mendukung: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

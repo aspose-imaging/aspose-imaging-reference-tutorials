@@ -182,7 +182,7 @@ Bezplatná zkušební verze má určitá omezení, například vodoznaky na zpra
 - **Nákup:** [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Bezplatná zkušební verze Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Podpora fóra Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Podpora:** [Podpora fóra Aspose](https://forum.aspose.com/c/imaging/14) 
 
 S tímto komplexním průvodcem jste dobře připraveni začít používat Aspose.Imaging pro Javu ve svých projektech. Přejeme vám příjemné programování!
 

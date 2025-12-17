@@ -147,7 +147,7 @@ Bezoek [Aspose Aankoop](https://purchase.aspose.com/buy) voor informatie over de
 - **Documentatie:** Ontdek uitgebreide gidsen op [Aspose.Imaging-documentatie](https://reference.aspose.com/imaging/net/).
 - **Downloaden:** Download de nieuwste versie van Aspose.Imaging van [Releases-pagina](https://releases.aspose.com/imaging/net/).
 - **Aankoop en licentie:** Meer informatie over aankoopopties vindt u op [Aankoop](https://purchase.aspose.com/buy) En [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/).
-- **Steun:** Voor vragen of problemen kunt u terecht op de [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Steun:** Voor vragen of problemen kunt u terecht op de [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

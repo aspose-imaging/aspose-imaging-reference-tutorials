@@ -191,7 +191,7 @@ Használd a `dispose()` metódus a Image objektumokon a memória felszabadítás
 - **Vásárlás:** [Aspose licencelés vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Aspose Imaging ingyenes próbaverziók](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezzel az oktatóanyaggal felvértezve hatékonyan tölthetsz be és menthetsz JPEG fájlokat az Aspose.Imaging for Java segítségével. Jó kódolást!
 

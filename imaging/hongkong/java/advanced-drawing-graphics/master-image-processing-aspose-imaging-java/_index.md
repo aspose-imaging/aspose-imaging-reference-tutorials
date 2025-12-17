@@ -192,7 +192,7 @@ static void exportProgressCallback(ProgressEventHandlerInfo info) {
 - **購買**： [Buy Aspose Products](https://purchase.aspose.com/buy)
 - **免費試用**： [Start a Free Trial](https://releases.aspose.com/imaging/java/)
 - **臨時授權**： [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 現在，您已掌握上述知識，能在 Java 專案中實作 Aspose.Imaging，提升圖像處理能力。祝開發順利！
 

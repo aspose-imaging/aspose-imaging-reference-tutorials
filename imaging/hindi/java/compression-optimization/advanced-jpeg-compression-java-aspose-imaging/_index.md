@@ -211,7 +211,7 @@ Aspose.Imaging for Java के साथ उन्नत JPEG संपीड़
 - **खरीदना**: [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [निःशुल्क परीक्षण शुरू करें](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड का पालन करके, आप Aspose.Imaging for Java का उपयोग करके उन्नत छवि संपीड़न तकनीकों को लागू करने के लिए अच्छी तरह से सुसज्जित हैं। आगे की खोज करें और इष्टतम प्रदर्शन और गुणवत्ता प्राप्त करने के लिए इन विधियों को अपनी परियोजनाओं में एकीकृत करें।
 

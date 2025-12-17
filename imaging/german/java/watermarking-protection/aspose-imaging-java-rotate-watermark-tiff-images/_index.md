@@ -258,7 +258,7 @@ A5: Erwägen Sie die Verarbeitung großer Bilder in kleineren Blöcken und nutze
 - **Kauflizenz:** [Kaufen Sie eine Lizenz](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Testen Sie kostenlos](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Erhalten Sie eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum:** [Aspose.Imaging-Unterstützung](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum:** [Aspose.Imaging-Unterstützung](https://forum.aspose.com/c/imaging/14)
 
 Wir hoffen, dass dieses Tutorial Ihnen die Fähigkeiten vermittelt hat, Ihre Bildverarbeitungsaufgaben mit Aspose.Imaging für Java zu verbessern. Viel Spaß beim Programmieren!
 

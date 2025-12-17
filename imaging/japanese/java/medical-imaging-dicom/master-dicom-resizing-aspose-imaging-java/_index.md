@@ -180,7 +180,7 @@ Aspose.Imaging for Java を使って DICOM 画像を比例的にサイズ変更�
 - [購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 この包括的なガイドに従うことで、Aspose.Imaging for Java を使用して DICOM 画像処理タスクを効率的に管理できるようになります。
 

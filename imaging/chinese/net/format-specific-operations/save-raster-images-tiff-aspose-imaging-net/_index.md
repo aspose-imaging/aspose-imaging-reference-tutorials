@@ -170,7 +170,7 @@ using (RasterImage image = (RasterImage)Image.Load(dataDir + "SampleTiff1.tiff")
 - **购买：** [购买许可证](https://purchase.aspose.com/buy)
 - **免费试用：** [立即试用](https://releases.aspose.com/imaging/net/)
 - **临时执照：** [在此请求](https://purchase.aspose.com/temporary-license/)
-- **支持：** [提出问题](https://forum.aspose.com/c/imaging/10)
+- **支持：** [提出问题](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

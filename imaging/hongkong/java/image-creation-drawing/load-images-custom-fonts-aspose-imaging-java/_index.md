@@ -195,7 +195,7 @@ img.save(outputPath + "/" + fileName + ".png", new PngOptions() {
 - [購買 Aspose 許可證](https://purchase.aspose.com/buy)
 - [免費試用和臨時許可證](https://releases.aspose.com/imaging/java/)
 
-我們希望本指南能夠提供資訊並對您有所幫助。如果您還有其他問題，請隨時聯繫 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10).祝您編碼愉快！
+我們希望本指南能夠提供資訊並對您有所幫助。如果您還有其他問題，請隨時聯繫 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14).祝您編碼愉快！
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

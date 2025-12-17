@@ -167,7 +167,7 @@ A5: Хотя это эффективно, лучше всего подходит
 - **Покупка**: [Купить Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Начните с бесплатной пробной версии](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия**: [Запросить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: По любым вопросам посетите [Форум Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: По любым вопросам посетите [Форум Aspose](https://forum.aspose.com/c/imaging/14)
 
 Отправьтесь в путешествие с Aspose.Imaging для .NET и откройте для себя новые возможности в области медицинской визуализации!
 

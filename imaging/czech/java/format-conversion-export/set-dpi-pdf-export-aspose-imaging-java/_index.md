@@ -174,7 +174,7 @@ Používejte efektivní techniky správy paměti a zajistěte, aby vaše prostř
 - **Nákup:** [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Bezplatná zkušební verze Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum pro zobrazování Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum pro zobrazování Aspose](https://forum.aspose.com/c/imaging/14)
 
 S tímto komplexním průvodcem jste nyní vybaveni k implementaci nastavení DPI ve vašich exportovaných PDF souborech pomocí Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

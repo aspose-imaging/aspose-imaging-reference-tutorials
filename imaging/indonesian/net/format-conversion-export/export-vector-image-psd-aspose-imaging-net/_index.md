@@ -166,7 +166,7 @@ Sebagai langkah berikutnya, pertimbangkan untuk bereksperimen dengan format lain
 - **Pembelian**: Beli lisensi melalui [Portal Pembelian Aspose](https://purchase.aspose.com/buy).
 - **Uji Coba Gratis**: Mulailah dengan uji coba gratis melalui [Unduhan](https://releases.aspose.com/imaging/net/).
 - **Lisensi Sementara**:Minta satu [Di Sini](https://purchase.aspose.com/temporary-license/).
-- **Mendukung**: Bergabunglah dengan komunitas di [Forum Aspose](https://forum.aspose.com/c/imaging/10) untuk bantuan dan diskusi.
+- **Mendukung**: Bergabunglah dengan komunitas di [Forum Aspose](https://forum.aspose.com/c/imaging/14) untuk bantuan dan diskusi.
 
 Kami harap panduan ini membantu Anda mengintegrasikan fungsi ekspor gambar vektor ke dalam proyek Anda. Selamat membuat kode!
 

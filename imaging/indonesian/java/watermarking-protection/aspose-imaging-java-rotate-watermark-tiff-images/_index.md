@@ -258,7 +258,7 @@ A5: Pertimbangkan untuk memproses gambar besar dalam potongan yang lebih kecil, 
 - **Beli Lisensi:** [Beli Lisensi](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Dapatkan Uji Coba Gratis Anda](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan:** [Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan:** [Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Kami harap tutorial ini telah membekali Anda dengan keterampilan untuk meningkatkan tugas pemrosesan gambar Anda menggunakan Aspose.Imaging untuk Java. Selamat membuat kode!
 

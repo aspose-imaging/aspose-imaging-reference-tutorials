@@ -258,7 +258,7 @@ V5: Fontolja meg a nagy képek kisebb részletekben történő feldolgozását, 
 - **Licenc vásárlása:** [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum:** [Aspose.Imaging támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum:** [Aspose.Imaging támogatás](https://forum.aspose.com/c/imaging/14)
 
 Reméljük, hogy ez az oktatóanyag felvértezte Önt azokkal a készségekkel, amelyekkel javíthatja képfeldolgozási feladatait az Aspose.Imaging for Java használatával. Jó kódolást!
 

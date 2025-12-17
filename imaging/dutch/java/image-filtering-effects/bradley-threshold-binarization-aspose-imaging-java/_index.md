@@ -198,7 +198,7 @@ A5: Overweeg om uw Java-omgeving te optimaliseren voor geheugenbeheer en verken 
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proeftoegang](https://releases.aspose.com/imaging/java/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Ontdek deze bronnen om je kennis te verdiepen en je beeldverwerkingsprojecten met Aspose.Imaging voor Java te verbeteren. Veel plezier met coderen!
 

@@ -126,7 +126,7 @@ R: L'operazione fallirà, quindi è consigliabile verificare se il tag esiste pr
 - **Acquistare**: [Acquista Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Prova Aspose.Imaging gratuitamente](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea**: [Ottieni una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: Per domande, visitare il [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: Per domande, visitare il [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Con questa guida completa, sei pronto per iniziare a sfruttare Aspose.Imaging per .NET nei tuoi progetti di manipolazione di immagini DICOM. Buona programmazione!
 

@@ -160,7 +160,7 @@ Hai ora scoperto come sfruttare Aspose.Imaging per .NET per impostare font perso
 - [Acquista una licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/net/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Ci auguriamo che questo tutorial vi abbia fornito spunti preziosi per utilizzare al meglio Aspose.Imaging per .NET. Buona programmazione!
 

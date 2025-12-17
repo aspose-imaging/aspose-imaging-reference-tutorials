@@ -192,7 +192,7 @@ JavaでAspose.Imagingを使用してOTG画像を読み込み、設定、変換�
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを活用して、Aspose.Imaging の理解を深め、プロジェクトにおける機能を拡張しましょう。コーディングを楽しみましょう！
 

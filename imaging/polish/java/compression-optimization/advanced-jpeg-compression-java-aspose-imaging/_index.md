@@ -211,7 +211,7 @@ A: Podczas ładowania należy korzystać z niestandardowych rozmiarów buforów,
 - **Zakup**: [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Rozpocznij bezpłatny okres próbny](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**: [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Postępując zgodnie z tym przewodnikiem, będziesz dobrze wyposażony do implementacji zaawansowanych technik kompresji obrazu przy użyciu Aspose.Imaging for Java. Poznaj je dalej i zintegruj je ze swoimi projektami, aby osiągnąć optymalną wydajność i jakość.
 

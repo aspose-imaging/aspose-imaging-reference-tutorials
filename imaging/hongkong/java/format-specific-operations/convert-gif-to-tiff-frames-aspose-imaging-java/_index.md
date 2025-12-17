@@ -241,7 +241,7 @@ A5：探索 [Aspose.Imaging 文檔](https://reference.aspose.com/imaging/java/) 
 - **購買：** https://purchase.aspose.com/buy
 - **免費試用：** https://releases.aspose.com/imaging/java/
 - **臨時執照：** https://purchase.aspose.com/temporary-license/
-- **支持：** https://forum.aspose.com/c/imaging/10
+- **支持：** https://forum.aspose.com/c/imaging/14
 
 利用 Aspose.Imaging for Java，您可以簡化影像轉換流程，並開啟數位媒體處理的新可能性。祝您編碼愉快！
 

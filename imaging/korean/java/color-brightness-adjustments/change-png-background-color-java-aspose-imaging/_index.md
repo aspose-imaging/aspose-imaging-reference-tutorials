@@ -189,7 +189,7 @@ PNG 배경색을 변경하는 실제 응용 프로그램은 다음과 같습니�
    - 방문하다 [Aspose 임시 면허](https://purchase.aspose.com/temporary-license/) 자세한 내용은 다음을 참조하세요.
 
 5. **문제가 발생하면 어떤 지원 옵션을 이용할 수 있나요?**
-   - 그만큼 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10) 커뮤니티와 Aspose 팀으로부터 지원을 제공합니다.
+   - 그만큼 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14) 커뮤니티와 Aspose 팀으로부터 지원을 제공합니다.
 
 ## 자원
 

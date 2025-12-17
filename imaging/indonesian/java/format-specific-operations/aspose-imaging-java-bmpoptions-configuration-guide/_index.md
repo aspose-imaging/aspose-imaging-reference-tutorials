@@ -191,7 +191,7 @@ Siap untuk mempraktikkan apa yang telah Anda pelajari? Mulailah menerapkan konfi
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan sumber daya ini, Anda diperlengkapi dengan baik untuk menguasai `BmpOptions` dan membuka potensi penuh Aspose.Imaging dalam proyek Java Anda. Selamat membuat kode!
 

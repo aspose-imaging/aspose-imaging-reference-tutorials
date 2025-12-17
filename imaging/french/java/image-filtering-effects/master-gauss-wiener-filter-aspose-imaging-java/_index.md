@@ -212,7 +212,7 @@ Vous savez maintenant comment utiliser Aspose.Imaging pour Java pour charger des
 - **Achat**: [Acheter maintenant](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencer](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**: [Demandez ici](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance**: [Communauté Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance**: [Communauté Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Nous espérons que ce guide vous permettra d'optimiser vos projets grâce à des fonctionnalités de traitement d'image sophistiquées. Bon codage !
 

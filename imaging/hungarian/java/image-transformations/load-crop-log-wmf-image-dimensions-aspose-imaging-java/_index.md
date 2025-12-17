@@ -168,7 +168,7 @@ A következő lépések magukban foglalhatják az Aspose.Imaging által támogat
 - Licenc vásárlása: [Aspose licencelési lehetőségek vásárlása](https://purchase.aspose.com/buy)
 - Ingyenes próbaverzió: [Ingyenes próbaverzió igénylése](https://releases.aspose.com/imaging/java/)
 - Ideiglenes engedély: [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- Támogatási fórum: [Aspose.Imaging közösségi támogatás](https://forum.aspose.com/c/imaging/10)
+- Támogatási fórum: [Aspose.Imaging közösségi támogatás](https://forum.aspose.com/c/imaging/14)
 
 Most, hogy megvannak az eszközök és a tudás, próbáld meg megvalósítani ezt a megoldást a következő projektedben!
 

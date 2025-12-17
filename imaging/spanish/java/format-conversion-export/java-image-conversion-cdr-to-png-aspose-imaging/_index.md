@@ -243,7 +243,7 @@ Siguiendo esta guía, ha aprendido a aprovechar Aspose.Imaging para Java para co
 - [Descargar Aspose.Imaging para Java](https://releases.aspose.com/imaging/java/)
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Prueba gratuita y licencia temporal](https://releases.aspose.com/imaging/java/)
-- [Foro de soporte de la comunidad](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de la comunidad](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo esta guía, estarás bien preparado para gestionar fácilmente las tareas de conversión de imágenes con Aspose.Imaging para Java. ¡Que disfrutes programando!
 

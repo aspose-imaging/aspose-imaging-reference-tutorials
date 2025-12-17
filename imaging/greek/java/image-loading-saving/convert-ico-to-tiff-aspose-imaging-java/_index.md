@@ -181,7 +181,7 @@ license.setLicense("path/to/your/license/file.lic");
 - [Επιλογές αδειοδότησης αγοράς](https://purchase.aspose.com/buy)
 - [Δωρεάν Δοκιμαστική Λήψη](https://releases.aspose.com/imaging/java/)
 - [Αίτηση Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης και Κοινότητας](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης και Κοινότητας](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, είστε πλέον εξοπλισμένοι για να χειρίζεστε αποτελεσματικά τις μετατροπές μορφής εικόνας χρησιμοποιώντας το Aspose.Imaging Java. Καλή κωδικοποίηση!
 

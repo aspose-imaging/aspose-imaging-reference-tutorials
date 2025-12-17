@@ -227,7 +227,7 @@ tiffImage.close();
    - نعم، مع الترخيص المناسب، فهو مثالي للتطبيقات المهنية والمؤسسية.
 
 5. **أين يمكنني العثور على المزيد من الموارد حول Aspose.Imaging؟**
-   - يزور [وثائق Aspose](https://reference.aspose.com/imaging/java/) و ال [منتدى الدعم](https://forum.aspose.com/c/imaging/10) للحصول على إرشادات مفصلة ومساعدة المجتمع.
+   - يزور [وثائق Aspose](https://reference.aspose.com/imaging/java/) و ال [منتدى الدعم](https://forum.aspose.com/c/imaging/14) للحصول على إرشادات مفصلة ومساعدة المجتمع.
 
 ## موارد
 
@@ -236,7 +236,7 @@ tiffImage.close();
 - **شراء**: https://purchase.aspose.com/buy
 - **نسخة تجريبية مجانية**: https://releases.aspose.com/imaging/java/
 - **رخصة مؤقتة**: https://purchase.aspose.com/temporary-license/
-- **يدعم**: https://forum.aspose.com/c/imaging/10
+- **يدعم**: https://forum.aspose.com/c/imaging/14
 
 ابدأ رحلتك لإتقان استعادة صور TIFF باستخدام Aspose.Imaging for Java اليوم!
 

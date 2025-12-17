@@ -202,7 +202,7 @@ Ya, integrasikan Aspose.Imaging ke dalam skrip build Anda untuk memvalidasi APNG
 - **Pembelian:** [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Dapatkan Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara:** [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda telah memperoleh keterampilan untuk mengelola gambar APNG secara efektif dalam aplikasi .NET Anda menggunakan Aspose.Imaging. Selamat membuat kode!
 

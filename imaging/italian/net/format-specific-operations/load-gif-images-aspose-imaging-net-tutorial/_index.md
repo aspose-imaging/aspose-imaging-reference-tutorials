@@ -153,7 +153,7 @@ A5: Sì, offre diverse tecniche di ottimizzazione per gestire efficacemente l'ut
 - [Acquista licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/net/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Porta le tue applicazioni .NET a un livello superiore padroneggiando l'elaborazione delle immagini con Aspose.Imaging!
 

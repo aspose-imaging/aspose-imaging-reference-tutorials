@@ -242,7 +242,7 @@ public class CMXToPDFConverter {
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड का पालन करके, आप Aspose.Imaging for Java का उपयोग करके आत्मविश्वास के साथ CMX-से-PDF रूपांतरण करने में सक्षम होंगे। हैप्पी कोडिंग!
 

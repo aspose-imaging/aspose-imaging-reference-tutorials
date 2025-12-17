@@ -163,7 +163,7 @@ Most már megtanultad, hogyan tölthetsz be, menthetsz és törölhetsz képeket
 - **Vásárlás**: Vásárold meg a licencedet itt: [Aspose vásárlás](https://purchase.aspose.com/buy).
 - **Ingyenes próbaverzió**: Teszteld ingyenes próbaverzióval a weboldalukon.
 - **Ideiglenes engedély**: Szerezzen be egyet a korlátozások nélküli teljes funkcionalitás eléréséhez.
-- **Támogatás**Kérjen segítséget a közösségtől a következő címen: [Aspose Fórum](https://forum.aspose.com/c/imaging/10). 
+- **Támogatás**Kérjen segítséget a közösségtől a következő címen: [Aspose Fórum](https://forum.aspose.com/c/imaging/14). 
 
 Ezt az átfogó útmutatót követve most már képes leszel hatékonyan kezelni a képfájlokat Java-alkalmazásaidban az Aspose.Imaging segítségével!
 

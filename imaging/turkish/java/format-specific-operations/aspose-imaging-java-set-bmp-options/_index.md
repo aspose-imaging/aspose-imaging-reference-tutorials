@@ -156,7 +156,7 @@ BMP seçeneklerini ayarlamak, geliştiricilerin renk derinliği ve sıkıştırm
 
 **S2: Aspose.Imaging ile ilgili lisans sorunlarını nasıl giderebilirim?**
 
-Lisans dosya yolunuzun doğru olduğundan ve kitaplığın geçerli bir sürümünü kullandığınızdan emin olun. Sorunlar devam ederse, danışın [Aspose'un destek forumu](https://forum.aspose.com/c/imaging/10).
+Lisans dosya yolunuzun doğru olduğundan ve kitaplığın geçerli bir sürümünü kullandığınızdan emin olun. Sorunlar devam ederse, danışın [Aspose'un destek forumu](https://forum.aspose.com/c/imaging/14).
 
 **S3: Aspose.Imaging'i toplu görüntü işleme için kullanabilir miyim?**
 
@@ -177,7 +177,7 @@ Başka kütüphaneler de mevcut olsa da Aspose.Imaging, Java ortamlarında kapsa
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Başvurusunda Bulunun](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu eğitim, Aspose.Imaging kullanarak Java projelerinizde BMP seçeneklerini etkili bir şekilde uygulamak için ihtiyaç duyduğunuz temeli sağlar. İyi kodlamalar!
 

@@ -247,7 +247,7 @@ Tout au long de ce tutoriel, vous avez appris à manipuler facilement des images
 - [Achat](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce guide complet, vous serez parfaitement équipé pour intégrer des fonctionnalités avancées de traitement d'images à vos applications Java avec Aspose.Imaging. Bon codage !
 

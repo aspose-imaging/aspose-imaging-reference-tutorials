@@ -165,7 +165,7 @@ A5: Ja, Aspose.Imaging unterstützt eine Vielzahl von Formaten, darunter JPEG, P
 - **Erwerben Sie eine Lizenz**: Besuchen [Aspose-Kaufseite](https://purchase.aspose.com/buy) für Lizenzierungsoptionen.
 - **Kostenlose Testversion**: Testen Sie die Funktionen durch Herunterladen von [Veröffentlichungen](https://releases.aspose.com/imaging/net/).
 - **Temporäre Lizenz**: Fordern Sie eine temporäre Lizenz an unter [Aspose-Lizenzierung](https://purchase.aspose.com/temporary-license/).
-- **Support und Community**: Nehmen Sie an Diskussionen teil oder suchen Sie Hilfe auf der [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Support und Community**: Nehmen Sie an Diskussionen teil oder suchen Sie Hilfe auf der [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -185,7 +185,7 @@ A: Gunakan yang berbeda `ImageOptions` kelas yang disediakan oleh Aspose.Imaging
 - **Beli Lisensi**: [Beli Sekarang](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Memulai](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Daftar di sini](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan**: [Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan**: [Dukungan Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Mulailah menjelajahi kemampuan pemrosesan gambar hebat Aspose.Imaging untuk Java hari ini!
 

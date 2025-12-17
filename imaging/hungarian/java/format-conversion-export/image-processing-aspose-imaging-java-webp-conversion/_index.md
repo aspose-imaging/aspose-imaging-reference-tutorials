@@ -190,7 +190,7 @@ Készen állsz a kezdésre? Próbáld ki ezt a megoldást a következő projekte
 - [Vásárlás](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Ez az útmutató mindent elsajátíthatsz, amire szükséged van az Aspose.Imaging hatékony használatához WebP formátumú képek betöltéséhez és exportálásához Java használatával. Jó kódolást!
 

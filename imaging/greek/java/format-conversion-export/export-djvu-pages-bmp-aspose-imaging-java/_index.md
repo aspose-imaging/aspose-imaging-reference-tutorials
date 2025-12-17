@@ -197,7 +197,7 @@ for (int i : range.getRange()) {
 - **Άδεια Αγοράς:** [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Ξεκινήστε τη δωρεάν δοκιμή σας](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ υποστήριξης:** [Υποστήριξη Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ υποστήριξης:** [Υποστήριξη Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Ξεκινήστε το ταξίδι σας για να τελειοποιήσετε τη μετατροπή εγγράφων με το Aspose.Imaging Java σήμερα!
 

@@ -192,7 +192,7 @@ A: Ellenőrizze a rendszer erőforrásait, és optimalizálja a memóriahasznál
 - **Letöltés:** Szerezd meg a legújabb verziót innen: [Aspose.Imaging kiadások](https://releases.aspose.com/imaging/java/).
 - **Vásárlás:** Teljes körű engedély beszerzése itt: [Aspose Vásárlási oldal](https://purchase.aspose.com/buy).
 - **Ingyenes próbaverzió és ideiglenes licenc:** Tapasztalja meg a funkciókat korlátozások nélkül az ingyenes próbaverzió vagy az ideiglenes licenc beszerzésével a megfelelő linkeken.
-- **Támogatás:** További segítségért látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10).
+- **Támogatás:** További segítségért látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

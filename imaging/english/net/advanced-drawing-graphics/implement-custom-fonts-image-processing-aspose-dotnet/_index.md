@@ -165,7 +165,7 @@ You've now explored how to leverage Aspose.Imaging for .NET to set custom fonts 
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/net/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Support Forum](https://forum.aspose.com/c/imaging/14)
 
 We hope this tutorial has provided you with valuable insights into using Aspose.Imaging for .NET effectively. Happy coding!
 

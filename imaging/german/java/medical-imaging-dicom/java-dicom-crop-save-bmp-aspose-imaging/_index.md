@@ -220,7 +220,7 @@ In diesem Tutorial haben wir das Laden, Zuschneiden und Speichern von DICOM-Bild
 - **Kaufen**: [Aspose-Lizenzierung kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Kostenlose Aspose-Testversionen](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Beantragung einer temporären Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit diesem umfassenden Leitfaden sind Sie nun in der Lage, die DICOM-Bildverarbeitung in Java mit Aspose.Imaging zu implementieren. Viel Spaß beim Programmieren!
 

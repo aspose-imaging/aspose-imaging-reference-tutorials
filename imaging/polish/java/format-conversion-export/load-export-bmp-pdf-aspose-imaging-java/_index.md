@@ -191,7 +191,7 @@ Gotowy, aby to wypróbować? Zacznij wdrażać to rozwiązanie w swoich projekta
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Przeglądaj te zasoby, aby pogłębić swoje zrozumienie i rozszerzyć możliwości Aspose.Imaging w swoich projektach. Miłego kodowania!
 

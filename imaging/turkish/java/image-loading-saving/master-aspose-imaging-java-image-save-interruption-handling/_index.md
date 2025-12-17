@@ -231,7 +231,7 @@ Bu öğreticiyi takip ederek, kesinti işlemeyle görüntüleri kaydetmek için 
    - Yüksek eşzamanlılığı yönetmek için iş parçacığı havuzları ve verimli kaynak yönetimi uygulamalarını uygulamayı düşünün.
 
 5. **Aspose.Imaging kullanırken karşılaşılan yaygın sorunları nasıl giderebilirim?**
-   - Resmi kontrol edin [belgeleme](https://reference.aspose.com/imaging/java/) Ayrıntılı kılavuzlar için veya şu adresi ziyaret edin: [Aspose forumları](https://forum.aspose.com/c/imaging/10) Toplum desteği için.
+   - Resmi kontrol edin [belgeleme](https://reference.aspose.com/imaging/java/) Ayrıntılı kılavuzlar için veya şu adresi ziyaret edin: [Aspose forumları](https://forum.aspose.com/c/imaging/14) Toplum desteği için.
 
 ## Kaynaklar
 

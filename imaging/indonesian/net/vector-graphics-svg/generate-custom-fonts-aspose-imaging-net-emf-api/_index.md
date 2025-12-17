@@ -181,7 +181,7 @@ Siap untuk mengembangkan keterampilan Anda lebih jauh? Terapkan teknik-teknik in
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda dengan Aspose.Imaging hari ini dan tingkatkan aplikasi .NET Anda ke tingkat yang lebih tinggi!
 

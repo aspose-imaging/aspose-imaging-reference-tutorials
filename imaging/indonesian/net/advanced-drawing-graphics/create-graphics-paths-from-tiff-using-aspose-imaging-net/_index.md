@@ -165,7 +165,7 @@ A: Optimalkan kode Anda dengan memproses jalur secara bertahap dan pastikan pemb
 A: Ya, ini dirancang untuk integrasi mulus dengan aplikasi .NET apa pun yang memerlukan kemampuan pemrosesan gambar tingkat lanjut.
 
 **T: Dukungan apa yang tersedia jika saya mengalami masalah?**
-A: Kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10) untuk bantuan dari pakar komunitas dan staf Aspose.
+A: Kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14) untuk bantuan dari pakar komunitas dan staf Aspose.
 
 **T: Apakah ada alternatif untuk menggunakan Aspose.Imaging untuk manipulasi TIFF di .NET?**
 A: Meskipun ada pustaka lain, Aspose.Imaging menawarkan serangkaian fitur komprehensif yang dirancang khusus untuk tugas pemrosesan gambar berkualitas tinggi.
@@ -176,7 +176,7 @@ A: Meskipun ada pustaka lain, Aspose.Imaging menawarkan serangkaian fitur kompre
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda dengan Aspose.Imaging untuk .NET hari ini, dan buka kemungkinan baru dalam pemrosesan gambar!
 

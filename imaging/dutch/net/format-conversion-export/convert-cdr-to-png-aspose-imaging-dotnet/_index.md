@@ -174,7 +174,7 @@ In deze tutorial heb je geleerd hoe je CDR-bestanden naar PNG converteert met As
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefversie downloaden](https://releases.aspose.com/imaging/net/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Begin uw beeldconversie met Aspose.Imaging voor .NET en ontgrendel nieuwe mogelijkheden in uw applicaties!
 

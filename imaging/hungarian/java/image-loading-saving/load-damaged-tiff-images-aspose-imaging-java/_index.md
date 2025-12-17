@@ -155,7 +155,7 @@ Próbálja meg ezt a megoldást megvalósítani a projektjeiben még ma!
 - **Vásárlás**https://purchase.aspose.com/buy
 - **Ingyenes próbaverzió**https://releases.aspose.com/imaging/java/
 - **Ideiglenes engedély**https://purchase.aspose.com/temporary-license/
-- **Támogatási fórum**https://forum.aspose.com/c/imaging/10
+- **Támogatási fórum**https://forum.aspose.com/c/imaging/14
 
 Ez az útmutató felvértezi Önt a sérült TIFF képek Aspose.Imaging for Java használatával történő kezelésének ismereteivel és eszközeivel. Kezdje el kísérletezni és integrálja ezeket a képességeket alkalmazásaiba még ma!
 

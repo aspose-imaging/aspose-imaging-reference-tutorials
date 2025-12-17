@@ -133,7 +133,7 @@ Szűrők alkalmazásakor a teljesítmény optimalizálása érdekében vegye fig
 
 Gratulálunk! Sikeresen alkalmaztad a Gauss Wiener szűrőt színes képekre az Aspose.Imaging .NET segítségével. Ez az oktatóanyag felvértezte Önt a képfeldolgozási feladatok fejlesztéséhez szükséges tudással, tisztább és pontosabb eredményeket biztosítva.
 
-Az Aspose.Imaging képességeinek további felfedezéséhez érdemes lehet megvizsgálni a könyvtárban elérhető egyéb szűrőket és funkciókat. További kérdésekkel vagy támogatással kapcsolatban tekintse meg a következőt: [Aspose Fórum](https://forum.aspose.com/c/imaging/10).
+Az Aspose.Imaging képességeinek további felfedezéséhez érdemes lehet megvizsgálni a könyvtárban elérhető egyéb szűrőket és funkciókat. További kérdésekkel vagy támogatással kapcsolatban tekintse meg a következőt: [Aspose Fórum](https://forum.aspose.com/c/imaging/14).
 
 ## GYIK szekció
 
@@ -158,7 +158,7 @@ V: A próbalicenc teljes hozzáférést biztosít teszteléshez, de vízjeleket 
 - **Licenc vásárlása:** [Aspose vásárlás](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Próbalicenc](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum:** [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum:** [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Fedezd fel ezeket az erőforrásokat, hogy elmélyítsd a tudásodat és fejleszd a képfeldolgozási projektjeidet. Jó programozást!
 

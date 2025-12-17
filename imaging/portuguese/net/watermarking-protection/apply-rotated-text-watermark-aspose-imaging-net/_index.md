@@ -159,7 +159,7 @@ Você aprendeu com sucesso a aplicar uma marca d'água com texto rotacionado a u
 - [Licença de compra](https://purchase.aspose.com/buy)
 - [Teste grátis](https://releases.aspose.com/imaging/net/)
 - [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte](https://forum.aspose.com/c/imaging/14)
 
 Experimente implementar essas etapas e veja como o Aspose.Imaging pode otimizar suas tarefas de processamento de imagens!
 

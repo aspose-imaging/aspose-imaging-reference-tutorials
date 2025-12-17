@@ -173,7 +173,7 @@ A: 각 힌트는 효과를 평가하기 위해 개별적으로 적용됩니다. 
 - **구입**: 라이센스를 구매하거나 무료 평가판을 받으세요 [Aspose 구매](https://purchase.aspose.com/buy).
 - **무료 체험**: 시험판으로 시작하세요 [출시](https://releases.aspose.com/imaging/net/).
 - **임시 면허**: 다음 중 하나를 요청하세요. [아스포제](https://purchase.aspose.com/temporary-license/).
-- **지원하다**: 도움을 받으세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10).
+- **지원하다**: 도움을 받으세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/14).
 
 Aspose.Imaging으로 이미지 처리를 마스터하는 여정을 시작하고, 여러분의 애플리케이션을 새로운 차원으로 끌어올리세요!
 

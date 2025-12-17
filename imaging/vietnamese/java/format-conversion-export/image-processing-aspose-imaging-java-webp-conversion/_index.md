@@ -190,7 +190,7 @@ Sẵn sàng bắt đầu chưa? Hãy thử triển khai giải pháp này vào d
 - [Mua](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn này sẽ cung cấp cho bạn mọi thứ cần thiết để sử dụng hiệu quả Aspose.Imaging để tải và xuất hình ảnh ở định dạng WebP bằng Java. Chúc bạn viết code vui vẻ!
 

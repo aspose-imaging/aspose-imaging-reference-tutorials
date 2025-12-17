@@ -165,7 +165,7 @@ try (TiffImage multiImage = (TiffImage) Image.load(dataDir + "SampleTiff1.tiff")
 - **購買**：探索購買選項 [Aspose 的購買頁面](https://purchase.aspose.com/buy)
 - **免費試用**：立即開始免費試用 [這裡](https://releases.aspose.com/imaging/java/)
 - **臨時執照**：申請臨時駕照 [臨時許可證頁面](https://purchase.aspose.com/temporary-license/)
-- **支援**：加入討論並尋求協助 [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**：加入討論並尋求協助 [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 立即踏上掌握 Java 中的 Aspose.Imaging 的旅程，並改變您處理影像處理任務的方式！
 

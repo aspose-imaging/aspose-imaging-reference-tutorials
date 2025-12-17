@@ -173,7 +173,7 @@ Chcete-li dále prozkoumat možnosti knihovny Aspose.Imaging, zvažte hlubší p
    - Zvažte rozdělení procesu na menší části nebo použití paměťově efektivních metod poskytovaných knihovnou.
 
 5. **Kde mohu získat podporu, pokud narazím na problémy?**
-   - Návštěva [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) za pomoc od komunitních expertů a zaměstnanců Aspose.
+   - Návštěva [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) za pomoc od komunitních expertů a zaměstnanců Aspose.
 
 ## Zdroje
 

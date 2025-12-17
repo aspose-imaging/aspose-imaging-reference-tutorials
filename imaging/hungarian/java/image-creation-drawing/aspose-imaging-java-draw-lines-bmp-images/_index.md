@@ -211,7 +211,7 @@ A következő lépések közé tartozik a fejlettebb funkciók feltárása, mint
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével minden szükséges eszközzel felkészülhetsz az Aspose.Imaging integrálására Java projektjeidbe a robusztus képmanipulációs képességek érdekében. Jó kódolást!
 

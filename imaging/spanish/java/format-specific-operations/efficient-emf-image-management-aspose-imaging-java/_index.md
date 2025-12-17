@@ -166,7 +166,7 @@ En este tutorial, aprendió a gestionar imágenes EMF eficientemente con Aspose.
 - **Compra:** [Comprar una licencia](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Comience su prueba gratuita](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** [Solicitar aquí](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo esta guía, estará bien preparado para gestionar imágenes EMF eficazmente en sus aplicaciones Java con Aspose.Imaging. ¡Que disfrute programando!
 

@@ -133,7 +133,7 @@ A: Aspose.Imaging は、.NET アプリケーションでのループとタスク
 - **購入**： [ライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [今すぐ試す](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [質問はこちら](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [質問はこちら](https://forum.aspose.com/c/imaging/14)
 
 今すぐ Aspose.Imaging を使い始め、強力な画像処理機能で .NET アプリケーションを強化しましょう。
 

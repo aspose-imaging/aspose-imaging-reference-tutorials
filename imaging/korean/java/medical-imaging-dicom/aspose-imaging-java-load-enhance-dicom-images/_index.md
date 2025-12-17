@@ -203,7 +203,7 @@ try (FileInputStream fis = new FileInputStream(file)) {
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 튜토리얼을 통해 Aspose.Imaging을 사용하여 강력한 이미지 처리 기능으로 Java 애플리케이션을 향상시킬 수 있게 되었습니다. 즐거운 코딩 되세요!
 

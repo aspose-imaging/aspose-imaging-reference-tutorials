@@ -153,7 +153,7 @@ A: Ja, het is ontworpen om te werken met verschillende .NET Frameworks en Core-v
 - **Aankooplicentie**: [Aspose Aankooppagina](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Een tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Aspose Ondersteuningscommunity](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Aspose Ondersteuningscommunity](https://forum.aspose.com/c/imaging/14)
 
 Door het conversieproces met Aspose.Imaging onder de knie te krijgen, bent u in staat om complexe beeldverwerkingstaken efficiënt uit te voeren in uw .NET-applicaties. Veel plezier met coderen!
 

@@ -202,7 +202,7 @@ Prêt à mettre en œuvre ces solutions ? Plongez dans l'univers du traitement 
    - Utilisez des paramètres de rastérisation appropriés et surveillez les ressources système pendant le traitement par lots.
 
 5. **Comment puis-je obtenir de l’aide si je rencontre des problèmes ?**
-   - Visitez le [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) pour obtenir du soutien communautaire ou contactez leur équipe de soutien professionnelle.
+   - Visitez le [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) pour obtenir du soutien communautaire ou contactez leur équipe de soutien professionnelle.
 
 ## Ressources
 

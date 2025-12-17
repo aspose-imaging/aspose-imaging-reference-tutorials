@@ -201,7 +201,7 @@ finally {
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用版下載](https://releases.aspose.com/imaging/java/)
 - [臨時許可證申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10) 
+- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14) 
 
 按照本指南操作，您將順利掌握使用 Aspose.Imaging Java 進行影像處理的技能。祝您編碼愉快！
 

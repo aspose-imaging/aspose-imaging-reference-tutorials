@@ -199,7 +199,7 @@ try (TgaImage image = (TgaImage) Image.load(inputFile)) {
 - **التوثيق**:استكشف المزيد في [توثيق Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - **تحميل**:احصل على أحدث الإصدارات من [صفحة إصدار Aspose](https://releases.aspose.com/imaging/java/).
 - **الشراء والتجربة المجانية**:جرب الميزات اليوم في [صفحة الشراء والتجربة المجانية لـ Aspose](https://purchase.aspose.com/buy).
-- **يدعم**:انضم إلى المناقشات على [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10).
+- **يدعم**:انضم إلى المناقشات على [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14).
 
 نأمل أن يُمكّنك هذا الدليل من استخدام Aspose.Imaging Java بفعالية لتلبية احتياجاتك في معالجة الصور. برمجة ممتعة!
 

@@ -160,7 +160,7 @@ Pronto para se aprofundar? Experimente implementar essas soluções no seu próx
 - **Comprar:** [Compre o licenciamento Aspose](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Iniciar teste gratuito](https://releases.aspose.com/imaging/java/)
 - **Licença temporária:** [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar:** [Suporte do Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar:** [Suporte do Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Seguindo este guia, você estará no caminho certo para dominar o processamento de imagens SVG em Java com o Aspose.Imaging. Boa programação!
 

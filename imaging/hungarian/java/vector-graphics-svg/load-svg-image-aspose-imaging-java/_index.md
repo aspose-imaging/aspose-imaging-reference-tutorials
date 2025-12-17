@@ -178,7 +178,7 @@ Az Aspose.Imaging további megismeréséhez érdemes lehet más funkciókat is m
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió letöltése](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Most, hogy felvértezve van az SVG képek Aspose.Imaging for Java használatával történő betöltésének tudása, magabiztosan és kreativitással vághat bele a projektjeibe!
 

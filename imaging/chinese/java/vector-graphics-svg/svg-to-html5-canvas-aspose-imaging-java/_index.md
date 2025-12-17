@@ -169,7 +169,7 @@ image.save(outputDir + "/Sample.html", htmlOptions); // 保存文件到指定目
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/java/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10)
+- [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 有了这份全面的指南，您将能够充分发挥 Aspose.Imaging for Java 的强大功能，将 SVG 转换为 HTML5 Canvas 元素。祝您编码愉快！
 

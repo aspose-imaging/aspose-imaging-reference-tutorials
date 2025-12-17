@@ -215,7 +215,7 @@ public class FrameConverter {
 ### Следующие шаги
 - Изучите дополнительные возможности преобразования, доступные в Aspose.Imaging.
 - Интегрируйте эту функциональность в более крупный проект или рабочий процесс.
-- Поделитесь отзывами или обратитесь за поддержкой к [Форум сообщества Aspose](https://forum.aspose.com/c/imaging/10).
+- Поделитесь отзывами или обратитесь за поддержкой к [Форум сообщества Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Раздел часто задаваемых вопросов
 
@@ -241,7 +241,7 @@ A5: Исследуйте [Документация Aspose.Imaging](https://refer
 - **Покупка:** https://purchase.aspose.com/buy
 - **Бесплатная пробная версия:** https://releases.aspose.com/imaging/java/
 - **Временная лицензия:** https://purchase.aspose.com/temporary-license/
-- **Поддерживать:** https://forum.aspose.com/c/imaging/10
+- **Поддерживать:** https://forum.aspose.com/c/imaging/14
 
 Используя Aspose.Imaging для Java, вы можете оптимизировать процессы преобразования изображений и открыть новые возможности в обработке цифровых медиа. Удачного кодирования!
 

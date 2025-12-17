@@ -211,7 +211,7 @@ A: Sử dụng kích thước bộ đệm tùy chỉnh trong quá trình tải �
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn đã được trang bị đầy đủ để triển khai các kỹ thuật nén hình ảnh nâng cao bằng Aspose.Imaging for Java. Khám phá thêm và tích hợp các phương pháp này vào các dự án của bạn để đạt được hiệu suất và chất lượng tối ưu.
 

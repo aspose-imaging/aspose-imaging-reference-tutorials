@@ -245,7 +245,7 @@ Você aprendeu a aproveitar o poder do Aspose.Imaging para Java para processar i
 - **Comprar:** [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Obtenha um teste gratuito](https://releases.aspose.com/imaging/java/)
 - **Licença temporária:** [Solicitar uma Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar:** [Fóruns Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar:** [Fóruns Aspose](https://forum.aspose.com/c/imaging/14)
 
 Seguindo este guia, você estará preparado para integrar o processamento de imagens TIFF aos seus aplicativos Java sem problemas. Boa programação!
 

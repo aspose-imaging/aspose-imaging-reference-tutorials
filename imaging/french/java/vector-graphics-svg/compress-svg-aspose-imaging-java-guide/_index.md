@@ -211,7 +211,7 @@ Dans ce tutoriel, nous avons découvert comment charger, configurer et enregistr
 - [Achat](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 En utilisant ces ressources, vous pouvez explorer davantage les capacités d'Aspose.Imaging et améliorer vos applications Java avec de puissantes fonctionnalités de traitement d'image.
 

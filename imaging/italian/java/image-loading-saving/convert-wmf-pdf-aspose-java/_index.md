@@ -203,7 +203,7 @@ In questo tutorial, hai imparato a convertire i file WMF in PDF utilizzando Aspo
 - [Acquista una licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Padroneggiando questi passaggi, sarai pronto a gestire le conversioni da WMF a PDF con facilità. Buon lavoro!
 

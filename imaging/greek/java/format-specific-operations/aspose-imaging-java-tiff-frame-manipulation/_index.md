@@ -178,7 +178,7 @@ tiffFrame.save("YOUR_OUTPUT_DIRECTORY/" + i + "_out.tiff", new TiffOptions(TiffE
 - **Αγορά**: [Αγοράστε Άδεια Χρήσης Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε με μια δωρεάν δοκιμή του Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Γίνετε μέλος του φόρουμ Aspose για υποστήριξη](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Γίνετε μέλος του φόρουμ Aspose για υποστήριξη](https://forum.aspose.com/c/imaging/14)
 
 Με αυτούς τους πόρους στη διάθεσή σας, είστε πλέον εξοπλισμένοι για να αντιμετωπίσετε την επεξεργασία εικόνων TIFF με σιγουριά. Καλή κωδικοποίηση!
 

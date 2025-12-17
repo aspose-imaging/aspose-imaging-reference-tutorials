@@ -179,7 +179,7 @@ A5: 무료 평가판이든 구매 버전이든 라이선스를 얻고 활성화�
 - **구입**: [라이센스 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [여기서 시작하세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [지금 요청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [커뮤니티 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [커뮤니티 포럼](https://forum.aspose.com/c/imaging/14)
 
 이러한 리소스를 활용하면 Aspose.Imaging의 기능을 더욱 자세히 살펴보고 구현 과정에서 발생하는 문제를 해결할 수 있습니다. 즐거운 코딩 되세요!
 

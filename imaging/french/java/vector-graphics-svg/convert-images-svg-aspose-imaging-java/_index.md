@@ -201,7 +201,7 @@ Ce tutoriel vous a permis d'acquérir les connaissances nécessaires pour charge
 - [Licence d'achat](https://purchase.aspose.com/buy)
 - [Téléchargement d'essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Demande de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10) 
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14) 
 
 En suivant ce guide, vous serez sur la bonne voie pour maîtriser le traitement d'images avec Aspose.Imaging Java. Bon codage !
 

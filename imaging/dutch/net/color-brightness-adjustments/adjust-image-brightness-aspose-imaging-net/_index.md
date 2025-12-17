@@ -172,7 +172,7 @@ A: Technisch gezien is het haalbaar, maar extreme aanpassingen kunnen de beeldkw
 - **Aankooplicentie**: [Nu kopen](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Aan de slag](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Hier aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Aspose.Imaging-community](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Aspose.Imaging-community](https://forum.aspose.com/c/imaging/14)
 
 Deze handleiding is een uitgebreide bron voor het onder de knie krijgen van helderheidsaanpassingen met Aspose.Imaging voor .NET. Veel plezier met coderen!
 

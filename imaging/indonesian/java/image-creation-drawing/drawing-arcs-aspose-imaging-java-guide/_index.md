@@ -192,7 +192,7 @@ Jelajahi kelas Grafik dalam dokumentasi API, yang menawarkan metode untuk mengga
 - **Pembelian**: [Beli Lisensi Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Minta di sini](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Jelajahi sumber daya ini untuk memperdalam pemahaman Anda dan memperluas kemampuan Aspose.Imaging Java dalam proyek Anda. Selamat membuat kode!
 

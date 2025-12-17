@@ -245,7 +245,7 @@ try (TiffImage image = (TiffImage) Image.load("YOUR_DOCUMENT_DIRECTORY" + "TestD
 - **Покупка:** [Купить Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия:** [Получите бесплатную пробную версию](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия:** [Запросить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать:** [Форумы Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать:** [Форумы Aspose](https://forum.aspose.com/c/imaging/14)
 
 Следуя этому руководству, вы теперь готовы к бесшовной интеграции обработки изображений TIFF в ваши приложения Java. Удачного кодирования!
 

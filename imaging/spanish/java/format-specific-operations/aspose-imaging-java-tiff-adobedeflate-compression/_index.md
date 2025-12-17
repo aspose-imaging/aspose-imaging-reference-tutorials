@@ -153,7 +153,7 @@ Al finalizar este tutorial, se sentirá cómodo convirtiendo imágenes rasteriza
 - [Compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Explora estos recursos para profundizar tu comprensión y sacar el máximo provecho de Aspose.Imaging para Java. ¡Que disfrutes programando!
 

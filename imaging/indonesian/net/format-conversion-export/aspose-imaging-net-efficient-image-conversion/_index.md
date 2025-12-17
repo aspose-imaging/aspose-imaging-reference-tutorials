@@ -137,7 +137,7 @@ Jelajahi fitur Aspose.Imaging yang lebih canggih, seperti pemrosesan batch atau 
 - [Unduh Aspose.Imaging untuk .NET](https://releases.aspose.com/imaging/net/)
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis dan Lisensi Sementara](https://releases.aspose.com/imaging/net/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Jelajahi sumber daya ini untuk memperdalam pemahaman Anda dan menyempurnakan implementasi Anda dengan Aspose.Imaging .NET. Selamat membuat kode!
 

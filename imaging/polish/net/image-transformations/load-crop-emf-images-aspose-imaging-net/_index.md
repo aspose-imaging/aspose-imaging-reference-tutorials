@@ -186,7 +186,7 @@ Gotowy, aby wykorzystać zdobytą wiedzę w praktyce? Zanurz się głębiej, eks
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatny dostęp próbny](https://releases.aspose.com/imaging/net/)
 - [Wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Ten kompleksowy przewodnik został zaprojektowany, aby wyposażyć Cię w wiedzę i umiejętności potrzebne do skutecznej integracji możliwości przetwarzania obrazu EMF z aplikacjami .NET. Dzięki Aspose.Imaging rozszerz swój zestaw narzędzi programistycznych i zwiększ funkcjonalność swojego projektu.
 

@@ -138,7 +138,7 @@ Bilginizi daha da geliştirmek için Aspose.Imaging'in sunduğu diğer özellikl
 - **Satın almak**: [Lisans satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Başvurusunda Bulunun](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/14)
 
 Keyifli kodlamalar ve Aspose.Imaging ile DICOM görüntülerinizi geliştirmenin tadını çıkarın!
 

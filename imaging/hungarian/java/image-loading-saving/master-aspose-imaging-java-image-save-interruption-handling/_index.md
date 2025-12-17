@@ -231,7 +231,7 @@ Ezzel az oktatóanyaggal megtanultad, hogyan implementálhatod az Aspose.Imaging
    - Fontolja meg a szálkészletek és a hatékony erőforrás-kezelési gyakorlatok bevezetését a magas párhuzamosság kezelése érdekében.
 
 5. **Hogyan tudom elhárítani az Aspose.Imaging használatakor felmerülő gyakori problémákat?**
-   - Ellenőrizze a hivatalos [dokumentáció](https://reference.aspose.com/imaging/java/) részletes útmutatókért, vagy látogassa meg a [Aspose fórumok](https://forum.aspose.com/c/imaging/10) közösségi támogatásért.
+   - Ellenőrizze a hivatalos [dokumentáció](https://reference.aspose.com/imaging/java/) részletes útmutatókért, vagy látogassa meg a [Aspose fórumok](https://forum.aspose.com/c/imaging/14) közösségi támogatásért.
 
 ## Erőforrás
 

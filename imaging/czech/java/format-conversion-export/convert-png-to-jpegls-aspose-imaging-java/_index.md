@@ -204,7 +204,7 @@ tomto tutoriálu jste se naučili, jak převádět obrázky PNG do formátu JPEG
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatný zkušební přístup](https://releases.aspose.com/imaging/java/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory komunity](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory komunity](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto komplexního průvodce jste nyní vybaveni k efektivnímu zpracování konverzí PNG do JPEG-LS a naopak pomocí Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

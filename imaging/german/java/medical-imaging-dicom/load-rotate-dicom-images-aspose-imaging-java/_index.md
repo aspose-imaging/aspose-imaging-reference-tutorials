@@ -184,7 +184,7 @@ A5: Überprüfen Sie Ihren Code noch einmal auf Syntaxfehler und stellen Sie sic
 - **Kaufen**: Erwerben Sie eine Lizenz bei [Aspose-Kaufseite](https://purchase.aspose.com/buy).
 - **Kostenlose Testversion**: Starten Sie mit einer kostenlosen Testversion über [Aspose-Studien](https://releases.aspose.com/imaging/java/).
 - **Temporäre Lizenz**: Erhalten Sie eine temporäre Lizenz von [Aspose-Lizenzierung](https://purchase.aspose.com/temporary-license/).
-- **Unterstützung**: Hilfe suchen auf der [Aspose-Forum](https://forum.aspose.com/c/imaging/10).
+- **Unterstützung**: Hilfe suchen auf der [Aspose-Forum](https://forum.aspose.com/c/imaging/14).
 
 Mit dieser Anleitung sind Sie nun in der Lage, DICOM-Bildrotationen in Java sicher durchzuführen. Viel Spaß beim Programmieren!
 

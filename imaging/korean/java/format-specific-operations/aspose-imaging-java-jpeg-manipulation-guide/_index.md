@@ -184,7 +184,7 @@ A5: 리소스를 효과적으로 관리하고 처리에 적절한 차원을 사�
 - **라이센스 구매:** [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [무료로 체험해보세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [임시 면허 취득](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼:** [Aspose 이미징 지원](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼:** [Aspose 이미징 지원](https://forum.aspose.com/c/imaging/14)
 
 즐거운 코딩을 하시고, Java용 Aspose.Imaging의 기능을 탐험해보세요!
 

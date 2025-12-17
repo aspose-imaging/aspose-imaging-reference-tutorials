@@ -221,7 +221,7 @@ Most már megtanultad, hogyan konvertálhatsz WMF képeket WebP formátumba az A
 - [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - [Az Aspose.Imaging ingyenes próbaverziója](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ez az oktatóanyag egyértelmű és gyakorlatias útmutatást nyújt a képek Aspose.Imaging for Java használatával történő konvertálásához, felvértezve Önt azzal a tudással, amelyre szüksége lehet webes alkalmazásai hatékony fejlesztéséhez.
 

@@ -167,7 +167,7 @@ A5: Meskipun efektif, metode ini paling cocok untuk gambar yang memiliki variasi
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulailah dengan Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**:Untuk pertanyaan apa pun, kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**:Untuk pertanyaan apa pun, kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda dengan Aspose.Imaging untuk .NET dan buka kemampuan baru dalam pencitraan medis!
 

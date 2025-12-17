@@ -213,7 +213,7 @@ A: Το TIFF υποστηρίζει πολλαπλά επίπεδα, μεθόδ�
 - [Αγορά αδειών χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμαστικές λήψεις](https://releases.aspose.com/imaging/net/)
 - [Αίτηση Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Αυτός ο οδηγός στοχεύει να σας παρέχει τις γνώσεις και τα εργαλεία που χρειάζεστε για να μετατρέψετε εικόνες DjVu αποτελεσματικά χρησιμοποιώντας το Aspose.Imaging για .NET. Καλή κωδικοποίηση!
 

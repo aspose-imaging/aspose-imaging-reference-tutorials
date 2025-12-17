@@ -224,7 +224,7 @@ jpegImage.save(outputPngRectFileName, new PngOptions(), quarter);
 - **شراء:** [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [ابدأ بإصدار تجريبي مجاني](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة:** [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 نأمل أن يكون هذا الدليل مفيدًا لإتقان معالجة صور JPEG باستخدام Aspose.Imaging لجافا. جرّب تطبيق هذه الحلول لترى كيف يُمكنها تحسين مشاريعك!
 

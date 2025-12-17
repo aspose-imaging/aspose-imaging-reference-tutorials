@@ -157,7 +157,7 @@ var imagePath = Path.Combine(documentDirectory, "SampleTiff1.tiff");
 ج: على الرغم من أن الأداء قد يختلف مع الملفات الكبيرة جدًا، إلا أن Aspose.Imaging مصمم للتعامل مع بيانات الصور الكبيرة بكفاءة.
 
 **س5: ما هي خيارات الدعم المتاحة إذا واجهت مشاكل؟**
-أ: يمكنك الوصول إلى الوثائق التفصيلية ومنتديات المجتمع للحصول على نصائح حول استكشاف الأخطاء وإصلاحها على [دعم Aspose](https://forum.aspose.com/c/imaging/10).
+أ: يمكنك الوصول إلى الوثائق التفصيلية ومنتديات المجتمع للحصول على نصائح حول استكشاف الأخطاء وإصلاحها على [دعم Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## موارد
 - **التوثيق**: [توثيق Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)

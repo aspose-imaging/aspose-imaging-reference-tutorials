@@ -203,7 +203,7 @@ Prêt à implémenter ces solutions dans vos propres projets ? Explorez la docu
 - **Achat**: [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Obtenez une licence gratuite](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**: [Demander une licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum communautaire Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum communautaire Aspose](https://forum.aspose.com/c/imaging/14)
 
 En utilisant Aspose.Imaging pour Java, vous pouvez rationaliser vos flux de traitement de documents et gérer facilement vos fichiers DjVu. Bon codage !
 

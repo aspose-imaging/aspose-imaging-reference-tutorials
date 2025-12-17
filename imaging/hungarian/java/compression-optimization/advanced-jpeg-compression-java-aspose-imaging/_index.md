@@ -211,7 +211,7 @@ A: A memóriahasználat hatékony optimalizálása érdekében használjon egyé
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Ingyenes próbaverzió indítása](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével felkészült leszel arra, hogy fejlett képtömörítési technikákat valósíts meg az Aspose.Imaging for Java használatával. Fedezd fel a továbbiakat, és integráld ezeket a módszereket a projektjeidbe az optimális teljesítmény és minőség elérése érdekében.
 

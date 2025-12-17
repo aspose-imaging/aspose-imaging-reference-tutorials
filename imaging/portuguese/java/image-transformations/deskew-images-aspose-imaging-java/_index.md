@@ -182,7 +182,7 @@ R: Após comprar ou obter uma licença temporária, configure seu aplicativo par
 - **Comprar:** [Compre o licenciamento Aspose](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Comece um teste gratuito](https://releases.aspose.com/imaging/java/)
 - **Licença temporária:** [Solicitar Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar:** [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar:** [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Esperamos que este guia ajude você a implementar recursos de suavização de distorção com eficiência em seus aplicativos Java usando Aspose.Imaging. Boa programação!
 

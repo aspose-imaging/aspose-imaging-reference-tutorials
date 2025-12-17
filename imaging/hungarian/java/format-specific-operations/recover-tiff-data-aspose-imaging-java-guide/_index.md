@@ -227,7 +227,7 @@ Ezután érdemes lehet az Aspose.Imaging fejlettebb funkcióit is felfedezni, va
    - Igen, megfelelő licenceléssel ideális professzionális és vállalati alkalmazásokhoz.
 
 5. **Hol találok további forrásokat az Aspose.Imagingről?**
-   - Látogatás [Aspose dokumentáció](https://reference.aspose.com/imaging/java/) és a [támogatási fórum](https://forum.aspose.com/c/imaging/10) részletes útmutatókért és közösségi segítségért.
+   - Látogatás [Aspose dokumentáció](https://reference.aspose.com/imaging/java/) és a [támogatási fórum](https://forum.aspose.com/c/imaging/14) részletes útmutatókért és közösségi segítségért.
 
 ## Erőforrás
 
@@ -236,7 +236,7 @@ Ezután érdemes lehet az Aspose.Imaging fejlettebb funkcióit is felfedezni, va
 - **Vásárlás**https://purchase.aspose.com/buy
 - **Ingyenes próbaverzió**https://releases.aspose.com/imaging/java/
 - **Ideiglenes engedély**https://purchase.aspose.com/temporary-license/
-- **Támogatás**https://forum.aspose.com/c/imaging/10
+- **Támogatás**https://forum.aspose.com/c/imaging/14
 
 Kezdje el utját a TIFF képmentés elsajátításának útján az Aspose.Imaging for Java segítségével még ma!
 

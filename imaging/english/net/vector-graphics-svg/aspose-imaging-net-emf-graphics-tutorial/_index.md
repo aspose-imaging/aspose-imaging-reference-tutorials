@@ -154,7 +154,7 @@ Ready to get started? Try implementing this solution in your next project!
 - [Purchase](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/net/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10) 
+- [Support Forum](https://forum.aspose.com/c/imaging/14) 
 
 Explore these resources to dive deeper into Aspose.Imaging's capabilities and enhance your .NET applications today!
 

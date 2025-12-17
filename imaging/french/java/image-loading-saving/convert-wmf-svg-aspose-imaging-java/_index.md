@@ -190,7 +190,7 @@ Félicitations pour avoir terminé ce guide ! Vous savez maintenant comment con
 - [Acheter une licence](https://purchase.aspose.com/buy)
 - [Version d'essai gratuite](https://releases.aspose.com/imaging/java/)
 - [Demander un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum communautaire Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum communautaire Aspose](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce guide complet, vous pourrez utiliser efficacement Aspose.Imaging pour convertir des fichiers WMF en SVG en Java et explorer ses nombreuses fonctionnalités. Bon codage !
 

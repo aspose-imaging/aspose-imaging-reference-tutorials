@@ -234,7 +234,7 @@ license.setLicense("path/to/your/license/file.lic");
 - [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Αξιοποιώντας αυτούς τους πόρους, μπορείτε να βελτιώσετε την κατανόηση και τη χρήση του Aspose.Imaging για Java στα έργα σας. Καλή κωδικοποίηση!
 

@@ -210,7 +210,7 @@ image.save("YOUR_OUTPUT_DIRECTORY/ConvertDjvuPagesToGif_out.gif", exportOptions)
 - **購買：** [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用：** [開始免費試用](https://releases.aspose.com/imaging/java/)
 - **臨時執照：** [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 透過學習本教程，您現在可以在專案中使用 Aspose.Imaging for Java 了。祝您程式愉快！
 

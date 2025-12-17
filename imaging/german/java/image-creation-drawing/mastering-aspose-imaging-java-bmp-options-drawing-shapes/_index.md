@@ -214,7 +214,7 @@ A: Absolut. Es verarbeitet effizient verschiedene Bildformate, einschließlich h
 - **Kaufen**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Testen Sie Aspose.Imaging kostenlos](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Holen Sie sich eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Nachdem Sie nun über dieses Wissen verfügen, können Sie versuchen, diese Funktionen in Ihren Java-Anwendungen zu implementieren!
 

@@ -154,7 +154,7 @@ Klaar om je DICOM-beeldverwerkingsvaardigheden naar een hoger niveau te tillen? 
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Deze uitgebreide handleiding geeft u alles wat u nodig hebt om drempelwaarde-dithering toe te passen op DICOM-afbeeldingen met behulp van Aspose.Imaging voor .NET, waardoor uw beeldverwerkingsmogelijkheden worden uitgebreid.
 

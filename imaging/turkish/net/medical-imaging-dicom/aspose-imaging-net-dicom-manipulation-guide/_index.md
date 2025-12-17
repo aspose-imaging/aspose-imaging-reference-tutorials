@@ -126,7 +126,7 @@ A: İşlem başarısız olacağından güncelleme yapmadan önce etiketin mevcut
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'i Ücretsiz Deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: Sorularınız için şu adresi ziyaret edin: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek**: Sorularınız için şu adresi ziyaret edin: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı kılavuzla, DICOM görüntü işleme projelerinizde Aspose.Imaging for .NET'i kullanmaya başlamaya hazırsınız. İyi kodlamalar!
 

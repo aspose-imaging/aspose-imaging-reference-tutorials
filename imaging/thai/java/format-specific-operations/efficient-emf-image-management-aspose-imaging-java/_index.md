@@ -166,7 +166,7 @@ try {
 - **ซื้อ:** [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี:** [เริ่มทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว:** [ขอคำร้องได้ที่นี่](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน:** [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน:** [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14)
 
 หากทำตามคำแนะนำนี้ คุณจะสามารถจัดการกับภาพ EMF ในแอปพลิเคชัน Java ของคุณได้อย่างมีประสิทธิภาพโดยใช้ Aspose.Imaging ขอให้สนุกกับการเขียนโค้ด!
 

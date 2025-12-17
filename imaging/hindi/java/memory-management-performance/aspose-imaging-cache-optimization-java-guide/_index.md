@@ -233,7 +233,7 @@ try (RasterImage image = (RasterImage) Image.create(options, 100, 100)) {
 - [खरीदना](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड के साथ, आप जावा में Aspose.Imaging कैश को प्रभावी ढंग से अनुकूलित करने के लिए अच्छी तरह से सुसज्जित हैं। हैप्पी कोडिंग!
 

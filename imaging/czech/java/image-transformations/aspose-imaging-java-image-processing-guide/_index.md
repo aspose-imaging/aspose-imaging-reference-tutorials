@@ -264,7 +264,7 @@ Prozkoumejte další zdroje a možnosti podpory na adrese:
 - **Nákup:** https://purchase.aspose.com/buy
 - **Bezplatná zkušební verze:** https://releases.aspose.com/imaging/java/
 - **Dočasná licence:** https://purchase.aspose.com/temporary-license/
-- **Podpora:** https://forum.aspose.com/c/imaging/10
+- **Podpora:** https://forum.aspose.com/c/imaging/14
 
 Posuňte zpracování obrazu v Javě na další úroveň využitím výkonných funkcí Aspose.Imaging ještě dnes!
 

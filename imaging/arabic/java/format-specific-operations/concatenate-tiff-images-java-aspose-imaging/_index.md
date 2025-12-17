@@ -181,7 +181,7 @@ try {
 - [شراء الترخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 لقد زوَّدك هذا البرنامج التعليمي بالمعرفة اللازمة للتعامل مع مهام تجميع صور TIFF المعقدة باستخدام Aspose.Imaging لجافا. برمجة ممتعة!
 

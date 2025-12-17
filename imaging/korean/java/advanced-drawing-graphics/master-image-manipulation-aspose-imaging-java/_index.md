@@ -215,7 +215,7 @@ Java에서 이미지 처리를 할 때 다음 팁을 참고해 성능을 최적�
 Aspose Imaging Java의 더 고급 기능을 탐색하거나 대규모 프로젝트에 통합해 보세요. 다양한 이미지 포맷과 변환을 실험해 보며 새로운 가능성을 확인해 보시기 바랍니다.
 
 ### 행동 요청
-다음 프로젝트에서 오늘 배운 솔루션을 구현해 보세요. 경험과 도전 과제를 [Aspose Forum](https://forum.aspose.com/c/imaging/10) 같은 커뮤니티에 공유해 주세요.
+다음 프로젝트에서 오늘 배운 솔루션을 구현해 보세요. 경험과 도전 과제를 [Aspose Forum](https://forum.aspose.com/c/imaging/14) 같은 커뮤니티에 공유해 주세요.
 
 ## FAQ 섹션
 
@@ -241,7 +241,7 @@ Aspose Imaging Java의 더 고급 기능을 탐색하거나 대규모 프로젝�
 - **구매:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **무료 체험:** [Get Started with Free Trial](https://releases.aspose.com/imaging/java/)
 - **임시 라이선스:** [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **지원:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **지원:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 이러한 리소스를 활용하면 Aspose Imaging Java에 대한 이해와 활용도를 더욱 높일 수 있습니다. 즐거운 코딩 되세요!
 

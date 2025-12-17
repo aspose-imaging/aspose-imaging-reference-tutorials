@@ -191,7 +191,7 @@ Zvládnutím těchto technik s Aspose.Imaging pro Javu můžete efektivně sprav
 - **Stáhnout**Nejnovější verze knihoven naleznete na [Aspose Releases](https://releases.aspose.com/imaging/java/)
 - **Nákup**Získejte plnou licenci od [Nákup Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze a dočasná licence**Začněte se zkouškami na [Aspose Trials](https://releases.aspose.com/imaging/java/) a získat dočasné licence pro hodnocení.
-- **Podpora**V případě jakýchkoli problémů nebo dotazů navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Podpora**V případě jakýchkoli problémů nebo dotazů navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Nyní, když máte důkladné znalosti o tom, jak používat Aspose.Imaging v Javě pro úlohy manipulace s obrázky, můžete se bez obav pustit do prozkoumání pokročilejších funkcí a dále vylepšit své aplikace!
 

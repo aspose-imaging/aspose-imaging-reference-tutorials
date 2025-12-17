@@ -171,7 +171,7 @@ Most már rendelkezik az eszközökkel JPEG és TIFF képek DICOM formátumba ko
 - **Vásárlás**: [Vásároljon Aspose Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbálja ki ingyen](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ennek az oktatóanyagnak a követésével felkészült leszel arra, hogy képkonverziós feladatokat kezelj orvosi képalkotó projektekben az Aspose.Imaging for Java használatával.
 

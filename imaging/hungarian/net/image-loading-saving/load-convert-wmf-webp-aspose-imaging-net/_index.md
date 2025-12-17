@@ -191,7 +191,7 @@ Készen állsz arra, hogy újonnan megszerzett készségeidet a gyakorlatban is 
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Használd ki ezeket az erőforrásokat az Aspose.Imaging for .NET megértésének elmélyítéséhez és az implementáció fejlesztéséhez. Jó kódolást!
 

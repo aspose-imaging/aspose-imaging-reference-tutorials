@@ -244,7 +244,7 @@ A5: While Aspose.Imaging operations are not inherently thread-safe, you can mana
 - **Purchase:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Start your journey with Aspose.Imaging for Java today and unlock the full potential of image processing in your applications!
 

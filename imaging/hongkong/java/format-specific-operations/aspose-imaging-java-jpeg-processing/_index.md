@@ -191,7 +191,7 @@ Aspose.Imaging for Java 允許開發人員以程式設計方式操作影像，�
 - **購買：** [購買 Aspose 許可證](https://purchase.aspose.com/buy)
 - **免費試用：** [Aspose Imaging 免費試用](https://releases.aspose.com/imaging/java/)
 - **臨時執照：** [申請臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/14)
 
 透過學習本教程，您將掌握使用 Aspose.Imaging for Java 高效載入和儲存 JPEG 影像的知識。祝您程式愉快！
 

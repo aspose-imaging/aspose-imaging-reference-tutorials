@@ -211,7 +211,7 @@ try (Image image = Image.create(bmpCreateOptions, 100, 100)) {
 - [Αγορά Άδειας Χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, είστε πλήρως εξοπλισμένοι για να ενσωματώσετε το Aspose.Imaging στα έργα Java σας για ισχυρές δυνατότητες χειρισμού εικόνας. Καλή κωδικοποίηση!
 

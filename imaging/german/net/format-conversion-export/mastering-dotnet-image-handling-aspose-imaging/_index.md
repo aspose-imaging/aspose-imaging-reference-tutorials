@@ -170,7 +170,7 @@ In diesem Tutorial haben Sie die Grundlagen des Ladens und Speicherns von Bilder
 - **Kaufen:** [Kaufen Sie eine Lizenz](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Starten Sie Ihre kostenlose Testversion](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz:** [Temporäre Lizenz anfordern](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Wenn Sie dieser Anleitung folgen, sind Sie nun in der Lage, die .NET-Bildverarbeitung mit Aspose.Imaging für .NET sicher durchzuführen. Viel Spaß beim Programmieren!
 

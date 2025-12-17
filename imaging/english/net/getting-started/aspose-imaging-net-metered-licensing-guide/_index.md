@@ -152,7 +152,7 @@ In this guide, we've explored how to implement metered licensing with Aspose.Ima
 - Experiment further by integrating metered licensing into more complex workflows.
 - Explore additional features offered by Aspose.Imaging that can enhance your application's capabilities.
 
-We encourage you to try out this implementation in your projects. If you have questions or need support, don't hesitate to reach out via the [Aspose community forum](https://forum.aspose.com/c/imaging/10).
+We encourage you to try out this implementation in your projects. If you have questions or need support, don't hesitate to reach out via the [Aspose community forum](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ Section
 **Q1: What is metered licensing?**

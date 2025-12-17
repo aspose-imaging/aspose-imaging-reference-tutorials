@@ -198,7 +198,7 @@ image.save(outputFile, options);
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用訊息](https://releases.aspose.com/imaging/java/)
 - [臨時執照](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 本指南旨在幫助您掌握有效運用 Aspose.Imaging for Java 所需的技能，從而增強您的數位媒體專案。祝您程式愉快！
 

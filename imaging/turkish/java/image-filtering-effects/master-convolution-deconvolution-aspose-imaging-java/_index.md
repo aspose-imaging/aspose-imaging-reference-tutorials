@@ -195,7 +195,7 @@ A: Kütüphane sağlamdır ancak aşırı büyük görüntüler veya karmaşık 
 - **Satın almak**: [Aspose Görüntülemeyi Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Deneme ile Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Burada Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Sorular Sorun](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: [Sorular Sorun](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Aspose.Imaging for Java tarafından sunulan güçlü görüntü işleme yeteneklerinde ustalaşma yolunda iyi bir mesafe kat etmiş olacaksınız. İyi kodlamalar!
 

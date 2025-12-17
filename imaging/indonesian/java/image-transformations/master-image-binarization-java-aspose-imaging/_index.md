@@ -191,7 +191,7 @@ A5: Ya, Aspose.Imaging mendukung berbagai format gambar termasuk JPEG, PNG, BMP,
 - **Pembelian:** [Beli Aspose.License](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Mulai Uji Coba Gratis Anda](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti tutorial ini, Anda telah membekali diri dengan keterampilan untuk menangani tugas binerisasi gambar secara efektif menggunakan Aspose.Imaging untuk Java. Selamat membuat kode!
 

@@ -217,7 +217,7 @@ Ao utilizar o Aspose.Imaging para .NET, você aprendeu a carregar e armazenar im
 - **Comprar**: [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Experimente o Aspose.Imaging gratuitamente](https://releases.aspose.com/imaging/net/)
 - **Licença Temporária**: [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Seguindo este guia, você estará preparado para implementar recursos avançados de processamento de imagens em seus aplicativos .NET usando o Aspose.Imaging. Divirta-se explorando e aprimorando seus projetos!
 

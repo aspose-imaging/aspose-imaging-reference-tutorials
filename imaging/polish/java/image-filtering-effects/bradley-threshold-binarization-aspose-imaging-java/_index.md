@@ -198,7 +198,7 @@ A5: Rozważ optymalizację środowiska Java pod kątem zarządzania pamięcią i
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatny dostęp próbny](https://releases.aspose.com/imaging/java/)
 - [Wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Przeglądaj te zasoby, aby pogłębić swoje zrozumienie i ulepszyć swoje projekty przetwarzania obrazu za pomocą Aspose.Imaging for Java. Miłego kodowania!
 

@@ -211,7 +211,7 @@ Langkah selanjutnya termasuk mengeksplorasi fitur-fitur yang lebih canggih seper
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda akan diperlengkapi dengan baik untuk mengintegrasikan Aspose.Imaging ke dalam proyek Java Anda untuk kemampuan manipulasi gambar yang tangguh. Selamat membuat kode!
 

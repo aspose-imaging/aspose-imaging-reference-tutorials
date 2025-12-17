@@ -169,7 +169,7 @@ A3: Thư viện sẽ xử lý những trường hợp như vậy một cách nh�
 A4: Phiên bản dùng thử có thể có những hạn chế về sử dụng như hình mờ hoặc giới hạn xử lý.
 
 **Câu hỏi 5: Tôi có thể nhận được hỗ trợ như thế nào nếu gặp sự cố với Aspose.Imaging?**
-A5: Ghé thăm [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10) để được cộng đồng và chính quyền hỗ trợ.
+A5: Ghé thăm [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14) để được cộng đồng và chính quyền hỗ trợ.
 
 ## Tài nguyên
 
@@ -178,7 +178,7 @@ A5: Ghé thăm [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10) đ�
 - **Mua**: Có được giấy phép thông qua [Mua Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: Bắt đầu với bản dùng thử miễn phí tại [Aspose.Imaging dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: Yêu cầu cấp giấy phép tạm thời từ [Giấy phép tạm thời Aspose](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**:Tham gia thảo luận trong [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**:Tham gia thảo luận trong [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình của bạn với Aspose.Imaging for Java và mở khóa những khả năng mới trong xử lý hình ảnh ngay hôm nay!
 

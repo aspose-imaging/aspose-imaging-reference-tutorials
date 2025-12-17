@@ -191,7 +191,7 @@ Console.WriteLine("WMF Image Converted to WebP format.");
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/net/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10)
+- [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 利用这些资源加深您对 Aspose.Imaging for .NET 的理解，并增强其实现。祝您编程愉快！
 

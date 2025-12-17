@@ -203,7 +203,7 @@ Always use try-catch blocks to handle potential IOExceptions or other runtime ex
 - **Purchase**: For a full license, visit [Buy Aspose.Imaging](https://purchase.aspose.com/buy).
 - **Free Trial**: Start with a trial at [Aspose.Imaging Free Downloads](https://releases.aspose.com/imaging/java/).
 - **Temporary License**: Obtain a temporary license from [Aspose Licensing Page](https://purchase.aspose.com/temporary-license/).
-- **Support**: Join the discussion on [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Support**: Join the discussion on [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 With these resources, you're well-equipped to dive deeper into image processing with Aspose.Imaging for Java. Happy coding!
 

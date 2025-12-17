@@ -221,7 +221,7 @@ A5: Maven veya Gradle kullanarak projenize Aspose.Imaging bağımlılığını e
 - **Satın almak**: Lisansı şu şekilde edinin: [Aspose'un satın alma sayfası](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: Deney yapmaya başlayın [Aspose'un ücretsiz deneme sürümü](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**Genişletilmiş erişim elde edin [Aspose'nin geçici lisans sayfası](https://purchase.aspose.com/temporary-license/)
-- **Destek**: Toplulukla etkileşim kurun ve ekibi destekleyin [Aspose'nin forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: Toplulukla etkileşim kurun ve ekibi destekleyin [Aspose'nin forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Aspose.Imaging kullanarak Java uygulamalarınızda dosya doğrulama ve yol yönetimini uygulamak için iyi bir donanıma sahip olursunuz. İyi kodlamalar!
 

@@ -163,7 +163,7 @@ Anda kini telah mempelajari cara memuat, menyimpan, dan menghapus gambar menggun
 - **Pembelian**:Beli lisensi Anda di [Aspose Pembelian](https://purchase.aspose.com/buy).
 - **Uji Coba Gratis**: Uji coba gratis yang tersedia di situs mereka.
 - **Lisensi Sementara**: Dapatkan satu untuk akses fitur lengkap tanpa batasan.
-- **Mendukung**: Dapatkan bantuan dari komunitas di [Forum Aspose](https://forum.aspose.com/c/imaging/10). 
+- **Mendukung**: Dapatkan bantuan dari komunitas di [Forum Aspose](https://forum.aspose.com/c/imaging/14). 
 
 Dengan mengikuti panduan komprehensif ini, Anda sekarang siap untuk menangani berkas gambar secara efisien di aplikasi Java Anda menggunakan Aspose.Imaging!
 

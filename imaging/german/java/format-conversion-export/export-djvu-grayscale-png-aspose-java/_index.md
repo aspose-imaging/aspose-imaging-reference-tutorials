@@ -194,7 +194,7 @@ A5: Absolut! Implementieren Sie Schleifen oder Parallelverarbeitungstechniken, u
 - **Kaufen**: https://purchase.aspose.com/buy
 - **Kostenlose Testversion**: https://releases.aspose.com/imaging/java/
 - **Temporäre Lizenz**: https://purchase.aspose.com/temporary-license/
-- **Unterstützung**: https://forum.aspose.com/c/imaging/10
+- **Unterstützung**: https://forum.aspose.com/c/imaging/14
 
 Erkunden Sie diese Ressourcen, um Ihr Verständnis und Ihre Kenntnisse von Aspose.Imaging für Java zu vertiefen. Viel Spaß beim Programmieren!
 

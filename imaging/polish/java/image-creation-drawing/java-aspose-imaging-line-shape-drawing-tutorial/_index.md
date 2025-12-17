@@ -241,7 +241,7 @@ Nauczyłeś się, jak korzystać z biblioteki Aspose.Imaging do rysowania linii,
 - [Opcje zakupu](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Teraz, gdy masz kompleksowy przewodnik po implementacji funkcji rysowania za pomocą Aspose.Imaging dla Java, zacznij eksperymentować i integrować te techniki w swoich projektach. Miłego kodowania!
 

@@ -193,7 +193,7 @@ Készen állsz kipróbálni? Látogass el ide: [Aspose.Imaging dokumentáció](h
    - JDK 8 vagy újabb és kompatibilis Java IDE.
 
 5. **Hol találok támogatást, ha problémákba ütközöm?**
-   - Csatlakozz a [Aspose Fórum](https://forum.aspose.com/c/imaging/10) a közösségi és hivatalos támogatásért.
+   - Csatlakozz a [Aspose Fórum](https://forum.aspose.com/c/imaging/14) a közösségi és hivatalos támogatásért.
 
 ## Erőforrás
 

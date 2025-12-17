@@ -195,7 +195,7 @@ A: Thư viện này mạnh mẽ nhưng có thể có hạn chế về hiệu su�
 - **Mua**: [Mua Aspose Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu với bản dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Yêu cầu ở đây](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Đặt câu hỏi](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Đặt câu hỏi](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn đang trên đường làm chủ khả năng xử lý hình ảnh mạnh mẽ được cung cấp bởi Aspose.Imaging cho Java. Chúc bạn viết mã vui vẻ!
 

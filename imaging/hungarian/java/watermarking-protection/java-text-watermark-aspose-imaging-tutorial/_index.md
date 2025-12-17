@@ -245,7 +245,7 @@ Ebben az útmutatóban áttekintettük, hogyan tölthetsz be hatékonyan egy ké
 - **Vásárlás**: Fontolja meg az előfizetés megvásárlását a következő címen: [Aspose vásárlás](https://purchase.aspose.com/buy).
 - **Ingyenes próbaverzió**: Kezdje egy ingyenes próbaverzióval, hogy korlátozások nélkül tesztelhesse a funkciókat.
 - **Ideiglenes engedély**Szerezzen be egy ideiglenes licencet a teljes hozzáféréshez a próbaidőszak alatt.
-- **Támogatás**Csatlakozz a közösséghez és kérj segítséget: [Aspose Fórumok](https://forum.aspose.com/c/imaging/10).
+- **Támogatás**Csatlakozz a közösséghez és kérj segítséget: [Aspose Fórumok](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -201,7 +201,7 @@ A5: Absolutely! Implement loops or parallel processing techniques to handle mult
 - **Purchase**: https://purchase.aspose.com/buy
 - **Free Trial**: https://releases.aspose.com/imaging/java/
 - **Temporary License**: https://purchase.aspose.com/temporary-license/
-- **Support**: https://forum.aspose.com/c/imaging/10
+- **Support**: https://forum.aspose.com/c/imaging/14
 
 Explore these resources to deepen your understanding and mastery of Aspose.Imaging for Java. Happy coding!
 

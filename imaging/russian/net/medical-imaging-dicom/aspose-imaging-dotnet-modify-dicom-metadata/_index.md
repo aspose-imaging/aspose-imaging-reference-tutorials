@@ -186,7 +186,7 @@ if (File.Exists(Path.Combine(dataDir, "output.dcm")))
 - **Покупка**: [Купить продукцию Aspose](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Попробуйте Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия**: [Получить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: [Форум Aspose для обработки изображений](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: [Форум Aspose для обработки изображений](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

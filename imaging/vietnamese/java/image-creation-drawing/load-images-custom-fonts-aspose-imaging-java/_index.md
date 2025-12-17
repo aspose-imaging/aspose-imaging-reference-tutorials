@@ -195,7 +195,7 @@ Các bước tiếp theo có thể bao gồm khám phá các tính năng nâng c
 - [Mua giấy phép Aspose](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí và Giấy phép tạm thời](https://releases.aspose.com/imaging/java/)
 
-Chúng tôi hy vọng hướng dẫn này hữu ích và cung cấp nhiều thông tin. Nếu bạn có thêm câu hỏi, vui lòng liên hệ với [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10). Chúc bạn viết mã vui vẻ!
+Chúng tôi hy vọng hướng dẫn này hữu ích và cung cấp nhiều thông tin. Nếu bạn có thêm câu hỏi, vui lòng liên hệ với [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14). Chúc bạn viết mã vui vẻ!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

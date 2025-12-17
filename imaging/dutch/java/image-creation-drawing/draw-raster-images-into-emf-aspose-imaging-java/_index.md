@@ -214,7 +214,7 @@ Klaar om toe te passen wat je hebt geleerd? Probeer deze technieken eens in je v
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer Aspose.Imaging gratis](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Aspose.Imaging-ondersteuning](https://forum.aspose.com/c/imaging/10) 
+- **Ondersteuningsforum**: [Aspose.Imaging-ondersteuning](https://forum.aspose.com/c/imaging/14) 
 
 Begin vandaag nog met Aspose.Imaging voor Java en ontgrendel nieuwe mogelijkheden op het gebied van beeldverwerking!
 

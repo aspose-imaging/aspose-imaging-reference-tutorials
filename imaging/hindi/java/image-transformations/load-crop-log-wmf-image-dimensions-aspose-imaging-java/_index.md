@@ -168,7 +168,7 @@ WMF छवियों के आयामों को लोड करने, 
 - क्रय लाइसेंस: [Aspose लाइसेंसिंग विकल्प खरीदें](https://purchase.aspose.com/buy)
 - मुफ्त परीक्षण: [निःशुल्क परीक्षण प्राप्त करें](https://releases.aspose.com/imaging/java/)
 - अस्थायी लाइसेंस: [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- सहयता मंच: [Aspose.Imaging सामुदायिक सहायता](https://forum.aspose.com/c/imaging/10)
+- सहयता मंच: [Aspose.Imaging सामुदायिक सहायता](https://forum.aspose.com/c/imaging/14)
 
 अब जब आपके पास उपकरण और ज्ञान है, तो अपने अगले प्रोजेक्ट में इस समाधान को लागू करने का प्रयास करें!
 

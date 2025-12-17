@@ -186,7 +186,7 @@ A5: 뛰어난 성능을 제공하지만, 일부 고급 기능에는 상용 라�
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging 무료 체험하기](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 이미징 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 이미징 포럼](https://forum.aspose.com/c/imaging/14)
 
 이러한 리소스와 가이드를 활용하면 Aspose.Imaging을 사용하여 Java 프로젝트에 WebP 이미지를 통합할 준비가 완료되었습니다. 즐거운 코딩 되세요!
 

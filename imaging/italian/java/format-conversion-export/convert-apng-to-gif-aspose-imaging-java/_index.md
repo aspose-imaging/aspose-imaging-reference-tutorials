@@ -216,7 +216,7 @@ Congratulazioni! Hai completato con successo il processo di caricamento, convers
    - Sì, è possibile scrivere script per l'elaborazione batch utilizzando cicli o integrarli con sistemi di pianificazione dei lavori.
 
 5. **Come posso ottenere supporto se riscontro problemi?**
-   - Visita il [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10) per assistenza e discussioni con altri utenti.
+   - Visita il [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14) per assistenza e discussioni con altri utenti.
 
 ## Risorse
 

@@ -168,14 +168,14 @@ if (File.Exists(outputFilePath))
 4. **क्या मेरे द्वारा संसाधित की जा सकने वाली CAD फ़ाइलों के आकार की कोई सीमा है?**
    - बड़ी फ़ाइलों को संसाधित करने के लिए अधिक मेमोरी की आवश्यकता हो सकती है; अपने सिस्टम की क्षमताओं के आधार पर आवश्यकतानुसार अनुकूलन करें।
 5. **यदि मुझे कोई समस्या आती है तो मैं सहायता कहां से प्राप्त कर सकता हूं?**
-   - मिलने जाना [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10) सहायता और सामुदायिक सलाह के लिए.
+   - मिलने जाना [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14) सहायता और सामुदायिक सलाह के लिए.
 
 ## संसाधन
 - **प्रलेखन**: पूरा अन्वेषण करें [Aspose.Imaging .NET दस्तावेज़ीकरण](https://reference.aspose.com/imaging/net/)
 - **डाउनलोड करना**: नवीनतम संस्करण प्राप्त करें [विज्ञप्ति](https://releases.aspose.com/imaging/net/)
 - **खरीदें और निःशुल्क परीक्षण करें**परीक्षण संस्करणों तक पहुंचें या लाइसेंस खरीदें [Aspose खरीद](https://purchase.aspose.com/buy) और [निःशुल्क परीक्षण](https://releases.aspose.com/imaging/net/).
 - **अस्थायी लाइसेंस**: से एक अस्थायी लाइसेंस का अनुरोध करें [Aspose अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: पर सहायता प्राप्त करें [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: पर सहायता प्राप्त करें [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

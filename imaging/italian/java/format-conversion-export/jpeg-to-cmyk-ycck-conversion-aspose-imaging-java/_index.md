@@ -192,7 +192,7 @@ R: Controlla le risorse di sistema e ottimizza l'utilizzo della memoria. Valuta 
 - **Scaricamento:** Ottieni l'ultima versione da [Rilasci di Aspose.Imaging](https://releases.aspose.com/imaging/java/).
 - **Acquistare:** Ottieni una licenza completa a [Pagina di acquisto di Aspose](https://purchase.aspose.com/buy).
 - **Prova gratuita e licenza temporanea:** Prova le funzionalità senza limitazioni ottenendo una prova gratuita o una licenza temporanea tramite i rispettivi link.
-- **Supporto:** Per ulteriore assistenza, visitare il [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10).
+- **Supporto:** Per ulteriore assistenza, visitare il [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

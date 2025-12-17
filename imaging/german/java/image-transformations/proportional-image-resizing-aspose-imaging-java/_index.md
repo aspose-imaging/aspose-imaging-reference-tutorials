@@ -193,7 +193,7 @@ Bereit, es auszuprobieren? Gehen Sie zu [Aspose.Imaging Dokumentation](https://r
    - JDK 8 oder höher und eine kompatible Java-IDE.
 
 5. **Wo finde ich Unterstützung, wenn ich auf Probleme stoße?**
-   - Treten Sie der [Aspose Forum](https://forum.aspose.com/c/imaging/10) für die Unterstützung durch die Community und von offizieller Seite.
+   - Treten Sie der [Aspose Forum](https://forum.aspose.com/c/imaging/14) für die Unterstützung durch die Community und von offizieller Seite.
 
 ## Ressourcen
 

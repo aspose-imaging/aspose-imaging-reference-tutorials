@@ -200,7 +200,7 @@ A4: 회색조 이미지는 회색 음영만 포함하므로 파일 크기를 줄
 
 **질문 5: Aspose.Imaging에서 문제가 발생하면 어떻게 지원을 받을 수 있나요?**
 
-A5: 방문하세요 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10) 커뮤니티 전문가와 공식 지원 직원에게 도움을 요청하세요.
+A5: 방문하세요 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14) 커뮤니티 전문가와 공식 지원 직원에게 도움을 요청하세요.
 
 ## 자원
 

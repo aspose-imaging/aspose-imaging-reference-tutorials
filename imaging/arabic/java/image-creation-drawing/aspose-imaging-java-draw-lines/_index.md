@@ -234,7 +234,7 @@ license.setLicense("path/to/your/license/file.lic");
 - [شراء ترخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 بالاستفادة من هذه الموارد، يمكنك تعزيز فهمك واستخدامك لـ Aspose.Imaging لـ Java في مشاريعك. برمجة ممتعة!
 

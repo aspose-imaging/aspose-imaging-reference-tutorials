@@ -193,7 +193,7 @@ Gotowy, żeby to wypróbować? Przejdź do [Dokumentacja Aspose.Imaging](https:/
    - JDK 8 lub nowszy i zgodne środowisko IDE Java.
 
 5. **Gdzie mogę znaleźć pomoc, jeśli napotkam problemy?**
-   - Dołącz do [Forum Aspose](https://forum.aspose.com/c/imaging/10) o wsparcie społeczności i władz.
+   - Dołącz do [Forum Aspose](https://forum.aspose.com/c/imaging/14) o wsparcie społeczności i władz.
 
 ## Zasoby
 

@@ -179,7 +179,7 @@ A3: Je kunt beginnen met een gratis proeflicentie waarmee je alle functies onbep
 A4: Gebruik batchverwerking en efficiënte resourcemanagementtechnieken, zoals het vernietigen van afbeeldingen na gebruik. Overweeg ook om de resolutie vóór de conversie te optimaliseren, indien mogelijk.
 
 **V5: Waar kan ik ondersteuning vinden als ik problemen ondervind met Aspose.Imaging?**
-A5: Voor vragen of probleemoplossing kunt u terecht op [Aspose's ondersteuningsforum](https://forum.aspose.com/c/imaging/10) waar u hulp kunt krijgen van zowel de gemeenschap als officiële vertegenwoordigers.
+A5: Voor vragen of probleemoplossing kunt u terecht op [Aspose's ondersteuningsforum](https://forum.aspose.com/c/imaging/14) waar u hulp kunt krijgen van zowel de gemeenschap als officiële vertegenwoordigers.
 
 ## Bronnen
 

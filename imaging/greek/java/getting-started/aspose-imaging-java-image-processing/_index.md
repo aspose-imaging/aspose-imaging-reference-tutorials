@@ -194,7 +194,7 @@ image.save(output); // Αποθηκεύει την τροποποιημένη ε
 - **Αγορά**Αποκτήστε μια πλήρη άδεια μέσω [Σελίδα αγορών της Aspose](https://purchase.aspose.com/buy).
 - **Δωρεάν δοκιμή**Ξεκινήστε με μια δωρεάν δοκιμή για να εξερευνήσετε τις λειτουργίες στο [Λήψεις Aspose](https://releases.aspose.com/imaging/java/).
 - **Προσωρινή Άδεια**: Αίτημα προσωρινής άδειας για εκτεταμένες δοκιμές στο [Προσωρινή Άδεια Aspose](https://purchase.aspose.com/temporary-license/).
-- **Υποστήριξη**Γίνετε μέλος της κοινότητας και ζητήστε βοήθεια στο [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10).
+- **Υποστήριξη**Γίνετε μέλος της κοινότητας και ζητήστε βοήθεια στο [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

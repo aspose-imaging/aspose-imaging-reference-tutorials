@@ -202,7 +202,7 @@ Gotowy, aby rozwinąć swoje umiejętności? Spróbuj wdrożyć te rozwiązania 
 - **Kup licencję**: [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Rozpocznij bezpłatny okres próbny](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**: [Poproś o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia**: [Wsparcie Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia**: [Wsparcie Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dzięki temu kompleksowemu przewodnikowi jesteś teraz wyposażony, aby opanować przetwarzanie obrazów PNG w Javie przy użyciu Aspose.Imaging. Miłego kodowania!
 

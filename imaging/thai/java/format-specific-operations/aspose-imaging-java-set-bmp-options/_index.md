@@ -177,7 +177,7 @@ bmpOptions.setBitsPerPixel(24);
 - **ซื้อ**- [ซื้อ Aspose.Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [ทดลองใช้ Aspose.Imaging ฟรี](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว**- [การขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน**- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน**- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 บทช่วยสอนนี้ให้พื้นฐานที่คุณต้องการเพื่อนำตัวเลือก BMP ไปใช้อย่างมีประสิทธิภาพในโครงการ Java ของคุณโดยใช้ Aspose.Imaging ขอให้สนุกกับการเขียนโค้ด!
 

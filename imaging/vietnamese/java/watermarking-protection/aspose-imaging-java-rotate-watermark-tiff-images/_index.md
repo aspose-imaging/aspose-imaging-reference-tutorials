@@ -258,7 +258,7 @@ A5: Cân nhắc xử lý hình ảnh lớn thành nhiều phần nhỏ hơn, t�
 - **Giấy phép mua hàng:** [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Nhận bản dùng thử miễn phí của bạn](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ:** [Hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** [Hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Chúng tôi hy vọng hướng dẫn này đã trang bị cho bạn các kỹ năng để nâng cao tác vụ xử lý hình ảnh của mình bằng Aspose.Imaging for Java. Chúc bạn viết mã vui vẻ!
 

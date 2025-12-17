@@ -169,7 +169,7 @@ Artık Aspose.Imaging for .NET kullanarak EMF dosyalarını çeşitli raster for
    - .NET Framework ve .NET Core/5+/6+ ortamlarıyla uyumludur.
 
 5. **Sorunla karşılaşırsam destek alabileceğim bir yer var mı?**
-   - Evet, topluluk forumlarına ve resmi destek kanallarına şu şekilde erişebilirsiniz: [Aspose Desteği](https://forum.aspose.com/c/imaging/10).
+   - Evet, topluluk forumlarına ve resmi destek kanallarına şu şekilde erişebilirsiniz: [Aspose Desteği](https://forum.aspose.com/c/imaging/14).
 
 ## Kaynaklar
 

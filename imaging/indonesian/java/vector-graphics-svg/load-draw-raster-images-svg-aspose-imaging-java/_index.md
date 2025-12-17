@@ -187,7 +187,7 @@ Dalam tutorial ini, kami mengeksplorasi cara memuat dan menggambar gambar raster
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Informasi Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Permintaan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda sekarang akan diperlengkapi dengan baik untuk mengintegrasikan gambar raster ke kanvas SVG menggunakan Aspose.Imaging untuk Java. Selamat membuat kode!
 

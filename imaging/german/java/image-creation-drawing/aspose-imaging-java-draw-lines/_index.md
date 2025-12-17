@@ -234,7 +234,7 @@ In diesem Tutorial haben wir gezeigt, wie Sie Bitmap-Optionen konfigurieren und 
 - [Erwerben Sie eine Lizenz](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Durch die Nutzung dieser Ressourcen können Sie Ihr Verständnis und die Nutzung von Aspose.Imaging für Java in Ihren Projekten verbessern. Viel Spaß beim Programmieren!
 

@@ -186,7 +186,7 @@ CMYK 格式的 JPEG-LS 對於印刷出版等行業尤其有用，因為這些行
 - **購買許可證：** [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用：** [免費試用 Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **臨時執照：** [申請臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose.Imaging 支援論壇](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose.Imaging 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 本指南將協助您在 .NET 應用程式中有效地實現 JPEG-LS CMYK 轉換，從而提升品質和效率。祝您編碼愉快！
 

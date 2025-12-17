@@ -239,7 +239,7 @@ Los próximos pasos incluyen explorar más funciones de Aspose.Imaging o integra
 - **Compra:** [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Comience una prueba gratuita](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** [Solicitar Licencia Temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Si sigue esta guía, ahora tendrá una base sólida para usar Aspose.Imaging en sus proyectos Java para crear y administrar imágenes BMP de manera eficiente.
 

@@ -150,7 +150,7 @@ using (var psd = Image.Create(createOptions, 500, 500))
 - **खरीदना:** [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [निःशुल्क परीक्षण के साथ शुरुआत करें](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस:** [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच:** [Aspose समर्थन](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच:** [Aspose समर्थन](https://forum.aspose.com/c/imaging/14)
 
 आज Aspose.Imaging के साथ अपनी इमेजिंग यात्रा शुरू करें, और डिजिटल छवि हेरफेर में नई संभावनाओं को अनलॉक करें!
 

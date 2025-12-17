@@ -150,7 +150,7 @@ Aspose.Imaging for .NET बहुमुखी अनुप्रयोग प्
 उत्तर: खरीदने का निर्णय लेने से पहले आप इसकी विशेषताओं का मूल्यांकन करने के लिए निःशुल्क परीक्षण या अस्थायी लाइसेंस के साथ शुरुआत कर सकते हैं।
 
 **प्रश्न: मैं Aspose.Imaging में छवि लोड करने में आने वाली सामान्य समस्याओं का निवारण कैसे करूँ?**
-उत्तर: फ़ाइल पथ सत्यापित करें, लाइब्रेरी संस्करण की जाँच करें, और परामर्श करें [सहयता मंच](https://forum.aspose.com/c/imaging/10) सहायता के लिए.
+उत्तर: फ़ाइल पथ सत्यापित करें, लाइब्रेरी संस्करण की जाँच करें, और परामर्श करें [सहयता मंच](https://forum.aspose.com/c/imaging/14) सहायता के लिए.
 
 ## संसाधन
 - **प्रलेखन**: [Aspose.Imaging .NET संदर्भ](https://reference.aspose.com/imaging/net/)
@@ -158,7 +158,7 @@ Aspose.Imaging for .NET बहुमुखी अनुप्रयोग प्
 - **खरीद और लाइसेंस संबंधी जानकारी**: [Aspose खरीद पृष्ठ](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [अपना नि: शुल्क परीक्षण शुरू करो](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

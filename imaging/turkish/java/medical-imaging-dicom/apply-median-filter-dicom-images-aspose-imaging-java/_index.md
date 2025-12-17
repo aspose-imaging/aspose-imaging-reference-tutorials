@@ -185,7 +185,7 @@ A: Farklı kullanın `ImageOptions` Çeşitli formatlarda kaydetmek için Aspose
 - **Lisans Satın Al**: [Şimdi al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Buraya Başvurun](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Aspose.Görüntüleme Desteği](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: [Aspose.Görüntüleme Desteği](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java'nın güçlü görüntü işleme yeteneklerini keşfetmeye hemen başlayın!
 

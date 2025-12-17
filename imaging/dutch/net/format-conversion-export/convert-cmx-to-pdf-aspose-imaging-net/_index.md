@@ -175,7 +175,7 @@ A: Controleer uw raster- en smoothing-instellingen in de `PdfOptions` configurat
 - **Aankoop**: [Koop Aspose.Imaging-licenties](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Start een gratis proefperiode van Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan voor Aspose.Imaging](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10) 
+- **Steun**: [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14) 
 
 Als u deze handleiding volgt, bent u goed toegerust om eenvoudig CMX naar PDF te converteren.
 

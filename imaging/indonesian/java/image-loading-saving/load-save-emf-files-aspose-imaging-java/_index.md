@@ -196,7 +196,7 @@ Selalu gunakan blok try-catch untuk menangani potensi IOExceptions atau pengecua
 - **Pembelian**:Untuk lisensi lengkap, kunjungi [Beli Aspose.Imaging](https://purchase.aspose.com/buy).
 - **Uji Coba Gratis**: Mulailah dengan uji coba di [Unduhan Gratis Aspose.Imaging](https://releases.aspose.com/imaging/java/).
 - **Lisensi Sementara**: Dapatkan lisensi sementara dari [Halaman Lisensi Aspose](https://purchase.aspose.com/temporary-license/).
-- **Mendukung**: Bergabunglah dalam diskusi di [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Mendukung**: Bergabunglah dalam diskusi di [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Dengan sumber daya ini, Anda akan diperlengkapi dengan baik untuk mendalami lebih jauh pemrosesan gambar dengan Aspose.Imaging untuk Java. Selamat membuat kode!
 

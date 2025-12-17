@@ -170,7 +170,7 @@ Ready to take your Java development to the next level? Try implementing this sol
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Free Trial and Temporary License](https://releases.aspose.com/imaging/java/)
 
-For any further questions, visit the [Aspose Support Forum](https://forum.aspose.com/c/imaging/10). Happy coding!
+For any further questions, visit the [Aspose Support Forum](https://forum.aspose.com/c/imaging/14). Happy coding!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

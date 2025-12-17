@@ -197,7 +197,7 @@ Chúng tôi đã khám phá cách Aspose.Imaging for Java có thể cách mạng
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Yêu cầu cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn toàn diện này, giờ đây bạn đã được trang bị để xử lý hình ảnh WebP trong Java một cách hiệu quả và tự tin. Chúc bạn viết mã vui vẻ!
 

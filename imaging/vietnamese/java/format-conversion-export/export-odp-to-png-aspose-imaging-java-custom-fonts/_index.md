@@ -202,7 +202,7 @@ Bằng cách làm theo hướng dẫn này, bạn đã biết cách thiết lậ
 - **Mua:** [Mua bản quyền Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Nộp đơn xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Chúng tôi hy vọng hướng dẫn này giúp bạn triển khai Aspose.Imaging trong các dự án Java của mình một cách liền mạch. Chúc bạn viết code vui vẻ!
 

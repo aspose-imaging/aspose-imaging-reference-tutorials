@@ -190,7 +190,7 @@ Aspose.Imaging 的功能遠不止於載入和保存 SVG。以下是一些實際�
 - **購買：** [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用：** [試試 Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **臨時執照：** [申請臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 立即踏上 Aspose.Imaging 之旅，釋放 .NET 應用程式影像處理的新潛力！
 

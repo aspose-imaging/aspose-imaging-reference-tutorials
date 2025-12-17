@@ -256,7 +256,7 @@ Sie haben gelernt, wie Sie JPEG-Bilder mit CMYK- und YCCK-Profilen speichern und
 - **Kaufen:** [Aspose-Lizenzierung](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Erste Schritte](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Beantragen Sie eine vorübergehende Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit dieser Anleitung können Sie Aspose.Imaging Java effektiv nutzen, um JPEG-Bilder in Ihren Projekten zu verwalten und zu konvertieren. Probieren Sie es noch heute aus!
 

@@ -195,7 +195,7 @@ A: 檢查建置工具設定、確認引用正確版本，並確保授權檔案�
 - **購買：** [Buy Aspose.Imaging for Java](https://purchase.aspose.com/buy)
 - **免費試用：** 前往 [Aspose website](https://releases.aspose.com/imaging/java/) 開始免費試用
 - **臨時授權：** 透過 [Aspose Purchase](https://purchase.aspose.com/temporary-license/) 申請臨時授權
-- **支援：** 加入 [Aspose Forum](https://forum.aspose.com/c/imaging/10) 討論
+- **支援：** 加入 [Aspose Forum](https://forum.aspose.com/c/imaging/14) 討論
 
 立即開始繪製曲線，使用 Aspose.Imaging 提升您的 Java 專案！
 

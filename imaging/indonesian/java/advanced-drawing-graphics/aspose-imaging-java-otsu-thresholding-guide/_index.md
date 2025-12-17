@@ -187,7 +187,7 @@ Cuplikan ini menyimpan gambar biner dalam format JPEG, memastikannya disimpan se
 
 Anda kini telah menguasai dasar-dasar penggunaan Aspose.Imaging untuk Java guna memuat, memproses, dan menyimpan gambar dengan teknik binerisasi. Bereksperimenlah lebih jauh dengan menjelajahi fitur-fitur lain yang ditawarkan oleh pustaka, seperti pemfilteran tingkat lanjut atau konversi format.
 
-Langkah selanjutnya termasuk mengintegrasikan fungsi ini ke dalam proyek Anda dan bereksperimen dengan berbagai jenis gambar dan skenario pemrosesan. Jangan ragu untuk menghubungi kami melalui [Forum dukungan Aspose](https://forum.aspose.com/c/imaging/10) untuk pertanyaan apa pun yang mungkin Anda miliki!
+Langkah selanjutnya termasuk mengintegrasikan fungsi ini ke dalam proyek Anda dan bereksperimen dengan berbagai jenis gambar dan skenario pemrosesan. Jangan ragu untuk menghubungi kami melalui [Forum dukungan Aspose](https://forum.aspose.com/c/imaging/14) untuk pertanyaan apa pun yang mungkin Anda miliki!
 
 ## Bagian FAQ
 

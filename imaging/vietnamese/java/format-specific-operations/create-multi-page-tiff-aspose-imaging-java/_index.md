@@ -203,7 +203,7 @@ Chúng tôi khuyến khích bạn thử triển khai giải pháp này trong d�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Truy cập dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn sẽ được trang bị tốt để tạo và thao tác các tệp TIFF nhiều trang bằng Aspose.Imaging cho Java. Chúc bạn viết mã vui vẻ!
 

@@ -198,7 +198,7 @@ Aspose.Imaging का उपयोग शुरू करने के लिए
 - [खरीदना](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 आज ही अपनी परियोजनाओं में इन सुविधाओं को लागू करना शुरू करें और देखें कि Aspose.Imaging for Java आपके वर्कफ़्लो को कैसे बढ़ा सकता है!
 

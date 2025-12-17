@@ -199,7 +199,7 @@ image.save(outputFile, new BmpOptions());
 - [Αγορά](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/14)
 
 Αυτό το σεμινάριο σας εξοπλίζει με τις γνώσεις για τον χειρισμό εικόνων DICOM χρησιμοποιώντας το Aspose.Imaging Java, διασφαλίζοντας ότι οι εφαρμογές σας είναι αποτελεσματικές και επεκτάσιμες. Καλή κωδικοποίηση!
 

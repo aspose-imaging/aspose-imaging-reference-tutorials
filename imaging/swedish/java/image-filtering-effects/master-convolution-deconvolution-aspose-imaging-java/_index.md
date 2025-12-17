@@ -195,7 +195,7 @@ A: Biblioteket är robust men kan ha prestandabegränsningar med extremt stora b
 - **Köpa**: [Köp Aspose Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Börja med en gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Begär här](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**: [Ställ frågor](https://forum.aspose.com/c/imaging/10)
+- **Supportforum**: [Ställ frågor](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden är du på god väg att bemästra de kraftfulla bildbehandlingsfunktionerna som erbjuds av Aspose.Imaging för Java. Lycka till med kodningen!
 

@@ -209,7 +209,7 @@ A: ใช่ โดยการปรับ `BitsPerPixel` การตั้ง
 - **ซื้อ**- [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [ลองใช้ Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว**- [ขอคำร้องได้ที่นี่](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน**- [ฟอรั่ม Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน**- [ฟอรั่ม Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 เริ่มต้นการเดินทางของคุณด้วย Aspose.Imaging Java และเปลี่ยนแปลงวิธีการจัดการการแปลงรูปภาพของคุณวันนี้!
 

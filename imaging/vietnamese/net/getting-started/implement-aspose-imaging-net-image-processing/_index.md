@@ -126,7 +126,7 @@ Bộ nhớ đệm giúp giảm thời gian tải và sử dụng tài nguyên, c
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Aspose.Imaging dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 Bằng cách làm theo hướng dẫn này, bạn đang trên đường triển khai xử lý hình ảnh hiệu quả trong các ứng dụng .NET của mình bằng Aspose.Imaging. Chúc bạn viết mã vui vẻ!
 
 {{< /blocks/products/pf/tutorial-page-section >}}

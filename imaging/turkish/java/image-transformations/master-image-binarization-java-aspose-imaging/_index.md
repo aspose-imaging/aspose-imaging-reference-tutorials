@@ -191,7 +191,7 @@ C5: Evet, Aspose.Imaging JPEG, PNG, BMP ve daha fazlası dahil olmak üzere çok
 - **Satın almak:** [Aspose.License'ı satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bu öğreticiyi takip ederek, Aspose.Imaging for Java kullanarak görüntü ikilileştirme görevlerini etkili bir şekilde ele almak için gereken becerileri edindiniz. İyi kodlamalar!
 

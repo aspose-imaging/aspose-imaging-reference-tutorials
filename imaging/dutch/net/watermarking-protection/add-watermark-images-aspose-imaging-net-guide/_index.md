@@ -158,7 +158,7 @@ Door deze handleiding te volgen, hebt u geleerd hoe u watermerken aan afbeelding
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefversie downloaden](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentieverwerving](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Door gebruik te maken van deze bronnen kunt u de Aspose.Imaging-bibliotheek voor .NET verder verkennen en onder de knie krijgen. Veel plezier met coderen!
 

@@ -234,7 +234,7 @@ Tout au long de ce tutoriel, nous avons exploré comment configurer les options 
 - [Acheter une licence](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 En exploitant ces ressources, vous pourrez améliorer votre compréhension et votre utilisation d'Aspose.Imaging pour Java dans vos projets. Bon codage !
 

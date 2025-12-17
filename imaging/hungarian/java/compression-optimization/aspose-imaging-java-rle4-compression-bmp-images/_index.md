@@ -184,7 +184,7 @@ Tedd meg a lépést, és kezdd el alkalmazni ezeket a technikákat a következő
 - **Licenc vásárlása**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Indítsa el az ingyenes próbaverziót](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezen lépések végrehajtásával és a rendelkezésre álló források felhasználásával felkészült leszel a BMP képtömörítés kezelésére az Aspose.Imaging for Java segítségével. Jó kódolást!
 

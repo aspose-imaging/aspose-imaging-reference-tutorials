@@ -156,7 +156,7 @@ A BMP-beállítások megadása lehetővé teszi a fejlesztők számára a képtu
 
 **2. kérdés: Hogyan oldhatom meg a licencproblémákat az Aspose.Imaging segítségével?**
 
-Győződjön meg arról, hogy a licencfájl elérési útja helyes, és hogy a könyvtár érvényes verzióját használja. Ha a problémák továbbra is fennállnak, forduljon a következőhöz: [Aspose támogatói fóruma](https://forum.aspose.com/c/imaging/10).
+Győződjön meg arról, hogy a licencfájl elérési útja helyes, és hogy a könyvtár érvényes verzióját használja. Ha a problémák továbbra is fennállnak, forduljon a következőhöz: [Aspose támogatói fóruma](https://forum.aspose.com/c/imaging/14).
 
 **3. kérdés: Használhatom az Aspose.Imaging programot képek kötegelt feldolgozásához?**
 
@@ -177,7 +177,7 @@ Bár léteznek más könyvtárak is, az Aspose.Imaging átfogó támogatást és
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Aspose.Imaging ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ez az oktatóanyag biztosítja az alapot ahhoz, hogy hatékonyan implementálhasd a BMP-opciókat Java-projekteidben az Aspose.Imaging használatával. Jó kódolást!
 

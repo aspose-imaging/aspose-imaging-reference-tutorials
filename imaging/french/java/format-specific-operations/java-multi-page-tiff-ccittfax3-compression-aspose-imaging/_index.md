@@ -245,7 +245,7 @@ Dans ce tutoriel, vous avez appris à créer des fichiers TIFF multipages en uti
 - **Achat**: https://purchase.aspose.com/buy
 - **Essai gratuit**: https://releases.aspose.com/imaging/java/
 - **Permis temporaire**: https://purchase.aspose.com/temporary-license/
-- **Soutien**: https://forum.aspose.com/c/imaging/10
+- **Soutien**: https://forum.aspose.com/c/imaging/14
 
 Maintenant que vous êtes équipé des connaissances, commencez à implémenter et à explorer ces techniques dans vos projets Java !
 

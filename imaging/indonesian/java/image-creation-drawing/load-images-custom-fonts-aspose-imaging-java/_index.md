@@ -195,7 +195,7 @@ Langkah selanjutnya dapat mencakup penjelajahan fitur Aspose.Imaging yang lebih 
 - [Beli Lisensi Aspose](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis dan Lisensi Sementara](https://releases.aspose.com/imaging/java/)
 
-Kami harap panduan ini informatif dan bermanfaat. Jika Anda memiliki pertanyaan lebih lanjut, jangan ragu untuk menghubungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)Selamat membuat kode!
+Kami harap panduan ini informatif dan bermanfaat. Jika Anda memiliki pertanyaan lebih lanjut, jangan ragu untuk menghubungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)Selamat membuat kode!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

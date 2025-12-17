@@ -163,7 +163,7 @@ Ya aprendiste a cargar imágenes eficazmente con Aspose.Imaging para Java. Esta 
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Prueba gratuita y licencia temporal](https://releases.aspose.com/imaging/java/)
 
-Para cualquier consulta adicional, visite el [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)¡Feliz codificación!
+Para cualquier consulta adicional, visite el [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)¡Feliz codificación!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

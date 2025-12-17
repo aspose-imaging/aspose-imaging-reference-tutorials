@@ -150,7 +150,7 @@ Aspose.Imaging for .NET 提供多种应用程序：
 答：您可以先免费试用或临时许可来评估其功能，然后再决定是否购买。
 
 **问：如何解决 Aspose.Imaging 中图像加载的常见问题？**
-答：验证文件路径，检查库版本，并查阅 [支持论坛](https://forum.aspose.com/c/imaging/10) 寻求帮助。
+答：验证文件路径，检查库版本，并查阅 [支持论坛](https://forum.aspose.com/c/imaging/14) 寻求帮助。
 
 ## 资源
 - **文档**： [Aspose.Imaging .NET参考](https://reference.aspose.com/imaging/net/)
@@ -158,7 +158,7 @@ Aspose.Imaging for .NET 提供多种应用程序：
 - **购买和许可信息**： [Aspose 购买页面](https://purchase.aspose.com/buy)
 - **免费试用**： [开始免费试用](https://releases.aspose.com/imaging/net/)
 - **临时执照**： [获得临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持**： [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**： [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

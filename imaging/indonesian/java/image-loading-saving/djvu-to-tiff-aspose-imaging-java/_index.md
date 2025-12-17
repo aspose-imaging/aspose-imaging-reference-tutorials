@@ -297,7 +297,7 @@ Selamat! Anda telah berhasil mempelajari cara mengonversi gambar DjVu ke TIFF me
 - **Pembelian:** [Beli Aspose.Imaging untuk Java](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda telah membekali diri dengan keterampilan untuk menangani konversi DjVu ke TIFF secara efisien. Teruslah menjelajahi dan menyempurnakan aplikasi Java Anda dengan Aspose.Imaging!
 

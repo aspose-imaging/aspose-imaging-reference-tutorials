@@ -199,7 +199,7 @@ Testa att implementera den här lösningen i ett projekt idag och se hur det fö
    - Biblioteket är tillgängligt under en testlicens; alla funktioner kräver köp.
 
 5. **Var kan jag få stöd om det behövs?**
-   - Besök [Asposes supportforum](https://forum.aspose.com/c/imaging/10) för hjälp.
+   - Besök [Asposes supportforum](https://forum.aspose.com/c/imaging/14) för hjälp.
 
 ## Resurser
 

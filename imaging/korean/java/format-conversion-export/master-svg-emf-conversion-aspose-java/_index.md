@@ -204,7 +204,7 @@ A5: 일괄 처리 기능을 사용하고 JVM이 광범위한 작업을 효율적
 - [Java용 Aspose.Imaging 다운로드](https://releases.aspose.com/imaging/java/)
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험판 및 임시 라이센스](https://releases.aspose.com/imaging/java/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java에 대한 지식과 역량을 넓혀줄 다음 자료들을 살펴보세요. 즐거운 코딩 되세요!
 

@@ -166,7 +166,7 @@ További információkért tekintse meg ezeket a forrásokat:
 - [Vásárlás](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Merülj el az Aspose.Imaging for .NET világában, és emeld képfeldolgozási képességeidet a következő szintre!
 

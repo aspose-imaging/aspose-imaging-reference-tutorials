@@ -158,7 +158,7 @@ Zde je několik běžných otázek, které byste mohli mít:
 - [Nákup](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/net/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Tato komplexní příručka by vám měla poskytnout znalosti pro efektivní používání Aspose.Imaging pro .NET ve vašich projektech. Přejeme vám příjemné programování!
 

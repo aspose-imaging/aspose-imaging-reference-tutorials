@@ -196,7 +196,7 @@ try (TiffImage image = (TiffImage) Image.load(dataDir)) {
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - [ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/14)
 
 สำรวจแหล่งข้อมูลเหล่านี้เพื่อเพิ่มความเข้าใจของคุณให้ลึกซึ้งยิ่งขึ้น และปรับปรุงความสามารถในการประมวลผลภาพของแอปพลิเคชันของคุณให้ดียิ่งขึ้น ขอให้สนุกกับการเขียนโค้ด!
 

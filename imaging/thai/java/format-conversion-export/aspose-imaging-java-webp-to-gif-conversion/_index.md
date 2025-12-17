@@ -197,7 +197,7 @@ import com.aspose.imaging.imageoptions.GifOptions;
 - **ซื้อ:** เยี่ยม [หน้าสั่งซื้อ Aspose](https://purchase.aspose.com/buy) สำหรับตัวเลือกการออกใบอนุญาต
 - **ทดลองใช้งานฟรี:** เริ่มต้นด้วยการทดลองใช้งานได้ที่ [ลิงค์ทดลองใช้ฟรี](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว:** รับการเข้าถึงชั่วคราวผ่าน [หน้าใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน:** มีส่วนร่วมกับชุมชนบน [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน:** มีส่วนร่วมกับชุมชนบน [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

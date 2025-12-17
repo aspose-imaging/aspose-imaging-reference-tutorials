@@ -196,7 +196,7 @@ Aspose.Imaging के व्यापक दस्तावेज़ीकरण
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस अनुरोध](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 इन तकनीकों में महारत हासिल करके, आप अपने जावा अनुप्रयोगों में जटिल छवि प्रसंस्करण कार्यों को संभालने के लिए अच्छी तरह से सुसज्जित होंगे। हैप्पी कोडिंग!
 

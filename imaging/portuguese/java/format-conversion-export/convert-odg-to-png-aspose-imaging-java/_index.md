@@ -189,7 +189,7 @@ Neste tutorial, você aprendeu a converter arquivos ODG para PNG com eficiência
 - **Comprar:** [Compre uma licença](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Experimente o Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licença temporária:** [Solicitar licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Fórum de suporte:** [Comunidade de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum de suporte:** [Comunidade de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Este guia foi criado para ajudar você a incorporar o Aspose.Imaging aos seus projetos Java sem problemas, garantindo conversões de imagens de alta qualidade sempre. Boa programação!
 

@@ -184,7 +184,7 @@ try (JpegImage image = (JpegImage) Image.load(dataDir + "aspose-logo.jpg")) {
 - **شراء**:فكر في شراء ترخيص للاستخدام طويل الأمد في [صفحة شراء Aspose](https://purchase.aspose.com/buy).
 - **نسخة تجريبية مجانية**:ابدأ بفترة تجريبية مجانية لاستكشاف الميزات في [تجربة مجانية لبرنامج Aspose Imaging](https://releases.aspose.com/imaging/java/).
 - **رخصة مؤقتة**:الحصول على ترخيص مؤقت للاختبار الموسع.
-- **يدعم**:انضم إلى منتدى المجتمع للحصول على المساعدة على [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10). 
+- **يدعم**:انضم إلى منتدى المجتمع للحصول على المساعدة على [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14). 
 
 مع هذا الدليل الشامل، أنت جاهز تمامًا لمعالجة صور JPEG باستخدام Aspose.Imaging لجافا. برمجة ممتعة!
 

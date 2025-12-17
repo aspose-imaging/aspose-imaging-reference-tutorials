@@ -193,7 +193,7 @@ try {
 - **رخصة الشراء:** [اشتري ترخيص كامل اليوم](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [ابدأ بفترة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة:** [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم:** [احصل على المساعدة من المجتمع](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم:** [احصل على المساعدة من المجتمع](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا الدليل، ستكون جاهزًا تمامًا لدمج إمكانيات معالجة الصور الفعّالة في تطبيقات جافا باستخدام Aspose.Imaging. برمجة ممتعة!
 

@@ -198,7 +198,7 @@ Sperimenta diversi campi EXIF ed esplora le funzionalità più avanzate offerte 
    - Assolutamente sì, è progettato per gestire in modo efficace i requisiti ad alte prestazioni.
 
 5. **Come posso dare il mio contributo alla comunità o cercare aiuto per risolvere i problemi?**
-   - Unisciti al [Forum di Aspose](https://forum.aspose.com/c/imaging/10) per porre domande e condividere opinioni.
+   - Unisciti al [Forum di Aspose](https://forum.aspose.com/c/imaging/14) per porre domande e condividere opinioni.
 
 ## Risorse
 

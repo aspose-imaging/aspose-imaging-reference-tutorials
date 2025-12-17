@@ -211,7 +211,7 @@ In this tutorial, you've learned how to convert PNG images to JPEG-LS and back u
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial Access](https://releases.aspose.com/imaging/java/)
 - [Temporary License Application](https://purchase.aspose.com/temporary-license/)
-- [Community Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Community Support Forum](https://forum.aspose.com/c/imaging/14)
 
 By following this comprehensive guide, you're now equipped to efficiently handle PNG-to-JPEG-LS conversions and vice versa using Aspose.Imaging for Java. Happy coding!
 

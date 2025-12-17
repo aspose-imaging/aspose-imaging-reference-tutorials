@@ -197,7 +197,7 @@ Daha detaylı bilgi almak ve Aspose.Imaging'i daha iyi anlamak için:
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek ve Forumlar](https://forum.aspose.com/c/imaging/10)
+- [Destek ve Forumlar](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

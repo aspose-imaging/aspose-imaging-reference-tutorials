@@ -215,7 +215,7 @@ Trong suốt hướng dẫn này, chúng tôi đã khám phá cách Aspose.Imagi
 ### Các bước tiếp theo
 - Khám phá các tùy chọn chuyển đổi bổ sung có sẵn trong Aspose.Imaging.
 - Tích hợp chức năng này vào một dự án hoặc quy trình làm việc lớn hơn.
-- Chia sẻ phản hồi hoặc tìm kiếm sự hỗ trợ từ [Diễn đàn cộng đồng Aspose](https://forum.aspose.com/c/imaging/10).
+- Chia sẻ phản hồi hoặc tìm kiếm sự hỗ trợ từ [Diễn đàn cộng đồng Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Phần Câu hỏi thường gặp
 
@@ -241,7 +241,7 @@ A5: Khám phá [Tài liệu Aspose.Imaging](https://reference.aspose.com/imaging
 - **Mua:** https://purchase.aspose.com/mua
 - **Dùng thử miễn phí:** https://releases.aspose.com/imaging/java/
 - **Giấy phép tạm thời:** https://purchase.aspose.com/giấy-phép-tạm-thời/
-- **Ủng hộ:** https://forum.aspose.com/c/imaging/10
+- **Ủng hộ:** https://forum.aspose.com/c/imaging/14
 
 Bằng cách tận dụng Aspose.Imaging cho Java, bạn có thể hợp lý hóa quy trình chuyển đổi hình ảnh và mở ra những khả năng mới trong việc xử lý phương tiện kỹ thuật số. Chúc bạn viết mã vui vẻ!
 

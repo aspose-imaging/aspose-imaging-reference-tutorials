@@ -201,7 +201,7 @@ Sẵn sàng để tìm hiểu sâu hơn? Hãy thử triển khai các giải ph�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Khám phá các tài nguyên này để hiểu sâu hơn và nâng cao khả năng xử lý hình ảnh của bạn với Aspose.Imaging for Java. Chúc bạn viết mã vui vẻ!
 

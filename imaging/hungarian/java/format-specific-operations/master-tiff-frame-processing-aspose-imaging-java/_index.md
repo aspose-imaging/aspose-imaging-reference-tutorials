@@ -165,7 +165,7 @@ Mostanra már alaposan ismerned kell a TIFF képek betöltésének és az egyes 
 - **Vásárlás**: Fedezze fel a vásárlási lehetőségeket itt: [Aspose vásárlási oldala](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**Kezdje egy ingyenes próbaverzióval [itt](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**Ideiglenes engedélyt kell kérnie a következő címen: [Ideiglenes engedély oldal](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**Csatlakozz a beszélgetésekhez és kérj segítséget a következő címen: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**Csatlakozz a beszélgetésekhez és kérj segítséget a következő címen: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Kezdj bele az Aspose.Imaging elsajátításába Java nyelven még ma, és alakítsd át a képfeldolgozási feladataid kezelését!
 

@@ -138,7 +138,7 @@ dicomImage.Save(@"YOUR_OUTPUT_DIRECTORY/GrayscalingOnDICOM_out.bmp", new BmpOpti
 2. **Могу ли я конвертировать изображения в форматы, отличные от BMP?**
    - Да, Aspose.Imaging поддерживает различные форматы вывода, такие как JPEG и PNG.
 3. **Как устранить неполадки при конвертации изображений?**
-   - Проверьте пути к файлам, убедитесь, что используется правильная версия библиотеки, и обратитесь к [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10).
+   - Проверьте пути к файлам, убедитесь, что используется правильная версия библиотеки, и обратитесь к [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14).
 4. **Подходит ли Aspose.Imaging для приложений реального времени?**
    - Несмотря на надежность, рассмотрите возможность оптимизации производительности для нужд обработки в реальном времени.
 5. **Каковы наиболее распространенные варианты использования преобразования оттенков серого DICOM?**
@@ -150,7 +150,7 @@ dicomImage.Save(@"YOUR_OUTPUT_DIRECTORY/GrayscalingOnDICOM_out.bmp", new BmpOpti
 - [Купить лицензию](https://purchase.aspose.com/buy)
 - [Бесплатная пробная версия](https://releases.aspose.com/imaging/net/)
 - [Временная лицензия](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

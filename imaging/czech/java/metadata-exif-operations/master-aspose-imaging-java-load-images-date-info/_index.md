@@ -174,7 +174,7 @@ Nyní jste se naučili, jak načítat obrázky a získávat data posledních úp
 - [Zakoupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Neváhejte si prohlédnout tyto zdroje, kde najdete podrobnější informace a podporu. Přejeme vám příjemné programování!
 

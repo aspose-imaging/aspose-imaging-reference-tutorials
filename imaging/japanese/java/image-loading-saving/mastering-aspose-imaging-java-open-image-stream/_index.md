@@ -158,7 +158,7 @@ Aspose.Imaging を Java で使用する場合のアプリケーションのパ�
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料試用版](https://releases.aspose.com/imaging/java/)
 - [臨時免許申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 この包括的なガイドは、ストリームベースの画像処理に Aspose.Imaging Java を効率的に実装および利用し、アプリケーションのパフォーマンスと機能を向上させるのに役立ちます。
 

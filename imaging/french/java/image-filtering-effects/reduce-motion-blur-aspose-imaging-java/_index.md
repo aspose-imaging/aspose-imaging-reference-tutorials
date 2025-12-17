@@ -237,7 +237,7 @@ Pour une exploration et un soutien plus approfondis, reportez-vous aux ressource
 - **Documentation:** [Documentation d'Aspose.Imaging pour Java](https://reference.aspose.com/imaging/java/)
 - **Télécharger:** [Versions d'Aspose.Imaging pour Java](https://releases.aspose.com/imaging/java/)
 - **Achat et essai gratuit :** [Acheter ou essayer Aspose.Imaging pour Java](https://purchase.aspose.com/buy)
-- **Forum d'assistance :** [Communauté de soutien Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance :** [Communauté de soutien Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ce guide complet devrait vous donner les connaissances nécessaires pour réduire efficacement le flou de mouvement dans vos images avec Aspose.Imaging pour Java. Bon codage !
 

@@ -148,7 +148,7 @@ Utilizzare flussi bufferizzati e garantire il corretto smaltimento delle risorse
 - **Acquistare:** [Acquista Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Inizia con una prova gratuita](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea:** [Ottieni una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto:** [Supporto del forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto:** [Supporto del forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Questa guida è pensata per aiutarti a sfruttare appieno il potenziale di Aspose.Imaging per i tuoi progetti .NET. Buona programmazione!
 

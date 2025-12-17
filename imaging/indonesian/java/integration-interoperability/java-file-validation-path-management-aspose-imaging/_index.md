@@ -221,7 +221,7 @@ A5: Tambahkan dependensi Aspose.Imaging ke proyek Anda menggunakan Maven atau Gr
 - **Pembelian**: Dapatkan lisensi melalui [Halaman pembelian Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**:Mulai bereksperimen dengan [Uji coba gratis Aspose](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**Dapatkan akses tambahan melalui [Halaman lisensi sementara Aspose](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**:Berinteraksi dengan komunitas dan tim dukungan di [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**:Berinteraksi dengan komunitas dan tim dukungan di [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda akan siap menerapkan validasi file dan manajemen jalur di aplikasi Java Anda menggunakan Aspose.Imaging. Selamat membuat kode!
 

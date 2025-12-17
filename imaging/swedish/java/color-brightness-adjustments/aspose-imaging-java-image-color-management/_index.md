@@ -189,7 +189,7 @@ Redo att omsätta dessa kunskaper i praktiken? Försök att implementera dessa t
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10) 
+- [Supportforum](https://forum.aspose.com/c/imaging/14) 
 
 Börja hantera dina bilder med färgprecision idag med Aspose.Imaging för Java!
 

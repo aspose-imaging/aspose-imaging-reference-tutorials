@@ -177,7 +177,7 @@ Aspose.Imaging の機能をさらに詳しく調べるには、豊富なドキ�
 - **購入：** [ライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [Aspose.Imaging を試す](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス:** [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 最適な JPEG 品質設定を確保するための適切なツールと知識を備えているので、自信を持って次の画像処理プロジェクトに着手できます。
 

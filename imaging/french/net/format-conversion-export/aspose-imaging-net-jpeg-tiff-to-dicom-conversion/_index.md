@@ -163,7 +163,7 @@ Les prochaines étapes incluent l’exploration de fonctionnalités plus avancé
 - [Achat](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/net/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Soutien](https://forum.aspose.com/c/imaging/10)
+- [Soutien](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

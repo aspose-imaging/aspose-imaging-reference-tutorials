@@ -133,7 +133,7 @@ R : Aspose.Imaging prend en charge les opérations par lots via des boucles et 
 - **Achat**: [Acheter une licence](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Essayez maintenant](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance**: [Posez vos questions ici](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance**: [Posez vos questions ici](https://forum.aspose.com/c/imaging/14)
 
 Commencez à utiliser Aspose.Imaging dès aujourd’hui pour améliorer vos applications .NET avec des capacités de traitement d’image robustes !
 

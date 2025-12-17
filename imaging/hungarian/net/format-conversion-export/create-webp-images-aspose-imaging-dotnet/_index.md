@@ -189,7 +189,7 @@ Az Aspose.Imaging hatékony memóriakezelésre és gyors feldolgozásra van opti
 - **Licenc vásárlása:** [Vásároljon most](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** Fedezze fel a teljes funkciókat egy ideiglenes licenccel a következőtől: [itt](https://releases.aspose.com/imaging/net/).
 - **Ideiglenes engedély:** Szerezzen be egyet értékelésre a következő címen: [ez a link](https://purchase.aspose.com/temporary-license/).
-- **Támogatási fórum:** Látogatás [Aspose közösségi támogatás](https://forum.aspose.com/c/imaging/10) bármilyen kérdés vagy probléma esetén.
+- **Támogatási fórum:** Látogatás [Aspose közösségi támogatás](https://forum.aspose.com/c/imaging/14) bármilyen kérdés vagy probléma esetén.
 
 Ezt az átfogó útmutatót követve most már képes leszel WebP képeket hatékonyan és eredményesen létrehozni az Aspose.Imaging for .NET használatával. Jó kódolást!
 

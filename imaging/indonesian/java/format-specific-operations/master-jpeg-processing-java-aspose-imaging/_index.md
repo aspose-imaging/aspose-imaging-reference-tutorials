@@ -224,7 +224,7 @@ Anda kini telah mempelajari cara memuat, mendekode, membaca properti, dan mengon
 - **Pembelian:** [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Mulailah dengan Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Kami harap panduan ini membantu Anda dalam menguasai pemrosesan gambar JPEG dengan Aspose.Imaging untuk Java. Cobalah menerapkan solusi ini untuk melihat bagaimana solusi ini dapat menyempurnakan proyek Anda!
 

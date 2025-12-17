@@ -184,7 +184,7 @@ image.save("YOUR_OUTPUT_DIRECTORY\\output.bmp", options);
 - **Αγορά Άδειας Χρήσης**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε τη δωρεάν δοκιμή σας](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Εφαρμόζοντας αυτά τα βήματα και αξιοποιώντας τους παρεχόμενους πόρους, θα είστε άρτια εξοπλισμένοι για να χειριστείτε τη συμπίεση εικόνας BMP με το Aspose.Imaging για Java. Καλή κωδικοποίηση!
 

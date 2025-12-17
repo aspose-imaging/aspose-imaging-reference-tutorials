@@ -185,7 +185,7 @@ A: Use diferentes `ImageOptions` aulas fornecidas pela Aspose.Imaging para salva
 - **Licença de compra**: [Comprar agora](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Começar](https://releases.aspose.com/imaging/java/)
 - **Licença Temporária**: [Inscreva-se aqui](https://purchase.aspose.com/temporary-license/)
-- **Fórum de Suporte**: [Suporte Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Fórum de Suporte**: [Suporte Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Comece a explorar os poderosos recursos de processamento de imagens do Aspose.Imaging para Java hoje mesmo!
 

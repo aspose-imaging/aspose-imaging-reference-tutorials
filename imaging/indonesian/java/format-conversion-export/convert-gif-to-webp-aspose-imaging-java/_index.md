@@ -225,7 +225,7 @@ Kini Anda memiliki pemahaman yang kuat tentang cara mengonversi file GIF ke WebP
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Uji Coba Gratis Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan panduan lengkap ini, Anda akan diperlengkapi dengan baik untuk mengoptimalkan gambar Anda menggunakan Aspose.Imaging untuk Java dan menyempurnakan aplikasi atau situs web Anda. Selamat membuat kode!
 

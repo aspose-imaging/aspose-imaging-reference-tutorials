@@ -197,7 +197,7 @@ Pronti a provare a implementare questa soluzione? Scoprite Aspose.Imaging per Ja
 - **Acquistare:** Visita [Pagina di acquisto Aspose](https://purchase.aspose.com/buy) per le opzioni di licenza
 - **Prova gratuita:** Inizia con una prova a [Link di prova gratuito](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea:** Ottieni l'accesso temporaneo tramite [Pagina della licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto:** Interagisci con la comunità su [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto:** Interagisci con la comunità su [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

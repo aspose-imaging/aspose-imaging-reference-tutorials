@@ -181,7 +181,7 @@ Aspose.Imaging은 .NET Core 및 .NET 5/6+와 완벽하게 호환되므로 크로
 Aspose.Imaging의 구성 옵션을 사용하여 해상도 및 품질 설정을 조정하여 이미지 무결성을 유지합니다.
 
 **5. Aspose.Imaging에서 문제가 발생하면 지원을 받을 수 있나요?**
-네, 도움을 요청할 수 있습니다. [Aspose 포럼](https://forum.aspose.com/c/imaging/10) 커뮤니티나 공식적인 지원을 위해.
+네, 도움을 요청할 수 있습니다. [Aspose 포럼](https://forum.aspose.com/c/imaging/14) 커뮤니티나 공식적인 지원을 위해.
 
 ## 자원
 

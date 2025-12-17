@@ -171,7 +171,7 @@ Vous devriez maintenant maîtriser la binarisation d'images BMP avec Aspose.Imag
 - **Licence d'achat :** [Acheter maintenant](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Obtenez votre essai gratuit](https://releases.aspose.com/imaging/net/)
 - **Licence temporaire :** [Demande de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance :** [Prise en charge d'Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance :** [Prise en charge d'Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

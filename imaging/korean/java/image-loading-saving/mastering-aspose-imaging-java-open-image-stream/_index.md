@@ -158,7 +158,7 @@ Java에서 Aspose.Imaging을 사용할 때 애플리케이션 성능을 최적�
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험판](https://releases.aspose.com/imaging/java/)
 - [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 포괄적인 가이드는 스트림 기반 이미지 처리를 위해 Aspose.Imaging Java를 효율적으로 구현하고 활용하여 애플리케이션의 성능과 기능을 향상시키는 데 도움이 됩니다.
 

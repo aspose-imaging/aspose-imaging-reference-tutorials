@@ -193,7 +193,7 @@ try (JpegImage image = (JpegImage) Image.load("YOUR_DOCUMENT_DIRECTORY/aspose-lo
    - يمكنك الحصول على ترخيص مؤقت للتقييم أو شراء ترخيص كامل للاستخدام الإنتاجي.
 
 5. **أين يمكنني العثور على الدعم إذا واجهت مشاكل؟**  
-   - قم بزيارة [منتدى Aspose](https://forum.aspose.com/c/imaging/10) للحصول على الدعم المجتمعي والرسمي.
+   - قم بزيارة [منتدى Aspose](https://forum.aspose.com/c/imaging/14) للحصول على الدعم المجتمعي والرسمي.
 
 ## موارد
 
@@ -202,7 +202,7 @@ try (JpegImage image = (JpegImage) Image.load("YOUR_DOCUMENT_DIRECTORY/aspose-lo
 - شراء: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - نسخة تجريبية مجانية: [التجارب المجانية متاحة](https://releases.aspose.com/imaging/java/)
 - رخصة مؤقتة: [التقدم بطلب للحصول على ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- يدعم: [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- يدعم: [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 بفضل هذه الموارد، ستتمكن من تحقيق أقصى استفادة من Aspose.Imaging في مشاريع Java الخاصة بك. برمجة ممتعة!
 

@@ -213,7 +213,7 @@ Các bước tiếp theo:
 - **Mua**: [Mua sản phẩm Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Hãy thử Aspose.Imaging miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách thành thạo các kỹ thuật này, bạn đang trên đường tận dụng Aspose.Imaging cho các tác vụ xử lý hình ảnh phức tạp trong Java. Chúc bạn viết mã vui vẻ!
 

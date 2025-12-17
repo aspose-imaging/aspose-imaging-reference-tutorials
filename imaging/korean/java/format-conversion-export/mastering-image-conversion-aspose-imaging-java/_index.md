@@ -212,7 +212,7 @@ image.save("YOUR_OUTPUT_DIRECTORY/ExportToTIFF_out.tiff", new TiffOptions(TiffEx
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험판을 받아보세요](https://releases.aspose.com/imaging/java/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java로 이미지 처리 여정을 시작하고 오늘부터 프로젝트의 품질을 높여보세요!
 

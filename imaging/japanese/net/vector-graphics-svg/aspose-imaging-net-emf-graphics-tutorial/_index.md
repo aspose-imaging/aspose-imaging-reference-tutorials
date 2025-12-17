@@ -149,7 +149,7 @@ Aspose.Imaging を使用する際に最適なパフォーマンスを確保す�
 - [購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10) 
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14) 
 
 これらのリソースを参照して Aspose.Imaging の機能を詳しく理解し、今すぐ .NET アプリケーションを強化しましょう。
 

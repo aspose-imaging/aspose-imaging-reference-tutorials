@@ -187,7 +187,7 @@ The `endRecording()` метод завершает процесс рисован
 - [Купить лицензию](https://purchase.aspose.com/buy)
 - [Информация о бесплатной пробной версии](https://releases.aspose.com/imaging/java/)
 - [Запрос на временную лицензию](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Следуя этому руководству, вы теперь должны быть хорошо подготовлены к интеграции растровых изображений в холсты SVG с помощью Aspose.Imaging для Java. Удачного кодирования!
 

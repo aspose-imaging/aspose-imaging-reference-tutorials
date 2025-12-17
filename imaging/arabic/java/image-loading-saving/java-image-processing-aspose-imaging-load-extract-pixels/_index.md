@@ -204,7 +204,7 @@ for (int y = desiredArea.getTop(); y < bottom; ++y) {
 - **شراء**:احصل على التراخيص مباشرة من [شراء Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**:ابدأ بالتجربة مع [رخصة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**:الحصول على ترخيص مؤقت للاختبار في [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/).
-- **يدعم**:انضم إلى المجتمع على [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10) لأي استفسارات أو مناقشات.
+- **يدعم**:انضم إلى المجتمع على [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14) لأي استفسارات أو مناقشات.
 
 باتباع هذا البرنامج التعليمي، أصبحتَ الآن جاهزًا للتعامل مع مهام معالجة الصور المعقدة في جافا باستخدام Aspose.Imaging. برمجة ممتعة!
 

@@ -249,7 +249,7 @@ De volgende stappen zijn onder meer het verkennen van de geavanceerdere functies
 - [Aankoop](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Steun](https://forum.aspose.com/c/imaging/10)
+- [Steun](https://forum.aspose.com/c/imaging/14)
 
 Probeer deze oplossing in uw volgende project te implementeren en profiteer van de kracht van Aspose.Imaging voor Java!
 

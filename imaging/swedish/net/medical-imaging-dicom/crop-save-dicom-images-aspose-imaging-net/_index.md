@@ -184,7 +184,7 @@ Testa att implementera lösningen idag för att se hur den passar in i ditt arbe
 - **Köplicens:** [Köp Aspose-produkter](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Aspose.Imaging Gratis provperioder](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens:** [Få tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum:** [Aspose Support Community](https://forum.aspose.com/c/imaging/10)
+- **Supportforum:** [Aspose Support Community](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

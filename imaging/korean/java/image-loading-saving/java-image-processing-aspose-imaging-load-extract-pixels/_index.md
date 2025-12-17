@@ -204,7 +204,7 @@ for (int y = desiredArea.getTop(); y < bottom; ++y) {
 - **구입**라이센스를 직접 획득하세요 [Aspose 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: 실험을 시작하세요 [무료 체험판 라이센스](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: 시험을 위한 임시 면허를 취득하세요. [임시 면허](https://purchase.aspose.com/temporary-license/).
-- **지원하다**: 커뮤니티에 가입하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10) 문의사항이나 토론사항이 있으시면 언제든지 연락주세요.
+- **지원하다**: 커뮤니티에 가입하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/14) 문의사항이나 토론사항이 있으시면 언제든지 연락주세요.
 
 이 튜토리얼을 따라 하면 이제 Aspose.Imaging을 사용하여 Java에서 복잡한 이미지 처리 작업을 처리할 수 있게 됩니다. 즐거운 코딩 되세요!
 

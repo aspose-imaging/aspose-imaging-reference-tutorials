@@ -177,7 +177,7 @@ public static void CheckJpegSavedQuality()
 - **شراء:** [شراء الترخيص](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [جرب Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة:** [الحصول على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 ابدأ مشروع معالجة الصور التالي الخاص بك بثقة، مع العلم أنك تمتلك الأدوات والمعرفة المناسبة لضمان إعدادات جودة JPEG المثالية.
 

@@ -197,7 +197,7 @@ Sẵn sàng tiến xa hơn nữa? Hãy thử áp dụng các kỹ thuật này v
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Hỗ trợ và Diễn đàn](https://forum.aspose.com/c/imaging/10)
+- [Hỗ trợ và Diễn đàn](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

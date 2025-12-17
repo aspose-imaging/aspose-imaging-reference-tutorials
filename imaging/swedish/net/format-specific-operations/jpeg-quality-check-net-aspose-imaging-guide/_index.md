@@ -177,7 +177,7 @@ För att utforska vad Aspose.Imaging erbjuder ytterligare, överväg att dyka ne
 - **Köpa:** [Köp licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Prova Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens:** [Skaffa tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Börja med ditt nästa bildbehandlingsprojekt med tillförsikt, i vetskapen om att du har rätt verktyg och kunskap för att säkerställa optimala JPEG-kvalitetsinställningar.
 

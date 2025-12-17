@@ -231,7 +231,7 @@ Díky tomuto tutoriálu jste se naučili, jak implementovat knihovnu Aspose.Imag
    - Zvažte implementaci fondů vláken a efektivních postupů správy zdrojů pro zvládnutí vysoké souběžnosti.
 
 5. **Jak mohu řešit běžné problémy při používání Aspose.Imaging?**
-   - Zkontrolujte úředníka [dokumentace](https://reference.aspose.com/imaging/java/) pro podrobné návody nebo navštivte [Fóra Aspose](https://forum.aspose.com/c/imaging/10) pro podporu komunity.
+   - Zkontrolujte úředníka [dokumentace](https://reference.aspose.com/imaging/java/) pro podrobné návody nebo navštivte [Fóra Aspose](https://forum.aspose.com/c/imaging/14) pro podporu komunity.
 
 ## Zdroje
 

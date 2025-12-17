@@ -184,7 +184,7 @@ Redo att anta nästa utmaning? Implementera dessa tekniker och se din produktivi
 - **Köpa**Överväg att köpa en licens för långvarig användning på [Aspose köpsida](https://purchase.aspose.com/buy).
 - **Gratis provperiod**Börja med en gratis provperiod för att utforska funktioner på [Aspose Imaging Gratis provperiod](https://releases.aspose.com/imaging/java/).
 - **Tillfällig licens**Erhålla en tillfällig licens för utökad provning.
-- **Stöd**Gå med i communityforumet för hjälp på [Aspose-forumet](https://forum.aspose.com/c/imaging/10). 
+- **Stöd**Gå med i communityforumet för hjälp på [Aspose-forumet](https://forum.aspose.com/c/imaging/14). 
 
 Med den här omfattande guiden är du väl rustad för att ta itu med JPEG-bildbehandling med Aspose.Imaging för Java. Lycka till med kodningen!
 

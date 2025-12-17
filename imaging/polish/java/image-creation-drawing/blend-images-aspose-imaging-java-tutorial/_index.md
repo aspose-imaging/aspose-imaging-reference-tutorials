@@ -210,7 +210,7 @@ A: Upewnij się, że Twoje obrazy nakładki i tła mają wysoką rozdzielczość
 - **Kup licencję**: [Strona zakupu Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Wypróbuj Aspose.Imaging dla Java](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**: [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia**: [Wsparcie obrazowania Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia**: [Wsparcie obrazowania Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dzięki temu przewodnikowi będziesz dobrze wyposażony, aby zacząć łączyć obrazy za pomocą Aspose.Imaging dla Java. Miłego kodowania!
 

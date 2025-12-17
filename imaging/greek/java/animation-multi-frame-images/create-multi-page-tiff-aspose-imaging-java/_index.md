@@ -214,7 +214,7 @@ tiffImage.save("YOUR_OUTPUT_DIRECTORY/output.tiff");
 - [Επιλογές αδειοδότησης αγοράς](https://purchase.aspose.com/buy)
 - [Ξεκινήστε με μια δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Πληροφορίες Προσωρινής Άδειας Χρήσης](https://purchase.aspose.com/temporary-license/)
-- [Υποστήριξη Κοινότητας και Φόρουμ](https://forum.aspose.com/c/imaging/10)
+- [Υποστήριξη Κοινότητας και Φόρουμ](https://forum.aspose.com/c/imaging/14)
 
 Αξιοποιώντας αυτούς τους πόρους, μπορείτε να εμβαθύνετε την κατανόησή σας για το Aspose.Imaging για Java και να το εφαρμόσετε αποτελεσματικά στα έργα σας. Καλή κωδικοποίηση!
 

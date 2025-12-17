@@ -149,7 +149,7 @@ C3: Performans Hususları bölümünde anlatıldığı gibi bellek yönetimini o
 A4: Yaygın sorunlar arasında yanlış dosya yolları, uygunsuz yapılandırma ayarları ve desteklenmeyen görüntü biçimleri bulunur. Her zaman yolların doğru olduğundan ve yapılandırmaların gereksinimlerinizle uyumlu olduğundan emin olun.
 
 **S5: Aspose.Imaging hakkında daha fazla kaynağı nerede bulabilirim?**
-A5: Ziyaret edin [Aspose Belgeleri](https://reference.aspose.com/imaging/net/) kapsamlı kılavuzlar ve [Forumlar](https://forum.aspose.com/c/imaging/10) Toplum desteği için.
+A5: Ziyaret edin [Aspose Belgeleri](https://reference.aspose.com/imaging/net/) kapsamlı kılavuzlar ve [Forumlar](https://forum.aspose.com/c/imaging/14) Toplum desteği için.
 
 ## Kaynaklar
 - **Belgeler:** [Aspose Imaging .NET Referansı](https://reference.aspose.com/imaging/net/)
@@ -157,7 +157,7 @@ A5: Ziyaret edin [Aspose Belgeleri](https://reference.aspose.com/imaging/net/) k
 - **Satın almak:** [Lisans satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Deneme İndirmeleri](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans:** [Burada Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Forumları](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Forumları](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

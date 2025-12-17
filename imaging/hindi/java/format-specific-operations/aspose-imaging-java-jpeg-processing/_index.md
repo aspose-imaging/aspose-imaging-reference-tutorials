@@ -191,7 +191,7 @@ Maven या Gradle निर्भरता का उपयोग करें
 - **खरीदना:** [Aspose लाइसेंसिंग खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [एस्पोज इमेजिंग निःशुल्क परीक्षण](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस:** [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता:** [Aspose.Imaging फ़ोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता:** [Aspose.Imaging फ़ोरम](https://forum.aspose.com/c/imaging/14)
 
 इस ट्यूटोरियल का अनुसरण करके, आप Aspose.Imaging for Java का उपयोग करके JPEG को कुशलतापूर्वक लोड और सहेजने के ज्ञान से खुद को सुसज्जित कर लेंगे। हैप्पी कोडिंग!
 

@@ -137,7 +137,7 @@ Prozkoumejte pokročilejší funkce Aspose.Imaging, jako je dávkové zpracován
 - [Stáhnout Aspose.Imaging pro .NET](https://releases.aspose.com/imaging/net/)
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze a dočasná licence](https://releases.aspose.com/imaging/net/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Prozkoumejte tyto zdroje, abyste prohloubili své znalosti a vylepšili své implementace s Aspose.Imaging .NET. Přejeme vám příjemné programování!
 

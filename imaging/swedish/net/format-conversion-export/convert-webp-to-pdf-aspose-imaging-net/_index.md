@@ -160,7 +160,7 @@ Genom att följa den här guiden har du lärt dig hur du konverterar WebP-bilder
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Med den här omfattande guiden är du nu rustad att utnyttja Aspose.Imaging för .NET i dina projekt. Lycka till med kodningen!
 

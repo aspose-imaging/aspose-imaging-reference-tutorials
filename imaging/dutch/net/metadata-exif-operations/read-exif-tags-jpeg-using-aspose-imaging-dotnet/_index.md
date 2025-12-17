@@ -145,7 +145,7 @@ A5: Verwerk afbeeldingen indien mogelijk parallel en zorg ervoor dat afbeeldings
 - **Koop een licentie**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer het eens](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Hier aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Stel vragen](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Stel vragen](https://forum.aspose.com/c/imaging/14)
 
 Begin vandaag nog met Aspose.Imaging voor .NET en profiteer van de kracht van afbeeldingsmetadata!
 

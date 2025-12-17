@@ -186,7 +186,7 @@ Questo tutorial vi ha guidato attraverso il caricamento, la modifica, il salvata
 - **Acquistare**: [Acquista i prodotti Aspose](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Prova Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea**: [Ottieni una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: [Forum Aspose per l'imaging](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: [Forum Aspose per l'imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

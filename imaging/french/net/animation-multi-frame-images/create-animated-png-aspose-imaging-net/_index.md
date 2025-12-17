@@ -172,7 +172,7 @@ Vous savez maintenant comment créer un APNG à partir d'une seule image avec As
 - **Achat**: Pour une licence complète, rendez-vous sur [Achat Aspose](https://purchase.aspose.com/buy).
 - **Essai gratuit**: Commencez par un essai à [Essais gratuits d'Aspose](https://releases.aspose.com/imaging/net/).
 - **Permis temporaire**:Obtenez un accès temporaire via le [Page de licence](https://purchase.aspose.com/temporary-license/).
-- **Soutien**:Rejoignez les discussions ou posez des questions sur le [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Soutien**:Rejoignez les discussions ou posez des questions sur le [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Lancez-vous dans votre voyage pour créer des animations captivantes avec Aspose.Imaging pour .NET, améliorant à la fois vos compétences techniques et les résultats de votre projet.
 

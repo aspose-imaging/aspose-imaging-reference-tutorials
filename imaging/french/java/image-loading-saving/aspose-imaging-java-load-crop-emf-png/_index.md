@@ -209,7 +209,7 @@ Vous maîtrisez désormais le chargement, le recadrage et la conversion de fichi
 - [Licence d'achat](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 Adoptez la puissance d'Aspose.Imaging Java pour améliorer vos capacités de traitement d'images dès aujourd'hui !
 

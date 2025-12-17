@@ -172,7 +172,7 @@ if (exif != null)
 - **شراء:** [شراء خيارات ترخيص Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [جرب التجارب المجانية](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة:** [طلب تراخيص مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [دعم منتدى Aspose](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** [دعم منتدى Aspose](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا الدليل، ستكون جاهزًا تمامًا للتعامل مع صور JPEG وبياناتها الوصفية باستخدام Aspose.Imaging لـ .NET. برمجة ممتعة!
 

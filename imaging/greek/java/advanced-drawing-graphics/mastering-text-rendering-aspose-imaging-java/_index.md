@@ -224,7 +224,7 @@ try {
 - **Download:** Πρόσβαση στην πιο πρόσφατη έκδοση του Aspose.Imaging από τη [Releases Page](https://releases.aspose.com/imaging/java/).  
 - **Purchase:** Αποκτήστε πλήρη άδεια μέσω της [Aspose Purchase Page](https://purchase.aspose.com/buy).  
 - **Free Trial:** Δοκιμάστε το Aspose.Imaging με δωρεάν δοκιμή στη [Temporary License Page](https://purchase.aspose.com/temporary-license/).  
-- **Support:** Συμμετέχετε σε συζητήσεις ή ζητήστε βοήθεια στο [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Support:** Συμμετέχετε σε συζητήσεις ή ζητήστε βοήθεια στο [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 ---
 

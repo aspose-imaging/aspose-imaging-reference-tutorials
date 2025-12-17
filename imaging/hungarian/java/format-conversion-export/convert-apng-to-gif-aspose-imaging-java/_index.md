@@ -216,7 +216,7 @@ Gratulálunk! Sikeresen eligazodtál az APNG fájlok betöltésének, konvertál
    - Igen, kötegelt feldolgozást is végezhet ciklusok használatával, vagy integrálhatja a feladatütemező rendszerekkel.
 
 5. **Hogyan kaphatok támogatást, ha problémákba ütközöm?**
-   - Látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10) segítségért és más felhasználókkal való beszélgetésért.
+   - Látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14) segítségért és más felhasználókkal való beszélgetésért.
 
 ## Erőforrás
 

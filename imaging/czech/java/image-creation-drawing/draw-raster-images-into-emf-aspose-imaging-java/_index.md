@@ -214,7 +214,7 @@ Jste připraveni aplikovat to, co jste se naučili? Zkuste tyto techniky impleme
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte Aspose.Imaging zdarma](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Podpora Aspose.Imaging](https://forum.aspose.com/c/imaging/10) 
+- **Fórum podpory**: [Podpora Aspose.Imaging](https://forum.aspose.com/c/imaging/14) 
 
 Vydejte se na svou cestu s Aspose.Imaging pro Javu ještě dnes a odemkněte nové možnosti ve zpracování obrazu!
 

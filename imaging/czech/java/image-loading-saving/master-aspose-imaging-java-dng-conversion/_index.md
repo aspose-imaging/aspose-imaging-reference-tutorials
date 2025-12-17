@@ -189,7 +189,7 @@ Ano, Aspose.Imaging lze využít v komerčních aplikacích na základě přísl
 - **Nákup**: [Koupit nyní](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Podpora komunity Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Podpora komunity Aspose](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na svou cestu s Aspose.Imaging pro Javu ještě dnes a odemkněte plný potenciál zpracování obrazu ve vašich aplikacích!
 

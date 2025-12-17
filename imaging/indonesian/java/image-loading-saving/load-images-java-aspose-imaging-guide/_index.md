@@ -163,7 +163,7 @@ Siap untuk membawa pengembangan Java Anda ke tingkat berikutnya? Cobalah menerap
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis dan Lisensi Sementara](https://releases.aspose.com/imaging/java/)
 
-Untuk pertanyaan lebih lanjut, kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)Selamat membuat kode!
+Untuk pertanyaan lebih lanjut, kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)Selamat membuat kode!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

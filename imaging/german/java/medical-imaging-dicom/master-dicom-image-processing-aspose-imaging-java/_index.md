@@ -252,7 +252,7 @@ Sie beherrschen nun die Grundlagen der DICOM-Manipulation mit Aspose.Imaging Jav
 **Nächste Schritte:**
 - Entdecken Sie weitere Funktionen im [Aspose.Imaging-Dokumentation](https://reference.aspose.com/imaging/java/).
 - Experimentieren Sie mit komplexeren DICOM-Manipulationen.
-- Teilen Sie Ihre Erfahrungen und Lösungen in Foren wie dem [Aspose-Community-Forum](https://forum.aspose.com/c/imaging/10).
+- Teilen Sie Ihre Erfahrungen und Lösungen in Foren wie dem [Aspose-Community-Forum](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ-Bereich
 
@@ -278,7 +278,7 @@ A5: Überprüfen Sie, ob der Dateipfad korrekt ist, stellen Sie sicher, dass Sie
 - **Kaufen**: [Kaufen Sie eine Lizenz](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Temporäre Lizenz anfordern](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Community Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose Community Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit diesem umfassenden Leitfaden sind Sie bestens gerüstet für die DICOM-Bildverarbeitung mit Aspose.Imaging Java. Viel Spaß beim Programmieren!
 

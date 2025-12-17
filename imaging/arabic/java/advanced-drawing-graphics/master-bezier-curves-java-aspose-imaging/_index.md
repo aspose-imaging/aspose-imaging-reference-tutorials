@@ -196,7 +196,7 @@ image.save();
 - **Purchase:** [Buy Aspose.Imaging for Java](https://purchase.aspose.com/buy)
 - **Free Trial:** ابدأ نسختك التجريبية المجانية على [Aspose website](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** قدّم طلبًا للحصول على ترخيص مؤقت عبر [Aspose Purchase](https://purchase.aspose.com/temporary-license/)
-- **Support:** انضم إلى المناقشات في [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** انضم إلى المناقشات في [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 ابدأ برسم تلك المنحنيات اليوم وارتقِ بمشاريع جافا الخاصة بك باستخدام Aspose.Imaging!
 

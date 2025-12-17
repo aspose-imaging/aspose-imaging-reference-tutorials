@@ -138,7 +138,7 @@ R : Commencez par un essai gratuit ou demandez une licence temporaire. Achetez 
 - **Licence d'achat :** [Acheter maintenant](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Commencer](https://releases.aspose.com/imaging/net/)
 - **Licence temporaire :** [Demandez ici](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance :** [Communauté Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance :** [Communauté Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

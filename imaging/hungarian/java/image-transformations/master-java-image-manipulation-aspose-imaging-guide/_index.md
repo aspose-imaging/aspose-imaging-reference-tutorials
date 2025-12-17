@@ -213,7 +213,7 @@ További információkért és haladó technikákért lásd az alábbiakat:
 - **Letöltés**: Szerezd meg a legújabb kiadást innen: [Aspose.Imaging kiadások](https://releases.aspose.com/imaging/java/)
 - **Vásárlás**Szerezd meg a jogosítványodat itt: [Aspose Vásárlási Oldal](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: Teszteljen funkciókat egy ideiglenes licenccel, amely elérhető a következő címen: [Aspose ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
-- **Támogatás**Csatlakozz a beszélgetéshez a [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**Csatlakozz a beszélgetéshez a [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Kezdj kísérletezni és fedezz fel új kreatív lehetőségeket az Aspose.Imaging for Java segítségével még ma!
 

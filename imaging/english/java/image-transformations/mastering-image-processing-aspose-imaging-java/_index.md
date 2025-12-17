@@ -189,7 +189,7 @@ The free trial has evaluation limitations, such as watermarks on processed image
 - **Purchase:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial:** [Aspose.Imaging Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Obtain a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support:** [Aspose Forum Support](https://forum.aspose.com/c/imaging/10) 
+- **Support:** [Aspose Forum Support](https://forum.aspose.com/c/imaging/14) 
 
 With this comprehensive guide, you're well-equipped to start utilizing Aspose.Imaging for Java in your projects. Happy coding!
 

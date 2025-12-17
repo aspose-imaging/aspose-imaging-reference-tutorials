@@ -156,7 +156,7 @@ Bu eğitim, Aspose.Imaging for .NET kullanarak BMP görüntüleri oluşturma ve 
 - **Satın almak:** [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Deneme Sürümü](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans:** [Burada Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu:** [Aspose Topluluk Desteği](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu:** [Aspose Topluluk Desteği](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

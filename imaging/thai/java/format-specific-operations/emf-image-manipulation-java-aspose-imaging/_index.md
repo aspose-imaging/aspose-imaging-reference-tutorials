@@ -247,7 +247,7 @@ public class SaveAsPNGExample {
 - [ซื้อ](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - [ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/14)
 
 หากปฏิบัติตามคำแนะนำที่ครอบคลุมนี้ คุณจะสามารถผสานรวมความสามารถในการประมวลผลภาพขั้นสูงเข้ากับแอปพลิเคชัน Java ของคุณโดยใช้ Aspose.Imaging ได้อย่างดีเยี่ยม ขอให้สนุกกับการเขียนโค้ด!
 

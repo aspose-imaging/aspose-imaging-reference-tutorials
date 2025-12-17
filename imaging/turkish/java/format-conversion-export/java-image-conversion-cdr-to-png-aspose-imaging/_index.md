@@ -243,7 +243,7 @@ Görüntü dönüştürme yeteneklerinizi bir üst seviyeye taşımaya hazır m�
 - [Java için Aspose.Imaging'i indirin](https://releases.aspose.com/imaging/java/)
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme ve Geçici Lisans](https://releases.aspose.com/imaging/java/)
-- [Topluluk Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Topluluk Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Aspose.Imaging for Java'yı kullanarak görüntü dönüştürme görevlerini kolaylıkla halletmek için iyi bir donanıma sahip olacaksınız. İyi kodlamalar!
 

@@ -216,7 +216,7 @@ Tebrikler! Java'da Aspose.Imaging kullanarak APNG dosyalarını yükleme, dönü
    - Evet, döngüleri kullanarak toplu işlemleri yazabilir veya iş planlama sistemleriyle entegre edebilirsiniz.
 
 5. **Sorun yaşarsam nasıl destek alabilirim?**
-   - Ziyaret edin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10) Diğer kullanıcılarla yardım ve tartışmalar için.
+   - Ziyaret edin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14) Diğer kullanıcılarla yardım ve tartışmalar için.
 
 ## Kaynaklar
 

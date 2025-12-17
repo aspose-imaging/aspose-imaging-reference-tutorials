@@ -183,7 +183,7 @@ Java용 Aspose.Imaging을 사용할 때 성능을 최적화하려면 다음과 �
    네, `JpegOptions` 클래스는 출력 품질 및 기타 매개변수를 구성하는 방법을 제공합니다.
 
 5. **문제가 발생하면 어디에서 지원을 받을 수 있나요?**
-   방문하세요 [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/10) 커뮤니티 지원을 원하시거나 지원 채널을 통해 Aspose에 직접 문의하세요.
+   방문하세요 [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/14) 커뮤니티 지원을 원하시거나 지원 채널을 통해 Aspose에 직접 문의하세요.
 
 ## 자원
 

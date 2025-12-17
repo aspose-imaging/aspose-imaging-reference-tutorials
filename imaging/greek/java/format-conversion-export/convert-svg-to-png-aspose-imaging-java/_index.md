@@ -222,7 +222,7 @@ public class Main {
 - [Aspose.Imaging για τεκμηρίωση Java](https://reference.aspose.com/imaging/java/)
 - [Λήψη του Aspose.Imaging για Java](https://releases.aspose.com/imaging/java/)
 - [Αγοράστε μια άδεια χρήσης ή αποκτήστε μια δωρεάν δοκιμή](https://purchase.aspose.com/buy)
-- [Λάβετε υποστήριξη από το Φόρουμ Κοινότητας](https://forum.aspose.com/c/imaging/10)
+- [Λάβετε υποστήριξη από το Φόρουμ Κοινότητας](https://forum.aspose.com/c/imaging/14)
 
 Με αυτούς τους πόρους και αυτόν τον οδηγό, είστε πλήρως εξοπλισμένοι για να ξεκινήσετε τον μετασχηματισμό εικόνων SVG με σιγουριά χρησιμοποιώντας το Aspose.Imaging για Java. Καλή κωδικοποίηση!
 

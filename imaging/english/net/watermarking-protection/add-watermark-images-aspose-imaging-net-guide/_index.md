@@ -163,7 +163,7 @@ By following this guide, you've learned how to add watermarks to images using As
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Free Trial Download](https://releases.aspose.com/imaging/net/)
 - [Temporary License Acquisition](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 By leveraging these resources, you can further explore and master the Aspose.Imaging library for .NET. Happy coding!
 

@@ -194,7 +194,7 @@ A5: 물론입니다! 여러 파일을 효율적으로 처리하기 위해 루프
 - **구입**: https://purchase.aspose.com/buy
 - **무료 체험**: https://releases.aspose.com/imaging/java/
 - **임시 면허**: https://purchase.aspose.com/temporary-license/
-- **지원하다**: https://forum.aspose.com/c/imaging/10
+- **지원하다**: https://forum.aspose.com/c/imaging/14
 
 다음 리소스를 탐색하여 Aspose.Imaging for Java에 대한 이해와 숙련도를 높여 보세요. 즐거운 코딩 되세요!
 

@@ -231,7 +231,7 @@ Dzięki temu samouczkowi nauczyłeś się implementować Aspose.Imaging Java do 
    - Warto rozważyć wdrożenie pul wątków i efektywnych praktyk zarządzania zasobami, aby sprostać wysokiemu poziomowi współbieżności.
 
 5. **Jak rozwiązywać typowe problemy występujące podczas korzystania z Aspose.Imaging?**
-   - Sprawdź oficjalne [dokumentacja](https://reference.aspose.com/imaging/java/) aby uzyskać szczegółowe przewodniki lub odwiedzić stronę [Fora Aspose](https://forum.aspose.com/c/imaging/10) o wsparcie społeczności.
+   - Sprawdź oficjalne [dokumentacja](https://reference.aspose.com/imaging/java/) aby uzyskać szczegółowe przewodniki lub odwiedzić stronę [Fora Aspose](https://forum.aspose.com/c/imaging/14) o wsparcie społeczności.
 
 ## Zasoby
 

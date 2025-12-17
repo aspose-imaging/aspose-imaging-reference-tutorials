@@ -149,7 +149,7 @@ A3: Tối ưu hóa quản lý bộ nhớ và tinh chỉnh cài đặt cấu hìn
 A4: Các vấn đề thường gặp bao gồm đường dẫn tệp không đúng, cài đặt cấu hình không phù hợp và định dạng hình ảnh không được hỗ trợ. Luôn đảm bảo đường dẫn chính xác và cấu hình phù hợp với yêu cầu của bạn.
 
 **Câu hỏi 5: Tôi có thể tìm thêm tài nguyên về Aspose.Imaging ở đâu?**
-A5: Ghé thăm [Tài liệu Aspose](https://reference.aspose.com/imaging/net/) để có hướng dẫn toàn diện và [Diễn đàn](https://forum.aspose.com/c/imaging/10) để hỗ trợ cộng đồng.
+A5: Ghé thăm [Tài liệu Aspose](https://reference.aspose.com/imaging/net/) để có hướng dẫn toàn diện và [Diễn đàn](https://forum.aspose.com/c/imaging/14) để hỗ trợ cộng đồng.
 
 ## Tài nguyên
 - **Tài liệu:** [Tài liệu tham khảo Aspose Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -157,7 +157,7 @@ A5: Ghé thăm [Tài liệu Aspose](https://reference.aspose.com/imaging/net/) �
 - **Mua:** [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Tải xuống bản dùng thử](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời:** [Yêu cầu ở đây](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

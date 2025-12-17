@@ -177,7 +177,7 @@ Khám phá thêm về Aspose.Imaging với các tài nguyên sau:
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn sẽ được trang bị đầy đủ để tạo và quản lý hình ảnh TIFF với tính năng nén AdobeDeflate bằng Aspose.Imaging cho .NET. Chúc bạn viết mã vui vẻ!
 

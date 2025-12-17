@@ -245,7 +245,7 @@ try (Image image = Image.load("YOUR_DOCUMENT_DIRECTORY/sample.bmp")) {
 - **구입**: 구독 구매를 고려하세요 [Aspose 구매](https://purchase.aspose.com/buy).
 - **무료 체험**: 제한 없이 기능을 테스트하려면 무료 체험판을 시작하세요.
 - **임시 면허**: 평가 기간 동안 전체 기능에 액세스할 수 있는 임시 라이선스를 받으세요.
-- **지원하다**: 커뮤니티에 가입하여 도움을 요청하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/10).
+- **지원하다**: 커뮤니티에 가입하여 도움을 요청하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

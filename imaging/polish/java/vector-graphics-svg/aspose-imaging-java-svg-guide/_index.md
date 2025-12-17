@@ -171,7 +171,7 @@ Gratulacje! Udało Ci się nauczyć, jak ładować i zapisywać obrazy SVG przy 
 
 **Następne kroki:**
 - Poznaj inne funkcje Aspose.Imaging, takie jak transformacje i filtrowanie obrazu.
-- Dołącz do [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) aby podzielić się swoimi spostrzeżeniami lub zasięgnąć porady u innych programistów.
+- Dołącz do [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) aby podzielić się swoimi spostrzeżeniami lub zasięgnąć porady u innych programistów.
 
 Gotowy, aby przenieść swoje projekty Java na wyższy poziom? Zanurz się we wdrażaniu tych rozwiązań już dziś!
 
@@ -199,7 +199,7 @@ Gotowy, aby przenieść swoje projekty Java na wyższy poziom? Zanurz się we wd
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna do pobrania](https://releases.aspose.com/imaging/java/)
 - [Poproś o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij integrację Aspose.Imaging for Java już dziś i usprawnij swoje procesy przetwarzania obrazów!
 

@@ -250,7 +250,7 @@ R: Per garantire prestazioni fluide, si consiglia di utilizzare tecniche di elab
 - **Acquistare:** [Acquista Aspose](https://purchase.aspose.com/buy)
 - **Prova gratuita:** [Inizia la tua prova gratuita](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea:** [Ottieni una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Implementa queste funzionalità nei tuoi progetti Java per sbloccare nuove capacità e semplificare i flussi di lavoro di elaborazione delle immagini utilizzando Aspose.Imaging. Buona programmazione!
 

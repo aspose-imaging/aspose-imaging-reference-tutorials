@@ -255,7 +255,7 @@ A5: Ghé thăm [trang giấy phép tạm thời](https://purchase.aspose.com/tem
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Nhận bản dùng thử miễn phí Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Nộp đơn xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách tận dụng các tài nguyên này, bạn có thể mở rộng kiến thức và khả năng của mình với Aspose.Imaging for Java. Chúc bạn viết mã vui vẻ!
 

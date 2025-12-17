@@ -193,7 +193,7 @@ A: はい、Java がサポートされている環境（Windows、Linux、macOS�
 - **Purchase**: [Buy Aspose Products](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start a Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 以上の知識を身につければ、Java プロジェクトで Aspose.Imaging を活用した高度な画像処理が実装できます。コーディングを楽しんでください！
 

@@ -149,7 +149,7 @@ Megtanultad, hogyan konvertálhatsz egy SVG fájlt tömörített SVGZ formátumb
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Indulj el az utazásodra az Aspose.Imaging for .NET segítségével, és fedezd fel az optimalizált vektorgrafika lehetőségeit még ma!
 

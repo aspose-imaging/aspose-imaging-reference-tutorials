@@ -247,7 +247,7 @@ V tomto tutoriálu jste se naučili, jak bezproblémově manipulovat s obrázky 
 - [Nákup](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto komplexního průvodce budete dobře vybaveni k integraci pokročilých funkcí pro zpracování obrazu do vašich aplikací v jazyce Java pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 

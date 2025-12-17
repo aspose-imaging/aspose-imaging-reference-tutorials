@@ -170,7 +170,7 @@ Redo att implementera dessa tekniker? Försök att tillämpa dem i dina projekt 
 - **Köpa:** [Köp licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Prova det nu](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens:** [Begär här](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Ställ frågor](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Ställ frågor](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

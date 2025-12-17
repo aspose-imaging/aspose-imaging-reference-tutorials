@@ -210,7 +210,7 @@ background.save(outDir + "/blended.png", pngOptions);
 - **Αγορά Άδειας Χρήσης**: [Σελίδα Αγοράς Aspose](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δοκιμάστε το Aspose.Imaging για Java](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ Υποστήριξης**: [Υποστήριξη απεικόνισης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ Υποστήριξης**: [Υποστήριξη απεικόνισης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Με αυτόν τον οδηγό, είστε πλήρως εξοπλισμένοι για να ξεκινήσετε την ανάμειξη εικόνων χρησιμοποιώντας το Aspose.Imaging για Java. Καλή κωδικοποίηση!
 

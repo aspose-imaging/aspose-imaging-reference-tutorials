@@ -199,7 +199,7 @@ try (Image image = Image.load(dataDir + "sampleTiff1.tiff")) {
    - यह JPEG, PNG, TIFF आदि सहित 50 से अधिक छवि प्रारूपों का समर्थन करता है।
 
 5. **यदि मुझे कोई समस्या आती है तो मैं सहायता कैसे प्राप्त कर सकता हूँ?**
-   - मिलने जाना [Aspose का मंच](https://forum.aspose.com/c/imaging/10) समर्थन और सामुदायिक सलाह के लिए.
+   - मिलने जाना [Aspose का मंच](https://forum.aspose.com/c/imaging/14) समर्थन और सामुदायिक सलाह के लिए.
 
 ## संसाधन
 

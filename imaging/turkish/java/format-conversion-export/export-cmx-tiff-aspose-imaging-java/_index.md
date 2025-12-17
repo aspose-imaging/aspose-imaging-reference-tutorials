@@ -236,7 +236,7 @@ A: Verimli olmakla birlikte, çok sayıda yüksek çözünürlüklü görüntün
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek artık vektör CMX dosyalarını işleyebilecek ve bunları Aspose.Imaging for Java kullanarak TIFF görüntüleri olarak dışa aktarabilecek donanıma sahipsiniz. İyi kodlamalar!
 

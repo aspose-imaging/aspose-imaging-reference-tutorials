@@ -182,7 +182,7 @@ Uji coba gratis memiliki batasan evaluasi, seperti tanda air pada gambar yang di
 - **Pembelian:** [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Uji Coba Gratis Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Dukungan Forum Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Mendukung:** [Dukungan Forum Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Dengan panduan lengkap ini, Anda akan siap untuk mulai menggunakan Aspose.Imaging for Java dalam proyek Anda. Selamat membuat kode!
 

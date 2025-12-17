@@ -180,7 +180,7 @@ Om je vaardigheden verder uit te breiden, kun je extra functies zoals formaatwij
 - **Licentie kopen:** https://purchase.aspose.com/buy
 - **Gratis proefperiode:** https://releases.aspose.com/imaging/net/
 - **Tijdelijke licentie:** https://purchase.aspose.com/tijdelijke-licentie/
-- **Ondersteuningsforum:** https://forum.aspose.com/c/imaging/10
+- **Ondersteuningsforum:** https://forum.aspose.com/c/imaging/14
 
 Begin vandaag nog met het integreren van deze technieken voor beeldverwerking in uw projecten en zie het verschil in prestaties en efficiëntie!
 

@@ -169,7 +169,7 @@ Genom att bemästra dessa tekniker kan du avsevärt effektivisera dina bildbehan
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden är du väl rustad att utnyttja kraften i Aspose.Imaging för .NET i dina bildbehandlingsuppgifter. Lycka till med kodningen!
 

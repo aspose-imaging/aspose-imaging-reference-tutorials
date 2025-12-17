@@ -197,7 +197,7 @@ Készen állsz kipróbálni ennek a megoldásnak a megvalósítását? Merülj e
 - **Vásárlás:** Látogatás [Aspose Vásárlási Oldal](https://purchase.aspose.com/buy) licencelési lehetőségekért
 - **Ingyenes próbaverzió:** Kezdje egy próbaverzióval itt: [Ingyenes próbaverzió linkje](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** Ideiglenes hozzáférés beszerzése a következőn keresztül: [Ideiglenes licencoldal](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** Lépj kapcsolatba a közösséggel a következőn: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** Lépj kapcsolatba a közösséggel a következőn: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

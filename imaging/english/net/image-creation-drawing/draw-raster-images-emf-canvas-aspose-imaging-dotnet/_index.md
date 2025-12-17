@@ -147,7 +147,7 @@ Best practices include using `using` statements for automatic disposal and consi
 ## Conclusion
 You've now learned how to draw raster images onto EMF canvases using Aspose.Imaging for .NET. This capability can significantly enhance the visual quality of your projects, offering a blend of vector precision and raster richness.
 
-As you move forward, consider exploring additional features of Aspose.Imaging or integrating this functionality into larger workflows within your applications. If you have further questions, don't hesitate to reach out through the [Aspose Support Forum](https://forum.aspose.com/c/imaging/10).
+As you move forward, consider exploring additional features of Aspose.Imaging or integrating this functionality into larger workflows within your applications. If you have further questions, don't hesitate to reach out through the [Aspose Support Forum](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ Section
 **1. What is an EMF file?**

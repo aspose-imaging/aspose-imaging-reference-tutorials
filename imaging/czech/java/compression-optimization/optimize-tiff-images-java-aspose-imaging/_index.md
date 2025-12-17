@@ -191,7 +191,7 @@ Nyní jste se naučili, jak efektivně načítat a měnit velikost obrázků TIF
    - Ano, podporuje řadu obrazových formátů, jako jsou JPEG, PNG, BMP a další.
 
 5. **Kde mohu najít podporu, pokud narazím na problémy?**
-   - Navštivte [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) pro podporu komunity a oficiální podporu.
+   - Navštivte [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) pro podporu komunity a oficiální podporu.
 
 ## Zdroje
 

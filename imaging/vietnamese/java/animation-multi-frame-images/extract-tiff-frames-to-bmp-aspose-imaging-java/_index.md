@@ -174,7 +174,7 @@ Xin chúc mừng vì đã thành thạo quy trình chuyển đổi khung TIFF sa
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Bắt đầu hành trình làm chủ xử lý hình ảnh với Aspose.Imaging Java và mở khóa những khả năng mới trong việc xử lý hình ảnh TIFF.
 

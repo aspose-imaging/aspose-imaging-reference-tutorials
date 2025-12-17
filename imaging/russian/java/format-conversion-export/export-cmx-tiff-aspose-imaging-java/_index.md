@@ -236,7 +236,7 @@ A: Несмотря на эффективность, обработка боль
 - **Покупка**: [Купить Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Начать бесплатную пробную версию](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия**: [Получить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: [Форум Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: [Форум Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Следуя этому руководству, вы теперь готовы обрабатывать векторные файлы CMX и экспортировать их в виде изображений TIFF с помощью Aspose.Imaging для Java. Удачного кодирования!
 

@@ -141,7 +141,7 @@ foreach (var resource in imageResources)
 - **購買**： [取得許可證](https://purchase.aspose.com/buy)
 - **免費試用**： [開始免費試用](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [申請臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援論壇**： [Aspose 支援](https://forum.aspose.com/c/imaging/10)
+- **支援論壇**： [Aspose 支援](https://forum.aspose.com/c/imaging/14)
 
 本教學旨在引導您有效使用 Aspose.Imaging for .NET，確保您充分利用這個強大的函式庫。祝您程式愉快！
 

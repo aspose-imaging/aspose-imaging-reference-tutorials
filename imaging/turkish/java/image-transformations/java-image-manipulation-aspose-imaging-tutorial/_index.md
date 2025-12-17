@@ -213,7 +213,7 @@ Aspose.Imaging tarafından desteklenen farklı dosya formatlarını deneyin veya
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Sürümü](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java ile yolculuğunuza başlayın ve uygulamalarınızda görüntü işlemenin tüm potansiyelini ortaya çıkarın!
 

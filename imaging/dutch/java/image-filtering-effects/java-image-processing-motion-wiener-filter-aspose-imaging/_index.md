@@ -177,7 +177,7 @@ A: Controleer de [Aspose.Imaging-documentatie](https://reference.aspose.com/imag
 - **Aankoop:** [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Aspose gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Met deze uitgebreide handleiding leert u hoe u het Motion Wiener-filter effectief kunt toepassen en uw Java-gebaseerde beeldverwerkingsprojecten met Aspose.Imaging kunt verbeteren.
 

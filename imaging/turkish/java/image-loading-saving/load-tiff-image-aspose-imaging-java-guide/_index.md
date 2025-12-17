@@ -196,7 +196,7 @@ Sonraki adımlarda, bu özelliği mevcut bir projeye entegre etmeyi deneyin veya
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Anlayışınızı derinleştirmek ve uygulamanızın görüntü işleme yeteneklerini daha da geliştirmek için bu kaynakları keşfedin. İyi kodlamalar!
 

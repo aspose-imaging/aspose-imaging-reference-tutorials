@@ -166,7 +166,7 @@ Envisagez de diviser les grandes images en segments plus petits avant la convers
 - **Achat**: [Acheter la licence Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Essayez Aspose.Imaging gratuitement](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Demande de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 Commencez votre voyage avec Aspose.Imaging dès aujourd'hui et transformez vos tâches de traitement d'images en flux de travail rationalisés.
 

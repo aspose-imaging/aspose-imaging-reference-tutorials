@@ -247,7 +247,7 @@ W tym samouczku nauczyłeś się, jak bezproblemowo manipulować obrazami EMF za
 - [Zakup](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Dzięki temu kompleksowemu przewodnikowi będziesz dobrze wyposażony do integrowania zaawansowanych możliwości przetwarzania obrazu w swoich aplikacjach Java przy użyciu Aspose.Imaging. Miłego kodowania!
 

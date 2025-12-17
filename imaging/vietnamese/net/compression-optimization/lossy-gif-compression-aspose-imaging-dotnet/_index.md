@@ -145,7 +145,7 @@ Trong hướng dẫn này, bạn đã học cách áp dụng nén GIF mất dữ
 - **Mua**: [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Hãy thử xem](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Đặt câu hỏi](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Đặt câu hỏi](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

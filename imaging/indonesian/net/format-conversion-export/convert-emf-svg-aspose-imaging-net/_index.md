@@ -189,7 +189,7 @@ Siap untuk menerapkan keterampilan baru Anda? Cobalah terapkan solusi ini hari i
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Akses Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Aplikasi Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Komunitas](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Komunitas](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda akan siap menangani konversi gambar yang rumit menggunakan Aspose.Imaging .NET. Selamat membuat kode!
 

@@ -217,7 +217,7 @@ Becerilerinizi daha da ileri götürmeye hazır mısınız? Bu teknikleri projel
 - [.NET için Aspose.Imaging'i indirin](https://releases.aspose.com/imaging/net/)
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme ve Geçici Lisans](https://releases.aspose.com/imaging/net/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuz, Aspose.Imaging for .NET kullanarak DICOM görüntüleri çizmeye ve düzenlemeye başlamanıza yardımcı olacak ve daha karmaşık görüntü işleme uygulamaları oluşturmak için bir temel sağlayacaktır.
 

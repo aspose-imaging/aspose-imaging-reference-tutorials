@@ -182,7 +182,7 @@ Klaar om deze vaardigheden in de praktijk te brengen? Duik vandaag nog dieper in
 4. **Wat moet ik doen als mijn TIFF-bestanden na de conversie beschadigd lijken te zijn?**
    - Controleer of de rasteropties overeenkomen met de vereisten van uw afbeelding en controleer de bestandspaden op fouten.
 5. **Is er ondersteuning beschikbaar als ik problemen ondervind met Aspose.Imaging?**
-   - Ja, bezoek de [Aspose-forum](https://forum.aspose.com/c/imaging/10) voor community-ondersteuning of neem direct contact op met hun ondersteuningsteam.
+   - Ja, bezoek de [Aspose-forum](https://forum.aspose.com/c/imaging/14) voor community-ondersteuning of neem direct contact op met hun ondersteuningsteam.
 
 ## Bronnen
 - [Aspose.Imaging-documentatie](https://reference.aspose.com/imaging/net/)

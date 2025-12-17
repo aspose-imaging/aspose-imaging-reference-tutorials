@@ -170,7 +170,7 @@ Bu eğitimde, Aspose.Imaging for .NET kullanarak görüntüleri yükleme ve kayd
 - **Satın almak:** [Lisans satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans:** [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, artık Aspose.Imaging for .NET kullanarak .NET görüntü işlemeyi güvenle yapabilecek donanıma sahipsiniz. İyi kodlamalar!
 

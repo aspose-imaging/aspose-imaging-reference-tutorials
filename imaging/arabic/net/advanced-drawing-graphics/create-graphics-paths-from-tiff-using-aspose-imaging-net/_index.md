@@ -165,7 +165,7 @@ image.Save(Path.Combine(outputDir, "BottleWithRectanglePath.tif"));
 ج: نعم، تم تصميمه للتكامل السلس مع أي تطبيق .NET يتطلب قدرات معالجة الصور المتقدمة.
 
 **س: ما هو الدعم المتاح إذا واجهت مشاكل؟**
-أ: قم بزيارة [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10) للحصول على المساعدة من خبراء المجتمع وموظفي Aspose.
+أ: قم بزيارة [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14) للحصول على المساعدة من خبراء المجتمع وموظفي Aspose.
 
 **س: هل هناك بدائل لاستخدام Aspose.Imaging لمعالجة TIFF في .NET؟**
 ج: على الرغم من وجود مكتبات أخرى، فإن Aspose.Imaging يقدم مجموعة شاملة من الميزات المصممة خصيصًا لمهام معالجة الصور عالية الجودة.
@@ -176,7 +176,7 @@ image.Save(Path.Combine(outputDir, "BottleWithRectanglePath.tif"));
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جرب Aspose.Imaging مجانًا](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 ابدأ رحلتك مع Aspose.Imaging لـ .NET اليوم، واكتشف إمكانيات جديدة في معالجة الصور!
 

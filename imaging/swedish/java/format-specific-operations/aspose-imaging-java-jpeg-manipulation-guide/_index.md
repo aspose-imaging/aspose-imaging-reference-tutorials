@@ -184,7 +184,7 @@ A5: Optimera din kod genom att hantera resurser effektivt och använda lämpliga
 - **Köplicens:** [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Prova gratis](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Få tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Supportforum:** [Aspose Imaging Support](https://forum.aspose.com/c/imaging/10)
+- **Supportforum:** [Aspose Imaging Support](https://forum.aspose.com/c/imaging/14)
 
 Lycka till med kodningen och utforska möjligheterna med Aspose.Imaging för Java!
 

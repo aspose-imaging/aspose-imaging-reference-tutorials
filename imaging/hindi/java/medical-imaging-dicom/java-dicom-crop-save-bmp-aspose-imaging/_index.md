@@ -220,7 +220,7 @@ public class SaveCroppedDicomAsBmp {
 - **खरीदना**: [Aspose लाइसेंसिंग खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [Aspose निःशुल्क परीक्षण](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 इस व्यापक गाइड के साथ, अब आप Aspose.Imaging का उपयोग करके जावा में DICOM इमेज प्रोसेसिंग को लागू करने के लिए सुसज्जित हैं। हैप्पी कोडिंग!
 

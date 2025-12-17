@@ -234,7 +234,7 @@ Sepanjang tutorial ini, kami mengeksplorasi cara mengonfigurasi opsi bitmap dan 
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan memanfaatkan sumber daya ini, Anda dapat meningkatkan pemahaman dan penggunaan Aspose.Imaging for Java dalam proyek Anda. Selamat membuat kode!
 

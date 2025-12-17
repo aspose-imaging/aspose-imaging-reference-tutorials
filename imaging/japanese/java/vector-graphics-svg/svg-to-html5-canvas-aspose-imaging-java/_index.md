@@ -169,7 +169,7 @@ Aspose.Imaging for Java を使用する場合は、次のパフォーマンス�
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 この包括的なガイドを読めば、Aspose.Imaging for Java のパワーを最大限に活用し、SVG を HTML5 キャンバス要素に変換できるようになります。コーディングを楽しみましょう！
 

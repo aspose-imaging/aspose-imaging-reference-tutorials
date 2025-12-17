@@ -133,7 +133,7 @@ Saat menerapkan filter, pertimbangkan kiat berikut untuk mengoptimalkan kinerja:
 
 Selamat! Anda telah berhasil menerapkan filter Gauss Wiener pada gambar berwarna menggunakan Aspose.Imaging .NET. Tutorial ini telah membekali Anda dengan pengetahuan untuk menyempurnakan tugas pemrosesan gambar, memastikan hasil yang lebih bersih dan lebih tepat.
 
-Untuk terus menjelajahi kemampuan Aspose.Imaging, pertimbangkan untuk mempelajari filter dan fitur lain yang tersedia di pustaka. Untuk pertanyaan atau dukungan lebih lanjut, lihat [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+Untuk terus menjelajahi kemampuan Aspose.Imaging, pertimbangkan untuk mempelajari filter dan fitur lain yang tersedia di pustaka. Untuk pertanyaan atau dukungan lebih lanjut, lihat [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Bagian FAQ
 
@@ -158,7 +158,7 @@ A: Lisensi uji coba memungkinkan akses penuh untuk pengujian tetapi dapat mengen
 - **Beli Lisensi:** [Aspose Pembelian](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Lisensi Uji Coba](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara:** [Ajukan Permohonan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Jelajahi sumber daya ini untuk memperdalam pemahaman dan menyempurnakan proyek pemrosesan gambar Anda. Selamat membuat kode!
 

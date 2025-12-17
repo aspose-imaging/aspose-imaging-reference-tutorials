@@ -173,7 +173,7 @@ Sie sollten nun ein solides Verständnis für die Verwendung von Aspose.Imaging 
 - **Kaufen:** Erwägen Sie den Kauf einer Lizenz, wenn Sie Aspose.Imaging vorteilhaft finden.
 - **Kostenlose Testversion:** Beginnen Sie mit einer kostenlosen Testversion, um die Funktionen zu testen.
 - **Temporäre Lizenz:** Erwerben Sie eine temporäre Lizenz zur erweiterten Evaluierung.
-- **Unterstützung:** Treten Sie der Community bei auf [Aspose-Foren](https://forum.aspose.com/c/imaging/10) um Hilfe. 
+- **Unterstützung:** Treten Sie der Community bei auf [Aspose-Foren](https://forum.aspose.com/c/imaging/14) um Hilfe. 
 
 Wenn Sie diesem Tutorial folgen, sind Sie gut gerüstet, um Ihre Bildverarbeitungsfunktionen mit Aspose.Imaging Java zu verbessern.
 

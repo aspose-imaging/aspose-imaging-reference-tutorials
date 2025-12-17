@@ -186,7 +186,7 @@ R5: Embora altamente capazes, alguns recursos avançados podem exigir uma licen�
 - **Comprar**: [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Experimente o Aspose.Imaging gratuitamente](https://releases.aspose.com/imaging/java/)
 - **Licença Temporária**: [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum de Imagem Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum de Imagem Aspose](https://forum.aspose.com/c/imaging/14)
 
 Com esses recursos e este guia, você estará bem equipado para começar a integrar imagens WebP aos seus projetos Java usando o Aspose.Imaging. Boa programação!
 

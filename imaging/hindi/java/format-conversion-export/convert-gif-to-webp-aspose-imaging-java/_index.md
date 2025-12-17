@@ -225,7 +225,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **खरीदना**: [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [Aspose.Imaging निःशुल्क परीक्षण](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
 
 इस व्यापक गाइड के साथ, आप Aspose.Imaging for Java का उपयोग करके अपनी छवियों को अनुकूलित करने और अपने अनुप्रयोगों या वेबसाइटों को बेहतर बनाने के लिए अच्छी तरह से सुसज्जित हैं। हैप्पी कोडिंग!
 

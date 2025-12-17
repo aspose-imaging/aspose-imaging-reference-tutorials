@@ -187,7 +187,7 @@ Aspose.Imaging का उपयोग करके जावा में छव
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण जानकारी](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस अनुरोध](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड का पालन करके, अब आप Java के लिए Aspose.Imaging का उपयोग करके SVG कैनवस में रास्टर छवियों को एकीकृत करने के लिए अच्छी तरह से सुसज्जित हो जाएंगे। हैप्पी कोडिंग!
 

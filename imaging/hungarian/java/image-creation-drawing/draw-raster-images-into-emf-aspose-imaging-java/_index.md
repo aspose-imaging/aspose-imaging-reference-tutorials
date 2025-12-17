@@ -214,7 +214,7 @@ Készen állsz alkalmazni a tanultakat? Próbáld ki ezeket a technikákat a kö
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbálja ki az Aspose.Imaging-et ingyen](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Aspose.Imaging támogatás](https://forum.aspose.com/c/imaging/10) 
+- **Támogatási fórum**: [Aspose.Imaging támogatás](https://forum.aspose.com/c/imaging/14) 
 
 Indulj el az utazásodra még ma az Aspose.Imaging for Java segítségével, és tárd fel a képfeldolgozás új lehetőségeit!
 

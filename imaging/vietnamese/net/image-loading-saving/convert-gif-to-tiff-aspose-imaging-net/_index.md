@@ -154,7 +154,7 @@ Trong hướng dẫn này, bạn đã học cách chuyển đổi từng khung h
 - [Tải xuống Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - [Mua Tùy chọn cấp phép Aspose](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí và Giấy phép tạm thời](https://releases.aspose.com/imaging/net/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

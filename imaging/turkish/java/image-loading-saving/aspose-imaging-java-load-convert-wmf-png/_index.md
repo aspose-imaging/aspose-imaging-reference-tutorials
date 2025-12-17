@@ -202,7 +202,7 @@ Bu çözümleri uygulamaya hazır mısınız? Gelişmiş görüntü işleme dün
    - Toplu işlem sırasında uygun rasterleştirme ayarlarını kullanın ve sistem kaynaklarını izleyin.
 
 5. **Sorun yaşarsam nasıl destek alabilirim?**
-   - Ziyaret edin [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/10) Topluluk desteği için veya profesyonel destek ekibiyle iletişime geçin.
+   - Ziyaret edin [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/14) Topluluk desteği için veya profesyonel destek ekibiyle iletişime geçin.
 
 ## Kaynaklar
 

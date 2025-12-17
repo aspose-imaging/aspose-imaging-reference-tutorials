@@ -182,7 +182,7 @@ Pronti a mettere in pratica queste competenze? Scoprite di più sulle potenziali
 4. **Cosa devo fare se i miei file TIFF risultano danneggiati dopo la conversione?**
    - Verifica che le opzioni di rasterizzazione corrispondano ai requisiti dell'immagine e controlla i percorsi dei file per eventuali errori.
 5. **È disponibile supporto se riscontro problemi con Aspose.Imaging?**
-   - Sì, visita il [Forum di Aspose](https://forum.aspose.com/c/imaging/10) per ricevere supporto dalla community o contattare direttamente il team di supporto.
+   - Sì, visita il [Forum di Aspose](https://forum.aspose.com/c/imaging/14) per ricevere supporto dalla community o contattare direttamente il team di supporto.
 
 ## Risorse
 - [Documentazione di Aspose.Imaging](https://reference.aspose.com/imaging/net/)

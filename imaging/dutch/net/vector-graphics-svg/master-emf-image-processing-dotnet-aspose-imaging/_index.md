@@ -165,7 +165,7 @@ Veelvoorkomende problemen zijn onder meer onjuiste bestandspaden of niet-onderst
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Voel je vrij om deze bronnen te verkennen en neem contact op voor ondersteuning als je problemen ondervindt. Veel plezier met coderen!
 

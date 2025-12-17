@@ -126,7 +126,7 @@ Otsu 閾值將灰階影像轉換為二進位格式，增強對比度以便更好
 - **購買**： [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用**： [Aspose.Imaging 免費試用](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [取得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose.Imaging 支援論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose.Imaging 支援論壇](https://forum.aspose.com/c/imaging/14)
 請按照本指南操作，您將能夠順利使用 Aspose.Imaging 在 .NET 應用程式中實現高效的圖像處理。祝您編碼愉快！
 
 {{< /blocks/products/pf/tutorial-page-section >}}

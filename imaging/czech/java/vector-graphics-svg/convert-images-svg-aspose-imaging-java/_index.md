@@ -201,7 +201,7 @@ Tento tutoriál vás vybavil znalostmi o načítání různých obrazových form
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Stáhnout zkušební verzi zdarma](https://releases.aspose.com/imaging/java/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) 
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Dodržováním tohoto návodu jste na dobré cestě k zvládnutí zpracování obrazu s Aspose.Imaging v Javě. Přejeme vám příjemné programování!
 

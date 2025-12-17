@@ -250,7 +250,7 @@ A：仅加载所需帧，及时释放对象，并在可能的情况下简化路�
 - **购买：** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
 - **免费试用：** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **临时许可证：** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **支持论坛：** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **支持论坛：** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 ---
 

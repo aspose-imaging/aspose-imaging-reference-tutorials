@@ -176,7 +176,7 @@ A5 : Absolument. Il est conçu pour être facilement intégré et utilisé avec
 - **Achat**: [Acheter une licence](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencez ici](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**: [Postulez maintenant](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum communautaire](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum communautaire](https://forum.aspose.com/c/imaging/14)
 
 Grâce à ce guide complet, vous êtes désormais équipé pour maîtriser le chargement et le redimensionnement d'images en Java avec Aspose.Imaging. Bon codage !
 

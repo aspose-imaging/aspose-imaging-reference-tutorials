@@ -191,7 +191,7 @@ Sonraki adımlarda, kütüphanenin sağladığı diğer çizim işlevlerini keş
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Başvurusu](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging'i kullanarak Java uygulamalarınızı sağlam görüntü işleme özellikleriyle yükseltebilirsiniz. İyi kodlamalar!
 

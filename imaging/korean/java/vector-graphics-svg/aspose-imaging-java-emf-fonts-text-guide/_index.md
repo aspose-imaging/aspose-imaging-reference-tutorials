@@ -244,7 +244,7 @@ Aspose.Imaging을 사용할 때 성능을 최적화하기 위해 다음 팁을 �
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging 무료 체험판](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose.Imaging 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose.Imaging 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 Java용 Aspose.Imaging을 활용하면 고품질 EMF 글꼴과 텍스트 렌더링을 애플리케이션에 원활하게 통합하여 기능성과 시각적 매력을 모두 향상시킬 수 있습니다.
 

@@ -200,7 +200,7 @@ Ready to implement this powerful solution? Dive into Aspose.Imaging for Java tod
 - **Purchase License:** [Buy a full license today](https://purchase.aspose.com/buy)
 - **Free Trial:** [Start with a free trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Request a temporary license](https://purchase.aspose.com/temporary-license/)
-- **Support Forum:** [Get help from the community](https://forum.aspose.com/c/imaging/10)
+- **Support Forum:** [Get help from the community](https://forum.aspose.com/c/imaging/14)
 
 By following this guide, you are well-equipped to integrate powerful image processing capabilities into your Java applications using Aspose.Imaging. Happy coding!
 

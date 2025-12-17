@@ -160,7 +160,7 @@ A3: Erwägen Sie die Optimierung der Speichernutzung, den Einsatz paralleler Ver
 A4: Stellen Sie sicher, dass Ihre Umgebung trotz ihrer Leistungsfähigkeit die notwendigen Voraussetzungen für eine optimale Leistung erfüllt.
 
 **F5: Welche Supportoptionen stehen mir zur Verfügung, wenn Probleme auftreten?**
-A5: Sie können Hilfe suchen bei [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10) oder konsultieren Sie deren umfangreiche Dokumentation.
+A5: Sie können Hilfe suchen bei [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14) oder konsultieren Sie deren umfangreiche Dokumentation.
 
 ## Ressourcen
 

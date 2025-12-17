@@ -182,7 +182,7 @@ image.save(outputFileName);
 - **شراء:** [شراء ترخيص Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [ابدأ تجربة مجانية](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة:** [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 نأمل أن يساعدك هذا الدليل في تطبيق ميزات تعديل التنسيق بكفاءة في تطبيقات جافا باستخدام Aspose.Imaging. برمجة ممتعة!
 

@@ -168,7 +168,7 @@ Aspose.Imaging for Java を使用して、WMF 画像を効果的に読み込み�
 - ライセンスを購入: [Aspose ライセンスオプションを購入する](https://purchase.aspose.com/buy)
 - 無料トライアル: [無料トライアルを受ける](https://releases.aspose.com/imaging/java/)
 - 一時ライセンス: [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- サポートフォーラム: [Aspose.Imaging コミュニティ サポート](https://forum.aspose.com/c/imaging/10)
+- サポートフォーラム: [Aspose.Imaging コミュニティ サポート](https://forum.aspose.com/c/imaging/14)
 
 ツールと知識が手に入ったので、次のプロジェクトでこのソリューションを実装してみてください。
 

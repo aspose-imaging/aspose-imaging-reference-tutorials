@@ -162,7 +162,7 @@ Ja, skripten Sie diese Schritte und führen Sie sie mithilfe der Dateiverwaltung
 - **Kaufen**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Kostenlos testen](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Beantragung einer temporären Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum**: [Aspose Community-Unterstützung](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum**: [Aspose Community-Unterstützung](https://forum.aspose.com/c/imaging/14)
 
 Begeben Sie sich mit Aspose.Imaging für .NET auf Ihre Reise in die Bildverarbeitung und entdecken Sie endlose Möglichkeiten im Grafikhandling.
 

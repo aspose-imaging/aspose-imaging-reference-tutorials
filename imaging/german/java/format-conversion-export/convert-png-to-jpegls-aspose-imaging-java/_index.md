@@ -204,7 +204,7 @@ In diesem Tutorial haben Sie gelernt, wie Sie PNG-Bilder mit Aspose.Imaging für
 - [Lizenz erwerben](https://purchase.aspose.com/buy)
 - [Kostenloser Testzugang](https://releases.aspose.com/imaging/java/)
 - [Antrag auf eine vorübergehende Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Community-Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Community-Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit dieser umfassenden Anleitung sind Sie nun in der Lage, PNG-zu-JPEG-LS-Konvertierungen und umgekehrt mit Aspose.Imaging für Java effizient durchzuführen. Viel Spaß beim Programmieren!
 

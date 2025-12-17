@@ -156,7 +156,7 @@ writer.write("This is a sample output.\n");
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/net/)
 - [ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/14)
 
 การเข้าใจแนวคิดเหล่านี้จะช่วยให้คุณสร้างแอปพลิเคชัน Java ที่มีประสิทธิภาพในการจัดการการดำเนินการ I/O ของไฟล์ได้อย่างมีประสิทธิภาพ ขอให้สนุกกับการเขียนโค้ด!
 

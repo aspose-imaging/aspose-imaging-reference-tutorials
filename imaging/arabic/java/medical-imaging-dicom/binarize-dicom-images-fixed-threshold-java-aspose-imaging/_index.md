@@ -164,7 +164,7 @@ image.save(outputFile, new BmpOptions());
    - قم بتحسين بيئتك وبرمجتك لإدارة الذاكرة، باستخدام مجموعة جمع القمامة الخاصة بـ Java بشكل فعال.
 
 5. **هل يتوفر الدعم إذا واجهت مشاكل؟**
-   - يمكنك طلب المساعدة على [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10).
+   - يمكنك طلب المساعدة على [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## موارد
 

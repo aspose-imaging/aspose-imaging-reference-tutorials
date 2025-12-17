@@ -204,7 +204,7 @@ A4: Podporuje různé formáty včetně TIFF, JPEG, PNG a dalších. Podrobnosti
 
 **Q5: Jak mohu získat pomoc, pokud narazím na problémy?**
 
-A5: Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) o pomoc od komunitních expertů.
+A5: Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) o pomoc od komunitních expertů.
 
 ## Zdroje
 
@@ -213,7 +213,7 @@ A5: Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) o 
 - **Nákup**https://purchase.aspose.com/buy
 - **Bezplatná zkušební verze**https://releases.aspose.com/imaging/java/
 - **Dočasná licence**https://purchase.aspose.com/temporary-license/
-- **Podpora**https://forum.aspose.com/c/imaging/10
+- **Podpora**https://forum.aspose.com/c/imaging/14
 
 Využitím těchto zdrojů si můžete prohloubit znalosti a vylepšit používání Aspose.Imaging v Javě. Přeji vám příjemné programování!
 

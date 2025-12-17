@@ -174,7 +174,7 @@ Je hebt nu geleerd hoe je afbeeldingen laadt en de datum van de laatste wijzigin
 - [Aankoop Aspose.Imaging](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Bekijk deze bronnen gerust voor meer gedetailleerde informatie en ondersteuning. Veel plezier met coderen!
 

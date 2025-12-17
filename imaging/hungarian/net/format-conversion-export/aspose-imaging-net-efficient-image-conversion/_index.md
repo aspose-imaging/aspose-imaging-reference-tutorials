@@ -137,7 +137,7 @@ Fedezze fel az Aspose.Imaging fejlettebb funkcióit, például a kötegelt feldo
 - [Aspose.Imaging letöltése .NET-hez](https://releases.aspose.com/imaging/net/)
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió és ideiglenes licenc](https://releases.aspose.com/imaging/net/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Böngészd át ezeket az anyagokat, hogy elmélyítsd az Aspose.Imaging .NET megértését és fejleszd az implementációidat. Jó kódolást!
 

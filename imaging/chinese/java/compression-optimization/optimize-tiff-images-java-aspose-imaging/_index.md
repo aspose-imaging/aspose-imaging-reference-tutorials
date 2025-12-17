@@ -191,7 +191,7 @@ Aspose.Imaging 提供广泛的应用：
    - 是的，它支持多种图像格式，如 JPEG、PNG、BMP 等。
 
 5. **如果遇到问题，我可以在哪里找到支持？**
-   - 访问 [Aspose.Imaging 论坛](https://forum.aspose.com/c/imaging/10) 获得社区和官方支持。
+   - 访问 [Aspose.Imaging 论坛](https://forum.aspose.com/c/imaging/14) 获得社区和官方支持。
 
 ## 资源
 

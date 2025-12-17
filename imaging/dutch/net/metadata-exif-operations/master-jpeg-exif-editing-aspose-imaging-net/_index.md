@@ -155,7 +155,7 @@ In deze handleiding heb je geleerd hoe je JPEG EXIF-gegevens kunt aanpassen met 
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefversie downloaden](https://releases.aspose.com/imaging/net/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Begin vandaag nog met het beheersen van JPEG EXIF-modificatie met Aspose.Imaging!
 

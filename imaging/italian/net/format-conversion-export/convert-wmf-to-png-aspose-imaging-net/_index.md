@@ -112,7 +112,7 @@ Per ottimizzare le prestazioni:
 ## Conclusione
 Hai imparato con successo a convertire un file WMF in PNG utilizzando Aspose.Imaging .NET. Questa competenza è preziosa per la gestione delle risorse digitali su diverse piattaforme e applicazioni. Successivamente, esplora ulteriori funzionalità di Aspose.Imaging o integralo con altri sistemi per migliorarne le funzionalità.
 
-**Invito all'azione:** Prova a implementare questa soluzione nel tuo prossimo progetto! Condividi i tuoi risultati e le tue domande su [Forum di Aspose](https://forum.aspose.com/c/imaging/10).
+**Invito all'azione:** Prova a implementare questa soluzione nel tuo prossimo progetto! Condividi i tuoi risultati e le tue domande su [Forum di Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Sezione FAQ
 1. **Che cos'è un file WMF?**

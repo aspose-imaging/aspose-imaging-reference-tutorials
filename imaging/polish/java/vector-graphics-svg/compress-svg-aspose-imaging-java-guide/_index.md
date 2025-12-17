@@ -211,7 +211,7 @@ W tym samouczku przyjrzeliśmy się sposobowi ładowania, konfigurowania i zapis
 - [Zakup](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Wykorzystując te zasoby, możesz jeszcze lepiej poznać możliwości pakietu Aspose.Imaging i wzbogacić swoje aplikacje Java o zaawansowane funkcje przetwarzania obrazu.
 

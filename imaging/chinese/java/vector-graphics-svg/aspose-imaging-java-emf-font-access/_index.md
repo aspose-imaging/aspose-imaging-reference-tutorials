@@ -237,7 +237,7 @@ A5：虽然 Aspose.Imaging 操作本质上不是线程安全的，但您可以�
 - **购买：** [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用：** [尝试 Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **临时执照：** [获得临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 立即开始使用 Aspose.Imaging for Java 的旅程并释放应用程序中图像处理的全部潜力！
 

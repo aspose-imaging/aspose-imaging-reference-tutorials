@@ -163,7 +163,7 @@ R : Oui, il prend en charge une large gamme de formats, notamment JPEG, PNG, BMP
 R : L'essai gratuit offre toutes les fonctionnalités, mais ajoute des filigranes aux images et limite la durée d'utilisation. Envisagez d'obtenir une licence temporaire ou payante pour un accès ininterrompu.
 
 **Q5 : Comment résoudre les problèmes courants liés au traitement d’image ?**
-A : Assurez-vous que vos chemins de fichiers sont corrects, vérifiez que vous disposez de ressources système suffisantes et reportez-vous à la [forum d'assistance](https://forum.aspose.com/c/imaging/10) si nécessaire.
+A : Assurez-vous que vos chemins de fichiers sont corrects, vérifiez que vous disposez de ressources système suffisantes et reportez-vous à la [forum d'assistance](https://forum.aspose.com/c/imaging/14) si nécessaire.
 
 ## Ressources
 
@@ -172,7 +172,7 @@ A : Assurez-vous que vos chemins de fichiers sont corrects, vérifiez que vous d
 - **Achat**: Acquérir une licence via [Page d'achat d'Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit**: Commencez à explorer les fonctionnalités avec le [version d'essai gratuite](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**:Demandez une licence temporaire via [Page de licence temporaire d'Aspose](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: Pour toute question, visitez le [forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: Pour toute question, visitez le [forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 Avec ce guide complet, vous êtes prêt à améliorer vos capacités de traitement d'images à l'aide d'Aspose.Imaging pour Java !
 

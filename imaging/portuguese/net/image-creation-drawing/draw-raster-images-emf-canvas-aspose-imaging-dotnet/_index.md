@@ -142,7 +142,7 @@ As melhores práticas incluem o uso `using` instruções para descarte automáti
 ## Conclusão
 Agora você aprendeu a desenhar imagens raster em telas EMF usando o Aspose.Imaging para .NET. Esse recurso pode aprimorar significativamente a qualidade visual dos seus projetos, oferecendo uma combinação de precisão vetorial e riqueza raster.
 
-À medida que avança, considere explorar recursos adicionais do Aspose.Imaging ou integrar essa funcionalidade a fluxos de trabalho maiores em seus aplicativos. Se tiver mais dúvidas, não hesite em entrar em contato conosco pelo [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10).
+À medida que avança, considere explorar recursos adicionais do Aspose.Imaging ou integrar essa funcionalidade a fluxos de trabalho maiores em seus aplicativos. Se tiver mais dúvidas, não hesite em entrar em contato conosco pelo [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Seção de perguntas frequentes
 **1. O que é um arquivo EMF?**

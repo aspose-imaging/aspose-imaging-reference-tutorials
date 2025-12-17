@@ -181,7 +181,7 @@ tomto tutoriálu jste se naučili, jak načítat a ukládat snímky DICOM pomoc�
 - **Stáhnout:** [Nejnovější vydání](https://releases.aspose.com/imaging/java/)
 - **Nákup:** [Koupit licenci Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze a dočasná licence:** [Začít](https://releases.aspose.com/imaging/java/)
-- **Fórum podpory:** [Aspose Community](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory:** [Aspose Community](https://forum.aspose.com/c/imaging/14)
 
 Tato komplexní příručka vás vybavila dovednostmi potřebnými k efektivní správě obrázků DICOM v aplikacích Java pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 

@@ -171,7 +171,7 @@ I den här handledningen utforskade vi hur man effektivt laddar och sparar TIFF-
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Starta gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Begär tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Den här handledningen ger dig kunskapen för att effektivt implementera TIFF-bildbehandling i dina Java-applikationer. Lycka till med kodningen!
 

@@ -154,7 +154,7 @@ Dans ce tutoriel, vous avez appris à convertir des images individuelles d'un GI
 - [Télécharger Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - [Acheter des options de licence Aspose](https://purchase.aspose.com/buy)
 - [Essai gratuit et licence temporaire](https://releases.aspose.com/imaging/net/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

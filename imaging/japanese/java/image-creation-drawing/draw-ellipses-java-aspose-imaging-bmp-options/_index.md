@@ -191,7 +191,7 @@ Aspose.Imaging の機能は単純なタスクにとどまらず、さまざま�
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/java/)
 - [臨時免許申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging を活用することで、強力な画像処理機能で Java アプリケーションをレベルアップできます。コーディングを楽しみましょう！
 

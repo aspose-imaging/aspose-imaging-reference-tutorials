@@ -155,7 +155,7 @@ try-with-resources 문은 리소스가 효율적으로 관리되도록 보장합
 - **구입**: https://purchase.aspose.com/buy
 - **무료 체험**: https://releases.aspose.com/imaging/java/
 - **임시 면허**: https://purchase.aspose.com/temporary-license/
-- **지원 포럼**: https://forum.aspose.com/c/imaging/10
+- **지원 포럼**: https://forum.aspose.com/c/imaging/14
 
 이 가이드는 Aspose.Imaging for Java를 사용하여 손상된 TIFF 이미지를 처리하는 데 필요한 지식과 도구를 제공합니다. 지금 바로 이러한 기능을 실험하고 여러분의 애플리케이션에 통합해 보세요!
 

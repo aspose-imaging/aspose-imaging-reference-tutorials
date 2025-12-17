@@ -220,7 +220,7 @@ W tym samouczku przyjrzeliśmy się sposobowi ładowania, przycinania i zapisywa
 - **Zakup**: [Kup licencję Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Bezpłatne wersje próbne Aspose](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**: [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dzięki temu kompleksowemu przewodnikowi jesteś teraz wyposażony do implementacji przetwarzania obrazu DICOM w Javie przy użyciu Aspose.Imaging. Miłego kodowania!
 

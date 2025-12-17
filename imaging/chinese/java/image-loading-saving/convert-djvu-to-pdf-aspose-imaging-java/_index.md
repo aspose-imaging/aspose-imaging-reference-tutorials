@@ -206,7 +206,7 @@ Aspose.Imaging for Java 提供了一种处理图像转换的多功能方法。�
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/java/)
 - [临时许可证申请](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10)
+- [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 当您在 Java 项目中实现 Aspose.Imaging 时，请随意探索这些资源以获取更多指导和支持！
 

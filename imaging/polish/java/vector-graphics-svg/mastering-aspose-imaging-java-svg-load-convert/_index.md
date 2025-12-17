@@ -160,7 +160,7 @@ Gotowy na głębsze zanurzenie? Spróbuj wdrożyć te rozwiązania w swoim kolej
 - **Zakup:** [Kup licencję Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Rozpocznij bezpłatny okres próbny](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa:** [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie:** [Wsparcie forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie:** [Wsparcie forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Postępując zgodnie z tym przewodnikiem, jesteś na dobrej drodze do opanowania obsługi obrazów SVG w Javie z Aspose.Imaging. Miłego kodowania!
 

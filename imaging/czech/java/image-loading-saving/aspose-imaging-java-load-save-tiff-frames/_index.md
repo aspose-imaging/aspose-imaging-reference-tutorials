@@ -211,7 +211,7 @@ tomto tutoriálu jsme se zabývali základy načítání, kopírování a uklád
 - **Nákup**Kupte si licenci pro komerční použití na [tento odkaz](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**Začněte s bezplatnou zkušební verzí a otestujte si funkce na [Webové stránky společnosti Aspose](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**Získejte dočasnou licenci pro rozšířené hodnocení od [zde](https://purchase.aspose.com/temporary-license/)
-- **Podpora**Zapojte se do diskusí nebo vyhledejte pomoc na [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**Zapojte se do diskusí nebo vyhledejte pomoc na [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

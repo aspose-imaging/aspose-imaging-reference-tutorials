@@ -177,7 +177,7 @@ A: TIFF memberikan kualitas yang lebih tinggi dan mendukung kedalaman warna yang
 - **Beli Lisensi**: [Halaman Pembelian Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Dukungan dan Komunitas**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Dukungan dan Komunitas**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -172,7 +172,7 @@ A: をご覧ください [Aspose.Imaging ドキュメント](https://reference.a
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルから始める](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [リクエストはこちら](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [Aspose サポートコミュニティ](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [Aspose サポートコミュニティ](https://forum.aspose.com/c/imaging/14)
 
 このガイドでは、Aspose.Imaging for Java を使用して GIF 画像を自信を持って操作するための知識を習得できます。コーディングを楽しみましょう！
 

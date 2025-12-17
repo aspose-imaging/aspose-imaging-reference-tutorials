@@ -171,7 +171,7 @@ license.SetLicense("PathToYourLicenseFile.lic");
 - 如需商業使用，您需要購買許可證。試用許可證可用於評估，但有限制。
 
 **問題 4：如果我遇到問題，可以獲得支援嗎？**
-- 是的，Aspose 提供社群論壇和專業支援選項。訪問他們的 [支援頁面](https://forum.aspose.com/c/imaging/10) 了解更多。
+- 是的，Aspose 提供社群論壇和專業支援選項。訪問他們的 [支援頁面](https://forum.aspose.com/c/imaging/14) 了解更多。
 
 **Q5：我可以將該功能整合到 Web 應用程式中嗎？**
 - 當然！該程式庫與 Web 應用程式中使用的 .NET 框架相容，可實現無縫整合。

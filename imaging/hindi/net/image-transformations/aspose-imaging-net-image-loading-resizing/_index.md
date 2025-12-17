@@ -166,7 +166,7 @@ image.Save(outputPath);
 - [खरीदना](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 .NET के लिए Aspose.Imaging में गोता लगाएँ और अपनी छवि प्रसंस्करण क्षमताओं को अगले स्तर तक ले जाएं!
 

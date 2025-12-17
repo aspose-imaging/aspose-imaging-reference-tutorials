@@ -153,7 +153,7 @@ V: Igen, úgy tervezték, hogy különböző .NET keretrendszerekkel és Core ve
 - **Licenc vásárlása**: [Aspose Vásárlási Oldal](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbálja ki az Aspose.Imaging-et ingyen](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Aspose támogató közösség](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Aspose támogató közösség](https://forum.aspose.com/c/imaging/14)
 
 Az Aspose.Imaging konverziós folyamatának elsajátításával képessé válsz a komplex képfeldolgozási feladatok hatékony kezelésére .NET alkalmazásaidban. Jó kódolást!
 

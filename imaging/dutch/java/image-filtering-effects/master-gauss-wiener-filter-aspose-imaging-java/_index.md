@@ -212,7 +212,7 @@ Je hebt nu geleerd hoe je Aspose.Imaging voor Java kunt gebruiken om afbeeldinge
 - **Aankoop**: [Nu kopen](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Aan de slag](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Hier aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Aspose.Imaging-community](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Aspose.Imaging-community](https://forum.aspose.com/c/imaging/14)
 
 We hopen dat deze gids je helpt je projecten te verbeteren met geavanceerde beeldverwerkingsmogelijkheden. Veel plezier met coderen!
 

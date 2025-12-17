@@ -221,7 +221,7 @@ A4: على الرغم من عدم وجود حد صريح محدد بواسطة A
 - **شراء**:الحصول على الترخيص من خلال [صفحة شراء Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**:ابدأ بالتجربة مع [النسخة التجريبية المجانية من Aspose](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**:الحصول على وصول موسع عبر [صفحة الترخيص المؤقت لـ Aspose](https://purchase.aspose.com/temporary-license/)
-- **يدعم**:التواصل مع المجتمع وفريق الدعم على [منتدى Aspose](https://forum.aspose.com/c/imaging/10)
+- **يدعم**:التواصل مع المجتمع وفريق الدعم على [منتدى Aspose](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا الدليل، ستكون جاهزًا تمامًا لتطبيق التحقق من صحة الملفات وإدارة المسارات في تطبيقات Java باستخدام Aspose.Imaging. برمجة ممتعة!
 

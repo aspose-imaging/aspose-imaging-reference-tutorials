@@ -167,7 +167,7 @@ A5: प्रभावी होने के बावजूद, यह उन 
 - **खरीदना**: [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [निःशुल्क परीक्षण के साथ आरंभ करें](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**किसी भी प्रश्न के लिए, यहां जाएं [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता**किसी भी प्रश्न के लिए, यहां जाएं [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET के साथ अपनी यात्रा शुरू करें और मेडिकल इमेजिंग में नई क्षमताओं को अनलॉक करें!
 

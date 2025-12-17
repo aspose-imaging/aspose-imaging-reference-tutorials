@@ -179,7 +179,7 @@ Häufige Probleme sind die unsachgemäße Entsorgung von Bildobjekten und die Un
 Besuchen [Asposes Website](https://purchase.aspose.com/temporary-license/) um eine vorläufige Lizenz anzufordern.
 
 ### Wo finde ich Unterstützung, wenn ich Probleme mit Aspose.Imaging .NET habe?
-Wenn Sie Hilfe benötigen, besuchen Sie die [Aspose Forum](https://forum.aspose.com/c/imaging/10) oder konsultieren Sie ihre umfangreiche Dokumentation und Ressourcen.
+Wenn Sie Hilfe benötigen, besuchen Sie die [Aspose Forum](https://forum.aspose.com/c/imaging/14) oder konsultieren Sie ihre umfangreiche Dokumentation und Ressourcen.
 
 ## Ressourcen
 - **Dokumentation:** Entdecken Sie detaillierte Anleitungen unter [Aspose-Dokumentation](https://reference.aspose.com/imaging/net/)

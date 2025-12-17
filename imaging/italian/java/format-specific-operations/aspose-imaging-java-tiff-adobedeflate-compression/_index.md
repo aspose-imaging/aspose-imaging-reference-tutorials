@@ -153,7 +153,7 @@ Al termine di questo tutorial, dovresti essere in grado di convertire immagini r
 - [Acquistare](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Esplora queste risorse per approfondire la tua conoscenza e sfruttare al meglio Aspose.Imaging per Java. Buona programmazione!
 

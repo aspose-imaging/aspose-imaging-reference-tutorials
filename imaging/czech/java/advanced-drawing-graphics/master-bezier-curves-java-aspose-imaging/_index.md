@@ -198,7 +198,7 @@ A: Zkontrolujte konfiguraci nástroje pro sestavení, ujistěte se, že je odkaz
 - **Nákup:** [Buy Aspose.Imaging for Java](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** Začněte svou zkušební verzi na [Aspose website](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** Požádejte o dočasnou licenci přes [Aspose Purchase](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** Připojte se k diskusím ve [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** Připojte se k diskusím ve [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Začněte dnes kreslit tyto křivky a pozvedněte své Java projekty s Aspose.Imaging!
 

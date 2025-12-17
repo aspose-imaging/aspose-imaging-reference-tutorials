@@ -160,7 +160,7 @@ A4: يمكنك حفظها بتنسيقات مختلفة مثل BMP أو PNG أو
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جربه مجانا](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى دعم Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى دعم Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 بفضل هذه الموارد وهذا الدليل، أنت جاهز تمامًا لبدء العمل مع صور DICOM باستخدام Aspose.Imaging في .NET. برمجة ممتعة!
 

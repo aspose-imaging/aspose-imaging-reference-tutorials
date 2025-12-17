@@ -219,7 +219,7 @@ R5: Sim, o Aspose.Imaging permite a personalização abrangente dos campos de me
 - **Comprar:** [Compre uma licença](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Experimente o Aspose.Imaging gratuitamente](https://releases.aspose.com/imaging/net/)
 - **Licença temporária:** [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Fórum de suporte:** [Suporte Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Fórum de suporte:** [Suporte Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Embarque em sua jornada com o Aspose.Imaging for .NET hoje mesmo e revolucione a maneira como você trabalha com imagens!
 

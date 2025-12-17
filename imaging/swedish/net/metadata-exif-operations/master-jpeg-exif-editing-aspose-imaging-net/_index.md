@@ -155,7 +155,7 @@ den här guiden har du lärt dig hur du modifierar JPEG EXIF-data med Aspose.Ima
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provversion nedladdning](https://releases.aspose.com/imaging/net/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din resa mot att bemästra JPEG EXIF-modifiering med Aspose.Imaging idag!
 

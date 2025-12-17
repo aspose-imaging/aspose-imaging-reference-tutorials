@@ -149,7 +149,7 @@ Redo att börja implementera? Dyk ner i Aspose.Imaging och släpp lös dess full
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Lycka till med kodningen med Aspose.Imaging för .NET! 🚀
 

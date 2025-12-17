@@ -203,7 +203,7 @@ Klaar om deze oplossingen in uw eigen projecten te implementeren? Duik dieper in
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Ontvang een gratis licentie](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Community Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Community Forum](https://forum.aspose.com/c/imaging/14)
 
 Door Aspose.Imaging voor Java te gebruiken, kunt u uw documentverwerkingsworkflows stroomlijnen en DjVu-bestanden eenvoudig verwerken. Veel plezier met coderen!
 

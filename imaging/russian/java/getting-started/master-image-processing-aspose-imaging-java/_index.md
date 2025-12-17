@@ -209,7 +209,7 @@ try (TiffImage tiffImage = new TiffImage(outputSettings, newWidth, newHeight)) {
 5. **Как кадры TIFF улучшают управление изображениями?**  
    Объединяя несколько изображений в один файл, можно упростить обработку и распространение больших коллекций связанных изображений.
 
-Для получения дополнительных ресурсов обратитесь к Aspose.Imaging. [документация](https://reference.aspose.com/imaging/java/) и исследовать их [страница загрузки](https://releases.aspose.com/imaging/java/) для последних обновлений. По любым вопросам поддержки посетите [Форум Aspose](https://forum.aspose.com/c/imaging/10).
+Для получения дополнительных ресурсов обратитесь к Aspose.Imaging. [документация](https://reference.aspose.com/imaging/java/) и исследовать их [страница загрузки](https://releases.aspose.com/imaging/java/) для последних обновлений. По любым вопросам поддержки посетите [Форум Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

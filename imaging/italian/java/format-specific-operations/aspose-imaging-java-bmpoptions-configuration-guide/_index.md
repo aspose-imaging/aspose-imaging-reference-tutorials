@@ -191,7 +191,7 @@ Pronti a mettere in pratica ciò che avete imparato? Iniziate a implementare que
 - [Acquista una licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 Con queste risorse, sei ben equipaggiato per padroneggiare `BmpOptions` e sfrutta appieno il potenziale di Aspose.Imaging nei tuoi progetti Java. Buona programmazione!
 

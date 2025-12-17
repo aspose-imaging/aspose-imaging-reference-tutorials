@@ -168,14 +168,14 @@ if (File.Exists(outputFilePath))
 4. **Есть ли ограничение на размер файлов САПР, которые я могу обработать?**
    - Обработка больших файлов может потребовать больше памяти; оптимизируйте ее по мере необходимости в зависимости от возможностей вашей системы.
 5. **Где я могу найти поддержку, если у меня возникнут проблемы?**
-   - Посещать [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10) за помощь и советы сообществу.
+   - Посещать [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14) за помощь и советы сообществу.
 
 ## Ресурсы
 - **Документация**: Исследуйте полностью [Документация Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
 - **Скачать**: Получите последнюю версию с сайта [Релизы](https://releases.aspose.com/imaging/net/)
 - **Покупка и бесплатная пробная версия**Получите доступ к пробным версиям или приобретите лицензию через [Покупка Aspose](https://purchase.aspose.com/buy) и [Бесплатные пробные версии](https://releases.aspose.com/imaging/net/).
 - **Временная лицензия**: Запросите временную лицензию у [Временные лицензии Aspose](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: Получите помощь по [Форум Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: Получите помощь по [Форум Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

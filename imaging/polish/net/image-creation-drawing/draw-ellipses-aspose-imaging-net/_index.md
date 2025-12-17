@@ -161,7 +161,7 @@ Kolejne kroki mogą obejmować integrację tej funkcji z większą aplikacją lu
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/net/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Spróbuj zastosować te techniki w swoim kolejnym projekcie i zobacz, jak Aspose.Imaging for .NET może usprawnić Twoje możliwości przetwarzania obrazów!
 

@@ -209,7 +209,7 @@ Ya dominas el redimensionamiento de imágenes JPG y la creación de archivos TIF
 5. **¿Cómo mejoran los marcos TIFF la gestión de imágenes?**  
    Al consolidar varias imágenes en un solo archivo, se facilita el manejo y la distribución de grandes colecciones de imágenes relacionadas.
 
-Para obtener más recursos, consulte Aspose.Imaging. [documentación](https://reference.aspose.com/imaging/java/) y explorar sus [página de descarga](https://releases.aspose.com/imaging/java/) Para obtener las últimas actualizaciones. Para cualquier consulta de soporte, visite [Foro de Aspose](https://forum.aspose.com/c/imaging/10).
+Para obtener más recursos, consulte Aspose.Imaging. [documentación](https://reference.aspose.com/imaging/java/) y explorar sus [página de descarga](https://releases.aspose.com/imaging/java/) Para obtener las últimas actualizaciones. Para cualquier consulta de soporte, visite [Foro de Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

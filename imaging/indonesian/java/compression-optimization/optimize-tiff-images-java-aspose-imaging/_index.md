@@ -191,7 +191,7 @@ Anda kini telah mempelajari cara memuat dan mengubah ukuran gambar TIFF secara e
    - Ya, ia mendukung banyak format gambar seperti JPEG, PNG, BMP, dan banyak lagi.
 
 5. **Di mana saya dapat menemukan dukungan jika saya mengalami masalah?**
-   - Kunjungi [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) untuk dukungan masyarakat dan resmi.
+   - Kunjungi [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) untuk dukungan masyarakat dan resmi.
 
 ## Sumber daya
 

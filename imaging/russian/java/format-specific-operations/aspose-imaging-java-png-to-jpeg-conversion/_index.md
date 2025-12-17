@@ -225,7 +225,7 @@ Aspose.Imaging разработан для обеспечения эффекти
 - [Лицензия на покупку](https://purchase.aspose.com/buy)
 - [Бесплатный пробный доступ](https://releases.aspose.com/imaging/java/)
 - [Заявление на временную лицензию](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 С этим всеобъемлющим руководством вы теперь готовы использовать Aspose.Imaging Java для эффективной обработки изображений в ваших проектах. Удачного кодирования!
 

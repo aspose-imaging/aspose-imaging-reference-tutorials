@@ -168,14 +168,14 @@ S touto příručkou jste zvládli načítání a export CAD souborů pomocí As
 4. **Existuje omezení velikosti CAD souborů, které mohu zpracovat?**
    - Zpracování velkých souborů může vyžadovat více paměti; optimalizujte podle potřeby na základě možností vašeho systému.
 5. **Kde mohu najít podporu, pokud narazím na problémy?**
-   - Návštěva [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) za pomoc a rady od komunity.
+   - Návštěva [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) za pomoc a rady od komunity.
 
 ## Zdroje
 - **Dokumentace**Prozkoumejte celý [Dokumentace k Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
 - **Stáhnout**Získejte nejnovější verzi z [Vydání](https://releases.aspose.com/imaging/net/)
 - **Nákup a bezplatná zkušební verze**Získejte přístup ke zkušebním verzím nebo si zakupte licenci prostřednictvím [Nákup Aspose](https://purchase.aspose.com/buy) a [Bezplatné zkušební verze](https://releases.aspose.com/imaging/net/).
 - **Dočasná licence**Požádejte o dočasnou licenci od [Dočasné licence Aspose](https://purchase.aspose.com/temporary-license/)
-- **Podpora**Získejte pomoc s [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**Získejte pomoc s [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -172,7 +172,7 @@ rasterImage.Save("YOUR_OUTPUT_DIRECTORY/AdjustBrightness_out.tiff", tiffOptions)
 - **Αγορά Άδειας Χρήσης**: [Αγοράστε τώρα](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Αίτημα εδώ](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ Υποστήριξης**: [Κοινότητα Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ Υποστήριξης**: [Κοινότητα Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Αυτός ο οδηγός θα πρέπει να χρησιμεύσει ως ένας ολοκληρωμένος πόρος για την εξοικείωση με τις ρυθμίσεις φωτεινότητας με το Aspose.Imaging για .NET. Καλή κωδικοποίηση!
 

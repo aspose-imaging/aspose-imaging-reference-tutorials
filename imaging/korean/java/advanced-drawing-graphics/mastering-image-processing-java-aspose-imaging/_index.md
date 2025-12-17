@@ -171,7 +171,7 @@ DIB(Device Independent Bitmap)는 Microsoft Windows에서 압축 없이 이미�
 - **구입:** [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [Aspose.Imaging을 사용해 보세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따라 하면 이제 Aspose.Imaging for Java를 사용하여 이미지 처리 작업을 수행할 준비가 되었습니다. 즐거운 코딩 되세요!
 

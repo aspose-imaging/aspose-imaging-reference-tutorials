@@ -203,7 +203,7 @@ try (FileInputStream fis = new FileInputStream(file)) {
 - [شراء الترخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 بفضل هذا البرنامج التعليمي، أصبحتَ الآن جاهزًا لتحسين تطبيقات جافا لديك باستخدام إمكانيات معالجة صور فعّالة باستخدام Aspose.Imaging. برمجة ممتعة!
 

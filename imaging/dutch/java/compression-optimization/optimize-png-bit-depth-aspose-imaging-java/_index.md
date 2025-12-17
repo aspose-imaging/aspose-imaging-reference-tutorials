@@ -173,7 +173,7 @@ U zou nu een gedegen begrip moeten hebben van hoe u Aspose.Imaging voor Java kun
 - **Aankoop:** Overweeg om een licentie aan te schaffen als Aspose.Imaging nuttig voor u is.
 - **Gratis proefperiode:** Start met een gratis proefperiode om de functies te evalueren.
 - **Tijdelijke licentie:** Vraag een tijdelijke vergunning aan voor een uitgebreide evaluatie.
-- **Steun:** Sluit je aan bij de community op [Aspose Forums](https://forum.aspose.com/c/imaging/10) voor hulp. 
+- **Steun:** Sluit je aan bij de community op [Aspose Forums](https://forum.aspose.com/c/imaging/14) voor hulp. 
 
 Als u deze tutorial volgt, bent u goed toegerust om uw beeldverwerkingsmogelijkheden met Aspose.Imaging Java te verbeteren.
 

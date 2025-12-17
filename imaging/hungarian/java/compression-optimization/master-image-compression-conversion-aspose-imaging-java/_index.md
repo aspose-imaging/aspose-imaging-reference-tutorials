@@ -182,7 +182,7 @@ A4: Kövesse a legjobb gyakorlatokat, például a memória hatékony kezelését
 - **Vásárlás**: [Aspose.Imaging licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Indítsa el az ingyenes próbaverziót](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/14)
 
 Nyugodtan böngészheted ezeket az erőforrásokat, és kezdheted el magabiztosan megvalósítani képfeldolgozási projektjeidet az Aspose.Imaging for Java használatával.
 

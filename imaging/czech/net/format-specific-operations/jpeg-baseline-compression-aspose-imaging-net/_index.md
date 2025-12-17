@@ -147,7 +147,7 @@ Jste připraveni posunout své dovednosti v oblasti zpracování obrazu na dalš
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/net/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Tato komplexní příručka vás nasměruje na správnou cestu k zvládnutí základní komprese JPEGu s Aspose.Imaging pro .NET. Přejeme vám příjemné programování!
 

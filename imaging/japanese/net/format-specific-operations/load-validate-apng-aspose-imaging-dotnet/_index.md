@@ -202,7 +202,7 @@ Aspose.Imaging はメモリを効率的に管理するように設計されて�
 - **購入：** [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料トライアルを受ける](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス:** [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従うことで、Aspose.Imaging を使用して .NET アプリケーション内で APNG 画像を効果的に管理するスキルを習得できます。コーディングを楽しみましょう！
 

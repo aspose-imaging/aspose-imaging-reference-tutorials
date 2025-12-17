@@ -182,7 +182,7 @@ image.close();
 - [Επιλογές Αγοράς](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμαστική πρόσβαση](https://releases.aspose.com/imaging/java/)
 - [Αίτηση Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- [Υποστήριξη Κοινότητας](https://forum.aspose.com/c/imaging/10)
+- [Υποστήριξη Κοινότητας](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, είστε πλήρως εξοπλισμένοι για να αξιοποιήσετε τη δύναμη του Aspose.Imaging για Java στα έργα σας. Καλή κωδικοποίηση!
 

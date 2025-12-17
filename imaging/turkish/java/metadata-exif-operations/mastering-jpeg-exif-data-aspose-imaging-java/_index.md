@@ -169,7 +169,7 @@ C3: Kütüphane, eksik veri alanları için null döndürerek bu gibi durumları
 C4: Deneme sürümünde filigran veya işlem limitleri gibi kullanım kısıtlamaları olabilir.
 
 **S5: Aspose.Imaging ile ilgili sorunlarla karşılaşırsam nasıl destek alabilirim?**
-A5: Ziyaret edin [Aspose forumları](https://forum.aspose.com/c/imaging/10) Topluluk ve resmi destek için.
+A5: Ziyaret edin [Aspose forumları](https://forum.aspose.com/c/imaging/14) Topluluk ve resmi destek için.
 
 ## Kaynaklar
 
@@ -178,7 +178,7 @@ A5: Ziyaret edin [Aspose forumları](https://forum.aspose.com/c/imaging/10) Topl
 - **Satın almak**: Lisansı şu şekilde edinin: [Aspose Satın Alma](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: Ücretsiz denemeyle başlayın [Aspose.Imaging Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: Geçici bir lisans talep edin [Aspose Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- **Destek**: Tartışmaya katılın [Aspose Destek Forumları](https://forum.aspose.com/c/imaging/10)
+- **Destek**: Tartışmaya katılın [Aspose Destek Forumları](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java ile yolculuğunuza başlayın ve görüntü işleme alanında yeni olasılıkların kilidini bugün açın!
 

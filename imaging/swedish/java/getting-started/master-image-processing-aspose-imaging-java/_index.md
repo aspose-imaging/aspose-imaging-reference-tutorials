@@ -209,7 +209,7 @@ Du har nu bemästrat hur man ändrar storlek på JPG-bilder och skapar TIFF-file
 5. **Hur förbättrar TIFF-ramar bildhanteringen?**  
    Genom att konsolidera flera bilder till en enda fil blir det enklare att hantera och distribuera stora samlingar av relaterade bilder.
 
-För fler resurser, se Aspose.Imagings [dokumentation](https://reference.aspose.com/imaging/java/) och utforska deras [nedladdningssida](https://releases.aspose.com/imaging/java/) för de senaste uppdateringarna. För supportfrågor, besök [Aspose-forumet](https://forum.aspose.com/c/imaging/10).
+För fler resurser, se Aspose.Imagings [dokumentation](https://reference.aspose.com/imaging/java/) och utforska deras [nedladdningssida](https://releases.aspose.com/imaging/java/) för de senaste uppdateringarna. För supportfrågor, besök [Aspose-forumet](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

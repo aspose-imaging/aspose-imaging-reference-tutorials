@@ -211,7 +211,7 @@ A: 読み込み中にカスタム バッファ サイズを利用して、メモ
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルを始める](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従うことで、Aspose.Imaging for Java を用いた高度な画像圧縮技術を実装できるようになります。さらに詳しく調べ、これらの手法をプロジェクトに統合することで、最適なパフォーマンスと品質を実現できます。
 

@@ -202,7 +202,7 @@ Aspose.Imaging'in olanaklarını daha fazla keşfetmek için kapsamlı belgeleri
 - **Satın almak:** [Aspose Lisansını Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Başvurusunda Bulunun](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzun Aspose.Imaging'i Java projelerinizde sorunsuz bir şekilde uygulamanıza yardımcı olmasını umuyoruz. İyi kodlamalar!
 

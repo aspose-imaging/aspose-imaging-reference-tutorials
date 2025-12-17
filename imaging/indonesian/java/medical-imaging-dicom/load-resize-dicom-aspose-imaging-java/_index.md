@@ -199,7 +199,7 @@ Siap untuk mencobanya? Terapkan solusi ini dan pelajari lebih lanjut tentang kem
 - [Pembelian](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Tutorial ini membekali Anda dengan pengetahuan untuk memanipulasi gambar DICOM menggunakan Aspose.Imaging Java, memastikan aplikasi Anda efisien dan dapat diskalakan. Selamat membuat kode!
 

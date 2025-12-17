@@ -181,7 +181,7 @@ En este tutorial, aprendiste a cargar y guardar imágenes DICOM con Aspose.Imagi
 - **Descargar:** [Últimos lanzamientos](https://releases.aspose.com/imaging/java/)
 - **Compra:** [Comprar licencia de Aspose](https://purchase.aspose.com/buy)
 - **Prueba gratuita y licencia temporal:** [Empezar](https://releases.aspose.com/imaging/java/)
-- **Foro de soporte:** [Comunidad Aspose](https://forum.aspose.com/c/imaging/10)
+- **Foro de soporte:** [Comunidad Aspose](https://forum.aspose.com/c/imaging/14)
 
 Esta guía completa le ha proporcionado las habilidades necesarias para gestionar eficientemente imágenes DICOM en aplicaciones Java con Aspose.Imaging. ¡Que disfrute programando!
 

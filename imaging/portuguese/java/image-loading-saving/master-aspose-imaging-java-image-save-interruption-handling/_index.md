@@ -231,7 +231,7 @@ Ao seguir este tutorial, você aprendeu a implementar o Aspose.Imaging Java para
    - Considere implementar pools de threads e práticas eficientes de gerenciamento de recursos para lidar com alta simultaneidade.
 
 5. **Como posso solucionar problemas comuns ao usar o Aspose.Imaging?**
-   - Verifique o oficial [documentação](https://reference.aspose.com/imaging/java/) para guias detalhados ou visite o [Fóruns Aspose](https://forum.aspose.com/c/imaging/10) para apoio da comunidade.
+   - Verifique o oficial [documentação](https://reference.aspose.com/imaging/java/) para guias detalhados ou visite o [Fóruns Aspose](https://forum.aspose.com/c/imaging/14) para apoio da comunidade.
 
 ## Recursos
 

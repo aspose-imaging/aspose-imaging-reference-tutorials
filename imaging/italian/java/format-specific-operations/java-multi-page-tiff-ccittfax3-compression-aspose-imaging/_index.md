@@ -245,7 +245,7 @@ In questo tutorial, hai imparato a creare file TIFF multipagina utilizzando la c
 - **Acquistare**: https://purchase.aspose.com/buy
 - **Prova gratuita**: https://releases.aspose.com/imaging/java/
 - **Licenza temporanea**: https://purchase.aspose.com/temporary-license/
-- **Supporto**: https://forum.aspose.com/c/imaging/10
+- **Supporto**: https://forum.aspose.com/c/imaging/14
 
 Ora che hai acquisito queste conoscenze, inizia a implementare ed esplorare queste tecniche nei tuoi progetti Java!
 

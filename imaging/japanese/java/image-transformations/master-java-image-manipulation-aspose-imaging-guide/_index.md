@@ -213,7 +213,7 @@ A5: Aspose.ImagingはほとんどのJavaフレームワークと互換性があ�
 - **ダウンロード**最新リリースを入手する [Aspose.Imaging リリース](https://releases.aspose.com/imaging/java/)
 - **購入**ライセンスを取得する [Aspose 購入ページ](https://purchase.aspose.com/buy)
 - **無料トライアル**一時ライセンスで機能をテストできます。 [Aspose 無料トライアル](https://releases.aspose.com/imaging/java/)
-- **サポート**ディスカッションに参加する [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**ディスカッションに参加する [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 今すぐ Aspose.Imaging for Java を試して、新しい創造的な可能性を解き放ちましょう。
 

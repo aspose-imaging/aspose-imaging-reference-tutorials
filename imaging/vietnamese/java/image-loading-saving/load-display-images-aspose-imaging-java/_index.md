@@ -173,7 +173,7 @@ A5: Sử dụng `image.resize(width, height)` để điều chỉnh kích thư�
 - **Mua**: https://purchase.aspose.com/buy
 - **Dùng thử miễn phí**: https://releases.aspose.com/imaging/java/
 - **Giấy phép tạm thời**: https://purchase.aspose.com/temporary-license/
-- **Ủng hộ**: https://forum.aspose.com/c/imaging/10
+- **Ủng hộ**: https://forum.aspose.com/c/imaging/14
 
 Bằng cách làm theo hướng dẫn này, bạn sẽ có thể quản lý hình ảnh hiệu quả trong các ứng dụng Java của mình bằng Aspose.Imaging. Chúc bạn viết mã vui vẻ!
 

@@ -175,7 +175,7 @@ Arrisque-se e tente implementar esta solução hoje mesmo!
 - **Comprar:** Compre uma licença para uso comercial em [Página de compra da Aspose](https://purchase.aspose.com/buy).
 - **Teste gratuito:** Comece com um teste gratuito para avaliar os recursos em [Teste gratuito do Aspose](https://releases.aspose.com/imaging/java/).
 - **Licença temporária:** Solicite uma licença temporária se precisar de acesso estendido por meio do [Página de licença](https://purchase.aspose.com/temporary-license/).
-- **Apoiar:** Participe de discussões e busque ajuda no [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Apoiar:** Participe de discussões e busque ajuda no [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Seguindo este guia, você estará bem equipado para manipular imagens DICOM com facilidade usando o Aspose.Imaging para Java. Boa programação!
 

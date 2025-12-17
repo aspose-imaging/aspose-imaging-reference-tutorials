@@ -171,7 +171,7 @@ Aspose.Imaging は、JPEG2000 や TIFF アニメーションなど、幅広い�
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imagingの無料トライアルを入手](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

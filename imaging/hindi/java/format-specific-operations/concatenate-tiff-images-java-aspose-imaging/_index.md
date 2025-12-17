@@ -181,7 +181,7 @@ try {
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 इस ट्यूटोरियल ने आपको Aspose.Imaging for Java का उपयोग करके जटिल TIFF छवि संयोजन कार्यों को संभालने के ज्ञान से सुसज्जित किया है। हैप्पी कोडिंग!
 

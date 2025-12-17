@@ -180,7 +180,7 @@ Aspose.Imaging for .NET을 사용하여 이미지를 로드, 캐시, 자르기 �
 - **라이센스 구매:** https://purchase.aspose.com/buy
 - **무료 체험:** https://releases.aspose.com/imaging/net/
 - **임시 면허:** https://purchase.aspose.com/temporary-license/
-- **지원 포럼:** https://forum.aspose.com/c/imaging/10
+- **지원 포럼:** https://forum.aspose.com/c/imaging/14
 
 오늘부터 이러한 이미지 처리 기술을 프로젝트에 통합하여 성능과 효율성의 차이를 확인해 보세요!
 

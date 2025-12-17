@@ -210,7 +210,7 @@ A: オーバーレイ画像と背景画像が高解像度であることを確�
 - **ライセンスを購入**： [Aspose 購入ページ](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imaging for Java を試す](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [Aspose イメージング サポート](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [Aspose イメージング サポート](https://forum.aspose.com/c/imaging/14)
 
 このガイドを読めば、Aspose.Imaging for Java を使って画像の合成を始める準備が整います。コーディングを楽しみましょう！
 

@@ -202,7 +202,7 @@ Becerilerinizi daha da ileri götürmeye hazır mısınız? Bu çözümleri bug�
 - **Lisans Satın Al**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Talebinde Bulunun](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Aspose Desteği](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: [Aspose Desteği](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı kılavuzla artık Aspose.Imaging kullanarak Java'da PNG görüntü işleme konusunda uzmanlaşabilirsiniz. İyi kodlamalar!
 

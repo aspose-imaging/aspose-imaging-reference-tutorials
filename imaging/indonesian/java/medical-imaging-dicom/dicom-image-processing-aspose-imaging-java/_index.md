@@ -237,7 +237,7 @@ A5: Ada pilihan uji coba gratis, tetapi fungsionalitas penuh memerlukan pembelia
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Dapatkan Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda akan siap memanfaatkan Aspose.Imaging for Java dalam tugas pemrosesan DICOM Anda. Selamat membuat kode!
 

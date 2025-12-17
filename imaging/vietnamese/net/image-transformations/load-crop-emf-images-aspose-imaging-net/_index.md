@@ -186,7 +186,7 @@ Sẵn sàng áp dụng những gì bạn đã học vào thực tế? Hãy tìm 
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Truy cập dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Yêu cầu cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn toàn diện này được thiết kế để trang bị cho bạn kiến thức và kỹ năng cần thiết để tích hợp khả năng xử lý hình ảnh EMF vào các ứng dụng .NET của bạn một cách hiệu quả. Với Aspose.Imaging, hãy mở rộng bộ công cụ phát triển của bạn và nâng cao chức năng của dự án.
 

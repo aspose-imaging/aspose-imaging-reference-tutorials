@@ -161,7 +161,7 @@ Aspose.Imaging은 기본적으로 다양한 일반 형식을 지원하지만, �
 - **구입**: [면허 취득](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging을 무료로 사용해 보세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [여기에서 요청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [Aspose 지원 커뮤니티](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [Aspose 지원 커뮤니티](https://forum.aspose.com/c/imaging/14)
 
 이 포괄적인 가이드를 따라 하면 .NET 애플리케이션에서 이미지 처리 작업을 자신감 있고 효율적으로 처리할 수 있을 것입니다. 즐거운 코딩 되세요!
 

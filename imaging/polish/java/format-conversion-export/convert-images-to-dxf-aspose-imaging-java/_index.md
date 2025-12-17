@@ -184,7 +184,7 @@ W tym samouczku sprawdziliśmy, jak używać Aspose.Imaging for Java do konwersj
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Zacznij wdrażać te rozwiązania już dziś i rozszerz swoje możliwości przetwarzania obrazów dzięki Aspose.Imaging for Java!
 

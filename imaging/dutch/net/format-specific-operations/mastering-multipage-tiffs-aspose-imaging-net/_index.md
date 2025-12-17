@@ -158,7 +158,7 @@ Hier zijn enkele veelvoorkomende vragen die u wellicht heeft:
 - [Aankoop](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Deze uitgebreide gids geeft je de kennis om Aspose.Imaging voor .NET effectief te gebruiken in je projecten. Veel plezier met coderen!
 

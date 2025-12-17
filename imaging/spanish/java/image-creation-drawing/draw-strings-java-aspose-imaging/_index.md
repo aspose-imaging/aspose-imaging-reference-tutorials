@@ -204,7 +204,7 @@ Ahora sabe cómo dibujar cadenas con diferentes alineaciones en imágenes usando
 - **Compra:** [Comprar licencia de Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Pruebe Aspose.Imaging gratis](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** [Solicitar Licencia Temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Apoyo:** [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Explora estos recursos para ampliar tu comprensión y habilidades con Aspose.Imaging para Java. ¡Que disfrutes programando!
 

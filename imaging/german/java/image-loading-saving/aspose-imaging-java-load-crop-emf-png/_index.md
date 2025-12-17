@@ -209,7 +209,7 @@ Sie beherrschen nun das Laden, Zuschneiden und Konvertieren von EMF-Dateien in P
 - [Lizenz erwerben](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Nutzen Sie die Leistungsfähigkeit von Aspose.Imaging Java, um Ihre Bildverarbeitungsfunktionen noch heute zu verbessern!
 

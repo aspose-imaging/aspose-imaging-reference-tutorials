@@ -176,7 +176,7 @@ A: Sledujte využití zdrojů, optimalizujte logiku zpracování obrazu a v př�
 - **Nákup:** [Možnosti licencování Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Začněte zdarma s Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu jste na dobré cestě k zvládnutí zpracování obrazu s Aspose.Imaging v Javě!
 

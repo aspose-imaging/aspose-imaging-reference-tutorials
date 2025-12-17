@@ -202,7 +202,7 @@ Ja, integrera Aspose.Imaging i dina byggskript för att automatiskt validera APN
 - **Köpa:** [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Få en gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens:** [Begär tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden har du fått kunskaperna för att effektivt hantera APNG-bilder i dina .NET-applikationer med hjälp av Aspose.Imaging. Lycka till med kodningen!
 

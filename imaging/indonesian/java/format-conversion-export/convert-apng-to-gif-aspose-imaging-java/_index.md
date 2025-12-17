@@ -216,7 +216,7 @@ Selamat! Anda telah berhasil menavigasi proses pemuatan, konversi, dan pengelola
    - Ya, Anda dapat membuat skrip pemrosesan batch menggunakan loop atau berintegrasi dengan sistem penjadwalan pekerjaan.
 
 5. **Bagaimana cara mendapatkan dukungan jika saya mengalami masalah?**
-   - Kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10) untuk bantuan dan diskusi dengan pengguna lain.
+   - Kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14) untuk bantuan dan diskusi dengan pengguna lain.
 
 ## Sumber daya
 

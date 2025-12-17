@@ -172,7 +172,7 @@ if (exif != null)
 - **ซื้อ:** [ซื้อตัวเลือกการอนุญาตสิทธิ์ Aspose](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี:** [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/net/)
 - **ใบอนุญาตชั่วคราว:** [การขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน:** [การสนับสนุนฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน:** [การสนับสนุนฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14)
 
 หากทำตามคำแนะนำนี้ คุณจะพร้อมรับมือกับภาพ JPEG และข้อมูลเมตาของภาพโดยใช้ Aspose.Imaging สำหรับ .NET ได้อย่างดีเยี่ยม ขอให้สนุกกับการเขียนโค้ด!
 

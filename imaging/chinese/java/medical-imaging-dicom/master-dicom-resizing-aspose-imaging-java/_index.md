@@ -180,7 +180,7 @@ Aspose.Imaging 可以与其他基于 Java 的应用程序集成，例如使用 S
 - [购买](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/java/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10)
+- [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 通过遵循本综合指南，您现在应该能够使用 Aspose.Imaging for Java 有效地管理 DICOM 图像处理任务。
 

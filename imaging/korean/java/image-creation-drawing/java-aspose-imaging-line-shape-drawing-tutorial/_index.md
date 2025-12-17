@@ -241,7 +241,7 @@ Aspose.Imaging 라이브러리를 활용하여 Java에서 선, 도형, 패턴을
 - [구매 옵션](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이제 Aspose.Imaging for Java를 사용하여 그리기 기능을 구현하는 방법에 대한 포괄적인 가이드를 갖추었으니, 이 기법들을 실험하고 프로젝트에 통합해 보세요. 즐거운 코딩 되세요!
 

@@ -192,7 +192,7 @@ Hemos explorado cómo cargar, configurar y convertir imágenes OTG con Aspose.Im
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Explora estos recursos para profundizar tu comprensión y ampliar las capacidades de Aspose.Imaging en tus proyectos. ¡Que disfrutes programando!
 

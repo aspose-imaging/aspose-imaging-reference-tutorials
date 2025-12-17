@@ -201,7 +201,7 @@ finally {
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用版下载](https://releases.aspose.com/imaging/java/)
 - [临时许可证申请](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10) 
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14) 
 
 按照本指南操作，您将顺利掌握使用 Aspose.Imaging Java 进行图像处理的技能。祝您编码愉快！
 

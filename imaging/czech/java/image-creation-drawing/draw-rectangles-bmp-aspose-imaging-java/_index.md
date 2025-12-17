@@ -182,7 +182,7 @@ Dodržováním tohoto návodu jste se naučili, jak efektivně používat Aspose
 - **Stáhnout**: [Aspose.Imaging Releases](https://releases.aspose.com/imaging/java/)
 - **Nákup**: [Možnosti licencování Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Komunita podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Komunita podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Nyní, když máte všechny nástroje a znalosti, začněte experimentovat s Aspose.Imaging pro Javu a uvolněte svou kreativitu ve zpracování obrazu!
 

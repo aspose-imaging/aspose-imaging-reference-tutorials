@@ -209,7 +209,7 @@ Các vấn đề thường gặp bao gồm cấu hình đường dẫn không đ
 
 **5. Tôi sẽ nhận được hỗ trợ như thế nào nếu gặp vấn đề?**
 
-Thăm nom [Hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) để tìm kiếm sự giúp đỡ từ cộng đồng hoặc liên hệ trực tiếp để được hỗ trợ thêm.
+Thăm nom [Hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) để tìm kiếm sự giúp đỡ từ cộng đồng hoặc liên hệ trực tiếp để được hỗ trợ thêm.
 
 ## Tài nguyên
 

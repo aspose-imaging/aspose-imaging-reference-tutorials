@@ -210,7 +210,7 @@ Para un rendimiento óptimo al utilizar Aspose.Imaging:
 - **Compra:** [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Obtenga una prueba gratuita](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** [Solicitar licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Con esta guía, estarás bien preparado para aprovechar Aspose.Imaging Java eficazmente en tus proyectos. ¡Que disfrutes programando!
 

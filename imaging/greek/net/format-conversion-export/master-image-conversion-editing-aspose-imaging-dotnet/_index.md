@@ -219,7 +219,7 @@ A5: Ναι, το Aspose.Imaging επιτρέπει την ολοκληρωμέν
 - **Αγορά:** [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Δοκιμάστε το Aspose.Imaging δωρεάν](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια:** [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ υποστήριξης:** [Υποστήριξη Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Φόρουμ υποστήριξης:** [Υποστήριξη Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Ξεκινήστε το ταξίδι σας με το Aspose.Imaging για .NET σήμερα και φέρτε επανάσταση στον τρόπο που εργάζεστε με εικόνες!
 

@@ -197,7 +197,7 @@ A: Ja, het kan worden geïntegreerd in ASP.NET-toepassingen en andere server-sid
 - **Aankoop**: [Koop Aspose.Imaging-licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 We hopen dat deze gids je helpt om Aspose.Imaging optimaal te benutten voor je DjVu-beeldverwerking in .NET. Veel plezier met coderen!
 

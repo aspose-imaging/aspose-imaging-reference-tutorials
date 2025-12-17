@@ -155,7 +155,7 @@ Cobalah menerapkan solusi ini dalam proyek Anda hari ini!
 - **Pembelian**: https://purchase.aspose.com/beli
 - **Uji Coba Gratis**: https://releases.aspose.com/imaging/java/
 - **Lisensi Sementara**: https://purchase.aspose.com/lisensi-sementara/
-- **Forum Dukungan**: https://forum.aspose.com/c/imaging/10
+- **Forum Dukungan**: https://forum.aspose.com/c/imaging/14
 
 Panduan ini membekali Anda dengan pengetahuan dan alat untuk menangani gambar TIFF yang rusak menggunakan Aspose.Imaging untuk Java. Mulailah bereksperimen dan integrasikan kemampuan ini ke dalam aplikasi Anda hari ini!
 

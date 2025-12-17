@@ -223,7 +223,7 @@ A5: 読み込み後に画像をキャッシュし、比例方式を使用して�
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imaging 無料トライアル](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/10) 
+- **サポート**： [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/14) 
 
 この包括的なガイドを活用すれば、JavaプロジェクトにAspose.Imagingを統合し、効率的な画像管理を実現するための準備が整います。コーディングを楽しみましょう！
 

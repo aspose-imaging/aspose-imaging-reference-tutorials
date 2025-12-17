@@ -166,7 +166,7 @@ V tomto tutoriálu jste se naučili, jak efektivně spravovat obrazy EMF pomocí
 - **Nákup:** [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Začněte svou bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Žádost zde](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu budete dobře vybaveni k efektivní práci s EMF obrazy ve vašich Java aplikacích pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 

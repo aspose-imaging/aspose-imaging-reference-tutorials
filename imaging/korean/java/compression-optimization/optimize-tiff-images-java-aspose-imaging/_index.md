@@ -191,7 +191,7 @@ Aspose.Imaging을 사용할 때 성능을 최적화하려면:
    - 네, JPEG, PNG, BMP 등 다양한 이미지 형식을 지원합니다.
 
 5. **문제가 발생하면 어디에서 지원을 받을 수 있나요?**
-   - 방문하세요 [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/10) 커뮤니티와 공식적인 지원을 위해.
+   - 방문하세요 [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/14) 커뮤니티와 공식적인 지원을 위해.
 
 ## 자원
 

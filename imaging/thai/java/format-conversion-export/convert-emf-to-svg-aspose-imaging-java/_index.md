@@ -171,7 +171,7 @@ A5: ตรวจสอบเส้นทางไฟล์ ให้แน่ใ
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [เริ่มทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - [การขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 หากทำตามคำแนะนำนี้ คุณจะสามารถแปลงภาพ EMF เป็น SVG ได้อย่างมีประสิทธิภาพโดยใช้ Aspose.Imaging สำหรับ Java ขอให้สนุกกับการเขียนโค้ด!
 

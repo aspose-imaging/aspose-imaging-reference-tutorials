@@ -247,7 +247,7 @@ public class SaveAsPNGExample {
 - [구입](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 포괄적인 가이드를 따라 하면 Aspose.Imaging을 사용하여 Java 애플리케이션에 고급 이미지 처리 기능을 통합할 수 있는 준비가 완료됩니다. 즐거운 코딩 되세요!
 

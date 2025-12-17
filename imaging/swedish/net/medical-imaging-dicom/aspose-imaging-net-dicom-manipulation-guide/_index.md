@@ -126,7 +126,7 @@ A: Åtgärden kommer att misslyckas, så det är lämpligt att kontrollera om ta
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**För frågor, besök [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd**För frågor, besök [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Med den här omfattande guiden är du redo att börja använda Aspose.Imaging för .NET i dina DICOM-bildmanipuleringsprojekt. Lycka till med kodningen!
 

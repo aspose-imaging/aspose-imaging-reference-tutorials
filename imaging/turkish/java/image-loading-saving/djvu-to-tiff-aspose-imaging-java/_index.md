@@ -297,7 +297,7 @@ Tebrikler! Aspose.Imaging for Java kullanarak DjVu görüntülerini TIFF'e dön�
 - **Satın almak:** [Java için Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Aspose.Imaging'i Ücretsiz Deneyin](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Talebinde Bulunun](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, DjVu'dan TIFF'e dönüşümleri verimli bir şekilde halletmek için gereken becerilerle kendinizi donattınız. Java uygulamalarınızı Aspose.Imaging ile keşfetmeye ve geliştirmeye devam edin!
 

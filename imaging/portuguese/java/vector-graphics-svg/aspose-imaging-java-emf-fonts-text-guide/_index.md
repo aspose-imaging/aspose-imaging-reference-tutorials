@@ -244,7 +244,7 @@ Este tutorial abordou como configurar e usar o Aspose.Imaging para Java para cri
 - **Comprar**: [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Teste gratuito do Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licença Temporária**: [Solicitar Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum de Suporte Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum de Suporte Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Ao utilizar o Aspose.Imaging para Java, você pode integrar perfeitamente fontes EMF de alta qualidade e renderização de texto em seus aplicativos, melhorando tanto a funcionalidade quanto o apelo visual.
 

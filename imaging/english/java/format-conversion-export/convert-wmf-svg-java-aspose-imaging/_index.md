@@ -205,7 +205,7 @@ A4: Yes, but it's important to manage resources efficiently and use multi-thread
 
 **Q5: How can I obtain more support if I encounter issues with Aspose.Imaging?**
 
-A5: Visit [Aspose's forum](https://forum.aspose.com/c/imaging/10) for community support or contact their customer service directly through the purchase page.
+A5: Visit [Aspose's forum](https://forum.aspose.com/c/imaging/14) for community support or contact their customer service directly through the purchase page.
 
 ## Resources
 

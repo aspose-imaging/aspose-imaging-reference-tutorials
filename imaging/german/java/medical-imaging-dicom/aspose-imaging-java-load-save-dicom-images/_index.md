@@ -181,7 +181,7 @@ In diesem Tutorial haben Sie gelernt, wie Sie DICOM-Bilder mit Aspose.Imaging f�
 - **Herunterladen:** [Neuerscheinungen](https://releases.aspose.com/imaging/java/)
 - **Kaufen:** [Aspose-Lizenzierung kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion und temporäre Lizenz:** [Erste Schritte](https://releases.aspose.com/imaging/java/)
-- **Support-Forum:** [Aspose Gemeinschaft](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum:** [Aspose Gemeinschaft](https://forum.aspose.com/c/imaging/14)
 
 Dieser umfassende Leitfaden vermittelt Ihnen die notwendigen Fähigkeiten, um DICOM-Bilder in Java-Anwendungen mit Aspose.Imaging effizient zu verwalten. Viel Spaß beim Programmieren!
 

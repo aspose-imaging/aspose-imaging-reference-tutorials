@@ -256,7 +256,7 @@ Aspose.Imaging का उपयोग करके जावा में छव
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 इन संसाधनों और अपने नए ज्ञान के साथ, आप Aspose.Imaging for Java का उपयोग करके TIFF छवियों को JPEG में परिवर्तित करने के लिए अच्छी तरह से सुसज्जित हैं!
 

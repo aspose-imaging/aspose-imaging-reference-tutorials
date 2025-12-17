@@ -231,7 +231,7 @@ Dalam tutorial ini, Anda telah mempelajari cara mengatur font default di aplikas
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Versi Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda akan siap menangani tugas pemrosesan gambar yang rumit di Java menggunakan Aspose.Imaging. Selamat membuat kode!
 

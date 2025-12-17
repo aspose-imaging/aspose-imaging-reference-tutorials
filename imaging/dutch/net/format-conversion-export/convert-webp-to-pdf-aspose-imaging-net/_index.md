@@ -160,7 +160,7 @@ Door deze handleiding te volgen, hebt u geleerd hoe u WebP-afbeeldingen naar PDF
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proeftoegang](https://releases.aspose.com/imaging/net/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Met deze uitgebreide handleiding bent u nu klaar om Aspose.Imaging voor .NET in uw projecten te gebruiken. Veel plezier met coderen!
 

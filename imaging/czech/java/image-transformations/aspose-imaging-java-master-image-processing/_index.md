@@ -209,7 +209,7 @@ Mezi běžné problémy patří nesprávná konfigurace cest a nepodporované fo
 
 **5. Jak získám podporu, pokud narazím na problémy?**
 
-Návštěva [Podpora Aspose](https://forum.aspose.com/c/imaging/10) vyhledat pomoc od komunity nebo se přímo obrátit na ostatní s žádostí o další pomoc.
+Návštěva [Podpora Aspose](https://forum.aspose.com/c/imaging/14) vyhledat pomoc od komunity nebo se přímo obrátit na ostatní s žádostí o další pomoc.
 
 ## Zdroje
 

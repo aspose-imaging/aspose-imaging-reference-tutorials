@@ -165,7 +165,7 @@ A5: Hoewel robuust, vereisen sommige geavanceerde functies mogelijk een betaalde
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Forums](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Forums](https://forum.aspose.com/c/imaging/14)
 
 In deze handleiding vindt u alle informatie die u nodig hebt om TIFF-afbeeldingen naar PDF's te converteren met Aspose.Imaging voor .NET, waarmee u uw oplossingen voor documentbeheer nog beter kunt benutten.
 

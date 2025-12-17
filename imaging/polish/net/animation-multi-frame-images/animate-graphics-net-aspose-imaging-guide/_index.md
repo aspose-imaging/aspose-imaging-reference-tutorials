@@ -191,7 +191,7 @@ Nauczyłeś się, jak tworzyć animowane grafiki za pomocą Aspose.Imaging dla .
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/net/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Postępując zgodnie z tym przewodnikiem, jesteś teraz wyposażony w umiejętności tworzenia dynamicznych animowanych grafik w swoich aplikacjach .NET za pomocą Aspose.Imaging. Eksploruj i wprowadzaj innowacje, integrując te techniki ze swoimi projektami!
 

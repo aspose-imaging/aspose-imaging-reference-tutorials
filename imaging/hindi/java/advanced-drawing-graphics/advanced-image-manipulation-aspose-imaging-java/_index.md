@@ -257,7 +257,7 @@ A5: सुनिश्चित करें कि आउटपुट फ़ॉ
 - **खरीदना**: [Aspose खरीद पृष्ठ](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [Aspose.Imaging का निःशुल्क परीक्षण करें](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच**: [Aspose समर्थन समुदाय](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच**: [Aspose समर्थन समुदाय](https://forum.aspose.com/c/imaging/14)
 
 हैप्पी कोडिंग!
 

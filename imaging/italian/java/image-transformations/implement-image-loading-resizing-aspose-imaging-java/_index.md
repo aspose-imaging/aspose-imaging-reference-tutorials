@@ -176,7 +176,7 @@ A5: Assolutamente sì. È progettato per essere facilmente integrato e utilizzat
 - **Acquistare**: [Acquista una licenza](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Inizia qui](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea**: [Fai domanda ora](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: [Forum della comunità](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: [Forum della comunità](https://forum.aspose.com/c/imaging/14)
 
 Con questa guida completa, ora sei pronto a padroneggiare il caricamento e il ridimensionamento delle immagini in Java utilizzando Aspose.Imaging. Buon lavoro!
 

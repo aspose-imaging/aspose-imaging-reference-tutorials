@@ -215,7 +215,7 @@ public class FrameConverter {
 ### Επόμενα βήματα
 - Εξερευνήστε πρόσθετες επιλογές μετατροπής που είναι διαθέσιμες στο Aspose.Imaging.
 - Ενσωματώστε αυτήν τη λειτουργικότητα σε ένα μεγαλύτερο έργο ή ροή εργασίας.
-- Μοιραστείτε σχόλια ή ζητήστε υποστήριξη από [Φόρουμ κοινότητας Aspose](https://forum.aspose.com/c/imaging/10).
+- Μοιραστείτε σχόλια ή ζητήστε υποστήριξη από [Φόρουμ κοινότητας Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Ενότητα Συχνών Ερωτήσεων
 
@@ -241,7 +241,7 @@ A5: Εξερευνήστε το [Τεκμηρίωση Aspose.Imaging](https://re
 - **Αγορά:** https://purchase.aspose.com/buy
 - **Δωρεάν δοκιμή:** https://releases.aspose.com/imaging/java/
 - **Προσωρινή Άδεια:** https://purchase.aspose.com/temporary-license/
-- **Υποστήριξη:** https://forum.aspose.com/c/imaging/10
+- **Υποστήριξη:** https://forum.aspose.com/c/imaging/14
 
 Αξιοποιώντας το Aspose.Imaging για Java, μπορείτε να βελτιστοποιήσετε τις διαδικασίες μετατροπής εικόνων και να ξεκλειδώσετε νέες δυνατότητες στον χειρισμό ψηφιακών μέσων. Καλή κωδικοποίηση!
 

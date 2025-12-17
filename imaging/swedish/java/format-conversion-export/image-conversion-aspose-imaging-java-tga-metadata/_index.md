@@ -199,7 +199,7 @@ den här handledningen har du utforskat hur man konverterar JPEG- och PNG-filer 
 - **Dokumentation**Utforska mer på [Aspose.Imaging-dokumentation](https://reference.aspose.com/imaging/java/).
 - **Ladda ner**Få de senaste utgåvorna från [Aspose släppsida](https://releases.aspose.com/imaging/java/).
 - **Köp och gratis provperiod**Testa funktioner idag på [Asposes köp- och gratis provperiodsida](https://purchase.aspose.com/buy).
-- **Stöd**Delta i diskussioner om [Aspose-forumet](https://forum.aspose.com/c/imaging/10).
+- **Stöd**Delta i diskussioner om [Aspose-forumet](https://forum.aspose.com/c/imaging/14).
 
 Vi hoppas att den här guiden ger dig möjlighet att effektivt använda Aspose.Imaging Java för dina bildbehandlingsbehov. Lycka till med kodningen!
 

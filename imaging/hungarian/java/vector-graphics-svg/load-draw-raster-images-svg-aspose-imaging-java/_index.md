@@ -187,7 +187,7 @@ Ebben az oktatóanyagban azt vizsgáltuk meg, hogyan lehet raszteres képet bet�
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió információi](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével most már felkészült leszel arra, hogy raszteres képeket integrálj SVG vásznakba az Aspose.Imaging for Java használatával. Jó kódolást!
 

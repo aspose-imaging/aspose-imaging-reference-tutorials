@@ -209,7 +209,7 @@ Gyakori problémák lehetnek a helytelen elérési út konfigurációk és a nem
 
 **5. Hogyan kaphatok támogatást, ha problémákba ütközöm?**
 
-Látogatás [Aspose támogatás](https://forum.aspose.com/c/imaging/10) kérjen segítséget a közösségtől, vagy vegye fel a kapcsolatot közvetlenül további segítségért.
+Látogatás [Aspose támogatás](https://forum.aspose.com/c/imaging/14) kérjen segítséget a közösségtől, vagy vegye fel a kapcsolatot közvetlenül további segítségért.
 
 ## Erőforrás
 

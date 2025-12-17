@@ -189,7 +189,7 @@ Task.WaitAll(tasks.ToArray());
 - [การซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [เข้าถึงการทดลองใช้ฟรี](https://releases.aspose.com/imaging/net/)
 - [ข้อมูลใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10) 
+- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14) 
 
 เริ่มต้นการเดินทางของคุณในการประมวลผลภาพที่มีประสิทธิภาพด้วย Aspose.Imaging และปลดล็อคศักยภาพเต็มรูปแบบของการประมวลผลภาพ DJVU มัลติเธรดใน .NET!
 

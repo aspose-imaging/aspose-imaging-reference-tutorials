@@ -184,7 +184,7 @@ We encourage you to try implementing this solution and explore more advanced fun
 - **Documentation**: Explore detailed usage scenarios at [Aspose.Imaging Java Docs](https://reference.aspose.com/imaging/java/).
 - **Download**: Get the latest Aspose.Imaging library from [Aspose Releases](https://releases.aspose.com/imaging/java/).
 - **Purchase and Free Trial**: Learn more about acquiring a license on the [purchase page](https://purchase.aspose.com/buy) or start with a free trial.
-- **Support**: For questions, head to [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Support**: For questions, head to [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

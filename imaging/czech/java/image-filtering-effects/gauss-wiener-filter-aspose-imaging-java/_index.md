@@ -184,7 +184,7 @@ A: Zakupte si předplatné od [Nákupní stránka Aspose](https://purchase.aspos
 - **Stáhnout knihovnu:** Získejte nejnovější verzi z [Aspose.Imaging Releases](https://releases.aspose.com/imaging/java/).
 - **Licence k zakoupení:** Návštěva [Nákup Aspose](https://purchase.aspose.com/buy) pro možnosti licencování.
 - **Bezplatná zkušební verze a dočasná licence:** Začněte s bezplatnou zkušební verzí nebo si získejte dočasnou licenci na [Bezplatná zkušební verze a licence Aspose](https://releases.aspose.com/imaging/java/).
-- **Fórum podpory:** Zapojte se do komunity na [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10).
+- **Fórum podpory:** Zapojte se do komunity na [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

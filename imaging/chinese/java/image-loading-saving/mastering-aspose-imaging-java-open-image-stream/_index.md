@@ -158,7 +158,7 @@ image.close();
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用版](https://releases.aspose.com/imaging/java/)
 - [临时执照申请](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 本综合指南可以帮助您有效地实现和利用 Aspose.Imaging Java 进行基于流的图像处理，从而增强应用程序的性能和功能。
 

@@ -170,7 +170,7 @@ using (Image image = Image.Load(dataDir + "/aspose-logo.jpg"))
 - **Лицензия на покупку**: [Купить Aspose Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Начните с бесплатной пробной версии](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия**: [Получить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Форум поддержки**: [Поддержка Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Форум поддержки**: [Поддержка Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Сделайте следующий шаг, внедрив эти оптимизации в свои проекты .NET и узнайте, как Aspose.Imaging может вывести ваши задачи по обработке изображений на новый уровень!
 

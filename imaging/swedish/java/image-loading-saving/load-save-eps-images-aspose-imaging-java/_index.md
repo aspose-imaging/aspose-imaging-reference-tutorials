@@ -234,7 +234,7 @@ A: Använd asynkrona operationer, hantera minne effektivt och överväg cachning
 - **Köpa:** [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Prova Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

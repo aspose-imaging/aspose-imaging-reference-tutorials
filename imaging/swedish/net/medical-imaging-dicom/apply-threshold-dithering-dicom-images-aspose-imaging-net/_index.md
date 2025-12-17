@@ -154,7 +154,7 @@ Redo att ta dina kunskaper om DICOM-bildbehandling vidare? Implementera lösning
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Den här omfattande guiden utrustar dig med allt som behövs för att tillämpa tröskeldithering på DICOM-bilder med Aspose.Imaging för .NET, vilket förbättrar dina bildbehandlingsmöjligheter.
 

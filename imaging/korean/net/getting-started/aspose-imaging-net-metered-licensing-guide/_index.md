@@ -147,7 +147,7 @@ decimal amountAfter = Metered.GetConsumptionQuantity();
 - 더욱 복잡한 워크플로에 계량형 라이선싱을 통합하여 추가로 실험해 보세요.
 - Aspose.Imaging이 제공하는 추가 기능을 살펴보고 애플리케이션의 기능을 향상시켜 보세요.
 
-여러분의 프로젝트에서 이 구현을 시도해 보시기 바랍니다. 질문이 있거나 지원이 필요하시면 언제든지 문의해 주세요. [Aspose 커뮤니티 포럼](https://forum.aspose.com/c/imaging/10).
+여러분의 프로젝트에서 이 구현을 시도해 보시기 바랍니다. 질문이 있거나 지원이 필요하시면 언제든지 문의해 주세요. [Aspose 커뮤니티 포럼](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ 섹션
 **질문 1: 미터링 라이선싱이란 무엇인가요?**

@@ -184,7 +184,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **شراء**: [شراء ترخيص](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [ميزات الاختبار](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [اطلب هنا](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [انضم إلى المنتدى](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [انضم إلى المنتدى](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذه الإرشادات، ستكون جاهزًا لتحسين صورك باستخدام ميزات تطبيع الهيستوغرام في Aspose.Imaging Java. برمجة ممتعة!
 

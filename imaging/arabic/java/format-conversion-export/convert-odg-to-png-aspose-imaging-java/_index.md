@@ -189,7 +189,7 @@ image.save(outFileName, new PngOptions() {
 - **شراء:** [شراء ترخيص](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [جرب Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة:** [التقدم بطلب للحصول على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم:** [مجتمع دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم:** [مجتمع دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 صُمم هذا الدليل لمساعدتك على دمج Aspose.Imaging بسلاسة في مشاريع Java الخاصة بك، مما يضمن تحويلات صور عالية الجودة في كل مرة. برمجة ممتعة!
 

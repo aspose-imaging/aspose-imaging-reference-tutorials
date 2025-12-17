@@ -213,7 +213,7 @@ A5: Aspose.Imaging tương thích với hầu hết các khung Java. Bạn có t
 - **Tải về**: Nhận bản phát hành mới nhất từ [Aspose.Imaging phát hành](https://releases.aspose.com/imaging/java/)
 - **Mua**: Nhận giấy phép của bạn tại [Trang mua hàng Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: Kiểm tra các tính năng với giấy phép tạm thời có sẵn trên [Dùng thử miễn phí Aspose](https://releases.aspose.com/imaging/java/)
-- **Ủng hộ**:Tham gia thảo luận trong [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**:Tham gia thảo luận trong [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu thử nghiệm và mở khóa những khả năng sáng tạo mới với Aspose.Imaging cho Java ngay hôm nay!
 

@@ -181,7 +181,7 @@ Sì, Aspose.Imaging fornisce strumenti completi per la modifica delle immagini, 
 Regola le impostazioni di risoluzione e qualità utilizzando le opzioni di configurazione di Aspose.Imaging per mantenere l'integrità dell'immagine.
 
 **5. È disponibile supporto se riscontro problemi con Aspose.Imaging?**
-Sì, puoi cercare aiuto su [Forum di Aspose](https://forum.aspose.com/c/imaging/10) per supporto comunitario o ufficiale.
+Sì, puoi cercare aiuto su [Forum di Aspose](https://forum.aspose.com/c/imaging/14) per supporto comunitario o ufficiale.
 
 ## Risorse
 

@@ -194,7 +194,7 @@ A: Chắc chắn – nó chạy ở bất kỳ nơi nào Java được hỗ tr�
 - **Purchase**: [Buy Aspose Products](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start a Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bây giờ, với kiến thức này, bạn đã sẵn sàng triển khai Aspose.Imaging trong các dự án Java của mình để nâng cao khả năng xử lý hình ảnh. Chúc lập trình vui vẻ!
 

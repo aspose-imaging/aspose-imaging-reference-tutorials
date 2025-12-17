@@ -252,7 +252,7 @@ Most már elsajátítottad a DICOM-manipuláció alapjait az Aspose.Imaging Java
 **Következő lépések:**
 - Fedezze fel a további funkciókat a [Aspose.Imaging dokumentáció](https://reference.aspose.com/imaging/java/).
 - Kísérletezzen összetettebb DICOM-manipulációkkal.
-- Ossza meg tapasztalatait és megoldásait olyan fórumokon, mint a [Aspose közösségi fórum](https://forum.aspose.com/c/imaging/10).
+- Ossza meg tapasztalatait és megoldásait olyan fórumokon, mint a [Aspose közösségi fórum](https://forum.aspose.com/c/imaging/14).
 
 ## GYIK szekció
 
@@ -278,7 +278,7 @@ A4: Természetesen, az Aspose.Imaging különféle formátumokat támogat, péld
 - **Vásárlás**: [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Ingyenes próbaverzió igénylése](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Közösségi Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Közösségi Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezzel az átfogó útmutatóval felkészülhetsz a DICOM képfeldolgozási feladatok Aspose.Imaging Java használatával történő kezelésére. Jó kódolást!
 

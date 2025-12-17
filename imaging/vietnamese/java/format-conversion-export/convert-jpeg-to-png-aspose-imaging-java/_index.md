@@ -256,7 +256,7 @@ Bạn đã học cách lưu ảnh JPEG với các cấu hình CMYK và YCCK và 
 - **Mua:** [Cấp phép Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bắt đầu](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Nộp đơn xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn có thể sử dụng hiệu quả Aspose.Imaging Java để quản lý và chuyển đổi hình ảnh JPEG trong các dự án của mình. Hãy dùng thử ngay hôm nay!
 

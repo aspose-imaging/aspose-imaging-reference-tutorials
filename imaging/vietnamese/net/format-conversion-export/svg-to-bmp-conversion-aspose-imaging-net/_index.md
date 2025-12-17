@@ -142,7 +142,7 @@ Trong hướng dẫn này, bạn đã học cách chuyển đổi hiệu quả h
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình làm chủ việc chuyển đổi hình ảnh với Aspose.Imaging cho .NET và khám phá những khả năng mà thư viện mạnh mẽ này mang lại. Chúc bạn viết mã vui vẻ!
 

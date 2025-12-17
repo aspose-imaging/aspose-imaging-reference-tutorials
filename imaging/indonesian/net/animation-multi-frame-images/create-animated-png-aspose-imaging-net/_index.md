@@ -172,7 +172,7 @@ Anda kini telah mempelajari cara membuat APNG dari satu gambar menggunakan Aspos
 - **Pembelian**:Untuk lisensi lengkap, kunjungi [Aspose Pembelian](https://purchase.aspose.com/buy).
 - **Uji Coba Gratis**: Mulailah dengan uji coba di [Uji Coba Gratis Aspose](https://releases.aspose.com/imaging/net/).
 - **Lisensi Sementara**: Dapatkan akses sementara melalui [Halaman Lisensi](https://purchase.aspose.com/temporary-license/).
-- **Mendukung**: Bergabunglah dalam diskusi atau ajukan pertanyaan di [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Mendukung**: Bergabunglah dalam diskusi atau ajukan pertanyaan di [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Mulailah perjalanan Anda untuk membuat animasi menawan dengan Aspose.Imaging untuk .NET, yang meningkatkan keterampilan teknis dan hasil proyek Anda.
 

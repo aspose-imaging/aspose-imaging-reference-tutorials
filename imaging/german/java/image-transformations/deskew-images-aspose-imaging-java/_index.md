@@ -182,7 +182,7 @@ A: Konfigurieren Sie Ihre Anwendung nach dem Kauf oder Erhalt einer temporären 
 - **Kaufen:** [Aspose-Lizenzierung kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Kostenlose Testversion starten](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Temporäre Lizenz anfordern](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Wir hoffen, dass dieser Leitfaden Ihnen hilft, Entzerrungsfunktionen mithilfe von Aspose.Imaging effizient in Ihren Java-Anwendungen zu implementieren. Viel Spaß beim Programmieren!
 

@@ -168,7 +168,7 @@ Sonraki adımlar Aspose.Imaging tarafından desteklenen diğer görüntü format
 - Lisans Satın Al: [Aspose Lisanslama Seçeneklerini Satın Alın](https://purchase.aspose.com/buy)
 - Ücretsiz Deneme: [Ücretsiz Deneme Alın](https://releases.aspose.com/imaging/java/)
 - Geçici Lisans: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- Destek Forumu: [Aspose.Imaging Topluluk Desteği](https://forum.aspose.com/c/imaging/10)
+- Destek Forumu: [Aspose.Imaging Topluluk Desteği](https://forum.aspose.com/c/imaging/14)
 
 Artık araçlara ve bilgiye sahip olduğunuza göre, bu çözümü bir sonraki projenizde uygulamaya çalışın!
 

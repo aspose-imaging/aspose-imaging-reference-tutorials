@@ -181,7 +181,7 @@ Aspose.Imaging का उपयोग करते समय इष्टतम 
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 हमें उम्मीद है कि यह गाइड Aspose.Imaging for .NET के साथ आपकी यात्रा में आपकी मदद करेगी। हैप्पी कोडिंग!
 

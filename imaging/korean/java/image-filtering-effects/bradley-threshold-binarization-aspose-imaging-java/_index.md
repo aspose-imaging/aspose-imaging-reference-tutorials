@@ -198,7 +198,7 @@ A5: 메모리 관리를 위해 Java 환경을 최적화하고 일괄 처리 옵�
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험판 액세스](https://releases.aspose.com/imaging/java/)
 - [임시 면허 요청](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java를 사용하여 이미지 처리 프로젝트에 대한 이해를 높이고 프로젝트를 더욱 발전시켜 보세요. 즐거운 코딩 되세요!
 

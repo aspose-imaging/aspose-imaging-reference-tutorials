@@ -200,7 +200,7 @@ public class CheckConsumptionAfterProcessing {
    - Χρησιμοποιήστε το `Metered.getConsumptionQuantity()` μέθοδος πριν και μετά την επεξεργασία εικόνων για την παρακολούθηση της χρήσης.
 
 5. **Υπάρχει διαθέσιμη υποστήριξη σε περίπτωση που αντιμετωπίσω προβλήματα;**
-   - Επίσκεψη [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10) για βοήθεια από ειδικούς της κοινότητας.
+   - Επίσκεψη [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14) για βοήθεια από ειδικούς της κοινότητας.
 
 ## Πόροι
 

@@ -193,7 +193,7 @@ Denemeye hazır mısınız? Şuraya gidin: [Aspose.Görüntüleme Belgeleri](htt
    - JDK 8 veya üzeri ve uyumlu bir Java IDE.
 
 5. **Sorun yaşarsam nereden destek alabilirim?**
-   - Katıl [Aspose Forum](https://forum.aspose.com/c/imaging/10) Topluluk ve resmi destek için.
+   - Katıl [Aspose Forum](https://forum.aspose.com/c/imaging/14) Topluluk ve resmi destek için.
 
 ## Kaynaklar
 

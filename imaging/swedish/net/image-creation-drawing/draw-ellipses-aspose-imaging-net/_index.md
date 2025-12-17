@@ -161,7 +161,7 @@ Nästa steg kan innefatta att integrera den här funktionen i en större applika
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Försök att implementera dessa tekniker i ditt nästa projekt och se hur Aspose.Imaging för .NET kan förbättra dina bildbehandlingsmöjligheter!
 

@@ -258,7 +258,7 @@ A5：考虑以较小的块处理大图像，利用 Aspose.Imaging 的选项来�
 - **购买许可证：** [购买许可证](https://purchase.aspose.com/buy)
 - **免费试用：** [获取免费试用版](https://releases.aspose.com/imaging/java/)
 - **临时执照：** [获得临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持论坛：** [Aspose.Imaging 支持](https://forum.aspose.com/c/imaging/10)
+- **支持论坛：** [Aspose.Imaging 支持](https://forum.aspose.com/c/imaging/14)
 
 我们希望本教程能帮助您掌握使用 Aspose.Imaging for Java 增强图像处理任务的技能。祝您编程愉快！
 

@@ -188,7 +188,7 @@ Prêt à développer vos compétences ? Mettez en œuvre ces techniques dans vo
 - **Achat**: [Acheter une licence](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencez votre essai gratuit](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Demander un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Lancez-vous dès aujourd'hui dans votre voyage avec Aspose.Imaging et libérez tout le potentiel du traitement d'images dans .NET !
 

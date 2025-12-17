@@ -174,7 +174,7 @@ Grattis till att du bemästrar processen att konvertera TIFF-ramar till BMP-file
 - [Köp licenser](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din resa mot att bemästra bildbehandling med Aspose.Imaging Java och lås upp nya möjligheter i hanteringen av TIFF-bilder.
 

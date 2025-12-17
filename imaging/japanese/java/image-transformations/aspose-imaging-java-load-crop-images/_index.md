@@ -148,7 +148,7 @@ Aspose.Imagingを使用してJavaで画像を読み込み、切り抜くため�
    - Java 開発キット (JDK) と互換性のある IDE。
 
 5. **問題のトラブルシューティングに利用できるサポートはありますか?**
-   - 訪問 [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10) 援助をお願いします。
+   - 訪問 [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14) 援助をお願いします。
 
 ## リソース
 

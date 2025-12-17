@@ -234,7 +234,7 @@ En este tutorial, exploramos cómo configurar opciones de mapa de bits y dibujar
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Al aprovechar estos recursos, podrá comprender mejor y usar mejor Aspose.Imaging para Java en sus proyectos. ¡Que disfrute programando!
 

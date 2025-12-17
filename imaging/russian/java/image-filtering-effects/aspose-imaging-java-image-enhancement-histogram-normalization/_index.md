@@ -184,7 +184,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **Покупка**: [Купить лицензию](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Тестовые характеристики](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия**: [Запросить здесь](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: [Присоединяйтесь к форуму](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: [Присоединяйтесь к форуму](https://forum.aspose.com/c/imaging/14)
 
 Следуя этим рекомендациям, вы будете хорошо подготовлены к улучшению изображений с помощью функций нормализации гистограмм Java Aspose.Imaging. Удачного кодирования!
 

@@ -219,7 +219,7 @@ void saveAsTiff(RasterImage rasterImage) {
 - [شراء التراخيص](https://purchase.aspose.com/buy)
 - [عروض تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - [معلومات الترخيص المؤقت](https://purchase.aspose.com/temporary-license/)
-- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 باستخدام Aspose.Imaging لجافا، يمكنك الاستفادة من إمكانيات معالجة الصور القوية التي تُسهّل عملية التطوير. برمجة ممتعة!
 

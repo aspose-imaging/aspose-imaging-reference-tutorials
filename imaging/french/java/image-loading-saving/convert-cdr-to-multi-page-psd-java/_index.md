@@ -197,7 +197,7 @@ Dans ce tutoriel, nous avons découvert comment utiliser Aspose.Imaging pour Jav
    - Absolument ! Il prend en charge une large gamme de formats d'image, au-delà des formats CDR et PSD.
 
 5. **Comment puis-je résoudre les problèmes de chargement ou d’enregistrement d’images ?**
-   - Vérifiez le [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10) pour des solutions courantes et assurez-vous que la version de votre bibliothèque est à jour.
+   - Vérifiez le [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14) pour des solutions courantes et assurez-vous que la version de votre bibliothèque est à jour.
 
 ## Ressources
 
@@ -206,7 +206,7 @@ Dans ce tutoriel, nous avons découvert comment utiliser Aspose.Imaging pour Jav
 - **Achat:** [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Obtenez une licence gratuite](https://releases.aspose.com/imaging/java/)
 - **Licence temporaire :** [Demander une licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien:** [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce guide, vous serez bien équipé pour gérer les tâches de chargement et de conversion d'images CDR dans vos applications Java avec Aspose.Imaging. Bon codage !
 

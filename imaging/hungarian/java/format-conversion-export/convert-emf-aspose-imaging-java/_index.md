@@ -186,7 +186,7 @@ Most már elsajátítottad az EMF képek különböző formátumokba konvertál�
    - Gyakori problémák lehetnek a helytelen fájlelérési utak vagy a nem támogatott formátumkonverziók; győződjön meg arról, hogy a beállítás megfelel az oktatóanyag lépéseinek.
 
 5. **Hol találok támogatást az Aspose.Imaginghez?**
-   - Látogassa meg a [Aspose fórum](https://forum.aspose.com/c/imaging/10) segítségért és más felhasználókkal való kapcsolatfelvételhez.
+   - Látogassa meg a [Aspose fórum](https://forum.aspose.com/c/imaging/14) segítségért és más felhasználókkal való kapcsolatfelvételhez.
 
 ## Erőforrás
 

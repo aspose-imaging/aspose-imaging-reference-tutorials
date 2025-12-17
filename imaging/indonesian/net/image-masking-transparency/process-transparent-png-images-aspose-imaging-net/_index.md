@@ -145,7 +145,7 @@ Dalam tutorial ini, Anda mempelajari cara memuat gambar PNG, mengekstrak dan mem
 - Jelajahi format file lain yang didukung oleh Aspose.Imaging.
 
 **Ajakan Bertindak:**
-Cobalah menerapkan fitur-fitur ini di proyek Anda berikutnya untuk melihat bagaimana Aspose.Imaging for .NET dapat menyederhanakan tugas pemrosesan gambar. Bagikan pengalaman Anda atau ajukan pertanyaan di [Forum Aspose](https://forum.aspose.com/c/imaging/10) jika Anda menghadapi tantangan apa pun.
+Cobalah menerapkan fitur-fitur ini di proyek Anda berikutnya untuk melihat bagaimana Aspose.Imaging for .NET dapat menyederhanakan tugas pemrosesan gambar. Bagikan pengalaman Anda atau ajukan pertanyaan di [Forum Aspose](https://forum.aspose.com/c/imaging/14) jika Anda menghadapi tantangan apa pun.
 
 ## Bagian FAQ
 1. **Apa itu Aspose.Imaging untuk .NET?**
@@ -165,7 +165,7 @@ Cobalah menerapkan fitur-fitur ini di proyek Anda berikutnya untuk melihat bagai
 - [Opsi Pembelian](https://purchase.aspose.com/buy)
 - [Akses Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Akuisisi Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan dan Komunitas](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan dan Komunitas](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

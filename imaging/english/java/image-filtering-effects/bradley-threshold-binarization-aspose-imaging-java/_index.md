@@ -205,7 +205,7 @@ A5: Consider optimizing your Java environment for memory management and explore 
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Free Trial Access](https://releases.aspose.com/imaging/java/)
 - [Temporary License Request](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Explore these resources to deepen your understanding and enhance your image processing projects with Aspose.Imaging for Java. Happy coding!
 

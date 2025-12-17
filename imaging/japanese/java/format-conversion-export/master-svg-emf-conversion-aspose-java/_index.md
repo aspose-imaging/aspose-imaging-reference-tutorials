@@ -204,7 +204,7 @@ A5: バッチ処理機能を使用し、大規模な操作を効率的に処理�
 - [Aspose.Imaging for Java をダウンロード](https://releases.aspose.com/imaging/java/)
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアルと一時ライセンス](https://releases.aspose.com/imaging/java/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを活用して、Aspose.Imaging for Java の知識と能力を広げましょう。コーディングを楽しみましょう！
 

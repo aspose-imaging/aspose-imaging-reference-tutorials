@@ -190,7 +190,7 @@ Gratulálunk az útmutató befejezéséhez! Most már rendelkezik a WMF-fájlok 
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- [Aspose Közösségi Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Közösségi Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezt az átfogó útmutatót követve hatékonyan implementálhatod az Aspose.Imaging-et WMF fájlok SVG-vé konvertálásához Java-ban, és felfedezheted a széleskörű lehetőségeit. Jó kódolást!
 

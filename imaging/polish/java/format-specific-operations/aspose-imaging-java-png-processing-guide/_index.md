@@ -167,7 +167,7 @@ Dalsze informacje i zasoby:
 - **Zakup:** [Nabycie licencji](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Wypróbuj zanim kupisz](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa:** [Zapytaj tutaj](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia:** [Zapytaj społeczność](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia:** [Zapytaj społeczność](https://forum.aspose.com/c/imaging/14)
 
 Teraz, gdy posiadasz już tę wiedzę, możesz zacząć wdrażać te techniki w swoich projektach Java!
 

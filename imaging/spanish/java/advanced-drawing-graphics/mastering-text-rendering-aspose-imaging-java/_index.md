@@ -224,7 +224,7 @@ En este tutorial ha aprendido a renderizar **text with fonts** en Java usando As
 - **Download:** Acceda a la última versión de Aspose.Imaging desde la [Releases Page](https://releases.aspose.com/imaging/java/).  
 - **Purchase:** Obtenga una licencia completa a través de la [Aspose Purchase Page](https://purchase.aspose.com/buy).  
 - **Free Trial:** Pruebe Aspose.Imaging con una prueba gratuita disponible en la [Temporary License Page](https://purchase.aspose.com/temporary-license/).  
-- **Support:** Únase a discusiones o solicite ayuda en el [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Support:** Únase a discusiones o solicite ayuda en el [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 ---
 

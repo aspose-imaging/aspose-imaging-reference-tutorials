@@ -233,7 +233,7 @@ Jste připraveni implementovat tato řešení? Zkuste optimalizovat nastavení m
 - [Nákup](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 S tímto průvodcem jste dobře vybaveni k efektivní optimalizaci mezipaměti Aspose.Imaging v Javě. Přejeme vám příjemné programování!
 

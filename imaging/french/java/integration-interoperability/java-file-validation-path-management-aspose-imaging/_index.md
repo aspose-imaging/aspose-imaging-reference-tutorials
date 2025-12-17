@@ -221,7 +221,7 @@ A5 : Ajoutez la dépendance Aspose.Imaging à votre projet via Maven ou Gradle,
 - **Achat**: Acquérir une licence via [Page d'achat d'Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit**: Commencez à expérimenter avec [Essai gratuit d'Aspose](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**Obtenez un accès étendu via [Page de licence temporaire d'Aspose](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: Engagez-vous avec la communauté et soutenez l'équipe sur [Forum d'Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: Engagez-vous avec la communauté et soutenez l'équipe sur [Forum d'Aspose](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce guide, vous serez bien équipé pour implémenter la validation de fichiers et la gestion des chemins dans vos applications Java avec Aspose.Imaging. Bon codage !
 

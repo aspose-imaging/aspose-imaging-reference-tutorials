@@ -202,7 +202,7 @@ Bereit für die Implementierung dieser Lösungen? Tauchen Sie selbstbewusst in d
    - Verwenden Sie geeignete Rasterungseinstellungen und überwachen Sie die Systemressourcen während der Stapelverarbeitung.
 
 5. **Wie erhalte ich Unterstützung, wenn Probleme auftreten?**
-   - Besuchen Sie die [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10) für Community-Support oder wenden Sie sich an das professionelle Support-Team.
+   - Besuchen Sie die [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14) für Community-Support oder wenden Sie sich an das professionelle Support-Team.
 
 ## Ressourcen
 

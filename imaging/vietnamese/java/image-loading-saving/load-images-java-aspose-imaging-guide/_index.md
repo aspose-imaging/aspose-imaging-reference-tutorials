@@ -163,7 +163,7 @@ Bạn đã sẵn sàng đưa quá trình phát triển Java của mình lên m�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí và Giấy phép tạm thời](https://releases.aspose.com/imaging/java/)
 
-Nếu có bất kỳ câu hỏi nào khác, hãy truy cập [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10). Chúc bạn viết mã vui vẻ!
+Nếu có bất kỳ câu hỏi nào khác, hãy truy cập [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14). Chúc bạn viết mã vui vẻ!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

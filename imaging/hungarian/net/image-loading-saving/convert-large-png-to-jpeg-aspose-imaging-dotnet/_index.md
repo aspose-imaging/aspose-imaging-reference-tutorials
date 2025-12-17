@@ -131,7 +131,7 @@ V: Győződjön meg róla, hogy telepítve van a .NET Framework vagy a .NET Core
 V: Igen, miután beszereztem a megfelelő licencet az Aspose-tól.
 
 **K: Van elérhető támogatás, ha problémákba ütközöm?**
-V: Látogasson el [Aspose támogatói fóruma](https://forum.aspose.com/c/imaging/10) segítségért, vagy tekintse meg a dokumentációt.
+V: Látogasson el [Aspose támogatói fóruma](https://forum.aspose.com/c/imaging/14) segítségért, vagy tekintse meg a dokumentációt.
 
 ## Erőforrás
 - **Dokumentáció:** [Aspose.Imaging .NET dokumentáció](https://reference.aspose.com/imaging/net/)

@@ -157,7 +157,7 @@ Cobalah menerapkan solusi ini dalam proyek Anda hari ini dan lihat bagaimana sol
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Unduh Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Aplikasi Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Jelajahi sumber daya ini untuk memperdalam pemahaman Anda dan memanfaatkan Aspose.Imaging for .NET dalam proyek pengembangan Anda. Selamat membuat kode!
 

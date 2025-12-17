@@ -204,7 +204,7 @@ Sie haben nun gelernt, wie Sie Aspose.Imaging für Java nutzen, um Pixelwerte au
 - **Kaufen**Erwerben Sie Lizenzen direkt von [Aspose kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: Beginnen Sie mit dem Experimentieren mit einem [kostenlose Testlizenz](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: Erhalten Sie eine temporäre Lizenz zum Testen bei [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/).
-- **Unterstützung**: Treten Sie der Community bei auf der [Aspose Forum](https://forum.aspose.com/c/imaging/10) für alle Fragen oder Diskussionen.
+- **Unterstützung**: Treten Sie der Community bei auf der [Aspose Forum](https://forum.aspose.com/c/imaging/14) für alle Fragen oder Diskussionen.
 
 Mit diesem Tutorial sind Sie nun in der Lage, komplexe Bildverarbeitungsaufgaben in Java mit Aspose.Imaging zu bewältigen. Viel Spaß beim Programmieren!
 

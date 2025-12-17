@@ -190,7 +190,7 @@ Bạn đã sẵn sàng bắt đầu chưa? Hãy áp dụng những kỹ thuật 
 - **Mua:** [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Hãy thử Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời:** [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy bắt đầu hành trình cùng Aspose.Imaging ngay hôm nay và khám phá những tiềm năng mới trong xử lý hình ảnh cho các ứng dụng .NET!
 

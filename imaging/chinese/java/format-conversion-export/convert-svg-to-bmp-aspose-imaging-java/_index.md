@@ -161,7 +161,7 @@ try (Image image = Image.load(dataDir)) {
    - 调整位图配置 `BmpOptions` 调整输出质量设置。
 
 5. **如果遇到问题，我可以在哪里找到支持？**
-   - 访问 [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10) 寻求社区和专业援助。
+   - 访问 [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14) 寻求社区和专业援助。
 
 ## 资源
 

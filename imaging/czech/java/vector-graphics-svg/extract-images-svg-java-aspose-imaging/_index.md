@@ -250,7 +250,7 @@ A: Zvažte použití technik dávkového zpracování a optimalizaci využití p
 - **Nákup:** [Koupit Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Začněte svou bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Implementujte tyto funkce ve svých projektech v Javě a odemkněte si nové možnosti a zefektivnite pracovní postupy zpracování obrazu pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 

@@ -167,7 +167,7 @@ Overweeg als volgende stap om te experimenteren met andere geavanceerde functies
 - **Aankooplicentie**: [Nu kopen](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Gratis proefperiode starten](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Hier aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Stel vragen](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Stel vragen](https://forum.aspose.com/c/imaging/14)
 
 Door deze bronnen te verkennen, legt u een solide basis voor het beheersen van Aspose.Imaging en de mogelijkheden ervan. Veel plezier met coderen!
 

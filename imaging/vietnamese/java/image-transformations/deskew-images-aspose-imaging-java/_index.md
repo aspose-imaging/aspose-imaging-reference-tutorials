@@ -182,7 +182,7 @@ A: Sau khi mua hoặc nhận được giấy phép tạm thời, hãy cấu hìn
 - **Mua:** [Mua bản quyền Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Chúng tôi hy vọng hướng dẫn này giúp bạn triển khai các tính năng deskewing hiệu quả trong các ứng dụng Java của mình bằng Aspose.Imaging. Chúc bạn viết code vui vẻ!
 

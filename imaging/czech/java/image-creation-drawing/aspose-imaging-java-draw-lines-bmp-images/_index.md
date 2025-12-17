@@ -211,7 +211,7 @@ Další kroky zahrnují prozkoumání pokročilejších funkcí, jako je práce 
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu budete dobře vybaveni k integraci Aspose.Imaging do svých projektů v Javě a získání robustních funkcí pro manipulaci s obrázky. Přejeme vám příjemné programování!
 

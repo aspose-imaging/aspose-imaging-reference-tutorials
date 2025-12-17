@@ -150,7 +150,7 @@ Bây giờ bạn đã học cách tải, truy cập và thao tác dữ liệu pi
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ cộng đồng](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ cộng đồng](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

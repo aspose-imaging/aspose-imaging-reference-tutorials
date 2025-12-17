@@ -181,7 +181,7 @@ Aspose.Imaging for Java बहुमुखी समाधान प्रदा
 - **डाउनलोड करना:** [नवीनतम रिलीज़](https://releases.aspose.com/imaging/java/)
 - **खरीदना:** [Aspose लाइसेंसिंग खरीदें](https://purchase.aspose.com/buy)
 - **निःशुल्क परीक्षण एवं अस्थायी लाइसेंस:** [शुरू हो जाओ](https://releases.aspose.com/imaging/java/)
-- **सहयता मंच:** [एस्पोज समुदाय](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच:** [एस्पोज समुदाय](https://forum.aspose.com/c/imaging/14)
 
 इस व्यापक गाइड ने आपको Aspose.Imaging का उपयोग करके जावा अनुप्रयोगों में DICOM छवियों को कुशलतापूर्वक प्रबंधित करने के लिए आवश्यक कौशल से लैस किया है। हैप्पी कोडिंग!
 

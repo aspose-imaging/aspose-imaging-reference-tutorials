@@ -195,7 +195,7 @@ Aspose.Imaging を使用する場合は、次のパフォーマンス最適化�
 - [Asposeライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアルと一時ライセンス](https://releases.aspose.com/imaging/java/)
 
-このガイドが皆様のお役に立てば幸いです。ご質問がございましたら、お気軽にお問い合わせください。 [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)楽しいコーディングを！
+このガイドが皆様のお役に立てば幸いです。ご質問がございましたら、お気軽にお問い合わせください。 [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)楽しいコーディングを！
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

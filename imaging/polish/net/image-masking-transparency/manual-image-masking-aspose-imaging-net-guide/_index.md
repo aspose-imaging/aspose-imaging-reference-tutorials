@@ -169,7 +169,7 @@ Jeśli chcesz dalej zgłębiać możliwości pakietu Aspose.Imaging, zapoznaj si
 4. **Jakie są najczęstsze problemy przy maskowaniu obrazów?**
    - Do typowych problemów zaliczają się nieprawidłowe definicje ścieżek, nieobsłużone wyjątki lub wąskie gardła wydajnościowe spowodowane dużymi rozmiarami obrazów.
 5. **Gdzie mogę znaleźć pomoc, jeśli mam dalsze pytania?**
-   - Odwiedź [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10) aby uzyskać pomoc od ekspertów społeczności i pracowników Aspose.
+   - Odwiedź [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14) aby uzyskać pomoc od ekspertów społeczności i pracowników Aspose.
 
 ## Zasoby
 - **Dokumentacja**: [Dokumentacja Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)

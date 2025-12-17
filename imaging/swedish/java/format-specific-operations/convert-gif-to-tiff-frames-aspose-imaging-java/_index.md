@@ -215,7 +215,7 @@ I den här handledningen har vi utforskat hur Aspose.Imaging för Java förenkla
 ### Nästa steg
 - Utforska ytterligare konverteringsalternativ som finns i Aspose.Imaging.
 - Integrera den här funktionen i ett större projekt eller arbetsflöde.
-- Dela feedback eller sök stöd från [Aspose community forum](https://forum.aspose.com/c/imaging/10).
+- Dela feedback eller sök stöd från [Aspose community forum](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ-sektion
 
@@ -241,7 +241,7 @@ A5: Utforska [Aspose.Imaging-dokumentation](https://reference.aspose.com/imaging
 - **Köpa:** https://purchase.aspose.com/buy
 - **Gratis provperiod:** https://releases.aspose.com/imaging/java/
 - **Tillfällig licens:** https://purchase.aspose.com/temporary-license/
-- **Stöd:** https://forum.aspose.com/c/imaging/10
+- **Stöd:** https://forum.aspose.com/c/imaging/14
 
 Genom att använda Aspose.Imaging för Java kan du effektivisera dina bildkonverteringsprocesser och låsa upp nya möjligheter inom hantering av digitala medier. Lycka till med kodningen!
 

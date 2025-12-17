@@ -160,7 +160,7 @@ A5: Kesinlikle. Sağlam özellik seti ve performans optimizasyonları onu hem k�
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Talebinde Bulunun](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose.Görüntüleme Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose.Görüntüleme Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kaynaklar ve bu kılavuzla, .NET'te Aspose.Imaging kullanarak DICOM görüntüleriyle çalışmaya başlamak için iyi bir donanıma sahip olacaksınız. İyi kodlamalar!
 

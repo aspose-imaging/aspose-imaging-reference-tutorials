@@ -183,7 +183,7 @@ Klaar om deze oplossing te implementeren? Duik nu in de code!
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Probeer gratis](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Omarm de kracht van Aspose.Imaging voor Java en verhoog uw beeldverwerkingstaken met gemak en precisie!
 

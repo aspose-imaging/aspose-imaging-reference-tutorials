@@ -173,7 +173,7 @@ Aspose.Imaging'in yeteneklerini daha fazla keşfetmek için kapsamlı belgelerin
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Sürümü](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Bilgileri](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Aspose.Imaging for Java ile JPEG görüntü kalitesini yönetmek için sağlam bir çözüm uygulama yolunda iyi bir mesafe kat etmiş olacaksınız. İyi kodlamalar!
 

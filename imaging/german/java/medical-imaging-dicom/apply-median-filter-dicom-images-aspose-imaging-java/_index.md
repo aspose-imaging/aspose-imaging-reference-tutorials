@@ -185,7 +185,7 @@ A: Verwenden Sie unterschiedliche `ImageOptions` Von Aspose.Imaging bereitgestel
 - **Lizenz erwerben**: [Jetzt kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Erste Schritte](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Hier bewerben](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum**: [Aspose.Imaging-Unterstützung](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum**: [Aspose.Imaging-Unterstützung](https://forum.aspose.com/c/imaging/14)
 
 Entdecken Sie noch heute die leistungsstarken Bildverarbeitungsfunktionen von Aspose.Imaging für Java!
 

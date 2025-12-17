@@ -190,7 +190,7 @@ W kolejnych krokach rozważ zbadanie dodatkowych funkcji, takich jak zmiana rozm
 - **Zakup:** [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Aspose.Imaging Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa:** [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie:** [Forum obrazowania Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie:** [Forum obrazowania Aspose](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij przygodę z zaawansowanym przetwarzaniem obrazu dzięki Aspose.Imaging for Java i odkryj nowy potencjał swoich aplikacji!
 

@@ -138,7 +138,7 @@ A: Beginnen Sie mit einer kostenlosen Testversion oder fordern Sie eine temporä
 - **Kauflizenz:** [Jetzt kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Erste Schritte](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz:** [Hier anfordern](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum:** [Aspose.Imaging Gemeinschaft](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum:** [Aspose.Imaging Gemeinschaft](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

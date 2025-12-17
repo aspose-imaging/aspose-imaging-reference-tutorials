@@ -173,7 +173,7 @@ try {
 - **شراء:** [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [ابدأ التجربة المجانية](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة:** [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم:** [منتدى دعم Aspose Imaging](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم:** [منتدى دعم Aspose Imaging](https://forum.aspose.com/c/imaging/14)
 
 لا تتردد في استكشاف هذه الموارد ودمج Aspose.Imaging في مشاريعك للحصول على إمكانيات معالجة الصور بسلاسة.
 

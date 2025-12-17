@@ -213,7 +213,7 @@ Klaar om wat je hebt geleerd in de praktijk te brengen? Probeer deze functies va
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefversie](https://releases.aspose.com/imaging/java/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Ga op reis met Aspose.Imaging voor Java en ontgrendel het volledige potentieel van beeldmanipulatie in uw applicaties!
 

@@ -194,7 +194,7 @@ Redo att ta dina bildbehandlingskunskaper till nästa nivå? Försök att implem
 - **Köpa**Erhåll en fullständig licens genom [Asposes köpsida](https://purchase.aspose.com/buy).
 - **Gratis provperiod**Börja med en gratis provperiod för att utforska funktioner på [Aspose-nedladdningar](https://releases.aspose.com/imaging/java/).
 - **Tillfällig licens**Ansök om en tillfällig licens för utökad provning på [Aspose tillfällig licens](https://purchase.aspose.com/temporary-license/).
-- **Stöd**Gå med i gemenskapen och sök hjälp med [Aspose-forumet](https://forum.aspose.com/c/imaging/10).
+- **Stöd**Gå med i gemenskapen och sök hjälp med [Aspose-forumet](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

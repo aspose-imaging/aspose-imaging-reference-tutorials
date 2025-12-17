@@ -155,7 +155,7 @@ Siap untuk menyelami lebih dalam? Cobalah terapkan teknik-teknik ini hari ini!
    Ya, dapat digunakan dalam pengaturan produksi apa pun setelah membeli lisensi.
 
 5. **Apakah ada dukungan yang tersedia untuk memecahkan masalah dengan Aspose.Imaging?**
-   Ya, Anda dapat mencari bantuan dari [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+   Ya, Anda dapat mencari bantuan dari [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Sumber daya
 - **Dokumentasi:** https://reference.aspose.com/imaging/net/
@@ -163,7 +163,7 @@ Siap untuk menyelami lebih dalam? Cobalah terapkan teknik-teknik ini hari ini!
 - **Pembelian:** https://purchase.aspose.com/beli
 - **Uji Coba Gratis:** https://releases.aspose.com/imaging/net/
 - **Lisensi Sementara:** https://purchase.aspose.com/lisensi-sementara/
-- **Mendukung:** https://forum.aspose.com/c/imaging/10
+- **Mendukung:** https://forum.aspose.com/c/imaging/14
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

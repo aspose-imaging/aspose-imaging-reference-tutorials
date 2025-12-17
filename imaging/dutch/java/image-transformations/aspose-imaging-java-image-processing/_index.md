@@ -183,7 +183,7 @@ Wij moedigen u aan om deze oplossingen in uw projecten te implementeren en te on
 - **Aankoop**:Overweeg de aanschaf van een licentie als u langdurig toegang nodig hebt.
 - **Gratis proefperiode**: Begin met een gratis proefperiode om de functies te verkennen op [Aspose gratis proefperiode](https://releases.aspose.com/imaging/java/).
 - **Tijdelijke licentie**: Verkrijg een tijdelijke licentie voor uitgebreide evaluatie van [Aspose Tijdelijke Licentie](https://purchase.aspose.com/temporary-license/).
-- **Steun**: Doe mee aan discussies en krijg hulp op de [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Steun**: Doe mee aan discussies en krijg hulp op de [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Veel plezier met coderen en ik hoop dat uw beeldverwerkingstaken soepel en efficiënt verlopen!
 

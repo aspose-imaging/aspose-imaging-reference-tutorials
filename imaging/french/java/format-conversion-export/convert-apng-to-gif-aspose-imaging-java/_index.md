@@ -216,7 +216,7 @@ Félicitations ! Vous avez réussi le processus de chargement, de conversion et
    - Oui, vous pouvez créer des scripts de traitement par lots à l'aide de boucles ou les intégrer à des systèmes de planification de tâches.
 
 5. **Comment puis-je obtenir de l’aide si je rencontre des problèmes ?**
-   - Visitez le [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10) pour obtenir de l'aide et discuter avec d'autres utilisateurs.
+   - Visitez le [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14) pour obtenir de l'aide et discuter avec d'autres utilisateurs.
 
 ## Ressources
 

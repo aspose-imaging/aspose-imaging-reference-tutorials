@@ -203,7 +203,7 @@ Wij moedigen u aan om deze oplossing in uw volgende project te implementeren en 
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proeftoegang](https://releases.aspose.com/imaging/java/)
 - [Een tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u goed toegerust om TIFF-bestanden met meerdere pagina's te maken en te bewerken met Aspose.Imaging voor Java. Veel plezier met coderen!
 

@@ -191,7 +191,7 @@ Az Aspose.Imaging for Java ezen technikáinak elsajátításával hatékonyan ke
 - **Letöltés**A legújabb könyvtári verziók a következő címen találhatók: [Aspose kiadások](https://releases.aspose.com/imaging/java/)
 - **Vásárlás**Teljes körű licenc beszerzése [Aspose vásárlás](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió és ideiglenes licenc**Kezdje a próbákkal itt: [Aspose próbák](https://releases.aspose.com/imaging/java/) és ideiglenes engedélyeket szerezzen be az értékeléshez.
-- **Támogatás**Bármilyen probléma vagy kérdés esetén látogassa meg a következőt: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10) 
+- **Támogatás**Bármilyen probléma vagy kérdés esetén látogassa meg a következőt: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14) 
 
 Most, hogy alaposan ismered az Aspose.Imaging Java használatát képmanipulációs feladatokhoz, nyugodtan fedezz fel további fejlett funkciókat, és fejleszd tovább az alkalmazásaidat!
 

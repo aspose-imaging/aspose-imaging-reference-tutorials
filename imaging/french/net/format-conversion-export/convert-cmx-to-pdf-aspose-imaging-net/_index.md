@@ -175,7 +175,7 @@ A : Vérifiez vos paramètres de rastérisation et de lissage dans le `PdfOptio
 - **Achat**: [Acheter des licences Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Démarrez un essai gratuit d'Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Obtenir une licence temporaire pour Aspose.Imaging](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum d'imagerie Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Soutien**: [Forum d'imagerie Aspose](https://forum.aspose.com/c/imaging/14) 
 
 En suivant ce guide, vous êtes bien équipé pour gérer facilement les conversions CMX en PDF.
 

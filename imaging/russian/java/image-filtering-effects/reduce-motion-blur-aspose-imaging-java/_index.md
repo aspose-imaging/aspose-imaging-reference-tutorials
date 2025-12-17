@@ -237,7 +237,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **Документация:** [Документация по Aspose.Imaging для Java](https://reference.aspose.com/imaging/java/)
 - **Скачать:** [Aspose.Imaging для релизов Java](https://releases.aspose.com/imaging/java/)
 - **Покупка и бесплатная пробная версия:** [Купить или попробовать Aspose.Imaging для Java](https://purchase.aspose.com/buy)
-- **Форум поддержки:** [Сообщество поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- **Форум поддержки:** [Сообщество поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Это всеобъемлющее руководство должно снабдить вас знаниями для эффективного уменьшения размытости изображения при движении с помощью Aspose.Imaging для Java. Удачного кодирования!
 

@@ -201,7 +201,7 @@ Ya dominas los fundamentos de la carga de archivos JPEG y la configuración de p
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Explora estos recursos para profundizar tus conocimientos y mejorar tus capacidades de procesamiento de imágenes con Aspose.Imaging para Java. ¡Que disfrutes programando!
 

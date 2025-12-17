@@ -192,7 +192,7 @@ Aspose.Imaging Java เป็นไลบรารีอันทรงพลั
 - **ซื้อ**- [ซื้อใบอนุญาต Aspose](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [ทดลองใช้ Aspose.Imaging ฟรี](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว**- [ขอคำร้องได้ที่นี่](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน**- [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน**- [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14)
 
 สำรวจทรัพยากรเหล่านี้เพื่อเพิ่มความเข้าใจและขยายขีดความสามารถของ Aspose.Imaging Java ในโปรเจ็กต์ของคุณ ขอให้สนุกกับการเขียนโค้ด!
 

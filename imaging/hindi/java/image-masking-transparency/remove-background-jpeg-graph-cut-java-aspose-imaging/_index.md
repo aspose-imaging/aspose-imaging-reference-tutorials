@@ -212,7 +212,7 @@ public class RemoveBackgroundGraphCut {
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण प्राप्त करें](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 आज ही Aspose.Imaging के साथ अपनी यात्रा शुरू करें और जावा में इमेज प्रोसेसिंग की पूरी क्षमता को अनलॉक करें!
 

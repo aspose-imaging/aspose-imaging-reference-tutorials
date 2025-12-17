@@ -177,7 +177,7 @@ Klaar om te beginnen met implementeren? Duik vol vertrouwen in de wereld van bee
 - **Aankoop:** https://purchase.aspose.com/buy
 - **Gratis proefperiode:** https://releases.aspose.com/imaging/java/
 - **Tijdelijke licentie:** https://purchase.aspose.com/tijdelijke-licentie/
-- **Steun:** https://forum.aspose.com/c/imaging/10
+- **Steun:** https://forum.aspose.com/c/imaging/14
 
 Begin vandaag nog met experimenteren met Aspose.Imaging voor Java en ontdek nieuwe mogelijkheden op het gebied van beeldverwerking!
 

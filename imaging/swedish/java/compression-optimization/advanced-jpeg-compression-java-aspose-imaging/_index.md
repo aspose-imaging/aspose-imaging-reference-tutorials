@@ -211,7 +211,7 @@ A: Använd anpassade buffertstorlekar under laddning för att optimera minnesanv
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Starta en gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden är du väl rustad för att implementera avancerade bildkomprimeringstekniker med Aspose.Imaging för Java. Utforska vidare och integrera dessa metoder i dina projekt för att uppnå optimal prestanda och kvalitet.
 

@@ -244,7 +244,7 @@ Tento tutoriál se zabýval nastavením a používáním Aspose.Imaging pro Javu
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Bezplatná zkušební verze Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum podpory Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum podpory Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Využitím Aspose.Imaging pro Javu můžete bezproblémově integrovat vysoce kvalitní písma a vykreslování textu EMF do svých aplikací, čímž vylepšíte jak funkčnost, tak vizuální atraktivitu.
 

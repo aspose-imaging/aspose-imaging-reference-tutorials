@@ -195,7 +195,7 @@ Další kroky by mohly zahrnovat prozkoumání pokročilejších funkcí Aspose.
 - **Licence k zakoupení:** Informace o možnostech nákupu naleznete na [Nákup Aspose](https://purchase.aspose.com/buy).
 - **Bezplatná zkušební verze:** Začněte zkušební verzí, abyste si otestovali funkce.
 - **Dočasná licence:** Získejte dočasný přístup pro delší testování.
-- **Fórum podpory:** Získejte pomoc a sdílejte poznatky o [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10).
+- **Fórum podpory:** Získejte pomoc a sdílejte poznatky o [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14).
 
 Dodržováním tohoto tutoriálu jste si osvojili cenné dovednosti v oblasti zpracování obrazu pomocí Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

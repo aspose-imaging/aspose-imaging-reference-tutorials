@@ -141,7 +141,7 @@ Jste připraveni to vyzkoušet? Implementujte toto řešení ve svém dalším p
 - **Nákup**: [Získejte licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začněte s bezplatnou zkušební verzí](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Podpora Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Podpora Aspose](https://forum.aspose.com/c/imaging/14)
 
 Tento tutoriál vás provede efektivním používáním knihovny Aspose.Imaging pro .NET a zajistí, že z této výkonné knihovny vytěžíte maximum. Přeji vám příjemné programování!
 

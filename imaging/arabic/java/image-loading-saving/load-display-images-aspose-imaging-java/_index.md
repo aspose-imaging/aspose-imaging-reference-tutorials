@@ -173,7 +173,7 @@ license.setLicense("path_to_your_license.lic");
 - **شراء**: https://purchase.aspose.com/buy
 - **نسخة تجريبية مجانية**: https://releases.aspose.com/imaging/java/
 - **رخصة مؤقتة**: https://purchase.aspose.com/temporary-license/
-- **يدعم**: https://forum.aspose.com/c/imaging/10
+- **يدعم**: https://forum.aspose.com/c/imaging/14
 
 باتباع هذا الدليل، ستكون على الطريق الصحيح لإدارة الصور بفعالية في تطبيقات Java باستخدام Aspose.Imaging. برمجة ممتعة!
 

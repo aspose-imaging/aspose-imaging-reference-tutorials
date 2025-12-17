@@ -184,7 +184,7 @@ A5: Sprawdź dokładnie swój kod pod kątem błędów składniowych i upewnij s
 - **Zakup**:Uzyskaj licencję w [Strona zakupu Aspose](https://purchase.aspose.com/buy).
 - **Bezpłatna wersja próbna**:Rozpocznij bezpłatny okres próbny za pośrednictwem [Próby Aspose](https://releases.aspose.com/imaging/java/).
 - **Licencja tymczasowa**:Uzyskaj tymczasową licencję od [Udzielanie licencji](https://purchase.aspose.com/temporary-license/).
-- **Wsparcie**:Szukaj pomocy w [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Wsparcie**:Szukaj pomocy w [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Dzięki temu przewodnikowi jesteś teraz przygotowany do obsługi rotacji obrazów DICOM w Javie z pewnością siebie. Miłego kodowania!
 

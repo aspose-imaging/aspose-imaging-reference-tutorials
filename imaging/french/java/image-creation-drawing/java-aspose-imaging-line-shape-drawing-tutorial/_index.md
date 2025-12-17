@@ -241,7 +241,7 @@ Vous avez appris à utiliser la bibliothèque Aspose.Imaging pour dessiner des l
 - [Options d'achat](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/java/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance](https://forum.aspose.com/c/imaging/14)
 
 Maintenant que vous disposez d'un guide complet pour implémenter les fonctionnalités de dessin avec Aspose.Imaging pour Java, commencez à expérimenter et à intégrer ces techniques à vos projets. Bon codage !
 

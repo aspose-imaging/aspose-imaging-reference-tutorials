@@ -252,7 +252,7 @@ A: केवल आवश्यक फ्रेम लोड करें, ऑ�
 - **खरीदें:** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
 - **फ़्री ट्रायल:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **सपोर्ट फ़ोरम:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **सपोर्ट फ़ोरम:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 ---
 

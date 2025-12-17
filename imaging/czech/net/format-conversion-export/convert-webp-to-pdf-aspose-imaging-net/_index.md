@@ -160,7 +160,7 @@ Dodržováním tohoto návodu jste se naučili, jak převádět obrázky WebP do
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatný zkušební přístup](https://releases.aspose.com/imaging/net/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 S tímto komplexním průvodcem jste nyní vybaveni k využití Aspose.Imaging pro .NET ve svých projektech. Přejeme vám příjemné programování!
 

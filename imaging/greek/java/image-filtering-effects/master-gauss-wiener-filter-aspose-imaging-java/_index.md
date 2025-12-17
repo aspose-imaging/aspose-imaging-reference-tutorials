@@ -212,7 +212,7 @@ if (image != null) {
 - **Αγορά**: [Αγοράστε τώρα](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αίτημα εδώ](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ Υποστήριξης**: [Κοινότητα Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ Υποστήριξης**: [Κοινότητα Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Ελπίζουμε ότι αυτός ο οδηγός θα σας δώσει τη δυνατότητα να βελτιώσετε τα έργα σας με εξελιγμένες δυνατότητες επεξεργασίας εικόνας. Καλή κωδικοποίηση!
 

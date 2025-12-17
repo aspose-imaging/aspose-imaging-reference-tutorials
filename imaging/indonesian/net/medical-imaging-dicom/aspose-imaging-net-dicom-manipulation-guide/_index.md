@@ -126,7 +126,7 @@ A: Operasi akan gagal, jadi disarankan untuk memeriksa apakah tag tersebut ada s
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**:Untuk pertanyaan, kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**:Untuk pertanyaan, kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan panduan lengkap ini, Anda siap untuk mulai memanfaatkan Aspose.Imaging for .NET dalam proyek manipulasi gambar DICOM Anda. Selamat membuat kode!
 

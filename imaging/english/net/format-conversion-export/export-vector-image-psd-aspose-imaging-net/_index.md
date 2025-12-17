@@ -172,7 +172,7 @@ As a next step, consider experimenting with other formats supported by Aspose.Im
 - **Purchase**: Buy a license through [Aspose Purchase Portal](https://purchase.aspose.com/buy).
 - **Free Trial**: Start with a free trial via [Downloads](https://releases.aspose.com/imaging/net/).
 - **Temporary License**: Request one [here](https://purchase.aspose.com/temporary-license/).
-- **Support**: Join the community in [Aspose Forums](https://forum.aspose.com/c/imaging/10) for help and discussions.
+- **Support**: Join the community in [Aspose Forums](https://forum.aspose.com/c/imaging/14) for help and discussions.
 
 We hope this guide helps you integrate vector image export functionality into your projects. Happy coding!
 

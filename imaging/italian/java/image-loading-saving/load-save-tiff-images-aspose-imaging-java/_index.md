@@ -171,7 +171,7 @@ In questo tutorial abbiamo esplorato come caricare e salvare in modo efficace le
 - **Acquistare**: [Acquista Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Inizia la prova gratuita](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea**: [Richiedi licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 Questo tutorial ti fornirà le conoscenze necessarie per implementare in modo efficiente l'elaborazione delle immagini TIFF nelle tue applicazioni Java. Buon lavoro!
 

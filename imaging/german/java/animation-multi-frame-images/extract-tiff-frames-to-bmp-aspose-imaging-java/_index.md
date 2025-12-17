@@ -174,7 +174,7 @@ Herzlichen Glückwunsch zur erfolgreichen Konvertierung von TIFF-Frames in BMP-D
 - [Lizenzen erwerben](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Begeben Sie sich auf Ihre Reise zur Beherrschung der Bildverarbeitung mit Aspose.Imaging Java und entdecken Sie neue Möglichkeiten im Umgang mit TIFF-Bildern.
 

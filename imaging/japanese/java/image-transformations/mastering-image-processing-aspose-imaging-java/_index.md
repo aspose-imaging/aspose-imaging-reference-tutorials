@@ -182,7 +182,7 @@ Aspose.Imaging のメモリ管理技術を使用して、大きな画像を処�
 - **購入：** [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [Aspose.Imaging 無料トライアル](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Aspose フォーラム サポート](https://forum.aspose.com/c/imaging/10) 
+- **サポート：** [Aspose フォーラム サポート](https://forum.aspose.com/c/imaging/14) 
 
 この包括的なガイドがあれば、Aspose.Imaging for Java をプロジェクトで活用するための準備が整います。コーディングを楽しみましょう！
 

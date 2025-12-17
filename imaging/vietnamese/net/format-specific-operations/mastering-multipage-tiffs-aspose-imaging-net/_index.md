@@ -158,7 +158,7 @@ Sau đây là một số câu hỏi thường gặp mà bạn có thể có:
 - [Mua](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn toàn diện này sẽ trang bị cho bạn kiến thức để sử dụng hiệu quả Aspose.Imaging cho .NET trong các dự án của bạn. Chúc bạn viết mã vui vẻ!
 

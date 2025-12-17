@@ -168,7 +168,7 @@ Aspose.Imaging'in daha fazla özelliğini keşfedin veya bu yetenekleri mevcut p
 - [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - [Aspose.Imaging'in Ücretsiz Denemesi](https://releases.aspose.com/imaging/net/)
 - [Değerlendirme için Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu eğitim, Aspose.Imaging .NET kullanarak TIFF görüntülerini etkili bir şekilde işlemeniz için gereken araçları size sağladı. Bu teknikleri projelerinizde uygulamaya başlayın ve bu güçlü kütüphanenin sunduğu diğer olasılıkları keşfedin!
 

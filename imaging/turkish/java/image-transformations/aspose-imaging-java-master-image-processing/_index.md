@@ -209,7 +209,7 @@ Yaygın sorunlar arasında yanlış yol yapılandırmaları ve desteklenmeyen do
 
 **5. Sorunla karşılaşırsam nasıl destek alabilirim?**
 
-Ziyaret etmek [Aspose Desteği](https://forum.aspose.com/c/imaging/10) Topluluktan yardım istemek veya doğrudan daha fazla yardıma ulaşmak.
+Ziyaret etmek [Aspose Desteği](https://forum.aspose.com/c/imaging/14) Topluluktan yardım istemek veya doğrudan daha fazla yardıma ulaşmak.
 
 ## Kaynaklar
 

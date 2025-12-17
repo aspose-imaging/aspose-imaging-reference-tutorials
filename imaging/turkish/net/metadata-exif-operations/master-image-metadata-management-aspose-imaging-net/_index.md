@@ -195,7 +195,7 @@ Sonraki adımlar arasında bu çözümlerin daha büyük projelere entegre edilm
 - **Satın almak:** [Lisans satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans:** [Buradan edinin](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Topluluk Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Topluluk Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzun, Aspose.Imaging for .NET kullanarak görüntü meta verilerini güvenle yönetmenizi sağlayacağını umuyoruz. İyi kodlamalar!
 

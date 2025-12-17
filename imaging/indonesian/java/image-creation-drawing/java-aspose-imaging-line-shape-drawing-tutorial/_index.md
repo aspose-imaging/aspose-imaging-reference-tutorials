@@ -241,7 +241,7 @@ Anda telah mempelajari cara memanfaatkan pustaka Aspose.Imaging untuk menggambar
 - [Opsi Pembelian](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Sekarang Anda memiliki panduan lengkap untuk mengimplementasikan fitur menggambar dengan Aspose.Imaging untuk Java, mulailah bereksperimen dan integrasikan teknik ini ke dalam proyek Anda. Selamat membuat kode!
 

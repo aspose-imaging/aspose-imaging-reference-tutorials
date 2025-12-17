@@ -161,7 +161,7 @@ Los próximos pasos podrían incluir la integración de esta función en una apl
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/net/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 ¡Pruebe implementar estas técnicas en su próximo proyecto y vea cómo Aspose.Imaging for .NET puede mejorar sus capacidades de procesamiento de imágenes!
 

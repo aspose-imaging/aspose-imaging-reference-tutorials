@@ -186,7 +186,7 @@ A5: Follow the steps outlined under license acquisition to obtain and activate y
 - **Purchase**: [Buy License](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start Here](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Request Now](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Community Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Community Forum](https://forum.aspose.com/c/imaging/14)
 
 By leveraging these resources, you can further explore the capabilities of Aspose.Imaging and address any challenges you encounter during implementation. Happy coding!
 

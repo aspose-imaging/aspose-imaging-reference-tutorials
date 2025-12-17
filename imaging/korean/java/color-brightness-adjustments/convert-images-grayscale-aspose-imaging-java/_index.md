@@ -188,7 +188,7 @@ Aspose.Imaging for Java를 사용하여 이미지를 회색조로 효과적으�
 - **다운로드**: 최신 버전을 받으세요 [Aspose.Imaging 릴리스](https://releases.aspose.com/imaging/java/)
 - **구매 및 체험**: 구매 옵션에 대해 알아보고 무료 체험판을 시작하세요 [여기](https://purchase.aspose.com/buy)
 - **임시 면허**: 임시면허 취득 [여기](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: 커뮤니티 포럼에 참여하세요 [Aspose 이미징 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: 커뮤니티 포럼에 참여하세요 [Aspose 이미징 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드가 여러분의 프로젝트에서 Aspose.Imaging for Java를 효과적으로 활용하는 데 도움이 되기를 바랍니다. 즐거운 코딩 되세요!
 

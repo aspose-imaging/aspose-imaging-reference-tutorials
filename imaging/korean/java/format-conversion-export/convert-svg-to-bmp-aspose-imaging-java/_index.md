@@ -161,7 +161,7 @@ SVG를 BMP로 변환하는 것이 매우 유용한 실제 시나리오는 다음
    - 비트맵 구성을 조정하세요 `BmpOptions` 출력 품질 설정을 조정합니다.
 
 5. **문제가 발생하면 어디에서 지원을 받을 수 있나요?**
-   - 방문하세요 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10) 지역사회 및 전문가의 지원을 위해.
+   - 방문하세요 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14) 지역사회 및 전문가의 지원을 위해.
 
 ## 자원
 

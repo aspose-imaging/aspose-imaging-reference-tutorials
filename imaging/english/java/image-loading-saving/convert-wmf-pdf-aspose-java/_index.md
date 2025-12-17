@@ -210,7 +210,7 @@ In this tutorial, you've learned how to convert WMF files to PDF using Aspose.Im
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/java/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Support Forum](https://forum.aspose.com/c/imaging/14)
 
 By mastering these steps, you're well-equipped to handle WMF-to-PDF conversions with ease. Happy coding!
 

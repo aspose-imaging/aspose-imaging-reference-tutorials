@@ -177,7 +177,7 @@ File.Delete(outputFilePath1);
 - **شراء ترخيص**: [صفحة شراء Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جرب Aspose.Imaging مجانًا](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **الدعم والمجتمع**: [منتديات أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **الدعم والمجتمع**: [منتديات أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

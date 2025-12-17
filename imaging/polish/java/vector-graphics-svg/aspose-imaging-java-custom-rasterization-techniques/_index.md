@@ -231,7 +231,7 @@ tym samouczku nauczyłeś się, jak ustawić domyślną czcionkę w swojej aplik
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Postępując zgodnie z tym przewodnikiem, będziesz dobrze wyposażony do obsługi złożonych zadań przetwarzania obrazu w Javie przy użyciu Aspose.Imaging. Miłego kodowania!
 

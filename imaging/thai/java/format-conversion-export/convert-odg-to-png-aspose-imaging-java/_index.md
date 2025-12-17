@@ -189,7 +189,7 @@ image.save(outFileName, new PngOptions() {
 - **ซื้อ:** [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี:** [ลองใช้ Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว:** [การขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **ฟอรั่มการสนับสนุน:** [ชุมชนสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- **ฟอรั่มการสนับสนุน:** [ชุมชนสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 คู่มือนี้ได้รับการออกแบบมาเพื่อช่วยให้คุณผสาน Aspose.Imaging เข้ากับโปรเจ็กต์ Java ของคุณได้อย่างราบรื่น ช่วยให้มั่นใจได้ว่าจะได้ภาพที่มีคุณภาพสูงทุกครั้ง ขอให้สนุกกับการเขียนโค้ด!
 

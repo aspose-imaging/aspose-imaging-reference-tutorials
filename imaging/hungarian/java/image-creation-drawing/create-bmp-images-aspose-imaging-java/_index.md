@@ -170,7 +170,7 @@ A3: Használjon hatékony memóriakezelési technikákat, például a „try-wit
 V4: Igen, az Aspose.Imaging más Java könyvtárakkal együtt használható átfogó képfeldolgozási megoldásokhoz.
 
 **5. kérdés: Hol kaphatok támogatást, ha problémákba ütközöm?**
-A5: Látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10) segítségért és közösségi útmutatásért.
+A5: Látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14) segítségért és közösségi útmutatásért.
 
 ## Erőforrás
 

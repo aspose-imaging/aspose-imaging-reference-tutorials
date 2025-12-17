@@ -200,7 +200,7 @@ I prossimi passi prevedono l'esplorazione di funzionalità aggiuntive della libr
    - Utilizzare il `Metered.getConsumptionQuantity()` metodo prima e dopo l'elaborazione delle immagini per tracciarne l'utilizzo.
 
 5. **C'è supporto disponibile se riscontro problemi?**
-   - Visita [Forum Aspose](https://forum.aspose.com/c/imaging/10) per ricevere assistenza dagli esperti della comunità.
+   - Visita [Forum Aspose](https://forum.aspose.com/c/imaging/14) per ricevere assistenza dagli esperti della comunità.
 
 ## Risorse
 

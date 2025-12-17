@@ -129,7 +129,7 @@ Du har nu bemästrat hur man laddar en bild och exporterar den till WebP med hj�
 ### Nästa steg
 - Experimentera med olika exportalternativ, som att justera kvalitetsnivåer.
 - Utforska hur man integrerar Aspose.Imaging i större projekt eller arbetsflöden.
-- Engagera dig med samhället på [Aspose-forumet](https://forum.aspose.com/c/imaging/10) för stöd och idéer.
+- Engagera dig med samhället på [Aspose-forumet](https://forum.aspose.com/c/imaging/14) för stöd och idéer.
 
 ## FAQ-sektion
 
@@ -154,7 +154,7 @@ Se till att dina sökvägar är korrekta och att indatafilen finns. Kontrollera 
 - **Köpa:** [Köp en licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Börja här](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens:** [Begär en](https://purchase.aspose.com/temporary-license/)
-- **Supportforum:** [Aspose-stöd](https://forum.aspose.com/c/imaging/10)
+- **Supportforum:** [Aspose-stöd](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din bildbehandlingsresa med tillförsikt med Aspose.Imaging .NET och utforska oändliga möjligheter inom digital bildbehandling.
 

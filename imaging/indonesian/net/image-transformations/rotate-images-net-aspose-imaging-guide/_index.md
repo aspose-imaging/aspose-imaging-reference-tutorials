@@ -156,7 +156,7 @@ Untuk bacaan lebih lanjut dan bantuan:
 - **Pembelian**: [Beli Lisensi](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Aspose.Imaging Sekarang](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Minta di sini](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**:Kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/10) untuk bantuan dan diskusi komunitas.
+- **Mendukung**:Kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/14) untuk bantuan dan diskusi komunitas.
 
 Dengan menguasai teknik-teknik ini, Anda akan siap untuk menangani berbagai tugas pemrosesan gambar dengan percaya diri. Selamat membuat kode!
 

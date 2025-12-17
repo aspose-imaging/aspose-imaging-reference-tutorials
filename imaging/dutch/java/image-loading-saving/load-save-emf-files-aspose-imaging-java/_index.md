@@ -196,7 +196,7 @@ Gebruik altijd try-catch-blokken om mogelijke IOExceptions of andere runtime-uit
 - **Aankoop**: Voor een volledige licentie, bezoek [Koop Aspose.Imaging](https://purchase.aspose.com/buy).
 - **Gratis proefperiode**: Begin met een proefperiode bij [Aspose.Imaging gratis downloads](https://releases.aspose.com/imaging/java/).
 - **Tijdelijke licentie**: Vraag een tijdelijke licentie aan bij [Aspose-licentiepagina](https://purchase.aspose.com/temporary-license/).
-- **Steun**: Doe mee aan de discussie op [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Steun**: Doe mee aan de discussie op [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Met deze bronnen bent u goed toegerust om dieper in beeldverwerking te duiken met Aspose.Imaging voor Java. Veel plezier met coderen!
 

@@ -247,7 +247,7 @@ public class SaveAsPNGExample {
 - [Покупка](https://purchase.aspose.com/buy)
 - [Бесплатная пробная версия](https://releases.aspose.com/imaging/java/)
 - [Временная лицензия](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки](https://forum.aspose.com/c/imaging/14)
 
 Следуя этому всеобъемлющему руководству, вы будете хорошо подготовлены к интеграции расширенных возможностей обработки изображений в ваши приложения Java с помощью Aspose.Imaging. Удачного кодирования!
 

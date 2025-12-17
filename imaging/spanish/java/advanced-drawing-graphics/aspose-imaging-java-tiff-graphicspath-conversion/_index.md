@@ -252,7 +252,7 @@ Ahora dominas cómo convertir recursos de ruta de TIFF en objetos `GraphicsPath`
 - **Compra:** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Foro de soporte:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Foro de soporte:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 ---
 

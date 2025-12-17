@@ -199,7 +199,7 @@ Félicitations ! Vous avez appris à charger, manipuler et enregistrer des imag
    - Il prend en charge plus de 50 formats d'image, notamment JPEG, PNG, TIFF, etc.
 
 5. **Comment puis-je obtenir de l’aide si je rencontre des problèmes ?**
-   - Visite [Forum d'Aspose](https://forum.aspose.com/c/imaging/10) pour obtenir du soutien et des conseils communautaires.
+   - Visite [Forum d'Aspose](https://forum.aspose.com/c/imaging/14) pour obtenir du soutien et des conseils communautaires.
 
 ## Ressources
 

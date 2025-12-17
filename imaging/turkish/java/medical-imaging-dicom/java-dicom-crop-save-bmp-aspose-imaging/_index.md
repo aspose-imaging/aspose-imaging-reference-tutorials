@@ -220,7 +220,7 @@ Bu eğitimde, Aspose.Imaging for Java kullanarak DICOM görüntülerini nasıl y
 - **Satın almak**: [Aspose Lisansını Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose Ücretsiz Denemeler](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı kılavuzla artık Aspose.Imaging kullanarak Java'da DICOM görüntü işlemeyi uygulamak için donanımlısınız. İyi kodlamalar!
 

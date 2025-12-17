@@ -145,7 +145,7 @@ In questo tutorial, hai imparato come applicare la compressione GIF con perdita 
 - **Acquistare**: [Acquista una licenza](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Provalo](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea**: [Ottieni una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: [Fai domande](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: [Fai domande](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

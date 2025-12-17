@@ -247,7 +247,7 @@ In deze tutorial heb je geleerd hoe je EMF-afbeeldingen naadloos kunt bewerken m
 - [Aankoop](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Door deze uitgebreide handleiding te volgen, bent u goed toegerust om geavanceerde beeldverwerkingsmogelijkheden te integreren in uw Java-applicaties met Aspose.Imaging. Veel plezier met coderen!
 

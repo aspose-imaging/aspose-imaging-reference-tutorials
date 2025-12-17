@@ -177,7 +177,7 @@ public static void CheckJpegSavedQuality()
 - **购买：** [购买许可证](https://purchase.aspose.com/buy)
 - **免费试用：** [尝试 Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **临时执照：** [获取临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 自信地开始您的下一个图像处理项目，因为您知道您拥有正确的工具和知识来确保最佳的 JPEG 质量设置。
 

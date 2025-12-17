@@ -160,7 +160,7 @@ Bereit, tiefer einzutauchen? Versuchen Sie, diese Lösungen in Ihrem nächsten P
 - **Kaufen:** [Aspose-Lizenzierung kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Kostenlose Testversion starten](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Beantragung einer temporären Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Aspose Forum-Support](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** [Aspose Forum-Support](https://forum.aspose.com/c/imaging/14)
 
 Wenn Sie dieser Anleitung folgen, sind Sie auf dem besten Weg, die SVG-Bildverarbeitung in Java mit Aspose.Imaging zu meistern. Viel Spaß beim Programmieren!
 

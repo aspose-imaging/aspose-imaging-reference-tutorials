@@ -148,7 +148,7 @@ Aspose.Imaging for .NET は、画像の読み取り、書き込み、操作な�
 - **購入：** [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料トライアルから始める](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス:** [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Aspose フォーラム サポート](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Aspose フォーラム サポート](https://forum.aspose.com/c/imaging/14)
 
 このガイドは、.NET プロジェクトで Aspose.Imaging の潜在能力を最大限に活用できるよう設計されています。コーディングを楽しみましょう！
 

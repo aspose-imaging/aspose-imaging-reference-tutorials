@@ -237,7 +237,7 @@ Daha fazla araştırma ve destek için aşağıdaki kaynaklara bakın:
 - **Belgeler:** [Java için Aspose.Imaging Belgeleri](https://reference.aspose.com/imaging/java/)
 - **İndirmek:** [Java Sürümleri için Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Satın Al & Ücretsiz Deneme:** [Java için Aspose.Imaging'i satın alın veya deneyin](https://purchase.aspose.com/buy)
-- **Destek Forumu:** [Aspose Destek Topluluğu](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu:** [Aspose Destek Topluluğu](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı kılavuz, Aspose.Imaging for Java kullanarak görüntülerinizdeki hareket bulanıklığını etkili bir şekilde azaltmanız için gereken bilgiyle sizi donatmalıdır. İyi kodlamalar!
 

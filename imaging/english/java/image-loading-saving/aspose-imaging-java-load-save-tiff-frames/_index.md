@@ -218,7 +218,7 @@ In this tutorial, we've covered the essentials of loading, copying, and saving T
 - **Purchase**: Buy a license for commercial use at [this link](https://purchase.aspose.com/buy)
 - **Free Trial**: Start with a free trial to test features at [Aspose's website](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: Obtain a temporary license for extended evaluation from [here](https://purchase.aspose.com/temporary-license/)
-- **Support**: Join discussions or seek help on the [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: Join discussions or seek help on the [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

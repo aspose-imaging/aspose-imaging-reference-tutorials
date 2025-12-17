@@ -171,7 +171,7 @@ objImage.Save(outputDir);
 - **क्रय लाइसेंस:** [अभी खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [अपना निःशुल्क परीक्षण प्राप्त करें](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस:** [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच:** [Aspose.Imaging समर्थन](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच:** [Aspose.Imaging समर्थन](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

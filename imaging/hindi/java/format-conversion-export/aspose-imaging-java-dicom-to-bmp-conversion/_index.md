@@ -179,7 +179,7 @@ Aspose.Imaging for Java के साथ काम करते समय:
 - [खरीद विकल्प](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड का पालन करके, अब आप Aspose.Imaging for Java का उपयोग करके DICOM छवियों को संभालने के लिए अच्छी तरह से सुसज्जित हो जाएंगे। हैप्पी कोडिंग!
 

@@ -196,7 +196,7 @@ Aspose.Imaging を使用して TIFF イメージを読み込むと便利な実�
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを活用して理解を深め、アプリケーションの画像処理機能をさらに強化しましょう。コーディングを楽しみましょう！
 

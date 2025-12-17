@@ -177,7 +177,7 @@ try (Image image = Image.load(inputFileName)) {
 - [شراء الترخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 مع هذا الدليل، أنت جاهز تمامًا لبدء استخدام Aspose.Imaging لـ Java في مشاريعك. برمجة ممتعة!
 

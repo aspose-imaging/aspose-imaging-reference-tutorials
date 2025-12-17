@@ -165,7 +165,7 @@ Vid det här laget bör du ha en god förståelse för hur man laddar TIFF-bilde
 - **Köpa**Utforska köpalternativ på [Asposes köpsida](https://purchase.aspose.com/buy)
 - **Gratis provperiod**Börja med en gratis provperiod tillgänglig [här](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**Ansök om ett tillfälligt körkort på [Sida för tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**Delta i diskussioner och sök hjälp på [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd**Delta i diskussioner och sök hjälp på [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din resa mot att bemästra Aspose.Imaging i Java idag och förändra hur du hanterar bildbehandlingsuppgifter!
 

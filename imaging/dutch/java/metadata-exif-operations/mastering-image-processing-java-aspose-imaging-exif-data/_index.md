@@ -217,7 +217,7 @@ Volgende stappen? Probeer deze technieken in uw projecten te implementeren en on
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Nu u over alle tools en kennis beschikt, is het tijd om deze krachtige functies in uw Java-applicaties te implementeren!
 

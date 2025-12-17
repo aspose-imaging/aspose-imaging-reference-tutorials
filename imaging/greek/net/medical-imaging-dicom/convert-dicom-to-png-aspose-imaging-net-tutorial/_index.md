@@ -153,7 +153,7 @@ image.Save(outputFile, options);
 - **Άδεια Αγοράς:** [Αγοράστε τώρα](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Ξεκινήστε με τη Δωρεάν Δοκιμή](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια:** [Αίτηση για Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ υποστήριξης:** [Υποστήριξη Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ υποστήριξης:** [Υποστήριξη Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Με αυτόν τον οδηγό, είστε πλήρως εξοπλισμένοι για να ενσωματώσετε τη μετατροπή DICOM σε PNG στα έργα .NET σας. Καλή κωδικοποίηση!
 

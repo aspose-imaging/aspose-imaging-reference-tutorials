@@ -201,7 +201,7 @@ finally {
 - [Лицензия на покупку](https://purchase.aspose.com/buy)
 - [Бесплатная пробная загрузка](https://releases.aspose.com/imaging/java/)
 - [Запрос на временную лицензию](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10) 
+- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Следуя этому руководству, вы будете на пути к освоению обработки изображений с помощью Aspose.Imaging Java. Удачного кодирования!
 

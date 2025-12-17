@@ -131,7 +131,7 @@ Per migliorare ulteriormente le tue competenze, valuta la possibilità di esplor
 - **Acquistare**: [Acquista Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Inizia una prova gratuita](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea**: [Richiedi qui](https://purchase.aspose.com/temporary-license/)
-- **Forum di supporto**: [Supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum di supporto**: [Supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

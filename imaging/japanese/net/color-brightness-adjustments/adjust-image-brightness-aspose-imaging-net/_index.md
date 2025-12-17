@@ -172,7 +172,7 @@ A: 技術的には可能ですが、極端な調整を行うと画質が低下�
 - **ライセンスを購入**： [今すぐ購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [始める](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [リクエストはこちら](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [Aspose.Imaging コミュニティ](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [Aspose.Imaging コミュニティ](https://forum.aspose.com/c/imaging/14)
 
 このガイドは、Aspose.Imaging for .NET を使った明るさ調整をマスターするための包括的なリソースとして役立ちます。コーディングを楽しみましょう！
 

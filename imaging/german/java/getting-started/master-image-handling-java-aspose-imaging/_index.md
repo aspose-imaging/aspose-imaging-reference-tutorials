@@ -178,7 +178,7 @@ A5: Obwohl Aspose.Imaging selbst keine festen Grenzen setzt, kann die Verarbeitu
 - [Erwerben Sie eine Lizenz](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Antrag auf eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Wenn Sie dieser Anleitung folgen, können Sie nun mit Aspose.Imaging eine effektive Bildverarbeitung in Ihren Java-Anwendungen implementieren. Viel Spaß beim Programmieren!
 

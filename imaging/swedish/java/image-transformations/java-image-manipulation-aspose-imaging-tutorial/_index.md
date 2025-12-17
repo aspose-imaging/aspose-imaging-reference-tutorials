@@ -213,7 +213,7 @@ Redo att omsätta det du lärt dig i praktiken? Försök att integrera dessa fun
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provversion](https://releases.aspose.com/imaging/java/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din resa med Aspose.Imaging för Java och lås upp den fulla potentialen av bildmanipulation i dina applikationer!
 

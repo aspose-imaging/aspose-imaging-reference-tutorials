@@ -213,7 +213,7 @@ public class FeatureSaveImageAsPng {
 - **Αγορά**: [Αγοράστε προϊόντα Aspose](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δοκιμάστε το Aspose.Imaging δωρεάν](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Κατακτώντας αυτές τις τεχνικές, είστε σε καλό δρόμο για να αξιοποιήσετε το Aspose.Imaging για εξελιγμένες εργασίες επεξεργασίας εικόνας σε Java. Καλή κωδικοποίηση!
 

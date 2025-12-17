@@ -193,7 +193,7 @@ Entdecken Sie weitere Funktionen von Aspose.Imaging, wie z. B. die Formatkonvert
 - [Laden Sie Aspose.Imaging für Java herunter](https://releases.aspose.com/imaging/java/)
 - [Lizenz erwerben](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion und temporäre Lizenz](https://releases.aspose.com/imaging/java/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Begeben Sie sich noch heute auf Ihre Reise mit Aspose.Imaging Java und verändern Sie die Art und Weise, wie Sie Bildverarbeitungsaufgaben erledigen!
 

@@ -162,7 +162,7 @@ A5: Bearbeta bilder sekventiellt och hantera minne effektivt genom att stänga o
 - **Köpa:** [Köp nu](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Börja här](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Gemenskapsforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Gemenskapsforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att utnyttja dessa resurser kan du ytterligare förbättra din förståelse och tillämpning av Aspose.Imaging för Java. Lycka till med kodningen!
 

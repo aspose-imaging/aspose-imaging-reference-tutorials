@@ -159,7 +159,7 @@ RasterImage rasterImage = (RasterImage) image;
    - 常見問題包括檔案路徑不正確或影像類型不相容。請確保您的圖像受 Aspose.Imaging 支援。
 
 **5. 如果遇到問題，我可以在哪裡找到支援？**
-   - 訪問 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10) 尋求社區和 Aspose 專家的幫助。
+   - 訪問 [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14) 尋求社區和 Aspose 專家的幫助。
 
 ## 資源
 

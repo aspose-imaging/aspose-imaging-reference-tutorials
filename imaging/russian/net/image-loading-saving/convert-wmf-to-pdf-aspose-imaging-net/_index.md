@@ -172,7 +172,7 @@ The `Save` Метод выводит преобразованный файл в 
 - [Лицензии на покупку](https://purchase.aspose.com/buy)
 - [Бесплатная пробная версия](https://releases.aspose.com/imaging/net/)
 - [Временная лицензия](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Следуя этому руководству, вы теперь готовы эффективно конвертировать файлы WMF в PDF с помощью Aspose.Imaging for .NET. Удачного кодирования!
 

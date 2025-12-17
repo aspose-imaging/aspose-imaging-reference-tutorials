@@ -148,7 +148,7 @@ Következő lépésként érdemes lehet az Aspose.Imaging egyéb funkcióit is f
 - **Vásárlás**https://purchase.aspose.com/buy
 - **Ingyenes próbaverzió**https://releases.aspose.com/imaging/net/
 - **Ideiglenes engedély**https://purchase.aspose.com/temporary-license/
-- **Támogatás**https://forum.aspose.com/c/imaging/10
+- **Támogatás**https://forum.aspose.com/c/imaging/14
 
 Kezdje el a képfeldolgozás elsajátításának útját még ma az Aspose.Imaging segítségével!
 

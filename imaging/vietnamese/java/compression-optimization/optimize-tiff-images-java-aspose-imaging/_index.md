@@ -191,7 +191,7 @@ Bây giờ bạn đã học cách tải và thay đổi kích thước hình ả
    - Có, nó hỗ trợ nhiều định dạng hình ảnh như JPEG, PNG, BMP, v.v.
 
 5. **Tôi có thể tìm sự hỗ trợ ở đâu nếu gặp vấn đề?**
-   - Ghé thăm [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/10) để được cộng đồng và chính quyền hỗ trợ.
+   - Ghé thăm [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/14) để được cộng đồng và chính quyền hỗ trợ.
 
 ## Tài nguyên
 

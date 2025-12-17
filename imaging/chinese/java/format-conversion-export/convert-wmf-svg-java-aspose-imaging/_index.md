@@ -198,7 +198,7 @@ A4：是的，但有效地管理资源和谨慎使用多线程很重要。
 
 **问题5：如果我遇到 Aspose.Imaging 问题，如何获得更多支持？**
 
-A5：参观 [Aspose 的论坛](https://forum.aspose.com/c/imaging/10) 寻求社区支持或通过购买页面直接联系他们的客户服务。
+A5：参观 [Aspose 的论坛](https://forum.aspose.com/c/imaging/14) 寻求社区支持或通过购买页面直接联系他们的客户服务。
 
 ## 资源
 

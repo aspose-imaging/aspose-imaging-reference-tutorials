@@ -202,7 +202,7 @@ Bạn đã sẵn sàng triển khai các giải pháp này chưa? Hãy tự tin 
    - Sử dụng các thiết lập rasterization phù hợp và theo dõi tài nguyên hệ thống trong quá trình xử lý hàng loạt.
 
 5. **Tôi có thể nhận được hỗ trợ như thế nào nếu gặp vấn đề?**
-   - Ghé thăm [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/10) để được cộng đồng hỗ trợ hoặc liên hệ với nhóm hỗ trợ chuyên nghiệp của họ.
+   - Ghé thăm [Diễn đàn Aspose.Imaging](https://forum.aspose.com/c/imaging/14) để được cộng đồng hỗ trợ hoặc liên hệ với nhóm hỗ trợ chuyên nghiệp của họ.
 
 ## Tài nguyên
 

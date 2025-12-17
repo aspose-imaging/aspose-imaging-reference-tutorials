@@ -256,7 +256,7 @@ Je hebt geleerd hoe je JPEG-afbeeldingen met CMYK- en YCCK-profielen kunt opslaa
 - **Aankoop:** [Aspose-licenties](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Aan de slag](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Vraag een tijdelijke vergunning aan](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, kunt u Aspose.Imaging Java effectief gebruiken om JPEG-afbeeldingen in uw projecten te beheren en te converteren. Probeer het vandaag nog!
 

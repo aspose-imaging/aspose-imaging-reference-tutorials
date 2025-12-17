@@ -223,7 +223,7 @@ A5: Asegúrese de almacenar en caché las imágenes después de cargarlas, redim
 - **Compra**: [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Prueba gratuita de Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal**: [Obtenga una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Foro de Aspose.Imaging](https://forum.aspose.com/c/imaging/10) 
+- **Apoyo**: [Foro de Aspose.Imaging](https://forum.aspose.com/c/imaging/14) 
 
 Con esta guía completa, estarás bien preparado para integrar Aspose.Imaging en tus proyectos Java y gestionar imágenes de forma eficiente. ¡Que disfrutes programando!
 

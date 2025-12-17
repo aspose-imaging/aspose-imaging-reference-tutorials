@@ -213,7 +213,7 @@ A5: Aspose.Imaging 與大多數 Java 框架相容。您可以輕鬆地將其整�
 - **下載**：從取得最新版本 [Aspose.Imaging 發布](https://releases.aspose.com/imaging/java/)
 - **購買**：取得許可證 [Aspose 購買頁面](https://purchase.aspose.com/buy)
 - **免費試用**：使用臨時許可證測試功能 [Aspose 免費試用](https://releases.aspose.com/imaging/java/)
-- **支援**：加入討論 [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**：加入討論 [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 立即開始使用 Aspose.Imaging for Java 進行實驗並釋放新的創意可能性！
 

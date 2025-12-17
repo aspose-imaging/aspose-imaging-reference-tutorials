@@ -205,7 +205,7 @@ foreach (var filePath in epsPreviewFiles)
 - **Αγορά**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δωρεάν δοκιμές Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Με αυτόν τον οδηγό, είστε πλήρως εξοπλισμένοι για να αξιοποιήσετε το Aspose.Imaging για αποτελεσματική διαχείριση αρχείων EPS στις εφαρμογές .NET σας. Καλή κωδικοποίηση!
 

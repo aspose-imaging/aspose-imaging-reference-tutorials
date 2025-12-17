@@ -158,7 +158,7 @@ Postępując zgodnie z tym przewodnikiem, nauczyłeś się, jak dodawać znaki w
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna do pobrania](https://releases.aspose.com/imaging/net/)
 - [Uzyskanie licencji tymczasowej](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Wykorzystując te zasoby, możesz dalej eksplorować i opanowywać bibliotekę Aspose.Imaging dla .NET. Miłego kodowania!
 

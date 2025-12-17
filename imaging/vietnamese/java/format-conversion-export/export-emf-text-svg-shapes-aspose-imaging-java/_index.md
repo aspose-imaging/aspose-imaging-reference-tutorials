@@ -187,7 +187,7 @@ Hoàn toàn đúng, nó được thiết kế để xử lý cả các yêu cầ
 
 **5. Tôi có thể nhận được hỗ trợ ở đâu nếu cần?**
 
-Ghé thăm [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10) để được cộng đồng trợ giúp hoặc liên hệ trực tiếp với nhóm hỗ trợ của họ thông qua trang web.
+Ghé thăm [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14) để được cộng đồng trợ giúp hoặc liên hệ trực tiếp với nhóm hỗ trợ của họ thông qua trang web.
 
 ## Tài nguyên
 

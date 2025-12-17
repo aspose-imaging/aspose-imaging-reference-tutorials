@@ -149,7 +149,7 @@ Aspose.Imaging 提供了多种实用应用程序，例如：
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/net/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10)
+- [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 祝您使用 Aspose.Imaging for .NET 编码愉快！🚀
 

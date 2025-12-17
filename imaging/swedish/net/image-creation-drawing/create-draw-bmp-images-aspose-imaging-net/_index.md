@@ -156,7 +156,7 @@ Redo att börja skapa fantastiska BMP-bilder? Implementera dessa steg idag och l
 - **Köpa:** [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Testversion](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens:** [Begär här](https://purchase.aspose.com/temporary-license/)
-- **Supportforum:** [Aspose Community Support](https://forum.aspose.com/c/imaging/10)
+- **Supportforum:** [Aspose Community Support](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

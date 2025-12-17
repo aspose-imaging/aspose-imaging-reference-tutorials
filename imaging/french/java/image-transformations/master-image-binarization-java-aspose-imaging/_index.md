@@ -191,7 +191,7 @@ A5 : Oui, Aspose.Imaging prend en charge une large gamme de formats d’image, 
 - **Achat:** [Acheter Aspose.License](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Commencez votre essai gratuit](https://releases.aspose.com/imaging/java/)
 - **Licence temporaire :** [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce tutoriel, vous maîtriserez efficacement les tâches de binarisation d'images avec Aspose.Imaging pour Java. Bon codage !
 

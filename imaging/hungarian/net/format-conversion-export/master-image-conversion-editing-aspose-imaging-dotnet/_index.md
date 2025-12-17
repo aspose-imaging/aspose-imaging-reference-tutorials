@@ -219,7 +219,7 @@ V5: Igen, az Aspose.Imaging lehetővé teszi a metaadatmezők átfogó testresza
 - **Vásárlás:** [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Próbálja ki az Aspose.Imaging-et ingyen](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély:** [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum:** [Aspose támogatás](https://forum.aspose.com/c/imaging/10) 
+- **Támogatási fórum:** [Aspose támogatás](https://forum.aspose.com/c/imaging/14) 
 
 Indulj el az utazásodra még ma az Aspose.Imaging for .NET segítségével, és forradalmasítsd a képekkel való munka módját!
 

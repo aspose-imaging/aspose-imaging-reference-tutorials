@@ -173,7 +173,7 @@ finally {
    - 考慮將過程分解為更小的區塊或使用庫提供的節省記憶體的方法。
 
 5. **如果遇到問題，我可以在哪裡獲得支援？**
-   - 訪問 [Aspose 的支援論壇](https://forum.aspose.com/c/imaging/10) 尋求社區專家和 Aspose 員工的協助。
+   - 訪問 [Aspose 的支援論壇](https://forum.aspose.com/c/imaging/14) 尋求社區專家和 Aspose 員工的協助。
 
 ## 資源
 

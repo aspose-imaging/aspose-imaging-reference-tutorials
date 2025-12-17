@@ -184,7 +184,7 @@ Haydi harekete geçin ve bu teknikleri bir sonraki projenizde uygulamaya başlay
 - **Lisans Satın Al**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu adımları uygulayarak ve sağlanan kaynakları kullanarak, Aspose.Imaging for Java ile BMP görüntü sıkıştırmayı idare edebilecek donanıma sahip olacaksınız. İyi kodlamalar!
 

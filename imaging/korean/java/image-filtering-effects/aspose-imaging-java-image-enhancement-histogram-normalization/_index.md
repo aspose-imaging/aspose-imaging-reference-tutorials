@@ -184,7 +184,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **구입**: [라이센스 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [테스트 기능](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [여기에서 요청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [포럼에 가입하세요](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [포럼에 가입하세요](https://forum.aspose.com/c/imaging/14)
 
 이 가이드라인을 따르면 Aspose.Imaging Java의 히스토그램 정규화 기능을 활용하여 이미지를 더욱 향상시킬 수 있습니다. 즐거운 코딩 되세요!
 

@@ -180,7 +180,7 @@ Aby jeszcze bardziej rozwinąć swoje umiejętności, rozważ zbadanie dodatkowy
 - **Kup licencję:** https://purchase.aspose.com/buy
 - **Bezpłatna wersja próbna:** https://releases.aspose.com/imaging/net/
 - **Licencja tymczasowa:** https://purchase.aspose.com/temporary-license/
-- **Forum wsparcia:** https://forum.aspose.com/c/imaging/10
+- **Forum wsparcia:** https://forum.aspose.com/c/imaging/14
 
 Zacznij już dziś wdrażać te techniki obsługi obrazu w swoich projektach i zobacz różnicę w wydajności i efektywności!
 

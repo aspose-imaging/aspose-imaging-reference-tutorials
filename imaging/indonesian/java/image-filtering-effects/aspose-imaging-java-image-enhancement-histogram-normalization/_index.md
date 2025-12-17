@@ -184,7 +184,7 @@ Ambil tindakan hari ini dengan mencoba teknik ini pada proyek gambar Anda sendir
 - **Pembelian**: [Beli Lisensi](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Fitur Uji](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Minta di sini](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Bergabunglah dengan Forum](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Bergabunglah dengan Forum](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda akan siap untuk menyempurnakan gambar Anda menggunakan fitur normalisasi histogram Java Aspose.Imaging. Selamat membuat kode!
 

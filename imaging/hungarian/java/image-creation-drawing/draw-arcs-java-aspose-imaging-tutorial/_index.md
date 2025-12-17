@@ -182,7 +182,7 @@ Ebben az oktatóanyagban azt tárgyaltuk, hogyan rajzolhatunk íveket képekre a
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió igénylése](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély információk](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Merülj el ezekben az anyagokban részletesebb információkért és támogatásért. Jó kódolást!
 

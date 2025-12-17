@@ -186,7 +186,7 @@ Yes, Aspose.Imaging provides comprehensive tools for editing images including cr
 Adjust the resolution and quality settings using Aspose.Imaging's configuration options to maintain image integrity.
 
 **5. Is there support available if I run into issues with Aspose.Imaging?**
-Yes, you can seek help on [Aspose's forums](https://forum.aspose.com/c/imaging/10) for community or official support.
+Yes, you can seek help on [Aspose's forums](https://forum.aspose.com/c/imaging/14) for community or official support.
 
 ## Resources
 

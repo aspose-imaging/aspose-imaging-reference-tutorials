@@ -227,7 +227,7 @@ Artık Aspose.Imaging for Java'yı kullanarak temel görüntü yükleme ve kayde
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Sürümü](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuz, Java'da Aspose.Imaging'i kullanmak için kapsamlı bir temel sağlar. Bu teknikleri anlayarak, uygulamalarınızı güçlü görüntü işleme yetenekleriyle geliştirebilirsiniz. İyi kodlamalar!
 

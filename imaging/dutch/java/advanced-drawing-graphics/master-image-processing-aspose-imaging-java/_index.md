@@ -194,7 +194,7 @@ A: Absoluut – het draait overal waar Java wordt ondersteund, inclusief Windows
 - **Aankoop**: [Buy Aspose Products](https://purchase.aspose.com/buy)
 - **Gratis proefversie**: [Start a Free Trial](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuning**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuning**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Nu, gewapend met deze kennis, ben je klaar om Aspose.Imaging in je Java‑projecten te implementeren voor verbeterde beeldverwerkingsmogelijkheden. Veel programmeerplezier!
 

@@ -188,7 +188,7 @@ Ready to take the next step? Try implementing these techniques in your own Java 
 - **Purchase**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Aspose.Imaging for Free](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Embark on your image processing journey with confidence, knowing that you have the tools and knowledge to succeed. Happy coding!
 

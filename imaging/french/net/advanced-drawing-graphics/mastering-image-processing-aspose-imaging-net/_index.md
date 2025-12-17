@@ -167,7 +167,7 @@ Explorez des fonctionnalités supplémentaires en plongeant dans le [Documentati
 - **Achat:** [Acheter une licence Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Essayez l'évaluation gratuite](https://releases.aspose.com/imaging/net/)
 - **Licence temporaire :** [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

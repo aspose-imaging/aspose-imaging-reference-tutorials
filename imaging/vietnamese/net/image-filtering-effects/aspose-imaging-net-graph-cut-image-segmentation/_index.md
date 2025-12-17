@@ -178,7 +178,7 @@ Các bước tiếp theo? Thử nghiệm với các cấu hình khác nhau hoặ
 - **Tài liệu**: Khám phá hướng dẫn toàn diện tại [Tài liệu tham khảo Aspose Imaging .NET](https://reference.aspose.com/imaging/net/).
 - **Tải về**: Truy cập các bản phát hành mới nhất qua [Aspose phát hành](https://releases.aspose.com/imaging/net/).
 - **Mua & Dùng thử miễn phí**: Hãy cân nhắc dùng thử hoặc mua thông qua đại lý chính thức [Trang mua hàng Aspose](https://purchase.aspose.com/buy) Và [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/).
-- **Ủng hộ**: Nếu có bất kỳ câu hỏi nào, hãy truy cập [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10).
+- **Ủng hộ**: Nếu có bất kỳ câu hỏi nào, hãy truy cập [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

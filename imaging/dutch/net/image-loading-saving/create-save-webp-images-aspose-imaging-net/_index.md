@@ -188,7 +188,7 @@ Klaar om je vaardigheden verder te ontwikkelen? Implementeer deze technieken van
 - **Aankoop**: [Koop een licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Start uw gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke vergunning aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Begin vandaag nog met Aspose.Imaging en ontgrendel het volledige potentieel van beeldverwerking in .NET!
 

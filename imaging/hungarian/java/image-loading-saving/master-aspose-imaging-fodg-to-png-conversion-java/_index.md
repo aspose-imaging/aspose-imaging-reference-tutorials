@@ -213,7 +213,7 @@ Következő lépések:
 - **Vásárlás**: [Vásároljon Aspose termékeket](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbáld ki az Aspose.Imaging ingyenes verzióját](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezen technikák elsajátításával jó úton haladsz afelé, hogy az Aspose.Imaging előnyeit kihasználd kifinomult képfeldolgozási feladatokhoz Java nyelven. Jó kódolást!
 

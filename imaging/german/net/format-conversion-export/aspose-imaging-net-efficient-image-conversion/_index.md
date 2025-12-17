@@ -137,7 +137,7 @@ Entdecken Sie erweiterte Funktionen von Aspose.Imaging, wie z. B. Stapelverarbei
 - [Laden Sie Aspose.Imaging für .NET herunter](https://releases.aspose.com/imaging/net/)
 - [Erwerben Sie eine Lizenz](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion und temporäre Lizenz](https://releases.aspose.com/imaging/net/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Entdecken Sie diese Ressourcen, um Ihr Verständnis zu vertiefen und Ihre Implementierungen mit Aspose.Imaging .NET zu verbessern. Viel Spaß beim Programmieren!
 

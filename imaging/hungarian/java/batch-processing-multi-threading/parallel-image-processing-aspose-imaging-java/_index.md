@@ -223,7 +223,7 @@ A5: Lehetővé teszi a fájl adott pozícióiból való olvasást vagy írást, 
 - [Aspose.Imaging letöltése](https://releases.aspose.com/imaging/java/)
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió és ideiglenes licenc](https://releases.aspose.com/imaging/java/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10) 
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14) 
 
 Indulj el az Aspose.Imaging Java segítségével még ma, és add ki a nagy teljesítményű képfeldolgozásban rejlő lehetőségeket a projektjeidben!
 

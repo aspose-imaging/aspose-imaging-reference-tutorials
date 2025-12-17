@@ -198,7 +198,7 @@ Experimente con diferentes campos EXIF y explore las funciones más avanzadas qu
    - Por supuesto, está diseñado para gestionar requisitos de alto rendimiento de manera efectiva.
 
 5. **¿Cómo puedo contribuir a la comunidad o buscar ayuda con problemas?**
-   - Únete a la [Foro de Aspose](https://forum.aspose.com/c/imaging/10) Para hacer preguntas y compartir ideas.
+   - Únete a la [Foro de Aspose](https://forum.aspose.com/c/imaging/14) Para hacer preguntas y compartir ideas.
 
 ## Recursos
 

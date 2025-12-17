@@ -203,7 +203,7 @@ A5: 訪問 [Aspose ドキュメント](https://reference.aspose.com/imaging/java
 - **購入**https://purchase.aspose.com/buy
 - **無料トライアル**https://releases.aspose.com/imaging/java/
 - **一時ライセンス**https://purchase.aspose.com/temporary-license/
-- **サポート**https://forum.aspose.com/c/imaging/10
+- **サポート**https://forum.aspose.com/c/imaging/14
 
 これらのリソースを活用して、Java での Aspose.Imaging の理解と応用をさらに深めましょう。コーディングを楽しみましょう！
 

@@ -221,7 +221,7 @@ Implement these solutions in your projects today!
 - **Purchase**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Aspose.Imaging Free Trial](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Apply for Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Embark on your image manipulation journey with confidence using Aspose.Imaging for .NET!
 

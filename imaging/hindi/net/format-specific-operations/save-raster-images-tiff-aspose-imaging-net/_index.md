@@ -170,7 +170,7 @@ Aspose.Imaging के साथ काम करते समय प्रदर
 - **खरीदना:** [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [अब इसे आजमाओ](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस:** [यहां अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता:** [प्रश्न पूछें](https://forum.aspose.com/c/imaging/10)
+- **सहायता:** [प्रश्न पूछें](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

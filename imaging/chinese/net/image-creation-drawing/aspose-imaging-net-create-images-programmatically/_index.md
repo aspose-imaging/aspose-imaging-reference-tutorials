@@ -179,7 +179,7 @@ Aspose.Imaging for .NET 功能多样。以下是该库的一些实际应用：
 - [购买](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/net/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [支持](https://forum.aspose.com/c/imaging/10)
+- [支持](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

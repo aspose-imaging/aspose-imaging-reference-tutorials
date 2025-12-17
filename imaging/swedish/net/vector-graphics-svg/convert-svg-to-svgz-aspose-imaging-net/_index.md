@@ -149,7 +149,7 @@ Du har lärt dig hur man konverterar en SVG-fil till ett komprimerat SVGZ-format
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din resa med Aspose.Imaging för .NET och utforska potentialen hos optimerad vektorgrafik idag!
 

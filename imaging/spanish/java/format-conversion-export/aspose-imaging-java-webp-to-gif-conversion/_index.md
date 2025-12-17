@@ -197,7 +197,7 @@ En este tutorial, aprendiste a usar Aspose.Imaging Java para convertir imágenes
 - **Compra:** Visita [Página de compra de Aspose](https://purchase.aspose.com/buy) para opciones de licencia
 - **Prueba gratuita:** Comience con una prueba en [Enlace de prueba gratuita](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** Obtenga acceso temporal a través de [Página de licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** Interactúe con la comunidad en [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** Interactúe con la comunidad en [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

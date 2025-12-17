@@ -126,7 +126,7 @@ rasterCachedImage.Save(outputPath + "/BinarizationWithOtsuThreshold_out.jpg");
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging 무료 체험판](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [임시 면허 취득](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose.Imaging 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose.Imaging 지원 포럼](https://forum.aspose.com/c/imaging/14)
 이 가이드를 따라 하면 Aspose.Imaging을 사용하여 .NET 애플리케이션에서 효율적인 이미지 처리를 구현하는 데 큰 도움이 될 것입니다. 즐거운 코딩 되세요!
 
 {{< /blocks/products/pf/tutorial-page-section >}}

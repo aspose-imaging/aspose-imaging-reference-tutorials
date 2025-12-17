@@ -172,7 +172,7 @@ A: Ziyaret edin [Aspose.Görüntüleme Belgeleri](https://reference.aspose.com/i
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Deneme ile Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Burada Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Aspose Destek Topluluğu](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: [Aspose Destek Topluluğu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuz, Aspose.Imaging for Java kullanarak GIF resimlerini güvenle işlemeniz için gereken bilgiyle sizi donatır. İyi kodlamalar!
 

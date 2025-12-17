@@ -178,7 +178,7 @@ A5: Aspose.Imaging'in kendisi tarafından dayatılan kesin sınırlar olmasa da,
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Sürümü](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, artık Aspose.Imaging kullanarak Java uygulamalarınızda etkili görüntü işlemeyi uygulamaya hazırsınız. İyi kodlamalar!
 

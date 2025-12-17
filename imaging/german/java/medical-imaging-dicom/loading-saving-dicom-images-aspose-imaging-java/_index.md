@@ -210,7 +210,7 @@ Weitere Informationen und Ressourcen:
 - **Kauflizenz:** [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Starten Sie Ihre kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Fordern Sie eine temporäre Lizenz an](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum:** [Aspose Support-Community](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum:** [Aspose Support-Community](https://forum.aspose.com/c/imaging/14)
 
 Mit dieser Anleitung sind Sie bestens gerüstet, um DICOM-Bilder in Ihren Java-Anwendungen mit Aspose.Imaging zu verarbeiten. Viel Spaß beim Programmieren!
 

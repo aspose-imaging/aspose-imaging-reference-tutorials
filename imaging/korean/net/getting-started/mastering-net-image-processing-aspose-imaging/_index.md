@@ -133,7 +133,7 @@ A: Aspose.Imaging은 .NET 애플리케이션에서 루프와 작업 병렬 처�
 - **구입**: [라이센스 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [지금 시도해보세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [임시 면허 취득](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [여기서 질문하세요](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [여기서 질문하세요](https://forum.aspose.com/c/imaging/14)
 
 오늘부터 Aspose.Imaging을 사용하여 강력한 이미지 처리 기능으로 .NET 애플리케이션을 강화하세요!
 

@@ -211,7 +211,7 @@ In questo tutorial abbiamo illustrato come caricare, configurare e salvare file 
 - [Acquistare](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Utilizzando queste risorse, puoi esplorare ulteriormente le capacità di Aspose.Imaging e potenziare le tue applicazioni Java con potenti funzionalità di elaborazione delle immagini.
 

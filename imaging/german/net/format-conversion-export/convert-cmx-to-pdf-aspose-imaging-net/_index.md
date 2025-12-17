@@ -175,7 +175,7 @@ A: Überprüfen Sie Ihre Rasterungs- und Glättungseinstellungen im `PdfOptions`
 - **Kaufen**: [Aspose.Imaging Lizenzen kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Starten Sie eine kostenlose Testversion von Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Holen Sie sich eine temporäre Lizenz für Aspose.Imaging](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10) 
+- **Unterstützung**: [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14) 
 
 Wenn Sie dieser Anleitung folgen, sind Sie bestens gerüstet, um die Konvertierung von CMX in PDF problemlos durchzuführen.
 

@@ -177,7 +177,7 @@ Hãy thử áp dụng những kỹ thuật này vào dự án tiếp theo của 
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Với hướng dẫn này, bạn đã được trang bị đầy đủ để bắt đầu sử dụng Aspose.Imaging for Java trong các dự án của mình. Chúc bạn viết mã vui vẻ!
 

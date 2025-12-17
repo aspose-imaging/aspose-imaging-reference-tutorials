@@ -179,7 +179,7 @@ Aspose.Imaging for Java を使用する場合:
 - [購入オプション](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドに従うことで、Aspose.Imaging for Java を使用して DICOM 画像を扱う準備が整います。コーディングを楽しみましょう！
 

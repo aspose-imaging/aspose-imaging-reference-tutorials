@@ -171,7 +171,7 @@ try (Image image = Image.create(imageOptions, 1000, 1000)) {
 - **Απόδειξη με έγγραφα:** [Aspose.Imaging για αναφορά σε Java](https://reference.aspose.com/imaging/java/)
 - **Λήψη:** [Τελευταίες κυκλοφορίες](https://releases.aspose.com/imaging/java/)
 - **Αγορά & Δοκιμή:** Εξερευνήστε τις επιλογές αδειοδότησης στο [Αγορά Aspose](https://purchase.aspose.com/buy)
-- **Υποστήριξη:** Συμμετέχετε στις συζητήσεις της κοινότητας σχετικά με το [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** Συμμετέχετε στις συζητήσεις της κοινότητας σχετικά με το [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Δοκιμάστε αυτά τα βήματα στο επόμενο έργο σας για να δείτε πώς το Aspose.Imaging Java μπορεί να βελτιστοποιήσει και να βελτιώσει τις ροές εργασίας επεξεργασίας εικόνας!
 

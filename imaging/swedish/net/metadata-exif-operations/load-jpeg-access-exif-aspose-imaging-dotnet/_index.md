@@ -172,7 +172,7 @@ För mer detaljerad information, kolla in dessa resurser:
 - **Köpa:** [Köp Aspose-licensalternativ](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Prova gratisversioner](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens:** [Begär tillfälliga licenser](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose Forum Support](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose Forum Support](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden bör du vara väl rustad för att hantera JPEG-bilder och deras metadata med Aspose.Imaging för .NET. Lycka till med kodningen!
 

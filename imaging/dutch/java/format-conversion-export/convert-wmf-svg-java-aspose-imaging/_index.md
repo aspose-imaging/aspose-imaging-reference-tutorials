@@ -198,7 +198,7 @@ A4: Ja, maar het is belangrijk om bronnen efficiënt te beheren en multithreadin
 
 **V5: Hoe kan ik meer ondersteuning krijgen als ik problemen ondervind met Aspose.Imaging?**
 
-A5: Bezoek [Aspose's forum](https://forum.aspose.com/c/imaging/10) voor community-ondersteuning of neem rechtstreeks contact op met hun klantenservice via de aankooppagina.
+A5: Bezoek [Aspose's forum](https://forum.aspose.com/c/imaging/14) voor community-ondersteuning of neem rechtstreeks contact op met hun klantenservice via de aankooppagina.
 
 ## Bronnen
 

@@ -221,7 +221,7 @@ Vous savez maintenant comment convertir des images WMF au format WebP avec Aspos
 - [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - [Essai gratuit d'Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - [Acquisition de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ce tutoriel vise à fournir un guide clair et pratique pour la conversion d'images à l'aide d'Aspose.Imaging pour Java, vous donnant les connaissances nécessaires pour améliorer efficacement vos applications Web.
 

@@ -169,7 +169,7 @@ using (RasterImage image = (RasterImage)Image.Load(sourceFileName))
 4. **遮罩图像时有哪些常见问题？**
    - 常见问题包括路径定义不正确、未处理的异常或由于图像尺寸过大而导致的性能瓶颈。
 5. **如果我有其他问题，可以在哪里找到支持？**
-   - 访问 [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10) 寻求社区专家和 Aspose 员工的帮助。
+   - 访问 [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14) 寻求社区专家和 Aspose 员工的帮助。
 
 ## 资源
 - **文档**： [Aspose.Imaging .NET文档](https://reference.aspose.com/imaging/net/)

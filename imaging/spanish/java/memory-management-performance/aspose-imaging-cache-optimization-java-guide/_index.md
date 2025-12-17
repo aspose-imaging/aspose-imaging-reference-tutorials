@@ -233,7 +233,7 @@ En este tutorial, aprendiste a optimizar la configuración de caché con Aspose.
 - [Compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Con esta guía, estarás bien preparado para optimizar eficazmente la caché de Aspose.Imaging en Java. ¡Que disfrutes programando!
 

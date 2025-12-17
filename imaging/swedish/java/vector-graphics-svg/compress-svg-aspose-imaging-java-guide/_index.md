@@ -211,7 +211,7 @@ I den här handledningen utforskade vi hur man laddar, konfigurerar och sparar k
 - [Köpa](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att använda dessa resurser kan du utforska Aspose.Imagings möjligheter ytterligare och förbättra dina Java-applikationer med kraftfulla bildbehandlingsfunktioner.
 

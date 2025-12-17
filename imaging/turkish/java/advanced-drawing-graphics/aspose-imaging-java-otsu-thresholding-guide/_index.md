@@ -187,7 +187,7 @@ Bu kod parçası, ikili hale getirilmiş görüntüyü JPEG formatında kaydeder
 
 Artık Aspose.Imaging for Java'yı kullanarak görüntüleri ikilileştirme teknikleriyle yükleme, işleme ve kaydetmenin temellerine hakim oldunuz. Gelişmiş filtreleme veya biçim dönüştürme gibi kütüphanenin sunduğu diğer özellikleri keşfederek daha fazla deney yapın.
 
-Sonraki adımlar, bu işlevselliği projelerinize entegre etmeyi ve farklı görüntü türleri ve işleme senaryoları denemeyi içerir. Bize ulaşmaktan çekinmeyin [Aspose destek forumu](https://forum.aspose.com/c/imaging/10) Herhangi bir sorunuz varsa!
+Sonraki adımlar, bu işlevselliği projelerinize entegre etmeyi ve farklı görüntü türleri ve işleme senaryoları denemeyi içerir. Bize ulaşmaktan çekinmeyin [Aspose destek forumu](https://forum.aspose.com/c/imaging/14) Herhangi bir sorunuz varsa!
 
 ## SSS Bölümü
 

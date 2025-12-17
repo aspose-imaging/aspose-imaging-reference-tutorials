@@ -190,7 +190,7 @@ Jako další kroky zvažte prozkoumání dalších funkcí, jako je změna velik
 - **Nákup:** [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Bezplatná zkušební verze Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum pro zobrazování Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum pro zobrazování Aspose](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na cestu k pokročilému zpracování obrazu s Aspose.Imaging pro Javu a odhalte nový potenciál ve svých aplikacích!
 

@@ -165,7 +165,7 @@ A5: Да, Aspose.Imaging поддерживает широкий спектр ф
 - **Купить лицензию**: Посещать [Страница покупки Aspose](https://purchase.aspose.com/buy) для вариантов лицензирования.
 - **Бесплатная пробная версия**: протестируйте функции, загрузив их с сайта [Релизы](https://releases.aspose.com/imaging/net/).
 - **Временная лицензия**: Запросите временную лицензию по адресу [Лицензирование Aspose](https://purchase.aspose.com/temporary-license/).
-- **Поддержка и сообщество**: Присоединяйтесь к обсуждениям или обратитесь за помощью на [Форум Aspose](https://forum.aspose.com/c/imaging/10).
+- **Поддержка и сообщество**: Присоединяйтесь к обсуждениям или обратитесь за помощью на [Форум Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

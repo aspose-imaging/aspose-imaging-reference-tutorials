@@ -169,7 +169,7 @@ Dengan mengikuti panduan ini, Anda telah mempelajari cara mengonversi file SVG k
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Dengan panduan lengkap ini, Anda akan siap memanfaatkan kekuatan Aspose.Imaging untuk Java dalam mengubah SVG menjadi elemen kanvas HTML5. Selamat membuat kode!
 

@@ -182,7 +182,7 @@ image.Save(outputFilePath, tiffOptions);
 4. **如果我的 TIFF 文件在转换后出现损坏，我该怎么办？**
    - 验证光栅化选项是否符合图像的要求并检查文件路径是否有错误。
 5. **如果我遇到 Aspose.Imaging 问题，可以获得支持吗？**
-   - 是的，请访问 [Aspose 论坛](https://forum.aspose.com/c/imaging/10) 寻求社区支持或直接联系他们的支持团队。
+   - 是的，请访问 [Aspose 论坛](https://forum.aspose.com/c/imaging/14) 寻求社区支持或直接联系他们的支持团队。
 
 ## 资源
 - [Aspose.Imaging 文档](https://reference.aspose.com/imaging/net/)

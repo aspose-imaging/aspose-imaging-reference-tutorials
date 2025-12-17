@@ -196,7 +196,7 @@ Zawsze używaj bloków try-catch do obsługi potencjalnych wyjątków IOExceptio
 - **Zakup**:Aby uzyskać pełną licencję, odwiedź stronę [Kup Aspose.Imaging](https://purchase.aspose.com/buy).
 - **Bezpłatna wersja próbna**:Zacznij od okresu próbnego [Aspose.Imaging Darmowe Pobieranie](https://releases.aspose.com/imaging/java/).
 - **Licencja tymczasowa**:Uzyskaj tymczasową licencję od [Strona licencjonowania Aspose](https://purchase.aspose.com/temporary-license/).
-- **Wsparcie**:Dołącz do dyskusji na temat [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Wsparcie**:Dołącz do dyskusji na temat [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Dzięki tym zasobom jesteś dobrze wyposażony, aby zagłębić się w przetwarzanie obrazu za pomocą Aspose.Imaging dla Java. Miłego kodowania!
 

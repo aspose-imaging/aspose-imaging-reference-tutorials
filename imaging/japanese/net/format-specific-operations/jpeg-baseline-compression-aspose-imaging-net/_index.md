@@ -147,7 +147,7 @@ Aspose.Imaging for .NET を使用して JPEG ベースライン圧縮を実装�
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 この包括的なガイドは、Aspose.Imaging for .NET を使用した JPEG ベースライン圧縮をマスターするための正しい道筋を示します。コーディングを楽しみましょう！
 

@@ -179,7 +179,7 @@ Sind Sie bereit, Ihre medizinischen Bildgebungsprojekte zu verbessern? Integrier
 - **Kauflizenz:** [Jetzt kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Starten Sie Ihre kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - **Antrag auf eine temporäre Lizenz:** [Hier anfordern](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum:** [Aspose Support-Community](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum:** [Aspose Support-Community](https://forum.aspose.com/c/imaging/14)
 
 Mit dieser Anleitung sind Sie bestens gerüstet, um DICOM-Bildverarbeitungsaufgaben in Ihren Java-Anwendungen mit Aspose.Imaging zu bewältigen. Viel Spaß beim Programmieren!
 

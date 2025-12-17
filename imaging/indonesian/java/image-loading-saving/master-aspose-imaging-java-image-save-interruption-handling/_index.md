@@ -231,7 +231,7 @@ Dengan mengikuti tutorial ini, Anda telah mempelajari cara mengimplementasikan J
    - Pertimbangkan penerapan kumpulan utas dan praktik manajemen sumber daya yang efisien untuk menangani konkurensi yang tinggi.
 
 5. **Bagaimana saya dapat memecahkan masalah umum saat menggunakan Aspose.Imaging?**
-   - Periksa resminya [dokumentasi](https://reference.aspose.com/imaging/java/) untuk panduan terperinci, atau kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/10) untuk dukungan komunitas.
+   - Periksa resminya [dokumentasi](https://reference.aspose.com/imaging/java/) untuk panduan terperinci, atau kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/14) untuk dukungan komunitas.
 
 ## Sumber daya
 

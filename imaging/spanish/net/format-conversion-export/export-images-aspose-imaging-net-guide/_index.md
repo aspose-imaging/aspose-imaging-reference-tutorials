@@ -207,7 +207,7 @@ A3: Sí, Aspose.Imaging ofrece un control detallado sobre la configuración de c
 A4: ¡Por supuesto! Puedes procesar varios archivos eficientemente usando técnicas de programación paralela en .NET.
 
 **Q5: ¿Cómo puedo solucionar problemas comunes con Aspose.Imaging?**
-A5: Verifique el [foro de soporte](https://forum.aspose.com/c/imaging/10) para soluciones a problemas comunes y consultar la extensa [documentación](https://reference.aspose.com/imaging/net/) para ayuda.
+A5: Verifique el [foro de soporte](https://forum.aspose.com/c/imaging/14) para soluciones a problemas comunes y consultar la extensa [documentación](https://reference.aspose.com/imaging/net/) para ayuda.
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

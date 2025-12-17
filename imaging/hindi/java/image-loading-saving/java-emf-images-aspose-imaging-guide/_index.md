@@ -179,7 +179,7 @@ A5: अपना लाइसेंस प्राप्त करने और
 - **खरीदना**: [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [यहाँ से शुरू](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस**: [अभी अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [सामुदायिक मंच](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [सामुदायिक मंच](https://forum.aspose.com/c/imaging/14)
 
 इन संसाधनों का लाभ उठाकर, आप Aspose.Imaging की क्षमताओं का और अधिक पता लगा सकते हैं और कार्यान्वयन के दौरान आने वाली किसी भी चुनौती का समाधान कर सकते हैं। हैप्पी कोडिंग!
 

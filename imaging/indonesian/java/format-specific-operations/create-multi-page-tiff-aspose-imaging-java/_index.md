@@ -203,7 +203,7 @@ Kami mendorong Anda untuk mencoba menerapkan solusi ini di proyek Anda berikutny
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Akses Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda akan dapat membuat dan memanipulasi file TIFF multi-halaman dengan Aspose.Imaging untuk Java. Selamat membuat kode!
 

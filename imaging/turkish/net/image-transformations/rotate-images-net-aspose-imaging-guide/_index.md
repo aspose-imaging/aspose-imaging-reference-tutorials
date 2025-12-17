@@ -156,7 +156,7 @@ Daha fazla bilgi ve yardım için:
 - **Satın almak**: [Lisans satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'i Şimdi Deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Burada Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek**: Ziyaret edin [Aspose Forum](https://forum.aspose.com/c/imaging/10) yardım ve topluluk tartışmaları için.
+- **Destek**: Ziyaret edin [Aspose Forum](https://forum.aspose.com/c/imaging/14) yardım ve topluluk tartışmaları için.
 
 Bu tekniklere hakim olarak, çok çeşitli görüntü işleme görevlerini güvenle ele almak için iyi bir donanıma sahip olacaksınız. İyi kodlamalar!
 

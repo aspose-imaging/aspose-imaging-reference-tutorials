@@ -179,7 +179,7 @@ A5: 無料試用版でも購入版でも、ライセンスの取得に記載さ�
 - **購入**： [ライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [ここから始めましょう](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [今すぐリクエスト](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [コミュニティフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [コミュニティフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを活用することで、Aspose.Imaging の機能をさらに深く探求し、実装中に発生するあらゆる課題に対処することができます。コーディングを楽しみましょう！
 

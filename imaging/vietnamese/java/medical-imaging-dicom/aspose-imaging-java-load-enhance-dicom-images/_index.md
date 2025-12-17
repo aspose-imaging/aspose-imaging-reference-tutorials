@@ -203,7 +203,7 @@ Bạn đã sẵn sàng triển khai giải pháp này chưa? Hãy thử và xem 
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Với hướng dẫn này, giờ đây bạn đã có thể nâng cao các ứng dụng Java của mình bằng khả năng xử lý hình ảnh mạnh mẽ bằng Aspose.Imaging. Chúc bạn viết mã vui vẻ!
 

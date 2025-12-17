@@ -256,7 +256,7 @@ Készen állsz a megoldás bevezetésére? Próbáld ki, és nézd meg, hogyan j
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezekkel az erőforrásokkal és az új ismeretekkel felkészült leszel arra, hogy elkezdj TIFF képeket JPEG formátumba konvertálni az Aspose.Imaging for Java segítségével!
 

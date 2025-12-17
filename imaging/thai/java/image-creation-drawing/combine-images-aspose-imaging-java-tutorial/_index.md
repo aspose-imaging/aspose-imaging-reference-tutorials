@@ -177,7 +177,7 @@ image.save();
 - **ซื้อ:** https://purchase.aspose.com/ซื้อ
 - **ทดลองใช้งานฟรี:** https://releases.aspose.com/imaging/java/
 - **ใบอนุญาตชั่วคราว:** https://purchase.aspose.com/ใบอนุญาตชั่วคราว/
-- **สนับสนุน:** ภาษาไทย: https://forum.aspose.com/c/imaging/10
+- **สนับสนุน:** ภาษาไทย: https://forum.aspose.com/c/imaging/14
 
 เริ่มทดลองใช้ Aspose.Imaging สำหรับ Java วันนี้และค้นพบความเป็นไปได้ใหม่ๆ ในการประมวลผลภาพ!
 

@@ -178,7 +178,7 @@ Aspose.Imaging for Java 可以集成到各种实际场景中：
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/java/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10)
+- [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 在您的 Java 项目中实施这些技术，以充分利用 Aspose.Imaging 的潜力，实现无缝图像处理和操作。
 

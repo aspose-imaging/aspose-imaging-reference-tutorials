@@ -195,7 +195,7 @@ Os próximos passos podem incluir explorar recursos mais avançados do Aspose.Im
 - [Comprar licença Aspose](https://purchase.aspose.com/buy)
 - [Teste gratuito e licença temporária](https://releases.aspose.com/imaging/java/)
 
-Esperamos que este guia tenha sido informativo e útil. Caso tenha mais alguma dúvida, entre em contato com o [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10). Boa codificação!
+Esperamos que este guia tenha sido informativo e útil. Caso tenha mais alguma dúvida, entre em contato com o [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14). Boa codificação!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -205,7 +205,7 @@ class LEIntegerReader {
 - تجربة تكوينات مختلفة لخيارات الإخفاء.
 - استكشف الميزات الأخرى التي يقدمها Aspose.Imaging للحصول على إمكانيات إضافية لمعالجة الصور.
 
-لمزيد من الأسئلة أو الدعم، قم بزيارة [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/10).
+لمزيد من الأسئلة أو الدعم، قم بزيارة [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/14).
 
 ## قسم الأسئلة الشائعة
 
@@ -231,7 +231,7 @@ class LEIntegerReader {
 - **شراء**: [شراء خيارات ترخيص Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [ابدأ بإصدار تجريبي مجاني](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 ابدأ رحلتك لإتقان إخفاء الصور تلقائيًا باستخدام Aspose.Imaging وJava اليوم!
 

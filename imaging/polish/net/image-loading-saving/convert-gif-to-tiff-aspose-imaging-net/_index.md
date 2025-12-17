@@ -154,7 +154,7 @@ tym samouczku nauczyłeś się, jak konwertować pojedyncze klatki z GIF-a do fo
 - [Pobierz Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - [Zakup opcji licencjonowania Aspose](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna i licencja tymczasowa](https://releases.aspose.com/imaging/net/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

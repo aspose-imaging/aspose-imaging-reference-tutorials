@@ -186,7 +186,7 @@ Redo att omsätta det du lärt dig i praktiken? Fördjupa dig genom att experime
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Denna omfattande guide är utformad för att utrusta dig med den kunskap och de färdigheter som behövs för att effektivt integrera EMF-bildbehandlingsfunktioner i dina .NET-applikationer. Med Aspose.Imaging kan du utöka din utvecklingsverktygslåda och förbättra ditt projekts funktionalitet.
 

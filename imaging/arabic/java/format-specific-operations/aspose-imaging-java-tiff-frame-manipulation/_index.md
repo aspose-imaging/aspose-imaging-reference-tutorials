@@ -178,7 +178,7 @@ tiffFrame.save("YOUR_OUTPUT_DIRECTORY/" + i + "_out.tiff", new TiffOptions(TiffE
 - **شراء**: [شراء ترخيص Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [ابدأ بفترة تجريبية مجانية من Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [انضم إلى منتدى Aspose للحصول على الدعم](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [انضم إلى منتدى Aspose للحصول على الدعم](https://forum.aspose.com/c/imaging/14)
 
 بفضل هذه الموارد، أصبحتَ الآن جاهزًا لمعالجة صور TIFF بثقة. برمجة ممتعة!
 

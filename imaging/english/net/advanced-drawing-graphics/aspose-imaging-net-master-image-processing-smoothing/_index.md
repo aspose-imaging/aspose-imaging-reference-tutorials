@@ -174,7 +174,7 @@ By mastering these techniques, you can significantly streamline your image proce
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/net/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Support Forum](https://forum.aspose.com/c/imaging/14)
 
 By following this guide, you're well-equipped to leverage the power of Aspose.Imaging for .NET in your image processing tasks. Happy coding!
 

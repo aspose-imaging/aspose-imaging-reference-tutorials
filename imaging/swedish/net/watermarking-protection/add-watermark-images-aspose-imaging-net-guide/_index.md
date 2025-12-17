@@ -158,7 +158,7 @@ Genom att följa den här guiden har du lärt dig hur du lägger till vattenstä
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provversion nedladdning](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licensinhämtning](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att utnyttja dessa resurser kan du utforska och bemästra Aspose.Imaging-biblioteket för .NET ytterligare. Lycka till med kodningen!
 

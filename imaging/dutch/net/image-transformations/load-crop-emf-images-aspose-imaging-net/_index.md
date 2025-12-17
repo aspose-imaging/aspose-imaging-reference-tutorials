@@ -186,7 +186,7 @@ Klaar om wat je hebt geleerd in de praktijk te brengen? Duik dieper door te expe
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proeftoegang](https://releases.aspose.com/imaging/net/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Deze uitgebreide gids is ontworpen om u te voorzien van de kennis en vaardigheden die nodig zijn om EMF-beeldverwerkingsmogelijkheden effectief te integreren in uw .NET-applicaties. Met Aspose.Imaging breidt u uw ontwikkeltoolkit uit en verbetert u de functionaliteit van uw project.
 

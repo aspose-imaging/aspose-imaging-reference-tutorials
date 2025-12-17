@@ -204,7 +204,7 @@ Nyní máte znalosti, jak kreslit řetězce s různým zarovnáním na obrázcí
 - **Nákup:** [Koupit licenci Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Vyzkoušejte Aspose.Imaging zdarma](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Podpora:** [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Prozkoumejte tyto zdroje a prohloubete své znalosti a schopnosti s Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

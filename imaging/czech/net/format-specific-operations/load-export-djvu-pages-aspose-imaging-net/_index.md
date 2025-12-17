@@ -168,7 +168,7 @@ Jste připraveni ponořit se hlouběji? Implementujte tato řešení ve svých p
 - [Nákup](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/net/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Prozkoumejte tyto zdroje, abyste si lépe porozuměli a lépe využili Aspose.Imaging .NET pro práci se soubory DjVu. Přejeme vám hodně štěstí při programování!
 

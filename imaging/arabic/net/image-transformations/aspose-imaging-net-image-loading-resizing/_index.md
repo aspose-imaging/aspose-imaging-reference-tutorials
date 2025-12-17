@@ -166,7 +166,7 @@ image.Save(outputPath);
 - [شراء](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/net/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 انغمس في Aspose.Imaging لـ .NET وخذ قدرات معالجة الصور الخاصة بك إلى المستوى التالي!
 

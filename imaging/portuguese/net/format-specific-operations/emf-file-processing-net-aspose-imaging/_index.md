@@ -142,7 +142,7 @@ R: Com certeza. Use o `Save` método com diferentes extensões de arquivo para c
 - **Licença de compra:** [Opções de compra da Aspose](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Obtenha uma cópia de avaliação gratuita](https://releases.aspose.com/imaging/net/)
 - **Licença temporária:** [Solicitar uma Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- **Fórum de suporte:** [Comunidade de Suporte Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Fórum de suporte:** [Comunidade de Suporte Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Explore estes recursos para aprofundar seu conhecimento e aprimorar suas implementações usando o Aspose.Imaging para .NET. Boa programação!
 

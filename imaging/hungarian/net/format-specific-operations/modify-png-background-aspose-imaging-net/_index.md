@@ -156,7 +156,7 @@ A: A try-catch blokkok segítségével szabályosan kezelheti a kivételeket, é
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Ingyenes kezdés](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Fórumok](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Fórumok](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

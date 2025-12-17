@@ -173,7 +173,7 @@ R: Problemas comuns incluem vazamentos de memória e gargalos de desempenho, que
 - **Comprar**: Compre uma licença ou obtenha uma avaliação gratuita em [Aspose Compra](https://purchase.aspose.com/buy).
 - **Teste grátis**: Comece com um teste em [Lançamentos](https://releases.aspose.com/imaging/net/).
 - **Licença Temporária**: Solicite um de [Aspose](https://purchase.aspose.com/temporary-license/).
-- **Apoiar**: Obtenha ajuda no [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Apoiar**: Obtenha ajuda no [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Embarque em sua jornada para dominar o processamento de imagens com o Aspose.Imaging e leve seus aplicativos a novos patamares!
 

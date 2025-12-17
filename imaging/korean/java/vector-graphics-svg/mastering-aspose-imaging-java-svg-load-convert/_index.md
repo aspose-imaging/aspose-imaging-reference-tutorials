@@ -160,7 +160,7 @@ Aspose.Imaging을 사용할 때 최적의 성능을 보장하려면:
 - **구입:** [Aspose 라이선스 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [무료 체험판 시작하기](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [임시 면허 취득](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [Aspose 포럼 지원](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** [Aspose 포럼 지원](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따라 하면 Aspose.Imaging을 사용하여 Java에서 SVG 이미지 처리를 완벽하게 익힐 수 있습니다. 즐거운 코딩 되세요!
 

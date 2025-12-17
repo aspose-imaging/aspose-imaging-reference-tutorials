@@ -187,7 +187,7 @@ Abszolút, úgy tervezték, hogy mind a személyes, mind a vállalati szintű ig
 
 **5. Hol kaphatok támogatást, ha szükségem van rá?**
 
-Látogassa meg a [Aspose fórum](https://forum.aspose.com/c/imaging/10) közösségi segítségért, vagy vegye fel a kapcsolatot közvetlenül a támogató csapatukkal a weboldalukon keresztül.
+Látogassa meg a [Aspose fórum](https://forum.aspose.com/c/imaging/14) közösségi segítségért, vagy vegye fel a kapcsolatot közvetlenül a támogató csapatukkal a weboldalukon keresztül.
 
 ## Erőforrás
 

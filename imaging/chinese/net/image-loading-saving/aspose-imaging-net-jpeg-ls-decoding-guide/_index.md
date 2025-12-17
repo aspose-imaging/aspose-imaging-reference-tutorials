@@ -153,7 +153,7 @@ A5：使用调整压缩属性 `JpegOptions` 课程以适应您的特定需求。
 - **购买许可证**： [购买 Aspose Imaging](https://purchase.aspose.com/buy)
 - **免费试用**： [Aspose Imaging 下载](https://releases.aspose.com/imaging/net/)
 - **临时执照**： [获得临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持论坛**： [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- **支持论坛**： [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

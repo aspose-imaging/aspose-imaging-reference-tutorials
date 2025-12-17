@@ -169,7 +169,7 @@ A3：库将通过对缺失的数据字段返回 null 来优雅地处理此类情
 A4：试用版可能有使用限制，例如水印或处理限制。
 
 **问题5：如果我遇到 Aspose.Imaging 问题，如何获得支持？**
-A5：访问 [Aspose 论坛](https://forum.aspose.com/c/imaging/10) 获得社区和官方支持。
+A5：访问 [Aspose 论坛](https://forum.aspose.com/c/imaging/14) 获得社区和官方支持。
 
 ## 资源
 
@@ -178,7 +178,7 @@ A5：访问 [Aspose 论坛](https://forum.aspose.com/c/imaging/10) 获得社区�
 - **购买**：通过以下方式获取许可证 [Aspose 购买](https://purchase.aspose.com/buy)
 - **免费试用**：立即开始免费试用 [Aspose.Imaging 免费试用](https://releases.aspose.com/imaging/java/)
 - **临时执照**：申请临时许可证 [Aspose临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持**加入讨论 [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**加入讨论 [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 立即踏上 Aspose.Imaging for Java 之旅，开启图像处理的新篇章！
 

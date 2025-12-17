@@ -193,7 +193,7 @@ Készen állsz a megvalósításra? Látogass el a [Aspose.Imaging dokumentáci�
    - Ideiglenes licencet szerezhet kiértékeléshez, vagy teljes licencet vásárolhat éles használatra.
 
 5. **Hol találok támogatást, ha problémákba ütközöm?**  
-   - Látogassa meg a [Aspose fórum](https://forum.aspose.com/c/imaging/10) a közösségi és hivatalos támogatásért.
+   - Látogassa meg a [Aspose fórum](https://forum.aspose.com/c/imaging/14) a közösségi és hivatalos támogatásért.
 
 ## Erőforrás
 
@@ -202,7 +202,7 @@ Készen állsz a megvalósításra? Látogass el a [Aspose.Imaging dokumentáci�
 - Vásárlás: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - Ingyenes próbaverzió: [Ingyenes próbaverziók elérhetők](https://releases.aspose.com/imaging/java/)
 - Ideiglenes engedély: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- Támogatás: [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- Támogatás: [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezekkel az anyagokkal felkészülhetsz arra, hogy a legtöbbet hozd ki az Aspose.Imagingből a Java projektjeidben. Jó kódolást!
 

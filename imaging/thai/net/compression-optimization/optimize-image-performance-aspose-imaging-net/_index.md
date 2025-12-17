@@ -170,7 +170,7 @@ using (Image image = Image.Load(dataDir + "/aspose-logo.jpg"))
 - **ซื้อใบอนุญาต**- [ซื้อ Aspose Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [เริ่มต้นด้วยการทดลองใช้ฟรี](https://releases.aspose.com/imaging/net/)
 - **ใบอนุญาตชั่วคราว**- [การขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **ฟอรั่มสนับสนุน**- [การสนับสนุน Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **ฟอรั่มสนับสนุน**- [การสนับสนุน Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 ก้าวไปสู่ขั้นตอนถัดไปด้วยการนำการเพิ่มประสิทธิภาพเหล่านี้ไปใช้ในโครงการ .NET ของคุณ และสำรวจว่า Aspose.Imaging จะช่วยยกระดับงานการประมวลผลภาพของคุณได้อย่างไร!
 

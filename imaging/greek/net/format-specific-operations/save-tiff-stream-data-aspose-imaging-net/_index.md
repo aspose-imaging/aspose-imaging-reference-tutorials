@@ -148,7 +148,7 @@ if (tiffPreviewStream != null)
 - **Αγορά:** [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Ξεκινήστε με μια δωρεάν δοκιμή](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια:** [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** [Υποστήριξη Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** [Υποστήριξη Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Αυτός ο οδηγός έχει σχεδιαστεί για να σας βοηθήσει να αξιοποιήσετε πλήρως τις δυνατότητες του Aspose.Imaging για τα έργα σας .NET. Καλή κωδικοποίηση!
 

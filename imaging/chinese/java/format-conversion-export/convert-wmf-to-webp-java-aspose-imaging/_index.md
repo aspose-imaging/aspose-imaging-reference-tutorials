@@ -186,7 +186,7 @@ image.save(outFileName, options);
 - [购买订阅](https://purchase.aspose.com/buy)
 - [免费试用许可证](https://releases.aspose.com/imaging/java/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 按照本指南操作，您将能够顺利掌握使用 Aspose.Imaging 在 Java 中进行图像转换的技能。祝您编程愉快！
 

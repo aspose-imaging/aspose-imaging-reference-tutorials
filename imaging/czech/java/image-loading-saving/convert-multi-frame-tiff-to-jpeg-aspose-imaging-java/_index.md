@@ -256,7 +256,7 @@ Jste připraveni implementovat toto řešení? Vyzkoušejte ho a uvidíte, jak v
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 S těmito zdroji a novými znalostmi jste dobře vybaveni k zahájení převodu obrázků TIFF do formátu JPEG pomocí Aspose.Imaging pro Javu!
 

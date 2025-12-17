@@ -158,7 +158,7 @@ Bu eğitimde, Aspose.Imaging Java ile akışları kullanarak görüntüleri nas�
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Sürümü](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Başvurusu](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı kılavuz, akış tabanlı görüntü işleme için Aspose.Imaging Java'yı etkin bir şekilde uygulamanıza ve kullanmanıza, uygulamalarınızın performansını ve yeteneklerini geliştirmenize yardımcı olacaktır.
 

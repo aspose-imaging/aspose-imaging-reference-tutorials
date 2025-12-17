@@ -234,7 +234,7 @@ W tym samouczku przyjrzeliśmy się, jak skonfigurować opcje bitmapy i rysować
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Wykorzystując te zasoby, możesz zwiększyć swoje zrozumienie i wykorzystanie Aspose.Imaging for Java w swoich projektach. Miłego kodowania!
 

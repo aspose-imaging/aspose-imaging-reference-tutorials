@@ -154,7 +154,7 @@ image.Save(outputDir + "/DitheringForDICOMImage_out.bmp", new BmpOptions());
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/net/)
 - [臨時執照](https://purchase.aspose.com/temporary-license/)
-- [支援論壇](https://forum.aspose.com/c/imaging/10)
+- [支援論壇](https://forum.aspose.com/c/imaging/14)
 
 本綜合指南為您提供了使用 Aspose.Imaging for .NET 將閾值抖動應用於 DICOM 影像所需的一切，從而增強了您的影像處理能力。
 

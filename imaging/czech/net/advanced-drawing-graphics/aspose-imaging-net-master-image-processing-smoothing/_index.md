@@ -169,7 +169,7 @@ Zvládnutím těchto technik můžete výrazně zefektivnit pracovní postupy zp
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/net/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu budete dobře vybaveni k využití síly Aspose.Imaging pro .NET ve vašich úlohách zpracování obrazu. Přejeme vám šťastné programování!
 

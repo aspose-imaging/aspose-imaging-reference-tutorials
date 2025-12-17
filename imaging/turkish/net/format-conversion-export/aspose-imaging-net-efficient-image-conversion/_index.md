@@ -137,7 +137,7 @@ Toplu işlem veya bulut depolama çözümleriyle entegrasyon gibi Aspose.Imaging
 - [.NET için Aspose.Imaging'i indirin](https://releases.aspose.com/imaging/net/)
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme ve Geçici Lisans](https://releases.aspose.com/imaging/net/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Anlayışınızı derinleştirmek ve Aspose.Imaging .NET ile uygulamalarınızı geliştirmek için bu kaynakları keşfedin. İyi kodlamalar!
 

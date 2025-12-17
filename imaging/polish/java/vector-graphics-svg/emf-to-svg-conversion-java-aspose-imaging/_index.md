@@ -199,7 +199,7 @@ Wypróbuj to rozwiązanie w swoim projekcie już dziś i zobacz, jak usprawni on
    - Biblioteka jest dostępna w ramach licencji próbnej; pełny dostęp do funkcji wymaga zakupu.
 
 5. **Gdzie mogę uzyskać pomoc, jeśli jej potrzebuję?**
-   - Odwiedzać [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10) po pomoc.
+   - Odwiedzać [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14) po pomoc.
 
 ## Zasoby
 

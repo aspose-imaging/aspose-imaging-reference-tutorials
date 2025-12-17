@@ -215,7 +215,7 @@ Sepanjang tutorial ini, kami telah menjelajahi bagaimana Aspose.Imaging untuk Ja
 ### Langkah Berikutnya
 - Jelajahi opsi konversi tambahan yang tersedia di Aspose.Imaging.
 - Integrasikan fungsi ini ke dalam proyek atau alur kerja yang lebih besar.
-- Berbagi umpan balik atau mencari dukungan dari [Forum komunitas Aspose](https://forum.aspose.com/c/imaging/10).
+- Berbagi umpan balik atau mencari dukungan dari [Forum komunitas Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Bagian FAQ
 
@@ -241,7 +241,7 @@ A5: Jelajahi [Dokumentasi Aspose.Imaging](https://reference.aspose.com/imaging/j
 - **Pembelian:** https://purchase.aspose.com/beli
 - **Uji Coba Gratis:** https://releases.aspose.com/imaging/java/
 - **Lisensi Sementara:** https://purchase.aspose.com/lisensi-sementara/
-- **Mendukung:** https://forum.aspose.com/c/imaging/10
+- **Mendukung:** https://forum.aspose.com/c/imaging/14
 
 Dengan memanfaatkan Aspose.Imaging untuk Java, Anda dapat menyederhanakan proses konversi gambar dan membuka kemungkinan baru dalam penanganan media digital. Selamat membuat kode!
 

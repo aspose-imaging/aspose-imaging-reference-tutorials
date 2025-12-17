@@ -160,7 +160,7 @@ Optimalizujte využití paměti zpracováním obrázků v menších blocích a e
 Aspose.Imaging se primárně zaměřuje na DICOM, ale podporuje i širokou škálu dalších obrazových formátů.
 
 **5. Kde mohu získat pomoc, pokud narazím na problémy s Aspose.Imaging?**
-Navštivte [Fóra Aspose](https://forum.aspose.com/c/imaging/10) pro podporu a pro spojení s ostatními uživateli a odborníky.
+Navštivte [Fóra Aspose](https://forum.aspose.com/c/imaging/14) pro podporu a pro spojení s ostatními uživateli a odborníky.
 
 ## Zdroje
 

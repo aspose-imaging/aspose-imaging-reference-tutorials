@@ -184,7 +184,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **Αγορά**: [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Χαρακτηριστικά δοκιμής](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αίτημα εδώ](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Γίνετε μέλος του Φόρουμ](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Γίνετε μέλος του Φόρουμ](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτές τις οδηγίες, θα είστε πλήρως εξοπλισμένοι για να βελτιώσετε τις εικόνες σας χρησιμοποιώντας τις λειτουργίες κανονικοποίησης ιστογράμματος του Aspose.Imaging Java. Καλή κωδικοποίηση!
 

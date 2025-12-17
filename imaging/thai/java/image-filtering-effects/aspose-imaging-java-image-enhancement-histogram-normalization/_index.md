@@ -184,7 +184,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **ซื้อ**- [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [คุณสมบัติการทดสอบ](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว**- [ขอคำร้องได้ที่นี่](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน**- [เข้าร่วมฟอรั่ม](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน**- [เข้าร่วมฟอรั่ม](https://forum.aspose.com/c/imaging/14)
 
 หากปฏิบัติตามแนวทางเหล่านี้ คุณจะพร้อมปรับปรุงภาพของคุณโดยใช้ฟีเจอร์การปรับมาตรฐานฮิสโทแกรมของ Aspose.Imaging Java ขอให้สนุกกับการเขียนโค้ด!
 

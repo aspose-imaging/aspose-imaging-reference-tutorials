@@ -173,7 +173,7 @@ Aspose.Imaging for Java による DICOM メタデータの管理は、医用画�
    - メタデータの操作ではピクセルデータは変更されないため、画像の品質はそのまま維持されます。
 
 5. **問題が発生した場合、どこでサポートを受けられますか?**
-   - 訪問 [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/10) コミュニティの専門家と Aspose スタッフからのサポートを受けられます。
+   - 訪問 [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/14) コミュニティの専門家と Aspose スタッフからのサポートを受けられます。
 
 ## リソース
 

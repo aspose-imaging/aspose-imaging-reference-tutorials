@@ -250,7 +250,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **شراء:** [شراء Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [ابدأ تجربتك المجانية](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة:** [الحصول على ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 نفّذ هذه الميزات في مشاريع جافا الخاصة بك لاكتشاف إمكانيات جديدة وتبسيط سير عمل معالجة الصور باستخدام Aspose.Imaging. برمجة ممتعة!
 

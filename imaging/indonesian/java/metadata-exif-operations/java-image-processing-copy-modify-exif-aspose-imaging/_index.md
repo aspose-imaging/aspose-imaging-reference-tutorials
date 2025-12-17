@@ -198,7 +198,7 @@ Bereksperimenlah dengan berbagai bidang EXIF dan jelajahi fitur-fitur yang lebih
    - Tentu saja, ia dirancang untuk menangani persyaratan kinerja tinggi secara efektif.
 
 5. **Bagaimana saya dapat berkontribusi pada komunitas atau mencari bantuan terkait permasalahan?**
-   - Bergabunglah dengan [Forum Aspose](https://forum.aspose.com/c/imaging/10) untuk mengajukan pertanyaan dan berbagi wawasan.
+   - Bergabunglah dengan [Forum Aspose](https://forum.aspose.com/c/imaging/14) untuk mengajukan pertanyaan dan berbagi wawasan.
 
 ## Sumber daya
 

@@ -176,7 +176,7 @@ V5: Teljesen egyetértek. Úgy tervezték, hogy könnyen integrálható és más
 - **Vásárlás**: [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Kezdje itt](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Jelentkezz most](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Közösségi fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Közösségi fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezzel az átfogó útmutatóval elsajátíthatod a képek betöltését és átméretezését Java nyelven az Aspose.Imaging használatával. Jó kódolást!
 

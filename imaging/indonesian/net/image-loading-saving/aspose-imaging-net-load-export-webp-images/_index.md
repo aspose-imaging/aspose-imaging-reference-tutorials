@@ -129,7 +129,7 @@ Anda kini telah menguasai cara memuat gambar dan mengekspornya ke WebP menggunak
 ### Langkah Berikutnya
 - Bereksperimenlah dengan berbagai pilihan ekspor seperti menyesuaikan tingkat kualitas.
 - Jelajahi pengintegrasian Aspose.Imaging ke dalam proyek atau alur kerja yang lebih besar.
-- Berinteraksi dengan komunitas di [Forum Aspose](https://forum.aspose.com/c/imaging/10) untuk dukungan dan ide.
+- Berinteraksi dengan komunitas di [Forum Aspose](https://forum.aspose.com/c/imaging/14) untuk dukungan dan ide.
 
 ## Bagian FAQ
 
@@ -154,7 +154,7 @@ Pastikan jalur Anda benar dan berkas input ada. Periksa pengecualian pada keluar
 - **Pembelian:** [Beli Lisensi](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Mulai di sini](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara:** [Permintaan Satu](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan:** [Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan:** [Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan pemrosesan gambar Anda dengan percaya diri menggunakan Aspose.Imaging .NET, dan jelajahi kemungkinan tak terbatas dalam pencitraan digital.
 

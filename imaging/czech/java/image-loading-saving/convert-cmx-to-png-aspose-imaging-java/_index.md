@@ -218,7 +218,7 @@ A: Využijte dávkové zpracování a optimalizujte nastavení paměti pro efekt
 - **Nákup**Zakupte si licenci nebo zkušební verzi prostřednictvím [Nákup Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**Vyzkoušejte Aspose.Imaging s tímto [odkaz na bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**Získejte dočasnou licenci prostřednictvím [tento odkaz](https://purchase.aspose.com/temporary-license/)
-- **Podpora**Zapojte se do diskuse o problémech se zpracováním obrazu v [Fóra Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**Zapojte se do diskuse o problémech se zpracováním obrazu v [Fóra Aspose](https://forum.aspose.com/c/imaging/14)
 
 Pusťte se do svého dalšího projektu s důvěrou, protože máte nástroje a znalosti pro bezproblémový převod souborů CMX. Přejeme vám příjemné programování!
 

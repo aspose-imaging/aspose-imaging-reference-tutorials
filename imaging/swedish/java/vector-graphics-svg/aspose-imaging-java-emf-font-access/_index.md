@@ -237,7 +237,7 @@ A5: Även om Aspose.Imaging-operationer inte är trådsäkra i sig, kan du hante
 - **Köpa:** [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Prova Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Börja din resa med Aspose.Imaging för Java idag och lås upp den fulla potentialen av bildbehandling i dina applikationer!
 

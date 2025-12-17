@@ -133,7 +133,7 @@ A: Aspose.Imaging mendukung operasi batch melalui loop dan paralelisme tugas dal
 - **Pembelian**: [Beli Lisensi](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Sekarang](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan**: [Ajukan Pertanyaan di Sini](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan**: [Ajukan Pertanyaan di Sini](https://forum.aspose.com/c/imaging/14)
 
 Mulailah menggunakan Aspose.Imaging hari ini untuk menyempurnakan aplikasi .NET Anda dengan kemampuan pemrosesan gambar yang tangguh!
 

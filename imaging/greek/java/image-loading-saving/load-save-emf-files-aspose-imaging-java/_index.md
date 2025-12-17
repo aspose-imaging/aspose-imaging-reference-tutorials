@@ -196,7 +196,7 @@ try {
 - **Αγορά**Για μια πλήρη άδεια χρήσης, επισκεφθείτε τη διεύθυνση [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy).
 - **Δωρεάν δοκιμή**: Ξεκινήστε με μια δοκιμή στο [Δωρεάν Λήψεις Aspose.Imaging](https://releases.aspose.com/imaging/java/).
 - **Προσωρινή Άδεια**Αποκτήστε προσωρινή άδεια από [Σελίδα αδειοδότησης Aspose](https://purchase.aspose.com/temporary-license/).
-- **Υποστήριξη**: Συμμετέχετε στη συζήτηση στο [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10).
+- **Υποστήριξη**: Συμμετέχετε στη συζήτηση στο [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14).
 
 Με αυτούς τους πόρους, είστε άρτια εξοπλισμένοι για να εμβαθύνετε στην επεξεργασία εικόνας με το Aspose.Imaging για Java. Καλή κωδικοποίηση!
 

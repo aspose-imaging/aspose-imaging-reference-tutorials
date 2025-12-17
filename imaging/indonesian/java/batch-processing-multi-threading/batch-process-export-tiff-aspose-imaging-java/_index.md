@@ -163,7 +163,7 @@ A: Meskipun Aspose.Imaging sendiri tidak menyediakan multi-threading bawaan, And
 J: Uji coba gratis memungkinkan fungsionalitas penuh tetapi menambahkan tanda air pada gambar dan membatasi waktu penggunaan. Pertimbangkan untuk mendapatkan lisensi sementara atau berbayar untuk akses tanpa gangguan.
 
 **Q5: Bagaimana cara memecahkan masalah umum pada pemrosesan gambar?**
-A: Pastikan jalur file Anda benar, periksa apakah Anda memiliki sumber daya sistem yang cukup, dan lihat [forum dukungan](https://forum.aspose.com/c/imaging/10) jika diperlukan.
+A: Pastikan jalur file Anda benar, periksa apakah Anda memiliki sumber daya sistem yang cukup, dan lihat [forum dukungan](https://forum.aspose.com/c/imaging/14) jika diperlukan.
 
 ## Sumber daya
 
@@ -172,7 +172,7 @@ A: Pastikan jalur file Anda benar, periksa apakah Anda memiliki sumber daya sist
 - **Pembelian**: Dapatkan lisensi melalui [Halaman pembelian Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**:Mulai jelajahi fitur dengan [versi uji coba gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: Minta lisensi sementara melalui [Halaman lisensi sementara Aspose](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**:Untuk pertanyaan apa pun, kunjungi [forum dukungan](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**:Untuk pertanyaan apa pun, kunjungi [forum dukungan](https://forum.aspose.com/c/imaging/14)
 
 Dengan panduan lengkap ini, Anda siap meningkatkan kemampuan pemrosesan gambar menggunakan Aspose.Imaging untuk Java!
 

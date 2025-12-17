@@ -194,7 +194,7 @@ Door deze handleiding te volgen, hebt u geleerd hoe u een PNG-bestand laadt, PDF
 - [Aankoop](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Begin vol vertrouwen aan uw volgende project, wetende dat Aspose.Imaging voor Java de oplossing is!
 

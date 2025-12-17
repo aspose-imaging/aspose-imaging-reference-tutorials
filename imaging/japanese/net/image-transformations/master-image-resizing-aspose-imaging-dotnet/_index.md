@@ -148,7 +148,7 @@ image.Save(outputDir);
 - **購入**https://purchase.aspose.com/buy
 - **無料トライアル**https://releases.aspose.com/imaging/net/
 - **一時ライセンス**https://purchase.aspose.com/temporary-license/
-- **サポート**https://forum.aspose.com/c/imaging/10
+- **サポート**https://forum.aspose.com/c/imaging/14
 
 今すぐ Aspose.Imaging を使って画像処理をマスターする旅に出かけましょう。
 

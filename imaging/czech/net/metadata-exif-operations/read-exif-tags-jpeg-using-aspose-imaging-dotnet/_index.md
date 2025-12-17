@@ -145,7 +145,7 @@ A5: Zpracovávejte obrazy paralelně, pokud je to možné, a zajistěte správn�
 - **Zakoupit licenci**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte to](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Žádost zde](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Ptejte se](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Ptejte se](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se na cestu s Aspose.Imaging pro .NET ještě dnes a začněte využívat sílu obrazových metadat!
 

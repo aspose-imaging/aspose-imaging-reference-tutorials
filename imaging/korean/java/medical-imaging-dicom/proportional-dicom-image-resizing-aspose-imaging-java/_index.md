@@ -204,7 +204,7 @@ Java 메모리 관리 및 Aspose.Imaging 구성의 모범 사례를 따르면 �
 - **구입**: https://purchase.aspose.com/buy
 - **무료 체험**: https://releases.aspose.com/imaging/java/
 - **임시 면허**: https://purchase.aspose.com/temporary-license/
-- **지원하다**: https://forum.aspose.com/c/imaging/10
+- **지원하다**: https://forum.aspose.com/c/imaging/14
 
 이러한 리소스를 활용하면 Aspose.Imaging에 대한 이해를 높이고 Java 애플리케이션에서 Aspose.Imaging을 효과적으로 구현할 수 있습니다. 즐거운 코딩 되세요!
 

@@ -176,7 +176,7 @@ A5: Kesinlikle. Diğer kütüphanelerle kolayca entegre edilebilecek ve kullanı
 - **Satın almak**: [Lisans satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Buradan Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Şimdi Başvur](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Topluluk Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Topluluk Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı kılavuzla artık Aspose.Imaging kullanarak Java'da resim yükleme ve yeniden boyutlandırma konusunda uzmanlaşacaksınız. İyi kodlamalar!
 

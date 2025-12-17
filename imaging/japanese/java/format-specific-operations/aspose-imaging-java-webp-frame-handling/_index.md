@@ -168,7 +168,7 @@ Aspose.Imaging Java は、WebP を含むさまざまな形式の画像を処理�
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルから始める](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 次のステップに進み、これらのテクニックを今すぐプロジェクトに実装し始めましょう。
 

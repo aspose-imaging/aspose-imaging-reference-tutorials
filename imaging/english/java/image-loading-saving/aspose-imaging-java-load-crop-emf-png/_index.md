@@ -216,7 +216,7 @@ You've now mastered how to load, crop EMF files, and convert them to PNG using A
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/java/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Embrace the power of Aspose.Imaging Java to elevate your image processing capabilities today!
 

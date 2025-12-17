@@ -203,7 +203,7 @@ A5: Besök [Aspose-dokumentation](https://reference.aspose.com/imaging/java/) f�
 - **Köpa**: https://purchase.aspose.com/buy
 - **Gratis provperiod**: https://releases.aspose.com/imaging/java/
 - **Tillfällig licens**https://purchase.aspose.com/temporary-license/
-- **Stöd**: https://forum.aspose.com/c/imaging/10
+- **Stöd**: https://forum.aspose.com/c/imaging/14
 
 Utforska dessa resurser för att ytterligare förbättra din förståelse och tillämpning av Aspose.Imaging i Java. Lycka till med kodningen!
 

@@ -183,7 +183,7 @@ Ya dominas la carga de imágenes JPEG y la extracción de sus etiquetas EXIF con
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Descarga de prueba gratuita](https://releases.aspose.com/imaging/net/)
 - [Información sobre la licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -203,7 +203,7 @@ Ya domina los conceptos básicos de carga, ajuste y almacenamiento de imágenes 
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Con este tutorial, ya estás preparado para mejorar tus aplicaciones Java con potentes funciones de procesamiento de imágenes usando Aspose.Imaging. ¡Que disfrutes programando!
 

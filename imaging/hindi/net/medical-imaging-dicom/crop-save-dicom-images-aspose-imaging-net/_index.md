@@ -184,7 +184,7 @@ saveAsBMP(image, outputPath);
 - **क्रय लाइसेंस:** [Aspose उत्पाद खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [Aspose.Imaging निःशुल्क परीक्षण](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस:** [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच:** [Aspose समर्थन समुदाय](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच:** [Aspose समर्थन समुदाय](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

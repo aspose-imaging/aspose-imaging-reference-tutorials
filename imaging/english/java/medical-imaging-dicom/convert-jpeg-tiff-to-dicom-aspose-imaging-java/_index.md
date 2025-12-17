@@ -178,7 +178,7 @@ You now have the tools to convert JPEG and TIFF images into DICOM format using A
 - **Purchase**: [Buy Aspose Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Free](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 By following this tutorial, you'll be well-equipped to handle image conversion tasks in your medical imaging projects using Aspose.Imaging for Java.
 

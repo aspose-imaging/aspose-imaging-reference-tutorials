@@ -189,7 +189,7 @@ Aspose.Imaging được tối ưu hóa để quản lý bộ nhớ hiệu quả 
 - **Giấy phép mua hàng:** [Mua ngay](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** Khám phá đầy đủ các tính năng với giấy phép tạm thời từ [đây](https://releases.aspose.com/imaging/net/).
 - **Giấy phép tạm thời:** Nhận một để đánh giá tại [liên kết này](https://purchase.aspose.com/temporary-license/).
-- **Diễn đàn hỗ trợ:** Thăm nom [Hỗ trợ cộng đồng Aspose](https://forum.aspose.com/c/imaging/10) cho bất kỳ câu hỏi hoặc vấn đề nào.
+- **Diễn đàn hỗ trợ:** Thăm nom [Hỗ trợ cộng đồng Aspose](https://forum.aspose.com/c/imaging/14) cho bất kỳ câu hỏi hoặc vấn đề nào.
 
 Bằng cách làm theo hướng dẫn toàn diện này, giờ đây bạn đã có thể tạo hình ảnh WebP bằng Aspose.Imaging cho .NET một cách hiệu quả. Chúc bạn viết mã vui vẻ!
 

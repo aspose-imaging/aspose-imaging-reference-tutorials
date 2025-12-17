@@ -228,7 +228,7 @@ image.save(outDir + "result.png", options);
 - **खरीदना**: [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [Aspose.Imaging आज़माएँ](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [एस्पोज इमेजिंग फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [एस्पोज इमेजिंग फोरम](https://forum.aspose.com/c/imaging/14)
 
 इन संसाधनों की खोज करके, आप Aspose.Imaging और इसकी क्षमताओं के बारे में अपनी समझ को गहरा कर सकते हैं। हैप्पी कोडिंग!
 

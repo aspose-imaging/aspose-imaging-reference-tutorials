@@ -193,7 +193,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **购买：** 通过购买许可证 [Aspose 购买门户](https://purchase.aspose.com/buy)
 - **免费试用：** 通过以下方式获取临时许可证 [Aspose 免费试用](https://releases.aspose.com/imaging/java/)
 - **临时执照：** 获取一个 [Aspose 临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持：** 加入社区并获得帮助 [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持：** 加入社区并获得帮助 [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 按照本指南，您可以有效地将 Aspose.Imaging 集成到您的 Java 项目中，轻松处理图像加载和旋转。祝您编码愉快！
 

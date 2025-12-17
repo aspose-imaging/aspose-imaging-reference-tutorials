@@ -177,7 +177,7 @@ Klaar om verder te ontdekken? Probeer deze oplossing eens en zie hoe het uw proj
 - **Aankoop**: Overweeg om te kopen voor volledige toegang op [Aspose aankoopsite](https://purchase.aspose.com/buy).
 - **Gratis proefperiode**: Probeer de functies uit met een gratis proefversie die u op dezelfde pagina kunt vinden.
 - **Tijdelijke licentie**: Vraag een tijdelijke vergunning aan om uw evaluatieperiode te verlengen.
-- **Steun**: Neem deel aan discussies en stel vragen op de [Aspose-forum](https://forum.aspose.com/c/imaging/10).
+- **Steun**: Neem deel aan discussies en stel vragen op de [Aspose-forum](https://forum.aspose.com/c/imaging/14).
 
 Met deze uitgebreide handleiding ben je klaar om beeldtransparantie in Java onder de knie te krijgen met Aspose.Imaging. Veel plezier met coderen!
 

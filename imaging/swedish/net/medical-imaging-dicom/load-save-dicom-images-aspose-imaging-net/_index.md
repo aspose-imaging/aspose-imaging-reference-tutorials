@@ -126,7 +126,7 @@ A5: Ja, Aspose.Imaging stöder molnmiljöer, vilket möjliggör integration med 
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Få en gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Begär en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

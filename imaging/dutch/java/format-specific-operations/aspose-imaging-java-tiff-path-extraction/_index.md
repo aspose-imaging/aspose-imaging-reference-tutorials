@@ -211,7 +211,7 @@ Door deze handleiding te volgen, hebt u geleerd hoe u Aspose.Imaging voor Java k
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Omarm de kracht van Aspose.Imaging Java en transformeer vandaag nog uw beeldverwerkingsmogelijkheden!
 

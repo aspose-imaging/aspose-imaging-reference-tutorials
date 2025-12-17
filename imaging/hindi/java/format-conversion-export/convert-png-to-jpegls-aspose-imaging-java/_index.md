@@ -204,7 +204,7 @@ finally {
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण पहुँच](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस आवेदन](https://purchase.aspose.com/temporary-license/)
-- [सामुदायिक सहायता मंच](https://forum.aspose.com/c/imaging/10)
+- [सामुदायिक सहायता मंच](https://forum.aspose.com/c/imaging/14)
 
 इस व्यापक गाइड का पालन करके, अब आप Aspose.Imaging for Java का उपयोग करके PNG-से-JPEG-LS रूपांतरण और इसके विपरीत कुशलतापूर्वक संभालने के लिए सुसज्जित हैं। हैप्पी कोडिंग!
 

@@ -150,7 +150,7 @@ A5: Process images in parallel where possible, and ensure proper disposal of ima
 - **Purchase a License**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try It Out](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Request Here](https://purchase.aspose.com/temporary-license/)
-- **Support Forum**: [Ask Questions](https://forum.aspose.com/c/imaging/10)
+- **Support Forum**: [Ask Questions](https://forum.aspose.com/c/imaging/14)
 
 Embark on your journey with Aspose.Imaging for .NET today and start harnessing the power of image metadata!
 

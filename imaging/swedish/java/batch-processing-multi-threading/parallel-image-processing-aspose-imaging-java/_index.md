@@ -223,7 +223,7 @@ A5: Den låter dig läsa från eller skriva till specifika positioner i en fil, 
 - [Ladda ner Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod och tillfällig licens](https://releases.aspose.com/imaging/java/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10) 
+- [Supportforum](https://forum.aspose.com/c/imaging/14) 
 
 Ge dig ut på din resa med Aspose.Imaging Java idag och frigör potentialen hos högpresterande bildbehandling i dina projekt!
 

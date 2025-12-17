@@ -173,7 +173,7 @@ Versuchen Sie, diese Schritte in Ihrer eigenen Entwicklungsumgebung zu implement
 - **Kaufen:** [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Kostenlose Testversion starten](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Temporäre Lizenz anfordern](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum:** [Aspose Imaging Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum:** [Aspose Imaging Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Erkunden Sie diese Ressourcen und integrieren Sie Aspose.Imaging in Ihre Projekte, um nahtlose Bildverarbeitungsfunktionen zu erhalten.
 

@@ -160,7 +160,7 @@ Bằng cách làm theo hướng dẫn này, bạn đã học cách chuyển đ�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Truy cập dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Đơn xin cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Với hướng dẫn toàn diện này, giờ đây bạn đã có thể tận dụng Aspose.Imaging cho .NET trong các dự án của mình. Chúc bạn viết mã vui vẻ!
 

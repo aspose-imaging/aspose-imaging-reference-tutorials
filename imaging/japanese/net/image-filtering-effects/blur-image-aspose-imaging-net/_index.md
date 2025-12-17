@@ -153,7 +153,7 @@ Aspose.Imaging for .NETを使用して画像をぼかす方法、インストー
 - **購入**： [Aspose製品を購入する](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルを始める](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [臨時免許証を取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

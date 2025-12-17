@@ -258,7 +258,7 @@ A5: Considere procesar imágenes grandes en fragmentos más pequeños, aprovecha
 - **Licencia de compra:** [Comprar una licencia](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Obtenga su prueba gratuita](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** [Obtener licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Foro de soporte:** [Soporte de Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Foro de soporte:** [Soporte de Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Esperamos que este tutorial te haya proporcionado las habilidades necesarias para optimizar tus tareas de procesamiento de imágenes con Aspose.Imaging para Java. ¡Que disfrutes programando!
 

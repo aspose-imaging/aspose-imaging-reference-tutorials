@@ -172,7 +172,7 @@ if (exif != null)
 - **구입:** [Aspose 라이선스 옵션 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [무료 체험판을 사용해 보세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허:** [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [Aspose 포럼 지원](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** [Aspose 포럼 지원](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따라 하면 Aspose.Imaging for .NET을 사용하여 JPEG 이미지와 해당 메타데이터를 처리하는 데 필요한 모든 기능을 갖추게 될 것입니다. 즐거운 코딩 되세요!
 

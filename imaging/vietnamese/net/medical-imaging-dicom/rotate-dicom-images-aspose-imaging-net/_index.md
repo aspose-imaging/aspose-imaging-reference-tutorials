@@ -147,7 +147,7 @@ Thăm nom [Mua Aspose](https://purchase.aspose.com/buy) để biết thông tin 
 - **Tài liệu:** Khám phá hướng dẫn toàn diện tại [Tài liệu Aspose.Imaging](https://reference.aspose.com/imaging/net/).
 - **Tải xuống:** Nhận phiên bản mới nhất của Aspose.Imaging từ [Trang phát hành](https://releases.aspose.com/imaging/net/).
 - **Mua và cấp phép:** Để biết thêm chi tiết về các tùy chọn mua hàng có tại [Mua](https://purchase.aspose.com/buy) Và [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/).
-- **Ủng hộ:** Đối với các câu hỏi hoặc vấn đề, hãy truy cập [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10).
+- **Ủng hộ:** Đối với các câu hỏi hoặc vấn đề, hãy truy cập [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

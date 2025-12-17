@@ -195,7 +195,7 @@ A: De bibliotheek is robuust, maar kan prestatiebeperkingen hebben bij extreem g
 - **Aankoop**: [Koop Aspose Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Begin met een gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Hier aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Stel vragen](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Stel vragen](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u goed op weg om de krachtige beeldverwerkingsmogelijkheden van Aspose.Imaging voor Java onder de knie te krijgen. Veel plezier met programmeren!
 

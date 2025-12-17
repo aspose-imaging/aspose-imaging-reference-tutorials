@@ -165,7 +165,7 @@ A5: Ano, Aspose.Imaging podporuje širokou škálu formátů včetně JPEG, PNG,
 - **Zakoupit licenci**Navštivte [Nákupní stránka Aspose](https://purchase.aspose.com/buy) pro možnosti licencování.
 - **Bezplatná zkušební verze**Vyzkoušejte si funkce stažením z [Vydání](https://releases.aspose.com/imaging/net/).
 - **Dočasná licence**Požádejte o dočasnou licenci na adrese [Licencování Aspose](https://purchase.aspose.com/temporary-license/).
-- **Podpora a komunita**Zapojte se do diskusí nebo vyhledejte pomoc na [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Podpora a komunita**Zapojte se do diskusí nebo vyhledejte pomoc na [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

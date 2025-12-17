@@ -189,7 +189,7 @@ image.Dispose();
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण पहुँच](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस आवेदन](https://purchase.aspose.com/temporary-license/)
-- [सामुदायिक सहायता मंच](https://forum.aspose.com/c/imaging/10)
+- [सामुदायिक सहायता मंच](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड का पालन करके, आप Aspose.Imaging .NET का उपयोग करके जटिल छवि रूपांतरणों को संभालने के लिए अच्छी तरह से सुसज्जित होंगे। हैप्पी कोडिंग!
 

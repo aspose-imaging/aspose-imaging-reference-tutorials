@@ -198,7 +198,7 @@ Megtanultad, hogyan tölthetsz be és exportálhatsz SVG fájlokat PDF-be az Asp
 - [Vásárlás](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Kezdje el megvalósítani ezeket a funkciókat a projektjeiben még ma, és nézze meg, hogyan javíthatja a munkafolyamatát az Aspose.Imaging Java-hoz!
 

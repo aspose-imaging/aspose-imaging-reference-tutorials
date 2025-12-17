@@ -186,7 +186,7 @@ Utforska fler funktioner i Aspose.Imaging eller försök att konvertera andra bi
 - **Köpa:** [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Få en gratis provperiod](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Ansök om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din resa mot att bemästra bildkonverteringar i Java med Aspose.Imaging idag!
 

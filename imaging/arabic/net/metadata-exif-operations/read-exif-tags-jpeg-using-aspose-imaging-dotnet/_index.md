@@ -145,7 +145,7 @@ A3: تنفيذ معالجة الأخطاء للتحقق مما إذا كان `Ex
 - **شراء ترخيص**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جربها](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [اطلب هنا](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم**: [اطرح الأسئلة](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم**: [اطرح الأسئلة](https://forum.aspose.com/c/imaging/14)
 
 ابدأ رحلتك مع Aspose.Imaging لـ .NET اليوم وابدأ في الاستفادة من قوة بيانات الصورة التعريفية!
 

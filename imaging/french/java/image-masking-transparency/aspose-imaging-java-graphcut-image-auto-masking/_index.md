@@ -205,7 +205,7 @@ Dans ce tutoriel, nous avons exploré comment implémenter le masquage automatiq
 - Expérimentez différentes configurations des options de masquage.
 - Découvrez d’autres fonctionnalités offertes par Aspose.Imaging pour des capacités de traitement d’image supplémentaires.
 
-Pour d'autres questions ou pour obtenir de l'aide, visitez le [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10).
+Pour d'autres questions ou pour obtenir de l'aide, visitez le [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14).
 
 ## Section FAQ
 
@@ -231,7 +231,7 @@ R : L'essai gratuit vous permet de tester toutes les fonctionnalités, mais il i
 - **Achat**: [Acheter des options de licence Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencez par un essai gratuit](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**: [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Lancez-vous dès aujourd'hui dans votre voyage vers la maîtrise du masquage automatique d'images avec Aspose.Imaging et Java !
 

@@ -170,7 +170,7 @@ image.save("YOUR_OUTPUT_DIRECTORY/SampleTiff1.out.tiff");
 - **Άδεια Αγοράς:** [Αγοράστε τώρα](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Ξεκινήστε τη δοκιμή σας](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** [Αποκτήστε εδώ](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ υποστήριξης:** [Κάντε ερωτήσεις](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ υποστήριξης:** [Κάντε ερωτήσεις](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, θα είστε πλήρως εξοπλισμένοι για να χειρίζεστε εργασίες επεξεργασίας εικόνας με ευκολία χρησιμοποιώντας το Aspose.Imaging για Java. Καλή κωδικοποίηση!
 

@@ -194,7 +194,7 @@ Készen állsz arra, hogy képfeldolgozási készségeidet a következő szintre
 - **Vásárlás**Teljes körű licenc beszerzése a következőn keresztül: [Az Aspose vásárlási oldala](https://purchase.aspose.com/buy).
 - **Ingyenes próbaverzió**: Kezdje ingyenes próbaverzióval, hogy felfedezhesse a funkciókat a következő címen: [Aspose letöltések](https://releases.aspose.com/imaging/java/).
 - **Ideiglenes engedély**: Ideiglenes engedélyt igényelhet hosszabbított tesztelésre a következő címen: [Aspose ideiglenes engedély](https://purchase.aspose.com/temporary-license/).
-- **Támogatás**Csatlakozz a közösséghez, és kérj segítséget a következő oldalon: [Aspose Fórum](https://forum.aspose.com/c/imaging/10).
+- **Támogatás**Csatlakozz a közösséghez, és kérj segítséget a következő oldalon: [Aspose Fórum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

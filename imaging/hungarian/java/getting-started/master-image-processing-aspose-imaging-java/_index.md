@@ -209,7 +209,7 @@ Most már elsajátítottad a JPG képek átméretezését és a több képkocká
 5. **Hogyan javítják a TIFF keretek a képkezelést?**  
    Több kép egyetlen fájlba való összevonásával megkönnyíti a kapcsolódó képek nagyméretű gyűjteményeinek kezelését és terjesztését.
 
-További forrásokért lásd az Aspose.Imaging oldalát. [dokumentáció](https://reference.aspose.com/imaging/java/) és fedezd fel a [letöltési oldal](https://releases.aspose.com/imaging/java/) a legújabb frissítésekért. Bármilyen támogatási kérdés esetén látogassa meg a következőt: [Aspose fórum](https://forum.aspose.com/c/imaging/10).
+További forrásokért lásd az Aspose.Imaging oldalát. [dokumentáció](https://reference.aspose.com/imaging/java/) és fedezd fel a [letöltési oldal](https://releases.aspose.com/imaging/java/) a legújabb frissítésekért. Bármilyen támogatási kérdés esetén látogassa meg a következőt: [Aspose fórum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

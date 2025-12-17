@@ -112,7 +112,7 @@ A teljesítmény optimalizálása érdekében:
 ## Következtetés
 Sikeresen megtanultad, hogyan konvertálhatsz egy WMF fájlt PNG formátumba az Aspose.Imaging .NET segítségével. Ez a készség felbecsülhetetlen értékű a digitális eszközök platformok és alkalmazások közötti kezeléséhez. Ezután fedezd fel az Aspose.Imaging további funkcióit, vagy integráld más rendszerekkel a továbbfejlesztett funkciók érdekében.
 
-**Cselekvésre ösztönzés:** Próbáld meg megvalósítani ezt a megoldást a következő projektedben! Oszd meg az eredményeidet és kérdéseidet a [Aspose fórum](https://forum.aspose.com/c/imaging/10).
+**Cselekvésre ösztönzés:** Próbáld meg megvalósítani ezt a megoldást a következő projektedben! Oszd meg az eredményeidet és kérdéseidet a [Aspose fórum](https://forum.aspose.com/c/imaging/14).
 
 ## GYIK szekció
 1. **Mi az a WMF fájl?**

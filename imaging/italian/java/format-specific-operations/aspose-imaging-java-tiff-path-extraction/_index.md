@@ -211,7 +211,7 @@ Seguendo questa guida, hai imparato come sfruttare Aspose.Imaging per Java per e
 - [Acquista licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 Sfrutta la potenza di Aspose.Imaging Java e trasforma subito le tue capacità di elaborazione delle immagini!
 

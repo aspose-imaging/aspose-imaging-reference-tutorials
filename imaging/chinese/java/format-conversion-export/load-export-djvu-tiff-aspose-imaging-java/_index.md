@@ -203,7 +203,7 @@ license.setLicense("path/to/your/license.lic");
 - **购买**： [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用**： [获取免费许可证](https://releases.aspose.com/imaging/java/)
 - **临时执照**： [申请临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持**： [Aspose 社区论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**： [Aspose 社区论坛](https://forum.aspose.com/c/imaging/14)
 
 利用 Aspose.Imaging for Java，您可以简化文档处理工作流程，轻松处理 DjVu 文件。祝您编码愉快！
 

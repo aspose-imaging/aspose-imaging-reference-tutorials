@@ -163,7 +163,7 @@ Utils.deleteFile(outputPath);
 - **구입**: 라이센스를 구매하세요 [Aspose 구매](https://purchase.aspose.com/buy).
 - **무료 체험**: 해당 사이트에서 무료 체험판을 이용해 테스트해 보세요.
 - **임시 면허**: 제한 없이 모든 기능에 액세스하려면 하나를 구입하세요.
-- **지원하다**: 커뮤니티에서 도움을 받으세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10). 
+- **지원하다**: 커뮤니티에서 도움을 받으세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/14). 
 
 이 포괄적인 가이드를 따르면 이제 Aspose.Imaging을 사용하여 Java 애플리케이션에서 이미지 파일을 효율적으로 처리할 수 있게 됩니다!
 

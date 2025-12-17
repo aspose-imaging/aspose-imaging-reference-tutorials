@@ -193,7 +193,7 @@ Redo att börja implementera? Gå till [Aspose.Imaging-dokumentation](https://re
    - Du kan få en tillfällig licens för utvärdering eller köpa en fullständig licens för produktionsanvändning.
 
 5. **Var kan jag hitta stöd om jag stöter på problem?**  
-   - Besök [Aspose-forumet](https://forum.aspose.com/c/imaging/10) för stöd från samhället och myndigheterna.
+   - Besök [Aspose-forumet](https://forum.aspose.com/c/imaging/14) för stöd från samhället och myndigheterna.
 
 ## Resurser
 
@@ -202,7 +202,7 @@ Redo att börja implementera? Gå till [Aspose.Imaging-dokumentation](https://re
 - Köpa: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - Gratis provperiod: [Gratis provperioder tillgängliga](https://releases.aspose.com/imaging/java/)
 - Tillfällig licens: [Ansök om en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- Stöd: [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- Stöd: [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Med dessa resurser är du rustad att få ut det mesta av Aspose.Imaging i dina Java-projekt. Lycka till med kodningen!
 

@@ -213,7 +213,7 @@ Pro další zkoumání a pokročilé techniky se podívejte na následující:
 - **Stáhnout**Získejte nejnovější verzi od [Aspose.Imaging Releases](https://releases.aspose.com/imaging/java/)
 - **Nákup**Získejte licenci na adrese [Nákupní stránka Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**Vyzkoušejte si funkce s dočasnou licencí dostupnou na [Bezplatná zkušební verze Aspose](https://releases.aspose.com/imaging/java/)
-- **Podpora**Zapojte se do diskuse v [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**Zapojte se do diskuse v [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Začněte experimentovat a odemkněte nové kreativní možnosti s Aspose.Imaging pro Javu ještě dnes!
 

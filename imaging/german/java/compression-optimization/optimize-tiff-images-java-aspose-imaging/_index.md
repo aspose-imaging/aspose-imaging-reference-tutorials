@@ -191,7 +191,7 @@ Sie haben nun gelernt, wie Sie TIFF-Bilder in Java mit Aspose.Imaging effizient 
    - Ja, es unterstützt zahlreiche Bildformate wie JPEG, PNG, BMP und mehr.
 
 5. **Wo finde ich Unterstützung, wenn ich auf Probleme stoße?**
-   - Besuchen Sie die [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10) für die Unterstützung durch die Community und von offizieller Seite.
+   - Besuchen Sie die [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14) für die Unterstützung durch die Community und von offizieller Seite.
 
 ## Ressourcen
 

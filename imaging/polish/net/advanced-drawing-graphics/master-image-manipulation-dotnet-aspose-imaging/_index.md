@@ -149,7 +149,7 @@ Gotowy do wdrożenia? Zanurz się w Aspose.Imaging i uwolnij jego pełny potencj
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/net/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Udanego kodowania z Aspose.Imaging dla .NET! 🚀
 

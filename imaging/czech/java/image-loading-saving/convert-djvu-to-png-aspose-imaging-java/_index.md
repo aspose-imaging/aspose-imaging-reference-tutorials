@@ -213,7 +213,7 @@ Jste připraveni ponořit se hlouběji? Zkuste tato řešení implementovat ve s
 - **Zakoupit licenci**Zakoupit licenci pro komerční použití [zde](https://purchase.aspose.com/buy).
 - **Bezplatná zkušební verze**Začněte s bezplatnou zkušební verzí a otestujte si funkce bez omezení.
 - **Dočasná licence**Získejte dočasnou licenci pro vyzkoušení všech funkcí.
-- **Fórum podpory**V případě jakýchkoli dotazů navštivte fórum podpory Aspose na adrese [Fóra Aspose](https://forum.aspose.com/c/imaging/10).
+- **Fórum podpory**V případě jakýchkoli dotazů navštivte fórum podpory Aspose na adrese [Fóra Aspose](https://forum.aspose.com/c/imaging/14).
 
 Dodržováním tohoto návodu můžete efektivně spravovat a převádět obrázky DJVU pomocí Aspose.Imaging pro Javu, což vám snadno vylepší pracovní postupy pro zpracování dokumentů.
 

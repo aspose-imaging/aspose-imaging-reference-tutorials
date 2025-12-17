@@ -161,7 +161,7 @@ Untuk informasi dan bantuan lebih lanjut:
 - **Pembelian**: [Dapatkan Lisensi](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Minta di sini](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan**: [Komunitas Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan**: [Komunitas Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan lengkap ini, Anda akan siap untuk menangani tugas pemrosesan gambar dalam aplikasi .NET Anda dengan percaya diri dan efisien. Selamat membuat kode!
 

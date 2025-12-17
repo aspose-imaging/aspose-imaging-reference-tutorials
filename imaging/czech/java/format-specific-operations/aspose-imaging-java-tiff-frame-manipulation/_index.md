@@ -178,7 +178,7 @@ A: Ačkoli je Aspose.Imaging optimalizován pro výkon, zvažte použití postup
 - **Nákup**: [Koupit licenci Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začněte s bezplatnou zkušební verzí Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Připojte se k fóru Aspose a získejte podporu](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Připojte se k fóru Aspose a získejte podporu](https://forum.aspose.com/c/imaging/14)
 
 těmito dostupnými zdroji jste nyní vybaveni k tomu, abyste se s jistotou pustili do zpracování obrázků ve formátu TIFF. Přejeme vám hodně štěstí při programování!
 

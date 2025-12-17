@@ -165,7 +165,7 @@ Hãy thực hiện bước tiếp theo bằng cách thử nghiệm các cấu h�
 - **Mua:** Mua giấy phép tại [Trang cấp phép Aspose](https://purchase.aspose.com/buy).
 - **Dùng thử miễn phí:** Hãy dùng thử Aspose.Imaging với bản dùng thử miễn phí có trên trang phát hành của họ.
 - **Giấy phép tạm thời:** Có được quyền truy cập mở rộng thông qua tùy chọn cấp phép tạm thời.
-- **Ủng hộ:** Tham gia thảo luận hoặc tìm kiếm sự trợ giúp trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10).
+- **Ủng hộ:** Tham gia thảo luận hoặc tìm kiếm sự trợ giúp trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14).
 
 Hãy thử nghiệm và tích hợp quyền truy cập luồng đồng bộ vào các dự án Java của bạn để tăng cường tính ổn định và hiệu suất!
 

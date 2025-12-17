@@ -178,7 +178,7 @@ A: 무료 체험판이나 임시 라이선스로 시작할 수 있습니다. 장
 - **구입**: [Aspose.Imaging 라이선스 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging 무료 체험판으로 시작하세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [지원을 위해 Aspose 포럼에 가입하세요](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [지원을 위해 Aspose 포럼에 가입하세요](https://forum.aspose.com/c/imaging/14)
 
 이러한 리소스를 활용하면 이제 자신 있게 TIFF 이미지 처리를 수행할 수 있습니다. 즐거운 코딩 되세요!
 

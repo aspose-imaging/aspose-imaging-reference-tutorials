@@ -206,7 +206,7 @@ Dengan mengikuti panduan ini, Anda telah mempelajari cara menggambar elips denga
 - **Pembelian**: https://purchase.aspose.com/beli
 - **Uji Coba Gratis**: https://releases.aspose.com/imaging/java/
 - **Lisensi Sementara**: https://purchase.aspose.com/lisensi-sementara/
-- **Mendukung**: https://forum.aspose.com/c/imaging/10
+- **Mendukung**: https://forum.aspose.com/c/imaging/14
 
 Kami harap tutorial ini bermanfaat bagi Anda. Selamat membuat kode!
 

@@ -183,7 +183,7 @@ Explore más funciones de Aspose.Imaging, como el ajuste de contraste y las tran
 - **Compra**: [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Pruébalo gratis](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal**: [Solicitar Licencia Temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 ¡Adopte el poder de Aspose.Imaging para Java para mejorar sus tareas de procesamiento de imágenes con facilidad y precisión!
 

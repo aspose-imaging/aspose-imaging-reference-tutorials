@@ -167,7 +167,7 @@ Most már elsajátítottad a TIFF képkockák betöltését és mentését az As
 - **Vásárlás**: [Vásároljon licencet az Aspose.Imaginghez](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Kezdje ingyenes próbaverzióval](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Képalkotó Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Képalkotó Fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

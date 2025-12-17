@@ -168,7 +168,7 @@ Langkah selanjutnya dapat mencakup penjelajahan format gambar lain yang didukung
 - Beli Lisensi: [Beli Opsi Lisensi Aspose](https://purchase.aspose.com/buy)
 - Uji Coba Gratis: [Dapatkan Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - Lisensi Sementara: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- Forum Dukungan: [Dukungan Komunitas Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- Forum Dukungan: [Dukungan Komunitas Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Sekarang setelah Anda memiliki alat dan pengetahuan, cobalah menerapkan solusi ini dalam proyek Anda berikutnya!
 

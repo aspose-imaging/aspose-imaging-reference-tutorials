@@ -243,7 +243,7 @@ A5: Můžete použít `setTransparentColor()` metodu, která určuje barvu, kter
 - **Zakoupit licenci**: [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Začněte svou bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Ptejte se](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Ptejte se](https://forum.aspose.com/c/imaging/14)
 
 Doufáme, že vám tento průvodce pomohl s manipulací s obrázky v Javě pomocí Aspose.Imaging. Máte-li jakékoli dotazy, neváhejte se na nás obrátit prostřednictvím fóra podpory nebo si prohlédněte dokumentaci, kde najdete podrobnější informace. Přejeme vám příjemné programování!
 

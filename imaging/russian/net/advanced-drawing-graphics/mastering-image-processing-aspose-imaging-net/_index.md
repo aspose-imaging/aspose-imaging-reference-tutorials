@@ -167,7 +167,7 @@ Aspose.Imaging для .NET демонстрирует блестящие рез�
 - **Покупка:** [Купить лицензию Aspose](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия:** [Попробуйте бесплатную оценку](https://releases.aspose.com/imaging/net/)
 - **Временная лицензия:** [Получить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать:** [Форум Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать:** [Форум Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

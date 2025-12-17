@@ -189,7 +189,7 @@ JavaでPNG画像の背景色を変更する方法を学びました。 **Aspose.
    - 訪問 [Aspose 一時ライセンス](https://purchase.aspose.com/temporary-license/) 取得方法の詳細については、こちらをご覧ください。
 
 5. **問題が発生した場合、どのようなサポート オプションが利用できますか?**
-   - その [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10) コミュニティと Aspose チームからのサポートを提供します。
+   - その [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14) コミュニティと Aspose チームからのサポートを提供します。
 
 ## リソース
 

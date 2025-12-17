@@ -200,7 +200,7 @@ Aspose.Imagingの従量制ライセンスは多用途です。以下に実際の
    - 使用 `Metered.getConsumptionQuantity()` 画像を処理する前と後の方法を使用して使用状況を追跡します。
 
 5. **問題が発生した場合、サポートを受けることはできますか?**
-   - 訪問 [Asposeフォーラム](https://forum.aspose.com/c/imaging/10) コミュニティの専門家からのサポートを受けることができます。
+   - 訪問 [Asposeフォーラム](https://forum.aspose.com/c/imaging/14) コミュニティの専門家からのサポートを受けることができます。
 
 ## リソース
 

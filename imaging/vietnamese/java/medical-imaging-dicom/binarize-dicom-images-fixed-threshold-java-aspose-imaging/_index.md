@@ -164,7 +164,7 @@ Sẵn sàng thử chưa? Hãy triển khai giải pháp này vào dự án của
    - Tối ưu hóa môi trường và mã của bạn để quản lý bộ nhớ, sử dụng hiệu quả chức năng thu gom rác của Java.
 
 5. **Tôi có được hỗ trợ nếu gặp vấn đề không?**
-   - Bạn có thể tìm kiếm sự hỗ trợ trên [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10).
+   - Bạn có thể tìm kiếm sự hỗ trợ trên [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Tài nguyên
 

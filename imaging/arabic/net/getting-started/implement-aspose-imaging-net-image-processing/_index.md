@@ -126,7 +126,7 @@ Aspose.Imaging for .NET عبارة عن مكتبة قوية مصممة للتع�
 - **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [تجربة مجانية لبرنامج Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [الحصول على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى دعم Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى دعم Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 باتباع هذا الدليل، ستكون على الطريق الصحيح لتطبيق معالجة صور فعّالة في تطبيقات .NET باستخدام Aspose.Imaging. برمجة ممتعة!
 
 {{< /blocks/products/pf/tutorial-page-section >}}

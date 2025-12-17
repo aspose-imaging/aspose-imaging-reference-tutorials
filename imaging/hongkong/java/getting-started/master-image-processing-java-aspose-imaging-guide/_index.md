@@ -227,7 +227,7 @@ Aspose.Imaging 的 Java 函式庫功能多樣，可用於各種實際場景，�
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用版](https://releases.aspose.com/imaging/java/)
 - [臨時許可證申請](https://purchase.aspose.com/temporary-license/)
-- [支援論壇](https://forum.aspose.com/c/imaging/10)
+- [支援論壇](https://forum.aspose.com/c/imaging/14)
 
 本指南提供了在 Java 中使用 Aspose.Imaging 的全面基礎。透過理解這些技術，您可以利用強大的影像處理功能來增強您的應用程式。祝您程式愉快！
 

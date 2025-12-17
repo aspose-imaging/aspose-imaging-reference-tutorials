@@ -189,7 +189,7 @@ A5: Använd de olika metoderna som Aspose.Imaging erbjuder för att tillämpa tr
 - **Köpa**Skaffa en licens för att låsa upp alla funktioner på [Aspose köpsida](https://purchase.aspose.com/buy).
 - **Gratis provperiod**Testa Aspose.Imagings möjligheter via [gratis provnedladdningar](https://releases.aspose.com/imaging/java/).
 - **Tillfällig licens**Ansök om en tillfällig licens för utökad testning [här](https://purchase.aspose.com/temporary-license/).
-- **Stöd**För frågor eller hjälp, besök [Aspose supportforum](https://forum.aspose.com/c/imaging/10).
+- **Stöd**För frågor eller hjälp, besök [Aspose supportforum](https://forum.aspose.com/c/imaging/14).
 
 Ge dig ut på din bildbehandlingsresa idag och lås upp Aspose.Imagings fulla potential i Java!
 

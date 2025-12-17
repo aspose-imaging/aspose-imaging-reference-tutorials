@@ -184,7 +184,7 @@ rasterImage.save(outputPath, new JpegOptions(), destRect);
 
 **5. كيف يمكنني الحصول على الدعم إذا واجهت مشاكل؟**
 
-يزور [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10) للحصول على المساعدة من المجتمع وخبراء Aspose.
+يزور [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14) للحصول على المساعدة من المجتمع وخبراء Aspose.
 
 ## موارد
 

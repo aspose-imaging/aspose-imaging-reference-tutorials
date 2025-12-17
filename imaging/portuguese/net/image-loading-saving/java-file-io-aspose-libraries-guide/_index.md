@@ -156,7 +156,7 @@ Explore mais integrando essas técnicas em seus projetos ou experimentando outro
 - [Licença de compra](https://purchase.aspose.com/buy)
 - [Teste grátis](https://releases.aspose.com/imaging/net/)
 - [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte](https://forum.aspose.com/c/imaging/14)
 
 Ao dominar esses conceitos, você estará no caminho certo para criar aplicativos Java poderosos que gerenciam operações de E/S de arquivos com eficiência. Boa programação!
 

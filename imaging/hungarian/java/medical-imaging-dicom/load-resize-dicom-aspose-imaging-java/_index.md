@@ -199,7 +199,7 @@ Készen állsz kipróbálni? Vezesd be ezeket a megoldásokat, és fedezd fel jo
 - [Vásárlás](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Ez az oktatóanyag felvértezi Önt a DICOM képek Aspose.Imaging Java használatával történő manipulálásának ismereteivel, biztosítva, hogy alkalmazásai hatékonyak és skálázhatóak legyenek. Jó kódolást!
 

@@ -166,7 +166,7 @@ File.Delete(outputDir + "result.psd");
 - **شراء**: شراء ترخيص من خلال [بوابة شراء Aspose](https://purchase.aspose.com/buy).
 - **نسخة تجريبية مجانية**:ابدأ بفترة تجريبية مجانية عبر [التنزيلات](https://releases.aspose.com/imaging/net/).
 - **رخصة مؤقتة**:اطلب واحد [هنا](https://purchase.aspose.com/temporary-license/).
-- **يدعم**:انضم إلى المجتمع في [منتديات أسبوزي](https://forum.aspose.com/c/imaging/10) للحصول على المساعدة والمناقشات.
+- **يدعم**:انضم إلى المجتمع في [منتديات أسبوزي](https://forum.aspose.com/c/imaging/14) للحصول على المساعدة والمناقشات.
 
 نأمل أن يساعدك هذا الدليل على دمج خاصية تصدير الصور المتجهة في مشاريعك. برمجة ممتعة!
 

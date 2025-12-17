@@ -176,7 +176,7 @@ A: Kaynak kullanımını izleyin, görüntü işleme mantığını optimize edin
 - **Satın almak:** [Aspose Lisanslama Seçeneklerini Satın Alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Aspose.Imaging ile Ücretsiz Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Destek için Aspose Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Destek için Aspose Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Java'da Aspose.Imaging ile görüntü işleme konusunda ustalaşma yolunda iyi bir mesafe kat edeceksiniz!
 

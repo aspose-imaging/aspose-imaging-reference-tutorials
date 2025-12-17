@@ -197,7 +197,7 @@ Sind Sie bereit, diese Lösung zu implementieren? Tauchen Sie ein in Aspose.Imag
 - **Kaufen:** Besuchen [Aspose-Kaufseite](https://purchase.aspose.com/buy) für Lizenzierungsoptionen
 - **Kostenlose Testversion:** Starten Sie mit einem Test bei [Link zur kostenlosen Testversion](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** Erhalten Sie vorübergehenden Zugriff über [Seite „Temporäre Lizenz“](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** Engagieren Sie sich mit der Community auf [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** Engagieren Sie sich mit der Community auf [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

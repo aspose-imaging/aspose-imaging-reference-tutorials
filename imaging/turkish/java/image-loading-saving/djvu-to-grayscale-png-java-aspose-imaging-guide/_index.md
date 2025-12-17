@@ -200,7 +200,7 @@ C4: Gri tonlamalı görüntüler yalnızca gri tonlarını içerdiğinden dosya 
 
 **S5: Aspose.Imaging ile ilgili sorunlarla karşılaşırsam nasıl destek alabilirim?**
 
-A5: Ziyaret edin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10) Topluluk uzmanlarından ve resmi destek personelinden yardım isteyin.
+A5: Ziyaret edin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14) Topluluk uzmanlarından ve resmi destek personelinden yardım isteyin.
 
 ## Kaynaklar
 

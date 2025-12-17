@@ -231,7 +231,7 @@ En este tutorial, aprendiste a configurar una fuente predeterminada en tu aplica
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Versión de prueba gratuita](https://releases.aspose.com/imaging/java/)
 - [Obtenga una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo esta guía, estarás bien preparado para gestionar tareas complejas de procesamiento de imágenes en Java con Aspose.Imaging. ¡Que disfrutes programando!
 

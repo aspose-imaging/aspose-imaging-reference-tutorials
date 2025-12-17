@@ -153,7 +153,7 @@ A: Ano, je navržen tak, aby fungoval napříč různými frameworky .NET a verz
 - **Zakoupit licenci**: [Nákupní stránka Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušejte Aspose.Imaging zdarma](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory**: [Komunita podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory**: [Komunita podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Zvládnutím procesu konverze s Aspose.Imaging budete vybaveni k efektivnímu zvládání složitých úloh zpracování obrazu ve vašich .NET aplikacích. Přejeme vám příjemné programování!
 

@@ -145,7 +145,7 @@ A5 : Traitez les images en parallèle lorsque cela est possible et assurez-vous
 - **Acheter une licence**: [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Essayez-le](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Demandez ici](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance**: [Poser des questions](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance**: [Poser des questions](https://forum.aspose.com/c/imaging/14)
 
 Lancez-vous dès aujourd'hui dans votre voyage avec Aspose.Imaging pour .NET et commencez à exploiter la puissance des métadonnées d'image !
 

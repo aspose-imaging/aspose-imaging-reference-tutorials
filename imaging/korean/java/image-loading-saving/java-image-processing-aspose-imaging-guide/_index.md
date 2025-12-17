@@ -181,7 +181,7 @@ Aspose.Imaging을 사용할 때는 성능을 고려하는 것이 중요합니다
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging을 무료로 사용해 보세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 이미징 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 이미징 포럼](https://forum.aspose.com/c/imaging/14)
 
 성공에 필요한 도구와 지식을 갖추고 있다는 확신을 가지고 이미지 처리 여정을 시작하세요. 즐거운 코딩 되세요!
 

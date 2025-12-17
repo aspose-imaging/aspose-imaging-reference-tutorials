@@ -193,7 +193,7 @@ Bu güçlü çözümü uygulamaya hazır mısınız? Bugün Aspose.Imaging for J
 - **Lisans Satın Al:** [Bugün tam lisans satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz denemeyle başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici lisans talebinde bulunun](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu:** [Topluluktan yardım alın](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu:** [Topluluktan yardım alın](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Aspose.Imaging'i kullanarak güçlü görüntü işleme yeteneklerini Java uygulamalarınıza entegre etmek için iyi bir donanıma sahip olursunuz. İyi kodlamalar!
 

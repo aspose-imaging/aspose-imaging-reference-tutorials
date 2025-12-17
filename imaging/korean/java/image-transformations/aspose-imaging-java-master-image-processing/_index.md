@@ -209,7 +209,7 @@ Aspose.Imaging for Java는 JDK 8 이상과 호환됩니다. 개발 환경이 이
 
 **5. 문제가 발생하면 어떻게 지원을 받을 수 있나요?**
 
-방문하다 [Aspose 지원](https://forum.aspose.com/c/imaging/10) 지역 사회에 도움을 요청하거나 직접 연락하여 추가 지원을 받으세요.
+방문하다 [Aspose 지원](https://forum.aspose.com/c/imaging/14) 지역 사회에 도움을 요청하거나 직접 연락하여 추가 지원을 받으세요.
 
 ## 자원
 

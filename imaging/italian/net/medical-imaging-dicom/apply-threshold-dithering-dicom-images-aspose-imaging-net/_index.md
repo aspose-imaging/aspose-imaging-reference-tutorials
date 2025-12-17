@@ -154,7 +154,7 @@ Pronti a migliorare ulteriormente le vostre competenze di elaborazione delle imm
 - [Acquista licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/net/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Questa guida completa fornisce tutto il necessario per applicare il dithering di soglia alle immagini DICOM utilizzando Aspose.Imaging per .NET, migliorando le capacità di elaborazione delle immagini.
 

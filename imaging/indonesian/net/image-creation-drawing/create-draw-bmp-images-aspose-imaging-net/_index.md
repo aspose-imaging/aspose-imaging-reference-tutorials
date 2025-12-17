@@ -156,7 +156,7 @@ Siap untuk mulai membuat gambar BMP yang menakjubkan? Terapkan langkah-langkah i
 - **Pembelian:** [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Versi Uji Coba](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara:** [Minta di sini](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan:** [Dukungan Komunitas Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan:** [Dukungan Komunitas Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

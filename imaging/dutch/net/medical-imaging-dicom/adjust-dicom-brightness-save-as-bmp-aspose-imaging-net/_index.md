@@ -171,7 +171,7 @@ Overweeg als volgende stap de aanvullende beeldmanipulatiefuncties van Aspose.Im
 - Voor commercieel gebruik moet u een licentie aanschaffen. Proeflicenties staan evaluatie toe, maar hebben beperkingen.
 
 **V4: Is er ondersteuning beschikbaar als ik problemen ondervind?**
-- Ja, Aspose biedt communityforums en professionele ondersteuningsopties. Bezoek hun [ondersteuningspagina](https://forum.aspose.com/c/imaging/10) voor meer informatie.
+- Ja, Aspose biedt communityforums en professionele ondersteuningsopties. Bezoek hun [ondersteuningspagina](https://forum.aspose.com/c/imaging/14) voor meer informatie.
 
 **V5: Kan ik deze functionaliteit integreren in een webapplicatie?**
 - Absoluut! De bibliotheek is compatibel met .NET-frameworks die in webapplicaties worden gebruikt, wat zorgt voor naadloze integratie.

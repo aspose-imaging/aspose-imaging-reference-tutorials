@@ -133,7 +133,7 @@ A: Aspose.Imaging unterstützt Stapelverarbeitungsvorgänge durch Schleifen und 
 - **Kaufen**: [Lizenz kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Jetzt testen](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz**: [Beantragung einer temporären Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum**: [Stellen Sie hier Fragen](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum**: [Stellen Sie hier Fragen](https://forum.aspose.com/c/imaging/14)
 
 Beginnen Sie noch heute mit der Verwendung von Aspose.Imaging, um Ihre .NET-Anwendungen mit robusten Bildverarbeitungsfunktionen zu erweitern!
 

@@ -173,7 +173,7 @@ Siap untuk mencobanya? Terapkan solusi ini dan lihat bagaimana solusi ini dapat 
 - **Beli Lisensi**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulailah dengan Evaluasi Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Daftarkan Diri Anda di Sini](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan**: [Bergabunglah dalam Diskusi](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan**: [Bergabunglah dalam Diskusi](https://forum.aspose.com/c/imaging/14)
 
 Pelajari sumber daya ini untuk memperluas pemahaman dan kemampuan Anda dalam konversi gambar menggunakan Aspose.Imaging .NET.
 

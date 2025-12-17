@@ -173,7 +173,7 @@ A5: Penggunaan `image.resize(width, height)` untuk menyesuaikan dimensi sesuai k
 - **Pembelian**: https://purchase.aspose.com/beli
 - **Uji Coba Gratis**: https://releases.aspose.com/imaging/java/
 - **Lisensi Sementara**: https://purchase.aspose.com/lisensi-sementara/
-- **Mendukung**: https://forum.aspose.com/c/imaging/10
+- **Mendukung**: https://forum.aspose.com/c/imaging/14
 
 Dengan mengikuti panduan ini, Anda akan dapat mengelola gambar secara efektif dalam aplikasi Java Anda menggunakan Aspose.Imaging. Selamat membuat kode!
 

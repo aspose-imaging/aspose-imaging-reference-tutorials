@@ -206,7 +206,7 @@ try (DjvuImage image = (DjvuImage) Image.load("YOUR_DOCUMENT_DIRECTORY/Sample.dj
 - [شراء الترخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 لا تتردد في استكشاف هذه الموارد للحصول على إرشادات ودعم إضافي أثناء تنفيذ Aspose.Imaging في مشاريع Java الخاصة بك!
 

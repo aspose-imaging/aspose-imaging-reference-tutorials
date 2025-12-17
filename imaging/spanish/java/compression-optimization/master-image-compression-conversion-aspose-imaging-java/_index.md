@@ -182,7 +182,7 @@ A5: Hay una prueba gratuita disponible, pero algunas funciones avanzadas pueden 
 - **Compra**: [Comprar licencia de Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Comience su prueba gratuita](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal**: [Obtenga una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Foro de Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: [Foro de Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Siéntase libre de explorar estos recursos y comenzar a implementar sus proyectos de procesamiento de imágenes con confianza utilizando Aspose.Imaging para Java.
 

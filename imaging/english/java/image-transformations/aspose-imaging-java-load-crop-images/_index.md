@@ -155,7 +155,7 @@ Ready to implement this solution? Start experimenting with different image types
    - A Java Development Kit (JDK) and a compatible IDE.
 
 5. **Is there support available for troubleshooting issues?**
-   - Visit [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) for assistance.
+   - Visit [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) for assistance.
 
 ## Resources
 

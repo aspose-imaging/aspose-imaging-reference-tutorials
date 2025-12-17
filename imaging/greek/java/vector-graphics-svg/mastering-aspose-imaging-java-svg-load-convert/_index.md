@@ -160,7 +160,7 @@ try {
 - **Αγορά:** [Αγοράστε άδειες χρήσης Aspose](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Έναρξη δωρεάν δοκιμής](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** [Λήψη προσωρινής άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** [Υποστήριξη Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** [Υποστήριξη Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, είστε σε καλό δρόμο για να τελειοποιήσετε τον χειρισμό εικόνων SVG σε Java με το Aspose.Imaging. Καλή κωδικοποίηση!
 

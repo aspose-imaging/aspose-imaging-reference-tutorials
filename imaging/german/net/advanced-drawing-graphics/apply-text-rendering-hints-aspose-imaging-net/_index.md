@@ -173,7 +173,7 @@ A: Zu den häufigen Problemen zählen Speicherlecks und Leistungsengpässe, die 
 - **Kaufen**: Kaufen Sie eine Lizenz oder erhalten Sie eine kostenlose Testversion von [Aspose Kauf](https://purchase.aspose.com/buy).
 - **Kostenlose Testversion**: Beginnen Sie mit einem Test bei [Veröffentlichungen](https://releases.aspose.com/imaging/net/).
 - **Temporäre Lizenz**: Fordern Sie eines an von [Aspose](https://purchase.aspose.com/temporary-license/).
-- **Unterstützung**: Holen Sie sich Hilfe im [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Unterstützung**: Holen Sie sich Hilfe im [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Begeben Sie sich mit Aspose.Imaging auf Ihre Reise zur Beherrschung der Bildverarbeitung und bringen Sie Ihre Anwendungen auf ein neues Niveau!
 

@@ -211,7 +211,7 @@ In diesem Tutorial haben wir die Grundlagen des Ladens, Kopierens und Speicherns
 - **Kaufen**: Kaufen Sie eine Lizenz für die kommerzielle Nutzung bei [dieser Link](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: Beginnen Sie mit einer kostenlosen Testversion, um Funktionen zu testen unter [Asposes Website](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: Erhalten Sie eine temporäre Lizenz zur erweiterten Evaluierung von [Hier](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: Nehmen Sie an Diskussionen teil oder suchen Sie Hilfe auf der [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: Nehmen Sie an Diskussionen teil oder suchen Sie Hilfe auf der [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

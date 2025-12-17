@@ -145,7 +145,7 @@ A5: Procesar imágenes en paralelo siempre que sea posible y garantizar la elimi
 - **Comprar una licencia**: [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Pruébalo](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal**: [Solicitar aquí](https://purchase.aspose.com/temporary-license/)
-- **Foro de soporte**: [Hacer las cuestiones](https://forum.aspose.com/c/imaging/10)
+- **Foro de soporte**: [Hacer las cuestiones](https://forum.aspose.com/c/imaging/14)
 
 ¡Embárquese hoy mismo en su viaje con Aspose.Imaging para .NET y comience a aprovechar el poder de los metadatos de las imágenes!
 

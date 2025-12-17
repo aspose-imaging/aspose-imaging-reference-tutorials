@@ -210,7 +210,7 @@ A: Đảm bảo hình ảnh nền và lớp phủ của bạn có độ phân gi
 - **Mua giấy phép**: [Trang mua hàng Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Hãy thử Aspose.Imaging cho Java](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Hỗ trợ hình ảnh Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Hỗ trợ hình ảnh Aspose](https://forum.aspose.com/c/imaging/14)
 
 Với hướng dẫn này, bạn đã được trang bị đầy đủ để bắt đầu pha trộn hình ảnh bằng Aspose.Imaging cho Java. Chúc bạn viết mã vui vẻ!
 

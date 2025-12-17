@@ -202,7 +202,7 @@ Aspose.Imaging을 사용하는 동안 성능을 최적화하려면:
    - 적절한 래스터화 설정을 사용하고 일괄 처리 중에 시스템 리소스를 모니터링합니다.
 
 5. **문제가 발생하면 어떻게 지원을 받을 수 있나요?**
-   - 방문하세요 [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/10) 커뮤니티 지원을 원하시거나 전문 지원팀에 문의하세요.
+   - 방문하세요 [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/14) 커뮤니티 지원을 원하시거나 전문 지원팀에 문의하세요.
 
 ## 자원
 

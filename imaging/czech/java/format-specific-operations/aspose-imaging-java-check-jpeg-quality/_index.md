@@ -173,7 +173,7 @@ Chcete-li dále prozkoumat možnosti Aspose.Imaging, zvažte prostudování jeho
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Informace o dočasné licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu jste na dobré cestě k implementaci robustního řešení pro správu kvality obrázků JPEG pomocí Aspose.Imaging pro Javu. Přeji vám příjemné programování!
 

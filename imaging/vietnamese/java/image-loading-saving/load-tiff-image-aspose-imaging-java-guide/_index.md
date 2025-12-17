@@ -196,7 +196,7 @@ Bước tiếp theo, hãy thử tích hợp khả năng này vào một dự án
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Khám phá các tài nguyên này để hiểu sâu hơn và nâng cao hơn nữa khả năng xử lý hình ảnh của ứng dụng. Chúc bạn viết mã vui vẻ!
 

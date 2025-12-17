@@ -154,7 +154,7 @@ Készen állsz, hogy továbbfejlesszd DICOM képfeldolgozási ismereteidet? Veze
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 Ez az átfogó útmutató mindent tartalmaz, amire szükséged van ahhoz, hogy küszöbérték-ditheringet alkalmazz DICOM képeken az Aspose.Imaging for .NET használatával, ezáltal bővítve képfeldolgozási lehetőségeidet.
 

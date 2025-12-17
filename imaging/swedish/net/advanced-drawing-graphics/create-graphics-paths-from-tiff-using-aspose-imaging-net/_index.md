@@ -165,7 +165,7 @@ A: Optimera din kod genom att bearbeta sökvägar stegvis och säkerställ korre
 A: Ja, den är utformad för sömlös integration med alla .NET-applikationer som kräver avancerade bildbehandlingsfunktioner.
 
 **F: Vilken support finns tillgänglig om jag stöter på problem?**
-A: Besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/10) för hjälp från experter i samhället och Aspose-personal.
+A: Besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/14) för hjälp från experter i samhället och Aspose-personal.
 
 **F: Finns det alternativ till att använda Aspose.Imaging för TIFF-manipulation i .NET?**
 A: Även om det finns andra bibliotek, erbjuder Aspose.Imaging en omfattande uppsättning funktioner som är skräddarsydda specifikt för högkvalitativa bildbehandlingsuppgifter.
@@ -176,7 +176,7 @@ A: Även om det finns andra bibliotek, erbjuder Aspose.Imaging en omfattande upp
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din resa med Aspose.Imaging för .NET idag och lås upp nya möjligheter inom bildbehandling!
 

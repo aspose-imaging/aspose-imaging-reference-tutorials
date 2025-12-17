@@ -255,7 +255,7 @@ A5: Látogassa meg a [ideiglenes licencoldal](https://purchase.aspose.com/tempor
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Szerezd meg az Aspose.Imaging ingyenes próbaverzióját](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezen források felhasználásával bővítheted tudásodat és képességeidet az Aspose.Imaging for Java segítségével. Jó kódolást!
 

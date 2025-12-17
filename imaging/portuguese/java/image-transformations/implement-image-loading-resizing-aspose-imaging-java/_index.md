@@ -176,7 +176,7 @@ R5: Com certeza. Ele foi projetado para ser facilmente integrado e usado em conj
 - **Comprar**: [Compre uma licença](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Comece aqui](https://releases.aspose.com/imaging/java/)
 - **Licença Temporária**: [Inscreva-se agora](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum da Comunidade](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum da Comunidade](https://forum.aspose.com/c/imaging/14)
 
 Com este guia completo, você agora está preparado para dominar o carregamento e o redimensionamento de imagens em Java usando o Aspose.Imaging. Boa programação!
 

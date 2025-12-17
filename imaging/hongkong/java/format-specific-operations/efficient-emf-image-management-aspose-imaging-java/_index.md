@@ -166,7 +166,7 @@ try {
 - **購買：** [購買許可證](https://purchase.aspose.com/buy)
 - **免費試用：** [開始免費試用](https://releases.aspose.com/imaging/java/)
 - **臨時執照：** [在此請求](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 遵循本指南，您將能夠使用 Aspose.Imaging 在 Java 應用程式中有效地處理 EMF 影像。祝您編碼愉快！
 

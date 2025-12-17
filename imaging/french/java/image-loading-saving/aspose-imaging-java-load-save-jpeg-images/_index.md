@@ -176,7 +176,7 @@ A : Surveillez l’utilisation des ressources, optimisez la logique de traitemen
 - **Achat:** [Acheter des options de licence Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Commencez gratuitement avec Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Licence temporaire :** [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien:** [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce guide, vous êtes sur la bonne voie pour maîtriser le traitement d'images avec Aspose.Imaging en Java !
 

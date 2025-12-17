@@ -197,7 +197,7 @@ import com.aspose.imaging.imageoptions.GifOptions;
 - **Αγορά:** Επίσκεψη [Σελίδα Αγοράς Aspose](https://purchase.aspose.com/buy) για επιλογές αδειοδότησης
 - **Δωρεάν δοκιμή:** Ξεκινήστε με μια δοκιμή στο [Σύνδεσμος Δωρεάν Δοκιμής](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** Αποκτήστε προσωρινή πρόσβαση μέσω [Σελίδα Προσωρινής Άδειας Χρήσης](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** Αλληλεπιδράστε με την κοινότητα στο [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** Αλληλεπιδράστε με την κοινότητα στο [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

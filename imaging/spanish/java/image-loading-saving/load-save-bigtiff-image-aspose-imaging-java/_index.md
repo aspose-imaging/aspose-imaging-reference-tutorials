@@ -190,7 +190,7 @@ Para mejorar aún más sus capacidades, explore las características adicionales
 - [Descargar Aspose.Imaging para Java](https://releases.aspose.com/imaging/java/)
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Prueba gratuita y licencia temporal](https://releases.aspose.com/imaging/java/), [Página de licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Explore estos recursos para profundizar su comprensión de Aspose.Imaging para Java, asegurándose de estar equipado para manejar cualquier necesidad de procesamiento de imágenes BigTIFF.
 

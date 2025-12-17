@@ -138,7 +138,7 @@ image.Save(Path.Combine(outputDir, "ConvertSpecificPortionOfDjVuPage_out.png"), 
 - **رخصة الشراء:** [اشتري الآن](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [البدء](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة:** [اطلب هنا](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم:** [مجتمع Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم:** [مجتمع Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

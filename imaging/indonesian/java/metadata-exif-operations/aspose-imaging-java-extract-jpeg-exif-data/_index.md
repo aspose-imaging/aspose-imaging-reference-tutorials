@@ -212,7 +212,7 @@ A4: Kunjungan [Halaman lisensi sementara Aspose](https://purchase.aspose.com/tem
 
 **Q5: Sumber daya apa yang tersedia jika saya mengalami masalah?**
 
-A5: Forum komunitas Aspose adalah tempat yang bagus untuk mencari bantuan. Lihat [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) untuk dukungan dan diskusi.
+A5: Forum komunitas Aspose adalah tempat yang bagus untuk mencari bantuan. Lihat [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) untuk dukungan dan diskusi.
 
 ## Sumber daya
 
@@ -221,7 +221,7 @@ A5: Forum komunitas Aspose adalah tempat yang bagus untuk mencari bantuan. Lihat
 - **Pembelian**:Pelajari lebih lanjut tentang opsi lisensi di [Halaman Pembelian Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: Uji coba fitur Aspose.Imaging dengan uji coba gratis yang tersedia di [Unduhan Aspose](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: Ajukan akses tambahan melalui [Aspose Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**:Berinteraksi dengan komunitas di [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**:Berinteraksi dengan komunitas di [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

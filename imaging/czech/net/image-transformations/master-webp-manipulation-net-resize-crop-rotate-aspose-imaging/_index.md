@@ -216,7 +216,7 @@ Implementujte tato řešení ve svých projektech ještě dnes!
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Bezplatná zkušební verze Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Vydejte se s jistotou na cestu manipulace s obrázky s Aspose.Imaging pro .NET!
 

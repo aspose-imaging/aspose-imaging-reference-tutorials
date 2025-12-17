@@ -165,7 +165,7 @@ Vous devriez maintenant maîtriser le chargement d'images TIFF et l'enregistreme
 - **Achat**: Explorez les options d'achat sur [Page d'achat d'Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit**: Commencez avec un essai gratuit disponible [ici](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**:Demander un permis temporaire sur le [Page de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**:Rejoignez les discussions et demandez de l'aide à [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**:Rejoignez les discussions et demandez de l'aide à [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Lancez-vous dès aujourd'hui dans votre voyage vers la maîtrise d'Aspose.Imaging en Java et transformez votre façon de gérer les tâches de traitement d'images !
 

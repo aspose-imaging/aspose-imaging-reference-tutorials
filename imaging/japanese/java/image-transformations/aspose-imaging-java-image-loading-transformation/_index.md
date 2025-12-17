@@ -183,7 +183,7 @@ A5: はい、さまざまな Java 環境間でシームレスに統合するよ�
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを参照して、Java での Aspose.Imaging の理解と応用をさらに深めてください。
 

@@ -205,7 +205,7 @@ class LEIntegerReader {
 - 마스킹 옵션의 다양한 구성을 실험해 보세요.
 - 추가적인 이미지 처리 기능을 알아보려면 Aspose.Imaging이 제공하는 다른 기능을 살펴보세요.
 
-추가 질문이나 지원이 필요하면 다음을 방문하세요. [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/10).
+추가 질문이나 지원이 필요하면 다음을 방문하세요. [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/14).
 
 ## FAQ 섹션
 
@@ -231,7 +231,7 @@ A: 입력 지점과 사각형의 정확도를 확인하세요. 분할 매개변�
 - **구입**: [Aspose 라이선스 옵션 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료 체험판으로 시작하세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose.Imaging 포럼](https://forum.aspose.com/c/imaging/14)
 
 지금 당장 Aspose.Imaging과 Java를 사용하여 이미지 자동 마스킹을 마스터하는 여정을 시작하세요!
 

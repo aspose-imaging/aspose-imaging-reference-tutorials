@@ -180,7 +180,7 @@ A5: Instal pustaka melalui NuGet atau Package Manager dan ikuti langkah-langkah 
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulai Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda untuk menguasai pemrosesan gambar dengan Aspose.Imaging untuk .NET hari ini!
 

@@ -187,7 +187,7 @@ Aspose.Imaging を使用する場合は、次のパフォーマンスのヒン�
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java と強力な Lanczos 再サンプリング手法を活用して、自信を持って画像処理の旅に乗り出しましょう。
 

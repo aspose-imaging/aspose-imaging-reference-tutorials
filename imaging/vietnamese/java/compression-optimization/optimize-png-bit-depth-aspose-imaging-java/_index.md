@@ -173,7 +173,7 @@ Khi làm việc với Aspose.Imaging, hãy cân nhắc những mẹo sau để �
 - **Mua:** Hãy cân nhắc mua giấy phép nếu bạn thấy Aspose.Imaging hữu ích.
 - **Dùng thử miễn phí:** Bắt đầu bằng bản dùng thử miễn phí để đánh giá các tính năng.
 - **Giấy phép tạm thời:** Xin giấy phép tạm thời để đánh giá mở rộng.
-- **Ủng hộ:** Tham gia cộng đồng trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10) để được hỗ trợ. 
+- **Ủng hộ:** Tham gia cộng đồng trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14) để được hỗ trợ. 
 
 Bằng cách làm theo hướng dẫn này, bạn sẽ được trang bị đầy đủ để nâng cao khả năng xử lý hình ảnh của mình bằng Aspose.Imaging Java.
 

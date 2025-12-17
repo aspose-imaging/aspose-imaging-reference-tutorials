@@ -152,7 +152,7 @@ using System;
 - **شراء:** [شراء ترخيص Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [ابدأ التجربة المجانية](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة:** [التقدم بطلب للحصول على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم:** [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 ابدأ رحلتك لإتقان معالجة الصور باستخدام Aspose.Imaging لـ .NET اليوم!
 

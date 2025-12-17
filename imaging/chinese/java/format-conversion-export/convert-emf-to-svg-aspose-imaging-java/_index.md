@@ -171,7 +171,7 @@ A5：检查文件路径，确保库版本正确，并查阅 Aspose 的文档或�
 - [购买许可证](https://purchase.aspose.com/buy)
 - [开始免费试用](https://releases.aspose.com/imaging/java/)
 - [获得临时许可证](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 按照本指南，您可以使用 Aspose.Imaging for Java 高效地将 EMF 图像转换为 SVG。祝您编码愉快！
 

@@ -202,7 +202,7 @@ Készen állsz arra, hogy továbbfejleszd a képességeidet? Próbáld ki ezeket
 - **Licenc vásárlása**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Indítsa el az ingyenes próbaverziót](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Aspose támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Aspose támogatás](https://forum.aspose.com/c/imaging/14)
 
 Ezzel az átfogó útmutatóval elsajátíthatod a PNG képfeldolgozást Java nyelven az Aspose.Imaging használatával. Jó kódolást!
 

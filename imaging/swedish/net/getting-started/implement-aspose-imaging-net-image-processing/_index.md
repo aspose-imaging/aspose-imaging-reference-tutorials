@@ -126,7 +126,7 @@ Cachning minskar laddningstider och resursanvändning, vilket avsevärt förbät
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Aspose.Imaging Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Skaffa tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose.Imaging supportforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose.Imaging supportforum](https://forum.aspose.com/c/imaging/14)
 Genom att följa den här guiden är du på god väg att implementera effektiv bildbehandling i dina .NET-applikationer med Aspose.Imaging. Lycka till med kodningen!
 
 {{< /blocks/products/pf/tutorial-page-section >}}

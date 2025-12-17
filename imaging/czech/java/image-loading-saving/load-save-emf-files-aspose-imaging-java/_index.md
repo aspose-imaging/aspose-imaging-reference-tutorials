@@ -196,7 +196,7 @@ Vždy používejte bloky try-catch pro zpracování potenciálních výjimek IOE
 - **Nákup**Pro získání plné licence navštivte [Koupit Aspose.Imaging](https://purchase.aspose.com/buy).
 - **Bezplatná zkušební verze**Začněte se zkušební verzí na adrese [Aspose.Imaging ke stažení zdarma](https://releases.aspose.com/imaging/java/).
 - **Dočasná licence**Získejte dočasnou licenci od [Licenční stránka Aspose](https://purchase.aspose.com/temporary-license/).
-- **Podpora**Zapojte se do diskuse na [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Podpora**Zapojte se do diskuse na [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 S těmito zdroji jste dobře vybaveni k hlubšímu ponoření se do zpracování obrazu s Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

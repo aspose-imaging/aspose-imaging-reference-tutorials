@@ -213,7 +213,7 @@ Készen állsz a mélyebb elmélyülésre? Próbáld ki ezeket a megoldásokat a
 - **Licenc vásárlása**: Kereskedelmi célú licenc vásárlása [itt](https://purchase.aspose.com/buy).
 - **Ingyenes próbaverzió**: Kezdje egy ingyenes próbaverzióval, hogy korlátozások nélkül tesztelhesse a funkciókat.
 - **Ideiglenes engedély**: Szerezzen be egy ideiglenes licencet a teljes funkcionalitás felfedezéséhez.
-- **Támogatási fórum**Bármilyen kérdés esetén látogassa meg az Aspose támogatási fórumát a következő címen: [Aspose Fórumok](https://forum.aspose.com/c/imaging/10).
+- **Támogatási fórum**Bármilyen kérdés esetén látogassa meg az Aspose támogatási fórumát a következő címen: [Aspose Fórumok](https://forum.aspose.com/c/imaging/14).
 
 Ezt az útmutatót követve hatékonyan kezelheti és konvertálhatja a DJVU képeket az Aspose.Imaging for Java segítségével, könnyedén javítva a dokumentumfeldolgozási munkafolyamatokat.
 

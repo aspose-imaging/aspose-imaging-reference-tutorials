@@ -160,7 +160,7 @@ Aspose.Imaging의 포괄적인 설명서를 살펴보고 다른 이미지 형식
 A: 네, Aspose는 Java 외에도 .NET, C++ 및 기타 플랫폼을 위한 라이브러리를 제공합니다.
 
 **질문: 문제가 발생하면 지원을 받을 수 있나요?**
-A: 방문하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10) 커뮤니티와 공식적인 지원을 위해.
+A: 방문하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/14) 커뮤니티와 공식적인 지원을 위해.
 
 **질문: Aspose.Imaging을 사용하여 이미지를 처리하는 모범 사례는 무엇입니까?**
 답변: 항상 다양한 파일 크기로 테스트하고, 예외를 자연스럽게 처리하고, 리소스를 효과적으로 관리하여 메모리 누수를 방지하세요.
@@ -172,7 +172,7 @@ A: 방문하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10) 커뮤
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료 체험판 시작하기](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허 취득](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 튜토리얼을 따라 하면 EMF 파일을 효율적으로 처리하고 Java 프로젝트에서 Aspose.Imaging의 강력한 기능을 활용할 수 있습니다. 즐거운 코딩 되세요!
 

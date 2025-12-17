@@ -162,7 +162,7 @@ A: Tentu saja, ini dirancang untuk bekerja lancar di berbagai lingkungan berbasi
 - **Beli Lisensi:** [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Uji Coba Gratis Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara:** [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan:** [Dukungan Pencitraan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan:** [Dukungan Pencitraan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan lengkap ini, Anda kini siap mengonversi file EMF ke WMF menggunakan Aspose.Imaging untuk Java. Selamat membuat kode!
 

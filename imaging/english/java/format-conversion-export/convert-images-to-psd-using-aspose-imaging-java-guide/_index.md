@@ -265,7 +265,7 @@ A5: Use try-catch blocks to manage potential exceptions like file not found or m
 - **Purchase**: [Buy Aspose Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Free](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Request Here](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

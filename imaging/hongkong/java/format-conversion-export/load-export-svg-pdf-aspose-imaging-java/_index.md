@@ -198,7 +198,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - [購買](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/java/)
 - [臨時執照](https://purchase.aspose.com/temporary-license/)
-- [支援論壇](https://forum.aspose.com/c/imaging/10)
+- [支援論壇](https://forum.aspose.com/c/imaging/14)
 
 立即開始在您的專案中實現這些功能，看看 Aspose.Imaging for Java 如何增強您的工作流程！
 

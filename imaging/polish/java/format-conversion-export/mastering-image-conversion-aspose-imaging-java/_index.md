@@ -212,7 +212,7 @@ Gotowy, aby wystawić swoje umiejętności na próbę? Zacznij wdrażać te rozw
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Uzyskaj bezpłatną wersję próbną](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij przygodę z przetwarzaniem obrazu z Aspose.Imaging for Java i popraw jakość swoich projektów już dziś!
 

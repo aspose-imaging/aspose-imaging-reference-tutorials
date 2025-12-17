@@ -173,7 +173,7 @@ A: Vanliga problem inkluderar minnesläckor och prestandaflaskhalsar, vilket kan
 - **Köpa**Köp en licens eller få en gratis provperiod från [Aspose-köp](https://purchase.aspose.com/buy).
 - **Gratis provperiod**Börja med en provperiod på [Utgåvor](https://releases.aspose.com/imaging/net/).
 - **Tillfällig licens**Begär en från [Aspose](https://purchase.aspose.com/temporary-license/).
-- **Stöd**Få hjälp i [Aspose-forumet](https://forum.aspose.com/c/imaging/10).
+- **Stöd**Få hjälp i [Aspose-forumet](https://forum.aspose.com/c/imaging/14).
 
 Ge dig ut på din resa mot att bemästra bildbehandling med Aspose.Imaging och ta dina applikationer till nya höjder!
 

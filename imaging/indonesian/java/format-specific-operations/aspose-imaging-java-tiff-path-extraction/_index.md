@@ -211,7 +211,7 @@ Dengan mengikuti panduan ini, Anda telah mempelajari cara memanfaatkan Aspose.Im
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Manfaatkan kekuatan Aspose.Imaging Java dan ubah kemampuan pemrosesan gambar Anda hari ini!
 

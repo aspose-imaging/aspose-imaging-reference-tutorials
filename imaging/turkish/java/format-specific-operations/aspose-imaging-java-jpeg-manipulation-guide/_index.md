@@ -184,7 +184,7 @@ C5: Kaynaklarınızı etkin bir şekilde yöneterek ve işleme için uygun boyut
 - **Lisans Satın Al:** [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Ücretsiz deneyin](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu:** [Aspose Görüntüleme Desteği](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu:** [Aspose Görüntüleme Desteği](https://forum.aspose.com/c/imaging/14)
 
 Keyifli kodlamalar ve Aspose.Imaging for Java'nın yeteneklerini keşfetmenin tadını çıkarın!
 

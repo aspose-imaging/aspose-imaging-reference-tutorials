@@ -184,7 +184,7 @@ A: Beli langganan dari [Halaman pembelian Aspose](https://purchase.aspose.com/bu
 - **Unduh Perpustakaan:** Dapatkan versi terbaru dari [Rilis Aspose.Imaging](https://releases.aspose.com/imaging/java/).
 - **Beli Lisensi:** Mengunjungi [Aspose Pembelian](https://purchase.aspose.com/buy) untuk pilihan lisensi.
 - **Uji Coba Gratis & Lisensi Sementara:** Mulailah dengan uji coba gratis atau dapatkan lisensi sementara di [Uji Coba dan Lisensi Aspose Gratis](https://releases.aspose.com/imaging/java/).
-- **Forum Dukungan:** Berinteraksi dengan komunitas di [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10).
+- **Forum Dukungan:** Berinteraksi dengan komunitas di [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

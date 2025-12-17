@@ -131,7 +131,7 @@ A: Zorg ervoor dat u .NET Framework of .NET Core hebt geïnstalleerd en dat u ov
 A: Ja, nadat u de juiste licentie van Aspose hebt verkregen.
 
 **V: Is er ondersteuning beschikbaar als ik problemen ondervind?**
-A: Bezoek [Aspose's ondersteuningsforum](https://forum.aspose.com/c/imaging/10) voor hulp of raadpleeg de documentatie.
+A: Bezoek [Aspose's ondersteuningsforum](https://forum.aspose.com/c/imaging/14) voor hulp of raadpleeg de documentatie.
 
 ## Bronnen
 - **Documentatie:** [Aspose.Imaging .NET-documentatie](https://reference.aspose.com/imaging/net/)

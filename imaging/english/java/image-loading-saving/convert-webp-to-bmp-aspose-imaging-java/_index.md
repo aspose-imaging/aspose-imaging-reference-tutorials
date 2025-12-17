@@ -180,7 +180,7 @@ Feel free to try implementing these steps in your own development environment, a
 - **Purchase:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial:** [Start Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum:** [Aspose Imaging Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Support Forum:** [Aspose Imaging Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Feel free to explore these resources and integrate Aspose.Imaging into your projects for seamless image processing capabilities.
 

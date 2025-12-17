@@ -249,7 +249,7 @@ public static void exportToPdf(VectorMultipageImage image, PdfOptions options, S
 - [खरीदना](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहायता](https://forum.aspose.com/c/imaging/10)
+- [सहायता](https://forum.aspose.com/c/imaging/14)
 
 Java के लिए Aspose.Imaging की शक्ति का उपयोग करने के लिए अपने अगले प्रोजेक्ट में इस समाधान को लागू करने का प्रयास करें!
 

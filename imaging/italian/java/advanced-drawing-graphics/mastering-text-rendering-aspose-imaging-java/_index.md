@@ -224,7 +224,7 @@ In questo tutorial hai imparato come rendere **text with fonts** in Java usando 
 - **Download:** Accedi all'ultima versione di Aspose.Imaging dalla [Releases Page](https://releases.aspose.com/imaging/java/).  
 - **Purchase:** Ottieni una licenza completa tramite la [Aspose Purchase Page](https://purchase.aspose.com/buy).  
 - **Free Trial:** Prova Aspose.Imaging con una prova gratuita disponibile sulla [Temporary License Page](https://purchase.aspose.com/temporary-license/).  
-- **Support:** Partecipa a discussioni o chiedi aiuto sul [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Support:** Partecipa a discussioni o chiedi aiuto sul [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 ---
 

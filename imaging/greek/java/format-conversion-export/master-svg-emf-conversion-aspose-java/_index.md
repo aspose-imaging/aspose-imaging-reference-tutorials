@@ -204,7 +204,7 @@ A5: Χρησιμοποιήστε λειτουργίες επεξεργασίας
 - [Λήψη του Aspose.Imaging για Java](https://releases.aspose.com/imaging/java/)
 - [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή και προσωρινή άδεια χρήσης](https://releases.aspose.com/imaging/java/)
-- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Βυθιστείτε σε αυτούς τους πόρους για να διευρύνετε τις γνώσεις και τις δυνατότητές σας με το Aspose.Imaging για Java. Καλή κωδικοποίηση!
 

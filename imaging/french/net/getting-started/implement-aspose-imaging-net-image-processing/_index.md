@@ -126,7 +126,7 @@ La mise en cache réduit les temps de chargement et l’utilisation des ressourc
 - **Achat**: [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Essai gratuit d'Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Obtenir une licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum d'assistance Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum d'assistance Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 En suivant ce guide, vous serez sur la bonne voie pour implémenter un traitement d'image efficace dans vos applications .NET grâce à Aspose.Imaging. Bon codage !
 
 {{< /blocks/products/pf/tutorial-page-section >}}

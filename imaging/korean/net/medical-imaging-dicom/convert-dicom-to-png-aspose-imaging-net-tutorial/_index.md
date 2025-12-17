@@ -153,7 +153,7 @@ Aspose.Imaging의 이미지 변환이나 기타 형식 변환과 같은 추가 �
 - **라이센스 구매:** [지금 구매하세요](https://purchase.aspose.com/buy)
 - **무료 체험:** [무료 체험판으로 시작하세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허:** [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼:** [Aspose.Imaging 지원](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼:** [Aspose.Imaging 지원](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 통해 DICOM을 PNG로 변환하여 .NET 프로젝트에 통합하는 방법을 익힐 수 있습니다. 즐거운 코딩 되세요!
 

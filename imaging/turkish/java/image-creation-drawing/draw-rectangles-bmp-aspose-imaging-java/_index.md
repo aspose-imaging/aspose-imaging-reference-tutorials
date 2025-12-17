@@ -182,7 +182,7 @@ Bu kılavuzu takip ederek, BMP dosyalarında dikdörtgenler çizmek için Aspose
 - **İndirmek**: [Aspose.Görüntüleme Sürümleri](https://releases.aspose.com/imaging/java/)
 - **Satın almak**: [Aspose Lisanslama Seçenekleri](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Aspose Destek Topluluğu](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: [Aspose Destek Topluluğu](https://forum.aspose.com/c/imaging/14)
 
 Artık tüm araçlara ve bilgiye sahip olduğunuza göre, görüntü işlemede yaratıcılığınızı ortaya çıkarmak için Aspose.Imaging for Java'yı denemeye başlayın!
 

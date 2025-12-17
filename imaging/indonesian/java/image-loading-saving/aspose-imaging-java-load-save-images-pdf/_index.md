@@ -160,7 +160,7 @@ A5: Lisensi yang valid diperlukan agar penggunaan tanpa gangguan di lingkungan p
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulai Uji Coba Gratis Anda](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Manfaatkan kekuatan Aspose.Imaging Java untuk meningkatkan kemampuan pemrosesan gambar Anda!
 

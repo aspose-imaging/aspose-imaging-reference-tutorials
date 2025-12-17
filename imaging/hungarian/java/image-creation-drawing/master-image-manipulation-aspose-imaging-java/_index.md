@@ -199,7 +199,7 @@ Gratulálunk! Megtanultad, hogyan kell képeket betölteni, manipulálni és men
    - Több mint 50 képformátumot támogat, beleértve a JPEG, PNG, TIFF és egyebeket.
 
 5. **Hogyan kaphatok segítséget, ha problémákba ütközöm?**
-   - Látogatás [Aspose fóruma](https://forum.aspose.com/c/imaging/10) támogatásért és közösségi tanácsért.
+   - Látogatás [Aspose fóruma](https://forum.aspose.com/c/imaging/14) támogatásért és közösségi tanácsért.
 
 ## Erőforrás
 

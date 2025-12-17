@@ -159,7 +159,7 @@ In diesem Tutorial haben Sie gelernt, wie Sie mit Aspose.Imaging für Java Raste
 - **Kaufoptionen:** https://purchase.aspose.com/buy
 - **Kostenlose Testversion:** https://releases.aspose.com/imaging/java/
 - **Temporäre Lizenz:** https://purchase.aspose.com/temporary-license/
-- **Support-Forum:** https://forum.aspose.com/c/imaging/10
+- **Support-Forum:** https://forum.aspose.com/c/imaging/14
 
 Mit Aspose.Imaging für Java können Sie Ihre Anwendungen mit erweiterten Bildverarbeitungsfunktionen erweitern. Viel Spaß beim Programmieren!
 

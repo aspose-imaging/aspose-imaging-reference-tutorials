@@ -149,7 +149,7 @@ Siap untuk memulai? Coba terapkan solusi ini di proyek Anda berikutnya!
 - [Pembelian](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10) 
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14) 
 
 Jelajahi sumber daya ini untuk mendalami lebih jauh kemampuan Aspose.Imaging dan tingkatkan aplikasi .NET Anda hari ini!
 

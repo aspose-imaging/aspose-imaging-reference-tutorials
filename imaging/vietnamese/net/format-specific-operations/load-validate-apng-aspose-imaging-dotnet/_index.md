@@ -202,7 +202,7 @@ Có, hãy tích hợp Aspose.Imaging vào tập lệnh xây dựng của bạn �
 - **Mua:** [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Nhận bản dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời:** [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn đã có được các kỹ năng để quản lý hiệu quả hình ảnh APNG trong các ứng dụng .NET của mình bằng Aspose.Imaging. Chúc bạn viết mã vui vẻ!
 

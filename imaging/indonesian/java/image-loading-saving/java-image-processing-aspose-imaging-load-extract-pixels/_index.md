@@ -204,7 +204,7 @@ Anda kini telah mempelajari cara memanfaatkan Aspose.Imaging untuk Java guna mem
 - **Pembelian**Dapatkan lisensi langsung dari [Beli Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**:Mulailah bereksperimen dengan [lisensi uji coba gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: Dapatkan lisensi sementara untuk pengujian di [Lisensi Sementara](https://purchase.aspose.com/temporary-license/).
-- **Mendukung**: Bergabunglah dengan komunitas di [Forum Aspose](https://forum.aspose.com/c/imaging/10) untuk pertanyaan atau diskusi apa pun.
+- **Mendukung**: Bergabunglah dengan komunitas di [Forum Aspose](https://forum.aspose.com/c/imaging/14) untuk pertanyaan atau diskusi apa pun.
 
 Dengan mengikuti tutorial ini, Anda kini siap menangani tugas pemrosesan gambar yang rumit di Java menggunakan Aspose.Imaging. Selamat membuat kode!
 

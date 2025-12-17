@@ -214,7 +214,7 @@ A: Absolut. Den hanterar effektivt olika bildformat, inklusive högupplösta BMP
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Prova Aspose.Imaging gratis](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Nu när du är utrustad med denna kunskap kan du börja implementera dessa funktioner i dina Java-applikationer!
 

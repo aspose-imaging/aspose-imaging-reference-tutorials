@@ -163,7 +163,7 @@ Here are some common questions you might have:
 - [Purchase](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/net/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Support Forum](https://forum.aspose.com/c/imaging/14)
 
 This comprehensive guide should equip you with the knowledge to effectively use Aspose.Imaging for .NET in your projects. Happy coding!
 

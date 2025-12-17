@@ -255,7 +255,7 @@ A5: Bezoek de [tijdelijke licentiepagina](https://purchase.aspose.com/temporary-
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Ontvang een gratis proefversie van Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke vergunning aan](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 Door gebruik te maken van deze bronnen kunt u uw kennis en vaardigheden met Aspose.Imaging voor Java uitbreiden. Veel plezier met coderen!
 

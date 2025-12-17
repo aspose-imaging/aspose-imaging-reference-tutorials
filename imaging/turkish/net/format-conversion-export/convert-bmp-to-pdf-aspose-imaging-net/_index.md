@@ -128,7 +128,7 @@ C1: Evet, bir dizin üzerinde yineleme yaparak ve dönüştürme mantığını h
 A2: Deneme sürümü mevcuttur, ancak ticari kullanım için lisans edinilmesi gerekir. Ziyaret edin [Satın almak](https://purchase.aspose.com/buy) Daha detaylı bilgi için.
 
 **S3: Dönüştürme hatalarını nasıl giderebilirim?**
-A3: Dosya yollarını kontrol edin ve Aspose.Imaging'in doğru şekilde yüklendiğinden emin olun. [Destek Forumu](https://forum.aspose.com/c/imaging/10) eğer sorunlar devam ederse.
+A3: Dosya yollarını kontrol edin ve Aspose.Imaging'in doğru şekilde yüklendiğinden emin olun. [Destek Forumu](https://forum.aspose.com/c/imaging/14) eğer sorunlar devam ederse.
 
 **S4: Dönüştürme sırasında PDF belge özelliklerini değiştirebilir miyim?**
 A4: Evet, başlık, yazar veya anahtar sözcükler gibi çeşitli belge bilgi özelliklerini kullanarak ayarlayabilirsiniz. `PdfDocumentInfo`.
@@ -142,7 +142,7 @@ C5: ImageMagick ve Ghostscript gibi diğer kütüphaneler de mevcuttur, ancak bu
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzun faydalı olduğunu umuyoruz. Şimdi, neden BMP dosyalarınızı Aspose.Imaging for .NET kullanarak PDF'lere dönüştürmeyi denemiyorsunuz?
 

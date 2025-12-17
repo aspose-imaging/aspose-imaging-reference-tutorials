@@ -133,7 +133,7 @@ Při používání filtrů zvažte tyto tipy pro optimalizaci výkonu:
 
 Gratulujeme! Úspěšně jste aplikovali Gaussův Wienerův filtr na barevné obrázky pomocí Aspose.Imaging .NET. Tento tutoriál vás vybavil znalostmi pro vylepšení vašich úloh zpracování obrazu a zajištění čistších a přesnějších výsledků.
 
-Chcete-li pokračovat v prozkoumávání možností Aspose.Imaging, zvažte prozkoumání dalších filtrů a funkcí dostupných v knihovně. S dalšími dotazy nebo s žádostí o podporu se obraťte na [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+Chcete-li pokračovat v prozkoumávání možností Aspose.Imaging, zvažte prozkoumání dalších filtrů a funkcí dostupných v knihovně. S dalšími dotazy nebo s žádostí o podporu se obraťte na [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Sekce Často kladených otázek
 
@@ -158,7 +158,7 @@ A: Zkušební licence umožňuje plný přístup k testování, ale může obsah
 - **Licence k zakoupení:** [Nákup Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Zkušební licence](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence:** [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory:** [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory:** [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Prozkoumejte tyto zdroje, abyste si prohloubili znalosti a vylepšili své projekty zpracování obrazu. Přejeme vám příjemné programování!
 

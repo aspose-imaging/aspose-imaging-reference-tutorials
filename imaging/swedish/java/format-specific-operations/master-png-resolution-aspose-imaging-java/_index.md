@@ -191,7 +191,7 @@ Genom att bemästra dessa tekniker med Aspose.Imaging för Java kan du effektivt
 - **Ladda ner**De senaste biblioteksversionerna finns på [Aspose-utgåvor](https://releases.aspose.com/imaging/java/)
 - **Köpa**Få en fullständig licens från [Aspose-köp](https://purchase.aspose.com/buy)
 - **Gratis provperiod och tillfällig licens**Börja med provspelningar kl. [Aspose-försök](https://releases.aspose.com/imaging/java/) och erhålla tillfälliga licenser för utvärdering.
-- **Stöd**Vid eventuella problem eller frågor, besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/10) 
+- **Stöd**Vid eventuella problem eller frågor, besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/14) 
 
 Nu när du har en gedigen förståelse för hur man använder Aspose.Imaging Java för bildmanipulation kan du utforska mer avancerade funktioner och förbättra dina applikationer ytterligare!
 

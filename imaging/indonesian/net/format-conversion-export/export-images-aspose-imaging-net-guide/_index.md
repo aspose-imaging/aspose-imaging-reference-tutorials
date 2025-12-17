@@ -207,7 +207,7 @@ A3: Ya, Aspose.Imaging menawarkan kontrol terperinci atas pengaturan kompresi me
 A4: Tentu saja! Anda dapat memproses beberapa file secara efisien menggunakan teknik pemrograman paralel di .NET.
 
 **Q5: Bagaimana saya dapat memecahkan masalah umum dengan Aspose.Imaging?**
-A5: Periksa [forum dukungan](https://forum.aspose.com/c/imaging/10) untuk solusi masalah umum dan konsultasikan secara luas [dokumentasi](https://reference.aspose.com/imaging/net/) untuk panduan.
+A5: Periksa [forum dukungan](https://forum.aspose.com/c/imaging/14) untuk solusi masalah umum dan konsultasikan secara luas [dokumentasi](https://reference.aspose.com/imaging/net/) untuk panduan.
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

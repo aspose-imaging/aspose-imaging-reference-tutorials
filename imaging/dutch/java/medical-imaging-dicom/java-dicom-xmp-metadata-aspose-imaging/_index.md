@@ -228,7 +228,7 @@ In deze tutorial hebt u geleerd hoe u DICOM-afbeeldingen kunt laden, wijzigen en
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Integreer vandaag nog deze krachtige beeldverwerkingsmogelijkheden in uw Java-applicaties en verbeter de manier waarop u DICOM-afbeeldingen verwerkt!
 

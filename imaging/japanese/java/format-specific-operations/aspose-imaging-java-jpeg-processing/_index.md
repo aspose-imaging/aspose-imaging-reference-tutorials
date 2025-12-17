@@ -191,7 +191,7 @@ MavenまたはGradleの依存関係を使用するか、AsposeのWebサイトか
 - **購入：** [Aspose ライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [Aspose Imagingの無料トライアル](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このチュートリアルに従うことで、Aspose.Imaging for Java を使用して JPEG を効率的に読み込み、保存するための知識を身に付けることができます。コーディングを楽しみましょう！
 

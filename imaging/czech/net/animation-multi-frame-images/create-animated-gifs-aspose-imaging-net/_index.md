@@ -153,7 +153,7 @@ Další kroky zahrnují experimentování s různými sekvencemi snímků a proz
 - **Nákup**: [Koupit licenci Aspose](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Bezplatná zkušební verze Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence**: [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Využijte tyto zdroje a začněte vytvářet dynamické GIFy ještě dnes!
 

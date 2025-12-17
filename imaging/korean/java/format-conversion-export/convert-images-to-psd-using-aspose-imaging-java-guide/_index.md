@@ -258,7 +258,7 @@ A5: 파일을 찾을 수 없거나 메모리 문제 등 잠재적인 예외를 �
 - **구입**: [Aspose Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료로 체험해보세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [여기에서 요청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -178,7 +178,7 @@ Redo att implementera dessa lösningar? Testa det i ditt nästa projekt!
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Implementera dessa tekniker i dina Java-projekt för att utnyttja Aspose.Imagings fulla potential för sömlös bildbehandling och manipulation.
 

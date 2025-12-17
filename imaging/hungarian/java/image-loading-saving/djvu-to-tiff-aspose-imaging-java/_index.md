@@ -297,7 +297,7 @@ Gratulálunk! Sikeresen megtanultad, hogyan konvertálhatsz DjVu képeket TIFF f
 - **Vásárlás:** [Vásárolja meg az Aspose.Imaging for Java-t](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Próbáld ki az Aspose.Imaging ingyenes verzióját](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Az útmutató követésével felvértezve magad a DjVu-ból TIFF-be történő hatékony konverziók kezeléséhez szükséges készségekkel. Fedezd fel és fejleszd tovább Java-alkalmazásaidat az Aspose.Imaging segítségével!
 

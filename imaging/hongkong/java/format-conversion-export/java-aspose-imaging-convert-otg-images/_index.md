@@ -192,7 +192,7 @@ for (ImageOptionsBase item : options) {
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/java/)
 - [臨時執照](https://purchase.aspose.com/temporary-license/)
-- [支援論壇](https://forum.aspose.com/c/imaging/10)
+- [支援論壇](https://forum.aspose.com/c/imaging/14)
 
 探索這些資源，加深您的理解，並在您的專案中擴展 Aspose.Imaging 的功能。祝您程式愉快！
 

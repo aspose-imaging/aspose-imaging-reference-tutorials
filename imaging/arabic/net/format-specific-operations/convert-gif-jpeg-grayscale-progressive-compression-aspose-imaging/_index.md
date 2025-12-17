@@ -153,7 +153,7 @@ original.Save("YOUR_DOCUMENT_DIRECTORY/ConvertedImage.jpg", jpegOptions);
 - **شراء الترخيص**: [صفحة شراء Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جرب Aspose.Imaging مجانًا](https://releases.aspose.com/imaging/net/)
 - **رخصة مؤقتة**: [الحصول على ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم**: [مجتمع دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم**: [مجتمع دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 بإتقان عملية التحويل باستخدام Aspose.Imaging، ستتمكن من التعامل بكفاءة مع مهام معالجة الصور المعقدة في تطبيقات .NET. برمجة ممتعة!
 

@@ -189,7 +189,7 @@ A5: Využijte různé metody poskytované službou Aspose.Imaging k provedení t
 - **Nákup**Zajistěte si licenci pro odemknutí všech funkcí na adrese [Nákupní stránka Aspose](https://purchase.aspose.com/buy).
 - **Bezplatná zkušební verze**Vyzkoušejte si možnosti Aspose.Imaging prostřednictvím [ke stažení zdarma zkušební verze](https://releases.aspose.com/imaging/java/).
 - **Dočasná licence**Požádejte o dočasnou licenci pro prodloužené testování [zde](https://purchase.aspose.com/temporary-license/).
-- **Podpora**V případě dotazů nebo potřeby pomoci navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10).
+- **Podpora**V případě dotazů nebo potřeby pomoci navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14).
 
 Vydejte se na svou cestu zpracování obrazu ještě dnes a odemkněte plný potenciál Aspose.Imaging v Javě!
 

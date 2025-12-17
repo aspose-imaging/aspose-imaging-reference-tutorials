@@ -192,7 +192,7 @@ A: Überprüfen Sie Ihre Systemressourcen und optimieren Sie die Speichernutzung
 - **Herunterladen:** Holen Sie sich die neueste Version von [Aspose.Imaging-Veröffentlichungen](https://releases.aspose.com/imaging/java/).
 - **Kaufen:** Erhalten Sie eine Volllizenz unter [Aspose-Kaufseite](https://purchase.aspose.com/buy).
 - **Kostenlose Testversion und temporäre Lizenz:** Erleben Sie Funktionen ohne Einschränkungen, indem Sie unter den entsprechenden Links eine kostenlose Testversion oder eine temporäre Lizenz erwerben.
-- **Unterstützung:** Weitere Hilfe erhalten Sie auf der [Aspose Support Forum](https://forum.aspose.com/c/imaging/10).
+- **Unterstützung:** Weitere Hilfe erhalten Sie auf der [Aspose Support Forum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

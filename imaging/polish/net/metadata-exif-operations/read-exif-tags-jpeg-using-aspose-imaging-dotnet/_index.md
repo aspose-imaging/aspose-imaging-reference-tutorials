@@ -145,7 +145,7 @@ A5: W miarę możliwości przetwarzaj obrazy równolegle i zadbaj o właściwą 
 - **Kup licencję**: [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Wypróbuj to](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa**: [Zapytaj tutaj](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia**: [Zadaj pytania](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia**: [Zadaj pytania](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij przygodę z Aspose.Imaging for .NET już dziś i zacznij wykorzystywać potencjał metadanych obrazów!
 

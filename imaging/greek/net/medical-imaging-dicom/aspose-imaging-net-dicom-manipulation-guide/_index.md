@@ -126,7 +126,7 @@ File.Delete(outputDir + "/output.dcm");
 - **Αγορά**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δοκιμάστε το Aspose.Imaging δωρεάν](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Αποκτήστε Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: Για ερωτήσεις, επισκεφθείτε την [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: Για ερωτήσεις, επισκεφθείτε την [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Με αυτόν τον ολοκληρωμένο οδηγό, είστε έτοιμοι να ξεκινήσετε να αξιοποιείτε το Aspose.Imaging για .NET στα έργα επεξεργασίας εικόνων DICOM. Καλή κωδικοποίηση!
 

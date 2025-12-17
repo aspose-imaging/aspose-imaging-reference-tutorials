@@ -191,7 +191,7 @@ public class LinearAnimation : IAnimation {
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/net/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 按照本指南，您现在就可以使用 Aspose.Imaging 在 .NET 应用程序中创建动态动画图形了。将这些技术融入您的项目中，探索创新！
 

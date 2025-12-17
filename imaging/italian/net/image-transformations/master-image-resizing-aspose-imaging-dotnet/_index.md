@@ -148,7 +148,7 @@ Come passo successivo, valuta l'esplorazione di altre funzionalità di Aspose.Im
 - **Acquistare**: https://purchase.aspose.com/buy
 - **Prova gratuita**: https://releases.aspose.com/imaging/net/
 - **Licenza temporanea**: https://purchase.aspose.com/temporary-license/
-- **Supporto**: https://forum.aspose.com/c/imaging/10
+- **Supporto**: https://forum.aspose.com/c/imaging/14
 
 Intraprendi oggi stesso il tuo viaggio per padroneggiare l'elaborazione delle immagini con Aspose.Imaging!
 

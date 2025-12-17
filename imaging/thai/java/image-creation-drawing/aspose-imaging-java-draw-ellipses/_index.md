@@ -206,7 +206,7 @@ try (BmpOptions bmpCreateOptions = new BmpOptions()) {
 - **ซื้อ**: https://purchase.aspose.com/ซื้อ
 - **ทดลองใช้งานฟรี**: https://releases.aspose.com/imaging/java/
 - **ใบอนุญาตชั่วคราว**: https://purchase.aspose.com/ใบอนุญาตชั่วคราว/
-- **สนับสนุน**: https://forum.aspose.com/c/imaging/10
+- **สนับสนุน**: https://forum.aspose.com/c/imaging/14
 
 เราหวังว่าคุณจะพบว่าบทช่วยสอนนี้มีประโยชน์ ขอให้สนุกกับการเขียนโค้ด!
 

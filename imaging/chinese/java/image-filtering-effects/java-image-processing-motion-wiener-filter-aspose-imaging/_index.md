@@ -177,7 +177,7 @@ A：优化参数，批量处理图片，以获得更好的性能。
 - **购买：** [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用：** [Aspose 免费试用](https://releases.aspose.com/imaging/java/)
 - **临时执照：** [申请临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 本综合指南将帮助您有效地应用运动维纳滤波器，并通过 Aspose.Imaging 增强基于 Java 的图像处理项目。
 

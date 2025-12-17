@@ -245,7 +245,7 @@ In diesem Handbuch haben wir erklärt, wie man ein Bild effektiv lädt, darauf z
 - **Kaufen**: Erwägen Sie den Kauf eines Abonnements bei [Aspose Kauf](https://purchase.aspose.com/buy).
 - **Kostenlose Testversion**: Beginnen Sie mit einer kostenlosen Testversion, um Funktionen ohne Einschränkungen zu testen.
 - **Temporäre Lizenz**: Erhalten Sie während Ihres Evaluierungszeitraums eine temporäre Lizenz für den vollständigen Zugriff.
-- **Unterstützung**: Treten Sie der Community bei und suchen Sie Hilfe auf [Aspose-Foren](https://forum.aspose.com/c/imaging/10).
+- **Unterstützung**: Treten Sie der Community bei und suchen Sie Hilfe auf [Aspose-Foren](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

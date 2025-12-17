@@ -177,7 +177,7 @@ Ready to dive deeper? Explore the resources below or start converting WMF files 
 - [Purchase Licenses](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/net/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 By following this guide, you're now equipped to convert WMF files to PDF using Aspose.Imaging for .NET effectively. Happy coding!
 

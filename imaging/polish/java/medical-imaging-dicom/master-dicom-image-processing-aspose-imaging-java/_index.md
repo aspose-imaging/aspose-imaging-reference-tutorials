@@ -252,7 +252,7 @@ Opanowałeś już podstawy manipulacji DICOM przy użyciu Aspose.Imaging Java. R
 **Następne kroki:**
 - Poznaj więcej funkcji w [Dokumentacja Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - Eksperymentuj z bardziej złożonymi operacjami DICOM.
-- Podziel się swoimi doświadczeniami i rozwiązaniami na forach, takich jak [Forum społeczności Aspose](https://forum.aspose.com/c/imaging/10).
+- Podziel się swoimi doświadczeniami i rozwiązaniami na forach, takich jak [Forum społeczności Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Sekcja FAQ
 
@@ -278,7 +278,7 @@ A5: Sprawdź, czy ścieżka do pliku jest prawidłowa, upewnij się, że masz od
 - **Zakup**: [Kup licencję](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Uzyskaj bezpłatną wersję próbną](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**: [Poproś o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Forum społeczności Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Forum społeczności Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dzięki temu kompleksowemu przewodnikowi jesteś dobrze wyposażony do obsługi zadań przetwarzania obrazu DICOM przy użyciu Aspose.Imaging Java. Miłego kodowania!
 

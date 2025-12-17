@@ -130,7 +130,7 @@ In questo tutorial abbiamo esplorato come convertire in modo efficiente i file B
 
 Per migliorare ulteriormente le tue competenze:
 - Esplora le funzionalità aggiuntive di Aspose.Imaging, come la manipolazione delle immagini o le conversioni di formato.
-- Interagisci con la comunità su [Forum di Aspose](https://forum.aspose.com/c/imaging/10) per condividere opinioni e chiedere consigli.
+- Interagisci con la comunità su [Forum di Aspose](https://forum.aspose.com/c/imaging/14) per condividere opinioni e chiedere consigli.
 
 Pronti a iniziare a convertire le immagini nelle vostre applicazioni .NET? Provatelo oggi stesso!
 

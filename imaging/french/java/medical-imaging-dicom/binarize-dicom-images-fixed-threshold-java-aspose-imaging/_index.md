@@ -164,7 +164,7 @@ Prêt à l'essayer ? Implémentez cette solution dans votre projet dès aujourd
    - Optimisez votre environnement et votre code pour la gestion de la mémoire, en utilisant efficacement le ramasse-miettes de Java.
 
 5. **Existe-t-il une assistance disponible si je rencontre des problèmes ?**
-   - Vous pouvez demander de l'aide sur le [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10).
+   - Vous pouvez demander de l'aide sur le [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Ressources
 

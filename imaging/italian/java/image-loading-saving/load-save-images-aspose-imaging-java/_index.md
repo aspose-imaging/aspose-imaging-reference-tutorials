@@ -195,7 +195,7 @@ prossimi passi potrebbero includere l'esplorazione di funzionalità più avanzat
 - **Acquista licenza:** Scopri di più sulle opzioni di acquisto su [Acquisto Aspose](https://purchase.aspose.com/buy).
 - **Prova gratuita:** Inizia con una prova per testare le funzionalità.
 - **Licenza temporanea:** Ottieni l'accesso temporaneo per test prolungati.
-- **Forum di supporto:** Ottieni aiuto e condividi approfondimenti su [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10).
+- **Forum di supporto:** Ottieni aiuto e condividi approfondimenti su [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14).
 
 Seguendo questo tutorial, avrai acquisito preziose competenze nell'elaborazione delle immagini con Aspose.Imaging per Java. Buon lavoro!
 

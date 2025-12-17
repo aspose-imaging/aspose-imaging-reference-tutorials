@@ -199,7 +199,7 @@ Zkuste toto řešení implementovat v projektu ještě dnes a uvidíte, jak to z
    - Knihovna je k dispozici na základě zkušební licence; pro všechny funkce je nutné zakoupit licenci.
 
 5. **Kde mohu získat podporu, když ji potřebuji?**
-   - Návštěva [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) o pomoc.
+   - Návštěva [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) o pomoc.
 
 ## Zdroje
 

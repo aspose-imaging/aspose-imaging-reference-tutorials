@@ -173,7 +173,7 @@ A: Các vấn đề thường gặp bao gồm rò rỉ bộ nhớ và tắc ngh�
 - **Mua**: Mua giấy phép hoặc dùng thử miễn phí từ [Mua Aspose](https://purchase.aspose.com/buy).
 - **Dùng thử miễn phí**: Bắt đầu bằng một thử nghiệm tại [Phát hành](https://releases.aspose.com/imaging/net/).
 - **Giấy phép tạm thời**: Yêu cầu một từ [Đặt ra](https://purchase.aspose.com/temporary-license/).
-- **Ủng hộ**: Nhận trợ giúp trong [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10).
+- **Ủng hộ**: Nhận trợ giúp trong [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14).
 
 Hãy bắt đầu hành trình làm chủ xử lý hình ảnh với Aspose.Imaging và đưa ứng dụng của bạn lên tầm cao mới!
 

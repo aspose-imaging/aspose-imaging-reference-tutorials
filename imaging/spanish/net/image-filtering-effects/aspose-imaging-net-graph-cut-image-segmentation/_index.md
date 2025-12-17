@@ -178,7 +178,7 @@ Ya domina la implementación de la función de enmascaramiento automático de co
 - **Documentación**:Explora guías completas en [Referencia de Aspose Imaging .NET](https://reference.aspose.com/imaging/net/).
 - **Descargar**:Acceda a los últimos lanzamientos a través de [Lanzamientos de Aspose](https://releases.aspose.com/imaging/net/).
 - **Compra y prueba gratuita**:Considere probar o comprar a través del sitio oficial. [Página de compra de Aspose](https://purchase.aspose.com/buy) y [Pruebas gratuitas](https://releases.aspose.com/imaging/net/).
-- **Apoyo**:Para cualquier consulta, visite el [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10).
+- **Apoyo**:Para cualquier consulta, visite el [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

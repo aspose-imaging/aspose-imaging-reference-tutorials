@@ -175,7 +175,7 @@ try (DicomImage image = new DicomImage(inputFile)) {
 - **شراء:** شراء ترخيص للاستخدام التجاري في [صفحة شراء Aspose](https://purchase.aspose.com/buy).
 - **نسخة تجريبية مجانية:** ابدأ بفترة تجريبية مجانية لتقييم الميزات في [نسخة تجريبية مجانية من Aspose](https://releases.aspose.com/imaging/java/).
 - **رخصة مؤقتة:** اطلب ترخيصًا مؤقتًا إذا كنت بحاجة إلى وصول موسع عبر [صفحة الترخيص](https://purchase.aspose.com/temporary-license/).
-- **يدعم:** انضم إلى المناقشات واطلب المساعدة بشأن [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10).
+- **يدعم:** انضم إلى المناقشات واطلب المساعدة بشأن [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14).
 
 باتباع هذا الدليل، ستكون جاهزًا تمامًا للتعامل مع صور DICOM بسهولة باستخدام Aspose.Imaging لـ Java. برمجة ممتعة!
 

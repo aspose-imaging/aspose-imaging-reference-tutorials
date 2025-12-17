@@ -173,7 +173,7 @@ R: Los problemas comunes incluyen pérdidas de memoria y cuellos de botella en e
 - **Compra**: Compre una licencia u obtenga una prueba gratuita de [Compra de Aspose](https://purchase.aspose.com/buy).
 - **Prueba gratuita**:Comience con una prueba en [Lanzamientos](https://releases.aspose.com/imaging/net/).
 - **Licencia temporal**:Solicita uno de [Supongamos](https://purchase.aspose.com/temporary-license/).
-- **Apoyo**: Obtenga ayuda en el [Foro de Aspose](https://forum.aspose.com/c/imaging/10).
+- **Apoyo**: Obtenga ayuda en el [Foro de Aspose](https://forum.aspose.com/c/imaging/14).
 
 ¡Embárquese en su viaje para dominar el procesamiento de imágenes con Aspose.Imaging y lleve sus aplicaciones a nuevas alturas!
 

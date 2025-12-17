@@ -150,7 +150,7 @@ A5: Zu den Aufgaben gehören Größenänderung, Formatkonvertierung und erweiter
 - **Kaufen:** Entdecken Sie Lizenzierungsoptionen unter [Aspose Kauf](https://purchase.aspose.com/buy).
 - **Kostenlose Testversion:** Starten Sie mit einer Testversion über [Hier](https://releases.aspose.com/imaging/net/).
 - **Temporäre Lizenz:** Fordern Sie eines für erweiterte Tests an durch [dieser Link](https://purchase.aspose.com/temporary-license/).
-- **Unterstützung:** Treten Sie dem Community-Forum bei unter [Aspose-Unterstützung](https://forum.aspose.com/c/imaging/10).
+- **Unterstützung:** Treten Sie dem Community-Forum bei unter [Aspose-Unterstützung](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

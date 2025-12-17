@@ -196,7 +196,7 @@ Versuchen Sie als nächsten Schritt, diese Funktion in ein bestehendes Projekt z
 - [Lizenz erwerben](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Entdecken Sie diese Ressourcen, um Ihr Verständnis zu vertiefen und die Bildverarbeitungsfunktionen Ihrer Anwendung weiter zu verbessern. Viel Spaß beim Programmieren!
 

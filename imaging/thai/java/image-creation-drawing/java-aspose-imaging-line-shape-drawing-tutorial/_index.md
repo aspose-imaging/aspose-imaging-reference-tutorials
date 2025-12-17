@@ -241,7 +241,7 @@ try (EmfImage image = graphics.endRecording()) {
 - [ตัวเลือกการซื้อ](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - [ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/14)
 
 ตอนนี้คุณมีคู่มือที่ครอบคลุมเกี่ยวกับการนำฟีเจอร์การวาดภาพไปใช้กับ Aspose.Imaging สำหรับ Java แล้ว เริ่มทดลองและผสานเทคนิคเหล่านี้เข้ากับโปรเจ็กต์ของคุณได้เลย ขอให้สนุกกับการเขียนโค้ด!
 

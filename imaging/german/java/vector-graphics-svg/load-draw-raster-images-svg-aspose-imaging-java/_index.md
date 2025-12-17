@@ -187,7 +187,7 @@ In diesem Tutorial haben wir untersucht, wie man mit Aspose.Imaging für Java ei
 - [Erwerben Sie eine Lizenz](https://purchase.aspose.com/buy)
 - [Informationen zur kostenlosen Testversion](https://releases.aspose.com/imaging/java/)
 - [Antrag auf eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit dieser Anleitung sind Sie nun bestens gerüstet, Rasterbilder mit Aspose.Imaging für Java in SVG-Canvas zu integrieren. Viel Spaß beim Programmieren!
 

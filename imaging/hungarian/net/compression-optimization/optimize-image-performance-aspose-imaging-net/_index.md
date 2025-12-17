@@ -170,7 +170,7 @@ További felfedezéshez érdemes lehet belemerülni az Aspose.Imaging fejlettebb
 - **Licenc vásárlása**: [Vásároljon Aspose Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Kezdje ingyenes próbaverzióval](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Aspose.Imaging támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Aspose.Imaging támogatás](https://forum.aspose.com/c/imaging/14)
 
 Tedd meg a következő lépést: valósítsd meg ezeket az optimalizálásokat a .NET projektjeidben, és fedezd fel, hogyan emelheti az Aspose.Imaging a képfeldolgozási feladataid szintjét!
 

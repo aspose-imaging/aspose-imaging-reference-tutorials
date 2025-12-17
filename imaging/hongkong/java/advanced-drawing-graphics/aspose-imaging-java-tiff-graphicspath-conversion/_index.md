@@ -248,7 +248,7 @@ A：僅載入所需的影格，及時釋放物件，並盡可能簡化路徑幾�
 - **購買：** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
 - **免費試用：** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **臨時授權：** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **支援論壇：** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **支援論壇：** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 ---
 

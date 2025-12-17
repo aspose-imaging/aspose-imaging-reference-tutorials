@@ -149,7 +149,7 @@ A3: Implemente blocos try-catch em torno do seu código de carregamento de image
 R4: Sim, você pode ler e escrever tags EXIF com a API abrangente do Aspose.Imaging.
 
 **P5: Onde posso obter suporte se tiver problemas?**
-A5: Visite o [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) para apoio comunitário e oficial.
+A5: Visite o [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) para apoio comunitário e oficial.
 
 ## Recursos
 

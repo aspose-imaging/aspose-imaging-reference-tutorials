@@ -245,7 +245,7 @@ Bu kılavuz boyunca, bir resmin nasıl etkili bir şekilde yükleneceğini, üze
 - **Satın almak**: Abonelik satın almayı düşünün [Aspose Satın Alma](https://purchase.aspose.com/buy).
 - **Ücretsiz Deneme**: Sınırlama olmaksızın özellikleri test etmek için ücretsiz denemeyle başlayın.
 - **Geçici Lisans**: Değerlendirme süreniz boyunca tam erişim için geçici bir lisans edinin.
-- **Destek**: Topluluğa katılın ve yardım isteyin [Aspose Forumları](https://forum.aspose.com/c/imaging/10).
+- **Destek**: Topluluğa katılın ve yardım isteyin [Aspose Forumları](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

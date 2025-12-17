@@ -200,7 +200,7 @@ Dalšími kroky je prozkoumání dalších funkcí knihovny Aspose.Imaging a jej
    - Použijte `Metered.getConsumptionQuantity()` metoda před a po zpracování obrázků pro sledování využití.
 
 5. **Je k dispozici podpora, pokud narazím na problémy?**
-   - Návštěva [Fórum Aspose](https://forum.aspose.com/c/imaging/10) o pomoc od komunitních expertů.
+   - Návštěva [Fórum Aspose](https://forum.aspose.com/c/imaging/14) o pomoc od komunitních expertů.
 
 ## Zdroje
 

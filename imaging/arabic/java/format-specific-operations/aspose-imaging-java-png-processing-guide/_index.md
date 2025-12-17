@@ -167,7 +167,7 @@ A5: نعم، يمكنك ربط إعدادات الفلتر المختلفة دا
 - **شراء:** [الحصول على الترخيص](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [جرب قبل أن تشتري](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة:** [اطلب هنا](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم:** [اسأل المجتمع](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم:** [اسأل المجتمع](https://forum.aspose.com/c/imaging/14)
 
 الآن بعد أن أصبحت مجهزًا بالمعرفة، يمكنك المضي قدمًا والبدء في تنفيذ هذه التقنيات في مشاريع Java الخاصة بك!
 

@@ -193,7 +193,7 @@ Prêt à mettre en œuvre cette solution performante ? Découvrez Aspose.Imagin
 - **Licence d'achat :** [Achetez une licence complète aujourd'hui](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Commencez par un essai gratuit](https://releases.aspose.com/imaging/java/)
 - **Licence temporaire :** [Demander une licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance :** [Obtenez de l'aide de la communauté](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance :** [Obtenez de l'aide de la communauté](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce guide, vous serez parfaitement équipé pour intégrer de puissantes capacités de traitement d'images à vos applications Java grâce à Aspose.Imaging. Bon codage !
 

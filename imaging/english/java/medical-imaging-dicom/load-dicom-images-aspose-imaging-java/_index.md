@@ -167,7 +167,7 @@ Optimize memory usage by processing images in smaller chunks and using Java's ga
 Aspose.Imaging primarily focuses on DICOM, but it supports a wide range of other image formats too.
 
 **5. Where can I get help if I encounter issues with Aspose.Imaging?**
-Visit the [Aspose forums](https://forum.aspose.com/c/imaging/10) for support and to connect with other users and experts.
+Visit the [Aspose forums](https://forum.aspose.com/c/imaging/14) for support and to connect with other users and experts.
 
 ## Resources
 

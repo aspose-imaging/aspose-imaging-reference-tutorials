@@ -172,7 +172,7 @@ image.Save(outputDir + "/ConvertWMFToPDF_out.pdf", pdfOptions);
 - [شراء التراخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/net/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا الدليل، أصبحتَ الآن جاهزًا لتحويل ملفات WMF إلى PDF باستخدام Aspose.Imaging لـ .NET بفعالية. برمجة ممتعة!
 

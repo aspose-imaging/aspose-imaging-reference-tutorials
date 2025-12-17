@@ -200,7 +200,7 @@ A4 : Les images en niveaux de gris contiennent uniquement des nuances de gris, 
 
 **Q5 : Comment puis-je obtenir de l’aide si je rencontre des problèmes avec Aspose.Imaging ?**
 
-A5 : Visitez le [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10) pour obtenir l’aide des experts de la communauté et du personnel de soutien officiel.
+A5 : Visitez le [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14) pour obtenir l’aide des experts de la communauté et du personnel de soutien officiel.
 
 ## Ressources
 

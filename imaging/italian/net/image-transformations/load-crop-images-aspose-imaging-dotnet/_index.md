@@ -180,7 +180,7 @@ Per ampliare ulteriormente le tue competenze, valuta la possibilità di esplorar
 - **Acquista licenza:** https://purchase.aspose.com/buy
 - **Prova gratuita:** https://releases.aspose.com/imaging/net/
 - **Licenza temporanea:** https://purchase.aspose.com/licenza-temporanea/
-- **Forum di supporto:** https://forum.aspose.com/c/imaging/10
+- **Forum di supporto:** https://forum.aspose.com/c/imaging/14
 
 Inizia oggi stesso a integrare queste tecniche di gestione delle immagini nei tuoi progetti e scopri la differenza in termini di prestazioni ed efficienza!
 

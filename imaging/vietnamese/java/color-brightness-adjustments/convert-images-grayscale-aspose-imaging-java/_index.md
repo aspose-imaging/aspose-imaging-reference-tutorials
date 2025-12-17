@@ -188,7 +188,7 @@ Bạn đã học cách chuyển đổi hình ảnh sang thang độ xám hiệu 
 - **Tải về**: Nhận phiên bản mới nhất từ [Aspose.Imaging phát hành](https://releases.aspose.com/imaging/java/)
 - **Mua & Dùng thử**: Tìm hiểu về các tùy chọn mua hàng và bắt đầu dùng thử miễn phí [đây](https://purchase.aspose.com/buy)
 - **Giấy phép tạm thời**: Xin giấy phép tạm thời [đây](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: Tham gia diễn đàn cộng đồng tại [Diễn đàn hình ảnh Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: Tham gia diễn đàn cộng đồng tại [Diễn đàn hình ảnh Aspose](https://forum.aspose.com/c/imaging/14)
 
 Chúng tôi hy vọng hướng dẫn này giúp bạn sử dụng Aspose.Imaging for Java hiệu quả trong các dự án của mình. Chúc bạn viết code vui vẻ!
 

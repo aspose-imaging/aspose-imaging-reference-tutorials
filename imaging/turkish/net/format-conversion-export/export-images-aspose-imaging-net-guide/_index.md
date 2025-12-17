@@ -207,7 +207,7 @@ C3: Evet, Aspose.Imaging, formata özgü seçenekler aracılığıyla sıkışt�
 A4: Kesinlikle! .NET'te paralel programlama tekniklerini kullanarak birden fazla dosyayı verimli bir şekilde işleyebilirsiniz.
 
 **S5: Aspose.Imaging ile ilgili yaygın sorunları nasıl giderebilirim?**
-A5: Kontrol edin [destek forumu](https://forum.aspose.com/c/imaging/10) ortak sorunlara çözümler bulmak ve kapsamlı danışmak için [belgeleme](https://reference.aspose.com/imaging/net/) rehberlik için.
+A5: Kontrol edin [destek forumu](https://forum.aspose.com/c/imaging/14) ortak sorunlara çözümler bulmak ve kapsamlı danışmak için [belgeleme](https://reference.aspose.com/imaging/net/) rehberlik için.
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

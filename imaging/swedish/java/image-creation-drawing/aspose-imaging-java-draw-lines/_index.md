@@ -234,7 +234,7 @@ I den här handledningen utforskade vi hur man konfigurerar bitmappsalternativ o
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att utnyttja dessa resurser kan du förbättra din förståelse och användning av Aspose.Imaging för Java i dina projekt. Lycka till med kodningen!
 

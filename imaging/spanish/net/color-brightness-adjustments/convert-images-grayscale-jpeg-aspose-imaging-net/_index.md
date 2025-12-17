@@ -155,7 +155,7 @@ Aprendió a convertir imágenes en archivos JPEG en escala de grises utilizando 
    Sí, se puede utilizar en cualquier entorno de producción después de comprar una licencia.
 
 5. **¿Hay soporte disponible para solucionar problemas con Aspose.Imaging?**
-   Sí, puedes buscar ayuda en el [Foros de Aspose](https://forum.aspose.com/c/imaging/10).
+   Sí, puedes buscar ayuda en el [Foros de Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Recursos
 - **Documentación:** https://reference.aspose.com/imaging/net/
@@ -163,7 +163,7 @@ Aprendió a convertir imágenes en archivos JPEG en escala de grises utilizando 
 - **Compra:** https://purchase.aspose.com/buy
 - **Prueba gratuita:** https://releases.aspose.com/imaging/net/
 - **Licencia temporal:** https://purchase.aspose.com/licencia-temporal/
-- **Apoyo:** https://forum.aspose.com/c/imaging/10
+- **Apoyo:** https://forum.aspose.com/c/imaging/14
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

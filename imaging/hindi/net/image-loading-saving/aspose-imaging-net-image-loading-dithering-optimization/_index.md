@@ -159,7 +159,7 @@ using (RasterImage image = Image.Load(inputFileName))
 - **खरीदना:** [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [Aspose.Imaging को निःशुल्क आज़माएँ](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस:** [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता:** [Aspose.Imaging सहायता फ़ोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता:** [Aspose.Imaging सहायता फ़ोरम](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

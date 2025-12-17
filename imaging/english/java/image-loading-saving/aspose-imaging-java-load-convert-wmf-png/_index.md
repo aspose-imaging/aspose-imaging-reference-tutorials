@@ -209,7 +209,7 @@ Ready to implement these solutions? Dive into the world of advanced image proces
    - Use appropriate rasterization settings and monitor system resources during batch processing.
 
 5. **How do I obtain support if I encounter issues?**
-   - Visit the [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10) for community support or contact their professional support team.
+   - Visit the [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14) for community support or contact their professional support team.
 
 ## Resources
 

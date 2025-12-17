@@ -166,7 +166,7 @@ Per gestire in modo efficace l'utilizzo della memoria, si consiglia di suddivide
 - **Acquistare**: [Acquista la licenza Aspose](https://purchase.aspose.com/buy)
 - **Prova gratuita**: [Prova Aspose.Imaging gratuitamente](https://releases.aspose.com/imaging/net/)
 - **Licenza temporanea**: [Richiedi licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 Inizia subito il tuo viaggio con Aspose.Imaging e trasforma le tue attività di elaborazione delle immagini in flussi di lavoro semplificati.
 

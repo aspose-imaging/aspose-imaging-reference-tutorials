@@ -203,7 +203,7 @@ Pronto a implementare questa soluzione? Provala e scopri come migliora i tuoi pr
 - [Acquista licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Con questo tutorial, sarai pronto a potenziare le tue applicazioni Java con potenti funzionalità di elaborazione delle immagini utilizzando Aspose.Imaging. Buona programmazione!
 

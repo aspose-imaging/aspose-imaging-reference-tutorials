@@ -199,7 +199,7 @@ Bu eğitim boyunca, JPEG ve PNG dosyalarını Aspose.Imaging Java kullanarak TGA
 - **Belgeleme**: Daha fazlasını keşfedin [Aspose.Görüntüleme Belgeleri](https://reference.aspose.com/imaging/java/).
 - **İndirmek**: En son sürümleri şu adresten edinin: [Aspose Yayın Sayfası](https://releases.aspose.com/imaging/java/).
 - **Satın al ve Ücretsiz Deneme**: Bugün özellikleri deneyin [Aspose'un Satın Alma ve Ücretsiz Deneme Sayfası](https://purchase.aspose.com/buy).
-- **Destek**: Tartışmalara katılın [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Destek**: Tartışmalara katılın [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 Bu kılavuzun Aspose.Imaging Java'yı görüntü işleme ihtiyaçlarınız için etkili bir şekilde kullanmanıza yardımcı olmasını umuyoruz. İyi kodlamalar!
 

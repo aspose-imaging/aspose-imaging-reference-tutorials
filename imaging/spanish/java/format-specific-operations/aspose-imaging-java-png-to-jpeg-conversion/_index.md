@@ -225,7 +225,7 @@ Explore las funciones adicionales que ofrece Aspose.Imaging, como cambio de tama
 - [Licencia de compra](https://purchase.aspose.com/buy)
 - [Acceso de prueba gratuito](https://releases.aspose.com/imaging/java/)
 - [Solicitud de licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Con esta guía completa, ya está listo para aprovechar Aspose.Imaging Java para un procesamiento de imágenes eficiente en sus proyectos. ¡Que disfrute programando!
 

@@ -202,7 +202,7 @@ Tak, zintegruj Aspose.Imaging ze skryptami kompilacji, aby automatycznie weryfik
 - **Zakup:** [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Uzyskaj bezpłatną wersję próbną](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa:** [Poproś o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dzięki temu przewodnikowi uzyskałeś umiejętności efektywnego zarządzania obrazami APNG w aplikacjach .NET przy użyciu Aspose.Imaging. Miłego kodowania!
 

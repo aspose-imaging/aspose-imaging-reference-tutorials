@@ -181,7 +181,7 @@ Trong hướng dẫn này, bạn đã học cách tải và lưu hình ảnh DIC
 - **Tải xuống:** [Bản phát hành mới nhất](https://releases.aspose.com/imaging/java/)
 - **Mua:** [Mua bản quyền Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí & Giấy phép tạm thời:** [Bắt đầu](https://releases.aspose.com/imaging/java/)
-- **Diễn đàn hỗ trợ:** [Cộng đồng Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** [Cộng đồng Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn toàn diện này đã trang bị cho bạn những kỹ năng cần thiết để quản lý hiệu quả hình ảnh DICOM trong các ứng dụng Java bằng Aspose.Imaging. Chúc bạn viết mã vui vẻ!
 

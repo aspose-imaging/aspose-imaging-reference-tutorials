@@ -197,7 +197,7 @@ Prozkoumali jsme, jak může Aspose.Imaging pro Javu způsobit revoluci ve zprac
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto komplexního průvodce jste nyní vybaveni k efektivnímu a sebevědomému zpracování obrázků WebP v Javě. Přejeme vám příjemné programování!
 

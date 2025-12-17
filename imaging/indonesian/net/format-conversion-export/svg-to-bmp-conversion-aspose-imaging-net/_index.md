@@ -142,7 +142,7 @@ Untuk lebih meningkatkan keterampilan Anda dengan Aspose.Imaging, jelajahi fungs
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda untuk menguasai konversi gambar dengan Aspose.Imaging for .NET, dan jelajahi berbagai kemungkinan yang ditawarkan oleh pustaka canggih ini. Selamat membuat kode!
 

@@ -214,7 +214,7 @@ A: Kesinlikle. Yüksek çözünürlüklü BMP dosyaları da dahil olmak üzere �
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'i Ücretsiz Deneyin](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Artık bu bilgiye sahip olduğunuza göre, bu özellikleri Java uygulamalarınızda uygulamaya devam edin!
 

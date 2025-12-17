@@ -155,7 +155,7 @@ Daha derinlere dalmaya hazır mısınız? Bu teknikleri bugün uygulamaya çalı
    Evet, lisans satın aldıktan sonra her türlü üretim ortamında kullanılabilir.
 
 5. **Aspose.Imaging ile ilgili sorunların giderilmesine yönelik destek mevcut mu?**
-   Evet, yardım isteyebilirsiniz [Aspose forumları](https://forum.aspose.com/c/imaging/10).
+   Evet, yardım isteyebilirsiniz [Aspose forumları](https://forum.aspose.com/c/imaging/14).
 
 ## Kaynaklar
 - **Belgeler:** https://reference.aspose.com/imaging/net/

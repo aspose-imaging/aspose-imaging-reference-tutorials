@@ -175,7 +175,7 @@ A3: Ya, tapi pastikan Anda memperoleh lisensi yang sesuai dari [Asumsikan](https
 A4: Ya, terapkan pemrosesan batch untuk menangani banyak file secara efisien, yang dapat mengurangi waktu pemrosesan secara signifikan.
 
 **Q5: Di mana saya bisa mendapatkan dukungan jika saya menghadapi masalah?**
-A5: Kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10) untuk bantuan dari tim Aspose dan anggota komunitas.
+A5: Kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14) untuk bantuan dari tim Aspose dan anggota komunitas.
 
 ## Sumber daya
 - **Dokumentasi:** Jelajahi panduan terperinci dan referensi API di [Dokumentasi Aspose.Imaging](https://reference.aspose.com/imaging/net/).

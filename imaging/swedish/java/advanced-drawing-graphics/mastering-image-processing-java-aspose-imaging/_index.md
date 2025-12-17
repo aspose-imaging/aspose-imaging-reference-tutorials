@@ -171,7 +171,7 @@ Vanliga problem inkluderar att resurser inte hanteras korrekt och att felhanteri
 - **Köpa:** [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Prova Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Begär tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Genom att följa den här guiden är du nu väl förberedd för att ta itu med bildbehandlingsuppgifter med Aspose.Imaging för Java. Lycka till med kodningen!
 

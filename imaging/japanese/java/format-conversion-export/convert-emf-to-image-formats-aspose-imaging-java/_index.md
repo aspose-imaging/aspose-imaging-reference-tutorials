@@ -255,7 +255,7 @@ A5: 訪問 [一時ライセンスページ](https://purchase.aspose.com/temporar
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imagingの無料トライアルを入手](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスを申請する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを活用することで、Aspose.Imaging for Java に関する知識と能力をさらに広げることができます。コーディングを楽しみましょう！
 

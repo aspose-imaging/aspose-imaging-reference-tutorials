@@ -174,7 +174,7 @@ frameCounter++;
 - [شراء التراخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 ابدأ رحلتك نحو إتقان معالجة الصور باستخدام Aspose.Imaging Java واكتشف إمكانيات جديدة في التعامل مع صور TIFF.
 

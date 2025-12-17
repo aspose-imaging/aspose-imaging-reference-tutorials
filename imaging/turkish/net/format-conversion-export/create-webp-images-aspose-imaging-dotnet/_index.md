@@ -189,7 +189,7 @@ Aspose.Imaging, verimli bellek yönetimi ve hızlı işleme için optimize edilm
 - **Lisans Satın Al:** [Şimdi al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** Geçici bir lisansla tüm özellikleri keşfedin [Burada](https://releases.aspose.com/imaging/net/).
 - **Geçici Lisans:** Değerlendirme için bir tane edinin [bu bağlantı](https://purchase.aspose.com/temporary-license/).
-- **Destek Forumu:** Ziyaret etmek [Aspose Topluluk Desteği](https://forum.aspose.com/c/imaging/10) Herhangi bir soru veya sorununuz için.
+- **Destek Forumu:** Ziyaret etmek [Aspose Topluluk Desteği](https://forum.aspose.com/c/imaging/14) Herhangi bir soru veya sorununuz için.
 
 Bu kapsamlı kılavuzu takip ederek, artık Aspose.Imaging for .NET'i kullanarak WebP görüntülerini verimli ve etkili bir şekilde oluşturmak için donanımlısınız. İyi kodlamalar!
 

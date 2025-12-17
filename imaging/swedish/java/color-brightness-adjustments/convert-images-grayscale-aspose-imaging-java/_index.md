@@ -188,7 +188,7 @@ Du har lärt dig hur du effektivt konverterar bilder till gråskala med Aspose.I
 - **Ladda ner**Hämta den senaste versionen från [Aspose.Imaging-utgåvor](https://releases.aspose.com/imaging/java/)
 - **Köp och prova**Läs mer om köpalternativ och börja med en gratis provperiod [här](https://purchase.aspose.com/buy)
 - **Tillfällig licens**: Skaffa ett tillfälligt körkort [här](https://purchase.aspose.com/temporary-license/)
-- **Stöd**Gå med i communityforumet på [Aspose Bildforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**Gå med i communityforumet på [Aspose Bildforum](https://forum.aspose.com/c/imaging/14)
 
 Vi hoppas att den här guiden ger dig möjlighet att effektivt använda Aspose.Imaging för Java i dina projekt. Lycka till med kodningen!
 

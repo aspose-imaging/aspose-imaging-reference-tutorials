@@ -186,7 +186,7 @@ Volgende stappen kunnen bestaan uit het experimenteren met verschillende afbeeld
 - **Aankoop**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Ontvang een gratis proefperiode](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Vraag een tijdelijke vergunning aan](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Aspose Imaging-ondersteuning](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Aspose Imaging-ondersteuning](https://forum.aspose.com/c/imaging/14)
 
 Begin vandaag nog met Aspose.Imaging en ontgrendel het volledige potentieel van beeldverwerking in .NET!
 

@@ -215,7 +215,7 @@ Opanowałeś już podstawy przetwarzania obrazów Java za pomocą Aspose.Imaging
 - **Zakup**: [Kup produkty Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Zacznij tutaj](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**: [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij przygodę z przetwarzaniem obrazów w Javie dzięki Aspose.Imaging i odkryj nowe możliwości w dziedzinie cyfrowej obróbki obrazów!
 

@@ -183,7 +183,7 @@ image.save(outputFile, new BmpOptions());
 - **ซื้อ**- [ซื้อ Aspose.Imaging](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี**- [ลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - **ใบอนุญาตชั่วคราว**- [ขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน**- [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน**- [ฟอรั่ม Aspose](https://forum.aspose.com/c/imaging/14)
 
 ใช้พลังของ Aspose.Imaging สำหรับ Java เพื่อยกระดับงานการประมวลผลภาพของคุณได้อย่างง่ายดายและแม่นยำ!
 

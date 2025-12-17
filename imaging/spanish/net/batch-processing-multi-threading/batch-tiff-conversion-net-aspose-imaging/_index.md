@@ -149,7 +149,7 @@ Para explorar m√°s a fondo, considere integrar esta funcionalidad en sistemas m√
 - Compra: [Comprar una licencia](https://purchase.aspose.com/buy)
 - Prueba gratuita: [Pruebe Aspose.Imaging para .NET](https://releases.aspose.com/imaging/net/)
 - Licencia temporal: [Obtenga una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- Apoyo: [Foros de Aspose](https://forum.aspose.com/c/imaging/10)
+- Apoyo: [Foros de Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

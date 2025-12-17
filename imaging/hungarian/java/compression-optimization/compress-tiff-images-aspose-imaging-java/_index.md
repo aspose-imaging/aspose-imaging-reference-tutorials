@@ -188,7 +188,7 @@ Az útmutató követésével megtanultad, hogyan tömörítheted hatékonyan a T
 - **Vásárlás:** [Vásároljon most](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Kezdje itt](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Kérelem itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** További segítségért látogassa meg a [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** További segítségért látogassa meg a [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

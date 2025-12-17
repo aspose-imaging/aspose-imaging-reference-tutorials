@@ -193,7 +193,7 @@ Explore otras funciones que ofrece Aspose.Imaging, como cambiar el tamaño, reco
 - **Compra:** Comprar licencias a través de [Portal de compras de Aspose](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** Acceda a una licencia temporal a través de [Pruebas gratuitas de Aspose](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** Obtenga uno en [Licencias temporales de Aspose](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** Únase a la comunidad y obtenga ayuda en el [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** Únase a la comunidad y obtenga ayuda en el [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo esta guía, podrás integrar Aspose.Imaging eficazmente en tus proyectos Java para gestionar la carga y rotación de imágenes con facilidad. ¡Que disfrutes programando!
 

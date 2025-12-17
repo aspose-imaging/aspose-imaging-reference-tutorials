@@ -204,7 +204,7 @@ Nu har du kunskapen att rita strängar med olika justeringar på bilder med Aspo
 - **Köpa:** [Köp Aspose.Imaging-licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Prova Aspose.Imaging gratis](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Begär tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** [Aspose Supportforum](https://forum.aspose.com/c/imaging/10) 
+- **Stöd:** [Aspose Supportforum](https://forum.aspose.com/c/imaging/14) 
 
 Utforska dessa resurser för att fördjupa din förståelse och dina färdigheter med Aspose.Imaging för Java. Lycka till med kodningen!
 

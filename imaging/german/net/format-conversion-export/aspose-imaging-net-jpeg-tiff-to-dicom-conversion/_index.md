@@ -163,7 +163,7 @@ Zu den nächsten Schritten gehört das Erkunden erweiterter Funktionen von Aspos
 - [Kaufen](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/net/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Unterstützung](https://forum.aspose.com/c/imaging/10)
+- [Unterstützung](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -198,7 +198,7 @@ Készségeid és ismereteid további fejlesztéséhez tekintsd át ezeket a forr
 - **Vásárlás és licencelés:** Tudjon meg többet a vásárlási lehetőségekről a következő címen: [Az Aspose vásárlási oldala](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** Kezdje ingyenes próbaverzióval a következő weboldalon: [Aspose próbaoldala](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** Igényeljen ideiglenes licencet a teljes funkcionalitás eléréséhez a következő címen: [Az Aspose ideiglenes licencoldala](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** Lépj kapcsolatba a közösséggel és kérj támogatást [Aspose fóruma](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** Lépj kapcsolatba a közösséggel és kérj támogatást [Aspose fóruma](https://forum.aspose.com/c/imaging/14)
 
 Ezekkel az anyagokkal felkészült leszel arra, hogy kihasználd az Aspose.Imaging for Java erejét a projektjeidben. Jó kódolást!
 

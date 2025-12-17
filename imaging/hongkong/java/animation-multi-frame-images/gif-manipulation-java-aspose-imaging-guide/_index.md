@@ -172,7 +172,7 @@ image.save("YOUR_OUTPUT_DIRECTORY/output.gif", new GifOptions() {
 - **購買**： [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用**： [從免費試用開始](https://releases.aspose.com/imaging/java/)
 - **臨時執照**： [在此請求](https://purchase.aspose.com/temporary-license/)
-- **支援論壇**： [Aspose 支持社區](https://forum.aspose.com/c/imaging/10)
+- **支援論壇**： [Aspose 支持社區](https://forum.aspose.com/c/imaging/14)
 
 本指南將協助您掌握使用 Aspose.Imaging for Java 輕鬆處理 GIF 影像所需的知識。祝您程式愉快！
 

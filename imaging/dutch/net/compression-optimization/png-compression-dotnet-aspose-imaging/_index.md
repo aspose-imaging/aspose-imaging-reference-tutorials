@@ -156,7 +156,7 @@ A5: Hoewel het zeer veelzijdig is, moet u altijd de [documentatie](https://refer
 - **Aankoop**: Koop een licentie om de volledige mogelijkheden te ontgrendelen op [Aspose Aankoop](https://purchase.aspose.com/buy).
 - **Gratis proefperiode**: Test Aspose.Imaging zonder beperkingen door een [Gratis proefperiode](https://releases.aspose.com/imaging/net/).
 - **Tijdelijke licentie**: Verkrijg een tijdelijke licentie voor uitgebreide evaluatie van [Tijdelijke licenties](https://purchase.aspose.com/temporary-license/).
-- **Steun**: Neem contact op met de community of zoek hulp bij [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10).
+- **Steun**: Neem contact op met de community of zoek hulp bij [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

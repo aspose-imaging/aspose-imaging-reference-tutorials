@@ -189,7 +189,7 @@ Aspose.Imaging は、効率的なメモリ管理と高速処理のために最�
 - **ライセンスを購入:** [今すぐ購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** 一時ライセンスで全機能を試す [ここ](https://releases。aspose.com/imaging/net/).
 - **一時ライセンス:** 評価のために入手するには [このリンク](https://purchase。aspose.com/temporary-license/).
-- **サポートフォーラム:** 訪問 [Aspose コミュニティ サポート](https://forum.aspose.com/c/imaging/10) ご質問や問題がございましたら、お気軽にお問い合わせください。
+- **サポートフォーラム:** 訪問 [Aspose コミュニティ サポート](https://forum.aspose.com/c/imaging/14) ご質問や問題がございましたら、お気軽にお問い合わせください。
 
 この包括的なガイドに従うことで、Aspose.Imaging for .NET を使って WebP 画像を効率的かつ効果的に作成できるようになります。コーディングを楽しみましょう！
 

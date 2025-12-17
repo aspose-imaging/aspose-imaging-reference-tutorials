@@ -195,7 +195,7 @@ Teraz powinieneś mieć solidne zrozumienie, jak tworzyć i manipulować maskami
 - **Zakup:** [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** [Uzyskaj bezpłatną wersję próbną](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa:** [Złóż wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Postępując zgodnie z tym przewodnikiem, będziesz dobrze wyposażony, aby wykorzystać pełen potencjał Aspose.Imaging dla .NET w swoich projektach. Miłego kodowania!
 

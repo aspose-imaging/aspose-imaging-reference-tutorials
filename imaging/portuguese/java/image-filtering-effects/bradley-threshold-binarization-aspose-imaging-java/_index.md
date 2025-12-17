@@ -198,7 +198,7 @@ R5: Considere otimizar seu ambiente Java para gerenciamento de memória e explor
 - [Comprar uma licença](https://purchase.aspose.com/buy)
 - [Acesso de teste gratuito](https://releases.aspose.com/imaging/java/)
 - [Solicitação de Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Explore estes recursos para aprofundar seus conhecimentos e aprimorar seus projetos de processamento de imagens com o Aspose.Imaging para Java. Boa programação!
 

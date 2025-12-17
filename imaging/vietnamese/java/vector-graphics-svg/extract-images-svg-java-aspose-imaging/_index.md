@@ -250,7 +250,7 @@ A: Hãy cân nhắc sử dụng các kỹ thuật xử lý hàng loạt và tố
 - **Mua:** [Mua Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Triển khai các tính năng này vào các dự án Java của bạn để mở khóa các khả năng mới và hợp lý hóa quy trình xử lý hình ảnh bằng Aspose.Imaging. Chúc bạn viết code vui vẻ!
 

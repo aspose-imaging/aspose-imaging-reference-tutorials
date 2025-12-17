@@ -197,7 +197,7 @@ Aspose.Imaging Java を使用する場合は、最適なパフォーマンスを
 - **購入：** 訪問 [Aspose 購入ページ](https://purchase.aspose.com/buy) ライセンスオプション
 - **無料トライアル:** まずはトライアルから [無料トライアルリンク](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** 一時アクセスを取得するには [一時ライセンスページ](https://purchase.aspose.com/temporary-license/)
-- **サポート：** コミュニティに参加する [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** コミュニティに参加する [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

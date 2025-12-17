@@ -190,7 +190,7 @@ try (Image image = Image.load(dataDir + "SampleImage1.bmp")) {
 - [Αγορά](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/14)
 
 Αυτός ο οδηγός θα σας εξοπλίσει με όλα όσα χρειάζεστε για να χρησιμοποιήσετε αποτελεσματικά το Aspose.Imaging για τη φόρτωση και εξαγωγή εικόνων σε μορφή WebP χρησιμοποιώντας Java. Καλή κωδικοποίηση!
 

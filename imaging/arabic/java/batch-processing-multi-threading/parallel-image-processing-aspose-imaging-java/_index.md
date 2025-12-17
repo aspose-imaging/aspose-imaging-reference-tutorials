@@ -223,7 +223,7 @@ A5: يسمح لك بالقراءة من أو الكتابة إلى مواضع م
 - [تنزيل Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - [شراء الترخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية وترخيص مؤقت](https://releases.aspose.com/imaging/java/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10) 
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14) 
 
 ابدأ رحلتك مع Aspose.Imaging Java اليوم واكتشف إمكانات معالجة الصور عالية الأداء في مشاريعك!
 

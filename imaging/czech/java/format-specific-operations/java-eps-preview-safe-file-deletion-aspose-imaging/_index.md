@@ -220,7 +220,7 @@ A5: Ano, i když můžete začít s bezplatnou zkušební verzí, pro dlouhodob�
 - **Nákup**Kupte si licenci prostřednictvím [Nákup Aspose](https://purchase.aspose.com/buy).
 - **Bezplatná zkušební verze**Začněte se zkušební verzí a otestujte si funkce na [Bezplatné zkušební verze Aspose](https://releases.aspose.com/imaging/java/).
 - **Dočasná licence**Požádejte o jeden prostřednictvím [Dočasná licence Aspose](https://purchase.aspose.com/temporary-license/).
-- **Podpora**V případě dotazů se obraťte na [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Podpora**V případě dotazů se obraťte na [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Dodržováním tohoto tutoriálu a používáním Aspose.Imaging pro Javu budete dobře vybaveni pro práci s náhledy obrázků EPS a bezpečným mazáním souborů ve vašich projektech. Přejeme vám příjemné programování!
 

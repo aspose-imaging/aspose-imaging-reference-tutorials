@@ -163,7 +163,7 @@ Készen állsz, hogy a Java fejlesztésedet a következő szintre emeld? Próbá
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió és ideiglenes licenc](https://releases.aspose.com/imaging/java/)
 
-További kérdéseivel látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)Jó kódolást!
+További kérdéseivel látogassa meg a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)Jó kódolást!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

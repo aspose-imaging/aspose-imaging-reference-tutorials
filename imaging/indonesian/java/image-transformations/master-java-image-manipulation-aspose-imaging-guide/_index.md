@@ -213,7 +213,7 @@ Untuk eksplorasi lebih jauh dan teknik lanjutan, rujuk berikut ini:
 - **Unduh**:Dapatkan rilis terbaru dari [Rilis Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Pembelian**:Dapatkan lisensi Anda di [Halaman Pembelian Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: Uji coba fitur dengan lisensi sementara yang tersedia di [Uji Coba Gratis Aspose](https://releases.aspose.com/imaging/java/)
-- **Mendukung**: Bergabunglah dalam diskusi di [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: Bergabunglah dalam diskusi di [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah bereksperimen dan buka kemungkinan kreatif baru dengan Aspose.Imaging untuk Java hari ini!
 

@@ -169,7 +169,7 @@ För att fortsätta utforska funktionerna i Aspose.Imaging, överväg att fördj
 4. **Vilka är några vanliga problem när man maskerar bilder?**
    - Vanliga problem inkluderar felaktiga sökvägsdefinitioner, ohanterade undantag eller prestandaflaskhalsar på grund av stora bildstorlekar.
 5. **Var kan jag hitta stöd om jag har ytterligare frågor?**
-   - Besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/10) för hjälp från experter i samhället och Aspose-personal.
+   - Besök [Aspose Supportforum](https://forum.aspose.com/c/imaging/14) för hjälp från experter i samhället och Aspose-personal.
 
 ## Resurser
 - **Dokumentation**: [Aspose.Imaging .NET-dokumentation](https://reference.aspose.com/imaging/net/)

@@ -149,7 +149,7 @@ A3: Optimalkan manajemen memori dan sempurnakan pengaturan konfigurasi Anda sepe
 A4: Masalah umum meliputi jalur file yang salah, pengaturan konfigurasi yang tidak tepat, dan format gambar yang tidak didukung. Selalu pastikan jalur sudah benar dan konfigurasi sesuai dengan kebutuhan Anda.
 
 **Q5: Di mana saya dapat menemukan lebih banyak sumber daya tentang Aspose.Imaging?**
-A5: Kunjungi [Dokumentasi Aspose](https://reference.aspose.com/imaging/net/) untuk panduan lengkap dan [Forum](https://forum.aspose.com/c/imaging/10) untuk dukungan komunitas.
+A5: Kunjungi [Dokumentasi Aspose](https://reference.aspose.com/imaging/net/) untuk panduan lengkap dan [Forum](https://forum.aspose.com/c/imaging/14) untuk dukungan komunitas.
 
 ## Sumber daya
 - **Dokumentasi:** [Referensi Aspose Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -157,7 +157,7 @@ A5: Kunjungi [Dokumentasi Aspose](https://reference.aspose.com/imaging/net/) unt
 - **Pembelian:** [Beli Lisensi](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Unduhan Uji Coba](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara:** [Minta di sini](https://purchase.aspose.com/temporary-license/)
-- **Mendukung:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

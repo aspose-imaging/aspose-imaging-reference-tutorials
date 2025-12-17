@@ -234,7 +234,7 @@ license.setLicense("path/to/your/license/file.lic");
 - [Купить лицензию](https://purchase.aspose.com/buy)
 - [Бесплатная пробная версия](https://releases.aspose.com/imaging/java/)
 - [Временная лицензия](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Используя эти ресурсы, вы можете улучшить свое понимание и использование Aspose.Imaging для Java в своих проектах. Удачного кодирования!
 

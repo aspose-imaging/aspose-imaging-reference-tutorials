@@ -209,7 +209,7 @@ V: A [Aspose.Imaging dokumentáció](https://reference.aspose.com/imaging/java/)
 - **Vásárlás**: [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbáld ki az Aspose.Imaging-et](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Kérelem itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose.Imaging fórum](https://forum.aspose.com/c/imaging/14)
 
 Indulj el az Aspose.Imaging Java segítségével, és alakítsd át a képkonverziók kezelését még ma!
 

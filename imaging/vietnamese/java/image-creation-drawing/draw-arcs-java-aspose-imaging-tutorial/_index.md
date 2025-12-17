@@ -182,7 +182,7 @@ Trong hướng dẫn này, chúng tôi đã đề cập đến cách vẽ cung t
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Nhận bản dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Thông tin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy thoải mái tìm hiểu các nguồn tài nguyên này để biết thêm thông tin chi tiết và được hỗ trợ. Chúc bạn viết mã vui vẻ!
 

@@ -204,7 +204,7 @@ A4: Nó hỗ trợ nhiều định dạng khác nhau bao gồm TIFF, JPEG, PNG, 
 
 **Câu hỏi 5: Tôi có thể nhận được trợ giúp như thế nào nếu gặp vấn đề?**
 
-A5: Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) để được hỗ trợ từ các chuyên gia cộng đồng.
+A5: Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) để được hỗ trợ từ các chuyên gia cộng đồng.
 
 ## Tài nguyên
 
@@ -213,7 +213,7 @@ A5: Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imagi
 - **Mua**: https://purchase.aspose.com/buy
 - **Dùng thử miễn phí**: https://releases.aspose.com/imaging/java/
 - **Giấy phép tạm thời**: https://purchase.aspose.com/temporary-license/
-- **Ủng hộ**: https://forum.aspose.com/c/imaging/10
+- **Ủng hộ**: https://forum.aspose.com/c/imaging/14
 
 Bằng cách tận dụng các tài nguyên này, bạn có thể hiểu sâu hơn và nâng cao khả năng sử dụng Aspose.Imaging trong Java. Chúc bạn viết mã vui vẻ!
 

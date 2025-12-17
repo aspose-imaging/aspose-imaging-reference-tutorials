@@ -173,7 +173,7 @@ Denemeye hazır mısınız? Bu çözümleri uygulayın ve uygulamanızın görü
 - **Lisans Satın Alın**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Değerlendirmeyle Başlayın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Buradan Bir Tane Başvurun](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Tartışmaya Katılın](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: [Tartışmaya Katılın](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging .NET kullanarak görüntü dönüştürme konusundaki anlayışınızı ve yeteneklerinizi genişletmek için bu kaynakları inceleyin.
 

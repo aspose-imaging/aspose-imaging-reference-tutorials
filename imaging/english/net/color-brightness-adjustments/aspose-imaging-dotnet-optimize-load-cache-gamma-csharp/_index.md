@@ -222,7 +222,7 @@ By leveraging Aspose.Imaging for .NET, you've learned how to efficiently load an
 - **Purchase**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Try Aspose.Imaging Free](https://releases.aspose.com/imaging/net/)
 - **Temporary License**: [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 By following this guide, you're now equipped to implement advanced image processing features in your .NET applications using Aspose.Imaging. Enjoy exploring further and enhancing your projects!
 

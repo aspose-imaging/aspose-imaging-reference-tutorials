@@ -223,7 +223,7 @@ A5: ファイル内の特定の位置を読み取ったり、特定の位置に�
 - [Aspose.Imaging をダウンロード](https://releases.aspose.com/imaging/java/)
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアルと一時ライセンス](https://releases.aspose.com/imaging/java/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10) 
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14) 
 
 今すぐ Aspose.Imaging Java を使い始め、プロジェクトで高性能な画像処理の可能性を解き放ちましょう。
 

@@ -159,7 +159,7 @@ Al aprovechar Aspose.Imaging para .NET, puede gestionar eficientemente la carga 
 - **Compra:** [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Pruebe Aspose.Imaging gratis](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal:** [Obtenga una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** [Foro de soporte de Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** [Foro de soporte de Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

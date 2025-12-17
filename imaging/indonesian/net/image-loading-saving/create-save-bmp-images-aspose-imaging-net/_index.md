@@ -128,7 +128,7 @@ Ketika bekerja dengan pemrosesan gambar:
 ## Kesimpulan
 Tutorial ini mengajarkan Anda cara mengatur opsi BMP dan membuat gambar menggunakan Aspose.Imaging untuk .NET. Dengan mengikuti langkah-langkah yang diuraikan di atas, Anda dapat mengintegrasikan kemampuan pembuatan gambar ke dalam aplikasi Anda dengan lancar.
 
-Selanjutnya, pertimbangkan untuk menjelajahi lebih banyak fitur Aspose.Imaging atau mempelajari lebih dalam format pencitraan lain yang didukung oleh pustaka tersebut. Jika Anda memiliki pertanyaan lebih lanjut atau memerlukan bantuan, lihat [forum dukungan](https://forum.aspose.com/c/imaging/10).
+Selanjutnya, pertimbangkan untuk menjelajahi lebih banyak fitur Aspose.Imaging atau mempelajari lebih dalam format pencitraan lain yang didukung oleh pustaka tersebut. Jika Anda memiliki pertanyaan lebih lanjut atau memerlukan bantuan, lihat [forum dukungan](https://forum.aspose.com/c/imaging/14).
 
 ## Bagian FAQ
 1. **Apa itu Aspose.Imaging untuk .NET?**

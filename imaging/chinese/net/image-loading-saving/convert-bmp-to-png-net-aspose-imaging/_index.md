@@ -130,7 +130,7 @@ image.Save(resultFile, options);
 
 为了进一步提高您的技能：
 - 探索 Aspose.Imaging 的其他功能，例如图像处理或格式转换。
-- 与社区互动 [Aspose 的论坛](https://forum.aspose.com/c/imaging/10) 分享见解并寻求建议。
+- 与社区互动 [Aspose 的论坛](https://forum.aspose.com/c/imaging/14) 分享见解并寻求建议。
 
 准备好在 .NET 应用程序中转换图像了吗？立即尝试！
 

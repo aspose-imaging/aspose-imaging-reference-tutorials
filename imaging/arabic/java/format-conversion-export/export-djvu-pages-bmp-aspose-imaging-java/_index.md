@@ -197,7 +197,7 @@ for (int i : range.getRange()) {
 - **رخصة الشراء:** [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية:** [ابدأ تجربتك المجانية](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة:** [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **منتدى الدعم:** [دعم Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **منتدى الدعم:** [دعم Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 ابدأ رحلتك لإتقان تحويل المستندات باستخدام Aspose.Imaging Java اليوم!
 

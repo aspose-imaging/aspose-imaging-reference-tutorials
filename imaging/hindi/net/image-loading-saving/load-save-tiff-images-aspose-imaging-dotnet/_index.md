@@ -149,7 +149,7 @@ A3: मेमोरी प्रबंधन को अनुकूलित क
 A4: आम समस्याओं में गलत फ़ाइल पथ, अनुचित कॉन्फ़िगरेशन सेटिंग और असमर्थित छवि प्रारूप शामिल हैं। हमेशा सुनिश्चित करें कि पथ सही हैं और कॉन्फ़िगरेशन आपकी आवश्यकताओं के अनुरूप हैं।
 
 **प्रश्न 5: मैं Aspose.Imaging के बारे में अधिक संसाधन कहां पा सकता हूं?**
-A5: पर जाएँ [Aspose दस्तावेज़ीकरण](https://reference.aspose.com/imaging/net/) व्यापक गाइड और [मंचों](https://forum.aspose.com/c/imaging/10) सामुदायिक समर्थन के लिए.
+A5: पर जाएँ [Aspose दस्तावेज़ीकरण](https://reference.aspose.com/imaging/net/) व्यापक गाइड और [मंचों](https://forum.aspose.com/c/imaging/14) सामुदायिक समर्थन के लिए.
 
 ## संसाधन
 - **दस्तावेज़ीकरण:** [Aspose इमेजिंग .NET संदर्भ](https://reference.aspose.com/imaging/net/)
@@ -157,7 +157,7 @@ A5: पर जाएँ [Aspose दस्तावेज़ीकरण](https:/
 - **खरीदना:** [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [परीक्षण डाउनलोड](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस:** [यहां अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता:** [Aspose फ़ोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता:** [Aspose फ़ोरम](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

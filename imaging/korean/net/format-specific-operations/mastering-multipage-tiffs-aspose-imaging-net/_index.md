@@ -158,7 +158,7 @@ Aspose.Imaging의 다른 기능, 예를 들어 이미지 변환이나 고급 편
 - [구입](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/net/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 종합 가이드는 Aspose.Imaging for .NET을 프로젝트에서 효과적으로 사용하는 데 필요한 지식을 제공합니다. 즐거운 코딩 되세요!
 

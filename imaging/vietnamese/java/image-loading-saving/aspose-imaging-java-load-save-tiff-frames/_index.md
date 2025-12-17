@@ -211,7 +211,7 @@ Trong hướng dẫn này, chúng tôi đã đề cập đến những điều c
 - **Mua**: Mua giấy phép sử dụng thương mại tại [liên kết này](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: Bắt đầu với bản dùng thử miễn phí để kiểm tra các tính năng tại [Trang web của Aspose](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: Xin giấy phép tạm thời để đánh giá mở rộng từ [đây](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: Tham gia thảo luận hoặc tìm kiếm sự trợ giúp trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: Tham gia thảo luận hoặc tìm kiếm sự trợ giúp trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

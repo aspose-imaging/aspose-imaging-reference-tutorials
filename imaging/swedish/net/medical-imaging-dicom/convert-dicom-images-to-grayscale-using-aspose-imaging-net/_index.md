@@ -138,7 +138,7 @@ Utforska ytterligare funktioner i Aspose.Imaging eller integrera andra bildbehan
 2. **Kan jag konvertera bilder till andra format än BMP?**
    - Ja, Aspose.Imaging stöder olika utdataformat som JPEG och PNG.
 3. **Hur felsöker jag problem under bildkonvertering?**
-   - Kontrollera sökvägarna för filer, se till att rätt biblioteksversion används och hänvisa till [Asposes supportforum](https://forum.aspose.com/c/imaging/10).
+   - Kontrollera sökvägarna för filer, se till att rätt biblioteksversion används och hänvisa till [Asposes supportforum](https://forum.aspose.com/c/imaging/14).
 4. **Är Aspose.Imaging lämplig för realtidsapplikationer?**
    - Även om det är robust, överväg prestandaoptimeringar för behov av realtidsbehandling.
 5. **Vilka är några vanliga användningsområden för DICOM-gråskalekonvertering?**
@@ -150,7 +150,7 @@ Utforska ytterligare funktioner i Aspose.Imaging eller integrera andra bildbehan
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

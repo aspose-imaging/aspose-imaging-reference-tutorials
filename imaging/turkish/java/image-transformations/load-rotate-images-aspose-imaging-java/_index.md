@@ -193,7 +193,7 @@ Bu teknikleri bugün projelerinizde uygulamaya çalışın ve Aspose.Imaging for
 - **Satın almak:** Lisansları şu şekilde satın alın: [Aspose Satın Alma Portalı](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** Geçici bir lisansa şu şekilde erişin: [Aspose Ücretsiz Denemeler](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** Bir tane edinin [Aspose Geçici Lisanslar](https://purchase.aspose.com/temporary-license/)
-- **Destek:** Topluluğa katılın ve yardım alın [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek:** Topluluğa katılın ve yardım alın [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzu takip ederek, Aspose.Imaging'i Java projelerinize etkili bir şekilde entegre edebilir ve görüntü yükleme ve döndürme işlemlerini kolaylıkla halledebilirsiniz. İyi kodlamalar!
 

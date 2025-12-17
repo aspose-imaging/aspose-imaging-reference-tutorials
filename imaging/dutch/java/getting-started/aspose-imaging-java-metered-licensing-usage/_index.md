@@ -200,7 +200,7 @@ De volgende stappen zijn het verkennen van aanvullende functionaliteiten van de 
    - Gebruik de `Metered.getConsumptionQuantity()` Methode voor en na het verwerken van afbeeldingen om het gebruik bij te houden.
 
 5. **Is er ondersteuning beschikbaar als ik problemen ondervind?**
-   - Bezoek [Aspose Forum](https://forum.aspose.com/c/imaging/10) voor hulp van experts uit de gemeenschap.
+   - Bezoek [Aspose Forum](https://forum.aspose.com/c/imaging/14) voor hulp van experts uit de gemeenschap.
 
 ## Bronnen
 

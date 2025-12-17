@@ -233,7 +233,7 @@ Gotowy do wdrożenia tych rozwiązań? Spróbuj zoptymalizować ustawienia pami�
 - [Zakup](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Dzięki temu przewodnikowi będziesz dobrze wyposażony, aby skutecznie optymalizować Aspose.Imaging Cache w Javie. Miłego kodowania!
 

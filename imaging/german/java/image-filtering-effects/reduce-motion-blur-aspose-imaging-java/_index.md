@@ -237,7 +237,7 @@ Weitere Informationen und Unterstützung finden Sie in den folgenden Ressourcen:
 - **Dokumentation:** [Aspose.Imaging für Java-Dokumentation](https://reference.aspose.com/imaging/java/)
 - **Herunterladen:** [Aspose.Imaging für Java-Releases](https://releases.aspose.com/imaging/java/)
 - **Kauf & kostenlose Testversion:** [Kaufen oder testen Sie Aspose.Imaging für Java](https://purchase.aspose.com/buy)
-- **Support-Forum:** [Aspose Support-Community](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum:** [Aspose Support-Community](https://forum.aspose.com/c/imaging/14)
 
 Dieser umfassende Leitfaden vermittelt Ihnen das Wissen, wie Sie Bewegungsunschärfe in Ihren Bildern mit Aspose.Imaging für Java effektiv reduzieren können. Viel Spaß beim Programmieren!
 

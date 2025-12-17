@@ -197,7 +197,7 @@ Ebben az oktatóanyagban azt vizsgáltuk meg, hogyan használható az Aspose.Ima
    - Abszolút! A CDR-en és a PSD-n túl számos képformátumot támogat.
 
 5. **Hogyan oldhatom meg a képek betöltésével vagy mentésével kapcsolatos problémákat?**
-   - Ellenőrizze a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10) gyakori megoldásokért, és győződjön meg arról, hogy a könyvtár verziója naprakész.
+   - Ellenőrizze a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14) gyakori megoldásokért, és győződjön meg arról, hogy a könyvtár verziója naprakész.
 
 ## Erőforrás
 
@@ -206,7 +206,7 @@ Ebben az oktatóanyagban azt vizsgáltuk meg, hogyan használható az Aspose.Ima
 - **Vásárlás:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Ingyenes licenc beszerzése](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezt az útmutatót követve felkészült leszel a CDR képbetöltési és -konvertálási feladatok kezelésére Java alkalmazásaidban az Aspose.Imaging használatával. Jó kódolást!
 

@@ -171,7 +171,7 @@ image.save(outDir + "/TiffOptionsConfiguration_out.tiff", options); // 使用配
 - **購買**： [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用**： [開始免費試用](https://releases.aspose.com/imaging/java/)
 - **臨時執照**： [申請臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援**： [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- **支援**： [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 本教學將幫助您在 Java 應用程式中有效地實現 TIFF 影像處理。祝您程式愉快！
 

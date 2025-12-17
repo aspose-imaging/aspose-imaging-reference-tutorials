@@ -198,7 +198,7 @@ O: Sprawdź konfigurację narzędzia budowania, upewnij się, że odwołujesz si
 - **Zakup:** [Buy Aspose.Imaging for Java](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna:** Rozpocznij próbę na [stronie Aspose](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa:** Złóż wniosek o licencję tymczasową poprzez [Aspose Purchase](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie:** Dołącz do dyskusji na [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie:** Dołącz do dyskusji na [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij rysowanie krzywych już dziś i podnieś poziom swoich projektów Java dzięki Aspose.Imaging!
 

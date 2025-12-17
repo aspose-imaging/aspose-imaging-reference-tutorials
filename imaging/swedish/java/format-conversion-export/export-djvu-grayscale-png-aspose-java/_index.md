@@ -194,7 +194,7 @@ A5: Absolut! Implementera loopar eller parallella bearbetningstekniker för att 
 - **Köpa**: https://purchase.aspose.com/buy
 - **Gratis provperiod**: https://releases.aspose.com/imaging/java/
 - **Tillfällig licens**https://purchase.aspose.com/temporary-license/
-- **Stöd**: https://forum.aspose.com/c/imaging/10
+- **Stöd**: https://forum.aspose.com/c/imaging/14
 
 Utforska dessa resurser för att fördjupa din förståelse och behärskning av Aspose.Imaging för Java. Lycka till med kodningen!
 

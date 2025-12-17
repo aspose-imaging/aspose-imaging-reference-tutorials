@@ -142,7 +142,7 @@ using Aspose.Imaging.FileFormats.Emf;
 - **购买许可证：** [Aspose 购买选项](https://purchase.aspose.com/buy)
 - **免费试用：** [获取免费评估版](https://releases.aspose.com/imaging/net/)
 - **临时执照：** [申请临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持论坛：** [Aspose.Imaging 支持社区](https://forum.aspose.com/c/imaging/10)
+- **支持论坛：** [Aspose.Imaging 支持社区](https://forum.aspose.com/c/imaging/14)
 
 探索这些资源，加深您的理解，并增强使用 Aspose.Imaging for .NET 的实现。祝您编程愉快！
 

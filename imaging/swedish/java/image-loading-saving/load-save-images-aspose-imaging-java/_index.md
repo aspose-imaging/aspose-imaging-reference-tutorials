@@ -195,7 +195,7 @@ Nästa steg kan innefatta att utforska mer avancerade funktioner i Aspose.Imagin
 - **Köplicens:** Läs mer om köpalternativ på [Aspose-köp](https://purchase.aspose.com/buy).
 - **Gratis provperiod:** Börja med en testperiod för att testa funktionerna.
 - **Tillfällig licens:** Få tillfällig åtkomst för utökad testning.
-- **Supportforum:** Få hjälp och dela insikter om [Aspose Supportforum](https://forum.aspose.com/c/imaging/10).
+- **Supportforum:** Få hjälp och dela insikter om [Aspose Supportforum](https://forum.aspose.com/c/imaging/14).
 
 Genom att följa den här handledningen har du utrustat dig med värdefulla färdigheter inom bildbehandling med Aspose.Imaging för Java. Lycka till med kodningen!
 

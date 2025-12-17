@@ -179,7 +179,7 @@ A3: Anda dapat memulai dengan lisensi uji coba gratis yang memungkinkan Anda men
 A4: Gunakan pemrosesan batch dan teknik manajemen sumber daya yang efisien seperti membuang gambar setelah digunakan. Pertimbangkan juga untuk mengoptimalkan resolusi sebelum konversi jika memungkinkan.
 
 **Q5: Di mana saya dapat menemukan dukungan jika saya mengalami masalah dengan Aspose.Imaging?**
-A5: Untuk pertanyaan atau pemecahan masalah, kunjungi [Forum dukungan Aspose](https://forum.aspose.com/c/imaging/10) di mana Anda dapat menemukan bantuan dari komunitas dan perwakilan resmi.
+A5: Untuk pertanyaan atau pemecahan masalah, kunjungi [Forum dukungan Aspose](https://forum.aspose.com/c/imaging/14) di mana Anda dapat menemukan bantuan dari komunitas dan perwakilan resmi.
 
 ## Sumber daya
 

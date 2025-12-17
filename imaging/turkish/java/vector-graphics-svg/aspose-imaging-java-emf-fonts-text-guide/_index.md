@@ -244,7 +244,7 @@ Bu eğitim, EMF yazı tipleri ve metinleri oluşturmak için Java için Aspose.I
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose.Görüntüleme Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose.Görüntüleme Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Java için Aspose.Imaging'i kullanarak, uygulamalarınıza yüksek kaliteli EMF yazı tipi ve metin oluşturmayı sorunsuz bir şekilde entegre edebilir, hem işlevselliği hem de görsel çekiciliği artırabilirsiniz.
 

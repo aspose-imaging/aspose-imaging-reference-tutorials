@@ -191,7 +191,7 @@ Som nästa steg, överväg att utforska andra ritfunktioner som tillhandahålls 
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Genom att använda Aspose.Imaging kan du förbättra dina Java-applikationer med robusta bildmanipuleringsfunktioner. Lycka till med kodningen!
 

@@ -233,7 +233,7 @@ Pronto para implementar essas soluções? Experimente otimizar suas configuraç�
 - [Comprar](https://purchase.aspose.com/buy)
 - [Teste grátis](https://releases.aspose.com/imaging/java/)
 - [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte](https://forum.aspose.com/c/imaging/14)
 
 Com este guia, você estará bem equipado para otimizar o cache do Aspose.Imaging em Java com eficiência. Boa programação!
 

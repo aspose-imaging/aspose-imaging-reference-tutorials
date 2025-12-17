@@ -136,7 +136,7 @@ JPEG 画像を CMYK 形式に変換することは、印刷メディアにとっ
 - **ライセンスを購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imagingを無料でお試しください](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [Aspose.Imaging サポート](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [Aspose.Imaging サポート](https://forum.aspose.com/c/imaging/14)
 このガイドが、Aspose.Imaging for .NET を使った画像処理の習得に役立つことを願っています。コーディングを楽しみましょう！
 
 {{< /blocks/products/pf/tutorial-page-section >}}

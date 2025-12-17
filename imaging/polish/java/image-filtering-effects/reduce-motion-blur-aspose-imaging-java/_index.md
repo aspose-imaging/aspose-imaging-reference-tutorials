@@ -237,7 +237,7 @@ Dalsze informacje i pomoc można znaleźć w następujących zasobach:
 - **Dokumentacja:** [Dokumentacja Aspose.Imaging dla języka Java](https://reference.aspose.com/imaging/java/)
 - **Pobierać:** [Wydania Aspose.Imaging dla Java](https://releases.aspose.com/imaging/java/)
 - **Zakup i bezpłatna wersja próbna:** [Kup lub wypróbuj Aspose.Imaging dla Java](https://purchase.aspose.com/buy)
-- **Forum wsparcia:** [Społeczność wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia:** [Społeczność wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ten kompleksowy przewodnik powinien wyposażyć Cię w wiedzę, aby skutecznie redukować rozmycie ruchu w obrazach za pomocą Aspose.Imaging dla Java. Miłego kodowania!
 

@@ -197,7 +197,7 @@ Az útmutató követésével megtanultad, hogyan használhatod az Aspose.Imaging
 - **Licenc vásárlása:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Indítsa el az ingyenes próbaverziót](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum:** [Aspose.Imaging támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum:** [Aspose.Imaging támogatás](https://forum.aspose.com/c/imaging/14)
 
 Kezdje el az Aspose.Imaging Java segítségével a dokumentumkonvertálás elsajátításának útját még ma!
 

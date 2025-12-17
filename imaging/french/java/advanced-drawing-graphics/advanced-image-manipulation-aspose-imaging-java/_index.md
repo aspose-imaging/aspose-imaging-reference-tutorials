@@ -257,7 +257,7 @@ A5 : Assurez-vous que le format de sortie prend en charge la transparence (par 
 - **Achat**: [Page d'achat d'Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Essayez Aspose.Imaging gratuitement](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**: [Demande de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance**: [Communauté de soutien Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance**: [Communauté de soutien Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bon codage !
 

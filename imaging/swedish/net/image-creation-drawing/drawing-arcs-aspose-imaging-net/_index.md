@@ -181,7 +181,7 @@ När du blir mer bekväm med Aspose.Imaging kan du överväga att utforska andra
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Vi hoppas att den här guiden hjälper dig på din resa med Aspose.Imaging för .NET. Lycka till med kodningen!
 

@@ -156,7 +156,7 @@ A: Użyj bloków try-catch, aby sprawnie zarządzać wyjątkami i zachować stab
 - **Zakup**: [Kup Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Zacznij za darmo](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa**: [Uzyskaj licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Fora Aspose](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Fora Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

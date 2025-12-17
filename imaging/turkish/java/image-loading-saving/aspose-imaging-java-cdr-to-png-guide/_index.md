@@ -189,7 +189,7 @@ A3: Ayarla `CdrRasterizationOptions` Sonuçları ince ayarlamak için çözünü
 A4: Ticari uygulamalar için satın alınmış bir lisans gereklidir. Ücretsiz denemeyle başlayabilir veya geçici bir lisans için başvurabilirsiniz.
 
 **S5: Sorunla karşılaşırsam nereden destek alabilirim?**
-A5: Ziyaret edin [Aspose destek forumu](https://forum.aspose.com/c/imaging/10) yardım ve topluluk tartışmaları için.
+A5: Ziyaret edin [Aspose destek forumu](https://forum.aspose.com/c/imaging/14) yardım ve topluluk tartışmaları için.
 
 ## Kaynaklar
 
@@ -197,7 +197,7 @@ A5: Ziyaret edin [Aspose destek forumu](https://forum.aspose.com/c/imaging/10) y
 - **Kütüphaneyi İndirin:** En son sürümü şu adresten edinin: [Aspose.Görüntüleme Sürümleri](https://releases.aspose.com/imaging/java/)
 - **Lisans Satın Al:** Ziyaret etmek [Aspose Satın Alma Sitesi](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme & Geçici Lisans:** Yolculuğunuza şuradan başlayın: [Aspose Ücretsiz Deneme](https://releases.aspose.com/imaging/java/) Ve [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu:** Yardım için toplulukla iletişime geçin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu:** Yardım için toplulukla iletişime geçin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging Java yolculuğunuza bugün başlayın ve dijital görüntüleme projelerinizi hayata geçirin!
 

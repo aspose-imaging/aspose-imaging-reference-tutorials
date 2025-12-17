@@ -154,7 +154,7 @@ Bạn đã sẵn sàng nâng cao kỹ năng xử lý hình ảnh DICOM chưa? H�
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn toàn diện này cung cấp cho bạn mọi thứ cần thiết để áp dụng ngưỡng dithering cho hình ảnh DICOM bằng Aspose.Imaging cho .NET, nâng cao khả năng xử lý hình ảnh của bạn.
 

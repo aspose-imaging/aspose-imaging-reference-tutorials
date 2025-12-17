@@ -172,7 +172,7 @@ Jste připraveni se ponořit hlouběji? Prozkoumejte níže uvedené zdroje nebo
 - [Zakoupit licence](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/net/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu jste nyní vybaveni k efektivnímu převodu souborů WMF do PDF pomocí Aspose.Imaging pro .NET. Přejeme vám příjemné programování!
 

@@ -138,7 +138,7 @@ Entdecken Sie zusätzliche Funktionen von Aspose.Imaging oder integrieren Sie an
 2. **Kann ich Bilder in andere Formate als BMP konvertieren?**
    - Ja, Aspose.Imaging unterstützt verschiedene Ausgabeformate wie JPEG und PNG.
 3. **Wie behebe ich Probleme während der Bildkonvertierung?**
-   - Überprüfen Sie die Dateipfade, stellen Sie sicher, dass die richtige Bibliotheksversion verwendet wird, und beachten Sie [Asposes Support-Forum](https://forum.aspose.com/c/imaging/10).
+   - Überprüfen Sie die Dateipfade, stellen Sie sicher, dass die richtige Bibliotheksversion verwendet wird, und beachten Sie [Asposes Support-Forum](https://forum.aspose.com/c/imaging/14).
 4. **Ist Aspose.Imaging für Echtzeitanwendungen geeignet?**
    - Obwohl robust, sollten Sie Leistungsoptimierungen für Echtzeitverarbeitungsanforderungen in Betracht ziehen.
 5. **Was sind einige gängige Anwendungsfälle für die DICOM-Graustufenkonvertierung?**
@@ -150,7 +150,7 @@ Entdecken Sie zusätzliche Funktionen von Aspose.Imaging oder integrieren Sie an
 - [Erwerben Sie eine Lizenz](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/net/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

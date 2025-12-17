@@ -226,7 +226,7 @@ Seguindo este guia, você aprendeu a utilizar o Aspose.Imaging para Java para co
 - [Comprar uma licença](https://purchase.aspose.com/buy)
 - [Teste grátis](https://releases.aspose.com/imaging/java/)
 - [Pedido de Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Este guia completo deve fornecer a você o conhecimento necessário para começar a converter arquivos EMF para PDFs usando o Aspose.Imaging para Java com eficiência. Boa programação!
 

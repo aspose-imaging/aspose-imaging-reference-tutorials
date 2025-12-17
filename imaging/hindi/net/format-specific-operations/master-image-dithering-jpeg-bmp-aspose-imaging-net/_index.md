@@ -150,7 +150,7 @@ A5: विस्तृत दस्तावेज यहां पाया ज
 - **खरीद लाइसेंस**: [अभी खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [शुरू हो जाओ](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस**: [यहां आवेदन करें](https://purchase.aspose.com/temporary-license/)
-- **सहयता मंच**: [Aspose.Imaging समर्थन](https://forum.aspose.com/c/imaging/10)
+- **सहयता मंच**: [Aspose.Imaging समर्थन](https://forum.aspose.com/c/imaging/14)
 
 कोडिंग का आनंद लें, और अपनी छवि प्रसंस्करण आवश्यकताओं को साकार करने के लिए Aspose.Imaging के साथ प्रयोग का आनंद लें!
 

@@ -177,7 +177,7 @@ A：優化參數，大量處理圖片，以獲得更好的效能。
 - **購買：** [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用：** [Aspose 免費試用](https://releases.aspose.com/imaging/java/)
 - **臨時執照：** [申請臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 本綜合指南將協助您有效地應用運動維納濾波器，並透過 Aspose.Imaging 增強基於 Java 的影像處理專案。
 

@@ -179,7 +179,7 @@ try (FileInputStream fis = new FileInputStream(inputFile)) {
 - **Άδεια Αγοράς:** [Αγοράστε τώρα](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Ξεκινήστε τη δωρεάν δοκιμή σας](https://releases.aspose.com/imaging/java/)
 - **Αίτηση Προσωρινής Άδειας:** [Αίτημα εδώ](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ υποστήριξης:** [Κοινότητα Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ υποστήριξης:** [Κοινότητα Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, είστε πλήρως εξοπλισμένοι για να χειρίζεστε εργασίες επεξεργασίας εικόνας DICOM στις εφαρμογές Java σας χρησιμοποιώντας το Aspose.Imaging. Καλή κωδικοποίηση!
 

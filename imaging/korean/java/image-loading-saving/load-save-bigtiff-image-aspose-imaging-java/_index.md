@@ -190,7 +190,7 @@ Aspose.Imaging의 고급 이미지 처리 기술이나 형식 변환 등의 추�
 - [Java용 Aspose.Imaging 다운로드](https://releases.aspose.com/imaging/java/)
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험판 및 임시 라이센스](https://releases.aspose.com/imaging/java/), [임시 면허 페이지](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이러한 리소스를 탐색하여 Aspose.Imaging for Java에 대한 이해를 심화하고 BigTIFF 이미지 처리 요구 사항을 처리할 수 있는 역량을 갖추세요.
 

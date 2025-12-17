@@ -128,7 +128,7 @@ A1：是的，您可以通过遍历目录并将转换逻辑应用于每个文件
 A2：目前有试用版，但如需商业使用，则需要获取许可证。请访问 [购买](https://purchase.aspose.com/buy) 了解更多详情。
 
 **问题 3：如何解决转换错误？**
-A3：检查文件路径并确保 Aspose.Imaging 已正确安装。请咨询 [支持论坛](https://forum.aspose.com/c/imaging/10) 如果问题仍然存在。
+A3：检查文件路径并确保 Aspose.Imaging 已正确安装。请咨询 [支持论坛](https://forum.aspose.com/c/imaging/14) 如果问题仍然存在。
 
 **Q4：转换过程中我可以修改PDF文档属性吗？**
 A4：是的，您可以使用设置各种文档信息属性，如标题、作者或关键字 `PdfDocumentInfo`。
@@ -142,7 +142,7 @@ A5：其他库包括 ImageMagick 和 Ghostscript，但与 Aspose.Imaging 的简�
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/net/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10)
+- [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 希望本指南对您有所帮助。现在，不妨尝试使用 Aspose.Imaging for .NET 将 BMP 文件转换为 PDF。
 

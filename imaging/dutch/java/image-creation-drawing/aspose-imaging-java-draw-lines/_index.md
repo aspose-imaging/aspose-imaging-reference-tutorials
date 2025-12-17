@@ -234,7 +234,7 @@ In deze tutorial hebben we besproken hoe je bitmapopties configureert en lijnen 
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Door gebruik te maken van deze bronnen kunt u uw begrip en gebruik van Aspose.Imaging voor Java in uw projecten verbeteren. Veel plezier met coderen!
 

@@ -234,7 +234,7 @@ private static void deleteFile(String filePath) {
 - **购买：** [购买 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免费试用：** [尝试 Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **临时执照：** [获得临时许可证](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose.Imaging 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose.Imaging 论坛](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

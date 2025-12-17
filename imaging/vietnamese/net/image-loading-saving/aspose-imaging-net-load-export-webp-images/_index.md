@@ -129,7 +129,7 @@ Bây giờ bạn đã thành thạo việc tải hình ảnh và xuất sang Web
 ### Các bước tiếp theo
 - Thử nghiệm với các tùy chọn xuất khác nhau như điều chỉnh mức chất lượng.
 - Khám phá cách tích hợp Aspose.Imaging vào các dự án hoặc quy trình làm việc lớn hơn.
-- Tham gia với cộng đồng trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10) để được hỗ trợ và đưa ra ý tưởng.
+- Tham gia với cộng đồng trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14) để được hỗ trợ và đưa ra ý tưởng.
 
 ## Phần Câu hỏi thường gặp
 
@@ -154,7 +154,7 @@ Hãy cân nhắc các định dạng như JPEG 2000 hoặc AVIF nếu cần kh�
 - **Mua:** [Mua giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bắt đầu tại đây](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời:** [Yêu cầu một](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ:** [Hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** [Hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bắt đầu hành trình xử lý hình ảnh của bạn một cách tự tin bằng cách sử dụng Aspose.Imaging .NET và khám phá những khả năng vô tận trong hình ảnh kỹ thuật số.
 

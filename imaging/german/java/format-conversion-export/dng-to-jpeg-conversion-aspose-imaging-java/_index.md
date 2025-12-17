@@ -183,7 +183,7 @@ Bereit zum Ausprobieren? Setzen Sie diese Schritte in Ihrem nächsten Projekt um
    Ja, die `JpegOptions` Die Klasse bietet Methoden zum Konfigurieren der Ausgabequalität und anderer Parameter.
 
 5. **Wo erhalte ich Unterstützung, wenn Probleme auftreten?**
-   Besuchen Sie die [Aspose.Imaging-Forum](https://forum.aspose.com/c/imaging/10) für Community-Support oder kontaktieren Sie Aspose direkt über deren Supportkanäle.
+   Besuchen Sie die [Aspose.Imaging-Forum](https://forum.aspose.com/c/imaging/14) für Community-Support oder kontaktieren Sie Aspose direkt über deren Supportkanäle.
 
 ## Ressourcen
 

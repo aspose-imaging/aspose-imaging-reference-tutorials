@@ -160,7 +160,7 @@ Du har nu utforskat hur du kan använda Aspose.Imaging för .NET för att ställ
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Vi hoppas att den här handledningen har gett dig värdefulla insikter i hur du effektivt kan använda Aspose.Imaging för .NET. Lycka till med kodningen!
 

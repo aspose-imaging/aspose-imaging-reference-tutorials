@@ -149,7 +149,7 @@ C3: İstisnaları zarif bir şekilde ele almak için resim yükleme kodunuzun et
 C4: Evet, Aspose.Imaging'in kapsamlı API'siyle EXIF etiketlerini hem okuyabilir hem de yazabilirsiniz.
 
 **S5: Sorunla karşılaşırsam nereden destek alabilirim?**
-A5: Ziyaret edin [Aspose.Görüntüleme forumu](https://forum.aspose.com/c/imaging/10) Topluluk ve resmi destek için.
+A5: Ziyaret edin [Aspose.Görüntüleme forumu](https://forum.aspose.com/c/imaging/14) Topluluk ve resmi destek için.
 
 ## Kaynaklar
 

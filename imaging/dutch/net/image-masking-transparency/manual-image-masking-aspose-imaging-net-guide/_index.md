@@ -169,7 +169,7 @@ Als u de mogelijkheden van Aspose.Imaging verder wilt verkennen, kunt u de docum
 4. **Wat zijn enkele veelvoorkomende problemen bij het maskeren van afbeeldingen?**
    - Veelvoorkomende problemen zijn onder meer onjuiste paddefinities, onverwerkte uitzonderingen en prestatieknelpunten als gevolg van grote afbeeldingsformaten.
 5. **Waar kan ik ondersteuning vinden als ik nog vragen heb?**
-   - Bezoek de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10) voor hulp van experts uit de gemeenschap en Aspose-personeel.
+   - Bezoek de [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14) voor hulp van experts uit de gemeenschap en Aspose-personeel.
 
 ## Bronnen
 - **Documentatie**: [Aspose.Imaging .NET-documentatie](https://reference.aspose.com/imaging/net/)

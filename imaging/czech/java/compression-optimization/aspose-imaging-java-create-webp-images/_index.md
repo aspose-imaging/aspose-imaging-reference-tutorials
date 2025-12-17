@@ -171,7 +171,7 @@ Prozkoumejte [Dokumentace Aspose](https://reference.aspose.com/imaging/java/) a 
 - **Dokumentace:** [Referenční příručka k Aspose.Imaging pro Javu](https://reference.aspose.com/imaging/java/)
 - **Stáhnout:** [Nejnovější vydání](https://releases.aspose.com/imaging/java/)
 - **Nákup a zkušební verze:** Prozkoumejte možnosti licencování na [Nákup Aspose](https://purchase.aspose.com/buy)
-- **Podpora:** Zapojte se do komunitních diskusí na [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** Zapojte se do komunitních diskusí na [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Vyzkoušejte tyto kroky ve svém dalším projektu a uvidíte, jak vám Aspose.Imaging v Javě může zefektivnit a vylepšit pracovní postupy zpracování obrazu!
 

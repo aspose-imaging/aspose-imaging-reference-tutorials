@@ -154,7 +154,7 @@ The `BmpOptions` class используется здесь для указани
 - **Покупка**: [Купить продукцию Aspose](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Попробуйте бесплатно](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия**: [Запросить здесь](https://purchase.aspose.com/temporary-license/)
-- **Форум поддержки**: [Поддержка сообщества Aspose](https://forum.aspose.com/c/imaging/10)
+- **Форум поддержки**: [Поддержка сообщества Aspose](https://forum.aspose.com/c/imaging/14)
 
 Отправьтесь в путешествие с Aspose.Imaging Java и откройте для себя огромный потенциал обработки изображений в Java!
 

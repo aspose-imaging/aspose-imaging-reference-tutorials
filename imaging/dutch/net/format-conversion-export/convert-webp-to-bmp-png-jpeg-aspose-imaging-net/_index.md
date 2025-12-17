@@ -173,7 +173,7 @@ Klaar om het uit te proberen? Implementeer deze oplossingen en ontdek hoe ze de 
 - **Koop een licentie**: [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Begin met een gratis evaluatie](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Vraag hier een aanvraag aan](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum**: [Doe mee aan de discussie](https://forum.aspose.com/c/imaging/10)
+- **Ondersteuningsforum**: [Doe mee aan de discussie](https://forum.aspose.com/c/imaging/14)
 
 Duik in deze bronnen om uw kennis en vaardigheden op het gebied van beeldconversie met Aspose.Imaging .NET te vergroten.
 

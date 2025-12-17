@@ -131,7 +131,7 @@ A: Ujistěte se, že máte nainstalovaný .NET Framework nebo .NET Core a dostat
 A: Ano, po získání příslušné licence od společnosti Aspose.
 
 **Otázka: Je k dispozici podpora, pokud narazím na problémy?**
-A: Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10) pro pomoc nebo nahlédněte do dokumentace.
+A: Navštivte [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14) pro pomoc nebo nahlédněte do dokumentace.
 
 ## Zdroje
 - **Dokumentace:** [Dokumentace k Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)

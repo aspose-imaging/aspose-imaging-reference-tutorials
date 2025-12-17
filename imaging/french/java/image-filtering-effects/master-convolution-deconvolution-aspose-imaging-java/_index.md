@@ -195,7 +195,7 @@ R : La bibliothèque est robuste, mais peut présenter des contraintes de perfo
 - **Achat**: [Acheter Aspose Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencez par un essai gratuit](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**: [Demandez ici](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance**: [Poser des questions](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance**: [Poser des questions](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce guide, vous serez sur la bonne voie pour maîtriser les puissantes capacités de traitement d'images offertes par Aspose.Imaging pour Java. Bon codage !
 

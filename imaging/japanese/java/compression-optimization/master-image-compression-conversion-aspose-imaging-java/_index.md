@@ -182,7 +182,7 @@ A5: 無料トライアルはご利用いただけますが、一部の高度な�
 - **購入**： [Aspose.Imagingライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料トライアルを始める](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを自由に調べて、Aspose.Imaging for Java を使用して自信を持って画像処理プロジェクトの実装を開始してください。
 

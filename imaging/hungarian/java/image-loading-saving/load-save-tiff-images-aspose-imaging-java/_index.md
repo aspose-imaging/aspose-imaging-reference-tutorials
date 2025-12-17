@@ -171,7 +171,7 @@ Ebben az oktatóanyagban azt vizsgáltuk meg, hogyan lehet hatékonyan betölten
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Ingyenes próbaverzió indítása](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ez az oktatóanyag felvértezi Önt azzal a tudással, amellyel hatékonyan megvalósíthatja a TIFF képfeldolgozást Java alkalmazásaiban. Jó kódolást!
 

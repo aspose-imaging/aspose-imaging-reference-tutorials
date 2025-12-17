@@ -160,7 +160,7 @@ In dieser Anleitung haben Sie gelernt, wie Sie WebP-Bilder mit Aspose.Imaging f�
 - [Erwerben Sie eine Lizenz](https://purchase.aspose.com/buy)
 - [Kostenloser Testzugang](https://releases.aspose.com/imaging/net/)
 - [Antrag auf eine vorübergehende Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit diesem umfassenden Leitfaden sind Sie nun bestens gerüstet, Aspose.Imaging für .NET in Ihren Projekten zu nutzen. Viel Spaß beim Programmieren!
 

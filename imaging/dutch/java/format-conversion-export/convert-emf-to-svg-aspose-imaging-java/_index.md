@@ -171,7 +171,7 @@ A5: Controleer de bestandspaden, zorg dat de bibliotheekversies correct zijn en 
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Start een gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Een tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Met deze handleiding kunt u EMF-afbeeldingen efficiënt naar SVG's converteren met Aspose.Imaging voor Java. Veel plezier met coderen!
 

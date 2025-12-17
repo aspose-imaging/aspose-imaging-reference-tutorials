@@ -228,7 +228,7 @@ A3: Consulte los términos de licencia para conocer los límites de uso; de lo c
 
 **P4: ¿Qué pasa si encuentro errores durante el proceso de animación?**
 
-A4: Verifique las rutas de los archivos y asegúrese de que todas las dependencias estén configuradas correctamente. Consulte [Soporte de Aspose](https://forum.aspose.com/c/imaging/10) Si los problemas persisten.
+A4: Verifique las rutas de los archivos y asegúrese de que todas las dependencias estén configuradas correctamente. Consulte [Soporte de Aspose](https://forum.aspose.com/c/imaging/14) Si los problemas persisten.
 
 **P5: ¿Cómo puedo modificar las propiedades del marco para obtener efectos únicos?**
 
@@ -241,7 +241,7 @@ A5: Experimente con ajustes de gamma, combinación alfa u otras transformaciones
 - **Compra**: [Comprar una licencia](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Pruebe Aspose.Imaging gratis](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal**: [Obtenga una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Con esta guía completa, estarás bien preparado para empezar a crear PNG animados en Java con Aspose.Imaging. ¡Que disfrutes programando!
 

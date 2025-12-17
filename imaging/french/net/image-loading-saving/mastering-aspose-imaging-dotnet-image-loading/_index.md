@@ -150,7 +150,7 @@ R : Oui, il est conçu pour traiter des images de différentes tailles avec des 
 R : Vous pouvez commencer avec un essai gratuit ou une licence temporaire pour évaluer ses fonctionnalités avant de décider de l'acheter.
 
 **Q : Comment résoudre les problèmes courants liés au chargement d’images dans Aspose.Imaging ?**
-A : Vérifiez les chemins d'accès aux fichiers, vérifiez les versions des bibliothèques et consultez les [forum d'assistance](https://forum.aspose.com/c/imaging/10) pour obtenir de l'aide.
+A : Vérifiez les chemins d'accès aux fichiers, vérifiez les versions des bibliothèques et consultez les [forum d'assistance](https://forum.aspose.com/c/imaging/14) pour obtenir de l'aide.
 
 ## Ressources
 - **Documentation**: [Référence Aspose.Imaging .NET](https://reference.aspose.com/imaging/net/)
@@ -158,7 +158,7 @@ A : Vérifiez les chemins d'accès aux fichiers, vérifiez les versions des bibl
 - **Informations sur l'achat et la licence**: [Page d'achat d'Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencez votre essai gratuit](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

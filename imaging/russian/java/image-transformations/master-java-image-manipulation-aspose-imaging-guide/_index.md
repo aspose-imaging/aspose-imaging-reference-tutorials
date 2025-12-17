@@ -213,7 +213,7 @@ A5: Aspose.Imaging совместим с большинством фреймво
 - **Скачать**: Получите последнюю версию от [Релизы Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Покупка**: Получите лицензию по адресу [Страница покупки Aspose](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: Протестируйте функции с временной лицензией, доступной на [Бесплатная пробная версия Aspose](https://releases.aspose.com/imaging/java/)
-- **Поддерживать**: Присоединяйтесь к обсуждению в [Форум Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: Присоединяйтесь к обсуждению в [Форум Aspose](https://forum.aspose.com/c/imaging/14)
 
 Начните экспериментировать и откройте новые творческие возможности с Aspose.Imaging для Java уже сегодня!
 

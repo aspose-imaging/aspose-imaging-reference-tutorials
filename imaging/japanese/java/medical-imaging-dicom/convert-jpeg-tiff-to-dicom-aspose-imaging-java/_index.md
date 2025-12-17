@@ -171,7 +171,7 @@ Aspose.Imaging for Java を使って、JPEG および TIFF 画像を DICOM 形�
 - **購入**： [Aspose Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料お試し](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このチュートリアルに従うことで、Aspose.Imaging for Java を使用して医用画像処理プロジェクトで画像変換タスクを処理できるようになります。
 

@@ -174,7 +174,7 @@ Artık Aspose.Imaging for Java kullanarak görüntüleri nasıl yükleyeceğiniz
 - [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Daha detaylı bilgi ve destek için bu kaynakları keşfetmekten çekinmeyin. İyi kodlamalar!
 

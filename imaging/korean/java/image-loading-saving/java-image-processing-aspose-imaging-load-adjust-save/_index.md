@@ -215,7 +215,7 @@ rasterImage.save(outputDir, tiffOptions);
 - **구입**: [Aspose 제품 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [여기서 시작하세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging과 함께 Java 이미지 처리 여정을 시작하고 디지털 이미지 조작의 새로운 가능성을 열어보세요!
 

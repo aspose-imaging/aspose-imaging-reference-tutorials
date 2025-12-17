@@ -184,7 +184,7 @@ Aspose.Imaging, JPEG, PNG, GIF, BMP, TIFF ve daha fazlası dahil olmak üzere ç
 
 **5. Sorunla karşılaşırsam nasıl destek alabilirim?**
 
-Ziyaret etmek [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10) Topluluktan ve Aspose uzmanlarından yardım için.
+Ziyaret etmek [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14) Topluluktan ve Aspose uzmanlarından yardım için.
 
 ## Kaynaklar
 

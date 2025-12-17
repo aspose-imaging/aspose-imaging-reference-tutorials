@@ -158,7 +158,7 @@ using (Image image = Image.Create(images.ToArray(), true))
 - [Αγορά](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/net/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/14)
 
 Αυτός ο ολοκληρωμένος οδηγός θα σας εξοπλίσει με τις γνώσεις για να χρησιμοποιήσετε αποτελεσματικά το Aspose.Imaging για .NET στα έργα σας. Καλή κωδικοποίηση!
 

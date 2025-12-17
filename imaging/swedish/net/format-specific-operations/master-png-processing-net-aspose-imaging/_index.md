@@ -201,7 +201,7 @@ Genom att bemästra dessa tekniker kan du använda Aspose.Imaging för .NET för
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/net/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Utforska gärna dessa resurser och kontakta support om du har några frågor. Lycka till med kodningen!
 

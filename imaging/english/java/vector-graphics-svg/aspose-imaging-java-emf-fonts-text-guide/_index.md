@@ -251,7 +251,7 @@ This tutorial covered how to set up and use Aspose.Imaging for Java to create EM
 - **Purchase**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Free Trial**: [Aspose.Imaging Free Trial](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose.Imaging Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose.Imaging Support Forum](https://forum.aspose.com/c/imaging/14)
 
 By utilizing Aspose.Imaging for Java, you can seamlessly integrate high-quality EMF font and text rendering into your applications, enhancing both functionality and visual appeal.
 

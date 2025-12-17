@@ -184,7 +184,7 @@ Dê o salto e comece a implementar essas técnicas no seu próximo projeto!
 - **Licença de compra**: [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Comece seu teste gratuito](https://releases.aspose.com/imaging/java/)
 - **Licença Temporária**: [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ao implementar essas etapas e utilizar os recursos fornecidos, você estará bem equipado para lidar com a compactação de imagens BMP com o Aspose.Imaging para Java. Boa programação!
 

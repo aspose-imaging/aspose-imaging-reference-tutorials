@@ -156,7 +156,7 @@ Sind Sie bereit, atemberaubende BMP-Bilder zu erstellen? Implementieren Sie dies
 - **Kaufen:** [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Testversion](https://releases.aspose.com/imaging/net/)
 - **Temporäre Lizenz:** [Hier anfordern](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum:** [Aspose Community-Unterstützung](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum:** [Aspose Community-Unterstützung](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

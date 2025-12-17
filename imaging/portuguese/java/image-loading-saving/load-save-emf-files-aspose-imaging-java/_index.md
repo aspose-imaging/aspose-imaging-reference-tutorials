@@ -196,7 +196,7 @@ Sempre use blocos try-catch para lidar com possíveis IOExceptions ou outras exc
 - **Comprar**: Para obter uma licença completa, visite [Compre Aspose.Imaging](https://purchase.aspose.com/buy).
 - **Teste grátis**: Comece com um teste em [Downloads gratuitos do Aspose.Imaging](https://releases.aspose.com/imaging/java/).
 - **Licença Temporária**: Obtenha uma licença temporária de [Página de licenciamento Aspose](https://purchase.aspose.com/temporary-license/).
-- **Apoiar**: Junte-se à discussão em [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Apoiar**: Junte-se à discussão em [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Com esses recursos, você estará bem equipado para se aprofundar no processamento de imagens com o Aspose.Imaging para Java. Boa programação!
 

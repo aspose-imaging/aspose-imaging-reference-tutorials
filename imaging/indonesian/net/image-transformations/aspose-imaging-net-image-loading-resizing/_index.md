@@ -166,7 +166,7 @@ Untuk informasi lebih lanjut, lihat sumber daya berikut:
 - [Pembelian](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Pelajari Aspose.Imaging untuk .NET dan tingkatkan kemampuan pemrosesan gambar Anda ke tingkat berikutnya!
 

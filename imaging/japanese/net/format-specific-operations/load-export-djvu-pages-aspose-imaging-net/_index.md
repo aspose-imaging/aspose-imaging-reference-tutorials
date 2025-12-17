@@ -168,7 +168,7 @@ Aspose.Imaging 使用時のパフォーマンスを最適化します。
 - [購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/net/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースを活用して、Aspose.Imaging .NET による DjVu ファイル処理の理解を深め、応用を深めましょう。コーディングを楽しみましょう！
 

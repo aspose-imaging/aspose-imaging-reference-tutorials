@@ -182,7 +182,7 @@ Esplora altre funzionalità offerte da Aspose.Imaging nel loro [documentazione u
    - Utilizzare le impostazioni della cache per gestire efficacemente l'allocazione delle risorse e prendere in considerazione tecniche di elaborazione batch.
 
 4. **C'è supporto disponibile se riscontro problemi con Aspose.Imaging?**
-   - Sì, puoi trovare assistenza su [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10).
+   - Sì, puoi trovare assistenza su [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14).
 
 5. **Quali sono le best practice per utilizzare le palette personalizzate nelle GIF?**
    - Scegli i colori che più si avvicinano ai tuoi obiettivi di progettazione e prova diverse combinazioni per ottenere risultati ottimali.

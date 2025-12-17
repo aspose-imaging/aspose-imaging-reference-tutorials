@@ -205,7 +205,7 @@ Aspose.Imaging for .NET を使用した EPS 画像の読み込みと抽出方法
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imaging 無料トライアル](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドを読めば、Aspose.Imaging を活用して .NET アプリケーションで EPS ファイルを効率的に管理できるようになります。コーディングを楽しみましょう！
 

@@ -165,7 +165,7 @@ A4: A PDF-be konvertálás biztosítja a kompatibilitást a különböző platfo
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbálja ki az Aspose.Imaging-et ingyen](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Szerezzen be egy ideiglenes jogosítványt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Fórumok](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Fórumok](https://forum.aspose.com/c/imaging/14)
 
 Ez az útmutató minden szükséges információt tartalmaz ahhoz, hogy elkezdhesse TIFF képek PDF formátumba konvertálását az Aspose.Imaging for .NET segítségével, és ezáltal hatékonyabbá tegye dokumentumkezelési megoldásait.
 

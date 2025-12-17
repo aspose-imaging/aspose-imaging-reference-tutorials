@@ -193,7 +193,7 @@ Hãy thử áp dụng các kỹ thuật này vào dự án của bạn ngay hôm
 - **Mua:** Mua giấy phép thông qua [Cổng thông tin mua hàng Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** Truy cập giấy phép tạm thời qua [Bản dùng thử miễn phí của Aspose](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** Nhận một tại [Giấy phép tạm thời Aspose](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** Tham gia cộng đồng và nhận trợ giúp về [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** Tham gia cộng đồng và nhận trợ giúp về [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn có thể kết hợp Aspose.Imaging vào các dự án Java của mình một cách hiệu quả để xử lý việc tải và xoay hình ảnh một cách dễ dàng. Chúc bạn viết code vui vẻ!
 

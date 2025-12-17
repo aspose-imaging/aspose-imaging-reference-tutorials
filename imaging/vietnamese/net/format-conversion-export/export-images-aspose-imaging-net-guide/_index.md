@@ -207,7 +207,7 @@ A3: Có, Aspose.Imaging cung cấp khả năng kiểm soát chi tiết các thi�
 A4: Chắc chắn rồi! Bạn có thể xử lý nhiều tệp hiệu quả bằng cách sử dụng các kỹ thuật lập trình song song trong .NET.
 
 **Câu hỏi 5: Làm thế nào để tôi có thể khắc phục những sự cố thường gặp với Aspose.Imaging?**
-A5: Kiểm tra [diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10) để giải quyết các vấn đề phổ biến và tham khảo ý kiến rộng rãi [tài liệu](https://reference.aspose.com/imaging/net/) để được hướng dẫn.
+A5: Kiểm tra [diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14) để giải quyết các vấn đề phổ biến và tham khảo ý kiến rộng rãi [tài liệu](https://reference.aspose.com/imaging/net/) để được hướng dẫn.
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

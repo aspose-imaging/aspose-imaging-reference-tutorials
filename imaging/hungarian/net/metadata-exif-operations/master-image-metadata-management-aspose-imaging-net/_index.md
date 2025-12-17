@@ -195,7 +195,7 @@ A következő lépések közé tartozik ezen megoldások integrálása nagyobb p
 - **Vásárlás:** [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Próbálja ki ingyen](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély:** [Szerezd meg itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás:** [Közösségi fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás:** [Közösségi fórum](https://forum.aspose.com/c/imaging/14)
 
 Reméljük, hogy ez az útmutató segít abban, hogy magabiztosan kezelhesd a képmetaadatokat az Aspose.Imaging for .NET használatával. Jó kódolást!
 

@@ -159,14 +159,14 @@ image.Save(outputDir + "/ApplyGaussWienerFilter_out.gif");
 4. **Ποιες μορφές αρχείων υποστηρίζει το Aspose.Imaging;**
    - Υποστηρίζει πάνω από 100 μορφές εικόνας, όπως JPEG, PNG, GIF και άλλες.
 5. **Πώς μπορώ να αντιμετωπίσω συνηθισμένα προβλήματα με το Aspose.Imaging;**
-   - Παραπέμπω [Φόρουμ υποστήριξης του Aspose](https://forum.aspose.com/c/imaging/10) για λύσεις ή ελέγξτε την λεπτομερή τεκμηρίωσή τους.
+   - Παραπέμπω [Φόρουμ υποστήριξης του Aspose](https://forum.aspose.com/c/imaging/14) για λύσεις ή ελέγξτε την λεπτομερή τεκμηρίωσή τους.
 
 ## Πόροι
 - **Απόδειξη με έγγραφα**: Πλήρεις οδηγοί στο [Τεκμηρίωση Aspose](https://reference.aspose.com/imaging/net/)
 - **Λήψη τελευταίας έκδοσης**: Προσβάσιμο από [Σελίδα κυκλοφοριών](https://releases.aspose.com/imaging/net/)
 - **Αγορά Άδειας Χρήσης**: Σύνδεσμος άμεσης αγοράς διαθέσιμος στο [Σελίδα Αγοράς της Aspose](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή και προσωρινή άδεια χρήσης**: Διαθέσιμο στο [Σελίδα κυκλοφοριών](https://releases.aspose.com/imaging/net/) και [Τμήμα Προσωρινής Άδειας Χρήσης](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ Υποστήριξης**: Για οποιεσδήποτε ερωτήσεις, επισκεφθείτε [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ Υποστήριξης**: Για οποιεσδήποτε ερωτήσεις, επισκεφθείτε [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -174,7 +174,7 @@ frameCounter++;
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/java/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10)
+- [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 踏上使用 Aspose.Imaging Java 掌握图像处理的旅程，并开启处理 TIFF 图像的新可能性。
 

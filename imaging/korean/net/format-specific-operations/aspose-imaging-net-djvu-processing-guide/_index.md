@@ -197,7 +197,7 @@ A: 네, ASP.NET 애플리케이션과 다른 서버 측 프레임워크에 통�
 - **구입**: [Aspose.Imaging 라이선스 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging 무료 체험하기](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [임시 면허 취득](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드가 .NET 환경에서 DjVu 이미지 처리 작업에 Aspose.Imaging을 활용하는 데 도움이 되기를 바랍니다. 즐거운 코딩 되세요!
 

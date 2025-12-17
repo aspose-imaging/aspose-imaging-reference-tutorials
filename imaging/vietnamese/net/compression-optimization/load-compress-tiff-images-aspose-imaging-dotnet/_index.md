@@ -165,7 +165,7 @@ A5: Có, Aspose.Imaging hỗ trợ nhiều định dạng bao gồm JPEG, PNG, B
 - **Mua giấy phép**: Thăm nom [Trang mua hàng Aspose](https://purchase.aspose.com/buy) để có các lựa chọn cấp phép.
 - **Dùng thử miễn phí**: Kiểm tra các tính năng bằng cách tải xuống từ [Phát hành](https://releases.aspose.com/imaging/net/).
 - **Giấy phép tạm thời**: Yêu cầu cấp giấy phép tạm thời tại [Cấp phép Aspose](https://purchase.aspose.com/temporary-license/).
-- **Hỗ trợ và cộng đồng**: Tham gia thảo luận hoặc tìm kiếm sự trợ giúp trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10).
+- **Hỗ trợ và cộng đồng**: Tham gia thảo luận hoặc tìm kiếm sự trợ giúp trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

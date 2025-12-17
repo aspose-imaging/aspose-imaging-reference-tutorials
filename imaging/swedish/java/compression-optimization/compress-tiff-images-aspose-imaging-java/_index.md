@@ -188,7 +188,7 @@ Genom att följa den här guiden har du lärt dig hur du effektivt komprimerar T
 - **Köpa:** [Köp nu](https://purchase.aspose.com/buy)
 - **Gratis provperiod:** [Börja här](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Begär här](https://purchase.aspose.com/temporary-license/)
-- **Stöd:** För ytterligare hjälp, besök [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd:** För ytterligare hjälp, besök [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

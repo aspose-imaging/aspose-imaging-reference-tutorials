@@ -194,7 +194,7 @@ A5: もちろんです! ループや並列処理技術を実装して、複数�
 - **購入**https://purchase.aspose.com/buy
 - **無料トライアル**https://releases.aspose.com/imaging/java/
 - **一時ライセンス**https://purchase.aspose.com/temporary-license/
-- **サポート**https://forum.aspose.com/c/imaging/10
+- **サポート**https://forum.aspose.com/c/imaging/14
 
 これらのリソースを活用して、Aspose.Imaging for Java の理解と習得を深めましょう。楽しいコーディングを！
 

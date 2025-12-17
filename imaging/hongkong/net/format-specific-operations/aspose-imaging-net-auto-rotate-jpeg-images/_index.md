@@ -197,7 +197,7 @@ image.Save(outputDir + "aspose-logo_copy.jpg");
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/net/)
 - [臨時執照](https://purchase.aspose.com/temporary-license/)
-- [支援和論壇](https://forum.aspose.com/c/imaging/10)
+- [支援和論壇](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

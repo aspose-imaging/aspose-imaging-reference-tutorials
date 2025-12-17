@@ -219,7 +219,7 @@ Untuk bacaan lebih lanjut dan dukungan:
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Penawaran Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Informasi Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan memanfaatkan Aspose.Imaging untuk Java, Anda dapat membuka kemampuan pemrosesan gambar canggih yang menyederhanakan proses pengembangan Anda. Selamat membuat kode!
 

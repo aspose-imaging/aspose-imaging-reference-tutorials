@@ -130,7 +130,7 @@ Ao longo deste tutorial, exploramos como converter arquivos BMP para PNGs com ef
 
 Para aprimorar ainda mais suas habilidades:
 - Explore recursos adicionais do Aspose.Imaging, como manipulação de imagens ou conversões de formato.
-- Interaja com a comunidade em [Fórum do Aspose](https://forum.aspose.com/c/imaging/10) para compartilhar ideias e buscar conselhos.
+- Interaja com a comunidade em [Fórum do Aspose](https://forum.aspose.com/c/imaging/14) para compartilhar ideias e buscar conselhos.
 
 Pronto para começar a converter imagens em seus aplicativos .NET? Experimente hoje mesmo!
 

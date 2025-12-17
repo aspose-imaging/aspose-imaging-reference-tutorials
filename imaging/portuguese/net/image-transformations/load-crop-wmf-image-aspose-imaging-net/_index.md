@@ -186,7 +186,7 @@ Os próximos passos podem incluir experimentar diferentes formatos de imagem sup
 - **Comprar**: [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Obtenha um teste gratuito](https://releases.aspose.com/imaging/net/)
 - **Licença Temporária**: [Solicitar uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Fórum de Suporte**: [Suporte de imagem Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum de Suporte**: [Suporte de imagem Aspose](https://forum.aspose.com/c/imaging/14)
 
 Embarque em sua jornada com o Aspose.Imaging hoje mesmo e libere todo o potencial do processamento de imagens no .NET!
 

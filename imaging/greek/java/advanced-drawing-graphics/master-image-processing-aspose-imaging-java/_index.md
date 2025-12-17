@@ -194,7 +194,7 @@ static void exportProgressCallback(ProgressEventHandlerInfo info) {
 - **Αγορά**: [Buy Aspose Products](https://purchase.aspose.com/buy)
 - **Δωρεάν Δοκιμή**: [Start a Free Trial](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Τώρα, εξοπλισμένοι με αυτές τις γνώσεις, είστε έτοιμοι να ενσωματώσετε το Aspose.Imaging στα Java έργα σας για βελτιωμένες δυνατότητες επεξεργασίας εικόνας. Καλή προγραμματιστική!
 

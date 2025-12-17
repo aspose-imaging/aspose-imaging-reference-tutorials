@@ -209,7 +209,7 @@ try (TiffImage tiffImage = new TiffImage(outputSettings, newWidth, newHeight)) {
 5. **Πώς βελτιώνουν τα πλαίσια TIFF τη διαχείριση εικόνων;**  
    Ενοποιώντας πολλές εικόνες σε ένα μόνο αρχείο, διευκολύνοντας τον χειρισμό και τη διανομή μεγάλων συλλογών σχετικών εικόνων.
 
-Για περισσότερους πόρους, ανατρέξτε στο Aspose.Imaging's [απόδειξη με έγγραφα](https://reference.aspose.com/imaging/java/) και να εξερευνήσουν τους [σελίδα λήψης](https://releases.aspose.com/imaging/java/) για τις πιο πρόσφατες ενημερώσεις. Για τυχόν ερωτήσεις υποστήριξης, επισκεφθείτε τη διεύθυνση [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10).
+Για περισσότερους πόρους, ανατρέξτε στο Aspose.Imaging's [απόδειξη με έγγραφα](https://reference.aspose.com/imaging/java/) και να εξερευνήσουν τους [σελίδα λήψης](https://releases.aspose.com/imaging/java/) για τις πιο πρόσφατες ενημερώσεις. Για τυχόν ερωτήσεις υποστήριξης, επισκεφθείτε τη διεύθυνση [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

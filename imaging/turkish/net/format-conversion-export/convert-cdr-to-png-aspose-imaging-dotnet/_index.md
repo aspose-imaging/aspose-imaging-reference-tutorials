@@ -174,7 +174,7 @@ Bu eğitimde, Aspose.Imaging for .NET kullanarak CDR dosyalarını PNG'ye nasıl
 - [Lisans Satın Al](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme İndir](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET ile görüntü dönüştürme yolculuğunuza başlayın ve uygulamalarınızda yeni olasılıkların kilidini açın!
 

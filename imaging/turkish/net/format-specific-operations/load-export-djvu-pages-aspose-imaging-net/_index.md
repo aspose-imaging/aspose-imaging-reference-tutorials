@@ -168,7 +168,7 @@ Daha derinlere dalmaya hazır mısınız? Bu çözümleri bugün projelerinize u
 - [Satın almak](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 DjVu dosyalarını işlemek için Aspose.Imaging .NET'in anlayışınızı ve uygulamanızı geliştirmek için bu kaynakları keşfedin. İyi kodlamalar!
 

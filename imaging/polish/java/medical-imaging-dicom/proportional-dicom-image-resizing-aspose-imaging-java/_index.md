@@ -204,7 +204,7 @@ tym przewodniku sprawdziliśmy, jak proporcjonalnie ładować i zmieniać rozmia
 - **Zakup**: https://purchase.aspose.com/buy
 - **Bezpłatna wersja próbna**: https://releases.aspose.com/imaging/java/
 - **Licencja tymczasowa**: https://purchase.aspose.com/temporary-license/
-- **Wsparcie**: https://forum.aspose.com/c/imaging/10
+- **Wsparcie**: https://forum.aspose.com/c/imaging/14
 
 Wykorzystując te zasoby, możesz pogłębić swoje zrozumienie i skutecznie wdrożyć Aspose.Imaging w swoich aplikacjach Java. Miłego kodowania!
 

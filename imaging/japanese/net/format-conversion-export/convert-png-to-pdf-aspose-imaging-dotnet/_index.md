@@ -166,7 +166,7 @@ PNG から PDF への変換には、さまざまな実用的な用途があり�
 - **購入**： [Asposeライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imagingを無料でお試しください](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 今すぐ Aspose.Imaging を使い始め、画像処理タスクを合理化されたワークフローに変換しましょう。
 

@@ -171,7 +171,7 @@ Agora você tem as ferramentas para converter imagens JPEG e TIFF para o formato
 - **Comprar**: [Compre Aspose Imaging](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Experimente grátis](https://releases.aspose.com/imaging/java/)
 - **Licença Temporária**: [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ao seguir este tutorial, você estará bem equipado para lidar com tarefas de conversão de imagens em seus projetos de imagens médicas usando o Aspose.Imaging para Java.
 

@@ -195,7 +195,7 @@ Nyní byste měli mít solidní znalosti o tom, jak vytvářet a manipulovat s o
 - **Nákup:** [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Získejte bezplatnou zkušební verzi](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence:** [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu budete dobře vybaveni k tomu, abyste ve svých projektech využili plný potenciál Aspose.Imaging pro .NET. Přejeme vám příjemné programování!
 

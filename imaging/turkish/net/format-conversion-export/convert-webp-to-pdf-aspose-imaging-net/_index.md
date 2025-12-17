@@ -160,7 +160,7 @@ Bu kılavuzu takip ederek, Aspose.Imaging for .NET kullanarak WebP görüntüler
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme Erişimi](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans Başvurusu](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı rehberle artık projelerinizde Aspose.Imaging for .NET'i kullanmaya hazırsınız. İyi kodlamalar!
 

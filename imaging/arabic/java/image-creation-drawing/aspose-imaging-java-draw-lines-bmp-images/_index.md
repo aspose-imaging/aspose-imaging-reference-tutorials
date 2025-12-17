@@ -211,7 +211,7 @@ try (Image image = Image.create(bmpCreateOptions, 100, 100)) {
 - [شراء الترخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا الدليل، ستكون جاهزًا تمامًا لدمج Aspose.Imaging في مشاريع Java الخاصة بك للحصول على إمكانيات معالجة صور فعّالة. برمجة ممتعة!
 

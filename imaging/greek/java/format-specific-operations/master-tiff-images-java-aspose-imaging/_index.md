@@ -166,7 +166,7 @@ outputSettings.setPalette(ColorPaletteHelper.create4BitGrayscale(false));
 - [Αγορά](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον ολοκληρωμένο οδηγό, μπορείτε να αξιοποιήσετε πλήρως τις δυνατότητες του Aspose.Imaging για Java για την αποτελεσματική διαχείριση εικόνων TIFF. Καλή κωδικοποίηση!
 

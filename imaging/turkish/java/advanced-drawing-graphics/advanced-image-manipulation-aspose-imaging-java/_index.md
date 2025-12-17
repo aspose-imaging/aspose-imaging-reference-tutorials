@@ -257,7 +257,7 @@ A5: Çıktı biçiminin şeffaflığı desteklediğinden emin olun (örneğin PN
 - **Satın almak**: [Aspose Satın Alma Sayfası](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging Ücretsiz Denemeyi Deneyin](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Aspose Destek Topluluğu](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: [Aspose Destek Topluluğu](https://forum.aspose.com/c/imaging/14)
 
 Keyifli kodlamalar!
 

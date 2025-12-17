@@ -182,7 +182,7 @@ Aspose.Imaging for Java 可用於各種場景：
 - [購買選項](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/java/)
 - [臨時執照申請](https://purchase.aspose.com/temporary-license/)
-- [社區支持](https://forum.aspose.com/c/imaging/10)
+- [社區支持](https://forum.aspose.com/c/imaging/14)
 
 遵循本指南，您將能夠在專案中充分發揮 Aspose.Imaging for Java 的強大功能。祝您編碼愉快！
 

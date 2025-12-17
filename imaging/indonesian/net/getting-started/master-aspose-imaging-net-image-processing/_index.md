@@ -159,14 +159,14 @@ Anda kini telah mempelajari cara memuat, memfilter, dan menyimpan gambar menggun
 4. **Format file apa yang didukung Aspose.Imaging?**
    - Mendukung lebih dari 100 format gambar termasuk JPEG, PNG, GIF, dan banyak lagi.
 5. **Bagaimana saya dapat memecahkan masalah umum dengan Aspose.Imaging?**
-   - Mengacu pada [Forum dukungan Aspose](https://forum.aspose.com/c/imaging/10) untuk solusi atau memeriksa dokumentasi terperincinya.
+   - Mengacu pada [Forum dukungan Aspose](https://forum.aspose.com/c/imaging/14) untuk solusi atau memeriksa dokumentasi terperincinya.
 
 ## Sumber daya
 - **Dokumentasi**: Panduan lengkap di [Dokumentasi Aspose](https://reference.aspose.com/imaging/net/)
 - **Unduh Versi Terbaru**:Dapat diakses dari [Halaman Rilis](https://releases.aspose.com/imaging/net/)
 - **Beli Lisensi**: Tautan pembelian langsung tersedia di [Halaman Pembelian Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis dan Lisensi Sementara**:Tersedia di [Halaman rilis](https://releases.aspose.com/imaging/net/) Dan [Bagian Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan**:Untuk pertanyaan apa pun, kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan**:Untuk pertanyaan apa pun, kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

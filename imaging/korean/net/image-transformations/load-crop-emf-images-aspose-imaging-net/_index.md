@@ -186,7 +186,7 @@ Aspose.Imaging을 사용할 때:
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험판 액세스](https://releases.aspose.com/imaging/net/)
 - [임시 면허 요청](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 종합 가이드는 EMF 이미지 처리 기능을 .NET 애플리케이션에 효과적으로 통합하는 데 필요한 지식과 기술을 제공하도록 설계되었습니다. Aspose.Imaging을 사용하여 개발 툴킷을 확장하고 프로젝트의 기능을 향상시키세요.
 

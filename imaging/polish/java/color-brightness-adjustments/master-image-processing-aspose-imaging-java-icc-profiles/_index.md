@@ -201,7 +201,7 @@ Gotowy na głębsze zanurzenie? Spróbuj wdrożyć te rozwiązania w swoich proj
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Przeglądaj te zasoby, aby pogłębić swoje zrozumienie i zwiększyć możliwości przetwarzania obrazu dzięki Aspose.Imaging for Java. Miłego kodowania!
 

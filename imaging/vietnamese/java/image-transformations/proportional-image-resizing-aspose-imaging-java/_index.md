@@ -193,7 +193,7 @@ Sẵn sàng để thử nó? Hãy đến [Tài liệu Aspose.Imaging](https://re
    - JDK 8 trở lên và Java IDE tương thích.
 
 5. **Tôi có thể tìm sự hỗ trợ ở đâu nếu gặp vấn đề?**
-   - Tham gia [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10) để được cộng đồng và chính quyền hỗ trợ.
+   - Tham gia [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14) để được cộng đồng và chính quyền hỗ trợ.
 
 ## Tài nguyên
 

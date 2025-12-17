@@ -222,7 +222,7 @@ You've now mastered the basics of Java image processing with Aspose.Imaging. Fro
 - **Purchase**: [Buy Aspose Products](https://purchase.aspose.com/buy)
 - **Free Trial**: [Start Here](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Embark on your Java image processing journey with Aspose.Imaging and unlock new possibilities in digital image manipulation!
 

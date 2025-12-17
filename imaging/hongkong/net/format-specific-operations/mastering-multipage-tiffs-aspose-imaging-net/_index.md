@@ -158,7 +158,7 @@ Aspose.Imaging 的功能遠不止於基本任務。以下是一些實際應用�
 - [購買](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/net/)
 - [臨時執照](https://purchase.aspose.com/temporary-license/)
-- [支援論壇](https://forum.aspose.com/c/imaging/10)
+- [支援論壇](https://forum.aspose.com/c/imaging/14)
 
 本指南內容全面，將協助您掌握在專案中有效使用 Aspose.Imaging for .NET 的知識。祝您程式愉快！
 

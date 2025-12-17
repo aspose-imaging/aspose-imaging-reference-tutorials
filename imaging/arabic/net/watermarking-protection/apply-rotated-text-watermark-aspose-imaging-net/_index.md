@@ -159,7 +159,7 @@ image.Save(outputDir);
 - [شراء الترخيص](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/net/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 حاول تنفيذ هذه الخطوات وشاهد كيف يمكن لبرنامج Aspose.Imaging تبسيط مهام معالجة الصور لديك!
 

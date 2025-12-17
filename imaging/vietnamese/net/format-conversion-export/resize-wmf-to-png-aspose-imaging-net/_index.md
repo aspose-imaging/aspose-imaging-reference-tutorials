@@ -162,7 +162,7 @@ Có, hãy viết kịch bản cho các bước này và chạy chúng trên nhi�
 - **Mua**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Nhận giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Hỗ trợ cộng đồng Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Hỗ trợ cộng đồng Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bắt đầu hành trình xử lý hình ảnh của bạn với Aspose.Imaging cho .NET và khám phá những khả năng vô tận trong việc xử lý đồ họa.
 

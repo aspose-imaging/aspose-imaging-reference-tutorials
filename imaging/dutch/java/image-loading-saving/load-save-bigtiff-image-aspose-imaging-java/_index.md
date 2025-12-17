@@ -190,7 +190,7 @@ Om uw mogelijkheden verder te vergroten, kunt u de extra functies van Aspose.Ima
 - [Download Aspose.Imaging voor Java](https://releases.aspose.com/imaging/java/)
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefversie en tijdelijke licentie](https://releases.aspose.com/imaging/java/), [Tijdelijke licentiepagina](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Verken deze bronnen om uw kennis van Aspose.Imaging voor Java te vergroten, zodat u klaar bent voor al uw BigTIFF-beeldverwerkingsbehoeften.
 

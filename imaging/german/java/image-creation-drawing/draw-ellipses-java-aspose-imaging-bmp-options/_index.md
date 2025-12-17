@@ -191,7 +191,7 @@ Erwägen Sie als nächste Schritte, andere von der Bibliothek bereitgestellte Ze
 - [Erwerben Sie eine Lizenz](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Antrag auf eine vorübergehende Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit Aspose.Imaging können Sie Ihre Java-Anwendungen mit robusten Bildbearbeitungsfunktionen erweitern. Viel Spaß beim Programmieren!
 

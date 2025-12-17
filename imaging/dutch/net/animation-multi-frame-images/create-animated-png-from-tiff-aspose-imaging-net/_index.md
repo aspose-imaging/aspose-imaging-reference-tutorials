@@ -170,7 +170,7 @@ A: Aspose.Imaging ondersteunt talloze formaten, waaronder JPEG, PNG, GIF, BMP en
 A: Ja, u kunt aangepaste frametijden instellen met `ApngOptions`.
 
 **V: Hoe los ik problemen met Aspose.Imaging op?**
-A: Raadpleeg het ondersteuningsforum [hier](https://forum.aspose.com/c/imaging/10) voor hulp.
+A: Raadpleeg het ondersteuningsforum [hier](https://forum.aspose.com/c/imaging/14) voor hulp.
 
 ## Bronnen
 - **Documentatie**: [Aspose.Imaging .NET-referentie](https://reference.aspose.com/imaging/net/)
@@ -178,7 +178,7 @@ A: Raadpleeg het ondersteuningsforum [hier](https://forum.aspose.com/c/imaging/1
 - **Aankoop**: [Koop een licentie](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: [Gratis starten](https://releases.aspose.com/imaging/net/)
 - **Tijdelijke licentie**: [Solliciteer hier](https://purchase.aspose.com/temporary-license/)
-- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

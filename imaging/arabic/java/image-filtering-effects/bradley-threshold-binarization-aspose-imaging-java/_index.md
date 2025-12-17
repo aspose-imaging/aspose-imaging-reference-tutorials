@@ -198,7 +198,7 @@ A5: فكر في تحسين بيئة Java الخاصة بك لإدارة الذا
 - [شراء ترخيص](https://purchase.aspose.com/buy)
 - [الوصول إلى النسخة التجريبية المجانية](https://releases.aspose.com/imaging/java/)
 - [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/10)
+- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
 استكشف هذه الموارد لتعميق فهمك وتحسين مشاريع معالجة الصور باستخدام Aspose.Imaging لجافا. برمجة ممتعة!
 

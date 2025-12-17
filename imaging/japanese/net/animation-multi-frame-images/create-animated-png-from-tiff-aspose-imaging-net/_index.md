@@ -170,7 +170,7 @@ A: Aspose.Imaging は、JPEG、PNG、GIF、BMP など、さまざまな形式を
 A: はい、カスタムフレーム時間を設定できます。 `ApngOptions`。
 
 **Q: Aspose.Imaging の問題をトラブルシューティングするにはどうすればよいですか?**
-A: サポートフォーラムを参照してください [ここ](https://forum.aspose.com/c/imaging/10) 援助をお願いします。
+A: サポートフォーラムを参照してください [ここ](https://forum.aspose.com/c/imaging/14) 援助をお願いします。
 
 ## リソース
 - **ドキュメント**： [Aspose.Imaging .NET リファレンス](https://reference.aspose.com/imaging/net/)
@@ -178,7 +178,7 @@ A: サポートフォーラムを参照してください [ここ](https://forum
 - **購入**： [ライセンスを購入する](https://purchase.aspose.com/buy)
 - **無料トライアル**： [無料で始める](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [こちらからお申し込みください](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

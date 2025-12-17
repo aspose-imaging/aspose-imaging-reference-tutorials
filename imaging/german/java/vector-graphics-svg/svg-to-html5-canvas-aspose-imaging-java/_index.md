@@ -169,7 +169,7 @@ In dieser Anleitung haben Sie gelernt, wie Sie SVG-Dateien mit Aspose.Imaging f�
 - [Lizenz erwerben](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit diesem umfassenden Leitfaden sind Sie bestens gerüstet, um die Leistungsfähigkeit von Aspose.Imaging für Java bei der Umwandlung von SVGs in HTML5-Canvas-Elemente zu nutzen. Viel Spaß beim Programmieren!
 

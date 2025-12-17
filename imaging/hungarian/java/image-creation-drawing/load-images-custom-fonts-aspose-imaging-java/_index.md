@@ -195,7 +195,7 @@ A következő lépések magukban foglalhatják az Aspose.Imaging fejlettebb funk
 - [Aspose licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió és ideiglenes licenc](https://releases.aspose.com/imaging/java/)
 
-Reméljük, hogy ez az útmutató informatív és hasznos volt. Ha további kérdései vannak, forduljon bizalommal a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)Jó kódolást!
+Reméljük, hogy ez az útmutató informatív és hasznos volt. Ha további kérdései vannak, forduljon bizalommal a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)Jó kódolást!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

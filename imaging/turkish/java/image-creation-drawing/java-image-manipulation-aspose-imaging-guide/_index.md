@@ -243,7 +243,7 @@ A5: Şunu kullanabilirsiniz: `setTransparentColor()` yöntemi, tüm görüntüde
 - **Lisans Satın Al**: [Lisans satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Geçici Lisans Talebi](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Sorular Sorun](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: [Sorular Sorun](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzun Aspose.Imaging kullanarak Java görüntü işleme yolculuğunuzda size yardımcı olmasını umuyoruz. Herhangi bir sorunuz varsa, destek forumu aracılığıyla bize ulaşmaktan çekinmeyin veya daha ayrıntılı bilgi için belgeleri inceleyin. İyi kodlamalar!
 

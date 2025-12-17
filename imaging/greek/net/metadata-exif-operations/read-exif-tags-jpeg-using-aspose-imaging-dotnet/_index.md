@@ -145,7 +145,7 @@ A5: Επεξεργαστείτε εικόνες παράλληλα όπου εί
 - **Αγοράστε μια άδεια χρήσης**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δοκιμάστε το](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Αίτημα εδώ](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ Υποστήριξης**: [Κάντε ερωτήσεις](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ Υποστήριξης**: [Κάντε ερωτήσεις](https://forum.aspose.com/c/imaging/14)
 
 Ξεκινήστε το ταξίδι σας με το Aspose.Imaging για .NET σήμερα και ξεκινήστε να αξιοποιείτε τη δύναμη των μεταδεδομένων εικόνας!
 

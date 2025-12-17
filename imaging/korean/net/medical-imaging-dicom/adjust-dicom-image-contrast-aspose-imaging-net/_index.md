@@ -160,7 +160,7 @@ A5: 물론입니다. 강력한 기능 세트와 성능 최적화 덕분에 소�
 - **구입**: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [무료로 체험해보세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허**: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose.Imaging 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose.Imaging 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이러한 리소스와 가이드를 활용하면 .NET에서 Aspose.Imaging을 사용하여 DICOM 이미지 작업을 시작할 준비가 완료됩니다. 즐거운 코딩 되세요!
 

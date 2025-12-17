@@ -192,7 +192,7 @@ Prozkoumali jsme, jak načítat, konfigurovat a převádět obrázky OTG pomocí
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Prozkoumejte tyto zdroje, abyste prohloubili své znalosti a rozšířili možnosti Aspose.Imaging ve svých projektech. Přejeme vám příjemné programování!
 

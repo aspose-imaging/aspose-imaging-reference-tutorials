@@ -180,7 +180,7 @@ By now, you should have a solid understanding of how to use Aspose.Imaging for J
 - **Purchase:** Consider purchasing a license if you find Aspose.Imaging beneficial.
 - **Free Trial:** Start with a free trial to evaluate features.
 - **Temporary License:** Obtain a temporary license for extended evaluation.
-- **Support:** Join the community on [Aspose Forums](https://forum.aspose.com/c/imaging/10) for assistance. 
+- **Support:** Join the community on [Aspose Forums](https://forum.aspose.com/c/imaging/14) for assistance. 
 
 By following this tutorial, you’ll be well-equipped to enhance your image processing capabilities using Aspose.Imaging Java.
 

@@ -126,7 +126,7 @@ V: A művelet sikertelen lesz, ezért ajánlott a frissítés megkísérlése el
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbálja ki az Aspose.Imaging-et ingyen](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély beszerzése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**Kérdések esetén látogassa meg a [Aspose Fórum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**Kérdések esetén látogassa meg a [Aspose Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezzel az átfogó útmutatóval minden készen állsz arra, hogy elkezdd használni az Aspose.Imaging for .NET-et DICOM képmanipulációs projektjeidben. Jó kódolást!
 

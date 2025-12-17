@@ -209,7 +209,7 @@ try (TiffImage tiffImage = new TiffImage(outputSettings, newWidth, newHeight)) {
 5. **TIFF फ़्रेम छवि प्रबंधन को कैसे बेहतर बनाते हैं?**  
    एकाधिक छवियों को एक एकल फ़ाइल में समेकित करके, संबंधित छवियों के बड़े संग्रह को संभालना और वितरित करना आसान हो जाता है।
 
-अधिक संसाधनों के लिए, Aspose.Imaging का संदर्भ लें [प्रलेखन](https://reference.aspose.com/imaging/java/) और उनका अन्वेषण करें [डाउनलोड पृष्ठ](https://releases.aspose.com/imaging/java/) नवीनतम अपडेट के लिए। किसी भी सहायता संबंधी प्रश्न के लिए, यहां जाएं [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10).
+अधिक संसाधनों के लिए, Aspose.Imaging का संदर्भ लें [प्रलेखन](https://reference.aspose.com/imaging/java/) और उनका अन्वेषण करें [डाउनलोड पृष्ठ](https://releases.aspose.com/imaging/java/) नवीनतम अपडेट के लिए। किसी भी सहायता संबंधी प्रश्न के लिए, यहां जाएं [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

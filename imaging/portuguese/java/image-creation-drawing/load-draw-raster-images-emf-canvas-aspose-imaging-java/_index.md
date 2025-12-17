@@ -191,7 +191,7 @@ Problemas comuns incluem manuseio inadequado do descarte de imagens, o que leva 
 - **Comprar**: https://purchase.aspose.com/buy
 - **Teste grátis**: https://releases.aspose.com/imaging/java/
 - **Licença Temporária**: https://purchase.aspose.com/temporary-license/
-- **Apoiar**: https://forum.aspose.com/c/imaging/10
+- **Apoiar**: https://forum.aspose.com/c/imaging/14
 
 Esperamos que este guia seja útil em seus projetos. Boa programação!
 

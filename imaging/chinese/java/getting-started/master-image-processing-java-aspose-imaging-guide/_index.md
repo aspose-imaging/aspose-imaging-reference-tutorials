@@ -227,7 +227,7 @@ Aspose.Imaging 的 Java 库功能多样，可用于各种实际场景，例如�
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用版](https://releases.aspose.com/imaging/java/)
 - [临时许可证申请](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10)
+- [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 本指南提供了在 Java 中使用 Aspose.Imaging 的全面基础。通过理解这些技术，您可以利用强大的图像处理功能增强您的应用程序。祝您编程愉快！
 

@@ -173,7 +173,7 @@ try {
 - **Покупка:** [Купить Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия:** [Начать бесплатную пробную версию](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия:** [Запросить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Форум поддержки:** [Форум поддержки Aspose Imaging](https://forum.aspose.com/c/imaging/10)
+- **Форум поддержки:** [Форум поддержки Aspose Imaging](https://forum.aspose.com/c/imaging/14)
 
 Не стесняйтесь изучать эти ресурсы и интегрировать Aspose.Imaging в свои проекты для бесперебойной обработки изображений.
 

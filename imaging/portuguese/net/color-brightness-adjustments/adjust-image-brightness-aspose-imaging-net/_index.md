@@ -172,7 +172,7 @@ R: Embora tecnicamente viáveis, ajustes extremos podem degradar a qualidade da 
 - **Licença de compra**: [Comprar agora](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Começar](https://releases.aspose.com/imaging/net/)
 - **Licença Temporária**: [Solicite aqui](https://purchase.aspose.com/temporary-license/)
-- **Fórum de Suporte**: [Comunidade Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Fórum de Suporte**: [Comunidade Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Este guia deve servir como um recurso abrangente para dominar os ajustes de brilho com o Aspose.Imaging para .NET. Boa programação!
 

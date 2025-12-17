@@ -166,7 +166,7 @@ Som nästa steg, överväg att experimentera med andra format som stöds av Aspo
 - **Köpa**Köp en licens via [Aspose köpportal](https://purchase.aspose.com/buy).
 - **Gratis provperiod**Börja med en gratis provperiod via [Nedladdningar](https://releases.aspose.com/imaging/net/).
 - **Tillfällig licens**Begär en [här](https://purchase.aspose.com/temporary-license/).
-- **Stöd**Gå med i gemenskapen i [Aspose-forum](https://forum.aspose.com/c/imaging/10) för hjälp och diskussioner.
+- **Stöd**Gå med i gemenskapen i [Aspose-forum](https://forum.aspose.com/c/imaging/14) för hjälp och diskussioner.
 
 Vi hoppas att den här guiden hjälper dig att integrera exportfunktioner för vektorbilder i dina projekt. Lycka till med kodningen!
 

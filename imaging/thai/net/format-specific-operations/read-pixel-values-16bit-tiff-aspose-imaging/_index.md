@@ -133,7 +133,7 @@ using (RasterImage image = (RasterImage)Image.Load(dataDir + fileName, loadOptio
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/net/)
 - [ใบสมัครใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 เริ่มต้นการเดินทางของคุณสู่การเชี่ยวชาญการประมวลผลภาพด้วย Aspose.Imaging สำหรับ .NET วันนี้!
 

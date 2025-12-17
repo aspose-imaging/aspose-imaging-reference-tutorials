@@ -195,7 +195,7 @@ V: Teljesen – bárhol fut, ahol a Java támogatott, beleértve a Windows, Linu
 - **Vásárlás**: [Buy Aspose Products](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Start a Free Trial](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes licenc**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Támogatás**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Most, hogy fel vagy vértezve ezzel a tudással, készen állsz az Aspose.Imaging Java projektekbe való beépítésre a fejlettebb képfeldolgozási képességek érdekében. Boldog kódolást!
 

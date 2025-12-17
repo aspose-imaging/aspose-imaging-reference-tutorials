@@ -161,7 +161,7 @@ Các bước tiếp theo có thể bao gồm tích hợp tính năng này vào �
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
 Hãy thử áp dụng các kỹ thuật này vào dự án tiếp theo của bạn và xem Aspose.Imaging cho .NET có thể nâng cao khả năng xử lý hình ảnh của bạn như thế nào!
 

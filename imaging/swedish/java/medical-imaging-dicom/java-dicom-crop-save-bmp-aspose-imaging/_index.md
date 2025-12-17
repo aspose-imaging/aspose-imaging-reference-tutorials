@@ -220,7 +220,7 @@ I den här handledningen utforskade vi hur man laddar, beskär och sparar DICOM-
 - **Köpa**: [Köp Aspose-licens](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Aspose Gratis Testperioder](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens**: [Få tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Med den här omfattande guiden är du nu rustad att implementera DICOM-bildbehandling i Java med hjälp av Aspose.Imaging. Lycka till med kodningen!
 

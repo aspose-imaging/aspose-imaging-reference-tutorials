@@ -198,7 +198,7 @@ A4: Igen, de fontos az erőforrások hatékony kezelése és a többszálú feld
 
 **5. kérdés: Hogyan kaphatok további támogatást, ha problémákba ütközöm az Aspose.Imaging használatával?**
 
-A5: Látogatás [Aspose fóruma](https://forum.aspose.com/c/imaging/10) közösségi támogatásért, vagy vegye fel a kapcsolatot közvetlenül az ügyfélszolgálatukkal a vásárlási oldalon keresztül.
+A5: Látogatás [Aspose fóruma](https://forum.aspose.com/c/imaging/14) közösségi támogatásért, vagy vegye fel a kapcsolatot közvetlenül az ügyfélszolgálatukkal a vásárlási oldalon keresztül.
 
 ## Erőforrás
 

@@ -181,7 +181,7 @@ We raden u aan deze oplossing in uw projecten te implementeren! Raadpleeg voor m
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Deze tutorial heeft je de kennis bijgebracht om complexe TIFF-afbeeldingsamenvoegingstaken uit te voeren met Aspose.Imaging voor Java. Veel plezier met coderen!
 

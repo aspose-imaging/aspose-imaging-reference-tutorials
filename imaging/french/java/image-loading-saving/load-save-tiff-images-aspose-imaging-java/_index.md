@@ -171,7 +171,7 @@ Dans ce tutoriel, nous avons exploré comment charger et enregistrer efficacemen
 - **Achat**: [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Démarrer l'essai gratuit](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**: [Demande de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ce tutoriel vous donne les connaissances nécessaires pour implémenter efficacement le traitement d'images TIFF dans vos applications Java. Bon codage !
 

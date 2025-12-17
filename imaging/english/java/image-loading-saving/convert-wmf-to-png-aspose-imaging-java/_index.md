@@ -200,7 +200,7 @@ Explore more features offered by Aspose.Imaging, such as format conversion for o
 - [Download Aspose.Imaging for Java](https://releases.aspose.com/imaging/java/)
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial and Temporary License](https://releases.aspose.com/imaging/java/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Embark on your journey with Aspose.Imaging Java today, and transform the way you handle image processing tasks!
 

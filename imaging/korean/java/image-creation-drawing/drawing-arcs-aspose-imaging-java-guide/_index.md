@@ -192,7 +192,7 @@ API 문서에서 Graphics 클래스를 살펴보세요. 이 클래스는 선, �
 - **구입**: [Aspose 라이선스 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging 무료 체험하기](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [여기에서 요청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 다음 리소스를 탐색하여 Aspose.Imaging Java에 대한 이해를 높이고 프로젝트에서 기능을 확장해 보세요. 즐거운 코딩 되세요!
 

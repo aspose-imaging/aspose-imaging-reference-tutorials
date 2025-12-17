@@ -182,7 +182,7 @@ Aspose.Imaging для Java можно использовать в различн
 - [Варианты покупки](https://purchase.aspose.com/buy)
 - [Бесплатный пробный доступ](https://releases.aspose.com/imaging/java/)
 - [Заявление на временную лицензию](https://purchase.aspose.com/temporary-license/)
-- [Поддержка сообщества](https://forum.aspose.com/c/imaging/10)
+- [Поддержка сообщества](https://forum.aspose.com/c/imaging/14)
 
 Следуя этому руководству, вы будете хорошо подготовлены к использованию возможностей Aspose.Imaging для Java в своих проектах. Удачного кодирования!
 

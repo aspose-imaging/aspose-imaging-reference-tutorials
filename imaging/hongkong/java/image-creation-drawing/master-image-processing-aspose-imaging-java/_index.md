@@ -162,7 +162,7 @@ A5：依序處理影像，並在不需要時關閉對象，從而有效地管理
 - **購買：** [立即購買](https://purchase.aspose.com/buy)
 - **免費試用：** [從這裡開始](https://releases.aspose.com/imaging/java/)
 - **臨時執照：** [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支持：** [社群論壇](https://forum.aspose.com/c/imaging/10)
+- **支持：** [社群論壇](https://forum.aspose.com/c/imaging/14)
 
 透過利用這些資源，您可以進一步增強對 Aspose.Imaging for Java 的理解和應用。祝您編碼愉快！
 

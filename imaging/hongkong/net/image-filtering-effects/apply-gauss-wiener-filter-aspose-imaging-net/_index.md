@@ -158,7 +158,7 @@ image.Save(outputDir + "/ApplyGaussWienerFilter_out.gif");
 - **購買許可證：** [Aspose 購買](https://purchase.aspose.com/buy)
 - **免費試用：** [試試許可證](https://releases.aspose.com/imaging/net/)
 - **臨時執照：** [申請臨時執照](https://purchase.aspose.com/temporary-license/)
-- **支援論壇：** [Aspose 論壇](https://forum.aspose.com/c/imaging/10)
+- **支援論壇：** [Aspose 論壇](https://forum.aspose.com/c/imaging/14)
 
 探索這些資源，加深你的理解，並提升你的影像處理專案。祝你程式愉快！
 

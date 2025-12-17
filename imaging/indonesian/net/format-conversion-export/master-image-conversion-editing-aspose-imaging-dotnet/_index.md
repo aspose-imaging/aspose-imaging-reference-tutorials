@@ -219,7 +219,7 @@ A5: Ya, Aspose.Imaging memungkinkan kustomisasi bidang metadata yang komprehensi
 - **Pembelian:** [Beli Lisensi](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis:** [Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara:** [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan:** [Dukungan Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Forum Dukungan:** [Dukungan Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Mulailah perjalanan Anda dengan Aspose.Imaging untuk .NET hari ini, dan revolusikan cara Anda bekerja dengan gambar!
 

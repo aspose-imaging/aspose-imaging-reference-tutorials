@@ -197,7 +197,7 @@ image.save(outFile, psdOptions); // 다중 페이지 및 래스터화 설정이 
    - 물론입니다! CDR과 PSD 외에도 다양한 이미지 형식을 지원합니다.
 
 5. **이미지 로딩이나 저장과 관련된 문제는 어떻게 해결할 수 있나요?**
-   - 확인하세요 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10) 일반적인 솔루션을 사용하고 라이브러리 버전이 최신 상태인지 확인하세요.
+   - 확인하세요 [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14) 일반적인 솔루션을 사용하고 라이브러리 버전이 최신 상태인지 확인하세요.
 
 ## 자원
 
@@ -206,7 +206,7 @@ image.save(outFile, psdOptions); // 다중 페이지 및 래스터화 설정이 
 - **구입:** [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [무료 라이센스 받기](https://releases.aspose.com/imaging/java/)
 - **임시 면허:** [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 가이드를 따라 하면 Aspose.Imaging을 사용하여 Java 애플리케이션에서 CDR 이미지 로딩 및 변환 작업을 처리하는 데 필요한 모든 기능을 갖추게 될 것입니다. 즐거운 코딩 되세요!
 

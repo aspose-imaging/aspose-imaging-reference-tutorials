@@ -191,7 +191,7 @@ Aspose.Imaging for .NET을 사용하여 WMF 이미지를 로드하고 WebP 형�
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/net/)
 - [임시 면허](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이러한 리소스를 활용하여 Aspose.Imaging for .NET에 대한 이해를 높이고 구현을 개선해 보세요. 즐거운 코딩 되세요!
 

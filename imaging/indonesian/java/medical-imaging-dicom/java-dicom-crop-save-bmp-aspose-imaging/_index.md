@@ -220,7 +220,7 @@ Dalam tutorial ini, kami mempelajari cara memuat, memotong, dan menyimpan gambar
 - **Pembelian**: [Beli Lisensi Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Uji Coba Gratis Aspose](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan panduan lengkap ini, Anda kini siap menerapkan pemrosesan gambar DICOM di Java menggunakan Aspose.Imaging. Selamat membuat kode!
 

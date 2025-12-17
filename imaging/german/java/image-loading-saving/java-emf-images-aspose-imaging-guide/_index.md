@@ -179,7 +179,7 @@ A5: Befolgen Sie die unter „Lizenzerwerb“ beschriebenen Schritte, um Ihre Li
 - **Kaufen**: [Lizenz kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Hier beginnen](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Jetzt anfordern](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Community-Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Community-Forum](https://forum.aspose.com/c/imaging/14)
 
 Mithilfe dieser Ressourcen können Sie die Funktionen von Aspose.Imaging weiter erkunden und alle Herausforderungen bewältigen, die bei der Implementierung auftreten. Viel Spaß beim Programmieren!
 

@@ -153,7 +153,7 @@ När den här handledningen är klar bör du vara bekväm med att konvertera ras
 - [Köpa](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Utforska dessa resurser för att fördjupa din förståelse och få ut det mesta av Aspose.Imaging för Java. Lycka till med kodningen!
 

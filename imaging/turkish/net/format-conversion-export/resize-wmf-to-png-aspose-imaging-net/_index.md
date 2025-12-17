@@ -162,7 +162,7 @@ Evet, bu adımları yazın ve .NET'in dosya yönetim yeteneklerini kullanarak bi
 - **Satın almak**: [Aspose.Imaging'i satın alın](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz deneyin](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Aspose Topluluk Desteği](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: [Aspose Topluluk Desteği](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for .NET ile görüntü işleme yolculuğunuza başlayın ve grafikleri işlemede sonsuz olasılıkları keşfedin.
 

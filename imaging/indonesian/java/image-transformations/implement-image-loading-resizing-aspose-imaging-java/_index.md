@@ -176,7 +176,7 @@ A5: Tentu saja. Ia dirancang agar mudah diintegrasikan dan digunakan bersama pus
 - **Pembelian**: [Beli Lisensi](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulai di sini](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Daftar Sekarang](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Komunitas](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Komunitas](https://forum.aspose.com/c/imaging/14)
 
 Dengan panduan lengkap ini, Anda kini siap menguasai pemuatan dan pengubahan ukuran gambar di Java menggunakan Aspose.Imaging. Selamat membuat kode!
 

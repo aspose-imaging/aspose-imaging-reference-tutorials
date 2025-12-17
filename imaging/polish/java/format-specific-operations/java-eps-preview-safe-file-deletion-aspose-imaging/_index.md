@@ -220,7 +220,7 @@ O5: Tak. Możesz zacząć od bezpłatnego okresu próbnego, jednak w celu spełn
 - **Zakup**:Kup licencję przez [Zakup Aspose](https://purchase.aspose.com/buy).
 - **Bezpłatna wersja próbna**:Zacznij od wersji próbnej, aby przetestować funkcje w [Bezpłatne wersje próbne Aspose](https://releases.aspose.com/imaging/java/).
 - **Licencja tymczasowa**:Poproś o jeden za pośrednictwem [Licencja tymczasowa Aspose](https://purchase.aspose.com/temporary-license/).
-- **Wsparcie**:W razie pytań prosimy o kontakt pod adresem [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Wsparcie**:W razie pytań prosimy o kontakt pod adresem [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Postępując zgodnie z tym samouczkiem i wykorzystując Aspose.Imaging dla Java, będziesz dobrze wyposażony do obsługi podglądów obrazów EPS i bezpiecznego usuwania plików w swoich projektach. Miłego kodowania!
 

@@ -165,7 +165,7 @@ In this tutorial, we explored how to open and process images using streams with 
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Free Trial Version](https://releases.aspose.com/imaging/java/)
 - [Temporary License Application](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 This comprehensive guide should help you efficiently implement and utilize Aspose.Imaging Java for stream-based image processing, enhancing your applications' performance and capabilities.
 

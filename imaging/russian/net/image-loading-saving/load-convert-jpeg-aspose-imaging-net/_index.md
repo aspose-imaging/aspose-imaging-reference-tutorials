@@ -159,7 +159,7 @@ image.Save(outputDir + "/ColorConversionUsingDefaultProfiles_out.icc");
 - [Лицензия на покупку](https://purchase.aspose.com/buy)
 - [Бесплатная пробная версия](https://releases.aspose.com/imaging/net/)
 - [Временная лицензия](https://purchase.aspose.com/temporary-license/)
-- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/10)
+- [Форум поддержки Aspose](https://forum.aspose.com/c/imaging/14)
 
 Не стесняйтесь изучать эти ресурсы для получения более подробной информации и поддержки. Удачного кодирования!
 

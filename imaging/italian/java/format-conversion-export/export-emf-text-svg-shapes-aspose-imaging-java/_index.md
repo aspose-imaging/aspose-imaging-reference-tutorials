@@ -187,7 +187,7 @@ Assolutamente sì, è progettato per gestire sia le esigenze personali che azien
 
 **5. Dove posso trovare supporto se necessario?**
 
-Visita il [Forum di Aspose](https://forum.aspose.com/c/imaging/10) per ricevere assistenza dalla comunità o contattare direttamente il team di supporto tramite il loro sito web.
+Visita il [Forum di Aspose](https://forum.aspose.com/c/imaging/14) per ricevere assistenza dalla comunità o contattare direttamente il team di supporto tramite il loro sito web.
 
 ## Risorse
 

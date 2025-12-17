@@ -191,7 +191,7 @@ Aspose.Imaging의 기능은 단순한 작업을 넘어 다양한 실제 적용 �
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging을 활용하면 강력한 이미지 조작 기능으로 Java 애플리케이션을 더욱 발전시킬 수 있습니다. 즐거운 코딩 되세요!
 

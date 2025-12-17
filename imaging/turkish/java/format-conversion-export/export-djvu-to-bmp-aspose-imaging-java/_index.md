@@ -209,7 +209,7 @@ A: [Aspose.Görüntüleme belgeleri](https://reference.aspose.com/imaging/java/)
 - **Satın almak**: [Lisans satın al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Aspose.Imaging'i deneyin](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: [Burada Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek**: [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging Java ile yolculuğunuza başlayın ve bugün görüntü dönüştürme şeklinizi değiştirin!
 

@@ -237,7 +237,7 @@ Para mayor exploración y soporte, consulte los siguientes recursos:
 - **Documentación:** [Documentación de Aspose.Imaging para Java](https://reference.aspose.com/imaging/java/)
 - **Descargar:** [Versiones de Aspose.Imaging para Java](https://releases.aspose.com/imaging/java/)
 - **Compra y prueba gratuita:** [Compre o pruebe Aspose.Imaging para Java](https://purchase.aspose.com/buy)
-- **Foro de soporte:** [Comunidad de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Foro de soporte:** [Comunidad de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Esta guía completa te brindará los conocimientos necesarios para reducir eficazmente el desenfoque de movimiento en tus imágenes con Aspose.Imaging para Java. ¡Que disfrutes programando!
 

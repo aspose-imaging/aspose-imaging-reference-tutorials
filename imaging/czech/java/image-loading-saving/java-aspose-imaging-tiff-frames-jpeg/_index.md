@@ -254,7 +254,7 @@ Prozkoumejte další funkce Aspose.Imaging ponořením se do jeho [dokumentace](
 - **Dokumentace:** Prozkoumejte podrobné průvodce na [Dokumentace k Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - **Stáhnout:** Získejte nejnovější verzi z [Aspose.Imaging Releases](https://releases.aspose.com/imaging/java/).
 - **Nákup a zkušební verze:** Získejte přístup k možnostem nákupu nebo začněte s bezplatnou zkušební verzí na [Nákupní stránka Aspose](https://purchase.aspose.com/buy) a [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/).
-- **Podpora:** V případě dotazů navštivte [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Podpora:** V případě dotazů navštivte [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

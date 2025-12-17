@@ -160,7 +160,7 @@ A: Použijte bloky try-catch ke správě výjimek, které mohou vzniknout v důs
 A: Ano, Aspose nabízí knihovny pro .NET, C++ a další platformy kromě Javy.
 
 **Otázka: Je k dispozici podpora, pokud narazím na problémy?**
-A: Navštivte [Fórum Aspose](https://forum.aspose.com/c/imaging/10) pro podporu komunity a oficiální podporu.
+A: Navštivte [Fórum Aspose](https://forum.aspose.com/c/imaging/14) pro podporu komunity a oficiální podporu.
 
 **Otázka: Jaké jsou některé osvědčené postupy pro zpracování obrazu pomocí Aspose.Imaging?**
 A: Vždy testujte s různými velikostmi souborů, elegantně zpracovávejte výjimky a efektivně spravujte zdroje, abyste zabránili únikům paměti.
@@ -172,7 +172,7 @@ A: Vždy testujte s různými velikostmi souborů, elegantně zpracovávejte vý
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Zahájit bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Získat dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto tutoriálu budete vybaveni k efektivní práci se soubory EMF a k využití výkonných funkcí Aspose.Imaging ve vašich projektech v Javě. Přejeme vám příjemné programování!
 

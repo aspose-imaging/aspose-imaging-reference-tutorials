@@ -211,7 +211,7 @@ You've now learned how to leverage Aspose.Imaging for Java to load and extract p
 - **Purchase**: Acquire licenses directly from [Purchase Aspose](https://purchase.aspose.com/buy)
 - **Free Trial**: Start experimenting with a [free trial license](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: Obtain a temporary license for testing at [Temporary License](https://purchase.aspose.com/temporary-license/).
-- **Support**: Join the community on the [Aspose Forum](https://forum.aspose.com/c/imaging/10) for any queries or discussions.
+- **Support**: Join the community on the [Aspose Forum](https://forum.aspose.com/c/imaging/14) for any queries or discussions.
 
 By following this tutorial, you're now equipped to handle complex image processing tasks in Java using Aspose.Imaging. Happy coding!
 

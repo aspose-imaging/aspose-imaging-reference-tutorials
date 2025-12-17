@@ -187,7 +187,7 @@ Ya dominas el arte de dibujar imágenes rasterizadas en lienzos SVG con Aspose.I
 - **Compra**: [Comprar licencia](https://purchase.aspose.com/buy)
 - **Prueba gratuita**: [Empezar](https://releases.aspose.com/imaging/net/)
 - **Licencia temporal**: [Solicitar aquí](https://purchase.aspose.com/temporary-license/)
-- **Apoyo**: [Foro de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo**: [Foro de Aspose](https://forum.aspose.com/c/imaging/14)
 
 ¡Embárquese hoy mismo en su viaje con Aspose.Imaging para .NET y transforme el modo en que maneja las imágenes en sus aplicaciones!
 

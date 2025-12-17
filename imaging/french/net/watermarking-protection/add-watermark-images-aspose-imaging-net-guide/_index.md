@@ -158,7 +158,7 @@ En suivant ce guide, vous avez appris à ajouter des filigranes aux images avec 
 - [Acheter une licence](https://purchase.aspose.com/buy)
 - [Téléchargement d'essai gratuit](https://releases.aspose.com/imaging/net/)
 - [Acquisition de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 En exploitant ces ressources, vous pourrez explorer et maîtriser davantage la bibliothèque Aspose.Imaging pour .NET. Bon codage !
 

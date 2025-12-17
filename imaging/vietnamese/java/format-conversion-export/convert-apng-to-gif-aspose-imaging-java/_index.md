@@ -216,7 +216,7 @@ Xin chúc mừng! Bạn đã điều hướng thành công quá trình tải, ch
    - Có, bạn có thể lập trình xử lý hàng loạt bằng vòng lặp hoặc tích hợp với hệ thống lập lịch công việc.
 
 5. **Tôi có thể nhận được hỗ trợ như thế nào nếu gặp vấn đề?**
-   - Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10) để được hỗ trợ và thảo luận với những người dùng khác.
+   - Ghé thăm [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14) để được hỗ trợ và thảo luận với những người dùng khác.
 
 ## Tài nguyên
 

@@ -222,7 +222,7 @@ try {
 - **下載：** 從 [Releases Page](https://releases.aspose.com/imaging/java/) 取得最新版本的 Aspose.Imaging。  
 - **購買：** 於 [Aspose Purchase Page](https://purchase.aspose.com/buy) 取得完整授權。  
 - **免費試用：** 前往 [Temporary License Page](https://purchase.aspose.com/temporary-license/) 下載試用授權。  
-- **支援：** 於 [Aspose Forum](https://forum.aspose.com/c/imaging/10) 參與討論或尋求協助。
+- **支援：** 於 [Aspose Forum](https://forum.aspose.com/c/imaging/14) 參與討論或尋求協助。
 
 ---
 

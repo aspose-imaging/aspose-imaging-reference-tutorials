@@ -147,7 +147,7 @@ DICOM تعني التصوير الرقمي والاتصالات في الطب، 
 - **التوثيق:** استكشف الأدلة الشاملة في [توثيق Aspose.Imaging](https://reference.aspose.com/imaging/net/).
 - **تحميل:** احصل على أحدث إصدار من Aspose.Imaging من [صفحة الإصدارات](https://releases.aspose.com/imaging/net/).
 - **الشراء والترخيص:** مزيد من التفاصيل حول خيارات الشراء متاحة على [شراء](https://purchase.aspose.com/buy) و [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/).
-- **يدعم:** للاستفسارات أو المشكلات، قم بزيارة [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10).
+- **يدعم:** للاستفسارات أو المشكلات، قم بزيارة [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

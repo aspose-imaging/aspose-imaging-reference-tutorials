@@ -150,7 +150,7 @@ A5 : Les tâches incluent le redimensionnement, la conversion de format et l’
 - **Achat:** Explorez les options de licence sur [Achat Aspose](https://purchase.aspose.com/buy).
 - **Essai gratuit :** Commencez par un essai via [ici](https://releases.aspose.com/imaging/net/).
 - **Licence temporaire :** Demandez-en un pour des tests prolongés via [ce lien](https://purchase.aspose.com/temporary-license/).
-- **Soutien:** Rejoignez le forum communautaire à [Assistance Aspose](https://forum.aspose.com/c/imaging/10).
+- **Soutien:** Rejoignez le forum communautaire à [Assistance Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

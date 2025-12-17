@@ -196,7 +196,7 @@ Prozkoumejte další funkce Aspose.Imaging ponořením se do jejich komplexní d
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Zvládnutím těchto technik budete dobře vybaveni pro zvládání složitých úloh zpracování obrazu ve vašich aplikacích v Javě. Přejeme vám příjemné programování!
 

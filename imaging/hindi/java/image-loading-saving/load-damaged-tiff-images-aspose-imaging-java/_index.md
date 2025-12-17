@@ -155,7 +155,7 @@ Try-with-resources कथन यह सुनिश्चित करता ह
 - **खरीदना**: https://purchase.aspose.com/buy
 - **मुफ्त परीक्षण**: https://releases.aspose.com/imaging/java/
 - **अस्थायी लाइसेंस**: https://purchase.aspose.com/temporary-license/
-- **सहयता मंच**: https://forum.aspose.com/c/imaging/10
+- **सहयता मंच**: https://forum.aspose.com/c/imaging/14
 
 यह गाइड आपको Aspose.Imaging for Java का उपयोग करके क्षतिग्रस्त TIFF छवियों को संभालने के लिए ज्ञान और उपकरणों से लैस करता है। आज ही इन क्षमताओं का प्रयोग और अपने अनुप्रयोगों में एकीकरण शुरू करें!
 

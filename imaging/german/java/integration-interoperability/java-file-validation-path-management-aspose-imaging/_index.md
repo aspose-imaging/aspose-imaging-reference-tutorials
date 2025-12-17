@@ -221,7 +221,7 @@ A5: Fügen Sie die Aspose.Imaging-Abhängigkeit mit Maven oder Gradle zu Ihrem P
 - **Kaufen**: Erwerben Sie eine Lizenz über [Asposes Kaufseite](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: Experimentieren Sie mit [Kostenlose Testversion von Aspose](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**Erweiterten Zugriff erhalten Sie über [Asposes temporäre Lizenzseite](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: Engagieren Sie sich mit der Community und dem Support-Team auf [Asposes Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: Engagieren Sie sich mit der Community und dem Support-Team auf [Asposes Forum](https://forum.aspose.com/c/imaging/14)
 
 Mit dieser Anleitung sind Sie bestens gerüstet, um die Dateivalidierung und Pfadverwaltung in Ihren Java-Anwendungen mit Aspose.Imaging zu implementieren. Viel Spaß beim Programmieren!
 

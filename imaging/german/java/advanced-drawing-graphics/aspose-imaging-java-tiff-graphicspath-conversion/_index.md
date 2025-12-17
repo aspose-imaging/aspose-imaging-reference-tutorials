@@ -250,7 +250,7 @@ Sie haben nun gelernt, wie Sie TIFF‑Pfadressourcen in `GraphicsPath`‑Objekte
 - **Kauf:** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz anfordern:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support-Forum:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Support-Forum:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 ---
 

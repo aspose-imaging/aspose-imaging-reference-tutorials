@@ -206,7 +206,7 @@ Aspose.Imaging 설명서에서 추가 기능과 사용자 정의 옵션을 살�
 - [라이센스 구매](https://purchase.aspose.com/buy)
 - [무료 체험](https://releases.aspose.com/imaging/java/)
 - [임시 면허 요청](https://purchase.aspose.com/temporary-license/)
-- [지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 Java 프로젝트에서 Aspose.Imaging을 구현할 때 추가 지침과 지원을 얻으려면 이러한 리소스를 자유롭게 살펴보세요!
 

@@ -150,7 +150,7 @@ A: Den stöder en mängd olika format, inklusive JPEG, PNG, TIFF med flera. Kont
 A: Du kan börja med en gratis provperiod eller en tillfällig licens för att utvärdera funktionerna innan du bestämmer dig för att köpa.
 
 **F: Hur felsöker jag vanliga problem med bildinläsning i Aspose.Imaging?**
-A: Verifiera sökvägar för filer, kontrollera biblioteksversioner och konsultera [supportforum](https://forum.aspose.com/c/imaging/10) för hjälp.
+A: Verifiera sökvägar för filer, kontrollera biblioteksversioner och konsultera [supportforum](https://forum.aspose.com/c/imaging/14) för hjälp.
 
 ## Resurser
 - **Dokumentation**: [Aspose.Imaging .NET-referens](https://reference.aspose.com/imaging/net/)
@@ -158,7 +158,7 @@ A: Verifiera sökvägar för filer, kontrollera biblioteksversioner och konsulte
 - **Köp- och licensinformation**: [Aspose köpsida](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Starta din gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

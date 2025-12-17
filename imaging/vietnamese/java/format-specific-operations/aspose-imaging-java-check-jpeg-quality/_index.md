@@ -173,7 +173,7 @@ Bây giờ bạn đã thành thạo việc kiểm tra chất lượng hình ản
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Phiên bản dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Thông tin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách làm theo hướng dẫn này, bạn đang trên đường triển khai giải pháp mạnh mẽ để quản lý chất lượng hình ảnh JPEG với Aspose.Imaging for Java. Chúc bạn viết mã vui vẻ!
 

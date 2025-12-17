@@ -169,7 +169,7 @@ A3: ライブラリは、存在しないデータ フィールドに対して nu
 A4: 試用版には透かしや処理制限などの使用制限がある場合があります。
 
 **Q5: Aspose.Imaging で問題が発生した場合、どうすればサポートを受けることができますか?**
-A5: 訪問 [Asposeフォーラム](https://forum.aspose.com/c/imaging/10) コミュニティと公式サポートのため。
+A5: 訪問 [Asposeフォーラム](https://forum.aspose.com/c/imaging/14) コミュニティと公式サポートのため。
 
 ## リソース
 
@@ -178,7 +178,7 @@ A5: 訪問 [Asposeフォーラム](https://forum.aspose.com/c/imaging/10) コミ
 - **購入**ライセンスを取得する [Aspose 購入](https://purchase.aspose.com/buy)
 - **無料トライアル**無料トライアルから始めましょう [Aspose.Imaging 無料トライアル](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**一時ライセンスを申請する [Aspose 一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- **サポート**議論に参加する [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**議論に参加する [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java で旅に乗り出し、画像処理の新たな可能性を今すぐ解き放ちましょう。
 

@@ -186,7 +186,7 @@ Siap untuk mempraktikkan apa yang telah Anda pelajari? Pelajari lebih dalam deng
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Akses Uji Coba Gratis](https://releases.aspose.com/imaging/net/)
 - [Permintaan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Panduan komprehensif ini dirancang untuk membekali Anda dengan pengetahuan dan keterampilan yang dibutuhkan untuk mengintegrasikan kemampuan pemrosesan gambar EMF ke dalam aplikasi .NET Anda secara efektif. Dengan Aspose.Imaging, perluas perangkat pengembangan Anda dan tingkatkan fungsionalitas proyek Anda.
 

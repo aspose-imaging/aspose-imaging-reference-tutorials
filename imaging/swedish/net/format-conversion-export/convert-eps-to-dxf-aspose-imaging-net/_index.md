@@ -131,7 +131,7 @@ För att ytterligare förbättra dina färdigheter, överväg att utforska fler 
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Starta en gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Begär här](https://purchase.aspose.com/temporary-license/)
-- **Supportforum**: [Aspose-stöd](https://forum.aspose.com/c/imaging/10)
+- **Supportforum**: [Aspose-stöd](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

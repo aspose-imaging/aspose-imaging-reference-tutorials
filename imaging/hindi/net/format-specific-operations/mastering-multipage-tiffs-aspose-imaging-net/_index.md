@@ -158,7 +158,7 @@ Aspose.Imaging की अन्य सुविधाओं, जैसे छव
 - [खरीदना](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 यह व्यापक गाइड आपको अपनी परियोजनाओं में Aspose.Imaging for .NET का प्रभावी ढंग से उपयोग करने के ज्ञान से लैस करेगी। हैप्पी कोडिंग!
 

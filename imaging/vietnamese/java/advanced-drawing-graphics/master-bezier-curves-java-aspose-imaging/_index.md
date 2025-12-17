@@ -196,7 +196,7 @@ A: Kiểm tra cấu hình công cụ build, đảm bảo tham chiếu đúng phi
 - **Purchase:** [Buy Aspose.Imaging for Java](https://purchase.aspose.com/buy)
 - **Free Trial:** Start your free trial on the [Aspose website](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** Apply for a temporary license via [Aspose Purchase](https://purchase.aspose.com/temporary-license/)
-- **Support:** Join discussions in the [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** Join discussions in the [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Bắt đầu vẽ những đường cong này ngay hôm nay và nâng tầm các dự án Java của bạn với Aspose.Imaging!
 

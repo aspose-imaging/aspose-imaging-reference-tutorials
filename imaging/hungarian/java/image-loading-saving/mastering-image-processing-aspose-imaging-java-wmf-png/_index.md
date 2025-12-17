@@ -189,7 +189,7 @@ A5: Használja az Aspose.Imaging által biztosított különféle módszereket a
 - **Vásárlás**: Szerezzen be egy licencet a teljes funkciók feloldásához a következő címen: [Aspose vásárlási oldal](https://purchase.aspose.com/buy).
 - **Ingyenes próbaverzió**Teszteld az Aspose.Imaging képességeit a következőn keresztül: [ingyenes próbaverzió letöltések](https://releases.aspose.com/imaging/java/).
 - **Ideiglenes engedély**: Ideiglenes engedély igénylése meghosszabbított teszteléshez [itt](https://purchase.aspose.com/temporary-license/).
-- **Támogatás**Kérdés vagy segítség esetén látogassa meg a következőt: [Aspose támogatói fórum](https://forum.aspose.com/c/imaging/10).
+- **Támogatás**Kérdés vagy segítség esetén látogassa meg a következőt: [Aspose támogatói fórum](https://forum.aspose.com/c/imaging/14).
 
 Kezdje el képfeldolgozási útját még ma, és tárja fel az Aspose.Imaging teljes potenciálját Java nyelven!
 

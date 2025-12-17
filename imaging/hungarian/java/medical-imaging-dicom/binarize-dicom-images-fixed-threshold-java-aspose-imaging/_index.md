@@ -164,7 +164,7 @@ Készen állsz kipróbálni? Alkalmazd ezt a megoldást a projektedben még ma!
    - Optimalizáld a környezetedet és a kódodat a memóriakezelés szempontjából, hatékonyan használva a Java szemétgyűjtését.
 
 5. **Van elérhető támogatás, ha problémákba ütközöm?**
-   - Segítséget kérhet a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10).
+   - Segítséget kérhet a [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14).
 
 ## Erőforrás
 

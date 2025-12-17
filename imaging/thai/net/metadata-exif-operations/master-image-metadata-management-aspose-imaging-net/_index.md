@@ -195,7 +195,7 @@ image.Save(outputPath, exportOptions);
 - **ซื้อ:** [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - **ทดลองใช้งานฟรี:** [ลองใช้งานฟรี](https://releases.aspose.com/imaging/net/)
 - **ใบอนุญาตชั่วคราว:** [รับได้ที่นี่](https://purchase.aspose.com/temporary-license/)
-- **สนับสนุน:** [ฟอรั่มชุมชน](https://forum.aspose.com/c/imaging/10)
+- **สนับสนุน:** [ฟอรั่มชุมชน](https://forum.aspose.com/c/imaging/14)
 
 เราหวังว่าคู่มือนี้จะช่วยให้คุณจัดการข้อมูลเมตาของภาพได้อย่างมั่นใจด้วยการใช้ Aspose.Imaging สำหรับ .NET ขอให้สนุกกับการเขียนโค้ด!
 

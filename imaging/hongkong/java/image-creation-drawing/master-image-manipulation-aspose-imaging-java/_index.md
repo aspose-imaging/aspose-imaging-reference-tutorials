@@ -199,7 +199,7 @@ try (Image image = Image.load(dataDir + "sampleTiff1.tiff")) {
    - 它支援超過 50 種影像格式，包括 JPEG、PNG、TIFF 等。
 
 5. **如果我遇到問題，如何獲得協助？**
-   - 訪問 [Aspose 的論壇](https://forum.aspose.com/c/imaging/10) 尋求支持和社區建議。
+   - 訪問 [Aspose 的論壇](https://forum.aspose.com/c/imaging/14) 尋求支持和社區建議。
 
 ## 資源
 

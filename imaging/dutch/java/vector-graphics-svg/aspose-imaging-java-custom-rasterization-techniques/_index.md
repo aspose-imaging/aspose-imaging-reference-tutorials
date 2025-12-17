@@ -231,7 +231,7 @@ In deze tutorial heb je geleerd hoe je een standaardlettertype in je Java-applic
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefversie](https://releases.aspose.com/imaging/java/)
 - [Een tijdelijke licentie verkrijgen](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u goed toegerust om complexe beeldverwerkingstaken in Java uit te voeren met Aspose.Imaging. Veel plezier met coderen!
 

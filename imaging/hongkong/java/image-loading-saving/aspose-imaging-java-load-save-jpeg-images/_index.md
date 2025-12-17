@@ -176,7 +176,7 @@ Aspose.Imaging 提供多種應用程序，包括：
 - **購買：** [購買 Aspose 許可證選項](https://purchase.aspose.com/buy)
 - **免費試用：** [免費開始使用 Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **臨時執照：** [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- **支持：** [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 透過遵循本指南，您可以順利掌握使用 Java 中的 Aspose.Imaging 進行影像處理！
 

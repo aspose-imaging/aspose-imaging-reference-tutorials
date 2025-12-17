@@ -170,7 +170,7 @@ Aspose.Imaging を使用する際のパフォーマンスを最適化するに�
 - **購入：** [ライセンスを購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [今すぐ試す](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス:** [リクエストはこちら](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [質問する](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [質問する](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

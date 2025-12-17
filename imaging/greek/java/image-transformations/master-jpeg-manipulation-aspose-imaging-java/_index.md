@@ -198,7 +198,7 @@ try (JpegImage image = new JpegImage(1000, 1000)) {
 - **Αγορά**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δοκιμάστε το Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Με αυτόν τον ολοκληρωμένο οδηγό, είστε πλέον πλήρως προετοιμασμένοι να τελειοποιήσετε τον χειρισμό εικόνων χρησιμοποιώντας το Aspose.Imaging σε Java. Καλή κωδικοποίηση!
 

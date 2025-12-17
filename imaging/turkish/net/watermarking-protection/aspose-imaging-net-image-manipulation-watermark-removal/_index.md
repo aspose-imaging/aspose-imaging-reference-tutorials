@@ -167,7 +167,7 @@ Bir sonraki adım olarak Aspose.Imaging'in diğer gelişmiş özelliklerini dene
 - **Lisans Satın Al**: [Şimdi al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/net/)
 - **Geçici Lisans**: [Burada Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: [Sorular Sorun](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: [Sorular Sorun](https://forum.aspose.com/c/imaging/14)
 
 Bu kaynakları keşfederek Aspose.Imaging ve yeteneklerinde ustalaşmak için sağlam bir temele sahip olacaksınız. İyi kodlamalar!
 

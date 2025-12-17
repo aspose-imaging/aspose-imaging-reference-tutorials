@@ -203,7 +203,7 @@ További információkért és támogatásért:
 - **Licenc vásárlása:** [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió:** [Próbáld ki az Aspose.Imaging ingyenes verzióját](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes engedély:** [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum:** [Aspose.Imaging támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum:** [Aspose.Imaging támogatás](https://forum.aspose.com/c/imaging/14)
 
 Kezdje el felfedezni az Aspose.Imaging for Java lehetőségeit még ma, és fejlessze képfeldolgozási projektjeit!
 

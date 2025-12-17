@@ -177,7 +177,7 @@ Aspose.Imaging이 제공하는 기능을 더 자세히 알아보려면 광범위
 - **구입:** [라이센스 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [Aspose.Imaging을 사용해 보세요](https://releases.aspose.com/imaging/net/)
 - **임시 면허:** [임시 면허 취득](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다:** [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 최적의 JPEG 품질 설정을 보장하는 데 필요한 올바른 도구와 지식을 갖추고 있다는 확신을 가지고 다음 이미지 처리 프로젝트에 착수하세요.
 

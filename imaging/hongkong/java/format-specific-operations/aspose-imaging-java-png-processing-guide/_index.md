@@ -167,7 +167,7 @@ A5：是的，您可以在其中連結不同的過濾器設置 `PngOptions` 儲�
 - **購買：** [許可證獲取](https://purchase.aspose.com/buy)
 - **免費試用：** [先試後買](https://releases.aspose.com/imaging/java/)
 - **臨時執照：** [在此請求](https://purchase.aspose.com/temporary-license/)
-- **支援論壇：** [詢問社區](https://forum.aspose.com/c/imaging/10)
+- **支援論壇：** [詢問社區](https://forum.aspose.com/c/imaging/14)
 
 現在您已經掌握了這些知識，請繼續在您的 Java 專案中實作這些技術！
 

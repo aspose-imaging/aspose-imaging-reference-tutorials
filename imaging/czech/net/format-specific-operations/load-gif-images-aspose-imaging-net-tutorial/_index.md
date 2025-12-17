@@ -153,7 +153,7 @@ A5: Ano, nabízí různé optimalizační techniky pro efektivní správu využi
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/net/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Posuňte své .NET aplikace na další úroveň zvládnutím zpracování obrazu s Aspose.Imaging!
 

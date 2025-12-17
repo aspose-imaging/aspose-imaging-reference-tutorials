@@ -148,7 +148,7 @@ public static CustomFontData[] GetFontSource(params object[] args)
 - [購買](https://purchase.aspose.com/buy)
 - [免費試用](https://releases.aspose.com/imaging/net/)
 - [臨時執照](https://purchase.aspose.com/temporary-license/)
-- [支援論壇](https://forum.aspose.com/c/imaging/10)
+- [支援論壇](https://forum.aspose.com/c/imaging/14)
 
 擁抱 Aspose.Imaging for .NET 的強大功能並立即提升您的影像處理能力！
 

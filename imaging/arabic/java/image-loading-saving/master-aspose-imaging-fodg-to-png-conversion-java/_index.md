@@ -213,7 +213,7 @@ public class FeatureSaveImageAsPng {
 - **شراء**: [شراء منتجات Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [جرب Aspose.Imaging مجانًا](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 بإتقان هذه التقنيات، ستكون على الطريق الصحيح للاستفادة من Aspose.Imaging في مهام معالجة الصور المعقدة بلغة Java. برمجة ممتعة!
 

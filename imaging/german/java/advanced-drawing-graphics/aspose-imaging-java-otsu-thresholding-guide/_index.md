@@ -187,7 +187,7 @@ Dieser Codeausschnitt speichert das binärisierte Bild im JPEG-Format und stellt
 
 Sie beherrschen nun die Grundlagen der Verwendung von Aspose.Imaging für Java zum Laden, Verarbeiten und Speichern von Bildern mit Binärisierungstechniken. Experimentieren Sie weiter, indem Sie weitere Funktionen der Bibliothek erkunden, wie z. B. erweiterte Filterung oder Formatkonvertierung.
 
-Die nächsten Schritte umfassen die Integration dieser Funktionalität in Ihre Projekte und das Experimentieren mit verschiedenen Bildtypen und Verarbeitungsszenarien. Kontaktieren Sie uns gerne über das [Aspose-Supportforum](https://forum.aspose.com/c/imaging/10) für Ihre Fragen!
+Die nächsten Schritte umfassen die Integration dieser Funktionalität in Ihre Projekte und das Experimentieren mit verschiedenen Bildtypen und Verarbeitungsszenarien. Kontaktieren Sie uns gerne über das [Aspose-Supportforum](https://forum.aspose.com/c/imaging/14) für Ihre Fragen!
 
 ## FAQ-Bereich
 

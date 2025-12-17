@@ -153,7 +153,7 @@ Khám phá các tính năng bổ sung của Aspose.Imaging, chẳng hạn như c
 - **Giấy phép mua hàng:** [Mua ngay](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bắt đầu với bản dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời:** [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ:** [Hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** [Hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Với hướng dẫn này, bạn sẽ được trang bị đầy đủ để tích hợp chuyển đổi DICOM sang PNG vào các dự án .NET của mình. Chúc bạn viết mã vui vẻ!
 

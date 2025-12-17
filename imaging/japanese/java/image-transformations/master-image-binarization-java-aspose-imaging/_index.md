@@ -191,7 +191,7 @@ A5: はい、Aspose.Imaging は JPEG、PNG、BMP など、幅広い画像形式�
 - **購入：** [Aspose.License を購入](https://purchase.aspose.com/buy)
 - **無料トライアル:** [無料トライアルを始める](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス:** [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート：** [Asposeフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このチュートリアルに従うことで、Aspose.Imaging for Java を使って画像の二値化タスクを効果的にこなすスキルを身に付けることができます。コーディングを楽しみましょう！
 

@@ -204,7 +204,7 @@ A5：使用批次功能並確保您的 JVM 具有足夠的記憶體分配以有�
 - [下載 Aspose.Imaging for Java](https://releases.aspose.com/imaging/java/)
 - [購買許可證](https://purchase.aspose.com/buy)
 - [免費試用和臨時許可證](https://releases.aspose.com/imaging/java/)
-- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
 
 深入研究這些資源，擴展您使用 Aspose.Imaging for Java 的知識和能力。祝您程式愉快！
 

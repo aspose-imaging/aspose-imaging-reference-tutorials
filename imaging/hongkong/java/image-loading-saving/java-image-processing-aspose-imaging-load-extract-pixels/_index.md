@@ -204,7 +204,7 @@ for (int y = desiredArea.getTop(); y < bottom; ++y) {
 - **購買**：直接從 [購買 Aspose](https://purchase.aspose.com/buy)
 - **免費試用**：開始嘗試 [免費試用許可證](https://releases.aspose.com/imaging/java/)
 - **臨時執照**：獲得臨時測試許可證 [臨時執照](https://purchase。aspose.com/temporary-license/).
-- **支援**：加入社區 [Aspose 論壇](https://forum.aspose.com/c/imaging/10) 如有任何疑問或討論。
+- **支援**：加入社區 [Aspose 論壇](https://forum.aspose.com/c/imaging/14) 如有任何疑問或討論。
 
 透過學習本教程，您現在可以使用 Aspose.Imaging 在 Java 中處理複雜的圖像處理任務。祝您程式愉快！
 

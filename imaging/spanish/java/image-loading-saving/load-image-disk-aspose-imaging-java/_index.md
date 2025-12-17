@@ -182,7 +182,7 @@ Ya domina la carga de imágenes desde el disco con Aspose.Imaging para Java. Est
 - [Opciones de compra](https://purchase.aspose.com/buy)
 - [Acceso de prueba gratuito](https://releases.aspose.com/imaging/java/)
 - [Solicitud de licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Apoyo comunitario](https://forum.aspose.com/c/imaging/10)
+- [Apoyo comunitario](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo esta guía, estarás bien preparado para aprovechar el potencial de Aspose.Imaging para Java en tus proyectos. ¡Que disfrutes programando!
 

@@ -163,7 +163,7 @@ C: Aspose.Imaging'in kendisi yerleşik çoklu iş parçacığı sağlamazken, Ja
 A: Ücretsiz deneme tam işlevselliğe izin verir ancak görsellere filigran ekler ve kullanım süresini sınırlar. Kesintisiz erişim için geçici veya satın alınmış bir lisans edinmeyi düşünün.
 
 **S5: Görüntü işlemeyle ilgili yaygın sorunları nasıl giderebilirim?**
-A: Dosya yollarınızın doğru olduğundan emin olun, yeterli sistem kaynağınız olduğunu kontrol edin ve şuraya bakın: [destek forumu](https://forum.aspose.com/c/imaging/10) eğer gerekirse.
+A: Dosya yollarınızın doğru olduğundan emin olun, yeterli sistem kaynağınız olduğunu kontrol edin ve şuraya bakın: [destek forumu](https://forum.aspose.com/c/imaging/14) eğer gerekirse.
 
 ## Kaynaklar
 
@@ -172,7 +172,7 @@ A: Dosya yollarınızın doğru olduğundan emin olun, yeterli sistem kaynağın
 - **Satın almak**: Lisansı şu şekilde edinin: [Aspose'un satın alma sayfası](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: Özellikleri keşfetmeye başlayın [ücretsiz deneme sürümü](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans**: Geçici lisans talebinde bulunun [Aspose'nin geçici lisans sayfası](https://purchase.aspose.com/temporary-license/)
-- **Destek**: Herhangi bir sorunuz varsa, şu adresi ziyaret edin: [destek forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: Herhangi bir sorunuz varsa, şu adresi ziyaret edin: [destek forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kapsamlı kılavuzla, Aspose.Imaging for Java'yı kullanarak görüntü işleme yeteneklerinizi geliştirmeye hazırsınız!
 

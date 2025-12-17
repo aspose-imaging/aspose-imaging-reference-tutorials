@@ -196,7 +196,7 @@ A: Teljes mértékben, használhatja például Spring keretrendszerrel vagy Apac
 - **Purchase:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)  
 - **Free Trial:** [Get Started with Free Trial](https://releases.aspose.com/imaging/java/)  
 - **Temporary License:** [Acquire Temporary License](https://purchase.aspose.com/temporary-license/)  
-- **Support Forum:** [Aspose Community Support](https://forum.aspose.com/c/imaging/10)
+- **Support Forum:** [Aspose Community Support](https://forum.aspose.com/c/imaging/14)
 
 **Utoljára frissítve:** 2025-12-17  
 **Tesztelve a következővel:** Aspose.Imaging 25.5 for Java  

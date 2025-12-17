@@ -204,7 +204,7 @@ A5: Utilizzare le funzionalità di elaborazione batch e assicurarsi che la JVM d
 - [Scarica Aspose.Imaging per Java](https://releases.aspose.com/imaging/java/)
 - [Acquista una licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita e licenza temporanea](https://releases.aspose.com/imaging/java/)
-- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
 Immergiti in queste risorse per ampliare le tue conoscenze e capacità con Aspose.Imaging per Java. Buon coding!
 

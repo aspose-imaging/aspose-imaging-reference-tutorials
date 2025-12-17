@@ -191,7 +191,7 @@ Je hebt nu geleerd hoe je TIFF-afbeeldingen in Java efficiënt kunt laden en ver
    - Ja, het ondersteunt talloze afbeeldingsformaten, zoals JPEG, PNG, BMP en meer.
 
 5. **Waar kan ik ondersteuning vinden als ik problemen ondervind?**
-   - Bezoek de [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10) voor steun van de gemeenschap en de overheid.
+   - Bezoek de [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14) voor steun van de gemeenschap en de overheid.
 
 ## Bronnen
 

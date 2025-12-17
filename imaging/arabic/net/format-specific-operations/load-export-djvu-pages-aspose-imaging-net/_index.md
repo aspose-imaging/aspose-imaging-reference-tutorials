@@ -168,7 +168,7 @@ foreach (var pageIndex in pagesToExport)
 - [شراء](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/net/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 استكشف هذه الموارد لتعزيز فهمك وتطبيقك لـ Aspose.Imaging .NET للتعامل مع ملفات DjVu. برمجة ممتعة!
 

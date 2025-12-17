@@ -219,7 +219,7 @@ void saveAsTiff(RasterImage rasterImage) {
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用产品](https://releases.aspose.com/imaging/java/)
 - [临时许可证信息](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/10)
+- [Aspose 支持论坛](https://forum.aspose.com/c/imaging/14)
 
 利用 Aspose.Imaging for Java，您可以解锁强大的图像处理功能，从而简化您的开发流程。祝您编码愉快！
 

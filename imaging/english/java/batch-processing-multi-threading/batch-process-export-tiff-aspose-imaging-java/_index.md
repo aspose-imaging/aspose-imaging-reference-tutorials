@@ -170,7 +170,7 @@ A: While Aspose.Imaging itself does not provide built-in multi-threading, you ca
 A: The free trial allows full functionality but adds watermarks to images and limits usage time. Consider obtaining a temporary or purchased license for uninterrupted access.
 
 **Q5: How do I troubleshoot common issues with image processing?**
-A: Ensure your file paths are correct, check that you have sufficient system resources, and refer to the [support forum](https://forum.aspose.com/c/imaging/10) if needed.
+A: Ensure your file paths are correct, check that you have sufficient system resources, and refer to the [support forum](https://forum.aspose.com/c/imaging/14) if needed.
 
 ## Resources
 
@@ -179,7 +179,7 @@ A: Ensure your file paths are correct, check that you have sufficient system res
 - **Purchase**: Acquire a license through [Aspose's purchase page](https://purchase.aspose.com/buy)
 - **Free Trial**: Start exploring features with the [free trial version](https://releases.aspose.com/imaging/java/)
 - **Temporary License**: Request a temporary license via [Aspose's temporary license page](https://purchase.aspose.com/temporary-license/)
-- **Support**: For any questions, visit the [support forum](https://forum.aspose.com/c/imaging/10)
+- **Support**: For any questions, visit the [support forum](https://forum.aspose.com/c/imaging/14)
 
 With this comprehensive guide, you're ready to enhance your image processing capabilities using Aspose.Imaging for Java!
 

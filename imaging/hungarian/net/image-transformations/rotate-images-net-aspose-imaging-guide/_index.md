@@ -156,7 +156,7 @@ További olvasmányért és segítségért:
 - **Vásárlás**: [Licenc vásárlása](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Próbálja ki az Aspose.Imaging-et most](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Kérelem itt](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**Látogassa meg a [Aspose Fórum](https://forum.aspose.com/c/imaging/10) segítségért és közösségi beszélgetésekért.
+- **Támogatás**Látogassa meg a [Aspose Fórum](https://forum.aspose.com/c/imaging/14) segítségért és közösségi beszélgetésekért.
 
 Ezen technikák elsajátításával felkészült leszel arra, hogy magabiztosan kezelj a képfeldolgozási feladatok széles skáláját. Jó programozást!
 

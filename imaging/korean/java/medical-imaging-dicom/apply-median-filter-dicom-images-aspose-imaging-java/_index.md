@@ -185,7 +185,7 @@ A: 다른 것을 사용하세요 `ImageOptions` Aspose.Imaging에서 제공하�
 - **라이센스 구매**: [지금 구매하세요](https://purchase.aspose.com/buy)
 - **무료 체험**: [시작하기](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [여기에서 신청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [Aspose.Imaging 지원](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [Aspose.Imaging 지원](https://forum.aspose.com/c/imaging/14)
 
 지금 당장 Aspose.Imaging for Java의 강력한 이미지 처리 기능을 탐색해보세요!
 

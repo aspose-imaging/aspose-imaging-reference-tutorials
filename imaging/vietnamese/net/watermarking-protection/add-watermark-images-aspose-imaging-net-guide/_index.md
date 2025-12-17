@@ -158,7 +158,7 @@ Bằng cách làm theo hướng dẫn này, bạn đã học cách thêm hình m
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Tải xuống dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách tận dụng các tài nguyên này, bạn có thể khám phá và làm chủ thêm thư viện Aspose.Imaging cho .NET. Chúc bạn viết mã vui vẻ!
 

@@ -162,7 +162,7 @@ C5: Nesneleri ihtiyaç duyulmadığında kapatarak görüntüleri sıralı olara
 - **Satın almak:** [Şimdi al](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme:** [Buradan Başlayın](https://releases.aspose.com/imaging/java/)
 - **Geçici Lisans:** [Geçici Lisans Alın](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Topluluk Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek:** [Topluluk Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kaynaklardan yararlanarak Aspose.Imaging for Java'nın anlaşılmasını ve uygulanmasını daha da geliştirebilirsiniz. İyi kodlamalar!
 

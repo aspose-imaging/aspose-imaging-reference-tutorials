@@ -192,7 +192,7 @@ A: Verifique los recursos del sistema y optimice el uso de la memoria. Considere
 - **Descargar:** Obtenga la última versión de [Lanzamientos de Aspose.Imaging](https://releases.aspose.com/imaging/java/).
 - **Compra:** Obtenga una licencia completa en [Página de compra de Aspose](https://purchase.aspose.com/buy).
 - **Prueba gratuita y licencia temporal:** Experimente las funciones sin limitaciones obteniendo una prueba gratuita o una licencia temporal en los enlaces respectivos.
-- **Apoyo:** Para obtener más ayuda, visite el sitio web [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10).
+- **Apoyo:** Para obtener más ayuda, visite el sitio web [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

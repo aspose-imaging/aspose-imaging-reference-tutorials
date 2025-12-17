@@ -194,7 +194,7 @@ A: Απόλυτα, μπορείτε να το χρησιμοποιήσετε μ�
 - **Αγορά:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)  
 - **Δωρεάν Δοκιμή:** [Get Started with Free Trial](https://releases.aspose.com/imaging/java/)  
 - **Προσωρινή Άδεια:** [Acquire Temporary License](https://purchase.aspose.com/temporary-license/)  
-- **Φόρουμ Υποστήριξης:** [Aspose Community Support](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ Υποστήριξης:** [Aspose Community Support](https://forum.aspose.com/c/imaging/14)
 
 **Τελευταία ενημέρωση:** 2025-12-17  
 **Δοκιμή με:** Aspose.Imaging 25.5 for Java  

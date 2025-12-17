@@ -156,7 +156,7 @@ image.Save(outputDir + "RotatingImageOnSpecificAngle_out.jpg");
 - **Αγορά**: [Αγοράστε μια άδεια χρήσης](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δοκιμάστε το Aspose.Imaging τώρα](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια**: [Αίτημα εδώ](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: Επισκεφθείτε το [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10) για βοήθεια και συζητήσεις στην κοινότητα.
+- **Υποστήριξη**: Επισκεφθείτε το [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14) για βοήθεια και συζητήσεις στην κοινότητα.
 
 Κατακτώντας αυτές τις τεχνικές, θα είστε άρτια εξοπλισμένοι για να αντιμετωπίσετε ένα ευρύ φάσμα εργασιών επεξεργασίας εικόνας με σιγουριά. Καλή κωδικοποίηση!
 

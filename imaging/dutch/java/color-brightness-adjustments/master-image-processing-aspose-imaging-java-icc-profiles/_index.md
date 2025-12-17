@@ -201,7 +201,7 @@ Klaar om dieper te duiken? Implementeer deze oplossingen in uw projecten en ontd
 - [Aankooplicentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Ontdek deze bronnen om je kennis te verdiepen en je beeldverwerkingsmogelijkheden met Aspose.Imaging voor Java te verbeteren. Veel plezier met coderen!
 

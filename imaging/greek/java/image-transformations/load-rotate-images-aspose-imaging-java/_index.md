@@ -193,7 +193,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 - **Αγορά:** Αγοράστε άδειες χρήσης μέσω του [Πύλη αγορών Aspose](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** Αποκτήστε πρόσβαση σε προσωρινή άδεια μέσω [Δωρεάν δοκιμές Aspose](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** Αποκτήστε ένα στο [Προσωρινές Άδειες Aspose](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** Γίνετε μέλος της κοινότητας και λάβετε βοήθεια στο [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** Γίνετε μέλος της κοινότητας και λάβετε βοήθεια στο [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, μπορείτε να ενσωματώσετε αποτελεσματικά το Aspose.Imaging στα έργα σας Java για να χειρίζεστε εύκολα τη φόρτωση και την περιστροφή εικόνων. Καλή κωδικοποίηση!
 

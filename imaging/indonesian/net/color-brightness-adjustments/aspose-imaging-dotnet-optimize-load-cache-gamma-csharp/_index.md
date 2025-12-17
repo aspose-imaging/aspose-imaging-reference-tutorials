@@ -217,7 +217,7 @@ Dengan memanfaatkan Aspose.Imaging untuk .NET, Anda telah mempelajari cara memua
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Coba Aspose.Imaging Gratis](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda kini siap menerapkan fitur pemrosesan gambar tingkat lanjut di aplikasi .NET Anda menggunakan Aspose.Imaging. Nikmati penjelajahan lebih jauh dan tingkatkan proyek Anda!
 

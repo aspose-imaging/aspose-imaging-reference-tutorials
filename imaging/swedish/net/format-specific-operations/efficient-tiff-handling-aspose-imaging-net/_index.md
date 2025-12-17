@@ -193,7 +193,7 @@ Försök att implementera dessa lösningar i dina projekt idag!
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Gratis provversion](https://releases.aspose.com/imaging/net/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din resa för att optimera TIFF-hanteringen med Aspose.Imaging i .NET idag!
 

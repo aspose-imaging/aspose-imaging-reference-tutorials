@@ -252,7 +252,7 @@ Du har nu lärt dig hur du konverterar TIFF‑path‑resurser till `GraphicsPath
 - **Köp:** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
 - **Gratis prov:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Tillfällig licens:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Supportforum:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Supportforum:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 ---
 

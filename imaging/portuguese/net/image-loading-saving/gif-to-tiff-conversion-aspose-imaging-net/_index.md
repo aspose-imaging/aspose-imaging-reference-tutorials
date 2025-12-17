@@ -177,7 +177,7 @@ R: O TIFF oferece maior qualidade e suporta mais profundidades de cor, ideal par
 - **Comprar uma licença**: [Página de compra da Aspose](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Experimente o Aspose.Imaging gratuitamente](https://releases.aspose.com/imaging/net/)
 - **Licença Temporária**: [Solicitar Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- **Suporte e Comunidade**: [Fóruns Aspose](https://forum.aspose.com/c/imaging/10)
+- **Suporte e Comunidade**: [Fóruns Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -126,7 +126,7 @@ A5: Sí, Aspose.Imaging admite entornos de nube, lo que permite la integración 
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Obtenga una prueba gratuita](https://releases.aspose.com/imaging/net/)
 - [Solicitar una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

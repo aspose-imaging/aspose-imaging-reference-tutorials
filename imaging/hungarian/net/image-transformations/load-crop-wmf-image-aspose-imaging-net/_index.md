@@ -186,7 +186,7 @@ A következő lépések magukban foglalhatják az Aspose.Imaging által támogat
 - **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
 - **Ingyenes próbaverzió**: [Ingyenes próbaverzió igénylése](https://releases.aspose.com/imaging/net/)
 - **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatási fórum**: [Aspose képalkotási támogatás](https://forum.aspose.com/c/imaging/10)
+- **Támogatási fórum**: [Aspose képalkotási támogatás](https://forum.aspose.com/c/imaging/14)
 
 Indulj el az Aspose.Imaging utadra még ma, és hozd ki a .NET képfeldolgozásának teljes potenciálját!
 

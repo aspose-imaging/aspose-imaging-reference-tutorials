@@ -158,7 +158,7 @@ Dans ce tutoriel, nous avons exploré comment ouvrir et traiter des images à l'
 - [Acheter une licence](https://purchase.aspose.com/buy)
 - [Version d'essai gratuite](https://releases.aspose.com/imaging/java/)
 - [Demande de permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ce guide complet devrait vous aider à implémenter et à utiliser efficacement Aspose.Imaging Java pour le traitement d'images basé sur les flux, améliorant ainsi les performances et les capacités de vos applications.
 

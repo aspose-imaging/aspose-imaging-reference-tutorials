@@ -155,7 +155,7 @@ try (Image image = Image.load(dataDir, loadOptions)) {
 - **ซื้อ**: https://purchase.aspose.com/ซื้อ
 - **ทดลองใช้งานฟรี**: https://releases.aspose.com/imaging/java/
 - **ใบอนุญาตชั่วคราว**: https://purchase.aspose.com/ใบอนุญาตชั่วคราว/
-- **ฟอรั่มสนับสนุน**: https://forum.aspose.com/c/imaging/10
+- **ฟอรั่มสนับสนุน**: https://forum.aspose.com/c/imaging/14
 
 คู่มือนี้จะช่วยให้คุณมีความรู้และเครื่องมือในการจัดการรูปภาพ TIFF ที่เสียหายโดยใช้ Aspose.Imaging สำหรับ Java เริ่มทดลองใช้และผสานรวมความสามารถเหล่านี้เข้ากับแอปพลิเคชันของคุณได้แล้ววันนี้!
 

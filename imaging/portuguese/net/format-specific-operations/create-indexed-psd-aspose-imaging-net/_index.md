@@ -150,7 +150,7 @@ Pronto para explorar mais? Experimente implementar a solução em um cenário re
 - **Comprar:** [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste gratuito:** [Comece com um teste gratuito](https://releases.aspose.com/imaging/net/)
 - **Licença temporária:** [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Fórum de suporte:** [Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum de suporte:** [Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Embarque em sua jornada de imagem com a Aspose.Imaging hoje mesmo e descubra novas possibilidades na manipulação de imagens digitais!
 

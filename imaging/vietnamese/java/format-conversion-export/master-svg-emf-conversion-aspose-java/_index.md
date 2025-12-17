@@ -204,7 +204,7 @@ A5: Sử dụng tính năng xử lý hàng loạt và đảm bảo JVM của b�
 - [Tải xuống Aspose.Imaging cho Java](https://releases.aspose.com/imaging/java/)
 - [Mua giấy phép](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí và Giấy phép tạm thời](https://releases.aspose.com/imaging/java/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Khám phá các tài nguyên này để mở rộng kiến thức và khả năng của bạn với Aspose.Imaging for Java. Chúc bạn viết mã vui vẻ!
 

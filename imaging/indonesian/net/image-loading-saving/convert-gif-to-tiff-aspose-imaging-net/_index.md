@@ -154,7 +154,7 @@ Dalam tutorial ini, Anda telah mempelajari cara mengonversi bingkai individual d
 - [Unduh Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - [Beli Opsi Lisensi Aspose](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis dan Lisensi Sementara](https://releases.aspose.com/imaging/net/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

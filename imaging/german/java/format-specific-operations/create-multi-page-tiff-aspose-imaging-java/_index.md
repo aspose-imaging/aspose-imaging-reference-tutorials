@@ -203,7 +203,7 @@ Wir empfehlen Ihnen, diese Lösung in Ihrem nächsten Projekt zu implementieren 
 - [Erwerben Sie eine Lizenz](https://purchase.aspose.com/buy)
 - [Kostenloser Testzugang](https://releases.aspose.com/imaging/java/)
 - [Erhalten Sie eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Wenn Sie dieser Anleitung folgen, sind Sie gut gerüstet, um mehrseitige TIFF-Dateien mit Aspose.Imaging für Java zu erstellen und zu bearbeiten. Viel Spaß beim Programmieren!
 

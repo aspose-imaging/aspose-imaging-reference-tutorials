@@ -203,7 +203,7 @@ A5: Visita il [Documentazione di Aspose](https://reference.aspose.com/imaging/ja
 - **Acquistare**: https://purchase.aspose.com/buy
 - **Prova gratuita**: https://releases.aspose.com/imaging/java/
 - **Licenza temporanea**: https://purchase.aspose.com/temporary-license/
-- **Supporto**: https://forum.aspose.com/c/imaging/10
+- **Supporto**: https://forum.aspose.com/c/imaging/14
 
 Esplora queste risorse per approfondire ulteriormente la tua comprensione e applicazione di Aspose.Imaging in Java. Buona programmazione!
 

@@ -201,7 +201,7 @@ Ready to take your image processing skills to the next level? Try implementing t
 - **Purchase**: Obtain a full license through [Aspose's purchase page](https://purchase.aspose.com/buy).
 - **Free Trial**: Start with a free trial to explore features at [Aspose Downloads](https://releases.aspose.com/imaging/java/).
 - **Temporary License**: Request a temporary license for extended testing at [Aspose Temporary License](https://purchase.aspose.com/temporary-license/).
-- **Support**: Join the community and seek help on the [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Support**: Join the community and seek help on the [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

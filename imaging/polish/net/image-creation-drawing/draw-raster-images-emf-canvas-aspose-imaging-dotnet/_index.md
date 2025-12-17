@@ -142,7 +142,7 @@ Najlepsze praktyki obejmują stosowanie `using` instrukcje dotyczące automatycz
 ## Wniosek
 Teraz nauczyłeś się rysować obrazy rastrowe na płótnach EMF za pomocą Aspose.Imaging dla .NET. Ta możliwość może znacznie poprawić jakość wizualną Twoich projektów, oferując połączenie precyzji wektorowej i bogactwa rastra.
 
-W miarę postępów rozważ eksplorację dodatkowych funkcji Aspose.Imaging lub integrację tej funkcjonalności z większymi przepływami pracy w swoich aplikacjach. Jeśli masz dalsze pytania, nie wahaj się skontaktować z nami za pośrednictwem [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10).
+W miarę postępów rozważ eksplorację dodatkowych funkcji Aspose.Imaging lub integrację tej funkcjonalności z większymi przepływami pracy w swoich aplikacjach. Jeśli masz dalsze pytania, nie wahaj się skontaktować z nami za pośrednictwem [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Sekcja FAQ
 **1. Czym jest plik EMF?**

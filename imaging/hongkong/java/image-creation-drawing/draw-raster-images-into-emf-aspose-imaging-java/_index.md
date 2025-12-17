@@ -214,7 +214,7 @@ try (EmfImage emfMetafileImage = emfRecorderGraphics.endRecording()) {
 - **購買**： [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
 - **免費試用**： [免費試用 Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **臨時執照**： [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-- **支援論壇**： [Aspose.Imaging 支持](https://forum.aspose.com/c/imaging/10) 
+- **支援論壇**： [Aspose.Imaging 支持](https://forum.aspose.com/c/imaging/14) 
 
 立即踏上 Aspose.Imaging for Java 之旅，釋放影像處理的新潛力！
 

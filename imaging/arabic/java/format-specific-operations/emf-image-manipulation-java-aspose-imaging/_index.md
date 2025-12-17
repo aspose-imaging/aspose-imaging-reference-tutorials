@@ -247,7 +247,7 @@ public class SaveAsPNGExample {
 - [شراء](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
 - [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- [منتدى الدعم](https://forum.aspose.com/c/imaging/10)
+- [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
 باتباع هذا الدليل الشامل، ستكون جاهزًا تمامًا لدمج إمكانيات معالجة الصور المتقدمة في تطبيقات جافا باستخدام Aspose.Imaging. برمجة ممتعة!
 

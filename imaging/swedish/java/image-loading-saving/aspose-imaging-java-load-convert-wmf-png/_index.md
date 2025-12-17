@@ -202,7 +202,7 @@ Redo att implementera dessa lösningar? Dyk ner i den avancerade bildbehandlinge
    - Använd lämpliga rasteriseringsinställningar och övervaka systemresurser under batchbearbetning.
 
 5. **Hur får jag support om jag stöter på problem?**
-   - Besök [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/10) för stöd från samhället eller kontakta deras professionella supportteam.
+   - Besök [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14) för stöd från samhället eller kontakta deras professionella supportteam.
 
 ## Resurser
 

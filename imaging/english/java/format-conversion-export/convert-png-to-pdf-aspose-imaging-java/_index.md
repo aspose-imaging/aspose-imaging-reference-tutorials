@@ -201,7 +201,7 @@ By following this guide, you’ve learned how to load a PNG file, set PDF docume
 - [Purchase](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/java/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Embark on your next project with confidence, knowing that Aspose.Imaging for Java has got you covered!
 

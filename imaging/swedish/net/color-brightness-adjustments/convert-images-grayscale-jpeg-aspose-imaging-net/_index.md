@@ -155,7 +155,7 @@ Redo att dyka djupare? Försök att implementera dessa tekniker idag!
    Ja, den kan användas i vilken produktionsmiljö som helst efter att en licens har köpts.
 
 5. **Finns det support tillgänglig för felsökning av problem med Aspose.Imaging?**
-   Ja, du kan söka hjälp från [Aspose-forum](https://forum.aspose.com/c/imaging/10).
+   Ja, du kan söka hjälp från [Aspose-forum](https://forum.aspose.com/c/imaging/14).
 
 ## Resurser
 - **Dokumentation:** https://reference.aspose.com/imaging/net/
@@ -163,7 +163,7 @@ Redo att dyka djupare? Försök att implementera dessa tekniker idag!
 - **Köpa:** https://purchase.aspose.com/buy
 - **Gratis provperiod:** https://releases.aspose.com/imaging/net/
 - **Tillfällig licens:** https://purchase.aspose.com/temporary-license/
-- **Stöd:** https://forum.aspose.com/c/imaging/10
+- **Stöd:** https://forum.aspose.com/c/imaging/14
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

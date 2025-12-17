@@ -161,7 +161,7 @@ using (FileStream stream = new FileStream("YOUR_OUTPUT_DIRECTORY\DrawingEllipse_
 - [购买许可证](https://purchase.aspose.com/buy)
 - [免费试用](https://releases.aspose.com/imaging/net/)
 - [临时执照](https://purchase.aspose.com/temporary-license/)
-- [支持论坛](https://forum.aspose.com/c/imaging/10)
+- [支持论坛](https://forum.aspose.com/c/imaging/14)
 
 尝试在您的下一个项目中实施这些技术，看看 Aspose.Imaging for .NET 如何增强您的图像处理能力！
 

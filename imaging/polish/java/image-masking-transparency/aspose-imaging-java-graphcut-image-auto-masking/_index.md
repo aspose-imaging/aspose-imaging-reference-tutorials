@@ -205,7 +205,7 @@ W tym samouczku zbadaliśmy, jak zaimplementować automatyczne maskowanie obrazu
 - Eksperymentuj z różnymi konfiguracjami opcji maskowania.
 - Poznaj inne funkcje oferowane przez Aspose.Imaging, które pozwalają na dodatkowe przetwarzanie obrazu.
 
-W przypadku dalszych pytań lub uzyskania pomocy odwiedź stronę [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10).
+W przypadku dalszych pytań lub uzyskania pomocy odwiedź stronę [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14).
 
 ## Sekcja FAQ
 
@@ -231,7 +231,7 @@ A: Bezpłatna wersja próbna umożliwia przetestowanie wszystkich funkcji, ale z
 - **Zakup**: [Kup opcje licencjonowania Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Zacznij od bezpłatnego okresu próbnego](https://releases.aspose.com/imaging/java/)
 - **Licencja tymczasowa**: [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij przygodę z automatycznym maskowaniem obrazów za pomocą Aspose.Imaging i Java już dziś!
 

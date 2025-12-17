@@ -160,7 +160,7 @@ R5: Com certeza. Seu robusto conjunto de recursos e otimizações de desempenho 
 - **Comprar**: [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Experimente grátis](https://releases.aspose.com/imaging/net/)
 - **Licença Temporária**: [Solicitar uma Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum de Suporte Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum de Suporte Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Com esses recursos e este guia, você estará bem equipado para começar a trabalhar com imagens DICOM usando o Aspose.Imaging no .NET. Boa programação!
 

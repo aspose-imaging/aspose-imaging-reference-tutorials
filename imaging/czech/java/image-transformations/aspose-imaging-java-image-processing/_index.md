@@ -183,7 +183,7 @@ Doporučujeme vám vyzkoušet implementaci těchto řešení do vašich projekt�
 - **Nákup**Pokud potřebujete dlouhodobý přístup, zvažte zakoupení licence.
 - **Bezplatná zkušební verze**Začněte s bezplatnou zkušební verzí a prozkoumejte funkce na [Bezplatná zkušební verze Aspose](https://releases.aspose.com/imaging/java/).
 - **Dočasná licence**Získejte dočasnou licenci pro rozšířené hodnocení od [Dočasná licence Aspose](https://purchase.aspose.com/temporary-license/).
-- **Podpora**Zapojte se do diskusí a získejte pomoc s [Fórum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Podpora**Zapojte se do diskusí a získejte pomoc s [Fórum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Šťastné programování a ať je vaše zpracování obrázků bezproblémové a efektivní!
 

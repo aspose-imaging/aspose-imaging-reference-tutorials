@@ -176,7 +176,7 @@ A5: 물론입니다. 다른 라이브러리와 쉽게 통합되어 함께 사용
 - **구입**: [라이센스 구매](https://purchase.aspose.com/buy)
 - **무료 체험**: [여기서 시작하세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [지금 신청하세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다**: [커뮤니티 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원하다**: [커뮤니티 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 포괄적인 가이드를 통해 이제 Aspose.Imaging을 사용하여 Java에서 이미지 로딩 및 크기 조정을 완벽하게 익힐 수 있습니다. 즐거운 코딩 되세요!
 

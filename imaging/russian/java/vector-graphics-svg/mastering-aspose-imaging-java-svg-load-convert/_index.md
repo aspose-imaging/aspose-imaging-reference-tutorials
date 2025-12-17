@@ -160,7 +160,7 @@ Aspose.Imaging предлагает различные способы интег
 - **Покупка:** [Купить лицензию Aspose](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия:** [Начать бесплатную пробную версию](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия:** [Получить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать:** [Поддержка форума Aspose](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать:** [Поддержка форума Aspose](https://forum.aspose.com/c/imaging/14)
 
 Следуя этому руководству, вы будете на пути к освоению обработки изображений SVG в Java с помощью Aspose.Imaging. Удачного кодирования!
 

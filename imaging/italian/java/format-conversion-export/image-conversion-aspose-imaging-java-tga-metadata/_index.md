@@ -199,7 +199,7 @@ In questo tutorial, hai imparato come convertire file JPEG e PNG in formato TGA 
 - **Documentazione**: Scopri di più su [Documentazione di Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - **Scaricamento**: Ottieni le ultime uscite da [Pagina di rilascio di Aspose](https://releases.aspose.com/imaging/java/).
 - **Acquisto e prova gratuita**: Prova le funzionalità oggi su [Pagina di acquisto e prova gratuita di Aspose](https://purchase.aspose.com/buy).
-- **Supporto**: Partecipa alle discussioni su [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Supporto**: Partecipa alle discussioni su [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Ci auguriamo che questa guida ti aiuti a utilizzare Aspose.Imaging Java in modo efficace per le tue esigenze di elaborazione delle immagini. Buona programmazione!
 

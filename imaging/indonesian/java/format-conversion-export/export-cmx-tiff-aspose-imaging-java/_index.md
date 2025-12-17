@@ -236,7 +236,7 @@ A: Meskipun efisien, pemrosesan sejumlah besar gambar beresolusi tinggi mungkin 
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulai Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda kini siap menangani berkas vektor CMX dan mengekspornya sebagai gambar TIFF menggunakan Aspose.Imaging untuk Java. Selamat membuat kode!
 

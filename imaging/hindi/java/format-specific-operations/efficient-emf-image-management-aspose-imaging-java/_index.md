@@ -166,7 +166,7 @@ try {
 - **खरीदना:** [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [अपना नि: शुल्क परीक्षण शुरू करो](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस:** [यहां अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता:** [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता:** [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड का पालन करके, आप Aspose.Imaging का उपयोग करके अपने जावा अनुप्रयोगों में EMF छवियों को प्रभावी ढंग से संभालने के लिए अच्छी तरह से सुसज्जित हैं। हैप्पी कोडिंग!
 

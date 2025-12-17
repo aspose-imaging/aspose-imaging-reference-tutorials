@@ -256,7 +256,7 @@ Aspose.Imaging for Javaを使用して、TIFF画像を効率的に読み込み�
 - [ライセンスを購入する](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これらのリソースと新しい知識があれば、Aspose.Imaging for Java を使用して TIFF イメージを JPEG に変換する準備が整います。
 

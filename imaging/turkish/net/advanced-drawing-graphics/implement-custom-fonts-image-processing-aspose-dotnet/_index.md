@@ -160,7 +160,7 @@ Artık Aspose.Imaging for .NET'i kullanarak özel yazı tipleri ayarlamayı ve g
 - [Lisans Satın Alın](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/net/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu eğitimin size Aspose.Imaging for .NET'i etkili bir şekilde kullanma konusunda değerli içgörüler sağladığını umuyoruz. İyi kodlamalar!
 

@@ -236,7 +236,7 @@ Du har nu lärt dig hur du konverterar SVG-bilder till PNG-format och ritar på 
 - [Köp en licens](https://purchase.aspose.com/buy)
 - [Information om gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Information om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Den här omfattande guiden bör hjälpa dig att sömlöst integrera Aspose.Imaging för Java i dina projekt, vilket möjliggör effektiva och mångsidiga bildmanipulationsfunktioner. Lycka till med kodningen!
 

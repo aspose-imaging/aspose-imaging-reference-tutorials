@@ -198,7 +198,7 @@ As next steps, consider exploring other drawing functions provided by the librar
 - [Purchase a License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/java/)
 - [Temporary License Application](https://purchase.aspose.com/temporary-license/)
-- [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 By leveraging Aspose.Imaging, you can elevate your Java applications with robust image manipulation features. Happy coding!
 

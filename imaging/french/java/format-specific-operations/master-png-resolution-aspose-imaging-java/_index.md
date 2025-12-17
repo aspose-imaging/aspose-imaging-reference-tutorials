@@ -191,7 +191,7 @@ En maîtrisant ces techniques avec Aspose.Imaging pour Java, vous pourrez gérer
 - **Télécharger**: Les dernières versions de la bibliothèque sont disponibles sur [Sorties d'Aspose](https://releases.aspose.com/imaging/java/)
 - **Achat**: Obtenez une licence complète auprès de [Achat Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit et licence temporaire**: Commencez par des essais à [Essais Aspose](https://releases.aspose.com/imaging/java/) et obtenir des licences temporaires pour évaluation.
-- **Soutien**: Pour tout problème ou question, visitez le [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10) 
+- **Soutien**: Pour tout problème ou question, visitez le [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Maintenant que vous avez une solide compréhension de la façon d’utiliser Aspose.Imaging Java pour les tâches de manipulation d’images, n’hésitez pas à explorer des fonctionnalités plus avancées et à améliorer davantage vos applications !
 

@@ -213,7 +213,7 @@ Siap untuk mempraktikkan apa yang telah Anda pelajari? Cobalah mengintegrasikan 
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Versi Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Permintaan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Mulailah perjalanan Anda dengan Aspose.Imaging untuk Java dan buka potensi penuh manipulasi gambar di aplikasi Anda!
 

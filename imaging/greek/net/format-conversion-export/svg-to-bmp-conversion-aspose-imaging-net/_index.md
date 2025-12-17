@@ -142,7 +142,7 @@ image.Save("@YOUR_OUTPUT_DIRECTORY/test.svg_out.bmp", options);
 - [Αγορά Άδειας Χρήσης](https://purchase.aspose.com/buy)
 - [Δωρεάν δοκιμή](https://releases.aspose.com/imaging/net/)
 - [Προσωρινή Άδεια](https://purchase.aspose.com/temporary-license/)
-- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/10)
+- [Φόρουμ Υποστήριξης](https://forum.aspose.com/c/imaging/14)
 
 Ξεκινήστε το ταξίδι σας για να τελειοποιήσετε τη μετατροπή εικόνων με το Aspose.Imaging για .NET και εξερευνήστε τις δυνατότητες που προσφέρει αυτή η ισχυρή βιβλιοθήκη. Καλή κωδικοποίηση!
 

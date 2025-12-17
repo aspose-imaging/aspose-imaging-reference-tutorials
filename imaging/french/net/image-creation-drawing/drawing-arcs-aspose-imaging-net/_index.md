@@ -181,7 +181,7 @@ Dans ce tutoriel, nous avons découvert comment dessiner un arc sur une image av
 - [Acheter une licence](https://purchase.aspose.com/buy)
 - [Essai gratuit](https://releases.aspose.com/imaging/net/)
 - [Permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
 
 Nous espérons que ce guide vous aidera dans votre apprentissage d'Aspose.Imaging pour .NET. Bon codage !
 

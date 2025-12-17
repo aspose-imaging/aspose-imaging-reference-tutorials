@@ -213,7 +213,7 @@ Daha detaylı araştırma ve ileri teknikler için aşağıdakilere bakın:
 - **İndirmek**: En son sürümü şu adresten edinin: [Aspose.Görüntüleme Sürümleri](https://releases.aspose.com/imaging/java/)
 - **Satın almak**: Lisansınızı şu adresten alın: [Aspose Satın Alma Sayfası](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme**: Geçici bir lisansla özellikleri test edin [Aspose Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
-- **Destek**: Tartışmaya katılın [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Destek**: Tartışmaya katılın [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Aspose.Imaging for Java ile denemeler yapmaya başlayın ve yeni yaratıcı olanakların kilidini açın!
 

@@ -148,7 +148,7 @@ Sử dụng các luồng đệm và đảm bảo xử lý tài nguyên hợp lý
 - **Mua:** [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bắt đầu với bản dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời:** [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn này được thiết kế để giúp bạn khai thác toàn bộ tiềm năng của Aspose.Imaging cho các dự án .NET của bạn. Chúc bạn viết mã vui vẻ!
 

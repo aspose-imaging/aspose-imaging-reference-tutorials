@@ -218,7 +218,7 @@ A: Maak gebruik van batchverwerking en optimaliseer de geheugeninstellingen om g
 - **Aankoop**: Koop een licentie of proefversie via [Aspose Aankoop](https://purchase.aspose.com/buy)
 - **Gratis proefperiode**: Probeer Aspose.Imaging met deze [gratis proeflink](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie**: Verkrijg een tijdelijke licentie via [deze link](https://purchase.aspose.com/temporary-license/)
-- **Steun**: Doe mee aan de discussie over de uitdagingen op het gebied van beeldverwerking in [Aspose Forums](https://forum.aspose.com/c/imaging/10)
+- **Steun**: Doe mee aan de discussie over de uitdagingen op het gebied van beeldverwerking in [Aspose Forums](https://forum.aspose.com/c/imaging/14)
 
 Begin vol vertrouwen aan je volgende project, wetende dat je de tools en kennis hebt om CMX-bestanden naadloos te converteren. Veel plezier met coderen!
 

@@ -193,7 +193,7 @@ Aspose.Imaging을 사용할 때 다음 팁을 염두에 두세요.
    - 평가용으로 임시 라이선스를 받을 수도 있고, 실제 운영에 사용할 정식 라이선스를 구매할 수도 있습니다.
 
 5. **문제가 발생하면 어디에서 지원을 받을 수 있나요?**  
-   - 방문하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/10) 커뮤니티와 공식적인 지원을 위해.
+   - 방문하세요 [Aspose 포럼](https://forum.aspose.com/c/imaging/14) 커뮤니티와 공식적인 지원을 위해.
 
 ## 자원
 
@@ -202,7 +202,7 @@ Aspose.Imaging을 사용할 때 다음 팁을 염두에 두세요.
 - 구입: [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - 무료 체험: [무료 체험판 이용 가능](https://releases.aspose.com/imaging/java/)
 - 임시 면허: [임시 면허 신청](https://purchase.aspose.com/temporary-license/)
-- 지원하다: [Aspose 포럼](https://forum.aspose.com/c/imaging/10)
+- 지원하다: [Aspose 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 자료들을 활용하면 Java 프로젝트에서 Aspose.Imaging을 최대한 활용할 수 있습니다. 즐거운 코딩 되세요!
 

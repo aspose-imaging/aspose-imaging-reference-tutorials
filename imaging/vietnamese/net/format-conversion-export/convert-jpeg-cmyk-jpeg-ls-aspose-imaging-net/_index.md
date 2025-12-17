@@ -186,7 +186,7 @@ Chúng tôi khuyến khích bạn áp dụng những kỹ thuật này vào dự
 - **Giấy phép mua hàng:** [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Dùng thử Aspose.Imaging miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời:** [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** [Diễn đàn hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** [Diễn đàn hỗ trợ Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn này sẽ giúp bạn triển khai hiệu quả các chuyển đổi JPEG-LS CMYK trong các ứng dụng .NET của mình, nâng cao cả chất lượng và hiệu quả. Chúc bạn viết code vui vẻ!
 

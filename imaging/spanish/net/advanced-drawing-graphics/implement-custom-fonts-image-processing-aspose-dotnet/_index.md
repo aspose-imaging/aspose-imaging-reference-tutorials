@@ -160,7 +160,7 @@ Ya ha explorado cómo aprovechar Aspose.Imaging para .NET para configurar fuente
 - [Comprar una licencia](https://purchase.aspose.com/buy)
 - [Prueba gratuita](https://releases.aspose.com/imaging/net/)
 - [Licencia temporal](https://purchase.aspose.com/temporary-license/)
-- [Foro de soporte](https://forum.aspose.com/c/imaging/10)
+- [Foro de soporte](https://forum.aspose.com/c/imaging/14)
 
 Esperamos que este tutorial te haya proporcionado información valiosa sobre el uso eficaz de Aspose.Imaging para .NET. ¡Que disfrutes programando!
 

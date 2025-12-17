@@ -187,7 +187,7 @@ Pronti a mettere in pratica le vostre competenze? Provate a implementare questa 
 - [Acquista licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto](https://forum.aspose.com/c/imaging/10)
+- [Forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Intraprendi il tuo viaggio nell'elaborazione delle immagini in tutta sicurezza sfruttando Aspose.Imaging per Java e il potente metodo di ricampionamento Lanczos!
 

@@ -177,7 +177,7 @@ Aspose.Imaging Java を使った画像結合の基本を習得しました。こ
 - **購入：** https://purchase.aspose.com/buy
 - **無料トライアル:** https://releases.aspose.com/imaging/java/
 - **一時ライセンス:** https://purchase.aspose.com/temporary-license/
-- **サポート：** https://forum.aspose.com/c/imaging/10
+- **サポート：** https://forum.aspose.com/c/imaging/14
 
 今すぐ Aspose.Imaging for Java を試して、画像処理の新たな可能性を解き放ちましょう。
 

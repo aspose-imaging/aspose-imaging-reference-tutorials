@@ -188,7 +188,7 @@ Aspose.Imaging for Java kullanarak görüntüleri gri tonlamaya etkili bir şeki
 - **İndirmek**: En son sürümü şu adresten edinin: [Aspose.Görüntüleme Sürümleri](https://releases.aspose.com/imaging/java/)
 - **Satın Alma ve Deneme**: Satın alma seçenekleri hakkında bilgi edinin ve ücretsiz denemeyle başlayın [Burada](https://purchase.aspose.com/buy)
 - **Geçici Lisans**: Geçici bir lisans alın [Burada](https://purchase.aspose.com/temporary-license/)
-- **Destek**: Topluluk forumuna katılın [Aspose Görüntüleme Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek**: Topluluk forumuna katılın [Aspose Görüntüleme Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu kılavuzun projelerinizde Aspose.Imaging for Java'yı etkili bir şekilde kullanmanıza yardımcı olmasını umuyoruz. İyi kodlamalar!
 

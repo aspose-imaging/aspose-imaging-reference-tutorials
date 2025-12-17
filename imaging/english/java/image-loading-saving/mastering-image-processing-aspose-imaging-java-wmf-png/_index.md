@@ -196,7 +196,7 @@ A5: Utilize the various methods provided by Aspose.Imaging to apply transformati
 - **Purchase**: Secure a license to unlock full features at [Aspose purchase page](https://purchase.aspose.com/buy).
 - **Free Trial**: Test out Aspose.Imaging's capabilities via [free trial downloads](https://releases.aspose.com/imaging/java/).
 - **Temporary License**: Request a temporary license for extended testing [here](https://purchase.aspose.com/temporary-license/).
-- **Support**: For questions or assistance, visit the [Aspose support forum](https://forum.aspose.com/c/imaging/10).
+- **Support**: For questions or assistance, visit the [Aspose support forum](https://forum.aspose.com/c/imaging/14).
 
 Embark on your image processing journey today and unlock the full potential of Aspose.Imaging in Java!
 

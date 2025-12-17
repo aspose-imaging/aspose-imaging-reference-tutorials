@@ -202,7 +202,7 @@ Ano, integrujte Aspose.Imaging do svých skriptů pro sestavení, abyste automat
 - **Nákup:** [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Získejte bezplatnou zkušební verzi](https://releases.aspose.com/imaging/net/)
 - **Dočasná licence:** [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto návodu jste získali dovednosti pro efektivní správu APNG obrazů ve vašich .NET aplikacích pomocí Aspose.Imaging. Přejeme vám příjemné programování!
 

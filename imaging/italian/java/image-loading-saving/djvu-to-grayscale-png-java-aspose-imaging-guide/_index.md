@@ -200,7 +200,7 @@ A4: Le immagini in scala di grigi contengono solo sfumature di grigio, riducendo
 
 **D5: Come posso ottenere supporto se riscontro problemi con Aspose.Imaging?**
 
-A5: Visita il [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/10) per ricevere assistenza da esperti della comunità e personale di supporto ufficiale.
+A5: Visita il [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14) per ricevere assistenza da esperti della comunità e personale di supporto ufficiale.
 
 ## Risorse
 

@@ -150,7 +150,7 @@ A5：详细文档可以在 [Aspose.Imaging .NET文档](https://reference。aspos
 - **购买许可证**： [立即购买](https://purchase.aspose.com/buy)
 - **免费试用**： [开始](https://releases.aspose.com/imaging/net/)
 - **临时执照**： [在此申请](https://purchase.aspose.com/temporary-license/)
-- **支持论坛**： [Aspose.Imaging 支持](https://forum.aspose.com/c/imaging/10)
+- **支持论坛**： [Aspose.Imaging 支持](https://forum.aspose.com/c/imaging/14)
 
 快乐编码，并享受使用 Aspose.Imaging 进行实验，实现您的图像处理需求！
 

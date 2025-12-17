@@ -191,7 +191,7 @@ A5: Double-check your code for syntax errors and ensure all dependencies are cor
 - **Purchase**: Acquire a license at [Aspose purchase site](https://purchase.aspose.com/buy).
 - **Free Trial**: Start with a free trial via [Aspose trials](https://releases.aspose.com/imaging/java/).
 - **Temporary License**: Obtain a temporary license from [Aspose licensing](https://purchase.aspose.com/temporary-license/).
-- **Support**: Seek help on the [Aspose forum](https://forum.aspose.com/c/imaging/10).
+- **Support**: Seek help on the [Aspose forum](https://forum.aspose.com/c/imaging/14).
 
 By following this guide, you're now equipped to handle DICOM image rotations in Java with confidence. Happy coding!
 

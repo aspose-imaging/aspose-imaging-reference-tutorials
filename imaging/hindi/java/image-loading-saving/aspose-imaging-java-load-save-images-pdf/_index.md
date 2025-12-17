@@ -160,7 +160,7 @@ A5: उत्पादन परिवेश में निर्बाध उ
 - **खरीदना**: [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण**: [अपना नि: शुल्क परीक्षण शुरू करो](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस**: [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता**: [Aspose फ़ोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता**: [Aspose फ़ोरम](https://forum.aspose.com/c/imaging/14)
 
 अपनी छवि प्रसंस्करण क्षमताओं को बढ़ाने के लिए Aspose.Imaging Java की शक्ति को अपनाएं!
 

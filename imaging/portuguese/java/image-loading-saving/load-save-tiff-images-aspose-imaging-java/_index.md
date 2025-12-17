@@ -171,7 +171,7 @@ Neste tutorial, exploramos como carregar e salvar imagens TIFF de forma eficaz u
 - **Comprar**: [Compre Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Iniciar teste gratuito](https://releases.aspose.com/imaging/java/)
 - **Licença Temporária**: [Solicitar Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Este tutorial equipa você com o conhecimento necessário para implementar o processamento de imagens TIFF em seus aplicativos Java com eficiência. Boa programação!
 

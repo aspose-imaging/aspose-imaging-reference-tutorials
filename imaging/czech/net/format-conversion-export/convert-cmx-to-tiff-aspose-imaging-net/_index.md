@@ -182,7 +182,7 @@ Jste připraveni uvést tyto dovednosti do praxe? Ponořte se hlouběji do možn
 4. **Co mám dělat, když se mi soubory TIFF po převodu zdají být poškozené?**
    - Ověřte, zda možnosti rastrování odpovídají požadavkům vašeho obrázku, a zkontrolujte cesty k souborům, zda neobsahují chyby.
 5. **Je k dispozici podpora, pokud narazím na problémy s Aspose.Imaging?**
-   - Ano, navštivte [Fórum Aspose](https://forum.aspose.com/c/imaging/10) pro podporu komunity nebo kontaktujte přímo jejich tým podpory.
+   - Ano, navštivte [Fórum Aspose](https://forum.aspose.com/c/imaging/14) pro podporu komunity nebo kontaktujte přímo jejich tým podpory.
 
 ## Zdroje
 - [Dokumentace k Aspose.Imaging](https://reference.aspose.com/imaging/net/)

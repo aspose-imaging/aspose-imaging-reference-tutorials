@@ -191,7 +191,7 @@ Utilisez le `dispose()` méthode sur les objets Image pour libérer de la mémoi
 - **Achat:** [Acheter une licence Aspose](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Essais gratuits d'Aspose Imaging](https://releases.aspose.com/imaging/java/)
 - **Licence temporaire :** [Demande de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Soutien:** [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce tutoriel, vous maîtriserez les techniques de chargement et d'enregistrement efficaces de fichiers JPEG avec Aspose.Imaging pour Java. Bon codage !
 

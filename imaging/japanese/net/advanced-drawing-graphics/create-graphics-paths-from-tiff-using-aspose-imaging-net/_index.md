@@ -165,7 +165,7 @@ A: パスを段階的に処理してコードを最適化し、リソースが�
 A: はい、高度な画像処理機能を必要とするあらゆる .NET アプリケーションとシームレスに統合できるように設計されています。
 
 **Q: 問題が発生した場合、どのようなサポートが受けられますか?**
-A: をご覧ください [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10) コミュニティの専門家と Aspose スタッフからのサポートを受けられます。
+A: をご覧ください [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14) コミュニティの専門家と Aspose スタッフからのサポートを受けられます。
 
 **Q: .NET での TIFF 操作に Aspose.Imaging を使用する代わりになる方法はありますか?**
 A: 他にもライブラリは存在しますが、Aspose.Imaging は高品質の画像処理タスク向けに特別にカスタマイズされた包括的な機能セットを提供します。
@@ -176,7 +176,7 @@ A: 他にもライブラリは存在しますが、Aspose.Imaging は高品質�
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imagingを無料でお試しください](https://releases.aspose.com/imaging/net/)
 - **一時ライセンス**： [一時ライセンスを取得する](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 今すぐ Aspose.Imaging for .NET を使い始め、画像処理の新たな可能性を解き放ちましょう。
 

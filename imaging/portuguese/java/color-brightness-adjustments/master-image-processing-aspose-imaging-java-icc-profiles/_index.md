@@ -201,7 +201,7 @@ Pronto para se aprofundar? Experimente implementar essas soluções em seus proj
 - [Licença de compra](https://purchase.aspose.com/buy)
 - [Teste grátis](https://releases.aspose.com/imaging/java/)
 - [Licença Temporária](https://purchase.aspose.com/temporary-license/)
-- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum de Suporte Aspose](https://forum.aspose.com/c/imaging/14)
 
 Explore estes recursos para aprofundar seus conhecimentos e aprimorar suas capacidades de processamento de imagens com o Aspose.Imaging para Java. Boa programação!
 

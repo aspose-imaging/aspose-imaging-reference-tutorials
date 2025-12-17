@@ -165,7 +165,7 @@ Häufige Probleme sind falsche Dateipfade oder nicht unterstützte Formate, die 
 - [Lizenz erwerben](https://purchase.aspose.com/buy)
 - [Kostenlose Testversion](https://releases.aspose.com/imaging/net/)
 - [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Support-Forum](https://forum.aspose.com/c/imaging/10)
+- [Support-Forum](https://forum.aspose.com/c/imaging/14)
 
 Erkunden Sie diese Ressourcen und wenden Sie sich an unseren Support, wenn Sie auf Probleme stoßen. Viel Spaß beim Programmieren!
 

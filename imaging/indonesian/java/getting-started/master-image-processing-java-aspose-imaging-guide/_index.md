@@ -227,7 +227,7 @@ Anda kini telah menguasai teknik-teknik penting menggunakan Aspose.Imaging untuk
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Versi Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Permintaan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Panduan ini menyediakan dasar yang komprehensif untuk memanfaatkan Aspose.Imaging di Java. Dengan memahami teknik-teknik ini, Anda dapat menyempurnakan aplikasi Anda dengan kemampuan pemrosesan gambar yang canggih. Selamat membuat kode!
 

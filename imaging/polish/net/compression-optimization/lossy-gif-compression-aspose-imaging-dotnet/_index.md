@@ -145,7 +145,7 @@ W tym samouczku nauczyłeś się, jak stosować stratną kompresję GIF przy uż
 - **Zakup**: [Kup licencję](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna**: [Wypróbuj to](https://releases.aspose.com/imaging/net/)
 - **Licencja tymczasowa**: [Uzyskaj tymczasową licencję](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie**: [Zadaj pytania](https://forum.aspose.com/c/imaging/10)
+- **Wsparcie**: [Zadaj pytania](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

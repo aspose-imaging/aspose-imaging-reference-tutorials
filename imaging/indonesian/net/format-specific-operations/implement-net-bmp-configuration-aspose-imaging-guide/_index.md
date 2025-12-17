@@ -160,7 +160,7 @@ A5: Dengan mengoptimalkan pengaturan konfigurasi, mengelola memori secara efisie
 - **Beli Lisensi**: [Lisensi Aspose](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Unduh Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Lisensi Sementara**: [Minta Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Forum Dukungan**: [Dukungan Pencitraan Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum Dukungan**: [Dukungan Pencitraan Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

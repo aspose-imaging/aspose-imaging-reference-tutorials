@@ -239,7 +239,7 @@ if (tmp != null && tmp.exists()) {
 - **Αγορά:** [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Ξεκινήστε μια δωρεάν δοκιμή](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια:** [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ακολουθώντας αυτόν τον οδηγό, θα πρέπει πλέον να έχετε μια σταθερή βάση για τη χρήση του Aspose.Imaging στα έργα Java σας, ώστε να δημιουργείτε και να διαχειρίζεστε εικόνες BMP αποτελεσματικά.
 

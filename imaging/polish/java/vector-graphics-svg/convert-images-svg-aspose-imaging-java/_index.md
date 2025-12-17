@@ -201,7 +201,7 @@ Ten samouczek wyposażył Cię w wiedzę, jak ładować wiele formatów obrazów
 - [Kup licencję](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna do pobrania](https://releases.aspose.com/imaging/java/)
 - [Wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10) 
+- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14) 
 
 Postępując zgodnie z tym przewodnikiem, jesteś na dobrej drodze do opanowania przetwarzania obrazu za pomocą Aspose.Imaging Java. Miłego kodowania!
 

@@ -174,7 +174,7 @@ Bây giờ bạn đã học cách tải hình ảnh và lấy ngày sửa đổi
 - [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - [Yêu cầu cấp giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hãy thoải mái khám phá các tài nguyên này để biết thêm thông tin chi tiết và hỗ trợ. Chúc bạn viết mã vui vẻ!
 

@@ -213,7 +213,7 @@ V: Igen, számos formátumot támogat, beleértve a JPEG, PNG, BMP és egyebeket
 - [Licencek vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverziók letöltése](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ez az útmutató célja, hogy felkészítse Önt a DjVu képek hatékony konvertálásához szükséges ismeretekre és eszközökre az Aspose.Imaging for .NET használatával. Jó kódolást!
 

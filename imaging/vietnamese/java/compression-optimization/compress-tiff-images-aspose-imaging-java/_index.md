@@ -188,7 +188,7 @@ Bằng cách làm theo hướng dẫn này, bạn đã học cách nén hiệu q
 - **Mua:** [Mua ngay](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bắt đầu tại đây](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời:** [Yêu cầu ở đây](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ:** Để được hỗ trợ thêm, hãy truy cập [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ:** Để được hỗ trợ thêm, hãy truy cập [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

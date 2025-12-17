@@ -145,7 +145,7 @@ Neste tutorial, você aprendeu a aplicar a compactação de GIFs com perdas usan
 - **Comprar**: [Compre uma licença](https://purchase.aspose.com/buy)
 - **Teste grátis**: [Experimente](https://releases.aspose.com/imaging/net/)
 - **Licença Temporária**: [Obtenha uma licença temporária](https://purchase.aspose.com/temporary-license/)
-- **Apoiar**: [Fazer perguntas](https://forum.aspose.com/c/imaging/10)
+- **Apoiar**: [Fazer perguntas](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -163,7 +163,7 @@ R: Sebbene Aspose.Imaging di per sé non fornisca il multi-threading integrato, 
 R: La versione di prova gratuita offre tutte le funzionalità, ma aggiunge filigrane alle immagini e limita il tempo di utilizzo. Si consiglia di acquistare una licenza temporanea o a pagamento per un accesso ininterrotto.
 
 **D5: Come posso risolvere i problemi più comuni relativi all'elaborazione delle immagini?**
-A: Assicurati che i percorsi dei file siano corretti, controlla di avere risorse di sistema sufficienti e fai riferimento a [forum di supporto](https://forum.aspose.com/c/imaging/10) se necessario.
+A: Assicurati che i percorsi dei file siano corretti, controlla di avere risorse di sistema sufficienti e fai riferimento a [forum di supporto](https://forum.aspose.com/c/imaging/14) se necessario.
 
 ## Risorse
 
@@ -172,7 +172,7 @@ A: Assicurati che i percorsi dei file siano corretti, controlla di avere risorse
 - **Acquistare**: Acquisire una licenza tramite [Pagina di acquisto di Aspose](https://purchase.aspose.com/buy)
 - **Prova gratuita**: Inizia ad esplorare le funzionalità con [versione di prova gratuita](https://releases.aspose.com/imaging/java/)
 - **Licenza temporanea**: Richiedi una licenza temporanea tramite [Pagina della licenza temporanea di Aspose](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: Per qualsiasi domanda, visita il [forum di supporto](https://forum.aspose.com/c/imaging/10)
+- **Supporto**: Per qualsiasi domanda, visita il [forum di supporto](https://forum.aspose.com/c/imaging/14)
 
 Grazie a questa guida completa, sarai pronto a potenziare le tue capacità di elaborazione delle immagini utilizzando Aspose.Imaging per Java!
 

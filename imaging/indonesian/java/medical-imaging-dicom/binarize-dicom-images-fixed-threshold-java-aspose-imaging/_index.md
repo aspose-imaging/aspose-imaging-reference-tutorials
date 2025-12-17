@@ -164,7 +164,7 @@ Siap untuk mencobanya? Terapkan solusi ini dalam proyek Anda hari ini!
    - Optimalkan lingkungan dan kode Anda untuk manajemen memori, menggunakan pengumpulan sampah Java secara efektif.
 
 5. **Apakah ada dukungan yang tersedia jika saya mengalami masalah?**
-   - Anda dapat mencari bantuan di [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10).
+   - Anda dapat mencari bantuan di [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Sumber daya
 

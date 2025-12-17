@@ -144,7 +144,7 @@ A5：其他流行的选项包括 ImageSharp 和 SkiaSharp，但 Aspose.Imaging �
 - **购买**： [购买许可证](https://purchase.aspose.com/buy)
 - **免费试用**： [开始](https://releases.aspose.com/imaging/net/)
 - **临时执照**： [在此请求](https://purchase.aspose.com/temporary-license/)
-- **支持**： [Aspose 论坛](https://forum.aspose.com/c/imaging/10)
+- **支持**： [Aspose 论坛](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

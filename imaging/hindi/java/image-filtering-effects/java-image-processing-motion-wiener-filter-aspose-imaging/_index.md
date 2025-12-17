@@ -177,7 +177,7 @@ System.out.println("Output Directory: " + outputDir);
 - **खरीदना:** [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [Aspose निःशुल्क परीक्षण](https://releases.aspose.com/imaging/java/)
 - **अस्थायी लाइसेंस:** [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता:** [एस्पोज फोरम](https://forum.aspose.com/c/imaging/10)
+- **सहायता:** [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
 
 यह व्यापक मार्गदर्शिका आपको मोशन वीनर फ़िल्टर को प्रभावी ढंग से लागू करने में सक्षम बनाएगी, जिससे आप Aspose.Imaging के साथ अपनी जावा-आधारित छवि प्रसंस्करण परियोजनाओं को बेहतर बना सकेंगे।
 

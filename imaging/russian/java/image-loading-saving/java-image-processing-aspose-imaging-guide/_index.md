@@ -181,7 +181,7 @@ rasterImage.save(outputDir + "filtered_image.jpg");
 - **Покупка**: [Купить Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная пробная версия**: [Попробуйте Aspose.Imaging бесплатно](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия**: [Запросить временную лицензию](https://purchase.aspose.com/temporary-license/)
-- **Поддерживать**: [Форум Aspose Imaging](https://forum.aspose.com/c/imaging/10)
+- **Поддерживать**: [Форум Aspose Imaging](https://forum.aspose.com/c/imaging/14)
 
 Отправляйтесь в путешествие по обработке изображений с уверенностью, зная, что у вас есть инструменты и знания для успеха. Удачного кодирования!
 

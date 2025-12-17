@@ -191,7 +191,7 @@ public class LinearAnimation : IAnimation {
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड का पालन करके, अब आप Aspose.Imaging के साथ अपने .NET अनुप्रयोगों में गतिशील एनिमेटेड ग्राफ़िक्स बनाने के लिए सुसज्जित हैं। इन तकनीकों को अपनी परियोजनाओं में एकीकृत करके अन्वेषण करें और नयापन लाएँ!
 

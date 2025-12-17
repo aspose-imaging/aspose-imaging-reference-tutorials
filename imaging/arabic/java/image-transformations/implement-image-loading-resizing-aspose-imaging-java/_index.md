@@ -176,7 +176,7 @@ A3: يوفر تقنيات فعالة لإدارة الذاكرة، ولكن تأ
 - **شراء**: [شراء ترخيص](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**: [ابدأ هنا](https://releases.aspose.com/imaging/java/)
 - **رخصة مؤقتة**: [تقدم الآن](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى المجتمع](https://forum.aspose.com/c/imaging/10)
+- **يدعم**: [منتدى المجتمع](https://forum.aspose.com/c/imaging/14)
 
 بفضل هذا الدليل الشامل، أصبحتَ الآن جاهزًا لإتقان تحميل الصور وتغيير حجمها في جافا باستخدام Aspose.Imaging. برمجة ممتعة!
 

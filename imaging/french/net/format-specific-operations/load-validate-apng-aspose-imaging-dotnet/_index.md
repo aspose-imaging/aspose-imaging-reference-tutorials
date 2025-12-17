@@ -202,7 +202,7 @@ Oui, intégrez Aspose.Imaging dans vos scripts de build pour valider automatique
 - **Achat:** [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit :** [Obtenez un essai gratuit](https://releases.aspose.com/imaging/net/)
 - **Licence temporaire :** [Demande de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce guide, vous aurez acquis les compétences nécessaires pour gérer efficacement les images APNG dans vos applications .NET avec Aspose.Imaging. Bon codage !
 

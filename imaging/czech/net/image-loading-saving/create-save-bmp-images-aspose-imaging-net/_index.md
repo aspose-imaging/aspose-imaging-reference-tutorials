@@ -128,7 +128,7 @@ Při práci se zpracováním obrazu:
 ## Závěr
 tomto tutoriálu se dozvíte, jak nastavit možnosti BMP a vytvářet obrázky pomocí Aspose.Imaging pro .NET. Dodržením výše uvedených kroků můžete bezproblémově integrovat funkce pro tvorbu obrázků do svých aplikací.
 
-Dále zvažte prozkoumání dalších funkcí knihovny Aspose.Imaging nebo hlouběji se ponořte do dalších obrazových formátů podporovaných knihovnou. Máte-li další otázky nebo potřebujete-li pomoc, podívejte se na naše [fórum podpory](https://forum.aspose.com/c/imaging/10).
+Dále zvažte prozkoumání dalších funkcí knihovny Aspose.Imaging nebo hlouběji se ponořte do dalších obrazových formátů podporovaných knihovnou. Máte-li další otázky nebo potřebujete-li pomoc, podívejte se na naše [fórum podpory](https://forum.aspose.com/c/imaging/14).
 
 ## Sekce Často kladených otázek
 1. **Co je Aspose.Imaging pro .NET?**

@@ -200,7 +200,7 @@ Kolejne kroki obejmują eksplorację dodatkowych funkcjonalności biblioteki Asp
    - Użyj `Metered.getConsumptionQuantity()` metoda przed i po przetworzeniu obrazów w celu śledzenia wykorzystania.
 
 5. **Czy mogę liczyć na pomoc, jeśli wystąpią jakieś problemy?**
-   - Odwiedzać [Forum Aspose](https://forum.aspose.com/c/imaging/10) aby uzyskać pomoc od ekspertów społeczności.
+   - Odwiedzać [Forum Aspose](https://forum.aspose.com/c/imaging/14) aby uzyskać pomoc od ekspertów społeczności.
 
 ## Zasoby
 

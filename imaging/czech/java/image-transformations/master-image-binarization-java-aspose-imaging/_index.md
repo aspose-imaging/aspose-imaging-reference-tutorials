@@ -191,7 +191,7 @@ A5: Ano, Aspose.Imaging podporuje širokou škálu obrazových formátů včetn�
 - **Nákup:** [Koupit Aspose.Licence](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Začněte svou bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Získejte dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora:** [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dodržováním tohoto tutoriálu jste si osvojili dovednosti pro efektivní řešení úloh binarizace obrázků pomocí Aspose.Imaging pro Javu. Přejeme vám příjemné programování!
 

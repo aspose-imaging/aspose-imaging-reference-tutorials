@@ -184,7 +184,7 @@ A: Mua đăng ký từ [Trang mua hàng của Aspose](https://purchase.aspose.co
 - **Tải xuống thư viện:** Nhận phiên bản mới nhất từ [Aspose.Imaging phát hành](https://releases.aspose.com/imaging/java/).
 - **Giấy phép mua hàng:** Thăm nom [Mua Aspose](https://purchase.aspose.com/buy) để có các lựa chọn cấp phép.
 - **Dùng thử miễn phí & Giấy phép tạm thời:** Bắt đầu với bản dùng thử miễn phí hoặc lấy giấy phép tạm thời tại [Bản dùng thử và cấp phép miễn phí Aspose](https://releases.aspose.com/imaging/java/).
-- **Diễn đàn hỗ trợ:** Tham gia cộng đồng trên [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10).
+- **Diễn đàn hỗ trợ:** Tham gia cộng đồng trên [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

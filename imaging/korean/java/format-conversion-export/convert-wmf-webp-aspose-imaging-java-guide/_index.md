@@ -221,7 +221,7 @@ Java에서 Aspose.Imaging을 사용할 때 다음 팁을 고려하세요.
 - [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
 - [Aspose.Imaging 무료 체험판](https://releases.aspose.com/imaging/java/)
 - [임시 면허 취득](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/10)
+- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
 
 이 튜토리얼은 Aspose.Imaging for Java를 사용하여 이미지를 변환하는 방법에 대한 명확하고 실용적인 가이드를 제공하고, 웹 애플리케이션을 효율적으로 개선하는 데 필요한 지식을 제공합니다.
 

@@ -254,7 +254,7 @@ Aspose.Imaging'in daha fazla özelliğini keşfetmek için derinlemesine incelem
 - **Belgeler:** Ayrıntılı kılavuzları keşfedin [Aspose.Görüntüleme Belgeleri](https://reference.aspose.com/imaging/java/).
 - **İndirmek:** En son sürümü şu adresten edinin: [Aspose.Görüntüleme Sürümleri](https://releases.aspose.com/imaging/java/).
 - **Satın Alma ve Deneme:** Satın alma seçeneklerine erişin veya ücretsiz denemeye başlayın [Aspose Satın Alma Sayfası](https://purchase.aspose.com/buy) Ve [Ücretsiz Deneme](https://releases.aspose.com/imaging/java/).
-- **Destek:** Sorularınız için şu adresi ziyaret edin: [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Destek:** Sorularınız için şu adresi ziyaret edin: [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

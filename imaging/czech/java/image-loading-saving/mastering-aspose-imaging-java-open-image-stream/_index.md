@@ -158,7 +158,7 @@ V tomto tutoriálu jsme prozkoumali, jak otevírat a zpracovávat obrázky pomoc
 - [Zakoupit licenci](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Tato komplexní příručka by vám měla pomoci efektivně implementovat a využívat Aspose.Imaging Java pro zpracování obrazu na bázi streamů, a tím zlepšit výkon a možnosti vašich aplikací.
 

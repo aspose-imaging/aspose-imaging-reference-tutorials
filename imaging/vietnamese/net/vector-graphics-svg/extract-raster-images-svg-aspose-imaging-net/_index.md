@@ -141,7 +141,7 @@ Sẵn sàng thử chưa? Triển khai giải pháp này vào dự án tiếp the
 - **Mua**: [Xin giấy phép](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu với bản dùng thử miễn phí](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời**: [Yêu cầu Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ**: [Hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ**: [Hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Hướng dẫn này được thiết kế để hướng dẫn bạn sử dụng Aspose.Imaging cho .NET một cách hiệu quả, đảm bảo bạn tận dụng tối đa thư viện mạnh mẽ này. Chúc bạn viết code vui vẻ!
 

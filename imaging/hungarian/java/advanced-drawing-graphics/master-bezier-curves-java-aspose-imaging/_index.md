@@ -194,7 +194,7 @@ Ellenőrizd a build eszköz konfigurációját, győződj meg róla, hogy a megf
 - **Vásárlás:** [Buy Aspose.Imaging for Java](https://purchase.aspose.com/buy)
 - **Ingyenes próba:** Indítsd el ingyenes próbádat az [Aspose weboldalon](https://releases.aspose.com/imaging/java/)
 - **Ideiglenes licenc:** Kérj ideiglenes licencet a [Aspose Purchase](https://purchase.aspose.com/temporary-license/) oldalon
-- **Támogatás:** Csatlakozz a beszélgetésekhez az [Aspose Forum](https://forum.aspose.com/c/imaging/10) oldalon
+- **Támogatás:** Csatlakozz a beszélgetésekhez az [Aspose Forum](https://forum.aspose.com/c/imaging/14) oldalon
 
 Kezdj el még ma görbéket rajzolni, és emeld fel Java projektjeidet az Aspose.Imaging segítségével!
 

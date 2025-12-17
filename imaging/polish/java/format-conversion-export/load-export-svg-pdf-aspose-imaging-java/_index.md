@@ -198,7 +198,7 @@ Nauczyłeś się, jak ładować i eksportować pliki SVG do PDF za pomocą Aspos
 - [Zakup](https://purchase.aspose.com/buy)
 - [Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/)
 - [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia](https://forum.aspose.com/c/imaging/10)
+- [Forum wsparcia](https://forum.aspose.com/c/imaging/14)
 
 Zacznij wdrażać te funkcje w swoich projektach już dziś i zobacz, jak Aspose.Imaging for Java może usprawnić Twój przepływ pracy!
 

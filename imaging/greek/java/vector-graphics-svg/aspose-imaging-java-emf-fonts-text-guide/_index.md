@@ -244,7 +244,7 @@ new File("YOUR_OUTPUT_DIRECTORY/result.png").delete();
 - **Αγορά**: [Αγοράστε Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Δωρεάν δοκιμή Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Αίτημα Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη**: [Φόρουμ Υποστήριξης Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Χρησιμοποιώντας το Aspose.Imaging για Java, μπορείτε να ενσωματώσετε απρόσκοπτα υψηλής ποιότητας γραμματοσειρά EMF και απόδοση κειμένου στις εφαρμογές σας, βελτιώνοντας τόσο τη λειτουργικότητα όσο και την οπτική ελκυστικότητα.
 

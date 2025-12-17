@@ -160,7 +160,7 @@ A3: Overweeg het optimaliseren van het geheugengebruik, het inzetten van paralle
 A4: Zorg ervoor dat uw omgeving, ondanks de krachtige functionaliteit, voldoet aan de vereisten voor optimale prestaties.
 
 **V5: Welke ondersteuningsopties zijn beschikbaar als ik problemen ondervind?**
-A5: U kunt hulp zoeken bij [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10) of raadpleeg hun uitgebreide documentatie.
+A5: U kunt hulp zoeken bij [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14) of raadpleeg hun uitgebreide documentatie.
 
 ## Bronnen
 

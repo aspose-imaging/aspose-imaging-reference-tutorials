@@ -159,7 +159,7 @@ Aspose.Imaging का उपयोग करते समय इष्टतम 
 - [खरीद लाइसेंस](https://purchase.aspose.com/buy)
 - [मुफ्त परीक्षण](https://releases.aspose.com/imaging/net/)
 - [अस्थायी लाइसेंस](https://purchase.aspose.com/temporary-license/)
-- [सहयता मंच](https://forum.aspose.com/c/imaging/10)
+- [सहयता मंच](https://forum.aspose.com/c/imaging/14)
 
 इन चरणों को लागू करने का प्रयास करें और देखें कि कैसे Aspose.Imaging आपके छवि प्रसंस्करण कार्यों को सुव्यवस्थित कर सकता है!
 

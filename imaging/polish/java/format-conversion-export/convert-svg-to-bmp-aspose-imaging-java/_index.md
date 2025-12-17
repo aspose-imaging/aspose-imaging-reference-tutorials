@@ -161,7 +161,7 @@ Następne kroki? Eksperymentuj z różnymi konfiguracjami w `BmpOptions` i pozna
    - Dostosuj konfiguracje mapy bitowej w `BmpOptions` aby dostosować ustawienia jakości wyjściowej.
 
 5. **Gdzie mogę znaleźć pomoc, jeśli napotkam problemy?**
-   - Odwiedź [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10) w celu uzyskania pomocy społecznej i zawodowej.
+   - Odwiedź [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14) w celu uzyskania pomocy społecznej i zawodowej.
 
 ## Zasoby
 

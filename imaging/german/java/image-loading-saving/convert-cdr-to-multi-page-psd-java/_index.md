@@ -197,7 +197,7 @@ In diesem Tutorial haben wir untersucht, wie Sie mit Aspose.Imaging für Java CD
    - Absolut! Es unterstützt eine Vielzahl von Bildformaten über CDR und PSD hinaus.
 
 5. **Wie kann ich Probleme beim Laden oder Speichern von Bildern beheben?**
-   - Überprüfen Sie die [Aspose Support Forum](https://forum.aspose.com/c/imaging/10) für allgemeine Lösungen und stellen Sie sicher, dass Ihre Bibliotheksversion auf dem neuesten Stand ist.
+   - Überprüfen Sie die [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) für allgemeine Lösungen und stellen Sie sicher, dass Ihre Bibliotheksversion auf dem neuesten Stand ist.
 
 ## Ressourcen
 
@@ -206,7 +206,7 @@ In diesem Tutorial haben wir untersucht, wie Sie mit Aspose.Imaging für Java CD
 - **Kaufen:** [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Holen Sie sich eine kostenlose Lizenz](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Fordern Sie eine temporäre Lizenz an](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Aspose Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Wenn Sie dieser Anleitung folgen, sind Sie gut gerüstet, um CDR-Image-Lade- und Konvertierungsaufgaben in Ihren Java-Anwendungen mit Aspose.Imaging zu bewältigen. Viel Spaß beim Programmieren!
 

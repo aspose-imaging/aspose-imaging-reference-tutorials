@@ -189,7 +189,7 @@ V tomto tutoriálu jste se naučili, jak efektivně převádět soubory ODG do P
 - **Nákup:** [Koupit licenci](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze:** [Vyzkoušejte Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence:** [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Fórum podpory:** [Komunita podpory Aspose](https://forum.aspose.com/c/imaging/10)
+- **Fórum podpory:** [Komunita podpory Aspose](https://forum.aspose.com/c/imaging/14)
 
 Tato příručka vám pomůže bezproblémově integrovat Aspose.Imaging do vašich projektů v Javě a zajistí vám tak pokaždé vysoce kvalitní konverze obrázků. Přejeme vám příjemné programování!
 

@@ -243,7 +243,7 @@ Készen áll arra, hogy képkonvertálási képességeit a következő szintre e
 - [Aspose.Imaging letöltése Java-hoz](https://releases.aspose.com/imaging/java/)
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió és ideiglenes licenc](https://releases.aspose.com/imaging/java/)
-- [Közösségi Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Közösségi Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Ezt az útmutatót követve könnyedén kezelheted a képkonverziós feladatokat az Aspose.Imaging for Java segítségével. Jó kódolást!
 

@@ -184,7 +184,7 @@ Hãy thử triển khai giải pháp ngay hôm nay để xem nó phù hợp như
 - **Giấy phép mua hàng:** [Mua sản phẩm Aspose](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí:** [Bản dùng thử miễn phí Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Giấy phép tạm thời:** [Nhận giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ:** [Cộng đồng hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Diễn đàn hỗ trợ:** [Cộng đồng hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

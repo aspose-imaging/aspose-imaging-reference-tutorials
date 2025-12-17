@@ -128,7 +128,7 @@ Görüntü işleme ile çalışırken:
 ## Çözüm
 Bu eğitim size BMP seçeneklerini nasıl ayarlayacağınızı ve Aspose.Imaging for .NET kullanarak nasıl görüntü oluşturacağınızı öğretti. Yukarıda özetlenen adımları izleyerek görüntü oluşturma yeteneklerini uygulamalarınıza sorunsuz bir şekilde entegre edebilirsiniz.
 
-Sonra, Aspose.Imaging'in daha fazla özelliğini keşfetmeyi veya kütüphane tarafından desteklenen diğer görüntüleme biçimlerine daha derinlemesine dalmayı düşünün. Başka sorularınız varsa veya yardıma ihtiyacınız varsa, şuraya bakın: [destek forumu](https://forum.aspose.com/c/imaging/10).
+Sonra, Aspose.Imaging'in daha fazla özelliğini keşfetmeyi veya kütüphane tarafından desteklenen diğer görüntüleme biçimlerine daha derinlemesine dalmayı düşünün. Başka sorularınız varsa veya yardıma ihtiyacınız varsa, şuraya bakın: [destek forumu](https://forum.aspose.com/c/imaging/14).
 
 ## SSS Bölümü
 1. **Aspose.Imaging for .NET nedir?**

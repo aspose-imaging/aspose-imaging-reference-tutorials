@@ -172,7 +172,7 @@ if (exif != null)
 - **खरीदना:** [Aspose लाइसेंसिंग विकल्प खरीदें](https://purchase.aspose.com/buy)
 - **मुफ्त परीक्षण:** [निःशुल्क परीक्षण का प्रयास करें](https://releases.aspose.com/imaging/net/)
 - **अस्थायी लाइसेंस:** [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता:** [Aspose फ़ोरम समर्थन](https://forum.aspose.com/c/imaging/10)
+- **सहायता:** [Aspose फ़ोरम समर्थन](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड का पालन करके, आप .NET के लिए Aspose.Imaging का उपयोग करके JPEG छवियों और उनके मेटाडेटा को संभालने में सक्षम हो जाएंगे। हैप्पी कोडिंग!
 

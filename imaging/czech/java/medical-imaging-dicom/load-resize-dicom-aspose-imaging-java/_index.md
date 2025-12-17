@@ -199,7 +199,7 @@ Jste připraveni to vyzkoušet? Implementujte tato řešení a prozkoumejte víc
 - [Nákup](https://purchase.aspose.com/buy)
 - [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
 - [Dočasná licence](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory](https://forum.aspose.com/c/imaging/10)
+- [Fórum podpory](https://forum.aspose.com/c/imaging/14)
 
 Tento tutoriál vás vybaví znalostmi pro manipulaci s DICOM obrázky pomocí Aspose.Imaging v Javě a zajistí, že vaše aplikace budou efektivní a škálovatelné. Přejeme vám příjemné programování!
 

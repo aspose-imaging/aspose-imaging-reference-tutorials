@@ -206,7 +206,7 @@ Absolument ! Obtenez une licence via leur page d'achat si vous prévoyez une ut
 - **Achat**: [Page d'achat d'Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Commencez un essai gratuit](https://releases.aspose.com/imaging/net/)
 - **Permis temporaire**: [Demande de licence temporaire](https://purchase.aspose.com/temporary-license/)
-- **Forum d'assistance**: [Assistance à l'imagerie Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum d'assistance**: [Assistance à l'imagerie Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

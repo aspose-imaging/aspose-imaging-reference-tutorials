@@ -213,7 +213,7 @@ A4: على الرغم من أن Aspose.Imaging يتعامل مع الملفات 
 - **تحميل**:احصل على أحدث إصدار من [إصدارات Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **شراء**:احصل على ترخيصك في [صفحة شراء Aspose](https://purchase.aspose.com/buy)
 - **نسخة تجريبية مجانية**:اختبر الميزات باستخدام ترخيص مؤقت متاح على [نسخة تجريبية مجانية من Aspose](https://releases.aspose.com/imaging/java/)
-- **يدعم**:انضم إلى المناقشة في [منتدى أسبوزي](https://forum.aspose.com/c/imaging/10)
+- **يدعم**:انضم إلى المناقشة في [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
 
 ابدأ بالتجربة واكتشف إمكانيات إبداعية جديدة مع Aspose.Imaging for Java اليوم!
 

@@ -189,7 +189,7 @@ image.Dispose();
 - [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
 - [เข้าถึงการทดลองใช้ฟรี](https://releases.aspose.com/imaging/net/)
 - [ใบสมัครใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มการสนับสนุนชุมชน](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มการสนับสนุนชุมชน](https://forum.aspose.com/c/imaging/14)
 
 หากทำตามคำแนะนำนี้ คุณจะพร้อมรับมือกับการแปลงรูปภาพที่ซับซ้อนโดยใช้ Aspose.Imaging .NET ได้อย่างดีเยี่ยม ขอให้สนุกกับการเขียนโค้ด!
 

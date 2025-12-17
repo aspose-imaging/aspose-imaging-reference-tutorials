@@ -191,7 +191,7 @@ Als volgende stap kunt u overwegen om andere tekenfuncties te verkennen die de b
 - [Koop een licentie](https://purchase.aspose.com/buy)
 - [Gratis proefperiode](https://releases.aspose.com/imaging/java/)
 - [Aanvraag tijdelijke licentie](https://purchase.aspose.com/temporary-license/)
-- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14)
 
 Door Aspose.Imaging te gebruiken, kunt u uw Java-applicaties verbeteren met robuuste beeldmanipulatiefuncties. Veel plezier met coderen!
 

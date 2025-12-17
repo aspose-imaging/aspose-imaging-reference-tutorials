@@ -244,7 +244,7 @@ Dieses Tutorial erläuterte die Einrichtung und Verwendung von Aspose.Imaging f�
 - **Kaufen**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion**: [Kostenlose Testversion von Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz**: [Temporäre Lizenz anfordern](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose.Imaging Support Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung**: [Aspose.Imaging Support Forum](https://forum.aspose.com/c/imaging/14)
 
 Durch die Verwendung von Aspose.Imaging für Java können Sie hochwertige EMF-Schriftarten und Textdarstellungen nahtlos in Ihre Anwendungen integrieren und so sowohl die Funktionalität als auch die visuelle Attraktivität verbessern.
 

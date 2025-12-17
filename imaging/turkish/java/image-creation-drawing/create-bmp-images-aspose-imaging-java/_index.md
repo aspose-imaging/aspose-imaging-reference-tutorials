@@ -170,7 +170,7 @@ A3: Kaynaklarla deneme gibi etkili bellek yönetimi tekniklerini kullanın ve be
 C4: Evet, Aspose.Imaging kapsamlı görüntü işleme çözümleri için diğer Java kütüphaneleriyle birlikte kullanılabilir.
 
 **S5: Sorunla karşılaşırsam nereden destek alabilirim?**
-A5: Ziyaret edin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10) yardım ve toplum rehberliği için.
+A5: Ziyaret edin [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14) yardım ve toplum rehberliği için.
 
 ## Kaynaklar
 

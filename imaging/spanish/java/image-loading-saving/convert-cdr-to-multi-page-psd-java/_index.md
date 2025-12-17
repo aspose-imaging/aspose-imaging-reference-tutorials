@@ -197,7 +197,7 @@ En este tutorial, hemos explorado cómo usar Aspose.Imaging para Java para carga
    - ¡Por supuesto! Admite una amplia gama de formatos de imagen, además de CDR y PSD.
 
 5. **¿Cómo puedo solucionar problemas al cargar o guardar imágenes?**
-   - Comprueba el [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10) para soluciones comunes y asegúrese de que la versión de su biblioteca esté actualizada.
+   - Comprueba el [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14) para soluciones comunes y asegúrese de que la versión de su biblioteca esté actualizada.
 
 ## Recursos
 
@@ -206,7 +206,7 @@ En este tutorial, hemos explorado cómo usar Aspose.Imaging para Java para carga
 - **Compra:** [Comprar Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Prueba gratuita:** [Obtenga una licencia gratuita](https://releases.aspose.com/imaging/java/)
 - **Licencia temporal:** [Solicitar una licencia temporal](https://purchase.aspose.com/temporary-license/)
-- **Apoyo:** [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/10)
+- **Apoyo:** [Foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14)
 
 Siguiendo esta guía, estará bien preparado para gestionar las tareas de carga y conversión de imágenes CDR en sus aplicaciones Java con Aspose.Imaging. ¡Que disfrute programando!
 

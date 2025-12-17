@@ -171,7 +171,7 @@ Veelvoorkomende problemen zijn onder andere het niet correct afvoeren van resour
 - **Aankoop:** [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis proefperiode:** [Probeer Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Tijdelijke licentie:** [Tijdelijke licentie aanvragen](https://purchase.aspose.com/temporary-license/)
-- **Steun:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Door deze handleiding te volgen, bent u nu goed voorbereid om beeldverwerkingstaken uit te voeren met Aspose.Imaging voor Java. Veel plezier met coderen!
 

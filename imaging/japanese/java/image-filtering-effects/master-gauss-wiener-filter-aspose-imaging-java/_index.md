@@ -212,7 +212,7 @@ Aspose.Imaging for Java を活用して画像を読み込み、操作可能な�
 - **購入**： [今すぐ購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [始める](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [リクエストはこちら](https://purchase.aspose.com/temporary-license/)
-- **サポートフォーラム**： [Aspose.Imaging コミュニティ](https://forum.aspose.com/c/imaging/10)
+- **サポートフォーラム**： [Aspose.Imaging コミュニティ](https://forum.aspose.com/c/imaging/14)
 
 このガイドが、高度な画像処理機能を活用してプロジェクトを強化できるようお役に立てれば幸いです。コーディングを楽しみましょう！
 

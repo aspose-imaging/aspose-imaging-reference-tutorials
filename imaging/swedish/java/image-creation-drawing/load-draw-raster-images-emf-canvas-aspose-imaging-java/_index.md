@@ -191,7 +191,7 @@ Vanliga problem inkluderar felaktig hantering av avbildningskassering som leder 
 - **Köpa**: https://purchase.aspose.com/buy
 - **Gratis provperiod**: https://releases.aspose.com/imaging/java/
 - **Tillfällig licens**https://purchase.aspose.com/temporary-license/
-- **Stöd**: https://forum.aspose.com/c/imaging/10
+- **Stöd**: https://forum.aspose.com/c/imaging/14
 
 Vi hoppas att du finner den här guiden användbar i dina projekt. Lycka till med kodningen!
 

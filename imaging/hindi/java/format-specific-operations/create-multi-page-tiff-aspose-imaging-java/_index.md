@@ -203,7 +203,7 @@ Aspose.Imaging के साथ काम करते समय इष्टत
 - [लाइसेंस खरीदें](https://purchase.aspose.com/buy)
 - [निःशुल्क परीक्षण पहुँच](https://releases.aspose.com/imaging/java/)
 - [अस्थायी लाइसेंस प्राप्त करें](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/10)
+- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
 
 इस गाइड का पालन करके, आप Aspose.Imaging for Java के साथ मल्टी-पेज TIFF फ़ाइलें बनाने और उनमें हेरफेर करने में सक्षम हो जाएँगे। हैप्पी कोडिंग!
 

@@ -173,7 +173,7 @@ Att hantera DICOM-metadata med Aspose.Imaging för Java är en kraftfull funktio
    - Metadatamanipulation ändrar inte pixeldata, vilket säkerställer att bildkvaliteten förblir intakt.
 
 5. **Var kan jag hitta stöd om jag stöter på problem?**
-   - Besök [Aspose.Imaging-forum](https://forum.aspose.com/c/imaging/10) för hjälp från experter i samhället och Aspose-personal.
+   - Besök [Aspose.Imaging-forum](https://forum.aspose.com/c/imaging/14) för hjälp från experter i samhället och Aspose-personal.
 
 ## Resurser
 

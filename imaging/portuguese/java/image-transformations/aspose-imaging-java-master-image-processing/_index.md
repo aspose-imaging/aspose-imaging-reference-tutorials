@@ -209,7 +209,7 @@ Problemas comuns incluem configurações de caminho incorretas e formatos de arq
 
 **5. Como obtenho suporte se tiver problemas?**
 
-Visita [Suporte Aspose](https://forum.aspose.com/c/imaging/10) para buscar ajuda da comunidade ou entrar em contato diretamente para obter mais assistência.
+Visita [Suporte Aspose](https://forum.aspose.com/c/imaging/14) para buscar ajuda da comunidade ou entrar em contato diretamente para obter mais assistência.
 
 ## Recursos
 

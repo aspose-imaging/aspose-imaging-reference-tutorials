@@ -200,7 +200,7 @@ Try implementing these techniques in your projects today and experience the powe
 - **Purchase:** Buy licenses through the [Aspose Purchase Portal](https://purchase.aspose.com/buy)
 - **Free Trial:** Access a temporary license via [Aspose Free Trials](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** Obtain one at [Aspose Temporary Licenses](https://purchase.aspose.com/temporary-license/)
-- **Support:** Join the community and get help on the [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Support:** Join the community and get help on the [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 By following this guide, you can effectively incorporate Aspose.Imaging into your Java projects to handle image loading and rotation with ease. Happy coding!
 

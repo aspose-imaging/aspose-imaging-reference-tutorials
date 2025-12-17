@@ -155,7 +155,7 @@ for (int i = 0; i < colorTypes.Length; ++i)
    Ναι, μπορεί να χρησιμοποιηθεί σε οποιοδήποτε περιβάλλον παραγωγής μετά την αγορά άδειας χρήσης.
 
 5. **Υπάρχει διαθέσιμη υποστήριξη για την αντιμετώπιση προβλημάτων με το Aspose.Imaging;**
-   Ναι, μπορείτε να ζητήσετε βοήθεια από το [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10).
+   Ναι, μπορείτε να ζητήσετε βοήθεια από το [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14).
 
 ## Πόροι
 - **Απόδειξη με έγγραφα:** https://reference.aspose.com/imaging/net/
@@ -163,7 +163,7 @@ for (int i = 0; i < colorTypes.Length; ++i)
 - **Αγορά:** https://purchase.aspose.com/buy
 - **Δωρεάν δοκιμή:** https://releases.aspose.com/imaging/net/
 - **Προσωρινή Άδεια:** https://purchase.aspose.com/temporary-license/
-- **Υποστήριξη:** https://forum.aspose.com/c/imaging/10
+- **Υποστήριξη:** https://forum.aspose.com/c/imaging/14
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

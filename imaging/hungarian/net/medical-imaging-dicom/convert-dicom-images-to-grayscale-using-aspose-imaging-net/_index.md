@@ -138,7 +138,7 @@ Fedezze fel az Aspose.Imaging további funkcióit, vagy integráljon más képfe
 2. **Átalakíthatok képeket BMP-től eltérő formátumba?**
    - Igen, az Aspose.Imaging különféle kimeneti formátumokat támogat, például a JPEG-et és a PNG-t.
 3. **Hogyan oldhatom meg a képkonvertálás során felmerülő problémákat?**
-   - Ellenőrizze a fájlelérési utakat, győződjön meg arról, hogy a megfelelő könyvtárverziót használja, és tekintse meg a következőt: [Aspose támogatói fóruma](https://forum.aspose.com/c/imaging/10).
+   - Ellenőrizze a fájlelérési utakat, győződjön meg arról, hogy a megfelelő könyvtárverziót használja, és tekintse meg a következőt: [Aspose támogatói fóruma](https://forum.aspose.com/c/imaging/14).
 4. **Alkalmas az Aspose.Imaging valós idejű alkalmazásokhoz?**
    - Bár robusztus, érdemes megfontolni a teljesítményoptimalizálást a valós idejű feldolgozási igények kielégítése érdekében.
 5. **Milyen gyakori felhasználási esetei vannak a DICOM szürkeárnyalatos konverziónak?**
@@ -150,7 +150,7 @@ Fedezze fel az Aspose.Imaging további funkcióit, vagy integráljon más képfe
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/net/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Támogatási fórum](https://forum.aspose.com/c/imaging/10)
+- [Támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

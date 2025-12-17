@@ -251,7 +251,7 @@ A: 필요한 프레임만 로드하고, 객체를 즉시 해제하며, 가능하
 - **구매:** [Aspose.Imaging 라이선스 구매](https://purchase.aspose.com/buy)
 - **무료 체험:** [Aspose.Imaging 체험하기](https://releases.aspose.com/imaging/java/)
 - **임시 라이선스:** [임시 라이선스 요청](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼:** [Aspose Imaging 포럼](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼:** [Aspose Imaging 포럼](https://forum.aspose.com/c/imaging/14)
 
 ---
 

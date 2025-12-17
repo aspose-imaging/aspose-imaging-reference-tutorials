@@ -211,7 +211,7 @@ Genom att följa den här guiden har du lärt dig hur du använder Aspose.Imagin
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Omfamna kraften i Aspose.Imaging Java och förvandla dina bildbehandlingsmöjligheter idag!
 

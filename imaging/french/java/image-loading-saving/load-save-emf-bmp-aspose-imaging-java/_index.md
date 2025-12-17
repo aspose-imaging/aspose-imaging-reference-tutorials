@@ -160,7 +160,7 @@ A : Utilisez les blocs try-catch pour gérer les exceptions qui peuvent surveni
 R : Oui, Aspose propose des bibliothèques pour .NET, C++ et d’autres plates-formes en plus de Java.
 
 **Q : Une assistance est-elle disponible si je rencontre des problèmes ?**
-A : Visitez le [Forum Aspose](https://forum.aspose.com/c/imaging/10) pour le soutien communautaire et officiel.
+A : Visitez le [Forum Aspose](https://forum.aspose.com/c/imaging/14) pour le soutien communautaire et officiel.
 
 **Q : Quelles sont les meilleures pratiques pour le traitement d’images avec Aspose.Imaging ?**
 R : Testez toujours avec différentes tailles de fichiers, gérez les exceptions avec élégance et gérez efficacement les ressources pour éviter les fuites de mémoire.
@@ -172,7 +172,7 @@ R : Testez toujours avec différentes tailles de fichiers, gérez les exceptions
 - **Achat**: [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Démarrer l'essai gratuit](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**: [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 En suivant ce tutoriel, vous serez en mesure de gérer efficacement les fichiers EMF et d'exploiter les puissantes fonctionnalités d'Aspose.Imaging dans vos projets Java. Bon codage !
 

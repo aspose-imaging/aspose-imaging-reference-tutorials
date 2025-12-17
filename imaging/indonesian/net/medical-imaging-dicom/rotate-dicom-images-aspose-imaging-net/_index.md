@@ -147,7 +147,7 @@ Mengunjungi [Aspose Pembelian](https://purchase.aspose.com/buy) untuk informasi 
 - **Dokumentasi:** Jelajahi panduan lengkap di [Dokumentasi Aspose.Imaging](https://reference.aspose.com/imaging/net/).
 - **Unduh:** Dapatkan versi terbaru Aspose.Imaging dari [Halaman Rilis](https://releases.aspose.com/imaging/net/).
 - **Pembelian dan Lisensi:** Rincian lebih lanjut tentang pilihan pembelian tersedia di [Pembelian](https://purchase.aspose.com/buy) Dan [Lisensi Sementara](https://purchase.aspose.com/temporary-license/).
-- **Mendukung:** Untuk pertanyaan atau masalah, kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Mendukung:** Untuk pertanyaan atau masalah, kunjungi [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

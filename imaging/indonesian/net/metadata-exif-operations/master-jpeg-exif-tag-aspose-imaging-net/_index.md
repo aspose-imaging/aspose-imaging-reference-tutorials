@@ -149,7 +149,7 @@ A3: Terapkan blok try-catch di sekitar kode pemuatan gambar Anda untuk menangani
 A4: Ya, Anda dapat membaca dan menulis tag EXIF dengan API Aspose.Imaging yang komprehensif.
 
 **Q5: Di mana saya bisa mendapatkan dukungan jika saya mengalami masalah?**
-A5: Kunjungi [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/10) untuk dukungan masyarakat dan resmi.
+A5: Kunjungi [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) untuk dukungan masyarakat dan resmi.
 
 ## Sumber daya
 

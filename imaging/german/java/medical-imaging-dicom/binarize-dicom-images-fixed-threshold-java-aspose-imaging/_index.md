@@ -164,7 +164,7 @@ Bereit zum Ausprobieren? Implementieren Sie diese Lösung noch heute in Ihrem Pr
    - Optimieren Sie Ihre Umgebung und Ihren Code für die Speicherverwaltung, indem Sie die Garbage Collection von Java effektiv nutzen.
 
 5. **Gibt es Support, wenn ich auf Probleme stoße?**
-   - Hilfe erhalten Sie auf der [Aspose Support Forum](https://forum.aspose.com/c/imaging/10).
+   - Hilfe erhalten Sie auf der [Aspose Support Forum](https://forum.aspose.com/c/imaging/14).
 
 ## Ressourcen
 

@@ -198,7 +198,7 @@ Aspose.Imaging for Java kullanarak SVG dosyalarını nasıl yükleyeceğinizi ve
 - [Satın almak](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
-- [Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 Bu özellikleri bugün projelerinize uygulamaya başlayın ve Aspose.Imaging for Java'nın iş akışınızı nasıl geliştirebileceğini görün!
 

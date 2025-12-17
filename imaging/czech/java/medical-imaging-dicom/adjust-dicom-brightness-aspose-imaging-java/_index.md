@@ -183,7 +183,7 @@ Jste připraveni implementovat toto řešení? Ponořte se do kódu hned teď!
 - **Nákup**: [Koupit Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Bezplatná zkušební verze**: [Vyzkoušet zdarma](https://releases.aspose.com/imaging/java/)
 - **Dočasná licence**: [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora**: [Fórum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Podpora**: [Fórum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Využijte sílu Aspose.Imaging pro Javu a pozvedněte své úkoly zpracování obrazu s lehkostí a přesností!
 

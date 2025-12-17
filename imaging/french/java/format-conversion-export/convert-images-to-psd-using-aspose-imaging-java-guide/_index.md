@@ -258,7 +258,7 @@ A5 : Utilisez des blocs try-catch pour gérer les exceptions potentielles telle
 - **Achat**: [Acheter Aspose Imaging](https://purchase.aspose.com/buy)
 - **Essai gratuit**: [Essai gratuit](https://releases.aspose.com/imaging/java/)
 - **Permis temporaire**: [Demandez ici](https://purchase.aspose.com/temporary-license/)
-- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Soutien**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

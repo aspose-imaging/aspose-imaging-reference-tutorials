@@ -203,7 +203,7 @@ A5：訪問 [Aspose 文檔](https://reference.aspose.com/imaging/java/) 提供�
 - **購買**：https://purchase.aspose.com/buy
 - **免費試用**：https://releases.aspose.com/imaging/java/
 - **臨時執照**：https://purchase.aspose.com/temporary-license/
-- **支援**：https://forum.aspose.com/c/imaging/10
+- **支援**：https://forum.aspose.com/c/imaging/14
 
 探索這些資源，進一步加深您對 Java 中 Aspose.Imaging 的理解和應用。祝您程式愉快！
 

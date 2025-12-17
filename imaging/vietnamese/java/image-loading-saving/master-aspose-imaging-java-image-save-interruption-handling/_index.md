@@ -231,7 +231,7 @@ Bằng cách làm theo hướng dẫn này, bạn đã học cách triển khai 
    - Hãy cân nhắc triển khai nhóm luồng và các biện pháp quản lý tài nguyên hiệu quả để xử lý tình trạng đồng thời cao.
 
 5. **Làm thế nào để khắc phục những sự cố thường gặp khi sử dụng Aspose.Imaging?**
-   - Kiểm tra chính thức [tài liệu](https://reference.aspose.com/imaging/java/) để biết hướng dẫn chi tiết hoặc truy cập [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10) để hỗ trợ cộng đồng.
+   - Kiểm tra chính thức [tài liệu](https://reference.aspose.com/imaging/java/) để biết hướng dẫn chi tiết hoặc truy cập [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14) để hỗ trợ cộng đồng.
 
 ## Tài nguyên
 

@@ -189,7 +189,7 @@ Aspose.Imaging은 메타데이터 읽기 및 쓰기를 지원하지만, 구체�
 - **구입**: [지금 구매하세요](https://purchase.aspose.com/buy)
 - **무료 체험**: [Aspose.Imaging을 사용해 보세요](https://releases.aspose.com/imaging/java/)
 - **임시 면허**: [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원 포럼**: [Aspose 커뮤니티 지원](https://forum.aspose.com/c/imaging/10)
+- **지원 포럼**: [Aspose 커뮤니티 지원](https://forum.aspose.com/c/imaging/14)
 
 지금 Aspose.Imaging for Java로 여정을 시작하고, 애플리케이션에서 이미지 처리의 모든 잠재력을 활용하세요!
 

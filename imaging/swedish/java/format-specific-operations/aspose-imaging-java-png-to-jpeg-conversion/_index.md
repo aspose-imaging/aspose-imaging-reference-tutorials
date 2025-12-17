@@ -225,7 +225,7 @@ Redo att testa det? Implementera dessa tekniker i ditt nästa projekt och se ski
 - [Köplicens](https://purchase.aspose.com/buy)
 - [Gratis provperiod](https://releases.aspose.com/imaging/java/)
 - [Ansökan om tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- [Aspose Supportforum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Supportforum](https://forum.aspose.com/c/imaging/14)
 
 Med den här omfattande guiden är du nu redo att använda Aspose.Imaging Java för effektiv bildbehandling i dina projekt. Lycka till med kodningen!
 

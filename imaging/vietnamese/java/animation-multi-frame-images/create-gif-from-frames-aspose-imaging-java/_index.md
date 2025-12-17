@@ -175,7 +175,7 @@ Hãy thử triển khai giải pháp này ngay hôm nay và xem nó cải thiệ
 - **Tài liệu**: [Tài liệu tham khảo Java Aspose.Imaging](https://reference.aspose.com/imaging/java/)
 - **Tải về**: [Aspose.Imaging phát hành](https://releases.aspose.com/imaging/java/)
 - **Mua & Cấp phép**: [Mua giấy phép Aspose](https://purchase.aspose.com/buy), [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/), [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**:Tham gia cộng đồng trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**:Tham gia cộng đồng trên [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách tích hợp Aspose.Imaging vào các dự án Java của bạn, bạn có thể mở khóa các khả năng xử lý hình ảnh mạnh mẽ giúp hợp lý hóa và nâng cao quy trình làm việc của bạn. Chúc bạn viết mã vui vẻ!
 

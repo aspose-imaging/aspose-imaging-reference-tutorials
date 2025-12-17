@@ -175,7 +175,7 @@ Aspose.Imaging の他の機能を調べたり、既存のプロジェクトに�
 - **購入**： [Aspose.Imaging を購入](https://purchase.aspose.com/buy)
 - **無料トライアル**： [Aspose.Imagingを無料でお試しください](https://releases.aspose.com/imaging/java/)
 - **一時ライセンス**： [一時ライセンスの申請](https://purchase.aspose.com/temporary-license/)
-- **サポート**： [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/10)
+- **サポート**： [Aspose.Imagingフォーラム](https://forum.aspose.com/c/imaging/14)
 
 このガイドは、Aspose.Imaging を使用して Java で TIFF 画像を効果的に操作するために必要なすべての情報を提供することを目的としています。コーディングを楽しみましょう！
 

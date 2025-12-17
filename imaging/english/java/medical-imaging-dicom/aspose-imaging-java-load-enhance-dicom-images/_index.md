@@ -210,7 +210,7 @@ Ready to implement this solution? Try it out and see how it enhances your projec
 - [Purchase License](https://purchase.aspose.com/buy)
 - [Free Trial](https://releases.aspose.com/imaging/java/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
-- [Support Forum](https://forum.aspose.com/c/imaging/10)
+- [Support Forum](https://forum.aspose.com/c/imaging/14)
 
 With this tutorial, you're now equipped to enhance your Java applications with powerful image processing capabilities using Aspose.Imaging. Happy coding!
 

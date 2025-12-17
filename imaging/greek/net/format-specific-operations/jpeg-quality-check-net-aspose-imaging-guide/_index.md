@@ -177,7 +177,7 @@ public static void CheckJpegSavedQuality()
 - **Αγορά:** [Αγορά Άδειας Χρήσης](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή:** [Δοκιμάστε το Aspose.Imaging](https://releases.aspose.com/imaging/net/)
 - **Προσωρινή Άδεια:** [Απόκτηση Προσωρινής Άδειας](https://purchase.aspose.com/temporary-license/)
-- **Υποστήριξη:** [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Υποστήριξη:** [Φόρουμ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Ξεκινήστε το επόμενο έργο επεξεργασίας εικόνας με σιγουριά, γνωρίζοντας ότι έχετε τα κατάλληλα εργαλεία και τις γνώσεις για να εξασφαλίσετε βέλτιστες ρυθμίσεις ποιότητας JPEG.
 

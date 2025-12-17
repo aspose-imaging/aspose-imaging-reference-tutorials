@@ -180,7 +180,7 @@ A5: Installera biblioteket via NuGet eller pakethanteraren och följ initialiser
 - **Köpa**: [Köp Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Gratis provperiod**: [Starta gratis provperiod](https://releases.aspose.com/imaging/net/)
 - **Tillfällig licens**: [Skaffa en tillfällig licens](https://purchase.aspose.com/temporary-license/)
-- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/10)
+- **Stöd**: [Aspose-forumet](https://forum.aspose.com/c/imaging/14)
 
 Ge dig ut på din resa mot att bemästra bildbehandling med Aspose.Imaging för .NET idag!
 

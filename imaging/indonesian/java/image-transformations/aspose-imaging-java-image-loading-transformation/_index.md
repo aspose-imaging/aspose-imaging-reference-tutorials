@@ -183,7 +183,7 @@ A5: Ya, dirancang untuk terintegrasi secara mulus di berbagai lingkungan Java.
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan](https://forum.aspose.com/c/imaging/14)
 
 Jelajahi sumber daya ini untuk meningkatkan pemahaman dan penerapan Aspose.Imaging di Java.
 

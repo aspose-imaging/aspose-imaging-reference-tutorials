@@ -188,7 +188,7 @@ Je hebt geleerd hoe je afbeeldingen effectief naar grijstinten kunt converteren 
 - **Download**: Download de nieuwste versie van [Aspose.Imaging-releases](https://releases.aspose.com/imaging/java/)
 - **Aankoop & Proefperiode**: Leer meer over de aankoopopties en begin met een gratis proefperiode [hier](https://purchase.aspose.com/buy)
 - **Tijdelijke licentie**: Een tijdelijke licentie verkrijgen [hier](https://purchase.aspose.com/temporary-license/)
-- **Steun**: Word lid van het communityforum op [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Steun**: Word lid van het communityforum op [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 We hopen dat deze handleiding je helpt om Aspose.Imaging voor Java effectief te gebruiken in je projecten. Veel plezier met coderen!
 

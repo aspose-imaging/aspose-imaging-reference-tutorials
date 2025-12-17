@@ -159,7 +159,7 @@ Door deze tutorial te volgen, heb je geleerd hoe je rasterafbeeldingen laadt en 
 - **Aankoopopties:** https://purchase.aspose.com/buy
 - **Gratis proefperiode:** https://releases.aspose.com/imaging/java/
 - **Tijdelijke licentie:** https://purchase.aspose.com/tijdelijke-licentie/
-- **Ondersteuningsforum:** https://forum.aspose.com/c/imaging/10
+- **Ondersteuningsforum:** https://forum.aspose.com/c/imaging/14
 
 Door Aspose.Imaging voor Java te gebruiken, kunt u uw applicaties uitbreiden met geavanceerde beeldverwerkingsmogelijkheden. Veel plezier met coderen!
 

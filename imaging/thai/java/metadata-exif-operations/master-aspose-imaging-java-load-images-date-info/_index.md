@@ -174,7 +174,7 @@ System.out.println("Last modify date using info from FileInfo and XMP metadata: 
 - [ซื้อ Aspose.Imaging](https://purchase.aspose.com/buy)
 - [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
 - [การขอใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/10)
+- [ฟอรั่มสนับสนุน Aspose](https://forum.aspose.com/c/imaging/14)
 
 โปรดอย่าลังเลที่จะสำรวจแหล่งข้อมูลเหล่านี้เพื่อดูข้อมูลและการสนับสนุนโดยละเอียดเพิ่มเติม ขอให้สนุกกับการเขียนโค้ด!
 

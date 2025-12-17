@@ -148,7 +148,7 @@ image.Save(outputDir);
 - **Αγορά**: https://purchase.aspose.com/buy
 - **Δωρεάν δοκιμή**: https://releases.aspose.com/imaging/net/
 - **Προσωρινή Άδεια**: https://purchase.aspose.com/temporary-license/
-- **Υποστήριξη**: https://forum.aspose.com/c/imaging/10
+- **Υποστήριξη**: https://forum.aspose.com/c/imaging/14
 
 Ξεκινήστε το ταξίδι σας για να τελειοποιήσετε την επεξεργασία εικόνας με το Aspose.Imaging σήμερα!
 

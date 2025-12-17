@@ -159,14 +159,14 @@ Artık Aspose.Imaging .NET kullanarak görüntüleri nasıl yükleyeceğinizi, f
 4. **Aspose.Imaging hangi dosya formatlarını destekliyor?**
    - JPEG, PNG, GIF ve daha fazlası dahil olmak üzere 100'den fazla resim formatını destekler.
 5. **Aspose.Imaging ile ilgili yaygın sorunları nasıl giderebilirim?**
-   - Başvurun [Aspose'un destek forumu](https://forum.aspose.com/c/imaging/10) Çözümler için lütfen tıklayın veya detaylı dokümantasyona bakın.
+   - Başvurun [Aspose'un destek forumu](https://forum.aspose.com/c/imaging/14) Çözümler için lütfen tıklayın veya detaylı dokümantasyona bakın.
 
 ## Kaynaklar
 - **Belgeleme**: Kapsamlı rehberler [Aspose Belgeleri](https://reference.aspose.com/imaging/net/)
 - **En Son Sürümü İndirin**: Şuradan erişilebilir: [Bültenler Sayfası](https://releases.aspose.com/imaging/net/)
 - **Lisans Satın Al**: Doğrudan satın alma bağlantısı şu adreste mevcuttur: [Aspose'un Satın Alma Sayfası](https://purchase.aspose.com/buy)
 - **Ücretsiz Deneme ve Geçici Lisans**: Şu adreste mevcuttur: [Sürüm sayfası](https://releases.aspose.com/imaging/net/) Ve [Geçici Lisans bölümü](https://purchase.aspose.com/temporary-license/)
-- **Destek Forumu**: Herhangi bir sorunuz varsa, şu adresi ziyaret edin: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/10)
+- **Destek Forumu**: Herhangi bir sorunuz varsa, şu adresi ziyaret edin: [Aspose Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

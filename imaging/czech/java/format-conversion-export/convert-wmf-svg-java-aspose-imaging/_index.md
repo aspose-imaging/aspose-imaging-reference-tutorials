@@ -198,7 +198,7 @@ A4: Ano, ale je důležité efektivně spravovat zdroje a opatrně používat v�
 
 **Q5: Jak mohu získat další podporu, pokud narazím na problémy s Aspose.Imaging?**
 
-A5: Návštěva [Asposeovo fórum](https://forum.aspose.com/c/imaging/10) pro podporu komunity nebo kontaktujte jejich zákaznický servis přímo prostřednictvím stránky nákupu.
+A5: Návštěva [Asposeovo fórum](https://forum.aspose.com/c/imaging/14) pro podporu komunity nebo kontaktujte jejich zákaznický servis přímo prostřednictvím stránky nákupu.
 
 ## Zdroje
 

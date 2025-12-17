@@ -148,7 +148,7 @@ Klaar om deze oplossing te implementeren? Experimenteer met verschillende afbeel
    - Een Java Development Kit (JDK) en een compatibele IDE.
 
 5. **Is er ondersteuning beschikbaar voor het oplossen van problemen?**
-   - Bezoek [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/10) voor hulp.
+   - Bezoek [Aspose Ondersteuningsforum](https://forum.aspose.com/c/imaging/14) voor hulp.
 
 ## Bronnen
 

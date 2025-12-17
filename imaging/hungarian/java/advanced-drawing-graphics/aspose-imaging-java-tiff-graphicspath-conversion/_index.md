@@ -246,7 +246,7 @@ You've now mastered how to convert TIFF path resources into `GraphicsPath` objec
 - **Purchase:** [Buy Aspose.Imaging License](https://purchase.aspose.com/buy)
 - **Free Trial:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/10)
+- **Support Forum:** [Aspose Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 ---
 

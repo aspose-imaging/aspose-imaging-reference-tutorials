@@ -201,7 +201,7 @@ Készen állsz a mélyebbre merülésre? Próbáld ki ezeket a megoldásokat a p
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
 - [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
 - [Ideiglenes engedély](https://purchase.aspose.com/temporary-license/)
-- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/10)
+- [Aspose Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
 
 Böngészd át ezeket az anyagokat, hogy elmélyítsd a tudásodat és fejleszd a képfeldolgozási képességeidet az Aspose.Imaging for Java segítségével. Jó kódolást!
 

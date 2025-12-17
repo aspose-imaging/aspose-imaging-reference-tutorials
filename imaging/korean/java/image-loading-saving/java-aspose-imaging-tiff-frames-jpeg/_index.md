@@ -254,7 +254,7 @@ Aspose.Imaging의 더 많은 기능을 탐색하려면 다음을 살펴보세요
 - **선적 서류 비치:** 자세한 가이드를 살펴보세요 [Aspose.Imaging 문서](https://reference.aspose.com/imaging/java/).
 - **다운로드:** 최신 버전을 받으세요 [Aspose.Imaging 릴리스](https://releases.aspose.com/imaging/java/).
 - **구매 및 체험:** 구매 옵션에 액세스하거나 무료 체험판을 시작하세요. [Aspose 구매 페이지](https://purchase.aspose.com/buy) 그리고 [무료 체험](https://releases.aspose.com/imaging/java/).
-- **지원하다:** 문의사항은 다음 사이트를 방문하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/10).
+- **지원하다:** 문의사항은 다음 사이트를 방문하세요. [Aspose 포럼](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

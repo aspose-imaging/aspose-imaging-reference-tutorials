@@ -211,7 +211,7 @@ A: Manfaatkan ukuran buffer khusus selama pemuatan untuk mengoptimalkan pengguna
 - **Pembelian**: [Beli Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Uji Coba Gratis**: [Mulai Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
 - **Lisensi Sementara**: [Dapatkan Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/10)
+- **Mendukung**: [Forum Aspose](https://forum.aspose.com/c/imaging/14)
 
 Dengan mengikuti panduan ini, Anda akan diperlengkapi dengan baik untuk menerapkan teknik kompresi gambar tingkat lanjut menggunakan Aspose.Imaging untuk Java. Jelajahi lebih jauh dan integrasikan metode ini ke dalam proyek Anda untuk mencapai kinerja dan kualitas yang optimal.
 

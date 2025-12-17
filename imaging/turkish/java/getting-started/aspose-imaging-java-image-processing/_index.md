@@ -194,7 +194,7 @@ Görüntü işleme becerilerinizi bir üst seviyeye taşımaya hazır mısınız
 - **Satın almak**: Tam lisansı şu şekilde edinin: [Aspose'un satın alma sayfası](https://purchase.aspose.com/buy).
 - **Ücretsiz Deneme**: Özellikleri keşfetmek için ücretsiz denemeyle başlayın [Aspose İndirmeleri](https://releases.aspose.com/imaging/java/).
 - **Geçici Lisans**: Genişletilmiş test için geçici bir lisans talep edin [Aspose Geçici Lisans](https://purchase.aspose.com/temporary-license/).
-- **Destek**: Topluluğa katılın ve yardım isteyin [Aspose Forum](https://forum.aspose.com/c/imaging/10).
+- **Destek**: Topluluğa katılın ve yardım isteyin [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -190,7 +190,7 @@ Untuk lebih meningkatkan kemampuan Anda, jelajahi fitur tambahan Aspose.Imaging,
 - [Unduh Aspose.Imaging untuk Java](https://releases.aspose.com/imaging/java/)
 - [Beli Lisensi](https://purchase.aspose.com/buy)
 - [Uji Coba Gratis dan Lisensi Sementara](https://releases.aspose.com/imaging/java/)Bahasa Indonesia: [Halaman Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/10)
+- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
 
 Jelajahi sumber daya ini untuk memperdalam pemahaman Anda tentang Aspose.Imaging untuk Java, memastikan Anda siap menangani kebutuhan pemrosesan gambar BigTIFF apa pun.
 

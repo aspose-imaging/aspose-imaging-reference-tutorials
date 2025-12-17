@@ -172,7 +172,7 @@ Aspose.Imaging for .NET 的亮度調整在各種場景中都非常有價值：
 - **購買許可證**： [立即購買](https://purchase.aspose.com/buy)
 - **免費試用**： [開始](https://releases.aspose.com/imaging/net/)
 - **臨時執照**： [在此請求](https://purchase.aspose.com/temporary-license/)
-- **支援論壇**： [Aspose.Imaging 社區](https://forum.aspose.com/c/imaging/10)
+- **支援論壇**： [Aspose.Imaging 社區](https://forum.aspose.com/c/imaging/14)
 
 本指南將作為您掌握使用 Aspose.Imaging for .NET 進行亮度調整的全面資源。祝您程式愉快！
 

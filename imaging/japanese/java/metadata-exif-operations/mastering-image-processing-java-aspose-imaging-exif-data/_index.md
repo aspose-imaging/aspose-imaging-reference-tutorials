@@ -217,7 +217,7 @@ Aspose.Imaging for Javaを使用してJPEG画像を読み込み、EXIFデータ�
 - [ライセンスを購入](https://purchase.aspose.com/buy)
 - [無料トライアル](https://releases.aspose.com/imaging/java/)
 - [一時ライセンス申請](https://purchase.aspose.com/temporary-license/)
-- [サポートフォーラム](https://forum.aspose.com/c/imaging/10)
+- [サポートフォーラム](https://forum.aspose.com/c/imaging/14)
 
 これで、すべてのツールと知識が手に入ったので、これらの強力な機能を Java アプリケーションに実装する準備が整いました。
 

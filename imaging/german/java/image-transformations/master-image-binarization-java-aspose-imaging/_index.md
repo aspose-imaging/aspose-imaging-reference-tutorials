@@ -191,7 +191,7 @@ A5: Ja, Aspose.Imaging unterstützt eine Vielzahl von Bildformaten, darunter JPE
 - **Kaufen:** [Aspose.Lizenz kaufen](https://purchase.aspose.com/buy)
 - **Kostenlose Testversion:** [Starten Sie Ihre kostenlose Testversion](https://releases.aspose.com/imaging/java/)
 - **Temporäre Lizenz:** [Holen Sie sich eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung:** [Aspose Forum](https://forum.aspose.com/c/imaging/10)
+- **Unterstützung:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
 Durch das Durcharbeiten dieses Tutorials haben Sie sich die Fähigkeiten angeeignet, Bildbinarisierungsaufgaben mit Aspose.Imaging für Java effektiv zu bewältigen. Viel Spaß beim Programmieren!
 

@@ -184,7 +184,7 @@ Hãy bắt đầu áp dụng những kỹ thuật này vào dự án tiếp theo
 - **Mua giấy phép**: [Mua Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Dùng thử miễn phí**: [Bắt đầu dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
 - **Giấy phép tạm thời**: [Xin giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/10)
+- **Ủng hộ**: [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
 Bằng cách thực hiện các bước này và sử dụng các tài nguyên được cung cấp, bạn sẽ được trang bị tốt để xử lý nén ảnh BMP bằng Aspose.Imaging cho Java. Chúc bạn viết mã vui vẻ!
 

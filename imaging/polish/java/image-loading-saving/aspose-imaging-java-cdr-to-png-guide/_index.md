@@ -189,7 +189,7 @@ A3: Dostosuj `CdrRasterizationOptions` parametry takie jak rozdzielczość i typ
 A4: Do zastosowań komercyjnych wymagana jest zakupiona licencja. Możesz zacząć od bezpłatnego okresu próbnego lub złożyć wniosek o tymczasową licencję.
 
 **P5: Gdzie mogę uzyskać pomoc, jeśli napotkam problemy?**
-A5: Odwiedź [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10) celu uzyskania pomocy i dyskusji społecznej.
+A5: Odwiedź [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14) celu uzyskania pomocy i dyskusji społecznej.
 
 ## Zasoby
 
@@ -197,7 +197,7 @@ A5: Odwiedź [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10) celu
 - **Pobierz bibliotekę:** Pobierz najnowszą wersję z [Aspose.Imaging publikuje](https://releases.aspose.com/imaging/java/)
 - **Kup licencję:** Odwiedzać [Witryna zakupu Aspose](https://purchase.aspose.com/buy)
 - **Bezpłatna wersja próbna i licencja tymczasowa:** Rozpocznij swoją podróż w [Aspose Bezpłatna wersja próbna](https://releases.aspose.com/imaging/java/) I [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- **Forum wsparcia:** Skontaktuj się ze społecznością, aby uzyskać pomoc [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/10)
+- **Forum wsparcia:** Skontaktuj się ze społecznością, aby uzyskać pomoc [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
 
 Rozpocznij przygodę z Aspose.Imaging Java już dziś i wciel w życie swoje projekty obrazowania cyfrowego!
 

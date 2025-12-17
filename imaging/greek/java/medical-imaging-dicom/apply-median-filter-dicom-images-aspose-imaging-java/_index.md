@@ -185,7 +185,7 @@ image.save(outputFile, new BmpOptions());
 - **Αγορά Άδειας Χρήσης**: [Αγοράστε τώρα](https://purchase.aspose.com/buy)
 - **Δωρεάν δοκιμή**: [Ξεκινήστε](https://releases.aspose.com/imaging/java/)
 - **Προσωρινή Άδεια**: [Κάντε αίτηση εδώ](https://purchase.aspose.com/temporary-license/)
-- **Φόρουμ Υποστήριξης**: [Υποστήριξη Aspose.Imaging](https://forum.aspose.com/c/imaging/10)
+- **Φόρουμ Υποστήριξης**: [Υποστήριξη Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 Ξεκινήστε να εξερευνάτε τις ισχυρές δυνατότητες επεξεργασίας εικόνας του Aspose.Imaging για Java σήμερα!
 

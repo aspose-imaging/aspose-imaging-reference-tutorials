@@ -199,7 +199,7 @@ Sepanjang tutorial ini, Anda telah mempelajari cara mengonversi file JPEG dan PN
 - **Dokumentasi**:Jelajahi lebih lanjut di [Dokumentasi Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 - **Unduh**:Dapatkan rilis terbaru dari [Halaman Rilis Aspose](https://releases.aspose.com/imaging/java/).
 - **Pembelian dan Uji Coba Gratis**:Coba fitur hari ini di [Halaman Pembelian dan Uji Coba Gratis Aspose](https://purchase.aspose.com/buy).
-- **Mendukung**: Bergabunglah dalam diskusi di [Forum Aspose](https://forum.aspose.com/c/imaging/10).
+- **Mendukung**: Bergabunglah dalam diskusi di [Forum Aspose](https://forum.aspose.com/c/imaging/14).
 
 Kami harap panduan ini memberdayakan Anda untuk memanfaatkan Aspose.Imaging Java secara efektif untuk kebutuhan pemrosesan gambar Anda. Selamat membuat kode!
 
