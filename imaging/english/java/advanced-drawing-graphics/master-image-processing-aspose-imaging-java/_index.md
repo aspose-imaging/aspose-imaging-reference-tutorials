@@ -196,6 +196,12 @@ A: Absolutely – it runs anywhere Java is supported, including Windows, Linux, 
 
 Now, armed with this knowledge, you're ready to implement Aspose.Imaging in your Java projects for enhanced image processing capabilities. Happy coding!
 
+---
+
+**Last Updated:** 2025-12-15  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -203,9 +209,3 @@ Now, armed with this knowledge, you're ready to implement Aspose.Imaging in your
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Last Updated:** 2025-12-15  
-**Tested With:** Aspose.Imaging 25.5 for Java  
-**Author:** Aspose

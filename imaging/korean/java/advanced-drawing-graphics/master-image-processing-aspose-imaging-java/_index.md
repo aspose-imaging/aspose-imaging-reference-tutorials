@@ -197,6 +197,12 @@ A: 물론입니다 – Windows, Linux, macOS 등 Java가 지원되는 모든 환
 
 이제 이 지식을 바탕으로 Java 프로젝트에 Aspose.Imaging을 구현하여 향상된 이미지 처리 기능을 활용할 준비가 되었습니다. 즐거운 코딩 되세요!
 
+---
+
+**Last Updated:** 2025-12-15  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -204,9 +210,3 @@ A: 물론입니다 – Windows, Linux, macOS 등 Java가 지원되는 모든 환
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Last Updated:** 2025-12-15  
-**Tested With:** Aspose.Imaging 25.5 for Java  
-**Author:** Aspose

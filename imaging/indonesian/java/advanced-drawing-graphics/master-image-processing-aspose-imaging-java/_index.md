@@ -198,6 +198,12 @@ J: Tentu saja – ia berjalan di mana pun Java didukung, termasuk Windows, Linux
 
 Sekarang, dengan pengetahuan ini, Anda siap mengimplementasikan Aspose.Imaging dalam proyek Java Anda untuk kemampuan pengolahan gambar yang lebih baik. Selamat coding!
 
+---
+
+**Terakhir Diperbarui:** 2025-12-15  
+**Diuji Dengan:** Aspose.Imaging 25.5 untuk Java  
+**Penulis:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -205,9 +211,3 @@ Sekarang, dengan pengetahuan ini, Anda siap mengimplementasikan Aspose.Imaging d
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Terakhir Diperbarui:** 2025-12-15  
-**Diuji Dengan:** Aspose.Imaging 25.5 untuk Java  
-**Penulis:** Aspose

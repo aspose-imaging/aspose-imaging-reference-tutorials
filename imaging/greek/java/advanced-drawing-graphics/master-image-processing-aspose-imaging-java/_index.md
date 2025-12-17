@@ -198,6 +198,12 @@ static void exportProgressCallback(ProgressEventHandlerInfo info) {
 
 Τώρα, εξοπλισμένοι με αυτές τις γνώσεις, είστε έτοιμοι να ενσωματώσετε το Aspose.Imaging στα Java έργα σας για βελτιωμένες δυνατότητες επεξεργασίας εικόνας. Καλή προγραμματιστική!
 
+---
+
+**Last Updated:** 2025-12-15  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -205,9 +211,3 @@ static void exportProgressCallback(ProgressEventHandlerInfo info) {
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Last Updated:** 2025-12-15  
-**Tested With:** Aspose.Imaging 25.5 for Java  
-**Author:** Aspose

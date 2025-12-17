@@ -197,6 +197,12 @@ A: Rozhodně – běží kdekoliv je podporována Java, včetně Windows, Linuxu
 
 Nyní, vybaveni těmito znalostmi, jste připraveni implementovat Aspose.Imaging ve svých Java projektech pro rozšířené možnosti zpracování obrázků. Šťastné programování!
 
+---
+
+**Poslední aktualizace:** 2025-12-15  
+**Testováno s:** Aspose.Imaging 25.5 for Java  
+**Autor:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -204,9 +210,3 @@ Nyní, vybaveni těmito znalostmi, jste připraveni implementovat Aspose.Imaging
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Poslední aktualizace:** 2025-12-15  
-**Testováno s:** Aspose.Imaging 25.5 for Java  
-**Autor:** Aspose

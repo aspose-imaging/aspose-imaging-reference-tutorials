@@ -197,6 +197,12 @@ A: はい、Java がサポートされている環境（Windows、Linux、macOS�
 
 以上の知識を身につければ、Java プロジェクトで Aspose.Imaging を活用した高度な画像処理が実装できます。コーディングを楽しんでください！
 
+---
+
+**Last Updated:** 2025-12-15  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -204,9 +210,3 @@ A: はい、Java がサポートされている環境（Windows、Linux、macOS�
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Last Updated:** 2025-12-15  
-**Tested With:** Aspose.Imaging 25.5 for Java  
-**Author:** Aspose

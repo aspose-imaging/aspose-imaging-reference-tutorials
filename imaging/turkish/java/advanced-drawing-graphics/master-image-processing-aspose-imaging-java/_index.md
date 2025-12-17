@@ -197,6 +197,12 @@ C: Kesinlikle – Java'nın desteklendiği her yerde çalışır, Windows, Linux
 
 Şimdi bu bilgiyle donanmış olarak, Java projelerinizde gelişmiş görüntü işleme yetenekleri için Aspose.Imaging'i uygulamaya hazır durumdasınız. Kodlamanın tadını çıkarın!
 
+---
+
+**Son Güncelleme:** 2025-12-15  
+**Test Edilen Sürüm:** Aspose.Imaging 25.5 for Java  
+**Yazar:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -204,9 +210,3 @@ C: Kesinlikle – Java'nın desteklendiği her yerde çalışır, Windows, Linux
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Son Güncelleme:** 2025-12-15  
-**Test Edilen Sürüm:** Aspose.Imaging 25.5 for Java  
-**Yazar:** Aspose

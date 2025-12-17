@@ -198,6 +198,12 @@ R : Absolument – il fonctionne partout où Java est supporté, y compris Win
 
 Maintenant, armé de ces connaissances, vous êtes prêt à implémenter Aspose.Imaging dans vos projets Java pour des capacités de traitement d'images améliorées. Bon codage !
 
+---
+
+**Last Updated:** 2025-12-15  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -205,9 +211,3 @@ Maintenant, armé de ces connaissances, vous êtes prêt à implémenter Aspose.
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Last Updated:** 2025-12-15  
-**Tested With:** Aspose.Imaging 25.5 for Java  
-**Author:** Aspose

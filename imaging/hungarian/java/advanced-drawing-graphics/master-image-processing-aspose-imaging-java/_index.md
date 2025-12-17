@@ -199,6 +199,12 @@ V: Teljesen – bárhol fut, ahol a Java támogatott, beleértve a Windows, Linu
 
 Most, hogy fel vagy vértezve ezzel a tudással, készen állsz az Aspose.Imaging Java projektekbe való beépítésre a fejlettebb képfeldolgozási képességek érdekében. Boldog kódolást!
 
+---
+
+**Utolsó frissítés:** 2025-12-15  
+**Tesztelve:** Aspose.Imaging 25.5 for Java  
+**Szerző:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -206,9 +212,3 @@ Most, hogy fel vagy vértezve ezzel a tudással, készen állsz az Aspose.Imagin
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Utolsó frissítés:** 2025-12-15  
-**Tesztelve:** Aspose.Imaging 25.5 for Java  
-**Szerző:** Aspose

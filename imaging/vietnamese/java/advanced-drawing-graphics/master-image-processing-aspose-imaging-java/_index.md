@@ -198,6 +198,12 @@ A: Chắc chắn – nó chạy ở bất kỳ nơi nào Java được hỗ tr�
 
 Bây giờ, với kiến thức này, bạn đã sẵn sàng triển khai Aspose.Imaging trong các dự án Java của mình để nâng cao khả năng xử lý hình ảnh. Chúc lập trình vui vẻ!
 
+---
+
+**Cập nhật lần cuối:** 2025-12-15  
+**Kiểm tra với:** Aspose.Imaging 25.5 for Java  
+**Tác giả:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -205,9 +211,3 @@ Bây giờ, với kiến thức này, bạn đã sẵn sàng triển khai Aspose
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Cập nhật lần cuối:** 2025-12-15  
-**Kiểm tra với:** Aspose.Imaging 25.5 for Java  
-**Tác giả:** Aspose

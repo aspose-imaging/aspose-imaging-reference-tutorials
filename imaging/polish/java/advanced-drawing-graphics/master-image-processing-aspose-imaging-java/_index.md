@@ -198,6 +198,12 @@ O: Zdecydowanie – działa wszędzie tam, gdzie obsługiwana jest Java, w tym W
 
 Teraz, uzbrojony w tę wiedzę, jesteś gotowy wdrożyć Aspose.Imaging w swoich projektach Java, aby uzyskać rozszerzone możliwości przetwarzania obrazów. Szczęśliwego kodowania!
 
+---
+
+**Ostatnia aktualizacja:** 2025-12-15  
+**Testowano z:** Aspose.Imaging 25.5 for Java  
+**Autor:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -205,9 +211,3 @@ Teraz, uzbrojony w tę wiedzę, jesteś gotowy wdrożyć Aspose.Imaging w swoich
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Ostatnia aktualizacja:** 2025-12-15  
-**Testowano z:** Aspose.Imaging 25.5 for Java  
-**Autor:** Aspose

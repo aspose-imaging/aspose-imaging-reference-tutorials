@@ -198,6 +198,12 @@ A: Absolut – det körs var som helst Java stöds, inklusive Windows, Linux och
 
 Nu, beväpnad med denna kunskap, är du redo att implementera Aspose.Imaging i dina Java‑projekt för förbättrade bildbehandlingsmöjligheter. Lycka till med kodningen!
 
+---
+
+**Last Updated:** 2025-12-15  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -205,9 +211,3 @@ Nu, beväpnad med denna kunskap, är du redo att implementera Aspose.Imaging i d
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Last Updated:** 2025-12-15  
-**Tested With:** Aspose.Imaging 25.5 for Java  
-**Author:** Aspose
