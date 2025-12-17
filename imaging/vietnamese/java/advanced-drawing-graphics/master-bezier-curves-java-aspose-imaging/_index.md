@@ -200,6 +200,12 @@ A: Kiểm tra cấu hình công cụ build, đảm bảo tham chiếu đúng phi
 
 Bắt đầu vẽ những đường cong này ngay hôm nay và nâng tầm các dự án Java của bạn với Aspose.Imaging!
 
+---
+
+**Cập nhật lần cuối:** 2025-12-13  
+**Đã kiểm tra với:** Aspose.Imaging 25.5 for Java  
+**Tác giả:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -207,9 +213,3 @@ Bắt đầu vẽ những đường cong này ngay hôm nay và nâng tầm các
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Cập nhật lần cuối:** 2025-12-13  
-**Đã kiểm tra với:** Aspose.Imaging 25.5 for Java  
-**Tác giả:** Aspose

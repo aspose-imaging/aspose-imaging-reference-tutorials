@@ -201,6 +201,12 @@ A: 检查构建工具配置，确保引用了正确的版本，并确认许可�
 
 立即开始绘制这些曲线，使用 Aspose.Imaging 提升您的 Java 项目！
 
+---
+
+**最后更新：** 2025-12-13  
+**测试环境：** Aspose.Imaging 25.5 for Java  
+**作者：** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -208,9 +214,3 @@ A: 检查构建工具配置，确保引用了正确的版本，并确认许可�
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**最后更新：** 2025-12-13  
-**测试环境：** Aspose.Imaging 25.5 for Java  
-**作者：** Aspose

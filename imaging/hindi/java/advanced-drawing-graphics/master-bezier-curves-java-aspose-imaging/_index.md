@@ -202,6 +202,12 @@ Aspose.Imaging के साथ काम करते समय आपका �
 
 आज ही कर्व ड्रॉ करना शुरू करें और Aspose.Imaging के साथ अपने जावा प्रोजेक्ट्स को नई ऊँचाइयों पर ले जाएँ!
 
+---
+
+**Last Updated:** 2025-12-13  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -209,9 +215,3 @@ Aspose.Imaging के साथ काम करते समय आपका �
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Last Updated:** 2025-12-13  
-**Tested With:** Aspose.Imaging 25.5 for Java  
-**Author:** Aspose

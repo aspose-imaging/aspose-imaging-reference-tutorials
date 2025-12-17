@@ -200,6 +200,12 @@ R: Controlla la configurazione del tuo strumento di build, assicurati che la ver
 
 Inizia a disegnare queste curve oggi stesso e porta i tuoi progetti Java a un livello superiore con Aspose.Imaging!
 
+---
+
+**Ultimo aggiornamento:** 2025-12-13  
+**Testato con:** Aspose.Imaging 25.5 for Java  
+**Autore:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -207,9 +213,3 @@ Inizia a disegnare queste curve oggi stesso e porta i tuoi progetti Java a un li
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Ultimo aggiornamento:** 2025-12-13  
-**Testato con:** Aspose.Imaging 25.5 for Java  
-**Autore:** Aspose

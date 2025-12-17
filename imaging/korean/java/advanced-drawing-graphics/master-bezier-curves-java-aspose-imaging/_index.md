@@ -198,6 +198,12 @@ A: 빌드 도구 설정을 확인하고, 올바른 버전이 참조되는지 확
 
 오늘 바로 곡선을 그려 보세요, Aspose.Imaging으로 Java 프로젝트를 한 단계 끌어올리세요!
 
+---
+
+**마지막 업데이트:** 2025-12-13  
+**테스트 환경:** Aspose.Imaging 25.5 for Java  
+**작성자:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -205,9 +211,3 @@ A: 빌드 도구 설정을 확인하고, 올바른 버전이 참조되는지 확
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**마지막 업데이트:** 2025-12-13  
-**테스트 환경:** Aspose.Imaging 25.5 for Java  
-**작성자:** Aspose

@@ -1,5 +1,5 @@
 ---
-title: "draw bezier curve java with Aspose.Imaging – A Comprehensive Guide"
+title: "Draw Bezier Curve Java with Aspose.Imaging – A Comprehensive Guide"
 description: "Learn how to draw bezier curve java using Aspose.Imaging for Java, covering installation, code walkthrough, and practical examples."
 date: "2025-12-13"
 weight: 1
@@ -201,6 +201,12 @@ A: Check your build tool configuration, ensure the correct version is referenced
 
 Start drawing those curves today and elevate your Java projects with Aspose.Imaging!
 
+---
+
+**Last Updated:** 2025-12-13  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -208,9 +214,3 @@ Start drawing those curves today and elevate your Java projects with Aspose.Imag
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Last Updated:** 2025-12-13  
-**Tested With:** Aspose.Imaging 25.5 for Java  
-**Author:** Aspose

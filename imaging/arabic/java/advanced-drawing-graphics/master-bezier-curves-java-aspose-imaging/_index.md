@@ -200,6 +200,12 @@ image.save();
 
 ابدأ برسم تلك المنحنيات اليوم وارتقِ بمشاريع جافا الخاصة بك باستخدام Aspose.Imaging!
 
+---
+
+**آخر تحديث:** 2025-12-13  
+**تم الاختبار مع:** Aspose.Imaging 25.5 for Java  
+**المؤلف:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -207,9 +213,3 @@ image.save();
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**آخر تحديث:** 2025-12-13  
-**تم الاختبار مع:** Aspose.Imaging 25.5 for Java  
-**المؤلف:** Aspose

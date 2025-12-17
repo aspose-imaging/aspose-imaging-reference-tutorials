@@ -201,6 +201,12 @@ A: ビルドツールの設定を確認し、正しいバージョンが参照�
 
 今日から曲線を描き始め、Aspose.Imaging で Java プロジェクトを次のレベルに引き上げましょう！
 
+---
+
+**最終更新日:** 2025-12-13  
+**テスト環境:** Aspose.Imaging 25.5 for Java  
+**作者:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -208,9 +214,3 @@ A: ビルドツールの設定を確認し、正しいバージョンが参照�
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**最終更新日:** 2025-12-13  
-**テスト環境:** Aspose.Imaging 25.5 for Java  
-**作者:** Aspose

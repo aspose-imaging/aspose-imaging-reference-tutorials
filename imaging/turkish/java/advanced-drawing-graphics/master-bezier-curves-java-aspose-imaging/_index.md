@@ -202,6 +202,12 @@ C: Derleme aracınızın yapılandırmasını kontrol edin, doğru sürümün re
 
 Bugün bu eğrileri çizmeye başlayın ve Java projelerinizi Aspose.Imaging ile yükseltin!
 
+---
+
+**Son Güncelleme:** 2025-12-13  
+**Test Edilen Versiyon:** Aspose.Imaging 25.5 for Java  
+**Yazar:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -209,9 +215,3 @@ Bugün bu eğrileri çizmeye başlayın ve Java projelerinizi Aspose.Imaging ile
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Son Güncelleme:** 2025-12-13  
-**Test Edilen Versiyon:** Aspose.Imaging 25.5 for Java  
-**Yazar:** Aspose

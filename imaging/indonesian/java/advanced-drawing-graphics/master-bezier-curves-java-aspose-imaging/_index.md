@@ -202,6 +202,12 @@ A: Periksa konfigurasi alat build Anda, pastikan versi yang tepat direferensikan
 
 Mulailah menggambar kurva tersebut hari ini dan tingkatkan proyek Java Anda dengan Aspose.Imaging!
 
+---
+
+**Last Updated:** 2025-12-13  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -209,9 +215,3 @@ Mulailah menggambar kurva tersebut hari ini dan tingkatkan proyek Java Anda deng
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Last Updated:** 2025-12-13  
-**Tested With:** Aspose.Imaging 25.5 for Java  
-**Author:** Aspose

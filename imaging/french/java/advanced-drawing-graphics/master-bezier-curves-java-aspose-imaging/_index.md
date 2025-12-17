@@ -202,6 +202,12 @@ R : Vérifiez la configuration de votre outil de construction, assurez‑vous 
 
 Commencez à dessiner ces courbes dès aujourd’hui et donnez une nouvelle dimension à vos projets Java avec Aspose.Imaging !
 
+---
+
+**Dernière mise à jour :** 2025-12-13  
+**Testé avec :** Aspose.Imaging 25.5 for Java  
+**Auteur :** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -209,9 +215,3 @@ Commencez à dessiner ces courbes dès aujourd’hui et donnez une nouvelle dime
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Dernière mise à jour :** 2025-12-13  
-**Testé avec :** Aspose.Imaging 25.5 for Java  
-**Auteur :** Aspose

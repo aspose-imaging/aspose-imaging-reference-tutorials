@@ -202,6 +202,12 @@ O: Sprawdź konfigurację narzędzia budowania, upewnij się, że odwołujesz si
 
 Rozpocznij rysowanie krzywych już dziś i podnieś poziom swoich projektów Java dzięki Aspose.Imaging!
 
+---
+
+**Ostatnia aktualizacja:** 2025-12-13  
+**Testowano z:** Aspose.Imaging 25.5 for Java  
+**Autor:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -209,9 +215,3 @@ Rozpocznij rysowanie krzywych już dziś i podnieś poziom swoich projektów Jav
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Ostatnia aktualizacja:** 2025-12-13  
-**Testowano z:** Aspose.Imaging 25.5 for Java  
-**Autor:** Aspose

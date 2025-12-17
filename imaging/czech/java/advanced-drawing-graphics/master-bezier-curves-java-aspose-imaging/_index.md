@@ -202,6 +202,12 @@ A: Zkontrolujte konfiguraci nástroje pro sestavení, ujistěte se, že je odkaz
 
 Začněte dnes kreslit tyto křivky a pozvedněte své Java projekty s Aspose.Imaging!
 
+---
+
+**Poslední aktualizace:** 2025-12-13  
+**Testováno s:** Aspose.Imaging 25.5 pro Javu  
+**Autor:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -209,9 +215,3 @@ Začněte dnes kreslit tyto křivky a pozvedněte své Java projekty s Aspose.Im
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Poslední aktualizace:** 2025-12-13  
-**Testováno s:** Aspose.Imaging 25.5 pro Javu  
-**Autor:** Aspose

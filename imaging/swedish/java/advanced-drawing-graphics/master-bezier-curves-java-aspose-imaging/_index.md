@@ -202,6 +202,12 @@ A: Kontrollera din byggverktygskonfiguration, säkerställ att rätt version ref
 
 Börja rita kurvorna idag och lyft dina Java‑projekt med Aspose.Imaging!
 
+---
+
+**Senast uppdaterad:** 2025-12-13  
+**Testat med:** Aspose.Imaging 25.5 för Java  
+**Författare:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -209,9 +215,3 @@ Börja rita kurvorna idag och lyft dina Java‑projekt med Aspose.Imaging!
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Senast uppdaterad:** 2025-12-13  
-**Testat med:** Aspose.Imaging 25.5 för Java  
-**Författare:** Aspose

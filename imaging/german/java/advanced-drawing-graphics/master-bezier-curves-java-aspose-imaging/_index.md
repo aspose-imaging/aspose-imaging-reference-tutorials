@@ -198,6 +198,12 @@ A: Prüfen Sie Ihre Build‑Tool‑Konfiguration, stellen Sie sicher, dass die k
 
 Beginnen Sie noch heute mit dem Zeichnen dieser Kurven und heben Sie Ihre Java‑Projekte mit Aspose.Imaging auf ein neues Niveau!
 
+---
+
+**Zuletzt aktualisiert:** 2025-12-13  
+**Getestet mit:** Aspose.Imaging 25.5 for Java  
+**Autor:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -205,9 +211,3 @@ Beginnen Sie noch heute mit dem Zeichnen dieser Kurven und heben Sie Ihre Java�
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Zuletzt aktualisiert:** 2025-12-13  
-**Getestet mit:** Aspose.Imaging 25.5 for Java  
-**Autor:** Aspose

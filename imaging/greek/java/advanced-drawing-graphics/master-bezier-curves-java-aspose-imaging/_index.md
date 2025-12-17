@@ -203,6 +203,12 @@ image.save();
 
 Ξεκινήστε να σχεδιάζετε αυτές τις καμπύλες σήμερα και ανεβάστε τα Java projects σας με το Aspose.Imaging!
 
+---
+
+**Τελευταία Ενημέρωση:** 2025-12-13  
+**Δοκιμάστηκε Με:** Aspose.Imaging 25.5 for Java  
+**Συγγραφέας:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -210,9 +216,3 @@ image.save();
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Τελευταία Ενημέρωση:** 2025-12-13  
-**Δοκιμάστηκε Με:** Aspose.Imaging 25.5 for Java  
-**Συγγραφέας:** Aspose

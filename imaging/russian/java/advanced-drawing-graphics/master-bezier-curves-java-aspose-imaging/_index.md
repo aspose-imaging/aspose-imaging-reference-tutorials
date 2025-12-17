@@ -198,6 +198,12 @@ A: Проверьте конфигурацию вашего инструмент
 
 Начните рисовать эти кривые уже сегодня и поднимите свои Java‑проекты на новый уровень с Aspose.Imaging!
 
+---
+
+**Last Updated:** 2025-12-13  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -205,9 +211,3 @@ A: Проверьте конфигурацию вашего инструмент
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Last Updated:** 2025-12-13  
-**Tested With:** Aspose.Imaging 25.5 for Java  
-**Author:** Aspose

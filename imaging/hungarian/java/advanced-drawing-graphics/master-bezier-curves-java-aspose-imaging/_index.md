@@ -198,6 +198,12 @@ Ellenőrizd a build eszköz konfigurációját, győződj meg róla, hogy a megf
 
 Kezdj el még ma görbéket rajzolni, és emeld fel Java projektjeidet az Aspose.Imaging segítségével!
 
+---
+
+**Utolsó frissítés:** 2025-12-13  
+**Tesztelve ezzel:** Aspose.Imaging 25.5 for Java  
+**Szerző:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -205,9 +211,3 @@ Kezdj el még ma görbéket rajzolni, és emeld fel Java projektjeidet az Aspose
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Utolsó frissítés:** 2025-12-13  
-**Tesztelve ezzel:** Aspose.Imaging 25.5 for Java  
-**Szerző:** Aspose

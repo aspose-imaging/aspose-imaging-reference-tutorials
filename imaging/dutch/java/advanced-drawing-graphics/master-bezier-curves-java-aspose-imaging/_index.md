@@ -202,6 +202,12 @@ A: Controleer je build‑toolconfiguratie, zorg dat de juiste versie wordt geref
 
 Begin vandaag nog met het tekenen van die curven en til je Java‑projecten naar een hoger niveau met Aspose.Imaging!
 
+---
+
+**Laatst bijgewerkt:** 2025-12-13  
+**Getest met:** Aspose.Imaging 25.5 for Java  
+**Auteur:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -209,9 +215,3 @@ Begin vandaag nog met het tekenen van die curven en til je Java‑projecten naar
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Laatst bijgewerkt:** 2025-12-13  
-**Getest met:** Aspose.Imaging 25.5 for Java  
-**Auteur:** Aspose
