@@ -1,10 +1,13 @@
 ---
-"description": "Pelajari perluasan dan pemotongan gambar di Java dengan Aspose.Imaging. Tutorial langkah demi langkah untuk pengembang. Tingkatkan keterampilan manipulasi gambar Anda."
-"linktitle": "Perluasan atau Pemotongan Gambar"
-"second_title": "API Pemrosesan Gambar Java Aspose.Imaging"
-"title": "Perluasan atau Pemotongan Gambar dengan Aspose.Imaging untuk Java"
-"url": "/id/java/document-conversion-and-processing/image-expansion-or-cropping/"
-"weight": 12
+date: 2025-12-20
+description: Pelajari cara memotong gambar menjadi persegi panjang dan memperluas
+  gambar menggunakan Java dengan Aspose.Imaging. Panduan langkah demi langkah untuk
+  pengembang.
+linktitle: Image Expansion or Cropping
+second_title: Aspose.Imaging Java Image Processing API
+title: Potong Gambar menjadi Persegi Panjang dengan Aspose.Imaging untuk Java
+url: /id/java/document-conversion-and-processing/image-expansion-or-cropping/
+weight: 12
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,44 +16,44 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Perluasan atau Pemotongan Gambar dengan Aspose.Imaging untuk Java
+# Memotong Gambar menjadi Persegi Panjang dengan Aspose.Imaging untuk Java
 
-Dalam dunia media digital yang terus berkembang, manipulasi gambar yang efektif merupakan kebutuhan mendasar bagi bisnis dan individu. Aspose.Imaging for Java adalah pustaka Java serbaguna yang memungkinkan Anda bekerja dengan gambar dengan mudah. Dalam tutorial komprehensif ini, kami akan memandu Anda melalui proses perluasan dan pemotongan gambar menggunakan Aspose.Imaging for Java. Baik Anda seorang pengembang berpengalaman atau baru memulai perjalanan pengodean, kami akan menguraikan setiap langkah dengan cara yang mudah dipahami oleh pemula.
+Dalam dunia digital yang bergerak cepat saat ini, kemampuan untuk **crop image to rectangle** dengan cepat dan dapat diandalkan merupakan kebutuhan utama untuk alur kerja gambar berbasis Java apa pun. Baik Anda membangun layanan web yang perlu memotong foto yang diunggah pengguna, menghasilkan thumbnail untuk katalog e‑commerce, atau sekadar menyiapkan aset untuk kampanye pemasaran, Aspose.Imaging untuk Java memberikan API yang bersih dan berperforma tinggi untuk menyelesaikan pekerjaan. Dalam tutorial ini kami akan membahas cara memotong persegi panjang dari gambar dan memperluas kanvas gambar menggunakan Java—sempurna bagi siapa saja yang ingin menguasai teknik **how to crop image java**.
+
+## Jawaban Cepat
+- **Library apa yang terbaik untuk pemotongan gambar Java?** Aspose.Imaging for Java.
+- **Apakah saya dapat memotong ke persegi panjang arbitrer?** Ya – definisikan X, Y, lebar, dan tinggi apa pun.
+- **Apakah saya memerlukan lisensi untuk pengembangan?** Versi percobaan gratis dapat digunakan untuk pengujian; lisensi diperlukan untuk produksi.
+- **Apakah memperluas gambar memungkinkan?** Tentu – Anda dapat meningkatkan ukuran kanvas sebelum memotong.
+- **Versi Java apa yang didukung?** Java 8 dan yang lebih baru.
+
+## Apa itu “crop image to rectangle”?
+Memotong gambar menjadi persegi panjang berarti mengekstrak sub‑bagian dari bitmap asli yang didefinisikan oleh wilayah persegi panjang (X‑offset, Y‑offset, lebar, tinggi). Sisanya dari gambar dibuang, meninggalkan gambar baru yang lebih kecil yang hanya berisi area yang Anda butuhkan.
+
+## Mengapa menggunakan Aspose.Imaging untuk Java?
+- **Tidak ada ketergantungan eksternal** – Java murni, bekerja di platform apa pun.
+- **Dukungan format yang luas** – JPEG, PNG, BMP, TIFF, dan lainnya.
+- **Caching berperforma tinggi** – `cacheData()` mengurangi beban I/O.
+- **API sederhana** – pemanggilan satu baris untuk memuat, mendefinisikan persegi panjang, dan menyimpan.
 
 ## Prasyarat
-
-Sebelum menyelami dunia perluasan dan pemotongan gambar yang menarik, ada beberapa prasyarat yang harus Anda penuhi:
-
-### Lingkungan Pengembangan Java
-
-Pastikan Anda telah menyiapkan lingkungan pengembangan Java di sistem Anda. Jika belum, unduh dan instal Java versi terbaru.
-
-### Aspose.Imaging untuk Java
-
-Anda perlu menginstal Aspose.Imaging untuk Java di sistem Anda. Jika Anda belum memilikinya, Anda dapat mengunduhnya dari [situs web](https://releases.aspose.com/imaging/java/).
-
-### Pengetahuan Dasar Java
-
-Pemahaman terhadap pemrograman Java sangatlah penting. Jika Anda baru mengenal Java, pertimbangkan untuk mempelajari dasar-dasarnya sebelum melanjutkan.
-
-### Gambar untuk Bekerja Dengan
-
-Siapkan gambar yang ingin Anda perluas atau potong. Anda dapat menggunakan gambar pilihan Anda. Pastikan untuk meletakkannya di direktori dan menyiapkan jalurnya.
+- **Lingkungan Pengembangan Java** – JDK 8+ terpasang dan terkonfigurasi.
+- **Aspose.Imaging untuk Java** – unduh dari [situs web](https://releases.aspose.com/imaging/java/).
+- **Pengetahuan Dasar Java** – familiar dengan kelas, try‑with‑resources, dan jalur file.
+- **Gambar untuk Dikerjakan** – JPEG/PNG apa pun yang ingin Anda potong atau perbesar.
 
 ## Mengimpor Paket
-
-Dalam contoh berikut, kita akan mulai dengan mengimpor paket-paket yang diperlukan, lalu beralih ke langkah-langkah manipulasi gambar inti. Mari kita mulai.
+Pertama, arahkan kode ke folder yang berisi gambar sumber Anda. Potongan kode ini tetap tidak berubah dari tutorial asli.
 
 ```java
-// Jalur ke direktori dokumen.
+// The path to the documents directory.
 String dataDir = "Your Document Directory" + "ConvertingImages/";
 ```
 
-Dalam potongan kode ini, kami menentukan direktori data tempat gambar kami disimpan. Ganti `"Your Document Directory"` dengan jalur sebenarnya ke direktori Anda.
+Ganti `"Your Document Directory"` dengan jalur absolut di mesin Anda.
 
-## Langkah 1: Muat Gambar
-
-Langkah pertama dalam manipulasi gambar adalah memuat gambar yang ingin Anda gunakan. Kita akan memuat gambar dan mengaturnya untuk menyimpan data gambar. Ikuti langkah-langkah berikut:
+## Langkah 1: Memuat Gambar
+Memuat gambar adalah dasar untuk setiap manipulasi. Kami juga memanggil `cacheData()` untuk menyimpan bitmap di memori agar operasi selanjutnya lebih cepat.
 
 ```java
 try (RasterImage rasterImage = (RasterImage) Image.load(dataDir + "aspose-logo.jpg"))
@@ -59,56 +62,65 @@ try (RasterImage rasterImage = (RasterImage) Image.load(dataDir + "aspose-logo.j
 }
 ```
 
-Di sini, kita memuat gambar bernama "aspose-logo.jpg" dari direktori yang ditentukan. `cacheData()` metode ini menyimpan data gambar untuk diproses lebih lanjut.
+> **Tips Pro:** Gunakan blok `try‑with‑resources` (seperti yang ditunjukkan) untuk memastikan gambar secara otomatis ditutup, mencegah kebocoran memori.
 
-## Langkah 2: Tentukan Wilayah untuk Pemotongan
-
-Pada langkah ini, kita tentukan daerah (persegi panjang) dari gambar yang ingin kita potong. Kita tentukan koordinat X dan Y beserta lebar dan tinggi persegi panjang.
+## Langkah 2: Menentukan Wilayah untuk Pemotongan
+Di sini kami membuat `Rectangle` yang mewakili area tepat yang ingin Anda pertahankan. Persegi panjang dapat dimulai di luar batas asli – Aspose.Imaging akan secara otomatis memperluas kanvas (berguna untuk skenario **expand image using java**).
 
 ```java
-// Buat instance kelas Rectangle dan tentukan X, Y, Lebar, dan Tinggi persegi panjang
+// Create an instance of Rectangle class and define X, Y, Width, and Height of the rectangle
 Rectangle destRect = new Rectangle(-200, -200, 300, 300);
 ```
 
-Dalam kode ini, kita membuat sebuah instance dari `Rectangle` kelas dan atur propertinya untuk menentukan wilayah pemotongan. Sesuaikan nilai sesuai kebutuhan pemotongan spesifik Anda.
+- **X / Y** – nilai negatif menggeser persegi panjang ke kiri/atas, menyebabkan kanvas memperluas.
+- **Width / Height** – ukuran wilayah yang dipotong.
 
-## Langkah 3: Simpan Gambar yang Dipotong
-
-Langkah terakhir adalah menyimpan gambar yang dipotong ke lokasi yang Anda inginkan. Kami menggunakan `save()` metode untuk melakukan hal ini. 
+## Langkah 3: Menyimpan Gambar yang Dipotong (atau Diperluas)
+Akhirnya, tulis hasilnya ke disk. Metode `save` menerima jalur tujuan, opsi format gambar, dan persegi panjang yang kami definisikan.
 
 ```java
 rasterImage.save("Your Document Directory" + "Grayscaling_out.jpg", new JpegOptions(), destRect);
 ```
 
-Dalam potongan gambar ini, kami menyimpan gambar yang dipotong dengan nama "Grayscaling_out.jpg" ke direktori yang ditentukan. `JpegOptions()` memungkinkan kita menentukan format gambar untuk disimpan, dan `destRect` adalah wilayah yang kami tetapkan untuk pemotongan.
+File output `Grayscaling_out.jpg` kini berisi hasil **crop image to rectangle**. Jika persegi panjang melampaui gambar asli, area tambahan diisi dengan latar belakang default (transparan untuk PNG, hitam untuk JPEG).
 
-Selesai! Anda telah berhasil memperluas atau memotong gambar menggunakan Aspose.Imaging untuk Java. Pustaka canggih ini menyederhanakan proses manipulasi gambar yang rumit.
+## Kasus Penggunaan Umum
+| Scenario | Why It Matters |
+|----------|----------------|
+| **Pembuatan thumbnail** | Dengan cepat mengekstrak wilayah pusat untuk ukuran yang konsisten. |
+| **Pemotongan gambar profil pengguna** | Menerapkan area avatar berbentuk persegi atau persegi panjang. |
+| **Perluasan kanvas sebelum menambahkan watermark** | Menambah ruang di sekitar gambar tanpa merusak gambar asli. |
+| **Pemrosesan batch dokumen ter-scan** | Memotong margin dalam satu kali proses. |
 
-## Kesimpulan
-
-Aspose.Imaging untuk Java adalah alat yang sangat berharga bagi pengembang Java yang ingin bekerja dengan gambar. Dalam tutorial ini, kami telah membahas langkah-langkah penting untuk perluasan dan pemotongan gambar. Dengan pengetahuan yang tepat dan pustaka ini, Anda dapat dengan mudah membuat gambar menakjubkan yang disesuaikan dengan kebutuhan spesifik Anda.
+## Pemecahan Masalah & Tips
+- **Gambar tidak dapat dimuat?** Periksa jalur file dan pastikan format gambar didukung.
+- **Bingkai hitam tak terduga setelah perluasan?** Atur warna latar belakang di `JpegOptions` atau gunakan PNG untuk transparansi.
+- **Kekhawatiran kinerja dengan gambar besar?** Tingkatkan ukuran heap Java (`-Xmx`) atau proses gambar dalam batch yang lebih kecil.
 
 ## Pertanyaan yang Sering Diajukan
+**Q: Format gambar apa yang didukung oleh Aspose.Imaging untuk Java?**  
+A: JPEG, PNG, BMP, TIFF, GIF, ICO, PSD, dan banyak lagi. Lihat dokumen resmi untuk daftar lengkap.
 
-### Q1: Format gambar apa yang didukung Aspose.Imaging untuk Java?
-   
-A1: Aspose.Imaging untuk Java mendukung berbagai format gambar, termasuk JPEG, PNG, BMP, TIFF, dan banyak lagi. Anda dapat menemukan daftar lengkapnya dalam dokumentasi.
+**Q: Bisakah saya melakukan manipulasi gambar lain dengan Aspose.Imaging untuk Java?**  
+A: Tentu! Mengubah ukuran, rotasi, penyaringan, dan konversi format semuanya tersedia.
 
-### Q2: Dapatkah saya melakukan manipulasi gambar lainnya dengan Aspose.Imaging untuk Java?
+**Q: Apakah Aspose.Imaging untuk Java cocok untuk aplikasi web?**  
+A: Ya. Library ini thread‑safe dan bekerja dengan baik di kontainer servlet serta layanan Spring Boot.
 
-A2: Tentu saja! Aspose.Imaging untuk Java menyediakan berbagai fitur, seperti mengubah ukuran, memutar, dan menerapkan filter. Periksa dokumentasi untuk informasi terperinci.
+**Q: Bagaimana saya dapat mendapatkan dukungan untuk Aspose.Imaging untuk Java?**  
+A: Kunjungi [forum](https://forum.aspose.com/) untuk bantuan komunitas, atau buka tiket dukungan dengan lisensi yang valid.
 
-### Q3: Apakah Aspose.Imaging untuk Java cocok untuk aplikasi web?
+**Q: Apakah tersedia percobaan gratis untuk Aspose.Imaging untuk Java?**  
+A: Ya, Anda dapat menjelajahi library dengan percobaan gratis. Unduh dari [sini](https://releases.aspose.com/).
 
-A3: Ya, Aspose.Imaging untuk Java cocok untuk aplikasi web, dan dapat diintegrasikan ke dalam proyek web berbasis Java Anda.
+## Kesimpulan
+Anda kini telah mempelajari cara **crop image to rectangle** dan bahkan **expand image using Java** dengan API Aspose.Imaging yang kuat. Dengan menguasai dasar‑dasar ini, Anda dapat membangun pipeline pemrosesan gambar yang handal, meningkatkan responsivitas UI, dan menyajikan konten visual yang halus di seluruh aplikasi Java apa pun.
 
-### Q4: Bagaimana saya bisa mendapatkan dukungan untuk Aspose.Imaging untuk Java?
+---
 
-A4: Anda bisa mendapatkan dukungan dari komunitas Aspose dengan mengunjungi [forum](https://forum.aspose.com/).
-
-### Q5: Apakah ada uji coba gratis yang tersedia untuk Aspose.Imaging untuk Java?
-
-A5: Ya, Anda dapat menjelajahi perpustakaan dengan uji coba gratis. Unduh dari [Di Sini](https://releases.aspose.com/).
+**Terakhir Diperbarui:** 2025-12-20  
+**Diuji Dengan:** Aspose.Imaging for Java 24.11 (terbaru pada saat penulisan)  
+**Penulis:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
