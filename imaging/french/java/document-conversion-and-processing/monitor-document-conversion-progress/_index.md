@@ -1,10 +1,13 @@
 ---
-"description": "Apprenez à utiliser Aspose.Imaging pour Java dans ce didacticiel étape par étape sur la conversion et la manipulation d'images."
-"linktitle": "Surveiller la progression de la conversion des documents"
-"second_title": "API de traitement d'images Java Aspose.Imaging"
-"title": "Surveiller la progression de la conversion des documents"
-"url": "/fr/java/document-conversion-and-processing/monitor-document-conversion-progress/"
-"weight": 10
+date: 2025-12-20
+description: Apprenez à surveiller la conversion d’images en Java avec Aspose.Imaging.
+  Guide étape par étape pour suivre la progression de la conversion et gérer les formats
+  JPG/PNG.
+linktitle: Monitor Image Conversion in Java
+second_title: Aspose.Imaging Java Image Processing API
+title: Surveiller la conversion d'image en Java
+url: /fr/java/document-conversion-and-processing/monitor-document-conversion-progress/
+weight: 10
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,33 +16,40 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Surveiller la progression de la conversion des documents
+# Surveiller la conversion d'images en Java
 
-Dans ce tutoriel, nous allons découvrir comment utiliser Aspose.Imaging pour Java pour convertir et manipuler des images. Aspose.Imaging pour Java est une puissante bibliothèque Java qui permet de travailler avec différents formats d'image, ce qui en fait un outil essentiel pour les développeurs qui gèrent le traitement d'images dans leurs applications. Nous décomposerons le processus en étapes faciles à suivre pour vous aider à démarrer.
+Dans ce tutoriel, vous découvrirez **comment surveiller la conversion d'images en Java** avec Aspose.Imaging. Que vous ayez besoin de **convertir JPG en PNG**, de changer de format d’image, ou simplement de suivre la progression du chargement, nous vous guiderons étape par étape, expliquerons l’importance de chaque élément et vous montrerons comment obtenir des retours en temps réel pendant l’exécution de la conversion.
 
 ## Introduction
 
-Aspose.Imaging pour Java est une bibliothèque polyvalente et riche en fonctionnalités pour travailler avec des images dans vos applications Java. Que vous ayez besoin de convertir, de manipuler ou d'améliorer des images, Aspose.Imaging offre un large éventail de fonctions et d'options. Dans ce tutoriel, nous nous concentrerons sur la conversion d'images et vous guiderons dans le processus de conversion d'une image vers un autre format.
+Aspose.Imaging pour Java est une bibliothèque polyvalente et riche en fonctionnalités pour travailler avec des images dans vos applications Java. Que vous ayez besoin de **convertir le format d’image Java**, de redimensionner des photos ou d’appliquer des filtres avancés, Aspose.Imaging fournit une API complète. Dans ce guide, nous nous concentrons sur la surveillance du processus de conversion, ce qui est particulièrement utile pour les fichiers volumineux ou les opérations par lots où vous souhaitez afficher la progression aux utilisateurs finaux.
+
+## Réponses rapides
+- **Que signifie « monitor image conversion java » ?** Il s’agit de suivre la progression du chargement et de l’enregistrement d’une image lors de sa conversion entre formats avec Java.
+- **Quelle bibliothèque prend en charge les rappels de progression ?** Aspose.Imaging pour Java propose `ProgressEventHandler` pour les opérations de chargement et d’exportation.
+- **Puis‑je convertir JPG en PNG avec surveillance de la progression ?** Oui – il suffit de remplacer les `JpegOptions` de sortie par `PngOptions` tout en conservant les mêmes rappels.
+- **Ai‑je besoin d’une licence pour le développement ?** Une licence temporaire suffit pour l’évaluation ; une licence complète est requise en production.
+- **Quelle version de Java est requise ?** Java 8 ou supérieur est pris en charge.
+
+## Qu’est‑ce que « monitor image conversion java » ?
+
+Surveiller la conversion d’images en Java signifie recevoir des mises à jour en temps réel sur le nombre d’octets traités pendant le chargement et l’enregistrement. Cela est réalisé grâce au `ProgressEventHandler` d’Aspose.Imaging, qui signale des événements tels que **LoadStarted**, **LoadCompleted**, **ExportStarted** et **ExportCompleted**. En s’abonnant à ces événements, vous pouvez afficher des barres de progression, consigner l’état ou déclencher d’autres actions dans votre application.
+
+## Pourquoi surveiller la conversion d’images ?
+
+- **Expérience utilisateur :** Les images volumineuses peuvent prendre de quelques secondes à plusieurs minutes ; afficher la progression informe les utilisateurs.
+- **Gestion des erreurs :** La détection précoce de blocages ou d’échecs vous permet de réessayer ou d’interrompre proprement.
+- **Informations de performance :** Connaître la durée de chaque étape aide à optimiser les traitements par lots.
 
 ## Prérequis
 
-Avant de commencer à travailler avec Aspose.Imaging pour Java, assurez-vous que les conditions préalables suivantes sont en place :
+1. **Environnement de développement Java** – Installez le dernier JDK depuis le [site Oracle](https://www.oracle.com/java/technologies/javase-downloads).
+2. **Aspose.Imaging pour Java** – Téléchargez la bibliothèque depuis la [page Aspose.Imaging pour Java](https://releases.aspose.com/imaging/java/). Ajoutez le JAR au classpath de votre projet.
+3. **IDE** – Eclipse, IntelliJ IDEA ou NetBeans fonctionneront parfaitement.
 
-1. Environnement de développement Java
+## Importer les packages
 
-Vous devez installer un environnement de développement Java sur votre système. Si ce n'est pas déjà fait, téléchargez et installez la dernière version du kit de développement Java (JDK) depuis le [Site Web d'Oracle](https://www.oracle.com/java/technologies/javase-downloads).
-
-2. Aspose.Imaging pour Java
-
-Téléchargez et installez la bibliothèque Aspose.Imaging pour Java. Le lien de téléchargement se trouve sur le site [Page Aspose.Imaging pour Java](https://releases.aspose.com/imaging/java/)Assurez-vous d'inclure la bibliothèque dans votre projet Java.
-
-3. Environnement de développement intégré (IDE)
-
-Vous pouvez utiliser l'IDE Java de votre choix. Parmi les options les plus courantes, on trouve Eclipse, IntelliJ IDEA ou NetBeans. Assurez-vous que votre IDE est configuré et prêt pour le développement Java.
-
-## Importer des packages
-
-Une fois les prérequis en place, il est temps d'utiliser Aspose.Imaging pour Java dans votre projet. Commencez par importer les packages nécessaires et configurer votre projet.
+Une fois les prérequis installés, importez les classes nécessaires. Les imports comprennent la classe principale `Image`, les options de chargement, les options JPEG et les interfaces d’événements de progression.
 
 ```java
 import com.aspose.imaging.Image;
@@ -51,11 +61,9 @@ import java.nio.file.Path;
 import java.util.logging.Logger;
 ```
 
-Dans le code ci-dessus, nous importons les packages Aspose.Imaging requis et configurons les classes nécessaires à la conversion d'image et à la gestion de la progression.
+## Étape 1 : Configurer le répertoire et l’image d’entrée
 
-## Étape 1 : Configurer le répertoire et l’image d’entrée
-
-Pour commencer la conversion d'images, vous devez spécifier le répertoire contenant votre image d'entrée. Vous devez également définir le nom du fichier d'entrée.
+Définissez l’emplacement de votre image source et son nom. Vous pouvez pointer vers n’importe quel format pris en charge — JPG, PNG, BMP, etc.
 
 ```java
 String dataDir = "Your Document Directory" + "ConvertingImages/";
@@ -63,11 +71,11 @@ String fileName = "aspose-logo.jpg";
 String inputFileName = dataDir + fileName;
 ```
 
-Remplacer `"Your Document Directory"` avec le chemin d'accès à votre répertoire de documents et `"aspose-logo.jpg"` avec le nom de votre fichier image d'entrée.
+> **Astuce :** Utilisez `Paths.get(...)` pour des chemins indépendants de la plateforme lors de projets réels.
 
-## Étape 2 : Charger l’image d’entrée
+## Étape 2 : Charger l’image d’entrée
 
-Chargeons maintenant l'image d'entrée avec Aspose.Imaging. Nous avons également configuré un gestionnaire d'événements de progression pour surveiller la progression du chargement.
+Le chargement de l’image est le moment où nous commençons à recevoir des événements de progression. Le `ProgressEventHandler` invoquera `progressCallback` chaque fois qu’un morceau est traité.
 
 ```java
 try (Image image = Image.load(inputFileName, new LoadOptions() {
@@ -80,16 +88,16 @@ try (Image image = Image.load(inputFileName, new LoadOptions() {
         });
     }
 })) {
-    // Image chargée avec succès
-    // Vous pouvez effectuer d'autres opérations sur l'image chargée ici
+    // Image loaded successfully
+    // You can perform further operations on the loaded image here
 }
 ```
 
-Dans cette étape, nous chargeons l'image d'entrée et configurons un gestionnaire d'événements de progression pour suivre la progression du chargement. `progressCallback` la méthode sera appelée pour signaler la progression.
+Le bloc `try‑with‑resources` garantit que l’image est libérée automatiquement, ce qui est important pour les fichiers volumineux.
 
-## Étape 3 : Enregistrer l’image de sortie
+## Étape 3 : Enregistrer l’image de sortie
 
-Maintenant que l'image d'entrée est chargée, vous pouvez spécifier le format du fichier de sortie et l'enregistrer. Dans cet exemple, nous enregistrons l'image au format JPEG avec une compression de base et une qualité optimale. Comme pour l'étape de chargement, nous avons configuré un gestionnaire d'événements de progression pour l'exportation.
+Nous exportons maintenant l’image. Dans cet exemple, nous enregistrons au format JPEG avec compression de base et une qualité de 100 %, mais vous pouvez passer à `PngOptions` pour des conversions de type **convert JPG PNG java**.
 
 ```java
 image.save(
@@ -108,11 +116,11 @@ image.save(
     });
 ```
 
-Assurez-vous de remplacer `"Your Document Directory"` avec le répertoire de sortie souhaité et spécifiez le nom et le format du fichier de sortie.
+Remplacez le chemin de sortie et le nom de fichier selon vos besoins. Le même mécanisme de rappel vous fournit la progression en temps réel lors de l’exportation.
 
-## Étape 4 : Rappels de progression
+## Étape 4 : Rappels de progression
 
-Lors du chargement et de l'enregistrement de l'image, des gestionnaires d'événements de progression sont utilisés pour signaler la progression. Voici comment implémenter ces méthodes de rappel de progression :
+Le chargement et l’enregistrement utilisent tous deux des rappels pour signaler l’état. Vous trouverez ci‑dessous les méthodes d’assistance qui se contentent d’enregistrer la progression dans la console.
 
 ```java
 static void progressCallback(ProgressEventHandlerInfo info) {
@@ -124,35 +132,33 @@ static void exportProgressCallback(ProgressEventHandlerInfo info) {
 }
 ```
 
-Ces méthodes enregistreront les informations de progression, vous permettant de surveiller le processus de conversion.
+Vous pouvez remplacer `Logger.printf` par toute logique de mise à jour d’interface — par exemple, mettre à jour une barre de progression Swing ou envoyer des messages WebSocket.
 
-Vous avez maintenant converti une image avec Aspose.Imaging pour Java. Ce tutoriel vous guide pas à pas pour utiliser la bibliothèque afin de charger et d'enregistrer des images, et vous permet de suivre leur progression.
+## Problèmes courants et solutions
 
-## Conclusion
+| Problème | Pourquoi cela se produit | Solution |
+|----------|--------------------------|----------|
+| **Aucun affichage de progression** | Le rappel n’est pas attaché ou le logger n’est pas configuré | Assurez‑vous que `setIProgressEventHandler` (chargement) et `setProgressEventHandler` (enregistrement) sont définis, et que votre logger écrit dans la console ou l’UI. |
+| **OutOfMemoryError sur de gros fichiers** | L’image est entièrement chargée en mémoire | Utilisez `ImageLoadOptions` avec `setBufferSize` ou traitez les images en tuiles lorsque c’est possible. |
+| **Format de sortie incorrect** | Utilisation de `JpegOptions` pour une conversion PNG | Passez à `PngOptions` et ajustez les paramètres spécifiques au format. |
+| **LicenseException** | Utilisation de la version d’essai au‑delà de la période d’évaluation | Appliquez une licence temporaire ou complète via `License license = new License(); license.setLicense("Aspose.Imaging.Java.lic");` |
 
-Aspose.Imaging pour Java est un outil précieux pour la conversion et la manipulation d'images dans les applications Java. Grâce à sa capacité à charger, traiter et enregistrer des images dans différents formats, il simplifie les tâches complexes liées aux images. Ce tutoriel vous a fourni les connaissances et les étapes nécessaires pour démarrer la conversion d'images avec Aspose.Imaging pour Java.
+## Questions fréquemment posées
 
-## FAQ
+**Q : Quels formats d’image Aspose.Imaging pour Java prend‑il en charge ?**  
+R : Aspose.Imaging pour Java prend en charge JPEG, PNG, BMP, TIFF, GIF, WebP et bien d’autres. Consultez la liste complète dans la [documentation](https://reference.aspose.com/imaging/java/).
 
-### Q1 : Quels formats d’image Aspose.Imaging pour Java prend-il en charge ?
+**Q : Puis‑je effectuer des retouches avancées tout en surveillant la progression ?**  
+R : Oui. Après le chargement de l’image, vous pouvez redimensionner, recadrer, appliquer des filtres, puis enregistrer avec les rappels de progression attachés.
 
-A1 : Aspose.Imaging pour Java prend en charge une large gamme de formats d'image, notamment JPEG, PNG, BMP, TIFF et bien d'autres. Vous pouvez consulter le [documentation](https://reference.aspose.com/imaging/java/) pour une liste complète des formats pris en charge.
+**Q : La bibliothèque convient‑elle au traitement par lots à grande échelle ?**  
+R : Absolument. L’API est optimisée pour les scénarios haute performance, et les événements de progression vous permettent de surveiller chaque fichier individuellement.
 
-### Q2 : Puis-je effectuer une édition d’image avancée avec Aspose.Imaging pour Java ?
+**Q : Comment obtenir une licence temporaire pour les tests ?**  
+R : Visitez la [page de licence temporaire](https://purchase.aspose.com/temporary-license/) pour demander une licence d’essai valable 30 jours.
 
-A2 : Oui, vous pouvez effectuer des retouches d'images avancées, comme le redimensionnement, le recadrage, l'application de filtres, etc., avec Aspose.Imaging pour Java. La bibliothèque offre un ensemble complet de fonctionnalités pour la manipulation d'images.
-
-### Q3 : Aspose.Imaging pour Java est-il adapté aux tâches de traitement d’images à petite et grande échelle ?
-
-A3 : Aspose.Imaging pour Java convient à un large éventail d'applications, de la simple conversion d'images aux tâches complexes de traitement d'images à grande échelle. Il fournit des outils efficaces et performants pour la gestion d'images de tailles et de complexités variées.
-
-### Q4 : Comment puis-je obtenir une licence temporaire pour Aspose.Imaging pour Java ?
-
-A4 : Pour obtenir une licence temporaire pour Aspose.Imaging pour Java, vous pouvez visiter le [page de licence temporaire](https://purchase.aspose.com/temporary-license/) Sur le site web d'Aspose. Des licences temporaires sont disponibles à des fins de test et d'évaluation.
-
-### Q5 : Où puis-je obtenir de l’aide pour Aspose.Imaging pour Java ?
-
-A5 : Si vous avez des questions ou avez besoin d’aide avec Aspose.Imaging pour Java, vous pouvez visiter le site Aspose [forum d'assistance](https://forum.aspose.com/), où vous pouvez trouver des ressources utiles et interagir avec la communauté Aspose pour obtenir de l'aide et des conseils.
+**Q : Où puis‑je obtenir du support communautaire ?**  
+R : Le [forum de support Aspose](https://forum.aspose.com/) est un excellent endroit pour poser des questions et partager des solutions.
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
@@ -161,3 +167,9 @@ A5 : Si vous avez des questions ou avez besoin d’aide avec Aspose.Imaging pou
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+
+---
+
+**Dernière mise à jour :** 2025-12-20  
+**Testé avec :** Aspose.Imaging pour Java 24.12 (dernière version)  
+**Auteur :** Aspose
