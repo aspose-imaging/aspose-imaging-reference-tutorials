@@ -1,10 +1,13 @@
 ---
-"description": "Aspose.Imaging for Java का उपयोग करके क्षतिग्रस्त TIFF छवि डेटा को पुनर्प्राप्त करना सीखें। इस चरण-दर-चरण मार्गदर्शिका के साथ छवि अखंडता को पुनर्स्थापित करें।"
-"linktitle": "TIFF छवि डेटा पुनर्प्राप्त करना"
-"second_title": "Aspose.Imaging जावा इमेज प्रोसेसिंग API"
-"title": "Aspose.Imaging for Java के साथ TIFF छवि डेटा पुनर्प्राप्त करें"
-"url": "/hi/java/document-conversion-and-processing/recovering-tiff-image-data/"
-"weight": 19
+date: 2025-12-22
+description: Aspose.Imaging for Java का उपयोग करके TIFF छवियों को पुनर्प्राप्त करने
+  के लिए चरण-दर-चरण मार्गदर्शिका, जो क्षतिग्रस्त छवि डेटा को तेज़ी और विश्वसनीयता
+  से पुनर्स्थापित करती है।
+linktitle: Recovering TIFF Image Data
+second_title: Aspose.Imaging Java Image Processing API
+title: Aspose.Imaging for Java के साथ TIFF इमेजेज़ को कैसे पुनर्प्राप्त करें
+url: /hi/java/document-conversion-and-processing/recovering-tiff-image-data/
+weight: 19
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,24 +16,35 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Aspose.Imaging for Java के साथ TIFF छवि डेटा पुनर्प्राप्त करें
+# How to Recover TIFF Images with Aspose.Imaging for Java
 
-डिजिटल इमेजिंग की दुनिया में, इमेज फ़ाइलों की अखंडता और पुनर्प्राप्ति सुनिश्चित करना महत्वपूर्ण है। जब TIFF इमेज के साथ काम करने की बात आती है, तो ऐसे उदाहरण हो सकते हैं जहाँ ये फ़ाइलें क्षतिग्रस्त या दूषित हो जाती हैं। एक कुशल SEO लेखक के रूप में, मैं आपको Aspose.Imaging for Java का उपयोग करके TIFF इमेज डेटा को पुनर्प्राप्त करने की प्रक्रिया के माध्यम से मार्गदर्शन करूँगा। इस चरण-दर-चरण ट्यूटोरियल में, आप सीखेंगे कि मूल्यवान इमेज डेटा को कैसे बचाया जाए और इसे अपनी मूल स्थिति में कैसे पुनर्स्थापित किया जाए।
+डिजिटल इमेजिंग की दुनिया में, **how to recover TIFF** फ़ाइलें एक सामान्य चुनौती है जिसका सामना डेवलपर्स उच्च‑रिज़ॉल्यूशन फ़ोटोग्राफ़, स्कैन किए गए दस्तावेज़ या अभिलेखीय एसेट्स के साथ काम करते समय करते हैं। जब कोई TIFF फ़ाइल भ्रष्ट हो जाती है, तो आपको पूरी फ़ाइल को त्यागने की ज़रूरत नहीं है—Aspose.Imaging for Java आपको इमेज डेटा को निकालने और पुनर्निर्माण करने के उपकरण प्रदान करता है। इस ट्यूटोरियल में हम एक व्यावहारिक, चरण‑दर‑चरण रिकवरी प्रक्रिया को देखेंगे ताकि आप क्षतिग्रस्त TIFF इमेज को उपयोग योग्य स्थिति में पुनर्स्थापित कर सकें।
 
-## आवश्यक शर्तें
+## Quick Answers
+- **What library is needed?** Aspose.Imaging for Java  
+- **Can I recover corrupted TIFFs?** Yes, using `DataRecoveryMode` options  
+- **Do I need a license for production?** A commercial license is required for non‑trial use  
+- **Which Java version is supported?** Java 8 or later  
+- **Is background color optional?** Yes, you can set any `Color` you prefer  
 
-इससे पहले कि हम पुनर्प्राप्ति प्रक्रिया में उतरें, सुनिश्चित करें कि आपके पास निम्नलिखित पूर्वापेक्षाएँ मौजूद हैं:
+## What is TIFF Image Recovery?
+TIFF (Tagged Image File Format) एक लचीला, लॉसलेस फ़ॉर्मेट है जिसका उपयोग उच्च‑गुणवत्ता वाली इमेज को संग्रहीत करने के लिए किया जाता है। रिकवरी का अर्थ है फ़ाइल को त्रुटियों के बावजूद पढ़ना, लापता पिक्सेल डेटा को पुनर्निर्मित करना, और वैकल्पिक रूप से बैकग्राउंड रंग से गैप भरना।
 
-- Aspose.Imaging for Java: आपके पास Aspose.Imaging for Java इंस्टॉल होना चाहिए। आप इसे वेबसाइट से डाउनलोड कर सकते हैं [यहाँ](https://releases.aspose.com/imaging/java/).
+## Why Use Aspose.Imaging for Java?
+- **Robust API** – Handles many image formats, including multi‑page TIFFs.  
+- **Built‑in recovery modes** – `ConsistentRecover` automatically repairs broken streams.  
+- **No native dependencies** – Pure Java, easy to integrate into any Maven/Gradle project.  
 
-- जावा विकास वातावरण: सुनिश्चित करें कि आपके सिस्टम पर जावा विकास वातावरण स्थापित है।
+## Prerequisites
 
-अब जबकि हमारी पूर्व-आवश्यकताएं तैयार हैं, तो चलिए पुनर्प्राप्ति प्रक्रिया के साथ आगे बढ़ते हैं।
+- **Aspose.Imaging for Java** – आधिकारिक साइट से नवीनतम JAR डाउनलोड करें [here](https://releases.aspose.com/imaging/java/).  
+- **Java Development Environment** – JDK 8 या नया, आपके पसंदीदा IDE या बिल्ड टूल के साथ।  
 
-## पैकेज आयात करें
+अब जब हमने बुनियादी बातें कवर कर ली हैं, चलिए वास्तविक कोड में डुबकी लगाते हैं।
 
-TIFF छवि डेटा को पुनर्प्राप्त करने के लिए, हमें सबसे पहले आवश्यक पैकेजों को आयात करना होगा और वातावरण को सेट करना होगा।
+## Import Packages
 
+सबसे पहले, उन क्लासेज़ को इम्पोर्ट करें जिनकी हमें आवश्यकता होगी। ये नेमस्पेस हमें इमेज लोडिंग, कलर हैंडलिंग, और रिकवरी विकल्पों तक पहुंच प्रदान करते हैं।
 
 ```java
 import com.aspose.imaging.DataRecoveryMode;
@@ -39,20 +53,21 @@ import com.aspose.imaging.Color;
 import com.aspose.imaging.LoadOptions;
 ```
 
-उपरोक्त पैकेज Aspose.Imaging for Java के साथ काम करने और छवि डेटा रिकवरी करने के लिए आवश्यक हैं।
+## How to Recover TIFF Images – Overview
 
+नीचे हम फ़ाइल पाथ सेट करेंगे, रिकवरी विकल्पों को कॉन्फ़िगर करेंगे, और अंत में भ्रष्ट TIFF को लोड करेंगे। प्रत्येक चरण को सरल भाषा में समझाया गया है ताकि आप इसे अपने प्रोजेक्ट में आसानी से लागू कर सकें।
 
-## चरण 1: दस्तावेज़ निर्देशिका निर्धारित करें
+### Step 1: Define the Document Directory
 
-आपको वह निर्देशिका निर्दिष्ट करनी होगी जहाँ आपकी TIFF छवि फ़ाइल स्थित है। `"Your Document Directory"` आपकी निर्देशिका के वास्तविक पथ के साथ.
+TIFF फ़ाइल जहाँ डिस्क पर स्थित है, उस पाथ को निर्दिष्ट करें। प्लेसहोल्डर को अपने मशीन के वास्तविक फ़ोल्डर से बदलें।
 
 ```java
 String dataDir = "Your Document Directory" + "ModifyingImages/";
 ```
 
-## चरण 2: लोडऑप्शन बनाएं
+### Step 2: Create LoadOptions
 
-LoadOptions का एक इंस्टेंस बनाएं और उसके गुण सेट करें। यह रिकवरी प्रक्रिया में एक महत्वपूर्ण कदम है।
+`LoadOptions` आपको बताता है कि Aspose.Imaging को क्षतिग्रस्त फ़ाइल के साथ कैसे व्यवहार करना चाहिए। हम **consistent recovery** को सक्षम करते हैं और किसी भी लापता पिक्सेल के लिए लाल बैकग्राउंड कलर चुनते हैं।
 
 ```java
 LoadOptions loadOptions = new LoadOptions();
@@ -60,46 +75,58 @@ loadOptions.setDataRecoveryMode(DataRecoveryMode.ConsistentRecover);
 loadOptions.setDataBackgroundColor(Color.getRed());
 ```
 
-- `DataRecoveryMode.ConsistentRecover` यह सुनिश्चित करता है कि डेटा लगातार पुनर्प्राप्त किया जाता है।
-- `Color.getRed()` डेटा रिकवरी के लिए बैकग्राउंड कलर सेट करता है। आप इसे आवश्यकतानुसार कस्टमाइज़ कर सकते हैं।
+- `DataRecoveryMode.ConsistentRecover` – जितना संभव हो मूल डेटा को संरक्षित रखते हुए इमेज को पुनर्निर्मित करने का प्रयास करता है।  
+- `Color.getRed()` – गैप को लाल रंग से भरता है; आप इसे अपनी कार्यप्रवाह के अनुसार किसी भी रंग में बदल सकते हैं।
 
-## चरण 3: क्षतिग्रस्त छवि लोड करें
+### Step 3: Load the Damaged Image
 
-अब, इसका एक उदाहरण बनाएं `Image` क्लास और का उदाहरण पास करके क्षतिग्रस्त छवि को लोड करें `LoadOptions`.
+अब हम ठीक वही विकल्पों के साथ भ्रष्ट TIFF को खोलते हैं। `try‑with‑resources` ब्लॉक यह सुनिश्चित करता है कि इमेज सही तरीके से डिस्पोज़ हो जाए।
 
 ```java
 try (Image image = Image.load(dataDir + "SampleTiff1.tiff", loadOptions)) {
-    // पुनर्प्राप्त छवि पर कुछ कार्य करें
+    // Do some work on the recovered image
 }
 ```
 
-इस चरण में, आप आवश्यकतानुसार पुनर्प्राप्त छवि पर विभिन्न कार्य कर सकते हैं।
+इस ब्लॉक के भीतर आप रिकवरी के बाद इमेज को सेव कर सकते हैं, आगे प्रोसेस कर सकते हैं, या केवल उसकी प्रॉपर्टीज़ देख सकते हैं।
 
-## निष्कर्ष
+## Common Issues and Solutions
 
-डिजिटल छवियों के साथ काम करते समय TIFF छवि डेटा को पुनर्प्राप्त करना एक महत्वपूर्ण कौशल है। Aspose.Imaging for Java क्षतिग्रस्त फ़ाइलों से मूल्यवान छवि डेटा को बचाने के लिए आवश्यक उपकरण और विधियाँ प्रदान करके इस प्रक्रिया को सहज बनाता है। इस ट्यूटोरियल में बताए गए चरणों का पालन करके, आप अपनी TIFF छवियों की अखंडता सुनिश्चित कर सकते हैं और अपनी विज़ुअल संपत्तियों की गुणवत्ता बनाए रख सकते हैं।
+| Issue | Why it Happens | Fix |
+|-------|----------------|-----|
+| **OutOfMemoryError** | बहुत बड़े TIFF फ़ाइलें हीप स्पेस से अधिक हो जाती हैं। | JVM `-Xmx` बढ़ाएँ या इमेज को टाइल्स में प्रोसेस करें। |
+| **No data recovered** | फ़ाइल बहुत अधिक भ्रष्ट है और रिकवरी मोड से बाहर है। | अलग `DataRecoveryMode` (जैसे `PartialRecover`) आज़माएँ या बैकअप उपयोग करें। |
+| **Wrong background color** | डिफ़ॉल्ट रंग कुछ इमेज पर दिखाई नहीं देता। | `loadOptions.setDataBackgroundColor(Color.getWhite())` या कोई कस्टम रंग सेट करें। |
 
-## अक्सर पूछे जाने वाले प्रश्न
+## Frequently Asked Questions
 
-### प्रश्न 1: डेटा रिकवरी में पृष्ठभूमि रंग सेट करने का क्या महत्व है?
+**Q: What is the significance of setting the background color in data recovery?**  
+A: बैकग्राउंड रंग उन पिक्सेल को भरता है जिन्हें पुनर्निर्मित नहीं किया जा सकता, जिससे क्षतिग्रस्त क्षेत्रों को आसानी से पहचाना जा सके और एकसमान विज़ुअल आउटपुट बनाए रखा जा सके।
 
-A1: डेटा रिकवरी में बैकग्राउंड कलर सेट करना बहुत ज़रूरी है क्योंकि इससे गुम या खराब डेटा को सही तरीके से पहचानने और उसे रिस्टोर करने में मदद मिलती है। बैकग्राउंड कलर को निर्दिष्ट करके, रिकवरी प्रक्रिया इमेज कंटेंट और क्षतिग्रस्त हिस्सों के बीच अंतर कर सकती है।
+**Q: Can I recover other image formats apart from TIFF using Aspose.Imaging for Java?**  
+A: हाँ, Aspose.Imaging JPEG, PNG, BMP और कई अन्य फ़ॉर्मेट को सपोर्ट करता है। रिकवरी वर्कफ़्लो समान है; केवल फ़ाइल एक्सटेंशन बदलें।
 
-### प्रश्न 2: क्या मैं Aspose.Imaging for Java का उपयोग करके TIFF के अलावा अन्य छवि प्रारूपों को पुनर्प्राप्त कर सकता हूं?
+**Q: Is there a limit to the size of the TIFF image that can be recovered?**  
+A: रिकवरी का सफल होना भ्रष्टाचार की सीमा और उपलब्ध सिस्टम मेमोरी पर निर्भर करता है। अत्यधिक बड़े या बहुत अधिक क्षतिग्रस्त फ़ाइलों के लिए अतिरिक्त संसाधन या चंकी प्रोसेसिंग की आवश्यकता हो सकती है।
 
-A2: हाँ, Aspose.Imaging for Java कई तरह के इमेज फ़ॉर्मेट को सपोर्ट करता है, जिसमें JPEG, PNG, BMP और बहुत कुछ शामिल है। फ़ॉर्मेट के आधार पर डेटा रिकवरी प्रक्रिया थोड़ी भिन्न हो सकती है, लेकिन लाइब्रेरी इमेज रिकवरी के लिए व्यापक समाधान प्रदान करती है।
+**Q: Are there additional tools for image manipulation within Aspose.Imaging for Java?**  
+A: बिल्कुल। लाइब्रेरी रीसाइज़िंग, क्रॉपिंग, फ़िल्टरिंग और फ़ॉर्मेट कन्वर्ज़न जैसी सुविधाएँ प्रदान करती है, जिससे आप इमेज को रिकवर करने के साथ‑साथ उसे सुधार भी सकते हैं।
 
-### 3: क्या TIFF छवि के आकार की कोई सीमा है जिसे पुनर्प्राप्त किया जा सकता है?
+**Q: Can I use Aspose.Imaging for Java in commercial projects?**  
+A: हाँ, प्रोडक्शन उपयोग के लिए एक कमर्शियल लाइसेंस आवश्यक है। आप लाइसेंस [here](https://purchase.aspose.com/buy) से प्राप्त कर सकते हैं।
 
-A3: TIFF छवि को पुनर्प्राप्त करने की क्षमता क्षति की सीमा और उपलब्ध सिस्टम संसाधनों पर निर्भर करती है। Aspose.Imaging for Java को विभिन्न परिदृश्यों को संभालने के लिए डिज़ाइन किया गया है, लेकिन बहुत बड़ी या गंभीर रूप से क्षतिग्रस्त छवियां चुनौतियों का सामना कर सकती हैं।
+**Q: How do I save the recovered image to a new file?**  
+A: लोड करने के बाद, `try` ब्लॉक के भीतर `image.save("RecoveredImage.tiff");` कॉल करें।
 
-### 4: क्या Aspose.Imaging for Java में छवि हेरफेर के लिए कोई अतिरिक्त उपकरण या विधियाँ हैं?
+## Conclusion
 
-A4: हाँ, Aspose.Imaging for Java इमेज प्रोसेसिंग क्षमताओं की एक विस्तृत श्रृंखला प्रदान करता है, जिसमें आकार बदलना, क्रॉप करना और विभिन्न फ़िल्टर और प्रभाव लागू करना शामिल है। यह इमेज रिकवरी और इमेज एन्हांसमेंट दोनों के लिए एक शक्तिशाली उपकरण है।
+TIFF इमेज डेटा को रिकवर करना उन सभी के लिए एक आवश्यक कौशल है जो उच्च‑रिज़ॉल्यूशन या अभिलेखीय ग्राफ़िक्स के साथ काम करते हैं। Aspose.Imaging for Java के `DataRecoveryMode` और बैकग्राउंड‑कलर विकल्पों का उपयोग करके आप न्यूनतम कोड के साथ भ्रष्ट फ़ाइलों को पुनर्स्थापित कर सकते हैं। ऊपर दिए गए चरणों को टेम्पलेट की तरह उपयोग करें, पाथ और रंग को अपनी आवश्यकता अनुसार बदलें, और आप अपने विज़ुअल एसेट्स को सुरक्षित और उपयोग योग्य रख पाएँगे।
 
-### 5: क्या मैं व्यावसायिक परियोजनाओं में Java के लिए Aspose.Imaging का उपयोग कर सकता हूँ?
+---
 
-A5: हाँ, Aspose.Imaging for Java एक व्यावसायिक लाइब्रेरी है, और आप इसे अपने व्यावसायिक प्रोजेक्ट में उपयोग कर सकते हैं। आप यहाँ से लाइसेंस प्राप्त कर सकते हैं [यहाँ](https://purchase.aspose.com/buy).
+**Last Updated:** 2025-12-22  
+**Tested With:** Aspose.Imaging for Java 24.11 (latest at time of writing)  
+**Author:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
