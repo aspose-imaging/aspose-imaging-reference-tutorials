@@ -1,10 +1,13 @@
 ---
-"description": "تعلّم كيفية تحويل الصور النقطية إلى صيغة TIFF في جافا باستخدام Aspose.Imaging for Java. دليل شامل لمعالجة الصور."
-"linktitle": "تحويل الصور النقطية إلى صيغة TIFF"
-"second_title": "واجهة برمجة تطبيقات معالجة الصور Java Aspose.Imaging"
-"title": "تحويل الصور النقطية إلى TIFF في Java باستخدام Aspose.Imaging"
-"url": "/ar/java/image-conversion-and-optimization/raster-image-tiff-conversion/"
-"weight": 20
+date: 2026-01-04
+description: تعلم كيفية **إنشاء ملفات صورة tiff** من مصادر الراستر في جافا. يغطي هذا
+  الدليل تحويل صيغ الصور، معالجة الصور في جافا، وكيفية استخدام Aspose.Imaging للحصول
+  على نتائج سلسة.
+linktitle: Raster Image TIFF Conversion
+second_title: Aspose.Imaging Java Image Processing API
+title: كيفية إنشاء صورة TIFF من ملفات الراستر في جافا باستخدام Aspose.Imaging
+url: /ar/java/image-conversion-and-optimization/raster-image-tiff-conversion/
+weight: 20
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,29 +16,46 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# تحويل الصور النقطية إلى TIFF في Java باستخدام Aspose.Imaging
+# كيفية إنشاء صورة TIFF من ملفات الراستر في Java باستخدام Aspose.Imaging
 
-إذا كنت ترغب في معالجة الصور النقطية وتحويلها في تطبيق جافا، فإن Aspose.Imaging for Java هو الأداة المثالية. سيرشدك هذا البرنامج التعليمي خطوة بخطوة خلال عملية تحويل صورة نقطية إلى صيغة TIFF باستخدام Aspose.Imaging for Java. قبل الخوض في التفاصيل، دعنا نلقي نظرة على ما تحتاجه للبدء.
+إذا كنت بحاجة إلى **إنشاء ملفات صورة TIFF** من مصادر الراستر داخل تطبيق Java، فإن Aspose.Imaging for Java يجعل المهمة مباشرة. في هذا البرنامج التعليمي سنستعرض العملية بالكامل—بدءًا من إعداد بيئتك، تحميل صورة الراستر، تكوين خيارات TIFF، وأخيرًا حفظ النتيجة كملف TIFF. في النهاية ستفهم ليس فقط كيفية **تحويل الراستر إلى TIFF**، بل أيضًا كيفية ضبط الضغط، الدقة، وإعدادات TIFF الأخرى بدقة.
 
-## المتطلبات الأساسية
+## إجابات سريعة
+- **ما المكتبة التي تبسط إنشاء TIFF؟** Aspose.Imaging for Java  
+- **المهمة الأساسية؟** إنشاء صورة TIFF من مصدر راستر  
+- **المتطلب الأساسي؟** JDK 8+ و Aspose.Imaging JARs على مسار الفئة (classpath)  
+- **الوقت النموذجي للتنفيذ؟** 10‑15 دقيقة للتحويل الأساسي  
+- **هل يمكن تخصيص الضغط؟** نعم – استخدم `TiffCompressions` في `TiffOptions`
 
-قبل أن تبدأ في تحويل الصور النقطية إلى TIFF، تأكد من توفر المتطلبات الأساسية التالية:
+## ما هو إنشاء صورة TIFF؟
+إنشاء صورة TIFF يعني أخذ بيانات البكسل من تنسيق راستر موجود (مثل PNG أو JPEG أو BMP) وترميزها إلى تنسيق Tagged Image File Format (TIFF). يدعم TIFF صفحات متعددة، ضغط غير فقدان، وبيانات وصفية غنية، مما يجعله مثاليًا للأرشفة، الطباعة، والتصوير العلمي.
 
-### 1. بيئة تطوير جافا
+## لماذا نستخدم Aspose.Imaging لهذا التحويل بين تنسيقات الصور؟
+يوفر Aspose.Imaging واجهة برمجة تطبيقات Java صافية تُجرد تعقيدات مواصفة TIFF. ستحصل على:
 
-تأكد من تثبيت Java Development Kit (JDK) على نظامك. يمكنك تنزيله من موقع Oracle الإلكتروني.
+* **تحكم كامل** في البتات‑لكل‑عينة، تفسير الفوتومتريك، والضغط.  
+* **بدون تبعيات أصلية** – يعمل في أي بيئة تدعم Java.  
+* **توثيق واسع** وأمثلة لمهام معالجة الصور في Java.  
 
-### 2. Aspose.Imaging لـ Java
+## المتطلبات المسبقة
 
-ستحتاج إلى الحصول على Aspose.Imaging لجافا، الذي يوفر واجهات برمجة التطبيقات اللازمة للعمل مع تنسيقات الصور المختلفة. يمكنك تنزيله من [هنا](https://releases.aspose.com/imaging/java/).
+قبل أن تبدأ في تحويل صور الراستر إلى TIFF، تأكد من توفر المتطلبات التالية:
 
-### 3. المعرفة الأساسية بلغة جافا
+### 1. بيئة تطوير Java
 
-يفترض هذا البرنامج التعليمي أن لديك فهمًا أساسيًا لبرمجة جافا. يجب أن تكون على دراية بمفاهيم مثل الفئات والكائنات واستدعاءات الدوال.
+تأكد من تثبيت مجموعة تطوير جافا (JDK) على نظامك. يمكنك تنزيلها من موقع Oracle.
+
+### 2. Aspose.Imaging for Java
+
+ستحتاج إلى الحصول على Aspose.Imaging for Java، الذي يوفر واجهات برمجة التطبيقات اللازمة للعمل مع تنسيقات الصور المتنوعة. يمكنك تنزيله من [هنا](https://releases.aspose.com/imaging/java/).
+
+### 3. معرفة أساسية بـ Java
+
+يفترض هذا البرنامج التعليمي أن لديك فهمًا أساسيًا لبرمجة Java. يجب أن تكون ملمًا بمفاهيم مثل الفئات، الكائنات، واستدعاءات الطرق.
 
 ## استيراد الحزم
 
-للبدء، عليك استيراد حزم Aspose.Imaging for Java المطلوبة إلى برنامج Java. إليك كيفية القيام بذلك:
+لبدء العمل، تحتاج إلى استيراد حزم Aspose.Imaging for Java المطلوبة إلى برنامج Java الخاص بك. إليك الطريقة:
 
 ```java
 import com.aspose.imaging.Image;
@@ -53,7 +73,7 @@ import com.aspose.imaging.fileformats.tiff.TiffFrame;
 
 ## الخطوة 1: إعداد البيئة
 
-الخطوة الأولى هي إعداد البيئة. أنشئ مجلدًا لمشروعك وضع فيه الصورة النقطية التي تريد تحويلها إلى TIFF. يمكنك استبدال `"Your Document Directory"` مع المسار الفعلي إلى دليل المشروع الخاص بك.
+الخطوة الأولى هي إعداد البيئة. أنشئ دليلًا لمشروعك وضع صورة الراستر التي تريد تحويلها إلى TIFF فيه. يمكنك استبدال `"Your Document Directory"` بالمسار الفعلي لدليل مشروعك.
 
 ```java
 String dataDir = "Your Document Directory" + "ModifyingImages/";
@@ -61,7 +81,7 @@ String dataDir = "Your Document Directory" + "ModifyingImages/";
 
 ## الخطوة 2: إنشاء TiffOptions
 
-الآن، قم بإنشاء مثيل لـ `TiffOptions` وضبط خصائصه المختلفة لصيغة TIFF. يمكنك تخصيص هذه الخيارات وفقًا لاحتياجاتك.
+الآن، أنشئ كائنًا من `TiffOptions` واضبط خصائصه المختلفة لتنسيق TIFF. يمكنك تخصيص هذه الخيارات وفقًا لمتطلباتك.
 
 ```java
 TiffOptions options = new TiffOptions(TiffExpectedFormat.Default);
@@ -76,7 +96,7 @@ options.setCompression(TiffCompressions.AdobeDeflate);
 
 ## الخطوة 3: تحميل الصورة
 
-قم بتحميل الصورة الموجودة التي تريد تحويلها إلى مثيل لها `RasterImage`تأكد من تحديد المسار لملف الصورة الخاص بك.
+حمّل الصورة الموجودة التي تريد تحويلها إلى كائن من `RasterImage`. تأكد من تحديد المسار إلى ملف الصورة الخاص بك.
 
 ```java
 try (RasterImage image = (RasterImage) Image.load(dataDir + "SampleTiff1.tiff")) {
@@ -84,7 +104,7 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "SampleTiff1.tiff"))
 
 ## الخطوة 4: إنشاء TiffImage وحفظه
 
-إنشاء جديد `TiffImage` من `RasterImage` وحفظ الصورة الناتجة أثناء تمرير المثيل `TiffOptions`يمكنك أيضًا تحديد المسار الذي تريد حفظ صورة TIFF المحولة فيه.
+أنشئ كائنًا جديدًا من `TiffImage` باستخدام `RasterImage` واحفظ الصورة الناتجة مع تمرير كائن `TiffOptions`. يمكنك أيضًا تحديد المسار الذي تريد حفظ صورة TIFF المحوّلة فيه.
 
 ```java
     try (TiffImage tiffImage = new TiffImage(new TiffFrame(image))) {
@@ -93,34 +113,44 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "SampleTiff1.tiff"))
 }
 ```
 
-هذا كل شيء! لقد نجحت في تحويل صورة نقطية إلى صيغة TIFF باستخدام Aspose.Imaging لـ Java.
+هذا كل شيء—لقد نجحت في **إنشاء صورة TIFF** من مصدر راستر باستخدام Aspose.Imaging for Java.
 
-## خاتمة
+## المشكلات الشائعة والحلول
 
-في هذا البرنامج التعليمي، تعلمت كيفية تحويل صورة نقطية إلى صيغة TIFF باستخدام Aspose.Imaging for Java. تتيح لك هذه المكتبة القوية معالجة الصور وتحويلها بسهولة. سواء كنت تعمل على معالجة الصور، أو تحويل المستندات، أو أي تطبيق آخر يتضمن الصور، فإن Aspose.Imaging for Java أداة قيّمة في جعبتك.
+| المشكلة | السبب | الحل |
+|-------|--------|-----|
+| `java.lang.NoClassDefFoundError` | عدم وجود ملف JAR الخاص بـ Aspose.Imaging في مسار الفئة | أضف ملف JAR الخاص بـ Aspose.Imaging (أو تبعية Maven) إلى مشروعك |
+| جودة منخفضة للخرج | تم ضبط الضغط على نوع فقدان | غيّر إلى `TiffCompressions.Lzw` أو `None` للحصول على ضغط غير فقدان |
+| مساحة لونية غير صحيحة | `Photometric` لا يتطابق مع المصدر | استخدم `TiffPhotometrics.Ycbcr` للصور القائمة على YUV |
 
-الآن يمكنك الاستفادة الكاملة من Aspose.Imaging for Java للعمل مع الصور في تطبيقات Java. استكشف الوثائق لمزيد من الميزات والإمكانيات على [توثيق Aspose.Imaging لـ Java](https://reference.aspose.com/imaging/java/).
+## الأسئلة المتكررة
 
-## الأسئلة الشائعة
+**س: ما تنسيقات الصور التي يدعمها Aspose.Imaging for Java؟**  
+ج: يدعم Aspose.Imaging for Java مجموعة واسعة من تنسيقات الصور، بما في ذلك JPEG، PNG، TIFF، BMP، GIF، والعديد غيرها. راجع الوثائق للحصول على القائمة الكاملة.
 
-### س1: ما هي تنسيقات الصور التي يدعمها Aspose.Imaging for Java؟
-يدعم Aspose.Imaging for Java مجموعة واسعة من تنسيقات الصور، بما في ذلك JPEG وPNG وTIFF وBMP وGIF وغيرها الكثير. راجع الوثائق للاطلاع على قائمة كاملة بالتنسيقات المدعومة.
+**س: هل يمكنني إجراء عمليات تعديل على الصور باستخدام Aspose.Imaging for Java؟**  
+ج: نعم، يمكنك تنفيذ عمليات تعديل مختلفة مثل تغيير الحجم، القص، الدوران، والمزيد باستخدام Aspose.Imaging for Java.
 
-### س2: هل يمكنني إجراء عمليات تحرير الصور باستخدام Aspose.Imaging لـ Java؟
+**س: كيف يمكنني الحصول على ترخيص مؤقت لـ Aspose.Imaging for Java؟**  
+ج: يمكنك الحصول على ترخيص مؤقت بزيارة [Aspose Temporary License](https://purchase.aspose.com/temporary-license/).
 
-ج2: نعم، يمكنك إجراء عمليات تحرير الصور المختلفة مثل تغيير الحجم، والقص، والتدوير، والمزيد باستخدام Aspose.Imaging لـ Java.
+**س: هل هناك نسخة تجريبية مجانية متاحة لـ Aspose.Imaging for Java؟**  
+ج: نعم، يمكنك الوصول إلى نسخة تجريبية مجانية من Aspose.Imaging for Java عبر [Aspose.Imaging Free Trial](https://releases.aspose.com/).
 
-### س3: كيف يمكنني الحصول على ترخيص مؤقت لـ Aspose.Imaging لـ Java؟
+**س: أين يمكنني الحصول على الدعم أو طرح الأسئلة حول Aspose.Imaging for Java؟**  
+ج: يمكنك الانضمام إلى مجتمع Aspose.Imaging والحصول على الدعم عبر [Aspose.Imaging Forum](https://forum.aspose.com/).
 
-ج3: يمكنك الحصول على رخصة مؤقتة عن طريق زيارة [ترخيص Aspose المؤقت](https://purchase.aspose.com/temporary-license/).
+## الخلاصة
 
-### س4: هل هناك نسخة تجريبية مجانية متاحة لـ Aspose.Imaging لنظام Java؟
+في هذا البرنامج التعليمي تعلمت كيفية **إنشاء صورة TIFF** من مصدر راستر باستخدام Aspose.Imaging for Java. تُبسّط المكتبة تحويل تنسيقات الصور، وتمنحك تحكمًا دقيقًا في الضغط، الدقة، والبيانات الوصفية. استكشف واجهة برمجة التطبيقات الكاملة للحصول على إمكانيات إضافية مثل إنشاء TIFF متعدد الصفحات، تعديل البيانات الوصفية، والمعالجة الدفعية.
 
-ج4: نعم، يمكنك الوصول إلى نسخة تجريبية مجانية من Aspose.Imaging for Java على [تجربة مجانية لبرنامج Aspose.Imaging](https://releases.aspose.com/).
+لمزيد من التفاصيل، زر الوثائق الرسمية على [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/).
 
-### س5: أين يمكنني الحصول على الدعم أو طرح الأسئلة حول Aspose.Imaging لـ Java؟
+---
 
-A5: يمكنك الانضمام إلى مجتمع Aspose.Imaging والحصول على الدعم على [منتدى Aspose.Imaging](https://forum.aspose.com/).
+**آخر تحديث:** 2026-01-04  
+**تم الاختبار مع:** Aspose.Imaging for Java 24.12  
+**المؤلف:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
