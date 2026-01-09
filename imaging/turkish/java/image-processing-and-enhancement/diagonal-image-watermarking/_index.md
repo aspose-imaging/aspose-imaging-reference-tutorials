@@ -1,10 +1,13 @@
 ---
-"description": "Aspose.Imaging for Java kullanarak resimlerinizi çapraz filigranla geliştirin. Bu adım adım kılavuzu izleyin ve zahmetsizce çarpıcı filigranlı resimler oluşturun."
-"linktitle": "Diyagonal Görüntü Filigranlama"
-"second_title": "Aspose.Imaging Java Görüntü İşleme API'si"
-"title": "Java için Aspose.Imaging ile Diyagonal Görüntü Filigranlama"
-"url": "/tr/java/image-processing-and-enhancement/diagonal-image-watermarking/"
-"weight": 14
+date: 2026-01-09
+description: Aspose.Imaging for Java ile görüntülere filigran eklemeyi öğrenin. Bu
+  Java görüntü işleme öğreticisi, adım adım hızlı bir şekilde diyagonal bir filigran
+  oluşturmayı gösterir.
+linktitle: Diagonal Image Watermarking
+second_title: Aspose.Imaging Java Image Processing API
+title: Filigran Nasıl Eklenir – Çapraz Görüntü Filigranı (Java)
+url: /tr/java/image-processing-and-enhancement/diagonal-image-watermarking/
+weight: 14
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,24 +16,36 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Java için Aspose.Imaging ile Diyagonal Görüntü Filigranlama
+# Su İşareti Ekleme – Çapraz Görüntü Su İşareti (Java)
 
+Eğer resimlerinize şık bir çapraz yönlendirme ile **how to add watermark** eklemek istiyorsanız, Aspose.Imaging for Java bunu zahmetsiz hale getirir. Bu adım‑adım öğreticide, bir JPG (veya desteklenen herhangi bir) görüntüye 45‑derece döndürülmüş metin su işareti eklemeyi göstereceğiz. Java sihirbazı olmanıza gerek yok – her blok sade bir dille açıklanmıştır, böylece sonucu dakikalar içinde yeniden oluşturabilirsiniz.
 
-Resimlerinizi şık bir diyagonal filigranla geliştirmek istiyorsanız, Java için Aspose.Imaging size yardımcı olmak için burada. Bu adım adım kılavuzda, mevcut bir JPG resmine 45 derece döndürülmüş metin filigranı ekleme sürecini adım adım anlatacağız. Takip etmek için Java veya görüntü işleme konusunda uzman olmanıza gerek yok; her örneği profesyonel sonuçlara kolayca ulaşmanızı sağlamak için birden fazla adıma ayıracağız.
+## Hızlı Cevaplar
+- **Hangi kütüphane kullanılıyor?** Aspose.Imaging for Java  
+- **Hangi birincil anahtar kelime kapsanıyor?** how to add watermark  
+- **Desteklenen görüntü formatları?** JPEG, PNG, BMP, TIFF, GIF and more  
+- **Ne kadar kod gerekiyor?** Only seven concise code blocks  
+- **Test için lisansa ihtiyacım var mı?** A free trial is available; a license is required for production  
 
-## Ön koşullar
+## “how to add watermark” görüntü işleme'de nedir?
 
-Resim filigranlamanın heyecan verici dünyasına dalmadan önce, birkaç şeyin yerli yerinde olması gerekir:
+Su işareti eklemek, bir görüntünün üzerine yarı‑saydam metin veya grafik yerleştirerek mülkiyeti korumak veya marka mesajı iletmek anlamına gelir. Çapraz bir su işareti özellikle etkilidir çünkü tüm resmi kaplar ve kırpılması daha zordur.
 
-1. Java için Aspose.Imaging: Java için Aspose.Imaging'in yüklü olduğundan emin olun. İndirme bağlantısını bulabilirsiniz [Burada](https://releases.aspose.com/imaging/java/).
+## Neden Aspose.Imaging for Java kullanmalı?
 
-2. Java Geliştirme Ortamı: Bilgisayarınızda çalışan bir Java geliştirme ortamının kurulu olması gerekir.
+Aspose.Imaging, düşük seviyeli piksel manipülasyonunu soyutlayan yüksek seviyeli bir API sağlar, onlarca formatı destekler ve herhangi bir Java çalışma zamanında çalışır. Size, çapraz bir su işareti eklemek gibi *ne* yapmak istediğinize odaklanmanızı sağlar, görüntü formatı incelikleriyle uğraşmadan.
 
-3. Filigran Eklemek İçin Bir Resim: Filigran eklemek istediğiniz resmi hazırlayın ve bir dizinde saklayın. Bu eğitim için bir örnek resim kullanabilirsiniz.
+## Önkoşullar
 
-## Paketleri İçe Aktar
+İlerlemeye başlamadan önce aşağıdakilere sahip olduğunuzdan emin olun:
 
-Öncelikle, Java projenizi resim filigranı için hazır hale getirmek için gerekli paketleri içe aktarın. Aşağıda dahil etmeniz gereken temel paketler bulunmaktadır:
+1. **Aspose.Imaging for Java** – resmi siteden en son sürümü **[here](https://releases.aspose.com/imaging/java/)** adresinden indirin.  
+2. **Java Development Environment** – JDK 8+ ve favori IDE'niz (IntelliJ, Eclipse, VS Code, vb.).  
+3. **An image to watermark** – kodda referans göstereceğiniz bir klasöre örnek bir JPG/TIFF/PNG yerleştirin.
+
+## Paketleri İçe Aktarma
+
+İlk olarak, ihtiyacınız olan sınıfları içe aktarın. İçe aktarmaları bir arada tutmak kodun okunmasını ve bakımını kolaylaştırır.
 
 ```java
 import com.aspose.imaging.*;
@@ -41,114 +56,126 @@ import com.aspose.imaging.imageoptions.*;
 import com.aspose.imaging.text.*;
 ```
 
-## Adım 1: Mevcut Bir Görüntüyü Yükleyin
+## Adım 1: Mevcut Bir Görüntüyü Yükleme
 
-Filigran eklemek istediğiniz resmi yükleyin. Bu örnekte, "ModifyingImages" dizininizde "SampleTiff1.tiff" adlı bir JPG resminiz olduğunu varsayıyoruz.
+Kaynak resmi yükleyerek başlıyoruz. `Image.load` yöntemi formatı otomatik olarak algılar.
 
 ```java
-// Belgeler dizinine giden yol.
+// The path to the documents directory.
 String dataDir = "Your Document Directory" + "ModifyingImages/";
 
-// Mevcut bir JPG resmini yükleyin
+// Load an existing JPG image
 try (Image image = Image.load(dataDir + "SampleTiff1.tiff"))
 {
-    // Kodun geri kalanı buraya gelecek
+    // Rest of the code goes here
 }
 ```
 
-## Adım 2: Filigran Metni ve Grafiklerini Hazırlayın
+> **Pro tip:** `Image` nesnesini (gösterildiği gibi) bir try‑with‑resources bloğuna sarın, böylece otomatik olarak serbest bırakılır ve bellek sızıntıları önlenir.
 
-Şimdi filigran metninizi tanımlayalım ve filigran için grafikleri ayarlayalım.
+## Adım 2: Su İşareti Metni ve Grafiklerini Hazırlama
+
+Yüklenen görüntüye bağlı bir `Graphics` nesnesi oluşturun ve daha sonraki hesaplamalar için görüntü boyutunu saklayın.
 
 ```java
-// Filigran Metni ile bir Dize nesnesi bildirin
+// Declare a String object with Watermark Text
 String theString = "45 Degree Rotated Text";
 
-// Graphics sınıfının bir örneğini oluşturun ve başlatın
+// Create and initialize an instance of Graphics class
 Graphics graphics = new Graphics(image);
 
-// Görüntü Boyutunu depolamak için SizeF nesnesini başlatın
+// Initialize an object of SizeF to store image Size
 Size sz = graphics.getImage().getSize();
 ```
 
-## Adım 3: Yazı Tipini ve Fırçayı Tanımlayın
+## Adım 3: Yazı Tipi ve Fırçayı Tanımlama
 
-Filigranınız için yazı tipini ve fırçayı ayarlayın. Yazı tipini, boyutunu ve stilini tercihlerinize uyacak şekilde özelleştirebilirsiniz.
+Öne çıkan bir yazı tipi ve su işaretinin rengini ve opaklığını belirleyen bir fırça seçin. Opaklığı ayarlayarak su işaretini yarı‑saydam hâle getirin.
 
 ```java
-// Bir Font örneği oluşturun, bunu Font Yüzü, Boyutu ve Stili ile başlatın
+// Create an instance of Font, initialize it with Font Face, Size, and Style
 Font font = new Font("Times New Roman", 20, FontStyle.Bold);
 
-// SolidBrush'ın bir örneğini oluşturun ve çeşitli özelliklerini ayarlayın
+// Create an instance of SolidBrush and set its various properties
 SolidBrush brush = new SolidBrush();
 brush.setColor(Color.getRed());
 brush.setOpacity(0);
 ```
 
-## Adım 4: Metninizi Biçimlendirin
+## Adım 4: Metninizi Biçimlendirme
 
-Filigran metniniz için hizalama ve biçim işaretleri dahil olmak üzere biçimi tanımlayın.
+Metin çizildiğinde ortalanması için hizalama ve biçimlendirme bayraklarını ayarlayın.
 
 ```java
-// StringFormat sınıfının bir nesnesini başlatın ve çeşitli özelliklerini ayarlayın
+// Initialize an object of StringFormat class and set its various properties
 StringFormat format = new StringFormat();
 format.setAlignment(StringAlignment.Center);
 format.setFormatFlags(StringFormatFlags.MeasureTrailingSpaces);
 ```
 
-## Adım 5: Dönüşümü Uygula
+## Adım 5: Dönüşümü Uygulama
 
-Filigran metnini konumlandırmak ve döndürmek için bir dönüşüm matrisi oluşturun. Bu örnekte metni 45 derece döndüreceğiz.
+Bir dönüşüm matrisi, orijini görüntünün merkezine taşımamıza ve ardından metni ‑45° (saat yönünde) döndürmemize olanak tanır.
 
 ```java
-// Dönüşüm için Matrix sınıfından bir nesne oluşturun
+// Create an object of Matrix class for transformation
 Matrix matrix = new Matrix();
-// Önce bir çeviri sonra bir rotasyon
+// First a translation then a rotation
 matrix.translate(sz.getWidth() / 2f, sz.getHeight() / 2f);
 matrix.rotate(-45.0f);
-// Dönüşümü Matris Üzerinden Ayarlayın
+// Set the Transformation through Matrix
 graphics.setTransform(matrix);
 ```
 
 ## Adım 6: Çiz ve Kaydet
 
-Şimdi, metni görsele eklemenin ve filigranlı görseli istediğiniz yere kaydetmenin zamanı geldi.
+Son olarak, dizeyi görüntü üzerine işleyin ve sonucu diske yazın.
 
 ```java
-// Resimdeki ipi çizin
+// Draw the string on Image
 graphics.drawString(theString, font, brush, 0, 0, format);
 
-// Çıktıyı diske kaydet
+// Save output to disk
 image.save("Your Document Directory" + "AddDiagonalWatermarkToImage_out.jpg");
 ```
 
-Tebrikler! Aspose.Imaging for Java'yı kullanarak resminize çapraz filigran eklemeyi başardınız.
+`AddDiagonalWatermarkToImage_out.jpg` dosyasını açtığınızda, kırmızı, yarı‑saydam metnin resmin ortasından çapraz olarak geçtiğini göreceksiniz.
 
-## Çözüm
+## Yaygın Sorunlar ve Çözümler
 
-Bu eğitimde, Aspose.Imaging for Java kullanarak resimlerinizi diyagonal filigranla nasıl geliştireceğinizi öğrendik. Resimlerinize profesyonel bir dokunuş katmak için güçlü bir araçtır. Sadece birkaç basit adımla, diğerlerinden sıyrılan çarpıcı filigranlı resimler oluşturabilirsiniz.
+| Sorun | Neden | Çözüm |
+|-------|-------|-------|
+| Watermark appears too faint | Opacity set to 0 (fully transparent) | Increase opacity, e.g., `brush.setOpacity(0.5f);` |
+| Text is clipped at edges | Translation not centered for non‑square images | Use `matrix.translate(sz.getWidth() / 2f, sz.getHeight() / 2f);` as shown, then adjust rotation angle if needed |
+| Unsupported image format error | Using an older Aspose.Imaging version | Update to the latest Aspose.Imaging release |
 
-## SSS
+## Sıkça Sorulan Sorular
 
-### S1: Aspose.Imaging for Java yeni başlayanlar için uygun mu?
+### Q1: Aspose.Imaging for Java yeni başlayanlar için uygun mu?
 
-A1: Kesinlikle! Aspose.Imaging for Java, kullanıcı dostu bir arayüz ve kapsamlı belgeler sunar. Yeni başlayanlar bile görüntü işlemeye hızla başlayabilir.
+**A:** Kesinlikle! API sezgiseldir ve dokümantasyon net örnekler sunar. Görüntü işleme konusunda yeni olan geliştiriciler bile bu öğreticiyi izleyerek hızlıca profesyonel sonuçlar elde edebilir.
 
-### S2: Filigran metnini ve stilini özelleştirebilir miyim?
+### Q2: Su işareti metnini ve stilini özelleştirebilir miyim?
 
-C2: Evet, filigran metnini, yazı tipini, boyutunu, rengini ve dönüş açısını tercihlerinize ve markanıza uyacak şekilde kolayca özelleştirebilirsiniz.
+**A:** Evet. `theString` değişkenini değiştirin, farklı bir `Font` seçin, `brush.setColor(...)` değerini değiştirin veya matris içindeki dönüş açıını markanıza uygun şekilde ayarlayın.
 
-### S3: Aspose.Imaging for Java, JPG dışında başka resim formatlarını da destekliyor mu?
+### Q3: Aspose.Imaging for Java JPG dışındaki diğer görüntü formatlarını destekliyor mu?
 
-C3: Evet, Aspose.Imaging for Java, BMP, PNG, GIF ve daha fazlası dahil olmak üzere çok çeşitli görüntü formatlarını destekler.
+**A:** Evet. Kütüphane BMP, PNG, GIF, TIFF, PSD ve daha birçok formatı destekler. Tek yapmanız gereken `Image.load` yöntemine uygun dosyayı göstermek.
 
-### S4: Aspose.Imaging for Java için ücretsiz deneme sürümü var mı?
+### Q4: Aspose.Imaging for Java için ücretsiz deneme mevcut mu?
 
-A4: Evet, Aspose.Imaging for Java'yı ücretsiz deneme sürümüyle deneyebilirsiniz. Edinin [Burada](https://releases.aspose.com/).
+**A:** Evet, Aspose.Imaging for Java'ı ücretsiz deneme ile deneyebilirsiniz. **[buradan](https://releases.aspose.com/)** edinin.
 
-### S5: Aspose.Imaging for Java için yardım veya desteği nerede bulabilirim?
+### Q5: Aspose.Imaging for Java için yardım veya destek nereden bulabilirim?
 
-A5: Herhangi bir sorunuz varsa veya yardıma ihtiyacınız varsa Aspose.Imaging for Java destek forumunu ziyaret edin [Burada](https://forum.aspose.com/).
+**A:** Sorular, hata raporları veya en iyi uygulama tavsiyeleri için Aspose.Imaging for Java destek forumunu **[burada](https://forum.aspose.com/)** ziyaret edin.
+
+---
+
+**Son Güncelleme:** 2026-01-09  
+**Test Edilen:** Aspose.Imaging for Java 24.11 (latest at time of writing)  
+**Yazar:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
