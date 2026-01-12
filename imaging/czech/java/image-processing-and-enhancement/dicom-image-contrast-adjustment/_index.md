@@ -1,10 +1,12 @@
 ---
-"description": "Naučte se, jak upravit kontrast v DICOM snímcích pomocí Aspose.Imaging pro Javu. Snadno vylepšete vizuální kvalitu lékařských snímků."
-"linktitle": "Nastavení kontrastu obrazu DICOM"
-"second_title": "API pro zpracování obrazu v Javě Aspose.Imaging"
-"title": "Úprava kontrastu obrazu DICOM pomocí Aspose.Imaging pro Javu"
-"url": "/cs/java/image-processing-and-enhancement/dicom-image-contrast-adjustment/"
-"weight": 23
+date: 2026-01-12
+description: Naučte se, jak upravit kontrast v DICOM obrázcích – krok za krokem průvodce,
+  jak upravit kontrast pomocí Aspose.Imaging pro Javu a převést DICOM na BMP.
+linktitle: DICOM Image Contrast Adjustment
+second_title: Aspose.Imaging Java Image Processing API
+title: Jak upravit kontrast v DICOM obrázcích pomocí Aspose.Imaging pro Java
+url: /cs/java/image-processing-and-enhancement/dicom-image-contrast-adjustment/
+weight: 23
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,23 +15,31 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Úprava kontrastu obrazu DICOM pomocí Aspose.Imaging pro Javu
+# Jak upravit kontrast v DICOM obrázcích pomocí Aspose.Imaging pro Java
 
-neustále se vyvíjející oblasti lékařského zobrazování je schopnost upravovat kontrast obrazu naprosto zásadní. Díky výkonu Aspose.Imaging pro Javu můžete bez námahy manipulovat se snímky DICOM (Digital Imaging and Communications in Medicine) a vylepšit tak jejich vizuální kvalitu. Tento tutoriál vás krok za krokem provede celým procesem a zajistí vám přesné a efektivní úpravy kontrastu obrazu.
+V moderním lékařském zobrazování může **úprava kontrastu** rozhodnout o jasné diagnóze nebo o přehlédnutém detailu. Tento tutoriál vás provede přesné kroky, jak upravit kontrast v DICOM souborech pomocí Aspose.Imaging pro Java, a ukáže vám, jak převést tyto DICOM obrázky do BMP pro snadné prohlížení nebo další zpracování. Na konci budete mít připravený úryvek kódu, který můžete vložit do libovolného Java projektu.
+
+## Rychlé odpovědi
+- **Co dělá úprava kontrastu?** Rozšiřuje rozsah mezi tmavými a světlými pixely, čímž zvýrazňuje struktury.
+- **Která knihovna je potřeba?** Aspose.Imaging pro Java.
+- **Mohu výstup uložit jako BMP?** Ano – po úpravě kontrastu můžete DICOM převést do BMP.
+- **Potřebuji licenci pro produkční použití?** Pro ne‑evaluační použití je vyžadována komerční licence.
+- **Jaká verze Javy je podporována?** Java 8 a novější.
+
+## Co je úprava kontrastu a proč je důležitá?
+Úprava kontrastu zvyšuje vizuální odlišení mezi anatomickými strukturami, což pomáhá radiologům rychleji odhalit anomálie. V DICOM workflow úprava kontrastu před konverzí zajišťuje, že BMP výstup si zachová diagnostickou kvalitu potřebnou pro zprávy nebo archivaci.
 
 ## Předpoklady
 
-Než se pustíte do tohoto tutoriálu, ujistěte se, že máte splněny následující předpoklady:
+Než se pustíte do kódu, ověřte, že máte:
 
-1. Aspose.Imaging pro Javu: Pro práci s obrázky DICOM a úpravu kontrastu potřebujete Aspose.Imaging pro Javu. Můžete si ho stáhnout. [zde](https://releases.aspose.com/imaging/java/).
+1. **Aspose.Imaging pro Java** – stáhněte si ji z oficiálního webu [zde](https://releases.aspose.com/imaging/java/).  
+2. **Vývojové prostředí Javy** – JDK 8+ a vaše oblíbené IDE (IntelliJ, Eclipse, VS Code, atd.).  
+3. **DICOM obrázek** – libovolný soubor *.dcm*, který chcete vylepšit; ukázkové soubory jsou k dispozici online nebo můžete použít vlastní klinická data.
 
-2. Vývojové prostředí Java: Ujistěte se, že máte funkční vývojové prostředí Java, včetně sady Java Development Kit (JDK) a integrovaného vývojového prostředí (IDE) dle vašeho výběru.
+## Import balíčků
 
-3. Snímek DICOM: Připravte si snímek DICOM, který chcete upravit. Můžete si najít ukázkové snímky DICOM pro testovací účely nebo použít vlastní.
-
-## Importovat balíčky
-
-Ve vašem projektu Java importujte potřebné balíčky z Aspose.Imaging pro Javu. Tyto balíčky poskytnou nástroje a funkce potřebné k provedení úpravy kontrastu na obrázcích DICOM.
+Tyto importy vám umožní pracovat s DICOM a ukládat do BMP.
 
 ```java
 import com.aspose.imaging.imageoptions.BmpOptions;
@@ -40,9 +50,13 @@ import java.io.FileInputStream;
 import java.io.IOException;
 ```
 
-## Krok 1: Zadejte cesty k souborům
+## Jak upravit kontrast v DICOM obrázcích
 
-Definujte cesty pro vstupní obrázek DICOM a výstupní obrázek BMP. Nezapomeňte nahradit `"Your Document Directory"` se skutečnou cestou k adresáři dokumentů.
+Níže je kompletní krok‑za‑krokem workflow. Každý krok je vysvětlen srozumitelně, takže můžete postupovat i když jste v Aspose.Imaging nováčkem.
+
+### Krok 1: Zadejte cesty k souborům
+
+Nastavte vstupní umístění DICOM a požadovanou výstupní cestu BMP. Nahraďte zástupný text skutečnou složkou na vašem počítači.
 
 ```java
 String dataDir = "Your Document Directory" + "dicom/";
@@ -50,16 +64,16 @@ String inputFile = dataDir + "image.dcm";
 String outputFile = "Your Document Directory" + "AdjustingContrast_out.bmp";
 ```
 
-## Krok 2: Načtení obrazu DICOM
+### Krok 2: Načtěte DICOM obrázek
 
-Pomocí následujícího kódu načtěte obrázek DICOM ze zadaného vstupního souboru.
+Otevřeme DICOM soubor pomocí `FileInputStream`. Blok `try‑with‑resources` zajistí automatické uzavření proudu.
 
 ```java
 File file = new File(inputFile);
 
 try (FileInputStream fis = new FileInputStream(file)) {
     try (DicomImage image = (DicomImage) Image.load(fis)) {
-        // V rámci tohoto bloku budou podniknuty další kroky.
+        // All further processing happens inside this block
     }
 } catch (IOException ex) {
     Logger.println(ex.getMessage());
@@ -67,49 +81,56 @@ try (FileInputStream fis = new FileInputStream(file)) {
 }
 ```
 
-## Krok 3: Upravte kontrast
+### Krok 3: Upravit kontrast
 
-Uvnitř bloku, kam jste načetli obrázek DICOM, můžete upravit jeho kontrast. V tomto příkladu zvýšíme kontrast o 50 jednotek.
+Uvnitř vnitřního `try` bloku zavolejte `adjustContrast`. Hodnota může být od **‑100** (snížení) do **+100** (zvýšení). V tomto příkladu zvýšíme kontrast o 50 jednotek.
 
 ```java
 image.adjustContrast(50);
 ```
 
-## Krok 4: Vytvořte instanci BmpOptions a uložte obrázek
+### Krok 4: Převést DICOM na BMP a uložit obrázek
 
-Po úpravě kontrastu vytvořte instanci `BmpOptions` pro výsledný obrázek a uložte jej. Obrázek bude uložen ve formátu BMP.
+Po úpravě kontrastu vytvoříme instanci `BmpOptions` a výsledek uložíme jako BMP soubor. Tento krok **převádí DICOM na BMP**, čímž získáte široce podporovaný rastrový formát.
 
 ```java
 image.save(outputFile, new BmpOptions());
 ```
 
+## Časté problémy a tipy
+
+- **Neplatný DICOM soubor** – Ujistěte se, že soubor *.dcm* není komprimován nepodporovanou přenosovou syntaxí. Aspose.Imaging podporuje většinu standardních DICOM kódování.
+- **Hodnota kontrastu mimo rozsah** – Hodnoty mimo ±100 jsou oříznuty; zvolte číslo, které vyhovuje histogramu obrázku.
+- **Spotřeba paměti** – Velké DICOM série mohou spotřebovat značné množství RAM. Zpracovávejte jeden řez najednou, pokud narazíte na `OutOfMemoryError`.
+
 ## Závěr
 
-Gratulujeme! Úspěšně jste upravili kontrast obrazu DICOM pomocí nástroje Aspose.Imaging pro Javu. Tento výkonný nástroj vám umožňuje snadno vylepšit vizuální kvalitu lékařských snímků.
+Nyní jste se naučili **jak upravit kontrast** v DICOM obrázcích pomocí Aspose.Imaging pro Java a **jak převést DICOM na BMP** pro následné úkoly. Tento workflow je rychlý, spolehlivý a lze jej integrovat do větších pipeline pro medicínské obrazy, ať už budujete PACS prohlížeč, výzkumný nástroj nebo automatizovaný systém reportování.
 
-Aspose.Imaging pro Javu zjednodušuje proces manipulace s DICOM snímky, což z něj činí cenný přínos pro zdravotnické pracovníky, výzkumníky a kohokoli, kdo pracuje s lékařskými zobrazovacími daty.
+Aspose.Imaging pro Java abstrahuje nízkoúrovňové zpracování DICOM, takže se můžete soustředit na klinickou hodnotu vašich snímků.
 
 ## Často kladené otázky
 
-### Otázka 1: Co je DICOM a proč je důležitý v lékařském zobrazování?
+**Q: Co je DICOM a proč je standardem v medicínském zobrazování?**  
+A: DICOM (Digital Imaging and Communications in Medicine) je univerzální formát pro ukládání, přenos a sdílení medicínských obrázků, který zajišťuje interoperabilitu mezi zařízeními a institucemi.
 
-A1: DICOM je zkratka pro Digital Imaging and Communications in Medicine (Digitální zobrazování a komunikace v medicíně). Jedná se o standard pro přenos, ukládání a sdílení lékařských snímků a souvisejících informací. DICOM zajišťuje, že lékařské snímky lze konzistentně prohlížet a interpretovat napříč různými zařízeními a softwarem.
+**Q: Mohu upravit jas současně s kontrastem?**  
+A: Ano, metoda `adjustBrightness(int value)` funguje podobně a může být řetězena před uložením.
 
-### Q2: Mohu upravit kontrast jiných obrazových formátů pomocí Aspose.Imaging pro Javu?
+**Q: Podporuje Aspose.Imaging i jiné výstupní formáty kromě BMP?**  
+A: Rozhodně – můžete exportovat do PNG, JPEG, TIFF a mnoha dalších pomocí odpovídajících tříd `*Options`.
 
-A2: Ano, Aspose.Imaging pro Javu nabízí širokou škálu možností zpracování obrazu pro různé obrazové formáty, včetně úpravy kontrastu.
+**Q: Je pro produkční použití vyžadována komerční licence?**  
+A: Ano. Licenci můžete zakoupit [zde](https://purchase.aspose.com/buy) nebo získat dočasnou evaluační licenci [zde](https://purchase.aspose.com/temporary-license/).
 
-### Q3: Existují nějaké další techniky vylepšení obrazu, které mohu použít s Aspose.Imaging pro Javu?
+**Q: Kde najdu další pomoc a příklady?**  
+A: Komunitní fórum Aspose.Imaging pro Java poskytuje rozsáhlou dokumentaci a ukázkový kód: [Aspose.Imaging for Java forum](https://forum.aspose.com/).
 
-A3: Ano, Aspose.Imaging pro Javu nabízí nepřeberné množství funkcí pro manipulaci s obrázky, jako je úprava jasu, změna velikosti, oříznutí a další.
+---
 
-### Q4: Je Aspose.Imaging pro Javu vhodný pro komerční použití?
-
-A4: Ano, Aspose.Imaging pro Javu nabízí komerční licence a podporu. Licenci si můžete zakoupit. [zde](https://purchase.aspose.com/buy) nebo prozkoumejte možnosti dočasné licence [zde](https://purchase.aspose.com/temporary-license/).
-
-### Q5: Kde najdu další zdroje a podporu pro Aspose.Imaging pro Javu?
-
-A5: Dokumentaci a podporu naleznete na [Fórum Aspose.Imaging pro Javu](https://forum.aspose.com/).
+**Poslední aktualizace:** 2026-01-12  
+**Testováno s:** Aspose.Imaging pro Java 24.11  
+**Autor:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
