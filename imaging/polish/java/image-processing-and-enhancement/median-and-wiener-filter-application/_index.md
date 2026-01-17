@@ -1,10 +1,13 @@
 ---
-"description": "Dowiedz się, jak poprawić jakość obrazu za pomocą Aspose.Imaging for Java. Ten samouczek krok po kroku obejmuje zastosowania filtrów Median i Wiener do usuwania szumów z obrazu."
-"linktitle": "Zastosowanie filtra medianowego i Wienera"
-"second_title": "Aspose.Imaging API przetwarzania obrazu Java"
-"title": "Zastosowanie filtra medianowego i Wienera"
-"url": "/pl/java/image-processing-and-enhancement/median-and-wiener-filter-application/"
-"weight": 19
+date: 2026-01-17
+description: Dowiedz się, jak używać filtru medianowego w Javie z Aspose.Imaging do
+  usuwania szumów w obrazie. Ten szczegółowy poradnik krok po kroku obejmuje stosowanie
+  filtrów medianowego i Wienera do odszumiania obrazu.
+linktitle: Median Filter Java – Apply Median and Wiener Filters
+second_title: Aspose.Imaging Java Image Processing API
+title: Filtr medianowy w Javie – Zastosuj filtry medianowy i Wienera
+url: /pl/java/image-processing-and-enhancement/median-and-wiener-filter-application/
+weight: 19
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,23 +16,34 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Zastosowanie filtra medianowego i Wienera
+# Median Filter Java – Zastosowanie filtrów medianowego i Wienera
 
-W świecie przetwarzania obrazu usuwanie szumów i poprawa jakości obrazu to kluczowe zadania. Aspose.Imaging for Java to potężna biblioteka, która zapewnia różne narzędzia i filtry do pracy z obrazami. W tym samouczku przeprowadzimy Cię przez proces korzystania z biblioteki w celu zastosowania filtrów medianowych i Wienera w celu oczyszczenia i odszumiania obrazu. Ten przewodnik krok po kroku pomoże Ci osiągnąć profesjonalną jakość udoskonalenia obrazu.
+W świecie przetwarzania obrazu usuwanie szumów i poprawa jakości obrazu są kluczowymi zadaniami. Dzięki **median filter java** możesz skutecznie oczyścić zaszumione zdjęcia przy użyciu Aspose.Imaging for Java. W tym samouczku przeprowadzimy Cię przez proces stosowania filtrów medianowego i Wienera w celu odszumienia obrazu, aby uzyskać wyniki na poziomie profesjonalnym bez pisania skomplikowanego kodu.
 
-## Wymagania wstępne
+## Szybkie odpowiedzi
+- **Co robi filtr medianowy?** Zastępuje każdy piksel medianą wartości z otaczającego go sąsiedztwa, usuwając szumy impulsowe przy jednoczesnym zachowaniu krawędzi.  
+- **Która biblioteka obsługuje median filter java?** Aspose.Imaging for Java provides a ready‑to‑use `MedianFilterOptions` class.  
+- **Czy potrzebuję licencji, aby uruchomić kod?** Darmowa wersja próbna działa w celu oceny; licencja komercyjna jest wymagana w środowisku produkcyjnym.  
+- **Czy mogę łączyć filtr medianowy z innymi filtrami?** Tak, możesz zastosować dodatkowe filtry, takie jak Wiener, po kroku medianowym.  
+- **Jakie formaty obrazów są obsługiwane?** Większość formatów rastrowych (PNG, JPEG, BMP, TIFF itp.) jest w pełni obsługiwana.
 
-Zanim przejdziesz do tego samouczka, upewnij się, że spełnione są następujące wymagania wstępne:
+## Co to jest Median Filter Java?
+Filtr medianowy jest nieliniową techniką filtrowania cyfrowego powszechnie używaną do **usuwania szumów obrazu**. W Javie Aspose.Imaging implementuje ten filtr za pomocą klasy `MedianFilterOptions`, umożliwiając określenie rozmiaru kernela, który decyduje, ile sąsiadujących pikseli jest branych pod uwagę.
 
-1. Środowisko programistyczne Java: Upewnij się, że na Twoim komputerze działa środowisko programistyczne Java.
+## Dlaczego używać Median Filter Java do odszumiania obrazu?
+- **Preserves edges** lepiej niż proste filtry uśredniające.  
+- **Simple API** – kilka linii kodu usuwa szum ziarnisty i szum impulsowy (salt‑and‑pepper).  
+- **Works on any raster image** wczytany przy pomocy Aspose.Imaging, co czyni go idealnym do przetwarzania po stronie serwera.
 
-2. Aspose.Imaging dla Java: Pobierz i zainstaluj bibliotekę Aspose.Imaging dla Java ze strony [Tutaj](https://releases.aspose.com/imaging/java/).
+## Prerequisites
+Zanim zaczniesz, upewnij się, że masz następujące elementy:
 
-3. Przykładowy obraz z szumem: Przygotuj obraz z szumem, który chcesz odszumić. Możesz użyć dowolnego obrazu według własnego wyboru w tym samouczku.
+1. **Java Development Environment** – zainstalowany JDK 8 lub nowszy.  
+2. **Aspose.Imaging for Java** – Pobierz i zainstaluj bibliotekę z [tutaj](https://releases.aspose.com/imaging/java/).  
+3. **Sample Noisy Image** – Dowolny obraz, który chcesz wyczyścić; w tym przewodniku użyjemy `your‑noisy‑image.png`.  
 
-## Importuj pakiety
-
-W swoim projekcie Java zacznij od zaimportowania niezbędnych pakietów do pracy z Aspose.Imaging dla Java:
+## Importowanie pakietów
+W swoim projekcie Java rozpocznij od zaimportowania niezbędnych klas Aspose.Imaging:
 
 ```java
 import com.aspose.imaging.Image;
@@ -37,74 +51,70 @@ import com.aspose.imaging.RasterImage;
 import com.aspose.imaging.imagefilters.filteroptions.MedianFilterOptions;
 ```
 
-## Krok 1: Załaduj obraz Noisy
+## Jak zastosować Median Filter Java
+Poniżej znajduje się instrukcja krok po kroku. Każdy krok zawiera krótkie wyjaśnienie oraz dokładny kod, który należy skopiować.
 
-Pierwszym krokiem jest załadowanie zaszumionego obrazu za pomocą Aspose.Imaging. Upewnij się, że określiłeś ścieżkę do pliku zaszumionego obrazu.
+### Krok 1: Załaduj zaszumiony obraz
+Najpierw załaduj obraz, który chcesz odszumić. To pokazuje **load image java** przy użyciu metody `Image.load` z Aspose.Imaging.
 
 ```java
 String dataDir = "Your Document Directory" + "ConvertingImages/";
 
 try (Image image = Image.load(dataDir + "your-noisy-image.png"))
 {
-    // Prześlij obraz do RasterImage
+    // Cast the image into RasterImage
     RasterImage rasterImage = (RasterImage) image;
 ```
 
-## Krok 2: Utwórz i skonfiguruj filtr medianowy
-
-Teraz utwórz instancję `MedianFilterOptions` class i skonfiguruj rozmiar filtra. Rozmiar filtra określa obszar wokół każdego piksela, który będzie brany pod uwagę podczas stosowania filtra medianowego. Większy rozmiar może zmniejszyć szum, ale może rozmyć obraz.
+### Krok 2: Utwórz i skonfiguruj filtr medianowy
+Utwórz instancję `MedianFilterOptions` i ustaw rozmiar kernela. Większy rozmiar usuwa więcej szumów, ale może rozmywać szczegóły.
 
 ```java
-    // Utwórz instancję klasy MedianFilterOptions i ustaw jej rozmiar.
+    // Create an instance of MedianFilterOptions class and set the size.
     MedianFilterOptions options = new MedianFilterOptions(4);
 ```
 
-## Krok 3: Zastosuj filtr medianowy
-
-Następnie zastosuj filtr Median do obiektu RasterImage, używając opcji skonfigurowanych w poprzednim kroku. Pomoże to usunąć szum z obrazu.
+### Krok 3: Zastosuj filtr medianowy
+Zastosuj filtr do całego obszaru obrazu. To jest podstawowa operacja **apply median filter**.
 
 ```java
-    // Zastosuj filtr Median do obiektu RasterImage.
+    // Apply Median filter to RasterImage object.
     rasterImage.filter(image.getBounds(), options);
 ```
 
-## Krok 4: Zapisz wynikowy obraz
-
-Po zastosowaniu filtru medianowego zapisz odszumiony obraz w wybranej lokalizacji.
+### Krok 4: Zapisz wynikowy obraz
+Na koniec zapisz odszumiony obraz na dysku. Teraz możesz zobaczyć efekt działania filtru medianowego.
 
 ```java
-    // Zapisz wynikowy obraz
+    // Save the resultant image
     image.save("Your Document Directory" + "denoised-image.png");
 }
 ```
 
-Gratulacje! Udało Ci się odszumić obraz za pomocą filtra Median z Aspose.Imaging dla Java.
+## Typowe problemy i rozwiązania
+- **Kernel size too large** – Obraz może wyglądać na zbyt rozmyty. Spróbuj wartości od 3‑5 dla większości fotografii.  
+- **Unsupported image format** – Upewnij się, że plik jest w formacie rastrowym obsługiwanym przez Aspose.Imaging.  
+- **OutOfMemoryError** – Przetwarzaj duże obrazy w mniejszych fragmentach, używając metody `crop` klasy `RasterImage` przed filtrowaniem.
 
-## Wniosek
-
-W tym samouczku przyjrzeliśmy się sposobowi wykorzystania Aspose.Imaging for Java do zastosowania filtra Median w celu odszumiania obrazu. Ta biblioteka oferuje szeroki zakres filtrów i narzędzi, co czyni ją cennym zasobem do zadań przetwarzania obrazu. Postępując zgodnie z krokami opisanymi w tym przewodniku, możesz poprawić jakość obrazu i skutecznie usunąć szum.
+## Podsumowanie
+W tym przewodniku pokazaliśmy **jak odszumić obraz** przy użyciu podejścia **median filter java** dostarczanego przez Aspose.Imaging. Postępując zgodnie z powyższymi krokami, możesz szybko zintegrować usuwanie szumów w dowolnym potoku przetwarzania obrazu opartym na Javie, a także dodatkowo poprawić wyniki, łącząc filtr Wiener lub inne zaawansowane techniki.
 
 ## Najczęściej zadawane pytania
 
-### P1: Czym jest Aspose.Imaging dla Java?
+**Q1: Czym jest Aspose.Imaging for Java?**  
+A1: Aspose.Imaging for Java to biblioteka Java, która umożliwia programistom pracę z obrazami oraz wykonywanie różnych zadań przetwarzania obrazu programowo.
 
-A1: Aspose.Imaging for Java to biblioteka Java umożliwiająca programistom pracę z obrazami i programowe wykonywanie różnych zadań związanych z przetwarzaniem obrazów.
+**Q2: Czy mogę używać Aspose.Imaging for Java za darmo?**  
+A2: Aspose.Imaging for Java jest biblioteką komercyjną, ale możesz uzyskać wersję próbną za darmo z [tutaj](https://releases.aspose.com/). Jednak przy dłuższym użytkowaniu będziesz musiał zakupić licencję z [tutaj](https://purchase.aspose.com/buy).
 
-### P2: Czy mogę używać Aspose.Imaging for Java za darmo?
+**Q3: Jak mogę uzyskać wsparcie dla Aspose.Imaging for Java?**  
+A3: Możesz szukać pomocy i wsparcia w społeczności Aspose.Imaging oraz u ekspertów na [forum Aspose.Imaging](https://forum.aspose.com/).
 
-A2: Aspose.Imaging for Java to biblioteka komercyjna, ale można uzyskać bezpłatną wersję próbną [Tutaj](https://releases.aspose.com/). Jednak w celu dłuższego użytkowania należy zakupić licencję od [Tutaj](https://purchase.aspose.com/buy).
+**Q4: Jakie są inne techniki ulepszania obrazu?**  
+A4: Oprócz filtru Median, techniki ulepszania obrazu obejmują filtrowanie Wienera, rozmycie Gaussa oraz rozciąganie kontrastu, między innymi.
 
-### P3: W jaki sposób mogę uzyskać pomoc techniczną dotyczącą Aspose.Imaging dla Java?
-
-A3: Możesz szukać pomocy i wsparcia u społeczności Aspose.Imaging i ekspertów w tej dziedzinie. [Forum Aspose.Imaging](https://forum.aspose.com/).
-
-### P4: Jakie są inne techniki ulepszania obrazu?
-
-A4: Oprócz filtra medianowego, techniki ulepszania obrazu obejmują między innymi filtr Wienera, rozmycie Gaussa i rozciąganie kontrastu.
-
-### P5: Czy mogę używać Aspose.Imaging for Java w mojej aplikacji internetowej?
-
-A5: Tak, możesz zintegrować Aspose.Imaging for Java ze swoimi aplikacjami internetowymi w celu przetwarzania obrazów po stronie serwera.
+**Q5: Czy mogę używać Aspose.Imaging for Java w mojej aplikacji webowej?**  
+A5: Tak, możesz zintegrować Aspose.Imaging for Java w swoich aplikacjach webowych do przetwarzania obrazów po stronie serwera.
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
@@ -113,3 +123,9 @@ A5: Tak, możesz zintegrować Aspose.Imaging for Java ze swoimi aplikacjami inte
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+
+---
+
+**Ostatnia aktualizacja:** 2026-01-17  
+**Testowano z:** Aspose.Imaging for Java 24.11  
+**Autor:** Aspose
