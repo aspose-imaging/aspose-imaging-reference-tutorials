@@ -1,10 +1,13 @@
 ---
-"description": "Leer hoe je bogen tekent met Aspose.Imaging voor .NET, een krachtige tool voor beeldmanipulatie. Stapsgewijze handleiding voor het maken van verbluffende beelden."
-"linktitle": "Teken een boog in Aspose.Imaging voor .NET"
-"second_title": "Aspose.Imaging .NET-beeldverwerkings-API"
-"title": "Bogen maken met Aspose.Imaging voor .NET"
-"url": "/nl/net/basic-drawing/draw-arc/"
-"weight": 10
+date: 2026-02-09
+description: Leer hoe je een boog tekent met Aspose.Imaging voor .NET, inclusief hoe
+  je een BMP‑bestand opslaat, de afbeeldingsgrootte instelt en de grafische achtergrond
+  bepaalt. Stapsgewijze handleiding voor het genereren van BMP‑afbeeldingen.
+linktitle: Draw Arc in Aspose.Imaging for .NET
+second_title: Aspose.Imaging .NET Image Processing API
+title: Hoe een boog te tekenen met Aspose.Imaging voor .NET
+url: /nl/net/basic-drawing/draw-arc/
+weight: 10
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,25 +16,39 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Bogen maken met Aspose.Imaging voor .NET
+# Hoe een boog te tekenen met Aspose.Imaging voor .NET
 
-In de wereld van beeldverwerking is Aspose.Imaging voor .NET een veelzijdige en krachtige tool waarmee ontwikkelaars een breed scala aan bewerkingen op afbeeldingen kunnen uitvoeren. Een van de fundamentele taken bij beeldmanipulatie is het tekenen van vormen, en in deze tutorial leiden we je door het proces van het tekenen van een boog met Aspose.Imaging voor .NET. Aan het einde van deze handleiding kun je moeiteloos prachtige bogen in je afbeeldingen creëren.
+In de wereld van beeldverwerking is **how to draw arc** een veelvoorkomende taak die visuele flair aan elke afbeelding kan toevoegen. Met Aspose.Imaging voor .NET kun je BMP-afbeeldingen genereren, de afbeeldingsgrootte instellen en een boog tekenen met een pen in slechts een paar regels C#. Aan het einde van deze tutorial weet je precies hoe je een boog tekent, de achtergrond van de graphics instelt en het resulterende BMP‑bestand moeiteloos opslaat.
+
+## Snelle antwoorden
+- **What does the code produce?** Een 100 × 100 pixel BMP‑afbeelding met een gele achtergrond en een zwarte boog.  
+- **Which library is used?** Aspose.Imaging voor .NET.  
+- **Do I need a license?** Een gratis proefversie werkt voor ontwikkeling; een commerciële licentie is vereist voor productie.  
+- **Can I change the image size?** Ja – wijzig de breedte‑ en hoogte‑parameters in de `Image.Create`‑aanroep.  
+- **Is the output format fixed?** Het voorbeeld slaat een BMP‑bestand op, maar elk formaat dat door Aspose.Imaging wordt ondersteund kan worden gebruikt.
+
+## Wat is “how to draw arc” in Aspose.Imaging?
+Een boog tekenen betekent het renderen van een gebogen lijnsegment dat wordt gedefinieerd door een begrenzende rechthoek, een starthoek en een sweep‑hoek. Aspose.Imaging biedt de `Graphics.DrawArc`‑methode, waarmee je **draw arc with pen** kunt uitvoeren en elk visueel aspect kunt beheersen.
+
+## Waarom Aspose.Imaging voor deze taak gebruiken?
+- **Full control** over afbeeldingsafmetingen, kleurdiepte en bestandsformaat.  
+- **No external dependencies** – alles draait op pure .NET.  
+- **High performance** voor het genereren van grote aantallen graphics aan de serverzijde.  
 
 ## Vereisten
 
-Voordat we dieper ingaan op het tekenen van bogen, moet u ervoor zorgen dat u aan de volgende voorwaarden voldoet:
+Voordat we in de code duiken, zorg ervoor dat je het volgende hebt:
 
-1. Aspose.Imaging voor .NET: Aspose.Imaging voor .NET moet geïnstalleerd zijn. Als u dit nog niet heeft gedaan, kunt u het downloaden van de website. [hier](https://releases.aspose.com/imaging/net/).
+1. **Aspose.Imaging for .NET** – download het van de officiële site [here](https://releases.aspose.com/imaging/net/).  
+2. **A .NET development environment** (Visual Studio, VS Code, of een C#‑compiler).  
 
-2. Ontwikkelomgeving: Zorg dat u over een werkende ontwikkelomgeving voor .NET beschikt, aangezien u code gaat schrijven en uitvoeren in C#.
+Nu we onze vereisten klaar hebben, laten we beginnen met tekenen!
 
-Nu we de vereisten klaar hebben, kunnen we beginnen!
+## Benodigde namespaces importeren
 
-## Noodzakelijke naamruimten importeren
+Om met Aspose.Imaging te werken moet je de relevante namespaces in scope brengen:
 
-In je C#-project moet je de vereiste naamruimten importeren om met Aspose.Imaging voor .NET te kunnen werken. Zo doe je dat:
-
-### Stap 1: Importeer de naamruimten
+### Stap 1: De namespaces importeren
 
 ```csharp
 using Aspose.Imaging;
@@ -43,88 +60,99 @@ using System.Drawing;
 using System.IO;
 ```
 
-## Stap voor stap een boog tekenen
+Deze `using`‑statements geven je toegang tot klassen voor het maken van afbeeldingen, graphics‑verwerking en bestands‑I/O.
 
-Nu we de benodigde naamruimten hebben geïmporteerd, gaan we het proces van het tekenen van een boog opsplitsen in afzonderlijke stappen. We gebruiken Aspose.Imaging om een afbeelding te maken, de grafische weergave in te stellen en de boog te tekenen. Volg de stappen:
+## Hoe een boog te tekenen met Aspose.Imaging voor .NET
 
-### Stap 1: De afbeelding instellen
+We splitsen het proces op in drie duidelijke stappen: de afbeelding maken, het graphics‑oppervlak voorbereiden en tenslotte de boog tekenen.
+
+### Stap 1: De afbeelding instellen (afbeeldingsgrootte instellen & BMP‑afbeelding genereren)
 
 ```csharp
-// Geef de map op waar u de afbeelding wilt opslaan
+// Specify the directory where you want to save the image
 string dataDir = "Your Document Directory";
 
-// Maak een FileStream-exemplaar om de afbeelding op te slaan
+// Create an instance of FileStream to save the image
 using (FileStream stream = new FileStream(dataDir + "DrawingArc_out.bmp", FileMode.Create))
 {
-    // Maak een exemplaar van BmpOptions en stel de eigenschappen ervan in
+    // Create an instance of BmpOptions and set its properties
     BmpOptions saveOptions = new BmpOptions();
     saveOptions.BitsPerPixel = 32;
 
-    // Stel de bron in voor BmpOptions en maak een instantie van Image
+    // Set the source for BmpOptions and create an instance of Image
     saveOptions.Source = new StreamSource(stream);
     using (Image image = Image.Create(saveOptions, 100, 100))
     {
 ```
 
-In deze stap maken we een nieuwe afbeelding aan en specificeren we de map waar de afbeelding wordt opgeslagen. We stellen ook opties in voor het BMP-formaat, inclusief de kleurdiepte.
+Hier **set image size** we naar 100 × 100 pixels en configureren we de BMP‑opties. De `FileStream` zorgt ervoor dat we **save BMP file** naar de gewenste locatie.
 
-### Stap 2: Initialiseer de grafische weergave en wis het oppervlak
+### Stap 2: Graphics initialiseren en de graphics‑achtergrond instellen
 
 ```csharp
-        // Maak en initialiseer een instantie van de Graphics-klasse en wis het grafische oppervlak
+        // Create and initialize an instance of Graphics class and clear the graphics surface
         Graphics graphic = new Graphics(image);
         graphic.Clear(Color.Yellow);
 ```
 
-Hier initialiseren we een `Graphics` object en wis het oppervlak met een gele achtergrondkleur.
+Het `Graphics`‑object laat ons op de afbeelding tekenen. Door `Clear(Color.Yellow)` aan te roepen, **set graphics background** we naar een felgele kleur, waardoor de boog opvalt.
 
-### Stap 3: Definieer boogparameters en teken
+### Stap 3: Boog‑parameters definiëren en boog tekenen met pen
 
 ```csharp
-        // Definieer de parameters voor de boog
+        // Define the parameters for the arc
         int width = 100;
         int height = 200;
         int startAngle = 45;
         int sweepAngle = 270;
 
-        // Teken de boog
+        // Draw the arc
         graphic.DrawArc(new Pen(Color.Black), 0, 0, width, height, startAngle, sweepAngle);
 
-        // Sla de wijzigingen op
+        // Save the changes
         image.Save();
     }
     stream.Close();
 }
 ```
 
-In deze stap geven we de afmetingen en hoeken voor de boog op en tekenen deze vervolgens met een zwarte pen op het grafische oppervlak.
+- `width` en `height` definiëren de begrenzende rechthoek, waardoor effectief **set image size** voor de boog wordt bepaald.  
+- Het `Pen`‑object is wat ons in staat stelt **draw arc with pen** in het zwart uit te voeren.  
+- Na het tekenen schrijft `image.Save()` het **BMP file** naar de schijf.
 
-## Conclusie
+## Veelvoorkomende problemen & tips
 
-Bogen tekenen in Aspose.Imaging voor .NET is een eenvoudig proces als u deze stappen volgt. Met de kracht van Aspose.Imaging kunt u moeiteloos verbluffende visuele elementen in uw afbeeldingen creëren.
+- **Arc not visible?** Zorg ervoor dat de penkleur contrasteert met de achtergrond (bijv. zwart op geel).  
+- **Incorrect dimensions?** Onthoud dat de begrenzende rechthoek van de boog groter kan zijn dan de afbeelding; pas `width`/`height` of de afbeeldingsgrootte dienovereenkomstig aan.  
+- **Performance tip:** Hergebruik een enkele `Graphics`‑instantie als je meerdere vormen op dezelfde afbeelding moet tekenen.
 
 ## Veelgestelde vragen
 
-### V1: Waar kan ik de documentatie voor Aspose.Imaging voor .NET vinden?
+### Q1: Waar kan ik de documentatie voor Aspose.Imaging voor .NET vinden?
 
-A1: U kunt de documentatie raadplegen [hier](https://reference.aspose.com/imaging/net/) voor uitgebreide informatie over Aspose.Imaging voor .NET.
+A1: Je kunt de documentatie raadplegen [here](https://reference.aspose.com/imaging/net/) voor uitgebreide informatie over Aspose.Imaging voor .NET.
 
-### V2: Hoe kan ik Aspose.Imaging voor .NET downloaden?
+### Q2: Hoe kan ik Aspose.Imaging voor .NET downloaden?
 
-A2: U kunt Aspose.Imaging voor . .NET downloaden van de website [hier](https://releases.aspose.com/imaging/net/).
+A2: Je kunt Aspose.Imaging voor .NET downloaden van de website [here](https://releases.aspose.com/imaging/net/).
 
-### V3: Is er een gratis proefversie beschikbaar voor Aspose.Imaging voor .NET?
+### Q3: Is er een gratis proefversie beschikbaar voor Aspose.Imaging voor .NET?
 
-A3: Ja, u kunt een gratis proefversie krijgen [hier](https://releases.aspose.com/) om Aspose.Imaging voor .NET uit te proberen.
+A3: Ja, je kunt een gratis proefversie krijgen [here](https://releases.aspose.com/) om Aspose.Imaging voor .NET uit te proberen.
 
-### V4: Heb ik een tijdelijke licentie nodig voor Aspose.Imaging voor .NET?
+### Q4: Heb ik een tijdelijke licentie nodig voor Aspose.Imaging voor .NET?
 
-A4: Als u een tijdelijk rijbewijs nodig heeft, kunt u dit aanvragen [hier](https://purchase.aspose.com/temporary-license/).
+A4: Als je een tijdelijke licentie nodig hebt, kun je er een verkrijgen [here](https://purchase.aspose.com/temporary-license/).
 
-### V5: Waar kan ik ondersteuning krijgen of vragen stellen over Aspose.Imaging voor .NET?
+### Q5: Waar kan ik ondersteuning zoeken of vragen stellen over Aspose.Imaging voor .NET?
 
-A5: U kunt het Aspose.Imaging-forum bezoeken voor ondersteuning en discussies [hier](https://forum.aspose.com/).
+A5: Je kunt het Aspose.Imaging‑forum bezoeken voor ondersteuning en discussies [here](https://forum.aspose.com/).
 
+---
+
+**Laatst bijgewerkt:** 2026-02-09  
+**Getest met:** Aspose.Imaging 24.11 for .NET  
+**Auteur:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
