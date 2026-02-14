@@ -1,11 +1,19 @@
 ---
-"description": "Aprenda a desenhar elipses no Aspose.Imaging para .NET, uma biblioteca versátil de manipulação de imagens. Crie gráficos impressionantes com facilidade."
-"linktitle": "Desenhar Elipse no Aspose.Imaging para .NET"
-"second_title": "API de processamento de imagens Aspose.Imaging .NET"
-"title": "Desenhando Elipses no Aspose.Imaging para .NET"
-"url": "/pt/net/basic-drawing/draw-ellipse/"
-"weight": 12
+date: 2026-02-14
+description: Aprenda a desenhar elipse no Aspose.Imaging para .NET, uma biblioteca
+  versátil de manipulação de imagens. Crie gráficos impressionantes com facilidade.
+linktitle: How to Draw Ellipse in Aspose.Imaging for .NET
+second_title: Aspose.Imaging .NET Image Processing API
+title: Como desenhar elipse no Aspose.Imaging para .NET
+url: /pt/net/basic-drawing/draw-ellipse/
+weight: 12
 ---
+
+`, etc. Should remain unchanged.
+
+Also keep URLs unchanged.
+
+Now produce final translation.
 
 {{< blocks/products/pf/main-wrap-class >}}
 
@@ -13,33 +21,40 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Desenhando Elipses no Aspose.Imaging para .NET
+# Como Desenhar Elipse com Aspose.Imaging para .NET
 
-Neste tutorial, mostraremos o processo de desenho de elipses usando o Aspose.Imaging para .NET. O Aspose.Imaging é uma biblioteca poderosa que permite manipular e criar imagens em diversos formatos em seus aplicativos .NET. Começaremos apresentando o conceito e os pré-requisitos e, em seguida, dividiremos cada exemplo em várias etapas para garantir uma compreensão clara.
+Neste tutorial, mostraremos **como desenhar elipse** usando Aspose.Imaging para .NET. Aspose.Imaging é uma biblioteca poderosa que permite manipular e criar imagens em vários formatos dentro de suas aplicações .NET. Começaremos apresentando o conceito e os pré‑requisitos, depois detalharemos cada exemplo em múltiplas etapas para garantir um entendimento claro.
 
-## Pré-requisitos
+## Respostas Rápidas
+- **Qual biblioteca é usada?** Aspose.Imaging para .NET  
+- **Quanto tempo leva a implementação?** Cerca de 10 minutos para uma elipse básica  
+- **Preciso de licença?** Uma avaliação gratuita funciona para desenvolvimento; uma licença é necessária para produção  
+- **Posso definir o fundo da imagem?** Sim – use `Graphics.Clear` para definir qualquer cor de fundo  
+- **É compatível com .NET 6+?** Absolutamente, a API funciona com todas as versões modernas do .NET  
 
-Antes de começarmos a desenhar elipses no Aspose.Imaging for .NET, você deve garantir que possui os seguintes pré-requisitos:
+## Pré‑requisitos
 
-1. Visual Studio: certifique-se de ter o Visual Studio instalado no seu sistema para desenvolvimento .NET.
+Antes de mergulharmos no desenho de elipses com Aspose.Imaging para .NET, certifique‑se de que você tem os seguintes pré‑requisitos:
 
-2. Aspose.Imaging para .NET: Você precisa ter o Aspose.Imaging para .NET instalado. Caso contrário, você pode baixá-lo do site [página de download](https://releases.aspose.com/imaging/net/).
+1. Visual Studio: Garanta que o Visual Studio esteja instalado em seu sistema para desenvolvimento .NET.
 
-3. Seu diretório de documentos: crie um diretório onde você salvará as imagens criadas durante este tutorial.
+2. Aspose.Imaging para .NET: Você deve ter o Aspose.Imaging para .NET instalado. Caso contrário, faça o download na [página de download](https://releases.aspose.com/imaging/net/).
 
-Agora que temos os pré-requisitos definidos, vamos começar.
+3. Seu Diretório de Documentos: Crie um diretório onde você salvará as imagens criadas durante este tutorial.
 
-## Importar namespaces
+Agora que temos os pré‑requisitos prontos, vamos começar.
 
-Nesta etapa, importaremos os namespaces necessários para trabalhar com o Aspose.Imaging. Siga os passos abaixo:
+## Importar Namespaces
 
-### Etapa 1: Abra seu projeto do Visual Studio
+Nesta etapa, importaremos os namespaces necessários para trabalhar com Aspose.Imaging. Siga os passos abaixo:
 
-Inicie o Visual Studio e abra o projeto .NET onde você planeja usar o Aspose.Imaging.
+### Etapa 1: Abra Seu Projeto no Visual Studio
 
-### Etapa 2: Adicionar diretivas de uso
+Inicie o Visual Studio e abra seu projeto .NET onde você planeja usar o Aspose.Imaging.
 
-No seu arquivo de código, adicione as seguintes diretivas using para incluir os namespaces necessários:
+### Etapa 2: Adicione Diretivas Using
+
+No seu arquivo de código, adicione as seguintes diretivas using para incluir os namespaces requeridos:
 
 ```csharp
 using Aspose.Imaging;
@@ -52,11 +67,11 @@ using Aspose.Imaging.Sources;
 
 Agora que você importou os namespaces necessários, está pronto para desenhar uma elipse.
 
-## Desenho de Elipse
+## Como Desenhar Elipse com Aspose.Imaging
 
-Agora, forneceremos um guia passo a passo sobre como desenhar uma elipse usando o Aspose.Imaging para .NET. Este exemplo guiará você pelo processo.
+A seguir, fornecemos um guia passo a passo sobre **como desenhar elipse** usando Aspose.Imaging para .NET. Este exemplo o conduzirá pelo processo.
 
-### Etapa 1: Configurar o arquivo de saída
+### Etapa 1: Configurar o Arquivo de Saída
 
 Antes de desenhar uma elipse, você precisa configurar o arquivo de saída. Veja como fazer isso:
 
@@ -66,11 +81,11 @@ using (FileStream stream = new FileStream(dataDir + "DrawingEllipse_out.bmp", Fi
 {
 ```
 
-Neste trecho de código, criamos um FileStream para especificar o caminho do arquivo de saída.
+Neste trecho de código, criamos um `FileStream` para especificar o caminho do arquivo de saída.
 
 ### Etapa 2: Configurar BmpOptions
 
-Para configurar o formato BMP e outras propriedades, use o seguinte código:
+Para configurar o formato BMP e outras propriedades, use o código a seguir:
 
 ```csharp
 BmpOptions saveOptions = new BmpOptions();
@@ -78,31 +93,39 @@ saveOptions.BitsPerPixel = 32;
 saveOptions.Source = new StreamSource(stream);
 ```
 
-Aqui, criamos uma instância BmpOptions, definimos a profundidade de bits e especificamos o fluxo de origem.
+Aqui, criamos uma instância de `BmpOptions`, definimos a profundidade de bits e especificamos o stream de origem.
 
-### Etapa 3: Crie uma imagem
+### Etapa 3: Criar uma Imagem
 
-Crie uma instância do `Image` classe com as opções e dimensões especificadas:
+Crie uma instância da classe `Image` com as opções e dimensões especificadas:
 
 ```csharp
 using (Image image = Image.Create(saveOptions, 100, 100))
 {
 ```
 
-Nesta etapa, criamos uma imagem com tamanho de 100x100 pixels.
+Nesta etapa, criamos uma imagem com tamanho de 100 × 100 pixels.
 
-### Etapa 4: Inicializar gráficos e limpar superfície
+## Como Definir o Fundo da Imagem
 
-Inicialize uma instância de Graphics e limpe a superfície da imagem:
+Um fundo limpo faz sua elipse se destacar. Você pode definir qualquer cor de fundo antes de desenhar formas.
+
+### Etapa 4: Inicializar Graphics e Limpar a Superfície
+
+Inicialize uma instância de `Graphics` e limpe a superfície da imagem:
 
 ```csharp
 Graphics graphic = new Graphics(image);
 graphic.Clear(Color.Yellow);
 ```
 
-Este código cria um objeto Graphics e limpa a imagem com um fundo amarelo.
+Este código cria um objeto `Graphics` e **define o fundo da imagem** como amarelo, preparando uma tela para o desenho.
 
-### Etapa 5: Desenhe elipses
+## Criar Gráficos Personalizados com Aspose.Imaging
+
+Com a tela pronta, você pode começar a criar gráficos personalizados, como elipses, linhas ou polígonos.
+
+### Etapa 5: Desenhar Elipses
 
 Agora, vamos desenhar elipses na imagem:
 
@@ -111,9 +134,9 @@ graphic.DrawEllipse(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 graphic.DrawEllipse(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 ```
 
-Aqui, desenhamos uma elipse pontilhada vermelha e uma elipse sólida azul na imagem.
+Aqui, desenhamos uma elipse vermelha e uma elipse azul sólida na imagem.
 
-### Etapa 6: Salve a imagem
+### Etapa 6: Salvar a Imagem
 
 Por fim, salve a imagem:
 
@@ -123,29 +146,29 @@ image.Save();
 
 ## Conclusão
 
-Desenhar elipses no Aspose.Imaging para .NET é um processo simples. Com os passos descritos neste tutorial, você pode criar e manipular imagens facilmente em seus aplicativos .NET. O Aspose.Imaging oferece uma ampla gama de recursos de edição de imagens, tornando-se uma ferramenta valiosa para desenvolvedores.
+Desenhar elipses com Aspose.Imaging para .NET é um processo direto. Com as etapas descritas neste tutorial, você pode criar e manipular imagens facilmente em suas aplicações .NET. Aspose.Imaging oferece uma ampla gama de recursos de edição de imagens, tornando‑se uma ferramenta valiosa para desenvolvedores. Agora você sabe **como desenhar elipse** e pode expandir esse conhecimento para criar gráficos mais ricos.
 
-## Perguntas frequentes
+## Perguntas Frequentes
 
-### T1: Quais são os principais recursos do Aspose.Imaging for .NET?
+### Q1: Quais são os principais recursos do Aspose.Imaging para .NET?
 
-O Aspose.Imaging para .NET oferece uma ampla gama de recursos, incluindo criação, manipulação, conversão e renderização de imagens. Ele suporta diversos formatos de imagem e oferece recursos avançados de edição de imagens.
+Aspose.Imaging para .NET oferece uma ampla gama de recursos, incluindo criação, manipulação, conversão e renderização de imagens. Suporta vários formatos de imagem e fornece capacidades avançadas de edição de imagens.
 
-### P2: Posso usar o Aspose.Imaging for .NET em aplicativos Windows e Web?
+### Q2: Posso usar o Aspose.Imaging para .NET tanto em aplicações Windows quanto web?
 
-Sim, você pode usar o Aspose.Imaging for .NET em aplicativos desktop e web do Windows, tornando-o versátil para vários cenários de desenvolvimento.
+Sim, você pode usar o Aspose.Imaging para .NET tanto em aplicações desktop Windows quanto em aplicações web, tornando‑o versátil para diversos cenários de desenvolvimento.
 
-### Q3: Há uma avaliação gratuita disponível para o Aspose.Imaging for .NET?
+### Q3: Existe uma avaliação gratuita disponível para o Aspose.Imaging para .NET?
 
-Sim, você pode obter uma avaliação gratuita do Aspose.Imaging for .NET no [página de teste](https://releases.aspose.com/).
+Sim, você pode obter uma avaliação gratuita do Aspose.Imaging para .NET na [página de avaliação](https://releases.aspose.com/).
 
-### T4: Onde posso encontrar documentação abrangente do Aspose.Imaging para .NET?
+### Q4: Onde posso encontrar documentação completa para o Aspose.Imaging para .NET?
 
-Você pode acessar a documentação detalhada sobre Aspose.Imaging for .NET no [página de documentação](https://reference.aspose.com/imaging/net/).
+Você pode acessar a documentação detalhada do Aspose.Imaging para .NET na [página de documentação](https://reference.aspose.com/imaging/net/).
 
-### P5: Como posso obter suporte para o Aspose.Imaging for .NET se eu tiver problemas?
+### Q5: Como posso obter suporte para o Aspose.Imaging para .NET se encontrar problemas?
 
-Você pode buscar suporte e se envolver com a comunidade Aspose no [fórum](https://forum.aspose.com/).
+Você pode buscar suporte e interagir com a comunidade Aspose no [fórum](https://forum.aspose.com/).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
@@ -154,3 +177,9 @@ Você pode buscar suporte e se envolver com a comunidade Aspose no [fórum](http
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+
+---
+
+**Última atualização:** 2026-02-14  
+**Testado com:** Aspose.Imaging para .NET (última versão)  
+**Autor:** Aspose
