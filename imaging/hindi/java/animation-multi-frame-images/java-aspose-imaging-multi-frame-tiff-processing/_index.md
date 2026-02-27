@@ -1,9 +1,17 @@
 ---
-"date": "2025-06-04"
-"description": "Aspose.Imaging for Java का उपयोग करके मल्टी-फ़्रेम TIFF छवियों को JPEG में प्रोसेस और कन्वर्ट करना सीखें। कुशल इमेज हैंडलिंग तकनीकों के साथ अपने Java अनुप्रयोगों को बेहतर बनाएँ।"
-"title": "Aspose.Imaging के साथ जावा में कुशल मल्टी-फ्रेम TIFF प्रसंस्करण"
-"url": "/hi/java/animation-multi-frame-images/java-aspose-imaging-multi-frame-tiff-processing/"
-"weight": 1
+date: '2026-02-27'
+description: जाने कैसे मल्टी‑फ़्रेम TIFF को प्रोसेस करें और Aspose.Imaging के लिए
+  Maven निर्भरता जोड़ें। यह ट्यूटोरियल स्पष्ट चरणों और सर्वोत्तम प्रैक्टिस टिप्स के
+  साथ Java में TIFF को JPEG में बदलने को दर्शाता है।
+keywords:
+- Multi-frame TIFF processing
+- Aspose.Imaging for Java
+- Java TIFF image conversion
+- Convert TIFF to JPEG in Java
+- Animation & Multi-frame Images
+title: जावा में Aspose.Imaging का उपयोग करके मल्टी‑फ़्रेम TIFF प्रोसेस करें
+url: /hi/java/animation-multi-frame-images/java-aspose-imaging-multi-frame-tiff-processing/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,38 +19,33 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Aspose.Imaging के साथ जावा में मल्टी-फ्रेम TIFF प्रोसेसिंग में महारत हासिल करना
+# जावा में Aspose.Imaging के साथ मल्टी‑फ़्रेम TIFF प्रोसेसिंग में महारत हासिल करना
 
-क्या आप अपने जावा एप्लीकेशन में मल्टी-फ्रेम TIFF इमेज को कुशलतापूर्वक प्रोसेस करना चाहते हैं? Aspose.Imaging for Java का उपयोग करके TIFF फ़्रेम को व्यापक रूप से उपयोग किए जाने वाले JPEG फ़ॉर्मेट में लोड, एक्सेस और कन्वर्ट करना सीखें। यह व्यापक गाइड आपको TIFF फ़ाइलों को आसानी से हैंडल करने के बारे में जानने के लिए आवश्यक सभी जानकारी प्रदान करेगी।
+क्या आप अपने जावा एप्लिकेशन में **process multi frame tiff** इमेजेज को प्रभावी ढंग से प्रोसेस करना चाहते हैं? इस गाइड में आप सीखेंगे कि मल्टी‑फ़्रेम TIFF को कैसे लोड करें, प्रत्येक फ्रेम तक कैसे पहुँचें, और उन फ्रेम्स को व्यापक रूप से समर्थित JPEG फ़ॉर्मेट में Aspose.Imaging for Java का उपयोग करके कैसे कनवर्ट करें। हम सेटअप, कोड, और वास्तविक‑दुनिया के टिप्स के माध्यम से चलेंगे ताकि आप इस क्षमता को किसी भी प्रोजेक्ट में आत्मविश्वास के साथ जोड़ सकें।
 
-## आप क्या सीखेंगे
-- बहु-फ़्रेम TIFF छवि से अलग-अलग फ़्रेम को कैसे लोड और एक्सेस करें।
-- TIFF फ़्रेम को JPEG छवियों के रूप में सहेजने की तकनीकें।
-- Java के लिए Aspose.Imaging का आवश्यक सेटअप और कॉन्फ़िगरेशन।
-- आपकी परियोजनाओं के लिए व्यावहारिक अनुप्रयोग और प्रदर्शन संबंधी विचार।
+## Quick Answers
+- **What library handles TIFF frames?** Aspose.Imaging for Java  
+- **Which dependency adds Aspose.Imaging?** The Maven dependency for Aspose.Imaging (or Gradle equivalent)  
+- **Can I convert each frame to JPEG?** Yes – iterate `TiffFrame` objects and save with `JpegOptions`  
+- **Do I need a license for production?** A valid Aspose.Imaging license is required for commercial use  
+- **Is memory a concern?** Use try‑with‑resources to release image objects promptly  
 
-आइये शुरू करने से पहले उन पूर्वापेक्षाओं पर नजर डालें जिनकी आपको आवश्यकता है।
+## “process multi frame tiff” क्या है?
+मल्टी‑फ़्रेम TIFF प्रोसेसिंग का अर्थ है ऐसे TIFF फ़ाइल को खोलना जिसमें कई इमेजेज (पेज या एनीमेशन फ्रेम) होते हैं, प्रत्येक व्यक्तिगत फ्रेम को निकालना, और वैकल्पिक रूप से उन फ्रेम्स को कनवर्ट या मैनीपुलेट करना। यह मेडिकल इमेजिंग, डॉक्यूमेंट आर्काइविंग, और स्कैनिंग वर्कफ़्लो में आम है।
 
-## आवश्यक शर्तें
+## क्यों चुनें Aspose.Imaging for Java?
+Aspose.Imaging एक हाई‑लेवल API प्रदान करता है जो TIFF हैंडलिंग के लो‑लेवल विवरणों को एब्स्ट्रैक्ट करता है। यह सभी प्रमुख इमेज फ़ॉर्मेट्स को सपोर्ट करता है, `JpegOptions` जैसी शक्तिशाली विकल्प देता है, और नेटिव डिपेंडेंसीज़ के बिना विभिन्न प्लेटफ़ॉर्म पर लगातार काम करता है।
 
-आरंभ करने से पहले, सुनिश्चित करें कि आपके पास निम्नलिखित चीज़ें मौजूद हैं:
+## Prerequisites
 
-### आवश्यक पुस्तकालय
-- **जावा के लिए Aspose.Imaging**: यह लाइब्रेरी इमेज प्रोसेसिंग कार्यों को सरल बनाती है। आप इसे नीचे दिखाए अनुसार Maven या Gradle के माध्यम से एकीकृत कर सकते हैं।
-  
-### पर्यावरण सेटअप आवश्यकताएँ
-- JDK (जावा डेवलपमेंट किट) स्थापित एक कार्यशील विकास वातावरण।
+- **Java Development Kit (JDK)** – कोई भी हालिया संस्करण (8+ अनुशंसित)  
+- **Aspose.Imaging for Java** – Maven या Gradle के माध्यम से जोड़ा गया (अगले सेक्शन देखें)  
+- बेसिक जावा फ़ाइल‑IO ज्ञान  
 
-### ज्ञान पूर्वापेक्षाएँ
-- जावा प्रोग्रामिंग और जावा में फ़ाइल हैंडलिंग की बुनियादी समझ।
-- मावेन कॉन्फ़िगरेशन के लिए XML से परिचित होना उपयोगी है लेकिन अनिवार्य नहीं है।
+## Maven Dependency for Aspose.Imaging
 
-## Java के लिए Aspose.Imaging सेट अप करना
+शुरू करने के लिए, अपने प्रोजेक्ट में **maven dependency aspose imaging** जोड़ें। यह एक ही लाइन सभी आवश्यक चीज़ें लाता है।
 
-Aspose.Imaging का उपयोग शुरू करने के लिए, आपको इसे अपने प्रोजेक्ट में निर्भरता के रूप में जोड़ना होगा। यहाँ बताया गया है कि कैसे:
-
-**मावेन सेटअप**
-अपने में निम्नलिखित निर्भरता जोड़ें `pom.xml` फ़ाइल:
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -51,139 +54,132 @@ Aspose.Imaging का उपयोग शुरू करने के लिए
 </dependency>
 ```
 
-**ग्रेडेल सेटअप**
-इसे अपने में शामिल करें `build.gradle` फ़ाइल:
+यदि आप Gradle पसंद करते हैं, तो समकक्ष स्निपेट है:
+
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-**प्रत्यक्षत: डाउनलोड**
-वैकल्पिक रूप से, आप नवीनतम JAR को यहां से डाउनलोड कर सकते हैं [Aspose.Imaging for Java रिलीज़](https://releases.aspose.com/imaging/java/).
+आप आधिकारिक रिलीज़ पेज से नवीनतम JAR भी सीधे डाउनलोड कर सकते हैं: [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/)।
 
-### लाइसेंस प्राप्ति चरण
+### License Acquisition Steps
 
-1. **मुफ्त परीक्षण**Aspose.Imaging का मूल्यांकन करने के लिए एक निःशुल्क परीक्षण डाउनलोड करके प्रारंभ करें।
-2. **अस्थायी लाइसेंस**: मूल्यांकन सीमाओं के बिना विस्तारित परीक्षण के लिए, एक अस्थायी लाइसेंस का अनुरोध करें [अस्थायी लाइसेंस पृष्ठ](https://purchase.aspose.com/temporary-license/).
-3. **खरीदना**उत्पादन में Aspose.Imaging का उपयोग करने के लिए, से लाइसेंस खरीदें [Aspose वेबसाइट](https://purchase.aspose.com/buy).
+1. **Free Trial** – API का मूल्यांकन करने के लिए एक ट्रायल डाउनलोड करें।  
+2. **Temporary License** – [temporary license page](https://purchase.aspose.com/temporary-license/) से एक टेम्पररी की अनुरोध करें।  
+3. **Purchase** – [Aspose वेबसाइट](https://purchase.aspose.com/buy) पर पूर्ण लाइसेंस प्राप्त करें।
 
-### बुनियादी आरंभीकरण और सेटअप
-एक बार जब आप Aspose.Imaging को निर्भरता के रूप में शामिल कर लेते हैं, तो इसे अपने अनुप्रयोग में आरंभ करें:
+## Basic Initialization
+
+डिपेंडेंसी स्थापित होने के बाद, कोर क्लास इम्पोर्ट करें और API का उपयोग शुरू करें:
 
 ```java
 import com.aspose.imaging.Image;
-// Aspose.Imaging का उपयोग करने के लिए आपका कोड यहाँ है।
+// Your code for using Aspose.Imaging here.
 ```
 
-अब जबकि हमने परिवेश स्थापित कर लिया है, तो चलिए सुविधाओं के क्रियान्वयन की ओर बढ़ते हैं।
+## Implementation Guide
 
-## कार्यान्वयन मार्गदर्शिका
+### Load and Access TIFF Frames
 
-### TIFF फ़्रेम लोड और एक्सेस करें
+नीचे वह कोड है जो मल्टी‑फ़्रेम TIFF को खोलता है और उसके फ्रेम्स को प्राप्त करता है।
 
-यह सुविधा दर्शाती है कि आप मल्टी-फ़्रेम TIFF इमेज को कैसे लोड कर सकते हैं और इसके अलग-अलग फ़्रेम तक कैसे पहुँच सकते हैं। यह इस प्रकार काम करता है:
+```java
+import com.aspose.imaging.Image;
+import com.aspose.imaging.fileformats.tiff.TiffImage;
 
-**अवलोकन**
-आप TIFF फ़ाइल खोलने और दस्तावेज़ के भीतर प्रत्येक फ़्रेम के माध्यम से पुनरावृति करने के लिए Aspose.Imaging का उपयोग करेंगे।
+try (TiffImage multiImage = (TiffImage) Image.load("YOUR_DOCUMENT_DIRECTORY/sample.tif")) {
+    // Access all frames in the TIFF image
+    TiffFrame[] frames = multiImage.getFrames();
+}
+```
 
-#### चरण-दर-चरण कार्यान्वयन
+`Image.load` मेथड एक `TiffImage` ऑब्जेक्ट रिटर्न करता है, और `getFrames()` आपको `TiffFrame` ऑब्जेक्ट्स की एरे देता है—प्रत्येक एकल पेज या एनीमेशन फ्रेम का प्रतिनिधित्व करता है।
 
-1. **मल्टी-फ़्रेम TIFF छवि लोड करें**
+### Save TIFF Frame to JPEG Format
 
-   का उपयोग करके अपनी TIFF छवि लोड करके प्रारंभ करें `Image.load` विधि. यह एक उदाहरण लौटाता है `TiffImage`, जो व्यक्तिगत फ़्रेम तक पहुंच प्रदान करता है।
+अब फ्रेम्स पर इटररेट करें और प्रत्येक को JPEG के रूप में सेव करें। `JpegOptions` क्लास आपको क्वालिटी और अन्य सेटिंग्स को नियंत्रित करने की सुविधा देता है।
 
-   ```java
-   import com.aspose.imaging.Image;
-   import com.aspose.imaging.fileformats.tiff.TiffImage;
+```java
+import com.aspose.imaging.fileformats.tiff.TiffFrame;
+import com.aspose.imaging.imageoptions.JpegOptions;
 
-   try (TiffImage multiImage = (TiffImage) Image.load("YOUR_DOCUMENT_DIRECTORY/sample.tif")) {
-       // TIFF छवि में सभी फ़्रेम तक पहुँचें
-       TiffFrame[] frames = multiImage.getFrames();
-   }
-   ```
+int i = 0;
+for (TiffFrame frame : frames) {
+    // Save each TIFF frame as a JPEG image
+    frame.save("YOUR_OUTPUT_DIRECTORY/ExtractTIFFFramestoOtherImageFormat_out" + i + ".jpg", new JpegOptions());
+    i++;
+}
+```
 
-2. **फ़्रेम तक पहुँचना**
+अपनी विज़ुअल आवश्यकताओं को पूरा करने के लिए `JpegOptions` (जैसे `setQuality(90)`) को समायोजित करने में संकोच न करें।
 
-   The `getFrames()` विधि एक सरणी पुनर्प्राप्त करती है `TiffFrame` ऑब्जेक्ट, जिनमें से प्रत्येक आपकी TIFF फ़ाइल के भीतर एक फ्रेम का प्रतिनिधित्व करता है।
+## Practical Applications
 
-### TIFF फ़्रेम को JPEG प्रारूप में सहेजें
+- **Medical Imaging** – DICOM‑डेरिव्ड TIFF स्टैक्स को तेज़ वेब प्रीव्यू के लिए JPEG में कनवर्ट करें।  
+- **Document Archiving** – स्कैन किए गए मल्टी‑पेज TIFFs से व्यक्तिगत पेज निकालें।  
+- **Digital Asset Management** – हाई‑रेज़ोल्यूशन TIFF एसेट्स से थंबनेल JPEG बनाएं।
 
-आगे, हम दिखाएंगे कि व्यापक अनुकूलता और उपयोग के लिए TIFF छवि से अलग-अलग फ़्रेमों को JPEG प्रारूप में कैसे सहेजा जाए।
+## Performance Considerations
 
-**अवलोकन**
-फ़्रेम को JPEG में परिवर्तित करने से आप मानक इमेज व्यूअर्स और एडिटर्स का आसानी से लाभ उठा सकते हैं। 
+- **Dispose Early** – try‑with‑resources ब्लॉक स्वचालित रूप से नेटिव रिसोर्सेज़ को फ्री करता है।  
+- **Batch Processing** – मेमोरी उपयोग को नियंत्रित रखने के लिए फ़ाइलों को छोटे बैच में प्रोसेस करें।  
+- **Parallelism** – बड़े कलेक्शन के लिए थ्रेड पूल पर विचार करें, लेकिन प्रत्येक इमेज की लाइफ़साइकल को अलग रखें।
 
-#### चरण-दर-चरण कार्यान्वयन
+## Conclusion
 
-1. **फ़्रेम पर पुनरावृति करें**
+आपने अब **process multi frame tiff** फ़ाइलों को कैसे प्रोसेस करें, प्रत्येक फ्रेम को निकालें, और Aspose.Imaging for Java का उपयोग करके उन्हें JPEG में कनवर्ट करें, यह सीख लिया है। इन स्निपेट्स को अपने सर्विस लेयर, बैच जॉब्स, या डेस्कटॉप टूल्स में इंटीग्रेट करें ताकि न्यूनतम प्रयास से मजबूत इमेज हैंडलिंग जोड़ सकें।
 
-   प्रत्येक फ्रेम को अलग-अलग प्रोसेस करने के लिए लूप का उपयोग करें, इसे JPEG में परिवर्तित करें `JpegOptions`.
+### Next Steps
+अधिक क्षमताओं—जैसे रिसाइज़िंग, क्रॉपिंग, या फ़िल्टर लागू करना—की खोज करने के लिए [official documentation](https://reference.aspose.com/imaging/java/) देखें। अपने टूलकिट को विस्तृत करने के लिए अन्य आउटपुट फ़ॉर्मेट्स (PNG, BMP) के साथ प्रयोग करें।
 
-   ```java
-   import com.aspose.imaging.fileformats.tiff.TiffFrame;
-   import com.aspose.imaging.imageoptions.JpegOptions;
+## FAQ Section
 
-   int i = 0;
-   for (TiffFrame frame : frames) {
-       // प्रत्येक TIFF फ्रेम को JPEG छवि के रूप में सहेजें
-       frame.save("YOUR_OUTPUT_DIRECTORY/ExtractTIFFFramestoOtherImageFormat_out" + i + ".jpg", new JpegOptions());
-       i++;
-   }
-   ```
+1. **What is a multi-frame TIFF?**  
+   - A multi-frame TIFF contains multiple images within a single file, often used for storing sequences like scans or animations.  
 
-2. **कॉन्फ़िगरेशन और विकल्प**
+2. **Can I convert other image formats using Aspose.Imaging?**  
+   - Yes, Aspose.Imaging supports various formats including PNG, BMP, GIF, and more.  
 
-   `JpegOptions` विभिन्न कॉन्फ़िगरेशन विकल्प प्रदान करता है, जैसे आउटपुट JPEG छवि की गुणवत्ता सेट करना।
+3. **What are the system requirements for running Aspose.Imaging?**  
+   - Ensure you have Java installed and your IDE is configured to use Maven or Gradle as needed.  
 
-### व्यावहारिक अनुप्रयोगों
+4. **How do I handle large TIFF files?**  
+   - Utilize try‑with‑resources for memory management and process images in chunks if necessary.  
 
-यहां कुछ वास्तविक परिदृश्य दिए गए हैं जहां इस कार्यक्षमता को लागू किया जा सकता है:
+5. **Is there support for additional image manipulations with Aspose.Imaging?**  
+   - Absolutely, you can perform operations like resizing, cropping, filtering, and more.  
 
-1. **मेडिकल इमेजिंग**: मेडिकल स्कैन से बहु-फ्रेम TIFF को आसानी से देखने के लिए JPEG में परिवर्तित करना।
-2. **दस्तावेज़ संग्रहण**अभिलेखीय छवियों को अधिक सार्वभौमिक रूप से सुलभ प्रारूप में परिवर्तित करना।
-3. **स्कैन किए गए दस्तावेज़ प्रसंस्करण**स्कैन किए गए दस्तावेज़ों से अलग-अलग पृष्ठ या फ़्रेम निकालना।
+## Frequently Asked Questions
 
-### प्रदर्शन संबंधी विचार
+**Q: Does the Maven dependency include native libraries?**  
+A: Yes, the Aspose.Imaging Maven package bundles all required native binaries for supported platforms.
 
-छवि प्रसंस्करण के साथ काम करते समय, प्रदर्शन महत्वपूर्ण हो सकता है:
+**Q: Can I run this code on Android?**  
+A: Aspose.Imaging for Java is not officially supported on Android; use the .NET version for mobile scenarios.
 
-- **संसाधन उपयोग को अनुकूलित करें**: try-with-resources का उपयोग करके छवि ऑब्जेक्ट्स को उचित तरीके से निपटाने के द्वारा मेमोरी उपयोग के प्रति सचेत रहें।
-- **जावा मेमोरी प्रबंधन**: यह सुनिश्चित करके जावा के कचरा संग्रहण का लाभ उठाएं कि बड़ी छवियों को आवश्यकता से अधिक समय तक मेमोरी में न रखा जाए।
-- **प्रचय संसाधन**यदि आप एकाधिक TIFF को संभाल रहे हैं, तो सिस्टम लोड को प्रबंधित करने के लिए उन्हें बैचों में संसाधित करने पर विचार करें।
+**Q: How do I set JPEG compression quality?**  
+A: Create a `JpegOptions` instance and call `setQuality(int)` before passing it to `frame.save()`.
 
-## निष्कर्ष
+**Q: Is there a way to extract metadata from each frame?**  
+A: Each `TiffFrame` exposes a `getMetadata()` method that returns EXIF and other TIFF tags.
 
-आपने Aspose.Imaging for Java का उपयोग करके मल्टी-फ़्रेम TIFF छवियों को लोड और परिवर्तित करना सफलतापूर्वक सीख लिया है। इस गाइड का पालन करके, आप इन कार्यात्मकताओं को अपनी परियोजनाओं में सहजता से एकीकृत कर सकते हैं, न्यूनतम प्रयास के साथ छवि प्रसंस्करण क्षमताओं को बढ़ा सकते हैं।
+**Q: What if the TIFF uses compression (LZW, CCITT)?**  
+A: Aspose.Imaging automatically decompresses supported TIFF compression schemes during load.
 
-### अगले कदम
-Aspose.Imaging की अतिरिक्त विशेषताओं का अन्वेषण करें [आधिकारिक दस्तावेज](https://reference.aspose.com/imaging/java/)अपनी विशेषज्ञता को व्यापक बनाने के लिए विभिन्न छवि प्रारूपों और रूपांतरण विकल्पों के साथ प्रयोग करने पर विचार करें।
+## Resources
 
-## अक्सर पूछे जाने वाले प्रश्न अनुभाग
+- [Aspose.Imaging Documentation](https://reference.aspose.com/imaging/java/)
+- [Download Latest Release](https://releases.aspose.com/imaging/java/)
+- [Purchase License](https://purchase.aspose.com/buy)
+- [Free Trial Download](https://releases.aspose.com/imaging/java/)
+- [Request Temporary License](https://purchase.aspose.com/temporary-license/)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
-1. **मल्टी-फ्रेम TIFF क्या है?**
-   - मल्टी-फ्रेम TIFF में एक ही फाइल में कई छवियां होती हैं, जिनका उपयोग अक्सर स्कैन या एनिमेशन जैसे अनुक्रमों को संग्रहीत करने के लिए किया जाता है।
-   
-2. **क्या मैं Aspose.Imaging का उपयोग करके अन्य छवि प्रारूपों को परिवर्तित कर सकता हूं?**
-   - हां, Aspose.Imaging PNG, BMP, GIF, और अन्य सहित विभिन्न प्रारूपों का समर्थन करता है।
+---
 
-3. **Aspose.Imaging चलाने के लिए सिस्टम आवश्यकताएँ क्या हैं?**
-   - सुनिश्चित करें कि आपके पास जावा स्थापित है और आपका IDE आवश्यकतानुसार Maven या Gradle का उपयोग करने के लिए कॉन्फ़िगर किया गया है।
-
-4. **मैं बड़ी TIFF फ़ाइलों को कैसे संभालूँ?**
-   - स्मृति प्रबंधन के लिए try-with-resources का उपयोग करें और यदि आवश्यक हो तो छवियों को टुकड़ों में संसाधित करें।
-
-5. **क्या Aspose.Imaging के साथ अतिरिक्त छवि हेरफेर के लिए समर्थन है?**
-   - बिल्कुल, आप आकार बदलने, क्रॉप करने और फ़िल्टर करने सहित कई प्रकार के कार्य कर सकते हैं।
-
-## संसाधन
-
-- [Aspose.Imaging दस्तावेज़ीकरण](https://reference.aspose.com/imaging/java/)
-- [नवीनतम रिलीज़ डाउनलोड करें](https://releases.aspose.com/imaging/java/)
-- [खरीद लाइसेंस](https://purchase.aspose.com/buy)
-- [निःशुल्क परीक्षण डाउनलोड](https://releases.aspose.com/imaging/java/)
-- [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- [Aspose समर्थन मंच](https://forum.aspose.com/c/imaging/14)
-
-इस गाइड का पालन करके, आप जावा में Aspose.Imaging के साथ TIFF इमेज प्रोसेसिंग में महारत हासिल करने की दिशा में आगे बढ़ रहे हैं। हैप्पी कोडिंग!
+**Last Updated:** 2026-02-27  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
