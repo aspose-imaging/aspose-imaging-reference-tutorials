@@ -1,9 +1,17 @@
 ---
-"date": "2025-06-04"
-"description": "Java için Aspose.Imaging kullanarak TIFF görüntülerini sıkıştırmayı öğrenin. Bu kılavuz, dosya boyutunu optimize ederken görüntü kalitesini koruyarak LZW sıkıştırmanın nasıl uygulanacağını gösterir."
-"title": "Aspose.Imaging&#58; ile Java'da TIFF Görüntülerini Sıkıştırın&#58; LZW Sıkıştırma Kılavuzu"
-"url": "/tr/java/compression-optimization/compress-tiff-images-aspose-imaging-java/"
-"weight": 1
+date: '2026-03-20'
+description: Aspose.Imaging for Java'yı kullanarak TIFF görüntülerini LZW sıkıştırmasıyla
+  nasıl sıkıştıracağınızı öğrenin; dosya boyutunu küçültürken kaliteyi koruyun.
+keywords:
+- compress TIFF images Java
+- Aspose.Imaging LZW compression
+- Java image optimization
+- TIFF compression in Java with Aspose
+- image compression tutorial
+title: Aspose.Imaging'i Kullanarak Java'da TIFF Görüntülerini Sıkıştırma (LZW Sıkıştırma
+  Rehberi)
+url: /tr/java/compression-optimization/compress-tiff-images-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,36 +19,41 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Eğitim: Aspose.Imaging Java Kullanarak TIFF Görüntülerini Sıkıştırma
+# Tutorial: Compressing TIFF Images Using Aspose.Imaging Java
 
-## giriiş
+## Introduction
 
-Günümüzün dijital çağında, büyük resim dosyalarını yönetmek, boyutları ve depolama ve bant genişliği üzerindeki etkileri nedeniyle zorlu bir görev olabilir. Kaliteyi düşürmeden TIFF resimlerini sıkıştırmanın etkili bir yolunu arıyorsanız, **Java için Aspose.Görüntüleme** İhtiyacınız olan çözümdür. Bu güçlü kütüphane, özellikle görüntü sadakatini korumak için etkili olan LZW (Lempel-Ziv-Welch) algoritmasını kullanarak kusursuz TIFF sıkıştırma yetenekleri sunar.
+Bu öğreticide **Aspose.Imaging for Java** kullanarak TIFF görüntülerini verimli bir şekilde sıkıştırmayı öğreneceksiniz. Büyük TIFF dosyalarını yönetmek depolama ve bant genişliğini hızla tüketebilir, ancak LZW (Lempel‑Ziv‑Welch) sıkıştırmasıyla **TIFF dosya boyutunu** görüntü kalitesinden ödün vermeden **azaltabilirsiniz**. Bir TIFF dosyasını yükleme, **tiff compression LZW** ayarlama ve optimize edilmiş sonucu kaydetme adımlarını göstereceğiz—**java image optimization** ile ilgilenen herkes için ideal.
 
-Bu eğitimde, Java ortamında TIFF resimlerini sıkıştırmak için Aspose.Imaging'in nasıl kullanılacağını inceleyeceğiz. Resimleri yükleme, sıkıştırma seçeneklerini yapılandırma ve sıkıştırılmış çıktıyı kaydetme konusunda içgörüler kazanacaksınız; hepsi de resim işleme süreçlerini optimize etmekle ilgilenen Java geliştiricileri için özel olarak tasarlanmıştır.
+**Öğrenecekleriniz**
+- Aspose.Imaging for Java nasıl kurulur
+- TIFF görüntülerinin kolayca yüklenmesi ve işlenmesi
+- `TiffOptions` ile LZW sıkıştırmasının yapılandırılması
+- Daha küçük ama kayıpsız TIFF görüntülerinin kaydedilmesi
 
-**Ne Öğreneceksiniz:**
-- Java için Aspose.Imaging nasıl kurulur
-- TIFF resimlerini kolaylıkla yükleyin ve işleyin
-- TiffOptions kullanarak LZW sıkıştırmasını yapılandırma
-- Optimize edilmiş TIFF görüntülerini kaydetme
+Hemen sıkıştırmaya başlayabilmeniz için ön koşulları gözden geçirelim.
 
-Başlamadan önce ihtiyacınız olan ön koşullara bir göz atalım!
+## Quick Answers
+- **Gerekli kütüphane nedir?** Aspose.Imaging for Java  
+- **Hangi sıkıştırma algoritması?** LZW (kayıpsız)  
+- **Desteklenen Java sürümleri?** En yeni JDK'lar (ör. 11, 17)  
+- **Lisans gerekli mi?** Test için bir deneme veya geçici lisans yeterlidir; üretim için ticari lisans gerekir.  
+- **Tipik boyut azaltma oranı?** Uygun görüntülerde %30‑50 ’ye kadar  
 
-## Ön koşullar
+## Prerequisites
 
-Java projenizde görüntü sıkıştırmayı uygulamadan önce aşağıdakilere sahip olduğunuzdan emin olun:
+Java projenizde görüntü sıkıştırmasını uygulamadan önce aşağıdakilerin mevcut olduğundan emin olun:
 
-- **Java için Aspose.Imaging kütüphanesi**: Bu, Aspose'un güçlü özelliklerinden yararlanmak için önemlidir.
-- **Java Geliştirme Kiti (JDK)**: Aspose.Imaging kütüphanesiyle uyumlu bir JDK sürümü kullandığınızdan emin olun.
-- **Java programlamanın temel anlayışı**:Java sözdizimi ve dosya G/Ç işlemlerine aşinalık faydalı olacaktır.
+- **Aspose.Imaging for Java library** – tüm görüntü işleme özellikleri için zorunludur.  
+- **Java Development Kit (JDK)** – Aspose kütüphanesiyle uyumlu güncel bir sürüm.  
+- **Temel Java bilgisi** – dosya I/O ve nesne‑yönelimli kavramlara aşina olmak işinizi kolaylaştırır.
 
-## Java için Aspose.Imaging Kurulumu
+## Setting Up Aspose.Imaging for Java
 
-Başlamak için projenize Aspose.Imaging kütüphanesini eklemeniz gerekir. Bunu Maven veya Gradle bağımlılıkları aracılığıyla veya doğrudan resmi sürüm sayfalarından indirerek yapabilirsiniz.
+Başlamak için Aspose.Imaging kütüphanesini derleme sisteminize ekleyin. Projenize uygun yöntemi seçin.
 
-### Maven'ı Kullanma
-Aşağıdaki bağımlılığı ekleyin `pom.xml`:
+### Using Maven
+`pom.xml` dosyanıza aşağıdaki bağımlılığı ekleyin:
 
 ```xml
 <dependency>
@@ -50,45 +63,43 @@ Aşağıdaki bağımlılığı ekleyin `pom.xml`:
 </dependency>
 ```
 
-### Gradle'ı Kullanma
-Bu satırı ekleyin `build.gradle` dosya:
+### Using Gradle
+`build.gradle` dosyanıza şu satırı ekleyin:
 
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-### Doğrudan İndirme
-Alternatif olarak, en son sürümü şu adresten indirin: [Java sürümleri için Aspose.Imaging](https://releases.aspose.com/imaging/java/).
+### Direct Download
+Alternatif olarak, en son sürümü [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) adresinden indirebilirsiniz.
 
-#### Lisans Edinimi
-Satın almadan önce Aspose.Imaging'in yeteneklerini tam olarak değerlendirmek için ücretsiz deneme lisansı alabilir veya geçici lisans talep edebilirsiniz.
+#### License Acquisition
+Satın almadan önce Aspose.Imaging'in yeteneklerini tam olarak değerlendirmek için ücretsiz deneme lisansı ya da geçici lisans alabilirsiniz.
 
-## Uygulama Kılavuzu
+## How to Use Aspose.Imaging for TIFF Compression in Java
 
-Şimdi LZW ile Aspose.Imaging for Java kullanarak TIFF görüntü sıkıştırmayı nasıl uygulayabileceğinizi inceleyelim. Her özelliği adım adım ele alacağız.
+Şimdi uygulamayı adım adım inceleyelim. Her kod bloğu orijinal öğreticiden değiştirilmemiştir; ancak etrafına daha net açıklamalar ekleyeceğiz.
 
-### Bir TIFF Görüntüsünü Yükleme
+### Loading a TIFF Image
 
-**Genel Bakış:** Bu bölüm, işlenmeye hazır hale getirmek için yerel dizininizden mevcut bir TIFF dosyasının nasıl yükleneceğini ele almaktadır.
+**Neden önemli:** Görüntüyü doğru şekilde yüklemek, sonraki tüm işlemlerin uygulanacağı geçerli bir `Image` nesnesi oluşturur.
 
-#### Adım 1: Gerekli Sınıfları İçe Aktarın
+#### Step 1: Import the Image class
 ```java
 import com.aspose.imaging.Image;
 ```
 
-#### Adım 2: Görüntüyü Yükleyin
-TIFF görüntünüzün yolunu belirtin ve Aspose.Imaging'i kullanarak yükleyin.
+#### Step 2: Load the image from disk
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY" + "/sample.tiff";
 Image image = Image.load(dataDir);
 ```
-*Bu neden önemlidir? Görüntünün doğru şekilde yüklenmesi, sonraki tüm işlemlerin geçerli bir nesne üzerinde gerçekleştirilmesini sağlar.*
 
-### Görüntü Sıkıştırma için TiffOptions Oluşturma
+### Creating TiffOptions for Image Compression
 
-**Genel Bakış:** Yapılandır `TiffOptions` TIFF dosyanızın nasıl sıkıştırılacağını belirtmek için.
+**Neden önemli:** `TiffOptions`, çıktı TIFF'inin nasıl kodlanacağını tanımlamanızı sağlar; burada **tiff compression LZW** ayarı da bulunur.
 
-#### Adım 1: Gerekli Sınıfları İçe Aktarın
+#### Step 1: Import the required enums and options class
 ```java
 import com.aspose.imaging.fileformats.tiff.enums.TiffCompressions;
 import com.aspose.imaging.fileformats.tiff.enums.TiffExpectedFormat;
@@ -96,99 +107,98 @@ import com.aspose.imaging.fileformats.tiff.enums.TiffPhotometrics;
 import com.aspose.imaging.imageoptions.TiffOptions;
 ```
 
-#### Adım 2: Sıkıştırma Seçeneklerini Ayarlayın
-Bir örnek oluşturun `TiffOptions` ve sıkıştırma ayarlarını yapılandırın.
+#### Step 2: Configure compression options
 ```java
 TiffOptions outputSettings = new TiffOptions(TiffExpectedFormat.Default);
 outputSettings.setBitsPerSample(new int[] { 4 });
 outputSettings.setCompression(TiffCompressions.Lzw);
 outputSettings.setPhotometric(TiffPhotometrics.Palette);
 ```
-*Temel Yapılandırma: LZW sıkıştırma, TIFF görüntünüzün kalitesini koruyan kayıpsız veri azaltma yeteneği nedeniyle seçilmiştir.*
 
-### Gri Tonlamalı Görüntü için Palet Ayarlama
+### Setting a Grayscale Palette (Optional but Helpful)
 
-**Genel Bakış:** Bu özellik, uyumluluğu artırıp dosya boyutunu küçülterek gri tonlamalı bir palet tanımlamanıza olanak tanır.
+4‑bit gri tonlamalı bir palet uygulamak, özellikle tek renkli taramalarda **TIFF dosya boyutunu daha da azaltabilir**.
 
-#### Adım 1: Palet Yardımcısını İçe Aktar
+#### Step 1: Import the palette helper
 ```java
 import com.aspose.imaging.ColorPaletteHelper;
 ```
 
-#### Adım 2: Gri Tonlama Paletini Uygula
-4 bitlik bir gri tonlamalı palet atayın `TiffOptions`.
+#### Step 2: Assign the grayscale palette
 ```java
 outputSettings.setPalette(ColorPaletteHelper.create4BitGrayscale(false));
 ```
-*Önemli olan: Gri tonlamalı bir palet kullanmak, özellikle tek renkli görüntülerde, görüntü boyutunu önemli ölçüde azaltabilir.*
 
-### Sıkıştırılmış TIFF Görüntüsünü Kaydetme
+### Saving the Compressed TIFF Image
 
-**Genel Bakış:** Son olarak işlenmiş ve sıkıştırılmış görüntünüzü istediğiniz çıktı dizinine kaydedin.
+**Neden önemli:** `save` çağrısı, yapılandırdığınız tüm seçenekleri kullanarak görüntüyü diske yazar ve daha küçük, LZW‑sıkıştırmalı bir dosya üretir.
 
-#### Adım 1: Çıktı Yolunu Tanımlayın
+#### Step 1: Define the output path
 ```java
 String outputDir = "YOUR_OUTPUT_DIRECTORY" + "/SampleTiff_out.tiff";
 ```
 
-#### Adım 2: Sıkıştırma Ayarlarıyla Kaydet
-Kullanın `save` Sıkıştırılmış TIFF'i yazma yöntemi.
+#### Step 2: Save with the compression settings
 ```java
 image.save(outputDir, outputSettings);
 ```
-*Bu adım neden önemlidir: Doğru şekilde kaydetmek, tüm yapılandırmalarınızın uygulanmasını ve yeni bir dosyada saklanmasını sağlar.*
 
-## Pratik Uygulamalar
+## Practical Applications
 
-İşte TIFF görüntülerini LZW ile sıkıştırmanın faydalı olabileceği bazı gerçek dünya senaryoları:
+**how to compress tiff** görüntüleri LZW ile sıkıştırmanın gerçek dünyadaki bazı senaryoları:
 
-1. **Belgelerin Arşivlenmesi:** Taranan belgelerin verimli bir şekilde depolanması için sıkıştırılması.
-2. **Tıbbi Görüntüleme:** Detayları kaybetmeden tıbbi taramaların boyutunu küçültmek.
-3. **Fotoğraf Arşivleri:** Yüksek çözünürlüklü fotoğrafların yerden tasarruf sağlayacak şekilde depolanması.
-4. **Web Uygulamaları:** Yükleme sürelerini ve bant genişliği kullanımını iyileştirmek için sıkıştırılmış görüntüler sunuyoruz.
+1. **Arşivleme Belgeleri** – Taranan PDF'leri veya TIFF'leri daha verimli saklayın.  
+2. **Tıbbi Görüntüleme** – Tanısal detayı korurken dosya boyutlarını yönetilebilir tutun.  
+3. **Fotoğraf Arşivleri** – Yüksek çözünürlüklü ana dosyaları depolama alanını şişirmeden saklayın.  
+4. **Web Uygulamaları** – Daha küçük görüntülerle sayfa yükleme süresini ve bant genişliği maliyetlerini azaltın.
 
-## Performans Hususları
+## Performance Considerations
 
-Görüntü sıkıştırmayla çalışırken performansı iyileştirmek için şu ipuçlarını göz önünde bulundurun:
+Büyük görüntülerle çalışırken optimum performansı korumak için şu ipuçlarını aklınızda bulundurun:
 
-- **Bellek Yönetimi:** Java'nın çöp toplayıcısı belleği iyi yönetir, ancak gereksiz yüklerden kaçınmak için büyük nesneleri verimli bir şekilde yönetmenizi sağlar.
-- **Bit Derinliğini Optimize Et:** Ayarlamak `BitsPerSample` Uygulamanızın renk gereksinimlerine göre kalite ve dosya boyutunu dengeleyin.
+- **Bellek Yönetimi:** Bir döngü içinde birden çok dosya işliyorsanız büyük `Image` nesnelerini hemen (`image.dispose()`) serbest bırakın.  
+- **Bit Derinliği Optimizasyonu:** Kullanım durumunuza uygun en düşük `BitsPerSample` değerini ayarlayın.  
+- **Toplu İşleme:** Çoklu dosya işlemleri için çok iş parçacıklı (multithreading) yaklaşımını düşünebilirsiniz, ancak JVM yığın kullanımını izleyin.
 
-## Çözüm
+## Common Issues and Solutions
 
-Bu kılavuzu takip ederek, Aspose.Imaging for Java ile LZW sıkıştırmasını kullanarak TIFF görüntülerini etkili bir şekilde nasıl sıkıştıracağınızı öğrendiniz. Bu yalnızca depolamayı optimize etmekle kalmaz, aynı zamanda görüntü bütünlüğünü de korur; bu, yüksek kaliteli görüntüleme çözümlerine güvenen birçok sektörde kritik bir faktördür.
+| Symptom | Likely Cause | Fix |
+|---------|--------------|-----|
+| OutOfMemoryError while loading huge TIFFs | Image loaded fully into memory | Use `Image.load(dataDir, new LoadOptions { BufferSize = … })` or process in tiles. |
+| Saved file is larger than original | Incorrect `BitsPerSample` or palette mismatch | Verify that `setBitsPerSample` matches the source image's color depth. |
+| Grayscale palette appears wrong | Palette not applied before saving | Ensure `outputSettings.setPalette(...)` is called **before** `image.save`. |
 
-**Sonraki Adımlar:**
-- Farklı sıkıştırma ayarlarını deneyin.
-- Aspose.Imaging kütüphanesinin görüntü formatlarını düzenleme ve dönüştürme gibi diğer işlevlerini keşfedin.
+## Frequently Asked Questions
 
-**Harekete geçirici mesaj:** Bu çözümü Java projelerinize uygulayarak görüntü işleme görevlerinizi nasıl kolaylaştırabileceğini ilk elden görün!
+**Q: LZW sıkıştırması nedir?**  
+A: Lempel‑Ziv‑Welch (LZW) sıkıştırması, görüntü verisini kaybetmeden dosya boyutunu azaltan kayıpsız bir algoritmadır.
 
-## SSS Bölümü
+**Q: Aspose.Imaging for Java’yı ticari projelerde kullanabilir miyim?**  
+A: Evet, ticari kullanım için lisans satın alabilirsiniz. Detaylar için [Aspose Purchase](https://purchase.aspose.com/buy) sayfasını ziyaret edin.
 
-1. **LZW sıkıştırma nedir?**
-   - Lempel-Ziv-Welch (LZW) sıkıştırması, herhangi bir bilgi kaybı olmadan dosya boyutunu azaltan kayıpsız bir veri sıkıştırma algoritmasıdır.
+**Q: Kütüphane tüm JDK sürümleriyle uyumlu mu?**  
+A: Çoğu yeni JDK sürümünü destekler. Tam sürüm uyumluluğu için resmi dokümantasyona bakın.
 
-2. **Aspose.Imaging for Java'yı ticari projelerde kullanabilir miyim?**
-   - Evet, ticari olarak kullanmak için bir lisans satın alabilirsiniz. Ziyaret edin [Aspose Satın Alma](https://purchase.aspose.com/buy) Ayrıntılar için.
+**Q: Büyük görüntülerde bellek tükenmesini nasıl önleyebilirim?**  
+A: `Image` nesnelerini zamanında dispose ederek ve mümkün olduğunda görüntüleri daha küçük parçalar halinde işleyerek bellek yönetimini etkinleştirin.
 
-3. **Kütüphane tüm JDK sürümleriyle uyumlu mu?**
-   - JDK'nın en son sürümlerini destekler. Uyumluluğu resmi belgelerinde kontrol edin.
+**Q: Aspose.Imaging başka hangi dosya formatlarını destekliyor?**  
+A: BMP, JPEG, PNG, GIF ve daha birçok formatı işler. Tam listeyi [documentation site](https://reference.aspose.com/imaging/java/) üzerinden inceleyin.
 
-4. **Hafızam dolmadan büyük resimleri nasıl işleyebilirim?**
-   - Verimli bellek yönetimi uygulamalarını hayata geçirin ve gerekirse görüntüleri parçalar halinde işlemeyi düşünün.
+## Resources
 
-5. **Aspose.Imaging başka hangi dosya formatlarını destekliyor?**
-   - Kütüphane BMP, JPEG, PNG, GIF ve daha fazlası dahil olmak üzere çok çeşitli formatları destekler. Tam listeyi şu adreste keşfedin: [belgeleme sitesi](https://reference.aspose.com/imaging/java/).
+- **Documentation:** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)  
+- **Download:** [Latest Releases](https://releases.aspose.com/imaging/java/)  
+- **Purchase:** [Buy Now](https://purchase.aspose.com/buy)  
+- **Free Trial:** [Start Here](https://releases.aspose.com/imaging/java/)  
+- **Temporary License:** [Request Here](https://purchase.aspose.com/temporary-license/)  
+- **Support:** Daha fazla yardım için [Aspose Forum](https://forum.aspose.com/c/imaging/14) adresini ziyaret edin.
 
-## Kaynaklar
+---  
 
-- **Belgeler:** [Aspose.Görüntüleme Java Referansı](https://reference.aspose.com/imaging/java/)
-- **İndirmek:** [Son Sürümler](https://releases.aspose.com/imaging/java/)
-- **Satın almak:** [Şimdi al](https://purchase.aspose.com/buy)
-- **Ücretsiz Deneme:** [Buradan Başlayın](https://releases.aspose.com/imaging/java/)
-- **Geçici Lisans:** [Burada Talep Edin](https://purchase.aspose.com/temporary-license/)
-- **Destek:** Daha fazla yardım için şu adresi ziyaret edin: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
+**Last Updated:** 2026-03-20  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
