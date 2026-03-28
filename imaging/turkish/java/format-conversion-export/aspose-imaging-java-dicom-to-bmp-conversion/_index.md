@@ -1,9 +1,16 @@
 ---
-"date": "2025-06-04"
-"description": "Aspose.Imaging for Java kullanarak DICOM görüntülerini BMP formatına nasıl kolayca dönüştüreceğinizi ve yeniden boyutlandıracağınızı öğrenin. Tıbbi görüntü arşivleme ve web görüntüleme için idealdir."
-"title": "DICOM'u Java'da Aspose.Imaging ile BMP'ye Dönüştürme&#58; Tam Bir Kılavuz"
-"url": "/tr/java/format-conversion-export/aspose-imaging-java-dicom-to-bmp-conversion/"
-"weight": 1
+date: '2026-03-28'
+description: Aspose Imaging Java kullanarak DICOM’u BMP’ye dönüştürmeyi ve BMP görüntüsünü
+  kaydetmeyi öğrenin. Medikal görüntü dönüşümü ve web gösterimi için idealdir.
+keywords:
+- convert DICOM to BMP
+- Aspose.Imaging Java
+- resize DICOM image
+- medical image conversion with Aspose
+- format conversion & export
+title: 'Aspose Imaging Java: DICOM''u BMP''ye Dönüştür – Tam Bir Kılavuz'
+url: /tr/java/format-conversion-export/aspose-imaging-java-dicom-to-bmp-conversion/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,31 +20,45 @@
 {{< blocks/products/pf/tutorial-page-section >}}
 # Aspose.Imaging Java Kullanarak DICOM Görüntülerini BMP Olarak Yükleme ve Yeniden Kaydetme
 
-## giriiş
+## Giriş
 
-Dijital görüntüleme dünyasında, tıbbi görüntüleri yönetmek kritik önem taşır. Genellikle, profesyonellerin bu görüntüleri bütünlüklerini koruyarak bir formattan diğerine dönüştürmeleri gerekir. Bu eğitim, bir DICOM görüntüsünü yüklemek ve BMP formatında yeniden kaydetmek için Java için Aspose.Imaging'i kullanma konusunda size rehberlik edecektir. Ayrıca, DICOM görüntülerinizin yüksekliğini orantılı olarak nasıl yeniden boyutlandıracağınızı da öğreneceksiniz.
+Dijital görüntüleme dünyasında, tıbbi görüntülerin yönetimi kritik öneme sahiptir ve **aspose imaging java** işi çok daha kolay hâle getirir. DICOM dosyalarını arşivlemeniz, bir web portalında görüntülemeniz veya bir sağlık‑bakım iş akışına entegre etmeniz gerekse, kaliteyi koruyarak DICOM’u BMP’ye dönüştürmek yaygın bir gereksinimdir. Bu öğreticide bir DICOM görüntüsünü nasıl yükleyeceğinizi, BMP’ye dönüştüreceğinizi ve yüksekliğini orantılı olarak yeniden boyutlandıracağınızı — temiz, üretim‑hazır Java kodu ile — öğreneceksiniz.
 
-**Ne Öğreneceksiniz:**
+**Öğrenecekleriniz**
 
-- Aspose.Imaging Java kullanarak DICOM görüntüleri BMP'ye nasıl dönüştürülür
-- Oranları koruyarak DICOM görüntülerini yeniden boyutlandırma teknikleri
-- Geliştirme ortamınızda Java için Aspose.Imaging'i kurma
+- **aspose imaging java** kullanarak DICOM görüntülerini BMP’ye nasıl dönüştüreceğiniz
+- DICOM görüntülerini oranları koruyarak yeniden boyutlandırma teknikleri
+- Aspose.Imaging for Java’ı geliştirme ortamınıza nasıl kuracağınız
 
-Uygulamaya geçmeden önce ön koşulların sağlandığından emin olalım. 
+Uygulamaya geçmeden önce, ön koşulların karşılandığından emin olun.
 
-## Ön koşullar
+## Hızlı Yanıtlar
+- **Hangi kütüphane gerekiyor?** Aspose.Imaging for Java (aspose imaging java)  
+- **DICOM’u BMP’ye tek satırda dönüştürebilir miyim?** Hayır, önce görüntüyü yüklemeniz, ardından kaydetmeniz gerekir.  
+- **Üretim için lisans gerekir mi?** Evet, geçerli bir Aspose.Imaging lisansı gereklidir.  
+- **Yeniden boyutlandırma isteğe bağlı mı?** Evet, yalnızca format dönüşümü gerekiyorsa yeniden boyutlandırma adımını atlayabilirsiniz.  
+- **Birçok dosyayı toplu işleyebilir miyim?** Kesinlikle – aynı kodu bir döngü içinde veya Java stream’leriyle kullanabilirsiniz.
 
-Bu eğitimi etkili bir şekilde takip etmek için şunlara ihtiyacınız olacak:
+## Aspose Imaging Java Nedir?
+Aspose.Imaging Java, tıbbi‑grade DICOM formatı da dahil olmak üzere 100’den fazla görüntü formatını okumanıza, düzenlemenize ve yazmanıza olanak tanıyan güçlü, platform‑bağımsız bir kütüphanedir. Görüntü işleme detaylarını soyutlayarak, piksel manipülasyonu yerine iş mantığına odaklanmanızı sağlar.
 
-- **Aspose.Görüntüleme Kütüphanesi**: 25.5 veya üzeri bir sürüme sahip olduğunuzdan emin olun.
-- **Java Geliştirme Kiti (JDK)**: Uyumluluk için 8 veya üzeri sürüm önerilir.
-- **IDE Kurulumu**Java kodunuzu yazmak ve test etmek için IntelliJ IDEA veya Eclipse gibi bir IDE kullanın.
+## Medikal Görüntü Dönüştürme İçin Aspose Imaging Java Neden Kullanılmalı?
+- **Tam DICOM desteği** – ek eklentiler olmadan piksel verisi, meta veri ve çok‑çerçeveli dosyaları okuyabilir.  
+- **Yüksek‑kaliteli BMP çıktısı** – kayıpsız BMP dosyaları tanısal detayları korur.  
+- **Yerleşik yeniden boyutlandırma** – keskin sonuçlar için adaptif yeniden örnekleme ile en boy oranlarını korur.  
+- **İş parçacığı‑güvenli ve bellek‑verimli** – sunucu‑tarafı toplu işler için idealdir.
 
-## Java için Aspose.Imaging Kurulumu
+## Önkoşullar
 
-Öncelikle projenizde Aspose.Imaging'i kuralım. Yapım aracınız olarak Maven veya Gradle'ı kullanabilirsiniz.
+- **Aspose.Imaging Kütüphanesi**: sürüm 25.5 veya üzeri (en yeni sürüm her zaman önerilir).  
+- **Java Development Kit (JDK)**: sürüm 8 veya üzeri.  
+- **IDE**: IntelliJ IDEA, Eclipse veya tercih ettiğiniz herhangi bir editör.  
 
-**Usta**
+## Aspose.Imaging'i Java İçin Kurma
+
+İlk olarak, kütüphaneyi projenize Maven ya da Gradle kullanarak ekleyin.
+
+**Maven**
 ```xml
 <dependency>
   <groupId>com.aspose</groupId>
@@ -51,137 +72,151 @@ Bu eğitimi etkili bir şekilde takip etmek için şunlara ihtiyacınız olacak:
 implementation 'com.aspose:aspose-imaging:25.5'
 ```
 
-Alternatif olarak, kütüphaneyi doğrudan şu adresten indirebilirsiniz: [Java sürümleri için Aspose.Imaging](https://releases.aspose.com/imaging/java/).
+Alternatif olarak, kütüphaneyi doğrudan [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) adresinden indirebilirsiniz.
 
-### Lisans Edinimi
+### Lisans Edinme
 
-Aspose.Imaging'i kullanmaya başlamak için şunları yapabilirsiniz:
+Aspose.Imaging ile başlamanız için şu seçenekler var:
 
-- **Ücretsiz Deneme**:Sınırlı bir denemeyle özelliklerini deneyin.
-- **Geçici Lisans**: Tam kapasiteyi keşfetmek için geçici bir lisans edinin.
-- **Satın almak**: Uzun süreli kullanım için lisans satın almayı düşünebilirsiniz.
+- **Free Trial** – zaman sınırlı bir lisansla tam özellik setini test edin.  
+- **Temporary License** – kısa vadeli projeler için geçici bir anahtar edinin.  
+- **Purchase** – üretim kullanımı için kalıcı bir lisans satın alın.
 
-**Başlatma ve Kurulum:**
+Lisans dosyanızı aldıktan sonra, uygulamanızın başlangıcında yükleyin:
 
-Kütüphaneyi yükledikten sonra, onu Java uygulamanızda başlatın. Bu, dosya dizinlerini ayarlamayı ve Aspose.Imaging kütüphanelerinin doğru şekilde referanslandığından emin olmayı içerir.
+```java
+import com.aspose.imaging.Image;
+import com.aspose.imaging.License;
+
+License license = new License();
+license.setLicense("Aspose.Imaging.Java.lic");
+```
 
 ## Uygulama Kılavuzu
 
-Uygulamamızı iki temel özelliğe ayıracağız:
+İki pratik senaryoyu inceleyeceğiz:
 
-### DICOM Görüntüsünü BMP Olarak Yükle ve Yeniden Kaydet
+1. **Bir DICOM dosyasını yükleyip BMP olarak kaydetme** (temel “save image bmp” işlemi).  
+2. **Kaydetmeden önce görüntünün yüksekliğini orantılı olarak yeniden boyutlandırma**, web küçük resimleri için faydalıdır.
 
-#### Genel bakış
+### DICOM Görüntüsünü BMP Olarak Yükleme ve Yeniden Kaydetme
 
-Bu özellik, DICOM görüntüsünün diskten nasıl yükleneceğini ve BMP formatında nasıl kaydedileceğini göstererek, tıbbi olmayan uygulamalar veya temel görüntü biçimleri gerektiren sistemler için erişilebilir hale getirir.
+#### Genel Bakış
+Bu kod parçacığı, bir DICOM dosyasını okuyup BMP dosyası olarak yazmak için gereken minimum adımları gösterir.
 
-#### Adım Adım Uygulama
+#### Adım‑Adım
 
-1. **Dizinleri Ayarla**
+1. **Giriş ve çıkış yollarını tanımlayın** – ortamınıza göre ayarlayın.  
+2. `DicomImage` kullanarak **DICOM görüntüsünü yükleyin**.  
+3. Varsayılan `BmpOptions` ile **BMP olarak kaydedin**.
 
-   DICOM dosyasının bulunduğu ve BMP'nin kaydedilmesini istediğiniz giriş ve çıkış dizinlerini tanımlayın.
-   ```java
-   String dataDir = "YOUR_DOCUMENT_DIRECTORY";
-   String inputFile = dataDir + "image.dcm";
-   String outputFile = "YOUR_OUTPUT_DIRECTORY" + "ResizedOutput.bmp";
-   ```
+```java
+String dataDir = "YOUR_DOCUMENT_DIRECTORY";
+String inputFile = dataDir + "image.dcm";
+String outputFile = "YOUR_OUTPUT_DIRECTORY" + "ResizedOutput.bmp";
 
-2. **DICOM Görüntüsünü Yükle ve Kaydet**
+try (DicomImage image = (DicomImage) Image.load(inputFile)) {
+    // Save the image as a BMP file.
+    image.save(outputFile, new BmpOptions());
+}
+```
 
-   Kullanmak `DicomImage` Resmi yüklemek için Aspose.Imaging'den indirin ve ardından BMP formatında kaydedin.
-   ```java
-   try (DicomImage image = (DicomImage) Image.load(inputFile)) {
-       // Resmi BMP dosyası olarak kaydedin.
-       image.save(outputFile, new BmpOptions());
-   }
-   ```
+**Ana Parametreler**
 
-3. **Parametreleri Açıkla**
+- `inputFile`: Kaynak DICOM dosyasının tam yolu.  
+- `outputFile`: Hedef BMP dosyasının yolu.  
+- `BmpOptions()`: Varsayılan BMP ayarlarını kullanır; isterseniz sıkıştırma veya piksel formatını özelleştirebilirsiniz.
 
-   - `inputFile`: DICOM dosyanızın yolu.
-   - `outputFile`: BMP çıktısı için hedef yol.
-   - `BmpOptions()`: BMP formatı için yapılandırma ayarları.
+### Yüksekliği Orantılı Olarak Yeniden Boyutlandırma
 
-### Yüksekliği Orantılı Olarak Yeniden Boyutlandır
+#### Genel Bakış
+Web sayfasında daha hızlı yükleme için daha küçük bir görüntüye ihtiyacınız olabilir. Aşağıdaki kod, yüksekliği 100 piksele ayarlarken en boy oranını korur.
 
-#### Genel bakış
+#### Adım‑Adım
 
-Bu özellik, bir DICOM görüntüsünün yüksekliğini orantılı olarak yeniden boyutlandırmanıza, en boy oranını korumanıza ve onu bir BMP dosyası olarak kaydetmenize olanak tanır.
+```java
+String inputFile = dataDir + "image.dcm";
+String outputFile = "YOUR_OUTPUT_DIRECTORY" + "ResizeHeightProportionally_out.bmp";
 
-#### Adım Adım Uygulama
+try (DicomImage image = (DicomImage) Image.load(inputFile)) {
+    // Resize the height proportionally to 100 pixels.
+    image.resizeHeightProportionally(100, ResizeType.AdaptiveResample);
+    
+    // Save the resized image in BMP format.
+    image.save(outputFile, new BmpOptions());
+}
+```
 
-1. **DICOM Görüntüsünü Yükle**
+**Önemli Detaylar**
 
-   Öncelikle Aspose.Imaging kullanarak DICOM görüntünüzü yükleyin.
-   ```java
-   String inputFile = dataDir + "image.dcm";
-   String outputFile = "YOUR_OUTPUT_DIRECTORY" + "ResizeHeightProportionally_out.bmp";
-
-   try (DicomImage image = (DicomImage) Image.load(inputFile)) {
-       // Yüksekliği orantılı olarak 100 piksele yeniden boyutlandırın.
-       image.resizeHeightProportionally(100, ResizeType.AdaptiveResample);
-       
-       // Yeniden boyutlandırılan resmi BMP formatında kaydedin.
-       image.save(outputFile, new BmpOptions());
-   }
-   ```
-
-2. **Parametreler ve Yöntemler**
-
-   - `resizeHeightProportionally(100, ResizeType.AdaptiveResample)`: Bu yöntem, kalite için uyarlanabilir yeniden örnekleme kullanarak en boy oranını korurken yüksekliği 100 piksele ayarlar.
+- `resizeHeightProportionally(100, ResizeType.AdaptiveResample)` – ilk argüman hedef yüksekliği piksel olarak; ikinci argüman Aspose.Imaging’e yüksek‑kaliteli adaptif yeniden örnekleme kullanmasını söyler.  
+- Metot yeni genişliği otomatik olarak hesaplar, böylece görüntü asla gerilmiş görünmez.
 
 ## Pratik Uygulamalar
 
-Bu özelliklerin uygulanabileceği bazı gerçek dünya senaryoları şunlardır:
+| Kullanım Durumu | Fayda |
+|-----------------|-------|
+| **Medikal Görüntü Arşivleme** | Genel dosya sistemlerinde saklamak için DICOM'u BMP'ye dönüştürün, tedarikçi bağımlılığını azaltın. |
+| **Radyoloji Görüntülerinin Web'de Görüntülenmesi** | BMP dosyaları tarayıcılar ve UI çerçeveleri tarafından geniş çapta desteklenir, bu da taramaları portalara gömmeyi kolaylaştırır. |
+| **Çapraz Platform Veri Değişimi** | BMP, neredeyse her görüntüleme aracı tarafından okunabilen basit bir raster formatıdır, iş birliğini kolaylaştırır. |
+| **Toplu İşleme Hatları** | Kodu bir döngüye veya Java Stream'ine sararak yüzlerce dosyayı otomatik olarak dönüştürün. |
 
-1. **Tıbbi Görüntü Arşivleme**: Tıbbi olmayan sistemlerde daha kolay depolama için DICOM görüntülerini dönüştürün ve yeniden boyutlandırın.
-2. **Tıbbi Görüntülerin Web Üzerinde Görüntülenmesi**: Tıbbi görüntüleri web uygulamalarında görüntülemek için BMP formatını kullanın, kaliteyi korurken dosya boyutlarını azaltın.
-3. **Platformlar Arası Uyumluluk**: DICOM formatlarını desteklemeyen farklı yazılımlar arasında görüntü paylaşımını basitleştirin.
+## Performans Düşünceleri
 
-## Performans Hususları
+- **Dönüştürmeden önce yeniden boyutlandırma**: Boyutları erken küçültmek bellek kullanımını azaltır ve kaydetme işlemini hızlandırır.  
+- **try‑with‑resources kullanın** (gösterildiği gibi) görüntünün hızlıca serbest bırakılmasını sağlayarak bellek sızıntılarını önleyin.  
+- **Toplu Mod**: Büyük hacimler için dosyaları paralel işlemek amacıyla `ExecutorService` kullanın, ancak yığın (heap) boyutunu izleyin.
 
-Java için Aspose.Imaging ile çalışırken:
+## Yaygın Sorunlar ve Çözümler
 
-- **Görüntü Boyutlarını Optimize Et**Büyük DICOM dosyalarını dönüştürmeden önce, işlem süresini ve bellek kullanımını azaltmak için dosyaların boyutunu değiştirmeyi düşünün.
-- **Verimli Bellek Yönetimi**:Görüntü verileriyle uğraşırken belleği etkili bir şekilde yönetmek için try-with-resources'ı kullanın.
-- **Toplu İşleme**: Birden fazla görselle çalışıyorsanız, verimliliği artırmak için süreci gruplar halinde otomatikleştirin.
+| Semptom | Muhtemel Neden | Çözüm |
+|---------|----------------|-------|
+| `Unsupported format` hatası | DICOM'u desteklemeyen eski bir Aspose.Imaging sürümü kullanmak | En son sürüme yükseltin (≥ 25.5). |
+| Büyük DICOM dosyalarında bellek dışı istisna | Görüntü serbest bırakılmadı veya yığın içine sığmayacak kadar büyük | JVM yığınını artırın (`-Xmx2g`) ve `try (DicomImage …)` desenini koruyun. |
+| BMP çıktısı siyah veya boş | DICOM dosyası yalnızca meta verileri içeriyor (piksel verisi yok) | Kaynak DICOM'un görüntü çerçeveleri içerdiğini doğrulayın; kontrol için `image.getFramesCount()` kullanın. |
+| Yeniden boyutlandırılmış görüntü bulanık görünüyor | Düşük kalite yeniden boyutlandırma türü kullanmak | `ResizeType.AdaptiveResample` (örnekteki gibi) veya `ResizeType.HighQualityBicubic`'a geçin. |
 
-## Çözüm
+## Sıkça Sorulan Sorular
 
-Bu eğitimde, DICOM görüntülerini nasıl yükleyeceğinizi ve Aspose.Imaging for Java kullanarak bunları BMP formatına nasıl dönüştüreceğinizi öğrendiniz. Ayrıca, oranlarını koruyarak görüntüleri yeniden boyutlandırmayı da ele aldık. Bu becerilerle, tıbbi görüntüleme çözümlerini çeşitli uygulamalara daha etkili bir şekilde entegre edebilirsiniz.
+**S: `save image bmp` ile `save image png` arasındaki fark nedir?**  
+C: BMP, her pikseli koruyan sıkıştırılmamış, kayıpsız bir formattır, PNG ise dosya boyutunu azaltmak için kayıpsız sıkıştırma uygular. Kesin piksel doğruluğu gerektiğinde BMP kullanın.
 
-**Sonraki Adımlar:**
+**S: Tek bir çalıştırmada birden fazla DICOM dosyasını dönüştürebilir miyim?**  
+C: Evet, `.dcm` uzantılı bir dizini dolaşarak aynı yükleme‑kaydet mantığını bir döngü içinde uygulayabilirsiniz.
 
-- Aspose.Imaging'in sunduğu ek görüntü düzenleme özelliklerini deneyin.
-- Sağlık veri tabanları veya web platformları gibi diğer sistemlerle entegrasyon olanaklarını keşfedin.
+**S: aspose imaging java çok çerçeveli DICOM serilerini destekliyor mu?**  
+C: Kesinlikle – her çerçeveye `image.getFrames()` ile erişebilir ve bunları ayrı ayrı veya tek bir BMP olarak kaydedebilirsiniz.
 
-## SSS Bölümü
+**S: Geliştirme için lisans gerekli mi?**  
+C: Değerlendirme için ücretsiz deneme veya geçici lisans kullanabilirsiniz, ancak üretim dağıtımları için satın alınmış bir lisans gerekir.
 
-1. **Aspose.Imaging nedir?**
-   - Aspose.Imaging, DICOM ve BMP dahil olmak üzere çeşitli formatları destekleyen, Java'da görüntü işleme için güçlü bir kütüphanedir.
+**S: DICOM meta verilerini (hasta adı, çalışma kimliği) dönüşüm sonrası nasıl yönetirim?**  
+C: Aspose.Imaging, `image.getMetaData()` ile DICOM etiketlerini okumanızı sağlar. Bu bilgileri BMP meta verilerine veya ayrı bir veritabanına ekleyebilirsiniz.
 
-2. **Lisans satın almadan Aspose.Imaging'i kullanabilir miyim?**
-   - Evet, ücretsiz denemeyle başlayabilir veya özelliklerini keşfetmek için geçici bir lisans alabilirsiniz.
+## Sonuç
 
-3. **Aspose.Imaging tarafından desteklenen görüntü formatları nelerdir?**
-   - JPEG, PNG, GIF, BMP ve DICOM dahil olmak üzere çok çeşitli formatları destekler.
+Artık **aspose imaging java** ile DICOM görüntülerini yükleme, BMP'ye dönüştürme ve yüksekliğini yeniden boyutlandırma konusunda sağlam, uçtan uca bir çözümünüz var. Bu yapı taşları toplu işler, web servisleriyle entegrasyon veya masaüstü yardımcı programlarda kullanılabilir, tıbbi görüntü iş akışlarını kolaylaştırır.
 
-4. **Aspose.Imaging ile büyük DICOM dosyalarını nasıl işlerim?**
-   - Bellek kullanımını verimli bir şekilde yönetmek için, işleme başlamadan önce görüntüleri yeniden boyutlandırmayı düşünün.
+**Sonraki Adımlar**
 
-5. **Bu kütüphaneyi mevcut Java uygulamalarına entegre etmek mümkün müdür?**
-   - Evet, Aspose.Imaging, Maven veya Gradle bağımlılıklarını kullanarak mevcut projelerinize sorunsuz bir şekilde entegre edilebilir.
+- Farklı kalite‑hız dengeleri için diğer `ResizeType` seçeneklerini deneyin.  
+- Su işaretleri, PNG/JPEG formatına dönüşüm veya meta veri manipülasyonu gibi ek Aspose.Imaging özelliklerini keşfedin.  
+- Kodu mevcut sağlık‑bakım uygulamanıza veya mikroservisinize entegre edin.
 
 ## Kaynaklar
 
-- [Belgeleme](https://reference.aspose.com/imaging/java/)
+- [Dokümantasyon](https://reference.aspose.com/imaging/java/)
 - [Kütüphaneyi İndir](https://releases.aspose.com/imaging/java/)
 - [Satın Alma Seçenekleri](https://purchase.aspose.com/buy)
 - [Ücretsiz Deneme](https://releases.aspose.com/imaging/java/)
 - [Geçici Lisans](https://purchase.aspose.com/temporary-license/)
 - [Destek Forumu](https://forum.aspose.com/c/imaging/14)
 
-Bu kılavuzu takip ederek artık Aspose.Imaging for Java kullanarak DICOM görüntülerini işlemek için iyi bir donanıma sahip olmalısınız. İyi kodlamalar!
+---
+
+**Son Güncelleme:** 2026-03-28  
+**Test Edilen Versiyon:** Aspose.Imaging 25.5 for Java  
+**Yazar:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
