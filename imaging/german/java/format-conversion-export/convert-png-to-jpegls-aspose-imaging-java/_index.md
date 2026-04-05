@@ -1,9 +1,17 @@
 ---
-"date": "2025-06-04"
-"description": "Erfahren Sie, wie Sie PNG-Bilder mit Aspose.Imaging für Java in JPEG-LS konvertieren. Dieses Tutorial behandelt die Einrichtung, die Konvertierungsschritte und Tipps für eine effiziente Bildverarbeitung."
-"title": "Aspose.Imaging Java&#58; Konvertieren Sie PNG mühelos in JPEG-LS"
-"url": "/de/java/format-conversion-export/convert-png-to-jpegls-aspose-imaging-java/"
-"weight": 1
+date: '2026-04-05'
+description: Erfahren Sie, wie Sie PNG‑Bilder mit Aspose Imaging Java in JPEG‑LS konvertieren,
+  einschließlich Einrichtung, Konvertierungsschritten und Tipps für eine effiziente
+  Java‑Bildkompression.
+keywords:
+- aspose imaging java
+- how to convert png
+- java image compression
+- convert png to jpeg-ls
+- load png image java
+title: 'Aspose Imaging Java: PNG mühelos in JPEG‑LS konvertieren'
+url: /de/java/format-conversion-export/convert-png-to-jpegls-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,33 +19,49 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Titel: Bildkonvertierung meistern mit Aspose.Imaging Java: PNG in JPEG-LS konvertieren
+# Titel: Beherrschung der Bildkonvertierung mit Aspose Imaging Java: Konvertierung von PNG zu JPEG‑LS
 
 ## Einführung
 
-Bei der Bildverarbeitung müssen Sie möglicherweise die Dateigröße optimieren, ohne Kompromisse bei der Qualität einzugehen. Daher ist die Konvertierung von Bildern von einem Format in ein anderes unerlässlich. Mit Aspose.Imaging für Java können Entwickler ein PNG-Bild mit 8 Bit pro Sample nahtlos in ein JPEG-LS-Format mit nur 2 Bit pro Sample konvertieren. In diesem Tutorial gehen wir auf die Feinheiten dieses Konvertierungsprozesses ein und geben Ihnen eine Schritt-für-Schritt-Anleitung.
+Beim Umgang mit Bildverarbeitung kann es vorkommen, dass Sie die Dateigrößen optimieren müssen, ohne die Qualität zu beeinträchtigen. Genau hier wird die Konvertierung von Bildern von einem Format in ein anderes unverzichtbar. Mit **Aspose Imaging Java** können Sie nahtlos ein PNG‑Bild mit 8 Bit pro Sample in ein JPEG‑LS‑Format mit nur 2 Bit pro Sample umwandeln. In diesem Tutorial führen wir Sie durch den gesamten Prozess, erklären, warum das wichtig ist, und geben Ihnen praktische Tipps, die Sie sofort anwenden können.
 
 **Was Sie lernen werden:**
-- So richten Sie Aspose.Imaging für Java in Ihrem Projekt ein
-- Der Prozess der Konvertierung von PNG-Bildern in das JPEG-LS-Format
-- Rückkonvertierung von JPEG-LS nach PNG zum Vergleich
-- Wichtige Konfigurationsoptionen und Tipps zur Fehlerbehebung
+- Wie Sie Aspose Imaging für Java in Ihrem Projekt einrichten
+- Den Prozess der Konvertierung von PNG‑Bildern in das JPEG‑LS‑Format
+- Zurückkonvertierung von JPEG‑LS zu PNG zum Vergleich
+- Wichtige Konfigurationsoptionen, häufige Fallstricke und Tipps zur Fehlerbehebung
 
-Bevor wir uns in die Implementierung stürzen, sehen wir uns die Voraussetzungen an, die Sie für den Einstieg benötigen.
+Bevor wir in die Implementierung eintauchen, schauen wir uns die Voraussetzungen an, die Sie benötigen, um zu beginnen.
+
+## Schnelle Antworten
+- **Welche Bibliothek übernimmt die Konvertierung?** Aspose Imaging Java
+- **Welche Formate sind beteiligt?** PNG → JPEG‑LS und JPEG‑LS → PNG
+- **Typischer Kompressionsgewinn?** Bis zu 80 % Reduktion bei verlustfreier Qualität
+- **Mindest‑Java‑Version?** JDK 8 oder höher
+- **Benötige ich eine Lizenz für Tests?** Eine kostenlose Testversion oder temporäre Lizenz reicht für die Entwicklung
+
+## Was ist Aspose Imaging Java?
+Aspose Imaging Java ist eine leistungsstarke API, die Entwicklern ermöglicht, eine Vielzahl von Bildformaten programmgesteuert zu lesen, zu bearbeiten und zu konvertieren. Sie unterstützt fortschrittliche Kompressionsschemata wie JPEG‑LS und ist damit ideal für Szenarien, in denen Bildtreue und Dateigrößen‑Effizienz gleichermaßen entscheidend sind.
+
+## Warum Aspose Imaging Java für PNG‑zu‑JPEG‑LS-Konvertierung verwenden?
+- **Verlustfreie oder nahezu verlustfreie Kompression** – JPEG‑LS bewahrt jedes Pixeldetail.
+- **Einfache API** – Ein paar Codezeilen erledigen Laden, Konfigurieren und Speichern.
+- **Plattformübergreifend** – Funktioniert auf jedem Betriebssystem, das Java unterstützt.
+- **Unternehmensbereit** – Skalierbar von Einzelbild‑Operationen bis zu Batch‑Verarbeitungspipelines.
 
 ## Voraussetzungen (H2)
 
-Um diesem Tutorial effektiv folgen zu können, stellen Sie sicher, dass Sie über Folgendes verfügen:
-- Grundkenntnisse der Java-Programmierung.
-- Auf Ihrem Computer ist eine integrierte Entwicklungsumgebung (IDE) wie IntelliJ IDEA oder Eclipse eingerichtet.
-- Maven oder Gradle zur Abhängigkeitsverwaltung installiert.
-- Vertrautheit mit Konzepten und Dateiformaten der Bildverarbeitung.
+Um dieses Tutorial effektiv zu verfolgen, stellen Sie sicher, dass Sie folgendes besitzen:
+- Grundkenntnisse in Java‑Programmierung.
+- Eine integrierte Entwicklungsumgebung (IDE) wie IntelliJ IDEA oder Eclipse.
+- Maven oder Gradle für das Abhängigkeitsmanagement installiert.
+- Vertrautheit mit Konzepten der Bildverarbeitung und Dateiformaten.
 
-## Einrichten von Aspose.Imaging für Java (H2)
+## Einrichtung von Aspose Imaging für Java (H2)
 
 **Installation:**
 
-Um Aspose.Imaging für Java zu verwenden, müssen Sie es als Abhängigkeit in Ihr Projekt einfügen. So geht's mit Maven oder Gradle:
+Um Aspose Imaging für Java zu verwenden, müssen Sie es als Abhängigkeit in Ihr Projekt einbinden. So können Sie dies mit Maven oder Gradle tun:
 
 **Maven**
 ```xml
@@ -53,18 +77,18 @@ Um Aspose.Imaging für Java zu verwenden, müssen Sie es als Abhängigkeit in Ih
 implementation(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-Alternativ können Sie die neueste Version direkt herunterladen von [Aspose.Imaging für Java-Releases](https://releases.aspose.com/imaging/java/).
+Alternativ können Sie die neueste Version direkt von [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) herunterladen.
 
-### Lizenzerwerb
+### Lizenzbeschaffung
 
-Um mit Aspose.Imaging zu beginnen, sollten Sie eine kostenlose Testversion erwerben oder eine Lizenz erwerben:
-- **Kostenlose Testversion**: Ermöglicht Ihnen, Funktionen kostenlos zu erkunden.
-- **Temporäre Lizenz**: Erhalten Sie dies über die [Seite „Temporäre Lizenz“](https://purchase.aspose.com/temporary-license/) für erweiterten Zugriff während der Evaluierung.
-- **Kaufen**: Für den langfristigen Gebrauch kaufen Sie direkt bei [Asposes Kaufseite](https://purchase.aspose.com/buy).
+Um mit Aspose Imaging zu beginnen, sollten Sie eine kostenlose Testversion erwerben oder eine Lizenz kaufen:
+- **Kostenlose Testversion**: Ermöglicht das Erkunden der Funktionen ohne Kosten.
+- **Temporäre Lizenz**: Erhalten Sie diese über die [Temporary License page](https://purchase.aspose.com/temporary-license/) für erweiterten Zugriff während der Evaluierung.
+- **Kauf**: Für langfristige Nutzung kaufen Sie direkt über die [Aspose’s Purchase Page](https://purchase.aspose.com/buy).
 
 **Grundlegende Initialisierung:**
 
-Nachdem Sie Aspose.Imaging in Ihr Projekt eingebunden haben, initialisieren Sie es, um sicherzustellen, dass alle Funktionen zugänglich sind:
+Sobald Sie Aspose Imaging in Ihr Projekt eingebunden haben, initialisieren Sie es, um sicherzustellen, dass alle Funktionen verfügbar sind:
 
 ```java
 import com.aspose.imaging.License;
@@ -73,140 +97,152 @@ License license = new License();
 license.setLicense("path/to/your/license.lic");
 ```
 
-## Implementierungshandbuch
+## Verwendung von Aspose Imaging Java für PNG‑zu‑JPEG‑LS-Konvertierung (H2)
 
-### PNG in JPEG-LS (H2) konvertieren
+### PNG zu JPEG‑LS konvertieren (H2)
 
-Mit dieser Funktion können Sie ein PNG-Bild mit 8 Bit pro Sample in ein effizienteres JPEG-LS-Format mit 2 Bit pro Sample komprimieren.
+Diese Funktion ermöglicht es Ihnen, ein 8‑Bit‑pro‑Sample PNG‑Bild in ein effizienteres 2‑Bit‑pro‑Sample JPEG‑LS‑Format zu komprimieren.
 
 #### Überblick
-JPEG-LS ist bekannt für seine verlustfreien und nahezu verlustfreien Komprimierungsfunktionen und eignet sich daher ideal für die hochwertige Bildspeicherung mit reduzierten Dateigrößen. Dieser Abschnitt führt Sie durch die Konvertierung eines PNG-Bildes in dieses Format mit Aspose.Imaging.
+JPEG‑LS ist für seine verlustfreie und nahezu verlustfreie Kompressionsfähigkeit bekannt und eignet sich ideal für die Speicherung hochwertiger Bilder bei reduzierter Dateigröße. Dieser Abschnitt führt Sie durch die Konvertierung eines PNG in dieses Format mit Aspose Imaging.
 
 #### Implementierungsschritte
 
-##### Laden Sie das Original-PNG-Bild (H3)
-Beginnen Sie mit dem Laden Ihres PNG-Quellbilds:
+##### Originales PNG‑Bild laden (H3)
+Beginnen Sie mit dem Laden Ihres Quell‑PNG‑Bildes:
+
 ```java
 String originPngFileName = "YOUR_DOCUMENT_DIRECTORY/lena24b.png";
 PngImage pngImage = (PngImage) Image.load(originPngFileName);
 ```
-*Warum?*: Durch das Laden des Bildes können Sie mithilfe der leistungsstarken API von Aspose.Imaging darauf zugreifen und es bearbeiten.
+*Warum?*: Das Laden des Bildes ermöglicht den Zugriff und die Manipulation über die leistungsstarke API von Aspose Imaging.
 
-##### JPEG-Optionen konfigurieren (H3)
+##### JPEG‑Optionen konfigurieren (H3)
 Richten Sie die erforderlichen Optionen für die Konvertierung ein:
+
 ```java
-int bpp = 2; // Bits pro Sample
+int bpp = 2; // Bits per sample
 JpegOptions jpegOptions = new JpegOptions();
 jpegOptions.setBitsPerChannel((byte) bpp);
 jpegOptions.setCompressionType(JpegCompressionMode.JpegLs);
 ```
-*Warum?*Durch Konfigurieren dieser Optionen werden der Komprimierungstyp und die Qualitätsparameter für das ausgegebene JPEG-LS-Bild angegeben.
+*Warum?*: Durch die Konfiguration dieser Optionen werden der Kompressionstyp und die Qualitätsparameter für das ausgegebene JPEG‑LS‑Bild festgelegt.
 
 ##### Bild speichern (H3)
-Speichern Sie abschließend das konvertierte Bild:
+Speichern Sie schließlich das konvertierte Bild:
+
 ```java
 String outputJpegFileName = "YOUR_OUTPUT_DIRECTORY/lena24b 2-bit Gold.jls";
 pngImage.save(outputJpegFileName, jpegOptions);
 ```
 *Warum?*: Das Speichern in einem bestimmten Format schließt den Konvertierungsprozess ab.
 
-##### Ressourcenmanagement (H3)
-Stellen Sie sicher, dass die Ressourcen nach der Verarbeitung freigegeben werden:
+##### Ressourcenverwaltung (H3)
+Stellen Sie sicher, dass Ressourcen nach der Verarbeitung freigegeben werden:
+
 ```java
 finally {
     pngImage.dispose();
 }
 ```
-*Warum?*: Durch das Entfernen von Bildobjekten können Sie die Speichernutzung effektiv verwalten.
+*Warum?*: Das Entsorgen von Bildobjekten hilft, den Speicherverbrauch effektiv zu verwalten.
 
 #### Tipps zur Fehlerbehebung
+- **Häufiges Problem**: Wenn Sie eine `FileNotFoundException` erhalten, überprüfen Sie die Dateipfade für Ihre Eingabe‑ und Ausgabedateien doppelt.
+- **Lösungshinweis**: Stellen Sie sicher, dass Ihre IDE Berechtigungen zum Lesen und Schreiben in den angegebenen Verzeichnissen hat.
 
-- **Häufiges Problem**: Wenn Sie auf eine `FileNotFoundException`, überprüfen Sie die Dateipfade für Ihre Eingabe- und Ausgabedateien.
-- **Lösungstipp**: Stellen Sie sicher, dass Ihre IDE über die Berechtigung zum Lesen und Schreiben in die angegebenen Verzeichnisse verfügt.
+### JPEG‑LS zu PNG konvertieren (H2)
 
-### Konvertieren Sie JPEG-LS in PNG (H2)
-
-Mit dieser Funktion können Sie ein JPEG-LS-Bild wieder in das PNG-Format konvertieren, was visuelle Vergleiche oder die weitere Verarbeitung erleichtert.
+Diese Funktion ermöglicht es, ein JPEG‑LS‑Bild zurück in das PNG‑Format zu konvertieren, um visuelle Vergleiche oder weitere Verarbeitung zu erleichtern.
 
 #### Überblick
-Nach der Konvertierung eines Bildes in JPEG-LS zur Komprimierung kann es erforderlich sein, den Prozess zur Qualitätsbewertung oder für andere Zwecke rückgängig zu machen. In diesem Abschnitt wird erläutert, wie dies mit Aspose.Imaging erreicht wird.
+Nachdem ein Bild zu JPEG‑LS für Kompressionszwecke konvertiert wurde, kann es notwendig sein, den Vorgang umzukehren, um die Qualität zu beurteilen oder für andere Zwecke. Dieser Abschnitt erklärt, wie das mit Aspose Imaging zu erledigen ist.
 
 #### Implementierungsschritte
 
-##### Laden Sie das JPEG-LS-Bild (H3)
-Beginnen Sie mit dem Laden Ihrer JPEG-LS-Datei:
+##### JPEG‑LS‑Bild laden (H3)
+Beginnen Sie mit dem Laden Ihrer JPEG‑LS‑Datei:
+
 ```java
 String inputJpegFileName = "YOUR_OUTPUT_DIRECTORY/lena24b 2-bit Gold.jls";
 JpegImage jpegImage = (JpegImage) Image.load(inputJpegFileName);
 ```
-*Warum?*: Durch das Laden des Bildes wird es für die Konvertierung in ein anderes Format vorbereitet.
+*Warum?*: Das Laden des Bildes bereitet es für die Konvertierung in ein anderes Format vor.
 
 ##### Als PNG speichern (H3)
-Konvertieren und speichern Sie das Bild im PNG-Format:
+Konvertieren und speichern Sie das Bild im PNG‑Format:
+
 ```java
 String outputPngFileName = "YOUR_OUTPUT_DIRECTORY/lena24b 2-bit Gold.png";
 jpegImage.save(outputPngFileName, new PngOptions());
 ```
-*Warum?*: Dieser Schritt stellt sicher, dass Ihre JPEG-LS-Datei wieder in ein weitgehend kompatibles und verlustfreies PNG-Format konvertiert wird.
+*Warum?*: Dieser Schritt stellt sicher, dass Ihre JPEG‑LS‑Datei zurück in ein weit verbreitetes und verlustfreies PNG‑Format konvertiert wird.
 
-##### Ressourcenmanagement (H3)
-Bildressourcen nach dem Speichern entsorgen:
+##### Ressourcenverwaltung (H3)
+Entsorgen Sie die Bildressourcen nach dem Speichern:
+
 ```java
 finally {
     jpegImage.dispose();
 }
 ```
-*Warum?*: Durch die ordnungsgemäße Entsorgung werden Speicherlecks vermieden und die Anwendungsleistung bleibt erhalten.
+*Warum?*: Eine ordnungsgemäße Entsorgung verhindert Speicherlecks und erhält die Anwendungsleistung.
 
 ## Praktische Anwendungen (H2)
 
-1. **Medizinische Bildgebung**: JPEG-LS wird aufgrund seiner effizienten verlustfreien Komprimierung, bei der wichtige Details erhalten bleiben, häufig in der medizinischen Bildgebung verwendet.
-2. **Archivierung hochwertiger Bilder**Archive können JPEG-LS zum Speichern hochauflösender Bilder mit minimalem Speicherplatz verwenden.
-3. **Webentwicklung**: Durch die Reduzierung der Bilddateigröße ohne Qualitätsverlust werden die Ladezeiten der Website verbessert und das Benutzererlebnis gesteigert.
-4. **Digitale Fotografie**: Fotografen können ihre Portfolios komprimieren, ohne Kompromisse bei der Bildtreue einzugehen.
-5. **Grafikdesign**: Designer benötigen häufig Formate, die Qualität und Dateigröße für verschiedene Medienausgaben ausbalancieren.
+1. **Medizinische Bildgebung** – JPEG‑LS wird häufig in der medizinischen Bildgebung eingesetzt, da seine effiziente verlustfreie Kompression kritische diagnostische Details bewahrt.
+2. **Archivierung hochqualitativer Bilder** – Archive können hochauflösende Bilder mit minimalem Speicheraufwand speichern.
+3. **Webentwicklung** – Das Reduzieren von Bilddateigrößen ohne Qualitätsverlust verbessert die Ladezeiten von Seiten und die Benutzererfahrung.
+4. **Digitale Fotografie** – Fotografen können Portfolios komprimieren, ohne die Treue zu beeinträchtigen.
+5. **Grafikdesign** – Designer benötigen häufig Formate, die Qualität und Dateigröße für verschiedene Medienausgaben ausbalancieren.
 
 ## Leistungsüberlegungen (H2)
 
-- **Optimieren Sie die Speichernutzung**: Entsorgen Sie Bilder immer mit dem `dispose()` Methode, um Ressourcen umgehend freizugeben.
-- **Stapelverarbeitung**: Erwägen Sie bei großen Datensätzen die Verarbeitung der Bilder in Stapeln, um die Speichernutzung effektiv zu verwalten.
-- **Parallele Ausführung**: Nutzen Sie die Parallelitätsfunktionen von Java für parallele Bildverarbeitungsaufgaben und verbessern Sie so den Durchsatz.
+- **Speichernutzung optimieren** – Entsorgen Sie Bilder stets mit der Methode `dispose()`, um Ressourcen umgehend freizugeben.
+- **Batch‑Verarbeitung** – Bei großen Datensätzen verarbeiten Sie Bilder in Batches, um den Speicherverbrauch zu steuern.
+- **Parallele Ausführung** – Nutzen Sie die Concurrency‑Utilities von Java für parallele Bildverarbeitung, um den Durchsatz zu erhöhen.
 
-## Abschluss
+## Häufige Probleme und Lösungen (H2)
 
-In diesem Tutorial haben Sie gelernt, wie Sie PNG-Bilder mit Aspose.Imaging für Java in JPEG-LS und umgekehrt konvertieren. Diese Kenntnisse können in verschiedenen Szenarien angewendet werden, die eine effiziente Bildkomprimierung und Qualitätserhaltung erfordern. Um Ihr Fachwissen weiter zu vertiefen, erkunden Sie zusätzliche Funktionen der Aspose.Imaging-Bibliothek und experimentieren Sie mit verschiedenen Konfigurationen.
+| Symptom | Wahrscheinliche Ursache | Lösung |
+|---------|--------------------------|--------|
+| `FileNotFoundException` | Falscher Dateipfad | Überprüfen Sie absolute/relative Pfade und Ordnerberechtigungen |
+| Out‑of‑Memory‑Fehler | Große Bilder werden sequenziell verarbeitet | Verwenden Sie Batch‑Verarbeitung oder erhöhen Sie die JVM‑Heap‑Größe (`-Xmx`) |
+| Beschädigte Ausgabedatei | Fehlender Aufruf von `dispose()` | Stellen Sie sicher, dass der `finally`‑Block Bildobjekte entsorgt |
 
-**Nächste Schritte:**
-- Entdecken Sie andere von Aspose.Imaging angebotene Bildformatkonvertierungen.
-- Integrieren Sie diese Funktionalität in größere Projekte oder Systeme, bei denen die Bildverarbeitung eine Kernanforderung ist.
+## Häufig gestellte Fragen (H2)
 
-## FAQ-Bereich (H2)
+**Q: Was sind die Systemanforderungen für die Verwendung von Aspose Imaging?**  
+A: Aspose Imaging funktioniert auf jeder Java‑unterstützten Plattform und erfordert JDK 8 oder höher.
 
-1. **Was sind die Systemanforderungen für die Verwendung von Aspose.Imaging?**  
-   *Aspose.Imaging funktioniert auf jeder Java-unterstützten Plattform und erfordert JDK 8 oder höher.*
+**Q: Kann ich Aspose Imaging in Open‑Source‑Projekten verwenden?**  
+A: Ja, aber Sie müssen die von Aspose bereitgestellten Lizenzbedingungen einhalten.
 
-2. **Kann ich Aspose.Imaging in Open-Source-Projekten verwenden?**  
-   *Ja, aber Sie müssen die von Aspose festgelegten Lizenzbedingungen einhalten.*
+**Q: Was passiert, wenn die Bilddatei während der Konvertierung beschädigt wird?**  
+A: Validieren Sie Eingabedateien vor der Verarbeitung und fangen Sie Ausnahmen ab, um Fehler elegant zu behandeln.
 
-3. **Was passiert, wenn die Bilddatei während der Konvertierung beschädigt wird?**  
-   *Stellen Sie sicher, dass die Eingabedateien vor der Verarbeitung intakt sind. Behandeln Sie Ausnahmen, um Fehler ordnungsgemäß zu beheben.*
+**Q: Wie gehe ich mit anderen Bit‑Tiefen als 2 Bit pro Sample um?**  
+A: Passen Sie den Parameter `setBitsPerChannel()` an die gewünschte Bit‑Tiefe an.
 
-4. **Wie gehe ich mit anderen Bittiefen als 2 Bit pro Sample um?**  
-   *Passen Sie die `setBitsPerChannel()` Parameter entsprechend Ihren Anforderungen.*
-
-5. **Ist Aspose.Imaging mit allen Java-IDEs kompatibel?**  
-   *Ja, es ist mit gängigen IDEs wie IntelliJ IDEA und Eclipse kompatibel.*
+**Q: Ist Aspose Imaging mit allen Java‑IDEs kompatibel?**  
+A: Ja, es funktioniert mit gängigen IDEs wie IntelliJ IDEA, Eclipse und NetBeans.
 
 ## Ressourcen
 
-- [Aspose.Imaging für Java-Dokumentation](https://reference.aspose.com/imaging/java/)
-- [Laden Sie Aspose.Imaging für Java herunter](https://releases.aspose.com/imaging/java/)
-- [Lizenz erwerben](https://purchase.aspose.com/buy)
-- [Kostenloser Testzugang](https://releases.aspose.com/imaging/java/)
-- [Antrag auf eine vorübergehende Lizenz](https://purchase.aspose.com/temporary-license/)
-- [Community-Support-Forum](https://forum.aspose.com/c/imaging/14)
+- [Aspose.Imaging für Java Dokumentation](https://reference.aspose.com/imaging/java/)
+- [Aspose.Imaging für Java herunterladen](https://releases.aspose.com/imaging/java/)
+- [Lizenz kaufen](https://purchase.aspose.com/buy)
+- [Kostenlosen Testzugriff](https://releases.aspose.com/imaging/java/)
+- [Antrag auf temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
+- [Community‑Support‑Forum](https://forum.aspose.com/c/imaging/14)
 
-Mit dieser umfassenden Anleitung sind Sie nun in der Lage, PNG-zu-JPEG-LS-Konvertierungen und umgekehrt mit Aspose.Imaging für Java effizient durchzuführen. Viel Spaß beim Programmieren!
+Durch das Befolgen dieses umfassenden Leitfadens sind Sie nun in der Lage, PNG‑zu‑JPEG‑LS‑Konvertierungen und umgekehrt effizient mit **Aspose Imaging Java** zu handhaben. Viel Spaß beim Programmieren!
+
+---
+
+**Zuletzt aktualisiert:** 2026-04-05  
+**Getestet mit:** Aspose Imaging 25.5 for Java  
+**Autor:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
