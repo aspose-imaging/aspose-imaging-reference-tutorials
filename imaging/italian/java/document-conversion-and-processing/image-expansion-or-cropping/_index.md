@@ -1,10 +1,12 @@
 ---
-"description": "Impara a espandere e ritagliare le immagini in Java con Aspose.Imaging. Tutorial passo passo per sviluppatori. Migliora le tue capacità di manipolazione delle immagini."
-"linktitle": "Espansione o ritaglio dell'immagine"
-"second_title": "API di elaborazione delle immagini Java Aspose.Imaging"
-"title": "Espansione o ritaglio delle immagini con Aspose.Imaging per Java"
-"url": "/it/java/document-conversion-and-processing/image-expansion-or-cropping/"
-"weight": 12
+date: 2025-12-20
+description: Impara come ritagliare un'immagine in un rettangolo ed espandere l'immagine
+  usando Java con Aspose.Imaging. Guida passo‑passo per sviluppatori.
+linktitle: Image Expansion or Cropping
+second_title: Aspose.Imaging Java Image Processing API
+title: Ritaglia l'immagine a rettangolo con Aspose.Imaging per Java
+url: /it/java/document-conversion-and-processing/image-expansion-or-cropping/
+weight: 12
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,44 +15,44 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Espansione o ritaglio delle immagini con Aspose.Imaging per Java
+# Ritagliare l'immagine a rettangolo con Aspose.Imaging per Java
 
-Nel mondo in continua evoluzione dei media digitali, la manipolazione efficace delle immagini è un'esigenza fondamentale sia per le aziende che per i privati. Aspose.Imaging per Java è una libreria Java versatile che permette di lavorare con le immagini senza sforzo. In questo tutorial completo, vi guideremo attraverso il processo di espansione e ritaglio delle immagini utilizzando Aspose.Imaging per Java. Che siate sviluppatori esperti o alle prime armi con la programmazione, analizzeremo ogni passaggio in modo semplice e intuitivo.
+Nel mondo digitale di oggi, in rapida evoluzione, la capacità di **crop image to rectangle** in modo rapido e affidabile è un requisito fondamentale per qualsiasi flusso di lavoro di immagini basato su Java. Che tu stia creando un servizio web che deve ritagliare foto caricate dagli utenti, generare miniature per un catalogo e‑commerce, o semplicemente preparare risorse per una campagna di marketing, Aspose.Imaging per Java ti offre un'API pulita e ad alte prestazioni per svolgere il lavoro. In questo tutorial vedremo sia come ritagliare un rettangolo da un'immagine sia come espandere la tela di un'immagine usando Java—perfetto per chiunque desideri padroneggiare le tecniche **how to crop image java**.
+
+## Risposte rapide
+- **Qual è la libreria migliore per il ritaglio di immagini Java?** Aspose.Imaging for Java.
+- **Posso ritagliare un rettangolo arbitrario?** Yes – define any X, Y, width, and height.
+- **Ho bisogno di una licenza per lo sviluppo?** A free trial works for testing; a license is required for production.
+- **È possibile espandere un'immagine?** Absolutely – you can increase canvas size before cropping.
+- **Quale versione di Java è supportata?** Java 8 and newer.
+
+## Cos'è “crop image to rectangle”?
+Ritagliare un'immagine a rettangolo significa estrarre una sotto‑sezione del bitmap originale definita da una regione rettangolare (X‑offset, Y‑offset, larghezza, altezza). Il resto dell'immagine viene scartato, lasciandoti con una nuova immagine più piccola che contiene solo l'area di cui hai bisogno.
+
+## Perché usare Aspose.Imaging per Java?
+- **Nessuna dipendenza esterna** – pure Java, works on any platform.
+- **Ampio supporto di formati** – JPEG, PNG, BMP, TIFF, and more.
+- **Caching ad alte prestazioni** – `cacheData()` reduces I/O overhead.
+- **API semplice** – one‑line calls for loading, defining a rectangle, and saving.
 
 ## Prerequisiti
+- **Ambiente di sviluppo Java** – JDK 8+ installed and configured.
+- **Aspose.Imaging per Java** – download from the [website](https://releases.aspose.com/imaging/java/).
+- **Conoscenza di base di Java** – familiarity with classes, try‑with‑resources, and file paths.
+- **Immagine da elaborare** – any JPEG/PNG you’d like to crop or expand.
 
-Prima di immergerti nell'entusiasmante mondo dell'espansione e del ritaglio delle immagini, ecco alcuni prerequisiti che dovresti avere:
-
-### Ambiente di sviluppo Java
-
-Assicurati di avere un ambiente di sviluppo Java installato sul tuo sistema. Se non l'hai già fatto, scarica e installa l'ultima versione di Java.
-
-### Aspose.Imaging per Java
-
-È necessario che Aspose.Imaging per Java sia installato sul sistema. Se non lo hai ancora, puoi scaricarlo da [sito web](https://releases.aspose.com/imaging/java/).
-
-### Conoscenza di base di Java
-
-La familiarità con la programmazione Java è essenziale. Se non hai familiarità con Java, valuta la possibilità di impararne le basi prima di procedere.
-
-### Immagine con cui lavorare
-
-Prepara un'immagine che vuoi ingrandire o ritagliare. Puoi usare qualsiasi immagine tu preferisca. Assicurati di inserirla in una directory e di averne il percorso pronto.
-
-## Importazione di pacchetti
-
-Nell'esempio seguente, inizieremo importando i pacchetti necessari e poi passeremo ai passaggi principali per la manipolazione delle immagini. Iniziamo.
+## Importazione dei pacchetti
+Per prima cosa, indica al codice la cartella che contiene le tue immagini di origine. Questo frammento rimane invariato rispetto al tutorial originale.
 
 ```java
-// Percorso verso la directory dei documenti.
+// The path to the documents directory.
 String dataDir = "Your Document Directory" + "ConvertingImages/";
 ```
 
-In questo frammento di codice, specifichiamo la directory dati in cui sono archiviate le nostre immagini. Sostituisci `"Your Document Directory"` con il percorso effettivo della tua directory.
+Sostituisci `"Your Document Directory"` con il percorso assoluto sul tuo computer.
 
-## Passaggio 1: caricare l'immagine
-
-Il primo passo nella manipolazione delle immagini è caricare l'immagine con cui si desidera lavorare. Caricheremo un'immagine e la imposteremo per l'acquisizione dei dati immagine. Segui questi passaggi:
+## Passo 1: Carica l'immagine
+Caricare l'immagine è la base per qualsiasi manipolazione. Chiamiamo anche `cacheData()` per mantenere il bitmap in memoria per operazioni successive più rapide.
 
 ```java
 try (RasterImage rasterImage = (RasterImage) Image.load(dataDir + "aspose-logo.jpg"))
@@ -59,56 +61,65 @@ try (RasterImage rasterImage = (RasterImage) Image.load(dataDir + "aspose-logo.j
 }
 ```
 
-Qui carichiamo l'immagine denominata "aspose-logo.jpg" dalla directory specificata. `cacheData()` metodo memorizza nella cache i dati dell'immagine per un'ulteriore elaborazione.
+> **Consiglio professionale:** Usa un blocco `try‑with‑resources` (come mostrato) per garantire che l'immagine venga chiusa automaticamente, evitando perdite di memoria.
 
-## Passaggio 2: definire la regione per il ritaglio
-
-In questa fase, definiamo l'area (rettangolo) dell'immagine che vogliamo ritagliare. Specifichiamo le coordinate X e Y, nonché la larghezza e l'altezza del rettangolo.
+## Passo 2: Definisci la regione per il ritaglio
+Qui creiamo un `Rectangle` che rappresenta l'area esatta che desideri conservare. Il rettangolo può iniziare al di fuori dei limiti originali – Aspose.Imaging espanderà automaticamente la tela (utile per lo scenario **expand image using java**).
 
 ```java
-// Crea un'istanza della classe Rectangle e definisci X, Y, Larghezza e Altezza del rettangolo
+// Create an instance of Rectangle class and define X, Y, Width, and Height of the rectangle
 Rectangle destRect = new Rectangle(-200, -200, 300, 300);
 ```
 
-In questo codice, creiamo un'istanza di `Rectangle` classe e impostarne le proprietà per determinare l'area di ritaglio. Regola i valori in base alle tue specifiche esigenze di ritaglio.
+- **X / Y** – i valori negativi spostano il rettangolo a sinistra/alto, facendo espandere la tela.
+- **Larghezza / Altezza** – dimensione della regione ritagliata.
 
-## Passaggio 3: salva l'immagine ritagliata
-
-Il passaggio finale consiste nel salvare l'immagine ritagliata nella posizione desiderata. Utilizziamo il `save()` metodo per farlo. 
+## Passo 3: Salva l'immagine ritagliata (o espansa)
+Infine, scrivi il risultato su disco. Il metodo `save` accetta il percorso di destinazione, le opzioni di formato immagine e il rettangolo che abbiamo definito.
 
 ```java
 rasterImage.save("Your Document Directory" + "Grayscaling_out.jpg", new JpegOptions(), destRect);
 ```
 
-In questo frammento, salviamo l'immagine ritagliata con il nome "Grayscaling_out.jpg" nella directory specificata. `JpegOptions()` ci permettono di specificare il formato dell'immagine per il salvataggio e `destRect` è la regione che abbiamo definito per il ritaglio.
+Il file di output `Grayscaling_out.jpg` ora contiene il risultato di **crop image to rectangle**. Se il rettangolo si estendeva oltre l'immagine originale, l'area extra viene riempita con uno sfondo predefinito (trasparente per PNG, nero per JPEG).
 
-Ecco fatto! Hai espanso o ritagliato con successo un'immagine utilizzando Aspose.Imaging per Java. Questa potente libreria semplifica il complesso processo di manipolazione delle immagini.
+## Casi d'uso comuni
+| Scenario | Perché è importante |
+|----------|----------------------|
+| **Generazione di miniature** | Estrai rapidamente una regione centrale per dimensioni coerenti. |
+| **Ritaglio dell'immagine del profilo utente** | Imponi un'area avatar quadrata o rettangolare. |
+| **Espansione della tela prima di aggiungere filigrane** | Aggiungi spazio attorno a un'immagine senza distorcere l'originale. |
+| **Elaborazione batch di documenti scansionati** | Ritaglia i margini in un'unica passata. |
 
-## Conclusione
-
-Aspose.Imaging per Java è uno strumento prezioso per qualsiasi sviluppatore Java che desideri lavorare con le immagini. In questo tutorial, abbiamo illustrato i passaggi essenziali per l'espansione e il ritaglio delle immagini. Con le giuste conoscenze e questa libreria a disposizione, puoi creare facilmente immagini straordinarie, personalizzate in base alle tue esigenze specifiche.
+## Risoluzione dei problemi e consigli
+- **Immagine non si carica?** Verifica il percorso del file e assicurati che il formato immagine sia supportato.
+- **Bordi neri inaspettati dopo l'espansione?** Imposta un colore di sfondo in `JpegOptions` o usa PNG per la trasparenza.
+- **Problemi di prestazioni con immagini grandi?** Aumenta la dimensione dell'heap Java (`-Xmx`) o elabora le immagini in batch più piccoli.
 
 ## Domande frequenti
+**Q: Quali formati immagine supporta Aspose.Imaging per Java?**  
+A: JPEG, PNG, BMP, TIFF, GIF, ICO, PSD, and many more. See the official docs for the full list.
 
-### D1: Quali formati di immagine supporta Aspose.Imaging per Java?
-   
-R1: Aspose.Imaging per Java supporta un'ampia gamma di formati immagine, tra cui JPEG, PNG, BMP, TIFF e altri. L'elenco completo è disponibile nella documentazione.
+**Q: Posso eseguire altre manipolazioni di immagini con Aspose.Imaging per Java?**  
+A: Absolutely! Resizing, rotation, filtering, and format conversion are all available.
 
-### D2: Posso eseguire altre manipolazioni delle immagini con Aspose.Imaging per Java?
+**Q: Aspose.Imaging per Java è adatto per applicazioni web?**  
+A: Yes. The library is thread‑safe and works well in servlet containers and Spring Boot services.
 
-R2: Assolutamente! Aspose.Imaging per Java offre una varietà di funzionalità, come il ridimensionamento, la rotazione e l'applicazione di filtri. Consulta la documentazione per informazioni dettagliate.
+**Q: Come posso ottenere supporto per Aspose.Imaging per Java?**  
+A: Visit the [forum](https://forum.aspose.com/) for community help, or open a support ticket with a valid license.
 
-### D3: Aspose.Imaging per Java è adatto alle applicazioni web?
+**Q: È disponibile una versione di prova gratuita per Aspose.Imaging per Java?**  
+A: Yes, you can explore the library with a free trial. Download it from [here](https://releases.aspose.com/).
 
-R3: Sì, Aspose.Imaging per Java è adatto alle applicazioni web e può essere integrato nei progetti web basati su Java.
+## Conclusione
+Hai ora imparato come **crop image to rectangle** e persino **expand image using Java** con la potente API di Aspose.Imaging. Padroneggiando questi fondamenti puoi costruire pipeline di elaborazione immagini robuste, migliorare la reattività dell'interfaccia utente e fornire contenuti visivi di alta qualità in qualsiasi applicazione Java.
 
-### D4: Come posso ottenere supporto per Aspose.Imaging per Java?
+---
 
-A4: Puoi ottenere supporto dalla comunità Aspose visitando il [foro](https://forum.aspose.com/).
-
-### D5: È disponibile una versione di prova gratuita di Aspose.Imaging per Java?
-
-A5: Sì, puoi esplorare la libreria con una prova gratuita. Scaricala da [Qui](https://releases.aspose.com/).
+**Ultimo aggiornamento:** 2025-12-20  
+**Testato con:** Aspose.Imaging for Java 24.11 (latest at time of writing)  
+**Autore:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
