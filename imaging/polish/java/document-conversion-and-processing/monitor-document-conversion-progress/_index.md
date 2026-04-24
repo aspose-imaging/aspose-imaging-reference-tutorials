@@ -159,6 +159,12 @@ A: Odwiedź [stronę tymczasowej licencji](https://purchase.aspose.com/temporary
 **Q: Gdzie mogę uzyskać wsparcie społeczności?**  
 A: Forum wsparcia Aspose dostępne pod adresem [forum.aspose.com](https://forum.aspose.com/) to świetne miejsce na zadawanie pytań i dzielenie się rozwiązaniami.
 
+---
+
+**Last Updated:** 2025-12-20  
+**Tested With:** Aspose.Imaging for Java 24.12 (latest)  
+**Author:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -166,9 +172,3 @@ A: Forum wsparcia Aspose dostępne pod adresem [forum.aspose.com](https://forum.
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Last Updated:** 2025-12-20  
-**Tested With:** Aspose.Imaging for Java 24.12 (latest)  
-**Author:** Aspose

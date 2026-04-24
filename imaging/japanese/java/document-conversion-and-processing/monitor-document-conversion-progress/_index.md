@@ -163,14 +163,6 @@ A: [一時ライセンスページ](https://purchase.aspose.com/temporary-licens
 **Q: コミュニティサポートはどこで受けられますか？**  
 A: Aspose の [サポートフォーラム](https://forum.aspose.com/) が質問や解決策の共有に最適です。
 
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
-
 ---
 
 **最終更新日:** 2025-12-20  
@@ -178,3 +170,11 @@ A: Aspose の [サポートフォーラム](https://forum.aspose.com/) が質問
 **作成者:** Aspose  
 
 ---
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

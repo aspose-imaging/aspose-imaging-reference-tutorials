@@ -160,14 +160,6 @@ static void exportProgressCallback(ProgressEventHandlerInfo info) {
 **В: Где можно получить поддержку сообщества?**  
 О: Форум Aspose [support forum](https://forum.aspose.com/) — отличное место для вопросов и обмена решениями.
 
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
-
 ---
 
 **Последнее обновление:** 2025-12-20  
@@ -175,3 +167,11 @@ static void exportProgressCallback(ProgressEventHandlerInfo info) {
 **Автор:** Aspose  
 
 ---
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

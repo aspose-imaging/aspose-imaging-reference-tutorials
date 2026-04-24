@@ -160,14 +160,6 @@ A: Besuchen Sie die [Seite für temporäre Lizenzen](https://purchase.aspose.com
 **F: Wo kann ich Community‑Support erhalten?**  
 A: Das Aspose‑[Support‑Forum](https://forum.aspose.com/) ist ein großartiger Ort, um Fragen zu stellen und Lösungen zu teilen.
 
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
-
 ---
 
 **Zuletzt aktualisiert:** 2025-12-20  
@@ -175,3 +167,11 @@ A: Das Aspose‑[Support‑Forum](https://forum.aspose.com/) ist ein großartige
 **Autor:** Aspose  
 
 ---
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

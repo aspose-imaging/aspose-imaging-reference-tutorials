@@ -160,6 +160,12 @@ A: [अस्थायी लाइसेंस पेज](https://purchase.aspo
 **Q: समुदाय समर्थन कहाँ से प्राप्त कर सकता हूँ?**  
 A: Aspose का [सपोर्ट फ़ोरम](https://forum.aspose.com/) प्रश्न पूछने और समाधान साझा करने के लिए एक बेहतरीन जगह है।
 
+---
+
+**अंतिम अपडेट:** 2025-12-20  
+**परीक्षित संस्करण:** Aspose.Imaging for Java 24.12 (latest)  
+**लेखक:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -167,9 +173,3 @@ A: Aspose का [सपोर्ट फ़ोरम](https://forum.aspose.com/)
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**अंतिम अपडेट:** 2025-12-20  
-**परीक्षित संस्करण:** Aspose.Imaging for Java 24.12 (latest)  
-**लेखक:** Aspose

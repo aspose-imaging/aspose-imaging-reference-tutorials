@@ -159,6 +159,12 @@ A: Besök [temporär licens‑sida](https://purchase.aspose.com/temporary-licens
 **Q: Var kan jag få community‑support?**  
 A: Aspose [supportforum](https://forum.aspose.com/) är en bra plats för att ställa frågor och dela lösningar.
 
+---
+
+**Senast uppdaterad:** 2025-12-20  
+**Testad med:** Aspose.Imaging for Java 24.12 (latest)  
+**Författare:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -166,9 +172,3 @@ A: Aspose [supportforum](https://forum.aspose.com/) är en bra plats för att st
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Senast uppdaterad:** 2025-12-20  
-**Testad med:** Aspose.Imaging for Java 24.12 (latest)  
-**Författare:** Aspose

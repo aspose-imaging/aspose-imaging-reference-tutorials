@@ -160,6 +160,12 @@ R: Visita la [pagina della licenza temporanea](https://purchase.aspose.com/tempo
 **D: Dove posso trovare supporto dalla community?**  
 R: Il [forum di supporto Aspose](https://forum.aspose.com/) è un ottimo luogo per porre domande e condividere soluzioni.
 
+---
+
+**Ultimo aggiornamento:** 2025-12-20  
+**Testato con:** Aspose.Imaging per Java 24.12 (latest)  
+**Autore:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -167,9 +173,3 @@ R: Il [forum di supporto Aspose](https://forum.aspose.com/) è un ottimo luogo p
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Ultimo aggiornamento:** 2025-12-20  
-**Testato con:** Aspose.Imaging per Java 24.12 (latest)  
-**Autore:** Aspose

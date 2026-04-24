@@ -160,14 +160,6 @@ Bạn có thể thay `Logger.printf` bằng bất kỳ logic cập nhật UI nà
 **H: Tôi có thể nhận hỗ trợ cộng đồng ở đâu?**  
 Đ: Diễn đàn [hỗ trợ Aspose](https://forum.aspose.com/) là nơi tốt để đặt câu hỏi và chia sẻ giải pháp.
 
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
-
 ---
 
 **Cập nhật lần cuối:** 2025-12-20  
@@ -175,3 +167,11 @@ Bạn có thể thay `Logger.printf` bằng bất kỳ logic cập nhật UI nà
 **Tác giả:** Aspose  
 
 ---
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

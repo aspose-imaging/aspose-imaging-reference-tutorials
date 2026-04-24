@@ -160,6 +160,12 @@ A: Látogassa meg az [ideiglenes licenc oldalát](https://purchase.aspose.com/te
 **Q: Hol kaphatok közösségi támogatást?**  
 A: Az Aspose [támogatási fórum](https://forum.aspose.com/) kiváló hely kérdések feltevésére és megoldások megosztására.
 
+---
+
+**Utolsó frissítés:** 2025-12-20  
+**Tesztelve a következővel:** Aspose.Imaging for Java 24.12 (legújabb)  
+**Szerző:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -167,9 +173,3 @@ A: Az Aspose [támogatási fórum](https://forum.aspose.com/) kiváló hely kér
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Utolsó frissítés:** 2025-12-20  
-**Tesztelve a következővel:** Aspose.Imaging for Java 24.12 (legújabb)  
-**Szerző:** Aspose

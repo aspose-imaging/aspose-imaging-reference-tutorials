@@ -160,14 +160,6 @@ static void exportProgressCallback(ProgressEventHandlerInfo info) {
 **Ε: Πού μπορώ να βρω υποστήριξη από την κοινότητα;**  
 Α: Το [φόρουμ υποστήριξης Aspose](https://forum.aspose.com/) είναι ένας εξαιρετικός τόπος για ερωτήσεις και ανταλλαγή λύσεων.
 
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
-
 ---
 
 **Τελευταία ενημέρωση:** 2025-12-20  
@@ -175,3 +167,11 @@ static void exportProgressCallback(ProgressEventHandlerInfo info) {
 **Συγγραφέας:** Aspose  
 
 ---
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

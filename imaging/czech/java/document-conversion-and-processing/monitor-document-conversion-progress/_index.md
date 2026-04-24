@@ -159,6 +159,12 @@ A: Navštivte [stránku dočasné licence](https://purchase.aspose.com/temporary
 **Q: Kde mohu získat podporu komunity?**  
 A: Aspose [support forum](https://forum.aspose.com/) je skvělé místo pro kladení otázek a sdílení řešení.
 
+---
+
+**Poslední aktualizace:** 2025-12-20  
+**Testováno s:** Aspose.Imaging for Java 24.12 (latest)  
+**Autor:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -166,9 +172,3 @@ A: Aspose [support forum](https://forum.aspose.com/) je skvělé místo pro klad
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Poslední aktualizace:** 2025-12-20  
-**Testováno s:** Aspose.Imaging for Java 24.12 (latest)  
-**Autor:** Aspose

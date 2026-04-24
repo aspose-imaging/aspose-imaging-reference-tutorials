@@ -160,14 +160,6 @@ J: Kunjungi [halaman lisensi sementara](https://purchase.aspose.com/temporary-li
 **T: Di mana saya dapat mendapatkan dukungan komunitas?**  
 J: Forum [dukungan Aspose](https://forum.aspose.com/) adalah tempat yang bagus untuk mengajukan pertanyaan dan berbagi solusi.
 
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
-
 ---
 
 **Terakhir Diperbarui:** 2025-12-20  
@@ -175,3 +167,11 @@ J: Forum [dukungan Aspose](https://forum.aspose.com/) adalah tempat yang bagus u
 **Penulis:** Aspose  
 
 ---
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

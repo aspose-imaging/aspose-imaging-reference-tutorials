@@ -157,6 +157,12 @@ A: Visite a [página de licença temporária](https://purchase.aspose.com/tempor
 **Q: Onde posso obter suporte da comunidade?**  
 A: O [fórum de suporte da Aspose](https://forum.aspose.com/) é um ótimo lugar para fazer perguntas e compartilhar soluções.
 
+---
+
+**Última Atualização:** 2025-12-20  
+**Testado com:** Aspose.Imaging for Java 24.12 (latest)  
+**Autor:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -164,9 +170,3 @@ A: O [fórum de suporte da Aspose](https://forum.aspose.com/) é um ótimo lugar
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Última Atualização:** 2025-12-20  
-**Testado com:** Aspose.Imaging for Java 24.12 (latest)  
-**Autor:** Aspose

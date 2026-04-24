@@ -158,6 +158,12 @@ A: เยี่ยมชม [temporary license page](https://purchase.aspose.com
 **Q: จะหาแหล่งสนับสนุนจากชุมชนได้จากที่ไหน?**  
 A: ฟอรั่ม [support forum](https://forum.aspose.com/) ของ Aspose เป็นสถานที่ที่ดีสำหรับถามคำถามและแบ่งปันวิธีแก้  
 
+---
+
+**อัปเดตล่าสุด:** 2025-12-20  
+**ทดสอบด้วย:** Aspose.Imaging for Java 24.12 (latest)  
+**ผู้เขียน:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -165,9 +171,3 @@ A: ฟอรั่ม [support forum](https://forum.aspose.com/) ของ Aspos
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**อัปเดตล่าสุด:** 2025-12-20  
-**ทดสอบด้วย:** Aspose.Imaging for Java 24.12 (latest)  
-**ผู้เขียน:** Aspose

@@ -158,6 +158,12 @@ static void exportProgressCallback(ProgressEventHandlerInfo info) {
 **问：在哪里可以获得社区支持？**  
 **答：** Aspose 的 [支持论坛](https://forum.aspose.com/) 是提问和分享解决方案的好地方。
 
+---
+
+**Last Updated:** 2025-12-20  
+**Tested With:** Aspose.Imaging for Java 24.12 (latest)  
+**Author:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -165,9 +171,3 @@ static void exportProgressCallback(ProgressEventHandlerInfo info) {
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Last Updated:** 2025-12-20  
-**Tested With:** Aspose.Imaging for Java 24.12 (latest)  
-**Author:** Aspose
