@@ -1,6 +1,6 @@
 ---
-title: Java Image Processing Tutorial: Understanding RGB Color System
-linktitle: Java Image Processing Tutorial: Understanding RGB Color System
+title: Java Image Processing Tutorial - Understanding RGB Color System
+linktitle: Java Image Processing Tutorial - Understanding RGB Color System
 second_title: Aspose.Imaging Java Image Processing API
 description: Learn how to perform a Java image processing tutorial with Aspose.Imaging, covering the RGB color system, image conversion, and practical code examples.
 weight: 17
