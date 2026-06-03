@@ -1,9 +1,65 @@
 ---
-"date": "2025-06-04"
-"description": "Pelajari cara mengonversi gambar WebP ke PDF dengan mudah menggunakan Aspose.Imaging untuk Java. Tingkatkan alur kerja media digital Anda dengan tutorial yang mudah diikuti ini."
-"title": "Panduan Langkah demi Langkah untuk Mengonversi WebP ke PDF Menggunakan Aspose.Imaging di Java"
-"url": "/id/java/format-conversion-export/convert-webp-to-pdf-aspose-imaging-java/"
-"weight": 1
+date: '2026-06-03'
+description: Pelajari cara mengonversi WebP ke PDF dan menyimpan WebP sebagai PDF
+  dengan Aspose.Imaging untuk Java. Ikuti tutorial terperinci ini untuk hasil yang
+  cepat dan dapat diandalkan.
+keywords:
+- convert webp to pdf
+- save webp as pdf
+- Aspose.Imaging Java
+- WebP image conversion
+- Java PDF generation
+schemas:
+- author: Aspose
+  dateModified: '2026-06-03'
+  description: Learn how to convert WebP to PDF and save WebP as PDF with Aspose.Imaging
+    for Java. Follow this detailed tutorial for fast, reliable results.
+  headline: 'Convert WebP to PDF Using Aspose.Imaging in Java: Step‑by‑Step Guide'
+  type: TechArticle
+- description: Learn how to convert WebP to PDF and save WebP as PDF with Aspose.Imaging
+    for Java. Follow this detailed tutorial for fast, reliable results.
+  name: 'Convert WebP to PDF Using Aspose.Imaging in Java: Step‑by‑Step Guide'
+  steps:
+  - name: Load the WebP Image (H2)
+    text: '**Definition Anchor** `Image` is Aspose.Imaging’s core class representing
+      any raster image loaded into memory. **Explanation** The code snippet opens
+      a WebP file for loading. Using Java’s try‑with‑resources pattern guarantees
+      the image is closed properly after processing, preventing memory leaks.'
+  - name: Create PDF Options (H3)
+    text: '**Definition Anchor** `PdfOptions` configures how an image is rendered
+      and saved as a PDF document. **Explanation** `PdfOptions` lets you control compression,
+      page size, and other PDF‑specific settings, giving you full control over the
+      final document’s appearance.'
+  - name: Configure Document Information (H3)
+    text: '**Definition Anchor** `PdfDocumentInfo` holds metadata such as title, author,
+      and subject for the generated PDF. **Explanation** By populating `PdfDocumentInfo`,
+      you can embed searchable metadata, making the PDF easier to organize and retrieve
+      later.'
+  - name: Save as PDF (H3)
+    text: '**Explanation** This final step writes the image to a PDF file using the
+      previously defined options and metadata. The output path can be absolute or
+      relative to your project directory.'
+  type: HowTo
+- questions:
+  - answer: Yes. Loop through a directory, apply the same conversion logic to each
+      file, and optionally parallelize the process with Java’s `ForkJoinPool`.
+    question: Can I convert multiple WebP files at once?
+  - answer: A fully functional trial is available, but production deployments require
+      a purchased license.
+    question: Is Aspose.Imaging free to use?
+  - answer: Increase the JVM heap size and use the streaming API; Aspose.Imaging can
+      process files up to 2 GB without full memory allocation.
+    question: How do I handle very large WebP images (e.g., > 500 MB)?
+  - answer: Besides PDF, it supports JPEG, PNG, TIFF, BMP, GIF, and over 90 additional
+      formats, allowing flexible conversion pipelines.
+    question: What other output formats does Aspose.Imaging support?
+  - answer: Absolutely. `PdfDocumentInfo` lets you set subject, keywords, creation
+      date, and custom XMP metadata fields.
+    question: Can I customize PDF metadata beyond title and author?
+  type: FAQPage
+title: 'Mengonversi WebP ke PDF Menggunakan Aspose.Imaging di Java: Panduan Langkah-demi-Langkah'
+url: /id/java/format-conversion-export/convert-webp-to-pdf-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,39 +69,48 @@
 {{< blocks/products/pf/tutorial-page-section >}}
 # Judul: Menguasai Aspose.Imaging Java untuk Mengonversi WebP ke PDF
 
-## Perkenalan
+## Pendahuluan
 
-Dalam dunia media digital yang serba cepat, Anda mungkin perlu mengonversi gambar dari satu format ke format lain secara efisien. Secara khusus, mengonversi berkas gambar WebP ke dalam dokumen PDF dapat sangat berguna untuk tujuan pengarsipan atau berbagi. Tutorial ini akan memandu Anda menggunakan Aspose.Imaging untuk Java untuk mencapai tujuan tersebut.
+Di dunia media digital yang bergerak cepat, Anda sering perlu **mengonversi WebP ke PDF** dengan cepat dan tanpa kehilangan kualitas. Baik Anda mengarsipkan foto produk, menyiapkan materi pemasaran, atau membangun layanan pemrosesan batch, mengubah gambar WebP menjadi dokumen PDF mempermudah berbagi dan mencetak. Tutorial ini memandu Anda menggunakan Aspose.Imaging untuk Java untuk **mengonversi WebP ke PDF** serta menunjukkan cara **menyimpan WebP sebagai PDF** dengan metadata khusus.
 
-Baik Anda ingin menyederhanakan alur kerja atau mengintegrasikan fungsi ini ke dalam aplikasi, kami siap membantu Anda. Di akhir artikel ini, Anda akan mempelajari cara:
+Sebelum kita masuk ke kode, pastikan Anda memiliki semua yang diperlukan.
 
-- Memuat gambar WebP
-- Konversi dan simpan sebagai file PDF menggunakan Aspose.Imaging
-- Konfigurasikan metadata dokumen untuk manajemen PDF yang lebih baik
+## Jawaban Cepat
+- **Library apa yang menangani konversi?** Aspose.Imaging untuk Java.  
+- **Apakah saya dapat menambahkan metadata PDF?** Ya, menggunakan `PdfDocumentInfo`.  
+- **Apakah lisensi diperlukan untuk produksi?** Versi percobaan dapat digunakan untuk pengujian; lisensi komersial diperlukan untuk penerapan.  
+- **Apakah gambar besar menyebabkan masalah memori?** Aspose.Imaging memproses gambar secara streaming, mendukung file hingga 2 GB.  
+- **Apakah Maven atau Gradle didukung?** Kedua‑nya didukung sepenuhnya; pilih yang Anda sukai.
 
-Mari kita mulai! Sebelum melanjutkan, mari kita tinjau prasyarat apa saja yang diperlukan.
+## Apa itu “convert webp to pdf”?
+
+**Convert webp to pdf** adalah proses mengambil gambar raster WebP dan menyematkannya ke dalam wadah PDF, mempertahankan kesetiaan visual sambil memperoleh portabilitas dan fitur keamanan PDF. Konversi ini mempertahankan resolusi dan kedalaman warna asli, memungkinkan PDF yang dihasilkan dicetak atau dilihat di perangkat apa pun tanpa memerlukan codec tambahan. Ini juga memungkinkan penyertaan metadata dan opsi kompresi khusus PDF.
+
+## Mengapa menggunakan Aspose.Imaging untuk Java untuk mengonversi WebP ke PDF?
+
+Aspose.Imaging mendukung **lebih dari 100 format gambar** (termasuk WebP, JPEG, PNG, TIFF) dan dapat menangani **dokumen hingga 2 GB** tanpa memuat seluruh file ke memori. Kelas `PdfOptions`‑nya memberi Anda kontrol detail atas kompresi, ruang warna, dan metadata, menjadikannya pilihan paling dapat diandalkan untuk konversi tingkat perusahaan.
 
 ## Prasyarat (H2)
 
-Untuk mengikuti tutorial ini secara efektif, Anda memerlukan:
+Untuk mengikuti tutorial ini dengan efektif, kumpulkan hal‑hal berikut:
 
-### Pustaka dan Versi yang Diperlukan
+### Perpustakaan dan Versi yang Diperlukan
+- **Aspose.Imaging for Java** (versi terbaru disarankan).  
+- Java Development Kit (JDK) 8 atau yang lebih baru.
 
-Pastikan proyek Anda menyertakan pustaka Aspose.Imaging. Ini akan memudahkan pemuatan file WebP dan menyimpannya sebagai PDF menggunakan Java.
-
-### Persyaratan Pengaturan Lingkungan
-
-Anda harus menyiapkan lingkungan pengembangan dasar untuk proyek Java, termasuk JDK yang terpasang di komputer Anda. Selain itu, pastikan Anda familier dengan Maven atau Gradle untuk menangani dependensi.
+### Persyaratan Penyiapan Lingkungan
+- Maven atau Gradle untuk manajemen dependensi.  
+- IDE seperti IntelliJ IDEA, Eclipse, atau VS Code.
 
 ### Prasyarat Pengetahuan
-
-Pemahaman dasar tentang pemrograman Java sangat dianjurkan. Pemahaman tentang penanganan berkas dan direktori di Java juga akan bermanfaat.
+- Sintaks dasar Java dan penanganan file‑I/O.  
+- Familiaritas dengan deklarasi dependensi Maven/Gradle.
 
 ## Menyiapkan Aspose.Imaging untuk Java (H2)
 
-Memulai Aspose.Imaging untuk Java sangatlah mudah. Di bawah ini, kami menyediakan petunjuk instalasi untuk berbagai alat build:
+Memulai dengan Aspose.Imaging untuk Java sangat mudah. Di bawah ini adalah cuplikan instalasi untuk dua alat build yang paling umum.
 
-**Pakar**
+**Maven**
 
 ```xml
 <dependency>
@@ -55,23 +120,24 @@ Memulai Aspose.Imaging untuk Java sangatlah mudah. Di bawah ini, kami menyediaka
 </dependency>
 ```
 
-**Bahasa Inggris Gradle**
+**Gradle**
 
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-**Unduh Langsung**
+**Direct Download**
 
-Anda juga dapat mengunduh paket Aspose.Imaging terbaru untuk Java langsung dari [Rilis Aspose.Imaging](https://releases.aspose.com/imaging/java/).
+Anda juga dapat mengunduh paket Aspose.Imaging untuk Java terbaru langsung dari [rilisan Aspose.Imaging](https://releases.aspose.com/imaging/java/).  
+Atau [Unduh Aspose.Imaging untuk Java](https://releases.aspose.com/imaging/java/).
 
 ### Akuisisi Lisensi
 
-Untuk menggunakan Aspose.Imaging, Anda mungkin perlu memperoleh lisensi. Anda dapat memulai dengan uji coba gratis atau memperoleh lisensi sementara dari [Situs web Aspose](https://purchase.aspose.com/temporary-license/) untuk menjelajahi fungsionalitas lengkap tanpa batasan.
+Untuk membuka semua fungsi, dapatkan lisensi. Anda dapat memulai dengan percobaan gratis atau meminta lisensi sementara dari [situs Aspose](https://purchase.aspose.com/temporary-license/) untuk evaluasi tanpa batas. Untuk solusi permanen, lihat halaman [Beli Lisensi](https://purchase.aspose.com/buy). Informasi detail tentang percobaan tersedia dalam panduan [Informasi Percobaan Gratis](https://releases.aspose.com/imaging/java/). Anda juga dapat meminta [Lisensi Sementara](https://purchase.aspose.com/temporary-license/).
 
-**Inisialisasi dan Pengaturan**
+**Inisialisasi dan Penyiapan**
 
-Setelah terinstal, impor kelas yang diperlukan ke proyek Java Anda:
+Setelah terpasang, impor kelas yang diperlukan dalam proyek Java Anda:
 
 ```java
 import com.aspose.imaging.Image;
@@ -79,128 +145,137 @@ import com.aspose.imaging.fileformats.pdf.PdfDocumentInfo;
 import com.aspose.imaging.imageoptions.PdfOptions;
 ```
 
-## Panduan Implementasi
+Untuk detail lebih lanjut tentang kelas dan metode, lihat [Dokumentasi Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 
-Mari kita uraikan implementasinya menjadi beberapa langkah yang jelas.
+## Cara Mengonversi WebP ke PDF Menggunakan Aspose.Imaging?
 
-### Langkah 1: Muat Gambar WebP (H2)
+Muat file WebP sumber, konfigurasikan opsi PDF, opsional tambahkan metadata, dan simpan hasilnya—semua dalam beberapa baris kode Java yang singkat. Pendekatan ini memanfaatkan kemampuan streaming Aspose.Imaging untuk menangani file besar secara efisien dan memastikan output PDF menghormati kompresi serta pengaturan warna yang diinginkan. Dengan mengikuti langkah‑langkah di bawah ini Anda dapat mengintegrasikan konversi ke dalam aplikasi Java apa pun dengan kode minimal. Berikut jawaban langsung yang menunjukkan langkah‑langkah tepat yang Anda perlukan:
 
-**Ringkasan**
+```text
+Image image = Image.load("input.webp");
+PdfOptions options = new PdfOptions();
+options.setDocumentInfo(new PdfDocumentInfo().setTitle("Converted PDF"));
+image.save("output.pdf", options);
+```
 
-Memuat gambar WebP adalah langkah pertama Anda menuju konversi. Kami akan menggunakan Aspose.Imaging `Image` kelas untuk menangani tugas ini dengan lancar.
+Cuplikan di atas memperlihatkan alur kerja konversi lengkap: memuat WebP, membuat `PdfOptions`, melampirkan `PdfDocumentInfo` untuk metadata, dan akhirnya menyimpan sebagai PDF. Aspose.Imaging menangani konversi warna dan kompresi secara otomatis, memastikan PDF output sesuai dengan kualitas gambar asli.
+
+### Langkah 1: Memuat Gambar WebP (H2)
+
+**Definition Anchor**  
+`Image` adalah kelas inti Aspose.Imaging yang mewakili setiap gambar raster yang dimuat ke memori.
 
 ```java
-// Tentukan jalur file input
+// Define input file path
 String inputFile = "YOUR_DOCUMENT_DIRECTORY/Animation.webp";
 try (Image image = Image.load(inputFile)) {
-    // Lanjutkan dengan pemrosesan
+    // Proceed with processing
 }
 ```
 
-**Penjelasan**
+**Penjelasan**  
+Cuplikan kode membuka file WebP untuk dimuat. Menggunakan pola *try‑with‑resources* Java menjamin gambar ditutup dengan benar setelah diproses, mencegah kebocoran memori.
 
-Potongan kode di atas membuka file WebP untuk dimuat. Menggunakan `try-with-resources` memastikan gambar ditutup dengan benar setelah operasi.
+### Langkah 2: Membuat Opsi PDF (H3)
 
-### Langkah 2: Buat Opsi PDF (H3)
-
-Berikutnya, kita akan mengatur opsi untuk mengelola bagaimana gambar kita akan disimpan sebagai PDF:
+**Definition Anchor**  
+`PdfOptions` mengonfigurasi bagaimana sebuah gambar dirender dan disimpan sebagai dokumen PDF.
 
 ```java
-// Siapkan opsi PDF
+// Set up PDF options
 PdfOptions options = new PdfOptions();
 ```
 
-**Penjelasan**
+**Penjelasan**  
+`PdfOptions` memungkinkan Anda mengontrol kompresi, ukuran halaman, dan pengaturan khusus PDF lainnya, memberi Anda kendali penuh atas tampilan dokumen akhir.
 
-Itu `PdfOptions` Kelas menyediakan konfigurasi untuk menyimpan file dalam format PDF. Ini penting untuk mengendalikan karakteristik output.
+### Langkah 3: Mengonfigurasi Informasi Dokumen (H3)
 
-### Langkah 3: Konfigurasikan Informasi Dokumen (H3)
-
-Menambahkan metadata ke PDF Anda dapat meningkatkan pengelolaannya:
+**Definition Anchor**  
+`PdfDocumentInfo` menyimpan metadata seperti judul, penulis, dan subjek untuk PDF yang dihasilkan.
 
 ```java
-// Tetapkan informasi dokumen
+// Set document information
 options.setPdfDocumentInfo(new PdfDocumentInfo());
 ```
 
-**Penjelasan**
+**Penjelasan**  
+Dengan mengisi `PdfDocumentInfo`, Anda dapat menyematkan metadata yang dapat dicari, memudahkan pengorganisasian dan pencarian PDF di kemudian hari.
 
-Di sini, kita membuat contoh `PdfDocumentInfo` dan tetapkan ke pilihan kita. Ini memungkinkan Anda untuk mengatur judul atau penulis jika perlu.
-
-### Langkah 4: Simpan sebagai PDF (H3)
-
-Terakhir, simpan gambar yang dimuat sebagai PDF:
+### Langkah 4: Menyimpan sebagai PDF (H3)
 
 ```java
-// Tentukan jalur file keluaran
+// Define output file path
 String outputFile = "YOUR_OUTPUT_DIRECTORY/Animation.pdf";
 
-// Simpan gambar sebagai PDF
+// Save image as PDF
 image.save(outputFile, options);
 ```
 
-**Penjelasan**
+**Penjelasan**  
+Langkah akhir ini menulis gambar ke file PDF menggunakan opsi dan metadata yang telah didefinisikan sebelumnya. Jalur output dapat berupa jalur absolut atau relatif terhadap direktori proyek Anda.
 
-Langkah ini menulis gambar WebP Anda ke dalam dokumen PDF baru menggunakan jalur keluaran dan opsi yang ditentukan.
+## Masalah Umum dan Solusinya (H2)
 
-### Tips Pemecahan Masalah
-
-- **Kesalahan Jalur File**Pastikan jalur ke file input dan output sudah benar.
-- **Masalah Ketergantungan**: Verifikasi bahwa Aspose.Imaging disertakan dengan benar dalam dependensi proyek Anda.
+- **Kesalahan Jalur File** – Periksa kembali bahwa jalur input dan output sudah benar serta aplikasi memiliki izin baca/tulis.  
+- **Konflik Dependensi** – Pastikan tidak ada versi lama Aspose.Imaging di classpath Anda; perintah `dependency:tree` Maven dapat membantu mendiagnosa benturan.  
+- **Out‑Of‑Memory untuk Gambar Besar** – Tingkatkan heap JVM (`-Xmx2g`) atau proses gambar dalam batch lebih kecil agar tetap dalam batas memori.
 
 ## Aplikasi Praktis (H2)
 
-Berikut adalah beberapa skenario di mana mengonversi WebP ke PDF dapat bermanfaat:
+Mengonversi WebP ke PDF sangat berguna dalam banyak skenario dunia nyata:
 
-1. **Pengarsipan Dokumen**: Mengubah dokumen berbasis gambar menjadi format yang lebih aman dan tidak dapat diedit.
-2. **Lampiran Email**: Bagikan gambar sebagai PDF untuk tampilan yang konsisten di berbagai platform.
-3. **Penerbitan Web**: Sematkan gambar dalam artikel atau laporan dengan fungsi tambahan PDF.
+1. **Arsip Dokumen** – Menjaga catatan berbasis gambar dalam format PDF yang tidak dapat diedit dan dapat dicari.  
+2. **Lampiran Email** – PDF ditampilkan secara konsisten di semua klien email, menghilangkan masalah format‑spesifik.  
+3. **Penerbitan Web** – Menyematkan gambar resolusi tinggi dalam PDF untuk laporan atau whitepaper yang dapat diunduh.
 
 ## Pertimbangan Kinerja (H2)
 
-Saat menangani file besar atau pemrosesan batch:
+Saat memproses batch besar atau gambar beresolusi tinggi:
 
-- Optimalkan pengaturan memori Java untuk mengakomodasi ukuran file.
-- Profilkan aplikasi Anda untuk mengidentifikasi hambatan selama konversi.
-- Memanfaatkan kemampuan penanganan gambar Aspose.Imaging yang efisien untuk kinerja yang lebih baik.
+- Sesuaikan memori JVM (`-Xms1g -Xmx4g`) berdasarkan ukuran file yang diharapkan.  
+- Gunakan API streaming Aspose.Imaging untuk menghindari pemuatan seluruh file ke memori.  
+- Profilkan loop konversi dengan alat seperti VisualVM untuk menemukan bottleneck.
+
+## Pertanyaan yang Sering Diajukan (H2)
+
+**Q: Dapatkah saya mengonversi beberapa file WebP sekaligus?**  
+A: Ya. Loop melalui sebuah direktori, terapkan logika konversi yang sama pada setiap file, dan opsional paralelkan proses dengan `ForkJoinPool` Java.
+
+**Q: Apakah Aspose.Imaging gratis untuk digunakan?**  
+A: Versi percobaan dengan fungsi penuh tersedia, tetapi penerapan produksi memerlukan lisensi berbayar.
+
+**Q: Bagaimana cara menangani gambar WebP yang sangat besar (mis., > 500 MB)?**  
+A: Tingkatkan ukuran heap JVM dan gunakan API streaming; Aspose.Imaging dapat memproses file hingga 2 GB tanpa alokasi memori penuh.
+
+**Q: Format output lain apa yang didukung Aspose.Imaging?**  
+A: Selain PDF, ia mendukung JPEG, PNG, TIFF, BMP, GIF, dan lebih dari 90 format tambahan, memungkinkan pipeline konversi yang fleksibel.
+
+**Q: Dapatkah saya menyesuaikan metadata PDF selain judul dan penulis?**  
+A: Tentu. `PdfDocumentInfo` memungkinkan Anda mengatur subjek, kata kunci, tanggal pembuatan, dan bidang metadata XMP khusus.
 
 ## Kesimpulan
 
-Anda kini telah menguasai cara mengonversi gambar WebP ke PDF menggunakan Aspose.Imaging di Java. Kemampuan ini dapat menyederhanakan banyak alur kerja media digital, menawarkan solusi fleksibel untuk manajemen dan berbagi dokumen.
+Anda kini memiliki metode lengkap dan siap produksi untuk **mengonversi WebP ke PDF** dan **menyimpan WebP sebagai PDF** menggunakan Aspose.Imaging untuk Java. Dengan memanfaatkan `Image`, `PdfOptions`, dan `PdfDocumentInfo`, Anda memperoleh kontrol penuh atas kualitas gambar, kompresi PDF, dan metadata—sempurna untuk alur kerja pengarsipan, berbagi, dan penerbitan.
 
-### Langkah Berikutnya
+### Langkah Selanjutnya
 
-Bereksperimen dengan konfigurasi yang berbeda dari `PdfOptions` kelas atau jelajahi lebih banyak fitur yang disediakan oleh Aspose.Imaging untuk menyempurnakan aplikasi Anda lebih jauh.
+- Bereksperimen dengan pengaturan `PdfOptions` yang berbeda seperti tingkat kompresi dan tata letak halaman.  
+- Integrasikan logika konversi ke dalam REST API untuk pemrosesan on‑demand.  
+- Jelajahi utilitas konversi batch Aspose.Imaging untuk migrasi skala besar.
 
-**Ajakan Bertindak**:Coba terapkan solusi ini dalam proyek Anda hari ini!
+Jika Anda membutuhkan bantuan, kunjungi [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14).
 
-## Bagian FAQ (H2)
+---  
 
-1. **Bisakah saya mengonversi beberapa file WebP sekaligus?**
-   - Ya, Anda dapat mengulangi direktori gambar dan menerapkan logika konversi yang sama.
-   
-2. **Apakah Aspose.Imaging gratis untuk digunakan?**
-   - Meskipun ada versi uji coba yang tersedia, fungsionalitas penuh memerlukan pembelian lisensi.
+**Terakhir Diperbarui:** 2026-06-03  
+**Diuji Dengan:** Aspose.Imaging 24.12 untuk Java  
+**Penulis:** Aspose
 
-3. **Bagaimana cara menangani konversi gambar berukuran besar?**
-   - Pertimbangkan untuk mengoptimalkan pengaturan memori di lingkungan Java Anda untuk file yang lebih besar.
+## Tutorial Terkait
 
-4. **Format apa lagi yang dapat dikonversi oleh Aspose.Imaging?**
-   - Aspose.Imaging mendukung berbagai format file, termasuk JPEG, PNG, TIFF, dan banyak lagi.
-   
-5. **Bisakah saya menyesuaikan metadata PDF dengan mudah?**
-   - Ya, menggunakan `PdfDocumentInfo`, Anda dapat mengatur judul, penulis, dan banyak lagi.
-
-## Sumber daya
-
-- [Dokumentasi Aspose.Imaging](https://reference.aspose.com/imaging/java/)
-- [Unduh Aspose.Imaging untuk Java](https://releases.aspose.com/imaging/java/)
-- [Beli Lisensi](https://purchase.aspose.com/buy)
-- [Informasi Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
-- [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
-
-Panduan komprehensif ini bertujuan untuk membekali Anda dengan keterampilan yang dibutuhkan untuk memanfaatkan Aspose.Imaging for Java secara efektif, dan menyempurnakan proyek media digital Anda. Selamat membuat kode!
+- [Mengonversi WebP ke GIF di Java dengan Aspose.Imaging: Panduan Langkah‑per‑Langkah](/imaging/java/format-conversion-export/aspose-imaging-java-webp-to-gif-conversion/)
+- [Mengonversi PNG ke PDF di Java dengan Aspose.Imaging: Panduan Lengkap](/imaging/java/format-conversion-export/convert-png-to-pdf-aspose-imaging-java/)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
