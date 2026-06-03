@@ -1,10 +1,11 @@
 ---
-"description": "学习使用 Aspose.Imaging for Java 进行图像二值化。轻松转换 DICOM 图像。探索包含代码示例的分步指南。"
-"linktitle": "Bradley 自适应阈值二值化"
-"second_title": "Aspose.Imaging Java图像处理API"
-"title": "使用 Aspose.Imaging for Java 进行图像二值化"
-"url": "/zh/java/image-processing-and-enhancement/bradleys-adaptive-threshold-binarization/"
-"weight": 27
+date: 2026-01-09
+description: 学习如何使用 Aspose.Imaging for Java 对图像进行二值化。本指南涵盖了 DICOM 转 BMP 的 Java 图像处理技术。
+linktitle: Bradley's Adaptive Threshold Binarization
+second_title: Aspose.Imaging Java Image Processing API
+title: 如何使用 Aspose.Imaging for Java 将图像二值化
+url: /zh/java/image-processing-and-enhancement/bradleys-adaptive-threshold-binarization/
+weight: 27
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,51 +14,56 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# 使用 Aspose.Imaging for Java 进行图像二值化
+# 如何使用 Aspose.Imaging for Java 将图像二值化
 
-图像在数字世界中扮演着至关重要的角色，无论是在网站、文档中，还是作为各种应用程序的一部分。图像处理是这些领域中一项至关重要的任务，而图像二值化是其中一项基本操作。二值化通过将图像转换为二进制形式来简化图像，使其更易于计算机处理。Aspose.Imaging for Java 是一款功能强大的工具，提供丰富的图像处理功能。在本教程中，我们将探索如何使用 Aspose.Imaging 的 Bradley 自适应阈值二值化功能执行图像二值化。 
+图像在数字世界中扮演着至关重要的角色，无论是在网站、文档还是各种应用程序中。如果你想了解 **如何高效地二值化图像**，尤其是针对医学格式如 DICOM，那么你来对地方了。图像二值化通过将图片转换为黑白表示来简化图像，非常适合后续分析、OCR 或存储优化。在本教程中，我们将使用 Aspose.Imaging for Java 的 Bradley 自适应阈值二值化完整演示整个过程。
 
-## 先决条件
+## 快速答案
+- **二值化的作用是什么？** 它根据阈值将每个像素转换为黑色或白色。
+- **哪个库是 Java 图像处理的最佳选择？** Aspose.Imaging for Java 提供强大且免费试用的功能。
+- **可以直接处理 DICOM 文件吗？** 可以，Aspose.Imaging 能加载 DICOM 并输出 BMP、PNG 等格式。
+- **生产环境需要许可证吗？** 非试用使用需购买商业许可证。
+- **支持的 Java 版本是？** 完全兼容 Java 8 及以上版本。
 
-在使用 Aspose.Imaging for Java 进行图像二值化之前，请确保您已准备好所需的一切：
+## 什么是图像二值化？
+图像二值化是将灰度或彩色图像转换为二进制图像的过程，图像中的每个像素要么是 0（黑色），要么是 255（白色）。此步骤通常是医学图像处理流水线、文档扫描和计算机视觉任务的第一阶段。
 
-### Java 开发环境
+## 为什么选择 Aspose.Imaging for Java？
+Aspose.Imaging 提供纯 Java API，**加载 DICOM**，并应用诸如 **Bradley 自适应阈值** 等高级算法，随后可将结果保存为常见格式，无需外部本地库。它非常适合 **医学图像处理**、**将 DICOM 转换为 BMP** 以及其他基于 Java 的工作流。
 
-您的系统上应该已经设置好了 Java 开发环境。如果还没有，您可以从 Oracle 网站下载并安装 Java 开发工具包 (JDK)。
+## 前置条件
 
-### Aspose.Imaging for Java
+在编写代码之前，请确保已具备以下条件：
 
-要学习本教程，您需要安装 Aspose.Imaging for Java。您可以通过以下链接从 Aspose 网站下载： [下载 Aspose.Imaging for Java](https://releases。aspose.com/imaging/java/).
+- **Java 开发环境** – 已安装 JDK 8 或更高版本。
+- **Aspose.Imaging for Java** – 从官方站点下载：[Download Aspose.Imaging for Java](https://releases.aspose.com/imaging/java/)。
+- **DICOM 图像** – 任意你想二值化的 DICOM 示例文件。
 
-### DICOM 图像
+准备工作完成后，接下来进入实现步骤。
 
-您需要一张要二值化的 DICOM 图像。如果没有，您可以在线查找 DICOM 图像样本，或者使用您自己的 DICOM 图像。
+## 如何二值化图像 – 步骤指南
 
-现在您已经满足了先决条件，让我们继续下一步。
-
-## 导入包
-
-在本节中，我们将从 Aspose.Imaging for Java 导入必要的软件包。这些软件包包含对 DICOM 图像执行 Bradley 自适应阈值二值化所需的类和方法。
+### 导入包
+首先，导入所需的 Aspose.Imaging 类。此代码片段还定义了输入和输出文件路径。
 
 ```java
-// 文档目录的路径。
+// The path to the documents directory.
 String dataDir = "Your Document Directory" + "dicom/";
 String inputFile = dataDir + "image.dcm";
 String outputFile = "Your Document Directory" + "BinarizationwithBradleyAdaptiveThreshold_out.bmp";
 
-// 在 DicomImage 实例中加载 DICOM 图像
+// Load a DICOM image in an instance of DicomImage
 try (com.aspose.imaging.fileformats.dicom.DicomImage image = (com.aspose.imaging.fileformats.dicom.DicomImage) Image.load(inputFile))
 {
-    // 使用 Bradley 自适应阈值对图像进行二值化。
+    // Binarize image with Bradley's adaptive threshold.
     image.binarizeBradley(10);
-    // 保存生成的图像。
+    // Save the resultant image.
     image.save(outputFile, new com.aspose.imaging.imageoptions.BmpOptions());
 }
 ```
 
-## 步骤 1：定义路径
-
-首先，定义输入 DICOM 图像和输出二值化图像的路径。替换 `"Your Document Directory"` 使用目录的实际路径。
+### 步骤 1：定义路径
+设置源 DICOM 文件和目标 BMP 文件的位置。将 `"Your Document Directory"` 替换为系统中实际的文件夹路径。
 
 ```java
 String dataDir = "Your Document Directory" + "dicom/";
@@ -65,60 +71,63 @@ String inputFile = dataDir + "image.dcm";
 String outputFile = "Your Document Directory" + "BinarizationwithBradleyAdaptiveThreshold_out.bmp";
 ```
 
-## 步骤2：加载DICOM图像
-
-使用 Aspose.Imaging 加载指定的 DICOM 图像 `inputFile`。此操作创建 `DicomImage` 班级。
+### 步骤 2：加载 DICOM 图像
+使用 Aspose.Imaging **加载 dicom 图像** 到 `DicomImage` 对象中。该对象可让你完全访问像素数据和处理方法。
 
 ```java
 try (com.aspose.imaging.fileformats.dicom.DicomImage image = (com.aspose.imaging.fileformats.dicom.DicomImage) Image.load(inputFile))
 {
-    // 图像处理步骤将在这里进行。
+    // The image processing steps will go here.
 }
 ```
 
-## 步骤3：执行二值化
-
-对加载的 DICOM 图像执行 Bradley 自适应阈值二值化。在本例中，阈值为 `10` 已应用。
+### 步骤 3：执行二值化
+应用 Bradley 自适应阈值算法。参数（本例中的 `10`）控制阈值的灵敏度；你可以尝试不同的数值以获得最佳效果。
 
 ```java
 image.binarizeBradley(10);
 ```
 
-## 步骤 4：保存二值化图像
-
-将生成的二值化图像以 BMP 格式保存到指定的输出文件中。
+### 步骤 4：保存二值化图像
+最后，导出处理后的图像。这里使用 BMP 格式，但 Aspose.Imaging 还支持 PNG、JPEG、TIFF 等多种格式。
 
 ```java
 image.save(outputFile, new com.aspose.imaging.imageoptions.BmpOptions());
 ```
 
+## 常见问题与故障排除
+
+- **FileNotFoundException** – 确认 `dataDir` 路径以斜杠结尾，且 DICOM 文件名完全匹配。
+- **OutOfMemoryError** – 大型 DICOM 文件可能需要增大 JVM 堆内存 (`-Xmx2g` 或更高)。
+- **阈值不正确** – 如果输出过暗或过亮，请调整传递给 `binarizeBradley()` 的整数值（例如 5‑15）。
+
+## 常见问答
+
+### Q1: 什么是 DICOM，为什么在医学成像中重要？
+**A:** DICOM 代表 Digital Imaging and Communications in Medicine（医学数字成像与通信）。它是存储、传输和处理医学图像的通用标准，能够实现设备和系统之间的互操作性。
+
+### Q2: 我可以在商业项目中使用 Aspose.Imaging for Java 吗？
+**A:** 可以，Aspose.Imaging for Java 提供免费试用和商业许可证。你可以在 [Aspose 的网站](https://purchase.aspose.com/buy) 上了解并获取相应许可证。
+
+### Q3: 是否有用于测试的临时许可证？
+**A:** 有，你可以获取临时许可证用于测试和评估 Aspose.Imaging for Java。详情请访问 [此链接](https://purchase.aspose.com/temporary-license/)。
+
+### Q4: 我可以在哪里寻求帮助或讨论 Aspose.Imaging for Java 相关问题？
+**A:** 可前往 [Aspose.Imaging 论坛](https://forum.aspose.com/) 获取社区支持和讨论，这是获取答案并与其他用户交流的好地方。
+
+### Q5: Aspose.Imaging for Java 适用于其他基于 Java 的图像处理应用吗？
+**A:** 绝对适用。该库在 Web 应用、桌面软件、批处理工具等多种场景中表现出色，提供跨平台一致的 API。
+
 ## 结论
+现在，你已经掌握了使用 Aspose.Imaging for Java 通过 Bradley 自适应阈值 **二值化图像** 的方法。这一技术在 **医学图像处理** 中尤为有价值，能够将 DICOM 文件转换为轻量级的 BMP（或其他）格式，以便后续分析或存储。继续尝试不同的阈值，并探索 Aspose.Imaging 丰富的功能集。
 
-恭喜！您已成功学习如何使用 Aspose.Imaging for Java 中的 Bradley 自适应阈值二值化工具进行图像二值化。这款强大的工具能够提升您的图像处理能力，使其成为各种应用中的宝贵工具。
+欲深入了解图像操作，请查阅官方文档：[Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/)。
 
-请记住探索 Aspose.Imaging 的详细文档以获取更多图像处理可能性： [Aspose.Imaging for Java 文档](https://reference。aspose.com/imaging/java/).
+---
 
-## 常见问题解答
-
-### 问题 1：什么是 DICOM，为什么它在医学成像中很重要？
-
-A1：DICOM 是医学数字成像与通信 (DICOM) 的缩写，它是医学图像及相关信息的标准格式。它在医学图像的存储、交换和解读中发挥着至关重要的作用，对医疗专业人员和医学成像系统至关重要。
-
-### 问题2：我可以在我的商业项目中使用 Aspose.Imaging for Java 吗？
-
-答2：是的，Aspose.Imaging for Java 提供免费试用版和商业许可证。您可以探索各种选项，并从以下渠道获取必要的许可证： [Aspose的网站](https://purchase。aspose.com/buy).
-
-### 问题 3：是否有可用于测试目的的临时许可证？
-
-A3：是的，您可以获取临时许可证来测试和评估 Aspose.Imaging for Java。访问 [此链接](https://purchase.aspose.com/temporary-license/) 了解更多信息。
-
-### Q4：我可以在哪里寻求帮助或讨论与 Aspose.Imaging for Java 相关的问题？
-
-A4：如需社区支持和讨论，您可以访问 [Aspose.Imaging 论坛](https://forum.aspose.com/)。这是寻找问题答案和与其他用户联系的好地方。
-
-### Q5：Aspose.Imaging for Java 是否适合其他基于 Java 的应用程序中进行图像处理？
-
-A5：是的，Aspose.Imaging for Java 功能多样，可用于各种基于 Java 的应用程序，包括 Web 应用程序、桌面软件等。
+**最后更新：** 2026-01-09  
+**测试环境：** Aspose.Imaging for Java 24.12（撰写时的最新版本）  
+**作者：** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

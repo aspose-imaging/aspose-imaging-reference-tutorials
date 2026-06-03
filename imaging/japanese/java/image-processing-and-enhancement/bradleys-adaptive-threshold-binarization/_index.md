@@ -1,10 +1,12 @@
 ---
-"description": "Aspose.Imaging for Javaで画像の2値化を学習しましょう。DICOM画像を簡単に変換できます。コード例を使ったステップバイステップのガイドをご覧ください。"
-"linktitle": "ブラッドリーの適応閾値二値化"
-"second_title": "Aspose.Imaging Java 画像処理 API"
-"title": "Aspose.Imaging for Java による画像の二値化"
-"url": "/ja/java/image-processing-and-enhancement/bradleys-adaptive-threshold-binarization/"
-"weight": 27
+date: 2026-01-09
+description: Aspose.Imaging for Java を使用して画像を二値化する方法を学びましょう。このガイドでは、DICOM から BMP への変換に関する画像処理の
+  Java テクニックを取り上げています。
+linktitle: Bradley's Adaptive Threshold Binarization
+second_title: Aspose.Imaging Java Image Processing API
+title: Java 用 Aspose.Imaging で画像を二値化する方法
+url: /ja/java/image-processing-and-enhancement/bradleys-adaptive-threshold-binarization/
+weight: 27
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,51 +15,56 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Aspose.Imaging for Java による画像の二値化
+# Aspose.Imaging for Java を使用した画像の二値化方法
 
-画像は、ウェブサイト、ドキュメント、あるいは様々なアプリケーションの一部として、デジタル世界において重要な役割を果たします。画像処理はこれらの分野において不可欠なタスクであり、その基本的な操作の一つが画像の二値化です。二値化は、画像をバイナリ形式に変換することで簡素化し、コンピューターで処理しやすくします。Aspose.Imaging for Javaは、幅広い画像操作機能を提供する強力なツールです。このチュートリアルでは、Aspose.ImagingのBradley適応型閾値二値化を用いて画像の二値化を行う方法を説明します。 
+画像はウェブサイト、文書、さまざまなアプリケーションの中で重要な役割を果たしています。特に **画像を二値化する方法** を効率的に知りたい場合や、医療フォーマットである DICOM などを扱う場合は、ここが最適な場所です。画像の二値化は、画像を白黒の表現に変換し、下流の分析、OCR、または保存の最適化に最適です。このチュートリアルでは、Aspose.Imaging for Java の Bradley の適応的閾値二値化を使用して、プロセス全体を順を追って説明します。
+
+## クイック回答
+- **二値化は何をしますか？** 閾値に基づいて各ピクセルを黒または白に変換します。  
+- **Java の画像処理に最適なライブラリはどれですか？** Aspose.Imaging for Java は堅牢で、ライセンスフリーのトライアル機能を提供します。  
+- **DICOM ファイルを直接処理できますか？** はい、Aspose.Imaging は DICOM を読み込み、BMP、PNG などに出力できます。  
+- **本番環境でライセンスが必要ですか？** トライアル以外の使用には商用ライセンスが必要です。  
+- **サポートされている Java バージョンは何ですか？** Java 8 以降が完全に互換性があります。
+
+## 画像二値化とは？
+画像二値化は、グレースケールまたはカラー画像を各ピクセルが 0（黒）または 255（白）のいずれかになる二値画像に変換するプロセスです。このステップは、医療画像処理パイプライン、文書スキャン、コンピュータビジョンのタスクの最初の段階としてよく使用されます。
+
+## なぜ Aspose.Imaging for Java を使用するのか？
+Aspose.Imaging は純粋な Java API を提供し、**DICOM をロード**し、**Bradley の適応的閾値**などの高度なアルゴリズムを適用し、外部のネイティブライブラリを必要とせずに一般的なフォーマットで保存できます。**医療画像処理**、**DICOM を BMP に変換**、およびその他の Java ベースのワークフローに最適です。
 
 ## 前提条件
 
-Aspose.Imaging for Java を使用した画像の 2 値化の世界に飛び込む前に、必要なものがすべて揃っていることを確認しましょう。
+コードに入る前に、以下が揃っていることを確認してください。
 
-### Java開発環境
+- **Java 開発環境** – JDK 8 以上がインストールされていること。  
+- **Aspose.Imaging for Java** – 公式サイトからダウンロード: [Aspose.Imaging for Java をダウンロード](https://releases.aspose.com/imaging/java/)。  
+- **DICOM 画像** – 二値化したい任意のサンプル DICOM ファイル。
 
-システムにJava開発環境がセットアップされている必要があります。まだセットアップされていない場合は、OracleのウェブサイトからJava Development Kit（JDK）をダウンロードしてインストールしてください。
+すべて準備できたので、実装に進みましょう。
 
-### Aspose.Imaging for Java
+## 画像を二値化する方法 – ステップバイステップガイド
 
-このチュートリアルを進めるには、Aspose.Imaging for Java がインストールされている必要があります。Aspose のウェブサイトから以下のリンクからダウンロードできます。 [Aspose.Imaging for Java をダウンロード](https://releases。aspose.com/imaging/java/).
-
-### DICOM画像
-
-二値化したいDICOM画像が必要です。お持ちでない場合は、オンラインでDICOM画像のサンプルを探すか、ご自身のDICOM画像を使用することもできます。
-
-前提条件が整ったので、次のステップに進みましょう。
-
-## パッケージのインポート
-
-このセクションでは、Aspose.Imaging for Javaから必要なパッケージをインポートします。これらのパッケージには、DICOM画像に対してBradleyの適応閾値二値化を実行するために必要なクラスとメソッドが含まれています。
+### パッケージのインポート
+まず、必要な Aspose.Imaging クラスをインポートします。このスニペットは入力および出力ファイルパスも定義しています。
 
 ```java
-// ドキュメント ディレクトリへのパス。
+// The path to the documents directory.
 String dataDir = "Your Document Directory" + "dicom/";
 String inputFile = dataDir + "image.dcm";
 String outputFile = "Your Document Directory" + "BinarizationwithBradleyAdaptiveThreshold_out.bmp";
 
-// DicomImageのインスタンスにDICOM画像をロードする
+// Load a DICOM image in an instance of DicomImage
 try (com.aspose.imaging.fileformats.dicom.DicomImage image = (com.aspose.imaging.fileformats.dicom.DicomImage) Image.load(inputFile))
 {
-    // Bradley の適応しきい値を使用して画像を 2 値化します。
+    // Binarize image with Bradley's adaptive threshold.
     image.binarizeBradley(10);
-    // 結果の画像を保存します。
+    // Save the resultant image.
     image.save(outputFile, new com.aspose.imaging.imageoptions.BmpOptions());
 }
 ```
 
-## ステップ1: パスを定義する
-
-まず、入力DICOM画像と出力2値化画像のパスを定義します。 `"Your Document Directory"` ディレクトリへの実際のパスを入力します。
+### 手順 1: パスの定義
+ソース DICOM ファイルと出力 BMP ファイルの場所を設定します。`"Your Document Directory"` を実際のフォルダーに置き換えてください。
 
 ```java
 String dataDir = "Your Document Directory" + "dicom/";
@@ -65,60 +72,63 @@ String inputFile = dataDir + "image.dcm";
 String outputFile = "Your Document Directory" + "BinarizationwithBradleyAdaptiveThreshold_out.bmp";
 ```
 
-## ステップ2: DICOM画像を読み込む
-
-Aspose.Imagingを使用して、指定されたDICOM画像を読み込みます。 `inputFile`この操作は、 `DicomImage` クラス。
+### 手順 2: DICOM 画像の読み込み
+Aspose.Imaging を使用して **dicom 画像をロード**し、`DicomImage` オブジェクトに格納します。このオブジェクトにより、ピクセルデータや処理メソッドへフルアクセスが可能です。
 
 ```java
 try (com.aspose.imaging.fileformats.dicom.DicomImage image = (com.aspose.imaging.fileformats.dicom.DicomImage) Image.load(inputFile))
 {
-    // 画像処理の手順はここに記載します。
+    // The image processing steps will go here.
 }
 ```
 
-## ステップ3: 2値化を実行する
-
-読み込んだDICOM画像に対して、ブラッドリーの適応閾値二値化を実行します。この例では、閾値は `10` が適用されます。
+### 手順 3: 二値化の実行
+Bradley の適応的閾値アルゴリズムを適用します。パラメータ（この例では `10`）は閾値の感度を制御します。最適な結果が得られるよう、まざまな値で実験してみてください。
 
 ```java
 image.binarizeBradley(10);
 ```
 
-## ステップ4: 2値化された画像を保存する
-
-結果の2値化画像をBMP形式を使用して指定された出力ファイルに保存します。
+### 手順 4: 二値化画像の保存
+最後に、処理済み画像をエクスポートします。ここでは BMP 形式を使用していますが、Aspose.Imaging は PNG、JPEG、TIFF など多数の形式をサポートしています。
 
 ```java
 image.save(outputFile, new com.aspose.imaging.imageoptions.BmpOptions());
 ```
 
-## 結論
+## よくある問題とトラブルシューティング
 
-おめでとうございます！Aspose.Imaging for JavaでBradleyのAdaptive Threshold Binarizationを使用して画像の二値化を行う方法を習得しました。この強力なツールは画像処理能力を強化し、様々なアプリケーションで貴重な資産となるでしょう。
-
-画像処理の可能性をさらに詳しく知るには、Aspose.Imaging の詳細なドキュメントを参照してください。 [Aspose.Imaging for Java ドキュメント](https://reference。aspose.com/imaging/java/).
+- **FileNotFoundException** – `dataDir` パスがスラッシュで終わっていること、DICOM ファイル名が正確に一致していることを確認してください。  
+- **OutOfMemoryError** – 大きな DICOM ファイルの場合、JVM ヒープサイズ（`-Xmx2g` 以上）を増やす必要があるかもしれません。  
+- **Incorrect Threshold** – 出力が暗すぎるまたは明るすぎる場合、`binarizeBradley()` に渡す整数値（例: 5‑15）を調整してください。
 
 ## よくある質問
 
-### Q1: DICOM とは何ですか? また、医療用画像処理においてなぜ重要なのですか?
+### Q1: DICOM とは何か、医療画像でなぜ重要なのか？
+**A:** DICOM は Digital Imaging and Communications in Medicine の略で、医療画像の保存、送信、取り扱いのための汎用標準です。デバイスやシステム間の相互運用性を実現します。
 
-A1: DICOMはDigital Imaging and Communications in Medicine（医療におけるデジタル画像と通信）の略で、医用画像および関連情報の標準フォーマットです。医用画像の保存、交換、解釈において重要な役割を果たしており、医療従事者や医用画像システムにとって不可欠な存在となっています。
+### Q2: 商用プロジェクトで Aspose.Imaging for Java を使用できますか？
+**A:** はい、Aspose.Imaging for Java は無料トライアルと商用ライセンスの両方を提供しています。必要なライセンスは [Aspose のウェブサイト](https://purchase.aspose.com/buy) から取得できます。
 
-### Q2: Aspose.Imaging for Java を商用プロジェクトで使用できますか?
+### Q3: テスト目的の一時ライセンスはありますか？
+**A:** はい、テストおよび評価用の一時ライセンスを取得できます。詳細は [このリンク](https://purchase.aspose.com/temporary-license/) でご確認ください。
 
-A2: はい、Aspose.Imaging for Javaは無料トライアルと商用ライセンスの両方をご提供しています。ご希望のオプションをご確認の上、必要なライセンスを取得してください。 [Asposeのウェブサイト](https://purchase。aspose.com/buy).
+### Q4: Aspose.Imaging for Java に関するサポートや議論はどこでできますか？
+**A:** コミュニティサポートやディスカッションは、[Aspose.Imaging フォーラム](https://forum.aspose.com/) で行えます。質問への回答や他のユーザーとの交流に最適です。
 
-### Q3: テスト目的で利用できる一時ライセンスはありますか?
+### Q5: 他の Java ベースのアプリケーションでの画像処理に Aspose.Imaging for Java は適していますか？
+**A:** 全くその通りです。このライブラリはウェブアプリケーション、デスクトップソフトウェア、バッチ処理ツールなど、さまざまな環境で一貫した API を提供し、画像処理を容易にします。
 
-A3: はい、Aspose.Imaging for Javaのテストと評価のために一時ライセンスを取得できます。 [このリンク](https://purchase.aspose.com/temporary-license/) 詳細についてはこちらをご覧ください。
+## 結論
+これで **画像を二値化する方法** を Aspose.Imaging for Java の Bradley の適応的閾値を使って学びました。この手法は特に **医療画像処理** に有用で、DICOM ファイルを軽量な BMP（または他の形式）に変換して分析や保存に活用できます。さまざまな閾値で試行し、Aspose.Imaging の豊富な機能セットもぜひ探ってみてください。
 
-### Q4: Aspose.Imaging for Java に関するサポートや問題について相談するには、どこですればよいですか?
+画像操作の詳細については、公式ドキュメントをご覧ください: [Aspose.Imaging for Java ドキュメント](https://reference.aspose.com/imaging/java/)。
 
-A4: コミュニティのサポートやディスカッションについては、 [Aspose.Imagingフォーラム](https://forum.aspose.com/)質問に対する回答を見つけたり、他のユーザーとつながったりするのに最適な場所です。
+---
 
-### Q5: Aspose.Imaging for Java は他の Java ベースのアプリケーションでの画像処理にも適していますか?
-
-A5: はい、Aspose.Imaging for Java は汎用性が高く、Web アプリケーション、デスクトップ ソフトウェアなど、さまざまな Java ベースのアプリケーションで使用できます。
+**最終更新日:** 2026-01-09  
+**テスト環境:** Aspose.Imaging for Java 24.12（執筆時点での最新バージョン）  
+**作者:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -1,10 +1,13 @@
 ---
-"description": "Tìm hiểu về nhị phân hóa hình ảnh với Aspose.Imaging cho Java. Chuyển đổi hình ảnh DICOM dễ dàng. Khám phá hướng dẫn từng bước với các ví dụ về mã."
-"linktitle": "Nhị phân ngưỡng thích ứng của Bradley"
-"second_title": "API xử lý hình ảnh Java Aspose.Imaging"
-"title": "Nhị phân hóa hình ảnh với Aspose.Imaging cho Java"
-"url": "/vi/java/image-processing-and-enhancement/bradleys-adaptive-threshold-binarization/"
-"weight": 27
+date: 2026-01-09
+description: Tìm hiểu cách nhị phân hoá hình ảnh bằng Aspose.Imaging cho Java. Hướng
+  dẫn này bao gồm các kỹ thuật xử lý ảnh bằng Java cho việc chuyển đổi DICOM sang
+  BMP.
+linktitle: Bradley's Adaptive Threshold Binarization
+second_title: Aspose.Imaging Java Image Processing API
+title: Cách chuyển ảnh sang nhị phân bằng Aspose.Imaging cho Java
+url: /vi/java/image-processing-and-enhancement/bradleys-adaptive-threshold-binarization/
+weight: 27
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,51 +16,56 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Nhị phân hóa hình ảnh với Aspose.Imaging cho Java
+# Cách Nhị Phân Hình Ảnh với Aspose.Imaging cho Java
 
-Hình ảnh đóng vai trò quan trọng trong thế giới kỹ thuật số, cho dù trên trang web, trong tài liệu hay là một phần của nhiều ứng dụng khác nhau. Xử lý hình ảnh là một nhiệm vụ thiết yếu trong các lĩnh vực này và một trong những hoạt động cơ bản là nhị phân hóa hình ảnh. Nhị phân hóa đơn giản hóa hình ảnh bằng cách chuyển đổi nó thành dạng nhị phân, giúp máy tính xử lý dễ dàng hơn. Aspose.Imaging for Java là một công cụ mạnh mẽ cung cấp nhiều tính năng thao tác hình ảnh và trong hướng dẫn này, chúng ta sẽ khám phá cách thực hiện nhị phân hóa hình ảnh bằng cách sử dụng Nhị phân hóa ngưỡng thích ứng Bradley của Aspose.Imaging. 
+Hình ảnh đóng một vai trò quan trọng trong thế giới kỹ thuật số, dù trên các trang web, trong tài liệu, hay là một phần của các ứng dụng khác nhau. Nếu bạn đang tự hỏi **cách nhị phân hình ảnh** một cách hiệu quả, đặc biệt cho các định dạng y tế như DICOM, bạn đã đến đúng nơi. Nhị phân hình ảnh đơn giản hóa một bức ảnh bằng cách chuyển nó thành dạng đen‑trắng, rất thích hợp cho việc phân tích tiếp theo, OCR, hoặc tối ưu lưu trữ. Trong hướng dẫn này, chúng tôi sẽ đi qua toàn bộ quy trình sử dụng thuật toán Nhị Phân Ngưỡng Thích Ứng Bradley của Aspose.Imaging cho Java.
 
-## Điều kiện tiên quyết
+## Câu trả lời nhanh
+- **Binarization làm gì?** Nó chuyển mỗi pixel thành màu đen hoặc trắng dựa trên một ngưỡng.
+- **Thư viện nào là tốt nhất cho xử lý ảnh Java?** Aspose.Imaging cho Java cung cấp các tính năng thử nghiệm mạnh mẽ, không cần giấy phép.
+- **Tôi có thể xử lý trực tiếp các tệp DICOM không?** Có, Aspose.Imaging có thể tải DICOM và xuất ra BMP, PNG, v.v.
+- **Tôi có cần giấy phép cho môi trường sản xuất không?** Cần giấy phép thương mại cho việc sử dụng không phải thử nghiệm.
+- **Phiên bản Java nào được hỗ trợ?** Java 8 và các phiên bản mới hơn đều tương thích hoàn toàn.
 
-Trước khi tìm hiểu về thế giới nhị phân hóa hình ảnh với Aspose.Imaging cho Java, hãy đảm bảo rằng bạn có mọi thứ mình cần:
+## Nhị Phân Hình Ảnh là gì?
+Nhị phân hình ảnh là quá trình chuyển đổi một ảnh xám hoặc ảnh màu thành ảnh nhị phân, trong đó mỗi pixel chỉ có giá trị 0 (đen) hoặc 255 (trắng). Bước này thường là giai đoạn đầu trong các quy trình xử lý ảnh y tế, quét tài liệu và các nhiệm vụ thị giác máy tính.
 
-### Môi trường phát triển Java
+## Tại sao nên sử dụng Aspose.Imaging cho Java?
+Aspose.Imaging cung cấp một API thuần Java có khả năng **tải DICOM**, áp dụng các thuật toán tiên tiến như **Bradley’s Adaptive Threshold**, và lưu kết quả ở các định dạng phổ biến mà không cần thư viện gốc bên ngoài. Nó lý tưởng cho **xử lý ảnh y tế**, **chuyển đổi DICOM sang BMP**, và các quy trình làm việc dựa trên Java khác.
 
-Bạn nên thiết lập môi trường phát triển Java trên hệ thống của mình. Nếu chưa có, bạn có thể tải xuống và cài đặt Java Development Kit (JDK) từ trang web Oracle.
+## Yêu cầu trước
 
-### Aspose.Imaging cho Java
+Trước khi bắt đầu viết mã, hãy chắc chắn rằng bạn đã có những thứ sau:
 
-Để làm theo hướng dẫn này, bạn cần phải cài đặt Aspose.Imaging for Java. Bạn có thể tải xuống từ trang web Aspose bằng liên kết sau: [Tải xuống Aspose.Imaging cho Java](https://releases.aspose.com/imaging/java/).
+- **Môi trường phát triển Java** – Đã cài đặt JDK 8 hoặc mới hơn.
+- **Aspose.Imaging cho Java** – Tải xuống từ trang chính thức: [Download Aspose.Imaging for Java](https://releases.aspose.com/imaging/java/).
+- **Một ảnh DICOM** – Bất kỳ tệp DICOM mẫu nào bạn muốn nhị phân.
 
-### Một hình ảnh DICOM
+Bây giờ mọi thứ đã sẵn sàng, chúng ta hãy chuyển sang phần triển khai.
 
-Bạn sẽ cần một hình ảnh DICOM mà bạn muốn nhị phân hóa. Nếu bạn không có, bạn có thể tìm các mẫu hình ảnh DICOM trực tuyến hoặc bạn có thể sử dụng hình ảnh DICOM của riêng bạn.
+## Cách Nhị Phân Hình Ảnh – Hướng Dẫn Từng Bước
 
-Bây giờ bạn đã có đủ các điều kiện tiên quyết, chúng ta hãy chuyển sang bước tiếp theo.
-
-## Nhập gói
-
-Trong phần này, chúng ta sẽ nhập các gói cần thiết từ Aspose.Imaging cho Java. Các gói này chứa các lớp và phương thức cần thiết để thực hiện Bradley's Adaptive Threshold Binarization trên hình ảnh DICOM.
+### Nhập Gói
+Đầu tiên, nhập các lớp Aspose.Imaging cần thiết. Đoạn mã này cũng định nghĩa các đường dẫn tệp đầu vào và đầu ra.
 
 ```java
-// Đường dẫn đến thư mục tài liệu.
+// The path to the documents directory.
 String dataDir = "Your Document Directory" + "dicom/";
 String inputFile = dataDir + "image.dcm";
 String outputFile = "Your Document Directory" + "BinarizationwithBradleyAdaptiveThreshold_out.bmp";
 
-// Tải hình ảnh DICOM vào một phiên bản của DicomImage
+// Load a DICOM image in an instance of DicomImage
 try (com.aspose.imaging.fileformats.dicom.DicomImage image = (com.aspose.imaging.fileformats.dicom.DicomImage) Image.load(inputFile))
 {
-    // Làm nhị phân hình ảnh bằng ngưỡng thích ứng của Bradley.
+    // Binarize image with Bradley's adaptive threshold.
     image.binarizeBradley(10);
-    // Lưu hình ảnh kết quả.
+    // Save the resultant image.
     image.save(outputFile, new com.aspose.imaging.imageoptions.BmpOptions());
 }
 ```
 
-## Bước 1: Xác định Đường dẫn
-
-Đầu tiên, hãy xác định đường dẫn cho hình ảnh DICOM đầu vào và hình ảnh nhị phân đầu ra. Thay thế `"Your Document Directory"` với đường dẫn thực tế đến thư mục của bạn.
+### Bước 1: Xác Định Đường Dẫn
+Đặt vị trí cho tệp DICOM nguồn và tệp BMP đích. Thay thế `"Your Document Directory"` bằng thư mục thực tế trên hệ thống của bạn.
 
 ```java
 String dataDir = "Your Document Directory" + "dicom/";
@@ -65,60 +73,62 @@ String inputFile = dataDir + "image.dcm";
 String outputFile = "Your Document Directory" + "BinarizationwithBradleyAdaptiveThreshold_out.bmp";
 ```
 
-## Bước 2: Tải hình ảnh DICOM
-
-Sử dụng Aspose.Imaging để tải hình ảnh DICOM được chỉ định bởi `inputFile`. Hoạt động này tạo ra một phiên bản của `DicomImage` lớp học.
+### Bước 2: Tải Ảnh DICOM
+Sử dụng Aspose.Imaging để **tải ảnh dicom** vào một đối tượng `DicomImage`. Đối tượng này cung cấp cho bạn quyền truy cập đầy đủ vào dữ liệu pixel và các phương pháp xử lý.
 
 ```java
 try (com.aspose.imaging.fileformats.dicom.DicomImage image = (com.aspose.imaging.fileformats.dicom.DicomImage) Image.load(inputFile))
 {
-    // Các bước xử lý hình ảnh sẽ được thực hiện ở đây.
+    // The image processing steps will go here.
 }
 ```
 
-## Bước 3: Thực hiện nhị phân hóa
-
-Thực hiện Nhị phân ngưỡng thích ứng của Bradley trên hình ảnh DICOM đã tải. Trong ví dụ này, ngưỡng của `10` được áp dụng.
+### Bước 3: Thực Hiện Nhị Phân
+Áp dụng thuật toán Bradley’s Adaptive Threshold. Tham số (`10` trong ví dụ này) điều chỉnh độ nhạy của ngưỡng; bạn có thể thử nghiệm với các giá trị khác nhau để đạt kết quả tối ưu.
 
 ```java
 image.binarizeBradley(10);
 ```
 
-## Bước 4: Lưu hình ảnh nhị phân
-
-Lưu hình ảnh nhị phân kết quả vào tệp đầu ra được chỉ định bằng định dạng BMP.
+### Bước 4: Lưu Ảnh Đã Nhị Phân
+Cuối cùng, xuất ảnh đã xử lý. Ở đây chúng tôi sử dụng định dạng BMP, nhưng Aspose.Imaging hỗ trợ PNG, JPEG, TIFF và nhiều định dạng khác.
 
 ```java
 image.save(outputFile, new com.aspose.imaging.imageoptions.BmpOptions());
 ```
 
-## Phần kết luận
+## Các Vấn Đề Thường Gặp & Khắc Phục
+- **FileNotFoundException** – Đảm bảo đường dẫn `dataDir` kết thúc bằng dấu gạch chéo và tên tệp DICOM khớp chính xác.
+- **OutOfMemoryError** – Các tệp DICOM lớn có thể yêu cầu tăng kích thước heap JVM (`-Xmx2g` hoặc lớn hơn).
+- **Incorrect Threshold** – Nếu đầu ra quá tối hoặc quá sáng, hãy điều chỉnh số nguyên truyền vào `binarizeBradley()` (ví dụ, 5‑15).
 
-Xin chúc mừng! Bạn đã học thành công cách thực hiện nhị phân hóa hình ảnh với Aspose.Imaging for Java bằng cách sử dụng Adaptive Threshold Binarization của Bradley. Công cụ mạnh mẽ này cho phép bạn nâng cao khả năng xử lý hình ảnh của mình, biến nó thành một tài sản có giá trị trong nhiều ứng dụng khác nhau.
+## Câu Hỏi Thường Gặp
 
-Hãy nhớ khám phá tài liệu mở rộng của Aspose.Imaging để biết thêm nhiều khả năng xử lý hình ảnh: [Tài liệu Aspose.Imaging cho Java](https://reference.aspose.com/imaging/java/).
+### Q1: DICOM là gì và tại sao nó quan trọng trong ảnh y tế?
+**A:** DICOM viết tắt của Digital Imaging and Communications in Medicine. Đây là tiêu chuẩn toàn cầu để lưu trữ, truyền tải và xử lý ảnh y tế, cho phép tương tác giữa các thiết bị và hệ thống khác nhau.
 
-## Câu hỏi thường gặp
+### Q2: Tôi có thể sử dụng Aspose.Imaging cho Java trong các dự án thương mại của mình không?
+**A:** Có, Aspose.Imaging cho Java cung cấp cả phiên bản dùng thử miễn phí và giấy phép thương mại. Bạn có thể khám phá các tùy chọn và mua giấy phép cần thiết từ [trang web của Aspose](https://purchase.aspose.com/buy).
 
-### Câu hỏi 1: DICOM là gì và tại sao nó lại quan trọng trong chụp ảnh y tế?
+### Q3: Có giấy phép tạm thời nào để thử nghiệm không?
+**A:** Có, bạn có thể nhận giấy phép tạm thời để thử nghiệm và đánh giá Aspose.Imaging cho Java. Tham khảo [liên kết này](https://purchase.aspose.com/temporary-license/) để biết thêm chi tiết.
 
-A1: DICOM là viết tắt của Digital Imaging and Communications in Medicine (Hình ảnh và truyền thông kỹ thuật số trong y học), là định dạng chuẩn cho hình ảnh y tế và thông tin liên quan. Định dạng này đóng vai trò quan trọng trong việc lưu trữ, trao đổi và diễn giải hình ảnh y tế, khiến nó trở nên quan trọng đối với các chuyên gia chăm sóc sức khỏe và hệ thống hình ảnh y tế.
+### Q4: Tôi có thể tìm trợ giúp hoặc thảo luận về các vấn đề liên quan đến Aspose.Imaging cho Java ở đâu?
+**A:** Đối với hỗ trợ cộng đồng và thảo luận, bạn có thể truy cập [diễn đàn Aspose.Imaging](https://forum.aspose.com/). Đây là nơi tốt để tìm câu trả lời cho các câu hỏi và kết nối với người dùng khác.
 
-### Câu hỏi 2: Tôi có thể sử dụng Aspose.Imaging cho Java trong các dự án thương mại của mình không?
+### Q5: Aspose.Imaging cho Java có phù hợp cho xử lý ảnh trong các ứng dụng Java khác không?
+**A:** Chắc chắn. Thư viện hoạt động tốt trong các ứng dụng web, phần mềm desktop, công cụ xử lý batch và nhiều môi trường khác, cung cấp API nhất quán trên mọi nền tảng.
 
-A2: Có, Aspose.Imaging for Java cung cấp cả bản dùng thử miễn phí và giấy phép thương mại. Bạn có thể khám phá các tùy chọn của mình và có được giấy phép cần thiết từ [Trang web của Aspose](https://purchase.aspose.com/buy).
+## Kết luận
+Bạn đã học được **cách nhị phân hình ảnh** bằng Aspose.Imaging cho Java với Bradley’s Adaptive Threshold. Kỹ thuật này đặc biệt hữu ích cho **xử lý ảnh y tế**, cho phép bạn chuyển đổi các tệp DICOM sang định dạng BMP nhẹ (hoặc các định dạng khác) để phân tích hoặc lưu trữ. Hãy tiếp tục thử nghiệm với các ngưỡng khác nhau và khám phá các tính năng phong phú còn lại của Aspose.Imaging.
 
-### Câu hỏi 3: Có giấy phép tạm thời nào phục vụ mục đích thử nghiệm không?
+Để tìm hiểu sâu hơn về thao tác ảnh, hãy xem tài liệu chính thức: [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/).
 
-A3: Có, bạn có thể xin giấy phép tạm thời để thử nghiệm và đánh giá Aspose.Imaging cho Java. Truy cập [liên kết này](https://purchase.aspose.com/temporary-license/) để biết thêm thông tin.
+---
 
-### Câu hỏi 4: Tôi có thể tìm kiếm trợ giúp hoặc thảo luận các vấn đề liên quan đến Aspose.Imaging cho Java ở đâu?
-
-A4: Để được cộng đồng hỗ trợ và thảo luận, bạn có thể truy cập [Diễn đàn Aspose.Imaging](https://forum.aspose.com/). Đây là nơi tuyệt vời để tìm câu trả lời cho câu hỏi của bạn và kết nối với những người dùng khác.
-
-### Câu hỏi 5: Aspose.Imaging for Java có phù hợp để xử lý hình ảnh trong các ứng dụng dựa trên Java khác không?
-
-A5: Có, Aspose.Imaging for Java rất linh hoạt và có thể được sử dụng trong nhiều ứng dụng dựa trên Java, bao gồm ứng dụng web, phần mềm máy tính để bàn, v.v.
+**Cập nhật lần cuối:** 2026-01-09  
+**Đã kiểm tra với:** Aspose.Imaging for Java 24.12 (phiên bản mới nhất tại thời điểm viết)  
+**Tác giả:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

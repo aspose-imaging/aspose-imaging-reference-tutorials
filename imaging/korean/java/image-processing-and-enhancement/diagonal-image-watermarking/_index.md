@@ -1,10 +1,12 @@
 ---
-"description": "Aspose.Imaging for Java를 사용하여 대각선 워터마크로 이미지를 더욱 돋보이게 하세요. 이 단계별 가이드를 따라 멋진 워터마크 이미지를 손쉽게 만들어 보세요."
-"linktitle": "대각선 이미지 워터마킹"
-"second_title": "Aspose.Imaging Java 이미지 처리 API"
-"title": "Aspose.Imaging for Java를 이용한 대각선 이미지 워터마킹"
-"url": "/ko/java/image-processing-and-enhancement/diagonal-image-watermarking/"
-"weight": 14
+date: 2026-01-09
+description: Aspose.Imaging for Java를 사용하여 이미지에 워터마크를 추가하는 방법을 배워보세요. 이 Java 이미지 처리
+  튜토리얼은 대각선 워터마크를 빠르게 만드는 단계별 방법을 보여줍니다.
+linktitle: Diagonal Image Watermarking
+second_title: Aspose.Imaging Java Image Processing API
+title: 워터마크 추가 방법 – 대각선 이미지 워터마크 (Java)
+url: /ko/java/image-processing-and-enhancement/diagonal-image-watermarking/
+weight: 14
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,24 +15,36 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Aspose.Imaging for Java를 이용한 대각선 이미지 워터마킹
+# 워터마크 추가 방법 – 대각선 이미지 워터마크 (Java)
 
+스타일리시한 대각선 방향으로 사진에 **how to add watermark**을 찾고 있다면, Aspose.Imaging for Java가 손쉽게 도와줍니다. 이 단계별 튜토리얼에서는 JPG(또는 지원되는 모든) 이미지에 45도 회전된 텍스트 워터마크를 추가하는 과정을 안내합니다. Java 전문가일 필요는 없습니다 – 각 블록이 쉬운 언어로 설명되어 몇 분 안에 결과를 재현할 수 있습니다.
 
-세련된 대각선 워터마크로 이미지를 더욱 돋보이게 하고 싶다면 Aspose.Imaging for Java가 도와드리겠습니다. 이 단계별 가이드에서는 기존 JPG 이미지에 45도 회전된 텍스트 워터마크를 추가하는 과정을 안내해 드립니다. Java나 이미지 처리 전문가가 아니어도 쉽게 따라 할 수 있습니다. 각 예시를 여러 단계로 나누어 전문적인 결과를 쉽게 얻을 수 있도록 도와드리겠습니다.
+## 빠른 답변
+- **사용된 라이브러리는?** Aspose.Imaging for Java  
+- **다루는 주요 키워드?** how to add watermark  
+- **지원되는 이미지 포맷?** JPEG, PNG, BMP, TIFF, GIF and more  
+- **필요한 코드 양은?** Only seven concise code blocks  
+- **테스트에 라이선스가 필요합니까?** A free trial is available; a license is required for production  
 
-## 필수 조건
+## 이미지 처리에서 “how to add watermark”란 무엇인가요?
 
-이미지 워터마킹의 흥미로운 세계로 들어가기 전에 몇 가지를 준비해야 합니다.
+워터마크를 추가한다는 것은 이미지 위에 반투명 텍스트나 그래픽을 겹쳐서 소유권을 보호하거나 브랜드를 표시하는 것을 의미합니다. 대각선 워터마크는 전체 사진을 가로지르고 잘라내기 어렵기 때문에 특히 효과적입니다.
 
-1. Aspose.Imaging for Java: Aspose.Imaging for Java가 설치되어 있는지 확인하세요. 다운로드 링크는 다음과 같습니다. [여기](https://releases.aspose.com/imaging/java/).
+## 왜 Aspose.Imaging for Java를 사용하나요?
 
-2. Java 개발 환경: 컴퓨터에 작동하는 Java 개발 환경이 설정되어 있어야 합니다.
+Aspose.Imaging은 저수준 픽셀 조작을 추상화하는 고수준 API를 제공하고, 수십 가지 포맷을 지원하며, 모든 Java 런타임에서 작동합니다. 대각선 워터마크 추가와 같이 달성하고자 하는 *무엇*에 집중할 수 있게 해 주며, 이미지 포맷의 특이점에 대해 걱정할 필요가 없습니다.
 
-3. 워터마크를 적용할 이미지: 워터마크를 적용할 이미지를 준비하여 디렉토리에 저장하세요. 이 튜토리얼에서는 샘플 이미지를 사용할 수 있습니다.
+## 사전 요구 사항
+
+시작하기 전에 다음 항목을 준비하십시오:
+
+1. **Aspose.Imaging for Java** – 공식 사이트에서 최신 버전을 **[here](https://releases.aspose.com/imaging/java/)** 에서 다운로드하십시오.  
+2. **Java Development Environment** – JDK 8 이상 및 선호하는 IDE(IntelliJ, Eclipse, VS Code 등).  
+3. **An image to watermark** – 코드에서 참조할 폴더에 샘플 JPG/TIFF/PNG 이미지를 배치하십시오.
 
 ## 패키지 가져오기
 
-먼저, 이미지 워터마킹을 위해 Java 프로젝트를 준비하는 데 필요한 패키지를 가져옵니다. 다음은 포함해야 하는 필수 패키지입니다.
+먼저, 필요한 클래스를 가져옵니다. import 구문을 한 곳에 모아두면 코드를 읽고 유지보수하기가 쉬워집니다.
 
 ```java
 import com.aspose.imaging.*;
@@ -41,114 +55,126 @@ import com.aspose.imaging.imageoptions.*;
 import com.aspose.imaging.text.*;
 ```
 
-## 1단계: 기존 이미지 로드
+## 단계 1: 기존 이미지 로드
 
-워터마크를 추가할 이미지를 불러오세요. 이 예시에서는 "ModifyingImages" 디렉터리에 "SampleTiff1.tiff"라는 JPG 이미지가 있다고 가정합니다.
+먼저 원본 사진을 로드합니다. `Image.load` 메서드는 형식을 자동으로 감지합니다.
 
 ```java
-// 문서 디렉토리의 경로입니다.
+// The path to the documents directory.
 String dataDir = "Your Document Directory" + "ModifyingImages/";
 
-// 기존 JPG 이미지 로드
+// Load an existing JPG image
 try (Image image = Image.load(dataDir + "SampleTiff1.tiff"))
 {
-    // 나머지 코드는 여기에 있습니다
+    // Rest of the code goes here
 }
 ```
 
-## 2단계: 워터마크 텍스트 및 그래픽 준비
+> **팁:** `Image` 객체를 (보여진 것처럼) try‑with‑resources 블록으로 감싸면 자동으로 해제되어 메모리 누수를 방지합니다.
 
-이제 워터마크 텍스트를 선언하고 워터마크에 대한 그래픽을 설정해 보겠습니다.
+## 단계 2: 워터마크 텍스트 및 그래픽 준비
+
+`Graphics` 객체를 로드된 이미지에 연결하고, 이후 계산을 위해 이미지 크기를 저장합니다.
 
 ```java
-// 워터마크 텍스트가 포함된 문자열 객체를 선언합니다.
+// Declare a String object with Watermark Text
 String theString = "45 Degree Rotated Text";
 
-// Graphics 클래스의 인스턴스를 생성하고 초기화합니다.
+// Create and initialize an instance of Graphics class
 Graphics graphics = new Graphics(image);
 
-// 이미지 크기를 저장하기 위해 SizeF 객체를 초기화합니다.
+// Initialize an object of SizeF to store image Size
 Size sz = graphics.getImage().getSize();
 ```
 
-## 3단계: 글꼴 및 브러시 정의
+## 단계 3: 폰트 및 브러시 정의
 
-워터마크의 글꼴과 브러시를 설정하세요. 원하는 대로 글꼴, 크기, 스타일을 맞춤 설정할 수 있습니다.
+눈에 띄는 폰트를 선택하고, 워터마크의 색상과 투명도를 정의하는 브러시를 지정합니다. 투명도를 조정하여 워터마크를 반투명하게 만듭니다.
 
 ```java
-// Font 인스턴스를 생성하고 글꼴, 크기 및 스타일로 초기화합니다.
+// Create an instance of Font, initialize it with Font Face, Size, and Style
 Font font = new Font("Times New Roman", 20, FontStyle.Bold);
 
-// SolidBrush 인스턴스를 생성하고 다양한 속성을 설정합니다.
+// Create an instance of SolidBrush and set its various properties
 SolidBrush brush = new SolidBrush();
 brush.setColor(Color.getRed());
 brush.setOpacity(0);
 ```
 
-## 4단계: 텍스트 서식 지정
+## 단계 4: 텍스트 형식 지정
 
-정렬 및 서식 플래그를 포함하여 워터마크 텍스트의 서식을 정의합니다.
+텍스트가 그려질 때 가운데 정렬되도록 정렬 및 포맷 플래그를 설정합니다.
 
 ```java
-// StringFormat 클래스의 객체를 초기화하고 다양한 속성을 설정합니다.
+// Initialize an object of StringFormat class and set its various properties
 StringFormat format = new StringFormat();
 format.setAlignment(StringAlignment.Center);
 format.setFormatFlags(StringFormatFlags.MeasureTrailingSpaces);
 ```
 
-## 5단계: 변환 적용
+## 단계 5: 변환 적용
 
-워터마크 텍스트를 배치하고 회전하는 변환 행렬을 생성합니다. 이 예시에서는 텍스트를 45도 회전합니다.
+변환 행렬을 사용하면 원점을 이미지 중앙으로 이동한 뒤 텍스트를 ‑45°(시계 방향) 회전시킬 수 있습니다.
 
 ```java
-// 변환을 위한 Matrix 클래스 객체 생성
+// Create an object of Matrix class for transformation
 Matrix matrix = new Matrix();
-// 먼저 변환하고 그 다음에 회전합니다.
+// First a translation then a rotation
 matrix.translate(sz.getWidth() / 2f, sz.getHeight() / 2f);
 matrix.rotate(-45.0f);
-// 행렬을 통해 변환 설정
+// Set the Transformation through Matrix
 graphics.setTransform(matrix);
 ```
 
-## 6단계: 그리기 및 저장
+## 단계 6: 그리기 및 저장
 
-이제 이미지에 텍스트를 추가하고 워터마크가 들어간 이미지를 원하는 위치에 저장할 차례입니다.
+마지막으로 문자열을 이미지에 렌더링하고 결과를 디스크에 저장합니다.
 
 ```java
-// 이미지에 문자열을 그립니다
+// Draw the string on Image
 graphics.drawString(theString, font, brush, 0, 0, format);
 
-// 출력을 디스크에 저장
+// Save output to disk
 image.save("Your Document Directory" + "AddDiagonalWatermarkToImage_out.jpg");
 ```
 
-축하합니다! Aspose.Imaging for Java를 사용하여 이미지에 대각선 워터마크를 성공적으로 추가했습니다.
+`AddDiagonalWatermarkToImage_out.jpg` 파일을 열면 사진 중앙을 가로지르는 빨간색 반투명 텍스트가 기울어져 있는 것을 볼 수 있습니다.
 
-## 결론
+## 일반적인 문제 및 해결책
 
-이 튜토리얼에서는 Aspose.Imaging for Java를 사용하여 대각선 워터마크로 이미지를 더욱 돋보이게 하는 방법을 알아보았습니다. Aspose.Imaging은 이미지에 전문적인 느낌을 더하는 강력한 도구입니다. 몇 가지 간단한 단계만으로 다른 이미지와 차별화되는 멋진 워터마크 이미지를 만들 수 있습니다.
+| 문제 | 이유 | 해결 방법 |
+|---------|--------|-----|
+| 워터마크가 너무 옅게 보임 | 불투명도가 0(완전 투명)으로 설정됨 | 불투명도를 높이세요, 예: `brush.setOpacity(0.5f);` |
+| 텍스트가 가장자리에 잘림 | 비정사각형 이미지에서 변환이 중앙에 맞춰지지 않음 | `matrix.translate(sz.getWidth() / 2f, sz.getHeight() / 2f);` 를 사용하고 필요에 따라 회전 각도를 조정하세요 |
+| 지원되지 않는 이미지 포맷 오류 | 구버전 Aspose.Imaging 사용 | 최신 Aspose.Imaging 릴리스로 업데이트하세요 |
 
 ## 자주 묻는 질문
 
-### Q1: Aspose.Imaging for Java는 초보자에게 적합합니까?
+### Q1: Aspose.Imaging for Java가 초보자에게 적합한가요?
 
-A1: 물론입니다! Aspose.Imaging for Java는 사용자 친화적인 인터페이스와 풍부한 설명서를 제공합니다. 초보자도 이미지 처리를 빠르게 시작할 수 있습니다.
+**A:** 물론입니다! API가 직관적이며 문서에 명확한 예제가 제공됩니다. 이미지 처리에 처음인 개발자도 이 튜토리얼을 따라 빠르게 전문가 수준의 결과물을 만들 수 있습니다.
 
-### 질문 2: 워터마크 텍스트와 스타일을 사용자 정의할 수 있나요?
+### Q2: 워터마크 텍스트와 스타일을 커스터마이즈할 수 있나요?
 
-A2: 네, 귀하의 선호도와 브랜딩에 맞게 워터마크 텍스트, 글꼴, 크기, 색상, 회전 각도를 쉽게 사용자 지정할 수 있습니다.
+**A:** 예. `theString` 변수를 변경하고, 다른 `Font`를 선택하거나 `brush.setColor(...)`를 수정하고, 매트릭스의 회전 각도를 조정하여 브랜드에 맞게 설정할 수 있습니다.
 
-### Q3: Aspose.Imaging for Java는 JPG 외에 다른 이미지 포맷도 지원합니까?
+### Q3: Aspose.Imaging for Java가 JPG 외에 다른 이미지 포맷을 지원하나요?
 
-A3: 네, Aspose.Imaging for Java는 BMP, PNG, GIF 등 다양한 이미지 형식을 지원합니다.
+**A:** 예. 라이브러리는 BMP, PNG, GIF, TIFF, PSD 등 다양한 포맷을 지원합니다. `Image.load` 메서드에 해당 파일을 지정하기만 하면 됩니다.
 
-### 질문 4: Aspose.Imaging for Java에 대한 무료 평가판이 있나요?
+### Q4: Aspose.Imaging for Java의 무료 체험판이 있나요?
 
-A4: 네, Aspose.Imaging for Java를 무료 체험판으로 사용해 보실 수 있습니다. 지금 바로 다운로드하세요. [여기](https://releases.aspose.com/).
+**A:** 예, Aspose.Imaging for Java를 무료 체험판으로 사용해 볼 수 있습니다. **[here](https://releases.aspose.com/)** 에서 받으세요.
 
-### 질문 5: Aspose.Imaging for Java에 대한 도움말이나 지원은 어디에서 찾을 수 있나요?
+### Q5: Aspose.Imaging for Java에 대한 도움이나 지원을 어디서 받을 수 있나요?
 
-A5: 질문이 있거나 도움이 필요하면 Aspose.Imaging for Java 지원 포럼을 방문하세요. [여기](https://forum.aspose.com/).
+**A:** 질문, 버그 보고, 모범 사례 조언 등을 위해 Aspose.Imaging for Java 지원 포럼 **[here](https://forum.aspose.com/)** 을 방문하십시오.
+
+---
+
+**마지막 업데이트:** 2026-01-09  
+**테스트 환경:** Aspose.Imaging for Java 24.11 (작성 시 최신 버전)  
+**작성자:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

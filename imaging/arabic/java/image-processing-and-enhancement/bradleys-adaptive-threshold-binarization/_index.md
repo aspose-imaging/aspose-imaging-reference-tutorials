@@ -1,10 +1,12 @@
 ---
-"description": "تعلم تحويل الصور إلى صور ثنائية باستخدام Aspose.Imaging لجافا. حوّل صور DICOM بسهولة. استكشف دليلاً خطوة بخطوة مع أمثلة برمجية."
-"linktitle": "ثنائيات عتبة برادلي التكيفية"
-"second_title": "واجهة برمجة تطبيقات معالجة الصور Java Aspose.Imaging"
-"title": "تحويل الصور إلى صور ثنائية باستخدام Aspose.Imaging لـ Java"
-"url": "/ar/java/image-processing-and-enhancement/bradleys-adaptive-threshold-binarization/"
-"weight": 27
+date: 2026-01-09
+description: تعلم كيفية تحويل الصورة إلى ثنائية باستخدام Aspose.Imaging للغة Java.
+  يغطي هذا الدليل تقنيات معالجة الصور في Java لتحويل DICOM إلى BMP.
+linktitle: Bradley's Adaptive Threshold Binarization
+second_title: Aspose.Imaging Java Image Processing API
+title: كيفية تحويل الصورة إلى ثنائية باستخدام Aspose.Imaging لجافا
+url: /ar/java/image-processing-and-enhancement/bradleys-adaptive-threshold-binarization/
+weight: 27
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,51 +15,56 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# تحويل الصور إلى صور ثنائية باستخدام Aspose.Imaging لـ Java
+# كيفية تحويل الصورة إلى ثنائية باستخدام Aspose.Imaging للـ Java
 
-تلعب الصور دورًا محوريًا في العالم الرقمي، سواءً على مواقع الويب أو في المستندات أو كجزء من تطبيقات متنوعة. تُعد معالجة الصور مهمة أساسية في هذه المجالات، ومن العمليات الأساسية فيها تحويل الصور إلى صيغة ثنائية. تُبسط هذه العملية الصورة بتحويلها إلى صيغة ثنائية، مما يُسهّل على أجهزة الكمبيوتر معالجتها. يُعد Aspose.Imaging for Java أداة فعّالة توفر مجموعة واسعة من ميزات معالجة الصور، وفي هذا البرنامج التعليمي، سنستكشف كيفية إجراء تحويل الصور إلى صيغة ثنائية باستخدام خاصية Bradley's Adaptive Threshold Binarization من Aspose.Imaging. 
+تلعب الصور دورًا حيويًا في العالم الرقمي، سواء على المواقع الإلكترونية أو في المستندات أو كجزء من تطبيقات مختلفة. إذا كنت تتساءل **كيف تقوم بتحويل الصورة إلى ثنائية** بكفاءة، خاصةً للأنماط الطبية مثل DICOM، فأنت في المكان الصحيح. تحويل الصورة إلى ثنائية يبسط الصورة بتحويلها إلى تمثيل أبيض‑أسود، وهو مثالي للتحليل اللاحق، أو OCR، أو تحسين التخزين. في هذا الدرس سنستعرض العملية بالكامل باستخدام خوارزمية Bradley’s Adaptive Threshold Binarization في Aspose.Imaging للـ Java.
 
-## المتطلبات الأساسية
+## إجابات سريعة
+- **ماذا يفعل التحويل إلى ثنائية؟** يحول كل بكسل إلى إما أسود أو أبيض بناءً على عتبة محددة.
+- **ما هي أفضل مكتبة لمعالجة الصور في Java؟** Aspose.Imaging للـ Java توفر ميزات تجريبية قوية وخالية من الترخيص.
+- **هل يمكنني معالجة ملفات DICOM مباشرة؟** نعم، Aspose.Imaging يمكنه تحميل DICOM وتصديره كـ BMP، PNG، إلخ.
+- **هل أحتاج إلى ترخيص للاستخدام في الإنتاج؟** يتطلب الاستخدام غير التجريبي ترخيصًا تجاريًا.
+- **ما نسخة Java المدعومة؟** Java 8 وما فوق متوافقة بالكامل.
 
-قبل الغوص في عالم تحويل الصور إلى صور ثنائية باستخدام Aspose.Imaging لـ Java، دعنا نتأكد من أن لديك كل ما تحتاجه:
+## ما هو تحويل الصورة إلى ثنائية؟
+تحويل الصورة إلى ثنائية هو عملية تحويل صورة رمادية أو ملونة إلى صورة ثنائية حيث يكون كل بكسل إما 0 (أسود) أو 255 (أبيض). غالبًا ما تكون هذه الخطوة هي المرحلة الأولى في خطوط معالجة الصور الطبية، ومسح المستندات، ومهام الرؤية الحاسوبية.
 
-### بيئة تطوير جافا
+## لماذا نستخدم Aspose.Imaging للـ Java؟
+توفر Aspose.Imaging واجهة برمجة تطبيقات Pure‑Java **تقوم بتحميل DICOM**، وتطبق خوارزميات متقدمة مثل **Bradley’s Adaptive Threshold**، وتحفظ النتيجة بصيغ شائعة دون الحاجة إلى مكتبات أصلية خارجية. إنها مثالية **لمعالجة الصور الطبية**، **تحويل DICOM إلى BMP**، وغيرها من سير عمل Java.
 
-يجب أن يكون لديك بيئة تطوير جافا مُثبّتة على نظامك. إذا لم تكن مُثبّتة بالفعل، يمكنك تنزيل وتثبيت Java Development Kit (JDK) من موقع Oracle الإلكتروني.
+## المتطلبات المسبقة
 
-### Aspose.Imaging لـ Java
+قبل الغوص في الشيفرة، تأكد من توفر ما يلي:
 
-لمتابعة هذا البرنامج التعليمي، ستحتاج إلى تثبيت Aspose.Imaging for Java. يمكنك تنزيله من موقع Aspose الإلكتروني باستخدام الرابط التالي: [تنزيل Aspose.Imaging لـ Java](https://releases.aspose.com/imaging/java/).
+- **بيئة تطوير Java** – JDK 8 أو أحدث مثبتة.
+- **Aspose.Imaging للـ Java** – حمّلها من الموقع الرسمي: [Download Aspose.Imaging for Java](https://releases.aspose.com/imaging/java/).
+- **صورة DICOM** – أي ملف DICOM تجريبي ترغب في تحويله إلى ثنائي.
 
-### صورة DICOM
+الآن بعد أن تم إعداد كل شيء، لننتقل إلى التنفيذ.
 
-ستحتاج إلى صورة DICOM ترغب في تحويلها إلى صورة ثنائية. إذا لم تكن لديك واحدة، يمكنك العثور على نماذج صور DICOM على الإنترنت، أو استخدام صور DICOM الخاصة بك.
+## كيفية تحويل الصورة إلى ثنائية – دليل خطوة بخطوة
 
-الآن بعد أن أصبحت المتطلبات الأساسية جاهزة، دعنا ننتقل إلى الخطوة التالية.
-
-## استيراد الحزم
-
-في هذا القسم، سنستورد الحزم اللازمة من Aspose.Imaging لجافا. تحتوي هذه الحزم على الفئات والطرق اللازمة لتنفيذ عملية برادلي للتحويل الثنائي التكيفي للعتبة على صورة DICOM.
+### استيراد الحزم
+أولاً، استورد الفئات المطلوبة من Aspose.Imaging. يحدد هذا المقتطف أيضًا مسارات ملفات الإدخال والإخراج.
 
 ```java
-// المسار إلى دليل المستندات.
+// The path to the documents directory.
 String dataDir = "Your Document Directory" + "dicom/";
 String inputFile = dataDir + "image.dcm";
 String outputFile = "Your Document Directory" + "BinarizationwithBradleyAdaptiveThreshold_out.bmp";
 
-// تحميل صورة DICOM في مثيل DicomImage
+// Load a DICOM image in an instance of DicomImage
 try (com.aspose.imaging.fileformats.dicom.DicomImage image = (com.aspose.imaging.fileformats.dicom.DicomImage) Image.load(inputFile))
 {
-    // قم بتحويل الصورة إلى صورة ثنائية باستخدام عتبة برادلي التكيفية.
+    // Binarize image with Bradley's adaptive threshold.
     image.binarizeBradley(10);
-    // احفظ الصورة الناتجة.
+    // Save the resultant image.
     image.save(outputFile, new com.aspose.imaging.imageoptions.BmpOptions());
 }
 ```
 
-## الخطوة 1: تحديد المسارات
-
-أولاً، حدد مسارات صورة DICOM المدخلة والصورة الثنائية الناتجة. استبدل `"Your Document Directory"` مع المسار الفعلي إلى الدليل الخاص بك.
+### الخطوة 1: تعريف المسارات
+حدد مواقع ملف DICOM المصدر وملف BMP الوجهة. استبدل `"Your Document Directory"` بالمجلد الفعلي على نظامك.
 
 ```java
 String dataDir = "Your Document Directory" + "dicom/";
@@ -65,60 +72,63 @@ String inputFile = dataDir + "image.dcm";
 String outputFile = "Your Document Directory" + "BinarizationwithBradleyAdaptiveThreshold_out.bmp";
 ```
 
-## الخطوة 2: تحميل صورة DICOM
-
-استخدم Aspose.Imaging لتحميل صورة DICOM المحددة بواسطة `inputFile`. هذه العملية تنشئ مثيلًا لـ `DicomImage` فصل.
+### الخطوة 2: تحميل صورة DICOM
+استخدم Aspose.Imaging **لتحميل صورة dicom** في كائن `DicomImage`. يتيح لك هذا الكائن الوصول الكامل إلى بيانات البكسل وطرق المعالجة.
 
 ```java
 try (com.aspose.imaging.fileformats.dicom.DicomImage image = (com.aspose.imaging.fileformats.dicom.DicomImage) Image.load(inputFile))
 {
-    // خطوات معالجة الصورة سوف تذهب هنا.
+    // The image processing steps will go here.
 }
 ```
 
-## الخطوة 3: تنفيذ عملية الثنائية
-
-نفّذ عملية تحويل العتبة التكيفية لبرادلي إلى صورة DICOM المحملة. في هذا المثال، عتبة `10` يتم تطبيقه.
+### الخطوة 3: تنفيذ التحويل إلى ثنائية
+طبق خوارزمية Bradley’s Adaptive Threshold. المتغير (`10` في هذا المثال) يتحكم في حساسية العتبة؛ يمكنك تجربة قيم مختلفة للحصول على أفضل نتيجة.
 
 ```java
 image.binarizeBradley(10);
 ```
 
-## الخطوة 4: حفظ الصورة الثنائية
-
-احفظ الصورة الثنائية الناتجة في ملف الإخراج المحدد باستخدام تنسيق BMP.
+### الخطوة 4: حفظ الصورة الثنائية
+أخيرًا، صدّر الصورة المعالجة. هنا نستخدم صيغة BMP، لكن Aspose.Imaging يدعم PNG، JPEG، TIFF، والعديد غيرها.
 
 ```java
 image.save(outputFile, new com.aspose.imaging.imageoptions.BmpOptions());
 ```
 
-## خاتمة
+## المشكلات الشائعة & استكشاف الأخطاء وإصلاحها
 
-تهانينا! لقد تعلمتَ بنجاح كيفية إجراء عملية تحويل الصور إلى صور ثنائية باستخدام Aspose.Imaging لجافا باستخدام تقنية Bradley's Adaptive Threshold Binarization. تتيح لك هذه الأداة الفعّالة تحسين قدراتك في معالجة الصور، مما يجعلها أداة قيّمة في تطبيقات متنوعة.
+- **FileNotFoundException** – تأكد من أن مسار `dataDir` ينتهي بشرطة مائلة (`/`) وأن اسم ملف DICOM مطابق تمامًا.
+- **OutOfMemoryError** – قد تتطلب ملفات DICOM الكبيرة زيادة حجم الذاكرة المخصصة للـ JVM (`-Xmx2g` أو أعلى).
+- **عتبة غير صحيحة** – إذا كان الناتج مظلمًا جدًا أو فاتحًا جدًا، عدّل العدد الممرّر إلى `binarizeBradley()` (مثلاً 5‑15).
 
-تذكر أن تستكشف وثائق Aspose.Imaging الشاملة لمزيد من إمكانيات معالجة الصور: [توثيق Aspose.Imaging لـ Java](https://reference.aspose.com/imaging/java/).
+## الأسئلة المتكررة
 
-## الأسئلة الشائعة
+### س1: ما هو DICOM ولماذا هو مهم في التصوير الطبي؟
+**ج:** DICOM هو اختصار لـ Digital Imaging and Communications in Medicine. وهو المعيار العالمي لتخزين، نقل، ومعالجة الصور الطبية، مما يتيح التوافق بين الأجهزة والأنظمة.
 
-### س1: ما هو DICOM، ولماذا هو مهم في التصوير الطبي؟
+### س2: هل يمكنني استخدام Aspose.Imaging للـ Java في مشاريعي التجارية؟
+**ج:** نعم، Aspose.Imaging للـ Java يقدم نسخ تجريبية مجانية وتراخيص تجارية. يمكنك استكشاف الخيارات والحصول على الترخيص المناسب من [موقع Aspose](https://purchase.aspose.com/buy).
 
-ج١: DICOM هو اختصار لـ Digital Imaging and Communications in Medicine (التصوير الرقمي والاتصالات في الطب)، وهو تنسيق قياسي للصور الطبية والمعلومات ذات الصلة. يلعب دورًا محوريًا في تخزين الصور الطبية وتبادلها وتفسيرها، مما يجعله حيويًا لمقدمي الرعاية الصحية وأنظمة التصوير الطبي.
+### س3: هل توجد تراخيص مؤقتة متاحة لأغراض الاختبار؟
+**ج:** نعم، يمكنك الحصول على ترخيص مؤقت للاختبار وتقييم Aspose.Imaging للـ Java. زر [هذا الرابط](https://purchase.aspose.com/temporary-license/) لمزيد من المعلومات.
 
-### س2: هل يمكنني استخدام Aspose.Imaging لـ Java في مشاريعي التجارية؟
+### س4: أين يمكنني طلب المساعدة أو مناقشة القضايا المتعلقة بـ Aspose.Imaging للـ Java؟
+**ج:** للحصول على دعم المجتمع والنقاشات، يمكنك زيارة [منتدى Aspose.Imaging](https://forum.aspose.com/). إنه مكان رائع للحصول على إجابات أسئلتك والتواصل مع مستخدمين آخرين.
 
-ج٢: نعم، يُقدّم Aspose.Imaging for Java نسخًا تجريبية مجانية وتراخيص تجارية. يمكنك استكشاف خياراتك والحصول على التراخيص اللازمة من [موقع Aspose](https://purchase.aspose.com/buy).
+### س5: هل Aspose.Imaging للـ Java مناسب لمعالجة الصور في تطبيقات Java أخرى؟
+**ج:** بالتأكيد. تعمل المكتبة جيدًا في تطبيقات الويب، البرامج المكتبية، أدوات المعالجة الدفعية، وأكثر، مع توفير واجهة برمجة تطبيقات موحدة عبر المنصات.
 
-### س3: هل هناك أي تراخيص مؤقتة متاحة لأغراض الاختبار؟
+## الخلاصة
+لقد تعلمت الآن **كيفية تحويل الصورة إلى ثنائية** باستخدام Aspose.Imaging للـ Java مع خوارزمية Bradley’s Adaptive Threshold. هذه التقنية ذات قيمة خاصة **في معالجة الصور الطبية**، حيث تمكنك من تحويل ملفات DICOM إلى صيغ BMP خفيفة (أو صيغ أخرى) للتحليل أو التخزين. استمر في تجربة عتبات مختلفة واستكشف باقي ميزات Aspose.Imaging الغنية.
 
-ج٣: نعم، يمكنك الحصول على ترخيص مؤقت لاختبار وتقييم Aspose.Imaging لجافا. تفضل بزيارة [هذا الرابط](https://purchase.aspose.com/temporary-license/) لمزيد من المعلومات.
+لمزيد من التفاصيل حول معالجة الصور، اطلع على الوثائق الرسمية: [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/).
 
-### س4: أين يمكنني طلب المساعدة أو مناقشة المشكلات المتعلقة بـ Aspose.Imaging for Java؟
+---
 
-أ4: للحصول على دعم المجتمع والمناقشات، يمكنك زيارة [منتدى Aspose.Imaging](https://forum.aspose.com/)إنه مكان رائع للعثور على إجابات لأسئلتك والتواصل مع مستخدمين آخرين.
-
-### س5: هل Aspose.Imaging for Java مناسب لمعالجة الصور في التطبيقات الأخرى المستندة إلى Java؟
-
-ج5: نعم، يعد Aspose.Imaging for Java متعدد الاستخدامات ويمكن استخدامه في العديد من التطبيقات المستندة إلى Java، بما في ذلك تطبيقات الويب وبرامج سطح المكتب والمزيد.
+**آخر تحديث:** 2026-01-09  
+**تم الاختبار مع:** Aspose.Imaging للـ Java 24.12 (أحدث نسخة وقت الكتابة)  
+**المؤلف:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

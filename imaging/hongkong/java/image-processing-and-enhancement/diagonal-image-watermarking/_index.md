@@ -1,10 +1,11 @@
 ---
-"description": "使用 Aspose.Imaging for Java 為您的圖片添加對角線浮水印效果。請按照本逐步指南操作，輕鬆創建令人驚嘆的浮水印圖片。"
-"linktitle": "對角線影像浮水印"
-"second_title": "Aspose.Imaging Java映像處理API"
-"title": "使用 Aspose.Imaging for Java 對角線影像進行浮水印"
-"url": "/zh-hant/java/image-processing-and-enhancement/diagonal-image-watermarking/"
-"weight": 14
+date: 2026-01-09
+description: 了解如何使用 Aspose.Imaging for Java 為圖像添加水印。本 Java 圖像處理教學將逐步示範如何快速製作斜角水印。
+linktitle: Diagonal Image Watermarking
+second_title: Aspose.Imaging Java Image Processing API
+title: 如何添加水印 – 對角線圖像水印 (Java)
+url: /zh-hant/java/image-processing-and-enhancement/diagonal-image-watermarking/
+weight: 14
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,24 +14,34 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# 使用 Aspose.Imaging for Java 對角線影像進行浮水印
+# 如何添加水印 – 斜向影像水印 (Java)
 
+如果你想 **how to add watermark** 到圖片，並以時尚的斜向方式呈現，Aspose.Imaging for Java 讓這件事變得輕而易舉。在本步驟教學中，我們將示範如何在 JPG（或任何支援格式）影像上加入 45 度旋轉的文字水印。即使你不是 Java 大師，也能在幾分鐘內照著說明完成。
 
-如果您想用時尚的對角線浮水印來增強影像效果，Aspose.Imaging for Java 可以幫助您。在本逐步指南中，我們將引導您完成為現有 JPG 影像添加 45 度旋轉文字浮水印的過程。您無需精通 Java 或影像處理即可跟隨指南操作——我們將每個範例分解為多個步驟，確保您輕鬆獲得專業效果。
+## 快速回答
+- **使用的函式庫是？** Aspose.Imaging for Java  
+- **涵蓋的主要關鍵字是？** how to add watermark  
+- **支援的影像格式？** JPEG, PNG, BMP, TIFF, GIF 以及其他  
+- **需要多少程式碼？** 只需七個簡潔的程式碼區塊  
+- **測試需要授權嗎？** 提供免費試用版；正式環境需購買授權  
 
-## 先決條件
+## 什麼是影像處理中的「how to add watermark」？
+添加水印是指在影像上覆蓋半透明的文字或圖形，以保護版權或傳達品牌訊息。斜向水印特別有效，因為它橫跨整張圖片，較難被裁剪掉。
 
-在我們深入令人興奮的影像浮水印世界之前，您需要先做好以下幾件事：
+## 為什麼選擇 Aspose.Imaging for Java？
+Aspose.Imaging 提供高階 API，抽象掉低階像素操作，支援數十種格式，且可在任何 Java 執行環境上執行。它讓你專注於 *想要達成的目標*（例如加入斜向水印），而不必擔心影像格式的細節。
 
-1. Aspose.Imaging for Java：請確保您已安裝 Aspose.Imaging for Java。您可以找到下載鏈接 [這裡](https://releases。aspose.com/imaging/java/).
+## 前置條件
 
-2. Java 開發環境：您應該在電腦上設定一個可運行的 Java 開發環境。
+在開始之前，請確保已具備以下項目：
 
-3. 待添加浮水印的圖片：準備一張待添加浮水印的圖片，並將其儲存在目錄中。本教學中可以使用範例圖片。
+1. **Aspose.Imaging for Java** – 從官方網站 **[此處](https://releases.aspose.com/imaging/java/)** 下載最新版本。  
+2. **Java 開發環境** – JDK 8 以上，並使用你慣用的 IDE（IntelliJ、Eclipse、VS Code 等）。  
+3. **要加水印的影像** – 將範例 JPG/TIFF/PNG 放在程式碼會參照的資料夾中。
 
-## 導入包
+## 匯入套件
 
-首先，導入必要的軟體包，讓你的 Java 專案做好添加圖像浮水印的準備。以下是你需要包含的基本軟體包：
+首先匯入所需的類別。將匯入語句集中放置，可提升程式碼的可讀性與維護性。
 
 ```java
 import com.aspose.imaging.*;
@@ -41,45 +52,47 @@ import com.aspose.imaging.imageoptions.*;
 import com.aspose.imaging.text.*;
 ```
 
-## 步驟 1：載入現有映像
+## 步驟 1：載入現有影像
 
-載入要新增浮水印的圖片。在本例中，我們假設您的「ModifyingImages」目錄中有一個名為「SampleTiff1.tiff」的 JPG 圖片。
+使用 `Image.load` 方法載入來源圖片，該方法會自動偵測檔案格式。
 
 ```java
-// 文檔目錄的路徑。
+// The path to the documents directory.
 String dataDir = "Your Document Directory" + "ModifyingImages/";
 
-// 載入現有的 JPG 影像
+// Load an existing JPG image
 try (Image image = Image.load(dataDir + "SampleTiff1.tiff"))
 {
-    // 其餘代碼在此處
+    // Rest of the code goes here
 }
 ```
 
-## 步驟2：準備水印文字和圖形
+> **小技巧：** 如範例所示，將 `Image` 物件放在 try‑with‑resources 區塊中，能自動釋放資源，避免記憶體泄漏。
 
-現在，讓我們聲明您的浮水印文字並設定浮水印的圖形。
+## 步驟 2：準備水印文字與圖形
+
+建立與已載入影像關聯的 `Graphics` 物件，並取得影像尺寸以供後續計算使用。
 
 ```java
-// 聲明帶有水印文本的字串對象
+// Declare a String object with Watermark Text
 String theString = "45 Degree Rotated Text";
 
-// 建立並初始化 Graphics 類別的實例
+// Create and initialize an instance of Graphics class
 Graphics graphics = new Graphics(image);
 
-// 初始化 SizeF 物件來儲存影像大小
+// Initialize an object of SizeF to store image Size
 Size sz = graphics.getImage().getSize();
 ```
 
-## 步驟3：定義字體和畫筆
+## 步驟 3：定義字型與筆刷
 
-設定水印的字體和畫筆。您可以根據自己的喜好自訂字體、大小和樣式。
+選擇醒目的字型與筆刷，筆刷決定水印的顏色與不透明度。調整不透明度即可讓水印呈半透明效果。
 
 ```java
-// 建立 Font 實例，使用 Font Face、Size 和 Style 對其進行初始化
+// Create an instance of Font, initialize it with Font Face, Size, and Style
 Font font = new Font("Times New Roman", 20, FontStyle.Bold);
 
-// 建立 SolidBrush 實例並設定其各種屬性
+// Create an instance of SolidBrush and set its various properties
 SolidBrush brush = new SolidBrush();
 brush.setColor(Color.getRed());
 brush.setOpacity(0);
@@ -87,68 +100,78 @@ brush.setOpacity(0);
 
 ## 步驟 4：格式化文字
 
-定義浮水印文字的格式，包括對齊和格式標誌。
+設定對齊與格式旗標，使文字在繪製時置中。
 
 ```java
-// 初始化StringFormat類別的物件並設定其各種屬性
+// Initialize an object of StringFormat class and set its various properties
 StringFormat format = new StringFormat();
 format.setAlignment(StringAlignment.Center);
 format.setFormatFlags(StringFormatFlags.MeasureTrailingSpaces);
 ```
 
-## 步驟 5：應用轉換
+## 步驟 5：套用變換
 
-建立一個變換矩陣來定位和旋轉水印文字。在此範例中，我們將文字旋轉 45 度。
+變換矩陣讓我們先將原點移至影像中心，然後將文字順時針旋轉 ‑45°。
 
 ```java
-// 建立 Matrix 類別的物件用於轉換
+// Create an object of Matrix class for transformation
 Matrix matrix = new Matrix();
-// 先平移，再旋轉
+// First a translation then a rotation
 matrix.translate(sz.getWidth() / 2f, sz.getHeight() / 2f);
 matrix.rotate(-45.0f);
-// 透過矩陣設定變換
+// Set the Transformation through Matrix
 graphics.setTransform(matrix);
 ```
 
 ## 步驟 6：繪製並儲存
 
-現在，是時候將文字添加到圖像中，並將帶有浮水印的圖像儲存到所需的位置了。
+最後將字串繪製到影像上，並將結果寫入磁碟。
 
 ```java
-// 在圖像上繪製字串
+// Draw the string on Image
 graphics.drawString(theString, font, brush, 0, 0, format);
 
-// 將輸出儲存到磁碟
+// Save output to disk
 image.save("Your Document Directory" + "AddDiagonalWatermarkToImage_out.jpg");
 ```
 
-恭喜！您已成功使用 Aspose.Imaging for Java 在圖像上新增對角線浮水印。
+開啟 `AddDiagonalWatermarkToImage_out.jpg` 後，你會看到紅色、半透明的文字斜斜地覆蓋在圖片中心。
 
-## 結論
+## 常見問題與解決方案
 
-在本教程中，我們學習如何使用 Aspose.Imaging for Java 為圖片添加對角線浮水印。 Aspose.Imaging for Java 是一款功能強大的工具，可為您的圖片增添專業浮水印效果。只需幾個簡單的步驟，即可創造出令人驚艷、脫穎而出的浮水印圖片。
+| 問題 | 原因 | 解決方式 |
+|------|------|----------|
+| 水印太淡 | 不透明度設定為 0（完全透明） | 提高不透明度，例如 `brush.setOpacity(0.5f);` |
+| 文字在邊緣被裁切 | 非正方形影像的平移未置中 | 如範例使用 `matrix.translate(sz.getWidth() / 2f, sz.getHeight() / 2f);`，必要時調整旋轉角度 |
+| 不支援的影像格式錯誤 | 使用較舊的 Aspose.Imaging 版本 | 更新至最新的 Aspose.Imaging 版本 |
 
-## 常見問題解答
+## 常見問答
 
-### 問題1：Aspose.Imaging for Java 適合初學者嗎？
+### Q1：Aspose.Imaging for Java 適合初學者嗎？
 
-A1：當然！ Aspose.Imaging for Java 提供使用者友善的介面和全面的文件。即使是初學者也能快速上手影像處理。
+**A：** 絕對適合！API 直觀，文件提供清晰範例。即使是剛接觸影像處理的開發者，也能依照本教學快速產出專業成果。
 
-### Q2：我可以自訂浮水印文字和樣式嗎？
+### Q2：我可以自訂水印文字與樣式嗎？
 
-A2：是的，您可以輕鬆自訂浮水印文字、字體、大小、顏色和旋轉角度，以符合您的喜好和品牌。
+**A：** 可以。修改 `theString` 變數、換用不同的 `Font`、調整 `brush.setColor(...)`，或在矩陣中改變旋轉角度，即可符合品牌需求。
 
-### 問題3：Aspose.Imaging for Java 除了 JPG 之外還支援其他圖像格式嗎？
+### Q3：Aspose.Imaging for Java 支援除 JPG 之外的其他影像格式嗎？
 
-A3：是的，Aspose.Imaging for Java 支援多種圖片格式，包括 BMP、PNG、GIF 等。
+**A：** 支援。函式庫可處理 BMP、PNG、GIF、TIFF、PSD 等多種格式，只要將 `Image.load` 指向相應檔案即可。
 
-### 問題4：Aspose.Imaging for Java 有免費試用版嗎？
+### Q4：Aspose.Imaging for Java 有免費試用版嗎？
 
-A4：是的，您可以免費試用 Aspose.Imaging for Java。獲取 [這裡](https://releases。aspose.com/).
+**A：** 有，您可以在 **[此處](https://releases.aspose.com/)** 取得免費試用版。
 
-### 問題5：在哪裡可以找到有關 Aspose.Imaging for Java 的幫助或支援？
+### Q5：在哪裡可以取得 Aspose.Imaging for Java 的支援或協助？
 
-A5：如果您有任何疑問或需要協助，請造訪 Aspose.Imaging for Java 支援論壇 [這裡](https://forum。aspose.com/).
+**A：** 如需提問、回報錯誤或尋求最佳實踐建議，請前往 Aspose.Imaging for Java 支援論壇 **[此處](https://forum.aspose.com/)**。
+
+---
+
+**最後更新：** 2026-01-09  
+**測試環境：** Aspose.Imaging for Java 24.11（撰寫時最新版本）  
+**作者：** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

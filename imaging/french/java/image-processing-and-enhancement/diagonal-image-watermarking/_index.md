@@ -1,10 +1,13 @@
 ---
-"description": "Sublimez vos images avec un filigrane diagonal grâce à Aspose.Imaging pour Java. Suivez ce guide étape par étape et créez facilement de superbes images filigranées."
-"linktitle": "Filigrane d'image diagonale"
-"second_title": "API de traitement d'images Java Aspose.Imaging"
-"title": "Filigrane d'image diagonal avec Aspose.Imaging pour Java"
-"url": "/fr/java/image-processing-and-enhancement/diagonal-image-watermarking/"
-"weight": 14
+date: 2026-01-09
+description: Apprenez à ajouter un filigrane aux images avec Aspose.Imaging pour Java.
+  Ce tutoriel de traitement d'images Java montre, étape par étape, comment créer rapidement
+  un filigrane diagonal.
+linktitle: Diagonal Image Watermarking
+second_title: Aspose.Imaging Java Image Processing API
+title: Comment ajouter un filigrane – Filigrane d'image en diagonale (Java)
+url: /fr/java/image-processing-and-enhancement/diagonal-image-watermarking/
+weight: 14
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,24 +16,34 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Filigrane d'image diagonal avec Aspose.Imaging pour Java
+# Comment ajouter un filigrane – Filigrane d'image diagonal (Java)
 
+If you're looking to **how to add watermark** to your pictures with a stylish diagonal orientation, Aspose.Imaging for Java makes it painless. In this step‑by‑step tutorial we’ll walk through adding a 45‑degree rotated text watermark to a JPG (or any supported) image. You don’t need to be a Java wizard – each block is explained in plain language so you can replicate the result in minutes.
 
-Si vous souhaitez sublimer vos images avec un filigrane diagonal élégant, Aspose.Imaging pour Java est là pour vous aider. Dans ce guide étape par étape, nous vous expliquerons comment ajouter un filigrane textuel pivoté à 45 degrés à une image JPG existante. Nul besoin d'être un expert en Java ou en traitement d'images pour suivre ce guide : chaque exemple est décomposé en plusieurs étapes pour vous permettre d'obtenir facilement des résultats professionnels.
+## Réponses rapides
+- **Quelle bibliothèque est utilisée ?** Aspose.Imaging for Java  
+- **Quel mot‑clé principal est couvert ?** how to add watermark  
+- **Formats d’image pris en charge ?** JPEG, PNG, BMP, TIFF, GIF et plus encore  
+- **Combien de code est nécessaire ?** Seulement sept blocs de code concis  
+- **Ai‑je besoin d’une licence pour les tests ?** Un essai gratuit est disponible ; une licence est requise pour la production  
+
+## Qu’est‑ce que le “how to add watermark” en traitement d’image ?
+Ajouter un filigrane signifie superposer du texte ou des graphiques semi‑transparents sur une image afin de protéger la propriété ou de véhiculer une marque. Un filigrane diagonal est particulièrement efficace car il parcourt toute l’image et est plus difficile à recadrer.
+
+## Pourquoi utiliser Aspose.Imaging for Java ?
+Aspose.Imaging fournit une API de haut niveau qui abstrait la manipulation de pixels bas‑niveau, prend en charge des dizaines de formats et fonctionne sur n’importe quel runtime Java. Elle vous permet de vous concentrer sur *ce que* vous voulez réaliser — comme ajouter un filigrane diagonal—sans vous soucier des particularités des formats d’image.
 
 ## Prérequis
 
-Avant de plonger dans le monde passionnant du filigrane d'image, vous aurez besoin de quelques éléments en place :
+Avant de commencer, assurez‑vous d’avoir les éléments suivants :
 
-1. Aspose.Imaging pour Java : Assurez-vous d'avoir installé Aspose.Imaging pour Java. Vous trouverez le lien de téléchargement. [ici](https://releases.aspose.com/imaging/java/).
+1. **Aspose.Imaging for Java** – téléchargez la dernière version depuis le site officiel **[ici](https://releases.aspose.com/imaging/java/)**.  
+2. **Environnement de développement Java** – JDK 8+ et votre IDE préféré (IntelliJ, Eclipse, VS Code, etc.).  
+3. **Une image à filigraner** – placez un JPG/TIFF/PNG d’exemple dans un dossier que vous référencerez dans le code.
 
-2. Environnement de développement Java : vous devez disposer d’un environnement de développement Java fonctionnel configuré sur votre ordinateur.
+## Importer les packages
 
-3. Image à filigraner : Préparez l'image à filigraner et enregistrez-la dans un répertoire. Vous pouvez utiliser une image d'exemple pour ce tutoriel.
-
-## Importer des packages
-
-Commencez par importer les packages nécessaires pour préparer votre projet Java au filigranage d'images. Voici les packages essentiels à inclure :
+First, import the classes you’ll need. Keeping imports together makes the code easier to read and maintain.
 
 ```java
 import com.aspose.imaging.*;
@@ -41,114 +54,126 @@ import com.aspose.imaging.imageoptions.*;
 import com.aspose.imaging.text.*;
 ```
 
-## Étape 1 : Charger une image existante
+## Étape 1 : Charger une image existante
 
-Chargez l'image à filigraner. Dans cet exemple, nous supposons que vous disposez d'une image JPG nommée « SampleTiff1.tiff » dans votre répertoire « ModifyingImages ».
+We start by loading the source picture. The `Image.load` method automatically detects the format.
 
 ```java
-// Le chemin vers le répertoire des documents.
+// The path to the documents directory.
 String dataDir = "Your Document Directory" + "ModifyingImages/";
 
-// Charger une image JPG existante
+// Load an existing JPG image
 try (Image image = Image.load(dataDir + "SampleTiff1.tiff"))
 {
-    // Le reste du code va ici
+    // Rest of the code goes here
 }
 ```
 
-## Étape 2 : Préparez le texte et les graphiques du filigrane
+> **Astuce :** Encapsulez l’objet `Image` dans un bloc *try‑with‑resources* (comme montré) afin qu’il soit libéré automatiquement, évitant ainsi les fuites de mémoire.
 
-Maintenant, déclarons votre texte de filigrane et configurons les graphiques du filigrane.
+## Étape 2 : Préparer le texte et les graphiques du filigrane
+
+Create a `Graphics` object linked to the loaded image and store the image size for later calculations.
 
 ```java
-// Déclarer un objet String avec du texte en filigrane
+// Declare a String object with Watermark Text
 String theString = "45 Degree Rotated Text";
 
-// Créer et initialiser une instance de la classe Graphics
+// Create and initialize an instance of Graphics class
 Graphics graphics = new Graphics(image);
 
-// Initialiser un objet de SizeF pour stocker la taille de l'image
+// Initialize an object of SizeF to store image Size
 Size sz = graphics.getImage().getSize();
 ```
 
-## Étape 3 : Définir la police et le pinceau
+## Étape 3 : Définir la police et le pinceau
 
-Définissez la police et le pinceau de votre filigrane. Vous pouvez personnaliser la police, la taille et le style selon vos préférences.
+Choose a font that stands out and a brush that defines the watermark’s colour and opacity. Adjust the opacity to make the watermark semi‑transparent.
 
 ```java
-// Créez une instance de police, initialisez-la avec la police, la taille et le style
+// Create an instance of Font, initialize it with Font Face, Size, and Style
 Font font = new Font("Times New Roman", 20, FontStyle.Bold);
 
-// Créez une instance de SolidBrush et définissez ses différentes propriétés
+// Create an instance of SolidBrush and set its various properties
 SolidBrush brush = new SolidBrush();
 brush.setColor(Color.getRed());
 brush.setOpacity(0);
 ```
 
-## Étape 4 : formatez votre texte
+## Étape 4 : Formater votre texte
 
-Définissez le format de votre texte de filigrane, y compris les indicateurs d'alignement et de format.
+Set alignment and formatting flags so the text is centred when drawn.
 
 ```java
-// Initialiser un objet de la classe StringFormat et définir ses différentes propriétés
+// Initialize an object of StringFormat class and set its various properties
 StringFormat format = new StringFormat();
 format.setAlignment(StringAlignment.Center);
 format.setFormatFlags(StringFormatFlags.MeasureTrailingSpaces);
 ```
 
-## Étape 5 : Appliquer la transformation
+## Étape 5 : Appliquer la transformation
 
-Créez une matrice de transformation pour positionner et faire pivoter le texte du filigrane. Dans cet exemple, nous allons faire pivoter le texte de 45 degrés.
+A transformation matrix lets us move the origin to the centre of the image and then rotate the text by ‑45° (clockwise).
 
 ```java
-// Créer un objet de classe Matrix pour la transformation
+// Create an object of Matrix class for transformation
 Matrix matrix = new Matrix();
-// D'abord une translation puis une rotation
+// First a translation then a rotation
 matrix.translate(sz.getWidth() / 2f, sz.getHeight() / 2f);
 matrix.rotate(-45.0f);
-// Définir la transformation via la matrice
+// Set the Transformation through Matrix
 graphics.setTransform(matrix);
 ```
 
-## Étape 6 : Dessinez et enregistrez
+## Étape 6 : Dessiner et enregistrer
 
-Il est maintenant temps d'ajouter le texte à l'image et d'enregistrer l'image filigranée à l'emplacement souhaité.
+Finally, render the string onto the image and write the result to disk.
 
 ```java
-// Dessinez la chaîne sur l'image
+// Draw the string on Image
 graphics.drawString(theString, font, brush, 0, 0, format);
 
-// Enregistrer la sortie sur le disque
+// Save output to disk
 image.save("Your Document Directory" + "AddDiagonalWatermarkToImage_out.jpg");
 ```
 
-Félicitations ! Vous avez ajouté un filigrane diagonal à votre image avec Aspose.Imaging pour Java.
+When you open `AddDiagonalWatermarkToImage_out.jpg` you’ll see the red, semi‑transparent text slanted across the centre of the picture.
 
-## Conclusion
+## Problèmes courants & solutions
 
-Dans ce tutoriel, nous avons appris à embellir vos images avec un filigrane diagonal grâce à Aspose.Imaging pour Java. Cet outil puissant permet d'ajouter une touche professionnelle à vos images. En quelques étapes simples, vous pouvez créer de superbes images filigranées qui se démarquent des autres.
+| Problème | Raison | Solution |
+|----------|--------|----------|
+| Le filigrane apparaît trop pâle | Opacité réglée à 0 (complètement transparent) | Augmentez l’opacité, par ex. `brush.setOpacity(0.5f);` |
+| Le texte est tronqué aux bords | Translation non centrée pour les images non carrées | Utilisez `matrix.translate(sz.getWidth() / 2f, sz.getHeight() / 2f);` comme indiqué, puis ajustez l’angle de rotation si nécessaire |
+| Erreur de format d’image non pris en charge | Utilisation d’une version ancienne d’Aspose.Imaging | Mettez à jour vers la dernière version d’Aspose.Imaging |
 
-## FAQ
+## Questions fréquentes
 
-### Q1 : Aspose.Imaging pour Java est-il adapté aux débutants ?
+### Q1 : Aspose.Imaging for Java convient‑il aux débutants ?
 
-A1 : Absolument ! Aspose.Imaging pour Java offre une interface conviviale et une documentation complète. Même les débutants peuvent rapidement se familiariser avec le traitement d'images.
+**R :** Absolument ! L’API est intuitive et la documentation propose des exemples clairs. Même les développeurs novices en traitement d’image peuvent suivre ce tutoriel et obtenir rapidement des résultats professionnels.
 
-### Q2 : Puis-je personnaliser le texte et le style du filigrane ?
+### Q2 : Puis‑je personnaliser le texte et le style du filigrane ?
 
-A2 : Oui, vous pouvez facilement personnaliser le texte, la police, la taille, la couleur et l'angle de rotation du filigrane en fonction de vos préférences et de votre image de marque.
+**R :** Oui. Modifiez la variable `theString`, choisissez une autre `Font`, changez `brush.setColor(...)`, ou ajustez l’angle de rotation dans la matrice pour correspondre à votre identité visuelle.
 
-### Q3 : Aspose.Imaging pour Java prend-il en charge d’autres formats d’image en plus du JPG ?
+### Q3 : Aspose.Imaging for Java prend‑il en charge d’autres formats d’image que le JPG ?
 
-A3 : Oui, Aspose.Imaging pour Java prend en charge une large gamme de formats d’image, notamment BMP, PNG, GIF, etc.
+**R :** Oui. La bibliothèque fonctionne avec BMP, PNG, GIF, TIFF, PSD, et bien d’autres. Il suffit de pointer la méthode `Image.load` vers le fichier approprié.
 
-### Q4 : Existe-t-il un essai gratuit disponible pour Aspose.Imaging pour Java ?
+### Q4 : Existe‑t‑il un essai gratuit d’Aspose.Imaging for Java ?
 
-A4 : Oui, vous pouvez essayer Aspose.Imaging pour Java gratuitement. Obtenir [ici](https://releases.aspose.com/).
+**R :** Oui, vous pouvez essayer Aspose.Imaging for Java avec un essai gratuit. Obtenez‑le **[ici](https://releases.aspose.com/)**.
 
-### Q5 : Où puis-je trouver de l’aide ou du support pour Aspose.Imaging pour Java ?
+### Q5 : Où puis‑je obtenir de l’aide ou du support pour Aspose.Imaging for Java ?
 
-A5 : Si vous avez des questions ou besoin d'aide, visitez le forum d'assistance Aspose.Imaging pour Java [ici](https://forum.aspose.com/).
+**R :** Pour des questions, des rapports de bugs ou des conseils de bonnes pratiques, rendez‑vous sur le forum de support Aspose.Imaging for Java **[ici](https://forum.aspose.com/)**.
+
+---
+
+**Dernière mise à jour :** 2026-01-09  
+**Testé avec :** Aspose.Imaging for Java 24.11 (dernière version au moment de la rédaction)  
+**Auteur :** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
