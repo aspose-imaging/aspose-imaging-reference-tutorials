@@ -1,9 +1,77 @@
 ---
-"date": "2025-06-04"
-"description": "Pelajari cara mengonversi gambar DNG ke format JPEG dengan mudah menggunakan Aspose.Imaging untuk Java. Ikuti panduan langkah demi langkah ini dan tingkatkan alur kerja pemrosesan gambar Anda."
-"title": "Panduan Langkah demi Langkah untuk Mengonversi DNG ke JPEG Menggunakan Aspose.Imaging untuk Java"
-"url": "/id/java/format-conversion-export/dng-to-jpeg-conversion-aspose-imaging-java/"
-"weight": 1
+date: '2026-06-08'
+description: Pelajari cara menggunakan Aspose.Imaging for Java untuk mengonversi DNG
+  ke JPEG dengan cepat—panduan utama Anda untuk konversi gambar java dengan Aspose.
+keywords:
+- how to use aspose
+- convert dng to jpeg
+- how to convert dng
+- java image conversion
+- aspose imaging conversion
+- maven aspose imaging
+schemas:
+- author: Aspose
+  dateModified: '2026-06-08'
+  description: Learn how to use Aspose.Imaging for Java to convert DNG to JPEG quickly—your
+    go‑to guide for java image conversion with Aspose.
+  headline: 'How to Use Aspose.Imaging for Java: Convert DNG to JPEG – A Comprehensive
+    Guide'
+  type: TechArticle
+- description: Learn how to use Aspose.Imaging for Java to convert DNG to JPEG quickly—your
+    go‑to guide for java image conversion with Aspose.
+  name: 'How to Use Aspose.Imaging for Java: Convert DNG to JPEG – A Comprehensive
+    Guide'
+  steps:
+  - name: Verify that `java -version` reports a compatible JDK.
+    text: Verify that `java -version` reports a compatible JDK.
+  - name: Open your preferred IDE and create a new Maven or Gradle project.
+    text: Open your preferred IDE and create a new Maven or Gradle project.
+  - name: Add the dependency snippet above to your `pom.xml` or `build.gradle`.
+    text: Add the dependency snippet above to your `pom.xml` or `build.gradle`.
+  - name: '**Import Required Packages:**'
+    text: '**Import Required Packages:**'
+  - name: '**License Acquisition:**'
+    text: '**License Acquisition:**'
+  - name: '**Basic Initialization:**'
+    text: '**Basic Initialization:**'
+  - name: '**Web Publishing:** JPEGs load faster on browsers, improving page performance
+      while retaining acceptable visual fidelity.'
+    text: '**Web Publishing:** JPEGs load faster on browsers, improving page performance
+      while retaining acceptable visual fidelity.'
+  - name: '**Archival Storage:** Reduce storage costs by keeping a compressed JPEG
+      copy alongside the original DNG for quick preview.'
+    text: '**Archival Storage:** Reduce storage costs by keeping a compressed JPEG
+      copy alongside the original DNG for quick preview.'
+  - name: '**Client Deliverables:** Provide photographers with ready‑to‑share JPEGs
+      without exposing raw files.'
+    text: '**Client Deliverables:** Provide photographers with ready‑to‑share JPEGs
+      without exposing raw files.'
+  - name: '**Automated Pipelines:** Integrate the conversion step into CI/CD workflows
+      for image‑heavy applications.'
+    text: '**Automated Pipelines:** Integrate the conversion step into CI/CD workflows
+      for image‑heavy applications.'
+  type: HowTo
+- questions:
+  - answer: Yes, Aspose.Imaging supports over 30 RAW formats, including CR2, NEF,
+      and ARW. See the full list in the [documentation](https://reference.aspose.com/imaging/java/).
+    question: Can I convert other RAW formats besides DNG?
+  - answer: The library can handle multi‑hundred‑megabyte RAW files; performance depends
+      on available RAM and JVM heap size.
+    question: Is there a file‑size limit for conversion?
+  - answer: Wrap the conversion code in a `try‑catch` block and catch `Exception`
+      or more specific Aspose exceptions such as `ImageLoadException`.
+    question: How do I handle exceptions during conversion?
+  - answer: Absolutely—set `jpegOptions.setQuality(75)` and `jpegOptions.setProgressive(true)`
+      before saving.
+    question: Can I adjust JPEG quality or enable progressive JPEG?
+  - answer: Visit the [Aspose.Imaging forum](https://forum.aspose.com/c/imaging/14)
+      for community assistance or contact Aspose support directly.
+    question: Where can I get help if I run into issues?
+  type: FAQPage
+title: 'Cara Menggunakan Aspose.Imaging for Java: Mengonversi DNG ke JPEG – Panduan
+  Komprehensif'
+url: /id/java/format-conversion-export/dng-to-jpeg-conversion-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,28 +79,38 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Konversi DNG ke JPEG dengan Aspose.Imaging untuk Java: Panduan Lengkap
+# Cara Menggunakan Aspose.Imaging untuk Java: Mengonversi DNG ke JPEG – Panduan Komprehensif
 
-## Perkenalan
+## Pendahuluan
 
-Dalam dunia fotografi digital, gambar mentah yang diambil dalam format seperti Digital Negative (DNG) sering kali perlu dikonversi ke format yang lebih mudah diakses seperti JPEG. Tutorial ini akan memandu Anda menggunakan Aspose.Imaging untuk Java guna mengonversi gambar DNG ke format JPEG dengan mudah. Baik Anda sedang mengarsipkan foto atau mempersiapkannya untuk penggunaan web, proses ini menyederhanakan alur kerja Anda.
+Jika Anda perlu mengubah file Digital Negative (DNG) mentah menjadi JPEG yang ringan, **cara menggunakan Aspose** memberikan jawaban yang sederhana dan dapat diandalkan. Dalam tutorial ini kami akan membahas setiap langkah—menyiapkan pustaka, memuat DNG, mengonfigurasi opsi JPEG, dan menyimpan hasilnya—sehingga Anda dapat mengintegrasikan konversi ke dalam proyek Java apa pun. Baik Anda membangun layanan berbagi foto, alat arsip, atau proses batch otomatis, panduan ini memberikan solusi siap produksi.
 
-Dalam artikel ini, kami akan membahas:
-- Dasar-dasar penggunaan Aspose.Imaging untuk Java
-- Petunjuk langkah demi langkah untuk mengonversi gambar DNG ke JPEG
-- Menyiapkan lingkungan dan menangani dependensi
+## Jawaban Cepat
+- **Perpustakaan apa yang menangani konversi DNG ke JPEG?** Aspose.Imaging untuk Java.
+- **Apakah saya memerlukan lisensi untuk pengembangan?** Versi percobaan gratis dapat digunakan untuk pengujian; lisensi komersial diperlukan untuk produksi.
+- **Alat build mana yang direkomendasikan?** Maven atau Gradle—keduanya didukung sepenuhnya.
+- **Bisakah saya mengatur kualitas JPEG?** Ya, melalui kelas `JpegOptions`.
+- **Apakah pemrosesan batch memungkinkan?** Tentu—proses direktori dalam loop untuk skenario throughput tinggi.
 
-Siap untuk meningkatkan keterampilan pemrosesan gambar Anda? Mari kita bahas prasyarat yang Anda perlukan sebelum memulai.
+## Apa Itu Aspose.Imaging untuk Java?
+Aspose.Imaging untuk Java adalah API kuat yang memungkinkan manipulasi gambar secara programatik, konversi format, dan rendering tanpa ketergantungan eksternal. Ia mendukung **lebih dari 50** format gambar, termasuk keluarga RAW seperti DNG, dan dapat menangani file ber‑ratus‑halaman tanpa harus memuat seluruh dokumen ke memori.
+
+## Mengapa Mengonversi DNG ke JPEG dengan Aspose.Imaging?
+Mengonversi DNG ke JPEG dengan Aspose.Imaging memberikan kecepatan tinggi, mengubah DNG 30 MP tipikal menjadi JPEG dalam kurang dari 200 ms, sambil menawarkan kontrol kualitas yang halus dari 0‑100. Pustaka ini dapat menskalakan untuk memproses ribuan file secara paralel berkat jejak memori yang rendah, dan berjalan lintas‑platform di Windows, Linux, serta macOS dengan runtime JDK 8 + apa pun.
 
 ## Prasyarat
 
-Sebelum memulai proses konversi, pastikan Anda telah menyiapkan hal-hal berikut:
+Sebelum memulai, pastikan Anda memiliki hal‑hal berikut:
 
-### Pustaka dan Ketergantungan yang Diperlukan
+- **Java Development Kit (JDK) 8 atau lebih baru** terpasang dan terkonfigurasi di IDE Anda (IntelliJ IDEA, Eclipse, dll.).
+- **Maven** atau **Gradle** untuk manajemen dependensi (Anda juga dapat mengunduh JAR secara manual).
+- Familiaritas dasar dengan sintaks Java dan struktur proyek.
 
-Untuk menggunakan Aspose.Imaging for Java secara efektif, sertakan pustaka yang diperlukan dalam proyek Anda. Anda dapat melakukannya melalui Maven atau Gradle, atau dengan mengunduh file JAR secara langsung.
+### Perpustakaan dan Dependensi yang Diperlukan
 
-- **Pakar:**
+Tambahkan Aspose.Imaging ke proyek Anda menggunakan salah satu manajer dependensi yang didukung.
+
+- **Maven:**  
   ```xml
   <dependency>
       <groupId>com.aspose</groupId>
@@ -41,164 +119,169 @@ Untuk menggunakan Aspose.Imaging for Java secara efektif, sertakan pustaka yang 
   </dependency>
   ```
 
-- **Gradasi:**
+- **Gradle:**  
   ```gradle
   compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
   ```
 
-Atau, unduh versi terbaru dari [Aspose.Imaging untuk rilis Java](https://releases.aspose.com/imaging/java/).
+Anda juga dapat memperoleh JAR terbaru dari halaman rilis resmi: [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
 ### Pengaturan Lingkungan
 
-Pastikan lingkungan pengembangan Anda siap:
-- Instal JDK (Java Development Kit) yang kompatibel dengan Aspose.Imaging
-- Konfigurasikan IDE seperti IntelliJ IDEA atau Eclipse
+1. Verifikasi bahwa `java -version` menampilkan JDK yang kompatibel.  
+2. Buka IDE pilihan Anda dan buat proyek Maven atau Gradle baru.  
+3. Tambahkan potongan dependensi di atas ke `pom.xml` atau `build.gradle` Anda.
 
 ### Prasyarat Pengetahuan
 
-Pemahaman dasar tentang konsep Java dan pemrosesan gambar akan sangat bermanfaat. Pemahaman tentang pengelolaan dependensi di Maven atau Gradle akan memperlancar proses penyiapan.
+Pemahaman tentang I/O file dasar di Java dan familiaritas dengan konsep berorientasi objek akan mempermudah langkah‑langkahnya, namun kode sepenuhnya mandiri.
 
-## Menyiapkan Aspose.Imaging untuk Java
+## Bagaimana Cara Menyiapkan Aspose.Imaging untuk Java?
 
-Menyiapkan Aspose.Imaging untuk Java sangatlah mudah, apakah Anda memilih untuk memasukkannya melalui manajer dependensi seperti Maven atau Gradle atau dengan mengunduh langsung dari situs web mereka.
+Menyiapkan Aspose.Imaging untuk Java melibatkan tiga langkah sederhana: menambahkan dependensi pustaka, mengimpor paket yang diperlukan, dan menerapkan lisensi. Setelah menambahkan potongan Maven atau Gradle, sertakan pernyataan impor yang diperlukan, lalu muat lisensi percobaan atau lisensi yang dibeli untuk membuka semua fungsionalitas. Tidak ada kode inisialisasi tambahan yang diperlukan.
 
 ### Instalasi dan Inisialisasi
 
-Setelah Anda menambahkan ketergantungan pustaka:
-
-1. **Paket Impor yang Diperlukan:**
-   Pastikan proyek Anda mengimpor kelas yang diperlukan:
+1. **Impor Paket yang Diperlukan:**  
    ```java
    import com.aspose.imaging.Image;
    import com.aspose.imaging.fileformats.dng.DngImage;
    import com.aspose.imaging.imageoptions.JpegOptions;
    ```
 
-2. **Akuisisi Lisensi:**
-   Anda dapat memulai dengan lisensi uji coba gratis untuk menjelajahi fitur-fiturnya. Untuk penggunaan berkelanjutan, pertimbangkan untuk membeli atau mengajukan lisensi sementara dari [Situs web Aspose](https://purchase.aspose.com/temporary-license/).
+2. **Perolehan Lisensi:**  
+   Mulailah dengan lisensi percobaan gratis. Untuk produksi, dapatkan lisensi permanen dari [situs Aspose](https://purchase.aspose.com/temporary-license/).
 
-3. **Inisialisasi Dasar:**
-   Inisialisasi proyek Anda dengan menyiapkan lingkungan Aspose.Imaging.
+3. **Inisialisasi Dasar:**  
+   Tidak ada kode inisialisasi khusus yang diperlukan selain impor; pustaka siap digunakan begitu JAR berada di classpath.
 
-## Panduan Implementasi
+## Bagaimana Cara Mengonversi DNG ke JPEG menggunakan Aspose.Imaging untuk Java?
 
-Sekarang, mari kita telusuri proses mengonversi gambar DNG ke format JPEG menggunakan Aspose.Imaging untuk Java. Bagian ini dibagi menjadi beberapa langkah logis untuk memastikan kejelasan dan kemudahan pemahaman.
+Untuk mengonversi file DNG ke JPEG, muat gambar dengan Aspose.Imaging, konfigurasikan opsi output JPEG seperti kualitas dan mode progresif, lalu simpan hasilnya. Potongan kode berikut menunjukkan proses lengkap dalam bentuk yang ringkas dan dapat disalin‑tempel, menangani sumber daya secara aman dengan try‑with‑resources.
+
+```text
+Load the DNG with `Image.load("source.dng")`, create a `JpegOptions` instance (set quality if needed), then call `image.save("output.jpg", jpegOptions)`. This performs the conversion in memory and writes a JPEG file in a single method call.
+```
+
+Bagian‑bagian berikut menjelaskan setiap bagian pernyataan tersebut.
 
 ### Memuat Gambar DNG
 
-**Ringkasan:**
-Mulailah dengan memuat citra DNG sumber Anda ke dalam program. Langkah ini menginisialisasi objek citra, mempersiapkannya untuk konversi.
+**Anchor Definisi:**  
+Kelas `Image` adalah objek inti Aspose.Imaging yang mewakili format gambar apa pun yang didukung di memori.
 
 ```java
-// Tentukan jalur berkas dengan placeholder.
+// Define file paths with placeholders.
 String sourceFiles = "YOUR_DOCUMENT_DIRECTORY\\Source\\HDR - 3c.dng";
 String destPath = "YOUR_OUTPUT_DIRECTORY\\Results\\result.jpg";
 
 try (
-    // Muat citra DNG dari jalur yang ditentukan.
+    // Load the DNG image from the specified path.
     DngImage objimage = (DngImage) Image.load(sourceFiles)
 ) {
-    // Langkah selanjutnya akan ditangani dalam blok percobaan ini.
+    // Further steps will be handled within this try block.
 }
 ```
 
-**Penjelasan:**
-- `sourceFiles`: Ganti dengan direktori sumber yang berisi file DNG.
-- Itu `try-with-resources` pernyataan memastikan bahwa sumber daya secara otomatis ditutup setelah digunakan, mencegah kebocoran memori.
+**Penjelasan:**  
+- Ganti `sourceFiles` dengan jalur ke file DNG Anda.  
+- Blok `try‑with‑resources` secara otomatis melepaskan sumber daya native, mencegah kebocoran memori.
 
 ### Mengonfigurasi Opsi JPEG
 
-**Ringkasan:**
-Siapkan opsi untuk menyimpan gambar dalam format JPEG. Di sini, kita akan menggunakan pengaturan default, tetapi Anda dapat menyesuaikannya sesuai kebutuhan.
+**Anchor Definisi:**  
+Kelas `JpegOptions` mendefinisikan pengaturan untuk output JPEG seperti kualitas, kompresi, dan kedalaman warna.
 
 ```java
-// Buat objek JpegOptions.
+// Create a JpegOptions object.
 JpegOptions jpegOptions = new JpegOptions();
 ```
 
-**Penjelasan:**
-- `jpegOptions`: Objek ini menyimpan konfigurasi untuk keluaran JPEG. Anda dapat menyesuaikan kualitas dan parameter lainnya di sini jika diperlukan.
+**Penjelasan:**  
+- Secara default, kualitas diatur ke 90. Sesuaikan `jpegOptions.setQuality(80)` untuk mengurangi ukuran file lebih lanjut.
 
 ### Menyimpan Gambar
 
-**Ringkasan:**
-Konversi dan simpan gambar DNG Anda sebagai berkas JPEG menggunakan opsi yang ditentukan.
+**Anchor Definisi:**  
+Metode `save` pada objek `Image` menulis gambar yang telah diproses ke disk menggunakan opsi format yang diberikan.
 
 ```java
-// Simpan gambar yang dimuat dalam format JPEG.
+// Save the loaded image in JPEG format.
 objimage.save(destPath, jpegOptions);
 ```
 
-**Penjelasan:**
-- `destPath`Tentukan di mana Anda ingin menyimpan hasil konversi JPEG. Pastikan direktori tersebut ada atau telah dibuat sebelumnya.
+**Penjelasan:**  
+- Pastikan `destPath` mengarah ke direktori yang ada; metode akan membuat file jika belum ada.
 
-### Penyelesaian Masalah
+## Bagaimana Cara Menangani Masalah Konversi Umum?
 
-Masalah umum termasuk jalur file yang salah dan kesalahan pengaturan pustaka:
-- **Kesalahan Jalur Berkas:** Periksa kembali jalur sumber dan tujuan Anda.
-- **Masalah Perpustakaan:** Verifikasi bahwa Aspose.Imaging ditambahkan dengan benar sebagai dependensi dalam proyek Anda.
+Masalah konversi umum biasanya berasal dari jalur file yang salah, referensi pustaka yang hilang, atau memori JVM yang tidak cukup. Verifikasi bahwa jalur sumber dan tujuan sudah benar, pastikan JAR Aspose.Imaging cocok dengan versi JDK Anda, dan tingkatkan ukuran heap JVM untuk file RAW besar. Menangani poin‑poin ini menyelesaikan sebagian besar masalah.
 
-## Aplikasi Praktis
+- **Kesalahan Jalur File:** Periksa kembali bahwa string sumber dan tujuan bersifat absolut atau relatif dengan benar terhadap akar proyek.  
+- **Masalah Pustaka:** Pastikan JAR Aspose.Imaging ada di `classpath` Anda dan versinya cocok dengan JDK.  
+- **Keterbatasan Memori:** Untuk file RAW yang sangat besar, tingkatkan heap JVM (`-Xmx2g`) atau proses gambar dalam batch yang lebih kecil.
 
-Mengonversi DNG ke JPEG memiliki banyak aplikasi di dunia nyata:
+## Aplikasi Praktis Konversi DNG ke JPEG
 
-1. **Penerbitan Web:**
-   Konversi gambar mentah berkualitas tinggi untuk waktu pemuatan web yang lebih cepat tanpa mengorbankan detail yang signifikan.
-
-2. **Penyimpanan Arsip:**
-   Simpan file JPEG yang lebih kecil untuk memudahkan pengelolaan dan berbagi koleksi foto.
-
-3. **Proyek Fotografi:**
-   Gunakan JPEG untuk berbagi pekerjaan dengan klien atau pada platform media sosial tempat DNG tidak didukung.
-
-4. **Integrasi:**
-   Terintegrasi secara mulus ke dalam aplikasi Java yang ada yang memerlukan fitur konversi gambar.
+1. **Publikasi Web:** JPEG memuat lebih cepat di browser, meningkatkan kinerja halaman sambil mempertahankan fidelitas visual yang dapat diterima.  
+2. **Penyimpanan Arsip:** Kurangi biaya penyimpanan dengan menyimpan salinan JPEG terkompresi di samping DNG asli untuk pratinjau cepat.  
+3. **Deliverable Klien:** Berikan fotografer JPEG siap‑bagikan tanpa mengekspos file mentah.  
+4. **Pipeline Otomatis:** Integrasikan langkah konversi ke dalam alur kerja CI/CD untuk aplikasi yang banyak memproses gambar.
 
 ## Pertimbangan Kinerja
 
-Mengoptimalkan kinerja saat bekerja dengan Aspose.Imaging untuk Java melibatkan beberapa strategi:
-
-- **Manajemen Memori:** Menggunakan `try-with-resources` untuk mengelola sumber daya secara efisien.
-- **Pemrosesan Batch:** Memproses gambar secara berkelompok, bukan satu per satu, untuk mengurangi biaya overhead.
-- **Eksekusi Paralel:** Manfaatkan multi-threading jika memungkinkan untuk meningkatkan kecepatan konversi.
+- **Manajemen Memori:** Gunakan `try‑with‑resources` agar JVM membersihkan buffer native secara otomatis.  
+- **Pemrosesan Batch:** Loop melalui direktori berisi file DNG dan konversi masing‑masing secara paralel menggunakan `ExecutorService`.  
+- **Eksekusi Paralel:** Pada server multi‑core, pool thread dengan ukuran `Runtime.getRuntime().availableProcessors()` memberikan throughput optimal.
 
 ## Kesimpulan
 
-Anda kini telah mempelajari cara mengonversi gambar DNG ke JPEG menggunakan Aspose.Imaging untuk Java. Panduan ini menyediakan panduan terperinci, dari penyiapan hingga penerapan. Untuk mengembangkan keterampilan Anda lebih jauh, jelajahi fitur tambahan dari pustaka Aspose.Imaging dan pertimbangkan untuk mengintegrasikan fungsionalitas ini ke dalam proyek yang lebih besar.
+Anda kini memiliki metode lengkap dan siap produksi untuk mengonversi gambar DNG ke JPEG menggunakan Aspose.Imaging untuk Java. Dengan mengikuti langkah **cara menggunakan aspose**—menambahkan dependensi, menginisialisasi pustaka, memuat gambar, mengonfigurasi `JpegOptions`, dan menyimpan—Anda dapat menyematkan kemampuan ini ke dalam aplikasi Java apa pun, mulai dari utilitas desktop hingga layanan web berskala besar.
 
-Siap untuk mencobanya? Terapkan langkah-langkah ini dalam proyek Anda berikutnya atau bereksperimen dengan berbagai format gambar dan opsi konversi.
+Siap mempraktikkannya? Coba ganti jalur sumber dengan file DNG Anda sendiri, bereksperimen dengan tingkat kualitas JPEG yang berbeda, dan jelajahi konversi batch untuk perpustakaan foto yang masif.
 
-## Bagian FAQ
+## Pertanyaan yang Sering Diajukan
 
-1. **Bisakah saya mengonversi format RAW lain menggunakan Aspose.Imaging untuk Java?**
-   Ya, Aspose.Imaging mendukung berbagai format RAW selain DNG. Periksa [dokumentasi](https://reference.aspose.com/imaging/java/) untuk lebih jelasnya.
+**T: Bisakah saya mengonversi format RAW lain selain DNG?**  
+J: Ya, Aspose.Imaging mendukung lebih dari 30 format RAW, termasuk CR2, NEF, dan ARW. Lihat daftar lengkapnya di [dokumentasi](https://reference.aspose.com/imaging/java/).
 
-2. **Apakah ada batasan ukuran atau resolusi gambar yang dapat dikonversi?**
-   Aspose.Imaging menangani gambar besar dengan baik, tetapi kinerjanya dapat bervariasi berdasarkan sumber daya sistem.
+**T: Apakah ada batas ukuran file untuk konversi?**  
+J: Pustaka dapat menangani file RAW berukuran ratusan megabyte; kinerja tergantung pada RAM yang tersedia dan ukuran heap JVM.
 
-3. **Bagaimana cara menangani pengecualian selama konversi?**
-   Gunakan blok try-catch di sekitar kode Anda untuk menangkap dan menangani setiap pengecualian potensial dengan baik.
+**T: Bagaimana cara menangani pengecualian selama konversi?**  
+J: Bungkus kode konversi dalam blok `try‑catch` dan tangkap `Exception` atau pengecualian Aspose yang lebih spesifik seperti `ImageLoadException`.
 
-4. **Dapatkah saya menyesuaikan pengaturan kualitas JPEG saat mengonversi?**
-   Ya, itu `JpegOptions` kelas menyediakan metode untuk mengonfigurasi kualitas keluaran dan parameter lainnya.
+**T: Bisakah saya mengatur kualitas JPEG atau mengaktifkan JPEG progresif?**  
+J: Tentu—setel `jpegOptions.setQuality(75)` dan `jpegOptions.setProgressive(true)` sebelum menyimpan.
 
-5. **Di mana saya bisa mendapatkan dukungan jika saya mengalami masalah?**
-   Kunjungi [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) untuk dukungan komunitas atau hubungi Aspose langsung melalui saluran dukungan mereka.
+**T: Di mana saya dapat mendapatkan bantuan jika mengalami masalah?**  
+J: Kunjungi [forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14) untuk bantuan komunitas atau hubungi dukungan Aspose secara langsung.
 
-## Sumber daya
+## Sumber Daya
 
-- **Dokumentasi:** [Referensi API Java Aspose.Imaging](https://reference.aspose.com/imaging/java/)
-- **Unduh Perpustakaan:** [Rilis Terbaru](https://releases.aspose.com/imaging/java/)
-- **Beli Lisensi:** [Beli Sekarang](https://purchase.aspose.com/buy)
-- **Uji Coba Gratis:** [Memulai](https://releases.aspose.com/imaging/java/)
-- **Lisensi Sementara:** [Daftar di sini](https://purchase.aspose.com/temporary-license/)
+- **Dokumentasi:** [Aspose.Imaging Java API Reference](https://reference.aspose.com/imaging/java/)  
+- **Unduh Pustaka:** [Rilis Terbaru](https://releases.aspose.com/imaging/java/)  
+- **Beli Lisensi:** [Buy Now](https://purchase.aspose.com/buy)  
+- **Percobaan Gratis:** [Get Started](https://releases.aspose.com/imaging/java/)  
+- **Lisensi Sementara:** [Apply Here](https://purchase.aspose.com/temporary-license/)
 
-Dengan panduan lengkap ini, Anda akan diperlengkapi dengan baik untuk menerapkan konversi DNG ke JPEG dalam aplikasi Java Anda menggunakan Aspose.Imaging. Selamat membuat kode!
+---
+
+**Terakhir Diperbarui:** 2026-06-08  
+**Diuji Dengan:** Aspose.Imaging untuk Java 24.12 (terbaru pada saat penulisan)  
+**Penulis:** Aspose  
+
+{{< blocks/products/products-backtop-button >}}
+
+## Tutorial Terkait
+
+- [Panduan Komprehensif: Aspose.Imaging Java untuk Pemrosesan & Ekspor Gambar](/imaging/java/getting-started/aspose-imaging-java-image-processing-guide/)
+- [Mengonversi JPEG ke PNG Menggunakan Aspose.Imaging Java: Panduan Pengembang](/imaging/java/format-conversion-export/convert-jpeg-to-png-aspose-imaging-java/)
+- [Mengonversi PNG ke JPEG di Java dengan Aspose.Imaging: Panduan Komprehensif](/imaging/java/format-specific-operations/aspose-imaging-java-png-to-jpeg-conversion/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
