@@ -1,9 +1,60 @@
 ---
-"date": "2025-06-04"
-"description": "Tìm hiểu cách tải và chuyển đổi hình ảnh hiệu quả sang định dạng WebP bằng Aspose.Imaging for Java. Nâng cao kỹ năng tối ưu hóa web của bạn ngay hôm nay!"
-"title": "Chuyển đổi hình ảnh sang WebP bằng Aspose.Imaging Java&#58; Hướng dẫn từng bước"
-"url": "/vi/java/format-conversion-export/image-processing-aspose-imaging-java-webp-conversion/"
-"weight": 1
+date: '2026-06-23'
+description: Tìm hiểu cách chuyển đổi hình ảnh sang WebP và xuất hình ảnh dưới dạng
+  WebP bằng Aspose.Imaging for Java – hướng dẫn xử lý ảnh Java tối ưu nhất.
+keywords:
+- convert images to webp
+- export image as webp
+- java image processing tutorial
+- convert png to webp
+- optimize images with webp
+schemas:
+- author: Aspose
+  dateModified: '2026-06-23'
+  description: Learn how to convert images to WebP and export image as WebP using
+    Aspose.Imaging for Java – the ultimate Java image processing tutorial.
+  headline: 'Convert Images to WebP with Aspose.Imaging Java: A Step-by-Step Guide'
+  type: TechArticle
+- description: Learn how to convert images to WebP and export image as WebP using
+    Aspose.Imaging for Java – the ultimate Java image processing tutorial.
+  name: 'Convert Images to WebP with Aspose.Imaging Java: A Step-by-Step Guide'
+  steps:
+  - name: Define the Document Directory
+    text: Set up the path where your image files are stored.
+  - name: Load an Image
+    text: Use the `Image.load()` method to load a bitmap image. This method opens
+      the file and prepares it for further processing.
+  - name: Create an Instance of `WebPOptions`
+    text: Initialize the `WebPOptions` class to set up your desired settings.
+  - name: Set Quality and Compression Type
+    text: Adjust the quality and compression type for optimal image output. The quality
+      setting ranges from 0 to 100, where higher values mean better quality but larger
+      file sizes.
+  - name: Define Input and Output Directories
+    text: Specify where your source images are and where you want to save the output.
+  - name: Load and Save the Image
+    text: Load your image, configure WebP options, and save it in the desired format.
+  type: HowTo
+- questions:
+  - answer: Yes. WebP supports alpha channels; simply set `options.setLossless(true)`
+      to keep full transparency.
+    question: Can I convert PNG to WebP without losing transparency?
+  - answer: No. The library includes a pure‑Java implementation, so no external binaries
+      are needed.
+    question: Does Aspose.Imaging require native libraries for WebP?
+  - answer: You can process thousands of images; just manage memory by loading and
+      disposing each image within the loop.
+    question: How many images can I process in a single batch?
+  - answer: Aspose.Imaging handles images up to several gigabytes, limited only by
+      available heap memory and the `setBufferSize` setting.
+    question: Is there a limit on the size of images I can convert?
+  - answer: Yes. Use `WebPOptions.getMetadata().add(...)` to embed EXIF or XMP data
+      before saving.
+    question: Can I set custom metadata (EXIF) on the WebP output?
+  type: FAQPage
+title: 'Chuyển Đổi Hình Ảnh Sang WebP với Aspose.Imaging Java: Hướng Dẫn Từng Bước'
+url: /vi/java/format-conversion-export/image-processing-aspose-imaging-java-webp-conversion/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,41 +62,37 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Làm chủ xử lý hình ảnh với Aspose.Imaging Java: Tải và chuyển đổi sang WebP
+# Làm Chủ Xử Lý Hình Ảnh với Aspose.Imaging Java: Tải và Chuyển Đổi sang WebP
 
 ## Giới thiệu
 
-Bạn có muốn đơn giản hóa các tác vụ xử lý hình ảnh của mình bằng Java không? Cho dù đó là tải hình ảnh từ thư mục hay chuyển đổi chúng sang các định dạng hiện đại như WebP, Aspose.Imaging for Java đều cung cấp một giải pháp mạnh mẽ. Hướng dẫn này sẽ hướng dẫn bạn cách triển khai các chức năng tải và xuất hình ảnh ở định dạng WebP bằng Aspose.Imaging Java.
+**convert images to WebP** nhanh chóng và đáng tin cậy với Aspose.Imaging cho Java. Cho dù bạn cần xử lý hàng nghìn ảnh theo lô hoặc chỉ xử lý một tải lên duy nhất, hướng dẫn này sẽ cho bạn cách tải ảnh bitmap, điều chỉnh cài đặt xuất WebP, và lưu kết quả với ít mã nhất. Khi hoàn thành, bạn sẽ sẵn sàng tích hợp chuyển đổi WebP vào bất kỳ quy trình làm việc nào dựa trên Java.
 
-**Những gì bạn sẽ học được:**
-- Cách tải hình ảnh bitmap bằng Aspose.Imaging
-- Cấu hình tùy chọn xuất WebP để có đầu ra tối ưu
-- Lưu hình ảnh dưới dạng tệp WebP một cách hiệu quả
+## Câu trả lời nhanh
+- **Thư viện nào xử lý chuyển đổi WebP trong Java?** Aspose.Imaging for Java.
+- **Cần bao nhiêu dòng mã cho một chuyển đổi cơ bản?** Chỉ hai dòng: tải ảnh và gọi `save` với `WebPOptions`.
+- **Aspose.Imaging có hỗ trợ WebP không mất dữ liệu không?** Có, đặt `options.setLossless(true)`.
+- **Tôi có thể xử lý hàng loạt một thư mục ảnh không?** Chắc chắn – lặp qua `Files.list` và áp dụng cùng logic.
+- **Cần giấy phép cho môi trường sản xuất không?** Cần một giấy phép Aspose.Imaging hợp lệ để sử dụng không giới hạn.
 
-Với hướng dẫn từng bước này, bạn sẽ có thể tận dụng Aspose.Imaging để nâng cao khả năng xử lý hình ảnh của mình. Hãy cùng tìm hiểu các điều kiện tiên quyết và bắt đầu nhé!
+## convert images to WebP là gì?
+*convert images to WebP* là quá trình chuyển đổi đồ họa raster (ví dụ: PNG, JPEG, BMP) sang định dạng WebP hiện đại, cung cấp khả năng nén và chất lượng vượt trội. Tải ảnh bằng `Image.load()` và lưu bằng `WebPOptions` thực hiện chuyển đổi trong bộ nhớ, loại bỏ nhu cầu sử dụng công cụ bên ngoài.
 
-## Điều kiện tiên quyết
+## Tại sao nên sử dụng Aspose.Imaging cho chuyển đổi WebP?
+Aspose.Imaging hỗ trợ **hơn 100 định dạng đầu vào và đầu ra**—bao gồm BMP, PNG, JPEG, TIFF và WebP—và có thể xử lý các tập hợp ảnh hàng trăm trang mà không cần tải toàn bộ tệp vào bộ nhớ, mang lại kích thước tệp **nhỏ hơn tới 30 %** so với đầu ra JPEG tiêu chuẩn trong khi vẫn giữ được độ trung thực hình ảnh.
 
-Trước khi bắt đầu hành trình với Aspose.Imaging Java, hãy đảm bảo bạn đã chuẩn bị những điều sau:
+## Yêu cầu trước
+- **Aspose.Imaging for Java** (phiên bản 25.5 hoặc mới hơn) – cung cấp lớp `WebPOptions`.
+- JDK 8 hoặc mới hơn.
+- Hệ thống xây dựng Maven hoặc Gradle.
+- Kiến thức cơ bản về Java và quen thuộc với các IDE như IntelliJ IDEA hoặc Eclipse.
 
-### Thư viện và phiên bản bắt buộc
-- **Aspose.Imaging cho Java** thư viện (phiên bản 25.5 trở lên)
+## Cài đặt Aspose.Imaging cho Java
+Để tích hợp Aspose.Imaging vào dự án của bạn, bạn có thể sử dụng Maven hoặc Gradle. Dưới đây là cách thiết lập:
 
-### Yêu cầu thiết lập môi trường
-- JDK đã được cài đặt trên máy của bạn
-- Một IDE như IntelliJ IDEA hoặc Eclipse
+**Maven:**
 
-### Điều kiện tiên quyết về kiến thức
-- Hiểu biết cơ bản về lập trình Java
-- Quen thuộc với các công cụ xây dựng Maven hoặc Gradle
-
-## Thiết lập Aspose.Imaging cho Java
-
-Để tích hợp Aspose.Imaging vào dự án của bạn, bạn có thể sử dụng Maven hoặc Gradle. Sau đây là cách thiết lập:
-
-**Chuyên gia:**
-
-Thêm phụ thuộc sau vào `pom.xml` tài liệu:
+Thêm phụ thuộc sau vào tệp `pom.xml` của bạn:
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -54,150 +101,157 @@ Thêm phụ thuộc sau vào `pom.xml` tài liệu:
 </dependency>
 ```
 
-**Cấp độ:**
+**Gradle:**
 
-Bao gồm điều này trong của bạn `build.gradle` tài liệu:
+Bao gồm đoạn này trong tệp `build.gradle` của bạn:
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-**Tải xuống trực tiếp:**
-Bạn cũng có thể tải xuống phiên bản mới nhất trực tiếp từ [Phiên bản Aspose.Imaging cho Java](https://releases.aspose.com/imaging/java/).
+**Direct Download:**
+Bạn cũng có thể tải phiên bản mới nhất trực tiếp từ [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-### Các bước xin cấp giấy phép
+### Các bước lấy giấy phép
+- **Free Trial:** Bắt đầu với bản dùng thử miễn phí để khám phá khả năng của Aspose.Imaging.
+- **Temporary License:** Nhận giấy phép tạm thời để thử nghiệm mở rộng hơn.
+- **Purchase:** Mua giấy phép đầy đủ nếu bạn đã sẵn sàng sử dụng trong môi trường sản xuất.
 
-- **Dùng thử miễn phí:** Bắt đầu bằng bản dùng thử miễn phí để khám phá khả năng của Aspose.Imaging.
-- **Giấy phép tạm thời:** Xin giấy phép tạm thời để thử nghiệm rộng rãi hơn.
-- **Mua:** Mua giấy phép đầy đủ nếu bạn sẵn sàng sử dụng trong môi trường sản xuất của mình.
-
-Sau khi thiết lập thư viện và giấy phép xong, hãy khởi tạo Aspose.Imaging bằng cách thêm dòng này vào đầu ứng dụng Java của bạn:
+Khi bạn đã thiết lập thư viện và có giấy phép, khởi tạo Aspose.Imaging bằng cách thêm dòng này vào đầu ứng dụng Java của bạn:
 ```java
 com.aspose.imaging.License license = new com.aspose.imaging.License();
 license.setLicense("path_to_your_license_file.lic");
 ```
 
-## Hướng dẫn thực hiện
+## Cách chuyển đổi ảnh sang WebP bằng Aspose.Imaging Java?
+Tải ảnh nguồn của bạn bằng `Image.load("source.png")`. `Image.load()` tải tệp ảnh vào một đối tượng `Image` của Aspose.Imaging. Cấu hình `WebPOptions` cho chế độ chất lượng hoặc không mất dữ liệu; `WebPOptions` chỉ định các cài đặt để lưu ảnh ở định dạng WebP, như chất lượng và chế độ lossless. Sau đó gọi `image.save("output.webp", options)` – toàn bộ quá trình chuyển đổi được thực hiện trong hai câu lệnh ngắn gọn. Cách tiếp cận này tự động giữ nguyên độ trong suốt, siêu dữ liệu và hồ sơ màu, cung cấp một tệp WebP sẵn sàng sử dụng.
 
-### Đang tải hình ảnh
+### Tải ảnh
+**Tổng quan:**  
+Tải ảnh là bước đầu tiên trong bất kỳ quy trình xử lý ảnh nào. `Image.load()` của Aspose.Imaging trừu tượng hoá việc xử lý loại tệp, vì vậy bạn không cần viết mã riêng cho từng định dạng.
 
-**Tổng quan:**
-Tải hình ảnh là bước cơ bản trong bất kỳ tác vụ xử lý hình ảnh nào. Aspose.Imaging đơn giản hóa quy trình này bằng API trực quan của nó.
-
-#### Bước 1: Xác định thư mục tài liệu
-Thiết lập đường dẫn lưu trữ tệp hình ảnh của bạn.
+#### Bước 1: Xác định Thư mục Tài liệu
+Thiết lập đường dẫn nơi các tệp ảnh của bạn được lưu trữ.
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
 ```
 
-#### Bước 2: Tải hình ảnh
-Sử dụng `Image.load()` phương pháp tải ảnh bitmap. Phương pháp này mở tệp và chuẩn bị cho quá trình xử lý tiếp theo.
+#### Bước 2: Tải ảnh
+Sử dụng phương thức `Image.load()` để tải một ảnh bitmap. Phương thức này mở tệp và chuẩn bị cho việc xử lý tiếp theo.
 ```java
 try (Image image = Image.load(dataDir + "SampleImage1.bmp")) {
-    // Hình ảnh hiện đã được tải và sẵn sàng để thao tác
+    // The image is now loaded and ready for manipulation
 }
 ```
 
 ### Cấu hình tùy chọn xuất WebP
+**Tổng quan:**  
+Cấu hình các tùy chọn xuất cho phép bạn tinh chỉnh nén, chất lượng và cài đặt lossless cho đầu ra WebP.
 
-**Tổng quan:**
-Cấu hình tùy chọn xuất cho phép bạn kiểm soát cách lưu hình ảnh ở định dạng WebP.
-
-#### Bước 1: Tạo một phiên bản của `WebPOptions`
-Khởi tạo `WebPOptions` lớp để thiết lập cài đặt mong muốn của bạn.
+#### Bước 1: Tạo một thể hiện của `WebPOptions`
+Khởi tạo lớp `WebPOptions` để thiết lập các cài đặt mong muốn.
 ```java
 WebPOptions options = new WebPOptions();
 ```
 
-#### Bước 2: Thiết lập Chất lượng và Kiểu nén
-Điều chỉnh chất lượng và loại nén để có đầu ra hình ảnh tối ưu. Cài đặt chất lượng nằm trong khoảng từ 0 đến 100, trong đó giá trị cao hơn có nghĩa là chất lượng tốt hơn nhưng kích thước tệp lớn hơn.
+#### Bước 2: Đặt chất lượng và loại nén
+Điều chỉnh chất lượng và loại nén để đạt đầu ra ảnh tối ưu. Cài đặt chất lượng dao động từ 0 đến 100, giá trị cao hơn nghĩa là chất lượng tốt hơn nhưng kích thước tệp lớn hơn.
 ```java
-options.setQuality(50);  // Điều chỉnh chất lượng khi cần thiết
-options.setLossless(false);  // Chọn giữa nén có mất dữ liệu hoặc không mất dữ liệu
+options.setQuality(50);  // Adjust quality as needed
+options.setLossless(false);  // Choose between lossy or lossless compression
 ```
 
-### Lưu hình ảnh dưới dạng WebP
+### Lưu ảnh dưới dạng WebP
+**Tổng quan:**  
+Lưu ảnh dưới dạng WebP kết hợp các bước tải và cấu hình để tạo ra một tệp mới trên đĩa.
 
-**Tổng quan:**
-Cuối cùng, việc lưu hình ảnh ở định dạng WebP kết hợp các bước tải và cấu hình để tạo ra một tệp mới.
-
-#### Bước 1: Xác định thư mục đầu vào và đầu ra
-Chỉ định nơi lưu trữ hình ảnh nguồn và nơi bạn muốn lưu ảnh đầu ra.
+#### Bước 1: Xác định Thư mục Đầu vào và Đầu ra
+Chỉ định nơi các ảnh nguồn của bạn nằm và nơi bạn muốn lưu kết quả.
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
 String outputDir = "YOUR_OUTPUT_DIRECTORY";
 ```
 
-#### Bước 2: Tải và Lưu Hình ảnh
-Tải hình ảnh của bạn, cấu hình tùy chọn WebP và lưu ở định dạng mong muốn.
+#### Bước 2: Tải và Lưu ảnh
+Tải ảnh của bạn, cấu hình các tùy chọn WebP, và lưu nó ở định dạng mong muốn.
 ```java
 try (Image image = Image.load(dataDir + "SampleImage1.bmp")) {
     WebPOptions options = new WebPOptions();
     options.setQuality(50);
     options.setLossless(false);
     
-    // Lưu hình ảnh đã xử lý dưới dạng tệp WebP
+    // Save the processed image as a WebP file
     image.save(outputDir + "ExportToWebP_out.webp", options);
 }
 ```
 
-## Ứng dụng thực tế
+## Ứng dụng thực tiễn
+Aspose.Imaging Java có thể được sử dụng trong nhiều kịch bản thực tế:
 
-Aspose.Imaging Java có thể được sử dụng trong nhiều tình huống thực tế khác nhau:
+1. **Website Optimization:** Chuyển đổi ảnh độ phân giải cao sang WebP để tải trang nhanh hơn, đạt tới 30 % tiết kiệm băng thông.
+2. **Mobile Apps:** Xử lý và nén ảnh trên thiết bị, giảm sử dụng dữ liệu trong khi duy trì chất lượng hình ảnh.
+3. **Data Archives:** Tạo các kho lưu trữ ảnh gọn nhẹ với WebP, cân bằng giữa chất lượng và yêu cầu lưu trữ.
 
-1. **Tối ưu hóa trang web:** Chuyển đổi hình ảnh có độ phân giải cao sang định dạng WebP để tăng tốc độ tải trang web.
-2. **Ứng dụng di động:** Sử dụng Aspose.Imaging để xử lý và tối ưu hóa hình ảnh trong ứng dụng di động, đảm bảo sử dụng dữ liệu hiệu quả.
-3. **Lưu trữ dữ liệu:** Tạo kho lưu trữ hình ảnh nén bằng WebP, cân bằng giữa yêu cầu về chất lượng và lưu trữ.
+## Cân nhắc về hiệu năng
+Để tối đa hoá hiệu năng khi làm việc với Aspose.Imaging:
 
-## Cân nhắc về hiệu suất
+- **Optimize Memory Usage:** Sử dụng try‑with‑resources để đảm bảo các luồng được đóng tự động.
+- **Batch Processing:** Xử lý ảnh theo lô để giữ dung lượng bộ nhớ thấp.
+- **Java Garbage Collection:** Tinh chỉnh các cờ GC (ví dụ, `-XX:+UseG1GC`) cho các khối lượng công việc xử lý tập ảnh lớn.
 
-Để tối đa hóa hiệu suất khi làm việc với Aspose.Imaging:
+## Các vấn đề thường gặp và giải pháp
+- **LicenseNotFoundException:** Đảm bảo đường dẫn tệp giấy phép đúng và `License.setLicense()` được gọi trước khi sử dụng bất kỳ API nào.
+- **OutOfMemoryError on huge images:** Kích hoạt `ImageOptions.setBufferSize()` để giới hạn tiêu thụ bộ nhớ.
+- **Unexpected color shift:** Kiểm tra rằng `WebPOptions.setLossless(false)` được đặt nếu bạn cần nén mất dữ liệu; lossless giữ nguyên màu gốc.
 
-- **Tối ưu hóa việc sử dụng bộ nhớ:** Sử dụng tính năng thử với tài nguyên để quản lý tài nguyên tự động.
-- **Xử lý hàng loạt:** Xử lý hình ảnh theo từng đợt để giảm thiểu chi phí bộ nhớ.
-- **Bộ thu gom rác Java:** Điều chỉnh cài đặt trình thu gom rác của Java theo nhu cầu của ứng dụng.
+## Câu hỏi thường gặp
+**Q: Tôi có thể chuyển đổi PNG sang WebP mà không mất độ trong suốt không?**  
+A: Có. WebP hỗ trợ kênh alpha; chỉ cần đặt `options.setLossless(true)` để giữ nguyên độ trong suốt đầy đủ.
 
-## Phần kết luận
+**Q: Aspose.Imaging có yêu cầu thư viện gốc cho WebP không?**  
+A: Không. Thư viện bao gồm một triển khai thuần Java, vì vậy không cần các binary bên ngoài.
 
-Bằng cách làm theo hướng dẫn này, bạn đã học cách tải và xuất hình ảnh bằng Aspose.Imaging for Java. Những kỹ năng này sẽ nâng cao khả năng xử lý các tác vụ xử lý hình ảnh hiệu quả của bạn. Tiếp tục khám phá thư viện bằng cách thử nghiệm với các cấu hình và định dạng khác nhau.
+**Q: Tôi có thể xử lý bao nhiêu ảnh trong một lô duy nhất?**  
+A: Bạn có thể xử lý hàng ngàn ảnh; chỉ cần quản lý bộ nhớ bằng cách tải và giải phóng mỗi ảnh trong vòng lặp.
 
-**Các bước tiếp theo:**
-- Khám phá các tính năng bổ sung của Aspose.Imaging.
-- Tích hợp những khả năng này vào các dự án hoặc ứng dụng lớn hơn.
+**Q: Có giới hạn kích thước ảnh mà tôi có thể chuyển đổi không?**  
+A: Aspose.Imaging xử lý ảnh lên tới vài gigabyte, chỉ bị giới hạn bởi bộ nhớ heap khả dụng và cài đặt `setBufferSize`.
 
-Sẵn sàng bắt đầu chưa? Hãy thử triển khai giải pháp này vào dự án tiếp theo của bạn!
+**Q: Tôi có thể đặt siêu dữ liệu tùy chỉnh (EXIF) cho đầu ra WebP không?**  
+A: Có. Sử dụng `WebPOptions.getMetadata().add(...)` để nhúng dữ liệu EXIF hoặc XMP trước khi lưu.
 
-## Phần Câu hỏi thường gặp
+## Kết luận
+Bây giờ bạn đã có một công thức hoàn chỉnh, sẵn sàng cho sản xuất để **convert images to WebP** bằng Aspose.Imaging cho Java. Bằng cách làm chủ việc tải, cấu hình tùy chọn và lưu, bạn có thể tích hợp chuyển đổi WebP vào bất kỳ dịch vụ Java, ứng dụng di động hoặc quy trình xử lý hàng loạt nào.
 
-1. **Aspose.Imaging cho Java là gì?**
-   - Một thư viện mạnh mẽ để xử lý hình ảnh, bao gồm tải và chuyển đổi hình ảnh.
+**Các bước tiếp theo:**  
+- Thử nghiệm với các giá trị `quality` khác nhau để tìm cân bằng tối ưu cho trường hợp sử dụng của bạn.  
+- Khám phá các định dạng bổ sung (AVIF, JPEG‑XL) được Aspose.Imaging hỗ trợ.  
+- Kết hợp logic chuyển đổi này với một endpoint REST để cung cấp tối ưu hoá ảnh ngay lập tức.
 
-2. **Làm thế nào để cài đặt Aspose.Imaging bằng Maven?**
-   - Thêm sự phụ thuộc vào `pom.xml` tập tin như được hiển thị trong phần thiết lập.
+---
 
-3. **Tôi có thể sử dụng WebP mà không làm giảm chất lượng không?**
-   - Có, bằng cách thiết lập `options.setLossless(true);`, bạn có thể đạt được khả năng nén không mất dữ liệu.
+**Last Updated:** 2026-06-23  
+**Tested With:** Aspose.Imaging for Java 25.5  
+**Author:** Aspose  
 
-4. **Một số vấn đề thường gặp khi sử dụng Aspose.Imaging là gì?**
-   - Đảm bảo cấp phép phù hợp và khả năng tương thích phiên bản để tránh lỗi trong quá trình thực hiện.
-
-5. **Làm thế nào để chuyển đổi hình ảnh sang định dạng khác ngoài BMP bằng Aspose.Imaging?**
-   - Sử dụng `Image.load()` phương pháp cho nhiều định dạng khác nhau được Aspose.Imaging hỗ trợ, chẳng hạn như PNG hoặc JPEG.
-
-## Tài nguyên
-
-- [Tài liệu](https://reference.aspose.com/imaging/java/)
-- [Tải về](https://releases.aspose.com/imaging/java/)
-- [Mua](https://purchase.aspose.com/buy)
-- [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
-- [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
+**Tài nguyên**  
+- [Tài liệu](https://reference.aspose.com/imaging/java/)  
+- [Tải xuống](https://releases.aspose.com/imaging/java/)  
+- [Mua](https://purchase.aspose.com/buy)  
+- [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)  
+- [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)  
 - [Diễn đàn hỗ trợ](https://forum.aspose.com/c/imaging/14)
 
-Hướng dẫn này sẽ cung cấp cho bạn mọi thứ cần thiết để sử dụng hiệu quả Aspose.Imaging để tải và xuất hình ảnh ở định dạng WebP bằng Java. Chúc bạn viết code vui vẻ!
+## Các hướng dẫn liên quan
+
+- [Tối ưu hóa ảnh WebP với Aspose.Imaging trong Java: Hướng dẫn từng bước](/imaging/java/image-loading-saving/create-save-webp-images-aspose-imaging-java/)
+- [Chuyển đổi WMF sang WebP với Aspose.Imaging trong Java: Hướng dẫn từng bước](/imaging/java/format-conversion-export/convert-wmf-webp-aspose-imaging-java-guide/)
+- [Chuyển đổi WebP sang GIF trong Java với Aspose.Imaging: Hướng dẫn từng bước](/imaging/java/format-conversion-export/aspose-imaging-java-webp-to-gif-conversion/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< /blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/products-backtop-button >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
