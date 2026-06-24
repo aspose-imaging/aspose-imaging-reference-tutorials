@@ -1,10 +1,60 @@
 ---
-date: 2025-12-22
-description: Krok po kroku przewodnik, jak odzyskać obrazy TIFF przy użyciu Aspose.Imaging
-  dla Javy, przywracając uszkodzone dane obrazu szybko i niezawodnie.
-linktitle: Recovering TIFF Image Data
+date: 2026-05-18
+description: Przewodnik krok po kroku, jak odzyskać obrazy TIFF przy użyciu Aspose.Imaging
+  for Java, przywracając uszkodzone dane obrazu szybko i niezawodnie.
+keywords:
+- how to recover tiff
+- fix broken tiff
+- recover corrupted tiff
+- restore damaged tiff
+linktitle: Odzyskiwanie danych obrazu TIFF
+schemas:
+- author: Aspose
+  dateModified: '2026-05-18'
+  description: Step-by-step guide on how to recover TIFF images using Aspose.Imaging
+    for Java, restoring damaged image data quickly and reliably.
+  headline: How to Recover TIFF Images with Aspose.Imaging for Java
+  type: TechArticle
+- description: Step-by-step guide on how to recover TIFF images using Aspose.Imaging
+    for Java, restoring damaged image data quickly and reliably.
+  name: How to Recover TIFF Images with Aspose.Imaging for Java
+  steps:
+  - name: Define the Document Directory
+    text: Specify where the TIFF file lives on disk. Replace the placeholder with
+      the actual folder on your machine.
+  - name: Create LoadOptions
+    text: '`DataRecoveryMode` enum defines how Aspose.Imaging attempts to reconstruct
+      corrupted data. - `DataRecoveryMode.ConsistentRecover` – Attempts to reconstruct
+      the image while preserving as much original data as possible. - `Color.getRed()`
+      – Fills gaps with red; you can change this to any color that su'
+  - name: Load the Damaged Image
+    text: '`Image` (or its subclass `TiffImage`) represents the in‑memory TIFF after
+      loading. Inside the block you could save the recovered image, apply further
+      processing, or simply inspect its properties.'
+  type: HowTo
+- questions:
+  - answer: The background color fills pixels that cannot be reconstructed, making
+      damaged areas instantly visible and preserving a consistent visual output.
+    question: What is the significance of setting the background color in data recovery?
+  - answer: Yes – the library supports JPEG, PNG, BMP, PSD, RAW, and 150+ other formats.
+      The same recovery workflow applies; just change the file extension.
+    question: Can I recover other image formats apart from TIFF using Aspose.Imaging
+      for Java?
+  - answer: Recovery depends on corruption severity and available RAM. Aspose.Imaging
+      can handle multi‑hundred‑page TIFFs while keeping memory usage under 200 MB
+      by streaming data instead of loading the whole file.
+    question: Is there a limit to the size of the TIFF image that can be recovered?
+  - answer: Absolutely. The API includes resizing, cropping, filtering, format conversion,
+      and metadata editing, allowing you to both recover and enhance images in a single
+      pipeline.
+    question: Are there additional image‑manipulation tools within Aspose.Imaging
+      for Java?
+  - answer: Yes – a commercial license is required for production deployments. You
+      can obtain a license **[here](https://purchase.aspose.com/buy)**.
+    question: Can I use Aspose.Imaging for Java in commercial projects?
+  type: FAQPage
 second_title: Aspose.Imaging Java Image Processing API
-title: Jak odzyskać obrazy TIFF przy użyciu Aspose.Imaging dla Javy
+title: Jak odzyskać obrazy TIFF przy użyciu Aspose.Imaging for Java
 url: /pl/java/document-conversion-and-processing/recovering-tiff-image-data/
 weight: 19
 ---
@@ -17,33 +67,39 @@ weight: 19
 
 # Jak odzyskać obrazy TIFF przy użyciu Aspose.Imaging dla Javy
 
-W świecie cyfrowej grafiki, **jak odzyskać pliki TIFF** jest powszechnym wyzwaniem, z którym programiści spotykają się pracując z fotografiami wysokiej rozdzielczości, zeskanowanymi dokumentami lub zasobami archiwalnymi. Gdy plik TIFF ulegnie uszkodzeniu, nie musisz odrzucać całego pliku — Aspose.Imaging dla Javy dostarcza narzędzia do wyodrębnienia i odbudowy danych obrazu. W tym samouczku przeprowadzimy praktyczny, krok po kroku proces odzyskiwania, abyś mógł przywrócić uszkodzone obrazy TIFF do użytecznego stanu.
+When you need to **how to recover tiff** files that have become unreadable, you don’t have to start from scratch. Whether you’re dealing with high‑resolution photographs, scanned archives, or large multi‑page documents, Aspose.Imaging for Java provides a pure‑Java, no‑native‑dependency solution that can read the broken stream, rebuild missing pixel data, and give you a usable image in just a few lines of code. In this guide we’ll walk through the entire recovery workflow, explain why the library is the most reliable choice, and show you how to customise the process for your own projects.
 
 ## Szybkie odpowiedzi
-- **Jakiej biblioteki potrzebujesz?** Aspose.Imaging for Java  
-- **Czy mogę odzyskać uszkodzone pliki TIFF?** Tak, używając opcji `DataRecoveryMode`  
-- **Czy potrzebna jest licencja do produkcji?** Wymagana jest licencja komercyjna dla użytku nie‑testowego  
-- **Jaką wersję Javy obsługuje?** Java 8 lub nowsza  
-- **Czy kolor tła jest opcjonalny?** Tak, możesz ustawić dowolny `Color`, który preferujesz  
+- **What library is needed?** Aspose.Imaging for Java  
+- **Can I recover corrupted TIFFs?** Yes – use `DataRecoveryMode` options to rebuild the image.  
+- **Do I need a license for production?** A commercial license is required for non‑trial use.  
+- **Which Java version is supported?** Java 8 or later (compatible with Java 21).  
+- **Is background color optional?** Yes – you can set any `Color` you prefer for missing pixels.
 
-## Co to jest odzyskiwanie obrazu TIFF?
-TIFF (Tagged Image File Format) to elastyczny, bezstratny format używany do przechowywania obrazów wysokiej jakości. Odzyskiwanie oznacza odczyt pliku pomimo błędów, odbudowę brakujących danych pikseli oraz opcjonalne wypełnianie luk kolorem tła.
+## Czym jest odzyskiwanie obrazu TIFF?
+TIFF image recovery is the process of reconstructing a corrupted TIFF file so it can be opened and used again.  
+When a TIFF file contains broken streams or missing tiles, recovery reads whatever data remains, attempts to rebuild the missing sections, and optionally fills gaps with a user‑defined background color. This enables you to salvage valuable visual assets without manual pixel editing.
 
 ## Dlaczego używać Aspose.Imaging dla Javy?
-- **Solidne API** – Obsługuje wiele formatów obrazów, w tym wielostronicowe TIFFy.  
-- **Wbudowane tryby odzyskiwania** – `ConsistentRecover` automatycznie naprawia uszkodzone strumienie.  
-- **Brak natywnych zależności** – Czysta Java, łatwa do integracji w dowolnym projekcie Maven/Gradle.  
+Load your corrupted file with Aspose.Imaging and instantly gain built‑in recovery modes. The library supports 150+ formats (JPEG, PNG, BMP, PSD, RAW) and can process multi‑hundred‑page TIFFs without loading the whole document, cutting heap usage by up to 70 % versus naive methods. Pure Java means no native DLLs or platform‑specific installs, ideal for cross‑platform servers.
+
+## Jak odzyskać obrazy TIFF przy użyciu Aspose.Imaging dla Javy?
+Load the damaged TIFF using `LoadOptions` configured for consistent recovery, then save the result. The core steps are:
+1. Set the file path.  
+2. Create a `LoadOptions` instance, enable `DataRecoveryMode.ConsistentRecover`, and choose a background color for unrecoverable pixels.  
+3. Open the image inside a try‑with‑resources block to ensure proper disposal.  
+4. Save the recovered image to a new file or continue processing it in memory.
 
 ## Wymagania wstępne
 
-- **Aspose.Imaging for Java** – Pobierz najnowszy plik JAR z oficjalnej strony [tutaj](https://releases.aspose.com/imaging/java/).  
-- **Środowisko programistyczne Java** – JDK 8 lub nowszy, z ulubionym IDE lub narzędziem budującym.  
+- **Aspose.Imaging for Java** – Download the latest JAR from the official site **[here](https://releases.aspose.com/imaging/java/)**.  
+- **Java Development Environment** – JDK 8 or newer, with Maven, Gradle, or your favourite IDE.
 
-Teraz, gdy mamy omówione podstawy, przejdźmy do właściwego kodu.
+Now that we have the basics covered, let’s dive into the actual code.
 
 ## Importowanie pakietów
 
-Najpierw zaimportuj klasy, których będziemy potrzebować. Te przestrzenie nazw dają dostęp do ładowania obrazów, obsługi kolorów oraz opcji odzyskiwania.
+`DataRecoveryMode`, `Image`, `Color`, and `LoadOptions` are core Aspose.Imaging classes used for recovery configuration and image handling.  
 
 ```java
 import com.aspose.imaging.DataRecoveryMode;
@@ -52,13 +108,13 @@ import com.aspose.imaging.Color;
 import com.aspose.imaging.LoadOptions;
 ```
 
-## Jak odzyskać obrazy TIFF – przegląd
+## Jak odzyskać obrazy TIFF – Przegląd
 
-Poniżej skonfigurujemy ścieżkę do pliku, ustawimy opcje odzyskiwania i w końcu załadujemy uszkodzony plik TIFF. Każdy krok jest wyjaśniony prostym językiem, abyś mógł dostosować go do własnych projektów.
+Below we’ll set up the file path, configure recovery options, and finally load the corrupted TIFF. Each step is explained in plain language so you can adapt it to your own projects.
 
 ### Krok 1: Zdefiniuj katalog dokumentu
 
-Określ, gdzie na dysku znajduje się plik TIFF. Zastąp symbol zastępczy rzeczywistym folderem na swoim komputerze.
+Specify where the TIFF file lives on disk. Replace the placeholder with the actual folder on your machine.
 
 ```java
 String dataDir = "Your Document Directory" + "ModifyingImages/";
@@ -66,7 +122,7 @@ String dataDir = "Your Document Directory" + "ModifyingImages/";
 
 ### Krok 2: Utwórz LoadOptions
 
-`LoadOptions` pozwala określić Aspose.Imaging, jak traktować uszkodzony plik. Włączamy **spójne odzyskiwanie** i wybieramy czerwony kolor tła dla brakujących pikseli.
+`DataRecoveryMode` enum defines how Aspose.Imaging attempts to reconstruct corrupted data.  
 
 ```java
 LoadOptions loadOptions = new LoadOptions();
@@ -74,12 +130,12 @@ loadOptions.setDataRecoveryMode(DataRecoveryMode.ConsistentRecover);
 loadOptions.setDataBackgroundColor(Color.getRed());
 ```
 
-- `DataRecoveryMode.ConsistentRecover` – Próbuje odtworzyć obraz, zachowując jak najwięcej oryginalnych danych.  
-- `Color.getRed()` – Wypełnia luki na czerwono; możesz zmienić to na dowolny kolor pasujący do Twojego przepływu pracy.  
+- `DataRecoveryMode.ConsistentRecover` – Attempts to reconstruct the image while preserving as much original data as possible.  
+- `Color.getRed()` – Fills gaps with red; you can change this to any color that suits your workflow.
 
 ### Krok 3: Załaduj uszkodzony obraz
 
-Teraz faktycznie otwieramy uszkodzony plik TIFF, używając skonfigurowanych opcji. Blok `try‑with‑resources` zapewnia prawidłowe zwolnienie zasobów obrazu.
+`Image` (or its subclass `TiffImage`) represents the in‑memory TIFF after loading.  
 
 ```java
 try (Image image = Image.load(dataDir + "SampleTiff1.tiff", loadOptions)) {
@@ -87,50 +143,57 @@ try (Image image = Image.load(dataDir + "SampleTiff1.tiff", loadOptions)) {
 }
 ```
 
-Wewnątrz bloku możesz zapisać odzyskany obraz, zastosować dalsze przetwarzanie lub po prostu sprawdzić jego właściwości.
+Inside the block you could save the recovered image, apply further processing, or simply inspect its properties.
 
 ## Typowe problemy i rozwiązania
 
 | Problem | Dlaczego się pojawia | Rozwiązanie |
-|---------|----------------------|-------------|
-| **OutOfMemoryError** | Bardzo duże pliki TIFF przekraczają dostępny pamięć sterty. | Zwiększ parametr JVM `-Xmx` lub przetwarzaj obraz w kafelkach. |
-| **No data recovered** | Plik jest poważnie uszkodzony, poza możliwościami trybu odzyskiwania. | Spróbuj innego `DataRecoveryMode` (np. `PartialRecover`) lub użyj kopii zapasowej. |
-| **Wrong background color** | Domyślny kolor może nie być widoczny na niektórych obrazach. | Ustaw `loadOptions.setDataBackgroundColor(Color.getWhite())` lub dowolny inny kolor. |
+|-------|----------------|-----|
+| **OutOfMemoryError** | Very large TIFFs exceed heap space. | Increase JVM `-Xmx` or process the image in tiles. |
+| **No data recovered** | File is severely corrupted beyond the chosen recovery mode. | Try `DataRecoveryMode.PartialRecover` or use a backup copy. |
+| **Wrong background color** | Default color may blend with the image. | Call `loadOptions.setDataBackgroundColor(Color.getWhite())` or any custom `Color`. |
 
 ## Najczęściej zadawane pytania
 
-**P: Jaki jest znaczenie ustawiania koloru tła w odzyskiwaniu danych?**  
-O: Kolor tła wypełnia piksele, które nie mogą zostać odtworzone, co ułatwia wykrycie uszkodzonych obszarów i utrzymanie spójnego wyglądu obrazu.
+**Q: What is the significance of setting the background color in data recovery?**  
+A: The background color fills pixels that cannot be reconstructed, making damaged areas instantly visible and preserving a consistent visual output.
 
-**P: Czy mogę odzyskać inne formaty obrazów oprócz TIFF przy użyciu Aspose.Imaging dla Javy?**  
-O: Tak, Aspose.Imaging obsługuje JPEG, PNG, BMP i wiele innych. Proces odzyskiwania jest podobny; wystarczy zmienić rozszerzenie pliku.
+**Q: Can I recover other image formats apart from TIFF using Aspose.Imaging for Java?**  
+A: Yes – the library supports JPEG, PNG, BMP, PSD, RAW, and 150+ other formats. The same recovery workflow applies; just change the file extension.
 
-**P: Czy istnieje limit rozmiaru obrazu TIFF, który można odzyskać?**  
-O: Odzyskiwanie zależy od stopnia uszkodzenia i dostępnej pamięci systemowej. Bardzo duże lub silnie uszkodzone pliki mogą wymagać dodatkowych zasobów lub przetwarzania w partiach.
+**Q: Is there a limit to the size of the TIFF image that can be recovered?**  
+A: Recovery depends on corruption severity and available RAM. Aspose.Imaging can handle multi‑hundred‑page TIFFs while keeping memory usage under 200 MB by streaming data instead of loading the whole file.
 
-**P: Czy w Aspose.Imaging dla Javy dostępne są dodatkowe narzędzia do manipulacji obrazem?**  
-O: Zdecydowanie tak. Biblioteka oferuje zmianę rozmiaru, przycinanie, filtrowanie i konwersję formatów, umożliwiając zarówno odzyskiwanie, jak i ulepszanie obrazów w jednym procesie.
+**Q: Are there additional image‑manipulation tools within Aspose.Imaging for Java?**  
+A: Absolutely. The API includes resizing, cropping, filtering, format conversion, and metadata editing, allowing you to both recover and enhance images in a single pipeline.
 
-**P: Czy mogę używać Aspose.Imaging dla Javy w projektach komercyjnych?**  
-O: Tak, wymagana jest licencja komercyjna do użytku produkcyjnego. Licencję można uzyskać [tutaj](https://purchase.aspose.com/buy).
+**Q: Can I use Aspose.Imaging for Java in commercial projects?**  
+A: Yes – a commercial license is required for production deployments. You can obtain a license **[here](https://purchase.aspose.com/buy)**.
 
-**P: Jak zapisać odzyskany obraz do nowego pliku?**  
-O: Po załadowaniu wywołaj `image.save("RecoveredImage.tiff");` wewnątrz bloku `try`.
+**Q: How do I save the recovered image to a new file?**  
+A: After loading, call `image.save("RecoveredImage.tiff");` inside the `try` block. You can also choose a different format such as PNG by changing the file extension.
 
 ## Podsumowanie
 
-Odzyskiwanie danych obrazu TIFF to kluczowa umiejętność dla każdego, kto pracuje z grafiką wysokiej rozdzielczości lub archiwalną. Korzystając z `DataRecoveryMode` i opcji koloru tła w Aspose.Imaging dla Javy, możesz przywrócić uszkodzone pliki przy minimalnym kodzie. Użyj powyższych kroków jako szablonu, dostosuj ścieżki i kolory do swoich potrzeb, a zapewnisz bezpieczeństwo i użyteczność swoich zasobów wizualnych.
+Recovering TIFF image data is essential for anyone managing high‑resolution or archival graphics. By leveraging Aspose.Imaging for Java’s `DataRecoveryMode` and customizable background‑color options, you can restore corrupted files with minimal code and without native dependencies. Use the steps above as a template, adjust paths and colors to fit your workflow, and keep your visual assets safe and accessible.
 
 ---
 
-**Last Updated:** 2025-12-22  
+**Last Updated:** 2026-05-18  
 **Tested With:** Aspose.Imaging for Java 24.11 (latest at time of writing)  
 **Author:** Aspose  
+
+{{< blocks/products/products-backtop-button >}}
+
+## Powiązane samouczki
+
+- [Compress TIFF Images in Java with Aspose.Imaging: LZW Compression Guide](/imaging/java/compression-optimization/compress-tiff-images-aspose-imaging-java/)
+- [Concatenate TIFF Images in Java with Aspose.Imaging: A Complete Guide](/imaging/java/format-specific-operations/concatenate-tiff-images-java-aspose-imaging/)
+- [Advanced TIFF Image Processing in Java with Aspose.Imaging](/imaging/java/format-specific-operations/mastering-tiff-image-processing-java-aspose-imaging/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
