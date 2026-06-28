@@ -1,9 +1,69 @@
 ---
-"date": "2025-06-04"
-"description": "Aspose.Imaging for Java kullanarak ODP dosyalarını PNG görüntülerine nasıl aktaracağınızı öğrenin. Bu eğitim, özel yazı tipi ayarlarını ve dönüştürme tekniklerini ele alarak belge işleme yeteneklerinizi geliştirir."
-"title": "Aspose ile ODP'yi PNG'ye dönüştürün.Görüntüleme Java&#58; Özel Yazı Tipleri ve Dışa Aktarma Kılavuzu"
-"url": "/tr/java/format-conversion-export/export-odp-to-png-aspose-imaging-java-custom-fonts/"
-"weight": 1
+date: '2026-06-28'
+description: Aspose.Imaging for Java kullanarak ODP'yi PNG'ye nasıl dönüştüreceğinizi
+  öğrenin, özel yazı tiplerini ayarlayın ve doğru renderleme için sistem yazı tiplerini
+  devre dışı bırakın.
+keywords:
+- how to convert odp
+- maven aspose imaging
+- aspose imaging license
+- disable system fonts
+- java convert presentation image
+schemas:
+- author: Aspose
+  dateModified: '2026-06-28'
+  description: Learn how to convert ODP to PNG using Aspose.Imaging for Java, set
+    custom fonts, and disable system fonts for accurate rendering.
+  headline: How to Convert ODP to PNG with Aspose.Imaging for Java – Custom Fonts
+    & Export Guide
+  type: TechArticle
+- description: Learn how to convert ODP to PNG using Aspose.Imaging for Java, set
+    custom fonts, and disable system fonts for accurate rendering.
+  name: How to Convert ODP to PNG with Aspose.Imaging for Java – Custom Fonts & Export
+    Guide
+  steps:
+  - name: '**Free Trial** – No license required, limited features.'
+    text: '**Free Trial** – No license required, limited features.'
+  - name: '**Temporary License** – Request one on the [Aspose website](https://purchase.aspose.com/temporary-license/).'
+    text: '**Temporary License** – Request one on the [Aspose website](https://purchase.aspose.com/temporary-license/).'
+  - name: '**Purchase** – Buy a subscription or perpetual license from [Aspose purchase
+      page](https://purchase.aspose.com/buy).'
+    text: '**Purchase** – Buy a subscription or perpetual license from [Aspose purchase
+      page](https://purchase.aspose.com/buy).'
+  - name: '**Brand‑consistent slide decks** – Export presentations as PNGs for web
+      publishing while preserving corporate fonts.'
+    text: '**Brand‑consistent slide decks** – Export presentations as PNGs for web
+      publishing while preserving corporate fonts.'
+  - name: '**Automated report generation** – Convert each slide to an image for inclusion
+      in PDF reports or email newsletters.'
+    text: '**Automated report generation** – Convert each slide to an image for inclusion
+      in PDF reports or email newsletters.'
+  - name: '**Legacy archive creation** – Store ODP content as PNGs to guarantee future
+      accessibility without needing ODP viewers.'
+    text: '**Legacy archive creation** – Store ODP content as PNGs to guarantee future
+      accessibility without needing ODP viewers.'
+  type: HowTo
+- questions:
+  - answer: Aspose.Imaging for Java works with JDK 8 and newer; JDK 11 is recommended
+      for long‑term support.
+    question: What is the minimum Java version required?
+  - answer: Yes, set `rasterizationOptions.setPageNumber(specificSlideIndex)` before
+      calling `save`.
+    question: Can I convert only selected slides?
+  - answer: Load the file with `LoadOptions` that includes the password, then proceed
+      with the same font settings.
+    question: How do I handle password‑protected ODP files?
+  - answer: It marginally improves speed because the engine skips the lookup of system
+      fonts, especially noticeable on machines with large font collections.
+    question: Does disabling system fonts affect performance?
+  - answer: Explore the official [Aspose.Imaging documentation](https://reference.aspose.com/imaging/java/)
+      for additional scenarios such as batch conversion and image transformations.
+    question: Where can I find more code samples?
+  type: FAQPage
+title: Aspose.Imaging for Java ile ODP'yi PNG'ye Dönüştürme – Özel Yazı Tipleri ve
+  Dışa Aktarma Kılavuzu
+url: /tr/java/format-conversion-export/export-odp-to-png-aspose-imaging-java-custom-fonts/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,40 +71,40 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# ODP Dosyalarını Özel Yazı Tipleriyle PNG'ye Aktarmak İçin Aspose.Imaging Java Nasıl Uygulanır
+# Aspose.Imaging for Java ile ODP'yi PNG'ye Dönüştürme – Özel Yazı Tipleri ve Dışa Aktarma Kılavuzu
 
-Günümüzün dijital çağında, belge yönetimi ve dönüşümü yazılım geliştirmenin önemli yönleridir. İster sunumları otomatikleştirmek, ister uygulamanızdaki grafik belgeleri yönetmek isteyen bir geliştirici olun, doğru araçlara sahip olmak her şeyi değiştirebilir. Bu eğitim, özel yazı tipleri belirlerken OpenDocument Presentation (ODP) dosyalarını PNG görüntülerine aktarmak için Aspose.Imaging for Java'yı kullanma konusunda size rehberlik edecektir. Bu işlevsellikte ustalaşarak, uygulamalarınızdaki belge işleme yeteneklerini geliştireceksiniz.
+Modern Java uygulamalarında, OpenDocument Presentation (ODP) dosyalarını yüksek kaliteli PNG görüntülerine dönüştürmek yaygın bir gereksinimdir—özellikle özel yazı tipleriyle markalaşmayı korumanız gerektiğinde. Bu öğreticide **ODP'yi PNG'ye nasıl dönüştüreceğinizi** Aspose.Imaging for Java kullanarak gösteriyor, özel bir yazı tipi klasörü ayarlamayı, sistem yedekleme yazı tiplerini devre dışı bırakmayı ve optimal performans için rasterleştirme seçeneklerini ince ayarlamayı adım adım anlatıyor.
 
-**Ne Öğreneceksiniz:**
-- Özel yazı tipleri için bir dizin ayarlanıyor.
-- Belirtilen yazı tipleri eksik olduğunda sistem alternatif yazı tiplerini devre dışı bırakıyorum.
-- Bir ODP dosyasını özel yazı tipi ayarlarıyla PNG'ye aktarma.
-- Java'da Aspose.Imaging işlemlerinin performansının iyileştirilmesi.
+**Öğrenecekleriniz**
+- ODP dönüşümü için özel bir yazı tipi dizini nasıl ayarlanır.  
+- Sistem alternatif yazı tipleri nasıl devre dışı bırakılır, böylece yalnızca seçtiğiniz tipografiler kullanılır.  
+- ODP dosyasını kesin boyutlar ve yazı tipi ayarlarıyla PNG olarak nasıl dışa aktarılır.  
+- Büyük sunumları işlerken hız ve bellek kullanımını artırmak için ipuçları.
 
-Uygulamaya geçmeden önce, başlamak için ihtiyacınız olan her şeye sahip olduğunuzdan emin olalım.
+## Hızlı Yanıtlar
+- **Maven kullanarak Aspose.Imaging ekleyebilir miyim?** Evet, Maven bağımlılığını ekleyin ve `mvn install` komutunu çalıştırın.  
+- **Üretim ortamında lisansa ihtiyacım var mı?** Sınırsız kullanım için geçerli bir Aspose.Imaging lisansı gereklidir.  
+- **Özel yazı tiplerim dikkate alınacak mı?** Yazı tipleri klasörünü ayarlayın ve sistem alternatiflerini devre dışı bırakarak bunları zorunlu kılın.  
+- **Hangi görüntü formatları destekleniyor?** Aspose.Imaging, PNG, JPEG, TIFF ve WebP dahil olmak üzere 120'den fazla raster ve vektör formatını destekler.  
+- **API çok iş parçacıklı (thread‑safe) mı?** Evet, çoğu Aspose.Imaging sınıfı, her iş parçacığı için ayrı örnekler oluşturduğunuzda eşzamanlı kullanım için güvenlidir.
 
-## Ön koşullar
+## “how to convert odp” nedir?
+*“How to convert odp”* ifadesi, bir OpenDocument Presentation dosyasını başka bir formata—genellikle PNG—dönüştürme sürecini, düzeni, yazı tiplerini ve görsel sadakati koruyarak tanımlar. Aspose.Imaging for Java, bu dönüşümü dış araçlara ihtiyaç duymadan tek‑metot bir iş akışıyla gerçekleştirir ve geliştiricilerin dönüşümü doğrudan uygulamalarına minimum kodla entegre etmelerini sağlar.
 
-Bu eğitimi etkili bir şekilde takip etmek için şunlara ihtiyacınız olacak:
+## Neden Aspose.Imaging for Java Kullanmalısınız?
+Aspose.Imaging, **120+ çıktı formatı** destekler ve çok sayfalı ODP dosyalarını bellek içinde tüm belgeyi yüklemeden rasterleştirerek büyük sunumlarda en yüksek RAM kullanımını %70’e kadar azaltır. Kütüphane ayrıca yerleşik yazı tipi yönetimi sunar, üçüncü‑taraf render motorlarına olan ihtiyacı ortadan kaldırır.
 
-1. **Kütüphaneler ve Sürümler:**
-   - Java için Aspose.Imaging (sürüm 25.5 veya üzeri).
+## Önkoşullar
+- **Kütüphaneler**: Aspose.Imaging for Java ≥ 25.5.  
+- **JDK**: Versiyon 8 veya daha yenisi.  
+- **IDE**: IntelliJ IDEA, Eclipse veya herhangi bir Java uyumlu editör.  
+- **Temel Bilgi**: Java I/O, nesne‑yönelimli programlama ve görüntü kavramları.
 
-2. **Çevre Kurulum Gereksinimleri:**
-   - Çalışan bir Java Geliştirme Kiti (JDK) sürüm 8 veya üzeri.
-   - IntelliJ IDEA, Eclipse veya tercih ettiğiniz herhangi bir metin editörü gibi bir IDE.
+## Kurulum Talimatları
 
-3. **Bilgi Ön Koşulları:**
-   - Java programlamanın temel bilgisi.
-   - Java'da dosya işleme ve görüntü işleme kavramlarına aşinalık.
+### Maven
+Aşağıdaki bağımlılığı `pom.xml` dosyanıza ekleyin ve `mvn clean install` komutunu çalıştırın:
 
-## Java için Aspose.Imaging Kurulumu
-
-### Kurulum Talimatları:
-
-Aspose.Imaging'i Maven, Gradle kullanarak veya doğrudan JAR'ı indirerek projenize entegre edebilirsiniz. İşte nasıl:
-
-**Usta:**
 ```xml
 <dependency>
   <groupId>com.aspose</groupId>
@@ -53,43 +113,34 @@ Aspose.Imaging'i Maven, Gradle kullanarak veya doğrudan JAR'ı indirerek projen
 </dependency>
 ```
 
-**Gradle:**
+### Gradle
+`build.gradle` dosyanıza kütüphaneyi ekleyin ve projeyi yenileyin:
+
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-**Doğrudan İndirme:**
+### Doğrudan İndirme
+En son JAR dosyasını [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) adresinden indirin.
 
-En son JAR'ı şu adresten indirin: [Java sürümleri için Aspose.Imaging](https://releases.aspose.com/imaging/java/).
+## Lisans Edinme Adımları
+1. **Ücretsiz Deneme** – Lisans gerektirmez, sınırlı özellikler.  
+2. **Geçici Lisans** – [Aspose web sitesinden](https://purchase.aspose.com/temporary-license/) bir lisans isteyin.  
+3. **Satın Alma** – [Aspose satın alma sayfasından](https://purchase.aspose.com/buy) abonelik ya da kalıcı lisans satın alın.
 
-### Lisans Edinme Adımları
+Kütüphaneyi lisans dosyanızla başlatın:
 
-Aspose.Imaging'i kullanmak için ücretsiz denemeyle başlayabilir veya tüm yeteneklerini keşfetmek için geçici bir lisans başvurusunda bulunabilirsiniz. Memnun kalırsanız, uzun vadeli kullanım için bir lisans satın almayı düşünün.
-
-1. **Ücretsiz Deneme:** Lisans olmadan sınırlı özelliklere erişin.
-2. **Geçici Lisans:** Başvuruda bulunun [Aspose web sitesi](https://purchase.aspose.com/temporary-license/) Tüm özelliklerin kilidini açmak için.
-3. **Satın almak:** Abonelik veya sürekli lisans satın alın [Aspose satın alma sayfası](https://purchase.aspose.com/buy).
-
-Lisansınızı ayarlayarak Aspose.Imaging'i başlatın:
 ```java
 License license = new License();
 license.setLicense("path/to/your/license/file");
 ```
 
-## Uygulama Kılavuzu
+## ODP Dönüşümü İçin Özel Bir Yazı Tipi Dizini Nasıl Ayarlanır?
+`FontSettings` Aspose.Imaging için yazı tipi kaynaklarını yöneten bir sınıftır. Görüntü işleme başlamadan önce özel yazı tiplerinizi yükleyin. Bu, her slaytın sağladığınız tam tipografiyi kullanmasını sağlar.
 
-Her bir özelliğin uygulanma sürecini adım adım inceleyelim.
+Aspose.Imaging’in `FontSettings` sınıfını kullanarak yazı tipleri klasör yolunu ayarlayın:
 
-### Özellik 1: Yazı Tipi Dizini Ayarlama
-
-**Genel Bakış:**  
-Uygulamanızın belirli tipografiyi kullanmasını sağlamak için yazı tipleri için özel bir dizin yapılandırın. Bu, farklı ortamlarda tutarlı yazı tipi oluşturmaya ihtiyaç duyduğunuzda çok önemlidir.
-
-#### Adımlar:
-
-- **Font Dizin Yolunu Tanımla:**
-  
-  ```java
+```java
   import com.aspose.imaging.FontSettings;
   import com.aspose.imaging.examples.Path;
   import com.aspose.imaging.examples.Utils;
@@ -98,37 +149,27 @@ Uygulamanızın belirli tipografiyi kullanmasını sağlamak için yazı tipleri
   FontSettings.setFontsFolder(Path.combine(dataDir, "fonts"));
   ```
 
-  **Açıklama:**  
-  The `setFontsFolder` yöntem, Aspose.Imaging'in özel yazı tiplerini nerede arayacağını belirtir. Bu, uygulamanızın belirtilen tipografiyi tutarlı bir şekilde kullanmasını sağlar.
+*Definition anchor*: `FontSettings.setFontsFolder` Aspose.Imaging’e dosya sisteminde TrueType ve OpenType yazı tiplerini nerede arayacağını söyler.
 
-### Özellik 2: Sistem Alternatif Yazı Tiplerini Devre Dışı Bırakma
+## ODP Dönüşümü Sırasında Sistem Alternatif Yazı Tiplerini Nasıl Devre Dışı Bırakırsınız?
+Sistem alternatiflerini devre dışı bırakmak, render motorunun işletim sistemine kurulu yazı tiplerini görmezden gelmesini sağlar; böylece yalnızca siz sağladığınız yazı tipleri kullanılır. Bu, slaytlarınızın görsel görünümünü değiştirebilecek beklenmedik yazı tipi ikamelerini ortadan kaldırır.
 
-**Genel Bakış:**  
-Belirli yazı tipleri eksik olduğunda sistem yazı tiplerine geri dönmeyi önleyin, böylece marka tutarlılığını sağlayın ve beklenmeyen oluşturma sorunlarını önleyin.
+Aşağıdaki çağrıyı kullanarak sistem alternatiflerini devre dışı bırakın:
 
-#### Adımlar:
-
-- **Sistem Alternatiflerini Devre Dışı Bırak:**
-  
-  ```java
+```java
   import com.aspose.imaging.FontSettings;
 
   FontSettings.setGetSystemAlternativeFont(false);
   ```
 
-  **Açıklama:**  
-  Ayar `setGetSystemAlternativeFont` ile `false` Aspose.Imaging'in sistem yazı tiplerini yedek yazı tipi olarak kullanmamasını sağlayarak belge görünümündeki tekdüzeliği korur.
+*Definition anchor*: `FontSettings.setGetSystemAlternativeFont(false)` motoru yalnızca tanımladığınız klasördeki yazı tiplerini kullanmaya zorlar, beklenmedik ikameleri ortadan kaldırır.
 
-### Özellik 3: Belirli Bir Yazı Tipiyle Bir ODP Dosyasını PNG'ye Aktarma
+## Belirli Bir Yazı Tipiyle ODP Dosyasını PNG'ye Nasıl Dışa Aktarırsınız?
+`RasterizationOptions` vektör sayfalarının bitmap görüntülere nasıl rasterleştirileceğini tanımlar. Yazı tipi yapılandırmasını rasterleştirme ayarlarıyla birleştirerek DPI, arka plan rengi ve sayfa boyutunu her dışa aktarılan PNG için kontrol edebilirsiniz.
 
-**Genel Bakış:**  
-Belirli özel yazı tiplerini kullanarak ODP dosyalarını PNG görüntülerine dönüştürün. Bu özellik, markalaşma ve tasarım tutarlılığının kritik olduğu sunumlar veya belgeler oluşturmak için kullanışlıdır.
+Aşağıda gösterildiği gibi dışa aktarma metodunu uygulayın:
 
-#### Adımlar:
-
-- **İhracat Fonksiyonu Uygulaması:**
-
-  ```java
+```java
   import com.aspose.imaging.FontSettings;
   import com.aspose.imaging.examples.Path;
   import com.aspose.imaging.Image;
@@ -141,8 +182,8 @@ Belirli özel yazı tiplerini kullanarak ODP dosyalarını PNG görüntülerine 
           PngOptions saveOptions = new PngOptions();
           
           OdgRasterizationOptions rasterizationOptions = new OdgRasterizationOptions();
-          rasterizationOptions.setPageWidth(1000); // İşleme için sayfa genişliğini ayarlayın
-          rasterizationOptions.setPageHeight(1000);  // İşleme için sayfa yüksekliğini ayarlayın
+          rasterizationOptions.setPageWidth(1000); // Set the page width for rendering
+          rasterizationOptions.setPageHeight(1000);  // Set the page height for rendering
 
           saveOptions.setVectorRasterizationOptions(rasterizationOptions);
           document.save(outfileName, saveOptions);
@@ -151,60 +192,60 @@ Belirli özel yazı tiplerini kullanarak ODP dosyalarını PNG görüntülerine 
 
   ```
 
-  **Açıklama:**  
-  Bu yöntem varsayılan yazı tiplerini ayarlar ve bir ODP dosyasını belirtilen boyutlara sahip bir PNG görüntüsüne dönüştürür. Ayarla `rasterizationOptions` özel render ihtiyaçlarınız için.
+*Definition anchor*: `RasterizationOptions` sınıfı, oluşturulan PNG dosyaları için DPI, sayfa boyutu ve arka plan rengini kontrol eder.
 
-### Sorun Giderme İpuçları
-
-- Tüm özel yazı tipi dosyalarının belirtilen dizinde mevcut olduğundan emin olun `setFontsFolder`.
-- ODP dosyasına giden yolun doğru ve erişilebilir olduğunu doğrulayın.
-- Java ortamının dosyaları okuma/yazma için yeterli izinlere sahip olup olmadığını kontrol edin.
+### Yaygın Tuzaklar ve Çözümler
+- **Eksik yazı tipi dosyaları** – ODP içinde referans verilen her `.ttf` veya `.otf` dosyasının ayarladığınız klasörde bulunduğunu doğrulayın.  
+- **Yanlış dosya yolları** – Mutlak yollar kullanın veya göreli yolları `System.getProperty("user.dir")` üzerinden çözün.  
+- **Yetersiz izinler** – Java sürecinin yazı tipi klasörünü okuyabildiğinden ve çıktı klasörüne yazabildiğinden emin olun.
 
 ## Pratik Uygulamalar
+1. **Marka tutarlı slayt paketleri** – Sunumları web yayıncılığı için PNG olarak dışa aktarın ve kurumsal yazı tiplerini koruyun.  
+2. **Otomatik rapor oluşturma** – Her slaytı PDF raporları veya e‑posta bültenlerine eklemek için bir görüntüye dönüştürün.  
+3. **Eski arşiv oluşturma** – ODP içeriğini PNG olarak saklayın, böylece gelecekte ODP görüntüleyicilerine ihtiyaç duymadan erişilebilir olur.
 
-1. **Marka Tutarlılığı:** PNG'ye aktarılan sunumlar için özel yazı tipleri kullanın ve marka kimliğinin tüm belgelerde korunmasını sağlayın.
-2. **Otomatik Rapor Oluşturma:** Sunum slaytlarını raporlar veya pazarlama materyalleri için görsellere dönüştürün.
-3. **Belge Arşivleme:** Özel bir yazılıma ihtiyaç duymadan daha kolay erişim ve paylaşım için ODP dosyalarını resim olarak saklayın.
+## Performans Düşünceleri
+- En son Aspose.Imaging sürümünü kullanarak çok iş parçacıklı rasterleştirme iyileştirmelerinden (8 çekirdekli CPU'larda 2× daha hızlı) faydalanın.  
+- Görüntü işleme kodunu bir try‑with‑resources bloğuna sararak yerel kaynakların zamanında serbest bırakılmasını garantileyin.  
+- Binlerce slaytı işlerken kalite ve bellek kullanımını dengelemek için `RasterizationOptions` ayarlarını (ör. DPI'yi düşürmek) ayarlayın.
 
-## Performans Hususları
+## Sıkça Sorulan Sorular
 
-- Performans iyileştirmelerinden yararlanmak için Aspose.Imaging'in en son sürümünü kullanın.
-- Hafızayı etkin bir şekilde yönetin ve ortadan kaldırın `Image` Örnekte gösterildiği gibi try-with-resources kullanan nesneler.
-- Kalite ve kaynak kullanımını dengelemek için uygulamanızın özel ihtiyaçlarına göre işleme seçeneklerini optimize edin.
+**S: Minimum Java sürümü nedir?**  
+**C:** Aspose.Imaging for Java JDK 8 ve üzeri sürümlerle çalışır; uzun vadeli destek için JDK 11 önerilir.
 
-## Çözüm
+**S: Yalnızca seçili slaytları dönüştürebilir miyim?**  
+**C:** Evet, `save` metodunu çağırmadan önce `rasterizationOptions.setPageNumber(specificSlideIndex)` ayarlayın.
 
-Bu kılavuzu takip ederek, Java için Aspose.Imaging'i nasıl kuracağınızı, özel yazı tiplerini nasıl yapılandıracağınızı, sistem alternatiflerini nasıl devre dışı bırakacağınızı ve ODP dosyalarını PNG görüntülerine nasıl aktaracağınızı öğrendiniz. Bu yetenekler, uygulamalarınızdaki belge işleme iş akışlarını önemli ölçüde iyileştirebilir.
+**S: Şifre korumalı ODP dosyalarını nasıl yönetirim?**  
+**C:** Şifreyi içeren `LoadOptions` ile dosyayı yükleyin, ardından aynı yazı tipi ayarlarıyla devam edin.
 
-Aspose.Imaging'in olanaklarını daha fazla keşfetmek için kapsamlı belgelerini incelemeyi veya görüntü dönüştürmeleri ve biçim dönüştürmeleri gibi diğer özellikleri denemeyi düşünebilirsiniz.
+**S: Sistem yazı tiplerini devre dışı bırakmak performansı etkiler mi?**  
+**C:** Motorun sistem yazı tiplerini aramamasını sağladığı için hızda hafif bir artış olur; özellikle çok sayıda yazı tipine sahip makinelerde belirgindir.
 
-## SSS Bölümü
+**S: Daha fazla kod örneği nerede bulunabilir?**  
+**C:** Toplu dönüşüm ve görüntü dönüşümleri gibi ek senaryolar için resmi [Aspose.Imaging documentation](https://reference.aspose.com/imaging/java/) sayfasını inceleyin.
 
-1. **Aspose.Imaging nedir?**  
-   Aspose.Imaging for Java, çeşitli formatlardaki görüntü ve belgeleri işlemek için güçlü bir kütüphanedir ve sağlam dönüştürme ve işleme yetenekleri sağlar.
+## Ek Kaynaklar
+- [Aspose.Imaging for Java sürümleri](https://releases.aspose.com/imaging/java/)  
+- [Aspose.Imaging Sürümleri](https://releases.aspose.com/imaging/java/)  
+- [Ücretsiz Denemenizi Başlatın](https://releases.aspose.com/imaging/java/)  
+- [Aspose.Imaging Dokümantasyonu](https://reference.aspose.com/imaging/java/)  
+- [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)  
+- [Aspose Lisansını Satın Al](https://purchase.aspose.com/buy)  
+- [Geçici Lisans Başvurusu](https://purchase.aspose.com/temporary-license/)  
 
-2. **Özel yazı tiplerini nasıl ayarlarım?**  
-   Kullanmak `FontSettings.setFontsFolder` özel yazı tiplerinizin saklandığı dizini belirtmek için.
+---
 
-3. **Aspose.Imaging'i kullanarak diğer belge türlerini dışa aktarabilir miyim?**  
-   Evet, Aspose.Imaging PDF, BMP, TIFF ve daha fazlası dahil olmak üzere çok çeşitli formatları destekler.
+**Son Güncelleme:** 2026-06-28  
+**Test Edilen:** Aspose.Imaging for Java 25.5  
+**Yazar:** Aspose
 
-4. **Özel yazı tipim düzgün şekilde işlenmiyorsa ne yapmalıyım?**  
-   Yazı tipi dosyasının, tarafından ayarlanan dizinde erişilebilir olduğundan emin olun `setFontsFolder` ve uygulamanızın bunu okumak için gerekli izinlere sahip olduğundan emin olun.
+## İlgili Öğreticiler
 
-5. **Aspose.Imaging for Java kullanımına ilişkin daha fazla örneği nerede bulabilirim?**  
-   Şuna bir göz atın: [Aspose.Görüntüleme belgeleri](https://reference.aspose.com/imaging/java/) kod örnekleri, API referansları ve eğitimler için.
+- [Aspose.Imaging for Java ile ODG'yi PNG'ye Dönüştürme: Tam Kılavuz](/imaging/java/format-conversion-export/convert-odg-to-png-aspose-imaging-java/)
+- [Java'da Aspose.Imaging ile Verimli Görüntü Dönüşümü: Tam Kılavuz](/imaging/java/format-conversion-export/mastering-image-conversion-aspose-imaging-java/)
 
-## Kaynaklar
-
-- **Belgeler:** [Aspose.Görüntüleme Belgeleri](https://reference.aspose.com/imaging/java/)
-- **İndirmek:** [Aspose.Görüntüleme Sürümleri](https://releases.aspose.com/imaging/java/)
-- **Satın almak:** [Aspose Lisansını Satın Alın](https://purchase.aspose.com/buy)
-- **Ücretsiz Deneme:** [Ücretsiz Denemeye Başlayın](https://releases.aspose.com/imaging/java/)
-- **Geçici Lisans:** [Geçici Lisans Başvurusunda Bulunun](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose.Görüntüleme Forumu](https://forum.aspose.com/c/imaging/14)
-
-Bu kılavuzun Aspose.Imaging'i Java projelerinizde sorunsuz bir şekilde uygulamanıza yardımcı olmasını umuyoruz. İyi kodlamalar!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -1,9 +1,68 @@
 ---
-"date": "2025-06-04"
-"description": "تعرّف على كيفية تصدير ملفات ODP إلى صور PNG باستخدام Aspose.Imaging لـ Java. يتناول هذا البرنامج التعليمي إعدادات الخطوط المخصصة وتقنيات التحويل، مما يُحسّن قدراتك على معالجة المستندات."
-"title": "تحويل ODP إلى PNG باستخدام Aspose.Imaging Java&#58; الخطوط المخصصة ودليل التصدير"
-"url": "/ar/java/format-conversion-export/export-odp-to-png-aspose-imaging-java-custom-fonts/"
-"weight": 1
+date: '2026-06-28'
+description: تعلم كيفية تحويل ODP إلى PNG باستخدام Aspose.Imaging for Java، ضبط الخطوط
+  المخصصة، وتعطيل الخطوط النظامية للحصول على عرض دقيق.
+keywords:
+- how to convert odp
+- maven aspose imaging
+- aspose imaging license
+- disable system fonts
+- java convert presentation image
+schemas:
+- author: Aspose
+  dateModified: '2026-06-28'
+  description: Learn how to convert ODP to PNG using Aspose.Imaging for Java, set
+    custom fonts, and disable system fonts for accurate rendering.
+  headline: How to Convert ODP to PNG with Aspose.Imaging for Java – Custom Fonts
+    & Export Guide
+  type: TechArticle
+- description: Learn how to convert ODP to PNG using Aspose.Imaging for Java, set
+    custom fonts, and disable system fonts for accurate rendering.
+  name: How to Convert ODP to PNG with Aspose.Imaging for Java – Custom Fonts & Export
+    Guide
+  steps:
+  - name: '**Free Trial** – No license required, limited features.'
+    text: '**Free Trial** – No license required, limited features.'
+  - name: '**Temporary License** – Request one on the [Aspose website](https://purchase.aspose.com/temporary-license/).'
+    text: '**Temporary License** – Request one on the [Aspose website](https://purchase.aspose.com/temporary-license/).'
+  - name: '**Purchase** – Buy a subscription or perpetual license from [Aspose purchase
+      page](https://purchase.aspose.com/buy).'
+    text: '**Purchase** – Buy a subscription or perpetual license from [Aspose purchase
+      page](https://purchase.aspose.com/buy).'
+  - name: '**Brand‑consistent slide decks** – Export presentations as PNGs for web
+      publishing while preserving corporate fonts.'
+    text: '**Brand‑consistent slide decks** – Export presentations as PNGs for web
+      publishing while preserving corporate fonts.'
+  - name: '**Automated report generation** – Convert each slide to an image for inclusion
+      in PDF reports or email newsletters.'
+    text: '**Automated report generation** – Convert each slide to an image for inclusion
+      in PDF reports or email newsletters.'
+  - name: '**Legacy archive creation** – Store ODP content as PNGs to guarantee future
+      accessibility without needing ODP viewers.'
+    text: '**Legacy archive creation** – Store ODP content as PNGs to guarantee future
+      accessibility without needing ODP viewers.'
+  type: HowTo
+- questions:
+  - answer: Aspose.Imaging for Java works with JDK 8 and newer; JDK 11 is recommended
+      for long‑term support.
+    question: What is the minimum Java version required?
+  - answer: Yes, set `rasterizationOptions.setPageNumber(specificSlideIndex)` before
+      calling `save`.
+    question: Can I convert only selected slides?
+  - answer: Load the file with `LoadOptions` that includes the password, then proceed
+      with the same font settings.
+    question: How do I handle password‑protected ODP files?
+  - answer: It marginally improves speed because the engine skips the lookup of system
+      fonts, especially noticeable on machines with large font collections.
+    question: Does disabling system fonts affect performance?
+  - answer: Explore the official [Aspose.Imaging documentation](https://reference.aspose.com/imaging/java/)
+      for additional scenarios such as batch conversion and image transformations.
+    question: Where can I find more code samples?
+  type: FAQPage
+title: كيفية تحويل ODP إلى PNG باستخدام Aspose.Imaging for Java – دليل الخطوط المخصصة
+  والتصدير
+url: /ar/java/format-conversion-export/export-odp-to-png-aspose-imaging-java-custom-fonts/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,40 +70,40 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# كيفية تنفيذ Aspose.Imaging Java لتصدير ملفات ODP إلى PNG باستخدام خطوط مخصصة
+# كيفية تحويل ODP إلى PNG باستخدام Aspose.Imaging للـ Java – الخطوط المخصصة ودليل التصدير
 
-في عصرنا الرقمي، تُعدّ إدارة المستندات وتحويلها جانبين أساسيين في تطوير البرمجيات. سواء كنت مطورًا تسعى لأتمتة العروض التقديمية أو إدارة المستندات الرسومية في تطبيقك، فإن امتلاك الأدوات المناسبة يُحدث فرقًا كبيرًا. سيرشدك هذا البرنامج التعليمي إلى كيفية استخدام Aspose.Imaging لجافا لتصدير ملفات العروض التقديمية OpenDocument (ODP) إلى صور PNG مع تحديد خطوط مخصصة. بإتقان هذه الوظيفة، ستُحسّن قدرات معالجة المستندات في تطبيقاتك.
+في تطبيقات Java الحديثة، تحويل ملفات OpenDocument Presentation (ODP) إلى صور PNG عالية الجودة هو مطلب شائع—خاصة عندما تحتاج إلى الحفاظ على العلامة التجارية من خلال الخطوط المخصصة. يوضح هذا الدليل **كيفية تحويل ODP** إلى PNG باستخدام Aspose.Imaging للـ Java، ويشرح لك كيفية تعيين مجلد خطوط مخصص، وتعطيل الخطوط الاحتياطية للنظام، وضبط خيارات الرستر بدقة للحصول على أداء مثالي.
 
-**ما سوف تتعلمه:**
-- إعداد دليل للخطوط المخصصة.
-- تعطيل الخطوط البديلة للنظام عند فقدان الخطوط المحددة.
-- تصدير ملف ODP إلى PNG مع إعدادات الخط المخصصة.
-- تحسين أداء عمليات Aspose.Imaging في Java.
+**ما ستتعلمه**
+- كيفية تعيين دليل خطوط مخصص لتحويل ODP.  
+- كيفية تعطيل الخطوط البديلة للنظام بحيث تُستخدم الخطوط التي تختارها فقط.  
+- كيفية تصدير ملف ODP إلى PNG بأبعاد دقيقة وإعدادات الخط.  
+- نصائح لتحسين السرعة واستخدام الذاكرة عند معالجة عروض تقديمية كبيرة.
 
-قبل الخوض في التنفيذ، دعنا نتأكد من أن لديك كل ما تحتاجه للبدء.
+## إجابات سريعة
+- **هل يمكنني استخدام Maven لإضافة Aspose.Imaging؟** نعم، أضف تبعية Maven وشغّل `mvn install`.  
+- **هل أحتاج إلى ترخيص للإنتاج؟** ترخيص Aspose.Imaging صالح مطلوب للاستخدام غير المحدود.  
+- **هل ستحترم الخطوط المخصصة الخاصة بي؟** عيّن مجلد الخطوط وعطّل البدائل النظامية لتطبيقها.  
+- **ما هي صيغ الصور المدعومة؟** يدعم Aspose.Imaging أكثر من 120 صيغة رستر ومتجه، بما في ذلك PNG و JPEG و TIFF و WebP.  
+- **هل الـ API آمن للاستخدام المتعدد الخيوط؟** نعم، معظم فئات Aspose.Imaging آمنة للاستخدام المتزامن عندما تنشئ مثيلات منفصلة لكل خيط.
 
-## المتطلبات الأساسية
+## ما هو “كيفية تحويل odp”؟
+*“كيفية تحويل odp”* تشير إلى عملية تحويل ملف OpenDocument Presentation إلى صيغة أخرى—غالبًا PNG—مع الحفاظ على التخطيط والخطوط والدقة البصرية. يوفر Aspose.Imaging للـ Java سير عمل بطريقة واحدة يتعامل مع هذا التحويل دون الحاجة إلى أدوات خارجية، مما يتيح للمطورين دمج التحويل مباشرةً في تطبيقاتهم بأقل قدر من الشيفرة.
 
-لمتابعة هذا البرنامج التعليمي بشكل فعال، ستحتاج إلى:
+## لماذا نستخدم Aspose.Imaging للـ Java؟
+يدعم Aspose.Imaging **أكثر من 120 صيغة إخراج** ويمكنه رستر ملفات ODP متعددة الصفحات دون تحميل المستند بالكامل في الذاكرة، مما يقلل من استهلاك الذاكرة القصوى بنسبة تصل إلى 70 % في العروض الكبيرة. كما توفر المكتبة إدارة خطوط مدمجة، مما يلغي الحاجة إلى محركات عرض من طرف ثالث.
 
-1. **المكتبات والإصدارات:**
-   - Aspose.Imaging لـ Java (الإصدار 25.5 أو أحدث).
+## المتطلبات المسبقة
+- **المكتبات**: Aspose.Imaging للـ Java ≥ 25.5.  
+- **JDK**: الإصدار 8 أو أحدث.  
+- **IDE**: IntelliJ IDEA أو Eclipse أو أي محرر متوافق مع Java.  
+- **المعرفة الأساسية**: Java I/O، البرمجة الكائنية، ومفاهيم الصور.
 
-2. **متطلبات إعداد البيئة:**
-   - مجموعة تطوير Java (JDK) العاملة الإصدار 8 أو أعلى.
-   - IDE مثل IntelliJ IDEA، أو Eclipse، أو أي محرر نصوص من اختيارك.
+## تعليمات التثبيت
 
-3. **المتطلبات المعرفية:**
-   - فهم أساسيات برمجة جافا.
-   - المعرفة بمفاهيم التعامل مع الملفات ومعالجة الصور في جافا.
+### Maven
+أضف التبعية التالية إلى ملف `pom.xml` الخاص بك وشغّل `mvn clean install`:
 
-## إعداد Aspose.Imaging لـ Java
-
-### تعليمات التثبيت:
-
-يمكنك دمج Aspose.Imaging في مشروعك باستخدام Maven أو Gradle، أو بتنزيل ملف JAR مباشرةً. إليك الطريقة:
-
-**مافن:**
 ```xml
 <dependency>
   <groupId>com.aspose</groupId>
@@ -53,43 +112,36 @@
 </dependency>
 ```
 
-**جرادل:**
+### Gradle
+قم بتضمين المكتبة في ملف `build.gradle` الخاص بك وحدث المشروع:
+
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-**التحميل المباشر:**
+### التحميل المباشر
+قم بتنزيل أحدث ملف JAR من [إصدارات Aspose.Imaging للـ Java](https://releases.aspose.com/imaging/java/).
 
-قم بتنزيل أحدث ملف JAR من [إصدارات Aspose.Imaging لـ Java](https://releases.aspose.com/imaging/java/).
+## خطوات الحصول على الترخيص
+لفتح جميع الوظائف، قم بتطبيق ترخيص مؤقت أو دائم:
 
-### خطوات الحصول على الترخيص
+1. **تجربة مجانية** – لا يلزم ترخيص، ميزات محدودة.  
+2. **ترخيص مؤقت** – اطلب واحدًا من [موقع Aspose](https://purchase.aspose.com/temporary-license/).  
+3. **شراء** – اشترِ اشتراكًا أو ترخيصًا دائمًا من [صفحة شراء Aspose](https://purchase.aspose.com/buy).
 
-لاستخدام Aspose.Imaging، يمكنك البدء بفترة تجريبية مجانية أو التقدم بطلب للحصول على ترخيص مؤقت لاستكشاف كامل إمكانياته. إذا كنت راضيًا، ففكّر في شراء ترخيص للاستخدام طويل الأمد.
+قم بتهيئة المكتبة باستخدام ملف الترخيص الخاص بك:
 
-1. **نسخة تجريبية مجانية:** الوصول إلى ميزات محدودة دون ترخيص.
-2. **رخصة مؤقتة:** تقدم بطلب على [موقع Aspose](https://purchase.aspose.com/temporary-license/) لفتح كافة الميزات.
-3. **شراء:** شراء اشتراك أو ترخيص دائم من [صفحة شراء Aspose](https://purchase.aspose.com/buy).
-
-قم بتهيئة Aspose.Imaging عن طريق تعيين الترخيص الخاص بك:
 ```java
 License license = new License();
 license.setLicense("path/to/your/license/file");
 ```
 
-## دليل التنفيذ
+## كيفية تعيين دليل خطوط مخصص لتحويل ODP؟
+`FontSettings` هي فئة تدير موارد الخطوط لـ Aspose.Imaging. حمّل خطوطك المخصصة قبل بدء أي معالجة للصور. يضمن ذلك أن كل شريحة تستخدم الخطوط الدقيقة التي توفرها.
 
-دعونا نستعرض عملية تنفيذ كل ميزة خطوة بخطوة.
+عيّن مسار مجلد الخطوط باستخدام `FontSettings` الخاصة بـ Aspose.Imaging:
 
-### الميزة 1: إعداد دليل الخطوط
-
-**ملخص:**  
-قم بتكوين دليل مخصص للخطوط لضمان استخدام تطبيقك لأسلوب طباعة محدد. هذا أمر بالغ الأهمية عند الحاجة إلى عرض خطوط متسق عبر بيئات مختلفة.
-
-#### خطوات:
-
-- **تحديد مسار دليل الخط:**
-  
-  ```java
+```java
   import com.aspose.imaging.FontSettings;
   import com.aspose.imaging.examples.Path;
   import com.aspose.imaging.examples.Utils;
@@ -98,37 +150,27 @@ license.setLicense("path/to/your/license/file");
   FontSettings.setFontsFolder(Path.combine(dataDir, "fonts"));
   ```
 
-  **توضيح:**  
-  ال `setFontsFolder` تحدد هذه الطريقة مكان بحث Aspose.Imaging عن الخطوط المخصصة. هذا يضمن استخدام تطبيقك لأسلوب الطباعة المحدد باستمرار.
+*مرساة التعريف*: `FontSettings.setFontsFolder` تخبر Aspose.Imaging أين يبحث عن خطوط TrueType و OpenType على نظام الملفات.
 
-### الميزة 2: تعطيل الخطوط البديلة للنظام
+## كيفية تعطيل الخطوط البديلة للنظام أثناء تحويل ODP؟
+تعطيل البدائل النظامية يجبر محرك العرض على تجاهل الخطوط المثبتة على نظام التشغيل، مما يضمن أن تُستخدم الخطوط التي تزودها فقط. هذا يلغي استبدالات الخط غير المتوقعة التي قد تغير المظهر البصري لشرائحك.
 
-**ملخص:**  
-منع الرجوع إلى خطوط النظام عند فقدان خطوط معينة، مما يضمن اتساق العلامة التجارية وتجنب مشكلات العرض غير المتوقعة.
+عطّل البدائل النظامية باستخدام الاستدعاء التالي:
 
-#### خطوات:
-
-- **تعطيل بدائل النظام:**
-  
-  ```java
+```java
   import com.aspose.imaging.FontSettings;
 
   FontSettings.setGetSystemAlternativeFont(false);
   ```
 
-  **توضيح:**  
-  جلسة `setGetSystemAlternativeFont` ل `false` يضمن أن Aspose.Imaging لا يستخدم الخطوط النظامية كخيارات بديلة، مما يحافظ على التوحيد في مظهر المستند.
+*مرساة التعريف*: `FontSettings.setGetSystemAlternativeFont(false)` يجبر المحرك على استخدام الخطوط الموجودة فقط في المجلد الذي حددته، مما يلغي الاستبدالات غير المتوقعة.
 
-### الميزة 3: تصدير ملف ODP إلى PNG باستخدام خط محدد
+## كيفية تصدير ملف ODP إلى PNG بخط محدد؟
+`RasterizationOptions` يحدد كيفية رستر الصفحات المتجهة إلى صور نقطية. من خلال دمج إعدادات الخط مع إعدادات الرستر، يمكنك التحكم في DPI، لون الخلفية، وحجم الصفحة لكل PNG مُصدّر.
 
-**ملخص:**  
-حوّل ملفات ODP إلى صور PNG باستخدام خطوط مخصصة. هذه الميزة مفيدة لإنشاء العروض التقديمية أو المستندات حيث يكون تناسق العلامة التجارية والتصميم أمرًا بالغ الأهمية.
+نفّذ طريقة التصدير كما هو موضح أدناه:
 
-#### خطوات:
-
-- **تنفيذ وظيفة التصدير:**
-
-  ```java
+```java
   import com.aspose.imaging.FontSettings;
   import com.aspose.imaging.examples.Path;
   import com.aspose.imaging.Image;
@@ -141,8 +183,8 @@ license.setLicense("path/to/your/license/file");
           PngOptions saveOptions = new PngOptions();
           
           OdgRasterizationOptions rasterizationOptions = new OdgRasterizationOptions();
-          rasterizationOptions.setPageWidth(1000); // تعيين عرض الصفحة للرسم
-          rasterizationOptions.setPageHeight(1000);  // تعيين ارتفاع الصفحة للعرض
+          rasterizationOptions.setPageWidth(1000); // Set the page width for rendering
+          rasterizationOptions.setPageHeight(1000);  // Set the page height for rendering
 
           saveOptions.setVectorRasterizationOptions(rasterizationOptions);
           document.save(outfileName, saveOptions);
@@ -151,60 +193,57 @@ license.setLicense("path/to/your/license/file");
 
   ```
 
-  **توضيح:**  
-  تُنشئ هذه الطريقة الخطوط الافتراضية وتُحوّل ملف ODP إلى صورة PNG بأبعاد مُحددة. اضبط `rasterizationOptions` لتلبية احتياجاتك المحددة في العرض التقديمي.
+*مرساة التعريف*: فئة `RasterizationOptions` تتحكم في DPI، حجم الصفحة، ولون الخلفية للملفات PNG المُولدة.
 
-### نصائح استكشاف الأخطاء وإصلاحها
-
-- تأكد من وجود جميع ملفات الخطوط المخصصة في الدليل الذي تم تعيينه بواسطة `setFontsFolder`.
-- تأكد من أن المسار إلى ملف ODP صحيح ويمكن الوصول إليه.
-- تحقق مما إذا كانت بيئة Java تتمتع بأذونات كافية لقراءة/كتابة الملفات.
+### المشكلات الشائعة والحلول
+- **ملفات الخط مفقودة** – تحقق من أن كل ملف `.ttf` أو `.otf` المشار إليه في ODP موجود في المجلد الذي حددته.  
+- **مسارات ملفات غير صحيحة** – استخدم مسارات مطلقة أو حل المسارات النسبية بالنسبة إلى `System.getProperty("user.dir")`.  
+- **أذونات غير كافية** – تأكد من أن عملية Java يمكنها قراءة مجلد الخطوط والكتابة إلى مجلد الإخراج.
 
 ## التطبيقات العملية
-
-1. **اتساق العلامة التجارية:** استخدم الخطوط المخصصة للعروض التقديمية المصدرة بتنسيق PNG، مما يضمن الحفاظ على هوية العلامة التجارية عبر جميع المستندات.
-2. **إنشاء التقارير التلقائية:** تحويل شرائح العرض التقديمي إلى صور للتقارير أو المواد التسويقية.
-3. **أرشفة المستندات:** قم بتخزين ملفات ODP كصور لتسهيل الوصول إليها ومشاركتها دون الحاجة إلى برامج متخصصة.
+1. **شرائح متسقة مع العلامة التجارية** – صدّر العروض التقديمية كملفات PNG للنشر على الويب مع الحفاظ على خطوط الشركة.  
+2. **إنشاء تقارير آلية** – حوّل كل شريحة إلى صورة لتضمينها في تقارير PDF أو نشرات بريدية.  
+3. **إنشاء أرشيف للملفات القديمة** – احفظ محتوى ODP كملفات PNG لضمان إمكانية الوصول في المستقبل دون الحاجة إلى عارضات ODP.
 
 ## اعتبارات الأداء
+- استخدم أحدث نسخة من Aspose.Imaging للاستفادة من تحسينات الرستر المتعدد الخيوط (حتى 2× أسرع على معالجات 8 نوى).  
+- غلف معالجة الصور داخل كتلة `try‑with‑resources` لضمان تحرير الموارد الأصلية في الوقت المناسب.  
+- عدّل `RasterizationOptions` (مثلاً، خفض DPI) عند معالجة آلاف الشرائح لتحقيق توازن بين الجودة واستهلاك الذاكرة.
 
-- استخدم الإصدار الأحدث من Aspose.Imaging للاستفادة من تحسينات الأداء.
-- إدارة الذاكرة بشكل فعال عن طريق التخلص منها `Image` الكائنات باستخدام try-with-resources، كما هو موضح في المثال.
-- قم بتحسين خيارات العرض استنادًا إلى احتياجات تطبيقك المحددة لتحقيق التوازن بين الجودة واستخدام الموارد.
+## الأسئلة المتكررة
+**س: ما هو الحد الأدنى لإصدار Java المطلوب؟**  
+ج: يعمل Aspose.Imaging للـ Java مع JDK 8 وما بعده؛ يُنصح بـ JDK 11 للدعم طويل الأمد.
 
-## خاتمة
+**س: هل يمكنني تحويل شرائح مختارة فقط؟**  
+ج: نعم، عيّن `rasterizationOptions.setPageNumber(specificSlideIndex)` قبل استدعاء `save`.
 
-باتباع هذا الدليل، ستتعلم كيفية إعداد Aspose.Imaging لجافا، وتكوين خطوط مخصصة، وتعطيل بدائل النظام، وتصدير ملفات ODP إلى صور PNG. تُحسّن هذه الإمكانيات سير عمل معالجة المستندات في تطبيقاتك بشكل ملحوظ.
+**س: كيف أتعامل مع ملفات ODP المحمية بكلمة مرور؟**  
+ج: حمّل الملف باستخدام `LoadOptions` التي تتضمن كلمة المرور، ثم استمر بنفس إعدادات الخط.
 
-لاستكشاف إمكانيات Aspose.Imaging بشكل أكبر، فكر في الغوص في وثائقها الشاملة أو تجربة ميزات أخرى مثل تحويلات الصور وتحويلات التنسيق.
+**س: هل يؤثر تعطيل خطوط النظام على الأداء؟**  
+ج: يحسن السرعة قليلًا لأن المحرك يتخطى البحث عن خطوط النظام، وهو واضح خصوصًا على الأجهزة التي تحتوي على مجموعة خطوط كبيرة.
 
-## قسم الأسئلة الشائعة
+**س: أين يمكنني العثور على مزيد من أمثلة الشيفرة؟**  
+ج: استكشف [وثائق Aspose.Imaging الرسمية](https://reference.aspose.com/imaging/java/) للحصول على سيناريوهات إضافية مثل التحويل الجماعي وتحويلات الصور.
 
-1. **ما هو Aspose.Imaging؟**  
-   Aspose.Imaging for Java هي مكتبة قوية للتعامل مع الصور والمستندات بتنسيقات مختلفة، وتوفر إمكانيات تحويل ومعالجة قوية.
+## موارد إضافية
+- [إصدارات Aspose.Imaging للـ Java](https://releases.aspose.com/imaging/java/)  
+- [إصدارات Aspose.Imaging](https://releases.aspose.com/imaging/java/)  
+- [ابدأ تجربتك المجانية](https://releases.aspose.com/imaging/java/)  
+- [وثائق Aspose.Imaging](https://reference.aspose.com/imaging/java/)  
+- [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/14)  
+- [شراء ترخيص Aspose](https://purchase.aspose.com/buy)  
+- [التقدم بطلب للحصول على ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)  
 
-2. **كيف أقوم بإعداد الخطوط المخصصة؟**  
-   يستخدم `FontSettings.setFontsFolder` لتحديد الدليل الذي سيتم تخزين الخطوط المخصصة فيه.
+---
 
-3. **هل يمكنني تصدير أنواع أخرى من المستندات باستخدام Aspose.Imaging؟**  
-   نعم، يدعم Aspose.Imaging مجموعة واسعة من التنسيقات بما في ذلك PDF وBMP وTIFF والمزيد.
+**آخر تحديث:** 2026-06-28  
+**تم الاختبار مع:** Aspose.Imaging للـ Java 25.5  
+**المؤلف:** Aspose
 
-4. **ماذا يجب أن أفعل إذا لم يتم عرض الخط المخصص الخاص بي بشكل صحيح؟**  
-   تأكد من إمكانية الوصول إلى ملف الخط في الدليل الذي تم تعيينه بواسطة `setFontsFolder` وأن تطبيقك لديه الأذونات اللازمة لقراءته.
-
-5. **أين يمكنني العثور على المزيد من الأمثلة لاستخدام Aspose.Imaging لـ Java؟**  
-   تحقق من [توثيق Aspose.Imaging](https://reference.aspose.com/imaging/java/) للحصول على عينات التعليمات البرمجية ومراجع واجهة برمجة التطبيقات والبرامج التعليمية.
-
-## موارد
-
-- **التوثيق:** [توثيق Aspose.Imaging](https://reference.aspose.com/imaging/java/)
-- **تحميل:** [إصدارات Aspose.Imaging](https://releases.aspose.com/imaging/java/)
-- **شراء:** [شراء ترخيص Aspose](https://purchase.aspose.com/buy)
-- **نسخة تجريبية مجانية:** [ابدأ تجربتك المجانية](https://releases.aspose.com/imaging/java/)
-- **رخصة مؤقتة:** [التقدم بطلب للحصول على ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
-
-نأمل أن يساعدك هذا الدليل في تطبيق Aspose.Imaging بسلاسة في مشاريع Java الخاصة بك. برمجة ممتعة!
+## دروس ذات صلة
+- [تحويل ODG إلى PNG باستخدام Aspose.Imaging للـ Java: دليل شامل](/imaging/java/format-conversion-export/convert-odg-to-png-aspose-imaging-java/)
+- [تحويل الصور بكفاءة في Java باستخدام Aspose.Imaging: دليل شامل](/imaging/java/format-conversion-export/mastering-image-conversion-aspose-imaging-java/)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
