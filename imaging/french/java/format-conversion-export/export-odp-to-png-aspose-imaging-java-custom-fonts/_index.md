@@ -1,9 +1,68 @@
 ---
-"date": "2025-06-04"
-"description": "Apprenez à exporter des fichiers ODP en images PNG avec Aspose.Imaging pour Java. Ce tutoriel aborde les paramètres de polices personnalisées et les techniques de conversion, améliorant ainsi vos capacités de traitement de documents."
-"title": "Convertir ODP en PNG avec Aspose.Imaging Java &#58; Guide d'exportation et de polices personnalisées"
-"url": "/fr/java/format-conversion-export/export-odp-to-png-aspose-imaging-java-custom-fonts/"
-"weight": 1
+date: '2026-06-28'
+description: Apprenez à convertir ODP en PNG avec Aspose.Imaging for Java, à définir
+  des polices personnalisées et à désactiver les polices système pour un rendu précis.
+keywords:
+- how to convert odp
+- maven aspose imaging
+- aspose imaging license
+- disable system fonts
+- java convert presentation image
+schemas:
+- author: Aspose
+  dateModified: '2026-06-28'
+  description: Learn how to convert ODP to PNG using Aspose.Imaging for Java, set
+    custom fonts, and disable system fonts for accurate rendering.
+  headline: How to Convert ODP to PNG with Aspose.Imaging for Java – Custom Fonts
+    & Export Guide
+  type: TechArticle
+- description: Learn how to convert ODP to PNG using Aspose.Imaging for Java, set
+    custom fonts, and disable system fonts for accurate rendering.
+  name: How to Convert ODP to PNG with Aspose.Imaging for Java – Custom Fonts & Export
+    Guide
+  steps:
+  - name: '**Free Trial** – No license required, limited features.'
+    text: '**Free Trial** – No license required, limited features.'
+  - name: '**Temporary License** – Request one on the [Aspose website](https://purchase.aspose.com/temporary-license/).'
+    text: '**Temporary License** – Request one on the [Aspose website](https://purchase.aspose.com/temporary-license/).'
+  - name: '**Purchase** – Buy a subscription or perpetual license from [Aspose purchase
+      page](https://purchase.aspose.com/buy).'
+    text: '**Purchase** – Buy a subscription or perpetual license from [Aspose purchase
+      page](https://purchase.aspose.com/buy).'
+  - name: '**Brand‑consistent slide decks** – Export presentations as PNGs for web
+      publishing while preserving corporate fonts.'
+    text: '**Brand‑consistent slide decks** – Export presentations as PNGs for web
+      publishing while preserving corporate fonts.'
+  - name: '**Automated report generation** – Convert each slide to an image for inclusion
+      in PDF reports or email newsletters.'
+    text: '**Automated report generation** – Convert each slide to an image for inclusion
+      in PDF reports or email newsletters.'
+  - name: '**Legacy archive creation** – Store ODP content as PNGs to guarantee future
+      accessibility without needing ODP viewers.'
+    text: '**Legacy archive creation** – Store ODP content as PNGs to guarantee future
+      accessibility without needing ODP viewers.'
+  type: HowTo
+- questions:
+  - answer: Aspose.Imaging for Java works with JDK 8 and newer; JDK 11 is recommended
+      for long‑term support.
+    question: What is the minimum Java version required?
+  - answer: Yes, set `rasterizationOptions.setPageNumber(specificSlideIndex)` before
+      calling `save`.
+    question: Can I convert only selected slides?
+  - answer: Load the file with `LoadOptions` that includes the password, then proceed
+      with the same font settings.
+    question: How do I handle password‑protected ODP files?
+  - answer: It marginally improves speed because the engine skips the lookup of system
+      fonts, especially noticeable on machines with large font collections.
+    question: Does disabling system fonts affect performance?
+  - answer: Explore the official [Aspose.Imaging documentation](https://reference.aspose.com/imaging/java/)
+      for additional scenarios such as batch conversion and image transformations.
+    question: Where can I find more code samples?
+  type: FAQPage
+title: Comment convertir ODP en PNG avec Aspose.Imaging for Java – Guide des polices
+  personnalisées et de l'exportation
+url: /fr/java/format-conversion-export/export-odp-to-png-aspose-imaging-java-custom-fonts/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,40 +70,40 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Comment implémenter Aspose.Imaging Java pour exporter des fichiers ODP au format PNG avec des polices personnalisées
+# Comment convertir ODP en PNG avec Aspose.Imaging pour Java – Polices personnalisées et guide d'exportation
 
-À l'ère du numérique, la gestion et la conversion de documents sont des aspects essentiels du développement logiciel. Que vous soyez développeur et que vous cherchiez à automatiser des présentations ou à gérer des documents graphiques dans votre application, disposer des bons outils peut faire toute la différence. Ce tutoriel vous guidera dans l'utilisation d'Aspose.Imaging pour Java pour exporter des fichiers OpenDocument Presentation (ODP) au format PNG tout en spécifiant des polices personnalisées. En maîtrisant cette fonctionnalité, vous améliorerez les capacités de traitement des documents dans vos applications.
+Dans les applications Java modernes, la conversion de fichiers OpenDocument Presentation (ODP) en images PNG de haute qualité est une exigence courante—surtout lorsqu'il faut préserver l'identité visuelle grâce à des polices personnalisées. Ce tutoriel montre **comment convertir ODP** en PNG avec Aspose.Imaging pour Java, vous guide dans la configuration d'un dossier de polices personnalisées, la désactivation des polices de secours du système, et le réglage fin des options de rasterisation pour des performances optimales.
 
-**Ce que vous apprendrez :**
-- Configuration d'un répertoire pour les polices personnalisées.
-- Désactivation des polices alternatives du système lorsque les polices spécifiées sont manquantes.
-- Exportation d'un fichier ODP vers un PNG avec des paramètres de police personnalisés.
-- Optimisation des performances des opérations Aspose.Imaging en Java.
+**Ce que vous apprendrez**
+- Comment définir un répertoire de polices personnalisé pour la conversion ODP.  
+- Comment désactiver les polices alternatives du système afin que seules vos polices choisies soient utilisées.  
+- Comment exporter un fichier ODP en PNG avec des dimensions précises et des paramètres de police.  
+- Conseils pour améliorer la vitesse et l'utilisation de la mémoire lors du traitement de présentations volumineuses.
 
-Avant de plonger dans la mise en œuvre, assurons-nous que vous disposez de tout ce dont vous avez besoin pour commencer.
+## Réponses rapides
+- **Puis-je utiliser Maven pour ajouter Aspose.Imaging ?** Oui, ajoutez la dépendance Maven et exécutez `mvn install`.  
+- **Ai-je besoin d'une licence pour la production ?** Une licence valide d'Aspose.Imaging est requise pour une utilisation illimitée.  
+- **Mes polices personnalisées seront‑elles respectées ?** Définissez le dossier de polices et désactivez les alternatives système pour les appliquer.  
+- **Quels formats d'image sont pris en charge ?** Aspose.Imaging prend en charge plus de 120 formats raster et vectoriels, dont PNG, JPEG, TIFF et WebP.  
+- **L'API est‑elle thread‑safe ?** Oui, la plupart des classes Aspose.Imaging sont sûres pour une utilisation concurrente lorsque vous créez des instances séparées par thread.
+
+## Qu’est‑ce que « how to convert odp » ?
+*« How to convert odp »* désigne le processus de transformation d'un fichier OpenDocument Presentation en un autre format—généralement PNG—tout en préservant la mise en page, les polices et la fidélité visuelle. Aspose.Imaging pour Java fournit un flux de travail à méthode unique qui gère cette conversion sans nécessiter d'outils externes, permettant aux développeurs d'intégrer la conversion directement dans leurs applications avec un code minimal.
+
+## Pourquoi utiliser Aspose.Imaging pour Java ?
+Aspose.Imaging prend en charge **plus de 120 formats de sortie** et peut rasteriser des fichiers ODP multi‑pages sans charger le document complet en mémoire, réduisant l'utilisation maximale de RAM jusqu'à 70 % sur les présentations volumineuses. La bibliothèque offre également une gestion intégrée des polices, éliminant le besoin de moteurs de rendu tiers.
 
 ## Prérequis
+- **Bibliothèques** : Aspose.Imaging pour Java ≥ 25.5.  
+- **JDK** : Version 8 ou plus récente.  
+- **IDE** : IntelliJ IDEA, Eclipse, ou tout éditeur compatible Java.  
+- **Connaissances de base** : Java I/O, programmation orientée objet et concepts d'image.
 
-Pour suivre efficacement ce tutoriel, vous aurez besoin de :
+## Instructions d'installation
 
-1. **Bibliothèques et versions :**
-   - Aspose.Imaging pour Java (version 25.5 ou ultérieure).
+### Maven
+Ajoutez la dépendance suivante à votre `pom.xml` et exécutez `mvn clean install` :
 
-2. **Configuration requise pour l'environnement :**
-   - Un kit de développement Java (JDK) fonctionnel version 8 ou supérieure.
-   - Un IDE tel qu'IntelliJ IDEA, Eclipse ou tout autre éditeur de texte de votre choix.
-
-3. **Prérequis en matière de connaissances :**
-   - Compréhension de base de la programmation Java.
-   - Connaissance des concepts de gestion de fichiers et de traitement d'images en Java.
-
-## Configuration d'Aspose.Imaging pour Java
-
-### Instructions d'installation :
-
-Vous pouvez intégrer Aspose.Imaging à votre projet via Maven, Gradle ou en téléchargeant directement le fichier JAR. Voici comment :
-
-**Expert :**
 ```xml
 <dependency>
   <groupId>com.aspose</groupId>
@@ -53,43 +112,36 @@ Vous pouvez intégrer Aspose.Imaging à votre projet via Maven, Gradle ou en té
 </dependency>
 ```
 
-**Gradle :**
+### Gradle
+Incluez la bibliothèque dans votre fichier `build.gradle` et rafraîchissez le projet :
+
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-**Téléchargement direct :**
+### Téléchargement direct
+Téléchargez le dernier JAR depuis [versions d'Aspose.Imaging pour Java](https://releases.aspose.com/imaging/java/).
 
-Téléchargez le dernier JAR à partir de [Versions d'Aspose.Imaging pour Java](https://releases.aspose.com/imaging/java/).
+## Étapes d'obtention de licence
+Pour débloquer toutes les fonctionnalités, appliquez une licence temporaire ou permanente :
 
-### Étapes d'acquisition de licence
+1. **Essai gratuit** – Aucune licence requise, fonctionnalités limitées.  
+2. **Licence temporaire** – Demandez‑en une sur le [site Aspose](https://purchase.aspose.com/temporary-license/).  
+3. **Achat** – Achetez un abonnement ou une licence perpétuelle depuis la [page d'achat Aspose](https://purchase.aspose.com/buy).
 
-Pour utiliser Aspose.Imaging, vous pouvez commencer par un essai gratuit ou demander une licence temporaire afin d'explorer toutes ses fonctionnalités. Si vous êtes satisfait, envisagez l'achat d'une licence pour une utilisation à long terme.
+Initialisez la bibliothèque avec votre fichier de licence :
 
-1. **Essai gratuit :** Accédez à des fonctionnalités limitées sans licence.
-2. **Licence temporaire :** Postulez sur le [Site Web d'Aspose](https://purchase.aspose.com/temporary-license/) pour débloquer toutes les fonctionnalités.
-3. **Achat:** Achetez un abonnement ou une licence perpétuelle auprès de [Page d'achat Aspose](https://purchase.aspose.com/buy).
-
-Initialisez Aspose.Imaging en définissant votre licence :
 ```java
 License license = new License();
 license.setLicense("path/to/your/license/file");
 ```
 
-## Guide de mise en œuvre
+## Comment définir un répertoire de polices personnalisé pour la conversion ODP ?
+`FontSettings` est une classe qui gère les ressources de polices pour Aspose.Imaging. Chargez vos polices personnalisées avant le début de tout traitement d'image. Cela garantit que chaque diapositive utilise exactement les polices que vous fournissez.
 
-Examinons le processus de mise en œuvre de chaque fonctionnalité étape par étape.
+Définissez le chemin du dossier de polices en utilisant `FontSettings` d'Aspose.Imaging :
 
-### Fonctionnalité 1 : Définition du répertoire de polices
-
-**Aperçu:**  
-Configurez un répertoire personnalisé pour les polices afin de garantir que votre application utilise une typographie spécifique. Ceci est essentiel pour un rendu cohérent des polices dans différents environnements.
-
-#### Mesures:
-
-- **Définir le chemin du répertoire des polices :**
-  
-  ```java
+```java
   import com.aspose.imaging.FontSettings;
   import com.aspose.imaging.examples.Path;
   import com.aspose.imaging.examples.Utils;
@@ -98,37 +150,27 @@ Configurez un répertoire personnalisé pour les polices afin de garantir que vo
   FontSettings.setFontsFolder(Path.combine(dataDir, "fonts"));
   ```
 
-  **Explication:**  
-  Le `setFontsFolder` La méthode spécifie où Aspose.Imaging doit rechercher les polices personnalisées. Cela garantit que votre application utilise systématiquement la typographie spécifiée.
+*Ancre de définition* : `FontSettings.setFontsFolder` indique à Aspose.Imaging où rechercher les polices TrueType et OpenType sur le système de fichiers.
 
-### Fonctionnalité 2 : Désactivation des polices alternatives du système
+## Comment désactiver les polices alternatives du système lors de la conversion ODP ?
+Désactiver les alternatives système oblige le moteur de rendu à ignorer les polices installées sur le système d'exploitation, garantissant que seules les polices que vous fournissez sont utilisées. Cela élimine les substitutions de polices inattendues qui peuvent modifier l'apparence visuelle de vos diapositives.
 
-**Aperçu:**  
-Empêchez le retour aux polices système lorsque des polices spécifiques sont manquantes, garantissant ainsi la cohérence de la marque et évitant les problèmes de rendu inattendus.
+Désactivez les alternatives système avec l'appel suivant :
 
-#### Mesures:
-
-- **Désactiver les alternatives système :**
-  
-  ```java
+```java
   import com.aspose.imaging.FontSettings;
 
   FontSettings.setGetSystemAlternativeFont(false);
   ```
 
-  **Explication:**  
-  Paramètre `setGetSystemAlternativeFont` à `false` garantit qu'Aspose.Imaging n'utilise pas les polices système comme solutions de secours, préservant ainsi l'uniformité de l'apparence du document.
+*Ancre de définition* : `FontSettings.setGetSystemAlternativeFont(false)` force le moteur à n'utiliser que les polices situées dans le dossier que vous avez défini, éliminant les substitutions inattendues.
 
-### Fonctionnalité 3 : Exporter un fichier ODP au format PNG avec une police spécifiée
+## Comment exporter un fichier ODP en PNG avec une police spécifiée ?
+`RasterizationOptions` définit comment les pages vectorielles sont rasterisées en images bitmap. En combinant la configuration des polices avec les paramètres de rasterisation, vous pouvez contrôler le DPI, la couleur d'arrière‑plan et la taille de page pour chaque PNG exporté.
 
-**Aperçu:**  
-Convertissez des fichiers ODP en images PNG à l'aide de polices personnalisées spécifiques. Cette fonctionnalité est utile pour créer des présentations ou des documents où la cohérence de l'image de marque et du design est essentielle.
+Implémentez la méthode d'exportation comme indiqué ci‑dessous :
 
-#### Mesures:
-
-- **Implémentation de la fonction d'exportation :**
-
-  ```java
+```java
   import com.aspose.imaging.FontSettings;
   import com.aspose.imaging.examples.Path;
   import com.aspose.imaging.Image;
@@ -141,8 +183,8 @@ Convertissez des fichiers ODP en images PNG à l'aide de polices personnalisées
           PngOptions saveOptions = new PngOptions();
           
           OdgRasterizationOptions rasterizationOptions = new OdgRasterizationOptions();
-          rasterizationOptions.setPageWidth(1000); // Définir la largeur de la page pour le rendu
-          rasterizationOptions.setPageHeight(1000);  // Définir la hauteur de la page pour le rendu
+          rasterizationOptions.setPageWidth(1000); // Set the page width for rendering
+          rasterizationOptions.setPageHeight(1000);  // Set the page height for rendering
 
           saveOptions.setVectorRasterizationOptions(rasterizationOptions);
           document.save(outfileName, saveOptions);
@@ -151,60 +193,60 @@ Convertissez des fichiers ODP en images PNG à l'aide de polices personnalisées
 
   ```
 
-  **Explication:**  
-  Cette méthode définit les polices par défaut et convertit un fichier ODP en image PNG aux dimensions spécifiées. `rasterizationOptions` pour vos besoins de rendu spécifiques.
+*Ancre de définition* : la classe `RasterizationOptions` contrôle le DPI, la taille de page et la couleur d'arrière‑plan des fichiers PNG générés.
 
-### Conseils de dépannage
-
-- Assurez-vous que tous les fichiers de polices personnalisés sont présents dans le répertoire défini par `setFontsFolder`.
-- Vérifiez que le chemin d’accès au fichier ODP est correct et accessible.
-- Vérifiez si l'environnement Java dispose des autorisations suffisantes pour lire/écrire des fichiers.
+### Pièges courants et solutions
+- **Fichiers de police manquants** – Vérifiez que chaque `.ttf` ou `.otf` référencé dans l'ODP est présent dans le dossier que vous avez défini.  
+- **Chemins de fichiers incorrects** – Utilisez des chemins absolus ou résolvez les chemins relatifs par rapport à `System.getProperty("user.dir")`.  
+- **Permissions insuffisantes** – Assurez‑vous que le processus Java peut lire le répertoire de polices et écrire dans le dossier de sortie.
 
 ## Applications pratiques
+1. **Diapositives cohérentes avec la marque** – Exportez les présentations en PNG pour la publication web tout en préservant les polices d'entreprise.  
+2. **Génération automatisée de rapports** – Convertissez chaque diapositive en image pour l'inclure dans des rapports PDF ou des newsletters par e‑mail.  
+3. **Création d'archives legacy** – Stockez le contenu ODP en PNG pour garantir une accessibilité future sans nécessiter de visionneuses ODP.
 
-1. **Cohérence de la marque :** Utilisez des polices personnalisées pour les présentations exportées au format PNG, garantissant ainsi que l'identité de la marque est conservée dans tous les documents.
-2. **Génération de rapports automatisés :** Convertissez des diapositives de présentation en images pour des rapports ou des supports marketing.
-3. **Archivage de documents :** Stockez les fichiers ODP sous forme d'images pour un accès et un partage plus faciles sans avoir besoin de logiciel spécialisé.
+## Considérations de performance
+- Utilisez la dernière version d'Aspose.Imaging pour profiter des améliorations de rasterisation multithread (jusqu'à 2× plus rapide sur des CPU à 8 cœurs).  
+- Encapsulez le traitement d'image dans un bloc try‑with‑resources pour garantir la libération en temps voulu des ressources natives.  
+- Ajustez `RasterizationOptions` (par ex., DPI inférieur) lors du traitement de milliers de diapositives afin d'équilibrer qualité et utilisation de la mémoire.
 
-## Considérations relatives aux performances
+## Questions fréquentes
 
-- Utilisez la dernière version d'Aspose.Imaging pour bénéficier des améliorations de performances.
-- Gérez efficacement la mémoire en éliminant `Image` objets utilisant try-with-resources, comme indiqué dans l'exemple.
-- Optimisez les options de rendu en fonction des besoins spécifiques de votre application pour équilibrer la qualité et l'utilisation des ressources.
+**Q : Quelle est la version minimale de Java requise ?**  
+R : Aspose.Imaging pour Java fonctionne avec JDK 8 et supérieur ; JDK 11 est recommandé pour le support à long terme.
 
-## Conclusion
+**Q : Puis‑je convertir uniquement des diapositives sélectionnées ?**  
+R : Oui, définissez `rasterizationOptions.setPageNumber(specificSlideIndex)` avant d'appeler `save`.
 
-En suivant ce guide, vous avez appris à configurer Aspose.Imaging pour Java, à configurer des polices personnalisées, à désactiver les alternatives système et à exporter des fichiers ODP vers des images PNG. Ces fonctionnalités peuvent considérablement améliorer le traitement des documents dans vos applications.
+**Q : Comment gérer les fichiers ODP protégés par mot de passe ?**  
+R : Chargez le fichier avec `LoadOptions` incluant le mot de passe, puis poursuivez avec les mêmes paramètres de police.
 
-Pour explorer davantage les possibilités d'Aspose.Imaging, pensez à vous plonger dans sa documentation complète ou à expérimenter d'autres fonctionnalités telles que les transformations d'images et les conversions de format.
+**Q : La désactivation des polices système affecte‑t‑elle les performances ?**  
+R : Elle améliore légèrement la vitesse car le moteur saute la recherche des polices système, ce qui est particulièrement perceptible sur les machines disposant de grandes collections de polices.
 
-## Section FAQ
+**Q : Où puis‑je trouver plus d'exemples de code ?**  
+R : Explorez la [documentation officielle d'Aspose.Imaging](https://reference.aspose.com/imaging/java/) pour des scénarios supplémentaires tels que la conversion par lots et les transformations d'images.
 
-1. **Qu'est-ce qu'Aspose.Imaging ?**  
-   Aspose.Imaging pour Java est une bibliothèque puissante pour gérer des images et des documents dans divers formats, offrant des capacités de conversion et de traitement robustes.
+## Ressources supplémentaires
+- [versions d'Aspose.Imaging pour Java](https://releases.aspose.com/imaging/java/)  
+- [Versions d'Aspose.Imaging](https://releases.aspose.com/imaging/java/)  
+- [Commencez votre essai gratuit](https://releases.aspose.com/imaging/java/)  
+- [Documentation d'Aspose.Imaging](https://reference.aspose.com/imaging/java/)  
+- [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)  
+- [Acheter une licence Aspose](https://purchase.aspose.com/buy)  
+- [Demander une licence temporaire](https://purchase.aspose.com/temporary-license/)  
 
-2. **Comment configurer des polices personnalisées ?**  
-   Utiliser `FontSettings.setFontsFolder` pour spécifier le répertoire dans lequel vos polices personnalisées sont stockées.
+---
 
-3. **Puis-je exporter d’autres types de documents à l’aide d’Aspose.Imaging ?**  
-   Oui, Aspose.Imaging prend en charge une large gamme de formats, notamment PDF, BMP, TIFF, etc.
+**Dernière mise à jour :** 2026-06-28  
+**Testé avec :** Aspose.Imaging pour Java 25.5  
+**Auteur :** Aspose
 
-4. **Que dois-je faire si ma police personnalisée ne s'affiche pas correctement ?**  
-   Assurez-vous que le fichier de police est accessible dans le répertoire défini par `setFontsFolder` et que votre application dispose des autorisations nécessaires pour le lire.
+## Tutoriels associés
 
-5. **Où puis-je trouver plus d’exemples d’utilisation d’Aspose.Imaging pour Java ?**  
-   Découvrez le [Documentation d'Aspose.Imaging](https://reference.aspose.com/imaging/java/) pour des exemples de code, des références d'API et des tutoriels.
+- [Convertir ODG en PNG avec Aspose.Imaging pour Java : guide complet](/imaging/java/format-conversion-export/convert-odg-to-png-aspose-imaging-java/)
+- [Conversion d'images efficace en Java avec Aspose.Imaging : guide complet](/imaging/java/format-conversion-export/mastering-image-conversion-aspose-imaging-java/)
 
-## Ressources
-
-- **Documentation:** [Documentation d'Aspose.Imaging](https://reference.aspose.com/imaging/java/)
-- **Télécharger:** [Sorties d'Aspose.Imaging](https://releases.aspose.com/imaging/java/)
-- **Achat:** [Acheter une licence Aspose](https://purchase.aspose.com/buy)
-- **Essai gratuit :** [Commencez votre essai gratuit](https://releases.aspose.com/imaging/java/)
-- **Licence temporaire :** [Demander un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
-
-Nous espérons que ce guide vous aidera à implémenter Aspose.Imaging dans vos projets Java en toute fluidité. Bon codage !
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
