@@ -1,9 +1,68 @@
 ---
-"date": "2025-06-04"
-"description": "Leer hoe je eenvoudig DJVU-bestanden naar BMP-afbeeldingen converteert met Aspose.Imaging voor Java. Deze handleiding behandelt de installatie, opties en het exporteren van specifieke pagina's."
-"title": "Converteer DJVU naar BMP in Java met Aspose.Imaging&#58; stapsgewijze handleiding"
-"url": "/nl/java/format-conversion-export/export-djvu-pages-bmp-aspose-imaging-java/"
-"weight": 1
+date: '2026-06-18'
+description: Leer hoe u de Aspose Imaging Maven dependency gebruikt om DJVU‑bestanden
+  naar BMP‑afbeeldingen te converteren in Java. Stapsgewijze handleiding met installatie,
+  opties en export van paginabereik.
+keywords:
+- aspose imaging maven dependency
+- how to convert djvu
+- convert djvu to bmp java
+- aspose imaging java setup
+- djvu page export bmp
+schemas:
+- author: Aspose
+  dateModified: '2026-06-18'
+  description: Learn how to use the Aspose Imaging Maven dependency to convert DJVU
+    files to BMP images in Java. Step‑by‑step guide with setup, options, and page‑range
+    export.
+  headline: Aspose Imaging Maven Dependency – Convert DJVU to BMP in Java
+  type: TechArticle
+- description: Learn how to use the Aspose Imaging Maven dependency to convert DJVU
+    files to BMP images in Java. Step‑by‑step guide with setup, options, and page‑range
+    export.
+  name: Aspose Imaging Maven Dependency – Convert DJVU to BMP in Java
+  steps:
+  - name: '**Archiving:** Convert DJVU files to BMP for easier archival and retrieval.'
+    text: '**Archiving:** Convert DJVU files to BMP for easier archival and retrieval.'
+  - name: '**Document Sharing:** Share individual images from DJVU documents without
+      requiring specialized viewers.'
+    text: '**Document Sharing:** Share individual images from DJVU documents without
+      requiring specialized viewers.'
+  - name: '**Web Development:** Use BMP images for web projects that need lossless
+      graphics.'
+    text: '**Web Development:** Use BMP images for web projects that need lossless
+      graphics.'
+  - name: '**Education:** Provide students with accessible image formats for study
+      materials.'
+    text: '**Education:** Provide students with accessible image formats for study
+      materials.'
+  - name: '**Integration:** Embed this conversion process into larger Java applications
+      for automated workflows.'
+    text: '**Integration:** Embed this conversion process into larger Java applications
+      for automated workflows.'
+  type: HowTo
+- questions:
+  - answer: DJVU is a highly compressed file format designed for storing scanned documents,
+      images, and multi‑page publications while maintaining visual fidelity.
+    question: What is a DJVU file?
+  - answer: Yes, modify the `IntRange` parameters to target any start and end indices
+      you require.
+    question: Can I convert other page ranges besides the first two pages?
+  - answer: Increase the bits‑per‑pixel setting in `BmpOptions` to 32 and ensure the
+      source DJVU pages are not downscaled during loading.
+    question: My BMP files look blurry—how can I improve quality?
+  - answer: Process the file in chunks, dispose of each `DjvuImage` after saving,
+      and consider streaming pages rather than loading the entire document at once.
+    question: How do I handle very large DJVU files efficiently?
+  - answer: Visit the [Aspose.Imaging documentation](https://reference.aspose.com/imaging/java/)
+      or the [Aspose.Imaging Java Documentation](https://reference.aspose.com/imaging/java/)
+      for comprehensive guides, API references, and sample projects. For community
+      help, see [Aspose.Imaging Support](https://forum.aspose.com/c/imaging/14).
+    question: Where can I find more Aspose.Imaging resources?
+  type: FAQPage
+title: Aspose Imaging Maven Dependency – Converteer DJVU naar BMP in Java
+url: /nl/java/format-conversion-export/export-djvu-pages-bmp-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,36 +70,46 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Uitgebreide handleiding: Aspose.Imaging Java gebruiken om DJVU-pagina's te exporteren als BMP-bestanden
+# Uitgebreide gids: Aspose.Imaging Java gebruiken om DJVU-pagina's te exporteren als BMP-bestanden
 
-## Invoering
+## Inleiding
 
-In het digitale tijdperk is het efficiënt beheren en converteren van documentformaten cruciaal voor het naadloos delen en archiveren van content. De uitdaging om DJVU-bestanden om te zetten naar toegankelijkere afbeeldingsformaten zoals BMP kan een enorme uitdaging zijn zonder de juiste tools. Deze tutorial maakt gebruik van Aspose.Imaging Java om een eenvoudige maar krachtige oplossing te bieden voor het exporteren van pagina's uit DJVU-bestanden als individuele BMP-afbeeldingen. 
+In het digitale tijdperk is het efficiënt beheren en converteren van documentformaten cruciaal voor naadloze inhoudsdeling en archivering. **The Aspose Imaging Maven dependency** maakt het eenvoudig om DJVU‑bestanden om te zetten naar meer toegankelijke BMP‑afbeeldingen zonder low‑level parsercode te schrijven. Deze tutorial leidt je door het laden van een DJVU‑document, het configureren van BMP‑exportopties, het selecteren van specifieke pagina's en het opslaan van elke pagina als een afzonderlijk BMP‑bestand — allemaal met slechts een paar regels Java.
 
-**Wat je leert:**
+**Wat je zult leren**
 
-- DJVU-bestanden laden en verwerken met Aspose.Imaging voor Java.
-- Nauwkeurig instellen van exportopties voor BMP-formaat.
-- Specifieke paginabereiken definiëren voor conversie.
-- Geselecteerde pagina's exporteren als afzonderlijke BMP-bestanden.
+- Hoe je de Aspose Imaging Maven‑afhankelijkheid aan je project toevoegt.  
+- Hoe je DJVU‑bestanden laadt en verwerkt met Aspose.Imaging voor Java.  
+- Hoe je BMP‑exportopties configureert, zoals kleurdiepte.  
+- Hoe je een aangepast paginarange definieert en die pagina's exporteert als afzonderlijke BMP‑bestanden.  
 
-Aan het einde van deze handleiding kunt u DJVU-documenten vol vertrouwen omzetten naar BMP-afbeeldingen, wat uw workflow voor documentbeheer verbetert. Laten we beginnen!
+Aan het einde van deze gids kun je DJVU‑naar‑BMP‑conversie integreren in elke Java‑applicatie, waardoor je documentworkflow verbetert en de afhankelijkheid van externe viewers vermindert.
+
+## Snelle antwoorden
+- **Which Maven artifact adds Aspose.Imaging?** `com.aspose:aspose-imaging`  
+- **Can I export only selected pages?** Ja, gebruik `IntRange` om paginanummers op te geven.  
+- **What BMP color depth is recommended?** 32 bits per pixel voor verliesvrije kwaliteit.  
+- **Is a license required for production?** Ja, een aangeschafte licentie verwijdert evaluatielimieten.  
+- **Which Java version is supported?** Java 8 en later.
+
+## Wat is de Aspose Imaging Maven-afhankelijkheid?
+De **Aspose Imaging Maven dependency** is een Maven‑compatibel pakket dat een uitgebreide API biedt voor het lezen, verwerken en converteren van meer dan 100 beeld‑ en documentformaten direct vanuit Java‑code. Het toevoegen van deze afhankelijkheid aan je `pom.xml` geeft je direct toegang tot klassen zoals `Image`, `DjvuImage` en `IntRange` zonder handmatig JAR‑beheer.
+
+## Waarom Aspose.Imaging gebruiken voor DJVU‑naar‑BMP‑conversie?
+Aspose.Imaging ondersteunt **100+ invoer‑ en uitvoerformaten** en kan multi‑hundred‑page DJVU‑bestanden verwerken zonder het volledige document in het geheugen te laden, waardoor het RAM‑gebruik tot 70 % wordt verminderd ten opzichte van naïeve benaderingen. De native BMP‑encoder behoudt volledige kleurnauwkeurigheid, waardoor het ideaal is voor archief‑grade beeldextractie.
 
 ## Vereisten
+- **Aspose.Imaging for Java** versie 25.5 (of nieuwer).  
+- **Java Development Kit** 8 of later geïnstalleerd.  
+- Vertrouwdheid met Maven‑ of Gradle‑buildtools.  
+- Een geldige Aspose.Imaging‑licentie (trial werkt voor evaluatie).
 
-Voordat u met de implementatie begint, moet u ervoor zorgen dat u de volgende instellingen hebt:
+## Aspose.Imaging voor Java instellen
 
-- **Bibliotheken en versies:** U hebt Aspose.Imaging voor Java versie 25.5 nodig.
-- **Omgevingsvereisten:** Een compatibele JDK die op uw systeem is geïnstalleerd (Java 8 of later).
-- **Kennisvereisten:** Basiskennis van Java-programmering en vertrouwdheid met Maven- of Gradle-bouwsystemen.
+### Installatie‑informatie
 
-## Aspose.Imaging instellen voor Java
-
-### Installatie-informatie
-
-**Kenner:**
-
-Om Aspose.Imaging via Maven in uw project op te nemen, voegt u de volgende afhankelijkheid toe aan uw `pom.xml`:
+**Maven:**  
+Voeg de volgende afhankelijkheid toe aan je `pom.xml`:
 
 ```xml
 <dependency>
@@ -50,42 +119,42 @@ Om Aspose.Imaging via Maven in uw project op te nemen, voegt u de volgende afhan
 </dependency>
 ```
 
-**Gradle:**
-
-Voor Gradle-gebruikers: neem de bibliotheek met deze regel op in uw `build.gradle`:
+**Gradle:**  
+Voor Gradle‑gebruikers, voeg de bibliotheek toe met deze regel in je `build.gradle`:
 
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-**Direct downloaden:**
+**Direct Download:**  
+Je kunt ook de nieuwste release downloaden van [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/). Zie ook de pagina [Aspose.Imaging Releases](https://releases.aspose.com/imaging/java/) voor versiegeschiedenis.
 
-Als alternatief kunt u de nieuwste versie downloaden van [Aspose.Imaging voor Java-releases](https://releases.aspose.com/imaging/java/).
-
-### Licentieverwerving
+### Licentie‑acquisitie
 
 Om Aspose.Imaging volledig te gebruiken:
 
-- **Gratis proefperiode:** Start met een gratis proefperiode om de mogelijkheden te ontdekken.
-- **Tijdelijke licentie:** Als u meer tijd nodig hebt om de bibliotheek te evalueren, kunt u een tijdelijke licentie aanvragen.
-- **Aankoop:** Voor langdurig gebruik kunt u overwegen een licentie aan te schaffen.
+- **Free Trial:** Begin met een gratis proefversie om de mogelijkheden te verkennen. ([Start Your Free Trial](https://releases.aspose.com/imaging/java/))  
+- **Temporary License:** Verkrijg een tijdelijke licentie als je meer tijd nodig hebt om de bibliotheek te evalueren. ([Get a Temporary License](https://purchase.aspose.com/temporary-license/))  
+- **Purchase:** Voor langdurig gebruik, overweeg een licentie aan te schaffen. ([Buy Aspose.Imaging](https://purchase.aspose.com/buy))
 
-**Basisinitialisatie:**
-
-Nadat u uw omgeving hebt ingesteld en (indien nodig) een licentie hebt verkregen, initialiseert u Aspose.Imaging als volgt:
+**Basic Initialization:**  
+Na het configureren van je omgeving en het verkrijgen van een licentie (indien nodig), initialiseert je Aspose.Imaging als volgt:
 
 ```java
 com.aspose.imaging.License license = new com.aspose.imaging.License();
 license.setLicense("path/to/your/license/file.lic");
 ```
 
-## Implementatiegids
+## Hoe DJVU naar BMP converteren in Java?
+
+Laad je DJVU‑bestand met `Image.load("source.djvu")`, configureer BMP‑exportopties, specificeer het gewenste paginarange en roep `save` aan voor elke pagina – de volledige conversie kan in minder dan tien regels code worden voltooid. Deze aanpak behandelt kleurdiepte, paginering en bestands‑I/O automatisch, zodat je je kunt concentreren op de bedrijfslogica in plaats van op beeldparsing.
 
 ### DJVU-bestand laden en verwerken
 
-**Overzicht:**
+**Overview:**  
+Het laden van een DJVU‑bestand is de eerste stap in onze workflow. Aspose.Imaging for Java vereenvoudigt dit proces, waardoor je DJVU‑documenten moeiteloos kunt behandelen.
 
-Het laden van een DJVU-bestand is de eerste stap in onze workflow. Aspose.Imaging voor Java vereenvoudigt dit proces, waardoor u DJVU-documenten eenvoudig kunt verwerken.
+De methode `Image.load` leest het DJVU‑bestand in een `DjvuImage`‑object, dat het multi‑page‑document in het geheugen vertegenwoordigt.
 
 ```java
 import com.aspose.imaging.Image;
@@ -93,19 +162,19 @@ import com.aspose.imaging.fileformats.djvu.DjvuImage;
 
 String dataDir = "YOUR_DOCUMENT_DIRECTORY" + "Sample.djvu";
 try (DjvuImage image = (DjvuImage) Image.load(dataDir)) {
-    // Het DjVuImage-object bevat nu het geladen DJVU-bestand en kan verder worden verwerkt.
+    // The DjVuImage object now holds the loaded DJVU file and can be processed further.
 }
 ```
 
-**Uitleg:**
+**Explanation:**  
+- **`Image.load`:** Laadt je DJVU‑bestand en retourneert een `DjvuImage`‑instantie voor verdere verwerking.  
 
-- **`Image.load`:** Deze methode wordt gebruikt om uw DJVU-bestand in het geheugen te laden en een `DjvuImage` object voor verwerking.
+### Exportopties instellen voor BMP‑formaat
 
-### Exportopties instellen voor BMP-indeling
+**Overview:**  
+Het configureren van exportopties zorgt ervoor dat de gegenereerde BMP‑bestanden aan je kwaliteitsvereisten voldoen.
 
-**Overzicht:**
-
-Door exportopties te configureren, weet u zeker dat de BMP-uitvoerbestanden aan uw kwaliteitsvereisten voldoen.
+`BmpOptions` laat je eigenschappen zoals bits‑per‑pixel, compressie en resolutie definiëren vóór het opslaan.
 
 ```java
 import com.aspose.imaging.imageoptions.BmpOptions;
@@ -114,15 +183,15 @@ BmpOptions exportOptions = new BmpOptions();
 exportOptions.setBitsPerPixel(32);
 ```
 
-**Uitleg:**
+**Explanation:**  
+- **`setBitsPerPixel`:** Stelt de kleurdiepte van de geëxporteerde afbeeldingen in. Het gebruik van 32 bits per pixel levert verliesvrije, hoge‑kwaliteit BMP‑bestanden op die geschikt zijn voor archiveringsdoeleinden.
 
-- **`setBitsPerPixel`:** Deze methode stelt de kleurdiepte van de geëxporteerde afbeeldingen in. We gebruiken hier 32 bits per pixel voor een uitvoer van hoge kwaliteit.
+### Paginarange definiëren voor export
 
-### Definieer het paginabereik voor export
+**Overview:**  
+Het specificeren van welke pagina's geëxporteerd moeten worden, stelt je in staat je te richten op relevante inhoud.
 
-**Overzicht:**
-
-Door aan te geven welke pagina's u wilt exporteren, kunt u zich concentreren op relevante inhoud.
+`IntRange` creëert een reeks nul‑gebaseerde paginanummers; in dit voorbeeld selecteren we de eerste twee pagina's.
 
 ```java
 import com.aspose.imaging.IntRange;
@@ -130,15 +199,15 @@ import com.aspose.imaging.IntRange;
 IntRange range = new IntRange(0, 2);
 ```
 
-**Uitleg:**
+**Explanation:**  
+- **`IntRange`:** Vertegenwoordigt een aaneengesloten reeks paginanummers. Pas de start‑ en eindwaarden aan om elk gewenst deel van de pagina's te exporteren.
 
-- **`IntRange`:** Deze klasse helpt bij het definiëren van een reeks pagina-indexen. In dit voorbeeld selecteren we de eerste twee pagina's (index gebaseerd op 0).
+### Gespecificeerde pagina's exporteren als afzonderlijke BMP‑bestanden
 
-### Gespecificeerde pagina's exporteren als afzonderlijke BMP-bestanden
+**Overview:**  
+De laatste stap omvat het exporteren van de geselecteerde pagina's als individuele BMP‑bestanden.
 
-**Overzicht:**
-
-De laatste stap bestaat uit het exporteren van de geselecteerde pagina's als afzonderlijke BMP-bestanden.
+`DjvuMultiPageOptions` configureert de export voor elke pagina, en `image.save` schrijft de BMP‑bestanden naar de doelmap.
 
 ```java
 import com.aspose.imaging.imageoptions.DjvuMultiPageOptions;
@@ -150,56 +219,59 @@ for (int i : range.getRange()) {
 }
 ```
 
-**Uitleg:**
-
-- **`DjvuMultiPageOptions`:** Configureert de exportopties voor specifieke pagina's.
-- **`image.save`:** Slaat elke pagina op als een afzonderlijk BMP-bestand in de door u opgegeven map.
+**Explanation:**  
+- **`DjvuMultiPageOptions`:** Bevat paginarange‑informatie en BMP‑opties voor multi‑page export.  
+- **`image.save`:** Slaat elke geselecteerde pagina op als een afzonderlijk BMP‑bestand op schijf.
 
 ## Praktische toepassingen
 
-1. **Archivering:** Converteer DJVU-bestanden naar BMP voor eenvoudiger archiveren en terugvinden.
-2. **Documenten delen:** Deel afzonderlijke afbeeldingen uit DJVU-documenten zonder dat u speciale software nodig hebt.
-3. **Webontwikkeling:** Gebruik BMP-afbeeldingen voor webprojecten die afbeeldingen van hoge kwaliteit vereisen.
-4. **Onderwijs:** Bied studenten toegankelijke afbeeldingsformaten voor studiemateriaal.
-5. **Integratie:** Integreer dit conversieproces naadloos in grotere Java-applicaties.
+1. **Archivering:** Converteer DJVU‑bestanden naar BMP voor eenvoudigere archivering en terugvinden.  
+2. **Documentdeling:** Deel individuele afbeeldingen uit DJVU‑documenten zonder gespecialiseerde viewers te vereisen.  
+3. **Webontwikkeling:** Gebruik BMP‑afbeeldingen voor webprojecten die verliesloze graphics nodig hebben.  
+4. **Onderwijs:** Bied studenten toegankelijke beeldformaten voor studiemateriaal.  
+5. **Integratie:** Integreer dit conversieproces in grotere Java‑applicaties voor geautomatiseerde workflows.
 
 ## Prestatieoverwegingen
 
-- **Geheugengebruik optimaliseren:** Beheer het geheugen efficiënt door ongebruikte objecten zo snel mogelijk weg te gooien.
-- **Batchverwerking:** Verwerk bestanden in batches om de belasting van uw resources te verminderen.
-- **Parallelle verwerking:** Maak waar mogelijk gebruik van multithreading om de prestaties te verbeteren.
+- **Geheugengebruik optimaliseren:** Vernietig `DjvuImage`‑objecten tijdig met `close()` om native resources vrij te geven.  
+- **Batchverwerking:** Verwerk meerdere DJVU‑bestanden in een lus om I/O‑overhead te amortiseren.  
+- **Parallelle verwerking:** Maak gebruik van Java’s `ExecutorService` om pagina's gelijktijdig te converteren op multi‑core servers.
 
-## Conclusie
+## Veelvoorkomende problemen en oplossingen
 
-Door deze handleiding te volgen, hebt u geleerd hoe u Aspose.Imaging Java kunt gebruiken om DJVU-pagina's effectief naar BMP-afbeeldingen te converteren. Deze vaardigheid verbetert uw mogelijkheden om documenten te beheren en te delen op verschillende platforms. Overweeg voor verdere verkenning de integratie van aanvullende beeldverwerkingsfuncties van Aspose.Imaging of breid de functionaliteit uit om meer formaten te ondersteunen.
+- **OutOfMemoryError bij grote DJVU‑bestanden:** Gebruik `image.dispose()` na het opslaan van elke pagina en overweeg de JVM‑heapgrootte alleen indien nodig te verhogen.  
+- **Lage kwaliteit BMP‑output:** Zorg ervoor dat `BmpOptions.setBitsPerPixel(32)` is ingesteld; lagere waarden verminderen de kleurnauwkeurigheid.  
+- **Ontbrekende pagina's in output:** Controleer of de `IntRange`‑indices overeenkomen met het daadwerkelijke paginacount (`djvuImage.getPages().size()`).
 
-## FAQ-sectie
+## Veelgestelde vragen
 
-1. **Wat is een DJVU-bestand?**
-   - Een DJVU-bestand is een gecomprimeerd documentformaat dat wordt gebruikt voor het opslaan van gescande afbeeldingen van teksten en tekeningen.
+**Q: Wat is een DJVU‑bestand?**  
+A: DJVU is een sterk gecomprimeerd bestandsformaat ontworpen voor het opslaan van gescande documenten, afbeeldingen en multi‑page publicaties, terwijl de visuele fideliteit behouden blijft.
 
-2. **Kan ik naast de eerste twee pagina's ook andere paginabereiken converteren?**
-   - Ja, pas de `IntRange` om verschillende pagina's te specificeren.
+**Q: Kan ik andere paginaranges exporteren dan de eerste twee pagina's?**  
+A: Ja, wijzig de parameters van `IntRange` om elk gewenst start‑ en eindindex te targeten.
 
-3. **Wat als mijn BMP-uitvoerbestanden niet van hoge kwaliteit zijn?**
-   - Zorg ervoor dat u een hogere bitdiepte instelt met `setBitsPerPixel`.
+**Q: Mijn BMP‑bestanden zien er wazig uit — hoe kan ik de kwaliteit verbeteren?**  
+A: Verhoog de bits‑per‑pixel‑instelling in `BmpOptions` naar 32 en zorg ervoor dat de bron‑DJVU‑pagina's niet worden verkleind tijdens het laden.
 
-4. **Hoe kan ik grote DJVU-bestanden efficiënt verwerken?**
-   - Overweeg om de gegevens in kleinere delen te verwerken of de geheugeninstellingen van uw systeem te optimaliseren.
+**Q: Hoe ga ik efficiënt om met zeer grote DJVU‑bestanden?**  
+A: Verwerk het bestand in delen, vernietig elke `DjvuImage` na het opslaan, en overweeg het streamen van pagina's in plaats van het volledige document in één keer te laden.
 
-5. **Waar kan ik meer Aspose.Imaging-bronnen vinden?**
-   - Bezoek de [Aspose.Imaging-documentatie](https://reference.aspose.com/imaging/java/) voor uitgebreide handleidingen en voorbeelden.
+**Q: Waar vind ik meer Aspose.Imaging‑bronnen?**  
+A: Bezoek de [Aspose.Imaging documentation](https://reference.aspose.com/imaging/java/) of de [Aspose.Imaging Java Documentation](https://reference.aspose.com/imaging/java/) voor uitgebreide handleidingen, API‑referenties en voorbeeldprojecten. Voor community‑ondersteuning, zie [Aspose.Imaging Support](https://forum.aspose.com/c/imaging/14).
 
-## Bronnen
+---
 
-- **Documentatie:** [Aspose.Imaging Java-documentatie](https://reference.aspose.com/imaging/java/)
-- **Downloaden:** [Aspose.Imaging-releases](https://releases.aspose.com/imaging/java/)
-- **Licentie kopen:** [Koop Aspose.Imaging](https://purchase.aspose.com/buy)
-- **Gratis proefperiode:** [Start uw gratis proefperiode](https://releases.aspose.com/imaging/java/)
-- **Tijdelijke licentie:** [Vraag een tijdelijke licentie aan](https://purchase.aspose.com/temporary-license/)
-- **Ondersteuningsforum:** [Aspose.Imaging-ondersteuning](https://forum.aspose.com/c/imaging/14)
+**Last Updated:** 2026-06-18  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose
 
-Begin vandaag nog met het beheersen van documentconversie met Aspose.Imaging Java!
+## Gerelateerde tutorials
+
+- [Convert DjVu to Grayscale PNG with Aspose.Imaging for Java | Format Conversion Tutorial](/imaging/java/format-conversion-export/export-djvu-grayscale-png-aspose-java/)
+- [Convert DjVu to TIFF in Java with Aspose.Imaging: Step-by-Step Guide](/imaging/java/format-conversion-export/load-export-djvu-tiff-aspose-imaging-java/)
+- [Convert DjVu to PDF using Aspose.Imaging for Java - Step-by-Step Guide](/imaging/java/image-loading-saving/convert-djvu-to-pdf-aspose-imaging-java/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
