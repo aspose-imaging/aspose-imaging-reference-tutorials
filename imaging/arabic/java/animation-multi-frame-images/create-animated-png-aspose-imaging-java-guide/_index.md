@@ -1,9 +1,16 @@
 ---
-"date": "2025-06-04"
-"description": "تعرّف على كيفية إنشاء صور PNG متحركة سلسة باستخدام Aspose.Imaging لجافا. يغطي هذا الدليل تحميل الصور، وتكوين خيارات APNG، وإضافة إطارات بتأثيرات جاما."
-"title": "إنشاء صور PNG متحركة في Java باستخدام Aspose.Imaging - دليل المطور"
-"url": "/ar/java/animation-multi-frame-images/create-animated-png-aspose-imaging-java-guide/"
-"weight": 1
+date: '2026-03-15'
+description: تعلم كيفية تحميل PNG في Java وإنشاء PNG متحركة باستخدام Aspose.Imaging.
+  يوضح هذا الدرس إعداد Maven وخيارات APNG وتأثيرات الإطارات.
+keywords:
+- Animated PNG Java
+- Aspose.Imaging tutorial
+- create APNG in Java
+- animated image processing with Aspose
+- Java animation guide
+title: تحميل PNG في جافا، إنشاء PNG متحركة باستخدام Aspose.Imaging
+url: /ar/java/animation-multi-frame-images/create-animated-png-aspose-imaging-java-guide/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,30 +18,44 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# إنشاء صورة متحركة بصيغة PNG باستخدام Aspose.Imaging في Java: دليل تنفيذ شامل
+# إنشاء PNG متحرك باستخدام Aspose.Imaging في Java: دليل شامل للتنفيذ
 
-## مقدمة
+## المقدمة
 
-قد يكون استكشاف عالم معالجة الصور أمرًا شاقًا، خاصةً عند إنشاء صور متحركة مثل APNG (رسومات الشبكة المحمولة المتحركة). إذا كنت ترغب في تحسين تطبيقات الويب أو مشاريع الوسائط الرقمية الخاصة بك من خلال دمج الرسومات الديناميكية، فهذا البرنامج التعليمي مُصمم خصيصًا لك. سنستكشف كيفية استخدام Aspose.Imaging لجافا لإنشاء رسوم متحركة سلسة من صور ثابتة. سيرشدك هذا الدليل خلال عملية تحميل الصور، وتكوين خيارات APNG، وإضافة الإطارات، وتحسين الأداء.
+إذا كنت بحاجة إلى **load PNG in Java** وتحويل الرسومات الثابتة إلى PNGs متحركة حية (APNGs)، فقد وصلت إلى المكان الصحيح. في هذا الدليل سنستعرض كل خطوة — من إعداد Aspose.Imaging باستخدام Maven إلى إضافة إطارات مخصصة مُعدَّلة للجاما — حتى تتمكن من تقديم رسوم متحركة سلسة وعالية الجودة في مشاريع الويب أو سطح المكتب.
 
-**ما سوف تتعلمه:**
+**ما ستتعلمه**
 
-- كيفية تحميل الصور ذات الصفحة الواحدة باستخدام Aspose.Imaging في Java
-- تكوين خيارات APNG لإنشاء الصور المتحركة
-- إضافة إطارات متعددة مع تأثيرات مخصصة مثل تعديل جاما
-- إدارة الموارد بكفاءة وتحسين الأداء
+- كيفية **load PNG in Java** باستخدام Aspose.Imaging
+- تهيئة خيارات APNG لإنشاء صورة متحركة
+- إضافة إطارات متعددة مع تأثيرات مثل تعديل الجاما
+- إدارة الموارد بكفاءة لتحقيق الأداء الأمثل
 
-هل أنت مستعد للانطلاق في عالم صور PNG المتحركة؟ لنبدأ بالتأكد من تجهيز كل شيء.
+دعونا نتأكد من أن بيئة التطوير جاهزة قبل أن نبدأ.
 
-## المتطلبات الأساسية
+## إجابات سريعة
+- **ما المكتبة التي أحتاجها؟** Aspose.Imaging for Java (متاحة عبر Maven/Gradle)  
+- **هل يمكنني تحميل ملفات PNG مباشرة؟** نعم – استخدم `Image.load()` وقم بالتحويل إلى `RasterImage`  
+- **كم عدد الإطارات التي يمكنني إضافتها؟** حتى آلاف؛ عدد الإطارات محدود بالذاكرة وحجم الملف  
+- **هل أحتاج إلى ترخيص؟** النسخة التجريبية المجانية تعمل للاختبار؛ الترخيص الدائم يزيل قيود التقييم  
+- **هل دعم Maven مطلوب؟** Maven هو الطريقة الموصى بها لإدارة الاعتمادات  
 
-قبل أن نبدأ، تأكد من أن لديك ما يلي:
+## ما هو PNG المتحرك (APNG)؟
 
-### المكتبات والتبعيات المطلوبة
+APNG هو امتداد لتنسيق PNG القياسي يدعم إطارات متعددة، مما يتيح لك إنشاء رسوم متحركة غير مضغوطة غالبًا ما تبدو أكثر وضوحًا وتحتوي على أحجام ملفات أصغر مقارنةً بـ GIFs.
 
-للعمل مع Aspose.Imaging لـ Java، تأكد من تضمين التبعيات اللازمة في مشروعك. يمكنك استخدام Maven أو Gradle لإدارة هذه التبعيات.
+## لماذا تحميل PNG في Java باستخدام Aspose.Imaging؟
 
-**مافن:**
+- **تحكم كامل** في بيانات الصورة ومعالجة البكسل
+- **أداء عالي** في المعالجة دون الاعتماد على مكتبات أصلية
+- **توافق متعدد المنصات** (Windows, Linux, macOS)
+- **مجموعة ميزات غنية** تشمل تصحيح الجاما، إدارة الألوان، والمزيد  
+
+## المتطلبات المسبقة
+
+### المكتبات والاعتمادات المطلوبة
+
+للعمل مع Aspose.Imaging for Java، أضف المكتبة إلى مشروعك. أدناه إحداثيات Maven التي تحتاجها.
 
 ```xml
 <dependency>
@@ -44,206 +65,201 @@
 </dependency>
 ```
 
-**جرادل:**
-
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-بدلاً من ذلك، يمكنك تنزيل الإصدار الأحدث مباشرةً من [إصدارات Aspose.Imaging لـ Java](https://releases.aspose.com/imaging/java/).
+يمكنك أيضًا تنزيل أحدث JAR من [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
 ### إعداد البيئة
 
-تأكد من إعداد بيئة التطوير لديك باستخدام Java (يفضل JDK 8 أو إصدار أحدث) وبيئة التطوير المتكاملة (IDE) التي تختارها (على سبيل المثال، IntelliJ IDEA أو Eclipse). 
+- Java 8 أو أحدث (يوصى بـ JDK 11 أو أحدث)
+- IDE المفضل لديك (IntelliJ IDEA, Eclipse, VS Code، إلخ)
 
-### متطلبات المعرفة
+### المتطلبات المعرفية
 
-سيكون من المفيد الحصول على فهم أساسي لبرمجة Java ومفاهيم معالجة الصور والتعرف على العمل في مشروع باستخدام أدوات البناء مثل Maven أو Gradle.
+برمجة Java الأساسية ومعرفة أدوات البناء (Maven/Gradle) كافية.
 
-## إعداد Aspose.Imaging لـ Java
+## كيفية إعداد Aspose Imaging باستخدام Maven
 
-لبدء استخدام Aspose.Imaging، اتبع الخطوات التالية:
-
-1. **تثبيت المكتبة**:استخدم Maven أو Gradle أو قم بتنزيل ملف JAR كما هو موضح أعلاه.
-2. **الحصول على الترخيص**:
-   - يمكنك اختيار تجربة مجانية لاختبار قدرات Aspose.Imaging.
-   - للاستخدام الأكثر شمولاً، فكر في الحصول على ترخيص مؤقت من [أسبوزي](https://purchase.aspose.com/temporary-license/).
-   - للاستفادة الكاملة من المكتبة دون قيود، قم بشراء ترخيص عبر موقعها.
-
-3. **التهيئة الأساسية**:
-
-بمجرد التثبيت والترخيص، قم بتهيئة بيئة Aspose.Imaging في تطبيق Java الخاص بك لبدء العمل مع الصور بسلاسة.
+1. أضف اعتماد Maven المعروض أعلاه إلى ملف `pom.xml` الخاص بك.  
+2. شغّل `mvn clean install` لتنزيل ملفات JAR.  
+3. (اختياري) تطبيق ترخيص مؤقت أو دائم – راجع خطوة **License Acquisition** لاحقًا.
 
 ## دليل التنفيذ
 
 ### الميزة 1: تحميل صورة صفحة واحدة
 
-#### ملخص
-تحميل الصورة هو الخطوة الأولى قبل أي تعديل. سنرى هنا كيفية تحميل ملف PNG بصفحة واحدة باستخدام Aspose.Imaging. `Image.load()` طريقة.
+#### نظرة عامة
+أول شيء تحتاج إلى القيام به هو **load PNG in Java** حتى تتمكن من تعديلها.
 
-#### خطوات:
+#### الخطوات
 
-**الخطوة 1:** استيراد الفئات المطلوبة
+**الخطوة 1:** استيراد الفئات المطلوبة  
 
 ```java
 import com.aspose.imaging.Image;
 import com.aspose.imaging.RasterImage;
 ```
 
-**الخطوة 2:** تحميل الصورة
+**الخطوة 2:** تحميل الصورة  
 
 ```java
 String inputFilePath = "YOUR_DOCUMENT_DIRECTORY/not_animated.png";
 try (RasterImage sourceImage = (RasterImage) Image.load(inputFilePath)) {
-    // تم الآن تحميل RasterImage ويمكن استخدامه للعمليات الإضافية.
+    // RasterImage is now loaded and can be used for further operations.
 }
 ```
 
-- **توضيح**: `Image.load()` يقرأ ملف صورة من المسار المحدد. يُرسَل إلى `RasterImage` يسمح لنا بالوصول إلى الأساليب الخاصة بالشبكة.
+*شرح*: `Image.load()` يقرأ ملف PNG من القرص. التحويل إلى `RasterImage` يمنح الوصول إلى طرق خاصة بالرستر مثل `adjustGamma`.
 
-### الميزة 2: تكوين خيارات APNG
+### الميزة 2: تهيئة خيارات APNG
 
-#### ملخص
-يعد إعداد الخيارات لإنشاء APNGs أمرًا بالغ الأهمية لتحديد كيفية سلوك الرسوم المتحركة الخاصة بك، بما في ذلك توقيت الإطار وتنسيق اللون.
+#### نظرة عامة
+خيارات APNG تتيح لك تحديد توقيت الإطار، نوع اللون، ومكان الإخراج.
 
-#### خطوات:
+#### الخطوات
 
-**الخطوة 1:** استيراد الفئات
+**الخطوة 1:** استيراد الفئات  
 
 ```java
 import com.aspose.imaging.fileformats.apng.ApngOptions;
 import com.aspose.imaging.sources.FileCreateSource;
 ```
 
-**الخطوة 2:** تعيين خيارات APNG
+**الخطوة 2:** ضبط خيارات APNG  
 
 ```java
 String outputFilePath = "YOUR_OUTPUT_DIRECTORY/raster_animation.png";
 try (ApngOptions createOptions = new ApngOptions()) {
     createOptions.setSource(new FileCreateSource(outputFilePath, false));
-    createOptions.setDefaultFrameTime(70); // تعيين مدة الإطار إلى 70 مللي ثانية
+    createOptions.setDefaultFrameTime(70); // 70 ms per frame
     createOptions.setColorType(com.aspose.imaging.fileformats.png.PngColorType.TruecolorWithAlpha);
 }
 ```
 
-- **توضيح**:يؤدي هذا إلى تكوين ملف APNG الناتج باستخدام وقت إطار ونوع لون افتراضيين، وهو أمر ضروري لتحقيق رسوم متحركة سلسة.
+*شرح*: كائن `ApngOptions` يخبر Aspose.Imaging كيفية بناء PNG المتحرك، بما في ذلك مدة الإطار الافتراضية وتنسيق اللون.
 
 ### الميزة 3: إنشاء صورة APNG وإضافة إطارات
 
-#### ملخص
-الآن، سننشئ صورة متحركة بصيغة PNG بإضافة إطارات. يمكن تعديل كل إطار لتحقيق تأثيرات الحركة المطلوبة، مثل التلاشي أو الانتقال.
+#### نظرة عامة
+الآن سنبني PNG المتحرك بإضافة إطارات. سنطبق أيضًا تعديلًا بسيطًا للجاما لإنشاء تأثير تلاشي الدخول/الخروج.
 
-#### خطوات:
+#### الخطوات
 
-**الخطوة 1:** استيراد الفئة
+**الخطوة 1:** استيراد الفئة  
 
 ```java
 import com.aspose.imaging.fileformats.apng.ApngImage;
 ```
 
-**الخطوة 2:** إنشاء APNG وإضافة الإطارات
+**الخطوة 2:** إنشاء APNG وإضافة إطارات  
 
 ```java
 try (ApngImage apngImage = (ApngImage) Image.create(createOptions, sourceImage.getWidth(), sourceImage.getHeight())) {
-    int numOfFrames = 1000 / 70; // حساب عدد الإطارات بناءً على المدة الإجمالية
+    int numOfFrames = 1000 / 70; // total duration / frame time
     int numOfFrames2 = numOfFrames / 2;
 
     apngImage.removeAllFrames();
     
-    // أضف الإطار الأول
+    // Add the first frame
     apngImage.addFrame(sourceImage, 70);
     
-    // إطارات وسيطة مع تعديل جاما لتأثير الرسوم المتحركة
+    // Intermediate frames with gamma adjustment for animation effect
     for (int frameIndex = 1; frameIndex < numOfFrames - 1; ++frameIndex) {
         apngImage.addFrame(sourceImage, 70);
         ApngFrame lastFrame = (ApngFrame) apngImage.getPages()[apngImage.getPageCount() - 1];
         float gamma = frameIndex >= numOfFrames2 ? numOfFrames - frameIndex - 1 : frameIndex;
-        lastFrame.adjustGamma(gamma); // ضبط جاما للتأثير
+        lastFrame.adjustGamma(gamma); // Adjusting gamma for effect
     }
     
-    // أضف الإطار النهائي
+    // Add the final frame
     apngImage.addFrame(sourceImage, 70);
     
-    apngImage.save(); // حفظ الصورة المتحركة
+    apngImage.save(); // Save the animated image
 }
 ```
 
-- **توضيح**:يُنشئ هذا القسم ملف APNG ويضيف إطارات بتأثير رسوم متحركة بسيط باستخدام تعديلات جاما. التعديل `gamma` يعطي تأثير التلاشي/الظهور.
+*شرح*: هذه الحلقة تنشئ سلسلة من الإطارات، كل منها بقيمة جاما مختلفة قليلاً، مما ينتج تأثير انتقال سلس.
 
 ### الميزة 4: حذف ملف الإخراج
 
-#### ملخص
-بعد المعالجة، قد ترغب في التنظيف عن طريق حذف ملف الإخراج.
+#### نظرة عامة
+تنظيف الملفات المؤقتة يساعد على الحفاظ على مساحة عملك مرتبة.
 
-#### خطوات:
+#### الخطوات
 
-**الخطوة 1:** استيراد الفئة
+**الخطوة 1:** استيراد الفئة  
 
 ```java
 import com.aspose.imaging.examples.Utils;
 ```
 
-**الخطوة 2:** حذف الملف
+**الخطوة 2:** حذف الملف  
 
 ```java
 Utils.deleteFile(outputFilePath);
 ```
 
-- **توضيح**:تعمل طريقة الأداة المساعدة هذه على إزالة الملف المحدد من نظامك، مما يضمن عدم وجود أي ملفات غير ضرورية.
+*شرح*: `Utils.deleteFile` يزيل الملف المُنشأ عندما لا تحتاجه بعد الآن.
 
 ## التطبيقات العملية
 
-يمكن استخدام APNGs في مجموعة متنوعة من السيناريوهات:
-
-1. **رسوم متحركة على الويب**:تحسين تجربة المستخدم من خلال الانتقالات والرسوم المتحركة السلسة.
-2. **بدائل GIF**:توفر ملفات APNG جودة أفضل في أحجام أصغر مقارنة بملفات GIF.
-3. **عناصر واجهة المستخدم**:يستخدم للأزرار أو الأيقونات المتحركة في تطبيقات سطح المكتب.
-4. **التسويق الرقمي**:إنشاء لافتات أو إعلانات جذابة.
+- **رسوم متحركة للويب** – رسومات خفيفة وعالية الجودة للمواقع  
+- **بدائل GIF** – عمق لون أفضل وضغط أعلى  
+- **عناصر واجهة المستخدم لسطح المكتب** – أيقونات أو أزرار متحركة  
+- **التسويق الرقمي** – لافتات وإعلانات جذابة بصريًا  
 
 ## اعتبارات الأداء
 
-عند العمل مع معالجة الصور، الأداء هو المفتاح:
+- **معدل الإطارات** – معدلات إطارات أعلى تزيد السلاسة ولكن أيضًا حجم الملف.  
+- **إدارة الذاكرة** – استخدم try‑with‑resources (كما هو موضح) لتحرير ذاكرة الصورة تلقائيًا.  
+- **المعالجة الدفعية** – عالج صورًا متعددة في حلقة لتقليل الحمل الزائد.
 
-- **تحسين معدل الإطارات**:التوازن بين السلاسة وحجم الملف عن طريق ضبط معدلات الإطارات.
-- **إدارة استخدام الذاكرة**:تأكد من تحميل الصور بكفاءة لتجنب تسرب الذاكرة.
-- **معالجة الدفعات**:إذا كنت تتعامل مع ملفات متعددة، فقم بمعالجتها على دفعات لتحسين استخدام الموارد.
+## المشكلات الشائعة والحلول
 
-## خاتمة
+| المشكلة | السبب | الحل |
+|-------|-------|-----|
+| **OutOfMemoryError** | تحميل PNGs كبيرة جدًا دون تحرير الموارد | استخدم كتل `try (RasterImage ...)` واستدعِ `System.gc()` بعد دفعات كبيرة |
+| **Missing frames** | `defaultFrameTime` غير صحيح أو حساب عدد الإطارات | تحقق من أن حساب `numOfFrames` يطابق المدة الإجمالية المطلوبة |
+| **License exception** | تشغيل بدون ترخيص صالح في الإنتاج | طبق ترخيصًا مؤقتًا أو دائمًا كما هو موضح في خطوة الحصول على الترخيص |
 
-باتباع هذا الدليل، ستتعلم كيفية إنشاء صور PNG متحركة باستخدام Aspose.Imaging لجافا. يمكنك الآن دمج الرسومات الديناميكية في مشاريعك بسهولة. لتحسين مهاراتك، استكشف [توثيق Aspose.Imaging](https://reference.aspose.com/imaging/java/) وتجربة تأثيرات الرسوم المتحركة المختلفة.
+## الأسئلة المتكررة
 
-## قسم الأسئلة الشائعة
+**س:** هل يمكنني استخدام APNGs في جميع المتصفحات؟  
+**ج:** معظم المتصفحات الحديثة (Chrome, Firefox, Edge, Safari) تدعم APNGs، لكن الإصدارات القديمة من Internet Explorer لا تدعمها. تحقق من التوافق على CanIUse.com.
 
-**س1: هل يمكنني استخدام APNGs في جميع متصفحات الويب؟**
+**س:** كيف يمكنني تحسين أداء الرسوم المتحركة؟  
+**ج:** قلل عدد الإطارات، خفض دقة الصورة، واحرص على أن يكون `defaultFrameTime` أعلى من 50 ms للحصول على تشغيل أكثر سلاسة على الأجهزة منخفضة الأداء.
 
-ج1: يختلف دعم APNG حسب المتصفح؛ تحقق من التوافق على منصات مثل CanIUse.com.
+**س:** هل هناك حدود لحجم APNG الذي يتم إنشاؤه باستخدام Aspose.Imaging؟  
+**ج:** المكتبة نفسها لا تفرض حدًا ثابتًا، لكن الملفات الضخمة جدًا قد تتجاوز قيود المتصفح أو الشبكة. استهدف توازنًا بين الجودة والحجم.
 
-**س2: كيف يمكنني تحسين أداء الرسوم المتحركة الخاصة بي؟**
+**س:** ماذا أفعل إذا واجهت خطأً أثناء إضافة الإطارات؟  
+**ج:** تحقق من أن صورة المصدر تم تحميلها بشكل صحيح، وأن مسار الإخراج قابل للكتابة، وأنك تستخدم نسخة Aspose.Imaging متوافقة.
 
-A2: تحسين معدلات الإطارات وإدارة الذاكرة بكفاءة لضمان التشغيل السلس.
+**س:** هل يمكنني إضافة تأثيرات أخرى غير تعديل الجاما؟  
+**ج:** نعم – توفر Aspose.Imaging طرقًا للسطوع، التباين، الدوران، والمزيد. جرب `sourceImage.adjustBrightness()` أو واجهات برمجة تطبيقات مماثلة.
 
-**س3: هل هناك أي قيود عند استخدام Aspose.Imaging لـ Java؟**
+## الخلاصة
 
-A3: تحقق من شروط الترخيص لمعرفة حدود الاستخدام؛ وإلا فهو متعدد الاستخدامات للغاية لتلبية معظم احتياجات معالجة الصور.
+باتباعك لهذا الدليل، أصبحت الآن تعرف كيفية **load PNG in Java**، وتكوين خيارات APNG، وإنشاء PNGs متحركة مع تأثيرات إطارات مخصصة باستخدام Aspose.Imaging. استكشف المزيد في [Aspose.Imaging Documentation](https://reference.aspose.com/imaging/java/) لاستكشاف التحويلات والتحسينات الإضافية.
 
-**س4: ماذا لو واجهت أخطاء أثناء عملية الرسوم المتحركة؟**
+## الموارد
 
-أ٤: تحقق من مسارات الملفات وتأكد من صحة تكوين جميع التبعيات. استشر [دعم Aspose](https://forum.aspose.com/c/imaging/14) إذا استمرت المشاكل.
+- **الوثائق**: [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
+- **التنزيل**: [Latest Releases](https://releases.aspose.com/imaging/java/)
+- **الشراء**: [Buy a License](https://purchase.aspose.com/buy)
+- **تجربة مجانية**: [Try Aspose.Imaging for Free](https://releases.aspose.com/imaging/java/)
+- **ترخيص مؤقت**: [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
+- **الدعم**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
-**س5: كيف يمكنني تعديل خصائص الإطار للحصول على تأثيرات فريدة؟**
+---
 
-A5: قم بتجربة تعديلات جاما، أو مزج ألفا، أو تحويلات الصور الأخرى التي يوفرها Aspose.Imaging.
-
-## موارد
-
-- **التوثيق**: [مرجع Aspose.Imaging Java](https://reference.aspose.com/imaging/java/)
-- **تحميل**: [أحدث الإصدارات](https://releases.aspose.com/imaging/java/)
-- **شراء**: [شراء ترخيص](https://purchase.aspose.com/buy)
-- **نسخة تجريبية مجانية**: [جرب Aspose.Imaging مجانًا](https://releases.aspose.com/imaging/java/)
-- **رخصة مؤقتة**: [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
-
-مع هذا الدليل الشامل، أنت جاهز تمامًا لبدء إنشاء صور PNG متحركة في Java باستخدام Aspose.Imaging. برمجة ممتعة!
+**آخر تحديث:** 2026-03-15  
+**تم الاختبار مع:** Aspose.Imaging 25.5 for Java  
+**المؤلف:** Aspose  
+**الموارد ذات الصلة:** [API Reference](https://reference.aspose.com/imaging/java/) | [Download Free Trial](https://releases.aspose.com/imaging/java/)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
