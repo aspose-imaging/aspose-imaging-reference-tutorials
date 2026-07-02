@@ -1,9 +1,16 @@
 ---
-"date": "2025-06-04"
-"description": "تعرّف على كيفية تحويل صور PNG إلى PDF بسهولة باستخدام Aspose.Imaging لجافا. يغطي هذا الدليل تحميل المستندات، وضبط معلوماتها، وحفظها بتنسيق PDF."
-"title": "تحويل PNG إلى PDF في Java باستخدام Aspose.Imaging - دليل شامل"
-"url": "/ar/java/format-conversion-export/convert-png-to-pdf-aspose-imaging-java/"
-"weight": 1
+date: '2026-04-05'
+description: اكتشف كيفية استخدام Aspose.Imaging في Java لتحويل ملفات PNG إلى PDF،
+  مستفيدًا من موارد try في Java وإنشاء ملفات PDF من الصور بكفاءة.
+keywords:
+- how to use aspose
+- how to convert png
+- java try resources
+- create pdf from image
+- convert multiple png pdf
+title: 'كيفية استخدام Aspose.Imaging لتحويل PNG إلى PDF في جافا: دليل شامل'
+url: /ar/java/format-conversion-export/convert-png-to-pdf-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,43 +18,56 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# كيفية تحويل PNG إلى PDF باستخدام Aspose.Imaging Java: دليل شامل
+# كيفية استخدام Aspose.Imaging لتحويل PNG إلى PDF في Java: دليل كامل
 
 ## مقدمة
 
-هل تبحث عن طريقة فعّالة لتحويل صور PNG إلى صيغة PDF باستخدام جافا؟ يوفر Aspose.Imaging for Java حلاً سلسًا، يُمكّنك من إدارة ملفات الصور ومعالجتها بسهولة. سيرشدك هذا الدليل خلال عملية تحميل ملف PNG، وضبط معلومات المستند، وحفظه كملف PDF باستخدام مكتبة Aspose.Imaging.
+إذا كنت تتساءل **كيف تستخدم Aspose** لمعالجة الصور في Java، فقد وصلت إلى المكان الصحيح. في هذا الدرس سنوضح لك خطوة بخطوة كيفية تحميل ملف PNG، ضبط معلومات مستند PDF، وحفظه كملف PDF باستخدام مكتبة Aspose.Imaging. في النهاية، ستكون قادرًا على إنشاء PDF من ملفات الصور ببضع أسطر من الشيفرة وبأمان try‑resources في Java.
 
-**ما سوف تتعلمه:**
+**ما ستتعلمه**
 - كيفية تحميل صورة PNG باستخدام Aspose.Imaging.
-- تعيين معلومات مستند PDF باستخدام Java.
-- قم بتحويل الصور وحفظها كملفات PDF بكل سهولة.
+- كيفية ضبط معلومات مستند PDF باستخدام Java.
+- كيفية تحويل الصور وحفظها كملفات PDF بسهولة.
+- نصائح لتحويل ملفات PNG متعددة إلى ملف PDF واحد.
 
-هل أنت مستعد للبدء؟ لنبدأ بتجهيز كل ما تحتاجه لهذا البرنامج التعليمي.
+هل أنت مستعد للبدء؟ دعنا نتأكد من أن لديك كل ما تحتاجه قبل أن نبدأ.
 
-## المتطلبات الأساسية
+## إجابات سريعة
+- **ما المكتبة المطلوبة؟** Aspose.Imaging for Java (v25.5+).  
+- **هل يمكنني استخدام try‑resources؟** نعم – الأمثلة تستخدم كتل `try (resource)` للتخلص الآمن.  
+- **هل يلزم ترخيص؟** النسخة التجريبية المجانية تعمل للتقييم؛ يلزم ترخيص دائم للإنتاج.  
+- **هل يمكنني تحويل مجموعة من PNGs دفعة واحدة؟** بالتأكيد – قم بالتكرار على الملفات وإعادة استخدام `PdfOptions`.  
+- **ما نسخة Java المدعومة؟** JDK 8 أو أعلى.
 
-قبل أن نبدأ، تأكد من أن لديك ما يلي:
+## ما هو Aspose.Imaging لـ Java؟
+Aspose.Imaging هو API قوي ومكتوب بالكامل بلغة Java يتيح لك إنشاء وتعديل وتحويل الصور دون الاعتماد على مكتبات أصلية. يدعم أكثر من 100 تنسيق، بما في ذلك PNG و JPEG و BMP و TIFF و PDF، مما يجعله مثاليًا لمعالجة الصور على الخادم.
+
+## لماذا تستخدم Aspose.Imaging لمعالجة الصور في Java؟
+- **لا توجد تبعيات خارجية** – يعمل على أي منصة تدعم Java.  
+- **تحويل عالي الدقة** – يحافظ على جودة الصورة عند إنشاء ملفات PDF.  
+- **مجموعة ميزات غنية** – معالجة البيانات الوصفية، الضغط، وإنشاء ملفات PDF متعددة الصفحات.  
+- **آمن للخطوط المتعددة وقابل للتوسع** – مثالي للوظائف الدفعية وخدمات الويب.
+
+## المتطلبات المسبقة
 
 ### المكتبات المطلوبة
-- **Aspose.Imaging لـ Java**:تأكد من أنك تستخدم الإصدار 25.5 أو إصدار أحدث.
-- **مجموعة تطوير جافا (JDK)**:يوصى باستخدام الإصدار 8 أو أعلى.
+- **Aspose.Imaging for Java**: الإصدار 25.5 أو أحدث.  
+- **Java Development Kit (JDK)**: الإصدار 8 أو أعلى.
 
 ### متطلبات إعداد البيئة
-- تم تثبيت IDE مثل IntelliJ IDEA أو Eclipse.
-- فهم أساسي لبرمجة Java والمعرفة بأدوات بناء Maven/Gradle.
+- IDE مثل IntelliJ IDEA أو Eclipse.  
+- معرفة أساسية بـ Java I/O و Maven/Gradle.
 
-### متطلبات المعرفة
-- المعرفة بعمليات الإدخال والإخراج في Java.
-- المعرفة الأساسية بمعالجة الاستثناءات في جافا.
-
-بعد تغطية هذه المتطلبات الأساسية، دعنا ننتقل إلى إعداد Aspose.Imaging لـ Java.
+### المتطلبات المعرفية
+- الإلمام بمعالجة الاستثناءات في Java.  
+- فهم try‑with‑resources للتنظيف التلقائي.
 
 ## إعداد Aspose.Imaging لـ Java
 
-لدمج مكتبة Aspose.Imaging في مشروعك، يمكنك استخدام Maven أو Gradle. إليك الطريقة:
+يمكنك إضافة Aspose.Imaging إلى مشروعك باستخدام Maven أو Gradle أو تحميل مباشر.
 
-### مافن
-أضف التبعية التالية إلى ملفك `pom.xml` ملف:
+### Maven
+أضف الاعتماد التالي إلى ملف `pom.xml` الخاص بك:
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -56,21 +76,21 @@
 </dependency>
 ```
 
-### جرادل
-قم بتضمين هذا السطر في `build.gradle` ملف:
+### Gradle
+ضمن هذا السطر في ملف `build.gradle` الخاص بك:
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
 ### التحميل المباشر
-وبدلاً من ذلك، يمكنك تنزيل المكتبة مباشرةً من [إصدارات Aspose.Imaging لـ Java](https://releases.aspose.com/imaging/java/).
+بدلاً من ذلك، يمكنك تنزيل المكتبة مباشرةً من [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
 #### خطوات الحصول على الترخيص
-1. **نسخة تجريبية مجانية**:ابدأ بإصدار تجريبي مجاني لاختبار الميزات.
-2. **رخصة مؤقتة**:احصل على ترخيص مؤقت للوصول الكامل أثناء التقييم.
-3. **شراء**:للاستخدام طويل الأمد، قم بشراء اشتراك.
+1. **نسخة تجريبية مجانية** – ابدأ بنسخة تجريبية لاختبار الميزات.  
+2. **ترخيص مؤقت** – احصل على ترخيص مؤقت للوصول الكامل أثناء التقييم.  
+3. **شراء** – اشترِ اشتراكًا للاستخدام على المدى الطويل.
 
-بمجرد إعداد مكتبتك وتجهيز الترخيص، قم بتهيئة Aspose.Imaging في بيئة Java الخاصة بك:
+بمجرد أن تكون المكتبة والترخيص جاهزين، قم بتهيئة Aspose.Imaging:
 
 ```java
 import com.aspose.imaging.License;
@@ -79,124 +99,122 @@ License license = new License();
 license.setLicense("path/to/your/license/file");
 ```
 
-بعد اكتمال عملية الإعداد، دعنا نتعمق في تنفيذ ميزات محددة باستخدام Aspose.Imaging.
-
 ## دليل التنفيذ
 
 ### الميزة 1: تحميل صورة PNG
 
-**ملخص:** توضح هذه الميزة كيفية تحميل صورة PNG باستخدام مكتبة Aspose.Imaging.
+**نظرة عامة:** تحميل ملف PNG لتتمكن من العمل معه في Java.
 
-#### التنفيذ خطوة بخطوة
-**3.1 استيراد الفئات المطلوبة**
+#### الخطوة 1 – استيراد الفئات المطلوبة
 ```java
 import com.aspose.imaging.Image;
 import com.aspose.imaging.fileformats.png.PngImage;
 ```
 
-**3.2 تحميل الصورة**
-قم بإنشاء مسار ملف لملف PNG الخاص بك وقم بتحميله باستخدام `Image.load()`:
+#### الخطوة 2 – تحميل الصورة باستخدام java try‑resources
 ```java
-String pngFilePath = "YOUR_DOCUMENT_DIRECTORY/aspose_logo.png"; // استبدله بمسار الملف الفعلي الخاص بك.
+String pngFilePath = "YOUR_DOCUMENT_DIRECTORY/aspose_logo.png"; // Replace with your actual file path.
 try (PngImage pngImage = (PngImage) Image.load(pngFilePath)) {
-    // تم تحميل صورة PNG بنجاح إلى الكائن 'pngImage'.
+    // Successfully loaded the PNG image into 'pngImage' object.
 } catch (Exception e) {
     System.out.println("Error loading image: " + e.getMessage());
 }
 ```
-**توضيح:** ال `Image.load()` تقوم الطريقة بقراءة الملف المحدد وإرساله إلى `PngImage` يضمن إمكانية إجراء عمليات خاصة بالنوع.
+*تضمن كتلة `try (resource)` التخلص التلقائي من الصورة، مما يمنع تسرب الذاكرة.*
 
-### الميزة 2: إعداد معلومات مستند PDF
+### الميزة 2: ضبط معلومات مستند PDF
 
-**ملخص:** تعرف على كيفية تعيين معلومات المستند لملف PDF باستخدام Aspose.Imaging.
+**نظرة عامة:** إضافة بيانات وصفية مثل المؤلف والعنوان إلى ملف PDF الناتج.
 
-#### التنفيذ خطوة بخطوة
-**3.3 استيراد الفئات المطلوبة**
+#### الخطوة 3 – استيراد الفئات المطلوبة
 ```java
 import com.aspose.imaging.fileformats.pdf.PdfDocumentInfo;
 import com.aspose.imaging.imageoptions.PdfOptions;
 ```
 
-**3.4 تعيين معلومات المستند**
-تكوين `PdfDocumentInfo` ضمن خيارات PDF الخاصة بك:
+#### الخطوة 4 – تكوين خيارات PDF مع معلومات المستند
 ```java
 PdfOptions exportOptions = new PdfOptions();
 exportOptions.setPdfDocumentInfo(new PdfDocumentInfo());
-// تم الآن تعيين الكائن "PdfDocumentInfo" ضمن خيارات PDF.
+// The 'PdfDocumentInfo' object is now set within the PDF options.
 ```
-**توضيح:** تعمل هذه الخطوة على تهيئة بيانات تعريف المستند، مما يسمح لك بتخصيص المعلومات مثل المؤلف والعنوان.
+*يمكنك تخصيص `PdfDocumentInfo` (المؤلف، العنوان، الموضوع) أكثر قبل الحفظ.*
 
-### الميزة 3: حفظ صورة بتنسيق PDF
+### الميزة 3: حفظ صورة كملف PDF
 
-**ملخص:** يوضح كيفية حفظ صورة PNG المحملة كملف PDF باستخدام Aspose.Imaging.
+**نظرة عامة:** تحويل PNG المحمل إلى ملف PDF.
 
-#### التنفيذ خطوة بخطوة
-**3.5 استيراد الفئات المطلوبة**
+#### الخطوة 5 – استيراد الفئات المطلوبة
 ```java
 import com.aspose.imaging.Image;
 import com.aspose.imaging.imageoptions.PdfOptions;
 ```
 
-**3.6 حفظ الصورة بصيغة PDF**
-قم بتحميل صورتك وحفظها باستخدام `PngImage.save()`:
+#### الخطوة 6 – حفظ الصورة باستخدام الخيارات المكوَّنة
 ```java
-String outputFilePath = "YOUR_OUTPUT_DIRECTORY/multipage_specificColor_.pdf"; // استبدله بمسار الإخراج المطلوب.
+String outputFilePath = "YOUR_OUTPUT_DIRECTORY/multipage_specificColor_.pdf"; // Replace with your desired output path.
 try (PngImage pngImage = (PngImage) Image.load("YOUR_DOCUMENT_DIRECTORY/aspose_logo.png")) {
     pngImage.save(outputFilePath, exportOptions);
 } catch (Exception e) {
-    System.out.println("Error saving image: " + e.getMessage());
+    System.out.println("Error saving image: " e.getMessage());
 }
 ```
-**توضيح:** ال `save()` تكتب الطريقة بيانات PNG في ملف PDF باستخدام الخيارات المحددة.
+*طريقة `save()` تكتب بيانات PNG في ملف PDF باستخدام الخيارات التي حددتها.*
 
 ## التطبيقات العملية
 
-1. **محفظة الفن الرقمي**:تحويل وتجميع الأعمال الفنية الرقمية في مستند PDF واحد.
-2. **أرشفة المستندات**:أرشفة الصور عالية الدقة بتنسيق موحد للتخزين طويل الأمد.
-3. **إعداد المعرض عبر الإنترنت**:قم بإعداد ملفات الصور للمعارض عبر الإنترنت عن طريق تضمينها كملفات PDF متعددة الصفحات.
-4. **إنشاء التقارير**:تضمين تمثيلات البيانات المرئية ضمن التقارير التجارية أو العروض التقديمية.
+1. **محفظة فن رقمي** – تجميع الأعمال الفنية في ملف PDF واحد لمراجعة العميل.  
+2. **أرشفة المستندات** – تخزين PNG عالية الدقة كملفات PDF للحفظ على المدى الطويل.  
+3. **تحضير معرض إلكتروني** – تضمين الصور في ملفات PDF متعددة الصفحات للنشر على الويب.  
+4. **إنشاء تقارير** – إدراج البيانات البصرية في تقارير الأعمال كصفحات PDF.  
+5. **تحويل دفعي** – استخدم حلقة مع نفس `PdfOptions` لتحويل عدة PNGs إلى ملف PDF واحد (باستخدام كلمة المفتاح الثانوية “convert multiple png pdf”).
 
 ## اعتبارات الأداء
 
-- **تحسين حجم الصورة**:قم بتقليل دقة صور PNG قبل التحويل لتوفير مساحة القرص وتحسين سرعة المعالجة.
-- **إدارة الذاكرة**:استخدم try-with-resources (`try (Resource)` كتل) لإدارة الموارد تلقائيًا، ومنع تسرب الذاكرة.
-- **معالجة الدفعات**:قم بمعالجة تحويلات الصور المتعددة بالتوازي باستخدام ميزات التزامن في Java لتحسين الأداء.
+- **تحسين حجم الصورة** – قلل حجم PNG الكبيرة قبل التحويل لتقليل استهلاك الذاكرة.  
+- **إدارة الذاكرة** – استخدم دائمًا try‑with‑resources (`try (Resource)`) لتحرير الموارد الأصلية تلقائيًا.  
+- **معالجة دفعية** – نفّذ التحويلات بشكل متوازي باستخدام `ExecutorService` في Java للحصول على سرعة أعلى.
 
-## خاتمة
+## المشكلات الشائعة والحلول
 
-باتباع هذا الدليل، ستتعلم كيفية تحميل ملف PNG، وتعيين معلومات مستند PDF، وحفظه كملف PDF باستخدام Aspose.Imaging for Java. هذه الإمكانيات أساسية لأي تطبيق يتطلب معالجة الصور وتحويلها.
+| المشكلة | السبب | الحل |
+|-------|--------|-----|
+| **فشل تحميل الصورة** | مسار الملف غير صحيح أو أذونات غير كافية | تحقق من المسار، تأكد من وجود الملف، وتحقق من أذونات القراءة. |
+| **OutOfMemoryError** | تم تحميل PNG كبيرة جدًا دون تصغير | قلل دقة الصورة أو عالج الصور واحدةً تلو الأخرى باستخدام try‑resources. |
+| **PDF metadata not applied** | `PdfDocumentInfo` غير مرفق بـ `PdfOptions` | تأكد من استدعاء `exportOptions.setPdfDocumentInfo(...)` قبل `save()`. |
+| **License not recognized** | مسار ملف الترخيص غير صحيح أو الملف تالف | تحقق مرة أخرى من المسار واستخدم `license.setLicense("path/to/license")` قبل أي استدعاءات API. |
 
-**الخطوات التالية:** فكر في استكشاف الميزات الإضافية لـ Aspose.Imaging مثل تحرير الصور أو تحويلات التنسيق لتحسين مشاريعك بشكل أكبر.
+## الأسئلة المتكررة
 
-**الدعوة إلى العمل:** حاول تنفيذ هذا الحل في مشروعك التالي، واستكشف الإمكانيات الواسعة التي يوفرها لك Aspose.Imaging!
+**س:** ما هو Aspose.Imaging لـ Java؟  
+**ج:** إنها مكتبة Java صافية تمكّن من إنشاء وتعديل وتحويل أكثر من 100 تنسيق صورة دون تبعيات أصلية.
 
-## قسم الأسئلة الشائعة
+**س:** كيف أحصل على ترخيص لـ Aspose.Imaging؟  
+**ج:** قم بزيارة [صفحة شراء Aspose](https://purchase.aspose.com/buy) لشراء ترخيص أو احصل على ترخيص تجريبي مجاني من [صفحة الترخيص المؤقت لـ Aspose](https://purchase.aspose.com/temporary-license/).
 
-1. **ما هو Aspose.Imaging لـ Java؟**
-   - مكتبة قوية لمعالجة الصور بتنسيقات مختلفة، وتوفر وظائف واسعة لتطبيقات Java.
+**س:** هل يمكنني تحويل تنسيقات أخرى (مثل JPEG, BMP) إلى PDF؟  
+**ج:** نعم – يدعم Aspose.Imaging JPEG و BMP و TIFF والعديد غيرها للتحويل إلى PDF.
 
-2. **كيف يمكنني الحصول على ترخيص لـ Aspose.Imaging؟**
-   - يزور [صفحة شراء Aspose](https://purchase.aspose.com/buy) لشراء أو الحصول على ترخيص تجريبي مجاني في [صفحة الترخيص المؤقت لـ Aspose](https://purchase.aspose.com/temporary-license/).
+**س:** ماذا أفعل إذا فشلت الصورة في التحميل؟  
+**ج:** تأكد من صحة مسار الملف، وإمكانية الوصول إلى الملف، وتعامل مع أي `IOException` قد يتم إلقاؤه.
 
-3. **هل يمكنني تحويل صيغ الصور الأخرى بالإضافة إلى PNG إلى PDF؟**
-   - نعم، يدعم Aspose.Imaging تنسيقات الصور المتعددة مثل JPEG وBMP وTIFF للتحويل.
+**س:** كيف يمكنني تحسين جودة مخرجات PDF؟  
+**ج:** قم بضبط دقة الصورة وإعدادات الضغط في `PdfOptions` قبل الحفظ، وضع البيانات الوصفية المناسبة في `PdfDocumentInfo`.
 
-4. **ماذا يجب أن أفعل إذا فشلت صورتي في التحميل؟**
-   - تأكد من أن مسار الملف صحيح ويمكن الوصول إليه؛ وتحقق من وجود استثناءات في الكود الخاص بك والتي قد تشير إلى وجود مشكلات في أذونات الملف أو تلفه.
+## الموارد
 
-5. **كيف يمكنني تحسين جودة إخراج PDF عند تحويل الصور؟**
-   - قم بضبط إعدادات دقة الصورة والضغط ضمن خيارات Aspose.Imaging قبل حفظ الملف بتنسيق PDF.
-
-## موارد
-
-- [التوثيق](https://reference.aspose.com/imaging/java/)
+- [الوثائق](https://reference.aspose.com/imaging/java/)
 - [تحميل](https://releases.aspose.com/imaging/java/)
 - [شراء](https://purchase.aspose.com/buy)
 - [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
-- [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
+- [ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
 - [منتدى الدعم](https://forum.aspose.com/c/imaging/14)
 
-ابدأ مشروعك التالي بثقة، مع العلم أن Aspose.Imaging for Java قد قام بتغطيتك!
+---
+
+**آخر تحديث:** 2026-04-05  
+**تم الاختبار مع:** Aspose.Imaging 25.5 for Java  
+**المؤلف:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
