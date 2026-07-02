@@ -1,9 +1,16 @@
 ---
-"date": "2025-06-04"
-"description": "تعرّف على كيفية ضغط الصور وتحويلها باستخدام Aspose.Imaging لجافا. يغطي هذا الدليل التحميل، والحفظ باستخدام ضغط Deflate، والتحقق من قنوات ألفا، والتحويل إلى PNG."
-"title": "Aspose.Imaging Java - ضغط وتحويل PNG إلى TIFF باستخدام Deflate"
-"url": "/ar/java/compression-optimization/master-image-compression-conversion-aspose-imaging-java/"
-"weight": 1
+date: '2026-03-23'
+description: تعرّف على كيفية استخدام Aspose.Imaging للغة Java لضغط صور PNG، وتحويلها
+  إلى TIFF باستخدام ضغط Deflate، والتحقق من قنوات ألفا، ثم تحويلها مرة أخرى إلى PNG.
+keywords:
+- Aspose.Imaging Java
+- image compression Java
+- PNG to TIFF conversion
+- Java image processing with Aspose
+- Deflate compression in Java
+title: 'كيفية استخدام Aspose.Imaging Java: ضغط وتحويل PNG إلى TIFF باستخدام Deflate'
+url: /ar/java/compression-optimization/master-image-compression-conversion-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,38 +18,45 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# إتقان ضغط الصور وتحويلها باستخدام Aspose.Imaging Java
+# كيفية استخدام Aspose.Imaging Java لضغط الصور وتحويل الصيغ
 
-في مجال التصوير الرقمي، تُعد إدارة الملفات بكفاءة أمرًا بالغ الأهمية، خاصةً عند التعامل مع كميات كبيرة من الصور عالية الدقة. سواء كنت مطورًا أو مصورًا، فإن معرفة كيفية ضغط وتحويل صيغ الصور دون فقدان الجودة يمكن أن يوفر لك الوقت ومساحة التخزين. في هذا البرنامج التعليمي، سنستكشف كيفية استخدام Aspose.Imaging لجافا لتحميل ملف PNG وحفظه بتنسيق TIFF باستخدام ضغط Deflate، متبوعًا بالتحقق من وجود قناة ألفا وتحويله مرة أخرى إلى صيغة PNG بألوان حقيقية وألفا.
+في عالم التصوير الرقمي، إدارة الملفات بفعالية أمر حاسم، خاصةً عند التعامل مع كميات كبيرة من الصور عالية الدقة. سواءً كنت مطورًا أو مصورًا، **كيفية استخدام Aspose** بفعالية يمكن أن توفر الوقت ومساحة التخزين. في هذا الدرس ستتعلم كيفية ضغط صورة PNG، تحويلها إلى TIFF باستخدام ضغط Deflate، التحقق من قناة ألفا، ثم تحويل الصورة مرة أخرى إلى PNG مع شفافية true‑color — كل ذلك باستخدام Aspose.Imaging for Java.
 
-**ما سوف تتعلمه:**
-- كيفية استخدام Aspose.Imaging لـ Java لمهام تحويل الصور.
-- تقنيات لتحميل الصور وحفظها بتنسيقات مختلفة مع إعدادات ضغط محددة.
-- طرق التحقق من خصائص الصورة مثل قنوات ألفا.
-- التطبيقات العملية لهذه التقنيات في سيناريوهات مختلفة.
+## إجابات سريعة
+- **ما المكتبة التي تتعامل مع تحويل PNG إلى TIFF؟** Aspose.Imaging for Java مع ضغط Deflate.  
+- **أي صيغة تحتفظ بالشفافية؟** PNG مع `TruecolorWithAlpha`.  
+- **هل أحتاج إلى ترخيص لهذا الكود؟** النسخة التجريبية المجانية تكفي للتقييم؛ الترخيص مطلوب للإنتاج.  
+- **ما نسخة Java المطلوبة؟** JDK 8 أو أعلى.  
+- **هل يمكنني معالجة العديد من الصور دفعة واحدة؟** نعم – ضع الكود داخل حلقة وأعد استخدام نفس الخيارات.
 
-دعونا نلقي نظرة على المتطلبات الأساسية قبل أن نبدأ في تنفيذ حلنا.
+## ما هو “كيفية استخدام Aspose” في معالجة الصور؟
+استخدام Aspose.Imaging يعني أنه يمكنك تعديل الصور النقطية برمجياً دون الاعتماد على مكتبات نظام التشغيل الأصلية. توفر API تحكمًا دقيقًا في الضغط، عمق اللون، والبيانات الوصفية، مما يجعلها مثالية لأنابيب معالجة الصور على الخادم.
 
-## المتطلبات الأساسية
+## لماذا نستخدم ضغط Deflate لملفات TIFF؟
+يوفر Deflate ضغطًا غير فقدان للبيانات يقلل حجم الملف مع الحفاظ على كل بكسل. هذا مثالي لأرشفة الصور عالية الجودة أو نقلها عبر قنوات ذات عرض نطاق محدود.
 
-قبل المتابعة، تأكد من أن لديك ما يلي:
+## المتطلبات المسبقة
+
+قبل المتابعة، تأكد من وجود ما يلي:
+
+- **Aspose.Imaging for Java** الإصدار 25.5 أو أحدث.  
+- بيئة تطوير متكاملة مثل IntelliJ IDEA أو Eclipse.  
+- JDK 8 أو أحدث.  
+- Maven أو Gradle لإدارة الاعتمادات.  
 
 ### المكتبات المطلوبة
-- **Aspose.Imaging لـ Java** يجب أن يكون لديك الإصدار 25.5 أو أحدث لمتابعة هذا البرنامج التعليمي.
+- **Aspose.Imaging for Java** – راجع مقتطفات Maven وGradle أدناه.
 
-### متطلبات إعداد البيئة
-- بيئة تطوير متكاملة متوافقة مثل IntelliJ IDEA أو Eclipse.
-- تم تثبيت JDK (يوصى بالإصدار 8 أو أعلى).
+### خطوات الحصول على الترخيص
+1. **نسخة تجريبية مجانية** – اختبر جميع الإمكانيات دون قيود.  
+2. **ترخيص مؤقت** – قيم الميزات المتقدمة لفترة قصيرة.  
+3. **شراء** – احصل على ترخيص دائم من [صفحة شراء Aspose](https://purchase.aspose.com/buy).
 
-### متطلبات المعرفة
-- فهم أساسيات برمجة جافا.
-- المعرفة بـ Maven أو Gradle لإدارة التبعيات.
+## إعداد Aspose.Imaging for Java
 
-## إعداد Aspose.Imaging لـ Java
+أضف المكتبة إلى مشروعك باستخدام إحدى الطرق التالية.
 
-لبدء استخدام Aspose.Imaging في مشاريعك، عليك إضافتها كاعتمادية. فيما يلي خطوات إضافتها إلى مشروعك باستخدام Maven وGradle.
-
-**مافن**
+**Maven**
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -51,29 +65,18 @@
 </dependency>
 ```
 
-**جرادل**
+**Gradle**
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-بدلاً من ذلك، يمكنك تنزيل أحدث إصدارات Aspose.Imaging for Java مباشرةً من موقعها [الموقع الرسمي](https://releases.aspose.com/imaging/java/).
+يمكنك أيضًا تنزيل أحدث إصدار من [الموقع الرسمي](https://releases.aspose.com/imaging/java/).
 
-### خطوات الحصول على الترخيص
+## كيفية استخدام Aspose.Imaging لتحويل PNG إلى TIFF
 
-1. **نسخة تجريبية مجانية**:اختبر الإمكانات الكاملة لـ Aspose.Imaging دون أي قيود.
-2. **رخصة مؤقتة**:احصل على ترخيص مؤقت لتقييم الميزات المتقدمة.
-3. **شراء**:للاستخدام طويل الأمد، قم بشراء اشتراك من [صفحة شراء Aspose](https://purchase.aspose.com/buy).
+### الخطوة 1: تحميل صورة PNG
+أولاً، حمّل ملف PNG المصدر.
 
-بمجرد إعدادك وتكوين بيئتك، دعنا ننتقل إلى تنفيذ مهام معالجة الصور الخاصة بنا.
-
-## دليل التنفيذ
-
-### تحميل وحفظ ملف TIFF باستخدام ضغط التفريغ
-
-توضح هذه الميزة تحميل ملف PNG وحفظه بصيغة TIFF باستخدام ضغط Deflate. يُعد هذا مفيدًا بشكل خاص لتصغير حجم الصور دون فقدان جودتها.
-
-#### الخطوة 1: تحميل صورة PNG
-ابدأ بتحميل صورة PNG الخاصة بك من الدليل المحدد.
 ```java
 import com.aspose.imaging.Image;
 import com.aspose.imaging.fileformats.tiff.enums.TiffExpectedFormat;
@@ -82,33 +85,33 @@ import com.aspose.imaging.imageoptions.TiffOptions;
 String inputFile = "YOUR_DOCUMENT_DIRECTORY/Alpha.png";
 String outputFileTiff = "YOUR_OUTPUT_DIRECTORY/Alpha.tiff";
 
-// قم بتحميل صورة PNG من الدليل المحدد.
+// Load the PNG image from the specified directory.
 try (Image image = Image.load(inputFile)) {
-    // قم بتهيئة TiffOptions باستخدام تنسيق الضغط Deflate.
+    // Initialize TiffOptions with Deflate compression format.
     TiffOptions options = new TiffOptions(TiffExpectedFormat.TiffDeflateRgba);
 
-    // احفظ الصورة المحملة كملف TIFF باستخدام الخيارات المحددة.
+    // Save the loaded image as a TIFF file using the specified options.
     image.save(outputFileTiff, options);
 }
 ```
 
-**توضيح:**
-- `Image.load(inputFile)`:يقوم بتحميل ملف PNG في الذاكرة للمعالجة.
-- `TiffOptions` مع `TiffExpectedFormat.TiffDeflateRgba`:يحدد أن الإخراج يجب أن يكون TIFF مع ضغط Deflate ومساحة ألوان RGBA.
+**شرح:**  
+- `Image.load` يقرأ ملف PNG إلى الذاكرة.  
+- `TiffOptions` مع `TiffDeflateRgba` يوجه Aspose لاستخدام ضغط Deflate غير الفاقد والحفاظ على قنوات RGBA.
 
-#### الخطوة 2: الحفظ كملف TIFF مضغوط
-يتم حفظ الصورة باستخدام المحدد `TiffOptions`، والتي تطبق ضغط الانكماش لتقليل حجم الملف مع الحفاظ على الجودة.
+### الخطوة 2: حفظ كملف TIFF مضغوط
+نداء `save` داخل كتلة `try` يكتب الصورة إلى القرص باستخدام الضغط المختار.
+
 ```java
-// احفظ الصورة المحملة كملف TIFF باستخدام الخيارات المحددة.
+// Save the loaded image as a TIFF file using the specified options.
 image.save(outputFileTiff, options);
 ```
 
-### التحقق من قناة ألفا وتحويلها إلى PNG باستخدام ألفا
+## كيفية التحقق من قناة ألفا وتحويل الصورة مرة أخرى إلى PNG
 
-الآن بعد أن قمنا بحفظ صورتنا بتنسيق TIFF، فلنتحقق من وجود قناة ألفا الخاصة بها ونحولها مرة أخرى إلى تنسيق PNG.
+### الخطوة 1: تحميل صورة TIFF
+الآن افتح ملف TIFF الذي تم إنشاؤه حديثًا.
 
-#### الخطوة 1: تحميل صورة TIFF
-قم بتحميل ملف TIFF الذي تم إنشاؤه حديثًا من دليل الإخراج الخاص بك.
 ```java
 import com.aspose.imaging.RasterImage;
 import com.aspose.imaging.fileformats.png.PngColorType;
@@ -117,74 +120,78 @@ import com.aspose.imaging.imageoptions.PngOptions;
 String inputFileTiff = "YOUR_OUTPUT_DIRECTORY/Alpha.tiff";
 String outputFilePng = "YOUR_OUTPUT_DIRECTORY/Alpha1.png";
 
-// قم بتحميل صورة TIFF من الدليل المحدد.
+// Load the TIFF image from the specified directory.
 try (Image image = Image.load(inputFileTiff)) {
-    // قم بإرسال الصورة المحملة إلى RasterImage وتحقق من وجود قناة ألفا.
+    // Cast the loaded image to RasterImage and check for an alpha channel.
     if (((RasterImage) image).hasAlpha()) {
-        // قم بتهيئة PngOptions باستخدام الألوان الحقيقية وإعدادات ألفا.
+        // Initialize PngOptions with true color and alpha settings.
         PngOptions options = new PngOptions();
         options.setColorType(PngColorType.TruecolorWithAlpha);
 
-        // احفظ الصورة كملف PNG باستخدام الخيارات المحددة.
+        // Save the image as a PNG file using the specified options.
         image.save(outputFilePng, options);
     }
 }
 ```
 
-**توضيح:**
-- `hasAlpha()`:يتحقق مما إذا كان ملف TIFF المحمّل يحتوي على قناة ألفا لضمان الحفاظ على الشفافية أثناء التحويل.
-- `PngOptions` مع `PngColorType.TruecolorWithAlpha`:يقوم بتكوين ملف PNG الناتج لدعم الألوان الحقيقية ويتضمن قناة ألفا.
+**شرح:**  
+- `hasAlpha()` يؤكد أن ملف TIFF لا يزال يحتوي على شفافية.  
+- `PngOptions` مع `TruecolorWithAlpha` يضمن أن PNG الناتج يحافظ على تلك الشفافية.
 
-### نصائح استكشاف الأخطاء وإصلاحها
-- **لم يتم العثور على الملف**:تأكد من صحة مسارات الملفات الخاصة بك.
-- **تنسيق غير مدعوم**:تأكد من استخدام تنسيق الصورة المدعوم للتحويل.
+## المشكلات الشائعة & استكشاف الأخطاء
 
-## التطبيقات العملية
+- **الملف غير موجود:** تحقق مرة أخرى من المسارات في `inputFile` و `outputFile*`.  
+- **صيغة غير مدعومة:** تأكد من أن الصورة المصدر هي PNG والهدف هو TIFF/PNG مدعوم من Aspose.  
+- **أخطاء نفاد الذاكرة:** استخدم `try‑with‑resources` (كما هو موضح) لتحرير الموارد الأصلية بسرعة.
 
-1. **تطوير الويب**:تحسين الصور لتسريع أوقات التحميل على مواقع الويب عن طريق ضغطها دون فقدان الجودة.
-2. **الأرشفة**:استخدم تنسيق TIFF مع ضغط Deflate لتخزين الصور عالية الجودة في الأرشيفات، مما يوفر المساحة مع الحفاظ على الدقة.
-3. **التصميم الجرافيكي**:يمكنك التحويل بين التنسيقات بسهولة عند العمل بتصميمات متعددة الطبقات تتطلب الشفافية.
+## تطبيقات عملية
+
+1. **تطوير الويب:** تقديم صور أصغر محسنّة للويب دون التضحية بالجودة.  
+2. **الأرشفة:** تخزين ملفات TIFF عالية الدقة مع ضغط Deflate لتقليل تكاليف التخزين.  
+3. **التصميم الجرافيكي:** الحفاظ على شفافية الطبقات عند نقل الأصول بين الصيغ.
 
 ## اعتبارات الأداء
 
-عند التعامل مع ملفات صور كبيرة أو معالجة العديد من الصور في وقت واحد، ضع في اعتبارك النصائح التالية:
+- عالج الصور على دفعات فقط إذا كان الخادم يحتوي على ذاكرة RAM كافية؛ حرّر كل كائن `Image` فورًا.  
+- أعد استخدام كائنات `TiffOptions` و `PngOptions` عند تحويل العديد من الملفات لتجنب التخصيص غير الضروري.
 
-- قم بتحسين استخدام الذاكرة عن طريق تحرير الموارد على الفور باستخدام عبارات try-with-resources.
-- استخدم معالجة الدفعات للتعامل مع صور متعددة بكفاءة إذا كان ذلك مدعومًا بحالة الاستخدام الخاصة بك.
+## الخلاصة
 
-## خاتمة
+باتباع هذا الدليل، أصبحت تعرف **كيفية استخدام Aspose.Imaging for Java** لضغط PNGs، تحويلها إلى TIFF باستخدام ضغط Deflate، التحقق من قنوات ألفا، وتحويلها مرة أخرى إلى PNG مع شفافية true‑color. تساعدك هذه التقنيات على إدارة الأصول الرقمية بفعالية عبر تدفقات العمل في الويب، الأرشفة، والتصميم.
 
-باتباع هذا الدليل، ستتعلم كيفية تحميل صور TIFF وحفظها باستخدام ضغط Deflate، والتحقق من قنوات ألفا باستخدام Aspose.Imaging لجافا. هذه المهارات أساسية لإدارة الأصول الرقمية بفعالية في تطبيقات متنوعة. لمزيد من الاستكشاف، جرّب تنسيقات صور وتقنيات ضغط أخرى تقدمها المكتبة.
+هل تريد المزيد؟ استكشف الإمكانيات الكاملة في [توثيق Aspose.Imaging](https://reference.aspose.com/imaging/java/).
 
-هل أنت مستعد للتعمق أكثر؟ اطلع على [توثيق Aspose.Imaging](https://reference.aspose.com/imaging/java/) لمزيد من الميزات والقدرات المتقدمة.
+## الأسئلة المتكررة
 
-## قسم الأسئلة الشائعة
+**س: كيف أتعامل مع مساحات الألوان المختلفة عند تحويل الصور باستخدام Aspose.Imaging؟**  
+ج: استخدم `TiffOptions` أو `PngOptions` لتحديد مساحة اللون المطلوبة أثناء التحويل.
 
-**س1: كيف أتعامل مع مساحات الألوان المختلفة عند تحويل الصور باستخدام Aspose.Imaging؟**
-أ1: الاستخدام `TiffOptions` أو `PngOptions` لتحديد مساحة اللون المطلوبة أثناء التحويل.
+**س: هل يمكنني معالجة عدة صور في آن واحد باستخدام Aspose.Imaging؟**  
+ج: نعم، نفّذ حلقة تقوم بتحميل كل ملف، تطبيق نفس الخيارات، وحفظ النتيجة.
 
-**س2: هل يمكنني معالجة صور متعددة في وقت واحد باستخدام Aspose.Imaging؟**
-ج2: نعم، يمكنك تنفيذ المعالجة الدفعية عن طريق التكرار عبر ملفات الصور الخاصة بك وتطبيق نفس العمليات بشكل تكراري.
+**س: ما هو ضغط Deflate، ولماذا يُستخدم لملفات TIFF؟**  
+ج: Deflate هو خوارزمية ضغط غير فقدان تقلل حجم الملف مع الحفاظ على كل بكسل — مثالي لأرشفة TIFF عالية الدقة.
 
-**س3: ما هو ضغط Deflate، ولماذا نستخدمه لملفات TIFF؟**
-A3: يؤدي ضغط التفريغ إلى تقليل حجم الملف مع الحفاظ على الجودة، مما يجعله مثاليًا لتخزين ونقل الصور عالية الدقة مثل ملفات TIFF.
+**س: كيف أضمن أن تطبيقى يعمل بكفاءة مع Aspose.Imaging؟**  
+ج: اتبع أفضل الممارسات مثل استخدام `try‑with‑resources`، إعادة استخدام كائنات الخيارات، وتحديد عدد تحميلات الصور المتزامنة.
 
-**س4: كيف يمكنني التأكد من تشغيل تطبيقي بكفاءة باستخدام Aspose.Imaging؟**
-أ4: اتبع أفضل الممارسات مثل إدارة الذاكرة بشكل فعال واستخدام تقنيات معالجة الصور المناسبة المصممة خصيصًا لاحتياجاتك المحددة.
+**س: هل توجد نسخة مجانية من Aspose.Imaging for Java تدعم جميع الميزات؟**  
+ج: تتوفر نسخة تجريبية مجانية؛ ومع ذلك، يتطلب الوصول الكامل للميزات في بيئة الإنتاج ترخيصًا مدفوعًا.
 
-**س5: هل هناك نسخة مجانية من Aspose.Imaging لـ Java تدعم جميع الميزات؟**
-ج5: تتوفر نسخة تجريبية مجانية، ولكن بعض الميزات المتقدمة قد تتطلب شراء ترخيص للاستفادة من الوظائف الكاملة.
+---
+
+**آخر تحديث:** 2026-03-23  
+**تم الاختبار مع:** Aspose.Imaging 25.5 for Java  
+**المؤلف:** Aspose  
 
 ## موارد
 
-- **التوثيق**: [توثيق Aspose.Imaging](https://reference.aspose.com/imaging/java/)
-- **تحميل**: [إصدارات Aspose.Imaging](https://releases.aspose.com/imaging/java/)
-- **شراء**: [شراء ترخيص Aspose.Imaging](https://purchase.aspose.com/buy)
-- **نسخة تجريبية مجانية**: [ابدأ تجربتك المجانية](https://releases.aspose.com/imaging/java/)
-- **رخصة مؤقتة**: [احصل على رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
-
-لا تتردد في استكشاف هذه الموارد والبدء في تنفيذ مشاريع معالجة الصور الخاصة بك بثقة باستخدام Aspose.Imaging for Java.
+- **التوثيق:** [توثيق Aspose.Imaging](https://reference.aspose.com/imaging/java/)  
+- **التنزيل:** [إصدارات Aspose.Imaging](https://releases.aspose.com/imaging/java/)  
+- **الشراء:** [شراء ترخيص Aspose.Imaging](https://purchase.aspose.com/buy)  
+- **النسخة التجريبية:** [ابدأ النسخة التجريبية المجانية](https://releases.aspose.com/imaging/java/)  
+- **الترخيص المؤقت:** [احصل على ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)  
+- **الدعم:** [منتدى Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
