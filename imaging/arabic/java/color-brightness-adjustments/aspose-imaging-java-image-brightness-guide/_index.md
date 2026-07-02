@@ -1,9 +1,16 @@
 ---
-"date": "2025-06-04"
-"description": "تعرّف على كيفية ضبط سطوع الصورة بكفاءة باستخدام Aspose.Imaging لجافا. يتناول هذا الدليل تحميل الصور، وتحسين أدائها، وحفظها بتنسيق TIFF."
-"title": "ضبط سطوع الصورة باستخدام Aspose.Imaging لـ Java - دليل شامل"
-"url": "/ar/java/color-brightness-adjustments/aspose-imaging-java-image-brightness-guide/"
-"weight": 1
+date: '2026-03-02'
+description: تعلم كيفية تعديل سطوع الصور باستخدام Aspose.Imaging للغة Java، مع تغطية
+  كيفية تحميل الصورة، تخزينها مؤقتًا، وكيفية حفظ ملفات TIFF بكفاءة.
+keywords:
+- Aspose.Imaging for Java
+- Java image processing
+- adjust image brightness Java
+- optimize RasterImage caching
+- image manipulation in Java
+title: كيفية تعديل السطوع باستخدام Aspose.Imaging للـ Java
+url: /ar/java/color-brightness-adjustments/aspose-imaging-java-image-brightness-guide/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,40 +18,41 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# دليل شامل لتحميل الصورة وضبط سطوعها باستخدام Aspose.Imaging لـ Java
+# كيفية تعديل السطوع باستخدام Aspose.Imaging للـ Java
 
 ## مقدمة
 
-هل تتطلع إلى تحسين قدرات معالجة الصور في تطبيق جافا الخاص بك؟ سواءً كان ذلك تحميل الصور أو تعديل سطوعها، فإن إتقان هذه المهام يُسهّل سير العمل في مشاريع متنوعة، من برامج تحرير الصور إلى أنظمة تصنيف البيانات الآلية. مع Aspose.Imaging لجافا، يحصل المطورون على أدوات فعّالة لمعالجة الصور بكفاءة وفعالية.
+هل تبحث عن تحسين قدرات معالجة الصور في تطبيق Java الخاص بك؟ سواء كنت بحاجة إلى **how to adjust brightness**، أو **how to load image**، أو **how to save TIFF**، فإن إتقان هذه المهام يمكن أن يبسط سير العمل في مشاريع تتراوح بين برامج تحرير الصور إلى أنظمة وضع العلامات التلقائية للبيانات. مع Aspose.Imaging للـ Java، يحصل المطورون على أدوات قوية لمعالجة الصور بكفاءة وفعالية.
 
-في هذا البرنامج التعليمي، سنستكشف كيفية استخدام Aspose.Imaging في جافا لتحميل صورة، وتحويلها إلى صورة نقطية، وضبط سطوعها، وحفظها بصيغة TIFF. ستتعلم تقنيات أساسية يمكن تطبيقها في سيناريوهات واقعية مختلفة.
+**ما ستتعلمه**
 
-**ما سوف تتعلمه:**
+- كيفية إعداد بيئتك باستخدام Aspose.Imaging للـ Java.  
+- **How to load image** من دليل.  
+- تقنيات لـ **how to cache image** والعمل مع `RasterImage` لأداء محسن.  
+- طرق لـ **how to adjust brightness** لـ `RasterImage`.  
+- **How to save TIFF** ملفات بخيارات محددة.
 
-- كيفية إعداد البيئة الخاصة بك باستخدام Aspose.Imaging لـ Java.
-- تعليمات خطوة بخطوة لتحميل صورة من الدليل.
-- تقنيات لتحويل RasterImage وتخزينها مؤقتًا للحصول على أداء مثالي.
-- طرق ضبط سطوع RasterImage.
-- حفظ الصور بصيغة TIFF بإعدادات محددة.
+قبل الغوص في التفاصيل، دعنا نستعرض المتطلبات الأساسية التي ستحتاجها للبدء.
 
-قبل الخوض في التفاصيل، دعنا نراجع المتطلبات الأساسية التي ستحتاجها للبدء.
+## إجابات سريعة
+- **What is the primary class for loading images?** `Image.load()` من مكتبة Aspose.Imaging.  
+- **Which method changes brightness?** `RasterImage.adjustBrightness(int value)`.  
+- **Do I need to cache the image?** التخزين المؤقت يحسن الأداء عندما تقوم بتنفيذ عمليات متعددة على نفس الصورة.  
+- **Can I save the result as TIFF?** نعم، باستخدام `TiffOptions` مع `rasterImage.save()`.  
+- **What Java version is required?** Java 8 أو أعلى.
 
 ## المتطلبات الأساسية
 
-لمتابعة هذا الدليل، تأكد من أن لديك:
-
-- فهم أساسي لبرمجة جافا والمفاهيم الموجهة للكائنات.
-- تم تثبيت JDK على بيئة التطوير الخاصة بك (يوصى باستخدام Java 8 أو أعلى).
-- بيئة التطوير المتكاملة (IDE) مثل IntelliJ IDEA أو Eclipse.
+- معرفة أساسية بـ Java (مفاهيم البرمجة الكائنية).  
+- JDK 8 أو أحدث مثبت.  
+- بيئة تطوير متكاملة مثل IntelliJ IDEA أو Eclipse.  
 - Maven أو Gradle لإدارة التبعيات.
 
-## إعداد Aspose.Imaging لـ Java
+## إعداد Aspose.Imaging للـ Java
 
-لبدء استخدام Aspose.Imaging، يجب عليك أولاً دمجه في مشروعك. يقدم هذا القسم تعليمات لأنظمة بناء مختلفة.
+### دمج Maven
 
-**تكامل Maven**
-
-أضف التبعية التالية إلى ملفك `pom.xml` ملف:
+أضف التبعية التالية إلى ملف `pom.xml` الخاص بك:
 
 ```xml
 <dependency>
@@ -54,29 +62,29 @@
 </dependency>
 ```
 
-**تكامل Gradle**
+### دمج Gradle
 
-قم بتضمين هذا في `build.gradle` ملف:
+أدرج هذا في ملف `build.gradle` الخاص بك:
 
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-**التحميل المباشر**
+### تحميل مباشر
 
-إذا كنت تفضل ذلك، قم بتنزيل أحدث ملف JAR من [إصدارات Aspose.Imaging لـ Java](https://releases.aspose.com/imaging/java/).
+إذا كنت تفضل طريقة يدوية، قم بتحميل أحدث JAR من [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-### الحصول على الترخيص
+#### الحصول على الترخيص
 
-يمكنك البدء بفترة تجريبية مجانية بتنزيل ترخيص مؤقت أو شراء ترخيص كامل إذا لزم الأمر. تفضل بزيارة [صفحة الشراء](https://purchase.aspose.com/buy) للحصول على ترخيص واتباع الإرشادات المقدمة على موقع الويب الخاص بهم للإعداد.
+يمكنك البدء بتجربة مجانية عن طريق تحميل ترخيص مؤقت أو شراء ترخيص كامل إذا لزم الأمر. زر [purchase page](https://purchase.aspose.com/buy) للحصول على ترخيص واتبع التعليمات المتوفرة على موقعهم للإعداد.
 
 ## دليل التنفيذ
 
-الآن، دعنا نقسم التنفيذ إلى خطوات منطقية، تركز كل منها على ميزة محددة من Aspose.Imaging لـ Java.
+فيما يلي **java image processing tutorial** يوجهك خلال كل خطوة. كتل الشيفرة لم تتغير عن المصدر الأصلي لضمان التوافق الكامل.
 
 ### تحميل صورة
 
-غالبًا ما يكون تحميل الصور الخطوة الأولى في معالجة الصور. مع Aspose.Imaging، هذه المهمة سهلة وفعّالة.
+تحميل الصور غالبًا ما يكون الخطوة الأولى في أي خط أنابيب لمعالجة الصور.
 
 #### الخطوة 1: استيراد المكتبات المطلوبة
 ```java
@@ -84,31 +92,29 @@ import com.aspose.imaging.Image;
 ```
 
 #### الخطوة 2: تحديد مسار الدليل
-قم بتعيين الدليل الذي يوجد به ملف الصورة:
+حدد الدليل الذي توجد فيه ملف الصورة:
 ```java
 String YOUR_DOCUMENT_DIRECTORY = "YOUR_DOCUMENT_DIRECTORY/aspose-logo.jpg";
 ```
 
 #### الخطوة 3: تحميل الصورة
-يستخدم `Image.load()` لتحميل صورة من مسار محدد.
+استخدم `Image.load()` لتحميل صورة من مسار محدد.
 ```java
 Image loadImage() {
     return Image.load(YOUR_DOCUMENT_DIRECTORY);
 }
 ```
-تقوم هذه الطريقة بتحميل صورتك في الذاكرة، لتكون جاهزة لمزيد من المعالجة.
 
-### صب وتخزين RasterImage
+### تحويل وتخزين RasterImage مؤقتًا
 
-لتحسين الأداء، يجب عليك إرسال البيانات العامة `Image` الاعتراض على `RasterImage` وتخزينها مؤقتًا إذا لزم الأمر.
+التخزين المؤقت يمكن أن يحسن الأداء بشكل كبير، خاصة عندما تحتاج إلى تطبيق عدة عمليات على نفس الصورة.
 
 #### الخطوة 1: استيراد المكتبات المطلوبة
 ```java
 import com.aspose.imaging.RasterImage;
 ```
 
-#### الخطوة 2: معالجة الصورة كصورة نقطية
-تحقق مما إذا كانت الصورة المحملة هي مثيل لـ `RasterImage`إذا كان الأمر كذلك، فتأكد من تخزينه مؤقتًا لتحسين الأداء.
+#### الخطوة 2: معالجة الصورة كـ RasterImage
 ```java
 void processRasterImage(Image image) {
     if (image instanceof RasterImage) {
@@ -120,31 +126,27 @@ void processRasterImage(Image image) {
     }
 }
 ```
-التخزين المؤقت `RasterImage` يمكن أن يؤدي ذلك إلى تسريع مهام المعالجة اللاحقة بشكل كبير.
 
-### ضبط سطوع الصورة
+### تعديل سطوع الصورة
 
-يُعدّ ضبط سطوع الصورة أمرًا شائعًا في تطبيقات تحرير الصور. إليك كيفية تحقيق ذلك باستخدام Aspose.Imaging لجافا.
+الآن بعد أن تم تخزين الصورة مؤقتًا، يمكنك تعديل سطوعها بأمان.
 
 #### الخطوة 1: استيراد المكتبات المطلوبة
-تأكد من أن وارداتك تتضمن:
 ```java
 import com.aspose.imaging.RasterImage;
 ```
 
-#### الخطوة 2: ضبط سطوع الصورة النقطية
-يستخدم `adjustBrightness()` لتعديل مستوى السطوع.
+#### الخطوة 2: تعديل سطوع الـ RasterImage
 ```java
 void adjustBrightness(RasterImage rasterImage) {
-    // زيادة أو تقليل السطوع بقيمة (على سبيل المثال، 70)
+    // Increase or decrease brightness by a value (e.g., 70)
     rasterImage.adjustBrightness(70);
 }
 ```
-تعمل هذه الطريقة على تغيير سطوع الصورة، مما يعزز من جاذبيتها البصرية.
 
-### حفظ الصورة بصيغة TIFF
+### حفظ الصورة كملف TIFF
 
-حفظ الصور بتنسيقات مختلفة أمرٌ بالغ الأهمية لضمان التوافق والجودة. إليك كيفية حفظ صورتك المُعالجة كملف TIFF مع خيارات مُحددة.
+أخيرًا، ستتعلم **how to save TIFF** ملفات بالإعدادات المطلوبة.
 
 #### الخطوة 1: استيراد المكتبات المطلوبة
 ```java
@@ -154,7 +156,6 @@ import com.aspose.imaging.imageoptions.TiffOptions;
 ```
 
 #### الخطوة 2: تكوين خيارات TIFF وحفظ الصورة
-قم بتعيين خياراتك للحفظ بتنسيق TIFF وحدد دليل الإخراج.
 ```java
 void saveAsTiff(RasterImage rasterImage) {
     TiffOptions tiffOptions = new TiffOptions(TiffExpectedFormat.Default);
@@ -165,63 +166,60 @@ void saveAsTiff(RasterImage rasterImage) {
     rasterImage.save(YOUR_OUTPUT_DIRECTORY, tiffOptions);
 }
 ```
-تضمن هذه الخطوة حفظ صورتك بجودة عالية وبالمواصفات المطلوبة.
 
-## التطبيقات العملية
+## تطبيقات عملية
 
-يمكن تطبيق فهم كيفية تحميل الصور ومعالجتها وحفظها في سياقات مختلفة:
+فهم **how to load image**، **how to cache image**، و **how to adjust brightness** يمكن أن يُطبق في العديد من السياقات:
 
-1. **برامج تحرير الصور:** قم بتعزيز أو تعديل الصور التي قام المستخدمون بتحميلها لتقديمها بشكل أفضل.
-2. **أنظمة تصنيف البيانات الآلية:** قم بمعالجة الصور مسبقًا قبل وضع العلامات عليها في مشاريع التعلم الآلي.
-3. **تطوير الويب:** إنشاء صور مصغرة بشكل ديناميكي مع مستويات سطوع محسّنة.
-
-يمكن أن يؤدي دمج Aspose.Imaging لـ Java إلى تحسين قدرات معالجة الصور في تطبيقك بشكل سلس، مما يجعله أداة متعددة الاستخدامات عبر مجالات مختلفة.
+1. **Photo Editing Software** – تحسين الصور التي يرفعها المستخدم قبل العرض.  
+2. **Automated Data‑Labeling Systems** – معالجة الصور مسبقًا لأنابيب تعلم الآلة.  
+3. **Web Development** – إنشاء صور مصغرة ديناميكيًا بمستويات سطوع مثالية.
 
 ## اعتبارات الأداء
 
-عند العمل مع عدد كبير من الصور أو الملفات عالية الدقة، يُعدّ الأداء عاملاً أساسياً. إليك بعض النصائح:
+عند معالجة ملفات كبيرة أو عالية الدقة، احرص على مراعاة النصائح التالية:
 
-- **تخزين الصور مؤقتًا:** تأكد دائمًا من تخزين الصورة مؤقتًا قبل معالجتها لتقليل أوقات التحميل.
-- **إدارة الموارد:** استخدم عبارات try-with-resources للتأكد من تحرير الموارد على الفور بعد الاستخدام.
-- **تحسين استخدام الذاكرة:** خذ بعين الاعتبار تأثير الصور الكبيرة على الذاكرة وقم بالتحسين وفقًا لذلك.
+- **Cache Images**: تحقق دائمًا من `isCached()` قبل العمليات الثقيلة.  
+- **Manage Resources**: استخدم try‑with‑resources لتحرير الذاكرة بسرعة.  
+- **Optimize Memory**: عالج الصور على دفعات أو قلل حجمها عندما يكون ذلك ممكنًا.
 
-إن الالتزام بهذه الممارسات الأفضل سيساعد في الحفاظ على الأداء السلس في تطبيقاتك.
+## مشكلات شائعة وحلول
 
-## خاتمة
+| المشكلة | الحل |
+|-------|----------|
+| `OutOfMemoryError` على ملفات كبيرة | فعّل التخزين المؤقت (`rasterImage.cacheData()`) وعالجها في قطع أصغر. |
+| تغيير السطوع غير مرئي | تأكد من أن قيمة التعديل ضمن النطاق المقبول (‑255 إلى 255). |
+| فشل حفظ TIFF | تحقق من إعدادات `TiffOptions`، خاصة `BitsPerSample` و `Photometric`. |
 
-باتباع هذا البرنامج التعليمي، ستتعلم كيفية تحميل الصور وتعديلها وحفظها بكفاءة باستخدام Aspose.Imaging for Java. هذه المهارات قيّمة للغاية في مجموعة واسعة من التطبيقات، بدءًا من تحرير الصور البسيط وصولًا إلى أنظمة معالجة الصور المعقدة.
+## الأسئلة المتكررة
 
-لمواصلة تحسين مهاراتك في برمجة Java باستخدام Aspose.Imaging، استكشف الميزات الإضافية وجرّب تنسيقات الصور والعمليات المختلفة.
+**س: ما هو الحد الأدنى لإصدار JDK المطلوب؟**  
+ج: Java 8 أو أعلى.
 
-## قسم الأسئلة الشائعة
+**س: كيف يمكنني الحصول على تجربة مجانية من Aspose.Imaging؟**  
+ج: قم بتحميل ترخيص مؤقت من [Aspose website](https://purchase.aspose.com/temporary-license/).
 
-1. **ما هو الحد الأدنى لمتطلبات الإصدار لـ JDK عند استخدام Aspose.Imaging؟**
-   - تحتاج إلى JDK 8 أو أعلى.
+**س: هل التخزين المؤقت ضروري لكل عملية على الصورة؟**  
+ج: يُنصح بالتخزين المؤقت عندما تقوم بتنفيذ عمليات متعددة على نفس الصورة؛ فهو يقلل من عبء الإدخال/الإخراج.
 
-2. **كيف يمكنني الحصول على نسخة تجريبية مجانية من Aspose.Imaging؟**
-   - تنزيل ترخيص مؤقت من [موقع Aspose](https://purchase.aspose.com/temporary-license/).
+**س: هل يمكنني تعديل خصائص أخرى غير السطوع؟**  
+ج: نعم، يدعم Aspose.Imaging أيضًا التباين، وتصحيح جاما، والمزيد.
 
-3. **هل التخزين المؤقت ضروري لكل عملية صورة؟**
-   - يوصى بالتخزين المؤقت عند إجراء عمليات متعددة على صورة لتحسين الأداء.
+**س: ما هي الأخطاء الشائعة عند حفظ ملفات TIFF؟**  
+ج: نسيان ضبط `BitsPerSample` أو استخدام قيمة `Photometric` غير مدعومة قد يسبب أخطاءً أثناء التنفيذ.
 
-4. **هل يمكنني تعديل خصائص أخرى غير السطوع؟**
-   - نعم، يدعم Aspose.Imaging تعديلات مختلفة بما في ذلك تصحيح التباين وجاما.
+## الموارد
 
-5. **ما هي المشاكل الشائعة التي تواجهك أثناء حفظ TIFF؟**
-   - تأكد من ضبط الإعدادات الصحيحة `TiffOptions` مثل البتات لكل عينة والإعدادات الضوئية لتجنب الأخطاء.
+- [Aspose.Imaging Documentation](https://reference.aspose.com/imaging/java/)  
+- [Download Aspose.Imaging for Java](https://releases.aspose.com/imaging/java/)  
+- [Purchase Licenses](https://purchase.aspose.com/buy)  
+- [Free Trial Offerings](https://releases.aspose.com/imaging/java/)  
+- [Temporary License Information](https://purchase.aspose.com/temporary-license/)  
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
-## موارد
-
-لمزيد من القراءة والدعم:
-
-- [توثيق Aspose.Imaging](https://reference.aspose.com/imaging/java/)
-- [تنزيل Aspose.Imaging لـ Java](https://releases.aspose.com/imaging/java/)
-- [شراء التراخيص](https://purchase.aspose.com/buy)
-- [عروض تجريبية مجانية](https://releases.aspose.com/imaging/java/)
-- [معلومات الترخيص المؤقت](https://purchase.aspose.com/temporary-license/)
-- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
-
-باستخدام Aspose.Imaging لجافا، يمكنك الاستفادة من إمكانيات معالجة الصور القوية التي تُسهّل عملية التطوير. برمجة ممتعة!
+**آخر تحديث:** 2026-03-02  
+**تم الاختبار مع:** Aspose.Imaging 25.5 for Java  
+**المؤلف:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
