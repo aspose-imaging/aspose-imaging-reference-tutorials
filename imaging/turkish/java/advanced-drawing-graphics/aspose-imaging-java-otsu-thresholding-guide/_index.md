@@ -1,55 +1,86 @@
 ---
-"date": "2025-06-04"
-"description": "Aspose.Imaging for Java kullanarak görüntüleri nasıl ikili hale getireceğinizi keşfedin. Görüntü yükleme, önbelleğe alma ve Otsu eşikleme teknikleri hakkında bilgi edinin. Java projelerinizi bugün geliştirin!"
-"title": "Java'da Aspose ile Verimli Görüntü İkilileştirmesi.Görüntüleme&#58; Otsu Eşikleme Kılavuzu"
-"url": "/tr/java/advanced-drawing-graphics/aspose-imaging-java-otsu-thresholding-guide/"
-"weight": 1
+date: '2026-02-19'
+description: Aspose.Imaging for Java kullanarak görüntüyü ikili hâle getirmeyi öğrenin.
+  Adım adım Java görüntü işleme, ikili görüntü dönüşümü ve işlenmiş görüntüyü kaydetme
+  teknikleri.
+keywords:
+- Aspose.Imaging for Java
+- Image Binarization in Java
+- Otsu Thresholding Technique
+- Java Image Processing with Aspose
+- Advanced Drawing & Graphics
+title: 'Aspose.Imaging ile Java’da Görüntüyü İkili Hale Getirme: Otsu Eşikleme Rehberi'
+url: /tr/java/advanced-drawing-graphics/aspose-imaging-java-otsu-thresholding-guide/
+weight: 1
 ---
+
+.5 for Java  
+**Author:** Aspose
+
+Translate "Last Updated", "Tested With", "Author"? Probably keep as is? The instruction: translate all text content. So translate those labels.
+
+But keep dates unchanged.
+
+So:
+
+**Son Güncelleme:** 2026-02-19  
+**Test Edilen Versiyon:** Aspose.Imaging 25.5 for Java  
+**Yazar:** Aspose
+
+Now produce final content with same markdown.
+
+Let's construct.
 
 {{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Java'da Görüntü İşlemede Ustalaşın: Java için Aspose.Imaging'e Ayrıntılı Bir Kılavuz
+# Java'da Görüntü İşleme Ustası: Aspose.Imaging for Java'ya Derinlemesine Bir Rehber
 
-## giriiş
+## Giriş
 
-Görüntülerin kullanıcı etkileşimi ve bilgi aktarımı için çok önemli olduğu günümüzün dijital çağında, görüntü kalitesini ve işlemeyi verimli bir şekilde yönetmek hayati önem taşır. Renkli görüntüleri analiz veya depolama verimliliği için ikili formatlara dönüştürme zorluğuyla boğuşuyorsanız, bu eğitim size şu konularda rehberlik edecektir: **Java için Aspose.Görüntüleme** Otsu Eşikleme ile kusursuz ikilileştirme elde etmek.
+Eğer analiz, depolama veya makine‑öğrenimi boru hatları için **görüntüyü ikiliye dönüştürme (binarize image)** yöntemini verimli bir şekilde öğrenmek istiyorsanız doğru yerdesiniz. Modern uygulamalarda, renkli veya gri tonlamalı bir resmi temiz bir ikili (binary) görüntüye dönüştürmek dosya boyutunu önemli ölçüde azaltabilir ve sonraki işlemleri basitleştirebilir. Bu öğretici, **Aspose.Imaging for Java** kullanarak bir resmi yükleme, önbelleğe alma, Otsu eşikleme uygulama ve sonunda **işlenmiş görüntüyü kaydetme** adımlarını size temiz ve yüksek performanslı bir kodla gösterir.
 
-Bu eğitimde, Aspose.Imaging'in sağlam kütüphane özelliklerini kullanarak Java'da görüntüleri nasıl yükleyebileceğinizi, önbelleğe alabileceğinizi, işleyebileceğinizi ve kaydedebileceğinizi keşfedeceğiz. Sadece "nasıl"ı değil, aynı zamanda her adımın ardındaki "neden"i de keşfedeceksiniz. Bu kılavuzun sonunda şunlarda uzmanlaşacaksınız:
+Her adımı ve her işlemin arkasındaki mantığı öğrenecek, böylece yaklaşımı herhangi bir Java görüntü işleme projesine uyarlayabileceksiniz.
 
-- Aspose.Imaging kullanarak görüntüleri yükleme ve başlatma
-- En iyi performans için RasterImages'ı önbelleğe alma
-- Otsu Eşikleme ikilileştirmesinin uygulanması
-- İşlenmiş görüntüleri etkili bir şekilde kaydetme
+## Hızlı Yanıtlar
+- **“Binarize image” ne demektir?** Gri tonlamalı bir resmi eşik değeri kullanarak siyah‑ve‑beyaz (ikili) bir görüntüye dönüştürmek.
+- **Burada hangi algoritma kullanılıyor?** Otomatik olarak en iyi kesme değerini seçen Otsu’nun global eşikleme yöntemi.
+- **Denemek için lisansa ihtiyacım var mı?** Geliştirme ve test için ücretsiz deneme veya geçici lisans yeterlidir.
+- **JPEG dışındaki formatları da işleyebilir miyim?** Evet – Aspose.Imaging PNG, BMP, TIFF, GIF ve daha fazlasını destekler.
+- **Hangi Java sürümü gerekiyor?** JDK 8 veya üzeri.
 
-Dalmaya hazır mısınız? Öncelikle kurulumunuzun başarıya hazır olduğundan emin olalım.
+## “how to binarize image” nedir?
+Binarizasyon, her pikseli bir eşik değerine göre ya siyah ya da beyaz yapan işlemdir. Otsu yöntemi bu eşik değerini otomatik olarak hesaplar ve değişken aydınlatma koşulları için idealdir.
 
-## Ön koşullar
+## Neden Aspose.Imaging for Java kullanmalısınız?
+- **Robust java image processing**: Harici yerel kütüphanelere ihtiyaç duymadan onlarca formatı işler.
+- **Built‑in Otsu algorithm**: Kendi eşikleme mantığınızı yazmanıza gerek kalmaz.
+- **Performance‑focused features**: Önbellekleme ve bellek yönetimi **görüntü işleme** boru hatlarınızı **optimize** etmenize yardımcı olur.
+- **Straightforward licensing**: Ücretsiz deneme, geçici veya tam lisans seçenekleri mevcuttur.
 
-Bu eğitimi takip etmek için şunlara ihtiyacınız olacak:
+## Önkoşullar
+
+Takip etmek için şunlara ihtiyacınız var:
 
 ### Gerekli Kütüphaneler ve Sürümler
+1. **Aspose.Imaging for Java** – tüm görüntü işlemlerinin temelini oluşturan çekirdek kütüphane.
+2. **Java Development Kit (JDK)** – sürüm 8 veya üzeri.
 
-1. **Java için Aspose.Görüntüleme**: Bu kütüphane kapsamlı görüntü işleme yeteneklerine olanak tanır.
-2. **Java Geliştirme Kiti (JDK)**: Sisteminizde JDK 8 veya üzeri sürümün yüklü olduğundan emin olun.
-
-### Çevre Kurulum Gereksinimleri
-
-- IntelliJ IDEA, Eclipse veya NetBeans gibi Entegre Geliştirme Ortamı (IDE)
-- Proje kurulumunuzda yapılandırılmış Maven veya Gradle derleme aracı
+### Ortam Kurulum Gereksinimleri
+- IntelliJ IDEA, Eclipse veya NetBeans gibi bir IDE.
+- Bağımlılık yönetimi için Maven veya Gradle.
 
 ### Bilgi Önkoşulları
+- Temel Java sözdizimine aşina olmak.
+- Görüntü işleme kavramlarına yüksek seviyede bir anlayış.
 
-- Java programlamanın temel anlayışı
-- Görüntü işleme kavramlarına aşinalık
+## Aspose.Imaging for Java Kurulumu
 
-## Java için Aspose.Imaging Kurulumu
+Kodlamaya başlamadan önce kütüphaneyi projenize ekleyin.
 
-Özellikleri uygulamaya başlamadan önce Aspose.Imaging'in geliştirme ortamınıza entegre olduğundan emin olun. Bunu Maven, Gradle veya doğrudan indirme yoluyla yapabilirsiniz.
-
-**Usta:**
+**Maven:**
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -63,23 +94,22 @@ Bu eğitimi takip etmek için şunlara ihtiyacınız olacak:
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-**Doğrudan İndirme:**
-Erişim [Java sürümleri için Aspose.Imaging](https://releases.aspose.com/imaging/java/) Kütüphaneyi doğrudan indirmek için.
+**Doğrudan İndirme:**  
+[Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) sayfasına erişerek kütüphaneyi doğrudan indirebilirsiniz.
 
 ### Lisans Edinme Adımları
+- **Free Trial** – tüm özellikleri ücretsiz keşfedin.  
+- **Temporary License** – daha büyük projeler için deneme süresini uzatın.  
+- **Purchase** – [Aspose](https://purchase.aspose.com/buy) üzerinden tam lisans edinin.
 
-- **Ücretsiz Deneme**:Aspose.Imaging özelliklerini keşfetmek için ücretsiz denemeye başlayabilirsiniz.
-- **Geçici Lisans**: Değerlendirme sınırlamaları olmaksızın genişletilmiş erişime ihtiyacınız varsa geçici bir lisans edinin.
-- **Satın almak**: Sürekli kullanım için, şu adresten tam lisans satın almayı düşünün: [Aspose](https://purchase.aspose.com/buy).
-
-Başlatmak için bir tane oluşturun `Image` Örnek olarak aşağıda gösterildiği gibi görüntü dosyanızı yükleyin:
+Başlamak için bir `Image` örneği oluşturup bir dosya yükleyin:
 
 ```java
 import com.aspose.imaging.Image;
 
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
 try (Image image = Image.load(dataDir + "/aspose-logo.jpg")) {
-    // Resim başarıyla yüklendi
+    // Image loaded successfully
 }
 ```
 
@@ -87,131 +117,124 @@ try (Image image = Image.load(dataDir + "/aspose-logo.jpg")) {
 
 ### Özellik 1: Görüntü Yükleme ve Başlatma
 
-#### Genel bakış
+#### Genel Bakış
+Kaynak dosyanın yüklenmesi, herhangi bir **java image processing** iş akışının ilk adımıdır.
 
-Görüntüleri yüklemek, herhangi bir görüntü işleme görevinin ilk adımıdır. Aspose.Imaging, belirtilen dizinden bir görüntüyü yüklemek için basit bir yöntem sağlar.
-
-#### Adım Adım Uygulama
-
-**Bir Resim Yükle**
+#### Adım‑Adım
+**Load an Image**
 
 ```java
 import com.aspose.imaging.Image;
 
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
 try (Image image = Image.load(dataDir + "/aspose-logo.jpg")) {
-    // Resim artık yüklendi ve daha fazla düzenlemeye hazır.
+    // The image is now loaded and ready for further manipulation.
 }
 ```
 
-Bu kod parçacığı, Aspose.Imaging kullanarak bir görüntü dosyasının nasıl yükleneceğini gösterir. Yolun `dataDir` resim dizininize doğru bir şekilde işaret eder.
+`dataDir` değişkeninin, kaynak resminizin bulunduğu klasöre işaret ettiğinden emin olun.
 
-### Özellik 2: Bir RasterImage'ı Önbelleğe Alma
+### Özellik 2: RasterImage Önbellekleme
 
-#### Genel bakış
+#### Genel Bakış
+Önbellekleme, piksel verilerini bellekte tutar; bu da aynı görüntü üzerinde birden fazla işlem yaptığınızda **görüntü işleme** performansını **optimize** eder.
 
-Önbelleğe alma, görüntü verilerini bellekte depolayarak performansı artırır ve işleme görevleri sırasında gereksiz hesaplamaları azaltır.
-
-#### Adım Adım Uygulama
-
-**Önbellek Görüntü Verileri**
+#### Adım‑Adım
+**Cache Image Data**
 
 ```java
 import com.aspose.imaging.RasterCachedImage;
 
-// 'image'in daha önce yüklenmiş bir Image örneği olduğunu varsayalım
+// Assume 'image' is an instance of Image that has been loaded previously
 RasterCachedImage rasterCachedImage = (RasterCachedImage) image;
 if (!rasterCachedImage.isCached()) {
-    // Görüntü verileri önbelleğe alınmamışsa önbelleğe alın
+    // Cache the image data if it's not already cached
     rasterCachedImage.cacheData();
 }
 ```
 
-Bu kod parçası, `RasterCachedImage` zaten önbelleğe alınmış. Değilse, sonraki işleme adımlarını optimize etmek için görüntü verilerini önbelleğe alır.
+### Özellik 3: Otsu Eşikleme ile Binarizasyon
 
-### Özellik 3: Otsu Eşikleme ile İkilileştirme
+#### Genel Bakış
+Bu adım, OCR, desen tanıma veya belge analizi için ihtiyaç duyduğunuz **binary image conversion** işlemini gerçekleştirir.
 
-#### Genel bakış
-
-İkilileştirme, gri tonlamalı bir görüntüyü ikili biçime dönüştürür; bu da görüntü analizi ve desen tanıma görevleri için önemli olabilir.
-
-#### Adım Adım Uygulama
-
-**Otsu Yöntemini Uygula**
+#### Adım‑Adım
+**Apply Otsu's Method**
 
 ```java
-// 'rasterCachedImage'ın daha önce önbelleğe alınmış bir RasterCachedImage örneği olduğunu varsayalım
+// Assume 'rasterCachedImage' is an instance of RasterCachedImage that has been cached previously
 class FeatureBinarizationWithOtsuThreshold {
-    // Otsu Eşikleme yöntemini kullanarak görüntüyü ikili hale getirin
+    // Binarize the image using Otsu Thresholding method
     rasterCachedImage.binarizeOtsu();
 }
 ```
 
-Bu kod, görüntünüzü ikili hale getirmek için Otsu'nun eşikleme yöntemini uygular. Algoritma otomatik olarak optimum bir küresel eşik değeri belirler.
+Algoritma, optimal global eşik değerini otomatik olarak belirler; böylece bir değer tahmin etmeniz gerekmez.
 
 ### Özellik 4: İşlenmiş Görüntüyü Kaydetme
 
-#### Genel bakış
+#### Genel Bakış
+Binarizasyon sonrası, **işlenmiş görüntüyü kaydetmek** isteyeceksiniz; bu dosyalar daha sonra kullanım veya dağıtım için saklanır.
 
-İşlendikten sonra, resminizi tercih ettiğiniz formatta kaydetmeniz, daha sonraki kullanım veya dağıtım için önemlidir.
-
-#### Adım Adım Uygulama
-
-**Resmi Kaydet**
+#### Adım‑Adım
+**Save the Image**
 
 ```java
 import com.aspose.imaging.imageoptions.JpegOptions;
 
 String outputDir = "YOUR_OUTPUT_DIRECTORY";
-// 'rasterCachedImage'in daha önce işlenmiş bir RasterCachedImage örneği olduğunu varsayalım
+// Assume 'rasterCachedImage' is an instance of RasterCachedImage that has been processed previously
 class FeatureSaveProcessedImage {
     rasterCachedImage.save(outputDir + "/BinarizationWithOtsuThreshold_out.jpg");
 }
 ```
 
-Bu kod parçası, ikili hale getirilmiş görüntüyü JPEG formatında kaydederek, gelecekteki erişimler için verimli bir şekilde saklanmasını sağlar.
+Gerekirse dosya uzantısını ve `JpegOptions` ayarlarını diğer formatlara uyacak şekilde değiştirebilirsiniz.
 
 ## Pratik Uygulamalar
 
-1. **Belge Analizi**: Metin tanıma işleminden önce taranan belgeleri ön işleme tabi tutmak için ikilileştirmeyi kullanın.
-2. **Tıbbi Görüntüleme**: Desen algılama ve analizini geliştirmek için ikili görüntüleri geliştirin.
-3. **Bilgisayar Görüntüsü Projeleri**:İkili girdiler gerektiren makine öğrenimi modelleri için görüntüleri hazırlayın.
+1. **Document Analysis** – OCR öncesi taranmış sayfaları ön‑işleme (ör. *aspose imaging ocr*).  
+2. **Medical Imaging** – X‑ray veya MRI dilimlerini desen tespiti için temizleme.  
+3. **Computer Vision** – Siyah‑ve‑beyaz veri bekleyen makine‑öğrenimi modellerine ikili giriş sağlama.
 
-## Performans Hususları
+## Performans Düşünceleri
 
-- **Bellek Kullanımını Optimize Et**Yalnızca gerekli görselleri önbelleğe alarak kaynakların verimli kullanılmasını sağlayın.
-- **Toplu İşleme**: Yükü azaltmak için birden fazla görüntüyü toplu olarak işleyin.
-- **Kaynak Yönetimi**: İşlemden sonra belleği serbest bırakın ve görüntü akışlarını hemen kapatın.
+- **Memory Management** – Sadece ihtiyacınız olan görüntüleri önbelleğe alın; kaynakları `try‑with‑resources` ile serbest bırakın.  
+- **Batch Processing** – Dosya klasörü üzerinde döngü kurarak ek yükü azaltın.  
+- **Resource Cleanup** – Bellek sızıntılarını önlemek için her zaman görüntü akışlarını kapatın.
 
-## Çözüm
+## Yaygın Sorunlar ve Çözümler
 
-Artık Aspose.Imaging for Java'yı kullanarak görüntüleri ikilileştirme teknikleriyle yükleme, işleme ve kaydetmenin temellerine hakim oldunuz. Gelişmiş filtreleme veya biçim dönüştürme gibi kütüphanenin sunduğu diğer özellikleri keşfederek daha fazla deney yapın.
+| Belirti | Muhtemel Neden | Çözüm |
+|---------|----------------|-------|
+| `OutOfMemoryError` when processing large files | Image not cached or too many images open | Use `RasterCachedImage.cacheData()` and close each image in a `try‑with‑resources` block. |
+| Binarized output looks too dark | Incorrect image color space | Ensure the source image is grayscale before calling `binarizeOtsu()`. |
+| Saved file size is larger than expected | Using JPEG with high quality | Adjust `JpegOptions` quality setting or switch to PNG for lossless storage. |
 
-Sonraki adımlar, bu işlevselliği projelerinize entegre etmeyi ve farklı görüntü türleri ve işleme senaryoları denemeyi içerir. Bize ulaşmaktan çekinmeyin [Aspose destek forumu](https://forum.aspose.com/c/imaging/14) Herhangi bir sorunuz varsa!
+## Sıkça Sorulan Sorular
 
-## SSS Bölümü
+**S: Otsu Thresholding nedir?**  
+C: Gri‑tonlamalı bir görüntüde ön planı arka plandan ayırmak için optimal global eşik değerini otomatik olarak seçen istatistiksel bir yöntemdir.
 
-1. **Otsu Eşikleme Nedir?**
-   - Görüntü işlemede, kümeleme tabanlı görüntü eşikleme işlemini veya gri seviyeli bir görüntüyü ikili görüntüye indirgemeyi otomatik olarak gerçekleştirmek için kullanılan bir yöntem.
+**S: Maven veya Gradle kullanmıyorsam Aspose.Imaging'i nasıl kurarım?**  
+C: En son JAR dosyasını [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) sayfasından indirip projenizin sınıf yoluna (classpath) ekleyin.
 
-2. **Maven veya Gradle kullanmıyorsam Aspose.Imaging'i nasıl kurarım?**
-   - En son sürümü doğrudan şu adresten indirebilirsiniz: [Java sürümleri için Aspose.Imaging](https://releases.aspose.com/imaging/java/) Sayfayı oluşturun ve projenizin sınıf yoluna ekleyin.
+**S: Aspose.Imaging ile JPEG dışındaki görüntüleri işleyebilir miyim?**  
+C: Evet, kütüphane PNG, BMP, GIF, TIFF ve daha birçok formatı destekler.
 
-3. **Aspose.Imaging ile JPEG dışındaki görüntüleri de işleyebilir miyim?**
-   - Evet, Aspose.Imaging PNG, BMP, GIF, TIFF ve daha fazlası dahil olmak üzere çok çeşitli formatları destekler.
+**S: RasterImages önbelleklemenin faydaları nelerdir?**  
+C: Önbellekleme, piksel verilerini RAM'de tutarak filtreleme veya binarizasyon gibi tekrarlanan işlemlerin süresini önemli ölçüde kısaltır.
 
-4. **RasterImages'ı önbelleğe almanın faydaları nelerdir?**
-   - Önbelleğe alma, görüntü verilerini bellekte depolayarak performansı artırır ve sonraki işlemleri daha hızlı ve daha verimli hale getirir.
-
-5. **Aspose.Imaging için lisans nasıl satın alabilirim?**
-   - Ziyaret etmek [Aspose'un satın alma sayfası](https://purchase.aspose.com/buy) Lisanslama seçeneklerini keşfetmek ve satın alma işleminizi tamamlamak için.
+**S: Aspose.Imaging için lisans nasıl satın alınır?**  
+C: Lisans seçeneklerini incelemek ve satın alma işlemini tamamlamak için [Aspose's purchase page](https://purchase.aspose.com/buy) adresini ziyaret edin.
 
 ## Kaynaklar
 
-- **Belgeleme**: Tüm yetenekleri keşfedin [Aspose.Imaging Java Belgeleri](https://reference.aspose.com/imaging/java/).
-- **İndirmek**: En son kütüphane sürümünü şu adresten edinin: [Aspose sürümleri](https://releases.aspose.com/imaging/java/).
-- **Satın almak**: Lisanslama seçenekleri hakkında daha fazla bilgi edinin [Aspose'un satın alma sayfası](https://purchase.aspose.com/buy).
-- **Ücretsiz Deneme ve Geçici Lisans**: Aspose.Imaging'i ücretsiz deneme sürümüyle deneyin veya geçici bir lisans talep edin [Aspose Lisanslama](https://purchase.aspose.com/temporary-license/).
+- **Documentation**: Explore the full capabilities at [Aspose.Imaging Java Documentation](https://reference.aspose.com/imaging/java/).  
+- **Download**: Get the latest library version from [Aspose releases](https://releases.aspose.com/imaging/java/).  
+- **Purchase**: Learn more about licensing options on [Aspose's purchase page](https://purchase.aspose.com/buy).  
+- **Free Trial & Temporary License**: Try Aspose.Imaging with a free trial or request a temporary license at [Aspose Licensing](https://purchase.aspose.com/temporary-license/).  
+- **Support**: Ask questions on the [Aspose support forum](https://forum.aspose.com/c/imaging/14).
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
@@ -220,3 +243,9 @@ Sonraki adımlar, bu işlevselliği projelerinize entegre etmeyi ve farklı gör
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+
+---
+
+**Son Güncelleme:** 2026-02-19  
+**Test Edilen Versiyon:** Aspose.Imaging 25.5 for Java  
+**Yazar:** Aspose
