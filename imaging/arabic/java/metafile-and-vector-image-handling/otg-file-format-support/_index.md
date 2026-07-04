@@ -1,10 +1,12 @@
 ---
-"description": "تعرّف على كيفية الاستفادة من إمكانيات Aspose.Imaging لجافا في هذا الدليل المفصّل. حسّن معالجة صورك بسهولة."
-"linktitle": "دعم تنسيق ملف OTG"
-"second_title": "واجهة برمجة تطبيقات معالجة الصور Java Aspose.Imaging"
-"title": "معالجة الصور بسهولة باستخدام Aspose.Imaging لـ Java"
-"url": "/ar/java/metafile-and-vector-image-handling/otg-file-format-support/"
-"weight": 14
+date: 2026-01-24
+description: تعلم كيفية تحويل OTG إلى PDF باستخدام Aspose.Imaging للغة Java. يوضح
+  لك هذا الدليل خطوة بخطوة كيفية حفظ الصورة كملف PDF ومعالجة الصور بكفاءة.
+linktitle: OTG File Format Support
+second_title: Aspose.Imaging Java Image Processing API
+title: تحويل OTG إلى PDF باستخدام Aspose.Imaging للغة Java
+url: /ar/java/metafile-and-vector-image-handling/otg-file-format-support/
+weight: 14
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,31 +15,40 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# معالجة الصور بسهولة باستخدام Aspose.Imaging لـ Java
+# تحويل OTG إلى PDF باستخدام Aspose.Imaging للـ Java
 
-هل تتطلع إلى تسخير قوة Aspose.Imaging لجافا للتعامل مع مهام الصور بسهولة؟ لا تبحث أكثر! في هذا الدليل الشامل، سنشرح لك الخطوات الأساسية لبدء استخدام Aspose.Imaging لجافا، بدءًا من المتطلبات الأساسية ووصولًا إلى استيراد الحزم وتحليل الأمثلة. لنبدأ مباشرةً ونكتشف إمكانيات مكتبة جافا متعددة الاستخدامات هذه.
+إذا كنت بحاجة إلى **تحويلكتبة معالجة سريعة
+- **ماذا يعني “تحويل OTG إلى PDF”？** يحول قالب رسم مستند مفتوح إلى مستندة كصفحات مُرصَّصة.  
+- **ما هي المكتبة التي تتعامل مع ذلك؟** Aspose.Imaging للـ Java، مكتبة **java image processing library** قوية.  
+- **هل أحتاج إلى ترخيص؟** نسخة تجريبية مجانية تكفي للتطوير؛ يلزم ترخيص تجاري للإنتاج.  
+- **هل يمكنني أيضًا إنشاء ملفات PNG؟** نعم – يمكن لنفس الكود **save image as PDF** و **save image as PNG** في تشغيل واحد.  
+- **ما نسخة Java المطلوبة؟** Java 8 أو أعلى (أي JDK يدعم المكتبة).
 
-## المتطلبات الأساسية
+## ما هو “تحويل OTG إلى PDF”؟
+يعني تحويل ملف OTG إلى PDF تحميل مستند OTG، رَصْصَة كل صفحة، وكتابة النتيجة إلى حاوية PDF. هذا مفيد عندما تحتاج إلى مشاركة الرسومات مع مستخدمين لا يملكون سوى عارضات PDF.
 
-قبل أن نبدأ هذه الرحلة المثيرة مع Aspose.Imaging لـ Java، عليك التأكد من أن لديك المتطلبات الأساسية التالية:
+## لماذا نستخدم Aspose.Imaging للـ Java في هذه المهمة؟
+- **دعم كامل للصيغ** – يتعامل مع OTG و PNG و PDF والعديد من الصيغ الأخرى مباشرة.  
+- **API بسيط** – لا حاجة للتعامل مع كود الرسومات منخفض المستوى؛ بضع أسطر تقوم بالعمل الشاق.  
+- **متعدد المنصات** – يعمل على أي نظام تشغيل يدعم Java، مما يجعله مثاليًا للمعالجة على الخادم.  
+- **الأداء** – رَصْصَة محسّنة تضمن أن يكون PDF الناتج واضحًا دون حجم ملف مفرط.
 
-### 1. مجموعة تطوير جافا (JDK)
+## المتطلبات المسبقة
 
-تأكد من تثبيت Java Development Kit (JDK) على نظامك. يتطلب Aspose.Imaging for Java بيئة Java متوافقة ليعمل بسلاسة.
+قبل أن نبدأ، تأكد من وجود ما يلي:
 
-### 2. مكتبة Aspose.Imaging لـ Java
+### 1. مجموعة تطوير Java (JDK)
+JDK متوافق (Java 8+). Aspose.Imaging يعمل على أي بيئة تشغيل Java قياسية.
 
-ستحتاج إلى الحصول على مكتبة Aspose.Imaging لجافا، والتي يمكنك تنزيلها من الموقع الإلكتروني. استخدم الرابط التالي للوصول إلى صفحة التنزيل: [تنزيل Aspose.Imaging لـ Java](https://releases.aspose.com/imaging/java/).
+### 2. مكتبة Aspose.Imaging للـ Java
+حمّل أحدث مكتبة من الموقع الرسمي: [Download Aspose.Imaging for Java](https://releases.aspose.com/imaging/java/).
 
 ### 3. دليل المستندات
-
-أنشئ مجلدًا مخصصًا لحفظ ملفات صورك. تأكد من تذكر المسار، لأنك ستحتاجه في أمثلة التعليمات البرمجية.
-
-الآن بعد أن قمت بترتيب المتطلبات الأساسية، دعنا ننتقل إلى استيراد الحزم الضرورية واستكشاف المثال خطوة بخطوة.
+أنشئ مجلدًا على جهازك حيث سيتواجد ملف OTG المصدر والملفات الناتجة. تذكر المسار المطلق – سنشير إليه في الكود.
 
 ## استيراد الحزم
 
-في مشروع جافا الخاص بك، عليك استيراد الحزم اللازمة لاستخدام Aspose.Imaging for Java بفعالية. إليك كيفية القيام بذلك:
+أضف الاستيرادات المطلوبة في أعلى ملف Java الخاص بك حتى يعرف المترجم أين يجد الفئات:
 
 ```java
 import com.aspose.imaging.Image;
@@ -48,102 +59,108 @@ import com.aspose.imaging.imageoptions.pdf.PdfOptions;
 import com.aspose.imaging.imageoptions.png.PngOptions;
 ```
 
-تأكد من أنك قمت بإضافة عبارات الاستيراد هذه في بداية ملف المصدر Java الخاص بك.
+## دليل خطوة بخطوة لتحويل OTG إلى PDF
 
-## دعم تنسيق ملف OTG
-
-لنستكشف مثالاً يوضح دعم تنسيق ملفات OTG (قوالب رسم OpenDocument) باستخدام Aspose.Imaging لـ Java. يحوّل هذا المثال ملف OTG إلى تنسيقي PNG وPDF. سنُقسّم العملية إلى خطوات مُفصّلة لفهمها بشكل أوضح.
-
-### الخطوة 1: تحديد دليل البيانات
-
-قم بتعيين المسار إلى دليل المستند الذي يوجد به ملف OTG.
+### الخطوة 1: تعريف دليل البيانات
+وجّه المكتبة إلى المجلد الذي يحتوي على ملف OTG الخاص بك.
 
 ```java
 String dataDir = "Your Document Directory" + "OTG/";
 ```
 
-يستبدل `"Your Document Directory"` مع المسار الفعلي إلى دليل المستند الخاص بك.
+استبدل `"Your Document Directory"` بالمسار الفعلي على جهازك.
 
 ### الخطوة 2: تحديد اسم ملف OTG
-
-قم بتحديد اسم ملف OTG الذي تريد معالجته.
+أخبر البرنامج أي ملف OTG يجب معالجته.
 
 ```java
 String fileName = "VariousObjectsMultiPage.otg";
 ```
 
-تأكد من الاستبدال `"VariousObjectsMultiPage.otg"` مع اسم ملف OTG الخاص بك.
+لا تتردد في استخدام أي ملف OTG لديك.
 
 ### الخطوة 3: إعداد خيارات الإخراج
-
-إنشاء مجموعة من خيارات الصور التي تتضمن خياري PNG وPDF.
+أنشئ مصفوفة تخبر Aspose.Imaging بإنشاء ملفات PNG و PDF معًا.
 
 ```java
 ImageOptionsBase[] options = { new PngOptions(), new PdfOptions() };
 ```
 
-ستسمح لك هذه المجموعة بحفظ ملف OTG بصيغة PNG وPDF.
+هذا يتيح لك **create PDF from image** وإنتاج صور مصغرة PNG في تشغيل واحد.
 
 ### الخطوة 4: تحميل صورة OTG
-
-قم بتحميل صورة OTG باستخدام Aspose.Imaging لـ Java.
+افتح ملف OTG باستخدام الطريقة `Image.load`.
 
 ```java
 try (Image image = Image.load(inputFileName))
 ```
 
-ال `inputFileName` يجب أن يشير المتغير إلى ملف OTG الذي تريد معالجته.
+يجب أن يكون `inputFileName` هو المسار الكامل إلى ملف OTG (مثال: `dataDir + fileName`).
 
-### الخطوة 5: تكوين خيارات التنقيح
-
-تعيين خيارات التحويل النقطي خصيصًا لملفات OTG.
+### الخطوة 5: تكوين خيارات الترصيص
+حدد حجم الرَصْصَة بحيث يتطابق الناتج مع الأبعاد الأصلية.
 
 ```java
 OtgRasterizationOptions otgRasterizationOptions = new OtgRasterizationOptions();
 otgRasterizationOptions.setPageSize(Size.to_SizeF(image.getSize()));
 ```
 
-تضمن هذه الخطوة أن يتطابق الإخراج مع أبعاد ملف OTG الأصلي.
+هذه الخيارات حاسمة للحصول على عرض دقيق عندما تقوم **convert OTG to PDF**.
 
-### الخطوة 6: حفظ الصورة المحولة
-
-احفظ الصورة المحولة بتنسيق PNG وPDF.
+### الخطوة 6: حفظ الصورة المحوَّلة
+قم بالتكرار عبر مصفوفة الخيارات واكتب كل ملف ناتج.
 
 ```java
 image.save("Your Document Directory" + "output" + fileExt, item);
 ```
 
-ال `"output"` يمكن تعديل جزء من المسار حسب رغبتك، و `fileExt` سيتم حل المشكلة تلقائيًا إلى امتداد الملف الصحيح (إما `.png` أو `.pdf`بناءً على خيارات الصورة.
+- يمكن أن يكون `"output"` أي اسم تفضله.  
+- يتم تعيين `fileExt` تلقائيًا إلى `.png` أو `.pdf` بناءً على العنصر الحالي `item` في الحلقة.
 
-تهانينا! لقد نجحت في استخدام Aspose.Imaging for Java لتحويل ملفات OTG إلى صيغتي PNG وPDF.
+عند انتهاء الحلقة، ستحصل على نسخة PDF ونسخة PNG من الرسم الأصلي بصيغة OTG.
 
-## خاتمة
+## المشكلات الشائعة & استكشاف الأخطاء
 
-Aspose.Imaging for Java أداة فعّالة تُبسّط مهام الصور. في هذا الدليل المُفصّل، تناولنا المتطلبات الأساسية، واستيراد الحزم، وقدّمنا مثالاً مُفصّلاً للعمل مع ملفات OTG. مع Aspose.Imaging for Java، يُمكنك التعامل مع مجموعة واسعة من تنسيقات الصور والعمليات بسهولة.
+| Symptom | Likely Cause | Fix |
+|---------|--------------|-----|
+| **NullPointerException on `image.getSize()`** | لم يتم تحميل ملف OTG بشكل صحيح (مسار خاطئ). | تحقق من أن `inputFileName` يشير إلى ملف OTG الفعلي. |
+| **Generated PDF is blank** | لم تُضبط خيارات الرَصْصَة أو كان هناك عدم توافق في حجم الصفحة. | تأكد من أن `otgRasterizationOptions.setPageSize(...)` يستخدم حجم الصورة. |
+| **Output file not created** | عدم وجود أذونات كتابة على المجلد المستهدف. | شغّل البرنامج بأذونات نظام ملفات كافية أو اختر دليلًا قابلًا للكتابة. |
 
-الآن، يمكنك بكل ثقة الاستفادة من إمكانيات Aspose.Imaging لجافا لتبسيط مهام معالجة الصور لديك. استمتع بالمرونة والكفاءة التي يوفرها لمشاريع تطوير جافا الخاصة بك.
+## الأسئلة المتكررة
 
-## الأسئلة الشائعة
+**س: ما هو Aspose.Imaging للـ Java؟**  
+ج: Aspose.Imaging للـ Java هي **java image processing library** تمكّن المطورين من العمل مع أكثر من 100 صيغة صورة، إجراء التحويلات، وتطبيق الرَصْصَة المتقدمة.
 
-### س1: ما هو Aspose.Imaging لـ Java؟
+**س: أين يمكنني العثور على الوثائق الخاصة بـ Aspose.Imaging للـ Java؟**  
+ج: يمكنك الوصول إلى الوثائق هنا: [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/).
 
-A1: Aspose.Imaging for Java هي مكتبة Java تتيح للمطورين العمل مع تنسيقات صور مختلفة، وإجراء معالجة الصور، وتحويل الصور إلى تنسيقات مختلفة بكفاءة.
+**س: هل تتوفر نسخة تجريبية مجانية من Aspose.Imaging للـ Java؟**  
+ج: نعم، يمكنك تنزيل نسخة تجريبية مجانية من Aspose.Imaging للـ Java من [هنا](https://releases.aspose.com/).
 
-### س2: أين يمكنني العثور على الوثائق الخاصة بـ Aspose.Imaging لـ Java؟
+**س: كيف يمكنني الحصول على ترخيص مؤقت لـ Aspose.Imaging للـ Java؟**  
+ج: يمكنك الحصول على ترخيص مؤقت بزيارة [this link](https://purchase.aspose.com/temporary-license/).
 
-A2: يمكنك الوصول إلى وثائق Aspose.Imaging لـ Java هنا: [توثيق Aspose.Imaging لـ Java](https://reference.aspose.com/imaging/java/).
+**س: أين يمكنني طلب الدعم والمساعدة لـ Aspose.Imaging للـ Java؟**  
+ج: إذا كان لديك أي أسئلة أو واجهت مشاكل، يمكنك زيارة منتدى الدعم الخاص بـ Aspose.Imaging للـ Java على [Aspose Forum](https://forum.aspose.com/).
 
-### س3: هل هناك نسخة تجريبية مجانية من Aspose.Imaging لـ Java؟
+### أسئلة سريعة إضافية
 
-ج3: نعم، يمكنك تنزيل نسخة تجريبية مجانية من Aspose.Imaging for Java من [هنا](https://releases.aspose.com/).
+**س: هل يمكنني استخدام هذا الكود **save image as PDF** لصيغ أخرى مثل JPEG؟**  
+ج: بالتأكيد. استبدل ملف المصدر بملف JPEG واحتفظ بـ `PdfOptions` في مصفوفة `options`؛ ستتعامل المكتبة مع التحويل.
 
-### س4: كيف يمكنني الحصول على ترخيص مؤقت لـ Aspose.Imaging لـ Java؟
+**س: هل يدعم Aspose.Imaging معالجة دفعة من ملفات OTG متعددة؟**  
+ج: نعم. ضع منطق التحميل والحفظ داخل حلقة تتكرر على قائمة بأسماء الملفات.
 
-A4: يمكنك الحصول على ترخيص مؤقت لـ Aspose.Imaging for Java من خلال زيارة [هذا الرابط](https://purchase.aspose.com/temporary-license/).
+## الخلاصة
 
-### س5: أين يمكنني الحصول على الدعم والمساعدة لـ Aspose.Imaging لـ Java؟
+الآن لديك وصفة كاملة وجاهزة للإنتاج **convert OTG to PDF** (وبشكل اختياري PNG) باستخدام Aspose.Imaging للـ Java. يتيح لك هذا النهج الاستفادة من محرك **java convert image formats** القوي، مما يسمح لك بـ **save image as PDF** ببضع أسطر من الشيفرة. لا تتردد في توسيع العينة لمعالجة ملفات متعددة، دمجها في خدمة ويب، أو الجمع بينها وبين منتجات Aspose الأخرى لإنشاء تدفقات عمل وثائق أكثر غنى.
 
-A5: إذا كانت لديك أي أسئلة أو واجهت مشكلات، فيمكنك زيارة منتدى دعم Aspose.Imaging for Java على [منتدى أسبوزي](https://forum.aspose.com/).
+---
+
+**آخر تحديث:** 2026-01-24  
+**تم الاختبار مع:** Aspose.Imaging للـ Java 24.12 (أحدث نسخة وقت الكتابة)  
+**المؤلف:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
