@@ -113,13 +113,13 @@ Después de que el bucle finalice, encontrará un archivo PNG junto a cada archi
 R: Es una biblioteca Java que permite a los desarrolladores trabajar con una amplia gama de formatos de imagen, incluyendo cargar, editar y convertir imágenes programáticamente.
 
 **P: ¿Dónde puedo encontrar la documentación de Aspose.Imaging for Java?**  
-R: Puede encontrar la documentación **[here](https://reference.aspose.com/imaging/java/)**. Proporciona referencias detalladas de la API y ejemplos de código.
+R: Puede encontrar la documentación **[here](https://reference.aspose.com/imaging/java/) **. Proporciona referencias detalladas de la API y ejemplos de código.
 
 **P: ¿Hay una prueba gratuita disponible para Aspose.Imaging for Java?**  
-R: Sí, puede descargar una prueba gratuita **[here](https://releases.aspose.com/)** para evaluar la biblioteca antes de comprar.
+R: Sí, puede descargar una prueba gratuita **[here](https://releases.aspose.com/) ** para evaluar la biblioteca antes de comprar.
 
 **P: ¿Cómo puedo obtener una licencia temporal para Aspose.Imaging for Java?**  
-R: Puede obtener una licencia temporal visitando **[this link](https://purchase.aspose.com/temporary-license/)**, lo cual es útil para pruebas a corto plazo.
+R: Puede obtener una licencia temporal visitando **[this link](https://purchase.aspose.com/temporary-license/) **, lo cual es útil para pruebas a corto plazo.
 
 **P: ¿Cuáles son algunos casos de uso comunes para convertir imágenes CMX a PNG?**  
 R: Los escenarios típicos incluyen generar gráficos listos para la web, preparar recursos para impresión y convertir dibujos vectoriales en imágenes raster para su inclusión en PDFs o informes.

@@ -15,41 +15,41 @@ weight: 15
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Convert WMF to SVG – Convert WMF Metafiles to Scalable Vector Graphics
+# WMF를 SVG로 변환 – WMF 메타파일을 확장 가능한 벡터 그래픽으로 변환
 
-## Introduction
+## 소개
 
-Aspose.Imaging for Java를 사용하여 **wmf를 svg로 변환하는 방법**에 대한 단계별 가이드에 오신 것을 환영합니다. 숙련된 개발자이든 이제 시작하는 개발자이든, 이 튜토리얼은 변환을 빠르고 안정적으로 수행하는 데 필요한 모든 정보를 제공합니다.
+Aspose.Imaging for Java를 사용하여 **wmf를 svg로 변환하는 방법**에 대한 후반 가이드에 게임을 환영했습니다. 숙련된 개발자이든 이제 시작하는 개발자이든, 이 튜토리얼은 변환을 빠르게 수행하는 데 필요한 모든 정보를 제공합니다.
 
-## Quick Answers
-- **변환은 무엇을 하나요?** Windows Metafile (WMF) 그래픽을 확장 가능한 SVG 마크업으로 변환합니다.  
-- **필요한 라이브러리는?** Aspose.Imaging for Java (공식 사이트에서 다운로드 가능).  
-- **라이선스가 필요합니까?** 개발 단계에서는 무료 체험판으로 가능하지만, 운영 환경에서는 상용 라이선스가 필요합니다.  
-- **출력 크기를 맞춤 설정할 수 있나요?** 예 – 래스터화 옵션을 사용해 페이지 너비와 높이를 지정할 수 있습니다.  
-- **Java 8이면 충분한가요?** 예, 라이브러리는 Java 8 이상을 지원합니다.
+## 빠른 답변
+- **변환은 무엇을 해야 할까요?** Windows 메타파일(WMF) 그래픽을 확장하여 SVG 마크업으로 변환합니다.
+- **필요한 훈련은?** Aspose.Imaging for Java (공식 사이트에서 다운로드 가능).
+- **라이선스가 필요합니까?** 개발 단계에서는 무료 체험판으로 가능하지만, 운영 환경에서는 키보드가 필요합니다.
+- **출력 크기를 맞춤 설정할 수 없나요?** 예 – 새스터화 옵션을 사용하여 파일 크기와 높이를 찾을 수 있습니다.
+- **Java 8이면 가요?** 예, 도서관은 Java8 이상을 지원합니다.
 
-## What is “convert wmf to svg”?
-WMF를 SVG로 변환한다는 것은 벡터 기반 Windows Metafile을 Scalable Vector Graphics 형식으로 다시 쓰는 것을 의미합니다. SVG는 XML 기반 포맷으로 품질 손실 없이 확대·축소가 가능하며, 브라우저와 다양한 디바이스에서 작동합니다.
+## "wmf를 svg로 변환"이란 무엇입니까?
+WMF를 SVG로 변환한다는 것은 벡터 기반 Windows 메타파일을 Scalable Vector Graphics 형식으로 다시 쓰는 것을 의미합니다. SVG는 XML 기반 형식으로 품질이 떨어지지 않고 확장·축소가 가능하며 브라우저와 다양한 기기에서 작동합니다.
 
-## Why use Aspose.Imaging for this conversion?
-- **High fidelity** – 벡터 데이터와 시각적 품질을 그대로 유지합니다.  
-- **No external dependencies** – 순수 Java 구현으로 네이티브 바이너리가 필요 없습니다.  
-- **Fine‑grained control** – 래스터화 옵션을 통해 치수, DPI 등을 세밀하게 정의할 수 있습니다.  
-- **Cross‑platform** – Windows, Linux, macOS 모두에서 동작합니다.
+## 이 변환에 Aspose.Imaging을 사용하는 이유는 무엇입니까?
+- **고충실도** – 벡터 데이터와 나타내는 품질을 그대로 유지합니다.
+- **외부 종속성 없음** – 순수 Java 특성으로 인해 바이너리가 필요하지 않습니다.
+- **세밀하게 제어** – 새스터화 옵션을 통해 크기, DPI 등을 세밀하게 정의할 수 있습니다.
+- **크로스 플랫폼** – Windows, Linux, macOS 모두에서 동작합니다.
 
-## Prerequisites
+## 전제 조건
 
 변환 과정을 진행하기 전에 다음 사전 조건을 확인하세요:
 
-1. **Java Development Environment** – Java 8 이상이 설치된 환경.  
-2. **Aspose.Imaging Library** – Aspose.Imaging for Java 라이브러리가 필요합니다. [여기](https://releases.aspose.com/imaging/java/)에서 다운로드할 수 있습니다.  
-3. **An IDE** – Eclipse, IntelliJ IDEA, NetBeans 등 어느 IDE든 이 튜토리얼에 사용할 수 있습니다.
+1. **Java 개발 환경** – Java 8의 환경이 불편합니다.
+2. **Aspose.Imaging Library** – Aspose.Imaging for Java 라이브러리가 필요합니다. [여기](https://releases.aspose.com/imaging/java/)에서 다운로드할 수 있습니다.
+3. **IDE** – Eclipse, IntelliJ IDEA, NetBeans 등 어느 IDE든 이 튜토리얼을 사용할 수 있습니다.
 
-이제 실제 단계로 들어가 보겠습니다.
+이제 실제 사이트로 접속합니다.
 
-## How to convert WMF to SVG using Aspose.Imaging
+## Aspose.Imaging을 사용하여 WMF를 SVG로 변환하는 방법
 
-### Step 1: Import Packages
+### 1단계: 패키지 가져오기
 
 Java 코드에서 WMF와 SVG 파일을 다루기 위해 필요한 Aspose.Imaging 패키지를 임포트합니다. Java 파일 상단에 다음 임포트를 추가하세요:
 
@@ -59,7 +59,7 @@ import com.aspose.imaging.imageoptions.SvgOptions;
 import com.aspose.imaging.imageoptions.WmfRasterizationOptions;
 ```
 
-### Step 2: Load the WMF Image
+### 2단계: WMF 이미지 불러오기
 
 변환하려는 WMF 이미지를 로드합니다. 자리표시자 경로를 실제 WMF 파일 위치로 교체하세요:
 
@@ -73,7 +73,7 @@ try (Image image = Image.load(dataDir + "input.wmf")) {
 }
 ```
 
-### Step 3: Set Rasterization Options
+### 3단계: 래스터화 옵션 설정
 
 `WmfRasterizationOptions` 인스턴스를 생성해 출력 치수를 정의합니다. 이 단계에서 결과 SVG의 페이지 너비와 높이를 제어할 수 있습니다:
 
@@ -83,7 +83,7 @@ options.setPageWidth(image.getWidth()); // Set the page width
 options.setPageHeight(image.getHeight()); // Set the page height
 ```
 
-### Step 4: Save as SVG
+### 4단계: SVG 파일로 저장
 
 마지막으로 WMF 이미지를 SVG 파일로 저장합니다. 이 호출은 앞서 정의한 래스터화 설정과 함께 `SvgOptions`를 사용합니다. 파일 이름은 **save svg file java** 작업을 반영합니다:
 
@@ -93,40 +93,40 @@ image.save("Your Document Directory" + "ConvertWMFMetaFileToSVG_out.svg", new Sv
 
 이렇게 하면 **wmf를 svg로 변환**하고 Java를 사용해 SVG 파일을 저장하는 작업이 완료됩니다.
 
-## Common Issues and Solutions
+## 일반적인 문제 및 해결 방법
 
-- **File not found** – `dataDir`가 올바른 폴더를 가리키는지, `input.wmf` 파일이 존재하는지 확인하세요.  
-- **Blank SVG output** – 래스터화 옵션이 원본 이미지 치수와 일치하는지 확인하세요. 크기가 맞지 않으면 빈 내용이 생성될 수 있습니다.  
-- **License exception** – 평가용 체험 라이선스는 사용 가능하지만, 운영 환경에서는 구매한 라이선스가 필요합니다.
+- **파일을 찾을 수 없습니다** – `dataDir`가 올바른 폴더를 표시, `input.wmf` 파일이 존재하는지 확인하세요.
+- **빈 SVG 출력** – 새스터화 옵션이 원본 이미지 크기를 확인하는지 확인하세요. 크기가 다른 빈 콘텐츠가 생성될 수 있습니다.
+- **라이선스 예외** – 평가용 능력은 사용 가능하지만, 운영 환경에서는 구매가 필요합니다.
 
-## Frequently Asked Questions
+## 자주 묻는 질문
 
-**Q: Aspose.Imaging for Java는 무료인가요?**  
-A: 아니요, Aspose.Imaging은 상용 라이브러리입니다. [여기](https://releases.aspose.com/)에서 무료 체험판을 받거나, [여기](https://purchase.aspose.com/buy)에서 라이선스를 구매할 수 있습니다.
+**Q: Aspose.Imaging for Java는 무료인가요?**
+A: 아니요, Aspose.Imaging은 연구소입니다. [여기](https://releases.aspose.com/)에서 무료판 경험을 받거나, [여기](https://purchase.aspose.com/buy)에서 라이선스를 구매할 수 있습니다.
 
-**Q: 상업 프로젝트에서 Aspose.Imaging for Java를 사용할 수 있나요?**  
-A: 예, 유효한 라이선스를 취득하면 상업 프로젝트에서도 사용할 수 있습니다.
+**Q: 패치 프로젝트에서 Aspose.Imaging for Java를 사용할 수 있나요?**
+A: 예, 있다면, 권한을 부여받으면 프로젝트에도 사용할 수 있습니다.
 
-**Q: Aspose.Imaging으로 변환할 수 있는 다른 이미지 포맷은 무엇인가요?**  
-A: BMP, JPEG, PNG, TIFF 등 다양한 이미지 포맷을 지원합니다.
+**Q: Aspose.Imaging으로 변환할 수 있는 다른 이미지가 무엇입니까?**
+A: BMP, JPEG, PNG, TIFF 등 다양한 이미지를 지원합니다.
 
-**Q: Aspose.Imaging 지원을 위한 커뮤니티 포럼이 있나요?**  
+**Q: Aspose.Imaging 지원을 위한 커뮤니티가 있나요?**
 A: 예, [Aspose.Imaging Forum](https://forum.aspose.com/)에서 지원 및 토론을 할 수 있습니다.
 
-**Q: Aspose.Imaging for Java와 호환되는 Java 버전은 무엇인가요?**  
+**Q: Aspose.Imaging for Java와 호환되는 Java 버전은 무엇입니까?**
 A: Java 8 이상 버전과 호환됩니다.
 
-## Conclusion
+## 결론
 
-이 튜토리얼에서는 Aspose.Imaging for Java를 사용해 **wmf를 svg로 변환**하는 전체 과정을 살펴보았습니다. 올바른 환경 설정과 몇 줄의 코드만으로 WMF 메타파일을 현대 웹 및 UI 애플리케이션에 적합한 확장 가능한 SVG 그래픽으로 손쉽게 변환할 수 있습니다.
+이 튜토리얼에서는 Aspose.Imaging for Java를 실행하는 **wmf를 svg로 변환**하는 전체 프로세스를 살펴보았습니다. 올바른 환경 설정과 몇 가지 줄의 코드만 WMF 녹음 파일을 현대적인 웹 및 UI에 맞게 확장 가능한 SVG 그래픽으로 더욱 확장할 수 있습니다.
 
-자세한 내용은 [Aspose.Imaging for Java documentation](https://reference.aspose.com/imaging/java/)의 공식 API 레퍼런스를 확인하세요.
+자세한 내용은 [Aspose.Imaging for Java 문서](https://reference.aspose.com/imaging/java/)의 공식 API를 만나보세요.
 
 ---
 
-**Last Updated:** 2025-12-30  
-**Tested With:** Aspose.Imaging for Java 24.11  
-**Author:** Aspose  
+**최종 업데이트:** 2025-12-30
+**테스트 대상:** Java 24.11용 Aspose.Imaging
+**저자:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -116,13 +116,13 @@ Setelah loop selesai, Anda akan menemukan file PNG di samping masing‑masing fi
 J: Ini adalah perpustakaan Java yang memungkinkan pengembang bekerja dengan berbagai format gambar, termasuk memuat, mengedit, dan mengonversi gambar secara programatis.
 
 **T: Di mana saya dapat menemukan dokumentasi untuk Aspose.Imaging untuk Java?**  
-J: Dokumentasi dapat ditemukan **[di sini](https://reference.aspose.com/imaging/java/)**. Dokumentasi tersebut menyediakan referensi API detail dan contoh kode.
+J: Dokumentasi dapat ditemukan **[di sini](https://reference.aspose.com/imaging/java/) **. Dokumentasi tersebut menyediakan referensi API detail dan contoh kode.
 
 **T: Apakah ada versi percobaan gratis untuk Aspose.Imaging untuk Java?**  
-J: Ya, Anda dapat mengunduh percobaan gratis **[di sini](https://releases.aspose.com/)** untuk mengevaluasi perpustakaan sebelum membeli.
+J: Ya, Anda dapat mengunduh percobaan gratis **[di sini](https://releases.aspose.com/) ** untuk mengevaluasi perpustakaan sebelum membeli.
 
 **T: Bagaimana cara mendapatkan lisensi sementara untuk Aspose.Imaging untuk Java?**  
-J: Lisensi sementara dapat diperoleh dengan mengunjungi **[tautan ini](https://purchase.aspose.com/temporary-license/)**, yang berguna untuk pengujian jangka pendek.
+J: Lisensi sementara dapat diperoleh dengan mengunjungi **[tautan ini](https://purchase.aspose.com/temporary-license/) **, yang berguna untuk pengujian jangka pendek.
 
 **T: Apa saja kasus penggunaan umum untuk mengonversi CMX ke gambar PNG?**  
 J: Skenario tipikal meliputi menghasilkan grafik siap web, menyiapkan aset untuk cetak, dan mengonversi gambar vektor menjadi raster untuk dimasukkan ke PDF atau laporan.

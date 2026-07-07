@@ -115,13 +115,13 @@ När loopen är klar hittar du en PNG-fil bredvid varje original‑CMX‑fil, re
 A: Det är ett Java‑bibliotek som gör det möjligt för utvecklare att arbeta med ett brett spektrum av bildformat, inklusive att läsa in, redigera och konvertera bilder programatiskt.
 
 **Q: Var kan jag hitta dokumentationen för Aspose.Imaging för Java?**  
-A: Du kan hitta dokumentationen **[here](https://reference.aspose.com/imaging/java/)**. Den innehåller detaljerade API‑referenser och kodexempel.
+A: Du kan hitta dokumentationen **[here](https://reference.aspose.com/imaging/java/) **. Den innehåller detaljerade API‑referenser och kodexempel.
 
 **Q: Finns det en gratis provversion av Aspose.Imaging för Java?**  
-A: Ja, du kan ladda ner en gratis provversion **[here](https://releases.aspose.com/)** för att utvärdera biblioteket innan du köper det.
+A: Ja, du kan ladda ner en gratis provversion **[here](https://releases.aspose.com/) ** för att utvärdera biblioteket innan du köper det.
 
 **Q: Hur kan jag få en tillfällig licens för Aspose.Imaging för Java?**  
-A: En tillfällig licens kan erhållas genom att besöka **[this link](https://purchase.aspose.com/temporary-license/)**, vilket är användbart för korttids‑testning.
+A: En tillfällig licens kan erhållas genom att besöka **[this link](https://purchase.aspose.com/temporary-license/) **, vilket är användbart för korttids‑testning.
 
 **Q: Vilka är vanliga användningsområden för att konvertera CMX till PNG‑bilder?**  
 A: Typiska scenarier inkluderar att skapa webbklara grafik, förbereda resurser för tryck, och konvertera vektorritningar till rasterbilder för inkludering i PDF‑filer eller rapporter.

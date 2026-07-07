@@ -116,13 +116,13 @@ A ciklus befejezése után minden eredeti CMX fájl mellett megtalálja a PNG f�
 V: Ez egy Java könyvtár, amely lehetővé teszi a fejlesztők számára, hogy széles körű képfájlformátumokkal dolgozzanak, beleértve a képek betöltését, szerkesztését és programozott konvertálását.
 
 **K: Hol találom az Aspose.Imaging for Java dokumentációját?**  
-V: A dokumentációt **[itt](https://reference.aspose.com/imaging/java/)** találja. Részletes API referenciákat és kódpéldákat tartalmaz.
+V: A dokumentációt **[itt](https://reference.aspose.com/imaging/java/) ** találja. Részletes API referenciákat és kódpéldákat tartalmaz.
 
 **K: Van ingyenes próba a Aspose.Imaging for Java-hoz?**  
-V: Igen, ingyenes próbát tölthet le **[itt](https://releases.aspose.com/)**, hogy a könyvtárat vásárlás előtt kipróbálja.
+V: Igen, ingyenes próbát tölthet le **[itt](https://releases.aspose.com/) **, hogy a könyvtárat vásárlás előtt kipróbálja.
 
 **K: Hogyan szerezhetek ideiglenes licencet az Aspose.Imaging for Java-hoz?**  
-V: Ideiglenes licencet a **[következő linken](https://purchase.aspose.com/temporary-license/)** keresztül szerezhet, amely rövid távú teszteléshez hasznos.
+V: Ideiglenes licencet a **[következő linken](https://purchase.aspose.com/temporary-license/) ** keresztül szerezhet, amely rövid távú teszteléshez hasznos.
 
 **K: Milyen gyakori felhasználási esetek vannak a CMX PNG-re konvertálásához?**  
 V: Tipikus esetek közé tartozik a webre kész grafikák előállítása, nyomtatási anyagok előkészítése, valamint a vektoros rajzok raszter képekké konvertálása PDF-ek vagy jelentések beillesztéséhez.

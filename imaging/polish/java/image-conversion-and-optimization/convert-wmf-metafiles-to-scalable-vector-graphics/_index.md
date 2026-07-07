@@ -18,41 +18,41 @@ weight: 15
 
 # Konwertuj WMF do SVG – Konwertuj pliki WMF Metafile na skalowalne grafiki wektorowe
 
-## Introduction
+## Wstęp
 
-Witamy w naszym przewodniku krok po kroku, jak **konwertować wmf do svg** przy użyciu Aspose.Imaging for Java. Niezależnie od tego, czy jesteś doświadczonym programistą, czy dopiero zaczynasz, ten tutorial dostarczy Ci wszystkiego, co potrzebne, aby wykonać konwersję szybko i niezawodnie.
+Witamy w naszym przewodniku krok po kroku, jak **konwertować wmf do svg** przy użyciu Aspose.Imaging for Java. Oprogramowanie od tego, czy jesteś doświadczonym programistą, czy dopiero zaczynasz, dziesięć tutoriali dostarczonych Ci wszystko, co potrzebne, aby naprawić szybko i niezawodnie.
 
-## Quick Answers
-- **What does the conversion do?** It transforms Windows Metafile (WMF) graphics into scalable SVG markup.  
-- **Which library is required?** Aspose.Imaging for Java (downloadable from the official site).  
-- **Do I need a license?** A free trial works for development; a commercial license is required for production.  
-- **Can I customize the output size?** Yes – rasterization options let you set page width and height.  
-- **Is Java 8 sufficient?** Yes, the library supports Java 8 and later.
+## Szybkie odpowiedzi
+- **Do czego służy konwersja?** Przekształca grafikę Windows Metafile (WMF) w skalowalny znacznik SVG.
+- **Która biblioteka jest wymagana?** Aspose.Imaging dla Java (do pobrania z oficjalnej strony).
+- **Czy potrzebuję licencji?** Bezpłatna wersja próbna działa na rzecz rozwoju; do produkcji wymagana jest licencja komercyjna.
+- **Czy mogę dostosować rozmiar wyjściowy?** Tak – opcje rasteryzacji pozwalają ustawić szerokość i wysokość strony.
+- **Czy Java 8 jest wystarczająca?** Tak, biblioteka obsługuje Java 8 i nowsze wersje.
 
-## What is “convert wmf to svg”?
-Converting WMF to SVG means taking a vector‑based Windows Metafile and rewriting it as Scalable Vector Graphics, an XML‑based format that scales without quality loss and works across browsers and devices.
+## Czym jest „konwersja WMF do SVG”?
+Konwersja WMF do SVG oznacza przepisanie wektorowego metapliku Windows na SVG w postaci Scalable Vector Graphics, formatu opartego na XML, który skaluje się bez utraty jakości i działa w różnych przeglądarkach i na różnych urządzeniach.
 
-## Why use Aspose.Imaging for this conversion?
-- **High fidelity** – preserves vector data and visual quality.  
-- **No external dependencies** – pure Java, no native binaries.  
-- **Fine‑grained control** – rasterization options let you define dimensions, DPI, and more.  
-- **Cross‑platform** – works on Windows, Linux, and macOS.
+## Dlaczego warto używać Aspose.Imaging do tej konwersji?
+- **Wysoka wierność** – zachowuje dane wektorowe i jakość wizualną.
+- **Brak zewnętrznych zależności** – czysta Java, bez natywnych plików binarnych.
+- **Precyzyjna kontrola** – opcje rasteryzacji pozwalają definiować wymiary, DPI i inne.
+- **Międzyplatformowość** – działa w systemach Windows, Linux i macOS.
 
-## Prerequisites
+## Wymagania wstępne
 
-Before we dive into the conversion process, make sure you have the following prerequisites in place:
+Zanim przejdziemy do procesu konwersji, upewnij się, że spełnione są następujące wymagania wstępne:
 
-1. **Java Development Environment** – Java 8 or newer installed on your machine.  
-2. **Aspose.Imaging Library** – You’ll need the Aspose.Imaging for Java library. You can download it from [here](https://releases.aspose.com/imaging/java/).  
-3. **An IDE** – Eclipse, IntelliJ IDEA, or NetBeans are all suitable for this tutorial.
+1. **Środowisko programistyczne Java** – na komputerze zainstalowana jest Java 8 lub nowsza.
+2. **Biblioteka Aspose.Imaging** – Będziesz potrzebować biblioteki Aspose.Imaging dla Javy. Możesz ją pobrać [tutaj](https://releases.aspose.com/imaging/java/).
+3. **Środowisko IDE** – Eclipse, IntelliJ IDEA lub NetBeans nadają się do tego samouczka.
 
-Now, let’s walk through the actual steps.
+Teraz przejdziemy przez poszczególne kroki.
 
-## How to convert WMF to SVG using Aspose.Imaging
+## Jak przekonwertować WMF do SVG za pomocą Aspose.Imaging
 
-### Step 1: Import Packages
+### Krok 1: Importowanie pakietów
 
-In your Java code, import the necessary Aspose.Imaging packages to work with WMF and SVG files. Add the following imports at the top of your Java file:
+W kodzie Java zaimportuj niezbędne pakiety Aspose.Imaging, aby obsługiwać pliki WMF i SVG. Dodaj następujące importy na początku pliku Java:
 
 ```java
 import com.aspose.imaging.Image;
@@ -60,9 +60,9 @@ import com.aspose.imaging.imageoptions.SvgOptions;
 import com.aspose.imaging.imageoptions.WmfRasterizationOptions;
 ```
 
-### Step 2: Load the WMF Image
+### Krok 2: Załaduj obraz WMF
 
-Next, load the WMF image you want to convert. Replace the placeholder path with the actual location of your WMF file:
+Następnie załaduj obraz WMF, który chcesz przekonwertować. Zastąp ścieżkę zastępczą rzeczywistą lokalizacją pliku WMF:
 
 ```java
 // The path to the documents directory.
@@ -74,9 +74,9 @@ try (Image image = Image.load(dataDir + "input.wmf")) {
 }
 ```
 
-### Step 3: Set Rasterization Options
+### Krok 3: Ustaw opcje rasteryzacji
 
-Create an instance of `WmfRasterizationOptions` to define the output dimensions. This step lets you control the page width and height of the resulting SVG:
+Utwórz instancję `WmfRasterizationOptions`, aby zdefiniować wymiary wyjściowe. Ten krok pozwala kontrolować szerokość i wysokość strony wynikowego pliku SVG:
 
 ```java
 final WmfRasterizationOptions options = new WmfRasterizationOptions();
@@ -84,50 +84,50 @@ options.setPageWidth(image.getWidth()); // Set the page width
 options.setPageHeight(image.getHeight()); // Set the page height
 ```
 
-### Step 4: Save as SVG
+### Krok 4: Zapisz jako SVG
 
-Finally, save the WMF image as an SVG file. This call uses `SvgOptions` together with the rasterization settings you defined earlier. The file name reflects the **save svg file java** operation:
+Na koniec zapisz obraz WMF jako plik SVG. To wywołanie używa `SvgOptions` wraz z ustawieniami rasteryzacji zdefiniowanymi wcześniej. Nazwa pliku odzwierciedla operację **zapisywania pliku SVG Java**:
 
 ```java
 image.save("Your Document Directory" + "ConvertWMFMetaFileToSVG_out.svg", new SvgOptions() {{ setVectorRasterizationOptions(options); }});
 ```
 
-That’s it! You have successfully **converted wmf to svg** and saved the SVG file using Java.
+To wszystko! Udało Ci się **przekonwertować plik wmf na svg** i zapisać plik SVG za pomocą Javy.
 
-## Common Issues and Solutions
+## Typowe problemy i rozwiązania
 
-- **File not found** – Verify that `dataDir` points to the correct folder and that `input.wmf` exists.  
-- **Blank SVG output** – Ensure the rasterization options match the source image dimensions; mismatched sizes can lead to empty content.  
-- **License exception** – A trial license works for evaluation, but you’ll need a purchased license for production use.
+- **Nie znaleziono pliku** – Sprawdź, czy `dataDir` wskazuje na właściwy folder i czy `input.wmf` istnieje.
+- **Pusty plik wyjściowy SVG** – Upewnij się, że opcje rasteryzacji są zgodne z wymiarami obrazu źródłowego; niezgodne rozmiary mogą prowadzić do pustej zawartości.
+- **Wyjątek licencji** – Licencja próbna działa w celach ewaluacyjnych, ale do użytku produkcyjnego wymagana jest zakupiona licencja.
 
-## Frequently Asked Questions
+## Często zadawane pytania
 
-**Q: Is Aspose.Imaging for Java free?**  
-A: No, Aspose.Imaging is a commercial library. You can get a free trial from [here](https://releases.aspose.com/), or consider purchasing a license from [here](https://purchase.aspose.com/buy).
+**P: Czy Aspose.Imaging dla Javy jest darmowy?**
+O: Nie, Aspose.Imaging to biblioteka komercyjna. Możesz pobrać bezpłatną wersję próbną [tutaj](https://releases.aspose.com/) lub rozważyć zakup licencji [tutaj](https://purchase.aspose.com/buy).
 
-**Q: Can I use Aspose.Imaging for Java in my commercial projects?**  
-A: Yes, you can use Aspose.Imaging for Java in commercial projects by obtaining a valid license.
+**P: Czy mogę używać Aspose.Imaging for Java w moich projektach komercyjnych?**
+O: Tak, możesz używać Aspose.Imaging for Java w projektach komercyjnych po uzyskaniu ważnej licencji.
 
-**Q: What other image formats can I convert with Aspose.Imaging for Java?**  
-A: Aspose.Imaging supports a wide range of image formats, including BMP, JPEG, PNG, TIFF, and more.
+**P: Jakie inne formaty obrazów mogę konwertować za pomocą Aspose.Imaging for Java?**
+O: Aspose.Imaging obsługuje szeroką gamę formatów obrazów, w tym BMP, JPEG, PNG, TIFF i inne.
 
-**Q: Is there a community forum for Aspose.Imaging support?**  
-A: Yes, you can find a community forum for support and discussions at [Aspose.Imaging Forum](https://forum.aspose.com/).
+**P: Czy istnieje forum społecznościowe poświęcone wsparciu Aspose.Imaging?**
+O: Tak, forum społecznościowe poświęcone wsparciu i dyskusjom znajdziesz na [Forum Aspose.Imaging](https://forum.aspose.com/).
 
-**Q: What version of Java is compatible with Aspose.Imaging for Java?**  
-A: Aspose.Imaging for Java is compatible with Java 8 and later versions.
+**P: Która wersja Javy jest zgodna z Aspose.Imaging for Java?**
+O: Aspose.Imaging for Java jest zgodny z Javą 8 i nowszymi wersjami.
 
-## Conclusion
+## Podsumowanie
 
-In this tutorial, we walked through the complete process of **convert wmf to svg** using Aspose.Imaging for Java. With the right setup and a few lines of code, you can seamlessly transform WMF metafiles into scalable SVG graphics, ready for modern web and UI applications.
+W tym samouczku przeprowadziliśmy przez cały proces **konwersji plików WMF do SVG** za pomocą Aspose.Imaging for Java. Dzięki odpowiedniej konfiguracji i kilku linijkom kodu można bezproblemowo przekształcić metapliki WMF w skalowalną grafikę SVG, gotową do użycia w nowoczesnych aplikacjach internetowych i interfejsach użytkownika.
 
-For more details, explore the official API reference at the [Aspose.Imaging for Java documentation](https://reference.aspose.com/imaging/java/).
+Aby uzyskać więcej informacji, zapoznaj się z oficjalną dokumentacją API w [dokumentacji Aspose.Imaging for Java](https://reference.aspose.com/imaging/java/).
 
 ---
 
-**Last Updated:** 2025-12-30  
-**Tested With:** Aspose.Imaging for Java 24.11  
-**Author:** Aspose  
+**Ostatnia aktualizacja:** 2025-12-30
+**Testowano z:** Aspose.Imaging for Java 24.11
+**Autor:** Aspose 
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -1,5 +1,5 @@
 ---
-title: How to Save SVG: Convert Images with Aspose.Imaging for Java
+title: How to Save SVG - Convert Images with Aspose.Imaging for Java
 linktitle: Convert Various Image Formats to SVG
 second_title: Aspose.Imaging Java Image Processing API
 description: Learn how to save SVG and convert image to SVG using Aspose.Imaging for Java. Supports PNG, JPEG and other formats in a few lines of code.
@@ -86,28 +86,6 @@ Aspose.Imaging analyzes the raster data, traces edges, and creates vector paths 
 - **Report generation:** Embed SVG charts in PDFs or HTML reports for scalable visualizations.  
 - **Batch processing:** Loop through a folder of images and automate conversion with a simple `for` loop.  
 - **Pro tip:** For complex images, consider adjusting the `VectorRasterizationOptions` (not shown here) to fine‑tune the conversion quality.
-
-## Frequently Asked Questions (Original)
-
-### Q1: Is Aspose.Imaging for Java compatible with different image formats?
-
-A1: Yes, Aspose.Imaging for Java supports a wide range of image formats, making it versatile and suitable for various applications.
-
-### Q2: Can I use Aspose.Imaging for Java in both commercial and personal projects?
-
-A2: Absolutely. Aspose.Imaging for Java offers licensing options for both commercial and personal use, ensuring flexibility for developers.
-
-### Q3: Are there any limitations in the free trial version?
-
-A3: The free trial version of Aspose.Imaging for Java provides full functionality but is subject to certain usage limitations. Consider obtaining a temporary license for unrestricted usage.
-
-### Q4: Where can I find additional support and resources?
-
-A4:  any questions, support, or further assistance, visit the [Aspose.Imaging for Java forum](https://forum.aspose.com/). You can also refer to the [documentation](https://reference.aspose.com/imaging/java/) for comprehensive guidance.
-
-### Q5: What are the benefits of using SVG format for images?
-
-A5: SVG is a scalable and XML-based image format that offers high-quality vector graphics. It is widely supported across various platforms and browsers, making it an excellent choice for web development and responsive design.
 
 ## Additional FAQ
 

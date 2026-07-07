@@ -116,13 +116,13 @@ Po zakończeniu pętli znajdziesz plik PNG obok każdego oryginalnego pliku CMX,
 A: To biblioteka Java, która umożliwia programistom pracę z szeroką gamą formatów obrazów, w tym ładowanie, edycję i konwersję obrazów programowo.
 
 **P: Gdzie mogę znaleźć dokumentację Aspose.Imaging for Java?**  
-A: Dokumentację znajdziesz **[tutaj](https://reference.aspose.com/imaging/java/)**. Zawiera szczegółowe odniesienia do API oraz przykłady kodu.
+A: Dokumentację znajdziesz **[tutaj](https://reference.aspose.com/imaging/java/) **. Zawiera szczegółowe odniesienia do API oraz przykłady kodu.
 
 **P: Czy dostępna jest darmowa wersja próbna Aspose.Imaging for Java?**  
-A: Tak, możesz pobrać darmową wersję próbną **[tutaj](https://releases.aspose.com/)**, aby ocenić bibliotekę przed zakupem.
+A: Tak, możesz pobrać darmową wersję próbną **[tutaj](https://releases.aspose.com/) **, aby ocenić bibliotekę przed zakupem.
 
 **P: Jak mogę uzyskać tymczasową licencję na Aspose.Imaging for Java?**  
-A: Tymczasową licencję można uzyskać, odwiedzając **[ten link](https://purchase.aspose.com/temporary-license/)**, co jest przydatne do krótkoterminowego testowania.
+A: Tymczasową licencję można uzyskać, odwiedzając **[ten link](https://purchase.aspose.com/temporary-license/) **, co jest przydatne do krótkoterminowego testowania.
 
 **P: Jakie są typowe przypadki użycia konwersji CMX na obrazy PNG?**  
 A: Typowe scenariusze obejmują generowanie grafik gotowych do publikacji w sieci, przygotowywanie zasobów do druku oraz konwersję rysunków wektorowych na obrazy rastrowe do włączenia w PDF-y lub raporty.
