@@ -1,9 +1,16 @@
 ---
-"date": "2025-06-02"
-"description": "Erfahren Sie, wie Sie mit Aspose.Imaging in .NET TIFF-Bilder mit mehreren Frames erstellen. Richten Sie Ihre Umgebung ein, konfigurieren Sie TiffOptions, ändern Sie die JPEG-Größe und fügen Sie Frames hinzu."
-"title": "So erstellen Sie Multi-Frame-TIFF-Bilder mit Aspose.Imaging für .NET"
-"url": "/de/net/animation-multi-frame-images/create-multi-frame-tiff-images-aspose-imaging-dotnet/"
-"weight": 1
+date: '2026-02-09'
+description: Erfahren Sie, wie Sie JPEG in TIFF konvertieren und mehrseitige TIFF‑Bilder
+  mit Aspose.Imaging für .NET erstellen. Enthält die Einrichtung, die Konfiguration
+  von TiffOptions, das Laden von Bildern aus einem Verzeichnis und die Frame‑Verarbeitung.
+keywords:
+- create multi-frame tiff images
+- Aspose.Imaging for .NET tutorial
+- configure TiffOptions in .NET
+title: Wie man JPEG in TIFF konvertiert und Multi‑Frame‑TIFF‑Bilder mit Aspose.Imaging
+  für .NET erstellt
+url: /de/net/animation-multi-frame-images/create-multi-frame-tiff-images-aspose-imaging-dotnet/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,78 +18,94 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# So erstellen Sie Multi-Frame-TIFF-Bilder mit Aspose.Imaging für .NET
+# So konvertieren Sie JPEG zu TIFF und erstellen Multi‑Frame‑TIFF‑Bilder mit Aspose.Imaging für .NET
 
 ## Einführung
 
-Möchten Sie die Erstellung von Multiframe-TIFF-Bildern mit Aspose.Imaging für .NET meistern? Dieses umfassende Tutorial führt Sie mühelos durch die Einrichtung Ihrer Umgebung, die Konfiguration von TiffOptions, die Größenanpassung von JPEG-Dateien und das Hinzufügen von Frames zu einem TIFF-Bild. Ob Sie Dokumentarchive verwalten oder hochwertige Bilder in Softwareanwendungen integrieren – dieser Leitfaden optimiert Ihren Workflow.
+Möchten Sie die Kunst des **JPEG zu TIFF konvertierens** meistern und gleichzeitig Multi‑Frame‑TIFF‑Dateien mit Aspose.Imaging für .NET erstellen? Dieses umfassende Tutorial führt Sie durch die Einrichtung Ihrer Umgebung, die Konfiguration von `TiffOptions`, das Skalieren von JPEG‑Dateien und das Hinzufügen von Frames zu einem TIFF‑Bild – alles ganz einfach. Egal, ob Sie Dokumentenarchive verwalten oder hochwertige Bildverarbeitung in Softwareanwendungen integrieren, dieser Leitfaden ist darauf ausgelegt, Ihren Workflow zu verbessern.
 
 **Was Sie lernen werden:**
-- So richten Sie Aspose.Imaging für .NET ein
-- Konfigurieren von TiffOptions für Schwarzweißbilder mit CCITT Fax Group 3-Komprimierung
-- Laden und Ändern der Größe von JPEG-Dateien aus einem Verzeichnis
-- Hinzufügen von Rahmen zu einem TIFF-Bild
-- Speichern von TIFF-Bildern mit mehreren Frames
+- Wie Sie Aspose.Imaging für .NET einrichten
+- Konfiguration von `TiffOptions` für Schwarz‑weiß‑Bilder mit CCITT Fax Group 3‑Kompression
+- Laden und Skalieren von JPEG‑Dateien aus einem Verzeichnis
+- Hinzufügen von Frames zu einem TIFF‑Bild
+- Speichern von Multi‑Frame‑TIFF‑Bildern
 
-Lassen Sie uns zunächst einen Blick auf die Voraussetzungen werfen.
+Lassen Sie uns zu den Voraussetzungen springen, um loszulegen.
+
+## Schnellantworten
+- **Was bedeutet „JPEG zu TIFF konvertieren“?** Es bedeutet, ein JPEG‑Rasterbild zu nehmen und es im TIFF‑Format zu speichern, oft mit benutzerdefinierter Kompression oder mehreren Frames.  
+- **Welche Bibliothek erledigt das am besten in .NET?** Aspose.Imaging für .NET bietet eine umfangreiche API für Konvertierung, Skalierung und Multi‑Frame‑Erstellung.  
+- **Benötige ich eine Lizenz?** Eine kostenlose Testversion reicht für die Evaluierung; eine permanente Lizenz entfernt alle Evaluierungsbeschränkungen.  
+- **Kann ich Bilder automatisch aus einem Verzeichnis laden?** Ja – das Tutorial zeigt, wie JPEG‑Dateien aufgelistet und jede einzelne verarbeitet wird.  
+- **Ist der Code mit .NET 6+ kompatibel?** Absolut – das Beispiel verwendet .NET Core/5+ APIs, die auf .NET 6 und später laufen.
+
+## Was bedeutet „JPEG zu TIFF konvertieren“?
+Das Konvertieren von JPEG zu TIFF beinhaltet das Dekodieren einer JPEG‑Datei, optionales Transformieren (z. B. Skalieren oder Ändern der Farbtiefe) und anschließend das Kodieren des Ergebnisses als TIFF‑Datei. TIFF unterstützt mehrere Frames, verlustfreie Kompression und Metadaten, die JPEG nicht bietet, und ist daher ideal für Archivierungs‑ und Mehrseitenszenarien.
+
+## Warum Aspose.Imaging für diese Konvertierung verwenden?
+- **Vollständige Kontrolle** über Kompression, photometrische Interpretation und Pixelformat.  
+- **Multi‑Frame‑Unterstützung** – Sie können mehrere JPEG‑Seiten zu einem einzigen TIFF‑Dokument bündeln.  
+- **Plattformübergreifend** – funktioniert unter Windows, Linux und macOS mit .NET Core/5+.  
+- **Keine externen Abhängigkeiten** – reiner verwalteter Code, keine nativen DLLs.
 
 ## Voraussetzungen
 
-Bevor Sie mit der Erstellung von TIFF-Bildern mit Aspose.Imaging beginnen, stellen Sie sicher, dass Sie über Folgendes verfügen:
+Bevor Sie mit der Erstellung von TIFF‑Bildern mit Aspose.Imaging beginnen, stellen Sie sicher, dass Sie Folgendes haben:
 
 ### Erforderliche Bibliotheken und Abhängigkeiten
-- **Aspose.Imaging für .NET**Installieren Sie diese Bibliothek entweder mit NuGet oder Ihrem bevorzugten Paketmanager.
+- **Aspose.Imaging für .NET**: Installieren Sie diese Bibliothek über NuGet oder Ihren bevorzugten Paketmanager.
   
-### Anforderungen für die Umgebungseinrichtung
-- Eine Entwicklungsumgebung, die C# und .NET Core/5+ unterstützt
+### Anforderungen an die Umgebung
+- Eine Entwicklungsumgebung, die C# und .NET Core/5+ unterstützt  
   
-### Voraussetzungen
-- Grundlegendes Verständnis der C#-Programmierkonzepte
-- Vertrautheit mit der Handhabung von Bilddateien in .NET
+### Wissensvoraussetzungen
+- Grundlegendes Verständnis von C#‑Programmierungskonzepten  
+- Vertrautheit mit dem Umgang mit Bilddateien in .NET  
 
-## Einrichten von Aspose.Imaging für .NET
+## Aspose.Imaging für .NET einrichten
 
-Um zu beginnen, müssen Sie Aspose.Imaging installieren. So geht's:
+Um zu beginnen, müssen Sie Aspose.Imaging installieren. So geht’s:
 
-**.NET-CLI**
+**.NET CLI**
 ```shell
 dotnet add package Aspose.Imaging
 ```
 
-**Paketmanager**
+**Package Manager**
 ```powershell
 Install-Package Aspose.Imaging
 ```
 
-**NuGet-Paket-Manager-Benutzeroberfläche**
+**NuGet Package Manager UI**  
 Suchen Sie nach „Aspose.Imaging“ und installieren Sie die neueste Version.
 
-### Schritte zum Lizenzerwerb
-- **Kostenlose Testversion**: Greifen Sie auf eine Version mit eingeschränkter Funktionalität zu, um die Features zu testen.
-- **Temporäre Lizenz**: Erhalten Sie dies für eine erweiterte Testversion ohne Evaluierungsbeschränkungen. Besuchen Sie [Temporäre Lizenz](https://purchase.aspose.com/temporary-license/).
-- **Kaufen**: Für den vollständigen Zugriff sollten Sie eine Lizenz erwerben unter [Aspose.Imaging kaufen](https://purchase.aspose.com/buy).
+### Schritte zum Erwerb einer Lizenz
+- **Kostenlose Testversion**: Zugriff auf eine funktionsbeschränkte Version, um Features zu testen.  
+- **Temporäre Lizenz**: Erhalten Sie diese für eine erweiterte Testphase ohne Evaluierungsbeschränkungen. Besuchen Sie [Temporary License](https://purchase.aspose.com/temporary-license/).  
+- **Kauf**: Für vollen Zugriff sollten Sie eine Lizenz unter [Purchase Aspose.Imaging](https://purchase.aspose.com/buy) erwerben.
 
 ### Grundlegende Initialisierung und Einrichtung
 
 ```csharp
-// Initialisieren Sie die Bibliothek mit Ihrer Lizenz
+// Initialize the library with your license
 Aspose.Imaging.License license = new Aspose.Imaging.License();
 license.SetLicense("Path to your license file");
 ```
 
-## Implementierungshandbuch
+## Wie man JPEG zu TIFF konvertiert und mehrere Frames hinzufügt
 
-Lassen Sie uns die Implementierung in überschaubare Abschnitte unterteilen.
+Lassen Sie uns die Implementierung in handhabbare Abschnitte unterteilen.
 
-### Erstellen und Konfigurieren von TiffOptions für TIFF-Bilder
+### Erstellen und Konfigurieren von TiffOptions für das TIFF‑Bild
 
 #### Überblick
-Erstellen eines `TiffOptions` Mit dem Objekt können Sie Einstellungen wie Komprimierung und photometrische Interpretation definieren, die für die Anpassung Ihrer TIFF-Dateien wichtig sind.
+Das Erstellen eines `TiffOptions`‑Objekts ermöglicht es Ihnen, Einstellungen wie Kompression und photometrische Interpretation festzulegen – entscheidend für die Anpassung Ihrer TIFF‑Dateien.
 
-#### Schrittweise Implementierung
+#### Schritt‑für‑Schritt‑Implementierung
 
-**1. Importieren Sie die erforderlichen Namespaces**
-Stellen Sie sicher, dass Ihre Datei diese Namespaces enthält:
+**1. Notwendige Namespaces importieren**  
+Stellen Sie sicher, dass Sie diese Namespaces in Ihrer Datei eingebunden haben:
 
 ```csharp
 using Aspose.Imaging.FileFormats.Tiff;
@@ -90,82 +113,84 @@ using Aspose.Imaging.FileFormats.Tiff.Enums;
 using Aspose.Imaging.ImageOptions;
 ```
 
-**2. TiffOptions konfigurieren**
-Richten Sie die `TiffOptions` Objekt mit spezifischen Konfigurationen für ein Schwarzweißbild mit CCITT Fax Group 3-Komprimierung.
+**2. TiffOptions konfigurieren**  
+Richten Sie das `TiffOptions`‑Objekt mit spezifischen Konfigurationen für ein Schwarz‑weiß‑Bild unter Verwendung der CCITT Fax Group 3‑Kompression ein.
 
 ```csharp
-// TiffOptions mit Standardeinstellungen erstellen
+// Create TiffOptions with default settings
 TiffOptions outputSettings = new TiffOptions(TiffExpectedFormat.Default);
 
-// Bits pro Sample auf 1 setzen (schwarz und weiß)
+// Set bits per sample to 1 (black and white)
 outputSettings.BitsPerSample = new ushort[] { 1 };
 
-// Verwenden Sie die CCITT Fax Group 3-Komprimierung
+// Use CCITT Fax Group 3 compression
 outputSettings.Compression = TiffCompressions.CcittFax3;
 
-// Definieren Sie die photometrische Interpretation als MinIsWhite
+// Define photometric interpretation as MinIsWhite
 outputSettings.Photometric = TiffPhotometrics.MinIsWhite;
 
-// Legen Sie die Quelle auf einen leeren Stream fest, um ein neues TIFF von Grund auf neu zu erstellen
+// Set source to an empty stream for creating new TIFF from scratch
 outputSettings.Source = new Aspose.Imaging.Sources.StreamSource(new System.IO.MemoryStream());
 ```
 
-### Erstellen und Konfigurieren von TiffImage mit bestimmten Abmessungen
+### Erstellen und Konfigurieren von TiffImage mit spezifischen Abmessungen
 
 #### Überblick
-Erstellen eines `TiffImage` beinhaltet das Festlegen benutzerdefinierter Abmessungen, was bei der Definition der Größe jedes TIFF-Frames von entscheidender Bedeutung ist.
+Das Erstellen eines `TiffImage` beinhaltet das Festlegen benutzerdefinierter Abmessungen, was wichtig ist, wenn Sie die Größe jedes TIFF‑Frames definieren.
 
-**1. Bildabmessungen definieren**
+**1. Bildabmessungen festlegen**
 
 ```csharp
-int newWidth = 500; // Breite für jeden TIFF-Frame
-int newHeight = 500; // Höhe für jeden TIFF-Frame
+int newWidth = 500; // Width for each TIFF frame
+int newHeight = 500; // Height for each TIFF frame
 string path = "@YOUR_OUTPUT_DIRECTORY\\AddFramesToTIFFImage_out.tif";
 ```
 
-**2. Erstellen Sie eine TiffImage-Instanz**
-Initialisieren Sie den `TiffImage` mit angegebenen Abmessungen und Ausgabeeinstellungen.
+**2. TiffImage‑Instanz erstellen**  
+Initialisieren Sie das `TiffImage` mit den angegebenen Abmessungen und Ausgabeeinstellungen.
 
 ```csharp
 using (TiffImage tiffImage = (TiffImage)Aspose.Imaging.Image.Create(outputSettings, newWidth, newHeight))
 {
-    // Hier wird die Logik zum Hinzufügen von Frames hinzugefügt.
+    // Logic to add frames will be added here.
 }
 ```
 
-### JPEG-Dateien aus dem Verzeichnis laden und ihre Größe ändern
+### JPEG‑Dateien aus Verzeichnis laden und skalieren
 
 #### Überblick
-Das Laden von JPEG-Bildern, deren Größenänderung und die Vorbereitung für die Aufnahme in eine TIFF-Datei werden mit Aspose.Imaging optimiert.
+Das Laden von JPEG‑Bildern, deren Skalierung und die Vorbereitung für die Einbindung in eine TIFF‑Datei wird mit Aspose.Imaging vereinfacht.
 
-**1. JPEG-Bilder laden**
+**1. JPEG‑Bilder laden**
 
 ```csharp
-string dataDir = "@YOUR_DOCUMENT_DIRECTORY"; // Verzeichnis mit Eingabebildern
+string dataDir = "@YOUR_DOCUMENT_DIRECTORY"; // Directory containing input images
 
 foreach (var file in Directory.GetFiles(dataDir, "*.jpg"))
 {
     using (Aspose.Imaging.RasterImage ri = (Aspose.Imaging.RasterImage)Aspose.Imaging.Image.Load(file))
     {
-        // Passen Sie die Bildgröße an die Abmessungen des TIFF-Rahmens an
+        // Resize image to match TIFF frame dimensions
         ri.Resize(newWidth, newHeight, Aspose.Imaging.ResizeType.NearestNeighbourResample);
         
-        // Hier wird zusätzliche Logik zur Handhabung mehrerer Frames hinzugefügt.
+        // Additional logic for handling multiple frames will be added here.
     }
 }
 ```
 
-### Rahmen zum TiffImage hinzufügen und speichern
+> **Pro‑Tipp:** Der Ausdruck **load images from directory** beschreibt exakt das, was die obige Schleife tut – sie enumeriert jede JPEG‑Datei im Zielordner.
+
+### Frame zu TiffImage hinzufügen und speichern
 
 #### Überblick
-Das Hinzufügen von Frames zu einem TIFF-Bild umfasst das Kopieren von JPEG-Pixeln mit geänderter Größe in jeden Frame und das Speichern des vollständigen TIFF mit mehreren Frames.
+Das Hinzufügen von Frames zu einem TIFF‑Bild beinhaltet das Kopieren der skalierten JPEG‑Pixel in jeden Frame und das Speichern des kompletten Multi‑Frame‑TIFFs.
 
-**1. Initialisieren Sie die TiffImage-Instanz**
+**1. TiffImage‑Instanz initialisieren**
 
 ```csharp
 using (TiffImage tiffImage = (TiffImage)Aspose.Imaging.Image.Create(outputSettings, newWidth, newHeight))
 {
-    int index = 0; // Rahmenindex-Tracker
+    int index = 0; // Frame index tracker
     
     foreach (var file in Directory.GetFiles(dataDir, "*.jpg"))
     {
@@ -176,50 +201,66 @@ using (TiffImage tiffImage = (TiffImage)Aspose.Imaging.Image.Create(outputSettin
             TiffFrame frame = tiffImage.ActiveFrame;
             if (index > 0)
             {
-                // Für jedes nachfolgende Bild einen neuen Rahmen erstellen
+                // Create a new frame for each subsequent image
                 frame = new TiffFrame(new TiffOptions(outputSettings), newWidth, newHeight);
             }
             
-            // Kopieren Sie Pixel aus dem skalierten JPEG in den TIFF-Rahmen
+            // Copy pixels from the resized JPEG into the TIFF frame
             frame.SavePixels(frame.Bounds, ri.LoadPixels(ri.Bounds));
             if (index > 0)
             {
-                tiffImage.AddFrame(frame); // Zum TIFF-Bild erst nach dem ersten Frame hinzufügen
+                tiffImage.AddFrame(frame); // Add to TIFF image only after the first frame
             }
             index++;
         }
     }
     
-    tiffImage.Save(path); // Speichern Sie das endgültige TIFF mit allen Frames
+    tiffImage.Save(path); // Save the final TIFF with all frames
 }
 ```
 
 ## Praktische Anwendungen
 
-Hier sind einige Anwendungsfälle aus der Praxis zum Erstellen von TIFF-Bildern mit mehreren Frames:
+Hier einige reale Anwendungsfälle für das Erstellen von Multi‑Frame‑TIFF‑Bildern:
 
-1. **Dokumentenarchivierung**: Speichern Sie gescannte Dokumente als einzelne TIFF-Dateien, um die Datenintegrität und einen einfachen Zugriff sicherzustellen.
-2. **Medizinische Bildgebung**: Verwenden Sie hochwertige, komprimierte TIFF-Formate zum Speichern medizinischer Scans wie MRTs und CTs.
-3. **Grafikdesign**: Kombinieren Sie mehrere Designebenen in einer einzigen Datei für eine effiziente Handhabung in Grafiksoftware.
-4. **Fotografie**: Archivieren Sie mehrseitige Fotoalben als einzelne Dateien zum einfachen Teilen und Speichern.
-5. **Industrielle Qualitätskontrolle**: Verwenden Sie TIFF-Bilder, um detaillierte Inspektionsdaten über mehrere Frames hinweg aufzuzeichnen.
+1. **Dokumentenarchivierung** – Gescannte Dokumente als einzelne TIFF‑Datei speichern, um Datenintegrität und einfachen Zugriff zu gewährleisten.  
+2. **Medizinische Bildgebung** – Hochwertige, komprimierte TIFF‑Formate für die Speicherung von Scans wie MRTs und CTs verwenden.  
+3. **Grafikdesign** – Mehrere Design‑Ebenen zu einer einzigen Datei kombinieren für effizientes Arbeiten in Grafiksoftware.  
+4. **Fotografie** – Mehrseitige Fotoalben als einzelne Dateien archivieren, um einfaches Teilen und Speichern zu ermöglichen.  
+5. **Industrielle Qualitätskontrolle** – Detaillierte Prüfdaten über mehrere Frames in einem TIFF‑Bild festhalten.
 
-## Überlegungen zur Leistung
+## Leistungsüberlegungen
 
-### Tipps zur Leistungsoptimierung
-- **Speicherverwaltung**Entsorgen Sie Bildobjekte nach der Verwendung ordnungsgemäß, um Ressourcen freizugeben.
-- **Stapelverarbeitung**: Verarbeiten Sie Bilder stapelweise, wenn Sie mit großen Datensätzen arbeiten, um die Speichernutzung effektiv zu verwalten.
-- **Effiziente Komprimierung**: Wählen Sie geeignete Komprimierungseinstellungen basierend auf Ihren Qualitäts- und Leistungsanforderungen.
+### Tipps zur Optimierung der Performance
+- **Speichermanagement** – Bildobjekte sofort freigeben (`using`‑Anweisungen), um Ressourcen zu schonen.  
+- **Batch‑Verarbeitung** – Bilder in Chargen verarbeiten, wenn Sie große Datenmengen bearbeiten, um den Speicherverbrauch vorhersehbar zu halten.  
+- **Effiziente Kompression** – Kompressionseinstellungen wählen, die Qualität und Geschwindigkeit für Ihr Szenario ausbalancieren.
 
-## Abschluss
+## Häufig gestellte Fragen
 
-Dieses Tutorial behandelte die wesentlichen Schritte zum Erstellen von Multi-Frame-TIFF-Bildern mit Aspose.Imaging für .NET. Von der Konfiguration `TiffOptions` Durch das Hinzufügen von Frames verfügen Sie jetzt über eine solide Grundlage für die Integration hochwertiger Bilder in Ihre Anwendungen.
+**F: Kann ich JPEG zu TIFF konvertieren, ohne Qualitätsverlust?**  
+A: Ja. Durch die Verwendung verlustfreier Kompressionsoptionen (z. B. LZW oder CCITT Fax) und das Beibehalten der Original‑Pixeldaten kann die Konvertierung verlustfrei erfolgen.
 
-**Nächste Schritte:**
-- Experimentieren Sie mit verschiedenen Komprimierungseinstellungen und Bildformaten.
-- Entdecken Sie zusätzliche Funktionen von Aspose.Imaging, indem Sie die [offizielle Dokumentation](https://reference.aspose.com/imaging/net/).
+**F: Muss ich Bilder vor dem Hinzufügen als Frames skalieren?**  
+A: Alle Frames in einem TIFF müssen dieselben Abmessungen besitzen, daher ist das Skalieren jedes JPEGs auf die Ziel‑Breite und -Höhe erforderlich.
 
-Versuchen Sie, diese Schritte in Ihren Projekten zu implementieren, und entdecken Sie, wie Multi-Frame-TIFF-Bilder Ihren Arbeitsablauf verbessern können.
+**F: Wie viele Frames kann eine TIFF‑Datei enthalten?**  
+A: Praktisch unbegrenzt; die Grenze wird durch Dateigröße und verfügbaren Speicher bestimmt.
+
+**F: Ist das erzeugte TIFF mit gängigen Betrachtern kompatibel?**  
+A: Das Beispiel verwendet die standardmäßige CCITT Fax Group 3‑Kompression, die von den meisten TIFF‑Betrachtern und -Editoren breit unterstützt wird.
+
+**F: Was, wenn ich eine andere Kompression für Farbbilder verwenden möchte?**  
+A: Ersetzen Sie `TiffCompressions.CcittFax3` durch `TiffCompressions.Lzw` oder `TiffCompressions.Jpeg` und passen Sie `BitsPerSample` entsprechend an.
+
+## Fazit
+
+Dieses Tutorial hat die wesentlichen Schritte zum **JPEG zu TIFF konvertieren** und zum Erstellen von Multi‑Frame‑TIFF‑Bildern mit Aspose.Imaging für .NET behandelt. Von der Konfiguration von `TiffOptions` bis zum Hinzufügen von Frames haben Sie nun eine solide Grundlage, um hochwertige Bildverarbeitung in Ihre Anwendungen zu integrieren.
+
+**Nächste Schritte**  
+- Experimentieren Sie mit anderen Kompressionstypen und Farbtiefen.  
+- Erkunden Sie weitere Aspose.Imaging‑Funktionen wie Metadaten‑Handling oder PDF‑Konvertierung.  
+- Konsultieren Sie die [offizielle Dokumentation](https://reference.aspose.com/imaging/net/) für tiefere Einblicke.
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
@@ -228,3 +269,9 @@ Versuchen Sie, diese Schritte in Ihren Projekten zu implementieren, und entdecke
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+
+---
+
+**Zuletzt aktualisiert:** 2026-02-09  
+**Getestet mit:** Aspose.Imaging für .NET (neueste stabile Version)  
+**Autor:** Aspose

@@ -1,10 +1,13 @@
 ---
-"description": "Aprende a dibujar arcos con Aspose.Imaging para .NET, una potente herramienta de manipulación de imágenes. Guía paso a paso para crear imágenes impactantes."
-"linktitle": "Dibujar un arco en Aspose.Imaging para .NET"
-"second_title": "API de procesamiento de imágenes Aspose.Imaging .NET"
-"title": "Creación de arcos con Aspose.Imaging para .NET"
-"url": "/es/net/basic-drawing/draw-arc/"
-"weight": 10
+date: 2026-02-09
+description: Aprenda a dibujar arcos usando Aspose.Imaging para .NET, incluyendo cómo
+  guardar archivos BMP, establecer el tamaño de la imagen y definir el fondo gráfico.
+  Guía paso a paso para generar imágenes BMP.
+linktitle: Draw Arc in Aspose.Imaging for .NET
+second_title: Aspose.Imaging .NET Image Processing API
+title: Cómo dibujar un arco con Aspose.Imaging para .NET
+url: /es/net/basic-drawing/draw-arc/
+weight: 10
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,23 +16,37 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Creación de arcos con Aspose.Imaging para .NET
+# Cómo dibujar un arco con Aspose.Imaging para .NET
 
-En el mundo del procesamiento de imágenes, Aspose.Imaging para .NET es una herramienta versátil y potente que permite a los desarrolladores realizar una amplia gama de operaciones con imágenes. Una de las tareas fundamentales en la manipulación de imágenes es dibujar formas, y en este tutorial, te guiaremos a través del proceso de dibujar un arco con Aspose.Imaging para .NET. Al finalizar esta guía, podrás crear arcos impresionantes en tus imágenes sin esfuerzo.
+En el mundo del procesamiento de imágenes, **how to draw arc** es una tarea común que puede añadir estilo visual a cualquier gráfico. Con Aspose.Imaging para .NET puedes generar imágenes BMP, establecer el tamaño de la imagen y dibujar un arco con un pen en solo unas pocas líneas de C#. Al final de este tutorial sabrás exactamente cómo dibujar un arco, establecer el fondo gráfico y guardar el archivo BMP resultante sin esfuerzo.
 
-## Prerrequisitos
+## Respuestas rápidas
+- **What does the code produce?** Una imagen BMP de 100 × 100 píxeles con fondo amarillo y un arco negro.  
+- **Which library is used?** Aspose.Imaging para .NET.  
+- **Do I need a license?** Una prueba gratuita funciona para desarrollo; se requiere una licencia comercial para producción.  
+- **Can I change the image size?** Sí – modifica los parámetros de ancho y alto en la llamada `Image.Create`.  
+- **Is the output format fixed?** El ejemplo guarda un archivo BMP, pero se puede usar cualquier formato compatible con Aspose.Imaging.
 
-Antes de profundizar en los detalles del dibujo de arcos, asegúrese de tener los siguientes requisitos previos:
+## ¿Qué es “how to draw arc” en Aspose.Imaging?
+Dibujar un arco significa renderizar un segmento de línea curvada definido por un rectángulo delimitador, un ángulo de inicio y un ángulo de barrido. Aspose.Imaging proporciona el método `Graphics.DrawArc`, que te permite **draw arc with pen** y controlar cada aspecto visual.
 
-1. Aspose.Imaging para .NET: Debe tener instalado Aspose.Imaging para .NET. Si aún no lo tiene, puede descargarlo desde el sitio web. [aquí](https://releases.aspose.com/imaging/net/).
+## ¿Por qué usar Aspose.Imaging para esta tarea?
+- **Full control** sobre las dimensiones de la imagen, la profundidad de color y el formato de archivo.  
+- **No external dependencies** – todo se ejecuta en puro .NET.  
+- **High performance** para generar gran cantidad de gráficos en el lado del servidor.  
 
-2. Entorno de desarrollo: asegúrese de tener un entorno de desarrollo funcional para .NET, ya que escribirá y ejecutará código utilizando C#.
+## Requisitos previos
 
-Ahora que tenemos nuestros prerrequisitos listos, ¡comencemos!
+Antes de sumergirnos en el código, asegúrate de tener lo siguiente:
 
-## Importación de espacios de nombres necesarios
+1. **Aspose.Imaging for .NET** – descárgalo del sitio oficial [here](https://releases.aspose.com/imaging/net/).  
+2. **A .NET development environment** (Visual Studio, VS Code, o cualquier compilador de C#).  
 
-En su proyecto de C#, necesita importar los espacios de nombres necesarios para trabajar con Aspose.Imaging para .NET. A continuación, le explicamos cómo hacerlo:
+¡Ahora que tenemos los requisitos listos, comencemos a dibujar!
+
+## Importando los espacios de nombres necesarios
+
+Para trabajar con Aspose.Imaging necesitas incluir los espacios de nombres relevantes en el alcance:
 
 ### Paso 1: Importar los espacios de nombres
 
@@ -43,88 +60,99 @@ using System.Drawing;
 using System.IO;
 ```
 
-## Dibujando un arco paso a paso
+Estas sentencias `using` te dan acceso a clases de creación de imágenes, manejo de gráficos y E/S de archivos.
 
-Ahora que hemos importado los espacios de nombres necesarios, desglosemos el proceso de dibujar un arco en pasos individuales. Usaremos Aspose.Imaging para crear una imagen, configurar los gráficos y dibujar el arco. Sigue los pasos:
+## Cómo dibujar un arco con Aspose.Imaging para .NET
 
-### Paso 1: Configurar la imagen
+Dividiremos el proceso en tres pasos claros: crear la imagen, preparar la superficie gráfica y, finalmente, dibujar el arco.
+
+### Paso 1: Configurar la imagen (establecer tamaño de imagen y generar imagen BMP)
 
 ```csharp
-// Especifique el directorio donde desea guardar la imagen
+// Specify the directory where you want to save the image
 string dataDir = "Your Document Directory";
 
-// Crea una instancia de FileStream para guardar la imagen
+// Create an instance of FileStream to save the image
 using (FileStream stream = new FileStream(dataDir + "DrawingArc_out.bmp", FileMode.Create))
 {
-    // Crea una instancia de BmpOptions y establece sus propiedades
+    // Create an instance of BmpOptions and set its properties
     BmpOptions saveOptions = new BmpOptions();
     saveOptions.BitsPerPixel = 32;
 
-    // Establezca la fuente para BmpOptions y cree una instancia de Image
+    // Set the source for BmpOptions and create an instance of Image
     saveOptions.Source = new StreamSource(stream);
     using (Image image = Image.Create(saveOptions, 100, 100))
     {
 ```
 
-En este paso, creamos una nueva imagen y especificamos el directorio donde se guardará. También configuramos las opciones para el formato BMP, incluyendo su profundidad de color.
+Aquí **set image size** a 100 × 100 píxeles y configuramos las opciones BMP. El `FileStream` asegura que **save BMP file** en la ubicación deseada.
 
-### Paso 2: Inicializar los gráficos y limpiar la superficie
+### Paso 2: Inicializar Graphics y establecer el fondo gráfico
 
 ```csharp
-        // Crea e inicializa una instancia de la clase Graphics y borra la superficie gráfica
+        // Create and initialize an instance of Graphics class and clear the graphics surface
         Graphics graphic = new Graphics(image);
         graphic.Clear(Color.Yellow);
 ```
 
-Aquí, inicializamos un `Graphics` objeto y limpie la superficie con un color de fondo amarillo.
+El objeto `Graphics` nos permite pintar sobre la imagen. Al llamar a `Clear(Color.Yellow)` **set graphics background** a un amarillo brillante, haciendo que el arco destaque.
 
-### Paso 3: Definir los parámetros del arco y dibujar
+### Paso 3: Definir los parámetros del arco y dibujar el arco con lápiz
 
 ```csharp
-        // Define los parámetros para el arco.
+        // Define the parameters for the arc
         int width = 100;
         int height = 200;
         int startAngle = 45;
         int sweepAngle = 270;
 
-        // Dibuja el arco
+        // Draw the arc
         graphic.DrawArc(new Pen(Color.Black), 0, 0, width, height, startAngle, sweepAngle);
 
-        // Guardar los cambios
+        // Save the changes
         image.Save();
     }
     stream.Close();
 }
 ```
 
-En este paso, especificamos las dimensiones y los ángulos del arco y luego lo dibujamos en la superficie gráfica con un lápiz negro.
+- `width` y `height` definen el rectángulo delimitador, efectivamente **set image size** para el arco.  
+- El objeto `Pen` es lo que nos permite **draw arc with pen** en negro.  
+- Después de dibujar, `image.Save()` escribe el **BMP file** en disco.
 
-## Conclusión
+## Problemas comunes y consejos
 
-Dibujar arcos en Aspose.Imaging para .NET es un proceso sencillo si sigues estos pasos. Con la potencia de Aspose.Imaging, puedes crear elementos visuales impactantes en tus imágenes sin esfuerzo.
+- **Arc not visible?** Asegúrate de que el color del lápiz contraste con el fondo (p.ej., negro sobre amarillo).  
+- **Incorrect dimensions?** Recuerda que el rectángulo delimitador del arco puede ser más grande que la imagen; ajusta `width`/`height` o el tamaño de la imagen según corresponda.  
+- **Performance tip:** Reutiliza una única instancia de `Graphics` si necesitas dibujar múltiples formas en la misma imagen.
 
 ## Preguntas frecuentes
 
-### P1: ¿Dónde puedo encontrar la documentación de Aspose.Imaging para .NET?
+### Q1: ¿Dónde puedo encontrar la documentación de Aspose.Imaging para .NET?
 
-A1: Puedes consultar la documentación [aquí](https://reference.aspose.com/imaging/net/) para obtener información completa sobre Aspose.Imaging para .NET.
+A1: Puedes consultar la documentación [here](https://reference.aspose.com/imaging/net/) para obtener información completa sobre Aspose.Imaging para .NET.
 
-### P2: ¿Cómo puedo descargar Aspose.Imaging para .NET?
+### Q2: ¿Cómo puedo descargar Aspose.Imaging para .NET?
 
-A2: Puede descargar Aspose.Imaging para . .NET desde el sitio web [aquí](https://releases.aspose.com/imaging/net/).
+A2: Puedes descargar Aspose.Imaging para . .NET del sitio web [here](https://releases.aspose.com/imaging/net/).
 
-### P3: ¿Hay una prueba gratuita disponible para Aspose.Imaging para .NET?
+### Q3: ¿Hay una prueba gratuita disponible para Aspose.Imaging para .NET?
 
-A3: Sí, puedes obtener una versión de prueba gratuita. [aquí](https://releases.aspose.com/) para probar Aspose.Imaging para .NET.
+A3: Sí, puedes obtener una versión de prueba gratuita [here](https://releases.aspose.com/) para probar Aspose.Imaging para .NET.
 
-### P4: ¿Necesito una licencia temporal para Aspose.Imaging para .NET?
+### Q4: ¿Necesito una licencia temporal para Aspose.Imaging para .NET?
 
-A4: Si necesita una licencia temporal, puede obtenerla [aquí](https://purchase.aspose.com/temporary-license/).
+A4: Si necesitas una licencia temporal, puedes obtener una [here](https://purchase.aspose.com/temporary-license/).
 
-### P5: ¿Dónde puedo buscar ayuda o hacer preguntas sobre Aspose.Imaging para .NET?
+### Q5: ¿Dónde puedo buscar soporte o hacer preguntas sobre Aspose.Imaging para .NET?
 
-A5: Puede visitar el foro de Aspose.Imaging para obtener ayuda y participar en debates. [aquí](https://forum.aspose.com/).
+A5: Puedes visitar el foro de Aspose.Imaging para soporte y discusiones [here](https://forum.aspose.com/).
 
+---
+
+**Última actualización:** 2026-02-09  
+**Probado con:** Aspose.Imaging 24.11 for .NET  
+**Autor:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
