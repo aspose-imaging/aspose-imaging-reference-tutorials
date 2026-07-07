@@ -1,10 +1,17 @@
 ---
-date: 2025-12-20
-description: Tanulja meg, hogyan vágjon le képet téglalapra és bővítse a képet Java-val
-  az Aspose.Imaging segítségével. Lépésről‑lépésre útmutató fejlesztőknek.
-linktitle: Image Expansion or Cropping
+date: 2026-05-03
+description: Tanulja meg, hogyan vágjon le képet az Aspose.Imaging for Java segítségével,
+  beleértve a téglalap alakú vágást és a vászon bővítését. Lépésről lépésre útmutató
+  fejlesztőknek.
+keywords:
+- how to crop image
+- crop and expand image
+- aspose imaging crop
+- java image processing tutorial
+- expand image canvas java
+linktitle: Kép nagyítása vagy vágása
 second_title: Aspose.Imaging Java Image Processing API
-title: Kép vágása téglalapra az Aspose.Imaging for Java segítségével
+title: Hogyan vágjunk le egy képet téglalapra az Aspose.Imaging for Java segítségével
 url: /hu/java/document-conversion-and-processing/image-expansion-or-cropping/
 weight: 12
 ---
@@ -15,47 +22,44 @@ weight: 12
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Kép vágása téglalapra az Aspose.Imaging for Java segítségével
+# Hogyan vágjunk le képet téglalapra az Aspose.Imaging for Java segítségével
 
-A mai gyorsan változó digitális világban a **crop image to rectangle** gyors és megbízható elvégzése minden Java-alapú képfeldolgozó munkafolyamat számára. Akár egy webszolgáltatást építesz, le kell vágni az általad feltöltött fényképeket, akár e-kereskedelmi katalógushoz generálsz bélyegképeket, vagy egyszerűen marketingkampányhoz készítesz anyagokat, az Aspose.Imaging for Java tiszta, nagy teljesítményű API-t biztosít a feladathoz. Ebben az útmutatóban végigvezetünk a képből történő téglalap vágásán és a képtárca (canvas) bővítésén Java‑val – tökéletes mindazoknak, akik szeretnék elsajátítani a **how to crop image java** technikákat.
+A mai gyorsan változó digitális világban a **hogyan vágjunk le képet** gyors és megbízható módjának ismerete alapvető követelmény minden Java‑alapú képfeldolgozási munkafolyamat számára. Akár felhasználók által feltöltött fényképeket vágunk le egy webszolgáltatás számára, konzisztens bélyegképeket generálunk egy e‑kereskedelmi katalógushoz, vagy marketingkampányhoz készítünk anyagokat, az Aspose.Imaging for Java tiszta, nagy teljesítményű API‑t biztosít a feladat elvégzéséhez. Ebben az útmutatóban végigvezetünk egy téglalap kivágásán egy képből és a kép vászonának kibővítésén—tökéletes mindazok számára, akik szeretnék elsajátítani a Java képfeldolgozási technikákat.
 
 ## Gyors válaszok
-- **Melyik könyvtár a legjobb Java képvágáshoz?** Aspose.Imaging for Java.
-- **Vághatok tetszőleges téglalapra?** Igen – megadhatsz bármilyen X, Y, szélesség és magasság értéket.
-- **Szükségem van licencre fejlesztéshez?** Egy ingyenes próba verzió teszteléshez megfelelő; licenc szükséges a termeléshez.
-- **Lehetséges a kép bővítése?** Természetesen – a vágás előtt növelte a méretét.
-- **Melyik Java verzió támogatott?** Java8 és újabb.
+- **Melyik könyvtár a legjobb Java képkivágáshoz?** Aspose.Imaging for Java.  
+- **Vághatok tetszőleges téglalapra?** Igen – definiáljon bármilyen X, Y, szélességet és magasságot.  
+- **Szükségem van licencre a fejlesztéshez?** Egy ingyenes próba működik teszteléshez; licenc szükséges a termeléshez.  
+- **Lehetséges a kép kibővítése?** Teljesen – a vászon méretét növelheti a vágás előtt.  
+- **Melyik Java verzió támogatott?** Java 8 és újabb.
 
-## Mi az a „kép kivágása téglalapra”?
-A kép téglalapra vágása azt jelenti, hogy az eredeti bitmap egy részletet kivágjuk, egy téglalap alakú régió (X‑eltolás, Y‑eltolás, szélesség, magasság) határoz meg. A kép többi része elvész, így egy új, kisebb képet kapsz, amely csak a szükséges területet tartalmazza.
+## Mi az a „crop image to rectangle”?
+A kép téglalapra való kivágása azt jelenti, hogy egy alrészletet nyerünk ki az eredeti bitmapből, amelyet egy téglalap alakú terület (X‑eltolás, Y‑eltolás, szélesség, magasság) határoz meg. A kép többi része eldobásra kerül, így egy új, kisebb kép marad, amely csak a szükséges területet tartalmazza.
 
-## Miért használja az Aspose.Imaging for Java programot?
-- **Nincs külső függőség** – tiszta Java, bármilyen platformon működik.
-- **Széles körű formátumtámogatás** – JPEG, PNG, BMP, TIFF és még több.
-- **Nagy teljesítményű gyorsítótárazás** – a `cacheData()` csökkenti az I/O terhelést.
-- **Egyszerű API** – egy soros hívások a betöltéshez, téglalap meghatározásához és mentéséhez.
+## Miért használjuk az Aspose.Imaging for Java‑t?
+- **Nincs külső függőség** – tiszta Java, bármilyen platformon működik.  
+- **Széles körű formátumtámogatás** – JPEG, PNG, BMP, TIFF és még több.  
+- **Nagy teljesítményű gyorsítótárazás** – `cacheData()` csökkenti az I/O terhelést.  
+- **Egyszerű API** – egy‑soros hívások a betöltéshez, a téglalap definiálásához és a mentéshez.
 
 ## Előfeltételek
-
-- **Java fejlesztői környezet** – JDK8+ telepítése és konfigurációja.
-- **Aspose.Imaging for Java** – töltsd le a [weboldalról](https://releases.aspose.com/imaging/java/).
-- **Alap Java ismeretek** – osztályok, try-with-resources és fájlutak ismeretek.
-- **Munkához szükséges kép** – Bármilyen JPEG/PNG, meghatározott vágni vagy bővíteni szeretnél.
+- **Java fejlesztői környezet** – JDK 8+ telepítve és konfigurálva.  
+- **Aspose.Imaging for Java** – letölthető a [website](https://releases.aspose.com/imaging/java/).  
+- **Alap Java ismeretek** – osztályok, try‑with‑resources és fájlutak ismerete.  
+- **Kép, amivel dolgozni szeretnél** – bármely JPEG/PNG, amit vágni vagy kibővíteni kíván.
 
 ## Csomagok importálása
-
-Először a kódot arra a mappára, amely a forrás irányítóképeket tartalmazza. Ez a kódrészlet változatlan marad az eredeti útmutatóból.
+Először mutassa a kódot arra a mappára, amely a forrásképeket tartalmazza. Ez a kódrészlet változatlan marad az eredeti útmutatóból.
 
 ```java
 // The path to the documents directory.
 String dataDir = "Your Document Directory" + "ConvertingImages/";
 ```
 
-Cseréld le a `"Your Document Directory"`-t a géped abszolút útvonalára.
+Cserélje le a `"Your Document Directory"` szöveget a gépén lévő abszolút útvonalra.
 
-## 1. lépés: A kép betöltése
-
-A kép betöltése minden manipuláció alapja. Emellett meghívjuk a `cacheData()`-t, hogy a bitmap memóriában maradjon, így a későbbi műveletek gyorsak legyenek.
+## 1. lépés: Kép betöltése
+A kép betöltése minden manipuláció alapja. Emellett meghívjuk a `cacheData()` metódust, hogy a bitmap memóriában maradjon a gyors későbbi műveletekhez.
 
 ```java
 try (RasterImage rasterImage = (RasterImage) Image.load(dataDir + "aspose-logo.jpg"))
@@ -64,23 +68,21 @@ try (RasterImage rasterImage = (RasterImage) Image.load(dataDir + "aspose-logo.j
 }
 ```
 
-> **Pro tipp:** Használj `try‑with‑resources` blokkot (ahogy látható), hogy a kép automatikusan bezáródjon, elkerülve a memória szivárgásokat.
+> **Pro tipp:** Használjon `try‑with‑resources` blokkot (ahogy látható), hogy a kép automatikusan bezáródjon, elkerülve a memória szivárgásokat.
 
 ## 2. lépés: A vágási terület meghatározása
-
-Itt létrehozunk egy `Rectangle` objektumot, amely a megtartani kívánt pontos területet jelöli. A téglalap kiindulhat az eredeti határokon kívül – az Aspose.Imaging automatikusan bővíti a vászont (hasznos a **expand image using java** esetben).
+Itt létrehozunk egy `Rectangle` objektumot, amely a megtartani kívánt pontos területet jelöli. A téglalap kiindulhat az eredeti határokon kívül – az Aspose.Imaging automatikusan kibővíti a vásznat (hasznos a **expand image canvas java** esetben).
 
 ```java
 // Create an instance of Rectangle class and define X, Y, Width, and Height of the rectangle
 Rectangle destRect = new Rectangle(-200, -200, 300, 300);
 ```
 
-- **X / Y** – negatív értékek balra/felfelé tolják a téglalapot, ami a vászon bővülését eredményezi.
-- **Width / Height** – a vágott régió mérete.
+- **X / Y** – negatív értékek balra/felfelé tolják a téglalapot, ami a vászon kibővülését eredményezi.  
+- **Width / Height** – a kivágott terület mérete.
 
-## 3. lépés: A kivágott (vagy kibontott) kép mentése
-
-Végül írd az eredményt lemezre. A `save` metódus a célútvonalat, a képformátum beállításait és a meghatározott téglalapot veszi át.
+## 3. lépés: A kivágott (vagy kibővített) kép mentése
+Végül írja az eredményt a lemezre. A `save` metódus megkapja a célútvonalat, a képformátum beállításait és a korábban definiált téglalapot.
 
 ```java
 rasterImage.save("Your Document Directory" + "Grayscaling_out.jpg", new JpegOptions(), destRect);
@@ -88,46 +90,52 @@ rasterImage.save("Your Document Directory" + "Grayscaling_out.jpg", new JpegOpti
 
 A kimeneti fájl `Grayscaling_out.jpg` most már tartalmazza a **crop image to rectangle** eredményt. Ha a téglalap túlnyúlt az eredeti képen, a többlet terület alapértelmezett háttérrel lesz kitöltve (átlátszó PNG esetén, fekete JPEG esetén).
 
-## Általános használati esetek
+## Hogyan vágjunk le képet az Aspose.Imaging for Java segítségével
+Ez a szakasz összefoglalja a fő lépéseket egy tömör ellenőrzőlistában, hogy gyorsan hivatkozhasson rájuk kódolás közben:
 
-| Szenárió | miért fontos |
+1. **Állítsa be az adatkönyvtárat** – mutassa a forrásképeket tartalmazó mappára.  
+2. **Töltse be a képet** a `Image.load()`‑val és hívja meg a `cacheData()`‑t.  
+3. **Hozzon létre egy `Rectangle` objektumot**, amely meghatározza a vágási területet (vagy a vászon kibővítését).  
+4. **Mentse** az új képet a `rasterImage.save()`‑val, és adja át a téglalapot.
+
+## Kép vágása és kibővítése – Valós életbeli felhasználási esetek
+| Szenárió | Miért fontos |
 |----------|--------------|
-| **Bélyegkép generálás** | Gyorsan kivág egy középső területet az egységes méretezéshez. |
+| **Bélyegkép generálás** | Gyorsan kivág egy központi területet a konzisztens méretezéshez. |
 | **Felhasználói profilkép vágása** | Négyzet vagy téglalap alakú avatar terület érvényesítése. |
-| **Vászon bővítése vízjelek telepítés előtt** | Helyet ad a kép körül anélkül, hogy torzítaná az eredetit. |
-| **Beolvasott dokumentumok kötegelt feldolgozása** | Egy lépésben levágja a margókat. |
+| **Vászon kibővítése vízjelek hozzáadása előtt** | Helyet ad a kép körül anélkül, hogy torzítaná az eredetit. |
+| **Szkennel dokumentumok kötegelt feldolgozása** | Margók kivágása egy lépésben. |
 
 ## Hibaelhárítás és tippek
-
-- **A kép nem töltődik be?** Ellenőrizd a fájl útvonalát és győződj meg róla, hogy a képformátumot támogatta.
-- **Váratlan fekete keretek a bővítés után?** Állíts be háttérszínt a `JpegOptions`-ban, vagy használj PNG-t az átlátszósághoz.
-- **Teljesítményproblémák nagy képekkel?** Növeld a Java heap méretét (`-Xmx`), vagy dolgozz kisebb kötegekkel.
+- **A kép nem töltődik be?** Ellenőrizze a fájl útvonalát és győződjön meg róla, hogy a képformátum támogatott.  
+- **Váratlan fekete szegélyek a kibővítés után?** Állítson be háttérszínt a `JpegOptions`‑ban vagy használjon PNG‑t az átlátszósághoz.  
+- **Teljesítményproblémák nagy képekkel?** Növelje a Java heap méretét (`-Xmx`) vagy dolgozzon kisebb kötegekkel.  
+- **Gyakori hibaforrás:** A `cacheData()` meghívásának elhagyása lassú I/O‑t eredményezhet a későbbi műveleteknél.
 
 ## Gyakran Ismételt Kérdések
 
-**K: Milyen képformátumokat támogat az Aspose.Imaging for Java?**
-V: JPEG, PNG, BMP, TIFF, GIF, ICO, PSD és még sok más. Lásd a hivatalos dokumentációt a teljes listáért.
+**Q: Milyen képformátumokat támogat az Aspose.Imaging for Java?**  
+A: JPEG, PNG, BMP, TIFF, GIF, ICO, PSD és még sok más. A teljes listáért tekintse meg a hivatalos dokumentációt.
 
-**K: Végezhetek más képműveleteket az Aspose.Imaging for Java-val?**
-V: Természetesen! Átméretezés, forgatás, szűrés és formátumkonverzió elérhető.
+**Q: Végrehajthatok más képműveleteket az Aspose.Imaging for Java‑val?**  
+A: Teljesen! Átméretezés, forgatás, szűrés és formátumkonverzió is elérhető.
 
-**K: Alkalmas-e az Aspose.Imaging for Java webalkalmazásokhoz?**
-V: Igen. A könyvtár szálbiztos és jól működik servlet konténerekben és Spring Boot szolgáltatásokban.
+**Q: Az Aspose.Imaging for Java alkalmas webalkalmazásokhoz?**  
+A: Igen. A könyvtár szálbiztos és jól működik servlet konténerekben és Spring Boot szolgáltatásokban.
 
-**K: Hogyan kaphatok támogatást az Aspose.Imaging for Java-hoz?**
-V: Látogasd meg a [fórumot](https://forum.aspose.com/) a közösségi segítségért, vagy nyiss egy támogatási jegyet érvényes licenccel.
+**Q: Hogyan kaphatok támogatást az Aspose.Imaging for Java‑hoz?**  
+A: Látogassa meg a [forum](https://forum.aspose.com/)‑ot közösségi segítségért, vagy nyisson egy támogatási jegyet érvényes licenccel.
 
-**K: Van ingyenes próba verzió az Aspose.Imaging for Java-hoz?**
-V: Igen, a könyvtárat ingyenes próba verzióval kipróbálhatod. Töltsd le [innen](https://releases.aspose.com/).
+**Q: Van ingyenes próba az Aspose.Imaging for Java‑hoz?**  
+A: Igen, a könyvtárat ingyenes próba verzióval is felfedezheti. Töltse le [innen](https://releases.aspose.com/).
 
-## Következtetés
-
-Most már megtanultad, hogyan **crop image to rectangle**, és akár **expand image using Java** a hatékony Aspose.Imaging API-val. Ezeknek az alapoknak az elsajátításával robusztus képfeldolgozó csővezetékeket építhetsz, javíthatod a felhasználói válaszkészséget, és kifinomult vizuális tartalmat nyújthatsz minden Java alkalmazásban.
+## Összegzés
+Most már megtanulta, hogyan **vágjunk le képet** egy téglalapra, és akár **kibővíthetjük a kép vásznát** a hatékony Aspose.Imaging API‑val. Ezeknek az alapoknak a elsajátításával robusztus képfeldolgozó csővezetékeket építhet, javíthatja a UI válaszkészségét, és kifinomult vizuális tartalmat szállíthat bármely Java alkalmazásban.
 
 ---
 
-**Utolsó frissítés:** 2025-12-20
-**Tesztelve:** Aspose.Imaging for Java 24.11 (a legfrissebb verzió az írás idején)
+**Legutóbb frissítve:** 2026-05-03  
+**Tesztelve ezzel:** Aspose.Imaging for Java 24.11 (legújabb a megírás időpontjában)  
 **Szerző:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}

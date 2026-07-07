@@ -1,10 +1,16 @@
 ---
-date: 2025-12-20
-description: เรียนรู้วิธีการครอบภาพเป็นสี่เหลี่ยมและขยายภาพโดยใช้ Java กับ Aspose.Imaging
+date: 2026-05-03
+description: เรียนรู้วิธีตัดภาพด้วย Aspose.Imaging สำหรับ Java รวมถึงการตัดแบบสี่เหลี่ยมและการขยายแคนวาส
   คู่มือขั้นตอนต่อขั้นตอนสำหรับนักพัฒนา
-linktitle: Image Expansion or Cropping
+keywords:
+- how to crop image
+- crop and expand image
+- aspose imaging crop
+- java image processing tutorial
+- expand image canvas java
+linktitle: การขยายภาพหรือการตัดภาพ
 second_title: Aspose.Imaging Java Image Processing API
-title: ตัดรูปภาพเป็นสี่เหลี่ยมโดยใช้ Aspose.Imaging สำหรับ Java
+title: วิธีตัดภาพเป็นสี่เหลี่ยมโดยใช้ Aspose.Imaging สำหรับ Java
 url: /th/java/document-conversion-and-processing/image-expansion-or-cropping/
 weight: 12
 ---
@@ -15,44 +21,42 @@ weight: 12
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# ตัดรูปภาพเป็นสี่เหลี่ยมผืนผ้าด้วย Aspose.Imaging สำหรับ Java
+# วิธีตัดรูปภาพเป็นสี่เหลี่ยมผืนผ้าด้วย Aspose.Imaging สำหรับ Java
 
-ในโลกดิจิทัลที่เคลื่อนที่อย่างรวดเร็วในทุกวันนี้ การสามารถ **crop image to rectangle** อย่างรวดเร็วและเชื่อถือได้เป็นความต้องการหลักสำหรับกระบวนการทำงานกับภาพที่ใช้ Java ไม่ว่าจะคุณกำลังสร้างเว็บเซอร์วิสที่ต้องตัดรูปภาพที่ผู้ใช้อัปโหลด, สร้างภาพย่อสำหรับแคตาล็อกอีคอมเมิร์ซ, หรือเพียงแค่เตรียมทรัพยากรสำหรับแคมเปญการตลาด, Aspose.Imaging สำหรับ Java ให้ API ที่สะอาดและมีประสิทธิภาพสูงเพื่อทำงานให้สำเร็จ ในบทแนะนำนี้เราจะพาไปผ่านการตัดสี่เหลี่ยมจากภาพและการขยายแคนวาสภาพด้วย Java—เหมาะสำหรับผู้ที่ต้องการเชี่ยวชาญเทคนิค **how to crop image java**
+## คำตอบด่วน
+- **ไลบรารีที่ดีที่สุดสำหรับการตัดรูปภาพใน Java คืออะไร?** Aspose.Imaging for Java.  
+- **ฉันสามารถตัดเป็นสี่เหลี่ยมผืนผ้าตามต้องการได้หรือไม่?** ใช่ – กำหนดค่า X, Y, ความกว้าง, และความสูงได้ตามต้องการ.  
+- **ฉันต้องมีลิขสิทธิ์สำหรับการพัฒนาหรือไม่?** ทดลองใช้ฟรีสำหรับการทดสอบ; ต้องมีลิขสิทธิ์สำหรับการใช้งานจริง.  
+- **การขยายแคนวาสของรูปภาพเป็นไปได้หรือไม่?** แน่นอน – สามารถเพิ่มขนาดแคนวาสก่อนตัดได้.  
+- **เวอร์ชัน Java ที่รองรับคืออะไร?** Java 8 และใหม่กว่า.
 
-## คำตอบอย่างรวดเร็ว
-- **What library is best for Java image cropping?** Aspose.Imaging for Java.
-- **Can I crop to an arbitrary rectangle?** Yes – define any X, Y, width, and height.
-- **Do I need a license for development?** A free trial works for testing; a license is required for production.
-- **Is expanding an image possible?** Absolutely – you can increase canvas size before cropping.
-- **Which Java version is supported?** Java 8 and newer.
-
-## “crop image to rectangle” คืออะไร
-การตัดรูปภาพเป็นสี่เหลี่ยมผืนผ้าหมายถึงการดึงส่วนย่อยของบิตแมปต้นฉบับที่กำหนดโดยพื้นที่สี่เหลี่ยม (X‑offset, Y‑offset, ความกว้าง, ความสูง) ส่วนที่เหลือของภาพจะถูกละทิ้ง ทำให้คุณได้ภาพใหม่ที่เล็กลงซึ่งมีเฉพาะพื้นที่ที่ต้องการเท่านั้น
+## “crop image to rectangle” คืออะไร?
+การตัดรูปภาพเป็นสี่เหลี่ยมผืนผ้าหมายถึงการสกัดส่วนย่อยของบิตแมปต้นฉบับโดยกำหนดพื้นที่สี่เหลี่ยม (X‑offset, Y‑offset, ความกว้าง, ความสูง). ส่วนที่เหลือของรูปภาพจะถูกละทิ้ง ทำให้ได้รูปภาพใหม่ที่เล็กลงและมีเฉพาะพื้นที่ที่ต้องการเท่านั้น.
 
 ## ทำไมต้องใช้ Aspose.Imaging สำหรับ Java?
-- **No external dependencies** – pure Java, works on any platform.
-- **Broad format support** – JPEG, PNG, BMP, TIFF, and more.
-- **High‑performance caching** – `cacheData()` reduces I/O overhead.
-- **Simple API** – one‑line calls for loading, defining a rectangle, and saving.
+- **ไม่มีการพึ่งพาภายนอก** – pure Java, works on any platform.  
+- **รองรับรูปแบบไฟล์หลายประเภท** – JPEG, PNG, BMP, TIFF, and more.  
+- **แคชประสิทธิภาพสูง** – `cacheData()` reduces I/O overhead.  
+- **API ง่าย** – one‑line calls for loading, defining a rectangle, and saving.
 
 ## ข้อกำหนดเบื้องต้น
-- **Java Development Environment** – JDK 8+ installed and configured.
-- **Aspose.Imaging for Java** – download from the [website](https://releases.aspose.com/imaging/java/).
-- **Basic Java Knowledge** – familiarity with classes, try‑with‑resources, and file paths.
-- **Image to Work With** – any JPEG/PNG you’d like to crop or expand.
+- **สภาพแวดล้อมการพัฒนา Java** – JDK 8+ installed and configured.  
+- **Aspose.Imaging for Java** – download from the [website](https://releases.aspose.com/imaging/java/).  
+- **ความรู้พื้นฐาน Java** – familiarity with classes, try‑with‑resources, and file paths.  
+- **รูปภาพสำหรับทำงาน** – any JPEG/PNG you’d like to crop or expand.
 
 ## การนำเข้าแพ็กเกจ
-First, point the code to the folder that holds your source images. This snippet stays unchanged from the original tutorial.
+ก่อนอื่น ให้ชี้โค้ดไปยังโฟลเดอร์ที่เก็บรูปภาพต้นฉบับของคุณ โค้ดส่วนนี้จะคงเดิมเหมือนในบทแนะนำต้นฉบับ.
 
 ```java
 // The path to the documents directory.
 String dataDir = "Your Document Directory" + "ConvertingImages/";
 ```
 
-Replace `"Your Document Directory"` with the absolute path on your machine.
+แทนที่ `"Your Document Directory"` ด้วยเส้นทางเต็มบนเครื่องของคุณ.
 
-## ขั้นตอนที่ 1: โหลดภาพ
-Loading the image is the foundation for any manipulation. We also call `cacheData()` to keep the bitmap in memory for fast subsequent operations.
+## ขั้นตอนที่ 1: โหลดรูปภาพ
+การโหลดรูปภาพเป็นพื้นฐานสำหรับการปรับแต่งใด ๆ เรายังเรียก `cacheData()` เพื่อเก็บบิตแมปในหน่วยความจำสำหรับการดำเนินการต่อไปที่เร็วขึ้น.
 
 ```java
 try (RasterImage rasterImage = (RasterImage) Image.load(dataDir + "aspose-logo.jpg"))
@@ -61,67 +65,75 @@ try (RasterImage rasterImage = (RasterImage) Image.load(dataDir + "aspose-logo.j
 }
 ```
 
-> **Pro tip:** Use a `try‑with‑resources` block (as shown) to ensure the image is automatically closed, preventing memory leaks.
+> **เคล็ดลับ:** ใช้บล็อก `try‑with‑resources` (ตามที่แสดง) เพื่อให้แน่ใจว่ารูปภาพจะถูกปิดโดยอัตโนมัติ ป้องกันการรั่วไหลของหน่วยความจำ.
 
 ## ขั้นตอนที่ 2: กำหนดพื้นที่สำหรับการตัด
-Here we create a `Rectangle` that represents the exact area you want to keep. The rectangle can start outside the original bounds – Aspose.Imaging will automatically expand the canvas (useful for the **expand image using java** scenario).
+ที่นี่เราจะสร้าง `Rectangle` ที่แสดงถึงพื้นที่ที่ต้องการเก็บไว้ สี่เหลี่ยมอาจเริ่มนอกขอบเขตเดิม – Aspose.Imaging จะขยายแคนวาสโดยอัตโนมัติ (มีประโยชน์สำหรับสถานการณ์ **expand image canvas java**).
 
 ```java
 // Create an instance of Rectangle class and define X, Y, Width, and Height of the rectangle
 Rectangle destRect = new Rectangle(-200, -200, 300, 300);
 ```
 
-- **X / Y** – negative values shift the rectangle left/up, causing the canvas to expand.
-- **Width / Height** – size of the cropped region.
+- **X / Y** – ค่าติดลบจะเลื่อนสี่เหลี่ยมไปทางซ้าย/บน ทำให้แคนวาสขยายออก.  
+- **Width / Height** – ขนาดของพื้นที่ที่ตัด.
 
-## ขั้นตอนที่ 3: บันทึกภาพที่ถูกตัด (หรือขยาย)
-Finally, write the result to disk. The `save` method takes the destination path, image format options, and the rectangle we defined.
+## ขั้นตอนที่ 3: บันทึกรูปภาพที่ตัด (หรือขยาย)
+สุดท้ายให้เขียนผลลัพธ์ลงดิสก์ วิธี `save` รับพาธปลายทาง, ตัวเลือกรูปแบบภาพ, และสี่เหลี่ยมที่กำหนดไว้.
 
 ```java
 rasterImage.save("Your Document Directory" + "Grayscaling_out.jpg", new JpegOptions(), destRect);
 ```
 
-The output file `Grayscaling_out.jpg` now contains the **crop image to rectangle** result. If the rectangle extended beyond the original image, the extra area is filled with a default background (transparent for PNG, black for JPEG).
+ไฟล์ผลลัพธ์ `Grayscaling_out.jpg` ตอนนี้มีผลลัพธ์ของ **crop image to rectangle** หากสี่เหลี่ยมขยายเกินขอบภาพเดิม พื้นที่ส่วนเกินจะเติมด้วยพื้นหลังค่าเริ่มต้น (โปร่งใสสำหรับ PNG, สีดำสำหรับ JPEG).
 
-## กรณีการใช้งานทั่วไป
+## วิธีตัดรูปภาพด้วย Aspose.Imaging สำหรับ Java
+ส่วนนี้สรุปขั้นตอนหลักในรูปแบบเช็คลิสต์สั้น ๆ เพื่อให้คุณอ้างอิงได้อย่างรวดเร็วขณะเขียนโค้ด:
 
-| Scenario | Why It Matters |
+1. **ตั้งค่าไดเรกทอรีข้อมูล** – ชี้ไปยังโฟลเดอร์ที่มีรูปภาพต้นฉบับ.  
+2. **โหลดรูปภาพ** ด้วย `Image.load()` และเรียก `cacheData()`.  
+3. **สร้าง `Rectangle`** ที่กำหนดพื้นที่ตัด (หรือการขยายแคนวาส).  
+4. **บันทึก** รูปภาพใหม่โดยใช้ `rasterImage.save()` และส่งสี่เหลี่ยมที่กำหนด.
+
+## การตัดและขยายรูปภาพ – กรณีใช้งานจริง
+| สถานการณ์ | เหตุผลที่สำคัญ |
 |----------|----------------|
-| **Thumbnail generation** | Quickly extract a central region for consistent sizing. |
-| **User‑profile picture cropping** | Enforce a square or rectangular avatar area. |
-| **Canvas expansion before adding watermarks** | Add space around an image without distorting the original. |
-| **Batch processing of scanned documents** | Crop out margins in one pass. |
+| **การสร้างภาพย่อ** | ดึงส่วนกลางอย่างรวดเร็วเพื่อให้ได้ขนาดที่สม่ำเสมอ. |
+| **การตัดรูปภาพโปรไฟล์ผู้ใช้** | บังคับให้มีพื้นที่อวาตาร์เป็นสี่เหลี่ยมหรือสี่เหลี่ยมผืนผ้า. |
+| **การขยายแคนวาสก่อนเพิ่มลายน้ำ** | เพิ่มพื้นที่รอบรูปภาพโดยไม่ทำให้รูปเดิมบิดเบือน. |
+| **การประมวลผลชุดของเอกสารสแกน** | ตัดขอบกระดาษออกในครั้งเดียว. |
 
-## การแก้ไขปัญหาและเคล็ดลับ
-- **Image not loading?** Verify the file path and ensure the image format is supported.
-- **Unexpected black borders after expansion?** Set a background color in `JpegOptions` or use PNG for transparency.
-- **Performance concerns with large images?** Increase the Java heap size (`-Xmx`) or process images in smaller batches.
+## การแก้ไขปัญหา & เคล็ดลับ
+- **รูปภาพไม่โหลด?** ตรวจสอบเส้นทางไฟล์และให้แน่ใจว่ารูปแบบรูปภาพได้รับการสนับสนุน.  
+- **ขอบสีดำที่ไม่คาดคิดหลังการขยาย?** ตั้งค่าสีพื้นหลังใน `JpegOptions` หรือใช้ PNG เพื่อความโปร่งใส.  
+- **กังวลเรื่องประสิทธิภาพกับรูปภาพขนาดใหญ่?** เพิ่มขนาด heap ของ Java (`-Xmx`) หรือประมวลผลรูปภาพเป็นชุดเล็ก ๆ.  
+- **ข้อผิดพลาดทั่วไป:** ลืมเรียก `cacheData()` อาจทำให้ I/O ช้าลงในการดำเนินการต่อไป.
 
 ## คำถามที่พบบ่อย
 
-**Q: Aspose.Imaging for Java รองรับรูปแบบภาพอะไรบ้าง?**  
-A: JPEG, PNG, BMP, TIFF, GIF, ICO, PSD และอื่น ๆ อีกมากมาย ดูเอกสารอย่างเป็นทางการสำหรับรายการเต็ม
+**ถาม: Aspose.Imaging for Java รองรับรูปแบบภาพอะไรบ้าง?**  
+A: JPEG, PNG, BMP, TIFF, GIF, ICO, PSD, และอื่น ๆ อีกมากมาย ดูเอกสารอย่างเป็นทางการสำหรับรายการทั้งหมด.
 
-**Q: ฉันสามารถทำการปรับแต่งภาพอื่น ๆ ด้วย Aspose.Imaging for Java ได้หรือไม่?**  
-A: แน่นอน! การปรับขนาด, การหมุน, การกรอง, และการแปลงรูปแบบทั้งหมดพร้อมใช้งาน
+**ถาม: ฉันสามารถทำการปรับแต่งรูปภาพอื่น ๆ ด้วย Aspose.Imaging for Java ได้หรือไม่?**  
+A: แน่นอน! การปรับขนาด การหมุน การกรอง และการแปลงรูปแบบทั้งหมดพร้อมใช้งาน.
 
-**Q: Aspose.Imaging for Java เหมาะสำหรับแอปพลิเคชันเว็บหรือไม่?**  
-A: ใช่. ไลบรารีนี้ปลอดภัยต่อการทำงานหลายเธรดและทำงานได้ดีในคอนเทนเนอร์เซอร์วิลท์และบริการ Spring Boot
+**ถาม: Aspose.Imaging for Java เหมาะกับแอปพลิเคชันเว็บหรือไม่?**  
+A: ใช่ ไลบรารีนี้ปลอดภัยต่อการทำงานหลายเธรดและทำงานได้ดีใน servlet containers และบริการ Spring Boot.
 
-**Q: ฉันจะขอรับการสนับสนุนสำหรับ Aspose.Imaging for Java ได้อย่างไร?**  
-A: เยี่ยมชม [forum](https://forum.aspose.com/) เพื่อรับความช่วยเหลือจากชุมชน หรือเปิดตั๋วสนับสนุนพร้อมใบอนุญาตที่ถูกต้อง
+**ถาม: ฉันจะรับการสนับสนุนสำหรับ Aspose.Imaging for Java อย่างไร?**  
+A: เยี่ยมชม [forum](https://forum.aspose.com/) เพื่อรับความช่วยเหลือจากชุมชน หรือเปิดตั๋วสนับสนุนพร้อมใบอนุญาตที่ถูกต้อง.
 
-**Q: มีการทดลองใช้งานฟรีสำหรับ Aspose.Imaging for Java หรือไม่?**  
-A: มี, คุณสามารถสำรวจไลบรารีด้วยการทดลองใช้งานฟรี ดาวน์โหลดได้จาก [here](https://releases.aspose.com/).
+**ถาม: มีการทดลองใช้งานฟรีสำหรับ Aspose.Imaging for Java หรือไม่?**  
+A: มี คุณสามารถสำรวจไลบรารีด้วยการทดลองใช้งานฟรี ดาวน์โหลดได้จาก [here](https://releases.aspose.com/).
 
 ## สรุป
-You’ve now learned how to **crop image to rectangle** and even **expand image using Java** with the powerful Aspose.Imaging API. By mastering these fundamentals you can build robust image‑processing pipelines, improve UI responsiveness, and deliver polished visual content across any Java application.
+คุณได้เรียนรู้ **วิธีตัดรูปภาพ** เป็นสี่เหลี่ยมผืนผ้าและแม้กระทั่ง **การขยายแคนวาสของรูปภาพ** ด้วย API ที่ทรงพลังของ Aspose.Imaging ด้วยการเชี่ยวชาญพื้นฐานเหล่านี้ คุณสามารถสร้างสายงานการประมวลผลภาพที่แข็งแรง ปรับปรุงความตอบสนองของ UI และมอบเนื้อหาภาพที่สวยงามในแอปพลิเคชัน Java ใด ๆ
 
 ---
 
-**อัปเดตล่าสุด:** 2025-12-20  
-**ทดสอบด้วย:** Aspose.Imaging for Java 24.11 (latest at time of writing)  
-**ผู้เขียน:** Aspose  
+**Last Updated:** 2026-05-03  
+**Tested With:** Aspose.Imaging for Java 24.11 (latest at time of writing)  
+**Author:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
