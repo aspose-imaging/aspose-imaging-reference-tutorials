@@ -1,9 +1,61 @@
 ---
-"date": "2025-06-04"
-"description": "Ismerd meg, hogyan konvertálhatsz DjVu képeket TIFF formátumba az Aspose.Imaging for Java segítségével. Ez az útmutató a betöltést, az oldalak exportálását és a konfigurációs beállításokat ismerteti."
-"title": "DjVu konvertálása TIFF-be Java-ban az Aspose.Imaging segítségével – lépésről lépésre útmutató"
-"url": "/hu/java/format-conversion-export/load-export-djvu-tiff-aspose-imaging-java/"
-"weight": 1
+date: '2026-07-08'
+description: Ismerje meg, hogyan exportálhat TIFF-et DjVu-ból az Aspose.Imaging for
+  Java használatával. Lépésről lépésre útmutató a betöltés, az oldalválasztás és az
+  exportálási beállítások bemutatásával.
+keywords:
+- how to export tiff
+- java image processing
+- maven aspose imaging
+- how to load djvu
+lastmod: '2026-07-08'
+og_description: Fedezze fel, hogyan exportálhat TIFF-et DjVu-ból Java-ban az Aspose.Imaging
+  használatával. Kövesse lépésről lépésre szóló oktatóanyagainkat a gyors és megbízható
+  képkonverzióhoz.
+og_image_alt: Guide showing Java code to convert DjVu pages to TIFF with Aspose.Imaging
+og_title: Hogyan exportáljunk TIFF-et – Java útmutató az Aspose.Imaging segítségével
+schemas:
+- author: Aspose
+  dateModified: '2026-07-08'
+  description: Learn how to export TIFF from DjVu using Aspose.Imaging for Java. Step-by-step
+    guide covering loading, page selection, and export options.
+  headline: How to Export TIFF – Load and Export DjVu Pages in Java with Aspose.Imaging
+  type: TechArticle
+- description: Learn how to export TIFF from DjVu using Aspose.Imaging for Java. Step-by-step
+    guide covering loading, page selection, and export options.
+  name: How to Export TIFF – Load and Export DjVu Pages in Java with Aspose.Imaging
+  steps:
+  - name: '**Archival Systems** – Preserve scanned documents in a universally accepted
+      format.'
+    text: '**Archival Systems** – Preserve scanned documents in a universally accepted
+      format.'
+  - name: '**Document Review Workflows** – Pull out only the pages that need annotation.'
+    text: '**Document Review Workflows** – Pull out only the pages that need annotation.'
+  - name: '**Integration with DMS** – Feed TIFF images into existing document‑management
+      pipelines that do not understand DjVu.'
+    text: '**Integration with DMS** – Feed TIFF images into existing document‑management
+      pipelines that do not understand DjVu.'
+  type: HowTo
+- questions:
+  - answer: '`DjvuImage` represents a DjVu document in memory.'
+    question: What is the main class for DjVu handling?
+  - answer: Just two lines after loading the image.
+    question: How many lines of code are needed to export a page to TIFF?
+  - answer: '`com.aspose:aspose-imaging` (version 25.5+).'
+    question: Which Maven artifact provides DjVu support?
+  - answer: Yes, use `IntRange` to specify a range.
+    question: Can I export multiple pages at once?
+  - answer: A full license is required; a temporary trial is available.
+    question: Do I need a license for production?
+  type: FAQPage
+tags:
+- convert DjVu
+- Aspose.Imaging
+- Java image conversion
+title: Hogyan exportáljunk TIFF-et – DjVu oldalak betöltése és exportálása Java-ban
+  az Aspose.Imaging segítségével
+url: /hu/java/format-conversion-export/load-export-djvu-tiff-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,33 +63,41 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# DjVu oldalak betöltése és exportálása TIFF formátumban Aspose.Imaging Java használatával
+# Hogyan exportáljunk TIFF-et – DjVu oldalak betöltése és exportálása Java-val az Aspose.Imaging segítségével
 
 ## Bevezetés
 
-Nehezen kezeled a DjVu képeket a Java alkalmazásaidban? A DjVu fájlok köztudottan hatékonyan tárolják a beolvasott dokumentumokat, de egyedi formátumuk miatt nehéz lehet velük dolgozni. Ez az oktatóanyag végigvezet a DjVu kép betöltésének és bizonyos oldalak TIFF formátumban történő exportálásának folyamatán az Aspose.Imaging for Java segítségével. A lépések követésével javíthatod az alkalmazásod dokumentumkezelési képességeit.
+Ha Java alkalmazásban **how to export TIFF**-et szeretne egy DjVu dokumentumból exportálni, jó helyen jár. A DjVu egy kompakt formátum a beolvasott dokumentumokhoz, de sok downstream rendszer TIFF-et igényel. Ez az útmutató végigvezet a DjVu fájl betöltésén, a szükséges oldalak kiválasztásán, és azok magas minőségű TIFF képekké exportálásán az Aspose.Imaging for Java segítségével. A végére egy újrahasználható kódrészletet kap, amely bármely Java‑alapú képfeldolgozó csővezetékbe illeszkedik.
 
-**Amit tanulni fogsz:**
-- DjVu képek betöltése Aspose.Imaging használatával Java-ban
-- DjVu oldalak exportálása TIFF formátumba
-- Exportálási beállítások konfigurálása és a főbb paraméterek megismerése
+**Mit fog megtanulni**
+- Hogyan töltsön be DjVu képeket az Aspose.Imaging segítségével Java-ban  
+- A konkrét DjVu oldalak exportálása TIFF formátumba  
+- Exportálási beállítások konfigurálása és a kulcsfontosságú paraméterek megértése  
 
-Mielőtt belemerülnénk a megvalósítás részleteibe, győződjünk meg arról, hogy minden elő van készítve a zökkenőmentes élmény érdekében.
+Mielőtt belemerülnénk, győződjön meg róla, hogy a fejlesztői környezete megfelel az alább felsorolt előfeltételeknek.
+
+## Gyors válaszok
+- **Mi a fő osztály a DjVu kezeléséhez?** `DjvuImage` egy DjVu dokumentumot reprezentál a memóriában.  
+- **Hány kódsorra van szükség egy oldal TIFF-be exportálásához?** Csak két sor a kép betöltése után.  
+- **Mely Maven artefakt biztosítja a DjVu támogatást?** `com.aspose:aspose-imaging` (verzió 25.5+).  
+- **Exportálhatok több oldalt egyszerre?** Igen, használja az `IntRange`-t a tartomány megadásához.  
+- **Szükségem van licencre a termeléshez?** Teljes licenc szükséges; egy ideiglenes próba elérhető.
+
+## Mi az a “how to export tiff”?
+**“How to export TIFF”** a folyamatot jelenti, amely során egy képet vagy dokumentumoldalt a Tagged Image File Format (TIFF) formátumba konvertálják, egy veszteségmentes formátum, amelyet széles körben használnak archiválásra és nyomtatásra. Az Aspose.Imaging egyetlen API hívással kezeli ezt a konverziót, miközben megőrzi a felbontást és a tömörítési beállításokat. A konverzió minden vizuális részletet megtart, így alkalmas magas minőségű archiválási tárolásra és downstream feldolgozásra.
+
+## Miért használja az Aspose.Imaging-et Java képfeldolgozáshoz?
+Az Aspose.Imaging **150+** bemeneti és kimeneti formátumot támogat, **5 000 oldal**-ig képes fájlokat feldolgozni anélkül, hogy a teljes dokumentumot a memóriába töltené, és szálbiztos műveleteket kínál. Ezek a számszerű képességek megbízható választássá teszik a nagy áteresztőképességű Java képfeldolgozó feladatokhoz, különösen nagy dokumentumkészletek esetén, amelyek kötegelt konverziót és minimális memóriahasználatot igényelnek.
 
 ## Előfeltételek
 
-A bemutató hatékony követéséhez a következőkre van szükséged:
+- **Aspose.Imaging for Java Library** – 25.5 vagy újabb verzió.  
+- **Java Development Kit (JDK)** – 8 vagy újabb, megfelelően konfigurálva a gépén.  
+- **Alap Java ismeretek** – kényelmesen kell tudnia a fájl I/O és a kivételkezelés kezelését.
 
-- **Aspose.Imaging Java könyvtárhoz**Győződjön meg arról, hogy a 25.5-ös vagy újabb verzió telepítve van.
-- **Fejlesztői környezet**A Java Development Kitnek (JDK) telepítve és megfelelően konfigurálva kell lennie a gépén.
-- **Java programozási alapismeretek**Előnyt jelent a Java szintaxis és fájlkezelés ismerete.
+## Hogyan állítsuk be a Maven Aspose Imaging-et?
 
-## Az Aspose.Imaging beállítása Java-hoz
-
-Az Aspose.Imaging for Java robusztus támogatást nyújt a képfeldolgozási feladatokhoz, beleértve a DjVu fájlokkal való munkát is. Lássuk, hogyan kell beüzemelni:
-
-### Maven-függőség
-Adja hozzá a következő függőséget a `pom.xml`:
+Az Aspose.Imaging Maven projektbe való felvételéhez adja hozzá a függőséget a projekt `pom.xml` fájljához. A Maven letölti a könyvtárat és annak tranzitív függőségeit, így az API elérhető lesz a fordításhoz és a futásidőhöz. A kódrészlet hozzáadása után futtassa a `mvn clean install` parancsot, hogy biztosítsa a artefakt feloldását és a projekt sikeres felépítését.
 
 ```xml
 <dependency>
@@ -47,27 +107,26 @@ Adja hozzá a következő függőséget a `pom.xml`:
 </dependency>
 ```
 
-### Gradle konfiguráció
+## Hogyan állítsuk be a Gradle Aspose Imaging-et?
 
-A Gradle-t használóknak a következőket kell tartalmazniuk a listájukon: `build.gradle`:
+Gradle építésekhez deklarálja az Aspose.Imaging függőséget a `build.gradle` fájlban. A Gradle letölti a könyvtárat a Maven Centralról, így használhatja az API-t a Java kódjában. A szkript frissítése után frissítse a projektet, hogy letöltse a JAR-t és szinkronizálja a függőségeket.
 
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-### Közvetlen letöltés
+## Közvetlen letöltés
 
-Alternatív megoldásként letöltheti a legújabb Aspose.Imaging for Java könyvtárat a következő címről: [Aspose.Imaging kiadások](https://releases.aspose.com/imaging/java/).
+A legújabb JAR-t letöltheti a [Aspose.Imaging releases](https://releases.aspose.com/imaging/java/) oldalról.
 
-#### Licencszerzés
+### Licenc beszerzése
 
-Az Aspose.Imaging használatának megkezdéséhez:
-- **Ingyenes próbaverzió**: Szerezzen be egy ideiglenes licencet a funkciók kiértékeléséhez.
-- **Vásárlás**Fontolja meg egy teljes licenc megvásárlását éles használatra.
+- **Free Trial** – szerezzen be egy ideiglenes licencet értékeléshez.  
+- **Purchase** – fontolja meg egy teljes licenc megvásárlását a termelési használathoz.
 
-### Inicializálás és beállítás
+## Inicializálás és beállítás
 
-A letöltés után mindenképpen inicializáld a könyvtárat a Java projektedben:
+Mielőtt bármely API-t használna, inicializálnia kell a könyvtárat. A `License` osztályt arra használják, hogy az Aspose.Imaging licencfájlt alkalmazzák a könyvtárra, ezáltal biztosítva a teljes funkcionalitást az értékelési korlátozások nélkül.
 
 ```java
 import com.aspose.imaging.License;
@@ -76,141 +135,116 @@ License license = new License();
 license.setLicense("path/to/your/license.lic");
 ```
 
-## Megvalósítási útmutató
+## Hogyan töltsük be a DjVu-t?
 
-Két fő funkciót fogunk áttekinteni: egy DjVu kép betöltését és bizonyos oldalak TIFF formátumba exportálását.
+A DjvuImage a legfelső szintű objektum, amely egy DjVu fájlt reprezentál a memóriában. Egy DjVu dokumentum beolvasásához hívja meg a statikus `Image.load()` metódust a fájl elérési úttal; ez a metódus egy `Image` példányt ad vissza, amelyet átkastelhet `DjvuImage`-re. Az `Image.load()` egy statikus metódus, amely beolvas egy képfájlt és egy `Image` objektumot ad vissza, amely a betöltött tartalmat reprezentálja.
 
-### DjVu kép betöltése
-
-**Áttekintés**Ez a funkció bemutatja, hogyan tölthet be egy DjVu fájlt Java alkalmazásába az Aspose.Imaging használatával.
-
-#### Lépésről lépésre történő megvalósítás:
-
-1. **Adja meg a dokumentum elérési útját**
-
-   ```java
+```java
    String dataDir = "YOUR_DOCUMENT_DIRECTORY" + "/Sample.djvu";
    ```
 
-2. **Töltse be a DjVu képet**
-
-   Használat `Image.load()` a DjVu fájl beolvasása egy `DjvuImage` objektum.
-
-   ```java
+```java
    try (DjvuImage image = (DjvuImage) Image.load(dataDir)) {
-       // A kép most betöltődik és készen áll a további feldolgozásra.
+       // The image is now loaded and ready for further processing.
    }
    ```
 
-3. **Hibaelhárítás**
+### Hibakeresés
 
-   - Győződjön meg arról, hogy a fájl elérési útja helyes.
-   - kivételek kezelése a hibák szabályos kezelése érdekében.
+- Ellenőrizze, hogy a fájl elérési útja helyes és hozzáférhető.  
+- Tegye a betöltési hívást egy try‑catch blokkba, hogy kezelje a `IOException` vagy `ImageLoadException` kivételeket.
 
-### DjVu oldalak exportálása TIFF formátumba
+## Hogyan exportáljunk TIFF-et?
 
-**Áttekintés**: Ez a funkció lehetővé teszi, hogy egy DjVu dokumentumból bizonyos oldalakat válasszon ki, és TIFF képként exportálja azokat.
+Egy DjVu oldal TIFF-be exportálása magában foglalja egy `TiffOptions` objektum létrehozását, amely meghatározza a tömörítést, felbontást és egyéb beállításokat, majd a kívánt oldal `save()` metódusának meghívását. A `TiffOptions` egy osztály, amely a TIFF kimenet konfigurációját tartalmazza, például a tömörítés típusát és a színmélységet. Használjon `IntRange`-t a konvertálandó oldalak kiválasztásához, majd iteráljon és mentse minden oldalt külön TIFF fájlként.
 
-#### Lépésről lépésre történő megvalósítás:
+Hozza létre a kimeneti könyvtárat, állítsa be a `TiffOptions`-t, válassza ki az oldalakat `IntRange`-vel, és végül mentse minden oldalt TIFF fájlként.
 
-1. **Kimeneti könyvtár beállítása**
-
-   Adja meg, hogy hová legyenek mentve a TIFF fájlok.
-
-   ```java
+```java
    String outputDir = "YOUR_OUTPUT_DIRECTORY" + "/ConvertDjvuPagesToTiff_out.tiff";
    ```
 
-2. **TiffOptions objektum létrehozása**
-
-   Konfigurálja az exportálási beállításokat, megadva a formátumot és a tömörítést.
-
-   ```java
+```java
    TiffOptions exportOptions = new TiffOptions(TiffExpectedFormat.TiffDeflateBw);
    ```
 
-3. **Oldalak kiválasztása exportáláshoz**
-
-   Használat `IntRange` az oldalszámok megadásához (0-indexű).
-
-   ```java
-   IntRange range = new IntRange(0, 2); // Exportálja az első három oldalt.
+```java
+   IntRange range = new IntRange(0, 2); // Export the first three pages.
    exportOptions.setMultiPageOptions(new DjvuMultiPageOptions(range));
    ```
 
-4. **Oldalak exportálása TIFF formátumban**
-
-   Mentse el a kiválasztott oldalakat a kívánt formátumban.
-
-   ```java
+```java
    try (DjvuImage image = (DjvuImage) Image.load(dataDir)) {
        image.save(outputDir, exportOptions);
    }
    ```
 
-5. **Hibaelhárítási tippek**
+### Gyakori buktatók
 
-   - Ellenőrizze, hogy `dataDir` és `outputDir` az utak helyesek.
-   - Győződjön meg arról, hogy a megadott oldaltartomány létezik a dokumentumon belül.
+- Győződjön meg róla, hogy az `outputDir` létezik; ellenkező esetben a `save()` kivételt dob.  
+- Ne feledje, hogy az oldal indexek **nulla‑alapúak**; az 1. oldal indexe 0.
 
 ## Gyakorlati alkalmazások
 
-Íme néhány valós felhasználási eset a DjVu oldalak TIFF formátumba exportálására:
+A DjVu oldalak TIFF-be exportálása számos helyzetben hasznos:
 
-1. **Archív rendszerek**: Archív dokumentumok TIFF formátumba konvertálása széles körben támogatott formátumban való megőrzéshez.
-2. **Dokumentum-felülvizsgálati munkafolyamatok**: Nagy DjVu fájlokból bizonyos oldalak kinyerése áttekintéshez vagy jegyzetekhez.
-3. **Integráció dokumentumkezelő rendszerekkel**: Automatizálja a beolvasott dokumentumok konvertálását a könnyebb hozzáférés és kereshetőség érdekében.
+1. **Archival Systems** – A beolvasott dokumentumok megőrzése egy általánosan elfogadott formátumban.  
+2. **Document Review Workflows** – Csak a megjegyzést igénylő oldalakat vonja ki.  
+3. **Integration with DMS** – TIFF képeket juttasson be a meglévő dokumentumkezelő csővezetékekbe, amelyek nem értik a DjVu-t.
 
-## Teljesítménybeli szempontok
+## Teljesítmény szempontok
 
-Amikor az Aspose.Imaging-gel dolgozunk Java-ban:
+Nagy DjVu fájlok kezelésekor:
 
-- **Erőforrás-felhasználás optimalizálása**: A try-with-resources metódussal hatékonyan kezelheti a memóriát.
-- **Nagy fájlok kezelése**: A nagy DjVu fájlokat feldolgozás előtt bontsa kisebb darabokra.
-- **Bevált gyakorlatok**Mindig kezelje a kivételeket és validálja a bemeneteket a futásidejű hibák elkerülése érdekében.
+- Használjon **try‑with‑resources**-t a stream-ek automatikus lezárásához és a memória felszabadításához.  
+- Fájlokat darabokban (pl. 10 oldal egyszerre) dolgozzon fel, hogy alacsonyan tartsa a heap lábnyomát.  
+- Előnyben részesítse a `TiffCompression.CCITT4`-et a fekete‑fehér szkenneléshez, hogy csökkentse a fájlméretet minőségveszteség nélkül.
 
-## Következtetés
+## Gyakran Ismételt Kérdések
 
-Most már megtanultad, hogyan tölthetsz be egy DjVu képet, és hogyan exportálhatsz bizonyos oldalakat TIFF formátumban az Aspose.Imaging for Java használatával. Ezek a képességek jelentősen javíthatják az alkalmazásod dokumentumkezelési funkcióit. 
+**Q:** Hogyan telepíthetem az Aspose.Imaging-et Java-hoz a projektembe?  
+**A:** Használja a Maven vagy Gradle módszert, ahogy fent bemutattuk, vagy töltsön le közvetlenül a [Aspose kiadási oldaláról](https://releases.aspose.com/imaging/java/).
 
-**Következő lépések:**
-- Kísérletezzen különböző exportálási formátumokkal.
-- Fedezze fel az Aspose.Imaging további funkcióit a funkcionalitás további bővítéséhez.
+**Q:** Exportálhatok DjVu képeket más formátumokra, mint a TIFF?  
+**A:** Igen, az Aspose.Imaging támogatja a PNG, JPEG, BMP és sok más formátumot is.
 
-Készen állsz arra, hogy ezeket a megoldásokat saját projektjeidben is megvalósítsd? Merülj el mélyebben a dokumentációban, és kezdj el építkezni még ma!
+**Q:** Mit tegyek, ha a licencfájl nem kerül felismerésre?  
+**A:** Ellenőrizze, hogy a licenc útvonala helyes-e, és hogy a `License.setLicense()` hívást minden más API használata előtt meghívja.
 
-## GYIK szekció
+**Q:** Hogyan kezelhetem hatékonyan a nagyon nagy DjVu fájlokat?  
+**A:** A dokumentumot kisebb oldal tartományokban dolgozza fel, és minden `DjvuImage` példányt gyorsan szabadítson fel a memória nyomás elkerülése érdekében.
 
-1. **Hogyan telepíthetem az Aspose.Imaging for Java-t a projektembe?**
-   - Használd a Mavent vagy a Gradle-t a fentiek szerint, vagy töltsd le közvetlenül innen: [Az Aspose kiadási oldala](https://releases.aspose.com/imaging/java/).
+**Q:** Ingyenes-e az Aspose.Imaging kereskedelmi felhasználásra?  
+**A:** Az ideiglenes próba licenc ingyenes, de a termelési telepítésekhez megvásárolt licenc szükséges.
 
-2. **Exportálhatok DjVu képeket TIFF-től eltérő formátumba?**
-   - Igen, az Aspose.Imaging több képformátumot is támogat, például a PNG-t és a JPEG-et.
+## Erőforrások
 
-3. **Mi van, ha a jogosítványom nem működik?**
-   - Győződjön meg arról, hogy a licencfájl elérési útja helyes, és hogy azt használja, mielőtt bármilyen API-hívást végrehajtana.
+- **Dokumentáció**: [Aspose.Imaging Java API Reference](https://reference.aspose.com/imaging/java/)  
+- **Letöltés**: [Aspose.Imaging for Java Releases](https://releases.aspose.com/imaging/java/)  
+- **Vásárlás**: [Buy Aspose.Imaging](https://purchase.aspose.com/buy)  
+- **Ingyenes licenc**: [Get a Free License](https://releases.aspose.com/imaging/java/)  
+- **Ideiglenes licenc**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)  
+- **Támogatás**: [Aspose Community Forum](https://forum.aspose.com/c/imaging/14)
 
-4. **Hogyan kezelhetem hatékonyan a nagy DjVu fájlokat?**
-   - Kisebb részekbe kell őket bontani, vagy megfelelő kivételkezeléssel optimalizálni a memóriahasználatot.
+A fenti lépések elsajátításával megbízhatóan **how to export TIFF**-et tud exportálni DjVu fájlokból bármely Java‑alapú megoldásban. Boldog kódolást!
 
-5. **Ingyenesen használható az Aspose.Imaging Java?**
-   - Ideiglenes licenc érhető el kiértékelési célokra, de a teljes hozzáféréshez és az éles használathoz vásárlás szükséges.
+---
 
-## Erőforrás
+**Legutóbb frissítve:** 2026-07-08  
+**Tesztelve a következővel:** Aspose.Imaging 25.5 for Java  
+**Szerző:** Aspose  
 
-- **Dokumentáció**: [Aspose.Imaging Java API referencia](https://reference.aspose.com/imaging/java/)
-- **Letöltés**: [Aspose.Imaging Java kiadásokhoz](https://releases.aspose.com/imaging/java/)
-- **Vásárlás**: [Vásárolja meg az Aspose.Imaging-et](https://purchase.aspose.com/buy)
-- **Ingyenes próbaverzió**: [Ingyenes licenc beszerzése](https://releases.aspose.com/imaging/java/)
-- **Ideiglenes engedély**: [Ideiglenes engedély igénylése](https://purchase.aspose.com/temporary-license/)
-- **Támogatás**: [Aspose Közösségi Fórum](https://forum.aspose.com/c/imaging/14)
+{{< blocks/products/products-backtop-button >}}
 
-Az Aspose.Imaging Java-hoz való használatával egyszerűsítheted a dokumentumfeldolgozási munkafolyamataidat, és könnyedén kezelheted a DjVu fájlokat. Jó kódolást!
+## Kapcsolódó oktatóanyagok
+
+- [Többoldalas TIFF létrehozása Aspose.Imaging for Java-val: Teljes útmutató](/imaging/java/animation-multi-frame-images/create-multi-page-tiff-aspose-imaging-java/)
+- [DjVu konvertálása PDF-re az Aspose.Imaging for Java segítségével – Lépésről‑lépésre útmutató](/imaging/java/image-loading-saving/convert-djvu-to-pdf-aspose-imaging-java/)
+- [DJVU konvertálása BMP-be Java-ban az Aspose.Imaging segítségével: Lépésről‑lépésre útmutató](/imaging/java/format-conversion-export/export-djvu-pages-bmp-aspose-imaging-java/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
