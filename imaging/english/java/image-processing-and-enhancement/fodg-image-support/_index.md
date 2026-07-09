@@ -1,5 +1,5 @@
 ---
-title: How to Use Aspose.Imaging for Java: FODG Image Support
+title: How to Use Aspose.Imaging for Java - FODG Image Support
 linktitle: FODG Image Support
 second_title: Aspose.Imaging Java Image Processing API
 description: Learn how to use Aspose.Imaging for Java to save image as PNG and work with FODG Image Support. A powerful library for image manipulation and conversion.
@@ -122,6 +122,12 @@ A: Yes, Aspose.Imaging for Java is well‑suited for batch processing. You can l
 ## Conclusion
 Now you know **how to use aspose** to load a FODG file, **convert vector to raster**, and **save image as PNG** using Aspose.Imaging for Java. With these building blocks you can create automated pipelines, integrate image conversion into web services, or simply add support for a new graphics format in your application. Feel free to explore more features in the [documentation](https://reference.aspose.com/imaging/java/) and experiment with different rasterization settings to suit your needs.
 
+---
+
+**Last Updated:** 2026-01-12  
+**Tested With:** Aspose.Imaging for Java 24.12  
+**Author:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -129,9 +135,3 @@ Now you know **how to use aspose** to load a FODG file, **convert vector to rast
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Last Updated:** 2026-01-12  
-**Tested With:** Aspose.Imaging for Java 24.12  
-**Author:** Aspose

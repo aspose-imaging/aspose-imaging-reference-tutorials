@@ -1,5 +1,5 @@
 ---
-title: Medical Image Enhancement: DICOM Image Filtering with Aspose.Imaging for Java
+title: Medical Image Enhancement - DICOM Image Filtering with Aspose.Imaging for Java
 linktitle: DICOM Image Filter Application
 second_title: Aspose.Imaging Java Image Processing API
 description: Learn how to apply image filters for medical image enhancement on DICOM files using Aspose.Imaging for Java.
