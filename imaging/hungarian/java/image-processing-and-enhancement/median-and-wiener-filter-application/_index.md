@@ -116,6 +116,12 @@ A4: A Median szűrő mellett a képnövelő technikák közé tartozik a Wiener 
 **Q5: Használhatom az Aspose.Imaging for Java‑t a webalkalmazásomban?**  
 A5: Igen, integrálhatja az Aspose.Imaging for Java‑t webalkalmazásaiba szerveroldali képfeldolgozáshoz.
 
+---
+
+**Utolsó frissítés:** 2026-01-17  
+**Tesztelt verzió:** Aspose.Imaging for Java 24.11  
+**Szerző:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -123,9 +129,3 @@ A5: Igen, integrálhatja az Aspose.Imaging for Java‑t webalkalmazásaiba szerv
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Utolsó frissítés:** 2026-01-17  
-**Tesztelt verzió:** Aspose.Imaging for Java 24.11  
-**Szerző:** Aspose

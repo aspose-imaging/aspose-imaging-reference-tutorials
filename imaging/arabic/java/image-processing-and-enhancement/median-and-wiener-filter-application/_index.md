@@ -116,6 +116,12 @@ try (Image image = Image.load(dataDir + "your-noisy-image.png"))
 **س5: هل يمكنني استخدام Aspose.Imaging for Java في تطبيق الويب الخاص بي؟**  
 ج5: نعم، يمكنك دمج Aspose.Imaging for Java في تطبيقات الويب الخاصة بك لمعالجة الصور على الخادم.
 
+---
+
+**آخر تحديث:** 2026-01-17  
+**تم الاختبار مع:** Aspose.Imaging for Java 24.11  
+**المؤلف:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -123,9 +129,3 @@ try (Image image = Image.load(dataDir + "your-noisy-image.png"))
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**آخر تحديث:** 2026-01-17  
-**تم الاختبار مع:** Aspose.Imaging for Java 24.11  
-**المؤلف:** Aspose

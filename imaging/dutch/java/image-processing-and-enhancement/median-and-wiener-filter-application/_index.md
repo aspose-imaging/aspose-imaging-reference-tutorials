@@ -116,6 +116,12 @@ A4: Naast de Median‑filter omvatten beeldverbeteringstechnieken Wiener‑filte
 **Q5: Kan ik Aspose.Imaging voor Java gebruiken in mijn webapplicatie?**  
 A5: Ja, je kunt Aspose.Imaging voor Java integreren in je webapplicaties voor server‑side beeldverwerking.
 
+---
+
+**Last Updated:** 2026-01-17  
+**Tested With:** Aspose.Imaging for Java 24.11  
+**Author:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -123,9 +129,3 @@ A5: Ja, je kunt Aspose.Imaging voor Java integreren in je webapplicaties voor se
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Last Updated:** 2026-01-17  
-**Tested With:** Aspose.Imaging for Java 24.11  
-**Author:** Aspose

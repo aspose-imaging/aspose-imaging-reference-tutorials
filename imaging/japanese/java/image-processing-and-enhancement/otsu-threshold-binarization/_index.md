@@ -94,23 +94,6 @@ rasterCachedImage.save("Your Document Directory" + "BinarizationWithOtsuThreshol
 - **ファイルパス:** 常にスラッシュ（`/`）または `Paths.get()` を使用し、プラットフォーム依存のパス問題を回避します。  
 - **ライセンス例外:** 有効なライセンスがないと、保存された画像に透かしが入る可能性があります。
 
-## FAQ
-
-**Q: Otsu 閾値二値化とは何ですか？**  
-A: 前景と背景を分離する最適なグレーレベル閾値を自動的に選択し、クリーンな二値画像を生成するアルゴリズムです。
-
-**Q: Aspose.Imaging for Java のインストール方法は？**  
-A: [このリンク](https://releases.aspose.com/imaging/java/) からダウンロードしてインストールできます。
-
-**Q: Aspose.Imaging for Java のライセンス形態は？**  
-A: 無料トライアルや一時ライセンスを含む複数のオプションがあり、詳細は [Aspose Licensing](https://purchase.aspose.com/buy) と [Temporary License](https://purchase.aspose.com/temporary-license/) をご覧ください。
-
-**Q: Aspose.Imaging for Java のドキュメントとサポートはどこで入手できますか？**  
-A: [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/) でドキュメントを、[Aspose.Imaging Forum](https://forum.aspose.com/) でサポートを受けられます。
-
-**Q: 商用プロジェクトで Aspose.Imaging for Java を使用できますか？**  
-A: はい。個人・商用問わず利用可能で、ニーズに合わせたライセンスオプションを選択できます。
-
 ## 追加 FAQ
 
 **Q: Otsu 法はカラー画像でも機能しますか？**  

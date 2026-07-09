@@ -17,40 +17,40 @@ weight: 25
 
 # Hur man justerar ljusstyrka på bilder med Aspose.Imaging för Java
 
-## Introduction
+## Introduktion
 
-Justering av ljusstyrka är en av de vanligaste uppgifterna inom **java image processing**. Oavsett om du förbereder medicinska skanningar, polerar produktfoton eller helt enkelt förbättrar personliga bilder, kan kunskap om **how to adjust brightness** snabbt och pålitligt spara timmar av manuellt arbete. I den här handledningen går vi igenom ett komplett, produktionsklart exempel som visar **how to adjust brightness** med Aspose.Imaging för Java, ett kraftfullt bibliotek som hanterar dussintals format direkt.
+Justering av ljusstyrka är en av de vanligaste uppgifterna inom **java bildbehandling**. Oavsett om du förbereder medicinska skanningar, polerar produktfoton eller helt enkelt förbättra personliga bilder, kan kunskap om **how to adjust brightness** snabbt och lätt spara timmar av manuellt arbete. I den här handledningen går vi igenom ett komplett, produktionsklart exempel som visar **how to adjust brightness** med Aspose.Imaging för Java, ett kraftfullt bibliotek som hanterar dussintals format direkt.
 
-## Quick Answers
-- **What does “adjust brightness” mean?** Det ändrar den övergripande ljusheten för varje pixel i bilden.  
-- **Which library is used?** Aspose.Imaging for Java.  
-- **Do I need a license?** En gratis provversion fungerar för utveckling; en kommersiell licens krävs för produktion.  
-- **Supported formats?** BMP, JPEG, PNG, DICOM, TIFF och många fler.  
-- **Typical implementation time?** Ungefär 10 minuter för ett grundläggande skript.
+## Snabba svar
+- **Vad betyder "justera ljusstyrkan"?** Det ändrar den övergripande ljusheten för varje pixel i bilden.
+- **Vilket bibliotek används?** Aspose.Imaging för Java.
+- **Behöver jag en licens?** En gratis provversion fungerar för utveckling; en kommersiell licens krävs för produktion.
+- **Format som stöds?** BMP, JPEG, PNG, DICOM, TIFF och många fler.
+- **Typisk implementeringstid?** Ungefär 10minuter för ett grundläggande skript.
 
-## What is “how to adjust brightness” in Java image processing?
+## Vad är "hur man justerar ljusstyrkan" i Java-bildbehandling?
 
 Att justera ljusstyrka innebär att applicera ett enhetligt offset på pixelintensitetsvärdena. I Aspose.Imaging exponeras detta via metoden `adjustBrightness(int value)`, där positiva värden ljusar upp bilden och negativa värden mörkar den.
 
-## Why use Aspose.Imaging for Java image enhancement?
+## Varför använda Aspose.Imaging för Java-bildförbättring?
 
-- **Broad format support** – Hanterar DICOM, BMP, JPEG, PNG, TIFF, etc., utan extra codecs.  
-- **Simple API** – En‑radskallar för vanliga justeringar som ljusstyrka, kontrast och gamma.  
-- **Performance‑optimized** – Fungerar effektivt på stora medicinska bilder och högupplösta foton.  
+- **Stöd för brett format** - Hanterar DICOM, BMP, JPEG, PNG, TIFF, etc., utan extra codecs.
+- **Simple API** – En‑radskallar för vanliga justeringar som ljusstyrka, kontrast och gamma.
+- **Performance-optimized** – Fungerar effektivt på stora medicinska bilder och högupplösta foton.
 - **Cross‑platform** – Kör på vilken JVM som helst, vilket gör det idealiskt för server‑sidiga bearbetningspipeline.
 
-## Prerequisites
+## Förutsättningar
 
 Innan vi dyker ner i koden, se till att du har följande:
 
-1. **Java Development Environment** – Installera den senaste JDK:n från [website](https://www.oracle.com/java/technologies/javase-downloads).  
-2. **Aspose.Imaging for Java** – Följ installationsguiden på Aspose.Imaging‑webbplatsen på [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/).  
-3. **Sample Image** – En DICOM‑fil (`image.dcm`) eller något annat stödformat du vill ljusa upp.  
+1. **Java Development Environment** – Installera den senaste JDK:n från [webbplats](https://www.oracle.com/java/technologies/javase-downloads).
+2. **Aspose.Imaging for Java** – Följ installationsguiden på Aspose.Imaging‑webbplatsen på [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/).
+3. **Sample Image** – En DICOM-fil (`image.dcm`) eller något annat stödformat du vill ljusa upp.
 4. **IDE** – Eclipse, IntelliJ IDEA eller någon annan Java‑IDE du föredrar.
 
 Med dessa förutsättningar klara, låt oss börja koda.
 
-## Import Packages
+## Importera paket
 
 Först, importera de nödvändiga Aspose.Imaging‑klasserna:
 
@@ -60,9 +60,9 @@ import com.aspose.imaging.fileformats.dicom.DicomImage;
 import com.aspose.imaging.imageoptions.BmpOptions;
 ```
 
-## Step‑by‑Step Guide
+## Steg-för-steg-guide
 
-### Step 1: Define the File Paths
+### Steg 1: Definiera filsökvägarna
 
 Ange in‑ och utdata‑platserna. Ersätt `"Your Document Directory"` med den faktiska mappen på din maskin.
 
@@ -72,7 +72,7 @@ String inputFile = dataDir + "image.dcm";
 String outputFile = "Your Document Directory" + "AdjustingBrightness_out.bmp";
 ```
 
-### Step 2: Load the DICOM Image
+### Steg 2: Ladda DICOM-bilden
 
 Använd `Image.load`‑metoden för att läsa in DICOM‑filen i minnet.
 
@@ -82,7 +82,7 @@ try (DicomImage image = (DicomImage) Image.load(inputFile)) {
 }
 ```
 
-### Step 3: Adjust the Brightness
+### Steg 3: Justera ljusstyrkan
 
 Inuti `try`‑blocket, anropa `adjustBrightness`. Ett värde på `50` ljusar upp bilden märkbart; använd negativa tal för att mörka den.
 
@@ -92,7 +92,7 @@ image.adjustBrightness(50);
 
 > **Proffstips:** För subtila justeringar, börja med värden mellan `-20` och `20`. Testa olika nivåer för att undvika att högdagrar eller skuggor klipps.
 
-### Step 4: Save the Resultant Image
+### Steg 4: Spara den resulterande bilden
 
 Skriv slutligen den modifierade bilden till disk med BMP‑alternativ (du kan välja andra format vid behov).
 
@@ -102,37 +102,37 @@ image.save(outputFile, new BmpOptions());
 
 När programmet avslutas kommer `AdjustingBrightness_out.bmp` att innehålla den ljusare versionen av din ursprungliga DICOM‑bild.
 
-## Common Issues & Solutions
+## Vanliga problem och lösningar
 
 | Problem | Orsak | Lösning |
 |-------|-------|-----|
-| **No output file created** | Felaktig sökväg eller saknade skrivbehörigheter | Verifiera `outputFile`‑sökvägen och säkerställ att katalogen finns och är skrivbar. |
-| **Image looks washed out** | Ljusstyrkevärdet för högt | Minska justeringsvärdet eller applicera kontrastkorrektion efter ljusning. |
-| **Unsupported format error** | Försök att läsa ett format som inte hanteras av DICOM‑läsaren | Använd rätt bildklass (t.ex. `BmpImage`) för icke‑DICOM‑filer. |
+| **Ingen utdatafil skapad** | Felaktig sökväg eller saknade skrivbehörigheter | Verifiera `outputFile`‑sökvägen och säkerställt att katalogen finns och är skrivbar. |
+| **Bilden ser uttvättad ut** | Ljusstyrkevärdet för högt | Minska justeringsvärdet eller applicera kontrastkorrektion efter ljusning. |
+| **Formatfel som inte stöds** | Försök att läsa ett format som inte hanteras av DICOM‑läsaren | Använd rätt bildklass (t.ex. `BmpImage`) för icke‑DICOM‑filer. |
 
-## Frequently Asked Questions
+## Vanliga frågor
 
-### Q1: Is Aspose.Imaging for Java suitable for professional image processing tasks?
+### F1: Är Aspose.Imaging för Java lämplig för professionella bildbehandlingsuppgifter?
 
 A1: Ja, Aspose.Imaging for Java är ett mångsidigt bibliotek designat för professionell bildbehandling och erbjuder ett brett spektrum av funktioner och alternativ.
 
-### Q2: Can I use Aspose.Imaging for Java with other Java libraries?
+### F2: Kan jag använda Aspose.Imaging för Java med andra Java-bibliotek?
 
 A2: Absolut! Aspose.Imaging for Java kan integreras sömlöst med andra Java‑bibliotek och ramverk.
 
-### Q3: What image formats are supported by Aspose.Imaging for Java?
+### F3: Vilka bildformat stöds av Aspose.Imaging för Java?
 
-A3: Aspose.Imaging for Java stödjer en mängd bildformat, inklusive BMP, JPEG, PNG, TIFF, GIF och fler.
+A3: Aspose.Imaging för Java stödjer en mängd bildformat, inklusive BMP, JPEG, PNG, TIFF, GIF och fler.
 
-### Q4: Is there a free trial available for Aspose.Imaging for Java?
+### F4: Finns det en gratis testversion tillgänglig för Aspose.Imaging för Java?
 
-A4: Ja, du kan prova Aspose.Imaging for Java med en gratis provversion. Besök [here](https://releases.aspose.com/) för att komma igång.
+A4: Ja, du kan prova Aspose.Imaging för Java med en gratis provversion. Besök [här](https://releases.aspose.com/) för att komma igång.
 
-### Q5: Where can I get support or assistance with Aspose.Imaging for Java?
+### F5: Var kan jag få support eller hjälp med Aspose.Imaging för Java?
 
 A5: Du kan hitta hjälp och gå med i communityn på [Aspose.Imaging for Java forum](https://forum.aspose.com/).
 
-## Conclusion
+## Slutsats
 
 I den här **java image processing tutorial** demonstrerade vi **how to adjust brightness** med Aspose.Imaging för Java. Genom att följa de fyra koncisa stegen – importera paket, definiera sökvägar, ladda bilden, justera ljusstyrka och spara – kan du integrera robust **java image enhancement** i vilken applikation som helst, från medicinska bildpipeline till e‑handel foto‑arbetsflöden. Experimentera med olika ljusstyrkevärden, kombinera dem med kontrast‑ eller gamma‑justeringar, och lås upp hela potentialen i dina visuella data.
 

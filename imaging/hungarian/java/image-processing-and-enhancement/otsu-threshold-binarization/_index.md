@@ -95,23 +95,6 @@ rasterCachedImage.save("Your Document Directory" + "BinarizationWithOtsuThreshol
 - **Fájl útvonalak:** Mindig használjon perjel (`/`) karaktereket vagy a `Paths.get()` metódust a platform‑specifikus útvonal problémák elkerülése érdekében.  
 - **Licenc kivételek:** Érvényes licenc hiányában a könyvtár vízjelet helyezhet el a mentett képen.
 
-## Gyakran Ismételt Kérdések
-
-**Q: Mi az Otsu küszöb binarizáció?**  
-A: Ez egy algoritmus, amely automatikusan kiválasztja az optimális szürke‑szintű küszöböt az előtér és a háttér elválasztásához, és tiszta bináris képet hoz létre.
-
-**Q: Hogyan telepíthetem az Aspose.Imaging for Java-t?**  
-A: Letöltheti és telepítheti az Aspose.Imaging for Java-t a [következő hivatkozásról](https://releases.aspose.com/imaging/java/).
-
-**Q: Vannak licencelési lehetőségek az Aspose.Imaging for Java-hoz?**  
-A: Igen, különböző licencelési lehetőségeket tekinthet meg, beleértve az ingyenes próbákat és az ideiglenes licenceket, a [Aspose Licensing](https://purchase.aspose.com/buy) és a [Temporary License](https://purchase.aspose.com/temporary-license/) oldalakon.
-
-**Q: Hol találok dokumentációt és támogatást az Aspose.Imaging for Java-hoz?**  
-A: A dokumentációt a [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/) oldalon érheti el, a támogatást pedig a [Aspose.Imaging Forum](https://forum.aspose.com/) fórumon kaphatja.
-
-**Q: Használhatom az Aspose.Imaging for Java-t kereskedelmi projektjeimben?**  
-A: Igen, az Aspose.Imaging for Java alkalmas személyes és kereskedelmi projektekhez egyaránt. Megtekintheti a licencelési lehetőségeket, hogy megfeleljenek az Ön speciális igényeinek.
-
 ## További Gyakran Ismételt Kérdések
 
 **Q: Működik az Otsu módszer színes képeken?**  

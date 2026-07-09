@@ -116,6 +116,12 @@ Aspose.Imaging for Java — коммерческая библиотека, но 
 **Вопрос 5: Можно ли использовать Aspose.Imaging for Java в веб‑приложении?**  
 Да, вы можете интегрировать Aspose.Imaging for Java в свои веб‑приложения для серверной обработки изображений.
 
+---
+
+**Последнее обновление:** 2026-01-17  
+**Тестировано с:** Aspose.Imaging for Java 24.11  
+**Автор:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -123,9 +129,3 @@ Aspose.Imaging for Java — коммерческая библиотека, но 
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Последнее обновление:** 2026-01-17  
-**Тестировано с:** Aspose.Imaging for Java 24.11  
-**Автор:** Aspose

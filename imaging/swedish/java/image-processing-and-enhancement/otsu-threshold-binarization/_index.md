@@ -95,23 +95,6 @@ rasterCachedImage.save("Your Document Directory" + "BinarizationWithOtsuThreshol
 - **Sökvägar:** Använd alltid framåtsnedstreck (`/`) eller `Paths.get()` för att undvika plattforms‑specifika sökvägsproblem.  
 - **Licensundantag:** Utan en giltig licens kan biblioteket lägga ett vattenstämpel i den sparade bilden.
 
-## Vanliga frågor
-
-**Q: Vad är Otsu‑tröskelbinärisering?**  
-A: Det är en algoritm som automatiskt väljer den optimala gråvärdestöskeln för att separera förgrund och bakgrund, vilket ger en ren binär bild.
-
-**Q: Hur installerar jag Aspose.Imaging för Java?**  
-A: Du kan ladda ner och installera Aspose.Imaging för Java från [denna länk](https://releases.aspose.com/imaging/java/).
-
-**Q: Finns det licensalternativ för Aspose.Imaging för Java?**  
-A: Ja, du kan utforska olika licensalternativ, inklusive gratis provversioner och tillfälliga licenser, på [Aspose Licensing](https://purchase.aspose.com/buy) och [Temporary License](https://purchase.aspose.com/temporary-license/).
-
-**Q: Var kan jag hitta dokumentation och support för Aspose.Imaging för Java?**  
-A: Du kan komma åt dokumentationen på [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/) och få support via [Aspose.Imaging Forum](https://forum.aspose.com/).
-
-**Q: Kan jag använda Aspose.Imaging för Java i mina kommersiella projekt?**  
-A: Ja, Aspose.Imaging för Java är lämplig för både personliga och kommersiella projekt. Du kan utforska licensalternativen för att passa dina specifika behov.
-
 ## Ytterligare vanliga frågor
 
 **Q: Fungerar Otsu‑metoden på färgbilder?**  

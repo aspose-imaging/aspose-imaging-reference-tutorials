@@ -116,6 +116,12 @@ A4: Kromě mediánového filtru zahrnují techniky vylepšování obrazu Wienero
 **Q5: Mohu použít Aspose.Imaging for Java ve své webové aplikaci?**  
 A5: Ano, můžete integrovat Aspose.Imaging for Java do svých webových aplikací pro server‑side zpracování obrazu.
 
+---
+
+**Poslední aktualizace:** 2026-01-17  
+**Testováno s:** Aspose.Imaging for Java 24.11  
+**Autor:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -123,9 +129,3 @@ A5: Ano, můžete integrovat Aspose.Imaging for Java do svých webových aplikac
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Poslední aktualizace:** 2026-01-17  
-**Testováno s:** Aspose.Imaging for Java 24.11  
-**Autor:** Aspose

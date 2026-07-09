@@ -95,23 +95,6 @@ rasterCachedImage.save("Your Document Directory" + "BinarizationWithOtsuThreshol
 - **फ़ाइल पाथ:** हमेशा फॉरवर्ड स्लैश (`/`) या `Paths.get()` उपयोग करें ताकि प्लेटफ़ॉर्म‑विशिष्ट पाथ समस्याओं से बचा जा सके।  
 - **लाइसेंस अपवाद:** वैध लाइसेंस न होने पर लाइब्रेरी सहेजी गई छवि में वॉटरमार्क एम्बेड कर सकती है।
 
-## अक्सर पूछे जाने वाले प्रश्न
-
-**प्रश्न: Otsu Threshold Binarization क्या है?**  
-**उत्तर:** यह एक एल्गोरिदम है जो स्वचालित रूप से इष्टतम ग्रे‑लेवल थ्रेशोल्ड चुनता है ताकि अग्रभूमि और पृष्ठभूमि को अलग किया जा सके, और एक साफ़ बाइनरी इमेज उत्पन्न करता है।
-
-**प्रश्न: मैं Aspose.Imaging for Java को कैसे इंस्टॉल कर सकता हूँ?**  
-**उत्तर:** आप Aspose.Imaging for Java को [this link](https://releases.aspose.com/imaging/java/) से डाउनलोड और इंस्टॉल कर सकते हैं।
-
-**प्रश्न: Aspose.Imaging for Java के लिए कोई लाइसेंसिंग विकल्प हैं?**  
-**उत्तर:** हाँ, आप विभिन्न लाइसेंसिंग विकल्पों का पता लगा सकते हैं, जिसमें फ्री ट्रायल और टेम्पररी लाइसेंस शामिल हैं, [Aspose Licensing](https://purchase.aspose.com/buy) और [Temporary License](https://purchase.aspose.com/temporary-license/) पर।
-
-**प्रश्न: मैं Aspose.Imaging for Java के लिए दस्तावेज़ीकरण और सपोर्ट कहाँ पा सकता हूँ?**  
-**उत्तर:** आप दस्तावेज़ीकरण [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/) पर देख सकते हैं और [Aspose.Imaging Forum](https://forum.aspose.com/) से सपोर्ट प्राप्त कर सकते हैं।
-
-**प्रश्न: क्या मैं Aspose.Imaging for Java को अपने व्यावसायिक प्रोजेक्ट्स में उपयोग कर सकता हूँ?**  
-**उत्तर:** हाँ, Aspose.Imaging for Java व्यक्तिगत और व्यावसायिक दोनों प्रोजेक्ट्स के लिए उपयुक्त है। आप अपनी विशिष्ट आवश्यकताओं के अनुसार लाइसेंसिंग विकल्पों का पता लगा सकते हैं।
-
 ## अतिरिक्त अक्सर पूछे जाने वाले प्रश्न
 
 **प्रश्न: क्या Otsu विधि रंगीन छवियों पर काम करती है?**  

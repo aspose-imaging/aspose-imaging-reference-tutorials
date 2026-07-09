@@ -95,23 +95,6 @@ rasterCachedImage.save("Your Document Directory" + "BinarizationWithOtsuThreshol
 - **Cesty k souborům:** Vždy používejte lomítka (`/`) nebo `Paths.get()` pro vyhnutí se problémům specifickým pro platformu.  
 - **Výjimky licence:** Bez platné licence může knihovna vložit vodoznak do uloženého obrázku.
 
-## Frequently Asked Questions
-
-**Q: Co je Otsu Threshold Binarizace?**  
-A: Jedná se o algoritmus, který automaticky vybírá optimální šedý práh pro oddělení popředí a pozadí, čímž vytváří čistý binární obrázek.
-
-**Q: Jak mohu nainstalovat Aspose.Imaging pro Java?**  
-A: Můžete stáhnout a nainstalovat Aspose.Imaging pro Java z [this link](https://releases.aspose.com/imaging/java/).
-
-**Q: Existují licenční možnosti pro Aspose.Imaging pro Java?**  
-A: Ano, můžete prozkoumat různé licenční možnosti, včetně bezplatných zkušebních verzí a dočasných licencí, na [Aspose Licensing](https://purchase.aspose.com/buy) a [Temporary License](https://purchase.aspose.com/temporary-license/).
-
-**Q: Kde najdu dokumentaci a podporu pro Aspose.Imaging pro Java?**  
-A: Dokumentaci najdete na [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/) a podporu na [Aspose.Imaging Forum](https://forum.aspose.com/).
-
-**Q: Mohu použít Aspose.Imaging pro Java ve svých komerčních projektech?**  
-A: Ano, Aspose.Imaging pro Java je vhodný jak pro osobní, tak pro komerční projekty. Licenční možnosti můžete přizpůsobit svým konkrétním potřebám.
-
 ## Additional Frequently Asked Questions
 
 **Q: Funguje Otsu metoda na barevných obrázcích?**  

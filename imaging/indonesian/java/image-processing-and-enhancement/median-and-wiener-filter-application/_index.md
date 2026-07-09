@@ -116,6 +116,12 @@ A4: Selain filter Median, teknik peningkatan gambar meliputi penyaringan Wiener,
 **Q5: Bisakah saya menggunakan Aspose.Imaging for Java dalam aplikasi web saya?**  
 A5: Ya, Anda dapat mengintegrasikan Aspose.Imaging for Java ke dalam aplikasi web Anda untuk pemrosesan gambar sisi‑server.
 
+---
+
+**Terakhir Diperbarui:** 2026-01-17  
+**Diuji Dengan:** Aspose.Imaging for Java 24.11  
+**Penulis:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -123,9 +129,3 @@ A5: Ya, Anda dapat mengintegrasikan Aspose.Imaging for Java ke dalam aplikasi we
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Terakhir Diperbarui:** 2026-01-17  
-**Diuji Dengan:** Aspose.Imaging for Java 24.11  
-**Penulis:** Aspose

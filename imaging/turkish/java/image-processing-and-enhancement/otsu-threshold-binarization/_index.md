@@ -95,23 +95,6 @@ rasterCachedImage.save("Your Document Directory" + "BinarizationWithOtsuThreshol
 - **Dosya Yolları:** Platforma özgü yol sorunlarından kaçınmak için her zaman ileri eğik çizgi (`/`) veya `Paths.get()` kullanın.  
 - **Lisans İstisnaları:** Geçerli bir lisans olmadan, kütüphane kaydedilen görüntüye bir filigran ekleyebilir.
 
-## Sıkça Sorulan Sorular
-
-**S: Otsu Eşik Binarizasyonu nedir?**  
-C: Ön planı ve arka planı ayırmak için optimal gri‑seviye eşiğini otomatik olarak seçen bir algoritmadır ve temiz bir ikili görüntü üretir.
-
-**S: Aspose.Imaging for Java nasıl kurulur?**  
-C: Aspose.Imaging for Java'ı [bu bağlantıdan](https://releases.aspose.com/imaging/java/) indirebilir ve kurabilirsiniz.
-
-**S: Aspose.Imaging for Java için lisans seçenekleri var mı?**  
-C: Evet, ücretsiz denemeler ve geçici lisanslar dahil olmak üzere çeşitli lisans seçeneklerini [Aspose Licensing](https://purchase.aspose.com/buy) ve [Temporary License](https://purchase.aspose.com/temporary-license/) adreslerinde inceleyebilirsiniz.
-
-**S: Aspose.Imaging for Java için dokümantasyon ve destek nereden bulunur?**  
-C: Dokümantasyona [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/) adresinden ulaşabilir ve [Aspose.Imaging Forum](https://forum.aspose.com/) üzerinden destek alabilirsiniz.
-
-**S: Aspose.Imaging for Java'ı ticari projelerimde kullanabilir miyim?**  
-C: Evet, Aspose.Imaging for Java hem kişisel hem de ticari projeler için uygundur. İhtiyacınıza uygun lisans seçeneklerini inceleyebilirsiniz.
-
 ## Ek Sıkça Sorulan Sorular
 
 **S: Otsu yöntemi renkli görüntülerde çalışır mı?**  

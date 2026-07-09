@@ -116,6 +116,12 @@ A4: Neben dem Medianfilter gehören zu den Bildverbesserungstechniken Wiener‑F
 **F5: Kann ich Aspose.Imaging für Java in meiner Webanwendung einsetzen?**  
 A5: Ja, Sie können Aspose.Imaging für Java in Webanwendungen für die serverseitige Bildverarbeitung integrieren.
 
+---
+
+**Zuletzt aktualisiert:** 2026-01-17  
+**Getestet mit:** Aspose.Imaging für Java 24.11  
+**Autor:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -123,9 +129,3 @@ A5: Ja, Sie können Aspose.Imaging für Java in Webanwendungen für die serverse
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Zuletzt aktualisiert:** 2026-01-17  
-**Getestet mit:** Aspose.Imaging für Java 24.11  
-**Autor:** Aspose

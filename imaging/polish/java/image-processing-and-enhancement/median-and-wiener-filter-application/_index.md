@@ -116,6 +116,12 @@ A4: Oprócz filtru Median, techniki ulepszania obrazu obejmują filtrowanie Wien
 **Q5: Czy mogę używać Aspose.Imaging for Java w mojej aplikacji webowej?**  
 A5: Tak, możesz zintegrować Aspose.Imaging for Java w swoich aplikacjach webowych do przetwarzania obrazów po stronie serwera.
 
+---
+
+**Ostatnia aktualizacja:** 2026-01-17  
+**Testowano z:** Aspose.Imaging for Java 24.11  
+**Autor:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -123,9 +129,3 @@ A5: Tak, możesz zintegrować Aspose.Imaging for Java w swoich aplikacjach webow
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Ostatnia aktualizacja:** 2026-01-17  
-**Testowano z:** Aspose.Imaging for Java 24.11  
-**Autor:** Aspose

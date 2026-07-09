@@ -95,23 +95,6 @@ rasterCachedImage.save("Your Document Directory" + "BinarizationWithOtsuThreshol
 - **Bestandspaden:** Gebruik altijd schuine strepen (`/`) of `Paths.get()` om platform‑specifieke padproblemen te vermijden.  
 - **Licentie‑Uitzonderingen:** Zonder een geldige licentie kan de bibliotheek een watermerk in de opgeslagen afbeelding plaatsen.
 
-## Veelgestelde Vragen
-
-**Q: Wat is Otsu Threshold Binarisatie?**  
-A: Het is een algoritme dat automatisch de optimale grijs‑niveau drempel selecteert om voorgrond en achtergrond te scheiden, waardoor een schone binaire afbeelding ontstaat.
-
-**Q: Hoe kan ik Aspose.Imaging voor Java installeren?**  
-A: Je kunt Aspose.Imaging voor Java downloaden en installeren via [deze link](https://releases.aspose.com/imaging/java/).
-
-**Q: Zijn er licentie‑opties voor Aspose.Imaging voor Java?**  
-A: Ja, je kunt verschillende licentie‑opties verkennen, inclusief gratis proefversies en tijdelijke licenties, op [Aspose Licensing](https://purchase.aspose.com/buy) en [Temporary License](https://purchase.aspose.com/temporary-license/).
-
-**Q: Waar kan ik documentatie en ondersteuning voor Aspose.Imaging voor Java vinden?**  
-A: Je kunt de documentatie raadplegen op [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/) en ondersteuning krijgen via het [Aspose.Imaging Forum](https://forum.aspose.com/).
-
-**Q: Kan ik Aspose.Imaging voor Java gebruiken in mijn commerciële projecten?**  
-A: Ja, Aspose.Imaging voor Java is geschikt voor zowel persoonlijke als commerciële projecten. Je kunt de licentie‑opties verkennen die passen bij jouw specifieke behoeften.
-
 ## Aanvullende Veelgestelde Vragen
 
 **Q: Werkt de Otsu‑methode op kleurafbeeldingen?**  

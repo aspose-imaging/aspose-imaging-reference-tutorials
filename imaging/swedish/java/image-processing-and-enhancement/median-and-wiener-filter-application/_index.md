@@ -101,20 +101,26 @@ I den här guiden demonstrerade vi **how to denoise image**‑filer med **median
 
 ## Vanliga frågor
 
-**Q1: What is Aspose.Imaging for Java?**  
+**Fråga 1: Vad är Aspose.Imaging för Java?**
 A1: Aspose.Imaging for Java är ett Java‑bibliotek som låter utvecklare arbeta med bilder och utföra olika bildbehandlingsuppgifter programatiskt.
 
-**Q2: Can I use Aspose.Imaging for Java for free?**  
-A2: Aspose.Imaging for Java är ett kommersiellt bibliotek, men du kan få en gratis provversion från [here](https://releases.aspose.com/). För längre användning måste du dock köpa en licens från [here](https://purchase.aspose.com/buy).
+**Fråga 2: Kan jag använda Aspose.Imaging för Java gratis?**
+A2: Aspose.Imaging for Java är ett kommersiellt bibliotek, men du kan få en gratis provversion från [här](https://releases.aspose.com/). För längre användning måste du dock köpa en licens från [här](https://purchase.aspose.com/buy).
 
-**Q3: How can I get support for Aspose.Imaging for Java?**  
+**Fråga 3: Hur kan jag få support för Aspose.Imaging för Java?**
 A3: Du kan söka hjälp och stöd från Aspose.Imaging‑gemenskapen och experter på [Aspose.Imaging Forum](https://forum.aspose.com/).
 
-**Q4: What are some other image enhancement techniques?**  
-A4: Förutom Median‑filtret inkluderar bildförbättringstekniker Wiener‑filtrering, Gaussisk oskärpa och kontrastutsträckning, bland annat.
+**F4: Vad finns det för andra bildförbättringstekniker?**
+A4: Förutom Median‑filtret inkluderar bildförbättringstekniker Wiener‑filtrering, Gaussisk oskärpa och kontraststräckning, bland annat.
 
-**Q5: Can I use Aspose.Imaging for Java in my web application?**  
-A5: Ja, du kan integrera Aspose.Imaging for Java i dina webbapplikationer för server‑sidig bildbehandling.
+**F5: Kan jag använda Aspose.Imaging för Java i min webbapplikation?**
+A5: Ja, du kan integrera Aspose.Imaging för Java i dina webbapplikationer för server-sidig bildbehandling.
+
+---
+
+**Senast uppdaterad:** 2026-01-17  
+**Testad med:** Aspose.Imaging for Java 24.11  
+**Författare:** Aspose
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
@@ -123,9 +129,3 @@ A5: Ja, du kan integrera Aspose.Imaging for Java i dina webbapplikationer för s
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Senast uppdaterad:** 2026-01-17  
-**Testad med:** Aspose.Imaging for Java 24.11  
-**Författare:** Aspose

@@ -62,7 +62,7 @@ import com.aspose.imaging.imageoptions.BmpOptions;
 
 ## 단계별 가이드
 
-### Step 1: Define the File Paths
+### 1단계: 파일 경로 설정
 
 입력 및 출력 위치를 설정합니다. `"Your Document Directory"`를 실제 머신의 폴더 경로로 교체하세요.
 
@@ -72,7 +72,7 @@ String inputFile = dataDir + "image.dcm";
 String outputFile = "Your Document Directory" + "AdjustingBrightness_out.bmp";
 ```
 
-### Step 2: Load the DICOM Image
+### 2단계: DICOM 이미지 불러오기
 
 `Image.load` 메서드를 사용해 DICOM 파일을 메모리로 읽어옵니다.
 
@@ -82,7 +82,7 @@ try (DicomImage image = (DicomImage) Image.load(inputFile)) {
 }
 ```
 
-### Step 3: Adjust the Brightness
+### 3단계: 밝기 조정
 
 `try` 블록 안에서 `adjustBrightness`를 호출합니다. `50` 값을 사용하면 사진이 눈에 띄게 밝아지며, 음수 값을 사용하면 어두워집니다.
 
@@ -92,7 +92,7 @@ image.adjustBrightness(50);
 
 > **Pro tip:** 미세한 조정을 위해서는 `-20`에서 `20` 사이의 값을 시작점으로 사용하세요. 하이라이트나 섀도우가 클리핑되지 않도록 여러 레벨을 테스트해 보세요.
 
-### Step 4: Save the Resultant Image
+### 4단계: 결과 이미지 저장
 
 마지막으로 BMP 옵션을 사용해 수정된 이미지를 디스크에 저장합니다(필요에 따라 다른 포맷도 선택 가능).
 

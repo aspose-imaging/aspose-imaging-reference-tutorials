@@ -116,6 +116,12 @@ R4: Oltre al filtro Mediano, le tecniche di miglioramento includono il filtraggi
 **D5: Posso usare Aspose.Imaging per Java nella mia applicazione web?**  
 R5: Sì, puoi integrare Aspose.Imaging per Java nelle tue applicazioni web per l'elaborazione delle immagini lato server.
 
+---
+
+**Last Updated:** 2026-01-17  
+**Tested With:** Aspose.Imaging for Java 24.11  
+**Author:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -123,9 +129,3 @@ R5: Sì, puoi integrare Aspose.Imaging per Java nelle tue applicazioni web per l
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Last Updated:** 2026-01-17  
-**Tested With:** Aspose.Imaging for Java 24.11  
-**Author:** Aspose

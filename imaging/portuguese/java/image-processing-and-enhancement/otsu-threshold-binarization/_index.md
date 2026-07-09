@@ -96,23 +96,6 @@ rasterCachedImage.save("Your Document Directory" + "BinarizationWithOtsuThreshol
 - **Caminhos de Arquivo:** Sempre use barras (`/`) ou `Paths.get()` para evitar problemas de caminho específicos da plataforma.  
 - **Exceções de Licença:** Sem uma licença válida, a biblioteca pode inserir uma marca d'água na imagem salva.
 
-## Perguntas Frequentes
-
-**Q: O que é a Binarização de Limiar Otsu?**  
-A: É um algoritmo que seleciona automaticamente o limiar de nível de cinza ideal para separar o primeiro plano e o fundo, produzindo uma imagem binária limpa.
-
-**Q: Como posso instalar o Aspose.Imaging para Java?**  
-A: Você pode baixar e instalar o Aspose.Imaging para Java a partir de [este link](https://releases.aspose.com/imaging/java/).
-
-**Q: Existem opções de licenciamento para o Aspose.Imaging para Java?**  
-A: Sim, você pode explorar várias opções de licenciamento, incluindo testes gratuitos e licenças temporárias, em [Aspose Licensing](https://purchase.aspose.com/buy) e [Temporary License](https://purchase.aspose.com/temporary-license/).
-
-**Q: Onde posso encontrar documentação e suporte para o Aspose.Imaging para Java?**  
-A: Você pode acessar a documentação em [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/) e obter suporte no [Aspose.Imaging Forum](https://forum.aspose.com/).
-
-**Q: Posso usar o Aspose.Imaging para Java em meus projetos comerciais?**  
-A: Sim, o Aspose.Imaging para Java é adequado tanto para projetos pessoais quanto comerciais. Você pode explorar as opções de licenciamento para atender às suas necessidades específicas.
-
 ## Perguntas Frequentes Adicionais
 
 **Q: O método Otsu funciona em imagens coloridas?**  
