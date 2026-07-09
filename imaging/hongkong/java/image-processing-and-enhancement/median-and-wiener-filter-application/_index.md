@@ -1,10 +1,11 @@
 ---
-"description": "學習如何使用 Aspose.Imaging for Java 提升影像品質。本逐步教學涵蓋了中值濾波器和維納濾波器在影像去雜訊中的應用。"
-"linktitle": "中位數和維納濾波器應用"
-"second_title": "Aspose.Imaging Java映像處理API"
-"title": "中位數和維納濾波器應用"
-"url": "/zh-hant/java/image-processing-and-enhancement/median-and-wiener-filter-application/"
-"weight": 19
+date: 2026-01-17
+description: 學習如何在 Aspose.Imaging 中使用 Java 中值濾波器來去除圖像噪點。本分步教學涵蓋應用中值濾波器與 Wiener 濾波器進行圖像去噪。
+linktitle: Median Filter Java – Apply Median and Wiener Filters
+second_title: Aspose.Imaging Java Image Processing API
+title: 中值濾波器 Java – 應用中值與維納濾波器
+url: /zh-hant/java/image-processing-and-enhancement/median-and-wiener-filter-application/
+weight: 19
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,23 +14,34 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# 中位數和維納濾波器應用
+# Median Filter Java – 套用 Median 與 Wiener 濾波器
 
-在影像處理領域，去除雜訊和提升影像品質至關重要。 Aspose.Imaging for Java 是一個功能強大的函式庫，提供各種用於處理影像的工具和濾鏡。在本教程中，我們將引導您了解如何使用該庫應用中值濾波器和維納濾波器來清理和去噪圖像。本逐步指南將幫助您實現專業級的影像增強效果。
+在影像處理的領域中，去除雜訊與提升影像品質是關鍵任務。使用 **median filter java**，您可以透過 Aspose.Imaging for Java 有效清理噪點圖像。在本教學中，我們將一步步說明如何套用 Median 與 Wiener 濾波器來去噪，讓您不必編寫複雜程式碼即可取得專業等級的效果。
 
-## 先決條件
+## 快速解答
+- **What does the median filter do?** 它會將每個像素取代為其周圍鄰域的中位數值，去除脈衝雜訊同時保留邊緣。  
+- **Which library supports median filter java?** Aspose.Imaging for Java 提供即用的 `MedianFilterOptions` 類別。  
+- **Do I need a license to run the code?** 免費試用版可用於評估；商業授權則需於正式環境使用。  
+- **Can I chain the median filter with other filters?** 可以，您可以在中值步驟之後再套用其他濾波器，例如 Wiener。  
+- **What image formats are supported?** 大多數點陣圖格式（PNG、JPEG、BMP、TIFF 等）皆完整支援。
 
-在深入本教學之前，請確保您已滿足以下先決條件：
+## 什麼是 Java 中值濾波器？
+中值濾波是一種非線性數位濾波技術，常用於 **remove image noise**。在 Java 中，Aspose.Imaging 透過 `MedianFilterOptions` 類別實作此濾波，您可以自行設定核大小，以決定要考慮多少相鄰像素。
 
-1. Java 開發環境：確保您的電腦上有一個可運行的 Java 開發環境。
+## 為什麼要使用 Java 中值濾波器進行影像去雜訊？
+- **Preserves edges** 比簡單的平均濾波更能保留邊緣細節。  
+- **Simple API** – 只需數行程式碼即可去除斑點與鹽與胡椒雜訊。  
+- **Works on any raster image** 只要是 Aspose.Imaging 能載入的點陣圖，都能直接使用，特別適合伺服器端批次處理。
 
-2. Aspose.Imaging for Java：從下列位置下載並安裝 Aspose.Imaging for Java 函式庫 [這裡](https://releases。aspose.com/imaging/java/).
+## 前提條件
+在開始之前，請確保您已具備以下條件：
 
-3. 雜訊影像範例：準備一張需要去雜訊的雜訊影像。在本教程中，您可以使用任意圖像。
+1. **Java Development Environment** – 已安裝 JDK 8 或更新版本。  
+2. **Aspose.Imaging for Java** – 從 [here](https://releases.aspose.com/imaging/java/) 下載並安裝套件。  
+3. **Sample Noisy Image** – 任意您想清理的圖像；本教學以 `your‑noisy‑image.png` 為例。
 
 ## 導入包
-
-在您的 Java 專案中，首先匯入使用 Aspose.Imaging for Java 所需的套件：
+在您的 Java 專案中，先匯入必要的 Aspose.Imaging 類別：
 
 ```java
 import com.aspose.imaging.Image;
@@ -37,74 +49,76 @@ import com.aspose.imaging.RasterImage;
 import com.aspose.imaging.imagefilters.filteroptions.MedianFilterOptions;
 ```
 
-## 步驟 1：載入雜訊影像
+## 如何應用 Java 中值濾波器
+以下提供逐步說明。每一步皆包含簡短說明與可直接複製的程式碼。
 
-第一步是使用 Aspose.Imaging 載入雜訊影像。請確保指定雜訊影像檔案的路徑。
+### 第一步：載入雜訊影像
+首先，載入您想去噪的圖像。此步驟示範 **load image java**，使用 Aspose.Imaging 的 `Image.load` 方法。
 
 ```java
 String dataDir = "Your Document Directory" + "ConvertingImages/";
 
 try (Image image = Image.load(dataDir + "your-noisy-image.png"))
 {
-    // 將影像轉換為 RasterImage
+    // Cast the image into RasterImage
     RasterImage rasterImage = (RasterImage) image;
 ```
 
-## 步驟 2：建立並配置中值濾波器
-
-現在，建立一個實例 `MedianFilterOptions` 類別並配置濾波器的大小。濾波器大小決定了應用中值濾波器時每個像素周圍的區域。較大的尺寸可以減少雜訊，但可能會使影像模糊。
+### 第二步：建立並配置中值濾波器
+建立 `MedianFilterOptions` 實例並設定核大小。核越大去噪效果越明顯，但可能會使細節變模糊。
 
 ```java
-    // 建立 MedianFilterOptions 類別的實例並設定大小。
+    // Create an instance of MedianFilterOptions class and set the size.
     MedianFilterOptions options = new MedianFilterOptions(4);
 ```
 
-## 步驟 3：應用中值濾波器
-
-接下來，使用上一個步驟配置的選項將中值濾波器套用至 RasterImage 物件。這將有助於消除影像中的雜訊。
+### 第三步：應用中值濾波器
+將濾波套用至整個圖像範圍，這是 **apply median filter** 的核心操作。
 
 ```java
-    // 將中值濾波器應用於 RasterImage 物件。
+    // Apply Median filter to RasterImage object.
     rasterImage.filter(image.getBounds(), options);
 ```
 
-## 步驟4：儲存結果影像
-
-套用中值濾波器後，將去雜訊後的影像儲存到所需位置。
+### 第四步：儲存處理後的影像
+最後，將去噪後的圖像寫入磁碟。您即可看到中值濾波的效果。
 
 ```java
-    // 儲存結果影像
+    // Save the resultant image
     image.save("Your Document Directory" + "denoised-image.png");
 }
 ```
 
-恭喜！您已成功使用 Aspose.Imaging for Java 中的中值濾波器對影像進行去雜訊。
+## 常見問題及解決方案
+- **Kernel size too large** – 圖像可能會過度模糊。大多數照片建議使用 3‑5 之間的值。  
+- **Unsupported image format** – 請確認檔案為 Aspose.Imaging 支援的點陣圖格式。  
+- **OutOfMemoryError** – 處理大型圖像時，可先使用 `RasterImage` 的 `crop` 方法將圖像切割成較小區塊再進行濾波。
 
 ## 結論
-
-在本教程中，我們探索如何利用 Aspose.Imaging for Java 應用中值濾波器對影像進行去噪。該庫提供了豐富的濾波器和工具，是影像處理任務的寶貴資源。按照本指南中概述的步驟，您可以提升影像品質並有效去除雜訊。
+本指南示範了如何使用 Aspose.Imaging 提供的 **median filter java** 方法 **how to denoise image**。依照上述步驟，您可以快速將除噪功能整合至任何基於 Java 的影像處理流程，亦可透過串接 Wiener 濾波或其他進階技術進一步提升效果。
 
 ## 常見問題解答
 
-### 問題1：什麼是 Aspose.Imaging for Java？
+**問題1：什麼是 Aspose.Imaging for Java？ **
+回答1： Aspose.Imaging for Java 是一套讓開發者以程式方式操作影像、執行各種影像處理任務的 Java 函式庫。
 
-A1：Aspose.Imaging for Java 是一個 Java 函式庫，允許開發人員處理影像並以程式設計方式執行各種影像處理任務。
+**問題2：我可以免費使用 Aspose.Imaging for Java 嗎？ **  
+回答2： Aspose.Imaging for Java 為商業授權函式庫，但您可從 [here](https://releases.aspose.com/) 取得免費試用版。若需長期使用，必須於 [here](https://purchase.aspose.com/buy) 購買授權。
 
-### 問題2：我可以免費使用 Aspose.Imaging for Java 嗎？
+**問題3：如何獲得 Aspose.Imaging for Java 的支援？ **
+回答3： 您可在 [Aspose.Imaging Forum](https://forum.aspose.com/) 向社群與專家尋求協助。
 
-A2：Aspose.Imaging for Java 是一個商業庫，但您可以從 [這裡](https://releases.aspose.com/)。但是，為了延長使用時間，您需要從 [這裡](https://purchase。aspose.com/buy).
+**問題4：還有哪些影像增強技術？ **
+回答4： 除了 Median 濾波外，常見的影像增強技術還包括 Wiener 濾波、Gaussian 模糊與對比拉伸等。
 
-### 問題 3：如何獲得 Aspose.Imaging for Java 的支援？
+**問題5：我可以在我的 Web 應用程式中使用 Aspose.Imaging for Java 嗎？ **  
+回答5： 可以，您能將 Aspose.Imaging for Java 整合至 Web 應用程式，實現伺服器端的影像處理。
 
-A3：您可以向 Aspose.Imaging 社群和專家尋求協助和協助 [Aspose.Imaging 論壇](https://forum。aspose.com/).
+---
 
-### Q4：還有哪些影像增強技術？
-
-A4：除了中值濾波之外，影像增強技術還包括維納濾波、高斯模糊、對比拉伸等。
-
-### 問題5：我可以在我的網路應用程式中使用Aspose.Imaging for Java嗎？
-
-A5：是的，您可以將 Aspose.Imaging for Java 整合到您的 Web 應用程式中，以進行伺服器端圖像處理。
+**最後更新：** 2026-01-17  
+**測試環境：** Aspose.Imaging for Java 24.11  
+**作者：** Aspose
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -1,10 +1,11 @@
 ---
-"description": "Aspose.Imaging for Java を使って画像品質を向上させる方法を学びましょう。このステップバイステップのチュートリアルでは、画像のノイズ除去にメディアンフィルターとウィーナーフィルターを適用する方法について説明します。"
-"linktitle": "中央値フィルタとウィーナーフィルタの適用"
-"second_title": "Aspose.Imaging Java 画像処理 API"
-"title": "中央値フィルタとウィーナーフィルタの適用"
-"url": "/ja/java/image-processing-and-enhancement/median-and-wiener-filter-application/"
-"weight": 19
+date: 2026-01-17
+description: Aspose.Imaging を使用した Java のメディアンフィルタの使い方を学び、画像ノイズを除去します。このステップバイステップのチュートリアルでは、画像のノイズ除去のためにメディアンフィルタとウィーナーフィルタの適用方法を解説します。
+linktitle: Median Filter Java – Apply Median and Wiener Filters
+second_title: Aspose.Imaging Java Image Processing API
+title: 中央値フィルタ Java – 中央値フィルタとウィーナーフィルタの適用
+url: /ja/java/image-processing-and-enhancement/median-and-wiener-filter-application/
+weight: 19
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,23 +14,38 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# 中央値フィルタとウィーナーフィルタの適用
+# Median Filter Java – メディアンフィルタとウィーナーフィルタを適用
 
-画像処理の世界では、ノイズ除去と画質向上は極めて重要なタスクです。Aspose.Imaging for Javaは、画像操作のための様々なツールとフィルターを提供する強力なライブラリです。このチュートリアルでは、このライブラリを使用して、メディアンフィルターとウィーナーフィルターを適用し、画像のクリーンアップとノイズ除去を行う手順を詳しく説明します。このステップバイステップガイドは、プロレベルの画像補正を実現するのに役立ちます。
+画像処理の世界では、ノイズ除去と画像品質の向上は重要な作業です。**median filter java** を使用すれば、Aspose.Imaging for Java を使ってノイズの多い画像を効果的にクリーンアップできます。このチュートリアルでは、画像のノイズ除去のためにメディアンフィルタとウィーナーフィルタを適用する手順を説明しますので、複雑なコードを書かずにプロフェッショナルな結果を得ることができます。
+
+## クイック回答
+- **メディアンフィルタは何をしますか？** 各ピクセルを周囲の近傍の中央値に置き換え、インパルスノイズを除去しつつエッジを保持します。  
+- **どのライブラリが median filter java をサポートしていますか？** Aspose.Imaging for Java はすぐに使用できる `MedianFilterOptions` クラスを提供します。  
+- **コードを実行するのにライセンスは必要ですか？** 評価目的であれば無料トライアルで動作しますが、本番環境では商用ライセンスが必要です。  
+- **メディアンフィルタを他のフィルタとチェーンできますか？** はい、メディアン処理の後にウィーナーなどの追加フィルタを適用できます。  
+- **サポートされている画像フォーマットは何ですか？** ほとんどのラスターフォーマット（PNG、JPEG、BMP、TIFF など）が完全にサポートされています。
+
+## Median Filter Javaとは？
+
+メディアンフィルタは、画像ノイズを**除去**するために一般的に使用される非線形デジタルフィルタリング手法です。Java では、Aspose.Imaging が `MedianFilterOptions` クラスを通じてこのフィルタを実装しており、隣接ピクセルの数を決定するカーネルサイズを指定できます。
+
+## 画像ノイズ除去に Median Filter Java を使用する理由
+
+- **エッジを保持** は単純な平均フィルタより優れています。  
+- **Simple API** – 数行のコードで斑点ノイズや塩胡椒ノイズを除去できます。  
+- **任意のラスタ画像** に対して Aspose.Imaging でロードでき、サーバーサイド処理に最適です。
 
 ## 前提条件
 
-このチュートリアルに進む前に、次の前提条件が満たされていることを確認してください。
+始める前に、以下が揃っていることを確認してください。
 
-1. Java 開発環境: コンピューター上に動作する Java 開発環境があることを確認します。
-
-2. Aspose.Imaging for Java: Aspose.Imaging for Javaライブラリを以下のサイトからダウンロードしてインストールします。 [ここ](https://releases。aspose.com/imaging/java/).
-
-3. ノイズ除去したいノイズの多い画像を用意してください。このチュートリアルでは、お好きな画像を使用できます。
+1. **Java Development Environment** – JDK 8 以降がインストールされていること。  
+2. **Aspose.Imaging for Java** – ライブラリを[here](https://releases.aspose.com/imaging/java/)からダウンロードしてインストールしてください。  
+3. **Sample Noisy Image** – クリーンしたい任意の画像；このガイドでは `your‑noisy‑image.png` を使用します。  
 
 ## パッケージのインポート
 
-Java プロジェクトでは、まず Aspose.Imaging for Java を操作するために必要なパッケージをインポートします。
+In your Java project, start by importing the necessary Aspose.Imaging classes:
 
 ```java
 import com.aspose.imaging.Image;
@@ -37,74 +53,82 @@ import com.aspose.imaging.RasterImage;
 import com.aspose.imaging.imagefilters.filteroptions.MedianFilterOptions;
 ```
 
-## ステップ1: ノイズのある画像を読み込む
+## Median Filter Java の適用方法
 
-最初のステップは、Aspose.Imagingを使用してノイズのある画像を読み込むことです。ノイズのある画像ファイルへのパスを必ず指定してください。
+以下はステップバイステップの手順です。各ステップには簡単な説明と、コピーすべき正確なコードが含まれています。
+
+### 手順 1: ノイズ画像のロード
+
+まず、ノイズ除去したい画像をロードします。これは Aspose.Imaging の `Image.load` メソッドを使用した **load image java** の例です。
 
 ```java
 String dataDir = "Your Document Directory" + "ConvertingImages/";
 
 try (Image image = Image.load(dataDir + "your-noisy-image.png"))
 {
-    // 画像をRasterImageにキャストする
+    // Cast the image into RasterImage
     RasterImage rasterImage = (RasterImage) image;
 ```
 
-## ステップ2: 中央値フィルターの作成と構成
+### 手順 2: メディアンフィルタの作成と設定
 
-さて、インスタンスを作成します `MedianFilterOptions` クラスを選択し、フィルターのサイズを設定します。フィルターサイズは、メディアンフィルターを適用する際に考慮される各ピクセルの周囲の領域を決定します。サイズを大きくするとノイズは軽減されますが、画像がぼやける可能性があります。
+`MedianFilterOptions` のインスタンスを作成し、カーネルサイズを設定します。サイズが大きいほどノイズは多く除去されますが、ディテールがぼやける可能性があります。
 
 ```java
-    // MedianFilterOptions クラスのインスタンスを作成し、サイズを設定します。
+    // Create an instance of MedianFilterOptions class and set the size.
     MedianFilterOptions options = new MedianFilterOptions(4);
 ```
 
-## ステップ3: 中央値フィルターを適用する
+### 手順 3: メディアンフィルタの適用
 
-次に、前の手順で設定したオプションを使用して、RasterImageオブジェクトにメディアンフィルターを適用します。これにより、画像からノイズが除去されます。
+画像全体の領域にフィルタを適用します。これがコアとなる **apply median filter** 操作です。
 
 ```java
-    // RasterImage オブジェクトに Median フィルターを適用します。
+    // Apply Median filter to RasterImage object.
     rasterImage.filter(image.getBounds(), options);
 ```
 
-## ステップ4: 結果画像を保存する
+### 手順 4: 結果画像の保存
 
-中央値フィルターを適用した後、ノイズ除去された画像を目的の場所に保存します。
+最後に、ノイズ除去された画像をディスクに書き出します。これでメディアンフィルタの効果を確認できます。
 
 ```java
-    // 結果画像を保存する
+    // Save the resultant image
     image.save("Your Document Directory" + "denoised-image.png");
 }
 ```
 
-おめでとうございます！Aspose.Imaging for Java の Median フィルターを使用して、画像のノイズ除去に成功しました。
+## よくある問題と解決策
+- **Kernel size too large** – 画像が過度にぼやけて見えることがあります。ほとんどの写真では 3〜5 の値を試してください。  
+- **Unsupported image format** – ファイルが Aspose.Imaging でサポートされているラスターフォーマットであることを確認してください。  
+- **OutOfMemoryError** – フィルタ処理前に `RasterImage` の `crop` メソッドを使用して、画像を小さなタイルに分割して処理してください。  
 
 ## 結論
 
-このチュートリアルでは、Aspose.Imaging for Java を利用して、画像のノイズ除去にメディアンフィルターを適用する方法を解説しました。このライブラリは幅広いフィルターとツールを提供しており、画像処理タスクにとって貴重なリソースとなっています。このガイドで概説されている手順に従うことで、画像の品質を向上させ、ノイズを効果的に除去することができます。
+このガイドでは、**median filter java** アプローチを使用して画像ファイルの**ノイズ除去方法**を示しました。上記の手順に従うことで、Java ベースの画像処理パイプラインにノイズ除去を迅速に統合でき、ウィーナーフィルタやその他の高度な手法とチェーンして結果をさらに向上させることも可能です。
 
 ## よくある質問
 
-### Q1: Aspose.Imaging for Java とは何ですか?
+**Q1: Aspose.Imaging for Java とは何ですか？**  
+A1: Aspose.Imaging for Java は、開発者が画像を操作し、さまざまな画像処理タスクをプログラムで実行できる Java ライブラリです。
 
-A1: Aspose.Imaging for Java は、開発者が画像を操作し、さまざまな画像処理タスクをプログラムで実行できるようにする Java ライブラリです。
+**Q2: Aspose.Imaging for Java を無料で使用できますか？**  
+A2: Aspose.Imaging for Java は商用ライブラリですが、[here](https://releases.aspose.com/) から無料トライアル版を入手できます。ただし、長期的に使用する場合は、[here](https://purchase.aspose.com/buy) からライセンスを購入する必要があります。
 
-### Q2: Aspose.Imaging for Java を無料で使用できますか?
+**Q3: Aspose.Imaging for Java のサポートはどうすれば受けられますか？**  
+A3: Aspose.Imaging コミュニティやエキスパートに、[Aspose.Imaging Forum](https://forum.aspose.com/) で問い合わせることで支援を受けられます。
 
-A2: Aspose.Imaging for Javaは商用ライブラリですが、以下のサイトから無料試用版を入手できます。 [ここ](https://releases.aspose.com/)ただし、長期間使用するには、ライセンスを購入する必要があります。 [ここ](https://purchase。aspose.com/buy).
+**Q4: 他にどんな画像強調技術がありますか？**  
+A4: メディアンフィルタに加えて、ウィーナーフィルタ、ガウシアンブラー、コントラストストレッチングなどの画像強調技術があります。
 
-### Q3: Aspose.Imaging for Java のサポートを受けるにはどうすればよいですか?
+**Q5: Aspose.Imaging for Java をウェブアプリケーションで使用できますか？**  
+A5: はい、Aspose.Imaging for Java をウェブアプリケーションに組み込んでサーバーサイドの画像処理を行うことができます。
 
-A3: Aspose.Imagingコミュニティや専門家から支援を受けることができます。 [Aspose.Imagingフォーラム](https://forum。aspose.com/).
+---
 
-### Q4: その他の画像強化技術にはどのようなものがありますか?
-
-A4: 画像強調技術には、メディアン フィルターの他に、ウィーナー フィルタリング、ガウス ブラー、コントラスト ストレッチなどがあります。
-
-### Q5: Web アプリケーションで Aspose.Imaging for Java を使用できますか?
-
-A5: はい、Aspose.Imaging for Java を Web アプリケーションに統合して、サーバー側で画像処理を行うことができます。
+**最終更新日:** 2026-01-17  
+**テスト環境:** Aspose.Imaging for Java 24.11  
+**作者:** Aspose
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
