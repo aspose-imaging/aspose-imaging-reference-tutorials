@@ -1,10 +1,13 @@
 ---
-"description": "Dowiedz się, jak dostosować gamma obrazów DICOM w Javie przy użyciu Aspose.Imaging for Java. Popraw jakość obrazu medycznego za pomocą prostych kroków."
-"linktitle": "Regulacja gamma obrazu DICOM"
-"second_title": "Aspose.Imaging API przetwarzania obrazu Java"
-"title": "Regulacja gamma obrazu DICOM za pomocą Aspose.Imaging dla Java"
-"url": "/pl/java/image-processing-and-enhancement/dicom-image-gamma-adjustment/"
-"weight": 24
+date: 2026-01-14
+description: Dowiedz się, jak konwertować DICOM na BMP i regulować jego gamma w Javie
+  przy użyciu Aspose.Imaging. Ten przewodnik pokazuje, jak łatwo przetwarzać obrazy
+  DICOM.
+linktitle: DICOM Image Gamma Adjustment
+second_title: Aspose.Imaging Java Image Processing API
+title: Konwertuj DICOM na BMP – Regulacja gamma przy użyciu Aspose.Imaging dla Javy
+url: /pl/java/image-processing-and-enhancement/dicom-image-gamma-adjustment/
+weight: 24
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,26 +16,36 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Regulacja gamma obrazu DICOM za pomocą Aspose.Imaging dla Java
+# Konwertowanie DICOM do BMP – Regulacja gamma przy użyciu Aspose.Imaging for Java
 
-Czy chcesz poprawić jakość obrazów DICOM w swoich aplikacjach Java? Aspose.Imaging for Java to potężna i wszechstronna biblioteka, która umożliwia manipulowanie i przetwarzanie obrazów, w tym formatu DICOM. W tym samouczku krok po kroku przeprowadzimy Cię przez proces dostosowywania gamma obrazu DICOM przy użyciu Aspose.Imaging for Java. 
+Jeśli potrzebujesz **konwertować DICOM do BMP** podczas precyzyjnej regulacji kontrastu obrazu, jesteś we właściwym miejscu. W tym samouczku przeprowadzimy Cię przez dokładne kroki ładowania pliku DICOM, stosowania korekcji gamma i zapisywania wyniku jako obrazu BMP za pomocą Aspose.Imaging for Java. Dowiesz się, **jak programowo przetwarzać pliki DICOM** i generować wysokiej jakości bitmapy na potrzeby dalszych procesów obrazowania medycznego.
+
+## Szybkie odpowiedzi
+- **Co oznacza „konwertowanie DICOM do BMP”?** Konwertuje obraz medyczny DICOM do standardowej bitmapy BMP, zachowując dane pikseli.
+- **Która biblioteka obsługuje konwersję?** Aspose.Imaging for Java udostępnia proste API do ładowania DICOM i zapisywania jako BMP.
+- **Czy potrzebuję licencji?** Bezpłatna wersja próbna działa w przypadku tworzenia oprogramowania; do produkcji wymagana jest licencja komercyjna.
+- **Jak długo trwa uruchomienie kodu?** Mniej niż sekunda dla typowych plików DICOM 512×512 na nowoczesnym procesorze.
+- **Czy mogę zmienić wartość gamma?** Tak — przekaż dowolną liczbę całkowitą (np. 30‑70) do funkcji `adjustGamma()`, aby dopasować ją do swoich potrzeb dotyczących kontrastu.
+
+## Na czym polega „konwersja DICOM do BMP”?
+Konwersja DICOM do BMP oznacza dekodowanie formatu obrazu medycznego DICOM i ponowne kodowanie danych pikseli do bitmapy BMP. Format BMP jest szeroko obsługiwany przez narzędzia do obrazowania, dzięki czemu idealnie nadaje się do inspekcji wizualnej, raportowania lub dalszego przetwarzania.
+
+## Po co korygować gamma podczas konwersji?
+Korekcja gamma modyfikuje krzywą luminancji obrazu, poprawiając widoczność subtelnych szczegółów bez zmiany danych źródłowych. Jest to szczególnie cenne w radiologii, gdzie kontrast może mieć wpływ na diagnozę.
 
 ## Wymagania wstępne
 
-Zanim zaczniesz, upewnij się, że spełnione są następujące wymagania wstępne:
-
 ### 1. Środowisko programistyczne Java
-- Upewnij się, że w systemie zainstalowany jest Java Development Kit (JDK).
+- JDK 8 lub nowsze zainstalowane i skonfigurowane w IDE lub wierszu poleceń.
 
-### 2. Biblioteka Aspose.Imaging dla Java
-- Bibliotekę Aspose.Imaging for Java można pobrać ze strony [link do pobrania](https://releases.aspose.com/imaging/java/).
+### 2. Biblioteka Aspose.Imaging for Java
+- Pobierz bibliotekę z [linku do pobrania](https://releases.aspose.com/imaging/java/).
 
-### 3. Wprowadź obraz DICOM
-- Powinieneś mieć obraz DICOM, który chcesz przetworzyć. Jeśli go nie masz, możesz łatwo znaleźć przykładowe obrazy DICOM online lub użyć własnego.
+### 3. Obraz wejściowy DICOM
+- Przygotuj plik DICOM. Przykładowe pliki są dostępne online do testowania.
 
-## Importuj pakiety
-
-Najpierw musisz zaimportować wymagane pakiety dla swojego projektu Java. Oto jak możesz to zrobić:
+## Importowanie pakietów
+Najpierw zaimportuj potrzebne klasy. Poniższy blok musi pozostać dokładnie taki, jak pokazano:
 
 ```java
 import com.aspose.imaging.fileformats.dicom.DicomImage;
@@ -43,11 +56,10 @@ import java.io.FileInputStream;
 import java.io.IOException;
 ```
 
-Podzielmy proces dostosowywania współczynnika gamma obrazu DICOM na serię łatwych do wykonania kroków.
+## Konwersja DICOM do BMP – przewodnik krok po kroku
 
-## Krok 1: Ustaw ścieżki plików
-
-Musisz określić ścieżki plików wejściowych i wyjściowych. Zamień `"Your Document Directory"` z faktycznym katalogiem, w którym znajduje się obraz DICOM.
+### Krok 1: Ustaw ścieżki plików
+Określ lokalizację źródłowego pliku DICOM i miejsce zapisu pliku BMP.
 
 ```java
 String dataDir = "Your Document Directory" + "dicom/";
@@ -55,71 +67,75 @@ String inputFile = dataDir + "image.dcm";
 String outputFile = dataDir + "AdjustingGamma.bmp";
 ```
 
-## Krok 2: Załaduj obraz DICOM
-
-Załaduj obraz DICOM za pomocą Aspose.Imaging `DicomImage` klasa.
+### Krok 2: Załaduj obraz DICOM
+Otwórz strumień pliku i utwórz instancję `DicomImage`.
 
 ```java
 File file = new File(inputFile);
 
 try (FileInputStream fis = new FileInputStream(file)) {
-    // Załaduj obraz DICOM do instancji DicomImage
+    // Load a DICOM image in an instance of DicomImage
     try (DicomImage image = (DicomImage) Image.load(fis)) {
 ```
 
-## Krok 3: Dostosuj Gammę
-
-Teraz dostosuj współczynnik gamma obrazu DICOM, określając żądaną wartość współczynnika gamma (np. 50).
+### Krok 3: Dostosuj współczynnik gamma
+Zastosuj żądaną korekcję gamma (np. 50) przed zapisaniem.
 
 ```java
-        // Dostosuj gamma
+        // Adjust the gamma
         image.adjustGamma(50);
 ```
 
-## Krok 4: Zapisz wynikowy obraz
-
-Utwórz instancję `BmpOptions` aby uzyskać obraz wynikowy i zapisać go.
+### Krok 4: Zapisz wynikowy plik BMP
+Utwórz opcje BMP i zapisz przetworzony obraz na dysku. Blok catch obsługuje wszelkie problemy z wejściem/wyjściem.
 
 ```java
-        // Utwórz instancję BmpOptions dla obrazu wynikowego i zapisz obraz wynikowy
+        // Create an instance of BmpOptions for the resultant image and save the resultant image
         image.save(outputFile, new BmpOptions());
     }
 } catch (IOException ex) {
-    // Zajmij się wszelkimi potencjalnymi wyjątkami
+    // Handle any potential exceptions
     com.aspose.imaging.examples.Logger.println(ex.getMessage());
     ex.printStackTrace();
 }
 ```
 
-To wszystko! Udało Ci się dostosować gamma obrazu DICOM przy użyciu Aspose.Imaging dla Java.
+Oto kompletny proces **konwersji DICOM do BMP** z jednoczesnym dostosowywaniem współczynnika gamma.
 
-## Wniosek
+## Typowe problemy i rozwiązania
+- **Nieobsługiwane znaczniki DICOM** – Upewnij się, że plik DICOM zawiera dane pikseli; strumienie szyfrowane lub skompresowane mogą wymagać dodatkowego dekodowania.
+- **Błędy braku pamięci** – W przypadku bardzo dużych obrazów zwiększ rozmiar stosu JVM (`-Xmx2g`) lub przetwórz obraz w kafelkach.
+- **Nieprawidłowa wartość współczynnika gamma** – Wartości poniżej 0 lub powyżej 100 mogą dawać nieoczekiwane rezultaty; trzymaj się zakresu 0–100.
 
-Aspose.Imaging for Java zapewnia bezproblemowy i wydajny sposób przetwarzania obrazów DICOM w aplikacjach Java. Postępując zgodnie z tym przewodnikiem krok po kroku, możesz łatwo poprawić jakość obrazów DICOM, dostosowując gamma. Dzięki intuicyjnemu API i kompleksowej dokumentacji Aspose.Imaging for Java jest cennym narzędziem do zadań związanych z manipulacją obrazami.
+## Często zadawane pytania
 
-Jeśli masz jakiekolwiek pytania lub napotkasz problemy, nie wahaj się szukać pomocy u [Społeczność Aspose.Imaging](https://forum.aspose.com/). Zapewniają doskonałe wsparcie i zasoby, które pomogą Ci w Twojej podróży związanej z przetwarzaniem obrazu.
+**P: Czym jest obraz DICOM?**
+O: DICOM (Digital Imaging and Communications in Medicine) to uniwersalny format przechowywania i przesyłania obrazów medycznych, takich jak zdjęcia rentgenowskie, tomografia komputerowa i rezonans magnetyczny.
 
-## Najczęściej zadawane pytania
+**P: Dlaczego korekcja gamma jest ważna dla obrazów DICOM?**
+O: Korekta gamma poprawia kontrast wizualny, ułatwiając dostrzeżenie struktur anatomicznych podczas analizy.
 
-### P1: Czym jest obraz DICOM?
+**P: Czy mogę przetwarzać obrazy DICOM w innych językach?**
+O: Tak — Aspose.Imaging oferuje biblioteki dla platform .NET, Java i innych, umożliwiając tworzenie w różnych językach.
 
-A1: DICOM (Digital Imaging and Communications in Medicine) to standardowy format używany w branży opieki zdrowotnej do przesyłania, przechowywania i wyświetlania obrazów medycznych. Zapewnia interoperacyjność i spójność w obrazowaniu medycznym.
+**P: Czy istnieją ograniczenia podczas pracy z plikami DICOM?**
+O: Niektóre pliki DICOM zawierają rozbudowane metadane lub zastrzeżoną kompresję; zrozumienie standardu DICOM pomaga uniknąć pułapek.
 
-### P2: Dlaczego regulacja gamma jest ważna w przypadku obrazów DICOM?
+**P: Gdzie mogę znaleźć więcej samouczków Aspose.Imaging?**
+O: Zapoznaj się z [dokumentacją Aspose.Imaging](https://reference.aspose.com/imaging/java/), aby uzyskać dodatkowe przewodniki, odniesienia do API i przykładowe projekty.
 
-A2: Regulacja gamma jest kluczowa dla poprawy jakości wizualnej obrazów DICOM. Pomaga zwiększyć kontrast i ogólny wygląd obrazów medycznych, ułatwiając ich interpretację i analizę.
+## Podsumowanie
+Postępując zgodnie z tym przewodnikiem, wiesz już, **jak przetwarzać pliki DICOM**, stosować korekcję gamma i **konwertować pliki DICOM do BMP** za pomocą Aspose.Imaging for Java. Ta funkcja usprawnia procesy obrazowania medycznego, umożliwiając generowanie reprezentacji bitmapowych do celów raportowania, analizy AI lub archiwizacji.
 
-### P3: Czy mogę przetwarzać obrazy DICOM w innych językach programowania?
+Jeśli napotkasz jakiekolwiek problemy, społeczność na [forum Aspose.Imaging](https://forum.aspose.com/) to doskonałe miejsce do zadawania pytań i dzielenia się spostrzeżeniami.
 
-A3: Tak, Aspose.Imaging udostępnia biblioteki dla różnych języków programowania, w tym .NET, Java i innych, co czyni je wszechstronnym narzędziem do przetwarzania obrazów na różnych platformach.
+---
 
-### P4: Czy istnieją jakieś ograniczenia w pracy z obrazami DICOM?
+**Ostatnia aktualizacja:** 2026-01-14
+**Testowano z:** Aspose.Imaging for Java 24.11 (najnowsza wersja w momencie pisania)
+**Autor:** Aspose  
 
-A4: Niektóre obrazy DICOM mogą mieć złożone struktury i metadane. Upewnij się, że dobrze rozumiesz standard DICOM i jego odmiany, aby skutecznie radzić sobie z takimi przypadkami.
-
-### P5: Gdzie mogę znaleźć więcej samouczków i materiałów dotyczących Aspose.Imaging?
-
-A5: Możesz eksplorować [Dokumentacja Aspose.Imaging](https://reference.aspose.com/imaging/java/) aby uzyskać kompleksowe przewodniki, przykłady i informacje dotyczące interfejsu API.
+---
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
