@@ -107,32 +107,6 @@ TiffOptions objTiff = new TiffOptions(TiffExpectedFormat.Default);
 gifBlock.save("Your Document Directory" + "asposelogo" + i + "_out.tif", objTiff);
 ```
 
-## सामान्य समस्याएँ और समाधान
-
-| समस्या | कारण | समाधान |
-|-------|--------|-----|
-| **Aspose क्लासेज़ के लिए `ClassNotFoundException`** | लाइब्रेरी JAR क्लासपाथ में नहीं है | `aspose-imaging-x.x.jar` को प्रोजेक्ट के बिल्ड पाथ या Maven डिपेंडेंसी में जोड़ें। |
-| **कोई आउटपुट फ़ाइल नहीं बन रही** | गलत डायरेक्टरी पथ | `dataDir` और सहेजने के पथ को पूर्ण या प्रोजेक्ट के सापेक्ष सही रूप से सत्यापित करें। |
-| **केवल पहला फ्रेम सहेजा जा रहा है** | लूप जल्दी समाप्त हो रहा है | सुनिश्चित करें कि `continue` केवल गैर‑फ़्रेम ब्लॉक्स को स्किप करे; लूप को `break` न करें। |
-| **TIFF फ़ाइल का आकार बहुत बड़ा है** | डिफ़ॉल्ट TIFF कॉम्प्रेशन नहीं है | `TiffOptions` के साथ कॉम्प्रेशन टाइप सेट करें, उदाहरण के लिए `objTiff.setCompression(TiffCompression.CcittFax4);`। |
-
-## अक्सर पूछे जाने वाले प्रश्न
-
-**प्रश्न: क्या Aspose.Imaging for Java एक मुफ्त टूल है?**  
-उत्तर: Aspose.Imaging for Java एक वाणिज्यिक उत्पाद है। लाइसेंसिंग और मूल्य निर्धारण के बारे में अधिक जानकारी आप [purchase page](https://purchase.aspose.com/buy) पर पा सकते हैं।
-
-**प्रश्न: क्या मैं Aspose.Imaging for Java को खरीदने से पहले आज़मा सकता हूँ?**  
-उत्तर: हाँ, आप मुफ्त ट्रायल संस्करण को [यहाँ](https://releases.aspose.com/) से डाउनलोड करके आज़मा सकते हैं।
-
-**प्रश्न: Aspose.Imaging for Java के लिए दस्तावेज़ीकरण और समर्थन कहाँ मिल सकता है?**  
-उत्तर: आप दस्तावेज़ीकरण को [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/) पर एक्सेस कर सकते हैं। समर्थन के लिए आप [Aspose.Imaging forum](https://forum.aspose.com/) पर जा सकते हैं।
-
-**प्रश्न: क्या Aspose.Imaging for Java अन्य इमेज फ़ॉर्मेट परिवर्तन भी समर्थन करता है?**  
-उत्तर: हाँ, Aspose.Imaging for Java कई इमेज फ़ॉर्मेट परिवर्तनों को समर्थन देता है, जैसे PNG, JPEG, BMP आदि। पूर्ण विवरण के लिए दस्तावेज़ीकरण देखें।
-
-**प्रश्न: क्या मैं Aspose.Imaging for Java में TIFF परिवर्तन विकल्पों को कस्टमाइज़ कर सकता हूँ?**  
-उत्तर: हाँ, आप `TiffOptions` क्लास का उपयोग करके TIFF परिवर्तन विकल्पों को अपनी विशिष्ट आवश्यकताओं के अनुसार कस्टमाइज़ कर सकते हैं।
-
 ## पूर्ण स्रोत कोड
 ```java
 		
@@ -161,6 +135,32 @@ try (Image objImage = Image.load(dataDir + "aspose-logo.gif"))
 }
 		
 ```
+
+## सामान्य समस्याएँ और समाधान
+
+| समस्या | कारण | समाधान |
+|-------|--------|-----|
+| **Aspose क्लासेज़ के लिए `ClassNotFoundException`** | लाइब्रेरी JAR क्लासपाथ में नहीं है | `aspose-imaging-x.x.jar` को प्रोजेक्ट के बिल्ड पाथ या Maven डिपेंडेंसी में जोड़ें। |
+| **कोई आउटपुट फ़ाइल नहीं बन रही** | गलत डायरेक्टरी पथ | `dataDir` और सहेजने के पथ को पूर्ण या प्रोजेक्ट के सापेक्ष सही रूप से सत्यापित करें। |
+| **केवल पहला फ्रेम सहेजा जा रहा है** | लूप जल्दी समाप्त हो रहा है | सुनिश्चित करें कि `continue` केवल गैर‑फ़्रेम ब्लॉक्स को स्किप करे; लूप को `break` न करें। |
+| **TIFF फ़ाइल का आकार बहुत बड़ा है** | डिफ़ॉल्ट TIFF कॉम्प्रेशन नहीं है | `TiffOptions` के साथ कॉम्प्रेशन टाइप सेट करें, उदाहरण के लिए `objTiff.setCompression(TiffCompression.CcittFax4);`। |
+
+## अक्सर पूछे जाने वाले प्रश्न
+
+**प्रश्न: क्या Aspose.Imaging for Java एक मुफ्त टूल है?**  
+उत्तर: Aspose.Imaging for Java एक वाणिज्यिक उत्पाद है। लाइसेंसिंग और मूल्य निर्धारण के बारे में अधिक जानकारी आप [purchase page](https://purchase.aspose.com/buy) पर पा सकते हैं।
+
+**प्रश्न: क्या मैं Aspose.Imaging for Java को खरीदने से पहले आज़मा सकता हूँ?**  
+उत्तर: हाँ, आप मुफ्त ट्रायल संस्करण को [यहाँ](https://releases.aspose.com/) से डाउनलोड करके आज़मा सकते हैं।
+
+**प्रश्न: Aspose.Imaging for Java के लिए दस्तावेज़ीकरण और समर्थन कहाँ मिल सकता है?**  
+उत्तर: आप दस्तावेज़ीकरण को [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/) पर एक्सेस कर सकते हैं। समर्थन के लिए आप [Aspose.Imaging forum](https://forum.aspose.com/) पर जा सकते हैं।
+
+**प्रश्न: क्या Aspose.Imaging for Java अन्य इमेज फ़ॉर्मेट परिवर्तन भी समर्थन करता है?**  
+उत्तर: हाँ, Aspose.Imaging for Java कई इमेज फ़ॉर्मेट परिवर्तनों को समर्थन देता है, जैसे PNG, JPEG, BMP आदि। पूर्ण विवरण के लिए दस्तावेज़ीकरण देखें।
+
+**प्रश्न: क्या मैं Aspose.Imaging for Java में TIFF परिवर्तन विकल्पों को कस्टमाइज़ कर सकता हूँ?**  
+उत्तर: हाँ, आप `TiffOptions` क्लास का उपयोग करके TIFF परिवर्तन विकल्पों को अपनी विशिष्ट आवश्यकताओं के अनुसार कस्टमाइज़ कर सकते हैं।
 
 ---
 

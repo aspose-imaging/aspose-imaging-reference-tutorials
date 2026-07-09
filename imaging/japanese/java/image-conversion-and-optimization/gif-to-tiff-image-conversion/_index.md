@@ -106,32 +106,6 @@ TiffOptions objTiff = new TiffOptions(TiffExpectedFormat.Default);
 gifBlock.save("Your Document Directory" + "asposelogo" + i + "_out.tif", objTiff);
 ```
 
-## よくある問題と解決策
-
-| 問題 | 原因 | 解決策 |
-|-------|--------|-----|
-| **Aspose クラスの `ClassNotFoundException`** | ライブラリ JAR がクラスパスにない | `aspose-imaging-x.x.jar` をプロジェクトのビルドパスまたは Maven 依存に追加してください。 |
-| **出力ファイルが作成されない** | ディレクトリパスが間違っている | `dataDir` と保存パスが絶対パスまたはプロジェクトに対して正しく相対指定されているか確認してください。 |
-| **最初のフレームだけが保存される** | ループが早期に終了している | `continue` 文がフレームでないブロックだけをスキップし、`break` しないことを確認してください。 |
-| **TIFF ファイルサイズが大きい** | デフォルトの TIFF 圧縮が無効 | 圧縮タイプを指定した `TiffOptions` を使用してください。例: `objTiff.setCompression(TiffCompression.CcittFax4);`。 |
-
-## よくある質問
-
-**Q: Aspose.Imaging for Java は無料ツールですか？**  
-A: Aspose.Imaging for Java は商用製品です。ライセンスと価格に関する詳細は [purchase page](https://purchase.aspose.com/buy) でご確認ください。
-
-**Q: 購入前に Aspose.Imaging for Java を試せますか？**  
-A: はい、[here](https://releases.aspose.com/) から無料トライアル版をダウンロードしてお試しいただけます。
-
-**Q: Aspose.Imaging for Java のドキュメントやサポートはどこで見つけられますか？**  
-A: ドキュメントは [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/) で閲覧できます。サポートは [Aspose.Imaging forum](https://forum.aspose.com/) をご利用ください。
-
-**Q: Aspose.Imaging for Java がサポートする他の画像フォーマット変換はありますか？**  
-A: はい、PNG、JPEG、BMP など多数の画像フォーマット変換をサポートしています。詳細はドキュメントをご参照ください。
-
-**Q: Aspose.Imaging for Java で TIFF 変換オプションをカスタマイズできますか？**  
-A: はい、`TiffOptions` クラスを使用して、特定の要件に合わせて TIFF 変換オプションをカスタマイズできます。
-
 ## 完全なソースコード
 ```java
 		
@@ -160,6 +134,32 @@ try (Image objImage = Image.load(dataDir + "aspose-logo.gif"))
 }
 		
 ```
+
+## よくある問題と解決策
+
+| 問題 | 原因 | 解決策 |
+|-------|--------|-----|
+| **Aspose クラスの `ClassNotFoundException`** | ライブラリ JAR がクラスパスにない | `aspose-imaging-x.x.jar` をプロジェクトのビルドパスまたは Maven 依存に追加してください。 |
+| **出力ファイルが作成されない** | ディレクトリパスが間違っている | `dataDir` と保存パスが絶対パスまたはプロジェクトに対して正しく相対指定されているか確認してください。 |
+| **最初のフレームだけが保存される** | ループが早期に終了している | `continue` 文がフレームでないブロックだけをスキップし、`break` しないことを確認してください。 |
+| **TIFF ファイルサイズが大きい** | デフォルトの TIFF 圧縮が無効 | 圧縮タイプを指定した `TiffOptions` を使用してください。例: `objTiff.setCompression(TiffCompression.CcittFax4);`。 |
+
+## よくある質問
+
+**Q: Aspose.Imaging for Java は無料ツールですか？**  
+A: Aspose.Imaging for Java は商用製品です。ライセンスと価格に関する詳細は [purchase page](https://purchase.aspose.com/buy) でご確認ください。
+
+**Q: 購入前に Aspose.Imaging for Java を試せますか？**  
+A: はい、[here](https://releases.aspose.com/) から無料トライアル版をダウンロードしてお試しいただけます。
+
+**Q: Aspose.Imaging for Java のドキュメントやサポートはどこで見つけられますか？**  
+A: ドキュメントは [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/) で閲覧できます。サポートは [Aspose.Imaging forum](https://forum.aspose.com/) をご利用ください。
+
+**Q: Aspose.Imaging for Java がサポートする他の画像フォーマット変換はありますか？**  
+A: はい、PNG、JPEG、BMP など多数の画像フォーマット変換をサポートしています。詳細はドキュメントをご参照ください。
+
+**Q: Aspose.Imaging for Java で TIFF 変換オプションをカスタマイズできますか？**  
+A: はい、`TiffOptions` クラスを使用して、特定の要件に合わせて TIFF 変換オプションをカスタマイズできます。
 
 ---
 

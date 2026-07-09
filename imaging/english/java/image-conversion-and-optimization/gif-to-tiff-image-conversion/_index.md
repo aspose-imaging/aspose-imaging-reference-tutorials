@@ -105,32 +105,6 @@ TiffOptions objTiff = new TiffOptions(TiffExpectedFormat.Default);
 gifBlock.save("Your Document Directory" + "asposelogo" + i + "_out.tif", objTiff);
 ```
 
-## Common Issues and Solutions
-
-| Issue | Reason | Fix |
-|-------|--------|-----|
-| **`ClassNotFoundException` for Aspose classes** | Library JAR not on classpath | Add `aspose-imaging-x.x.jar` to your project’s build path or Maven dependencies. |
-| **No output files created** | Incorrect directory path | Verify `dataDir` and the save path are absolute or correctly relative to your project. |
-| **Only the first frame is saved** | Loop breaks early | Ensure the `continue` statement only skips non‑frame blocks; do not `break` the loop. |
-| **TIFF file size is huge** | Default TIFF compression is none | Use `TiffOptions` with a compression type, e.g., `objTiff.setCompression(TiffCompression.CcittFax4);`. |
-
-## Frequently Asked Questions
-
-**Q: Is Aspose.Imaging for Java a free tool?**  
-A: Aspose.Imaging for Java is a commercial product. You can find more information about licensing and pricing on the [purchase page](https://purchase.aspose.com/buy).
-
-**Q: Can I try Aspose.Imaging for Java before purchasing?**  
-A: Yes, you can try Aspose.Imaging for Java by downloading the free trial version from [here](https://releases.aspose.com/).
-
-**Q: Where can I find documentation and support for Aspose.Imaging for Java?**  
-A: You can access the documentation at [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/). For support, you can visit the [Aspose.Imaging forum](https://forum.aspose.com/).
-
-**Q: Are there any other image format conversions supported by Aspose.Imaging for Java?**  
-A: Yes, Aspose.Imaging for Java supports a wide range of image format conversions, including PNG, JPEG, BMP, and more. Refer to the documentation for full details.
-
-**Q: Can I customize the TIFF conversion options in Aspose.Imaging for Java?**  
-A: Yes, you can customize TIFF conversion options using the `TiffOptions` class to suit your specific requirements.
-
 ## Complete Source Code
 ```java
 		
@@ -159,6 +133,32 @@ try (Image objImage = Image.load(dataDir + "aspose-logo.gif"))
 }
 		
 ```
+
+## Common Issues and Solutions
+
+| Issue | Reason | Fix |
+|-------|--------|-----|
+| **`ClassNotFoundException` for Aspose classes** | Library JAR not on classpath | Add `aspose-imaging-x.x.jar` to your project’s build path or Maven dependencies. |
+| **No output files created** | Incorrect directory path | Verify `dataDir` and the save path are absolute or correctly relative to your project. |
+| **Only the first frame is saved** | Loop breaks early | Ensure the `continue` statement only skips non‑frame blocks; do not `break` the loop. |
+| **TIFF file size is huge** | Default TIFF compression is none | Use `TiffOptions` with a compression type, e.g., `objTiff.setCompression(TiffCompression.CcittFax4);`. |
+
+## Frequently Asked Questions
+
+**Q: Is Aspose.Imaging for Java a free tool?**  
+A: Aspose.Imaging for Java is a commercial product. You can find more information about licensing and pricing on the [purchase page](https://purchase.aspose.com/buy).
+
+**Q: Can I try Aspose.Imaging for Java before purchasing?**  
+A: Yes, you can try Aspose.Imaging for Java by downloading the free trial version from [here](https://releases.aspose.com/).
+
+**Q: Where can I find documentation and support for Aspose.Imaging for Java?**  
+A: You can access the documentation at [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/). For support, you can visit the [Aspose.Imaging forum](https://forum.aspose.com/).
+
+**Q: Are there any other image format conversions supported by Aspose.Imaging for Java?**  
+A: Yes, Aspose.Imaging for Java supports a wide range of image format conversions, including PNG, JPEG, BMP, and more. Refer to the documentation for full details.
+
+**Q: Can I customize the TIFF conversion options in Aspose.Imaging for Java?**  
+A: Yes, you can customize TIFF conversion options using the `TiffOptions` class to suit your specific requirements.
 
 ---
 

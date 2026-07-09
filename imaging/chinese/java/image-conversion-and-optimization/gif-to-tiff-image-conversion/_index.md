@@ -106,32 +106,6 @@ TiffOptions objTiff = new TiffOptions(TiffExpectedFormat.Default);
 gifBlock.save("Your Document Directory" + "asposelogo" + i + "_out.tif", objTiff);
 ```
 
-## 常见问题及解决方案
-
-| 问题 | 原因 | 解决方案 |
-|------|------|----------|
-| **`ClassNotFoundException` for Aspose classes** | 库 JAR 未在类路径上 | 将 `aspose-imaging-x.x.jar` 添加到项目的构建路径或 Maven 依赖中。 |
-| **No output files created** | 目录路径不正确 | 验证 `dataDir` 和保存路径是绝对路径或相对于项目的正确相对路径。 |
-| **Only the first frame is saved** | 循环提前退出 | 确保 `continue` 语句仅跳过非帧块；不要使用 `break` 退出循环。 |
-| **TIFF file size is huge** | 默认 TIFF 未使用压缩 | 使用带压缩类型的 `TiffOptions`，例如 `objTiff.setCompression(TiffCompression.CcittFax4);`。 |
-
-## 常见问题
-
-**问：Aspose.Imaging for Java 是免费工具吗？**  
-答：Aspose.Imaging for Java 是商业产品。您可以在[购买页面](https://purchase.aspose.com/buy)了解许可证和定价信息。
-
-**问：我可以在购买前试用 Aspose.Imaging for Java 吗？**  
-答：可以，您可以从[此处](https://releases.aspose.com/)下载免费试用版进行试用。
-
-**问：在哪里可以找到 Aspose.Imaging for Java 的文档和支持？**  
-答：您可以在[Aspose.Imaging for Java 文档](https://reference.aspose.com/imaging/java/)查看文档。支持方面，可访问[Aspose.Imaging 论坛](https://forum.aspose.com/)。
-
-**问：Aspose.Imaging for Java 还支持其他图像格式转换吗？**  
-答：是的，Aspose.Imaging for Java 支持多种图像格式转换，包括 PNG、JPEG、BMP 等。完整细节请参阅文档。
-
-**问：我可以自定义 Aspose.Imaging for Java 中的 TIFF 转换选项吗？**  
-答：可以，您可以使用 `TiffOptions` 类自定义 TIFF 转换选项，以满足具体需求。
-
 ## 完整源代码
 ```java
 		
@@ -160,6 +134,32 @@ try (Image objImage = Image.load(dataDir + "aspose-logo.gif"))
 }
 		
 ```
+
+## 常见问题及解决方案
+
+| 问题 | 原因 | 解决方案 |
+|------|------|----------|
+| **`ClassNotFoundException` for Aspose classes** | 库 JAR 未在类路径上 | 将 `aspose-imaging-x.x.jar` 添加到项目的构建路径或 Maven 依赖中。 |
+| **No output files created** | 目录路径不正确 | 验证 `dataDir` 和保存路径是绝对路径或相对于项目的正确相对路径。 |
+| **Only the first frame is saved** | 循环提前退出 | 确保 `continue` 语句仅跳过非帧块；不要使用 `break` 退出循环。 |
+| **TIFF file size is huge** | 默认 TIFF 未使用压缩 | 使用带压缩类型的 `TiffOptions`，例如 `objTiff.setCompression(TiffCompression.CcittFax4);`。 |
+
+## 常见问题
+
+**问：Aspose.Imaging for Java 是免费工具吗？**  
+答：Aspose.Imaging for Java 是商业产品。您可以在[购买页面](https://purchase.aspose.com/buy)了解许可证和定价信息。
+
+**问：我可以在购买前试用 Aspose.Imaging for Java 吗？**  
+答：可以，您可以从[此处](https://releases.aspose.com/)下载免费试用版进行试用。
+
+**问：在哪里可以找到 Aspose.Imaging for Java 的文档和支持？**  
+答：您可以在[Aspose.Imaging for Java 文档](https://reference.aspose.com/imaging/java/)查看文档。支持方面，可访问[Aspose.Imaging 论坛](https://forum.aspose.com/)。
+
+**问：Aspose.Imaging for Java 还支持其他图像格式转换吗？**  
+答：是的，Aspose.Imaging for Java 支持多种图像格式转换，包括 PNG、JPEG、BMP 等。完整细节请参阅文档。
+
+**问：我可以自定义 Aspose.Imaging for Java 中的 TIFF 转换选项吗？**  
+答：可以，您可以使用 `TiffOptions` 类自定义 TIFF 转换选项，以满足具体需求。
 
 ---
 

@@ -145,14 +145,6 @@ try (Jpeg2000Options createOptions = new Jpeg2000Options())
 
 Το Aspose.Imaging for Java καθιστά εύκολη τη **δημιουργία εικόνων JP2 Java** που είναι τόσο αποδοτικές σε μνήμη όσο και υψηλής ποιότητας. Ακολουθώντας τα παραπάνω βήματα—φόρτωση υπαρχόντων αρχείων, ρύθμιση `Jpeg2000Options` και διαχείριση μεγέθους buffer—μπορείτε να ενσωματώσετε υποστήριξη JPEG2000 σε οποιαδήποτε εφαρμογή Java με σιγουριά. Ξεκινήστε να πειραματίζεστε σήμερα και αφήστε τα έργα σας να λάμψουν με βελτιστοποιημένα οπτικά JPEG2000!
 
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
-
 ---
 
 **Τελευταία ενημέρωση:** 2026-01-01  
@@ -160,3 +152,11 @@ try (Jpeg2000Options createOptions = new Jpeg2000Options())
 **Συγγραφέας:** Aspose  
 
 ---
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -123,6 +123,12 @@ A5: Có, có các giải pháp thay thế như các thư viện tích hợp sẵ
 
 Trong hướng dẫn này, chúng tôi đã khám phá cách **process multi-page tiff java** bằng Aspose.Imaging, bao gồm mọi thứ từ việc tải tệp TIFF đến thực hiện **tiff to png conversion** và lưu từng khung riêng lẻ. Với những kỹ thuật này, bạn có thể tích hợp các khả năng xử lý ảnh mạnh mẽ vào bất kỳ ứng dụng Java nào.
 
+---
+
+**Last Updated:** 2026-01-01  
+**Tested With:** Aspose.Imaging for Java 24.12 (latest at time of writing)  
+**Author:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -130,9 +136,3 @@ Trong hướng dẫn này, chúng tôi đã khám phá cách **process multi-pag
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Last Updated:** 2026-01-01  
-**Tested With:** Aspose.Imaging for Java 24.12 (latest at time of writing)  
-**Author:** Aspose

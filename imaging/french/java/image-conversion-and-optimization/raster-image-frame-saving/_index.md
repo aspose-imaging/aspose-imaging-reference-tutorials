@@ -129,14 +129,6 @@ R5 : Oui, il existe des alternatives comme les bibliothèques intégrées de J
 
 Dans ce tutoriel, nous avons exploré comment **process multi-page tiff java** à l'aide d'Aspose.Imaging, en couvrant tout, du chargement d'un fichier TIFF à la réalisation d'une **tiff to png conversion** et à l'enregistrement de chaque trame individuellement. Avec ces techniques, vous pouvez intégrer des capacités puissantes de gestion d'images dans n'importe quelle application Java.
 
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
-
 ---
 
 **Dernière mise à jour :** 2026-01-01  
@@ -144,3 +136,11 @@ Dans ce tutoriel, nous avons exploré comment **process multi-page tiff java** �
 **Auteur :** Aspose  
 
 ---
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

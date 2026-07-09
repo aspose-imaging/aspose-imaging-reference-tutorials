@@ -107,32 +107,6 @@ TiffOptions objTiff = new TiffOptions(TiffExpectedFormat.Default);
 gifBlock.save("Your Document Directory" + "asposelogo" + i + "_out.tif", objTiff);
 ```
 
-## Gyakori problémák és megoldások
-
-| Probléma | Ok | Megoldás |
-|----------|----|----------|
-| **`ClassNotFoundException` az Aspose osztályokhoz** | A könyvtár JAR nincs a classpath‑on | Adja hozzá az `aspose-imaging-x.x.jar`‑t a projekt build path‑jához vagy Maven függőségekhez. |
-| **Nem jönnek létre kimeneti fájlok** | Hibás könyvtárútvonal | Ellenőrizze, hogy a `dataDir` és a mentési útvonal abszolút vagy helyesen relatív legyen a projekthez képest. |
-| **Csak az első keret kerül mentésre** | A ciklus túl korán megszakad | Győződjön meg róla, hogy a `continue` csak a nem‑keret blokkokat hagyja ki; ne használjon `break`‑et a ciklusban. |
-| **A TIFF fájl mérete hatalmas** | Alapértelmezett TIFF tömörítés nincs beállítva | Használjon `TiffOptions`‑t egy tömörítési típussal, pl. `objTiff.setCompression(TiffCompression.CcittFax4);`. |
-
-## Gyakran feltett kérdések
-
-**K: Az Aspose.Imaging for Java ingyenes eszköz?**  
-V: Az Aspose.Imaging for Java kereskedelmi termék. További információ a licencelésről és árakról a [purchase page](https://purchase.aspose.com/buy) oldalon található.
-
-**K: Próbálhatom-e ki az Aspose.Imaging for Java‑t vásárlás előtt?**  
-V: Igen, letöltheti a ingyenes próba verziót [innen](https://releases.aspose.com/).
-
-**K: Hol találok dokumentációt és támogatást az Aspose.Imaging for Java‑hez?**  
-V: A dokumentáció elérhető a [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/) oldalon. Támogatásért látogassa meg az [Aspose.Imaging fórumot](https://forum.aspose.com/).
-
-**K: Milyen egyéb képformátum konverziókat támogat az Aspose.Imaging for Java?**  
-V: Az Aspose.Imaging for Java számos képformátum konverziót támogat, többek között PNG, JPEG, BMP és még sok más. A teljes lista a dokumentációban található.
-
-**K: Testreszabhatom a TIFF konverziós beállításokat az Aspose.Imaging for Java‑ben?**  
-V: Igen, a `TiffOptions` osztály segítségével testreszabhatja a TIFF konverzió opciókat a saját igényei szerint.
-
 ## Teljes forráskód
 ```java
 		
@@ -161,6 +135,32 @@ try (Image objImage = Image.load(dataDir + "aspose-logo.gif"))
 }
 		
 ```
+
+## Gyakori problémák és megoldások
+
+| Probléma | Ok | Megoldás |
+|----------|----|----------|
+| **`ClassNotFoundException` az Aspose osztályokhoz** | A könyvtár JAR nincs a classpath‑on | Adja hozzá az `aspose-imaging-x.x.jar`‑t a projekt build path‑jához vagy Maven függőségekhez. |
+| **Nem jönnek létre kimeneti fájlok** | Hibás könyvtárútvonal | Ellenőrizze, hogy a `dataDir` és a mentési útvonal abszolút vagy helyesen relatív legyen a projekthez képest. |
+| **Csak az első keret kerül mentésre** | A ciklus túl korán megszakad | Győződjön meg róla, hogy a `continue` csak a nem‑keret blokkokat hagyja ki; ne használjon `break`‑et a ciklusban. |
+| **A TIFF fájl mérete hatalmas** | Alapértelmezett TIFF tömörítés nincs beállítva | Használjon `TiffOptions`‑t egy tömörítési típussal, pl. `objTiff.setCompression(TiffCompression.CcittFax4);`. |
+
+## Gyakran feltett kérdések
+
+**K: Az Aspose.Imaging for Java ingyenes eszköz?**  
+V: Az Aspose.Imaging for Java kereskedelmi termék. További információ a licencelésről és árakról a [purchase page](https://purchase.aspose.com/buy) oldalon található.
+
+**K: Próbálhatom-e ki az Aspose.Imaging for Java‑t vásárlás előtt?**  
+V: Igen, letöltheti a ingyenes próba verziót [innen](https://releases.aspose.com/).
+
+**K: Hol találok dokumentációt és támogatást az Aspose.Imaging for Java‑hez?**  
+V: A dokumentáció elérhető a [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/) oldalon. Támogatásért látogassa meg az [Aspose.Imaging fórumot](https://forum.aspose.com/).
+
+**K: Milyen egyéb képformátum konverziókat támogat az Aspose.Imaging for Java?**  
+V: Az Aspose.Imaging for Java számos képformátum konverziót támogat, többek között PNG, JPEG, BMP és még sok más. A teljes lista a dokumentációban található.
+
+**K: Testreszabhatom a TIFF konverziós beállításokat az Aspose.Imaging for Java‑ben?**  
+V: Igen, a `TiffOptions` osztály segítségével testreszabhatja a TIFF konverzió opciókat a saját igényei szerint.
 
 ---
 

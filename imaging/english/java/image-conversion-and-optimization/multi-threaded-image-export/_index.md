@@ -1,5 +1,5 @@
 ---
-title: Java Image Processing Tutorial: Multi-Threaded Image Export with Aspose.Imaging for Java
+title: Java Image Processing Tutorial - Multi-Threaded Image Export with Aspose.Imaging for Java
 linktitle: Multi-Threaded Image Export
 second_title: Aspose.Imaging Java Image Processing API
 description: Learn how to perform multi-threaded image export in a Java image processing tutorial using Aspose.Imaging. Step‑by‑step guide with code examples.

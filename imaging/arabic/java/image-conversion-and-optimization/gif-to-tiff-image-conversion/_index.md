@@ -106,32 +106,6 @@ TiffOptions objTiff = new TiffOptions(TiffExpectedFormat.Default);
 gifBlock.save("Your Document Directory" + "asposelogo" + i + "_out.tif", objTiff);
 ```
 
-## المشكلات الشائعة والحلول
-
-| المشكلة | السبب | الحل |
-|-------|--------|-----|
-| **`ClassNotFoundException` لفئات Aspose** | ملف JAR للمكتبة غير موجود في classpath | أضف `aspose-imaging-x.x.jar` إلى مسار بناء مشروعك أو إلى تبعيات Maven. |
-| **عدم إنشاء ملفات الإخراج** | مسار الدليل غير صحيح | تحقق من أن `dataDir` ومسار الحفظ إما مطلق أو نسبي بشكل صحيح بالنسبة لمشروعك. |
-| **حفظ الإطار الأول فقط** | الحلقة تنتهي مبكرًا | تأكد من أن جملة `continue` تتخطى فقط الكتل غير الإطارية؛ لا تستخدم `break` داخل الحلقة. |
-| **حجم ملف TIFF كبير** | الضغط الافتراضي للـ TIFF غير مفعل | استخدم `TiffOptions` مع نوع ضغط، مثل `objTiff.setCompression(TiffCompression.CcittFax4);`. |
-
-## الأسئلة المتكررة
-
-**س: هل Aspose.Imaging للـ Java أداة مجانية؟**  
-ج: Aspose.Imaging للـ Java هو منتج تجاري. يمكنك العثور على مزيد من المعلومات حول الترخيص والأسعار في [صفحة الشراء](https://purchase.aspose.com/buy).
-
-**س: هل يمكن تجربة Aspose.Imaging للـ Java قبل الشراء؟**  
-ج: نعم، يمكنك تجربة Aspose.Imaging للـ Java بتحميل نسخة التجربة المجانية من [هنا](https://releases.aspose.com/).
-
-**س: أين يمكنني العثور على الوثائق والدعم لـ Aspose.Imaging للـ Java؟**  
-ج: يمكنك الوصول إلى الوثائق عبر [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/). للدعم، زر [منتدى Aspose.Imaging](https://forum.aspose.com/).
-
-**س: هل تدعم Aspose.Imaging للـ Java تحويل صيغ صور أخرى؟**  
-ج: نعم، تدعم Aspose.Imaging للـ Java مجموعة واسعة من تحويلات صيغ الصور، بما في ذلك PNG، JPEG، BMP، وغيرها. راجع الوثائق للحصول على التفاصيل الكاملة.
-
-**س: هل يمكن تخصيص خيارات تحويل TIFF في Aspose.Imaging للـ Java؟**  
-ج: نعم، يمكنك تخصيص خيارات تحويل TIFF باستخدام الفئة `TiffOptions` لتلبية متطلباتك الخاصة.
-
 ## الكود الكامل
 ```java
 		
@@ -160,6 +134,32 @@ try (Image objImage = Image.load(dataDir + "aspose-logo.gif"))
 }
 		
 ```
+
+## المشكلات الشائعة والحلول
+
+| المشكلة | السبب | الحل |
+|-------|--------|-----|
+| **`ClassNotFoundException` لفئات Aspose** | ملف JAR للمكتبة غير موجود في classpath | أضف `aspose-imaging-x.x.jar` إلى مسار بناء مشروعك أو إلى تبعيات Maven. |
+| **عدم إنشاء ملفات الإخراج** | مسار الدليل غير صحيح | تحقق من أن `dataDir` ومسار الحفظ إما مطلق أو نسبي بشكل صحيح بالنسبة لمشروعك. |
+| **حفظ الإطار الأول فقط** | الحلقة تنتهي مبكرًا | تأكد من أن جملة `continue` تتخطى فقط الكتل غير الإطارية؛ لا تستخدم `break` داخل الحلقة. |
+| **حجم ملف TIFF كبير** | الضغط الافتراضي للـ TIFF غير مفعل | استخدم `TiffOptions` مع نوع ضغط، مثل `objTiff.setCompression(TiffCompression.CcittFax4);`. |
+
+## الأسئلة المتكررة
+
+**س: هل Aspose.Imaging للـ Java أداة مجانية؟**  
+ج: Aspose.Imaging للـ Java هو منتج تجاري. يمكنك العثور على مزيد من المعلومات حول الترخيص والأسعار في [صفحة الشراء](https://purchase.aspose.com/buy).
+
+**س: هل يمكن تجربة Aspose.Imaging للـ Java قبل الشراء؟**  
+ج: نعم، يمكنك تجربة Aspose.Imaging للـ Java بتحميل نسخة التجربة المجانية من [هنا](https://releases.aspose.com/).
+
+**س: أين يمكنني العثور على الوثائق والدعم لـ Aspose.Imaging للـ Java؟**  
+ج: يمكنك الوصول إلى الوثائق عبر [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/). للدعم، زر [منتدى Aspose.Imaging](https://forum.aspose.com/).
+
+**س: هل تدعم Aspose.Imaging للـ Java تحويل صيغ صور أخرى؟**  
+ج: نعم، تدعم Aspose.Imaging للـ Java مجموعة واسعة من تحويلات صيغ الصور، بما في ذلك PNG، JPEG، BMP، وغيرها. راجع الوثائق للحصول على التفاصيل الكاملة.
+
+**س: هل يمكن تخصيص خيارات تحويل TIFF في Aspose.Imaging للـ Java؟**  
+ج: نعم، يمكنك تخصيص خيارات تحويل TIFF باستخدام الفئة `TiffOptions` لتلبية متطلباتك الخاصة.
 
 ---
 

@@ -127,6 +127,12 @@ A5：有，例如 Java 內建的函式庫、OpenCV 以及 Java Advanced Imaging 
 
 在本教程中，我們探討了如何使用 Aspose.Imaging **process multi-page tiff java**，涵蓋從載入 TIFF 檔案、執行 **tiff to png conversion** 到逐一儲存每個框架的完整流程。透過這些技巧，您可以將強大的影像處理功能整合至任何 Java 應用程式中。
 
+---
+
+**最後更新：** 2026-01-01  
+**測試環境：** Aspose.Imaging for Java 24.12（撰寫時的最新版本）  
+**作者：** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -134,9 +140,3 @@ A5：有，例如 Java 內建的函式庫、OpenCV 以及 Java Advanced Imaging 
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**最後更新：** 2026-01-01  
-**測試環境：** Aspose.Imaging for Java 24.12（撰寫時的最新版本）  
-**作者：** Aspose

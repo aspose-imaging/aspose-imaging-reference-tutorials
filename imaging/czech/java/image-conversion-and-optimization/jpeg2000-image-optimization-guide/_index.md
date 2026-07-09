@@ -144,6 +144,12 @@ A5: Ano, můžete si vyzkoušet bezplatnou zkušební verzi Aspose.Imaging pro J
 
 Aspose.Imaging pro Java usnadňuje **create JP2 image Java** řešení, která jsou jak paměťově úsporná, tak vysoce kvalitní. Dodržením výše uvedených kroků – načtení existujících souborů, konfigurace `Jpeg2000Options` a správa velikostí bufferu – můžete s jistotou integrovat podporu JPEG2000 do jakékoli Java aplikace. Začněte dnes experimentovat a nechte své projekty zazářit optimalizovanými JPEG2000 vizuály!
 
+---
+
+**Poslední aktualizace:** 2026-01-01  
+**Testováno s:** Aspose.Imaging for Java 24.11 (nejnovější verze)  
+**Autor:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -151,9 +157,3 @@ Aspose.Imaging pro Java usnadňuje **create JP2 image Java** řešení, která j
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Poslední aktualizace:** 2026-01-01  
-**Testováno s:** Aspose.Imaging for Java 24.11 (nejnovější verze)  
-**Autor:** Aspose

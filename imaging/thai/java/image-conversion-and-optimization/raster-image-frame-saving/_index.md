@@ -128,14 +128,6 @@ A5: มีทางเลือกเช่น ไลบรารีในตั
 
 ในบทแนะนำนี้ เราได้สำรวจวิธี **process multi-page tiff java** ด้วย Aspose.Imaging ตั้งแต่การโหลดไฟล์ TIFF ไปจนถึงการทำ **tiff to png conversion** และการบันทึกแต่ละเฟรมเป็นไฟล์ PNG แยกกัน ด้วยเทคนิคเหล่านี้คุณสามารถผสานความสามารถด้านการจัดการภาพที่ทรงพลังเข้าไปในแอปพลิเคชัน Java ใด ๆ ก็ได้
 
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
-
 ---
 
 **Last Updated:** 2026-01-01  
@@ -143,3 +135,11 @@ A5: มีทางเลือกเช่น ไลบรารีในตั
 **Author:** Aspose  
 
 ---
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

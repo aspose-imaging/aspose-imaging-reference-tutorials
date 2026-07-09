@@ -107,32 +107,6 @@ TiffOptions objTiff = new TiffOptions(TiffExpectedFormat.Default);
 gifBlock.save("Your Document Directory" + "asposelogo" + i + "_out.tif", objTiff);
 ```
 
-## Časté problémy a řešení
-
-| Problém | Důvod | Řešení |
-|-------|--------|-----|
-| **`ClassNotFoundException` pro třídy Aspose** | Knihovna JAR není na classpath | Přidejte `aspose-imaging-x.x.jar` do cesty sestavení vašeho projektu nebo do Maven závislostí. |
-| **Nebyl vytvořen žádný výstupní soubor** | Nesprávná cesta ke složce | Ověřte, že `dataDir` a cesta pro uložení jsou absolutní nebo správně relativní k vašemu projektu. |
-| **Uložen pouze první snímek** | Smyčka se předčasně ukončí | Ujistěte se, že příkaz `continue` přeskočí pouze ne‑snímkové bloky; nepoužívejte `break` ve smyčce. |
-| **Velikost TIFF souboru je obrovská** | Výchozí komprese TIFF není nastavena | Použijte `TiffOptions` s typem komprese, např. `objTiff.setCompression(TiffCompression.CcittFax4);`. |
-
-## Často kladené otázky
-
-**Q: Je Aspose.Imaging pro Java zdarma?**  
-**A:** Aspose.Imaging pro Java je komerční produkt. Více informací o licencování a cenách najdete na [purchase page](https://purchase.aspose.com/buy).
-
-**Q: Můžu si Aspose.Imaging pro Java vyzkoušet před zakoupením?**  
-**A:** Ano, můžete si Aspose.Imaging pro Java vyzkoušet stažením bezplatné zkušební verze z [here](https://releases.aspose.com/).
-
-**Q: Kde najdu dokumentaci a podporu pro Aspose.Imaging pro Java?**  
-**A:** Dokumentaci můžete získat na [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/). Pro podporu můžete navštívit [Aspose.Imaging forum](https://forum.aspose.com/).
-
-**Q: Existují i jiné konverze formátů obrázků podporované Aspose.Imaging pro Java?**  
-**A:** Ano, Aspose.Imaging pro Java podporuje širokou škálu konverzí formátů obrázků, včetně PNG, JPEG, BMP a dalších. Podrobnosti najdete v dokumentaci.
-
-**Q: Můžu přizpůsobit možnosti TIFF konverze v Aspose.Imaging pro Java?**  
-**A:** Ano, můžete přizpůsobit možnosti TIFF konverze pomocí třídy `TiffOptions` podle vašich konkrétních požadavků.
-
 ## Kompletní zdrojový kód
 ```java
 		
@@ -161,6 +135,32 @@ try (Image objImage = Image.load(dataDir + "aspose-logo.gif"))
 }
 		
 ```
+
+## Časté problémy a řešení
+
+| Problém | Důvod | Řešení |
+|-------|--------|-----|
+| **`ClassNotFoundException` pro třídy Aspose** | Knihovna JAR není na classpath | Přidejte `aspose-imaging-x.x.jar` do cesty sestavení vašeho projektu nebo do Maven závislostí. |
+| **Nebyl vytvořen žádný výstupní soubor** | Nesprávná cesta ke složce | Ověřte, že `dataDir` a cesta pro uložení jsou absolutní nebo správně relativní k vašemu projektu. |
+| **Uložen pouze první snímek** | Smyčka se předčasně ukončí | Ujistěte se, že příkaz `continue` přeskočí pouze ne‑snímkové bloky; nepoužívejte `break` ve smyčce. |
+| **Velikost TIFF souboru je obrovská** | Výchozí komprese TIFF není nastavena | Použijte `TiffOptions` s typem komprese, např. `objTiff.setCompression(TiffCompression.CcittFax4);`. |
+
+## Často kladené otázky
+
+**Q: Je Aspose.Imaging pro Java zdarma?**  
+**A:** Aspose.Imaging pro Java je komerční produkt. Více informací o licencování a cenách najdete na [purchase page](https://purchase.aspose.com/buy).
+
+**Q: Můžu si Aspose.Imaging pro Java vyzkoušet před zakoupením?**  
+**A:** Ano, můžete si Aspose.Imaging pro Java vyzkoušet stažením bezplatné zkušební verze z [here](https://releases.aspose.com/).
+
+**Q: Kde najdu dokumentaci a podporu pro Aspose.Imaging pro Java?**  
+**A:** Dokumentaci můžete získat na [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/). Pro podporu můžete navštívit [Aspose.Imaging forum](https://forum.aspose.com/).
+
+**Q: Existují i jiné konverze formátů obrázků podporované Aspose.Imaging pro Java?**  
+**A:** Ano, Aspose.Imaging pro Java podporuje širokou škálu konverzí formátů obrázků, včetně PNG, JPEG, BMP a dalších. Podrobnosti najdete v dokumentaci.
+
+**Q: Můžu přizpůsobit možnosti TIFF konverze v Aspose.Imaging pro Java?**  
+**A:** Ano, můžete přizpůsobit možnosti TIFF konverze pomocí třídy `TiffOptions` podle vašich konkrétních požadavků.
 
 ---
 

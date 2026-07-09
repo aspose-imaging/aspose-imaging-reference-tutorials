@@ -99,32 +99,6 @@ TiffOptions objTiff = new TiffOptions(TiffExpectedFormat.Default);
 gifBlock.save("Your Document Directory" + "asposelogo" + i + "_out.tif", objTiff);
 ```
 
-## ปัญหาและวิธีแก้ไขทั่วไป
-
-| ปัญหา | สาเหตุ | วิธีแก้ |
-|-------|--------|-----|
-| **`ClassNotFoundException` for Aspose classes** | ไลบรารี JAR ไม่อยู่ใน classpath | เพิ่ม `aspose-imaging-x.x.jar` ไปยังเส้นทางการสร้างของโปรเจกต์หรือ dependencies ของ Maven. |
-| **No output files created** | พาธไดเรกทอรีไม่ถูกต้อง | ตรวจสอบว่า `dataDir` และพาธการบันทึกเป็นแบบ absolute หรือสัมพันธ์กับโปรเจกต์อย่างถูกต้อง. |
-| **Only the first frame is saved** | ลูปหยุดก่อนเวลา | ตรวจสอบให้แน่ใจว่า statement `continue` ข้ามเฉพาะบล็อกที่ไม่ใช่เฟรม; อย่าใช้ `break` ในลูป. |
-| **TIFF file size is huge** | การบีบอัด TIFF เริ่มต้นไม่มี | ใช้ `TiffOptions` พร้อมประเภทการบีบอัด, เช่น `objTiff.setCompression(TiffCompression.CcittFax4);`. |
-
-## คำถามที่พบบ่อย
-
-**Q: Aspose.Imaging for Java เป็นเครื่องมือฟรีหรือไม่?**  
-A: Aspose.Imaging for Java เป็นผลิตภัณฑ์เชิงพาณิชย์ คุณสามารถค้นหาข้อมูลเพิ่มเติมเกี่ยวกับการให้สิทธิ์และราคาได้ที่ [purchase page](https://purchase.aspose.com/buy).
-
-**Q: ฉันสามารถทดลองใช้ Aspose.Imaging for Java ก่อนซื้อได้หรือไม่?**  
-A: ได้, คุณสามารถทดลองใช้ Aspose.Imaging for Java โดยดาวน์โหลดเวอร์ชันทดลองฟรีจาก [here](https://releases.aspose.com/).
-
-**Q: ฉันสามารถหาเอกสารและการสนับสนุนสำหรับ Aspose.Imaging for Java ได้ที่ไหน?**  
-A: คุณสามารถเข้าถึงเอกสารได้ที่ [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/). สำหรับการสนับสนุน, คุณสามารถเยี่ยมชม [Aspose.Imaging forum](https://forum.aspose.com/).
-
-**Q: มีการแปลงรูปแบบภาพอื่น ๆ ที่สนับสนุนโดย Aspose.Imaging for Java หรือไม่?**  
-A: มี, Aspose.Imaging for Java รองรับการแปลงรูปแบบภาพหลากหลายรวมถึง PNG, JPEG, BMP และอื่น ๆ ดูเอกสารสำหรับรายละเอียดเต็ม.
-
-**Q: ฉันสามารถปรับแต่งตัวเลือกการแปลง TIFF ใน Aspose.Imaging for Java ได้หรือไม่?**  
-A: ได้, คุณสามารถปรับแต่งตัวเลือกการแปลง TIFF โดยใช้คลาส `TiffOptions` ให้ตรงกับความต้องการของคุณ.
-
 ## Complete Source Code
 ```java
 		
@@ -153,6 +127,32 @@ try (Image objImage = Image.load(dataDir + "aspose-logo.gif"))
 }
 		
 ```
+
+## ปัญหาและวิธีแก้ไขทั่วไป
+
+| ปัญหา | สาเหตุ | วิธีแก้ |
+|-------|--------|-----|
+| **`ClassNotFoundException` for Aspose classes** | ไลบรารี JAR ไม่อยู่ใน classpath | เพิ่ม `aspose-imaging-x.x.jar` ไปยังเส้นทางการสร้างของโปรเจกต์หรือ dependencies ของ Maven. |
+| **No output files created** | พาธไดเรกทอรีไม่ถูกต้อง | ตรวจสอบว่า `dataDir` และพาธการบันทึกเป็นแบบ absolute หรือสัมพันธ์กับโปรเจกต์อย่างถูกต้อง. |
+| **Only the first frame is saved** | ลูปหยุดก่อนเวลา | ตรวจสอบให้แน่ใจว่า statement `continue` ข้ามเฉพาะบล็อกที่ไม่ใช่เฟรม; อย่าใช้ `break` ในลูป. |
+| **TIFF file size is huge** | การบีบอัด TIFF เริ่มต้นไม่มี | ใช้ `TiffOptions` พร้อมประเภทการบีบอัด, เช่น `objTiff.setCompression(TiffCompression.CcittFax4);`. |
+
+## คำถามที่พบบ่อย
+
+**Q: Aspose.Imaging for Java เป็นเครื่องมือฟรีหรือไม่?**  
+A: Aspose.Imaging for Java เป็นผลิตภัณฑ์เชิงพาณิชย์ คุณสามารถค้นหาข้อมูลเพิ่มเติมเกี่ยวกับการให้สิทธิ์และราคาได้ที่ [purchase page](https://purchase.aspose.com/buy).
+
+**Q: ฉันสามารถทดลองใช้ Aspose.Imaging for Java ก่อนซื้อได้หรือไม่?**  
+A: ได้, คุณสามารถทดลองใช้ Aspose.Imaging for Java โดยดาวน์โหลดเวอร์ชันทดลองฟรีจาก [here](https://releases.aspose.com/).
+
+**Q: ฉันสามารถหาเอกสารและการสนับสนุนสำหรับ Aspose.Imaging for Java ได้ที่ไหน?**  
+A: คุณสามารถเข้าถึงเอกสารได้ที่ [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/). สำหรับการสนับสนุน, คุณสามารถเยี่ยมชม [Aspose.Imaging forum](https://forum.aspose.com/).
+
+**Q: มีการแปลงรูปแบบภาพอื่น ๆ ที่สนับสนุนโดย Aspose.Imaging for Java หรือไม่?**  
+A: มี, Aspose.Imaging for Java รองรับการแปลงรูปแบบภาพหลากหลายรวมถึง PNG, JPEG, BMP และอื่น ๆ ดูเอกสารสำหรับรายละเอียดเต็ม.
+
+**Q: ฉันสามารถปรับแต่งตัวเลือกการแปลง TIFF ใน Aspose.Imaging for Java ได้หรือไม่?**  
+A: ได้, คุณสามารถปรับแต่งตัวเลือกการแปลง TIFF โดยใช้คลาส `TiffOptions` ให้ตรงกับความต้องการของคุณ.
 
 ---
 

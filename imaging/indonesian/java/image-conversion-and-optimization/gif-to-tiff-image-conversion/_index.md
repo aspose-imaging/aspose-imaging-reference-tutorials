@@ -107,32 +107,6 @@ TiffOptions objTiff = new TiffOptions(TiffExpectedFormat.Default);
 gifBlock.save("Your Document Directory" + "asposelogo" + i + "_out.tif", objTiff);
 ```
 
-## Masalah Umum dan Solusinya
-
-| Masalah | Penyebab | Solusi |
-|-------|--------|-----|
-| **`ClassNotFoundException` untuk kelas Aspose** | JAR perpustakaan tidak ada di classpath | Tambahkan `aspose-imaging-x.x.jar` ke jalur build proyek Anda atau ke dependensi Maven. |
-| **Tidak ada file output yang dibuat** | Path direktori salah | Verifikasi `dataDir` dan path penyimpanan bersifat absolut atau relatif dengan benar terhadap proyek Anda. |
-| **Hanya frame pertama yang disimpan** | Loop berhenti terlalu cepat | Pastikan pernyataan `continue` hanya melewati blok non‑frame; jangan gunakan `break` pada loop. |
-| **Ukuran file TIFF sangat besar** | Kompresi TIFF default tidak ada | Gunakan `TiffOptions` dengan tipe kompresi, misalnya `objTiff.setCompression(TiffCompression.CcittFax4);`. |
-
-## Pertanyaan yang Sering Diajukan
-
-**T: Apakah Aspose.Imaging untuk Java adalah alat gratis?**  
-J: Aspose.Imaging untuk Java adalah produk komersial. Anda dapat menemukan informasi lebih lanjut tentang lisensi dan harga di [halaman pembelian](https://purchase.aspose.com/buy).
-
-**T: Bisakah saya mencoba Aspose.Imaging untuk Java sebelum membeli?**  
-J: Ya, Anda dapat mencoba Aspose.Imaging untuk Java dengan mengunduh versi percobaan gratis dari [sini](https://releases.aspose.com/).
-
-**T: Di mana saya dapat menemukan dokumentasi dan dukungan untuk Aspose.Imaging untuk Java?**  
-J: Dokumentasi dapat diakses di [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/). Untuk dukungan, kunjungi [forum Aspose.Imaging](https://forum.aspose.com/).
-
-**T: Apakah ada konversi format gambar lain yang didukung oleh Aspose.Imaging untuk Java?**  
-J: Ya, Aspose.Imaging untuk Java mendukung berbagai konversi format gambar, termasuk PNG, JPEG, BMP, dan lainnya. Lihat dokumentasi untuk detail lengkap.
-
-**T: Bisakah saya menyesuaikan opsi konversi TIFF di Aspose.Imaging untuk Java?**  
-J: Ya, Anda dapat menyesuaikan opsi konversi TIFF menggunakan kelas `TiffOptions` sesuai kebutuhan spesifik Anda.
-
 ## Kode Sumber Lengkap
 ```java
 		
@@ -161,6 +135,32 @@ try (Image objImage = Image.load(dataDir + "aspose-logo.gif"))
 }
 		
 ```
+
+## Masalah Umum dan Solusinya
+
+| Masalah | Penyebab | Solusi |
+|-------|--------|-----|
+| **`ClassNotFoundException` untuk kelas Aspose** | JAR perpustakaan tidak ada di classpath | Tambahkan `aspose-imaging-x.x.jar` ke jalur build proyek Anda atau ke dependensi Maven. |
+| **Tidak ada file output yang dibuat** | Path direktori salah | Verifikasi `dataDir` dan path penyimpanan bersifat absolut atau relatif dengan benar terhadap proyek Anda. |
+| **Hanya frame pertama yang disimpan** | Loop berhenti terlalu cepat | Pastikan pernyataan `continue` hanya melewati blok non‑frame; jangan gunakan `break` pada loop. |
+| **Ukuran file TIFF sangat besar** | Kompresi TIFF default tidak ada | Gunakan `TiffOptions` dengan tipe kompresi, misalnya `objTiff.setCompression(TiffCompression.CcittFax4);`. |
+
+## Pertanyaan yang Sering Diajukan
+
+**T: Apakah Aspose.Imaging untuk Java adalah alat gratis?**  
+J: Aspose.Imaging untuk Java adalah produk komersial. Anda dapat menemukan informasi lebih lanjut tentang lisensi dan harga di [halaman pembelian](https://purchase.aspose.com/buy).
+
+**T: Bisakah saya mencoba Aspose.Imaging untuk Java sebelum membeli?**  
+J: Ya, Anda dapat mencoba Aspose.Imaging untuk Java dengan mengunduh versi percobaan gratis dari [sini](https://releases.aspose.com/).
+
+**T: Di mana saya dapat menemukan dokumentasi dan dukungan untuk Aspose.Imaging untuk Java?**  
+J: Dokumentasi dapat diakses di [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/). Untuk dukungan, kunjungi [forum Aspose.Imaging](https://forum.aspose.com/).
+
+**T: Apakah ada konversi format gambar lain yang didukung oleh Aspose.Imaging untuk Java?**  
+J: Ya, Aspose.Imaging untuk Java mendukung berbagai konversi format gambar, termasuk PNG, JPEG, BMP, dan lainnya. Lihat dokumentasi untuk detail lengkap.
+
+**T: Bisakah saya menyesuaikan opsi konversi TIFF di Aspose.Imaging untuk Java?**  
+J: Ya, Anda dapat menyesuaikan opsi konversi TIFF menggunakan kelas `TiffOptions` sesuai kebutuhan spesifik Anda.
 
 ---
 

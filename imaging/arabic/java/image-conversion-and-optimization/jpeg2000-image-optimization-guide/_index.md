@@ -145,14 +145,6 @@ try (Jpeg2000Options createOptions = new Jpeg2000Options())
 
 Aspose.Imaging for Java يجعل من السهل **إنشاء حلول صورة JP2 في Java** تكون فعّالة من حيث الذاكرة وعالية الجودة. باتباع الخطوات أعلاه—تحميل الملفات الموجودة، ضبط `Jjpeg2000Options`، وإدارة أحجام البوفر—يمكنك دمج دعم JPEG2000 في أي تطبيق Java بثقة. ابدأ التجربة اليوم ودع مشاريعك تتألق بمرئيات JPEG2000 محسّنة!
 
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
-
 ---
 
 **آخر تحديث:** 2026-01-01  
@@ -160,3 +152,11 @@ Aspose.Imaging for Java يجعل من السهل **إنشاء حلول صورة 
 **المؤلف:** Aspose  
 
 ---
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

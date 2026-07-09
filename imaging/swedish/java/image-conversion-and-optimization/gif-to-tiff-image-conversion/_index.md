@@ -107,32 +107,6 @@ TiffOptions objTiff = new TiffOptions(TiffExpectedFormat.Default);
 gifBlock.save("Your Document Directory" + "asposelogo" + i + "_out.tif", objTiff);
 ```
 
-## Vanliga problem och lösningar
-
-| Problem | Orsak | Lösning |
-|-------|--------|-----|
-| **`ClassNotFoundException` för Aspose‑klasser** | Bibliotekets JAR är inte i klassvägen | Lägg till `aspose-imaging-x.x.jar` i ditt projekts byggsökväg eller Maven‑beroenden. |
-| **Ingen utdatafil skapad** | Felaktig katalogsökväg | Verifiera att `dataDir` och spara‑sökvägen är absoluta eller korrekt relativa till ditt projekt. |
-| **Endast den första ramen sparas** | Loopen avbryts tidigt | Säkerställ att `continue`‑satsen bara hoppar över icke‑ram‑block; bryt inte loopen med `break`. |
-| **TIFF‑filstorleken är enorm** | Standard‑TIFF‑komprimering är ingen | Använd `TiffOptions` med en komprimeringstyp, t.ex. `objTiff.setCompression(TiffCompression.CcittFax4);`. |
-
-## Vanliga frågor
-
-**Q: Är Aspose.Imaging för Java ett gratis verktyg?**  
-A: Aspose.Imaging för Java är en kommersiell produkt. Du kan hitta mer information om licensiering och priser på [purchase page](https://purchase.aspose.com/buy).
-
-**Q: Kan jag prova Aspose.Imaging för Java innan jag köper?**  
-A: Ja, du kan prova Aspose.Imaging för Java genom att ladda ner gratis provversion från [here](https://releases.aspose.com/).
-
-**Q: Var kan jag hitta dokumentation och support för Aspose.Imaging för Java?**  
-A: Du kan komma åt dokumentationen på [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/). För support kan du besöka [Aspose.Imaging forum](https://forum.aspose.com/).
-
-**Q: Finns det andra bildformatkonverteringar som stöds av Aspose.Imaging för Java?**  
-A: Ja, Aspose.Imaging för Java stöder ett brett spektrum av bildformatkonverteringar, inklusive PNG, JPEG, BMP och mer. Se dokumentationen för fullständig information.
-
-**Q: Kan jag anpassa TIFF‑konverteringsalternativen i Aspose.Imaging för Java?**  
-A: Ja, du kan anpassa TIFF‑konverteringsalternativen med klassen `TiffOptions` för att passa dina specifika krav.
-
 ## Komplett källkod
 ```java
 		
@@ -161,6 +135,32 @@ try (Image objImage = Image.load(dataDir + "aspose-logo.gif"))
 }
 		
 ```
+
+## Vanliga problem och lösningar
+
+| Problem | Orsak | Lösning |
+|-------|--------|-----|
+| **`ClassNotFoundException` för Aspose‑klasser** | Bibliotekets JAR är inte i klassvägen | Lägg till `aspose-imaging-x.x.jar` i ditt projekts byggsökväg eller Maven‑beroenden. |
+| **Ingen utdatafil skapad** | Felaktig katalogsökväg | Verifiera att `dataDir` och spara‑sökvägen är absoluta eller korrekt relativa till ditt projekt. |
+| **Endast den första ramen sparas** | Loopen avbryts tidigt | Säkerställ att `continue`‑satsen bara hoppar över icke‑ram‑block; bryt inte loopen med `break`. |
+| **TIFF‑filstorleken är enorm** | Standard‑TIFF‑komprimering är ingen | Använd `TiffOptions` med en komprimeringstyp, t.ex. `objTiff.setCompression(TiffCompression.CcittFax4);`. |
+
+## Vanliga frågor
+
+**Q: Är Aspose.Imaging för Java ett gratis verktyg?**  
+A: Aspose.Imaging för Java är en kommersiell produkt. Du kan hitta mer information om licensiering och priser på [purchase page](https://purchase.aspose.com/buy).
+
+**Q: Kan jag prova Aspose.Imaging för Java innan jag köper?**  
+A: Ja, du kan prova Aspose.Imaging för Java genom att ladda ner gratis provversion från [here](https://releases.aspose.com/).
+
+**Q: Var kan jag hitta dokumentation och support för Aspose.Imaging för Java?**  
+A: Du kan komma åt dokumentationen på [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/). För support kan du besöka [Aspose.Imaging forum](https://forum.aspose.com/).
+
+**Q: Finns det andra bildformatkonverteringar som stöds av Aspose.Imaging för Java?**  
+A: Ja, Aspose.Imaging för Java stöder ett brett spektrum av bildformatkonverteringar, inklusive PNG, JPEG, BMP och mer. Se dokumentationen för fullständig information.
+
+**Q: Kan jag anpassa TIFF‑konverteringsalternativen i Aspose.Imaging för Java?**  
+A: Ja, du kan anpassa TIFF‑konverteringsalternativen med klassen `TiffOptions` för att passa dina specifika krav.
 
 ---
 

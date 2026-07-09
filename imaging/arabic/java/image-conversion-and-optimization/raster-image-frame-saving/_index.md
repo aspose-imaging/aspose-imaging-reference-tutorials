@@ -123,6 +123,12 @@ A5: نعم، هناك بدائل مثل المكتبات المدمجة في Jav
 
 في هذا الدليل، استعرضنا كيفية **process multi-page tiff java** باستخدام Aspose.Imaging، بدءًا من تحميل ملف TIFF إلى إجراء **tiff to png conversion** وحفظ كل إطار على حدة. باستخدام هذه التقنيات، يمكنك دمج قدرات معالجة الصور القوية في أي تطبيق Java.
 
+---
+
+**آخر تحديث:** 2026-01-01  
+**تم الاختبار مع:** Aspose.Imaging for Java 24.12 (latest at time of writing)  
+**المؤلف:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -130,9 +136,3 @@ A5: نعم، هناك بدائل مثل المكتبات المدمجة في Jav
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**آخر تحديث:** 2026-01-01  
-**تم الاختبار مع:** Aspose.Imaging for Java 24.12 (latest at time of writing)  
-**المؤلف:** Aspose

@@ -107,32 +107,6 @@ TiffOptions objTiff = new TiffOptions(TiffExpectedFormat.Default);
 gifBlock.save("Your Document Directory" + "asposelogo" + i + "_out.tif", objTiff);
 ```
 
-## Các vấn đề thường gặp và giải pháp
-
-| Vấn đề | Nguyên nhân | Giải pháp |
-|-------|------------|----------|
-| **`ClassNotFoundException` for Aspose classes** | Thư viện JAR không có trong classpath | Thêm `aspose-imaging-x.x.jar` vào đường dẫn xây dựng dự án của bạn hoặc phụ thuộc Maven. |
-| **No output files created** | Đường dẫn thư mục không đúng | Kiểm tra `dataDir` và đường dẫn lưu là tuyệt đối hoặc tương đối đúng so với dự án của bạn. |
-| **Only the first frame is saved** | Vòng lặp kết thúc sớm | Đảm bảo câu lệnh `continue` chỉ bỏ qua các khối không phải khung; không dùng `break` để thoát vòng lặp. |
-| **TIFF file size is huge** | Nén TIFF mặc định là không có | Sử dụng `TiffOptions` với loại nén, ví dụ `objTiff.setCompression(TiffCompression.CcittFax4);`. |
-
-## Câu hỏi thường gặp
-
-**Q: Aspose.Imaging cho Java có phải là công cụ miễn phí không?**  
-A: Aspose.Imaging cho Java là một sản phẩm thương mại. Bạn có thể tìm thêm thông tin về giấy phép và giá cả trên [purchase page](https://purchase.aspose.com/buy).
-
-**Q: Tôi có thể dùng thử Aspose.Imaging cho Java trước khi mua không?**  
-A: Có, bạn có thể dùng thử Aspose.Imaging cho Java bằng cách tải phiên bản dùng thử miễn phí từ [here](https://releases.aspose.com/).
-
-**Q: Tôi có thể tìm tài liệu và hỗ trợ cho Aspose.Imaging cho Java ở đâu?**  
-A: Bạn có thể truy cập tài liệu tại [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/). Để được hỗ trợ, bạn có thể truy cập [Aspose.Imaging forum](https://forum.aspose.com/).
-
-**Q: Có các định dạng chuyển đổi ảnh khác nào được hỗ trợ bởi Aspose.Imaging cho Java không?**  
-A: Có, Aspose.Imaging cho Java hỗ trợ nhiều loại chuyển đổi định dạng ảnh, bao gồm PNG, JPEG, BMP và nhiều hơn nữa. Tham khảo tài liệu để biết chi tiết đầy đủ.
-
-**Q: Tôi có thể tùy chỉnh các tùy chọn chuyển đổi TIFF trong Aspose.Imaging cho Java không?**  
-A: Có, bạn có thể tùy chỉnh các tùy chọn chuyển đổi TIFF bằng lớp `TiffOptions` để phù hợp với yêu cầu cụ thể của mình.
-
 ## Mã nguồn hoàn chỉnh
 ```java
 		
@@ -161,6 +135,32 @@ try (Image objImage = Image.load(dataDir + "aspose-logo.gif"))
 }
 		
 ```
+
+## Các vấn đề thường gặp và giải pháp
+
+| Vấn đề | Nguyên nhân | Giải pháp |
+|-------|------------|----------|
+| **`ClassNotFoundException` for Aspose classes** | Thư viện JAR không có trong classpath | Thêm `aspose-imaging-x.x.jar` vào đường dẫn xây dựng dự án của bạn hoặc phụ thuộc Maven. |
+| **No output files created** | Đường dẫn thư mục không đúng | Kiểm tra `dataDir` và đường dẫn lưu là tuyệt đối hoặc tương đối đúng so với dự án của bạn. |
+| **Only the first frame is saved** | Vòng lặp kết thúc sớm | Đảm bảo câu lệnh `continue` chỉ bỏ qua các khối không phải khung; không dùng `break` để thoát vòng lặp. |
+| **TIFF file size is huge** | Nén TIFF mặc định là không có | Sử dụng `TiffOptions` với loại nén, ví dụ `objTiff.setCompression(TiffCompression.CcittFax4);`. |
+
+## Câu hỏi thường gặp
+
+**Q: Aspose.Imaging cho Java có phải là công cụ miễn phí không?**  
+A: Aspose.Imaging cho Java là một sản phẩm thương mại. Bạn có thể tìm thêm thông tin về giấy phép và giá cả trên [purchase page](https://purchase.aspose.com/buy).
+
+**Q: Tôi có thể dùng thử Aspose.Imaging cho Java trước khi mua không?**  
+A: Có, bạn có thể dùng thử Aspose.Imaging cho Java bằng cách tải phiên bản dùng thử miễn phí từ [here](https://releases.aspose.com/).
+
+**Q: Tôi có thể tìm tài liệu và hỗ trợ cho Aspose.Imaging cho Java ở đâu?**  
+A: Bạn có thể truy cập tài liệu tại [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/). Để được hỗ trợ, bạn có thể truy cập [Aspose.Imaging forum](https://forum.aspose.com/).
+
+**Q: Có các định dạng chuyển đổi ảnh khác nào được hỗ trợ bởi Aspose.Imaging cho Java không?**  
+A: Có, Aspose.Imaging cho Java hỗ trợ nhiều loại chuyển đổi định dạng ảnh, bao gồm PNG, JPEG, BMP và nhiều hơn nữa. Tham khảo tài liệu để biết chi tiết đầy đủ.
+
+**Q: Tôi có thể tùy chỉnh các tùy chọn chuyển đổi TIFF trong Aspose.Imaging cho Java không?**  
+A: Có, bạn có thể tùy chỉnh các tùy chọn chuyển đổi TIFF bằng lớp `TiffOptions` để phù hợp với yêu cầu cụ thể của mình.
 
 ---
 
