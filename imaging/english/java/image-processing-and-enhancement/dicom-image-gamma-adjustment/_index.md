@@ -127,14 +127,6 @@ By following this guide you now know **how to process DICOM** files, apply gamma
 
 If you encounter any challenges, the community at the [Aspose.Imaging forum](https://forum.aspose.com/) is a great place to ask questions and share insights.
 
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
-
 ---
 
 **Last Updated:** 2026-01-14  
@@ -142,3 +134,11 @@ If you encounter any challenges, the community at the [Aspose.Imaging forum](htt
 **Author:** Aspose  
 
 ---
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

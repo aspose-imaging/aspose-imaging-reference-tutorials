@@ -147,10 +147,10 @@ A5: Tak, Aspose.Imaging for Java może być zintegrowany z innymi bibliotekami i
 
 ### Dodatkowe pytania i odpowiedzi
 
-**Q: How does the bilateral smoothing filter differ from a simple blur?**  
-A: Bilateral smoothing redukuje szum przy zachowaniu krawędzi, w przeciwieństwie do rozmycia Gaussa, które równomiernie wygładza wszystko.
+**P: Czym dwustronny filtr wygładzający różni się od zwykłego rozmycia?**
+A: Dwustronne wygładzanie szumu przy zachowaniu krawędzi, w działaniu do rozmycia Gaussa, które następuje wygładzanie wszystkiego.
 
-**Q: Can I adjust the sharpening intensity?**  
+**P: Czy mogę dostosować intensywność ostrzenia?**  
 A: Konstruktor `SharpenFilterOptions` przyjmuje parametry promienia i natężenia; ich dostosowanie pozwala kontrolować siłę efektu wyostrzania.
 
 ---

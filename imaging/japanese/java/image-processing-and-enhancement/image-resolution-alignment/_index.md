@@ -19,23 +19,23 @@ weight: 15
 
 デジタル画像の絶えず進化する領域において、**java image resolution** の整合は、鮮明な印刷と完璧な画面表示を実現するための重要なステップです。写真、スキャンした文書、ベクターアートワークを扱う場合でも、水平と垂直の DPI 値が一致していることを確認することで、歪みを防ぎ、一貫した品質が保証されます。Aspose.Imaging for Java は、画像 DPI を整合、検証、変更するためのシンプルな API を提供します。このチュートリアルでは、前提条件から完全な実行可能コード例まで、必要なすべてを順に説明しますので、数分で java image resolution の取り扱いをマスターできます。
 
-## Quick Answers
+## よくある質問
 - **「java image resolution」とは何ですか？** それは、Java コードで処理された画像の DPI（dots per inch）設定を指します。  
 - **なぜ解像度を整合させるのですか？** 水平と垂直の DPI を一致させることで、印刷や拡大縮小時の伸びやつぶれを防ぎます。  
 - **どの Aspose クラスが DPI を整合させますか？** `TiffImage.alignResolutions()` は両方の軸を自動的に整合させます。  
 - **本番環境でライセンスは必要ですか？** はい、トライアル以外の使用には商用ライセンスが必要です。  
 - **整合後に DPI を確認できますか？** もちろんです。各フレームの `getHorizontalResolution()` と `getVerticalResolution()` の値を読み取ります。
 
-## What is java image resolution alignment?
+## Javaの画像解像度調整とは何ですか？
 Java 画像解像度の整合とは、画像の水平および垂直 DPI 値を同一に調整することを意味します。これにより、画像は異なる出力デバイス間でアスペクト比と視覚的忠実度を保ちます。
 
-## Why use Aspose.Imaging for Java to change image DPI?
+## 画像のDPIを変更するためにAspose.Imaging for Javaを使用する理由は何ですか？
 - **フルフォーマットサポート:** TIFF、JPEG、PNG、BMP などを処理します。  
 - **ワンライン API:** `alignResolutions()` が主要な処理を行います。  
 - **外部依存なし:** 純粋な Java で、サーバーサイド処理に最適です。  
 - **高性能:** 高解像度ファイルの大規模バッチ処理に最適化されています。
 
-## Prerequisites
+## 前提条件
 
 1. **Java 開発環境** – JDK を [website](https://www.oracle.com/java/technologies/javase-downloads) からインストールします。  
 2. **Aspose.Imaging for Java** – ライブラリをダウンロードし、[Aspose.Imaging for Java documentation](https://reference.aspose.com/imaging/java/) に記載の方法で参照します。  
@@ -55,7 +55,7 @@ import com.aspose.imaging.fileformats.tiff.TiffImage;
 
 ## java 画像解像度 – ステップバイステップガイド
 
-### Step 1: Load the Image
+### ステップ1：画像を読み込む
 
 `Image.load` メソッドを使用して対象画像を読み込みます。パスを TIFF ファイルに合わせて調整してください。
 
@@ -67,7 +67,7 @@ try (TiffImage image = (TiffImage) Image.load(dataDir + "sample.tiff")) {
 }
 ```
 
-### Step 2: Align Resolutions
+### ステップ2：解像度を合わせる
 
 水平と垂直の DPI 値を同一にするために `alignResolutions()` を呼び出します。
 
@@ -78,7 +78,7 @@ try (TiffImage image = (TiffImage) Image.load(dataDir + "sample.tiff")) {
 }
 ```
 
-### Step 3: Save the Aligned Image
+### ステップ3：解像度を合わせた画像を保存する
 
 更新された画像を新しいファイルに保存します。必要に応じて出力名を変更してください。
 
@@ -90,7 +90,7 @@ try (TiffImage image = (TiffImage) Image.load(dataDir + "sample.tiff")) {
 }
 ```
 
-### Step 4: Verify Resolutions
+### ステップ4：解像度を確認する
 
 整合後、各フレームをループして DPI 値が一致していることを確認します。
 
@@ -104,7 +104,7 @@ for (TiffFrame frame : frames) {
 
 **プロのコツ:** 整合だけでなく特定の DPI に変更したい場合は、保存前に `frame.setHorizontalResolution(value)` と `frame.setVerticalResolution(value)` を設定できます。
 
-## Common Issues & Troubleshooting
+## よくある問題とトラブルシューティング
 
 | 症状 | 考えられる原因 | 対策 |
 |------|----------------|------|
@@ -112,7 +112,7 @@ for (TiffFrame frame : frames) {
 | `alignResolutions()` 後も DPI 値が変わらない | 古い Aspose バージョンを使用している | 最新の Aspose.Imaging for Java リリースにアップグレードする |
 | 大きな TIFF でメモリ不足エラー | 画像全体をメモリに読み込んでいる | ストリーミング API を使用するか、JVM ヒープ (`-Xmx`) を増やす |
 
-## Frequently Asked Questions
+## よくある質問
 
 ### Q1: 画像解像度の整合とは何ですか、そしてなぜ重要ですか？
 A1: 画像解像度の整合は、画像の水平および垂直解像度が等しいことを保証するプロセスです。リサイズや印刷時の歪みを防ぎ、画像品質を維持するために重要です。
@@ -129,7 +129,7 @@ A4: 問題や質問がある場合は、[support forum](https://forum.aspose.com
 ### Q5: Aspose.Imaging for Java が扱える画像のサイズやフォーマットに制限はありますか？
 A5: Aspose.Imaging for Java は幅広い画像フォーマットとサイズに対応しています。ただし、ライセンスの種類により機能が異なる場合があるため、詳細はドキュメントで確認してください。
 
-## Conclusion
+## 結論
 
 このガイドに従うことで、**java 画像解像度を整合**し、DPI を検証し、Aspose.Imaging for Java を使用して修正されたファイルを保存する方法を学びました。この手法は、高品質な印刷物、デジタル出版、または一貫した DPI が重要なあらゆるワークフローでグラフィックを準備する際に不可欠です。さまざまな画像タイプで試し、カスタム DPI 設定を探求し、このロジックを大規模なバッチ処理パイプラインに統合して、Aspose.Imaging の力を最大限に活用してください。
 

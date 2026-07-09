@@ -112,19 +112,19 @@ You’ve now completed a full **java image processing tutorial** that demonstrat
 
 ## Häufig gestellte Fragen
 
-**Q: What is Binarization in image processing?**  
-A: Binarisierung wandelt ein Graustufenbild in ein binäres Bild um, bei dem jedes Pixel basierend auf einem vordefinierten Schwellenwert entweder Schwarz oder Weiß wird.
+**F: Was ist Binarisierung in der Bildverarbeitung?**
+A: Die Binarisierung wandelt ein Graustufenbild in ein binäres Bild um, bei dem jedes Pixel basierend auf einem vordefinierten Schwellenwert entweder Schwarz oder Weiß wird.
 
-**Q: Can I use Aspose.Imaging for Java for free?**  
-A: Ein kostenloser Testlauf steht für die Evaluierung zur Verfügung, aber für den Produktionseinsatz ist eine kommerzielle Lizenz erforderlich. Sie können sie [here](https://purchase.aspose.com/buy) erhalten.
+**F: Kann ich Aspose.Imaging für Java kostenlos nutzen?**
+A: Ein kostenloser Testlauf steht für die Evaluierung zur Verfügung, aber für den Produktionseinsatz ist eine kommerzielle Lizenz erforderlich. Sie können sie [hier](https://purchase.aspose.com/buy) erhalten.
 
-**Q: Are there alternative Java libraries for image processing?**  
-A: Ja, Bibliotheken wie Java Advanced Imaging (JAI) und ImageJ existieren, aber die Aspose.Imaging java image processing library zeichnet sich durch ihren umfangreichen Funktionsumfang und die einfache Handhabung aus.
+**F: Gibt es alternative Java-Bibliotheken für die Bildverarbeitung?**
+A: Ja, es gibt Bibliotheken wie Java Advanced Imaging (JAI) und ImageJ, aber die Aspose.Imaging Java Image Processing Library zeichnet sich durch ihren umfangreichen Funktionsumfang und die einfache Handhabung aus.
 
-**Q: How can I fine‑tune the threshold?**  
-A: Ändern Sie den `byte threshold`‑Wert in `BinarizationFixedThresholdOptions`. Testen Sie verschiedene Werte, um das beste visuelle Ergebnis für Ihr spezifisches Bild zu erzielen.
+**F: Wie kann ich den Schwellenwert feinabstimmen?**
+A: Ändern Sie den „Byte Threshold“-Wert in „BinarizationFixedThresholdOptions“. Testen Sie verschiedene Werte, um das beste visuelle Ergebnis für Ihr spezifisches Bild zu erzielen.
 
-**Q: What other image operations can Aspose.Imaging perform?**  
+**F: Welche anderen Bildvorgänge kann Aspose.Imaging ausführen?** 
 A: Die Bibliothek unterstützt das Ändern der Größe, Zuschneiden, Drehen, Anwenden von Filtern, Formatkonvertierung und vieles mehr.
 
 ## Fazit

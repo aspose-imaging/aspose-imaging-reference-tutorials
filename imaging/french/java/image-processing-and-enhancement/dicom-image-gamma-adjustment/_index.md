@@ -129,14 +129,6 @@ En suivant ce guide, vous savez maintenant **comment traiter les fichiers DICOM*
 
 Si vous rencontrez des difficultés, la communauté du [forum Aspose.Imaging](https://forum.aspose.com/) est un excellent endroit pour poser des questions et partager des idées.
 
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
-
 ---
 
 **Dernière mise à jour :** 2026-01-14  
@@ -144,3 +136,11 @@ Si vous rencontrez des difficultés, la communauté du [forum Aspose.Imaging](ht
 **Auteur :** Aspose  
 
 ---
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

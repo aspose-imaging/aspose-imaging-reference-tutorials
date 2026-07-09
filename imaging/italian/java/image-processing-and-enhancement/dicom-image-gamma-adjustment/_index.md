@@ -128,6 +128,12 @@ Seguendo questa guida ora sai **come elaborare i file DICOM**, applicare la corr
 
 Se incontri delle difficoltà, la community del [forum Aspose.Imaging](https://forum.aspose.com/) è un ottimo posto per porre domande e condividere suggerimenti.
 
+---
+
+**Ultimo Aggiornamento:** 2026-01-14  
+**Testato Con:** Aspose.Imaging for Java 24.11 (ultima al momento della stesura)  
+**Autore:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -135,9 +141,3 @@ Se incontri delle difficoltà, la community del [forum Aspose.Imaging](https://f
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Ultimo Aggiornamento:** 2026-01-14  
-**Testato Con:** Aspose.Imaging for Java 24.11 (ultima al momento della stesura)  
-**Autore:** Aspose

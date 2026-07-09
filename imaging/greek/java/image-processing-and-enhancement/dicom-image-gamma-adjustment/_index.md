@@ -129,6 +129,12 @@ A: Εξερευνήστε την [Aspose.Imaging documentation](https://referenc
 
 Αν αντιμετωπίσετε προκλήσεις, η κοινότητα στο [Aspose.Imaging forum](https://forum.aspose.com/) είναι ένας εξαιρετικός τόπος για να θέσετε ερωτήσεις και να μοιραστείτε ιδέες.
 
+---
+
+**Τελευταία Ενημέρωση:** 2026-01-14  
+**Δοκιμή Με:** Aspose.Imaging for Java 24.11 (latest at time of writing)  
+**Συγγραφέας:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -136,9 +142,3 @@ A: Εξερευνήστε την [Aspose.Imaging documentation](https://referenc
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Τελευταία Ενημέρωση:** 2026-01-14  
-**Δοκιμή Με:** Aspose.Imaging for Java 24.11 (latest at time of writing)  
-**Συγγραφέας:** Aspose

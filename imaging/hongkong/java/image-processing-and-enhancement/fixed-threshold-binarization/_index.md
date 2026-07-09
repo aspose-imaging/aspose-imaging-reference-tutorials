@@ -112,19 +112,19 @@ rasterCachedImage.save("Your Document Directory" + "BinarizationWithFixedThresho
 
 ## 常見問答
 
-**Q: What is Binarization in image processing?**  
+**Q：影像處理中的二值化是什麼？**  
 A: 二值化將灰階影像轉換為二元影像，每個像素根據預設閾值變成黑色或白色。
 
-**Q: Can I use Aspose.Imaging for Java for free?**  
+**Q：我可以免費使用 Aspose.Imaging for Java 嗎？**  
 A: 可使用免費試用版進行評估，但正式環境須購買商業授權。您可於 [here](https://purchase.aspose.com/buy) 取得。
 
-**Q: Are there alternative Java libraries for image processing?**  
+**Q：還有其他用於影像處理的 Java 庫嗎？**  
 A: 有，例如 Java Advanced Imaging (JAI) 與 ImageJ，但 Aspose.Imaging java image processing library 以其豐富功能與易用性脫穎而出。
 
-**Q: How can I fine‑tune the threshold?**  
+**Q：如何微調閾值？**  
 A: 在 `BinarizationFixedThresholdOptions` 中修改 `byte threshold` 值。測試不同數值以獲得最佳視覺效果。
 
-**Q: What other image operations can Aspose.Imaging perform?**  
+**Q：Aspose.Imaging 還能執行哪些其他影像處理操作？**  
 A: 此函式庫支援調整大小、裁切、旋轉、套用濾鏡、格式轉換等多種操作。
 
 ## 結論

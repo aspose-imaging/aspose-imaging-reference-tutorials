@@ -128,6 +128,12 @@ try (FileInputStream fis = new FileInputStream(file)) {
 
 إذا واجهت أي تحديات، فإن المجتمع في [منتدى Aspose.Imaging](https://forum.aspose.com/) مكان رائع لطرح الأسئلة ومشاركة الأفكار.
 
+---
+
+**آخر تحديث:** 2026-01-14  
+**تم الاختبار مع:** Aspose.Imaging للـ Java 24.11 (الأحدث وقت الكتابة)  
+**المؤلف:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -135,9 +141,3 @@ try (FileInputStream fis = new FileInputStream(file)) {
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**آخر تحديث:** 2026-01-14  
-**تم الاختبار مع:** Aspose.Imaging للـ Java 24.11 (الأحدث وقت الكتابة)  
-**المؤلف:** Aspose

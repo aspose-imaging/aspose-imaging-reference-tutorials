@@ -129,14 +129,6 @@ Dengan mengikuti panduan ini Anda kini tahu **cara memproses DICOM** secara prog
 
 Jika Anda menemui tantangan, komunitas di [forum Aspose.Imaging](https://forum.aspose.com/) adalah tempat yang tepat untuk mengajukan pertanyaan dan berbagi wawasan.
 
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
-
 ---
 
 **Terakhir Diperbarui:** 2026-01-14  
@@ -144,3 +136,11 @@ Jika Anda menemui tantangan, komunitas di [forum Aspose.Imaging](https://forum.a
 **Penulis:** Aspose  
 
 ---
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

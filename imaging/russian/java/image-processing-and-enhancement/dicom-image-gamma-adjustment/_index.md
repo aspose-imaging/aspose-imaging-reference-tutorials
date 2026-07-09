@@ -129,6 +129,12 @@ A: Изучите [Aspose.Imaging documentation](https://reference.aspose.com/im
 
 Если вы столкнётесь с проблемами, сообщество на [Aspose.Imaging forum](https://forum.aspose.com/) — отличное место для вопросов и обмена опытом.
 
+---
+
+**Последнее обновление:** 2026-01-14  
+**Тестировано с:** Aspose.Imaging for Java 24.11 (latest at time of writing)  
+**Автор:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -136,9 +142,3 @@ A: Изучите [Aspose.Imaging documentation](https://reference.aspose.com/im
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Последнее обновление:** 2026-01-14  
-**Тестировано с:** Aspose.Imaging for Java 24.11 (latest at time of writing)  
-**Автор:** Aspose

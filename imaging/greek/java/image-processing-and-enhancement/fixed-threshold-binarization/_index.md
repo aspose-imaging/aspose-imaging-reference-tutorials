@@ -115,19 +115,19 @@ rasterCachedImage.save("Your Document Directory" + "BinarizationWithFixedThresho
 
 ## Συχνές Ερωτήσεις
 
-**Q: What is Binarization in image processing?**  
+**Ε: Τι είναι το Binarization στην επεξεργασία εικόνας;**
 A: Η Binarization μετατρέπει μια εικόνα σε κλίμακα του γκρι σε δυαδική εικόνα όπου κάθε pixel γίνεται είτε μαύρο είτε λευκό βάσει ενός προκαθορισμένου κατωφλίου.
 
-**Q: Can I use Aspose.Imaging for Java for free?**  
-A: Μια δωρεάν δοκιμή είναι διαθέσιμη για αξιολόγηση, αλλά απαιτείται εμπορική άδεια για παραγωγική χρήση. Μπορείτε να την αποκτήσετε [here](https://purchase.aspose.com/buy).
+**Ε: Μπορώ να χρησιμοποιήσω το Aspose.Imaging για Java δωρεάν;**
+A: Μια δωρεάν δοκιμή είναι διαθέσιμη για αξιολόγηση, αλλά χρησιμοποιείται εμπορική άδεια για παραγωγική χρήση. Μπορείτε να την αποκτήσετε [εδώ](https://purchase.aspose.com/buy).
 
-**Q: Are there alternative Java libraries for image processing?**  
+**Ε: Υπάρχουν εναλλακτικές βιβλιοθήκες Java για επεξεργασία εικόνας;**
 A: Ναι, υπάρχουν βιβλιοθήκες όπως Java Advanced Imaging (JAI) και ImageJ, αλλά η Aspose.Imaging java image processing library ξεχωρίζει για το εκτεταμένο σύνολο λειτουργιών και την ευκολία χρήσης.
 
-**Q: How can I fine‑tune the threshold?**  
+**Ε: Πώς μπορώ να ρυθμίσω το όριο;**
 A: Τροποποιήστε την τιμή `byte threshold` στο `BinarizationFixedThresholdOptions`. Δοκιμάστε διαφορετικές τιμές για να πετύχετε το καλύτερο οπτικό αποτέλεσμα για τη συγκεκριμένη εικόνα σας.
 
-**Q: What other image operations can Aspose.Imaging perform?**  
+**Ε: Ποιες άλλες λειτουργίες εικόνας μπορεί να εκτελέσει το Aspose.Imaging;**  
 A: Η βιβλιοθήκη υποστηρίζει αλλαγή μεγέθους, περικοπή, περιστροφή, εφαρμογή φίλτρων, μετατροπή μορφής και πολλά άλλα.
 
 ## Συμπέρασμα

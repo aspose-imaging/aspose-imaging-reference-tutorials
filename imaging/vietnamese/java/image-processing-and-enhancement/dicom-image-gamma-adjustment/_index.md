@@ -128,14 +128,6 @@ Bằng cách làm theo hướng dẫn này, bạn đã biết **cách xử lý D
 
 Nếu bạn gặp bất kỳ khó khăn nào, cộng đồng tại [diễn đàn Aspose.Imaging](https://forum.aspose.com/) là nơi tuyệt vời để đặt câu hỏi và chia sẻ kiến thức.
 
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
-
 ---
 
 **Last Updated:** 2026-01-14  
@@ -143,3 +135,11 @@ Nếu bạn gặp bất kỳ khó khăn nào, cộng đồng tại [diễn đàn
 **Author:** Aspose  
 
 ---
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

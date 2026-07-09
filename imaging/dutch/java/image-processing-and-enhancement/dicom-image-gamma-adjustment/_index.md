@@ -129,6 +129,12 @@ Door deze gids te volgen weet je nu **hoe je DICOM**‑bestanden verwerkt, gamma
 
 Als je tegen problemen aanloopt, is de community op het [Aspose.Imaging‑forum](https://forum.aspose.com/) een uitstekende plek om vragen te stellen en inzichten te delen.
 
+---
+
+**Laatst bijgewerkt:** 2026-01-14  
+**Getest met:** Aspose.Imaging for Java 24.11 (latest at time of writing)  
+**Auteur:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -136,9 +142,3 @@ Als je tegen problemen aanloopt, is de community op het [Aspose.Imaging‑forum]
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Laatst bijgewerkt:** 2026-01-14  
-**Getest met:** Aspose.Imaging for Java 24.11 (latest at time of writing)  
-**Auteur:** Aspose

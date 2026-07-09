@@ -128,6 +128,12 @@ A: 追加のガイドや API リファレンス、サンプルプロジェクト
 
 問題が発生した場合は、[Aspose.Imaging forum](https://forum.aspose.com/) のコミュニティが質問や情報共有に最適な場所です。
 
+---
+
+**最終更新日:** 2026-01-14  
+**テスト環境:** Aspose.Imaging for Java 24.11（執筆時点での最新）  
+**作者:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -135,9 +141,3 @@ A: 追加のガイドや API リファレンス、サンプルプロジェクト
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**最終更新日:** 2026-01-14  
-**テスト環境:** Aspose.Imaging for Java 24.11（執筆時点での最新）  
-**作者:** Aspose

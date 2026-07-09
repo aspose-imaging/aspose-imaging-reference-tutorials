@@ -113,19 +113,19 @@ Du har nu slutfört en komplett **java image processing tutorial** som demonstre
 
 ## Vanliga frågor
 
-**Q: What is Binarization in image processing?**  
+**F: Vad är binarisering vid bildbehandling?**
 A: Binarization konverterar en gråskala bild till en binär bild där varje pixel blir antingen svart eller vit baserat på ett fördefinierat tröskelvärde.
 
-**Q: Can I use Aspose.Imaging for Java for free?**  
-A: En gratis provversion finns för utvärdering, men en kommersiell licens krävs för produktionsanvändning. Du kan skaffa den [here](https://purchase.aspose.com/buy).
+**F: Kan jag använda Aspose.Imaging för Java gratis?**
+A: En gratis provversion finns för utvärdering, men en kommersiell licens krävs för produktionsanvändning. Du kan skaffa den [här](https://purchase.aspose.com/buy).
 
-**Q: Are there alternative Java libraries for image processing?**  
+**F: Finns det alternativa Java-bibliotek för bildbehandling?**
 A: Ja, bibliotek som Java Advanced Imaging (JAI) och ImageJ finns, men Aspose.Imaging java image processing library utmärker sig med sitt omfattande funktionsutbud och enkelhet.
 
-**Q: How can I fine‑tune the threshold?**  
-A: Ändra `byte threshold`‑värdet i `BinarizationFixedThresholdOptions`. Testa olika värden för att uppnå bästa visuella resultat för din specifika bild.
+**F: Hur kan jag finjustera tröskeln?**
+A: Ändra `byte threshold`-värdet i `BinarizationFixedThresholdOptions`. Testa olika värden för att uppnå bästa visuella resultat för din specifik bild.
 
-**Q: What other image operations can Aspose.Imaging perform?**  
+**F: Vilka andra bildoperationer kan Aspose.Imaging utföra?**
 A: Biblioteket stödjer storleksändring, beskärning, rotation, applicering av filter, formatkonvertering och mycket mer.
 
 ## Slutsats

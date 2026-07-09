@@ -19,34 +19,40 @@ weight: 15
 
 # Resolución de imágenes en Java – Dominando la alineación de resolución de imágenes con Aspose.Imaging para Java
 
-## Quick Answers
-- **¿Qué significa “java image resolution”?** Se refiere a la configuración DPI (puntos por pulgada) de una imagen procesada con código Java.  
-- **¿Por qué alinear resoluciones?** Igualar el DPI horizontal y vertical evita estiramientos o aplastamientos al imprimir o escalar.  
-- **¿Qué clase de Aspose alinea DPI?** `TiffImage.alignResolutions()` alinea ambos ejes automáticamente.  
-- **¿Necesito una licencia para producción?** Sí, se requiere una licencia comercial para uso que no sea de prueba.  
+## Respuestas rápidas
+- **¿Qué significa “resolución de imagen java”?** Se refiere a la configuración DPI (puntos por pulgada) de una imagen procesada con código Java.
+- **¿Por qué resoluciones alineales?** Igualar el DPI horizontal y vertical evita estiramientos o aplastamientos al imprimir o escalar.
+- **¿Qué clase de Aspose alinea DPI?** `TiffImage.alignResolutions()` alinea ambos ejes automáticamente.
+- **¿Necesito una licencia para producción?** Sí, se requiere una licencia comercial para uso que no sea de prueba.
 - **¿Puedo verificar el DPI después de la alineación?** Por supuesto—lea los valores `getHorizontalResolution()` y `getVerticalResolution()` de cada fotograma.
 
-## What is java image resolution alignment?
-La alineación de resolución de imágenes en Java significa ajustar los valores DPI horizontal y vertical de una imagen para que sean idénticos. Esto garantiza que la imagen mantenga su proporción y fidelidad visual en diferentes dispositivos de salida.
+## ¿Qué es la alineación de la resolución de imágenes de Java?
+La alineación de resolución de imágenes en Java significa ajustar los valores DPI horizontal y vertical de una imagen para que sean idénticas. Esto garantiza que la imagen mantenga su proporción y fidelidad visual en diferentes dispositivos de salida.
 
-## Why use Aspose.Imaging for Java to change image DPI?
-- **Full format support:** Handles TIFF, JPEG, PNG, BMP, and more.  
-- **One‑line API:** `alignResolutions()` does the heavy lifting.  
-- **No external dependencies:** Pure Java, ideal for server‑side processing.  
-- **High performance:** Optimized for large batches of high‑resolution files.
+## ¿Por qué usar Aspose.Imaging para Java para cambiar la resolución de la imagen (DPI)?
 
-## Prerequisites
+- **Compatibilidad total con formatos:** Admite TIFF, JPEG, PNG, BMP y más.
 
-Before we dive in, make sure you have the following:
+- **API de una sola línea:** `alignResolutions()` se encarga de todo.
 
-1. **Java Development Environment** – Install the JDK from the [website](https://www.oracle.com/java/technologies/javase-downloads).  
-2. **Aspose.Imaging for Java** – Download and reference the library as described in the [Aspose.Imaging for Java documentation](https://reference.aspose.com/imaging/java/).  
-3. **Sample Image** – A TIFF file (or any supported format) that you want to process.  
-4. **Your Document Directory** – Replace `"Your Document Directory"` in the code with the actual path where your images reside.
+- **Sin dependencias externas:** Java puro, ideal para el procesamiento del lado del servidor.
 
-## Import Packages
+- **Alto rendimiento:** Optimizado para grandes lotes de archivos de alta resolución.
 
-To start, import the necessary Aspose.Imaging classes:
+## Requisitos previos
+
+Antes de comenzar, asegúrese de tener lo siguiente:
+
+1. **Entorno de desarrollo Java**: Instale el JDK desde el [sitio web](https://www.oracle.com/java/technologies/javase-downloads).
+2. **Aspose.Imaging para Java** – Descargue y agregue la referencia a la biblioteca como se describe en la [documentación de Aspose.Imaging para Java](https://reference.aspose.com/imaging/java/).
+
+3. **Imagen de ejemplo** – Un archivo TIFF (o cualquier formato compatible) que desee procesar.
+
+4. **Directorio de documentos** – Reemplace «Directorio de documentos» en el código con la ruta real donde se encuentran sus imágenes.
+
+## Importar paquetes
+
+Para comenzar, importe las clases necesarias de Aspose.Imaging:
 
 ```java
 // Import the necessary Aspose.Imaging classes
@@ -55,11 +61,11 @@ import com.aspose.imaging.fileformats.tiff.TiffFrame;
 import com.aspose.imaging.fileformats.tiff.TiffImage;
 ```
 
-## java image resolution – Step‑by‑Step Guide
+## Resolución de imágenes en Java: Guía paso a paso
 
-### Step 1: Load the Image
+### Paso 1: Cargar la imagen
 
-Load the target image using the `Image.load` method. Adjust the path to point to your TIFF file.
+Cargue la imagen de destino usando el método `Image.load`. Ajuste la ruta para que apunte a su archivo TIFF.
 
 ```java
 String dataDir = "Your Document Directory" + "ConvertingImages/";
@@ -69,9 +75,9 @@ try (TiffImage image = (TiffImage) Image.load(dataDir + "sample.tiff")) {
 }
 ```
 
-### Step 2: Align Resolutions
+### Paso 2: Alinear resoluciones
 
-Call `alignResolutions()` to make the horizontal and vertical DPI values identical.
+Llame a `alignResolutions()` para que los valores de DPI horizontales y verticales sean idénticos.
 
 ```java
 try (TiffImage image = (TiffImage) Image.load(dataDir + "sample.tiff")) {
@@ -80,9 +86,9 @@ try (TiffImage image = (TiffImage) Image.load(dataDir + "sample.tiff")) {
 }
 ```
 
-### Step 3: Save the Aligned Image
+### Paso 3: Guardar la imagen alineada
 
-Persist the updated image to a new file. Feel free to change the output name as needed.
+Guarde la imagen actualizada en un nuevo archivo. Puede cambiar el nombre del archivo de salida según sea necesario.
 
 ```java
 try (TiffImage image = (TiffImage) Image.load(dataDir + "sample.tiff")) {
@@ -92,9 +98,9 @@ try (TiffImage image = (TiffImage) Image.load(dataDir + "sample.tiff")) {
 }
 ```
 
-### Step 4: Verify Resolutions
+### Paso 4: Verificar resoluciones
 
-After alignment, loop through each frame to confirm that the DPI values match.
+Después de la alineación, recorra cada fotograma para confirmar que los valores de DPI coinciden.
 
 ```java
 TiffFrame[] frames = image.getFrames();
@@ -104,42 +110,47 @@ for (TiffFrame frame : frames) {
 }
 ```
 
-**Pro tip:** If you need to change the DPI to a specific value rather than just aligning, you can set `frame.setHorizontalResolution(value)` and `frame.setVerticalResolution(value)` before saving.
+**Consejo profesional:** Si necesita cambiar el DPI a un valor específico en lugar de simplemente alinearlo, puede configurar `frame.setHorizontalResolution(value)` y `frame.setVerticalResolution(value)` antes de guardar.
 
-## Common Issues & Troubleshooting
+## Problemas comunes y solución de problemas
 
 | Síntoma | Causa probable | Solución |
-|---------|----------------|----------|
-| `NullPointerException` en `image.getFrames()` | Imagen no cargada (ruta incorrecta) | Verifique que `dataDir` y el nombre del archivo sean correctos |
-| Valores DPI sin cambios después de `alignResolutions()` | Uso de una versión antigua de Aspose | Actualice a la última versión de Aspose.Imaging for Java |
-| Error de falta de memoria con TIFF grandes | Carga de la imagen completa en memoria | Use la API de streaming o aumente el heap de JVM (`-Xmx`) |
+|---------|----------|----------|
+| `NullPointerException` y `image.getFrames()` | Imagen no cargada (ruta incorrecta) | Verifique que `dataDir` y el nombre del archivo sean correctos |
+| Valores DPI sin cambios después de `alignResolutions()` | Uso de una versión antigua de Aspose | Actualice a la última versión de Aspose.Imaging para Java |
+| Error de falta de memoria con TIFF grandes | Carga de la imagen completa en memoria | Use la API de streaming o aumente el montón de JVM (`-Xmx`) |
 
-## Frequently Asked Questions
+## Preguntas frecuentes
 
-### Q1: What is image resolution alignment, and why is it important?
-A1: Image resolution alignment is the process of ensuring that the horizontal and vertical resolutions of an image are equal. It's essential to prevent distortion and maintain image quality during resizing and printing.
+### P1: ¿Qué es la alineación de la resolución de imagen y por qué es importante?
 
-### Q2: Can I use Aspose.Imaging for Java with other programming languages?
-A2: Aspose.Imaging is available for multiple programming languages, including .NET, Java, and C++. You can choose the one that best fits your development environment.
+R1: La alineación de la resolución de imagen es el proceso de asegurar que las resoluciones horizontal y vertical de una imagen sean iguales. Es esencial para evitar la distorsión y mantener la calidad de la imagen al redimensionarla e imprimirla.
 
-### Q3: Is Aspose.Imaging a free tool, or does it require a license?
-A3: Aspose.Imaging is a commercial library. You can obtain a free trial license from [here](https://releases.aspose.com/) or purchase a license from [here](https://purchase.aspose.com/buy).
+### P2: ¿Puedo usar Aspose.Imaging para Java con otros lenguajes de programación?
 
-### Q4: How can I get support for Aspose.Imaging for Java?
-A4: If you encounter any issues or have questions, you can seek help from the Aspose.Imaging community on the [support forum](https://forum.aspose.com/).
+R2: Aspose.Imaging está disponible para varios lenguajes de programación, incluidos .NET, Java y C++. Puede elegir el que mejor se adapte a su entorno de desarrollo.
 
-### Q5: Is there any limit to the size or format of images that Aspose.Imaging for Java can handle?
-A5: Aspose.Imaging for Java can handle a wide range of image formats and sizes. However, the library's capabilities may vary depending on your license type, so it's essential to check the documentation for specifics.
+### P3: ¿Aspose.Imaging es una herramienta gratuita o requiere una licencia?
 
-## Conclusion
+R3: Aspose.Imaging es una biblioteca comercial. Puede obtener una licencia de prueba gratuita aquí (https://releases.aspose.com/) o comprar una licencia aquí (https://purchase.aspose.com/buy).
 
-By following this guide you’ve learned how to **align java image resolution**, verify DPI, and save the corrected file using Aspose.Imaging for Java. This technique is indispensable for preparing graphics for high‑quality print jobs, digital publishing, or any workflow where consistent DPI matters. Experiment with different image types, explore custom DPI settings, and integrate this logic into larger batch‑processing pipelines to fully leverage the power of Aspose.Imaging.
+### P4: ¿Cómo puedo obtener soporte para Aspose.Imaging para Java?
 
----
+R4: Si encuentra algún problema o tiene alguna pregunta, puede solicitar ayuda a la comunidad de Aspose.Imaging en el [foro de soporte](https://forum.aspose.com/).
 
-**Last Updated:** 2026-01-14  
-**Tested With:** Aspose.Imaging for Java 24.12  
-**Author:** Aspose  
+### P5: ¿Existe algún límite en el tamaño o formato de las imágenes que Aspose.Imaging para Java puede manejar?
+
+R5: Aspose.Imaging para Java puede manejar una amplia gama de formatos y tamaños de imagen. Sin embargo, las capacidades de la biblioteca pueden variar según su tipo de licencia, por lo que es esencial consultar la documentación para obtener información específica.
+
+## Conclusión
+
+Siguiendo esta guía, ha aprendido a **alinear la resolución de imágenes Java**, verificar los DPI y guardar el archivo corregido con Aspose.Imaging para Java. Esta técnica es indispensable para preparar gráficos para trabajos de impresión de alta calidad, publicación digital o cualquier flujo de trabajo donde la consistencia de los DPI sea importante. Experimenta con diferentes tipos de imagen, explora configuraciones de DPI personalizadas e integra esta lógica en flujos de procesamiento por lotes más amplios para aprovechar al máximo el potencial de Aspose.Imaging.
+
+--
+
+**Última actualización:** 14/01/2026
+**Probado con:** Aspose.Imaging para Java 24.12
+**Autor:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

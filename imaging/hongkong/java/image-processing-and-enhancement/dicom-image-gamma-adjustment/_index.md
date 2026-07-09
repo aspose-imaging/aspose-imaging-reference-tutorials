@@ -128,6 +128,12 @@ A: 前往 [Aspose.Imaging documentation](https://reference.aspose.com/imaging/ja
 
 如果您遇到任何挑戰，請前往 [Aspose.Imaging forum](https://forum.aspose.com/) 社群，這裡是提問與分享見解的好地方。
 
+---
+
+**最後更新：** 2026-01-14  
+**測試環境：** Aspose.Imaging for Java 24.11 (latest at time of writing)  
+**作者：** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -135,9 +141,3 @@ A: 前往 [Aspose.Imaging documentation](https://reference.aspose.com/imaging/ja
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**最後更新：** 2026-01-14  
-**測試環境：** Aspose.Imaging for Java 24.11 (latest at time of writing)  
-**作者：** Aspose

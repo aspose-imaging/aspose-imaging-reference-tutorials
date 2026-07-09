@@ -128,14 +128,6 @@ A: 访问 [Aspose.Imaging documentation](https://reference.aspose.com/imaging/ja
 
 如果遇到任何问题，欢迎前往 [Aspose.Imaging forum](https://forum.aspose.com/) 与社区交流、提问并分享经验。
 
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
-
 ---
 
 **最后更新：** 2026-01-14  
@@ -143,3 +135,11 @@ A: 访问 [Aspose.Imaging documentation](https://reference.aspose.com/imaging/ja
 **作者：** Aspose  
 
 ---
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

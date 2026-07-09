@@ -129,6 +129,12 @@ Durch das Befolgen dieser Anleitung wissen Sie jetzt **wie man DICOM**‑Dateien
 
 Wenn Sie auf Herausforderungen stoßen, ist die Community im [Aspose.Imaging forum](https://forum.aspose.com/) ein ausgezeichneter Ort, um Fragen zu stellen und Erkenntnisse zu teilen.
 
+---
+
+**Zuletzt aktualisiert:** 2026-01-14  
+**Getestet mit:** Aspose.Imaging for Java 24.11 (aktuell zum Zeitpunkt der Erstellung)  
+**Autor:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -136,9 +142,3 @@ Wenn Sie auf Herausforderungen stoßen, ist die Community im [Aspose.Imaging for
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Zuletzt aktualisiert:** 2026-01-14  
-**Getestet mit:** Aspose.Imaging for Java 24.11 (aktuell zum Zeitpunkt der Erstellung)  
-**Autor:** Aspose

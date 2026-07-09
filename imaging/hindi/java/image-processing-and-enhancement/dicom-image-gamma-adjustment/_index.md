@@ -129,6 +129,12 @@ BMP विकल्प बनाएं और प्रोसेस्ड इम
 
 यदि आपको कोई चुनौती मिलती है, तो [Aspose.Imaging forum](https://forum.aspose.com/) पर समुदाय प्रश्न पूछने और अंतर्दृष्टि साझा करने के लिए एक उत्कृष्ट स्थान है।
 
+---
+
+**अंतिम अपडेट:** 2026-01-14  
+**परीक्षण किया गया:** Aspose.Imaging for Java 24.11 (latest at time of writing)  
+**लेखक:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -136,9 +142,3 @@ BMP विकल्प बनाएं और प्रोसेस्ड इम
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**अंतिम अपडेट:** 2026-01-14  
-**परीक्षण किया गया:** Aspose.Imaging for Java 24.11 (latest at time of writing)  
-**लेखक:** Aspose

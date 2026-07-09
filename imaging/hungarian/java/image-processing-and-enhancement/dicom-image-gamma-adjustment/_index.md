@@ -129,14 +129,6 @@ Az útmutató követésével most már tudod, **hogyan kell feldolgozni a DICOM*
 
 Ha bármilyen nehézséged adódik, a [Aspose.Imaging fórum](https://forum.aspose.com/) közössége remek hely kérdések feltevésére és tapasztalatok megosztására.
 
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
-
 ---
 
 **Utolsó frissítés:** 2026-01-14  
@@ -144,3 +136,11 @@ Ha bármilyen nehézséged adódik, a [Aspose.Imaging fórum](https://forum.aspo
 **Szerző:** Aspose  
 
 ---
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

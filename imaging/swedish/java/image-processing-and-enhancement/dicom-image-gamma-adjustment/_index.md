@@ -128,6 +128,12 @@ Genom att följa den här guiden vet du nu **hur man bearbetar DICOM**‑filer, 
 
 Om du stöter på några utmaningar är communityn på [Aspose.Imaging forum](https://forum.aspose.com/) ett utmärkt ställe att ställa frågor och dela insikter.
 
+---
+
+**Senast uppdaterad:** 2026-01-14  
+**Testat med:** Aspose.Imaging for Java 24.11 (senaste vid skrivande stund)  
+**Författare:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -135,9 +141,3 @@ Om du stöter på några utmaningar är communityn på [Aspose.Imaging forum](ht
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Senast uppdaterad:** 2026-01-14  
-**Testat med:** Aspose.Imaging for Java 24.11 (senaste vid skrivande stund)  
-**Författare:** Aspose

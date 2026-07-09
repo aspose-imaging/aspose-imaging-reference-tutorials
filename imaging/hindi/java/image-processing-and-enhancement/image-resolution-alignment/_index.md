@@ -59,7 +59,7 @@ import com.aspose.imaging.fileformats.tiff.TiffImage;
 
 ## java image resolution – चरण‑दर‑चरण गाइड
 
-### Step 1: Load the Image
+### स्टेप 1: इमेज लोड करें
 
 `Image.load` मेथड का उपयोग करके लक्ष्य इमेज लोड करें। पाथ को अपनी TIFF फ़ाइल की ओर इंगित करने के लिए समायोजित करें।
 
@@ -71,7 +71,7 @@ try (TiffImage image = (TiffImage) Image.load(dataDir + "sample.tiff")) {
 }
 ```
 
-### Step 2: Align Resolutions
+### स्टेप 2: रिज़ॉल्यूशन अलाइन करें
 
 `alignResolutions()` को कॉल करें ताकि क्षैतिज और लंबवत DPI मान समान हो जाएँ।
 
@@ -82,7 +82,7 @@ try (TiffImage image = (TiffImage) Image.load(dataDir + "sample.tiff")) {
 }
 ```
 
-### Step 3: Save the Aligned Image
+### स्टेप 3: अलाइन की गई इमेज सेव करें
 
 अपडेटेड इमेज को नई फ़ाइल में सेव करें। आवश्यकता अनुसार आउटपुट नाम बदलने में स्वतंत्र महसूस करें।
 
@@ -94,7 +94,7 @@ try (TiffImage image = (TiffImage) Image.load(dataDir + "sample.tiff")) {
 }
 ```
 
-### Step 4: Verify Resolutions
+### स्टेप 4: रिज़ॉल्यूशन वेरिफ़ाई करें
 
 एलाइनमेंट के बाद, प्रत्येक फ्रेम पर लूप करके पुष्टि करें कि DPI मान मेल खाते हैं।
 

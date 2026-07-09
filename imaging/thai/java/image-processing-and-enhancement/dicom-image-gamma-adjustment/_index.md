@@ -128,6 +128,12 @@ A: สำรวจ [เอกสาร Aspose.Imaging](https://reference.aspose.
 
 หากคุณพบปัญหาใด ๆ ชุมชนที่ [ฟอรั่ม Aspose.Imaging](https://forum.aspose.com/) เป็นสถานที่ที่ดีสำหรับการถามคำถามและแบ่งปันข้อมูลเชิงลึก.
 
+---
+
+**อัปเดตล่าสุด:** 2026-01-14  
+**ทดสอบด้วย:** Aspose.Imaging for Java 24.11 (latest at time of writing)  
+**ผู้เขียน:** Aspose
+
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
@@ -135,9 +141,3 @@ A: สำรวจ [เอกสาร Aspose.Imaging](https://reference.aspose.
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**อัปเดตล่าสุด:** 2026-01-14  
-**ทดสอบด้วย:** Aspose.Imaging for Java 24.11 (latest at time of writing)  
-**ผู้เขียน:** Aspose
