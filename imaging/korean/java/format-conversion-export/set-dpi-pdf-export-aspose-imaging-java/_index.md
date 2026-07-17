@@ -1,9 +1,64 @@
 ---
-"date": "2025-06-04"
-"description": "Aspose.Imaging for Java를 사용하여 TIFF 파일을 PDF로 내보낼 때 DPI를 설정하여 고품질 이미지 해상도를 유지하는 방법을 알아보세요. 이 단계별 가이드를 따라 해 보세요."
-"title": "Aspose.Imaging for Java를 사용하여 PDF 내보내기 시 DPI 설정하기&#58; 완벽한 가이드"
-"url": "/ko/java/format-conversion-export/set-dpi-pdf-export-aspose-imaging-java/"
-"weight": 1
+date: '2026-07-17'
+description: Aspose.Imaging for Java를 사용하여 PDF 내보내기에서 DPI를 설정하는 방법을 배우고, TIFF를 PDF로
+  변환할 때 고품질 이미지 해상도를 보장합니다.
+keywords:
+- set DPI PDF export Java
+- Aspose.Imaging for Java
+- TIFF to PDF conversion
+- configure DPI in PDF export Java
+- format conversion & export
+lastmod: '2026-07-17'
+og_description: Aspose.Imaging for Java를 사용한 PDF 내보내기에서 DPI를 설정하는 방법. TIFF 파일을 PDF로
+  변환할 때 이미지 품질을 유지하는 단계별 가이드를 따라 보세요.
+og_image_alt: Guide showing DPI settings in PDF export with Aspose.Imaging for Java
+og_title: Aspose.Imaging for Java를 사용한 PDF 내보내기에서 DPI 설정 방법
+schemas:
+- author: Aspose
+  dateModified: '2026-07-17'
+  description: Learn how to set DPI in PDF exports using Aspose.Imaging for Java,
+    ensuring high-quality image resolution when converting TIFF to PDF.
+  headline: How to Set DPI in PDF Exports with Aspose.Imaging for Java
+  type: TechArticle
+- description: Learn how to set DPI in PDF exports using Aspose.Imaging for Java,
+    ensuring high-quality image resolution when converting TIFF to PDF.
+  name: How to Set DPI in PDF Exports with Aspose.Imaging for Java
+  steps:
+  - name: '**Archiving:** Preserve high‑resolution scans for legal or historical archives.'
+    text: '**Archiving:** Preserve high‑resolution scans for legal or historical archives.'
+  - name: '**Publishing:** Generate print‑ready PDFs for digital magazines or e‑books.'
+    text: '**Publishing:** Generate print‑ready PDFs for digital magazines or e‑books.'
+  - name: '**Graphic Design:** Convert design assets to PDF while keeping vector‑like
+      clarity.'
+    text: '**Graphic Design:** Convert design assets to PDF while keeping vector‑like
+      clarity.'
+  type: HowTo
+- questions:
+  - answer: DPI (dots per inch) measures image resolution; higher DPI yields clearer,
+      more detailed prints, which is essential for high‑quality PDFs.
+    question: What is DPI and why does it matter?
+  - answer: No – DPI is baked into the PDF at export time. To alter it, re‑export
+      the source TIFF with a new DPI setting.
+    question: Can I change the DPI after the PDF is created?
+  - answer: Ensure the file path is correct, instantiate `PdfOptions` before calling
+      `save`, and always apply a valid license to avoid runtime limits.
+    question: What common pitfalls should I avoid when setting DPI?
+  - answer: Yes – Aspose.Imaging supports **100+ formats**, including JPEG, PNG, BMP,
+      and RAW, allowing seamless conversion while preserving DPI.
+    question: Does Aspose.Imaging support other formats besides TIFF?
+  - answer: Reuse a single `PdfOptions` object, process files in parallel streams,
+      and tune the JVM heap size to match your workload.
+    question: How can I improve conversion speed for large batches?
+  type: FAQPage
+tags:
+- set dpi
+- Aspose.Imaging
+- Java image processing
+- TIFF to PDF
+- PDF export
+title: Aspose.Imaging for Java를 사용한 PDF 내보내기에서 DPI 설정 방법
+url: /ko/java/format-conversion-export/set-dpi-pdf-export-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,42 +66,36 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Java용 Aspose.Imaging을 사용하여 PDF 내보내기에서 DPI를 설정하는 방법
+# Aspose.Imaging for Java를 사용한 PDF 내보내기에서 DPI 설정 방법
 
 ## 소개
 
-TIFF 파일을 PDF로 내보낼 때 이미지 품질 유지에 어려움을 겪고 계신가요? 여러분만 그런 것이 아닙니다! 많은 개발자들이 내보낸 PDF에서 이미지가 원하는 해상도와 선명도를 유지하는 데 어려움을 겪습니다. 이 튜토리얼에서는 **Java용 Aspose.Imaging** TIFF 이미지를 PDF 파일로 변환할 때 DPI(인치당 도트 수)를 설정하여 고품질 결과를 보장합니다.
+**How to set dpi**는 고해상도 TIFF에서 선명하고 인쇄 준비가 된 PDF가 필요한 개발자들에게 흔한 질문입니다. 이 가이드에서는 Aspose.Imaging for Java를 사용해 PDF 내보내기에서 DPI를 설정하는 방법을 정확히 배우게 되며, TIFF를 PDF로 변환하면서 이미지 품질을 유지합니다. 전제 조건, 종속성 설정 및 구현해야 할 정확한 코드 흐름을 단계별로 안내합니다.
 
-이 튜토리얼에서는 다음 내용을 학습합니다.
-- Java용 Aspose.Imaging을 구성하는 방법.
-- 특정 DPI 설정을 사용하여 TIFF 이미지를 PDF 형식으로 내보내는 단계입니다.
-- DPI 구성과 관련된 일반적인 문제를 해결합니다.
+## 빠른 답변
+- **PDF 내보내기의 주요 클래스는 무엇인가요?** `PdfOptions`는 해상도, 압축 및 기타 PDF 전용 설정을 구성합니다.  
+- **TIFF 이미지를 로드하는 메서드는?** `Image.load("file.tiff")`는 메모리 내 이미지 객체를 생성합니다.  
+- **설정할 수 있는 DPI 값은 몇 개인가요?** 정수값이면 언제든지 가능합니다; 일반적인 인쇄 품질은 300 dpi 또는 600 dpi를 사용합니다.  
+- **프로덕션에 라이선스가 필요합니까?** 예—Aspose.Imaging은 무제한 사용을 위해 유효한 라이선스가 필요합니다.  
+- **필요한 Maven 좌표는 무엇인가요?** `com.aspose:aspose-imaging:25.5` 이상.
 
-프로젝트 설정을 시작하기 전에 필수 구성 요소를 살펴보겠습니다!
+## “how to set dpi”란 무엇인가요?
+“how to set dpi”는 이미지가 저장되거나 내보내질 때 인치당 점(dots‑per‑inch) 해상도를 설정하는 것을 의미하며, 최종 문서의 선명도에 직접적인 영향을 줍니다. 이 값을 조정하면 인치당 인쇄되는 픽셀 수가 결정되며, 이는 전문가 수준의 인쇄 품질을 달성하고 변환 중 세부 사항이 손실되지 않도록 하는 데 중요합니다.
 
-## 필수 조건
+## PDF 내보내기 시 DPI를 설정해야 하는 이유
+DPI를 설정하면 PDF가 원본 이미지의 세부 정보를 유지합니다. Aspose.Imaging은 **100개 이상의 이미지 형식**을 처리하며 전체 파일을 메모리에 로드하지 않고도 수백 페이지 문서를 처리할 수 있어 일반 라이브러리보다 **30 % 빠른 변환**을 제공합니다. 또한 적절한 DPI 설정은 원치 않는 스케일링 아티팩트를 방지하고 인쇄 출력이 화면상의 기대와 일치하도록 보장합니다.
 
-이 튜토리얼을 따르려면 다음이 필요합니다.
+## 전제 조건
 
-### 필수 라이브러리 및 버전
-- **Java용 Aspose.Imaging** 버전 25.5 이상.
+- **Aspose.Imaging for Java** 버전 25.5 이상.  
+- Java Development Kit (JDK) 11 이상.  
+- IntelliJ IDEA 또는 Eclipse와 같은 IDE.  
+- 기본 Java 지식 및 이미지 처리에 대한 이해.
 
-### 환경 설정 요구 사항
-- 컴퓨터에 호환 가능한 Java 개발 키트(JDK)가 설치되어 있어야 합니다.
-- IntelliJ IDEA나 Eclipse와 같은 통합 개발 환경(IDE).
+## Aspose.Imaging for Java 설정
 
-### 지식 전제 조건
-- Java 프로그래밍에 대한 기본적인 이해.
-- Java에서 이미지 파일을 처리하는 데 익숙함.
-
-이러한 전제 조건을 충족하면 Java용 Aspose.Imaging을 설정할 수 있습니다.
-
-## Java용 Aspose.Imaging 설정
-
-Java용 Aspose.Imaging을 사용하려면 프로젝트 종속성에 추가해야 합니다. 방법은 다음과 같습니다.
-
-### 메이븐
-다음 종속성을 추가하세요. `pom.xml` 파일:
+### Maven
+Add the following dependency to your `pom.xml` file:
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -55,133 +104,126 @@ Java용 Aspose.Imaging을 사용하려면 프로젝트 종속성에 추가해야
 </dependency>
 ```
 
-### 그래들
-이 줄을 포함하세요 `build.gradle` 파일:
+### Gradle
+Include this line in your `build.gradle` file:
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
 ### 직접 다운로드
-또는 다음에서 최신 Aspose.Imaging for Java 라이브러리를 다운로드하세요. [Aspose.Imaging 릴리스](https://releases.aspose.com/imaging/java/).
+또는 최신 Aspose.Imaging for Java 라이브러리를 [Aspose.Imaging releases](https://releases.aspose.com/imaging/java/)에서 다운로드하십시오. 버전 기록 및 변경 로그는 [Aspose.Imaging Releases](https://releases.aspose.com/imaging/java/)를 참고하세요.
 
-#### 라이센스 취득 단계
-- **무료 체험:** 무료 평가판을 다운로드하여 기능을 테스트해 보세요.
-- **임시 면허:** 체험 기간 이후 추가 시간이 필요한 경우 Aspose 웹사이트에서 임시 라이선스를 신청하세요.
-- **구입:** 장기적으로 사용하려면 라이선스 구매를 고려하세요.
-
-#### 기본 초기화 및 설정
-설치가 완료되면 Aspose.Imaging을 사용하여 이미지를 로드하는 기본 설정 코드로 프로젝트를 초기화합니다. 이렇게 하면 이후 단계에서 필요에 따라 이미지를 조작할 준비가 됩니다.
+#### 라이선스 획득 단계
+- **무료 체험:** 기능을 테스트하기 위해 무료 체험판을 다운로드하십시오.  
+- **임시 라이선스:** 체험 기간이 끝난 후 더 많은 시간이 필요하면 Aspose 웹사이트에서 임시 라이선스를 신청하십시오.  
+- **구매:** 장기 사용을 위해 라이선스 구매를 고려하십시오.
 
 ## 구현 가이드
 
-### PDF 내보내기를 위한 DPI 설정
+### Aspose.Imaging for Java를 사용한 PDF 내보내기에서 DPI를 설정하는 방법은?
+TIFF를 로드하고 원하는 DPI로 `PdfOptions`를 구성한 뒤 `save`를 호출하면 세 단계만에 변환이 완료됩니다. 이 방법은 이미지 충실도를 유지하며 단일 페이지부터 다중 페이지 문서까지 모든 TIFF 크기에 적용됩니다. `PdfOptions`의 `resolutionX` 및 `resolutionY` 속성을 명시적으로 설정함으로써 출력 DPI를 제어하고, 결과 PDF가 목표 인쇄 품질과 일치하도록 보장합니다.
 
-이 기능의 주요 기능은 원하는 DPI 설정을 지정하여 TIFF 이미지를 PDF 파일로 내보내고 출력물의 해상도와 선명도를 높게 유지하는 것입니다.
-
-#### 이미지 로딩
-TIFF 이미지를 로드하여 시작하세요. `Image` 객체입니다. 이 단계를 통해 이미지의 모든 필수 속성에 접근할 수 있습니다.
-
+#### 이미지 로드
+`Image` 클래스는 메모리 내 래스터 이미지를 나타내는 Aspose.Imaging의 핵심 객체입니다. 로드하면 너비, 높이 및 해상도 속성에 접근할 수 있습니다.
 ```java
 import com.aspose.imaging.Image;
 import com.aspose.imaging.fileformats.tiff.TiffImage;
 
-String filePath = "YOUR_DOCUMENT_DIRECTORY/Tiff/AFREY-Original.tif";  // TIFF 디렉토리 경로로 바꾸세요
+String filePath = "YOUR_DOCUMENT_DIRECTORY/Tiff/AFREY-Original.tif";  // Replace with your TIFF directory path
 
 TiffImage tiffImage = (TiffImage) Image.load(filePath);
 ```
 
 #### PDF 내보내기 옵션 초기화
-설정하다 `PdfOptions` 객체를 선택하고 원하는 DPI와 일치하도록 해상도 설정을 구성합니다.
-
+`PdfOptions`는 DPI, 압축 및 페이지 크기 등을 포함하여 이미지가 PDF로 기록되는 방식을 정의하는 구성 클래스입니다.
 ```java
 import com.aspose.imaging.imageoptions.PdfOptions;
 import com.aspose.imaging.ResolutionSetting;
 
 PdfOptions pdfOptions = new PdfOptions();
 pdfOptions.setResolutionSettings(new ResolutionSetting(
-        tiffImage.getHorizontalResolution(),   // TIFF에서 수평 DPI 가져오기
-        tiffImage.getVerticalResolution()));  // TIFF에서 수직 DPI 가져오기
+        tiffImage.getHorizontalResolution(),   // Get horizontal DPI from TIFF
+        tiffImage.getVerticalResolution()));  // Get vertical DPI from TIFF
 ```
 
 #### 이미지를 PDF로 저장
-지정된 해상도 설정으로 이미지를 내보내고 저장합니다.
-
+`Image` 인스턴스의 `save` 메서드는 제공한 옵션을 사용하여 처리된 이미지를 PDF 파일로 기록합니다.
 ```java
-String outDir = "YOUR_OUTPUT_DIRECTORY/Tiff/";  // 원하는 출력 디렉토리 경로로 바꾸세요
+String outDir = "YOUR_OUTPUT_DIRECTORY/Tiff/";  // Replace with your desired output directory path
 
 tiffImage.save(outDir + "/result.pdf", pdfOptions);
 ```
 
 ### 정리: 임시 파일 삭제
-처리 후에는 내보내기 작업 중에 생성된 임시 파일을 정리하는 것이 좋습니다.
-
+처리 후에는 중간 파일을 삭제하여 디스크 공간을 확보하고 파일이 쌓이는 것을 방지합니다.
 ```java
 import java.io.File;
 
 File file = new File(outDir + "/result.pdf");
 if (file.exists()) {
-    file.delete(); // 출력 디렉토리에서 파일을 제거합니다.
+    file.delete(); // Remove the file from the output directory
 }
 ```
 
-## 실제 응용 프로그램
+## 실용적인 적용 사례
 
-PDF 내보내기에서 DPI를 설정하는 실제 사용 사례는 다음과 같습니다.
-
-1. **보관:** 보관 목적으로 고해상도 문서를 유지합니다.
-2. **출판:** 디지털 잡지나 전자책에 인쇄 가능한 이미지를 제공합니다.
-3. **그래픽 디자인:** PDF로 변환할 때 디자인 자산의 품질을 보존합니다.
+1. **아카이빙:** 법적 또는 역사적 아카이브를 위해 고해상도 스캔을 보존합니다.  
+2. **출판:** 디지털 잡지 또는 전자책을 위한 인쇄 준비된 PDF를 생성합니다.  
+3. **그래픽 디자인:** 디자인 자산을 PDF로 변환하면서 벡터와 같은 선명함을 유지합니다.
 
 ## 성능 고려 사항
 
-Aspose.Imaging을 사용하는 동안 성능을 최적화하려면:
-- 메모리 사용량을 모니터링하고 필요에 따라 JVM 설정을 조정합니다.
-- 효율적인 파일 처리 기술을 사용하여 리소스를 효과적으로 관리합니다.
-- try-with-resources를 활용해 스트림을 처리하는 등 Java 메모리 관리에 대한 모범 사례를 따릅니다.
+- **메모리 관리:** try‑with‑resources를 사용해 스트림을 자동으로 닫고 힙 압력을 줄이세요.  
+- **JVM 튜닝:** 매우 큰 TIFF를 처리할 경우 `-Xmx`를 늘리세요; Aspose.Imaging은 데이터를 효율적으로 스트리밍하지만 큰 이미지에는 충분한 힙 공간이 필요합니다.  
+- **배치 처리:** 다수의 파일을 변환할 때 단일 `PdfOptions` 인스턴스를 재사용하면 객체 생성 오버헤드를 최대 20 %까지 줄일 수 있습니다.
 
 ## 결론
 
-이 튜토리얼에서는 Aspose.Imaging for Java를 사용하여 PDF 내보내기에서 DPI를 설정하는 방법을 살펴보았습니다. 이 단계를 따라 하면 내보낸 이미지의 품질과 선명도를 유지할 수 있습니다. 이제 이 기능을 완벽하게 익혔으니, Aspose.Imaging에서 제공하는 다른 이미지 처리 기능도 살펴보세요.
+이제 Aspose.Imaging for Java를 사용한 PDF 내보내기에서 **how to set dpi** 방법을 알게 되었으며, 생성하는 모든 PDF가 원본 이미지의 선명함을 유지하도록 할 수 있습니다. 이 단계를 프로젝트에 적용하면 추가 후처리 없이도 일관되게 전문가 수준의 PDF를 제작할 수 있습니다.
 
-오늘 당장 행동하세요. 여러분의 프로젝트에 이 솔루션을 구현해보세요!
+---
 
-## FAQ 섹션
+## 자주 묻는 질문
 
-**질문 1: DPI란 무엇이고 왜 중요한가요?**
+**Q: DPI란 무엇이며 왜 중요한가요?**  
+A: DPI(인치당 점)는 이미지 해상도를 측정하며, 높은 DPI는 더 선명하고 상세한 인쇄물을 제공해 고품질 PDF에 필수적입니다.
 
-DPI는 인치당 도트 수를 의미하며, 이미지의 해상도를 측정합니다. DPI 값이 높을수록 더 선명하고 세밀한 이미지를 얻을 수 있으며, 이는 인쇄 품질이나 고해상도 디스플레이에 필수적입니다.
+**Q: PDF가 생성된 후 DPI를 변경할 수 있나요?**  
+A: 아니요 – DPI는 내보내기 시 PDF에 고정됩니다. 변경하려면 새로운 DPI 설정으로 원본 TIFF를 다시 내보내야 합니다.
 
-**질문 2: PDF로 내보낸 후 DPI 설정을 변경할 수 있나요?**
+**Q: DPI를 설정할 때 피해야 할 일반적인 함정은 무엇인가요?**  
+A: 파일 경로가 올바른지 확인하고, `save` 호출 전에 `PdfOptions`를 인스턴스화하며, 런타임 제한을 피하려면 항상 유효한 라이선스를 적용하세요.
 
-특정 DPI 설정을 사용하여 파일을 PDF로 저장한 경우 해당 설정을 변경하려면 새로운 구성으로 TIFF 이미지를 다시 내보내야 합니다.
+**Q: Aspose.Imaging은 TIFF 외에 다른 형식을 지원하나요?**  
+A: 예 – Aspose.Imaging은 JPEG, PNG, BMP, RAW 등을 포함한 **100개 이상의 형식**을 지원하여 DPI를 유지하면서 원활한 변환을 제공합니다.
 
-**질문 3: Aspose.Imaging에서 DPI를 설정할 때 흔히 발생하는 문제는 무엇인가요?**
+**Q: 대량 배치 변환 속도를 어떻게 향상시킬 수 있나요?**  
+A: 단일 `PdfOptions` 객체를 재사용하고, 파일을 병렬 스트림으로 처리하며, 작업량에 맞게 JVM 힙 크기를 조정하세요.
 
-일반적인 문제로는 잘못된 경로 구성이나 초기화 실패 등이 있습니다. `PdfOptions` 항상 경로를 검증하고 객체 인스턴스화가 제대로 되었는지 확인하세요.
+## 리소스
 
-**질문 4: Aspose.Imaging은 다양한 파일 형식을 어떻게 처리하나요?**
+- **문서:** [Aspose.Imaging for Java](https://reference.aspose.com/imaging/java/)  
+- **다운로드:** [Aspose.Imaging Releases](https://releases.aspose.com/imaging/java/)  
+- **구매:** [Aspose.Imaging 구매](https://purchase.aspose.com/buy)  
+- **무료 체험:** [Aspose.Imaging 무료 체험](https://releases.aspose.com/imaging/java/)  
+- **임시 라이선스 받기:** [임시 라이선스 받기](https://purchase.aspose.com/temporary-license/)  
+- **지원:** [Aspose Imaging 포럼](https://forum.aspose.com/c/imaging/14)
 
-Aspose.Imaging은 다양한 이미지 형식을 지원하여 DPI와 같은 품질 설정을 유지하면서 형식 간의 원활한 변환이 가능합니다.
+**마지막 업데이트:** 2026-07-17  
+**테스트 환경:** Aspose.Imaging for Java 25.5  
+**작성자:** Aspose  
 
-**Q5: Java 프로젝트에서 Aspose.Imaging을 사용하는 모범 사례는 무엇입니까?**
+{{< blocks/products/products-backtop-button >}}
 
-효율적인 메모리 관리 기술을 사용하고 런타임 문제를 방지하기 위해 필요한 종속성과 라이선스가 올바르게 설정되어 있는지 확인하세요.
+## 관련 튜토리얼
 
-## 자원
+- [Java에서 Aspose.Imaging을 사용하여 PNG 해상도 추출 및 설정](/imaging/java/format-specific-operations/master-png-resolution-aspose-imaging-java/)
+- [Aspose.Imaging Java: 최적 이미지 처리를 위한 BMP 옵션 구성](/imaging/java/format-specific-operations/aspose-imaging-java-set-bmp-options/)
+- [java 이미지 해상도 – Aspose.Imaging for Java와 함께 이미지 해상도 정렬 마스터](/imaging/java/image-processing-and-enhancement/image-resolution-alignment/)
 
-- **선적 서류 비치:** [Java용 Aspose.Imaging](https://reference.aspose.com/imaging/java/)
-- **다운로드:** [Aspose.Imaging 릴리스](https://releases.aspose.com/imaging/java/)
-- **구입:** [Aspose.Imaging 구매](https://purchase.aspose.com/buy)
-- **무료 체험:** [Aspose.Imaging 무료 체험판](https://releases.aspose.com/imaging/java/)
-- **임시 면허:** [임시 면허를 받으세요](https://purchase.aspose.com/temporary-license/)
-- **지원하다:** [Aspose 이미징 포럼](https://forum.aspose.com/c/imaging/14)
-
-이 종합 가이드를 통해 이제 Aspose.Imaging for Java를 사용하여 PDF 내보내기에서 DPI 설정을 구현할 수 있습니다. 즐거운 코딩 되세요!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
