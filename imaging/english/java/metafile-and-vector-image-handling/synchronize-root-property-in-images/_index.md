@@ -1,5 +1,5 @@
 ---
-title: How to Sync Root Property in Images with Aspose.Imaging for Java
+title: How to Synchronize Root Property in Images Using Aspose.Imaging for Java API
 linktitle: Synchronize Root Property in Images
 second_title: Aspose.Imaging Java Image Processing API
 description: Learn how to sync root property in images with Aspose.Imaging for Java and how to use synchronized block Java for thread‑safe processing. Step‑by‑step guide.
@@ -120,6 +120,7 @@ A5: For any assistance or queries, you can visit the support forum **[here](http
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+{{< /blocks/products/products-backtop-button >}}
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Convert Image to PDF Java using Aspose.Imaging
+title: Convert Image to PDF with Aspose.Imaging API for Java
 linktitle: PDF DPI Settings Configuration
 second_title: Aspose.Imaging Java Image Processing API
 description: Learn how to convert image to pdf java and convert tiff to pdf java with Aspose.Imaging for Java. Step‑by‑step guide for efficient image manipulation.
@@ -135,6 +135,6 @@ A5: Absolutely! You can modify the PDF options to suit your needs, such as adjus
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< /blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/products-backtop-button >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

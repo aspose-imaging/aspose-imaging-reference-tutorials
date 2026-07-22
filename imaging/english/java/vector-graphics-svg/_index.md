@@ -1,5 +1,5 @@
 ---
-title: "svg to png java: Java Vector Graphics & SVG Tutorials"
+title: "Convert SVG to PNG with Java using Aspose.Imaging: Vector Graphics & SVG Tutorials"
 description: "Learn how to convert SVG to PNG using Java (svg to png java) and load SVG files with Aspose.Imaging. Comprehensive guide for Java developers."
 weight: 10
 url: "/java/vector-graphics-svg/"
@@ -35,6 +35,27 @@ The **svg to png java** process transforms vector‑based SVG images into pixel�
 - Java 8 or newer installed.  
 - Aspose.Imaging for Java library (download from the links below).  
 - A temporary or full Aspose.Imaging license.
+
+```java
+// Convert SVG to PNG using Aspose.Imaging for Java
+import com.aspose.imaging.Image;
+import com.aspose.imaging.fileformats.svg.SvgImage;
+import com.aspose.imaging.imageoptions.PngOptions;
+
+public class SvgToPng {
+    public static void main(String[] args) throws Exception {
+        // Load the SVG file
+        try (SvgImage svgImage = (SvgImage) Image.load("input.svg")) {
+            // Set PNG export options (e.g., resolution)
+            PngOptions pngOptions = new PngOptions();
+            pngOptions.setResolution(300); // DPI
+
+            // Save as PNG
+            svgImage.save("output.png", pngOptions);
+        }
+    }
+}
+```
 
 ## Available Tutorials
 
@@ -119,6 +140,7 @@ A: Yes—wrap the load‑and‑save logic in a loop or use `Parallel.ForEach` fo
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< /blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/products-backtop-button >}}
+{{< /blocks/products/products-backtop-button >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

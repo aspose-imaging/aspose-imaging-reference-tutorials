@@ -1,5 +1,5 @@
 ---
-title: "How to Add Watermark in Java Images – Aspose.Imaging Tutorials"
+title: "Add Watermark to Java Images Using Aspose.Imaging API"
 description: "Learn how to add watermark, protect images, rotate TIFF files and create signatures with Aspose.Imaging for Java. Step‑by‑step Java image watermark guides."
 weight: 15
 url: "/java/watermarking-protection/"
@@ -38,14 +38,32 @@ Adding a watermark means programmatically placing a semi‑transparent text or l
 
 ## Available Tutorials
 
-### [Aspose.Imaging Java&#58; Rotate and Watermark TIFF Images with Ease](./aspose-imaging-java-rotate-watermark-tiff-images/)
+### {{< relref "aspose-imaging-java-rotate-watermark-tiff-images/_index.md" >}}
 Learn how to effortlessly rotate and add watermarks to TIFF images using Aspose.Imaging for Java. Ideal for developers who need to **how to rotate tiff** while protecting the content.
 
-### [Java Text Watermarking with Aspose.Imaging&#58; A Step-by-Step Guide](./java-text-watermark-aspose-imaging-tutorial/)
+### {{< relref "java-text-watermark-aspose-imaging-tutorial/_index.md" >}}
 Learn how to create effective text watermarks in Java using Aspose.Imaging. Protect your images by adding professional branding effortlessly – a perfect example of **java image watermark** implementation.
 
 ## How to protect images and create signatures
 Beyond basic watermarks, Aspose.Imaging lets you embed invisible signatures or cryptographic hashes directly into the image metadata. This technique is useful for **how to create signature** workflows that verify image authenticity later.
+
+### Sample Java Code for Adding a Text Watermark
+```java
+// Load an image
+Image image = Image.load("input.jpg");
+
+// Create watermark options
+WatermarkOptions options = new WatermarkOptions();
+options.setText("Confidential");
+options.setOpacity(0.5);
+options.setRotationAngle(45);
+
+// Apply watermark
+image.addWatermark(options);
+
+// Save the result
+image.save("output.jpg");
+```
 
 ## Additional Resources
 
@@ -57,10 +75,6 @@ Beyond basic watermarks, Aspose.Imaging lets you embed invisible signatures or c
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
 
@@ -86,3 +100,6 @@ A: While Aspose.Imaging focuses on raster formats, you can convert PDF pages to 
 **Last Updated:** 2026-01-27  
 **Tested With:** Aspose.Imaging 24.12 for Java  
 **Author:** Aspose
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}

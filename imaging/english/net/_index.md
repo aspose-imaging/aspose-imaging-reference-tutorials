@@ -1,5 +1,5 @@
 ---
-title: "Create Vector Graphics with Aspose.Imaging for .NET"
+title: "Create Vector Graphics Using Aspose.Imaging API for .NET"
 linktitle: Aspose.Imaging for .NET Tutorials
 weight: 10
 url: /net/
@@ -52,6 +52,22 @@ You can start by loading an existing image, applying transformations, or drawing
 - **Batch image processing** – Combine `Parallel.ForEach` with Aspose.Imaging to process dozens of files (e.g., converting PNGs to SVG) in one operation.  
 - **Add image watermark** – Overlay a semi‑transparent logo onto each frame before exporting, ensuring brand protection across all generated vectors.  
 - **Extract EXIF metadata** – Access `image.Metadata.ExifData` to retrieve camera settings, which can be embedded into SVG comments for provenance tracking.
+
+Here is a simple C# example that loads a raster image and saves it as an SVG vector file:
+
+```csharp
+using Aspose.Imaging;
+using Aspose.Imaging.ImageOptions;
+using Aspose.Imaging.FileFormats.Svg;
+
+// Load a raster image
+using (Image image = Image.Load("sample.png"))
+{
+    // Convert to SVG vector format
+    var svgOptions = new SvgOptions();
+    image.Save("output.svg", svgOptions);
+}
+```
 
 ## Comprehensive .NET Image Processing Learning Path
 
@@ -225,6 +241,7 @@ Build high‑performance image processing applications with Aspose.Imaging for .
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+{{< /blocks/products/products-backtop-button >}}
 
 ## Frequently Asked Questions
 
