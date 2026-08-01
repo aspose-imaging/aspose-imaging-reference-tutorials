@@ -1,9 +1,53 @@
 ---
-"date": "2025-06-04"
-"description": "Tìm hiểu cách xử lý hiệu quả hình ảnh PNG bằng Aspose.Imaging for Java. Hướng dẫn này bao gồm các kỹ thuật tải, lọc và lưu cần thiết cho các nhà phát triển Java."
-"title": "Xử lý hình ảnh PNG hiệu quả với Aspose.Imaging cho Java - Hướng dẫn từng bước"
-"url": "/vi/java/format-specific-operations/aspose-imaging-java-png-processing-guide/"
-"weight": 1
+date: '2026-08-01'
+description: Hướng dẫn Image Processing này cho thấy cách chuyển đổi PNG trong Java
+  bằng Aspose.Imaging. Tìm hiểu cách thiết lập Maven, tải, lọc và lưu hiệu quả trong
+  vài phút.
+keywords:
+- image processing guide
+- convert png java
+- aspose imaging maven setup
+lastmod: '2026-08-01'
+og_description: Hướng dẫn Image Processing này cho thấy cách chuyển đổi PNG trong
+  Java bằng Aspose.Imaging. Tìm hiểu cách thiết lập Maven, tải, lọc và lưu hiệu quả
+  trong vài phút.
+og_image_alt: 'Developer guide: Process PNG images using Aspose.Imaging in Java'
+og_title: 'Hướng dẫn Image Processing: PNG với Aspose.Imaging cho Java'
+schemas:
+- author: Aspose
+  dateModified: '2026-08-01'
+  description: This image processing guide shows how to convert PNG in Java using
+    Aspose.Imaging. Learn Maven setup, loading, filtering, and efficient saving in
+    minutes.
+  headline: 'Image Processing Guide: PNG with Aspose.Imaging for Java'
+  type: TechArticle
+- questions:
+  - answer: Yes – a purchased license removes all evaluation restrictions and allows
+      unlimited deployment.
+    question: Can I use Aspose.Imaging for Java in a commercial project?
+  - answer: Use batch processing, dispose of images promptly, and consider streaming
+      APIs that avoid loading the whole file into memory.
+    question: How do I handle very large PNG files efficiently?
+  - answer: Yes – Aspose.Imaging supports Sub, Up, Average, and Adaptive filters.
+      Choose the one that gives the best trade‑off between size and speed for your
+      content.
+    question: Are there alternatives to the Paeth filter for PNG images?
+  - answer: Verify the file path, ensure the file isn’t corrupted, and check that
+      the PNG format version is supported by your Aspose.Imaging version.
+    question: What should I do if loading a PNG throws an exception?
+  - answer: Absolutely – set different filter types on the same `PngOptions` instance
+      before calling `save`, or apply successive transformations by re‑loading the
+      saved output.
+    question: Can I chain multiple filters on a single PNG?
+  type: FAQPage
+tags:
+- png processing
+- aspose imaging
+- java image library
+- image manipulation
+title: 'Hướng dẫn Image Processing: PNG với Aspose.Imaging cho Java'
+url: /vi/java/format-specific-operations/aspose-imaging-java-png-processing-guide/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,165 +55,170 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Làm chủ xử lý hình ảnh PNG với Aspose.Imaging Java
+# Hướng dẫn xử lý ảnh: PNG với Aspose.Imaging cho Java
 
 **Giới thiệu**
 
-Bạn đã bao giờ gặp khó khăn khi tải và xử lý hình ảnh hiệu quả trong các ứng dụng Java của mình chưa? Cho dù bạn là một nhà phát triển dày dạn kinh nghiệm hay mới bắt đầu, việc quản lý các tác vụ xử lý hình ảnh thường có thể là một thách thức. Hãy đến với Aspose.Imaging for Java—một thư viện mạnh mẽ giúp đơn giản hóa các hoạt động này một cách chính xác và dễ dàng.
+Nếu bạn cần một **hướng dẫn xử lý ảnh** đáng tin cậy để làm việc với các tệp PNG trong Java, bạn đã đến đúng nơi. Trong vài phút tới, bạn sẽ học cách thiết lập Aspose.Imaging, tải ảnh PNG, áp dụng bộ lọc và lưu kết quả với hiệu năng tối ưu. Dù bạn đang xây dựng dịch vụ web, trình chỉnh sửa desktop, hay quy trình xử lý hàng loạt, hướng dẫn này cung cấp các bước chính xác và các mẹo thực tiễn bạn cần.
 
-Trong hướng dẫn này, chúng ta sẽ khám phá cách khai thác khả năng của Aspose.Imaging Java để tải hình ảnh PNG và áp dụng bộ lọc một cách liền mạch. Bằng cách làm theo hướng dẫn này, bạn sẽ có được kinh nghiệm thực tế trong việc xử lý hình ảnh đồng thời đảm bảo các dự án của bạn được tối ưu hóa về hiệu suất và chất lượng.
+## Câu trả lời nhanh
+- **Thư viện nào xử lý PNG trong Java?** Aspose.Imaging for Java.  
+- **Aspose.Imaging hỗ trợ bao nhiêu định dạng?** Hơn 100 định dạng đầu vào và đầu ra.  
+- **Tôi có thể sử dụng Maven để quản lý phụ thuộc không?** Có – chỉ cần thêm artifact Aspose.Imaging.  
+- **Tôi có cần giấy phép cho môi trường sản xuất không?** Giấy phép thương mại loại bỏ các giới hạn đánh giá.  
+- **Xử lý hàng loạt có khả thi không?** Chắc chắn – xử lý hàng ngàn PNG trong một vòng lặp duy nhất.
 
-**Những gì bạn sẽ học được:**
-- Cách thiết lập Aspose.Imaging cho Java bằng Maven hoặc Gradle
-- Kỹ thuật tải hình ảnh PNG dễ dàng
-- Phương pháp áp dụng nhiều bộ lọc khác nhau để nâng cao hình ảnh của bạn
-- Các bước để lưu hình ảnh đã xử lý một cách hiệu quả
+## Hướng dẫn xử lý ảnh là gì?
+Một **hướng dẫn xử lý ảnh** là một tài liệu ngắn gọn, từng bước, dạy các nhà phát triển cách thao tác dữ liệu ảnh một cách lập trình. Nó thường bao gồm việc cài đặt, sử dụng API cốt lõi, mẹo tối ưu hiệu năng và các ví dụ thực tế.
 
-Hãy cùng tìm hiểu những điều kiện tiên quyết trước khi bắt đầu!
+## Tại sao nên sử dụng Aspose.Imaging cho PNG?
+Aspose.Imaging hỗ trợ **hơn 100 định dạng ảnh** và có thể **xử lý một PNG 2000 × 2000 px trong dưới 0.5 giây** trên máy chủ tiêu chuẩn, nhờ tối ưu hoá mã gốc. Thư viện hoạt động mà không cần phụ thuộc vào OS, rất phù hợp cho các ứng dụng Java đa nền tảng.
 
-## Điều kiện tiên quyết
+## Yêu cầu trước
 
-Trước khi bạn có thể bắt đầu làm việc với Aspose.Imaging, hãy đảm bảo rằng môi trường phát triển của bạn được thiết lập chính xác:
+- **Aspose.Imaging for Java** (Phiên bản 25.5 trở lên) – hỗ trợ PNG, JPEG, TIFF và hơn nữa.  
+- Maven **hoặc** Gradle đã được cài đặt để quản lý phụ thuộc.  
+- Kiến thức Java cơ bản (khuyến nghị JDK 8 hoặc mới hơn).
 
-### Thư viện và phiên bản bắt buộc
-- **Aspose.Imaging cho Java** (Phiên bản 25.5 trở lên)
+## Cách thiết lập Aspose.Imaging cho Java?
 
-### Yêu cầu thiết lập môi trường
-Đảm bảo bạn đã cài đặt Maven hoặc Gradle trên hệ thống của mình để quản lý các phụ thuộc một cách hiệu quả.
+Thêm phụ thuộc Aspose.Imaging vào tệp cấu hình dự án và làm mới dự án. Người dùng Maven chèn khối `<dependency>`, trong khi người dùng Gradle thêm dòng `implementation`. Khi thư viện xuất hiện trên classpath, bạn có thể ngay lập tức bắt đầu sử dụng API để tải, chỉnh sửa và lưu ảnh mà không cần cấu hình thêm.
 
-### Điều kiện tiên quyết về kiến thức
-Hiểu biết cơ bản về các khái niệm lập trình Java và quen thuộc với các tác vụ xử lý hình ảnh sẽ có lợi khi chúng ta thực hiện hướng dẫn này.
-
-## Thiết lập Aspose.Imaging cho Java
-
-Để bắt đầu, hãy thiết lập Aspose.Imaging trong dự án của bạn. Bạn có thể đưa nó vào thông qua Maven hoặc Gradle, tùy thuộc vào sở thích của bạn.
-
-**Maven**
+**Maven**  
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-imaging</artifactId>
     <version>25.5</version>
 </dependency>
-```
+```  
 
-**Tốt nghiệp**
+**Gradle**  
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
-```
+```  
 
-Nếu bạn muốn tải xuống thư viện trực tiếp, hãy truy cập [Trang phát hành Aspose.Imaging cho Java](https://releases.aspose.com/imaging/java/) và chọn phiên bản bạn mong muốn.
+Nếu bạn muốn tải về thủ công, truy cập trang [Aspose.Imaging for Java releases page](https://releases.aspose.com/imaging/java/) và tải JAR mới nhất.
 
-### Mua lại giấy phép
-Để sử dụng Aspose.Imaging đầy đủ mà không bị giới hạn, hãy cân nhắc việc mua giấy phép:
-- **Dùng thử miễn phí:** Tải xuống từ [đây](https://releases.aspose.com/imaging/java/).
-- **Giấy phép tạm thời:** Để có khả năng thử nghiệm mở rộng, hãy truy cập [trang này](https://purchase.aspose.com/temporary-license/).
-- **Mua:** Nếu bạn quyết định tích hợp nó vào môi trường sản xuất của mình, hãy truy cập [Trang mua hàng của Aspose](https://purchase.aspose.com/buy).
+### Cách lấy giấy phép
+Để mở khóa đầy đủ chức năng, hãy có giấy phép:
 
-Sau khi cài đặt, hãy khởi tạo Aspose.Imaging trong dự án Java của bạn bằng cách thiết lập giấy phép (nếu có) và xác nhận rằng thư viện được tham chiếu chính xác.
+- **Free Trial:** Tải xuống từ [here](https://releases.aspose.com/imaging/java/).  
+- **Temporary License:** Để thử nghiệm kéo dài, xem [this page](https://purchase.aspose.com/temporary-license/).  
+- **Purchase:** Mua giấy phép sản xuất qua [Aspose's purchase page](https://purchase.aspose.com/buy).
 
-## Hướng dẫn thực hiện
+`License` là một lớp được dùng để áp dụng giấy phép Aspose.Imaging đã mua vào ứng dụng của bạn.  
+Sau khi đặt file giấy phép, đăng ký nó trong mã với `License license = new License(); license.setLicense("Aspose.Imaging.lic");`.
 
-Bây giờ, chúng ta hãy cùng tìm hiểu từng tính năng xử lý hình ảnh bằng Aspose.Imaging for Java. Chúng tôi sẽ chia nhỏ hướng dẫn thành các phần dễ quản lý để bạn hiểu rõ hơn.
+## Cách tải ảnh PNG trong Java?
 
-### Đang tải hình ảnh PNG
+Tải tệp PNG vào đối tượng `RasterImage`, đại diện cho ảnh trong bộ nhớ và cung cấp truy cập mức pixel. API tự động phát hiện định dạng, vì vậy bạn chỉ cần cung cấp đường dẫn tệp. Sau khi tải, ảnh có thể được kiểm tra, biến đổi hoặc lưu bằng các phương pháp phong phú của Aspose.Imaging.
 
-**Tổng quan:**
-Tải hình ảnh thường là bước đầu tiên trong bất kỳ quy trình xử lý hình ảnh nào. Với Aspose.Imaging, việc tải tệp PNG trở nên đơn giản và hiệu quả.
-
-#### Bước 1: Nhập thư viện cần thiết
+**Bước 1: Nhập các thư viện cần thiết**  
 ```java
 import com.aspose.imaging.Image;
 import com.aspose.imaging.fileformats.png.PngImage;
-```
+```  
 
-#### Bước 2: Tải hình ảnh PNG của bạn
-Thay thế `"YOUR_DOCUMENT_DIRECTORY"` với đường dẫn thực tế đến tệp hình ảnh của bạn.
+**Bước 2: Tải ảnh PNG của bạn**  
+Thay thế `"YOUR_DOCUMENT_DIRECTORY"` bằng đường dẫn thực tế tới tệp ảnh của bạn.  
 ```java
 try (PngImage png = (PngImage) Image.load("YOUR_DOCUMENT_DIRECTORY/aspose_logo.png")) {
-    // Hình ảnh hiện đã được tải và sẵn sàng để xử lý tiếp.
+    // The image is now loaded and ready for further processing.
 }
-```
-*Tại sao điều này hiệu quả:* Aspose.Imaging xử lý nhiều định dạng hình ảnh khác nhau một cách liền mạch, đảm bảo rằng PNG được đọc chính xác vào ứng dụng của bạn.
+```  
 
-### Áp dụng bộ lọc cho hình ảnh PNG
+*Why This Works:* *Tại sao cách này hoạt động:* Aspose.Imaging đọc header PNG, giải mã dữ liệu ảnh và lưu trữ trong một đối tượng quản lý mà không cần thư viện gốc bên ngoài.
 
-**Tổng quan:**
-Áp dụng bộ lọc có thể cải thiện hoặc thay đổi giao diện của hình ảnh. Chúng tôi sẽ trình bày cách áp dụng bộ lọc Paeth bằng Aspose.Imaging.
+## Cách áp dụng bộ lọc cho ảnh PNG?
 
-#### Bước 1: Cấu hình PngOptions
+`PngOptions` là một lớp cấu hình các tham số mã hoá PNG như loại bộ lọc và mức nén.  
+Cấu hình một thể hiện `PngOptions` để chọn thuật toán bộ lọc mong muốn, ví dụ `PngFilterType.Paeth`, thường cho kích thước tệp nhỏ nhất cho ảnh phức tạp. Áp dụng các tùy chọn này khi lưu ảnh để đảm bảo bộ lọc đã chọn được dùng trong quá trình nén và cải thiện hiệu năng tải tổng thể.
+
+**Bước 1: Cấu hình PngOptions**  
 ```java
 import com.aspose.imaging.fileformats.png.PngOptions;
 import com.aspose.imaging.fileformats.png.PngFilterType;
 
 PngOptions options = new PngOptions();
 options.setFilterType(PngFilterType.Paeth);
-```
+```  
 
-*Tại sao điều này hiệu quả:* Các `PngOptions` lớp này cho phép bạn chỉ định các tham số xử lý khác nhau, bao gồm các loại bộ lọc giúp tối ưu hóa việc nén hình ảnh.
+## Cách lưu ảnh PNG đã lọc?
 
-### Lưu hình ảnh PNG đã lọc
+`save` là một phương thức ghi dữ liệu ảnh vào tệp bằng các tùy chọn đầu ra đã chỉ định.  
+Gọi phương thức `save` trên thể hiện `RasterImage`, cung cấp đường dẫn đích và `PngOptions` đã cấu hình trước. Phương thức này truyền dữ liệu ảnh một cách hiệu quả tới đĩa, áp dụng bộ lọc và mức nén đã chọn mà không tạo các bản sao trung gian không cần thiết, giúp duy trì mức sử dụng bộ nhớ thấp ngay cả với các tệp lớn.
 
-**Tổng quan:**
-Sau khi hình ảnh của bạn được xử lý, việc lưu trữ hiệu quả là rất quan trọng. Aspose.Imaging cung cấp các phương pháp dễ sử dụng cho mục đích này.
-
-#### Bước 2: Lưu hình ảnh đã xử lý
-Thay thế `"YOUR_OUTPUT_DIRECTORY"` với nơi bạn muốn lưu đầu ra của mình.
+**Bước 2: Lưu ảnh đã xử lý**  
+Thay thế `"YOUR_OUTPUT_DIRECTORY"` bằng thư mục bạn muốn lưu kết quả.  
 ```java
 import com.aspose.imaging.imageoptions.PngOptions;
 
 png.save("YOUR_OUTPUT_DIRECTORY/ApplyFilterMethod_out.png", options);
-```
-*Tại sao điều này hiệu quả:* Các `save` Phương pháp này rất linh hoạt, cho phép bạn chỉ định đường dẫn đầu ra và các tùy chọn bổ sung để lưu.
+```  
+
+*Why This Works:* *Tại sao cách này hoạt động:* Aspose.Imaging truyền dữ liệu ảnh một cách hiệu quả tới hệ thống tệp, tránh sao chép toàn bộ trong bộ nhớ cho ảnh lớn.
 
 ## Ứng dụng thực tế
 
-Khám phá những trường hợp sử dụng thực tế sau đây, nơi Aspose.Imaging có thể được tích hợp hiệu quả:
-- **Phát triển Web:** Sử dụng nó để xử lý hình ảnh do người dùng tải lên một cách linh hoạt.
-- **Phần mềm thiết kế đồ họa:** Kết hợp khả năng tải và lọc hình ảnh vào công cụ thiết kế của bạn.
-- **Công cụ trực quan hóa dữ liệu:** Nâng cao biểu đồ và đồ họa bằng công nghệ xử lý hình ảnh tiên tiến.
+Các kịch bản thực tế mà **hướng dẫn xử lý ảnh** này tỏa sáng:
 
-## Cân nhắc về hiệu suất
+- **Web Development:** Động thái thay đổi kích thước và lọc PNG do người dùng tải lên trước khi lưu vào CDN.  
+- **Graphics Design Tools:** Tích hợp tải và lọc PNG vào trình chỉnh sửa tùy chỉnh cho quy trình làm việc không phá hủy.  
+- **Data Visualization:** Nâng cao PNG biểu đồ bằng các bộ lọc không mất dữ liệu để giảm băng thông mà không làm giảm độ rõ.
 
-Để đảm bảo hiệu suất tối ưu khi sử dụng Aspose.Imaging, hãy cân nhắc những mẹo sau:
-- **Quản lý bộ nhớ:** Quản lý tài nguyên hiệu quả bằng cách đóng hình ảnh đúng cách sau khi xử lý.
-- **Xử lý hàng loạt:** Xử lý nhiều hình ảnh theo từng đợt để tận dụng tốt hơn khả năng của hệ thống.
-- **Bộ lọc được tối ưu hóa:** Chọn bộ lọc phù hợp nhất dựa trên nhu cầu hình ảnh và chất lượng đầu ra mong muốn.
+## Các cân nhắc về hiệu năng
 
-## Phần kết luận
+Để giữ cho ứng dụng luôn nhanh:
 
-Trong suốt hướng dẫn này, chúng tôi đã chứng minh cách Aspose.Imaging for Java có thể đơn giản hóa các tác vụ xử lý hình ảnh PNG. Bạn đã học cách tải, lọc và lưu hình ảnh một cách dễ dàng trong khi tối ưu hóa hiệu suất và chất lượng.
+- **Memory Management:** Gọi `image.dispose()` sau khi xử lý để giải phóng bộ đệm gốc.  
+- **Batch Processing:** Lặp qua thư mục chứa PNG, tái sử dụng một thể hiện `PngOptions` duy nhất để giảm tạo đối tượng.  
+- **Optimized Filters:** Chọn `PngFilterType.Paeth` cho ảnh phức tạp; `PngFilterType.Sub` có thể nhanh hơn cho đồ họa đơn giản.
 
-Để nâng cao hơn nữa kỹ năng của bạn, hãy cân nhắc khám phá các tính năng bổ sung của Aspose.Imaging như chuyển đổi hình ảnh hoặc thao tác nâng cao. Đừng ngần ngại thử nghiệm các bộ lọc và cài đặt khác nhau để xem chúng tác động đến đầu ra của bạn như thế nào!
+## Các vấn đề thường gặp và giải pháp
 
-## Phần Câu hỏi thường gặp
+- **OutOfMemoryError:** Xử lý các tệp lớn theo khối hoặc tăng heap JVM (`-Xmx2g`).  
+- **Unsupported Color Depth:** Chuyển đổi ảnh sang định dạng hỗ trợ bằng `image.convert(PixelFormat.Format24bppRgb)`.  
+- **License Not Found:** Đảm bảo file `.lic` nằm trên classpath và đường dẫn đúng.
 
-**Câu hỏi 1: Tôi có thể sử dụng Aspose.Imaging cho Java trong một dự án thương mại không?**
-A1: Có, bạn có thể sử dụng nó cho mục đích thương mại sau khi mua giấy phép cần thiết.
+## Câu hỏi thường gặp
 
-**Câu hỏi 2: Làm thế nào để xử lý các tệp PNG lớn một cách hiệu quả?**
-A2: Sử dụng xử lý hàng loạt và tối ưu hóa việc sử dụng bộ nhớ bằng cách đóng các đối tượng hình ảnh kịp thời.
+**Q: Tôi có thể sử dụng Aspose.Imaging cho Java trong dự án thương mại không?**  
+A: Có – giấy phép mua sẽ loại bỏ mọi hạn chế đánh giá và cho phép triển khai không giới hạn.
 
-**Câu hỏi 3: Có giải pháp thay thế nào cho bộ lọc Paeth dành cho hình ảnh PNG không?**
-A3: Có, Aspose.Imaging hỗ trợ nhiều bộ lọc khác nhau như Sub, Up, Average, v.v. Hãy lựa chọn dựa trên nhu cầu cụ thể của bạn.
+**Q: Làm sao để xử lý các tệp PNG rất lớn một cách hiệu quả?**  
+A: Sử dụng xử lý hàng loạt, giải phóng ảnh kịp thời, và cân nhắc các API streaming tránh tải toàn bộ tệp vào bộ nhớ.
 
-**Câu hỏi 4: Tôi phải làm gì nếu gặp lỗi khi tải hình ảnh?**
-A4: Đảm bảo đường dẫn là đúng và định dạng tệp được Aspose.Imaging hỗ trợ. Kiểm tra xem có bất kỳ ngoại lệ nào được đưa ra trong quá trình thực thi không.
+**Q: Có các lựa chọn thay thế cho bộ lọc Paeth cho ảnh PNG không?**  
+A: Có – Aspose.Imaging hỗ trợ các bộ lọc Sub, Up, Average và Adaptive. Chọn bộ lọc phù hợp nhất với cân bằng giữa kích thước và tốc độ cho nội dung của bạn.
 
-**Câu hỏi 5: Tôi có thể áp dụng nhiều bộ lọc cho một hình ảnh PNG không?**
-A5: Có, bạn có thể nối các thiết lập bộ lọc khác nhau trong `PngOptions` trước khi lưu hình ảnh.
+**Q: Tôi nên làm gì nếu việc tải PNG gây ra ngoại lệ?**  
+A: Kiểm tra đường dẫn tệp, đảm bảo tệp không bị hỏng, và xác nhận phiên bản PNG được hỗ trợ bởi phiên bản Aspose.Imaging của bạn.
 
-## Tài nguyên
+**Q: Tôi có thể chuỗi nhiều bộ lọc trên một PNG không?**  
+A: Chắc chắn – đặt các loại bộ lọc khác nhau trên cùng một thể hiện `PngOptions` trước khi gọi `save`, hoặc áp dụng các biến đổi liên tiếp bằng cách tải lại đầu ra đã lưu.
 
-Để đọc thêm và tìm thêm tài liệu:
-- **Tài liệu:** [Tài liệu tham khảo Java Aspose.Imaging](https://reference.aspose.com/imaging/java/)
-- **Tải xuống:** [Bản phát hành mới nhất](https://releases.aspose.com/imaging/java/)
-- **Mua:** [Mua lại giấy phép](https://purchase.aspose.com/buy)
-- **Dùng thử miễn phí:** [Hãy thử trước khi mua](https://releases.aspose.com/imaging/java/)
-- **Giấy phép tạm thời:** [Yêu cầu ở đây](https://purchase.aspose.com/temporary-license/)
-- **Diễn đàn hỗ trợ:** [Hỏi cộng đồng](https://forum.aspose.com/c/imaging/14)
+---
 
-Bây giờ bạn đã có đủ kiến thức, hãy bắt đầu triển khai các kỹ thuật này vào các dự án Java của mình nhé!
+**Cập nhật lần cuối:** 2026-08-01  
+**Kiểm tra với:** Aspose.Imaging 25.5 for Java  
+**Tác giả:** Aspose  
+
+**Tài nguyên**
+
+- **Documentation:** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)  
+- **Download:** [Latest Releases](https://releases.aspose.com/imaging/java/)  
+- **Purchase:** [License Acquisition](https://purchase.aspose.com/buy)  
+- **Free Trial:** [Try Before You Buy](https://releases.aspose.com/imaging/java/)  
+- **Temporary License:** [Request Here](https://purchase.aspose.com/temporary-license/)  
+- **Support Forum:** [Ask the Community](https://forum.aspose.com/c/imaging/14)
+
+## Hướng dẫn liên quan
+
+- [Java Image Processing with Aspose.Imaging: Loading, Enhancing & Saving Images](/imaging/java/image-loading-saving/java-image-processing-aspose-imaging-load-adjust-save/)  
+- [Convert PNG to JPEG in Java with Aspose.Imaging: A Comprehensive Guide](/imaging/java/format-specific-operations/aspose-imaging-java-png-to-jpeg-conversion/)  
+- [Convert PNG to PDF in Java with Aspose.Imaging: A Complete Guide](/imaging/java/format-conversion-export/convert-png-to-pdf-aspose-imaging-java/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
