@@ -1,5 +1,5 @@
 ---
-title: How to Draw Graphics with Aspose.Imaging – Advanced Drawing
+title: How to Draw Graphics with Aspose.Imaging for .NET – Advanced Drawing
 linktitle: Advanced Drawing
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to draw graphics using Aspose.Imaging for .NET – advanced image processing, draw lines C#, draw shapes C#, and create visual masterpieces.
@@ -45,7 +45,7 @@ Before we dive into the specifics of advanced drawing techniques, it's crucial t
 
 As a developer, you'll appreciate the ease of use that Aspose.Imaging offers. The intuitive C# interface provides a seamless experience, enabling you to unleash your artistic potential without the hassle of a steep learning curve.
 
-## Draw Using Graphics
+## Draw using graphics
 
 The foundation of advanced drawing is understanding the basic building blocks. Aspose.Imaging for .NET allows you to create and edit images using **Graphics**. This fundamental technique forms the backbone of many creative projects.  
 
@@ -58,7 +58,23 @@ With Graphics, you can effortlessly **draw lines C#**, **draw shapes C#**, and a
 
 *The actual code stays unchanged from the original tutorials; refer to the linked pages for full samples.*
 
-## Creating Art with GraphicsPath
+```csharp
+using Aspose.Imaging;
+using Aspose.Imaging.Drawing;
+
+// Create a new image
+using (var image = new Image(ImageFormat.Png, 800, 600))
+{
+    // Get graphics object
+    var graphics = new Graphics(image);
+    // Draw a red line
+    graphics.DrawLine(new Pen(Color.Red, 2), new Point(50, 50), new Point(750, 50));
+    // Save image
+    image.Save("output.png");
+}
+```
+
+## Creating art with graphicsPath
 
 For those seeking to elevate their drawing skills further, **GraphicsPath** in Aspose.Imaging opens up a world of possibilities. GraphicsPath enables you to create complex paths and shapes, giving your artwork a professional touch.
 
@@ -71,19 +87,19 @@ The step‑by‑step tutorials provided here will guide you through the process,
 
 Again, the detailed code resides in the linked sub‑tutorials.
 
-## Unleash Your Creative Potential
+## Unleash your creative potential
 
 Whether you're an experienced developer or just embarking on your coding journey, these advanced drawing tutorials in Aspose.Imaging for .NET offer something for everyone. You'll be amazed at how quickly you can transform your creative ideas into visual masterpieces.
 
 So, why wait? Dive into the world of Aspose.Imaging for .NET and experience the joy of creating breathtaking graphics with ease. Let your imagination run wild and watch as your skills flourish, all thanks to the power of this remarkable library. Happy drawing!
 
-## Advanced Drawing Tutorials
-### [Draw Using Graphics in Aspose.Imaging for .NET](./draw-using-graphics/)
+## Advanced drawing tutorials
+### {{< relref "draw-using-graphics/_index.md" >}}Draw Using Graphics in Aspose.Imaging for .NET{{< /relref >}}
 Explore image creation and manipulation with Aspose.Imaging for .NET. Learn to draw and edit images in C# with ease.
-### [Draw Using GraphicsPath in Aspose.Imaging for .NET](./draw-using-graphicspath/)
+### {{< relref "draw-using-graphicspath/_index.md" >}}Draw Using GraphicsPath in Aspose.Imaging for .NET{{< /relref >}}
 Create stunning graphics in .NET with Aspose.Imaging. Explore step‑by‑step tutorials and unlock the power of image processing.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: Can I use these drawing features in a web application?**  
 A: Yes, Aspose.Imaging works seamlessly with ASP.NET, ASP.NET Core, and other web frameworks.
@@ -110,6 +126,6 @@ A: Set the desired DPI when creating the image and work with `Graphics` in vecto
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< /blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/products-backtop-button >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

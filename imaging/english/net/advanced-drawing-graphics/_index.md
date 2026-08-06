@@ -1,5 +1,5 @@
 ---
-title: "Create Graphics Paths TIFF with Aspose.Imaging for .NET"
+title: "Generate Graphics Paths in TIFF with Aspose.Imaging for .NET"
 description: "Step-by-step tutorials to create graphics paths TIFF and optimize PNG transparency using Aspose.Imaging for .NET."
 weight: 16
 url: "/net/advanced-drawing-graphics/"
@@ -44,6 +44,40 @@ Below is a concise, step‑by‑step overview. The detailed code lives in the de
 
 > **Pro tip:** Cache the extracted `GraphicsPath` objects when processing many frames to avoid redundant I/O.
 
+```csharp
+using Aspose.Imaging;
+using Aspose.Imaging.FileFormats.Tiff;
+using Aspose.Imaging.Drawing;
+
+// Load the TIFF image
+using (Image image = Image.Load("input.tif"))
+{
+    var tiffImage = (TiffImage)image;
+    var frame = tiffImage.Frames[0] as TiffFrame;
+
+    // Extract path resources
+    var pathResources = frame.ImageInfo.PathResources;
+    foreach (var pathResource in pathResources)
+    {
+        // Convert to GraphicsPath
+        GraphicsPath graphicsPath = pathResource.ToGraphicsPath();
+
+        // Example manipulation: scale the path
+        graphicsPath.Transform(new Matrix(1.5f, 0, 0, 1.5f, 0, 0));
+
+        // Render the path onto a new bitmap
+        using (Bitmap bmp = new Bitmap(frame.Width, frame.Height))
+        {
+            using (Graphics g = new Graphics(bmp))
+            {
+                g.DrawPath(new Pen(Color.Red, 2), graphicsPath);
+            }
+            bmp.Save($"output_{pathResource.Id}.png");
+        }
+    }
+}
+```
+
 ## How to optimize PNG transparency
 1. **Load the PNG** with `Image.Load`.  
 2. **Check the alpha channel** for fully transparent pixels.  
@@ -54,41 +88,41 @@ Both processes are demonstrated in the tutorials below.
 
 ## Available Tutorials
 
-### [How to Create and Manipulate Graphics Paths from TIFF Images Using Aspose.Imaging .NET](./create-graphics-paths-from-tiff-using-aspose-imaging-net/)
+### [How to Create and Manipulate Graphics Paths from TIFF Images Using Aspose.Imaging .NET]({{< relref "create-graphics-paths-from-tiff-using-aspose-imaging-net/_index.md" >}})
 Learn how to convert and manipulate path resources in TIFF images using Aspose.Imaging for .NET. This guide covers converting graphics paths, setting new path resources, and optimizing performance.
 
-### [Implement Custom Fonts and Image Processing in .NET with Aspose.Imaging](./implement-custom-fonts-image-processing-aspose-dotnet/)
+### [Implement Custom Fonts and Image Processing in .NET with Aspose.Imaging]({{< relref "implement-custom-fonts-image-processing-aspose-dotnet/_index.md" >}})
 Learn how to set custom font directories and process images using Aspose.Imaging for .NET. This guide covers advanced drawing & graphics techniques.
 
-### [Implementing Custom Fonts in Images with Aspose.Imaging .NET&#58; A Comprehensive Guide](./implement-custom-fonts-aspose-imaging-net-tutorial/)
+### [Implementing custom fonts in images with Aspose.Imaging .NET: a comprehensive guide]({{< relref "implement-custom-fonts-aspose-imaging-net-tutorial/_index.md" >}})
 Learn how to enhance your .NET applications by implementing custom fonts in images using Aspose.Imaging. This guide covers setup, configuration, and practical applications.
 
-### [Master Image Manipulation in .NET Using Aspose.Imaging for Advanced Graphics Processing](./master-image-manipulation-dotnet-aspose-imaging/)
+### [Master image manipulation in .NET using Aspose.Imaging for advanced graphics processing]({{< relref "master-image-manipulation-dotnet-aspose-imaging/_index.md" >}})
 Learn how to master image manipulation in .NET with Aspose.Imaging. This guide covers loading, displaying, and saving images in various formats using C#.
 
-### [Master Image Manipulation in .NET with Aspose.Imaging&#58; Transparency, Compression, and Conversion Techniques](./master-image-manipulation-aspose-imaging-net/)
+### [Master Image Manipulation in .NET: Transparency, Compression, and Conversion Techniques]({{< relref "master-image-manipulation-aspose-imaging-net/_index.md" >}})
 Learn to master image manipulation in .NET using Aspose.Imaging. Optimize PNG transparency, compression, and conversion between formats like PNG and JPEG.
 
-### [Master Image Processing in .NET with Aspose.Imaging&#58; A Comprehensive Guide for Developers](./master-image-processing-net-aspose-imaging-guide/)
+### [Master Image Processing in .NET with Aspose.Imaging: A Comprehensive Guide for Developers]({{< relref "master-image-processing-net-aspose-imaging-guide/_index.md" >}})
 Learn to master image processing in .NET using Aspose.Imaging. This guide covers loading, normalizing, and adjusting images effectively.
 
-### [Master Image Processing in .NET&#58; Aspose.Imaging Tutorial for Loading and Smoothing Images](./aspose-imaging-net-master-image-processing-smoothing/)
+### [Master image processing in .NET: Aspose.Imaging tutorial for loading and smoothing images]({{< relref "aspose-imaging-net-master-image-processing-smoothing/_index.md" >}})
 Learn how to efficiently load various image formats and apply smoothing techniques using Aspose.Imaging for .NET. Enhance your graphics workflow with our comprehensive guide.
 
-### [Master Image Processing with Aspose.Imaging for .NET&#58; A Developer's Guide](./mastering-image-processing-aspose-imaging-net/)
+### [Master Image Processing with Aspose.Imaging for .NET: A Developer's Guide]({{< relref "mastering-image-processing-aspose-imaging-net/_index.md" >}})
 Discover how to efficiently manage and manipulate images in your .NET applications using Aspose.Imaging. Learn setup, key features, and integration.
 
-### [Master String Alignment in .NET Using Aspose.Imaging](./aspose-imaging-net-string-alignment-guide/)
+### [Master string alignment in .NET using Aspose.Imaging]({{< relref "aspose-imaging-net-string-alignment-guide/_index.md" >}})
 Learn how to use Aspose.Imaging for .NET to draw strings with various alignments. Enhance your document processing capabilities efficiently.
 
-### [Mastering Text Rendering Hints in .NET with Aspose.Imaging&#58; A Comprehensive Guide](./apply-text-rendering-hints-aspose-imaging-net/)
+### [Mastering Text Rendering Hints in .NET with Aspose.Imaging: A Comprehensive Guide]({{< relref "apply-text-rendering-hints-aspose-imaging-net/_index.md" >}})
 Learn how to apply text rendering hints using Aspose.Imaging for .NET. Enhance image clarity and quality with this step-by-step guide.
 
 ## Additional Resources
 
-- [Aspose.Imaging for Net Documentation](https://docs.aspose.com/imaging/net/)
-- [Aspose.Imaging for Net API Reference](https://reference.aspose.com/imaging/net/)
-- [Download Aspose.Imaging for Net](https://releases.aspose.com/imaging/net/)
+- [Aspose.Imaging for .NET Documentation](https://docs.aspose.com/imaging/net/)
+- [Aspose.Imaging for .NET API Reference](https://reference.aspose.com/imaging/net/)
+- [Download Aspose.Imaging for .NET](https://releases.aspose.com/imaging/net/)
 - [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging)
 - [Free Support](https://forum.aspose.com/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
@@ -100,6 +134,7 @@ Learn how to apply text rendering hints using Aspose.Imaging for .NET. Enhance i
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+{{< /blocks/products/products-backtop-button >}}
 
 ---
 

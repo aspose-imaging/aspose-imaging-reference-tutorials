@@ -1,5 +1,5 @@
 ---
-title: How to Draw Text on Image with Aspose.Imaging for .NET
+title: How to Draw Text on Image Using Aspose.Imaging GraphicsPath API for .NET
 linktitle: Draw Using GraphicsPath – draw text on image, shapes and patterns
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to draw text on image, draw shapes on image and fill shapes with pattern using Aspose.Imaging for .NET.
@@ -47,7 +47,7 @@ Open your project and make sure the Aspose.Imaging namespace is available:
 using Aspose.Imaging;
 ```
 
-## Step 1: Setting Up the Environment
+## Step 1: setting up the environment
 
 First we create a blank canvas that will host our drawing.
 
@@ -73,7 +73,7 @@ public static void Run()
 
 Here we configure a 500 × 500 pixel BMP with a white background, ready for drawing.
 
-## Step 2: Creating GraphicsPath, Adding Shapes and Text
+## Step 2: creating graphicsPath, adding shapes and text
 
 Now we build a `GraphicsPath` that contains both shapes **and the text we want to draw on the image**.
 
@@ -115,7 +115,7 @@ With the path ready, we outline it using a pen and then fill the interior using 
 
 The `HatchBrush` paints a vertical blue line pattern over a brown background, giving the shapes a distinctive look.
 
-## Common Use Cases
+## Common use cases
 
 | Scenario | How the code helps |
 |----------|--------------------|
@@ -123,13 +123,13 @@ The `HatchBrush` paints a vertical blue line pattern over a brown background, gi
 | **Dynamic charts** | Draw data‑driven shapes and annotate them with values using `TextShape`. |
 | **Watermarking** | Render semi‑transparent text over an existing picture and fill a background pattern for subtle branding. |
 
-## Troubleshooting & Tips
+## Troubleshooting & tips
 
 - **File paths** – Ensure `dataDir` points to a writable folder; otherwise `FileCreateSource` will throw an exception.  
 - **Color contrast** – When using patterned fills, pick foreground/background colors that provide enough contrast for readability.  
 - **Performance** – For large images, consider using `RasterImage` instead of `BmpOptions` to reduce memory consumption.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: Is Aspose.Imaging for .NET compatible with the latest .NET frameworks?**  
 A: Yes, the library is regularly updated to support .NET 6, .NET 7 and the latest .NET Framework versions.
@@ -141,10 +141,10 @@ A: Absolutely. After saving the BMP you can load it with `Image.Load` and call `
 A: Visit the official docs at [Aspose.Imaging documentation](https://reference.aspose.com/imaging/net/).
 
 **Q: Is a free trial available?**  
-A: Yes, you can download a trial version from [here](https://releases.aspose.com/).
+A: Yes, you can download a trial version from [download the trial version](https://releases.aspose.com/).
 
 **Q: How do I purchase a license for production use?**  
-A: Licenses can be bought directly from the Aspose store: [this link](https://purchase.aspose.com/buy).
+A: Licenses can be bought directly from the Aspose store: [Aspose store purchase page](https://purchase.aspose.com/buy).
 
 ## Conclusion
 
@@ -156,9 +156,10 @@ If you run into any issues or want to share your creations, feel free to join th
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< /blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/products-backtop-button >}}
+{{< /blocks/products/products-backtop-button >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
 
 ---
 
