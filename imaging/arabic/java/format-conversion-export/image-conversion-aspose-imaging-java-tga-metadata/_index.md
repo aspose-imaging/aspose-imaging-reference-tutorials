@@ -1,9 +1,54 @@
 ---
-"date": "2025-06-04"
-"description": "تعرّف على كيفية تحويل صور JPEG وPNG إلى TGA باستخدام Aspose.Imaging لجافا. استكشف تعديل البيانات الوصفية، والتطبيقات العملية، والنصائح الفنية."
-"title": "تحويل JPEG/PNG إلى TGA باستخدام دليل تحويل الصور في Java باستخدام Aspose.Imaging"
-"url": "/ar/java/format-conversion-export/image-conversion-aspose-imaging-java-tga-metadata/"
-"weight": 1
+date: '2026-06-18'
+description: تعلم كيفية تحويل png إلى tga باستخدام Aspose.Imaging for Java وإعداد
+  Aspose Imaging Maven. يتضمن تحرير البيانات الوصفية، نصائح عملية، وإرشادات الأداء.
+keywords:
+- convert png to tga
+- aspose imaging maven setup
+- java image conversion tga
+- modify tga metadata java
+- aspose imaging java tutorial
+schemas:
+- author: Aspose
+  dateModified: '2026-06-18'
+  description: Learn how to convert png to tga using Aspose.Imaging for Java and set
+    up Aspose Imaging Maven. Includes metadata editing, practical tips, and performance
+    guidance.
+  headline: convert png to tga – Aspose.Imaging Java Image Conversion Guide
+  type: TechArticle
+- description: Learn how to convert png to tga using Aspose.Imaging for Java and set
+    up Aspose Imaging Maven. Includes metadata editing, practical tips, and performance
+    guidance.
+  name: convert png to tga – Aspose.Imaging Java Image Conversion Guide
+  steps:
+  - name: Load the Image
+    text: '- **Parameters**: `inputFile` and `output` are file paths for reading and
+      writing images. - **Method Purpose**: The `save()` method converts and saves
+      your JPEG as a TGA file using default options.'
+  - name: Load the Image
+    text: '- **Method Purpose**: The `TgaImage` constructor creates an instance of
+      the TGA image, and `save()` writes it to disk.'
+  - name: Load and Modify Metadata
+    text: '- **Parameters**: The metadata fields such as `setAuthorName`, `setImageId`
+      allow you to define specific information. - **Key Configuration Options**: Adjust
+      transparency, software info, and job details for comprehensive data handling.'
+  type: HowTo
+- questions:
+  - answer: Yes, you can loop through a directory, load each PNG, and call `save`
+      with `SaveFormat.Tga` inside the same try‑with‑resources block.
+    question: Does Aspose.Imaging support batch conversion of multiple PNG files to
+      TGA?
+  - answer: While TGA uses its own header fields, Aspose.Imaging provides a unified
+      `ImageMetadata` object that lets you read and write common tags across supported
+      formats.
+    question: Can I edit EXIF metadata in TGA files with the same API?
+  - answer: Aspose.Imaging can handle multi‑hundred‑megabyte images by streaming data,
+      so you rarely hit a hard limit unless you exceed available JVM heap space.
+    question: Is there a limit to the image size I can process?
+  type: FAQPage
+title: تحويل png إلى tga – Aspose.Imaging Java دليل تحويل الصور
+url: /ar/java/format-conversion-export/image-conversion-aspose-imaging-java-tga-metadata/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,30 +58,38 @@
 {{< blocks/products/pf/tutorial-page-section >}}
 # إتقان تحويل الصور وتعديلها باستخدام Aspose.Imaging Java
 
-مرحبًا بكم في هذا الدليل الشامل حول كيفية الاستفادة من إمكانيات Aspose.Imaging Java في تحويل الصور وتعديلها. سواء كنت ترغب في تحويل صور JPEG أو PNG إلى صيغة TGA، أو تعديل البيانات الوصفية داخل ملفات TGA الحالية، فقد صُمم هذا البرنامج التعليمي ليرشدك في كل خطوة بسهولة.
+مرحبًا بكم في هذا الدليل الشامل حول كيفية استغلال قوة Aspose.Imaging Java لمهام تحويل الصور وتعديلها. سواءً كنت تبحث عن **convert png to tga** أو تعديل البيانات الوصفية داخل ملفات TGA الموجودة، تم تصميم هذا البرنامج التعليمي ليرشدك خلال كل خطوة بسهولة.
 
-### ما سوف تتعلمه
-- **تحويل الصور**:تحويل تنسيقات JPEG و PNG إلى TGA باستخدام Aspose.Imaging Java.
-- **تعديل البيانات الوصفية**:قم بتعزيز صور TGA الخاصة بك عن طريق تحرير البيانات الوصفية الأساسية مثل معلومات المؤلف والطوابع الزمنية والمزيد.
-- **التنفيذ العملي**:سيناريوهات واقعية حيث يمكن تطبيق هذه الميزات بشكل فعال.
+### ما ستتعلمه
+- **Image Conversion**: تحويل صيغ JPEG و PNG إلى TGA باستخدام Aspose.Imaging Java.
+- **Metadata Modification**: تحسين صور TGA الخاصة بك عن طريق تعديل البيانات الوصفية الأساسية مثل معلومات المؤلف، الطوابع الزمنية، وأكثر.
+- **Practical Implementation**: سيناريوهات واقعية حيث يمكن تطبيق هذه الميزات بفعالية.
 
-دعونا نغوص في الأمر!
+هيا نبدأ!
 
-## المتطلبات الأساسية
+## إجابات سريعة
+- **Can Aspose.Imaging convert PNG to TGA?** نعم، ما عليك سوى تحميل ملف PNG واستدعاء `save` مع `SaveFormat.Tga`.  
+  *SaveFormat.Tga هو قيمة تعداد تخبر Aspose.Imaging بإنتاج ملف TGA.*
+- **Do I need a license for production use?** يلزم الحصول على ترخيص كامل للميزات غير المحدودة؛ تتوفر نسخة تجريبية مجانية.
+- **Which build tool works best for setup?** Maven هو الأكثر شيوعًا، لكن Gradle مدعوم بالكامل.
+- **How many image formats does Aspose.Imaging support?** أكثر من 150 صيغة إدخال وإخراج، بما في ذلك TGA و PNG و JPEG و BMP وغيرها.
+- **Is metadata editing limited to TGA?** لا، معظم صيغ الرسوم النقطية تسمح بتعديل البيانات الوصفية عبر نفس الـ API.
+
+## المتطلبات المسبقة
 
 قبل أن نبدأ، تأكد من أن لديك ما يلي:
-- فهم أساسي لبرمجة جافا.
-- IDE أو محرر نصوص مثبت على جهازك (على سبيل المثال، IntelliJ IDEA، Eclipse).
-- تم إعداد Maven أو Gradle لإدارة التبعيات.
+- فهم أساسي لبرمجة Java.
+- بيئة تطوير متكاملة (IDE) أو محرر نصوص مثبت على جهازك (مثل IntelliJ IDEA، Eclipse).
+- إعداد Maven أو Gradle لإدارة الاعتمادات.
 
-### المكتبات والإصدارات المطلوبة
-في هذا البرنامج التعليمي، سنستخدم Aspose.Imaging لإصدار Java 25.5. تأكد من تضمينه في تبعيات مشروعك.
+### المكتبات المطلوبة والإصدارات
+في هذا البرنامج التعليمي، سنستخدم Aspose.Imaging for Java الإصدار 25.5. تأكد من تضمينه في تبعيات مشروعك.
 
 ## إعداد Aspose.Imaging لـ Java
 
 ### تثبيت Maven
 
-أضف التبعية التالية إلى ملفك `pom.xml`:
+Add the following dependency to your `pom.xml`:
 
 ```xml
 <dependency>
@@ -48,7 +101,7 @@
 
 ### إعداد Gradle
 
-فيك `build.gradle`، يشمل:
+In your `build.gradle`, include:
 
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
@@ -56,19 +109,19 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 
 ### التحميل المباشر
 
-بدلاً من ذلك، يمكنك تنزيل أحدث إصدارات Aspose.Imaging for Java من [موقع Aspose](https://releases.aspose.com/imaging/java/).
+بدلاً من ذلك، يمكنك تنزيل أحدث إصدارات Aspose.Imaging لـ Java من [موقع Aspose](https://releases.aspose.com/imaging/java/).
 
 #### الحصول على الترخيص
-للبدء بمجموعة كاملة من الميزات، فكّر في الحصول على ترخيص مؤقت أو شراء اشتراك. يمكنك البدء بتجربة النسخة التجريبية المجانية المتوفرة على [صفحة التجربة المجانية لـ Aspose](https://releases.aspose.com/imaging/java/).
+لبدء استخدام مجموعة كاملة من الميزات، فكر في الحصول على ترخيص مؤقت أو شراء اشتراك. يمكنك البدء بتجربة النسخة التجريبية المجانية المتاحة على [صفحة التجربة المجانية لـ Aspose](https://releases.aspose.com/imaging/java/).
 
 ### التهيئة الأساسية
 
-بمجرد تضمين المكتبة في مشروعك، قم باستيراد الفئات الضرورية وقم بتهيئة بيئة Aspose.Imaging على النحو التالي:
+Once the library is included in your project, import the necessary classes and initialize the Aspose.Imaging environment as follows:
 
 ```java
 import com.aspose.imaging.*;
 
-// قم بتهيئة الترخيص إذا كان لديك واحد
+// Initialize license if you have one
 License license = new License();
 license.setLicense("path_to_your_license_file");
 ```
@@ -77,7 +130,7 @@ license.setLicense("path_to_your_license_file");
 
 ### تحويل JPEG إلى TGA
 
-توضح هذه الميزة تحويل صورة JPEG إلى تنسيق TGA، وهو أمر مفيد للتطبيقات التي تتطلب بيانات صور بدون فقدان.
+توضح هذه الميزة تحويل صورة JPEG إلى صيغة TGA، وهو مفيد للتطبيقات التي تتطلب بيانات صورة غير مضغوطة.
 
 #### الخطوة 1: تحميل الصورة
 
@@ -91,17 +144,17 @@ String inputFile = "YOUR_DOCUMENT_DIRECTORY/test.jpg";
 String output = "YOUR_OUTPUT_DIRECTORY/test_.tga";
 
 try (RasterImage image = (JpegImage) Image.load(inputFile)) {
-    // الخطوة 2: حفظ الصورة بتنسيق TGA
+    // Step 2: Save the Image in TGA Format
     image.save(output, new TgaOptions());
 }
 ```
 
-- **حدود**: `inputFile` و `output` هي مسارات ملفات لقراءة وكتابة الصور.
-- **الطريقة والغرض**: ال `save()` تقوم الطريقة بتحويل ملف JPEG وحفظه كملف TGA باستخدام الخيارات الافتراضية.
+- **Parameters**: `inputFile` و `output` هما مسارات ملفات لقراءة وكتابة الصور.
+- **Method Purpose**: طريقة `save()` تقوم بتحويل وحفظ صورة JPEG كملف TGA باستخدام الخيارات الافتراضية.
 
 ### تحويل PNG إلى TGA
 
-يرشدك هذا القسم خلال عملية تحويل ملفات PNG إلى تنسيق TGA، مع الحفاظ على جودة بيانات الصورة العالية.
+هذا القسم يوجهك عبر تحويل ملفات PNG إلى صيغة TGA، مع الحفاظ على جودة البيانات العالية.
 
 #### الخطوة 1: تحميل الصورة
 
@@ -112,20 +165,20 @@ String inputFile = "YOUR_DOCUMENT_DIRECTORY/test.png";
 String output = "YOUR_OUTPUT_DIRECTORY/test2_.tga";
 
 try (RasterImage image = (RasterImage) Image.load(inputFile)) {
-    // الخطوة 2: إنشاء صورة TGA من RasterImage
+    // Step 2: Create a TGA Image from RasterImage
     try (TgaImage tgaImage = new TgaImage(image)) {
         tgaImage.save(output);
     }
 }
 ```
 
-- **الطريقة والغرض**: ال `TgaImage` يقوم المنشئ بإنشاء مثيل لصورة TGA، و `save()` يكتبها على القرص.
+- **Method Purpose**: منشئ `TgaImage` ينشئ نسخة من صورة TGA، و `save()` يكتبها إلى القرص.
 
-### تعديل وحفظ صورة TGA الموجودة
+### تعديل وحفظ صورة TGA موجودة
 
-تعرف على كيفية تعديل البيانات الوصفية في ملف TGA مثل الطوابع الزمنية وتفاصيل المؤلف والمزيد، مما يعزز ثراء بيانات صورتك.
+تعلم كيفية تعديل البيانات الوصفية في ملف TGA مثل الطوابع الزمنية، تفاصيل المؤلف، وأكثر، لتعزيز غنى بيانات صورتك.
 
-#### الخطوة 1: تحميل البيانات الوصفية وتعديلها
+#### الخطوة 1: تحميل وتعديل البيانات الوصفية
 
 ```java
 import com.aspose.imaging.Color;
@@ -135,7 +188,7 @@ String inputFile = "YOUR_DOCUMENT_DIRECTORY/test.tga";
 String output = "YOUR_OUTPUT_DIRECTORY/test3_.tga";
 
 try (TgaImage image = (TgaImage) Image.load(inputFile)) {
-    // الخطوة 2: تعيين خصائص البيانات الوصفية
+    // Step 2: Set Metadata Properties
     image.setDateTimeStamp(new Date());
     image.setAuthorName("John Smith");
     image.setAuthorComments("Comment");
@@ -150,63 +203,98 @@ try (TgaImage image = (TgaImage) Image.load(inputFile)) {
     image.setXOrigin(1000);
     image.setYOrigin(1000);
 
-    // الخطوة 3: حفظ التعديلات
+    // Step 3: Save Modifications
     image.save(output);
 }
 ```
 
-- **حدود**:حقول البيانات الوصفية مثل `setAuthorName`، `setImageId` يسمح لك بتحديد معلومات محددة.
-- **خيارات تكوين المفاتيح**:ضبط الشفافية ومعلومات البرنامج وتفاصيل الوظيفة للتعامل الشامل مع البيانات.
+- **Parameters**: حقول البيانات الوصفية مثل `setAuthorName` و `setImageId` تسمح لك بتحديد معلومات معينة.
+- **Key Configuration Options**: ضبط الشفافية، معلومات البرنامج، وتفاصيل الوظيفة لإدارة بيانات شاملة.
 
-## التطبيقات العملية
+## كيف تحول PNG إلى TGA باستخدام Aspose.Imaging Java؟
 
-1. **مشاريع التصميم الجرافيكي**:استخدم تحويل تنسيق TGA للحصول على أرشيفات صور عالية الجودة في سير عمل التصميم الجرافيكي.
-2. **التصوير الطبي**:الحفاظ على سلامة الصورة باستخدام التنسيقات الخالية من فقدان البيانات مثل TGA لأغراض التشخيص.
-3. **تطوير الألعاب**:دمج الصور المحولة في محركات الألعاب التي تدعم TGA لإدارة الأصول.
+`Image.load` هي طريقة ثابتة تقرأ ملف صورة إلى كائن Aspose.Imaging Image.  
+`image.save` يكتب كائن Image إلى ملف بالصيغ المحددة.
+
+حمّل ملف PNG الخاص بك باستخدام `Image.load("source.png")` ثم استدعِ `image.save("output.tga", SaveFormat.Tga)`. يحافظ هذا التحويل من سطر واحد على بيانات البكسل الأصلية وعمق اللون، مما يجعله مثاليًا لأصول الألعاب أو التصوير العلمي حيث يكون الإخراج غير مضغوط ضروريًا. يختار الـ API تلقائيًا المشفر TGA المناسب بناءً على خصائص الصورة المصدر.
+
+### لماذا يهم هذا التحويل؟
+
+تحويل الصورة إلى TGA يحافظ على كل بكسل دون تشوهات الضغط، وهو أمر حاسم للملمس المستخدم في خطوط أنابيب العرض في الوقت الحقيقي. بالإضافة إلى ذلك، تضمّن ملفات TGA بيانات وصفية مفيدة يمكن للعديد من أدوات الرسوم قراءةها مباشرة، مما يبسط إدارة الأصول. تدعم الصيغة أيضًا ألوان 32‑بت مع قناة ألفا، مما يوفر مرونة لتأثيرات بصرية متقدمة ويضمن التوافق مع مجموعة واسعة من محركات الألعاب وبرامج التحرير الاحترافية.
+
+## تطبيقات عملية
+
+1. **Graphic Design Projects**: استخدم تحويل صيغة TGA لأرشفة صور عالية الجودة في سير عمل التصميم الجرافيكي.
+2. **Medical Imaging**: الحفاظ على سلامة الصورة باستخدام صيغ غير مضغوطة مثل TGA لأغراض التشخيص.
+3. **Game Development**: دمج الصور المحولة في محركات الألعاب التي تدعم TGA لإدارة الأصول.
 
 ## اعتبارات الأداء
 
-- **تحسين استخدام الموارد**:تأكد من التعامل الفعال مع الذاكرة عن طريق معالجة الصور الكبيرة في أجزاء إذا لزم الأمر.
-- **إدارة ذاكرة جافا**:استخدم جمع القمامة بشكل فعال وقم بإدارة دورات حياة الكائنات داخل كتل المحاولة باستخدام الموارد لمنع التسريبات.
+- **Optimize Resource Usage**: تأكد من معالجة الذاكرة بفعالية عن طريق معالجة الصور الكبيرة على دفعات إذا لزم الأمر.
+- **Java Memory Management**: استخدم جمع القمامة بفعالية وأدر دورات حياة الكائنات داخل كتل try‑with‑resources لمنع التسريبات.
 
-## خاتمة
+## الخلاصة
 
-خلال هذا البرنامج التعليمي، استكشفت كيفية تحويل ملفات JPEG وPNG إلى صيغة TGA باستخدام Aspose.Imaging Java، وتعديل البيانات الوصفية داخل صور TGA الحالية. هذه المهارات تُحسّن مشاريعك بشكل ملحوظ من خلال ضمان معالجة صور عالية الجودة.
+خلال هذا البرنامج التعليمي، استكشفت كيفية **convert png to tga** وملفات JPEG إلى صيغة TGA باستخدام Aspose.Imaging Java وتعديل البيانات الوصفية داخل صور TGA الموجودة. يمكن لهذه المهارات تحسين مشاريعك بشكل كبير من خلال ضمان معالجة صور عالية الجودة.
 
 ### الخطوات التالية
-- استكشف ميزات Aspose.Imaging الإضافية مثل تغيير الحجم والقص والتصفية.
-- قم بتجربة تنسيقات الصور المختلفة التي يدعمها Aspose.Imaging لتطبيقات متنوعة.
+- استكشف ميزات Aspose.Imaging الإضافية مثل تغيير الحجم، الاقتصاص، والتصفية.
+- جرّب صيغ صور مختلفة مدعومة من Aspose.Imaging لتطبيقات متنوعة.
 
-## قسم الأسئلة الشائعة
+## قسم الأسئلة المتكررة
 
-1. **ما هو أفضل تنسيق للصورة للحصول على جودة بدون فقدان؟**
-   - يُعد TGA خيارًا رائعًا للحفاظ على جودة الصورة دون حدوث أي مشاكل في الضغط.
+1. **What is the best image format for lossless quality?**  
+   - TGA هو خيار ممتاز للحفاظ على جودة الصورة دون تشوهات الضغط.
 
-2. **كيف أتعامل مع الصور الكبيرة في جافا؟**
-   - استخدم تقنيات إدارة الذاكرة الفعالة وفكر في معالجة الصور في أجزاء أصغر.
+2. **How do I handle large images in Java?**  
+   - استخدم تقنيات إدارة الذاكرة الفعالة وفكّر في معالجة الصور على أجزاء أصغر.
 
-3. **هل يمكن لـ Aspose.Imaging تحويل صيغ أخرى غير JPEG و PNG إلى TGA؟**
-   - نعم، فهو يدعم مجموعة واسعة من التنسيقات؛ راجع الوثائق للحصول على مزيد من التفاصيل.
+3. **Can Aspose.Imaging convert other formats besides JPEG and PNG to TGA?**  
+   - نعم، يدعم مجموعة واسعة من الصيغ؛ راجع الوثائق لمزيد من التفاصيل.
 
-4. **ما هي بعض المشاكل الشائعة مع تحويل الصور؟**
-   - تأكد من مسارات الملفات الصحيحة والتعامل مع الاستثناءات أثناء عمليات التحميل/الحفظ.
+4. **What are some common issues with image conversion?**  
+   - تأكد من صحة مسارات الملفات وتعامل مع الاستثناءات أثناء عمليات التحميل/الحفظ.
 
-5. **كيف يمكنني الحصول على ترخيص لـ Aspose.Imaging Java؟**
-   - يزور [صفحة شراء Aspose](https://purchase.aspose.com/buy) لاستكشاف خيارات الترخيص.
+5. **How do I acquire a license for Aspose.Imaging Java?**  
+   - زر [صفحة شراء Aspose](https://purchase.aspose.com/buy) لاستكشاف خيارات الترخيص.
 
-## موارد
+## أسئلة شائعة إضافية
 
-- **التوثيق**:استكشف المزيد في [توثيق Aspose.Imaging](https://reference.aspose.com/imaging/java/).
-- **تحميل**:احصل على أحدث الإصدارات من [صفحة إصدار Aspose](https://releases.aspose.com/imaging/java/).
-- **الشراء والتجربة المجانية**:جرب الميزات اليوم في [صفحة الشراء والتجربة المجانية لـ Aspose](https://purchase.aspose.com/buy).
-- **يدعم**:انضم إلى المناقشات على [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14).
+**Q: Does Aspose.Imaging support batch conversion of multiple PNG files to TGA?**  
+A: نعم، يمكنك التكرار عبر دليل، تحميل كل PNG، واستدعاء `save` مع `SaveFormat.Tga` داخل نفس كتلة try‑with‑resources.
 
-نأمل أن يُمكّنك هذا الدليل من استخدام Aspose.Imaging Java بفعالية لتلبية احتياجاتك في معالجة الصور. برمجة ممتعة!
+**Q: Can I edit EXIF metadata in TGA files with the same API?**  
+A: بالرغم من أن TGA يستخدم حقول رأس خاصة به، يوفر Aspose.Imaging كائن `ImageMetadata` موحد يتيح لك قراءة وكتابة العلامات الشائعة عبر الصيغ المدعومة.
+
+**Q: Is there a limit to the image size I can process?**  
+A: يمكن لـ Aspose.Imaging معالجة صور بحجم مئات الميجابايت عبر تدفق البيانات، لذا نادراً ما تواجه حدًا ثابتًا ما لم تتجاوز مساحة الذاكرة المتاحة في JVM.
+
+## الموارد
+
+- **Documentation**: استكشف المزيد على [Aspose.Imaging Documentation](https://reference.aspose.com/imaging/java/).
+- **Download**: احصل على أحدث الإصدارات من [Aspose Releasing Page](https://releases.aspose.com/imaging/java/).
+- **Purchase and Free Trial**: جرّب الميزات اليوم على [Aspose's Purchase and Free Trial Page](https://purchase.aspose.com/buy).
+- **Support**: انضم إلى المناقشات على [Aspose Forum](https://forum.aspose.com/c/imaging/14).
+
+نأمل أن يزودك هذا الدليل بالقدرة على استخدام Aspose.Imaging Java بفعالية لاحتياجات معالجة الصور الخاصة بك. برمجة سعيدة!
+
+---
+
+**آخر تحديث:** 2026-06-18  
+**تم الاختبار مع:** Aspose.Imaging for Java 25.5  
+**المؤلف:** Aspose  
+
+{{< blocks/products/products-backtop-button >}}
+
+## دروس ذات صلة
+
+- [تحويل الصور بكفاءة في Java باستخدام Aspose.Imaging: دليل شامل](/imaging/java/format-conversion-export/mastering-image-conversion-aspose-imaging-java/)
+- [تحويل PNG إلى PDF في Java باستخدام Aspose.Imaging: دليل شامل](/imaging/java/format-conversion-export/convert-png-to-pdf-aspose-imaging-java/)
+- [معالجة صور PNG بكفاءة مع Aspose.Imaging لـ Java - دليل خطوة بخطوة](/imaging/java/format-specific-operations/aspose-imaging-java-png-processing-guide/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

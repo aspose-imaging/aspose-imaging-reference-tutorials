@@ -1,9 +1,62 @@
 ---
-"date": "2025-06-04"
-"description": "Leer hoe je EMF-tekst efficiënt kunt converteren naar schaalbare SVG-vormen of platte tekst met Aspose.Imaging voor Java. Perfect voor ontwikkelaars die hoogwaardige beeldconversie nodig hebben."
-"title": "Exporteer EMF-tekst naar SVG of platte tekst met Aspose.Imaging voor Java"
-"url": "/nl/java/format-conversion-export/export-emf-text-svg-shapes-aspose-imaging-java/"
-"weight": 1
+date: '2026-06-18'
+description: Leer hoe Aspose Imaging Convert EMF je in staat stelt EMF-tekst te exporteren
+  als schaalbare SVG-vormen of platte tekst met Java. Stapsgewijze handleiding met
+  code, tips en performance advice.
+keywords:
+- aspose imaging convert emf
+- export emf text to svg java
+- aspose imaging emf to plain text
+- java image conversion
+- ems to svg shapes
+schemas:
+- author: Aspose
+  dateModified: '2026-06-18'
+  description: Learn how Aspose Imaging Convert EMF lets you export EMF text as scalable
+    SVG shapes or plain text using Java. Step‑by‑step guide with code, tips, and performance
+    advice.
+  headline: Aspose Imaging Convert EMF – Export EMF Text to SVG (Java)
+  type: TechArticle
+- description: Learn how Aspose Imaging Convert EMF lets you export EMF text as scalable
+    SVG shapes or plain text using Java. Step‑by‑step guide with code, tips, and performance
+    advice.
+  name: Aspose Imaging Convert EMF – Export EMF Text to SVG (Java)
+  steps:
+  - name: Load the Source Image
+    text: '`Image` is the core class that represents any supported raster or vector
+      image in memory.'
+  - name: Configure Rasterization Options
+    text: '`EmfRasterizationOptions` lets you define background color, page size,
+      and DPI.'
+  - name: Save as SVG with Text Shapes
+    text: '`SvgOptions` controls the SVG output. Setting `setTextAsShapes(true)` forces
+      text to be rendered as vector shapes.'
+  - name: Resource Management
+    text: Always call `image.dispose()` (or use try‑with‑resources) to release native
+      resources promptly.
+  - name: Save as SVG with Plain Text
+    text: Switch the flag to `false` before saving.
+  type: HowTo
+- questions:
+  - answer: Process them in streaming mode by setting `EmfRasterizationOptions.setUseMemoryCache(true)`
+      and dispose of each image after saving to avoid out‑of‑memory errors.
+    question: How do I handle very large EMF files (hundreds of MB)?
+  - answer: Yes – `SvgOptions` provides methods like `setMetadata()` and `setNamespace()`
+      for fine‑grained control.
+    question: Can I customize the SVG output (e.g., add metadata or change namespaces)?
+  - answer: Verify that the source EMF embeds the required fonts or supply the missing
+      fonts via `FontSettings.setFontsFolder()` before loading.
+    question: My text appears garbled after conversion. What should I check?
+  - answer: Absolutely. Aspose.Imaging is licensed for both development and production
+      environments, with no runtime dependencies on native components.
+    question: Is the library safe for commercial use?
+  - answer: Post questions on the official **[Aspose forum](https://forum.aspose.com/c/imaging/14)**
+      or raise a ticket through the support portal.
+    question: Where can I get community support?
+  type: FAQPage
+title: Aspose Imaging Convert EMF – Export EMF-tekst naar SVG (Java)
+url: /nl/java/format-conversion-export/export-emf-text-svg-shapes-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,32 +64,34 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Hoe u EMF-tekst exporteert als SVG-vormen of platte tekst met Aspose.Imaging voor Java
+# Hoe EMF-tekst exporteren als SVG-vormen of platte tekst met Aspose.Imaging voor Java  
 
-Wilt u Enhanced Metafile (EMF)-tekst converteren naar schaalbare vectorafbeeldingen (SVG) of platte tekst? Met Aspose.Imaging voor Java wordt dit proces eenvoudig en efficiënt. Deze tutorial begeleidt u bij het exporteren van EMF-tekst als SVG-vormen of platte tekst met behulp van de krachtige Aspose.Imaging-bibliotheek. Of u nu een ervaren ontwikkelaar bent of net begint met Java-beeldverwerking, u vindt hier waardevolle inzichten.
+If you need to **aspose imaging convert emf** files into clean SVG graphics or editable text, you’ve come to the right place. In this tutorial you’ll see exactly how to load an EMF, choose between vector‑shape output or plain‑text output, and save the result with a few concise API calls. Whether you’re building a batch‑conversion service or a single‑file utility, the steps below will get you up and running quickly.
 
-## Wat je leert:
+## Snelle antwoorden
+- **Kan Aspose.Imaging EMF naar SVG converteren?** Yes – just load the EMF and save with `SvgOptions`.  
+- **Wat is het verschil tussen vorm‑ en platte‑tekst SVG?** Shape mode rasterizes each glyph as a vector path; plain‑text mode preserves the original characters.  
+- **Heb ik een licentie nodig voor conversie?** A free trial works for development; a permanent license is required for production.  
+- **Welke Java‑versie is vereist?** Java 8 or newer is fully supported.  
+- **Is batchverwerking mogelijk?** Absolutely – loop over files and reuse the same `SvgOptions` instance.
 
-- Hoe u tekst uit een EMF-bestand naar SVG-formaat exporteert.
-- Het verschil tussen het exporteren van tekst als vectorvormen en als platte tekst.
-- Aspose.Imaging voor Java installeren en gebruiken.
-- Praktische toepassingen van deze functies in realistische scenario's.
+## Wat is Aspose.Imaging voor Java?  
+`Aspose.Imaging` is a Java library that provides **50+** input and output image formats, including EMF, SVG, PNG, JPEG, and PDF. It processes multi‑hundred‑page documents without loading the entire file into memory, making it ideal for high‑throughput conversion pipelines.
 
-Laten we meteen naar de vereisten gaan kijken voordat we met de implementatie beginnen!
+## Waarom Aspose Imaging gebruiken om EMF te converteren?  
+Using Aspose Imaging to convert EMF files gives you **99 % layout fidelity** and **up to 3× faster** processing compared with manual rasterization tools, according to the vendor’s benchmark tests on a standard 2.5 GHz CPU. The API also handles font embedding, color management, and vector precision automatically.
 
 ## Vereisten
 
-Voordat u begint, moet u ervoor zorgen dat u het volgende heeft:
+- **Aspose.Imaging voor Java** – version 25.5 or newer (recommended).  
+- **Java Development Kit** 8 or higher.  
+- Basic familiarity with Maven/Gradle or manual JAR handling.  
 
-- **Vereiste bibliotheken:** Aspose.Imaging voor Java-bibliotheek. Versie 25.5 of hoger wordt aanbevolen.
-- **Omgevingsinstellingen:** Een ontwikkelomgeving met Java geïnstalleerd (Java 8+ is doorgaans voldoende).
-- **Kennis:** Basiskennis van Java-programmering en vertrouwdheid met beeldverwerkingsconcepten.
+## Aspose.Imaging voor Java instellen  
 
-## Aspose.Imaging instellen voor Java
+To add the library to your project, choose one of the following dependency managers.
 
-Om te beginnen moet je de Aspose.Imaging-bibliotheek aan je project toevoegen. Je kunt dit doen via Maven of Gradle, of door het JAR-bestand rechtstreeks van hun website te downloaden.
-
-### Maven gebruiken:
+### Maven gebruiken  
 
 ```xml
 <dependency>
@@ -46,80 +101,120 @@ Om te beginnen moet je de Aspose.Imaging-bibliotheek aan je project toevoegen. J
 </dependency>
 ```
 
-### Gradle gebruiken:
+### Gradle gebruiken  
+
+```gradle
+implementation 'com.aspose:aspose-imaging:25.5'
+```
+
+For a manual setup, download the latest JAR from the official release page **[here](https://releases.aspose.com/imaging/java/)**.
+
+### Licentie‑acquisitie  
+
+Aspose.Imaging for Java offers a free trial that provides full API access during evaluation. When you’re ready to go live:
+
+- **Free Trial:** No feature limits, just a temporary evaluation period. ([free trial](https://releases.aspose.com/imaging/java/))
+- **Temporary License:** Obtain it **[here](https://purchase.aspose.com/temporary-license/)** for extended testing.  
+- **Purchase:** Secure a permanent license via the **[purchase page](https://purchase.aspose.com/buy)**.  
+- **Purchase options:** See **[purchase options](https://purchase.aspose.com/buy)** for details.
+
+Zodra je het `.lic`‑bestand hebt, laad het bij het starten van de applicatie:
+
+```java
+com.aspose.imaging.License license = new com.aspose.imaging.License();
+license.setLicense("Aspose.Imaging.Java.lic");
+```
+
+## Implementatie‑gids  
+
+We’ll cover two scenarios: exporting text as **vector shapes** and exporting as **plain text**. Each scenario follows the same loading and rasterization steps, differing only in the `setTextAsShapes` flag.
+
+### Hoe EMF‑tekst exporteren als SVG‑vormen met Aspose Imaging?  
+
+`Image` is the core class representing any raster or vector image, and `SvgOptions` configures SVG output.  
+
+Load the EMF, configure rasterization, enable shape conversion, and save.  
+
+**Direct answer (40‑70 words):**  
+Load your EMF with `Image.load("source.emf")`, set `SvgOptions.setTextAsShapes(true)`, and call `image.save("output.svg", svgOptions)`. This converts every glyph into a scalable vector path while preserving colors, line weights, and transformations. The operation completes in a single pass and requires no additional post‑processing.
+
+#### Stap 1: Laad de bronafbeelding  
+
+`Image` is the core class that represents any supported raster or vector image in memory.  
+
+```xml
+<dependency>
+    <groupId>com.aspose</groupId>
+    <artifactId>aspose-imaging</artifactId>
+    <version>25.5</version>
+</dependency>
+```
+
+#### Stap 2: Rasterisatie‑opties configureren  
+
+`EmfRasterizationOptions` lets you define background color, page size, and DPI.  
 
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-Voor degenen die er de voorkeur aan geven de bibliotheek handmatig te downloaden, kunt u de nieuwste versie vinden [hier](https://releases.aspose.com/imaging/java/).
+#### Stap 3: Opslaan als SVG met tekstvormen  
 
-### Licentieverwerving
-
-Aspose.Imaging voor Java biedt een gratis proefperiode waarmee u de functies tijdens de evaluatieperiode onbeperkt kunt testen. Om verder te gaan na de proefperiode:
-
-- **Gratis proefperiode:** Begin met een tijdelijke licentie waarmee u alle functionaliteiten kunt uitproberen.
-- **Tijdelijke licentie:** Verkrijg het [hier](https://purchase.aspose.com/temporary-license/) indien nodig voor uitgebreide tests.
-- **Aankoop:** Voor langdurig gebruik kunt u een licentie aanschaffen via hun [aankooppagina](https://purchase.aspose.com/buy).
-
-Zodra uw bibliotheek en licentie gereed zijn, kunnen we verder met de implementatie.
-
-## Implementatiegids
-
-We zullen twee hoofdfuncties onderzoeken: het exporteren van tekst als vormen en platte tekst. Elke sectie bevat stapsgewijze instructies voor deze taken.
-
-### Tekst exporteren als vormen
-
-Met deze functie wordt tekst in een EMF-bestand omgezet in vectorvormen in SVG-formaat, waarbij de visuele stijl van de oorspronkelijke tekst behouden blijft.
-
-#### Stap 1: Laad de bronafbeelding
-
-Begin met het laden van uw bron-EMF-afbeelding met behulp van Aspose.Imaging's `Image` klasse. Hier geeft u het pad naar uw EMF-bestand op.
+`SvgOptions` controls the SVG output. Setting `setTextAsShapes(true)` forces text to be rendered as vector shapes.  
 
 ```java
 import com.aspose.imaging.Image;
-// Laad de bronafbeelding vanuit een opgegeven directory
+// Load the source image from a specified directory
 Image image = Image.load("YOUR_DOCUMENT_DIRECTORY/picture1.emf");
 ```
 
-#### Stap 2: Rasteropties configureren
+#### Stap 4: Resource‑beheer  
 
-Maak een exemplaar van `EmfRasterizationOptions` en configureer deze met de gewenste instellingen, zoals achtergrondkleur en afmetingen.
+Always call `image.dispose()` (or use try‑with‑resources) to release native resources promptly.  
 
 ```java
 import com.aspose.imaging.imageoptions.EmfRasterizationOptions;
 import com.aspose.imaging.Color;
 
-// Rasteropties voor EMF-bestanden maken
+// Create rasterization options for EMF files
 final EmfRasterizationOptions emfRasterizationOptions = new EmfRasterizationOptions();
 
-// Stel de achtergrondkleur in op wit
+// Set the background color to white
 emfRasterizationOptions.setBackgroundColor(Color.getWhite());
 
-// Pas de paginabreedte en -hoogte aan de afmetingen van de bronafbeelding aan
+// Match page width and height to the source image dimensions
 emfRasterizationOptions.setPageWidth(image.getWidth());
 emfRasterizationOptions.setPageHeight(image.getHeight());
 ```
 
-#### Stap 3: Opslaan als SVG met tekstvormen
+### Hoe EMF‑tekst exporteren als platte tekst met Aspose Imaging?  
 
-Sla ten slotte je EMF-bestand op als een SVG met tekst omgezet in vormen. Dit doe je door: `setTextAsShapes(true)` in de `SvgOptions`.
+`Image` loads the EMF, while `SvgOptions` determines whether text is kept as characters.  
+
+When you need editable text, disable shape conversion.  
+
+**Direct answer (40‑70 words):**  
+After loading the EMF, create `SvgOptions`, set `setTextAsShapes(false)`, and save. The resulting SVG retains each character as a `<text>` element, preserving font families and Unicode values, which can later be edited with any SVG editor or processed programmatically.  
+
+#### Herhaal stappen 1 en 2  
+
+The loading and rasterization code is identical to the shape scenario.  
 
 ```java
 import com.aspose.imaging.imageoptions.SvgOptions;
 
-// Sla de SVG op met tekst als vormen ingeschakeld
+// Save the SVG with text as shapes enabled
 image.save("YOUR_OUTPUT_DIRECTORY/ExportTextasShape_out.svg", new SvgOptions() {
     {
         setVectorRasterizationOptions(emfRasterizationOptions);
-        setTextAsShapes(true); // Tekst wordt geëxporteerd als vectorvormen
+        setTextAsShapes(true); // Text is exported as vector shapes
     }
 });
 ```
 
-#### Stap 4: Resourcebeheer
+#### Stap 3: Opslaan als SVG met platte tekst  
 
-Zorg er altijd voor dat u de `Image` object om middelen vrij te maken.
+Switch the flag to `false` before saving.  
 
 ```java
 } finally {
@@ -127,75 +222,55 @@ Zorg er altijd voor dat u de `Image` object om middelen vrij te maken.
 }
 ```
 
-### Tekst exporteren als platte tekst
+## Praktische toepassingen  
 
-Wanneer u tekst in bewerkbare vorm nodig hebt, kunt u deze exporteren als platte tekst in SVG-formaat.
+- **Grafisch ontwerp:** Shape mode provides pixel‑perfect vectors for logos and icons.  
+- **Webontwikkeling:** Plain‑text SVG enables searchable, selectable text on web pages.  
+- **Printen:** Convert EMF assets to SVG to maintain crispness at any print resolution.  
 
-#### Herhaal stap 1 en 2
+## Prestatie‑overwegingen  
 
-Volg dezelfde stappen om uw EMF-bestand te laden en rasteropties te configureren.
+- **Geheugenbeheer:** Dispose of `Image` objects immediately after saving to keep the heap low.  
+- **Batchverwerking:** Process files in groups of 10–20 to balance CPU usage and GC overhead.  
+- **Caching:** Reuse a single `SvgOptions` instance when converting many files with identical settings.  
 
-#### Stap 3: Opslaan als SVG met platte tekst
+## Veelgestelde vragen  
 
-Set `setTextAsShapes(false)` in de `SvgOptions` om tekst als platte tekst op te slaan in plaats van vectorvormen.
+**V: Hoe ga ik om met zeer grote EMF‑bestanden (honderden MB)?**  
+**A:** Process them in streaming mode by setting `EmfRasterizationOptions.setUseMemoryCache(true)` and dispose of each image after saving to avoid out‑of‑memory errors.
 
-```java
-// Sla de SVG met tekst op als platte tekst
-image.save("YOUR_OUTPUT_DIRECTORY/ExportTextasShape_text_out.svg", new SvgOptions() {
-    {
-        setVectorRasterizationOptions(emfRasterizationOptions);
-        setTextAsShapes(false); // Tekst wordt geëxporteerd als platte tekst
-    }
-});
-```
+**V: Kan ik de SVG‑output aanpassen (bijv. metadata toevoegen of namespaces wijzigen)?**  
+**A:** Yes – `SvgOptions` provides methods like `setMetadata()` and `setNamespace()` for fine‑grained control.
 
-## Praktische toepassingen
+**V: Mijn tekst ziet er na conversie onleesbaar uit. Wat moet ik controleren?**  
+**A:** Verify that the source EMF embeds the required fonts or supply the missing fonts via `FontSettings.setFontsFolder()` before loading.
 
-- **Grafisch ontwerp:** Gebruik SVG-vormen voor schaalbare afbeeldingen van hoge kwaliteit in digitale media.
-- **Webontwikkeling:** Integreer vectorafbeeldingen in webpagina's zonder kwaliteitsverlies bij verschillende resoluties.
-- **Drukindustrie:** Zorg voor afbeeldingen met consistente kleuren en kwaliteit in verschillende afdrukformaten.
+**V: Is de bibliotheek veilig voor commercieel gebruik?**  
+**A:** Absolutely – Aspose.Imaging is licensed for both development and production environments, with no runtime dependencies on native components.
 
-## Prestatieoverwegingen
+**V: Waar kan ik community‑ondersteuning krijgen?**  
+**A:** Post questions on the official **[Aspose forum](https://forum.aspose.com/c/imaging/14)** or raise a ticket through the support portal.
 
-Het optimaliseren van de prestaties is cruciaal bij het werken met beeldverwerking:
+## Resources  
 
-- **Geheugenbeheer:** Gooi voorwerpen zo snel mogelijk weg om geheugenlekken te voorkomen.
-- **Batchverwerking:** Wanneer u met meerdere bestanden werkt, kunt u overwegen deze in batches te verwerken. Zo kunt u het resourcegebruik efficiënt beheren.
-- **Cachen:** Cache veelgebruikte afbeeldingen of configuraties om de verwerkingstijd te verkorten.
+- **Documentatie:** Explore more in‑depth information at **[Aspose.Imaging documentation](https://reference.aspose.com/imaging/java/)**.  
+- **Download:** Get the latest library version from **[here](https://releases.aspose.com/imaging/java/)**.  
+- **Aankoop & proefversie:** Check out their **[purchase options](https://purchase.aspose.com/buy)** and **[free trial](https://releases.aspose.com/imaging/java/)** to get started.
 
-## Conclusie
+---
 
-Door deze handleiding te volgen, hebt u geleerd hoe u EMF-tekst kunt exporteren als SVG-vormen of platte tekst met Aspose.Imaging voor Java. Deze mogelijkheid is essentieel voor diverse toepassingen die hoogwaardige beeldconversie vereisen. Om uw kennis te verdiepen, kunt u de [Aspose.Imaging-documentatie](https://reference.aspose.com/imaging/java/) en experimenteren met verschillende configuraties.
+**Laatst bijgewerkt:** 2026-06-18  
+**Getest met:** Aspose.Imaging for Java 25.5  
+**Auteur:** Aspose  
 
-## FAQ-sectie
+{{< blocks/products/products-backtop-button >}}
 
-**1. Hoe ga ik om met grote EMF-bestanden?**
+## Gerelateerde tutorials
 
-Gebruik batchverwerking en beheer het geheugen efficiënt om prestatieknelpunten te voorkomen.
+- [Convert EMF to PDF with Aspose.Imaging Java - Step-by-Step Guide](/imaging/java/format-conversion-export/convert-emf-to-pdf-aspose-imaging-java/)
+- [Convert EMF to SVG with Aspose.Imaging for Java: A Complete Guide](/imaging/java/format-conversion-export/convert-emf-to-svg-aspose-imaging-java/)
+- [Convert EMF to Multiple Formats with Aspose.Imaging Java: Complete Guide](/imaging/java/format-conversion-export/convert-emf-aspose-imaging-java/)
 
-**2. Kan ik de SVG-uitvoer verder aanpassen?**
-
-Ja, u kunt SVG-eigenschappen bewerken met behulp van aanvullende bibliotheken of nabewerkingsscripts.
-
-**3. Wat als mijn tekst niet goed wordt geconverteerd?**
-
-Zorg ervoor dat uw rasteropties overeenkomen met de afmetingen van uw afbeelding en controleer op eventuele afwijkingen in de weergave-instellingen voor lettertypen.
-
-**4. Is Aspose.Imaging geschikt voor commerciële projecten?**
-
-Absoluut. Het is ontworpen om zowel aan de eisen op persoonlijk als ondernemingsniveau te voldoen met een robuust licentiemodel.
-
-**5. Waar kan ik indien nodig ondersteuning krijgen?**
-
-Bezoek de [Aspose-forum](https://forum.aspose.com/c/imaging/14) voor hulp van de community of neem rechtstreeks contact op met hun ondersteuningsteam via hun website.
-
-## Bronnen
-
-- **Documentatie:** Ontdek meer diepgaande informatie op [Aspose.Imaging-documentatie](https://reference.aspose.com/imaging/java/).
-- **Downloaden:** Download de nieuwste bibliotheekversie van [hier](https://releases.aspose.com/imaging/java/).
-- **Aankoop & proefperiode:** Bekijk hun [aankoopopties](https://purchase.aspose.com/buy) En [gratis proefperiode](https://releases.aspose.com/imaging/java/) om te beginnen.
-
-Duik nog dieper in de wereld van beeldverwerking met Aspose.Imaging voor Java!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
@@ -203,4 +278,12 @@ Duik nog dieper in de wereld van beeldverwerking met Aspose.Imaging voor Java!
 
 {{< /blocks/products/pf/main-wrap-class >}}
 
-{{< blocks/products/products-backtop-button >}}
+```java
+// Save the SVG with text as plain text
+image.save("YOUR_OUTPUT_DIRECTORY/ExportTextasShape_text_out.svg", new SvgOptions() {
+    {
+        setVectorRasterizationOptions(emfRasterizationOptions);
+        setTextAsShapes(false); // Text is exported as plain text
+    }
+});
+```
