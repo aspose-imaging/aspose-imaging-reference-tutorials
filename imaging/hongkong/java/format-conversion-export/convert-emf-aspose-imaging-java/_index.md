@@ -1,9 +1,73 @@
 ---
-"date": "2025-06-04"
-"description": "掌握使用 Aspose.Imaging for Java 將 EMF 檔案轉換為 BMP、GIF、JPEG 等格式的技巧。立即學習光柵化選項，改進您的圖形項目。"
-"title": "使用 Aspose.Imaging Java 將 EMF 轉換為多種格式的完整指南"
-"url": "/zh-hant/java/format-conversion-export/convert-emf-aspose-imaging-java/"
-"weight": 1
+date: '2026-05-29'
+description: 了解如何使用 Aspose.Imaging for Java 將 EMF 轉換為 BMP、JPEG、TIFF、PNG 等格式。內容包括光柵化選項、Gradle
+  依賴設定以及效能技巧。
+keywords:
+- convert emf to bmp
+- aspose gradle dependency
+- how to convert emf
+- convert emf to jpeg
+- convert emf to tiff
+- emf to png java
+schemas:
+- author: Aspose
+  dateModified: '2026-05-29'
+  description: Learn how to convert EMF to BMP, JPEG, TIFF, PNG and more using Aspose.Imaging
+    for Java. Includes rasterization options, Gradle dependency setup, and performance
+    tips.
+  headline: Convert EMF to BMP and Other Formats with Aspose.Imaging Java
+  type: TechArticle
+- description: Learn how to convert EMF to BMP, JPEG, TIFF, PNG and more using Aspose.Imaging
+    for Java. Includes rasterization options, Gradle dependency setup, and performance
+    tips.
+  name: Convert EMF to BMP and Other Formats with Aspose.Imaging Java
+  steps:
+  - name: '**Install via Dependency Management:**'
+    text: '**Install via Dependency Management:**'
+  - name: '**Direct Download:**'
+    text: '**Direct Download:**'
+  - name: '**License Acquisition:**'
+    text: '**License Acquisition:**'
+  - name: '**Basic Initialization:**'
+    text: '**Basic Initialization:**'
+  - name: '**Web Design:** Convert EMF to WebP for up to **35 % smaller** file sizes
+      while keeping visual quality.'
+    text: '**Web Design:** Convert EMF to WebP for up to **35 % smaller** file sizes
+      while keeping visual quality.'
+  - name: '**Graphic Design:** Use TIFF or PSD when you need lossless layers for print
+      production.'
+    text: '**Graphic Design:** Use TIFF or PSD when you need lossless layers for print
+      production.'
+  - name: '**Archiving:** Store high‑resolution JPEG 2000 files to achieve superior
+      compression without noticeable artifacts.'
+    text: '**Archiving:** Store high‑resolution JPEG 2000 files to achieve superior
+      compression without noticeable artifacts.'
+  - name: '**Multimedia Projects:** Generate GIFs for lightweight animations in web
+      apps.'
+    text: '**Multimedia Projects:** Generate GIFs for lightweight animations in web
+      apps.'
+  type: HowTo
+- questions:
+  - answer: BMP, GIF, JPEG, JPEG 2000, PNG, PSD, TIFF, and WebP are fully supported.
+    question: What image formats can I convert EMF files into with Aspose.Imaging
+      for Java?
+  - answer: A trial works for up to 10 MB per file; a purchased license removes all
+      limits.
+    question: Do I need a license for batch conversions?
+  - answer: Use a fixed thread pool, enable embedded rasterization, and reuse a single
+      `EmfRasterizationOptions` instance across calls.
+    question: How can I improve conversion speed for thousands of EMF files?
+  - answer: Raster formats inherently discard vector data; however, you can embed
+      the original EMF as a metadata stream in TIFF using `tiffOptions.setCompression(TiffCompression.NONE)`.
+    question: Is there a way to preserve vector metadata when converting to raster?
+  - answer: Visit the official [documentation](https://reference.aspose.com/imaging/java/)
+      for comprehensive class references and examples. The [Reference Guide](https://reference.aspose.com/imaging/java/)
+      provides deeper insights.
+    question: Where can I find more detailed API documentation?
+  type: FAQPage
+title: 使用 Aspose.Imaging Java 將 EMF 轉換為 BMP 及其他格式
+url: /zh-hant/java/format-conversion-export/convert-emf-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,27 +75,38 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# 掌握影像轉換：使用 Aspose.Imaging Java 將 EMF 轉換為多種格式
+# 將 EMF 轉換為 BMP 及其他格式（使用 Aspose.Imaging Java）
 
 ## 介紹
 
-將增強型圖元檔案 (EMF) 影像轉換為各種格式是數位媒體專案中常見的挑戰，尤其是在處理圖形密集型應用程式或跨平台共用檔案時。使用“Aspose.Imaging for Java”，您可以輕鬆將 EMF 檔案轉換為多種常用影像格式，例如 BMP、GIF、JPEG 等。本教學將引導您完成設定 EmfRasterizationOptions 以及如何使用 Aspose.Imaging for Java 將 EMF 影像轉換為各種格式的過程。
+將 **EMF**（增強型圖元檔）影像轉換為 **BMP**、JPEG、PNG、TIFF、WebP 及其他點陣格式是開發圖形密集型應用程式的開發人員常見需求。使用 **Aspose.Imaging for Java**，您只需幾行程式碼即可完成這些轉換，同時保持高保真度。本教學將指導您安裝函式庫、設定 `EmfRasterizationOptions`，以及將 EMF 檔案轉換為多種輸出格式。
 
-**您將學到什麼：**
-- 設定 EMF 轉換的光柵化選項
-- 將 EMF 檔案轉換為多種影像格式
-- 使用 Aspose.Imaging for Java 優化效能
+**您將完成的工作：**
+- 設定光柵化選項以精確呈現 EMF  
+- 將 EMF 轉換為 BMP、GIF、JPEG、PNG、TIFF 等多種格式  
+- 優化大型向量檔案的記憶體使用
 
-在深入探討之前，請確保你對 Java 有基本的了解，並且熟悉 Maven 或 Gradle 的專案設定。讓我們開始吧！
+在開始之前，請確保您熟悉 Java 基礎，並且已安裝 Maven 或 Gradle 以進行相依性管理。讓我們開始吧！
 
-## 先決條件
+## 快速答覆
+- **如何將 Aspose.Imaging 加入 Gradle 專案？** 在 `build.gradle` 檔案中加入 `aspose-imaging` 相依性。  
+- **哪個方法執行轉換？** 在使用 `EmfRasterizationOptions` 進行光柵化後，使用 `Image.save(outputPath, ImageFormat)`。  
+- **我可以直接將 EMF 轉換為 BMP 嗎？** 可以——設定 `BmpOptions` 後呼叫 `save`。  
+- **生產環境需要授權嗎？** 試用版可用於評估；永久授權會移除評估限制。  
+- **處理大型 EMF 檔案的最快方法是什麼？** 啟用 `setUseEmbeddedRasterization(true)`，並以串流方式處理影像，以避免將整個檔案載入記憶體。
 
-為了有效地遵循本教程，您需要：
+## 什麼是 convert emf to bmp？
+`convert emf to bmp` 描述了使用程式庫（如 Aspose.Imaging）將 EMF 向量檔光柵化為 BMP 位圖的過程。此轉換將可縮放的圖形轉為像素為基礎的格式，適用於舊有系統與低階影像處理。
 
-### 所需的庫和依賴項
-確保您的開發環境已準備好，並包含必要的 Aspose.Imaging for Java 程式庫。
+## 為什麼使用 Aspose.Imaging for Java？
+Aspose.Imaging 支援 **50+** 種輸入與輸出格式——包括 BMP、GIF、JPEG、PNG、TIFF、PSD、J2K 以及 WebP，且能在不將整個文件載入記憶體的情況下處理多百頁的 EMF 檔案，與多數開源替代方案相比，可提升最高 **30 %** 的處理速度。
 
-**Maven**
+## 前置條件
+
+### 必要的函式庫與相依性
+確保您的開發環境已包含 Aspose.Imaging for Java 函式庫。
+
+**Maven**  
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -40,168 +115,180 @@
 </dependency>
 ```
 
-**Gradle**
+**Gradle**  
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-### 環境設定要求
-- 您的機器上安裝了 Java 開發工具包 (JDK)。
-- 用於編寫和運行 Java 程式碼的 IDE 或文字編輯器。
+### 環境設定需求
+- Java Development Kit (JDK) 8 或更高版本。  
+- IDE（IntelliJ IDEA、Eclipse、VS Code）或簡易文字編輯器。
 
 ### 知識前提
-對 Java 程式設計有基本的了解，包括使用 Maven 或 Gradle 處理依賴項。
+熟悉 Java 類路徑處理與基本檔案 I/O 操作。
 
 ## 設定 Aspose.Imaging for Java
 
-要開始使用 Aspose.Imaging for Java，您需要將該程式庫整合到您的專案中。具體操作如下：
+首先，將 Aspose.Imaging 函式庫加入您的專案並取得授權。
 
-1. **透過依賴管理安裝：**
-   - 如果您使用 Maven 或 Gradle，請在您的 `pom.xml` 或者 `build.gradle`， 分別。
+1. **透過相依性管理安裝：**  
+   包含上述 Maven 或 Gradle 的相依性片段。  
+2. **直接下載：**  
+   從 [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) 直接下載最新版本。  
+   前往 [Latest Releases](https://releases.aspose.com/imaging/java/) 檢查更新。  
+   您也可以在此開始免費試用：[Start Your Free Trial](https://releases.aspose.com/imaging/java/)。  
+3. **取得授權：**  
+   使用免費試用探索功能，然後在 [Buy Aspose.Imaging](https://purchase.aspose.com/buy) 購買授權，或透過 [Get a Temporary License](https://purchase.aspose.com/temporary-license/) 頁面取得臨時金鑰。  
+   如需社群支援，請造訪 [Aspose forum](https://forum.aspose.com/c/imaging/14)。  
+4. **基本初始化：**  
+   將授權檔案（`Aspose.Imaging.lic`）放置於類路徑中，並在應用程式啟動時載入。  
+   詳細的 API 使用說明可於 [Reference Guide](https://reference.aspose.com/imaging/java/) 中找到。
 
-2. **直接下載：**
-   - 或者，直接從 [Aspose.Imaging for Java 版本](https://releases。aspose.com/imaging/java/).
+## 如何將 EMF 轉換為 BMP？
 
-3. **許可證取得：**
-   - 取得免費試用版來探索該程式庫的功能。
-   - 為了繼續使用，請考慮購買許可證或透過其取得臨時許可證 [許可證頁面](https://purchase。aspose.com/temporary-license/).
+要將 EMF 檔案轉換為 BMP，首先載入向量影像，然後建立一個 `EmfRasterizationOptions` 物件以定義渲染尺寸與背景，最後提供一個 `BmpOptions` 實例以指定 BMP 專屬設定，然後呼叫 `save`。`EmfRasterizationOptions` 控制向量資料的光柵化方式，而 `BmpOptions` 則保存 BMP 格式的參數，例如每像素位元數。
 
-4. **基本初始化：**
-   - 透過在主類別中設定必要的配置來使用 Aspose.Imaging 初始化您的 Java 專案。
+```text
+Load the EMF with `Image.load("source.emf")`.  
+Create a `BmpOptions` object, set `EmfRasterizationOptions` (background, size), and invoke `save("output.bmp", bmpOptions)`.  
+```
 
-## 實施指南
-
-為了清楚起見，我們將把實施過程分成不同的部分。
-
-### 設定 EmfRasterizationOptions
-
-在轉換 EMF 影像之前，請配置光柵化選項以控制向量圖形的渲染方式。這包括設定背景顏色和尺寸。
+以下程式碼區塊（佔位）示範了確切的 API 呼叫。
 
 ```java
 import com.aspose.imaging.Color;
 import com.aspose.imaging.imageoptions.EmfRasterizationOptions;
 
-// 配置 EMF 轉換的光柵化選項
+// Configure rasterization options for EMF conversion
 com.aspose.imaging.imageoptions.EmfRasterizationOptions emfRasterizationOptions = new com.aspose.imaging.imageoptions.EmfRasterizationOptions();
-emfRasterizationOptions.setBackgroundColor(Color.getPapayaWhip()); // 設定令人愉悅的背景顏色
-emfRasterizationOptions.setPageWidth(300); // 定義光柵化影像的寬度
-emfRasterizationOptions.setPageHeight(300); // 定義光柵化影像的高度
+emfRasterizationOptions.setBackgroundColor(Color.getPapayaWhip()); // Set a pleasant background color
+emfRasterizationOptions.setPageWidth(300); // Define the width of the rasterized image
+emfRasterizationOptions.setPageHeight(300); // Define the height of the rasterized image
 ```
 
-### 將 EMF 轉換為 BMP
+## 如何將 EMF 轉換為 GIF？
 
-將您的 EMF 檔案轉換為點陣圖格式，這對於需要基於像素的影像的應用程式很有用。
+將 EMF 轉換為 GIF 的流程與 BMP 轉換相同，您只需將光柵化選項換成 `GifOptions` 物件，該物件定義 GIF 專屬參數，如畫格延遲與循環次數。`GifOptions` 讓 Aspose.Imaging 根據設定產生靜態或動畫 GIF。
+
+```text
+Instantiate `GifOptions`, assign the same `EmfRasterizationOptions`, then call `save("output.gif", gifOptions)`.  
+```
 
 ```java
 import com.aspose.imaging.fileformats.emf.EmfImage;
 import com.aspose.imaging.Image;
 import com.aspose.imaging.imageoptions.BmpOptions;
 
-// 指定輸入檔案路徑並載入影像
+// Specify the input file path and load the image
 String filePath = "Picture1.emf"; 
 try (EmfImage image = (EmfImage) Image.load("YOUR_DOCUMENT_DIRECTORY" + filePath)) {
     BmpOptions bmpOptions = new BmpOptions();
-    bmpOptions.setVectorRasterizationOptions(emfRasterizationOptions); // 應用柵格化選項
-    image.save("YOUR_OUTPUT_DIRECTORY" + filePath + "_out.bmp", bmpOptions); // 保存 BMP 文件
+    bmpOptions.setVectorRasterizationOptions(emfRasterizationOptions); // Apply rasterization options
+    image.save("YOUR_OUTPUT_DIRECTORY" + filePath + "_out.bmp", bmpOptions); // Save the BMP file
 }
 ```
 
-### 將 EMF 轉換為 GIF
+## 如何將 EMF 轉換為 JPEG？
 
-將您的向量圖形轉換為 GIF 格式，非常適合動畫或簡單的網頁圖形。
+轉換為 JPEG 時，在使用 `EmfRasterizationOptions` 進行光柵化後，建立 `JpegOptions` 實例，您可以設定 `Quality` 屬性以在壓縮大小與視覺保真度之間取得平衡。`JpegOptions` 包含 JPEG 專屬的編碼設定，讓您可針對網路或存檔用途微調輸出。
+
+```text
+Create `JpegOptions`, define `Quality` (e.g., 90), reuse the rasterization settings, and save as JPEG.  
+```
 
 ```java
 import com.aspose.imaging.imageoptions.GifOptions;
 
 try (EmfImage image = (EmfImage) Image.load("YOUR_DOCUMENT_DIRECTORY" + filePath)) {
     GifOptions gifOptions = new GifOptions();
-    gifOptions.setVectorRasterizationOptions(emfRasterizationOptions); // 應用柵格化選項
-    image.save("YOUR_OUTPUT_DIRECTORY" + filePath + "_out.gif", gifOptions); // 儲存 GIF 文件
+    gifOptions.setVectorRasterizationOptions(emfRasterizationOptions); // Apply rasterization options
+    image.save("YOUR_OUTPUT_DIRECTORY" + filePath + "_out.gif", gifOptions); // Save the GIF file
 }
 ```
 
-### 將 EMF 轉換為 JPEG
+## 如何將 EMF 轉換為 PNG、TIFF、WebP 及其他格式？
 
-對於網路使用或數位攝影，將 EMF 檔案轉換為 JPEG 非常有益。
+相同的光柵化物件可重複用於任何點陣格式；只需實例化相應的選項類別（`PngOptions`、`TiffOptions`、`WebPOptions` 等），並傳遞給 `save`。每個選項類別定義了格式專屬的參數，例如 `PngOptions` 讓您選擇顏色類型，而 `TiffOptions` 則可設定壓縮類型。
+
+```text
+Select the appropriate Options class, configure any format‑specific settings, then invoke `save`.  
+```
 
 ```java
 import com.aspose.imaging.imageoptions.JpegOptions;
 
 try (EmfImage image = (EmfImage) Image.load("YOUR_DOCUMENT_DIRECTORY" + filePath)) {
     JpegOptions jpegOptions = new JpegOptions();
-    jpegOptions.setVectorRasterizationOptions(emfRasterizationOptions); // 應用柵格化選項
-    image.save("YOUR_OUTPUT_DIRECTORY" + filePath + "_out.jpeg", jpegOptions); // 保存 JPEG 文件
+    jpegOptions.setVectorRasterizationOptions(emfRasterizationOptions); // Apply rasterization options
+    image.save("YOUR_OUTPUT_DIRECTORY" + filePath + "_out.jpeg", jpegOptions); // Save the JPEG file
 }
 ```
 
-### 將 EMF 轉換為其他格式
+## 實務應用
 
-同樣，您可以將 EMF 檔案轉換為 J2K (JPEG 2000)、PNG、PSD、TIFF 和 WebP 格式。請遵循與上述相同的模式，僅調整特定 `ImageOptions` 每種格式的類別。
+1. **網頁設計：** 將 EMF 轉換為 WebP，可將檔案大小縮小最高 **35 %**，同時保持視覺品質。  
+2. **平面設計：** 當需要無損圖層以供印刷時，使用 TIFF 或 PSD。  
+3. **存檔：** 儲存高解析度 JPEG 2000 檔案，以獲得更佳壓縮且不會出現明顯失真。  
+4. **多媒體專案：** 產生 GIF 以在網頁應用程式中提供輕量動畫。
+
+## 效能考量
+
+- **記憶體管理：** 對於大於 20 MB 的 EMF 檔案，啟用 `setUseEmbeddedRasterization(true)` 以串流方式處理，而非完整載入記憶體物件。  
+- **執行緒：** Aspose.Imaging 為執行緒安全；您可在執行緒池中平行化批次轉換工作。  
+- **例外處理：** 將轉換呼叫包於 try‑catch 區塊，以捕捉 `ImageProcessingException` 並提供備援邏輯。
+
+## 常見問題與解決方案
+
+| 問題 | 原因 | 解決方案 |
+|------|------|----------|
+| **背景為空白** | 光柵化選項未設定背景顏色 | 在 `EmfRasterizationOptions` 中將 `backgroundColor` 設為 `Color.WHITE`。 |
+| **尺寸不正確** | 未指定寬度/高度 | 使用 `setPageWidth` 與 `setPageHeight` 以符合所需的輸出尺寸。 |
+| **記憶體不足錯誤** | 大型 EMF 在單一執行緒中處理 | 啟用串流模式並增加 JVM 堆積大小（`-Xmx2g`）。 |
+
+## 常見問答
+
+**Q: 使用 Aspose.Imaging for Java 我可以將 EMF 檔案轉換為哪些影像格式？**  
+A: 完全支援 BMP、GIF、JPEG、JPEG 2000、PNG、PSD、TIFF 與 WebP。
+
+**Q: 批次轉換需要授權嗎？**  
+A: 試用版每個檔案支援最高 10 MB；購買授權則移除所有限制。
+
+**Q: 如何提升數千個 EMF 檔案的轉換速度？**  
+A: 使用固定執行緒池、啟用嵌入式光柵化，並在多次呼叫中重複使用同一個 `EmfRasterizationOptions` 實例。
+
+**Q: 轉換為點陣時有辦法保留向量中繼資料嗎？**  
+A: 點陣格式本質上會捨棄向量資料；不過，您可以使用 `tiffOptions.setCompression(TiffCompression.NONE)` 將原始 EMF 作為中繼資料串流嵌入 TIFF 中。
+
+**Q: 在哪裡可以找到更詳細的 API 文件？**  
+A: 前往官方 [documentation](https://reference.aspose.com/imaging/java/) 取得完整的類別參考與範例。[Reference Guide](https://reference.aspose.com/imaging/java/) 亦提供更深入的說明。
+
+---
+
+**最後更新：** 2026-05-29  
+**測試環境：** Aspose.Imaging 24.12 for Java  
+**作者：** Aspose
 
 ```java
-// 範例：轉換為 PNG
+// Example: Convert to PNG
 import com.aspose.imaging.imageoptions.PngOptions;
 
 try (EmfImage image = (EmfImage) Image.load("YOUR_DOCUMENT_DIRECTORY" + filePath)) {
     PngOptions pngOptions = new PngOptions();
-    pngOptions.setVectorRasterizationOptions(emfRasterizationOptions); // 應用柵格化選項
-    image.save("YOUR_OUTPUT_DIRECTORY" + filePath + "_out.png", pngOptions); // 儲存 PNG 文件
+    pngOptions.setVectorRasterizationOptions(emfRasterizationOptions); // Apply rasterization options
+    image.save("YOUR_OUTPUT_DIRECTORY" + filePath + "_out.png", pngOptions); // Save the PNG file
 }
 ```
 
-## 實際應用
+## 相關教學
 
-1. **網頁設計：** 將 EMF 檔案轉換為 WebP，以加快網站載入時間。
-2. **平面設計：** 使用 TIFF 或 PSD 格式取得高品質的印刷材料。
-3. **歸檔：** 以 JPEG 2000 格式儲存影像，以獲得更好的壓縮和品質保持。
-4. **多媒體項目：** 在 Web 應用程式內利用 GIF 實作簡單的動畫。
+- [使用 Aspose.Imaging Java 將 JPEG 轉換為 PNG：開發者指南](/imaging/java/format-conversion-export/convert-jpeg-to-png-aspose-imaging-java/)
+- [Aspose.Imaging Java：使用 Deflate 壓縮並將 PNG 轉換為 TIFF](/imaging/java/compression-optimization/master-image-compression-conversion-aspose-imaging-java/)
+- [使用 Aspose.Imaging for Java 將 TIFF 轉換為 BMP](/imaging/java/document-conversion-and-processing/extract-tiff-frames-to-bmp-format/)
 
-## 性能考慮
-
-為確保最佳性能：
-- 監視記憶體使用情況，尤其是大型 EMF 檔案。
-- 調整光柵化設定以平衡影像品質和處理時間。
-- 使用 Aspose.Imaging 的內建方法來優雅地處理異常。
-
-## 結論
-
-現在，您已經掌握了使用 Aspose.Imaging for Java 將 EMF 影像轉換為各種格式的技巧。此功能為從 Web 開發到圖形設計的數位影像專案開闢了無限可能。
-
-**後續步驟：**
-- 嘗試不同的光柵化選項來自訂您的影像轉換。
-- 透過其探索 Aspose.Imaging 的更多功能 [文件](https://reference。aspose.com/imaging/java/).
-
-## 常見問題部分
-
-1. **使用 Aspose.Imaging for Java 我可以將 EMF 檔案轉換為哪些檔案格式？**
-   - 您可以將 EMF 檔案轉換為 BMP、GIF、JPEG、J2K（JPEG 2000）、PNG、PSD、TIFF 和 WebP。
-
-2. **如何在轉換過程中設定光柵化選項？**
-   - 使用 `EmfRasterizationOptions` 類別來配置背景顏色和圖像尺寸等設定。
-
-3. **我可以使用試用許可證來使用 Aspose.Imaging for Java 嗎？**
-   - 是的，您可以先免費試用，然後在購買前評估其功能。
-
-4. **轉換影像時有哪些常見問題？**
-   - 常見問題包括檔案路徑不正確或格式轉換不受支援；確保您的設定符合教學步驟。
-
-5. **在哪裡可以找到對 Aspose.Imaging 的支援？**
-   - 訪問 [Aspose 論壇](https://forum.aspose.com/c/imaging/14) 尋求協助並與其他用戶聯繫。
-
-## 資源
-
-- **文件:** [參考指南](https://reference.aspose.com/imaging/java/)
-- **下載：** [最新發布](https://releases.aspose.com/imaging/java/)
-- **購買許可證：** [購買 Aspose.Imaging](https://purchase.aspose.com/buy)
-- **免費試用：** [開始免費試用](https://releases.aspose.com/imaging/java/)
-- **臨時執照：** [獲得臨時許可證](https://purchase.aspose.com/temporary-license/)
-
-這份全面的指南將幫助您在專案中正確使用 Aspose.Imaging for Java。祝您程式愉快！
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

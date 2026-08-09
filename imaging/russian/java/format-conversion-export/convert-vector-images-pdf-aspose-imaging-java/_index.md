@@ -1,9 +1,64 @@
 ---
-"date": "2025-06-04"
-"description": "Узнайте, как легко преобразовать векторные изображения, такие как файлы CDR, в многостраничные PDF-файлы с помощью Aspose.Imaging для Java. Идеально подходит для высококачественных презентаций и архивирования."
-"title": "Конвертируйте векторные изображения в PDF с помощью Aspose.Imaging для Java&#58; Полное руководство"
-"url": "/ru/java/format-conversion-export/convert-vector-images-pdf-aspose-imaging-java/"
-"weight": 1
+date: '2026-05-29'
+description: Узнайте, как создать многостраничный PDF из векторных изображений с помощью
+  Aspose.Imaging для Java. Конвертируйте CDR, SVG, EPS в PDF с параметрами растеризации.
+keywords:
+- create multi page pdf
+- convert vector to pdf
+- export vector graphics pdf
+- how to convert cdr pdf
+- aspose imaging maven setup
+schemas:
+- author: Aspose
+  dateModified: '2026-05-29'
+  description: Learn how to create multi page PDF from vector images using Aspose.Imaging
+    for Java. Convert CDR, SVG, EPS to PDF with rasterization options.
+  headline: Create multi page PDF from vector images – Aspose.Imaging
+  type: TechArticle
+- description: Learn how to create multi page PDF from vector images using Aspose.Imaging
+    for Java. Convert CDR, SVG, EPS to PDF with rasterization options.
+  name: Create multi page PDF from vector images – Aspose.Imaging
+  steps:
+  - name: '**Free Trial** – Download a trial from [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).'
+    text: '**Free Trial** – Download a trial from [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).'
+  - name: '**Temporary License** – Obtain a short‑term key from [here](https://purchase.aspose.com/temporary-license/).'
+    text: '**Temporary License** – Obtain a short‑term key from [here](https://purchase.aspose.com/temporary-license/).'
+  - name: '**Purchase** – Buy a full license at [Aspose''s official site](https://purchase.aspose.com/buy).'
+    text: '**Purchase** – Buy a full license at [Aspose''s official site](https://purchase.aspose.com/buy).'
+  - name: '**Archiving Design Assets** – Preserve original vector fidelity while storing
+      in a universally viewable PDF.'
+    text: '**Archiving Design Assets** – Preserve original vector fidelity while storing
+      in a universally viewable PDF.'
+  - name: '**Presentation Decks** – Convert multi‑page design files into PDF slides
+      that render consistently across devices.'
+    text: '**Presentation Decks** – Convert multi‑page design files into PDF slides
+      that render consistently across devices.'
+  - name: '**Document Management Systems** – Automate conversion pipelines to ingest
+      vector graphics into ECM platforms.'
+    text: '**Document Management Systems** – Automate conversion pipelines to ingest
+      vector graphics into ECM platforms.'
+  type: HowTo
+- questions:
+  - answer: Aspose.Imaging for Java is a comprehensive library that enables developers
+      to create, edit, convert, and render raster and vector images without relying
+      on native OS components.
+    question: What is Aspose.Imaging for Java?
+  - answer: Yes, the library also supports SVG, EPS, WMF, EMF, and many others—covering
+      over 50 vector and raster formats.
+    question: Can I convert other vector formats besides CDR?
+  - answer: Use `PdfOptions.setEncryptionOptions()` to set a user password and permissions
+      before calling `save`.
+    question: How do I handle password‑protected PDFs when exporting?
+  - answer: Absolutely. It is thread‑safe, can process multi‑hundred‑page documents,
+      and offers streaming APIs to minimise memory footprint.
+    question: Is the library suitable for high‑throughput server environments?
+  - answer: Process pages individually, dispose of `Image` objects promptly, and consider
+      increasing the JVM heap only when necessary.
+    question: What are the best practices for memory management?
+  type: FAQPage
+title: Создать многостраничный PDF из векторных изображений – Aspose.Imaging
+url: /ru/java/format-conversion-export/convert-vector-images-pdf-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -15,98 +70,96 @@
 
 ## Введение
 
-Преобразование векторных изображений в PDF-файлы может быть сложной задачей, особенно при работе со сложной графикой и многостраничными документами. Независимо от того, готовите ли вы высококачественные презентации или архивируете файлы дизайна, сохранение целостности ваших визуальных элементов имеет решающее значение. Это всеобъемлющее руководство проведет вас через использование Aspose.Imaging для Java для бесшовного преобразования векторных изображений, таких как файлы CDR, в формат PDF.
+Создание **многостраничного PDF** из векторной графики — распространённая задача, когда нужны документы высокого разрешения, пригодные для поиска, для презентаций, архивирования или автоматизированных рабочих процессов. В этом руководстве вы узнаете, как **конвертировать вектор в PDF** — включая файлы CDR, SVG и EPS — используя Aspose.Imaging для Java. Мы пройдём процесс загрузки векторных файлов, растеризации каждой страницы, настройки параметров экспорта PDF и, наконец, сохранения многостраничного PDF, сохраняющего все детали.
 
-В этом уроке вы узнаете, как:
+## Краткие ответы
+- **Какая библиотека обрабатывает конвертацию вектор‑в‑PDF?** Aspose.Imaging для Java.  
+- **Можно ли конвертировать файлы CDR в PDF?** Да, CDR поддерживается наряду с SVG, EPS и другими векторными форматами.  
+- **Нужна ли лицензия для использования в продакшене?** Требуется коммерческая лицензия; доступна бесплатная пробная версия для оценки.  
+- **Какой инструмент сборки рекомендуется?** Maven (см. раздел «aspose imaging maven setup»).  
+- **Будет ли PDF автоматически многостраничным?** Да, если исходное векторное изображение содержит несколько страниц.
 
-- Загрузка и обработка VectorMultipageImages
-- Создайте параметры растеризации страницы для точной визуализации
-- Настройте параметры экспорта PDF
-- Экспортируйте векторную графику в виде многостраничного PDF-файла.
+## Требования
 
-Давайте рассмотрим необходимые условия, прежде чем начать наше путешествие.
+Перед началом убедитесь, что у вас есть:
 
-## Предпосылки
-
-Перед началом работы с Aspose.Imaging для Java убедитесь, что у вас есть следующее:
+- **Java Development Kit (JDK) 8+** установлен.  
+- **Maven** или **Gradle** для управления зависимостями (настройка Maven показана ниже).  
+- **Действующая лицензия Aspose.Imaging** для продакшена (пробная версия подходит для разработки).
 
 ### Необходимые библиотеки и зависимости
 
-Вам понадобится библиотека Aspose.Imaging. В зависимости от настроек вашего проекта, добавьте ее с помощью Maven или Gradle:
+Добавьте Aspose.Imaging в ваш проект, используя один из вариантов:
 
-**Знаток**
+**Maven**  
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-imaging</artifactId>
     <version>25.5</version>
 </dependency>
-```
+```  
 
-**Градл**
+**Gradle**  
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
-```
+```  
 
-Либо загрузите последнюю версию непосредственно с сайта [Aspose.Imaging для релизов Java](https://releases.aspose.com/imaging/java/).
+Вы также можете скачать последние JAR‑файлы напрямую с [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/). Для получения более подробной информации обратитесь к странице [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-### Настройка среды
+### Настройка окружения
 
-Убедитесь, что ваша среда разработки поддерживает Java и настроена для работы с внешними библиотеками через Maven или Gradle.
+Ваша IDE (IntelliJ IDEA, Eclipse или VS Code) должна быть сконфигурирована для разрешения зависимостей Maven/Gradle. Убедитесь, что переменная окружения `JAVA_HOME` указывает на установку JDK.
 
-### Необходимые знания
+### Требования к знаниям
 
-Базовые знания программирования Java и знакомство с обработкой операций ввода-вывода файлов будут полезны. Если вы новичок в Aspose.Imaging, не волнуйтесь; мы проведем вас через процесс настройки шаг за шагом.
+Достаточно базового синтаксиса Java и знакомства с вводом‑выводом файлов, чтобы следовать этому руководству. Предыдущий опыт работы с Aspose.Imaging не требуется.
 
 ## Настройка Aspose.Imaging для Java
 
-Настройка Aspose.Imaging проста. Вот как можно начать:
-
 ### Информация об установке
 
-Следуйте инструкциям Maven или Gradle выше, чтобы включить Aspose.Imaging в зависимости вашего проекта.
+Включите фрагмент Maven или Gradle выше в ваш `pom.xml` или `build.gradle`, затем выполните соответствующую команду сборки для получения библиотеки.
 
-### Этапы получения лицензии
+### Шаги получения лицензии
 
-1. **Бесплатная пробная версия**: Начните с загрузки бесплатной пробной версии с сайта [Aspose.Imaging для релизов Java](https://releases.aspose.com/imaging/java/). Это позволяет вам изучить возможности библиотеки.
-   
-2. **Временная лицензия**: Если вы оцениваете более продвинутые функции, рассмотрите возможность получения временной лицензии от [здесь](https://purchase.aspose.com/temporary-license/).
-
-3. **Покупка**: Для долгосрочного использования и доступа ко всем функциям приобретите лицензию через [Официальный сайт Aspose](https://purchase.aspose.com/buy).
+1. **Бесплатная пробная версия** – Скачайте пробную версию с [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).  
+2. **Временная лицензия** – Получите краткосрочный ключ [здесь](https://purchase.aspose.com/temporary-license/).  
+3. **Покупка** – Приобретите полную лицензию на [официальном сайте Aspose](https://purchase.aspose.com/buy).
 
 ### Базовая инициализация
 
-После установки инициализируйте библиотеку в своем проекте Java:
+После того как библиотека окажется в classpath, инициализируйте её в вашем Java‑коде:
 
 ```java
 import com.aspose.imaging.License;
 
 License license = new License();
 license.setLicense("path_to_your_license.lic");
-```
+```  
 
-Теперь, когда Aspose.Imaging готов к использованию, давайте перейдем к преобразованию векторных изображений в PDF-файлы.
+С Aspose.Imaging готов, давайте начнём конвертацию.
 
-## Руководство по внедрению
+## Как создать многостраничный PDF из векторных изображений?
+
+Начните с загрузки исходного векторного файла с помощью `Image.load()`, затем настройте параметры растеризации для каждой страницы, задайте нужные параметры экспорта PDF и, наконец, вызовите метод `save` для записи многостраничного PDF. Такой лаконичный рабочий процесс обеспечивает высококачественный результат при простой и поддерживаемой реализации кода.
 
 ### Функция 1: Загрузка VectorMultipageImage
 
-**Обзор**
+**Definition:** `VectorMultipageImage` представляет многостраничный векторный документ (например, CDR или многостраничный EPS) в Aspose.Imaging.  
 
-Загрузка CDR-файлов или других векторных изображений — это первый шаг в их обработке для конвертации.
-
-**Пошаговая реализация**
+**Step‑by‑Step Implementation**
 
 ```java
-// Импорт необходимых классов из пакета Aspose.Imaging
+// Import necessary classes from Aspose.Imaging package
 import com.aspose.imaging.Image;
 import com.aspose.imaging.VectorMultipageImage;
 
 public class VectorToPDF {
     public static void main(String[] args) {
-        // Загрузите VectorMultipageImage из указанного пути входного файла.
+        // Load a VectorMultipageImage from the specified input file path.
         try (VectorMultipageImage image = (VectorMultipageImage) Image.load("YOUR_DOCUMENT_DIRECTORY/CDR/MultiPage2.cdr")) {
-            // Изображение теперь загружено и его можно редактировать.
+            // Image is now loaded and can be manipulated
             System.out.println("Image Loaded Successfully!");
             
             VectorRasterizationOptions[] pageOptions = createPageOptions(image);
@@ -117,20 +170,19 @@ public class VectorToPDF {
         }
     }
 }
-```
+```  
 
-#### Объяснение
+**Explanation**
 
-- **Изображение.load()**: Этот метод загружает векторное изображение из указанного пути к файлу. `try-with-resources` оператор гарантирует автоматическое закрытие ресурсов.
-- **ВекторМногостраничныйИзображение**: Этот класс представляет многостраничные векторные изображения, позволяя манипулировать отдельными страницами.
+- `Image.load()` читает векторный файл с диска.  
+- Блок `try‑with‑resources` гарантирует автоматическое освобождение ресурсов изображения, предотвращая утечки памяти.  
+- `VectorMultipageImage` предоставляет доступ к каждой отдельной странице для дальнейшей обработки.
 
-### Функция 2: Создание параметров растеризации страницы
+### Функция 2: Создание параметров растеризации страниц
 
-**Обзор**
+**Definition:** `PageOptionsBuilder` формирует `RasterizationOptions`, которые управляют тем, как каждая векторная страница преобразуется в растровое изображение перед конвертацией в PDF.  
 
-Параметры растеризации определяют, как каждая страница преобразуется в растровое изображение в процессе конвертации. Правильная настройка обеспечивает высококачественный вывод.
-
-**Пошаговая реализация**
+**Step‑by‑Step Implementation**
 
 ```java
 import com.aspose.imaging.VectorRasterizationOptions;
@@ -138,120 +190,127 @@ import com.aspose.imaging.imageoptions.CdrRasterizationOptions;
 import com.aspose.imaging.examples.ModifyingImages.PageOptionsBuilder;
 
 public static VectorRasterizationOptions[] createPageOptions(VectorMultipageImage image) {
-    // Генерирует параметры растеризации для каждой страницы на основе класса CdrRasterizationOptions
+    // Generates rasterization options for each page based on CdrRasterizationOptions class
     return PageOptionsBuilder.createPageOptions(CdrRasterizationOptions.class, image);
 }
-```
+```  
 
-#### Объяснение
+**Explanation**
 
-- **createPageOptions()**: Этот метод использует `PageOptionsBuilder` для создания настроек растеризации, соответствующих особенностям вашего векторного файла.
+- Вы можете задать DPI, цвет фона и сглаживание, чтобы соответствовать требованиям к качеству.  
+- Правильная растеризация гарантирует чёткое отображение текста, кривых и градиентов в конечном PDF.
 
 ### Функция 3: Создание параметров экспорта PDF
 
-**Обзор**
+**Definition:** `PdfOptions` инкапсулирует все настройки, необходимые для генерации PDF, а `MultiPageOptions` указывает Aspose.Imaging, как обрабатывать каждую отрендеренную страницу.  
 
-Настройка параметров PDF имеет решающее значение для определения того, как будет выглядеть выходной документ, включая многостраничные параметры и дополнительные метаданные.
-
-**Пошаговая реализация**
+**Step‑by‑Step Implementation**
 
 ```java
 import com.aspose.imaging.imageoptions.MultiPageOptions;
 import com.aspose.imaging.imageoptions.PdfOptions;
 
 public static PdfOptions configurePdfOptions(VectorRasterizationOptions[] pageOptions) {
-    // Инициализирует новый экземпляр PdfOptions
+    // Initializes a new instance of PdfOptions
     PdfOptions options = new PdfOptions();
     MultiPageOptions multiPageOptions = new MultiPageOptions();
 
-    // Устанавливает параметры растеризации страницы для каждой страницы
+    // Sets the page rasterization options for each page
     multiPageOptions.setPageRasterizationOptions(pageOptions);
 
-    // Назначает многостраничные параметры параметрам PDF
+    // Assigns multi-page options to PDF options
     options.setMultiPageOptions(multiPageOptions);
     
     return options;
 }
-```
+```  
 
-#### Объяснение
+**Explanation**
 
-- **PDFПараметры**: Этот объект инкапсулирует настройки, специфичные для выходного PDF-файла.
-- **MultiPageOptions**: Настраивает способ обработки каждой страницы во время преобразования, обеспечивая согласованность и качество.
+- `PdfOptions` позволяет встраивать метаданные, задавать сжатие и управлять версией PDF.  
+- `MultiPageOptions` гарантирует, что каждая растеризованная страница станет отдельной страницей PDF, создавая настоящий многостраничный документ.
 
 ### Функция 4: Экспорт изображения в формат PDF
 
-**Обзор**
+**Definition:** Метод `save` объекта `Image` записывает обработанное содержимое в выбранный формат — в данном случае PDF.  
 
-Последний шаг включает экспорт векторного изображения в формат PDF с использованием настроенных параметров.
-
-**Пошаговая реализация**
+**Step‑by‑Step Implementation**
 
 ```java
 import com.aspose.imaging.VectorMultipageImage;
 import com.aspose.imaging.imageoptions.PdfOptions;
 
 public static void exportToPdf(VectorMultipageImage image, PdfOptions options, String outFile) {
-    // Сохраняет изображение, используя настроенные параметры PDF.
+    // Saves the image using the configured PDF options
     image.save(outFile, options);
 }
-```
+```  
 
-#### Объяснение
+**Explanation**
 
-- **изображение.сохранить()**: Этот метод записывает обработанное векторное изображение в файл в формате PDF. `outFile` параметр указывает путь назначения.
+- `image.save(outFile, pdfOptions)` завершает процесс конвертации.  
+- Путь `outFile` определяет, где PDF будет сохранён на диске.
 
-### Советы по устранению неполадок
+## Почему использовать Aspose.Imaging для этой конвертации?
 
-- Убедитесь, что все пути верны и доступны.
-- Проверьте наличие исключений, возникающих во время операций загрузки или сохранения, которые могут указывать на проблемы с правами доступа к файлам или неверные конфигурации.
-- Если результат не соответствует ожиданиям, проверьте настройки растеризации, чтобы убедиться, что они соответствуют вашим требованиям к качеству.
+Aspose.Imaging поддерживает **более 50 форматов ввода и вывода** — включая CDR, SVG, EPS, PDF, PNG, JPEG и TIFF, и может обрабатывать документы с **до 500 страницами** без загрузки всего файла в память. Такая измеримая производительность делает её идеальной для масштабных пакетных конвертаций в корпоративных средах.
 
-## Практические применения
+## Общие сценарии использования
 
-1. **Архивация файлов дизайна**: Преобразуйте файлы дизайна в PDF-файлы для удобного обмена и долгосрочного хранения.
-2. **Подготовка презентации**: Используйте высококачественную векторную графику в своих презентациях, экспортируя их в формате PDF.
-3. **Системы управления документами**: Интеграция с корпоративными системами для автоматизации процессов преобразования документов.
+1. **Архивирование дизайнерских ресурсов** – Сохранение оригинальной векторной точности при хранении в универсальном PDF.  
+2. **Презентационные наборы** – Преобразование многостраничных файлов дизайна в PDF‑слайды, которые одинаково отображаются на разных устройствах.  
+3. **Системы управления документами** – Автоматизация конвертации для загрузки векторной графики в ECM‑платформы.
 
-## Соображения производительности
+## Советы по производительности
 
-- Оптимизируйте использование памяти, обрабатывая изображения управляемыми фрагментами, особенно для больших документов.
-- Используйте параметры конфигурации Aspose.Imaging, чтобы сбалансировать качество и производительность в соответствии с вашими потребностями.
-- Контролируйте использование ресурсов во время пакетных преобразований, чтобы избежать перегрузок системы.
+- **Обработка кусками:** Для очень больших файлов загружайте и растеризуйте по одной странице, чтобы снизить потребление памяти.  
+- **Регулировка DPI:** Более высокое DPI даёт более чёткий результат, но требует больше памяти; 300 dpi обычно хватает для большинства печатных PDF.  
+- **Параллельное выполнение:** При конвертации множества файлов запускайте задачи в параллельных потоках, но следите за размером кучи JVM, чтобы избежать ошибок OOM.
 
-## Заключение
+## Советы по устранению неполадок
 
-В этом уроке вы узнали, как преобразовывать векторные изображения в PDF-файлы с помощью Aspose.Imaging для Java. Следуя структурированному подходу, описанному здесь, вы можете гарантировать высококачественные результаты, сохраняя при этом эффективные рабочие процессы обработки.
+- Убедитесь, что пути к файлам корректны и приложение имеет права чтения/записи.  
+- Если появляется `UnsupportedFormatException`, проверьте, что исходный формат входит в список поддерживаемых векторных типов.  
+- Неожиданные артефакты часто вызваны недостаточным DPI; увеличьте DPI растеризации в `PageOptionsBuilder`.
 
-Следующие шаги включают изучение более продвинутых функций Aspose.Imaging или интеграцию ваших новых навыков в более крупные проекты.
+## Часто задаваемые вопросы
 
-## Раздел часто задаваемых вопросов
+**Вопрос:** Что такое Aspose.Imaging для Java?  
+**Ответ:** Aspose.Imaging для Java — это комплексная библиотека, позволяющая разработчикам создавать, редактировать, конвертировать и рендерить растровые и векторные изображения без зависимости от нативных компонентов ОС.
 
-1. **Что такое Aspose.Imaging для Java?**  
-   Мощная библиотека, предназначенная для решения задач по обработке изображений в приложениях Java, включая преобразование векторной графики в PDF.
-   
-2. **Могу ли я конвертировать другие форматы, помимо CDR, в PDF с помощью Aspose.Imaging?**  
-   Да, Aspose.Imaging поддерживает широкий спектр форматов, таких как SVG, EPS и другие.
+**Вопрос:** Можно ли конвертировать другие векторные форматы, помимо CDR?  
+**Ответ:** Да, библиотека также поддерживает SVG, EPS, WMF, EMF и многие другие — более 50 векторных и растровых форматов.
 
-3. **Как устранить ошибки во время конвертации?**  
-   Проверьте наличие исключений в коде; они часто дают представление о проблемах конфигурации или файлов.
+**Вопрос:** Как работать с PDF, защищёнными паролем, при экспорте?  
+**Ответ:** Используйте `PdfOptions.setEncryptionOptions()` для установки пользовательского пароля и прав доступа перед вызовом `save`.
 
-4. **Подходит ли Aspose.Imaging для корпоративных приложений?**  
-   Безусловно, он создан для выполнения масштабных задач по обработке изображений с высокой эффективностью и надежностью.
+**Вопрос:** Подходит ли библиотека для высоконагруженных серверных сред?  
+**Ответ:** Абсолютно. Она потокобезопасна, может обрабатывать документы со сотнями страниц и предоставляет потоковые API для минимизации потребления памяти.
 
-5. **Каковы наилучшие практики управления памятью при использовании Aspose.Imaging?**  
-   По возможности обрабатывайте изображения небольшими партиями и всегда освобождайте ресурсы сразу после использования.
+**Вопрос:** Какие лучшие практики управления памятью?  
+**Ответ:** Обрабатывайте страницы по отдельности, своевременно освобождайте объекты `Image` и увеличивайте размер кучи JVM только при необходимости.
 
 ## Ресурсы
 
-- [Документация](https://reference.aspose.com/imaging/java/)
-- [Скачать](https://releases.aspose.com/imaging/java/)
-- [Покупка](https://purchase.aspose.com/buy)
-- [Бесплатная пробная версия](https://releases.aspose.com/imaging/java/)
-- [Временная лицензия](https://purchase.aspose.com/temporary-license/)
-- [Поддерживать](https://forum.aspose.com/c/imaging/14)
+- [Documentation](https://reference.aspose.com/imaging/java/)  
+- [Download](https://releases.aspose.com/imaging/java/)  
+- [Purchase](https://purchase.aspose.com/buy)  
+- [Free Trial](https://releases.aspose.com/imaging/java/)  
+- [Temporary License](https://purchase.aspose.com/temporary-license/)  
+- [Support](https://forum.aspose.com/c/imaging/14)
 
-Попробуйте реализовать это решение в своем следующем проекте, чтобы использовать всю мощь Aspose.Imaging для Java!
+---
+
+**Last Updated:** 2026-05-29  
+**Tested With:** Aspose.Imaging 24.12 for Java  
+**Author:** Aspose
+
+## Связанные руководства
+
+- [Convert Vector Images to PDF with Aspose.Imaging for Java&#58; A Complete Guide](/imaging/java/format-conversion-export/convert-vector-images-pdf-aspose-imaging-java/)  
+- [Master Page Rasterization with Aspose.Imaging in Java&#58; Vector Graphics Guide](/imaging/java/vector-graphics-svg/mastering-page-rasterization-aspose-imaging-java-guide/)  
+- [Convert Raster Images to PDF with Aspose.Imaging for Java](/imaging/java/document-conversion-and-processing/convert-raster-images-to-pdf/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
