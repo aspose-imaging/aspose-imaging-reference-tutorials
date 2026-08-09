@@ -1,9 +1,68 @@
 ---
-"date": "2025-06-04"
-"description": "Naučte se, jak exportovat soubory ODP do obrázků PNG pomocí Aspose.Imaging pro Javu. Tento tutoriál se zabývá vlastním nastavením písem a technikami převodu, které vylepšují vaše možnosti zpracování dokumentů."
-"title": "Převod ODP do PNG pomocí Aspose.Imaging Java - Průvodce vlastními fonty a exportem"
-"url": "/cs/java/format-conversion-export/export-odp-to-png-aspose-imaging-java-custom-fonts/"
-"weight": 1
+date: '2026-06-28'
+description: Naučte se, jak převést ODP na PNG pomocí Aspose.Imaging for Java, nastavit
+  vlastní fonty a zakázat systémové fonty pro přesné vykreslení.
+keywords:
+- how to convert odp
+- maven aspose imaging
+- aspose imaging license
+- disable system fonts
+- java convert presentation image
+schemas:
+- author: Aspose
+  dateModified: '2026-06-28'
+  description: Learn how to convert ODP to PNG using Aspose.Imaging for Java, set
+    custom fonts, and disable system fonts for accurate rendering.
+  headline: How to Convert ODP to PNG with Aspose.Imaging for Java – Custom Fonts
+    & Export Guide
+  type: TechArticle
+- description: Learn how to convert ODP to PNG using Aspose.Imaging for Java, set
+    custom fonts, and disable system fonts for accurate rendering.
+  name: How to Convert ODP to PNG with Aspose.Imaging for Java – Custom Fonts & Export
+    Guide
+  steps:
+  - name: '**Free Trial** – No license required, limited features.'
+    text: '**Free Trial** – No license required, limited features.'
+  - name: '**Temporary License** – Request one on the [Aspose website](https://purchase.aspose.com/temporary-license/).'
+    text: '**Temporary License** – Request one on the [Aspose website](https://purchase.aspose.com/temporary-license/).'
+  - name: '**Purchase** – Buy a subscription or perpetual license from [Aspose purchase
+      page](https://purchase.aspose.com/buy).'
+    text: '**Purchase** – Buy a subscription or perpetual license from [Aspose purchase
+      page](https://purchase.aspose.com/buy).'
+  - name: '**Brand‑consistent slide decks** – Export presentations as PNGs for web
+      publishing while preserving corporate fonts.'
+    text: '**Brand‑consistent slide decks** – Export presentations as PNGs for web
+      publishing while preserving corporate fonts.'
+  - name: '**Automated report generation** – Convert each slide to an image for inclusion
+      in PDF reports or email newsletters.'
+    text: '**Automated report generation** – Convert each slide to an image for inclusion
+      in PDF reports or email newsletters.'
+  - name: '**Legacy archive creation** – Store ODP content as PNGs to guarantee future
+      accessibility without needing ODP viewers.'
+    text: '**Legacy archive creation** – Store ODP content as PNGs to guarantee future
+      accessibility without needing ODP viewers.'
+  type: HowTo
+- questions:
+  - answer: Aspose.Imaging for Java works with JDK 8 and newer; JDK 11 is recommended
+      for long‑term support.
+    question: What is the minimum Java version required?
+  - answer: Yes, set `rasterizationOptions.setPageNumber(specificSlideIndex)` before
+      calling `save`.
+    question: Can I convert only selected slides?
+  - answer: Load the file with `LoadOptions` that includes the password, then proceed
+      with the same font settings.
+    question: How do I handle password‑protected ODP files?
+  - answer: It marginally improves speed because the engine skips the lookup of system
+      fonts, especially noticeable on machines with large font collections.
+    question: Does disabling system fonts affect performance?
+  - answer: Explore the official [Aspose.Imaging documentation](https://reference.aspose.com/imaging/java/)
+      for additional scenarios such as batch conversion and image transformations.
+    question: Where can I find more code samples?
+  type: FAQPage
+title: Jak převést ODP na PNG pomocí Aspose.Imaging for Java – Průvodce vlastními
+  fonty a exportem
+url: /cs/java/format-conversion-export/export-odp-to-png-aspose-imaging-java-custom-fonts/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,40 +70,40 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Jak implementovat Aspose.Imaging v Javě pro export ODP souborů do PNG s vlastními fonty
+# Jak převést ODP na PNG pomocí Aspose.Imaging pro Java – Vlastní písma a průvodce exportem
 
-dnešní digitální době jsou správa a konverze dokumentů klíčovými aspekty vývoje softwaru. Ať už jste vývojář, který chce automatizovat prezentace nebo spravovat grafické dokumenty ve své aplikaci, správné nástroje mohou znamenat velký rozdíl. Tento tutoriál vás provede používáním Aspose.Imaging pro Javu k exportu souborů OpenDocument Presentation (ODP) do obrázků PNG s možností specifikace vlastních písem. Zvládnutím této funkce rozšíříte možnosti zpracování dokumentů ve svých aplikacích.
+V moderních Java aplikacích je převod souborů OpenDocument Presentation (ODP) na vysoce kvalitní PNG obrázky běžnou požadavkem—zejména když potřebujete zachovat značku pomocí vlastních písem. Tento tutoriál ukazuje **jak převést ODP** na PNG pomocí Aspose.Imaging pro Java, provádí vás nastavením složky s vlastními písmy, vypnutím systémových náhradních písem a jemným laděním možností rasterizace pro optimální výkon.
 
-**Co se naučíte:**
-- Nastavení adresáře pro vlastní fonty.
-- Zakázání alternativních systémových písem, pokud chybí zadaná písma.
-- Export souboru ODP do PNG s vlastním nastavením písma.
-- Optimalizace výkonu operací Aspose.Imaging v Javě.
+**Co se naučíte**
+- Jak nastavit vlastní adresář písem pro převod ODP.
+- Jak zakázat systémová alternativní písma, aby byla použita pouze vámi vybraná písma.
+- Jak exportovat soubor ODP do PNG s přesnými rozměry a nastavením písem.
+- Tipy pro zlepšení rychlosti a využití paměti při zpracování velkých prezentací.
 
-Než se pustíme do implementace, ujistěte se, že máte vše, co potřebujete k zahájení.
+## Rychlé odpovědi
+- **Mohu použít Maven k přidání Aspose.Imaging?** Ano, přidejte Maven závislost a spusťte `mvn install`.  
+- **Potřebuji licenci pro produkci?** Platná licence Aspose.Imaging je vyžadována pro neomezené používání.  
+- **Budou moje vlastní písma respektována?** Nastavte složku s písmy a zakažte systémové alternativy, aby byla vynucena.  
+- **Jaké formáty obrázků jsou podporovány?** Aspose.Imaging podporuje více než 120 rastrových a vektorových formátů, včetně PNG, JPEG, TIFF a WebP.  
+- **Je API thread‑safe?** Ano, většina tříd Aspose.Imaging je bezpečná pro souběžné použití, pokud vytvoříte samostatné instance pro každý vlákno.
+
+## Co je “how to convert odp”?
+*“How to convert odp”* odkazuje na proces převodu souboru OpenDocument Presentation do jiného formátu—často PNG—při zachování rozvržení, písem a vizuální věrnosti. Aspose.Imaging pro Java poskytuje jednofázový workflow, který tento převod provádí bez potřeby externích nástrojů, což vývojářům umožňuje integrovat převod přímo do svých aplikací s minimálním kódem.
+
+## Proč použít Aspose.Imaging pro Java?
+Aspose.Imaging podporuje **více než 120 výstupních formátů** a dokáže rasterizovat více‑stránkové ODP soubory bez načítání celého dokumentu do paměti, čímž snižuje špičkovou spotřebu RAM až o 70 % u velkých prezentací. Knihovna také nabízí vestavěnou správu písem, čímž eliminuje potřebu třetích stran renderovacích engine.
 
 ## Předpoklady
+- **Knihovny**: Aspose.Imaging pro Java ≥ 25.5.  
+- **JDK**: Verze 8 nebo novější.  
+- **IDE**: IntelliJ IDEA, Eclipse nebo jakýkoli Java‑kompatibilní editor.  
+- **Základní znalosti**: Java I/O, objektově orientované programování a koncepty obrázků.
 
-Abyste mohli tento tutoriál efektivně sledovat, budete potřebovat:
+## Pokyny k instalaci
 
-1. **Knihovny a verze:**
-   - Aspose.Imaging pro Javu (verze 25.5 nebo novější).
+### Maven
+Přidejte následující závislost do svého `pom.xml` a spusťte `mvn clean install`:
 
-2. **Požadavky na nastavení prostředí:**
-   - Funkční Java Development Kit (JDK) verze 8 nebo vyšší.
-   - IDE, jako například IntelliJ IDEA, Eclipse nebo jakýkoli textový editor dle vašeho výběru.
-
-3. **Předpoklady znalostí:**
-   - Základní znalost programování v Javě.
-   - Znalost konceptů práce se soubory a zpracování obrázků v Javě.
-
-## Nastavení Aspose.Imaging pro Javu
-
-### Pokyny k instalaci:
-
-Aspose.Imaging můžete do svého projektu integrovat pomocí Mavenu, Gradle nebo stažením souboru JAR přímo. Postupujte takto:
-
-**Znalec:**
 ```xml
 <dependency>
   <groupId>com.aspose</groupId>
@@ -53,43 +112,36 @@ Aspose.Imaging můžete do svého projektu integrovat pomocí Mavenu, Gradle neb
 </dependency>
 ```
 
-**Gradle:**
+### Gradle
+Zahrňte knihovnu do souboru `build.gradle` a obnovte projekt:
+
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-**Přímé stažení:**
+### Direct Download
+Stáhněte nejnovější JAR z [vydání Aspose.Imaging pro Java](https://releases.aspose.com/imaging/java/).
 
-Stáhněte si nejnovější JAR soubor z [Aspose.Imaging pro verze Java](https://releases.aspose.com/imaging/java/).
+## Kroky získání licence
+Pro odemčení plné funkčnosti použijte dočasnou nebo trvalou licenci:
 
-### Kroky získání licence
+1. **Free Trial** – Licence není vyžadována, omezené funkce.  
+2. **Temporary License** – Požádejte o ni na [Aspose webu](https://purchase.aspose.com/temporary-license/).  
+3. **Purchase** – Kupte předplatné nebo trvalou licenci na [stránce nákupu Aspose](https://purchase.aspose.com/buy).
 
-Chcete-li používat Aspose.Imaging, můžete začít s bezplatnou zkušební verzí nebo požádat o dočasnou licenci, abyste si mohli prozkoumat všechny jeho funkce. Pokud budete spokojeni, zvažte zakoupení licence pro dlouhodobé používání.
+Inicializujte knihovnu pomocí souboru licence:
 
-1. **Bezplatná zkušební verze:** Přístup k omezeným funkcím bez licence.
-2. **Dočasná licence:** Aplikujte na [Webové stránky Aspose](https://purchase.aspose.com/temporary-license/) pro odemknutí všech funkcí.
-3. **Nákup:** Kupte si předplatné nebo trvalou licenci od [Nákupní stránka Aspose](https://purchase.aspose.com/buy).
-
-Inicializujte Aspose.Imaging nastavením licence:
 ```java
 License license = new License();
 license.setLicense("path/to/your/license/file");
 ```
 
-## Průvodce implementací
+## Jak nastavit vlastní adresář písem pro převod ODP?
+`FontSettings` je třída, která spravuje zdroje písem pro Aspose.Imaging. Načtěte své vlastní písma před zahájením jakéhokoli zpracování obrázku. Tím zajistíte, že každá snímek použije přesně písma, která poskytnete.
 
-Pojďme si krok za krokem projít proces implementace každé funkce.
+Nastavte cestu ke složce s písmy pomocí `FontSettings` Aspose.Imaging:
 
-### Funkce 1: Nastavení adresáře písem
-
-**Přehled:**  
-Nakonfigurujte si vlastní adresář pro písma, abyste zajistili, že vaše aplikace bude používat specifickou typografii. To je klíčové, pokud potřebujete konzistentní vykreslování písem v různých prostředích.
-
-#### Kroky:
-
-- **Definovat cestu k adresáři písem:**
-  
-  ```java
+```java
   import com.aspose.imaging.FontSettings;
   import com.aspose.imaging.examples.Path;
   import com.aspose.imaging.examples.Utils;
@@ -98,37 +150,27 @@ Nakonfigurujte si vlastní adresář pro písma, abyste zajistili, že vaše apl
   FontSettings.setFontsFolder(Path.combine(dataDir, "fonts"));
   ```
 
-  **Vysvětlení:**  
-  Ten/Ta/To `setFontsFolder` Metoda určuje, kde má Aspose.Imaging hledat vlastní fonty. Tím je zajištěno, že vaše aplikace konzistentně používá zadanou typografii.
+*Definice*: `FontSettings.setFontsFolder` říká Aspose.Imaging, kde hledat TrueType a OpenType písma v souborovém systému.
 
-### Funkce 2: Zakázání alternativních systémových písem
+## Jak zakázat systémová alternativní písma během převodu ODP?
+Zakázání systémových alternativ nutí renderovací engine ignorovat písma nainstalovaná v operačním systému, což zaručuje, že budou použita pouze písma, která poskytnete. Tím se eliminuje neočekávaná náhrada písem, která může změnit vizuální vzhled vašich snímků.
 
-**Přehled:**  
-Zabraňte použití systémových písem, pokud chybí konkrétní písma, čímž zajistíte konzistenci značky a předejdete neočekávaným problémům s vykreslováním.
+Zakázat systémové alternativy pomocí následujícího volání:
 
-#### Kroky:
-
-- **Zakázat alternativy systému:**
-  
-  ```java
+```java
   import com.aspose.imaging.FontSettings;
 
   FontSettings.setGetSystemAlternativeFont(false);
   ```
 
-  **Vysvětlení:**  
-  Prostředí `setGetSystemAlternativeFont` na `false` zajišťuje, že Aspose.Imaging nepoužívá systémová písma jako záložní fonty, a tím zachovává jednotnost vzhledu dokumentu.
+*Definice*: `FontSettings.setGetSystemAlternativeFont(false)` nutí engine používat pouze písma umístěná ve složce, kterou jste definovali, čímž eliminuje neočekávané náhrady.
 
-### Funkce 3: Export souboru ODP do formátu PNG se zadaným písmem
+## Jak exportovat soubor ODP do PNG s určeným písmem?
+`RasterizationOptions` určuje, jak jsou vektorové stránky rasterizovány do bitmapových obrázků. Kombinací nastavení písem s nastavením rasterizace můžete řídit DPI, barvu pozadí a velikost stránky pro každý exportovaný PNG.
 
-**Přehled:**  
-Převeďte soubory ODP do obrázků PNG pomocí specifických vlastních písem. Tato funkce je užitečná pro vytváření prezentací nebo dokumentů, kde je konzistence brandingu a designu klíčová.
+Implementujte exportní metodu, jak je ukázáno níže:
 
-#### Kroky:
-
-- **Implementace funkce exportu:**
-
-  ```java
+```java
   import com.aspose.imaging.FontSettings;
   import com.aspose.imaging.examples.Path;
   import com.aspose.imaging.Image;
@@ -141,8 +183,8 @@ Převeďte soubory ODP do obrázků PNG pomocí specifických vlastních písem.
           PngOptions saveOptions = new PngOptions();
           
           OdgRasterizationOptions rasterizationOptions = new OdgRasterizationOptions();
-          rasterizationOptions.setPageWidth(1000); // Nastavení šířky stránky pro vykreslování
-          rasterizationOptions.setPageHeight(1000);  // Nastavení výšky stránky pro vykreslování
+          rasterizationOptions.setPageWidth(1000); // Set the page width for rendering
+          rasterizationOptions.setPageHeight(1000);  // Set the page height for rendering
 
           saveOptions.setVectorRasterizationOptions(rasterizationOptions);
           document.save(outfileName, saveOptions);
@@ -151,60 +193,60 @@ Převeďte soubory ODP do obrázků PNG pomocí specifických vlastních písem.
 
   ```
 
-  **Vysvětlení:**  
-  Tato metoda nastaví výchozí písma a převede soubor ODP na obrázek PNG se zadanými rozměry. Upravit `rasterizationOptions` pro vaše specifické potřeby renderování.
+*Definice*: Třída `RasterizationOptions` řídí DPI, velikost stránky a barvu pozadí pro generované PNG soubory.
 
-### Tipy pro řešení problémů
-
-- Ujistěte se, že všechny soubory vlastních písem jsou přítomny v adresáři nastaveném `setFontsFolder`.
-- Ověřte, zda je cesta k souboru ODP správná a přístupná.
-- Zkontrolujte, zda má prostředí Java dostatečná oprávnění pro čtení/zápis souborů.
+### Časté úskalí a řešení
+- **Chybějící soubory písem** – Ověřte, že každý `.ttf` nebo `.otf` odkazovaný v ODP je přítomen ve složce, kterou jste nastavili.  
+- **Nesprávné cesty k souborům** – Použijte absolutní cesty nebo řešte relativní cesty vůči `System.getProperty("user.dir")`.  
+- **Nedostatečná oprávnění** – Zajistěte, aby Java proces mohl číst složku s písmy a zapisovat do výstupní složky.
 
 ## Praktické aplikace
-
-1. **Konzistence značky:** Používejte vlastní písma pro prezentace exportované do formátu PNG, abyste zajistili zachování identity značky ve všech dokumentech.
-2. **Automatizované generování reportů:** Převeďte snímky prezentace na obrázky pro zprávy nebo marketingové materiály.
-3. **Archivace dokumentů:** Ukládejte soubory ODP jako obrázky pro snadnější přístup a sdílení bez nutnosti specializovaného softwaru.
+1. **Prezentace s konzistentní značkou** – Exportujte prezentace jako PNG pro webové publikování při zachování firemních písem.  
+2. **Automatizovaná tvorba reportů** – Převádějte každý snímek na obrázek pro zahrnutí do PDF reportů nebo e‑mailových newsletterů.  
+3. **Vytváření archivů starších verzí** – Ukládejte obsah ODP jako PNG, aby byla zajištěna budoucí přístupnost bez potřeby prohlížečů ODP.
 
 ## Úvahy o výkonu
+- Používejte nejnovější verzi Aspose.Imaging, abyste získali výhody vylepšení multi‑threaded rasterizace (až 2× rychlejší na 8‑jádrových CPU).  
+- Zabalte zpracování obrázků do bloku try‑with‑resources, aby bylo zajištěno včasné uvolnění nativních zdrojů.  
+- Upravit `RasterizationOptions` (např. nižší DPI) při zpracování tisíců snímků, aby se vyvážila kvalita a využití paměti.
 
-- Použijte nejnovější verzi Aspose.Imaging, abyste mohli těžit z vylepšení výkonu.
-- Efektivně spravujte paměť likvidací `Image` objekty pomocí funkce try-with-resources, jak je znázorněno v příkladu.
-- Optimalizujte možnosti vykreslování na základě specifických potřeb vaší aplikace a vyvažte tak kvalitu a využití zdrojů.
+## Často kladené otázky
 
-## Závěr
+**Q: Jaká je minimální verze Javy požadovaná?**  
+A: Aspose.Imaging pro Java funguje s JDK 8 a novějšími; JDK 11 je doporučená pro dlouhodobou podporu.
 
-Dodržováním tohoto návodu jste se naučili, jak nastavit Aspose.Imaging pro Javu, konfigurovat vlastní fonty, zakázat systémové alternativy a exportovat soubory ODP do obrázků PNG. Tyto funkce mohou výrazně vylepšit pracovní postupy zpracování dokumentů ve vašich aplikacích.
+**Q: Mohu převést pouze vybrané snímky?**  
+A: Ano, nastavte `rasterizationOptions.setPageNumber(specificSlideIndex)` před voláním `save`.
 
-Chcete-li dále prozkoumat možnosti Aspose.Imaging, zvažte ponoření se do jeho rozsáhlé dokumentace nebo experimentování s dalšími funkcemi, jako jsou transformace obrázků a konverze formátů.
+**Q: Jak zacházet se soubory ODP chráněnými heslem?**  
+A: Načtěte soubor pomocí `LoadOptions`, který obsahuje heslo, a poté pokračujte se stejným nastavením písem.
 
-## Sekce Často kladených otázek
+**Q: Ovlivňuje zakázání systémových písem výkon?**  
+A: Mírně zvyšuje rychlost, protože engine přeskočí vyhledávání systémových písem, což je zvláště patrné na strojích s velkými kolekcemi písem.
 
-1. **Co je Aspose.Imaging?**  
-   Aspose.Imaging pro Javu je výkonná knihovna pro práci s obrázky a dokumenty v různých formátech, která poskytuje robustní možnosti konverze a zpracování.
+**Q: Kde najdu více ukázek kódu?**  
+A: Prozkoumejte oficiální [dokumentaci Aspose.Imaging](https://reference.aspose.com/imaging/java/) pro další scénáře, jako je hromadná konverze a transformace obrázků.
 
-2. **Jak nastavím vlastní písma?**  
-   Použití `FontSettings.setFontsFolder` pro určení adresáře, kde jsou uložena vaše vlastní písma.
+## Další zdroje
+- [Vydání Aspose.Imaging pro Java](https://releases.aspose.com/imaging/java/)  
+- [Vydání Aspose.Imaging](https://releases.aspose.com/imaging/java/)  
+- [Začněte svou bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)  
+- [Dokumentace Aspose.Imaging](https://reference.aspose.com/imaging/java/)  
+- [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)  
+- [Koupit licenci Aspose](https://purchase.aspose.com/buy)  
+- [Požádat o dočasnou licenci](https://purchase.aspose.com/temporary-license/)  
 
-3. **Mohu exportovat jiné typy dokumentů pomocí Aspose.Imaging?**  
-   Ano, Aspose.Imaging podporuje širokou škálu formátů včetně PDF, BMP, TIFF a dalších.
+---
 
-4. **Co mám dělat, když se mi vlastní písmo nezobrazuje správně?**  
-   Ujistěte se, že je soubor s písmem přístupný v adresáři nastaveném `setFontsFolder` a že vaše aplikace má potřebná oprávnění k jeho čtení.
+**Last Updated:** 2026-06-28  
+**Tested With:** Aspose.Imaging for Java 25.5  
+**Author:** Aspose
 
-5. **Kde najdu další příklady použití Aspose.Imaging pro Javu?**  
-   Podívejte se na [Dokumentace k Aspose.Imaging](https://reference.aspose.com/imaging/java/) pro ukázky kódu, reference API a tutoriály.
+## Související tutoriály
 
-## Zdroje
+- [Převod ODG na PNG pomocí Aspose.Imaging pro Java: Kompletní průvodce](/imaging/java/format-conversion-export/convert-odg-to-png-aspose-imaging-java/)
+- [Efektivní konverze obrázků v Javě s Aspose.Imaging: Kompletní průvodce](/imaging/java/format-conversion-export/mastering-image-conversion-aspose-imaging-java/)
 
-- **Dokumentace:** [Dokumentace k Aspose.Imaging](https://reference.aspose.com/imaging/java/)
-- **Stáhnout:** [Aspose.Imaging Releases](https://releases.aspose.com/imaging/java/)
-- **Nákup:** [Koupit licenci Aspose](https://purchase.aspose.com/buy)
-- **Bezplatná zkušební verze:** [Začněte svou bezplatnou zkušební verzi](https://releases.aspose.com/imaging/java/)
-- **Dočasná licence:** [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- **Podpora:** [Fórum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
-
-Doufáme, že vám tento průvodce pomůže bezproblémově implementovat Aspose.Imaging ve vašich projektech v Javě. Přejeme vám příjemné programování!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

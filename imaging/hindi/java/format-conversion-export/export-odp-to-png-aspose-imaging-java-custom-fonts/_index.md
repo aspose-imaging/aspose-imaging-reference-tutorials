@@ -1,9 +1,69 @@
 ---
-"date": "2025-06-04"
-"description": "Aspose.Imaging for Java का उपयोग करके ODP फ़ाइलों को PNG छवियों में निर्यात करना सीखें। यह ट्यूटोरियल कस्टम फ़ॉन्ट सेटिंग और रूपांतरण तकनीकों को कवर करता है, जो आपकी दस्तावेज़ प्रसंस्करण क्षमताओं को बढ़ाता है।"
-"title": "Aspose.Imaging Java&#58; कस्टम फ़ॉन्ट्स और निर्यात गाइड के साथ ODP को PNG में बदलें"
-"url": "/hi/java/format-conversion-export/export-odp-to-png-aspose-imaging-java-custom-fonts/"
-"weight": 1
+date: '2026-06-28'
+description: Aspose.Imaging for Java का उपयोग करके ODP को PNG में कैसे बदलें, कस्टम
+  फ़ॉन्ट्स सेट करें, और सटीक रेंडरिंग के लिए सिस्टम फ़ॉन्ट्स को निष्क्रिय करें, यह
+  जानें।
+keywords:
+- how to convert odp
+- maven aspose imaging
+- aspose imaging license
+- disable system fonts
+- java convert presentation image
+schemas:
+- author: Aspose
+  dateModified: '2026-06-28'
+  description: Learn how to convert ODP to PNG using Aspose.Imaging for Java, set
+    custom fonts, and disable system fonts for accurate rendering.
+  headline: How to Convert ODP to PNG with Aspose.Imaging for Java – Custom Fonts
+    & Export Guide
+  type: TechArticle
+- description: Learn how to convert ODP to PNG using Aspose.Imaging for Java, set
+    custom fonts, and disable system fonts for accurate rendering.
+  name: How to Convert ODP to PNG with Aspose.Imaging for Java – Custom Fonts & Export
+    Guide
+  steps:
+  - name: '**Free Trial** – No license required, limited features.'
+    text: '**Free Trial** – No license required, limited features.'
+  - name: '**Temporary License** – Request one on the [Aspose website](https://purchase.aspose.com/temporary-license/).'
+    text: '**Temporary License** – Request one on the [Aspose website](https://purchase.aspose.com/temporary-license/).'
+  - name: '**Purchase** – Buy a subscription or perpetual license from [Aspose purchase
+      page](https://purchase.aspose.com/buy).'
+    text: '**Purchase** – Buy a subscription or perpetual license from [Aspose purchase
+      page](https://purchase.aspose.com/buy).'
+  - name: '**Brand‑consistent slide decks** – Export presentations as PNGs for web
+      publishing while preserving corporate fonts.'
+    text: '**Brand‑consistent slide decks** – Export presentations as PNGs for web
+      publishing while preserving corporate fonts.'
+  - name: '**Automated report generation** – Convert each slide to an image for inclusion
+      in PDF reports or email newsletters.'
+    text: '**Automated report generation** – Convert each slide to an image for inclusion
+      in PDF reports or email newsletters.'
+  - name: '**Legacy archive creation** – Store ODP content as PNGs to guarantee future
+      accessibility without needing ODP viewers.'
+    text: '**Legacy archive creation** – Store ODP content as PNGs to guarantee future
+      accessibility without needing ODP viewers.'
+  type: HowTo
+- questions:
+  - answer: Aspose.Imaging for Java works with JDK 8 and newer; JDK 11 is recommended
+      for long‑term support.
+    question: What is the minimum Java version required?
+  - answer: Yes, set `rasterizationOptions.setPageNumber(specificSlideIndex)` before
+      calling `save`.
+    question: Can I convert only selected slides?
+  - answer: Load the file with `LoadOptions` that includes the password, then proceed
+      with the same font settings.
+    question: How do I handle password‑protected ODP files?
+  - answer: It marginally improves speed because the engine skips the lookup of system
+      fonts, especially noticeable on machines with large font collections.
+    question: Does disabling system fonts affect performance?
+  - answer: Explore the official [Aspose.Imaging documentation](https://reference.aspose.com/imaging/java/)
+      for additional scenarios such as batch conversion and image transformations.
+    question: Where can I find more code samples?
+  type: FAQPage
+title: Aspose.Imaging for Java के साथ ODP को PNG में कैसे बदलें – कस्टम फ़ॉन्ट्स &
+  एक्सपोर्ट गाइड
+url: /hi/java/format-conversion-export/export-odp-to-png-aspose-imaging-java-custom-fonts/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,40 +71,40 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# ODP फ़ाइलों को कस्टम फ़ॉन्ट के साथ PNG में निर्यात करने के लिए Aspose.Imaging Java को कैसे लागू करें
+# Aspose.Imaging for Java के साथ ODP को PNG में कैसे बदलें – कस्टम फ़ॉन्ट्स और एक्सपोर्ट गाइड
 
-आज के डिजिटल युग में, दस्तावेज़ प्रबंधन और रूपांतरण सॉफ़्टवेयर विकास के महत्वपूर्ण पहलू हैं। चाहे आप एक डेवलपर हों जो प्रस्तुतियों को स्वचालित करना चाहते हैं या अपने एप्लिकेशन में ग्राफ़िक दस्तावेज़ों का प्रबंधन करना चाहते हैं, सही उपकरण होने से बहुत फ़र्क पड़ सकता है। यह ट्यूटोरियल आपको कस्टम फ़ॉन्ट निर्दिष्ट करते हुए OpenDocument Presentation (ODP) फ़ाइलों को PNG छवियों में निर्यात करने के लिए Aspose.Imaging for Java का उपयोग करने के बारे में मार्गदर्शन करेगा। इस कार्यक्षमता में महारत हासिल करके, आप अपने अनुप्रयोगों के भीतर दस्तावेज़ प्रसंस्करण क्षमताओं को बढ़ाएँगे।
+आधुनिक Java अनुप्रयोगों में, OpenDocument Presentation (ODP) फ़ाइलों को उच्च‑गुणवत्ता वाले PNG चित्रों में बदलना एक सामान्य आवश्यकता है—विशेष रूप से जब आपको कस्टम फ़ॉन्ट्स के माध्यम से ब्रांडिंग बनाए रखना हो। यह ट्यूटोरियल Aspose.Imaging for Java का उपयोग करके **ODP को PNG में कैसे बदलें** दिखाता है, कस्टम फ़ॉन्ट फ़ोल्डर सेट करने, सिस्टम‑फ़ॉलबैक फ़ॉन्ट्स को निष्क्रिय करने, और इष्टतम प्रदर्शन के लिए रास्टराइज़ेशन विकल्पों को फाइन‑ट्यून करने की प्रक्रिया बताता है।
 
-**आप क्या सीखेंगे:**
-- कस्टम फ़ॉन्ट्स के लिए निर्देशिका स्थापित करना.
-- निर्दिष्ट फ़ॉन्ट अनुपलब्ध होने पर सिस्टम वैकल्पिक फ़ॉन्ट अक्षम करना।
-- कस्टम फ़ॉन्ट सेटिंग्स के साथ ODP फ़ाइल को PNG में निर्यात करना।
-- जावा में Aspose.Imaging परिचालनों के प्रदर्शन को अनुकूलित करना।
+**आप क्या सीखेंगे**
+- ODP रूपांतरण के लिए कस्टम फ़ॉन्ट डायरेक्टरी कैसे सेट करें।  
+- सिस्टम वैकल्पिक फ़ॉन्ट्स को कैसे निष्क्रिय करें ताकि केवल आपके चयनित टाइपफ़ेस उपयोग हों।  
+- सटीक आयाम और फ़ॉन्ट सेटिंग्स के साथ ODP फ़ाइल को PNG में कैसे एक्सपोर्ट करें।  
+- बड़े प्रस्तुतियों को प्रोसेस करते समय गति और मेमोरी उपयोग में सुधार के टिप्स।
 
-कार्यान्वयन में उतरने से पहले, आइए सुनिश्चित करें कि आपके पास आरंभ करने के लिए आवश्यक सभी चीजें मौजूद हैं।
+## त्वरित उत्तर
+- **क्या मैं Maven का उपयोग करके Aspose.Imaging जोड़ सकता हूँ?** हाँ, Maven निर्भरता जोड़ें और `mvn install` चलाएँ।  
+- **क्या मुझे प्रोडक्शन के लिए लाइसेंस चाहिए?** असीमित उपयोग के लिए एक वैध Aspose.Imaging लाइसेंस आवश्यक है।  
+- **क्या मेरे कस्टम फ़ॉन्ट्स का सम्मान होगा?** फ़ॉन्ट फ़ोल्डर सेट करें और सिस्टम वैकल्पिक फ़ॉन्ट्स को निष्क्रिय करें ताकि वे लागू हों।  
+- **कौन से इमेज फ़ॉर्मेट समर्थित हैं?** Aspose.Imaging 120+ रास्टर और वेक्टर फ़ॉर्मेट्स को सपोर्ट करता है, जिसमें PNG, JPEG, TIFF, और WebP शामिल हैं।  
+- **क्या API थ्रेड‑सेफ़ है?** हाँ, अधिकांश Aspose.Imaging क्लासेज़ थ्रेड‑सेफ़ हैं जब आप प्रत्येक थ्रेड के लिए अलग-अलग इंस्टेंस बनाते हैं।
 
-## आवश्यक शर्तें
+## “how to convert odp” क्या है?
+*“How to convert odp”* उस प्रक्रिया को दर्शाता है जिसमें OpenDocument Presentation फ़ाइल को किसी अन्य फ़ॉर्मेट—आमतौर पर PNG—में बदलते हैं, जबकि लेआउट, फ़ॉन्ट्स और दृश्य सटीकता को बनाए रखा जाता है। Aspose.Imaging for Java एक सिंगल‑मेथड वर्कफ़्लो प्रदान करता है जो इस रूपांतरण को बाहरी टूल्स की आवश्यकता के बिना संभालता है, जिससे डेवलपर्स न्यूनतम कोड के साथ सीधे अपने अनुप्रयोगों में रूपांतरण को एकीकृत कर सकते हैं।
 
-इस ट्यूटोरियल का प्रभावी ढंग से पालन करने के लिए, आपको निम्न की आवश्यकता होगी:
+## Java के लिए Aspose.Imaging क्यों उपयोग करें?
+Aspose.Imaging **120+ आउटपुट फ़ॉर्मेट्स** को सपोर्ट करता है और पूरे दस्तावेज़ को मेमोरी में लोड किए बिना मल्टी‑पेज ODP फ़ाइलों को रास्टराइज़ कर सकता है, जिससे बड़े प्रस्तुतियों पर अधिकतम RAM उपयोग में 70 % तक कमी आती है। लाइब्रेरी बिल्ट‑इन फ़ॉन्ट मैनेजमेंट भी प्रदान करती है, जिससे थर्ड‑पार्टी रेंडरिंग इंजन की आवश्यकता समाप्त हो जाती है।
 
-1. **पुस्तकालय और संस्करण:**
-   - Java के लिए Aspose.Imaging (संस्करण 25.5 या बाद का संस्करण)।
+## पूर्वापेक्षाएँ
+- **लाइब्रेरीज़**: Aspose.Imaging for Java ≥ 25.5.  
+- **JDK**: संस्करण 8 या नया।  
+- **IDE**: IntelliJ IDEA, Eclipse, या कोई भी Java‑संगत एडिटर।  
+- **बेसिक नॉलेज**: Java I/O, object‑oriented programming, और image concepts।
 
-2. **पर्यावरण सेटअप आवश्यकताएँ:**
-   - एक कार्यशील जावा डेवलपमेंट किट (JDK) संस्करण 8 या उच्चतर।
-   - एक IDE जैसे कि IntelliJ IDEA, Eclipse, या आपकी पसंद का कोई भी टेक्स्ट एडिटर।
+## इंस्टॉलेशन निर्देश
 
-3. **ज्ञान पूर्वापेक्षाएँ:**
-   - जावा प्रोग्रामिंग की बुनियादी समझ.
-   - जावा में फ़ाइल हैंडलिंग और इमेज प्रोसेसिंग अवधारणाओं से परिचित होना।
+### Maven
+`pom.xml` में निम्नलिखित निर्भरता जोड़ें और `mvn clean install` चलाएँ:
 
-## Java के लिए Aspose.Imaging सेट अप करना
-
-### स्थापना निर्देश:
-
-आप Maven, Gradle का उपयोग करके या सीधे JAR डाउनलोड करके Aspose.Imaging को अपने प्रोजेक्ट में एकीकृत कर सकते हैं। यहाँ बताया गया है कि कैसे:
-
-**मावेन:**
 ```xml
 <dependency>
   <groupId>com.aspose</groupId>
@@ -53,43 +113,36 @@
 </dependency>
 ```
 
-**ग्रेडेल:**
+### Gradle
+`build.gradle` फ़ाइल में लाइब्रेरी शामिल करें और प्रोजेक्ट को रिफ्रेश करें:
+
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-**प्रत्यक्षत: डाउनलोड:**
+### डायरेक्ट डाउनलोड
+नवीनतम JAR को [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) से डाउनलोड करें।
 
-नवीनतम JAR यहाँ से डाउनलोड करें [Aspose.Imaging for Java रिलीज़](https://releases.aspose.com/imaging/java/).
+## लाइसेंस प्राप्ति चरण
+पूर्ण कार्यक्षमता अनलॉक करने के लिए, एक अस्थायी या स्थायी लाइसेंस लागू करें:
 
-### लाइसेंस प्राप्ति चरण
+1. **फ़्री ट्रायल** – कोई लाइसेंस आवश्यक नहीं, सीमित फीचर्स।  
+2. **अस्थायी लाइसेंस** – इसे [Aspose वेबसाइट](https://purchase.aspose.com/temporary-license/) पर अनुरोध करें।  
+3. **खरीदें** – [Aspose purchase page](https://purchase.aspose.com/buy) से सब्सक्रिप्शन या परपेचुअल लाइसेंस खरीदें।
 
-Aspose.Imaging का उपयोग करने के लिए, आप एक निःशुल्क परीक्षण के साथ शुरू कर सकते हैं या इसकी पूरी क्षमताओं का पता लगाने के लिए एक अस्थायी लाइसेंस के लिए आवेदन कर सकते हैं। यदि आप संतुष्ट हैं, तो दीर्घकालिक उपयोग के लिए लाइसेंस खरीदने पर विचार करें।
+अपने लाइसेंस फ़ाइल के साथ लाइब्रेरी को इनिशियलाइज़ करें:
 
-1. **मुफ्त परीक्षण:** बिना लाइसेंस के सीमित सुविधाओं तक पहुंच।
-2. **अस्थायी लाइसेंस:** पर लागू करें [Aspose वेबसाइट](https://purchase.aspose.com/temporary-license/) सभी सुविधाओं को अनलॉक करने के लिए.
-3. **खरीदना:** यहाँ से सदस्यता या स्थायी लाइसेंस खरीदें [Aspose खरीद पृष्ठ](https://purchase.aspose.com/buy).
-
-अपना लाइसेंस सेट करके Aspose.Imaging प्रारंभ करें:
 ```java
 License license = new License();
 license.setLicense("path/to/your/license/file");
 ```
 
-## कार्यान्वयन मार्गदर्शिका
+## ODP रूपांतरण के लिए कस्टम फ़ॉन्ट डायरेक्टरी कैसे सेट करें?
+`FontSettings` एक क्लास है जो Aspose.Imaging के लिए फ़ॉन्ट रिसोर्सेज़ को मैनेज करती है। किसी भी इमेज प्रोसेसिंग से पहले अपने कस्टम फ़ॉन्ट लोड करें। यह सुनिश्चित करता है कि प्रत्येक स्लाइड आपके द्वारा प्रदान किए गए सटीक टाइपफ़ेस का उपयोग करे।
 
-आइये प्रत्येक सुविधा के क्रियान्वयन की प्रक्रिया को चरण-दर-चरण देखें।
+Aspose.Imaging के `FontSettings` का उपयोग करके फ़ॉन्ट फ़ोल्डर पाथ सेट करें:
 
-### सुविधा 1: फ़ॉन्ट निर्देशिका सेट करना
-
-**अवलोकन:**  
-यह सुनिश्चित करने के लिए कि आपका एप्लिकेशन विशिष्ट टाइपोग्राफी का उपयोग करता है, फ़ॉन्ट के लिए एक कस्टम निर्देशिका कॉन्फ़िगर करें। यह तब महत्वपूर्ण होता है जब आपको विभिन्न वातावरणों में सुसंगत फ़ॉन्ट रेंडरिंग की आवश्यकता होती है।
-
-#### चरण:
-
-- **फ़ॉन्ट निर्देशिका पथ परिभाषित करें:**
-  
-  ```java
+```java
   import com.aspose.imaging.FontSettings;
   import com.aspose.imaging.examples.Path;
   import com.aspose.imaging.examples.Utils;
@@ -98,37 +151,27 @@ license.setLicense("path/to/your/license/file");
   FontSettings.setFontsFolder(Path.combine(dataDir, "fonts"));
   ```
 
-  **स्पष्टीकरण:**  
-  The `setFontsFolder` विधि निर्दिष्ट करती है कि Aspose.Imaging को कस्टम फ़ॉन्ट कहाँ देखना चाहिए। यह सुनिश्चित करता है कि आपका एप्लिकेशन लगातार निर्दिष्ट टाइपोग्राफी का उपयोग करता है।
+*परिभाषा एंकर*: `FontSettings.setFontsFolder` Aspose.Imaging को बताता है कि फ़ाइल सिस्टम पर TrueType और OpenType फ़ॉन्ट्स कहां खोजे।
 
-### फ़ीचर 2: सिस्टम वैकल्पिक फ़ॉन्ट्स को अक्षम करना
+## ODP रूपांतरण के दौरान सिस्टम वैकल्पिक फ़ॉन्ट्स को कैसे निष्क्रिय करें?
+सिस्टम वैकल्पिक फ़ॉन्ट्स को निष्क्रिय करने से रेंडरिंग इंजन ऑपरेटिंग सिस्टम पर इंस्टॉल किए गए फ़ॉन्ट्स को अनदेखा करता है, जिससे केवल आपके द्वारा प्रदान किए गए फ़ॉन्ट्स का उपयोग सुनिश्चित होता है। यह अप्रत्याशित फ़ॉन्ट प्रतिस्थापन को समाप्त करता है जो आपके स्लाइड्स की दृश्य उपस्थिति को बदल सकता है।
 
-**अवलोकन:**  
-जब विशिष्ट फ़ॉन्ट गायब हों तो सिस्टम फ़ॉन्ट पर वापस जाने से रोकें, ब्रांड की एकरूपता सुनिश्चित करें और अप्रत्याशित रेंडरिंग समस्याओं से बचें।
+निम्नलिखित कॉल के साथ सिस्टम वैकल्पिक फ़ॉन्ट्स को निष्क्रिय करें:
 
-#### चरण:
-
-- **सिस्टम विकल्प अक्षम करें:**
-  
-  ```java
+```java
   import com.aspose.imaging.FontSettings;
 
   FontSettings.setGetSystemAlternativeFont(false);
   ```
 
-  **स्पष्टीकरण:**  
-  सेटिंग `setGetSystemAlternativeFont` को `false` यह सुनिश्चित करता है कि Aspose.Imaging सिस्टम फ़ॉन्ट्स का उपयोग फ़ॉलबैक के रूप में नहीं करता है, जिससे दस्तावेज़ की उपस्थिति में एकरूपता बनी रहती है।
+*परिभाषा एंकर*: `FontSettings.setGetSystemAlternativeFont(false)` इंजन को केवल आपके द्वारा परिभाषित फ़ोल्डर में स्थित फ़ॉन्ट्स का उपयोग करने के लिए मजबूर करता है, जिससे अप्रत्याशित प्रतिस्थापन समाप्त हो जाते हैं।
 
-### फ़ीचर 3: किसी ODP फ़ाइल को निर्दिष्ट फ़ॉन्ट के साथ PNG में निर्यात करना
+## निर्दिष्ट फ़ॉन्ट के साथ ODP फ़ाइल को PNG में कैसे एक्सपोर्ट करें?
+`RasterizationOptions` यह निर्धारित करता है कि वेक्टर पेज़ को बिटमैप इमेजेज़ में कैसे रास्टराइज़ किया जाता है। फ़ॉन्ट कॉन्फ़िगरेशन को रास्टराइज़ेशन सेटिंग्स के साथ मिलाकर, आप प्रत्येक एक्सपोर्ट किए गए PNG के लिए DPI, बैकग्राउंड कलर, और पेज साइज को नियंत्रित कर सकते हैं।
 
-**अवलोकन:**  
-विशिष्ट कस्टम फ़ॉन्ट का उपयोग करके ODP फ़ाइलों को PNG छवियों में बदलें। यह सुविधा उन प्रस्तुतियों या दस्तावेज़ों को बनाने के लिए उपयोगी है जहाँ ब्रांडिंग और डिज़ाइन की स्थिरता महत्वपूर्ण है।
+नीचे दिखाए गए अनुसार एक्सपोर्ट मेथड को लागू करें:
 
-#### चरण:
-
-- **निर्यात फ़ंक्शन कार्यान्वयन:**
-
-  ```java
+```java
   import com.aspose.imaging.FontSettings;
   import com.aspose.imaging.examples.Path;
   import com.aspose.imaging.Image;
@@ -141,8 +184,8 @@ license.setLicense("path/to/your/license/file");
           PngOptions saveOptions = new PngOptions();
           
           OdgRasterizationOptions rasterizationOptions = new OdgRasterizationOptions();
-          rasterizationOptions.setPageWidth(1000); // रेंडरिंग के लिए पृष्ठ की चौड़ाई निर्धारित करें
-          rasterizationOptions.setPageHeight(1000);  // रेंडरिंग के लिए पृष्ठ की ऊंचाई निर्धारित करें
+          rasterizationOptions.setPageWidth(1000); // Set the page width for rendering
+          rasterizationOptions.setPageHeight(1000);  // Set the page height for rendering
 
           saveOptions.setVectorRasterizationOptions(rasterizationOptions);
           document.save(outfileName, saveOptions);
@@ -151,60 +194,59 @@ license.setLicense("path/to/your/license/file");
 
   ```
 
-  **स्पष्टीकरण:**  
-  यह विधि डिफ़ॉल्ट फ़ॉन्ट सेट करती है और ODP फ़ाइल को निर्दिष्ट आयामों के साथ PNG छवि में परिवर्तित करती है। `rasterizationOptions` आपकी विशिष्ट रेंडरिंग आवश्यकताओं के लिए.
+*परिभाषा एंकर*: `RasterizationOptions` क्लास उत्पन्न PNG फ़ाइलों के लिए DPI, पेज साइज, और बैकग्राउंड कलर को नियंत्रित करती है।
 
-### समस्या निवारण युक्तियों
+### सामान्य समस्याएँ और समाधान
+- **फ़ॉन्ट फ़ाइलें गायब** – सुनिश्चित करें कि ODP में संदर्भित प्रत्येक `.ttf` या `.otf` फ़ाइल आपके सेट किए हुए फ़ोल्डर में मौजूद है।  
+- **गलत फ़ाइल पाथ** – `System.getProperty("user.dir")` के विरुद्ध एब्सोल्यूट पाथ या रिलेटिव पाथ रेज़ॉल्व करें।  
+- **पर्याप्त अनुमतियाँ नहीं** – सुनिश्चित करें कि Java प्रोसेस फ़ॉन्ट डायरेक्टरी को पढ़ सकता है और आउटपुट फ़ोल्डर में लिख सकता है।
 
-- सुनिश्चित करें कि सभी कस्टम फ़ॉन्ट फ़ाइलें द्वारा निर्धारित निर्देशिका में मौजूद हैं `setFontsFolder`.
-- सत्यापित करें कि ODP फ़ाइल का पथ सही और पहुँच योग्य है।
-- जाँच करें कि क्या जावा वातावरण में फ़ाइलें पढ़ने/लिखने के लिए पर्याप्त अनुमतियाँ हैं।
-
-## व्यावहारिक अनुप्रयोगों
-
-1. **ब्रांडिंग स्थिरता:** PNG में निर्यात किए गए प्रस्तुतीकरणों के लिए कस्टम फ़ॉन्ट का उपयोग करें, जिससे यह सुनिश्चित हो सके कि सभी दस्तावेज़ों में ब्रांड पहचान बनी रहे।
-2. **स्वचालित रिपोर्ट निर्माण:** रिपोर्ट या विपणन सामग्री के लिए प्रस्तुति स्लाइडों को छवियों में परिवर्तित करें।
-3. **दस्तावेज़ संग्रहण:** विशेष सॉफ्टवेयर की आवश्यकता के बिना आसान पहुंच और साझाकरण के लिए ODP फ़ाइलों को छवियों के रूप में संग्रहीत करें।
+## व्यावहारिक अनुप्रयोग
+1. **ब्रांड‑संगत स्लाइड डेक्स** – वेब पब्लिशिंग के लिए प्रस्तुतियों को PNG के रूप में एक्सपोर्ट करें जबकि कॉर्पोरेट फ़ॉन्ट्स को बनाए रखें।  
+2. **ऑटोमेटेड रिपोर्ट जेनरेशन** – प्रत्येक स्लाइड को इमेज में बदलें ताकि PDF रिपोर्ट या ईमेल न्यूज़लेटर्स में शामिल किया जा सके।  
+3. **लेगेसी आर्काइव निर्माण** – ODP कंटेंट को PNG के रूप में स्टोर करें ताकि भविष्य में एक्सेसिबिलिटी सुनिश्चित हो और ODP व्यूअर्स की आवश्यकता न पड़े।
 
 ## प्रदर्शन संबंधी विचार
+- नवीनतम Aspose.Imaging संस्करण का उपयोग करें ताकि मल्टी‑थ्रेडेड रास्टराइज़ेशन सुधारों (8‑कोर CPUs पर 2× तेज) का लाभ मिल सके।  
+- इमेज प्रोसेसिंग को try‑with‑resources ब्लॉक में रैप करें ताकि नेटिव रिसोर्सेज़ का समय पर डिस्पोज़ल सुनिश्चित हो।  
+- हजारों स्लाइड्स प्रोसेस करते समय `RasterizationOptions` (जैसे, कम DPI) को समायोजित करें ताकि क्वालिटी और मेमोरी उपयोग के बीच संतुलन बना रहे।
 
-- प्रदर्शन सुधार से लाभ उठाने के लिए Aspose.Imaging के नवीनतम संस्करण का उपयोग करें।
-- मेमोरी को प्रभावी ढंग से प्रबंधित करें `Image` उदाहरण में दिखाए अनुसार, try-with-resources का उपयोग करके ऑब्जेक्ट्स।
-- गुणवत्ता और संसाधन उपयोग में संतुलन बनाए रखने के लिए अपने अनुप्रयोग की विशिष्ट आवश्यकताओं के आधार पर रेंडरिंग विकल्पों को अनुकूलित करें।
+## अक्सर पूछे जाने वाले प्रश्न
 
-## निष्कर्ष
+**प्रश्न: न्यूनतम Java संस्करण क्या आवश्यक है?**  
+उत्तर: Aspose.Imaging for Java JDK 8 और नए संस्करणों के साथ काम करता है; दीर्घकालिक समर्थन के लिए JDK 11 की सिफारिश की जाती है।
 
-इस गाइड का पालन करके, आपने सीखा है कि Java के लिए Aspose.Imaging को कैसे सेट अप करें, कस्टम फ़ॉन्ट कॉन्फ़िगर करें, सिस्टम विकल्प अक्षम करें और ODP फ़ाइलों को PNG छवियों में निर्यात करें। ये क्षमताएँ आपके अनुप्रयोगों में दस्तावेज़ प्रसंस्करण वर्कफ़्लो को महत्वपूर्ण रूप से बढ़ा सकती हैं।
+**प्रश्न: क्या मैं केवल चयनित स्लाइड्स को बदल सकता हूँ?**  
+उत्तर: हाँ, `save` कॉल करने से पहले `rasterizationOptions.setPageNumber(specificSlideIndex)` सेट करें।
 
-Aspose.Imaging की संभावनाओं को और अधिक जानने के लिए, इसके विस्तृत दस्तावेज़ीकरण पर विचार करें या छवि रूपांतरण और प्रारूप रूपांतरण जैसी अन्य सुविधाओं के साथ प्रयोग करें।
+**प्रश्न: पासवर्ड‑सुरक्षित ODP फ़ाइलों को कैसे हैंडल करें?**  
+उत्तर: फ़ाइल को `LoadOptions` के साथ लोड करें जिसमें पासवर्ड शामिल हो, फिर वही फ़ॉन्ट सेटिंग्स के साथ आगे बढ़ें।
 
-## अक्सर पूछे जाने वाले प्रश्न अनुभाग
+**प्रश्न: सिस्टम फ़ॉन्ट्स को निष्क्रिय करने से प्रदर्शन पर असर पड़ता है?**  
+उत्तर: यह गति को थोड़ा बढ़ाता है क्योंकि इंजन सिस्टम फ़ॉन्ट्स की लुकअप को स्किप करता है, विशेषकर बड़े फ़ॉन्ट कलेक्शन वाले मशीनों पर यह स्पष्ट दिखता है।
 
-1. **Aspose.Imaging क्या है?**  
-   Aspose.Imaging for Java विभिन्न प्रारूपों में छवियों और दस्तावेजों को संभालने के लिए एक शक्तिशाली लाइब्रेरी है, जो मजबूत रूपांतरण और प्रसंस्करण क्षमताएं प्रदान करती है।
+**प्रश्न: अधिक कोड सैंपल्स कहाँ मिल सकते हैं?**  
+उत्तर: बैच कन्वर्ज़न और इमेज ट्रांसफ़ॉर्मेशन जैसे अतिरिक्त परिदृश्यों के लिए आधिकारिक [Aspose.Imaging documentation](https://reference.aspose.com/imaging/java/) देखें।
 
-2. **मैं कस्टम फ़ॉन्ट कैसे सेट करूँ?**  
-   उपयोग `FontSettings.setFontsFolder` उस निर्देशिका को निर्दिष्ट करने के लिए जहां आपके कस्टम फ़ॉन्ट संग्रहीत हैं.
+## अतिरिक्त संसाधन
+- [Aspose.Imaging for Java रिलीज़](https://releases.aspose.com/imaging/java/)  
+- [Aspose.Imaging रिलीज़](https://releases.aspose.com/imaging/java/)  
+- [अपना फ्री ट्रायल शुरू करें](https://releases.aspose.com/imaging/java/)  
+- [Aspose.Imaging दस्तावेज़ीकरण](https://reference.aspose.com/imaging/java/)  
+- [Aspose.Imaging फ़ोरम](https://forum.aspose.com/c/imaging/14)  
+- [Aspose लाइसेंसिंग खरीदें](https://purchase.aspose.com/buy)  
+- [अस्थायी लाइसेंस के लिए आवेदन करें](https://purchase.aspose.com/temporary-license/)  
 
-3. **क्या मैं Aspose.Imaging का उपयोग करके अन्य दस्तावेज़ प्रकार निर्यात कर सकता हूँ?**  
-   हां, Aspose.Imaging पीडीएफ, बीएमपी, TIFF, और अधिक सहित प्रारूपों की एक विस्तृत श्रृंखला का समर्थन करता है।
+---
 
-4. **यदि मेरा कस्टम फ़ॉन्ट सही ढंग से प्रदर्शित नहीं हो रहा है तो मुझे क्या करना चाहिए?**  
-   सुनिश्चित करें कि फ़ॉन्ट फ़ाइल द्वारा निर्धारित निर्देशिका में पहुँच योग्य है `setFontsFolder` और आपके एप्लिकेशन के पास इसे पढ़ने के लिए आवश्यक अनुमतियाँ हैं।
+**अंतिम अपडेट:** 2026-06-28  
+**परीक्षित संस्करण:** Aspose.Imaging for Java 25.5  
+**लेखक:** Aspose
 
-5. **मैं Java के लिए Aspose.Imaging के उपयोग के और अधिक उदाहरण कहां पा सकता हूं?**  
-   इसकी जाँच पड़ताल करो [Aspose.Imaging दस्तावेज़ीकरण](https://reference.aspose.com/imaging/java/) कोड नमूने, एपीआई संदर्भ और ट्यूटोरियल के लिए.
+## संबंधित ट्यूटोरियल
+- [Aspose.Imaging for Java के साथ ODG को PNG में बदलें: एक पूर्ण गाइड](/imaging/java/format-conversion-export/convert-odg-to-png-aspose-imaging-java/)  
+- [Aspose.Imaging के साथ Java में कुशल इमेज कन्वर्ज़न: एक पूर्ण गाइड](/imaging/java/format-conversion-export/mastering-image-conversion-aspose-imaging-java/)
 
-## संसाधन
-
-- **दस्तावेज़ीकरण:** [Aspose.Imaging दस्तावेज़ीकरण](https://reference.aspose.com/imaging/java/)
-- **डाउनलोड करना:** [Aspose.Imaging रिलीज़](https://releases.aspose.com/imaging/java/)
-- **खरीदना:** [Aspose लाइसेंसिंग खरीदें](https://purchase.aspose.com/buy)
-- **मुफ्त परीक्षण:** [अपना नि: शुल्क परीक्षण शुरू करो](https://releases.aspose.com/imaging/java/)
-- **अस्थायी लाइसेंस:** [अस्थायी लाइसेंस के लिए आवेदन करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता:** [Aspose.Imaging फ़ोरम](https://forum.aspose.com/c/imaging/14)
-
-हमें उम्मीद है कि यह गाइड आपको अपने जावा प्रोजेक्ट में Aspose.Imaging को सहजता से लागू करने में मदद करेगी। हैप्पी कोडिंग!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

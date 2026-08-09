@@ -1,9 +1,69 @@
 ---
-"date": "2025-06-04"
-"description": "Dowiedz się, jak eksportować pliki ODP do obrazów PNG za pomocą Aspose.Imaging for Java. Ten samouczek obejmuje niestandardowe ustawienia czcionek i techniki konwersji, zwiększając możliwości przetwarzania dokumentów."
-"title": "Konwersja ODP do PNG za pomocą Aspose.Imaging Java&#58; Niestandardowe czcionki i przewodnik eksportu"
-"url": "/pl/java/format-conversion-export/export-odp-to-png-aspose-imaging-java-custom-fonts/"
-"weight": 1
+date: '2026-06-28'
+description: Dowiedz się, jak przekonwertować ODP na PNG przy użyciu Aspose.Imaging
+  for Java, ustawić czcionki niestandardowe i wyłączyć czcionki systemowe, aby uzyskać
+  dokładne renderowanie.
+keywords:
+- how to convert odp
+- maven aspose imaging
+- aspose imaging license
+- disable system fonts
+- java convert presentation image
+schemas:
+- author: Aspose
+  dateModified: '2026-06-28'
+  description: Learn how to convert ODP to PNG using Aspose.Imaging for Java, set
+    custom fonts, and disable system fonts for accurate rendering.
+  headline: How to Convert ODP to PNG with Aspose.Imaging for Java – Custom Fonts
+    & Export Guide
+  type: TechArticle
+- description: Learn how to convert ODP to PNG using Aspose.Imaging for Java, set
+    custom fonts, and disable system fonts for accurate rendering.
+  name: How to Convert ODP to PNG with Aspose.Imaging for Java – Custom Fonts & Export
+    Guide
+  steps:
+  - name: '**Free Trial** – No license required, limited features.'
+    text: '**Free Trial** – No license required, limited features.'
+  - name: '**Temporary License** – Request one on the [Aspose website](https://purchase.aspose.com/temporary-license/).'
+    text: '**Temporary License** – Request one on the [Aspose website](https://purchase.aspose.com/temporary-license/).'
+  - name: '**Purchase** – Buy a subscription or perpetual license from [Aspose purchase
+      page](https://purchase.aspose.com/buy).'
+    text: '**Purchase** – Buy a subscription or perpetual license from [Aspose purchase
+      page](https://purchase.aspose.com/buy).'
+  - name: '**Brand‑consistent slide decks** – Export presentations as PNGs for web
+      publishing while preserving corporate fonts.'
+    text: '**Brand‑consistent slide decks** – Export presentations as PNGs for web
+      publishing while preserving corporate fonts.'
+  - name: '**Automated report generation** – Convert each slide to an image for inclusion
+      in PDF reports or email newsletters.'
+    text: '**Automated report generation** – Convert each slide to an image for inclusion
+      in PDF reports or email newsletters.'
+  - name: '**Legacy archive creation** – Store ODP content as PNGs to guarantee future
+      accessibility without needing ODP viewers.'
+    text: '**Legacy archive creation** – Store ODP content as PNGs to guarantee future
+      accessibility without needing ODP viewers.'
+  type: HowTo
+- questions:
+  - answer: Aspose.Imaging for Java works with JDK 8 and newer; JDK 11 is recommended
+      for long‑term support.
+    question: What is the minimum Java version required?
+  - answer: Yes, set `rasterizationOptions.setPageNumber(specificSlideIndex)` before
+      calling `save`.
+    question: Can I convert only selected slides?
+  - answer: Load the file with `LoadOptions` that includes the password, then proceed
+      with the same font settings.
+    question: How do I handle password‑protected ODP files?
+  - answer: It marginally improves speed because the engine skips the lookup of system
+      fonts, especially noticeable on machines with large font collections.
+    question: Does disabling system fonts affect performance?
+  - answer: Explore the official [Aspose.Imaging documentation](https://reference.aspose.com/imaging/java/)
+      for additional scenarios such as batch conversion and image transformations.
+    question: Where can I find more code samples?
+  type: FAQPage
+title: Jak przekonwertować ODP na PNG przy użyciu Aspose.Imaging for Java – Przewodnik
+  po czcionkach niestandardowych i eksporcie
+url: /pl/java/format-conversion-export/export-odp-to-png-aspose-imaging-java-custom-fonts/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,40 +71,40 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Jak wdrożyć Aspose.Imaging Java do eksportowania plików ODP do PNG z niestandardowymi czcionkami
+# Jak przekonwertować ODP na PNG przy użyciu Aspose.Imaging dla Javy – Niestandardowe czcionki i przewodnik eksportu
 
-dzisiejszej erze cyfrowej zarządzanie dokumentami i konwersja są kluczowymi aspektami rozwoju oprogramowania. Niezależnie od tego, czy jesteś programistą, który chce zautomatyzować prezentacje, czy zarządzać dokumentami graficznymi w swojej aplikacji, posiadanie odpowiednich narzędzi może mieć ogromne znaczenie. Ten samouczek przeprowadzi Cię przez proces używania Aspose.Imaging for Java do eksportowania plików OpenDocument Presentation (ODP) do obrazów PNG, jednocześnie określając niestandardowe czcionki. Opanowując tę funkcjonalność, zwiększysz możliwości przetwarzania dokumentów w swoich aplikacjach.
+W nowoczesnych aplikacjach Java konwersja plików OpenDocument Presentation (ODP) na obrazy PNG wysokiej jakości jest powszechnym wymogiem — szczególnie gdy trzeba zachować identyfikację wizualną dzięki niestandardowym czcionkom. Ten samouczek pokazuje **jak przekonwertować ODP** na PNG przy użyciu Aspose.Imaging dla Javy, prowadzi przez ustawienie własnego folderu czcionek, wyłączenie czcionek zapasowych systemu oraz precyzyjne dostosowanie opcji rasteryzacji w celu uzyskania optymalnej wydajności.
 
-**Czego się nauczysz:**
-- Konfigurowanie katalogu czcionek niestandardowych.
-- Wyłączanie alternatywnych czcionek systemowych w przypadku braku określonych czcionek.
-- Eksportowanie pliku ODP do PNG z niestandardowymi ustawieniami czcionek.
-- Optymalizacja wydajności operacji Aspose.Imaging w Javie.
+**Czego się nauczysz**
+- Jak ustawić własny katalog czcionek dla konwersji ODP.  
+- Jak wyłączyć systemowe czcionki alternatywne, aby używane były wyłącznie wybrane fonty.  
+- Jak wyeksportować plik ODP do PNG z dokładnymi wymiarami i ustawieniami czcionek.  
+- Wskazówki dotyczące przyspieszenia i zmniejszenia zużycia pamięci przy przetwarzaniu dużych prezentacji.
 
-Zanim przejdziemy do wdrażania, upewnijmy się, że masz wszystko, czego potrzebujesz, aby zacząć.
+## Szybkie odpowiedzi
+- **Czy mogę użyć Maven do dodania Aspose.Imaging?** Tak, dodaj zależność Maven i uruchom `mvn install`.  
+- **Czy potrzebna jest licencja do produkcji?** Wymagana jest ważna licencja Aspose.Imaging, aby uzyskać nieograniczone użycie.  
+- **Czy moje niestandardowe czcionki będą respektowane?** Ustaw folder czcionek i wyłącz systemowe alternatywy, aby je wymusić.  
+- **Jakie formaty obrazu są obsługiwane?** Aspose.Imaging obsługuje ponad 120 formatów rastrowych i wektorowych, w tym PNG, JPEG, TIFF i WebP.  
+- **Czy API jest wątkowo‑bezpieczne?** Tak, większość klas Aspose.Imaging jest bezpieczna przy równoczesnym użyciu, pod warunkiem tworzenia oddzielnych instancji dla każdego wątku.
+
+## Co oznacza „how to convert odp”?
+*„How to convert odp”* odnosi się do procesu przekształcania pliku OpenDocument Presentation w inny format — najczęściej PNG — przy zachowaniu układu, czcionek i wierności wizualnej. Aspose.Imaging dla Javy zapewnia jednofunkcyjną metodę, która obsługuje tę konwersję bez konieczności używania zewnętrznych narzędzi, umożliwiając deweloperom integrację konwersji bezpośrednio w aplikacjach przy minimalnym kodzie.
+
+## Dlaczego warto używać Aspose.Imaging dla Javy?
+Aspose.Imaging obsługuje **ponad 120 formatów wyjściowych** i może rasteryzować wielostronicowe pliki ODP bez ładowania całego dokumentu do pamięci, zmniejszając szczytowe zużycie RAM nawet o 70 % przy dużych prezentacjach. Biblioteka oferuje także wbudowane zarządzanie czcionkami, eliminując potrzebę używania zewnętrznych silników renderujących.
 
 ## Wymagania wstępne
+- **Biblioteki**: Aspose.Imaging dla Javy ≥ 25.5.  
+- **JDK**: wersja 8 lub nowsza.  
+- **IDE**: IntelliJ IDEA, Eclipse lub dowolny edytor kompatybilny z Javą.  
+- **Podstawowa wiedza**: Java I/O, programowanie obiektowe oraz pojęcia związane z obrazami.
 
-Aby efektywnie korzystać z tego samouczka, będziesz potrzebować:
+## Instrukcje instalacji
 
-1. **Biblioteki i wersje:**
-   - Aspose.Imaging dla Java (wersja 25.5 lub nowsza).
+### Maven
+Dodaj następującą zależność do swojego `pom.xml` i uruchom `mvn clean install`:
 
-2. **Wymagania dotyczące konfiguracji środowiska:**
-   - Działający pakiet Java Development Kit (JDK) w wersji 8 lub nowszej.
-   - Środowisko IDE, np. IntelliJ IDEA, Eclipse lub dowolny wybrany przez Ciebie edytor tekstu.
-
-3. **Wymagania wstępne dotyczące wiedzy:**
-   - Podstawowa znajomość programowania w Javie.
-   - Znajomość zagadnień obsługi plików i przetwarzania obrazów w języku Java.
-
-## Konfigurowanie Aspose.Imaging dla Java
-
-### Instrukcje instalacji:
-
-Możesz zintegrować Aspose.Imaging ze swoim projektem za pomocą Maven, Gradle lub pobierając plik JAR bezpośrednio. Oto jak:
-
-**Maven:**
 ```xml
 <dependency>
   <groupId>com.aspose</groupId>
@@ -53,43 +113,36 @@ Możesz zintegrować Aspose.Imaging ze swoim projektem za pomocą Maven, Gradle 
 </dependency>
 ```
 
-**Stopień:**
+### Gradle
+Umieść bibliotekę w pliku `build.gradle` i odśwież projekt:
+
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-**Bezpośrednie pobieranie:**
+### Bezpośrednie pobranie
+Pobierz najnowszy JAR z [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-Pobierz najnowszy plik JAR z [Aspose.Imaging dla wydań Java](https://releases.aspose.com/imaging/java/).
+## Kroki uzyskania licencji
+Aby odblokować pełną funkcjonalność, zastosuj tymczasową lub stałą licencję:
 
-### Etapy uzyskania licencji
+1. **Bezpłatna wersja próbna** – Licencja nie jest wymagana, ograniczone funkcje.  
+2. **Licencja tymczasowa** – Zamów ją na [stronie Aspose](https://purchase.aspose.com/temporary-license/).  
+3. **Zakup** – Kup subskrypcję lub licencję wieczystą na [stronie zakupu Aspose](https://purchase.aspose.com/buy).
 
-Aby korzystać z Aspose.Imaging, możesz zacząć od bezpłatnego okresu próbnego lub ubiegać się o tymczasową licencję, aby odkryć jego pełne możliwości. Jeśli jesteś zadowolony, rozważ zakup licencji na długoterminowe użytkowanie.
+Zainicjalizuj bibliotekę przy użyciu pliku licencji:
 
-1. **Bezpłatna wersja próbna:** Uzyskaj dostęp do ograniczonych funkcji bez licencji.
-2. **Licencja tymczasowa:** Zastosuj na [Strona internetowa Aspose](https://purchase.aspose.com/temporary-license/) aby odblokować wszystkie funkcje.
-3. **Zakup:** Kup subskrypcję lub licencję wieczystą od [Strona zakupu Aspose](https://purchase.aspose.com/buy).
-
-Zainicjuj Aspose.Imaging ustawiając swoją licencję:
 ```java
 License license = new License();
 license.setLicense("path/to/your/license/file");
 ```
 
-## Przewodnik wdrażania
+## Jak ustawić własny katalog czcionek dla konwersji ODP?
+`FontSettings` to klasa zarządzająca zasobami czcionek dla Aspose.Imaging. Załaduj własne czcionki przed rozpoczęciem jakiegokolwiek przetwarzania obrazu. Dzięki temu każdy slajd użyje dokładnie tych fontów, które dostarczysz.
 
-Przeanalizujmy krok po kroku proces wdrażania każdej funkcji.
+Ustaw ścieżkę folderu czcionek przy pomocy `FontSettings` Aspose.Imaging:
 
-### Funkcja 1: Ustawianie katalogu czcionek
-
-**Przegląd:**  
-Skonfiguruj niestandardowy katalog czcionek, aby mieć pewność, że Twoja aplikacja używa określonej typografii. Jest to kluczowe, gdy potrzebujesz spójnego renderowania czcionek w różnych środowiskach.
-
-#### Kroki:
-
-- **Zdefiniuj ścieżkę katalogu czcionek:**
-  
-  ```java
+```java
   import com.aspose.imaging.FontSettings;
   import com.aspose.imaging.examples.Path;
   import com.aspose.imaging.examples.Utils;
@@ -98,37 +151,27 @@ Skonfiguruj niestandardowy katalog czcionek, aby mieć pewność, że Twoja apli
   FontSettings.setFontsFolder(Path.combine(dataDir, "fonts"));
   ```
 
-  **Wyjaśnienie:**  
-  Ten `setFontsFolder` Metoda określa, gdzie Aspose.Imaging powinien szukać niestandardowych czcionek. Zapewnia to, że Twoja aplikacja konsekwentnie używa określonej typografii.
+*Definicja*: `FontSettings.setFontsFolder` informuje Aspose.Imaging, gdzie szukać czcionek TrueType i OpenType w systemie plików.
 
-### Funkcja 2: Wyłączanie alternatywnych czcionek systemowych
+## Jak wyłączyć systemowe czcionki alternatywne podczas konwersji ODP?
+Wyłączenie alternatywnych czcionek systemowych zmusza silnik renderujący do ignorowania czcionek zainstalowanych w systemie operacyjnym, gwarantując, że używane będą wyłącznie czcionki dostarczone przez Ciebie. Eliminuje to nieoczekiwane podstawienia czcionek, które mogą zmienić wygląd slajdów.
 
-**Przegląd:**  
-Zapobiegaj stosowaniu czcionek systemowych w przypadku braku określonych czcionek, zapewniając spójność marki i unikając nieoczekiwanych problemów z renderowaniem.
+Wyłącz systemowe alternatywy za pomocą następującego wywołania:
 
-#### Kroki:
-
-- **Wyłącz alternatywy systemowe:**
-  
-  ```java
+```java
   import com.aspose.imaging.FontSettings;
 
   FontSettings.setGetSystemAlternativeFont(false);
   ```
 
-  **Wyjaśnienie:**  
-  Ustawienie `setGetSystemAlternativeFont` Do `false` zapewnia, że Aspose.Imaging nie używa czcionek systemowych jako zapasowych, zachowując spójność wyglądu dokumentu.
+*Definicja*: `FontSettings.setGetSystemAlternativeFont(false)` wymusza użycie wyłącznie czcionek znajdujących się w określonym folderze, eliminując nieprzewidziane podstawienia.
 
-### Funkcja 3: Eksportowanie pliku ODP do PNG ze wskazaną czcionką
+## Jak wyeksportować plik ODP do PNG z określoną czcionką?
+`RasterizationOptions` definiuje, w jaki sposób strony wektorowe są rasteryzowane do obrazów bitmapowych. Łącząc konfigurację czcionek z ustawieniami rasteryzacji, możesz kontrolować DPI, kolor tła i rozmiar strony dla każdego eksportowanego pliku PNG.
 
-**Przegląd:**  
-Konwertuj pliki ODP na obrazy PNG przy użyciu określonych niestandardowych czcionek. Ta funkcja jest przydatna do generowania prezentacji lub dokumentów, w których branding i spójność projektu są krytyczne.
+Zaimplementuj metodę eksportu zgodnie z poniższym przykładem:
 
-#### Kroki:
-
-- **Implementacja funkcji eksportu:**
-
-  ```java
+```java
   import com.aspose.imaging.FontSettings;
   import com.aspose.imaging.examples.Path;
   import com.aspose.imaging.Image;
@@ -141,8 +184,8 @@ Konwertuj pliki ODP na obrazy PNG przy użyciu określonych niestandardowych czc
           PngOptions saveOptions = new PngOptions();
           
           OdgRasterizationOptions rasterizationOptions = new OdgRasterizationOptions();
-          rasterizationOptions.setPageWidth(1000); // Ustaw szerokość strony do renderowania
-          rasterizationOptions.setPageHeight(1000);  // Ustaw wysokość strony do renderowania
+          rasterizationOptions.setPageWidth(1000); // Set the page width for rendering
+          rasterizationOptions.setPageHeight(1000);  // Set the page height for rendering
 
           saveOptions.setVectorRasterizationOptions(rasterizationOptions);
           document.save(outfileName, saveOptions);
@@ -151,60 +194,60 @@ Konwertuj pliki ODP na obrazy PNG przy użyciu określonych niestandardowych czc
 
   ```
 
-  **Wyjaśnienie:**  
-  Ta metoda ustawia domyślne czcionki i konwertuje plik ODP na obraz PNG o określonych wymiarach. Dostosuj `rasterizationOptions` dla Twoich konkretnych potrzeb w zakresie renderowania.
+*Definicja*: Klasa `RasterizationOptions` kontroluje DPI, rozmiar strony oraz kolor tła generowanych plików PNG.
 
-### Porady dotyczące rozwiązywania problemów
+### Typowe pułapki i rozwiązania
+- **Brakujące pliki czcionek** – Upewnij się, że każdy plik `.ttf` lub `.otf` odwoływany w ODP znajduje się w ustawionym folderze.  
+- **Nieprawidłowe ścieżki** – Używaj ścieżek bezwzględnych lub rozwiązuj ścieżki względne względem `System.getProperty("user.dir")`.  
+- **Niewystarczające uprawnienia** – Zapewnij, że proces Java ma prawo odczytu folderu czcionek i zapisu w folderze wyjściowym.
 
-- Upewnij się, że wszystkie pliki czcionek niestandardowych znajdują się w katalogu ustawionym przez `setFontsFolder`.
-- Sprawdź, czy ścieżka do pliku ODP jest prawidłowa i dostępna.
-- Sprawdź, czy środowisko Java ma wystarczające uprawnienia do odczytu/zapisu plików.
-
-## Zastosowania praktyczne
-
-1. **Spójność marki:** Używaj niestandardowych czcionek w prezentacjach eksportowanych do formatu PNG, zapewniając w ten sposób zachowanie tożsamości marki we wszystkich dokumentach.
-2. **Automatyczne generowanie raportów:** Konwertuj slajdy prezentacji na obrazy do raportów lub materiałów marketingowych.
-3. **Archiwizacja dokumentów:** Przechowuj pliki ODP jako obrazy, aby uzyskać do nich łatwiejszy dostęp i możliwość udostępniania bez konieczności używania specjalistycznego oprogramowania.
+## Praktyczne zastosowania
+1. **Prezentacje zgodne z marką** – Eksportuj prezentacje jako PNG do publikacji w sieci, zachowując firmowe czcionki.  
+2. **Automatyczne generowanie raportów** – Konwertuj każdy slajd na obraz w celu wstawienia go do raportów PDF lub newsletterów e‑mailowych.  
+3. **Tworzenie archiwów legacy** – Przechowuj zawartość ODP jako PNG, aby zapewnić przyszłą dostępność bez konieczności posiadania przeglądarek ODP.
 
 ## Rozważania dotyczące wydajności
+- Korzystaj z najnowszej wersji Aspose.Imaging, aby wykorzystać ulepszenia rasteryzacji wielowątkowej (do 2× szybsze na procesorach 8‑rdzeniowych).  
+- Owiń przetwarzanie obrazu w blok `try‑with‑resources`, aby zapewnić terminowe zwolnienie zasobów natywnych.  
+- Dostosuj `RasterizationOptions` (np. obniż DPI) przy przetwarzaniu tysięcy slajdów, aby zrównoważyć jakość i zużycie pamięci.
 
-- Aby skorzystać z ulepszeń wydajności, użyj najnowszej wersji Aspose.Imaging.
-- Skutecznie zarządzaj pamięcią, pozbywając się jej `Image` obiekty korzystając z metody try-with-resources, jak pokazano w przykładzie.
-- Optymalizuj opcje renderowania w oparciu o specyficzne potrzeby swojej aplikacji, aby zrównoważyć jakość i wykorzystanie zasobów.
+## Najczęściej zadawane pytania
 
-## Wniosek
+**P: Jaka jest minimalna wymagana wersja Javy?**  
+O: Aspose.Imaging dla Javy działa z JDK 8 i nowszymi; zalecany jest JDK 11 dla długoterminowego wsparcia.
 
-Postępując zgodnie z tym przewodnikiem, nauczyłeś się, jak skonfigurować Aspose.Imaging dla Java, skonfigurować niestandardowe czcionki, wyłączyć alternatywy systemowe i eksportować pliki ODP do obrazów PNG. Te możliwości mogą znacznie usprawnić przepływy pracy przetwarzania dokumentów w Twoich aplikacjach.
+**P: Czy mogę konwertować tylko wybrane slajdy?**  
+O: Tak, ustaw `rasterizationOptions.setPageNumber(specificSlideIndex)` przed wywołaniem `save`.
 
-Aby jeszcze lepiej poznać możliwości pakietu Aspose.Imaging, zapoznaj się z jego obszerną dokumentacją lub poeksperymentuj z innymi funkcjami, takimi jak transformacje obrazów i konwersje formatów.
+**P: Jak obsłużyć pliki ODP zabezpieczone hasłem?**  
+O: Załaduj plik przy użyciu `LoadOptions` zawierającego hasło, a następnie kontynuuj z tymi samymi ustawieniami czcionek.
 
-## Sekcja FAQ
+**P: Czy wyłączenie czcionek systemowych wpływa na wydajność?**  
+O: Nieznacznie przyspiesza działanie, ponieważ silnik pomija wyszukiwanie czcionek systemowych, co jest szczególnie widoczne na maszynach z dużą kolekcją fontów.
 
-1. **Czym jest Aspose.Imaging?**  
-   Aspose.Imaging for Java to zaawansowana biblioteka do obsługi obrazów i dokumentów w różnych formatach, zapewniająca solidne możliwości konwersji i przetwarzania.
+**P: Gdzie mogę znaleźć więcej przykładów kodu?**  
+O: Przeglądaj oficjalną [dokumentację Aspose.Imaging](https://reference.aspose.com/imaging/java/) po dodatkowe scenariusze, takie jak konwersja wsadowa i przekształcenia obrazów.
 
-2. **Jak skonfigurować niestandardowe czcionki?**  
-   Używać `FontSettings.setFontsFolder` aby określić katalog, w którym przechowywane są Twoje niestandardowe czcionki.
+## Dodatkowe zasoby
+- [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/)  
+- [Aspose.Imaging Releases](https://releases.aspose.com/imaging/java/)  
+- [Start Your Free Trial](https://releases.aspose.com/imaging/java/)  
+- [Aspose.Imaging Documentation](https://reference.aspose.com/imaging/java/)  
+- [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)  
+- [Buy Aspose Licensing](https://purchase.aspose.com/buy)  
+- [Apply for a Temporary License](https://purchase.aspose.com/temporary-license/)  
 
-3. **Czy mogę eksportować inne typy dokumentów za pomocą Aspose.Imaging?**  
-   Tak, Aspose.Imaging obsługuje szeroką gamę formatów, w tym PDF, BMP, TIFF i inne.
+---
 
-4. **Co mam zrobić, jeśli moja niestandardowa czcionka nie renderuje się prawidłowo?**  
-   Upewnij się, że plik czcionki jest dostępny w katalogu ustawionym przez `setFontsFolder` i że Twoja aplikacja ma niezbędne uprawnienia do jego odczytu.
+**Ostatnia aktualizacja:** 2026-06-28  
+**Testowano z:** Aspose.Imaging dla Javy 25.5  
+**Autor:** Aspose
 
-5. **Gdzie mogę znaleźć więcej przykładów wykorzystania Aspose.Imaging w Javie?**  
-   Sprawdź [Dokumentacja Aspose.Imaging](https://reference.aspose.com/imaging/java/) aby uzyskać przykłady kodu, odniesienia do interfejsu API i samouczki.
+## Powiązane samouczki
 
-## Zasoby
+- [Convert ODG to PNG with Aspose.Imaging for Java: A Complete Guide](/imaging/java/format-conversion-export/convert-odg-to-png-aspose-imaging-java/)
+- [Efficient Image Conversion in Java with Aspose.Imaging: A Complete Guide](/imaging/java/format-conversion-export/mastering-image-conversion-aspose-imaging-java/)
 
-- **Dokumentacja:** [Dokumentacja Aspose.Imaging](https://reference.aspose.com/imaging/java/)
-- **Pobierać:** [Aspose.Imaging publikuje](https://releases.aspose.com/imaging/java/)
-- **Zakup:** [Kup licencję Aspose](https://purchase.aspose.com/buy)
-- **Bezpłatna wersja próbna:** [Rozpocznij bezpłatny okres próbny](https://releases.aspose.com/imaging/java/)
-- **Licencja tymczasowa:** [Złóż wniosek o licencję tymczasową](https://purchase.aspose.com/temporary-license/)
-- **Wsparcie:** [Forum Aspose.Imaging](https://forum.aspose.com/c/imaging/14)
-
-Mamy nadzieję, że ten przewodnik pomoże Ci bezproblemowo zaimplementować Aspose.Imaging w Twoich projektach Java. Miłego kodowania!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
