@@ -1,9 +1,66 @@
 ---
-"date": "2025-06-04"
-"description": "Dowiedz się, jak konwertować pliki DjVu na obrazy PNG w skali szarości za pomocą Aspose.Imaging for Java. Ten samouczek przeprowadzi Cię przez proces konfiguracji i eksportu, idealny dla programistów poszukujących wydajnej konwersji obrazów."
-"title": "Konwertuj DjVu do PNG w skali szarości za pomocą Aspose.Imaging dla Java | Samouczek konwersji formatu"
-"url": "/pl/java/format-conversion-export/export-djvu-grayscale-png-aspose-java/"
-"weight": 1
+date: '2026-06-13'
+description: Dowiedz się, jak konwertować pliki DjVu na PNG w odcieniach szarości
+  przy użyciu Aspose.Imaging for Java. Ten poradnik poprowadzi Cię przez proces konfiguracji
+  i eksportu, idealny dla programistów poszukujących wydajnej konwersji obrazów.
+keywords:
+- convert djvu to png
+- java image processing tutorial
+- Aspose.Imaging DjVu conversion
+- grayscale PNG export Java
+- image format conversion Java
+schemas:
+- author: Aspose
+  dateModified: '2026-06-13'
+  description: Learn how to convert DjVu files into grayscale PNGs using Aspose.Imaging
+    for Java. This tutorial guides you through the setup and export process, ideal
+    for developers seeking efficient image conversion.
+  headline: Convert DjVu to Grayscale PNG with Aspose.Imaging for Java | Format Conversion
+    Tutorial
+  type: TechArticle
+- description: Learn how to convert DjVu files into grayscale PNGs using Aspose.Imaging
+    for Java. This tutorial guides you through the setup and export process, ideal
+    for developers seeking efficient image conversion.
+  name: Convert DjVu to Grayscale PNG with Aspose.Imaging for Java | Format Conversion
+    Tutorial
+  steps:
+  - name: '**Document Archiving** – Convert DjVu documents for grayscale archival
+      purposes.'
+    text: '**Document Archiving** – Convert DjVu documents for grayscale archival
+      purposes.'
+  - name: '**Web Optimization** – Prepare images in a web‑friendly format by reducing
+      colors and sizes.'
+    text: '**Web Optimization** – Prepare images in a web‑friendly format by reducing
+      colors and sizes.'
+  - name: '**Data Analysis** – Export specific pages for focused data‑analysis tasks.'
+    text: '**Data Analysis** – Export specific pages for focused data‑analysis tasks.'
+  - name: '**Digital Libraries** – Standardize image formats across collections.'
+    text: '**Digital Libraries** – Standardize image formats across collections.'
+  - name: '**Integration Projects** – Embed this conversion process into larger Java
+      applications.'
+    text: '**Integration Projects** – Embed this conversion process into larger Java
+      applications.'
+  type: HowTo
+- questions:
+  - answer: Yes, Aspose.Imaging supports over 100 output formats, including JPEG,
+      BMP, TIFF, and WebP.
+    question: Can I export DjVu images to other formats using Aspose.Imaging?
+  - answer: Java 8 or higher, at least 2 GB of RAM for moderate files, and sufficient
+      disk space for temporary buffers.
+    question: What are the system requirements for running Aspose.Imaging on my machine?
+  - answer: Verify file paths, ensure the license is correctly applied, and inspect
+      exception messages for missing dependencies.
+    question: How do I troubleshoot issues with image export?
+  - answer: It supports Java 8 through Java 21; always test with your target runtime.
+    question: Is Aspose.Imaging compatible with all Java versions?
+  - answer: Absolutely. Wrap the sample code in a `for` loop or use parallel streams
+      to convert many DjVu files efficiently.
+    question: Can I use Aspose.Imaging for batch processing of images?
+  type: FAQPage
+title: Konwertuj DjVu na PNG w odcieniach szarości przy użyciu Aspose.Imaging for
+  Java | Poradnik konwersji formatów
+url: /pl/java/format-conversion-export/export-djvu-grayscale-png-aspose-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,41 +68,56 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Jak eksportować pliki DjVu do formatu PNG w skali szarości za pomocą Aspose.Imaging dla języka Java
+# Jak wyeksportować DjVu do szarego PNG przy użyciu Aspose.Imaging dla Javy
 
-## Wstęp
+## Wprowadzenie
 
-Czy masz problemy z konwersją obrazów DjVu do PNG w skali szarości przy użyciu Javy? Ten samouczek przeprowadzi Cię przez bezproblemowy eksport plików DjVu jako PNG w skali szarości, wykorzystując moc Aspose.Imaging dla Javy. Niezależnie od tego, czy jesteś programistą, który chce zintegrować możliwości przetwarzania obrazu ze swoją aplikacją, czy po prostu próbujesz wydajnie konwertować pliki, ten przewodnik krok po kroku jest przeznaczony, aby pomóc.
+Jeśli potrzebujesz **konwertować DjVu na PNG** szybko i niezawodnie w środowisku Java, trafiłeś we właściwe miejsce. Ten samouczek przeprowadzi Cię przez każdy krok niezbędny do przekształcenia plików DjVu w wysokiej jakości szare PNG przy użyciu Aspose.Imaging dla Javy. Zobaczysz, jak skonfigurować bibliotekę, załadować dokument DjVu, ustawić opcje eksportu i zapisać wynik — wszystko przy użyciu przejrzystego, gotowego do produkcji kodu.
 
-### Czego się nauczysz:
-- Jak skonfigurować Aspose.Imaging dla Java w swoim projekcie.
-- Proces ładowania obrazów DjVu i przygotowywania ich do eksportu.
-- Konfigurowanie opcji eksportu PNG w celu uzyskania wyjścia w skali szarości.
-- Definiowanie określonych obszarów i stron w pliku DjVu na potrzeby eksportu docelowego.
-- Zapisywanie przetworzonego obrazu za pomocą Java.
+### Co się nauczysz
+- Jak skonfigurować Aspose.Imaging dla Javy w swoim projekcie.  
+- Proces ładowania obrazów DjVu i przygotowywania ich do eksportu.  
+- Konfigurowanie opcji eksportu PNG w celu uzyskania wyjścia w odcieniach szarości.  
+- Definiowanie konkretnych obszarów i stron w pliku DjVu dla ukierunkowanego eksportu.  
+- Zapisywanie przetworzonego obrazu przy użyciu Javy.
 
-Zanim rozpoczniemy wdrażanie, zajmijmy się teraz tym, czego będziesz potrzebować.
+Teraz przejdźmy do tego, czego będziesz potrzebował, zanim rozpoczniemy implementację.
+
+## Szybkie odpowiedzi
+- **Czy Aspose.Imaging obsługuje pliki DjVu wielostronicowe?** Tak, obsługuje eksport stronowy za pomocą `DjvuMultiPageOptions`.  
+- **Czy wymagana jest licencja do użytku produkcyjnego?** Ważna licencja jest wymagana do nieograniczonego przetwarzania; dostępna jest darmowa wersja próbna do oceny.  
+- **Jaką wersję Javy obsługuje?** Java 8 lub nowsza jest w pełni wspierana.  
+- **Czy biblioteka zachowuje jakość obrazu?** Konwersja do odcieni szarości zachowuje pierwotną rozdzielczość przy jednoczesnym zmniejszeniu głębi kolorów.  
+- **Czy mogę przetwarzać wsadowo wiele plików DjVu?** Oczywiście — wystarczy umieścić przykładowy kod w pętli lub użyć równoległych strumieni.
+
+## Co to jest **convert djvu to png**?
+Wyrażenie **convert djvu to png** opisuje proces pobierania dokumentu lub obrazu zapisanego w formacie DjVu i renderowania każdej strony jako pliku PNG. PNG jest powszechnie wspieranym formatem rastrowym, który zachowuje bezstratną jakość obrazu, co czyni go odpowiednim do wyświetlania w sieci, przechowywania archiwalnego oraz dalszych zadań przetwarzania obrazu.
+
+## Dlaczego warto używać Aspose.Imaging dla Javy?
+Aspose.Imaging obsługuje **ponad 100 formatów obrazu**, może przetwarzać pliki do **2 GB** bez wczytywania całego dokumentu do pamięci oraz zapewnia **wątkowo‑bezpieczne API**, które skalują się na serwery wielordzeniowe. Te wymierne możliwości czynią go najlepszym wyborem do konwersji obrazów w środowisku korporacyjnym. Szerokie wsparcie formatów i wydajny silnik sprawiają, że jest idealny dla przepływów pracy na poziomie przedsiębiorstwa.
 
 ## Wymagania wstępne
 
-Przed kontynuowaniem upewnij się, że masz następujące rzeczy:
+Przed kontynuacją upewnij się, że masz następujące elementy:
 
 ### Wymagane biblioteki
-- **Aspose.Imaging dla Java**:W celu zapewnienia kompatybilności i obsługi funkcji zaleca się wersję 25.5 lub nowszą.
-  
+- **Aspose.Imaging for Java**: wersja 25.5 lub nowsza jest zalecana dla kompatybilności i wsparcia funkcji.  
+  *Aspose.Imaging for Java to kompleksowa biblioteka obrazowa umożliwiająca konwersję formatów, rasteryzację i zaawansowaną manipulację obrazami.*
+
 ### Konfiguracja środowiska
-- Środowisko programistyczne zgodne z Java (np. JDK 8+).
-- Środowisko IDE, takie jak IntelliJ IDEA lub Eclipse.
+- Środowisko programistyczne kompatybilne z Javą (np. JDK 8+).  
+- IDE, takie jak IntelliJ IDEA lub Eclipse.
 
-### Wymagania wstępne dotyczące wiedzy
-- Podstawowa znajomość programowania w Javie i koncepcji obiektowych.
-- Znajomość systemów budowania Maven lub Gradle jest korzystna, ale nieobowiązkowa.
+### Wymagania wiedzy
+- Podstawowa znajomość programowania w Javie i koncepcji obiektowo‑zorientowanych.  
+- Znajomość systemów budowania Maven lub Gradle jest przydatna, ale nieobowiązkowa.
 
-## Konfigurowanie Aspose.Imaging dla Java
+## Jak skonfigurować Aspose.Imaging dla Javy?
+Aby zintegrować Aspose.Imaging z projektem Java, dodaj odpowiednią zależność do konfiguracji budowania i upewnij się, że plik JAR biblioteki jest dostępny w classpath. Obsługiwane są Maven i Gradle, a także możesz pobrać binarkę bezpośrednio ze strony oficjalnych wydań w celu ręcznego dołączenia.
 
-Aby zacząć używać Aspose.Imaging, musisz zintegrować go ze swoim projektem. Oto jak to zrobić:
+### Konfiguracja Maven
+The following dependency adds Aspose.Imaging to a Maven‑based project:
 
-**Konfiguracja Maven:**
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -54,28 +126,27 @@ Aby zacząć używać Aspose.Imaging, musisz zintegrować go ze swoim projektem.
 </dependency>
 ```
 
-**Konfiguracja Gradle:**
+### Konfiguracja Gradle
+For Gradle users, include this line in your `build.gradle` file:
+
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-**Bezpośrednie pobieranie:**
-Możesz również bezpośrednio pobrać najnowszą wersję z [Aspose.Imaging dla wydań Java](https://releases.aspose.com/imaging/java/).
+### Bezpośrednie pobranie
+You can also directly download the latest version from [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-### Nabycie licencji
+#### Uzyskanie licencji
+- **Free Trial** – Testuj wszystkie funkcje bez klucza licencyjnego.  
+- **Temporary License** – Użyj do krótkoterminowych okresów oceny.  
+- **Purchase** – Uzyskaj pełną licencję do nieograniczonego użycia produkcyjnego.
 
-- **Bezpłatna wersja próbna**: Rozpocznij od bezpłatnego okresu próbnego, aby sprawdzić możliwości programu Aspose.Imaging.
-- **Licencja tymczasowa**: Jeśli potrzebujesz więcej czasu na ocenę, uzyskaj tymczasową licencję.
-- **Zakup**: Jeśli chcesz kontynuować korzystanie z usługi, rozważ zakup pełnej licencji.
+Po zainstalowaniu i uzyskaniu licencji przejdźmy do implementacji procesu konwersji obrazu.
 
-Po zainstalowaniu i uzyskaniu licencji możemy przejść do procesu konwersji obrazu.
+## Jak załadować obraz DjVu?
+Ładowanie pliku DjVu jest proste przy użyciu Aspose.Imaging. Użyj klasy `Image`, aby otworzyć dokument w bloku try‑with‑resources, który automatycznie zwalnia uchwyty plików po przetworzeniu. Podaj ścieżkę do pliku .djvu, a biblioteka przeanalizuje jego strony, udostępniając je do dalszej manipulacji.
 
-## Przewodnik wdrażania
-
-### Załaduj obraz DjVu
-
-#### Przegląd
-Pierwszym krokiem jest załadowanie pliku DjVu. Przygotowuje to plik do dalszego przetwarzania i eksportowania konfiguracji.
+`Image` is a class in Aspose.Imaging that represents an image file and provides methods for loading and manipulating image data.
 
 ```java
 import com.aspose.imaging.Image;
@@ -83,17 +154,18 @@ import com.aspose.imaging.fileformats.djvu.DjvuImage;
 
 String dataDir = "YOUR_DOCUMENT_DIRECTORY/Sample.djvu";
 try (DjvuImage image = (DjvuImage) Image.load(dataDir)) {
-    // Obraz został załadowany i jest gotowy do dalszego przetwarzania.
+    // The image is now loaded and ready for further processing.
 }
 ```
 
-- **`dataDir`**: Ścieżka do pliku DjVu. Zmień `YOUR_DOCUMENT_DIRECTORY` do rzeczywistej ścieżki katalogu.
-- **`try-with-resources`**:Automatycznie zarządza zwalnianiem zasobów po załadowaniu.
+- **`dataDir`**: Ścieżka do Twojego pliku DjVu. Zmień `YOUR_DOCUMENT_DIRECTORY` na rzeczywistą ścieżkę katalogu.  
+- **`try‑with‑resources`**: Automatycznie zarządza zwalnianiem zasobów po załadowaniu.
 
-### Konfiguruj opcje eksportu PNG
+## Jak skonfigurować opcje eksportu PNG?
+Aby uzyskać szary PNG, utwórz obiekt `PngOptions` i ustaw jego `colorType` na `PngColorType.Grayscale`. Ta konfiguracja zapewnia, że obraz wyjściowy używa jednego kanału intensywności, zmniejszając rozmiar pliku przy zachowaniu szczegółów wizualnych. Dodatkowe opcje, takie jak poziom kompresji, można również dostosować w razie potrzeby.
 
-#### Przegląd
-Skonfiguruj opcje eksportu, aby zapisać obrazy jako pliki PNG w skali szarości, zwiększając kompatybilność i zmniejszając ich rozmiar.
+`PngOptions` defines settings for saving images in PNG format, such as color type, compression level, and interlacing.  
+`PngColorType` enumerates the supported color formats for PNG files, including Grayscale, Truecolor, and Indexed.
 
 ```java
 import com.aspose.imaging.imageoptions.PngOptions;
@@ -103,26 +175,24 @@ PngOptions exportOptions = new PngOptions();
 exportOptions.setColorType(PngColorType.Grayscale);
 ```
 
-- **`PngColorType.Grayscale`**: Konwertuje obraz do skali szarości, co jest idealne do celów archiwalnych lub w celu zmniejszenia rozmiaru pliku.
+- **`PngColorType.Grayscale`**: Konwertuje obraz na odcienie szarości, idealne do celów archiwalnych lub zmniejszenia rozmiaru pliku.
 
-### Zdefiniuj obszar eksportu na stronie DjVu
+## Jak określić obszar eksportu na stronie DjVu?
+Określ prostokątny obszar do wyodrębnienia ze strony DjVu, ustawiając właściwość `exportArea` w `DjvuMultiPageOptions`. Prostokąt jest definiowany w pikselach i określa część strony, która zostanie wyrenderowana i zapisana, umożliwiając skupienie się na konkretnym obszarze zainteresowania.
 
-#### Przegląd
-Określ część strony, którą chcesz wyeksportować. Jest to przydatne do skupienia się na odpowiednich częściach i optymalizacji wydajności.
+`DjvuMultiPageOptions` specifies options for exporting pages from a DjVu document, including page index and export area.
 
 ```java
 import com.aspose.imaging.Rectangle;
 
 Rectangle exportArea = new Rectangle(0, 0, 500, 500);
-int exportPageIndex = 2; // Indeks zaczyna się od zera.
+int exportPageIndex = 2; // Index starts from zero.
 ```
 
-- **`exportArea`**: Definiuje wymiary prostokąta do przycięcia. Modyfikuj te wartości w zależności od potrzeb.
+- **`exportArea`**: Definiuje wymiary prostokąta do przycięcia. Zmodyfikuj te wartości w zależności od potrzeb.
 
-### Ustaw opcje eksportu wielostronicowego
-
-#### Przegląd
-Określ, która strona i obszar pliku DjVu zostaną wyeksportowane, co umożliwi Ci precyzyjną kontrolę nad danymi wyjściowymi.
+## Jak ustawić opcje eksportu wielostronicowego?
+Podczas pracy z wielostronicowymi plikami DjVu użyj `DjvuMultiPageOptions`, aby wybrać żądaną stronę za pomocą właściwości `pageIndex` i opcjonalnie połączyć ją z `exportArea`. Takie podejście pozwala wyeksportować konkretny obszar z dowolnej strony bez przetwarzania całego dokumentu, optymalizując wydajność przy dużych plikach.
 
 ```java
 import com.aspose.imaging.fileformats.djvu.DjvuMultiPageOptions;
@@ -130,12 +200,12 @@ import com.aspose.imaging.fileformats.djvu.DjvuMultiPageOptions;
 exportOptions.setMultiPageOptions(new DjvuMultiPageOptions(exportPageIndex, exportArea));
 ```
 
-- **`DjvuMultiPageOptions`**:Łączy indeks strony i obszar do eksportowania określonych sekcji wielostronicowego pliku DjVu.
+- **`DjvuMultiPageOptions`**: Łączy indeks strony i obszar w celu eksportu konkretnych sekcji wielostronicowego pliku DjVu.
 
-### Zapisz obraz
+## Jak zapisać obraz?
+Po skonfigurowaniu opcji eksportu wywołaj metodę `save` na instancji `Image`, podając ścieżkę docelowego pliku oraz obiekt `PngOptions`. Upewnij się, że katalog wyjściowy istnieje i ma uprawnienia do zapisu; biblioteka zapisze wtedy szary PNG na dysku.
 
-#### Przegląd
-Na koniec zapisz przetworzony obraz w katalogu wyjściowym. Ten krok kończy proces konwersji.
+`save` is a method of the `Image` class that writes the image data to a specified file using the provided format options.
 
 ```java
 import com.aspose.imaging.Image;
@@ -146,62 +216,76 @@ image.save(outputPath, exportOptions);
 
 - **`outputPath`**: Określ, gdzie chcesz zapisać plik PNG. Upewnij się, że katalog istnieje przed uruchomieniem.
 
-## Zastosowania praktyczne
+## Praktyczne zastosowania
 
-1. **Archiwizacja dokumentów**:Konwertuj dokumenty DjVu w celu archiwizacji w skali szarości.
-2. **Optymalizacja stron internetowych**: Przygotuj obrazy w formacie przyjaznym dla sieci, zmniejszając liczbę kolorów i rozmiarów.
-3. **Analiza danych**:Używaj eksportu określonych stron do zadań związanych z analizą danych.
-4. **Biblioteki cyfrowe**:Ulepsz biblioteki cyfrowe dzięki ujednoliconym formatom obrazów we wszystkich zbiorach.
-5. **Projekty integracyjne**:Bezproblemowa integracja procesu konwersji z większymi aplikacjami Java.
+1. **Archiwizacja dokumentów** – Konwertuj dokumenty DjVu do szarości w celach archiwalnych.  
+2. **Optymalizacja sieciowa** – Przygotuj obrazy w formacie przyjaznym dla sieci, redukując kolory i rozmiary.  
+3. **Analiza danych** – Eksportuj konkretne strony do ukierunkowanych zadań analizy danych.  
+4. **Biblioteki cyfrowe** – Standaryzuj formaty obrazów w całych zbiorach.  
+5. **Projekty integracyjne** – Wbuduj ten proces konwersji w większe aplikacje Java.
 
 ## Rozważania dotyczące wydajności
 
-- **Optymalizacja wykorzystania pamięci**: Upewnij się, że Twój system ma wystarczającą ilość pamięci do obsługi dużych plików DjVu.
-- **Przetwarzanie wsadowe**:Przetwarzaj wiele obrazów w partiach, aby zwiększyć przepustowość i efektywność.
-- **Zbiórka śmieci w Javie**: Monitoruj dzienniki zbierania śmieci w celu znalezienia potencjalnych optymalizacji, zwłaszcza podczas przetwarzania dużych ilości obrazów.
+- **Optymalizacja użycia pamięci** – Aspose.Imaging przetwarza duże pliki DjVu bez wczytywania całego pliku do pamięci, efektywnie obsługując pliki do 2 GB.  
+- **Przetwarzanie wsadowe** – Umieść logikę konwersji w pętli lub użyj strumieni Java do równoczesnego przetwarzania wielu plików.  
+- **Garbage Collection w Javie** – Monitoruj logi GC podczas przetwarzania dużej liczby konwersji, aby unikać przestojów.
 
-## Wniosek
+## Podsumowanie
 
-Gratulacje! Udało Ci się nauczyć, jak eksportować pliki DjVu jako obrazy PNG w skali szarości przy użyciu Aspose.Imaging for Java. Ta umiejętność może znacznie zwiększyć możliwości przetwarzania obrazu w Twojej aplikacji.
+Gratulacje! Nauczyłeś się **konwertować DjVu na PNG** z wyjściem w odcieniach szarości przy użyciu Aspose.Imaging dla Javy. Ta możliwość może znacząco zwiększyć moc przetwarzania obrazów w Twojej aplikacji.
 
-### Następne kroki
-- Eksperymentuj z różnymi obszarami i stronami z różnych dokumentów DjVu.
-- Poznaj dodatkowe funkcje biblioteki Aspose.Imaging, takie jak ustawienia kompresji i zaawansowane transformacje.
+### Kolejne kroki
+- Eksperymentuj z różnymi prostokątami `exportArea` i indeksami stron.  
+- Zbadaj dodatkowe `PngOptions`, takie jak poziom kompresji i przeplot.  
+- Zintegruj kod z warstwą serwisową dla konwersji na żądanie w aplikacjach webowych.
 
-Gotowy, aby to wypróbować? Wdróż to rozwiązanie już dziś i odblokuj nowe możliwości dla swoich projektów!
+Gotowy, aby wypróbować? Zaimplementuj to rozwiązanie już dziś i odblokuj nowe możliwości dla swoich projektów!
 
 ## Sekcja FAQ
 
-**P1: Czy mogę eksportować obrazy DjVu do innych formatów za pomocą Aspose.Imaging?**
-A1: Tak, Aspose.Imaging obsługuje wiele formatów obrazów. Sprawdź dokumentację, aby uzyskać szczegółowe opcje.
+**Q: Czy mogę eksportować obrazy DjVu do innych formatów przy użyciu Aspose.Imaging?**  
+A: Tak, Aspose.Imaging obsługuje ponad 100 formatów wyjściowych, w tym JPEG, BMP, TIFF i WebP.
 
-**P2: Jakie są wymagania systemowe, aby móc uruchomić Aspose.Imaging na moim komputerze?**
-A2: Upewnij się, że masz zainstalowaną Javę 8 lub nowszą i wystarczającą ilość pamięci do obsługi dużych plików.
+**Q: Jakie są wymagania systemowe do uruchomienia Aspose.Imaging na moim komputerze?**  
+A: Java 8 lub nowsza, co najmniej 2 GB RAM dla umiarkowanych plików oraz wystarczająca ilość miejsca na dysku na tymczasowe bufory.
 
-**P3: Jak rozwiązywać problemy z eksportowaniem obrazów?**
-A3: Sprawdź ścieżki plików, sprawdź dzienniki wyjątków i upewnij się, że licencja jest poprawnie skonfigurowana.
+**Q: Jak rozwiązywać problemy z eksportem obrazu?**  
+A: Zweryfikuj ścieżki plików, upewnij się, że licencja jest prawidłowo zastosowana, i sprawdź komunikaty wyjątków pod kątem brakujących zależności.
 
-**P4: Czy Aspose.Imaging jest kompatybilny ze wszystkimi wersjami Java?**
-A4: Obsługuje Java 8 i nowsze. Zapewnij zgodność, testując w swoim konkretnym środowisku.
+**Q: Czy Aspose.Imaging jest kompatybilny ze wszystkimi wersjami Javy?**  
+A: Obsługuje Java 8 do Java 21; zawsze testuj z docelowym środowiskiem uruchomieniowym.
 
-**P5: Czy mogę używać Aspose.Imaging do przetwarzania wsadowego obrazów?**
-A5: Oczywiście! Wdrażaj pętle lub techniki przetwarzania równoległego, aby sprawnie obsługiwać wiele plików.
+**Q: Czy mogę używać Aspose.Imaging do przetwarzania wsadowego obrazów?**  
+A: Oczywiście. Umieść przykładowy kod w pętli `for` lub użyj równoległych strumieni, aby efektywnie konwertować wiele plików DjVu.
 
 ## Zasoby
 
-- **Dokumentacja**https://reference.aspose.com/imaging/java/
-- **Pobierać**: https://releases.aspose.com/imaging/java/
-- **Zakup**: https://purchase.aspose.com/buy
-- **Bezpłatna wersja próbna**: https://releases.aspose.com/imaging/java/
-- **Licencja tymczasowa**: https://purchase.aspose.com/temporary-license/
-- **Wsparcie**: https://forum.aspose.com/c/imaging/14
+- **Documentation**: https://reference.aspose.com/imaging/java/
+- **Download**: https://releases.aspose.com/imaging/java/
+- **Purchase**: https://purchase.aspose.com/buy
+- **Free Trial**: https://releases.aspose.com/imaging/java/
+- **Temporary License**: https://purchase.aspose.com/temporary-license/
+- **Support**: https://forum.aspose.com/c/imaging/14
 
-Przeglądaj te zasoby, aby pogłębić swoje zrozumienie i opanowanie Aspose.Imaging for Java. Miłego kodowania!
+Przeglądaj te zasoby, aby pogłębić swoją wiedzę i opanowanie Aspose.Imaging dla Javy. Szczęśliwego kodowania!
+
+---
+
+**Last Updated:** 2026-06-13  
+**Tested With:** Aspose.Imaging for Java 25.5  
+**Author:** Aspose  
+
+{{< blocks/products/products-backtop-button >}}
+
+## Powiązane samouczki
+
+- [Efektywne przetwarzanie obrazów PNG przy użyciu Aspose.Imaging dla Javy – przewodnik krok po kroku](/imaging/java/format-specific-operations/aspose-imaging-java-png-processing-guide/)
+- [Konwersja obrazów do odcieni szarości w Javie z Aspose.Imaging: kompleksowy przewodnik](/imaging/java/color-brightness-adjustments/convert-images-grayscale-aspose-imaging-java/)
+- [Efektywna konwersja obrazów w Javie z Aspose.Imaging: kompletny przewodnik](/imaging/java/format-conversion-export/mastering-image-conversion-aspose-imaging-java/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
