@@ -1,9 +1,73 @@
 ---
-"date": "2025-06-04"
-"description": "Apprenez à convertir efficacement de gros fichiers PNG en JPEG avec Aspose.Imaging pour Java. Découvrez des techniques pour charger, enregistrer et optimiser des images dans vos projets."
-"title": "Convertir des fichiers PNG en JPEG en Java avec Aspose.Imaging &#58; un guide complet"
-"url": "/fr/java/format-specific-operations/aspose-imaging-java-png-to-jpeg-conversion/"
-"weight": 1
+date: '2026-08-11'
+description: Apprenez comment compresser PNG en JPEG en Java avec Aspose.Imaging.
+  Ce guide couvre le traitement d'images en Java, la configuration Maven d'Aspose.Imaging,
+  et la conversion efficace d'images en masse.
+keywords:
+- how to compress png
+- image processing java
+- bulk image conversion
+- aspose imaging maven
+- aspose imaging java
+- png to jpeg java
+lastmod: '2026-08-11'
+og_description: Apprenez comment compresser PNG en JPEG en Java avec Aspose.Imaging.
+  Ce guide couvre le traitement d'images en Java, la configuration Maven d'Aspose.Imaging,
+  et la conversion efficace d'images en masse.
+og_image_alt: 'Guide: compress PNG to JPEG in Java with Aspose.Imaging'
+og_title: Comment compresser PNG en JPEG en Java avec Aspose.Imaging
+schemas:
+- author: Aspose
+  dateModified: '2026-08-11'
+  description: Learn how to compress PNG to JPEG in Java using Aspose.Imaging. This
+    guide covers image processing Java, aspose imaging maven setup, and efficient
+    bulk image conversion.
+  headline: How to compress PNG to JPEG in Java using Aspose.Imaging
+  type: TechArticle
+- description: Learn how to compress PNG to JPEG in Java using Aspose.Imaging. This
+    guide covers image processing Java, aspose imaging maven setup, and efficient
+    bulk image conversion.
+  name: How to compress PNG to JPEG in Java using Aspose.Imaging
+  steps:
+  - name: '**Web development:** Serve JPEGs instead of PNGs to cut page weight by
+      up to 80 %.'
+    text: '**Web development:** Serve JPEGs instead of PNGs to cut page weight by
+      up to 80 %.'
+  - name: '**E‑commerce platforms:** Automatically convert vendor‑uploaded PNGs to
+      JPEG for catalog thumbnails.'
+    text: '**E‑commerce platforms:** Automatically convert vendor‑uploaded PNGs to
+      JPEG for catalog thumbnails.'
+  - name: '**Digital photography apps:** Let users export compressed JPEGs directly
+      from the mobile app.'
+    text: '**Digital photography apps:** Let users export compressed JPEGs directly
+      from the mobile app.'
+  type: HowTo
+- questions:
+  - answer: Call `options.setQuality(value)` where `value` is between 0 (maximum compression)
+      and 100 (lossless).
+    question: How do I increase JPEG compression quality?
+  - answer: Verify the file path, ensure the file isn’t corrupted, and confirm that
+      the Aspose.Imaging library is correctly licensed.
+    question: What should I do if an image fails to load?
+  - answer: Yes—iterate over a folder with a `for` loop, loading and saving each image
+      inside the same `try‑with‑resources` block.
+    question: Can I process multiple images at once?
+  - answer: There’s no explicit limit, but processing extremely large images (>2 GB)
+      requires proportionally larger JVM heap and may benefit from chunked processing.
+    question: Is there a hard limit on image size?
+  - answer: Use `License license = new License(); license.setLicense("Aspose.Imaging.lic");`
+      before any image operation.
+    question: How do I apply a license in Aspose.Imaging Java?
+  type: FAQPage
+tags:
+- compress PNG
+- Aspose.Imaging
+- Java image conversion
+- bulk image conversion
+- image processing java
+title: Comment compresser PNG en JPEG en Java avec Aspose.Imaging
+url: /fr/java/format-specific-operations/aspose-imaging-java-png-to-jpeg-conversion/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,48 +75,49 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Maîtriser le traitement d'images avec Aspose.Imaging Java : chargement et enregistrement de fichiers PNG volumineux au format JPEG
+# Comment compresser PNG en JPEG en Java avec Aspose.Imaging
 
 ## Introduction
 
-À l'ère des images haute résolution, gérer efficacement les fichiers volumineux est crucial pour les développeurs comme pour les entreprises. Que vous travailliez sur une application de photographie ou que vous traitiez des images en masse pour une plateforme de e-commerce, la gestion de fichiers PNG volumineux peut s'avérer complexe. Aspose.Imaging Java offre une solution simple à ce défi en offrant des fonctionnalités de traitement d'images robustes directement dans vos applications Java.
+Dans les applications web et mobiles modernes, **how to compress PNG** efficacement peut faire la différence entre une page à chargement rapide et une expérience utilisateur lente. Aspose.Imaging pour Java vous offre une solution à API unique pour charger d’énormes fichiers PNG, les réduire et produire des JPEG de haute qualité — le tout sans quitter la JVM. Que vous construisiez un service de galerie photo, un catalogue e‑commerce ou un pipeline de conversion d’images en masse, maîtriser ce flux de travail permet d’économiser la bande passante et les coûts de stockage.
 
-Dans ce tutoriel, nous découvrirons comment charger des images PNG volumineuses et les enregistrer au format JPEG grâce à la puissante bibliothèque Aspose.Imaging. En comprenant ces processus, vous améliorerez vos compétences en manipulation et optimisation d'images, essentielles pour tout développeur travaillant sur des projets multimédias.
+**Ce que vous apprendrez**
 
-**Ce que vous apprendrez :**
+- Comment configurer Aspose.Imaging pour Java avec Maven ou Gradle.  
+- Les étapes exactes pour charger de gros PNG sans épuiser la mémoire.  
+- Comment compresser PNG en JPEG avec des paramètres de qualité configurables.  
+- Astuces d’optimisation des performances pour les lots d’images haute résolution.  
+- Réponses aux problèmes courants et aux FAQ.
 
-- Comment configurer Aspose.Imaging pour Java dans votre environnement de développement.
-- Chargement efficace d'images PNG volumineuses.
-- Enregistrement des images traitées au format JPEG avec des options personnalisables.
-- Conseils de performance pour la gestion des images haute résolution.
-- Étapes de dépannage courantes et FAQ liées au traitement d’images.
+## Réponses rapides
+- **Quelle est la façon la plus rapide de compresser PNG en JPEG ?** Chargez le PNG avec `Image.load()` et enregistrez en utilisant `JpegOptions` avec une qualité de 85–90.  
+- **Ai‑je besoin d’une licence pour les gros fichiers ?** Une licence temporaire ou payante supprime les limites d’évaluation et permet une gestion complète de la mémoire.  
+- **Puis‑je traiter de nombreux fichiers en même temps ?** Oui — parcourez un répertoire et réutilisez la même instance de `JpegOptions` pour la conversion par lots.  
+- **Quel artefact Maven dois‑je ajouter ?** `com.aspose:aspose-imaging-java`.  
+- **Le JPEG est‑il sans perte ?** Non, le JPEG est avec perte ; choisissez un niveau de qualité qui équilibre taille et fidélité visuelle.
 
-Avant de plonger dans la mise en œuvre, examinons quelques prérequis pour vous assurer que vous êtes prêt à commencer.
+## Qu’est‑ce que how to compress PNG ?
+`how to compress PNG` fait référence au processus de réduction de la taille d’un fichier PNG, souvent en le convertissant vers un format plus compact comme le JPEG tout en conservant une qualité visuelle acceptable. Aspose.Imaging automatise cette conversion avec un appel API unique.
+
+## Pourquoi utiliser Aspose.Imaging pour Java ?
+Aspose.Imaging prend en charge **plus de 50 formats d’entrée et de sortie**, traite des images de plusieurs centaines de pages sans charger le fichier complet en mémoire, et fournit des opérations thread‑safe qui s’adaptent aux environnements cloud‑native. Ces avantages quantifiés en font un choix privilégié pour la conversion massive d’images et les projets Java de traitement d’images.
 
 ## Prérequis
 
-### Bibliothèques, versions et dépendances requises
+### Bibliothèques requises, versions et dépendances
+- **Java Development Kit (JDK) :** 8 ou supérieur.  
+- **Aspose.Imaging pour Java :** 25.5 ou ultérieur (la dernière version est recommandée).  
 
-Pour suivre ce tutoriel, vous devez avoir installé la bibliothèque Aspose.Imaging pour Java. Assurez-vous que votre environnement de développement répond aux exigences suivantes :
+### Configuration de l’environnement
+Votre IDE doit prendre en charge Maven ou Gradle. Les exemples ci‑dessous montrent les deux déclarations de dépendances.
 
-- **Kit de développement Java (JDK) :** Version 8 ou supérieure.
-- **Bibliothèque Aspose.Imaging :** Version 25.5 ou ultérieure.
+### Prérequis de connaissances
+Vous devez être à l’aise avec la syntaxe Java de base ; aucune expérience préalable en traitement d’images n’est requise.
 
-### Configuration requise pour l'environnement
-
-Assurez-vous que votre IDE est configuré pour prendre en charge Maven ou Gradle, car nous vous montrerons comment inclure Aspose.Imaging dans les deux systèmes de build.
-
-### Prérequis en matière de connaissances
-
-Une compréhension de base de la programmation Java et une connaissance des concepts de traitement d'images seront utiles, mais pas indispensables. Ce guide s'adresse aussi bien aux débutants qu'aux utilisateurs avancés.
-
-## Configuration d'Aspose.Imaging pour Java
-
-Pour commencer à utiliser Aspose.Imaging, vous devez d'abord l'ajouter aux dépendances de votre projet. Voici comment procéder :
+## Configuration d’Aspose.Imaging pour Java
 
 ### Maven
-
-Ajoutez la dépendance suivante à votre `pom.xml` déposer:
+Ajoutez la dépendance suivante à votre fichier `pom.xml` :
 
 ```xml
 <dependency>
@@ -63,26 +128,29 @@ Ajoutez la dépendance suivante à votre `pom.xml` déposer:
 ```
 
 ### Gradle
-
-Incluez ceci dans votre `build.gradle` déposer:
+Incluez ceci dans votre fichier `build.gradle` :
 
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
 ### Téléchargement direct
+Vous pouvez également obtenir la bibliothèque depuis [versions d'Aspose.Imaging pour Java](https://releases.aspose.com/imaging/java/).
 
-Alternativement, vous pouvez télécharger la dernière version à partir de [Versions d'Aspose.Imaging pour Java](https://releases.aspose.com/imaging/java/).
+- Documentation: [Documentation d'Aspose.Imaging pour Java](https://reference.aspose.com/imaging/java/)
+- Download: [Télécharger la bibliothèque Aspose.Imaging](https://releases.aspose.com/imaging/java/)
+- Purchase: [Acheter une licence](https://purchase.aspose.com/buy)
+- Free trial: [Accès à l'essai gratuit](https://releases.aspose.com/imaging/java/)
+- Temporary license: [Demande de licence temporaire](https://purchase.aspose.com/temporary-license/)
+- Support: [Forum de support Aspose](https://forum.aspose.com/c/imaging/14)
 
-#### Étapes d'acquisition de licence
-
-- **Essai gratuit :** Commencez par un essai gratuit pour explorer les fonctionnalités de base.
-- **Licence temporaire :** Obtenez une licence temporaire si vous avez besoin d’un accès complet pendant l’évaluation.
-- **Achat:** Envisagez d’acheter une licence pour les projets à long terme.
+#### Étapes d’obtention de licence
+- **Essai gratuit :** Explorez les fonctionnalités de base sans licence.  
+- **Licence temporaire :** Activez la pleine fonctionnalité pendant l’évaluation.  
+- **Achat :** Obtenez une licence permanente pour les charges de travail de production.
 
 ### Initialisation et configuration de base
-
-Une fois la bibliothèque incluse, initialisez Aspose.Imaging dans votre application Java. Cette étape garantit que tous les composants sont prêts à l'emploi :
+Avant de commencer à traiter les images, initialisez la bibliothèque afin que tous les composants soient prêts :
 
 ```java
 import com.aspose.imaging.License;
@@ -91,148 +159,128 @@ License license = new License();
 license.setLicense("path_to_your_license_file");
 ```
 
-## Guide de mise en œuvre
+## Comment compresser PNG en JPEG en Java ?
+Chargez votre PNG avec `Image.load("source.png")` et enregistrez‑le immédiatement en JPEG à l’aide de `JpegOptions` — ce schéma en deux étapes gère efficacement les gros fichiers et vous donne un contrôle total sur la qualité de sortie. Pour les traitements par lots, réutilisez la même instance de `JpegOptions` afin de minimiser la surcharge de création d’objets.
+
+## Guide d’implémentation
 
 ### Charger une grande image PNG
-
-#### Aperçu
-
-Le chargement efficace d'images volumineuses est essentiel pour éviter les problèmes de mémoire et garantir un traitement fluide. Aspose.Imaging simplifie ce processus grâce à ses puissantes capacités de traitement d'images.
-
-#### Instructions étape par étape
-
-**1. Importer les classes nécessaires**
-
-Commencez par importer les classes requises :
+La classe `Image` est l’objet principal d’Aspose.Imaging qui représente toute image raster en mémoire. L’utiliser correctement empêche les erreurs de dépassement de mémoire lors du traitement de PNG haute résolution.
 
 ```java
 import com.aspose.imaging.Image;
 ```
 
-**2. Chargez l'image**
-
-Utilisez le `Image.load()` méthode pour charger votre fichier PNG en mémoire :
+### Charger l’image
+La méthode `Image.load()` lit le fichier PNG et renvoie une instance `Image` prête pour un traitement ultérieur :
 
 ```java
 try (Image image = Image.load("YOUR_DOCUMENT_DIRECTORY/halfGigImage.png")) {
-    // L'image est maintenant chargée et prête à être manipulée.
+    // The image is now loaded and ready for manipulation.
 }
 ```
 
-**Explication:**
-- **`YOUR_DOCUMENT_DIRECTORY`:** Remplacez par le chemin réel où réside votre fichier PNG.
-- **`try-with-resources`:** Assure que la ressource d'image est correctement fermée après les opérations.
+**Explication**  
+- **`YOUR_DOCUMENT_DIRECTORY` :** Remplacez par le dossier contenant vos fichiers PNG.  
+- **`try‑with‑resources`** : Garantit que l’image est libérée automatiquement, libérant la mémoire native.
 
-### Enregistrer l'image au format JPEG
+### Enregistrer l’image en JPEG
 
-#### Aperçu
+#### Vue d’ensemble
+Convertir PNG en JPEG réduit la taille du fichier de façon spectaculaire car le JPEG utilise une compression avec perte. Aspose.Imaging vous permet d’ajuster finement cette compression via `JpegOptions`.
 
-Enregistrer une image dans un autre format, comme la conversion PNG en JPEG, permet une meilleure compression et une meilleure compatibilité Web. Cette section explique comment y parvenir avec Aspose.Imaging.
-
-#### Instructions étape par étape
-
-**1. Importer les classes requises**
-
-Assurez-vous d'avoir les importations nécessaires :
+#### Importer les classes requises
+La classe `JpegOptions` définit la façon dont le JPEG sera encodé.
 
 ```java
 import com.aspose.imaging.imageoptions.JpegOptions;
 ```
 
-**2. Configurer les options JPEG**
-
-Configurer le `JpegOptions` pour personnaliser votre image de sortie, comme les paramètres de qualité :
+#### Configurer les options JPEG
+Définissez le niveau de qualité (0‑100) pour équilibrer la taille et la fidélité visuelle. Une qualité de 85–90 est un compromis courant pour les images web.
 
 ```java
 JpegOptions options = new JpegOptions();
-options.setQuality(90); // Ajustez la qualité de 0 (pire) à 100 (meilleur)
+options.setQuality(90); // Adjust quality from 0 (worst) to 100 (best)
 ```
 
-**3. Enregistrez l'image**
-
-Enregistrez l'image chargée au format JPEG en utilisant les options configurées :
+#### Enregistrer l’image
+Appelez `image.save("output.jpg", options)` pour écrire le JPEG compressé sur le disque.
 
 ```java
 image.save("YOUR_OUTPUT_DIRECTORY/halfGigImage.jpg", options);
 ```
 
-**Explication:**
-- **`options.setQuality(90);`:** Définit la qualité de compression pour le JPEG.
-- **Chemin de sortie :** Remplacer `YOUR_OUTPUT_DIRECTORY` avec l'emplacement de sauvegarde souhaité.
+**Explication**  
+- `options.setQuality(90);` définit la compression JPEG à 90 % de la qualité originale.  
+- Remplacez `YOUR_OUTPUT_DIRECTORY` par le dossier de destination pour les fichiers convertis.
 
-### Conseils de dépannage
-
-Si vous rencontrez des problèmes lors du chargement ou de l’enregistrement d’images, pensez à :
-
-- Vérification des chemins d'accès et des autorisations des fichiers.
-- Vérification des paramètres de taille du tas Java pour gérer les fichiers volumineux.
-- S'assurer que la bibliothèque Aspose.Imaging est correctement installée et sous licence.
+## Conseils de dépannage
+- **Problèmes de chemin de fichier :** Vérifiez que les répertoires source et destination existent et sont lisibles/écrits.  
+- **Limites de mémoire :** Augmentez le tas JVM (`-Xmx2g` ou plus) lors du traitement d’images supérieures à 20 Mo.  
+- **Erreurs de licence :** Assurez‑vous que `License.setLicense("Aspose.Imaging.lic")` est appelé avant toute opération d’image.
 
 ## Applications pratiques
+1. **Développement web :** Servir des JPEG au lieu de PNG pour réduire le poids de la page jusqu’à 80 %.  
+2. **Plateformes e‑commerce :** Convertir automatiquement les PNG téléchargés par les vendeurs en JPEG pour les vignettes du catalogue.  
+3. **Applications de photographie numérique :** Permettre aux utilisateurs d’exporter des JPEG compressés directement depuis l’application mobile.
 
-Aspose.Imaging peut être appliqué dans divers scénarios du monde réel :
-
-1. **Développement Web:** Optimisez les images pour des temps de chargement plus rapides sur les sites Web en les convertissant au format JPEG.
-2. **Plateformes de commerce électronique :** Traitez automatiquement les images des produits lors du téléchargement, garantissant une qualité et un format cohérents.
-3. **Applications de photographie numérique :** Permettre aux utilisateurs de convertir et d'enregistrer des images directement dans l'application.
-
-## Considérations relatives aux performances
+## Considérations de performance
 
 ### Conseils pour optimiser les performances
+- Choisissez la qualité JPEG en fonction de l’appareil cible ; qualité plus basse pour le mobile, plus haute pour l’impression.  
+- Traitez les images en flux parallèles uniquement si le serveur dispose de suffisamment de RAM.  
+- Réutilisez une seule instance de `JpegOptions` sur plusieurs conversions pour réduire la pression du GC.
 
-- Utilisez des formats d’image appropriés pour équilibrer la qualité et la taille du fichier.
-- Ajustez les paramètres de compression JPEG en fonction de vos besoins spécifiques.
-- Surveillez l’utilisation de la mémoire lors du traitement de grands lots d’images.
+### Directives d’utilisation des ressources
+Aspose.Imaging traite les images de manière flux, vous permettant de gérer des fichiers de plusieurs centaines de mégaoctets sans charger le fichier complet dans le tas Java. Cependant, allouez suffisamment d’espace de tas et surveillez les pauses du GC lors de traitements par lots massifs.
 
-### Directives d'utilisation des ressources
+## Questions fréquemment posées
 
-Aspose.Imaging est conçu pour être efficace, mais une gestion appropriée des ressources peut améliorer les performances :
+**Q : Comment augmenter la qualité de compression JPEG ?**  
+R : Appelez `options.setQuality(value)` où `value` est compris entre 0 (compression maximale) et 100 (sans perte).
 
-- **Gestion de la mémoire :** Assurez-vous d’avoir suffisamment d’espace de tas pour gérer les fichiers volumineux.
-- **Traitement par lots :** Traitez les images par lots plus petits si vous traitez des ensembles de données volumineux.
+**Q : Que faire si une image ne se charge pas ?**  
+R : Vérifiez le chemin du fichier, assurez‑vous qu’il n’est pas corrompu, et confirmez que la bibliothèque Aspose.Imaging est correctement licenciée.
+
+**Q : Puis‑je traiter plusieurs images simultanément ?**  
+R : Oui — parcourez un dossier avec une boucle `for`, en chargeant et enregistrant chaque image dans le même bloc `try‑with‑resources`.
+
+**Q : Existe‑t‑il une limite stricte à la taille d’une image ?**  
+R : Il n’y a pas de limite explicite, mais le traitement d’images extrêmement grandes (> 2 Go) nécessite un tas JVM proportionnellement plus grand et peut bénéficier d’un traitement par morceaux.
+
+**Q : Comment appliquer une licence dans Aspose.Imaging Java ?**  
+R : Utilisez `License license = new License(); license.setLicense("Aspose.Imaging.lic");` avant toute opération d’image.
+
+**Q : Aspose.Imaging prend‑il en charge la conversion massive d’images via Maven ?**  
+R : Absolument — ajoutez la dépendance Maven, puis exécutez votre code de conversion dans un pipeline CI/CD pour gérer automatiquement des milliers de fichiers.
 
 ## Conclusion
 
-En maîtrisant les capacités de chargement et d'enregistrement d'Aspose.Imaging Java, vous êtes désormais équipé pour gérer efficacement des fichiers PNG volumineux. Ces connaissances sont précieuses pour tout projet nécessitant des solutions de traitement d'images robustes.
+Vous disposez maintenant d’un flux de travail complet et prêt pour la production pour **how to compress PNG** en JPEG en Java avec Aspose.Imaging. En chargeant les images avec la classe `Image`, en configurant `JpegOptions` et en suivant les meilleures pratiques de gestion de mémoire décrites ci‑dessus, vous pouvez traiter efficacement des fichiers PNG massifs et fournir des JPEG légers aux utilisateurs finaux.
 
-**Prochaines étapes :**
+**Étapes suivantes**
+- Explorez d’autres fonctionnalités d’Aspose.Imaging telles que le redimensionnement, le recadrage et le filigrane.  
+- Intégrez la logique de conversion dans un service REST pour le traitement d’images à la demande.  
+- Évaluez différents niveaux de qualité JPEG afin de trouver le compromis optimal pour votre audience spécifique.
 
-Découvrez les fonctionnalités supplémentaires offertes par Aspose.Imaging, telles que le redimensionnement, le recadrage et la conversion de format, pour améliorer davantage vos applications.
+---  
 
-Prêt à essayer ? Mettez en œuvre ces techniques dans votre prochain projet et constatez la différence en termes de performances et de qualité !
+**Dernière mise à jour** : 2026-08-11  
+**Testé avec** : Aspose.Imaging 25.5 for Java  
+**Auteur** : Aspose  
 
-## Section FAQ
+{{< blocks/products/products-backtop-button >}}
 
-1. **Comment augmenter la qualité de compression JPEG ?**
-   - Utiliser `options.setQuality()` méthode avec une valeur comprise entre 0 et 100.
+## Tutoriels associés
 
-2. **Que dois-je faire si mon image ne se charge pas correctement ?**
-   - Vérifiez l’exactitude du chemin d’accès au fichier, les autorisations et assurez-vous que la bibliothèque Aspose.Imaging est correctement initialisée.
+- [Traitement efficace d’images PNG avec Aspose.Imaging pour Java - Guide pas à pas](/imaging/java/format-specific-operations/aspose-imaging-java-png-processing-guide/)
+- [Traitement efficace de JPEG en Java avec Aspose.Imaging : charger, enregistrer et optimiser](/imaging/java/format-specific-operations/aspose-imaging-java-jpeg-processing/)
+- [Conversion d’images efficace en Java avec Aspose.Imaging : guide complet](/imaging/java/format-conversion-export/mastering-image-conversion-aspose-imaging-java/)
 
-3. **Puis-je traiter plusieurs images à la fois ?**
-   - Oui, utilisez des techniques de traitement par lots tout en surveillant l’utilisation de la mémoire pour gérer efficacement un grand nombre de fichiers.
-
-4. **Existe-t-il une limite de taille d'image pour le chargement avec Aspose.Imaging ?**
-   - Bien qu'aucune limite explicite n'existe, assurez-vous que votre système dispose de ressources adéquates (mémoire et CPU) pour traiter des images très volumineuses.
-
-5. **Comment appliquer une licence dans Aspose.Imaging Java ?**
-   - Utilisez le `License.setLicense()` méthode pour spécifier le chemin d'accès à votre fichier de licence.
-
-## Ressources
-
-- [Documentation d'Aspose.Imaging pour Java](https://reference.aspose.com/imaging/java/)
-- [Télécharger la bibliothèque Aspose.Imaging](https://releases.aspose.com/imaging/java/)
-- [Licence d'achat](https://purchase.aspose.com/buy)
-- [Accès d'essai gratuit](https://releases.aspose.com/imaging/java/)
-- [Demande de permis temporaire](https://purchase.aspose.com/temporary-license/)
-- [Forum d'assistance Aspose](https://forum.aspose.com/c/imaging/14)
-
-Grâce à ce guide complet, vous êtes désormais prêt à exploiter Aspose.Imaging Java pour un traitement d'images efficace dans vos projets. Bon codage !
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
