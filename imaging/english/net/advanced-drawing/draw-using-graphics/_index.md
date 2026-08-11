@@ -115,7 +115,7 @@ Finally, persist the bitmap to disk. The `Image.Save()` method writes the file u
 image.Save();
 ```
 
-## Common Issues and Solutions
+## Common issues and solutions
 
 | Issue | Why it Happens | Fix |
 |-------|----------------|-----|
@@ -124,7 +124,7 @@ image.Save();
 | **Pen width too thin** | Default pen width is 1 pixel. | Create the pen with a width: `new Pen(Color.Blue, 3)`. |
 | **Out‑of‑memory exception** | Very large image dimensions. | Reduce width/height or process the image in tiles. |
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### Q: What is Aspose.Imaging for .NET?  
 A: Aspose.Imaging for .NET is a powerful image processing library that allows developers to create, edit, and manipulate images in various formats using .NET.
@@ -151,9 +151,10 @@ If you encounter any issues or have questions, feel free to visit the [Aspose.Im
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< /blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/products-backtop-button >}}
+{{< /blocks/products/products-backtop-button >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
 
 ---
 

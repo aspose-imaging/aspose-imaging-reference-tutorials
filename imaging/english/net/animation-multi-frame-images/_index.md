@@ -1,5 +1,5 @@
 ---
-title: "How to Create APNG in .NET with Aspose.Imaging"
+title: "How to Create Animated PNG (APNG) Files in .NET using Aspose.Imaging"
 description: "Learn how to create APNG images in .NET using Aspose.Imaging, and discover how to set GIF loop count, convert TIFF to APNG, and create animated GIFs with ease."
 weight: 11
 url: "/net/animation-multi-frame-images/"
@@ -36,25 +36,25 @@ Aspose.Imaging abstracts the low‑level details of image encoding, giving you a
 
 ## Available Tutorials
 
-### [Animating Graphics in .NET with Aspose.Imaging: A Complete Guide](./animate-graphics-net-aspose-imaging-guide/)
+### [Animating Graphics in .NET with Aspose.Imaging: A Complete Guide]({{< relref "animate-graphics-net-aspose-imaging-guide/_index.md" >}})
 Learn how to animate graphics in your .NET applications using Aspose.Imaging. This guide covers everything from setting up scenes to implementing animations for UI/UX enhancement.
 
-### [Create Animated GIFs Using Aspose.Imaging .NET: A Comprehensive Guide](./create-animated-gifs-aspose-imaging-net/)
+### [Create animated GIFs using Aspose.Imaging .NET: a comprehensive guide]({{< relref "create-animated-gifs-aspose-imaging-net/_index.md" >}})
 Learn how to create animated GIFs with Aspose.Imaging for .NET, ideal for web and desktop applications. Enhance your skills in image processing with this detailed guide.
 
-### [Create Animated PNGs from Single Images Using Aspose.Imaging for .NET | Animation & Multi-frame Image Guide](./create-animated-png-aspose-imaging-net/)
+### [Create animated PNGs from single images using Aspose.Imaging for .NET]({{< relref "create-animated-png-aspose-imaging-net/_index.md" >}})
 Learn how to create animated PNGs (APNG) from a single image using Aspose.Imaging for .NET. Enhance your projects with dynamic visuals without the overhead of video files.
 
-### [Create Animated PNGs from TIFF Files Using Aspose.Imaging for .NET: A Step-by-Step Guide](./create-animated-png-from-tiff-aspose-imaging-net/)
+### [Create animated PNGs from TIFF files using Aspose.Imaging for .NET]({{< relref "create-animated-png-from-tiff-aspose-imaging-net/_index.md" >}})
 Learn how to convert multipage TIFF images into animated PNG (APNG) files using Aspose.Imaging for .NET. This guide includes installation, code examples, and performance tips.
 
-### [How to Create Multi-Frame TIFF Images with Aspose.Imaging for .NET](./create-multi-frame-tiff-images-aspose-imaging-dotnet/)
+### [How to Create Multi-Frame TIFF Images with Aspose.Imaging for .NET]({{< relref "create-multi-frame-tiff-images-aspose-imaging-dotnet/_index.md" >}})
 Learn how to create multi-frame TIFF images using Aspose.Imaging in .NET. Master setting up your environment, configuring TiffOptions, resizing JPEGs, and adding frames.
 
-### [How to Load and Access Frames in WebP Images Using Aspose.Imaging .NET](./load-access-frames-webp-images-aspose-imaging-net/)
+### [How to Load and Access Frames in WebP Images Using Aspose.Imaging .NET]({{< relref "load-access-frames-webp-images-aspose-imaging-net/_index.md" >}})
 Learn how to efficiently load and manipulate frames from multi-frame WebP images using Aspose.Imaging for .NET. This guide provides step-by-step instructions and best practices.
 
-### [How to Set GIF Frame Duration and Loop Count Using Aspose.Imaging for .NET](./aspose-imaging-net-set-gif-frame-duration-loop-count/)
+### [How to Set GIF Frame Duration and Loop Count Using Aspose.Imaging for .NET]({{< relref "aspose-imaging-net-set-gif-frame-duration-loop-count/_index.md" >}})
 Learn how to set GIF frame duration and loop count with Aspose.Imaging for .NET. Master GIF animation control in your projects.
 
 ## How to Set GIF Loop Count Using Aspose.Imaging for .NET
@@ -66,16 +66,45 @@ Many legacy assets are stored as multi‑page TIFF files. Converting them to APN
 ## Create Animated GIF in .NET with Aspose.Imaging
 Animated GIFs remain popular for simple web animations. Aspose.Imaging lets you add frames, set per‑frame delays, and define a loop count—all from clean C# code.
 
+## Sample Code: Creating an APNG in .NET
+```csharp
+using Aspose.Imaging;
+using Aspose.Imaging.ImageOptions;
+
+// Load source images
+var frames = new List<string> { "frame1.png", "frame2.png", "frame3.png" };
+
+// Create APNG options
+var apngOptions = new ApngOptions
+{
+    // Set default frame delay (in milliseconds)
+    FrameDelay = 100
+};
+
+// Create a new image with the first frame
+using (var image = (Image)Image.Load(frames[0]))
+{
+    // Add remaining frames
+    for (int i = 1; i < frames.Count; i++)
+    {
+        image.Frames.Add(Image.Load(frames[i]).Frames[0]);
+    }
+
+    // Save as APNG
+    image.Save("output.apng", apngOptions);
+}
+```
+
 ## Additional Resources
 
-- [Aspose.Imaging for Net Documentation](https://docs.aspose.com/imaging/net/)
-- [Aspose.Imaging for Net API Reference](https://reference.aspose.com/imaging/net/)
-- [Download Aspose.Imaging for Net](https://releases.aspose.com/imaging/net/)
+- [Aspose.Imaging for .NET Documentation](https://docs.aspose.com/imaging/net/)
+- [Aspose.Imaging for .NET API Reference](https://reference.aspose.com/imaging/net/)
+- [Download Aspose.Imaging for .NET](https://releases.aspose.com/imaging/net/)
 - [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging)
 - [Free Support](https://forum.aspose.com/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: Can I use these tutorials with .NET 6?**  
 A: Yes, Aspose.Imaging fully supports .NET 6, and the code samples compile without changes.
@@ -102,6 +131,6 @@ A: A full commercial license removes evaluation limitations and provides priorit
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< /blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/products-backtop-button >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

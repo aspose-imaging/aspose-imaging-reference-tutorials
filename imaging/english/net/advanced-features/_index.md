@@ -1,5 +1,5 @@
 ---
-title: Coreldraw File Support in Aspose.Imaging for .NET
+title: Enable Coreldraw File Support with Aspose.Imaging for .NET
 linktitle: Advanced Features
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to enable coreldraw file support and reduce BMP file size using Aspose.Imaging for .NET with step‑by‑step advanced feature tutorials.
@@ -45,9 +45,21 @@ BigTiff images can be challenging to handle, but with Aspose.Imaging for .NET, i
 ### BMP RLE4 in Aspose.Imaging for .NET
 BMP RLE4 compression is a useful feature to **reduce BMP file size** without compromising quality. In this tutorial, we'll guide you on how to apply this compression technique effectively in Aspose.Imaging for .NET. Your images will take up less space without losing visual appeal, which is a valuable asset for any image‑intensive project.
 
+#### Sample C# code to load a CorelDRAW file
+```csharp
+// Load a CorelDRAW file and save as PNG
+using Aspose.Imaging;
+using Aspose.Imaging.FileFormats.Cdr;
+
+using (var image = Image.Load("sample.cdr"))
+{
+    image.Save("output.png", new PngOptions());
+}
+```
+
 In conclusion, Aspose.Imaging for .NET offers a wide array of advanced features that can significantly enhance your image processing and manipulation capabilities. With our step‑by‑step tutorials, you'll unlock the full potential of this library, making image‑related tasks in your .NET applications a breeze. Dive into these tutorials, and discover how you can work with images with ease and creativity.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: Can I load a CorelDRAW file without converting it first?**  
 A: Yes, Aspose.Imaging’s coreldraw file support lets you open CDR files directly for inspection, conversion, or editing.
@@ -70,7 +82,7 @@ A: Use the `Resize`, `Compress`, and `Crop` operations provided by Aspose.Imagin
 **Tested With:** Aspose.Imaging for .NET (latest release)  
 **Author:** Aspose  
 
-## Advanced Features Tutorials
+## Advanced features tutorials
 ### [Get Original Options in Aspose.Imaging for .NET](./get-original-options/)
 Unlock the full potential of Aspose.Imaging for .NET with our step-by-step guide to obtaining original options. Learn how to work with images in your .NET applications with ease.
 ### [Convert APS to PSD in Aspose.Imaging for .NET](./convert-aps-to-psd/)
@@ -88,6 +100,6 @@ Learn how to apply BMP RLE4 compression in Aspose.Imaging for .NET. Reduce BMP i
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< /blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/products-backtop-button >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
