@@ -1,5 +1,5 @@
 ---
-title: Aspose Imaging for .NET – Load, Edit, and Convert BigTiff to TIFF
+title: Aspose.Imaging for .NET – Load, Edit, and Convert BigTiff to TIFF
 linktitle: Load, Edit, Convert BigTiff with Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn the Aspose Imaging BigTiff example to load, edit, and convert BigTiff to TIFF in .NET applications. Follow our step‑by‑step guide for seamless image handling.
@@ -145,12 +145,11 @@ In this tutorial, we’ve explored the **aspose imaging bigtiff example** from s
 
 **Last Updated:** 2026-02-06  
 **Tested With:** Aspose.Imaging for .NET (latest release)  
-**Author:** Aspose  
+**Author:** Aspose
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}

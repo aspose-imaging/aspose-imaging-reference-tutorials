@@ -1,5 +1,5 @@
 ---
-title: Enable Coreldraw File Support with Aspose.Imaging for .NET
+title: Learn How to Enable CorelDRAW File Support with Aspose.Imaging for .NET
 linktitle: Advanced Features
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to enable coreldraw file support and reduce BMP file size using Aspose.Imaging for .NET with step‑by‑step advanced feature tutorials.
@@ -83,23 +83,22 @@ A: Use the `Resize`, `Compress`, and `Crop` operations provided by Aspose.Imagin
 **Author:** Aspose  
 
 ## Advanced features tutorials
-### [Get Original Options in Aspose.Imaging for .NET](./get-original-options/)
+### [Get Original Options in Aspose.Imaging for .NET]({{< relref "get-original-options/_index.md" >}})
 Unlock the full potential of Aspose.Imaging for .NET with our step-by-step guide to obtaining original options. Learn how to work with images in your .NET applications with ease.
-### [Convert APS to PSD in Aspose.Imaging for .NET](./convert-aps-to-psd/)
+### [Convert APS to PSD in Aspose.Imaging for .NET]({{< relref "convert-aps-to-psd/_index.md" >}})
 Convert APS to PSD with Aspose.Imaging for .NET. Preserve vector properties during conversion.
-### [Pantone Goe Coated Palette in Aspose.Imaging for .NET](./pantone-goe-coated-palette/)
+### [Pantone Goe Coated Palette in Aspose.Imaging for .NET]({{< relref "pantone-goe-coated-palette/_index.md" >}})
 Learn how to work with the Pantone Goe Coated Palette in Aspose.Imaging for .NET. Create, manipulate, and convert images effortlessly.
-### [Support of CDR Format in Aspose.Imaging for .NET](./support-of-cdr-format/)
+### [Support of CDR Format in Aspose.Imaging for .NET]({{< relref "support-of-cdr-format/_index.md" >}})
 Explore CDR format support in Aspose.Imaging for .NET. Step-by-step guide to load and verify CorelDRAW files. Perfect for developers and designers.
-### [BigTiff Load Example in Aspose.Imaging for .NET](./bigtiff-load-example/)
+### [BigTiff Load Example in Aspose.Imaging for .NET]({{< relref "bigtiff-load-example/_index.md" >}})
 Learn how to manipulate BigTiff images in .NET applications with Aspose.Imaging for .NET. Follow our step-by-step guide for seamless image handling.
-### [BMP RLE4 in Aspose.Imaging for .NET](./bmp-rle4/)
+### [BMP RLE4 in Aspose.Imaging for .NET]({{< relref "bmp-rle4/_index.md" >}})
 Learn how to apply BMP RLE4 compression in Aspose.Imaging for .NET. Reduce BMP image size without quality loss.
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}

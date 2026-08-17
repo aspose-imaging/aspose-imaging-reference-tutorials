@@ -1,5 +1,5 @@
 ---
-title: "How to Create Animated PNG (APNG) Files in .NET using Aspose.Imaging"
+title: "How to Generate Animated Images in .NET"
 description: "Learn how to create APNG images in .NET using Aspose.Imaging, and discover how to set GIF loop count, convert TIFF to APNG, and create animated GIFs with ease."
 weight: 11
 url: "/net/animation-multi-frame-images/"
@@ -125,12 +125,11 @@ A: A full commercial license removes evaluation limitations and provides priorit
 
 **Last Updated:** 2026-02-06  
 **Tested With:** Aspose.Imaging 24.11 for .NET  
-**Author:** Aspose  
+**Author:** Aspose
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}

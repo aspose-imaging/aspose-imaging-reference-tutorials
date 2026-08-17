@@ -1,5 +1,5 @@
 ---
-title: How to Draw Graphics with Aspose.Imaging for .NET – Master Image Drawing
+title: Create and Draw Graphics with Aspose.Imaging for .NET – Master Image Drawing
 linktitle: Draw Using Graphics in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to draw graphics with Aspose.Imaging for .NET, including how to set image options, clear image surface, apply linear gradient, and draw shapes in C#.
@@ -147,19 +147,18 @@ You now have a complete, production‑ready example that shows **how to draw gra
 
 If you encounter any issues or have questions, feel free to visit the [Aspose.Imaging support forum](https://forum.aspose.com/) for assistance.
 
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-
-{{< blocks/products/products-backtop-button >}}
-{{< /blocks/products/products-backtop-button >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
 ---
+
 
 **Last Updated:** 2026-02-06  
 **Tested With:** Aspose.Imaging for .NET (latest release)  
 **Author:** Aspose  
 
 ---
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}
