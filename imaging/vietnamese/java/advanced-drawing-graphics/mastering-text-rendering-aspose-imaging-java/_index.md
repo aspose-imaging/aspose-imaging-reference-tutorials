@@ -1,17 +1,37 @@
 ---
-date: '2025-12-17'
-description: Tìm hiểu cách hiển thị văn bản với phông chữ trong Java bằng Aspose.Imaging.
-  Bao gồm việc tạo ảnh động, áp dụng kiểu phông chữ và lưu tệp EMF.
+date: '2026-02-19'
+description: Tìm hiểu cách tạo đồ họa vector bằng Java sử dụng Aspose.Imaging. Kết
+  xuất văn bản có kiểu dáng, áp dụng hiệu ứng phông chữ và lưu các tệp EMF chất lượng
+  cao cho việc tạo hình ảnh động.
 keywords:
 - text rendering Java
 - Aspose.Imaging tutorial
 - Java graphics with fonts
 - advanced drawing with Aspose.Imaging
 - custom text rendering Java
-title: Thành thạo văn bản với phông chữ trong Java sử dụng Aspose.Imaging
+title: Cách tạo đồ họa vector trong Java bằng Aspose.Imaging – Thành thạo văn bản
+  với phông chữ
 url: /vi/java/advanced-drawing-graphics/mastering-text-rendering-aspose-imaging-java/
 weight: 1
 ---
+
+, drawing bold/italic/underline text, and saving the result as an EMF file for scalable vector output."
+
+Translate to Vietnamese, keep bold parts unchanged? The bold parts are **create vector graphics java**, **styled text Java**, etc. Keep them as is. So translate rest.
+
+**What You'll Learn** etc.
+
+Proceed.
+
+We must keep markdown formatting.
+
+Let's produce translation.
+
+Be careful with bullet points and code block placeholders.
+
+Also preserve URLs.
+
+Let's craft translation.
 
 {{< blocks/products/pf/main-wrap-class >}}
 
@@ -20,40 +40,44 @@ weight: 1
 {{< blocks/products/pf/tutorial-page-section >}}
 # Làm chủ văn bản với phông chữ trong Java bằng Aspose.Imaging
 
-## Introduction
+## Giới thiệu
 
-Bạn đang muốn nâng cao các ứng dụng Java của mình bằng cách thêm khả năng **text with fonts** tùy chỉnh? Dù là tạo hình ảnh động, tạo báo cáo, hay thiết kế đồ họa, khả năng vẽ văn bản có kiểu dáng có thể nâng tầm dự án của bạn. Trong tutorial này bạn sẽ khám phá cách sử dụng Aspose.Imaging cho Java để render **text with fonts**, áp dụng nhiều kiểu phông chữ, và **save EMF files** cho đầu ra vector chất lượng cao.
+Trong tutorial này bạn sẽ học cách **create vector graphics java** với Aspose.Imaging, tập trung vào việc render văn bản có kiểu dáng với phông chữ tùy chỉnh. Dù bạn cần tạo ảnh động, xây dựng tiêu đề báo cáo, hay xuất file vector sắc nét, việc làm chủ render văn bản sẽ mang lại cho ứng dụng Java của bạn một lợi thế về mặt hình ảnh chuyên nghiệp. Chúng ta sẽ đi qua cách thiết lập thư viện, vẽ văn bản in đậm/italics/gạch chân, và lưu kết quả dưới dạng file EMF để có đầu ra vector có thể mở rộng.
 
-**What You'll Learn**
+**Bạn sẽ học được**
 
 - Cách thiết lập Aspose.Imaging cho Java (bao gồm tích hợp **aspose imaging maven**)  
-- Kỹ thuật vẽ **styled text Java** với in đậm, nghiêng, gạch chân và gạch ngang  
-- Các trường hợp thực tế như **dynamic image generation** và xuất vector  
+- Kỹ thuật vẽ **styled text Java** với in đậm, in nghiêng, gạch chân và gạch ngang  
+- Các trường hợp sử dụng thực tế như **dynamic image generation** và xuất file dựa trên vector  
 
 Bây giờ, hãy cùng xem qua các yêu cầu trước khi bắt đầu!
 
-## Quick Answers
-- **Can I render text with multiple font styles?** Yes – Aspose.Imaging lets you combine bold, underline, italic, etc.  
-- **Which build tool is recommended?** Both Maven (`aspose imaging maven`) and Gradle are supported.  
-- **What format does the example save to?** An EMF (Enhanced Metafile) file, ideal for vector graphics.  
-- **Do I need a license?** A free trial works for evaluation; a full license is required for production.  
-- **Is this suitable for dynamic image generation?** Absolutely – you can generate images on‑the‑fly with custom text.
+## Câu trả lời nhanh
+- **Tôi có thể render văn bản với nhiều kiểu phông chữ không?** Có – Aspose.Imaging cho phép bạn kết hợp in đậm, gạch chân, nghiêng, v.v.  
+- **Công cụ build nào được khuyến nghị?** Cả Maven (`aspose imaging maven`) và Gradle đều được hỗ trợ.  
+- **Ví dụ này lưu dưới định dạng nào?** File EMF (Enhanced Metafile), lý tưởng cho đồ họa vector.  
+- **Tôi có cần giấy phép không?** Bản dùng thử miễn phí đủ cho việc đánh giá; giấy phép đầy đủ cần thiết cho môi trường production.  
+- **Liệu nó có phù hợp cho việc tạo ảnh động không?** Chắc chắn – bạn có thể tạo ảnh “on‑the‑fly” với văn bản tùy chỉnh.
 
-## Yêu cầu trước
+## Tại sao nên tạo vector graphics java với Aspose.Imaging?
 
-Trước khi bạn bắt đầu triển khai **text with fonts**, hãy chắc chắn rằng bạn có:
+Đồ họa vector có thể phóng to mà không mất chất lượng, rất phù hợp cho màn hình DPI cao, báo cáo in ấn và các tài sản có thể tái sử dụng. Khi sử dụng Aspose.Imaging, bạn sẽ có một giải pháp thuần Java xử lý render phông chữ phức tạp, hỗ trợ xuất EMF và tích hợp mượt mà với quy trình build hiện có.
 
-- **Required Libraries:** Aspose.Imaging for Java version 25.5 or later.  
-- **Environment Setup:** A Java Development Kit (JDK) installed on your machine.  
-- **Knowledge Prerequisites:** Basic Java programming and familiarity with image processing concepts.
+## Các yêu cầu trước
+
+Trước khi bắt đầu triển khai **text with fonts**, hãy chắc chắn rằng bạn đã có:
+
+- **Thư viện cần thiết:** Aspose.Imaging cho Java phiên bản 25.5 trở lên.  
+- **Cài đặt môi trường:** JDK đã được cài trên máy tính của bạn.  
+- **Kiến thức nền:** Kiến thức cơ bản về lập trình Java và hiểu biết về xử lý ảnh.
 
 ## Cài đặt Aspose.Imaging cho Java
 
 Để bắt đầu sử dụng Aspose.Imaging cho Java, tích hợp thư viện vào dự án của bạn.
 
-**Maven** (the **aspose imaging maven** way)
+**Maven** (cách **aspose imaging maven**)
 
-Add the following dependency to your `pom.xml` file:
+Thêm dependency sau vào file `pom.xml` của bạn:
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -64,31 +88,31 @@ Add the following dependency to your `pom.xml` file:
 
 **Gradle**
 
-Include this in your `build.gradle` file:
+Thêm đoạn này vào file `build.gradle` của bạn:
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-**Direct Download**
+**Tải trực tiếp**
 
-If you prefer to download the library directly, visit [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
+Nếu bạn muốn tải thư viện trực tiếp, truy cập [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-### License Acquisition
+### Nhận giấy phép
 
-Bạn có thể bắt đầu với bản dùng thử miễn phí của Aspose.Imaging bằng cách tải giấy phép tạm thời từ [Temporary License](https://purchase.aspose.com/temporary-license/). Đối với đầy đủ tính năng, hãy cân nhắc mua giấy phép.
+Bạn có thể bắt đầu với bản dùng thử miễn phí của Aspose.Imaging bằng cách tải giấy phép tạm thời từ [Temporary License](https://purchase.aspose.com/temporary-license/). Đối với quyền truy cập và tính năng đầy đủ, hãy cân nhắc mua giấy phép.
 
-Sau khi thư viện được thiết lập, bạn có thể khởi tạo nó trong ứng dụng Java và bắt đầu vẽ **text with fonts**.
+Sau khi thư viện đã được thiết lập, bạn có thể khởi tạo nó trong ứng dụng Java và bắt đầu vẽ **text with fonts**.
 
-## Implementation Guide
+## Hướng dẫn triển khai
 
-Trong phần này chúng ta sẽ đi qua hai tính năng chính: vẽ **styled text Java** với các phông chữ khác nhau, và tạo đối tượng đồ họa để ghi EMF.
+Trong phần này chúng ta sẽ đi qua hai tính năng chính: vẽ **styled text Java** với các phông chữ khác nhau, và tạo đối tượng đồ họa để ghi lại EMF.
 
-### Tính năng 1: Vẽ Văn bản với Các Phông chữ Khác nhau
+### Tính năng 1: Vẽ văn bản với các phông chữ khác nhau
 
-#### Overview
+#### Tổng quan
 Tính năng này cho phép bạn render **text with fonts** bằng các kiểu in đậm, nghiêng, gạch chân và gạch ngang — hoàn hảo cho **dynamic image generation**.
 
-##### Step 1: Create a Graphics Object
+##### Bước 1: Tạo đối tượng Graphics
 
 Đầu tiên, khởi tạo đối tượng graphics sẽ chứa các thao tác vẽ của bạn:
 ```java
@@ -99,7 +123,7 @@ com.aspose.imaging.fileformats.emf.graphics.EmfRecorderGraphics2D graphics =
                 new Size(1000, 1000));
 ```
 
-##### Step 2: Define Fonts
+##### Bước 2: Định nghĩa phông chữ
 
 Xác định các phông chữ bạn muốn sử dụng. Ví dụ, một phông Arial in đậm và gạch chân:
 ```java
@@ -107,7 +131,7 @@ Xác định các phông chữ bạn muốn sử dụng. Ví dụ, một phông 
 Font boldUnderlineFont = new Font("Arial", 10, FontStyle.Bold | FontStyle.Underline);
 ```
 
-##### Step 3: Draw Text
+##### Bước 3: Vẽ văn bản
 
 Sử dụng phương thức `drawString` để render **styled text** lên bề mặt graphics:
 ```java
@@ -120,7 +144,7 @@ graphics.drawString(boldUnderlineFont.getName() + " " + boldUnderlineFont.getSiz
 graphics.drawString("some text", boldUnderlineFont, Color.getBrown(), 10, 30);
 ```
 
-##### Step 4: Save Your Work
+##### Bước 4: Lưu lại công việc
 
 Kết thúc việc ghi và **save EMF file**:
 ```java
@@ -133,14 +157,14 @@ try {
 }
 ```
 
-Điều này tạo ra một tệp vector EMF giữ được độ sắc nét của văn bản ở bất kỳ tỉ lệ nào.
+Điều này sẽ tạo ra một file vector EMF giữ được độ sắc nét của văn bản ở bất kỳ tỉ lệ nào.
 
-### Tính năng 2: Tạo Đối tượng Graphics cho Ghi EMF
+### Tính năng 2: Tạo đối tượng Graphics cho việc ghi EMF
 
-#### Overview
-Một đối tượng graphics được khởi tạo đúng cách là nền tảng cho mọi thao tác vẽ, đặc biệt khi bạn muốn **save EMF file**.
+#### Tổng quan
+Một đối tượng graphics được khởi tạo đúng cách là nền tảng cho mọi thao tác vẽ, đặc biệt khi bạn dự định **save EMF file**.
 
-##### Step 1: Initialize Graphics Object
+##### Bước 1: Khởi tạo đối tượng Graphics
 
 Tạo lại đối tượng `EmfRecorderGraphics2D`:
 ```java
@@ -151,9 +175,9 @@ com.aspose.imaging.fileformats.emf.graphics.EmfRecorderGraphics2D graphics =
                 new Size(1000, 1000));
 ```
 
-##### Step 2: End Recording
+##### Bước 2: Kết thúc ghi
 
-Kết thúc đối tượng graphics khi bạn đã hoàn tất việc vẽ:
+Hoàn thiện đối tượng graphics khi bạn đã hoàn tất việc vẽ:
 ```java
 EmfImage image = graphics.endRecording();
 try {
@@ -165,71 +189,71 @@ try {
 
 Bây giờ bạn đã có một bề mặt graphics sẵn sàng cho bất kỳ thao tác **text with fonts** nào tiếp theo.
 
-## Ứng dụng Thực tiễn
+## Ứng dụng thực tiễn
 
-Dưới đây là một số kịch bản thực tế nơi **text with fonts** tỏa sáng:
+Dưới đây là một số kịch bản thực tế mà **text with fonts** tỏa sáng:
 
-1. **Report Generation** – Chèn tiêu đề và chân trang có kiểu dáng vào PDF hoặc báo cáo dựa trên hình ảnh.  
-2. **Dynamic Image Creation** – Tạo banner marketing cá nhân hoá với phông chữ tùy chỉnh ngay lập tức.  
-3. **User Interface Design** – Render nhãn hoặc nút dựa trên vector có thể thu phóng mượt mà trên màn hình DPI cao.  
+1. **Tạo báo cáo** – Chèn tiêu đề và chân trang có kiểu dáng vào PDF hoặc báo cáo dựa trên ảnh.  
+2. **Tạo ảnh động** – Tạo banner marketing cá nhân hoá với phông chữ tùy chỉnh ngay lập tức.  
+3. **Thiết kế giao diện người dùng** – Render nhãn hoặc nút dựa trên vector, phóng to sạch sẽ trên màn hình DPI cao.
 
-Những ví dụ này minh họa cách **dynamic image generation** và **styled text Java** có thể nâng cao chất lượng hình ảnh của ứng dụng của bạn.
+Những ví dụ này minh họa cách **dynamic image generation** và **styled text Java** có thể nâng cao chất lượng hình ảnh của ứng dụng.
 
-## Performance Considerations
+## Lưu ý về hiệu năng
 
-Để giữ cho ứng dụng của bạn luôn nhanh nhẹn:
+Để ứng dụng của bạn luôn mượt mà:
 
-- **Dispose of image objects promptly** để giải phóng bộ nhớ.  
-- Sử dụng **efficient data structures** và hạn chế phạm vi của các biến lớn.  
-- Đối với các batch lớn, cân nhắc **asynchronous processing** để tránh việc UI bị khóa.
+- **Giải phóng các đối tượng ảnh** ngay khi không còn dùng để giải phóng bộ nhớ.  
+- Sử dụng **cấu trúc dữ liệu hiệu quả** và hạn chế phạm vi của các biến lớn.  
+- Đối với batch lớn, cân nhắc **xử lý bất đồng bộ** để tránh block UI.
 
-## Conclusion
+## Kết luận
 
-Trong tutorial này bạn đã học cách render **text with fonts** trong Java bằng Aspose.Imaging, cách **apply font styles**, và cách **save EMF files** cho đầu ra vector. Với các kỹ thuật này, bạn có thể tạo đồ họa phong phú hơn, tạo hình ảnh động, và cải thiện tính thẩm mỹ của bất kỳ dự án Java nào.
+Trong tutorial này bạn đã học cách **create vector graphics java** bằng cách render **text with fonts** trong Java sử dụng Aspose.Imaging, cách **áp dụng các kiểu phông chữ**, và cách **lưu file EMF** cho đầu ra vector. Với những kỹ thuật này, bạn có thể tạo đồ họa phong phú hơn, tạo ảnh động, và cải thiện tính thẩm mỹ của bất kỳ dự án Java nào.
 
-**Next Steps:** Khám phá các tính năng bổ sung của Aspose.Imaging như bộ lọc ảnh, watermark, và chuyển đổi định dạng để nâng cao giải pháp của bạn hơn nữa.
+**Bước tiếp theo:** Khám phá các tính năng khác của Aspose.Imaging như bộ lọc ảnh, watermark, và chuyển đổi định dạng để nâng cao hơn nữa giải pháp của bạn.
 
-## FAQ Section
+## Phần FAQ
 
-1. **How do I get started with Aspose.Imaging for Java?**  
-   Download the library via Maven, Gradle, or directly from the [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
+1. **Làm thế nào để bắt đầu với Aspose.Imaging cho Java?**  
+   Tải thư viện qua Maven, Gradle, hoặc trực tiếp từ [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-2. **Can I use fonts other than Arial?**  
-   Yes – any font installed on the host system can be referenced in the `Font` constructor.
+2. **Tôi có thể dùng phông chữ khác ngoài Arial không?**  
+   Có – bất kỳ phông chữ nào được cài trên hệ thống host đều có thể được tham chiếu trong hàm khởi tạo `Font`.
 
-3. **What are common pitfalls when rendering text?**  
-   Ensure the graphics object dimensions match your desired output size; otherwise text may be clipped or distorted.
+3. **Những lỗi thường gặp khi render văn bản là gì?**  
+   Đảm bảo kích thước của đối tượng graphics khớp với kích thước đầu ra mong muốn; nếu không, văn bản có thể bị cắt hoặc biến dạng.
 
-4. **Is there a limit to how many styles I can combine?**  
-   Technically no, but stacking too many styles can affect readability and performance.
+4. **Có giới hạn số lượng kiểu tôi có thể kết hợp không?**  
+   Kỹ thuật không có giới hạn, nhưng việc kết hợp quá nhiều kiểu có thể ảnh hưởng tới khả năng đọc và hiệu năng.
 
-5. **How do I handle licensing for production use?**  
-   Start with a free trial from [Temporary License](https://purchase.aspose.com/temporary-license/) and upgrade to a full license for commercial deployments.
+5. **Làm sao xử lý giấy phép cho môi trường production?**  
+   Bắt đầu với bản dùng thử từ [Temporary License](https://purchase.aspose.com/temporary-license/) và nâng cấp lên giấy phép đầy đủ cho triển khai thương mại.
 
-### Additional Frequently Asked Questions
+### Các câu hỏi thường gặp bổ sung
 
-**Q:** *Can I generate PNG or JPEG instead of EMF?*  
-**A:** Yes – after drawing, call `image.save("output.png", new PngOptions())` or use `JpegOptions` for JPEG.
+**Hỏi:** *Tôi có thể tạo PNG hoặc JPEG thay vì EMF không?*  
+**Đáp:** Có – sau khi vẽ, gọi `image.save("output.png", new PngOptions())` hoặc dùng `JpegOptions` cho JPEG.
 
-**Q:** *Does Aspose.Imaging support Unicode characters?*  
-**A:** Absolutely. Provide a font that contains the required glyphs, and the library will render them correctly.
+**Hỏi:** *Aspose.Imaging có hỗ trợ ký tự Unicode không?*  
+**Đáp:** Hoàn toàn có. Cung cấp phông chữ chứa các glyph cần thiết và thư viện sẽ render chúng đúng.
 
-**Q:** *Is there a way to batch‑process multiple text overlays?*  
-**A:** Wrap your drawing logic in a loop and reuse the graphics object, disposing each `EmfImage` after saving.
+**Hỏi:** *Có cách nào để batch‑process nhiều lớp phủ văn bản không?*  
+**Đáp:** Đặt logic vẽ của bạn trong một vòng lặp và tái sử dụng đối tượng graphics, giải phóng mỗi `EmfImage` sau khi lưu.
 
-## Resources
+## Tài nguyên
 
-- **Documentation:** Explore detailed guides at [Aspose Documentation](https://reference.aspose.com/imaging/java/).  
-- **Download:** Access the latest version of Aspose.Imaging from the [Releases Page](https://releases.aspose.com/imaging/java/).  
-- **Purchase:** Get a full license through the [Aspose Purchase Page](https://purchase.aspose.com/buy).  
-- **Free Trial:** Try out Aspose.Imaging with a free trial available on the [Temporary License Page](https://purchase.aspose.com/temporary-license/).  
-- **Support:** Join discussions or seek help at the [Aspose Forum](https://forum.aspose.com/c/imaging/14).
+- **Tài liệu:** Khám phá hướng dẫn chi tiết tại [Aspose Documentation](https://reference.aspose.com/imaging/java/).  
+- **Tải xuống:** Truy cập phiên bản mới nhất của Aspose.Imaging từ [Releases Page](https://releases.aspose.com/imaging/java/).  
+- **Mua:** Đăng ký giấy phép đầy đủ qua [Aspose Purchase Page](https://purchase.aspose.com/buy).  
+- **Dùng thử miễn phí:** Thử Aspose.Imaging với bản dùng thử miễn phí trên [Temporary License Page](https://purchase.aspose.com/temporary-license/).  
+- **Hỗ trợ:** Tham gia thảo luận hoặc yêu cầu trợ giúp tại [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 ---
 
-**Last Updated:** 2025-12-17  
-**Tested With:** Aspose.Imaging 25.5 for Java  
-**Author:** Aspose  
+**Cập nhật lần cuối:** 2026-02-19  
+**Kiểm thử với:** Aspose.Imaging 25.5 cho Java  
+**Tác giả:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
