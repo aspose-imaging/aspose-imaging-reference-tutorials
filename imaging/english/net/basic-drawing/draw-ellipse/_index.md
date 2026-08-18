@@ -1,6 +1,6 @@
 ---
-title: How to Draw an Ellipse Using Aspose.Imaging API for .NET
-linktitle: How to Draw an Ellipse Using Aspose.Imaging API for .NET
+title: Create an Ellipse Image with Aspose.Imaging for .NET
+linktitle: Create an Ellipse Image with Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to draw ellipse in Aspose.Imaging for .NET, a versatile image manipulation library. Create stunning graphics with ease.
 weight: 12

@@ -1,5 +1,5 @@
 ---
-title: "Create a Custom GIF Palette with Aspose.Imaging for .NET"
+title: "Generate Custom Color Palettes for Optimized Image Compression"
 description: "Learn how to create custom GIF palettes and master image compression techniques with Aspose.Imaging for .NET. Step‑by‑step guides for optimal performance and storage efficiency."
 weight: 13
 url: "/net/compression-optimization/"
@@ -69,31 +69,31 @@ This snippet demonstrates how to build a grayscale palette, attach it to a GIF, 
 
 ## Available Tutorials
 
-### {{< relref "load-compress-tiff-images-aspose-imaging-dotnet" >}}Efficient TIFF image loading and compression with Aspose.Imaging .NET: a step‑by‑step guide{{< /relref >}}
+### [Efficient TIFF image loading and compression with Aspose.Imaging .NET: a step‑by‑step guide]({{< relref "load-compress-tiff-images-aspose-imaging-dotnet" >}})
 Learn how to efficiently load and compress TIFF images using Aspose.Imaging for .NET. Enhance image quality while reducing file size with Adobe Deflate compression.
 
-### {{< relref "lossy-gif-compression-aspose-imaging-dotnet" >}}How to Implement Lossy GIF Compression Using Aspose.Imaging for .NET{{< /relref >}}
+### [How to Implement Lossy GIF Compression Using Aspose.Imaging for .NET]({{< relref "lossy-gif-compression-aspose-imaging-dotnet" >}})
 Learn how to efficiently reduce GIF file sizes with lossy compression using Aspose.Imaging for .NET. Optimize images for web performance and storage management.
 
-### {{< relref "jpeg-ls-compression-aspose-imaging-net" >}}JPEG‑LS Compression and PNG Conversion using Aspose.Imaging .NET for Efficient Image Optimization{{< /relref >}}
+### [JPEG‑LS Compression and PNG Conversion using Aspose.Imaging .NET for Efficient Image Optimization]({{< relref "jpeg-ls-compression-aspose-imaging-net" >}})
 Learn how to compress images using JPEG‑LS with Aspose.Imaging .NET, convert them back to PNG, and optimize storage without compromising quality.
 
-### {{< relref "optimize-images-aspose-imaging-net" >}}Master image optimization with Aspose.Imaging .NET: loading, caching, and cropping techniques{{< /relref >}}
+### [Master image optimization with Aspose.Imaging .NET: loading, caching, and cropping techniques]({{< relref "optimize-images-aspose-imaging-net" >}})
 Learn to optimize image handling in .NET applications using Aspose.Imaging. Discover efficient loading, caching, cropping techniques for better performance.
 
-### {{< relref "multithreaded-djvu-processing-aspose-imaging-net" >}}Mastering Multithreaded DJVU Image Processing with Aspose.Imaging .NET for Efficient Compression & Optimization{{< /relref >}}
+### [Mastering Multithreaded DJVU Image Processing with Aspose.Imaging .NET for Efficient Compression & Optimization]({{< relref "multithreaded-djvu-processing-aspose-imaging-net" >}})
 Learn how to efficiently process DJVU images using multithreading in Aspose.Imaging .NET, enhancing your application's performance and workflow.
 
-### {{< relref "optimize-image-performance-aspose-imaging-net" >}}Optimize Image Performance in .NET with Aspose.Imaging: Loading and Adjusting Contrast{{< /relref >}}
+### [Optimize Image Performance in .NET with Aspose.Imaging: Loading and Adjusting Contrast]({{< relref "optimize-image-performance-aspose-imaging-net" >}})
 Learn how to enhance your .NET applications by optimizing image performance using Aspose.Imaging. Discover techniques for loading, caching, and adjusting contrast efficiently.
 
-### {{< relref "aspose-imaging-net-optimize-cache-create-gifs" >}}Optimize Image Processing with Aspose.Imaging for .NET: Cache Settings and Custom GIF Palettes{{< /relref >}}
+### [Optimize Image Processing with Aspose.Imaging for .NET: Cache Settings and Custom GIF Palettes]({{< relref "aspose-imaging-net-optimize-cache-create-gifs" >}})
 Learn how to optimize cache settings and create custom palette GIFs using Aspose.Imaging for .NET. Enhance performance and customize image outputs effectively.
 
-### {{< relref "png-compression-dotnet-aspose-imaging" >}}Optimize PNG file size in .NET using Aspose.Imaging{{< /relref >}}
+### [Optimize PNG file size in .NET using Aspose.Imaging]({{< relref "png-compression-dotnet-aspose-imaging" >}})
 Learn how to efficiently compress and optimize PNG images in .NET using Aspose.Imaging. Boost your application's performance with our step‑by‑step guide.
 
-### {{< relref "optimize-png-images-using-paeth-filter-aspose-imaging-net" >}}Optimize PNG Images Using the Paeth Filter with Aspose.Imaging .NET for Better Compression and Performance{{< /relref >}}
+### [Optimize PNG Images Using the Paeth Filter with Aspose.Imaging .NET for Better Compression and Performance]({{< relref "optimize-png-images-using-paeth-filter-aspose-imaging-net" >}})
 Learn how to effectively optimize your PNG images using the powerful Aspose.Imaging library in .NET, leveraging the Paeth filter for enhanced compression without sacrificing quality.
 
 ## Additional Resources

@@ -1,5 +1,5 @@
 ---
-title: Create an Image with Aspose.Imaging – Line Drawing in .NET
+title: Line Drawing with .NET Imaging
 linktitle: Draw Lines in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to create image aspose.imaging and draw precise lines with Aspose.Imaging for .NET. This step‑by‑step guide covers image creation, line drawing, and more.
