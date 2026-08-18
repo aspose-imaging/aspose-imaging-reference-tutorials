@@ -1,5 +1,5 @@
 ---
-title: Create image aspose.imaging – Line Drawing in Aspose.Imaging
+title: Create an Image with Aspose.Imaging – Line Drawing in .NET
 linktitle: Draw Lines in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to create image aspose.imaging and draw precise lines with Aspose.Imaging for .NET. This step‑by‑step guide covers image creation, line drawing, and more.
@@ -39,14 +39,14 @@ If you're looking to **create image aspose.imaging** and add stunning, precise l
 Before we dive into drawing lines with Aspose.Imaging for .NET, make sure you have the following:
 
 1. **Visual Studio** – Any recent version (Community, Professional, or Enterprise).  
-2. **Aspose.Imaging for .NET** – Download it from the [website](https://releases.aspose.com/imaging/net/).  
+2. **Aspose.Imaging for .NET** – Download it from the [Aspose.Imaging for .NET download page](https://releases.aspose.com/imaging/net/).  
 3. **Your Document Directory** – Create a folder where the generated images will be saved. Replace `"Your Document Directory"` in the code example with the actual path to this folder.
 
 Now that we've covered the prerequisites, let's proceed with the step‑by‑step guide for drawing lines in Aspose.Imaging for .NET.
 
 ## How to create image aspose.imaging – Step‑by‑Step Guide
 
-### Step 1: Import Namespaces
+### Step 1: import namespaces
 
 Before we can start drawing lines, we need to import the necessary namespaces. This will enable us to use the classes and methods provided by Aspose.Imaging for .NET.
 
@@ -60,7 +60,7 @@ using Aspose.Imaging.Colors;
 
 With these namespaces imported, you're ready to start drawing lines in Aspose.Imaging for .NET.
 
-### Step 2: Create an Image
+### Step 2: create an image
 
 First, we'll **create an image** where we can draw lines. The `Image.Create` method is the primary way to **create image aspose.imaging** objects.
 
@@ -72,7 +72,7 @@ using (Image image = Image.Create(saveOptions, 100, 100))
 }
 ```
 
-### Step 3: Initialize Graphics
+### Step 3: initialize graphics
 
 To draw lines on the image, you'll need to initialize a `Graphics` object.
 
@@ -80,7 +80,7 @@ To draw lines on the image, you'll need to initialize a `Graphics` object.
 Graphics graphic = new Graphics(image);
 ```
 
-### Step 4: Clear the Graphics Surface
+### Step 4: clear the graphics surface
 
 Before drawing lines, it's a good practice to clear the graphics surface. This step sets the background color of the image.
 
@@ -88,7 +88,7 @@ Before drawing lines, it's a good practice to clear the graphics surface. This s
 graphic.Clear(Color.Yellow);
 ```
 
-### Step 5: Draw Diagonal Lines
+### Step 5: draw diagonal lines
 
 Now, let's draw two dotted diagonal lines with a blue color.
 
@@ -97,7 +97,7 @@ graphic.DrawLine(new Pen(Color.Blue), 9, 9, 90, 90);
 graphic.DrawLine(new Pen(Color.Blue), 9, 90, 90, 9);
 ```
 
-### Step 6: Draw Continuous Lines
+### Step 6: draw continuous lines
 
 In this step, we'll draw four continuous lines with different colors. These lines create a rectangle.
 
@@ -108,7 +108,7 @@ graphic.DrawLine(new Pen(new SolidBrush(Color.Black)), new Point(90, 90), new Po
 graphic.DrawLine(new Pen(new SolidBrush(Color.White)), new Point(90, 9), new Point(9, 9));
 ```
 
-### Step 7: Save the Image
+### Step 7: save the image
 
 Finally, save the image with the drawn lines.
 
@@ -116,7 +116,7 @@ Finally, save the image with the drawn lines.
 image.Save();
 ```
 
-## Common Issues and Solutions
+## Common issues and solutions
 
 | Issue | Reason | Solution |
 |-------|--------|----------|
@@ -124,7 +124,7 @@ image.Save();
 | **Lines appear invisible** | Pen width is 0 or color matches background | Set a visible `Pen` width (`new Pen(Color.Blue, 2)`) and choose contrasting colors. |
 | **Exception on Linux** | Missing native dependencies | Install the required `libgdiplus` package on Linux distributions. |
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: What image formats are supported by Aspose.Imaging for .NET?**  
 A: Aspose.Imaging for .NET supports a wide range of image formats, including JPEG, PNG, BMP, GIF, TIFF, and many more.
@@ -139,7 +139,7 @@ A: Aspose.Imaging for .NET provides options to create gradient brushes, allowing
 A: Yes, Aspose.Imaging for .NET is compatible with .NET Core, making it suitable for cross‑platform development.
 
 **Q: Is there a free trial version of Aspose.Imaging for .NET available?**  
-A: Yes, you can try out Aspose.Imaging for .NET by downloading the free trial from [here](https://releases.aspose.com/).
+A: Yes, you can try out Aspose.Imaging for .NET by downloading the free trial from the [Aspose.Imaging free trial download page](https://releases.aspose.com/).
 
 ## Conclusion
 
@@ -147,16 +147,23 @@ Drawing lines with Aspose.Imaging for .NET is a straightforward process, as demo
 
 If you have any questions or face any challenges, you can seek assistance on the [Aspose.Imaging forum](https://forum.aspose.com/).
 
-{{< /blocks/products/pf/tutorial-page-section >}}
 
-{{< /blocks/products/pf/main-container >}}
 
-{{< /blocks/products/pf/main-wrap-class >}}
 
-{{< blocks/products/products-backtop-button >}}
+
+
+
+
 
 ---
 
 **Last Updated:** 2026-02-14  
 **Tested With:** Aspose.Imaging 24.11 for .NET  
 **Author:** Aspose
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

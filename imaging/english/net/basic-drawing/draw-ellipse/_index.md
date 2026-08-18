@@ -1,6 +1,6 @@
 ---
-title: How to Draw Ellipse in Aspose.Imaging for .NET
-linktitle: How to Draw Ellipse in Aspose.Imaging for .NET
+title: How to Draw an Ellipse Using Aspose.Imaging API for .NET
+linktitle: How to Draw an Ellipse Using Aspose.Imaging API for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to draw ellipse in Aspose.Imaging for .NET, a versatile image manipulation library. Create stunning graphics with ease.
 weight: 12
@@ -41,11 +41,11 @@ Now that we have the prerequisites in place, let's get started.
 
 In this step, we will import the necessary namespaces to work with Aspose.Imaging. Follow the steps below:
 
-### Step 1: Open Your Visual Studio Project
+### Step 1: open your visual studio project
 
 Launch Visual Studio and open your .NET project where you plan to use Aspose.Imaging.
 
-### Step 2: Add Using Directives
+### Step 2: add using directives
 
 In your code file, add the following using directives to include the required namespaces:
 
@@ -64,9 +64,9 @@ Now that you've imported the necessary namespaces, you're ready to draw an ellip
 
 We'll now provide a step‑by‑step guide on **how to draw ellipse** using Aspose.Imaging for .NET. This example will guide you through the process.
 
-### Step 1: Set Up the Output File
+### Step 1: set up the output file
 
-Before drawing an ellipse, you need to set up the output file. Here's how you can do it:
+Before drawing an ellipse, you need to set up the output file. Here’s how you can do it:
 
 ```csharp
 string dataDir = "Your Document Directory";
@@ -76,7 +76,7 @@ using (FileStream stream = new FileStream(dataDir + "DrawingEllipse_out.bmp", Fi
 
 In this code snippet, we create a `FileStream` to specify the output file path.
 
-### Step 2: Configure BmpOptions
+### Step 2: configure bmpOptions
 
 To configure the BMP format and other properties, use the following code:
 
@@ -88,7 +88,7 @@ saveOptions.Source = new StreamSource(stream);
 
 Here, we create a `BmpOptions` instance, set the bit depth, and specify the source stream.
 
-### Step 3: Create an Image
+### Step 3: create an image
 
 Create an instance of the `Image` class with the specified options and dimensions:
 
@@ -103,7 +103,7 @@ In this step, we create an image with a size of 100 × 100 pixels.
 
 A clean background makes your ellipse stand out. You can set any background color before drawing shapes.
 
-### Step 4: Initialize Graphics and Clear Surface
+### Step 4: initialize graphics and clear surface
 
 Initialize a `Graphics` instance and clear the image surface:
 
@@ -118,7 +118,7 @@ This code creates a `Graphics` object and **sets the image background** to yello
 
 Once the canvas is ready, you can start creating custom graphics such as ellipses, lines, or polygons.
 
-### Step 5: Draw Ellipses
+### Step 5: draw ellipses
 
 Now, let's draw ellipses on the image:
 
@@ -129,7 +129,7 @@ graphic.DrawEllipse(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 8
 
 Here, we draw a red ellipse and a blue solid ellipse on the image.
 
-### Step 6: Save the Image
+### Step 6: save the image
 
 Finally, save the image:
 
@@ -163,16 +163,23 @@ You can access detailed documentation on Aspose.Imaging for .NET on the [documen
 
 You can seek support and engage with the Aspose community on the [forum](https://forum.aspose.com/).
 
-{{< /blocks/products/pf/tutorial-page-section >}}
 
-{{< /blocks/products/pf/main-container >}}
 
-{{< /blocks/products/pf/main-wrap-class >}}
 
-{{< blocks/products/products-backtop-button >}}
+
+
+
+
 
 ---
 
 **Last Updated:** 2026-02-14  
 **Tested With:** Aspose.Imaging for .NET (latest release)  
 **Author:** Aspose
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}
