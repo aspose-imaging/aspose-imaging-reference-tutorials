@@ -1,5 +1,5 @@
 ---
-title: "How to Multithread Aspose.Imaging in .NET: Batch Processing and Multi-threading Tutorials"
+title: "Accelerate .NET Batch Image Processing with Aspose.Imaging Multithreading"
 description: "Learn how to multithread Aspose.Imaging in .NET, convert multiple TIFF images, and implement multi-threaded image processing with batch operations."
 date: 2026-02-12
 weight: 14
@@ -22,6 +22,29 @@ In this guide, you'll discover **how to multithread Aspose.Imaging in .NET** so 
 - **Can I convert multiple TIFF images in parallel?** Yes—combine batch conversion with multithreading for optimal throughput.  
 - **Is progress monitoring available?** Aspose.Imaging provides events and callbacks you can hook into from each thread.
 
+### Sample Multithreaded Conversion (C#)
+
+```csharp
+using Aspose.Imaging;
+using System;
+using System.IO;
+using System.Threading.Tasks;
+
+string[] tiffFiles = Directory.GetFiles(@"C:\Images\Input", "*.tif");
+
+// Process files in parallel, one task per logical processor core
+Parallel.ForEach(tiffFiles, new ParallelOptions { MaxDegreeOfParallelism = Environment.ProcessorCount }, filePath =>
+{
+    using (Image image = Image.Load(filePath))
+    {
+        // Example: convert each TIFF to JPEG
+        var jpegOptions = new JpegOptions { Quality = 90 };
+        string outputPath = Path.ChangeExtension(filePath, ".jpg");
+        image.Save(outputPath, jpegOptions);
+    }
+});
+```
+
 ## What is multithreaded image processing with Aspose.Imaging?
 Multithreaded image processing means running several image operations—such as loading, resizing, or converting—simultaneously on different threads. Aspose.Imaging is thread‑safe for most read‑only scenarios, allowing you to distribute work across CPU cores without data corruption.
 
@@ -32,10 +55,10 @@ Multithreaded image processing means running several image operations—such as 
 
 ## Available Tutorials
 
-### [Batch TIFF Conversion in .NET Using Aspose.Imaging&#58; A Comprehensive Guide](./batch-tiff-conversion-net-aspose-imaging/)
+### {{< relref "batch-tiff-conversion-net-aspose-imaging/_index.md" >}}
 Learn how to efficiently **convert multiple TIFF images** using the powerful Aspose.Imaging library with this detailed guide. Enhance your .NET applications now!
 
-## Common Use Cases
+## Common use cases
 - **Mass photo archives:** Convert or resize thousands of pictures overnight.  
 - **Document imaging pipelines:** Transform scanned TIFFs into PDFs or JPEGs on the fly.  
 - **Scientific imaging:** Process large datasets of microscopy images with custom filters.
@@ -49,7 +72,7 @@ Learn how to efficiently **convert multiple TIFF images** using the powerful Asp
 - [Free Support](https://forum.aspose.com/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: Is Aspose.Imaging thread‑safe for write operations?**  
 A: Write operations are not inherently thread‑safe; you should synchronize access or work on separate image instances per thread.
