@@ -1,6 +1,6 @@
 ---
-title: How to Draw Arc with Aspose.Imaging for .NET
-linktitle: Draw Arc in Aspose.Imaging for .NET
+title: Draw an Arc Using Aspose.Imaging for .NET
+linktitle: Draw Arc with Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to draw arc using Aspose.Imaging for .NET, including how to save BMP file, set image size, and set graphics background. Step‑by‑step guide for generating BMP images.
 weight: 10
@@ -14,7 +14,7 @@ date: 2026-02-09
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# How to Draw Arc with Aspose.Imaging for .NET
+# Draw an Arc Using Aspose.Imaging for .NET
 
 In the world of image processing, **how to draw arc** is a common task that can add visual flair to any graphic. With Aspose.Imaging for .NET you can generate BMP images, set the image size, and draw an arc with a pen in just a few lines of C#. By the end of this tutorial you’ll know exactly how to draw an arc, set the graphics background, and save the resulting BMP file effortlessly.
 
@@ -37,16 +37,16 @@ Drawing an arc means rendering a curved line segment defined by a bounding recta
 
 Before we dive into the code, make sure you have the following:
 
-1. **Aspose.Imaging for .NET** – download it from the official site [here](https://releases.aspose.com/imaging/net/).  
+1. **Aspose.Imaging for .NET** – download it from the official site [Aspose.Imaging for .NET download page](https://releases.aspose.com/imaging/net/).  
 2. **A .NET development environment** (Visual Studio, VS Code, or any C# compiler).  
 
 Now that we have our prerequisites ready, let’s start drawing!
 
-## Importing Necessary Namespaces
+## Importing necessary namespaces
 
 To work with Aspose.Imaging you need to bring the relevant namespaces into scope:
 
-### Step 1: Import the Namespaces
+### Step 1: import the namespaces
 
 ```csharp
 using Aspose.Imaging;
@@ -85,7 +85,7 @@ using (FileStream stream = new FileStream(dataDir + "DrawingArc_out.bmp", FileMo
 
 Here we **set image size** to 100 × 100 pixels and configure the BMP options. The `FileStream` ensures we **save BMP file** to the desired location.
 
-### Step 2: Initialize Graphics and Set Graphics Background
+### Step 2: initialize graphics and set graphics background
 
 ```csharp
         // Create and initialize an instance of Graphics class and clear the graphics surface
@@ -95,7 +95,7 @@ Here we **set image size** to 100 × 100 pixels and configure the BMP opti
 
 The `Graphics` object lets us paint on the image. By calling `Clear(Color.Yellow)` we **set graphics background** to a bright yellow, making the arc stand out.
 
-### Step 3: Define Arc Parameters and Draw Arc with Pen
+### Step 3: define arc parameters and draw arc with pen
 
 ```csharp
         // Define the parameters for the arc
@@ -118,7 +118,7 @@ The `Graphics` object lets us paint on the image. By calling `Clear(Color.Yellow
 - The `Pen` object is what lets us **draw arc with pen** in black.  
 - After drawing, `image.Save()` writes the **BMP file** to disk.
 
-## Common Issues & Tips
+## Common issues & tips
 
 - **Arc not visible?** Make sure the pen color contrasts with the background (e.g., black on yellow).  
 - **Incorrect dimensions?** Remember that the arc’s bounding rectangle can be larger than the image; adjust `width`/`height` or the image size accordingly.  
@@ -128,23 +128,23 @@ The `Graphics` object lets us paint on the image. By calling `Clear(Color.Yellow
 
 ### Q1: Where can I find the documentation for Aspose.Imaging for .NET?
 
-A1: You can refer to the documentation [here](https://reference.aspose.com/imaging/net/) for comprehensive information on Aspose.Imaging for .NET.
+A1: You can refer to the documentation [Aspose.Imaging .NET API documentation](https://reference.aspose.com/imaging/net/) for comprehensive information on Aspose.Imaging for .NET.
 
 ### Q2: How can I download Aspose.Imaging for .NET?
 
-A2: You can download Aspose.Imaging for . .NET from the website [here](https://releases.aspose.com/imaging/net/).
+A2: You can download Aspose.Imaging for .NET from the website [Aspose.Imaging .NET download page](https://releases.aspose.com/imaging/net/).
 
 ### Q3: Is there a free trial available for Aspose.Imaging for .NET?
 
-A3: Yes, you can get a free trial version [here](https://releases.aspose.com/) to try out Aspose.Imaging for .NET.
+A3: Yes, you can get a free trial version [Aspose.Imaging free trial download](https://releases.aspose.com/) to try out Aspose.Imaging for .NET.
 
 ### Q4: Do I need a temporary license for Aspose.Imaging for .NET?
 
-A4: If you need a temporary license, you can obtain one [here](https://purchase.aspose.com/temporary-license/).
+A4: If you need a temporary license, you can obtain one [temporary license request page](https://purchase.aspose.com/temporary-license/).
 
 ### Q5: Where can I seek support or ask questions about Aspose.Imaging for .NET?
 
-A5: You can visit the Aspose.Imaging forum for support and discussions [here](https://forum.aspose.com/).
+A5: You can visit the Aspose.Imaging support forum [Aspose.Imaging support forum](https://forum.aspose.com/).
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: c# draw bezier: Aspose.Imaging Bezier Curve Tutorial
+title: 'c# draw bezier: Draw Bezier curves on BMP images using Aspose.Imaging'
 linktitle: Draw Bezier Curve in Aspose.Imaging for .NET
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to c# draw bezier curves and create image graphics using Aspose.Imaging for .NET in this step‑by‑step tutorial.
@@ -44,12 +44,12 @@ Now that we’ve covered the basics, let’s get hands‑on.
 
 ## Step‑by‑Step Guide
 
-### Step 1: Initialize the Environment
+### Step 1: initialize the environment
 Create a new C# project (Console App or Class Library) and add a reference to the Aspose.Imaging DLLs.
 
 ### Step 2: Write the code to draw the Bezier curve
 
-#### Step 2.1: Create a FileStream
+#### Step 2.1: create a fileStream
 ```csharp
 // The path to the documents directory.
 string dataDir = "Your Document Directory";
@@ -60,7 +60,7 @@ using (FileStream stream = new FileStream(dataDir + "DrawingBezier_out.bmp", Fil
 ```
 Replace `"Your Document Directory"` with the actual path where you want the bitmap saved.
 
-#### Step 2.2: Set BmpOptions
+#### Step 2.2: set bmpOptions
 ```csharp
 BmpOptions saveOptions = new BmpOptions();
 saveOptions.BitsPerPixel = 32;
@@ -68,7 +68,7 @@ saveOptions.Source = new StreamSource(stream);
 ```
 Here we configure a 32‑bit BMP image and bind it to the stream.
 
-#### Step 2.3: Create an Image
+#### Step 2.3: create an image
 ```csharp
 using (Image image = Image.Create(saveOptions, 100, 100))
 {
@@ -77,14 +77,14 @@ using (Image image = Image.Create(saveOptions, 100, 100))
 ```
 The `Image.Create` method allocates a 100 × 100 pixel canvas.
 
-#### Step 2.4: Initialize Graphics
+#### Step 2.4: initialize graphics
 ```csharp
 Graphics graphic = new Graphics(image);
 graphic.Clear(Color.Yellow);
 ```
 We obtain a `Graphics` object and **set background color aspose** to yellow. Feel free to change `Color.Yellow` to any other `System.Drawing.Color`.
 
-#### Step 2.5: Define Bezier Parameters
+#### Step 2.5: define bezier parameters
 ```csharp
 Pen BlackPen = new Pen(Color.Black, 3);
 float startX = 10;
@@ -98,23 +98,23 @@ float endY = 25;
 ```
 These variables describe the start point, two control points, and the end point of the curve.
 
-#### Step 2.6: Draw the Bezier Curve
+#### Step 2.6: draw the bezier curve
 ```csharp
 graphic.DrawBezier(BlackPen, startX, startY, controlX1, controlY1, controlX2, controlY2, endX, endY);
 image.Save();
 ```
 `DrawBezier` renders the curve, and `image.Save()` writes the bitmap to the file system.
 
-### Step 3: Run and Verify
+### Step 3: run and verify
 Build the project and run it. You’ll find `DrawingBezier_out.bmp` in the folder you specified. Open the file to see a black cubic Bezier curve on a yellow background.
 
-## Common Issues & Tips
+## Common issues & tips
 
 - **Incorrect path** – Ensure `dataDir` ends with a backslash (`\`) or use `Path.Combine` for safety.  
 - **Missing license** – In trial mode, some advanced features may be restricted; the basic drawing works without a license.  
 - **Color not changing** – Verify you called `graphic.Clear` *before* drawing the curve.  
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### Q1: What is a Bezier curve?
 A Bezier curve is a mathematically defined smooth curve used in vector graphics. It is controlled by start, end, and one or more control points.

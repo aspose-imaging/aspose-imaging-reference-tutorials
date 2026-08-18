@@ -1,5 +1,5 @@
 ---
-title: How to create ellipse with Aspose.Imaging for .NET
+title: How to draw and create an ellipse using Aspose.Imaging for .NET
 linktitle: Basic Drawing
 second_title: Aspose.Imaging .NET Image Processing API
 description: Learn how to create ellipse with Aspose.Imaging for .NET and discover how to draw rectangle .net, draw arcs in .net, and other basic drawing techniques.
@@ -42,6 +42,30 @@ Bezier curves are the foundation of smooth, curved designs in the world of graph
 ## Drawing Ellipses with Aspose.Imaging for .NET  
 Ellipses are the building blocks of many shapes in graphic design. With Aspose.Imaging for .NET, you can easily **create ellipse with Aspose.Imaging**, forming the basis of logos, icons, and more. This tutorial will guide you through the process, so you can start producing visually stunning graphics in no time.
 
+```csharp
+using Aspose.Imaging;
+using Aspose.Imaging.ImageOptions;
+using Aspose.Imaging.Brushes;
+using Aspose.Imaging.Pens;
+using System.Drawing;
+
+// Create a new image
+using (var image = new Image())
+{
+    var options = new PngOptions { ColorType = ColorType.Rgb };
+    using (var bitmap = (Image)Image.Create(options, 500, 300))
+    {
+        var graphics = new Graphics(bitmap);
+        // Define ellipse bounds
+        var rect = new RectangleF(50, 50, 400, 200);
+        // Draw ellipse
+        graphics.DrawEllipse(new Pen(Color.Blue, 5), rect);
+        // Save image
+        bitmap.Save("ellipse.png");
+    }
+}
+```
+
 ## Drawing Precise Lines with Aspose.Imaging for .NET  
 Lines are the fundamental elements of graphic design, used to create shapes, borders, and various visual elements. Aspose.Imaging for .NET provides the tools you need to draw precise lines and make your graphics stand out.
 
@@ -50,19 +74,19 @@ Rectangles serve as the basis for various design elements and are essential in c
 
 In conclusion, the world of graphic design is at your fingertips with Aspose.Imaging for .NET. These step‑by‑step tutorials will empower you to create visually stunning graphics and bring your creative ideas to life. So, dive into the world of drawing with Aspose.Imaging for .NET and unlock your artistic potential.
 
-## Basic Drawing Tutorials
-### [Draw Arc in Aspose.Imaging for .NET](./draw-arc/)
+## Basic drawing tutorials
+### [Draw Arc in Aspose.Imaging for .NET]({{< relref "draw-arc/_index.md" >}})
 Learn how to draw arcs with Aspose.Imaging for .NET, a powerful image manipulation tool. Step-by-step guide for creating stunning visuals.
-### [Draw Bezier Curve in Aspose.Imaging for .NET](./draw-bezier-curve/)
+### [Draw Bezier Curve in Aspose.Imaging for .NET]({{< relref "draw-bezier-curve/_index.md" >}})
 Learn how to draw Bezier curves in Aspose.Imaging for .NET. Enhance your .NET graphics with this step-by-step guide.
-### [Draw Ellipse in Aspose.Imaging for .NET](./draw-ellipse/)
+### [Draw Ellipse in Aspose.Imaging for .NET]({{< relref "draw-ellipse/_index.md" >}})
 Learn to draw ellipses in Aspose.Imaging for .NET, a versatile image manipulation library. Create stunning graphics with ease.
-### [Draw Lines in Aspose.Imaging for .NET](./draw-lines/)
+### [Draw Lines in Aspose.Imaging for .NET]({{< relref "draw-lines/_index.md" >}})
 Learn how to draw precise lines in Aspose.Imaging for .NET. This step-by-step guide covers image creation, line drawing, and more.
-### [Draw Rectangle in Aspose.Imaging for .NET](./draw-rectangle/)
+### [Draw Rectangle in Aspose.Imaging for .NET]({{< relref "draw-rectangle/_index.md" >}})
 Learn to draw rectangles in Aspose.Imaging for .NET - a versatile tool for image manipulation in your .NET applications.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: Do I need a license to use Aspose.Imaging in production?**  
 A: Yes, a commercial license is required for production use, but a free trial is available for evaluation.
