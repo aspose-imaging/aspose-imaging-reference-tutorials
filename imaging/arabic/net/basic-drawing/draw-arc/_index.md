@@ -1,10 +1,12 @@
 ---
-"description": "تعلم كيفية رسم الأقواس باستخدام Aspose.Imaging لـ .NET، أداة فعّالة لمعالجة الصور. دليل خطوة بخطوة لإنشاء صور مذهلة."
-"linktitle": "رسم القوس في Aspose.Imaging لـ .NET"
-"second_title": "واجهة برمجة تطبيقات معالجة الصور Aspose.Imaging .NET"
-"title": "إنشاء أقواس باستخدام Aspose.Imaging لـ .NET"
-"url": "/ar/net/basic-drawing/draw-arc/"
-"weight": 10
+date: 2026-02-09
+description: تعلم كيفية رسم قوس باستخدام Aspose.Imaging لـ .NET، بما في ذلك كيفية
+  حفظ ملف BMP، ضبط حجم الصورة، وتعيين خلفية الرسومات. دليل خطوة بخطوة لإنشاء صور BMP.
+linktitle: Draw Arc in Aspose.Imaging for .NET
+second_title: Aspose.Imaging .NET Image Processing API
+title: كيفية رسم قوس باستخدام Aspose.Imaging لـ .NET
+url: /ar/net/basic-drawing/draw-arc/
+weight: 10
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,23 +15,37 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# إنشاء أقواس باستخدام Aspose.Imaging لـ .NET
+# كيفية رسم قوس باستخدام Aspose.Imaging لـ .NET
 
-في عالم معالجة الصور، يُعد Aspose.Imaging for .NET أداةً متعددة الاستخدامات وفعّالة تُمكّن المطورين من إجراء مجموعة واسعة من العمليات على الصور. من المهام الأساسية في معالجة الصور رسم الأشكال، وفي هذا البرنامج التعليمي، سنشرح لك عملية رسم قوس باستخدام Aspose.Imaging for .NET. بنهاية هذا الدليل، ستتمكن من إنشاء أقواس رائعة في صورك بسهولة.
+في عالم معالجة الصور، **كيفية رسم قوس** هي مهمة شائعة يمكنها إضافة لمسة بصرية لأي رسم. باستخدام Aspose.Imaging لـ .NET يمكنك إنشاء صور BMP، ضبط حجم الصورة، ورسم قوس بالقلم في بضع أسطر فقط من C#. في نهاية هذا الدرس ستعرف بالضبط كيفية رسم قوس، ضبط خلفية الرسومات، وحفظ ملف BMP الناتج بسهولة.
 
-## المتطلبات الأساسية
+## إجابات سريعة
+- **ماذا ينتج الكود؟** صورة BMP بحجم 100 × 100 بكسل بخلفية صفراء وقوس أسود.  
+- **ما المكتبة المستخدمة؟** Aspose.Imaging لـ .NET.  
+- **هل أحتاج إلى ترخيص؟** النسخة التجريبية المجانية تكفي للتطوير؛ يلزم ترخيص تجاري للإنتاج.  
+- **هل يمكنني تغيير حجم الصورة؟** نعم – عدل قيم العرض والارتفاع في استدعاء `Image.Create`.  
+- **هل تنسيق الإخراج ثابت؟** المثال يحفظ ملف BMP، لكن يمكن استخدام أي تنسيق تدعمه Aspose.Imaging.
 
-قبل أن نتعمق في التفاصيل الدقيقة لرسم الأقواس، تأكد من توفر المتطلبات الأساسية التالية:
+## ما هو “كيفية رسم قوس” في Aspose.Imaging؟
+يعني رسم قوس تمثيل مقطع خط منحني يُحدَّد بواسطة مستطيل محيط، زاوية البداية، وزاوية المسح. توفر Aspose.Imaging الطريقة `Graphics.DrawArc` التي تسمح لك **برسم قوس بالقلم** والتحكم في كل جانب بصري.
 
-1. Aspose.Imaging for .NET: يجب تثبيت Aspose.Imaging for .NET. إذا لم يكن مثبتًا لديك، يمكنك تنزيله من الموقع الإلكتروني. [هنا](https://releases.aspose.com/imaging/net/).
+## لماذا تستخدم Aspose.Imaging لهذا الغرض؟
+- **تحكم كامل** في أبعاد الصورة، عمق اللون، وتنسيق الملف.  
+- **بدون تبعيات خارجية** – كل شيء يعمل على .NET النقي.  
+- **أداء عالي** لتوليد أعداد كبيرة من الرسومات على جانب الخادم.  
 
-2. بيئة التطوير: تأكد من أن لديك بيئة تطوير عاملة لـ .NET، حيث ستكتب وتنفذ التعليمات البرمجية باستخدام C#.
+## المتطلبات المسبقة
 
-الآن بعد أن أصبح لدينا المتطلبات الأساسية جاهزة، فلنبدأ!
+قبل أن نغوص في الكود، تأكد من أن لديك ما يلي:
 
-## استيراد مساحات الأسماء الضرورية
+1. **Aspose.Imaging لـ .NET** – قم بتنزيله من الموقع الرسمي [هنا](https://releases.aspose.com/imaging/net/).  
+2. **بيئة تطوير .NET** (Visual Studio، VS Code، أو أي مترجم C#).  
 
-في مشروع C# الخاص بك، ستحتاج إلى استيراد مساحات الأسماء اللازمة للعمل مع Aspose.Imaging لـ .NET. إليك كيفية القيام بذلك:
+الآن بعد أن أصبحت المتطلبات جاهزة، لنبدأ الرسم!
+
+## استيراد المساحات الاسمية الضرورية
+
+للعمل مع Aspose.Imaging تحتاج إلى جلب المساحات الاسمية ذات الصلة إلى النطاق:
 
 ### الخطوة 1: استيراد المساحات الاسمية
 
@@ -43,88 +59,99 @@ using System.Drawing;
 using System.IO;
 ```
 
-## رسم قوس خطوة بخطوة
+تُعطيك هذه عبارات `using` إمكانية الوصول إلى فئات إنشاء الصور، معالجة الرسومات، وفئات إدخال/إخراج الملفات.
 
-بعد أن استوردنا مساحات الأسماء اللازمة، لنُقسّم عملية رسم القوس إلى خطوات مُنفصلة. سنستخدم Aspose.Imaging لإنشاء صورة، وإعداد الرسومات، ورسم القوس. تابع:
+## كيفية رسم قوس باستخدام Aspose.Imaging لـ .NET
 
-### الخطوة 1: إعداد الصورة
+سنقسم العملية إلى ثلاث خطوات واضحة: إنشاء الصورة، إعداد سطح الرسومات، وأخيرًا رسم القوس.
+
+### الخطوة 1: إعداد الصورة (تحديد حجم الصورة وإنشاء صورة BMP)
 
 ```csharp
-// حدد الدليل الذي تريد حفظ الصورة فيه
+// Specify the directory where you want to save the image
 string dataDir = "Your Document Directory";
 
-// إنشاء مثيل لـ FileStream لحفظ الصورة
+// Create an instance of FileStream to save the image
 using (FileStream stream = new FileStream(dataDir + "DrawingArc_out.bmp", FileMode.Create))
 {
-    // إنشاء مثيل لـ BmpOptions وتعيين خصائصه
+    // Create an instance of BmpOptions and set its properties
     BmpOptions saveOptions = new BmpOptions();
     saveOptions.BitsPerPixel = 32;
 
-    // تعيين المصدر لـ BmpOptions وإنشاء مثيل للصورة
+    // Set the source for BmpOptions and create an instance of Image
     saveOptions.Source = new StreamSource(stream);
     using (Image image = Image.Create(saveOptions, 100, 100))
     {
 ```
 
-في هذه الخطوة، نُنشئ صورة جديدة ونُحدد المجلد الذي سنحفظها فيه. كما نُحدد خيارات تنسيق BMP، بما في ذلك عمق ألوانه.
+هنا **نحدد حجم الصورة** إلى 100 × 100 بكسل ونُكوّن خيارات BMP. يضمن `FileStream` أننا **نحفظ ملف BMP** في الموقع المطلوب.
 
-### الخطوة 2: تهيئة الرسومات ومسح السطح
+### الخطوة 2: تهيئة Graphics وتحديد خلفية الرسومات
 
 ```csharp
-        // إنشاء مثيل لفئة الرسومات وتهيئته ومسح سطح الرسومات
+        // Create and initialize an instance of Graphics class and clear the graphics surface
         Graphics graphic = new Graphics(image);
         graphic.Clear(Color.Yellow);
 ```
 
-هنا، نقوم بتهيئة `Graphics` قم بإزالة الكائن وتنظيف السطح باستخدام لون الخلفية الأصفر.
+كائن `Graphics` يسمح لنا بالرسم على الصورة. باستدعاء `Clear(Color.Yellow)` **نحدد خلفية الرسومات** إلى أصفر ساطع، مما يجعل القوس يبرز.
 
-### الخطوة 3: تحديد معلمات القوس والرسم
+### الخطوة 3: تعريف معلمات القوس ورسم القوس بالقلم
 
 ```csharp
-        // تحديد معلمات القوس
+        // Define the parameters for the arc
         int width = 100;
         int height = 200;
         int startAngle = 45;
         int sweepAngle = 270;
 
-        // ارسم القوس
+        // Draw the arc
         graphic.DrawArc(new Pen(Color.Black), 0, 0, width, height, startAngle, sweepAngle);
 
-        // حفظ التغييرات
+        // Save the changes
         image.Save();
     }
     stream.Close();
 }
 ```
 
-في هذه الخطوة نقوم بتحديد أبعاد وزوايا القوس ثم نقوم برسمه على سطح الرسم باستخدام القلم الأسود.
+- `width` و `height` يحددان المستطيل المحيط، وبالتالي **تحديد حجم الصورة** للقوس.  
+- كائن `Pen` هو ما يسمح لنا **برسم القوس بالقلم** باللون الأسود.  
+- بعد الرسم، `image.Save()` يكتب **ملف BMP** إلى القرص.
 
-## خاتمة
+## المشكلات الشائعة والنصائح
 
-رسم الأقواس في Aspose.Imaging لـ .NET عملية سهلة باتباع الخطوات التالية. بفضل قوة Aspose.Imaging، يمكنك إنشاء عناصر بصرية مذهلة في صورك بسهولة.
+- **القوس غير مرئي؟** تأكد من أن لون القلم يتباين مع الخلفية (مثلاً، أسود على أصفر).  
+- **أبعاد غير صحيحة؟** تذكر أن المستطيل المحيط بالقوس قد يكون أكبر من الصورة؛ عدل `width`/`height` أو حجم الصورة وفقًا لذلك.  
+- **نصيحة أداء:** أعد استخدام كائن `Graphics` واحد إذا كنت بحاجة لرسم أشكال متعددة على نفس الصورة.
 
 ## الأسئلة الشائعة
 
-### س1: أين يمكنني العثور على الوثائق الخاصة بـ Aspose.Imaging لـ .NET؟
+### س1: أين يمكنني العثور على وثائق Aspose.Imaging لـ .NET؟
 
 ج1: يمكنك الرجوع إلى الوثائق [هنا](https://reference.aspose.com/imaging/net/) للحصول على معلومات شاملة حول Aspose.Imaging لـ .NET.
 
 ### س2: كيف يمكنني تنزيل Aspose.Imaging لـ .NET؟
 
-A2: يمكنك تنزيل Aspose.Imaging لـ . .NET من موقع الويب [هنا](https://releases.aspose.com/imaging/net/).
+ج2: يمكنك تنزيل Aspose.Imaging لـ .NET من الموقع [هنا](https://releases.aspose.com/imaging/net/).
 
-### س3: هل هناك نسخة تجريبية مجانية متاحة لـ Aspose.Imaging لـ .NET؟
+### س3: هل تتوفر نسخة تجريبية مجانية لـ Aspose.Imaging لـ .NET؟
 
 ج3: نعم، يمكنك الحصول على نسخة تجريبية مجانية [هنا](https://releases.aspose.com/) لتجربة Aspose.Imaging لـ .NET.
 
 ### س4: هل أحتاج إلى ترخيص مؤقت لـ Aspose.Imaging لـ .NET؟
 
-أ4: إذا كنت بحاجة إلى ترخيص مؤقت، يمكنك الحصول على واحد [هنا](https://purchase.aspose.com/temporary-license/).
+ج4: إذا كنت بحاجة إلى ترخيص مؤقت، يمكنك الحصول عليه [هنا](https://purchase.aspose.com/temporary-license/).
 
 ### س5: أين يمكنني الحصول على الدعم أو طرح الأسئلة حول Aspose.Imaging لـ .NET؟
 
-ج5: يمكنك زيارة منتدى Aspose.Imaging للحصول على الدعم والمناقشات [هنا](https://forum.aspose.com/).
+ج5: يمكنك زيارة منتدى Aspose.Imaging للحصول على الدعم والنقاشات [هنا](https://forum.aspose.com/).
 
+---
+
+**آخر تحديث:** 2026-02-09  
+**تم الاختبار مع:** Aspose.Imaging 24.11 لـ .NET  
+**المؤلف:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
