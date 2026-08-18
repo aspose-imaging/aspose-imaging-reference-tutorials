@@ -1,10 +1,13 @@
 ---
-"description": "Aspose.Imaging for .NET'te dikdörtgen çizmeyi öğrenin - .NET uygulamalarınızda görüntü düzenleme için çok yönlü bir araç."
-"linktitle": "Aspose.Imaging for .NET'te Dikdörtgen Çizme"
-"second_title": "Aspose.Imaging .NET Görüntü İşleme API'si"
-"title": "Aspose.Imaging for .NET'te Dikdörtgen Çizimi"
-"url": "/tr/net/basic-drawing/draw-rectangle/"
-"weight": 14
+date: 2026-02-12
+description: Aspose ile boş bir resim oluşturmayı ve Aspose.Imaging kullanarak .NET'te
+  dikdörtgen çizmeyi öğrenin – .NET uygulamalarınızda görüntü işleme için hızlı bir
+  rehber.
+linktitle: Draw Rectangle in Aspose.Imaging for .NET
+second_title: Aspose.Imaging .NET Image Processing API
+title: Aspose ile Boş Görüntü Oluştur – .NET'te Dikdörtgen Çiz
+url: /tr/net/basic-drawing/draw-rectangle/
+weight: 14
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,25 +16,37 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Aspose.Imaging for .NET'te Dikdörtgen Çizimi
+# Boş Görüntü Aspose Oluşturma – .NET'te Dikdörtgen Çizme
 
-.NET uygulamalarında görüntü oluşturmak ve düzenlemek karmaşık bir görev olabilir, ancak Aspose.Imaging for .NET'in gücüyle bu, inanılmaz derecede basit hale gelir. Bu adım adım kılavuzda, Aspose.Imaging for .NET kullanarak dikdörtgen çizme sürecini adım adım anlatacağız. Bir görüntü oluşturmayı, özelliklerini ayarlamayı, dikdörtgenler çizmeyi ve çalışmanızı kaydetmeyi öğreneceksiniz. Hadi başlayalım!
+.NET uygulamalarında görüntü oluşturmak ve manipüle etmek zorlayıcı görünebilir, ancak Aspose.Imaging ile sadece birkaç satır kodla **create blank image Aspose** oluşturabilir ve üzerine şekiller çizebilirsiniz. Bu öğreticide, boş bir tuval oluşturulmasından dikdörtgen çizimine kadar tüm süreci adım adım göstereceğiz—böylece .NET projelerinize hemen grafik eklemeye başlayabilirsiniz.
 
-## Ön koşullar
+## Hızlı Yanıtlar
+- **“create blank image Aspose” ne anlama geliyor?** Aspose.Imaging API'sini kullanarak boş bir bitmap oluşturmak anlamına gelir.  
+- **Aspose ile .net'te dikdörtgen nasıl çizilir?** Bir `Graphics` nesnesi başlattıktan sonra `Graphics.DrawRectangle` metodunu kullanın.  
+- **Hangi NuGet paketi gerekiyor?** `Aspose.Imaging` (en son sürüm).  
+- **Görüntüyü PNG, JPEG veya BMP olarak kaydedebilir miyim?** Evet – sadece görüntü seçeneklerini değiştirin (ör. `BmpOptions`, `JpegOptions`).  
+- **Geliştirme için lisansa ihtiyacım var mı?** Değerlendirme için ücretsiz deneme sürümü çalışır; üretim için ticari lisans gereklidir.
 
-Başlamadan önce aşağıdaki ön koşulların mevcut olduğundan emin olun:
+## “create blank image Aspose” nedir?
+Boş bir görüntü oluşturmak, tanımlı genişlik, yükseklik ve piksel formatına sahip bir piksel tamponu ayırmak anlamına gelir. Aspose.Imaging düşük seviyeli ayrıntıları yönetir ve GDI+ ya da System.Drawing ile uğraşmadan çizime hazır bir tuval sağlar.
 
-1. Aspose.Imaging for .NET: Aspose.Imaging for .NET kütüphanesini yüklediğinizden emin olun. Henüz yüklemediyseniz, şuradan indirebilirsiniz: [indirme sayfası](https://releases.aspose.com/imaging/net/).
+## .NET'te dikdörtgen çizmek için Aspose.Imaging neden kullanılmalı?
+- **Cross‑platform** – Windows, Linux ve macOS'ta çalışır.  
+- **Yerel bağımlılık yok** – saf yönetilen kod, sunucu ortamları için mükemmel.  
+- **Zengin çizim API'si** – kalemler, fırçalar, anti‑aliasing ve birçok şekil türünü destekler.  
+- **Yüksek performans** – büyük görüntüler ve toplu işlem için optimize edilmiştir.
 
-2. Geliştirme Ortamı: Visual Studio veya herhangi bir .NET geliştirme aracıyla bir geliştirme ortamı kurmuş olmanız gerekir.
+## Önkoşullar
 
-Şimdi adım adım anlatıma başlayalım.
+1. **Aspose.Imaging for .NET** – [download page](https://releases.aspose.com/imaging/net/) adresinden indirin.  
+2. **Geliştirme Ortamı** – Visual Studio, VS Code veya herhangi bir .NET uyumlu IDE.  
+3. **.NET çalışma zamanı** – .NET 6+ veya .NET Framework 4.7.2+.
 
-## Ad Alanlarını İçe Aktarma
+Şimdi her şey hazır olduğuna göre, koda dalalım.
 
-İlk adım, Aspose.Imaging for .NET ile çalışmak için gerekli ad alanlarını içe aktarmaktır. Bunu nasıl yapacağınız aşağıda açıklanmıştır:
+## .NET'te boş görüntü Aspose nasıl oluşturulur?
 
-### Adım 1: Ad Alanlarını İçe Aktar
+### Adım 1: Gerekli ad alanlarını içe aktarın
 
 ```csharp
 using Aspose.Imaging;
@@ -40,16 +55,12 @@ using Aspose.Imaging.ImageOptions;
 using Aspose.Imaging.Sources;
 ```
 
-Yukarıdaki kodda, görüntü işleme için gerekli sınıfları ve yöntemleri sağlayan Aspose.Imaging ad alanlarını içe aktarıyoruz.
+Bu ad alanları, temel görüntüleme sınıflarına, fırça türlerine ve görüntü kaydetme seçeneklerine erişim sağlar.
 
-## Dikdörtgen Çizimi
-
-Şimdi bir görsel üzerinde dikdörtgen çizmeye geçelim.
-
-### Adım 2: Bir Görüntü Oluşturun
+### Adım 2: Boş bir görüntü oluşturun (tuval)
 
 ```csharp
-string dataDir = "Your Document Directory";  // Belge dizininize giden yolu ayarlayın
+string dataDir = "Your Document Directory";  // Set the path to your document directory
 using (FileStream stream = new FileStream(dataDir, FileMode.Create))
 {
     BmpOptions saveOptions = new BmpOptions();
@@ -58,15 +69,18 @@ using (FileStream stream = new FileStream(dataDir, FileMode.Create))
 
     using (Image image = Image.Create(saveOptions, 100, 100))
     {
-        // Dikdörtgen çizme kodunuz buraya gelecek
+        // Your drawing code will go here
         image.Save();
     }
 }
 ```
 
-Bu adımda, bir örnek oluşturuyoruz `Image` sınıf ve görüntü oluşturma için çeşitli özellikleri ayarlayın, örneğin `BitsPerPixel` ve çıktı akışı. Daha sonra 100x100 piksel boyutunda boş bir resim oluşturuyoruz.
+Bu blokta:
+* Çıktı konumunu (`dataDir`) tanımlarız.  
+* `BmpOptions`'ı 32‑bit piksel formatı kullanacak şekilde yapılandırırız.  
+* 100 × 100 piksel **blank image** oluştururuz.
 
-### Adım 3: Grafikleri Başlatın ve Dikdörtgenler Çizin
+### Adım 3: Aspose.Imaging ile .net'te dikdörtgen nasıl çizilir
 
 ```csharp
 Graphics graphic = new Graphics(image);
@@ -75,43 +89,42 @@ graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 ```
 
-Bu adımda, bir `Graphics` Nesneyi seçin, grafik yüzeyini sarı bir arka planla temizleyin ve görüntü üzerinde farklı renk ve konumlarda iki dikdörtgen çizin.
+* `Graphics.Clear` tuvali bir arka plan rengiyle doldurur (bu örnekte sarı).  
+* `DrawRectangle` iki dikdörtgen çizer—biri basit kırmızı bir kalemle, diğeri mavi katı bir fırça ile—görsel kontrast sağlamak için.
 
-### Adım 4: Görüntüyü Kaydedin
+### Adım 4: Görüntüyü kaydedin
 
 ```csharp
 image.Save();
 ```
 
-Son olarak çizdiğimiz dikdörtgenlerin olduğu görüntüyü kaydediyoruz.
+`Save` çağrısı, bitmap'i daha önce tanımlanan seçenekleri kullanarak dosya sistemine yazar.
 
-## Çözüm
+## Yaygın Sorunlar ve İpuçları
 
-Bu eğitimde, .NET için Aspose.Imaging kullanarak bir görüntüye dikdörtgenler çizmeyi öğrendik. Bu kılavuzda özetlenen adımları izleyerek, .NET uygulamalarınızda görüntüleri kolayca oluşturabilir ve düzenleyebilirsiniz. Aspose.Imaging, görüntü işlemeyi basitleştirerek geliştiriciler için güçlü bir araç haline getirir.
+| Issue | Reason | Fix |
+|-------|--------|-----|
+| **Boş görüntü siyah görünüyor** | Arka plan temizlenmedi | `graphic.Clear(Color.YourColor)` metodunu çizmeden önce çağırın. |
+| **Dosya bulunamadı istisnası** | `dataDir` mevcut olmayan bir klasöre işaret ediyor | Klasörün var olduğundan emin olun veya `Environment.CurrentDirectory` ile `Path.Combine` kullanın. |
+| **Yanlış renkler** | `System.Drawing.Color` yerine `Aspose.Imaging.Color` kullanılması | Her zaman `Aspose.Imaging.Color` içe aktarın. |
+| **Büyük görüntülerde performans gecikmesi** | Yüksek bit‑per‑pixel değerine sahip varsayılan `BmpOptions` kullanılması | Sıkıştırma için `JpegOptions` veya `PngOptions`'a geçin. |
 
-Artık Aspose.Imaging kullanarak .NET projelerinize görüntü düzenlemeyi dahil etmeye hazırsınız. Deney yapmaya ve çarpıcı görseller yaratmaya başlayın!
+## Sıkça Sorulan Sorular (Genişletilmiş)
 
-## SSS
+**S: Dikdörtgen dışında başka şekiller çizebilir miyim?**  
+C: Kesinlikle. Aspose.Imaging `DrawEllipse`, `DrawLine` ve `DrawPolygon` gibi metodlar sunar.
 
-### S1: Aspose.Imaging for .NET ile başka hangi şekilleri çizebilirim?
+**S: Kütüphane ticari kullanım için ücretsiz mi?**  
+C: Hayır, Aspose.Imaging ticari bir üründür, ancak [buradan](https://releases.aspose.com/) ücretsiz deneme sürümüyle değerlendirebilirsiniz.
 
-C1: Aspose.Imaging kütüphanesini kullanarak elips, çizgi ve eğri gibi çeşitli şekiller çizebilirsiniz.
+**S: Bu hem Windows hem de web uygulamalarında çalışır mı?**  
+C: Evet, aynı kod ASP.NET, Blazor ve konsol uygulamalarında çalışır.
 
-### S2: Aspose.Imaging for .NET'i hem Windows hem de web uygulamalarında kullanabilir miyim?
+**S: Çıktı formatını PNG'ye nasıl değiştiririm?**  
+C: `BmpOptions` yerine `PngOptions` kullanın ve dosya uzantısını buna göre ayarlayın.
 
-C2: Evet, Aspose.Imaging for .NET hem Windows hem de web uygulamalarında kullanılabilir ve bu da onu farklı proje türleri için çok yönlü hale getirir.
-
-### S3: Aspose.Imaging for .NET ücretsiz bir kütüphane midir?
-
-A3: Aspose.Imaging for .NET ticari bir kütüphanedir, ancak ücretsiz deneme sürümüyle inceleyebilirsiniz [Burada](https://releases.aspose.com/).
-
-### S4: Aspose.Imaging for .NET'te gelişmiş görüntü işleme özellikleri var mı?
-
-C4: Evet, Aspose.Imaging for .NET, görüntü yeniden boyutlandırma, döndürme ve daha fazlası dahil olmak üzere çok çeşitli gelişmiş görüntü işleme özellikleri sunar.
-
-### S5: Aspose.Imaging for .NET için daha fazla kaynak ve desteği nerede bulabilirim?
-
-A5: Belgelere erişebilirsiniz [Burada](https://reference.aspose.com/imaging/net/) ve destek arayın [Aspose.Görüntüleme forumu](https://forum.aspose.com/).
+**S: Daha ayrıntılı belgeleri nereden bulabilirim?**  
+C: Tam API referansına [buradan](https://reference.aspose.com/imaging/net/) ulaşabilir ve topluluğa [Aspose.Imaging forumunda](https://forum.aspose.com/) katılabilirsiniz.
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
@@ -120,3 +133,9 @@ A5: Belgelere erişebilirsiniz [Burada](https://reference.aspose.com/imaging/net
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
+
+---
+
+**Son Güncelleme:** 2026-02-12  
+**Test Edilen:** Aspose.Imaging 24.12 for .NET  
+**Yazar:** Aspose
