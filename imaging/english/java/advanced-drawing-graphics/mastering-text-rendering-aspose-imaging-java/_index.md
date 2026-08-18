@@ -1,5 +1,5 @@
 ---
-title: "How to create vector graphics java with Aspose.Imaging – Mastering Text with Fonts"
+title: "How to create vector graphics in Java – Mastering Text with Fonts"
 description: "Learn how to create vector graphics java using Aspose.Imaging. Render styled text, apply font effects, and save high‑quality EMF files for dynamic image generation."
 date: "2026-02-19"
 weight: 1
@@ -50,7 +50,7 @@ Before you start implementing **text with fonts**, make sure you have:
 - **Environment Setup:** A Java Development Kit (JDK) installed on your machine.  
 - **Knowledge Prerequisites:** Basic Java programming and familiarity with image processing concepts.
 
-## Setting Up Aspose.Imaging for Java
+## Setting up Aspose.Imaging for java
 
 To begin using Aspose.Imaging for Java, integrate the library into your project.
 
@@ -86,7 +86,7 @@ Once the library is set up, you can initialize it in your Java application and s
 
 In this section we’ll walk through two core features: drawing **styled text Java** with different fonts, and creating a graphics object for EMF recording.
 
-### Feature 1: Drawing Text with Different Fonts
+### Feature 1: drawing text with different fonts
 
 #### Overview
 This feature lets you render **text with fonts** using bold, italic, underline, and strikeout styles—perfect for **dynamic image generation**.
@@ -138,7 +138,7 @@ try {
 
 This creates an EMF vector file that retains crisp text at any scale.
 
-### Feature 2: Creating a Graphics Object for EMF Recording
+### Feature 2: creating a graphics object for EMF recording
 
 #### Overview
 A properly initialized graphics object is the foundation for any drawing operation, especially when you plan to **save EMF file**.
@@ -209,7 +209,7 @@ In this tutorial you’ve learned how to **create vector graphics java** by rend
 5. **How do I handle licensing for production use?**  
    Start with a free trial from [Temporary License](https://purchase.aspose.com/temporary-license/) and upgrade to a full license for commercial deployments.
 
-### Additional Frequently Asked Questions
+### Additional frequently asked questions
 
 **Q:** *Can I generate PNG or JPEG instead of EMF?*  
 **A:** Yes – after drawing, call `image.save("output.png", new PngOptions())` or use `JpegOptions` for JPEG.
