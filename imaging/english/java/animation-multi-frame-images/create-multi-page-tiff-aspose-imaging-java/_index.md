@@ -46,9 +46,9 @@ To successfully execute the code examples provided in this tutorial, you'll need
 - **Environment Setup**: Ensure your development environment is ready with JDK (Java Development Kit) installed. We recommend using an IDE like IntelliJ IDEA or Eclipse for ease of use.
 - **Knowledge Prerequisites**: Basic understanding of Java programming and familiarity with handling file I/O operations in Java.
 
-## Setting Up Aspose.Imaging for Java
+## Setting up Aspose.Imaging for java
 
-To start working with Aspose.Imaging, you need to integrate it into your project. Here's how you can do this using popular build tools:
+To start working with Aspose.Imaging, you need to integrate it into your project. Here’s how you can do this using popular build tools:
 
 **Maven:**  
 Add the following dependency to your `pom.xml`:
@@ -66,14 +66,14 @@ Include this in your `build.gradle` file:
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-Alternatively, you can **directly download** the latest Aspose.Imaging for Java JAR from [Aspose releases](https://releases.aspose.com/imaging/java/).
+Alternatively, you can **directly download** the latest Aspose.Imaging for Java JAR from [Aspose releases](/imaging/java/).
 
 ### License Acquisition
 
 You can start with a free trial to explore the features of Aspose.Imaging. For extended use, consider applying for a temporary license or purchasing a full license:
-- **Free Trial:** Visit [Aspose Imaging Java Releases](https://releases.aspose.com/imaging/java/) to download and try out the library.
-- **Temporary License:** Obtain it from [Aspose Temporary License Page](https://purchase.aspose.com/temporary-license/).
-- **Purchase:** For a permanent solution, head over to [Aspose Purchase](https://purchase.aspose.com/buy).
+- **Free Trial:** Visit [Aspose Imaging Java Releases](/imaging/java/) to download and try out the library.
+- **Temporary License:** Obtain it from [Aspose Temporary License Page](/purchase/temporary-license/).
+- **Purchase:** For a permanent solution, head over to [Aspose Purchase](/purchase/buy).
 
 Once you have integrated Aspose.Imaging into your project and set up the necessary licenses, you're ready to begin implementing our multi‑page TIFF creation guide.
 
@@ -84,7 +84,7 @@ Once you have integrated Aspose.Imaging into your project and set up the necessa
 **Overview:**  
 The first step involves loading an image from the file system and resizing it using the nearest‑neighbor resample method.
 
-#### Step 1: Load an Image
+#### Step 1: load an image
 ```java
 import com.aspose.imaging.Image;
 
@@ -93,7 +93,7 @@ Image tempImage = Image.load(dataDir + "/Image1.png");
 ```
 - **Explanation:** The `load` method reads the image from the specified directory. Ensure your path is correct to avoid file‑not‑found errors.
 
-#### Step 2: Resize the Image
+#### Step 2: resize the image
 ```java
 int width = tempImage.getWidth();
 int height = tempImage.getHeight();
@@ -101,12 +101,12 @@ tempImage.resize(width, height, ResizeType.NearestNeighbourResample);
 ```
 - **Explanation:** Resizing with `ResizeType.NearestNeighbourResample` maintains pixel data without interpolation, preserving image quality in certain scenarios.
 
-### Creating TIFF Options and Source
+### Creating TIFF options and source
 
 **Overview:**  
 Next, we set up the necessary options to create a new multi‑page TIFF file. This involves specifying the expected format and source configuration.
 
-#### Step 1: Set Up TIFF Options
+#### Step 1: set up TIFF options
 ```java
 import com.aspose.imaging.fileformats.tiff.TiffOptions;
 import com.aspose.imaging.fileformats.tiff.enums.TiffExpectedFormat;
@@ -122,7 +122,7 @@ tiffOptions.setSource(new FileCreateSource("YOUR_DOCUMENT_DIRECTORY/MultiPage.ti
 **Overview:**  
 Now, we create an instance of a multi‑page TIFF image with specified dimensions.
 
-#### Step 1: Initialize the TIFF Image
+#### Step 1: initialize the TIFF image
 ```java
 import com.aspose.imaging.fileformats.tiff.TiffImage;
 
@@ -135,7 +135,7 @@ TiffImage tiffImage = (TiffImage) Image.create(tiffOptions, width, height);
 **Overview:**  
 This section involves adding multiple images as frames into your multi‑page TIFF file.
 
-#### Step 1: Load Additional Images
+#### Step 1: load additional images
 ```java
 import java.io.File;
 import java.io.FilenameFilter;
@@ -171,7 +171,7 @@ if (files != null) {
 **Overview:**  
 Finally, save your multi‑page TIFF file to preserve all changes made during processing.
 
-#### Step 1: Save Your Work
+#### Step 1: save your work
 ```java
 import com.aspose.imaging.examples.Utils;
 
@@ -212,7 +212,7 @@ Next steps could include exploring additional features of Aspose.Imaging such as
    - Consider using streaming techniques to process images in chunks rather than loading entire files into memory at once.
 
 3. **Can Aspose.Imaging be used in commercial projects?**
-   - Yes, it can be licensed for commercial use. Visit [Aspose Purchase](https://purchase.aspose.com/buy) for more details on licensing options.
+   - Yes, it can be licensed for commercial use. Visit [Aspose Purchase](/purchase/buy) for more details on licensing options.
 
 4. **What are the system requirements for running Aspose.Imaging?**
    - Ensure you have a compatible version of Java Development Kit (JDK). The library is platform‑independent, so it should work across Windows, macOS, and Linux.
@@ -220,7 +220,7 @@ Next steps could include exploring additional features of Aspose.Imaging such as
 5. **Are there any limitations when creating multi‑page TIFFs with Aspose.Imaging?**
    - While highly capable, be mindful of the system's memory limits as processing large images or numerous frames could lead to high memory consumption.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: Can I convert PNG or JPEG files to a multi‑page TIFF with this approach?**  
 A: Absolutely. Load any supported raster format (PNG, JPEG, BMP, etc.) and add each as a frame using the same workflow.
@@ -239,25 +239,31 @@ A: Process pages in batches and periodically call `System.gc()` or use Java's `t
 
 ## Resources
 
-- [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/)
-- [Download Latest Version](https://releases.aspose.com/imaging/java/)
-- [Purchase Licensing Options](https://purchase.aspose.com/buy)
-- [Start with a Free Trial](https://releases.aspose.com/imaging/java/)
-- [Temporary License Information](https://purchase.aspose.com/temporary-license/)
-- [Community Support and Forums](https://forum.aspose.com/c/imaging/14)
+- [Aspose.Imaging for Java Documentation](/reference/imaging/java/)
+- [Download Latest Version](/imaging/java/)
+- [Purchase Licensing Options](/purchase/buy)
+- [Start with a Free Trial](/imaging/java/)
+- [Temporary License Information](/purchase/temporary-license/)
+- [Community Support and Forums](/forum/imaging/14)
 
 By leveraging these resources, you can deepen your understanding of Aspose.Imaging for Java and apply it effectively in your projects. Happy coding!
 
-{{< /blocks/products/pf/tutorial-page-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
+```java
+// Example: load and save a TIFF
+Image img = Image.load("input.png");
+img.save("output.tiff");
+```
 
 ---
+
 
 **Last Updated:** 2026-02-22  
 **Tested With:** Aspose.Imaging for Java 25.5  
 **Author:** Aspose
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

@@ -1,6 +1,6 @@
 ---
 title: "Create animated PNG Java – Add Aspose Imaging Maven dependency"
-description: "Learn how to create animated PNG Java by adding the Aspose Imaging Maven dependency, convert TIFF to APNG and save image as APNG."
+description: "Learn how to create animated PNG Java using Aspose.Imaging by adding the Maven dependency, convert TIFF to APNG and save image as APNG."
 date: "2026-02-22"
 weight: 1
 url: "/java/animation-multi-frame-images/aspose-imaging-java-animated-png-guide/"
@@ -138,14 +138,14 @@ Combine Aspose.Imaging with libraries like Swing, JavaFX, or Spring Boot to deli
 - **Dispose promptly:** Use `try‑with‑resources` (as shown) to free native resources.  
 - **Batch processing:** If you need to generate many APNGs, reuse a single `License` instance and avoid repeated loading of the same source file.
 
-## Common Issues and Solutions
+## Common issues and solutions
 | Issue | Cause | Fix |
 |-------|-------|-----|
 | **OutOfMemoryError** when loading large TIFFs | Image is too big for the JVM heap | Increase `-Xmx` or downscale before processing |
 | **Blank frames** in output APNG | Source TIFF pages have different dimensions | Resize all pages to a common size before saving |
 | **License not applied** | License file path incorrect | Verify the path and ensure the file is readable at runtime |
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: What is the default frame duration for APNG using Aspose.Imaging?**  
 A: The default frame time is set by `setDefaultFrameTime(int ms)`, and you must specify the value yourself; there is no automatic default.

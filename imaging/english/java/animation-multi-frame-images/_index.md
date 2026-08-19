@@ -1,6 +1,6 @@
 ---
-title: "Create Multi Page TIFF and Animated GIF Java – Aspose.Imaging Animation Tutorials"
-description: "Learn how to create multi page tiff files and animated GIF Java applications using Aspose.Imaging. Explore step‑by‑step tutorials for GIF, TIFF, PNG and more."
+title: "Learn to Create Multi Page TIFF and Animated GIF Java – Aspose.Imaging Animation Tutorials"
+description: "Learn how to create multi‑page TIFF files and animated GIF Java applications using Aspose.Imaging with step‑by‑step tutorials for GIF, TIFF, PNG and more."
 weight: 11
 url: "/java/animation-multi-frame-images/"
 date: 2026-02-22
@@ -39,34 +39,55 @@ Creating an animated GIF in Java means programmatically assembling a sequence of
 - Aspose.Imaging for Java library (download from the links below)  
 - Basic knowledge of Java I/O and image concepts  
 
-## Step‑by‑Step Guide Overview
+## Step‑by‑Step guide overview
 Below you’ll find a curated list of focused tutorials. Each one dives deep into a specific animation or multi‑frame scenario, complete with ready‑to‑run Java code snippets.
 
 ### Available Tutorials
 
-#### [Advanced GIF Editing in Java with Aspose.Imaging&#58; Frame and Loop Control](./gif-manipulation-java-aspose-imaging-guide/)
+#### [Advanced GIF editing in java with Aspose.Imaging: frame and loop control]({{< relref "./gif-manipulation-java-aspose-imaging-guide/" >}})
 Master GIF manipulation in Java using Aspose.Imaging. Learn to adjust frame durations, modify loop counts, and enhance your animations effortlessly.
 
-#### [Convert TIFF to BMP Frames Using Aspose.Imaging in Java](./extract-tiff-frames-to-bmp-aspose-imaging-java/)
+#### [Convert TIFF to BMP Frames Using Aspose.Imaging in Java]({{< relref "./extract-tiff-frames-to-bmp-aspose-imaging-java/" >}})
 Learn how to extract and convert each frame from a multi‑frame TIFF image into individual BMP files using Aspose.Imaging for Java. Streamline your image processing tasks with this step‑by‑step guide.
 
-#### [Create Animated GIFs from Frames with Aspose.Imaging for Java (Tutorial)](./create-gif-from-frames-aspose-imaging-java/)
+#### [Create Animated GIFs from Frames with Aspose.Imaging for Java (Tutorial)]({{< relref "./create-gif-from-frames-aspose-imaging-java/" >}})
 Learn how to create high‑quality animated GIFs using multiple frames in Aspose.Imaging for Java. Follow our step‑by‑step guide to streamline your image processing tasks.
 
-#### [Create Animated PNGs in Java with Aspose.Imaging&#58; Comprehensive Guide](./aspose-imaging-java-animated-png-guide/)
+#### [Create animated pNGs in java with Aspose.Imaging: comprehensive guide]({{< relref "./aspose-imaging-java-animated-png-guide/" >}})
 Learn how to enhance your Java applications by integrating animated PNGs using the Aspose.Imaging library. Follow this step‑by‑step guide for dynamic visuals.
 
-#### [Create Multi‑Page TIFF with Aspose.Imaging for Java&#58; A Complete Guide](./create-multi-page-tiff-aspose-imaging-java/)
+#### [Create Multi‑Page TIFF with Aspose.Imaging for Java: A Complete Guide]({{< relref "./create-multi-page-tiff-aspose-imaging-java/" >}})
 Learn how to create **multi page tiff** images using Aspose.Imaging for Java. Follow this guide to efficiently combine multiple frames into a single file, optimizing storage and retrieval.
 
-#### [Creating Animated PNGs in Java with Aspose.Imaging&#58; A Developer's Guide](./create-animated-png-aspose-imaging-java-guide/)
+#### [Creating animated pNGs in java with Aspose.Imaging: a developer's guide]({{< relref "./create-animated-png-aspose-imaging-java-guide/" >}})
 Learn how to create seamless animated PNGs using Aspose.Imaging for Java. This guide covers loading images, configuring APNG options, and adding frames with gamma effects.
 
-#### [Efficient Multi‑frame TIFF Processing in Java with Aspose.Imaging](./java-aspose-imaging-multi-frame-tiff-processing/)
+#### [Efficient Multi‑frame TIFF Processing in Java with Aspose.Imaging]({{< relref "./java-aspose-imaging-multi-frame-tiff-processing/" >}})
 Learn how to process and convert multi‑frame TIFF images into JPEG using Aspose.Imaging for Java. Enhance your Java applications with efficient image handling techniques.
 
 ## How to create multi page tiff with Aspose.Imaging for Java
 When you need to **create multi page tiff** files—such as multi‑page invoices, scanned documents, or satellite image stacks—Aspose.Imaging provides a straightforward API. You start by creating a new `TiffImage` object, then add each page as a separate frame. The library manages compression, color depth, and metadata automatically, so you can focus on the business logic rather than file format quirks.
+
+```java
+import com.aspose.imaging.Image;
+import com.aspose.imaging.ImageOptionsBase;
+import com.aspose.imaging.fileformats.tiff.TiffImage;
+import com.aspose.imaging.fileformats.tiff.enums.TiffExpectedFormat;
+
+public class CreateMultiPageTiff {
+    public static void main(String[] args) throws Exception {
+        // Create a new multi‑page TIFF
+        TiffImage tiff = (TiffImage) Image.create(
+            ImageOptionsBase.create(TiffExpectedFormat.Tiff));
+        // Add first page
+        tiff.addFrame(Image.load("page1.png"));
+        // Add second page
+        tiff.addFrame(Image.load("page2.png"));
+        // Save the multi‑page TIFF
+        tiff.save("output.tiff");
+    }
+}
+```
 
 ## How to create gif (secondary keyword)
 If you’re wondering **how to create gif** animations from scratch, the process is similar: instantiate a `GifImage`, add frames, set each frame’s delay, and finally save the result. The same library you use for TIFF also handles GIF, so you can reuse code and keep a consistent development experience.
@@ -80,7 +101,7 @@ If you’re wondering **how to create gif** animations from scratch, the process
 - [Free Support](https://forum.aspose.com/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: Can I create animated GIFs without a license?**  
 A: You can use a temporary license for evaluation, but a full license is required for production deployments.
