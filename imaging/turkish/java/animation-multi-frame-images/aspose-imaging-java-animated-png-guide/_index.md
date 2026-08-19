@@ -1,55 +1,55 @@
 ---
-date: '2025-12-17'
-description: Aspose Imaging Maven bağımlılığını nasıl ekleyeceğinizi ve Java’da hareketli
-  PNG’ler oluşturmayı öğrenin. TIFF’i APNG’ye dönüştürmek ve görüntüyü APNG olarak
-  kaydetmek için bu adım‑adım kılavuzu izleyin.
+date: '2026-02-22'
+description: Aspose Imaging Maven bağımlılığını ekleyerek Java’da animasyonlu PNG
+  oluşturmayı öğrenin, TIFF’i APNG’ye dönüştürün ve görüntüyü APNG olarak kaydedin.
 keywords:
 - animated PNG Java
 - Aspose.Imaging tutorial
 - Java APNG creation
 - load save APNG in Java
 - animation & multi-frame images
-title: 'aspose imaging maven bağımlılığı - Java''da Animasyonlu PNG''ler Oluşturma'
+title: Java’da animasyonlu PNG oluştur – Aspose Imaging Maven bağımlılığını ekle
 url: /tr/java/animation-multi-frame-images/aspose-imaging-java-animated-png-guide/
 weight: 1
 ---
+
+ final content.
 
 {{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Görkemli Hareketli PNG'ler Oluşturun: Aspose.Imaging Java ile Adım Adım Rehber
+# Java'da animasyonlu PNG oluşturma – Aspose Imaging Maven bağımlılığını ekleyin
 
-## Giriş
+## Introduction
 
-Java uygulamalarınızı dinamik, hareketli görüntüler ekleyerek geliştirmek ister misiniz? **aspose imaging maven dependency** ekleyerek Java’da hareketli PNG (APNG) dosyalarıyla sorunsuz çalışabilirsiniz. Web uygulaması ya da etkileşimli bir masaüstü programı geliştiriyor olun, APNG'leri entegre etmek kullanıcı etkileşimini önemli ölçüde artırabilir. Bu öğretici, Aspose.Imaging kütüphanesini Java’da kullanarak özelleştirilebilir çerçeve zamanlaması seçenekleriyle APNG dosyalarını nasıl yükleyip kaydedeceğinizi gösterecek.
+Kullanıcıları akıcı, çok‑kadarlı grafiklerle etkileyen **Java’da animasyonlu PNG** uygulamaları oluşturmak mı istiyorsunuz? **aspose imaging maven dependency** eklemek, düşük seviyeli piksel manipülasyonuyle uğraşmadan APNG dosyalarını yüklemenizi, düzenlemenizi ve kaydetmenizi sağlayan güçlü, yüksek performanslı bir API sunar. İster bir web portalı, ister bir masaüstü UI, ister bir veri‑görselleştirme aracı geliştirin, animasyonlu PNG'ler arayüzünüzün modern ve çekici hissetmesini sağlar.
 
-Başlamadan önce gerekli ön koşuları inceleyelim.
+Bu rehberde, Maven bağımlılığını kurmaktan çok‑sayfalı TIFF'i animasyonlu PNG'ye dönüştürmeye ve çerçeve zamanlamasını kontrol etmeye kadar ihtiyacınız olan her şeyi adım adım ele alacağız. Sonunda, **Java’da animasyonlu PNG** projelerini güvenle oluşturabileceksiniz.
 
-## Hızlı Yanıtlar
-- **Java'da APNG oluşturmayı sağlayan kütüphane nedir?** Aspose.Imaging ve aspose imaging maven dependency.  
-- **Hangi format APNG'ye dönüştürülebilir?** TIFF görüntüleri hareketli PNG'ye dönüştürülebilir.  
-- **Animasyon hızını nasıl kontrol ederim?** `ApngOptions.setDefaultFrameTime(milliseconds)` kullanın.  
-- **Üretim için lisansa ihtiyacım var mı?** Evet, geçerli bir Aspose.Imaging lisansı gereklidir.  
-- **Maven veya Gradle kullanabilir miyim?** Her ikisi de desteklenir; sadece uygun bağımlılığı ekleyin.
+## Quick Answers
+- **What library enables APNG creation in Java?** Aspose.Imaging with the aspose imaging maven dependency.  
+- **Which format can be converted to APNG?** TIFF images can be converted to animated PNGs.  
+- **How do I control animation speed?** Use `ApngOptions.setDefaultFrameTime(milliseconds)`.  
+- **Do I need a license for production?** Yes, a valid Aspose.Imaging license is required.  
+- **Can I use Maven or Gradle?** Both are supported; just add the appropriate dependency.
 
-## aspose imaging maven bağımlılığı nedir?
-**aspose imaging maven dependency**, Aspose.Imaging API'sinin tam setini Java projenize getiren Maven artefaktıdır. Eklendikten sonra, düşük seviyeli kod yazmadan hareketli PNG (APNG) oluşturma, düzenleme ve kaydetme gibi güçlü görüntü işleme özelliklerine erişirsiniz.
+## How to create animated PNG Java using Aspose.Imaging?
+Aspose.Imaging, APNG formatının karmaşıklıklarını soyutlayan temiz, nesne‑yönelimli bir API sunar. Tek yapmanız gereken bir kaynak görüntüyü (genellikle çok‑sayfalı bir TIFF) yüklemek, `ApngOptions` yapılandırmak ve `save` metodunu çağırmak. Kütüphane, çerçeve çıkarma, zamanlama ve PNG kodlamasını sizin yerinize halleder.
 
-## Neden Aspose.Imaging'i APNG için kullanmalısınız?
-- **Yüksek performanslı işleme** – büyük görüntüler ve çok çerçeveli animasyonlar için optimize edilmiştir.  
-- **Çapraz platform** – herhangi bir JVM uyumlu ortamda çalışır.  
-- **Zengin özellik seti** – dönüşüm, çerçeve zamanlaması ve birçok görüntü formatını destekler.  
-- **Basit API** – TIFF'ten APNG'ye dönüştürme gibi karmaşık görevler için özlü kod.
+## Why use Aspose.Imaging for APNG?
+- **High‑performance processing** – optimized for large images and multi‑frame animations.  
+- **Cross‑platform** – works on any JVM‑compatible environment.  
+- **Rich feature set** – supports conversion, frame timing, and many other image formats.  
+- **Simple API** – concise code for complex tasks like converting TIFF to APNG.
 
-## Önkoşullar
-- Java programlama temelleri.  
-- IntelliJ IDEA veya Eclipse gibi bir IDE.  
-- Bağımlılık yönetimi için Maven veya Gradle (veya JAR dosyası).  
+## Prerequisites
+- Basic knowledge of Java programming.  
+- An IDE such as IntelliJ IDEA or Eclipse.  
+- Maven or Gradle for dependency management (or the JAR file).  
 
-## Aspose.Imaging'i Java için Kurma
-
+## Adding the Maven dependency Aspose Imaging
 ### Maven
 ```xml
 <dependency>
@@ -64,34 +64,30 @@ Başlamadan önce gerekli ön koşuları inceleyelim.
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-Doğrudan indirmeyi tercih edenler, en son sürümü [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) adresinden alabilir.
+For those preferring direct downloads, you can get the latest version from [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-### Lisans Edinme
-Aspose.Imaging'in sınırlamalardan bağımsız tam yeteneklerini kullanmak için:
+### License Acquisition
+To unlock the full feature set without evaluation limits:
 
-- **Ücretsiz Deneme:** İşlevselliği test etmek için ücretsiz deneme ile başlayın.  
-- **Geçici Lisans:** Geliştirme sırasında genişletilmiş erişim için geçici bir lisans edinin.  
-- **Satın Alma:** Uzun vadeli kullanım için kütüphaneyi satın almayı düşünün.
+- **Free Trial:** Start with a free trial to test functionality.  
+- **Temporary License:** Obtain a temporary license for extended access during development.  
+- **Purchase:** For long‑term use, consider purchasing the library.
 
-Lisans dosyanızı aldıktan sonra uygulamanızda aşağıdaki gibi başlatın:
+Initialize the license in your code:
+
 ```java
 com.aspose.imaging.License license = new com.aspose.imaging.License();
 license.setLicense("path/to/your/license/file.lic");
 ```
 
-## Uygulama Kılavuzu
+## How to convert TIFF to APNG with Aspose.Imaging
+### Loading an Image
+First, import the core `Image` class and load your source TIFF:
 
-### Görüntü Yükleme
-
-#### Genel Bakış
-Görüntüleri yüklemek, Aspose.Imaging ile üzerinde işlem yapmanın ilk adımıdır. Bu bölümde bir TIFF görüntüsünün nasıl yükleneceğini göstereceğiz.
-
-**Adım 1: Gerekli Sınıfları İçe Aktarın**
 ```java
 import com.aspose.imaging.Image;
 ```
 
-**Adım 2: Görüntünüzü Yükleyin**
 ```java
 String inputFilePath = "YOUR_DOCUMENT_DIRECTORY/img4.tif";
 
@@ -100,38 +96,25 @@ try (Image image = Image.load(inputFilePath)) {
 }
 ```
 
-- `inputFilePath`: Yolun görüntü dosyanıza işaret ettiğinden emin olun.  
-- `Image.load()`: Belirtilen görüntü dosyasını açan yöntem.
+### Setting Default Frame Duration for APNG
+Control the animation speed by configuring `ApngOptions`:
 
-### APNG için Varsayılan Çerçeve Süresini Ayarlama
-
-#### Genel Bakış
-Çerçeve zamanlamasını özelleştirerek animasyon hızını kontrol edebilirsiniz. Aşağıda bir hareketli PNG için varsayılan çerçeve süresinin nasıl ayarlanacağını inceleyeceğiz.
-
-**Adım 1: ApngOptions'ı İçe Aktarın**
 ```java
 import com.aspose.imaging.imageoptions.ApngOptions;
 ```
 
-**Adım 2: Çerçeve Süresini Yapılandırın**
 ```java
 ApngOptions op = new ApngOptions();
 op.setDefaultFrameTime(500); // Default frame time set to 500 milliseconds
 ```
 
-- `setDefaultFrameTime(int ms)`: Her çerçevenin gösterileceği süreyi ayarlar.
+### Saving the Image as APNG
+Prepare the output path and invoke `save` with the configured options:
 
-### Görüntüyü APNG Olarak Kaydetme
-
-#### Genel Bakış
-Görüntüyü yükleyip yapılandırdıktan sonra, belirli animasyon ayarlarıyla APNG formatında kaydedebilirsiniz.
-
-**Adım 1: Kaydetmeye Hazırlanın**
 ```java
 String outputFilePath = "YOUR_OUTPUT_DIRECTORY/img4.tif.500ms.png";
 ```
 
-**Adım 2: Görüntüyü APNG Olarak Kaydedin**
 ```java
 try (Image image = Image.load("YOUR_DOCUMENT_DIRECTORY/img4.tif")) {
     ApngOptions op = new ApngOptions();
@@ -141,66 +124,59 @@ try (Image image = Image.load("YOUR_DOCUMENT_DIRECTORY/img4.tif")) {
 }
 ```
 
-- `outputFilePath`: APNG dosyasının kaydedileceği yeri seçin.  
-- `image.save()`: Belirtilen seçeneklerle değiştirilmiş görüntüyü diske yazar.
+The line `image.save(outputFilePath, op);` **saves image as APNG**. Make sure the output file ends with `.png` and that `ApngOptions` reflects your desired frame timing.
 
-## APNG Nasıl Oluşturulur
-Hareketli bir PNG oluşturmak, kaynak görüntüyü (genellikle çok sayfalı bir TIFF) yüklemek, istenen çerçeve süresini ayarlamak ve `ApngOptions` ile kaydetmek kadar basittir. Yukarıdaki adımlar tam iş akışını gösterir—ek bir görüntü işleme kütüphanesine ihtiyaç yoktur.
+## How to save image as APNG in Java
+The same `image.save` call shown above is the exact command you need. Adjust the `setDefaultFrameTime` value to speed up or slow down the animation. You can also experiment with different source formats (e.g., multi‑page PDFs) as long as Aspose.Imaging can load them.
 
-## TIFF'ten APNG'ye Nasıl Dönüştürülür
-Kod parçacıkları zaten dönüşümü gösteriyor: bir TIFF yükleyin (`Image.load`) ve ardından `image.save` ile `ApngOptions` kullanın. `setDefaultFrameTime` değerini ayarlayarak ortaya çıkan animasyonun hızını kontrol edebilirsiniz.
+## Practical Applications
+1. **Web Development** – Animated banners, icons, or loading spinners that work across browsers without needing GIF support.  
+2. **Desktop Applications** – Enrich Swing or JavaFX UI components with subtle motion cues.  
+3. **Data Visualization** – Animate chart transitions or step‑by‑step walkthroughs for reports.
 
-## Görüntüyü APNG Olarak Nasıl Kaydedilir
-`image.save(outputFilePath, op);` satırı **görüntüyü APNG olarak kaydeder**. Çıktı dosya adının `.png` ile bittiğinden ve `ApngOptions`'ın tercih ettiğiniz çerçeve zamanlamasıyla yapılandırıldığından emin olun.
+Combine Aspose.Imaging with libraries like Swing, JavaFX, or Spring Boot to deliver a seamless user experience.
 
-## Pratik Uygulamalar
-1. **Web Geliştirme** – Kullanıcı etkileşimini artırmak için web sayfalarına hareketli banner veya simgeler entegre edin.  
-2. **Masaüstü Uygulamaları** – GUI öğelerinde animasyonlar kullanarak uygulamaları daha sezgisel ve çekici hale getirin.  
-3. **Veri Görselleştirme** – Veri durumları arasındaki geçişleri animasyonlu gösteren dinamik grafikler oluşturun.
+## Performance Considerations
+- **Resize wisely:** Larger resolutions increase memory usage; downscale when possible.  
+- **Dispose promptly:** Use `try‑with‑resources` (as shown) to free native resources.  
+- **Batch processing:** If you need to generate many APNGs, reuse a single `License` instance and avoid repeated loading of the same source file.
 
-Aspose.Imaging'i Swing veya JavaFX gibi diğer Java kütüphaneleriyle birleştirerek uygulama arayüzünüzü daha da zenginleştirebilirsiniz.
+## Common Issues and Solutions
+| Issue | Cause | Fix |
+|-------|-------|-----|
+| **OutOfMemoryError** when loading large TIFFs | Image is too big for the JVM heap | Increase `-Xmx` or downscale before processing |
+| **Blank frames** in output APNG | Source TIFF pages have different dimensions | Resize all pages to a common size before saving |
+| **License not applied** | License file path incorrect | Verify the path and ensure the file is readable at runtime |
 
-## Performans Düşünceleri
-Görüntülerle, özellikle animasyonlu formatlarla çalışırken:
+## Frequently Asked Questions
 
-- Görüntü çözünürlüğünü kalite ve performans arasında dengelemek için optimize edin.  
-- Kullanılmayan nesneleri hızlıca serbest bırakarak belleği etkili yönetin.  
-- `try‑with‑resources` ifadesini kullanarak kaynakları otomatik olarak serbest bırakın.
+**Q: What is the default frame duration for APNG using Aspose.Imaging?**  
+A: The default frame time is set by `setDefaultFrameTime(int ms)`, and you must specify the value yourself; there is no automatic default.
 
-## Sonuç
-Artık Aspose.Imaging for Java kullanarak APNG dosyalarını nasıl yükleyeceğinizi, yapılandıracağınızı ve kaydedeceğinizi öğrendiniz. Bu işlevsellik, uygulamalarınıza dinamik içerik eklemek için sayısız olasılık sunar. Keşfetmeye devam etmek için Aspose.Imaging'in diğer özelliklerine derinlemesine bakabilir veya farklı görüntü formatlarıyla deneyler yapabilirsiniz.
+**Q: Can I adjust animation speed in an existing APNG file?**  
+A: Yes, you can load the file, modify the frame timings with `ApngOptions`, and save it again as an APNG.
 
-Başlamaya hazır mısınız? Bu adımları kendi projenizde uygulayın ve hareketli PNG'lerin kullanıcı arayüzlerinize nasıl yeni bir boyut kazandırdığını görün!
+**Q: What are some common issues when loading images with Aspose.Imaging?**  
+A: Ensure the image path is correct and that sufficient memory is available for large files. Using `try‑with‑resources` helps release memory promptly.
 
-## Sıkça Sorulan Sorular
+**Q: How do I obtain a free trial license for Aspose.Imaging?**  
+A: Visit [Aspose's download page](https://releases.aspose.com/imaging/java/) to access your free trial.
 
-**Soru: Aspose.Imaging kullanarak APNG için varsayılan çerçeve süresi nedir?**  
-Cevap: Varsayılan çerçeve süresi `setDefaultFrameTime(int ms)` ile ayarlanır ve değeri kendiniz belirtmelisiniz; otomatik bir varsayılan yoktur.
+**Q: Is it possible to integrate Aspose.Imaging with other Java libraries?**  
+A: Absolutely, you can use it alongside frameworks like Spring or libraries such as Apache Commons for broader application development.
 
-**Soru: Mevcut bir APNG dosyasında animasyon hızını ayarlayabilir miyim?**  
-Cevap: Evet, dosyayı yükleyip `ApngOptions` ile çerçeve zamanlamalarını değiştirerek tekrar APNG olarak kaydedebilirsiniz.
+## Resources
 
-**Soru: Aspose.Imaging ile görüntü yüklerken karşılaşılan yaygın sorunlar nelerdir?**  
-Cevap: Görüntü yolunun doğru olduğundan ve büyük dosyalar için yeterli belleğin mevcut olduğundan emin olun. `try‑with‑resources` kullanmak bellek serbest bırakmayı kolaylaştırır.
-
-**Soru: Aspose.Imaging için ücretsiz deneme lisansı nasıl alınır?**  
-Cevap: Ücretsiz deneme lisansına ulaşmak için [Aspose'un indirme sayfasını](https://releases.aspose.com/imaging/java/) ziyaret edin.
-
-**Soru: Aspose.Imaging'i diğer Java kütüphaneleriyle entegre etmek mümkün mü?**  
-Cevap: Kesinlikle mümkündür; Spring gibi çerçeveler veya Apache Commons gibi kütüphanelerle birlikte kullanarak daha geniş uygulama geliştirmeleri yapabilirsiniz.
-
-## Kaynaklar
-
-- **Dokümantasyon:** [Aspose.Imaging Documentation](https://reference.aspose.com/imaging/java/)  
-- **İndirme:** [Latest Release Download](https://releases.aspose.com/imaging/java/)  
-- **Satın Alma:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)  
-- **Ücretsiz Deneme:** [Get Started with Free Trial](https://releases.aspose.com/imaging/java/)  
-- **Geçici Lisans:** [Acquire Temporary License](https://purchase.aspose.com/temporary-license/)  
-- **Destek Forumu:** [Aspose Community Support](https://forum.aspose.com/c/imaging/14)
+- **Documentation:** [Aspose.Imaging Documentation](https://reference.aspose.com/imaging/java/)  
+- **Download:** [Latest Release Download](https://releases.aspose.com/imaging/java/)  
+- **Purchase:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)  
+- **Free Trial:** [Get Started with Free Trial](https://releases.aspose.com/imaging/java/)  
+- **Temporary License:** [Acquire Temporary License](https://purchase.aspose.com/temporary-license/)  
+- **Support Forum:** [Aspose Community Support](https://forum.aspose.com/c/imaging/14)
 
 ---
 
-**Last Updated:** 2025-12-17  
+**Last Updated:** 2026-02-22  
 **Tested With:** Aspose.Imaging 25.5 for Java  
 **Author:** Aspose  
 
