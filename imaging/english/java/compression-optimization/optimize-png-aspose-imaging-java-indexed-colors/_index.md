@@ -1,5 +1,5 @@
 ---
-title: "java image processing tutorial – PNG indexed color"
+title: "Optimize PNG Indexed Color with Aspose.Imaging for Java"
 description: "Learn a java image processing tutorial for loading PNG images in Java and optimizing them with indexed colors and transparency using Aspose.Imaging."
 date: "2026-03-20"
 weight: 1
@@ -47,7 +47,7 @@ Indexed‑color PNGs store a limited palette (up to 256 colors) instead of full�
 - **Java Development Kit** – JDK 8+ installed.
 - Basic familiarity with Java syntax and object‑oriented concepts.
 
-## Setting Up Aspose.Imaging for Java
+## Setting up Aspose.Imaging for java
 
 ### Installation
 
@@ -80,7 +80,7 @@ Download the latest version from [Aspose.Imaging for Java releases](https://rele
 
 ## Implementation Guide
 
-### Feature 1: Loading and Accessing a PNG Image
+### Feature 1: loading and accessing a PNG image
 
 #### How to load PNG image java with Aspose.Imaging
 
@@ -102,7 +102,7 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "template.png")) {
 
 *Explanation*: `Image.load()` reads the file and returns a generic `Image` object. Casting it to `RasterImage` gives you pixel‑level access needed for palette manipulation.
 
-### Feature 2: Configuring PNG Options for Indexed Color with Transparency
+### Feature 2: configuring PNG options for indexed color with transparency
 
 #### How to configure PNG options for indexed color
 
@@ -133,7 +133,7 @@ options.setPalette(ColorPaletteHelper.getCloseTransparentImagePalette(image, 256
 - `IndexedColor` limits the palette to 256 entries, drastically reducing size.  
 - `ColorPaletteHelper.getCloseTransparentImagePalette` builds a palette that retains transparent pixels.
 
-### Feature 3: Setting the Filter Type for PNG Compression
+### Feature 3: setting the filter type for PNG compression
 
 #### Which filter type gives the best compression?
 
@@ -151,7 +151,7 @@ options.setFilterType(PngFilterType.Avg);
 
 *Explanation*: The `Avg` filter averages neighboring pixel values, often yielding better compression for images with smooth gradients.
 
-### Feature 4: Saving a PNG Image with Custom Options
+### Feature 4: saving a PNG image with custom options
 
 #### How to save the optimized PNG
 
@@ -184,7 +184,7 @@ image.save(outDir + "result.png", options);
 - **Memory Management** – Use try‑with‑resources (as shown) to free native buffers promptly.  
 - **Batch Processing** – Wrap the load‑optimize‑save sequence in a loop for bulk image handling.
 
-## Common Issues and Solutions
+## Common issues and solutions
 
 | Issue | Solution |
 |-------|----------|
@@ -192,7 +192,7 @@ image.save(outDir + "result.png", options);
 | Output file is larger than source | Try a lower `CompressionLevel` or a different `PngFilterType` such as `Paeth`. |
 | Out‑OfMemoryError on large images | Process images in chunks or increase JVM heap size (`-Xmx`). |
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: What is Aspose.Imaging Java?**  
 A: It’s a comprehensive Java library for creating, editing, and converting images across dozens of formats, including PNG.

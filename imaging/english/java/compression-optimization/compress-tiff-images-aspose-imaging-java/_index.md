@@ -1,5 +1,5 @@
 ---
-title: "How to Use Aspose.Imaging to Compress TIFF Images in Java (LZW Compression Guide)"
+title: "How to Reduce Image File Size with LZW Compression in Java"
 description: "Learn how to use Aspose.Imaging for Java to compress TIFF images with LZW compression, reducing file size while preserving quality."
 date: "2026-03-20"
 weight: 1
@@ -46,7 +46,7 @@ Before implementing image compression in your Java project, ensure you have the 
 - **Java Development Kit (JDK)** – a recent version compatible with the Aspose library.  
 - **Basic Java knowledge** – familiarity with file I/O and object‑oriented concepts will help.
 
-## Setting Up Aspose.Imaging for Java
+## Setting up Aspose.Imaging for java
 
 To begin, add the Aspose.Imaging library to your build system. Choose the method that matches your project.
 
@@ -93,7 +93,7 @@ String dataDir = "YOUR_DOCUMENT_DIRECTORY" + "/sample.tiff";
 Image image = Image.load(dataDir);
 ```
 
-### Creating TiffOptions for Image Compression
+### Creating tiffOptions for image compression
 
 **Why this matters:** `TiffOptions` lets you define exactly how the output TIFF should be encoded, including the **tiff compression LZW** setting.
 
@@ -158,7 +158,7 @@ When working with large images, keep these tips in mind to maintain optimal perf
 - **Bit Depth Optimization:** Adjust `BitsPerSample` to the lowest acceptable value for your use case.  
 - **Batch Processing:** For bulk operations, consider multithreading but monitor JVM heap usage.
 
-## Common Issues and Solutions
+## Common issues and solutions
 
 | Symptom | Likely Cause | Fix |
 |---------|--------------|-----|
@@ -166,7 +166,7 @@ When working with large images, keep these tips in mind to maintain optimal perf
 | Saved file is larger than original | Incorrect `BitsPerSample` or palette mismatch | Verify that `setBitsPerSample` matches the source image's color depth. |
 | Grayscale palette appears wrong | Palette not applied before saving | Ensure `outputSettings.setPalette(...)` is called **before** `image.save`. |
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: What is LZW compression?**  
 A: Lempel‑Ziv‑Welch (LZW) compression is a lossless algorithm that reduces file size without losing any image data.
