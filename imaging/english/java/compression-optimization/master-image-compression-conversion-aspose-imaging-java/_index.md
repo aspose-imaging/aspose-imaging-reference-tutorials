@@ -1,5 +1,5 @@
 ---
-title: "How to Use Aspose.Imaging Java: Compress & Convert PNG to TIFF with Deflate"
+title: "Compress Images and Convert Using Deflate Compression"
 description: "Learn how to use Aspose.Imaging for Java to compress PNG images, convert them to TIFF with Deflate compression, verify alpha channels, and convert back to PNG."
 date: "2026-03-23"
 weight: 1
@@ -46,12 +46,12 @@ Before proceeding, make sure you have:
 ### Required Libraries
 - **Aspose.Imaging for Java** – see the Maven and Gradle snippets below.
 
-### License Acquisition Steps
+### License acquisition steps
 1. **Free Trial** – test full capabilities without restrictions.  
 2. **Temporary License** – evaluate advanced features for a short period.  
 3. **Purchase** – obtain a permanent license from the [Aspose Purchase page](https://purchase.aspose.com/buy).
 
-## Setting Up Aspose.Imaging for Java
+## Setting up Aspose.Imaging for java
 
 Add the library to your project using one of the following methods.
 
@@ -73,7 +73,7 @@ You can also download the latest release from the [official site](https://releas
 
 ## How to Use Aspose.Imaging for PNG to TIFF Conversion
 
-### Step 1: Load the PNG Image
+### Step 1: load the PNG image
 First, load the source PNG file.
 
 ```java
@@ -98,7 +98,7 @@ try (Image image = Image.load(inputFile)) {
 - `Image.load` reads the PNG into memory.  
 - `TiffOptions` with `TiffDeflateRgba` tells Aspose to use lossless Deflate compression and keep the RGBA channels.
 
-### Step 2: Save as Compressed TIFF
+### Step 2: save as compressed TIFF
 The `save` call inside the `try` block writes the image to disk with the chosen compression.
 
 ```java
@@ -108,7 +108,7 @@ image.save(outputFileTiff, options);
 
 ## How to Verify Alpha Channel and Convert Back to PNG
 
-### Step 1: Load the TIFF Image
+### Step 1: load the TIFF image
 Now open the newly created TIFF file.
 
 ```java
@@ -137,7 +137,7 @@ try (Image image = Image.load(inputFileTiff)) {
 - `hasAlpha()` confirms the TIFF still contains transparency.  
 - `PngOptions` with `TruecolorWithAlpha` ensures the output PNG preserves that transparency.
 
-## Common Issues & Troubleshooting
+## Common issues & troubleshooting
 
 - **File Not Found:** Double‑check the paths in `inputFile` and `outputFile*`.  
 - **Unsupported Format:** Ensure the source image is a PNG and the target is a TIFF/PNG supported by Aspose.  
@@ -160,7 +160,7 @@ By following this guide, you now know **how to use Aspose.Imaging for Java** to 
 
 Ready for more? Explore the full capabilities in the [Aspose.Imaging documentation](https://reference.aspose.com/imaging/java/).
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: How do I handle different color spaces when converting images using Aspose.Imaging?**  
 A: Use `TiffOptions` or `PngOptions` to specify the desired color space during conversion.

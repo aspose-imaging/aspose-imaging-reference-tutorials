@@ -1,5 +1,5 @@
 ---
-title: "How to Change PNG Bit Depth in Java Using Aspose.Imaging"
+title: "How to Reduce Image Bit Depth in Java"
 description: "Learn how to change PNG bit depth in Java with Aspose.Imaging, compress PNG files efficiently, and set up the Maven dependency."
 date: "2026-03-23"
 weight: 1
@@ -49,7 +49,7 @@ Aspose.Imaging provides a pure‑Java API that works on any platform, requires n
 - Access to a terminal/CLI for Maven or Gradle commands.
 - (Optional) An Aspose.Imaging trial or purchased license.
 
-## Setting Up Aspose.Imaging for Java
+## Setting up Aspose.Imaging for java
 
 ### Maven (aspose imaging maven setup)
 Add the following dependency to your `pom.xml` file:
@@ -72,7 +72,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ### Direct Download
 Alternatively, download the latest JAR from [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-#### License Acquisition Steps
+#### License acquisition steps
 - **Free Trial:** Start with a free trial to explore Aspose.Imaging capabilities.
 - **Temporary License:** Obtain a temporary license for extended evaluation.
 - **Purchase:** Consider purchasing a full license if you find the library beneficial.
