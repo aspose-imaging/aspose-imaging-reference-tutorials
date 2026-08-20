@@ -43,7 +43,7 @@ Aspose.Imaging offers a high‑level API that abstracts the low‑level BMP form
 - **IDE or Text Editor** – IntelliJ IDEA, Eclipse, VS Code, or any editor you prefer.
 - **Basic Java knowledge** – you should be comfortable with Java syntax and project setup.
 
-## Setting Up Aspose.Imaging for Java
+## Setting up Aspose.Imaging for java
 
 You can add Aspose.Imaging to your project via Maven, Gradle, or a direct JAR download.
 
@@ -81,7 +81,7 @@ Follow the steps in the [official documentation](https://reference.aspose.com/im
 
 Below is a step‑by‑step walkthrough that shows exactly **how to compress BMP** files with RLE4, **set bits per pixel**, and configure a palette.
 
-### Step 1: Load Your BMP Image
+### Step 1: load your BMP image
 
 First, load the source BMP file from disk. The `Image.load()` method returns an `Image` object that you can work with inside a try‑with‑resources block.
 
@@ -99,7 +99,7 @@ Image.load("YOUR_DOCUMENT_DIRECTORY\\Rle4.bmp").use(image -> {
 
 **Why this matters:** Loading the image creates an in‑memory representation that you can modify before saving.
 
-### Step 2: Configure BmpOptions – Set Bits Per Pixel and Palette
+### Step 2: configure bmpOptions – set bits per pixel and palette
 
 Create a `BmpOptions` instance, tell it to use RLE4 compression, set the bits per pixel to 4, and assign a 4‑bit color palette.
 
@@ -113,7 +113,7 @@ options.setPalette(ColorPaletteHelper.create4Bit());
 
 **Why this matters:** `setBitsPerPixel(4)` tells the encoder to store each pixel using only 4 bits, which aligns with the RLE4 algorithm’s expectations. The palette ensures that the 16 possible colors are correctly mapped.
 
-### Step 3: Save the Compressed BMP
+### Step 3: save the compressed BMP
 
 Finally, write the modified image to the output folder using the configured options.
 
@@ -127,7 +127,7 @@ image.save("YOUR_OUTPUT_DIRECTORY\\output.bmp", options);
 
 When you call `options.setBitsPerPixel(4)`, Aspose.Imaging automatically truncates the original color depth to 4 bits per pixel. This is essential for RLE4 because the algorithm works on nibble‑aligned data. If you need a different depth (e.g., 8‑bit), simply change the value, but remember that RLE4 specifically targets 4‑bit images.
 
-## Common Use Cases
+## Common use cases
 
 1. **Gaming Graphics** – Reduce asset size for faster loading on consoles and mobile devices.  
 2. **Embedded Systems** – Store UI icons on devices with limited flash memory.  
@@ -145,7 +145,7 @@ When you call `options.setBitsPerPixel(4)`, Aspose.Imaging automatically truncat
 - **Version Mismatch** – Ensure the Aspose.Imaging JAR version matches the API calls (the code targets version 25.5).  
 - **Out‑Of‑Memory Errors** – For very large BMPs, consider processing them in tiles or increasing the JVM heap size.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: What is RLE4 Compression?**  
 A: It's a lossless technique that stores runs of identical 4‑bit pixel values, dramatically shrinking BMP file sizes without quality loss.
