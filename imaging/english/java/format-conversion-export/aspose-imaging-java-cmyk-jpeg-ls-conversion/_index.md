@@ -39,17 +39,17 @@ In the world of digital imaging, **how to use Aspose** effectively can make the 
 
 ### Prerequisites
 
-#### Required Libraries, Versions, and Dependencies
+#### Required libraries, versions, and dependencies
 Before we begin, ensure that you have:
 - **Aspose.Imaging for Java**: Version 25.5 or later.
 
-#### Environment Setup Requirements
+#### Environment setup requirements
 A Java 8+ development environment (IntelliJ IDEA, Eclipse, or NetBeans) is recommended.
 
 #### Knowledge Prerequisites
 Basic Java programming knowledge is helpful. Maven or Gradle experience will speed up the setup, but we’ll cover both.
 
-## Setting Up Aspose.Imaging for Java
+## Setting up Aspose.Imaging for java
 
 ### Maven
 Add the following dependency to your `pom.xml` file:
@@ -70,12 +70,12 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ### Direct Download
 Alternatively, you can download the latest version directly from [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-### License Acquisition Steps
+### License acquisition steps
 
 To unlock the full feature set:
 
 - **Free Trial** – explore all capabilities for 30 days.  
-- **Temporary License** – request an extended evaluation [here](https://purchase.aspose.com/temporary-license/).  
+- **Temporary License** – request an extended evaluation [temporary license request page](https://purchase.aspose.com/temporary-license/).  
 - **Purchase** – obtain a permanent license for production use.
 
 Initialize the library in your Java code:
@@ -89,7 +89,7 @@ Now that the environment is ready, let’s dive into the actual conversion code.
 
 ## Implementation Guide
 
-### Saving JPEG Image to CMYK JPEG‑LS Format
+### Saving JPEG image to CMYK jPEG‑LS format
 
 #### Overview
 Converting an RGB JPEG to **CMYK JPEG‑LS** is essential for print‑ready assets because CMYK matches the inks used in commercial printers, while JPEG‑LS keeps file sizes low without sacrificing detail.
@@ -168,11 +168,11 @@ finally {
 - **Batch Processing** – When handling dozens or hundreds of images, process them in batches to keep memory usage predictable.  
 - **Asynchronous Operations** – Offload image work to background threads or use `CompletableFuture` to keep UI threads responsive.
 
-## Why Use Aspose.Imaging for This Task?
+## Why use Aspose.Imaging for this task?
 
 Aspose.Imaging offers a pure‑Java API that abstracts away low‑level image handling, letting you focus on business logic. It supports a wide range of formats, including the relatively niche JPEG‑LS, and provides built‑in color‑space conversion utilities, which saves you from integrating multiple third‑party libraries.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: What is JPEG‑LS compression?**  
 A: JPEG‑LS is a lossless compression algorithm that delivers high‑quality results with smaller file sizes compared to traditional JPEG.
@@ -195,7 +195,7 @@ A: Visit the community forum at [Aspose's Support Forum](https://forum.aspose.co
 - **Download**: Get the latest version directly from [releases page](https://releases.aspose.com/imaging/java/).  
 - **Purchase**: Consider acquiring a license for long‑term use via [purchase page](https://purchase.aspose.com/buy).  
 - **Free Trial**: Start with a 30‑day trial to test features at [trial download page](https://releases.aspose.com/imaging/java/).  
-- **Temporary License**: Extend your evaluation period by requesting a temporary license from [here](https://purchase.aspose.com/temporary-license/).
+- **Temporary License**: Extend your evaluation period by requesting a temporary license from [temporary license request page](https://purchase.aspose.com/temporary-license/).
 
 ---
 

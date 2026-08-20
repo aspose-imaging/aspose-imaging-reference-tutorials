@@ -48,7 +48,7 @@ Aspose.Imaging provides a pure‑Java API that handles complex vector formats li
 - **Java Development Environment:** JDK installed and configured on your machine.  
 - Basic understanding of Java programming.
 
-### Setting Up Aspose.Imaging for Java
+### Setting up Aspose.Imaging for java
 
 To use Aspose.Imaging in your project, include it as a dependency.
 
@@ -131,7 +131,7 @@ Finally, save your processed image to the desired output directory in PSD format
 image.save("YOUR_OUTPUT_DIRECTORY/CDR/SimpleShapes.psd", imageOptions);
 ```
 
-### Feature 2: Setting Vector Rasterization Options
+### Feature 2: setting vector rasterization options
 
 This feature focuses on configuring rasterization options for vector data when exporting CDR files to PSD.
 
@@ -192,7 +192,7 @@ A: Yes, Aspose.Imaging supports a wide range of image formats. Check the [docume
 **Q: Where can I find help if I encounter issues?**  
 A: Visit the [Aspose support forum](https://forum.aspose.com/c/imaging/14) for assistance from the community and Aspose experts.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: Does the conversion keep text editable?**  
 A: When the original CDR contains text as separate objects, Aspose.Imaging can preserve them as editable text layers in the PSD.
@@ -208,21 +208,28 @@ A: Absolutely – Aspose.Imaging also supports conversion to PDF, PNG, JPEG, and
 - **Documentation:** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
 - **Download:** [Latest Releases](https://releases.aspose.com/imaging/java/)
 - **Purchase:** [Buy a License](https://purchase.aspose.com/buy)
-- **Free Trial:** [Start Here](https://releases.aspose.com/imaging/java/)
+- **Free Trial:** [Download Free Trial for Aspose.Imaging Java](https://releases.aspose.com/imaging/java/)
 - **Temporary License:** [Request Now](https://purchase.aspose.com/temporary-license/)
 
 Embark on your journey with Aspose.Imaging for Java and unlock new possibilities in vector image processing!
 
-{{< /blocks/products/pf/tutorial-page-section >}}
 
-{{< /blocks/products/pf/main-container >}}
 
-{{< /blocks/products/pf/main-wrap-class >}}
 
-{{< blocks/products/products-backtop-button >}}
+
+
+
+
 
 ---
 
 **Last Updated:** 2026-03-26  
 **Tested With:** Aspose.Imaging 25.5 for Java  
 **Author:** Aspose
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

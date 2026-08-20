@@ -43,7 +43,7 @@ Let's dive into the prerequisites before we begin.
 ## What is the Aspose Imaging Maven Dependency?
 The Aspose Imaging Maven dependency is a Maven‑compatible package that bundles the Aspose.Imaging for Java library, allowing you to manage the JAR files and transitive dependencies automatically through your `pom.xml`. Adding this dependency is the first step in any **java image processing tutorial** that uses Aspose.
 
-## Why Use Aspose.Imaging for Java?
+## Why use Aspose.Imaging for java?
 - **Broad format support:** Handles WebP, GIF, JPEG, PNG, TIFF, and many more.  
 - **High‑fidelity conversion:** Preserves visual quality while keeping file sizes low.  
 - **Enterprise‑ready:** Offers licensing options, robust documentation, and professional support.  
@@ -56,9 +56,9 @@ Before starting, make sure you have the following:
 - **Maven or Gradle:** Build automation tool set up for dependency management.  
 - **Basic Java knowledge:** Familiarity with Java syntax and project structure.  
 
-## Setting Up Aspose.Imaging for Java
+## Setting up Aspose.Imaging for java
 
-### Aspose Imaging Maven Dependency Setup
+### Aspose imaging maven dependency setup
 
 Add the following dependency in your `pom.xml` file:
 
@@ -78,7 +78,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 
 ### Direct Download (no build tool)
 
-Alternatively, download the latest version from [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
+Alternatively, download the latest version from [Aspose.Imaging for Java release downloads](https://releases.aspose.com/imaging/java/).
 
 #### License Acquisition
 
@@ -86,7 +86,7 @@ Alternatively, download the latest version from [Aspose.Imaging for Java release
 - **Temporary License:** Obtain a temporary license for full access during evaluation.  
 - **Purchase:** Consider purchasing if you find the tool indispensable.
 
-### Basic Initialization and Setup
+### Basic initialization and setup
 
 Import the required classes before you start working with images:
 
@@ -118,7 +118,7 @@ String inputFile = dataDir + "/Animation.webp";
 Image image = Image.load(inputFile);
 ```
 
-### Configuring GIF Options
+### Configuring GIF options
 
 **Overview:** Set up the options that control how the GIF will be saved.
 
@@ -156,7 +156,7 @@ import java.nio.file.Files;
 Files.deleteIfExists(outputFile);
 ```
 
-## Java Image Processing Tutorial – Common Use Cases
+## Java image processing tutorial – common use cases
 
 Converting WebP to GIF is useful in many scenarios:
 
@@ -164,7 +164,7 @@ Converting WebP to GIF is useful in many scenarios:
 - **Marketing Material:** Create lightweight animated graphics for email campaigns.  
 - **CMS Integration:** Automate format conversion in WordPress, Joomla, or custom content platforms.  
 
-## Optimize Memory Java for Large Image Conversions
+## Optimize memory java for large image conversions
 
 When processing high‑resolution images, memory consumption can become a bottleneck. Here are a few tips:
 
@@ -193,7 +193,7 @@ Ready to implement? Dive into Aspose.Imaging for Java and elevate your image han
    - A powerful Java library for image processing, supporting formats like WebP, GIF, JPEG, and more.  
 
 2. **How do I install Aspose.Imaging on a Mac?**  
-   - Use Homebrew or download the JAR directly from [Aspose releases](https://releases.aspose.com/imaging/java/).  
+   - Use Homebrew or download the JAR directly from [Aspose.Imaging for Java release downloads](https://releases.aspose.com/imaging/java/).  
 
 3. **Can I convert other image formats using Aspose.Imaging?**  
    - Yes, it supports PNG, BMP, TIFF, and many others.  
@@ -202,7 +202,7 @@ Ready to implement? Dive into Aspose.Imaging for Java and elevate your image han
    - A compatible JDK version (8 or higher) and a modern Java IDE.  
 
 5. **How do I obtain a free trial of Aspose.Imaging?**  
-   - Visit [Aspose's free trial page](https://releases.aspose.com/imaging/java/) to download the trial package.  
+   - Visit [download free trial of Aspose.Imaging for Java](https://releases.aspose.com/imaging/java/) to download the trial package.  
 
 **Additional Questions**
 
@@ -217,12 +217,12 @@ A: Yes, the library can handle animated WebP and convert each frame to an animat
 
 ## Resources
 
-- **Documentation:** Explore detailed guides at [Aspose Documentation](https://reference.aspose.com/imaging/java/)  
-- **Download:** Get the latest version from [Releases Page](https://releases.aspose.com/imaging/java/)  
-- **Purchase:** Visit [Aspose Purchase Page](https://purchase.aspose.com/buy) for licensing options  
-- **Free Trial:** Start with a trial at [Free Trial Link](https://releases.aspose.com/imaging/java/)  
-- **Temporary License:** Get temporary access via [Temporary License Page](https://purchase.aspose.com/temporary-license/)  
-- **Support:** Engage with the community on [Aspose Forum](https://forum.aspose.com/c/imaging/14)
+- **Documentation:** Explore detailed guides at [Aspose.Imaging Java API documentation](https://reference.aspose.com/imaging/java/)  
+- **Download:** Get the latest version from [Aspose.Imaging for Java releases page](https://releases.aspose.com/imaging/java/)  
+- **Purchase:** Visit [Aspose.Imaging Java purchase page](https://purchase.aspose.com/buy) for licensing options  
+- **Free Trial:** Start with a trial at [download free trial of Aspose.Imaging for Java](https://releases.aspose.com/imaging/java/)  
+- **Temporary License:** Get temporary access via [obtain a temporary Aspose.Imaging license](https://purchase.aspose.com/temporary-license/)  
+- **Support:** Engage with the community on [Aspose.Imaging Java community forum](https://forum.aspose.com/c/imaging/14)
 
 ---
 

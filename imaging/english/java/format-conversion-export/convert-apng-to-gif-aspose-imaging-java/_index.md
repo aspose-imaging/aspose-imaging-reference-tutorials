@@ -42,7 +42,7 @@ To get started with this tutorial, you'll need:
 - **Java Development Kit (JDK)** – version 8 or newer.  
 - **An IDE** – IntelliJ IDEA, Eclipse, or any editor you prefer.
 
-### Required Libraries and Dependencies
+### Required libraries and dependencies
 
 **Maven**
 
@@ -68,7 +68,7 @@ Alternatively, download the latest version from [Aspose.Imaging for Java release
 
 You can start with a free trial or request a temporary license to evaluate Aspose.Imaging without restrictions. For production use, purchase a full license.
 
-## Setting Up Aspose.Imaging for Java
+## Setting up Aspose.Imaging for java
 
 1. **Add the Dependency** – follow the Maven or Gradle snippet above.  
 2. **Configure the License** (optional but recommended for full feature access):
@@ -82,11 +82,11 @@ Applying the license up front unlocks all conversion options and removes trial l
 
 ## Step‑by‑Step Implementation
 
-### Feature 1: Loading an APNG File
+### Feature 1: loading an APNG file
 
 **Why load first?** Loading gives you an `Image` object that you can manipulate or convert.
 
-#### Import Required Classes
+#### Import required classes
 
 ```java
 import com.aspose.imaging.Image;
@@ -114,7 +114,7 @@ if (image != null) {
 
 Now that the APNG is loaded, you can save it as a GIF. This is the core of **how to convert APNG**.
 
-#### Import Required Classes
+#### Import required classes
 
 ```java
 import com.aspose.imaging.Image;
@@ -135,11 +135,11 @@ try (Image image = Image.load(inputFilePath)) {
 
 The `GifOptions` class also lets you tweak frame rate, dithering, and other GIF‑specific settings if you need finer control.
 
-### Feature 3: Deleting a File After Processing
+### Feature 3: deleting a file after processing
 
 Cleaning up temporary files keeps your workspace tidy and saves disk space.
 
-#### Import Required Class
+#### Import required class
 
 ```java
 import java.io.File;
@@ -164,14 +164,14 @@ String outputFilePath = "YOUR_OUTPUT_DIRECTORY/elephant_out.gif";
 FileDeleter.deleteFile(outputFilePath);
 ```
 
-## Why Use Aspose.Imaging for This Conversion?
+## Why use Aspose.Imaging for this conversion?
 
 - **Zero‑dependency** – pure Java, no native libraries.  
 - **Supports over 50 formats**, so you can extend the same code to other conversions.  
 - **High performance** – optimized for large images and batch operations.  
 - **Rich API** – `GifOptions` gives you full control over the output.
 
-## Common Use Cases
+## Common use cases
 
 - **Web‑ready assets** – Convert APNGs to GIFs for browsers that don’t support animation PNG.  
 - **Mobile apps** – Reduce file size while preserving animation for older Android versions.  
@@ -183,7 +183,7 @@ FileDeleter.deleteFile(outputFilePath);
 - **Batch processing** – Use a thread pool when converting many files.  
 - **Monitor heap usage** – Large APNGs can consume significant memory; consider processing them one at a time.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: Can I use Aspose.Imaging for commercial projects?**  
 A: Yes, after purchasing a license you can use it without restrictions.
