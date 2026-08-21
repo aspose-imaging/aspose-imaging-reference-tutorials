@@ -1,5 +1,5 @@
 ---
-title: 'Master Aspose.Imaging Image Processing: Complete .NET & Java Guide'
+title: 'Master Image Processing: Complete .NET & Java Guide'
 linktitle: Aspose.Imaging Tutorials & Examples
 additionalTitle: Aspose API References for Image Processing
 description: Learn Aspose.Imaging image processing for .NET and Java. Explore tutorials on image manipulation, format conversion, filtering, DICOM support, and optimization with step‑by‑step examples.
@@ -54,34 +54,34 @@ Discover how Aspose.Imaging for .NET can transform your image processing capabil
 
 ### Essential .NET image processing tutorials
 
-- [Getting Started]({{< relref "net/getting-started" >}}) - Installation, licensing, and first image operations  
-- [Image Creation & Drawing]({{< relref "net/image-creation-drawing" >}}) - Create images from scratch with advanced drawing capabilities  
-- [Image Loading & Saving]({{< relref "net/image-loading-saving" >}}) - Efficient file handling and format management  
-- [Image Transformations]({{< relref "net/image-transformations" >}}) - Resize, crop, rotate, and geometric transformations  
-- [Color & Brightness Adjustments]({{< relref "net/color-brightness-adjustments" >}}) - Professional color correction and enhancement  
-- [Image Filtering & Effects]({{< relref "net/image-filtering-effects" >}}) - Apply sophisticated filters and visual effects  
-- [Image Masking & Transparency]({{< relref "net/image-masking-transparency" >}}) - Advanced selection tools and alpha channel operations  
-- [Format-Specific Operations]({{< relref "net/format-specific-operations" >}}) - TIFF, PNG, JPEG, GIF specialized processing  
-- [Metadata & EXIF Operations]({{< relref "net/metadata-exif-operations" >}}) - Comprehensive image metadata management  
-- [Vector Graphics & SVG]({{< relref "net/vector-graphics-svg" >}}) - Scalable vector image processing and conversion  
-- [Animation & Multi-frame Images]({{< relref "net/animation-multi-frame-images" >}}) - GIF animations and frame manipulation  
-- [Medical Imaging (DICOM)]({{< relref "net/medical-imaging-dicom" >}}) - Healthcare image processing and DICOM support  
-- [Compression & Optimization]({{< relref "net/compression-optimization" >}}) - File size optimization without quality loss  
-- [Batch Processing & Multi-threading]({{< relref "net/batch-processing-multi-threading" >}}) - High‑volume image processing workflows  
-- [Watermarking & Protection]({{< relref "net/watermarking-protection" >}}) - Image security and copyright protection  
-- [Advanced Drawing & Graphics]({{< relref "net/advanced-drawing-graphics" >}}) - Complex graphics programming and custom shapes  
-- [Format Conversion & Export]({{< relref "net/format-conversion-export" >}}) - Universal format conversion capabilities  
-- [Memory Management & Performance]({{< relref "net/memory-management-performance" >}}) - Optimization for large‑scale applications  
-- [Image Composition]({{< relref "net/image-composition" >}}) - Advanced compositing and layering techniques  
-- [Image Creation]({{< relref "net/image-creation" >}}) - Dynamic image generation and manipulation  
-- [Basic Drawing]({{< relref "net/basic-drawing" >}}) - Fundamental drawing operations and shapes  
-- [Advanced Drawing]({{< relref "net/advanced-drawing" >}}) - Complex graphics and custom rendering  
-- [Image Transformation]({{< relref "net/image-transformation" >}}) - Advanced geometric and perspective transformations  
-- [Vector Image Processing]({{< relref "net/vector-image-processing" >}}) - Professional vector graphics handling  
-- [Text and Measurements]({{< relref "net/text-and-measurements" >}}) - Typography and precise measurements  
-- [Image Format Conversion]({{< relref "net/image-format-conversion" >}}) - Cross‑format compatibility solutions  
-- [DICOM Image Processing]({{< relref "net/dicom-image-processing" >}}) - Medical imaging standards compliance  
-- [Advanced Features]({{< relref "net/advanced-features" >}}) - Cutting‑edge image processing capabilities  
+- [Getting Started](https://example.com/imaging/english/net/getting-started/) - Installation, licensing, and first image operations  
+- [Image Creation & Drawing](https://example.com/imaging/english/net/image-creation-drawing/) - Create images from scratch with advanced drawing capabilities  
+- [Image Loading & Saving](https://example.com/imaging/english/net/image-loading-saving/) - Efficient file handling and format management  
+- [Image Transformations](https://example.com/imaging/english/net/image-transformations/) - Resize, crop, rotate, and geometric transformations  
+- [Color & Brightness Adjustments](https://example.com/imaging/english/net/color-brightness-adjustments/) - Professional color correction and enhancement  
+- [Image Filtering & Effects](https://example.com/imaging/english/net/image-filtering-effects/) - Apply sophisticated filters and visual effects  
+- [Image Masking & Transparency](https://example.com/imaging/english/net/image-masking-transparency/) - Advanced selection tools and alpha channel operations  
+- [Format-Specific Operations](https://example.com/imaging/english/net/format-specific-operations/) - TIFF, PNG, JPEG, GIF specialized processing  
+- [Metadata & EXIF Operations](https://example.com/imaging/english/net/metadata-exif-operations/) - Comprehensive image metadata management  
+- [Vector Graphics & SVG](https://example.com/imaging/english/net/vector-graphics-svg/) - Scalable vector image processing and conversion  
+- [Animation & Multi-frame Images](https://example.com/imaging/english/net/animation-multi-frame-images/) - GIF animations and frame manipulation  
+- [Medical Imaging (DICOM)](https://example.com/imaging/english/net/medical-imaging-dicom/) - Healthcare image processing and DICOM support  
+- [Compression & Optimization](https://example.com/imaging/english/net/compression-optimization/) - File size optimization without quality loss  
+- [Batch Processing & Multi-threading](https://example.com/imaging/english/net/batch-processing-multi-threading/) - High‑volume image processing workflows  
+- [Watermarking & Protection](https://example.com/imaging/english/net/watermarking-protection/) - Image security and copyright protection  
+- [Advanced Drawing & Graphics](https://example.com/imaging/english/net/advanced-drawing-graphics/) - Complex graphics programming and custom shapes  
+- [Format Conversion & Export](https://example.com/imaging/english/net/format-conversion-export/) - Universal format conversion capabilities  
+- [Memory Management & Performance](https://example.com/imaging/english/net/memory-management-performance/) - Optimization for large‑scale applications  
+- [Image Composition](https://example.com/imaging/english/net/image-composition/) - Advanced compositing and layering techniques  
+- [Image Creation](https://example.com/imaging/english/net/image-creation/) - Dynamic image generation and manipulation  
+- [Basic Drawing](https://example.com/imaging/english/net/basic-drawing/) - Fundamental drawing operations and shapes  
+- [Advanced Drawing](https://example.com/imaging/english/net/advanced-drawing/) - Complex graphics and custom rendering  
+- [Image Transformation](https://example.com/imaging/english/net/image-transformation/) - Advanced geometric and perspective transformations  
+- [Vector Image Processing](https://example.com/imaging/english/net/vector-image-processing/) - Professional vector graphics handling  
+- [Text and Measurements](https://example.com/imaging/english/net/text-and-measurements/) - Typography and precise measurements  
+- [Image Format Conversion](https://example.com/imaging/english/net/image-format-conversion/) - Cross‑format compatibility solutions  
+- [DICOM Image Processing](https://example.com/imaging/english/net/dicom-image-processing/) - Medical imaging standards compliance  
+- [Advanced Features](https://example.com/imaging/english/net/advanced-features/) - Cutting‑edge image processing capabilities  
 
 ## Aspose.Imaging for Java Tutorials
 
@@ -91,28 +91,28 @@ Aspose.Imaging for Java empowers developers to implement robust image processing
 
 ### Essential java image processing tutorials
 
-- [Getting Started]({{< relref "java/getting-started" >}}) - Quick setup and configuration for Java developers  
-- [Image Creation & Drawing]({{< relref "java/image-creation-drawing" >}}) - Programmatic image generation and graphics operations  
-- [Image Loading & Saving]({{< relref "java/image-loading-saving" >}}) - Robust file handling and stream processing  
-- [Image Transformations]({{< relref "java/image-transformations" >}}) - Precise geometric transformations and scaling  
-- [Color & Brightness Adjustments]({{< relref "java/color-brightness-adjustments" >}}) - Professional color management and correction  
-- [Image Filtering & Effects]({{< relref "java/image-filtering-effects" >}}) - Advanced filtering algorithms and visual enhancement  
-- [Image Masking & Transparency]({{< relref "java/image-masking-transparency" >}}) - Sophisticated selection and alpha channel processing  
-- [Format-Specific Operations]({{< relref "java/format-specific-operations" >}}) - Optimized handling for major image formats  
-- [Metadata & EXIF Operations]({{< relref "java/metadata-exif-operations" >}}) - Complete metadata preservation and manipulation  
-- [Vector Graphics & SVG]({{< relref "java/vector-graphics-svg" >}}) - Scalable vector graphics processing and optimization  
-- [Animation & Multi-frame Images]({{< relref "java/animation-multi-frame-images" >}}) - Dynamic content creation and frame management  
-- [Medical Imaging (DICOM)]({{< relref "java/medical-imaging-dicom" >}}) - Healthcare‑compliant image processing solutions  
-- [Compression & Optimization]({{< relref "java/compression-optimization" >}}) - Smart compression algorithms for optimal file sizes  
-- [Batch Processing & Multi-threading]({{< relref "java/batch-processing-multi-threading" >}}) - Enterprise‑scale processing workflows  
-- [Watermarking & Protection]({{< relref "java/watermarking-protection" >}}) - Digital rights management and image security  
-- [Advanced Drawing & Graphics]({{< relref "java/advanced-drawing-graphics" >}}) - Complex graphics programming and rendering  
-- [Format Conversion & Export]({{< relref "java/format-conversion-export" >}}) - Seamless cross‑format compatibility  
-- [Memory Management & Performance]({{< relref "java/memory-management-performance" >}}) - JVM optimization for image processing  
-- [Image Conversion and Optimization]({{< relref "java/image-conversion-and-optimization" >}}) - Intelligent format conversion strategies  
-- [Image Processing and Enhancement]({{< relref "java/image-processing-and-enhancement" >}}) - Quality improvement and restoration techniques  
-- [Document Conversion and Processing]({{< relref "java/document-conversion-and-processing" >}}) - Document image processing workflows  
-- [Metafile and Vector Image Handling]({{< relref "java/metafile-and-vector-image-handling" >}}) - Advanced vector format support  
+- [Getting Started](https://example.com/imaging/english/java/getting-started/) - Quick setup and configuration for Java developers  
+- [Image Creation & Drawing](https://example.com/imaging/english/java/image-creation-drawing/) - Programmatic image generation and graphics operations  
+- [Image Loading & Saving](https://example.com/imaging/english/java/image-loading-saving/) - Robust file handling and stream processing  
+- [Image Transformations](https://example.com/imaging/english/java/image-transformations/) - Precise geometric transformations and scaling  
+- [Color & Brightness Adjustments](https://example.com/imaging/english/java/color-brightness-adjustments/) - Professional color management and correction  
+- [Image Filtering & Effects](https://example.com/imaging/english/java/image-filtering-effects/) - Advanced filtering algorithms and visual enhancement  
+- [Image Masking & Transparency](https://example.com/imaging/english/java/image-masking-transparency/) - Sophisticated selection and alpha channel processing  
+- [Format-Specific Operations](https://example.com/imaging/english/java/format-specific-operations/) - Optimized handling for major image formats  
+- [Metadata & EXIF Operations](https://example.com/imaging/english/java/metadata-exif-operations/) - Complete metadata preservation and manipulation  
+- [Vector Graphics & SVG](https://example.com/imaging/english/java/vector-graphics-svg/) - Scalable vector graphics processing and optimization  
+- [Animation & Multi-frame Images](https://example.com/imaging/english/java/animation-multi-frame-images/) - Dynamic content creation and frame management  
+- [Medical Imaging (DICOM)](https://example.com/imaging/english/java/medical-imaging-dicom/) - Healthcare‑compliant image processing solutions  
+- [Compression & Optimization](https://example.com/imaging/english/java/compression-optimization/) - Smart compression algorithms for optimal file sizes  
+- [Batch Processing & Multi-threading](https://example.com/imaging/english/java/batch-processing-multi-threading/) - Enterprise‑scale processing workflows  
+- [Watermarking & Protection](https://example.com/imaging/english/java/watermarking-protection/) - Digital rights management and image security  
+- [Advanced Drawing & Graphics](https://example.com/imaging/english/java/advanced-drawing-graphics/) - Complex graphics programming and rendering  
+- [Format Conversion & Export](https://example.com/imaging/english/java/format-conversion-export/) - Seamless cross‑format compatibility  
+- [Memory Management & Performance](https://example.com/imaging/english/java/memory-management-performance/) - JVM optimization for image processing  
+- [Image Conversion and Optimization](https://example.com/imaging/english/java/image-conversion-and-optimization/) - Intelligent format conversion strategies  
+- [Image Processing and Enhancement](https://example.com/imaging/english/java/image-processing-and-enhancement/) - Quality improvement and restoration techniques  
+- [Document Conversion and Processing](https://example.com/imaging/english/java/document-conversion-and-processing/) - Document image processing workflows  
+- [Metafile and Vector Image Handling](https://example.com/imaging/english/java/metafile-and-vector-image-handling/) - Advanced vector format support  
 
 ## Key Benefits of Aspose.Imaging
 

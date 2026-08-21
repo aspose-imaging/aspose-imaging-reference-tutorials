@@ -1,5 +1,5 @@
 ---
-title: Learn to Create Animated GIFs with Aspose.Imaging for Java – Complete Guide
+title: Learn to Create Animated GIFs – Complete Guide
 linktitle: Aspose.Imaging for Java Tutorials
 weight: 10
 url: /java/

@@ -1,6 +1,6 @@
 ---
-title: "Learn to Change PNG Background Color and Adjust Brightness with Aspose.Imaging for Java"
-description: "Learn how to change PNG background color, adjust brightness, contrast, and gamma using Aspose.Imaging for Java."
+title: "How to Adjust Image Background Color and Brightness in Java"
+description: "Learn how to modify image background color and adjust brightness, contrast, and gamma in Java."
 date: 2026-04-22
 keywords:
 - change png background color
@@ -51,19 +51,19 @@ image.save("output.png");
 
 ## Available Tutorials
 
-### {{< relref "change-png-background-color-java-aspose-imaging" >}}Change PNG background color in Java with Aspose.Imaging: a step‑by‑step guide{{< /relref >}}
+### [Change PNG background color in Java with Aspose.Imaging: a step‑by‑step guide]({{< relref "change-png-background-color-java-aspose-imaging" >}})
 Learn how to easily change the background color of PNG images using Aspose.Imaging for Java. Enhance your web design and graphic editing projects with this comprehensive tutorial.
 
-### {{< relref "convert-images-grayscale-aspose-imaging-java" >}}Grayscale image conversion in Java with Aspose.Imaging: a comprehensive guide{{< /relref >}}
+### [Grayscale image conversion in Java with Aspose.Imaging: a comprehensive guide]({{< relref "convert-images-grayscale-aspose-imaging-java" >}})
 Learn how to convert images to grayscale using Aspose.Imaging for Java. This guide covers setup, implementation, and practical applications for efficient image processing.
 
-### {{< relref "aspose-imaging-java-image-color-management" >}}Java Image Color Management: Master ICC Profiles with Aspose.Imaging{{< /relref >}}
+### [Java Image Color Management: Master ICC Profiles with Aspose.Imaging]({{< relref "aspose-imaging-java-image-color-management" >}})
 Learn how to manage image colors using RGB and CMYK ICC profiles in Java with Aspose.Imaging. Ensure consistent color reproduction across devices.
 
-### {{< relref "master-image-processing-aspose-imaging-java-icc-profiles" >}}Load and Set ICC Profiles in Java with Aspose.Imaging: A Complete Guide{{< /relref >}}
+### [Load and Set ICC Profiles in Java with Aspose.Imaging: A Complete Guide]({{< relref "master-image-processing-aspose-imaging-java-icc-profiles" >}})
 Learn how to load JPEGs and set RGB & CMYK ICC profiles using Aspose.Imaging for Java. Enhance color accuracy across devices.
 
-### {{< relref "aspose-imaging-java-image-brightness-guide" >}}Master Image Brightness Adjustment with Aspose.Imaging for Java – Comprehensive Guide{{< /relref >}}
+### [Master Image Brightness Adjustment with Aspose.Imaging for Java – Comprehensive Guide]({{< relref "aspose-imaging-java-image-brightness-guide" >}})
 Learn how to efficiently adjust image brightness using Aspose.Imaging for Java. This guide covers loading images, optimizing performance, and saving them in TIFF format.
 
 ## Additional Resources

@@ -1,5 +1,5 @@
 ---
-title: "Create Advanced Drawings with Aspose.Imaging for Java"
+title: "Learn to Create Advanced Drawings with Aspose.Imaging for Java"
 description: "Learn to create advanced drawings, set image dimensions, and work with graphics paths using Aspose.Imaging for Java."
 weight: 16
 url: "/java/advanced-drawing-graphics/"

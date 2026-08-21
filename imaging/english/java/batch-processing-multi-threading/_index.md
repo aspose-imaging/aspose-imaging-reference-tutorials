@@ -1,5 +1,5 @@
 ---
-title: "Accelerate Parallel Image Processing in Java with Aspose.Imaging"
+title: "Accelerate Parallel Image Processing in Java"
 description: "Learn how to implement parallel image processing in Java using Aspose.Imaging, covering batch image handling, scaling workflows, and performance optimization."
 weight: 14
 url: "/java/batch-processing-multi-threading/"
@@ -70,16 +70,16 @@ executor.awaitTermination(Long.MAX_VALUE, TimeUnit.NANOSECONDS);
 
 ## Available Tutorials
 
-### [Batch Process TIFF Files with Aspose.Imaging for Java - Tutorial](./batch-process-export-tiff-aspose-imaging-java/)
+### [Batch Process TIFF Files with Aspose.Imaging for Java - Tutorial]({{< relref "./batch-process-export-tiff-aspose-imaging-java/" >}})
 Learn how to efficiently batch process and export TIFF images using Aspose.Imaging in Java. Streamline your image processing workflow.
 
-### [Master image management in java with Aspose.Imaging: batch & multi-threading](./aspose-imaging-java-image-management/)
+### [Master image management in java with Aspose.Imaging: batch & multi-threading]({{< relref "./aspose-imaging-java-image-management/" >}})
 Learn how to efficiently load, save, and delete images using Aspose.Imaging for Java. Enhance your Java applications with powerful image management techniques.
 
-### [Parallel image processing in java with Aspose.Imaging: multithreading & batch handling](./parallel-image-processing-aspose-imaging-java/)
+### [Parallel image processing in java with Aspose.Imaging: multithreading & batch handling]({{< relref "./parallel-image-processing-aspose-imaging-java/" >}})
 Learn how to enhance image processing efficiency using Aspose.Imaging and ExecutorService for parallel tasks in Java. Boost productivity with multithreading techniques.
 
-### [Synchronized stream access in java with Aspose.Imaging: a complete guide](./implement-synchronized-stream-access-aspose-imaging-java/)
+### [Synchronized stream access in java with Aspose.Imaging: a complete guide]({{< relref "./implement-synchronized-stream-access-aspose-imaging-java/" >}})
 Learn how to implement synchronized stream access using Aspose.Imaging for Java. Ensure thread-safe operations and enhance performance in your multi-threaded applications.
 
 ## Additional Resources
