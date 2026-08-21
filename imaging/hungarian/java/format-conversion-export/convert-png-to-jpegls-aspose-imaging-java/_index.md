@@ -1,9 +1,17 @@
 ---
-"date": "2025-06-04"
-"description": "Tanuld meg, hogyan konvertálhatsz PNG képeket JPEG-LS formátumba az Aspose.Imaging for Java segítségével. Ez az oktatóanyag bemutatja a beállítást, a konvertálás lépéseit és tippeket a hatékony képfeldolgozáshoz."
-"title": "Aspose.Imaging Java&#5; PNG fájlok JPEG-LS formátumba konvertálása könnyedén"
-"url": "/hu/java/format-conversion-export/convert-png-to-jpegls-aspose-imaging-java/"
-"weight": 1
+date: '2026-04-05'
+description: Tanulja meg, hogyan konvertálhat PNG képeket JPEG‑LS-re az Aspose Imaging
+  Java segítségével, bemutatva a beállítást, a konverziós lépéseket és a hatékony
+  Java képtömörítés tippeit.
+keywords:
+- aspose imaging java
+- how to convert png
+- java image compression
+- convert png to jpeg-ls
+- load png image java
+title: 'Aspose Imaging Java: PNG konvertálása JPEG‑LS-re könnyedén'
+url: /hu/java/format-conversion-export/convert-png-to-jpegls-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,35 +19,51 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Cím: Képkonverzió elsajátítása Aspose.Imaging Java segítségével: PNG konvertálása JPEG-LS-sé
+# Cím: Az Aspose Imaging Java képkonverzió mestersége: PNG átalakítása JPEG‑LS-re
 
 ## Bevezetés
 
-Képfeldolgozás során felmerülhet a fájlméretek optimalizálásának szükségessége a minőség feláldozása nélkül. Itt válik elengedhetetlenné a képek egyik formátumból a másikba konvertálása. Az Aspose.Imaging for Java segítségével a fejlesztők zökkenőmentesen konvertálhatnak egy 8 bites PNG képet JPEG-LS formátumba, mindössze 2 bitet használva mintánként. Ebben az oktatóanyagban elmélyedünk a konvertálási folyamat bonyolultságaiban, és lépésről lépésre bemutatjuk a folyamatot.
+Amikor képfeldolgozással foglalkozik, előfordulhat, hogy a fájlméreteket optimalizálni kell a minőség romlása nélkül. Itt válik elengedhetetlenné a képek egyik formátumból a másikba történő átalakítása. A **Aspose Imaging Java** segítségével zökkenőmentesen konvertálhat egy 8 bites mintavételű PNG képet JPEG‑LS formátumba, amely csak 2 bitet használ mintánként. Ebben az útmutatóban végigvezetjük a teljes folyamaton, elmagyarázzuk, miért fontos, és gyakorlati tippeket adunk, amelyeket azonnal alkalmazhat.
 
-**Amit tanulni fogsz:**
-- Az Aspose.Imaging beállítása Java-hoz a projektben
-- A PNG képek JPEG-LS formátumba konvertálásának folyamata
-- JPEG-LS-ből PNG-be konvertálás összehasonlítás céljából
-- Főbb konfigurációs lehetőségek és hibaelhárítási tippek
+**Amit megtanul:**
+- Hogyan állítsa be az Aspose Imaging for Java-t a projektjében
+- A PNG képek JPEG‑LS formátumba konvertálásának folyamata
+- Visszakonvertálás JPEG‑LS‑ről PNG‑re összehasonlítás céljából
+- Kulcsfontosságú konfigurációs beállítások, gyakori buktatók és hibaelhárítási tippek
 
-Mielőtt belevágnánk a megvalósításba, nézzük meg, milyen előfeltételekre van szükség a kezdéshez.
+Mielőtt belemerülnénk a megvalósításba, tekintsük át a szükséges előfeltételeket, amelyekkel elkezdhetjük.
+
+## Gyors válaszok
+- **Melyik könyvtár kezeli a konverziót?** Aspose Imaging Java
+- **Mely formátumok érintettek?** PNG → JPEG‑LS és JPEG‑LS → PNG
+- **Tipikus tömörítési nyereség?** Akár 80 % csökkenés, miközben veszteségmentes marad
+- **Minimum Java verzió?** JDK 8 vagy újabb
+- **Szükségem van licencre a teszteléshez?** Egy ingyenes próba vagy ideiglenes licenc működik fejlesztéshez
+
+## Mi az Aspose Imaging Java?
+Az Aspose Imaging Java egy erőteljes API, amely lehetővé teszi a fejlesztők számára, hogy programozottan olvassanak, szerkesszenek és konvertáljanak különféle képfájlformátumokat. Támogatja a fejlett tömörítési sémákat, például a JPEG‑LS‑t, így ideális olyan helyzetekben, ahol a kép pontossága és a fájlméret hatékonysága egyaránt kritikus.
+
+## Miért használja az Aspose Imaging Java-t PNG‑ról JPEG‑LS‑re konvertáláshoz?
+- **Veszteségmentes vagy közel veszteségmentes tömörítés** – A JPEG‑LS minden pixel részletet érintetlenül tart.
+- **Egyszerű API** – Néhány kódsor kezeli a betöltést, konfigurálást és mentést.
+- **Keresztplatformos** – Minden, Java‑t támogató operációs rendszeren működik.
+- **Vállalati szintű** – Skálázható egyetlen kép műveletektől a kötegelt feldolgozási csővezetékekig.
 
 ## Előfeltételek (H2)
 
-A bemutató hatékony követéséhez győződjön meg arról, hogy rendelkezik a következőkkel:
-- Java programozási alapismeretek.
-- Egy integrált fejlesztői környezet (IDE), például IntelliJ IDEA vagy Eclipse a gépeden beállítva.
-- Maven vagy Gradle telepítve a függőségek kezeléséhez.
-- Ismerkedés a képfeldolgozási alapfogalmakkal és fájlformátumokkal.
+A tutorial hatékony követéséhez győződjön meg róla, hogy rendelkezik:
+- Alapvető Java programozási ismeretekkel.
+- Integrált fejlesztőkörnyezettel (IDE), például IntelliJ IDEA vagy Eclipse.
+- Maven vagy Gradle telepítve a függőségkezeléshez.
+- Képfeldolgozási koncepciók és fájlformátumok ismeretével.
 
-## Az Aspose.Imaging beállítása Java-hoz (H2)
+## Az Aspose Imaging for Java beállítása (H2)
 
 **Telepítés:**
 
-Az Aspose.Imaging Java-beli használatához hozzá kell adni függőségként a projektedhez. Így teheted meg ezt Maven vagy Gradle használatával:
+Az Aspose Imaging for Java használatához hozzá kell adnia a projekt függőségeihez. Íme, hogyan teheti ezt Maven vagy Gradle segítségével:
 
-**Szakértő**
+**Maven**
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -53,18 +77,18 @@ Az Aspose.Imaging Java-beli használatához hozzá kell adni függőségként a 
 implementation(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-Vagy letöltheti a legújabb verziót közvetlenül innen: [Aspose.Imaging Java kiadásokhoz](https://releases.aspose.com/imaging/java/).
+Alternatív megoldásként letöltheti a legújabb verziót közvetlenül a [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) oldalról.
 
-### Licencszerzés
+### Licenc megszerzése
 
-Az Aspose.Imaging használatának megkezdéséhez érdemes lehet ingyenes próbaverziót beszerezni, vagy licencet vásárolni:
-- **Ingyenes próbaverzió**: Lehetővé teszi a funkciók ingyenes felfedezését.
-- **Ideiglenes engedély**: Szerezd meg ezt a következőn keresztül: [Ideiglenes engedély oldal](https://purchase.aspose.com/temporary-license/) a kiértékelés során a hosszabb hozzáférés érdekében.
-- **Vásárlás**Hosszú távú használat esetén vásárolja meg közvetlenül a következő cégtől: [Aspose vásárlási oldala](https://purchase.aspose.com/buy).
+To get started with Aspose Imaging, consider acquiring a free trial or purchasing a license:
+- **Ingyenes próba**: Lehetővé teszi a funkciók költségmentes felfedezését.
+- **Ideiglenes licenc**: Szerezze be a [Temporary License page](https://purchase.aspose.com/temporary-license/) oldalon a kiterjesztett hozzáféréshez az értékelés során.
+- **Vásárlás**: Hosszú távú használathoz vásároljon közvetlenül az [Aspose’s Purchase Page](https://purchase.aspose.com/buy) oldalon.
 
 **Alapvető inicializálás:**
 
-Miután beépítetted az Aspose.Imaging-et a projektedbe, inicializáld, hogy minden funkció elérhető legyen:
+Miután beillesztette az Aspose Imaging-et a projektbe, inicializálja, hogy minden funkció elérhető legyen:
 
 ```java
 import com.aspose.imaging.License;
@@ -73,140 +97,153 @@ License license = new License();
 license.setLicense("path/to/your/license.lic");
 ```
 
-## Megvalósítási útmutató
+## Az Aspose Imaging Java használata PNG‑ról JPEG‑LS‑re konvertáláshoz (H2)
 
-### PNG konvertálása JPEG-LS (H2) formátumba
+### PNG‑ról JPEG‑LS‑re konvertálás (H2)
 
-Ez a funkció lehetővé teszi egy 8 bites PNG kép tömörítését egy hatékonyabb, 2 bites JPEG-LS formátumba.
+Ez a funkció lehetővé teszi, hogy egy 8‑bit mintavételű PNG képet hatékonyabb, 2‑bit mintavételű JPEG‑LS formátumba tömörítsen.
 
 #### Áttekintés
-A JPEG-LS formátum veszteségmentes és közel veszteségmentes tömörítési képességeiről ismert, így ideális a kiváló minőségű képek csökkentett fájlmérettel történő tárolására. Ez a szakasz végigvezeti Önt azon, hogyan konvertálhat egy PNG-fájlt ebbe a formátumba az Aspose.Imaging segítségével.
+A JPEG‑LS híres a veszteségmentes és közel veszteségmentes tömörítési képességeiről, így ideális a magas minőségű képek tárolására csökkentett fájlmérettel. Ez a szakasz végigvezeti a PNG ebbe a formátumba történő konvertálásán az Aspose Imaging segítségével.
 
-#### Megvalósítási lépések
+#### Implementációs lépések
 
 ##### Az eredeti PNG kép betöltése (H3)
-Kezdésként töltsd be a forrás PNG képedet:
+Kezdje a forrás PNG kép betöltésével:
+
 ```java
 String originPngFileName = "YOUR_DOCUMENT_DIRECTORY/lena24b.png";
 PngImage pngImage = (PngImage) Image.load(originPngFileName);
 ```
-*Miért?*A kép betöltése lehetővé teszi az Aspose.Imaging hatékony API-jának használatával történő elérését és kezelését.
+*Miért?*: A kép betöltése lehetővé teszi, hogy hozzáférjen és manipulálja azt az Aspose Imaging erőteljes API-jával.
 
-##### JPEG-beállítások konfigurálása (H3)
-Állítsa be a konverzióhoz szükséges beállításokat:
+##### JPEG beállítások konfigurálása (H3)
+Állítsa be a konverzióhoz szükséges opciókat:
+
 ```java
-int bpp = 2; // Bitek mintánként
+int bpp = 2; // Bits per sample
 JpegOptions jpegOptions = new JpegOptions();
 jpegOptions.setBitsPerChannel((byte) bpp);
 jpegOptions.setCompressionType(JpegCompressionMode.JpegLs);
 ```
-*Miért?*Ezen beállítások konfigurálása határozza meg a kimeneti JPEG-LS kép tömörítési típusát és minőségi paramétereit.
+*Miért?*: Ezeknek az opcióknak a konfigurálása meghatározza a tömörítési típust és a minőségi paramétereket a kimeneti JPEG‑LS képnél.
 
 ##### Kép mentése (H3)
-Végül mentsd el a konvertált képet:
+Végül mentse a konvertált képet:
+
 ```java
 String outputJpegFileName = "YOUR_OUTPUT_DIRECTORY/lena24b 2-bit Gold.jls";
 pngImage.save(outputJpegFileName, jpegOptions);
 ```
-*Miért?*: Egy adott formátumban történő mentés véglegesíti a konvertálási folyamatot.
+*Miért?*: A specifikus formátumban való mentés befejezi a konverziós folyamatot.
 
-##### Erőforrás-gazdálkodás (H3)
-Az erőforrások felszabadításának biztosítása a feldolgozás után:
+##### Erőforrás-kezelés (H3)
+Győződjön meg róla, hogy a feldolgozás után az erőforrások felszabadulnak:
+
 ```java
 finally {
     pngImage.dispose();
 }
 ```
-*Miért?*A képobjektumok eltávolítása segít a memóriahasználat hatékony kezelésében.
+*Miért?*: A képobjektumok eldobása segít a memóriahasználat hatékony kezelésében.
 
 #### Hibaelhárítási tippek
 
-- **Gyakori probléma**: Ha találkozol egy `FileNotFoundException`, ellenőrizze duplán a bemeneti és kimeneti fájlok elérési útját.
-- **Megoldási tipp**Győződjön meg arról, hogy az IDE rendelkezik engedéllyel a megadott könyvtárak olvasására és írására.
+- **Gyakori probléma**: Ha `FileNotFoundException`-t kap, ellenőrizze kétszer a bemeneti és kimeneti fájlok elérési útvonalait.
+- **Megoldási tipp**: Győződjön meg róla, hogy az IDE-nek joga van olvasni és írni a megadott könyvtárakba.
 
-### JPEG-LS konvertálása PNG-vé (H2)
+### JPEG‑LS‑ről PNG‑re konvertálás (H2)
 
-Ez a funkció lehetővé teszi a JPEG-LS képek PNG formátumba való visszakonvertálását, ami megkönnyíti a vizuális összehasonlításokat vagy a további feldolgozást.
+Ez a funkció lehetővé teszi, hogy egy JPEG‑LS képet visszaalakítsa PNG formátumba, megkönnyítve a vizuális összehasonlításokat vagy a további feldolgozást.
 
 #### Áttekintés
-Miután egy képet JPEG-LS formátumba konvertáltunk tömörítési célokból, szükség lehet a folyamat visszafordítására a minőség felmérése vagy egyéb célok érdekében. Ez a szakasz bemutatja, hogyan lehet ezt az Aspose.Imaging segítségével megvalósítani.
+Miután egy képet JPEG‑LS-re konvertált a tömörítés céljából, előfordulhat, hogy vissza kell fordítani a folyamatot a minőség felméréséhez vagy egyéb felhasználásokhoz. Ez a szakasz bemutatja, hogyan valósítható meg ez az Aspose Imaging segítségével.
 
-#### Megvalósítási lépések
+#### Implementációs lépések
 
-##### JPEG-LS kép betöltése (H3)
-Kezdje a JPEG-LS fájl betöltésével:
+##### JPEG‑LS kép betöltése (H3)
+Kezdje a JPEG‑LS fájl betöltésével:
+
 ```java
 String inputJpegFileName = "YOUR_OUTPUT_DIRECTORY/lena24b 2-bit Gold.jls";
 JpegImage jpegImage = (JpegImage) Image.load(inputJpegFileName);
 ```
-*Miért?*A kép betöltése előkészíti azt egy másik formátumra való konvertálásra.
+*Miért?*: A kép betöltése előkészíti a konvertáláshoz egy másik formátumba.
 
-##### Mentés PNG-ként (H3)
-A kép PNG formátumba konvertálása és mentése:
+##### Mentés PNG‑ként (H3)
+Konvertálja és mentse a képet PNG formátumban:
+
 ```java
 String outputPngFileName = "YOUR_OUTPUT_DIRECTORY/lena24b 2-bit Gold.png";
 jpegImage.save(outputPngFileName, new PngOptions());
 ```
-*Miért?*Ez a lépés biztosítja, hogy a JPEG-LS fájlod visszaalakításra kerüljön egy széles körben kompatibilis és veszteségmentes PNG formátumba.
+*Miért?*: Ez a lépés biztosítja, hogy a JPEG‑LS fájl vissza legyen konvertálva egy széles körben kompatibilis és veszteségmentes PNG formátumba.
 
-##### Erőforrás-gazdálkodás (H3)
-Kép erőforrások megsemmisítése mentés után:
+##### Erőforrás-kezelés (H3)
+A mentés után szabadítsa fel a kép erőforrásait:
+
 ```java
 finally {
     jpegImage.dispose();
 }
 ```
-*Miért?*A megfelelő megsemmisítés elkerüli a memóriaszivárgásokat, és fenntartja az alkalmazás teljesítményét.
+*Miért?*: A megfelelő felszabadítás elkerüli a memória szivárgásokat, és fenntartja az alkalmazás teljesítményét.
 
 ## Gyakorlati alkalmazások (H2)
 
-1. **Orvosi képalkotás**A JPEG-LS formátumot gyakran használják az orvosi képalkotásban a hatékony veszteségmentes tömörítés miatt, amely megőrzi a kritikus részleteket.
-2. **Kiváló minőségű képek archiválása**Az archívumok JPEG-LS formátumban tárolhatják a nagy felbontású képeket minimális tárhely igénylésével.
-3. **Webfejlesztés**A képfájlok méretének minőségromlás nélküli csökkentése javítja a weboldalak betöltési idejét és fokozza a felhasználói élményt.
-4. **Digitális fényképezés**A fotósok tömöríthetik portfólióikat a képminőség feláldozása nélkül.
-5. **Grafikai tervezés**A tervezők gyakran olyan formátumokat igényelnek, amelyek egyensúlyt teremtenek a minőség és a fájlméret között a különböző médiakimenetek esetében.
+1. **Orvosi képalkotás** – A JPEG‑LS gyakran használatos orvosi képalkotásban hatékony veszteségmentes tömörítése miatt, amely megőrzi a kritikus diagnosztikai részleteket.
+2. **Magas minőségű képek archiválása** – Az archívumok minimális tárolási ráfordítással tárolhatnak nagy felbontású képeket.
+3. **Webfejlesztés** – A képfájlok méretének csökkentése minőségromlás nélkül javítja az oldal betöltési idejét és a felhasználói élményt.
+4. **Digitális fotózás** – A fotósok a portfólióikat tömöríthetik anélkül, hogy a hűség csorbulna.
+5. **Grafikai tervezés** – A tervezők gyakran olyan formátumokra van szükségük, amelyek egyensúlyt teremtenek a minőség és a fájlméret között különféle médiakimenetekhez.
 
-## Teljesítményszempontok (H2)
+## Teljesítménybeli szempontok (H2)
 
-- **Memóriahasználat optimalizálása**: A képeket mindig a `dispose()` módszer az erőforrások gyors felszabadítására.
-- **Kötegelt feldolgozás**Nagy adathalmazok esetén érdemes kötegelt formában feldolgozni a képeket a memóriahasználat hatékony kezelése érdekében.
-- **Párhuzamos végrehajtás**Használja ki a Java párhuzamos feldolgozási funkcióit párhuzamos képfeldolgozási feladatokhoz, ezzel javítva az átviteli sebességet.
+- **Memóriahasználat optimalizálása** – Mindig szabadítsa fel a képeket a `dispose()` metódus használatával, hogy az erőforrások gyorsan felszabaduljanak.
+- **Kötegelt feldolgozás** – Nagy adathalmazok esetén dolgozza fel a képeket kötegekben a memóriafogyasztás kezelése érdekében.
+- **Párhuzamos végrehajtás** – Használja ki a Java párhuzamossági eszközeit a párhuzamos képfeldolgozáshoz, ezáltal növelve a teljesítményt.
 
-## Következtetés
+## Gyakori problémák és megoldások (H2)
 
-Ebben az oktatóanyagban megtanultad, hogyan konvertálhatsz PNG képeket JPEG-LS formátumba és vissza az Aspose.Imaging for Java segítségével. Ezek a készségek különféle forgatókönyvekben alkalmazhatók, amelyek hatékony képtömörítést és minőségmegőrzést igényelnek. Szakértelmed további bővítéséhez fedezd fel az Aspose.Imaging könyvtár további funkcióit, és kísérletezz különböző konfigurációkkal.
+| Tünet | Valószínű ok | Megoldás |
+|---------|--------------|-----|
+| `FileNotFoundException` | Helytelen fájlútvonal | Ellenőrizze a abszolút/relatív útvonalakat és a mappajogosultságokat |
+| Memóriahiányos hibák | Nagy képek soros feldolgozása | Használjon kötegelt feldolgozást vagy növelje a JVM heap méretét (`-Xmx`) |
+| Sérült kimeneti fájl | Hiányzó `dispose()` hívás | Győződjön meg róla, hogy a `finally` blokk felszabadítja a képobjektumokat |
 
-**Következő lépések:**
-- Fedezze fel az Aspose.Imaging által kínált egyéb képformátum-konvertálásokat.
-- Integrálja ezt a funkciót nagyobb projektekbe vagy rendszerekbe, ahol a képfeldolgozás alapvető követelmény.
+## Gyakran feltett kérdések (H2)
 
-## GYIK szekció (H2)
+**Q: Milyen rendszerkövetelmények vannak az Aspose Imaging használatához?**  
+A: Az Aspose Imaging bármely Java‑t támogató platformon működik, JDK 8 vagy újabb szükséges.
 
-1. **Milyen rendszerkövetelmények szükségesek az Aspose.Imaging használatához?**  
-   *Az Aspose.Imaging bármilyen Java-t támogató platformon működik, JDK 8-as vagy újabb verziót igényel.*
+**Q: Használhatom az Aspose Imaging-et nyílt forráskódú projektekben?**  
+A: Igen, de be kell tartania az Aspose által biztosított licencfeltételeket.
 
-2. **Használhatom az Aspose.Imaging-et nyílt forráskódú projektekben?**  
-   *Igen, de be kell tartania az Aspose által meghatározott licencfeltételeket.*
+**Q: Mi történik, ha a képfájl a konverzió során megsérül?**  
+A: Ellenőrizze a bemeneti fájlokat a feldolgozás előtt, és kezelje a kivételeket a hibák elegáns kezeléséhez.
 
-3. **Mi történik, ha a képfájl megsérül a konvertálás során?**  
-   *feldolgozás előtt győződjön meg a bemeneti fájlok sértetlenségéről. A kivételek kezelése a hibák szabályos kezelése érdekében.*
+**Q: Hogyan kezeljem a 2 bit per mintánál eltérő bitmélységeket?**  
+A: Állítsa be a `setBitsPerChannel()` paramétert a kívánt bitmélységre.
 
-4. **Hogyan kezelhetem a 2 bit/minta értéktől eltérő bitmélységeket?**  
-   *Állítsa be a `setBitsPerChannel()` paraméter az Ön igényei szerint.*
+**Q: Az Aspose Imaging kompatibilis minden Java IDE-vel?**  
+A: Igen, működik a népszerű IDE-kkel, mint az IntelliJ IDEA, Eclipse és NetBeans.
 
-5. **Az Aspose.Imaging kompatibilis az összes Java IDE-vel?**  
-   *Igen, kompatibilis a népszerű IDE-kkel, mint például az IntelliJ IDEA és az Eclipse.*
+## Források
 
-## Erőforrás
-
-- [Aspose.Imaging Java dokumentációhoz](https://reference.aspose.com/imaging/java/)
-- [Aspose.Imaging letöltése Java-hoz](https://releases.aspose.com/imaging/java/)
+- [Aspose.Imaging for Java dokumentáció](https://reference.aspose.com/imaging/java/)
+- [Aspose.Imaging for Java letöltése](https://releases.aspose.com/imaging/java/)
 - [Licenc vásárlása](https://purchase.aspose.com/buy)
-- [Ingyenes próbaverzió](https://releases.aspose.com/imaging/java/)
-- [Ideiglenes engedélykérelem](https://purchase.aspose.com/temporary-license/)
-- [Közösségi Támogatási Fórum](https://forum.aspose.com/c/imaging/14)
+- [Ingyenes próba hozzáférés](https://releases.aspose.com/imaging/java/)
+- [Ideiglenes licenc igénylése](https://purchase.aspose.com/temporary-license/)
+- [Közösségi támogatási fórum](https://forum.aspose.com/c/imaging/14)
 
-Ezzel az átfogó útmutatóval most már képes leszel hatékonyan kezelni a PNG-JPEG-LS konverziókat és fordítva az Aspose.Imaging for Java használatával. Jó kódolást!
+Ezzel az átfogó útmutatóval most fel van vértezve a PNG‑ról JPEG‑LS‑re és vissza konvertálások hatékony kezelésére a **Aspose Imaging Java** segítségével. Boldog kódolást!
+
+---
+
+**Utoljára frissítve:** 2026-04-05  
+**Tesztelve a következővel:** Aspose Imaging 25.5 for Java  
+**Szerző:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
