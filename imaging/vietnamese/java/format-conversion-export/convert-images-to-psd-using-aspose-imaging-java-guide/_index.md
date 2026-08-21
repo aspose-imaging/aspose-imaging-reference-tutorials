@@ -1,9 +1,17 @@
 ---
-"date": "2025-06-04"
-"description": "Tìm hiểu cách chuyển đổi hình ảnh sang định dạng PSD một cách liền mạch bằng Aspose.Imaging for Java. Hướng dẫn này bao gồm cài đặt, tải hình ảnh, thiết lập tùy chọn PSD và lưu dưới dạng PSD."
-"title": "Cách chuyển đổi hình ảnh sang PSD trong Java bằng Aspose.Imaging&#58; Hướng dẫn từng bước"
-"url": "/vi/java/format-conversion-export/convert-images-to-psd-using-aspose-imaging-java-guide/"
-"weight": 1
+date: '2026-04-02'
+description: Tìm hiểu cách chuyển đổi hình ảnh sang PSD bằng Aspose.Imaging cho Java.
+  Hướng dẫn này bao gồm phụ thuộc Maven, cấp phép, tải ảnh, các tùy chọn PSD và lưu
+  tệp.
+keywords:
+- convert image to psd
+- how to save psd
+- aspose imaging maven dependency
+- export image as psd
+- apply aspose license
+title: Chuyển đổi hình ảnh sang PSD với Aspose.Imaging cho Java – Hướng dẫn từng bước
+url: /vi/java/format-conversion-export/convert-images-to-psd-using-aspose-imaging-java-guide/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,37 +19,47 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Cách chuyển đổi hình ảnh sang PSD bằng Aspose.Imaging Java: Hướng dẫn toàn diện
+# Chuyển Đổi Hình Ảnh Sang PSD Sử Dụng Aspose.Imaging Java: Hướng Dẫn Toàn Diện
 
 ## Giới thiệu
 
-Bạn có muốn chuyển đổi hình ảnh của mình sang định dạng Photoshop (PSD) một cách liền mạch bằng Java không? Với sự phát triển của hình ảnh kỹ thuật số, các nhà phát triển thường cần các giải pháp mạnh mẽ để xử lý các tác vụ xử lý hình ảnh một cách hiệu quả. Hướng dẫn này sẽ hướng dẫn bạn cách sử dụng **Aspose.Imaging cho Java**—một thư viện mạnh mẽ giúp đơn giản hóa việc chuyển đổi hình ảnh như BMP sang PSD với mã tối thiểu. Bạn sẽ học cách tải hình ảnh, thiết lập tùy chọn PSD và lưu hình ảnh ở định dạng mong muốn.
+Bạn có đang tìm kiếm một cách đáng tin cậy để **convert image to PSD** trực tiếp từ mã Java không? Dù bạn đang xây dựng một quy trình thiết kế đồ họa, một hệ thống lưu trữ tự động, hay một bộ xử lý ảnh đa nền tảng, Aspose.Imaging cho Java sẽ giúp công việc trở nên nhẹ nhàng. Trong hướng dẫn này, bạn sẽ học cách thêm phụ thuộc Aspose.Imaging Maven, áp dụng giấy phép Aspose, tải ảnh nguồn, cấu hình tùy chọn xuất PSD, và cuối cùng lưu file dưới dạng tài liệu Photoshop (PSD).
 
-### Những gì bạn sẽ học được
+### Những Điều Bạn Sẽ Học
 
-- Cách cài đặt Aspose.Imaging cho Java
-- Tải hình ảnh bằng Aspose.Imaging
-- Cấu hình cài đặt cụ thể cho PSD
-- Lưu hình ảnh của bạn dưới dạng tệp PSD
-- Ứng dụng thực tế của chức năng này
+- Cách thêm **aspose imaging maven dependency** vào dự án của bạn  
+- Cách **apply Aspose license** để sử dụng không giới hạn  
+- Cách tải ảnh và cấu hình cài đặt **export image as PSD**  
+- Cách **save Photoshop file** (PSD) với các tùy chọn tùy chỉnh  
+- Các kịch bản thực tế mà việc chuyển đổi sang PSD mang lại giá trị  
 
-Bạn đã sẵn sàng chưa? Hãy bắt đầu bằng cách đảm bảo mọi thứ đã được thiết lập đúng cách.
+Sẵn sàng bắt đầu? Hãy chắc chắn môi trường của bạn đã được chuẩn bị.
 
-## Điều kiện tiên quyết
+## Câu Trả Lời Nhanh
+- **Thư viện tôi cần là gì?** Aspose.Imaging cho Java (Maven hoặc Gradle).  
+- **Phương thức chính nào chuyển đổi file?** `Image.save(outputPath, new PsdOptions())`.  
+- **Tôi có cần giấy phép không?** Có, hãy apply một giấy phép Aspose để mở khóa đầy đủ tính năng.  
+- **Có thể dùng với Maven không?** Chắc chắn – chỉ cần thêm phụ thuộc Aspose Imaging Maven.  
+- **Kết quả có phải là file Photoshop thực sự không?** Có, file được lưu hoàn toàn tương thích với PSD.
 
-Trước khi bắt đầu, hãy đảm bảo bạn có những điều sau:
+## “convert image to PSD” là gì?
+Việc convert image to PSD có nghĩa là lấy một ảnh raster (BMP, JPEG, PNG, v.v.) và xuất nó ra định dạng gốc của Adobe Photoshop. PSD giữ lại các lớp, chế độ màu và các tùy chọn nén, rất thích hợp cho việc chỉnh sửa tiếp theo trong Photoshop.
 
-- **Bộ phát triển Java (JDK)**: Đảm bảo JDK 8 trở lên được cài đặt trên hệ thống của bạn.
-- **Maven/Gradle**Việc quen thuộc với Maven hoặc Gradle để quản lý các phụ thuộc có thể hữu ích.
-- **Aspose.Imaging cho Thư viện Java**: Hướng dẫn này sẽ hướng dẫn bạn cách cài đặt nó.
+## Tại Sao Nên Sử Dụng Aspose.Imaging cho Java?
+Aspose.Imaging cung cấp API thuần Java không phụ thuộc vào thư viện gốc bên ngoài, hỗ trợ đa dạng định dạng, và cho phép kiểm soát chi tiết các tính năng PSD như chế độ màu, nén và phiên bản. Điều này loại bỏ nhu cầu cài đặt Photoshop trên máy chủ.
 
-## Thiết lập Aspose.Imaging cho Java
+## Yêu Cầu Trước
 
-Để sử dụng Aspose.Imaging cho Java, bạn cần thêm thư viện dưới dạng dependency vào dự án của mình. Bạn có hai phương pháp chính: sử dụng Maven hoặc Gradle. Ngoài ra, bạn có thể tải xuống JAR trực tiếp từ trang web Aspose.
+- **Java Development Kit (JDK)** 8 trở lên.  
+- **Maven** hoặc **Gradle** để quản lý phụ thuộc.  
+- Thư viện **Aspose.Imaging cho Java** (tải về hoặc tham chiếu qua Maven/Gradle).  
+- File **Aspose license** hợp lệ (tùy chọn cho bản dùng thử, bắt buộc cho môi trường production).
 
-### Sử dụng Maven
+## Cài Đặt Aspose.Imaging cho Java
 
-Thêm phụ thuộc sau vào `pom.xml` tài liệu:
+### Sử Dụng Maven (aspose imaging maven dependency)
+
+Thêm phụ thuộc sau vào file `pom.xml` của bạn:
 
 ```xml
 <dependency>
@@ -51,29 +69,29 @@ Thêm phụ thuộc sau vào `pom.xml` tài liệu:
 </dependency>
 ```
 
-### Sử dụng Gradle
+### Sử Dụng Gradle
 
-Bao gồm dòng này trong `build.gradle` tài liệu:
+Thêm dòng sau vào file `build.gradle` của bạn:
 
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-### Tải xuống trực tiếp
+### Tải Trực Tiếp
 
-Ngoài ra, bạn có thể [tải xuống bản phát hành Aspose.Imaging for Java mới nhất](https://releases.aspose.com/imaging/java/).
+Hoặc bạn có thể [download the latest Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-#### Mua lại giấy phép
+#### Nhận Giấy Phép
 
-Aspose cung cấp bản dùng thử miễn phí các thư viện của họ với chức năng hạn chế. Để mở khóa đầy đủ các chức năng:
+Aspose cung cấp bản dùng thử miễn phí với chức năng hạn chế. Để mở khóa tất cả tính năng:
 
-- **Dùng thử miễn phí**: Truy cập các tính năng cơ bản để đánh giá.
-- **Giấy phép tạm thời**: Yêu cầu cấp giấy phép tạm thời [đây](https://purchase.aspose.com/temporary-license/) để mở rộng khả năng truy cập trong quá trình đánh giá.
-- **Mua**: Ghé thăm [trang mua hàng](https://purchase.aspose.com/buy) nếu bạn quyết định sử dụng Aspose.Imaging lâu dài.
+- **Free Trial** – đánh giá các khả năng cơ bản.  
+- **Temporary License** – yêu cầu giấy phép tạm thời [tại đây](https://purchase.aspose.com/temporary-license/) để kéo dài thời gian đánh giá.  
+- **Full Purchase** – mua giấy phép vĩnh viễn trên [trang mua hàng](https://purchase.aspose.com/buy).
 
-#### Khởi tạo cơ bản
+#### Khởi Tạo Cơ Bản (apply aspose license)
 
-Sau khi thiết lập dự án của bạn với thư viện, hãy khởi tạo nó như sau:
+Sau khi thêm thư viện, khởi tạo như sau:
 
 ```java
 import com.aspose.imaging.License;
@@ -81,38 +99,30 @@ import com.aspose.imaging.License;
 public class InitializeAspose {
     public static void main(String[] args) {
         License license = new License();
-        // Áp dụng giấy phép từ đường dẫn tệp hoặc luồng
+        // Apply license from file path or stream
         license.setLicense("path_to_license.lic");
     }
 }
 ```
 
-## Hướng dẫn thực hiện
+## Hướng Dẫn Thực Hiện
 
-Bây giờ, chúng ta hãy chia nhỏ quá trình triển khai thành các tính năng dễ quản lý.
+Bây giờ chúng ta sẽ đi qua ba bước cốt lõi để **export image as PSD**.
 
-### Tính năng 1: Tải hình ảnh
+### Tính Năng 1: Load Image
 
-Tải hình ảnh là bước đầu tiên để xử lý và chuyển đổi hình ảnh đó. 
+Tải file nguồn là điều kiện tiên quyết đầu tiên.
 
-#### Tổng quan
+#### Các Bước
 
-Tính năng này trình bày cách tải tệp BMP bằng Aspose.Imaging cho Java.
-
-#### Hướng dẫn từng bước
-
-**1. Nhập các lớp bắt buộc**
-
-Bắt đầu bằng cách nhập các lớp cần thiết:
+1. **Import Required Classes**
 
 ```java
 import com.aspose.imaging.Image;
 import com.aspose.imaging.examples.Utils;
 ```
 
-**2. Xác định đường dẫn tệp và tải hình ảnh**
-
-Chỉ định thư mục tài liệu của bạn, sau đó tải tệp hình ảnh:
+2. **Define File Path and Load the Image**
 
 ```java
 public class LoadImageFeature {
@@ -121,25 +131,21 @@ public class LoadImageFeature {
         String sourceFileName = dataDir + "sample.bmp";
 
         try (Image image = Image.load(sourceFileName)) {
-            // Đối tượng hình ảnh hiện đã được tải và có thể được sử dụng để xử lý thêm
+            // The image object is now loaded and can be used for further processing
         }
     }
 }
 ```
 
-**Giải thích**: Các `Image.load()` phương pháp mở tập tin được chỉ định bởi `sourceFileName`. Điều quan trọng là phải xử lý các trường hợp ngoại lệ tiềm ẩn, chúng ta có thể quản lý chúng bằng khối thử với tài nguyên.
+*Giải thích*: `Image.load()` mở file. Khối `try‑with‑resources` đảm bảo hình ảnh được giải phóng đúng cách, tránh rò rỉ bộ nhớ.
 
-### Tính năng 2: Tạo PsdOptions
+### Tính Năng 2: Create PsdOptions (how to save psd)
 
-Thiết lập các tùy chọn PSD cho phép bạn tùy chỉnh cách xuất hình ảnh.
+Cấu hình tùy chọn xuất PSD cho phép bạn kiểm soát chế độ màu, nén và phiên bản.
 
-#### Tổng quan
+#### Các Bước
 
-Tính năng này hiển thị cách cấu hình thuộc tính để xuất hình ảnh sang định dạng PSD.
-
-#### Hướng dẫn từng bước
-
-**1. Nhập các lớp bắt buộc**
+1. **Import Required Classes**
 
 ```java
 import com.aspose.imaging.fileformats.psd.ColorModes;
@@ -147,9 +153,7 @@ import com.aspose.imaging.fileformats.psd.CompressionMethod;
 import com.aspose.imaging.imageoptions.PsdOptions;
 ```
 
-**2. Khởi tạo và cấu hình PsdOptions**
-
-Thiết lập các thuộc tính như chế độ màu, phương pháp nén và phiên bản PSD:
+2. **Initialize and Configure PsdOptions**
 
 ```java
 public class CreatePsdOptionsFeature {
@@ -162,19 +166,13 @@ public class CreatePsdOptionsFeature {
 }
 ```
 
-**Giải thích**: Cấu hình `PsdOptions` cho phép bạn xác định cách lưu hình ảnh của mình ở định dạng PSD, đảm bảo khả năng tương thích và tối ưu hóa.
+*Giải thích*: Đặt `ColorModes.Rgb` và `CompressionMethod.RLE` tạo ra file PSD có khả năng tương thích rộng. Số phiên bản quyết định chuẩn PSD được sử dụng.
 
-### Tính năng 3: Lưu hình ảnh dưới dạng PSD
+### Tính Năng 3: Save Image as PSD (save photoshop file)
 
-Sau khi tải hình ảnh và thiết lập các tùy chọn, đã đến lúc lưu hình ảnh ở định dạng PSD.
+Cuối cùng, kết hợp việc tải và các tùy chọn để tạo ra PSD.
 
-#### Tổng quan
-
-Tính năng này kết hợp việc tải hình ảnh và lưu hình ảnh bằng các tùy chọn PSD đã chỉ định.
-
-#### Hướng dẫn từng bước
-
-**1. Kết hợp Tải và Lưu**
+#### Các Bước
 
 ```java
 import com.aspose.imaging.Image;
@@ -198,67 +196,73 @@ public class SaveImageAsPsdFeature {
 }
 ```
 
-**Giải thích**: Đoạn mã này tải một hình ảnh và lưu nó dưới dạng tệp PSD bằng cách sử dụng `PsdOptions`Câu lệnh try-with-resources đảm bảo rằng các tài nguyên được đóng đúng cách sau khi sử dụng.
+*Giải thích*: Đoạn mã này tải một BMP, áp dụng `PsdOptions` đã định nghĩa trước, và ghi ra một file Photoshop thực sự. Cấu trúc `try‑with‑resources` đảm bảo dọn dẹp tài nguyên đúng cách.
 
-### Mẹo khắc phục sự cố
+## Mẹo Khắc Phục Sự Cố
 
-- **Ngoại lệ không tìm thấy tệp**Đảm bảo đường dẫn tệp của bạn là chính xác.
-- **Vấn đề về trí nhớ**: Tối ưu hóa việc sử dụng bộ nhớ bằng cách xử lý hình ảnh lớn một cách hiệu quả.
-- **Lỗi giấy phép**: Kiểm tra lại thiết lập giấy phép nếu gặp phải chức năng bị hạn chế.
+- **File Not Found** – Kiểm tra `sourceFileName` có trỏ tới file tồn tại hay không.  
+- **Out‑Of‑Memory** – Xử lý ảnh lớn theo từng khối hoặc tăng kích thước heap JVM (`-Xmx`).  
+- **License Errors** – Đảm bảo đường dẫn file giấy phép đúng và giấy phép tương thích với phiên bản thư viện.
 
-## Ứng dụng thực tế
+## Ứng Dụng Thực Tiễn
 
-Sau đây là một số trường hợp mà việc chuyển đổi hình ảnh sang PSD bằng Aspose.Imaging có thể đặc biệt hữu ích:
+1. **Graphic‑Design Pipelines** – Tự động chuyển đổi tài nguyên thô sang PSD để chỉnh sửa trong Photoshop.  
+2. **Batch Archiving** – Chuyển đổi hàng ngàn ảnh sang định dạng Photoshop‑compatible cho lưu trữ lâu dài.  
+3. **Cross‑Platform Tools** – Xây dựng công cụ dựa trên Java xuất file PSD cho các ứng dụng Windows hoặc macOS.
 
-1. **Quy trình thiết kế đồ họa**: Tích hợp chuyển đổi hình ảnh một cách liền mạch vào các quy trình thiết kế đồ họa, cho phép thao tác sâu hơn trong phần mềm như Adobe Photoshop.
-2. **Hệ thống lưu trữ tự động**: Chuyển đổi và lưu trữ nhiều hình ảnh thành định dạng chuẩn để lưu trữ lâu dài.
-3. **Ứng dụng xử lý hình ảnh đa nền tảng**: Sử dụng Aspose.Imaging trong các ứng dụng Java yêu cầu định dạng đầu ra nhất quán trên nhiều nền tảng khác nhau.
+## Các Yếu Tố Về Hiệu Suất
 
-## Cân nhắc về hiệu suất
+- **Memory Management** – Giải phóng đối tượng `Image` ngay khi không cần (như đã minh họa).  
+- **Batch Processing** – Lặp qua tập hợp file và tái sử dụng một thể hiện `PsdOptions`.  
+- **Resource Allocation** – Cấp phát đủ heap cho ảnh độ phân giải cao; giám sát bằng VisualVM hoặc công cụ tương tự.
 
-Để tối ưu hóa hiệu suất ứng dụng của bạn khi sử dụng Aspose.Imaging:
+## Kết Luận
 
-- **Quản lý bộ nhớ**: Hãy chú ý đến việc sử dụng bộ nhớ, đặc biệt là với hình ảnh lớn. Sử dụng các cấu trúc dữ liệu hiệu quả và loại bỏ các đối tượng kịp thời.
-- **Xử lý hàng loạt**: Thực hiện xử lý hàng loạt khi có thể để giảm chi phí.
-- **Phân bổ nguồn lực**: Đảm bảo phân bổ đủ nguồn lực để xử lý hình ảnh có độ phân giải cao.
+Bạn đã có một phương pháp hoàn chỉnh, sẵn sàng cho môi trường production để **convert image to PSD** bằng Aspose.Imaging cho Java. Bằng cách thêm phụ thuộc Maven, áp dụng giấy phép, tải ảnh nguồn, cấu hình `PsdOptions`, và lưu kết quả, bạn có thể tích hợp chuyển đổi PSD vào bất kỳ ứng dụng Java nào.
 
-## Phần kết luận
+### Các Bước Tiếp Theo
 
-Trong hướng dẫn này, chúng tôi đã khám phá cách sử dụng Aspose.Imaging for Java để chuyển đổi hình ảnh sang định dạng PSD. Bạn đã tìm hiểu về cách thiết lập thư viện, tải và cấu hình tùy chọn hình ảnh và lưu tệp ở định dạng mong muốn. Với những kỹ năng này, bạn có thể nâng cao đáng kể khả năng tạo ảnh của ứng dụng Java.
+- Thử nghiệm với các `ColorModes` khác nhau (ví dụ: CMYK) và các phương pháp nén.  
+- Kết hợp quy trình này với các tính năng khác của Aspose.Imaging như watermarking hoặc resize ảnh.  
+- Khám phá toàn bộ API để xử lý tạo PSD đa lớp nếu dự án của bạn yêu cầu.
 
-### Các bước tiếp theo
+## Câu Hỏi Thường Gặp
 
-- Thử nghiệm với các khác nhau `PsdOptions` cài đặt.
-- Tích hợp Aspose.Imaging vào các dự án hoặc quy trình làm việc lớn hơn.
-- Khám phá các tính năng khác do Aspose.Imaging cung cấp để có thêm chức năng.
+**Q1: Làm sao để lấy giấy phép tạm thời cho Aspose.Imaging?**  
+A1: Bạn có thể yêu cầu giấy phép tạm thời [tại đây](https://purchase.aspose.com/temporary-license/).
 
-Sẵn sàng bắt đầu chuyển đổi hình ảnh? Triển khai giải pháp ngay hôm nay và trải nghiệm xử lý hình ảnh liền mạch trong Java!
+**Q2: Aspose.Imaging hỗ trợ những định dạng file nào?**  
+A2: Hơn 20 định dạng được hỗ trợ, bao gồm BMP, JPEG, PNG, TIFF và PSD.
 
-## Phần Câu hỏi thường gặp
+**Q3: Tôi có thể convert image to PSD mà không dùng Java không?**  
+A3: Có, Aspose.Imaging cũng có sẵn cho .NET, Python và các nền tảng khác.
 
-**Câu hỏi 1: Làm thế nào để tôi có được giấy phép tạm thời cho Aspose.Imaging?**
-A1: Bạn có thể yêu cầu cấp giấy phép tạm thời [đây](https://purchase.aspose.com/temporary-license/).
+**Q4: Có giới hạn số lượng ảnh tôi có thể xử lý không?**  
+A4: Không có giới hạn cứng, nhưng xử lý nhiều ảnh độ phân giải cao có thể yêu cầu quản lý bộ nhớ cẩn thận.
 
-**Câu hỏi 2: Aspose.Imaging hỗ trợ những định dạng tệp nào?**
-A2: Aspose.Imaging hỗ trợ hơn 20 định dạng hình ảnh khác nhau, bao gồm BMP, JPEG, PNG và PSD.
+**Q5: Tôi nên xử lý ngoại lệ như thế nào trong quá trình chuyển đổi?**  
+A5: Bao bọc các lời gọi trong khối try‑catch và xử lý `FileNotFoundException`, `IOException`, và `OutOfMemoryError` phù hợp.
 
-**Câu hỏi 3: Tôi có thể chuyển đổi hình ảnh sang PSD mà không cần Java không?**
-A3: Có, Aspose.Imaging cũng khả dụng cho .NET. Kiểm tra tài liệu của họ để biết thêm chi tiết.
+**Q6: Thư viện có hỗ trợ bảo tồn lớp khi convert không?**  
+A6: Chuyển đổi cơ bản tạo ra PSD phẳng. Đối với tạo PSD đa lớp, hãy sử dụng API PSD nâng cao của Aspose.Imaging.
 
-**Câu hỏi 4: Có giới hạn số lượng hình ảnh tôi có thể xử lý bằng Aspose.Imaging không?**
-A4: Không, nhưng hãy lưu ý rằng việc xử lý số lượng lớn hình ảnh có độ phân giải cao có thể ảnh hưởng đến hiệu suất.
+**Q7: Phiên bản Aspose.Imaging nào cần thiết cho PSD version 4?**  
+A7: Phiên bản 25.5 (hoặc mới hơn) hỗ trợ đầy đủ PSD version 4 với nén RLE.
 
-**Câu hỏi 5: Tôi phải xử lý những trường hợp ngoại lệ trong quá trình chuyển đổi hình ảnh như thế nào?**
-A5: Sử dụng khối try-catch để quản lý các trường hợp ngoại lệ tiềm ẩn như không tìm thấy tệp hoặc sự cố bộ nhớ.
+## Tài Nguyên
 
-## Tài nguyên
+- **Documentation**: [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/)  
+- **Download**: [Latest Releases](https://releases.aspose.com/imaging/java/)  
+- **Purchase**: [Buy Aspose Imaging](https://purchase.aspose.com/buy)  
+- **Free Trial**: [Try Free](https://releases.aspose.com/imaging/java/)  
+- **Temporary License**: [Request Here](https://purchase.aspose.com/temporary-license/)  
+- **Support**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
-- **Tài liệu**: [Tài liệu Aspose.Imaging cho Java](https://reference.aspose.com/imaging/java/)
-- **Tải về**: [Bản phát hành mới nhất](https://releases.aspose.com/imaging/java/)
-- **Mua**: [Mua Aspose Imaging](https://purchase.aspose.com/buy)
-- **Dùng thử miễn phí**: [Dùng thử miễn phí](https://releases.aspose.com/imaging/java/)
-- **Giấy phép tạm thời**: [Yêu cầu ở đây](https://purchase.aspose.com/temporary-license/)
-- **Ủng hộ**: [Diễn đàn Aspose](https://forum.aspose.com/c/imaging/14)
+---
+
+**Last Updated:** 2026-04-02  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

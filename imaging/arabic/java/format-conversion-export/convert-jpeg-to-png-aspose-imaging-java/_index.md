@@ -1,9 +1,16 @@
 ---
-"date": "2025-06-04"
-"description": "تعلّم كيفية تحويل صور JPEG إلى PNG باستخدام Aspose.Imaging لجافا. أتقن تقنيات معالجة الصور، بما في ذلك ملفات تعريف الألوان CMYK وYCCK."
-"title": "تحويل JPEG إلى PNG باستخدام Aspose.Imaging Java - دليل المطور"
-"url": "/ar/java/format-conversion-export/convert-jpeg-to-png-aspose-imaging-java/"
-"weight": 1
+date: '2026-04-02'
+description: دروس معالجة الصور بجافا تُظهر كيفية تحويل JPEG إلى PNG باستخدام Aspose.Imaging.
+  تتضمن إعداد Maven، معالجة CMYK، وأمثلة جافا لتحويل JPEG إلى PNG.
+keywords:
+- java image processing tutorial
+- aspose imaging maven dependency
+- jpeg to png java
+- cmyk jpeg to png
+- convert JPEG to PNG
+title: 'دورة معالجة الصور في جافا: تحويل JPEG إلى PNG باستخدام Aspose.Imaging'
+url: /ar/java/format-conversion-export/convert-jpeg-to-png-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,33 +18,38 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# إتقان معالجة الصور باستخدام Aspose.Imaging Java: تحويل صور JPEG وحفظها
+# إتقان معالجة الصور باستخدام Aspose.Imaging Java: تحويل وحفظ صور JPEG
 
 ## مقدمة
 
-هل تواجه صعوبة في معالجة الصور، مثل حفظ صور JPEG بملفات تعريف ألوان محددة أو تحويلها إلى صيغ أخرى؟ سيساعدك هذا الدليل الشامل على تجاوز هذه التحديات باستخدام مكتبة Aspose.Imaging القوية للغة جافا. تعلّم كيفية حفظ صور JPEG باستخدام ملفات تعريف ألوان CMYK وYCCK، وتحويلها بسلاسة إلى صيغة PNG.
+في هذا **java image processing tutorial**، سنستعرض أكثر التحديات شيوعًا التي يواجهها المطورون عند العمل مع ملفات JPEG — حفظها بملفات تعريف ألوان محددة وتحويلها إلى PNG. باستخدام مكتبة Aspose.Imaging القوية لـ Java، ستتعلم كيفية التعامل مع ملفات تعريف الألوان CMYK و YCCK وإجراء تحويلات JPEG‑to‑PNG بدون فقدان.
 
-**ما سوف تتعلمه:**
+**ما ستتعلمه:**
 - كيفية استخدام Aspose.Imaging Java للتعامل مع صور JPEG.
-- حفظ ملفات JPEG باستخدام ملفات تعريف الألوان CMYK وYCCK.
+- حفظ صور JPEG بملفات تعريف ألوان CMYK و YCCK.
 - تحويل صور JPEG إلى صيغة PNG مع الحفاظ على سلامة الألوان.
 - فهم المفاهيم الأساسية في معالجة الصور باستخدام Aspose.Imaging.
 
-قبل الخوض في التنفيذ، دعنا نراجع ما تحتاجه للبدء.
+قبل الغوص في التنفيذ، دعنا نستعرض ما تحتاجه للبدء.
 
-## المتطلبات الأساسية
+## إجابات سريعة
+- **ما هي المكتبة الأساسية؟** Aspose.Imaging for Java.  
+- **هل يمكنني استخدام Maven لإدارة الاعتمادات؟** نعم – راجع قسم *aspose imaging maven dependency*.  
+- **هل تحويل JPEG‑to‑PNG بدون فقدان؟** عند استخدام خيارات JPEG بدون فقدان، يتم الحفاظ على دقة الألوان.  
+- **هل أحتاج إلى ترخيص للإنتاج؟** يلزم وجود ترخيص Aspose صالح للحصول على الوظائف الكاملة.  
+- **ما هي ملفات تعريف الألوان المشمولة؟** CMYK و YCCK لتدفقات العمل الجاهزة للطباعة.
 
-لمتابعة هذا البرنامج التعليمي، تأكد من أن لديك:
+## java image processing tutorial – المتطلبات المسبقة
 
-1. **مجموعة تطوير Java (JDK):** تم تثبيت الإصدار 8 أو أعلى على نظامك.
-2. **بيئة التطوير المتكاملة (IDE):** مثل IntelliJ IDEA أو Eclipse.
-3. **مكتبة Aspose.Imaging لـ Java:** - المعرفة بكيفية استخدام المكتبات الخارجية في مشروع Java.
+1. **Java Development Kit (JDK):** الإصدار 8 أو أعلى مثبت على نظامك.  
+2. **Integrated Development Environment (IDE):** مثل IntelliJ IDEA أو Eclipse.  
+3. **Aspose.Imaging for Java Library:** الإلمام باستخدام المكتبات الخارجية في مشروع Java.
 
 ## إعداد Aspose.Imaging لـ Java
 
-### مافن
+### Maven
 
-أضف التبعية التالية إلى ملفك `pom.xml` ملف:
+أضف الاعتماد التالي إلى ملف `pom.xml` الخاص بك:
 
 ```xml
 <dependency>
@@ -47,9 +59,9 @@
 </dependency>
 ```
 
-### جرادل
+### Gradle
 
-قم بتضمين هذا في `build.gradle`:
+أدرج هذا في ملف `build.gradle` الخاص بك:
 
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
@@ -57,15 +69,15 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 
 ### التحميل المباشر
 
-بدلاً من ذلك، قم بتنزيل أحدث ملف JAR من [إصدارات Aspose.Imaging لـ Java](https://releases.aspose.com/imaging/java/).
+بدلاً من ذلك، قم بتحميل أحدث JAR من [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
 ### الحصول على الترخيص
 
-يمكنك الحصول على ترخيص مؤقت أو شراء ترخيص كامل عبر [هذا الرابط](https://purchase.aspose.com/buy). تتوفر نسخة تجريبية مجانية على [تجربة مجانية لبرنامج Aspose Imaging](https://releases.aspose.com/imaging/java/)، مما يسمح لك باستكشاف الميزات دون قيود.
+يمكنك الحصول على ترخيص مؤقت أو شراء ترخيص كامل عبر [this link](https://purchase.aspose.com/buy). تتوفر نسخة تجريبية مجانية على [Aspose Imaging Free Trial](https://releases.aspose.com/imaging/java/)، والتي تتيح لك استكشاف الميزات دون قيود.
 
 **التهيئة الأساسية:**
 
-بمجرد الإعداد، قم بتهيئة مثيل Aspose.Imaging الخاص بك:
+بعد الإعداد، قم بتهيئة كائن Aspose.Imaging الخاص بك:
 
 ```java
 com.aspose.imaging.License license = new com.aspose.imaging.License();
@@ -74,15 +86,13 @@ license.setLicense("path/to/license.lic");
 
 ## دليل التنفيذ
 
-### حفظ صورة JPEG باستخدام ملف تعريف الألوان CMYK
+### حفظ صورة JPEG بملف تعريف لون CMYK
 
-يوضح هذا القسم كيفية حفظ صورة JPEG باستخدام ملف تعريف الألوان CMYK.
+#### نظرة عامة
 
-#### ملخص
+حفظ الصور بصيغة CMYK أمر أساسي للوسائط المطبوعة، مما يضمن إعادة إنتاج الألوان بدقة في المواد المطبوعة.
 
-يعد حفظ الصور بتنسيق CMYK أمرًا ضروريًا لوسائل الإعلام المطبوعة، مما يضمن إعادة إنتاج الألوان بدقة في المواد المطبوعة.
-
-#### التنفيذ خطوة بخطوة
+#### تنفيذ خطوة بخطوة
 
 **1. تحميل الصورة:**
 
@@ -92,7 +102,7 @@ JpegImage image = (JpegImage) Image.load("YOUR_DOCUMENT_DIRECTORY/056.jpg");
 
 **2. تكوين خيارات JPEG:**
 
-ضبط نوع الضغط وملفات تعريف الألوان:
+حدد نوع الضغط وملفات تعريف الألوان:
 
 ```java
 ByteArrayOutputStream jpegStream_cmyk = new ByteArrayOutputStream();
@@ -108,7 +118,7 @@ options.setCmykColorProfile(cmykColorProfile);
 options.setColorType(JpegCompressionColorMode.Cmyk);
 ```
 
-**3. احفظ الصورة:**
+**3. حفظ الصورة:**
 
 ```java
 image.save(jpegStream_cmyk, options);
@@ -116,18 +126,16 @@ image.save(jpegStream_cmyk, options);
 
 #### نصائح استكشاف الأخطاء وإصلاحها
 
-- تأكد من إمكانية الوصول إلى ملفات ملف تعريف ألوان ICC.
-- تأكد من ذلك `YOUR_DOCUMENT_DIRECTORY` تم تحديده بشكل صحيح.
+- تأكد من إمكانية الوصول إلى ملفات تعريف ألوان ICC.  
+- تحقق من أن `YOUR_DOCUMENT_DIRECTORY` محدد بشكل صحيح.
 
-### حفظ صورة JPEG باستخدام ملف تعريف الألوان YCCK
+### حفظ صورة JPEG بملف تعريف لون YCCK
 
-فيما يلي كيفية حفظ صورة JPEG باستخدام ملف تعريف الألوان YCCK، والذي يستخدم غالبًا في سير عمل الطباعة عالية الجودة.
-
-#### ملخص
+#### نظرة عامة
 
 يوفر YCCK بديلاً لـ CMYK من خلال تضمين قناة سوداء إضافية لتحسين الدقة.
 
-#### التنفيذ خطوة بخطوة
+#### تنفيذ خطوة بخطوة
 
 **1. تحميل الصورة:**
 
@@ -137,7 +145,7 @@ JpegImage image = (JpegImage) Image.load("YOUR_DOCUMENT_DIRECTORY/056.jpg");
 
 **2. تكوين خيارات JPEG:**
 
-تعيين ملفات تعريف الضغط والألوان:
+حدد الضغط وملفات تعريف الألوان:
 
 ```java
 ByteArrayOutputStream jpegStream_ycck = new ByteArrayOutputStream();
@@ -153,7 +161,7 @@ options.setCmykColorProfile(ycckColorProfile);
 options.setColorType(JpegCompressionColorMode.Ycck);
 ```
 
-**3. احفظ الصورة:**
+**3. حفظ الصورة:**
 
 ```java
 image.save(jpegStream_ycck, options);
@@ -161,50 +169,48 @@ image.save(jpegStream_ycck, options);
 
 #### نصائح استكشاف الأخطاء وإصلاحها
 
-- تأكد مرة أخرى من دقة مسارات ملف تعريف YCCK.
-- تأكد من أن ملفات الصور ليست مقفلة أو قيد الاستخدام.
+- تحقق مرة أخرى من أن مسارات ملف تعريف YCCK دقيقة.  
+- تأكد من أن ملفات الصورة غير مقفلة أو قيد الاستخدام.
 
-### تحويل JPEG Lossless CMYK إلى PNG
+### تحويل JPEG بدون فقدان من CMYK إلى PNG
 
-يمكن تحويل الصور لتحسين استخدامها على الويب مع الحفاظ على دقة الألوان.
+يمكن أن يؤدي تحويل الصور إلى تحسينها للاستخدام على الويب مع الحفاظ على دقة الألوان.
 
-#### ملخص
+#### نظرة عامة
 
-تتيح لك هذه الميزة تحويل صورة JPEG ذات ملف تعريف ألوان CMYK إلى تنسيق PNG، وهو مثالي للتطبيقات الرقمية التي تتطلب دعمًا للجودة العالية والشفافية.
+تتيح لك هذه الميزة تحويل صورة JPEG بملف تعريف لون CMYK إلى صيغة PNG، وهي مثالية للتطبيقات الرقمية التي تتطلب جودة عالية ودعم الشفافية.
 
-#### التنفيذ خطوة بخطوة
+#### تنفيذ خطوة بخطوة
 
-**1. تحميل البث:**
+**1. تحميل الدفق:**
 
 ```java
 ByteArrayOutputStream jpegStream_cmyk = new ByteArrayOutputStream();
 JpegImage image = (JpegImage) Image.load(new ByteArrayInputStream(jpegStream_cmyk.toByteArray()));
 ```
 
-**2. احفظ بصيغة PNG:**
+**2. حفظ كـ PNG:**
 
 ```java
 image.save("YOUR_OUTPUT_DIRECTORY/056_cmyk_profile.png", new PngOptions());
 ```
 
-### تحويل JPEG Lossless YCCK إلى PNG
+### تحويل JPEG بدون فقدان من YCCK إلى PNG
 
-على غرار التحويل السابق، يركز هذا القسم على تحويل صورة YCCK الشخصية.
+#### نظرة عامة
 
-#### ملخص
+الحفاظ على جودة اللون أثناء تحويل الصيغة يضمن بقاء صورك مطابقة للمظهر الأصلي.
 
-إن الحفاظ على جودة الألوان أثناء تحويل التنسيق يضمن بقاء صورك مطابقة لمظهرها الأصلي.
+#### تنفيذ خطوة بخطوة
 
-#### التنفيذ خطوة بخطوة
-
-**1. تحميل البث:**
+**1. تحميل الدفق:**
 
 ```java
 ByteArrayOutputStream jpegStream_ycck = new ByteArrayOutputStream();
 JpegImage image = (JpegImage) Image.load(new ByteArrayInputStream(jpegStream_ycck.toByteArray()));
 ```
 
-**2. احفظ بصيغة PNG:**
+**2. حفظ كـ PNG:**
 
 ```java
 image.save("YOUR_OUTPUT_DIRECTORY/056_ycck_profile.png", new PngOptions());
@@ -212,53 +218,57 @@ image.save("YOUR_OUTPUT_DIRECTORY/056_ycck_profile.png", new PngOptions());
 
 ## التطبيقات العملية
 
-- **صناعة الطباعة:** استخدم CMYK وYCCK للحصول على تمثيل دقيق للألوان في المواد المطبوعة.
-- **الوسائط الرقمية:** تحويل الصور إلى صيغة PNG لاستخدامها على الويب، مع الحفاظ على الجودة مع دعم الشفافية.
-- **الأرشفة:** الحفاظ على جودة الصورة الأصلية أثناء تحويل التنسيق.
+- **Printing Industry:** استخدم CMYK و YCCK لتمثيل ألوان دقيق في المواد المطبوعة.  
+- **Digital Media:** تحويل الصور إلى PNG للاستخدام على الويب، مع الحفاظ على الجودة ودعم الشفافية.  
+- **Archiving:** الحفاظ على جودة الصورة الأصلية أثناء تحويل الصيغة.
 
 ## اعتبارات الأداء
 
-تحسين الأداء من خلال:
+تحسين الأداء عن طريق:
 
-- إدارة الذاكرة بكفاءة: التخلص من `JpegImage` الحالات على الفور.
-- استخدام الضغط بدون فقدان للحفاظ على الجودة.
-- مراقبة استخدام الموارد في سيناريوهات المعالجة ذات الحجم الكبير.
+- إدارة الذاكرة بكفاءة: التخلص من كائنات `JpegImage` بسرعة.  
+- استخدام ضغط بدون فقدان للحفاظ على الجودة.  
+- مراقبة استخدام الموارد في سيناريوهات المعالجة عالية الحجم.
 
-## خاتمة
+## الخلاصة
 
-لقد تعلمتَ كيفية حفظ صور JPEG بصيغ CMYK وYCCK، وتحويلها إلى صيغة PNG باستخدام Aspose.Imaging لجافا. هذه المهارات ضرورية لتطبيقات الوسائط المطبوعة وسير عمل معالجة الصور الرقمية. استكشف المزيد بتجربة هذه التقنيات في مشاريعك!
+لقد تعلمت كيفية حفظ صور JPEG بملفات تعريف ألوان CMYK و YCCK وتحويلها إلى صيغة PNG باستخدام Aspose.Imaging لـ Java. هذه المهارات ضرورية لتطبيقات الوسائط المطبوعة وتدفقات عمل معالجة الصور الرقمية. استكشف المزيد بتجربة هذه التقنيات في مشاريعك!
 
 **الخطوات التالية:**
-- تجربة مع ملفات تعريف الألوان المختلفة.
-- دمج Aspose.Imaging في الأنظمة الأكبر حجمًا.
+- جرب ملفات تعريف ألوان مختلفة.  
+- دمج Aspose.Imaging في أنظمة أكبر.
 
-## قسم الأسئلة الشائعة
+## الأسئلة المتكررة
 
-1. **كيف أقوم بتثبيت Aspose.Imaging لـ Java؟**
-   - استخدم تبعيات Maven أو Gradle، أو قم بتنزيل ملف JAR مباشرةً من موقعهم [صفحة الإصدار](https://releases.aspose.com/imaging/java/).
+**س: كيف يمكنني تثبيت Aspose.Imaging لـ Java؟**  
+استخدم اعتمادات Maven أو Gradle، أو قم بتحميل JAR مباشرةً من [صفحة الإصدار](https://releases.aspose.com/imaging/java/).
 
-2. **هل يمكنني استخدام Aspose.Imaging بدون ترخيص؟**
-   - نعم، مع وظائف محدودة. احصل على ترخيص مؤقت. [هنا](https://purchase.aspose.com/temporary-license/) للوصول الكامل.
+**س: هل يمكنني استخدام Aspose.Imaging بدون ترخيص؟**  
+نعم، مع وظائف محدودة. احصل على ترخيص مؤقت [هنا](https://purchase.aspose.com/temporary-license/) للوصول الكامل.
 
-3. **ما هي فوائد استخدام YCCK بدلاً من CMYK؟**
-   - يمكن لـ YCCK تقديم إعادة إنتاج سوداء أكثر دقة في سيناريوهات الطباعة عالية الجودة.
+**س: ما هي فوائد استخدام YCCK بدلاً من CMYK؟**  
+يمكن أن يوفر YCCK إعادة إنتاج أكثر دقة للون الأسود في سيناريوهات الطباعة عالية الجودة.
 
-4. **كيف أقوم باستكشاف أخطاء تحويل الصور وإصلاحها؟**
-   - تأكد من صحة جميع المسارات إلى ملفات تعريف ICC ومجلدات الإخراج.
+**س: كيف يمكنني استكشاف أخطاء تحويل الصور؟**  
+تأكد من صحة جميع المسارات إلى ملفات تعريف ICC ودلائل الإخراج، وتحقق من أن ملفات المصدر غير مقفلة.
 
-5. **هل Aspose.Imaging مناسب لمعالجة الصور واسعة النطاق؟**
-   - نعم، مع الإدارة المناسبة للموارد، فهو قادر على التعامل مع مهام معالجة الصور المكثفة.
+**س: هل Aspose.Imaging مناسب لمعالجة الصور على نطاق واسع؟**  
+نعم، مع إدارة الموارد بشكل صحيح يمكنه التعامل مع مهام معالجة واسعة.
 
-## موارد
+## الموارد
 
-- **التوثيق:** [وثائق Aspose.Imaging Java](https://reference.aspose.com/imaging/java/)
-- **تحميل:** [إصدارات Aspose.Imaging](https://releases.aspose.com/imaging/java/)
-- **شراء:** [ترخيص Aspose](https://purchase.aspose.com/buy)
-- **نسخة تجريبية مجانية:** [البدء](https://releases.aspose.com/imaging/java/)
-- **رخصة مؤقتة:** [التقدم بطلب للحصول على ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم:** [منتدى أسبوزي](https://forum.aspose.com/c/imaging/14)
+- **الوثائق:** [Aspose.Imaging Java Docs](https://reference.aspose.com/imaging/java/)
+- **التنزيل:** [Aspose.Imaging Releases](https://releases.aspose.com/imaging/java/)
+- **الشراء:** [Aspose Licensing](https://purchase.aspose.com/buy)
+- **نسخة تجريبية مجانية:** [Get Started](https://releases.aspose.com/imaging/java/)
+- **ترخيص مؤقت:** [Apply for a Temporary License](https://purchase.aspose.com/temporary-license/)
+- **الدعم:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
-باتباع هذا الدليل، يمكنك استخدام Aspose.Imaging Java بفعالية لإدارة صور JPEG وتحويلها في مشاريعك. جرّبه اليوم!
+---
+
+**آخر تحديث:** 2026-04-02  
+**تم الاختبار مع:** Aspose.Imaging 25.5 for Java  
+**المؤلف:** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
