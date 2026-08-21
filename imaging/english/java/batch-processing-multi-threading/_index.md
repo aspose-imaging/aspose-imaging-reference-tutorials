@@ -1,5 +1,5 @@
 ---
-title: "Parallel Image Processing in Java with Aspose.Imaging"
+title: "Accelerate Parallel Image Processing in Java with Aspose.Imaging"
 description: "Learn how to implement parallel image processing in Java using Aspose.Imaging, covering batch image handling, scaling workflows, and performance optimization."
 weight: 14
 url: "/java/batch-processing-multi-threading/"
@@ -44,6 +44,24 @@ Parallel image processing means dividing a set of image‑related tasks (such as
 
 > **Pro tip:** Wrap each task in a try‑catch block and log failures; this prevents a single corrupted file from aborting the entire batch.
 
+```java
+ExecutorService executor = Executors.newFixedThreadPool(Runtime.getRuntime().availableProcessors());
+
+Files.walk(Paths.get("input"))
+     .filter(Files::isRegularFile)
+     .forEach(path -> executor.submit(() -> {
+         try (Image image = Image.load(path.toString())) {
+             image.resize(800, 600);
+             image.save("output/" + path.getFileName());
+         } catch (Exception e) {
+             e.printStackTrace();
+         }
+     }));
+
+executor.shutdown();
+executor.awaitTermination(Long.MAX_VALUE, TimeUnit.NANOSECONDS);
+```
+
 ## How to scale your image workflow
 - **Reuse image objects** when possible; avoid creating a new `Image` instance for every tiny operation.  
 - **Leverage lazy loading** – Aspose.Imaging can load only the required metadata, saving memory for massive files.  
@@ -55,13 +73,13 @@ Parallel image processing means dividing a set of image‑related tasks (such as
 ### [Batch Process TIFF Files with Aspose.Imaging for Java - Tutorial](./batch-process-export-tiff-aspose-imaging-java/)
 Learn how to efficiently batch process and export TIFF images using Aspose.Imaging in Java. Streamline your image processing workflow.
 
-### [Master Image Management in Java with Aspose.Imaging&#58; Batch & Multi-threading](./aspose-imaging-java-image-management/)
+### [Master image management in java with Aspose.Imaging: batch & multi-threading](./aspose-imaging-java-image-management/)
 Learn how to efficiently load, save, and delete images using Aspose.Imaging for Java. Enhance your Java applications with powerful image management techniques.
 
-### [Parallel Image Processing in Java with Aspose.Imaging&#58; Multithreading & Batch Handling](./parallel-image-processing-aspose-imaging-java/)
+### [Parallel image processing in java with Aspose.Imaging: multithreading & batch handling](./parallel-image-processing-aspose-imaging-java/)
 Learn how to enhance image processing efficiency using Aspose.Imaging and ExecutorService for parallel tasks in Java. Boost productivity with multithreading techniques.
 
-### [Synchronized Stream Access in Java with Aspose.Imaging&#58; A Complete Guide](./implement-synchronized-stream-access-aspose-imaging-java/)
+### [Synchronized stream access in java with Aspose.Imaging: a complete guide](./implement-synchronized-stream-access-aspose-imaging-java/)
 Learn how to implement synchronized stream access using Aspose.Imaging for Java. Ensure thread-safe operations and enhance performance in your multi-threaded applications.
 
 ## Additional Resources
@@ -73,7 +91,7 @@ Learn how to implement synchronized stream access using Aspose.Imaging for Java.
 - [Free Support](https://forum.aspose.com/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: Can I mix different image formats in a single batch?**  
 A: Yes—Aspose.Imaging supports a wide range of formats, so you can process JPEG, PNG, TIFF, and others together in one workflow.

@@ -1,6 +1,6 @@
 ---
-title: "Java Image Processing Tutorial – Advanced Drawing"
-description: "Explore this java image processing tutorial covering advanced drawing techniques, set image dimensions java, and graphics paths using Aspose.Imaging for Java."
+title: "Create Advanced Drawings with Aspose.Imaging for Java"
+description: "Learn to create advanced drawings, set image dimensions, and work with graphics paths using Aspose.Imaging for Java."
 weight: 16
 url: "/java/advanced-drawing-graphics/"
 date: 2026-04-22
@@ -32,6 +32,25 @@ A **java image processing tutorial** walks you through the steps needed to load,
 ## How to set image dimensions java using Aspose.Imaging
 Setting image dimensions is a common requirement when you need thumbnails, scaled graphics, or fixed‑size canvases. With Aspose.Imaging you can define width and height directly on the `ImageCreateOptions` object, ensuring the output matches your specifications without additional resizing steps.
 
+```java
+// Set image dimensions using Aspose.Imaging
+ImageCreateOptions options = new PngOptions();
+options.setWidth(800);
+options.setHeight(600);
+
+try (Image image = Image.create(options)) {
+    Graphics graphics = new Graphics(image);
+    // Draw sample text
+    graphics.drawString(
+        "Hello Aspose.Imaging",
+        new Font("Arial", 24),
+        new SolidBrush(Color.getBlack()),
+        new PointF(10, 50)
+    );
+    image.save("output.png");
+}
+```
+
 ## Why use Aspose.Imaging for advanced drawing?
 - **Rich vector support** – Create `GraphicsPath` objects, Bézier curves, and complex polygons.  
 - **Cross‑format compatibility** – Work with PNG, JPEG, TIFF, BMP, and more without format‑specific code.  
@@ -40,28 +59,28 @@ Setting image dimensions is a common requirement when you need thumbnails, scale
 
 ## Available Tutorials
 
-### [Advanced Image Manipulation in Java with Aspose.Imaging&#58; Dimensions & Transparency](./master-image-manipulation-aspose-imaging-java/)
+### [Advanced image manipulation in java with Aspose.Imaging: dimensions & transparency]({{< relref "master-image-manipulation-aspose-imaging-java" >}})
 Learn to master image manipulation in Java using Aspose.Imaging. This tutorial covers loading, modifying image dimensions, pixel data, and creating transparent PNGs.
 
-### [Advanced Java Image Manipulation with Aspose.Imaging&#58; Techniques and Tutorials](./advanced-image-manipulation-aspose-imaging-java/)
+### [Advanced java image manipulation with Aspose.Imaging: techniques and tutorials]({{< relref "advanced-image-manipulation-aspose-imaging-java" >}})
 Master advanced image manipulation in Java using Aspose.Imaging. Learn to set background colors, handle transparency, and save images efficiently.
 
-### [Advanced Java Image Processing with Aspose.Imaging Library](./mastering-image-processing-java-aspose-imaging/)
+### [Advanced java image processing with Aspose.Imaging library]({{< relref "mastering-image-processing-java-aspose-imaging" >}})
 Master efficient image processing in Java using the powerful Aspose.Imaging library. Learn how to load, manipulate, and save images across formats with ease.
 
-### [Advanced Text Rendering in Java with Aspose.Imaging&#58; A Complete Guide](./mastering-text-rendering-aspose-imaging-java/)
+### [Advanced text rendering in java with Aspose.Imaging: a complete guide]({{< relref "mastering-text-rendering-aspose-imaging-java" >}})
 Learn advanced text rendering techniques in Java using Aspose.Imaging. This guide covers setup, font styling, and practical applications for enhanced graphics.
 
-### [Aspose.Imaging Java&#58; Convert TIFF Paths to GraphicsPath - A Step-by-Step Guide](./aspose-imaging-java-tiff-graphicspath-conversion/)
+### [Aspose.Imaging java: convert TIFF paths to graphicsPath - a step‑by‑step guide]({{< relref "aspose-imaging-java-tiff-graphicspath-conversion" >}})
 Learn how to convert TIFF path resources into GraphicsPath using Aspose.Imaging for Java. Perfect for handling vector graphics in TIFF images with ease.
 
-### [Draw Bezier Curves in Java with Aspose.Imaging - A Comprehensive Guide](./master-bezier-curves-java-aspose-imaging/)
+### [Draw bezier curves in java with Aspose.Imaging - a comprehensive guide]({{< relref "master-bezier-curves-java-aspose-imaging" >}})
 Learn how to create stunning Bezier curves in Java using Aspose.Imaging. This guide covers setup, configuration, and practical applications for smooth graphics.
 
-### [Efficient Image Binarization in Java with Aspose.Imaging&#58; Otsu Thresholding Guide](./aspose-imaging-java-otsu-thresholding-guide/)
+### [Efficient image binarization in java with Aspose.Imaging: otsu thresholding guide]({{< relref "aspose-imaging-java-otsu-thresholding-guide" >}})
 Discover how to binarize images using Aspose.Imaging for Java. Learn about image loading, caching, and Otsu thresholding techniques. Enhance your Java projects today!
 
-### [Master Image Processing in Java with Aspose.Imaging&#58; Track Load & Save Progress](./master-image-processing-aspose-imaging-java/)
+### [Master image processing in java with Aspose.Imaging: track load & save progress]({{< relref "master-image-processing-aspose-imaging-java" >}})
 Learn how to efficiently track image load and save progress using Aspose.Imaging for Java. Optimize your Java applications with advanced graphics handling.
 
 ## Additional Resources
@@ -73,7 +92,7 @@ Learn how to efficiently track image load and save progress using Aspose.Imaging
 - [Free Support](https://forum.aspose.com/)
 - [Temporary License](https://purchase.aspose.com/temporary-license/)
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: Can I use these drawing features in a web application?**  
 A: Yes. Aspose.Imaging works on any Java‑based server environment, allowing you to generate images on‑the‑fly for web responses.
