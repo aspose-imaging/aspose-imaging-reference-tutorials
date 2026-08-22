@@ -1,10 +1,14 @@
 ---
-date: 2025-12-20
-description: تعلم كيفية تحويل ملفات TIFF إلى PNG وحفظ الصورة بصيغة PNG أو BMP أو GIF
-  باستخدام Aspose.Imaging للغة Java. دليل خطوة بخطوة لتعديل الصور.
-linktitle: Frame Saving in Different Raster Formats
+date: 2026-04-28
+description: تعلم كيفية تحويل ملفات TIFF إلى PNG وكيفية تحويل ملفات TIFF إلى صيغ نقطية
+  أخرى باستخدام Aspose.Imaging للغة Java. دليل خطوة بخطوة لمعالجة الصور.
+keywords:
+- tiff to png java
+- how to convert tiff
+- Aspose.Imaging Java
+linktitle: حفظ الإطار في صيغ نقطية مختلفة
 second_title: Aspose.Imaging Java Image Processing API
-title: كيفية تحويل TIFF إلى PNG وحفظ الإطارات بصيغ نقطية مختلفة
+title: tiff إلى png java – تحويل TIFF إلى PNG وحفظ الإطارات بصيغ نقطية مختلفة
 url: /ar/java/document-conversion-and-processing/frame-saving-in-different-raster-formats/
 weight: 18
 ---
@@ -15,33 +19,36 @@ weight: 18
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# تحويل TIFF إلى PNG وحفظ الإطارات بتنسيقات نقطية مختلفة
+# tiff to png java – تحويل TIFF إلى PNG وحفظ الإطارات بصيغ نقطية مختلفة
 
-العمل مع ملفات TIFF متعددة الصفحات هو سيناريو شائع في التطبيقات التي تتعامل مع المستندات بكثرة. إذا كنت بحاجة إلى **تحويل tiff إلى png** — أو استخراج الإطارات الفردية وتخزينها بتنسيقات نقطية أخرى — فإن Aspose.Imaging for Java يجعل العملية مباشرة وعالية الأداء. في هذا البرنامج التعليمي سنستعرض الخطوات الدقيقة لتحميل ملف TIFF، التكرار عبر إطاراته، وحفظ كل إطار كـ PNG (يمكنك بسهولة التحويل إلى BMP أو GIF لاحقًا).
+العمل مع ملفات TIFF متعددة الصفحات هو سيناريو شائع في التطبيقات التي تتعامل مع مستندات كثيرة. إذا كنت بحاجة إلى **convert tiff to png**—أو استخراج الإطارات الفردية وتخزينها بصيغ نقطية أخرى—Aspose.Imaging for Java يجعل العملية بسيطة وعالية الأداء. في هذا الدرس سنستعرض الخطوات الدقيقة لتحميل ملف TIFF، والتكرار عبر إطاراته، وحفظ كل إطار كـ PNG (يمكنك بسهولة التحويل إلى BMP أو GIF لاحقًا). في النهاية ستتعرف أيضًا على **how to convert tiff** إلى أي من الصيغ النقطية المدعومة ببضع أسطر من الشيفرة.
 
 ## إجابات سريعة
-- **ماذا يعني “convert tiff to png”؟** يعني استخراج كل صفحة من ملف TIFF وكتابتها كصورة نقطية PNG.  
-- **أي مكتبة تتعامل مع هذا؟** Aspose.Imaging for Java توفر دعمًا كاملاً لاستخراج إطارات TIFF وتحويل تنسيقات النقطية.  
-- **هل أحتاج إلى ترخيص؟** الإصدار التجريبي المجاني يكفي للتطوير؛ الترخيص الكامل مطلوب للاستخدام في الإنتاج.  
-- **هل يمكنني الحفظ إلى BMP أو GIF بدلاً من PNG؟** نعم — فقط استبدل `PngOptions` بـ `BmpOptions` أو `GifOptions`.  
-- **ما نسخة Java المطلوبة؟** يوصى بـ Java 8 أو أعلى.
+- **What does “convert tiff to png” mean?** يعني استخراج كل صفحة من ملف TIFF وكتابتها كصورة نقطية PNG.  
+- **Which library handles this?** Aspose.Imaging for Java يوفر دعمًا كاملاً لاستخراج إطارات TIFF وتحويل صيغ النقطية.  
+- **Do I need a license?** الإصدار التجريبي المجاني يعمل للتطوير؛ يتطلب الاستخدام في الإنتاج رخصة كاملة.  
+- **Can I save to BMP or GIF instead of PNG?** نعم—فقط استبدل `PngOptions` بـ `BmpOptions` أو `GifOptions`.  
+- **What Java version is required?** يوصى باستخدام Java 8 أو أعلى.
 
 ## ما هو “convert tiff to png”؟
-تحويل TIFF إلى PNG يتضمن فك ترميز TIFF متعدد الصفحات، الوصول إلى كل إطار، وترميز ذلك الإطار إلى تنسيق PNG، وهو تنسيق غير مضغوط، صديق للويب، ومدعوم على نطاق واسع.
+تحويل TIFF إلى PNG يتضمن فك ترميز TIFF متعدد الصفحات، الوصول إلى كل إطار، وترميز ذلك الإطار إلى صيغة PNG، وهي صيغة غير مضغوطة، صديقة للويب، ومدعومة على نطاق واسع.
 
 ## لماذا نستخدم Aspose.Imaging for Java؟
-- **دعم واسع للتنسيقات** – يدعم TIFF، PNG، JPEG، BMP، GIF، والعديد غيرها.  
-- **بدون تبعيات أصلية** – جافا صافية، سهل التكامل مع أي مشروع JVM.  
-- **أداء عالي** – مُحسّن للصور الكبيرة والوثائق متعددة الصفحات.  
-- **واجهة برمجة تطبيقات بسيطة** – القليل من الشيفرة المطلوبة لأداء التحويلات المعقدة.
+- **Broad format support** – يدعم TIFF، PNG، JPEG، BMP، GIF، والعديد غيرها.  
+- **No native dependencies** – جافا خالص، سهل الدمج في أي مشروع JVM.  
+- **High performance** – مُحسّن للصور الكبيرة والمستندات متعددة الصفحات.  
+- **Simple API** – يتطلب أقل قدر من الشيفرة لأداء التحويلات المعقدة.
+
+## لماذا هذا مهم
+العديد من الأنظمة القديمة تخزن المستندات الممسوحة ضوئيًا كملفات TIFF متعددة الصفحات لأن الصيغة صديقة للأرشفة. ومع ذلك، تفضّل التطبيقات الحديثة على الويب والهواتف المحمولة PNG أو BMP أو GIF لتقديم سريع وإنشاء صور مصغرة. تحويل إطارات TIFF أثناء التشغيل يقلل من تكاليف التخزين، ويحسن أوقات التحميل، ويوسّع التوافق عبر المتصفحات والأجهزة.
 
 ## المتطلبات المسبقة
 
-1. **بيئة تطوير Java** – تأكد من تثبيت JDK. حمّله من [موقع Oracle](https://www.oracle.com/java/technologies/javase-downloads) إذا لم تكن قد فعلت ذلك بالفعل.  
-2. **مكتبة Aspose.Imaging for Java** – اطلع على مرجع API في [التوثيق](https://reference.aspose.com/imaging/java/). احصل على المكتبة من [صفحة التحميل](https://releases.aspose.com/imaging/java/). نسخة تجريبية مجانية متاحة [هنا](https://releases.aspose.com/)، ويمكن شراء ترخيص كامل [هنا](https://purchase.aspose.com/buy).  
-3. **صورة TIFF تجريبية** – احرص على وجود ملف TIFF متعدد الصفحات جاهز للمعالجة.
+1. **Java Development Environment** – تأكد من تثبيت JDK. قم بتحميله من [Oracle website](https://www.oracle.com/java/technologies/javase-downloads) إذا لم تقم بذلك بعد.  
+2. **Aspose.Imaging for Java Library** – الوصول إلى مرجع API عبر [documentation](https://reference.aspose.com/imaging/java/). احصل على المكتبة من [download page](https://releases.aspose.com/imaging/java/). نسخة تجريبية مجانية متاحة [here](https://releases.aspose.com/)، ويمكن شراء رخصة كاملة [here](https://purchase.aspose.com/buy).  
+3. **Sample TIFF Image** – احرص على وجود ملف TIFF متعدد الصفحات جاهز للمعالجة.
 
-الآن بعد تغطية المتطلبات المسبقة، دعنا ننتقل إلى الشيفرة.
+الآن بعد تغطية المتطلبات المسبقة، دعونا نغوص في الشيفرة.
 
 ## كيفية تحويل TIFF إلى PNG باستخدام Aspose.Imaging for Java
 
@@ -56,15 +63,15 @@ import com.aspose.imaging.fileformats.tiff.TiffFrame;
 ```
 
 ### الخطوة 1: تحميل صورة TIFF
-حدد مسار دليل البيانات وحمّل ملف TIFF المصدر.
+قم بتهيئة دليل البيانات وحمل ملف TIFF المصدر.
 
 ```java
 String dataDir = "Your Document Directory" + "ModifyingImages/";
 try (TiffImage multiImage = (TiffImage) Image.load(dataDir + "SampleTiff1.tiff")) {
 ```
 
-### الخطوة 2: حفظ الإطارات بتنسيقات نقطية مختلفة
-قم بالتكرار على كل إطار و**احفظ الصورة كـ png**. لتحويل **tiff إلى bmp** أو إجراء **تحويل tiff إلى gif**، استبدل ببساطة `PngOptions` بـ `BmpOptions` أو `GifOptions`.
+### الخطوة 2: حفظ الإطارات بصيغ نقطية مختلفة
+تكرار عبر كل إطار و**save image as png**. لتحويل **convert tiff to bmp** أو إجراء **tiff to gif conversion**، استبدل ببساطة `PngOptions` بـ `BmpOptions` أو `GifOptions`.
 
 ```java
     int i = 0;
@@ -75,38 +82,38 @@ try (TiffImage multiImage = (TiffImage) Image.load(dataDir + "SampleTiff1.tiff")
 }
 ```
 
-> **نصيحة محترف:** احتفظ بكتلة `try‑with‑resources` كما هو موضح لضمان التخلص الصحيح من ملف TIFF بعد المعالجة.
+> **نصيحة احترافية:** احتفظ بكتلة `try‑with‑resources` كما هو موضح لضمان التخلص الصحيح من ملف TIFF بعد المعالجة.
 
 ## حالات الاستخدام الشائعة
-- **أرشفة المستندات:** تحويل مستندات TIFF الممسوحة ضوئيًا إلى PNG للمعاينة على الويب.  
-- **إنشاء الصور المصغرة:** استخراج الإطار الأول من TIFF وحفظه كصورة PNG صغيرة.  
-- **ترحيل التنسيقات:** نقل أصول TIFF القديمة إلى تنسيقات حديثة مثل BMP أو GIF لتوافق أفضل مع الأنظمة القديمة.
+- **Document archiving:** تحويل مستندات TIFF الممسوحة إلى PNG للمعاينة على الويب.  
+- **Thumbnail generation:** استخراج الإطار الأول من TIFF وحفظه كصورة مصغرة PNG صغيرة.  
+- **Format migration:** نقل أصول TIFF القديمة إلى صيغ حديثة مثل BMP أو GIF للتوافق مع الأنظمة القديمة.
 
 ## استكشاف الأخطاء وإصلاحها & نصائح
-- **الإطارات المفقودة:** تأكد من أن ملف TIFF المصدر يحتوي فعلاً على صفحات متعددة؛ استخدم `multiImage.getFrames().size()` للتصحيح.  
-- **أخطاء الذاكرة:** عالج ملفات TIFF الكبيرة صفحةً بصفحة كما هو موضح بدلاً من تحميل الملف بالكامل في الذاكرة.  
-- **مراقبة الجودة:** PNG غير مضغوط؛ إذا كنت تحتاج إلى ملفات أصغر، ففكّر في استخدام خيارات JPEG مع إعدادات الجودة.
+- **Missing frames:** تحقق من أن ملف TIFF المصدر يحتوي فعليًا على صفحات متعددة؛ استخدم `multiImage.getFrames().size()` للتصحيح.  
+- **Out‑of‑memory errors:** عالج ملفات TIFF الكبيرة صفحة بصفحة كما هو موضح بدلاً من تحميل الملف بالكامل في الذاكرة.  
+- **Quality control:** PNG غير مضغوط؛ إذا كنت بحاجة إلى ملفات أصغر، فكر في استخدام خيارات JPEG مع إعدادات الجودة.
 
 ## الأسئلة المتكررة
 
-**س1: ما هي تنسيقات النقطية المدعومة لحفظ الإطارات في Aspose.Imaging for Java؟**  
-ج1: تدعم Aspose.Imaging for Java مجموعة واسعة من التنسيقات النقطية، بما في ذلك PNG، JPEG، BMP، GIF، وأكثر. يمكنك اختيار التنسيق الأنسب لاحتياجات تطبيقك.
+**Q1: ما هي صيغ النقطية المدعومة لحفظ الإطارات في Aspose.Imaging for Java؟**  
+A1: Aspose.Imaging for Java يدعم مجموعة واسعة من صيغ النقطية، بما في ذلك PNG، JPEG، BMP، GIF، وأكثر. يمكنك اختيار الصيغة التي تناسب احتياجات تطبيقك.
 
-**س2: هل يمكنني إجراء عمليات صور أخرى باستخدام Aspose.Imaging for Java؟**  
-ج2: نعم، تقدم Aspose.Imaging for Java مجموعة شاملة من الميزات لمعالجة الصور، بما في ذلك تغيير الحجم، القص، وتطبيق فلاتر وتأثيرات مختلفة. إنها أداة متعددة الاستخدامات لجميع متطلبات معالجة الصور الخاصة بك.
+**Q2: هل يمكنني إجراء عمليات صور أخرى باستخدام Aspose.Imaging for Java؟**  
+A2: نعم، Aspose.Imaging for Java يقدم مجموعة شاملة من الميزات لمعالجة الصور، بما في ذلك تغيير الحجم، القص، وتطبيق فلاتر وتأثيرات مختلفة. إنه أداة متعددة الاستخدامات لجميع متطلبات معالجة الصور.
 
-**س3: كيف يمكنني الحصول على ترخيص كامل لـ Aspose.Imaging for Java؟**  
-ج: لشراء ترخيص كامل لـ Aspose.Imaging for Java، زر [صفحة الشراء](https://purchase.aspose.com/buy). ستجد خيارات ترخيص متعددة تناسب مشروعك.
+**Q3: كيف يمكنني الحصول على رخصة كاملة لـ Aspose.Imaging for Java؟**  
+A: لشراء رخصة كاملة لـ Aspose.Imaging for Java، زر [purchase page](https://purchase.aspose.com/buy). ستجد خيارات ترخيص مختلفة تناسب مشروعك.
 
-**س4: هل هناك نسخة تجريبية مجانية متاحة لـ Aspose.Imaging for Java؟**  
-ج: نعم، يمكنك الوصول إلى نسخة تجريبية مجانية من Aspose.Imaging for Java عبر [صفحة الإصدارات](https://releases.aspose.com/). تتيح لك هذه النسخة استكشاف قدرات المكتبة قبل اتخاذ قرار الشراء.
+**Q4: هل هناك نسخة تجريبية مجانية متاحة لـ Aspose.Imaging for Java؟**  
+A: نعم، يمكنك الوصول إلى نسخة تجريبية مجانية من Aspose.Imaging for Java عبر [releases page](https://releases.aspose.com/). تتيح لك هذه التجربة استكشاف قدرات المكتبة قبل الشراء.
 
-**س5: أين يمكنني طلب الدعم أو المساعدة بخصوص Aspose.Imaging for Java؟**  
-ج: لأي أسئلة أو مشكلات أو للحصول على مساعدة بخصوص Aspose.Imaging for Java، يمكنك زيارة [منتدى Aspose Imaging](https://forum.aspose.com/). المجتمع وفريق الدعم موجودان لمساعدتك.
+**Q5: أين يمكنني طلب الدعم أو المساعدة بخصوص Aspose.Imaging for Java؟**  
+A: لأي أسئلة أو مشكلات أو مساعدة بخصوص Aspose.Imaging for Java، يمكنك زيارة [Aspose Imaging forum](https://forum.aspose.com/). المجتمع وفريق الدعم موجودان لمساعدتك.
 
 ---
 
-**آخر تحديث:** 2025-12-20  
+**آخر تحديث:** 2026-04-28  
 **تم الاختبار مع:** Aspose.Imaging for Java 24.11  
 **المؤلف:** Aspose  
 

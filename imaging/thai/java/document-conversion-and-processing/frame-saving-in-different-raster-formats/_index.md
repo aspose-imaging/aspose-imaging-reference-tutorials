@@ -1,10 +1,14 @@
 ---
-date: 2025-12-20
-description: เรียนรู้วิธีแปลงไฟล์ TIFF เป็น PNG และบันทึกรูปภาพเป็น PNG, BMP หรือ
-  GIF ด้วย Aspose.Imaging สำหรับ Java คู่มือแบบขั้นตอนสำหรับการจัดการรูปภาพ
-linktitle: Frame Saving in Different Raster Formats
+date: 2026-04-28
+description: เรียนรู้วิธีแปลงไฟล์ TIFF เป็น PNG และวิธีแปลงไฟล์ TIFF เป็นรูปแบบเรสเตอร์อื่น
+  ๆ ด้วย Aspose.Imaging สำหรับ Java คู่มือขั้นตอนต่อขั้นตอนสำหรับการจัดการภาพ
+keywords:
+- tiff to png java
+- how to convert tiff
+- Aspose.Imaging Java
+linktitle: การบันทึกเฟรมในรูปแบบเรสเตอร์ต่าง ๆ
 second_title: Aspose.Imaging Java Image Processing API
-title: วิธีแปลง TIFF เป็น PNG และบันทึกเฟรมในรูปแบบเรสเตอร์ต่าง ๆ
+title: tiff to png java – แปลง TIFF เป็น PNG และบันทึกเฟรมในรูปแบบเรสเตอร์ต่าง ๆ
 url: /th/java/document-conversion-and-processing/frame-saving-in-different-raster-formats/
 weight: 18
 ---
@@ -15,38 +19,39 @@ weight: 18
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# แปลง TIFF เป็น PNG และบันทึกเฟรมในรูปแบบ Raster ต่าง ๆ
+# tiff to png java – แปลง TIFF เป็น PNG และบันทึกเฟรมในรูปแบบ Raster ต่าง ๆ
 
-การทำงานกับไฟล์ TIFF แบบหลายหน้าเป็นสถานการณ์ทั่วไปในแอปพลิเคชันที่ต้องจัดการเอกสารจำนวนมาก หากคุณต้องการ **convert tiff to png** หรือดึงเฟรมแต่ละเฟรมออกมาและจัดเก็บในรูปแบบ raster อื่น ๆ Aspose.Imaging for Java ทำให้กระบวนการนี้ง่ายและมีประสิทธิภาพ ในบทเรียนนี้เราจะอธิบายขั้นตอนที่ต้องทำเพื่อโหลดไฟล์ TIFF, วนลูปผ่านเฟรมต่าง ๆ, และบันทึกแต่ละเฟรมเป็น PNG (คุณสามารถสลับเป็น BMP หรือ GIF ได้ในภายหลัง)
+## คำตอบอย่างรวดเร็ว
+- **What does “convert tiff to png” mean?** หมายถึงการดึงแต่ละหน้าของไฟล์ TIFF แล้วบันทึกเป็นภาพ raster PNG  
+- **Which library handles this?** Aspose.Imaging for Java ให้การสนับสนุนเต็มรูปแบบสำหรับการดึงเฟรมจาก TIFF และการแปลงรูปแบบ raster  
+- **Do I need a license?** การทดลองใช้งานฟรีใช้ได้สำหรับการพัฒนา; ต้องมีไลเซนส์เต็มสำหรับการใช้งานในผลิตภัณฑ์  
+- **Can I save to BMP or GIF instead of PNG?** ใช่—เพียงเปลี่ยน `PngOptions` เป็น `BmpOptions` หรือ `GifOptions`  
+- **What Java version is required?** แนะนำให้ใช้ Java 8 หรือสูงกว่า  
 
-## คำตอบสั้น ๆ
-- **“convert tiff to png” หมายถึงอะไร?** หมายถึงการดึงแต่ละหน้าของไฟล์ TIFF แล้วบันทึกออกเป็นภาพ raster แบบ PNG.  
-- **ไลบรารีที่ทำหน้าที่นี้คืออะไร?** Aspose.Imaging for Java ให้การสนับสนุนเต็มรูปแบบสำหรับการดึงเฟรมจาก TIFF และการแปลงรูปแบบ raster.  
-- **ต้องมีลิขสิทธิ์หรือไม่?** รุ่นทดลองฟรีใช้ได้สำหรับการพัฒนา; ต้องมีลิขสิทธิ์เต็มสำหรับการใช้งานในผลิตภัณฑ์.  
-- **สามารถบันทึกเป็น BMP หรือ GIF แทน PNG ได้หรือไม่?** ได้—เพียงเปลี่ยน `PpngOptions` เป็น `BmpOptions` หรือ `GifOptions`.  
-- **ต้องใช้ Java เวอร์ชันใด?** แนะนำให้ใช้ Java 8 หรือสูงกว่า.
+## “convert tiff to png” คืออะไร
+การแปลง TIFF เป็น PNG เกี่ยวข้องกับการถอดรหัส TIFF หลายหน้า, เข้าถึงแต่ละเฟรม, และเข้ารหัสเฟรมนั้นเป็นรูปแบบ PNG ซึ่งเป็นรูปแบบ lossless, เป็นมิตรกับเว็บ, และได้รับการสนับสนุนอย่างกว้างขวาง  
 
-## “convert tiff to png” คืออะไร?
-การแปลง TIFF เป็น PNG เกี่ยวข้องกับการถอดรหัสไฟล์ TIFF แบบหลายหน้า, เข้าถึงแต่ละเฟรม, แล้วเข้ารหัสเฟรมนั้นเป็นรูปแบบ PNG ซึ่งเป็นรูปแบบที่ไม่มีการสูญเสียข้อมูล, เหมาะกับเว็บ, และได้รับการสนับสนุนอย่างกว้างขวาง.
+## ทำไมต้องใช้ Aspose.Imaging for Java
+- **Broad format support** – รองรับ TIFF, PNG, JPEG, BMP, GIF และอื่น ๆ อีกมาก  
+- **No native dependencies** – เป็น Java แท้ ๆ, ง่ายต่อการรวมเข้ากับโครงการ JVM ใด ๆ  
+- **High performance** – ปรับให้ทำงานได้อย่างมีประสิทธิภาพกับภาพขนาดใหญ่และเอกสารหลายหน้า  
+- **Simple API** – ต้องการโค้ดน้อยที่สุดเพื่อทำการแปลงที่ซับซ้อน  
 
-## ทำไมต้องใช้ Aspose.Imaging for Java?
-- **รองรับรูปแบบหลากหลาย** – รองรับ TIFF, PNG, JPEG, BMP, GIF, และรูปแบบอื่น ๆ อีกมาก.  
-- **ไม่มีการพึ่งพาเนทีฟ** – เป็น Java แท้ ๆ, ผสานรวมง่ายกับโครงการ JVM ใดก็ได้.  
-- **ประสิทธิภาพสูง** – ปรับแต่งสำหรับภาพขนาดใหญ่และเอกสารหลายหน้า.  
-- **API ง่าย** – ต้องเขียนโค้ดเพียงเล็กน้อยเพื่อทำการแปลงที่ซับซ้อน.
+## ทำไมเรื่องนี้ถึงสำคัญ
+ระบบเก่าหลายระบบเก็บเอกสารสแกนเป็น TIFF หลายหน้าเนื่องจากเป็นรูปแบบที่เหมาะกับการเก็บถาวร. แอปพลิเคชันเว็บและมือถือสมัยใหม่ต้องการ PNG, BMP หรือ GIF เพื่อการแสดงผลที่รวดเร็วและการสร้าง thumbnail. การแปลงเฟรม TIFF บนเครื่องช่วยลดค่าใช้จ่ายการจัดเก็บ, ปรับปรุงเวลาโหลด, และเพิ่มความเข้ากันได้ข้ามเบราว์เซอร์และอุปกรณ์  
 
 ## ข้อกำหนดเบื้องต้น
 
-1. **สภาพแวดล้อมการพัฒนา Java** – ตรวจสอบให้แน่ใจว่าได้ติดตั้ง JDK แล้ว ดาวน์โหลดได้จาก [Oracle website](https://www.oracle.com/java/technologies/javase-downloads) หากยังไม่มี.  
-2. **Aspose.Imaging for Java Library** – เข้าถึงเอกสารอ้างอิง API ที่ [documentation](https://reference.aspose.com/imaging/java/). ดาวน์โหลดไลบรารีจาก [download page](https://releases.aspose.com/imaging/java/). มีรุ่นทดลองฟรีให้ใช้ [here](https://releases.aspose.com/), และสามารถซื้อไลเซนส์เต็มได้ [here](https://purchase.aspose.com/buy).  
-3. **ตัวอย่างภาพ TIFF** – เตรียมไฟล์ TIFF แบบหลายหน้าที่พร้อมสำหรับการประมวลผล.
+1. **Java Development Environment** – ตรวจสอบให้แน่ใจว่าได้ติดตั้ง JDK แล้ว ดาวน์โหลดได้จาก [Oracle website](https://www.oracle.com/java/technologies/javase-downloads) หากยังไม่ได้ทำ  
+2. **Aspose.Imaging for Java Library** – เข้าถึงเอกสารอ้างอิง API ที่ [documentation](https://reference.aspose.com/imaging/java/). ดาวน์โหลดไลบรารีจาก [download page](https://releases.aspose.com/imaging/java/). มีการทดลองใช้งานฟรีที่ [here](https://releases.aspose.com/), และสามารถซื้อไลเซนส์เต็มได้ที่ [here](https://purchase.aspose.com/buy).  
+3. **Sample TIFF Image** – เตรียมไฟล์ TIFF หลายหน้าที่พร้อมสำหรับการประมวลผล  
 
-เมื่อข้อกำหนดเบื้องต้นพร้อมแล้ว, ไปที่ขั้นตอนโค้ดกันเลย.
+เมื่อข้อกำหนดเบื้องต้นพร้อมแล้ว, เรามาเริ่มดูโค้ดกัน  
 
 ## วิธีแปลง TIFF เป็น PNG ด้วย Aspose.Imaging for Java
 
 ### นำเข้าแพคเกจ
-เริ่มต้นด้วยการนำเข้าคลาสของ Aspose.Imaging ที่จำเป็น.
+ก่อนอื่น, นำเข้าคลาส Aspose.Imaging ที่จำเป็น  
 
 ```java
 import com.aspose.imaging.Image;
@@ -56,7 +61,7 @@ import com.aspose.imaging.fileformats.tiff.TiffFrame;
 ```
 
 ### ขั้นตอนที่ 1: โหลดภาพ TIFF
-กำหนดไดเรกทอรีข้อมูลและโหลดไฟล์ TIFF ต้นฉบับ.
+กำหนดค่าไดเรกทอรีข้อมูลและโหลดไฟล์ TIFF ต้นฉบับ  
 
 ```java
 String dataDir = "Your Document Directory" + "ModifyingImages/";
@@ -64,7 +69,7 @@ try (TiffImage multiImage = (TiffImage) Image.load(dataDir + "SampleTiff1.tiff")
 ```
 
 ### ขั้นตอนที่ 2: บันทึกเฟรมในรูปแบบ Raster ต่าง ๆ
-วนลูปแต่ละเฟรมและ **save image as png**. หากต้องการ **convert tiff to bmp** หรือทำ **tiff to gif conversion**, เพียงเปลี่ยน `PngOptions` เป็น `BmpOptions` หรือ `GifOptions`.
+วนลูปแต่ละเฟรมและ **save image as png**. เพื่อ **convert tiff to bmp** หรือทำ **tiff to gif conversion**, เพียงเปลี่ยน `PngOptions` เป็น `BmpOptions` หรือ `GifOptions`.  
 
 ```java
     int i = 0;
@@ -75,38 +80,36 @@ try (TiffImage multiImage = (TiffImage) Image.load(dataDir + "SampleTiff1.tiff")
 }
 ```
 
-> **เคล็ดลับ:** ควรใช้บล็อก `try‑with‑resources` ตามตัวอย่างเพื่อให้แน่ใจว่าไฟล์ TIFF ถูกปล่อยทรัพยากรอย่างถูกต้องหลังการประมวลผล.
+> **เคล็ดลับ:** ควรเก็บบล็อก `try‑with‑resources` ตามตัวอย่างเพื่อให้แน่ใจว่าไฟล์ TIFF ถูกทำลายอย่างเหมาะสมหลังการประมวลผล  
 
 ## กรณีการใช้งานทั่วไป
-- **การจัดเก็บเอกสาร:** แปลงเอกสารสแกนแบบ TIFF เป็น PNG เพื่อแสดงตัวอย่างบนเว็บ.  
-- **การสร้างภาพย่อ:** ดึงเฟรมแรกของ TIFF แล้วบันทึกเป็นภาพย่อ PNG ขนาดเล็ก.  
-- **การย้ายรูปแบบ:** ย้ายทรัพยากร TIFF เก่าไปยังรูปแบบสมัยใหม่เช่น BMP หรือ GIF เพื่อความเข้ากันได้กับระบบที่เก่า.
+- **Document archiving:** แปลงเอกสารสแกนเป็น TIFF ไปเป็น PNG เพื่อการแสดงตัวอย่างบนเว็บ  
+- **Thumbnail generation:** ดึงเฟรมแรกของ TIFF และบันทึกเป็นภาพขนาดเล็ก PNG thumbnail  
+- **Format migration:** ย้ายทรัพยากร TIFF เก่าไปยังรูปแบบสมัยใหม่เช่น BMP หรือ GIF เพื่อความเข้ากันได้กับระบบเก่า  
 
 ## การแก้ไขปัญหาและเคล็ดลับ
-- **เฟรมหาย:** ตรวจสอบว่า TIFF ต้นฉบับมีหลายหน้าจริงหรือไม่; ใช้ `multiImage.getFrames().size()` เพื่อตรวจสอบ.  
-- **ข้อผิดพลาด Out‑of‑memory:** ประมวลผล TIFF ขนาดใหญ่แบบหน้า‑ต่อหน้า ตามที่แสดงแทนการโหลดไฟล์ทั้งหมดเข้าสู่หน่วยความจำ.  
-- **การควบคุมคุณภาพ:** PNG ไม่มีการสูญเสียข้อมูล; หากต้องการไฟล์ขนาดเล็กกว่า, พิจารณาใช้ตัวเลือก JPEG พร้อมการตั้งค่าคุณภาพ.
+- **Missing frames:** ตรวจสอบว่า TIFF ต้นฉบับมีหลายหน้าจริงหรือไม่; ใช้ `multiImage.getFrames().size()` เพื่อดีบัก  
+- **Out‑of‑memory errors:** ประมวลผล TIFF ขนาดใหญ่แบบหน้า‑ต่อหน้า ตามที่แสดง แทนการโหลดไฟล์ทั้งหมดเข้าสู่หน่วยความจำ  
+- **Quality control:** PNG เป็น lossless; หากต้องการไฟล์ขนาดเล็กลง, พิจารณาใช้ตัวเลือก JPEG พร้อมการตั้งค่าคุณภาพ  
 
 ## คำถามที่พบบ่อย
 
 **Q1: รูปแบบ raster ที่รองรับสำหรับการบันทึกเฟรมใน Aspose.Imaging for Java มีอะไรบ้าง?**  
-A1: Aspose.Imaging for Java รองรับรูปแบบ raster หลากหลาย รวมถึง PNG, JPEG, BMP, GIF, และอื่น ๆ อีกมาก คุณสามารถเลือกรูปแบบที่เหมาะกับความต้องการของแอปพลิเคชันของคุณได้.
+A1: Aspose.Imaging for Java รองรับรูปแบบ raster หลากหลายรวมถึง PNG, JPEG, BMP, GIF และอื่น ๆ อีกมาก คุณสามารถเลือกรูปแบบที่เหมาะกับความต้องการของแอปพลิเคชันของคุณได้  
 
-**Q2: สามารถทำการประมวลผลภาพอื่น ๆ ด้วย Aspose.Imaging for Java ได้หรือไม่?**  
-A2: ได้, Aspose.Imaging for Java มีชุดคุณสมบัติครบถ้วนสำหรับการจัดการภาพ เช่น การปรับขนาด, การครอป, และการใช้ฟิลเตอร์หรือเอฟเฟกต์ต่าง ๆ เป็นเครื่องมืออเนกประสงค์สำหรับความต้องการการประมวลผลภาพทั้งหมดของคุณ.
+**Q2: ฉันสามารถทำการดำเนินการภาพอื่น ๆ ด้วย Aspose.Imaging for Java ได้หรือไม่?**  
+A2: ใช่, Aspose.Imaging for Java มีฟีเจอร์ครบถ้วนสำหรับการจัดการภาพ เช่น การปรับขนาด, การครอป, และการใช้ฟิลเตอร์หรือเอฟเฟกต์ต่าง ๆ เป็นเครื่องมือที่หลากหลายสำหรับความต้องการการประมวลผลภาพของคุณทั้งหมด  
 
-**Q3: จะขอรับลิขสิทธิ์เต็มสำหรับ Aspose.Imaging for Java ได้อย่างไร?**  
-A: เพื่อซื้อไลเซนส์เต็มสำหรับ Aspose.Imaging for Java, เยี่ยมชม [purchase page](https://purchase.aspose.com/buy). คุณจะพบตัวเลือกการให้ลิขสิทธิ์ที่หลากหลายเพื่อให้เหมาะกับโครงการของคุณ.
+**Q3: ฉันจะได้รับไลเซนส์เต็มสำหรับ Aspose.Imaging for Java อย่างไร?**  
+A: เพื่อซื้อไลเซนส์เต็มสำหรับ Aspose.Imaging for Java, เยี่ยมชม [purchase page](https://purchase.aspose.com/buy). คุณจะพบตัวเลือกไลเซนส์หลายแบบที่เหมาะกับโครงการของคุณ  
 
-**Q4: มีรุ่นทดลองฟรีสำหรับ Aspose.Imaging for Java หรือไม่?**  
-A: มี, คุณสามารถเข้าถึงรุ่นทดลองฟรีของ Aspose.Imaging for Java ได้จาก [releases page](https://releases.aspose.com/). รุ่นทดลองนี้ช่วยให้คุณสำรวจความสามารถของไลบรารีก่อนตัดสินใจซื้อ.
+**Q4: มีการทดลองใช้งานฟรีสำหรับ Aspose.Imaging for Java หรือไม่?**  
+A: มี, คุณสามารถเข้าถึงการทดลองใช้งานฟรีของ Aspose.Imaging for Java จาก [releases page](https://releases.aspose.com/). การทดลองนี้ช่วยให้คุณสำรวจความสามารถของไลบรารีก่อนตัดสินใจซื้อ  
 
-**Q5: จะหาการสนับสนุนหรือขอความช่วยเหลือเกี่ยวกับ Aspose.Imaging for Java ได้จากที่ไหน?**  
-A: สำหรับคำถาม, ปัญหา, หรือการขอความช่วยเหลือเกี่ยวกับ Aspose.Imaging for Java, คุณสามารถเยี่ยมชม [Aspose Imaging forum](https://forum.aspose.com/). ชุมชนและทีมสนับสนุนพร้อมให้ความช่วยเหลือคุณ.
+**Q5: ฉันจะขอรับการสนับสนุนหรือความช่วยเหลือเกี่ยวกับ Aspose.Imaging for Java ได้จากที่ไหน?**  
+A: สำหรับคำถาม, ปัญหา, หรือความช่วยเหลือเกี่ยวกับ Aspose.Imaging for Java, คุณสามารถเยี่ยมชม [Aspose Imaging forum](https://forum.aspose.com/). ชุมชนและทีมสนับสนุนพร้อมช่วยเหลือคุณ  
 
----
-
-**อัปเดตล่าสุด:** 2025-12-20  
+**อัปเดตล่าสุด:** 2026-04-28  
 **ทดสอบด้วย:** Aspose.Imaging for Java 24.11  
 **ผู้เขียน:** Aspose  
 

@@ -1,9 +1,13 @@
 ---
-date: 2025-12-20
-description: 學習如何使用 Aspose.Imaging for Java 將 TIFF 轉換為 PNG，並將圖像儲存為 PNG、BMP 或 GIF。一步一步的圖像處理指南。
-linktitle: Frame Saving in Different Raster Formats
+date: 2026-04-28
+description: 學習如何使用 Aspose.Imaging for Java 將 TIFF 轉換為 PNG，以及將 TIFF 轉換為其他點陣圖格式。一步步的影像處理指南。
+keywords:
+- tiff to png java
+- how to convert tiff
+- Aspose.Imaging Java
+linktitle: 不同光柵格式的畫格儲存
 second_title: Aspose.Imaging Java Image Processing API
-title: 如何將 TIFF 轉換為 PNG 並以不同光柵格式儲存影格
+title: tiff 轉 png java – 將 TIFF 轉換為 PNG 並將影格儲存於不同的點陣格式
 url: /zh-hant/java/document-conversion-and-processing/frame-saving-in-different-raster-formats/
 weight: 18
 ---
@@ -14,35 +18,38 @@ weight: 18
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# 將 TIFF 轉換為 PNG 並以不同點陣格式儲存影格
+# tiff to png java – 將 TIFF 轉換為 PNG 並將幀儲存為不同的光柵格式
 
-在文件密集的應用程式中，處理多頁 TIFF 檔案是常見情境。若您需要 **convert tiff to png**——或是擷取單一影格並儲存為其他點陣格式——Aspose.Imaging for Java 可讓此流程變得簡單且高效。本教學將逐步說明如何載入 TIFF、遍歷其影格，並將每一影格儲存為 PNG（之後也可輕鬆切換為 BMP 或 GIF）。
+在文件密集的應用程式中，處理多頁 TIFF 檔案是常見的情況。 如果您需要 **convert tiff to png**——或提取單獨的幀並將其存儲為其他光柵格式——Aspose.Imaging for Java 讓此過程簡單且高效。 在本教學中，我們將逐步說明載入 TIFF、遍歷其幀，並將每個幀儲存為 PNG 的具體步驟（您可以輕鬆切換為 BMP 或 GIF）。 最後，您還將看到如何 **how to convert tiff** 只需幾行程式碼即可轉換為任何受支援的光柵格式。
 
 ## 快速解答
-- **「convert tiff to png」是什麼意思？** 即將 TIFF 檔案的每一頁提取出來，寫入為 PNG 點陣圖像。  
-- **哪個函式庫負責此功能？** Aspose.Imaging for Java 完整支援 TIFF 影格提取與點陣格式轉換。  
-- **需要授權嗎？** 開發階段可使用免費試用版；正式上線則需購買完整授權。  
-- **可以改存為 BMP 或 GIF 而不是 PNG 嗎？** 可以——只要將 `PngOptions` 換成 `BmpOptions` 或 `GifOptions` 即可。  
-- **需要哪個 Java 版本？** 建議使用 Java 8 或以上。
+- **What does “convert tiff to png” mean?** 它表示將 TIFF 檔案的每一頁提取出來，並寫入為 PNG 光柵圖像。  
+- **Which library handles this?** Aspose.Imaging for Java 提供對 TIFF 幀提取和光柵格式轉換的完整支援。  
+- **Do I need a license?** 免費試用可用於開發；正式使用則需完整授權。  
+- **Can I save to BMP or GIF instead of PNG?** 是的——只需將 `PngOptions` 換成 `BmpOptions` 或 `GifOptions`。  
+- **What Java version is required?** 建議使用 Java 8 或更高版本。
 
-## 什麼是「convert tiff to png」？
-將 TIFF 轉換為 PNG 需要解碼多頁 TIFF、存取每個影格，並將該影格編碼為 PNG 格式。PNG 為無損、適合網路使用且廣受支援的影像格式。
+## 「convert tiff to png」是什麼？
+將 TIFF 轉換為 PNG 包括解碼多頁 TIFF、存取每個幀，並將該幀編碼為 PNG 格式，該格式無失真、適合網路使用且廣受支援。
 
-## 為什麼選擇 Aspose.Imaging for Java？
-- **廣泛的格式支援** – 支援 TIFF、PNG、JPEG、BMP、GIF 等多種格式。  
-- **無原生相依** – 完全純 Java，可輕鬆整合至任何 JVM 專案。  
-- **高效能** – 為大型影像與多頁文件進行最佳化。  
-- **簡易 API** – 只需少量程式碼即可完成複雜的轉換工作。
+## 為什麼使用 Aspose.Imaging for Java？
+- **Broad format support** – 支援 TIFF、PNG、JPEG、BMP、GIF 等多種格式。  
+- **No native dependencies** – 純 Java，易於整合至任何 JVM 專案。  
+- **High performance** – 為大型影像與多頁文件進行最佳化。  
+- **Simple API** – 只需少量程式碼即可執行複雜的轉換。
+
+## 為什麼這很重要
+許多舊有系統將掃描文件儲存為多頁 TIFF，因為此格式適合存檔。然而，現代的網頁與行動應用程式更偏好 PNG、BMP 或 GIF，以便快速渲染與縮圖產生。即時轉換 TIFF 幀可降低儲存成本、提升載入速度，並擴大在瀏覽器與裝置間的相容性。
 
 ## 前置條件
 
-1. **Java 開發環境** – 確認已安裝 JDK。若尚未安裝，可從 [Oracle website](https://www.oracle.com/java/technologies/javase-downloads) 下載。  
-2. **Aspose.Imaging for Java 函式庫** – 參考 API 文件於 [documentation](https://reference.aspose.com/imaging/java/)。可從 [download page](https://releases.aspose.com/imaging/java/) 取得函式庫。免費試用版請點擊 [here](https://releases.aspose.com/)，完整授權可於 [here](https://purchase.aspose.com/buy) 購買。  
-3. **範例 TIFF 影像** – 準備好一個多頁 TIFF 供處理。
+1. **Java Development Environment** – 確保已安裝 JDK。若尚未安裝，請從 [Oracle website](https://www.oracle.com/java/technologies/javase-downloads) 下載。  
+2. **Aspose.Imaging for Java Library** – 可於 [documentation](https://reference.aspose.com/imaging/java/) 取得 API 參考。從 [download page](https://releases.aspose.com/imaging/java/) 下載程式庫。免費試用可在 [here](https://releases.aspose.com/) 取得，完整授權可於 [here](https://purchase.aspose.com/buy) 購買。  
+3. **Sample TIFF Image** – 準備好一個多頁 TIFF 供處理。
 
-完成上述前置作業後，讓我們進入程式碼示範。
+現在已完成前置條件，讓我們深入程式碼。
 
-## 如何使用 Aspose.Imaging for Java 將 TIFF 轉換為 PNG
+## 使用 Aspose.Imaging for Java 轉換 TIFF 為 PNG 的方法
 
 ### 匯入套件
 首先，匯入所需的 Aspose.Imaging 類別。
@@ -54,16 +61,16 @@ import com.aspose.imaging.fileformats.tiff.TiffImage;
 import com.aspose.imaging.fileformats.tiff.TiffFrame;
 ```
 
-### 步驟 1：載入 TIFF 影像
-設定資料目錄並載入來源 TIFF 檔案。
+### 步驟 1：載入 TIFF 圖像
+初始化資料目錄並載入來源 TIFF 檔案。
 
 ```java
 String dataDir = "Your Document Directory" + "ModifyingImages/";
 try (TiffImage multiImage = (TiffImage) Image.load(dataDir + "SampleTiff1.tiff")) {
 ```
 
-### 步驟 2：以不同點陣格式儲存影格
-遍歷每個影格並 **save image as png**。若要 **convert tiff to bmp** 或執行 **tiff to gif conversion**，只需將 `PngOptions` 換成 `BmpOptions` 或 `GifOptions`。
+### 步驟 2：以不同光柵格式儲存幀
+遍歷每個幀並 **save image as png**。若要 **convert tiff to bmp** 或執行 **tiff to gif conversion**，只需將 `PngOptions` 換成 `BmpOptions` 或 `GifOptions`。
 
 ```java
     int i = 0;
@@ -74,40 +81,40 @@ try (TiffImage multiImage = (TiffImage) Image.load(dataDir + "SampleTiff1.tiff")
 }
 ```
 
-> **專業提示：** 請保留如範例所示的 `try‑with‑resources` 區塊，以確保 TIFF 檔案在處理完畢後能正確釋放資源。
+> **Pro tip:** 保持如示範的 `try‑with‑resources` 區塊，以確保在處理完畢後正確釋放 TIFF 檔案。
 
 ## 常見使用情境
-- **文件封存：** 將掃描的 TIFF 文件轉換為 PNG，以供網頁預覽。  
-- **縮圖產生：** 擷取 TIFF 的第一頁並存為小尺寸 PNG 縮圖。  
-- **格式遷移：** 將舊有的 TIFF 資產搬移至 BMP 或 GIF 等現代格式，以相容較舊的系統。
+- **Document archiving:** 將掃描的 TIFF 文件轉換為 PNG，以供網頁預覽。  
+- **Thumbnail generation:** 提取 TIFF 的第一幀，並儲存為小尺寸 PNG 縮圖。  
+- **Format migration:** 將舊有的 TIFF 資產遷移至 BMP 或 GIF 等現代格式，以提升與舊系統的相容性。
 
 ## 疑難排解與技巧
-- **影格遺失：** 確認來源 TIFF 確實包含多頁；可使用 `multiImage.getFrames().size()` 進行除錯。  
-- **記憶體不足：** 如範例所示，逐頁處理大型 TIFF，而非一次載入整個檔案。  
-- **品質控制：** PNG 為無損格式；若需要較小的檔案，可考慮使用 JPEG 並設定品質參數。
+- **Missing frames:** 確認來源 TIFF 確實包含多頁；可使用 `multiImage.getFrames().size()` 進行除錯。  
+- **Out‑of‑memory errors:** 如示範般逐頁處理大型 TIFF，而非一次載入整個檔案，以避免記憶體不足。  
+- **Quality control:** PNG 為無失真格式；若需較小檔案，可考慮使用具品質設定的 JPEG 選項。
 
-## 常見問答
+## 常見問題
 
-**Q1: Aspose.Imaging for Java 支援哪些點陣格式可用於影格儲存？**  
-A1: 支援多種點陣格式，包括 PNG、JPEG、BMP、GIF 等，您可依需求選擇最適合的格式。
+**Q1: What are the supported raster formats for frame saving in Aspose.Imaging for Java?**  
+A1: Aspose.Imaging for Java 支援多種光柵格式，包括 PNG、JPEG、BMP、GIF 等。您可以選擇最符合應用需求的格式。
 
-**Q2: 我可以使用 Aspose.Imaging for Java 執行其他影像操作嗎？**  
-A2: 可以，Aspose.Imaging for Java 提供完整的影像處理功能，包含調整大小、裁切、套用各種濾鏡與特效，是您所有影像需求的多功能工具。
+**Q2: Can I perform other image operations using Aspose.Imaging for Java?**  
+A2: 是的，Aspose.Imaging for Java 提供完整的影像處理功能，包括調整大小、裁切以及套用各種濾鏡與特效。它是滿足所有影像處理需求的多功能工具。
 
-**Q3: 我要如何取得 Aspose.Imaging for Java 的完整授權？**  
-A: 前往 [purchase page](https://purchase.aspose.com/buy) 購買授權，網站上提供多種授權方案以符合您的專案需求。
+**Q3: How can I obtain a full license for Aspose.Imaging for Java?**  
+A: 若要購買 Aspose.Imaging for Java 的完整授權，請前往 [purchase page](https://purchase.aspose.com/buy)。您將找到符合專案需求的各種授權方案。
 
-**Q4: Aspose.Imaging for Java 有提供免費試用嗎？**  
-A: 有，您可從 [releases page](https://releases.aspose.com/) 下載免費試用版，先行體驗函式庫功能再決定是否購買。
+**Q4: Is there a free trial available for Aspose.Imaging for Java?**  
+A: 是的，您可從 [releases page](https://releases.aspose.com/) 取得 Aspose.Imaging for Java 的免費試用。此試用版讓您在購買前先行體驗程式庫功能。
 
-**Q5: 若需要支援或協助，該向哪裡尋求？**  
-A: 您可前往 [Aspose Imaging forum](https://forum.aspose.com/) 尋求社群與官方支援團隊的協助。
+**Q5: Where can I seek support or get assistance with Aspose.Imaging for Java?**  
+A: 若有任何問題、疑慮或需要協助，請前往 [Aspose Imaging forum](https://forum.aspose.com/)。社群與支援團隊將提供協助。
 
 ---
 
-**Last Updated:** 2025-12-20  
-**Tested With:** Aspose.Imaging for Java 24.11  
-**Author:** Aspose  
+**最後更新：** 2026-04-28  
+**測試環境：** Aspose.Imaging for Java 24.11  
+**作者：** Aspose  
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
