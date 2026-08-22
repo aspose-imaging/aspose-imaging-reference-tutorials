@@ -1,5 +1,5 @@
 ---
-title: "Convert WebP to PDF Using Aspose.Imaging in Java: Step‑by‑Step Guide"
+title: "How to Convert WebP to PDF Using Aspose.Imaging in Java – Step‑by‑Step Guide"
 description: "Learn how to convert WebP to PDF and save WebP as PDF with Aspose.Imaging for Java. Follow this detailed tutorial for fast, reliable results."
 date: "2026-06-03"
 weight: 1
@@ -12,13 +12,13 @@ keywords:
 - Java PDF generation
 schemas:
 - type: TechArticle
-  headline: 'Convert WebP to PDF Using Aspose.Imaging in Java: Step‑by‑Step Guide'
+  headline: 'How to Convert WebP to PDF Using Aspose.Imaging in Java – Step‑by‑Step Guide'
   description: Learn how to convert WebP to PDF and save WebP as PDF with Aspose.Imaging
     for Java. Follow this detailed tutorial for fast, reliable results.
   dateModified: '2026-06-03'
   author: Aspose
 - type: HowTo
-  name: 'Convert WebP to PDF Using Aspose.Imaging in Java: Step‑by‑Step Guide'
+  name: 'How to Convert WebP to PDF Using Aspose.Imaging in Java – Step‑by‑Step Guide'
   description: Learn how to convert WebP to PDF and save WebP as PDF with Aspose.Imaging
     for Java. Follow this detailed tutorial for fast, reliable results.
   steps:
@@ -61,10 +61,9 @@ schemas:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
+
 # Title: Mastering Aspose.Imaging Java to Convert WebP to PDF
 
 ## Introduction
@@ -92,11 +91,11 @@ Aspose.Imaging supports **over 100 image formats** (including WebP, JPEG, PNG, T
 
 To follow along effectively, gather the following:
 
-### Required Libraries and Versions
+### Required libraries and versions
 - **Aspose.Imaging for Java** (latest version recommended).  
 - Java Development Kit (JDK) 8 or newer.
 
-### Environment Setup Requirements
+### Environment setup requirements
 - Maven or Gradle for dependency management.  
 - An IDE such as IntelliJ IDEA, Eclipse, or VS Code.
 
