@@ -1,5 +1,5 @@
 ---
-title: "Java Image Processing Library: XMP with Aspose.Imaging"
+title: "How to Embed and Retrieve XMP Metadata in Images with Aspose.Imaging for Java"
 linktitle: XMP Data Handling in Images
 second_title: Aspose.Imaging Java Image Processing API
 description: "Learn how to use the Java image processing library Aspose.Imaging to embed and retrieve XMP metadata in images, with step‑by‑step code."
@@ -12,13 +12,13 @@ keywords:
   - Aspose.Imaging Java
 schemas:
 - type: TechArticle
-  headline: 'Java Image Processing Library: XMP with Aspose.Imaging'
+  headline: 'How to Embed and Retrieve XMP Metadata in Images with Aspose.Imaging for Java'
   description: Learn how to use the Java image processing library Aspose.Imaging to
     embed and retrieve XMP metadata in images, with step‑by‑step code.
   dateModified: '2026-05-18'
   author: Aspose
 - type: HowTo
-  name: 'Java Image Processing Library: XMP with Aspose.Imaging'
+  name: 'How to Embed and Retrieve XMP Metadata in Images with Aspose.Imaging for Java'
   description: Learn how to use the Java image processing library Aspose.Imaging to
     embed and retrieve XMP metadata in images, with step‑by‑step code.
   steps:
@@ -87,9 +87,7 @@ schemas:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
 
 # XMP Data Handling in Images with Aspose.Imaging for Java
@@ -143,7 +141,7 @@ Now, let's break down the example into a step‑by‑step guide:
 
 Load your image, create an XMP packet, attach the packet to the image, and save – all in a few concise lines. Aspose.Imaging’s `setXmpData` method writes the packet directly into the file without requiring a separate metadata file. The process works with both file‑based and stream‑based images, making it suitable for web services and batch jobs.
 
-### Step 1: Specify Image Size and Tiff Options
+### Step 1: specify image size and tiff options
 
 First, define the directory where your image will be stored and create a `Rectangle` to specify the size of the image. In this example, we use a TIFF image with certain options. `TiffOptions` configures format‑specific settings for the TIFF image.
 
@@ -155,7 +153,7 @@ tiffOptions.setPhotometric(TiffPhotometrics.MinIsBlack);
 tiffOptions.setBitsPerSample(new int[] { 8 });
 ```
 
-### Step 2: Create a New Image
+### Step 2: create a new image
 
 Now, create a new image with the specified options. This image will be used to store the XMP metadata. `TiffImage` represents a TIFF image object, and `TiffFrame` defines an individual frame within it.
 
@@ -163,7 +161,7 @@ Now, create a new image with the specified options. This image will be used to s
 try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(), rect.getHeight()))) {
 ```
 
-### Step 3: Create XMP Header and Trailer
+### Step 3: create XMP header and trailer
 
 Create instances of XMP‑Header and XMP‑Trailer for your XMP metadata. These headers and trailers help define the metadata structure. `XmpHeaderPi` and `XmpTrailerPi` represent the XMP packet’s opening and closing sections.
 
@@ -174,7 +172,7 @@ Create instances of XMP‑Header and XMP‑Trailer for your XMP metadata. These 
     XmpTrailerPi xmpTrailer = new XmpTrailerPi(true);
 ```
 
-### Step 4: Create XMP Meta Information
+### Step 4: create XMP meta information
 
 Now, create an instance of XMP meta to set different attributes. You can add information like the author and description. `XmpMeta` holds the core metadata fields such as author and description.
 
@@ -184,7 +182,7 @@ Now, create an instance of XMP meta to set different attributes. You can add inf
     xmpMeta.addAttribute("Description", "The fake metadata value");
 ```
 
-### Step 5: Create XMP Packet Wrapper
+### Step 5: create XMP packet wrapper
 
 `XmpPacketWrapper` is the container that holds the XMP header, trailer, and meta information in a single packet. It ensures the packet conforms to the XMP specification. `XmpPacketWrapper` packages the header, meta, and trailer into a single XMP packet.
 
@@ -192,7 +190,7 @@ Now, create an instance of XMP meta to set different attributes. You can add inf
     XmpPacketWrapper xmpData = new XmpPacketWrapper(xmpHeader, xmpTrailer, xmpMeta);
 ```
 
-### Step 6: Add Photoshop Package
+### Step 6: add photoshop package
 
 To store Photoshop‑specific information, create a Photoshop package and set its attributes, such as city, country, and color mode. Then, add this package to the XMP metadata. `PhotoshopPackage` stores Photoshop‑specific metadata like city, country, and color mode.
 
@@ -204,7 +202,7 @@ To store Photoshop‑specific information, create a Photoshop package and set it
     xmpData.addPackage(photoshopPackage);
 ```
 
-### Step 7: Add Dublin Core Package
+### Step 7: add dublin core package
 
 For more general information, like author, title, and additional values, create a DublinCore package and set its attributes. Add this package to the XMP metadata as well. `DublinCorePackage` contains standard Dublin Core fields such as title, creator, and keywords.
 
@@ -225,7 +223,7 @@ Update the XMP metadata into the image using the `setXmpData` method. This call 
     image.setXmpData(xmpData);
 ```
 
-### Step 9: Save the Image
+### Step 9: save the image
 
 You can now save the image with the embedded XMP metadata on the disk or in a memory stream.
 
@@ -233,7 +231,7 @@ You can now save the image with the embedded XMP metadata on the disk or in a me
     image.save(ms);
 ```
 
-### Step 10: Load the Image and Retrieve XMP Metadata
+### Step 10: load the image and retrieve XMP metadata
 
 To retrieve the XMP metadata from the image, load the image from the memory stream or disk and access the XMP data via the `getXmpData` method. `getXmpData` reads the embedded XMP packet from the image.
 
@@ -249,13 +247,13 @@ To retrieve the XMP metadata from the image, load the image from the memory stre
 
 Congratulations! You've successfully learned how to handle XMP data in images using Aspose.Imaging for Java. This allows you to store and retrieve valuable metadata within your image files.
 
-## Common Issues and Solutions
+## Common issues and solutions
 
 - **Metadata not appearing in Photoshop:** Ensure the XMP packet follows the proper XML schema; Aspose.Imaging automatically validates it, but custom namespaces may need registration.  
 - **Large TIFF files cause OutOfMemoryError:** Use `TiffOptions` with `Compression` set to `LZW` and enable streaming (`loadOptions.setBufferSize`) to keep memory usage low.  
 - **Unexpected character encoding:** XMP expects UTF‑8; always pass strings using `StandardCharsets.UTF_8` to avoid garbled data.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: What is XMP metadata?**  
 A: XMP is an XML‑based standard for embedding descriptive information directly inside files, enabling consistent metadata across applications.
@@ -282,7 +280,7 @@ In this tutorial, we explored how to work with XMP metadata in images using Aspo
 **Tested With:** Aspose.Imaging for Java 24.12  
 **Author:** Aspose  
 
-{{< blocks/products/products-backtop-button >}}
+
 
 ## Related Tutorials
 
@@ -291,11 +289,11 @@ In this tutorial, we explored how to work with XMP metadata in images using Aspo
 - [Advanced Java Image Processing with Aspose.Imaging Library](/imaging/java/advanced-drawing-graphics/mastering-image-processing-java-aspose-imaging/)
 
 
-{{< /blocks/products/pf/tutorial-page-section >}}
 
-{{< /blocks/products/pf/main-container >}}
 
-{{< /blocks/products/pf/main-wrap-class >}}
+
+
+
 
 ```java
         
@@ -351,3 +349,10 @@ try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(),
 }
         
 ```
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}
