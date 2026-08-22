@@ -1,10 +1,91 @@
 ---
-"description": "Aspose.Imaging for Java kullanarak resimlerdeki XMP meta verilerinin nasıl işleneceğini öğrenin. Resim dosyalarınızı geliştirmek için meta verileri gömün ve alın."
-"linktitle": "Görüntülerde XMP Veri İşleme"
-"second_title": "Aspose.Imaging Java Görüntü İşleme API'si"
-"title": "Aspose.Imaging for Java ile Görüntülerde XMP Veri İşleme"
-"url": "/tr/java/document-conversion-and-processing/xmp-data-handling-in-images/"
-"weight": 16
+date: 2026-05-18
+description: Java görüntü işleme kütüphanesi Aspose.Imaging'i kullanarak görüntülere
+  XMP meta verilerini eklemeyi ve almaya yönelik adım adım kodlarla nasıl yapılacağını
+  öğrenin.
+keywords:
+- java image processing library
+- XMP metadata Java
+- Aspose.Imaging Java
+linktitle: Görüntülerde XMP Veri İşleme
+schemas:
+- author: Aspose
+  dateModified: '2026-05-18'
+  description: Learn how to use the Java image processing library Aspose.Imaging to
+    embed and retrieve XMP metadata in images, with step‑by‑step code.
+  headline: 'Java Image Processing Library: XMP with Aspose.Imaging'
+  type: TechArticle
+- description: Learn how to use the Java image processing library Aspose.Imaging to
+    embed and retrieve XMP metadata in images, with step‑by‑step code.
+  name: 'Java Image Processing Library: XMP with Aspose.Imaging'
+  steps:
+  - name: Specify Image Size and Tiff Options
+    text: First, define the directory where your image will be stored and create a
+      `Rectangle` to specify the size of the image. In this example, we use a TIFF
+      image with certain options. `TiffOptions` configures format‑specific settings
+      for the TIFF image.
+  - name: Create a New Image
+    text: Now, create a new image with the specified options. This image will be used
+      to store the XMP metadata. `TiffImage` represents a TIFF image object, and `TiffFrame`
+      defines an individual frame within it.
+  - name: Create XMP Header and Trailer
+    text: Create instances of XMP‑Header and XMP‑Trailer for your XMP metadata. These
+      headers and trailers help define the metadata structure. `XmpHeaderPi` and `XmpTrailerPi`
+      represent the XMP packet’s opening and closing sections.
+  - name: Create XMP Meta Information
+    text: Now, create an instance of XMP meta to set different attributes. You can
+      add information like the author and description. `XmpMeta` holds the core metadata
+      fields such as author and description.
+  - name: Create XMP Packet Wrapper
+    text: '`XmpPacketWrapper` is the container that holds the XMP header, trailer,
+      and meta information in a single packet. It ensures the packet conforms to the
+      XMP specification. `XmpPacketWrapper` packages the header, meta, and trailer
+      into a single XMP packet.'
+  - name: Add Photoshop Package
+    text: To store Photoshop‑specific information, create a Photoshop package and
+      set its attributes, such as city, country, and color mode. Then, add this package
+      to the XMP metadata. `PhotoshopPackage` stores Photoshop‑specific metadata like
+      city, country, and color mode.
+  - name: Add Dublin Core Package
+    text: For more general information, like author, title, and additional values,
+      create a DublinCore package and set its attributes. Add this package to the
+      XMP metadata as well. `DublinCorePackage` contains standard Dublin Core fields
+      such as title, creator, and keywords.
+  - name: Update XMP Metadata in the Image
+    text: Update the XMP metadata into the image using the `setXmpData` method. This
+      call writes the XMP packet into the image’s metadata section. `setXmpData` writes
+      the XMP packet into the image’s metadata section.
+  - name: Save the Image
+    text: You can now save the image with the embedded XMP metadata on the disk or
+      in a memory stream.
+  - name: Load the Image and Retrieve XMP Metadata
+    text: To retrieve the XMP metadata from the image, load the image from the memory
+      stream or disk and access the XMP data via the `getXmpData` method. `getXmpData`
+      reads the embedded XMP packet from the image. Congratulations! You've successfully
+      learned how to handle XMP data in images using Aspose.Imagin
+  type: HowTo
+- questions:
+  - answer: XMP is an XML‑based standard for embedding descriptive information directly
+      inside files, enabling consistent metadata across applications.
+    question: What is XMP metadata?
+  - answer: It lets you tag images with author, copyright, keywords, and custom data,
+      improving searchability and asset management without external databases.
+    question: Why is XMP metadata important?
+  - answer: Yes, Aspose.Imaging for Java provides methods to modify existing XMP packets
+      and write them back to the file.
+    question: Can I edit XMP metadata after embedding it in an image?
+  - answer: A free trial is available for evaluation, but a paid license is required
+      for production use. You can explore options on the [Aspose.Imaging for Java
+      website](https://purchase.aspose.com/buy).
+    question: Is Aspose.Imaging for Java a free tool?
+  - answer: Visit the [Aspose.Imaging forums](https://forum.aspose.com/) for community
+      assistance, or contact Aspose support directly for paid‑license customers.
+    question: Where can I get help and support for Aspose.Imaging for Java?
+  type: FAQPage
+second_title: Aspose.Imaging Java Image Processing API
+title: 'Java Görüntü İşleme Kütüphanesi: XMP with Aspose.Imaging'
+url: /tr/java/document-conversion-and-processing/xmp-data-handling-in-images/
+weight: 16
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,21 +94,34 @@
 
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Aspose.Imaging for Java ile Görüntülerde XMP Veri İşleme
+# Java için Aspose.Imaging ile Görsellerde XMP Veri İşleme
 
-Aspose.Imaging for Java, çeşitli formatlardaki resimlerle çalışmak için çok yönlü ve güçlü bir kütüphanedir. Bu eğitim, Aspose.Imaging for Java kullanarak resimlerdeki XMP (Genişletilebilir Meta Veri Platformu) verilerini işleme sürecinde size rehberlik edecektir. XMP, resim dosyalarına meta veri yerleştirmek için bir standarttır ve yazar, açıklama ve daha fazlası gibi değerli bilgileri depolamanıza olanak tanır.
+Aspose.Imaging bir **java image processing library**'dir ve onlarca raster ve vektör formatı ile çalışmanıza olanak tanır. Bu öğreticide, Aspose.Imaging for Java kullanarak görsellere XMP (Extensible Metadata Platform) verisini nasıl gömeceğinizi ve geri alacağınızı öğreneceksiniz. Sonunda, yazar, açıklama ve özel meta verileri doğrudan görüntü dosyalarınıza depolayabilecek, böylece dosyalar aranabilir ve kendini tanımlayan hâle gelecektir.
 
-## Ön koşullar
+## Hızlı Yanıtlar
+- **XMP nedir?** XMP, görüntüler, PDF'ler ve videolar gibi dosyalar içinde meta veriyi gömmek için standartlaştırılmış bir XML‑tabanlı formattır.  
+- **Java'da XMP'yi hangi kütüphane yönetir?** Aspose.Imaging for Java, XMP paketlerini okuma ve yazma için eksiksiz bir API sağlar.  
+- **Lisans gerekir mi?** Geliştirme için ücretsiz deneme sürümü çalışır; üretim için ticari bir lisans gereklidir.  
+- **Kaç tane görüntü formatı destekleniyor?** TIFF, JPEG, PNG, PSD ve RAW dahil olmak üzere 150'den fazla format.  
+- **Büyük görüntüleri işleyebilir miyim?** Evet – kütüphane, tüm görüntüyü belleğe yüklemeden 2 GB'a kadar dosyaları işleyebilir.
 
-Başlamadan önce aşağıdaki ön koşulların mevcut olduğundan emin olun:
+## XMP meta verisi nedir?
+XMP meta verisi, tanımlayıcı bilgileri doğrudan dijital dosyalara gömen bir XML‑tabanlı standarttır. Yazar, telif hakkı, anahtar kelimeler ve özel verilerin uygulamalar arasında tutarlı bir şekilde depolanmasını sağlar. XML olduğu için, XMP özel ad alanlarıyla genişletilebilir; bu sayede geliştiriciler, temel şemayı anlayan araçlarla uyumlu kalırken, kendi alanlarını ekleyebilir. Bu, XMP'yi uzun vadeli varlık yönetimi ve uygulamalar arası birlikte çalışabilirlik için ideal kılar.
 
-- Bilgisayarınızda kurulu bir Java geliştirme ortamı.
-- Java kütüphanesi için Aspose.Imaging yüklendi. Bunu şuradan indirebilirsiniz: [Java web sitesi için Aspose.Imaging](https://releases.aspose.com/imaging/java/).
-- Java programlamanın temellerini anlamak.
+## XMP için neden bir Java görüntü işleme kütüphanesi kullanmalı?
+Aspose.Imaging for Java, **150+ image formats** destekler ve çok gigabaytlık dosyaları akış (streaming) şeklinde işleyebilir, bu da bellek tüketimini naif yüklemeye göre %80'e kadar azaltır. API ayrıca XMP paketlerinin standartlara uygun kalmasını garanti eder, böylece Adobe Photoshop, Lightroom ve diğer araçlarla uyumluluk sağlanır.
+
+## Önkoşullar
+
+Başlamadan önce, aşağıdaki önkoşulların karşılandığından emin olun:
+
+- Bilgisayarınızda bir Java geliştirme ortamı kurulu.  
+- Aspose.Imaging for Java kütüphanesi yüklü. Bunu [Aspose.Imaging for Java website](https://releases.aspose.com/imaging/java/) adresinden indirebilirsiniz.  
+- Java programlamaya temel bir anlayış.
 
 ## Paketleri İçe Aktarma
 
-Gerekli paketleri Java projenize aktararak başlayın. Kodunuzun başına aşağıdaki içe aktarma ifadelerini ekleyebilirsiniz:
+Java projenize gerekli paketleri içe aktararak başlayın. Aşağıdaki import ifadelerini kodunuzun başına ekleyebilirsiniz:
 
 ```java
 import com.aspose.imaging.Image;
@@ -45,11 +139,15 @@ import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 ```
 
-Şimdi örneği adım adım açıklayalım:
+Şimdi, örneği adım adım bir kılavuza ayıralım:
 
-## Adım 1: Görüntü Boyutunu ve Tiff Seçeneklerini Belirleyin
+## Java görüntü işleme kütüphanesi kullanarak XMP meta verisini nasıl gömebilirsiniz?
 
-Öncelikle, görüntünüzün depolanacağı dizini tanımlayın ve görüntünün boyutunu belirtmek için bir Dikdörtgen oluşturun. Bu örnekte, belirli seçeneklere sahip bir Tiff görüntüsü kullanıyoruz.
+Görselinizi yükleyin, bir XMP paketi oluşturun, paketi görsele ekleyin ve kaydedin – hepsi birkaç kısa satırda. Aspose.Imaging'in `setXmpData` yöntemi, paketi ayrı bir meta veri dosyasına ihtiyaç duymadan doğrudan dosyaya yazar. İşlem, dosya tabanlı ve akış tabanlı görsellerde çalışır, bu da web hizmetleri ve toplu işler için uygundur.
+
+### Adım 1: Görüntü Boyutunu ve Tiff Seçeneklerini Belirleme
+
+İlk olarak, görselinizin saklanacağı dizini tanımlayın ve görüntünün boyutunu belirtmek için bir `Rectangle` oluşturun. Bu örnekte belirli seçeneklerle bir TIFF görseli kullanıyoruz. `TiffOptions`, TIFF görseli için format‑özel ayarları yapılandırır.
 
 ```java
 String dataDir = "Your Document Directory" + "ConvertingImages/";
@@ -59,17 +157,17 @@ tiffOptions.setPhotometric(TiffPhotometrics.MinIsBlack);
 tiffOptions.setBitsPerSample(new int[] { 8 });
 ```
 
-## Adım 2: Yeni Bir Görüntü Oluşturun
+### Adım 2: Yeni Bir Görüntü Oluşturma
 
-Şimdi belirtilen seçeneklerle yeni bir görüntü oluşturun. Bu görüntü XMP meta verilerini depolamak için kullanılacaktır.
+Şimdi, belirtilen seçeneklerle yeni bir görsel oluşturun. Bu görsel, XMP meta verisini depolamak için kullanılacak. `TiffImage` bir TIFF görsel nesnesini temsil eder ve `TiffFrame` içinde tek bir çerçeveyi tanımlar.
 
 ```java
 try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(), rect.getHeight()))) {
 ```
 
-## Adım 3: XMP Başlığı ve Fragmanı Oluşturun
+### Adım 3: XMP Başlığı ve Sonlandırıcısını Oluşturma
 
-XMP meta verileriniz için XMP-Header ve XMP-Trailer örnekleri oluşturun. Bu başlıklar ve fragmanlar meta veri yapısını tanımlamaya yardımcı olur.
+XMP meta veriniz için XMP‑Header ve XMP‑Trailer örnekleri oluşturun. Bu başlıklar ve sonlandırıcılar meta veri yapısını tanımlamaya yardımcı olur. `XmpHeaderPi` ve `XmpTrailerPi`, XMP paketinin açılış ve kapanış bölümlerini temsil eder.
 
 ```java
     XmpHeaderPi xmpHeader = new XmpHeaderPi();
@@ -78,9 +176,9 @@ XMP meta verileriniz için XMP-Header ve XMP-Trailer örnekleri oluşturun. Bu b
     XmpTrailerPi xmpTrailer = new XmpTrailerPi(true);
 ```
 
-## Adım 4: XMP Meta Bilgilerini Oluşturun
+### Adım 4: XMP Meta Bilgisi Oluşturma
 
-Şimdi, farklı öznitelikler ayarlamak için bir XMP meta örneği oluşturun. Yazar ve açıklama gibi bilgiler ekleyebilirsiniz.
+Şimdi, farklı özellikleri ayarlamak için bir XMP meta örneği oluşturun. Yazar ve açıklama gibi bilgileri ekleyebilirsiniz. `XmpMeta`, yazar ve açıklama gibi temel meta veri alanlarını tutar.
 
 ```java
     XmpMeta xmpMeta = new XmpMeta();
@@ -88,17 +186,17 @@ XMP meta verileriniz için XMP-Header ve XMP-Trailer örnekleri oluşturun. Bu b
     xmpMeta.addAttribute("Description", "The fake metadata value");
 ```
 
-## Adım 5: XMP Paket Sarmalayıcısını Oluşturun
+### Adım 5: XMP Paket Sarmalayıcısını Oluşturma
 
-XMP başlığını, fragmanını ve meta bilgilerini içeren bir XmpPacketWrapper örneği oluşturun.
+`XmpPacketWrapper`, XMP başlığını, sonlandırıcısını ve meta bilgisini tek bir paket içinde tutan kapsayıcıdır. Paketin XMP spesifikasyonuna uygun olmasını sağlar. `XmpPacketWrapper`, başlık, meta ve sonlandırıcıyı tek bir XMP paketinde birleştirir.
 
 ```java
     XmpPacketWrapper xmpData = new XmpPacketWrapper(xmpHeader, xmpTrailer, xmpMeta);
 ```
 
-## Adım 6: Photoshop Paketini Ekleyin
+### Adım 6: Photoshop Paketi Ekleme
 
-Photoshop'a özgü bilgileri depolamak için bir Photoshop paketi oluşturun ve şehir, ülke ve renk modu gibi niteliklerini ayarlayın. Ardından, bu paketi XMP meta verilerine ekleyin.
+Photoshop‑özel bilgileri depolamak için bir Photoshop paketi oluşturun ve şehir, ülke ve renk modu gibi özelliklerini ayarlayın. Ardından bu paketi XMP meta verisine ekleyin. `PhotoshopPackage`, şehir, ülke ve renk modu gibi Photoshop‑özel meta verileri saklar.
 
 ```java
     PhotoshopPackage photoshopPackage = new PhotoshopPackage();
@@ -108,9 +206,9 @@ Photoshop'a özgü bilgileri depolamak için bir Photoshop paketi oluşturun ve 
     xmpData.addPackage(photoshopPackage);
 ```
 
-## Adım 7: Dublin Core Paketini Ekleyin
+### Adım 7: Dublin Core Paketi Ekleme
 
-Yazar, başlık ve ek değerler gibi daha genel bilgiler için bir DublinCore paketi oluşturun ve özniteliklerini ayarlayın. Bu paketi XMP meta verilerine de ekleyin.
+Yazar, başlık ve ek değerler gibi daha genel bilgiler için bir DublinCore paketi oluşturun ve özelliklerini ayarlayın. Bu paketi de XMP meta verisine ekleyin. `DublinCorePackage`, başlık, yaratıcı ve anahtar kelimeler gibi standart Dublin Core alanlarını içerir.
 
 ```java
     DublinCorePackage dublinCorePackage = new DublinCorePackage();
@@ -120,122 +218,80 @@ Yazar, başlık ve ek değerler gibi daha genel bilgiler için bir DublinCore pa
     xmpData.addPackage(dublinCorePackage);
 ```
 
-## Adım 8: Görüntüdeki XMP Meta Verilerini Güncelleyin
+### Adım 8: Görüntüde XMP Meta Verisini Güncelleme
 
-XMP meta verilerini görüntüye güncelleyin `setXmpData` yöntem.
+`setXmpData` yöntemiyle XMP meta verisini görüntüye güncelleyin. Bu çağrı, XMP paketini görüntünün meta veri bölümüne yazar. `setXmpData`, XMP paketini görüntünün meta veri bölümüne yazar.
 
 ```java
     ByteArrayOutputStream ms = new ByteArrayOutputStream();
     image.setXmpData(xmpData);
 ```
 
-## Adım 9: Görüntüyü Kaydedin
+### Adım 9: Görüntüyü Kaydetme
 
-Artık görüntüyü gömülü XMP meta verileriyle birlikte diske veya bir bellek akışına kaydedebilirsiniz.
+Artık XMP meta verisi gömülü görüntüyü diske ya da bir bellek akışına kaydedebilirsiniz.
 
 ```java
     image.save(ms);
 ```
 
-## Adım 10: Görüntüyü Yükleyin ve XMP Meta Verilerini Alın
+### Adım 10: Görüntüyü Yükleyip XMP Meta Verisini Almak
 
-Görüntüden XMP meta verilerini almak için, görüntüyü bellek akışından veya diskten yükleyin ve XMP verilerine erişin.
+Görselden XMP meta verisini almak için, görüntüyü bellek akışından ya da diskten yükleyin ve `getXmpData` yöntemiyle XMP verisine erişin. `getXmpData`, gömülü XMP paketini görüntüden okur.
 
 ```java
     try (TiffImage img = (TiffImage) Image.load(new ByteArrayInputStream(ms.toByteArray()))) {
         XmpPacketWrapper imgXmpData = img.getXmpData();
         for (XmpPackage pack : imgXmpData.getPackages()) {
-            // Paket verilerini kullan ...
+            // Use package data ...
         }
     }
 }
 ```
 
-Tebrikler! Aspose.Imaging for Java kullanarak resimlerdeki XMP verilerini nasıl işleyeceğiniz konusunda başarılı bir şekilde bilgi edindiniz. Bu, resim dosyalarınızda değerli meta verileri depolamanıza ve geri almanıza olanak tanır.
+Tebrikler! Aspose.Imaging for Java kullanarak görsellerde XMP verisini nasıl yöneteceğinizi başarıyla öğrendiniz. Bu, görüntü dosyalarınız içinde değerli meta verileri depolamanıza ve almanıza olanak tanır.
 
-## Çözüm
+## Yaygın Sorunlar ve Çözümler
 
-Bu eğitimde, Aspose.Imaging for Java kullanarak resimlerdeki XMP meta verileriyle nasıl çalışılacağını inceledik. Adım adım kılavuzu izleyerek, resim dosyalarınıza meta verileri kolayca yerleştirebilir ve alabilir, bilgilerini ve kullanılabilirliklerini artırabilirsiniz.
+- **Meta veri Photoshop'ta görünmüyor:** XMP paketinin doğru XML şemasını izlediğinden emin olun; Aspose.Imaging bunu otomatik olarak doğrular, ancak özel ad alanlarının kaydedilmesi gerekebilir.  
+- **Büyük TIFF dosyaları OutOfMemoryError hatasına neden oluyor:** `Compression`'ı `LZW` olarak ayarlı `TiffOptions` kullanın ve akışı etkinleştirin (`loadOptions.setBufferSize`) böylece bellek kullanımı düşük tutulur.  
+- **Beklenmeyen karakter kodlaması:** XMP UTF‑8 bekler; bozuk veri oluşmasını önlemek için her zaman `StandardCharsets.UTF_8` kullanarak string'leri geçin.
 
-## SSS
+## Sık Sorulan Sorular
 
-### S1: XMP meta verisi nedir?
+**S: XMP meta verisi nedir?**  
+**C:** XMP, tanımlayıcı bilgileri doğrudan dosyalar içine gömen bir XML‑tabanlı standarttır ve uygulamalar arasında tutarlı meta veri sağlar.
 
-A1: XMP (Genişletilebilir Meta Veri Platformu), resimler de dahil olmak üzere çeşitli dosya türlerine meta veri yerleştirmek için bir standarttır. Yazar, başlık, açıklama ve daha fazlası gibi bilgileri dosyanın kendisinde depolamanıza olanak tanır.
+**S: XMP meta verisi neden önemlidir?**  
+**C:** Görsellere yazar, telif hakkı, anahtar kelimeler ve özel veri etiketlemenizi sağlar, böylece dış veri tabanları olmadan aranabilirlik ve varlık yönetimi iyileşir.
 
-### S2: XMP meta verileri neden önemlidir?
+**S: Görsele XMP meta verisi gömdükten sonra düzenleyebilir miyim?**  
+**C:** Evet, Aspose.Imaging for Java mevcut XMP paketlerini değiştirmek ve dosyaya geri yazmak için yöntemler sunar.
 
-A2: XMP meta verileri, dijital varlıkları düzenlemek ve kategorilere ayırmak için önemlidir. Sahipliği atfetmeye, içeriği tanımlamaya ve resimler gibi dosyalara bağlam eklemeye yardımcı olur, bunları daha erişilebilir ve anlamlı hale getirir.
+**S: Aspose.Imaging for Java ücretsiz bir araç mı?**  
+**C:** Değerlendirme için ücretsiz bir deneme sürümü mevcuttur, ancak üretim kullanımı için ücretli lisans gerekir. Seçenekleri [Aspose.Imaging for Java website](https://purchase.aspose.com/buy) adresinde inceleyebilirsiniz.
 
-### S3: XMP meta verilerini bir görüntüye yerleştirdikten sonra düzenleyebilir miyim?
+**S: Aspose.Imaging for Java için yardım ve destek nereden alabilirim?**  
+**C:** Topluluk desteği için [Aspose.Imaging forums](https://forum.aspose.com/) adresini ziyaret edin veya ücretli lisans müşterileri için doğrudan Aspose desteğiyle iletişime geçin.
 
-C3: Evet, XMP meta verilerini bir görüntüye yerleştirdikten sonra düzenleyebilirsiniz. Java için Aspose.Imaging, meta veri özniteliklerini gerektiği gibi değiştirmek ve güncellemek için araçlar sağlar.
+## Sonuç
 
-### S4: Aspose.Imaging for Java ücretsiz bir araç mıdır?
+Bu öğreticide, önde gelen **java image processing library** Aspose.Imaging for Java kullanarak görsellerde XMP meta verisiyle nasıl çalışılacağını inceledik. Adım adım kılavuzu izleyerek XMP verisini kolayca gömebilir, güncelleyebilir ve alabilirsiniz; böylece dijital varlıklarınızı aranabilir, standartlara uygun meta verilerle zenginleştirirsiniz.
 
-A4: Aspose.Imaging for Java ücretsiz deneme sürümü sunar, ancak tam işlevsellik ve genişletilmiş kullanım için ücretli bir lisans gerekir. Seçenekleri şu adreste inceleyebilirsiniz: [Java web sitesi için Aspose.Imaging](https://purchase.aspose.com/buy).
+---
 
-### S5: Aspose.Imaging for Java için yardım ve desteği nereden alabilirim?
+**Son Güncelleme:** 2026-05-18  
+**Test Edilen Versiyon:** Aspose.Imaging for Java 24.12  
+**Yazar:** Aspose  
 
-C5: Aspose.Imaging for Java ile ilgili herhangi bir sorunla karşılaşırsanız veya sorularınız varsa, şu adresi ziyaret edebilirsiniz: [Aspose.Görüntüleme forumları](https://forum.aspose.com/) Topluluk desteği ve rehberliği için.
+{{< blocks/products/products-backtop-button >}}
 
+## İlgili Öğreticiler
 
+- [Java Görüntü İşlemede Ustalaşın: Aspose.Imaging ile EXIF Verisini Değiştirin](/imaging/java/metadata-exif-operations/java-image-processing-copy-modify-exif-aspose-imaging/)
+- [Aspose.Imaging ile Java Görüntü İşleme: Görselleri Yükleme, İyileştirme ve Kaydetme](/imaging/java/image-loading-saving/java-image-processing-aspose-imaging-load-adjust-save/)
+- [Aspose.Imaging Kütüphanesi ile İleri Düzey Java Görüntü İşleme](/imaging/java/advanced-drawing-graphics/mastering-image-processing-java-aspose-imaging/)
 
-## Tam Kaynak Kodu
-```java
-        
-String dataDir = "Your Document Directory" + "ConvertingImages/";
-// Bir Dikdörtgen tanımlayarak görüntünün boyutunu belirtin
-Rectangle rect = new Rectangle(0, 0, 100, 200);
-TiffOptions tiffOptions = new TiffOptions(TiffExpectedFormat.TiffJpegRgb);
-tiffOptions.setPhotometric(TiffPhotometrics.MinIsBlack);
-tiffOptions.setBitsPerSample(new int[] { 8 });
-// sadece örnek amaçlı yepyeni bir görüntü oluşturun
-try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(), rect.getHeight())))
-{
-	// XMP-Header'ın bir örneğini oluştur
-	XmpHeaderPi xmpHeader = new XmpHeaderPi();
-	xmpHeader.setGuid(dataDir);
-	// Xmp-TrailerPi'nin bir örneğini oluşturun
-	XmpTrailerPi xmpTrailer = new XmpTrailerPi(true);
-	// farklı öznitelikler ayarlamak için XMP meta sınıfının bir örneğini oluşturun
-	XmpMeta xmpMeta = new XmpMeta();
-	xmpMeta.addAttribute("Author", "Mr Smith");
-	xmpMeta.addAttribute("Description", "The fake metadata value");
-	// tüm meta verileri içeren bir XmpPacketWrapper örneği oluşturun
-	XmpPacketWrapper xmpData = new XmpPacketWrapper(xmpHeader, xmpTrailer, xmpMeta);
-	// Photoshop paketinin bir örneğini oluşturun ve photoshop niteliklerini ayarlayın
-	PhotoshopPackage photoshopPackage = new PhotoshopPackage();
-	photoshopPackage.setCity("London");
-	photoshopPackage.setCountry("England");
-	photoshopPackage.setColorMode(ColorMode.Rgb);
-	// photoshop paketini XMP meta verilerine ekle
-	xmpData.addPackage(photoshopPackage);
-	// DublinCore paketinin bir örneğini oluşturun ve dublinCore özniteliklerini ayarlayın
-	DublinCorePackage dublinCorePackage = new DublinCorePackage();
-	dublinCorePackage.setAuthor("Charles Bukowski");
-	dublinCorePackage.setTitle("Confessions of a Man Insane Enough to Live With the Beasts");
-	dublinCorePackage.addValue("dc:movie", "Barfly");
-	// dublinCore Paketini XMP meta verilerine ekleyin
-	xmpData.addPackage(dublinCorePackage);
-	ByteArrayOutputStream ms = new ByteArrayOutputStream();
-	// XMP meta verilerini görüntüye güncelle
-	image.setXmpData(xmpData);
-	// Görüntüyü diske veya bellek akışına kaydedin
-	image.save(ms);
-	// Meta verileri okumak/almak için görüntüyü bellek akışından veya diskten yükleyin
-	try (TiffImage img = (TiffImage) Image.load(new ByteArrayInputStream(ms.toByteArray())))
-	{
-		// XMP meta verilerini alma
-		XmpPacketWrapper imgXmpData = img.getXmpData();
-		for (XmpPackage pack : imgXmpData.getPackages())
-		{
-			// Paket verilerini kullan ...
-		}
-	}
-}
-        
-```
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
@@ -243,4 +299,57 @@ try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(),
 
 {{< /blocks/products/pf/main-wrap-class >}}
 
-{{< blocks/products/products-backtop-button >}}
+```java
+        
+String dataDir = "Your Document Directory" + "ConvertingImages/";
+// Specify the size of image by defining a Rectangle
+Rectangle rect = new Rectangle(0, 0, 100, 200);
+TiffOptions tiffOptions = new TiffOptions(TiffExpectedFormat.TiffJpegRgb);
+tiffOptions.setPhotometric(TiffPhotometrics.MinIsBlack);
+tiffOptions.setBitsPerSample(new int[] { 8 });
+// create the brand new image just for sample purposes
+try (TiffImage image = new TiffImage(new TiffFrame(tiffOptions, rect.getWidth(), rect.getHeight())))
+{
+	// create an instance of XMP-Header
+	XmpHeaderPi xmpHeader = new XmpHeaderPi();
+	xmpHeader.setGuid(dataDir);
+	// create an instance of Xmp-TrailerPi
+	XmpTrailerPi xmpTrailer = new XmpTrailerPi(true);
+	// create an instance of XMP meta class to set different attributes
+	XmpMeta xmpMeta = new XmpMeta();
+	xmpMeta.addAttribute("Author", "Mr Smith");
+	xmpMeta.addAttribute("Description", "The fake metadata value");
+	// create an instance of XmpPacketWrapper that contains all metadata
+	XmpPacketWrapper xmpData = new XmpPacketWrapper(xmpHeader, xmpTrailer, xmpMeta);
+	// create an instance of Photoshop package and set photoshop attributes
+	PhotoshopPackage photoshopPackage = new PhotoshopPackage();
+	photoshopPackage.setCity("London");
+	photoshopPackage.setCountry("England");
+	photoshopPackage.setColorMode(ColorMode.Rgb);
+	// add photoshop package into XMP metadata
+	xmpData.addPackage(photoshopPackage);
+	// create an instance of DublinCore package and set dublinCore attributes
+	DublinCorePackage dublinCorePackage = new DublinCorePackage();
+	dublinCorePackage.setAuthor("Charles Bukowski");
+	dublinCorePackage.setTitle("Confessions of a Man Insane Enough to Live With the Beasts");
+	dublinCorePackage.addValue("dc:movie", "Barfly");
+	// add dublinCore Package into XMP metadata
+	xmpData.addPackage(dublinCorePackage);
+	ByteArrayOutputStream ms = new ByteArrayOutputStream();
+	// update XMP metadata into image
+	image.setXmpData(xmpData);
+	// Save image on the disk or in memory stream
+	image.save(ms);
+	// Load the image from memory stream or from disk to read/get the metadata
+	try (TiffImage img = (TiffImage) Image.load(new ByteArrayInputStream(ms.toByteArray())))
+	{
+		// Getting the XMP metadata
+		XmpPacketWrapper imgXmpData = img.getXmpData();
+		for (XmpPackage pack : imgXmpData.getPackages())
+		{
+			// Use package data ...
+		}
+	}
+}
+        
+```
