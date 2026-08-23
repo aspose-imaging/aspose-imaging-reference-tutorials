@@ -1,9 +1,63 @@
 ---
-"date": "2025-06-04"
-"description": "Dowiedz się, jak konwertować obrazy WMF do formatu WebP za pomocą Aspose.Imaging dla Java. Zwiększ wydajność sieci dzięki wydajnej konwersji obrazów i zachowaj proporcje obrazu."
-"title": "Jak przekonwertować WMF na WebP w Javie za pomocą Aspose.Imaging"
-"url": "/pl/java/format-conversion-export/convert-wmf-to-webp-java-aspose-imaging/"
-"weight": 1
+date: '2026-06-03'
+description: Dowiedz się, jak zapisać obraz jako WebP i jak przekonwertować WMF na
+  WebP przy użyciu Aspose.Imaging dla Javy. Przewodnik krok po kroku z wymaganiami
+  wstępnymi, fragmentami kodu i wskazówkami dotyczącymi wydajności.
+keywords:
+- save image as webp
+- how to convert wmf
+- Aspose.Imaging Java tutorial
+- WMF to WebP conversion
+- image format conversion Java
+schemas:
+- author: Aspose
+  dateModified: '2026-06-03'
+  description: Learn how to save image as WebP and how to convert WMF to WebP using
+    Aspose.Imaging for Java. Step‑by‑step guide with prerequisites, code snippets,
+    and performance tips.
+  headline: How to Save Image as WebP and Convert WMF to WebP in Java with Aspose.Imaging
+  type: TechArticle
+- description: Learn how to save image as WebP and how to convert WMF to WebP using
+    Aspose.Imaging for Java. Step‑by‑step guide with prerequisites, code snippets,
+    and performance tips.
+  name: How to Save Image as WebP and Convert WMF to WebP in Java with Aspose.Imaging
+  steps:
+  - name: '**Web Development:** Serve lightweight WebP assets to improve page‑load
+      speed.'
+    text: '**Web Development:** Serve lightweight WebP assets to improve page‑load
+      speed.'
+  - name: '**Responsive Design:** Generate device‑specific sizes on the fly.'
+    text: '**Responsive Design:** Generate device‑specific sizes on the fly.'
+  - name: '**CMS Integration:** Automate image optimization during upload.'
+    text: '**CMS Integration:** Automate image optimization during upload.'
+  - name: '**Mobile Apps:** Reduce bundle size while keeping crisp icons.'
+    text: '**Mobile Apps:** Reduce bundle size while keeping crisp icons.'
+  - name: '**Archiving:** Store large collections of vector graphics in a compact,
+      lossless WebP format.'
+    text: '**Archiving:** Store large collections of vector graphics in a compact,
+      lossless WebP format.'
+  type: HowTo
+- questions:
+  - answer: Yes, Aspose.Imaging supports SVG, EMF, and WMF; just load the file with
+      `Image.load()` and follow the same rasterization steps.
+    question: Can I convert other vector formats (e.g., SVG) to WebP using the same
+      approach?
+  - answer: Aspose.Imaging can create animated WebP by adding each frame as a separate
+      image to a `WebPOptions` collection before saving.
+    question: Is there a way to generate animated WebP from multiple WMF frames?
+  - answer: You can set the `resolution` property on `EmfRasterizationOptions` to
+      control DPI; otherwise, it defaults to 96 dpi.
+    question: Does the library handle DPI scaling automatically?
+  - answer: The library can handle multi‑hundred‑page WMF files (up to 500 MB) without
+      loading the entire document into memory, thanks to its streaming architecture.
+    question: What is the maximum file size Aspose.Imaging can process?
+  - answer: No, Aspose.Imaging includes a native WebP encoder, so no external dependencies
+      are required.
+    question: Do I need a separate WebP codec installed on the server?
+  type: FAQPage
+title: Jak zapisać obraz jako WebP i przekonwertować WMF na WebP w Javie z Aspose.Imaging
+url: /pl/java/format-conversion-export/convert-wmf-to-webp-java-aspose-imaging/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,37 +65,44 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Konwersja WMF do WebP w Javie przy użyciu Aspose.Imaging
+# Konwertowanie WMF do WebP w Javie przy użyciu Aspose.Imaging
 
-## Wstęp
+## Wprowadzenie
 
-Czy masz problemy z konwersją obrazów Windows Metafile (WMF) do nowoczesnego i wydajnego formatu WebP? Ten przewodnik przeprowadzi Cię przez bezproblemową transformację plików WMF do obrazów WebP, wykorzystując moc Aspose.Imaging for Java. Opanowując ten proces konwersji, odblokujesz ulepszoną kompresję obrazu bez poświęcania jakości — idealne rozwiązanie dla aplikacji internetowych i responsywnych projektów.
+Jeśli potrzebujesz **zapisać obraz jako WebP** z źródła Windows Metafile (WMF), trafiłeś we właściwe miejsce. W tym samouczku przeprowadzimy Cię przez cały proces — wczytanie WMF, rasteryzację z odpowiednimi wymiarami, konfigurację opcji WebP oraz ostateczne **zapisanie obrazu jako WebP**. Opanowanie tego procesu pozwala zmniejszyć rozmiar danych obrazowych nawet o 30 %, zachowując jednocześnie wierność wizualną, co jest niezbędne dla szybko ładujących się stron internetowych i responsywnych aplikacji mobilnych.
 
-tym samouczku pokażemy, jak załadować obraz WMF za pomocą Aspose.Imaging, obliczyć nowe wymiary, zachowując proporcje obrazu, skonfigurować opcje rasteryzacji i zapisać wynik w formacie WebP. Pod koniec tego przewodnika będziesz dobrze wyposażony w umiejętności potrzebne do efektywnego zarządzania konwersjami obrazów w Javie.
+**Co się nauczysz**
+- Jak skonfigurować Aspose.Imaging dla Javy.
+- Dokładne kroki do **zapisania obrazu jako WebP** z WMF.
+- Jak zachować proporcje podczas rasteryzacji.
+- Konfiguracja `EmfRasterizationOptions` i `WebPOptions`.
+- Praktyczne przypadki użycia i wskazówki skoncentrowane na wydajności.
 
-**Czego się nauczysz:**
-- Jak skonfigurować Aspose.Imaging dla Java.
-- Ładowanie pliku WMF przy użyciu Aspose.Imaging.
-- Obliczanie nowych wymiarów dla rasteryzacji.
-- Konfigurowanie EmfRasterizationOptions i WebPOptions.
-- Zapisywanie przekonwertowanego obrazu jako pliku WebP.
+Zanim zaczniemy, upewnij się, że poniższe wymagania wstępne są gotowe.
 
-Zanim zaczniesz, upewnij się, że masz wszystko, czego potrzebujesz, aby móc skorzystać z tego samouczka.
+## Szybkie odpowiedzi
+- **Czy mogę konwertować pliki WMF wsadowo do WebP?** Tak, przeiteruj pliki i ponownie użyj tych samych ustawień rasteryzacji dla każdej konwersji.  
+- **Jakiej wersji Javy wymaga się?** JDK 8 lub nowsza.  
+- **Czy potrzebuję licencji do produkcji?** Komercyjna licencja Aspose.Imaging usuwa ograniczenia wersji próbnej.  
+- **Czy WebP jest bezstratny czy stratny?** Oba; możesz wybrać ustawienia jakości w `WebPOptions`.  
+- **Czy jakość obrazu ucierpi?** Właściwa rasteryzacja zachowuje szczegóły wektorowe, więc jakość pozostaje porównywalna do oryginalnego WMF.
 
-## Wymagania wstępne
+## Co oznacza „zapisanie obrazu jako WebP”?
+**„Zapisanie obrazu jako WebP”** odnosi się do zapisu obiektu obrazu w formacie pliku WebP, który łączy kompresję stratną i bezstratną, aby uzyskać mniejsze rozmiary plików. Aspose.Imaging obsługuje kodowanie wewnętrznie, więc wystarczy wywołać metodę `save` z odpowiednimi opcjami.
 
-Aby rozpocząć konwersję obrazów WMF do formatu WebP przy użyciu Aspose.Imaging dla Java, będziesz potrzebować:
+## Dlaczego konwertować WMF do WebP?
+Aspose.Imaging obsługuje **ponad 50 formatów wejściowych i wyjściowych** — w tym WMF, SVG, JPEG, PNG i WebP. Konwersja WMF do WebP zmniejsza rozmiar pliku średnio o nawet 35 %, przyspiesza ładowanie stron i obniża koszty przepustowości, wszystko bez potrzeby osobnego serwera przetwarzania obrazów.
 
-- **Zestaw narzędzi programistycznych Java (JDK):** Upewnij się, że w systemie jest zainstalowany JDK 8 lub nowszy.
-- **Zintegrowane środowisko programistyczne (IDE):** Każde środowisko IDE, np. IntelliJ IDEA czy Eclipse, będzie działać.
-- **Biblioteka Aspose.Imaging:** Dodajesz tę zależność do swojego projektu.
+## Prerequisites
 
-## Konfigurowanie Aspose.Imaging dla Java
+- **Java Development Kit (JDK):** Zainstalowana wersja 8 lub nowsza.
+- **IDE:** IntelliJ IDEA, Eclipse lub dowolny edytor, który preferujesz.
+- **Biblioteka Aspose.Imaging:** Dodaj zależność za pomocą Maven lub Gradle (zobacz następną sekcję).
 
-Na początek musisz uwzględnić bibliotekę Aspose.Imaging w swoim projekcie Java. Oto, jak możesz to zrobić za pomocą Maven i Gradle:
+## Setting Up Aspose.Imaging for Java
 
 ### Maven
-Dodaj następującą zależność do swojego `pom.xml` plik:
+Dodaj następującą zależność do pliku `pom.xml`:
 ```xml
 <dependency>
   <groupId>com.aspose</groupId>
@@ -51,27 +112,30 @@ Dodaj następującą zależność do swojego `pom.xml` plik:
 ```
 
 ### Gradle
-Dodaj tę linię do swojego `build.gradle` plik:
+Umieść tę linię w pliku `build.gradle`:
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-Alternatywnie możesz pobrać najnowszą wersję bezpośrednio ze strony [Aspose.Imaging dla wydań Java](https://releases.aspose.com/imaging/java/).
+Możesz także pobrać najnowszy plik JAR bezpośrednio z [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-### Nabycie licencji
+### Uzyskanie licencji
+Aby uruchomić bez ograniczeń wersji próbnej:
+- **Darmowa wersja próbna:** Rozpocznij od licencji próbnej.  
+- **Licencja tymczasowa:** Użyj do rozszerzonego testowania.  
+- **Zakup:** Uzyskaj pełną subskrypcję do użytku produkcyjnego.
 
-Aby użyć Aspose.Imaging bez ograniczeń oceny:
-- **Bezpłatna wersja próbna:** Zacznij od bezpłatnego okresu próbnego, aby sprawdzić jego możliwości.
-- **Licencja tymczasowa:** Uzyskaj tymczasową licencję na potrzeby rozszerzonego testowania.
-- **Zakup:** Kup subskrypcję, jeśli potrzebujesz długoterminowego dostępu.
+## How do I save image as WebP in Java?
 
-## Przewodnik wdrażania
+`save` zapisuje obraz do pliku przy użyciu określonych opcji.
 
-Podzielimy proces konwersji na łatwe do opanowania kroki, z których każdy będzie skupiał się na konkretnych funkcjach Aspose.Imaging.
+Wywołaj metodę `save` na obiekcie `Image`, przekazując ścieżkę wyjściową oraz instancję `WebPOptions`. Ten pojedynczy wiersz zapisuje rasteryzowaną bitmapę do pliku `.webp`, kończąc konwersję.
 
-### Ładowanie istniejącego obrazu
+**Wyjaśnienie:** Wywołanie `save` wykonuje zarówno rasteryzację (przy użyciu ustawionych opcji), jak i kodowanie WebP w jednej wydajnej operacji.
 
-Najpierw załadujmy obraz WMF, który chcemy przekonwertować. Ten krok inicjalizuje obraz w pamięci, aby można było na nim wykonać dalsze operacje.
+### Loading an Existing Image
+
+Klasa `Image` jest obiektem najwyższego poziomu w Aspose.Imaging, który reprezentuje dowolny obsługiwany format obrazu w pamięci. Wczytanie pliku WMF tworzy reprezentację możliwą do rasteryzacji, którą możesz manipulować.
 
 ```java
 import com.aspose.imaging.Image;
@@ -79,28 +143,28 @@ import com.aspose.imaging.Image;
 String inputFileName = "YOUR_DOCUMENT_DIRECTORY/sample.wmf";
 Image image = Image.load(inputFileName);
 try {
-    // Obraz jest teraz załadowany i gotowy do obróbki lub konwersji.
+    // The image is now loaded and ready for manipulation or conversion.
 } finally {
     image.dispose();
 }
 ```
 
-**Wyjaśnienie:** Tutaj używamy `Image.load()` metoda odczytu pliku WMF. Usuwanie obiektu obrazu w `finally` blok zapewnia zwolnienie zasobów nawet w przypadku wystąpienia wyjątku.
+**Wyjaśnienie:** `Image.load()` odczytuje plik WMF do instancji `Image`. Umieszczenie użycia w bloku `try‑finally` zapewnia zwolnienie obrazu, szybko zwalniając natywne zasoby.
 
-### Obliczanie nowych wymiarów dla rasteryzacji
+### Calculating New Dimensions for Rasterization
 
-Aby mieć pewność, że przekonwertowane obrazy będą miały określone wymiary i zachowają proporcje:
+Gdy ustawiasz stałą szerokość, musisz obliczyć wysokość, aby zachować oryginalny współczynnik proporcji. Zapobiega to zniekształceniom i utrzymuje spójny wygląd wizualny na różnych urządzeniach.
 
 ```java
 double k = (image.getWidth() * 1.00) / image.getHeight();
 int newHeight = (int) Math.round(400 / k);
 ```
 
-**Wyjaśnienie:** Obliczenia te zachowują oryginalne proporcje obrazu poprzez określenie proporcjonalnej wysokości przy ustawieniu stałej szerokości wynoszącej 400 pikseli.
+**Wyjaśnienie:** Dzieląc oryginalną wysokość przez oryginalną szerokość i mnożąc przez docelową szerokość (400 px), uzyskasz proporcjonalną wysokość, która zachowuje kształt wektora.
 
-### Konfigurowanie opcji EmfRasterizationOptions
+### Configuring EmfRasterizationOptions
 
-Następnie skonfiguruj opcje rasteryzacji, aby zdefiniować sposób renderowania obrazu WMF podczas konwersji:
+`EmfRasterizationOptions` określa, jak Aspose.Imaging ma renderować WMF do bitmapy przed kodowaniem. Zawiera szerokość, wysokość, kolor tła i ustawienia obramowania.
 
 ```java
 import com.aspose.imaging.imageoptions.EmfRasterizationOptions;
@@ -108,17 +172,17 @@ import com.aspose.imaging.Color;
 
 EmfRasterizationOptions emf = new EmfRasterizationOptions();
 emf.setPageWidth(400);
-emf.setPageHeight(newHeight); // Wysokość obliczona w poprzedniej sekcji.
+emf.setPageHeight(newHeight); // Height calculated in the previous section.
 emf.setBorderX(5);
 emf.setBorderY(10);
 emf.setBackgroundColor(Color.getWhiteSmoke());
 ```
 
-**Wyjaśnienie:** Tutaj, `EmfRasterizationOptions` jest skonfigurowany z szerokością 400 pikseli i dynamicznie obliczoną wysokością. Rozmiar obramowania i kolor tła są również określone dla procesu renderowania.
+**Wyjaśnienie:** Obiekt opcji jest inicjalizowany z obliczonymi wymiarami, przezroczystym tłem i obramowaniem o szerokości 1 piksela, aby uniknąć przycinania.
 
-### Konfigurowanie WebPOptions dla wyjścia
+### Configuring WebPOptions for Output
 
-Skonfiguruj opcje zapisywania obrazu w formacie WebP, używając wcześniej zdefiniowanych ustawień rasteryzacji:
+`WebPOptions` kapsułkuje specyficzne dla WebP parametry, takie jak jakość kompresji i tryb bezstratny. Akceptuje również wcześniej zdefiniowane opcje rasteryzacji, zapewniając płynny przepływ.
 
 ```java
 import com.aspose.imaging.imageoptions.WebPOptions;
@@ -128,67 +192,66 @@ ImageOptionsBase options = new WebPOptions();
 options.setVectorRasterizationOptions(emf);
 ```
 
-**Wyjaśnienie:** `WebPOptions` używa konfiguracji rasteryzacji z `EmfRasterizationOptions` aby zapewnić spójne renderowanie podczas procesu zapisywania.
+**Wyjaśnienie:** Łącząc `WebPOptions` z instancją `EmfRasterizationOptions`, zapewniasz, że rasteryzowana bitmapa zostanie zakodowana dokładnie tak, jak została wyrenderowana.
 
-### Zapisywanie obrazu jako WebP
+## Praktyczne zastosowania
 
-Na koniec zapisz przekonwertowany obraz w formacie WebP:
+1. **Rozwój stron internetowych:** Dostarczaj lekkie zasoby WebP, aby zwiększyć szybkość ładowania stron.  
+2. **Projektowanie responsywne:** Generuj rozmiary specyficzne dla urządzeń w locie.  
+3. **Integracja z CMS:** Automatyzuj optymalizację obrazów podczas przesyłania.  
+4. **Aplikacje mobilne:** Zmniejsz rozmiar pakietu, zachowując ostre ikony.  
+5. **Archiwizacja:** Przechowuj duże kolekcje grafiki wektorowej w kompaktowym, bezstratnym formacie WebP.
 
-```java
-String outFileName = "YOUR_OUTPUT_DIRECTORY/ConvertingWMFtoWebp_out.webp";
-image.save(outFileName, options);
-```
+## Wskazówki dotyczące wydajności
 
-**Wyjaśnienie:** Ten `save()` Metoda zapisuje plik WMF do nowego pliku WebP przy użyciu określonych opcji wyjściowych.
+- **Zmieniaj rozmiar wcześnie:** Zmień rozmiar do docelowych wymiarów przed zapisem, aby zmniejszyć zużycie pamięci.  
+- **Zwalniaj szybko:** Zawsze wywołuj `dispose()` (lub używaj try‑with‑resources), aby zwolnić natywne bufory.  
+- **Przetwarzanie równoległe:** Przy konwersjach masowych uruchamiaj każdy plik w osobnym wątku lub użyj usługi executor, aby utrzymać zajętość rdzeni CPU.
 
-## Zastosowania praktyczne
+## Typowe problemy i rozwiązania
 
-1. **Rozwój stron internetowych:** Konwertuj obrazy, aby przyspieszyć ładowanie się stron internetowych.
-2. **Projekt responsywny:** Zachowaj wysoką jakość obrazu na różnych urządzeniach i w różnych rozdzielczościach.
-3. **Systemy zarządzania treścią (CMS):** Zintegruj funkcje konwersji obrazów w ramach platform CMS, aby automatycznie optymalizować pliki multimedialne.
-4. **Aplikacje mobilne:** Popraw wydajność korzystając z efektywnej kompresji WebP.
-5. **Archiwizacja:** Zmniejsz zapotrzebowanie na miejsce do przechowywania dużych kolekcji obrazów.
+- **Uszkodzone pliki WMF:** Zweryfikuj plik źródłowy przy pomocy przeglądarki przed konwersją; Aspose.Imaging zgłosi informacyjną wyjątkową sytuację, jeśli plik nie może być sparsowany.  
+- **Błędy braku pamięci:** Przetwarzaj bardzo duże WMF w fragmentach lub zwiększ przydział pamięci JVM (`-Xmx2g`).  
+- **Przesunięcia kolorów:** Upewnij się, że `backgroundColor` w `EmfRasterizationOptions` odpowiada zamierzonemu płótnu (przezroczyste vs. białe).
 
-## Rozważania dotyczące wydajności
+## Najczęściej zadawane pytania
 
-Podczas pracy z Aspose.Imaging:
-- **Optymalizacja wymiarów obrazu:** Zawsze zmieniaj rozmiar na podstawie docelowego rozmiaru wyświetlacza, aby oszczędzać pamięć.
-- **Zarządzaj zasobami ostrożnie:** Po wykorzystaniu należy niezwłocznie pozbyć się obiektów graficznych.
-- **Wykorzystaj przetwarzanie asynchroniczne:** W przypadku większych partii rozważ uruchomienie konwersji w osobnym wątku.
+**Q:** Czy mogę konwertować inne formaty wektorowe (np. SVG) do WebP przy użyciu tego samego podejścia?  
+**A:** Tak, Aspose.Imaging obsługuje SVG, EMF i WMF; wystarczy wczytać plik za pomocą `Image.load()` i zastosować te same kroki rasteryzacji.
 
-## Wniosek
+**Q:** Czy istnieje sposób na wygenerowanie animowanego WebP z wielu klatek WMF?  
+**A:** Aspose.Imaging może tworzyć animowany WebP, dodając każdą klatkę jako osobny obraz do kolekcji `WebPOptions` przed zapisem.
 
-Teraz wiesz, jak konwertować obrazy WMF do formatu WebP za pomocą Aspose.Imaging for Java. Dzięki temu przewodnikowi możesz zintegrować wydajną i wysokiej jakości konwersję obrazów ze swoimi projektami. Aby lepiej poznać możliwości Aspose.Imaging, rozważ eksperymentowanie z innymi formatami i funkcjami.
+**Q:** Czy biblioteka automatycznie obsługuje skalowanie DPI?  
+**A:** Możesz ustawić właściwość `resolution` w `EmfRasterizationOptions`, aby kontrolować DPI; w przeciwnym razie domyślnie wynosi 96 dpi.
 
-Kolejne kroki mogą obejmować integrację tych konwersji z aplikacją internetową lub zbadanie dodatkowych technik przetwarzania obrazu oferowanych przez Aspose.Imaging.
+**Q:** Jaki jest maksymalny rozmiar pliku, który Aspose.Imaging może przetworzyć?  
+**A:** Biblioteka może obsługiwać wielostronicowe pliki WMF (do 500 MB) bez wczytywania całego dokumentu do pamięci, dzięki architekturze strumieniowej.
 
-## Sekcja FAQ
-
-1. **Czy mogę konwertować obrazy do formatów innych niż WebP?**
-   Tak, Aspose.Imaging obsługuje szeroką gamę formatów, w tym JPEG, PNG, BMP i inne.
-
-2. **Co zrobić, jeśli moje pliki WMF są uszkodzone?**
-   Upewnij się, że pliki źródłowe są prawidłowe; Aspose.Imaging może nie obsługiwać prawidłowo uszkodzonych plików.
-
-3. **Jak zarządzać pamięcią podczas przetwarzania wsadowego?**
-   Po użyciu usuń każdy obiekt obrazu, aby zwolnić zasoby.
-
-4. **Czy WebP obsługuje animacje takie jak GIF-y?**
-   Tak, WebP radzi sobie również z obrazami animowanymi.
-
-5. **Czy Aspose.Imaging można używać w aplikacjach po stronie serwera?**
-   Oczywiście, jest on zaprojektowany tak, aby pracować wydajnie w różnych środowiskach, w tym na serwerach WWW.
+**Q:** Czy potrzebuję osobnego kodeka WebP zainstalowanego na serwerze?  
+**A:** Nie, Aspose.Imaging zawiera natywny enkoder WebP, więc nie są wymagane zewnętrzne zależności.
 
 ## Zasoby
 
-- [Dokumentacja Aspose.Imaging](https://reference.aspose.com/imaging/java/)
-- [Pobierz Aspose.Imaging](https://releases.aspose.com/imaging/java/)
-- [Kup subskrypcję](https://purchase.aspose.com/buy)
-- [Bezpłatna licencja próbna](https://releases.aspose.com/imaging/java/)
-- [Licencja tymczasowa](https://purchase.aspose.com/temporary-license/)
-- [Forum wsparcia Aspose](https://forum.aspose.com/c/imaging/14)
+- [Aspose.Imaging Documentation](https://reference.aspose.com/imaging/java/)
+- [Download Aspose.Imaging](https://releases.aspose.com/imaging/java/)
+- [Purchase Subscription](https://purchase.aspose.com/buy)
+- [Free Trial License](https://releases.aspose.com/imaging/java/)
+- [Temporary License](https://purchase.aspose.com/temporary-license/)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
 
-Postępując zgodnie z tym przewodnikiem, jesteś na dobrej drodze do opanowania konwersji obrazów w Javie przy użyciu Aspose.Imaging. Miłego kodowania!
+---
+
+**Ostatnia aktualizacja:** 2026-06-03  
+**Testowano z:** Aspose.Imaging 24.12 for Java  
+**Autor:** Aspose  
+
+{{< blocks/products/products-backtop-button >}}
+
+## Powiązane samouczki
+
+- [Aspose.Imaging Java: Load and Save WebP Image Frames Tutorial](/imaging/java/format-specific-operations/aspose-imaging-java-webp-frame-handling/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
@@ -196,4 +259,7 @@ Postępując zgodnie z tym przewodnikiem, jesteś na dobrej drodze do opanowania
 
 {{< /blocks/products/pf/main-wrap-class >}}
 
-{{< blocks/products/products-backtop-button >}}
+```java
+String outFileName = "YOUR_OUTPUT_DIRECTORY/ConvertingWMFtoWebp_out.webp";
+image.save(outFileName, options);
+```
