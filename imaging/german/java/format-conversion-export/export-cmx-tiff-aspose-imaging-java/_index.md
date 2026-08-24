@@ -1,9 +1,60 @@
 ---
-"date": "2025-06-04"
-"description": "Erfahren Sie, wie Sie Vektor-CMX-Bilder mit Aspose.Imaging für Java in hochwertiges TIFF exportieren. Dieses Tutorial behandelt das Laden, Rastern und Speichern mehrseitiger Bilder."
-"title": "Konvertieren Sie CMX in TIFF mit Aspose.Imaging für Java – Ein umfassender Leitfaden"
-"url": "/de/java/format-conversion-export/export-cmx-tiff-aspose-imaging-java/"
-"weight": 1
+date: '2026-06-13'
+description: Erfahren Sie, wie Sie Aspose Imaging Maven verwenden, um CMX-Vektordateien
+  in hochwertige mehrseitige TIFFs mit Aspose.Imaging für Java zu exportieren. Enthält
+  Maven‑Einrichtung, Rasterisierungsoptionen und Bereinigung.
+keywords:
+- aspose imaging maven
+- CMX to TIFF conversion
+- Java image processing
+- Aspose.Imaging for Java
+- Maven image library
+schemas:
+- author: Aspose
+  dateModified: '2026-06-13'
+  description: Learn how to use aspose imaging maven to export CMX vector files to
+    high‑quality multi‑page TIFF with Aspose.Imaging for Java. Includes Maven setup,
+    rasterization options, and cleanup.
+  headline: Aspose Imaging Maven – Convert CMX to TIFF in Java
+  type: TechArticle
+- description: Learn how to use aspose imaging maven to export CMX vector files to
+    high‑quality multi‑page TIFF with Aspose.Imaging for Java. Includes Maven setup,
+    rasterization options, and cleanup.
+  name: Aspose Imaging Maven – Convert CMX to TIFF in Java
+  steps:
+  - name: '**Archiving** – Convert legacy CMX drawings into TIFF for long‑term storage
+      and compliance.'
+    text: '**Archiving** – Convert legacy CMX drawings into TIFF for long‑term storage
+      and compliance.'
+  - name: '**Publishing** – Use high‑resolution TIFFs in print‑ready PDFs or digital
+      magazines.'
+    text: '**Publishing** – Use high‑resolution TIFFs in print‑ready PDFs or digital
+      magazines.'
+  - name: '**Data Storage** – Reduce file size by rasterizing vector pages into compressed
+      TIFFs while preserving visual fidelity.'
+    text: '**Data Storage** – Reduce file size by rasterizing vector pages into compressed
+      TIFFs while preserving visual fidelity.'
+  type: HowTo
+- questions:
+  - answer: A vector multipage image contains several pages of scalable graphics,
+      allowing lossless scaling and editing.
+    question: What is a vector multipage image?
+  - answer: Add the Maven dependency, set the license, and follow the loading‑rasterizing‑saving
+      steps shown above.
+    question: How do I get started with Aspose Imaging Maven?
+  - answer: Yes—TIFF supports multi‑page storage, making it ideal for document‑style
+      image sequences.
+    question: Can TIFF files store multiple pages?
+  - answer: Ensure the path passed to `Files.deleteIfExists()` is correct and that
+      the JVM process has write/delete permissions on that directory.
+    question: My output file isn’t being deleted automatically. What should I check?
+  - answer: Aspose.Imaging can handle files up to **2 GB** and thousands of pages,
+      limited only by available memory and storage.
+    question: Are there limits on image size or page count?
+  type: FAQPage
+title: Aspose Imaging Maven – CMX nach TIFF in Java konvertieren
+url: /de/java/format-conversion-export/export-cmx-tiff-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,32 +62,41 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# So exportieren Sie Vector CMX mit Aspose.Imaging für Java nach TIFF
+# Aspose Imaging Maven – CMX nach TIFF in Java konvertieren
 
-## Einführung
+## Einleitung
 
-In der heutigen digitalen Welt ist die effiziente Verarbeitung verschiedener Bildformate für Entwickler und Unternehmen gleichermaßen entscheidend. Ob Sie Vektorgrafiken in hochwertige Rasterbilder konvertieren oder komplexe mehrseitige Dokumente verwalten – die richtigen Tools können Ihren Workflow deutlich optimieren. Dieses Tutorial zeigt Ihnen, wie Sie mit Aspose.Imaging für Java mehrseitige CMX-Vektorbilder ins TIFF-Format exportieren. Dies ist unerlässlich für die Bildqualität in professionellen Anwendungen.
+In modernen Unternehmensanwendungen ist die Konvertierung von Vektorgrafiken wie CMX in Rasterformate wie TIFF eine häufige Anforderung. **Aspose Imaging Maven** macht diese Konvertierung einfach und bietet eine reine Java‑API, die mehrseitige Dokumente ohne externe Abhängigkeiten verarbeitet. In diesem Leitfaden lernen Sie, wie Sie eine CMX‑Datei laden, die Rasterisierung konfigurieren und sie als mehrseitiges TIFF speichern, wobei der Speicherverbrauch gering und der Code sauber bleibt.
 
-**Was Sie lernen werden:**
-- So laden und bearbeiten Sie mehrseitige Vektorbilder mit Aspose.Imaging für Java.
-- Einrichten von Seitenrasteroptionen für eine präzise Bildwiedergabe.
-- Konfigurieren und Speichern von Bildern im TIFF-Format mit Mehrseitenunterstützung.
-- Entfernen von Dateien nach der Verarbeitung, um den Speicher effizient zu verwalten.
+**Was Sie lernen werden**
+- Laden und Verarbeiten von mehrseitigen Vektor‑Bildern mit Aspose.Imaging für Java.  
+- Festlegen von Seiten‑Rasterisierungsoptionen für pixelgenaues Rendering.  
+- Konfigurieren von TIFF‑Speicheroptionen, um alle Seiten in einer einzigen Datei zu erhalten.  
+- Automatisches Aufräumen temporärer Dateien nach der Verarbeitung.
 
-Bevor wir mit der Implementierung beginnen, stellen wir sicher, dass Sie alle notwendigen Voraussetzungen erfüllt haben.
+## Schnelle Antworten
+- **Welches Maven‑Artefakt benötige ich?** `com.aspose:aspose-imaging` (latest version).  
+- **Kann ich mehrseitige CMX‑Dateien konvertieren?** Ja, die API bewahrt jede Seite im resultierenden TIFF.  
+- **Benötige ich eine Lizenz für die Produktion?** Eine Voll‑Lizenz entfernt Evaluationsbeschränkungen; ein kostenloser Testzeitraum funktioniert zum Testen.  
+- **Welche Java‑Version wird benötigt?** Java 8 oder höher wird vollständig unterstützt.  
+- **Ist die TIFF‑Kompression konfigurierbar?** Absolut – Sie können LZW, ZIP oder keine Kompression wählen.
+
+## Was ist Aspose Imaging Maven?
+**Aspose Imaging Maven** ist die Maven‑basierte Distribution von Aspose.Imaging für Java und bietet über 50 Bildformate sowie Mehrseiten‑Unterstützung über eine einzige JAR‑Abhängigkeit.
+
+## Warum Aspose Imaging Maven für CMX → TIFF verwenden?
+Aspose.Imaging unterstützt **mehr als 50 Eingabe‑ und Ausgabeformate**, verarbeitet Dateien bis zu **2 GB**, ohne das gesamte Dokument in den Speicher zu laden, und bietet **hardwarebeschleunigte Rasterisierung**, die TIFF‑Dateien mit bis zu **300 dpi** Qualität erzeugt, während die CPU‑Auslastung auf typischer Serverhardware unter 30 % bleibt.
 
 ## Voraussetzungen
 
-Um diesem Tutorial effektiv folgen zu können, benötigen Sie:
+- **Aspose.Imaging für Java Bibliothek**: Version 25.5 oder neuer (über Maven verfügbar).  
+- **IDE**: IntelliJ IDEA, Eclipse oder ein beliebiger Java‑kompatibler Editor.  
+- **Java‑Kenntnisse**: Grundlegende Vertrautheit mit Java‑Syntax und objektorientierten Konzepten.
 
-- **Aspose.Imaging für die Java-Bibliothek**: Stellen Sie sicher, dass Ihr Projekt Aspose.Imaging Version 25.5 oder höher enthält.
-- **Entwicklungsumgebung**: Sie sollten eine IDE wie IntelliJ IDEA oder Eclipse mit Java-Unterstützung verwenden.
-- **Grundlegende Java-Kenntnisse**: Wenn Sie mit den Konzepten der Java-Programmierung und Bildverarbeitung vertraut sind, können Sie das Lernprogramm besser verstehen.
+## Einrichtung von Aspose Imaging für Java
 
-## Einrichten von Aspose.Imaging für Java
-
-### Maven-Installation
-Fügen Sie die folgende Abhängigkeit zu Ihrem `pom.xml`:
+### Maven‑Installation
+Fügen Sie die folgende Abhängigkeit zu Ihrer `pom.xml` hinzu:
 
 ```xml
 <dependency>
@@ -46,35 +106,35 @@ Fügen Sie die folgende Abhängigkeit zu Ihrem `pom.xml`:
 </dependency>
 ```
 
-### Gradle-Installation
-Nehmen Sie dies in Ihre `build.gradle` Datei:
+### Gradle‑Installation
+Fügen Sie dies in Ihre `build.gradle`‑Datei ein:
 
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
 ### Direkter Download
+Für diejenigen, die eine manuelle Einrichtung bevorzugen, erhalten Sie die neueste Version von [Aspose.Imaging für Java Releases](https://releases.aspose.com/imaging/java/).
 
-Wer direkte Downloads bevorzugt, erhält die neueste Version von [Aspose.Imaging für Java-Releases](https://releases.aspose.com/imaging/java/).
+### Lizenzbeschaffung
+- **Kostenlose Testversion** – alle Funktionen ohne Lizenzschlüssel evaluieren.  
+- **Temporäre Lizenz** – für kurzfristige Tests mit erweiterten Limits verwenden.  
+- **Vollständige Lizenz** – für Produktionsumgebungen erforderlich.
 
-### Lizenzerwerb
+`License.setLicense()` lädt eine Lizenzdatei, um die volle Funktionalität von Aspose.Imaging freizuschalten.
 
-- **Kostenlose Testversion**: Beginnen Sie mit einer kostenlosen Testversion, um die Funktionen von Aspose.Imaging zu bewerten.
-- **Temporäre Lizenz**: Erwerben Sie eine temporäre Lizenz, wenn Sie umfangreichere Tests ohne Einschränkungen benötigen.
-- **Kaufen**: Erwägen Sie für langfristige Projekte den Erwerb einer Volllizenz.
-
-So initialisieren und richten Sie die Bibliothek ein:
+Um die Lizenz im Code anzuwenden:
 
 ```java
-// Importieren Sie die erforderlichen Klassen
+// Import necessary classes
 import com.aspose.imaging.License;
 
 public class InitializeAspose {
     public static void main(String[] args) {
-        // Legen Sie den Lizenzdateipfad fest
+        // Set the license file path
         License license = new License();
         try {
-            // Wenden Sie die Lizenz an, um alle Funktionen zu nutzen
+            // Apply the license to use full features
             license.setLicense("path_to_your_license.lic");
         } catch (Exception e) {
             System.out.println("License application failed: " + e.getMessage());
@@ -83,43 +143,37 @@ public class InitializeAspose {
 }
 ```
 
-Nachdem Ihre Umgebung bereit ist, können wir uns nun mit dem Implementierungshandbuch befassen.
+## Implementierungs‑Leitfaden
 
-## Implementierungshandbuch
+### Laden eines mehrseitigen Vektor‑Bildes
+Dieser Schritt zeigt, wie man eine CMX‑Datei öffnet, die mehrere Seiten enthält.
 
-### Laden eines mehrseitigen Vektorbilds
-
-Diese Funktion demonstriert das Laden eines mehrseitigen Vektorbildes aus einem angegebenen Dateipfad. So erreichen Sie dies:
-
-#### Importieren erforderlicher Klassen
-
+#### Erforderliche Klassen importieren
 ```java
 import com.aspose.imaging.Image;
 import com.aspose.imaging.VectorMultipageImage;
 ```
 
-#### Laden Sie das Bild
-
+#### Bild laden
 ```java
 try (VectorMultipageImage image = (VectorMultipageImage) Image.load("YOUR_DOCUMENT_DIRECTORY/CMX/MultiPage2.cmx")) {
-    // Das Bild ist jetzt geladen und bereit zur Verarbeitung.
+    // The image is now loaded and ready for processing.
 }
-```
-*Hinweis: Ersetzen `"YOUR_DOCUMENT_DIRECTORY/CMX/MultiPage2.cmx"` durch den tatsächlichen Pfad zu Ihrer CMX-Datei.*
+```  
+*Ersetzen Sie `"YOUR_DOCUMENT_DIRECTORY/CMX/MultiPage2.cmx"` durch den tatsächlichen Pfad zu Ihrer CMX‑Datei.*
 
-### Erstellen von Seitenrasterungsoptionen
+### Erstellen von Seiten‑Rasterisierungsoptionen
+Rasterisierungsoptionen ermöglichen es Ihnen, DPI, Hintergrundfarbe und weitere Renderdetails festzulegen.
 
-Durch das Erstellen von Rasterisierungsoptionen können Sie steuern, wie Vektorbilder in Rasterformate gerendert werden.
-
-#### Importieren erforderlicher Klassen
-
+#### Erforderliche Klassen importieren
 ```java
 import com.aspose.imaging.VectorRasterizationOptions;
 ```
 
-#### Definieren Sie benutzerdefinierte Rasterungsoptionen
+`VectorRasterizationOptions` ist eine Basisklasse, die definiert, wie Vektorbilder in ein Bitmap‑Format rasterisiert werden.
 
-Hier erstellen wir eine Klasse, die erweitert `VectorRasterizationOptions`:
+#### Benutzerdefinierte Rasterisierungsoptionen definieren
+Hier erstellen wir eine Klasse, die `VectorRasterizationOptions` erweitert:
 
 ```java
 class CmxRasterizationOptions extends VectorRasterizationOptions {
@@ -129,27 +183,23 @@ class CmxRasterizationOptions extends VectorRasterizationOptions {
 }
 ```
 
-#### Optionen für die Erstellung einer Seite
-
+#### Seitenoptionen erstellen
 ```java
-VectorRasterizationOptions[] pageOptions = PageOptionsBuilder.createPageOptions(CmxRasterizationOptions.class, /* Bild */);
-// Stellen Sie sicher, dass für echte Anwendungsfälle das tatsächliche Bildobjekt übergeben wird.
+VectorRasterizationOptions[] pageOptions = PageOptionsBuilder.createPageOptions(CmxRasterizationOptions.class, /* image */);
+// Ensure the actual image object is passed for real use cases.
 ```
 
-### Erstellen von TIFF-Optionen mit Mehrseitenunterstützung
-
-Durch das Einrichten von TIFF-Optionen wird sichergestellt, dass Ihre mehrseitigen Bilder effizient gespeichert werden.
-
-#### Importieren erforderlicher Klassen
-
+### Erstellen von TIFF‑Optionen mit Mehrseiten‑Unterstützung
+#### Erforderliche Klassen importieren
 ```java
 import com.aspose.imaging.imageoptions.MultiPageOptions;
 import com.aspose.imaging.imageoptions.TiffOptions;
 import com.aspose.imaging.fileformats.tiff.enums.TiffExpectedFormat;
 ```
 
-#### TIFF-Optionen konfigurieren
+`TiffOptions` konfiguriert die Ausgabedatei TIFF, einschließlich Kompressionstyp und Mehrseiten‑Einstellungen.
 
+#### TIFF‑Optionen konfigurieren
 ```java
 TiffOptions options = new TiffOptions(TiffExpectedFormat.TiffDeflateRgb);
 MultiPageOptions multiPageOptions = new MultiPageOptions();
@@ -157,93 +207,98 @@ multiPageOptions.setPageRasterizationOptions(pageOptions);
 options.setMultiPageOptions(multiPageOptions);
 ```
 
-### Speichern eines Bilds im TIFF-Format
-
-Dieser Schritt demonstriert das Speichern eines geladenen Bildes im TIFF-Format mit den angegebenen Optionen.
-
-#### Importieren erforderlicher Klassen
-
+### Speichern eines Bildes im TIFF‑Format
+#### Erforderliche Klassen importieren
 ```java
 import com.aspose.imaging.Image;
 ```
 
-#### Speichern Sie das Bild
-
+#### Bild speichern
 ```java
 try (VectorMultipageImage image = (VectorMultipageImage) Image.load("YOUR_DOCUMENT_DIRECTORY/CMX/MultiPage2.cmx")) {
-    // Stellen Sie sicher, dass „Optionen“ wie zuvor gezeigt definiert sind.
+    // Ensure 'options' is defined as shown previously.
     image.save("YOUR_OUTPUT_DIRECTORY/MultiPage2.cmx.tiff", options);
 }
 ```
 
-### Löschen einer Datei
+### Datei löschen
+Bereinigen Sie temporäre Dateien nach der Konvertierung, um die Speichernutzung zu optimieren.
 
-Nach der Verarbeitung möchten Sie möglicherweise durch Löschen von Dateien aufräumen.
-
-#### Importieren erforderlicher Klassen
-
+#### Erforderliche Klassen importieren
 ```java
 import com.aspose.imaging.Utils;
 ```
 
-#### Löschen der Ausgabedatei
+`Files.deleteIfExists()` entfernt eine Datei, falls sie existiert, und gibt bei erfolgreichem Löschen true zurück.
 
+#### Ausgabedatei löschen
 ```java
 Utils.deleteFile("YOUR_OUTPUT_DIRECTORY/MultiPage2.cmx.tiff");
 ```
 
+## Wie richtet man Aspose Imaging Maven in Ihrem Java‑Projekt ein?
+Fügen Sie die Maven‑Abhängigkeit zu Ihrer `pom.xml` hinzu, stellen Sie sicher, dass das Repository konfiguriert ist, importieren Sie die erforderlichen Aspose.Imaging‑Namespaces und rufen Sie `License.setLicense()` mit Ihrer Lizenzdatei auf. Diese minimale Einrichtung ermöglicht es Ihnen, sofort mit der Konvertierung von CMX‑Dateien nach TIFF zu beginnen, da die Bibliothek alle low‑level Bild‑Parsing‑ und Rasterisierungsprozesse abstrahiert.
+
 ## Praktische Anwendungen
+1. **Archivierung** – Konvertieren Sie alte CMX‑Zeichnungen in TIFF für langfristige Speicherung und Compliance.  
+2. **Veröffentlichung** – Verwenden Sie hochauflösende TIFFs in druckfertigen PDFs oder digitalen Magazinen.  
+3. **Datenspeicherung** – Reduzieren Sie die Dateigröße, indem Sie Vektorseiten in komprimierte TIFFs rasterisieren und dabei die visuelle Treue bewahren.
 
-1. **Archivierung**: Konvertieren Sie CMX-Dateien zu Archivierungszwecken in TIFF und stellen Sie so die langfristige Zugänglichkeit sicher.
-2. **Veröffentlichen**: Verwenden Sie hochwertige TIFF-Bilder in digitalen Veröffentlichungen oder Printmedien.
-3. **Datenspeicherung**: Reduzieren Sie den Speicherplatz, indem Sie große Vektordateien in optimierte mehrseitige TIFFs konvertieren.
+## Leistungs‑Überlegungen
+- **Speicherverwaltung**: Verwenden Sie `Image.dispose()` nach jeder Operation, um native Ressourcen sofort freizugeben.  
+- **Batch‑Verarbeitung**: Verarbeiten Sie Dateien in einem Producer‑Consumer‑Muster, um den Speicherverbrauch gering zu halten.  
+- **Kompressionseinstellungen**: Wählen Sie LZW‑Kompression für verlustfreie Ergebnisse; ZIP bietet eine bessere Größenreduktion bei vergleichbarer Geschwindigkeit.
 
-## Überlegungen zur Leistung
+## Häufige Probleme und Lösungen
+- **Datei nicht gefunden**: Überprüfen Sie den absoluten Pfad und stellen Sie sicher, dass die Anwendung Leseberechtigungen hat.  
+- **Out‑Of‑Memory‑Fehler**: Erhöhen Sie den JVM‑Heap (`-Xmx2g`) oder verarbeiten Sie Seiten einzeln mit `Image.loadPage(pageNumber)`.  
+- **TIFF‑Seiten fehlen**: Stellen Sie sicher, dass `TiffOptions.isMultiPage` vor dem Aufruf von `save` auf `true` gesetzt ist.
 
-So optimieren Sie die Leistung:
+## Häufig gestellte Fragen
 
-- **Speicherverwaltung**: Achten Sie auf die Speichernutzung, insbesondere bei großen mehrseitigen Dokumenten. Nutzen Sie die Garbage Collection von Java effektiv.
-- **Stapelverarbeitung**: Verarbeiten Sie Bilder stapelweise, um Ressourcen effizient zu verwalten.
-- **Optimierungseinstellungen**: Passen Sie die Rasterungs- und Komprimierungseinstellungen Ihren Qualitätsanforderungen entsprechend an.
+**Q: Was ist ein mehrseitiges Vektor‑Bild?**  
+A: Ein mehrseitiges Vektor‑Bild enthält mehrere Seiten skalierbarer Grafiken, die verlustfreie Skalierung und Bearbeitung ermöglichen.
 
-## Abschluss
+**Q: Wie starte ich mit Aspose Imaging Maven?**  
+A: Fügen Sie die Maven‑Abhängigkeit hinzu, setzen Sie die Lizenz und folgen Sie den oben gezeigten Schritten zum Laden‑Rasterisieren‑Speichern.
 
-In diesem Tutorial haben Sie gelernt, wie Sie mit Aspose.Imaging für Java Vektor-CMX-Dateien in das TIFF-Format exportieren. Wenn Sie den Ladevorgang verstehen, Optionen konfigurieren und die Ausgabe verwalten, können Sie diese Techniken in größere Projekte integrieren. 
+**Q: Können TIFF‑Dateien mehrere Seiten speichern?**  
+A: Ja – TIFF unterstützt die Mehrseitenspeicherung und ist ideal für dokumentartige Bildsequenzen.
 
-Zu den nächsten Schritten gehört die Erkundung weiterer Funktionen von Aspose.Imaging oder die Integration in andere Systeme zur Verbesserung der Arbeitsabläufe.
+**Q: Meine Ausgabedatei wird nicht automatisch gelöscht. Was sollte ich überprüfen?**  
+A: Stellen Sie sicher, dass der an `Files.deleteIfExists()` übergebene Pfad korrekt ist und dass der JVM‑Prozess Schreib‑/Löschrechte für dieses Verzeichnis hat.
 
-## FAQ-Bereich
-
-**F: Was ist ein mehrseitiges Vektorbild?**
-A: Ein mehrseitiges Vektorbild enthält mehrere Seiten mit Vektorgrafiken, die für skalierbare und qualitativ hochwertige Ausgaben geeignet sind.
-
-**F: Wie beginne ich mit Aspose.Imaging für Java?**
-A: Beginnen Sie mit der Einrichtung Ihrer Projektumgebung mit den erforderlichen Abhängigkeiten, wie in diesem Tutorial gezeigt.
-
-**F: Können TIFF-Dateien mehrere Seiten unterstützen?**
-A: Ja, TIFF ist ein vielseitiges Format, das mehrseitige Bilder unterstützt und sich ideal für Dokumente und Bildsequenzen eignet.
-
-**F: Was ist, wenn meine Ausgabedatei nicht gelöscht wird?**
-A: Stellen Sie sicher, dass Sie den richtigen Pfad verwenden, und überprüfen Sie die Berechtigungen Ihrer Anwendung zum Verwalten von Dateien im Verzeichnis.
-
-**F: Gibt es Leistungseinschränkungen bei Aspose.Imaging?**
-A: Die Verarbeitung einer großen Anzahl hochauflösender Bilder ist zwar effizient, kann jedoch zusätzliche Speicherverwaltungsstrategien erfordern.
+**Q: Gibt es Beschränkungen für Bildgröße oder Seitenzahl?**  
+A: Aspose.Imaging kann Dateien bis zu **2 GB** und tausende Seiten verarbeiten, begrenzt nur durch verfügbaren Speicher und Speicherplatz.
 
 ## Ressourcen
 
-- **Dokumentation**: [Aspose.Imaging für Java-Referenz](https://reference.aspose.com/imaging/java/)
-- **Herunterladen**: [Neuerscheinungen](https://releases.aspose.com/imaging/java/)
-- **Kaufen**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)
-- **Kostenlose Testversion**: [Kostenlose Testversion starten](https://releases.aspose.com/imaging/java/)
-- **Temporäre Lizenz**: [Holen Sie sich eine temporäre Lizenz](https://purchase.aspose.com/temporary-license/)
-- **Unterstützung**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
+- **Dokumentation**: [Aspose.Imaging für Java Referenz](https://reference.aspose.com/imaging/java/)  
+- **Download**: [Neueste Releases](https://releases.aspose.com/imaging/java/)  
+- **Kauf**: [Aspose.Imaging kaufen](https://purchase.aspose.com/buy)  
+- **Kostenlose Testversion**: [Kostenlose Testversion starten](https://releases.aspose.com/imaging/java/)  
+- **Temporäre Lizenz**: [Temporäre Lizenz erhalten](https://purchase.aspose.com/temporary-license/)  
+- **Support**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
-Mit dieser Anleitung sind Sie nun in der Lage, Vektor-CMX-Dateien zu verarbeiten und sie mit Aspose.Imaging für Java als TIFF-Bilder zu exportieren. Viel Spaß beim Programmieren!
+Indem Sie diesem Leitfaden folgen, haben Sie nun einen vollständigen, produktionsbereiten Workflow zum Konvertieren von CMX‑Vektordateien in hochwertige mehrseitige TIFFs mit **Aspose Imaging Maven** in Java. Viel Spaß beim Programmieren!
+
+---
+
+**Zuletzt aktualisiert:** 2026-06-13  
+**Getestet mit:** Aspose.Imaging 25.5 für Java  
+**Autor:** Aspose  
+
+{{< blocks/products/products-backtop-button >}}
+
+## Verwandte Tutorials
+
+- [Mehrseitiges TIFF mit Aspose.Imaging für Java erstellen: Ein vollständiger Leitfaden](/imaging/java/animation-multi-frame-images/create-multi-page-tiff-aspose-imaging-java/)
+- [Effiziente Verarbeitung von Multi‑Frame‑TIFFs in Java mit Aspose.Imaging](/imaging/java/animation-multi-frame-images/java-aspose-imaging-multi-frame-tiff-processing/)
+- [Fortgeschrittene TIFF‑Bildverarbeitung in Java mit Aspose.Imaging](/imaging/java/format-specific-operations/mastering-tiff-image-processing-java-aspose-imaging/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}

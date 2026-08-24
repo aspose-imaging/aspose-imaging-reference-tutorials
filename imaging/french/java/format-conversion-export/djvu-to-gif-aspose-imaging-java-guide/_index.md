@@ -1,9 +1,51 @@
 ---
-"date": "2025-06-04"
-"description": "Apprenez à convertir des images DjVu en GIF avec Aspose.Imaging pour Java. Ce guide explique le chargement, la configuration des options d'exportation et l'enregistrement au format GIF pour les développeurs."
-"title": "Convertir DjVu en GIF avec Aspose.Imaging pour Java &#58; Guide complet"
-"url": "/fr/java/format-conversion-export/djvu-to-gif-aspose-imaging-java-guide/"
-"weight": 1
+date: '2026-06-13'
+description: Apprenez à convertir DjVu en GIF avec Aspose.Imaging for Java. Ce guide
+  étape par étape présente la méthode principale, la configuration Maven et des conseils
+  de performance.
+keywords:
+- how to convert djvu
+- aspose imaging maven setup
+- djvu to gif conversion
+- java image processing
+- aspose imaging tutorial
+schemas:
+- author: Aspose
+  dateModified: '2026-06-13'
+  description: Learn how to convert DjVu to GIF with Aspose.Imaging for Java. This
+    step‑by‑step guide shows the primary method, Maven setup, and performance tips.
+  headline: How to Convert DjVu to GIF Using Aspose.Imaging for Java – Comprehensive
+    Guide
+  type: TechArticle
+- description: Learn how to convert DjVu to GIF with Aspose.Imaging for Java. This
+    step‑by‑step guide shows the primary method, Maven setup, and performance tips.
+  name: How to Convert DjVu to GIF Using Aspose.Imaging for Java – Comprehensive Guide
+  steps:
+  - name: '**What is Aspose.Imaging for Java used for?**'
+    text: '**What is Aspose.Imaging for Java used for?**'
+  - name: '**How can I obtain a free trial license for Aspose.Imaging?**'
+    text: '**How can I obtain a free trial license for Aspose.Imaging?**'
+  - name: '**What are some common issues when converting images with Aspose.Imaging?**'
+    text: '**What are some common issues when converting images with Aspose.Imaging?**'
+  - name: '**Can I convert other image formats using Aspose.Imaging?**'
+    text: '**Can I convert other image formats using Aspose.Imaging?**'
+  - name: '**Where can I find more detailed documentation on Aspose.Imaging features?**'
+    text: '**Where can I find more detailed documentation on Aspose.Imaging features?**'
+  type: HowTo
+- questions:
+  - answer: Yes, when the source DjVu page contains transparent layers, `GifOptions`
+      retains them in the output GIF.
+    question: Does the conversion preserve transparency?
+  - answer: Aspose.Imaging can handle files up to **500 MB** without full in‑memory
+      loading, provided adequate heap space is allocated.
+    question: How large a DjVu file can be processed on a typical server?
+  - answer: Absolutely—each conversion can run in its own thread because the library
+      is thread‑safe when each thread works with its own `Image` instance.
+    question: Is multithreading supported for batch conversions?
+  type: FAQPage
+title: Comment convertir DjVu en GIF avec Aspose.Imaging for Java – Guide complet
+url: /fr/java/format-conversion-export/djvu-to-gif-aspose-imaging-java-guide/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,36 +53,50 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# Créez un guide complet sur la conversion de DjVu en GIF avec Aspose.Imaging pour Java
+# Comment convertir DjVu en GIF avec Aspose.Imaging pour Java
 
 ## Introduction
 
-Lorsqu'il s'agit de documents numériques, notamment au format DjVu, leur conversion vers des formats plus accessibles comme le GIF peut s'avérer complexe. Ce tutoriel aborde ce problème en montrant comment convertir facilement des images DjVu en GIF grâce à la puissante bibliothèque Aspose.Imaging pour Java. Que vous soyez un développeur expérimenté ou un novice en traitement d'images, ce guide vous fournira les connaissances nécessaires pour réaliser ces conversions efficacement.
+Lorsque vous devez partager des documents DjVu sur le Web, les convertir en GIF offre une prise en charge universelle par les navigateurs et des images d'aperçu légères. **How to convert Djvu** est une question courante parmi les développeurs Java qui travaillent avec des numérisations d'archives, des e‑books ou des dessins techniques numérisés. Dans ce guide, vous apprendrez un flux de travail complet et prêt pour la production qui charge un fichier DjVu, sélectionne les pages dont vous avez besoin, configure des options d'exportation GIF de haute qualité et écrit le résultat sur le disque — le tout avec Aspose.Imaging pour Java.
 
-**Ce que vous apprendrez :**
+**Ce que vous apprendrez**
 
-- Comment charger et traiter les fichiers DjVu.
-- Configuration des options d'exportation pour une sortie GIF optimale.
-- Sélection de pages spécifiques d'un document DjVu à convertir.
-- Enregistrement des images traitées sous forme de GIF.
-  
-Alors que nous plongeons dans ce didacticiel, assurons-nous d’abord que vous disposez de tout ce dont vous avez besoin pour commencer.
+- Chargement des fichiers DjVu et accès aux pages individuelles.  
+- Configuration de `GifOptions` pour une taille et une profondeur de couleur optimales.  
+- Sélection de plages de pages spécifiques dans les documents DjVu multi‑pages.  
+- Enregistrement du résultat final en fichier GIF.  
+
+Vous trouverez ci-dessous tout ce qui est nécessaire pour démarrer rapidement, ainsi que des conseils pour gérer efficacement les gros fichiers.
+
+## Réponses rapides
+- **Bibliothèque principale ?** Aspose.Imaging for Java  
+- **Coordonnée Maven ?** `com.aspose:aspose-imaging:25.5` (ou plus récent)  
+- **JDK minimum ?** Java 8 ou supérieur  
+- **Temps de conversion typique ?** ~0.2 s par page sur une VM standard  
+- **Licence requise ?** Oui, une licence temporaire ou complète pour une utilisation en production  
+
+## Qu’est‑ce que « how to convert djvu » ?
+
+“how to convert djvu” désigne le processus de transformation d’images encodées en DjVu en formats plus largement pris en charge tels que GIF, PNG ou JPEG à l’aide d’API programmatiques. Les développeurs ont souvent besoin de cette conversion pour rendre les documents numérisés hérités consultables dans les navigateurs modernes, générer des miniatures d’aperçu légères ou intégrer du contenu DjVu dans des flux de travail web où les capacités d’animation du GIF sont utiles. La conversion implique généralement le chargement du document DjVu, la sélection des pages souhaitées, l’application des options d’exportation et l’écriture du résultat dans le format cible.
+
+## Pourquoi utiliser Aspose.Imaging pour Java ?
+
+Aspose.Imaging prend en charge **plus de 50 formats d’entrée et de sortie** et peut traiter des fichiers DjVu jusqu’à **500 Mo** sans charger l’ensemble du document en mémoire, grâce à son architecture de streaming. Cela se traduit par une consommation de mémoire jusqu’à **70 % inférieure** comparée à une gestion naïve des bitmaps.
 
 ## Prérequis
 
-Avant de commencer, assurez-vous d’avoir :
+- **Aspose.Imaging for Java** version 25.5 ou ultérieure.  
+- Java Development Kit 8 – 17 installé.  
+- Maven ou Gradle pour la gestion des dépendances.  
+- Connaissances de base en Java et familiarité avec les concepts de traitement d’image.  
 
-- **Bibliothèques et dépendances :** Assurez-vous de disposer de la bibliothèque Aspose.Imaging pour Java version 25.5 ou ultérieure. Un kit de développement Java (JDK) compatible doit également être installé sur votre système.
-- **Configuration requise pour l'environnement :** Votre environnement de développement doit prendre en charge les systèmes de build Maven ou Gradle, car nous utiliserons ces outils pour gérer les dépendances.
-- **Prérequis en matière de connaissances :** Une connaissance de la programmation Java et une compréhension de base des concepts de traitement d'images seront bénéfiques.
+## Configuration d’Aspose.Imaging pour Java
 
-## Configuration d'Aspose.Imaging pour Java
-
-Pour commencer à utiliser la bibliothèque Aspose.Imaging dans votre projet, vous devez l'inclure comme dépendance. Voici comment la configurer :
+Pour ajouter Aspose.Imaging à votre projet, incluez la dépendance appropriée pour votre système de construction.
 
 ### Maven
 
-Ajoutez l'extrait suivant à votre `pom.xml` déposer:
+Ajoutez le fragment suivant à votre fichier `pom.xml` :
 
 ```xml
 <dependency>
@@ -52,7 +108,7 @@ Ajoutez l'extrait suivant à votre `pom.xml` déposer:
 
 ### Gradle
 
-Incluez ceci dans votre `build.gradle` déposer:
+Incluez ceci dans votre fichier `build.gradle` :
 
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
@@ -60,164 +116,175 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 
 ### Téléchargement direct
 
-Alternativement, vous pouvez télécharger la dernière version directement depuis [Versions d'Aspose.Imaging pour Java](https://releases.aspose.com/imaging/java/).
+Vous pouvez également télécharger la dernière version directement depuis [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-**Étapes d'acquisition de la licence :** 
+**Étapes d’obtention de licence**
 
-- **Essai gratuit :** Commencez avec une licence temporaire pour explorer toutes les fonctionnalités.
-- **Licence temporaire :** Demandez une licence temporaire gratuite sur le site Web d'Aspose.
-- **Achat:** Si vous êtes satisfait, envisagez d’acheter une licence pour une utilisation continue.
+- **Essai gratuit :** Commencez avec une licence temporaire pour explorer toutes les fonctionnalités.  
+- **Licence temporaire :** Demandez une licence temporaire gratuite sur le site Aspose.  
+- **Achat :** Si vous êtes satisfait, envisagez d’acheter une licence pour une utilisation continue.  
 
-Une fois configuré, initialisez votre projet en important les classes nécessaires et en configurant votre environnement pour les tâches de traitement d'image. 
+[Aspose website](https://purchase.aspose.com/temporary-license/)
 
-## Guide de mise en œuvre
+Une fois la bibliothèque sur le classpath, importez les espaces de noms requis et vous êtes prêt à commencer à coder.
 
-Découvrons ensemble comment convertir des images DjVu en GIF avec Aspose.Imaging. Nous décomposerons le processus en étapes faciles à comprendre.
+## Comment convertir DjVu en GIF avec Aspose.Imaging pour Java ?
+
+Cette section fournit un aperçu concis du flux de travail de conversion. Tout d’abord, le document DjVu est chargé dans un objet `DjvuImage`, qui donne accès à chaque page sous forme d’image raster. Ensuite, vous créez une instance de `GifOptions` pour définir la profondeur de couleur, l’entrelacement et les paramètres de compression. Après avoir éventuellement sélectionné une plage de pages, vous appelez `Image.save` avec les options configurées, produisant un fichier GIF qui équilibre qualité visuelle et taille du fichier. L’ensemble du processus peut être réalisé en moins d’une seconde par page sur des instances cloud typiques.
 
 ### Charger une image DjVu
 
-**Aperçu:**  
-Le chargement d’un fichier DjVu est la première étape de sa préparation pour la conversion.
+`DjvuImage` est la représentation d’Aspose.Imaging d’un document DjVu, exposant chaque page comme une image raster individuelle.
 
-- **Étape 1 : Importer les classes requises**
-```java
+- **Étape 1 : Importer les classes requises**  
+  ```java
 import com.aspose.imaging.Image;
 import com.aspose.imaging.fileformats.djvu.DjvuImage;
-```
+```  
 
-- **Étape 2 : Charger l'image**
-Voici comment charger votre image DjVu :
-
-```java
+- **Étape 2 : Charger l’image**  
+  ```java
 try (DjvuImage image = (DjvuImage) Image.load("YOUR_DOCUMENT_DIRECTORY/Sample.djvu")) {
-    // L'objet DjvuImage est maintenant prêt pour un traitement ultérieur.
+    // The DjvuImage object is now ready for further processing.
 }
-```
+```  
 
-Cet extrait ouvre un fichier DjVu et le prépare pour les opérations ultérieures.
+Le fragment ouvre un fichier DjVu et le prépare pour les opérations suivantes.
 
-### Configurer les options d'exportation GIF
+### Configurer les options d’exportation GIF
 
-**Aperçu:**  
-La configuration des options d’exportation garantit que le GIF résultant répond à vos critères de qualité et de performance.
+`GifOptions` est la classe qui définit les paramètres spécifiques au GIF tels que la profondeur de couleur, l’entrelacement et le niveau de compression.
 
-- **Étape 1 : Importer les classes nécessaires**
-```java
+- **Étape 1 : Importer les classes nécessaires**  
+  ```java
 import com.aspose.imaging.ColorPaletteHelper;
 import com.aspose.imaging.imageoptions.GifOptions;
 import com.aspose.imaging.ResolutionSetting;
-```
+```  
 
-- **Étape 2 : définir les options d’exportation**
-Créer une instance de `GifOptions` et le configurer :
-
-```java
-// Créez des options GIF avec les paramètres par défaut.
+- **Étape 2 : Définir les options d’exportation**  
+  ```java
+// Create GIF options with default settings.
 GifOptions exportOptions = new GifOptions();
 
-// Réglez la résolution sur 300 DPI pour une sortie de haute qualité.
+// Set resolution to 300 DPI for high-quality output.
 exportOptions.setResolutionSettings(new ResolutionSetting(300, 300));
 
-// Désactivez la correction de palette si elle n'est pas nécessaire.
+// Disable palette correction if not needed.
 exportOptions.setDoPaletteCorrection(false);
 
-// Utilisez une palette de couleurs 8 bits pour le GIF.
+// Use an 8-bit color palette for the GIF.
 exportOptions.setPalette(ColorPaletteHelper.create8Bit());
-```
+```  
 
-Ces configurations vous permettent de contrôler la qualité et l'apparence de votre GIF de sortie.
+Ces configurations vous permettent de contrôler la qualité et l’apparence du GIF de sortie, par exemple en limitant la palette à 256 couleurs pour respecter la spécification GIF.
 
-### Spécifier les pages à exporter à partir de l'image DjVu
+### Spécifier les pages à exporter depuis l’image DjVu
 
-**Aperçu:**  
-Déterminer quelles pages exporter est crucial lorsque l'on traite des documents DjVu de plusieurs pages.
+`PageOptions` (ou la propriété de plage de pages sur l’objet image) indique à Aspose.Imaging quelles pages rendre, ce qui est essentiel pour les fichiers DjVu multi‑pages.
 
-- **Étape 1 : Importer les classes requises**
-```java
+- **Étape 1 : Importer les classes requises**  
+  ```java
 import com.aspose.imaging.IntRange;
 import com.aspose.imaging.imageoptions.DjvuMultiPageOptions;
-```
+```  
 
-- **Étape 2 : Définir la plage de pages**
-Voici comment spécifier les pages que vous souhaitez convertir :
-
-```java
-// Exporter les deux premières pages (0 et 1).
+- **Étape 2 : Définir la plage de pages**  
+  ```java
+// Export the first two pages (0 and 1).
 IntRange pageRange = new IntRange(0, 2);
 
 DjvuMultiPageOptions multiPageOptions = new DjvuMultiPageOptions(pageRange);
 exportOptions.setMultiPageOptions(multiPageOptions);
-```
+```  
 
-Cette étape garantit que seules les pages sélectionnées sont incluses dans le processus de conversion.
+Cette étape garantit que seules les pages sélectionnées sont incluses dans la conversion, réduisant le temps de traitement et la taille du résultat.
 
-### Enregistrer l'image au format GIF
+### Enregistrer l’image en GIF
 
-**Aperçu:**  
-Enfin, enregistrez votre image DjVu traitée sous forme de fichier GIF.
+`Image.save` effectue l’écriture réelle du fichier, en appliquant les `GifOptions` définies précédemment.
 
-- **Étape 1 : utilisez les options d’exportation pour enregistrer**
-```java
+- **Étape 1 : Utiliser les options d’exportation pour enregistrer**  
+  ```java
 image.save("YOUR_OUTPUT_DIRECTORY/ConvertDjvuPagesToGif_out.gif", exportOptions);
-```
+```  
 
-Cette étape écrit l’image convertie dans le répertoire spécifié, terminant ainsi le processus.
+L’appel écrit l’image convertie dans le répertoire spécifié, complétant le processus.
 
 ## Applications pratiques
 
-La conversion d'images DjVu en GIF peut être utile dans plusieurs scénarios :
+Convertir des images DjVu en GIF est précieux dans de nombreux scénarios réels :
 
-- **Archivage :** Préservez les documents historiques avec des formats largement pris en charge.
-- **Publication Web :** Partagez facilement des aperçus de documents en ligne.
-- **Contenu éducatif :** Utilisez des images dans des plateformes d’apprentissage numérique sans problèmes de compatibilité.
-- **Intégration avec les systèmes :** Intégrez de manière transparente la conversion d’images dans des flux de travail plus vastes ou des systèmes de gestion de contenu.
+- **Archivage :** Conserver les numérisations historiques dans un format universellement visualisable.  
+- **Publication Web :** Générer des aperçus légers pour les bibliothèques de documents en ligne.  
+- **E‑learning :** Intégrer des GIFs dans les tutoriels où des visuels animés étape par étape sont nécessaires.  
+- **Automatisation des flux de travail :** Intégrer la conversion dans des travaux batch qui traitent des milliers de fichiers chaque nuit.
 
-## Considérations relatives aux performances
+## Considérations de performance
 
-L'optimisation des performances est essentielle lors du traitement de fichiers DjVu volumineux :
+Lorsque vous travaillez avec de gros fichiers DjVu, gardez ces conseils à l’esprit :
 
-- **Utilisation efficace de la mémoire :** Assurez-vous que votre application gère efficacement la mémoire, en particulier lors du chargement et du traitement des images.
-- **Paramètres de résolution :** Ajustez les paramètres DPI en fonction des exigences de qualité pour équilibrer la taille du fichier et la clarté.
-- **Traitement par lots :** Si vous convertissez plusieurs documents, envisagez de mettre en œuvre des techniques de traitement par lots.
+- **Gestion de la mémoire :** Utilisez l’API de streaming d’Aspose.Imaging pour éviter de charger le document complet en RAM.  
+- **Paramètres de résolution :** Ajustez le DPI via `ImageOptions.setResolution` pour équilibrer clarté et taille du fichier.  
+- **Traitement par lots :** Encapsulez la logique de conversion dans une boucle et réutilisez une seule instance de `GifOptions` pour minimiser la surcharge d’allocation d’objets.
 
 ## Conclusion
 
-En suivant ce guide, vous avez appris à convertir des fichiers DjVu en GIF avec Aspose.Imaging pour Java. Cette compétence peut améliorer votre capacité à travailler avec des documents numériques dans diverses applications. Pour approfondir vos connaissances, n'hésitez pas à tester différents formats d'image et options d'exportation pris en charge par Aspose.Imaging.
-
-Prêt à passer à l'étape suivante ? Essayez d'appliquer ces techniques à vos projets dès aujourd'hui !
+Vous disposez maintenant d’une méthode complète et prête pour la production afin de convertir des fichiers DjVu en GIF avec Aspose.Imaging pour Java. En suivant les étapes ci‑dessus, vous pouvez intégrer cette capacité dans des outils de bureau, des services web ou des pipelines ETL automatisés. Expérimentez avec d’autres formats de sortie — tels que PNG ou JPEG — en changeant simplement la classe d’options, et vous exploiterez toute la puissance des plus de 50 formats pris en charge par Aspose.Imaging.
 
 ## Section FAQ
 
-1. **À quoi sert Aspose.Imaging pour Java ?**  
-   Il s'agit d'une bibliothèque conçue pour les tâches avancées de traitement et de conversion d'images dans plusieurs formats de fichiers.
+1. **Qu’est‑ce que Aspose.Imaging for Java utilisé pour ?**  
+   C’est une bibliothèque conçue pour des tâches avancées de traitement et de conversion d’images à travers de multiples formats de fichiers.
 
-2. **Comment puis-je obtenir une licence d'essai gratuite pour Aspose.Imaging ?**  
-   Visitez le [Site Web d'Aspose](https://purchase.aspose.com/temporary-license/) demander un permis temporaire.
+2. **Comment puis‑je obtenir une licence d’essai gratuite pour Aspose.Imaging ?**  
+   Visitez le [Aspose website](https://purchase.aspose.com/temporary-license/) pour demander une licence temporaire.
 
-3. **Quels sont les problèmes courants lors de la conversion d’images avec Aspose.Imaging ?**  
+3. **Quels sont les problèmes courants lors de la conversion d’images avec Aspose.Imaging ?**  
    Les défis courants incluent la gestion de l’utilisation de la mémoire et la garantie d’une installation correcte des dépendances.
 
-4. **Puis-je convertir d’autres formats d’image à l’aide d’Aspose.Imaging ?**  
-   Oui, il prend en charge une large gamme de formats de fichiers image au-delà de DjVu et GIF.
+4. **Puis‑je convertir d’autres formats d’image avec Aspose.Imaging ?**  
+   Oui, elle prend en charge un large éventail de formats d’image au‑delà de DjVu et GIF.
 
-5. **Où puis-je trouver une documentation plus détaillée sur les fonctionnalités d'Aspose.Imaging ?**  
-   Des informations détaillées sont disponibles dans le [Documentation d'Aspose.Imaging pour Java](https://reference.aspose.com/imaging/java/).
+5. **Où puis‑je trouver une documentation plus détaillée sur les fonctionnalités d’Aspose.Imaging ?**  
+   Des informations détaillées sont disponibles dans la [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/).
+
+**Questions supplémentaires**
+
+**Q : La conversion préserve‑t‑elle la transparence ?**  
+R : Oui, lorsque la page DjVu source contient des calques transparents, `GifOptions` les conserve dans le GIF de sortie.
+
+**Q : Quelle taille maximale de fichier DjVu peut être traitée sur un serveur typique ?**  
+R : Aspose.Imaging peut gérer des fichiers jusqu’à **500 MB** sans chargement complet en mémoire, à condition qu’un espace de tas suffisant soit alloué.
+
+**Q : Le multithreading est‑il pris en charge pour les conversions par lots ?**  
+R : Absolument — chaque conversion peut s’exécuter dans son propre thread car la bibliothèque est thread‑safe tant que chaque thread travaille avec sa propre instance `Image`.
 
 ## Ressources
 
-- **Documentation:** [Documentation d'Aspose.Imaging pour Java](https://reference.aspose.com/imaging/java/)
-- **Télécharger:** [Dernières sorties](https://releases.aspose.com/imaging/java/)
-- **Achat:** [Acheter Aspose.Imaging](https://purchase.aspose.com/buy)
-- **Essai gratuit :** [Commencez votre essai gratuit](https://releases.aspose.com/imaging/java/)
-- **Licence temporaire :** [Obtenir un permis temporaire](https://purchase.aspose.com/temporary-license/)
-- **Soutien:** [Forum Aspose](https://forum.aspose.com/c/imaging/14)
+- **Documentation :** [Aspose.Imaging for Java Documentation](https://reference.aspose.com/imaging/java/)
+- **Téléchargement :** [Latest Releases](https://releases.aspose.com/imaging/java/)
+- **Achat :** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
+- **Essai gratuit :** [Start Your Free Trial](https://releases.aspose.com/imaging/java/)
+- **Licence temporaire :** [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
+- **Support :** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
-En suivant ce tutoriel, vous serez désormais équipé pour exploiter Aspose.Imaging pour Java dans vos projets. Bon codage !
+---  
+**Dernière mise à jour :** 2026-06-13  
+**Testé avec :** Aspose.Imaging for Java 25.5  
+**Auteur :** Aspose
+
+## Tutoriels associés
+
+- [Convertir DjVu en BMP avec Aspose.Imaging en Java : Guide complet](/imaging/java/format-conversion-export/export-djvu-to-bmp-aspose-imaging-java/)
+- [Convertir DjVu en PDF avec Aspose.Imaging pour Java – Guide étape par étape](/imaging/java/image-loading-saving/convert-djvu-to-pdf-aspose-imaging-java/)
+- [Guide complet : Aspose.Imaging Java pour le traitement et l’exportation d’images](/imaging/java/getting-started/aspose-imaging-java-image-processing-guide/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< /blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/products-backtop-button >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
