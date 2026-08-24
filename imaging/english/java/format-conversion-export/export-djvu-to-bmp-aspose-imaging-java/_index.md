@@ -37,10 +37,9 @@ schemas:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
+
 # How to Convert DjVu to BMP with Aspose.Imaging for Java
 
 ## Introduction
@@ -78,7 +77,7 @@ Converting DjVu to BMP is often required when legacy systems or Windows‑based 
 - **Maven** – for dependency management (or Gradle if you prefer).  
 - **Basic Java knowledge** – familiarity with classes, methods, and exception handling.  
 
-## Setting Up Aspose.Imaging for Java
+## Setting up Aspose.Imaging for java
 
 ### Maven Dependency
 Add the following snippet to your `pom.xml`. This is the **Maven Aspose.Imaging dependency** required for the conversion.
@@ -111,7 +110,7 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ### Direct Download
 Download the latest version from [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-## License Acquisition Steps
+## License acquisition steps
 
 To unlock full functionality you’ll need a license file:
 
@@ -209,13 +208,13 @@ for (int i : range.getArray()) {
 ```  
 Each iteration writes a BMP file to the target folder, using the page index in the file name.
 
-## Common Issues and Solutions
+## Common issues and solutions
 
 - **OutOfMemoryError** – Use try‑with‑resources to automatically close the `Image` object, and process pages one at a time.  
 - **Incorrect Colors** – Verify that `BitsPerPixel` is set to 32; lower values may cause palette reduction.  
 - **Missing Pages** – Ensure the `IntRange` indices are within the document’s page count (`image.getPages().size()`).
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: What is Aspose.Imaging for Java used for?**  
 A: It is a library for processing, converting, and analyzing images across 100+ formats, including DjVu and BMP.
@@ -241,7 +240,7 @@ A: The official [Aspose.Imaging documentation](https://reference.aspose.com/imag
 - **Purchase**: [Aspose.Imaging Purchase](https://purchase.aspose.com/buy)  
 - **Purchase**: [Buy a License](https://purchase.aspose.com/buy)  
 - **Free Trial**: [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)  
-- **Temporary License**: [Request Here](https://purchase.aspose.com/temporary-license/)  
+- **Temporary License**: [Request a temporary license](https://purchase.aspose.com/temporary-license/)  
 - **Support Forum**: [Aspose.Imaging Forum](https://forum.aspose.com/c/imaging/14)
 
 ---

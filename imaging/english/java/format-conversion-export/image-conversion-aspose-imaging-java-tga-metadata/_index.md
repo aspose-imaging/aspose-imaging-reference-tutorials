@@ -51,15 +51,14 @@ schemas:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
+
 # Mastering Image Conversion and Modification with Aspose.Imaging Java
 
 Welcome to this comprehensive guide on how to harness the power of Aspose.Imaging Java for image conversion and modification tasks. Whether you're looking to **convert png to tga** or tweak metadata within existing TGA files, this tutorial is designed to walk you through every step with ease.
 
-### What You'll Learn
+### What you'll learn
 - **Image Conversion**: Convert JPEG and PNG formats into TGA using Aspose.Imaging Java.
 - **Metadata Modification**: Enhance your TGA images by editing essential metadata like author information, timestamps, and more.
 - **Practical Implementation**: Real‑world scenarios where these features can be applied effectively.
@@ -81,10 +80,10 @@ Before we begin, ensure you have the following:
 - An IDE or text editor installed on your machine (e.g., IntelliJ IDEA, Eclipse).
 - Maven or Gradle set up for dependency management.
 
-### Required Libraries and Versions
+### Required libraries and versions
 For this tutorial, we will use Aspose.Imaging for Java version 25.5. Make sure to have it included in your project's dependencies.
 
-## Setting Up Aspose.Imaging for Java
+## Setting up Aspose.Imaging for java
 
 ### Maven Installation
 
@@ -131,7 +130,7 @@ license.setLicense("path_to_your_license_file");
 
 This feature demonstrates converting a JPEG image into TGA format, which is useful for applications requiring lossless image data.
 
-#### Step 1: Load the Image
+#### Step 1: load the image
 
 ```java
 import com.aspose.imaging.Image;
@@ -155,7 +154,7 @@ try (RasterImage image = (JpegImage) Image.load(inputFile)) {
 
 This section guides you through converting PNG files into the TGA format, maintaining high-quality image data.
 
-#### Step 1: Load the Image
+#### Step 1: load the image
 
 ```java
 import com.aspose.imaging.fileformats.tga.TgaImage;
@@ -177,7 +176,7 @@ try (RasterImage image = (RasterImage) Image.load(inputFile)) {
 
 Learn how to modify metadata in a TGA file such as timestamps, author details, and more, enhancing your image's data richness.
 
-#### Step 1: Load and Modify Metadata
+#### Step 1: load and modify metadata
 
 ```java
 import com.aspose.imaging.Color;
@@ -257,7 +256,7 @@ Throughout this tutorial, you've explored how to **convert png to tga** and JPEG
 5. **How do I acquire a license for Aspose.Imaging Java?**  
    - Visit [Aspose's Purchase Page](https://purchase.aspose.com/buy) to explore licensing options.
 
-## Additional Frequently Asked Questions
+## Additional frequently asked questions
 
 **Q: Does Aspose.Imaging support batch conversion of multiple PNG files to TGA?**  
 A: Yes, you can loop through a directory, load each PNG, and call `save` with `SaveFormat.Tga` inside the same try‑with‑resources block.
@@ -283,7 +282,7 @@ We hope this guide empowers you to utilize Aspose.Imaging Java effectively for y
 **Tested With:** Aspose.Imaging for Java 25.5  
 **Author:** Aspose  
 
-{{< blocks/products/products-backtop-button >}}
+
 
 ## Related Tutorials
 
@@ -291,9 +290,9 @@ We hope this guide empowers you to utilize Aspose.Imaging Java effectively for y
 - [Convert PNG to PDF in Java with Aspose.Imaging: A Complete Guide](/imaging/java/format-conversion-export/convert-png-to-pdf-aspose-imaging-java/)
 - [Efficient PNG Image Processing with Aspose.Imaging for Java - Step-by-Step Guide](/imaging/java/format-specific-operations/aspose-imaging-java-png-processing-guide/)
 
-
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

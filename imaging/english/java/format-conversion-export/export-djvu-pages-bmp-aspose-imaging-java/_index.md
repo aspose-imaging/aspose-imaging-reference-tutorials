@@ -57,17 +57,13 @@ schemas:
     answer: Process the file in chunks, dispose of each `DjvuImage` after saving,
       and consider streaming pages rather than loading the entire document at once.
   - question: Where can I find more Aspose.Imaging resources?
-    answer: Visit the [Aspose.Imaging documentation](https://reference.aspose.com/imaging/java/)
-      or the [Aspose.Imaging Java Documentation](https://reference.aspose.com/imaging/java/)
-      for comprehensive guides, API references, and sample projects. For community
-      help, see [Aspose.Imaging Support](https://forum.aspose.com/c/imaging/14).
+    answer: Visit the [Aspose.Imaging Java API documentation](https://reference.aspose.com/imaging/java/) or the [Aspose.Imaging Java Documentation](https://reference.aspose.com/imaging/java/) for comprehensive guides, API references, and sample projects. For community help, see [Aspose.Imaging Support](https://forum.aspose.com/c/imaging/14).
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
+
 # Comprehensive Guide: Using Aspose.Imaging Java to Export DJVU Pages as BMP Files
 
 ## Introduction
@@ -102,7 +98,7 @@ Aspose.Imaging supports **100+ input and output formats** and can process multi�
 - Familiarity with Maven or Gradle build tools.  
 - A valid Aspose.Imaging license (trial works for evaluation).
 
-## Setting Up Aspose.Imaging for Java
+## Setting up Aspose.Imaging for java
 
 ### Installation Information
 
@@ -167,7 +163,7 @@ try (DjvuImage image = (DjvuImage) Image.load(dataDir)) {
 **Explanation:**  
 - **`Image.load`:** Loads your DJVU file and returns a `DjvuImage` instance for further processing.  
 
-### Set Export Options for BMP Format
+### Set export options for BMP format
 
 **Overview:**  
 Configuring export options ensures that the output BMP files meet your quality requirements.
@@ -184,7 +180,7 @@ exportOptions.setBitsPerPixel(32);
 **Explanation:**  
 - **`setBitsPerPixel`:** Sets the color depth of the exported images. Using 32 bits per pixel yields lossless, high‑quality BMP files suitable for archival purposes.
 
-### Define Page Range to Export
+### Define page range to export
 
 **Overview:**  
 Specifying which pages to export allows you to focus on relevant content.
@@ -200,7 +196,7 @@ IntRange range = new IntRange(0, 2);
 **Explanation:**  
 - **`IntRange`:** Represents a contiguous range of page numbers. Adjust the start and end values to export any subset of pages you need.
 
-### Export Specified Pages as Separate BMP Files
+### Export specified pages as separate BMP files
 
 **Overview:**  
 The final step involves exporting the selected pages as individual BMP files.
@@ -235,13 +231,13 @@ for (int i : range.getRange()) {
 - **Batch Processing:** Process multiple DJVU files in a loop to amortize I/O overhead.  
 - **Parallel Processing:** Leverage Java’s `ExecutorService` to convert pages concurrently on multi‑core servers.
 
-## Common Issues and Solutions
+## Common issues and solutions
 
 - **OutOfMemoryError on large DJVU files:** Use `image.dispose()` after each page is saved and consider increasing the JVM heap size only as needed.  
 - **Low‑quality BMP output:** Ensure `BmpOptions.setBitsPerPixel(32)` is set; lower values reduce color fidelity.  
 - **Missing pages in output:** Verify that the `IntRange` indices match the actual page count (`djvuImage.getPages().size()`).
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: What is a DJVU file?**  
 A: DJVU is a highly compressed file format designed for storing scanned documents, images, and multi‑page publications while maintaining visual fidelity.
@@ -256,7 +252,7 @@ A: Increase the bits‑per‑pixel setting in `BmpOptions` to 32 and ensure the 
 A: Process the file in chunks, dispose of each `DjvuImage` after saving, and consider streaming pages rather than loading the entire document at once.
 
 **Q: Where can I find more Aspose.Imaging resources?**  
-A: Visit the [Aspose.Imaging documentation](https://reference.aspose.com/imaging/java/) or the [Aspose.Imaging Java Documentation](https://reference.aspose.com/imaging/java/) for comprehensive guides, API references, and sample projects. For community help, see [Aspose.Imaging Support](https://forum.aspose.com/c/imaging/14).
+A: Visit the [Aspose.Imaging Java API documentation](https://reference.aspose.com/imaging/java/) or the [Aspose.Imaging Java Documentation](https://reference.aspose.com/imaging/java/) for comprehensive guides, API references, and sample projects. For community help, see [Aspose.Imaging Support](https://forum.aspose.com/c/imaging/14).
 
 ---
 

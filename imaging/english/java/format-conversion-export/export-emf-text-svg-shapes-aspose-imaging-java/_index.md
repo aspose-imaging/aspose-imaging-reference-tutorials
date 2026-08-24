@@ -58,10 +58,9 @@ schemas:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
+
 # How to Export EMF Text as SVG Shapes or Plain Text Using Aspose.Imaging for Java  
 
 If you need to **aspose imaging convert emf** files into clean SVG graphics or editable text, you’ve come to the right place. In this tutorial you’ll see exactly how to load an EMF, choose between vector‑shape output or plain‑text output, and save the result with a few concise API calls. Whether you’re building a batch‑conversion service or a single‑file utility, the steps below will get you up and running quickly.
@@ -73,10 +72,10 @@ If you need to **aspose imaging convert emf** files into clean SVG graphics or e
 - **Which Java version is required?** Java 8 or newer is fully supported.  
 - **Is batch processing possible?** Absolutely – loop over files and reuse the same `SvgOptions` instance.
 
-## What Is Aspose.Imaging for Java?  
+## What is Aspose.Imaging for java?
 `Aspose.Imaging` is a Java library that provides **50+** input and output image formats, including EMF, SVG, PNG, JPEG, and PDF. It processes multi‑hundred‑page documents without loading the entire file into memory, making it ideal for high‑throughput conversion pipelines.
 
-## Why Use Aspose Imaging Convert EMF?  
+## Why use aspose imaging convert EMF?
 Using Aspose Imaging to convert EMF files gives you **99 % layout fidelity** and **up to 3× faster** processing compared with manual rasterization tools, according to the vendor’s benchmark tests on a standard 2.5 GHz CPU. The API also handles font embedding, color management, and vector precision automatically.
 
 ## Prerequisites
@@ -85,7 +84,7 @@ Using Aspose Imaging to convert EMF files gives you **99 % layout fidelity** a
 - **Java Development Kit** 8 or higher.  
 - Basic familiarity with Maven/Gradle or manual JAR handling.  
 
-## Setting Up Aspose.Imaging for Java  
+## Setting up Aspose.Imaging for java
 
 To add the library to your project, choose one of the following dependency managers.
 
@@ -105,14 +104,14 @@ To add the library to your project, choose one of the following dependency manag
 implementation 'com.aspose:aspose-imaging:25.5'
 ```
 
-For a manual setup, download the latest JAR from the official release page **[here](https://releases.aspose.com/imaging/java/)**.
+For a manual setup, download the latest JAR from the official release page **[Aspose Imaging Java release page](https://releases.aspose.com/imaging/java/)**.
 
 ### License Acquisition  
 
 Aspose.Imaging for Java offers a free trial that provides full API access during evaluation. When you’re ready to go live:
 
 - **Free Trial:** No feature limits, just a temporary evaluation period. ([free trial](https://releases.aspose.com/imaging/java/))
-- **Temporary License:** Obtain it **[here](https://purchase.aspose.com/temporary-license/)** for extended testing.  
+- **Temporary License:** Obtain it **[temporary license page](https://purchase.aspose.com/temporary-license/)** for extended testing.  
 - **Purchase:** Secure a permanent license via the **[purchase page](https://purchase.aspose.com/buy)**.  
 - **Purchase options:** See **[purchase options](https://purchase.aspose.com/buy)** for details.
 
@@ -136,7 +135,7 @@ Load the EMF, configure rasterization, enable shape conversion, and save.
 **Direct answer (40‑70 words):**  
 Load your EMF with `Image.load("source.emf")`, set `SvgOptions.setTextAsShapes(true)`, and call `image.save("output.svg", svgOptions)`. This converts every glyph into a scalable vector path while preserving colors, line weights, and transformations. The operation completes in a single pass and requires no additional post‑processing.
 
-#### Step 1: Load the Source Image  
+#### Step 1: load the source image
 
 `Image` is the core class that represents any supported raster or vector image in memory.  
 
@@ -148,7 +147,7 @@ Load your EMF with `Image.load("source.emf")`, set `SvgOptions.setTextAsShapes(t
 </dependency>
 ```
 
-#### Step 2: Configure Rasterization Options  
+#### Step 2: configure rasterization options
 
 `EmfRasterizationOptions` lets you define background color, page size, and DPI.  
 
@@ -166,7 +165,7 @@ import com.aspose.imaging.Image;
 Image image = Image.load("YOUR_DOCUMENT_DIRECTORY/picture1.emf");
 ```
 
-#### Step 4: Resource Management  
+#### Step 4: resource management
 
 Always call `image.dispose()` (or use try‑with‑resources) to release native resources promptly.  
 
@@ -232,7 +231,7 @@ Switch the flag to `false` before saving.
 - **Batch Processing:** Process files in groups of 10–20 to balance CPU usage and GC overhead.  
 - **Caching:** Reuse a single `SvgOptions` instance when converting many files with identical settings.  
 
-## Frequently Asked Questions  
+## Frequently asked questions
 
 **Q: How do I handle very large EMF files (hundreds of MB)?**  
 A: Process them in streaming mode by setting `EmfRasterizationOptions.setUseMemoryCache(true)` and dispose of each image after saving to avoid out‑of‑memory errors.
@@ -252,7 +251,7 @@ A: Post questions on the official **[Aspose forum](https://forum.aspose.com/c/im
 ## Resources  
 
 - **Documentation:** Explore more in‑depth information at **[Aspose.Imaging documentation](https://reference.aspose.com/imaging/java/)**.  
-- **Download:** Get the latest library version from **[here](https://releases.aspose.com/imaging/java/)**.  
+- **Download:** Get the latest library version from **[Aspose Imaging Java download page](https://releases.aspose.com/imaging/java/)**.  
 - **Purchase & Trial:** Check out their **[purchase options](https://purchase.aspose.com/buy)** and **[free trial](https://releases.aspose.com/imaging/java/)** to get started.
 
 ---
@@ -261,7 +260,7 @@ A: Post questions on the official **[Aspose forum](https://forum.aspose.com/c/im
 **Tested With:** Aspose.Imaging for Java 25.5  
 **Author:** Aspose  
 
-{{< blocks/products/products-backtop-button >}}
+
 
 ## Related Tutorials
 
@@ -270,11 +269,11 @@ A: Post questions on the official **[Aspose forum](https://forum.aspose.com/c/im
 - [Convert EMF to Multiple Formats with Aspose.Imaging Java: Complete Guide](/imaging/java/format-conversion-export/convert-emf-aspose-imaging-java/)
 
 
-{{< /blocks/products/pf/tutorial-page-section >}}
 
-{{< /blocks/products/pf/main-container >}}
 
-{{< /blocks/products/pf/main-wrap-class >}}
+
+
+
 
 ```java
 // Save the SVG with text as plain text
@@ -285,3 +284,10 @@ image.save("YOUR_OUTPUT_DIRECTORY/ExportTextasShape_text_out.svg", new SvgOption
     }
 });
 ```
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}
