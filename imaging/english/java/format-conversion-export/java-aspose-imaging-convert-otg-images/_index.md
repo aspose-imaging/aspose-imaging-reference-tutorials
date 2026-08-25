@@ -1,5 +1,5 @@
 ---
-title: "Convert OTG to PDF with Java & Aspose.Imaging Guide"
+title: "How to Convert OTG Files to PDF Using Java and Aspose.Imaging"
 description: "Learn how to convert otg to pdf in a java image processing tutorial using Aspose.Imaging. Includes Maven Aspose Imaging dependency setup, rasterization options, and performance tips."
 date: "2026-06-28"
 weight: 1
@@ -12,14 +12,14 @@ keywords:
 - aspose imaging otg
 schemas:
 - type: TechArticle
-  headline: Convert OTG to PDF with Java & Aspose.Imaging Guide
+  headline: How to Convert OTG Files to PDF Using Java and Aspose.Imaging
   description: Learn how to convert otg to pdf in a java image processing tutorial
     using Aspose.Imaging. Includes Maven Aspose Imaging dependency setup, rasterization
     options, and performance tips.
   dateModified: '2026-06-28'
   author: Aspose
 - type: HowTo
-  name: Convert OTG to PDF with Java & Aspose.Imaging Guide
+  name: How to Convert OTG Files to PDF Using Java and Aspose.Imaging
   description: Learn how to convert otg to pdf in a java image processing tutorial
     using Aspose.Imaging. Includes Maven Aspose Imaging dependency setup, rasterization
     options, and performance tips.
@@ -101,7 +101,7 @@ Load your OTG file with `Image.load("file.otg")`, configure `RasterizationOption
 - **Java Development Kit**: Java 8 or newer.  
 - Basic Java programming knowledge.  
 
-### Setting Up Aspose.Imaging for Java
+### Setting up Aspose.Imaging for java
 
 To add Aspose.Imaging to a Maven project, include the following dependency:
 
@@ -142,9 +142,9 @@ license.setLicense("path/to/your/license/file.lic");
 
 We'll break the implementation into three clear features.
 
-### Feature 1: Loading an OTG Image
+### Feature 1: loading an OTG image
 
-#### Step 1: Define the Path
+#### Step 1: define the path
 Set up a reusable variable that points to the directory containing your OTG files.
 
 ```java
@@ -153,7 +153,7 @@ String fileName = "VariousObjectsMultiPage.otg";
 String inputFileName = dataDir + fileName;
 ```  
 
-#### Step 2: Load the OTG Image
+#### Step 2: load the OTG image
 `Image` is Aspose.Imaging's core class representing any supported image type in memory. Loading an OTG file creates a rasterizable vector object ready for further processing.
 
 ```java
@@ -164,16 +164,16 @@ try (Image image = Image.load(inputFileName)) {
 }
 ```  
 
-### Feature 2: Rasterization Options Configuration
+### Feature 2: rasterization options configuration
 
-#### Step 1: Create Rasterization Options
+#### Step 1: create rasterization options
 `RasterizationOptions` defines how vector graphics are rasterized onto a bitmap, including resolution, background color, and page size.
 
 ```java
 OtgRasterizationOptions otgRasterizationOptions = new OtgRasterizationOptions();
 ```  
 
-#### Step 2: Set Page Size
+#### Step 2: set page size
 Adjust `PageWidth` and `PageHeight` to match your target dimensions. For high‑resolution PDFs, a common setting is 2480 × 3508 px (A4 at 300 dpi).
 
 ```java
@@ -183,14 +183,14 @@ otgRasterizationOptions.setPageSize(Size.to_SizeF(imageSize));
 
 ### Feature 3: Image Conversion to PNG and PDF
 
-#### Step 1: Define Output Formats
+#### Step 1: define output formats
 `PdfOptions` specifies settings for PDF output such as compression and metadata, while `PngOptions` controls PNG‑specific parameters like color depth.
 
 ```java
 ImageOptionsBase[] options = { new PngOptions(), new PdfOptions() };
 ```  
 
-#### Step 2: Iterate Over Each Format
+#### Step 2: iterate over each format
 Loop through the desired formats, apply the same rasterization configuration, and invoke `save`. This approach minimizes code duplication and maximizes throughput.
 
 ```java
@@ -207,13 +207,13 @@ for (ImageOptionsBase item : options) {
 }
 ```  
 
-## Common Issues and Solutions
+## Common issues and solutions
 
 - **OutOfMemoryError on huge files** – Enable `ImageOptions.setUseCache(true)` to force disk‑based caching.  
 - **Incorrect colors after conversion** – Set `ColorDepth` to `ColorDepth.Format32bppArgb` in `RasterizationOptions`.  
 - **Missing fonts** – Provide a custom `FontSettings` object pointing to your font folder.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: Can I convert multiple OTG images at once?**  
 A: Yes. Place all OTG files in a folder and iterate with a `for‑each` loop, reusing the same `RasterizationOptions` instance for each conversion.

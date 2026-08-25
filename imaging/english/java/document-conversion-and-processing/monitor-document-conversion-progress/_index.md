@@ -1,6 +1,6 @@
 ---
-title: Java Image Processing Tutorial: Monitor Image Conversion
-linktitle: Java Image Processing Tutorial: Monitor Image Conversion
+title: 'Monitor Image Conversion Progress with Aspose.Imaging for Java'
+linktitle: 'Monitor Image Conversion Progress with Aspose.Imaging for Java'
 second_title: Aspose.Imaging Java Image Processing API
 description: Learn how to monitor image conversion in Java with Aspose.Imaging. This java image processing tutorial shows real‑time progress for JPG‑to‑PNG conversions.
 weight: 10
@@ -63,7 +63,7 @@ import java.nio.file.Path;
 import java.util.logging.Logger;
 ```
 
-## Step 1: Set Up the Directory and Input Image
+## Step 1: set up the directory and input image
 
 Define where your source image lives and what it’s called. You can point to any supported format—JPG, PNG, BMP, etc.
 
@@ -75,7 +75,7 @@ String inputFileName = dataDir + fileName;
 
 > **Pro tip:** Use `Paths.get(...)` for platform‑independent paths when working with real projects.
 
-## Step 2: Load the Input Image
+## Step 2: load the input image
 
 Loading the image is where we start receiving progress events. The `ProgressEventHandler` will invoke `progressCallback` each time a chunk is processed.
 
@@ -97,7 +97,7 @@ try (Image image = Image.load(inputFileName, new LoadOptions() {
 
 The `try‑with‑resources` block ensures the image is disposed automatically, which is important for large files.
 
-## Step 3: Save the Output Image
+## Step 3: save the output image
 
 Now we export the image. In this example we save as JPEG with baseline compression and 100 % quality, but you can switch to `PngOptions` to **convert JPG PNG java** style conversions.
 
@@ -120,7 +120,7 @@ image.save(
 
 Replace the output path and file name as needed. The same callback mechanism gives you live export progress.
 
-## Step 4: Progress Callbacks
+## Step 4: progress callbacks
 
 Both loading and saving use callbacks to report status. Below are the helper methods that simply log the progress to the console.
 
@@ -140,7 +140,7 @@ You can replace `Logger.printf` with any UI update logic—e.g., updating a Swin
 
 Attach a `ProgressEventHandler` to the image before loading and to the save options before exporting. The handler receives the total bytes and the number of bytes processed, letting you calculate a percentage and update the UI in real time. You can also log the progress or bind it to a graphical progress bar to give users visual feedback during the conversion.
 
-## Common Issues and Solutions
+## Common issues and solutions
 
 | Issue | Why it Happens | Fix |
 |-------|----------------|-----|
@@ -151,7 +151,7 @@ Attach a `ProgressEventHandler` to the image before loading and to the save opti
 
 `ImageLoadOptions` allows you to configure how an image is loaded, such as setting buffer size or enabling progressive loading.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 **Q: What image formats does Aspose.Imaging for Java support?**  
 A: Aspose.Imaging for Java supports JPEG, PNG, BMP, TIFF, GIF, WebP, and many more. See the full list in the [documentation](https://reference.aspose.com/imaging/java/).
