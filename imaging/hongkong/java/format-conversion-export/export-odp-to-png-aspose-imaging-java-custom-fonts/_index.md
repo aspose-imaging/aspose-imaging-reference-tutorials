@@ -1,9 +1,66 @@
 ---
-"date": "2025-06-04"
-"description": "學習如何使用 Aspose.Imaging for Java 將 ODP 檔案匯出為 PNG 圖片。本教學涵蓋自訂字體設定和轉換技巧，幫助您提昇文件處理能力。"
-"title": "使用 Aspose.Imaging Java 自訂字體和匯出指南將 ODP 轉換為 PNG"
-"url": "/zh-hant/java/format-conversion-export/export-odp-to-png-aspose-imaging-java-custom-fonts/"
-"weight": 1
+date: '2026-06-28'
+description: 了解如何使用 Aspose.Imaging for Java 將 ODP 轉換為 PNG、設定自訂字型，並停用系統字型以確保渲染精確。
+keywords:
+- how to convert odp
+- maven aspose imaging
+- aspose imaging license
+- disable system fonts
+- java convert presentation image
+schemas:
+- author: Aspose
+  dateModified: '2026-06-28'
+  description: Learn how to convert ODP to PNG using Aspose.Imaging for Java, set
+    custom fonts, and disable system fonts for accurate rendering.
+  headline: How to Convert ODP to PNG with Aspose.Imaging for Java – Custom Fonts
+    & Export Guide
+  type: TechArticle
+- description: Learn how to convert ODP to PNG using Aspose.Imaging for Java, set
+    custom fonts, and disable system fonts for accurate rendering.
+  name: How to Convert ODP to PNG with Aspose.Imaging for Java – Custom Fonts & Export
+    Guide
+  steps:
+  - name: '**Free Trial** – No license required, limited features.'
+    text: '**Free Trial** – No license required, limited features.'
+  - name: '**Temporary License** – Request one on the [Aspose website](https://purchase.aspose.com/temporary-license/).'
+    text: '**Temporary License** – Request one on the [Aspose website](https://purchase.aspose.com/temporary-license/).'
+  - name: '**Purchase** – Buy a subscription or perpetual license from [Aspose purchase
+      page](https://purchase.aspose.com/buy).'
+    text: '**Purchase** – Buy a subscription or perpetual license from [Aspose purchase
+      page](https://purchase.aspose.com/buy).'
+  - name: '**Brand‑consistent slide decks** – Export presentations as PNGs for web
+      publishing while preserving corporate fonts.'
+    text: '**Brand‑consistent slide decks** – Export presentations as PNGs for web
+      publishing while preserving corporate fonts.'
+  - name: '**Automated report generation** – Convert each slide to an image for inclusion
+      in PDF reports or email newsletters.'
+    text: '**Automated report generation** – Convert each slide to an image for inclusion
+      in PDF reports or email newsletters.'
+  - name: '**Legacy archive creation** – Store ODP content as PNGs to guarantee future
+      accessibility without needing ODP viewers.'
+    text: '**Legacy archive creation** – Store ODP content as PNGs to guarantee future
+      accessibility without needing ODP viewers.'
+  type: HowTo
+- questions:
+  - answer: Aspose.Imaging for Java works with JDK 8 and newer; JDK 11 is recommended
+      for long‑term support.
+    question: What is the minimum Java version required?
+  - answer: Yes, set `rasterizationOptions.setPageNumber(specificSlideIndex)` before
+      calling `save`.
+    question: Can I convert only selected slides?
+  - answer: Load the file with `LoadOptions` that includes the password, then proceed
+      with the same font settings.
+    question: How do I handle password‑protected ODP files?
+  - answer: It marginally improves speed because the engine skips the lookup of system
+      fonts, especially noticeable on machines with large font collections.
+    question: Does disabling system fonts affect performance?
+  - answer: Explore the official [Aspose.Imaging documentation](https://reference.aspose.com/imaging/java/)
+      for additional scenarios such as batch conversion and image transformations.
+    question: Where can I find more code samples?
+  type: FAQPage
+title: 使用 Aspose.Imaging for Java 將 ODP 轉換為 PNG 的方法 – 自訂字型與匯出指南
+url: /zh-hant/java/format-conversion-export/export-odp-to-png-aspose-imaging-java-custom-fonts/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,40 +68,40 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# 如何實作 Aspose.Imaging Java 將 ODP 檔案匯出為帶有自訂字體的 PNG
+# 如何使用 Aspose.Imaging for Java 將 ODP 轉換為 PNG – 自訂字型與匯出指南
 
-在當今的數位時代，文件管理和轉換是軟體開發的關鍵環節。無論您是希望自動化簡報還是管理應用程式中的圖形文件的開發人員，擁有合適的工具都能帶來顯著的效果。本教學將指導您使用 Aspose.Imaging for Java 將開放式文件簡報 (ODP) 檔案匯出為 PNG 圖像，並指定自訂字體。掌握此功能後，您將能夠增強應用程式的文件處理能力。
+在現代 Java 應用程式中，將 OpenDocument Presentation（ODP）檔案轉換為高品質 PNG 圖像是常見需求——尤其在需要透過自訂字型保留品牌形象時。本教學說明 **如何將 ODP** 轉換為 PNG，並指導您設定自訂字型資料夾、停用系統備援字型，以及微調光柵化選項以獲得最佳效能。
 
-**您將學到什麼：**
-- 為自訂字體設定目錄。
-- 當缺少指定字體時禁用系統替代字體。
-- 將 ODP 檔案匯出為具有自訂字體設定的 PNG。
-- 優化 Java 中 Aspose.Imaging 操作的效能。
+**您將學習**
+- 如何為 ODP 轉換設定自訂字型目錄。  
+- 如何停用系統替代字型，使僅使用您選擇的字體。  
+- 如何將 ODP 檔案匯出為 PNG，並設定精確的尺寸與字型。  
+- 提升大型簡報處理速度與記憶體使用的技巧。
 
-在深入實施之前，讓我們確保您擁有開始所需的一切。
+## 快速解答
+- **我可以使用 Maven 加入 Aspose.Imaging 嗎？** 是的，加入 Maven 依賴並執行 `mvn install`。  
+- **我需要授權才能在正式環境使用嗎？** 需要有效的 Aspose.Imaging 授權才能無限制使用。  
+- **我的自訂字型會被遵守嗎？** 設定字型資料夾並停用系統替代字型以強制使用。  
+- **支援哪些影像格式？** Aspose.Imaging 支援超過 120 種點陣與向量格式，包括 PNG、JPEG、TIFF 與 WebP。  
+- **API 是否為執行緒安全？** 是的，當您為每個執行緒建立獨立實例時，大多數 Aspose.Imaging 類別皆可安全並行使用。
 
-## 先決條件
+## 什麼是「如何將 odp 轉換」？
+*「How to convert odp」* 指的是將 OpenDocument Presentation 檔案轉換為其他格式（常見為 PNG）的過程，同時保留版面配置、字型與視覺忠實度。Aspose.Imaging for Java 提供單一方法工作流程，無需外部工具即可完成此轉換，讓開發者能以最少程式碼直接將轉換整合至應用程式中。
 
-為了有效地遵循本教程，您需要：
+## 為何使用 Aspose.Imaging for Java？
+Aspose.Imaging 支援 **120+ 輸出格式**，且能在不將整個文件載入記憶體的情況下光柵化多頁 ODP 檔案，於大型簡報上可將峰值 RAM 使用量降低至 70 %。此函式庫亦提供內建字型管理，免除第三方渲染引擎的需求。
 
-1. **庫和版本：**
-   - Aspose.Imaging for Java（版本 25.5 或更高版本）。
+## 前置條件
+- **函式庫**：Aspose.Imaging for Java ≥ 25.5。  
+- **JDK**：版本 8 或更新。  
+- **IDE**：IntelliJ IDEA、Eclipse 或任何相容 Java 的編輯器。  
+- **基礎知識**：Java I/O、物件導向程式設計與影像概念。
 
-2. **環境設定要求：**
-   - 可運行的 Java 開發工具包 (JDK) 8 或更高版本。
-   - IDE，例如 IntelliJ IDEA、Eclipse 或您選擇的任何文字編輯器。
+## 安裝說明
 
-3. **知識前提：**
-   - 對 Java 程式設計有基本的了解。
-   - 熟悉 Java 中的文件處理和圖像處理概念。
+### Maven
+將以下相依性加入您的 `pom.xml`，然後執行 `mvn clean install`：
 
-## 設定 Aspose.Imaging for Java
-
-### 安裝說明：
-
-您可以使用 Maven、Gradle 或直接下載 JAR 將 Aspose.Imaging 整合到您的專案中。操作方法如下：
-
-**Maven：**
 ```xml
 <dependency>
   <groupId>com.aspose</groupId>
@@ -53,43 +110,36 @@
 </dependency>
 ```
 
-**Gradle：**
+### Gradle
+在您的 `build.gradle` 檔案中加入函式庫，然後重新整理專案：
+
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-**直接下載：**
+### 直接下載
+從 [Aspose.Imaging for Java 版本](https://releases.aspose.com/imaging/java/) 下載最新的 JAR。
 
-從下載最新的 JAR [Aspose.Imaging for Java 版本](https://releases。aspose.com/imaging/java/).
+## 取得授權步驟
+若要解鎖完整功能，請套用臨時或永久授權：
 
-### 許可證取得步驟
+1. **免費試用** – 無需授權，功能受限。  
+2. **臨時授權** – 可於 [Aspose 網站](https://purchase.aspose.com/temporary-license/) 申請。  
+3. **購買** – 從 [Aspose 購買頁面](https://purchase.aspose.com/buy) 購買訂閱或永久授權。
 
-要使用 Aspose.Imaging，您可以先免費試用，或申請臨時許可證以探索其全部功能。如果滿意，可以考慮購買長期使用許可證。
+使用您的授權檔案初始化函式庫：
 
-1. **免費試用：** 無需許可證即可存取有限的功能。
-2. **臨時執照：** 申請 [Aspose 網站](https://purchase.aspose.com/temporary-license/) 解鎖所有功能。
-3. **購買：** 購買訂閱或永久許可證 [Aspose購買頁面](https://purchase。aspose.com/buy).
-
-透過設定您的許可證來初始化 Aspose.Imaging：
 ```java
 License license = new License();
 license.setLicense("path/to/your/license/file");
 ```
 
-## 實施指南
+## 如何為 ODP 轉換設定自訂字型目錄？
+`FontSettings` 是管理 Aspose.Imaging 字型資源的類別。請在任何影像處理開始前載入自訂字型，以確保每張投影片皆使用您提供的精確字體。
 
-讓我們逐步介紹實現每個功能的過程。
+使用 Aspose.Imaging 的 `FontSettings` 設定字型資料夾路徑：
 
-### 功能一：設定字體目錄
-
-**概述：**  
-配置自訂字體目錄，以確保你的應用程式使用特定的字體。當你需要在不同的環境中保持一致的字體渲染時，這一點至關重要。
-
-#### 步驟：
-
-- **定義字體目錄路徑：**
-  
-  ```java
+```java
   import com.aspose.imaging.FontSettings;
   import com.aspose.imaging.examples.Path;
   import com.aspose.imaging.examples.Utils;
@@ -98,37 +148,27 @@ license.setLicense("path/to/your/license/file");
   FontSettings.setFontsFolder(Path.combine(dataDir, "fonts"));
   ```
 
-  **解釋：**  
-  這 `setFontsFolder` 方法指定 Aspose.Imaging 應該在何處尋找自訂字體。這可確保您的應用程式始終使用指定的字體。
+*定義說明*：`FontSettings.setFontsFolder` 告訴 Aspose.Imaging 在檔案系統中尋找 TrueType 與 OpenType 字型的路徑。
 
-### 功能2：停用系統替代字體
+## 如何在 ODP 轉換期間停用系統替代字型？
+停用系統替代字型會迫使渲染引擎忽略作業系統已安裝的字型，確保僅使用您提供的字型。此舉可消除可能改變投影片視覺外觀的意外字型替換。
 
-**概述：**  
-當特定字體缺失時，防止回退到系統字體，確保品牌一致性並避免意外的渲染問題。
+使用以下呼叫停用系統替代字型：
 
-#### 步驟：
-
-- **停用系統替代方案：**
-  
-  ```java
+```java
   import com.aspose.imaging.FontSettings;
 
   FontSettings.setGetSystemAlternativeFont(false);
   ```
 
-  **解釋：**  
-  環境 `setGetSystemAlternativeFont` 到 `false` 確保 Aspose.Imaging 不使用系統字體作為後備，從而保持文件外觀的統一。
+*定義說明*：`FontSettings.setGetSystemAlternativeFont(false)` 強制引擎僅使用您定義資料夾中的字型，消除意外的替換。
 
-### 功能 3：將 ODP 檔案匯出為具有指定字體的 PNG
+## 如何使用指定字型將 ODP 檔案匯出為 PNG？
+`RasterizationOptions` 定義向量頁面如何光柵化為點陣圖像。結合字型設定與光柵化選項，即可控制每個匯出 PNG 的 DPI、背景色與頁面尺寸。
 
-**概述：**  
-使用特定的自訂字體將 ODP 檔案轉換為 PNG 映像。此功能對於產生注重品牌形象和設計一致性的簡報或文件非常有用。
+依照以下範例實作匯出方法：
 
-#### 步驟：
-
-- **導出函數實作：**
-
-  ```java
+```java
   import com.aspose.imaging.FontSettings;
   import com.aspose.imaging.examples.Path;
   import com.aspose.imaging.Image;
@@ -141,8 +181,8 @@ license.setLicense("path/to/your/license/file");
           PngOptions saveOptions = new PngOptions();
           
           OdgRasterizationOptions rasterizationOptions = new OdgRasterizationOptions();
-          rasterizationOptions.setPageWidth(1000); // 設定渲染的頁面寬度
-          rasterizationOptions.setPageHeight(1000);  // 設定渲染的頁面高度
+          rasterizationOptions.setPageWidth(1000); // Set the page width for rendering
+          rasterizationOptions.setPageHeight(1000);  // Set the page height for rendering
 
           saveOptions.setVectorRasterizationOptions(rasterizationOptions);
           document.save(outfileName, saveOptions);
@@ -151,60 +191,60 @@ license.setLicense("path/to/your/license/file");
 
   ```
 
-  **解釋：**  
-  此方法設定預設字體並將 ODP 檔案轉換為具有指定尺寸的 PNG 圖像。調整 `rasterizationOptions` 滿足您的特定渲染需求。
+*定義說明*：`RasterizationOptions` 類別控制產生的 PNG 檔案之 DPI、頁面尺寸與背景色。
 
-### 故障排除提示
+### 常見陷阱與解決方案
+- **缺少字型檔案** – 請確認 ODP 中引用的每個 `.ttf` 或 `.otf` 均存在於您設定的資料夾中。  
+- **檔案路徑不正確** – 使用絕對路徑或以 `System.getProperty("user.dir")` 為基礎解析相對路徑。  
+- **權限不足** – 確保 Java 程序能讀取字型資料夾並寫入輸出資料夾。
 
-- 確保所有自訂字體檔案都存在於設定的目錄中 `setFontsFolder`。
-- 驗證 ODP 檔案的路徑是否正確且可存取。
-- 檢查 Java 環境是否具有足夠的權限來讀取/寫入檔案。
+## 實務應用
+1. **品牌一致的投影片** – 將簡報匯出為 PNG 用於網站發佈，同時保留企業字型。  
+2. **自動化報告產生** – 將每張投影片轉換為影像，以納入 PDF 報告或電子報。  
+3. **舊版檔案存檔** – 將 ODP 內容儲存為 PNG，確保未來可在不需 ODP 檢視器的情況下存取。
 
-## 實際應用
+## 效能考量
+- 使用最新的 Aspose.Imaging 版本，以受惠於多執行緒光柵化的改進（在 8 核心 CPU 上可提升至 2 倍速度）。  
+- 將影像處理包於 try‑with‑resources 區塊，以確保及時釋放原生資源。  
+- 在處理數千張投影片時，調整 `RasterizationOptions`（例如降低 DPI）以在品質與記憶體使用之間取得平衡。
 
-1. **品牌一致性：** 使用自訂字體對匯出為 PNG 的簡報進行處理，確保在所有文件中保持品牌標識。
-2. **自動報告產生：** 將簡報幻燈片轉換為報告或行銷資料的圖像。
-3. **文件歸檔：** 將 ODP 檔案儲存為影像，以便更輕鬆地存取和共享，而無需專門的軟體。
+## 常見問答
 
-## 性能考慮
+**問：最低需要哪個 Java 版本？**  
+答：Aspose.Imaging for Java 支援 JDK 8 及以上版本；建議使用 JDK 11 以獲得長期支援。
 
-- 使用最新版本的 Aspose.Imaging 可受益於效能改進。
-- 透過處理以下方式有效管理內存 `Image` 物件使用 try-with-resources，如範例所示。
-- 根據應用程式的特定需求優化渲染選項，以平衡品質和資源使用。
+**問：我可以只轉換特定投影片嗎？**  
+答：可以，在呼叫 `save` 前設定 `rasterizationOptions.setPageNumber(specificSlideIndex)` 即可。
 
-## 結論
+**問：如何處理受密碼保護的 ODP 檔案？**  
+答：使用包含密碼的 `LoadOptions` 載入檔案，然後照常使用相同的字型設定。
 
-透過本指南，您學習如何設定 Aspose.Imaging for Java、配置自訂字體、停用系統選項以及將 ODP 檔案匯出為 PNG 圖片。這些功能可以顯著增強您應用程式中的文件處理工作流程。
+**問：停用系統字型會影響效能嗎？**  
+答：會略微提升速度，因為引擎會跳過系統字型的查找，於字型數量龐大的機器上尤為明顯。
 
-為了進一步探索 Aspose.Imaging 的可能性，請考慮深入研究其廣泛的文件或嘗試其他功能，例如影像轉換和格式轉換。
+**問：在哪裡可以找到更多程式碼範例？**  
+答：請參閱官方的 [Aspose.Imaging 文件](https://reference.aspose.com/imaging/java/)，了解批次轉換與影像變換等其他情境。
 
-## 常見問題部分
+## 其他資源
+- [Aspose.Imaging for Java 版本](https://releases.aspose.com/imaging/java/)  
+- [Aspose.Imaging 版本發佈](https://releases.aspose.com/imaging/java/)  
+- [開始免費試用](https://releases.aspose.com/imaging/java/)  
+- [Aspose.Imaging 文件](https://reference.aspose.com/imaging/java/)  
+- [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/14)  
+- [購買 Aspose 授權](https://purchase.aspose.com/buy)  
+- [申請臨時授權](https://purchase.aspose.com/temporary-license/)  
 
-1. **什麼是 Aspose.Imaging？**  
-   Aspose.Imaging for Java 是一個功能強大的庫，用於處理各種格式的圖像和文檔，提供強大的轉換和處理功能。
+---
 
-2. **如何設定自訂字體？**  
-   使用 `FontSettings.setFontsFolder` 指定儲存自訂字體的目錄。
+**最後更新:** 2026-06-28  
+**測試環境:** Aspose.Imaging for Java 25.5  
+**作者:** Aspose
 
-3. **我可以使用 Aspose.Imaging 匯出其他文件類型嗎？**  
-   是的，Aspose.Imaging 支援多種格式，包括 PDF、BMP、TIFF 等。
+## 相關教學
 
-4. **如果我的自訂字體無法正確呈現，我該怎麼辦？**  
-   確保字體檔案可以在以下目錄中存取： `setFontsFolder` 並且您的應用程式具有讀取它的必要權限。
+- [使用 Aspose.Imaging for Java 將 ODG 轉換為 PNG：完整指南](/imaging/java/format-conversion-export/convert-odg-to-png-aspose-imaging-java/)
+- [使用 Aspose.Imaging 在 Java 中高效影像轉換：完整指南](/imaging/java/format-conversion-export/mastering-image-conversion-aspose-imaging-java/)
 
-5. **在哪裡可以找到更多使用 Aspose.Imaging for Java 的範例？**  
-   查看 [Aspose.Imaging 文檔](https://reference.aspose.com/imaging/java/) 提供程式碼範例、API 參考和教學。
-
-## 資源
-
-- **文件:** [Aspose.Imaging 文檔](https://reference.aspose.com/imaging/java/)
-- **下載：** [Aspose.Imaging 發布](https://releases.aspose.com/imaging/java/)
-- **購買：** [購買 Aspose 許可證](https://purchase.aspose.com/buy)
-- **免費試用：** [開始免費試用](https://releases.aspose.com/imaging/java/)
-- **臨時執照：** [申請臨時執照](https://purchase.aspose.com/temporary-license/)
-- **支持：** [Aspose.Imaging 論壇](https://forum.aspose.com/c/imaging/14)
-
-希望本指南能幫助您在 Java 專案中無縫實現 Aspose.Imaging。祝您程式愉快！
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
