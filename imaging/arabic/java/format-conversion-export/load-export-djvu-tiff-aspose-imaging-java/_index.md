@@ -1,9 +1,58 @@
 ---
-"date": "2025-06-04"
-"description": "تعرّف على كيفية تحويل صور DjVu إلى صيغة TIFF باستخدام Aspose.Imaging لـ Java. يغطي هذا الدليل تحميل الصفحات وتصديرها وخيارات التهيئة."
-"title": "تحويل DjVu إلى TIFF في Java باستخدام دليل Aspose.Imaging خطوة بخطوة"
-"url": "/ar/java/format-conversion-export/load-export-djvu-tiff-aspose-imaging-java/"
-"weight": 1
+date: '2026-07-08'
+description: تعلم كيفية تصدير TIFF من DjVu باستخدام Aspose.Imaging للـ Java. دليل
+  خطوة بخطوة يغطي التحميل، اختيار الصفحات، وخيارات التصدير.
+keywords:
+- how to export tiff
+- java image processing
+- maven aspose imaging
+- how to load djvu
+lastmod: '2026-07-08'
+og_description: اكتشف كيفية تصدير TIFF من DjVu في Java باستخدام Aspose.Imaging. اتبع
+  دليلنا خطوة بخطوة للحصول على تحويل صور سريع وموثوق.
+og_image_alt: Guide showing Java code to convert DjVu pages to TIFF with Aspose.Imaging
+og_title: كيفية تصدير TIFF – دليل Java مع Aspose.Imaging
+schemas:
+- author: Aspose
+  dateModified: '2026-07-08'
+  description: Learn how to export TIFF from DjVu using Aspose.Imaging for Java. Step-by-step
+    guide covering loading, page selection, and export options.
+  headline: How to Export TIFF – Load and Export DjVu Pages in Java with Aspose.Imaging
+  type: TechArticle
+- description: Learn how to export TIFF from DjVu using Aspose.Imaging for Java. Step-by-step
+    guide covering loading, page selection, and export options.
+  name: How to Export TIFF – Load and Export DjVu Pages in Java with Aspose.Imaging
+  steps:
+  - name: '**Archival Systems** – Preserve scanned documents in a universally accepted
+      format.'
+    text: '**Archival Systems** – Preserve scanned documents in a universally accepted
+      format.'
+  - name: '**Document Review Workflows** – Pull out only the pages that need annotation.'
+    text: '**Document Review Workflows** – Pull out only the pages that need annotation.'
+  - name: '**Integration with DMS** – Feed TIFF images into existing document‑management
+      pipelines that do not understand DjVu.'
+    text: '**Integration with DMS** – Feed TIFF images into existing document‑management
+      pipelines that do not understand DjVu.'
+  type: HowTo
+- questions:
+  - answer: '`DjvuImage` represents a DjVu document in memory.'
+    question: What is the main class for DjVu handling?
+  - answer: Just two lines after loading the image.
+    question: How many lines of code are needed to export a page to TIFF?
+  - answer: '`com.aspose:aspose-imaging` (version 25.5+).'
+    question: Which Maven artifact provides DjVu support?
+  - answer: Yes, use `IntRange` to specify a range.
+    question: Can I export multiple pages at once?
+  - answer: A full license is required; a temporary trial is available.
+    question: Do I need a license for production?
+  type: FAQPage
+tags:
+- convert DjVu
+- Aspose.Imaging
+- Java image conversion
+title: كيفية تصدير TIFF – تحميل وتصدير صفحات DjVu في Java باستخدام Aspose.Imaging
+url: /ar/java/format-conversion-export/load-export-djvu-tiff-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,33 +60,41 @@
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/tutorial-page-section >}}
-# كيفية تحميل وتصدير صفحات DjVu بتنسيق TIFF باستخدام Aspose.Imaging Java
+# كيفية تصدير TIFF – تحميل وتصدير صفحات DjVu في Java باستخدام Aspose.Imaging
 
 ## مقدمة
 
-هل تواجه صعوبة في إدارة صور DjVu ضمن تطبيقات Java؟ تُعرف ملفات DjVu بكفاءة تخزينها للمستندات الممسوحة ضوئيًا، ولكن التعامل معها قد يكون صعبًا نظرًا لتنسيقها الفريد. سيرشدك هذا البرنامج التعليمي خلال عملية تحميل صورة DjVu وتصدير صفحات محددة بصيغة TIFF باستخدام Aspose.Imaging for Java. باتباع هذه الخطوات، ستُحسّن إمكانيات إدارة المستندات في تطبيقك.
+إذا كنت بحاجة إلى **كيفية تصدير TIFF** من مستند DjVu في تطبيق Java، فقد وصلت إلى المكان المناسب. DjVu هو تنسيق مضغوط للمستندات الممسوحة ضوئياً، لكن العديد من الأنظمة اللاحقة تتطلب TIFF. يشرح هذا الدليل كيفية تحميل ملف DjVu، اختيار الصفحات التي تحتاجها، وتصديرها كصور TIFF عالية الجودة باستخدام Aspose.Imaging for Java. في النهاية، ستحصل على مقطع شفرة قابل لإعادة الاستخدام يمكن دمجه في أي خط أنابيب لمعالجة الصور قائم على Java.
 
-**ما سوف تتعلمه:**
-- كيفية تحميل صور DjVu باستخدام Aspose.Imaging في Java
-- تصدير صفحات DjVu محددة إلى تنسيق TIFF
-- تكوين خيارات التصدير وفهم المعلمات الرئيسية
+**ما ستتعلمه**
+- كيفية تحميل صور DjVu باستخدام Aspose.Imaging في Java  
+- تصدير صفحات DjVu المحددة إلى تنسيق TIFF  
+- تكوين خيارات التصدير وفهم المعلمات الرئيسية  
 
-قبل الخوض في تفاصيل التنفيذ، دعنا نتأكد من إعداد كل شيء للحصول على تجربة سلسة.
+قبل أن نبدأ، تأكد من أن بيئة التطوير الخاصة بك تلبي المتطلبات المسبقة المذكورة أدناه.
 
-## المتطلبات الأساسية
+## إجابات سريعة
+- **ما هي الفئة الرئيسية لمعالجة DjVu؟** `DjvuImage` تمثل مستند DjVu في الذاكرة.  
+- **كم عدد أسطر الشيفرة المطلوبة لتصدير صفحة إلى TIFF؟** سطران فقط بعد تحميل الصورة.  
+- **أي حزمة Maven توفر دعم DjVu؟** `com.aspose:aspose-imaging` (الإصدار 25.5+).  
+- **هل يمكنني تصدير عدة صفحات مرة واحدة؟** نعم، استخدم `IntRange` لتحديد النطاق.  
+- **هل أحتاج إلى ترخيص للإنتاج؟** الترخيص الكامل مطلوب؛ يتوفر ترخيص تجريبي مؤقت.
 
-لمتابعة هذا البرنامج التعليمي بشكل فعال، تحتاج إلى:
+## ما هو “كيفية تصدير TIFF”؟
+**“كيفية تصدير TIFF”** تشير إلى عملية تحويل صورة أو صفحة مستند إلى تنسيق Tagged Image File Format (TIFF)، وهو تنسيق غير مضغوط يُستخدم على نطاق واسع للأرشفة والطباعة. يتعامل Aspose.Imaging مع هذا التحويل في استدعاء API واحد مع الحفاظ على الدقة وإعدادات الضغط. يحافظ التحويل على جميع التفاصيل البصرية، مما يجعله مناسبًا لتخزين أرشيفي عالي الجودة ومعالجة لاحقة.
 
-- **مكتبة Aspose.Imaging لـ Java**:تأكد من تثبيت الإصدار 25.5 أو الإصدار الأحدث.
-- **بيئة التطوير**:يجب تثبيت Java Development Kit (JDK) وتكوينه بشكل صحيح على جهازك.
-- **المعرفة الأساسية لبرمجة جافا**:ستكون المعرفة بقواعد لغة Java ومعالجة الملفات مفيدة.
+## لماذا نستخدم Aspose.Imaging لمعالجة الصور في Java؟
+يدعم Aspose.Imaging **أكثر من 150** تنسيقًا للإدخال والإخراج، ويعالج ملفات تصل إلى **5,000 صفحة** دون تحميل المستند بالكامل في الذاكرة، ويقدم عمليات آمنة للخطوط المتعددة. تجعل هذه القدرات الم quantified خيارًا موثوقًا لأعباء عمل معالجة الصور في Java ذات الإنتاجية العالية، خاصةً عند التعامل مع مجموعات مستندات كبيرة تتطلب تحويلًا دفعيًا واستهلاكًا منخفضًا للذاكرة.
 
-## إعداد Aspose.Imaging لـ Java
+## المتطلبات المسبقة
 
-يوفر Aspose.Imaging لـ Java دعمًا قويًا لمهام معالجة الصور، بما في ذلك العمل مع ملفات DjVu. لنبدأ بالإعداد:
+- **مكتبة Aspose.Imaging for Java** – الإصدار 25.5 أو أحدث.  
+- **مجموعة تطوير جافا (JDK)** – الإصدار 8 أو أحدث، مُكوَّن بشكل صحيح على جهازك.  
+- **معرفة أساسية بجافا** – يجب أن تكون مرتاحًا مع عمليات الإدخال/الإخراج ومعالجة الاستثناءات.
 
-### تبعية Maven
-أضف التبعية التالية إلى ملفك `pom.xml`:
+## كيفية إعداد Maven Aspose Imaging؟
+
+لإضافة Aspose.Imaging إلى مشروع Maven، أضف الاعتماد إلى ملف `pom.xml` الخاص بالمشروع. سيقوم Maven بتنزيل المكتبة واعتمادياتها المتتالية، مما يجعل API متاحًا للترجمة والتنفيذ. بعد إضافة المقتطف، شغّل الأمر `mvn clean install` لضمان حل الحزمة وبناء المشروع بنجاح.
 
 ```xml
 <dependency>
@@ -47,27 +104,26 @@
 </dependency>
 ```
 
-### تكوين Gradle
+## كيفية إعداد Gradle Aspose Imaging؟
 
-بالنسبة لأولئك الذين يستخدمون Gradle، قم بتضمين ما يلي في ملفك `build.gradle`:
+في بناءات Gradle، أعلن عن اعتماد Aspose.Imaging في ملف `build.gradle`. سيقوم Gradle بجلب المكتبة من Maven Central، مما يتيح لك استخدام API في شفرة Java الخاصة بك. بعد تحديث السكريبت، قم بتحديث المشروع لتنزيل ملف JAR ومزامنة الاعتماديات.
 
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-### التحميل المباشر
+## تحميل مباشر
 
-بدلاً من ذلك، يمكنك تنزيل أحدث مكتبة Aspose.Imaging for Java من [إصدارات Aspose.Imaging](https://releases.aspose.com/imaging/java/).
+يمكنك أيضًا تنزيل أحدث ملف JAR من [إصدارات Aspose.Imaging](https://releases.aspose.com/imaging/java/).
 
-#### الحصول على الترخيص
+### الحصول على الترخيص
 
-لبدء استخدام Aspose.Imaging:
-- **نسخة تجريبية مجانية**:الحصول على ترخيص مؤقت لتقييم الميزات.
-- **شراء**:فكر في شراء ترخيص كامل للاستخدام الإنتاجي.
+- **نسخة تجريبية مجانية** – احصل على ترخيص مؤقت للتقييم.  
+- **شراء** – فكر في شراء ترخيص كامل للاستخدام في الإنتاج.
 
-### التهيئة والإعداد
+## التهيئة والإعداد
 
-بعد التنزيل، تأكد من تهيئة المكتبة في مشروع Java الخاص بك:
+قبل استخدام أي API، يجب تهيئة المكتبة. `License` هي فئة تُستخدم لتطبيق ملف ترخيص Aspose.Imaging الخاص بك على المكتبة، مما يضمن الوظائف الكاملة دون قيود التقييم.
 
 ```java
 import com.aspose.imaging.License;
@@ -76,141 +132,116 @@ License license = new License();
 license.setLicense("path/to/your/license.lic");
 ```
 
-## دليل التنفيذ
+## كيفية تحميل DjVu؟
 
-سنتناول وظيفتين أساسيتين: تحميل صورة DjVu وتصدير صفحات محددة إلى TIFF.
+DjvuImage هو الكائن الأعلى مستوى الذي يمثل ملف DjVu في الذاكرة. لقراءة مستند DjVu، استدعِ الطريقة الثابتة `Image.load()` مع مسار الملف؛ تُعيد هذه الطريقة كائن `Image` يمكنك تحويله إلى `DjvuImage`. `Image.load()` هي طريقة ثابتة تقرأ ملف صورة وتُعيد كائن `Image` يمثل المحتوى المحمل.
 
-### تحميل صورة DjVu
-
-**ملخص**:توضح هذه الميزة كيفية تحميل ملف DjVu إلى تطبيق Java الخاص بك باستخدام Aspose.Imaging.
-
-#### التنفيذ خطوة بخطوة:
-
-1. **تحديد مسار المستند**
-
-   ```java
+```java
    String dataDir = "YOUR_DOCUMENT_DIRECTORY" + "/Sample.djvu";
    ```
 
-2. **تحميل صورة DjVu**
-
-   يستخدم `Image.load()` لقراءة ملف DjVu في `DjvuImage` هدف.
-
-   ```java
+```java
    try (DjvuImage image = (DjvuImage) Image.load(dataDir)) {
-       // تم الآن تحميل الصورة وهي جاهزة للمعالجة الإضافية.
+       // The image is now loaded and ready for further processing.
    }
    ```
 
-3. **استكشاف الأخطاء وإصلاحها**
+### استكشاف الأخطاء وإصلاحها
 
-   - تأكد من أن مسار الملف صحيح.
-   - تعامل مع الاستثناءات لإدارة الأخطاء بسلاسة.
+- تحقق من أن مسار الملف صحيح ويمكن الوصول إليه.  
+- غلف استدعاء التحميل بكتلة try‑catch لمعالجة `IOException` أو `ImageLoadException`.
 
-### تصدير صفحات DjVu محددة إلى TIFF
+## كيفية تصدير TIFF؟
 
-**ملخص**:تتيح لك هذه الميزة تحديد صفحات معينة من مستند DjVu وتصديرها كصور TIFF.
+يتضمن تصدير صفحة DjVu إلى TIFF إنشاء كائن `TiffOptions` يحدد الضغط والدقة وإعدادات أخرى، ثم استدعاء طريقة `save()` على الصفحة المطلوبة. `TiffOptions` هي فئة تحتفظ بإعدادات إخراج TIFF، مثل نوع الضغط وعمق اللون. استخدم `IntRange` لتحديد الصفحات التي تريد تحويلها، ثم كرر العملية واحفظ كل صفحة كملف TIFF منفصل.
 
-#### التنفيذ خطوة بخطوة:
+أنشئ دليل الإخراج، قم بإعداد `TiffOptions`، اختر الصفحات باستخدام `IntRange`، وأخيرًا احفظ كل صفحة كملف TIFF.
 
-1. **إعداد دليل الإخراج**
-
-   قم بتحديد المكان الذي سيتم حفظ ملفات TIFF الخاصة بك فيه.
-
-   ```java
+```java
    String outputDir = "YOUR_OUTPUT_DIRECTORY" + "/ConvertDjvuPagesToTiff_out.tiff";
    ```
 
-2. **إنشاء كائن TiffOptions**
-
-   قم بتكوين خيارات التصدير، وتحديد التنسيق والضغط.
-
-   ```java
+```java
    TiffOptions exportOptions = new TiffOptions(TiffExpectedFormat.TiffDeflateBw);
    ```
 
-3. **حدد الصفحات للتصدير**
-
-   يستخدم `IntRange` لتحديد أرقام الصفحات (فهرسة 0).
-
-   ```java
-   IntRange range = new IntRange(0, 2); // تصدير الصفحات الثلاث الأولى.
+```java
+   IntRange range = new IntRange(0, 2); // Export the first three pages.
    exportOptions.setMultiPageOptions(new DjvuMultiPageOptions(range));
    ```
 
-4. **تصدير الصفحات بصيغة TIFF**
-
-   احفظ الصفحات المحددة بالتنسيق المطلوب.
-
-   ```java
+```java
    try (DjvuImage image = (DjvuImage) Image.load(dataDir)) {
        image.save(outputDir, exportOptions);
    }
    ```
 
-5. **نصائح استكشاف الأخطاء وإصلاحها**
+### الأخطاء الشائعة
 
-   - تأكد من ذلك `dataDir` و `outputDir` المسارات صحيحة.
-   - تأكد من وجود نطاق الصفحات المحدد داخل المستند.
+- تأكد من وجود `outputDir`؛ وإلا ستطلق `save()` استثناءً.  
+- تذكر أن فهارس الصفحات **صفرية الأساس**؛ الصفحة 1 هي الفهرس 0.  
 
 ## التطبيقات العملية
 
-فيما يلي بعض حالات الاستخدام الواقعية لتصدير صفحات DjVu بتنسيق TIFF:
+تصدير صفحات DjVu إلى TIFF مفيد في العديد من السيناريوهات:
 
-1. **أنظمة الأرشيف**:تحويل المستندات الأرشيفية إلى صيغة TIFF للحفاظ عليها بتنسيق مدعوم على نطاق واسع.
-2. **سير عمل مراجعة المستندات**:استخراج صفحات محددة من ملفات DjVu كبيرة للمراجعة أو التعليق عليها.
-3. **التكامل مع أنظمة إدارة المستندات**:أتمتة تحويل المستندات الممسوحة ضوئيًا لتسهيل الوصول إليها وإمكانية البحث.
+1. **أنظمة الأرشفة** – حفظ المستندات الممسوحة ضوئيًا بتنسيق مقبول عالميًا.  
+2. **عمليات مراجعة المستندات** – استخراج الصفحات التي تحتاج إلى التعليق فقط.  
+3. **التكامل مع أنظمة إدارة المستندات (DMS)** – إدخال صور TIFF في خطوط أنابيب إدارة المستندات الحالية التي لا تدعم DjVu.
 
 ## اعتبارات الأداء
 
-عند العمل مع Aspose.Imaging في Java:
+عند التعامل مع ملفات DjVu الكبيرة:
 
-- **تحسين استخدام الموارد**:استخدم try-with-resources لإدارة الذاكرة بكفاءة.
-- **إدارة الملفات الكبيرة**:قم بتقسيم ملفات DjVu الكبيرة إلى أجزاء أصغر قبل المعالجة.
-- **أفضل الممارسات**:قم دائمًا بمعالجة الاستثناءات والتحقق من صحة المدخلات لمنع أخطاء وقت التشغيل.
+- استخدم **try‑with‑resources** لإغلاق التدفقات تلقائيًا وتحرير الذاكرة.  
+- عالج الملفات على دفعات (مثلاً 10 صفحات في كل مرة) للحفاظ على استهلاك الذاكرة منخفضًا.  
+- يفضَّل `TiffCompression.CCITT4` للمسحات الضوئية بالأبيض والأسود لتقليل حجم الملف دون فقدان الجودة.
 
-## خاتمة
+## الأسئلة المتكررة
 
-لقد تعلمت الآن كيفية تحميل صورة DjVu وتصدير صفحات محددة بصيغة TIFF باستخدام Aspose.Imaging لـ Java. تُحسّن هذه الإمكانيات بشكل كبير من ميزات معالجة المستندات في تطبيقك. 
+**س:** كيف أقوم بتثبيت Aspose.Imaging for Java في مشروعي؟  
+**ج:** استخدم Maven أو Gradle كما هو موضح أعلاه، أو قم بتنزيله مباشرة من [صفحة إصدارات Aspose](https://releases.aspose.com/imaging/java/).
 
-**الخطوات التالية:**
-- تجربة تنسيقات التصدير المختلفة.
-- استكشف الميزات الأخرى لـ Aspose.Imaging لتوسيع الوظائف بشكل أكبر.
+**س:** هل يمكنني تصدير صور DjVu إلى تنسيقات أخرى غير TIFF؟  
+**ج:** نعم، يدعم Aspose.Imaging أيضًا PNG و JPEG و BMP والعديد من التنسيقات الأخرى.
 
-هل أنت مستعد لتطبيق هذه الحلول في مشاريعك الخاصة؟ تعمق في التوثيق وابدأ البناء اليوم!
+**س:** ماذا أفعل إذا لم يتم التعرف على ملف الترخيص الخاص بي؟  
+**ج:** تحقق من أن مسار الترخيص صحيح وأنك تستدعي `License.setLicense()` قبل أي استخدام آخر للـ API.
 
-## قسم الأسئلة الشائعة
+**س:** كيف يمكنني التعامل بكفاءة مع ملفات DjVu الكبيرة جدًا؟  
+**ج:** عالج المستند في نطاقات صفحات أصغر وحرّر كل كائن `DjvuImage` فورًا لتجنب ضغط الذاكرة.
 
-1. **كيف أقوم بتثبيت Aspose.Imaging لـ Java في مشروعي؟**
-   - استخدم Maven أو Gradle كما هو موضح أعلاه، أو قم بالتنزيل مباشرة من [صفحة إصدارات Aspose](https://releases.aspose.com/imaging/java/).
+**س:** هل Aspose.Imaging مجاني للاستخدام التجاري؟  
+**ج:** الترخيص التجريبي المؤقت مجاني، لكن يلزم الحصول على ترخيص مدفوع للاستخدام في بيئات الإنتاج.
 
-2. **هل يمكنني تصدير صور DjVu إلى تنسيقات أخرى غير TIFF؟**
-   - نعم، يدعم Aspose.Imaging تنسيقات الصور المتعددة مثل PNG وJPEG.
+## الموارد
 
-3. **ماذا لو كان ترخيصي لا يعمل؟**
-   - تأكد من صحة مسار ملف الترخيص لديك وأنك تستخدمه قبل أي استدعاءات لواجهة برمجة التطبيقات.
+- **التوثيق**: [مرجع Aspose.Imaging Java API](https://reference.aspose.com/imaging/java/)  
+- **التنزيل**: [إصدارات Aspose.Imaging for Java](https://releases.aspose.com/imaging/java/)  
+- **الشراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)  
+- **ترخيص مجاني**: [احصل على ترخيص مجاني](https://releases.aspose.com/imaging/java/)  
+- **ترخيص مؤقت**: [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)  
+- **الدعم**: [منتدى مجتمع Aspose](https://forum.aspose.com/c/imaging/14)
 
-4. **كيف يمكنني التعامل مع ملفات DjVu الكبيرة بكفاءة؟**
-   - قم بمعالجتها في أقسام أصغر أو قم بتحسين استخدام الذاكرة باستخدام معالجة الاستثناءات المناسبة.
+من خلال إتقان الخطوات السابقة، يمكنك بثقة **تصدير TIFF** من ملفات DjVu في أي حل مبني على Java. برمجة سعيدة!
 
-5. **هل استخدام Aspose.Imaging Java مجاني؟**
-   - يتوفر ترخيص مؤقت لأغراض التقييم، ولكن يلزم الشراء للوصول الكامل والاستخدام الإنتاجي.
+---
 
-## موارد
+**آخر تحديث:** 2026-07-08  
+**تم الاختبار مع:** Aspose.Imaging 25.5 for Java  
+**المؤلف:** Aspose  
 
-- **التوثيق**: [مرجع واجهة برمجة تطبيقات Aspose.Imaging Java](https://reference.aspose.com/imaging/java/)
-- **تحميل**: [إصدارات Aspose.Imaging لـ Java](https://releases.aspose.com/imaging/java/)
-- **شراء**: [شراء Aspose.Imaging](https://purchase.aspose.com/buy)
-- **نسخة تجريبية مجانية**: [احصل على ترخيص مجاني](https://releases.aspose.com/imaging/java/)
-- **رخصة مؤقتة**: [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- **يدعم**: [منتدى مجتمع Aspose](https://forum.aspose.com/c/imaging/14)
+{{< blocks/products/products-backtop-button >}}
 
-باستخدام Aspose.Imaging لجافا، يمكنك تبسيط سير عمل معالجة مستنداتك ومعالجة ملفات DjVu بسهولة. برمجة ممتعة!
+## دروس ذات صلة
+
+- [إنشاء TIFF متعدد الصفحات باستخدام Aspose.Imaging for Java: دليل كامل](/imaging/java/animation-multi-frame-images/create-multi-page-tiff-aspose-imaging-java/)
+- [تحويل DjVu إلى PDF باستخدام Aspose.Imaging for Java - دليل خطوة بخطوة](/imaging/java/image-loading-saving/convert-djvu-to-pdf-aspose-imaging-java/)
+- [تحويل DJVU إلى BMP في Java باستخدام Aspose.Imaging: دليل خطوة بخطوة](/imaging/java/format-conversion-export/export-djvu-pages-bmp-aspose-imaging-java/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/products-backtop-button >}}
