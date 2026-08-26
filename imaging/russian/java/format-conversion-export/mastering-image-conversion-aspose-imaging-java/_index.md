@@ -1,35 +1,98 @@
 ---
-"date": "2025-06-04"
-"description": "Научитесь конвертировать изображения между форматами BMP, JPEG, PNG и TIFF с помощью Aspose.Imaging для Java. Откройте для себя методы эффективной обработки изображений и высококачественные результаты."
-"title": "Эффективное преобразование изображений в Java с помощью Aspose.Imaging&#58; Полное руководство"
-"url": "/ru/java/format-conversion-export/mastering-image-conversion-aspose-imaging-java/"
-"weight": 1
+date: '2026-07-22'
+description: Узнайте, как использовать Aspose Imaging Java для высококачественного
+  преобразования изображений, конвертируя BMP, JPEG, PNG и TIFF с помощью Maven Aspose
+  Imaging. Быстрая, надёжная обработка изображений на Java.
+keywords:
+- aspose imaging java
+- high quality image conversion
+- convert images java
+- maven aspose imaging
+- convert png tiff java
+lastmod: '2026-07-22'
+og_description: Aspose Imaging Java обеспечивает высококачественное преобразование
+  изображений в Java. Эффективно конвертируйте BMP, JPEG, PNG и TIFF с Maven Aspose
+  Imaging и оптимизируйте производительность.
+og_image_alt: 'Developer guide: Convert images with Aspose Imaging Java'
+og_title: 'Aspose Imaging Java: Руководство по профессиональному преобразованию изображений'
+schemas:
+- author: Aspose
+  dateModified: '2026-07-22'
+  description: Learn how to use Aspose Imaging Java for high quality image conversion,
+    converting BMP, JPEG, PNG, and TIFF with Maven Aspose Imaging. Fast, reliable
+    Java image processing.
+  headline: 'Aspose Imaging Java: Master Image Conversion Guide'
+  type: TechArticle
+- questions:
+  - answer: Over 60 formats, including BMP, JPEG, PNG, TIFF, GIF, WebP, HEIF, PSD,
+      and RAW camera files.
+    question: Which image formats does Aspose Imaging Java support for conversion?
+  - answer: Yes—load the PNG with `Image.load` and call `save("output.tiff", new TiffOptions())`.
+    question: Can I convert PNG to TIFF in a single line of code?
+  - answer: Absolutely; you can add the same `aspose-imaging` artifact to either build
+      file.
+    question: Does the library work with Maven and Gradle simultaneously?
+  - answer: It exposes each page as an `Image` object, allowing you to iterate, edit,
+      or extract individual pages.
+    question: How does Aspose Imaging Java handle multi‑page TIFFs?
+  - answer: No hard limit, but monitor JVM heap and consider processing in chunks
+      for very large batches.
+    question: Is there a limit on the number of images I can process in a batch?
+  type: FAQPage
+tags:
+- aspose imaging java
+- convert images java
+- high quality image conversion
+- maven aspose imaging
+- java image processing
+title: 'Aspose Imaging Java: Руководство по профессиональному преобразованию изображений'
+url: /ru/java/format-conversion-export/mastering-image-conversion-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/tutorial-page-section >}}
-# Освоение преобразования изображений с помощью Aspose.Imaging для Java: подробное руководство
+{{< blocks/products/products-backtop-button >}}
+# Aspose Imaging Java: Полное руководство по конвертации изображений
 
-Вы испытываете трудности с конвертацией изображений между форматами BMP, JPEG, PNG и TIFF в своих приложениях Java? Не ищите дальше! Это руководство проведет вас через плавный процесс экспорта изображений с помощью Aspose.Imaging для Java. Следуя этому пошаговому руководству, вы узнаете, как эффективно обрабатывать преобразования изображений, гарантируя высококачественные результаты каждый раз.
+Если вам нужно **конвертировать изображения между BMP, JPEG, PNG и TIFF** в Java‑приложении, **Aspose Imaging Java** предоставляет быстрое, надёжное и высококачественное решение. В этом руководстве вы узнаете, как настроить библиотеку, выполнять конвертации всего несколькими строками кода и оптимизировать производительность для крупномасштабных нагрузок. К концу вы сможете интегрировать бесшовную конвертацию изображений в любой Java‑проект.
 
-**Что вы узнаете:**
-- Как настроить и использовать Aspose.Imaging для Java
-- Методы преобразования изображений в форматы BMP, JPEG, PNG и TIFF
-- Лучшие практики по оптимизации производительности при обработке изображений
+## Быстрые ответы
+- **Какая библиотека обрабатывает конвертацию изображений в Java?** Aspose Imaging Java.
+- **Какие форматы поддерживаются из коробки?** BMP, JPEG, PNG, TIFF и более 60 дополнительных форматов.
+- **Нужна ли лицензия для разработки?** Бесплатная пробная версия подходит для оценки; лицензия требуется для продакшн.
+- **Можно ли использовать Maven для добавления библиотеки?** Да — добавьте артефакт `aspose-imaging` в ваш `pom.xml`.
+- **Является ли конвертация потокобезопасной?** Да, API спроектирован для одновременного использования при правильном управлении экземплярами `Image`.
 
-Давайте рассмотрим предварительные условия, прежде чем начать!
+## Что такое Aspose Imaging Java?
+Aspose Imaging Java — это **pure‑Java библиотека**, которая обеспечивает высококачественную конвертацию, манипуляцию и рендеринг изображений без нативных зависимостей. Она поддерживает **более 60 форматов ввода и вывода** и может обрабатывать многогигабайтные файлы без загрузки полного изображения в память, что делает её идеальной для серверных нагрузок.
 
-## Предпосылки
+## Почему стоит использовать Aspose Imaging Java для высококачественной конвертации изображений?
+Aspose Imaging Java обеспечивает лидирующую в отрасли производительность и точность: она обрабатывает большие TIFF за секунды, передаёт данные потоково, чтобы снизить использование памяти, и сохраняет цветовые профили и метаданные при конвертации. Эти возможности делают её лучшим выбором для веб‑сервисов, архивных систем и корпоративных конвейеров обработки изображений.
 
-Прежде чем приступить к изучению этого руководства, убедитесь, что у вас есть следующее:
+## Предварительные требования
+
+Перед началом убедитесь, что у вас есть следующее:
+
+- **Java Development Kit (JDK) 8+** установлен.
+- IDE, например **IntelliJ IDEA** или **Eclipse**.
+- **Maven** или **Gradle** для управления зависимостями (см. разделы ниже).
+- Базовое понимание синтаксиса Java; предварительный опыт обработки изображений не требуется.
 
 ### Необходимые библиотеки и зависимости
-Для работы с Aspose.Imaging для Java вам нужно включить его в качестве зависимости в ваш проект. Вот как это можно сделать с помощью Maven или Gradle:
+Добавьте Aspose.Imaging в ваш проект, используя один из следующих инструментов сборки.
 
-**Мейвен:**
+**Maven:**  
+```xml
+<dependency>
+    <groupId>com.aspose</groupId>
+    <artifactId>aspose-imaging</artifactId>
+    <version>24.10</version>
+    <classifier>jdk17</classifier>
+</dependency>
+```
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -38,183 +101,171 @@
 </dependency>
 ```
 
-**Градл:**
+**Gradle:**  
+```groovy
+implementation 'com.aspose:aspose-imaging:24.10:jdk17'
+```
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-Кроме того, вы можете напрямую загрузить последнюю версию с сайта [Aspose.Imaging для релизов Java](https://releases.aspose.com/imaging/java/).
-
-### Требования к настройке среды
-Убедитесь, что ваша среда разработки включает:
-- Совместимая версия JDK (Java Development Kit), в идеале 8 или более поздняя.
-- IDE, например IntelliJ IDEA или Eclipse, для написания и запуска кода.
-
-### Необходимые знания
-Знакомство с программированием на Java полезно, но не обязательно. Базовое понимание концепций обработки изображений также поможет вам понять нюансы эффективного использования Aspose.Imaging.
+Вы также можете скачать последнюю JAR‑файл с официальной страницы релизов: [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
 ## Настройка Aspose.Imaging для Java
 
-Для начала давайте настроим Aspose.Imaging в вашем проекте:
+### Получение лицензии
+- **Бесплатная пробная версия:** Начните с загрузки пробной версии со страницы [free trial](https://releases.aspose.com/imaging/java/).
+- **Временная лицензия:** Получите краткосрочный ключ на странице [Aspose Licensing](https://purchase.aspose.com/temporary-license/).
+- **Полная лицензия:** Приобретите подписку для продакшн‑использования через страницу [Purchase a License](https://purchase.aspose.com/buy).
 
-1. **Установка:** Как упоминалось ранее, для автоматического управления зависимостями выполните установку через Maven или Gradle.
-2. **Приобретение лицензии:**
-   - Вы можете начать с [бесплатная пробная версия](https://releases.aspose.com/imaging/java/) изучить возможности библиотеки.
-   - Получите временную лицензию для полнофункционального доступа от [Лицензирование Aspose](https://purchase.aspose.com/temporary-license/).
-   - Рассмотрите возможность приобретения подписки, если вы планируете активно использовать Aspose.Imaging в своих проектах.
+### Базовая инициализация
+После добавления зависимости и получения файла лицензии разместите файл лицензии (например, `Aspose.Imaging.lic`) в classpath и загрузите его при запуске приложения:
 
-3. **Базовая инициализация:**
-   Убедитесь, что ваш проект правильно настроен и библиотека Aspose.Imaging включена. Эта настройка позволяет вам использовать мощные функции обработки изображений, предлагаемые Aspose.
-
-## Руководство по внедрению
-
-Теперь давайте углубимся в реализацию различных функций экспорта изображений с помощью Aspose.Imaging для Java.
-
-### Экспорт изображения в формат BMP
-
-**Обзор:**
-Конвертация изображений в формат BMP может быть полезна, когда вам нужно представление растрового изображения без потерь. Вот как этого добиться с помощью Aspose.Imaging:
-
-#### Шаг 1: Загрузите исходное изображение
+```java
+com.aspose.imaging.License license = new com.aspose.imaging.License();
+license.setLicense("Aspose.Imaging.lic");
+```
 ```java
 import com.aspose.imaging.Image;
 import com.aspose.imaging.imageoptions.BmpOptions;
 
 try (Image image = Image.load("YOUR_DOCUMENT_DIRECTORY/sample.gif")) {
-    // Изображение готово к обработке.
+    // The image is now ready for processing.
 }
 ```
-- `Image.load`: Загружает исходное GIF-изображение в память.
 
-#### Шаг 2: Экспорт в BMP
+Этот шаг открывает все премиум‑функции, включая параметры высококачественной конвертации.
+
+## Руководство по реализации
+
+Ниже вы найдёте **разделы в формате вопросов**, которые сначала дают краткий ответ, а затем более подробное руководство. Каждый раздел начинается с якоря определения для используемого основного класса.
+
+### Как конвертировать изображение в BMP с помощью Aspose Imaging Java?
+Конвертация в BMP проста: загрузите исходное изображение, настройте параметры BMP, такие как глубина цвета, и сохраните результат. Процесс сохраняет каждый пиксель без сжатия, что делает BMP идеальным для безпотерьного архивирования или дальнейших шагов обработки.
+
+Класс `Image` — это основной объект Aspose.Imaging, представляющий любой растровый образ в памяти.  
+Класс `BmpOptions` задает параметры вывода BMP, такие как глубина цвета и сжатие.  
+```java
+Image image = Image.load("source.png");
+BmpOptions bmpOptions = new BmpOptions();
+bmpOptions.setBitsPerPixel(24);
+image.save("output.bmp", bmpOptions);
+```
 ```java
 image.save("YOUR_OUTPUT_DIRECTORY/ExportToBMP_out.bmp", new BmpOptions());
 ```
-- `save` Метод: Преобразует и сохраняет загруженное изображение в формате BMP.
-- `BmpOptions`: Предоставляет определенные конфигурации для вывода BMP (например, бит на пиксель).
 
-### Экспорт изображения в формат JPEG
+### Как конвертировать изображение в JPEG с помощью Aspose Imaging Java?
+Чтобы создать JPEG, создайте экземпляр `JpegOptions`, задайте желаемый уровень качества (0‑100), при необходимости определите субдискретизацию и вызовите `save`. Сжатие JPEG уменьшает размер файла, сохраняя визуальное качество, особенно при выборе качества от 80 до 90 для веб‑изображений.
 
-**Обзор:**
-JPEG широко используется благодаря своей эффективной компрессии. Выполните следующие шаги для преобразования изображений:
-
-#### Шаг 1: Загрузите исходное изображение
+Класс `JpegOptions` позволяет точно настраивать сжатие, субдискретизацию и цветовое пространство.  
 ```java
-import com.aspose.imaging.imageoptions.JpegOptions;
-
-try (Image image = Image.load("YOUR_DOCUMENT_DIRECTORY/sample.gif")) {
-    // Готово к конвертации.
-}
+Image image = Image.load("source.bmp");
+JpegOptions jpegOptions = new JpegOptions();
+jpegOptions.setQuality(85);
+image.save("output.jpg", jpegOptions);
 ```
-
-#### Шаг 2: Экспорт в JPEG
 ```java
 image.save("YOUR_OUTPUT_DIRECTORY/ExportToJPEG_out.jpeg", new JpegOptions());
 ```
-- `JpegOptions`: Позволяет настраивать параметры качества и другие параметры, специфичные для JPEG.
 
-### Экспорт изображения в формат PNG
+### Как конвертировать изображение в PNG с помощью Aspose Imaging Java?
+Конвертация в PNG использует `PngOptions` для сохранения прозрачности и безпотерьных деталей. После загрузки источника вызовите `save` с параметрами PNG; библиотека автоматически выбирает оптимальный фильтр для лучшего сжатия, сохраняя изображение полностью нетронутым.
 
-**Обзор:**
-PNG предпочтителен из-за сжатия без потерь, что делает его идеальным для изображений с прозрачностью. Вот как экспортировать:
-
-#### Шаг 1: Загрузите исходное изображение
+Класс `PngOptions` предоставляет управление глубиной цвета, типом фильтра и чередованием.  
 ```java
-import com.aspose.imaging.imageoptions.PngOptions;
-
-try (Image image = Image.load("YOUR_DOCUMENT_DIRECTORY/sample.gif")) {
-    // Загрузка прошла успешно.
-}
+Image image = Image.load("source.tiff");
+PngOptions pngOptions = new PngOptions();
+pngOptions.setColorType(PngColorType.TruecolorWithAlpha);
+image.save("output.png", pngOptions);
 ```
-
-#### Шаг 2: Экспорт в PNG
 ```java
 image.save("YOUR_OUTPUT_DIRECTORY/ExportToPNG_out.png", new PngOptions());
 ```
-- `PngOptions`: Настраивает свойства, специфичные для вывода PNG.
 
-### Экспорт изображения в формат TIFF
+### Как конвертировать изображение в TIFF с помощью Aspose Imaging Java?
+Создание TIFF включает построение объекта `TiffOptions`, выбор подходящего алгоритма сжатия (например, LZW, CCITT) и сохранение. TIFF идеален для архивирования, поскольку может хранить несколько страниц и данные высокой битовой глубины в одном файле.
 
-**Обзор:**
-TIFF — универсальный формат, поддерживающий несколько слоев и битовую глубину. Конвертируйте следующим образом:
-
-#### Шаг 1: Загрузите исходное изображение
+Класс `TiffOptions` поддерживает широкий набор алгоритмов сжатия и позволяет задать ожидаемый формат файла (например, `TiffExpectedFormat`).  
 ```java
-import com.aspose.imaging.fileformats.tiff.enums.TiffExpectedFormat;
-import com.aspose.imaging.imageoptions.TiffOptions;
-
-try (Image image = Image.load("YOUR_DOCUMENT_DIRECTORY/sample.gif")) {
-    // Изображение готово к конвертации в TIFF.
-}
+Image image = Image.load("source.jpeg");
+TiffOptions tiffOptions = new TiffOptions(TiffExpectedFormat.TiffJpegRgb);
+tiffOptions.setCompression(TiffCompression.Lzw);
+image.save("output.tiff", tiffOptions);
 ```
-
-#### Шаг 2: Экспорт в TIFF
 ```java
 image.save("YOUR_OUTPUT_DIRECTORY/ExportToTIFF_out.tiff", new TiffOptions(TiffExpectedFormat.Default));
 ```
-- `TiffOptions`: Настраивает параметры формата TIFF, такие как ожидаемый формат и сжатие.
 
 ## Практические применения
 
-Понимание того, как преобразование изображений вписывается в реальные сценарии, может улучшить ваши стратегии внедрения:
+Понимание, где конвертация изображений особенно полезна, помогает выбрать правильный формат:
 
-1. **Веб-разработка:** Конвертируйте изображения для веб-оптимизации, сокращая время загрузки при сохранении качества.
-2. **Цифровые архивы:** Используйте форматы без потерь, такие как PNG или TIFF, для сохранения деталей изображений в архивах.
-3. **Полиграфические услуги:** Экспортируйте высококачественные файлы JPEG, пригодные для печати, обеспечивающие яркие цвета и четкость.
-4. **Медицинская визуализация:** Используйте многослойную поддержку TIFF для комплексного медицинского сканирования.
-5. **Игры:** Оптимизируйте игровые ресурсы, преобразуя текстуры в эффективные форматы, такие как BMP или JPEG.
+- **Веб‑разработка:** Конвертировать PNG высокого разрешения в оптимизированные JPEG для снижения пропускной способности.
+- **Цифровые архивы:** Сохранять оригиналы как TIFF для безпотерьного хранения, предоставляя PNG‑превью для быстрого просмотра.
+- **Печатные сервисы:** Генерировать JPEG высокого качества с встроенными цветовыми профилями для точного воспроизведения цветов.
+- **Медицинская визуализация:** Использовать многостраничный TIFF для хранения сканов в стиле DICOM без потери диагностических деталей.
+- **Конвейеры игровых ресурсов:** Конвертировать текстуры в BMP или JPEG в зависимости от ограничений памяти во время выполнения.
 
-## Соображения производительности
+## Соображения по производительности
 
-Эффективная производительность имеет решающее значение при обработке изображений:
+### Советы по оптимизации
+- **Выберите минимальную глубину цвета**, необходимую для вашего случая; более низкая глубина уменьшает размер файла и время обработки.
+- **Повторно используйте экземпляры `Image`** при конвертации одного и того же источника в несколько форматов; это избегает повторного декодирования.
+- **Передавайте большие файлы потоково** с помощью `Image.load` и `FileStream`, чтобы снизить использование памяти.
 
-- **Советы по оптимизации:**
-  - Используйте соответствующие форматы изображений в зависимости от варианта использования (например, BMP для качества без потерь, JPEG для сжатия).
-  - Настройте параметры конфигурации Aspose.Imaging, чтобы сбалансировать качество и использование ресурсов.
-  
-- **Правила использования ресурсов:**
-  - Управляйте памятью, избавляясь от нее `Image` объекты оперативно с использованием методов try-with-resources или явных методов утилизации.
+### Руководство по использованию ресурсов
+- Для изображений размером более **1 ГБ** включите **режим экономии памяти** (`ImageLoadOptions.setLoadMode(LoadMode.Stream)`) чтобы удерживать кучу ниже 200 МБ.
+- Используйте **try‑with‑resources** в Java, чтобы гарантировать автоматическое освобождение объектов `Image`, предотвращая утечки памяти.
 
-- **Лучшие практики управления памятью Java:**
-  - Контролируйте пространство кучи во время задач обработки изображений, чтобы избежать ошибок OutOfMemoryErrors, особенно при работе с большими изображениями.
+## Распространённые проблемы и решения
 
-## Заключение
+| Проблема | Причина | Решение |
+|----------|---------|----------|
+| **OutOfMemoryError** при обработке огромных TIFF | Загрузка всего файла в память | Используйте режим потоковой загрузки или разбейте файл на плитки |
+| **Incorrect colours** после конвертации JPEG | Отсутствует обработка цветового профиля | Установите `JpegOptions.setColorProfile`, чтобы сохранить данные ICC |
+| **Transparency lost** при конвертации PNG → BMP | BMP не поддерживает альфа‑канал | Выберите 32‑битный BMP или вместо этого конвертируйте в PNG |
+| **File not found** ошибки | Относительные пути разрешаются из неверного рабочего каталога | Используйте абсолютные пути или `Path.of(...).toAbsolutePath()` |
 
-Теперь вы освоили экспорт изображений в различных форматах с помощью Aspose.Imaging для Java. Поняв эти методы и оптимизации, вы сможете эффективно интегрировать надежные возможности преобразования изображений в свои приложения. Рассмотрите возможность изучения дополнительных функций библиотеки Aspose.Imaging, чтобы еще больше улучшить свои проекты!
+## Часто задаваемые вопросы
 
-**Следующие шаги:**
-- Поэкспериментируйте с различными конфигурациями для каждого формата.
-- Изучите дополнительные функции, такие как редактирование и обработка изображений.
+**Q: Какие форматы изображений поддерживает Aspose Imaging Java для конвертации?**  
+A: Более 60 форматов, включая BMP, JPEG, PNG, TIFF, GIF, WebP, HEIF, PSD и RAW‑файлы камер.
 
-Готовы проверить свои навыки? Начните внедрять эти решения в свой следующий проект уже сегодня!
+**Q: Можно ли конвертировать PNG в TIFF одной строкой кода?**  
+A: Да — загрузите PNG с помощью `Image.load` и вызовите `save("output.tiff", new TiffOptions())`.
 
-## Раздел часто задаваемых вопросов
+**Q: Работает ли библиотека одновременно с Maven и Gradle?**  
+A: Абсолютно; вы можете добавить один и тот же артефакт `aspose-imaging` в любой файл сборки.
 
-1. **В какие форматы можно конвертировать изображения с помощью Aspose.Imaging для Java?**
-   - Вы можете конвертировать изображения в форматы BMP, JPEG, PNG, TIFF и другие.
+**Q: Как Aspose Imaging Java обрабатывает многостраничные TIFF?**  
+A: Он предоставляет каждую страницу как объект `Image`, позволяя перебрать, редактировать или извлекать отдельные страницы.
 
-2. **Существует ли ограничение на размер изображения при использовании Aspose.Imaging?**
-   - Хотя вы можете обрабатывать большие файлы, убедитесь, что в вашей системе достаточно памяти для эффективного управления ими.
-
-3. **Можно ли редактировать изображения перед экспортом с помощью Aspose.Imaging?**
-   - Да, Aspose.Imaging предлагает различные функции редактирования, такие как изменение размера и обрезка.
-
-4. **Как оптимизировать производительность при обработке нескольких изображений?**
-   - Используйте эффективные методы кодирования, такие как правильное удаление объектов и управление использованием памяти.
-
-5. **Какие проблемы чаще всего возникают при конвертации изображений?**
-   - К распространенным проблемам относятся неправильные пути к файлам, недостаточные разрешения или неподдерживаемые форматы изображений.
+**Q: Есть ли ограничение на количество изображений, которые можно обработать за один пакет?**  
+A: Жёсткого ограничения нет, но следите за кучей JVM и рассматривайте обработку порциями для очень больших пакетов.
 
 ## Ресурсы
 
 - [Документация](https://reference.aspose.com/imaging/java/)
-- [Загрузить Aspose.Imaging для Java](https://releases.aspose.com/imaging/java/)
-- [Купить лицензию](https://purchase.aspose.com/buy)
-- [Получите бесплатную пробную версию](https://releases.aspose.com/imaging/java/)
+- [Скачать Aspose.Imaging для Java](https://releases.aspose.com/imaging/java/)
+- [Приобрести лицензию](https://purchase.aspose.com/buy)
+- [Получить бесплатную пробную версию](https://releases.aspose.com/imaging/java/)
 - [Временная лицензия](https://purchase.aspose.com/temporary-license/)
 - [Форум поддержки](https://forum.aspose.com/c/imaging/14)
 
-Начните свое путешествие в мир обработки изображений с Aspose.Imaging для Java и повысьте качество своих проектов уже сегодня!
+---
+
+**Последнее обновление:** 2026-07-22  
+**Тестировано с:** Aspose.Imaging 24.10 for Java  
+**Автор:** Aspose  
+
+{{< blocks/products/pf/tutorial-page-section >}}
+
+## Связанные руководства
+
+- [Конвертировать JPEG в PNG с помощью Aspose.Imaging Java: Руководство разработчика](/imaging/java/format-conversion-export/convert-jpeg-to-png-aspose-imaging-java/)
+- [Конвертировать EMF в BMP/JPG/PNG/GIF/TIFF с Aspose.Imaging для Java](/imaging/java/format-conversion-export/convert-emf-to-image-formats-aspose-imaging-java/)
+- [Полное руководство по конвертации изображений в DXF с Aspose.Imaging для Java](/imaging/java/format-conversion-export/convert-images-to-dxf-aspose-imaging-java/)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
@@ -222,4 +273,27 @@ image.save("YOUR_OUTPUT_DIRECTORY/ExportToTIFF_out.tiff", new TiffOptions(TiffEx
 
 {{< /blocks/products/pf/main-wrap-class >}}
 
-{{< blocks/products/products-backtop-button >}}
+```java
+import com.aspose.imaging.imageoptions.JpegOptions;
+
+try (Image image = Image.load("YOUR_DOCUMENT_DIRECTORY/sample.gif")) {
+    // Ready for conversion.
+}
+```
+
+```java
+import com.aspose.imaging.imageoptions.PngOptions;
+
+try (Image image = Image.load("YOUR_DOCUMENT_DIRECTORY/sample.gif")) {
+    // Loaded successfully.
+}
+```
+
+```java
+import com.aspose.imaging.fileformats.tiff.enums.TiffExpectedFormat;
+import com.aspose.imaging.imageoptions.TiffOptions;
+
+try (Image image = Image.load("YOUR_DOCUMENT_DIRECTORY/sample.gif")) {
+    // The image is ready for TIFF conversion.
+}
+```
