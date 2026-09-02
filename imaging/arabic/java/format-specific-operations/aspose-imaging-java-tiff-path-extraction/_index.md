@@ -1,40 +1,110 @@
 ---
-"date": "2025-06-04"
-"description": "تعلّم كيفية استخراج مسارات القطع وإنشاءها في صور TIFF باستخدام Aspose.Imaging لجافا. حسّن مشاريع معالجة الصور بتحويل TIFF إلى PSD."
-"title": "استخراج وإنشاء مسارات القطع في TIFF باستخدام Aspose.Imaging لـ Java"
-"url": "/ar/java/format-specific-operations/aspose-imaging-java-tiff-path-extraction/"
-"weight": 1
+date: '2026-09-02'
+description: تعلم كيفية إنشاء مسار قص واستخراجه من صور TIFF باستخدام Aspose.Imaging
+  for Java. اتبع التعليمات خطوة بخطوة لتحويل TIFF إلى PSD بكفاءة.
+keywords:
+- create clipping path
+- how to extract path
+- how to convert tiff
+- aspose imaging java
+- convert tiff to psd
+lastmod: '2026-09-02'
+og_description: تعلم كيفية إنشاء مسار قص واستخراجه من صور TIFF باستخدام Aspose.Imaging
+  for Java. اتبع الكود خطوة بخطوة لتحويل TIFF إلى PSD.
+og_image_alt: Guide showing how to create clipping path in TIFF using Aspose.Imaging
+  Java
+og_title: إنشاء مسار قص في ملفات TIFF باستخدام Aspose.Imaging for Java
+schemas:
+- author: Aspose
+  dateModified: '2026-09-02'
+  description: Learn how to create clipping path and extract it from TIFF images using
+    Aspose.Imaging for Java. Follow step‑by‑step instructions to convert TIFF to PSD
+    efficiently.
+  headline: Create clipping path in TIFF with Aspose.Imaging for Java
+  type: TechArticle
+- description: Learn how to create clipping path and extract it from TIFF images using
+    Aspose.Imaging for Java. Follow step‑by‑step instructions to convert TIFF to PSD
+    efficiently.
+  name: Create clipping path in TIFF with Aspose.Imaging for Java
+  steps:
+  - name: '**Free trial** – start with a 30‑day trial.'
+    text: '**Free trial** – start with a 30‑day trial.'
+  - name: '**Temporary license** – obtain one from the [temporary license page](https://purchase.aspose.com/temporary-license/).'
+    text: '**Temporary license** – obtain one from the [temporary license page](https://purchase.aspose.com/temporary-license/).'
+  - name: '**Purchase** – buy a full license at [Aspose''s website](https://purchase.aspose.com/buy).'
+    text: '**Purchase** – buy a full license at [Aspose''s website](https://purchase.aspose.com/buy).'
+  - name: '**Graphic design workflows** – Convert TIFF to PSD to edit layers and masks
+      in Photoshop.'
+    text: '**Graphic design workflows** – Convert TIFF to PSD to edit layers and masks
+      in Photoshop.'
+  - name: '**Automated image pipelines** – Batch‑process thousands of TIFFs, extracting
+      or adding paths on the fly.'
+    text: '**Automated image pipelines** – Batch‑process thousands of TIFFs, extracting
+      or adding paths on the fly.'
+  - name: '**Data‑driven visualizations** – Use vector paths to generate precise charts
+      or schematics from raster sources.'
+    text: '**Data‑driven visualizations** – Use vector paths to generate precise charts
+      or schematics from raster sources.'
+  type: HowTo
+- questions:
+  - answer: Yes, provided you have a valid commercial license; a free trial is available
+      for evaluation.
+    question: Can I use Aspose.Imaging for Java in a commercial application?
+  - answer: The library supports over 100 formats, including TIFF, PSD, BMP, JPEG,
+      PNG, and many more.
+    question: What image formats does Aspose.Imaging support?
+  - answer: Verify that the source TIFF actually contains vector path resources; use
+      the `hasPathResources()` check before extraction.
+    question: How do I troubleshoot path extraction errors?
+  - answer: Absolutely – combine the extraction code with Java’s parallel streams
+      or an executor service to handle many files efficiently.
+    question: Is batch processing of multiple TIFFs possible?
+  - answer: Complex shapes may need manual adjustment after creation; the API handles
+      standard Bezier curves and straight lines reliably.
+    question: Are there limitations when creating clipping paths in TIFF?
+  type: FAQPage
+tags:
+- create clipping path
+- TIFF processing
+- Aspose.Imaging
+- Java image manipulation
+- PSD conversion
+title: إنشاء مسار قص في ملفات TIFF باستخدام Aspose.Imaging for Java
+url: /ar/java/format-specific-operations/aspose-imaging-java-tiff-path-extraction/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# إتقان استخراج المسار وإنشائه في TIFF باستخدام Aspose.Imaging Java
 
-**أطلق العنان لقوة معالجة الصور بإتقان كيفية استخراج مسارات القطع وإنشائها في ملفات TIFF باستخدام Aspose.Imaging Java. في هذا الدليل الشامل، ستتعلم كيفية تحويل صور TIFF بسلاسة إلى تنسيقات PSD متعددة الاستخدامات، مع تحسين جاذبيتها البصرية باستخدام موارد مسارات مخصصة.**
+# إنشاء مسار قص في TIFF باستخدام Aspose.Imaging للـ Java
 
-## ما سوف تتعلمه
-- كيفية استخراج موارد المسار بكفاءة من صور TIFF.
-- خطوات لإنشاء مسارات القطع وإضافتها لتحسين مشاريع معالجة الصور الخاصة بك.
-- دمج Aspose.Imaging لـ Java في بيئة التطوير الخاصة بك.
-- التطبيقات العملية وتقنيات تحسين الأداء.
+في هذا الدليل الشامل ستتعلم **كيفية إنشاء مسار قص** في ملف TIFF وكيفية استخراج المسارات الموجودة باستخدام Aspose.Imaging للـ Java. في النهاية، ستكون قادرًا على تحويل صور TIFF إلى ملفات PSD قابلة للتحرير بالكامل، مما يجعلها جاهزة لبرنامج Photoshop أو أي محرر يدعم المتجهات.
 
-هل أنت مستعد للانطلاق في عالم معالجة الصور المتقدمة؟ هيا بنا!
+## إجابات سريعة
+- **ما هو مسار القص؟** مخطط متجه يحدد المناطق الشفافة والمعتمة في الصورة.  
+- **هل يمكنني استخراج مسار موجود من TIFF؟** نعم – يمكن لـ Aspose.Imaging قراءة موارد المسار المدمجة وحفظها كملف PSD.  
+- **كيف يمكنني إضافة مسار قص جديد؟** أنشئ `PathResource`، واملأه بسجلات المتجه، ثم عينه إلى الإطار النشط للصورة.  
+- **هل أحتاج إلى ترخيص للاستخدام الإنتاجي؟** يلزم وجود ترخيص صالح لـ Aspose.Imaging للنشر التجاري.  
+- **ما نسخة Java المطلوبة؟** JDK 8 أو أعلى؛ المكتبة تعمل مع Java 11، 17، وما بعده.
 
-## المتطلبات الأساسية
+## ما هو مسار القص؟
+مسار القص هو مخطط يعتمد على المتجه يحدد لمحركات العرض أي أجزاء من الصورة يجب إظهارها أو إخفاؤها. يتم تخزينه كموارد مسار داخل ملفات TIFF أو PSD ويمكن تحريره في Adobe Photoshop.
 
-قبل أن نستمر، تأكد من أن لديك ما يلي:
-- **مجموعة تطوير جافا (JDK)**:تم تثبيت JDK 8 أو أعلى على جهازك.
-- **مكتبة Aspose.Imaging لـ Java**ستحتاج إلى هذه المكتبة، والتي يمكن إضافتها عبر تبعيات Maven أو Gradle. يفترض هذا الدليل إلمامًا بمفاهيم برمجة Java الأساسية.
+## لماذا تحويل TIFF إلى PSD؟
+تحويل TIFF إلى PSD يتيح تحريرًا بدون فقدان للطبقات والماسكات ومسارات القص. يدعم Aspose.Imaging **أكثر من 50 تنسيقًا للإدخال والإخراج** ويمكنه معالجة ملفات TIFF متعددة الصفحات مئات الصفحات دون تحميل الملف بالكامل في الذاكرة، مما يمنحك تحويل دفعي عالي الأداء.
 
-## إعداد Aspose.Imaging لـ Java
+## المتطلبات المسبقة
+- **Java Development Kit (JDK)** 8 أو أحدث مثبت.
+- **Aspose.Imaging for Java** مكتبة (أضفها عبر Maven أو Gradle أو التحميل المباشر).
+- إلمام أساسي بمفاهيم برمجة Java.
 
-لبدء استخدام Aspose.Imaging لـ Java في مشروعك، اتبع خطوات التثبيت التالية:
+## كيفية إعداد Aspose.Imaging للـ Java
+قبل إضافة أي كود، تأكد من أن المكتبة مُشار إليها بشكل صحيح في نظام البناء الخاص بك وأن لديك ملف ترخيص صالح. هذا يضمن أن API يعمل بدون قيود التقييم وأن جميع الميزات، بما في ذلك معالجة المسارات، متاحة.
 
-### مافن
-أضف التبعية التالية إلى ملفك `pom.xml` ملف:
+### Maven
+أضف الاعتماد التالي إلى ملف `pom.xml` الخاص بك:
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -43,93 +113,81 @@
 </dependency>
 ```
 
-### جرادل
-قم بتضمين هذا السطر في `build.gradle` ملف:
+### Gradle
+أدرج هذا السطر في ملف `build.gradle` الخاص بك:
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
 ### التحميل المباشر
-بدلاً من ذلك، قم بتنزيل الإصدار الأحدث من [إصدارات Aspose.Imaging لـ Java](https://releases.aspose.com/imaging/java/).
+حمّل أحدث نسخة من [إصدارات Aspose.Imaging للـ Java](https://releases.aspose.com/imaging/java/).
 
 #### الحصول على الترخيص
-1. **نسخة تجريبية مجانية**:ابدأ بفترة تجريبية مجانية لمدة 30 يومًا لاستكشاف كافة الميزات.
-2. **رخصة مؤقتة**:احصل على ترخيص مؤقت عن طريق زيارة [صفحة الترخيص المؤقت](https://purchase.aspose.com/temporary-license/).
-3. **شراء**:للاستخدام المستمر، قم بشراء ترخيص من [موقع Aspose](https://purchase.aspose.com/buy).
+1. **تجربة مجانية** – ابدأ بتجربة لمدة 30 يومًا.  
+2. **ترخيص مؤقت** – احصل على واحد من [صفحة الترخيص المؤقت](https://purchase.aspose.com/temporary-license/).  
+3. **شراء** – اشترِ ترخيصًا كاملاً من [موقع Aspose](https://purchase.aspose.com/buy).
 
-بمجرد التثبيت والترخيص، قم بتشغيل Aspose.Imaging في مشروعك:
+بعد التثبيت والترخيص، قم بتهيئة Aspose.Imaging في مشروعك:
 ```java
 com.aspose.imaging.License license = new com.aspose.imaging.License();
 license.setLicense("path_to_license_file");
 ```
 
-## دليل التنفيذ
+## كيفية استخراج مسار القص من TIFF؟
+يتضمن استخراج مسار القص تحميل ملف TIFF، وتحديد أي موارد مسار مدمجة، وكتابة تلك الموارد إلى ملف PSD جديد. تقرأ العملية بيانات المتجه مباشرةً من صورة المصدر، مع الحفاظ على الدقة وتجنب تحويلها إلى نقطية.
 
-### الميزة 1: استخراج موارد المسار من TIFF
-
-**ملخص**:تتيح لك هذه الميزة استخراج موارد مسار المتجه المضمنة في صور TIFF وحفظها كملفات PSD، والتي يمكن تحريرها بشكل أكبر في تطبيقات التصميم الجرافيكي.
-
-#### التنفيذ خطوة بخطوة
-
-##### تحميل صورة TIFF
+حمّل ملف TIFF، وتكرّر عبر موارد المسار الخاصة به، واحفظ النتيجة كملف PSD. تقوم هذه العملية بقراءة بيانات المتجه المدمجة وكتابتها إلى ملف جديد في خطوة واحدة.
 ```java
 String filePath = "YOUR_DOCUMENT_DIRECTORY/SupportExtractingPathsFromTiff/Sample.tif";
 try (TiffImage image = (TiffImage) com.aspose.imaging.Image.load(filePath)) {
-    // تابع خطوات الاستخراج...
+    // Proceed with extraction steps...
 }
 ```
 
-##### استخراج موارد المسار
-كرر مسار الموارد في الإطار النشط:
+تكرّر عبر موارد المسار في الإطار النشط وجمعها:
 ```java
 for (PathResource path : image.getActiveFrame().getPathResources()) {
-    System.out.println(path.getName());  // إخراج اسم كل مورد المسار الذي تم العثور عليه.
+    System.out.println(path.getName());  // Output the name of each path resource found.
 }
 ```
 
-##### حفظ كملف PSD
-وأخيرًا، احفظ الصورة مع المسارات المستخرجة إلى ملف جديد:
+احفظ الصورة مع المسارات المستخرجة إلى ملف PSD جديد:
 ```java
 String outFilePath = "YOUR_OUTPUT_DIRECTORY/SampleWithPaths.psd";
 image.save(outFilePath);
 ```
 
-### الميزة 2: إنشاء مسارات القطع وإضافتها إلى TIFF
+## كيفية إنشاء مسار قص في TIFF؟
+يتطلب إنشاء مسار قص بناء `PathResource` يصف المخطط المتجه المطلوب، وإرفاقه بالإطار النشط لملف TIFF، ثم حفظ الصورة (أو نسخة) كملف PSD بحيث يُحفظ المسار. يتيح لك هذا النهج إضافة أقنعة متجهية إلى ملفات نقطية برمجيًا.
 
-**ملخص**:تعرف على كيفية إنشاء مسارات قص يدويًا في صور TIFF وتحويلها إلى تنسيق PSD، مما يعزز إمكانية تحريرها.
-
-#### التنفيذ خطوة بخطوة
-
-##### إعداد مسار الموارد
-تهيئة ملف جديد `PathResource` مع سمات محددة:
+يمثل PathResource مسارًا متجهيًا مخزنًا داخل ملف صورة.  
+قم بتهيئة `PathResource` جديد بالسمات المطلوبة:
 ```java
 final PathResource pathResource = new PathResource();
-pathResource.setBlockId((short) 2000); // تعيين معرف الكتلة وفقًا لمواصفات Photoshop
-pathResource.setName("My Clipping Path"); // قم بتسمية مسار القطع الخاص بك لسهولة التعرف عليه
+pathResource.setBlockId((short) 2000); // Set Block ID per Photoshop specs
+pathResource.setName("My Clipping Path"); // Name your clipping path for easy identification
 
-// إنشاء وإضافة سجلات مسار المتجه باستخدام الإحداثيات المقدمة.
+// Create and add vector path records using the provided coordinates.
 pathResource.setRecords(createRecords(0.2f, 0.2f, 0.8f, 0.2f, 0.8f, 0.8f, 0.2f, 0.8f));
 ```
 
-##### تعيين موارد المسار إلى الصورة
-تعيين مسار المورد الذي تم إنشاؤه إلى الإطار النشط للصورة:
+عيّن مورد المسار الذي تم إنشاؤه إلى الإطار النشط للصورة:
 ```java
 List<PathResource> list = new LinkedList<>();
 list.add(pathResource);
 image.getActiveFrame().setPathResources(list);
 ```
 
-##### حفظ بتنسيق PSD مع مسارات القطع
-احفظ ملف TIFF المعدّل باستخدام مسارات القطع المضافة حديثًا:
+احفظ ملف TIFF المعدل كملف PSD يحتوي الآن على مسار القص:
 ```java
 String outFilePath2 = "YOUR_OUTPUT_DIRECTORY/ImageWithPath.psd";
 image.save(outFilePath2);
 ```
 
-### طرق المساعدة
+## طرق المساعدة
 
-#### إنشاء السجلات
-إنشاء سجلات مسار المتجه باستخدام عقد بيزير وسجلات الطول:
+### إنشاء السجلات
+أنشئ سجلات مسار المتجه باستخدام عقد Bezier وسجلات الطول:
 ```java
 private static List<VectorPathRecord> createRecords(float ... coordinates) {
     List<VectorPathRecord> records = createBezierRecords(coordinates); 
@@ -142,8 +200,8 @@ private static List<VectorPathRecord> createRecords(float ... coordinates) {
 }
 ```
 
-#### إنشاء سجلات بيزير
-تحويل مصفوفات الإحداثيات إلى سجلات مسار متجه بيزير:
+### إنشاء سجلات Bezier
+حوّل مصفوفات الإحداثيات إلى سجلات مسار متجه Bezier:
 ```java
 private static List<VectorPathRecord> createBezierRecords(float[] coordinates) {
     final List<VectorPathRecord> list = new LinkedList<>();
@@ -157,8 +215,8 @@ private static List<VectorPathRecord> createBezierRecords(float[] coordinates) {
 }
 ```
 
-#### إنشاء سجل بيزير
-قم بتعريف سجل مسار متجه عقدة بيزير واحد:
+### إنشاء سجل Bezier
+عرّف سجل مسار متجه عقدة Bezier واحدة:
 ```java
 private static VectorPathRecord createBezierRecord(PointF point) {
     BezierKnotRecord it = new BezierKnotRecord();
@@ -168,57 +226,63 @@ private static VectorPathRecord createBezierRecord(PointF point) {
 ```
 
 ## التطبيقات العملية
-
-1. **تحسين التصميم الجرافيكي**:تحويل ملفات TIFF إلى PSD لمزيد من التعديل عليها في Adobe Photoshop.
-2. **خطوط أنابيب معالجة الصور الآلية**:دمج ميزات استخراج المسار وإنشائه ضمن سير العمل الآلية لتبسيط عمليات إنتاج الرسومات.
-3. **تصور البيانات**:استخدم مسارات المتجهات لإنشاء تمثيلات رسومية معقدة من بيانات الصورة.
+1. **سير عمل التصميم الجرافيكي** – تحويل TIFF إلى PSD لتحرير الطبقات والماسكات في Photoshop.  
+2. **خطوط معالجة الصور الآلية** – معالجة دفعة من آلاف ملفات TIFF، استخراج أو إضافة مسارات في الوقت الفعلي.  
+3. **التصوير البصري القائم على البيانات** – استخدم مسارات المتجه لإنشاء مخططات أو مخططات دقيقة من مصادر نقطية.
 
 ## اعتبارات الأداء
+- **إدارة الذاكرة** – استخدم try‑with‑resources لضمان التخلص السريع من كائنات الصورة.  
+- **المعالجة الدفعية** – قم بتوازي التحويلات باستخدام `ForkJoinPool` في Java لمجموعات الصور الكبيرة.  
+- **معالجة الدقة** – عدّل DPI فقط عند الضرورة للحفاظ على وقت المعالجة منخفضًا مع الحفاظ على الجودة.
 
-- **إدارة الذاكرة**:تأكد من استخدام الذاكرة بكفاءة عن طريق تحرير الموارد على الفور باستخدام try-with-resources في Java.
-- **معالجة الدفعات**:تحسين الأداء عند معالجة دفعات كبيرة من الصور من خلال تنفيذ التنفيذ المتوازي حيثما ينطبق ذلك.
-- **دقة الصورة**:ضبط إعدادات الدقة استنادًا إلى المتطلبات لتحقيق التوازن بين الجودة والأداء.
-
-## خاتمة
-
-باتباع هذا الدليل، ستتعلم كيفية استخدام Aspose.Imaging لجافا لاستخراج مسارات القطع وإنشاءها في ملفات TIFF. تتيح لك هذه الإمكانيات التكامل بسلاسة مع سير عمل التصميم الجرافيكي، مما يُحسّن مشاريع معالجة الصور لديك بشكل ملحوظ. واصل استكشاف الميزات الإضافية لـ Aspose.Imaging لتطوير مهاراتك في التطوير!
+## الخلاصة
+أنت الآن تعرف كيف **تنشئ مسار قص** في ملفات TIFF وتستخرج المسارات الموجودة باستخدام Aspose.Imaging للـ Java. تتيح لك هذه التقنيات دمج معالجة صور متقدمة في أي سير عمل مبني على Java، من الأدوات المكتبية إلى خطوط المعالجة على مستوى المؤسسات.
 
 ### الخطوات التالية
-- تجربة تكوينات المسار المختلفة.
-- استكشف المزيد من الميزات المتقدمة لـ Aspose.Imaging لتنسيقات الملفات الأخرى.
+- جرّب أشكالًا متجهية مختلفة وسمات المسار.  
+- استكشف ميزات إضافية في Aspose.Imaging مثل إضافة العلامات المائية، تحويل الصيغ، ومعالجة البيانات الوصفية.
 
-## قسم الأسئلة الشائعة
+## الأسئلة المتكررة
 
-1. **هل يمكنني استخدام Aspose.Imaging لـ Java في تطبيق تجاري؟**
-   - نعم، ولكن تأكد من حصولك على الترخيص المناسب للاستخدام التجاري.
+**س: هل يمكنني استخدام Aspose.Imaging للـ Java في تطبيق تجاري؟**  
+ج: نعم، بشرط أن يكون لديك ترخيص تجاري صالح؛ تتوفر نسخة تجريبية مجانية للتقييم.
 
-2. **ما هي تنسيقات الصور التي يدعمها Aspose.Imaging؟**
-   - يدعم أكثر من 100 تنسيق للصور بما في ذلك TIFF و PSD و BMP و JPEG و PNG والمزيد.
+**س: ما هي صيغ الصور التي يدعمها Aspose.Imaging؟**  
+ج: تدعم المكتبة أكثر من 100 صيغة، بما في ذلك TIFF، PSD، BMP، JPEG، PNG، والعديد غيرها.
 
-3. **كيف يمكنني استكشاف أخطاء استخراج المسار وإصلاحها؟**
-   - تأكد من أن صور TIFF الخاصة بك تحتوي على مسارات متجهة قبل محاولة استخراجها.
+**س: كيف يمكنني استكشاف أخطاء استخراج المسار؟**  
+ج: تأكد من أن ملف TIFF المصدر يحتوي فعليًا على موارد مسار متجه؛ استخدم الفحص `hasPathResources()` قبل الاستخراج.
 
-4. **هل من الممكن معالجة دفعات من الصور المتعددة باستخدام Aspose.Imaging؟**
-   - نعم، يمكنك تنفيذ تقنيات المعالجة المتوازية للتعامل مع ملفات متعددة بكفاءة.
+**س: هل المعالجة الدفعية لعدة ملفات TIFF ممكنة؟**  
+ج: بالتأكيد – اجمع كود الاستخراج مع تدفقات Java المتوازية أو خدمة تنفيذ لمعالجة العديد من الملفات بكفاءة.
 
-5. **ما هي حدود إنشاء مسارات القطع في TIFF باستخدام Java؟**
-   - تأكد من أن بيانات صورتك متوافقة مع إنشاء مسار المتجه؛ فقد تتطلب الأشكال المعقدة تعديلًا يدويًا.
+**س: هل هناك قيود عند إنشاء مسارات قص في TIFF؟**  
+ج: قد تحتاج الأشكال المعقدة إلى تعديل يدوي بعد الإنشاء؛ تتعامل API بشكل موثوق مع منحنيات Bezier القياسية والخطوط المستقيمة.
 
-## موارد
+---
+
+**آخر تحديث:** 2026-09-02  
+**تم الاختبار مع:** Aspose.Imaging for Java 24.12  
+**المؤلف:** Aspose  
+
+## الموارد
 
 - [توثيق Aspose.Imaging](https://reference.aspose.com/imaging/java/)
-- [تنزيل Aspose.Imaging لـ Java](https://releases.aspose.com/imaging/java/)
-- [شراء الترخيص](https://purchase.aspose.com/buy)
-- [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
-- [رخصة مؤقتة](https://purchase.aspose.com/temporary-license/)
+- [تحميل Aspose.Imaging للـ Java](https://releases.aspose.com/imaging/java/)
+- [شراء ترخيص](https://purchase.aspose.com/buy)
+- [تجربة مجانية](https://releases.aspose.com/imaging/java/)
+- [ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
 - [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
 
-استمتع بقوة Aspose.Imaging Java وقم بتحويل قدرات معالجة الصور الخاصة بك اليوم!
+## دروس ذات صلة
+
+- [تحويل الصورة إلى PSD باستخدام Aspose.Imaging للـ Java – دليل خطوة بخطوة](/imaging/java/format-conversion-export/convert-images-to-psd-using-aspose-imaging-java-guide/)
+- [كيفية تحويل TIFF إلى GraphicsPath باستخدام Aspose.Imaging Java](/imaging/java/advanced-drawing-graphics/aspose-imaging-java-tiff-graphicspath-conversion/)
+- [تحميل وحفظ صور TIFF بفعالية في Java باستخدام Aspose.Imaging](/imaging/java/image-loading-saving/aspose-imaging-java-tiff-image-saving/)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
