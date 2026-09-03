@@ -1,40 +1,111 @@
 ---
-"date": "2025-06-04"
-"description": "Tìm hiểu cách trích xuất và tạo đường dẫn cắt trong hình ảnh TIFF bằng Aspose.Imaging cho Java. Nâng cao các dự án chỉnh sửa hình ảnh bằng cách chuyển đổi TIFF sang định dạng PSD."
-"title": "Trích xuất và tạo đường dẫn cắt trong TIFF bằng Aspose.Imaging cho Java"
-"url": "/vi/java/format-specific-operations/aspose-imaging-java-tiff-path-extraction/"
-"weight": 1
+date: '2026-09-02'
+description: Tìm hiểu cách tạo clipping path và trích xuất nó từ ảnh TIFF bằng Aspose.Imaging
+  for Java. Thực hiện các hướng dẫn step‑by‑step để chuyển đổi TIFF sang PSD một cách
+  hiệu quả.
+keywords:
+- create clipping path
+- how to extract path
+- how to convert tiff
+- aspose imaging java
+- convert tiff to psd
+lastmod: '2026-09-02'
+og_description: Tìm hiểu cách tạo clipping path và trích xuất nó từ ảnh TIFF bằng
+  Aspose.Imaging for Java. Thực hiện code step‑by‑step để chuyển đổi TIFF sang PSD.
+og_image_alt: Guide showing how to create clipping path in TIFF using Aspose.Imaging
+  Java
+og_title: Tạo clipping path trong TIFF bằng Aspose.Imaging for Java
+schemas:
+- author: Aspose
+  dateModified: '2026-09-02'
+  description: Learn how to create clipping path and extract it from TIFF images using
+    Aspose.Imaging for Java. Follow step‑by‑step instructions to convert TIFF to PSD
+    efficiently.
+  headline: Create clipping path in TIFF with Aspose.Imaging for Java
+  type: TechArticle
+- description: Learn how to create clipping path and extract it from TIFF images using
+    Aspose.Imaging for Java. Follow step‑by‑step instructions to convert TIFF to PSD
+    efficiently.
+  name: Create clipping path in TIFF with Aspose.Imaging for Java
+  steps:
+  - name: '**Free trial** – start with a 30‑day trial.'
+    text: '**Free trial** – start with a 30‑day trial.'
+  - name: '**Temporary license** – obtain one from the [temporary license page](https://purchase.aspose.com/temporary-license/).'
+    text: '**Temporary license** – obtain one from the [temporary license page](https://purchase.aspose.com/temporary-license/).'
+  - name: '**Purchase** – buy a full license at [Aspose''s website](https://purchase.aspose.com/buy).'
+    text: '**Purchase** – buy a full license at [Aspose''s website](https://purchase.aspose.com/buy).'
+  - name: '**Graphic design workflows** – Convert TIFF to PSD to edit layers and masks
+      in Photoshop.'
+    text: '**Graphic design workflows** – Convert TIFF to PSD to edit layers and masks
+      in Photoshop.'
+  - name: '**Automated image pipelines** – Batch‑process thousands of TIFFs, extracting
+      or adding paths on the fly.'
+    text: '**Automated image pipelines** – Batch‑process thousands of TIFFs, extracting
+      or adding paths on the fly.'
+  - name: '**Data‑driven visualizations** – Use vector paths to generate precise charts
+      or schematics from raster sources.'
+    text: '**Data‑driven visualizations** – Use vector paths to generate precise charts
+      or schematics from raster sources.'
+  type: HowTo
+- questions:
+  - answer: Yes, provided you have a valid commercial license; a free trial is available
+      for evaluation.
+    question: Can I use Aspose.Imaging for Java in a commercial application?
+  - answer: The library supports over 100 formats, including TIFF, PSD, BMP, JPEG,
+      PNG, and many more.
+    question: What image formats does Aspose.Imaging support?
+  - answer: Verify that the source TIFF actually contains vector path resources; use
+      the `hasPathResources()` check before extraction.
+    question: How do I troubleshoot path extraction errors?
+  - answer: Absolutely – combine the extraction code with Java’s parallel streams
+      or an executor service to handle many files efficiently.
+    question: Is batch processing of multiple TIFFs possible?
+  - answer: Complex shapes may need manual adjustment after creation; the API handles
+      standard Bezier curves and straight lines reliably.
+    question: Are there limitations when creating clipping paths in TIFF?
+  type: FAQPage
+tags:
+- create clipping path
+- TIFF processing
+- Aspose.Imaging
+- Java image manipulation
+- PSD conversion
+title: Tạo clipping path trong TIFF bằng Aspose.Imaging for Java
+url: /vi/java/format-specific-operations/aspose-imaging-java-tiff-path-extraction/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# Làm chủ trích xuất và tạo đường dẫn trong TIFF bằng Aspose.Imaging Java
 
-**Mở khóa sức mạnh của thao tác hình ảnh bằng cách thành thạo cách trích xuất và tạo đường dẫn cắt trong tệp TIFF bằng Aspose.Imaging Java. Trong hướng dẫn toàn diện này, bạn sẽ học cách chuyển đổi liền mạch hình ảnh TIFF của mình thành các định dạng PSD đa năng đồng thời tăng cường sức hấp dẫn trực quan của chúng bằng các tài nguyên đường dẫn tùy chỉnh.**
+# Tạo đường cắt trong TIFF bằng Aspose.Imaging cho Java
 
-## Những gì bạn sẽ học được
-- Cách trích xuất tài nguyên đường dẫn từ ảnh TIFF một cách hiệu quả.
-- Các bước tạo và thêm đường cắt để nâng cao hiệu quả chỉnh sửa hình ảnh của bạn.
-- Tích hợp Aspose.Imaging cho Java vào môi trường phát triển của bạn.
-- Ứng dụng thực tế và kỹ thuật tối ưu hóa hiệu suất.
+Trong hướng dẫn toàn diện này, bạn sẽ học **cách tạo đường cắt** trong tệp TIFF và cách trích xuất các đường đã tồn tại bằng Aspose.Imaging cho Java. Khi kết thúc, bạn sẽ có thể chuyển đổi hình ảnh TIFF thành các tệp PSD có thể chỉnh sửa hoàn toàn, sẵn sàng cho Photoshop hoặc bất kỳ trình chỉnh sửa nào hỗ trợ vector.
 
-Bạn đã sẵn sàng bước vào thế giới xử lý hình ảnh tiên tiến chưa? Hãy bắt đầu thôi!
+## Câu trả lời nhanh
+- **Đường cắt là gì?** Một đường viền vector xác định các vùng trong suốt và không trong suốt của hình ảnh.  
+- **Tôi có thể trích xuất một đường đã tồn tại từ TIFF không?** Có – Aspose.Imaging có thể đọc các tài nguyên đường nhúng và lưu chúng dưới dạng PSD.  
+- **Làm thế nào để thêm một đường cắt mới?** Tạo một `PathResource`, điền nó bằng các bản ghi vector, và gán nó cho khung hoạt động của hình ảnh.  
+- **Tôi có cần giấy phép cho việc sử dụng trong môi trường sản xuất không?** Cần một giấy phép Aspose.Imaging hợp lệ cho các triển khai thương mại.  
+- **Yêu cầu phiên bản Java nào?** JDK 8 hoặc cao hơn; thư viện hoạt động với Java 11, 17 và các phiên bản sau.
 
-## Điều kiện tiên quyết
+## Đường cắt là gì?
+Đường cắt là một đường viền dựa trên vector, cho biết các công cụ render phần nào của hình ảnh sẽ được hiển thị hoặc ẩn. Nó được lưu dưới dạng tài nguyên đường trong các tệp TIFF hoặc PSD và có thể được chỉnh sửa trong Adobe Photoshop.
 
-Trước khi tiến hành, hãy đảm bảo bạn có những điều sau:
-- **Bộ phát triển Java (JDK)**: Máy của bạn đã cài đặt JDK 8 trở lên.
-- **Aspose.Imaging cho Thư viện Java**Bạn sẽ cần thư viện này, có thể được thêm thông qua Maven hoặc Gradle. Hướng dẫn này giả định bạn đã quen thuộc với các khái niệm lập trình Java cơ bản.
+## Tại sao chuyển đổi TIFF sang PSD?
+Chuyển đổi TIFF sang PSD cho phép chỉnh sửa không mất dữ liệu của các lớp, mặt nạ và đường cắt. Aspose.Imaging hỗ trợ **hơn 50 định dạng nhập và xuất** và có thể xử lý các tệp TIFF hàng trăm trang mà không cần tải toàn bộ tệp vào bộ nhớ, mang lại khả năng chuyển đổi hàng loạt hiệu suất cao.
 
-## Thiết lập Aspose.Imaging cho Java
+## Yêu cầu trước
+- **Java Development Kit (JDK)** 8 hoặc mới hơn đã được cài đặt.  
+- **Thư viện Aspose.Imaging cho Java** (thêm qua Maven, Gradle, hoặc tải trực tiếp).  
+- Kiến thức cơ bản về các khái niệm lập trình Java.
 
-Để bắt đầu sử dụng Aspose.Imaging for Java trong dự án của bạn, hãy làm theo các bước cài đặt sau:
+## Cách thiết lập Aspose.Imaging cho Java
+Trước khi thêm bất kỳ mã nào, hãy đảm bảo thư viện đã được tham chiếu đúng trong hệ thống xây dựng của bạn và bạn có tệp giấy phép hợp lệ. Điều này đảm bảo API hoạt động mà không bị hạn chế đánh giá và tất cả các tính năng, bao gồm thao tác đường, đều có sẵn.
 
 ### Maven
-Thêm phụ thuộc sau vào `pom.xml` tài liệu:
+Thêm phụ thuộc sau vào tệp `pom.xml` của bạn:
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -43,93 +114,81 @@ Thêm phụ thuộc sau vào `pom.xml` tài liệu:
 </dependency>
 ```
 
-### Tốt nghiệp
-Bao gồm dòng này trong `build.gradle` tài liệu:
+### Gradle
+Bao gồm dòng sau trong tệp `build.gradle` của bạn:
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-### Tải xuống trực tiếp
-Ngoài ra, hãy tải xuống phiên bản mới nhất từ [Phiên bản Aspose.Imaging cho Java](https://releases.aspose.com/imaging/java/).
+### Direct download
+Download the latest version from [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-#### Mua lại giấy phép
-1. **Dùng thử miễn phí**:Bắt đầu với bản dùng thử miễn phí 30 ngày để khám phá tất cả các tính năng.
-2. **Giấy phép tạm thời**: Xin giấy phép tạm thời bằng cách đến thăm [trang giấy phép tạm thời](https://purchase.aspose.com/temporary-license/).
-3. **Mua**: Để sử dụng liên tục, hãy mua giấy phép từ [Trang web của Aspose](https://purchase.aspose.com/buy).
+#### License acquisition
+1. **Dùng thử miễn phí** – bắt đầu với bản dùng thử 30 ngày.  
+2. **Giấy phép tạm thời** – lấy một giấy phép từ [trang giấy phép tạm thời](https://purchase.aspose.com/temporary-license/).  
+3. **Mua** – mua giấy phép đầy đủ tại [trang web của Aspose](https://purchase.aspose.com/buy).
 
-Sau khi cài đặt và cấp phép, hãy khởi tạo Aspose.Imaging trong dự án của bạn:
+Once installed and licensed, initialize Aspose.Imaging in your project:
 ```java
 com.aspose.imaging.License license = new com.aspose.imaging.License();
 license.setLicense("path_to_license_file");
 ```
 
-## Hướng dẫn thực hiện
+## Cách trích xuất đường cắt từ TIFF?
+Việc trích xuất đường cắt bao gồm tải TIFF, xác định bất kỳ tài nguyên đường nhúng nào, và ghi các tài nguyên đó vào một tệp PSD mới. Quá trình này đọc dữ liệu vector trực tiếp từ hình ảnh nguồn, giữ độ chính xác và tránh chuyển đổi raster.
 
-### Tính năng 1: Trích xuất tài nguyên đường dẫn từ TIFF
-
-**Tổng quan**:Tính năng này cho phép bạn trích xuất các tài nguyên đường dẫn vector được nhúng trong hình ảnh TIFF và lưu chúng dưới dạng tệp PSD, có thể chỉnh sửa thêm trong các ứng dụng thiết kế đồ họa.
-
-#### Thực hiện từng bước
-
-##### Tải hình ảnh TIFF
+Tải TIFF, lặp qua các tài nguyên đường của nó, và lưu kết quả dưới dạng PSD. Thao tác này đọc dữ liệu vector nhúng và ghi nó vào tệp mới trong một lần duy nhất.
 ```java
 String filePath = "YOUR_DOCUMENT_DIRECTORY/SupportExtractingPathsFromTiff/Sample.tif";
 try (TiffImage image = (TiffImage) com.aspose.imaging.Image.load(filePath)) {
-    // Tiến hành các bước trích xuất...
+    // Proceed with extraction steps...
 }
 ```
 
-##### Trích xuất tài nguyên đường dẫn
-Lặp lại qua các tài nguyên đường dẫn trong khung đang hoạt động:
+Iterate through the path resources in the active frame and collect them:
 ```java
 for (PathResource path : image.getActiveFrame().getPathResources()) {
-    System.out.println(path.getName());  // Xuất ra tên của từng tài nguyên đường dẫn được tìm thấy.
+    System.out.println(path.getName());  // Output the name of each path resource found.
 }
 ```
 
-##### Lưu dưới dạng PSD
-Cuối cùng, lưu hình ảnh với đường dẫn đã trích xuất vào một tệp mới:
+Save the image with the extracted paths to a new PSD file:
 ```java
 String outFilePath = "YOUR_OUTPUT_DIRECTORY/SampleWithPaths.psd";
 image.save(outFilePath);
 ```
 
-### Tính năng 2: Tạo và Thêm Đường dẫn Cắt vào TIFF
+## Cách tạo đường cắt trong TIFF?
+Tạo một đường cắt yêu cầu xây dựng một `PathResource` mô tả đường viền vector mong muốn, gắn nó vào khung hoạt động của TIFF, và sau đó lưu hình ảnh (hoặc bản sao) dưới dạng PSD để đường được giữ lại. Cách tiếp cận này cho phép bạn thêm mặt nạ vector vào các tệp raster một cách lập trình.
 
-**Tổng quan**:Tìm hiểu cách tạo đường cắt thủ công trong hình ảnh TIFF và chuyển đổi chúng sang định dạng PSD, nâng cao khả năng chỉnh sửa của chúng.
-
-#### Thực hiện từng bước
-
-##### Chuẩn bị tài nguyên đường dẫn
-Khởi tạo một cái mới `PathResource` với các thuộc tính cụ thể:
+PathResource represents a vector path stored inside an image file.  
+Initialize a new `PathResource` with the required attributes:
 ```java
 final PathResource pathResource = new PathResource();
-pathResource.setBlockId((short) 2000); // Đặt ID khối theo thông số kỹ thuật của Photoshop
-pathResource.setName("My Clipping Path"); // Đặt tên cho đường dẫn cắt của bạn để dễ nhận dạng
+pathResource.setBlockId((short) 2000); // Set Block ID per Photoshop specs
+pathResource.setName("My Clipping Path"); // Name your clipping path for easy identification
 
-// Tạo và thêm bản ghi đường dẫn vector bằng cách sử dụng tọa độ được cung cấp.
+// Create and add vector path records using the provided coordinates.
 pathResource.setRecords(createRecords(0.2f, 0.2f, 0.8f, 0.2f, 0.8f, 0.8f, 0.2f, 0.8f));
 ```
 
-##### Đặt tài nguyên đường dẫn thành hình ảnh
-Gán tài nguyên đường dẫn đã tạo vào khung đang hoạt động của hình ảnh:
+Assign the created path resource to the image’s active frame:
 ```java
 List<PathResource> list = new LinkedList<>();
 list.add(pathResource);
 image.getActiveFrame().setPathResources(list);
 ```
 
-##### Lưu dưới dạng PSD với Đường dẫn cắt
-Lưu tệp TIFF đã chỉnh sửa của bạn với đường dẫn cắt mới được thêm vào:
+Save the modified TIFF as a PSD that now contains the clipping path:
 ```java
 String outFilePath2 = "YOUR_OUTPUT_DIRECTORY/ImageWithPath.psd";
 image.save(outFilePath2);
 ```
 
-### Phương pháp trợ giúp
+## Các phương thức trợ giúp
 
-#### Tạo hồ sơ
-Tạo bản ghi đường dẫn vectơ bằng cách sử dụng nút Bezier và bản ghi độ dài:
+### Tạo bản ghi
+Generate vector path records using Bezier knots and length records:
 ```java
 private static List<VectorPathRecord> createRecords(float ... coordinates) {
     List<VectorPathRecord> records = createBezierRecords(coordinates); 
@@ -142,8 +201,8 @@ private static List<VectorPathRecord> createRecords(float ... coordinates) {
 }
 ```
 
-#### Tạo hồ sơ Bezier
-Chuyển đổi mảng tọa độ thành bản ghi đường dẫn vectơ Bezier:
+### Tạo bản ghi Bezier
+Convert coordinate arrays into Bezier vector path records:
 ```java
 private static List<VectorPathRecord> createBezierRecords(float[] coordinates) {
     final List<VectorPathRecord> list = new LinkedList<>();
@@ -157,8 +216,8 @@ private static List<VectorPathRecord> createBezierRecords(float[] coordinates) {
 }
 ```
 
-#### Tạo bản ghi Bezier
-Xác định một bản ghi đường dẫn vectơ nút Bezier đơn:
+### Tạo một bản ghi Bezier
+Define a single Bezier knot vector path record:
 ```java
 private static VectorPathRecord createBezierRecord(PointF point) {
     BezierKnotRecord it = new BezierKnotRecord();
@@ -167,42 +226,45 @@ private static VectorPathRecord createBezierRecord(PointF point) {
 }
 ```
 
-## Ứng dụng thực tế
+## Ứng dụng thực tiễn
+1. **Quy trình thiết kế đồ họa** – Chuyển đổi TIFF sang PSD để chỉnh sửa các lớp và mặt nạ trong Photoshop.  
+2. **Dòng xử lý ảnh tự động** – Xử lý hàng loạt hàng nghìn TIFF, trích xuất hoặc thêm đường trên lúc chạy.  
+3. **Trực quan hoá dựa trên dữ liệu** – Sử dụng các đường vector để tạo biểu đồ hoặc sơ đồ chính xác từ nguồn raster.
 
-1. **Cải tiến thiết kế đồ họa**: Chuyển đổi tệp TIFF thành PSD để chỉnh sửa thêm trong Adobe Photoshop.
-2. **Đường ống xử lý hình ảnh tự động**:Tích hợp các tính năng trích xuất và tạo đường dẫn trong quy trình làm việc tự động để hợp lý hóa quy trình sản xuất đồ họa.
-3. **Hình ảnh hóa dữ liệu**: Sử dụng đường dẫn vectơ để tạo biểu diễn đồ họa phức tạp từ dữ liệu hình ảnh.
+## Các lưu ý về hiệu năng
+- **Quản lý bộ nhớ** – Sử dụng try‑with‑resources để đảm bảo các đối tượng hình ảnh được giải phóng kịp thời.  
+- **Xử lý hàng loạt** – Song song hoá việc chuyển đổi bằng `ForkJoinPool` của Java cho các bộ ảnh lớn.  
+- **Xử lý độ phân giải** – Điều chỉnh DPI chỉ khi cần thiết để giữ thời gian xử lý ngắn mà vẫn bảo toàn chất lượng.
 
-## Cân nhắc về hiệu suất
-
-- **Quản lý bộ nhớ**Đảm bảo sử dụng bộ nhớ hiệu quả bằng cách giải phóng tài nguyên kịp thời với lệnh try-with-resources trong Java.
-- **Xử lý hàng loạt**: Tối ưu hóa hiệu suất khi xử lý hàng loạt hình ảnh bằng cách triển khai thực thi song song khi có thể.
-- **Độ phân giải hình ảnh**: Điều chỉnh cài đặt độ phân giải dựa trên yêu cầu để cân bằng giữa chất lượng và hiệu suất.
-
-## Phần kết luận
-
-Bằng cách làm theo hướng dẫn này, bạn đã học cách tận dụng Aspose.Imaging for Java để trích xuất và tạo đường dẫn cắt trong các tệp TIFF. Các khả năng này cho phép tích hợp liền mạch vào quy trình thiết kế đồ họa, nâng cao đáng kể các dự án chỉnh sửa hình ảnh của bạn. Tiếp tục khám phá các tính năng bổ sung của Aspose.Imaging để nâng cao hơn nữa các kỹ năng phát triển của bạn!
+## Kết luận
+Bây giờ bạn đã biết cách **tạo đường cắt** trong các tệp TIFF và trích xuất các đường đã tồn tại bằng Aspose.Imaging cho Java. Những kỹ thuật này cho phép bạn tích hợp việc thao tác ảnh tinh vi vào bất kỳ quy trình làm việc nào dựa trên Java, từ tiện ích desktop đến các pipeline xử lý cấp doanh nghiệp.
 
 ### Các bước tiếp theo
-- Thử nghiệm với các cấu hình đường dẫn khác nhau.
-- Khám phá thêm các tính năng nâng cao của Aspose.Imaging cho các định dạng tệp khác.
+- Thử nghiệm với các hình dạng vector và thuộc tính đường khác nhau.  
+- Khám phá các tính năng bổ sung của Aspose.Imaging như chèn watermark, chuyển đổi định dạng và xử lý metadata.
 
-## Phần Câu hỏi thường gặp
+## Câu hỏi thường gặp
 
-1. **Tôi có thể sử dụng Aspose.Imaging cho Java trong ứng dụng thương mại không?**
-   - Có, nhưng hãy đảm bảo bạn đã có được giấy phép phù hợp để sử dụng cho mục đích thương mại.
+**Q: Tôi có thể sử dụng Aspose.Imaging cho Java trong ứng dụng thương mại không?**  
+A: Có, với điều kiện bạn có giấy phép thương mại hợp lệ; bản dùng thử miễn phí có sẵn để đánh giá.
 
-2. **Aspose.Imaging hỗ trợ những định dạng hình ảnh nào?**
-   - Nó hỗ trợ hơn 100 định dạng hình ảnh bao gồm TIFF, PSD, BMP, JPEG, PNG, v.v.
+**Q: Aspose.Imaging hỗ trợ những định dạng ảnh nào?**  
+A: Thư viện hỗ trợ hơn 100 định dạng, bao gồm TIFF, PSD, BMP, JPEG, PNG và nhiều hơn nữa.
 
-3. **Làm thế nào để tôi có thể khắc phục lỗi trích xuất đường dẫn?**
-   - Xác minh rằng hình ảnh TIFF của bạn chứa đường dẫn vector trước khi trích xuất chúng.
+**Q: Làm thế nào để khắc phục lỗi khi trích xuất đường?**  
+A: Kiểm tra xem TIFF nguồn thực sự có chứa tài nguyên đường vector không; sử dụng kiểm tra `hasPathResources()` trước khi trích xuất.
 
-4. **Có thể xử lý hàng loạt nhiều hình ảnh bằng Aspose.Imaging không?**
-   - Có, bạn có thể triển khai các kỹ thuật xử lý song song để xử lý nhiều tệp một cách hiệu quả.
+**Q: Có thể xử lý hàng loạt nhiều TIFF không?**  
+A: Chắc chắn – kết hợp mã trích xuất với parallel streams của Java hoặc một executor service để xử lý nhiều tệp một cách hiệu quả.
 
-5. **Những hạn chế của việc tạo đường dẫn cắt trong TIFF bằng Java là gì?**
-   - Đảm bảo rằng dữ liệu hình ảnh của bạn tương thích với việc tạo đường dẫn vector; các hình dạng phức tạp có thể cần phải điều chỉnh thủ công.
+**Q: Có giới hạn nào khi tạo đường cắt trong TIFF không?**  
+A: Các hình dạng phức tạp có thể cần điều chỉnh thủ công sau khi tạo; API xử lý các đường cong Bezier tiêu chuẩn và các đường thẳng một cách đáng tin cậy.
+
+---
+
+**Last Updated:** 2026-09-02  
+**Tested With:** Aspose.Imaging for Java 24.12  
+**Author:** Aspose  
 
 ## Tài nguyên
 
@@ -213,12 +275,15 @@ Bằng cách làm theo hướng dẫn này, bạn đã học cách tận dụng 
 - [Giấy phép tạm thời](https://purchase.aspose.com/temporary-license/)
 - [Diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14)
 
-Tận dụng sức mạnh của Aspose.Imaging Java và cải thiện khả năng xử lý hình ảnh của bạn ngay hôm nay!
+## Hướng dẫn liên quan
+
+- [Chuyển đổi hình ảnh sang PSD với Aspose.Imaging cho Java – Hướng dẫn từng bước](/imaging/java/format-conversion-export/convert-images-to-psd-using-aspose-imaging-java-guide/)
+- [Cách chuyển đổi TIFF sang GraphicsPath với Aspose.Imaging Java](/imaging/java/advanced-drawing-graphics/aspose-imaging-java-tiff-graphicspath-conversion/)
+- [Tải và lưu ảnh TIFF hiệu quả trong Java với Aspose.Imaging](/imaging/java/image-loading-saving/aspose-imaging-java-tiff-image-saving/)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

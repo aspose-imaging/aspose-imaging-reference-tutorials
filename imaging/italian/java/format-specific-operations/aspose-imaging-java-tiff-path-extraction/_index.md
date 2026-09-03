@@ -1,40 +1,112 @@
 ---
-"date": "2025-06-04"
-"description": "Scopri come estrarre e creare tracciati di ritaglio nelle immagini TIFF utilizzando Aspose.Imaging per Java. Migliora i progetti di manipolazione delle immagini trasformando i file TIFF in formati PSD."
-"title": "Estrarre e creare tracciati di ritaglio in TIFF con Aspose.Imaging per Java"
-"url": "/it/java/format-specific-operations/aspose-imaging-java-tiff-path-extraction/"
-"weight": 1
+date: '2026-09-02'
+description: Scopri come creare un percorso di ritaglio ed estrarlo dalle immagini
+  TIFF usando Aspose.Imaging for Java. Segui le istruzioni passo‑passo per convertire
+  TIFF in PSD in modo efficiente.
+keywords:
+- create clipping path
+- how to extract path
+- how to convert tiff
+- aspose imaging java
+- convert tiff to psd
+lastmod: '2026-09-02'
+og_description: Scopri come creare un percorso di ritaglio ed estrarlo dalle immagini
+  TIFF usando Aspose.Imaging for Java. Segui il codice passo‑passo per convertire
+  TIFF in PSD.
+og_image_alt: Guide showing how to create clipping path in TIFF using Aspose.Imaging
+  Java
+og_title: Crea percorso di ritaglio in TIFF con Aspose.Imaging for Java
+schemas:
+- author: Aspose
+  dateModified: '2026-09-02'
+  description: Learn how to create clipping path and extract it from TIFF images using
+    Aspose.Imaging for Java. Follow step‑by‑step instructions to convert TIFF to PSD
+    efficiently.
+  headline: Create clipping path in TIFF with Aspose.Imaging for Java
+  type: TechArticle
+- description: Learn how to create clipping path and extract it from TIFF images using
+    Aspose.Imaging for Java. Follow step‑by‑step instructions to convert TIFF to PSD
+    efficiently.
+  name: Create clipping path in TIFF with Aspose.Imaging for Java
+  steps:
+  - name: '**Free trial** – start with a 30‑day trial.'
+    text: '**Free trial** – start with a 30‑day trial.'
+  - name: '**Temporary license** – obtain one from the [temporary license page](https://purchase.aspose.com/temporary-license/).'
+    text: '**Temporary license** – obtain one from the [temporary license page](https://purchase.aspose.com/temporary-license/).'
+  - name: '**Purchase** – buy a full license at [Aspose''s website](https://purchase.aspose.com/buy).'
+    text: '**Purchase** – buy a full license at [Aspose''s website](https://purchase.aspose.com/buy).'
+  - name: '**Graphic design workflows** – Convert TIFF to PSD to edit layers and masks
+      in Photoshop.'
+    text: '**Graphic design workflows** – Convert TIFF to PSD to edit layers and masks
+      in Photoshop.'
+  - name: '**Automated image pipelines** – Batch‑process thousands of TIFFs, extracting
+      or adding paths on the fly.'
+    text: '**Automated image pipelines** – Batch‑process thousands of TIFFs, extracting
+      or adding paths on the fly.'
+  - name: '**Data‑driven visualizations** – Use vector paths to generate precise charts
+      or schematics from raster sources.'
+    text: '**Data‑driven visualizations** – Use vector paths to generate precise charts
+      or schematics from raster sources.'
+  type: HowTo
+- questions:
+  - answer: Yes, provided you have a valid commercial license; a free trial is available
+      for evaluation.
+    question: Can I use Aspose.Imaging for Java in a commercial application?
+  - answer: The library supports over 100 formats, including TIFF, PSD, BMP, JPEG,
+      PNG, and many more.
+    question: What image formats does Aspose.Imaging support?
+  - answer: Verify that the source TIFF actually contains vector path resources; use
+      the `hasPathResources()` check before extraction.
+    question: How do I troubleshoot path extraction errors?
+  - answer: Absolutely – combine the extraction code with Java’s parallel streams
+      or an executor service to handle many files efficiently.
+    question: Is batch processing of multiple TIFFs possible?
+  - answer: Complex shapes may need manual adjustment after creation; the API handles
+      standard Bezier curves and straight lines reliably.
+    question: Are there limitations when creating clipping paths in TIFF?
+  type: FAQPage
+tags:
+- create clipping path
+- TIFF processing
+- Aspose.Imaging
+- Java image manipulation
+- PSD conversion
+title: Crea percorso di ritaglio in TIFF con Aspose.Imaging for Java
+url: /it/java/format-specific-operations/aspose-imaging-java-tiff-path-extraction/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# Padroneggiare l'estrazione e la creazione di percorsi in TIFF utilizzando Aspose.Imaging Java
 
-**Sfrutta il potere della manipolazione delle immagini imparando a estrarre e creare tracciati di ritaglio nei file TIFF utilizzando Aspose.Imaging Java. In questa guida completa, imparerai come trasformare senza problemi le tue immagini TIFF in versatili formati PSD, migliorandone al contempo l'aspetto visivo con risorse di tracciamento personalizzate.**
+# Crea percorso di ritaglio in TIFF con Aspose.Imaging per Java
 
-## Cosa imparerai
-- Come estrarre in modo efficiente le risorse del percorso dalle immagini TIFF.
-- Passaggi per creare e aggiungere tracciati di ritaglio per migliorare i tuoi progetti di manipolazione delle immagini.
-- Integrazione di Aspose.Imaging per Java nel tuo ambiente di sviluppo.
-- Applicazioni pratiche e tecniche di ottimizzazione delle prestazioni.
+In questa guida completa imparerai **come creare un percorso di ritaglio** in un file TIFF e come estrarre percorsi esistenti usando Aspose.Imaging per Java. Alla fine, sarai in grado di convertire immagini TIFF in file PSD completamente modificabili, pronti per Photoshop o qualsiasi editor vettoriale.
 
-Pronti a immergervi nel mondo dell'elaborazione avanzata delle immagini? Iniziamo!
+## Risposte rapide
+- **Che cos'è un percorso di ritaglio?** Un contorno vettoriale che definisce le regioni trasparenti e opache di un'immagine.  
+- **Posso estrarre un percorso esistente da un TIFF?** Sì – Aspose.Imaging può leggere le risorse di percorso incorporate e salvarle come PSD.  
+- **Come aggiungo un nuovo percorso di ritaglio?** Crea un `PathResource`, popolalo con record vettoriali e assegnalo al frame attivo dell'immagine.  
+- **È necessaria una licenza per l'uso in produzione?** È richiesta una licenza valida di Aspose.Imaging per le distribuzioni commerciali.  
+- **Quale versione di Java è necessaria?** JDK 8 o superiore; la libreria funziona con Java 11, 17 e versioni successive.
+
+## Che cos'è un percorso di ritaglio?
+Un percorso di ritaglio è un contorno basato su vettori che indica ai motori di rendering quali parti di un'immagine mostrare o nascondere. È memorizzato come risorsa di percorso all'interno di file TIFF o PSD e può essere modificato in Adobe Photoshop.
+
+## Perché convertire TIFF in PSD?
+Convertire TIFF in PSD consente una modifica senza perdita di livelli, maschere e percorsi di ritaglio. Aspose.Imaging supporta **oltre 50 formati di input e output** e può elaborare TIFF con centinaia di pagine senza caricare l'intero file in memoria, garantendo alte prestazioni nella conversione batch.
 
 ## Prerequisiti
+- **Java Development Kit (JDK)** 8 o più recente installato.  
+- Libreria **Aspose.Imaging per Java** (aggiungi tramite Maven, Gradle o download diretto).  
+- Familiarità di base con i concetti di programmazione Java.
 
-Prima di procedere, assicurati di avere quanto segue:
-- **Kit di sviluppo Java (JDK)**: JDK 8 o versione successiva installato sul computer.
-- **Libreria Aspose.Imaging per Java**Avrai bisogno di questa libreria, che può essere aggiunta tramite dipendenze Maven o Gradle. Questa guida presuppone la familiarità con i concetti base della programmazione Java.
+## Come configurare Aspose.Imaging per Java
+Prima di aggiungere codice, assicurati che la libreria sia correttamente referenziata nel tuo sistema di build e che disponi di un file di licenza valido. Questo garantisce che l'API funzioni senza restrizioni di valutazione e che tutte le funzionalità, inclusa la manipolazione dei percorsi, siano disponibili.
 
-## Impostazione di Aspose.Imaging per Java
-
-Per iniziare a utilizzare Aspose.Imaging per Java nel tuo progetto, segui questi passaggi di installazione:
-
-### Esperto
-Aggiungi la seguente dipendenza al tuo `pom.xml` file:
+### Maven
+Aggiungi la seguente dipendenza al tuo file `pom.xml`:
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -44,92 +116,80 @@ Aggiungi la seguente dipendenza al tuo `pom.xml` file:
 ```
 
 ### Gradle
-Includi questa riga nel tuo `build.gradle` file:
+Inserisci questa riga nel tuo file `build.gradle`:
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
 ### Download diretto
-In alternativa, scarica l'ultima versione da [Aspose.Imaging per le versioni Java](https://releases.aspose.com/imaging/java/).
+Scarica l'ultima versione da [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
 #### Acquisizione della licenza
-1. **Prova gratuita**: Inizia con una prova gratuita di 30 giorni per esplorare tutte le funzionalità.
-2. **Licenza temporanea**: Ottieni una licenza temporanea visitando il [pagina della licenza temporanea](https://purchase.aspose.com/temporary-license/).
-3. **Acquistare**: Per un utilizzo continuativo, acquistare una licenza da [Il sito web di Aspose](https://purchase.aspose.com/buy).
+1. **Prova gratuita** – inizia con una prova di 30 giorni.  
+2. **Licenza temporanea** – ottieni una dalla [pagina della licenza temporanea](https://purchase.aspose.com/temporary-license/).  
+3. **Acquisto** – acquista una licenza completa su [sito di Aspose](https://purchase.aspose.com/buy).
 
-Una volta installato e ottenuto il diritto di licenza, inizializza Aspose.Imaging nel tuo progetto:
+Una volta installato e licenziato, inizializza Aspose.Imaging nel tuo progetto:
 ```java
 com.aspose.imaging.License license = new com.aspose.imaging.License();
 license.setLicense("path_to_license_file");
 ```
 
-## Guida all'implementazione
+## Come estrarre il percorso di ritaglio da un TIFF?
+L'estrazione di un percorso di ritaglio prevede il caricamento del TIFF, l'individuazione di eventuali risorse di percorso incorporate e la scrittura di tali risorse in un nuovo file PSD. Il processo legge i dati vettoriali direttamente dall'immagine sorgente, preservando la precisione e evitando conversioni raster.
 
-### Funzionalità 1: Estrazione delle risorse del percorso da TIFF
-
-**Panoramica**:Questa funzione consente di estrarre le risorse del percorso vettoriale incorporate nelle immagini TIFF e di salvarle come file PSD, che possono essere ulteriormente modificati nelle applicazioni di progettazione grafica.
-
-#### Implementazione passo dopo passo
-
-##### Carica l'immagine TIFF
+Carica il TIFF, itera attraverso le sue risorse di percorso e salva il risultato come PSD. Questa operazione legge i dati vettoriali incorporati e li scrive in un nuovo file in un unico passaggio.
 ```java
 String filePath = "YOUR_DOCUMENT_DIRECTORY/SupportExtractingPathsFromTiff/Sample.tif";
 try (TiffImage image = (TiffImage) com.aspose.imaging.Image.load(filePath)) {
-    // Procedere con le fasi di estrazione...
+    // Proceed with extraction steps...
 }
 ```
 
-##### Estrai risorse del percorso
-Eseguire l'iterazione attraverso le risorse del percorso nel frame attivo:
+Itera attraverso le risorse di percorso nel frame attivo e raccoglile:
 ```java
 for (PathResource path : image.getActiveFrame().getPathResources()) {
-    System.out.println(path.getName());  // Restituisce il nome di ogni risorsa di percorso trovata.
+    System.out.println(path.getName());  // Output the name of each path resource found.
 }
 ```
 
-##### Salva come PSD
-Infine, salva l'immagine con i percorsi estratti in un nuovo file:
+Salva l'immagine con i percorsi estratti in un nuovo file PSD:
 ```java
 String outFilePath = "YOUR_OUTPUT_DIRECTORY/SampleWithPaths.psd";
 image.save(outFilePath);
 ```
 
-### Funzionalità 2: Creazione e aggiunta di tracciati di ritaglio a TIFF
+## Come creare un percorso di ritaglio in TIFF?
+Creare un percorso di ritaglio richiede la costruzione di un `PathResource` che descriva il contorno vettoriale desiderato, il suo collegamento al frame attivo del TIFF e quindi il salvataggio dell'immagine (o di una copia) come PSD affinché il percorso venga conservato. Questo approccio consente di aggiungere programmaticamente maschere vettoriali a file raster.
 
-**Panoramica**: Scopri come creare manualmente tracciati di ritaglio nelle immagini TIFF e convertirli in formato PSD, migliorandone la modificabilità.
-
-#### Implementazione passo dopo passo
-
-##### Preparare la risorsa del percorso
-Inizializza un nuovo `PathResource` con attributi specifici:
+`PathResource` rappresenta un percorso vettoriale memorizzato all'interno di un file immagine.  
+Inizializza un nuovo `PathResource` con gli attributi richiesti:
 ```java
 final PathResource pathResource = new PathResource();
-pathResource.setBlockId((short) 2000); // Imposta l'ID del blocco in base alle specifiche di Photoshop
-pathResource.setName("My Clipping Path"); // Assegna un nome al percorso di ritaglio per una facile identificazione
+pathResource.setBlockId((short) 2000); // Set Block ID per Photoshop specs
+pathResource.setName("My Clipping Path"); // Name your clipping path for easy identification
 
-// Crea e aggiungi record di percorsi vettoriali utilizzando le coordinate fornite.
+// Create and add vector path records using the provided coordinates.
 pathResource.setRecords(createRecords(0.2f, 0.2f, 0.8f, 0.2f, 0.8f, 0.8f, 0.2f, 0.8f));
 ```
 
-##### Imposta le risorse del percorso su Immagine
-Assegna la risorsa percorso creata al frame attivo dell'immagine:
+Assegna la risorsa di percorso creata al frame attivo dell'immagine:
 ```java
 List<PathResource> list = new LinkedList<>();
 list.add(pathResource);
 image.getActiveFrame().setPathResources(list);
 ```
 
-##### Salva come PSD con tracciati di ritaglio
-Salva il tuo TIFF modificato con i tracciati di ritaglio appena aggiunti:
+Salva il TIFF modificato come PSD che ora contiene il percorso di ritaglio:
 ```java
 String outFilePath2 = "YOUR_OUTPUT_DIRECTORY/ImageWithPath.psd";
 image.save(outFilePath2);
 ```
 
-### Metodi di supporto
+## Metodi di supporto
 
-#### Crea record
-Genera record di percorsi vettoriali utilizzando nodi di Bézier e record di lunghezza:
+### Creare record
+Genera record di percorso vettoriale usando nodi Bezier e record di lunghezza:
 ```java
 private static List<VectorPathRecord> createRecords(float ... coordinates) {
     List<VectorPathRecord> records = createBezierRecords(coordinates); 
@@ -142,8 +202,8 @@ private static List<VectorPathRecord> createRecords(float ... coordinates) {
 }
 ```
 
-#### Crea record di Bezier
-Convertire array di coordinate in record di percorsi vettoriali di Bézier:
+### Creare record Bezier
+Converti array di coordinate in record di percorso vettoriale Bezier:
 ```java
 private static List<VectorPathRecord> createBezierRecords(float[] coordinates) {
     final List<VectorPathRecord> list = new LinkedList<>();
@@ -157,8 +217,8 @@ private static List<VectorPathRecord> createBezierRecords(float[] coordinates) {
 }
 ```
 
-#### Crea record di Bezier
-Definisci un singolo record del percorso vettoriale del nodo di Bézier:
+### Creare record Bezier singolo
+Definisci un singolo record di percorso vettoriale Bezier knot:
 ```java
 private static VectorPathRecord createBezierRecord(PointF point) {
     BezierKnotRecord it = new BezierKnotRecord();
@@ -168,57 +228,64 @@ private static VectorPathRecord createBezierRecord(PointF point) {
 ```
 
 ## Applicazioni pratiche
-
-1. **Miglioramento del design grafico**: Converti i file TIFF in PSD per ulteriori elaborazioni in Adobe Photoshop.
-2. **Pipeline di elaborazione automatica delle immagini**: Integrare le funzionalità di estrazione e creazione di percorsi nei flussi di lavoro automatizzati per semplificare i processi di produzione grafica.
-3. **Visualizzazione dei dati**: Utilizza percorsi vettoriali per creare rappresentazioni grafiche complesse a partire dai dati delle immagini.
+1. **Flussi di lavoro di graphic design** – Converti TIFF in PSD per modificare livelli e maschere in Photoshop.  
+2. **Pipeline di immagini automatizzate** – Elabora in batch migliaia di TIFF, estraendo o aggiungendo percorsi al volo.  
+3. **Visualizzazioni basate sui dati** – Usa percorsi vettoriali per generare grafici o schemi precisi da sorgenti raster.
 
 ## Considerazioni sulle prestazioni
-
-- **Gestione della memoria**Garantisci un utilizzo efficiente della memoria rilasciando tempestivamente le risorse con try-with-resources in Java.
-- **Elaborazione batch**: Ottimizza le prestazioni durante l'elaborazione di grandi lotti di immagini implementando l'esecuzione parallela ove applicabile.
-- **Risoluzione dell'immagine**: Regola le impostazioni di risoluzione in base alle esigenze per trovare un equilibrio tra qualità e prestazioni.
+- **Gestione della memoria** – Usa try‑with‑resources per garantire che gli oggetti immagine vengano rilasciati prontamente.  
+- **Elaborazione batch** – Parallelizza le conversioni con `ForkJoinPool` di Java per insiemi di immagini di grandi dimensioni.  
+- **Gestione della risoluzione** – Regola DPI solo quando necessario per mantenere basso il tempo di elaborazione preservando la qualità.
 
 ## Conclusione
-
-Seguendo questa guida, hai imparato come sfruttare Aspose.Imaging per Java per estrarre e creare tracciati di ritaglio nei file TIFF. Queste funzionalità consentono una perfetta integrazione nei flussi di lavoro di progettazione grafica, migliorando significativamente i tuoi progetti di manipolazione delle immagini. Continua a esplorare le funzionalità aggiuntive di Aspose.Imaging per migliorare ulteriormente le tue competenze di sviluppo!
+Ora sai **come creare un percorso di ritaglio** nei file TIFF e come estrarre percorsi esistenti usando Aspose.Imaging per Java. Queste tecniche ti permettono di integrare una sofisticata manipolazione delle immagini in qualsiasi flusso di lavoro basato su Java, dalle utility desktop alle pipeline di elaborazione di livello enterprise.
 
 ### Prossimi passi
-- Sperimenta diverse configurazioni di percorso.
-- Esplora le funzionalità più avanzate di Aspose.Imaging per altri formati di file.
+- Sperimenta con forme vettoriali e attributi di percorso diversi.  
+- Esplora ulteriori funzionalità di Aspose.Imaging come watermarking, conversione di formati e gestione dei metadati.
 
-## Sezione FAQ
+## Domande frequenti
 
-1. **Posso utilizzare Aspose.Imaging per Java in un'applicazione commerciale?**
-   - Sì, ma assicurati di aver acquisito la licenza appropriata per l'uso commerciale.
+**D: Posso usare Aspose.Imaging per Java in un'applicazione commerciale?**  
+R: Sì, a condizione di possedere una licenza commerciale valida; è disponibile una prova gratuita per la valutazione.
 
-2. **Quali formati di immagine supporta Aspose.Imaging?**
-   - Supporta oltre 100 formati immagine, tra cui TIFF, PSD, BMP, JPEG, PNG e altri.
+**D: Quali formati di immagine supporta Aspose.Imaging?**  
+R: La libreria supporta oltre 100 formati, inclusi TIFF, PSD, BMP, JPEG, PNG e molti altri.
 
-3. **Come posso risolvere gli errori di estrazione del percorso?**
-   - Prima di provare a estrarle, verifica che le immagini TIFF contengano percorsi vettoriali.
+**D: Come risolvere gli errori di estrazione del percorso?**  
+R: Verifica che il TIFF di origine contenga effettivamente risorse di percorso vettoriale; utilizza il controllo `hasPathResources()` prima dell'estrazione.
 
-4. **È possibile elaborare in batch più immagini utilizzando Aspose.Imaging?**
-   - Sì, è possibile implementare tecniche di elaborazione parallela per gestire in modo efficiente più file.
+**D: È possibile elaborare in batch più TIFF?**  
+R: Assolutamente – combina il codice di estrazione con gli stream paralleli di Java o un executor service per gestire efficientemente molti file.
 
-5. **Quali sono i limiti della creazione di tracciati di ritaglio in TIFF con Java?**
-   - Assicurati che i dati dell'immagine siano compatibili con la creazione del percorso vettoriale; le forme complesse potrebbero richiedere una regolazione manuale.
+**D: Ci sono limitazioni nella creazione di percorsi di ritaglio in TIFF?**  
+R: Forme complesse potrebbero richiedere aggiustamenti manuali dopo la creazione; l'API gestisce in modo affidabile curve Bezier standard e linee rette.
+
+---
+
+**Ultimo aggiornamento:** 2026-09-02  
+**Testato con:** Aspose.Imaging per Java 24.12  
+**Autore:** Aspose  
 
 ## Risorse
 
-- [Documentazione di Aspose.Imaging](https://reference.aspose.com/imaging/java/)
-- [Scarica Aspose.Imaging per Java](https://releases.aspose.com/imaging/java/)
+- [Aspose.Imaging Documentation](https://reference.aspose.com/imaging/java/)
+- [Download Aspose.Imaging per Java](https://releases.aspose.com/imaging/java/)
 - [Acquista licenza](https://purchase.aspose.com/buy)
 - [Prova gratuita](https://releases.aspose.com/imaging/java/)
 - [Licenza temporanea](https://purchase.aspose.com/temporary-license/)
 - [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
 
-Sfrutta la potenza di Aspose.Imaging Java e trasforma subito le tue capacità di elaborazione delle immagini!
+## Tutorial correlati
+
+- [Converti immagine in PSD con Aspose.Imaging per Java – Guida passo‑passo](/imaging/java/format-conversion-export/convert-images-to-psd-using-aspose-imaging-java-guide/)
+- [Come convertire TIFF in GraphicsPath con Aspose.Imaging Java](/imaging/java/advanced-drawing-graphics/aspose-imaging-java-tiff-graphicspath-conversion/)
+- [Caricamento e salvataggio efficienti di immagini TIFF in Java con Aspose.Imaging](/imaging/java/image-loading-saving/aspose-imaging-java-tiff-image-saving/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

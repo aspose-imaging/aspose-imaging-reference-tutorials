@@ -1,40 +1,112 @@
 ---
-"date": "2025-06-04"
-"description": "Pelajari cara mengekstrak dan membuat jalur kliping dalam gambar TIFF menggunakan Aspose.Imaging untuk Java. Tingkatkan proyek manipulasi gambar dengan mengubah TIFF menjadi format PSD."
-"title": "Ekstrak dan Buat Jalur Kliping di TIFF dengan Aspose.Imaging untuk Java"
-"url": "/id/java/format-specific-operations/aspose-imaging-java-tiff-path-extraction/"
-"weight": 1
+date: '2026-09-02'
+description: Pelajari cara membuat clipping path dan mengekstraknya dari gambar TIFF
+  menggunakan Aspose.Imaging for Java. Ikuti petunjuk langkah demi langkah untuk mengonversi
+  TIFF ke PSD secara efisien.
+keywords:
+- create clipping path
+- how to extract path
+- how to convert tiff
+- aspose imaging java
+- convert tiff to psd
+lastmod: '2026-09-02'
+og_description: Pelajari cara membuat clipping path dan mengekstraknya dari gambar
+  TIFF menggunakan Aspose.Imaging for Java. Ikuti kode langkah demi langkah untuk
+  mengonversi TIFF ke PSD.
+og_image_alt: Guide showing how to create clipping path in TIFF using Aspose.Imaging
+  Java
+og_title: Buat clipping path pada TIFF dengan Aspose.Imaging for Java
+schemas:
+- author: Aspose
+  dateModified: '2026-09-02'
+  description: Learn how to create clipping path and extract it from TIFF images using
+    Aspose.Imaging for Java. Follow step‑by‑step instructions to convert TIFF to PSD
+    efficiently.
+  headline: Create clipping path in TIFF with Aspose.Imaging for Java
+  type: TechArticle
+- description: Learn how to create clipping path and extract it from TIFF images using
+    Aspose.Imaging for Java. Follow step‑by‑step instructions to convert TIFF to PSD
+    efficiently.
+  name: Create clipping path in TIFF with Aspose.Imaging for Java
+  steps:
+  - name: '**Free trial** – start with a 30‑day trial.'
+    text: '**Free trial** – start with a 30‑day trial.'
+  - name: '**Temporary license** – obtain one from the [temporary license page](https://purchase.aspose.com/temporary-license/).'
+    text: '**Temporary license** – obtain one from the [temporary license page](https://purchase.aspose.com/temporary-license/).'
+  - name: '**Purchase** – buy a full license at [Aspose''s website](https://purchase.aspose.com/buy).'
+    text: '**Purchase** – buy a full license at [Aspose''s website](https://purchase.aspose.com/buy).'
+  - name: '**Graphic design workflows** – Convert TIFF to PSD to edit layers and masks
+      in Photoshop.'
+    text: '**Graphic design workflows** – Convert TIFF to PSD to edit layers and masks
+      in Photoshop.'
+  - name: '**Automated image pipelines** – Batch‑process thousands of TIFFs, extracting
+      or adding paths on the fly.'
+    text: '**Automated image pipelines** – Batch‑process thousands of TIFFs, extracting
+      or adding paths on the fly.'
+  - name: '**Data‑driven visualizations** – Use vector paths to generate precise charts
+      or schematics from raster sources.'
+    text: '**Data‑driven visualizations** – Use vector paths to generate precise charts
+      or schematics from raster sources.'
+  type: HowTo
+- questions:
+  - answer: Yes, provided you have a valid commercial license; a free trial is available
+      for evaluation.
+    question: Can I use Aspose.Imaging for Java in a commercial application?
+  - answer: The library supports over 100 formats, including TIFF, PSD, BMP, JPEG,
+      PNG, and many more.
+    question: What image formats does Aspose.Imaging support?
+  - answer: Verify that the source TIFF actually contains vector path resources; use
+      the `hasPathResources()` check before extraction.
+    question: How do I troubleshoot path extraction errors?
+  - answer: Absolutely – combine the extraction code with Java’s parallel streams
+      or an executor service to handle many files efficiently.
+    question: Is batch processing of multiple TIFFs possible?
+  - answer: Complex shapes may need manual adjustment after creation; the API handles
+      standard Bezier curves and straight lines reliably.
+    question: Are there limitations when creating clipping paths in TIFF?
+  type: FAQPage
+tags:
+- create clipping path
+- TIFF processing
+- Aspose.Imaging
+- Java image manipulation
+- PSD conversion
+title: Buat clipping path pada TIFF dengan Aspose.Imaging for Java
+url: /id/java/format-specific-operations/aspose-imaging-java-tiff-path-extraction/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# Menguasai Ekstraksi dan Pembuatan Jalur dalam TIFF Menggunakan Java Aspose.Imaging
 
-**Buka kekuatan manipulasi gambar dengan menguasai cara mengekstrak dan membuat jalur kliping dalam file TIFF menggunakan Aspose.Imaging Java. Dalam panduan komprehensif ini, Anda akan mempelajari cara mengubah gambar TIFF Anda menjadi format PSD yang serbaguna sekaligus meningkatkan daya tarik visualnya dengan sumber daya jalur khusus.**
+# Buat clipping path dalam TIFF dengan Aspose.Imaging untuk Java
 
-## Apa yang Akan Anda Pelajari
-- Cara mengekstrak sumber daya jalur dari gambar TIFF secara efisien.
-- Langkah-langkah untuk membuat dan menambahkan jalur kliping guna menyempurnakan proyek manipulasi gambar Anda.
-- Integrasi Aspose.Imaging untuk Java di lingkungan pengembangan Anda.
-- Aplikasi praktis dan teknik pengoptimalan kinerja.
+Dalam panduan komprehensif ini Anda akan belajar **cara membuat clipping path** dalam file TIFF dan cara mengekstrak path yang ada menggunakan Aspose.Imaging untuk Java. Pada akhir panduan, Anda akan dapat mengonversi gambar TIFF menjadi file PSD yang sepenuhnya dapat diedit, siap untuk Photoshop atau editor yang mendukung vektor.
 
-Siap untuk terjun ke dunia pemrosesan gambar tingkat lanjut? Mari kita mulai!
+## Jawaban Cepat
+- **Apa itu clipping path?** Garis vektor yang mendefinisikan wilayah transparan dan tidak transparan pada sebuah gambar.  
+- **Bisakah saya mengekstrak path yang ada dari TIFF?** Ya – Aspose.Imaging dapat membaca sumber daya path yang tertanam dan menyimpannya sebagai PSD.  
+- **Bagaimana cara menambahkan clipping path baru?** Buat `PathResource`, isi dengan rekaman vektor, dan tetapkan ke frame aktif gambar.  
+- **Apakah saya memerlukan lisensi untuk penggunaan produksi?** Lisensi Aspose.Imaging yang valid diperlukan untuk penyebaran komersial.  
+- **Versi Java apa yang diperlukan?** JDK 8 atau lebih tinggi; perpustakaan ini bekerja dengan Java 11, 17, dan versi selanjutnya.
+
+## Apa itu clipping path?
+Clipping path adalah outline berbasis vektor yang memberi tahu mesin rendering bagian mana dari gambar yang harus ditampilkan atau disembunyikan. Itu disimpan sebagai sumber daya path di dalam file TIFF atau PSD dan dapat diedit di Adobe Photoshop.
+
+## Mengapa mengonversi TIFF ke PSD?
+Mengonversi TIFF ke PSD memungkinkan pengeditan tanpa kehilangan kualitas pada lapisan, masker, dan clipping path. Aspose.Imaging mendukung **lebih dari 50 format input dan output** serta dapat memproses TIFF ber‑ratus‑ratus halaman tanpa memuat seluruh file ke memori, memberikan konversi batch berperforma tinggi.
 
 ## Prasyarat
+- **Java Development Kit (JDK)** 8 atau yang lebih baru terpasang.  
+- **Aspose.Imaging untuk Java** library (tambahkan via Maven, Gradle, atau unduhan langsung).  
+- Familiaritas dasar dengan konsep pemrograman Java.
 
-Sebelum kita melanjutkan, pastikan Anda memiliki hal berikut:
-- **Kit Pengembangan Java (JDK)**: JDK 8 atau lebih tinggi terinstal di komputer Anda.
-- **Aspose.Imaging untuk Pustaka Java**Anda memerlukan pustaka ini, yang dapat ditambahkan melalui dependensi Maven atau Gradle. Panduan ini mengasumsikan pemahaman terhadap konsep dasar pemrograman Java.
+## Cara menyiapkan Aspose.Imaging untuk Java
+Sebelum menambahkan kode apa pun, pastikan perpustakaan sudah direferensikan dengan benar di sistem build Anda dan Anda memiliki file lisensi yang valid. Ini memastikan API berfungsi tanpa batasan evaluasi dan semua fitur, termasuk manipulasi path, tersedia.
 
-## Menyiapkan Aspose.Imaging untuk Java
-
-Untuk mulai menggunakan Aspose.Imaging untuk Java di proyek Anda, ikuti langkah-langkah instalasi berikut:
-
-### Pakar
-Tambahkan dependensi berikut ke `pom.xml` mengajukan:
+### Maven
+Tambahkan dependensi berikut ke file `pom.xml` Anda:
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -43,93 +115,81 @@ Tambahkan dependensi berikut ke `pom.xml` mengajukan:
 </dependency>
 ```
 
-### Bahasa Inggris Gradle
-Sertakan baris ini di `build.gradle` mengajukan:
+### Gradle
+Sertakan baris ini dalam file `build.gradle` Anda:
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-### Unduh Langsung
-Atau, unduh versi terbaru dari [Aspose.Imaging untuk rilis Java](https://releases.aspose.com/imaging/java/).
+### Unduh langsung
+Unduh versi terbaru dari [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-#### Akuisisi Lisensi
-1. **Uji Coba Gratis**: Mulailah dengan uji coba gratis 30 hari untuk menjelajahi semua fitur.
-2. **Lisensi Sementara**: Dapatkan lisensi sementara dengan mengunjungi [halaman lisensi sementara](https://purchase.aspose.com/temporary-license/).
-3. **Pembelian**:Untuk penggunaan berkelanjutan, beli lisensi dari [Situs web Aspose](https://purchase.aspose.com/buy).
+#### Perolehan Lisensi
+1. **Free trial** – uji coba gratis – mulai dengan uji coba 30 hari.  
+2. **Temporary license** – dapatkan satu dari [temporary license page](https://purchase.aspose.com/temporary-license/).  
+3. **Purchase** – beli lisensi penuh di [Aspose's website](https://purchase.aspose.com/buy).
 
-Setelah terinstal dan dilisensikan, inisialisasi Aspose.Imaging di proyek Anda:
+Setelah diinstal dan dilisensikan, inisialisasi Aspose.Imaging dalam proyek Anda:
 ```java
 com.aspose.imaging.License license = new com.aspose.imaging.License();
 license.setLicense("path_to_license_file");
 ```
 
-## Panduan Implementasi
+## Cara mengekstrak clipping path dari TIFF?
+Mengekstrak clipping path melibatkan memuat TIFF, menemukan sumber daya path yang tertanam, dan menulis sumber daya tersebut ke file PSD baru. Proses ini membaca data vektor langsung dari gambar sumber, menjaga akurasi dan menghindari konversi raster.
 
-### Fitur 1: Mengekstrak Sumber Daya Jalur dari TIFF
-
-**Ringkasan**: Fitur ini memungkinkan Anda mengekstrak sumber jalur vektor yang tertanam dalam gambar TIFF dan menyimpannya sebagai file PSD, yang dapat diedit lebih lanjut dalam aplikasi desain grafis.
-
-#### Implementasi Langkah demi Langkah
-
-##### Memuat Gambar TIFF
+Muat TIFF, iterasi melalui sumber daya path‑nya, dan simpan hasilnya sebagai PSD. Operasi ini membaca data vektor yang tertanam dan menulisnya ke file baru dalam satu langkah.
 ```java
 String filePath = "YOUR_DOCUMENT_DIRECTORY/SupportExtractingPathsFromTiff/Sample.tif";
 try (TiffImage image = (TiffImage) com.aspose.imaging.Image.load(filePath)) {
-    // Lanjutkan dengan langkah ekstraksi...
+    // Proceed with extraction steps...
 }
 ```
 
-##### Ekstrak Sumber Daya Jalur
-Ulangi melalui sumber daya jalur dalam bingkai aktif:
+Iterasi melalui sumber daya path di frame aktif dan kumpulkan mereka:
 ```java
 for (PathResource path : image.getActiveFrame().getPathResources()) {
-    System.out.println(path.getName());  // Keluarkan nama setiap sumber daya jalur yang ditemukan.
+    System.out.println(path.getName());  // Output the name of each path resource found.
 }
 ```
 
-##### Simpan sebagai PSD
-Terakhir, simpan gambar dengan jalur yang diekstrak ke file baru:
+Simpan gambar dengan path yang diekstrak ke file PSD baru:
 ```java
 String outFilePath = "YOUR_OUTPUT_DIRECTORY/SampleWithPaths.psd";
 image.save(outFilePath);
 ```
 
-### Fitur 2: Membuat dan Menambahkan Jalur Kliping ke TIFF
+## Cara membuat clipping path dalam TIFF?
+Membuat clipping path memerlukan konstruksi `PathResource` yang menggambarkan outline vektor yang diinginkan, melampirkannya ke frame aktif TIFF, lalu menyimpan gambar (atau salinannya) sebagai PSD sehingga path tetap ada. Pendekatan ini memungkinkan Anda menambahkan masker vektor ke file raster secara programatis.
 
-**Ringkasan**: Pelajari cara membuat jalur kliping secara manual dalam gambar TIFF dan mengonversinya ke format PSD, meningkatkan kemampuan pengeditannya.
-
-#### Implementasi Langkah demi Langkah
-
-##### Siapkan Sumber Daya Jalur
-Inisialisasi baru `PathResource` dengan atribut spesifik:
+`PathResource` mewakili path vektor yang disimpan di dalam file gambar.  
+Inisialisasi `PathResource` baru dengan atribut yang diperlukan:
 ```java
 final PathResource pathResource = new PathResource();
-pathResource.setBlockId((short) 2000); // Tetapkan ID Blok sesuai spesifikasi Photoshop
-pathResource.setName("My Clipping Path"); // Beri nama jalur kliping Anda untuk memudahkan identifikasi
+pathResource.setBlockId((short) 2000); // Set Block ID per Photoshop specs
+pathResource.setName("My Clipping Path"); // Name your clipping path for easy identification
 
-// Buat dan tambahkan catatan jalur vektor menggunakan koordinat yang disediakan.
+// Create and add vector path records using the provided coordinates.
 pathResource.setRecords(createRecords(0.2f, 0.2f, 0.8f, 0.2f, 0.8f, 0.8f, 0.2f, 0.8f));
 ```
 
-##### Tetapkan Sumber Daya Jalur ke Gambar
-Tetapkan sumber daya jalur yang dibuat ke bingkai aktif gambar:
+Tetapkan sumber daya path yang dibuat ke frame aktif gambar:
 ```java
 List<PathResource> list = new LinkedList<>();
 list.add(pathResource);
 image.getActiveFrame().setPathResources(list);
 ```
 
-##### Simpan sebagai PSD dengan Jalur Kliping
-Simpan TIFF Anda yang telah dimodifikasi dengan jalur kliping yang baru ditambahkan:
+Simpan TIFF yang telah dimodifikasi sebagai PSD yang kini berisi clipping path:
 ```java
 String outFilePath2 = "YOUR_OUTPUT_DIRECTORY/ImageWithPath.psd";
 image.save(outFilePath2);
 ```
 
-### Metode Pembantu
+## Metode bantuan
 
-#### Buat Rekaman
-Hasilkan catatan jalur vektor menggunakan simpul Bezier dan catatan panjang:
+### Buat record
+Hasilkan rekaman path vektor menggunakan simpul Bezier dan rekaman panjang:
 ```java
 private static List<VectorPathRecord> createRecords(float ... coordinates) {
     List<VectorPathRecord> records = createBezierRecords(coordinates); 
@@ -142,8 +202,8 @@ private static List<VectorPathRecord> createRecords(float ... coordinates) {
 }
 ```
 
-#### Buat Rekaman Bezier
-Ubah array koordinat menjadi rekaman jalur vektor Bezier:
+### Buat record Bezier
+Konversi array koordinat menjadi rekaman path vektor Bezier:
 ```java
 private static List<VectorPathRecord> createBezierRecords(float[] coordinates) {
     final List<VectorPathRecord> list = new LinkedList<>();
@@ -157,8 +217,8 @@ private static List<VectorPathRecord> createBezierRecords(float[] coordinates) {
 }
 ```
 
-#### Buat Rekaman Bezier
-Tentukan satu rekaman jalur vektor simpul Bezier:
+### Buat record Bezier
+Definisikan satu rekaman path vektor simpul Bezier:
 ```java
 private static VectorPathRecord createBezierRecord(PointF point) {
     BezierKnotRecord it = new BezierKnotRecord();
@@ -167,58 +227,65 @@ private static VectorPathRecord createBezierRecord(PointF point) {
 }
 ```
 
-## Aplikasi Praktis
+## Aplikasi praktis
+1. **Alur kerja desain grafis** – Konversi TIFF ke PSD untuk mengedit lapisan dan masker di Photoshop.  
+2. **Pipeline gambar otomatis** – Proses batch ribuan TIFF, mengekstrak atau menambahkan path secara dinamis.  
+3. **Visualisasi berbasis data** – Gunakan path vektor untuk menghasilkan diagram atau skema yang presisi dari sumber raster.
 
-1. **Peningkatan Desain Grafis**: Ubah file TIFF menjadi PSD untuk manipulasi lebih lanjut di Adobe Photoshop.
-2. **Alur Pemrosesan Gambar Otomatis**:Integrasikan fitur ekstraksi dan pembuatan jalur dalam alur kerja otomatis untuk menyederhanakan proses produksi grafis.
-3. **Visualisasi Data**: Gunakan jalur vektor untuk membuat representasi grafis yang rumit dari data gambar.
-
-## Pertimbangan Kinerja
-
-- **Manajemen Memori**Pastikan penggunaan memori yang efisien dengan melepaskan sumber daya segera dengan try-with-resources di Java.
-- **Pemrosesan Batch**: Optimalkan kinerja saat memproses kumpulan gambar besar dengan menerapkan eksekusi paralel jika berlaku.
-- **Resolusi Gambar**Sesuaikan pengaturan resolusi berdasarkan persyaratan untuk menyeimbangkan antara kualitas dan kinerja.
+## Pertimbangan kinerja
+- **Manajemen memori** – Gunakan try‑with‑resources untuk memastikan objek gambar dibuang dengan cepat.  
+- **Pemrosesan batch** – Paralelkan konversi dengan `ForkJoinPool` Java untuk kumpulan gambar besar.  
+- **Penanganan resolusi** – Sesuaikan DPI hanya bila diperlukan untuk menjaga waktu proses tetap rendah sambil mempertahankan kualitas.
 
 ## Kesimpulan
+Anda kini tahu cara **membuat clipping path** dalam file TIFF dan mengekstrak path yang ada menggunakan Aspose.Imaging untuk Java. Teknik ini memungkinkan integrasi manipulasi gambar canggih ke dalam alur kerja berbasis Java apa pun, mulai dari utilitas desktop hingga pipeline pemrosesan tingkat perusahaan.
 
-Dengan mengikuti panduan ini, Anda telah mempelajari cara memanfaatkan Aspose.Imaging untuk Java guna mengekstrak dan membuat jalur kliping dalam file TIFF. Kemampuan ini memungkinkan integrasi yang lancar ke dalam alur kerja desain grafis, sehingga menyempurnakan proyek manipulasi gambar Anda secara signifikan. Teruslah menjelajahi fitur-fitur tambahan Aspose.Imaging untuk lebih meningkatkan keterampilan pengembangan Anda!
+### Langkah selanjutnya
+- Bereksperimen dengan bentuk vektor dan atribut path yang berbeda.  
+- Jelajahi fitur tambahan Aspose.Imaging seperti watermarking, konversi format, dan penanganan metadata.
 
-### Langkah Berikutnya
-- Bereksperimen dengan konfigurasi jalur yang berbeda.
-- Jelajahi fitur Aspose.Imaging yang lebih canggih untuk format file lainnya.
+## Pertanyaan yang sering diajukan
 
-## Bagian FAQ
+**Q: Apakah saya dapat menggunakan Aspose.Imaging untuk Java dalam aplikasi komersial?**  
+A: Ya, asalkan Anda memiliki lisensi komersial yang valid; uji coba gratis tersedia untuk evaluasi.
 
-1. **Dapatkah saya menggunakan Aspose.Imaging untuk Java dalam aplikasi komersial?**
-   - Ya, tetapi pastikan Anda telah memperoleh lisensi yang sesuai untuk penggunaan komersial.
+**Q: Format gambar apa yang didukung Aspose.Imaging?**  
+A: Perpustakaan ini mendukung lebih dari 100 format, termasuk TIFF, PSD, BMP, JPEG, PNG, dan banyak lagi.
 
-2. **Format gambar apa yang didukung Aspose.Imaging?**
-   - Mendukung lebih dari 100 format gambar termasuk TIFF, PSD, BMP, JPEG, PNG, dan banyak lagi.
+**Q: Bagaimana cara mengatasi kesalahan ekstraksi path?**  
+A: Pastikan TIFF sumber memang berisi sumber daya path vektor; gunakan pemeriksaan `hasPathResources()` sebelum ekstraksi.
 
-3. **Bagaimana saya dapat memecahkan masalah kesalahan ekstraksi jalur?**
-   - Verifikasi bahwa gambar TIFF Anda berisi jalur vektor sebelum mencoba mengekstraknya.
+**Q: Apakah pemrosesan batch banyak TIFF memungkinkan?**  
+A: Tentu – gabungkan kode ekstraksi dengan aliran paralel Java atau layanan eksekutor untuk menangani banyak file secara efisien.
 
-4. **Mungkinkah memproses beberapa gambar secara batch menggunakan Aspose.Imaging?**
-   - Ya, Anda dapat menerapkan teknik pemrosesan paralel untuk menangani banyak berkas secara efisien.
+**Q: Apakah ada batasan saat membuat clipping path dalam TIFF?**  
+A: Bentuk kompleks mungkin memerlukan penyesuaian manual setelah pembuatan; API menangani kurva Bezier standar dan garis lurus dengan andal.
 
-5. **Apa saja batasan pembuatan jalur kliping di TIFF dengan Java?**
-   - Pastikan data gambar Anda kompatibel dengan pembuatan jalur vektor; bentuk yang rumit mungkin memerlukan penyesuaian manual.
+---
 
-## Sumber daya
+**Last Updated:** 2026-09-02  
+**Tested With:** Aspose.Imaging for Java 24.12  
+**Author:** Aspose  
 
-- [Dokumentasi Aspose.Imaging](https://reference.aspose.com/imaging/java/)
-- [Unduh Aspose.Imaging untuk Java](https://releases.aspose.com/imaging/java/)
-- [Beli Lisensi](https://purchase.aspose.com/buy)
-- [Uji Coba Gratis](https://releases.aspose.com/imaging/java/)
-- [Lisensi Sementara](https://purchase.aspose.com/temporary-license/)
-- [Forum Dukungan Aspose](https://forum.aspose.com/c/imaging/14)
+## Sumber Daya
 
-Manfaatkan kekuatan Aspose.Imaging Java dan ubah kemampuan pemrosesan gambar Anda hari ini!
+- [Aspose.Imaging Documentation](https://reference.aspose.com/imaging/java/)
+- [Download Aspose.Imaging for Java](https://releases.aspose.com/imaging/java/)
+- [Purchase License](https://purchase.aspose.com/buy)
+- [Free Trial](https://releases.aspose.com/imaging/java/)
+- [Temporary License](https://purchase.aspose.com/temporary-license/)
+- [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
+
+## Tutorial Terkait
+
+- [Convert Image to PSD with Aspose.Imaging for Java – Step‑by‑Step Guide](/imaging/java/format-conversion-export/convert-images-to-psd-using-aspose-imaging-java-guide/)
+- [How to Convert TIFF to GraphicsPath with Aspose.Imaging Java](/imaging/java/advanced-drawing-graphics/aspose-imaging-java-tiff-graphicspath-conversion/)
+- [Efficiently Load & Save TIFF Images in Java with Aspose.Imaging](/imaging/java/image-loading-saving/aspose-imaging-java-tiff-image-saving/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

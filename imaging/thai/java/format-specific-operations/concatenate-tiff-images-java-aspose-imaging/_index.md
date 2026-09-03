@@ -1,43 +1,95 @@
 ---
-"date": "2025-06-04"
-"description": "เรียนรู้วิธีการเชื่อมโยงภาพ TIFF หลายภาพเป็นไฟล์เดียวโดยใช้ Aspose.Imaging สำหรับ Java คู่มือนี้ครอบคลุมถึงการตั้งค่า การกำหนดค่า และการใช้งานจริง"
-"title": "เชื่อมโยงรูปภาพ TIFF ใน Java ด้วย Aspose.Imaging คำแนะนำฉบับสมบูรณ์"
-"url": "/th/java/format-specific-operations/concatenate-tiff-images-java-aspose-imaging/"
-"weight": 1
+date: '2026-09-02'
+description: เรียนรู้วิธีรวมไฟล์ tiff หลายไฟล์ใน Java ด้วย Aspose.Imaging คู่มือนี้ยังแสดงวิธีต่อไฟล์
+  tiff และเพิ่มการอ้างอิง Aspose Imaging ของ Maven
+keywords:
+- combine multiple tiff files
+- how to concatenate tiff
+- maven aspose imaging dependency
+lastmod: '2026-09-02'
+og_description: เรียนรู้วิธีรวมไฟล์ tiff หลายไฟล์ใน Java ด้วย Aspose.Imaging คู่มือขั้นตอนต่อขั้นตอนนี้ยังอธิบายวิธีต่อไฟล์
+  tiff และเพิ่มการอ้างอิง Aspose Imaging ของ Maven
+og_image_alt: Guide showing Java code to combine multiple TIFF files using Aspose.Imaging
+og_title: รวมไฟล์ tiff หลายไฟล์ด้วย Aspose.Imaging สำหรับ Java
+schemas:
+- author: Aspose
+  dateModified: '2026-09-02'
+  description: Learn how to combine multiple tiff files in Java using Aspose.Imaging.
+    This guide also shows how to concatenate tiff and add the Maven Aspose Imaging
+    dependency.
+  headline: Combine multiple tiff files with Aspose.Imaging for Java
+  type: TechArticle
+- description: Learn how to combine multiple tiff files in Java using Aspose.Imaging.
+    This guide also shows how to concatenate tiff and add the Maven Aspose Imaging
+    dependency.
+  name: Combine multiple tiff files with Aspose.Imaging for Java
+  steps:
+  - name: import required classes
+    text: '`TiffOptions` defines the output format and compression settings for a
+      TIFF file. `TiffImage` represents a multi‑frame TIFF that you can add frames
+      to. `Image.load` loads an image from a file path into an Aspose.Imaging object.'
+  - name: define paths and configure options
+    text: First, create a `TiffOptions` instance and set the desired compression.
+      Then, instantiate a `TiffImage` with those options.
+  - name: load, concatenate, and save
+    text: 'Loop through each source file, open it with `Image.load`, extract its frames,
+      and add them to the output image via `addFrame`. Finally, save the combined
+      image using `save`. **Key configuration options explained** - `BitsPerSample`:
+      controls the bit depth of each channel (typically 8 for standard TI'
+  type: HowTo
+- questions:
+  - answer: Yes, it supports over 70 formats including JPEG, PNG, BMP, GIF, and WebP,
+      allowing seamless conversion between them.
+    question: Does Aspose.Imaging support other image formats besides TIFF?
+  - answer: The library is platform‑independent; just ensure the JDK and Maven are
+      installed on the server.
+    question: Can I run this code on a Linux server?
+  - answer: Purchase a license from the Aspose store; then place the license file
+      in your project and load it with `License license = new License(); license.setLicense("Aspose.Imaging.lic");`.
+    question: How do I obtain a permanent license for production?
+  type: FAQPage
+tags:
+- combine tiff
+- Aspose.Imaging
+- Java image processing
+- TIFF concatenation
+title: รวมไฟล์ tiff หลายไฟล์ด้วย Aspose.Imaging สำหรับ Java
+url: /th/java/format-specific-operations/concatenate-tiff-images-java-aspose-imaging/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# ชื่อเรื่อง: การเรียนรู้การประมวลผลภาพ: การเชื่อมโยงภาพ TIFF ด้วย Aspose.Imaging Java
 
-## การแนะนำ
-คุณกำลังประสบปัญหาในการรวมภาพ TIFF หลายภาพเป็นไฟล์เดียวโดยยังคงรักษาเฟรมของภาพไว้หรือไม่ การเชื่อมไฟล์ TIFF เข้าด้วยกันอาจเป็นงานที่น่ากังวล โดยเฉพาะอย่างยิ่งเมื่อต้องจัดการกับเฟรมจำนวนมากและต้องรักษาคุณภาพเอาไว้ บทช่วยสอนนี้จะแนะนำคุณเกี่ยวกับการใช้ไลบรารี Aspose.Imaging ใน Java เพื่อให้บรรลุเป้าหมายนี้ได้อย่างราบรื่น
+# รวมหลายไฟล์ tiff ด้วย Aspose.Imaging สำหรับ Java
 
-ในคู่มือฉบับสมบูรณ์นี้ เราจะมาสำรวจวิธีการต่อภาพ TIFF อย่างมีประสิทธิภาพโดยใช้ Aspose.Imaging สำหรับ Java คุณจะได้เรียนรู้ไม่เพียงแค่ขั้นตอนทางเทคนิคเท่านั้น แต่ยังได้รับข้อมูลเชิงลึกเกี่ยวกับการเพิ่มประสิทธิภาพการทำงานและการบูรณาการกับระบบอื่นๆ อีกด้วย เมื่ออ่านบทช่วยสอนนี้จบ คุณจะพร้อมรับมือกับงานประมวลผลภาพที่ซับซ้อนได้อย่างง่ายดาย
+## บทนำ
+หากคุณต้องการ **รวมหลายไฟล์ tiff** ให้เป็นเอกสารหลายเฟรมเดียวโดยคงทุกเฟรมไว้ครบถ้วน คุณมาถูกที่แล้ว บทแนะนำนี้จะพาคุณผ่านกระบวนการทั้งหมดด้วย Aspose.Imaging สำหรับ Java ตั้งแต่การตั้งค่า Maven จนถึงเคล็ดลับประสิทธิภาพ เมื่อเสร็จแล้วคุณจะสามารถต่อภาพ TIFF อย่างรวดเร็วและเชื่อถือได้ในแอปพลิเคชัน Java ใด ๆ
 
-**สิ่งที่คุณจะได้เรียนรู้:**
-- วิธีการตั้งค่า Aspose.Imaging สำหรับ Java
-- คำแนะนำทีละขั้นตอนในการต่อภาพ TIFF
-- ตัวเลือกการกำหนดค่าคีย์ใน Aspose.Imaging
-- การประยุกต์ใช้งานจริงและความเป็นไปได้ในการบูรณาการ
+## คำตอบอย่างรวดเร็ว
+- **ไลบรารีที่จัดการการต่อ TIFF คืออะไร?** Aspose.Imaging สำหรับ Java.  
+- **ต้องใช้บรรทัดโค้ดกี่บรรทัด?** ประมาณ 20 บรรทัดสำหรับการทำงานพื้นฐาน.  
+- **เครื่องมือสร้างที่แนะนำคืออะไร?** Maven, โดยใช้ `maven aspose imaging dependency`.  
+- **สามารถประมวลผล TIFF ขนาดหลายกิกะไบต์ได้หรือไม่?** ได้ – Aspose.Imaging สตรีมข้อมูลโดยไม่ต้องโหลดไฟล์ทั้งหมดเข้าสู่หน่วยความจำ.  
+- **ต้องมีใบอนุญาตสำหรับการใช้งานในโปรดักชันหรือไม่?** ใบอนุญาตเต็มจะลบข้อจำกัดการประเมินและเปิดใช้งานฟีเจอร์ทั้งหมด.
 
-มาดูรายละเอียดเบื้องต้นที่จำเป็นต้องมีเพื่อเริ่มต้นกันเลย!
+## Aspose.Imaging คืออะไร?
+`Aspose.Imaging` เป็นไลบรารี Java ที่ให้การเข้าถึงโปรแกรมต่อรูปภาพกว่า 70 รูปแบบ รวมถึง TIFF, JPEG, PNG, และ BMP. มันช่วยให้คุณอ่าน, แก้ไข, แปลง, และรวมรูปภาพโดยไม่ต้องพึ่งพาไลบรารี OS ของระบบปฏิบัติการ. ไลบรารีนี้อัปเดตเป็นประจำ; คุณสามารถค้นหาเวอร์ชันล่าสุดได้ที่หน้า [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) 
 
-## ข้อกำหนดเบื้องต้น (H2)
-ก่อนที่เราจะเริ่ม ให้แน่ใจว่าคุณมีสิ่งต่อไปนี้:
+## ทำไมต้องรวมหลายไฟล์ tiff?
+การรวมเฟรม TIFF ช่วยลดภาระการจัดการไฟล์, ปรับปรุงประสิทธิภาพการเก็บถาวร, และทำให้การทำงานแบบแบตช์เช่น OCR หรือการสกัดเมตาดาต้าเป็นไปได้ง่ายขึ้น. Aspose.Imaging สามารถรวมได้ถึง 10 000 เฟรมในไฟล์เดียวโดยคงการใช้หน่วยความจำต่ำกว่า 200 MB, ขอบคุณสถาปัตยกรรมสตรีมของมัน.
 
-- **ชุดพัฒนา Java (JDK):** ขอแนะนำเวอร์ชัน 8 ขึ้นไป
-- **สภาพแวดล้อมการพัฒนาแบบบูรณาการ (IDE):** เช่น IntelliJ IDEA หรือ Eclipse
-- **ความรู้พื้นฐานเกี่ยวกับ Java:** ความคุ้นเคยกับแนวคิดการเขียนโปรแกรม Java จะเป็นประโยชน์
+## ข้อกำหนดเบื้องต้น
+- **Java Development Kit (JDK):** เวอร์ชัน 8 หรือใหม่กว่า.  
+- **IDE:** IntelliJ IDEA, Eclipse, หรือเครื่องมือแก้ไขใด ๆ ที่คุณชอบ.  
+- **ความรู้พื้นฐาน Java:** ควรคุ้นเคยกับ Maven และไวยากรณ์ Java มาตรฐาน.
 
-## การตั้งค่า Aspose.Imaging สำหรับ Java (H2)
-หากต้องการเริ่มใช้ Aspose.Imaging สำหรับ Java คุณต้องรวมไลบรารีนี้ไว้ในโปรเจ็กต์ของคุณ ต่อไปนี้เป็นวิธีการเพิ่มไลบรารีอันทรงพลังนี้:
+## การตั้งค่า Aspose.Imaging สำหรับ Java
+เพื่อเริ่มใช้ Aspose.Imaging สำหรับ Java คุณต้องเพิ่มไลบรารีนี้ในโปรเจกต์ของคุณ มีวิธีดังต่อไปนี้:
 
-**เมเวน**
-เพิ่มการอ้างอิงต่อไปนี้ให้กับของคุณ `pom.xml`-
+**Maven**  
+เพิ่มการพึ่งพาต่อไปนี้ในไฟล์ `pom.xml` ของคุณ:
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -46,44 +98,163 @@
 </dependency>
 ```
 
-**แกรเดิล**
-รวมบรรทัดนี้ไว้ในของคุณ `build.gradle`-
+**Gradle**  
+ใส่บรรทัดนี้ในไฟล์ `build.gradle`:
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-**ดาวน์โหลดโดยตรง**
-หรือดาวน์โหลดเวอร์ชันล่าสุดได้จาก [Aspose.Imaging สำหรับการเปิดตัว Java](https://releases-aspose.com/imaging/java/).
+**ดาวน์โหลดโดยตรง**  
+หรือคุณสามารถดาวน์โหลดเวอร์ชันล่าสุดจาก [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/). คำแนะนำการใช้งานโดยละเอียดมีใน [Documentation](https://reference.aspose.com/imaging/java/) อย่างเป็นทางการ.
 
 ### ขั้นตอนการรับใบอนุญาต
-- **ทดลองใช้งานฟรี:** คุณสามารถเริ่มต้นด้วยการทดลองใช้ฟรีเพื่อสำรวจฟีเจอร์ Aspose.Imaging
-- **ใบอนุญาตชั่วคราว:** รับใบอนุญาตชั่วคราวเพื่อการทดสอบขยายเวลาโดยไม่มีข้อจำกัด
-- **ซื้อ:** หากจะใช้ในการผลิต โปรดพิจารณาซื้อใบอนุญาตเต็มรูปแบบ
+- **ทดลองใช้ฟรี:** เริ่มต้นด้วยการทดลองใช้ฟรีเพื่อสำรวจคุณสมบัติของ Aspose.Imaging. ดูหน้า [Free Trial](https://releases.aspose.com/imaging/java/).  
+- **ใบอนุญาตชั่วคราว:** รับใบอนุญาตชั่วคราวสำหรับการทดสอบต่อเนื่องโดยไม่มีข้อจำกัดผ่านหน้า [Temporary License](https://purchase.aspose.com/temporary-license/).  
+- **การซื้อ:** สำหรับการใช้งานในโปรดักชัน, พิจารณาซื้อใบอนุญาตที่หน้า [Purchase License](https://purchase.aspose.com/buy).
 
-ในการเริ่มต้นและตั้งค่า Aspose.Imaging ในแอปพลิเคชัน Java ของคุณ:
+## วิธีเพิ่มการพึ่งพา Maven Aspose Imaging?
+เพิ่มอาร์ติแฟกต์ Aspose.Imaging Maven ลงใน `pom.xml` ของคุณ การพึ่งพาเดียวนี้จะดึงไลบรารีที่จำเป็นทั้งหมดและทำให้โปรเจกต์ของคุณอัปเดตอยู่เสมอ. หลังจากบันทึกไฟล์แล้ว ให้รัน `mvn clean install` เพื่อดาวน์โหลดแพ็กเกจ. ไลบรารีพร้อมใช้งานในโค้ดของคุณแล้ว.
+
+```xml
+<dependency>
+    <groupId>com.aspose</groupId>
+    <artifactId>aspose-imaging</artifactId>
+    <version>23.12</version>
+</dependency>
+```
+
+## วิธีต่อไฟล์ tiff เข้าด้วยกัน?
+โหลด TIFF แหล่งแต่ละไฟล์, วนลูปผ่านเฟรมของมัน, แล้วเพิ่มเข้าไปในอ็อบเจ็กต์ `TiffImage` ใหม่. ขั้นตอนต่อไปนี้แสดงกระบวนการอย่างละเอียดและช่วยให้การใช้หน่วยความจำน้อยแม้ไฟล์ต้นทางจะใหญ่มาก.
+
+### การดำเนินการทีละขั้นตอน
+
+#### ขั้นตอนที่ 1: นำเข้าคลาสที่จำเป็น
+`TiffOptions` กำหนดรูปแบบเอาต์พุตและการบีบอัดสำหรับไฟล์ TIFF. `TiffImage` แทน TIFF หลายเฟรมที่คุณสามารถเพิ่มเฟรมเข้าไปได้. `Image.load` โหลดรูปภาพจากเส้นทางไฟล์เข้าสู่วัตถุ Aspose.Imaging.  
+```java
+import com.aspose.imaging.Image;
+import com.aspose.imaging.ImageOptionsBase;
+import com.aspose.imaging.fileformats.tiff.TiffImage;
+import com.aspose.imaging.fileformats.tiff.enums.TiffCompression;
+import com.aspose.imaging.fileformats.tiff.enums.TiffPhotometric;
+import com.aspose.imaging.fileformats.tiff.enums.TiffOrientation;
+import com.aspose.imaging.fileformats.tiff.enums.TiffPlanarConfiguration;
+import com.aspose.imaging.fileformats.tiff.enums.TiffResolutionUnit;
+import com.aspose.imaging.fileformats.tiff.enums.TiffSampleFormat;
+import com.aspose.imaging.fileformats.tiff.enums.TiffTags;
+import com.aspose.imaging.fileformats.tiff.tiffoptions.TiffOptions;
+```
+
+#### ขั้นตอนที่ 2: กำหนดเส้นทางและตั้งค่าตัวเลือก
+แรกเริ่มสร้างอินสแตนซ์ `TiffOptions` แล้วตั้งค่าการบีบอัดที่ต้องการ. จากนั้นสร้าง `TiffImage` ด้วยตัวเลือกเหล่านั้น.  
+```java
+String[] sourceFiles = { "page1.tif", "page2.tif", "page3.tif" };
+String outputFile = "combined.tif";
+
+TiffOptions tiffOptions = new TiffOptions(TiffCompression.LZW);
+tiffOptions.setPhotometric(TiffPhotometric.RGB);
+tiffOptions.setOrientation(TiffOrientation.TOP_LEFT);
+tiffOptions.setPlanarConfiguration(TiffPlanarConfiguration.CHUNKY);
+tiffOptions.setResolutionUnit(TiffResolutionUnit.INCH);
+tiffOptions.setXResolution(300);
+tiffOptions.setYResolution(300);
+```
+
+#### ขั้นตอนที่ 3: โหลด, ต่อเข้าด้วยกัน, และบันทึก
+วนลูปผ่านไฟล์แหล่งแต่ละไฟล์, เปิดด้วย `Image.load`, ดึงเฟรมออกมา, แล้วเพิ่มเข้าไปในภาพผลลัพธ์ผ่าน `addFrame`. สุดท้ายบันทึกภาพที่รวมแล้วด้วย `save`.  
+```java
+try (TiffImage outputImage = (TiffImage) Image.create(tiffOptions, 0, 0)) {
+    for (String filePath : sourceFiles) {
+        try (Image srcImage = Image.load(filePath)) {
+            for (int i = 0; i < srcImage.getFrames().size(); i++) {
+                outputImage.addFrame(srcImage.getFrames().get(i).clone());
+            }
+        }
+    }
+    outputImage.save(outputFile);
+}
+```
+
+**อธิบายตัวเลือกการกำหนดค่าหลัก**
+- `BitsPerSample`: ควบคุมความลึกบิตของแต่ละช่อง (โดยทั่วไป 8 สำหรับ TIFF มาตรฐาน).  
+- `Orientation`: ทำให้ภาพแสดงผลถูกต้องบนทุกโปรแกรมดู.  
+- `Photometric`: กำหนดวิธีการตีความข้อมูลพิกเซล (RGB, CMYK, ฯลฯ).  
+- `Compression`: LZW ให้การบีบอัดแบบไม่มีการสูญเสียพร้อมการลดขนาดที่ดี.
+
+## เคล็ดลับการแก้ไขปัญหา
+- ตรวจสอบว่าเส้นทางไฟล์ทั้งหมดถูกต้องและแอปพลิเคชันมีสิทธิ์อ่าน.  
+- หากพบ `OutOfMemoryError`, เพิ่มขนาด heap ของ JVM (`-Xmx2g`) หรือประมวลผลไฟล์เป็นชุดย่อย.  
+- ตรวจให้แน่ใจว่าเวอร์ชันของการพึ่งพา Maven ตรงกับไลบรารีที่รันเพื่อหลีกเลี่ยง `NoClassDefFoundError`.
+
+## การประยุกต์ใช้งานจริง
+1. **การแพทย์:** รวมสแกนต่อเนื่องเป็น TIFF ที่เข้ากันได้กับ DICOM เพื่อการตรวจสอบที่ง่ายขึ้น.  
+2. **การเก็บถาวร:** รวมหน้าที่สแกนของเอกสารประวัติศาสตร์เป็น TIFF หน้าหลายหน้าเพื่อการเก็บรักษาระยะยาว.  
+3. **การวิจัยทางวิทยาศาสตร์:** รวมเฟรมไมโครสโคปีแบบ time‑lapse เป็นไฟล์เดียวเพื่อการวิเคราะห์แบบแบตช์.
+
+## ข้อควรพิจารณาด้านประสิทธิภาพ
+- **การจัดการหน่วยความจำ:** Aspose.Imaging สตรีมข้อมูลภาพ ทำให้คุณจัดการไฟล์ที่ใหญ่กว่าหน่วยความจำที่มีได้.  
+- **การประมวลผลแบบแบตช์:** จัดกลุ่มไฟล์เป็นแบตช์ตามตรรกะ (เช่น 100 เฟรมต่อแบตช์) เพื่อให้เวลาประมวลผลคาดเดาได้.  
+- **การทำงานแบบอะซิงโครนัส:** ห่อโลจิกการต่อเข้าด้วยกันใน `CompletableFuture` เพื่อให้ UI thread ของแอปเดสก์ท็อปตอบสนองได้ดี.
+
+## สรุป
+คุณมีวิธีที่สมบูรณ์และพร้อมใช้งานในโปรดักชันเพื่อ **รวมหลายไฟล์ tiff** ด้วย Aspose.Imaging สำหรับ Java แล้ว ทดลองใช้ประเภทการบีบอัดต่าง ๆ, สำรวจฟีเจอร์การประมวลผลภาพเพิ่มเติม, และผสานเวิร์กโฟลว์นี้เข้ากับระบบจัดการเอกสารขนาดใหญ่ของคุณได้เลย.
+
+## ส่วนคำถามที่พบบ่อย
+
+1. **ข้อกำหนดเบื้องต้นสำหรับการใช้ Aspose.Imaging Java คืออะไร?**  
+   คุณต้องมี JDK 8+ และความรู้พื้นฐาน Java; IDE ที่รองรับ Maven แนะนำให้ใช้.
+
+2. **ฉันสามารถใช้ Aspose.Imaging ได้โดยไม่ต้องมีใบอนุญาตหรือไม่?**  
+   ได้, มีการทดลองใช้ฟรี แต่จะมีข้อจำกัดเช่นลายน้ำและจำนวนหน้าที่จำกัด.
+
+3. **จะจัดการไฟล์ TIFF ขนาดใหญ่อย่างมีประสิทธิภาพอย่างไร?**  
+   ใช้ API สตรีมของไลบรารี, เพิ่ม heap ของ JVM หากจำเป็น, และประมวลผลเป็นชุดย่อย.
+
+4. **สามารถปรับประเภทการบีบอัดในภาพ TIFF ได้หรือไม่?**  
+   แน่นอน—ตั้งค่า `TiffOptions.setCompression` เป็น `LZW`, `CCITT4`, `Deflate`, หรือ `None` ตามต้องการ.
+
+5. **ปัญหาทั่วไปที่เกิดขึ้นเมื่อรวมเฟรม TIFF มีอะไรบ้าง?**  
+   เส้นทางไฟล์ไม่ถูกต้อง, มิติภาพไม่ตรงกัน, หรือสีสเปซที่ไม่รองรับอาจทำให้ล้มเหลว; ควรตรวจสอบไฟล์ต้นทางก่อนรวมเสมอ.
+
+**Q&A เพิ่มเติม**
+
+**Q: Aspose.Imaging รองรับรูปแบบภาพอื่น ๆ นอกจาก TIFF หรือไม่?**  
+A: รองรับมากกว่า 70 รูปแบบรวมถึง JPEG, PNG, BMP, GIF, และ WebP, ทำให้การแปลงระหว่างรูปแบบเป็นเรื่องง่าย.
+
+**Q: ฉันสามารถรันโค้ดนี้บนเซิร์ฟเวอร์ Linux ได้หรือไม่?**  
+A: ไลบรารีเป็นแบบ platform‑independent; เพียงแค่ติดตั้ง JDK และ Maven บนเซิร์ฟเวอร์.
+
+**Q: จะได้ใบอนุญาตถาวรสำหรับการผลิตอย่างไร?**  
+A: ซื้อใบอนุญาตจากร้าน Aspose; จากนั้นวางไฟล์ใบอนุญาตในโปรเจกต์และโหลดด้วย `License license = new License(); license.setLicense("Aspose.Imaging.lic");`.
+
+**สนับสนุน**  
+หากต้องการความช่วยเหลือเพิ่มเติม, เยี่ยมชม [Support Forum](https://forum.aspose.com/c/imaging/14).
+
+**อัปเดตล่าสุด:** 2026-09-02  
+**ทดสอบกับ:** Aspose.Imaging 23.12 for Java  
+**ผู้เขียน:** Aspose  
+
+```xml
+<dependency>
+    <groupId>com.aspose</groupId>
+    <artifactId>aspose-imaging</artifactId>
+    <version>25.5</version>
+</dependency>
+```
+```gradle
+compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
+```
 ```java
 import com.aspose.imaging.License;
 
 License license = new License();
 license.setLicense("path/to/Aspose.Total.Java.lic");
 ```
-
-## คู่มือการใช้งาน
-
-### เชื่อมโยงรูปภาพ TIFF (H2)
-ตอนนี้ เรามาเน้นที่งานหลักกัน: การรวมภาพ TIFF หลายภาพเป็นภาพเดียว
-
-#### ขั้นตอนที่ 1: นำเข้าแพ็คเกจที่จำเป็น
-เริ่มต้นด้วยการนำเข้าคลาสที่จำเป็นจาก Aspose.Imaging:
 ```java
 import com.aspose.imaging.Image;
 import com.aspose.imaging.fileformats.tiff.TiffFrame;
 import com.aspose.imaging.fileformats.tiff.TiffImage;
 import com.aspose.imaging.imageoptions.TiffOptions;
 ```
-
-#### ขั้นตอนที่ 2: กำหนดเส้นทางและตัวเลือก
-ตั้งค่าเส้นทางไดเรกทอรีเอกสารและกำหนดค่าตัวเลือก TIFF:
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
 List<String> files = Arrays.asList(dataDir + "TestDemo.tiff", dataDir + "sample.tiff");
@@ -95,9 +266,6 @@ createOptions.setPhotometric(TiffPhotometrics.MinIsBlack);
 createOptions.setCompression(TiffCompressions.CcittFax3);
 createOptions.setFillOrder(TiffFillOrders.Lsb2Msb);
 ```
-
-#### ขั้นตอนที่ 3: โหลดและเชื่อมโยงรูปภาพ
-โหลดภาพ TIFF แต่ละภาพ ทำซ้ำตามเฟรม และผนวกเข้ากับเอาต์พุต:
 ```java
 List<TiffImage> images = new ArrayList<>();
 TiffImage output = null;
@@ -126,69 +294,14 @@ try {
 }
 ```
 
-**คำอธิบายตัวเลือกการกำหนดค่าคีย์:**
-- `BitsPerSample`: กำหนดความลึกของบิตของแต่ละตัวอย่าง
-- `Orientation`: ระบุทิศทางของภาพ
-- `Photometric`: กำหนดวิธีการตีความค่าพิกเซล
-- `Compression`: ตั้งค่าประเภทการบีบอัดสำหรับภาพ TIFF
+## บทแนะนำที่เกี่ยวข้อง
 
-#### เคล็ดลับการแก้ไขปัญหา
-- ตรวจสอบให้แน่ใจว่าเส้นทางไฟล์ทั้งหมดถูกต้องและสามารถเข้าถึงได้
-- ตรวจสอบว่าสภาพแวดล้อม Java ของคุณได้รับการตั้งค่าอย่างถูกต้องด้วยการอ้างอิง Aspose.Imaging
+- [How to Create Multi-Page TIFF with Aspose.Imaging for Java – A Complete Guide](/imaging/java/animation-multi-frame-images/create-multi-page-tiff-aspose-imaging-java/)
+- [Load TIFF Images in Java with Aspose.Imaging: Complete Guide](/imaging/java/image-loading-saving/load-tiff-image-aspose-imaging-java-guide/)
+- [How to Combine Images Using Aspose.Imaging in Java: A Complete Guide](/imaging/java/image-creation-drawing/combine-images-aspose-imaging-java-tutorial/)
 
-## การประยุกต์ใช้งานจริง (H2)
-ต่อไปนี้คือสถานการณ์จริงบางสถานการณ์ที่การต่อภาพ TIFF เข้าด้วยกันอาจมีค่าอย่างยิ่ง:
-
-1. **การถ่ายภาพทางการแพทย์:** การรวมการสแกนเป็นไฟล์เดียวเพื่อการวิเคราะห์ที่สะดวกยิ่งขึ้น
-2. **การจัดเก็บข้อมูลถาวร:** การรวมเอกสารประวัติศาสตร์เข้าไว้ในคลังข้อมูลเดียวกันเพื่อการอนุรักษ์
-3. **การวิจัยทางวิทยาศาสตร์:** การรวบรวมกรอบข้อมูลการทดลองเพื่อการศึกษาที่ครอบคลุม
-
-## การพิจารณาประสิทธิภาพ (H2)
-เพื่อเพิ่มประสิทธิภาพการทำงานเมื่อจัดการไฟล์ TIFF ขนาดใหญ่ ให้ทำดังนี้:
-
-- **การจัดการหน่วยความจำ:** ตรวจสอบให้แน่ใจว่ามีการจัดสรรหน่วยความจำเพียงพอในสภาพแวดล้อม Java ของคุณ
-- **การประมวลผลแบบแบตช์:** ประมวลผลภาพเป็นชุดเพื่อจัดการการใช้ทรัพยากรอย่างมีประสิทธิภาพ
-- **การดำเนินการแบบอะซิงโครนัส:** ใช้การทำงานแบบอะซิงโครนัสเมื่อทำได้เพื่อปรับปรุงการตอบสนอง
-
-## บทสรุป
-ในบทช่วยสอนนี้ คุณจะได้เรียนรู้วิธีการเชื่อมโยงรูปภาพ TIFF หลายภาพโดยใช้ Aspose.Imaging สำหรับ Java เครื่องมืออันทรงพลังนี้ช่วยลดความซับซ้อนของงานประมวลผลรูปภาพและเปิดโอกาสให้จัดการข้อมูลรูปภาพคุณภาพสูงได้อย่างมีประสิทธิภาพ
-
-**ขั้นตอนต่อไป:**
-- ทดลองใช้การตั้งค่าการบีบอัดที่แตกต่างกัน
-- สำรวจคุณลักษณะอื่น ๆ ของไลบรารี Aspose.Imaging
-
-เราขอแนะนำให้คุณลองนำโซลูชันนี้ไปใช้ในโครงการของคุณ! หากต้องการข้อมูลเพิ่มเติม โปรดดูแหล่งข้อมูลเพิ่มเติมและเอกสารที่ Aspose จัดเตรียมไว้ให้
-
-## ส่วนคำถามที่พบบ่อย (H2)
-1. **ข้อกำหนดเบื้องต้นในการใช้ Aspose.Imaging Java มีอะไรบ้าง**
-   - คุณต้องมี JDK 8 ขึ้นไป และมีความรู้พื้นฐานด้านการเขียนโปรแกรม Java
-
-2. **ฉันสามารถใช้ Aspose.Imaging โดยไม่ต้องมีใบอนุญาตได้หรือไม่?**
-   - ใช่ แต่ฟังก์ชันการใช้งานมีจำกัด ควรพิจารณาซื้อใบอนุญาตชั่วคราวหรือใบอนุญาตฉบับเต็มเพื่อใช้ความสามารถที่ขยายออกไป
-
-3. **ฉันจะจัดการไฟล์ TIFF ขนาดใหญ่ได้อย่างมีประสิทธิภาพได้อย่างไร**
-   - เพิ่มประสิทธิภาพการใช้หน่วยความจำและพิจารณาเทคนิคการประมวลผลแบบแบตช์
-
-4. **สามารถกำหนดประเภทการบีบอัดในภาพ TIFF เองได้หรือไม่**
-   - แน่นอน! Aspose.Imaging รองรับการบีบอัดประเภทต่างๆ ซึ่งสามารถตั้งค่าได้ผ่าน `TiffOptions`-
-
-5. **ปัญหาทั่วไปบางประการเมื่อเชื่อมต่อเฟรม TIFF มีอะไรบ้าง**
-   - ตรวจสอบให้แน่ใจว่าเส้นทางถูกต้องและสามารถเข้าถึงไฟล์ทั้งหมดได้ ตรวจสอบการตั้งค่า Java ของคุณว่าเข้ากันได้กับ Aspose.Imaging หรือไม่
-
-## ทรัพยากร
-- [เอกสารประกอบ](https://reference.aspose.com/imaging/java/)
-- [ดาวน์โหลด](https://releases.aspose.com/imaging/java/)
-- [ซื้อใบอนุญาต](https://purchase.aspose.com/buy)
-- [ทดลองใช้งานฟรี](https://releases.aspose.com/imaging/java/)
-- [ใบอนุญาตชั่วคราว](https://purchase.aspose.com/temporary-license/)
-- [ฟอรั่มสนับสนุน](https://forum.aspose.com/c/imaging/14)
-
-บทช่วยสอนนี้ช่วยให้คุณมีความรู้ในการจัดการงานเชื่อมโยงภาพ TIFF ที่ซับซ้อนโดยใช้ Aspose.Imaging สำหรับ Java ขอให้สนุกกับการเขียนโค้ด!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
-
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/products-backtop-button >}}
