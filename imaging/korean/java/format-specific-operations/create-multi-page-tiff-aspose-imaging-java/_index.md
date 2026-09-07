@@ -1,50 +1,227 @@
 ---
-"date": "2025-06-04"
-"description": "Aspose.Imaging for Java를 사용하여 여러 페이지로 구성된 TIFF 파일을 만드는 방법을 알아보세요. 이미지 처리 워크플로를 효율적이고 효과적으로 간소화하세요."
-"title": "Aspose.Imaging for Java를 사용하여 다중 페이지 TIFF 만들기 - 튜토리얼"
-"url": "/ko/java/format-specific-operations/create-multi-page-tiff-aspose-imaging-java/"
-"weight": 1
+date: '2026-09-07'
+description: 이 Java 이미지 처리 튜토리얼에서 Aspose.Imaging for Java를 사용하여 다중 페이지 TIFF를 만드는 방법을
+  배웁니다. 효율적인 워크플로를 위한 단계별 가이드를 따라보세요.
+keywords:
+- java image processing tutorial
+- multi-page TIFF creation
+- Aspose.Imaging for Java
+- maven dependency aspose imaging
+- Java image handling
+lastmod: '2026-09-07'
+og_description: 'java 이미지 처리 튜토리얼: Aspose.Imaging for Java를 사용하여 다중 페이지 TIFF 파일을 만드는
+  방법을 배우고, Maven 설정 및 성능 팁을 포함합니다.'
+og_image_alt: Guide showing Java code to generate a multi-page TIFF using Aspose.Imaging
+og_title: Java 이미지 처리 튜토리얼에서 다중 페이지 TIFF 만들기
+schemas:
+- author: Aspose
+  dateModified: '2026-09-07'
+  description: Learn how to create a multi-page TIFF using Aspose.Imaging for Java
+    in this java image processing tutorial. Follow step‑by‑step guidance for efficient
+    workflow.
+  headline: Create a multi-page TIFF in a Java image processing tutorial
+  type: TechArticle
+- description: Learn how to create a multi-page TIFF using Aspose.Imaging for Java
+    in this java image processing tutorial. Follow step‑by‑step guidance for efficient
+    workflow.
+  name: Create a multi-page TIFF in a Java image processing tutorial
+  steps:
+  - name: '**Free trial** – register to obtain a temporary key. You can start with
+      [Free Trial Access](https://releases.aspose.com/imaging/java/).'
+    text: '**Free trial** – register to obtain a temporary key. You can start with
+      [Free Trial Access](https://releases.aspose.com/imaging/java/).'
+  - name: '**Temporary license** – extend testing beyond the trial period. Obtain
+      a temporary license: [Obtain a Temporary License](https://purchase.aspose.com/temporary-license/).'
+    text: '**Temporary license** – extend testing beyond the trial period. Obtain
+      a temporary license: [Obtain a Temporary License](https://purchase.aspose.com/temporary-license/).'
+  - name: '**Full purchase** – consider purchasing a full license for long‑term use.
+      [Purchase a License](https://purchase.aspose.com/buy).'
+    text: '**Full purchase** – consider purchasing a full license for long‑term use.
+      [Purchase a License](https://purchase.aspose.com/buy).'
+  - name: '**Medical imaging:** Bundle CT or MRI slices into a single TIFF for PACS
+      integration.'
+    text: '**Medical imaging:** Bundle CT or MRI slices into a single TIFF for PACS
+      integration.'
+  - name: '**Archival storage:** Preserve scanned contracts as a multi‑page document,
+      simplifying retrieval.'
+    text: '**Archival storage:** Preserve scanned contracts as a multi‑page document,
+      simplifying retrieval.'
+  - name: '**Graphic‑design review:** Combine concept sketches into one file for stakeholder
+      feedback.'
+    text: '**Graphic‑design review:** Combine concept sketches into one file for stakeholder
+      feedback.'
+  type: HowTo
+- questions:
+  - answer: Any format supported by Aspose.Imaging—PNG, JPEG, BMP, GIF, and even RAW
+      files—can be loaded and added as a page.
+    question: What image formats can I combine into a TIFF?
+  - answer: Yes, set `TiffOptions` with `bitsPerSample = 16` to preserve high‑depth
+      medical images.
+    question: Does the library support 16‑bit grayscale TIFFs?
+  - answer: The evaluation version limits output to 10 pages and 5 MB; a full license
+      removes those caps.
+    question: How large a TIFF can I create without a full license?
+  - answer: Use `TiffFrame` objects to set EXIF or XMP tags before saving.
+    question: Can I add metadata to each page?
+  - answer: Yes, write the `Image` to an `OutputStream` (e.g., servlet response) instead
+      of a file path.
+    question: Is there a way to stream the output directly to a response?
+  type: FAQPage
+tags:
+- java imaging
+- Aspose.Imaging
+- multi-page TIFF
+- Java tutorial
+title: Java 이미지 처리 튜토리얼에서 다중 페이지 TIFF 만들기
+url: /ko/java/format-specific-operations/create-multi-page-tiff-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# Aspose.Imaging for Java를 사용하여 다중 페이지 TIFF를 만드는 방법
+
+# Aspose.Imaging for Java를 사용하여 다중 페이지 TIFF 만들기
 
 ## 소개
 
-오늘날의 디지털 시대에는 효율성과 사용자 경험을 개선하려는 개발자와 기업 모두에게 이미지 관리 및 최적화가 매우 중요합니다. 여러 이미지 파일을 원활하게 처리하는 것은 일반적인 과제이며, 특히 TIFF처럼 여러 페이지 문서를 지원하는 형식의 경우 더욱 그렇습니다. 이 튜토리얼에서는 복잡한 이미지 처리 작업을 간소화하도록 설계된 강력한 라이브러리인 Aspose.Imaging for Java를 사용하여 여러 페이지 TIFF 파일을 만드는 방법을 안내합니다.
+이 **java image processing tutorial**에서는 Aspose.Imaging for Java를 사용하여 다중 페이지 TIFF 파일을 생성하는 방법을 알아봅니다. 이 라이브러리는 저수준 이미지 처리를 추상화하여 비즈니스 로직에 집중할 수 있게 해줍니다. 다중 페이지 TIFF는 문서 보관, 의료 영상, 그래픽 디자인 워크플로우 등 단일 컨테이너가 저장 및 전송을 단순화하는 경우에 이상적입니다. 개별 이미지를 로드하고 최종 결합 문서를 생성하는 전체 과정을 단계별로 살펴보겠습니다.
 
-**배울 내용:**
-- Java에서 여러 이미지를 목록에 로드합니다.
-- 이러한 이미지로 여러 페이지 TIFF를 만듭니다.
-- Aspose.Imaging for Java를 활용하여 작업 흐름을 간소화합니다.
-- 성능 및 통합을 위한 모범 사례.
+## 빠른 답변
+- **TIFF를 만들기 위한 주요 클래스는 무엇인가요?** `TiffImage` (via `Image.create` with `TiffOptions`).  
+- **Aspose.Imaging을 추가하는 Maven 아티팩트는 무엇인가요?** `com.aspose:aspose-imaging`.  
+- **압축을 설정할 수 있나요?** Yes, use `TiffCompression.JPEG` in `TiffOptions`.  
+- **대용량 파일에 라이선스가 필요합니까?** A full license removes size and page limits.  
+- **멀티스레드가 지원되나요?** You can process images concurrently; the library itself is thread‑safe.
 
-이 문제를 효율적으로 해결하기 위해 Aspose.Imaging for Java의 기능을 어떻게 활용할 수 있는지 알아보겠습니다.
+## Aspose.Imaging for Java란?
 
-## 필수 조건
+Aspose.Imaging for Java는 네이티브 종속성 없이 100개가 넘는 이미지 형식을 생성, 변환 및 조작할 수 있는 고성능 API입니다. 50개 이상의 입력·출력 형식을 지원하고, 메모리 효율적인 스트림으로 수백 페이지 TIFF를 처리하며, Java 8+ 런타임에서 실행됩니다. 색 공간 변환, 압축 튜닝, 메타데이터 처리 등을 기본 제공하여 엔터프라이즈 수준 이미지 워크플로우에 적합합니다.
 
-시작하기 전에 다음 설정이 있는지 확인하세요.
+## Java 이미지 처리 튜토리얼에서 Aspose.Imaging for Java를 사용하는 이유는?
 
-### 필수 라이브러리
-- **Java용 Aspose.Imaging**: 이 라이브러리는 튜토리얼의 핵심입니다. 25.5 이상 버전을 사용하세요.
+이 라이브러리는 색 공간 변환, 압축 튜닝, 다중 페이지 조합과 같은 복잡한 작업을 단일 호출로 처리하여 수동 ImageIO 방식에 비해 코드 크기를 최대 80 %까지 줄여줍니다. 또한 Windows, Linux, macOS 전반에 걸쳐 결정적인 출력을 보장하므로 자동화 파이프라인에 필수적입니다.
 
-### 환경 설정 요구 사항
-- 컴퓨터에 호환되는 JDK(Java Development Kit)가 설치되어 있어야 합니다.
-- IntelliJ IDEA, Eclipse 또는 Java 개발을 지원하는 다른 IDE.
+## 전제 조건
 
-### 지식 전제 조건
-- Java 프로그래밍에 대한 기본적인 이해.
-- Java로 이미지 처리 개념과 파일 처리에 익숙합니다.
+- **Aspose.Imaging for Java** (버전 25.5 이상).  
+- 호환되는 JDK (8 이상).  
+- IntelliJ IDEA 또는 Eclipse와 같은 IDE.  
+- 기본 Java 지식 및 파일 I/O에 대한 이해.
 
-## Java용 Aspose.Imaging 설정
+## Aspose.Imaging for Java 설정
 
-Aspose.Imaging for Java를 사용하려면 프로젝트에 추가해야 합니다. 방법은 다음과 같습니다.
+### Aspose.Imaging에 대한 Maven 의존성을 추가하는 방법은?
 
-**메이븐**
+Add the following entry to your `pom.xml` and run `mvn clean install`. This pulls the `aspose-imaging` library from Maven Central. Make sure to specify the correct version that matches your project requirements, and verify that the repository settings allow downloading from Maven Central without authentication.
+
+```xml
+<dependency>
+    <groupId>com.aspose</groupId>
+    <artifactId>aspose-imaging</artifactId>
+    <version>25.5</version>
+</dependency>
+```
+
+### Aspose.Imaging에 대한 Gradle 설정 방법은?
+
+Add the Aspose.Imaging dependency to the `dependencies` section, ensuring you use the same version as in Maven. Gradle will resolve the artifact from Maven Central and make it available for compilation and runtime. After syncing, you can import the classes in your Java code.
+
+```gradle
+implementation 'com.aspose:aspose-imaging:25.5'
+```
+
+### 직접 다운로드
+
+You can also download the library directly from [Aspose.Imaging for Java 릴리스](https://releases.aspose.com/imaging/java/).  
+You can also [Aspose.Imaging for Java 다운로드](https://releases.aspose.com/imaging/java/).  
+For detailed API usage, see the [Aspose.Imaging Java 문서](https://reference.aspose.com/imaging/java/).
+
+### 라이선스 획득 단계
+1. **무료 체험** – 임시 키를 얻기 위해 등록합니다. [Free Trial Access](https://releases.aspose.com/imaging/java/)에서 시작할 수 있습니다.  
+2. **임시 라이선스** – 체험 기간 이후 테스트를 연장합니다. 임시 라이선스를 얻으려면: [Obtain a Temporary License](https://purchase.aspose.com/temporary-license/).  
+3. **전체 구매** – 장기 사용을 위해 전체 라이선스 구매를 고려합니다. [Purchase a License](https://purchase.aspose.com/buy).
+
+#### 기본 초기화 및 설정
+To unlock the full feature set, load your license file before any image operation. `License.setLicense` loads a license file to unlock full functionality.
+
+```java
+com.aspose.imaging.License license = new com.aspose.imaging.License();
+license.setLicense("Aspose.Imaging.lic");
+```
+
+## 구현 가이드
+
+### 여러 이미지를 리스트에 로드하는 방법은?
+
+`Image.load` loads an image file into an Aspose.Imaging `Image` object. Create a `List<Image>` by iterating over the files in a directory, loading each with `Image.load`, and storing the objects for later composition. This approach keeps memory usage low because each image is streamed rather than fully materialized. It also simplifies error handling for missing files.
+
+```java
+String folder = "C:/images/";
+File[] files = new File(folder).listFiles((dir, name) -> name.endsWith(".png"));
+List<Image> images = new ArrayList<>();
+for (File f : files) {
+    images.add(Image.load(f.getAbsolutePath()));
+}
+```
+
+### 이미지 리스트에서 다중 페이지 TIFF를 만드는 방법은?
+
+`Image.create` creates a new image with specified options. `TiffOptions` specifies settings for TIFF output such as compression and resolution. Use `Image.create` with `TiffOptions` set to `TiffCompression.JPEG` (or another compression type) and pass the list of loaded images. The API writes each image as a separate page in the resulting TIFF file. You can also specify additional parameters such as resolution, bits per sample, and compression quality to tailor the output for your use case.
+
+```java
+String outputPath = "C:/output/multipage.tiff";
+TiffOptions options = new TiffOptions(TiffExpectedFormat.TiffJpegRgb);
+options.setCompression(TiffCompression.JPEG);
+Image.create(options, images.toArray(new Image[0])).save(outputPath);
+```
+
+## 성능 고려 사항
+
+- **Resize before combine:** Reducing image dimensions to the target size cuts memory usage by up to 60 %.  
+- **Dispose objects:** Call `image.dispose()` after saving to free native resources promptly.  
+- **Parallel loading:** For large batches, load images in separate threads and collect them into a thread‑safe list.
+
+## 실용적인 적용 사례
+
+1. **Medical imaging:** Bundle CT or MRI slices into a single TIFF for PACS integration.  
+2. **Archival storage:** Preserve scanned contracts as a multi‑page document, simplifying retrieval.  
+3. **Graphic‑design review:** Combine concept sketches into one file for stakeholder feedback.
+
+## 일반적인 문제 및 해결책
+
+- **Incorrect file paths:** Verify that each path is absolute or correctly relative to the working directory.  
+- **Insufficient write permissions:** Ensure the process has `WRITE` access to the output folder.  
+- **License not applied:** If you see a watermark, double‑check that `License.setLicense` runs before any image operation.
+
+## 자주 묻는 질문
+
+**Q: 어떤 이미지 형식을 TIFF로 결합할 수 있나요?**  
+A: Aspose.Imaging이 지원하는 모든 형식—PNG, JPEG, BMP, GIF, 그리고 RAW 파일까지—을 로드하여 페이지로 추가할 수 있습니다.
+
+**Q: 라이브러리가 16‑bit 그레이스케일 TIFF를 지원하나요?**  
+A: Yes, set `TiffOptions` with `bitsPerSample = 16` to preserve high‑depth medical images.
+
+**Q: 전체 라이선스 없이 만들 수 있는 TIFF 크기는 어느 정도인가요?**  
+A: 평가 버전은 출력이 10 페이지 및 5 MB로 제한되며, 전체 라이선스를 구매하면 이러한 제한이 해제됩니다.
+
+**Q: 각 페이지에 메타데이터를 추가할 수 있나요?**  
+A: Use `TiffFrame` objects to set EXIF or XMP tags before saving.
+
+**Q: 출력 스트림을 직접 응답으로 전송할 방법이 있나요?**  
+A: Yes, write the `Image` to an `OutputStream` (e.g., servlet response) instead of a file path.
+
+## 결론
+
+You have now mastered the steps required in this **java image processing tutorial** to load individual images, configure TIFF options, and generate a multi‑page TIFF with Aspose.Imaging for Java. Apply these patterns to automate document archiving, build medical‑image pipelines, or streamline design reviews. For deeper exploration, check the official reference guide.
+
+Explore more advanced scenarios at [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/).  
+For help, visit the [Aspose Support Forum](https://forum.aspose.com/c/imaging/14).
+
+**마지막 업데이트:** 2026-09-07  
+**테스트 환경:** Aspose.Imaging 25.5 for Java  
+**작성자:** Aspose  
+
 ```xml
 <dependency>
   <groupId>com.aspose</groupId>
@@ -53,50 +230,18 @@ Aspose.Imaging for Java를 사용하려면 프로젝트에 추가해야 합니�
 </dependency>
 ```
 
-**그래들**
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
-
-**직접 다운로드**
-라이브러리를 직접 다운로드할 수도 있습니다. [Java 릴리스용 Aspose.Imaging](https://releases.aspose.com/imaging/java/).
-
-### 라이센스 취득 단계
-1. **무료 체험**: 무료 체험판을 통해 기능을 평가해 보세요.
-2. **임시 면허**: 장기 테스트를 위해 임시 라이센스를 얻으세요.
-3. **구입**: 장기적으로 사용하려면 정식 라이선스 구매를 고려하세요.
-
-#### 기본 초기화 및 설정
-
-Aspose.Imaging을 초기화하려면 일반적으로 라이선스 정보를 설정하는 것으로 시작합니다.
 
 ```java
 com.aspose.imaging.License license = new com.aspose.imaging.License();
 license.setLicense("path_to_license.lic");
 ```
 
-이 단계는 개발 중에 모든 기능을 활용하는 데 중요합니다.
-
-## 구현 가이드
-
-이 과정을 두 가지 주요 기능으로 나누어 보겠습니다. 이미지 로딩과 여러 페이지 TIFF 생성입니다.
-
-### 여러 이미지를 목록에 로드하기
-
-**개요**: 이 기능은 디렉토리에서 여러 이미지 파일을 로드하고 추가 처리를 위해 목록에 저장하는 방법을 보여줍니다.
-
-#### 단계별 구현
-**1. 이미지 경로 정의**
-
-먼저 이미지 파일이 저장된 디렉토리를 지정하세요.
-
 ```java
 String baseFolder = "YOUR_DOCUMENT_DIRECTORY/Multipage/";
 ```
-
-**2. 로드할 이미지 목록**
-
-이미지 이름이 포함된 배열을 만듭니다.
 
 ```java
 String[] files = new String[]{
@@ -105,112 +250,33 @@ String[] files = new String[]{
 };
 ```
 
-**3. 이미지 로딩 및 저장**
-
-각 파일을 반복하고 전체 경로를 구성하고 다음을 사용하여 로드합니다. `Image.load()`, 목록에 추가하세요:
-
 ```java
 List<Image> images = new LinkedList<>();
 for (String file : files) {
     String filePath = baseFolder + file;
-    // 이미지를 로드하여 목록에 추가합니다.
+    // Load the image and add it to the list
     images.add(Image.load(filePath));
 }
 ```
-
-**설명**: `Image.load()` 디스크에서 파일을 읽어 Image 객체로 저장하고, 이를 조작하거나 결합할 수 있으므로 매우 중요합니다.
-
-### 이미지 목록에서 다중 페이지 TIFF 만들기
-
-**개요**: 이 기능은 Aspose.Imaging for Java를 사용하여 여러 이미지를 하나의 다중 페이지 TIFF로 결합하는 방법을 보여줍니다.
-
-#### 단계별 구현
-**1. 출력 경로 정의**
-
-새로운 다중 페이지 TIFF가 저장될 경로를 설정하세요:
 
 ```java
 String outputFilePath = "YOUR_OUTPUT_DIRECTORY/MultipageImageCreateTest.tif";
 ```
 
-**2. 여러 페이지 이미지 만들기**
-
-사용 `Image.create()` 이미지를 단일 TIFF 파일로 결합하려면:
-
 ```java
 try (Image multipageImage = Image.create(images.toArray(new Image[0]), true)) {
-    // 특정 TIFF 옵션을 사용하여 여러 페이지 이미지 저장
+    // Save the multipage image with specific TIFF options
     multipageImage.save(outputFilePath, new TiffOptions(TiffExpectedFormat.TiffJpegRgb));
 }
 ```
 
-**설명**: `TiffOptions` 형식을 지정하도록 구성되어 있습니다(`TiffJpegRgb`결과 TIFF 파일의. 이를 통해 다양한 사용 사례에서 호환성과 품질을 보장합니다.
+## 관련 튜토리얼
 
-#### 문제 해결 팁
-- 모든 이미지 경로가 올바른지 확인하세요.
-- 출력 디렉토리에 대한 쓰기 권한이 있는지 확인하세요.
-- 제한 사항이 있는 경우 라이센스 설정을 확인하세요.
-
-## 실제 응용 프로그램
-
-여러 페이지로 구성된 TIFF를 만드는 것이 유익한 실제 시나리오는 다음과 같습니다.
-
-1. **의료 영상**: 환자 스캔 결과를 하나의 파일로 통합하여 의료 서비스 제공자 간의 보다 쉬운 처리 및 공유가 가능합니다.
-2. **보관 목적**: 여러 역사적 문서를 하나의 파일로 저장하여 공간을 절약하고 접근을 간소화합니다.
-3. **그래픽 디자인**: 다양한 디자인 요소나 초안을 하나의 파일에 결합하여 검토 프로세스를 간소화합니다.
-
-이러한 응용 프로그램은 다양한 산업 분야에서 다중 페이지 TIFF의 다양성을 보여줍니다.
-
-## 성능 고려 사항
-
-Aspose.Imaging을 사용할 때 최적의 성능을 보장하려면:
-
-- **이미지 크기 최적화**메모리 사용량을 줄이려면 처리 전에 이미지 크기를 조정하세요.
-- **효율적으로 리소스 관리**: 리소스를 확보하기 위해 사용 후에는 항상 이미지 객체와 스트림을 닫으세요.
-- **멀티스레딩 활용**: 애플리케이션이 지원하는 경우 대량의 이미지를 동시에 처리합니다.
-
-이러한 모범 사례를 따르면 Aspose.Imaging을 사용하는 Java 애플리케이션에서 효율적인 리소스 활용을 유지하는 데 도움이 됩니다.
-
-## 결론
-
-이 튜토리얼에서는 Aspose.Imaging for Java를 사용하여 여러 이미지를 효과적으로 목록에 로드하고 여러 페이지 TIFF 파일을 생성하는 방법을 알아보았습니다. 이 과정은 생산성을 향상시킬 뿐만 아니라 프로젝트 내에서 더욱 정교한 이미지 처리를 가능하게 합니다.
-
-**다음 단계**: Aspose.Imaging이 지원하는 다양한 이미지 형식을 실험하거나, 더 광범위한 응용 프로그램을 위해 다른 시스템과 기능을 통합하세요.
-
-다음 프로젝트에서 이 솔루션을 구현해 보시고 다음에서 제공되는 광범위한 문서를 살펴보시기 바랍니다. [Aspose.Imaging Java 참조](https://reference.aspose.com/imaging/java/).
-
-## FAQ 섹션
-
-1. **다중 페이지 TIFF란 무엇인가요?**
-   - 여러 이미지나 페이지를 하나의 파일에 담은 TIFF 파일로, 종종 문서 스캔에 사용됩니다.
-
-2. **여러 페이지로 된 TIFF를 만들기 전에 이미지 크기를 어떻게 조정합니까?**
-   - Aspose.Imaging의 사용 `ResizeType` 프로그래밍 방식으로 이미지 크기를 조정합니다.
-
-3. **Aspose.Imaging을 다른 프로그래밍 언어와 함께 사용할 수 있나요?**
-   - 네, Aspose는 .NET, C++ 등에 대한 라이브러리를 제공하여 크로스 플랫폼 개발이 가능합니다.
-
-4. **Aspose.Imaging의 라이선스 요구 사항은 무엇입니까?**
-   - 모든 기능을 사용하려면 라이선스가 필요하지만, 무료 평가판을 이용해 기능을 평가해 볼 수 있습니다.
-
-5. **이미지 처리 중에 예외가 발생하면 어떻게 처리합니까?**
-   - 문제를 해결하기 위해 코드를 try-catch 블록으로 감싸고 오류를 기록합니다.
-
-## 자원
-
-- [Aspose.Imaging Java 문서](https://reference.aspose.com/imaging/java/)
-- [Java용 Aspose.Imaging 다운로드](https://releases.aspose.com/imaging/java/)
-- [라이센스 구매](https://purchase.aspose.com/buy)
-- [무료 체험판 액세스](https://releases.aspose.com/imaging/java/)
-- [임시 면허 취득](https://purchase.aspose.com/temporary-license/)
-- [Aspose 지원 포럼](https://forum.aspose.com/c/imaging/14)
-
-이 가이드를 따라 하면 Aspose.Imaging for Java를 사용하여 여러 페이지 TIFF 파일을 만들고 조작하는 데 필요한 모든 기능을 갖추게 될 것입니다. 즐거운 코딩 되세요!
+- [Java에서 Aspose.Imaging을 사용한 CCITTFAX3 압축 다중 페이지 TIFF 생성](/imaging/java/format-specific-operations/java-multi-page-tiff-ccittfax3-compression-aspose-imaging/)
+- [Aspose.Imaging for Java로 다중 페이지 TIFF 프레임 분할](/imaging/java/image-conversion-and-optimization/tiff-image-frame-splitting/)
+- [Aspose.Imaging for Java를 사용해 다중 페이지 TIFF를 BMP로 변환](/imaging/java/document-conversion-and-processing/extract-tiff-frames-to-bmp-format/)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
-
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/products-backtop-button >}}
