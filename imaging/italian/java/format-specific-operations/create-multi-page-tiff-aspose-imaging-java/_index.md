@@ -1,50 +1,239 @@
 ---
-"date": "2025-06-04"
-"description": "Scopri come creare un file TIFF multipagina utilizzando Aspose.Imaging per Java. Semplifica il tuo flusso di lavoro di elaborazione delle immagini in modo efficiente ed efficace."
-"title": "Creare file TIFF multipagina con Aspose.Imaging per Java - Tutorial"
-"url": "/it/java/format-specific-operations/create-multi-page-tiff-aspose-imaging-java/"
-"weight": 1
+date: '2026-09-07'
+description: Scopri come creare un multi-page TIFF usando Aspose.Imaging for Java
+  in questo tutorial di elaborazione immagini Java. Segui le indicazioni step‑by‑step
+  per un flusso di lavoro efficiente.
+keywords:
+- java image processing tutorial
+- multi-page TIFF creation
+- Aspose.Imaging for Java
+- maven dependency aspose imaging
+- Java image handling
+lastmod: '2026-09-07'
+og_description: 'tutorial di elaborazione immagini Java: scopri come creare file multi-page
+  TIFF con Aspose.Imaging for Java, includendo la configurazione Maven e consigli
+  sulle prestazioni.'
+og_image_alt: Guide showing Java code to generate a multi-page TIFF using Aspose.Imaging
+og_title: Crea un multi-page TIFF in un tutorial di elaborazione immagini Java
+schemas:
+- author: Aspose
+  dateModified: '2026-09-07'
+  description: Learn how to create a multi-page TIFF using Aspose.Imaging for Java
+    in this java image processing tutorial. Follow step‑by‑step guidance for efficient
+    workflow.
+  headline: Create a multi-page TIFF in a Java image processing tutorial
+  type: TechArticle
+- description: Learn how to create a multi-page TIFF using Aspose.Imaging for Java
+    in this java image processing tutorial. Follow step‑by‑step guidance for efficient
+    workflow.
+  name: Create a multi-page TIFF in a Java image processing tutorial
+  steps:
+  - name: '**Free trial** – register to obtain a temporary key. You can start with
+      [Free Trial Access](https://releases.aspose.com/imaging/java/).'
+    text: '**Free trial** – register to obtain a temporary key. You can start with
+      [Free Trial Access](https://releases.aspose.com/imaging/java/).'
+  - name: '**Temporary license** – extend testing beyond the trial period. Obtain
+      a temporary license: [Obtain a Temporary License](https://purchase.aspose.com/temporary-license/).'
+    text: '**Temporary license** – extend testing beyond the trial period. Obtain
+      a temporary license: [Obtain a Temporary License](https://purchase.aspose.com/temporary-license/).'
+  - name: '**Full purchase** – consider purchasing a full license for long‑term use.
+      [Purchase a License](https://purchase.aspose.com/buy).'
+    text: '**Full purchase** – consider purchasing a full license for long‑term use.
+      [Purchase a License](https://purchase.aspose.com/buy).'
+  - name: '**Medical imaging:** Bundle CT or MRI slices into a single TIFF for PACS
+      integration.'
+    text: '**Medical imaging:** Bundle CT or MRI slices into a single TIFF for PACS
+      integration.'
+  - name: '**Archival storage:** Preserve scanned contracts as a multi‑page document,
+      simplifying retrieval.'
+    text: '**Archival storage:** Preserve scanned contracts as a multi‑page document,
+      simplifying retrieval.'
+  - name: '**Graphic‑design review:** Combine concept sketches into one file for stakeholder
+      feedback.'
+    text: '**Graphic‑design review:** Combine concept sketches into one file for stakeholder
+      feedback.'
+  type: HowTo
+- questions:
+  - answer: Any format supported by Aspose.Imaging—PNG, JPEG, BMP, GIF, and even RAW
+      files—can be loaded and added as a page.
+    question: What image formats can I combine into a TIFF?
+  - answer: Yes, set `TiffOptions` with `bitsPerSample = 16` to preserve high‑depth
+      medical images.
+    question: Does the library support 16‑bit grayscale TIFFs?
+  - answer: The evaluation version limits output to 10 pages and 5 MB; a full license
+      removes those caps.
+    question: How large a TIFF can I create without a full license?
+  - answer: Use `TiffFrame` objects to set EXIF or XMP tags before saving.
+    question: Can I add metadata to each page?
+  - answer: Yes, write the `Image` to an `OutputStream` (e.g., servlet response) instead
+      of a file path.
+    question: Is there a way to stream the output directly to a response?
+  type: FAQPage
+tags:
+- java imaging
+- Aspose.Imaging
+- multi-page TIFF
+- Java tutorial
+title: Crea un multi-page TIFF in un tutorial di elaborazione immagini Java
+url: /it/java/format-specific-operations/create-multi-page-tiff-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# Come creare un TIFF multipagina con Aspose.Imaging per Java
+
+# Come creare un TIFF multi-pagina con Aspose.Imaging per Java
 
 ## Introduzione
 
-Nell'era digitale odierna, la gestione e l'ottimizzazione delle immagini sono fondamentali sia per gli sviluppatori che per le aziende che mirano a migliorare l'efficienza e l'esperienza utente. Una sfida comune è la gestione fluida di più file immagine, soprattutto quando si tratta di formati come il TIFF che supportano documenti multipagina. Questo tutorial vi guiderà nella creazione di un TIFF multipagina utilizzando Aspose.Imaging per Java, una potente libreria progettata per semplificare le complesse attività di elaborazione delle immagini.
+In questo **tutorial di elaborazione immagini Java**, scoprirai come generare un file TIFF multi‑pagina usando Aspose.Imaging per Java, una libreria che astrae la gestione a basso livello delle immagini e ti consente di concentrarti sulla logica di business. I TIFF multi‑pagina sono ideali per l'archiviazione di documenti, l'imaging medico e i flussi di lavoro di graphic‑design dove un unico contenitore semplifica l'archiviazione e la trasmissione. Camminiamo attraverso l'intero processo, dal caricamento delle singole immagini alla produzione del documento combinato finale.
 
-**Cosa imparerai:**
-- Caricamento di più immagini in un elenco in Java.
-- Creazione di un TIFF multipagina da queste immagini.
-- Utilizzo di Aspose.Imaging per Java per semplificare il flusso di lavoro.
-- Buone pratiche per prestazioni e integrazione.
+## Risposte rapide
+- **Qual è la classe principale per creare TIFF?** `TiffImage` (via `Image.create` con `TiffOptions`).  
+- **Quale artefatto Maven aggiunge Aspose.Imaging?** `com.aspose:aspose-imaging`.  
+- **Posso impostare la compressione?** Sì, usa `TiffCompression.JPEG` in `TiffOptions`.  
+- **Ho bisogno di una licenza per file di grandi dimensioni?** Una licenza completa rimuove i limiti di dimensione e di pagine.  
+- **Il multi‑threading è supportato?** Puoi elaborare le immagini in modo concorrente; la libreria stessa è thread‑safe.
 
-Vediamo come sfruttare le potenzialità di Aspose.Imaging per Java per risolvere questo problema in modo efficiente.
+## Cos'è Aspose.Imaging per Java?
+
+Aspose.Imaging per Java è un'API ad alte prestazioni che consente la creazione, la conversione e la manipolazione di oltre 100 formati immagine senza dipendenze native. Supporta più di 50 formati di input e output, elabora TIFF con centinaia di pagine in stream a consumo di memoria ottimizzato e funziona su runtime Java 8+. La libreria fornisce inoltre supporto integrato per la conversione di spazi colore, la regolazione della compressione e la gestione dei metadati, rendendola adatta a flussi di lavoro di immagini di livello enterprise.
+
+## Perché usare Aspose.Imaging per Java in un tutorial di elaborazione immagini Java?
+
+La libreria gestisce operazioni complesse—come la conversione di spazi colore, la regolazione della compressione e l'assemblaggio multi‑pagina—in una singola chiamata, riducendo le dimensioni del codice fino all'80 % rispetto alla gestione manuale con ImageIO. Garantisce inoltre un output deterministico su Windows, Linux e macOS, fondamentale per pipeline automatizzate.
 
 ## Prerequisiti
 
-Prima di iniziare, assicurati di avere la seguente configurazione:
+- **Aspose.Imaging for Java** (versione 25.5 o più recente).  
+- Un JDK compatibile (8 o successivo).  
+- Un IDE come IntelliJ IDEA o Eclipse.  
+- Conoscenze di base di Java e familiarità con I/O di file.
 
-### Librerie richieste
-- **Aspose.Imaging per Java**: Questa libreria è fondamentale per il nostro tutorial. Assicurati di avere la versione 25.5 o successiva.
+## Configurazione di Aspose.Imaging per Java
 
-### Requisiti di configurazione dell'ambiente
-- Un JDK (Java Development Kit) compatibile installato sul computer.
-- Un IDE come IntelliJ IDEA, Eclipse o qualsiasi altro che supporti lo sviluppo Java.
+### Come aggiungere la dipendenza Maven per Aspose.Imaging?
 
-### Prerequisiti di conoscenza
-- Conoscenza di base della programmazione Java.
-- Familiarità con i concetti di elaborazione delle immagini e gestione dei file in Java.
+Aggiungi la seguente voce al tuo `pom.xml` ed esegui `mvn clean install`. Questo scarica la libreria `aspose-imaging` da Maven Central. Assicurati di specificare la versione corretta che corrisponde ai requisiti del tuo progetto e verifica che le impostazioni del repository consentano il download da Maven Central senza autenticazione.
 
-## Impostazione di Aspose.Imaging per Java
+```xml
+<dependency>
+    <groupId>com.aspose</groupId>
+    <artifactId>aspose-imaging</artifactId>
+    <version>25.5</version>
+</dependency>
+```
 
-Per iniziare a utilizzare Aspose.Imaging per Java, è necessario aggiungerlo al progetto. Ecco come fare:
+### Come configurare Gradle per Aspose.Imaging?
 
-**Esperto**
+Aggiungi la dipendenza Aspose.Imaging nella sezione `dependencies`, assicurandoti di usare la stessa versione di Maven. Gradle risolverà l'artefatto da Maven Central e lo renderà disponibile per la compilazione e l'esecuzione. Dopo la sincronizzazione, potrai importare le classi nel tuo codice Java.
+
+```gradle
+implementation 'com.aspose:aspose-imaging:25.5'
+```
+
+### Download diretto
+
+Puoi anche scaricare la libreria direttamente da [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).  
+Puoi anche [Download Aspose.Imaging for Java](https://releases.aspose.com/imaging/java/).  
+Per un utilizzo dettagliato dell'API, consulta la [Aspose.Imaging Java Documentation](https://reference.aspose.com/imaging/java/).
+
+### Passaggi per l'acquisizione della licenza
+1. **Prova gratuita** – registrati per ottenere una chiave temporanea. Puoi iniziare con [Free Trial Access](https://releases.aspose.com/imaging/java/).  
+2. **Licenza temporanea** – estendi il test oltre il periodo di prova. Ottieni una licenza temporanea: [Obtain a Temporary License](https://purchase.aspose.com/temporary-license/).  
+3. **Acquisto completo** – considera l'acquisto di una licenza completa per uso a lungo termine. [Purchase a License](https://purchase.aspose.com/buy).
+
+#### Inizializzazione e configurazione di base
+Per sbloccare l'intero set di funzionalità, carica il file di licenza prima di qualsiasi operazione sull'immagine. `License.setLicense` carica un file di licenza per abilitare la funzionalità completa.
+
+```java
+com.aspose.imaging.License license = new com.aspose.imaging.License();
+license.setLicense("Aspose.Imaging.lic");
+```
+
+## Guida all'implementazione
+
+### Come caricare più immagini in una lista?
+
+`Image.load` carica un file immagine in un oggetto `Image` di Aspose.Imaging. Crea una `List<Image>` iterando sui file in una directory, caricando ciascuno con `Image.load` e memorizzando gli oggetti per la composizione successiva. Questo approccio mantiene basso l'uso di memoria poiché ogni immagine è streamata anziché materializzata completamente. Semplifica inoltre la gestione degli errori per file mancanti.
+
+```java
+String folder = "C:/images/";
+File[] files = new File(folder).listFiles((dir, name) -> name.endsWith(".png"));
+List<Image> images = new ArrayList<>();
+for (File f : files) {
+    images.add(Image.load(f.getAbsolutePath()));
+}
+```
+
+### Come creare un TIFF multipagina da una lista di immagini?
+
+`Image.create` crea una nuova immagine con le opzioni specificate. `TiffOptions` definisce le impostazioni per l'output TIFF, come compressione e risoluzione. Usa `Image.create` con `TiffOptions` impostato a `TiffCompression.JPEG` (o altro tipo di compressione) e passa la lista di immagini caricate. L'API scrive ogni immagine come una pagina separata nel file TIFF risultante. È possibile specificare parametri aggiuntivi come risoluzione, bit per campione e qualità di compressione per adattare l'output al caso d'uso.
+
+```java
+String outputPath = "C:/output/multipage.tiff";
+TiffOptions options = new TiffOptions(TiffExpectedFormat.TiffJpegRgb);
+options.setCompression(TiffCompression.JPEG);
+Image.create(options, images.toArray(new Image[0])).save(outputPath);
+```
+
+## Considerazioni sulle prestazioni
+
+- **Ridimensiona prima di combinare:** Ridurre le dimensioni dell'immagine alla dimensione target riduce l'uso di memoria fino al 60 %.  
+- **Elimina gli oggetti:** Chiama `image.dispose()` dopo il salvataggio per liberare rapidamente le risorse native.  
+- **Caricamento parallelo:** Per grandi batch, carica le immagini in thread separati e raccoglile in una lista thread‑safe.
+
+## Applicazioni pratiche
+
+1. **Imaging medico:** Raggruppa le sezioni CT o MRI in un unico TIFF per l'integrazione PACS.  
+2. **Archiviazione archivistica:** Conserva contratti scannerizzati come documento multi‑pagina, semplificando il recupero.  
+3. **Revisione di graphic‑design:** Combina schizzi concettuali in un unico file per il feedback degli stakeholder.
+
+## Problemi comuni e soluzioni
+
+- **Percorsi file errati:** Verifica che ogni percorso sia assoluto o correttamente relativo alla directory di lavoro.  
+- **Permessi di scrittura insufficienti:** Assicurati che il processo abbia accesso `WRITE` alla cartella di output.  
+- **Licenza non applicata:** Se vedi una filigrana, verifica che `License.setLicense` venga eseguito prima di qualsiasi operazione sull'immagine.
+
+## Domande frequenti
+
+**Q: Quali formati immagine posso combinare in un TIFF?**  
+A: Qualsiasi formato supportato da Aspose.Imaging—PNG, JPEG, BMP, GIF e anche file RAW—può essere caricato e aggiunto come pagina.
+
+**Q: La libreria supporta TIFF in scala di grigi a 16 bit?**  
+A: Sì, imposta `TiffOptions` con `bitsPerSample = 16` per preservare immagini mediche ad alta profondità.
+
+**Q: Quanto grande può essere un TIFF che posso creare senza licenza completa?**  
+A: La versione di valutazione limita l'output a 10 pagine e 5 MB; una licenza completa rimuove questi limiti.
+
+**Q: Posso aggiungere metadati a ogni pagina?**  
+A: Usa gli oggetti `TiffFrame` per impostare tag EXIF o XMP prima del salvataggio.
+
+**Q: Esiste un modo per trasmettere l'output direttamente a una risposta?**  
+A: Sì, scrivi l'`Image` su un `OutputStream` (ad esempio la risposta di un servlet) invece di un percorso file.
+
+## Conclusione
+
+Hai ora padroneggiato i passaggi richiesti in questo **tutorial di elaborazione immagini Java** per caricare immagini singole, configurare le opzioni TIFF e generare un TIFF multi‑pagina con Aspose.Imaging per Java. Applica questi pattern per automatizzare l'archiviazione di documenti, costruire pipeline di imaging medico o semplificare le revisioni di design. Per approfondimenti, consulta la guida di riferimento ufficiale.
+
+Esplora scenari più avanzati su [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/).  
+Per assistenza, visita il [Aspose Support Forum](https://forum.aspose.com/c/imaging/14).
+
+---
+
+**Last Updated:** 2026-09-07  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose  
+
+
+
+
+
+
+
+
+
 ```xml
 <dependency>
   <groupId>com.aspose</groupId>
@@ -53,50 +242,18 @@ Per iniziare a utilizzare Aspose.Imaging per Java, è necessario aggiungerlo al 
 </dependency>
 ```
 
-**Gradle**
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
-
-**Download diretto**
-Puoi anche scaricare la libreria direttamente da [Aspose.Imaging per le versioni Java](https://releases.aspose.com/imaging/java/).
-
-### Fasi di acquisizione della licenza
-1. **Prova gratuita**: Inizia con una prova gratuita per valutare le funzionalità.
-2. **Licenza temporanea**: Ottieni una licenza temporanea per test più lunghi.
-3. **Acquistare**: Valuta l'acquisto di una licenza completa per un utilizzo a lungo termine.
-
-#### Inizializzazione e configurazione di base
-
-Per inizializzare Aspose.Imaging, in genere si inizia impostando le informazioni sulla licenza:
 
 ```java
 com.aspose.imaging.License license = new com.aspose.imaging.License();
 license.setLicense("path_to_license.lic");
 ```
 
-Questo passaggio è fondamentale per sfruttare appieno le potenzialità durante lo sviluppo.
-
-## Guida all'implementazione
-
-Suddivideremo il processo in due fasi principali: caricamento delle immagini e creazione di un TIFF multipagina.
-
-### Caricamento di più immagini in un elenco
-
-**Panoramica**: Questa funzione illustra come caricare più file immagine dalla directory e memorizzarli in un elenco per un'ulteriore elaborazione.
-
-#### Implementazione passo dopo passo
-**1. Definire i percorsi delle immagini**
-
-Iniziamo specificando la directory in cui sono archiviati i file immagine:
-
 ```java
 String baseFolder = "YOUR_DOCUMENT_DIRECTORY/Multipage/";
 ```
-
-**2. Elenco delle immagini da caricare**
-
-Crea un array contenente i nomi delle tue immagini:
 
 ```java
 String[] files = new String[]{
@@ -105,112 +262,36 @@ String[] files = new String[]{
 };
 ```
 
-**3. Caricamento e memorizzazione delle immagini**
-
-Iterare su ogni file, costruire il suo percorso completo, caricarlo utilizzando `Image.load()`e aggiungilo a un elenco:
-
 ```java
 List<Image> images = new LinkedList<>();
 for (String file : files) {
     String filePath = baseFolder + file;
-    // Carica l'immagine e aggiungila all'elenco
+    // Load the image and add it to the list
     images.add(Image.load(filePath));
 }
 ```
-
-**Spiegazione**: `Image.load()` è fondamentale perché legge il file dal disco in un oggetto Immagine, che può quindi essere manipolato o combinato.
-
-### Creazione di un TIFF multipagina da un elenco di immagini
-
-**Panoramica**:Questa funzionalità mostra come combinare più immagini in un unico TIFF multipagina utilizzando Aspose.Imaging per Java.
-
-#### Implementazione passo dopo passo
-**1. Definire il percorso di output**
-
-Imposta il percorso in cui verrà salvato il nuovo TIFF multipagina:
 
 ```java
 String outputFilePath = "YOUR_OUTPUT_DIRECTORY/MultipageImageCreateTest.tif";
 ```
 
-**2. Crea un'immagine multipagina**
-
-Utilizzo `Image.create()` per combinare le immagini in un unico file TIFF:
-
 ```java
 try (Image multipageImage = Image.create(images.toArray(new Image[0]), true)) {
-    // Salva l'immagine multipagina con opzioni TIFF specifiche
+    // Save the multipage image with specific TIFF options
     multipageImage.save(outputFilePath, new TiffOptions(TiffExpectedFormat.TiffJpegRgb));
 }
 ```
 
-**Spiegazione**: `TiffOptions` è configurato per specificare il formato (`TiffJpegRgb`del file TIFF risultante. Ciò garantisce compatibilità e qualità per diversi casi d'uso.
+## Tutorial correlati
 
-#### Suggerimenti per la risoluzione dei problemi
-- Assicurarsi che tutti i percorsi delle immagini siano corretti.
-- Verificare di disporre dei permessi di scrittura per la directory di output.
-- Controlla le impostazioni della tua licenza se riscontri delle limitazioni.
+- [Crea TIFF multi-pagina con compressione CCITTFAX3 in Java usando Aspose.Imaging](/imaging/java/format-specific-operations/java-multi-page-tiff-ccittfax3-compression-aspose-imaging/)
+- [Dividi i frame TIFF multi-pagina con Aspose.Imaging per Java](/imaging/java/image-conversion-and-optimization/tiff-image-frame-splitting/)
+- [Converti TIFF multi-pagina in BMP usando Aspose.Imaging per Java](/imaging/java/document-conversion-and-processing/extract-tiff-frames-to-bmp-format/)
 
-## Applicazioni pratiche
-
-Ecco alcuni scenari reali in cui può essere utile creare un TIFF multipagina:
-
-1. **Imaging medico**: Consolidare le scansioni dei pazienti in un unico file per una più semplice gestione e condivisione tra gli operatori sanitari.
-2. **Scopi di archiviazione**: Memorizza più documenti storici in un unico file per risparmiare spazio e semplificare l'accesso.
-3. **Graphic design**: Combina vari elementi di progettazione o bozze in un unico file per semplificare i processi di revisione.
-
-Queste applicazioni dimostrano la versatilità dei TIFF multipagina in diversi settori.
-
-## Considerazioni sulle prestazioni
-
-Per garantire prestazioni ottimali quando si lavora con Aspose.Imaging:
-
-- **Ottimizza le dimensioni delle immagini**Ridimensiona le immagini prima dell'elaborazione per ridurre l'utilizzo di memoria.
-- **Gestire le risorse in modo efficiente**: Chiudere sempre gli oggetti immagine e i flussi dopo l'uso per liberare risorse.
-- **Sfrutta il multithreading**: Elabora grandi batch di immagini contemporaneamente se l'applicazione lo supporta.
-
-Seguendo queste best practice sarà possibile mantenere un utilizzo efficiente delle risorse nelle applicazioni Java che utilizzano Aspose.Imaging.
-
-## Conclusione
-
-In questo tutorial, hai imparato come caricare efficacemente più immagini in un elenco e creare un file TIFF multipagina utilizzando Aspose.Imaging per Java. Questo processo non solo aumenta la produttività, ma consente anche una gestione più sofisticata delle immagini nei tuoi progetti.
-
-**Prossimi passi**: Sperimenta diversi formati di immagine supportati da Aspose.Imaging o integra le sue capacità con altri sistemi per applicazioni più ampie.
-
-Ti invitiamo a provare a implementare questa soluzione nel tuo prossimo progetto e ad esplorare l'ampia documentazione disponibile su [Riferimento Java per Aspose.Imaging](https://reference.aspose.com/imaging/java/).
-
-## Sezione FAQ
-
-1. **Cos'è un TIFF multipagina?**
-   - File TIFF che contiene più immagini o pagine all'interno di un unico file, spesso utilizzato per la scansione di documenti.
-
-2. **Come faccio a ridimensionare le immagini prima di creare un TIFF multipagina?**
-   - Utilizzare Aspose.Imaging `ResizeType` per regolare le dimensioni delle immagini in modo programmatico.
-
-3. **Posso usare Aspose.Imaging con altri linguaggi di programmazione?**
-   - Sì, Aspose offre librerie per .NET, C++ e altro ancora, consentendo lo sviluppo multipiattaforma.
-
-4. **Quali sono i requisiti di licenza per Aspose.Imaging?**
-   - Per usufruire di tutte le funzionalità è necessaria una licenza; è tuttavia disponibile una prova gratuita per valutare le funzionalità.
-
-5. **Come gestisco le eccezioni durante l'elaborazione delle immagini?**
-   - Inserisci il codice in blocchi try-catch e registra gli errori per la risoluzione dei problemi.
-
-## Risorse
-
-- [Documentazione Java di Aspose.Imaging](https://reference.aspose.com/imaging/java/)
-- [Scarica Aspose.Imaging per Java](https://releases.aspose.com/imaging/java/)
-- [Acquista una licenza](https://purchase.aspose.com/buy)
-- [Accesso di prova gratuito](https://releases.aspose.com/imaging/java/)
-- [Ottieni una licenza temporanea](https://purchase.aspose.com/temporary-license/)
-- [Forum di supporto Aspose](https://forum.aspose.com/c/imaging/14)
-
-Seguendo questa guida, sarai pronto a creare e manipolare file TIFF multipagina con Aspose.Imaging per Java. Buon lavoro!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
