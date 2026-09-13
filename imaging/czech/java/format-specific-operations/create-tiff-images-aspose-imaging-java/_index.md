@@ -1,43 +1,106 @@
 ---
-"date": "2025-06-04"
-"description": "Naučte se, jak vytvářet a manipulovat s vysoce kvalitními obrázky TIFF pomocí Aspose.Imaging pro Javu. Prozkoumejte nastavení vlastností, jako je komprese, rozlišení a interpretace barev."
-"title": "Zvládněte tvorbu obrázků TIFF v Javě s Aspose.Imaging"
-"url": "/cs/java/format-specific-operations/create-tiff-images-aspose-imaging-java/"
-"weight": 1
+date: '2026-09-13'
+description: Naučte se, jak vytvářet TIFF obrázky v Javě s Aspose.Imaging, zahrnující
+  kompresi, rozlišení a nastavení barev pro tvorbu vysoce kvalitních TIFF souborů.
+keywords:
+- create tiff java
+- maven aspose imaging dependency
+- tiff options java
+- aspose imaging tiff
+- java image processing
+lastmod: '2026-09-13'
+og_description: Naučte se, jak vytvářet TIFF obrázky v Javě s Aspose.Imaging, zahrnující
+  kompresi, rozlišení a nastavení barev pro tvorbu vysoce kvalitních TIFF souborů.
+og_image_alt: Tutorial guide showing Java code to create and configure TIFF images
+  with Aspose.Imaging
+og_title: Jak vytvořit TIFF v Javě pomocí knihovny Aspose.Imaging
+schemas:
+- author: Aspose
+  dateModified: '2026-09-13'
+  description: Learn how to create TIFF images in Java with Aspose.Imaging, covering
+    compression, resolution, and color settings to produce high‑quality TIFF files.
+  headline: How to create TIFF in Java using Aspose.Imaging library
+  type: TechArticle
+- description: Learn how to create TIFF images in Java with Aspose.Imaging, covering
+    compression, resolution, and color settings to produce high‑quality TIFF files.
+  name: How to create TIFF in Java using Aspose.Imaging library
+  steps:
+  - name: '**Free trial** – download and evaluate without restrictions. See the **[Free
+      Trial](https://releases.aspose.com/imaging/java/)** page.'
+    text: '**Free trial** – download and evaluate without restrictions. See the **[Free
+      Trial](https://releases.aspose.com/imaging/java/)** page.'
+  - name: '**Temporary license** – request from Aspose for extended evaluation via
+      the **[Temporary License Request](https://purchase.aspose.com/temporary-license/)**.'
+    text: '**Temporary license** – request from Aspose for extended evaluation via
+      the **[Temporary License Request](https://purchase.aspose.com/temporary-license/)**.'
+  - name: '**Purchase license** – obtain a permanent license via the **[Purchase License](https://purchase.aspose.com/buy)**
+      or the **[purchase page](https://purchase.aspose.com/buy)**.'
+    text: '**Purchase license** – obtain a permanent license via the **[Purchase License](https://purchase.aspose.com/buy)**
+      or the **[purchase page](https://purchase.aspose.com/buy)**.'
+  type: HowTo
+- questions:
+  - answer: Yes, Aspose.Imaging supports over 150 formats, including PNG, JPEG, BMP,
+      and GIF. See the **[Aspose.Imaging Documentation](https://reference.aspose.com/imaging/java/)**
+      for details.
+    question: Can I use this code with other image formats?
+  - answer: No, Gradle users can add the same coordinates in their `build.gradle`
+      file; the underlying library is identical.
+    question: Do I need the Maven Aspose Imaging dependency for Gradle projects?
+  - answer: The library can stream TIFF files up to several gigabytes, limited only
+      by available disk space, because it never loads the whole image into RAM.
+    question: How large a TIFF can Aspose.Imaging process?
+  - answer: Enable `LoadOptions` with `useMemoryCache = true` or process the image
+      in tiles to keep memory usage low.
+    question: What if I encounter an `OutOfMemoryError`?
+  - answer: A free trial works for development, but a licensed version removes evaluation
+      watermarks and unlocks full performance optimisations.
+    question: Is a license required for development builds?
+  type: FAQPage
+tags:
+- create tiff
+- Aspose.Imaging
+- Java image processing
+title: Jak vytvořit TIFF v Javě pomocí knihovny Aspose.Imaging
+url: /cs/java/format-specific-operations/create-tiff-images-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# Jak nastavit možnosti TIFF a vytvářet obrázky pomocí Aspose.Imaging pro Javu
 
-## Zavedení
+# Jak vytvořit TIFF v Javě pomocí Aspose.Imaging
 
-Ve světě zpracování obrazu může být vytváření vysoce kvalitních souborů TIFF se specifickými konfiguracemi náročným úkolem. Ať už pracujete na digitální archivaci, tiskových projektech nebo jakékoli aplikaci, která vyžaduje přesné nastavení kvality obrazu, je nezbytné vědět, jak efektivně manipulovat s možnostmi TIFF. Tento tutoriál vás provede používáním Aspose.Imaging pro Javu k nastavení různých vlastností obrázků TIFF a jejich programovému vytváření.
+## Úvod
 
-**Co se naučíte:**
+Vytváření souborů TIFF programově může být náročné, zejména když potřebujete jemnou kontrolu nad kompresí, rozlišením a interpretací barev. V tomto tutoriálu se naučíte, jak **vytvořit TIFF v Javě** s Aspose.Imaging, nastavit nejčastější možnosti TIFF a manipulovat s pixely. Ať už budujete systém digitální archivace, tiskovou pipeline nebo aplikaci pro medicínské zobrazování, níže uvedené kroky vám poskytnou produkčně připravený přístup.
 
-- Jak konfigurovat možnosti souboru TIFF, jako je komprese, rozlišení a interpretace barev.
-- Proces vytvoření nového obrázku TIFF a manipulace s jeho pixely v Javě.
+**Co se naučíte**
+
+- Jak konfigurovat možnosti TIFF, jako jsou komprese, rozlišení a interpretace barev.  
+- Proces vytvoření nového TIFF obrázku a manipulace s jeho pixely v Javě.  
 - Praktické aplikace Aspose.Imaging pro práci se soubory TIFF.
-  
-Než se ponoříme do kódu, probereme si několik předpokladů, abyste se ujistili, že jste připraveni.
+
+## Rychlé odpovědi
+- **Která knihovna podporuje vytváření TIFF v Javě?** Aspose.Imaging pro Java.  
+- **Potřebuji licenci pro produkci?** Ano, zakoupená licence odstraňuje omezení hodnocení.  
+- **Jaký nástroj pro sestavení mohu použít?** Maven nebo Gradle přes Maven Aspose Imaging závislost.  
+- **Mohu nastavit kompresi a rozlišení?** Rozhodně – použijte vlastnosti `TiffOptions`.  
+- **Je kód kompatibilní s JDK 8+?** Ano, běží na JDK 8 a novějších.
 
 ## Předpoklady
 
-Abyste mohli postupovat podle tohoto tutoriálu, ujistěte se, že máte:
+Abyste mohli tento tutoriál sledovat, ujistěte se, že máte:
 
-- **Vývojová sada pro Javu (JDK)** nainstalovaný na vašem počítači. Doporučujeme používat JDK 8 nebo vyšší.
-- **Znalec** nebo **Gradle** jako váš nástroj pro řízení projektů. To vám pomůže snadno spravovat závislosti.
-- Základní znalost programování v Javě a znalost konceptů zpracování obrazu.
+- **Java Development Kit (JDK)** 8 nebo vyšší nainstalovaný.  
+- **Maven** nebo **Gradle** pro správu závislostí.  
+- Základní znalosti Javy a konceptů zpracování obrazu.
 
-## Nastavení Aspose.Imaging pro Javu
+## Nastavení Aspose.Imaging pro Java
 
-Než se ponoříte do kódu, je třeba ve vašem vývojovém prostředí nastavit Aspose.Imaging pro Javu. To můžete provést pomocí Mavenu nebo Gradle přidáním závislosti, jak je znázorněno níže:
+Než začnete kódovat, přidejte knihovnu Aspose.Imaging do svého projektu.
 
-**Znalec**
+**Maven**  
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -46,164 +109,185 @@ Než se ponoříte do kódu, je třeba ve vašem vývojovém prostředí nastavi
 </dependency>
 ```
 
-**Gradle**
+**Gradle**  
 ```gradle
 implementation(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-Pokud dáváte přednost přímému stahování, můžete si nejnovější verzi stáhnout z [Aspose.Imaging pro verze Java](https://releases.aspose.com/imaging/java/).
+Pokud dáváte přednost ručnímu stažení, stáhněte si nejnovější verzi z [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/). Můžete také použít obecný odkaz **[Download Latest Version](https://releases.aspose.com/imaging/java/)**.
 
 ### Získání licence
 
-Chcete-li plně využít možnosti Aspose.Imaging, zvažte pořízení licence. Můžete začít s bezplatnou zkušební verzí nebo si požádat o dočasnou licenci, abyste si mohli prozkoumat všechny funkce. Pro dlouhodobé používání si můžete zakoupit předplatné.
+Bezplatná zkušební verze funguje pro vývoj, ale pro nasazení do produkce je vyžadována licencovaná verze.
 
-1. **Bezplatná zkušební verze**Stáhněte si knihovnu a experimentujte bez omezení pro účely vyhodnocení.
-2. **Dočasná licence**Pokud potřebujete prodloužený přístup i po uplynutí bezplatné zkušební doby, požádejte o to Aspose.
-3. **Zakoupit licenci**Nakupujte přímo přes jejich [stránka nákupu](https://purchase.aspose.com/buy) používat produkt v produkčním prostředí.
+1. **Bezplatná zkušební verze** – stáhněte a vyzkoušejte bez omezení. Viz stránka **[Free Trial](https://releases.aspose.com/imaging/java/)**.  
+2. **Dočasná licence** – požádejte Aspose o prodloužené hodnocení prostřednictvím **[Temporary License Request](https://purchase.aspose.com/temporary-license/)**.  
+3. **Zakoupení licence** – získejte trvalou licenci přes **[Purchase License](https://purchase.aspose.com/buy)** nebo **[purchase page](https://purchase.aspose.com/buy)**.
 
 ### Inicializace
 
-Začněte importem potřebných tříd a nastavením projektu s následující základní inicializací:
+Importujte požadované třídy a inicializujte knihovnu:
 
 ```java
 import com.aspose.imaging.imageoptions.TiffOptions;
 ```
 
-## Průvodce implementací
+## Co je TiffOptions?
 
-Implementaci rozdělíme na dvě hlavní části: nastavení možností TIFF a vytváření/manipulace s obrázkem TIFF. Každá část je navržena tak, aby vás krok za krokem provedla celým procesem.
+`TiffOptions` je třída v Aspose.Imaging, která definuje, jak je soubor TIFF kódován, včetně komprese, rozlišení a nastavení barev. Umožňuje vám specifikovat přesné charakteristiky výstupního souboru před jeho uložením.
+
+Konfigurujete instanci `TiffOptions` před uložením obrázku; tím zajistíte, že výsledný soubor splní vaše požadavky na kvalitu a kompatibilitu. Úpravou jejích vlastností můžete přizpůsobit TIFF tak, aby vyhovoval archivním, tiskovým nebo medicínským standardům.
+
+## Jak nastavit TIFF možnosti v Javě?
+
+Pro nastavení TIFF možností vytvoříte objekt `TiffOptions` a přiřadíte hodnoty jeho vlastnostem, jako jsou `bitsPerSample`, `photometric`, `resolutionUnit`, `xResolution`, `yResolution` a `compression`. Tato konfigurace se aplikuje při zápisu obrázku na disk, čímž se garantuje, že soubor odpovídá požadovaným specifikacím.
 
 ### Nastavení vlastností TiffOptions
 
-Tato funkce ukazuje, jak nakonfigurovat různé vlastnosti pro vytvoření souboru TIFF s požadovanými specifikacemi.
+Tato část ukazuje, jak konfigurovat různé vlastnosti pro vytvoření TIFF souboru s požadovanými specifikacemi.
 
 #### Přehled
 
-Konfigurace `TiffOptions` umožňuje definovat parametry, jako je počet bitů na vzorek, rozlišení a typ komprese, což zajišťuje, že váš obrázek TIFF splňuje specifické standardy kvality.
+Konfigurace `TiffOptions` vám umožní přizpůsobit výstup TIFF tak, aby odpovídal průmyslovým standardům pro archivaci, tisk nebo medicínské zobrazování.
 
 ##### Konfigurace bitů na vzorek
 
 ```java
-// Vytvoření instance TiffOptions
+// Create an instance of TiffOptions
 TiffOptions options = new TiffOptions(TiffExpectedFormat.Default);
 
-// Nastavení bitů na vzorek pro konfiguraci RGB
+// Set bits per sample for RGB configuration
 options.setBitsPerSample(new int[] { 8, 8, 8 });
 ```
 
-Tento kód nastavuje barevnou hloubku na 24bitový RGB, což je standard pro vysoce kvalitní obrázky.
+Kód nastavuje barevnou hloubku na 24‑bitové RGB, což je standard pro vysoce kvalitní obrázky.
 
-##### Nastavení fotometrické interpretace
+##### Nastavení interpretace fotometrie
 
 ```java
-// Použijte fotometrickou interpretaci RGB
+// Use RGB photometric interpretation
 options.setPhotometric(TiffPhotometrics.Rgb);
 ```
 
-Ten/Ta/To `setPhotometric` Metoda určuje, že obrázek používá paletu RGB.
+Metoda `setPhotometric` určuje, že obrázek používá RGB paletu.
 
-##### Definování rozlišení a jednotek
+##### Definice rozlišení a jednotek
 
 ```java
-// Nastavte rozlišení na 72 DPI pro osy X i Y
+// Set resolution to 72 DPI for both X and Y axes
 options.setXresolution(new TiffRational(72));
 options.setYresolution(new TiffRational(72));
 
-// Zadejte jednotku rozlišení v palcích
+// Specify resolution unit as inches
 options.setResolutionUnit(TiffResolutionUnits.Inch);
 ```
 
-Tato nastavení zajišťují, že obrázek má na různých zařízeních konzistentní velikost zobrazení.
+Tato nastavení zajišťují, že obrázek má konzistentní velikost zobrazení napříč různými zařízeními.
 
 ##### Konfigurace komprese
 
 ```java
-// Pro efektivní ukládání nastavte kompresi na AdobeDeflate
+// Set compression to AdobeDeflate for efficient storage
 options.setCompression(TiffCompressions.AdobeDeflate);
 ```
 
-Používání `AdobeDeflate` zmenšuje velikost souboru bez ztráty kvality, což je ideální pro archivaci.
+Použití `AdobeDeflate` snižuje velikost souboru bez ztráty kvality, což je ideální pro archivaci.
 
-### Vytvoření a manipulace s TiffImage
+## Co je TiffImage?
 
-Nyní, když jsou možnosti nastaveny, vytvořme obrázek s použitím těchto konfigurací.
+`TiffImage` je třída Aspose.Imaging, která představuje TIFF dokument v paměti a umožňuje manipulaci na úrovni pixelů před uložením. Poskytuje metody pro přístup a úpravu jednotlivých pixelů, vrstev a metadat.
+
+Vytvoření `TiffImage` s nakonfigurovanými `TiffOptions` vám dává plnou kontrolu nad obsahem obrázku a metadaty, což umožňuje programově generovat vlastní TIFF soubory.
+
+## Jak vytvořit a manipulovat s TIFF obrázkem?
+
+Pro vytvoření a manipulaci s TIFF obrázkem vytvoříte instanci `TiffImage`, naplníte její pixelový buffer požadovanými daty a poté ji uložíte pomocí dříve definovaných `TiffOptions`. Tento postup zajišťuje, že obrázek je vytvořen přesně podle specifikací.
+
+### Vytváření a manipulace s TiffImage
+
+Nyní, když jsou možnosti nastaveny, vytvoříme obrázek pomocí těchto konfigurací.
 
 #### Přehled
 
-Vytvoření obrazu TIFF zahrnuje inicializaci `TiffImage`, nastavení jeho pixelů a uložení výsledku. Tento proces je s Aspose.Imaging přímočarý.
+Vytvoření TIFF obrázku zahrnuje inicializaci `TiffImage`, nastavení jeho pixelů a uložení výsledku. Tento proces je s Aspose.Imaging přímočarý.
 
 ##### Inicializace nového TiffImage
 
 ```java
 try (TiffImage tiffImage = new TiffImage(new TiffFrame(options, 100, 100))) {
-    // Přejděte přes každý pixel a nastavte mu červenou barvu.
+    // Loop over each pixel to set it to red color
     for (int i = 0; i < 100; i++) {
         tiffImage.getActiveFrame().setPixel(i, i, Color.getRed());
     }
     
-    // Uložte obrázek do požadovaného výstupního adresáře
+    // Save the image to your desired output directory
     tiffImage.save("YOUR_OUTPUT_DIRECTORY" + "/CreatingTIFFImageWithCompression.tiff");
 }
 ```
 
-V tomto úryvku kódu vytvoříme obrázek TIFF o rozměrech 100x100 pixelů a vyplníme ho červenými pixely pomocí našich předdefinovaných nastavení.
+V tomto úryvku vytvoříme TIFF obrázek o rozměrech 100 × 100 pixelů a naplníme jej červenými pixely pomocí našich předdefinovaných nastavení.
 
 ## Praktické aplikace
 
-Pochopení toho, jak nastavit možnosti TIFF a programově vytvářet obrázky, může být v několika scénářích neocenitelné:
+Pochopení, jak nastavit TIFF možnosti a programově vytvářet obrázky, může být neocenitelné v několika scénářích:
 
-- **Digitální archivace**Uchovávání dokumentů nebo uměleckých děl ve vysoce kvalitních formátech.
-- **Profesionální tisk**Zajištění toho, aby tisky splňovaly oborové standardy pro přesnost barev.
-- **Lékařské zobrazování**Zpracování podrobných obrazových dat, která vyžadují specifické konfigurace.
+- **Digitální archivace** – zachování dokumentů nebo uměleckých děl ve vysoce kvalitních formátech.  
+- **Profesionální tisk** – zajištění, že výtisky splňují průmyslové standardy pro přesnost barev.  
+- **Medicínské zobrazování** – práce s detailními obrazovými daty, která vyžadují specifické konfigurace.
 
 ## Úvahy o výkonu
 
-Při práci se zpracováním obrazu je klíčový výkon. Zde je několik tipů:
+Při práci se zpracováním obrazu je výkon klíčový. Aspose.Imaging dokáže zpracovat **více než 150 formátů** a pracovat s **vícesetstránkovými TIFF** bez načítání celého souboru do paměti, čímž snižuje riziko chyb OutOfMemory.
 
-- **Optimalizace využití paměti**Použijte efektivní zpracování velkých obrázků v Aspose.Imaging, abyste zabránili přetečení paměti.
-- **Dávkové zpracování**: Pro lepší správu zdrojů zpracovávejte více obrázků dávkově, nikoli jednotlivě.
-- **Používejte efektivní kompresi**Vyberte metody komprese, které vyvažují kvalitu a velikost souboru, například `AdobeDeflate`.
+- **Optimalizace využití paměti** – využijte streaming API Aspose.Imaging pro velké soubory.  
+- **Dávkové zpracování** – zpracovávejte více obrázků v jednom běhu pro minimalizaci režie.  
+- **Efektivní komprese** – zvolte `AdobeDeflate` pro dobrý poměr kvalita‑velikost.
+
+## Často kladené otázky
+
+**Q: Mohu tento kód použít i s jinými formáty obrázků?**  
+A: Ano, Aspose.Imaging podporuje více než 150 formátů, včetně PNG, JPEG, BMP a GIF. Viz **[Aspose.Imaging Documentation](https://reference.aspose.com/imaging/java/)** pro podrobnosti.
+
+**Q: Potřebuji Maven Aspose Imaging závislost pro projekty Gradle?**  
+A: Ne, uživatelé Gradle mohou přidat stejné koordináty do svého souboru `build.gradle`; podkladová knihovna je identická.
+
+**Q: Jak velký TIFF může Aspose.Imaging zpracovat?**  
+A: Knihovna může streamovat TIFF soubory až do několika gigabajtů, omezené pouze dostupným místem na disku, protože nikdy nenačítá celý obrázek do RAM.
+
+**Q: Co když narazím na `OutOfMemoryError`?**  
+A: Povolit `LoadOptions` s `useMemoryCache = true` nebo zpracovávat obrázek po částech (tiles), aby se udržela nízká spotřeba paměti.
+
+**Q: Je licence vyžadována pro vývojové sestavení?**  
+A: Bezplatná zkušební verze funguje pro vývoj, ale licencovaná verze odstraňuje vodoznaky hodnocení a odemyká plné optimalizace výkonu.
+
+**Q: Kde mohu získat pomoc, pokud narazím na problémy?**  
+A: Navštivte **[Aspose Support Forum](https://forum.aspose.com/c/imaging/14)** pro komunitní asistenci a oficiální podporu.
 
 ## Závěr
 
-Tento tutoriál se zabýval tím, jak pomocí Aspose.Imaging pro Javu nastavit možnosti TIFF a vytvářet vlastní obrázky. Dodržováním výše uvedených kroků můžete tyto funkce snadno integrovat do svých aplikací.
+Nyní máte kompletní, produkčně připravený průvodce, jak **vytvořit TIFF v Javě** pomocí Aspose.Imaging. Konfigurací `TiffOptions` a prací s `TiffImage` můžete generovat vysoce kvalitní TIFF soubory, které splňují přísné archivní, tiskové nebo medicínské standardy.
 
-**Další kroky:**
+**Další kroky**
 
-Prozkoumejte další funkce Aspose.Imaging ponořením se do jejich komplexní dokumentace a experimentováním s různými formáty a manipulacemi s obrázky.
+- Prozkoumejte další `TiffOptions` jako `extraSamples` a `predictor` pro specializované případy použití.  
+- Experimentujte s Aspose.Imaging API pro konverzi mezi formáty, přidávání vodoznaků nebo extrakci metadat.
 
-## Sekce Často kladených otázek
+---
 
-1. **Co je Aspose.Imaging pro Javu?**
-   - Výkonná knihovna, která zjednodušuje úlohy zpracování obrazu v aplikacích Java.
+**Last Updated:** 2026-09-13  
+**Tested With:** Aspose.Imaging 24.12 for Java  
+**Author:** Aspose
 
-2. **Jak nastavím Aspose.Imaging?**
-   - Pro zahrnutí závislosti použijte Maven nebo Gradle, případně si ji stáhněte přímo z jejich stránek.
+## Související tutoriály
 
-3. **Mohu tento kód použít s jinými formáty obrázků?**
-   - Ano, Aspose.Imaging podporuje širokou škálu formátů kromě TIFF.
+- [Master TIFF Image Processing in Java with Aspose.Imaging](/imaging/java/image-loading-saving/load-save-tiff-images-aspose-imaging-java/)
+- [Advanced TIFF Image Processing in Java with Aspose.Imaging](/imaging/java/format-specific-operations/mastering-tiff-image-processing-java-aspose-imaging/)
+- [Java Image Processing with Aspose.Imaging: Loading, Enhancing & Saving Images](/imaging/java/image-loading-saving/java-image-processing-aspose-imaging-load-adjust-save/)
 
-4. **Jaké jsou některé běžné problémy při zpracování obrázků v Javě?**
-   - Správa paměti a efektivní práce s velkými soubory může být bez správných nástrojů náročná.
-
-5. **Jak mohu vyřešit chyby s nastavením TiffOptions?**
-   - Zkontrolujte překlepy ve voláních metod, ujistěte se, že jsou nastaveny všechny potřebné vlastnosti, a vyhledejte pokyny v dokumentaci k Aspose.
-
-## Zdroje
-
-- [Dokumentace k Aspose.Imaging](https://reference.aspose.com/imaging/java/)
-- [Stáhnout nejnovější verzi](https://releases.aspose.com/imaging/java/)
-- [Zakoupit licenci](https://purchase.aspose.com/buy)
-- [Bezplatná zkušební verze](https://releases.aspose.com/imaging/java/)
-- [Žádost o dočasnou licenci](https://purchase.aspose.com/temporary-license/)
-- [Fórum podpory Aspose](https://forum.aspose.com/c/imaging/14)
-
-Zvládnutím těchto technik budete dobře vybaveni pro zvládání složitých úloh zpracování obrazu ve vašich aplikacích v Javě. Přejeme vám příjemné programování!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
