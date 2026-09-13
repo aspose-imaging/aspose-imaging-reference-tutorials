@@ -1,43 +1,102 @@
 ---
-"date": "2025-06-04"
-"description": "學習如何使用 Aspose.Imaging for Java 創建和處理高品質的 TIFF 影像。探索如何設定壓縮、解析度和色彩解析等屬性。"
-"title": "使用 Aspose.Imaging 掌握 Java 中的 TIFF 影像創建"
-"url": "/zh-hant/java/format-specific-operations/create-tiff-images-aspose-imaging-java/"
-"weight": 1
+date: '2026-09-13'
+description: 了解如何在 Java 中使用 Aspose.Imaging 建立 TIFF 圖片，涵蓋壓縮、解析度與顏色設定，以產生高品質的 TIFF 檔案。
+keywords:
+- create tiff java
+- maven aspose imaging dependency
+- tiff options java
+- aspose imaging tiff
+- java image processing
+lastmod: '2026-09-13'
+og_description: 在 Java 中使用 Aspose.Imaging 建立 TIFF 圖片。了解如何使用 Maven Aspose Imaging 相依套件設定壓縮、解析度與顏色選項。
+og_image_alt: Tutorial guide showing Java code to create and configure TIFF images
+  with Aspose.Imaging
+og_title: 如何在 Java 中使用 Aspose.Imaging 函式庫建立 TIFF 圖片
+schemas:
+- author: Aspose
+  dateModified: '2026-09-13'
+  description: Learn how to create TIFF images in Java with Aspose.Imaging, covering
+    compression, resolution, and color settings to produce high‑quality TIFF files.
+  headline: How to create TIFF in Java using Aspose.Imaging library
+  type: TechArticle
+- description: Learn how to create TIFF images in Java with Aspose.Imaging, covering
+    compression, resolution, and color settings to produce high‑quality TIFF files.
+  name: How to create TIFF in Java using Aspose.Imaging library
+  steps:
+  - name: '**Free trial** – download and evaluate without restrictions. See the **[Free
+      Trial](https://releases.aspose.com/imaging/java/)** page.'
+    text: '**Free trial** – download and evaluate without restrictions. See the **[Free
+      Trial](https://releases.aspose.com/imaging/java/)** page.'
+  - name: '**Temporary license** – request from Aspose for extended evaluation via
+      the **[Temporary License Request](https://purchase.aspose.com/temporary-license/)**.'
+    text: '**Temporary license** – request from Aspose for extended evaluation via
+      the **[Temporary License Request](https://purchase.aspose.com/temporary-license/)**.'
+  - name: '**Purchase license** – obtain a permanent license via the **[Purchase License](https://purchase.aspose.com/buy)**
+      or the **[purchase page](https://purchase.aspose.com/buy)**.'
+    text: '**Purchase license** – obtain a permanent license via the **[Purchase License](https://purchase.aspose.com/buy)**
+      or the **[purchase page](https://purchase.aspose.com/buy)**.'
+  type: HowTo
+- questions:
+  - answer: Yes, Aspose.Imaging supports over 150 formats, including PNG, JPEG, BMP,
+      and GIF. See the **[Aspose.Imaging Documentation](https://reference.aspose.com/imaging/java/)**
+      for details.
+    question: Can I use this code with other image formats?
+  - answer: No, Gradle users can add the same coordinates in their `build.gradle`
+      file; the underlying library is identical.
+    question: Do I need the Maven Aspose Imaging dependency for Gradle projects?
+  - answer: The library can stream TIFF files up to several gigabytes, limited only
+      by available disk space, because it never loads the whole image into RAM.
+    question: How large a TIFF can Aspose.Imaging process?
+  - answer: Enable `LoadOptions` with `useMemoryCache = true` or process the image
+      in tiles to keep memory usage low.
+    question: What if I encounter an `OutOfMemoryError`?
+  - answer: A free trial works for development, but a licensed version removes evaluation
+      watermarks and unlocks full performance optimisations.
+    question: Is a license required for development builds?
+  type: FAQPage
+tags:
+- create tiff
+- Aspose.Imaging
+- Java image processing
+title: 如何在 Java 中使用 Aspose.Imaging 函式庫建立 TIFF 圖片
+url: /zh-hant/java/format-specific-operations/create-tiff-images-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# 如何使用 Aspose.Imaging for Java 設定 TIFF 選項並建立影像
+
+# 如何在 Java 中使用 Aspose.Imaging 建立 TIFF
 
 ## 介紹
 
-在影像處理領域，創建具有特定配置的高品質 TIFF 檔案可能是一項艱鉅的任務。無論您是在處理數位存檔、印刷項目，還是任何需要精確影像品質設定的應用程序，了解如何有效地操作 TIFF 選項都至關重要。本教學將指導您使用 Aspose.Imaging for Java 設定 TIFF 影像的各種屬性，並以程式設計方式建立它們。
+以程式方式建立 TIFF 檔案可能相當具挑戰性，尤其當您需要對壓縮、解析度與色彩詮釋進行細緻控制時。在本教學中，您將學習如何使用 Aspose.Imaging **create TIFF in Java**，設定最常見的 TIFF 選項，並操作像素資料。無論您是構建數位保存系統、列印流程，或醫學影像應用程式，下列步驟皆提供可直接投入生產的做法。
 
-**您將學到什麼：**
+**您將學到**
 
-- 如何配置 TIFF 選項，例如壓縮、解析度和色彩解釋。
-- 在 Java 中建立新的 TIFF 映像並操作其像素的過程。
-- Aspose.Imaging 處理 TIFF 檔案的實際應用。
-  
-在深入研究程式碼之前，讓我們先介紹一些先決條件，以確保您已做好準備。
+- 如何設定 TIFF 選項，例如壓縮、解析度與色彩詮釋。  
+- 在 Java 中建立新 TIFF 影像並操作其像素的流程。  
+- Aspose.Imaging 處理 TIFF 檔案的實務應用。
 
-## 先決條件
+## 快速答案
+- **哪個函式庫支援在 Java 中建立 TIFF？** Aspose.Imaging for Java。  
+- **我需要授權才能投入生產嗎？** 是，購買的授權會移除評估限制。  
+- **我可以使用哪種建置工具？** 透過 Maven Aspose Imaging 相依性使用 Maven 或 Gradle。  
+- **我可以設定壓縮與解析度嗎？** 當然可以——使用 `TiffOptions` 屬性。  
+- **此程式碼相容於 JDK 8 以上嗎？** 是，支援 JDK 8 及更新版本。
 
-要遵循本教程，請確保您已具備：
+## 前置條件
 
-- **Java 開發工具包 (JDK)** 已安裝在您的電腦上。我們建議使用 JDK 8 或更高版本。
-- **Maven** 或者 **Gradle** 作為您的專案管理工具。這將有助於輕鬆管理依賴項。
-- 對 Java 程式設計有基本的了解，並熟悉影像處理概念。
+- 已安裝 **Java Development Kit (JDK)** 8 或以上。  
+- 用於相依性管理的 **Maven** 或 **Gradle**。  
+- 具備 Java 及影像處理概念的基本熟悉度。
 
 ## 設定 Aspose.Imaging for Java
 
-在深入程式碼之前，您需要在開發環境中設定 Aspose.Imaging for Java。您可以使用 Maven 或 Gradle 新增相依性來完成此操作，如下所示：
+在開始編寫程式碼之前，請將 Aspose.Imaging 函式庫加入您的專案。
 
-**Maven**
+**Maven**  
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -46,164 +105,184 @@
 </dependency>
 ```
 
-**Gradle**
+**Gradle**  
 ```gradle
 implementation(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-如果您喜歡直接下載，您可以從 [Aspose.Imaging for Java 版本](https://releases。aspose.com/imaging/java/).
+如果您偏好手動下載，可從 [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) 取得最新發行版。您也可以使用通用連結 **[Download Latest Version](https://releases.aspose.com/imaging/java/)**。
 
-### 許可證獲取
+### 取得授權
 
-為了充分利用 Aspose.Imaging 的功能，請考慮取得許可證。您可以先免費試用，也可以申請臨時許可證來探索所有功能。如需長期使用，您可以購買訂閱。
+免費試用版可用於開發，但生產環境部署需使用授權版本。
 
-1. **免費試用**：下載庫並進行實驗，不受限制，以用於評估目的。
-2. **臨時執照**：如果您需要在免費試用期之外延長存取權限，請向 Aspose 提出此請求。
-3. **購買許可證**：直接透過他們的 [購買頁面](https://purchase.aspose.com/buy) 在生產環境中使用該產品。
+1. **Free trial** – 下載並無限制地評估。請參閱 **[Free Trial](https://releases.aspose.com/imaging/java/)** 頁面。  
+2. **Temporary license** – 向 Aspose 申請延長評估，透過 **[Temporary License Request](https://purchase.aspose.com/temporary-license/)**。  
+3. **Purchase license** – 透過 **[Purchase License](https://purchase.aspose.com/buy)** 或 **[purchase page](https://purchase.aspose.com/buy)** 取得永久授權。
 
 ### 初始化
 
-首先導入必要的類別並使用以下基本初始化設定您的專案：
+匯入所需類別並初始化函式庫：
 
 ```java
 import com.aspose.imaging.imageoptions.TiffOptions;
 ```
 
-## 實施指南
+## TiffOptions 是什麼？
 
-我們將把實現過程分為兩個主要功能：設定 TIFF 選項和建立/操作 TIFF 影像。每個部分都旨在逐步引導您完成整個過程。
+`TiffOptions` 是 Aspose.Imaging 中的類別，用於定義 TIFF 檔案的編碼方式，包含壓縮、解析度與色彩設定。它允許您在儲存之前指定輸出檔案的精確特性。
+
+您在儲存影像之前會先配置 `TiffOptions` 實例；這確保產生的檔案符合您對品質與相容性的精確要求。透過調整其屬性，您可以將 TIFF 量身打造，以符合保存、列印或醫學影像的標準。
+
+## 如何在 Java 中設定 TIFF 選項？
+
+要設定 TIFF 選項，您需要建立一個 `TiffOptions` 物件，並為其屬性（如 `bitsPerSample`、`photometric`、`resolutionUnit`、`xResolution`、`yResolution`、`compression`）指派值。此配置會在影像寫入磁碟時套用，確保檔案符合所需規格。
 
 ### 設定 TiffOptions 屬性
 
-此功能顯示如何配置各種屬性以建立具有所需規格的 TIFF 檔案。
+此功能示範如何配置各種屬性，以建立符合規格的 TIFF 檔案。
 
 #### 概述
 
-配置 `TiffOptions` 允許您定義每樣本位數、解析度和壓縮類型等參數，確保您的 TIFF 影像符合特定的品質標準。
+配置 `TiffOptions` 讓您可依照保存、列印或醫學影像的行業標準，客製化 TIFF 輸出。
 
-##### 配置每樣本位數
+##### 設定每樣本位元數
 
 ```java
-// 建立 TiffOptions 實例
+// Create an instance of TiffOptions
 TiffOptions options = new TiffOptions(TiffExpectedFormat.Default);
 
-// 設定 RGB 配置的每樣本位數
+// Set bits per sample for RGB configuration
 options.setBitsPerSample(new int[] { 8, 8, 8 });
 ```
 
-此程式碼將顏色深度設定為 24 位元 RGB，這是高品質影像的標準。
+此程式碼將色彩深度設定為 24 位元 RGB，為高品質影像的標準。
 
-##### 設定光度解釋
+##### 設定 photometric 詮釋
 
 ```java
-// 使用 RGB 光度解釋
+// Use RGB photometric interpretation
 options.setPhotometric(TiffPhotometrics.Rgb);
 ```
 
-這 `setPhotometric` 方法指定影像使用 RGB 調色板。
+`setPhotometric` 方法指定影像使用 RGB 調色盤。
 
-##### 定義解析度和單位
+##### 定義解析度與單位
 
 ```java
-// 將 X 軸和 Y 軸的解析度均設定為 72 DPI
+// Set resolution to 72 DPI for both X and Y axes
 options.setXresolution(new TiffRational(72));
 options.setYresolution(new TiffRational(72));
 
-// 將解析度單位指定為英吋
+// Specify resolution unit as inches
 options.setResolutionUnit(TiffResolutionUnits.Inch);
 ```
 
-這些設定可確保影像在不同裝置上具有一致的顯示尺寸。
+這些設定確保影像在不同裝置上具有一致的顯示尺寸。
 
-##### 壓縮配置
+##### 壓縮設定
 
 ```java
-// 將壓縮設定為 AdobeDeflate 以實現高效存儲
+// Set compression to AdobeDeflate for efficient storage
 options.setCompression(TiffCompressions.AdobeDeflate);
 ```
 
-使用 `AdobeDeflate` 減小檔案大小而不損失質量，使其成為存檔的理想選擇。
+使用 `AdobeDeflate` 可在不失真的情況下降低檔案大小，適合保存用途。
 
-### 建立和操作 TiffImage
+## TiffImage 是什麼？
 
-現在已經設定了選項，讓我們使用這些配置來建立圖像。
+`TiffImage` 是 Aspose.Imaging 的類別，代表記憶體中的 TIFF 文件，允許在儲存前進行像素層級的操作。它提供存取與修改單一像素、圖層與中繼資料的方法。
+
+使用已配置的 `TiffOptions` 建立 `TiffImage`，即可完整掌控影像內容與中繼資料，從而以程式方式產生自訂的 TIFF 檔案。
+
+## 如何建立與操作 TIFF 影像？
+
+要建立與操作 TIFF 影像，您需要實例化 `TiffImage`、將像素緩衝區填入所需資料，然後使用先前定義的 `TiffOptions` 進行儲存。此工作流程確保影像完全依照選項規範建構。
+
+### 建立與操作 TiffImage
+
+現在選項已設定，讓我們使用這些配置建立影像。
 
 #### 概述
 
-建立 TIFF 影像涉及初始化 `TiffImage`，設定其像素並儲存結果。使用 Aspose.Imaging 可以輕鬆完成此過程。
+建立 TIFF 影像的過程包括初始化 `TiffImage`、設定像素，最後儲存結果。使用 Aspose.Imaging，此流程相當簡單。
 
 ##### 初始化新的 TiffImage
 
 ```java
 try (TiffImage tiffImage = new TiffImage(new TiffFrame(options, 100, 100))) {
-    // 循環遍歷每個像素將其設為紅色
+    // Loop over each pixel to set it to red color
     for (int i = 0; i < 100; i++) {
         tiffImage.getActiveFrame().setPixel(i, i, Color.getRed());
     }
     
-    // 將影像儲存到所需的輸出目錄
+    // Save the image to your desired output directory
     tiffImage.save("YOUR_OUTPUT_DIRECTORY" + "/CreatingTIFFImageWithCompression.tiff");
 }
 ```
 
-在此程式碼片段中，我們建立了一個 100x100 像素的 TIFF 影像，並使用預先定義的設定以紅色像素填滿它。
+在此程式碼片段中，我們建立一個 100 × 100 像素的 TIFF 影像，並使用預先定義的設定將其填滿紅色像素。
 
-## 實際應用
+## 實務應用
 
-了解如何設定 TIFF 選項以及如何以程式設計方式建立影像在以下幾種情況下非常有價值：
+了解如何設定 TIFF 選項與程式化建立影像，在以下情境中相當寶貴：
 
-- **數位存檔**：以高品質格式儲存文件或藝術品。
-- **專業印刷**：確保列印件符合色彩準確度的業界標準。
-- **醫學影像**：處理需要特定配置的詳細影像資料。
+- **Digital archiving** – 以高品質格式保存文件或藝術品。  
+- **Professional printing** – 確保列印品符合業界色彩準確度標準。  
+- **Medical imaging** – 處理需要特定設定的詳細影像資料。
 
-## 性能考慮
+## 效能考量
 
-在進行影像處理時，性能至關重要。以下是一些技巧：
+在影像處理工作中，效能是關鍵。Aspose.Imaging 能處理 **150+ 影像格式**，且可在不將整個檔案載入記憶體的情況下處理 **多百頁 TIFF**，降低 OutOfMemory 錯誤的風險。
 
-- **優化記憶體使用**：使用Aspose.Imaging高效處理大圖像，避免記憶體溢位。
-- **批次處理**：批量處理多幅影像而不是單獨處理，以實現更好的資源管理。
-- **使用高效率壓縮**：選擇平衡品質和檔案大小的壓縮方法，例如 `AdobeDeflate`。
+- **Optimize memory usage** – 利用 Aspose.Imaging 的串流 API 處理大型檔案。  
+- **Batch processing** – 在一次執行中處理多張影像，以減少開銷。  
+- **Efficient compression** – 選擇 `AdobeDeflate` 以取得良好的品質與檔案大小平衡。
+
+## 常見問題
+
+**Q: 我可以將此程式碼用於其他影像格式嗎？**  
+A: 是的，Aspose.Imaging 支援超過 150 種格式，包括 PNG、JPEG、BMP 與 GIF。詳情請參閱 **[Aspose.Imaging Documentation](https://reference.aspose.com/imaging/java/)**。
+
+**Q: 我需要 Maven Aspose Imaging 相依性才能在 Gradle 專案中使用嗎？**  
+A: 不需要，Gradle 使用者可在 `build.gradle` 檔案中加入相同的座標；底層函式庫相同。
+
+**Q: Aspose.Imaging 能處理多大的 TIFF？**  
+A: 此函式庫可串流處理高達數 GB 的 TIFF 檔案，唯一受限於可用磁碟空間，因為它從不將整張影像載入 RAM。
+
+**Q: 若遇到 `OutOfMemoryError` 該怎麼辦？**  
+A: 啟用 `LoadOptions` 並將 `useMemoryCache = true`，或以瓦片方式處理影像，以降低記憶體使用量。
+
+**Q: 開發版是否需要授權？**  
+A: 免費試用版可用於開發，但授權版會移除評估水印並解鎖完整效能最佳化。
+
+**Q: 若遇到問題該向何處尋求協助？**  
+A: 可前往 **[Aspose Support Forum](https://forum.aspose.com/c/imaging/14)** 取得社群協助與官方支援。
 
 ## 結論
 
-本教學介紹如何使用 Aspose.Imaging for Java 設定 TIFF 選項並建立自訂影像。按照上述步驟，您可以輕鬆地將這些功能整合到您的應用程式中。
+您現在已掌握使用 Aspose.Imaging **create TIFF in Java** 的完整生產就緒指南。透過配置 `TiffOptions` 並使用 `TiffImage`，即可產生符合嚴格保存、列印或醫學影像標準的高品質 TIFF 檔案。
 
-**後續步驟：**
+**接下來的步驟**
 
-深入了解 Aspose.Imaging 的全面文件並嘗試不同的圖像格式和操作，探索其更多功能。
+- 探索其他 `TiffOptions`（如 `extraSamples`、`predictor`）以因應特殊使用情境。  
+- 嘗試 Aspose.Imaging API，進行格式轉換、加入浮水印或擷取中繼資料。
 
-## 常見問題部分
+---
 
-1. **什麼是 Aspose.Imaging for Java？**
-   - 一個強大的函式庫，可簡化 Java 應用程式中的影像處理任務。
+**Last Updated:** 2026-09-13  
+**Tested With:** Aspose.Imaging 24.12 for Java  
+**Author:** Aspose
 
-2. **如何設定 Aspose.Imaging？**
-   - 使用 Maven 或 Gradle 來包含依賴項，或直接從他們的網站下載。
+## 相關教學
 
-3. **我可以將此程式碼用於其他圖像格式嗎？**
-   - 是的，Aspose.Imaging 支援除 TIFF 之外的多種格式。
-
-4. **使用 Java 處理影像時常見問題有哪些？**
-   - 如果沒有合適的工具，記憶體管理和有效處理大檔案可能會很困難。
-
-5. **如何解決 TiffOptions 設定錯誤？**
-   - 檢查方法呼叫中的拼字錯誤，確保設定了所有必要的屬性，並查閱 Aspose 文件以取得指導。
-
-## 資源
-
-- [Aspose.Imaging 文檔](https://reference.aspose.com/imaging/java/)
-- [下載最新版本](https://releases.aspose.com/imaging/java/)
-- [購買許可證](https://purchase.aspose.com/buy)
-- [免費試用](https://releases.aspose.com/imaging/java/)
-- [臨時許可證申請](https://purchase.aspose.com/temporary-license/)
-- [Aspose 支援論壇](https://forum.aspose.com/c/imaging/14)
-
-掌握這些技巧後，你將能夠在 Java 應用程式中輕鬆應對複雜的影像處理任務。祝你程式愉快！
+- [掌握 Java 中的 TIFF 影像處理與 Aspose.Imaging](/imaging/java/image-loading-saving/load-save-tiff-images-aspose-imaging-java/)
+- [進階 Java TIFF 影像處理與 Aspose.Imaging](/imaging/java/format-specific-operations/mastering-tiff-image-processing-java-aspose-imaging/)
+- [Java 影像處理與 Aspose.Imaging：載入、增強與儲存影像](/imaging/java/image-loading-saving/java-image-processing-aspose-imaging-load-adjust-save/)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

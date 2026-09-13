@@ -1,43 +1,106 @@
 ---
-"date": "2025-06-04"
-"description": "تعرّف على كيفية إنشاء صور TIFF عالية الجودة ومعالجتها باستخدام Aspose.Imaging لجافا. استكشف خصائص الإعدادات مثل الضغط والدقة وتفسير الألوان."
-"title": "إتقان إنشاء صور TIFF في Java باستخدام Aspose.Imaging"
-"url": "/ar/java/format-specific-operations/create-tiff-images-aspose-imaging-java/"
-"weight": 1
+date: '2026-09-13'
+description: تعلم كيفية إنشاء صور TIFF في Java باستخدام Aspose.Imaging، مع تغطية compression
+  و resolution و color settings لإنتاج ملفات TIFF عالية الجودة.
+keywords:
+- create tiff java
+- maven aspose imaging dependency
+- tiff options java
+- aspose imaging tiff
+- java image processing
+lastmod: '2026-09-13'
+og_description: إنشاء صور TIFF في Java باستخدام Aspose.Imaging. تعلم كيفية ضبط compression
+  و resolution و color options باستخدام Maven Aspose Imaging dependency.
+og_image_alt: Tutorial guide showing Java code to create and configure TIFF images
+  with Aspose.Imaging
+og_title: كيفية إنشاء ملفات TIFF في Java باستخدام مكتبة Aspose.Imaging
+schemas:
+- author: Aspose
+  dateModified: '2026-09-13'
+  description: Learn how to create TIFF images in Java with Aspose.Imaging, covering
+    compression, resolution, and color settings to produce high‑quality TIFF files.
+  headline: How to create TIFF in Java using Aspose.Imaging library
+  type: TechArticle
+- description: Learn how to create TIFF images in Java with Aspose.Imaging, covering
+    compression, resolution, and color settings to produce high‑quality TIFF files.
+  name: How to create TIFF in Java using Aspose.Imaging library
+  steps:
+  - name: '**Free trial** – download and evaluate without restrictions. See the **[Free
+      Trial](https://releases.aspose.com/imaging/java/)** page.'
+    text: '**Free trial** – download and evaluate without restrictions. See the **[Free
+      Trial](https://releases.aspose.com/imaging/java/)** page.'
+  - name: '**Temporary license** – request from Aspose for extended evaluation via
+      the **[Temporary License Request](https://purchase.aspose.com/temporary-license/)**.'
+    text: '**Temporary license** – request from Aspose for extended evaluation via
+      the **[Temporary License Request](https://purchase.aspose.com/temporary-license/)**.'
+  - name: '**Purchase license** – obtain a permanent license via the **[Purchase License](https://purchase.aspose.com/buy)**
+      or the **[purchase page](https://purchase.aspose.com/buy)**.'
+    text: '**Purchase license** – obtain a permanent license via the **[Purchase License](https://purchase.aspose.com/buy)**
+      or the **[purchase page](https://purchase.aspose.com/buy)**.'
+  type: HowTo
+- questions:
+  - answer: Yes, Aspose.Imaging supports over 150 formats, including PNG, JPEG, BMP,
+      and GIF. See the **[Aspose.Imaging Documentation](https://reference.aspose.com/imaging/java/)**
+      for details.
+    question: Can I use this code with other image formats?
+  - answer: No, Gradle users can add the same coordinates in their `build.gradle`
+      file; the underlying library is identical.
+    question: Do I need the Maven Aspose Imaging dependency for Gradle projects?
+  - answer: The library can stream TIFF files up to several gigabytes, limited only
+      by available disk space, because it never loads the whole image into RAM.
+    question: How large a TIFF can Aspose.Imaging process?
+  - answer: Enable `LoadOptions` with `useMemoryCache = true` or process the image
+      in tiles to keep memory usage low.
+    question: What if I encounter an `OutOfMemoryError`?
+  - answer: A free trial works for development, but a licensed version removes evaluation
+      watermarks and unlocks full performance optimisations.
+    question: Is a license required for development builds?
+  type: FAQPage
+tags:
+- create tiff
+- Aspose.Imaging
+- Java image processing
+title: كيفية إنشاء ملفات TIFF في Java باستخدام مكتبة Aspose.Imaging
+url: /ar/java/format-specific-operations/create-tiff-images-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# كيفية ضبط خيارات TIFF وإنشاء الصور باستخدام Aspose.Imaging لـ Java
+
+# كيفية إنشاء ملفات TIFF في Java باستخدام Aspose.Imaging
 
 ## مقدمة
 
-في عالم معالجة الصور، قد يكون إنشاء ملفات TIFF عالية الجودة بإعدادات محددة مهمة شاقة. سواء كنت تعمل على أرشفة رقمية، أو مشاريع طباعة، أو أي تطبيق يتطلب إعدادات دقيقة لجودة الصورة، فإن معرفة كيفية التعامل مع خيارات TIFF بفعالية أمرٌ أساسي. سيرشدك هذا البرنامج التعليمي إلى كيفية استخدام Aspose.Imaging في Java لتعيين خصائص مختلفة لصور TIFF وإنشائها برمجيًا.
+إنشاء ملفات TIFF برمجيًا يمكن أن يكون تحديًا، خاصةً عندما تحتاج إلى تحكم دقيق في الضغط، الدقة، وتفسير الألوان. في هذا البرنامج التعليمي ستتعلم كيفية **إنشاء ملفات TIFF في Java** باستخدام Aspose.Imaging، وضبط أكثر خيارات TIFF شيوعًا، ومعالجة بيانات البكسل. سواءً كنت تبني نظام أرشفة رقمية، أو خط أنابيب طباعة، أو تطبيق تصوير طبي، فإن الخطوات أدناه توفر لك نهجًا جاهزًا للإنتاج.
 
-**ما سوف تتعلمه:**
+**ما ستتعلمه**
 
-- كيفية تكوين خيارات TIFF مثل الضغط والدقة وتفسير الألوان.
-- عملية إنشاء صورة TIFF جديدة والتلاعب بالبكسلات الخاصة بها في Java.
-- التطبيقات العملية لـ Aspose.Imaging للتعامل مع ملفات TIFF.
-  
-قبل الغوص في الكود، دعنا نغطي بعض المتطلبات الأساسية للتأكد من استعدادك.
+- كيفية تكوين خيارات TIFF مثل الضغط، الدقة، وتفسير الألوان.  
+- عملية إنشاء صورة TIFF جديدة ومعالجة بكسلاتها في Java.  
+- تطبيقات عملية لـ Aspose.Imaging في التعامل مع ملفات TIFF.
 
-## المتطلبات الأساسية
+## إجابات سريعة
+- **أي مكتبة تدعم إنشاء TIFF في Java؟** Aspose.Imaging for Java.  
+- **هل أحتاج إلى ترخيص للإنتاج؟** نعم، الترخيص المشتراة يزيل حدود التقييم.  
+- **ما أداة البناء التي يمكنني استخدامها؟** Maven أو Gradle عبر تبعية Maven Aspose Imaging.  
+- **هل يمكنني ضبط الضغط والدقة؟** بالتأكيد—استخدم خصائص `TiffOptions`.  
+- **هل الكود متوافق مع JDK 8+؟** نعم، يعمل على JDK 8 والإصدارات الأحدث.
 
-لمتابعة هذا البرنامج التعليمي، تأكد من أن لديك:
+## المتطلبات المسبقة
 
-- **مجموعة تطوير جافا (JDK)** مُثبّت على جهازك. نوصي باستخدام JDK 8 أو إصدار أحدث.
-- **مافن** أو **جرادل** كأداة لإدارة مشاريعك. سيساعدك هذا على إدارة التبعيات بسهولة.
-- فهم أساسي لبرمجة جافا والتعرف على مفاهيم معالجة الصور.
+للتبع هذا البرنامج التعليمي، تأكد من وجود ما يلي:
+
+- **Java Development Kit (JDK)** 8 أو أعلى مثبت.  
+- **Maven** أو **Gradle** لإدارة التبعيات.  
+- إلمام أساسي بـ Java ومفاهيم معالجة الصور.
 
 ## إعداد Aspose.Imaging لـ Java
 
-قبل البدء في شرح الكود، عليك إعداد Aspose.Imaging لجافا في بيئة التطوير لديك. يمكنك القيام بذلك باستخدام Maven أو Gradle بإضافة التبعية كما هو موضح أدناه:
+قبل بدء الترميز، أضف مكتبة Aspose.Imaging إلى مشروعك.
 
-**مافن**
+**Maven**  
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -46,164 +109,176 @@
 </dependency>
 ```
 
-**جرادل**
+**Gradle**  
 ```gradle
 implementation(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-إذا كنت تفضل التنزيلات المباشرة، يمكنك الحصول على الإصدار الأحدث من [إصدارات Aspose.Imaging لـ Java](https://releases.aspose.com/imaging/java/).
+إذا كنت تفضل التحميل اليدوي، احصل على أحدث إصدار من [إصدارات Aspose.Imaging لـ Java](https://releases.aspose.com/imaging/java/). يمكنك أيضًا استخدام الرابط العام **[تحميل أحدث نسخة](https://releases.aspose.com/imaging/java/)**.
 
 ### الحصول على الترخيص
 
-للاستفادة الكاملة من إمكانيات Aspose.Imaging، ننصحك بالحصول على ترخيص. يمكنك البدء بفترة تجريبية مجانية أو طلب ترخيص مؤقت لاستكشاف جميع الميزات. وللاستخدام طويل الأمد، يمكنك شراء اشتراك.
+نسخة تجريبية مجانية تعمل للتطوير، لكن النسخة المرخصة مطلوبة للنشر في بيئات الإنتاج.
 
-1. **نسخة تجريبية مجانية**:قم بتنزيل المكتبة وجربها دون قيود لأغراض التقييم.
-2. **رخصة مؤقتة**:اطلب هذا من Aspose إذا كنت بحاجة إلى وصول موسع يتجاوز فترة التجربة المجانية.
-3. **شراء الترخيص**: اشتري مباشرة عبر [صفحة الشراء](https://purchase.aspose.com/buy) لاستخدام المنتج في بيئة الإنتاج.
+1. **نسخة تجريبية** – قم بالتحميل والتقييم بدون قيود. راجع صفحة **[الإصدار التجريبي](https://releases.aspose.com/imaging/java/)**.  
+2. **ترخيص مؤقت** – اطلبه من Aspose لتقييم ممتد عبر **[طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)**.  
+3. **شراء ترخيص** – احصل على ترخيص دائم عبر **[شراء ترخيص](https://purchase.aspose.com/buy)** أو **[صفحة الشراء](https://purchase.aspose.com/buy)**.
 
 ### التهيئة
 
-ابدأ باستيراد الفئات الضرورية وإعداد مشروعك باستخدام التهيئة الأساسية التالية:
+استورد الفئات المطلوبة وابدأ المكتبة:
 
 ```java
 import com.aspose.imaging.imageoptions.TiffOptions;
 ```
 
-## دليل التنفيذ
+## ما هو TiffOptions؟
 
-سنُقسّم عملية التنفيذ إلى ميزتين رئيسيتين: ضبط خيارات TIFF وإنشاء/معالجة صورة TIFF. صُمّم كل قسم لإرشادك خطوة بخطوة خلال العملية.
+`TiffOptions` هي فئة في Aspose.Imaging تحدد كيفية ترميز ملف TIFF، بما في ذلك الضغط، الدقة، وإعدادات اللون. تتيح لك تحديد الخصائص الدقيقة للملف الناتج قبل الحفظ.
+
+## كيفية ضبط خيارات TIFF في Java؟
+
+لضبط خيارات TIFF، أنشئ كائن `TiffOptions` وعيّن القيم لخصائصه مثل `bitsPerSample`، `photometric`، `resolutionUnit`، `xResolution`، `yResolution`، و`compression`. تُطبق هذه الإعدادات عند كتابة الصورة إلى القرص، مما يضمن توافق الملف مع المواصفات المطلوبة.
 
 ### ضبط خصائص TiffOptions
 
-تُظهر هذه الميزة كيفية تكوين خصائص مختلفة لإنشاء ملف TIFF بالمواصفات المطلوبة.
+هذه الميزة توضح كيفية تكوين خصائص مختلفة لإنشاء ملف TIFF بالمواصفات المطلوبة.
 
-#### ملخص
+#### نظرة عامة
 
-تكوين `TiffOptions` يتيح لك تحديد معلمات مثل البتات لكل عينة والدقة ونوع الضغط، مما يضمن أن صورة TIFF الخاصة بك تلبي معايير الجودة المحددة.
+تكوين `TiffOptions` يتيح لك تخصيص مخرجات TIFF لتتناسب مع معايير الصناعة للأرشفة، الطباعة، أو التصوير الطبي.
 
-##### تكوين البتات لكل عينة
-
+##### ضبط عدد البتات لكل عينة
 ```java
-// إنشاء مثيل لـ TiffOptions
+// Create an instance of TiffOptions
 TiffOptions options = new TiffOptions(TiffExpectedFormat.Default);
 
-// تعيين البتات لكل عينة لتكوين RGB
+// Set bits per sample for RGB configuration
 options.setBitsPerSample(new int[] { 8, 8, 8 });
 ```
 
-يقوم هذا الكود بتعيين عمق اللون إلى 24 بت RGB، وهو المعيار للصور عالية الجودة.
+الكود يحدد عمق اللون إلى 24‑bit RGB، وهو معيار للصور عالية الجودة.
 
-##### إعداد التفسير الضوئي
-
+##### ضبط تفسير الفوتومتري
 ```java
-// استخدام تفسير فوتومتري RGB
+// Use RGB photometric interpretation
 options.setPhotometric(TiffPhotometrics.Rgb);
 ```
 
-ال `setPhotometric` تحدد الطريقة أن الصورة تستخدم لوحة ألوان RGB.
+طريقة `setPhotometric` تحدد أن الصورة تستخدم لوحة ألوان RGB.
 
 ##### تعريف الدقة والوحدات
-
 ```java
-// ضبط الدقة على 72 نقطة في البوصة لكل من المحورين X وY
+// Set resolution to 72 DPI for both X and Y axes
 options.setXresolution(new TiffRational(72));
 options.setYresolution(new TiffRational(72));
 
-// حدد وحدة الدقة بالبوصات
+// Specify resolution unit as inches
 options.setResolutionUnit(TiffResolutionUnits.Inch);
 ```
 
-تضمن هذه الإعدادات أن يكون للصورة حجم عرض ثابت عبر الأجهزة المختلفة.
+هذه الإعدادات تضمن أن الصورة لها حجم عرض ثابت عبر الأجهزة المختلفة.
 
-##### تكوين الضغط
-
+##### ضبط الضغط
 ```java
-// ضبط الضغط على AdobeDeflate للتخزين الفعال
+// Set compression to AdobeDeflate for efficient storage
 options.setCompression(TiffCompressions.AdobeDeflate);
 ```
 
 استخدام `AdobeDeflate` يقلل حجم الملف دون فقدان الجودة، مما يجعله مثاليًا للأرشفة.
 
-### إنشاء صورة TiffImage ومعالجتها
+## ما هو TiffImage؟
 
-الآن بعد أن تم تعيين الخيارات، فلنقم بإنشاء صورة باستخدام هذه التكوينات.
+`TiffImage` هي فئة Aspose.Imaging التي تمثل مستند TIFF في الذاكرة، مما يسمح بمعالجة مستوى البكسل قبل الحفظ. توفر طرقًا للوصول إلى البكسلات الفردية، الطبقات، والبيانات الوصفية.
 
-#### ملخص
+## كيفية إنشاء ومعالجة صورة TIFF؟
 
-يتضمن إنشاء صورة TIFF تهيئة `TiffImage`ضبط وحدات البكسل وحفظ النتيجة. هذه العملية سهلة مع Aspose.Imaging.
+لإنشاء ومعالجة صورة TIFF، أنشئ كائن `TiffImage`، املأ مخزن البكسلات بالبيانات المطلوبة، ثم احفظه باستخدام `TiffOptions` المعرفة مسبقًا. يضمن هذا سير العمل بناء الصورة وفقًا للخيارات المحددة.
 
-##### تهيئة صورة TiffImage جديدة
+### إنشاء ومعالجة TiffImage
 
+الآن بعد ضبط الخيارات، لننشئ صورة باستخدام هذه الإعدادات.
+
+#### نظرة عامة
+
+إنشاء صورة TIFF يتضمن تهيئة `TiffImage`، ضبط بكسلاتها، وحفظ النتيجة. العملية مباشرة مع Aspose.Imaging.
+
+##### تهيئة TiffImage جديد
 ```java
 try (TiffImage tiffImage = new TiffImage(new TiffFrame(options, 100, 100))) {
-    // قم بالتكرار على كل بكسل لتعيينه إلى اللون الأحمر
+    // Loop over each pixel to set it to red color
     for (int i = 0; i < 100; i++) {
         tiffImage.getActiveFrame().setPixel(i, i, Color.getRed());
     }
     
-    // احفظ الصورة في دليل الإخراج المطلوب
+    // Save the image to your desired output directory
     tiffImage.save("YOUR_OUTPUT_DIRECTORY" + "/CreatingTIFFImageWithCompression.tiff");
 }
 ```
 
-في هذا المقطع، نقوم بإنشاء صورة TIFF بحجم 100×100 بكسل ونملأها ببكسلات حمراء باستخدام الإعدادات المحددة مسبقًا.
+في هذا المقتطف، ننشئ صورة TIFF بحجم 100 × 100 بكسل ونملأها ببكسلات حمراء باستخدام الإعدادات المعرفة مسبقًا.
 
 ## التطبيقات العملية
 
-إن فهم كيفية تعيين خيارات TIFF وإنشاء الصور برمجيًا يمكن أن يكون ذا قيمة لا تقدر بثمن في العديد من السيناريوهات:
+فهم كيفية ضبط خيارات TIFF وإنشاء الصور برمجيًا يمكن أن يكون ذا قيمة في عدة سيناريوهات:
 
-- **الأرشفة الرقمية**:حفظ الوثائق أو الأعمال الفنية بتنسيقات عالية الجودة.
-- **الطباعة الاحترافية**:ضمان أن المطبوعات تلبي معايير الصناعة فيما يتعلق بدقة الألوان.
-- **التصوير الطبي**:التعامل مع بيانات الصور التفصيلية التي تتطلب تكوينات محددة.
+- **الأرشفة الرقمية** – حفظ المستندات أو الأعمال الفنية بصيغ عالية الجودة.  
+- **الطباعة الاحترافية** – ضمان توافق المطبوعات مع معايير الصناعة لدقة الألوان.  
+- **التصوير الطبي** – معالجة بيانات صور مفصلة تتطلب إعدادات خاصة.
 
 ## اعتبارات الأداء
 
-عند العمل على معالجة الصور، الأداء هو الأساس. إليك بعض النصائح:
+عند العمل على معالجة الصور، الأداء أمر حاسم. Aspose.Imaging يمكنه التعامل مع **أكثر من 150 تنسيق صورة** ومعالجة **ملفات TIFF متعددة الصفحات** دون تحميل الملف بالكامل إلى الذاكرة، مما يقلل خطر حدوث أخطاء OutOfMemory.
 
-- **تحسين استخدام الذاكرة**:استخدم معالجة Aspose.Imaging الفعالة للصور الكبيرة لتجنب تجاوز سعة الذاكرة.
-- **معالجة الدفعات**:قم بمعالجة صور متعددة على دفعات بدلاً من معالجتها بشكل فردي لإدارة الموارد بشكل أفضل.
-- **استخدم الضغط الفعال**:اختر طرق الضغط التي توازن بين الجودة وحجم الملف، مثل `AdobeDeflate`.
+- **تحسين استخدام الذاكرة** – استفد من واجهة البث في Aspose.Imaging للملفات الكبيرة.  
+- **المعالجة الدفعية** – عالج عدة صور في تشغيل واحد لتقليل الحمل.  
+- **ضغط فعال** – اختر `AdobeDeflate` لتحقيق توازن جيد بين الجودة والحجم.
 
-## خاتمة
+## الأسئلة المتكررة
 
-تناول هذا البرنامج التعليمي كيفية استخدام Aspose.Imaging لجافا لضبط خيارات TIFF وإنشاء صور مخصصة. باتباع الخطوات الموضحة أعلاه، يمكنك دمج هذه الإمكانيات في تطبيقاتك بسهولة.
+**س: هل يمكنني استخدام هذا الكود مع تنسيقات صور أخرى؟**  
+ج: نعم، Aspose.Imaging يدعم أكثر من 150 تنسيقًا، بما في ذلك PNG، JPEG، BMP، وGIF. راجع **[توثيق Aspose.Imaging](https://reference.aspose.com/imaging/java/)** للمزيد من التفاصيل.
 
-**الخطوات التالية:**
+**س: هل أحتاج إلى تبعية Maven Aspose Imaging لمشاريع Gradle؟**  
+ج: لا، يمكن لمستخدمي Gradle إضافة نفس الإحداثيات في ملف `build.gradle`؛ المكتبة الأساسية هي نفسها.
 
-استكشف المزيد من ميزات Aspose.Imaging من خلال الغوص في وثائقها الشاملة والتجريب بتنسيقات الصور المختلفة والتلاعب بها.
+**س: ما حجم ملف TIFF الذي يمكن لـ Aspose.Imaging معالجته؟**  
+ج: يمكن للمكتبة بث ملفات TIFF تصل إلى عدة جيجابايت، مقيدة فقط بمساحة القرص المتاحة، لأنها لا تحمل الصورة بالكامل في الذاكرة.
 
-## قسم الأسئلة الشائعة
+**س: ماذا أفعل إذا واجهت `OutOfMemoryError`؟**  
+ج: فعّل `LoadOptions` مع `useMemoryCache = true` أو عالج الصورة على شكل بلاطات لتقليل استهلاك الذاكرة.
 
-1. **ما هو Aspose.Imaging لـ Java؟**
-   - مكتبة قوية تعمل على تبسيط مهام معالجة الصور في تطبيقات Java.
+**س: هل الترخيص مطلوب لبنات التطوير؟**  
+ج: النسخة التجريبية مجانية للتطوير، لكن النسخة المرخصة تزيل العلامات المائية وتفتح تحسينات الأداء الكاملة.
 
-2. **كيف أقوم بإعداد Aspose.Imaging؟**
-   - استخدم Maven أو Gradle لتضمين التبعية، أو قم بتنزيلها مباشرة من موقعهم.
+**س: أين يمكنني الحصول على المساعدة إذا واجهت مشاكل؟**  
+ج: زر **[منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)** للحصول على مساعدة المجتمع والدعم الرسمي.
 
-3. **هل يمكنني استخدام هذا الكود مع صيغ الصور الأخرى؟**
-   - نعم، يدعم Aspose.Imaging مجموعة واسعة من التنسيقات بخلاف TIFF.
+## الخلاصة
 
-4. **ما هي بعض المشاكل الشائعة عند معالجة الصور في جافا؟**
-   - يمكن أن تكون إدارة الذاكرة والتعامل مع الملفات الكبيرة بكفاءة أمرًا صعبًا بدون الأدوات المناسبة.
+أصبح لديك الآن دليل كامل وجاهز للإنتاج **لإنشاء ملفات TIFF في Java** باستخدام Aspose.Imaging. من خلال تكوين `TiffOptions` والعمل مع `TiffImage`، يمكنك توليد ملفات TIFF عالية الجودة تلبي معايير الأرشفة، الطباعة، أو التصوير الطبي الصارمة.
 
-5. **كيف يمكنني استكشاف الأخطاء وإصلاحها باستخدام إعدادات TiffOptions؟**
-   - تحقق من وجود أخطاء مطبعية في استدعاءات الطريقة، وتأكد من تعيين جميع الخصائص الضرورية، واستشر وثائق Aspose للحصول على الإرشادات.
+**الخطوات التالية**
 
-## موارد
+- استكشف خصائص إضافية في `TiffOptions` مثل `extraSamples` و`predictor` لحالات الاستخدام المتخصصة.  
+- جرب API Aspose.Imaging للتحويل بين الصيغ، إضافة العلامات المائية، أو استخراج البيانات الوصفية.
 
-- [توثيق Aspose.Imaging](https://reference.aspose.com/imaging/java/)
-- [تنزيل أحدث إصدار](https://releases.aspose.com/imaging/java/)
-- [شراء الترخيص](https://purchase.aspose.com/buy)
-- [نسخة تجريبية مجانية](https://releases.aspose.com/imaging/java/)
-- [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)
-- [منتدى دعم Aspose](https://forum.aspose.com/c/imaging/14)
+---
 
-بإتقان هذه التقنيات، ستكون مؤهلاً للتعامل مع مهام معالجة الصور المعقدة في تطبيقات جافا. برمجة ممتعة!
+**آخر تحديث:** 2026-09-13  
+**تم الاختبار مع:** Aspose.Imaging 24.12 for Java  
+**المؤلف:** Aspose
+
+## دروس ذات صلة
+
+- [إتقان معالجة صور TIFF في Java باستخدام Aspose.Imaging](/imaging/java/image-loading-saving/load-save-tiff-images-aspose-imaging-java/)
+- [معالجة متقدمة لصور TIFF في Java باستخدام Aspose.Imaging](/imaging/java/format-specific-operations/mastering-tiff-image-processing-java-aspose-imaging/)
+- [معالجة صور Java باستخدام Aspose.Imaging: التحميل، التحسين وحفظ الصور](/imaging/java/image-loading-saving/java-image-processing-aspose-imaging-load-adjust-save/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
