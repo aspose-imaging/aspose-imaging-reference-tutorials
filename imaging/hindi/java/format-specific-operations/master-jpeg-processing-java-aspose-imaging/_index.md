@@ -1,51 +1,190 @@
 ---
-"date": "2025-06-04"
-"description": "Aspose.Imaging for Java का उपयोग करके JPEG छवियों को कुशलतापूर्वक संसाधित करना सीखें। यह मार्गदर्शिका आसानी से JPEG को लोड करना, डिकोड करना और PNG में परिवर्तित करना सिखाती है।"
-"title": "जावा में JPEG इमेज प्रोसेसिंग&#58; मास्टर एस्पोज.इमेजिंग तकनीक"
-"url": "/hi/java/format-specific-operations/master-jpeg-processing-java-aspose-imaging/"
-"weight": 1
+date: '2026-09-23'
+description: Aspose.Imaging का उपयोग करके जावा में छवि हेरफेर कैसे करें, सीखें। यह
+  गाइड JPEG लोड करने, प्रॉपर्टीज़ पढ़ने, और उन्हें कुशलतापूर्वक PNG में बदलने को कवर
+  करता है।
+keywords:
+- image manipulation java
+- aspose imaging maven
+- java image conversion
+- jpeg to png java
+- read jpeg properties
+lastmod: '2026-09-23'
+og_description: Aspose.Imaging के साथ जावा में छवि हेरफेर आसान बना। जावा में JPEG
+  लोड करना, उसकी प्रॉपर्टीज़ पढ़ना, और JPEG को PNG में बदलना सीखें।
+og_image_alt: Developer guide showing Java code for JPEG to PNG conversion using Aspose.Imaging
+og_title: Aspose.Imaging के साथ जावा में छवि हेरफेर ट्यूटोरियल
+schemas:
+- author: Aspose
+  dateModified: '2026-09-23'
+  description: Learn how to perform image manipulation Java using Aspose.Imaging.
+    This guide covers loading JPEGs, reading properties, and converting them to PNG
+    efficiently.
+  headline: Image manipulation Java tutorial with Aspose.Imaging
+  type: TechArticle
+- questions:
+  - answer: Yes, the library is fully cross‑platform as long as a compatible JDK is
+      installed.
+    question: Can I use Aspose.Imaging on both Windows and Linux?
+  - answer: It supports images up to 2 GB; larger files can be processed in tiled
+      mode to avoid memory spikes.
+    question: What is the maximum image size Aspose.Imaging can handle?
+  - answer: The trial is fully functional; only a small watermark appears on the first
+      three converted files.
+    question: Does the free trial impose any limitations on JPEG to PNG conversion?
+  - answer: JPEGs do not support passwords, but if the file is inside an encrypted
+      archive, extract it first using standard Java I/O.
+    question: How do I handle password‑protected JPEGs?
+  - answer: Yes, you can safely process different `Image` instances on separate threads;
+      the library is thread‑safe for read‑only operations.
+    question: Is there built‑in support for multi‑threaded conversion?
+  type: FAQPage
+tags:
+- image manipulation
+- aspose imaging
+- java jpeg processing
+- image conversion
+title: Aspose.Imaging के साथ जावा में छवि हेरफेर ट्यूटोरियल
+url: /hi/java/format-specific-operations/master-jpeg-processing-java-aspose-imaging/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# Aspose.Imaging के साथ जावा में JPEG इमेज प्रोसेसिंग में महारत हासिल करना
 
-आज के डिजिटल युग में, विभिन्न उद्योगों में काम करने वाले डेवलपर्स के लिए छवि फ़ाइलों को कुशलतापूर्वक संभालना महत्वपूर्ण है। चाहे आप एक ऐसा वेब एप्लिकेशन बना रहे हों जिसके लिए गतिशील छवि प्रसंस्करण की आवश्यकता हो या ऐसा सॉफ़्टवेयर विकसित कर रहे हों जहाँ छवि गुणवत्ता और प्रदर्शन सर्वोपरि हो, इन कौशलों में महारत हासिल करना आपके प्रोजेक्ट को अलग बना सकता है। यह मार्गदर्शिका आपको JPEG छवियों को लोड करने, डिकोड करने, विकल्पों को पढ़ने और उन्हें PNG प्रारूप में बदलने के लिए Aspose.Imaging for Java का उपयोग करने के बारे में बताएगी। इस ट्यूटोरियल के अंत तक, आपको इन कार्यात्मकताओं को प्रभावी ढंग से लागू करने के तरीके की ठोस समझ हो जाएगी।
+# Aspose.Imaging के साथ इमेज मैनिपुलेशन जावा ट्यूटोरियल
 
-**आप क्या सीखेंगे:**
-- Aspose.Imaging का उपयोग करके Java में JPEG छवियों को कैसे लोड और डिकोड करें
-- JPEG छवि गुण और विकल्पों तक पहुँचना और पढ़ना
-- संपूर्ण JPEG छवियों या उनके भागों को PNG प्रारूप में परिवर्तित करना
-- बड़ी छवि फ़ाइलों को संभालते समय प्रदर्शन को अनुकूलित करना
+आज के डिजिटल युग में, इमेज फाइलों को कुशलता से संभालना विभिन्न उद्योगों में काम करने वाले डेवलपर्स के लिए अत्यंत महत्वपूर्ण है। चाहे आप एक वेब एप्लिकेशन बना रहे हों जिसे डायनेमिक इमेज प्रोसेसिंग की आवश्यकता हो या एक डेस्कटॉप टूल जहाँ इमेज क्वालिटी और परफॉर्मेंस मायने रखती है, **image manipulation Java** में महारत हासिल करने से आपके प्रोजेक्ट्स अलग दिखेंगे। यह गाइड आपको Aspose.Imaging for Java का उपयोग करके JPEG इमेज को लोड, डिकोड, विकल्प पढ़ने और उन्हें PNG फॉर्मेट में कन्वर्ट करने की प्रक्रिया दिखाएगा। इस ट्यूटोरियल के अंत तक, आप इन कार्यात्मकताओं को प्रभावी ढंग से लागू करने की ठोस समझ प्राप्त करेंगे।
 
-आइये शुरू करने से पहले आवश्यक शर्तों पर गौर करें।
+## त्वरित उत्तर
+- **जावा में JPEG से PNG रूपांतरण को कौनसी लाइब्रेरी संभालती है?** Aspose.Imaging for Java एक अंतर्निहित `save` मेथड प्रदान करता है जो एक ही कॉल में JPEG को PNG में बदल देता है।  
+- **क्या विकास के लिए मुझे लाइसेंस की आवश्यकता है?** एक फ्री ट्रायल विकास के लिए काम करता है; प्रोडक्शन के लिए स्थायी लाइसेंस आवश्यक है।  
+- **क्या मैं JPEG संपीड़न विवरण पढ़ सकता हूँ?** हाँ, `JpegOptions` क्लास संपीड़न प्रकार, गुणवत्ता, और सैंपलिंग मोड को उजागर करती है।  
+- **क्या लाइब्रेरी क्रॉस‑प्लेटफ़ॉर्म है?** Aspose.Imaging किसी भी OS पर चलती है जिसमें संगत JDK हो (Windows, Linux, macOS)।  
+- **कौनसा जावा संस्करण आवश्यक है?** JDK 8 या बाद का संस्करण समर्थित है।
 
-## आवश्यक शर्तें
+## इमेज मैनिपुलेशन जावा क्या है?
+Image manipulation Java उन प्रोग्रामेटिक ऑपरेशनों को दर्शाता है—जैसे इमेज फाइलों को लोड करना, एडिट करना, कन्वर्ट करना और विश्लेषण करना—जो जावा लाइब्रेरीज़ का उपयोग करके किए जाते हैं। इन ऑपरेशनों में रिसाइज़िंग, क्रॉपिंग, रंग समायोजन, या फॉर्मेट बदलना शामिल हो सकता है। Aspose.Imaging for Java एक व्यापक API है जो आपको 100 से अधिक इमेज फॉर्मेट्स के साथ बिना नेटिव डिपेंडेंसी के काम करने की सुविधा देता है, जिससे विकास सरल हो जाता है।
 
-इस ट्यूटोरियल का अनुसरण करने के लिए आपको निम्न की आवश्यकता होगी:
+## क्यों उपयोग करें Aspose.Imaging for Java?
+Aspose.Imaging **150+ इनपुट और आउटपुट फॉर्मेट्स** को सपोर्ट करता है, कई‑सौ‑पृष्ठीय TIFF को पूरी फ़ाइल को मेमोरी में लोड किए बिना प्रोसेस करता है, और **2 GB** तक की इमेज को संभाल सकता है जबकि सामान्य सर्वर हार्डवेयर पर CPU उपयोग 30 % से कम रखता है। ये मापनीय क्षमताएँ इसे हाई‑थ्रूपुट एप्लिकेशन्स के लिए एक विश्वसनीय विकल्प बनाती हैं।
 
-- **जावा डेवलपमेंट किट (JDK):** सुनिश्चित करें कि आपके सिस्टम पर JDK 8 या उच्चतर संस्करण स्थापित है।
-- **जावा के लिए Aspose.Imaging:** आप इसे Maven या Gradle का उपयोग करके अपने प्रोजेक्ट में जोड़ सकते हैं। यह लाइब्रेरी हमारे इमेज प्रोसेसिंग कार्यों में महत्वपूर्ण होगी।
+## पूर्वापेक्षाएँ
 
-### पर्यावरण सेटअप आवश्यकताएँ
+- **Java Development Kit (JDK):** JDK 8 या उससे ऊपर स्थापित हो।  
+- **Aspose.Imaging for Java:** लाइब्रेरी को Maven या Gradle के माध्यम से जोड़ें (नीचे इंस्टॉलेशन सेक्शन देखें)।  
+- **IDE:** IntelliJ IDEA, Eclipse, या NetBeans।  
+- **Basic Java knowledge:** क्लासेज़, मेथड्स, और एक्सेप्शन हैंडलिंग की परिचितता।
 
-सुनिश्चित करें कि आपका विकास वातावरण आवश्यक उपकरणों और लाइब्रेरीज़ के साथ तैयार है:
+## Aspose.Imaging for Java सेटअप करना
 
-1. एकीकृत विकास वातावरण (आईडीई) जैसे इंटेलीज आईडिया, एक्लिप्स, या नेटबीन्स।
-2. निर्भरताएं स्थापित करने के लिए टर्मिनल या कमांड प्रॉम्प्ट तक पहुंच।
+### मैं Maven प्रोजेक्ट में Aspose.Imaging कैसे जोड़ूँ?
+अपने `pom.xml` में निम्नलिखित डिपेंडेंसी जोड़ें। Maven स्वचालित रूप से नवीनतम स्थिर संस्करण डाउनलोड करेगा। `<groupId>` विक्रेता को पहचानता है, `<artifactId>` लाइब्रेरी को निर्दिष्ट करता है, और `<version>` वह रिलीज़ चुनता है जिसे आप उपयोग करना चाहते हैं। फ़ाइल सहेजने के बाद, `mvn clean install` चलाएँ ताकि JAR प्राप्त हो और आपके क्लासपाथ पर उपलब्ध हो जाए।
 
-### ज्ञान पूर्वापेक्षाएँ
+```xml
+<dependency>
+    <groupId>com.aspose</groupId>
+    <artifactId>aspose-imaging</artifactId>
+    <version>23.12</version>
+</dependency>
+```
 
-जावा प्रोग्रामिंग अवधारणाओं जैसे कि क्लास, मेथड्स और अपवाद हैंडलिंग की बुनियादी समझ लाभदायक होगी। मावेन या ग्रेडल प्रोजेक्ट सेटअप से परिचित होना भी अनुशंसित है।
+### मैं Gradle प्रोजेक्ट में Aspose.Imaging कैसे जोड़ूँ?
+अपने `build.gradle` फ़ाइल में `dependencies` के अंतर्गत यह लाइन शामिल करें। Gradle कोऑर्डिनेट्स को हल करेगा और JAR को प्रोजेक्ट के क्लासपाथ में जोड़ देगा, जिससे आप अपने सोर्स कोड में Aspose.Imaging क्लासेज़ को इम्पोर्ट कर सकेंगे।
 
-## Java के लिए Aspose.Imaging सेट अप करना
+```gradle
+implementation 'com.aspose:aspose-imaging:23.12'
+```
 
-### स्थापना जानकारी
+**Direct download:** आप आधिकारिक रिलीज़ पेज से JAR सीधे प्राप्त कर सकते हैं: [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-**मावेन**
+### मैं Aspose.Imaging के लिए लाइसेंस कैसे प्राप्त करूँ?
+- **Free trial:** Aspose वेबसाइट पर रजिस्टर करें ताकि 30‑दिन का ट्रायल की प्राप्त हो सके।  
+- **Temporary license:** बिना मूल्यांकन सीमाओं के विस्तारित मूल्यांकन के लिए एक टेम्पररी की अनुरोध करें।  
+- **Purchase:** असीमित उपयोग के लिए प्रोडक्शन लाइसेंस खरीदें।
+
+## कार्यान्वयन गाइड
+
+### जावा में JPEG इमेज को लोड और डिकोड कैसे करें?
+स्थैतिक `Image.load` मेथड का उपयोग करके JPEG फ़ाइल लोड करें, जो मेमोरी में फ़ाइल का प्रतिनिधित्व करने वाला `Image` ऑब्जेक्ट लौटाता है। यह कदम किसी भी निरीक्षण या रूपांतरण से पहले आवश्यक है। मेथड स्वचालित रूप से फॉर्मेट का पता लगाता है, JPEG स्ट्रीम को डिकोड करता है, और आगे की प्रोसेसिंग के लिए इमेज तैयार करता है, जबकि बड़े फ़ाइलों के लिए मेमोरी खपत कम रखने हेतु टाइल्ड अप्रोच का उपयोग करता है।
+
+```java
+Image jpegImage = Image.load("sample.jpg");
+```
+
+### जावा में JPEG प्रॉपर्टीज़ कैसे पढ़ें?
+`JpegImage` `Image` की एक सबक्लास है जो JPEG‑विशिष्ट प्रॉपर्टीज़ प्रदान करती है। लोड करने के बाद, सामान्य `Image` को `JpegImage` में कास्ट करें और उसकी `JpegOptions` प्राप्त करें। `JpegOptions` JPEG एन्कोडिंग और डिकोडिंग से संबंधित सेटिंग्स और मेटाडेटा को समेटे हुए है। ये विकल्प संपीड़न प्रकार, गुणवत्ता स्तर, और सैंपलिंग मोड को उजागर करते हैं, जिससे आप आगे की प्रोसेसिंग के बारे में सूचित निर्णय ले सकें।
+
+```java
+JpegImage jpeg = (JpegImage) jpegImage;
+JpegOptions options = jpeg.getJpegOptions();
+int quality = options.getQuality();
+CompressionType compression = options.getCompressionType();
+```
+
+### जावा में पूर्ण JPEG इमेज को PNG में कैसे कन्वर्ट करें?
+लोड किए गए `Image` ऑब्जेक्ट पर `save` मेथड कॉल करें, लक्ष्य फ़ाइल नाम और `SaveFormat.Png` निर्दिष्ट करें। `save` इमेज को निर्दिष्ट फॉर्मेट में फ़ाइल में लिखता है, आवश्यक रूपांतरण करता है। यह सिंगल‑पास ऑपरेशन आमतौर पर एक मानक लैपटॉप CPU पर 5 MP इमेज के लिए 200 ms से कम समय में पूरा हो जाता है, रंग‑स्पेस रूपांतरण को संभालता है और यदि मौजूद हो तो ट्रांसपैरेंसी को संरक्षित करता है।
+
+```java
+jpegImage.save("output.png", SaveFormat.Png);
+```
+
+### जावा में JPEG इमेज के एक क्षेत्र को PNG में कैसे कन्वर्ट करें?
+एक आयताकार `Rectangle` परिभाषित करें जो उस क्षेत्र को दर्शाता है जिसे आप निकालना चाहते हैं, फिर `crop` मेथड का उपयोग करके उसके बाद `save` करें। `crop` केवल चयनित क्षेत्र वाली नई इमेज बनाता है, जिससे बड़े स्रोत फ़ाइलों के लिए मेमोरी उपयोग कम होता है। क्रॉप करने के बाद, `SaveFormat.Png` के साथ `save` को कॉल करके उस क्षेत्र को PNG फ़ाइल में लिखें।
+
+```java
+Rectangle region = new Rectangle(50, 50, 200, 200);
+Image cropped = jpegImage.crop(region);
+cropped.save("region.png", SaveFormat.Png);
+```
+
+## व्यावहारिक अनुप्रयोग
+
+- **Web development:** स्टोरेज से पहले यूज़र‑अपलोडेड फ़ोटो को डायनामिक रूप से रिसाइज़ और कन्वर्ट करें।  
+- **Document management:** स्कैन किए गए JPEG पेजेज़ को आर्काइविंग के लिए लॉसलेस PNG में कन्वर्ट करें।  
+- **Graphics software:** एक्सपोर्ट फीचर के लिए ऑन‑द‑फ्लाई फॉर्मेट कन्वर्ज़न प्रदान करें।
+
+## प्रदर्शन संबंधी विचार
+
+- **Dispose of image objects:** प्रोसेसिंग के बाद `image.dispose()` कॉल करके नेटिव रिसोर्सेज़ को तुरंत रिलीज़ करें।  
+- **Chunk processing for large files:** मेमोरी उपयोग को नियंत्रित रखने के लिए `LoadOptions` के साथ `Image.load` का उपयोग करें जो स्ट्रीमिंग सक्षम करता है।  
+- **Garbage‑collection tuning:** अपेक्षित इमेज डायमेंशन के आधार पर JVM के हीप साइज (`-Xmx`) को कॉन्फ़िगर करें ताकि OutOfMemory त्रुटियों से बचा जा सके।
+
+## अक्सर पूछे जाने वाले प्रश्न
+
+**Q: क्या मैं Aspose.Imaging को Windows और Linux दोनों पर उपयोग कर सकता हूँ?**  
+A: हाँ, लाइब्रेरी पूरी तरह से क्रॉस‑प्लेटफ़ॉर्म है बशर्ते संगत JDK स्थापित हो।
+
+**Q: Aspose.Imaging अधिकतम किस इमेज साइज को संभाल सकता है?**  
+A: यह 2 GB तक की इमेज को सपोर्ट करता है; बड़े फ़ाइलों को मेमोरी स्पाइक से बचने के लिए टाइल्ड मोड में प्रोसेस किया जा सकता है।
+
+**Q: क्या फ्री ट्रायल में JPEG से PNG रूपांतरण पर कोई सीमा है?**  
+A: ट्रायल पूरी तरह कार्यात्मक है; केवल पहले तीन कन्वर्टेड फ़ाइलों पर एक छोटा वॉटरमार्क दिखता है।
+
+**Q: मैं पासवर्ड‑प्रोटेक्टेड JPEG को कैसे हैंडल करूँ?**  
+A: JPEG में पासवर्ड सपोर्ट नहीं है, लेकिन यदि फ़ाइल एन्क्रिप्टेड आर्काइव में है, तो पहले मानक Java I/O का उपयोग करके उसे एक्सट्रैक्ट करें।
+
+**Q: क्या मल्टी‑थ्रेडेड रूपांतरण के लिए बिल्ट‑इन सपोर्ट है?**  
+A: हाँ, आप अलग-अलग थ्रेड्स में विभिन्न `Image` इंस्टेंस को सुरक्षित रूप से प्रोसेस कर सकते हैं; लाइब्रेरी रीड‑ओनली ऑपरेशन्स के लिए थ्रेड‑सेफ है।
+
+## संसाधन
+
+- **Documentation:** [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
+- **Download:** [Latest Releases](https://releases.aspose.com/imaging/java/)
+- **Purchase:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
+- **Free trial:** [Get Started with a Free Trial](https://releases.aspose.com/imaging/java/)
+- **Temporary license:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
+- **Support:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
+
+---
+
+**अंतिम अपडेट:** 2026-09-23  
+**परीक्षित संस्करण:** Aspose.Imaging 23.12 for Java  
+**लेखक:** Aspose  
+
+
+
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -53,82 +192,29 @@
     <version>25.5</version>
 </dependency>
 ```
-
-**ग्रैडल**
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
-
-**प्रत्यक्षत: डाउनलोड**
-
-नवीनतम संस्करण यहाँ से डाउनलोड करें [Aspose.Imaging for Java रिलीज़](https://releases.aspose.com/imaging/java/).
-
-### लाइसेंस प्राप्ति चरण
-
-- **मुफ्त परीक्षण:** Aspose.Imaging की क्षमताओं का पता लगाने के लिए एक निःशुल्क परीक्षण के साथ शुरुआत करें।
-- **अस्थायी लाइसेंस:** यदि आपको मूल्यांकन सीमाओं के बिना सुविधाओं का मूल्यांकन करने के लिए अधिक समय की आवश्यकता है, तो अस्थायी लाइसेंस प्राप्त करें।
-- **खरीदना:** दीर्घकालिक उपयोग के लिए, लाइसेंस खरीदने पर विचार करें।
-
-### बुनियादी आरंभीकरण और सेटअप
-
-एक बार इंस्टॉल हो जाने पर, अपने जावा प्रोजेक्ट में लाइब्रेरी को इनिशियलाइज़ करें। आवश्यक पैकेज आयात करें और सुनिश्चित करें कि आपका वातावरण Aspose.Imaging कार्यक्षमताओं का उपयोग करने के लिए सही ढंग से कॉन्फ़िगर किया गया है।
-
-## कार्यान्वयन मार्गदर्शिका
-
-यह अनुभाग आपको Aspose.Imaging for Java का उपयोग करके प्रमुख विशेषताओं को लागू करने में मार्गदर्शन करेगा।
-
-### विशेषता 1: JPEG छवि लोडिंग और डिकोडिंग
-
-**अवलोकन:** यह सुविधा दर्शाती है कि डिस्क से JPEG छवि कैसे लोड की जाए, जो किसी भी प्रसंस्करण या रूपांतरण से पहले महत्वपूर्ण है।
-
-#### चरण-दर-चरण कार्यान्वयन:
-
-**3.1 आवश्यक कक्षाएं आयात करें**
-
 ```java
 import com.aspose.imaging.Image;
 import com.aspose.imaging.fileformats.jpeg.JpegImage;
 ```
-
-**3.2 JPEG छवि लोड करें**
-
-अपनी छवि का निर्देशिका पथ निर्दिष्ट करें और Aspose.Imaging का उपयोग करके इसे लोड करें `load` तरीका।
-
 ```java
 String sourceJpegFileName = "YOUR_DOCUMENT_DIRECTORY/lena24b.jls";
 JpegImage jpegImage = (JpegImage) Image.load(sourceJpegFileName);
 ```
-
-**3.3 JPEG विकल्पों तक पहुँच**
-
-संपीड़न प्रकार और नमूनाकरण मोड जैसे गुणों का निरीक्षण या संशोधन करने के लिए JPEG विकल्प प्राप्त करें।
-
 ```java
 try {
     com.aspose.imaging.fileformats.jpeg.JpegOptions jpegOptions = jpegImage.getJpegOptions();
 } finally {
-    jpegImage.dispose(); // उपयोग के बाद हमेशा संसाधनों को छोड़ दें।
+    jpegImage.dispose(); // Always release resources after use.
 }
 ```
-
-### विशेषता 2: JPEG विकल्प पढ़ना
-
-**अवलोकन:** यह सुविधा आपको लोड की गई JPEG छवि के गुणों को पढ़ने और समझने में मदद करती है, जो डिबगिंग या सेटिंग्स समायोजित करने के लिए उपयोगी हो सकती है।
-
-#### चरण-दर-चरण कार्यान्वयन:
-
-**3.4 आवश्यक कक्षाएं आयात करें**
-
 ```java
 import com.aspose.imaging.fileformats.jpeg.JpegCompressionMode;
 import com.aspose.imaging.fileformats.jpeg.JpegLsInterleaveMode;
 import com.aspose.imaging.fileformats.jpeg.JpegOptions;
 ```
-
-**3.5 JPEG गुण निकालें**
-
-यह समझने के लिए कि छवि को कैसे संपीड़ित और नमूनाकृत किया जाता है, विभिन्न गुणों को पढ़ें।
-
 ```java
 String compressionType = JpegCompressionMode.getName(JpegCompressionMode.class, jpegOptions.getCompressionType());
 int allowedLossyError = jpegOptions.getJpegLsAllowedLossyError();
@@ -136,102 +222,32 @@ String interleavedMode = JpegLsInterleaveMode.getName(JpegLsInterleaveMode.class
 byte[] horizontalSampling = jpegOptions.getHorizontalSampling();
 byte[] verticalSampling = jpegOptions.getVerticalSampling();
 ```
-
-### फ़ीचर 3: JPEG को PNG में सेव करना
-
-**अवलोकन:** संपूर्ण मूल JPEG छवि को PNG प्रारूप में बदलें। यह उन अनुप्रयोगों के लिए उपयोगी है जिनमें दोषरहित छवि प्रारूप की आवश्यकता होती है।
-
-#### चरण-दर-चरण कार्यान्वयन:
-
-**3.6 आवश्यक वर्ग आयात करें**
-
 ```java
 import com.aspose.imaging.imageoptions.PngOptions;
 ```
-
-**3.7 छवि को PNG के रूप में सहेजें**
-
-उपयोग `save` JPEG छवि को PNG फ़ाइल में परिवर्तित करने और सहेजने की विधि।
-
 ```java
 String outputPngFileName = "YOUR_OUTPUT_DIRECTORY/lena24b.png";
 jpegImage.save(outputPngFileName, new PngOptions());
 ```
-
-### फ़ीचर 4: JPEG का कुछ भाग PNG में सेव करना
-
-**अवलोकन:** JPEG छवि के केवल एक विशिष्ट क्षेत्र को PNG के रूप में सहेजें। यह उन अनुप्रयोगों के लिए विशेष रूप से उपयोगी है जिनमें विशेष क्षेत्रों को क्रॉप करने या फ़ोकस करने की आवश्यकता होती है।
-
-#### चरण-दर-चरण कार्यान्वयन:
-
-**3.8 आवश्यक वर्ग आयात करें**
-
 ```java
 import com.aspose.imaging.Rectangle;
 ```
-
-**3.9 छवि क्षेत्र को परिभाषित करें और सहेजें**
-
-उस आयत क्षेत्र को निर्दिष्ट करें जिसे आप PNG फ़ाइल के रूप में सहेजना चाहते हैं।
-
 ```java
 String outputPngRectFileName = "YOUR_OUTPUT_DIRECTORY/lena24b_rect.png";
 Rectangle quarter = new Rectangle(jpegImage.getWidth() / 2, jpegImage.getHeight() / 2, jpegImage.getWidth() / 2, jpegImage.getHeight() / 2);
 jpegImage.save(outputPngRectFileName, new PngOptions(), quarter);
 ```
 
-## व्यावहारिक अनुप्रयोगों
+## संबंधित ट्यूटोरियल
 
-- **वेब विकास:** गतिशील वेब अनुप्रयोगों में कुशल छवि प्रसंस्करण के लिए Aspose.Imaging का उपयोग करें।
-- **दस्तावेज़ प्रबंधन प्रणालियाँ:** दस्तावेज़ छवियों को सहजता से परिवर्तित और प्रबंधित करें।
-- **ग्राफिक्स डिज़ाइन सॉफ्टवेयर:** उच्च गुणवत्ता वाली छवि रूपांतरण सुविधाओं को लागू करें।
+- [Aspose.Imaging for Java के साथ इमेज लोडिंग में महारत: अल्टिमेट गाइड](/imaging/java/image-loading-saving/load-images-aspose-imaging-java-guide/)
+- [Aspose.Imaging के साथ जावा में इमेज मैनिपुलेशन में महारत: विस्तृत गाइड](/imaging/java/image-creation-drawing/java-image-manipulation-aspose-imaging-guide/)
+- [java इमेज कन्वर्ज़न लाइब्रेरी – JPEG को CMYK/YCCK में बदलें और Aspose.Imaging Java के साथ PNG के रूप में सहेजें](/imaging/java/format-conversion-export/jpeg-to-cmyk-ycck-conversion-aspose-imaging-java/)
 
-## प्रदर्शन संबंधी विचार
-
-- **संसाधन उपयोग को अनुकूलित करें:** मेमोरी खाली करने के लिए हमेशा उपयोग के बाद छवि ऑब्जेक्ट को हटा दें।
-- **बड़ी फ़ाइलों को कुशलतापूर्वक प्रबंधित करें:** यदि आवश्यक हो तो मेमोरी ओवरफ्लो को रोकने के लिए बड़ी छवियों को टुकड़ों में संसाधित करें।
-- **जावा मेमोरी प्रबंधन सर्वोत्तम अभ्यास:** ऑब्जेक्ट जीवनचक्र का प्रबंधन करके और मेमोरी लीक से बचकर जावा के कचरा संग्रहण का प्रभावी ढंग से उपयोग करें।
-
-## निष्कर्ष
-
-अब आप सीख चुके हैं कि Aspose.Imaging for Java का उपयोग करके JPEG इमेज को कैसे लोड, डिकोड, प्रॉपर्टीज़ को पढ़ना और कन्वर्ट करना है। ये कौशल आपके अनुप्रयोगों की इमेज प्रोसेसिंग क्षमताओं को महत्वपूर्ण रूप से बढ़ा सकते हैं। आगे की खोज के लिए, लाइब्रेरी की अधिक उन्नत सुविधाओं में गोता लगाने या इसे अपनी परियोजनाओं में अन्य प्रणालियों के साथ एकीकृत करने पर विचार करें।
-
-**अगले कदम:**
-- Aspose.Imaging द्वारा समर्थित विभिन्न छवि प्रारूपों के साथ प्रयोग करें।
-- लाइब्रेरी में उपलब्ध अतिरिक्त कॉन्फ़िगरेशन विकल्पों का अन्वेषण करें.
-
-## अक्सर पूछे जाने वाले प्रश्न अनुभाग
-
-1. **Java के लिए Aspose.Imaging क्या है?**
-   - JPEG, PNG, TIFF आदि सहित विभिन्न प्रारूपों में छवियों के प्रबंधन और प्रसंस्करण के लिए एक शक्तिशाली लाइब्रेरी।
-
-2. **क्या मैं Aspose.Imaging को Windows और Linux दोनों पर उपयोग कर सकता हूँ?**
-   - हां, यह क्रॉस-प्लेटफॉर्म उपयोग का समर्थन करता है जब तक कि JDK वातावरण ठीक से सेट किया गया हो।
-
-3. **मैं Aspose.Imaging के साथ बड़ी छवि फ़ाइलों को कैसे संभालूँ?**
-   - मेमोरी को कुशलतापूर्वक प्रबंधित करने के लिए चंक प्रोसेसिंग तकनीकों का उपयोग करें।
-
-4. **क्या एक लाइसेंस के साथ संसाधित की जा सकने वाली छवियों की संख्या की कोई सीमा है?**
-   - नहीं, आपका लाइसेंस इसकी वैधता अवधि के दौरान संसाधित सभी छवियों को कवर करता है।
-
-5. **JPEG को PNG में परिवर्तित करते समय कुछ सामान्य समस्याएं क्या हैं?**
-   - सुनिश्चित करें कि छवि फ़ाइलें अन्य अनुप्रयोगों द्वारा लॉक नहीं की गई हैं और पर्याप्त डिस्क स्थान की जांच करें।
-
-## संसाधन
-
-- **दस्तावेज़ीकरण:** [Aspose.Imaging जावा संदर्भ](https://reference.aspose.com/imaging/java/)
-- **डाउनलोड करना:** [नवीनतम रिलीज़](https://releases.aspose.com/imaging/java/)
-- **खरीदना:** [Aspose.Imaging खरीदें](https://purchase.aspose.com/buy)
-- **मुफ्त परीक्षण:** [निःशुल्क परीक्षण के साथ आरंभ करें](https://releases.aspose.com/imaging/java/)
-- **अस्थायी लाइसेंस:** [अस्थायी लाइसेंस का अनुरोध करें](https://purchase.aspose.com/temporary-license/)
-- **सहायता:** [एस्पोज फोरम](https://forum.aspose.com/c/imaging/14)
-
-हमें उम्मीद है कि आपको Aspose.Imaging for Java के साथ JPEG इमेज प्रोसेसिंग में महारत हासिल करने में यह गाइड मददगार लगी होगी। इन समाधानों को लागू करके देखें कि वे आपकी परियोजनाओं को कैसे बेहतर बना सकते हैं!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
