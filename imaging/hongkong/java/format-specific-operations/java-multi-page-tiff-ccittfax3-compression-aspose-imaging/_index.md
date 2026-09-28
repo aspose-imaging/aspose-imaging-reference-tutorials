@@ -1,139 +1,159 @@
 ---
-"date": "2025-06-04"
-"description": "學習使用 Java 中的 CCITTFAX3 壓縮技術，結合 Aspose.Imaging 建立多頁 TIFF 檔案。掌握高效率的文件掃描和歸檔技術。"
-"title": "使用 Aspose.Imaging 在 Java 中建立具有 CCITTFAX3 壓縮的多頁 TIFF"
-"url": "/zh-hant/java/format-specific-operations/java-multi-page-tiff-ccittfax3-compression-aspose-imaging/"
-"weight": 1
+date: '2026-09-28'
+description: 了解如何使用 ccittfax3 compression java 與 Aspose.Imaging 建立多頁 TIFF 檔案。高效掃描、存檔，並減少文件工作流程中的檔案大小。
+keywords:
+- ccittfax3 compression java
+- multi-page tiff java
+- aspose imaging tutorial
+- java image processing
+- document archiving tiff
+lastmod: '2026-09-28'
+og_description: 一步一步探索如何使用 ccittfax3 compression java 搭配 Aspose.Imaging，打造高效的多頁 TIFF
+  檔案，用於掃描與存檔。
+og_image_alt: Guide showing Java code that creates a multi-page TIFF using CCITTFAX3
+  compression
+og_title: 如何使用 ccittfax3 compression java 建立多頁 TIFF
+schemas:
+- author: Aspose
+  dateModified: '2026-09-28'
+  description: Learn how to use ccittfax3 compression java to create multi-page TIFF
+    files with Aspose.Imaging. Efficiently scan, archive, and reduce file size for
+    document workflows.
+  headline: How to create multi-page TIFF with ccittfax3 compression java
+  type: TechArticle
+- questions:
+  - answer: CCITTFAX3 is limited to monochrome data; for color use JPEG or LZW compression
+      instead.
+    question: Can I use this approach with color images?
+  - answer: Yes—the library writes each frame directly to the output stream, keeping
+      memory usage low even for thousands of pages.
+    question: Does Aspose.Imaging support streaming for huge TIFFs?
+  - answer: Load the `.lic` file with `License license = new License(); license.setLicense("Aspose.Total.Java.lic");`.
+    question: How do I apply a temporary license programmatically?
+  - answer: You can render each `TiffFrame` to a `BufferedImage` and display it in
+      a Swing component.
+    question: Is there a way to preview the TIFF before saving?
+  - answer: Aspose.Imaging supports Java 8 through Java 21, including LTS releases.
+    question: Which Java versions are officially supported?
+  type: FAQPage
+tags:
+- ccittfax3 compression
+- Aspose.Imaging
+- Java TIFF
+- image compression
+- document scanning
+title: 如何使用 ccittfax3 compression java 建立多頁 TIFF
+url: /zh-hant/java/format-specific-operations/java-multi-page-tiff-ccittfax3-compression-aspose-imaging/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# 使用 Aspose.Imaging 在 Java 中掌握 CCITTFAX3 壓縮建立多頁 TIFF
+
+# 精通使用 ccittfax3 compression java 於 Aspose.Imaging 建立多頁 TIFF
 
 ## 介紹
 
-您是否希望透過建立多頁 TIFF 檔案來有效管理文件掃描和歸檔流程？透過 Aspose.Imaging for Java 的強大功能，這項任務將變得輕而易舉。本指南將指導您使用 CCITTFAX3 壓縮建立多頁 TIFF 檔案—這種方法非常適合單色影像（例如掃描文件）。掌握這些技巧後，您將能夠有效地處理大量影像資料。
+如果您需要在保持檔案尺寸低的情況下歸檔大量掃描文件，**ccittfax3 compression java** 是首選解決方案。本教學將示範如何使用 Aspose.Imaging 在 Java 中以 CCITTFAX3 壓縮產生多頁 TIFF 檔案。您將了解為何此壓縮對單色掃描特別有效、如何設定函式庫，以及如何將每一頁加入為框架。
 
-**您將學到什麼：**
-- 在您的 Java 專案中設定 Aspose.Imaging。
-- 使用 CCITTFAX3 壓縮建立 TiffOptions。
-- 產生並配置一個新的 TiffImage 實例。
-- 載入、調整大小並將影像作為框架新增至 TIFF 檔案。
-- 儲存並優化多頁 TIFF 檔案。
+**您將學習**
+- 如何將 Aspose.Imaging 加入 Java 專案。
+- 如何為 CCITTFAX3 壓縮設定 `TiffOptions`。
+- 如何建立 `TiffImage`、調整來源圖像大小，並將其作為框架加入。
+- 如何有效地儲存最終的多頁 TIFF。
 
-讓我們深入了解如何在 Java 應用程式中實現這些功能。
+讓我們一步步走過完整實作。
 
-## 先決條件
+## 快速回答
+- **CCITTFAX3 壓縮的主要好處是什麼？** 黑白掃描的檔案大小可減少最高 80%。
+- **哪個函式庫提供內建支援？** Aspose.Imaging for Java，版本 25.5+。
+- **開發時需要授權嗎？** 免費試用授權可使用所有功能；正式上線需購買授權。
+- **可以處理數百頁嗎？** 可以——Aspose.Imaging 以串流方式處理頁面，記憶體使用量保持低。
+- **程式碼是否相容於 Java 11 及以上版本？** 完全相容；API 目標為 Java 8+。
 
-在開始之前，請確保您符合以下先決條件：
+## ccittfax3 compression java 是什麼？
+`CCITTFAX3` 是一種無損的單色壓縮演算法，專為傳真與掃描文件影像設計。它將每個像素編碼為單一位元，提供高品質輸出，同時大幅縮減檔案大小——相較未壓縮的 TIFF 常可減少 70‑80%。此特性使其成為需保留真實度的黑白文件歸檔的理想選擇。
 
-### 所需庫
-- **Aspose.Imaging for Java**：建議使用 25.5 或更高版本來存取所有當前功能。
-  
-### 環境設定要求
-- 您的機器上安裝了 Java 開發工具包 (JDK)。
-- 像 IntelliJ IDEA 或 Eclipse 這樣的 IDE。
+## 為何在此任務使用 Aspose.Imaging？
+Aspose.Imaging 支援 **100+** 種輸入與輸出格式，包括 PDF、PNG、JPEG 與 TIFF。其串流架構能處理 **數百頁** 的 TIFF 檔案，而無需將整個文件載入記憶體，非常適合大規模歸檔專案。
 
-### 知識前提
-- 對 Java 程式設計和物件導向概念有基本的了解。
-- 熟悉 Maven/Gradle 的依賴管理。
+## 前置條件
+- **Java Development Kit (JDK)** 8 或更新版本已安裝。
+- **IDE** 如 IntelliJ IDEA 或 Eclipse。
+- **Maven** 或 **Gradle** 用於相依管理。
+- 基本的 Java 知識（類別、物件、集合）。
 
 ## 設定 Aspose.Imaging for Java
+將函式庫加入您的建置檔案。
 
-要在您的專案中開始使用 Aspose.Imaging，您需要將其新增為依賴項。以下是使用不同建置工具執行此操作的方法：
-
-**Maven：**
+**Maven:**  
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-imaging</artifactId>
     <version>25.5</version>
 </dependency>
-```
+```  
 
-**Gradle：**
+**Gradle:**  
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
-```
+```  
 
 ### 直接下載
+您亦可從 [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) 下載最新的 JAR。
 
-或者，您可以直接從 [Aspose.Imaging for Java 版本](https://releases。aspose.com/imaging/java/).
+### 授權取得
+可於 [Aspose's Free Trial page](https://releases.aspose.com/imaging/java/) 取得免費試用授權。正式使用時，請於 [Aspose Purchase](https://purchase.aspose.com/temporary-license/) 購買永久授權或申請臨時授權。
 
-### 許可證獲取
-
-您可以透過造訪以下網址取得免費試用許可證，以無限制地探索所有功能 [Aspose 的免費試用頁面](https://releases.aspose.com/imaging/java/)。如需延長使用時間，請考慮購買許可證或申請臨時許可證 [Aspose 購買](https://purchase。aspose.com/temporary-license/).
+欲了解 API 詳細用法，請參閱 Aspose.Imaging for Java [documentation](https://reference.aspose.com/imaging/java/)。
 
 ### 基本初始化
-
-將 Aspose.Imaging 納入專案後，請按如下方式初始化它：
+加入相依後，請依下列方式初始化函式庫。
 
 ```java
 import com.aspose.imaging.License;
 
 License license = new License();
 license.setLicense("path_to_your_license.lic");
-```
+```  
 
-## 實施指南
+## 如何為多頁 TIFF 設定 ccittfax3 compression java？
+`TiffOptions` 是用來定義 TIFF 檔案輸出格式與壓縮設定的類別。先以 `CCITTGroup3FaxCompression` 列舉載入 `TiffOptions` 物件，接著設定輸出檔案來源。此兩步驟的設定會為單色壓縮做好寫入器準備，並確保之後加入的每一頁皆以 CCITTFAX3 演算法編碼，從而在保留影像品質的同時大幅減少檔案大小。
 
-我們將根據功能將實作分解為幾個邏輯部分。
-
-### 使用 CCITTFAX3 壓縮建立 TiffOptions
-
-#### 概述
-創建一個 `TiffOptions` 處理 TIFF 格式的單色影像時，配置 CCITTFAX3 壓縮的實例至關重要。此功能可優化儲存空間並有效保持影像品質。
-
-**步驟：**
-
-1. **使用 CCITTFAX3 初始化 TiffOptions**
-    ```java
+```java
     import com.aspose.imaging.fileformats.tiff.TiffExpectedFormat;
     import com.aspose.imaging.imageoptions.TiffOptions;
     import com.aspose.imaging.sources.FileCreateSource;
 
     TiffOptions outputSettings = new TiffOptions(TiffExpectedFormat.TiffCcittFax3);
-    ```
+    ```  
 
-2. **設定輸出文件來源**
-    ```java
-    // 將“YOUR_OUTPUT_DIRECTORY”替換為您的實際目錄路徑
+```java
+    // Replace "YOUR_OUTPUT_DIRECTORY" with your actual directory path
     outputSettings.setSource(new FileCreateSource("YOUR_OUTPUT_DIRECTORY/output.tiff", false));
-    ```
+    ```  
 
-### 建立一個新的 TiffImage 實例
+## 如何在 Java 中建立 TiffImage 實例？
+`TiffImage` 代表記憶體中的多頁 TIFF 文件，並提供操作其框架的方法。首先，定義所有頁面共用的寬度與高度。然後使用先前建立的 `TiffOptions` 例項化 `TiffImage`。`TiffImage` 物件充當各個框架的容器，讓您在儲存最終檔案前能加入、移除或重新排序頁面。
 
-#### 概述
-建立一個實例 `TiffImage` 涉及指定尺寸並利用先前配置的 `TiffOptions`。
-
-**步驟：**
-
-1. **聲明維度**
-    ```java
+```java
     final int newWidth = 500;
     final int newHeight = 500;
-    ```
+    ```  
 
-2. **建立 TiffImage 實例**
-    ```java
+```java
     import com.aspose.imaging.Image;
     import com.aspose.imaging.fileformats.tiff.TiffImage;
 
     TiffImage tiffImage = (TiffImage) Image.create(outputSettings, newWidth, newHeight);
-    ```
+    ```  
 
-### 從目錄載入並調整圖像大小
+## 如何從資料夾載入並調整來源圖像大小？
+篩選目標目錄中的 JPEG 檔案，讀取每張圖像，並將其調整大小以符合 TIFF 畫布。於加入框架前先調整大小可降低記憶體使用並加速儲存操作。將每個來源圖像轉換為所需的尺寸與像素格式，可確保頁面版面一致，並避免在將框架附加至 TIFF 文件時發生執行時錯誤。
 
-#### 概述
-載入圖像涉及從目錄讀取檔案、按擴展名過濾檔案以及調整大小以適合 TIFF 尺寸。
-
-**步驟：**
-
-1. **過濾並載入 JPG 文件**
-    ```java
+```java
     import java.io.File;
     import java.io.FilenameFilter;
 
@@ -145,10 +165,9 @@ license.setLicense("path_to_your_license.lic");
     });
 
     if (files == null) return;
-    ```
+    ```  
 
-2. **調整影像大小**
-    ```java
+```java
     import com.aspose.imaging.RasterImage;
     import com.aspose.imaging.ResizeType;
 
@@ -156,17 +175,12 @@ license.setLicense("path_to_your_license.lic");
         RasterImage image = (RasterImage) Image.load(fileEntry.getAbsolutePath());
         image.resize(newWidth, newHeight, ResizeType.NearestNeighbourResample);
     }
-    ```
+    ```  
 
-### 在多頁 TIFF 影像中新增框架
+## 如何將每張圖像作為框架加入多頁 TIFF？
+`TiffFrame` 是在 TIFF 中保存單一頁面圖像及其相關中繼資料的物件。遍歷已調整大小的圖像，建立新的 `TiffFrame`，並將其附加至 `TiffImage`。每個框架會成為最終文件中的獨立頁面，函式庫會自動處理必要的中繼資料更新，如頁數與偏移量，確保產生有效的多頁 TIFF 結構。
 
-#### 概述
-添加幀對於構建多頁 TIFF 檔案至關重要。每個幀對應一張單獨的圖像。
-
-**步驟：**
-
-1. **迭代圖像並創建框架**
-    ```java
+```java
     import com.aspose.imaging.fileformats.tiff.TiffFrame;
 
     int index = 0;
@@ -183,71 +197,66 @@ license.setLicense("path_to_your_license.lic");
         }
         index++;
     }
-    ```
+    ```  
 
-### 儲存多頁 TIFF 影像
+## 如何儲存最終的多頁 TIFF 檔案？
+在 `TiffImage` 實例上呼叫 `save` 方法，並傳入目標輸出路徑。函式庫會自動以 CCITTFAX3 壓縮寫入所有框架，並有效率地將資料串流至磁碟，同時關閉任何底層資源。儲存完成後，產生的檔案將包含所有頁面且已套用指定的壓縮，隨時可供分發或歸檔使用。
 
-#### 概述
-最後，儲存和關閉資源可確保所有變更都持久化。
-
-**步驟：**
-
-1. **儲存變更**
-    ```java
+```java
     try {
         tiffImage.save();
     } finally {
         tiffImage.close();
         outputSettings.close();
     }
-    ```
+    ```  
 
-## 實際應用
+## 實務應用
+- **文件歸檔：** 以最小的儲存開銷保存掃描的合約、發票或法律紀錄。
+- **醫學影像：** 壓縮放射影像同時保留診斷細節。
+- **印刷製作：** 產生印表機可直接使用的多頁列印工作。
 
-使用 CCITTFAX3 壓縮建立多頁 TIFF 檔案在以下幾種情況下會很有用：
+## 效能考量
+- 使用保留長寬比的 `ResizeOptions` 以避免變形。
+- 在加入框架後關閉每個 `Image` 物件，以釋放原生記憶體。
+- 對於極大量批次，請使用平行串流處理檔案，並非同步寫入每個 TIFF 段落。
 
-- **文件歸檔**：高效率儲存和存檔掃描文件。
-- **醫學影像**：為放射科維護高品質的壓縮影像。
-- **印刷服務**：準備需要多個影像頁面的大型列印作業。
+## 常見陷阱與故障排除
+- **像素格式不正確：** CCITTFAX3 僅支援 1 位元（黑白）圖像。請在調整大小前將彩色圖像轉為灰階。
+- **記憶體洩漏：** 必須對暫時的 `Image` 物件呼叫 `dispose()`，否則原生緩衝區會持續佔用。
+- **檔案大小未減少：** 請確認已設定 `TiffOptions` 的 compression 屬性，否則會使用預設（無壓縮）。
 
-## 性能考慮
+## 常見問答
+**問：我可以將此方法用於彩色圖像嗎？**  
+**答：CCITTFAX3 僅限於單色資料；若需彩色，請改用 JPEG 或 LZW 壓縮。**
 
-為確保最佳性能：
-- 使用適當的調整大小方法來保持質量，同時減少處理時間。
-- 透過在使用後及時關閉資源來有效地管理記憶體。
-- 優化檔案 I/O 操作並考慮對大型資料集進行非同步處理。
+**問：Aspose.Imaging 是否支援巨型 TIFF 的串流？**  
+**答：是的——函式庫會直接將每個框架寫入輸出串流，即使是上千頁也能保持低記憶體使用。**
+
+**問：如何以程式方式套用臨時授權？**  
+**答：載入 `.lic` 檔案，例如 `License license = new License(); license.setLicense("Aspose.Total.Java.lic");`。**
+
+**問：有沒有方法在儲存前預覽 TIFF？**  
+**答：可以將每個 `TiffFrame` 轉換為 `BufferedImage`，再於 Swing 元件中顯示。**
+
+**問：官方支援哪些 Java 版本？**  
+**答：Aspose.Imaging 支援 Java 8 至 Java 21（含 LTS 版）。**
 
 ## 結論
+您現在已掌握使用 **ccittfax3 compression java** 於 Aspose.Imaging 建立多頁 TIFF 檔案的完整、可投入生產的工作流程。依循上述步驟，即可高效歸檔龐大的文件集合，同時降低儲存成本並保持高影像品質。進一步探索 Aspose.Imaging 的其他功能——如 OCR、元資料處理與格式轉換——以進一步強化您的文件處理管線。
 
-在本教學中，您學習如何在 Java 中使用 Aspose.Imaging 函式庫，使用 CCITTFAX3 壓縮建立多頁 TIFF 檔案。理解這些步驟後，您可以有效地管理各種應用程式的影像資料。為了進一步提升您的技能，您可以探索 Aspose.Imaging 庫的其他功能，並將其整合到您的專案中。
+---
 
-## 常見問題部分
+**Last Updated:** 2026-09-28  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose
 
-1. **什麼是 CCITTFAX3 壓縮？**
-   - 它是一種專門針對單色影像設計的壓縮方法，常用於文件掃描。
+## 相關教學
 
-2. **如何有效處理大型影像資料集？**
-   - 實現非同步處理並優化記憶體使用以有效管理資源。
+- [How to Create Multi-Page TIFF with Aspose.Imaging for Java – A Complete Guide](/imaging/java/animation-multi-frame-images/create-multi-page-tiff-aspose-imaging-java/)
+- [How to Reduce Image File Size with LZW Compression in Java](/imaging/java/compression-optimization/compress-tiff-images-aspose-imaging-java/)
+- [Split Multi Page TIFF Frames with Aspose.Imaging for Java](/imaging/java/image-conversion-and-optimization/tiff-image-frame-splitting/)
 
-3. **Aspose.Imaging 可以與其他系統整合嗎？**
-   - 是的，它提供可以與各種文件格式和系統互動的 API，以實現無縫整合。
-
-4. **Aspose.Imaging 有哪些授權選項？**
-   - 選項包括免費試用、延長測試的臨時許可證或購買完整許可證。
-
-5. **如何解決處理 TIFF 檔案時常見的問題？**
-   - 參考 Aspose 的 [文件](https://reference.aspose.com/imaging/java/) 以及提供故障排除技巧的支援論壇。
-
-## 資源
-
-- **文件**：https://reference.aspose.com/imaging/java/
-- **下載**：https://releases.aspose.com/imaging/java/
-- **購買**：https://purchase.aspose.com/buy
-- **免費試用**：https://releases.aspose.com/imaging/java/
-- **臨時執照**：https://purchase.aspose.com/temporary-license/
-- **支援**：https://forum.aspose.com/c/imaging/14
-
-現在您已經掌握了這些知識，請開始在您的 Java 專案中實作和探索這些技術！
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
