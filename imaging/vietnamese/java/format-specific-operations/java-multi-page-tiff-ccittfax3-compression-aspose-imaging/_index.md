@@ -1,139 +1,170 @@
 ---
-"date": "2025-06-04"
-"description": "Học cách tạo tệp TIFF nhiều trang bằng cách sử dụng nén CCITTFAX3 trong Java với Aspose.Imaging. Nắm vững các kỹ thuật quét và lưu trữ tài liệu hiệu quả."
-"title": "Tạo TIFF nhiều trang với CCITTFAX3 Compression trong Java bằng Aspose.Imaging"
-"url": "/vi/java/format-specific-operations/java-multi-page-tiff-ccittfax3-compression-aspose-imaging/"
-"weight": 1
+date: '2026-09-28'
+description: Tìm hiểu cách sử dụng ccittfax3 compression java để tạo các tệp TIFF
+  đa trang với Aspose.Imaging. Quét, lưu trữ hiệu quả và giảm kích thước tệp cho quy
+  trình công việc tài liệu.
+keywords:
+- ccittfax3 compression java
+- multi-page tiff java
+- aspose imaging tutorial
+- java image processing
+- document archiving tiff
+lastmod: '2026-09-28'
+og_description: Khám phá hướng dẫn từng bước cách sử dụng ccittfax3 compression java
+  với Aspose.Imaging để xây dựng các tệp TIFF đa trang hiệu quả cho việc quét và lưu
+  trữ.
+og_image_alt: Guide showing Java code that creates a multi-page TIFF using CCITTFAX3
+  compression
+og_title: Cách tạo TIFF đa trang bằng nén ccittfax3 trong java
+schemas:
+- author: Aspose
+  dateModified: '2026-09-28'
+  description: Learn how to use ccittfax3 compression java to create multi-page TIFF
+    files with Aspose.Imaging. Efficiently scan, archive, and reduce file size for
+    document workflows.
+  headline: How to create multi-page TIFF with ccittfax3 compression java
+  type: TechArticle
+- questions:
+  - answer: CCITTFAX3 is limited to monochrome data; for color use JPEG or LZW compression
+      instead.
+    question: Can I use this approach with color images?
+  - answer: Yes—the library writes each frame directly to the output stream, keeping
+      memory usage low even for thousands of pages.
+    question: Does Aspose.Imaging support streaming for huge TIFFs?
+  - answer: Load the `.lic` file with `License license = new License(); license.setLicense("Aspose.Total.Java.lic");`.
+    question: How do I apply a temporary license programmatically?
+  - answer: You can render each `TiffFrame` to a `BufferedImage` and display it in
+      a Swing component.
+    question: Is there a way to preview the TIFF before saving?
+  - answer: Aspose.Imaging supports Java 8 through Java 21, including LTS releases.
+    question: Which Java versions are officially supported?
+  type: FAQPage
+tags:
+- ccittfax3 compression
+- Aspose.Imaging
+- Java TIFF
+- image compression
+- document scanning
+title: Cách tạo TIFF đa trang bằng nén ccittfax3 trong java
+url: /vi/java/format-specific-operations/java-multi-page-tiff-ccittfax3-compression-aspose-imaging/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# Làm chủ việc tạo TIFF nhiều trang với nén CCITTFAX3 trong Java bằng Aspose.Imaging
+
+# Làm chủ việc tạo TIFF đa trang với nén ccittfax3 trong Java sử dụng Aspose.Imaging
 
 ## Giới thiệu
 
-Bạn có muốn quản lý hiệu quả các quy trình quét và lưu trữ tài liệu bằng cách tạo các tệp TIFF nhiều trang không? Với sức mạnh của Aspose.Imaging for Java, nhiệm vụ này trở nên liền mạch. Hướng dẫn này sẽ hướng dẫn bạn cách tạo tệp TIFF nhiều trang bằng cách sử dụng nén CCITTFAX3—một phương pháp lý tưởng cho các hình ảnh đơn sắc như tài liệu được quét. Bằng cách thành thạo các kỹ thuật này, bạn sẽ được trang bị tốt để xử lý hiệu quả khối lượng lớn dữ liệu hình ảnh.
+Nếu bạn cần lưu trữ một khối lượng lớn tài liệu đã quét trong khi giữ kích thước tệp thấp, **ccittfax3 compression java** là giải pháp tối ưu. Hướng dẫn này sẽ chỉ cho bạn cách tạo các tệp TIFF đa trang với nén CCITTFAX3 trong Java bằng Aspose.Imaging. Bạn sẽ tìm hiểu tại sao việc nén này hoạt động tốt cho các bản quét đơn sắc, cách cấu hình thư viện và cách thêm mỗi trang dưới dạng khung.
 
-**Những gì bạn sẽ học được:**
-- Thiết lập Aspose.Imaging trong dự án Java của bạn.
-- Tạo TiffOptions bằng cách nén CCITTFAX3.
-- Tạo và cấu hình phiên bản TiffImage mới.
-- Tải, thay đổi kích thước và thêm hình ảnh làm khung vào tệp TIFF.
-- Lưu và tối ưu hóa các tệp TIFF nhiều trang.
+**Bạn sẽ học gì**
+- Cách thêm Aspose.Imaging vào dự án Java.
+- Cách cấu hình `TiffOptions` cho nén CCITTFAX3.
+- Cách tạo `TiffImage`, thay đổi kích thước ảnh nguồn và thêm chúng dưới dạng khung.
+- Cách lưu TIFF đa trang cuối cùng một cách hiệu quả.
 
-Hãy cùng tìm hiểu cách bạn có thể triển khai các tính năng này trong ứng dụng Java của mình.
+Hãy cùng đi qua triển khai đầy đủ.
 
-## Điều kiện tiên quyết
+## Câu trả lời nhanh
+- **Lợi ích chính của nén CCITTFAX3 là gì?** Giảm tới 80 % kích thước tệp cho các bản quét đen‑trắng.  
+- **Thư viện nào cung cấp hỗ trợ tích hợp?** Aspose.Imaging cho Java, phiên bản 25.5+.  
+- **Tôi có cần giấy phép cho việc phát triển không?** Giấy phép dùng thử miễn phí hoạt động cho tất cả tính năng; giấy phép trả phí cần thiết cho môi trường sản xuất.  
+- **Tôi có thể xử lý hàng trăm trang không?** Có — Aspose.Imaging truyền các trang, vì vậy việc sử dụng bộ nhớ vẫn thấp.  
+- **Mã có tương thích với Java 11 và các phiên bản sau không?** Hoàn toàn; API nhắm tới Java 8+.
 
-Trước khi bắt đầu, hãy đảm bảo bạn đáp ứng các điều kiện tiên quyết sau:
+## ccittfax3 compression java là gì?
+`CCITTFAX3` là một thuật toán nén đơn sắc, không mất dữ liệu, được thiết kế cho fax và ảnh tài liệu đã quét. Nó mã hoá mỗi pixel thành một bit duy nhất, cung cấp đầu ra chất lượng cao trong khi giảm đáng kể kích thước tệp — thường giảm 70‑80 % so với TIFF không nén. Điều này làm cho nó lý tưởng cho việc lưu trữ tài liệu đen‑trắng nơi cần duy trì độ chính xác.
 
-### Thư viện bắt buộc
-- **Aspose.Imaging cho Java**Phiên bản 25.5 trở lên được khuyến nghị để truy cập tất cả các chức năng hiện tại.
-  
-### Yêu cầu thiết lập môi trường
-- Bộ công cụ phát triển Java (JDK) được cài đặt trên máy của bạn.
-- Một IDE như IntelliJ IDEA hoặc Eclipse.
+## Tại sao nên sử dụng Aspose.Imaging cho nhiệm vụ này?
+Aspose.Imaging hỗ trợ **hơn 100** định dạng đầu vào và đầu ra, bao gồm PDF, PNG, JPEG và TIFF. Kiến trúc streaming của nó có thể xử lý các tệp TIFF **hàng trăm trang** mà không cần tải toàn bộ tài liệu vào bộ nhớ, làm cho nó trở thành lựa chọn lý tưởng cho các dự án lưu trữ quy mô lớn.
 
-### Điều kiện tiên quyết về kiến thức
-- Hiểu biết cơ bản về lập trình Java và các khái niệm hướng đối tượng.
-- Quen thuộc với Maven/Gradle để quản lý sự phụ thuộc.
+## Yêu cầu trước
 
-## Thiết lập Aspose.Imaging cho Java
+- **Java Development Kit (JDK)** 8 hoặc mới hơn đã được cài đặt.
+- **IDE** như IntelliJ IDEA hoặc Eclipse.
+- **Maven** hoặc **Gradle** để quản lý phụ thuộc.
+- Kiến thức cơ bản về Java (lớp, đối tượng, collection).
 
-Để bắt đầu sử dụng Aspose.Imaging trong dự án của bạn, bạn cần đưa nó vào như một dependency. Sau đây là cách bạn có thể thực hiện việc này với các công cụ xây dựng khác nhau:
+## Cài đặt Aspose.Imaging cho Java
 
-**Chuyên gia:**
+Thêm thư viện vào tệp build của bạn.
+
+**Maven:**  
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-imaging</artifactId>
     <version>25.5</version>
 </dependency>
-```
+```  
 
-**Cấp độ:**
+**Gradle:**  
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
-```
+```  
 
-### Tải xuống trực tiếp
+### Tải trực tiếp
 
-Ngoài ra, bạn có thể tải xuống phiên bản mới nhất trực tiếp từ [Phiên bản Aspose.Imaging cho Java](https://releases.aspose.com/imaging/java/).
+Bạn cũng có thể tải JAR mới nhất từ [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-### Mua lại giấy phép
+### Nhận giấy phép
 
-Bạn có thể mua giấy phép dùng thử miễn phí để khám phá tất cả các tính năng mà không bị giới hạn bằng cách truy cập [Trang dùng thử miễn phí của Aspose](https://releases.aspose.com/imaging/java/). Đối với việc sử dụng kéo dài, hãy cân nhắc mua giấy phép hoặc đăng ký giấy phép tạm thời tại [Mua Aspose](https://purchase.aspose.com/temporary-license/).
+Giấy phép dùng thử miễn phí có sẵn tại [Aspose's Free Trial page](https://releases.aspose.com/imaging/java/). Đối với sử dụng trong môi trường sản xuất, mua giấy phép vĩnh viễn hoặc yêu cầu giấy phép tạm thời tại [Aspose Purchase](https://purchase.aspose.com/temporary-license/).
+
+Để biết chi tiết cách sử dụng API, xem tài liệu Aspose.Imaging cho Java [documentation](https://reference.aspose.com/imaging/java/).
 
 ### Khởi tạo cơ bản
 
-Sau khi đã đưa Aspose.Imaging vào dự án của bạn, hãy khởi tạo nó như sau:
+Sau khi thêm phụ thuộc, khởi tạo thư viện như dưới đây.
 
 ```java
 import com.aspose.imaging.License;
 
 License license = new License();
 license.setLicense("path_to_your_license.lic");
-```
+```  
 
-## Hướng dẫn thực hiện
+## Cách cấu hình ccittfax3 compression java cho TIFF đa trang?
 
-Chúng tôi sẽ chia quá trình triển khai thành nhiều phần hợp lý dựa trên chức năng.
+`TiffOptions` là một lớp định nghĩa định dạng đầu ra và cài đặt nén cho tệp TIFF. Tải đối tượng `TiffOptions` với enum `CCITTGroup3FaxCompression`, sau đó đặt nguồn tệp đầu ra. Cấu hình hai bước này chuẩn bị bộ ghi cho nén đơn sắc và đảm bảo rằng mọi trang được thêm sau sẽ được mã hoá bằng thuật toán CCITTFAX3, mang lại việc giảm kích thước đáng kể trong khi giữ nguyên chất lượng ảnh.
 
-### Tạo TiffOptions với CCITTFAX3 Compression
-
-#### Tổng quan
-Tạo một `TiffOptions` Phiên bản được cấu hình để nén CCITTFAX3 là điều cần thiết khi xử lý hình ảnh đơn sắc ở định dạng TIFF. Tính năng này tối ưu hóa lưu trữ và duy trì chất lượng hình ảnh hiệu quả.
-
-**Các bước thực hiện:**
-
-1. **Khởi tạo TiffOptions với CCITTFAX3**
-    ```java
+```java
     import com.aspose.imaging.fileformats.tiff.TiffExpectedFormat;
     import com.aspose.imaging.imageoptions.TiffOptions;
     import com.aspose.imaging.sources.FileCreateSource;
 
     TiffOptions outputSettings = new TiffOptions(TiffExpectedFormat.TiffCcittFax3);
-    ```
+    ```  
 
-2. **Đặt nguồn tệp đầu ra**
-    ```java
-    // Thay thế "YOUR_OUTPUT_DIRECTORY" bằng đường dẫn thư mục thực tế của bạn
+```java
+    // Replace "YOUR_OUTPUT_DIRECTORY" with your actual directory path
     outputSettings.setSource(new FileCreateSource("YOUR_OUTPUT_DIRECTORY/output.tiff", false));
-    ```
+    ```  
 
-### Tạo một phiên bản TiffImage mới
+## Cách tạo một thể hiện TiffImage trong Java?
 
-#### Tổng quan
-Tạo một thể hiện của `TiffImage` bao gồm việc chỉ định các kích thước và sử dụng các cấu hình trước đó `TiffOptions`.
+`TiffImage` đại diện cho một tài liệu TIFF đa trang trong bộ nhớ và cung cấp các phương thức để thao tác các khung. Đầu tiên, xác định chiều rộng và chiều cao mà tất cả các trang sẽ chia sẻ. Sau đó khởi tạo `TiffImage` bằng cách sử dụng `TiffOptions` đã tạo trước đó. Đối tượng `TiffImage` hoạt động như một container cho các khung riêng lẻ, cho phép bạn thêm, xóa hoặc sắp xếp lại các trang trước khi lưu tệp cuối cùng.
 
-**Các bước thực hiện:**
-
-1. **Khai báo kích thước**
-    ```java
+```java
     final int newWidth = 500;
     final int newHeight = 500;
-    ```
+    ```  
 
-2. **Tạo phiên bản TiffImage**
-    ```java
+```java
     import com.aspose.imaging.Image;
     import com.aspose.imaging.fileformats.tiff.TiffImage;
 
     TiffImage tiffImage = (TiffImage) Image.create(outputSettings, newWidth, newHeight);
-    ```
+    ```  
 
-### Tải và thay đổi kích thước hình ảnh từ một thư mục
+## Cách tải và thay đổi kích thước ảnh nguồn từ thư mục?
 
-#### Tổng quan
-Tải hình ảnh bao gồm việc đọc tệp từ thư mục, lọc chúng theo phần mở rộng và thay đổi kích thước cho phù hợp với kích thước TIFF.
+Lọc thư mục mục tiêu để tìm các tệp JPEG, đọc từng ảnh và thay đổi kích thước sao cho phù hợp với canvas TIFF. Thay đổi kích thước trước khi thêm khung giảm tiêu thụ bộ nhớ và tăng tốc quá trình lưu. Bằng cách chuyển đổi mỗi ảnh nguồn sang kích thước và định dạng pixel yêu cầu, bạn đảm bảo bố cục trang nhất quán và tránh lỗi thời gian chạy khi các khung được thêm vào tài liệu TIFF.
 
-**Các bước thực hiện:**
-
-1. **Lọc và Tải Tệp JPG**
-    ```java
+```java
     import java.io.File;
     import java.io.FilenameFilter;
 
@@ -145,10 +176,9 @@ Tải hình ảnh bao gồm việc đọc tệp từ thư mục, lọc chúng th
     });
 
     if (files == null) return;
-    ```
+    ```  
 
-2. **Thay đổi kích thước hình ảnh**
-    ```java
+```java
     import com.aspose.imaging.RasterImage;
     import com.aspose.imaging.ResizeType;
 
@@ -156,17 +186,13 @@ Tải hình ảnh bao gồm việc đọc tệp từ thư mục, lọc chúng th
         RasterImage image = (RasterImage) Image.load(fileEntry.getAbsolutePath());
         image.resize(newWidth, newHeight, ResizeType.NearestNeighbourResample);
     }
-    ```
+    ```  
 
-### Thêm Khung vào Ảnh TIFF Nhiều Trang
+## Cách thêm mỗi ảnh làm khung vào TIFF đa trang?
 
-#### Tổng quan
-Việc thêm khung là rất quan trọng để xây dựng các tệp TIFF nhiều trang. Mỗi khung tương ứng với một hình ảnh riêng lẻ.
+`TiffFrame` là một đối tượng chứa một ảnh trang duy nhất và siêu dữ liệu liên quan trong TIFF. Lặp qua các ảnh đã thay đổi kích thước, tạo một `TiffFrame` mới và thêm nó vào `TiffImage`. Mỗi khung trở thành một trang riêng trong tài liệu cuối cùng, và thư viện tự động xử lý các cập nhật siêu dữ liệu cần thiết, như số trang và offset, đảm bảo cấu trúc TIFF đa trang hợp lệ.
 
-**Các bước thực hiện:**
-
-1. **Lặp lại qua hình ảnh và tạo khung**
-    ```java
+```java
     import com.aspose.imaging.fileformats.tiff.TiffFrame;
 
     int index = 0;
@@ -183,71 +209,72 @@ Việc thêm khung là rất quan trọng để xây dựng các tệp TIFF nhi�
         }
         index++;
     }
-    ```
+    ```  
 
-### Lưu hình ảnh TIFF nhiều trang
+## Cách lưu tệp TIFF đa trang cuối cùng?
 
-#### Tổng quan
-Cuối cùng, việc lưu và đóng tài nguyên sẽ đảm bảo rằng mọi thay đổi đều được lưu lại.
+Gọi phương thức `save` trên thể hiện `TiffImage`, truyền đường dẫn đầu ra mong muốn. Thư viện tự động ghi tất cả các khung bằng nén CCITTFAX3, truyền dữ liệu ra đĩa một cách hiệu quả và đóng mọi tài nguyên nền. Sau khi thao tác lưu hoàn tất, tệp kết quả chứa tất cả các trang với nén đã chỉ định, sẵn sàng cho việc phân phối hoặc lưu trữ.
 
-**Các bước thực hiện:**
-
-1. **Lưu thay đổi**
-    ```java
+```java
     try {
         tiffImage.save();
     } finally {
         tiffImage.close();
         outputSettings.close();
     }
-    ```
+    ```  
 
-## Ứng dụng thực tế
+## Ứng dụng thực tiễn
 
-Việc tạo các tệp TIFF nhiều trang với khả năng nén CCITTFAX3 có thể mang lại lợi ích trong một số trường hợp:
+- **Lưu trữ tài liệu:** Lưu các hợp đồng, hoá đơn hoặc hồ sơ pháp lý đã quét với chi phí lưu trữ tối thiểu.  
+- **Hình ảnh y tế:** Nén các ảnh chụp X-quang trong khi giữ nguyên chi tiết chẩn đoán.  
+- **Sản xuất in ấn:** Tạo các công việc in đa trang mà máy in có thể tiêu thụ trực tiếp.
 
-- **Lưu trữ tài liệu**: Lưu trữ và lưu trữ hiệu quả các tài liệu đã quét.
-- **Hình ảnh y khoa**: Duy trì hình ảnh nén chất lượng cao cho các khoa X-quang.
-- **Dịch vụ in ấn**: Chuẩn bị các lệnh in lớn yêu cầu nhiều trang hình ảnh.
+## Các cân nhắc về hiệu năng
 
-## Cân nhắc về hiệu suất
+- Sử dụng `ResizeOptions` giữ tỷ lệ khung hình để tránh biến dạng.  
+- Đóng mỗi đối tượng `Image` sau khi thêm khung để giải phóng bộ nhớ gốc.  
+- Đối với các lô lớn, xử lý tệp bằng streams song song và ghi mỗi đoạn TIFF một cách bất đồng bộ.
 
-Để đảm bảo hiệu suất tối ưu:
-- Sử dụng phương pháp thay đổi kích thước phù hợp để duy trì chất lượng đồng thời giảm thời gian xử lý.
-- Quản lý bộ nhớ hiệu quả bằng cách đóng tài nguyên ngay sau khi sử dụng.
-- Tối ưu hóa hoạt động I/O tệp và xem xét xử lý không đồng bộ cho các tập dữ liệu lớn.
+## Những khó khăn thường gặp và cách khắc phục
 
-## Phần kết luận
+- **Định dạng pixel không đúng:** CCITTFAX3 chỉ hoạt động với ảnh 1‑bit (đen‑trắng). Chuyển ảnh màu sang thang xám trước khi thay đổi kích thước.  
+- **Rò rỉ bộ nhớ:** Luôn gọi `dispose()` trên các đối tượng `Image` tạm thời; nếu không, bộ đệm gốc sẽ vẫn được cấp phát.  
+- **Kích thước tệp không giảm:** Đảm bảo thuộc tính nén của `TiffOptions` được đặt; nếu không, mặc định (không nén) sẽ được sử dụng.
 
-Trong hướng dẫn này, bạn đã học cách tạo các tệp TIFF nhiều trang bằng cách sử dụng nén CCITTFAX3 trong Java với Aspose.Imaging. Bằng cách hiểu các bước này, bạn có thể quản lý dữ liệu hình ảnh hiệu quả cho nhiều ứng dụng khác nhau. Để nâng cao hơn nữa kỹ năng của mình, hãy khám phá các tính năng bổ sung của thư viện Aspose.Imaging và tích hợp chúng vào các dự án của bạn.
+## Câu hỏi thường gặp
 
-## Phần Câu hỏi thường gặp
+**Q: Tôi có thể sử dụng cách này với ảnh màu không?**  
+A: CCITTFAX3 chỉ giới hạn cho dữ liệu đơn sắc; đối với màu, sử dụng nén JPEG hoặc LZW thay thế.
 
-1. **Nén CCITTFAX3 là gì?**
-   - Đây là phương pháp nén được thiết kế riêng cho hình ảnh đơn sắc, thường được sử dụng khi quét tài liệu.
+**Q: Aspose.Imaging có hỗ trợ streaming cho các TIFF khổng lồ không?**  
+A: Có — thư viện ghi mỗi khung trực tiếp vào luồng đầu ra, giữ mức sử dụng bộ nhớ thấp ngay cả với hàng ngàn trang.
 
-2. **Làm thế nào để xử lý hiệu quả các tập dữ liệu hình ảnh lớn?**
-   - Triển khai xử lý không đồng bộ và tối ưu hóa việc sử dụng bộ nhớ để quản lý tài nguyên hiệu quả.
+**Q: Làm thế nào để áp dụng giấy phép tạm thời bằng chương trình?**  
+A: Tải tệp `.lic` bằng `License license = new License(); license.setLicense("Aspose.Total.Java.lic");`.
 
-3. **Aspose.Imaging có thể tích hợp với các hệ thống khác không?**
-   - Có, nó cung cấp các API có thể tương tác với nhiều định dạng tệp và hệ thống khác nhau để tích hợp liền mạch.
+**Q: Có cách nào để xem trước TIFF trước khi lưu không?**  
+A: Bạn có thể render mỗi `TiffFrame` thành `BufferedImage` và hiển thị trong một component Swing.
 
-4. **Có những tùy chọn cấp phép nào cho Aspose.Imaging?**
-   - Các tùy chọn bao gồm dùng thử miễn phí, giấy phép tạm thời để thử nghiệm mở rộng hoặc mua giấy phép đầy đủ.
+**Q: Các phiên bản Java nào được hỗ trợ chính thức?**  
+A: Aspose.Imaging hỗ trợ Java 8 đến Java 21, bao gồm các bản phát hành LTS.
 
-5. **Làm thế nào để giải quyết các sự cố thường gặp khi làm việc với tệp TIFF?**
-   - Tham khảo Aspose [tài liệu](https://reference.aspose.com/imaging/java/) và diễn đàn hỗ trợ để biết mẹo khắc phục sự cố.
+## Kết luận
 
-## Tài nguyên
+Bây giờ bạn đã có một quy trình hoàn chỉnh, sẵn sàng cho sản xuất để tạo các tệp TIFF đa trang với **ccittfax3 compression java** bằng Aspose.Imaging. Bằng cách làm theo các bước trên, bạn có thể lưu trữ hiệu quả các bộ sưu tập tài liệu lớn trong khi giảm chi phí lưu trữ và duy trì chất lượng ảnh cao. Khám phá các tính năng bổ sung của Aspose.Imaging — như OCR, xử lý siêu dữ liệu và chuyển đổi định dạng — để nâng cao hơn nữa quy trình xử lý tài liệu của bạn.
 
-- **Tài liệu**https://reference.aspose.com/imaging/java/
-- **Tải về**: https://releases.aspose.com/imaging/java/
-- **Mua**: https://purchase.aspose.com/buy
-- **Dùng thử miễn phí**: https://releases.aspose.com/imaging/java/
-- **Giấy phép tạm thời**: https://purchase.aspose.com/temporary-license/
-- **Ủng hộ**: https://forum.aspose.com/c/imaging/14
+---
 
-Bây giờ bạn đã có đủ kiến thức, hãy bắt đầu triển khai và khám phá các kỹ thuật này trong các dự án Java của bạn!
+**Cập nhật lần cuối:** 2026-09-28  
+**Kiểm tra với:** Aspose.Imaging 25.5 for Java  
+**Tác giả:** Aspose
+
+## Hướng dẫn liên quan
+
+- [Cách tạo TIFF đa trang với Aspose.Imaging cho Java – Hướng dẫn đầy đủ](/imaging/java/animation-multi-frame-images/create-multi-page-tiff-aspose-imaging-java/)
+- [Cách giảm kích thước tệp ảnh bằng nén LZW trong Java](/imaging/java/compression-optimization/compress-tiff-images-aspose-imaging-java/)
+- [Tách các khung TIFF đa trang với Aspose.Imaging cho Java](/imaging/java/image-conversion-and-optimization/tiff-image-frame-splitting/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

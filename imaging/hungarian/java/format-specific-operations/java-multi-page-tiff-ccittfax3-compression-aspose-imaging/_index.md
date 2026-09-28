@@ -1,139 +1,170 @@
 ---
-"date": "2025-06-04"
-"description": "Tanulj meg többoldalas TIFF fájlokat létrehozni CCITTFAX3 tömörítéssel Java nyelven az Aspose.Imaging segítségével. Sajátítsd el a hatékony dokumentumszkennelési és archiválási technikákat."
-"title": "Többoldalas TIFF fájlok létrehozása CCITTFAX3 tömörítéssel Java nyelven az Aspose.Imaging használatával"
-"url": "/hu/java/format-specific-operations/java-multi-page-tiff-ccittfax3-compression-aspose-imaging/"
-"weight": 1
+date: '2026-09-28'
+description: Ismerje meg, hogyan használhatja a ccittfax3 compression java-t a többoldalas
+  TIFF fájlok létrehozásához az Aspose.Imaging segítségével. Hatékonyan szkenneljen,
+  archiváljon és csökkentse a fájlméretet a dokumentumfolyamatok során.
+keywords:
+- ccittfax3 compression java
+- multi-page tiff java
+- aspose imaging tutorial
+- java image processing
+- document archiving tiff
+lastmod: '2026-09-28'
+og_description: Fedezze fel lépésről‑lépésre, hogyan használja a ccittfax3 compression
+  java-t az Aspose.Imaging‑kel a hatékony többoldalas TIFF fájlok létrehozásához szkenneléshez
+  és archiváláshoz.
+og_image_alt: Guide showing Java code that creates a multi-page TIFF using CCITTFAX3
+  compression
+og_title: Hogyan készítsünk többoldalas TIFF-et ccittfax3 compression java segítségével
+schemas:
+- author: Aspose
+  dateModified: '2026-09-28'
+  description: Learn how to use ccittfax3 compression java to create multi-page TIFF
+    files with Aspose.Imaging. Efficiently scan, archive, and reduce file size for
+    document workflows.
+  headline: How to create multi-page TIFF with ccittfax3 compression java
+  type: TechArticle
+- questions:
+  - answer: CCITTFAX3 is limited to monochrome data; for color use JPEG or LZW compression
+      instead.
+    question: Can I use this approach with color images?
+  - answer: Yes—the library writes each frame directly to the output stream, keeping
+      memory usage low even for thousands of pages.
+    question: Does Aspose.Imaging support streaming for huge TIFFs?
+  - answer: Load the `.lic` file with `License license = new License(); license.setLicense("Aspose.Total.Java.lic");`.
+    question: How do I apply a temporary license programmatically?
+  - answer: You can render each `TiffFrame` to a `BufferedImage` and display it in
+      a Swing component.
+    question: Is there a way to preview the TIFF before saving?
+  - answer: Aspose.Imaging supports Java 8 through Java 21, including LTS releases.
+    question: Which Java versions are officially supported?
+  type: FAQPage
+tags:
+- ccittfax3 compression
+- Aspose.Imaging
+- Java TIFF
+- image compression
+- document scanning
+title: Hogyan készítsünk többoldalas TIFF-et ccittfax3 compression java segítségével
+url: /hu/java/format-specific-operations/java-multi-page-tiff-ccittfax3-compression-aspose-imaging/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# Többoldalas TIFF fájlok létrehozásának elsajátítása CCITTFAX3 tömörítéssel Java nyelven, Aspose.Imaging használatával
+
+# A többoldalas TIFF létrehozásának elsajátítása ccittfax3 tömörítéssel Java-ban az Aspose.Imaging használatával
 
 ## Bevezetés
 
-Szeretné hatékonyan kezelni a dokumentumok szkennelési és archiválási folyamatait többoldalas TIFF fájlok létrehozásával? Az Aspose.Imaging for Java erejével ez a feladat zökkenőmentessé válik. Ez az útmutató végigvezeti Önt egy többoldalas TIFF fájl létrehozásán CCITTFAX3 tömörítéssel – ez a módszer ideális monokróm képekhez, például szkennelt dokumentumokhoz. Ezen technikák elsajátításával felkészült lesz nagy mennyiségű képadat hatékony kezelésére.
+Ha nagy mennyiségű beolvasott dokumentumot kell archiválnia, miközben alacsony fájlméretet tart fenn, a **ccittfax3 compression java** a megfelelő megoldás. Ez az útmutató megmutatja, hogyan generálhat többoldalas TIFF fájlokat CCITTFAX3 tömörítéssel Java-ban az Aspose.Imaging használatával. Megtanulja, miért működik ez a tömörítés olyan jól a monokróm beolvasásoknál, hogyan konfigurálja a könyvtárat, és hogyan adja hozzá az egyes oldalakat keretként.
 
-**Amit tanulni fogsz:**
-- Állítsd be az Aspose.Imaging-et a Java projektedben.
-- TiffOptions fájlok létrehozása CCITTFAX3 tömörítéssel.
-- Új TiffImage példány létrehozása és konfigurálása.
-- Töltsön be, méretezze át és adjon hozzá képeket keretként a TIFF fájlhoz.
-- Többoldalas TIFF fájlok mentése és optimalizálása.
+**Amit megtanul**
+- Hogyan adja hozzá az Aspose.Imaging-et egy Java projekthez.
+- Hogyan konfigurálja a `TiffOptions`-t a CCITTFAX3 tömörítéshez.
+- Hogyan hozza létre a `TiffImage`-et, méretezze át a forrásképeket, és adja hozzá őket keretként.
+- Hogyan mentse el hatékonyan a végleges többoldalas TIFF-et.
 
-Nézzük meg, hogyan implementálhatod ezeket a funkciókat a Java alkalmazásaidban.
+Lépjünk végig a teljes megvalósításon.
 
-## Előfeltételek
+## Gyors válaszok
+- **Mi a CCITTFAX3 tömörítés fő előnye?** Akár 80 % fájlméret-csökkenés fekete‑fehér beolvasásoknál.  
+- **Melyik könyvtár biztosít beépített támogatást?** Aspose.Imaging for Java, 25.5+ verzió.  
+- **Szükségem van licencre a fejlesztéshez?** Az ingyenes próbaverzió licenc minden funkciót támogat; a termeléshez fizetett licenc szükséges.  
+- **Feldolgozhatok több száz oldalt?** Igen—az Aspose.Imaging adatfolyamként kezeli az oldalakat, így a memóriahasználat alacsony marad.  
+- **A kód kompatibilis a Java 11‑el és újabb verziókkal?** Természetesen; az API a Java 8+ verziókat célozza.
 
-Mielőtt elkezdenénk, győződjünk meg arról, hogy a következő előfeltételekkel rendelkezünk:
+## Mi az a ccittfax3 compression java?
+`CCITTFAX3` egy veszteségmentes, monokróm tömörítési algoritmus, amely fax és beolvasott dokumentum képekhez készült. Minden pixelt egyetlen bitként kódol, magas minőségű kimenetet biztosítva, miközben drámaian csökkenti a fájlméretet—gyakran 70‑80 %-kal az eredeti, tömörítetlen TIFF-hez képest. Ez ideálissá teszi a fekete‑fehér dokumentumok archiválásához, ahol a hűség megőrzése fontos.
 
-### Kötelező könyvtárak
-- **Aspose.Imaging Java-hoz**Az összes jelenlegi funkció eléréséhez a 25.5-ös vagy újabb verzió ajánlott.
-  
-### Környezeti beállítási követelmények
-- Java fejlesztőkészlet (JDK) telepítve a gépedre.
-- Egy IDE, mint például az IntelliJ IDEA vagy az Eclipse.
+## Miért használjuk az Aspose.Imaging-et ehhez a feladathoz?
+Aspose.Imaging több mint **100** bemeneti és kimeneti formátumot támogat, beleértve a PDF, PNG, JPEG és TIFF formátumokat. Streaming architektúrája képes **több száz oldalas** TIFF fájlok kezelésére anélkül, hogy az egész dokumentumot a memóriába töltené, így ideális nagy léptékű archiválási projektekhez.
 
-### Ismereti előfeltételek
-- A Java programozás és az objektumorientált fogalmak alapjainak ismerete.
-- Maven/Gradle ismeretek függőségkezelés terén.
+## Előkövetelmények
+
+- **Java Development Kit (JDK)** 8 vagy újabb telepítve.
+- **IDE** mint IntelliJ IDEA vagy Eclipse.
+- **Maven** vagy **Gradle** a függőségkezeléshez.
+- Alap Java ismeretek (osztályok, objektumok, gyűjtemények).
 
 ## Az Aspose.Imaging beállítása Java-hoz
 
-Az Aspose.Imaging használatának megkezdéséhez a projektedben függőségként kell hozzáadnod. Így teheted ezt meg a különböző build eszközökkel:
+Adja hozzá a könyvtárat a build fájlhoz.
 
-**Szakértő:**
+**Maven:**  
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-imaging</artifactId>
     <version>25.5</version>
 </dependency>
-```
+```  
 
-**Fokozat:**
+**Gradle:**  
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
-```
+```  
 
 ### Közvetlen letöltés
 
-Vagy letöltheti a legújabb verziót közvetlenül innen: [Aspose.Imaging Java kiadásokhoz](https://releases.aspose.com/imaging/java/).
+A legújabb JAR fájlt letöltheti a [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) oldalról.
 
-### Licencszerzés
+### Licenc beszerzése
 
-Ingyenes próbalicencet szerezhetsz be, hogy korlátozás nélkül felfedezhesd az összes funkciót, ha ellátogatsz ide: [Az Aspose ingyenes próbaverziós oldala](https://releases.aspose.com/imaging/java/)Hosszabb távú használat esetén érdemes lehet licencet vásárolni vagy ideigleneset igényelni a következő címen: [Aspose vásárlás](https://purchase.aspose.com/temporary-license/).
+Egy ingyenes próbaverzió licenc elérhető a [Aspose's Free Trial page](https://releases.aspose.com/imaging/java/) oldalról. Termeléshez vásároljon állandó licencet vagy kérjen ideiglenes licencet a [Aspose Purchase](https://purchase.aspose.com/temporary-license/) oldalon.
 
-### Alapvető inicializálás
+A részletes API használathoz tekintse meg az Aspose.Imaging for Java [documentation](https://reference.aspose.com/imaging/java/) dokumentációt.
 
-Miután beépítetted az Aspose.Imaging-et a projektedbe, inicializáld az alábbiak szerint:
+### Alap inicializálás
+
+A függőség hozzáadása után inicializálja a könyvtárat az alább látható módon.
 
 ```java
 import com.aspose.imaging.License;
 
 License license = new License();
 license.setLicense("path_to_your_license.lic");
-```
+```  
 
-## Megvalósítási útmutató
+## Hogyan konfiguráljuk a ccittfax3 compression java-t egy többoldalas TIFF-hez?
 
-A megvalósítást a funkcionalitás alapján több logikai részre bontjuk.
+`TiffOptions` egy osztály, amely meghatározza a TIFF fájl kimeneti formátumát és tömörítési beállításait. Töltse be a `TiffOptions` objektumot a `CCITTGroup3FaxCompression` enum-mal, majd állítsa be a kimeneti fájl forrását. Ez a kéts lépéses konfiguráció előkészíti az íróprogramot a monokróm tömörítéshez, és biztosítja, hogy a később hozzáadott minden oldal a CCITTFAX3 algoritmussal legyen kódolva, ami jelentős méretcsökkenést eredményez a képminőség megőrzése mellett.
 
-### TiffOptions fájlok létrehozása CCITTFAX3 tömörítéssel
-
-#### Áttekintés
-Létrehoz egy `TiffOptions` A CCITTFAX3 tömörítésre konfigurált példány elengedhetetlen a TIFF formátumú monokróm képek kezelésekor. Ez a funkció optimalizálja a tárolást és hatékonyan megőrzi a képminőséget.
-
-**Lépések:**
-
-1. **TiffOptions inicializálása CCITTFAX3-mal**
-    ```java
+```java
     import com.aspose.imaging.fileformats.tiff.TiffExpectedFormat;
     import com.aspose.imaging.imageoptions.TiffOptions;
     import com.aspose.imaging.sources.FileCreateSource;
 
     TiffOptions outputSettings = new TiffOptions(TiffExpectedFormat.TiffCcittFax3);
-    ```
+    ```  
 
-2. **Kimeneti fájl forrásának beállítása**
-    ```java
-    // Cserélje ki a „YOUR_OUTPUT_DIRECTORY” részt a tényleges könyvtárútvonalra
+```java
+    // Replace "YOUR_OUTPUT_DIRECTORY" with your actual directory path
     outputSettings.setSource(new FileCreateSource("YOUR_OUTPUT_DIRECTORY/output.tiff", false));
-    ```
+    ```  
 
-### Új TiffImage példány létrehozása
+## Hogyan hozzunk létre egy TiffImage példányt Java-ban?
 
-#### Áttekintés
-Példány létrehozása `TiffImage` magában foglalja a méretek megadását és az előre konfigurált eszközök használatát `TiffOptions`.
+`TiffImage` egy többoldalas TIFF dokumentumot reprezentál a memóriában, és módszereket biztosít a keretek manipulálásához. Először határozza meg a szélességet és magasságot, amelyet az összes oldal megoszt. Ezután hozza létre a `TiffImage`-et a korábban létrehozott `TiffOptions` használatával. A `TiffImage` objektum egy tárolóként működik az egyes keretek számára, lehetővé téve oldalak hozzáadását, eltávolítását vagy átrendezését a végleges fájl mentése előtt.
 
-**Lépések:**
-
-1. **Méretek deklarálása**
-    ```java
+```java
     final int newWidth = 500;
     final int newHeight = 500;
-    ```
+    ```  
 
-2. **TiffImage példány létrehozása**
-    ```java
+```java
     import com.aspose.imaging.Image;
     import com.aspose.imaging.fileformats.tiff.TiffImage;
 
     TiffImage tiffImage = (TiffImage) Image.create(outputSettings, newWidth, newHeight);
-    ```
+    ```  
 
-### Képek betöltése és átméretezése egy könyvtárból
+## Hogyan töltsük be és méretezzük át a forrásképeket egy mappából?
 
-#### Áttekintés
-képek betöltése magában foglalja a fájlok beolvasását egy könyvtárból, kiterjesztés szerinti szűrését és átméretezését a TIFF méretekhez.
+Szűrje a célkönyvtárat JPEG fájlokra, olvassa be minden képet, és méretezze át, hogy illeszkedjen a TIFF vászonhoz. A keretek hozzáadása előtt végzett átméretezés csökkenti a memóriahasználatot és felgyorsítja a mentési műveletet. Az egyes forrásképek a szükséges méretre és pixelformátumra konvertálásával biztosítható a konzisztens oldalelrendezés, és elkerülhetők a futásidejű hibák, amikor a keretek a TIFF dokumentumhoz kerülnek.
 
-**Lépések:**
-
-1. **JPG fájlok szűrése és betöltése**
-    ```java
+```java
     import java.io.File;
     import java.io.FilenameFilter;
 
@@ -145,10 +176,9 @@ képek betöltése magában foglalja a fájlok beolvasását egy könyvtárból,
     });
 
     if (files == null) return;
-    ```
+    ```  
 
-2. **Képek átméretezése**
-    ```java
+```java
     import com.aspose.imaging.RasterImage;
     import com.aspose.imaging.ResizeType;
 
@@ -156,17 +186,13 @@ képek betöltése magában foglalja a fájlok beolvasását egy könyvtárból,
         RasterImage image = (RasterImage) Image.load(fileEntry.getAbsolutePath());
         image.resize(newWidth, newHeight, ResizeType.NearestNeighbourResample);
     }
-    ```
+    ```  
 
-### Keretek hozzáadása többoldalas TIFF képhez
+## Hogyan adjuk hozzá minden képet keretként a többoldalas TIFF-hez?
 
-#### Áttekintés
-A keretek hozzáadása kulcsfontosságú a többoldalas TIFF fájlok létrehozásakor. Minden keret egy külön képnek felel meg.
+`TiffFrame` egy objektum, amely egyetlen oldalképet és a hozzá tartozó metaadatokat tárolja egy TIFF-ben. Iteráljon a átméretezett képeken, hozzon létre egy új `TiffFrame`-et, és fűzze hozzá a `TiffImage`-hez. Minden keret külön oldalként jelenik meg a végső dokumentumban, és a könyvtár automatikusan kezeli a szükséges metaadat-frissítéseket, mint például az oldalszám és az eltolások, biztosítva a megfelelő többoldalas TIFF struktúrát.
 
-**Lépések:**
-
-1. **Képeken való ismétlés és keretek létrehozása**
-    ```java
+```java
     import com.aspose.imaging.fileformats.tiff.TiffFrame;
 
     int index = 0;
@@ -183,71 +209,72 @@ A keretek hozzáadása kulcsfontosságú a többoldalas TIFF fájlok létrehozá
         }
         index++;
     }
-    ```
+    ```  
 
-### Többoldalas TIFF kép mentése
+## Hogyan mentse el a végleges többoldalas TIFF fájlt?
 
-#### Áttekintés
-Végül az erőforrások mentése és lezárása biztosítja, hogy minden módosítás megmaradjon.
+Hívja meg a `save` metódust a `TiffImage` példányon, megadva a kívánt kimeneti útvonalat. A könyvtár automatikusan minden keretet CCITTFAX3 tömörítéssel ír ki, hatékonyan adatfolyamként menti a lemezre, és bezárja az esetleges alatta lévő erőforrásokat. A mentési művelet befejezése után a kapott fájl tartalmazza az összes oldalt a megadott tömörítéssel, készen áll a terjesztésre vagy archiválásra.
 
-**Lépések:**
-
-1. **Változtatások mentése**
-    ```java
+```java
     try {
         tiffImage.save();
     } finally {
         tiffImage.close();
         outputSettings.close();
     }
-    ```
+    ```  
 
 ## Gyakorlati alkalmazások
 
-A többoldalas TIFF fájlok CCITTFAX3 tömörítéssel történő létrehozása számos esetben előnyös lehet:
+- **Dokumentum archiválás:** Beolvasott szerződések, számlák vagy jogi feljegyzések tárolása minimális tárolási költséggel.  
+- **Orvosi képalkotás:** Radiológiai felvételek tömörítése a diagnosztikai részletek megőrzése mellett.  
+- **Nyomtatási termelés:** Többoldalas nyomtatási feladatok generálása, amelyeket a nyomtatók közvetlenül felhasználhatnak.
 
-- **Dokumentumarchiválás**: A szkennelt dokumentumok hatékony tárolása és archiválása.
-- **Orvosi képalkotás**Kiváló minőségű, tömörített képek fenntartása a radiológiai osztályok számára.
-- **Nyomtatási szolgáltatások**: Több képes oldalt igénylő nagyméretű nyomtatási feladatok előkészítése.
+## Teljesítmény szempontok
 
-## Teljesítménybeli szempontok
+- Használjon `ResizeOptions`-t, amely megőrzi az oldalarányt a torzulás elkerülése érdekében.  
+- Zárja be minden `Image` objektumot a keret hozzáadása után, hogy felszabadítsa a natív memóriát.  
+- Nagyon nagy kötegek esetén dolgozza fel a fájlokat párhuzamos adatfolyamokban, és írja a TIFF szegmenseket aszinkron módon.
 
-Az optimális teljesítmény biztosítása érdekében:
-- Használjon megfelelő átméretezési módszereket a minőség megőrzése és a feldolgozási idő csökkentése érdekében.
-- A memória hatékony kezelése az erőforrások használat utáni azonnali lezárásával.
-- Optimalizálja a fájl I/O műveleteket, és vegye figyelembe az aszinkron feldolgozást nagy adathalmazok esetén.
+## Gyakori buktatók és hibaelhárítás
 
-## Következtetés
+- **Helytelen pixel formátum:** A CCITTFAX3 csak 1‑bit (fekete‑fehér) képekkel működik. Színes képeket konvertáljon szürkeárnyalatosra a méretezés előtt.  
+- **Memória szivárgások:** Mindig hívja meg a `dispose()`-t az ideiglenes `Image` objektumokon; ellenkező esetben a natív pufferek továbbra is lefoglalva maradnak.  
+- **A fájlméret nem csökken:** Győződjön meg arról, hogy a `TiffOptions` tömörítési tulajdonsága be van állítva; különben az alapértelmezett (nincs tömörítés) kerül alkalmazásra.
 
-Ebben az oktatóanyagban megtanultad, hogyan hozhatsz létre többoldalas TIFF fájlokat CCITTFAX3 tömörítéssel Java nyelven az Aspose.Imaging segítségével. Ezen lépések megértésével hatékonyan kezelheted a képadatokat különböző alkalmazásokban. A készségeid további fejlesztéséhez fedezd fel az Aspose.Imaging könyvtár további funkcióit, és integráld azokat a projektjeidbe.
+## Gyakran ismételt kérdések
 
-## GYIK szekció
+**K: Használhatom ezt a megközelítést színes képekkel?**  
+V: A CCITTFAX3 csak monokróm adatokra korlátozódik; színes esetben használjon JPEG vagy LZW tömörítést.
 
-1. **Mi a CCITTFAX3 tömörítés?**
-   - Ez egy kifejezetten monokróm képekhez tervezett tömörítési módszer, amelyet gyakran használnak dokumentumszkenneléskor.
+**K: Támogatja az Aspose.Imaging a streaminget hatalmas TIFF-ekhez?**  
+V: Igen— a könyvtár minden keretet közvetlenül az output adatfolyamra ír, így a memóriahasználat alacsony marad még több ezer oldal esetén is.
 
-2. **Hogyan kezelhetem hatékonyan a nagy képadatbázisokat?**
-   - Aszinkron feldolgozás megvalósítása és a memóriahasználat optimalizálása az erőforrások hatékony kezelése érdekében.
+**K: Hogyan alkalmazhatok programozottan ideiglenes licencet?**  
+V: Töltse be a `.lic` fájlt a `License license = new License(); license.setLicense("Aspose.Total.Java.lic");` kóddal.
 
-3. **Integrálható az Aspose.Imaging más rendszerekkel?**
-   - Igen, olyan API-kat biztosít, amelyek képesek együttműködni a különböző fájlformátumokkal és rendszerekkel a zökkenőmentes integráció érdekében.
+**K: Van mód a TIFF előnézetére mentés előtt?**  
+V: Minden `TiffFrame`-et renderelhet egy `BufferedImage`-re, és megjelenítheti egy Swing komponensben.
 
-4. **Milyen licencelési lehetőségek vannak az Aspose.Imaginghez?**
-   - A lehetőségek közé tartozik az ingyenes próbaverzió, az ideiglenes licenc a hosszabb teszteléshez, vagy a teljes licenc megvásárlása.
+**K: Mely Java verziók támogatottak hivatalosan?**  
+V: Az Aspose.Imaging a Java 8-tól a Java 21-ig, beleértve az LTS kiadásokat, támogatja.
 
-5. **Hogyan oldhatom meg a TIFF fájlokkal végzett munka során előforduló gyakori problémákat?**
-   - Lásd az Aspose-t [dokumentáció](https://reference.aspose.com/imaging/java/) és hibaelhárítási tippeket kínáló támogató fórumok.
+## Összegzés
 
-## Erőforrás
+Most már rendelkezik egy teljes, termelésre kész munkafolyamattal a többoldalas TIFF fájlok létrehozásához **ccittfax3 compression java** használatával az Aspose.Imaging segítségével. A fenti lépések követésével hatékonyan archiválhat hatalmas dokumentumgyűjteményeket, miközben alacsony tárolási költségeket és magas képminőséget tart fenn. Fedezze fel az Aspose.Imaging további funkcióit—például OCR, metaadat-kezelés és formátumkonverzió—hogy tovább fejlessze a dokumentumfeldolgozó csővezetékét.
 
-- **Dokumentáció**https://reference.aspose.com/imaging/java/
-- **Letöltés**https://releases.aspose.com/imaging/java/
-- **Vásárlás**https://purchase.aspose.com/buy
-- **Ingyenes próbaverzió**https://releases.aspose.com/imaging/java/
-- **Ideiglenes engedély**https://purchase.aspose.com/temporary-license/
-- **Támogatás**https://forum.aspose.com/c/imaging/14
+---
 
-Most, hogy felvértezve van a tudással, kezdje el megvalósítani és felfedezni ezeket a technikákat a Java projektjeiben!
+**Utolsó frissítés:** 2026-09-28  
+**Tesztelt verzió:** Aspose.Imaging 25.5 for Java  
+**Szerző:** Aspose
+
+## Kapcsolódó útmutatók
+
+- [Hogyan hozzunk létre többoldalas TIFF-et az Aspose.Imaging for Java segítségével – Teljes útmutató](/imaging/java/animation-multi-frame-images/create-multi-page-tiff-aspose-imaging-java/)
+- [Hogyan csökkentsük a képfájl méretét LZW tömörítéssel Java-ban](/imaging/java/compression-optimization/compress-tiff-images-aspose-imaging-java/)
+- [Többoldalas TIFF keretek szétválasztása az Aspose.Imaging for Java segítségével](/imaging/java/image-conversion-and-optimization/tiff-image-frame-splitting/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

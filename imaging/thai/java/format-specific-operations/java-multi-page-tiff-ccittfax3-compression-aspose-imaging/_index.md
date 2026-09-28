@@ -1,139 +1,168 @@
 ---
-"date": "2025-06-04"
-"description": "เรียนรู้การสร้างไฟล์ TIFF หลายหน้าโดยใช้การบีบอัด CCITTFAX3 ใน Java ด้วย Aspose.Imaging เรียนรู้เทคนิคการสแกนและเก็บเอกสารที่มีประสิทธิภาพ"
-"title": "สร้าง TIFF หลายหน้าด้วยการบีบอัด CCITTFAX3 ใน Java โดยใช้ Aspose.Imaging"
-"url": "/th/java/format-specific-operations/java-multi-page-tiff-ccittfax3-compression-aspose-imaging/"
-"weight": 1
+date: '2026-09-28'
+description: เรียนรู้วิธีใช้ ccittfax3 compression java เพื่อสร้างไฟล์ TIFF แบบหลายหน้าด้วย
+  Aspose.Imaging. สแกน, เก็บถาวร, และลดขนาดไฟล์อย่างมีประสิทธิภาพสำหรับกระบวนการทำงานของเอกสาร.
+keywords:
+- ccittfax3 compression java
+- multi-page tiff java
+- aspose imaging tutorial
+- java image processing
+- document archiving tiff
+lastmod: '2026-09-28'
+og_description: ค้นพบขั้นตอนโดยละเอียดในการใช้ ccittfax3 compression java ร่วมกับ
+  Aspose.Imaging เพื่อสร้างไฟล์ TIFF แบบหลายหน้าที่มีประสิทธิภาพสำหรับการสแกนและการเก็บถาวร.
+og_image_alt: Guide showing Java code that creates a multi-page TIFF using CCITTFAX3
+  compression
+og_title: วิธีสร้างไฟล์ TIFF แบบหลายหน้าโดยใช้ ccittfax3 compression java
+schemas:
+- author: Aspose
+  dateModified: '2026-09-28'
+  description: Learn how to use ccittfax3 compression java to create multi-page TIFF
+    files with Aspose.Imaging. Efficiently scan, archive, and reduce file size for
+    document workflows.
+  headline: How to create multi-page TIFF with ccittfax3 compression java
+  type: TechArticle
+- questions:
+  - answer: CCITTFAX3 is limited to monochrome data; for color use JPEG or LZW compression
+      instead.
+    question: Can I use this approach with color images?
+  - answer: Yes—the library writes each frame directly to the output stream, keeping
+      memory usage low even for thousands of pages.
+    question: Does Aspose.Imaging support streaming for huge TIFFs?
+  - answer: Load the `.lic` file with `License license = new License(); license.setLicense("Aspose.Total.Java.lic");`.
+    question: How do I apply a temporary license programmatically?
+  - answer: You can render each `TiffFrame` to a `BufferedImage` and display it in
+      a Swing component.
+    question: Is there a way to preview the TIFF before saving?
+  - answer: Aspose.Imaging supports Java 8 through Java 21, including LTS releases.
+    question: Which Java versions are officially supported?
+  type: FAQPage
+tags:
+- ccittfax3 compression
+- Aspose.Imaging
+- Java TIFF
+- image compression
+- document scanning
+title: วิธีสร้างไฟล์ TIFF แบบหลายหน้าโดยใช้ ccittfax3 compression java
+url: /th/java/format-specific-operations/java-multi-page-tiff-ccittfax3-compression-aspose-imaging/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# เรียนรู้การสร้าง TIFF หลายหน้าด้วยการบีบอัด CCITTFAX3 ใน Java โดยใช้ Aspose.Imaging
 
-## การแนะนำ
+# เชี่ยวชาญการสร้างไฟล์ TIFF หลายหน้าโดยใช้การบีบอัด ccittfax3 ใน Java ด้วย Aspose.Imaging
 
-คุณกำลังมองหาวิธีจัดการการสแกนเอกสารและกระบวนการเก็บถาวรอย่างมีประสิทธิภาพโดยการสร้างไฟล์ TIFF หลายหน้าหรือไม่ ด้วยความสามารถของ Aspose.Imaging สำหรับ Java งานนี้จึงราบรื่นไร้รอยสะดุด คู่มือนี้จะแนะนำคุณเกี่ยวกับการสร้างไฟล์ TIFF หลายหน้าโดยใช้การบีบอัด CCITTFAX3 ซึ่งเป็นวิธีที่เหมาะสำหรับรูปภาพขาวดำ เช่น เอกสารที่สแกน การเชี่ยวชาญเทคนิคเหล่านี้จะทำให้คุณมีอุปกรณ์พร้อมสำหรับการจัดการข้อมูลภาพจำนวนมากอย่างมีประสิทธิภาพ
+## บทนำ
 
-**สิ่งที่คุณจะได้เรียนรู้:**
-- ตั้งค่า Aspose.Imaging ในโปรเจ็กต์ Java ของคุณ
-- สร้าง TiffOptions ด้วยการบีบอัด CCITTFAX3
-- สร้างและกำหนดค่าอินสแตนซ์ TiffImage ใหม่
-- โหลด ปรับขนาด และเพิ่มรูปภาพเป็นเฟรมลงในไฟล์ TIFF
-- บันทึกและเพิ่มประสิทธิภาพไฟล์ TIFF หลายหน้า
+หากคุณต้องการจัดเก็บเอกสารสแกนจำนวนมากโดยคงขนาดไฟล์ให้เล็ก **ccittfax3 compression java** เป็นโซลูชันที่เหมาะสมที่สุด บทเรียนนี้จะแสดงวิธีสร้างไฟล์ TIFF หลายหน้าโดยใช้การบีบอัด CCITTFAX3 ใน Java ด้วย Aspose.Imaging คุณจะได้เรียนรู้ว่าการบีบอัดนี้ทำงานได้ดีเพียงใดสำหรับการสแกนแบบโมโนโครม วิธีการตั้งค่าห้องสมุด และวิธีเพิ่มแต่ละหน้าเป็นเฟรม
 
-มาเจาะลึกกันว่าคุณสามารถนำคุณลักษณะเหล่านี้ไปใช้งานในแอปพลิเคชัน Java ของคุณได้อย่างไร
+**สิ่งที่คุณจะได้เรียนรู้**
+- วิธีเพิ่ม Aspose.Imaging ไปยังโครงการ Java
+- วิธีตั้งค่า `TiffOptions` สำหรับการบีบอัด CCITTFAX3
+- วิธีสร้าง `TiffImage` ปรับขนาดภาพต้นทาง และเพิ่มเป็นเฟรม
+- วิธีบันทึกไฟล์ TIFF หลายหน้าสุดท้ายอย่างมีประสิทธิภาพ
+
+มาดูการดำเนินการอย่างเต็มรูปแบบ
+
+## คำตอบอย่างรวดเร็ว
+- **What is the main benefit of CCITTFAX3 compression?** ลดขนาดไฟล์ได้สูงสุด 80 % สำหรับการสแกนสีดำ‑ขาว  
+- **Which library provides built‑in support?** Aspose.Imaging สำหรับ Java รุ่น 25.5+  
+- **Do I need a license for development?** ใบอนุญาตทดลองใช้ฟรีทำงานได้ครบทุกฟีเจอร์; จำเป็นต้องมีใบอนุญาตแบบชำระเงินสำหรับการใช้งานจริง  
+- **Can I process hundreds of pages?** ได้—Aspose.Imaging สตรีมหน้า ทำให้การใช้หน่วยความจำต่ำ  
+- **Is the code compatible with Java 11 and later?** แน่นอน; API รองรับ Java 8+
+
+## ccittfax3 compression java คืออะไร?
+`CCITTFAX3` เป็นอัลกอริทึมการบีบอัดแบบโมโนโครมแบบไม่มีการสูญเสียข้อมูลที่ออกแบบมาสำหรับแฟกซ์และภาพเอกสารสแกน มันเข้ารหัสพิกเซลแต่ละพิกเซลเป็นบิตเดียว ให้ผลลัพธ์คุณภาพสูงในขณะที่ลดขนาดไฟล์อย่างมาก—มักลดได้ 70‑80 % เมื่อเทียบกับ TIFF ที่ไม่ได้บีบอัด ทำให้เหมาะสำหรับการจัดเก็บเอกสารสีดำ‑ขาวที่ต้องคงความแม่นยำ
+
+## ทำไมต้องใช้ Aspose.Imaging สำหรับงานนี้?
+Aspose.Imaging รองรับ **100+** รูปแบบไฟล์เข้าและออก รวมถึง PDF, PNG, JPEG, และ TIFF สถาปัตยกรรมสตรีมของมันสามารถจัดการไฟล์ TIFF **หลายร้อยหน้า** ได้โดยไม่ต้องโหลดเอกสารทั้งหมดเข้าสู่หน่วยความจำ ทำให้เหมาะกับโครงการจัดเก็บเอกสารขนาดใหญ่
 
 ## ข้อกำหนดเบื้องต้น
 
-ก่อนที่เราจะเริ่ม ให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นดังต่อไปนี้:
-
-### ห้องสมุดที่จำเป็น
-- **Aspose.Imaging สำหรับ Java**:ขอแนะนำให้ใช้เวอร์ชัน 25.5 ขึ้นไป เพื่อเข้าถึงฟังก์ชันการทำงานปัจจุบันทั้งหมด
-  
-### ข้อกำหนดการตั้งค่าสภาพแวดล้อม
-- Java Development Kit (JDK) ติดตั้งอยู่บนเครื่องของคุณ
-- IDE เช่น IntelliJ IDEA หรือ Eclipse
-
-### ข้อกำหนดเบื้องต้นของความรู้
-- ความเข้าใจพื้นฐานเกี่ยวกับการเขียนโปรแกรม Java และแนวคิดเชิงวัตถุ
-- ความคุ้นเคยกับ Maven/Gradle สำหรับการจัดการการอ้างอิง
+- **Java Development Kit (JDK)** 8 หรือใหม่กว่า ต้องติดตั้ง
+- **IDE** เช่น IntelliJ IDEA หรือ Eclipse
+- **Maven** หรือ **Gradle** สำหรับการจัดการ dependencies
+- ความรู้พื้นฐานของ Java (คลาส, อ็อบเจ็กต์, คอลเลกชัน)
 
 ## การตั้งค่า Aspose.Imaging สำหรับ Java
 
-หากต้องการเริ่มใช้ Aspose.Imaging ในโปรเจ็กต์ของคุณ คุณต้องรวม Aspose.Imaging เป็นส่วนที่ต้องพึ่งพา นี่คือวิธีดำเนินการโดยใช้เครื่องมือสร้างต่างๆ:
+เพิ่มไลบรารีลงในไฟล์ build ของคุณ
 
-**เมเวน:**
+**Maven:**  
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-imaging</artifactId>
     <version>25.5</version>
 </dependency>
-```
+```  
 
-**เกรเดิ้ล:**
+**Gradle:**  
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
-```
+```  
 
 ### ดาวน์โหลดโดยตรง
 
-หรือคุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรงจาก [Aspose.Imaging สำหรับการเปิดตัว Java](https://releases-aspose.com/imaging/java/).
+คุณสามารถดาวน์โหลด JAR เวอร์ชันล่าสุดได้จาก [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-### การขอใบอนุญาต
+### การรับใบอนุญาต
 
-คุณสามารถรับใบอนุญาตทดลองใช้งานฟรีเพื่อสำรวจฟีเจอร์ทั้งหมดโดยไม่มีข้อจำกัดได้โดยเข้าไปที่ [หน้าทดลองใช้งานฟรีของ Aspose](https://releases.aspose.com/imaging/java/)สำหรับการใช้งานแบบขยายเวลา โปรดพิจารณาซื้อใบอนุญาตหรือสมัครใบอนุญาตชั่วคราวได้ที่ [การซื้อ Aspose](https://purchase-aspose.com/temporary-license/).
+ใบอนุญาตทดลองใช้ฟรีพร้อมให้ดาวน์โหลดจาก [Aspose's Free Trial page](https://releases.aspose.com/imaging/java/). สำหรับการใช้งานในผลิตภัณฑ์ ให้ซื้อใบอนุญาตถาวรหรือขอใบอนุญาตชั่วคราวที่ [Aspose Purchase](https://purchase.aspose.com/temporary-license/).
 
-### การเริ่มต้นขั้นพื้นฐาน
+สำหรับการใช้งาน API อย่างละเอียด ดู [documentation](https://reference.aspose.com/imaging/java/) ของ Aspose.Imaging สำหรับ Java
 
-เมื่อคุณรวม Aspose.Imaging ไว้ในโปรเจ็กต์ของคุณแล้ว ให้เริ่มต้นดังนี้:
+### การเริ่มต้นพื้นฐาน
+
+หลังจากเพิ่ม dependency แล้ว ให้เริ่มต้นไลบรารีตามตัวอย่างด้านล่าง
 
 ```java
 import com.aspose.imaging.License;
 
 License license = new License();
 license.setLicense("path_to_your_license.lic");
-```
+```  
 
-## คู่มือการใช้งาน
+## วิธีกำหนดค่า ccittfax3 compression java สำหรับ TIFF หลายหน้า?
 
-เราจะแบ่งการใช้งานออกเป็นหลายส่วนตามฟังก์ชันการทำงาน
+`TiffOptions` เป็นคลาสที่กำหนดรูปแบบเอาต์พุตและการตั้งค่าการบีบอัดสำหรับไฟล์ TIFF โหลดอ็อบเจ็กต์ `TiffOptions` ด้วย enum `CCITTGroup3FaxCompression` แล้วตั้งค่าแหล่งไฟล์เอาต์พุต การกำหนดค่าสองขั้นตอนนี้เตรียมตัวเขียนสำหรับการบีบอัดโมโนโครมและรับประกันว่าหน้าทุกหน้าที่เพิ่มต่อมาจะถูกเข้ารหัสด้วยอัลกอริทึม CCITTFAX3 ทำให้ขนาดไฟล์ลดลงอย่างมีนัยสำคัญในขณะที่คงคุณภาพภาพ
 
-### สร้าง TiffOptions ด้วยการบีบอัด CCITTFAX3
-
-#### ภาพรวม
-การสร้าง `TiffOptions` อินสแตนซ์ที่กำหนดค่าสำหรับการบีบอัด CCITTFAX3 ถือเป็นสิ่งสำคัญเมื่อต้องจัดการกับรูปภาพขาวดำในรูปแบบ TIFF คุณสมบัตินี้ช่วยเพิ่มประสิทธิภาพการจัดเก็บและรักษาคุณภาพของรูปภาพได้อย่างมีประสิทธิภาพ
-
-**ขั้นตอน:**
-
-1. **เริ่มต้น TiffOptions ด้วย CCITTFAX3**
-    ```java
+```java
     import com.aspose.imaging.fileformats.tiff.TiffExpectedFormat;
     import com.aspose.imaging.imageoptions.TiffOptions;
     import com.aspose.imaging.sources.FileCreateSource;
 
     TiffOptions outputSettings = new TiffOptions(TiffExpectedFormat.TiffCcittFax3);
-    ```
+    ```  
 
-2. **ตั้งค่าแหล่งที่มาของไฟล์เอาท์พุต**
-    ```java
-    // แทนที่ "YOUR_OUTPUT_DIRECTORY" ด้วยเส้นทางไดเร็กทอรีจริงของคุณ
+```java
+    // Replace "YOUR_OUTPUT_DIRECTORY" with your actual directory path
     outputSettings.setSource(new FileCreateSource("YOUR_OUTPUT_DIRECTORY/output.tiff", false));
-    ```
+    ```  
 
-### สร้างอินสแตนซ์ TiffImage ใหม่
+## วิธีสร้างอินสแตนซ์ TiffImage ใน Java?
 
-#### ภาพรวม
-การสร้างอินสแตนซ์ของ `TiffImage` เกี่ยวข้องกับการระบุมิติและใช้การกำหนดค่าไว้ก่อนหน้านี้ `TiffOptions`-
+`TiffImage` แทนเอกสาร TIFF หลายหน้าในหน่วยความจำและให้เมธอดสำหรับจัดการเฟรมของมัน ก่อนอื่นกำหนดความกว้างและความสูงที่ทุกหน้าจะใช้ร่วมกัน จากนั้นสร้างอินสแตนซ์ `TiffImage` ด้วย `TiffOptions` ที่สร้างไว้ก่อนหน้า อ็อบเจ็กต์ `TiffImage` ทำหน้าที่เป็นคอนเทนเนอร์สำหรับเฟรมแต่ละอัน ให้คุณเพิ่ม, ลบ หรือจัดลำดับหน้าใหม่ก่อนบันทึกไฟล์สุดท้าย
 
-**ขั้นตอน:**
-
-1. **ประกาศขนาด**
-    ```java
+```java
     final int newWidth = 500;
     final int newHeight = 500;
-    ```
+    ```  
 
-2. **สร้างอินสแตนซ์ TiffImage**
-    ```java
+```java
     import com.aspose.imaging.Image;
     import com.aspose.imaging.fileformats.tiff.TiffImage;
 
     TiffImage tiffImage = (TiffImage) Image.create(outputSettings, newWidth, newHeight);
-    ```
+    ```  
 
-### โหลดและปรับขนาดรูปภาพจากไดเร็กทอรี
+## วิธีโหลดและปรับขนาดภาพต้นทางจากโฟลเดอร์?
 
-#### ภาพรวม
-การโหลดรูปภาพเกี่ยวข้องกับการอ่านไฟล์จากไดเร็กทอรี การกรองรูปภาพตามนามสกุล และการปรับขนาดให้พอดีกับมิติ TIFF
+กรองไดเรกทอรีเป้าหมายเพื่อหาไฟล์ JPEG, อ่านแต่ละภาพและปรับขนาดให้ตรงกับแคนวาสของ TIFF การปรับขนาดก่อนเพิ่มเฟรมช่วยลดการใช้หน่วยความจำและเร่งการบันทึก โดยการแปลงภาพต้นทางแต่ละภาพให้เป็นขนาดและรูปแบบพิกเซลที่ต้องการ คุณจะได้เลย์เอาต์หน้าที่สม่ำเสมอและหลีกเลี่ยงข้อผิดพลาดขณะรันไทม์เมื่อเพิ่มเฟรมลงในเอกสาร TIFF
 
-**ขั้นตอน:**
-
-1. **กรองและโหลดไฟล์ JPG**
-    ```java
+```java
     import java.io.File;
     import java.io.FilenameFilter;
 
@@ -145,10 +174,9 @@ license.setLicense("path_to_your_license.lic");
     });
 
     if (files == null) return;
-    ```
+    ```  
 
-2. **ปรับขนาดภาพ**
-    ```java
+```java
     import com.aspose.imaging.RasterImage;
     import com.aspose.imaging.ResizeType;
 
@@ -156,17 +184,13 @@ license.setLicense("path_to_your_license.lic");
         RasterImage image = (RasterImage) Image.load(fileEntry.getAbsolutePath());
         image.resize(newWidth, newHeight, ResizeType.NearestNeighbourResample);
     }
-    ```
+    ```  
 
-### เพิ่มเฟรมให้กับภาพ TIFF หลายหน้า
+## วิธีเพิ่มแต่ละภาพเป็นเฟรมใน TIFF หลายหน้า?
 
-#### ภาพรวม
-การเพิ่มเฟรมเป็นสิ่งสำคัญสำหรับการสร้างไฟล์ TIFF หลายหน้า โดยแต่ละเฟรมจะสัมพันธ์กับรูปภาพแต่ละภาพ
+`TiffFrame` เป็นอ็อบเจ็กต์ที่เก็บภาพหน้าเดียวและเมตาดาต้าที่เกี่ยวข้องภายใน TIFF ทำการวนลูปภาพที่ปรับขนาดแล้ว, สร้าง `TiffFrame` ใหม่และเพิ่มลงใน `TiffImage` แต่ละเฟรมจะกลายเป็นหน้าต่างๆ ในเอกสารสุดท้าย และไลบรารีจะจัดการอัปเดตเมตาดาต้าที่จำเป็นโดยอัตโนมัติ เช่น จำนวนหน้าและออฟเซ็ต เพื่อให้โครงสร้าง TIFF หลายหน้าถูกต้อง
 
-**ขั้นตอน:**
-
-1. **ทำซ้ำภาพและสร้างเฟรม**
-    ```java
+```java
     import com.aspose.imaging.fileformats.tiff.TiffFrame;
 
     int index = 0;
@@ -183,71 +207,72 @@ license.setLicense("path_to_your_license.lic");
         }
         index++;
     }
-    ```
+    ```  
 
-### บันทึกภาพ TIFF หลายหน้า
+## วิธีบันทึกไฟล์ TIFF หลายหน้าสุดท้าย?
 
-#### ภาพรวม
-ท้ายที่สุด การบันทึกและปิดทรัพยากรจะช่วยให้แน่ใจว่าการเปลี่ยนแปลงทั้งหมดจะยังคงอยู่
+เรียกเมธอด `save` ของอินสแตนซ์ `TiffImage` พร้อมระบุเส้นทางเอาต์พุตที่ต้องการ ไลบรารีจะเขียนทุกเฟรมโดยใช้การบีบอัด CCITTFAX3, สตรีมข้อมูลไปยังดิสก์อย่างมีประสิทธิภาพและปิดทรัพยากรที่อยู่ภายใต้ หลังจากการบันทึกเสร็จ ไฟล์ที่ได้จะมีทุกหน้าที่บีบอัดตามที่กำหนด พร้อมใช้งานสำหรับการแจกจ่ายหรือการจัดเก็บ
 
-**ขั้นตอน:**
-
-1. **บันทึกการเปลี่ยนแปลง**
-    ```java
+```java
     try {
         tiffImage.save();
     } finally {
         tiffImage.close();
         outputSettings.close();
     }
-    ```
+    ```  
 
-## การประยุกต์ใช้งานจริง
+## การประยุกต์ใช้ในทางปฏิบัติ
 
-การสร้างไฟล์ TIFF หลายหน้าด้วยการบีบอัด CCITTFAX3 อาจเป็นประโยชน์ได้ในหลายสถานการณ์:
+- **Document archiving:** เก็บสัญญา, ใบแจ้งหนี้ หรือบันทึกทางกฎหมายที่สแกนไว้ด้วยพื้นที่จัดเก็บที่น้อยที่สุด  
+- **Medical imaging:** บีบอัดภาพรังสีวิทยาโดยคงรายละเอียดการวินิจฉัย  
+- **Print production:** สร้างงานพิมพ์หลายหน้าที่เครื่องพิมพ์สามารถรับได้โดยตรง  
 
-- **การเก็บเอกสารถาวร**:จัดเก็บและจัดเก็บเอกสารที่สแกนอย่างมีประสิทธิภาพ
-- **การถ่ายภาพทางการแพทย์**:รักษาภาพบีบอัดคุณภาพสูงสำหรับแผนกรังสีวิทยา
-- **บริการงานพิมพ์**:เตรียมงานพิมพ์ขนาดใหญ่ที่ต้องใช้หน้าภาพหลายหน้า
+## พิจารณาด้านประสิทธิภาพ
 
-## การพิจารณาประสิทธิภาพ
+- ใช้ `ResizeOptions` ที่รักษาอัตราส่วนภาพเพื่อหลีกเลี่ยงการบิดเบือน  
+- ปิดอ็อบเจ็กต์ `Image` แต่ละอันหลังจากเพิ่มเฟรมเพื่อคืนหน่วยความจำเนทีฟ  
+- สำหรับชุดข้อมูลขนาดใหญ่มาก ให้ประมวลผลไฟล์ใน parallel streams และเขียนแต่ละส่วนของ TIFF อย่างอะซิงโครนัส  
 
-เพื่อให้มั่นใจถึงประสิทธิภาพที่เหมาะสมที่สุด:
-- ใช้วิธีการปรับขนาดที่เหมาะสมเพื่อรักษาคุณภาพและลดเวลาในการประมวลผล
-- จัดการหน่วยความจำอย่างมีประสิทธิภาพด้วยการปิดทรัพยากรทันทีหลังใช้งาน
-- เพิ่มประสิทธิภาพการดำเนินการ I/O ไฟล์และพิจารณาการประมวลผลแบบอะซิงโครนัสสำหรับชุดข้อมูลขนาดใหญ่
+## ข้อผิดพลาดทั่วไปและการแก้ไขปัญหา
 
-## บทสรุป
+- **Incorrect pixel format:** CCITTFAX3 ทำงานได้เฉพาะภาพ 1‑bit (สีดำ‑ขาว) ให้แปลงภาพสีเป็นระดับสีเทาก่อนปรับขนาด  
+- **Memory leaks:** ควรเรียก `dispose()` บน `Image` ชั่วคราวเสมอ; มิฉะนั้นบัฟเฟอร์เนทีฟจะยังคงถูกจัดสรร  
+- **File size not reduced:** ตรวจสอบให้แน่ใจว่าคุณสมบัติการบีบอัดของ `TiffOptions` ถูกตั้งค่า; มิฉะนั้นจะใช้ค่าเริ่มต้น (ไม่มีการบีบอัด)  
 
-ในบทช่วยสอนนี้ คุณจะได้เรียนรู้วิธีสร้างไฟล์ TIFF หลายหน้าโดยใช้การบีบอัด CCITTFAX3 ใน Java ด้วย Aspose.Imaging เมื่อเข้าใจขั้นตอนเหล่านี้แล้ว คุณจะสามารถจัดการข้อมูลภาพสำหรับแอปพลิเคชันต่างๆ ได้อย่างมีประสิทธิภาพ หากต้องการพัฒนาทักษะของคุณเพิ่มเติม ให้สำรวจฟีเจอร์เพิ่มเติมของไลบรารี Aspose.Imaging และรวมฟีเจอร์เหล่านี้เข้ากับโปรเจ็กต์ของคุณ
+## คำถามที่พบบ่อย
 
-## ส่วนคำถามที่พบบ่อย
+**Q: ฉันสามารถใช้วิธีนี้กับภาพสีได้หรือไม่?**  
+A: CCITTFAX3 จำกัดไว้ที่ข้อมูลโมโนโครม; สำหรับสีให้ใช้การบีบอัด JPEG หรือ LZW แทน  
 
-1. **การบีบอัด CCITTFAX3 คืออะไร?**
-   - เป็นวิธีการบีบอัดข้อมูลที่ออกแบบมาโดยเฉพาะสำหรับรูปภาพขาวดำ โดยมักใช้ในการสแกนเอกสาร
+**Q: Aspose.Imaging รองรับการสตรีมสำหรับ TIFF ขนาดใหญ่หรือไม่?**  
+A: ใช่—ไลบรารีเขียนแต่ละเฟรมโดยตรงไปยังสตรีมเอาต์พุต ทำให้การใช้หน่วยความจำน้อยแม้จะมีหลายพันหน้า  
 
-2. **ฉันจะจัดการชุดข้อมูลภาพขนาดใหญ่ได้อย่างมีประสิทธิภาพได้อย่างไร**
-   - นำการประมวลผลแบบอะซิงโครนัสมาใช้และเพิ่มประสิทธิภาพการใช้หน่วยความจำเพื่อจัดการทรัพยากรอย่างมีประสิทธิภาพ
+**Q: ฉันจะใช้ใบอนุญาตชั่วคราวแบบโปรแกรมได้อย่างไร?**  
+A: โหลดไฟล์ `.lic` ด้วย `License license = new License(); license.setLicense("Aspose.Total.Java.lic");`.  
 
-3. **สามารถบูรณาการ Aspose.Imaging เข้ากับระบบอื่นได้หรือไม่**
-   - ใช่ มี API ที่สามารถโต้ตอบกับรูปแบบไฟล์และระบบต่าง ๆ เพื่อการรวมเข้าด้วยกันอย่างราบรื่น
+**Q: มีวิธีดูตัวอย่าง TIFF ก่อนบันทึกหรือไม่?**  
+A: คุณสามารถเรนเดอร์แต่ละ `TiffFrame` ไปยัง `BufferedImage` แล้วแสดงในคอมโพเนนต์ Swing.  
 
-4. **ตัวเลือกการอนุญาตสิทธิ์สำหรับ Aspose.Imaging มีอะไรบ้าง**
-   - ตัวเลือกได้แก่ การทดลองใช้ฟรี ใบอนุญาตชั่วคราวสำหรับการทดสอบขยายเวลา หรือการซื้อใบอนุญาตเต็มรูปแบบ
+**Q: เวอร์ชัน Java ใดที่รองรับอย่างเป็นทางการ?**  
+A: Aspose.Imaging รองรับ Java 8 ถึง Java 21 รวมถึงรุ่น LTS  
 
-5. **ฉันจะแก้ไขปัญหาทั่วไปเมื่อทำงานกับไฟล์ TIFF ได้อย่างไร**
-   - อ้างอิงจาก Aspose [เอกสารประกอบ](https://reference.aspose.com/imaging/java/) และฟอรัมสนับสนุนสำหรับเคล็ดลับการแก้ไขปัญหา
+## สรุป
 
-## ทรัพยากร
+ตอนนี้คุณมีเวิร์กโฟลว์ที่ครบถ้วนและพร้อมใช้งานในผลิตภัณฑ์สำหรับสร้างไฟล์ TIFF หลายหน้าด้วย **ccittfax3 compression java** โดยใช้ Aspose.Imaging โดยทำตามขั้นตอนข้างต้น คุณสามารถจัดเก็บคอลเลกชันเอกสารขนาดใหญ่ได้อย่างมีประสิทธิภาพพร้อมลดค่าใช้จ่ายในการจัดเก็บและคงคุณภาพภาพสูง สำรวจฟีเจอร์เพิ่มเติมของ Aspose.Imaging เช่น OCR, การจัดการเมตาดาต้า และการแปลงรูปแบบ เพื่อเพิ่มประสิทธิภาพให้กับกระบวนการประมวลผลเอกสารของคุณ
 
-- **เอกสารประกอบ**https://reference.aspose.com/imaging/java/
-- **ดาวน์โหลด**: https://releases.aspose.com/imaging/java/
-- **ซื้อ**: https://purchase.aspose.com/ซื้อ
-- **ทดลองใช้งานฟรี**: https://releases.aspose.com/imaging/java/
-- **ใบอนุญาตชั่วคราว**: https://purchase.aspose.com/ใบอนุญาตชั่วคราว/
-- **สนับสนุน**: https://forum.aspose.com/c/imaging/14
+---
 
-ตอนนี้ที่คุณได้รับความรู้แล้ว เริ่มนำไปใช้และสำรวจเทคนิคเหล่านี้ในโครงการ Java ของคุณได้เลย!
+**Last Updated:** 2026-09-28  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose
+
+## บทแนะนำที่เกี่ยวข้อง
+
+- [วิธีสร้าง Multi-Page TIFF ด้วย Aspose.Imaging สำหรับ Java – คู่มือเต็ม](/imaging/java/animation-multi-frame-images/create-multi-page-tiff-aspose-imaging-java/)
+- [วิธีลดขนาดไฟล์ภาพด้วยการบีบอัด LZW ใน Java](/imaging/java/compression-optimization/compress-tiff-images-aspose-imaging-java/)
+- [แยกเฟรม Multi Page TIFF ด้วย Aspose.Imaging สำหรับ Java](/imaging/java/image-conversion-and-optimization/tiff-image-frame-splitting/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

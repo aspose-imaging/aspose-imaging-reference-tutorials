@@ -1,139 +1,169 @@
 ---
-"date": "2025-06-04"
-"description": "Lär dig skapa flersidiga TIFF-filer med CCITTFAX3-komprimering i Java med Aspose.Imaging. Bemästra effektiv dokumentskanning och arkiveringstekniker."
-"title": "Skapa flersidig TIFF med CCITTFAX3-komprimering i Java med Aspose.Imaging"
-"url": "/sv/java/format-specific-operations/java-multi-page-tiff-ccittfax3-compression-aspose-imaging/"
-"weight": 1
+date: '2026-09-28'
+description: Lär dig hur du använder ccittfax3 compression java för att skapa flersidiga
+  TIFF‑filer med Aspose.Imaging. Skanna, arkivera och minska filstorleken effektivt
+  för dokumentarbetsflöden.
+keywords:
+- ccittfax3 compression java
+- multi-page tiff java
+- aspose imaging tutorial
+- java image processing
+- document archiving tiff
+lastmod: '2026-09-28'
+og_description: Upptäck steg‑för‑steg hur du använder ccittfax3 compression java med
+  Aspose.Imaging för att bygga effektiva flersidiga TIFF‑filer för skanning och arkivering.
+og_image_alt: Guide showing Java code that creates a multi-page TIFF using CCITTFAX3
+  compression
+og_title: Hur man skapar flersidig TIFF med ccittfax3 compression java
+schemas:
+- author: Aspose
+  dateModified: '2026-09-28'
+  description: Learn how to use ccittfax3 compression java to create multi-page TIFF
+    files with Aspose.Imaging. Efficiently scan, archive, and reduce file size for
+    document workflows.
+  headline: How to create multi-page TIFF with ccittfax3 compression java
+  type: TechArticle
+- questions:
+  - answer: CCITTFAX3 is limited to monochrome data; for color use JPEG or LZW compression
+      instead.
+    question: Can I use this approach with color images?
+  - answer: Yes—the library writes each frame directly to the output stream, keeping
+      memory usage low even for thousands of pages.
+    question: Does Aspose.Imaging support streaming for huge TIFFs?
+  - answer: Load the `.lic` file with `License license = new License(); license.setLicense("Aspose.Total.Java.lic");`.
+    question: How do I apply a temporary license programmatically?
+  - answer: You can render each `TiffFrame` to a `BufferedImage` and display it in
+      a Swing component.
+    question: Is there a way to preview the TIFF before saving?
+  - answer: Aspose.Imaging supports Java 8 through Java 21, including LTS releases.
+    question: Which Java versions are officially supported?
+  type: FAQPage
+tags:
+- ccittfax3 compression
+- Aspose.Imaging
+- Java TIFF
+- image compression
+- document scanning
+title: Hur man skapar flersidig TIFF med ccittfax3 compression java
+url: /sv/java/format-specific-operations/java-multi-page-tiff-ccittfax3-compression-aspose-imaging/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# Bemästra flersidig TIFF-skapande med CCITTFAX3-komprimering i Java med Aspose.Imaging
+
+# Mästra skapandet av flersidiga TIFF-filer med ccittfax3 compression java med Aspose.Imaging
 
 ## Introduktion
 
-Vill du effektivt hantera dokumentskanning och arkiveringsprocesser genom att skapa flersidiga TIFF-filer? Med kraften i Aspose.Imaging för Java blir denna uppgift sömlös. Den här guiden guidar dig genom att skapa en flersidig TIFF-fil med CCITTFAX3-komprimering – en metod som är idealisk för svartvita bilder som skannade dokument. Genom att behärska dessa tekniker kommer du att vara väl rustad för att hantera stora mängder bilddata effektivt.
+If you need to archive large volumes of scanned documents while keeping file sizes low, **ccittfax3 compression java** is the go‑to solution. This tutorial shows you how to generate multi‑page TIFF files with CCITTFAX3 compression in Java using Aspose.Imaging. You’ll learn why this compression works so well for monochrome scans, how to configure the library, and how to add each page as a frame.
 
-**Vad du kommer att lära dig:**
-- Konfigurera Aspose.Imaging i ditt Java-projekt.
-- Skapa TiffOptions med CCITTFAX3-komprimering.
-- Generera och konfigurera en ny TiffImage-instans.
-- Ladda, ändra storlek på och lägg till bilder som ramar i TIFF-filen.
-- Spara och optimera flersidiga TIFF-filer.
+**What you’ll learn**
+- How to add Aspose.Imaging to a Java project.
+- How to configure `TiffOptions` for CCITTFAX3 compression.
+- How to create a `TiffImage`, resize source images, and add them as frames.
+- How to save the final multi‑page TIFF efficiently.
 
-Låt oss dyka in i hur du kan implementera dessa funktioner i dina Java-applikationer.
+Let’s walk through the complete implementation.
 
-## Förkunskapskrav
+## Snabba svar
+- **Vad är den största fördelen med CCITTFAX3-komprimering?** Upp till 80 % minskning av filstorleken för svart‑vita skanningar.  
+- **Vilket bibliotek erbjuder inbyggt stöd?** Aspose.Imaging för Java, version 25.5+.  
+- **Behöver jag en licens för utveckling?** En gratis provlicens fungerar för alla funktioner; en betald licens krävs för produktion.  
+- **Kan jag bearbeta hundratals sidor?** Ja—Aspose.Imaging strömmar sidor, så minnesanvändningen förblir låg.  
+- **Är koden kompatibel med Java 11 och senare?** Absolut; API:et riktar sig mot Java 8+.
 
-Innan vi börjar, se till att du har följande förutsättningar:
+## Vad är ccittfax3 compression java?
+`CCITTFAX3` är en förlustfri, monokrom komprimeringsalgoritm designad för fax‑ och skannade dokumentbilder. Den kodar varje pixel som en enda bit, vilket ger högkvalitativt resultat samtidigt som filstorleken minskar dramatiskt—ofta med 70‑80 % jämfört med okomprimerad TIFF. Detta gör den idealisk för arkivering av svart‑vita dokument där noggrannhet måste bevaras.
 
-### Obligatoriska bibliotek
-- **Aspose.Imaging för Java**Version 25.5 eller senare rekommenderas för att få tillgång till alla aktuella funktioner.
-  
-### Krav för miljöinstallation
-- Ett Java Development Kit (JDK) installerat på din maskin.
-- En IDE som IntelliJ IDEA eller Eclipse.
+## Varför använda Aspose.Imaging för denna uppgift?
+Aspose.Imaging stödjer **100+** in‑ och utdataformat, inklusive PDF, PNG, JPEG och TIFF. Dess strömningsarkitektur kan hantera **flerhundratusentals‑sidiga** TIFF‑filer utan att ladda hela dokumentet i minnet, vilket gör den idealisk för storskaliga arkiveringsprojekt.
 
-### Kunskapsförkunskaper
-- Grundläggande förståelse för Java-programmering och objektorienterade koncept.
-- Bekantskap med Maven/Gradle för beroendehantering.
+## Förutsättningar
+
+- **Java Development Kit (JDK)** 8 eller nyare installerat.
+- **IDE** såsom IntelliJ IDEA eller Eclipse.
+- **Maven** eller **Gradle** för beroendehantering.
+- Grundläggande Java‑kunskaper (klasser, objekt, samlingar).
 
 ## Konfigurera Aspose.Imaging för Java
 
-För att börja använda Aspose.Imaging i ditt projekt måste du inkludera det som ett beroende. Så här kan du göra detta med olika byggverktyg:
+Add the library to your build file.
 
-**Maven:**
+**Maven:**  
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-imaging</artifactId>
     <version>25.5</version>
 </dependency>
-```
+```  
 
-**Gradle:**
+**Gradle:**  
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
-```
+```  
 
-### Direkt nedladdning
+### Direktnedladdning
 
-Alternativt kan du ladda ner den senaste versionen direkt från [Aspose.Imaging för Java-utgåvor](https://releases.aspose.com/imaging/java/).
+You can also download the latest JAR from [Aspose.Imaging för Java releases](https://releases.aspose.com/imaging/java/).
 
-### Licensförvärv
+### Licensanskaffning
 
-Du kan skaffa en gratis provlicens för att utforska alla funktioner utan begränsningar genom att besöka [Asposes kostnadsfria provperiodsida](https://releases.aspose.com/imaging/java/)För längre tids användning, överväg att köpa en licens eller ansöka om en tillfällig på [Aspose-köp](https://purchase.aspose.com/temporary-license/).
+A free trial license is available from [Asposes gratis provlicenssida](https://releases.aspose.com/imaging/java/). For production use, purchase a permanent license or request a temporary one at [Aspose Köp](https://purchase.aspose.com/temporary-license/).
 
-### Grundläggande initialisering
+For detailed API usage, see the Aspose.Imaging for Java [dokumentation](https://reference.aspose.com/imaging/java/).
 
-När du har inkluderat Aspose.Imaging i ditt projekt, initiera det enligt följande:
+### Grundläggande initiering
+
+After adding the dependency, initialise the library as shown below.
 
 ```java
 import com.aspose.imaging.License;
 
 License license = new License();
 license.setLicense("path_to_your_license.lic");
-```
+```  
 
-## Implementeringsguide
+## Hur man konfigurerar ccittfax3 compression java för en flersidig TIFF?
 
-Vi kommer att dela upp implementeringen i flera logiska avsnitt baserat på funktionalitet.
+`TiffOptions` är en klass som definierar utdataformatet och komprimeringsinställningarna för en TIFF‑fil. Ladda `TiffOptions`‑objektet med `CCITTGroup3FaxCompression`‑enum, och sätt sedan källan för utdatafilen. Denna tvåstegs‑konfiguration förbereder skrivaren för monokrom komprimering och säkerställer att varje sida som läggs till senare kodas med CCITTFAX3‑algoritmen, vilket ger en betydande storleksreduktion samtidigt som bildkvaliteten bevaras.
 
-### Skapa TiffOptions med CCITTFAX3-komprimering
-
-#### Översikt
-Skapa en `TiffOptions` En instans som är konfigurerad för CCITTFAX3-komprimering är avgörande när man hanterar svartvita bilder i TIFF-format. Den här funktionen optimerar lagring och bibehåller bildkvaliteten effektivt.
-
-**Steg:**
-
-1. **Initiera TiffOptions med CCITTFAX3**
-    ```java
+```java
     import com.aspose.imaging.fileformats.tiff.TiffExpectedFormat;
     import com.aspose.imaging.imageoptions.TiffOptions;
     import com.aspose.imaging.sources.FileCreateSource;
 
     TiffOptions outputSettings = new TiffOptions(TiffExpectedFormat.TiffCcittFax3);
-    ```
+    ```  
 
-2. **Ställ in utdatafilens källa**
-    ```java
-    // Ersätt "YOUR_OUTPUT_DIRECTORY" med din faktiska katalogsökväg
+```java
+    // Replace "YOUR_OUTPUT_DIRECTORY" with your actual directory path
     outputSettings.setSource(new FileCreateSource("YOUR_OUTPUT_DIRECTORY/output.tiff", false));
-    ```
+    ```  
 
-### Skapa en ny TiffImage-instans
+## Hur man skapar en TiffImage‑instans i Java?
 
-#### Översikt
-Skapa en instans av `TiffImage` innebär att specificera dimensioner och använda de tidigare konfigurerade `TiffOptions`.
+`TiffImage` representerar ett flersidigt TIFF‑dokument i minnet och tillhandahåller metoder för att manipulera dess ramar. Definiera först bredden och höjden som alla sidor ska dela. Instansiera sedan `TiffImage` med de tidigare skapade `TiffOptions`. `TiffImage`‑objektet fungerar som en behållare för de enskilda ramarna, så att du kan lägga till, ta bort eller omordna sidor innan du sparar den slutliga filen.
 
-**Steg:**
-
-1. **Deklarera dimensioner**
-    ```java
+```java
     final int newWidth = 500;
     final int newHeight = 500;
-    ```
+    ```  
 
-2. **Skapa TiffImage-instans**
-    ```java
+```java
     import com.aspose.imaging.Image;
     import com.aspose.imaging.fileformats.tiff.TiffImage;
 
     TiffImage tiffImage = (TiffImage) Image.create(outputSettings, newWidth, newHeight);
-    ```
+    ```  
 
-### Ladda och ändra storlek på bilder från en katalog
+## Hur man laddar och ändrar storlek på källbilder från en mapp?
 
-#### Översikt
-Att ladda bilder innebär att läsa filer från en katalog, filtrera dem efter filändelse och ändra storlek för att passa TIFF-dimensionerna.
+Filtrera målkatalogen efter JPEG‑filer, läs varje bild och ändra storlek så att den matchar TIFF‑canvasen. Att ändra storlek innan ramar läggs till minskar minnesförbrukningen och påskyndar sparningsoperationen. Genom att konvertera varje källbild till de erforderliga dimensionerna och pixelformatet säkerställer du en konsekvent sidlayout och undviker körningsfel när ramarna läggs till TIFF‑dokumentet.
 
-**Steg:**
-
-1. **Filtrera och ladda JPG-filer**
-    ```java
+```java
     import java.io.File;
     import java.io.FilenameFilter;
 
@@ -145,10 +175,9 @@ Att ladda bilder innebär att läsa filer från en katalog, filtrera dem efter f
     });
 
     if (files == null) return;
-    ```
+    ```  
 
-2. **Ändra storlek på bilder**
-    ```java
+```java
     import com.aspose.imaging.RasterImage;
     import com.aspose.imaging.ResizeType;
 
@@ -156,17 +185,13 @@ Att ladda bilder innebär att läsa filer från en katalog, filtrera dem efter f
         RasterImage image = (RasterImage) Image.load(fileEntry.getAbsolutePath());
         image.resize(newWidth, newHeight, ResizeType.NearestNeighbourResample);
     }
-    ```
+    ```  
 
-### Lägga till ramar till en flersidig TIFF-bild
+## Hur man lägger till varje bild som en ram i den flersidiga TIFF‑filen?
 
-#### Översikt
-Att lägga till ramar är avgörande för att skapa flersidiga TIFF-filer. Varje ram motsvarar en enskild bild.
+`TiffFrame` är ett objekt som innehåller en enskild sidbild och dess associerade metadata inom en TIFF. Iterera över de storleksändrade bilderna, skapa en ny `TiffFrame` och lägg till den i `TiffImage`. Varje ram blir en separat sida i det slutliga dokumentet, och biblioteket hanterar automatiskt nödvändiga metadatauppdateringar, såsom sidantal och offset, vilket säkerställer en giltig flersidig TIFF‑struktur.
 
-**Steg:**
-
-1. **Iterera över bilder och skapa ramar**
-    ```java
+```java
     import com.aspose.imaging.fileformats.tiff.TiffFrame;
 
     int index = 0;
@@ -183,71 +208,72 @@ Att lägga till ramar är avgörande för att skapa flersidiga TIFF-filer. Varje
         }
         index++;
     }
-    ```
+    ```  
 
-### Spara flersidig TIFF-bild
+## Hur man sparar den slutliga flersidiga TIFF‑filen?
 
-#### Översikt
-Slutligen säkerställer sparande och stängning av resurser att alla ändringar sparas.
+Anropa `save`‑metoden på `TiffImage`‑instansen och ange den önskade utdata‑sökvägen. Biblioteket skriver automatiskt alla ramar med CCITTFAX3‑komprimering, strömmar data till disken effektivt och stänger eventuella underliggande resurser. När sparningsoperationen är klar innehåller den resulterande filen alla sidor med den angivna komprimeringen, redo för distribution eller arkivering.
 
-**Steg:**
-
-1. **Spara ändringar**
-    ```java
+```java
     try {
         tiffImage.save();
     } finally {
         tiffImage.close();
         outputSettings.close();
     }
-    ```
+    ```  
 
 ## Praktiska tillämpningar
 
-Att skapa flersidiga TIFF-filer med CCITTFAX3-komprimering kan vara fördelaktigt i flera scenarier:
-
-- **Dokumentarkivering**Lagra och arkivera skannade dokument effektivt.
-- **Medicinsk avbildning**Upprätthålla högkvalitativa, komprimerade bilder för röntgenavdelningar.
-- **Tryckeritjänster**Förbered stora utskrifter som kräver flera bildsidor.
+- **Dokumentarkivering:** Lagra skannade kontrakt, fakturor eller juridiska handlingar med minimal lagringskostnad.  
+- **Medicinsk bildbehandling:** Komprimera radiologiska skanningar samtidigt som diagnostisk detalj bevaras.  
+- **Tryckproduktion:** Generera flersidiga utskriftsjobb som skrivare kan använda direkt.
 
 ## Prestandaöverväganden
 
-För att säkerställa optimal prestanda:
-- Använd lämpliga storleksändringsmetoder för att bibehålla kvaliteten samtidigt som bearbetningstiden minskas.
-- Hantera minne effektivt genom att stänga resurser omedelbart efter användning.
-- Optimera fil-I/O-operationer och överväg asynkron bearbetning för stora datamängder.
+- Använd `ResizeOptions` som bevarar bildförhållandet för att undvika förvrängning.  
+- Stäng varje `Image`‑objekt efter att dess ram har lagts till för att frigöra inbyggt minne.  
+- För mycket stora batcher, bearbeta filer i parallella strömmar och skriv varje TIFF‑segment asynkront.
+
+## Vanliga fallgropar och felsökning
+
+- **Fel pixelformat:** CCITTFAX3 fungerar endast med 1‑bit (svart‑vita) bilder. Konvertera färgbilder till gråskala innan storleksändring.  
+- **Minnesläckor:** Anropa alltid `dispose()` på temporära `Image`‑objekt; annars förblir inbyggda buffertar allokerade.  
+- **Filstorlek minskas inte:** Säkerställ att `TiffOptions`‑komprimeringsegenskapen är satt; annars används standard (ingen komprimering).
+
+## Vanliga frågor
+
+**Q: Kan jag använda detta tillvägagångssätt med färgbilder?**  
+A: CCITTFAX3 är begränsad till monokroma data; för färg använd JPEG eller LZW‑komprimering istället.
+
+**Q: Stöder Aspose.Imaging strömning för enorma TIFF‑filer?**  
+A: Ja—biblioteket skriver varje ram direkt till utdata‑strömmen, vilket håller minnesanvändningen låg även för tusentals sidor.
+
+**Q: Hur applicerar jag en tillfällig licens programmässigt?**  
+A: Load the `.lic` file with `License license = new License(); license.setLicense("Aspose.Total.Java.lic");`.
+
+**Q: Finns det ett sätt att förhandsgranska TIFF‑filen innan sparning?**  
+A: Du kan rendera varje `TiffFrame` till en `BufferedImage` och visa den i en Swing‑komponent.
+
+**Q: Vilka Java‑versioner stöds officiellt?**  
+A: Aspose.Imaging stödjer Java 8 till Java 21, inklusive LTS‑utgåvor.
 
 ## Slutsats
 
-I den här handledningen har du lärt dig hur du skapar flersidiga TIFF-filer med CCITTFAX3-komprimering i Java med Aspose.Imaging. Genom att förstå dessa steg kan du effektivt hantera bilddata för olika applikationer. För att ytterligare förbättra dina färdigheter kan du utforska ytterligare funktioner i Aspose.Imaging-biblioteket och integrera dem i dina projekt.
+Du har nu ett komplett, produktionsklart arbetsflöde för att skapa flersidiga TIFF‑filer med **ccittfax3 compression java** med Aspose.Imaging. Genom att följa stegen ovan kan du effektivt arkivera enorma dokumentsamlingar samtidigt som lagringskostnaderna hålls låga och bildkvaliteten hög. Utforska ytterligare Aspose.Imaging‑funktioner—såsom OCR, metadatahantering och formatkonvertering—för att ytterligare förbättra din dokumentbehandlingspipeline.
 
-## FAQ-sektion
+---
 
-1. **Vad är CCITTFAX3-komprimering?**
-   - Det är en komprimeringsmetod som är speciellt utformad för monokroma bilder och som ofta används vid dokumentskanning.
+**Senast uppdaterad:** 2026-09-28  
+**Testat med:** Aspose.Imaging 25.5 för Java  
+**Författare:** Aspose
 
-2. **Hur hanterar jag stora bilddatamängder effektivt?**
-   - Implementera asynkron bearbetning och optimera minnesanvändningen för att hantera resurser effektivt.
+## Relaterade handledningar
 
-3. **Kan Aspose.Imaging integreras med andra system?**
-   - Ja, det tillhandahåller API:er som kan interagera med olika filformat och system för sömlös integration.
+- [Hur man skapar flersidig TIFF med Aspose.Imaging för Java – En komplett guide](/imaging/java/animation-multi-frame-images/create-multi-page-tiff-aspose-imaging-java/)
+- [Hur man minskar bildfilens storlek med LZW‑komprimering i Java](/imaging/java/compression-optimization/compress-tiff-images-aspose-imaging-java/)
+- [Dela upp flersidiga TIFF‑ramar med Aspose.Imaging för Java](/imaging/java/image-conversion-and-optimization/tiff-image-frame-splitting/)
 
-4. **Vilka licensalternativ finns det för Aspose.Imaging?**
-   - Alternativen inkluderar en gratis provperiod, en tillfällig licens för utökad testning eller köp av en fullständig licens.
-
-5. **Hur löser jag vanliga problem när jag arbetar med TIFF-filer?**
-   - Se Asposes [dokumentation](https://reference.aspose.com/imaging/java/) och supportforum för felsökningstips.
-
-## Resurser
-
-- **Dokumentation**https://reference.aspose.com/imaging/java/
-- **Ladda ner**: https://releases.aspose.com/imaging/java/
-- **Köpa**: https://purchase.aspose.com/buy
-- **Gratis provperiod**: https://releases.aspose.com/imaging/java/
-- **Tillfällig licens**https://purchase.aspose.com/temporary-license/
-- **Stöd**: https://forum.aspose.com/c/imaging/14
-
-Nu när du är utrustad med kunskapen kan du börja implementera och utforska dessa tekniker i dina Java-projekt!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

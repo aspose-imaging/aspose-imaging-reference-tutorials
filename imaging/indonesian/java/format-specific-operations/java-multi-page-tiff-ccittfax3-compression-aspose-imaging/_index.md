@@ -1,139 +1,170 @@
 ---
-"date": "2025-06-04"
-"description": "Pelajari cara membuat file TIFF multi-halaman menggunakan kompresi CCITTFAX3 di Java dengan Aspose.Imaging. Kuasai teknik pemindaian dan pengarsipan dokumen yang efisien."
-"title": "Buat TIFF Multi-Halaman dengan Kompresi CCITTFAX3 di Java menggunakan Aspose.Imaging"
-"url": "/id/java/format-specific-operations/java-multi-page-tiff-ccittfax3-compression-aspose-imaging/"
-"weight": 1
+date: '2026-09-28'
+description: Pelajari cara menggunakan ccittfax3 compression java untuk membuat file
+  multi-page TIFF dengan Aspose.Imaging. Secara efisien scan, archive, dan kurangi
+  file size untuk document workflows.
+keywords:
+- ccittfax3 compression java
+- multi-page tiff java
+- aspose imaging tutorial
+- java image processing
+- document archiving tiff
+lastmod: '2026-09-28'
+og_description: Temukan langkah demi langkah cara menggunakan ccittfax3 compression
+  java dengan Aspose.Imaging untuk membangun file multi-page TIFF yang efisien untuk
+  scanning dan archiving.
+og_image_alt: Guide showing Java code that creates a multi-page TIFF using CCITTFAX3
+  compression
+og_title: Cara membuat multi-page TIFF dengan ccittfax3 compression java
+schemas:
+- author: Aspose
+  dateModified: '2026-09-28'
+  description: Learn how to use ccittfax3 compression java to create multi-page TIFF
+    files with Aspose.Imaging. Efficiently scan, archive, and reduce file size for
+    document workflows.
+  headline: How to create multi-page TIFF with ccittfax3 compression java
+  type: TechArticle
+- questions:
+  - answer: CCITTFAX3 is limited to monochrome data; for color use JPEG or LZW compression
+      instead.
+    question: Can I use this approach with color images?
+  - answer: Yes—the library writes each frame directly to the output stream, keeping
+      memory usage low even for thousands of pages.
+    question: Does Aspose.Imaging support streaming for huge TIFFs?
+  - answer: Load the `.lic` file with `License license = new License(); license.setLicense("Aspose.Total.Java.lic");`.
+    question: How do I apply a temporary license programmatically?
+  - answer: You can render each `TiffFrame` to a `BufferedImage` and display it in
+      a Swing component.
+    question: Is there a way to preview the TIFF before saving?
+  - answer: Aspose.Imaging supports Java 8 through Java 21, including LTS releases.
+    question: Which Java versions are officially supported?
+  type: FAQPage
+tags:
+- ccittfax3 compression
+- Aspose.Imaging
+- Java TIFF
+- image compression
+- document scanning
+title: Cara membuat multi-page TIFF dengan ccittfax3 compression java
+url: /id/java/format-specific-operations/java-multi-page-tiff-ccittfax3-compression-aspose-imaging/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# Menguasai Pembuatan TIFF Multi-Halaman dengan Kompresi CCITTFAX3 di Java Menggunakan Aspose.Imaging
 
-## Perkenalan
+# Menguasai pembuatan TIFF multi-halaman dengan kompresi ccittfax3 java menggunakan Aspose.Imaging
 
-Apakah Anda ingin mengelola proses pemindaian dan pengarsipan dokumen secara efisien dengan membuat file TIFF multi-halaman? Dengan kekuatan Aspose.Imaging untuk Java, tugas ini menjadi lancar. Panduan ini akan memandu Anda membuat file TIFF multi-halaman menggunakan kompresi CCITTFAX3—metode yang ideal untuk gambar monokrom seperti dokumen yang dipindai. Dengan menguasai teknik ini, Anda akan diperlengkapi dengan baik untuk menangani data gambar dalam jumlah besar secara efektif.
+## Pendahuluan
 
-**Apa yang Akan Anda Pelajari:**
-- Siapkan Aspose.Imaging di proyek Java Anda.
-- Buat TiffOptions dengan Kompresi CCITTFAX3.
-- Hasilkan dan konfigurasikan instance TiffImage baru.
-- Muat, ubah ukuran, dan tambahkan gambar sebagai bingkai ke berkas TIFF.
-- Simpan dan optimalkan file TIFF multi-halaman.
+Jika Anda perlu mengarsipkan volume besar dokumen yang dipindai sambil menjaga ukuran file tetap kecil, **ccittfax3 compression java** adalah solusi utama. Tutorial ini menunjukkan cara menghasilkan file TIFF multi‑halaman dengan kompresi CCITTFAX3 di Java menggunakan Aspose.Imaging. Anda akan belajar mengapa kompresi ini sangat efektif untuk pemindaian monokrom, cara mengkonfigurasi pustaka, dan cara menambahkan setiap halaman sebagai frame.
 
-Mari selami bagaimana Anda dapat mengimplementasikan fitur-fitur ini dalam aplikasi Java Anda.
+**Apa yang akan Anda pelajari**
+- Cara menambahkan Aspose.Imaging ke proyek Java.
+- Cara mengkonfigurasi `TiffOptions` untuk kompresi CCITTFAX3.
+- Cara membuat `TiffImage`, mengubah ukuran gambar sumber, dan menambahkannya sebagai frame.
+- Cara menyimpan TIFF multi‑halaman akhir secara efisien.
+
+Mari kita jalani implementasi lengkap.
+
+## Jawaban Cepat
+- **Apa manfaat utama kompresi CCITTFAX3?** Pengurangan hingga 80 % ukuran file untuk pemindaian hitam‑putih.  
+- **Pustaka mana yang menyediakan dukungan bawaan?** Aspose.Imaging untuk Java, versi 25.5+.  
+- **Apakah saya memerlukan lisensi untuk pengembangan?** Lisensi percobaan gratis berfungsi untuk semua fitur; lisensi berbayar diperlukan untuk produksi.  
+- **Bisakah saya memproses ratusan halaman?** Ya—Aspose.Imaging men-stream halaman, sehingga penggunaan memori tetap rendah.  
+- **Apakah kode kompatibel dengan Java 11 dan versi lebih baru?** Tentu; API menargetkan Java 8+.
+
+## Apa itu ccittfax3 compression java?
+`CCITTFAX3` adalah algoritma kompresi monokrom lossless yang dirancang untuk faks dan gambar dokumen yang dipindai. Ia mengkodekan setiap piksel sebagai satu bit, menghasilkan output berkualitas tinggi sambil secara dramatis mengurangi ukuran file—seringkali sebesar 70‑80 % dibandingkan TIFF yang tidak terkompresi. Hal ini membuatnya ideal untuk mengarsipkan dokumen hitam‑putih dimana keakuratan harus dipertahankan.
+
+## Mengapa menggunakan Aspose.Imaging untuk tugas ini?
+Aspose.Imaging mendukung **100+** format input dan output, termasuk PDF, PNG, JPEG, dan TIFF. Arsitektur streaming-nya dapat menangani file TIFF **multi‑ratus‑halaman** tanpa memuat seluruh dokumen ke memori, menjadikannya ideal untuk proyek pengarsipan skala besar.
 
 ## Prasyarat
 
-Sebelum kita mulai, pastikan Anda memiliki prasyarat berikut:
-
-### Perpustakaan yang Diperlukan
-- **Aspose.Imaging untuk Java**Versi 25.5 atau yang lebih baru direkomendasikan untuk mengakses semua fungsi terkini.
-  
-### Persyaratan Pengaturan Lingkungan
-- Java Development Kit (JDK) terinstal di komputer Anda.
-- IDE seperti IntelliJ IDEA atau Eclipse.
-
-### Prasyarat Pengetahuan
-- Pemahaman dasar tentang pemrograman Java dan konsep berorientasi objek.
-- Keakraban dengan Maven/Gradle untuk manajemen ketergantungan.
+- **Java Development Kit (JDK)** 8 atau yang lebih baru terpasang.
+- **IDE** seperti IntelliJ IDEA atau Eclipse.
+- **Maven** atau **Gradle** untuk manajemen dependensi.
+- Pengetahuan dasar Java (kelas, objek, koleksi).
 
 ## Menyiapkan Aspose.Imaging untuk Java
 
-Untuk mulai menggunakan Aspose.Imaging dalam proyek Anda, Anda perlu memasukkannya sebagai dependensi. Berikut ini cara melakukannya dengan berbagai alat build:
+Tambahkan pustaka ke file build Anda.
 
-**Pakar:**
+**Maven:**  
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-imaging</artifactId>
     <version>25.5</version>
 </dependency>
-```
+```  
 
-**Gradasi:**
+**Gradle:**  
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
-```
+```  
 
-### Unduh Langsung
+### Unduhan Langsung
 
-Atau, Anda dapat mengunduh versi terbaru langsung dari [Aspose.Imaging untuk rilis Java](https://releases.aspose.com/imaging/java/).
+Anda juga dapat mengunduh JAR terbaru dari [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
 ### Akuisisi Lisensi
 
-Anda dapat memperoleh lisensi uji coba gratis untuk menjelajahi semua fitur tanpa batasan dengan mengunjungi [Halaman Uji Coba Gratis Aspose](https://releases.aspose.com/imaging/java/)Untuk penggunaan yang lebih lama, pertimbangkan untuk membeli lisensi atau mengajukan lisensi sementara di [Aspose Pembelian](https://purchase.aspose.com/temporary-license/).
+Lisensi percobaan gratis tersedia di [Aspose's Free Trial page](https://releases.aspose.com/imaging/java/). Untuk penggunaan produksi, beli lisensi permanen atau minta lisensi sementara di [Aspose Purchase](https://purchase.aspose.com/temporary-license/).
+
+Untuk penggunaan API secara detail, lihat [documentation](https://reference.aspose.com/imaging/java/) Aspose.Imaging untuk Java.
 
 ### Inisialisasi Dasar
 
-Setelah Anda menyertakan Aspose.Imaging dalam proyek Anda, inisialisasikan sebagai berikut:
+Setelah menambahkan dependensi, inisialisasi pustaka seperti ditunjukkan di bawah.
 
 ```java
 import com.aspose.imaging.License;
 
 License license = new License();
 license.setLicense("path_to_your_license.lic");
-```
+```  
 
-## Panduan Implementasi
+## Cara mengkonfigurasi ccittfax3 compression java untuk TIFF multi‑halaman?
 
-Kami akan membagi implementasi ke dalam beberapa bagian logis berdasarkan fungsionalitas.
+`TiffOptions` adalah kelas yang mendefinisikan format output dan pengaturan kompresi untuk file TIFF. Muat objek `TiffOptions` dengan enum `CCITTGroup3FaxCompression`, lalu atur sumber file output. Konfigurasi dua langkah ini menyiapkan penulis untuk kompresi monokrom dan memastikan setiap halaman yang ditambahkan nanti akan dienkode menggunakan algoritma CCITTFAX3, menghasilkan pengurangan ukuran yang signifikan sambil mempertahankan kualitas gambar.
 
-### Buat TiffOptions dengan Kompresi CCITTFAX3
-
-#### Ringkasan
-Membuat `TiffOptions` Instance yang dikonfigurasi untuk kompresi CCITTFAX3 sangat penting saat menangani gambar monokrom dalam format TIFF. Fitur ini mengoptimalkan penyimpanan dan mempertahankan kualitas gambar secara efektif.
-
-**Tangga:**
-
-1. **Inisialisasi TiffOptions dengan CCITTFAX3**
-    ```java
+```java
     import com.aspose.imaging.fileformats.tiff.TiffExpectedFormat;
     import com.aspose.imaging.imageoptions.TiffOptions;
     import com.aspose.imaging.sources.FileCreateSource;
 
     TiffOptions outputSettings = new TiffOptions(TiffExpectedFormat.TiffCcittFax3);
-    ```
+    ```  
 
-2. **Mengatur Sumber File Output**
-    ```java
-    // Ganti "YOUR_OUTPUT_DIRECTORY" dengan jalur direktori Anda yang sebenarnya
+```java
+    // Replace "YOUR_OUTPUT_DIRECTORY" with your actual directory path
     outputSettings.setSource(new FileCreateSource("YOUR_OUTPUT_DIRECTORY/output.tiff", false));
-    ```
+    ```  
 
-### Buat Contoh TiffImage Baru
+## Cara membuat instance TiffImage di Java?
 
-#### Ringkasan
-Membuat contoh dari `TiffImage` melibatkan spesifikasi dimensi dan memanfaatkan konfigurasi sebelumnya `TiffOptions`.
+`TiffImage` mewakili dokumen TIFF multi‑halaman dalam memori dan menyediakan metode untuk memanipulasi frame-nya. Pertama, tentukan lebar dan tinggi yang akan dibagikan semua halaman. Kemudian buat instance `TiffImage` menggunakan `TiffOptions` yang telah dibuat sebelumnya. Objek `TiffImage` berfungsi sebagai kontainer untuk frame individu, memungkinkan Anda menambah, menghapus, atau mengubah urutan halaman sebelum menyimpan file akhir.
 
-**Tangga:**
-
-1. **Nyatakan Dimensi**
-    ```java
+```java
     final int newWidth = 500;
     final int newHeight = 500;
-    ```
+    ```  
 
-2. **Buat Instansi TiffImage**
-    ```java
+```java
     import com.aspose.imaging.Image;
     import com.aspose.imaging.fileformats.tiff.TiffImage;
 
     TiffImage tiffImage = (TiffImage) Image.create(outputSettings, newWidth, newHeight);
-    ```
+    ```  
 
-### Memuat dan Mengubah Ukuran Gambar dari Direktori
+## Cara memuat dan mengubah ukuran gambar sumber dari folder?
 
-#### Ringkasan
-Memuat gambar melibatkan membaca berkas dari suatu direktori, memfilternya berdasarkan ekstensi, dan mengubah ukuran agar sesuai dengan dimensi TIFF.
+Filter direktori target untuk file JPEG, baca setiap gambar, dan ubah ukurannya agar sesuai dengan kanvas TIFF. Mengubah ukuran sebelum menambah frame mengurangi konsumsi memori dan mempercepat operasi penyimpanan. Dengan mengonversi setiap gambar sumber ke dimensi dan format piksel yang diperlukan, Anda menjamin tata letak halaman yang konsisten dan menghindari kesalahan runtime saat frame ditambahkan ke dokumen TIFF.
 
-**Tangga:**
-
-1. **Filter dan Muat File JPG**
-    ```java
+```java
     import java.io.File;
     import java.io.FilenameFilter;
 
@@ -145,10 +176,9 @@ Memuat gambar melibatkan membaca berkas dari suatu direktori, memfilternya berda
     });
 
     if (files == null) return;
-    ```
+    ```  
 
-2. **Ubah Ukuran Gambar**
-    ```java
+```java
     import com.aspose.imaging.RasterImage;
     import com.aspose.imaging.ResizeType;
 
@@ -156,17 +186,13 @@ Memuat gambar melibatkan membaca berkas dari suatu direktori, memfilternya berda
         RasterImage image = (RasterImage) Image.load(fileEntry.getAbsolutePath());
         image.resize(newWidth, newHeight, ResizeType.NearestNeighbourResample);
     }
-    ```
+    ```  
 
-### Menambahkan Bingkai ke Gambar TIFF Multi-Halaman
+## Cara menambahkan setiap gambar sebagai frame ke TIFF multi‑halaman?
 
-#### Ringkasan
-Menambahkan bingkai sangat penting untuk membuat berkas TIFF multi-halaman. Setiap bingkai berhubungan dengan gambar individual.
+`TiffFrame` adalah objek yang menyimpan gambar satu halaman dan metadata terkaitnya dalam sebuah TIFF. Iterasi gambar yang telah diubah ukurannya, buat `TiffFrame` baru, dan tambahkan ke `TiffImage`. Setiap frame menjadi halaman terpisah dalam dokumen akhir, dan pustaka secara otomatis menangani pembaruan metadata yang diperlukan, seperti jumlah halaman dan offset, memastikan struktur TIFF multi‑halaman yang valid.
 
-**Tangga:**
-
-1. **Ulangi Gambar dan Buat Bingkai**
-    ```java
+```java
     import com.aspose.imaging.fileformats.tiff.TiffFrame;
 
     int index = 0;
@@ -183,71 +209,72 @@ Menambahkan bingkai sangat penting untuk membuat berkas TIFF multi-halaman. Seti
         }
         index++;
     }
-    ```
+    ```  
 
-### Simpan Gambar TIFF Multi-Halaman
+## Cara menyimpan file TIFF multi‑halaman akhir?
 
-#### Ringkasan
-Terakhir, menyimpan dan menutup sumber daya memastikan semua perubahan dipertahankan.
+Panggil metode `save` pada instance `TiffImage`, dengan memberikan jalur output yang diinginkan. Pustaka secara otomatis menulis semua frame menggunakan kompresi CCITTFAX3, men-stream data ke disk secara efisien, dan menutup semua sumber daya yang mendasarinya. Setelah operasi penyimpanan selesai, file yang dihasilkan berisi semua halaman dengan kompresi yang ditentukan, siap untuk distribusi atau pengarsipan.
 
-**Tangga:**
-
-1. **Simpan Perubahan**
-    ```java
+```java
     try {
         tiffImage.save();
     } finally {
         tiffImage.close();
         outputSettings.close();
     }
-    ```
+    ```  
 
 ## Aplikasi Praktis
 
-Membuat file TIFF multi-halaman dengan kompresi CCITTFAX3 dapat bermanfaat dalam beberapa skenario:
-
-- **Pengarsipan Dokumen**: Menyimpan dan mengarsipkan dokumen yang dipindai secara efisien.
-- **Pencitraan Medis**: Menjaga gambar terkompresi berkualitas tinggi untuk departemen radiologi.
-- **Layanan Percetakan**: Siapkan pekerjaan cetak besar yang memerlukan beberapa halaman gambar.
+- **Pengarsipan dokumen:** Simpan kontrak, faktur, atau catatan hukum yang dipindai dengan beban penyimpanan minimal.
+- **Pencitraan medis:** Kompres pemindaian radiologi sambil mempertahankan detail diagnostik.
+- **Produksi cetak:** Hasilkan pekerjaan cetak multi‑halaman yang dapat langsung diproses oleh printer.
 
 ## Pertimbangan Kinerja
 
-Untuk memastikan kinerja yang optimal:
-- Gunakan metode pengubahan ukuran yang tepat untuk mempertahankan kualitas sekaligus mengurangi waktu pemrosesan.
-- Kelola memori secara efektif dengan segera menutup sumber daya setelah digunakan.
-- Optimalkan operasi I/O file dan pertimbangkan pemrosesan asinkron untuk kumpulan data besar.
+- Gunakan `ResizeOptions` yang mempertahankan rasio aspek untuk menghindari distorsi.
+- Tutup setiap objek `Image` setelah menambahkan frame-nya untuk membebaskan memori native.
+- Untuk batch yang sangat besar, proses file dalam aliran paralel dan tulis setiap segmen TIFF secara asynchronous.
+
+## Kesalahan Umum dan Pemecahan Masalah
+
+- **Format piksel tidak tepat:** CCITTFAX3 hanya bekerja dengan gambar 1‑bit (hitam‑putih). Konversi gambar berwarna ke grayscale sebelum mengubah ukuran.
+- **Kebocoran memori:** Selalu panggil `dispose()` pada objek `Image` sementara; jika tidak, buffer native tetap teralokasi.
+- **Ukuran file tidak berkurang:** Pastikan properti kompresi `TiffOptions` diatur; jika tidak, default (tanpa kompresi) yang digunakan.
+
+## Pertanyaan yang Sering Diajukan
+
+**Q: Bisakah saya menggunakan pendekatan ini dengan gambar berwarna?**  
+A: CCITTFAX3 terbatas pada data monokrom; untuk warna gunakan kompresi JPEG atau LZW sebagai gantinya.
+
+**Q: Apakah Aspose.Imaging mendukung streaming untuk TIFF yang sangat besar?**  
+A: Ya—pustaka menulis setiap frame langsung ke aliran output, menjaga penggunaan memori tetap rendah bahkan untuk ribuan halaman.
+
+**Q: Bagaimana cara menerapkan lisensi sementara secara programatis?**  
+A: Muat file `.lic` dengan `License license = new License(); license.setLicense("Aspose.Total.Java.lic");`.
+
+**Q: Apakah ada cara untuk meninjau TIFF sebelum menyimpan?**  
+A: Anda dapat merender setiap `TiffFrame` ke `BufferedImage` dan menampilkannya dalam komponen Swing.
+
+**Q: Versi Java mana yang secara resmi didukung?**  
+A: Aspose.Imaging mendukung Java 8 hingga Java 21, termasuk rilis LTS.
 
 ## Kesimpulan
 
-Dalam tutorial ini, Anda telah mempelajari cara membuat file TIFF multi-halaman menggunakan kompresi CCITTFAX3 di Java dengan Aspose.Imaging. Dengan memahami langkah-langkah ini, Anda dapat mengelola data gambar secara efisien untuk berbagai aplikasi. Untuk lebih meningkatkan keterampilan Anda, jelajahi fitur-fitur tambahan dari pustaka Aspose.Imaging dan integrasikan ke dalam proyek Anda.
+Anda kini memiliki alur kerja lengkap yang siap produksi untuk membuat file TIFF multi‑halaman dengan **ccittfax3 compression java** menggunakan Aspose.Imaging. Dengan mengikuti langkah-langkah di atas, Anda dapat mengarsipkan koleksi dokumen besar secara efisien sambil menjaga biaya penyimpanan rendah dan kualitas gambar tinggi. Jelajahi fitur tambahan Aspose.Imaging—seperti OCR, penanganan metadata, dan konversi format—untuk lebih meningkatkan pipeline pemrosesan dokumen Anda.
 
-## Bagian FAQ
+---
 
-1. **Apa itu kompresi CCITTFAX3?**
-   - Ini adalah metode kompresi yang dirancang khusus untuk gambar monokrom, yang sering digunakan dalam pemindaian dokumen.
+**Terakhir Diperbarui:** 2026-09-28  
+**Diuji Dengan:** Aspose.Imaging 25.5 untuk Java  
+**Penulis:** Aspose
 
-2. **Bagaimana cara menangani kumpulan data gambar besar secara efisien?**
-   - Terapkan pemrosesan asinkron dan optimalkan penggunaan memori untuk mengelola sumber daya secara efektif.
+## Tutorial Terkait
 
-3. **Bisakah Aspose.Imaging diintegrasikan dengan sistem lain?**
-   - Ya, ia menyediakan API yang dapat berinteraksi dengan berbagai format file dan sistem untuk integrasi yang mulus.
+- [Cara Membuat TIFF Multi-Halaman dengan Aspose.Imaging untuk Java – Panduan Lengkap](/imaging/java/animation-multi-frame-images/create-multi-page-tiff-aspose-imaging-java/)
+- [Cara Mengurangi Ukuran File Gambar dengan Kompresi LZW di Java](/imaging/java/compression-optimization/compress-tiff-images-aspose-imaging-java/)
+- [Membagi Frame TIFF Multi-Halaman dengan Aspose.Imaging untuk Java](/imaging/java/image-conversion-and-optimization/tiff-image-frame-splitting/)
 
-4. **Apa saja pilihan lisensi untuk Aspose.Imaging?**
-   - Pilihannya meliputi uji coba gratis, lisensi sementara untuk pengujian lanjutan, atau pembelian lisensi penuh.
-
-5. **Bagaimana cara mengatasi masalah umum saat bekerja dengan berkas TIFF?**
-   - Lihat Aspose [dokumentasi](https://reference.aspose.com/imaging/java/) dan forum dukungan untuk kiat pemecahan masalah.
-
-## Sumber daya
-
-- **Dokumentasi**https://reference.aspose.com/imaging/java/
-- **Unduh**: https://releases.aspose.com/imaging/java/
-- **Pembelian**: https://purchase.aspose.com/beli
-- **Uji Coba Gratis**: https://releases.aspose.com/imaging/java/
-- **Lisensi Sementara**: https://purchase.aspose.com/lisensi-sementara/
-- **Mendukung**: https://forum.aspose.com/c/imaging/14
-
-Sekarang Anda telah dibekali dengan pengetahuan, mulailah menerapkan dan mengeksplorasi teknik-teknik ini dalam proyek Java Anda!
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
