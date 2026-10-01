@@ -10,17 +10,12 @@ url: /es/net/basic-drawing/draw-rectangle/
 weight: 14
 ---
 
-Autor:**".
 
-Now produce final content with all translations.
 
-Check we didn't miss any text.
 
-Also note "For Spanish, ensure proper RTL formatting if needed" not needed.
 
-Make sure we keep all shortcodes and code block placeholders unchanged.
 
-Now craft final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

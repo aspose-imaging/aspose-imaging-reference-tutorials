@@ -15,9 +15,8 @@ url: /fr/java/animation-multi-frame-images/gif-manipulation-java-aspose-imaging-
 weight: 1
 ---
 
- we keep the bullet lists formatting.
 
-Now produce final output with translated content.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

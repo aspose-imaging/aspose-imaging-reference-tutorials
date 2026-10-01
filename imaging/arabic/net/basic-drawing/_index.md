@@ -9,9 +9,8 @@ url: /ar/net/basic-drawing/
 weight: 22
 ---
 
- content with Arabic translations.
 
-Let's construct final output.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

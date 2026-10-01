@@ -6,23 +6,14 @@ url: /zh-hant/net/batch-processing-multi-threading/
 weight: 14
 ---
 
--12  
-**測試環境：** Aspose.Imaging 24.11 for .NET  
-**作者：** Aspose  
 
-Now close shortcodes.
 
-We must keep the shortcodes exactly as original.
 
-Thus final output includes all content.
 
-Check for any code blocks: none.
 
-Check for images: none.
 
-Make sure we preserve markdown formatting.
 
-Now produce final content.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

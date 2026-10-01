@@ -15,25 +15,15 @@ url: /ar/java/animation-multi-frame-images/create-multi-page-tiff-aspose-imaging
 weight: 1
 ---
 
-separator)
 
-**Last Updated:** 2026-02-22  
-**Tested With:** Aspose.Imaging for Java 25.5  
-**Author:** Aspose
 
-Translate the labels but keep dates and version.
 
-**Last Updated:** => "**آخر تحديث:**"
 
-**Tested With:** => "**تم الاختبار مع:**"
 
-**Author:** => "**المؤلف:**"
 
-Now produce final content with all translations.
 
-Make sure to keep markdown formatting, headings, lists, code block placeholders unchanged.
 
-Let's assemble.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

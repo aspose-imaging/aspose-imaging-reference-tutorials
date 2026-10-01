@@ -8,9 +8,8 @@ url: /fr/net/compression-optimization/
 weight: 13
 ---
 
-" - not needed.
 
-Now produce final output.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

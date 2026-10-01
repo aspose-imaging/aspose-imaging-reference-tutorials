@@ -10,17 +10,12 @@ url: /ru/net/basic-drawing/draw-lines/
 weight: 13
 ---
 
-.
 
-Last Updated etc translate: "Последнее обновление:" etc.
 
-"Tested With:" => "Тестировано с:".
 
-"Author:" => "Автор:".
 
-Make sure to keep markdown formatting.
 
-Now produce final content.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

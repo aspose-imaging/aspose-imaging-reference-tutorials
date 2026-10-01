@@ -13,27 +13,17 @@ url: /zh/java/advanced-drawing-graphics/aspose-imaging-java-tiff-graphicspath-co
 weight: 1
 ---
 
-/14)"
 
-Then "---"
 
-**Last Updated:** 2026-02-17 -> "**最后更新：** 2026-02-17"
 
-**Tested With:** Aspose.Imaging 25.5 for Java -> "**测试环境：** Aspose.Imaging 25.5 for Java"
 
-**Author:** Aspose -> "**作者：** Aspose"
 
-Then closing shortcodes.
 
-Now ensure we keep all shortcodes unchanged.
 
-Now produce final output with translated content.
 
-Check for any missed items: images? none.
 
-Make sure code block placeholders remain unchanged.
 
-Now produce final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

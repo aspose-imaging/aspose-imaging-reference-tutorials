@@ -14,9 +14,8 @@ url: /hi/java/advanced-drawing-graphics/master-image-manipulation-aspose-imaging
 weight: 1
 ---
 
- unchanged. Also keep markdown formatting.
 
-Let's craft final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

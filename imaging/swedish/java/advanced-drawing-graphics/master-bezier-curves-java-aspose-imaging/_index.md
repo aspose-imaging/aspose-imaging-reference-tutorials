@@ -14,7 +14,7 @@ url: /sv/java/advanced-drawing-graphics/master-bezier-curves-java-aspose-imaging
 weight: 1
 ---
 
-.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

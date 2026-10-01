@@ -8,17 +8,12 @@ url: /zh/net/basic-drawing/
 weight: 22
 ---
 
--button >}}
 
-All unchanged.
 
-Now ensure we preserve markdown formatting: headings, lists, bold, etc.
 
-Check lists: Quick Answers list items each start with "- **...** ..." Keep same.
 
-Make sure we keep line breaks as original.
 
-Now produce final content.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

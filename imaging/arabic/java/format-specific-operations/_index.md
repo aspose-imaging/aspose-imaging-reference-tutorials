@@ -73,10 +73,9 @@ weight: 8
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
+
 # دروس معالجة الصور الخاصة بتنسيق Java لـ Aspose.Imaging
 
 في هذا الدليل ستكتشف كيفية **إنشاء ملفات TIFF** في Java، وإنشاء مستندات TIFF متعددة الصفحات، وإجراء **تحويل PNG إلى JPEG** باستخدام Aspose.Imaging. سواء كنت بحاجة إلى دمج عدة صور في ملف TIFF واحد، أو التعامل مع الشفافية في PNGs، أو **تحويل PNG إلى JPEG في Java**، فإن هذه الدروس خطوة بخطوة توفر لك كودًا عمليًا يمكنك إدراجه مباشرةً في مشاريعك.
@@ -191,14 +190,13 @@ weight: 8
 **تم الاختبار مع:** Aspose.Imaging 24.11 for Java  
 **المؤلف:** Aspose
 
-{{< /blocks/products/products-backtop-button >}}
+
 
 ## دروس ذات صلة
 
 - [إنشاء TIFF متعدد الصفحات مع ضغط CCITTFAX3 في Java باستخدام Aspose.Imaging](/imaging/java/format-specific-operations/java-multi-page-tiff-ccittfax3-compression-aspose-imaging/)
 - [تقسيم إطارات TIFF متعددة الصفحات باستخدام Aspose.Imaging for Java](/imaging/java/image-conversion-and-optimization/tiff-image-frame-splitting/)
 - [تحويل TIFF متعدد الإطارات إلى JPEG باستخدام Aspose.Imaging for Java - دليل كامل](/imaging/java/image-loading-saving/convert-multi-frame-tiff-to-jpeg-aspose-imaging-java/)
-
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

@@ -14,7 +14,7 @@ url: /hu/java/animation-multi-frame-images/java-aspose-imaging-multi-frame-tiff-
 weight: 1
 ---
 
- produce final content.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

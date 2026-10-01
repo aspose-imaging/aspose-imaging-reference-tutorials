@@ -14,9 +14,8 @@ url: /vi/java/animation-multi-frame-images/create-multi-page-tiff-aspose-imaging
 weight: 1
 ---
 
- block placeholders unchanged.
 
-Let's assemble.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

@@ -14,9 +14,8 @@ url: /pt/java/animation-multi-frame-images/create-gif-from-frames-aspose-imaging
 weight: 1
 ---
 
-.
 
-Let's produce final content.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

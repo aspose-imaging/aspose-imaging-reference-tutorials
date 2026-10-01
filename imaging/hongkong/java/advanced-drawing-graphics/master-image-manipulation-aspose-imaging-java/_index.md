@@ -13,7 +13,7 @@ url: /zh-hant/java/advanced-drawing-graphics/master-image-manipulation-aspose-im
 weight: 1
 ---
 
- answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

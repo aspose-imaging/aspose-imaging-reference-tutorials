@@ -10,13 +10,10 @@ url: /pl/net/basic-drawing/draw-rectangle/
 weight: 14
 ---
 
-:** Aspose => "**Autor:** Aspose"
 
-Now produce final content with all translations.
 
-Check we kept all code block placeholders unchanged.
 
-Now produce final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

@@ -14,17 +14,11 @@ url: /hi/java/animation-multi-frame-images/create-multi-page-tiff-aspose-imaging
 weight: 1
 ---
 
- 2026-02-22  
-**Tested With:** Aspose.Imaging for Java 25.5  
-**Author:** Aspose
 
-We need to keep the markdown formatting exactly.
 
-Make sure to keep code block placeholders unchanged.
 
-Also ensure we keep the shortcodes unchanged.
 
-Now produce final content.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

@@ -14,13 +14,10 @@ url: /pt/java/batch-processing-multi-threading/implement-synchronized-stream-acc
 weight: 1
 ---
 
-/products/products-backtop-button >}}
 
-Now produce final output with all translations.
 
-Make sure to keep markdown formatting, code block placeholders unchanged.
 
-Let's craft final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

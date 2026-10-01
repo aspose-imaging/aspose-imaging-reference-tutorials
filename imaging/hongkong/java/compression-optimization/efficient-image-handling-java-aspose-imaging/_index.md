@@ -12,11 +12,13 @@ url: /zh-hant/java/compression-optimization/efficient-image-handling-java-aspose
 weight: 1
 ---
 
+{{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-
-{{< /blocks/products/pf/tutorial-page-section >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
+
+
+
+
 # 如何使用 Aspose.Imaging for Java 高效載入、調整大小、快取與儲存影像
 
 ## 介紹
@@ -270,16 +272,23 @@ A：免費試用版在開發與測試階段無限制。正式環境部署則需�
 
 有了這份完整指南，您已具備將 Aspose.Imaging 整合至 Java 專案以高效管理影像的能力。祝開發順利！
 
-{{< /blocks/products/pf/main-wrap-class >}}
 
-{{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/main-wrap-class >}}
 
-{{< blocks/products/products-backtop-button >}}
+
+
+
+
 
 ---
 
 **最後更新：** 2026-03-18  
 **測試環境：** Aspose.Imaging 25.5 for Java  
 **作者：** Aspose
+
+{{< /blocks/products/pf/tutorial-page-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

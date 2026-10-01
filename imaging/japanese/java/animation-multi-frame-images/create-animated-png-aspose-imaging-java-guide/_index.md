@@ -12,11 +12,9 @@ url: /ja/java/animation-multi-frame-images/create-animated-png-aspose-imaging-ja
 weight: 1
 ---
 
- in Java: A Comprehensive Implementation Guide" we translated.
 
-Make sure to preserve markdown formatting.
 
-Now produce final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

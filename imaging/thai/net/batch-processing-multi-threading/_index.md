@@ -7,9 +7,8 @@ url: /th/net/batch-processing-multi-threading/
 weight: 14
 ---
 
- We'll keep colon.
 
-Now produce final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

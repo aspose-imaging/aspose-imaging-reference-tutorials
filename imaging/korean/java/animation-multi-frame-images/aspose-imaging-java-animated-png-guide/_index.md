@@ -13,13 +13,10 @@ url: /ko/java/animation-multi-frame-images/aspose-imaging-java-animated-png-guid
 weight: 1
 ---
 
- "You can also experiment with different source formats (e.g., multi‑page PDFs) as long as Aspose.Imaging can load them." Already translated.
 
-Check for "Combine Aspose.Imaging with libraries like Swing, JavaFX, or Spring Boot to deliver a seamless user experience." Already translated.
 
-All good.
 
-Now produce final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

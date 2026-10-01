@@ -14,9 +14,8 @@ url: /nl/java/advanced-drawing-graphics/aspose-imaging-java-tiff-graphicspath-co
 weight: 1
 ---
 
-.
 
-Now produce final content.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

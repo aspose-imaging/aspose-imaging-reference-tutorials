@@ -72,10 +72,9 @@ weight: 8
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
+
 # Java 格式特定影像處理教學（Aspose.Imaging）
 
 在本指南中，您將了解如何在 Java 中 **建立 TIFF** 檔案、產生多頁 TIFF 文件，以及使用 Aspose.Imaging 執行 **PNG 轉 JPEG** 轉換。無論您需要將多張影像拼接成單一 TIFF、處理 PNG 的透明度，或是 **在 Java 中將 PNG 轉 JPEG**，這些逐步教學都提供可直接套用於專案的實用程式碼。
@@ -188,14 +187,13 @@ A: 不需要。單一 Aspose.Imaging 授權即可涵蓋所有支援的影像格�
 **測試環境：** Aspose.Imaging 24.11 for Java  
 **作者：** Aspose
 
-{{< /blocks/products/products-backtop-button >}}
+
 
 ## 相關教學
 
 - [使用 Aspose.Imaging 在 Java 中以 CCITTFAX3 壓縮建立多頁 TIFF](/imaging/java/format-specific-operations/java-multi-page-tiff-ccittfax3-compression-aspose-imaging/)
 - [使用 Aspose.Imaging for Java 分割多頁 TIFF 框格](/imaging/java/image-conversion-and-optimization/tiff-image-frame-splitting/)
 - [使用 Aspose.Imaging for Java 將多框格 TIFF 轉換為 JPEG：完整指南](/imaging/java/image-loading-saving/convert-multi-frame-tiff-to-jpeg-aspose-imaging-java/)
-
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

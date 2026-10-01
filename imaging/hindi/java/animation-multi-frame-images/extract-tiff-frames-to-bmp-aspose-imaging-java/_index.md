@@ -14,9 +14,8 @@ url: /hi/java/animation-multi-frame-images/extract-tiff-frames-to-bmp-aspose-ima
 weight: 1
 ---
 
-.
 
-Now produce final content with all translations.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

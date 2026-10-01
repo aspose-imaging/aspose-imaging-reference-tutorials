@@ -13,7 +13,7 @@ url: /vi/java/batch-processing-multi-threading/aspose-imaging-java-image-managem
 weight: 1
 ---
 
- answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

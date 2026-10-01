@@ -14,9 +14,8 @@ url: /el/java/batch-processing-multi-threading/aspose-imaging-java-image-managem
 weight: 1
 ---
 
-. Ensure code block placeholders remain unchanged. Keep shortcodes unchanged.
 
-Let's construct final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

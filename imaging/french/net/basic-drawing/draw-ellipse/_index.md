@@ -10,9 +10,8 @@ url: /fr/net/basic-drawing/draw-ellipse/
 weight: 12
 ---
 
- to keep code block placeholders unchanged.
 
-Now produce final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

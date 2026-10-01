@@ -14,11 +14,9 @@ url: /fr/java/advanced-drawing-graphics/master-bezier-curves-java-aspose-imaging
 weight: 1
 ---
 
-"Author:" => "Auteur :" etc.
 
-Now produce final markdown.
 
-Let's write.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

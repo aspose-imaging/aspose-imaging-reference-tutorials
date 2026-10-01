@@ -14,13 +14,10 @@ url: /de/java/advanced-drawing-graphics/mastering-image-processing-java-aspose-i
 weight: 1
 ---
 
-< blocks/products/products-backtop-button >}}
 
-All unchanged.
 
-Need to ensure we keep code block placeholders unchanged.
 
-Now produce final content.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

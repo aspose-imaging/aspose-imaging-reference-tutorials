@@ -14,13 +14,10 @@ url: /tr/java/animation-multi-frame-images/java-aspose-imaging-multi-frame-tiff-
 weight: 1
 ---
 
-lar".
 
-Translate "Last Updated" etc.
 
-Make sure to preserve markdown.
 
-Now produce final content.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

@@ -13,7 +13,7 @@ url: /it/java/animation-multi-frame-images/aspose-imaging-java-animated-png-guid
 weight: 1
 ---
 
-.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

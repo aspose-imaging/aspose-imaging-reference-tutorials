@@ -14,7 +14,7 @@ url: /id/java/advanced-drawing-graphics/mastering-image-processing-java-aspose-i
 weight: 1
 ---
 
- final.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

@@ -14,17 +14,12 @@ url: /de/java/animation-multi-frame-images/create-gif-from-frames-aspose-imaging
 weight: 1
 ---
 
-:", "Getestet mit:", "Autor:".
 
-Now closing shortcodes.
 
-Let's assemble final markdown with translations.
 
-Be careful to keep code block placeholders unchanged.
 
-Also ensure we keep the shortcodes at start and end.
 
-Now produce final output.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

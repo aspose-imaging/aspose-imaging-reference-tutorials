@@ -8,9 +8,8 @@ url: /zh-hant/net/basic-drawing/draw-ellipse/
 weight: 12
 ---
 
- as is.
 
-Now produce final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

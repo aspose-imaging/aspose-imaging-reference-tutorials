@@ -14,9 +14,8 @@ url: /el/java/batch-processing-multi-threading/batch-process-export-tiff-aspose-
 weight: 1
 ---
 
- sure all formatting preserved.
 
-Now produce final content.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

@@ -14,13 +14,10 @@ url: /tr/java/animation-multi-frame-images/create-gif-from-frames-aspose-imaging
 weight: 1
 ---
 
-.
 
-Also note that code block placeholders are not fenced code blocks; they are just placeholders. Should we keep them as is. Yes.
 
-Make sure we preserve markdown formatting like **bold**.
 
-Now produce final content.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

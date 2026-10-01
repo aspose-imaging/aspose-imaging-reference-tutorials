@@ -10,7 +10,7 @@ url: /cs/net/advanced-features/support-of-cdr-format/
 weight: 13
 ---
 
- produce final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

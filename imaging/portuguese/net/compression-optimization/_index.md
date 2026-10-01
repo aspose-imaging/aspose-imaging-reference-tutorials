@@ -8,9 +8,8 @@ url: /pt/net/compression-optimization/
 weight: 13
 ---
 
- we preserve line breaks as original.
 
-Now produce final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

@@ -14,27 +14,17 @@ url: /fr/java/animation-multi-frame-images/create-multi-page-tiff-aspose-imaging
 weight: 1
 ---
 
-", "Author". Keep dates.
 
-"Last Updated: 2026-02-22" keep same.
 
-"Tested With: Aspose.Imaging for Java 25.5" keep same.
 
-"Author: Aspose" keep same.
 
-But translate the labels? Probably yes: "Dernière mise à jour", "Testé avec", "Auteur". Keep date and version unchanged.
 
-Now produce final content.
 
-Be careful to preserve markdown headings levels.
 
-Let's craft translation.
 
-We'll keep code block placeholders unchanged.
 
-Also keep bold formatting.
 
-Now produce final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

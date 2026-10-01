@@ -14,7 +14,7 @@ url: /es/java/batch-processing-multi-threading/implement-synchronized-stream-acc
 weight: 1
 ---
 
-.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

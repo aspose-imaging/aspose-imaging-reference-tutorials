@@ -13,7 +13,7 @@ url: /cs/java/animation-multi-frame-images/gif-manipulation-java-aspose-imaging-
 weight: 1
 ---
 
- final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

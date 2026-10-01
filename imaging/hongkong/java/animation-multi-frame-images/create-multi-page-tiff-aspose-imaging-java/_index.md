@@ -13,17 +13,11 @@ url: /zh-hant/java/animation-multi-frame-images/create-multi-page-tiff-aspose-im
 weight: 1
 ---
 
- unchanged.
 
-So:
 
-**最後更新：** 2026-02-22  
-**測試環境：** Aspose.Imaging for Java 25.5  
-**作者：** Aspose
 
-Make sure bold formatting preserved.
 
-Now produce final content.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

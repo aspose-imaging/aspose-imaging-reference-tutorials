@@ -13,9 +13,8 @@ url: /th/java/advanced-drawing-graphics/mastering-text-rendering-aspose-imaging-
 weight: 1
 ---
 
- remain unchanged.
 
-Now produce final content.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

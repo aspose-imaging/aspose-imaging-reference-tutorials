@@ -73,10 +73,9 @@ weight: 8
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
+
 # Aspose.Imaging용 Java 형식별 이미지 처리 튜토리얼
 
 이 가이드에서는 Java에서 **TIFF** 파일을 생성하고, 다중 페이지 TIFF 문서를 만들며, Aspose.Imaging을 사용한 **PNG를 JPEG로 변환** 방법을 알아봅니다. 여러 이미지를 하나의 TIFF로 합치거나 PNG의 투명성을 처리하거나 **Java에서 PNG를 JPEG로 변환**해야 할 경우, 단계별 튜토리얼을 통해 프로젝트에 바로 적용할 수 있는 실용적인 코드를 제공합니다.
@@ -191,7 +190,7 @@ A: 아닙니다. 하나의 Aspose.Imaging 라이선스로 모든 지원 이미�
 **테스트 환경:** Aspose.Imaging 24.11 for Java  
 **작성자:** Aspose
 
-{{< /blocks/products/products-backtop-button >}}
+
 
 ## 관련 튜토리얼
 
@@ -200,6 +199,8 @@ A: 아닙니다. 하나의 Aspose.Imaging 라이선스로 모든 지원 이미�
 - [Aspose.Imaging for Java를 사용한 다중 프레임 TIFF를 JPEG로 변환 – 완전 가이드](/imaging/java/image-loading-saving/convert-multi-frame-tiff-to-jpeg-aspose-imaging-java/)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
+
 {{< blocks/products/products-backtop-button >}}

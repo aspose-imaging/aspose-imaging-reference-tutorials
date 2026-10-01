@@ -12,17 +12,12 @@ url: /zh-hant/java/batch-processing-multi-threading/aspose-imaging-java-image-ma
 weight: 1
 ---
 
- translate as "**測試環境**：" then content.
 
-**Author:** -> "**作者**：" Aspose.
 
-Now close shortcodes.
 
-All shortcodes remain.
 
-Now produce final content with same structure.
 
-Let's assemble.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

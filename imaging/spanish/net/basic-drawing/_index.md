@@ -10,13 +10,10 @@ url: /es/net/basic-drawing/
 weight: 22
 ---
 
-Now ensure we keep the shortcodes at top and bottom unchanged.
 
-Now produce final content.
 
-Check for any missed items: The "## Basic Drawing Tutorials" heading translation is correct. Ensure we keep the list items as subheadings with ###.
 
-Now produce final answer with only translated content.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

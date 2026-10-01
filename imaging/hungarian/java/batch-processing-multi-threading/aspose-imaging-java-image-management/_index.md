@@ -14,7 +14,7 @@ url: /hu/java/batch-processing-multi-threading/aspose-imaging-java-image-managem
 weight: 1
 ---
 
-Now ensure we didn't miss any markdown formatting. Keep code block placeholders unchanged. Ensure bullet lists use hyphens. Provide final output.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

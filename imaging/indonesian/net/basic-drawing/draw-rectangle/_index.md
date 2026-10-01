@@ -10,11 +10,9 @@ url: /id/net/basic-drawing/draw-rectangle/
 weight: 14
 ---
 
-Translate FAQ.
 
-Make sure to keep links unchanged.
 
-Let's craft final output.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

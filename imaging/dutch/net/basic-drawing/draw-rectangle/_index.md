@@ -10,19 +10,13 @@ url: /nl/net/basic-drawing/draw-rectangle/
 weight: 14
 ---
 
-NET"
 
-**Author:** Aspose -> "**Auteur:** Aspose"
 
-Make sure to keep bold formatting.
 
-Now produce final content with all sections.
 
-Check we didn't miss any markdown formatting.
 
-Make sure code block placeholders remain as is (they are not fenced code blocks but placeholders). The instruction says preserve code blocks: there are placeholders but not actual fenced blocks. That's fine.
 
-Now produce final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

@@ -13,11 +13,9 @@ url: /es/java/batch-processing-multi-threading/aspose-imaging-java-image-managem
 weight: 1
 ---
 
- original.
 
-Also ensure we keep code block placeholders unchanged.
 
-Now produce final content.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

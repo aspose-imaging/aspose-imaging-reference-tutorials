@@ -12,13 +12,10 @@ url: /zh-hant/java/color-brightness-adjustments/convert-images-grayscale-aspose-
 weight: 1
 ---
 
- with hyphens, numbered list with 1., etc.
 
-Also note that there is a line "### Maven Integration (aspose imaging maven dependency)" we translated.
 
-All placeholders remain.
 
-Now produce final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

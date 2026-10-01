@@ -8,15 +8,11 @@ url: /hu/net/compression-optimization/
 weight: 13
 ---
 
- output with translated content.
 
-Check for any code blocks: none.
 
-Make sure to keep bold formatting.
 
-Check for any special characters: colon encoded as &#58; we kept.
 
-Now produce final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

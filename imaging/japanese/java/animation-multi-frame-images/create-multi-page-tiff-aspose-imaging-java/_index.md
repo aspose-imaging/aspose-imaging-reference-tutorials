@@ -13,23 +13,15 @@ url: /ja/java/animation-multi-frame-images/create-multi-page-tiff-aspose-imaging
 weight: 1
 ---
 
- lines are not to be translated? They are content. Should translate? The instruction: translate all text content. So translate "Last Updated", "Tested With", "Author". But keep dates unchanged. Keep bold formatting.
 
-So:
 
-**Last Updated:** 2026-02-22 -> "最終更新日:" maybe keep "Last Updated" as Japanese "最終更新日". Keep bold.
 
-**Tested With:** Aspose.Imaging for Java 25.5 -> "テスト環境:" maybe "テスト対象:".
 
-**Author:** Aspose -> "作者:".
 
-But keep bold markers.
 
-Now produce final output with all translations.
 
-Be careful to preserve markdown syntax.
 
-Let's craft final content.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

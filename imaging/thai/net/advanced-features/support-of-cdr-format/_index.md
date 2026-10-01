@@ -9,9 +9,8 @@ url: /th/net/advanced-features/support-of-cdr-format/
 weight: 13
 ---
 
- ensure we keep markdown formatting exactly.
 
-Let's construct final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

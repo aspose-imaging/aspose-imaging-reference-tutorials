@@ -9,11 +9,9 @@ url: /vi/net/advanced-features/support-of-cdr-format/
 weight: 13
 ---
 
- translations.
 
-Be careful to keep markdown formatting, code block placeholders unchanged.
 
-Let's craft final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

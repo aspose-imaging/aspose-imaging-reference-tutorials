@@ -13,13 +13,10 @@ url: /cs/java/advanced-drawing-graphics/advanced-image-manipulation-aspose-imagi
 weight: 1
 ---
 
- -> "Často kladené otázky"
 
-"Resources" -> "Zdroje"
 
-Make sure to keep code block placeholders unchanged.
 
-Let's craft final.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

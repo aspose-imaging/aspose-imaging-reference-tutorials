@@ -11,21 +11,14 @@ url: /hu/net/basic-drawing/draw-lines/
 weight: 13
 ---
 
-: translate ALL text content. So we should translate those lines as well, but keep the values unchanged (dates, version). So:
 
-**Last Updated:** 2026-02-14 -> "**Utolsó frissítés:** 2026-02-14"
 
-**Tested With:** Aspose.Imaging 24.11 for .NET -> "**Tesztelve ezzel:** Aspose.Imaging 24.11 for .NET"
 
-**Author:** Aspose -> "**Szerző:** Aspose"
 
-Make sure markdown bold stays.
 
-Now produce final content with all translations.
 
-Check that we didn't translate code block placeholders. Keep them.
 
-Now produce final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

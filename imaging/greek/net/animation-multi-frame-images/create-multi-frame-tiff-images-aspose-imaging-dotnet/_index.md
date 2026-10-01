@@ -13,9 +13,8 @@ url: /el/net/animation-multi-frame-images/create-multi-frame-tiff-images-aspose-
 weight: 1
 ---
 
- keep the shortcodes exactly.
 
-Now produce final content.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

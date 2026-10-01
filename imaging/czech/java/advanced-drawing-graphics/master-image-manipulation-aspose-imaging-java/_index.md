@@ -14,9 +14,8 @@ url: /cs/java/advanced-drawing-graphics/master-image-manipulation-aspose-imaging
 weight: 1
 ---
 
- block placeholders unchanged.
 
-Let's craft final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

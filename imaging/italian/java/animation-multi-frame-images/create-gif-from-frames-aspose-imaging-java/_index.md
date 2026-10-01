@@ -14,13 +14,10 @@ url: /it/java/animation-multi-frame-images/create-gif-from-frames-aspose-imaging
 weight: 1
 ---
 
- with all translations.
 
-Make sure to keep code block placeholders unchanged.
 
-Also keep markdown formatting.
 
-Let's craft final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

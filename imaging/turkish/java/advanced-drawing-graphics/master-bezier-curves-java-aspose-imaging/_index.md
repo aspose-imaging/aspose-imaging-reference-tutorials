@@ -14,13 +14,10 @@ url: /tr/java/advanced-drawing-graphics/master-bezier-curves-java-aspose-imaging
 weight: 1
 ---
 
- translation.
 
-Be careful with bullet points and formatting.
 
-Also note "step‑by‑step" keep dash.
 
-Now produce final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

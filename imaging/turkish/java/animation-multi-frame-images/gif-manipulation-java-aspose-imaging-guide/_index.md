@@ -14,9 +14,8 @@ url: /tr/java/animation-multi-frame-images/gif-manipulation-java-aspose-imaging-
 weight: 1
 ---
 
- all placeholders unchanged.
 
-Let's craft final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

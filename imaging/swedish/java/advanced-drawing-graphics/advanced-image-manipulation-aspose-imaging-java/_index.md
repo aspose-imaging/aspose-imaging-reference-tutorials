@@ -13,11 +13,9 @@ url: /sv/java/advanced-drawing-graphics/advanced-image-manipulation-aspose-imagi
 weight: 1
 ---
 
--backtop-button >}}
 
-We must keep shortcodes unchanged.
 
-Now produce final content.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

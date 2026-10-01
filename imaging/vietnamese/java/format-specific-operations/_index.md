@@ -74,10 +74,9 @@ weight: 8
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
+
 # Hướng dẫn xử lý ảnh theo định dạng Java cho Aspose.Imaging
 
 Trong hướng dẫn này, bạn sẽ khám phá cách **tạo TIFF** trong Java, tạo tài liệu TIFF đa trang, và thực hiện **chuyển đổi PNG sang JPEG** với Aspose.Imaging. Cho dù bạn cần ghép nhiều ảnh thành một TIFF duy nhất, xử lý độ trong suốt trong PNG, hoặc **chuyển đổi PNG sang JPEG trong Java**, những hướng dẫn từng bước này cung cấp mã thực tế mà bạn có thể đưa thẳng vào dự án của mình.
@@ -192,14 +191,13 @@ A: No. A single Aspose.Imaging license covers all supported image formats.
 **Tested With:** Aspose.Imaging 24.11 for Java  
 **Author:** Aspose
 
-{{< /blocks/products/products-backtop-button >}}
+
 
 ## Hướng dẫn liên quan
 
 - [Tạo TIFF đa trang với nén CCITTFAX3 trong Java bằng Aspose.Imaging](/imaging/java/format-specific-operations/java-multi-page-tiff-ccittfax3-compression-aspose-imaging/)
 - [Tách khung TIFF đa trang với Aspose.Imaging cho Java](/imaging/java/image-conversion-and-optimization/tiff-image-frame-splitting/)
 - [Chuyển đổi TIFF đa khung sang JPEG với Aspose.Imaging cho Java - Hướng dẫn đầy đủ](/imaging/java/image-loading-saving/convert-multi-frame-tiff-to-jpeg-aspose-imaging-java/)
-
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

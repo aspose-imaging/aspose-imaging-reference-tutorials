@@ -15,17 +15,11 @@ url: /es/java/advanced-drawing-graphics/aspose-imaging-java-otsu-thresholding-gu
 weight: 1
 ---
 
- English? Should translate? Probably keep as is because they are labels. But we can translate to Spanish: "Última actualización:", "Probado con:", "Autor:". However instruction: translate all text content naturally to Spanish. So translate.
 
-Thus:
 
-**Last Updated:** -> **Última actualización:**  
-**Tested With:** -> **Probado con:**  
-**Author:** -> **Autor:**  
 
-Now ensure we keep markdown formatting.
 
-Now produce final content with all translations.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

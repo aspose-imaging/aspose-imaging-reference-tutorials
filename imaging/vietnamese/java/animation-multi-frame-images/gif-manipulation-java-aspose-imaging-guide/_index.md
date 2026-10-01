@@ -13,11 +13,9 @@ url: /vi/java/animation-multi-frame-images/gif-manipulation-java-aspose-imaging-
 weight: 1
 ---
 
- formatting.
 
-Be careful to keep code block placeholders unchanged.
 
-Let's craft final output.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

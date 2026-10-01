@@ -13,7 +13,7 @@ url: /pt/java/batch-processing-multi-threading/batch-process-export-tiff-aspose-
 weight: 1
 ---
 
- answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

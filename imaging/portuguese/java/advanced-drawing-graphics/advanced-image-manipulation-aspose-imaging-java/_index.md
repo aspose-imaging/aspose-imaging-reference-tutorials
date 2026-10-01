@@ -15,7 +15,7 @@ url: /pt/java/advanced-drawing-graphics/advanced-image-manipulation-aspose-imagi
 weight: 1
 ---
 
-Now produce final content.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

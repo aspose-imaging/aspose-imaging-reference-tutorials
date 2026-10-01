@@ -8,15 +8,11 @@ url: /id/net/compression-optimization/
 weight: 13
 ---
 
- &#58; which is colon. Keep as is.
 
-Now produce final output with all content.
 
-Check for any missing elements: The original includes a blank line after each list item with two spaces for line break. Keep them.
 
-Make sure to keep the shortcodes exactly as they appear.
 
-Now produce final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

@@ -14,11 +14,9 @@ url: /id/java/color-brightness-adjustments/convert-images-grayscale-aspose-imagi
 weight: 1
 ---
 
- block placeholders unchanged.
 
-Also ensure we keep markdown formatting.
 
-Let's construct final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

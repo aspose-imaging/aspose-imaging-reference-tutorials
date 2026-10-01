@@ -13,7 +13,7 @@ url: /id/java/batch-processing-multi-threading/aspose-imaging-java-image-managem
 weight: 1
 ---
 
-Proceed.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

@@ -13,13 +13,10 @@ url: /ko/java/animation-multi-frame-images/extract-tiff-frames-to-bmp-aspose-ima
 weight: 1
 ---
 
- etc. Keep them.
 
-Check any inline code like `try‑with‑resources` keep as is.
 
-Check any special characters: ensure hyphens etc.
 
-Now produce final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

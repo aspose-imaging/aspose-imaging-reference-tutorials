@@ -14,11 +14,9 @@ url: /fr/java/compression-optimization/advanced-jpeg-compression-java-aspose-ima
 weight: 1
 ---
 
- **...** keep.
 
-Also keep code block placeholders as they are.
 
-Now produce final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

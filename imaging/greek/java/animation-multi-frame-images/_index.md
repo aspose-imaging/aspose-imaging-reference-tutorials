@@ -8,9 +8,8 @@ url: /el/java/animation-multi-frame-images/
 weight: 11
 ---
 
-Now produce final content with translations.
 
-Let's construct final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

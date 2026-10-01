@@ -12,9 +12,8 @@ url: /ja/java/advanced-drawing-graphics/advanced-image-manipulation-aspose-imagi
 weight: 1
 ---
 
- markdown formatting.
 
-Let's construct final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

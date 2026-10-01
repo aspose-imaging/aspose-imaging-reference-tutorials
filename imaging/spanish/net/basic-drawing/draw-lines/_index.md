@@ -10,13 +10,10 @@ url: /es/net/basic-drawing/draw-lines/
 weight: 13
 ---
 
- content with all translations.
 
-Check for any missed items: Ensure we didn't translate URLs. Keep them.
 
-Also note "ensure proper RTL formatting if needed" but Spanish LTR fine.
 
-Now produce final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

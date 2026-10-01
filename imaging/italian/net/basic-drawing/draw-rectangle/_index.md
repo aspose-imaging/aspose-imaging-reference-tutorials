@@ -10,11 +10,9 @@ url: /it/net/basic-drawing/draw-rectangle/
 weight: 14
 ---
 
- keep code block placeholders unchanged.
 
-Also ensure markdown tables keep pipe formatting.
 
-Now craft final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 

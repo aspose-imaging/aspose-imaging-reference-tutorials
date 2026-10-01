@@ -9,11 +9,9 @@ url: /th/net/basic-drawing/draw-ellipse/
 weight: 12
 ---
 
- spacing.
 
-All shortcodes preserved.
 
-Now craft final answer.{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/pf/main-container >}}
 
