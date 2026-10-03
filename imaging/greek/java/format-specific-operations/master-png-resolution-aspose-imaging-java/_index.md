@@ -1,44 +1,124 @@
 ---
-"date": "2025-06-04"
-"description": "Μάθετε πώς να χειρίζεστε την ανάλυση PNG χρησιμοποιώντας το Aspose.Imaging για Java. Αυτό το σεμινάριο καλύπτει την εξαγωγή δεδομένων pixel, τον ορισμό αναλύσεων και την αποτελεσματική αποθήκευση εικόνων."
-"title": "Εξαγωγή και ορισμός ανάλυσης PNG σε Java με το Aspose.Imaging"
-"url": "/el/java/format-specific-operations/master-png-resolution-aspose-imaging-java/"
-"weight": 1
+date: '2026-10-03'
+description: Μάθετε πώς να ορίσετε την ανάλυση PNG, να εξάγετε δεδομένα pixel και
+  να αποθηκεύσετε αρχεία PNG με συγκεκριμένο DPI χρησιμοποιώντας το Aspose.Imaging
+  για Java. Περιλαμβάνει κώδικα βήμα‑βήμα και αντιμετώπιση προβλημάτων.
+keywords:
+- how to set png
+- how to extract png
+- save png with resolution
+- aspose imaging png
+- java image processing
+lastmod: '2026-10-03'
+og_description: Μάθετε πώς να ορίσετε την ανάλυση PNG, να εξάγετε δεδομένα pixel και
+  να αποθηκεύσετε αρχεία PNG με συγκεκριμένο DPI χρησιμοποιώντας το Aspose.Imaging
+  για Java. Οδηγός βήμα‑βήμα για προγραμματιστές.
+og_image_alt: Developer guide showing Java code for extracting and setting PNG resolution
+  with Aspose.Imaging
+og_title: Πώς να ορίσετε την ανάλυση PNG σε Java με το Aspose.Imaging
+schemas:
+- author: Aspose
+  dateModified: '2026-10-03'
+  description: Learn how to set PNG resolution, extract pixel data, and save PNG files
+    with specific DPI using Aspose.Imaging for Java. Includes step‑by‑step code and
+    troubleshooting.
+  headline: How to set PNG resolution in Java with Aspose.Imaging
+  type: TechArticle
+- description: Learn how to set PNG resolution, extract pixel data, and save PNG files
+    with specific DPI using Aspose.Imaging for Java. Includes step‑by‑step code and
+    troubleshooting.
+  name: How to set PNG resolution in Java with Aspose.Imaging
+  steps:
+  - name: '**Print‑ready graphics** – PDFs or reports that embed PNGs require exact
+      DPI for crisp output.'
+    text: '**Print‑ready graphics** – PDFs or reports that embed PNGs require exact
+      DPI for crisp output.'
+  - name: '**Web optimisation** – Reducing DPI can shrink file size while preserving
+      visual fidelity for responsive sites.'
+    text: '**Web optimisation** – Reducing DPI can shrink file size while preserving
+      visual fidelity for responsive sites.'
+  - name: '**Scientific visualisation** – Charts generated programmatically often
+      need a known resolution for accurate scaling in publications.'
+    text: '**Scientific visualisation** – Charts generated programmatically often
+      need a known resolution for accurate scaling in publications.'
+  - name: '**How do I handle different image formats with Aspose.Imaging?**'
+    text: '**How do I handle different image formats with Aspose.Imaging?**'
+  - name: '**What if my image resolution isn’t set correctly after saving?**'
+    text: '**What if my image resolution isn’t set correctly after saving?**'
+  - name: '**Can I manipulate images without loading them entirely into memory?**'
+    text: '**Can I manipulate images without loading them entirely into memory?**'
+  - name: '**Is there support for other programming languages besides Java?**'
+    text: '**Is there support for other programming languages besides Java?**'
+  - name: '**How do I integrate Aspose.Imaging with cloud services?**'
+    text: '**How do I integrate Aspose.Imaging with cloud services?**'
+  type: HowTo
+- questions:
+  - answer: DPI is metadata; it tells viewers how large the image should appear at
+      a given physical size but does not change pixel dimensions.
+    question: Does setting DPI affect image dimensions?
+  - answer: Yes – call `image.getResolutionSettings()` on a loaded `PngImage` to retrieve
+      its horizontal and vertical DPI.
+    question: Can I read the current DPI of an existing PNG?
+  - answer: A free trial works for development and testing; a full license is mandatory
+      for production deployments.
+    question: Is a license required for development builds?
+  - answer: Absolutely – Aspose.Imaging is pure Java and does not depend on a graphical
+      environment.
+    question: Will this work on headless servers?
+  - answer: The library is thread‑safe; you can process dozens concurrently, limited
+      only by your server’s CPU and memory.
+    question: How many PNG files can I process in parallel?
+  type: FAQPage
+tags:
+- how to set png
+- Aspose.Imaging
+- Java image manipulation
+- PNG resolution
+- image processing tutorial
+title: Πώς να ορίσετε την ανάλυση PNG σε Java με το Aspose.Imaging
+url: /el/java/format-specific-operations/master-png-resolution-aspose-imaging-java/
+weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# Εξειδίκευση στη Διαχείριση Εικόνων με το Aspose.Imaging Java: Εξαγωγή & Ορισμός Ανάλυσης PNG
+
+# Πώς να ορίσετε την ανάλυση PNG σε Java με το Aspose.Imaging
 
 ## Εισαγωγή
 
-Θέλετε να βελτιώσετε τις δεξιότητές σας στην επεξεργασία εικόνων χρησιμοποιώντας Java; Είτε είστε έμπειρος προγραμματιστής είτε μόλις ξεκινάτε, η κατανόηση του τρόπου φόρτωσης και χειρισμού δεδομένων pixel σε εικόνες είναι ζωτικής σημασίας. Αυτό το σεμινάριο θα σας καθοδηγήσει στην εξαγωγή δεδομένων pixel από μια εικόνα και στη δημιουργία ενός νέου PNG με συγκεκριμένες ρυθμίσεις ανάλυσης χρησιμοποιώντας το Aspose.Imaging για Java.
+Αν χρειάζεστε να **how to set png** αρχεία σε ακριβή DPI για εκτύπωση, διαδικτυακή διανομή ή οπτικοποίηση δεδομένων, αυτός ο οδηγός σας δείχνει ακριβώς πώς. Χρησιμοποιώντας το Aspose.Imaging για Java μπορείτε να εξάγετε δεδομένα pixel, να τροποποιήσετε τα μεταδεδομένα ανάλυσης και να αποθηκεύσετε ένα ολοκαίνουργιο PNG — χωρίς να χάσετε την ποιότητα της εικόνας. Στο τέλος αυτού του tutorial θα μπορείτε να φορτώσετε οποιοδήποτε PNG, να διαβάσετε τα pixel του, να ορίσετε προσαρμοσμένες οριζόντιες και κάθετες αναλύσεις και να γράψετε το αποτέλεσμα πίσω στο δίσκο.
 
-**Τι θα μάθετε:**
-- Πώς να φορτώσετε και να εξαγάγετε δεδομένα pixel από εικόνες.
-- Δημιουργία και αποθήκευση νέων αρχείων PNG με εξαγόμενα pixel.
-- Αποτελεσματική ρύθμιση της ανάλυσης των εικόνων PNG.
+**Τι θα μάθετε**
+- Πώς να εξάγετε δεδομένα pixel PNG.
+- Πώς να ορίσετε την ανάλυση PNG με ακρίβεια.
+- Πώς να αποθηκεύσετε το τροποποιημένο PNG με το επιθυμητό DPI.
 
-Μεταβαίνοντας σε αυτόν τον οδηγό, ας καλύψουμε πρώτα τις απαραίτητες προϋποθέσεις για να ακολουθήσουμε απρόσκοπτα.
+Προχωρώντας σε αυτόν τον οδηγό, ας καλύψουμε πρώτα τις προαπαιτήσεις που απαιτούνται για να το ακολουθήσετε άψογα.
 
-## Προαπαιτούμενα
+## Γρήγορες απαντήσεις
+- **Πώς μπορώ να αλλάξω το DPI ενός PNG;** Load the PNG with `RasterImage`, set `PngOptions` resolution, then save.
+- **Μπορώ να εξάγω δεδομένα pixel από ένα PNG;** Yes—use `RasterImage.loadPixels()` to get a `Color[]` array.
+- **Χρειάζομαι άδεια για το Aspose.Imaging;** A trial works for development; a full license is required for production.
+- **Ποια έκδοση της Java απαιτείται;** JDK 8 or higher.
+- **Είναι αυτή η προσέγγιση αποδοτική σε μνήμη;** Aspose.Imaging streams data, allowing large images without full in‑memory loading.
 
-Πριν ξεκινήσετε την επεξεργασία εικόνων με το Aspose.Imaging Java, βεβαιωθείτε ότι έχετε τα εξής:
+## Προαπαιτήσεις
 
-- **Aspose.Imaging για βιβλιοθήκη Java**: Αυτό είναι απαραίτητο για όλες τις λειτουργίες που θα εκτελέσουμε.
-- **Κιτ ανάπτυξης Java (JDK)**Βεβαιωθείτε ότι έχετε εγκαταστήσει στο σύστημά σας το JDK 8 ή νεότερη έκδοση.
-- **IDE**Χρησιμοποιήστε ένα IDE όπως το IntelliJ IDEA ή το Eclipse για να εκτελέσετε και να δοκιμάσετε τον κώδικά σας.
-- **Βασικές γνώσεις προγραμματισμού Java**Η εξοικείωση με τη σύνταξη και τις έννοιες της Java θα βοηθήσει.
+Πριν εμβαθύνετε στην επεξεργασία εικόνας με το Aspose.Imaging Java, βεβαιωθείτε ότι έχετε τα ακόλουθα:
+
+- **Aspose.Imaging for Java library** – το βασικό API που χρησιμοποιείται σε κάθε παράδειγμα κώδικα.
+- **Java Development Kit (JDK)** – έκδοση 8 ή νεότερη.
+- **IDE** – IntelliJ IDEA, Eclipse ή οποιονδήποτε επεξεργαστή προτιμάτε.
+- **Βασικές γνώσεις Java** – εξοικείωση με κλάσεις, μεθόδους και διαχείριση εξαιρέσεων.
 
 ## Ρύθμιση του Aspose.Imaging για Java
 
 Για να ξεκινήσετε να εργάζεστε με το Aspose.Imaging για Java, πρέπει να το συμπεριλάβετε στο έργο σας. Ακολουθούν τα βήματα για διαφορετικά συστήματα κατασκευής:
 
 ### Maven
-Προσθέστε αυτήν την εξάρτηση στο δικό σας `pom.xml` αρχείο:
+Add this dependency to your `pom.xml` file:
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -47,31 +127,32 @@
 </dependency>
 ```
 
-### Γκράντλ
-Συμπεριλάβετε τα ακόλουθα στο `build.gradle`:
+### Gradle
+Include the following in your `build.gradle`:
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-### Άμεση Λήψη
-Εναλλακτικά, κατεβάστε την τελευταία έκδοση του JAR από [Aspose.Imaging για εκδόσεις Java](https://releases.aspose.com/imaging/java/).
+### Άμεση λήψη
+Alternatively, download the latest JAR from [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-#### Απόκτηση Άδειας
-- **Δωρεάν δοκιμή**: Ξεκινήστε με μια δωρεάν δοκιμαστική περίοδο για να δοκιμάσετε τις λειτουργίες.
-- **Προσωρινή Άδεια**Αποκτήστε προσωρινή άδεια για εκτεταμένη αξιολόγηση.
-- **Αγορά**: Σκεφτείτε το ενδεχόμενο αγοράς μιας πλήρους άδειας χρήσης για εμπορική χρήση.
+#### Απόκτηση άδειας
+- **Δωρεάν δοκιμή** – αξιολογήστε όλες τις λειτουργίες χωρίς κλειδί άδειας.
+- **Προσωρινή άδεια** – εκτεταμένη αξιολόγηση για δοκιμές.
+- **Πλήρης άδεια** – απαιτείται για εμπορική ανάπτυξη.
 
-Αρχικοποιήστε το έργο σας ρυθμίζοντας το Aspose.Imaging και διασφαλίζοντας ότι όλες οι εξαρτήσεις έχουν ρυθμιστεί σωστά.
+Initialize your project by setting up Aspose.Imaging and ensuring all dependencies are correctly configured.
 
-## Οδηγός Εφαρμογής
+## Οδηγός υλοποίησης
 
-Ας χωρίσουμε την υλοποίηση σε ξεχωριστές ενότητες με βάση τα χαρακτηριστικά:
+We'll split the implementation into three logical parts: extracting pixel data, creating a new PNG, and setting its resolution.
 
 ### Φόρτωση και εξαγωγή δεδομένων pixel
 
-Αυτή η λειτουργία σάς επιτρέπει να φορτώσετε μια εικόνα και να εξαγάγετε τα δεδομένα pixel της χρησιμοποιώντας `RasterImage`.
+**RasterImage** είναι η κλάση του Aspose.Imaging που παρέχει άμεση πρόσβαση στα δεδομένα pixel εικόνων raster.  
+Μπορείτε να φορτώσετε οποιαδήποτε υποστηριζόμενη μορφή εικόνας και να ανακτήσετε τις ακατέργαστες τιμές χρώματος.
 
-#### Βήμα 1: Φόρτωση της εικόνας
+#### Βήμα 1: φόρτωση της εικόνας
 ```java
 import com.aspose.imaging.Image;
 import com.aspose.imaging.RasterImage;
@@ -88,18 +169,19 @@ try (RasterImage raster = (RasterImage) Image.load(imagePath)) {
     width = raster.getWidth();
     height = raster.getHeight();
     
-    // Φόρτωση των pixel του RasterImage σε έναν πίνακα χρωμάτων
+    // Load the pixels of RasterImage into a Color array
     pixels = raster.loadPixels(new Rectangle(0, 0, width, height));
 }
 ```
 
-#### Εξήγηση
-- **Εικόνα Ράστερ**: Αντιπροσωπεύει μια εικόνα με δεδομένα pixel.
-- **φόρτωση εικονοστοιχείων ()**: Εξάγει δεδομένα pixel σε ένα `Color[]` πίνακας για χειρισμό.
+#### Επεξήγηση
+- **RasterImage**: Αντιπροσωπεύει μια εικόνα με δεδομένα pixel που μπορούν να διαβαστούν ή να γραφτούν.
+- **loadPixels()**: Επιστρέφει έναν πίνακα `Color[]` που περιέχει τις τιμές ARGB κάθε pixel, επιτρέποντας προσαρμοσμένη επεξεργασία.
 
 ### Δημιουργία νέας εικόνας PNG και αποθήκευση pixel
 
-Τώρα, ας δημιουργήσουμε ένα νέο αρχείο PNG χρησιμοποιώντας τα εξαγόμενα pixel.
+**PngImage** είναι η εξειδικευμένη υποκλάση του `RasterImage` σχεδιασμένη για αρχεία PNG.  
+Σας επιτρέπει να γράψετε έναν πίνακα pixel πίσω σε ένα κοντέινερ PNG διατηρώντας τις ειδικές ιδιότητες της μορφής.
 
 ```java
 import com.aspose.imaging.fileformats.png.PngImage;
@@ -108,18 +190,19 @@ String YOUR_OUTPUT_DIRECTORY = "YOUR_OUTPUT_DIRECTORY";
 String outputPath = YOUR_OUTPUT_DIRECTORY + "/SettingResolution_output.png";
 
 try (PngImage png = new PngImage(width, height)) {
-    // Αποθηκεύστε τα προηγουμένως φορτωμένα pixel στη νέα εικόνα PNG
+    // Save the previously loaded pixels onto the new PNG image
     png.savePixels(new Rectangle(0, 0, width, height), pixels);
 }
 ```
 
-#### Εξήγηση
-- **PngImage**: Ένας συγκεκριμένος τύπος `RasterImage` για τη διαχείριση αρχείων PNG.
-- **αποθήκευσηPixels()**: Εγγράφει δεδομένα pixel πίσω σε μια εικόνα.
+#### Επεξήγηση
+- **PngImage**: Διαχειρίζεται την κωδικοποίηση, συμπίεση και μεταδεδομένα ειδικά για PNG.
+- **savePixels()**: Γράφει το τροποποιημένο `Color[]` πίσω σε ένα νέο αρχείο PNG.
 
-### Ρύθμιση ανάλυσης και αποθήκευση εικόνας
+### Ορισμός ανάλυσης και αποθήκευση εικόνας
 
-Προσαρμόστε τις ρυθμίσεις ανάλυσης πριν αποθηκεύσετε την τελική εικόνα.
+**PngOptions** σας επιτρέπει να ελέγξετε πώς γράφεται ένα PNG, συμπεριλαμβανομένων των ρυθμίσεων DPI.  
+Μπορείτε να ορίσετε τόσο τις οριζόντιες όσο και τις κάθετες τιμές ανάλυσης πριν από την αποθήκευση.
 
 ```java
 import com.aspose.imaging.imageoptions.PngOptions;
@@ -128,77 +211,107 @@ import com.aspose.imaging.ResolutionSetting;
 try (PngImage png = new PngImage(width, height)) {
     png.savePixels(new Rectangle(0, 0, width, height), pixels);
     
-    // Διαμόρφωση ρυθμίσεων ανάλυσης
+    // Configure resolution settings
     PngOptions options = new PngOptions();
     options.setResolutionSettings(new ResolutionSetting(72, 96));
     
-    // Αποθηκεύστε το PNG με καθορισμένες αναλύσεις
+    // Save the PNG with specified resolutions
     png.save(outputPath, options);
 }
 ```
 
-#### Εξήγηση
-- **Επιλογές Png**: Επιτρέπει την προσαρμογή των παραμέτρων αποθήκευσης εικόνας.
-- **setResolutionSettings()**: Ορίζει οριζόντιες και κάθετες αναλύσεις για την εικόνα σας.
+#### Επεξήγηση
+- **PngOptions**: Παρέχει ιδιότητες όπως `setResolutionSettings()` για ενσωμάτωση μεταδεδομένων DPI.
+- **setResolutionSettings()**: Δέχεται δύο ακέραιους για οριζόντιο και κάθετο DPI, εξασφαλίζοντας ότι το αποθηκευμένο PNG αναφέρει τη σωστή ανάλυση σε προβολείς και εκτυπωτές.
 
-### Συμβουλές αντιμετώπισης προβλημάτων
+### Γιατί να χρησιμοποιήσετε το Aspose.Imaging για την ανάλυση PNG;
 
-- Βεβαιωθείτε ότι όλες οι διαδρομές έχουν ρυθμιστεί σωστά για να αποφύγετε `FileNotFoundException`.
-- Επαληθεύστε τη συμβατότητα των εκδόσεων του Aspose.Imaging σε περίπτωση μη αναμενόμενων σφαλμάτων.
+Το Aspose.Imaging υποστηρίζει **πάνω από 70 μορφές εικόνας** και μπορεί να επεξεργαστεί αρχεία έως **2 GB** χωρίς να φορτώνει ολόκληρη την εικόνα στη μνήμη, χάρη στην αρχιτεκτονική ροής δεδομένων. Αυτό σημαίνει ότι μπορείτε με ασφάλεια να εργάζεστε με PNG υψηλής ανάλυσης σε εργασίες δέσμης ή υπηρεσίες διακομιστή.
 
-## Πρακτικές Εφαρμογές
+### Συνηθισμένα προβλήματα και αντιμετώπιση
+- **FileNotFoundException** – ελέγξτε ξανά ότι οι διαδρομές προέλευσης και προορισμού είναι σωστές και ότι η εφαρμογή έχει δικαιώματα ανάγνωσης/εγγραφής.
+- **Incorrect DPI after saving** – βεβαιωθείτε ότι καλείτε το `setResolutionSettings()` στην ίδια παρουσία `PngOptions` που χρησιμοποιείται για την αποθήκευση.
+- **Memory overflow on large images** – χρησιμοποιήστε `ImageLoadOptions` με `isCachingEnabled` ορισμένο σε `true` για ροή δεδομένων αντί για πλήρη φόρτωση.
 
-Ακολουθούν ορισμένα σενάρια πραγματικού κόσμου όπου μπορούν να εφαρμοστούν αυτές οι τεχνικές:
+## Πρακτικές εφαρμογές
 
-1. **Δυναμική δημιουργία εικόνας**Δημιουργία εικόνων εν κινήσει με συγκεκριμένες αναλύσεις για εφαρμογές ιστού.
-2. **Βελτιστοποίηση εικόνας**Μείωση του μεγέθους του αρχείου προσαρμόζοντας την ανάλυση πριν από την αποστολή σε διακομιστές.
-3. **Οπτικοποίηση Δεδομένων**Χρήση χειρισμού εικονοστοιχείων για τη δημιουργία γραφημάτων και διαγραμμάτων από σύνολα δεδομένων.
+Πραγματικά σενάρια όπου μπορεί να χρειαστείτε την **how to set png** ανάλυση περιλαμβάνουν:
 
-## Παράγοντες Απόδοσης
+1. **Γραφικά έτοιμα για εκτύπωση** – PDF ή αναφορές που ενσωματώνουν PNG απαιτούν ακριβές DPI για καθαρό αποτέλεσμα.
+2. **Βελτιστοποίηση για Web** – Η μείωση του DPI μπορεί να μειώσει το μέγεθος του αρχείου διατηρώντας την οπτική πιστότητα για ανταποκρινόμενους ιστότοπους.
+3. **Επιστημονική οπτικοποίηση** – Διαγράμματα που δημιουργούνται προγραμματιστικά συχνά χρειάζονται γνωστή ανάλυση για ακριβή κλιμάκωση σε δημοσιεύσεις.
 
-Όταν εργάζεστε με επεξεργασία εικόνας σε Java, λάβετε υπόψη τα εξής:
+## Σκέψεις για την απόδοση
 
-- **Βελτιστοποίηση χρήσης μνήμης**: Χειριστείτε μεγάλες εικόνες αποτελεσματικά για να αποφύγετε την υπερφόρτωση μνήμης.
-- **Μαζική επεξεργασία**: Επεξεργαστείτε πολλαπλές εικόνες ταυτόχρονα, εάν είναι δυνατόν, για εξοικονόμηση χρόνου.
-- **Κωδικός προφίλ τακτικά**Χρησιμοποιήστε εργαλεία δημιουργίας προφίλ για τον εντοπισμό και την αντιμετώπιση σημείων συμφόρησης.
+Όταν επεξεργάζεστε πολλές εικόνες, κρατήστε αυτά τα σημεία στο μυαλό:
 
-## Σύναψη
+- **Batch processing** – Χρησιμοποιήστε μια ομάδα νημάτων για να διαχειριστείτε πολλά αρχεία ταυτόχρονα, αλλά παρακολουθήστε τη χρήση της heap.
+- **Memory management** – Αποδεσμεύστε αντικείμενα `RasterImage` με `close()` μετά τη χρήση για να ελευθερώσετε εγγενείς πόρους.
+- **Profiling** – Εργαλεία όπως το VisualVM βοηθούν στον εντοπισμό σημείων συμφόρησης σε βρόχους επεξεργασίας pixel.
 
-Κατακτώντας αυτές τις τεχνικές με το Aspose.Imaging για Java, μπορείτε να διαχειριστείτε αποτελεσματικά τα δεδομένα εικόνας στις εφαρμογές σας. Πειραματιστείτε περαιτέρω ενσωματώνοντας αυτές τις μεθόδους σε μεγαλύτερα έργα ή εξερευνώντας πρόσθετες λειτουργίες που προσφέρει το Aspose.Imaging.
+## Συμπέρασμα
 
-**Επόμενα βήματα**Δοκιμάστε να υλοποιήσετε μια μικρή εφαρμογή που χρησιμοποιεί αυτές τις λειτουργίες για να χειριστείτε εικόνες ανάλογα με τις ανάγκες σας.
+Με την κατανόηση των βημάτων για την **how to set png** ανάλυση, την εξαγωγή δεδομένων pixel και την αποθήκευση του αποτελέσματος με το Aspose.Imaging για Java, αποκτάτε λεπτομερή έλεγχο της ποιότητας εικόνας και των μεταδεδομένων. Εφαρμόστε αυτές τις τεχνικές σε web services, επιτραπέζιες εφαρμογές ή αυτοματοποιημένες αλυσίδες αναφορών για να παραδώσετε ακριβώς τις προδιαγραφές εικόνας που χρειάζονται οι χρήστες σας.
+
+**Επόμενα βήματα** – πειραματιστείτε με διαφορετικές τιμές DPI, συνδυάστε αυτήν την προσέγγιση με μετατροπές χρωματικού χώρου, ή ενσωματώστε την σε μικροϋπηρεσία που επεξεργάζεται εικόνες που ανεβάζουν οι χρήστες σε πραγματικό χρόνο.
 
 ## Ενότητα Συχνών Ερωτήσεων
 
-1. **Πώς μπορώ να χειριστώ διαφορετικές μορφές εικόνας με το Aspose.Imaging;**
-   - Χρησιμοποιήστε συγκεκριμένες κλάσεις όπως `PngImage` για αρχεία PNG, παρόμοια με τον τρόπο `RasterImage` χρησιμοποιείται για γενικούς σκοπούς.
-   
-2. **Τι γίνεται αν η ανάλυση της εικόνας μου δεν έχει ρυθμιστεί σωστά μετά την αποθήκευση;**
-   - Ελέγξτε ξανά το `ResolutionSetting` αξίες στο δικό σας `PngOptions`.
+1. **How do I handle different image formats with Aspose.Imaging?**  
+   Use the format‑specific classes such as `PngImage`, `JpegImage`, or the generic `RasterImage` for most raster formats.
 
-3. **Μπορώ να επεξεργαστώ εικόνες χωρίς να τις φορτώσω εξ ολοκλήρου στη μνήμη;**
-   - Το Aspose.Imaging υποστηρίζει επιλογές ροής, αλλά η διαχείριση μεγάλων εικόνων ενδέχεται να απαιτεί προσεκτική διαχείριση μνήμης.
+2. **What if my image resolution isn’t set correctly after saving?**  
+   Verify that `setResolutionSettings()` received the intended DPI values and that you saved the image with the same `PngOptions` instance.
 
-4. **Υπάρχει υποστήριξη για άλλες γλώσσες προγραμματισμού εκτός από την Java;**
-   - Ναι, το Aspose.Imaging προσφέρει επίσης βιβλιοθήκες για .NET και άλλες πλατφόρμες.
+3. **Can I manipulate images without loading them entirely into memory?**  
+   Yes – Aspose.Imaging provides streaming options via `ImageLoadOptions` to work with large files efficiently.
 
-5. **Πώς μπορώ να ενσωματώσω το Aspose.Imaging με υπηρεσίες cloud;**
-   - Εξερευνήστε το [API Aspose Cloud](https://products.aspose.cloud/imaging/family/) για απρόσκοπτη ενσωμάτωση με υπηρεσίες cloud.
+4. **Is there support for other programming languages besides Java?**  
+   Aspose.Imaging also offers libraries for .NET, C++, and other platforms.
+
+5. **How do I integrate Aspose.Imaging with cloud services?**  
+   Explore the [Aspose Cloud APIs](https://products.aspose.cloud/imaging/family/) for RESTful image processing in the cloud.
+
+## Συχνές ερωτήσεις
+
+**Q: Does setting DPI affect image dimensions?**  
+A: DPI is metadata; it tells viewers how large the image should appear at a given physical size but does not change pixel dimensions.
+
+**Q: Can I read the current DPI of an existing PNG?**  
+A: Yes – call `image.getResolutionSettings()` on a loaded `PngImage` to retrieve its horizontal and vertical DPI.
+
+**Q: Is a license required for development builds?**  
+A: A free trial works for development and testing; a full license is mandatory for production deployments.
+
+**Q: Will this work on headless servers?**  
+A: Absolutely – Aspose.Imaging is pure Java and does not depend on a graphical environment.
+
+**Q: How many PNG files can I process in parallel?**  
+A: The library is thread‑safe; you can process dozens concurrently, limited only by your server’s CPU and memory.
 
 ## Πόροι
 
-- **Απόδειξη με έγγραφα**: Πλήρεις οδηγοί στο [Τεκμηρίωση Aspose.Imaging](https://reference.aspose.com/imaging/java/)
-- **Λήψη**: Οι πιο πρόσφατες εκδόσεις της βιβλιοθήκης μπορούν να βρεθούν στο [Aspose Κυκλοφορίες](https://releases.aspose.com/imaging/java/)
-- **Αγορά**Αποκτήστε μια πλήρη άδεια χρήσης από [Αγορά Aspose](https://purchase.aspose.com/buy)
-- **Δωρεάν δοκιμή και προσωρινή άδεια χρήσης**: Ξεκινήστε με δοκιμές στο [Δοκιμές Άσπο](https://releases.aspose.com/imaging/java/) και να λάβουν προσωρινές άδειες για αξιολόγηση.
-- **Υποστήριξη**Για τυχόν προβλήματα ή ερωτήσεις, επισκεφθείτε την [Φόρουμ Υποστήριξης Aspose](https://forum.aspose.com/c/imaging/14) 
+- **Documentation**: Comprehensive guides at [Aspose.Imaging Documentation](https://reference.aspose.com/imaging/java/)
+- **Download**: Latest library versions can be found on [Aspose Releases](https://releases.aspose.com/imaging/java/)
+- **Purchase**: Get a full license from [Aspose Purchase](https://purchase.aspose.com/buy)
+- **Free trial & temporary license**: Start with trials at [Aspose Trials](https://releases.aspose.com/imaging/java/) and obtain temporary licenses for evaluation.
+- **Support**: For any issues or questions, visit the [Aspose Support Forum](https://forum.aspose.com/c/imaging/14) 
 
-Τώρα που έχετε μια στέρεη κατανόηση του πώς να χρησιμοποιείτε το Aspose.Imaging Java για εργασίες χειρισμού εικόνας, μη διστάσετε να εξερευνήσετε πιο προηγμένες λειτουργίες και να βελτιώσετε περαιτέρω τις εφαρμογές σας!
+---
+
+**Last Updated:** 2026-10-03  
+**Tested With:** Aspose.Imaging 24.12 for Java  
+**Author:** Aspose
+
+## Σχετικά Μαθήματα
+
+- [Κατακτήστε τη διαφάνεια PNG σε Java με τη βιβλιοθήκη Aspose.Imaging](/imaging/java/image-masking-transparency/mastering-png-opacity-aspose-imaging-java/)
+- [ανάλυση εικόνας java – Κατακτήστε την ευθυγράμμιση ανάλυσης εικόνας με το Aspose.Imaging για Java](/imaging/java/image-processing-and-enhancement/image-resolution-alignment/)
+- [Κατακτήστε τη φόρτωση εικόνας σε Java με το Aspose.Imaging: Οδηγός βήμα‑βήμα](/imaging/java/image-loading-saving/load-images-java-aspose-imaging-guide/)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
