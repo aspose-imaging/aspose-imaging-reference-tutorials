@@ -1,58 +1,118 @@
 ---
-date: '2026-02-17'
-description: Узнайте, как использовать Aspose Imaging Java для чтения размера изображения
-  в Java, изменения размера изображения в Java, конвертации JPEG в PNG в Java и создания
-  прозрачных PNG с простыми примерами кода.
+date: '2026-10-18'
+description: Узнайте, как изменить размер изображения Java, прочитать размер изображения
+  Java, конвертировать JPEG в PNG Java и создавать прозрачные PNG с помощью Aspose
+  Imaging for Java в понятных clear step‑by‑step примерах.
 keywords:
-- image manipulation in Java
+- how to resize image java
+- convert jpeg to png java
+- read image size java
+- java image manipulation tutorial
 - Aspose.Imaging for Java
-- manipulating pixel data in Java
-- create transparent PNG with Java
-- Java graphics & drawing
-title: 'Как использовать Aspose Imaging Java: изменение размера и прозрачный PNG'
+lastmod: '2026-10-18'
+og_description: Как изменить размер изображения Java, прочитать размер изображения
+  Java и конвертировать JPEG в PNG Java с помощью Aspose Imaging for Java — полный
+  учебник для разработчиков.
+og_image_alt: Developer guide showing Java code to resize images and create transparent
+  PNGs with Aspose Imaging
+og_title: Как изменить размер изображения Java с использованием Aspose Imaging
+schemas:
+- author: Aspose
+  dateModified: '2026-10-18'
+  description: Learn how to resize image java, read image size java, convert jpeg
+    to png java, and create transparent PNGs with Aspose Imaging for Java in clear
+    step‑by‑step examples.
+  headline: How to resize image java using Aspose Imaging and read size
+  type: TechArticle
+- description: Learn how to resize image java, read image size java, convert jpeg
+    to png java, and create transparent PNGs with Aspose Imaging for Java in clear
+    step‑by‑step examples.
+  name: How to resize image java using Aspose Imaging and read size
+  steps:
+  - name: '**Web development:** Generate transparent icons or layered graphics on
+      the fly.'
+    text: '**Web development:** Generate transparent icons or layered graphics on
+      the fly.'
+  - name: '**Mobile apps:** Dynamically adjust image dimensions to match different
+      screen resolutions.'
+    text: '**Mobile apps:** Dynamically adjust image dimensions to match different
+      screen resolutions.'
+  - name: '**Graphic design tools:** Apply custom pixel‑level filters or create masks.'
+    text: '**Graphic design tools:** Apply custom pixel‑level filters or create masks.'
+  - name: '**Digital marketing:** Produce brand‑consistent assets with exact dimensions
+      and transparency for social media.'
+    text: '**Digital marketing:** Produce brand‑consistent assets with exact dimensions
+      and transparency for social media.'
+  - name: '**E‑commerce:** Optimize product photos for faster page loads while preserving
+      visual quality.'
+    text: '**E‑commerce:** Optimize product photos for faster page loads while preserving
+      visual quality.'
+  type: HowTo
+- questions:
+  - answer: Yes, a free trial is available, but it includes evaluation limits such
+      as watermarks and a maximum of 5 processed images per session.
+    question: Can I use Aspose.Imaging for Java without a license?
+  - answer: Use the try‑with‑resources pattern shown above, enable streaming mode
+      with `ImageLoadOptions` to avoid loading the entire file into memory, and process
+      images in batches.
+    question: How do I handle large images efficiently?
+  - answer: Absolutely. Once you have the `Color[]` array, you can modify each pixel’s
+      RGBA values, then write the array back to the `RasterImage` for immediate effect.
+    question: Is it possible to apply custom filters using pixel data?
+  - answer: Over 50 formats including JPEG, PNG, BMP, GIF, TIFF, PSD, ICO, WebP, HEIF,
+      and many more, with both read and write capabilities.
+    question: What image formats does Aspose.Imaging support?
+  - answer: Verify that your Maven or Gradle configuration includes the correct **aspose
+      imaging maven dependency** version and that the repository URL points to the
+      official Aspose Maven repository.
+    question: How can I resolve missing dependency errors?
+  type: FAQPage
+tags:
+- image resizing java
+- Aspose.Imaging
+- Java graphics processing
+- transparent PNG
+title: Как изменить размер изображения Java с помощью Aspose Imaging и прочитать его
+  размер
 url: /ru/java/advanced-drawing-graphics/master-image-manipulation-aspose-imaging-java/
 weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# Как использовать Aspose Imaging Java для размеров изображения и прозрачности
+
+# Как изменить размер изображения java с помощью Aspose Imaging и прочитать размер
 
 ## Введение
 
-Когда вы задаётесь вопросом **how to use Aspose** Imaging Java для работы с изображениями, это руководство покрывает все необходимые аспекты. В современном цифровом мире изображения являются основой коммуникации, маркетинга и пользовательского опыта. Независимо от того, создаёте ли вы веб‑сервис, мобильное приложение или настольный инструмент, возможность считывать размеры изображения, изменять размер, конвертировать JPEG в PNG и создавать прозрачные PNG‑файлы имеет решающее значение. **Aspose Imaging Java** упрощает эти задачи, позволяя выполнять всё от *read image size java* до *resize image java* всего несколькими строками кода.
+Когда вы задаётесь вопросом **how to use Aspose** Imaging Java для обработки изображений, это руководство покрывает все необходимые аспекты. В современном цифровом мире изображения являются основой коммуникации, маркетинга и пользовательского опыта. Независимо от того, создаёте ли вы веб‑сервис, мобильное приложение или настольный инструмент, возможность **read image dimensions**, **resize images**, **convert JPEG to PNG** и **create transparent PNGs** является важной. Aspose Imaging Java делает эти задачи простыми, позволяя вам работать со всем, от *read image size java* до *resize image java*, всего лишь несколькими строками кода.
 
 - **Быстрые ответы**
-  - **Какая библиотека обрабатывает размеры изображения в Java?** Aspose Imaging Java.
-  - **Можно ли изменять размер изображений с помощью Aspose?** Да — используйте raster API.
-  - **Как конвертировать JPEG в PNG?** Загрузите JPEG и сохраните как PNG с прозрачностью.
-  - **Доступна ли поддержка Maven?** Абсолютно — см. раздел настройки Aspose Imaging Maven.
-  - **Нужна ли лицензия для продакшна?** Действительная лицензия снимает ограничения оценки.
+  - **Какая библиотека обрабатывает размер изображения в Java?** Aspose Imaging Java.
+  - **Можно ли изменять размер изображений с помощью Aspose?** Yes – use the raster API.
+  - **Как конвертировать JPEG в PNG?** Load the JPEG and save as PNG with transparency.
+  - **Доступна ли поддержка Maven?** Absolutely – see the Aspose Imaging Maven setup section.
+  - **Нужна ли лицензия для продакшн?** A valid license removes evaluation limits.
 
-## Что означает «how to use aspose» в контексте обработки изображений?
+## Что означает “how to use aspose” в контексте обработки изображений?
 
-Aspose Imaging Java — мощная кроссплатформенная библиотека, абстрагирующая сложности форматов файлов изображений. Она позволяет разработчикам читать, редактировать и сохранять изображения без необходимости работать с низкоуровневыми байтами. Используя Aspose, вы можете сосредоточиться на бизнес‑логике — например, генерировать миниатюры, применять водяные знаки или готовить ресурсы для адаптивного дизайна — пока библиотека берёт на себя тяжёлую работу.
+Aspose Imaging Java — мощная, независимая от платформы библиотека, абстрагирующая сложности более чем 50 форматов файлов изображений. Она позволяет разработчикам читать, редактировать и сохранять изображения без низкоуровневой работы с байтами, позволяя сосредоточиться на бизнес‑логике, такой как генерация миниатюр, наложение водяных знаков или подготовка адаптивных ресурсов.
 
-## Почему стоит использовать Aspose Imaging Java для resize image java и создания прозрачных PNG?
+## Почему использовать Aspose Imaging Java для resize image java и создания прозрачных PNG?
 
-- **Поддержка множества форматов:** Работает с JPEG, PNG, BMP, GIF, TIFF и многими другими.
-- **API, ориентированное на производительность:** Памяти‑эффективные потоки и паттерн try‑with‑resources.
-- **Единая лицензия:** Одна лицензия покрывает все форматы изображений и платформы.
-- **Лёгкая интеграция:** Доступно через Maven, Gradle или прямую загрузку.
+Вы можете resize image java и генерировать прозрачные PNG в едином, экономичном по памяти конвейере. Библиотека поддерживает **50+ input and output formats**, обрабатывает документы со многими сотнями страниц без загрузки всего файла в память и предоставляет единообразную модель лицензирования на всех платформах.
 
 ## Предварительные требования
 
 - Базовые знания программирования на Java.
-- Установленный Maven **или** Gradle для управления зависимостями.
+- Установлен Maven **or** Gradle для управления зависимостями.
 - IDE, например IntelliJ IDEA или Eclipse.
-- (Опционально) Пробная или полная лицензия Aspose.
+- (Optional) Пробный или полный файл лицензии Aspose.
 
 ## Настройка Aspose.Imaging для Java
 
-### Aspose Imaging Maven Setup *(aspose imaging maven dependency)*
+### Настройка Aspose Imaging Maven *(aspose imaging maven dependency)*
 
 Добавьте следующую зависимость в ваш файл `pom.xml`:
 
@@ -72,13 +132,13 @@ Aspose Imaging Java — мощная кроссплатформенная би
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-### Прямая загрузка
+### Прямое скачивание
 
-Или скачайте последнюю версию с [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
+В качестве альтернативы скачайте последнюю версию с [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-#### Приобретение лицензии
+#### Получение лицензии
 
-Вы можете начать с бесплатной пробной версии, загрузив временную лицензию [здесь](https://purchase.aspose.com/temporary-license/). Если решение окажется полезным, рассмотрите покупку полной лицензии через [страницу покупки](https://purchase.aspose.com/buy), чтобы открыть все функции.
+Вы можете начать с бесплатной пробной версии, скачав временную лицензию со [temporary license page](https://purchase.aspose.com/temporary-license/). Если она вам понравится, рассмотрите возможность покупки полной лицензии через [purchase page](https://purchase.aspose.com/buy), чтобы открыть все функции.
 
 ## Базовая инициализация
 
@@ -97,19 +157,23 @@ license.setLicense("path/to/your/license/file.lic");
 
 ### Загрузка и отображение размеров изображения *(image dimensions java / read image size java)*
 
+**Прямой ответ:** Load the image with `Image.load("path")`, then call `getWidth()` and `getHeight()` to obtain its dimensions—this provides the read image size java capability in a single statement.
+
+Класс `Image` представляет файл изображения и предоставляет методы для доступа к его свойствам.
+
 #### Обзор
-Чтение ширины и высоты изображения — первый шаг в любой цепочке обработки. Знание размеров позволяет решить, нужно ли менять размер, обрезать или применять другие трансформации.
+Чтение ширины и высоты изображения — первый шаг в любом конвейере обработки. Знание размеров позволяет решить, изменять ли размер, обрезать или применять другие трансформации.
 
 #### Пошагово
 
-**1. Импорт необходимых классов:**
+**1. Импортировать необходимые классы:**
 
 ```java
 import com.aspose.imaging.Image;
 import com.aspose.imaging.RasterImage;
 ```
 
-**2. Загрузите изображение и получите размеры:**
+**2. Загрузить изображение и получить размеры:**
 
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
@@ -124,19 +188,23 @@ try (RasterImage raster = (RasterImage) Image.load(dataDir + "aspose-logo.jpg"))
 
 ### Загрузка пикселей из изображения
 
+**Прямой ответ:** Используйте `RasterImage` для доступа к массиву пикселей `Color[]`, позволяющему создавать пользовательские фильтры, корректировать цвета или генерировать маски без дополнительных библиотек.
+
+`RasterImage` — подкласс `Image`, предоставляющий доступ к пикселям.
+
 #### Обзор
-Доступ к необработанным пиксельным данным позволяет создавать пользовательские фильтры, корректировать цвета или генерировать маски.
+Доступ к необработанным данным пикселей позволяет создавать пользовательские фильтры, корректировать цвета или генерировать маски.
 
 #### Пошагово
 
-**1. Импорт необходимых классов:**
+**1. Импортировать необходимые классы:**
 
 ```java
 import com.aspose.imaging.Color;
 import com.aspose.imaging.Rectangle;
 ```
 
-**2. Загрузка пиксельных данных:**
+**2. Загрузить данные пикселей:**
 
 ```java
 try (RasterImage raster = (RasterImage) Image.load(dataDir + "aspose-logo.jpg")) {
@@ -146,23 +214,27 @@ try (RasterImage raster = (RasterImage) Image.load(dataDir + "aspose-logo.jpg"))
 }
 ```
 
-Теперь у вас есть массив `Color[]`, которым можно манипулировать пиксель за пикселем.
+Теперь у вас есть массив `Color[]`, который вы можете изменять пиксель за пикселем. `Color` представляет ARGB‑значение пикселя.
 
 ### Создание и сохранение PNG‑изображения с прозрачностью *(jpeg to png java)*
 
+**Прямой ответ:** Преобразуйте JPEG в прозрачный PNG, загрузив JPEG, создав новый `PngImage`, установив фон прозрачным и сохранив — это завершает преобразование *jpeg to png java* с сохранением альфа‑канала.
+
+`PngImage` представляет PNG‑изображение и поддерживает работу с альфа‑каналом.
+
 #### Обзор
-Прозрачные PNG‑файлы идеальны для наложений, иконок UI и композитинга без фоновых артефактов.
+Прозрачные PNG идеальны для наложений, иконок UI и композитинга изображений без артефактов фона.
 
 #### Пошагово
 
-**1. Импорт необходимых классов:**
+**1. Импортировать необходимые классы:**
 
 ```java
 import com.aspose.imaging.fileformats.png.PngColorType;
 import com.aspose.imaging.fileformats.png.PngImage;
 ```
 
-**2. Создание и сохранение PNG‑изображения:**
+**2. Создать и сохранить PNG‑изображение:**
 
 ```java
 try (RasterImage raster = (RasterImage) Image.load(dataDir + "aspose-logo.jpg")) {
@@ -180,75 +252,85 @@ try (RasterImage raster = (RasterImage) Image.load(dataDir + "aspose-logo.jpg"))
 }
 ```
 
-Этот пример показывает, как выполнить **jpeg to png java** конвертацию с сохранением прозрачности.
+Этот пример показывает, как выполнить преобразование **jpeg to png java** с сохранением прозрачности.
 
-### Изменение размера изображения Java с Aspose Imaging
+### Resize image java с Aspose Imaging
 
-Если необходимо изменить размеры изображения, вы можете комбинировать подход загрузки пикселей с методом `Resize`, доступным у `RasterImage`. Хотя в руководстве основной упор делается на прозрачность, тот же объект raster можно изменить размер перед сохранением, удовлетворяя требование **resize image java** без добавления дополнительных блоков кода.
+**Прямой ответ:** Вызовите `RasterImage.resize(newWidth, newHeight, ResizeMode.HighQuality)` у загруженного растрового объекта, чтобы эффективно изменить размер image java перед сохранением.
+
+`ResizeMode` enum определяет алгоритм, используемый для изменения размера, при этом `HighQuality` обеспечивает наилучшее визуальное качество.
+
+Если необходимо изменить размеры изображения, вы можете комбинировать подход загрузки пикселей с методом `Resize`, доступным в `RasterImage`. Хотя руководство сосредоточено на прозрачности, тот же растровый объект можно изменить по размеру перед сохранением, удовлетворяя требование **resize image java** без добавления дополнительных блоков кода.
 
 ## Практические применения
 
-Ниже перечислены реальные сценарии, где эти возможности проявляют себя наилучшим образом:
+Ниже приведены реальные сценарии, где эти возможности проявляют себя:
 
-1. **Веб‑разработка:** Генерация прозрачных иконок или слоистых графиков «на лету».
-2. **Мобильные приложения:** Динамическая подгонка размеров изображений под разные разрешения экранов.
-3. **Инструменты графического дизайна:** Применение пользовательских фильтров на уровне пикселей или создание масок.
-4. **Цифровой маркетинг:** Создание бренд‑соответствующих активов с точными размерами и прозрачностью для соцсетей.
-5. **Э‑коммерция:** Оптимизация фотографий товаров для ускорения загрузки страниц при сохранении визуального качества.
+1. **Web development:** Генерировать прозрачные иконки или слоистую графику на лету.
+2. **Mobile apps:** Динамически корректировать размеры изображений под разные разрешения экранов.
+3. **Graphic design tools:** Применять пользовательские пиксельные фильтры или создавать маски.
+4. **Digital marketing:** Создавать бренд‑соответствующие ресурсы с точными размерами и прозрачностью для социальных сетей.
+5. **E‑commerce:** Оптимизировать фотографии товаров для более быстрой загрузки страниц, сохраняя визуальное качество.
 
 ## Соображения по производительности
 
 При обработке большого количества изображений учитывайте следующие рекомендации:
 
-- **Управление памятью:** Используйте try‑with‑resources (как показано), чтобы объекты изображений освобождались сразу после использования.
-- **Пакетная обработка:** Обрабатывайте изображения группами, чтобы снизить нагрузку ввода‑вывода.
-- **Мониторинг ресурсов:** Отслеживайте загрузку CPU и использование кучи; при необходимости Aspose предоставляет хуки для профилирования.
+- **Memory management:** Используйте try‑with‑resources (как показано), чтобы обеспечить своевременное освобождение объектов изображений.
+- **Batch processing:** Обрабатывайте изображения пакетами, чтобы снизить нагрузку ввода‑вывода.
+- **Resource monitoring:** Отслеживайте использование CPU и кучи; Aspose предоставляет хуки профилирования при необходимости.
 
 ## Заключение
 
-Следуя этому руководству, вы узнали **how to use Aspose** Imaging Java для чтения размеров изображения, работы с пиксельными данными, изменения размера, конвертации JPEG в PNG и создания прозрачных PNG‑файлов. Эти навыки ценны для любого разработчика, работающего с графикой на Java.
+Следуя этому руководству, вы узнали **how to use Aspose** Imaging Java для чтения размеров изображений, манипулирования пиксельными данными, изменения размеров изображений, конвертации JPEG в PNG и создания прозрачных PNG‑файлов. Эти навыки ценны для любого разработчика, работающего с графикой в Java.
 
 ### Следующие шаги
 
-Изучите более продвинутые возможности, такие как обработка многокадровых TIFF, конвертация цветовых пространств или интеграция Aspose с облачными хранилищами.
+Изучите более продвинутые возможности, такие как обработка много‑кадровых TIFF, преобразование цветовых пространств или интеграция Aspose с облачными сервисами хранения.
 
 ### Призыв к действию
 
-Попробуйте реализовать обсуждённое решение в вашем следующем проекте. Делитесь опытом и возникающими трудностями на форумах или в сообществах, например в [Aspose Forum](https://forum.aspose.com/c/imaging/14).
+Попробуйте реализовать обсуждённое решение в вашем следующем проекте. Делитесь опытом и возникающими проблемами на форумах или в сообществах, таких как [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 ## Часто задаваемые вопросы
 
-**В: Можно ли использовать Aspose.Imaging для Java без лицензии?**  
-О: Да, доступна бесплатная пробная версия, но она имеет ограничения оценки.
+**Q: Можно ли использовать Aspose.Imaging для Java без лицензии?**  
+A: Да, доступна бесплатная пробная версия, но она включает ограничения оценки, такие как водяные знаки и максимум 5 обработанных изображений за сессию.
 
-**В: Как эффективно обрабатывать большие изображения?**  
-О: Используйте паттерн try‑with‑resources, показанный выше, и рассматривайте пакетную обработку изображений.
+**Q: Как эффективно работать с большими изображениями?**  
+A: Используйте шаблон try‑with‑resources, показанный выше, включите режим потоковой загрузки с `ImageLoadOptions`, чтобы избежать загрузки всего файла в память, и обрабатывайте изображения пакетами.
 
-**В: Можно ли применять пользовательские фильтры, используя пиксельные данные?**  
-О: Абсолютно. Получив массив `Color[]`, вы можете изменять значения RGBA каждого пикселя по необходимости.
+**Q: Можно ли применять пользовательские фильтры, используя данные пикселей?**  
+A: Абсолютно. После получения массива `Color[]` вы можете изменять значения RGBA каждого пикселя, а затем записать массив обратно в `RasterImage` для мгновенного эффекта.
 
-**В: Какие форматы изображений поддерживает Aspose.Imaging?**  
-О: JPEG, PNG, BMP, GIF, TIFF, PSD, ICO и многие другие.
+**Q: Какие форматы изображений поддерживает Aspose.Imaging?**  
+A: Более 50 форматов, включая JPEG, PNG, BMP, GIF, TIFF, PSD, ICO, WebP, HEIF и многие другие, с возможностью чтения и записи.
 
-**В: Как решить проблемы с отсутствием зависимостей?**  
-О: Убедитесь, что ваша конфигурация Maven или Gradle содержит правильную **aspose imaging maven dependency** нужной версии.
+**Q: Как решить ошибки отсутствующих зависимостей?**  
+A: Убедитесь, что ваша конфигурация Maven или Gradle содержит правильную версию **aspose imaging maven dependency** и что URL репозитория указывает на официальный репозиторий Aspose Maven.
 
 ## Ресурсы
 
 - **Документация:** [Aspose.Imaging for Java](https://reference.aspose.com/imaging/java/)
-- **Скачать:** [Latest Releases](https://releases.aspose.com/imaging/java/)
-- **Купить:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
+- **Скачивание:** [Latest Releases](https://releases.aspose.com/imaging/java/)
+- **Покупка:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
 - **Бесплатная проба:** [Get Started with Free Trial](https://releases.aspose.com/imaging/java/)
 - **Временная лицензия:** [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
 - **Поддержка:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
-Используя эти ресурсы, вы сможете дальше углублять свои знания и применять Aspose Imaging Java в проектах. Приятного кодинга!
+Используя эти ресурсы, вы сможете дальше улучшать свои знания и применение Aspose Imaging Java. Приятного кодирования!
 
 ---
 
-**Последнее обновление:** 2026-02-17  
+**Последнее обновление:** 2026-10-18  
 **Тестировано с:** Aspose.Imaging 25.5 for Java  
 **Автор:** Aspose
+
+## Связанные руководства
+
+- [Учебник по обработке изображений Java: JPEG в PNG с помощью Aspose.Imaging](/imaging/java/format-conversion-export/convert-jpeg-to-png-aspose-imaging-java/)
+- [Мастер загрузки изображений в Java с Aspose.Imaging: пошаговое руководство](/imaging/java/image-loading-saving/load-images-java-aspose-imaging-guide/)
+- [Мастер манипуляций изображениями в Java с Aspose.Imaging: полное руководство](/imaging/java/image-creation-drawing/master-image-manipulation-aspose-imaging-java/)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
