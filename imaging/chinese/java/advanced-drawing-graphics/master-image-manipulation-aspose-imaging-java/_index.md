@@ -1,59 +1,116 @@
 ---
-date: '2026-02-17'
-description: 学习如何使用 Aspose Imaging for Java 读取图像尺寸、调整图像大小、将 JPEG 转换为 PNG，并通过简易代码示例创建透明
-  PNG。
+date: '2026-10-18'
+description: 学习如何在 java 中调整图像大小、读取图像尺寸、将 jpeg 转换为 png，以及使用 Aspose Imaging for Java
+  创建透明 PNG，提供清晰的 step‑by‑step 示例。
 keywords:
-- image manipulation in Java
+- how to resize image java
+- convert jpeg to png java
+- read image size java
+- java image manipulation tutorial
 - Aspose.Imaging for Java
-- manipulating pixel data in Java
-- create transparent PNG with Java
-- Java graphics & drawing
-title: 如何使用 Aspose Imaging Java：调整大小与透明 PNG
+lastmod: '2026-10-18'
+og_description: 在 java 中使用 Aspose Imaging 调整图像大小、读取图像尺寸并将 jpeg 转换为 png – 为开发者提供的完整教程。
+og_image_alt: Developer guide showing Java code to resize images and create transparent
+  PNGs with Aspose Imaging
+og_title: 如何使用 Aspose Imaging 在 java 中调整图像大小
+schemas:
+- author: Aspose
+  dateModified: '2026-10-18'
+  description: Learn how to resize image java, read image size java, convert jpeg
+    to png java, and create transparent PNGs with Aspose Imaging for Java in clear
+    step‑by‑step examples.
+  headline: How to resize image java using Aspose Imaging and read size
+  type: TechArticle
+- description: Learn how to resize image java, read image size java, convert jpeg
+    to png java, and create transparent PNGs with Aspose Imaging for Java in clear
+    step‑by‑step examples.
+  name: How to resize image java using Aspose Imaging and read size
+  steps:
+  - name: '**Web development:** Generate transparent icons or layered graphics on
+      the fly.'
+    text: '**Web development:** Generate transparent icons or layered graphics on
+      the fly.'
+  - name: '**Mobile apps:** Dynamically adjust image dimensions to match different
+      screen resolutions.'
+    text: '**Mobile apps:** Dynamically adjust image dimensions to match different
+      screen resolutions.'
+  - name: '**Graphic design tools:** Apply custom pixel‑level filters or create masks.'
+    text: '**Graphic design tools:** Apply custom pixel‑level filters or create masks.'
+  - name: '**Digital marketing:** Produce brand‑consistent assets with exact dimensions
+      and transparency for social media.'
+    text: '**Digital marketing:** Produce brand‑consistent assets with exact dimensions
+      and transparency for social media.'
+  - name: '**E‑commerce:** Optimize product photos for faster page loads while preserving
+      visual quality.'
+    text: '**E‑commerce:** Optimize product photos for faster page loads while preserving
+      visual quality.'
+  type: HowTo
+- questions:
+  - answer: Yes, a free trial is available, but it includes evaluation limits such
+      as watermarks and a maximum of 5 processed images per session.
+    question: Can I use Aspose.Imaging for Java without a license?
+  - answer: Use the try‑with‑resources pattern shown above, enable streaming mode
+      with `ImageLoadOptions` to avoid loading the entire file into memory, and process
+      images in batches.
+    question: How do I handle large images efficiently?
+  - answer: Absolutely. Once you have the `Color[]` array, you can modify each pixel’s
+      RGBA values, then write the array back to the `RasterImage` for immediate effect.
+    question: Is it possible to apply custom filters using pixel data?
+  - answer: Over 50 formats including JPEG, PNG, BMP, GIF, TIFF, PSD, ICO, WebP, HEIF,
+      and many more, with both read and write capabilities.
+    question: What image formats does Aspose.Imaging support?
+  - answer: Verify that your Maven or Gradle configuration includes the correct **aspose
+      imaging maven dependency** version and that the repository URL points to the
+      official Aspose Maven repository.
+    question: How can I resolve missing dependency errors?
+  type: FAQPage
+tags:
+- image resizing java
+- Aspose.Imaging
+- Java graphics processing
+- transparent PNG
+title: 如何使用 Aspose Imaging 在 java 中调整图像大小并读取尺寸
 url: /zh/java/advanced-drawing-graphics/master-image-manipulation-aspose-imaging-java/
 weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# 如何使用 Aspose Imaging Java 进行图像尺寸与透明度处理
+
+# 如何使用 Aspose Imaging 在 Java 中调整图像大小并读取尺寸
 
 ## 介绍
 
-当你想了解 **how to use Aspose** Imaging Java 如何进行图像操作时，本指南为你提供完整帮助。在当今的数字世界，图像是沟通、营销和用户体验的基石。无论你在构建 Web 服务、移动应用还是桌面工具，能够读取图像尺寸、调整图像大小、将 JPEG 转换为 PNG、以及创建透明 PNG 都是必备技能。**Aspose Imaging Java** 让这些任务变得简洁，只需几行代码即可实现 *read image size java* 到 *resize image java* 的全部操作。
+当您想了解 **如何使用 Aspose** Imaging Java 进行图像处理时，本指南为您提供帮助。在当今的数字世界，图像是沟通、营销和用户体验的基石。无论您是在构建 Web 服务、移动应用还是桌面工具，能够 **读取图像尺寸**、**调整图像大小**、**将 JPEG 转换为 PNG**，以及 **创建透明 PNG** 都至关重要。Aspose Imaging Java 使这些任务变得简单，只需几行代码即可处理从 *read image size java* 到 *resize image java* 的全部操作。
 
-- **快速答案**
-  - **哪个库在 Java 中处理图像尺寸？** Aspose Imaging Java。
-  - **可以使用 Aspose 调整图像大小吗？** 可以 – 使用 raster API。
-  - **如何将 JPEG 转为 PNG？** 加载 JPEG 并以透明 PNG 保存。
-  - **是否提供 Maven 支持？** 当然 – 请参阅 Aspose Imaging Maven 设置章节。
-  - **生产环境需要许可证吗？** 有效许可证可移除评估限制。
+- **快速回答**
+  - **哪个库在 Java 中处理图像尺寸？** Aspose Imaging Java.
+  - **我可以使用 Aspose 调整图像大小吗？** 是的 – 使用 raster API。
+  - **如何将 JPEG 转换为 PNG？** 加载 JPEG 并以透明方式保存为 PNG。
+  - **是否提供 Maven 支持？** 当然 – 请参阅 Aspose Imaging Maven 设置部分。
+  - **生产环境需要许可证吗？** 有效许可证可消除评估限制。
 
-## “how to use aspose” 在图像处理中的含义是什么？
+## 在图像处理的上下文中，“how to use aspose” 是指什么？
 
-Aspose Imaging Java 是一个功能强大、跨平台的库，抽象了图像文件格式的复杂性。它让开发者能够读取、编辑并保存图像，而无需关心底层字节处理。使用 Aspose，你可以专注于业务逻辑——如生成缩略图、添加水印或为响应式设计准备资源——而库会处理繁重的底层工作。
+Aspose Imaging Java 是一个强大、跨平台的库，抽象了超过 50 种图像文件格式的复杂性。它让开发者能够读取、编辑和保存图像，而无需低层字节处理，使您能够专注于业务逻辑，如缩略图生成、水印或响应式资源准备。
 
-## 为什么选择 Aspose Imaging Java 来实现 resize image java 与透明 PNG 创建？
+## 为什么在 Java 中使用 Aspose Imaging 来调整图像大小并创建透明 PNG？
 
-- **跨格式支持：** 支持 JPEG、PNG、BMP、GIF、TIFF 等多种格式。
-- **面向性能的 API：** 内存高效的流和 try‑with‑resources 模式。
-- **统一授权：** 一个许可证覆盖所有图像格式和平台。
-- **易于集成：** 可通过 Maven、Gradle 或直接下载使用。
+您可以在单个内存高效的管道中调整图像大小并生成透明 PNG。该库支持 **50+ 输入和输出格式**，能够在不将整个文件加载到内存的情况下处理数百页的文档，并在所有平台上提供一致的授权模式。
 
-## 前置条件
+## 前提条件
 
-- 基本的 Java 编程知识。
+- 对 Java 编程的基本了解。
 - 已安装 Maven **或** Gradle 用于依赖管理。
-- IntelliJ IDEA 或 Eclipse 等 IDE。
+- 如 IntelliJ IDEA 或 Eclipse 的 IDE。
 - （可选）试用或正式的 Aspose 许可证文件。
 
 ## 为 Java 设置 Aspose.Imaging
 
 ### Aspose Imaging Maven 设置 *(aspose imaging maven dependency)*
 
-在 `pom.xml` 文件中添加以下依赖：
+在您的 `pom.xml` 文件中添加以下依赖：
 
 ```xml
 <dependency>
@@ -65,7 +122,7 @@ Aspose Imaging Java 是一个功能强大、跨平台的库，抽象了图像文
 
 ### 使用 Gradle 安装 Aspose.Imaging
 
-Gradle 用户请在 `build.gradle` 文件中加入此行：
+对于 Gradle 用户，请在 `build.gradle` 文件中加入以下行：
 
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
@@ -77,11 +134,11 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 
 #### 许可证获取
 
-你可以通过 [here](https://purchase.aspose.com/temporary-license/) 下载临时许可证进行免费试用。如果觉得满意，建议通过 [purchase page](https://purchase.aspose.com/buy) 购买正式许可证，以解锁全部功能。
+您可以通过从 [temporary license page](https://purchase.aspose.com/temporary-license/) 下载临时许可证来开始免费试用。如果觉得有价值，请通过 [purchase page](https://purchase.aspose.com/buy) 购买正式许可证，以解锁全部功能。
 
 ## 基本初始化
 
-安装完成后，在 Java 项目中按如下方式初始化 Aspose.Imaging：
+安装完成后，在您的 Java 项目中按如下方式初始化 Aspose.Imaging：
 
 ```java
 import com.aspose.imaging.License;
@@ -90,16 +147,20 @@ License license = new License();
 license.setLicense("path/to/your/license/file.lic");
 ```
 
-此步骤确保在使用库时不会受到评估限制。
+此步骤确保您可以在没有评估限制的情况下使用该库。
 
 ## 实现指南
 
 ### 加载并显示图像尺寸 *(image dimensions java / read image size java)*
 
-#### 概述
-读取图像的宽度和高度是任何处理流程的第一步。了解尺寸后，你可以决定是否需要调整大小、裁剪或进行其他转换。
+**直接答案：** 使用 `Image.load("path")` 加载图像，然后调用 `getWidth()` 和 `getHeight()` 获取其尺寸——这在一行代码中提供了 read image size java 的功能。
 
-#### 步骤说明
+`Image` 类表示图像文件，并提供访问其属性的方法。
+
+#### 概述
+读取图像的宽度和高度是任何处理管道的第一步。了解尺寸后，您可以决定是否进行调整大小、裁剪或其他转换。
+
+#### 步骤
 
 **1. 导入必要的类：**
 
@@ -119,14 +180,18 @@ try (RasterImage raster = (RasterImage) Image.load(dataDir + "aspose-logo.jpg"))
 }
 ```
 
-该代码片段演示了 Aspose Imaging Java 的 **read image size java** 能力。
+此代码片段演示了 Aspose Imaging Java 的 **read image size java** 功能。
 
 ### 从图像加载像素
 
-#### 概述
-访问原始像素数据可实现自定义滤镜、颜色校正或生成遮罩。
+**直接答案：** 使用 `RasterImage` 访问 `Color[]` 像素数组，从而在无需额外库的情况下实现自定义滤镜、颜色校正或掩码生成。
 
-#### 步骤说明
+`RasterImage` 是 `Image` 的子类，提供像素级访问。
+
+#### 概述
+访问原始像素数据可实现自定义滤镜、颜色校正或生成掩码。
+
+#### 步骤
 
 **1. 导入必要的类：**
 
@@ -145,14 +210,18 @@ try (RasterImage raster = (RasterImage) Image.load(dataDir + "aspose-logo.jpg"))
 }
 ```
 
-现在你拥有一个 `Color[]` 数组，可以逐像素进行操作。
+现在您拥有一个 `Color[]` 数组，可以逐像素进行操作。`Color` 表示像素的 ARGB 值。
 
 ### 创建并保存带透明度的 PNG 图像 *(jpeg to png java)*
 
-#### 概述
-透明 PNG 非常适合用于叠加、UI 图标以及在不留下背景痕迹的情况下合成图像。
+**直接答案：** 通过加载 JPEG、创建新的 `PngImage`、将背景设为透明并保存，将 JPEG 转换为透明 PNG——这完成了 jpeg to png java 的转换，同时保留了 alpha 通道。
 
-#### 步骤说明
+`PngImage` 表示 PNG 图像，并支持 alpha 通道处理。
+
+#### 概述
+透明 PNG 适用于叠加层、UI 图标以及在不产生背景伪影的情况下合成图像。
+
+#### 步骤
 
 **1. 导入必要的类：**
 
@@ -179,58 +248,62 @@ try (RasterImage raster = (RasterImage) Image.load(dataDir + "aspose-logo.jpg"))
 }
 ```
 
-此示例展示了如何在 **jpeg to png java** 转换过程中保留透明度。
+此示例展示了在保留透明度的情况下进行 **jpeg to png java** 转换的方法。
 
-### 使用 Aspose Imaging 进行 Resize Image Java
+### 使用 Aspose Imaging 调整图像大小（resize image java）
 
-如果需要更改图像尺寸，可以将像素加载方式与 `RasterImage` 上的 `Resize` 方法结合使用。虽然本教程侧重于透明度处理，但相同的 raster 对象在保存前同样可以进行尺寸调整，从而满足 **resize image java** 的需求，无需额外的代码块。
+**直接答案：** 对已加载的 raster 对象调用 `RasterImage.resize(newWidth, newHeight, ResizeMode.HighQuality)`，即可在保存前高效地调整图像大小（resize image java）。
 
-## 实际应用场景
+`ResizeMode` 枚举指定用于调整大小的算法，`HighQuality` 提供最佳视觉效果。
 
-以下是这些功能在真实项目中的典型应用：
+如果需要更改图像尺寸，您可以将像素加载方法与 `RasterImage` 上的 `Resize` 方法结合使用。虽然本教程侧重于透明度，但相同的 raster 对象在保存前也可以调整大小，从而满足 **resize image java** 的需求，而无需添加额外的代码块。
+
+## 实际应用
+
+以下是这些功能在实际场景中的应用示例：
 
 1. **Web 开发：** 动态生成透明图标或分层图形。
-2. **移动应用：** 根据不同屏幕分辨率动态调整图像尺寸。
-3. **图形设计工具：** 应用自定义像素级滤镜或创建遮罩。
-4. **数字营销：** 为社交媒体生成尺寸精准、透明度一致的品牌资产。
-5. **电子商务：** 在保证视觉质量的前提下优化商品照片以加快页面加载。
+2. **移动应用：** 动态调整图像尺寸以匹配不同的屏幕分辨率。
+3. **图形设计工具：** 应用自定义像素级滤镜或创建掩码。
+4. **数字营销：** 为社交媒体制作尺寸精确、透明度一致的品牌资产。
+5. **电子商务：** 优化产品照片以加快页面加载，同时保持视觉质量。
 
 ## 性能考虑
 
-在批量处理大量图像时，请注意以下要点：
+处理大量图像时，请牢记以下提示：
 
 - **内存管理：** 使用 try‑with‑resources（如示例所示）确保及时释放图像对象。
-- **批量处理：** 将图像分组处理以降低 I/O 开销。
-- **资源监控：** 监控 CPU 与堆内存使用；如有需要，Aspose 提供分析钩子。
+- **批处理：** 将图像分批处理以降低 I/O 开销。
+- **资源监控：** 监控 CPU 和堆内存使用；如有需要，Aspose 提供分析钩子。
 
 ## 结论
 
-通过本指南，你已经掌握了 **how to use Aspose** Imaging Java 来读取图像尺寸、操作像素数据、调整图像大小、将 JPEG 转为 PNG，以及创建透明 PNG 文件。这些技能对任何使用 Java 进行图形处理的开发者都极具价值。
+通过本指南，您已经学习了 **如何使用 Aspose** Imaging Java 来读取图像尺寸、操作像素数据、调整图像大小、将 JPEG 转换为 PNG，以及创建透明 PNG 文件。这些技能对任何在 Java 中处理图形的开发者都非常有价值。
 
-### 后续步骤
+### 下一步
 
-进一步探索多帧 TIFF 处理、颜色空间转换，或将 Aspose 与云存储服务集成等高级功能。
+探索更高级的功能，如多帧 TIFF 处理、色彩空间转换，或将 Aspose 与云存储服务集成。
 
 ### 行动号召
 
-在下一个项目中尝试实现本文讨论的方案。将你的经验和遇到的挑战分享至论坛或社区，例如 [Aspose Forum](https://forum.aspose.com/c/imaging/14)。
+尝试在下一个项目中实现今天讨论的解决方案。将您的经验和遇到的挑战分享至论坛或社区，例如 [Aspose Forum](https://forum.aspose.com/c/imaging/14)。
 
-## 常见问答
+## 常见问题
 
-**Q: 可以在没有许可证的情况下使用 Aspose.Imaging for Java 吗？**  
-A: 可以，提供免费试用版，但会有评估限制。
+**Q: 我可以在没有许可证的情况下使用 Aspose.Imaging for Java 吗？**  
+A: 是的，提供免费试用，但会有评估限制，例如水印以及每个会话最多处理 5 张图像。
 
-**Q: 如何高效处理大尺寸图像？**  
-A: 使用上文示例的 try‑with‑resources 模式，并考虑批量处理图像。
+**Q: 如何高效处理大图像？**  
+A: 使用上文示例的 try‑with‑resources 模式，使用 `ImageLoadOptions` 启用流式模式以避免将整个文件加载到内存，并批量处理图像。
 
 **Q: 能否使用像素数据应用自定义滤镜？**  
-A: 完全可以。获取 `Color[]` 数组后，你可以按需修改每个像素的 RGBA 值。
+A: 当然可以。获取 `Color[]` 数组后，您可以修改每个像素的 RGBA 值，然后将数组写回 `RasterImage`，立即生效。
 
 **Q: Aspose.Imaging 支持哪些图像格式？**  
-A: JPEG、PNG、BMP、GIF、TIFF、PSD、ICO 等众多格式。
+A: 超过 50 种格式，包括 JPEG、PNG、BMP、GIF、TIFF、PSD、ICO、WebP、HEIF 等，具备读取和写入能力。
 
-**Q: 如何解决缺少依赖的错误？**  
-A: 确认你的 Maven 或 Gradle 配置中已包含正确的 **aspose imaging maven dependency** 版本。
+**Q: 如何解决缺少依赖错误？**  
+A: 确认您的 Maven 或 Gradle 配置包含正确的 **aspose imaging maven dependency** 版本，并且仓库 URL 指向官方 Aspose Maven 仓库。
 
 ## 资源
 
@@ -241,13 +314,19 @@ A: 确认你的 Maven 或 Gradle 配置中已包含正确的 **aspose imaging ma
 - **临时许可证：** [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
 - **支持：** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
 
-通过利用这些资源，你可以进一步提升对 Aspose Imaging Java 的理解和应用。祝编码愉快！
+通过使用这些资源，您可以进一步提升对 Aspose Imaging Java 的理解和应用。祝编码愉快！
 
 ---
 
-**最后更新：** 2026-02-17  
-**测试环境：** Aspose.Imaging 25.5 for Java  
-**作者：** Aspose
+**Last Updated:** 2026-10-18  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose
+
+## 相关教程
+
+- [Java 图像处理教程：使用 Aspose.Imaging 将 JPEG 转换为 PNG](/imaging/java/format-conversion-export/convert-jpeg-to-png-aspose-imaging-java/)
+- [掌握 Java 中的图像加载：Aspose.Imaging 步骤指南](/imaging/java/image-loading-saving/load-images-java-aspose-imaging-guide/)
+- [掌握 Java 中的图像操作：Aspose.Imaging 完整指南](/imaging/java/image-creation-drawing/master-image-manipulation-aspose-imaging-java/)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
