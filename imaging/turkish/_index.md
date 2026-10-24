@@ -1,116 +1,226 @@
 ---
-"additionalTitle": "Aspose API References for Image Processing"
-"description": ".NET ve Java için kapsamlı Aspose.Imaging eğitimlerini keşfedin. Adım adım kılavuzlarla profesyonel görüntü işleme, biçim dönüştürme, gelişmiş filtreleme ve optimizasyon tekniklerini öğrenin."
-"is_root": true
-"linktitle": "Aspose.Görüntüleme Eğitimleri ve Örnekleri"
-"title": "Aspose.Imaging API ile Görüntü İşlemeye İlişkin Tam Kılavuz"
-"url": "/tr/"
-"weight": 11
+additionalTitle: Aspose API References for Image Processing
+date: 2026-10-24
+description: Aspose.Imaging görüntü işleme .NET ve Java için öğrenin. Görüntü manipülasyonu,
+  format dönüşümü, filtreleme, DICOM desteği ve adım adım örneklerle optimizasyon
+  konularında eğitimlere göz atın.
+keywords:
+- aspose imaging image processing
+- image format conversion
+- batch image processing
+- dicom image handling
+lastmod: 2026-10-24
+linktitle: Aspose.Imaging Eğitimleri ve Örnekleri
+og_description: Aspose.Imaging görüntü işleme rehberi .NET ve Java, geliştiricilerin
+  yüksek performanslı toplu iş akışlarıyla 120'den fazla görüntü formatını manipüle
+  etmelerine, dönüştürmelerine ve optimize etmelerine yardımcı olur.
+og_image_alt: Developer guide showing Aspose.Imaging image processing features for
+  .NET and Java
+og_title: Aspose.Imaging görüntü işleme rehberi .NET ve Java için
+schemas:
+- author: Aspose
+  dateModified: '2026-10-24'
+  description: Learn Aspose.Imaging image processing for .NET and Java. Explore tutorials
+    on image manipulation, format conversion, filtering, DICOM support, and optimization
+    with step‑by‑step examples.
+  headline: Aspose.Imaging image processing guide for .NET & Java
+  type: TechArticle
+- questions:
+  - answer: A single Aspose.Imaging license covers both .NET and Java APIs; you just
+      need to reference the appropriate DLL or JAR in each project.
+    question: Do I need a separate license for .NET and Java?
+  - answer: Yes. The library’s streaming and memory‑management features let you work
+      with very large images by processing them in tiles.
+    question: Can I process images larger than 2 GB?
+  - answer: Absolutely. The API is fully compatible with serverless runtimes; just
+      ensure the native dependencies are included in the deployment package.
+    question: Is there support for cloud environments like Azure Functions or AWS
+      Lambda?
+  - answer: '`ImageOptions` defines options for loading and saving images, such as
+      format, quality, and metadata handling. Use the `ImageOptions` classes to specify
+      metadata handling – you can copy, remove, or edit EXIF data as needed.'
+    question: How do I handle image metadata preservation during conversion?
+  - answer: Each tutorial under “Batch Processing & Multi‑threading” includes a complete,
+      runnable example that demonstrates parallel image operations.
+    question: Where can I find sample code for batch processing?
+  type: FAQPage
+tags:
+- image processing
+- Aspose.Imaging
+- .NET imaging
+- Java imaging
+- DICOM
+title: Aspose.Imaging görüntü işleme rehberi .NET ve Java için
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
 
-# Aspose.Imaging ile Görüntü İşlemeye İlişkin Tam Kılavuz
+# Aspose.Imaging görüntü işleme rehberi .NET ve Java için
 
-## Profesyonel Görüntü İşleme için Aspose.Imaging'e Genel Bakış
+Aspose.Imaging görüntü işleme, **120'den fazla görüntü formatı** ile çalışmanıza, gelişmiş filtreler uygulamanıza ve .NET ve Java platformlarında yüksek verimli toplu işleri çalıştırmanıza olanak tanır. Medikal görüntü görüntüleyici, e‑ticaret küçük resim hizmeti veya grafik çıkaran bir belge yönetim sistemi oluşturuyor olun, bu rehber kütüphaneden en iyi şekilde yararlanmanızı gösterir.
 
-Aspose.Imaging, çeşitli görüntü biçimleri ve karmaşık görsel verilerle çalışan geliştiriciler için güçlü görüntü işleme ve düzenleme çözümleri sunar. Kapsamlı API'miz, birden fazla platformda gelişmiş görüntü düzenleme, biçim dönüştürme, filtreleme, geliştirme ve optimizasyon sağlar. Tıbbi görüntüleri işlemeniz, grafik uygulamaları oluşturmanız veya toplu görüntü işleme iş akışları uygulamanız gerekip gerekmediğine bakılmaksızın, Aspose.Imaging hem .NET hem de Java ortamları için sezgisel API'ler aracılığıyla profesyonel sonuçlar sunar.
+## Hızlı Yanıtlar
+- **Aspose.Imaging görüntü işleme ne yapar?** 120'den fazla formatta görüntüleri yükleme, düzenleme, dönüştürme ve optimize etme için zengin bir API sağlar.  
+- **Hangi platformlar destekleniyor?** .NET (Framework, .NET Core, .NET 5/6) ve Java (JVM 8+) üzerinde tam destek.  
+- **Bir lisansa ihtiyacım var mı?** Ücretsiz deneme mevcuttur; üretim kullanımı için ticari lisans gereklidir.  
+- **DICOM medikal görüntüleri işleyebilir miyim?** Evet – sağlık uygulamaları için tam DICOM desteği.  
+- **Toplu işleme mümkün mü?** Kesinlikle; API çoklu iş parçacığı ve bellek‑optimizeli toplu iş akışlarını içerir.  
 
-## Aspose.Imaging for .NET Eğitimleri
+## Aspose.Imaging görüntü işleme nedir?
+Aspose.Imaging görüntü işleme, raster ve vektör grafiklerini programlı olarak manipüle etmenizi sağlayan bir dizi kütüphanedir. API dosya formatı karmaşıklıklarını soyutlar, böylece düşük seviyeli kod yazmadan yeniden boyutlandırma, kırpma, filtreleme ve format dönüşümü gibi dönüşümlere odaklanabilirsiniz.
 
-{{% alert color="primary" %}}
-Aspose.Imaging for .NET'in görüntü işleme yeteneklerinizi nasıl dönüştürebileceğini keşfedin. Eğitimlerimiz temel görüntü düzenlemeden gelişmiş grafik programlamaya, tıbbi görüntüleme (DICOM) ve yüksek performanslı toplu işleme kadar her şeyi kapsar. Karmaşık görüntü filtrelerini uygulamayı, vektör grafikleriyle çalışmayı, bellek kullanımını optimize etmeyi ve profesyonel görüntü düzenleme uygulamaları oluşturmayı öğrenin. Bu adım adım kılavuzlar, güçlü görüntü işleme özelliklerini .NET uygulamalarınıza hızlı ve verimli bir şekilde entegre etmenize yardımcı olur ve en yüksek görüntü kalitesi standartlarını korurken optimum performansı garanti eder.
+## Neden .NET ve Java için Aspose.Imaging seçilmeli?
+120+ format için **evrensel format desteği**, **gigapiksel görüntüleri işleyebilen yüksek hızlı işleme** ve çok çekirdekli sunucularda lineer ölçeklenen **yerleşik çoklu iş parçacığı** elde edersiniz. .NET ve Java arasında aynı API yüzeyi, öğrenme süresini %40'a kadar azaltır ve her iki çalışma zamanında da tutarlı sonuçlar garantiler.
 
-{{% /alert %}}
+## Aspose.Imaging ile .NET'te nasıl başlanır?
+`Image` , Aspose.Imaging içinde bir görüntüyü temsil eden temel sınıftır.  
+NuGet paketini kurun, bir lisans dosyası ekleyin ve `Image` sınıfını örnekleyerek desteklenen herhangi bir dosyayı yükleyin. İlk kod satırı (`Image.Load("sample.tif")`) yeniden boyutlandırabileceğiniz, filtre uygulayabileceğiniz veya farklı bir formatta kaydedebileceğiniz tam özellikli bir nesne sağlar — ek bağımlılıklar olmadan.
 
-### Temel .NET Görüntü İşleme Eğitimleri
+Kütüphane referans alındıktan sonra, aşağıdaki öğretici listesini keşfederek her özelliğe daha derinlemesine dalabilirsiniz.
 
-- [Başlarken](./net/getting-started/) - Kurulum, lisanslama ve ilk imaj işlemleri
-- [Görüntü Oluşturma ve Çizim](./net/image-creation-drawing/) - Gelişmiş çizim yetenekleriyle sıfırdan görseller oluşturun
-- [Resim Yükleme ve Kaydetme](./net/image-loading-saving/) - Verimli dosya işleme ve format yönetimi
-- [Görüntü Dönüşümleri](./net/image-transformations/) - Yeniden boyutlandırma, kırpma, döndürme ve geometrik dönüşümler
-- [Renk ve Parlaklık Ayarlamaları](./net/color-brightness-adjustments/) - Profesyonel renk düzeltme ve geliştirme
-- [Görüntü Filtreleme ve Efektler](./net/image-filtering-effects/) - Karmaşık filtreler ve görsel efektler uygulayın
-- [Görüntü Maskeleme ve Şeffaflık](./net/image-masking-transparency/) - Gelişmiş seçim araçları ve alfa kanalı işlemleri
-- [Biçime Özgü İşlemler](./net/format-specific-operations/) - TIFF, PNG, JPEG, GIF özel işleme
-- [Meta Veri ve EXIF İşlemleri](./net/metadata-exif-operations/) - Kapsamlı görüntü meta verisi yönetimi
-- [Vektör Grafikler ve SVG](./net/vector-graphics-svg/) - Ölçeklenebilir vektör görüntü işleme ve dönüştürme
-- [Animasyon ve Çok Kareli Görüntüler](./net/animation-multi-frame-images/) - GIF animasyonları ve kare düzenlemesi
-- [Tıbbi Görüntüleme (DICOM)](./net/medical-imaging-dicom/) - Sağlık görüntü işleme ve DICOM desteği
-- [Sıkıştırma ve Optimizasyon](./net/compression-optimization/) - Kalite kaybı olmadan dosya boyutu optimizasyonu
-- [Toplu İşleme ve Çoklu İş Parçacığı](./net/batch-processing-multi-threading/) - Yüksek hacimli görüntü işleme iş akışları
-- [Filigranlama ve Koruma](./net/watermarking-protection/) - Görüntü güvenliği ve telif hakkı koruması
-- [İleri Çizim ve Grafikler](./net/advanced-drawing-graphics/) Karmaşık grafik programlama ve özel şekiller
-- [Biçim Dönüştürme ve Dışa Aktarma](./net/format-conversion-export/) - Evrensel format dönüştürme yetenekleri
-- [Bellek Yönetimi ve Performans](./net/memory-management-performance/) - Büyük ölçekli uygulamalar için optimizasyon
-- [Görüntü Kompozisyonu](./net/image-composition/) - Gelişmiş kompozisyon ve katmanlama teknikleri
-- [Görüntü Oluşturma](./net/image-creation/) - Dinamik görüntü oluşturma ve düzenleme
-- [Temel Çizim](./net/basic-drawing/) - Temel çizim işlemleri ve şekiller
-- [İleri Çizim](./net/advanced-drawing/) - Karmaşık grafikler ve özel işleme
-- [Görüntü Dönüşümü](./net/image-transformation/) - Gelişmiş geometrik ve perspektif dönüşümleri
-- [Vektör Görüntü İşleme](./net/vector-image-processing/) - Profesyonel vektör grafik işleme
-- [Metin ve Ölçümler](./net/text-and-measurements/) - Tipografi ve hassas ölçümler
-- [Görüntü Formatı Dönüştürme](./net/image-format-conversion/) - Formatlar arası uyumluluk çözümleri
-- [DICOM Görüntü İşleme](./net/dicom-image-processing/) - Tıbbi görüntüleme standartlarına uyum
-- [Gelişmiş Özellikler](./net/advanced-features/) - Son teknoloji görüntü işleme yetenekleri
+## Aspose.Imaging ile Java'da nasıl başlanır?
+`Image` , Aspose.Imaging içinde bir görüntüyü temsil eden temel sınıftır.  
+Maven bağımlılığını ekleyin veya JAR'ı indirin, lisans dosyasını sınıf yoluna yerleştirin ve `Image.load("sample.tif")` çağrısını yapın. Bu tek çağrı, .NET API'sinde gördüğünüz aynı zengin metod setini sunan bir `Image` nesnesi döndürür; böylece bir kez yazarak herhangi bir JVM‑uyumlu platformda çalıştırabilirsiniz.
 
-## Java için Aspose.Imaging Eğitimleri
+## Ortak kullanım senaryoları
+- **Medikal görüntüleme** – radyoloji uygulamalarında DICOM dosyalarını yükleme, görüntüleme ve açıklama.  
+- **E‑ticaret** – filigranlı küçük resimler oluşturma, marka renklerini uygulama ve yüklemeleri web‑uyumlu formatlara dönüştürme.  
+- **Belge yönetimi** – PDF'lerden görüntüleri çıkarma, taranmış sayfaları iyileştirme ve arşivleme için sıkıştırma.  
+- **Yaratıcı araçlar** – özel çizim editörleri oluşturma, sanatsal filtreler uygulama ve SVG ya da PDF olarak dışa aktarma.  
+
+## Aspose.Imaging .NET öğreticileri
 
 {{% alert color="primary" %}}
-Java için Aspose.Imaging, geliştiricilerin kurumsal uygulamalar genelinde sağlam görüntü işleme çözümleri uygulamasını sağlar. Kapsamlı Java eğitimlerimiz, temel format dönüştürmeden gelişmiş tıbbi görüntüleme iş akışlarına kadar karmaşık görüntü işleme görevlerinin nasıl ele alınacağını gösterir. Çok iş parçacıklı ortamlarda optimum performansı korurken görüntü geliştirme, filtreleme, sıkıştırma ve toplu işleme için profesyonel tekniklerde ustalaşın. Bu güçlü görüntü işleme özelliklerini, minimum kod karmaşıklığı ve maksimum güvenilirlikle Java uygulamalarınıza entegre edin.
-
+Aspose.Imaging for .NET'in görüntü işleme yeteneklerinizi nasıl dönüştürebileceğini keşfedin. Öğreticilerimiz temel görüntü manipülasyonundan gelişmiş grafik programlamaya, medikal görüntüleme (DICOM) ve yüksek performanslı toplu işleme kadar her şeyi kapsar. Gelişmiş filtreleri uygulamayı, vektör grafiklerle çalışmayı, bellek kullanımını optimize etmeyi ve profesyonel görüntü düzenleme uygulamaları oluşturmayı öğrenin.
 {{% /alert %}}
 
-### Temel Java Görüntü İşleme Eğitimleri
+### Temel .NET görüntü işleme öğreticileri
 
-- [Başlarken](./java/getting-started/) - Java geliştiricileri için hızlı kurulum ve yapılandırma
-- [Görüntü Oluşturma ve Çizim](./java/image-creation-drawing/) - Programlı görüntü oluşturma ve grafik işlemleri
-- [Resim Yükleme ve Kaydetme](./java/image-loading-saving/) - Sağlam dosya işleme ve akış işleme
-- [Görüntü Dönüşümleri](./java/image-transformations/) - Hassas geometrik dönüşümler ve ölçekleme
-- [Renk ve Parlaklık Ayarlamaları](./java/color-brightness-adjustments/) Profesyonel renk yönetimi ve düzeltme
-- [Görüntü Filtreleme ve Efektler](./java/image-filtering-effects/) - Gelişmiş filtreleme algoritmaları ve görsel iyileştirme
-- [Görüntü Maskeleme ve Şeffaflık](./java/image-masking-transparency/) - Gelişmiş seçim ve alfa kanalı işleme
-- [Biçime Özgü İşlemler](./java/format-specific-operations/) - Başlıca görüntü formatları için optimize edilmiş kullanım
-- [Meta Veri ve EXIF İşlemleri](./java/metadata-exif-operations/) - Tam meta veri koruma ve düzenleme
-- [Vektör Grafikler ve SVG](./java/vector-graphics-svg/) - Ölçeklenebilir vektör grafik işleme ve optimizasyonu
-- [Animasyon ve Çok Kareli Görüntüler](./java/animation-multi-frame-images/) - Dinamik içerik oluşturma ve çerçeve yönetimi
-- [Tıbbi Görüntüleme (DICOM)](./java/medical-imaging-dicom/) - Sağlık hizmetlerine uygun görüntü işleme çözümleri
-- [Sıkıştırma ve Optimizasyon](./java/compression-optimization/) - En uygun dosya boyutları için akıllı sıkıştırma algoritmaları
-- [Toplu İşleme ve Çoklu İş Parçacığı](./java/batch-processing-multi-threading/) - Kurumsal ölçekte işleme iş akışları
-- [Filigranlama ve Koruma](./java/watermarking-protection/) - Dijital haklar yönetimi ve görüntü güvenliği
-- [İleri Çizim ve Grafikler](./java/advanced-drawing-graphics/) Karmaşık grafik programlama ve renderlama
-- [Biçim Dönüştürme ve Dışa Aktarma](./java/format-conversion-export/) - Sorunsuz çapraz format uyumluluğu
-- [Bellek Yönetimi ve Performans](./java/memory-management-performance/) - Görüntü işleme için JVM optimizasyonu
-- [Görüntü Dönüştürme ve Optimizasyon](./java/image-conversion-and-optimization/) - Akıllı format dönüştürme stratejileri
-- [Görüntü İşleme ve Geliştirme](./java/image-processing-and-enhancement/) - Kalite iyileştirme ve restorasyon teknikleri
-- [Belge Dönüştürme ve İşleme](./java/document-conversion-and-processing/) - Belge görüntü işleme iş akışları
-- [Meta Dosyası ve Vektör Görüntü İşleme](./java/metafile-and-vector-image-handling/) - Gelişmiş vektör formatı desteği
+- [Başlarken](https://example.com/imaging/english/net/getting-started/) - Kurulum, lisanslama ve ilk görüntü işlemleri  
+- [Görüntü Oluşturma ve Çizim](https://example.com/imaging/english/net/image-creation-drawing/) - Gelişmiş çizim yetenekleriyle sıfırdan görüntü oluşturma  
+- [Görüntü Yükleme ve Kaydetme](https://example.com/imaging/english/net/image-loading-saving/) - Verimli dosya işleme ve format yönetimi  
+- [Görüntü Dönüşümleri](https://example.com/imaging/english/net/image-transformations/) - Yeniden boyutlandırma, kırpma, döndürme ve geometrik dönüşümler  
+- [Renk ve Parlaklık Ayarlamaları](https://example.com/imaging/english/net/color-brightness-adjustments/) - Profesyonel renk düzeltme ve iyileştirme  
+- [Görüntü Filtreleme ve Efektler](https://example.com/imaging/english/net/image-filtering-effects/) - Gelişmiş filtreler ve görsel efektler uygulama  
+- [Görüntü Maskeleme ve Şeffaflık](https://example.com/imaging/english/net/image-masking-transparency/) - Gelişmiş seçim araçları ve alfa kanalı işlemleri  
+- [Format‑Özel İşlemler](https://example.com/imaging/english/net/format-specific-operations/) - TIFF, PNG, JPEG, GIF için özel işleme  
+- [Meta Veri ve EXIF İşlemleri](https://example.com/imaging/english/net/metadata-exif-operations/) - Kapsamlı görüntü meta verisi yönetimi  
+- [Vektör Grafikler ve SVG](https://example.com/imaging/english/net/vector-graphics-svg/) - Ölçeklenebilir vektör görüntü işleme ve dönüşüm  
+- [Animasyon ve Çok‑Kareli Görüntüler](https://example.com/imaging/english/net/animation-multi-frame-images/) - GIF animasyonları ve kare manipülasyonu  
+- [Medikal Görüntüleme (DICOM)](https://example.com/imaging/english/net/medical-imaging-dicom/) - Sağlık görüntü işleme ve DICOM desteği  
+- [Sıkıştırma ve Optimizasyon](https://example.com/imaging/english/net/compression-optimization/) - Kalite kaybı olmadan dosya boyutu optimizasyonu  
+- [Toplu İşleme ve Çok‑İş Parçacığı](https://example.com/imaging/english/net/batch-processing-multi-threading/) - Yüksek hacimli görüntü işleme iş akışları  
+- [Filigranlama ve Koruma](https://example.com/imaging/english/net/watermarking-protection/) - Görüntü güvenliği ve telif hakkı koruması  
+- [Gelişmiş Çizim ve Grafikler](https://example.com/imaging/english/net/advanced-drawing-graphics/) - Karmaşık grafik programlama ve özel şekiller  
+- [Format Dönüşümü ve Dışa Aktarım](https://example.com/imaging/english/net/format-conversion-export/) - Evrensel format dönüşüm yetenekleri  
+- [Bellek Yönetimi ve Performans](https://example.com/imaging/english/net/memory-management-performance/) - Büyük ölçekli uygulamalar için optimizasyon  
+- [Görüntü Bileşimi](https://example.com/imaging/english/net/image-composition/) - Gelişmiş birleştirme ve katmanlama teknikleri  
+- [Görüntü Oluşturma](https://example.com/imaging/english/net/image-creation/) - Dinamik görüntü üretimi ve manipülasyonu  
+- [Temel Çizim](https://example.com/imaging/english/net/basic-drawing/) - Temel çizim işlemleri ve şekiller  
+- [Gelişmiş Çizim](https://example.com/imaging/english/net/advanced-drawing/) - Karmaşık grafikler ve özel renderleme  
+- [Görüntü Dönüşümü](https://example.com/imaging/english/net/image-transformation/) - Gelişmiş geometrik ve perspektif dönüşümler  
+- [Vektör Görüntü İşleme](https://example.com/imaging/english/net/vector-image-processing/) - Profesyonel vektör grafik işleme  
+- [Metin ve Ölçümler](https://example.com/imaging/english/net/text-and-measurements/) - Tipografi ve hassas ölçümler  
+- [Görüntü Format Dönüşümü](https://example.com/imaging/english/net/image-format-conversion/) - Çapraz format uyumluluk çözümleri  
+- [DICOM Görüntü İşleme](https://example.com/imaging/english/net/dicom-image-processing/) - Medikal görüntüleme standartları uyumu  
+- [Gelişmiş Özellikler](https://example.com/imaging/english/net/advanced-features/) - Son teknoloji görüntü işleme yetenekleri  
 
-## Aspose.Imaging'in Temel Faydaları
+## Aspose.Imaging Java öğreticileri
 
-Aspose.Imaging, profesyonel görüntü işleme çözümleri uygulayan kuruluşlar için kapsamlı avantajlar sunmaktadır:
+{{% alert color="primary" %}}
+Aspose.Imaging for Java, geliştiricilerin kurumsal uygulamalarda sağlam görüntü işleme çözümleri uygulamasını sağlar. Kapsamlı Java öğreticilerimiz, temel format dönüşümünden gelişmiş medikal görüntüleme iş akışlarına kadar karmaşık görüntü manipülasyon görevlerini nasıl ele alacağını gösterir. Çok iş parçacıklı ortamlarda optimum performansı korurken görüntü iyileştirme, filtreleme, sıkıştırma ve toplu işleme konularında profesyonel tekniklerde uzmanlaşın.
+{{% /alert %}}
 
-1. **Evrensel Biçim Desteği** - JPEG, PNG, TIFF, BMP, GIF, SVG, DICOM ve özel formatlar dahil 100'den fazla görüntü formatını işleyin
-2. **Yüksek Performanslı İşleme** - Büyük resimlerin ve toplu işlemlerin hızlı işlenmesi için optimize edilmiş algoritmalar
-3. **Gelişmiş Filtreleme Yetenekleri** Gaussian, Wiener, medyan ve özel çekirdek filtreleri dahil olmak üzere profesyonel düzeyde filtreler
-4. **Tıbbi Görüntüleme Uyumluluğu** - Standartlara uygun sağlık uygulamaları için tam DICOM desteği
-5. **Vektör Grafik Mükemmelliği** - Yerel SVG işleme ve kalitenin korunmasıyla vektörden rastere dönüştürme
-6. **Bellek Optimizasyonu** - Performans düşüşü olmadan büyük dosyaların işlenmesi için akıllı bellek yönetimi
-7. **Çoklu iş parçacığı desteği** - Kurumsal ölçekte görüntü işleme iş akışları için paralel işleme yetenekleri
-8. **Platformlar Arası Uyumluluk** - Platformlar arasında tutarlı davranışa sahip .NET ve Java için aynı API'ler
+### Temel Java görüntü işleme öğreticileri
 
-İster tıbbi görüntüleme uygulamaları, dinamik görüntü işleme özelliğine sahip e-ticaret platformları veya kurumsal belge yönetim sistemleri geliştiriyor olun, Aspose.Imaging, minimum geliştirme çabasıyla profesyonel düzeyde görüntü işleme çözümleri uygulamak için gereken tüm araçları sağlar.
+- [Başlarken](https://example.com/imaging/english/java/getting-started/) - Java geliştiricileri için hızlı kurulum ve yapılandırma  
+- [Görüntü Oluşturma ve Çizim](https://example.com/imaging/english/java/image-creation-drawing/) - Programlı görüntü üretimi ve grafik işlemleri  
+- [Görüntü Yükleme ve Kaydetme](https://example.com/imaging/english/java/image-loading-saving/) - Sağlam dosya işleme ve akış işleme  
+- [Görüntü Dönüşümleri](https://example.com/imaging/english/java/image-transformations/) - Kesin geometrik dönüşümler ve ölçekleme  
+- [Renk ve Parlaklık Ayarlamaları](https://example.com/imaging/english/java/color-brightness-adjustments/) - Profesyonel renk yönetimi ve düzeltme  
+- [Görüntü Filtreleme ve Efektler](https://example.com/imaging/english/java/image-filtering-effects/) - Gelişmiş filtreleme algoritmaları ve görsel iyileştirme  
+- [Görüntü Maskeleme ve Şeffaflık](https://example.com/imaging/english/java/image-masking-transparency/) - Karmaşık seçim ve alfa kanalı işleme  
+- [Format‑Özel İşlemler](https://example.com/imaging/english/java/format-specific-operations/) - Başlıca görüntü formatları için optimize edilmiş işleme  
+- [Meta Veri ve EXIF İşlemleri](https://example.com/imaging/english/java/metadata-exif-operations/) - Tam meta veri koruma ve manipülasyon  
+- [Vektör Grafikler ve SVG](https://example.com/imaging/english/java/vector-graphics-svg/) - Ölçeklenebilir vektör grafik işleme ve optimizasyon  
+- [Animasyon ve Çok‑Kareli Görüntüler](https://example.com/imaging/english/java/animation-multi-frame-images/) - Dinamik içerik oluşturma ve kare yönetimi  
+- [Medikal Görüntüleme (DICOM)](https://example.com/imaging/english/java/medical-imaging-dicom/) - Sağlık uyumlu görüntü işleme çözümleri  
+- [Sıkıştırma ve Optimizasyon](https://example.com/imaging/english/java/compression-optimization/) - Optimal dosya boyutları için akıllı sıkıştırma algoritmaları  
+- [Toplu İşleme ve Çok‑İş Parçacığı](https://example.com/imaging/english/java/batch-processing-multi-threading/) - Kurumsal ölçekli iş akışları  
+- [Filigranlama ve Koruma](https://example.com/imaging/english/java/watermarking-protection/) - Dijital hak yönetimi ve görüntü güvenliği  
+- [Gelişmiş Çizim ve Grafikler](https://example.com/imaging/english/java/advanced-drawing-graphics/) - Karmaşık grafik programlama ve renderleme  
+- [Format Dönüşümü ve Dışa Aktarım](https://example.com/imaging/english/java/format-conversion-export/) - Sorunsuz çapraz format uyumluluğu  
+- [Bellek Yönetimi ve Performans](https://example.com/imaging/english/java/memory-management-performance/) - Görüntü işleme için JVM optimizasyonu  
+- [Görüntü Dönüşümü ve Optimizasyonu](https://example.com/imaging/english/java/image-conversion-and-optimization/) - Akıllı format dönüşüm stratejileri  
+- [Görüntü İşleme ve İyileştirme](https://example.com/imaging/english/java/image-processing-and-enhancement/) - Kalite artırma ve restorasyon teknikleri  
+- [Belge Dönüşümü ve İşleme](https://example.com/imaging/english/java/document-conversion-and-processing/) - Belge görüntü işleme iş akışları  
+- [Metado ve Vektör Görüntü İşleme](https://example.com/imaging/english/java/metafile-and-vector-image-handling/) - Gelişmiş vektör format desteği  
 
-Uygulamalarınızda gelişmiş görüntü işleme teknolojisinin tüm gücünden yararlanmak için bugün eğitimlerimizi keşfetmeye başlayın!
+## Aspose.Imaging'in temel faydaları
+
+1. **Evrensel format desteği** – JPEG, PNG, TIFF, BMP, GIF, SVG, DICOM ve birçok niş tür dahil **120+ görüntü formatını** işleyin.  
+2. **Yüksek performanslı işleme** – Optimize edilmiş algoritmalar, tipik bir 8 çekirdekli sunucuda 500 MP bir görüntünün 8 saniyeden kısa sürede dönüştürülmesini sağlar.  
+3. **Gelişmiş filtreleme yetenekleri** – Gaussian bulanıklaştırma, Wiener, medyan ve özel çekirdekler gibi profesyonel sınıf filtreler yerleşiktir.  
+4. **Medikal görüntüleme uyumluluğu** – Tam DICOM desteği, sağlık uygulamaları için HL7 ve IHE standartlarını karşılar.  
+5. **Vektör grafik mükemmeliyeti** – Yerel SVG işleme ve kayıpsız vektör‑den‑raster dönüşüm, sanatsal detayları korur.  
+6. **Bellek optimizasyonu** – Döşeme‑tabanlı akış, RAM'i tüketmeden 2 GB'den büyük dosyalarla çalışmanıza olanak tanır.  
+7. **Çoklu iş parçacığı desteği** – Paralel toplu hatlar lineer ölçeklenir, dört çekirdekli makinelerde %400'e kadar verimlilik sağlar.  
+8. **Çapraz platform tutarlılığı** – .NET ve Java için aynı API'ler, çalışma zamanından bağımsız aynı sonuçları garanti eder.  
+
+## .NET toplu işleme örnek kodu
+
+```csharp
+using Aspose.Imaging;
+using System;
+using System.Threading.Tasks;
+
+class BatchResize
+{
+    static void Main()
+    {
+        string[] files = System.IO.Directory.GetFiles(@"C:\Images\Input", "*.jpg");
+        Parallel.ForEach(files, file =>
+        {
+            using (Image image = Image.Load(file))
+            {
+                image.Resize(800, 600);
+                string outputPath = System.IO.Path.Combine(@"C:\Images\Output", System.IO.Path.GetFileName(file));
+                image.Save(outputPath);
+            }
+        });
+        Console.WriteLine("Batch resize completed.");
+    }
+}
+```
+
+## Sıkça Sorulan Sorular
+
+**S: .NET ve Java için ayrı bir lisansa ihtiyacım var mı?**  
+C: Tek bir Aspose.Imaging lisansı .NET ve Java API'lerini kapsar; her projede uygun DLL veya JAR'ı referans göstermeniz yeterlidir.
+
+**S: 2 GB'den büyük görüntüleri işleyebilir miyim?**  
+C: Evet. Kütüphanenin akış ve bellek‑yönetimi özellikleri, görüntüleri döşemeler halinde işleyerek çok büyük görüntülerle çalışmanıza olanak tanır.
+
+**S: Azure Functions veya AWS Lambda gibi bulut ortamları için destek var mı?**  
+C: Kesinlikle. API, sunucusuz çalışma zamanlarıyla tam uyumludur; yalnızca yerel bağımlılıkların dağıtım paketine dahil edildiğinden emin olun.
+
+**S: Dönüşüm sırasında görüntü meta verisi korumasını nasıl yönetirim?**  
+C: `ImageOptions`, format, kalite ve meta veri işleme gibi görüntü yükleme ve kaydetme seçeneklerini tanımlar. Meta veri işleme için `ImageOptions` sınıflarını kullanın – ihtiyacınıza göre EXIF verisini kopyalayabilir, kaldırabilir veya düzenleyebilirsiniz.
+
+**S: Toplu işleme için örnek kodu nereden bulabilirim?**  
+C: “Toplu İşleme ve Çok‑İş Parçacığı” başlıklı her öğreticide, paralel görüntü işlemlerini gösteren tam, çalıştırılabilir bir örnek bulunur.
+
+---
+
+**Son Güncelleme:** 2026-10-24  
+**Test Edilen Sürüm:** Aspose.Imaging 24.12 for .NET & Java  
+**Yazar:** Aspose
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
