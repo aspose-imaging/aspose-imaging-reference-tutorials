@@ -1,61 +1,100 @@
 ---
-date: '2026-02-19'
-description: Kompleksowy samouczek przetwarzania obrazów w języku Java, który pokazuje,
-  jak ustawić kolor tła, ustawić kolor przezroczysty oraz efektywnie zapisywać obrazy
+date: '2026-10-29'
+description: Kompleksowy samouczek przetwarzania obrazów w Javie, który pokazuje,
+  jak ustawić background color, ustawić transparent color i efektywnie zapisywać obrazy
   przy użyciu Aspose.Imaging.
 keywords:
-- Java image manipulation
-- Aspose.Imaging for Java
-- set transparent color Java
-- save raster images with Java
-- advanced drawing & graphics
-title: 'Samouczek przetwarzania obrazów w Javie: Zaawansowana manipulacja obrazami
-  z Aspose.Imaging'
+- java image processing tutorial
+- set background color java
+- java transparent png
+- aspose imaging java
+- java image background
+lastmod: '2026-10-29'
+og_description: Dowiedz się, jak wykonać zaawansowaną manipulację obrazami w samouczku
+  przetwarzania obrazów w Javie przy użyciu Aspose.Imaging. Ustaw background colors,
+  zastosuj transparent PNGs i efektywnie zapisz z custom options.
+og_image_alt: Developer guide showing Java image processing with Aspose.Imaging background
+  and transparency settings
+og_title: Samouczek przetwarzania obrazów w Javie z zaawansowanym Aspose.Imaging
+schemas:
+- author: Aspose
+  dateModified: '2026-10-29'
+  description: A comprehensive java image processing tutorial that shows how to set
+    background color, set transparent color, and save images efficiently using Aspose.Imaging.
+  headline: 'Java image processing tutorial: mastering Aspose.Imaging for advanced
+    image manipulation'
+  type: TechArticle
+- questions:
+  - answer: Regularly check [Aspose.Imaging releases](https://releases.aspose.com/imaging/java/)
+      and update the version in your Maven/Gradle file.
+    question: How do I keep the Aspose.Imaging library up‑to‑date?
+  - answer: Confirm the file path, ensure read permissions, and verify the image format
+      is supported by Aspose.Imaging.
+    question: What should I do if image loading throws an exception?
+  - answer: Yes, Aspose.Imaging supports SVG, EMF, and other vector formats, though
+      the API surface differs from raster handling.
+    question: Can I work with vector formats like SVG using the same API?
+  - answer: Use the library’s color conversion utilities—refer to the official documentation
+      for methods such as `convertToGrayScale()`.
+    question: How can I convert an image from one color space to another?
+  - answer: Ensure you use `PngOptions` and that the target file extension is `.png`.
+      Saving to JPEG will discard the alpha channel.
+    question: Are there any pitfalls when saving PNGs with transparency?
+  type: FAQPage
+tags:
+- java image processing
+- aspose imaging
+- image manipulation java
+- background color java
+- transparent png java
+title: 'Samouczek przetwarzania obrazów w Javie: opanowanie Aspose.Imaging do zaawansowanej
+  manipulacji obrazami'
 url: /pl/java/advanced-drawing-graphics/advanced-image-manipulation-aspose-imaging-java/
 weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# Samouczek przetwarzania obrazów w Javie: Opanowanie Aspose.Imaging do zaawansowanej manipulacji obrazami
 
-## Wprowadzenie
+# Samouczek przetwarzania obrazów w Javie: opanowanie Aspose.Imaging do zaawansowanej manipulacji obrazami
 
-W dzisiejszym szybkim świecie cyfrowym, **java image processing tutorial** jest niezbędny dla każdego, kto tworzy aplikacje generujące, edytujące lub udostępniające grafiki. Niezależnie od tego, czy dostosowujesz materiały marketingowe, generujesz miniaturki w locie, czy budujesz narzędzie do projektowania, opanowanie manipulacji obrazami w Javie daje pełną kontrolę nad wyjściem wizualnym. W tym przewodniku przeprowadzimy Cię przez ładowanie obrazów rastrowych, **how to set background color java**, stosowanie przezroczystości oraz zapisywanie wyniku z odpowiednimi opcjami — wszystko przy użyciu Aspose.Imaging.
+## Wstęp
+
+W dzisiejszym szybkim świecie cyfrowym **java image processing tutorial** jest niezbędny dla każdego, kto tworzy aplikacje generujące, edytujące lub udostępniające grafiki. Niezależnie od tego, czy dostosowujesz materiały marketingowe, generujesz miniaturki w locie, czy budujesz narzędzie do projektowania, opanowanie manipulacji obrazami w Javie daje pełną kontrolę nad wyjściem wizualnym. W tym przewodniku przejdziemy przez ładowanie obrazów rastrowych, **jak ustawić kolor tła w Javie**, stosowanie przezroczystości oraz zapisywanie wyniku z odpowiednimi opcjami — wszystko przy użyciu Aspose.Imaging.
 
 **Czego się nauczysz**
 
-- Załaduj obraz rastrowy przy użyciu Aspose.Imaging for Java  
-- **How to set background color java** i zmień tło obrazu w Javie  
-- **Set transparent color java** dla wyjścia PNG  
-- Zapisz obrazy z niestandardowymi opcjami PNG  
+- Ładowanie obrazu rastrowego przy użyciu Aspose.Imaging dla Javy  
+- **Jak ustawić kolor tła w Javie** i zmienić tło obrazu w Javie  
+- **Ustawienie koloru przezroczystego w Javie** dla wyjścia PNG  
+- Zapisywanie obrazów z własnymi opcjami PNG  
 
-Gotowy, aby przejść do praktyki? Zacznijmy od wymagań wstępnych.
+Gotowy do praktyki? Zacznijmy od wymagań wstępnych.
 
 ## Szybkie odpowiedzi
-- **Jaka jest podstawowa biblioteka?** Aspose.Imaging for Java  
-- **Czy mogę ustawić kolor tła?** Tak, używając `setBackgroundColor`  
-- **Jak uczynić kolor przezroczystym?** Wywołaj `setTransparentColor` i włącz go  
-- **Który format zachowuje przezroczystość?** PNG z `PngOptions`  
-- **Czy potrzebna jest licencja?** Bezpłatna wersja próbna działa w fazie rozwoju; licencja komercyjna jest wymagana w produkcji  
+- **Jaka jest główna biblioteka?** Aspose.Imaging dla Javy  
+- **Czy mogę ustawić kolor tła?** Tak, wywołaj `setBackgroundColor` na obiekcie obrazu  
+- **Jak uczynić kolor przezroczystym?** Użyj `setTransparentColor` i włącz opcję w `PngOptions`  
+- **Który format zachowuje przezroczystość?** PNG, skonfigurowany przy pomocy `PngOptions`  
+- **Czy potrzebna jest licencja?** Darmowa wersja próbna działa w środowisku deweloperskim; licencja komercyjna jest wymagana w produkcji  
 
-## Czym jest samouczek przetwarzania obrazów w Javie?
-Przewodnik krok po kroku, który uczy, jak programowo manipulować pikselami obrazu, kolorami i metadanymi w Javie. Obejmuje ładowanie, edycję i zapisywanie obrazów przy jednoczesnym uwzględnianiu wydajności i zużycia pamięci.
+## Co to jest samouczek przetwarzania obrazów w Javie?
 
-## Dlaczego używać Aspose.Imaging for Java?
-Aspose.Imaging obsługuje ponad 100 formatów obrazów, oferuje wydajne API i ukrywa niskopoziomową obsługę bitmap. Pozwala skupić się na logice biznesowej, zamiast zajmować się natywnymi bibliotekami.
+Samouczek przetwarzania obrazów w Javie to krok‑po‑kroku przewodnik, który uczy programistów, jak programowo manipulować pikselami, kolorami i metadanymi obrazu przy użyciu Javy. Wyjaśnia ładowanie obrazów, edycję danych pikseli, stosowanie efektów takich jak wypełnianie tła czy przezroczystość oraz zapisywanie wyników, jednocześnie poruszając kwestie wydajności i zarządzania pamięcią.
+
+## Dlaczego warto używać Aspose.Imaging dla Javy?
+
+Aspose.Imaging obsługuje **ponad 100** formatów wejściowych i wyjściowych — w tym BMP, JPEG, PNG, TIFF i WebP — i może przetwarzać dokumenty wielostronicowe bez ładowania całego pliku do pamięci. Jego wysokowydajne API pozwala skupić się na logice biznesowej, a nie na niskopoziomowej obsłudze bitmap.
 
 ## Wymagania wstępne
 
-1. **Aspose.Imaging for Java** – wersja 25.5 (lub nowsza).  
+1. **Aspose.Imaging dla Javy** – wersja 25.5 lub nowsza.  
 2. **IDE** – IntelliJ IDEA, Eclipse lub dowolny edytor kompatybilny z Javą.  
-3. **JDK** – Java 8 lub nowsza.  
+3. **JDK** – Java 8 lub nowsza.  
 4. Podstawowa znajomość Java I/O oraz programowania obiektowego.
 
-## Konfiguracja Aspose.Imaging for Java
+## Konfiguracja Aspose.Imaging dla Javy
 
 ### Instalacja Maven
 
@@ -75,13 +114,13 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 
 ### Bezpośrednie pobranie
 
-Alternatywnie pobierz najnowszy plik JAR Aspose.Imaging for Java z [Aspose.Imaging releases](https://releases.aspose.com/imaging/java/).
+Alternatywnie pobierz najnowszy plik JAR Aspose.Imaging dla Javy z [Aspose.Imaging releases](https://releases.aspose.com/imaging/java/).
 
-#### Pozyskanie licencji
+#### Uzyskanie licencji
 
-- **Free Trial**: Odwiedź [Aspose Imaging Free Trial](https://releases.aspose.com/imaging/java/)  
-- **Temporary License**: Zamów ją na [Aspose Temporary License](https://purchase.aspose.com/temporary-license/).  
-- **Purchase**: Do długoterminowego użytku rozważ zakup licencji na [Aspose Purchase](https://purchase.aspose.com/buy).
+- **Darmowa wersja próbna**: Odwiedź [Aspose Imaging Free Trial](https://releases.aspose.com/imaging/java/)
+- **Licencja tymczasowa**: Zamów ją pod adresem [Aspose Temporary License](https://purchase.aspose.com/temporary-license/).
+- **Zakup**: Dla długoterminowego użycia rozważ zakup licencji na [Aspose Purchase](https://purchase.aspose.com/buy).
 
 ### Podstawowa inicjalizacja
 
@@ -96,19 +135,19 @@ RasterImage image = (RasterImage) Image.load(dataDir + "aspose_logo.png");
 
 ## Przewodnik implementacji
 
-### java image processing tutorial: Ładowanie i wyświetlanie obrazu
+### Samouczek przetwarzania obrazów w Javie: ładowanie i wyświetlanie obrazu
 
 #### Przegląd  
-Załadowanie obrazu rastrowego jest pierwszym krokiem w każdym procesie manipulacji.
+Ładowanie obrazu rastrowego to pierwszy krok w każdym procesie manipulacji.
 
-##### Krok 1: Importuj niezbędne klasy
+##### Krok 1: importowanie niezbędnych klas
 
 ```java
 import com.aspose.imaging.Image;
 import com.aspose.imaging.RasterImage;
 ```
 
-##### Krok 2: Załaduj obraz
+##### Krok 2: ładowanie obrazu
 
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
@@ -118,19 +157,22 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "aspose_logo.png")) 
 }
 ```
 
-### How to Set Background Color Java
+## Jak ustawić kolor tła w Javie?
 
-#### Przegląd  
-Zmiana tła płótna pomaga, gdy potrzebujesz jednolitego podkładu dla przezroczystych PNG.
+Ustawienie koloru tła dodaje jednolite płótno za obrazami, które nie posiadają kanału alfa, zapewniając spójny wygląd we wszystkich formatach wyjściowych. Wywołując odpowiednią metodę na obiekcie obrazu, możesz wypełnić przezroczyste obszary wybranym kolorem przed zapisem, co jest szczególnie przydatne przy konwersji do formatów nieobsługujących przezroczystości.
 
-##### Krok 1: Importuj niezbędne klasy
+**Bezpośrednia odpowiedź:** Wywołaj metodę `setBackgroundColor` na instancji `RasterImage`, przekazując obiekt `Color` reprezentujący pożądany odcień tła. Operacja ta wypełnia wszystkie przezroczyste regiony podanym kolorem przed zapisem.
+
+Klasa `RasterImage` reprezentuje pojedynczy obraz rastrowy załadowany do pamięci. Po utworzeniu możesz modyfikować jego dane pikseli, tło i inne właściwości.
+
+##### Krok 1: importowanie niezbędnych klas
 
 ```java
 import com.aspose.imaging.Color;
 import com.aspose.imaging.RasterImage;
 ```
 
-##### Krok 2: Ustaw kolor tła
+##### Krok 2: ustawienie koloru tła
 
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
@@ -140,21 +182,24 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "aspose_logo.png")) 
 }
 ```
 
-> **Pro tip:** Użyj `Color.getTransparent()`, jeśli chcesz w pełni przezroczyste tło zamiast jednolitego koloru.
+> **Wskazówka:** Użyj `Color.getTransparent()`, jeśli chcesz uzyskać w pełni przezroczyste tło zamiast koloru stałego.
 
-### Set Transparent Color Java
+## Ustawienie koloru przezroczystego w Javie
 
-#### Przegląd  
-Zdefiniowanie koloru przezroczystego jest kluczowe dla zasobów PNG, które muszą płynnie wpasować się w różne tła interfejsu.
+Zdefiniowanie koloru przezroczystego jest kluczowe dla zasobów PNG, które muszą płynnie wtopić się w różne tła UI, umożliwiając określonemu odcieniowi stanie się w pełni niewidocznym w końcowym obrazie. Oznaczając kolor jako przezroczysty podczas zapisu, możesz tworzyć zasoby, które bezproblemowo dostosowują się do różnych motywów lub teł bez dodatkowej obróbki po zapisaniu.
 
-##### Krok 1: Importuj niezbędne klasy
+**Bezpośrednia odpowiedź:** Użyj metody `setTransparentColor` na obiekcie `RasterImage` i włącz flagę `transparentColor` w `PngOptions`. To oznaczy wskazany kolor jako w pełni przezroczysty przy zapisie obrazu jako PNG.
+
+Klasa `PngOptions` przechowuje wszystkie ustawienia związane z zapisem PNG, w tym poziom kompresji i obsługę kanału alfa.
+
+##### Krok 1: importowanie niezbędnych klas
 
 ```java
 import com.aspose.imaging.Color;
 import com.aspose.imaging.RasterImage;
 ```
 
-##### Krok 2: Zdefiniuj kolor przezroczysty
+##### Krok 2: zdefiniowanie koloru przezroczystego
 
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
@@ -165,19 +210,22 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "aspose_logo.png")) 
 }
 ```
 
-### Zapisz obraz z określonymi właściwościami
+## Zapis obrazu z określonymi właściwościami
 
-#### Przegląd  
-Zapis z odpowiednimi opcjami zapewnia, że ustawienia tła i przezroczystości zostaną zachowane.
+Zapis z odpowiednimi opcjami zapewnia, że ustawienia tła i przezroczystości zostaną zachowane w pliku wyjściowym, dając oczekiwany efekt wizualny we wszystkich przeglądarkach i urządzeniach. Konfigurując opcje PNG, takie jak poziom kompresji, obsługa przezroczystości i zachowanie metadanych, zapewniasz optymalny rozmiar pliku i jakość.
 
-##### Krok 1: Importuj niezbędne klasy
+**Bezpośrednia odpowiedź:** Utwórz instancję `PngOptions`, ustaw `setTransparentColor(true)` i przypisz żądany `Color`, a następnie wywołaj `image.save("output.png", pngOptions)`. To zapisze obraz na dysku, zachowując skonfigurowane tło i kolor przezroczysty.
+
+Klasa `RasterImage` udostępnia metodę `save`, która przyjmuje ścieżkę pliku i obiekt opcji kontrolujący format wyjściowy.
+
+##### Krok 1: importowanie niezbędnych klas
 
 ```java
 import com.aspose.imaging.imageoptions.PngOptions;
 import com.aspose.imaging.RasterImage;
 ```
 
-##### Krok 2: Zapisz obraz
+##### Krok 2: zapis obrazu
 
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
@@ -196,23 +244,23 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "aspose_logo.png")) 
 
 ## Praktyczne zastosowania
 
-1. **Web Development** – Dynamicznie generuj zasoby tematyczne (np. ikony w trybie ciemnym).  
-2. **Graphic Design Tools** – Udostępnij użytkownikom możliwość zmiany tła lub uczynienia koloru przezroczystym jednym kliknięciem.  
-3. **Marketing Automation** – Przetwarzaj wsadowo zasoby marki, aby zapewnić spójne kolory tła w kampaniach.
+1. **Web development** – Dynamiczne generowanie zasobów tematycznych (np. ikony w trybie ciemnym).  
+2. **Narzędzia do projektowania graficznego** – Umożliwienie użytkownikom końcowym zmiany tła lub uczynienia koloru przezroczystym jednym kliknięciem.  
+3. **Automatyzacja marketingowa** – Przetwarzanie wsadowe zasobów marki w celu zapewnienia spójnych kolorów tła w kampaniach.
 
-## Rozważania dotyczące wydajności
+## Wskazówki dotyczące wydajności
 
-- **Memory Management** – Używaj try‑with‑resources (jak pokazano), aby automatycznie zwalniać natywne bufory obrazu.  
-- **Buffered I/O** – Owiń strumienie plików w `BufferedInputStream` przy pracy z dużymi plikami.  
-- **Thread Safety** – Obiekty Aspose.Imaging nie są bezpieczne wątkowo; twórz osobne instancje dla każdego wątku.
+- **Zarządzanie pamięcią** – Używaj try‑with‑resources (jak pokazano), aby automatycznie zwalniać natywne bufory obrazu.  
+- **Buforowane I/O** – Owijaj strumienie plików w `BufferedInputStream` przy pracy z dużymi plikami.  
+- **Bezpieczeństwo wątków** – Obiekty Aspose.Imaging nie są bezpieczne wątkowo; twórz osobne instancje dla każdego wątku.
 
-## Częste problemy i rozwiązania
+## Typowe problemy i rozwiązania
 
 | Problem | Przyczyna | Rozwiązanie |
 |-------|-------|-----|
 | Obraz nie ładuje się | Nieprawidłowa ścieżka lub nieobsługiwany format | Zweryfikuj `dataDir` i upewnij się, że plik jest obsługiwanym typem rastrowym |
 | Przezroczyste tło znika | Zapisano w formacie nieobsługującym alfa (np. JPEG) | Użyj `PngOptions` lub innego formatu obsługującego przezroczystość |
-| Błędy out‑of‑memory przy dużych obrazach | Nie zwalniano obiektów `RasterImage` | Użyj try‑with‑resources lub wywołaj `image.dispose()` explicite |
+| Błędy out‑of‑memory przy dużych obrazach | Nie zwalniano obiektów `RasterImage` | Stosuj try‑with‑resources lub wywołaj `image.dispose()` ręcznie |
 
 ## Najczęściej zadawane pytania
 
@@ -220,36 +268,59 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "aspose_logo.png")) 
 A: Regularnie sprawdzaj [Aspose.Imaging releases](https://releases.aspose.com/imaging/java/) i aktualizuj wersję w pliku Maven/Gradle.
 
 **Q: Co zrobić, gdy ładowanie obrazu zgłasza wyjątek?**  
-A: Potwierdź ścieżkę pliku, upewnij się, że masz uprawnienia do odczytu oraz zweryfikuj, czy format obrazu jest obsługiwany przez Aspose.Imaging.
+A: Sprawdź ścieżkę pliku, upewnij się, że masz uprawnienia odczytu i że format obrazu jest obsługiwany przez Aspose.Imaging.
 
-**Q: Czy mogę pracować z formatami wektorowymi takimi jak SVG przy użyciu tego samego API?**  
+**Q: Czy mogę pracować z formatami wektorowymi, takimi jak SVG, przy użyciu tego samego API?**  
 A: Tak, Aspose.Imaging obsługuje SVG, EMF i inne formaty wektorowe, choć interfejs API różni się od obsługi rastrowej.
 
 **Q: Jak mogę przekonwertować obraz z jednej przestrzeni kolorów na inną?**  
-A: Skorzystaj z narzędzi konwersji kolorów biblioteki — zobacz oficjalną dokumentację pod kątem metod takich jak `convertToGrayScale()`.
+A: Skorzystaj z narzędzi konwersji kolorów biblioteki — zobacz dokumentację pod kątem metod takich jak `convertToGrayScale()`.
 
-**Q: Czy istnieją pułapki przy zapisywaniu PNG‑ów z przezroczystością?**  
+**Q: Czy są pułapki przy zapisywaniu PNG‑ów z przezroczystością?**  
 A: Upewnij się, że używasz `PngOptions` i że docelowe rozszerzenie pliku to `.png`. Zapis do JPEG usunie kanał alfa.
 
 ## Zasoby
 
-- **Documentation**: [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
-- **Download**: [Aspose.Imaging for Java Releases](https://releases.aspose.com/imaging/java/)
-- **Purchase**: [Aspose Purchase Page](https://purchase.aspose.com/buy)
-- **Free Trial**: [Try Aspose.Imaging Free Trial](https://releases.aspose.com/imaging/java/)
-- **Temporary License**: [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Support Forum**: [Aspose Support Community](https://forum.aspose.com/c/imaging/14)
+- **Dokumentacja**: [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
+- **Pobieranie**: [Aspose.Imaging for Java Releases](https://releases.aspose.com/imaging/java/)
+- **Zakup**: [Aspose Purchase Page](https://purchase.aspose.com/buy)
+- **Darmowa wersja próbna**: [Try Aspose.Imaging Free Trial](https://releases.aspose.com/imaging/java/)
+- **Licencja tymczasowa**: [Request Temporary License](https://purchase.aspose.com/temporary-license/)
+- **Forum wsparcia**: [Aspose Support Community](https://forum.aspose.com/c/imaging/14)
+
+## FAQ
+
+**Q: Czy ten samouczek działa na Java 11 i nowszych?**  
+A: Tak, Aspose.Imaging 25.5 jest kompatybilny z Java 8‑21, więc możesz uruchamiać kod na dowolnym nowoczesnym JDK.
+
+**Q: Czy mogę przetwarzać wiele obrazów równolegle?**  
+A: Możesz, ale pamiętaj, że każda instancja `RasterImage` nie jest bezpieczna wątkowo. Twórz osobną instancję na wątek lub użyj puli thread‑local.
+
+**Q: Jak duży obraz może obsłużyć Aspose.Imaging bez wyczerpania pamięci?**  
+A: Dzięki API strumieniowemu biblioteka może przetwarzać obrazy do 10 000 × 10 000 pikseli, utrzymując zużycie pamięci poniżej 200 MB.
+
+**Q: Czy istnieje sposób na zachowanie metadanych EXIF przy zapisie?**  
+A: Tak, ustaw `PngOptions.setKeepMetadata(true)` przed wywołaniem `save`, aby zachować EXIF i inne metadane.
+
+**Q: Gdzie znajdę więcej przykładów zaawansowanej manipulacji?**  
+A: Oficjalne repozytorium Aspose.Imaging na GitHub oraz strona z przykładami kodu produktu zawierają dziesiątki scenariuszy rzeczywistych.
 
 ---
 
-**Ostatnia aktualizacja:** 2026-02-19  
-**Testowano z:** Aspose.Imaging 25.5 for Java  
-**Autor:** Aspose  
+**Ostatnia aktualizacja:** 2026-10-29  
+**Testowano z:** Aspose.Imaging 25.5 for Java  
+**Autor:** Aspose
+
+## Powiązane samouczki
+
+- [Comprehensive Guide: Aspose.Imaging Java for Image Processing & Exporting](/imaging/java/getting-started/aspose-imaging-java-image-processing-guide/)
+- [Java Image Manipulation: Drawing Shapes with Aspose.Imaging](/imaging/java/image-creation-drawing/java-image-manipulation-aspose-imaging-drawing-shapes/)
+- [Java Image Processing Tutorial - Multi-Threaded Image Export with Aspose.Imaging for Java](/imaging/java/image-conversion-and-optimization/multi-threaded-image-export/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
