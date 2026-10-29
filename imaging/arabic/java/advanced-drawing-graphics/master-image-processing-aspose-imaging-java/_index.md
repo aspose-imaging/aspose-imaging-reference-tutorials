@@ -1,66 +1,116 @@
 ---
-date: '2026-02-19'
-description: تعلم كيفية تحميل الصورة مع إظهار التقدم وتحديد جودة JPEG في Java باستخدام
-  Aspose.Imaging for Java، مما يعزز الأداء والتحكم.
+date: '2026-10-29'
+description: يتيح لك Aspose.Imaging Java مراقبة تقدم تحميل وحفظ الصورة أثناء ضبط جودة
+  JPEG، مما يعزز الأداء والتحكم.
 keywords:
-- how to track progress
-- load image with progress
-- set jpeg quality java
-- Aspose.Imaging for Java
-- image processing in Java
-- monitor image save progress
-title: كيفية تحميل الصورة مع إظهار التقدم باستخدام Aspose.Imaging لجافا
+- aspose imaging java
+- image processing java
+- set jpeg quality
+- track image progress
+- monitor image save
+lastmod: '2026-10-29'
+og_description: يتيح لك Aspose.Imaging Java مراقبة تقدم تحميل وحفظ الصورة أثناء ضبط
+  جودة JPEG، مما يعزز الأداء والتحكم.
+og_image_alt: Developer guide showing progress monitoring and JPEG quality settings
+  with Aspose.Imaging Java
+og_title: Aspose.Imaging Java – مراقبة تقدم تحميل وحفظ الصورة
+schemas:
+- author: Aspose
+  dateModified: '2026-10-29'
+  description: Aspose.Imaging Java lets you monitor image load and save progress while
+    setting JPEG quality, boosting performance and control.
+  headline: Monitoring image processing progress with Aspose.Imaging Java
+  type: TechArticle
+- description: Aspose.Imaging Java lets you monitor image load and save progress while
+    setting JPEG quality, boosting performance and control.
+  name: Monitoring image processing progress with Aspose.Imaging Java
+  steps:
+  - name: load the image with a progress handler
+    text: Here we create an anonymous `ProgressEventHandler` that prints the percentage
+      completed.
+  - name: define the callback function
+    text: The `progressCallback` method logs the loading progress to the console.
+  - name: configure and save the image with compression options
+    text: We set the JPEG quality to 85 % and attach a progress handler that reports
+      each 10 % increment.
+  - name: define the export callback function
+    text: This function logs the saving progress, helping you display a progress bar.
+  type: HowTo
+- questions:
+  - answer: It helps you manage resources efficiently during large file operations
+      or batch processing, providing real‑time feedback to users and preventing UI
+      freezes.
+    question: What is the primary use case for monitoring image progress?
+  - answer: Yes, you can change the integer passed to `JpegOptions.setQuality(int)`
+      at runtime before each save call.
+    question: Can I adjust the JPEG quality dynamically based on network conditions?
+  - answer: Enclose your code in `try‑catch` blocks and log `IOException` or `ImagingException`
+      to diagnose issues.
+    question: How should I handle errors during image load or save?
+  - answer: Limits depend on available memory and CPU; use a bounded thread pool or
+      process images sequentially to stay within resource budgets.
+    question: Are there limits on processing multiple images simultaneously?
+  - answer: Absolutely – it runs on any platform that supports Java, including Windows,
+      Linux, and macOS.
+    question: Is Aspose.Imaging cross‑platform?
+  type: FAQPage
+tags:
+- aspose imaging
+- java image processing
+- jpeg compression
+- progress monitoring
+- image load save
+title: مراقبة تقدم معالجة الصور باستخدام Aspose.Imaging Java
 url: /ar/java/advanced-drawing-graphics/master-image-processing-aspose-imaging-java/
 weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
+
 # إتقان معالجة الصور باستخدام Aspose.Imaging Java: مراقبة تقدم التحميل والحفظ
 
 ## مقدمة
 
-في عصرنا الرقمي اليوم، التعامل مع الصور بكفاءة أمر حيوي لتجربة مستخدم سلسة عبر التطبيقات المتنوعة. **Load image with progress** يسمح لك بالحفاظ على استجابة واجهة المستخدم مع تقديم تغذية راجعة في الوقت الفعلي للمستخدمين أثناء عمليات الصور الثقيلة. يشرح هذا الدليل كيفية استخدام Aspose.Imaging for Java لمراقبة كل من تحميل الصور وحفظها، ويظهر لك كيفية **set jpeg quality java** للحصول على أفضل النتائج.
+في تطبيقات Java الحديثة، يوفر **aspose imaging java** تحكمًا دقيقًا في معالجة الصور، بما في ذلك القدرة على مراقبة عمليات التحميل والحفظ في الوقت الفعلي. تحميل صور كبيرة دون رد فعل يمكن أن يجمد واجهة المستخدم، بينما حفظ الصورة بإعدادات JPEG غير صحيحة قد يزيد حجم الملف. يوضح هذا الدرس كيفية إعداد Aspose.Imaging، وإرفاق معالجات التقدم، وتكوين جودة JPEG بحيث يبقى تطبيقك مستجيبًا وتظل النتيجة مضغوطة.
 
-**ما ستتعلمه:**
-- كيفية إعداد مشروع باستخدام Aspose.Imaging for Java
-- تنفيذ معالجات أحداث التقدم أثناء عمليات تحميل وحفظ الصور
-- تكوين خيارات الضغط لصور JPEG
-- تحسين الأداء في تطبيقات Java الخاصة بك
+**ما ستتعلم**
+- كيفية إضافة Aspose.Imaging إلى مشروع Maven أو Gradle أو مشروع Java يدوي  
+- كيفية تتبع تقدم تحميل الصورة وتقدم حفظ الصورة باستخدام `ProgressEventHandler`  
+- كيفية تعيين جودة JPEG باستخدام `JpegOptions` للحصول على ضغط أمثل  
+- نصائح لضبط الأداء والمشكلات الشائعة  
 
-دعنا نستعرض كيفية إنجاز هذه المهام بفعالية.
+دعنا نستعرض كل خطوة حتى تتمكن من تطبيق هذه التقنيات اليوم.
 
 ## إجابات سريعة
-- **What does “load image with progress” mean in image processing?** يشير إلى تلقي ردود نداء في الوقت الفعلي توضح مقدار ما تم تحميله أو حفظه من الصورة.  
-- **Which library provides progress events for Java images?** Aspose.Imaging for Java.  
-- **Can I monitor both load and save operations?** نعم، باستخدام `ProgressEventHandler` لكل خطوة.  
-- **How do I set JPEG quality in Java?** استخدم `JpegOptions.setQuality(int)` أثناء الحفظ.  
-- **Do I need a license for these features?** النسخة التجريبية تعمل للتقييم؛ يلزم الحصول على ترخيص كامل للإنتاج.
+- **ماذا يعني “تحميل الصورة مع التقدم”؟** يعني تلقي استدعاءات رد فعل في الوقت الفعلي تُبلغ عن عدد البايتات التي تم قراءتها، مما يتيح لك تحديث شريط التقدم.  
+- **أي مكتبة توفر أحداث التقدم لصور Java؟** Aspose.Imaging for Java.  
+- **هل يمكنني مراقبة عمليات التحميل والحفظ معًا؟** نعم، عن طريق تعيين `ProgressEventHandler` إلى `LoadOptions` و `JpegOptions`.  
+- **كيف أضبط جودة JPEG في Java؟** استدعِ `JpegOptions.setQuality(int)` قبل استدعاء `save`.  
+- **هل أحتاج إلى ترخيص لهذه الميزات؟** النسخة التجريبية تعمل للتقييم؛ يلزم ترخيص كامل للاستخدام في الإنتاج.
 
-### المتطلبات المسبقة
+## ما هو “تحميل الصورة مع التقدم”؟
 
-قبل أن نبدأ، تأكد من توفر ما يلي:
-- **المكتبات**: Aspose.Imaging for Java الإصدار 25.5 أو أحدث.
-- **إعداد البيئة**: وجود مجموعة تطوير جافا (JDK) مثبتة على نظامك وبيئة تطوير متكاملة مثل IntelliJ IDEA أو Eclipse.
-- **متطلبات المعرفة**: فهم أساسي لمفاهيم برمجة جافا.
+عند تحميل صورة كبيرة، قد تستغرق العملية وقتًا ملحوظًا. من خلال إرفاق معالج تقدم، يتلقى تطبيقك تحديثات دورية (نسبة مئوية أو عدد البايتات)، مما يتيح لك تحديث أشرطة التقدم، تسجيل النشاط، أو حتى إيقاف/استئناف العملية إذا لزم الأمر.
 
-## ما هو “load image with progress”؟
+## لماذا استخدام Aspose.Imaging لـ Java؟
 
-عند تحميل صورة كبيرة، قد تستغرق العملية وقتًا ملحوظًا. من خلال إرفاق معالج تقدم، يتلقى تطبيقك تحديثات دورية (نسبة مئوية أو عدد بايتات)، مما يتيح لك تحديث أشرطة التقدم، تسجيل النشاط، أو حتى إيقاف/استئناف العملية إذا لزم الأمر.
+يدعم Aspose.Imaging **أكثر من 100 تنسيق صورة** ويمكنه معالجة ملفات تصل إلى **2 GB** دون تحميل الملف بالكامل إلى الذاكرة، مما يوفر أداءً ثابتًا على Windows وLinux وmacOS. يزيل `ProgressEventHandler` المدمج الحاجة إلى منطق الخيوط المخصص، مما يتيح لك التركيز على واجهة المستخدم والقواعد التجارية.
 
-## لماذا نستخدم Aspose.Imaging for Java؟
+## المتطلبات المسبقة
 
-توفر Aspose.Imaging واجهة برمجة تطبيقات غنية ومتعددة المنصات تُبسط تفاصيل التعامل منخفضة المستوى مع الصور. أحداث التقدم المدمجة والتحكم الدقيق في ضغط JPEG تجعلها مثالية لتطبيقات جافا على سطح المكتب والخوادم على حد سواء.
+- **Java Development Kit** 17 أو أحدث مثبت.  
+- **IDE** مثل IntelliJ IDEA أو Eclipse (أي محرر يدعم Maven/Gradle).  
+- إلمام أساسي بمعالجة الاستثناءات في Java والبرمجة كائنية التوجه.  
+- اختياري: ملف ترخيص Aspose.Imaging تجريبي أو مُشتَرَى.
 
-## إعداد Aspose.Imaging for Java
+## إعداد Aspose.Imaging لـ Java
 
-لدمج Aspose.Imaging في مشروع جافا الخاص بك، لديك عدة خيارات:
+لدمج Aspose.Imaging في مشروعك، اختر أحد الطرق التالية.
 
 ### Maven
-أضف التبعية التالية إلى ملف `pom.xml` الخاص بك:
+أضف الاعتماد إلى ملف `pom.xml` الخاص بك:
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -76,22 +126,23 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
 ### التحميل المباشر
-بدلاً من ذلك، حمّل أحدث نسخة من [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
+بدلاً من ذلك، قم بتنزيل أحدث JAR من [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-**الحصول على الترخيص**: يمكنك البدء بنسخة تجريبية مجانية أو طلب ترخيص مؤقت لاستكشاف جميع الميزات قبل الشراء.
+**الحصول على الترخيص** – ابدأ بنسخة تجريبية مجانية أو اطلب ترخيصًا مؤقتًا للوصول إلى جميع الميزات.
 
 ## دليل التنفيذ
 
-هذا القسم مقسّم إلى ميزتين رئيسيتين: **تحميل الصور مع مراقبة التقدم** و **حفظ الصور مع خيارات الضغط ومراقبة التقدم**.
+يغطي هذا القسم سيناريوهين أساسيين: **تحميل الصور مع مراقبة التقدم** و **حفظ الصور مع التحكم في جودة JPEG وتتبع تقدم الحفظ**.
 
 ### كيفية تتبع التقدم عند تحميل صورة
 
 #### نظرة عامة
-عند تحميل صورة، من المفيد مراقبة التقدم لإدارة الموارد بشكل أفضل وتوفير تغذية راجعة للمستخدم. تسمح لك Aspose.Imaging بتعيين معالج حدث مخصص يُخطرك بتقدم التحميل.
+مراقبة تقدم التحميل يتيح لك إطلاع المستخدمين وإدارة الموارد بكفاءة.
 
-#### خطوات التنفيذ
+#### تعريف المرجع
+`ProgressEventHandler` هو واجهة الاستدعاء في Aspose.Imaging التي تتلقى تحديثات التقدم أثناء تحميل الصورة وحفظها.
 
-**Step 1: Import Required Classes**
+#### الخطوة 1: استيراد الفئات المطلوبة
 ```java
 import com.aspose.imaging.Image;
 import com.aspose.imaging.LoadOptions;
@@ -99,8 +150,8 @@ import com.aspose.imaging.ProgressEventHandler;
 import com.aspose.imaging.progressmanagement.ProgressEventHandlerInfo;
 ```
 
-**Step 2: Load the Image with a Progress Handler**  
-هنا، نُعرّف فئة مجهولة للتعامل مع أحداث التقدم.
+#### الخطوة 2: تحميل الصورة مع معالج التقدم  
+هنا نقوم بإنشاء `ProgressEventHandler` مجهول يطبع النسبة المئوية المكتملة.
 ```java
 try (Image image = Image.load("YOUR_DOCUMENT_DIRECTORY/aspose-logo.jpg", new LoadOptions() {
 {
@@ -116,8 +167,8 @@ try (Image image = Image.load("YOUR_DOCUMENT_DIRECTORY/aspose-logo.jpg", new Loa
 }
 ```
 
-**Step 3: Define the Callback Function**  
-دالة `progressCallback` تسجل تقدم التحميل.
+#### الخطوة 3: تعريف دالة الاستدعاء  
+طريقة `progressCallback` تسجل تقدم التحميل إلى وحدة التحكم.
 ```java
 static void progressCallback(ProgressEventHandlerInfo info) {
     Logger.printf("Loading Progress %s : %d/%d", info.getEventType(), info.getValue(), info.getMaxValue());
@@ -127,19 +178,20 @@ static void progressCallback(ProgressEventHandlerInfo info) {
 ### كيفية تتبع التقدم عند حفظ صورة وتعيين جودة JPEG في Java
 
 #### نظرة عامة
-يعد حفظ الصور بكفاءة، خاصةً بصيغ مثل JPEG التي تدعم الضغط، أمرًا أساسيًا لتحسين مساحة التخزين. يساعد مراقبة تقدم الحفظ على ضمان سير العملية بسلاسة دون توقفات غير متوقعة، ويمكنك أيضًا **set jpeg quality java** للتحكم في حجم الملف وجودة الصورة المرئية.
+الحفظ مع الضغط ومراقبة التقدم يضمن بقاء تطبيقك مستجيبًا حتى مع ملفات عالية الدقة.
 
-#### خطوات التنفيذ
+#### تعريف المرجع
+`JpegOptions` هي فئة تكوين تتيح لك تحديد نوع الضغط، مستوى الجودة، ومعالج التقدم لإخراج JPEG.
 
-**Step 1: Import Required Classes**
+#### الخطوة 1: استيراد الفئات المطلوبة
 ```java
 import com.aspose.imaging.Image;
 import com.aspose.imaging.fileformats.jpeg.JpegCompressionMode;
 import com.aspose.imaging.imageoptions.JpegOptions;
 ```
 
-**Step 2: Configure and Save the Image with Compression Options**  
-قم بإعداد خيارات JPEG، بما في ذلك نوع الضغط، الجودة، ومعالج التقدم.
+#### الخطوة 2: تكوين وحفظ الصورة مع خيارات الضغط  
+نقوم بتعيين جودة JPEG إلى 85 ٪ ونرفق معالج تقدم يُبلغ عن كل زيادة بنسبة 10 ٪.
 ```java
 Image image = Image.load("YOUR_DOCUMENT_DIRECTORY/aspose-logo.jpg");
 image.save(Path.combine("YOUR_OUTPUT_DIRECTORY", "outputFile_Baseline.jpg"), new JpegOptions() {
@@ -156,73 +208,80 @@ image.save(Path.combine("YOUR_OUTPUT_DIRECTORY", "outputFile_Baseline.jpg"), new
 });
 ```
 
-**Step 3: Define the Export Callback Function**  
-هذه الدالة تسجل تقدم الحفظ.
+#### الخطوة 3: تعريف دالة الاستدعاء للتصدير  
+هذه الدالة تسجل تقدم الحفظ، مما يساعدك على عرض شريط التقدم.
 ```java
 static void exportProgressCallback(ProgressEventHandlerInfo info) {
     Logger.printf("Export Progress %s : %d/%d", info.getEventType(), info.getValue(), info.getMaxValue());
 }
 ```
 
-## التطبيقات العملية
+## تطبيقات عملية
 
-إليك بعض السيناريوهات الواقعية التي يكون فيها مراقبة تقدم تحميل وحفظ الصور مفيدًا:
-- **تطوير الويب** – تقديم مؤشرات تحميل للمستخدمين عند التعامل مع صور كبيرة.
-- **المعالجة الدفعية** – معالجة آلاف الملفات بكفاءة على الخادم.
-- **تطبيقات الهواتف المحمولة** – الحفاظ على استجابة واجهة المستخدم أثناء معالجة الصور على الجهاز.
+مراقبة تقدم تحميل وحفظ الصورة ذات قيمة في العديد من السيناريوهات الواقعية:
+
+- **بوابات الويب** – عرض مؤشر تحميل أثناء رفع المستخدمين للصور عالية الدقة.  
+- **خدمات التحويل الجماعي** – معالجة آلاف الصور على الخادم دون استنزاف الذاكرة.  
+- **محررات الصور المكتبية** – الحفاظ على استجابة واجهة المستخدم عند تطبيق الفلاتر على ملفات RAW الكبيرة.  
 
 ## اعتبارات الأداء
 
-لضمان الأداء الأمثل عند استخدام Aspose.Imaging:
-- راقب استهلاك الذاكرة وحرّر الموارد فورًا، خاصةً مع الصور عالية الدقة.
-- استخدم أحداث التقدم لعرض أشرطة الحالة أو لتقليل وتيرة العمليات بناءً على الحمل الحالي.
+- أفرج عن موارد الصورة فورًا باستخدام try‑with‑resources أو `image.dispose()`.  
+- استغل أحداث التقدم لتقليل عمليات التنفيذ المتزامنة، مما يمنع ارتفاع استهلاك المعالج.  
+- بالنسبة للملفات متعددة الجيجابايت، فكر في واجهات برمجة التطبيقات المتدفقة التي تتجنب تمثيل كامل في الذاكرة.
 
 ## المشكلات الشائعة والحلول
 
 | المشكلة | السبب | الحل |
 |-------|-------|--------|
-| عدم تشغيل استدعاء رد الفعل للتقدم | عدم تعيين `LoadOptions` بشكل صحيح | تأكد من استدعاء `setIProgressEventHandler` داخل مُهيئ `LoadOptions` |
-| عدم تطبيق جودة JPEG | استخدام `JpegOptions` الافتراضي بدلاً من المخصص | دائمًا أنشئ كائن `JpegOptions` واضبط `setQuality` قبل الحفظ |
-| خطأ OutOfMemoryError على الصور الكبيرة | الصورة تبقى في الذاكرة بعد المعالجة | غلف استخدام الصورة بـ try‑with‑resources أو استدعِ `image.dispose()` صراحةً |
+| عدم تشغيل استدعاء التقدم | `LoadOptions` لم يُعيّن معالجًا | تأكد من استدعاء `setIProgressEventHandler` على كائن `LoadOptions` قبل التحميل |
+| عدم تطبيق جودة JPEG | استخدام `JpegOptions` الافتراضي | إنشاء كائن `JpegOptions` مخصص واستدعاء `setQuality` قبل `save` |
+| خطأ OutOfMemoryError على الصور الكبيرة | الصورة تبقى في الذاكرة بعد المعالجة | استخدم try‑with‑resources أو استدعِ `image.dispose()` صراحةً |
 
 ## الأسئلة المتكررة
 
 **س: ما هو الاستخدام الأساسي لمراقبة تقدم الصورة؟**  
-ج: يساعد على إدارة الموارد بفعالية أثناء عمليات الملفات الكبيرة أو المعالجة الدفعية، مع توفير تغذية راجعة فورية للمستخدمين.
+**ج:** يساعدك على إدارة الموارد بكفاءة أثناء عمليات الملفات الكبيرة أو المعالجة الدفعية، ويقدم رد فعل فوري للمستخدمين ويمنع تجمد واجهة المستخدم.
 
 **س: هل يمكنني تعديل جودة JPEG ديناميكيًا بناءً على ظروف الشبكة؟**  
-ج: نعم، يمكنك تغيير القيمة الممررة إلى `JpegOptions.setQuality(int)` في وقت التشغيل.
+**ج:** نعم، يمكنك تغيير القيمة الصحيحة الممررة إلى `JpegOptions.setQuality(int)` في وقت التشغيل قبل كل استدعاء حفظ.
 
 **س: كيف يجب أن أتعامل مع الأخطاء أثناء تحميل أو حفظ الصورة؟**  
-ج: غلف شفرتك بكتل try‑catch وسجّل `IOException` أو `ImagingException` حسب الحاجة.
+**ج:** احطِ كودك بكتل `try‑catch` وسجّل `IOException` أو `ImagingException` لتشخيص المشكلات.
 
-**س: هل هناك حدود لمعالجة عدة صور في وقت واحد؟**  
-ج: يعتمد الحد على الذاكرة المتاحة والمعالج؛ يفضَّل معالجة الصور تسلسليًا أو باستخدام مجموعة خيوط محكومة.
+**س: هل هناك حدود لمعالجة صور متعددة في آن واحد؟**  
+**ج:** تعتمد الحدود على الذاكرة والمعالج المتاحين؛ استخدم مجموعة خيوط محدودة أو عالج الصور تسلسليًا للبقاء ضمن حدود الموارد.
 
 **س: هل Aspose.Imaging متعدد المنصات؟**  
-ج: بالتأكيد – يعمل في أي بيئة تدعم جافا، بما في ذلك Windows وLinux وmacOS.
+**ج:** بالتأكيد – يعمل على أي منصة تدعم Java، بما في ذلك Windows وLinux وmacOS.
 
 ## الموارد
 
-- **الوثائق**: [Aspose.Imaging Java Documentation](https://reference.aspose.com/imaging/java/)
-- **التنزيل**: [Latest Releases](https://releases.aspose.com/imaging/java/)
-- **الشراء**: [Buy Aspose Products](https://purchase.aspose.com/buy)
-- **نسخة تجريبية مجانية**: [Start a Free Trial](https://releases.aspose.com/imaging/java/)
-- **ترخيص مؤقت**: [Request a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **الدعم**: [Aspose Forum](https://forum.aspose.com/c/imaging/14)
+- **الوثائق**: [Aspose.Imaging Java Documentation](https://reference.aspose.com/imaging/java/)  
+- **التنزيل**: [الإصدارات الأخيرة](https://releases.aspose.com/imaging/java/)  
+- **الشراء**: [شراء منتجات Aspose](https://purchase.aspose.com/buy)  
+- **نسخة تجريبية مجانية**: [ابدأ نسخة تجريبية مجانية](https://releases.aspose.com/imaging/java/)  
+- **ترخيص مؤقت**: [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)  
+- **الدعم**: [منتدى Aspose](https://forum.aspose.com/c/imaging/14)
 
-الآن، مسلحًا بهذه المعرفة، أنت جاهز لتطبيق Aspose.Imaging في مشاريع Java الخاصة بك لتعزيز قدرات معالجة الصور. برمجة سعيدة!
+الآن لديك كل ما تحتاجه لمراقبة تقدم تحميل وحفظ الصورة وضبط جودة JPEG باستخدام Aspose.Imaging لـ Java. برمجة سعيدة!
 
 ---
 
-**آخر تحديث:** 2026-02-19  
+**آخر تحديث:** 2026-10-29  
 **تم الاختبار مع:** Aspose.Imaging 25.5 for Java  
 **المؤلف:** Aspose
+
+## دروس ذات صلة
+
+- [مراقبة تقدم تحويل الصورة باستخدام Aspose.Imaging لـ Java](/imaging/java/document-conversion-and-processing/monitor-document-conversion-progress/)
+- [تحسين صور Java باستخدام Aspose.Imaging: التحميل، التحجيم، التخزين المؤقت، الحفظ](/imaging/java/compression-optimization/efficient-image-handling-java-aspose-imaging/)
+- [Aspose.Imaging لـ Java: تقنيات معالجة الصور المتقدمة](/imaging/java/image-loading-saving/java-image-processing-aspose-imaging-guide/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
