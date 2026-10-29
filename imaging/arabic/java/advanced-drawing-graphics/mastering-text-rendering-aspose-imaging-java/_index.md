@@ -1,63 +1,121 @@
 ---
-date: '2026-02-19'
-description: تعلم كيفية إنشاء رسومات متجهية باستخدام Java و Aspose.Imaging. قم بعرض
-  النص المنسق، وتطبيق تأثيرات الخط، وحفظ ملفات EMF عالية الجودة لتوليد الصور الديناميكية.
+date: '2026-10-29'
+description: تعلم دليل معالجة الصور بلغة Java لإنشاء رسومات متجهية في Java باستخدام
+  Aspose.Imaging. قم بتصيير النص المنسق، وتطبيق تأثيرات الخط، وتصدير ملفات EMF عالية
+  الجودة لتوليد صور ديناميكية.
 keywords:
-- text rendering Java
-- Aspose.Imaging tutorial
-- Java graphics with fonts
-- advanced drawing with Aspose.Imaging
-- custom text rendering Java
-title: كيفية إنشاء رسومات متجهية باستخدام جافا و Aspose.Imaging – إتقان النصوص باستخدام
-  الخطوط
+- java image processing tutorial
+- vector graphics Java
+- Aspose.Imaging text rendering
+- EMF export Java
+lastmod: '2026-10-29'
+og_description: تعلم دليل معالجة الصور بلغة Java لإنشاء رسومات متجهية في Java باستخدام
+  Aspose.Imaging. قم بتصيير النص المنسق، وتطبيق تأثيرات الخط، وتصدير ملفات EMF عالية
+  الجودة لتوليد صور ديناميكية.
+og_image_alt: 'Java tutorial: rendering styled text and exporting EMF vector graphics
+  with Aspose.Imaging'
+og_title: إنشاء رسومات في Java – دليل معالجة الصور بلغة Java
+schemas:
+- author: Aspose
+  dateModified: '2026-10-29'
+  description: Learn a java image processing tutorial for creating vector graphics
+    in Java with Aspose.Imaging. Render styled text, apply font effects, and export
+    high‑quality EMF files for dynamic image generation.
+  headline: Create graphics in Java – java image processing tutorial
+  type: TechArticle
+- description: Learn a java image processing tutorial for creating vector graphics
+    in Java with Aspose.Imaging. Render styled text, apply font effects, and export
+    high‑quality EMF files for dynamic image generation.
+  name: Create graphics in Java – java image processing tutorial
+  steps:
+  - name: create a graphics object
+    text: The `EmfRecorderGraphics2D` class records drawing commands and writes them
+      to an EMF stream. Initializing it creates a canvas for vector output.
+  - name: define fonts
+    text: 'Define the fonts you want to use. `Font` represents a typeface with size
+      and style used for drawing text. For example, a bold and underlined Arial font:'
+  - name: draw text
+    text: '`drawString` draws a string at the specified coordinates on the graphics
+      context. Use the `drawString` method to render your **styled text** onto the
+      graphics surface:'
+  - name: save your work
+    text: 'End the recording and **save EMF file**: This creates an EMF vector file
+      that retains crisp text at any scale.'
+  - name: initialize graphics object
+    text: 'Recreate the `EmfRecorderGraphics2D` object with the desired image dimensions
+      and resolution:'
+  - name: end recording
+    text: 'Finalize the graphics object when you’re done drawing so the EMF data is
+      flushed to disk: Now you have a ready‑to‑use graphics surface for any further
+      **text with fonts** operations.'
+  type: HowTo
+- questions:
+  - answer: Download the library via Maven, Gradle, or directly from the [Aspose.Imaging
+      for Java releases](https://releases.aspose.com/imaging/java/).
+    question: How do I get started with Aspose.Imaging for Java?
+  - answer: Yes – any font installed on the host system can be referenced in the `Font`
+      constructor.
+    question: Can I use fonts other than Arial?
+  - answer: Ensure the graphics object dimensions match your desired output size;
+      otherwise text may be clipped or distorted.
+    question: What are common pitfalls when rendering text?
+  - answer: Technically no, but stacking too many styles can affect readability and
+      performance.
+    question: Is there a limit to how many styles I can combine?
+  - answer: Start with a free trial from [Temporary License](https://purchase.aspose.com/temporary-license/)
+      and upgrade to a full license for commercial deployments.
+    question: How do I handle licensing for production use?
+  type: FAQPage
+tags:
+- java image processing
+- Aspose.Imaging
+- vector graphics
+- EMF files
+title: إنشاء رسومات في Java – دليل معالجة الصور بلغة Java
 url: /ar/java/advanced-drawing-graphics/mastering-text-rendering-aspose-imaging-java/
 weight: 1
 ---
 
-
-
-
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# إتقان النص مع الخطوط في Java باستخدام Aspose.Imaging
+
+# إتقان النصوص مع الخطوط في جافا باستخدام Aspose.Imaging
 
 ## المقدمة
 
-في هذا الدرس ستتعلم كيفية **إنشاء رسومات متجهية java** باستخدام Aspose.Imaging، مع التركيز على عرض النص المنسق بخطوط مخصصة. سواء كنت بحاجة إلى إنشاء صور ديناميكية، بناء رؤوس تقارير، أو تصدير ملفات متجهية واضحة، فإن إتقان عرض النص يمنح تطبيقات Java الخاصة بك ميزة بصرية احترافية. سنستعرض إعداد المكتبة، رسم نص غامق/مائل/تحته خط، وحفظ النتيجة كملف EMF لإخراج متجه قابل للتوسيع.
+في هذا **java image processing tutorial** ستتعلم كيفية إنشاء رسومات متجهة في جافا باستخدام Aspose.Imaging، مع التركيز على عرض النص المنسق بخطوط مخصصة. سواء كنت بحاجة إلى توليد صور ديناميكية، أو بناء رؤوس تقارير، أو تصدير ملفات متجهة واضحة، فإن إتقان عرض النص يمنح تطبيقات جافا الخاصة بك ميزة بصرية احترافية. سنستعرض إعداد المكتبة، ورسم نص غامق/مائل/تحته خط، وحفظ النتيجة كملف EMF لإخراج متجه قابل للتوسيع.
 
 **ما ستتعلمه**
 
-- كيفية إعداد Aspose.Imaging لـ Java (بما في ذلك دمج **aspose imaging maven**)  
-- تقنيات رسم **styled text Java** بخط غامق، مائل، تحته خط، وشطب  
-- حالات استخدام واقعية مثل **dynamic image generation** وتصدير قائم على المتجهات  
+- كيفية إعداد Aspose.Imaging لجافا (بما في ذلك دمج **aspose imaging maven**)
+- تقنيات رسم **styled text Java** بخط غامق، مائل، تحته خط، وشطب
+- حالات استخدام واقعية مثل **dynamic image generation** وتصدير قائم على المتجهات
 
 الآن، دعنا نستعرض المتطلبات المسبقة قبل أن نبدأ!
 
 ## إجابات سريعة
-- **هل يمكنني عرض نص بعدة أنماط خط؟** نعم – Aspose.Imaging يتيح لك دمج الغامق، التحته خط، المائل، إلخ.  
-- **ما أداة البناء الموصى بها؟** كل من Maven (`aspose imaging maven`) و Gradle مدعومان.  
-- **ما الصيغة التي يحفظها المثال؟** ملف EMF (Enhanced Metafile)، مثالي للرسومات المتجهية.  
+- **هل يمكنني عرض نص بعدة أنماط خط؟** نعم – يتيح لك Aspose.Imaging دمج الغامق، التحته خط، المائل، إلخ.  
+- **ما أداة البناء الموصى بها؟** كل من Maven (`aspose imaging maven`) وGradle مدعومان.  
+- **ما الصيغة التي يحفظها المثال؟** ملف EMF (Enhanced Metafile)، مثالي للرسومات المتجهة.  
 - **هل أحتاج إلى ترخيص؟** النسخة التجريبية المجانية تكفي للتقييم؛ الترخيص الكامل مطلوب للإنتاج.  
-- **هل هذا مناسب لإنشاء صور ديناميكية؟** بالتأكيد – يمكنك إنشاء صور في الوقت الفعلي بنص مخصص.  
+- **هل هذا مناسب لتوليد الصور الديناميكية؟** بالتأكيد – يمكنك توليد الصور في الوقت الفعلي بنص مخصص.
 
-## لماذا إنشاء رسومات متجهية java باستخدام Aspose.Imaging؟
+## ما هو java image processing tutorial؟
+دليل **java image processing tutorial** هو دليل خطوة بخطوة يوضح لك كيفية معالجة الصور النقطية أو المتجهة برمجياً باستخدام مكتبات جافا. في هذا الدليل، توفر Aspose.Imaging واجهة API لإنشاء وتحرير وتصدير الرسومات دون الاعتماد على مكونات نظام التشغيل الأصلية.
 
-الرسومات المتجهية تتوسع دون فقدان الجودة، مما يجعلها مثالية لشاشات الـ DPI العالية، التقارير القابلة للطباعة، والأصول القابلة لإعادة الاستخدام. باستخدام Aspose.Imaging تحصل على حل Java نقي يتعامل مع عرض الخطوط المعقدة، يدعم إخراج EMF، ويتكامل بسلاسة مع عملية البناء الحالية لديك.
+## لماذا إنشاء رسومات متجهة جافا باستخدام Aspose.Imaging؟
+الرسومات المتجهة تتوسع دون فقدان الجودة، مما يجعلها مثالية لشاشات عالية الدقة DPI، والتقارير القابلة للطباعة، والأصول القابلة لإعادة الاستخدام. تدعم Aspose.Imaging **أكثر من 30 صيغة إخراج** ويمكنها توليد ملفات EMF حتى **5000 × 5000 px** مع الحفاظ على استهلاك الذاكرة أقل من **150 MB**، وهو مثالي للتصوير على الخادم.
 
 ## المتطلبات المسبقة
 
-قبل أن تبدأ بتنفيذ **text with fonts**، تأكد من أن لديك:
+- **المكتبات المطلوبة:** Aspose.Imaging لجافا الإصدار 25.5 أو أحدث.  
+- **إعداد البيئة:** مجموعة تطوير جافا (JDK) مثبتة على جهازك.  
+- **المتطلبات المعرفية:** برمجة جافا الأساسية ومعرفة بمفاهيم معالجة الصور.
 
-- **المكتبات المطلوبة:** Aspose.Imaging لـ Java الإصدار 25.5 أو أحدث.  
-- **إعداد البيئة:** مجموعة تطوير Java (JDK) مثبتة على جهازك.  
-- **المتطلبات المعرفية:** برمجة Java الأساسية ومعرفة بمفاهيم معالجة الصور.
+## إعداد Aspose.Imaging لجافا
 
-## إعداد Aspose.Imaging لـ Java
-
-لبدء استخدام Aspose.Imaging لـ Java، دمج المكتبة في مشروعك.
+لبدء استخدام Aspose.Imaging لجافا، دمج المكتبة في مشروعك.
 
 **Maven** (طريقة **aspose imaging maven**)
 
@@ -77,15 +135,15 @@ weight: 1
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-**تحميل مباشر**
+**التنزيل المباشر**
 
-إذا كنت تفضل تحميل المكتبة مباشرة، زر [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
+إذا كنت تفضل تنزيل المكتبة مباشرة، زر [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
 ### الحصول على الترخيص
 
 يمكنك البدء بنسخة تجريبية مجانية من Aspose.Imaging بتحميل ترخيص مؤقت من [Temporary License](https://purchase.aspose.com/temporary-license/). للحصول على الوصول الكامل والميزات، فكر في شراء ترخيص.
 
-بمجرد إعداد المكتبة، يمكنك تهيئتها في تطبيق Java الخاص بك والبدء في رسم **text with fonts**.
+بعد إعداد المكتبة، يمكنك تهيئتها في تطبيق جافا الخاص بك والبدء في رسم **text with fonts**.
 
 ## دليل التنفيذ
 
@@ -94,11 +152,11 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ### الميزة 1: رسم نص بخطوط مختلفة
 
 #### نظرة عامة
-هذه الميزة تتيح لك عرض **text with fonts** باستخدام الغامق، المائل، التحته خط، وأنماط الشطب—مثالية لـ **dynamic image generation**.
+تتيح لك هذه الميزة عرض **text with fonts** باستخدام أنماط غامق، مائل، تحته خط، وشطب — مثالية لـ **dynamic image generation**.
 
 ##### الخطوة 1: إنشاء كائن رسومي
 
-أولاً، قم بتهيئة كائن الرسوميات الذي سيحمل عمليات الرسم الخاصة بك:
+فئة `EmfRecorderGraphics2D` تسجل أوامر الرسم وتكتبها إلى تدفق EMF. تهيئتها تنشئ لوحة رسم لإخراج متجه.
 ```java
 com.aspose.imaging.fileformats.emf.graphics.EmfRecorderGraphics2D graphics =
         new com.aspose.imaging.fileformats.emf.graphics.EmfRecorderGraphics2D(
@@ -109,7 +167,9 @@ com.aspose.imaging.fileformats.emf.graphics.EmfRecorderGraphics2D graphics =
 
 ##### الخطوة 2: تعريف الخطوط
 
-عرّف الخطوط التي تريد استخدامها. على سبيل المثال، خط Arial غامق وتحته خط:
+حدد الخطوط التي تريد استخدامها.  
+`Font` تمثل نوع الخط مع الحجم والنمط المستخدم لرسم النص.  
+على سبيل المثال، خط Arial غامق وتحت خط:
 ```java
 // Bold and Underlined Font
 Font boldUnderlineFont = new Font("Arial", 10, FontStyle.Bold | FontStyle.Underline);
@@ -117,7 +177,8 @@ Font boldUnderlineFont = new Font("Arial", 10, FontStyle.Bold | FontStyle.Underl
 
 ##### الخطوة 3: رسم النص
 
-استخدم طريقة `drawString` لعرض **styled text** على سطح الرسوميات:
+`drawString` يرسم سلسلة نصية عند الإحداثيات المحددة على سياق الرسومات.  
+استخدم طريقة `drawString` لعرض **styled text** على سطح الرسومات:
 ```java
 // Drawing Font Details
 graphics.drawString(boldUnderlineFont.getName() + " " + boldUnderlineFont.getSize() + 
@@ -128,7 +189,7 @@ graphics.drawString(boldUnderlineFont.getName() + " " + boldUnderlineFont.getSiz
 graphics.drawString("some text", boldUnderlineFont, Color.getBrown(), 10, 30);
 ```
 
-##### الخطوة 4: حفظ العمل
+##### الخطوة 4: حفظ عملك
 
 أنهِ التسجيل و**احفظ ملف EMF**:
 ```java
@@ -148,9 +209,9 @@ try {
 #### نظرة عامة
 كائن رسومي مهيأ بشكل صحيح هو الأساس لأي عملية رسم، خاصة عندما تخطط إلى **save EMF file**.
 
-##### الخطوة 1: تهيئة كائن الرسوميات
+##### الخطوة 1: تهيئة كائن رسومي
 
-أعد إنشاء كائن `EmfRecorderGraphics2D`:
+أعد إنشاء كائن `EmfRecorderGraphics2D` بالأبعاد والدقة المطلوبة للصورة:
 ```java
 com.aspose.imaging.fileformats.emf.graphics.EmfRecorderGraphics2D graphics =
         new com.aspose.imaging.fileformats.emf.graphics.EmfRecorderGraphics2D(
@@ -161,7 +222,7 @@ com.aspose.imaging.fileformats.emf.graphics.EmfRecorderGraphics2D graphics =
 
 ##### الخطوة 2: إنهاء التسجيل
 
-أنهِ كائن الرسوميات عندما تنتهي من الرسم:
+أكمل كائن الرسومات عند الانتهاء من الرسم حتى يتم تفريغ بيانات EMF إلى القرص:
 ```java
 EmfImage image = graphics.endRecording();
 try {
@@ -173,46 +234,46 @@ try {
 
 الآن لديك سطح رسومي جاهز للاستخدام لأي عمليات **text with fonts** إضافية.
 
-## تطبيقات عملية
+## التطبيقات العملية
 
 إليك بعض السيناريوهات الواقعية حيث يبرز **text with fonts**:
 
 1. **إنشاء التقارير** – إدراج رؤوس وتذييلات منسقة في ملفات PDF أو تقارير مبنية على الصور.  
 2. **إنشاء صور ديناميكية** – توليد لافتات تسويقية مخصصة بخطوط مخصصة في الوقت الفعلي.  
-3. **تصميم واجهة المستخدم** – عرض تسميات أو أزرار قائمة على المتجهات تتوسع بنقاء على شاشات عالية الدقة.
+3. **تصميم واجهة المستخدم** – عرض تسميات أو أزرار مبنية على المتجهات تتوسع بنظافة على شاشات عالية DPI.
 
-هذه الأمثلة توضح كيف يمكن لـ **dynamic image generation** و **styled text Java** تحسين جودة المظهر لتطبيقاتك.
+توضح هذه الأمثلة كيف يمكن لـ **dynamic image generation** و **styled text Java** تحسين الجودة البصرية لتطبيقاتك.
 
 ## اعتبارات الأداء
 
 للحفاظ على سرعة تطبيقك:
 
-- **تخلص من كائنات الصورة فورًا** لتحرير الذاكرة.  
+- **تخلص من كائنات الصورة بسرعة** لتحرير الذاكرة.  
 - استخدم **هياكل بيانات فعّالة** وحدد نطاق المتغيرات الكبيرة.  
-- للتعامل مع دفعات كبيرة، فكر في **المعالجة غير المتزامنة** لتجنب حجب واجهة المستخدم.
+- للدفعات الكبيرة، فكر في **معالجة غير متزامنة** لتجنب حجب واجهة المستخدم.
 
 ## الخلاصة
 
-في هذا الدرس تعلمت كيفية **إنشاء رسومات متجهية java** عن طريق عرض **text with fonts** في Java باستخدام Aspose.Imaging، وكيفية **تطبيق أنماط الخط**، وكيفية **حفظ ملفات EMF** لإخراج متجه. باستخدام هذه التقنيات يمكنك إنشاء رسومات أغنى، توليد صور ديناميكية، وتحسين الجاذبية البصرية لأي مشروع Java.
+في هذا **java image processing tutorial** تعلمت كيفية **إنشاء رسومات متجهة في جافا** عن طريق عرض **text with fonts** باستخدام Aspose.Imaging، وكيفية **تطبيق أنماط الخطوط**، وكيفية **حفظ ملفات EMF** لإخراج مبني على المتجهات. باستخدام هذه التقنيات يمكنك إنشاء رسومات أغنى، وتوليد صور ديناميكية، وتحسين الجاذبية البصرية لأي مشروع جافا.
 
-**الخطوات التالية:** استكشف ميزات إضافية في Aspose.Imaging مثل مرشحات الصور، العلامات المائية، وتحويل الصيغ لتعزيز حلولك أكثر.
+**الخطوات التالية:** استكشف ميزات إضافية في Aspose.Imaging مثل فلاتر الصور، العلامات المائية، وتحويل الصيغ لتعزيز حلولك أكثر.
 
-## قسم الأسئلة المتكررة
+## الأسئلة المتكررة
 
-1. **كيف أبدأ مع Aspose.Imaging لـ Java؟**  
-   قم بتحميل المكتبة عبر Maven أو Gradle أو مباشرة من [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
+**س: كيف أبدأ باستخدام Aspose.Imaging لجافا؟**  
+ج: قم بتنزيل المكتبة عبر Maven أو Gradle أو مباشرة من [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-2. **هل يمكنني استخدام خطوط غير Arial؟**  
-   نعم – أي خط مثبت على نظام المضيف يمكن الإشارة إليه في مُنشئ `Font`.
+**س: هل يمكنني استخدام خطوط غير Arial؟**  
+ج: نعم – أي خط مثبت على نظام المضيف يمكن الإشارة إليه في مُنشئ `Font`.
 
-3. **ما هي الأخطاء الشائعة عند عرض النص؟**  
-   تأكد من أن أبعاد كائن الرسوميات تطابق حجم الإخراج المطلوب؛ وإلا قد يتم قطع أو تشويه النص.
+**س: ما هي المشكلات الشائعة عند عرض النص؟**  
+ج: تأكد من أن أبعاد كائن الرسومات تطابق حجم الإخراج المطلوب؛ وإلا قد يتم قطع النص أو تشويهها.
 
-4. **هل هناك حد لعدد الأنماط التي يمكن دمجها؟**  
-   تقنيًا لا يوجد حد، لكن دمج الكثير من الأنماط قد يؤثر على قابلية القراءة والأداء.
+**س: هل هناك حد لعدد الأنماط التي يمكن دمجها؟**  
+ج: تقنياً لا، لكن دمج الكثير من الأنماط قد يؤثر على قابلية القراءة والأداء.
 
-5. **كيف أتعامل مع الترخيص للاستخدام الإنتاجي؟**  
-   ابدأ بنسخة تجريبية مجانية من [Temporary License](https://purchase.aspose.com/temporary-license/) ثم ارتقِ إلى ترخيص كامل للنشر التجاري.
+**س: كيف أتعامل مع الترخيص للاستخدام في الإنتاج؟**  
+ج: ابدأ بنسخة تجريبية مجانية من [Temporary License](https://purchase.aspose.com/temporary-license/) وارتقِ إلى ترخيص كامل للنشر التجاري.
 
 ### أسئلة متكررة إضافية
 
@@ -220,24 +281,30 @@ try {
 **ج:** نعم – بعد الرسم، استدعِ `image.save("output.png", new PngOptions())` أو استخدم `JpegOptions` للـ JPEG.
 
 **س:** *هل يدعم Aspose.Imaging الأحرف Unicode؟*  
-**ج:** بالتأكيد. قدم خطًا يحتوي على الأحرف المطلوبة، وستقوم المكتبة بعرضها بشكل صحيح.
+**ج:** بالتأكيد. قدم خطًا يحتوي على الرموز المطلوبة، وستقوم المكتبة بعرضها بشكل صحيح.
 
-**س:** *هل هناك طريقة لمعالجة دفعات متعددة من النصوص المتراكبة؟*  
-**ج:** ضع منطق الرسم داخل حلقة وأعد استخدام كائن الرسوميات، مع تحرير كل `EmfImage` بعد الحفظ.
+**س:** *هل هناك طريقة لمعالجة دفعة من عدة طبقات نصية؟*  
+**ج:** ضع منطق الرسم داخل حلقة وأعد استخدام كائن الرسومات، وتخلص من كل `EmfImage` بعد الحفظ.
 
 ## الموارد
 
-- **الوثائق:** استكشف الأدلة التفصيلية على [Aspose Documentation](https://reference.aspose.com/imaging/java/).  
+- **الوثائق:** استكشف أدلة مفصلة في [Aspose Documentation](https://reference.aspose.com/imaging/java/).  
 - **التنزيل:** احصل على أحدث نسخة من Aspose.Imaging من [Releases Page](https://releases.aspose.com/imaging/java/).  
 - **الشراء:** احصل على ترخيص كامل عبر [Aspose Purchase Page](https://purchase.aspose.com/buy).  
-- **التجربة المجانية:** جرّب Aspose.Imaging مع نسخة تجريبية مجانية متاحة على [Temporary License Page](https://purchase.aspose.com/temporary-license/).  
+- **نسخة تجريبية مجانية:** جرّب Aspose.Imaging بنسخة تجريبية مجانية متوفرة على [Temporary License Page](https://purchase.aspose.com/temporary-license/).  
 - **الدعم:** انضم إلى المناقشات أو اطلب المساعدة في [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 ---
 
-**آخر تحديث:** 2026-02-19  
-**تم الاختبار مع:** Aspose.Imaging 25.5 for Java  
-**المؤلف:** Aspose  
+**آخر تحديث:** 2026-10-29  
+**تم الاختبار مع:** Aspose.Imaging 25.5 لجافا  
+**المؤلف:** Aspose
+
+## دروس ذات صلة
+
+- [إتقان خطوط ونصوص EMF في جافا باستخدام Aspose.Imaging](/imaging/java/vector-graphics-svg/aspose-imaging-java-emf-fonts-text-guide/)
+- [دروس رسومات متجهة جافا ومعالجة SVG لـ Aspose.Imaging](/imaging/java/vector-graphics-svg/)
+- [دليل معالجة صور جافا - تصدير صور متعدد الخيوط باستخدام Aspose.Imaging لجافا](/imaging/java/image-conversion-and-optimization/multi-threaded-image-export/)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

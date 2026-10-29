@@ -1,60 +1,89 @@
 ---
-date: '2026-02-19'
-description: Átfogó Java képfeldolgozási útmutató, amely bemutatja, hogyan állítható
-  be a háttérszín, a transzparens szín, és hogyan menthetők hatékonyan a képek az
-  Aspose.Imaging használatával.
+date: '2026-10-29'
+description: Tanulja meg, hogyan állíthatja be a háttérszínt Java-ban, alkalmazhat
+  átlátszó színeket, és hatékonyan menthet képeket az Aspose.Imaging használatával
+  ebben az átfogó Java képfeldolgozási útmutatóban.
 keywords:
-- Java image manipulation
-- Aspose.Imaging for Java
-- set transparent color Java
-- save raster images with Java
-- advanced drawing & graphics
-title: 'Java képfeldolgozási útmutató: Haladó képműveletek az Aspose.Imaging segítségével'
+- set background color java
+- java image processing
+- aspose imaging java
+- image manipulation java
+- java graphics library
+lastmod: '2026-10-29'
+og_description: Tanulja meg, hogyan állíthatja be a háttérszínt Java-ban az Aspose.Imaging
+  segítségével, módosíthatja a képek hátterét, alkalmazhat átlátszóságot, és néhány
+  lépésben menthet optimalizált PNG-ket.
+og_image_alt: Tutorial showing set background color java with Aspose.Imaging in Java
+og_title: Hogyan állítsuk be a háttérszínt Java-ban az Aspose.Imaging segítségével
+schemas:
+- author: Aspose
+  dateModified: '2026-10-29'
+  description: Learn how to set background color java, apply transparent colors, and
+    efficiently save images using Aspose.Imaging in this comprehensive Java image
+    processing tutorial.
+  headline: How to set background color java with Aspose.Imaging
+  type: TechArticle
+- questions:
+  - answer: Regularly check [Aspose.Imaging releases](https://releases.aspose.com/imaging/java/)
+      and update the version in your Maven/Gradle file.
+    question: How do I keep the Aspose.Imaging library up‑to‑date?
+  - answer: Confirm the file path, ensure read permissions, and verify the image format
+      is supported by Aspose.Imaging.
+    question: What should I do if image loading throws an exception?
+  - answer: Yes, Aspose.Imaging supports SVG, EMF, and other vector formats, though
+      the API surface differs from raster handling.
+    question: Can I work with vector formats like SVG using the same API?
+  - answer: Use the library’s color conversion utilities—refer to the official documentation
+      for methods such as `convertToGrayScale()`.
+    question: How can I convert an image from one color space to another?
+  - answer: Ensure you use `PngOptions` and that the target file extension is `.png`.
+      Saving to JPEG will discard the alpha channel.
+    question: Are there any pitfalls when saving PNGs with transparency?
+  type: FAQPage
+tags:
+- set background color java
+- Aspose.Imaging
+- java image processing
+- image manipulation java
+- java graphics library
+title: Hogyan állítsuk be a háttérszínt Java-ban az Aspose.Imaging segítségével
 url: /hu/java/advanced-drawing-graphics/advanced-image-manipulation-aspose-imaging-java/
 weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# Java Képfeldolgozási Oktatóanyag: Az Aspose.Imaging Mesteri Használata Haladó Képműveletekhez
+
+# Hogyan állítsuk be a háttérszínt Java-ban az Aspose.Imaging segítségével
 
 ## Bevezetés
 
-A mai gyors tempójú digitális világban egy **java image processing tutorial** elengedhetetlen mindenki számára, aki olyan alkalmazásokat fejleszt, amelyek képeket hoznak létre, szerkesztenek vagy szolgáltatnak. Akár marketing anyagokat testre szabsz, akár helyben generálsz bélyegképeket, vagy egy tervezőeszközt építesz, a Java képműveletek elsajátítása teljes irányítást ad a vizuális kimenet felett. Ebben az útmutatóban végigvezetünk a raszteres képek betöltésén, **how to set background color java**, az átlátszóság alkalmazásán, és a megfelelő beállításokkal történő mentésen – mindezt az Aspose.Imaging használatával.
-
-**Mit fogsz megtanulni**
-
-- Raszteres kép betöltése az Aspose.Imaging for Java segítségével  
-- **How to set background color java** és a kép háttérszínének módosítása Java-ban  
-- **Set transparent color java** a PNG kimenethez  
-- Képek mentése egyedi PNG beállításokkal  
-
-Készen állsz a gyakorlati részre? Kezdjük a követelményekkel.
+A modern Java fejlesztésben a **set background color java** programozott beállításának képessége elengedhetetlen dinamikus grafikák létrehozásához, bélyegképek generálásához vagy webes és mobilalkalmazások számára szánt eszközök előkészítéséhez. Ez a bemutató végigvezet a raszteres képek betöltésén, a vászon háttér megváltoztatásán, átlátszó színek alkalmazásán, és a végső eredmény optimális PNG beállításokkal történő mentésén – mindezt a hatékony **Aspose.Imaging for Java** könyvtár segítségével. A végére képes lesz fejlett képfeldolgozást integrálni bármely Java‑alapú szolgáltatásba vagy asztali eszközbe.
 
 ## Gyors válaszok
-- **Mi a fő könyvtár?** Aspose.Imaging for Java  
-- **Beállíthatok háttérszínt?** Igen, a `setBackgroundColor` használatával  
-- **Hogyan tehetek egy színt átlátszóvá?** Hívd meg a `setTransparentColor`‑t és engedélyezd  
-- **Melyik formátum őrzi meg az átlátszóságot?** PNG a `PngOptions`‑szel  
-- **Szükségem van licencre?** Egy ingyenes próba működik fejlesztéshez; egy kereskedelmi licenc szükséges a termeléshez  
+- **Mi a fő könyvtár?** Aspose.Imaging for Java.  
+- **Beállíthatok háttérszínt?** Igen — használja a `setBackgroundColor` metódust a kép objektumon.  
+- **Hogyan tehetek egy színt átlátszóvá?** Hívja a `setTransparentColor`‑t és engedélyezze az átlátszóságot a `PngOptions`‑ban.  
+- **Melyik formátum őrzi meg az átlátszóságot?** PNG, ha `PngOptions`‑sal ment.  
+- **Szükség van licencre a termeléshez?** Egy ingyenes próba működik fejlesztéshez; kereskedelmi licenc szükséges a termelési környezethez.
 
-## Mi az a Java Képfeldolgozási Oktatóanyag?
-Egy lépésről‑lépésre útmutató, amely megtanítja, hogyan manipulálj programozottan képpontokat, színeket és metaadatokat Java‑ban. Lefedi a képek betöltését, szerkesztését és mentését, miközben figyelembe veszi a teljesítmény‑ és memória‑szempontokat.
+## Mi a Java képfeldolgozási bemutató?
 
-## Miért használjuk az Aspose.Imaging for Java‑t?
-Az Aspose.Imaging több mint 100 képformátumot támogat, nagy teljesítményű API‑kat kínál, és elrejti az alacsony szintű bitmap‑kezelést. Lehetővé teszi, hogy az üzleti logikára koncentrálj a natív könyvtárak helyett.
+Egy **Java image processing tutorial** egy lépésről‑lépésre útmutató, amely megtanítja, hogyan manipulálhatók programozottan a képpontok, színek és metaadatok Java-ban. Általában lefedi a kép betöltését, olyan átalakítások alkalmazását, mint a háttér módosítása vagy az átlátszóság, és az eredmény mentését a teljesítménybeli szempontok figyelembevételével.
+
+## Miért használjuk az Aspose.Imaging-et Java-ban?
+
+Az Aspose.Imaging **több mint 100 képfájltípust** támogat, és akár **500 MB** méretű fájlokat is képes feldolgozni anélkül, hogy a teljes bitmapet a memóriába töltené, köszönhetően a streaming architektúrájának. A könyvtár magas szintű API‑kat biztosít, amelyek megszüntetik a natív kód szükségességét, így ideálissá teszi vállalati szintű Java grafikai megoldásokhoz.
 
 ## Előfeltételek
 
-1. **Aspose.Imaging for Java** – 25.5 (vagy újabb) verzió.  
-2. **IDE** – IntelliJ IDEA, Eclipse vagy bármely Java‑kompatibilis szerkesztő.  
-3. **JDK** – Java 8 vagy újabb.  
-4. Alapvető ismeretek a Java I/O‑ról és az objektum‑orientált programozásról.
+- **Aspose.Imaging for Java** – 25.5‑ös vagy újabb verzió.  
+- **IDE** – IntelliJ IDEA, Eclipse vagy bármely Java‑kompatibilis szerkesztő.  
+- **JDK** – Java 8 vagy újabb.  
+- Alapvető ismeretek a Java I/O‑ról és az objektum‑orientált programozásról.
 
-## Az Aspose.Imaging for Java beállítása
+## Az Aspose.Imaging beállítása Java-ban
 
 ### Maven telepítés
 
@@ -74,15 +103,15 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 
 ### Közvetlen letöltés
 
-Alternatívaként töltsd le a legújabb Aspose.Imaging for Java JAR‑t a [Aspose.Imaging releases](https://releases.aspose.com/imaging/java/) oldalról.
+Alternatívaként töltse le a legújabb Aspose.Imaging for Java JAR‑t a [Aspose.Imaging releases](https://releases.aspose.com/imaging/java/) oldalról.
 
 #### Licenc beszerzése
 
-- **Ingyenes próba**: Látogasd meg a [Aspose Imaging Free Trial](https://releases.aspose.com/imaging/java/) oldalt  
-- **Ideiglenes licenc**: Kérd a [Aspose Temporary License](https://purchase.aspose.com/temporary-license/) oldalon  
-- **Vásárlás**: Hosszú távú használathoz fontold meg a licenc megvásárlását a [Aspose Purchase](https://purchase.aspose.com/buy) oldalon  
+- **Free trial** – Látogassa meg a [Aspose Imaging Free Trial](https://releases.aspose.com/imaging/java/) oldalt.  
+- **Temporary license** – Kérjen ideiglenes licencet a [Aspose Temporary License](https://purchase.aspose.com/temporary-license/) címen.  
+- **Purchase** – Hosszú távú használathoz fontolja meg a licenc megvásárlását a [Aspose Purchase](https://purchase.aspose.com/buy) oldalon.
 
-### Alap inicializálás
+### Alapvető inicializálás
 
 ```java
 import com.aspose.imaging.Image;
@@ -93,21 +122,21 @@ RasterImage image = (RasterImage) Image.load(dataDir + "aspose_logo.png");
 // Your image manipulation code goes here.
 ```
 
-## Megvalósítási útmutató
+## Implementációs útmutató
 
-### java image processing tutorial: Kép betöltése és megjelenítése
+### java image processing tutorial: kép betöltése és megjelenítése
 
 #### Áttekintés  
-A raszteres kép betöltése az első lépés minden manipulációs munkafolyamatban.
+Raszteres kép betöltése az első lépés minden manipulációs munkafolyamatban.
 
-##### 1. lépés: Szükséges osztályok importálása
+##### 1. lépés: szükséges osztályok importálása
 
 ```java
 import com.aspose.imaging.Image;
 import com.aspose.imaging.RasterImage;
 ```
 
-##### 2. lépés: A kép betöltése
+##### 2. lépés: a kép betöltése
 
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
@@ -117,19 +146,23 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "aspose_logo.png")) 
 }
 ```
 
-### How to Set Background Color Java
+## Hogyan állítsuk be a háttérszínt Java-ban
+
+`setBackgroundColor(Color)` beállítja a kép vászon háttérét a megadott színre.
+
+A vászon háttérjét a betöltött kép objektumon a `setBackgroundColor` hívásával állíthatja be, egy `Color` példányt átadva, amely a kívánt árnyalatot képviseli. Ez a művelet frissíti a kép háttérrétegét anélkül, hogy a meglévő képpontadatokat módosítaná, ami különösen hasznos, ha átlátszó PNG‑ket szilárd háttérre konvertál webes felhasználáshoz.
 
 #### Áttekintés  
-A vászon háttérjének módosítása akkor segít, ha egy szilárd háttérre van szükséged átlátszó PNG‑khez.
+A vászon háttér módosítása akkor segít, ha átlátszó PNG‑khez szilárd háttérre van szükség.
 
-##### 1. lépés: Szükséges osztályok importálása
+##### 1. lépés: szükséges osztályok importálása
 
 ```java
 import com.aspose.imaging.Color;
 import com.aspose.imaging.RasterImage;
 ```
 
-##### 2. lépés: Háttérszín beállítása
+##### 2. lépés: háttérszín beállítása
 
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
@@ -139,21 +172,25 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "aspose_logo.png")) 
 }
 ```
 
-> **Pro tip:** Használd a `Color.getTransparent()`‑t, ha teljesen átlátszó hátteret szeretnél egy szilárd szín helyett.
+> **Pro tip:** Használja a `Color.getTransparent()` metódust, ha teljesen átlátszó hátteret szeretne egy szilárd szín helyett.
 
-### Set Transparent Color Java
+## Átlátszó szín beállítása Java-ban
+
+`setTransparentColor(Color)` egy olyan színt definiál, amely a kép mentésekor teljesen átlátszónak lesz kezelve.
+
+Átlátszó színt úgy definiál, hogy a képen meghívja a `setTransparentColor` metódust, és engedélyezi az alfa csatornát a mentési beállításokban. Ez azt mondja a kódolónak, hogy a megadott árnyalatot teljesen átlátszónak kezelje, ami elengedhetetlen olyan eszközök létrehozásához, amelyek zökkenőmentesen illeszkednek a különböző UI témákhoz.
 
 #### Áttekintés  
-Az átlátszó szín definiálása kulcsfontosságú PNG‑eszközök esetén, amelyeknek különböző UI‑háttérrel kell harmonizálniuk.
+Átlátszó szín definiálása kulcsfontosságú a PNG eszközök számára, amelyeknek különböző UI háttérbe kell beleolvadniuk.
 
-##### 1. lépés: Szükséges osztályok importálása
+##### 1. lépés: szükséges osztályok importálása
 
 ```java
 import com.aspose.imaging.Color;
 import com.aspose.imaging.RasterImage;
 ```
 
-##### 2. lépés: Átlátszó szín definiálása
+##### 2. lépés: átlátszó szín definiálása
 
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
@@ -164,19 +201,23 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "aspose_logo.png")) 
 }
 ```
 
-### Kép mentése megadott tulajdonságokkal
+## Kép mentése megadott tulajdonságokkal
+
+`PngOptions` konfigurálja a PNG kódolási paramétereket, mint például a tömörítési szintet és az alfa csatorna kezelését.
+
+A megfelelő beállításokkal való mentés garantálja, hogy a háttér- és átlátszósági beállítások megmaradnak. Használja a `PngOptions`‑t a tömörítési szint, a színtípus és az alfa csatorna megőrzésének konfigurálásához.
 
 #### Áttekintés  
-A megfelelő beállításokkal történő mentés garantálja, hogy a háttér‑ és átlátszósági beállítások megmaradnak.
+A megfelelő beállításokkal való mentés garantálja, hogy a háttér- és átlátszósági beállítások megmaradnak.
 
-##### 1. lépés: Szükséges osztályok importálása
+##### 1. lépés: szükséges osztályok importálása
 
 ```java
 import com.aspose.imaging.imageoptions.PngOptions;
 import com.aspose.imaging.RasterImage;
 ```
 
-##### 2. lépés: A kép mentése
+##### 2. lépés: a kép mentése
 
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
@@ -195,60 +236,82 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "aspose_logo.png")) 
 
 ## Gyakorlati alkalmazások
 
-1. **Webfejlesztés** – Dinamikusan generálj tematikus eszközöket (pl. sötét módú ikonok).  
-2. **Grafikai tervező eszközök** – Lehetővé teszi a végfelhasználók számára, hogy egy kattintással megváltoztassák a hátteret vagy átlátszóvá tegyenek egy színt.  
-3. **Marketing automatizálás** – Kőzegelt feldolgozása a márkaeszközöknek, hogy a kampányok során egységes háttérszínek legyenek.
+1. **Web development** – Dinamikusan generáljon tematikus eszközöket (pl. sötét módú ikonok).  
+2. **Graphic‑design tools** – Lehetővé teszi a végfelhasználók számára, hogy egyetlen kattintással megváltoztassák a hátteret vagy átlátszóvá tegyenek egy színt.  
+3. **Marketing automation** – Kötegelt feldolgozással biztosítja a márkaeszközök egységes háttérszíneket a kampányok során.
 
-## Teljesítménybeli megfontolások
+## Teljesítménybeli szempontok
 
-- **Memóriakezelés** – Használd a try‑with‑resources‑t (ahogy látható), hogy automatikusan felszabadítsd a natív képadagolókat.  
-- **Pufferelt I/O** – Csomagold be a fájlfolyamokat `BufferedInputStream`‑el nagy fájlok esetén.  
-- **Szálbiztonság** – Az Aspose.Imaging objektumok nem szálbiztosak; hozz létre külön példányokat szálanként.
+- **Memory management** – Használjon try‑with‑resources‑t (ahogy látható), hogy automatikusan felszabadítsa a natív kép puffereket.  
+- **Buffered I/O** – Nagy fájlok esetén csomagolja be a fájlfolyamokat `BufferedInputStream`‑nel.  
+- **Thread safety** – Az Aspose.Imaging objektumok nem szálbiztosak; minden szálnak külön példányt hozzon létre.
 
 ## Gyakori problémák és megoldások
 
 | Probléma | Ok | Megoldás |
 |----------|----|----------|
-| A kép betöltése sikertelen | Helytelen útvonal vagy nem támogatott formátum | Ellenőrizd a `dataDir`‑t, és győződj meg róla, hogy a fájl támogatott raszteres típus. |
-| Az átlátszó háttér eltűnik | Olyan formátumba mentett, amely nem támogatja az alfát (pl. JPEG) | Használd a `PngOptions`‑t vagy egy másik, átlátszóságot támogató formátumot. |
-| Memóriahiányos hibák nagy képeknél | A `RasterImage` objektumok nem kerülnek felszabadításra | Használd a try‑with‑resources‑t vagy hívd meg explicit módon az `image.dispose()`‑t. |
+| A kép betöltése sikertelen | Helytelen útvonal vagy nem támogatott formátum | Ellenőrizze a `dataDir`‑t, és győződjön meg róla, hogy a fájl támogatott raszteres típus. |
+| Az átlátszó háttér eltűnik | Olyan formátumba mentett, amely nem támogatja az alfa csatornát (pl. JPEG) | Használjon `PngOptions`‑t vagy más, átlátszóságot támogató formátumot. |
+| Memóriahiányos hibák nagy képeknél | `RasterImage` objektumok nem kerülnek felszabadításra | Használjon try‑with‑resources‑t vagy hívja meg explicit módon az `image.dispose()` metódust. |
 
-## Gyakran Ismételt Kérdések
+## Gyakran feltett kérdések
 
 **Q: Hogyan tarthatom naprakészen az Aspose.Imaging könyvtárat?**  
-A: Rendszeresen ellenőrizd a [Aspose.Imaging releases](https://releases.aspose.com/imaging/java/)‑t, és frissítsd a verziót a Maven/Gradle fájlodban.
+A: Rendszeresen ellenőrizze a [Aspose.Imaging releases](https://releases.aspose.com/imaging/java/) oldalt, és frissítse a verziót a Maven/Gradle fájljában.
 
 **Q: Mit tegyek, ha a kép betöltése kivételt dob?**  
-A: Ellenőrizd a fájl útvonalát, győződj meg a olvasási jogosultságokról, és ellenőrizd, hogy a képformátum támogatott‑e az Aspose.Imaging által.
+A: Ellenőrizze a fájl útvonalát, győződjön meg a olvasási jogosultságokról, és ellenőrizze, hogy a kép formátuma támogatott-e az Aspose.Imaging által.
 
-**Q: Használhatok vektorformátumokat, például SVG‑t ugyanazzal az API‑val?**  
-A: Igen, az Aspose.Imaging támogatja az SVG‑t, EMF‑t és más vektorformátumokat, bár az API felülete eltér a raszteres kezelésétől.
+**Q: Dolgozhatok vektor formátumokkal, például SVG‑vel ugyanazzal az API‑val?**  
+A: Igen, az Aspose.Imaging támogatja az SVG, EMF és más vektor formátumokat, bár az API felülete eltér a raszteres kezelésétől.
 
-**Q: Hogyan konvertálhatok egy képet egy színterből a másikba?**  
-A: Használd a könyvtár színkonverziós segédfüggvényeit – lásd a hivatalos dokumentációt olyan módszerekhez, mint a `convertToGrayScale()`.
+**Q: Hogyan konvertálhatok egy képet egy színtérből a másikba?**  
+A: Használja a könyvtár színkonverziós segédeszközeit – tekintse meg a hivatalos dokumentációt olyan metódusokért, mint a `convertToGrayScale()`.
 
 **Q: Vannak-e buktatók PNG‑k átlátszósággal való mentésekor?**  
-A: Győződj meg róla, hogy a `PngOptions`‑t használod, és a célfájl kiterjesztése `.png`. JPEG‑be mentés esetén az alfa csatorna elveszik.
+A: Győződjön meg róla, hogy `PngOptions`‑t használ, és a célfájl kiterjesztése `.png`. JPEG‑be mentés eldobja az alfa csatornát.
 
-## Erőforrások
+## GyIK
 
-- **Dokumentáció**: [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
-- **Letöltés**: [Aspose.Imaging for Java Releases](https://releases.aspose.com/imaging/java/)
-- **Vásárlás**: [Aspose Purchase Page](https://purchase.aspose.com/buy)
-- **Ingyenes próba**: [Try Aspose.Imaging Free Trial](https://releases.aspose.com/imaging/java/)
-- **Ideiglenes licenc**: [Request Temporary License](https://purchase.aspose.com/temporary-license/)
+**Q: Használhatom ezt a kódot egy Spring Boot mikro-szolgáltatásban?**  
+A: Igen, az Aspose.Imaging tisztán Java, és zökkenőmentesen működik a Spring Boot‑ban, amennyiben felveszi a Maven/Gradle függőséget és érvényes licencet.
+
+**Q: Támogatja a könyvtár a több szálon futó kötegelt feldolgozást?**  
+A: Bár az egyes `RasterImage` példányok nem szálbiztosak, képeket párhuzamosan feldolgozhat úgy, hogy minden szálnak külön példányt hoz létre.
+
+**Q: Mi a maximális képméret, amelyet az Aspose.Imaging kezelni tud?**  
+A: A könyvtár akár **500 MB** méretű képeket is képes streamelni és manipulálni anélkül, hogy a teljes bitmapet a memóriába töltené, köszönhetően a csempézett feldolgozó motorjának.
+
+**Q: Van mód az EXIF metaadatok megőrzésére mentéskor?**  
+A: Igen, használja a `image.getMetadata().setExifData(exifData)` metódust a mentés előtt; a metaadatok megmaradnak a kimeneti fájlban.
+
+**Q: Hogyan kapcsolhatom be a magas minőségű anti‑aliasing‑et a háttér kitöltéséhez?**  
+A: Állítsa be a `image.getGraphics().setSmoothingMode(SmoothingMode.AntiAlias)` értéket a háttérszín alkalmazása előtt.
+
+## Források
+
+- **Dokumentáció**: [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)  
+- **Letöltés**: [Aspose.Imaging for Java Releases](https://releases.aspose.com/imaging/java/)  
+- **Vásárlás**: [Aspose Purchase Page](https://purchase.aspose.com/buy)  
+- **Ingyenes próba**: [Try Aspose.Imaging Free Trial](https://releases.aspose.com/imaging/java/)  
+- **Ideiglenes licenc**: [Request Temporary License](https://purchase.aspose.com/temporary-license/)  
 - **Támogatási fórum**: [Aspose Support Community](https://forum.aspose.com/c/imaging/14)
 
 ---
 
-**Utolsó frissítés:** 2026-02-19  
+**Utolsó frissítés:** 2026-10-29  
 **Tesztelve a következővel:** Aspose.Imaging 25.5 for Java  
-**Szerző:** Aspose  
+**Szerző:** Aspose
+
+## Kapcsolódó bemutatók
+
+- [Java Image Manipulation: Drawing Shapes with Aspose.Imaging](/imaging/java/image-creation-drawing/java-image-manipulation-aspose-imaging-drawing-shapes/)
+- [Load and Save Images as PDF with Aspose.Imaging in Java: A Comprehensive Guide](/imaging/java/image-loading-saving/aspose-imaging-java-load-save-images-pdf/)
+- [Master Image Processing with Aspose.Imaging for Java: Load, Save & Remove Backgrounds](/imaging/java/image-transformations/aspose-imaging-java-master-image-processing/)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}

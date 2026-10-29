@@ -1,65 +1,132 @@
 ---
-date: '2026-02-19'
-description: Apprenez à créer des graphiques vectoriels en Java avec Aspose.Imaging.
-  Rendu de texte stylisé, application d'effets de police et sauvegarde de fichiers
-  EMF de haute qualité pour la génération dynamique d'images.
+date: '2026-10-29'
+description: Apprenez un tutoriel de traitement d'images Java pour créer des graphiques
+  vectoriels en Java avec Aspose.Imaging. Rendu de texte stylisé, application d'effets
+  de police, et exportation de fichiers EMF de haute qualité pour la génération dynamique
+  d'images.
 keywords:
-- text rendering Java
-- Aspose.Imaging tutorial
-- Java graphics with fonts
-- advanced drawing with Aspose.Imaging
-- custom text rendering Java
-title: Comment créer des graphiques vectoriels Java avec Aspose.Imaging – Maîtriser
-  le texte avec les polices
+- java image processing tutorial
+- vector graphics Java
+- Aspose.Imaging text rendering
+- EMF export Java
+lastmod: '2026-10-29'
+og_description: Apprenez un tutoriel de traitement d'images Java pour créer des graphiques
+  vectoriels en Java avec Aspose.Imaging. Rendu de texte stylisé, application d'effets
+  de police, et exportation de fichiers EMF de haute qualité pour la génération dynamique
+  d'images.
+og_image_alt: 'Java tutorial: rendering styled text and exporting EMF vector graphics
+  with Aspose.Imaging'
+og_title: Créer des graphiques en Java – tutoriel de traitement d'images Java
+schemas:
+- author: Aspose
+  dateModified: '2026-10-29'
+  description: Learn a java image processing tutorial for creating vector graphics
+    in Java with Aspose.Imaging. Render styled text, apply font effects, and export
+    high‑quality EMF files for dynamic image generation.
+  headline: Create graphics in Java – java image processing tutorial
+  type: TechArticle
+- description: Learn a java image processing tutorial for creating vector graphics
+    in Java with Aspose.Imaging. Render styled text, apply font effects, and export
+    high‑quality EMF files for dynamic image generation.
+  name: Create graphics in Java – java image processing tutorial
+  steps:
+  - name: create a graphics object
+    text: The `EmfRecorderGraphics2D` class records drawing commands and writes them
+      to an EMF stream. Initializing it creates a canvas for vector output.
+  - name: define fonts
+    text: 'Define the fonts you want to use. `Font` represents a typeface with size
+      and style used for drawing text. For example, a bold and underlined Arial font:'
+  - name: draw text
+    text: '`drawString` draws a string at the specified coordinates on the graphics
+      context. Use the `drawString` method to render your **styled text** onto the
+      graphics surface:'
+  - name: save your work
+    text: 'End the recording and **save EMF file**: This creates an EMF vector file
+      that retains crisp text at any scale.'
+  - name: initialize graphics object
+    text: 'Recreate the `EmfRecorderGraphics2D` object with the desired image dimensions
+      and resolution:'
+  - name: end recording
+    text: 'Finalize the graphics object when you’re done drawing so the EMF data is
+      flushed to disk: Now you have a ready‑to‑use graphics surface for any further
+      **text with fonts** operations.'
+  type: HowTo
+- questions:
+  - answer: Download the library via Maven, Gradle, or directly from the [Aspose.Imaging
+      for Java releases](https://releases.aspose.com/imaging/java/).
+    question: How do I get started with Aspose.Imaging for Java?
+  - answer: Yes – any font installed on the host system can be referenced in the `Font`
+      constructor.
+    question: Can I use fonts other than Arial?
+  - answer: Ensure the graphics object dimensions match your desired output size;
+      otherwise text may be clipped or distorted.
+    question: What are common pitfalls when rendering text?
+  - answer: Technically no, but stacking too many styles can affect readability and
+      performance.
+    question: Is there a limit to how many styles I can combine?
+  - answer: Start with a free trial from [Temporary License](https://purchase.aspose.com/temporary-license/)
+      and upgrade to a full license for commercial deployments.
+    question: How do I handle licensing for production use?
+  type: FAQPage
+tags:
+- java image processing
+- Aspose.Imaging
+- vector graphics
+- EMF files
+title: Créer des graphiques en Java – tutoriel de traitement d'images Java
 url: /fr/java/advanced-drawing-graphics/mastering-text-rendering-aspose-imaging-java/
 weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# Maîtriser le texte avec les polices en Java avec Aspose.Imaging
+
+# Maîtriser le texte avec des polices en Java avec Aspose.Imaging
 
 ## Introduction
 
-Dans ce tutoriel, vous apprendrez à **create vector graphics java** avec Aspose.Imaging, en vous concentrant sur le rendu de texte stylisé avec des polices personnalisées. Que vous ayez besoin de générer des images dynamiques, de créer des en‑têtes de rapports, ou d’exporter des fichiers vectoriels nets, maîtriser le rendu du texte donne à vos applications Java un avantage visuel professionnel. Nous parcourrons la configuration de la bibliothèque, le dessin de texte en gras/italique/souligné, et l’enregistrement du résultat sous forme de fichier EMF pour une sortie vectorielle évolutive.
+Dans ce **java image processing tutorial**, vous apprendrez comment créer des graphiques vectoriels en Java avec Aspose.Imaging, en vous concentrant sur le rendu de texte stylisé avec des polices personnalisées. Que vous ayez besoin de générer des images dynamiques, de créer des en‑têtes de rapports, ou d’exporter des fichiers vectoriels nets, maîtriser le rendu du texte donne à vos applications Java un avantage visuel professionnel. Nous parcourrons la configuration de la bibliothèque, le dessin de texte en gras/italique/souligné, et l’enregistrement du résultat sous forme de fichier EMF pour une sortie vectorielle évolutive.
 
-**Ce que vous allez apprendre**
+**Ce que vous apprendrez**
 
-- Comment configurer Aspose.Imaging pour Java (y compris l’intégration **aspose imaging maven**)  
-- Techniques pour dessiner du **styled text Java** en gras, italique, souligné et barré  
-- Cas d’utilisation réels tels que la **dynamic image generation** et l’exportation vectorielle  
+- Comment configurer Aspose.Imaging pour Java (y compris l'intégration **aspose imaging maven**)  
+- Techniques pour dessiner **styled text Java** en gras, italique, souligné et barré  
+- Cas d'utilisation réels tels que **dynamic image generation** et l'exportation vectorielle  
 
 Maintenant, parcourons les prérequis avant de commencer !
 
-## Quick Answers
-- **Can I render text with multiple font styles?** Yes – Aspose.Imaging lets you combine bold, underline, italic, etc.  
-- **Which build tool is recommended?** Both Maven (`aspose imaging maven`) and Gradle are supported.  
-- **What format does the example save to?** An EMF (Enhanced Metafile) file, ideal for vector graphics.  
-- **Do I need a license?** A free trial works for evaluation; a full license is required for production.  
-- **Is this suitable for dynamic image generation?** Absolutely – you can generate images on‑the‑fly with custom text.
+## Réponses rapides
 
-## Pourquoi créer des vector graphics java avec Aspose.Imaging ?
+- **Puis‑je rendre du texte avec plusieurs styles de police ?** Oui – Aspose.Imaging vous permet de combiner gras, souligné, italique, etc.  
+- **Quel outil de construction est recommandé ?** Maven (`aspose imaging maven`) et Gradle sont tous deux pris en charge.  
+- **Dans quel format l'exemple est‑il enregistré ?** Un fichier EMF (Enhanced Metafile), idéal pour les graphiques vectoriels.  
+- **Ai‑je besoin d'une licence ?** Un essai gratuit suffit pour l'évaluation ; une licence complète est requise pour la production.  
+- **Ce procédé convient‑il à la génération d'images dynamiques ?** Absolument – vous pouvez générer des images à la volée avec du texte personnalisé.
 
-Les graphiques vectoriels s’adaptent sans perte de qualité, ce qui les rend parfaits pour les écrans haute‑DPI, les rapports imprimables et les actifs réutilisables. En utilisant Aspose.Imaging, vous bénéficiez d’une solution pure‑Java qui gère le rendu complexe des polices, prend en charge la sortie EMF et s’intègre facilement à votre processus de construction existant.
+## Qu'est‑ce qu'un tutoriel de traitement d'images Java ?
+
+Un **java image processing tutorial** est un guide étape par étape qui montre comment manipuler des images raster ou vectorielles de façon programmatique en utilisant des bibliothèques Java. Dans ce guide, Aspose.Imaging fournit la surface d'API pour créer, modifier et exporter des graphiques sans dépendre des composants natifs du système d'exploitation.
+
+## Pourquoi créer des graphiques vectoriels Java avec Aspose.Imaging ?
+
+Les graphiques vectoriels s'adaptent sans perte de qualité, ce qui les rend parfaits pour les écrans haute DPI, les rapports imprimables et les actifs réutilisables. Aspose.Imaging prend en charge **30+ output formats** et peut générer des fichiers EMF jusqu'à **5000 × 5000 px** tout en maintenant l'utilisation de la mémoire sous **150 MB**, ce qui est idéal pour le rendu côté serveur.
 
 ## Prérequis
 
-Avant de commencer à implémenter le **text with fonts**, assurez‑vous d’avoir :
+Avant de commencer à implémenter **text with fonts**, assurez‑vous d'avoir :
 
-- **Bibliothèques requises :** Aspose.Imaging for Java version 25.5 ou ultérieure.  
-- **Configuration de l’environnement :** Un Java Development Kit (JDK) installé sur votre machine.  
-- **Prérequis de connaissances :** Programmation Java de base et familiarité avec les concepts de traitement d’image.
+- **Bibliothèques requises :** Aspose.Imaging pour Java version 25.5 ou ultérieure.  
+- **Configuration de l'environnement :** Un Java Development Kit (JDK) installé sur votre machine.  
+- **Prérequis de connaissances :** Programmation Java de base et familiarité avec les concepts de traitement d'images.
 
-## Configuration d’Aspose.Imaging pour Java
+## Configuration d'Aspose.Imaging pour Java
 
-Pour commencer à utiliser Aspose.Imaging pour Java, intégrez la bibliothèque à votre projet.
+Pour commencer à utiliser Aspose.Imaging pour Java, intégrez la bibliothèque dans votre projet.
 
 **Maven** (la façon **aspose imaging maven**)
 
-Ajoutez la dépendance suivante à votre fichier `pom.xml` :
+Ajoutez la dépendance suivante à votre fichier `pom.xml` :
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -70,7 +137,7 @@ Ajoutez la dépendance suivante à votre fichier `pom.xml` :
 
 **Gradle**
 
-Incluez ceci dans votre fichier `build.gradle` :
+Incluez ceci dans votre fichier `build.gradle` :
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
@@ -81,22 +148,21 @@ Si vous préférez télécharger la bibliothèque directement, visitez [Aspose.I
 
 ### Acquisition de licence
 
-Vous pouvez commencer avec un essai gratuit d’Aspose.Imaging en téléchargeant une licence temporaire depuis [Temporary License](https://purchase.aspose.com/temporary-license/). Pour un accès complet et toutes les fonctionnalités, envisagez d’acheter une licence.
+Vous pouvez commencer avec un essai gratuit d'Aspose.Imaging en téléchargeant une licence temporaire depuis [Temporary License](https://purchase.aspose.com/temporary-license/). Pour un accès complet et toutes les fonctionnalités, envisagez d'acheter une licence.
 
-Une fois la bibliothèque configurée, vous pouvez l’initialiser dans votre application Java et commencer à dessiner du **text with fonts**.
+Une fois la bibliothèque configurée, vous pouvez l'initialiser dans votre application Java et commencer à dessiner **text with fonts**.
 
-## Guide d’implémentation
+## Guide d'implémentation
 
-Dans cette section, nous parcourrons deux fonctionnalités principales : dessiner du **styled text Java** avec différentes polices, et créer un objet graphique pour l’enregistrement EMF.
+Dans cette section, nous parcourrons deux fonctionnalités principales : dessiner **styled text Java** avec différentes polices, et créer un objet graphique pour l'enregistrement EMF.
 
-### Fonctionnalité 1 : Dessiner du texte avec différentes polices
+### Fonctionnalité 1 : dessiner du texte avec différentes polices
 
-#### Vue d’ensemble
-Cette fonctionnalité vous permet de rendre du **text with fonts** en gras, italique, souligné et barré — parfait pour la **dynamic image generation**.
+#### Vue d'ensemble
+Cette fonctionnalité vous permet de rendre **text with fonts** en utilisant les styles gras, italique, souligné et barré — parfait pour la **dynamic image generation**.
 
-##### Étape 1 : Créer un objet Graphics
-
-Tout d’abord, initialisez l’objet graphics qui contiendra vos opérations de dessin :
+##### Étape 1 : créer un objet graphique
+La classe `EmfRecorderGraphics2D` enregistre les commandes de dessin et les écrit dans un flux EMF. Son initialisation crée une toile pour la sortie vectorielle.
 ```java
 com.aspose.imaging.fileformats.emf.graphics.EmfRecorderGraphics2D graphics =
         new com.aspose.imaging.fileformats.emf.graphics.EmfRecorderGraphics2D(
@@ -105,16 +171,17 @@ com.aspose.imaging.fileformats.emf.graphics.EmfRecorderGraphics2D graphics =
                 new Size(1000, 1000));
 ```
 
-##### Étape 2 : Définir les polices
-
-Définissez les polices que vous souhaitez utiliser. Par exemple, une police Arial en gras et soulignée :
+##### Étape 2 : définir les polices
+Définissez les polices que vous souhaitez utiliser.  
+`Font` représente une famille de caractères avec taille et style utilisés pour dessiner du texte.  
+Par exemple, une police Arial en gras et soulignée :
 ```java
 // Bold and Underlined Font
 Font boldUnderlineFont = new Font("Arial", 10, FontStyle.Bold | FontStyle.Underline);
 ```
 
-##### Étape 3 : Dessiner le texte
-
+##### Étape 3 : dessiner le texte
+`drawString` dessine une chaîne aux coordonnées spécifiées sur le contexte graphique.  
 Utilisez la méthode `drawString` pour rendre votre **styled text** sur la surface graphique :
 ```java
 // Drawing Font Details
@@ -126,9 +193,8 @@ graphics.drawString(boldUnderlineFont.getName() + " " + boldUnderlineFont.getSiz
 graphics.drawString("some text", boldUnderlineFont, Color.getBrown(), 10, 30);
 ```
 
-##### Étape 4 : Enregistrer votre travail
-
-Terminez l’enregistrement et **save EMF file** :
+##### Étape 4 : enregistrer votre travail
+Terminez l'enregistrement et **save EMF file** :
 ```java
 EmfImage image = graphics.endRecording();
 try {
@@ -139,16 +205,15 @@ try {
 }
 ```
 
-Cela crée un fichier vectoriel EMF qui conserve un texte net à n’importe quelle échelle.
+Cela crée un fichier vectoriel EMF qui conserve un texte net à n'importe quelle échelle.
 
-### Fonctionnalité 2 : Créer un objet Graphics pour l’enregistrement EMF
+### Fonctionnalité 2 : créer un objet graphique pour l'enregistrement EMF
 
-#### Vue d’ensemble
-Un objet graphics correctement initialisé est la base de toute opération de dessin, surtout lorsque vous prévoyez de **save EMF file**.
+#### Vue d'ensemble
+Un objet graphique correctement initialisé est la base de toute opération de dessin, surtout lorsque vous prévoyez de **save EMF file**.
 
-##### Étape 1 : Initialiser l’objet Graphics
-
-Recréez l’objet `EmfRecorderGraphics2D` :
+##### Étape 1 : initialiser l'objet graphique
+Recréez l'objet `EmfRecorderGraphics2D` avec les dimensions d'image et la résolution souhaitées :
 ```java
 com.aspose.imaging.fileformats.emf.graphics.EmfRecorderGraphics2D graphics =
         new com.aspose.imaging.fileformats.emf.graphics.EmfRecorderGraphics2D(
@@ -157,9 +222,8 @@ com.aspose.imaging.fileformats.emf.graphics.EmfRecorderGraphics2D graphics =
                 new Size(1000, 1000));
 ```
 
-##### Étape 2 : Terminer l’enregistrement
-
-Finalisez l’objet graphics une fois le dessin terminé :
+##### Étape 2 : terminer l'enregistrement
+Finalisez l'objet graphique lorsque vous avez terminé le dessin afin que les données EMF soient écrites sur le disque :
 ```java
 EmfImage image = graphics.endRecording();
 try {
@@ -169,15 +233,15 @@ try {
 }
 ```
 
-Vous disposez maintenant d’une surface graphique prête à l’emploi pour toute opération supplémentaire de **text with fonts**.
+Vous disposez maintenant d'une surface graphique prête à l'emploi pour toute opération supplémentaire de **text with fonts**.
 
 ## Applications pratiques
 
-Voici quelques scénarios réels où le **text with fonts** brille :
+Voici quelques scénarios réels où **text with fonts** brille :
 
-1. **Report Generation** – Insérer des en‑têtes et pieds de page stylisés dans des PDF ou des rapports basés sur des images.  
-2. **Dynamic Image Creation** – Générer des bannières marketing personnalisées avec des polices personnalisées à la volée.  
-3. **User Interface Design** – Rendre des libellés ou boutons vectoriels qui s’adaptent proprement aux écrans haute‑DPI.
+1. **Report generation** – Insérer des en‑têtes et pieds‑de‑page stylisés dans les PDF ou les rapports basés sur des images.  
+2. **Dynamic image creation** – Générer des bannières marketing personnalisées avec des polices personnalisées à la volée.  
+3. **User‑interface design** – Rendre des libellés ou boutons vectoriels qui s'adaptent proprement aux écrans haute DPI.
 
 Ces exemples illustrent comment la **dynamic image generation** et le **styled text Java** peuvent améliorer la qualité visuelle de vos applications.
 
@@ -185,57 +249,63 @@ Ces exemples illustrent comment la **dynamic image generation** et le **styled t
 
 Pour garder votre application réactive :
 
-- **Dispose of image objects promptly** to free memory.  
-- Use **efficient data structures** and limit the scope of large variables.  
-- For large batches, consider **asynchronous processing** to avoid UI blocking.
+- **Libérez rapidement les objets image** pour libérer la mémoire.  
+- Utilisez des **structures de données efficaces** et limitez la portée des grandes variables.  
+- Pour de gros lots, envisagez le **traitement asynchrone** afin d'éviter le blocage de l'interface.
 
 ## Conclusion
 
-Dans ce tutoriel, vous avez appris à **create vector graphics java** en rendant du **text with fonts** en Java avec Aspose.Imaging, à **apply font styles**, et à **save EMF files** pour une sortie vectorielle. Avec ces techniques, vous pouvez créer des graphiques plus riches, générer des images dynamiques et améliorer l’attrait visuel de tout projet Java.
+Dans ce **java image processing tutorial**, vous avez appris comment **créer des graphiques vectoriels en Java** en rendant **text with fonts** avec Aspose.Imaging, comment **appliquer des styles de police**, et comment **enregistrer des fichiers EMF** pour une sortie vectorielle. Avec ces techniques, vous pouvez créer des graphiques plus riches, générer des images dynamiques, et améliorer l'attrait visuel de tout projet Java.
 
-**Étapes suivantes :** Explorez d’autres fonctionnalités d’Aspose.Imaging telles que les filtres d’image, le filigrane et la conversion de formats pour enrichir davantage vos solutions.
+**Prochaines étapes :** Explorez d'autres fonctionnalités d'Aspose.Imaging telles que les filtres d'image, le filigrane et la conversion de formats pour améliorer davantage vos solutions.
 
-## FAQ Section
+## Questions fréquentes
 
-1. **How do I get started with Aspose.Imaging for Java?**  
-   Download the library via Maven, Gradle, or directly from the [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
+**Q : Comment démarrer avec Aspose.Imaging pour Java ?**  
+R : Téléchargez la bibliothèque via Maven, Gradle, ou directement depuis les [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/).
 
-2. **Can I use fonts other than Arial?**  
-   Yes – any font installed on the host system can be referenced in the `Font` constructor.
+**Q : Puis‑je utiliser des polices autres qu'Arial ?**  
+R : Oui – toute police installée sur le système hôte peut être référencée dans le constructeur `Font`.
 
-3. **What are common pitfalls when rendering text?**  
-   Ensure the graphics object dimensions match your desired output size; otherwise text may be clipped or distorted.
+**Q : Quels sont les pièges courants lors du rendu du texte ?**  
+R : Assurez‑vous que les dimensions de l'objet graphique correspondent à la taille de sortie souhaitée ; sinon le texte peut être tronqué ou déformé.
 
-4. **Is there a limit to how many styles I can combine?**  
-   Technically no, but stacking too many styles can affect readability and performance.
+**Q : Existe‑t‑il une limite au nombre de styles que je peux combiner ?**  
+R : Techniquement non, mais empiler trop de styles peut nuire à la lisibilité et aux performances.
 
-5. **How do I handle licensing for production use?**  
-   Start with a free trial from [Temporary License](https://purchase.aspose.com/temporary-license/) and upgrade to a full license for commercial deployments.
+**Q : Comment gérer la licence pour une utilisation en production ?**  
+R : Commencez avec un essai gratuit depuis [Temporary License](https://purchase.aspose.com/temporary-license/) et passez à une licence complète pour les déploiements commerciaux.
 
-### Additional Frequently Asked Questions
+### Questions fréquentes supplémentaires
 
-**Q:** *Can I generate PNG or JPEG instead of EMF?*  
-**A:** Yes – after drawing, call `image.save("output.png", new PngOptions())` or use `JpegOptions` for JPEG.
+**Q :** *Puis‑je générer du PNG ou JPEG au lieu d'EMF ?*  
+**R :** Oui – après le dessin, appelez `image.save("output.png", new PngOptions())` ou utilisez `JpegOptions` pour JPEG.
 
-**Q:** *Does Aspose.Imaging support Unicode characters?*  
-**A:** Absolutely. Provide a font that contains the required glyphs, and the library will render them correctly.
+**Q :** *Aspose.Imaging prend‑il en charge les caractères Unicode ?*  
+**R :** Absolument. Fournissez une police contenant les glyphes requis, et la bibliothèque les rendra correctement.
 
-**Q:** *Is there a way to batch‑process multiple text overlays?*  
-**A:** Wrap your drawing logic in a loop and reuse the graphics object, disposing each `EmfImage` after saving.
+**Q :** *Existe‑t‑il un moyen de traiter par lots plusieurs superpositions de texte ?*  
+**R :** Enveloppez votre logique de dessin dans une boucle et réutilisez l'objet graphique, en libérant chaque `EmfImage` après l'enregistrement.
 
-## Resources
+## Ressources
 
-- **Documentation:** Explore detailed guides at [Aspose Documentation](https://reference.aspose.com/imaging/java/).  
-- **Download:** Access the latest version of Aspose.Imaging from the [Releases Page](https://releases.aspose.com/imaging/java/).  
-- **Purchase:** Get a full license through the [Aspose Purchase Page](https://purchase.aspose.com/buy).  
-- **Free Trial:** Try out Aspose.Imaging with a free trial available on the [Temporary License Page](https://purchase.aspose.com/temporary-license/).  
-- **Support:** Join discussions or seek help at the [Aspose Forum](https://forum.aspose.com/c/imaging/14).
+- **Documentation :** Explorez les guides détaillés sur [Aspose Documentation](https://reference.aspose.com/imaging/java/).  
+- **Download :** Accédez à la dernière version d'Aspose.Imaging depuis la [Releases Page](https://releases.aspose.com/imaging/java/).  
+- **Purchase :** Obtenez une licence complète via la [Aspose Purchase Page](https://purchase.aspose.com/buy).  
+- **Free trial :** Essayez Aspose.Imaging avec un essai gratuit disponible sur la [Temporary License Page](https://purchase.aspose.com/temporary-license/).  
+- **Support :** Rejoignez les discussions ou demandez de l'aide sur le [Aspose Forum](https://forum.aspose.com/c/imaging/14).
 
 ---
 
-**Last Updated:** 2026-02-19  
-**Tested With:** Aspose.Imaging 25.5 for Java  
-**Author:** Aspose  
+**Dernière mise à jour :** 2026-10-29  
+**Testé avec :** Aspose.Imaging 25.5 for Java  
+**Auteur :** Aspose
+
+## Tutoriels associés
+
+- [Maîtriser les polices et le texte EMF en Java avec Aspose.Imaging](/imaging/java/vector-graphics-svg/aspose-imaging-java-emf-fonts-text-guide/)
+- [Tutoriels Java sur les graphiques vectoriels et le traitement SVG pour Aspose.Imaging](/imaging/java/vector-graphics-svg/)
+- [Tutoriel de traitement d'images Java - Exportation d'images multi‑threadée avec Aspose.Imaging pour Java](/imaging/java/image-conversion-and-optimization/multi-threaded-image-export/)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 

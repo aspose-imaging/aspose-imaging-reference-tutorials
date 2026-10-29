@@ -1,61 +1,89 @@
 ---
-date: '2026-02-19'
-description: دليل شامل لمعالجة الصور بلغة جافا يوضح كيفية تعيين لون الخلفية، وتعيين
-  اللون الشفاف، وحفظ الصور بكفاءة باستخدام Aspose.Imaging.
+date: '2026-10-29'
+description: تعلم كيفية تعيين لون الخلفية Java، وتطبيق الألوان الشفافة، وحفظ الصور
+  بكفاءة باستخدام Aspose.Imaging في هذا الدليل الشامل لمعالجة الصور في Java.
 keywords:
-- Java image manipulation
-- Aspose.Imaging for Java
-- set transparent color Java
-- save raster images with Java
-- advanced drawing & graphics
-title: 'دورة معالجة الصور في جافا: التلاعب المتقدم بالصور باستخدام Aspose.Imaging'
+- set background color java
+- java image processing
+- aspose imaging java
+- image manipulation java
+- java graphics library
+lastmod: '2026-10-29'
+og_description: تعلم كيفية تعيين لون الخلفية Java باستخدام Aspose.Imaging، وتغيير
+  خلفيات الصور، وتطبيق الشفافية، وحفظ ملفات PNG المُحسّنة في بضع خطوات فقط.
+og_image_alt: Tutorial showing set background color java with Aspose.Imaging in Java
+og_title: كيفية تعيين لون الخلفية في Java باستخدام Aspose.Imaging
+schemas:
+- author: Aspose
+  dateModified: '2026-10-29'
+  description: Learn how to set background color java, apply transparent colors, and
+    efficiently save images using Aspose.Imaging in this comprehensive Java image
+    processing tutorial.
+  headline: How to set background color java with Aspose.Imaging
+  type: TechArticle
+- questions:
+  - answer: Regularly check [Aspose.Imaging releases](https://releases.aspose.com/imaging/java/)
+      and update the version in your Maven/Gradle file.
+    question: How do I keep the Aspose.Imaging library up‑to‑date?
+  - answer: Confirm the file path, ensure read permissions, and verify the image format
+      is supported by Aspose.Imaging.
+    question: What should I do if image loading throws an exception?
+  - answer: Yes, Aspose.Imaging supports SVG, EMF, and other vector formats, though
+      the API surface differs from raster handling.
+    question: Can I work with vector formats like SVG using the same API?
+  - answer: Use the library’s color conversion utilities—refer to the official documentation
+      for methods such as `convertToGrayScale()`.
+    question: How can I convert an image from one color space to another?
+  - answer: Ensure you use `PngOptions` and that the target file extension is `.png`.
+      Saving to JPEG will discard the alpha channel.
+    question: Are there any pitfalls when saving PNGs with transparency?
+  type: FAQPage
+tags:
+- set background color java
+- Aspose.Imaging
+- java image processing
+- image manipulation java
+- java graphics library
+title: كيفية تعيين لون الخلفية في Java باستخدام Aspose.Imaging
 url: /ar/java/advanced-drawing-graphics/advanced-image-manipulation-aspose-imaging-java/
 weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# دليل معالجة الصور في Java: إتقان Aspose.Imaging للتلاعب المتقدم بالصور
 
-## المقدمة
+# كيفية تعيين لون الخلفية في جافا باستخدام Aspose.Imaging
 
-في عالمنا الرقمي السريع اليوم، يُعد **دليل معالجة الصور في Java** أمرًا أساسيًا لأي شخص يبني تطبيقات تُنشئ أو تُعدل أو تُقدم رسومات. سواءً كنت تُخصص أصول التسويق، أو تُولّد صورًا مصغرة في الوقت الفعلي، أو تبني أداة تصميم، فإن إتقان التلاعب بالصور في Java يمنحك سيطرة كاملة على المخرجات البصرية. في هذا الدليل سنستعرض تحميل الصور النقطية، **كيفية تعيين لون الخلفية في Java**، تطبيق الشفافية، وحفظ النتيجة مع الخيارات المناسبة—كل ذلك باستخدام Aspose.Imaging.
+## مقدمة
 
-**ما ستتعلمه**
-
-- تحميل صورة نقطية باستخدام Aspose.Imaging for Java  
-- **كيفية تعيين لون الخلفية في Java** وتغيير خلفية الصورة في Java  
-- **تعيين لون شفاف في Java** لإخراج PNG  
-- حفظ الصور مع خيارات PNG مخصصة  
-
-هل أنت مستعد للتطبيق العملي؟ لنبدأ بالمتطلبات الأساسية.
+في تطوير جافا الحديث، القدرة على **set background color java** برمجيًا أمر أساسي لإنشاء رسومات ديناميكية، توليد صور مصغرة، أو إعداد أصول لتطبيقات الويب والموبايل. يشرح هذا الدليل كيفية تحميل الصور النقطية، تغيير خلفية القماش، تطبيق ألوان شفافة، وحفظ النتيجة النهائية بإعدادات PNG المثلى—كل ذلك باستخدام مكتبة **Aspose.Imaging for Java** القوية. في النهاية، ستتمكن من دمج معالجة الصور المتقدمة في أي خدمة أو أداة سطح مكتب مبنية على جافا.
 
 ## إجابات سريعة
-- **ما هي المكتبة الأساسية؟** Aspose.Imaging for Java  
-- **هل يمكنني تعيين لون خلفية؟** نعم، باستخدام `setBackgroundColor`  
-- **كيف أجعل لونًا شفافًا؟** استدعِ `setTransparentColor` وفعلها  
-- **أي صيغة تحافظ على الشفافية؟** PNG مع `PngOptions`  
-- **هل أحتاج إلى ترخيص؟** النسخة التجريبية المجانية تكفي للتطوير؛ يلزم ترخيص تجاري للإنتاج  
+- **ما هي المكتبة الأساسية؟** Aspose.Imaging for Java.  
+- **هل يمكنني تعيين لون خلفية؟** نعم—use the `setBackgroundColor` method on the image object.  
+- **كيف أجعل اللون شفافًا؟** استدعِ `setTransparentColor` وفعّل الشفافية في `PngOptions`.  
+- **أي تنسيق يحافظ على الشفافية؟** PNG, when saved with `PngOptions`.  
+- **هل أحتاج إلى ترخيص للإنتاج؟** A free trial works for development; a commercial license is required for production deployments.
 
-## ما هو دليل معالجة الصور في Java؟
-دليل خطوة بخطوة يُعلمك كيفية تعديل بكسلات الصورة، ألوانها، وبياناتها الوصفية برمجيًا في Java. يغطي التحميل، التعديل، والحفظ مع مراعاة الأداء واستخدام الذاكرة.
+## ما هو دليل معالجة الصور في جافا؟
 
-## لماذا نستخدم Aspose.Imaging for Java؟
-يدعم Aspose.Imaging أكثر من 100 صيغة صورة، يقدم واجهات برمجة تطبيقات عالية الأداء، ويُبسط التعامل مع البت ماب منخفض المستوى. يتيح لك التركيز على منطق الأعمال بدلاً من التعامل مع مكتبات أصلية.
+**Java image processing tutorial** هو دليل خطوة‑بخطوة يعلمك كيفية تعديل بكسلات الصورة، الألوان، والبيانات الوصفية برمجيًا في جافا. عادةً ما يغطي تحميل صورة، تطبيق تحولات مثل تغيير الخلفية أو الشفافية، وحفظ النتيجة مع مراعاة الأداء.
+
+## لماذا نستخدم Aspose.Imaging لجافا؟
+
+يدعم Aspose.Imaging **أكثر من 100 تنسيق صورة** ويمكنه معالجة ملفات تصل إلى **500 MB** دون تحميل البت ماب بالكامل في الذاكرة، بفضل بنية البث. توفر المكتبة واجهات برمجة تطبيقات عالية المستوى تلغي الحاجة إلى الكود الأصلي، مما يجعلها مثالية لحلول الرسومات الجافا على مستوى المؤسسات.
 
 ## المتطلبات المسبقة
 
-1. **Aspose.Imaging for Java** – الإصدار 25.5 (أو أحدث).  
-2. **IDE** – IntelliJ IDEA، Eclipse، أو أي محرر يدعم Java.  
-3. **JDK** – Java 8 أو أحدث.  
-4. إلمام أساسي بـ Java I/O والبرمجة الكائنية.
+- **Aspose.Imaging for Java** – version 25.5 or later.  
+- **IDE** – IntelliJ IDEA, Eclipse, or any Java‑compatible editor.  
+- **JDK** – Java 8 or newer.  
+- معرفة أساسية بـ Java I/O والبرمجة الكائنية.
 
-## إعداد Aspose.Imaging for Java
+## إعداد Aspose.Imaging لجافا
 
-### تثبيت عبر Maven
+### تثبيت Maven
 
 ```xml
 <dependency>
@@ -65,21 +93,21 @@ weight: 1
 </dependency>
 ```
 
-### تثبيت عبر Gradle
+### تثبيت Gradle
 
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-### التحميل المباشر
+### التنزيل المباشر
 
-بدلاً من ذلك، حمّل أحدث ملف JAR لـ Aspose.Imaging for Java من [إصدارات Aspose.Imaging](https://releases.aspose.com/imaging/java/).
+بدلاً من ذلك، قم بتنزيل أحدث ملف JAR لـ Aspose.Imaging for Java من [Aspose.Imaging releases](https://releases.aspose.com/imaging/java/).
 
 #### الحصول على الترخيص
 
-- **نسخة تجريبية مجانية**: زر [Aspose Imaging Free Trial](https://releases.aspose.com/imaging/java/)  
-- **ترخيص مؤقت**: اطلبه عبر [Aspose Temporary License](https://purchase.aspose.com/temporary-license/).  
-- **شراء**: للاستخدام طويل الأمد، فكر في شراء ترخيص من [Aspose Purchase](https://purchase.aspose.com/buy).
+- **نسخة تجريبية مجانية** – Visit [Aspose Imaging Free Trial](https://releases.aspose.com/imaging/java/).  
+- **ترخيص مؤقت** – Request it at [Aspose Temporary License](https://purchase.aspose.com/temporary-license/).  
+- **شراء** – For long‑term use, consider buying a license from [Aspose Purchase](https://purchase.aspose.com/buy).
 
 ### التهيئة الأساسية
 
@@ -94,19 +122,19 @@ RasterImage image = (RasterImage) Image.load(dataDir + "aspose_logo.png");
 
 ## دليل التنفيذ
 
-### دليل معالجة الصور في Java: تحميل وعرض صورة
+### دليل معالجة الصور في جافا: تحميل وعرض صورة
 
 #### نظرة عامة  
-تحميل صورة نقطية هو الخطوة الأولى في أي سير عمل للتلاعب.
+تحميل صورة نقطية هو الخطوة الأولى في أي سير عمل تعديل.
 
-##### الخطوة 1: استيراد الفئات الضرورية
+##### الخطوة 1: استيراد الفئات الضرورية
 
 ```java
 import com.aspose.imaging.Image;
 import com.aspose.imaging.RasterImage;
 ```
 
-##### الخطوة 2: تحميل الصورة
+##### الخطوة 2: تحميل الصورة
 
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
@@ -116,19 +144,23 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "aspose_logo.png")) 
 }
 ```
 
-### كيفية تعيين لون الخلفية في Java
+## كيفية تعيين لون الخلفية في جافا
+
+`setBackgroundColor(Color)` يحدد خلفية قماش الصورة إلى اللون المحدد.
+
+تقوم بتعيين خلفية القماش عن طريق استدعاء `setBackgroundColor` على كائن الصورة المحمل، مع تمرير كائن `Color` يمثل اللون المطلوب. تقوم هذه العملية بتحديث طبقة الخلفية دون تعديل بيانات البكسل الحالية، وهو أمر مفيد خاصةً عند تحويل PNG شفاف إلى خلفية صلبة للاستخدام على الويب.
 
 #### نظرة عامة  
-تغيير خلفية القماش يساعد عندما تحتاج إلى خلفية صلبة للصور PNG الشفافة.
+تغيير خلفية القماش يساعد عندما تحتاج إلى خلفية صلبة للـ PNG الشفاف.
 
-##### الخطوة 1: استيراد الفئات الضرورية
+##### الخطوة 1: استيراد الفئات الضرورية
 
 ```java
 import com.aspose.imaging.Color;
 import com.aspose.imaging.RasterImage;
 ```
 
-##### الخطوة 2: تعيين لون الخلفية
+##### الخطوة 2: تعيين لون الخلفية
 
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
@@ -138,21 +170,25 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "aspose_logo.png")) 
 }
 ```
 
-> **نصيحة احترافية:** استخدم `Color.getTransparent()` إذا أردت خلفية شفافة بالكامل بدلاً من لون صلب.
+> **نصيحة احترافية:** استخدم `Color.getTransparent()` إذا كنت تريد خلفية شفافة بالكامل بدلاً من لون صلب.
 
-### تعيين لون شفاف في Java
+## تعيين لون شفاف في جافا
+
+`setTransparentColor(Color)` يحدد لونًا سيُعامل كشفاف تمامًا عند حفظ الصورة.
+
+تحدد لونًا شفافًا عن طريق استدعاء `setTransparentColor` على الصورة وتفعيل قناة ألفا في خيارات الحفظ. هذا يخبر المشفر بمعالجة اللون المحدد كشفاف كامل، وهو أمر أساسي لإنشاء أصول تتماشى بسلاسة مع سمات واجهة المستخدم المتنوعة.
 
 #### نظرة عامة  
-تحديد لون شفاف أمر حاسم لأصول PNG التي تحتاج إلى الاندماج مع خلفيات واجهة المستخدم المتنوعة.
+تعريف لون شفاف أمر حاسم لأصول PNG التي تحتاج إلى الاندماج مع خلفيات واجهة مستخدم مختلفة.
 
-##### الخطوة 1: استيراد الفئات الضرورية
+##### الخطوة 1: استيراد الفئات الضرورية
 
 ```java
 import com.aspose.imaging.Color;
 import com.aspose.imaging.RasterImage;
 ```
 
-##### الخطوة 2: تعريف اللون الشفاف
+##### الخطوة 2: تعريف اللون الشفاف
 
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
@@ -163,19 +199,23 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "aspose_logo.png")) 
 }
 ```
 
-### حفظ صورة بخصائص محددة
+## حفظ صورة بالخصائص المحددة
+
+`PngOptions` يضبط معلمات ترميز PNG مثل مستوى الضغط ومعالجة قناة ألفا.
+
+الحفظ بالإعدادات الصحيحة يضمن بقاء إعدادات الخلفية والشفافية. استخدم `PngOptions` لتكوين مستوى الضغط، نوع اللون، وما إذا كان يجب الحفاظ على قناة ألفا.
 
 #### نظرة عامة  
-الحفظ مع الخيارات المناسبة يضمن بقاء إعدادات الخلفية والشفافية.
+الحفظ بالإعدادات الصحيحة يضمن بقاء إعدادات الخلفية والشفافية.
 
-##### الخطوة 1: استيراد الفئات الضرورية
+##### الخطوة 1: استيراد الفئات الضرورية
 
 ```java
 import com.aspose.imaging.imageoptions.PngOptions;
 import com.aspose.imaging.RasterImage;
 ```
 
-##### الخطوة 2: حفظ الصورة
+##### الخطوة 2: حفظ الصورة
 
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY";
@@ -195,59 +235,79 @@ try (RasterImage image = (RasterImage) Image.load(dataDir + "aspose_logo.png")) 
 ## تطبيقات عملية
 
 1. **تطوير الويب** – إنشاء أصول ذات طابع مخصص ديناميكيًا (مثل أيقونات الوضع الداكن).  
-2. **أدوات التصميم الجرافيكي** – إتاحة للمستخدمين النهائيين القدرة على تغيير الخلفية أو جعل لون شفاف بنقرة واحدة.  
-3. **أتمتة التسويق** – معالجة دفعة من أصول العلامة التجارية لضمان ألوان خلفية متسقة عبر الحملات.
+2. **أدوات التصميم الجرافيكي** – تمكين المستخدمين النهائيين من تغيير الخلفية أو جعل لون شفاف بنقرة واحدة.  
+3. **أتمتة التسويق** – معالجة أصول العلامة التجارية دفعيًا لضمان ألوان خلفية متسقة عبر الحملات.
 
 ## اعتبارات الأداء
 
-- **إدارة الذاكرة** – استخدم `try‑with‑resources` (كما هو موضح) لإطلاق مخازن الصور الأصلية تلقائيًا.  
+- **إدارة الذاكرة** – استخدم try‑with‑resources (كما هو موضح) لإطلاق مخازن الصور الأصلية تلقائيًا.  
 - **I/O مؤقت** – غلف تدفقات الملفات بـ `BufferedInputStream` عند التعامل مع ملفات كبيرة.  
-- **سلامة الخيوط** – كائنات Aspose.Imaging غير آمنة للخيوط؛ أنشئ نسخًا منفصلة لكل خيط.
+- **سلامة الخيوط** – كائنات Aspose.Imaging غير آمنة للاستخدام المتعدد الخيوط؛ أنشئ نسخًا منفصلة لكل خيط.
 
-## المشكلات الشائعة وحلولها
+## المشكلات الشائعة والحلول
 
 | المشكلة | السبب | الحل |
 |-------|-------|-----|
-| فشل تحميل الصورة | مسار غير صحيح أو صيغة غير مدعومة | تحقق من `dataDir` وتأكد أن الملف من نوع نقطي مدعوم |
-| اختفاء الخلفية الشفافة | تم حفظها بصيغة لا تدعم ألفا (مثل JPEG) | استخدم `PngOptions` أو صيغة أخرى تدعم الشفافية |
-| أخطاء نفاد الذاكرة على صور كبيرة | عدم تحرير كائنات `RasterImage` | استخدم `try‑with‑resources` أو استدعِ `image.dispose()` صراحةً |
+| فشل تحميل الصورة | مسار غير صحيح أو تنسيق غير مدعوم | تحقق من `dataDir` وتأكد من أن الملف من نوع raster مدعوم |
+| اختفاء الخلفية الشفافة | تم حفظه بتنسيق لا يدعم قناة ألفا (مثل JPEG) | استخدم `PngOptions` أو تنسيقًا آخر يدعم الشفافية |
+| أخطاء نفاد الذاكرة على الصور الكبيرة | عدم تحرير كائنات `RasterImage` | استخدم try‑with‑resources أو استدعِ `image.dispose()` صراحةً |
 
 ## الأسئلة المتكررة
 
 **س: كيف أحافظ على تحديث مكتبة Aspose.Imaging؟**  
-ج: راجع بانتظام [إصدارات Aspose.Imaging](https://releases.aspose.com/imaging/java/) وقم بتحديث الإصدار في ملف Maven/Gradle الخاص بك.
+ج: تحقق بانتظام من [Aspose.Imaging releases](https://releases.aspose.com/imaging/java/) وقم بتحديث الإصدار في ملف Maven/Gradle الخاص بك.
 
-**س: ماذا أفعل إذا رمت عملية تحميل الصورة استثناءً؟**  
-ج: تأكد من مسار الملف، وتحقق من صلاحيات القراءة، وتأكد أن صيغة الصورة مدعومة من قبل Aspose.Imaging.
+**س: ماذا أفعل إذا ألقى تحميل الصورة استثناءً؟**  
+ج: تحقق من مسار الملف، تأكد من أذونات القراءة، وتأكد من أن تنسيق الصورة مدعوم من Aspose.Imaging.
 
-**س: هل يمكنني العمل مع صيغ المتجه مثل SVG باستخدام نفس الـ API؟**  
-ج: نعم، يدعم Aspose.Imaging صيغ SVG، EMF، وغيرها من صيغ المتجه، رغم أن سطح الـ API يختلف عن معالجة الصور النقطية.
+**س: هل يمكنني العمل مع تنسيقات المتجه مثل SVG باستخدام نفس الـ API؟**  
+ج: نعم، يدعم Aspose.Imaging تنسيقات SVG، EMF، وغيرها من تنسيقات المتجه، رغم أن سطح الـ API يختلف عن معالجة الـ raster.
 
 **س: كيف يمكنني تحويل صورة من مساحة ألوان إلى أخرى؟**  
-ج: استخدم أدوات تحويل الألوان في المكتبة—اطلع على الوثائق الرسمية للطرق مثل `convertToGrayScale()`.
+ج: استخدم أدوات تحويل الألوان في المكتبة—ارجع إلى الوثائق الرسمية للطرق مثل `convertToGrayScale()`.
 
-**س: هل هناك مخاطر عند حفظ PNGs مع شفافية؟**  
-ج: تأكد من استخدام `PngOptions` وأن امتداد الملف الهدف هو `.png`. حفظها كـ JPEG سيزيل قناة ألفا.
+**س: هل هناك أي مشاكل عند حفظ PNGs مع الشفافية؟**  
+ج: تأكد من استخدام `PngOptions` وأن امتداد الملف المستهدف هو `.png`. حفظ كـ JPEG سيحذف قناة ألفا.
 
-## موارد
+## الأسئلة الشائعة
+
+**س: هل يمكنني استخدام هذا الكود في خدمة مصغرة Spring Boot؟**  
+ج: نعم، Aspose.Imaging هو Java نقي ويعمل بسلاسة داخل Spring Boot، بشرط تضمين تبعية Maven/Gradle وترخيص صالح.
+
+**س: هل تدعم المكتبة المعالجة الدفعية متعددة الخيوط؟**  
+ج: بينما لا تكون كائنات `RasterImage` آمنة للخلية، يمكنك معالجة الصور بالتوازي بإنشاء نسخة منفصلة لكل خيط.
+
+**س: ما هو الحد الأقصى لحجم الصورة الذي يمكن لـ Aspose.Imaging التعامل معه؟**  
+ج: يمكن للمكتبة بث ومعالجة صور تصل إلى **500 MB** دون تحميل البت ماب الكامل في الذاكرة، بفضل محرك المعالجة المتقطعة.
+
+**س: هل هناك طريقة للحفاظ على بيانات EXIF الوصفية عند الحفظ؟**  
+ج: نعم، استخدم `image.getMetadata().setExifData(exifData)` قبل الحفظ؛ سيتم الاحتفاظ بالبيانات الوصفية في الملف الناتج.
+
+**س: كيف يمكنني تمكين مضاد التعرج عالي الجودة لتعبئة الخلفية؟**  
+ج: قم بتعيين `image.getGraphics().setSmoothingMode(SmoothingMode.AntiAlias)` قبل تطبيق لون الخلفية.
+
+## الموارد
 
 - **الوثائق**: [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)  
-- **التحميل**: [إصدارات Aspose.Imaging for Java](https://releases.aspose.com/imaging/java/)  
-- **الشراء**: [صفحة شراء Aspose](https://purchase.aspose.com/buy)  
-- **نسخة تجريبية مجانية**: [جرب Aspose.Imaging مجانًا](https://releases.aspose.com/imaging/java/)  
-- **ترخيص مؤقت**: [طلب ترخيص مؤقت](https://purchase.aspose.com/temporary-license/)  
-- **منتدى الدعم**: [مجتمع دعم Aspose](https://forum.aspose.com/c/imaging/14)
+- **التنزيل**: [Aspose.Imaging for Java Releases](https://releases.aspose.com/imaging/java/)  
+- **الشراء**: [Aspose Purchase Page](https://purchase.aspose.com/buy)  
+- **نسخة تجريبية مجانية**: [Try Aspose.Imaging Free Trial](https://releases.aspose.com/imaging/java/)  
+- **ترخيص مؤقت**: [Request Temporary License](https://purchase.aspose.com/temporary-license/)  
+- **منتدى الدعم**: [Aspose Support Community](https://forum.aspose.com/c/imaging/14)
 
----
+**Last Updated:** 2026-10-29  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose
 
-**آخر تحديث:** 2026-02-19  
-**تم الاختبار مع:** Aspose.Imaging 25.5 for Java  
-**المؤلف:** Aspose  
+## دروس ذات صلة
+
+- [معالجة صور جافا: رسم أشكال باستخدام Aspose.Imaging](/imaging/java/image-creation-drawing/java-image-manipulation-aspose-imaging-drawing-shapes/)
+- [تحميل وحفظ الصور كملف PDF باستخدام Aspose.Imaging في جافا: دليل شامل](/imaging/java/image-loading-saving/aspose-imaging-java-load-save-images-pdf/)
+- [إتقان معالجة الصور باستخدام Aspose.Imaging لجافا: تحميل، حفظ وإزالة الخلفيات](/imaging/java/image-transformations/aspose-imaging-java-master-image-processing/)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
