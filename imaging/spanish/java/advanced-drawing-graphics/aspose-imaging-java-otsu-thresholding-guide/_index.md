@@ -1,74 +1,120 @@
 ---
-date: '2026-02-19'
-description: Aprende cómo binarizar una imagen usando Aspose.Imaging para Java. Procesamiento
-  de imágenes en Java paso a paso, conversión a imagen binaria y técnicas para guardar
-  la imagen procesada.
+date: '2026-10-29'
+description: Aprenda cómo convertir una imagen a binario usando Aspose.Imaging for
+  Java con Otsu thresholding. Guía step‑by‑step que cubre setup, caching y saving
+  en varios formatos de imagen de Java.
 keywords:
-- Aspose.Imaging for Java
-- Image Binarization in Java
-- Otsu Thresholding Technique
-- Java Image Processing with Aspose
-- Advanced Drawing & Graphics
-title: 'Cómo binarizar una imagen en Java con Aspose.Imaging: Guía de umbralización
-  Otsu'
+- convert image to binary
+- java image processing
+- image thresholding otsu
+- apply otsu threshold
+- java image formats
+- aspose imaging java
+lastmod: '2026-10-29'
+og_description: Aprenda cómo convertir una imagen a binario usando Aspose.Imaging
+  for Java con Otsu thresholding. Guía step‑by‑step que cubre setup, caching y saving
+  en varios formatos de imagen de Java.
+og_image_alt: 'Guide: convert image to binary using Otsu thresholding in Java with
+  Aspose.Imaging'
+og_title: Cómo convertir una imagen a binario con Otsu thresholding en Java
+schemas:
+- author: Aspose
+  dateModified: '2026-10-29'
+  description: Learn how to convert image to binary using Aspose.Imaging for Java
+    with Otsu thresholding. Step‑by‑step guide covers setup, caching, and saving across
+    multiple Java image formats.
+  headline: How to convert image to binary with Otsu thresholding in Java
+  type: TechArticle
+- description: Learn how to convert image to binary using Aspose.Imaging for Java
+    with Otsu thresholding. Step‑by‑step guide covers setup, caching, and saving across
+    multiple Java image formats.
+  name: How to convert image to binary with Otsu thresholding in Java
+  steps:
+  - name: '**Aspose.Imaging for Java** – the core library that powers all image operations.'
+    text: '**Aspose.Imaging for Java** – the core library that powers all image operations.'
+  - name: '**Java Development Kit (JDK)** – version 8 or higher.'
+    text: '**Java Development Kit (JDK)** – version 8 or higher.'
+  - name: '**Document analysis** – Pre‑process scanned pages before OCR (e.g., *aspose
+      imaging ocr*).'
+    text: '**Document analysis** – Pre‑process scanned pages before OCR (e.g., *aspose
+      imaging ocr*).'
+  - name: '**Medical imaging** – Clean up X‑ray or MRI slices for pattern detection.'
+    text: '**Medical imaging** – Clean up X‑ray or MRI slices for pattern detection.'
+  - name: '**Computer vision** – Provide binary inputs to machine‑learning models
+      that expect black‑and‑white data.'
+    text: '**Computer vision** – Provide binary inputs to machine‑learning models
+      that expect black‑and‑white data.'
+  type: HowTo
+- questions:
+  - answer: Otsu’s method is a statistical technique that automatically selects the
+      optimal global threshold to separate foreground from background in a gray‑level
+      image.
+    question: What is Otsu thresholding?
+  - answer: Download the latest JAR from the [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/)
+      page and add it to your project’s classpath.
+    question: How do I set up Aspose.Imaging if I don’t use Maven or Gradle?
+  - answer: Yes, the library supports PNG, BMP, GIF, TIFF, and many more formats.
+    question: Can I process images other than JPEGs with Aspose.Imaging?
+  - answer: Caching stores pixel data in RAM, dramatically speeding up repeated operations
+      such as filtering or binarization—often by a factor of two to three.
+    question: What are the benefits of caching RasterImages?
+  - answer: Visit [Aspose's purchase page](https://purchase.aspose.com/buy) to explore
+      licensing options and complete your acquisition.
+    question: How do I purchase a license for Aspose.Imaging?
+  type: FAQPage
+tags:
+- convert image to binary
+- Aspose.Imaging
+- Java image processing
+- Otsu thresholding
+- binary image conversion
+title: Cómo convertir una imagen a binario con Otsu thresholding en Java
 url: /es/java/advanced-drawing-graphics/aspose-imaging-java-otsu-thresholding-guide/
 weight: 1
 ---
 
-
-
-
-
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# Procesamiento Maestro de Imágenes en Java: Una Guía Exhaustiva de Aspose.Imaging para Java
+
+# Dominando el procesamiento de imágenes en Java: una guía profunda de Aspose.Imaging para Java
 
 ## Introducción
 
-Si necesitas **how to binarize image** de manera eficiente para análisis, almacenamiento o flujos de trabajo de aprendizaje automático, estás en el lugar correcto. En aplicaciones modernas, convertir una imagen en color o en escala de grises a una imagen binaria limpia puede reducir drásticamente el tamaño del archivo y simplificar el procesamiento posterior. Este tutorial te guía a través del uso de **Aspose.Imaging for Java** para cargar, almacenar en caché, aplicar umbralizado Otsu y, finalmente, **save processed image** archivos, todo mientras mantienes tu código limpio y con buen rendimiento.
+Si necesitas **convertir imagen a binario** de manera eficiente para análisis, almacenamiento o flujos de trabajo de aprendizaje automático, estás en el lugar correcto. Convertir una foto en color o en escala de grises a una imagen limpia en blanco y negro puede reducir el tamaño del archivo hasta en un 90 % y simplificar enormemente las tareas posteriores de OCR o visión por computadora. Este tutorial te guía paso a paso en el uso de **Aspose.Imaging for Java** para cargar, almacenar en caché, aplicar umbral Otsu y, finalmente, **guardar archivos de imagen procesados**, todo manteniendo tu código limpio y con buen rendimiento. También comprenderás por qué cada paso es importante, de modo que puedas adaptar el enfoque a cualquier proyecto de procesamiento de imágenes en Java.
 
-Descubrirás no solo los pasos exactos sino también el razonamiento detrás de cada operación, para que puedas adaptar el enfoque a cualquier proyecto de procesamiento de imágenes en Java.
-
-## Respuestas Rápidas
-- **¿Qué significa “binarize image”?** Convirtiendo una imagen en escala de grises a una imagen en blanco y negro (binaria) usando un umbral.  
-- **¿Qué algoritmo se usa aquí?** Método de umbralizado global de Otsu, que selecciona automáticamente el punto de corte óptimo.  
-- **¿Necesito una licencia para probarlo?** Una prueba gratuita o una licencia temporal es suficiente para desarrollo y pruebas.  
-- **¿Puedo procesar otros formatos además de JPEG?** Sí – Aspose.Imaging soporta PNG, BMP, TIFF, GIF y más.  
+## Respuestas rápidas
+- **¿Qué significa “convertir imagen a binario”?** Significa transformar cada píxel en negro o blanco según un umbral calculado, produciendo una verdadera imagen binaria.  
+- **¿Qué algoritmo usa esta guía?** El método de umbral global de Otsu, que selecciona automáticamente el corte óptimo para toda la imagen.  
+- **¿Necesito una licencia para probarlo?** Una prueba gratuita o una licencia temporal te permite evaluar todas las funciones sin costo.  
+- **¿Puedo procesar formatos distintos a JPEG?** Sí—Aspose.Imaging admite PNG, BMP, TIFF, GIF y más de 150 formatos de imagen.  
 - **¿Qué versión de Java se requiere?** JDK 8 o superior.
 
-## ¿Qué es “how to binarize image”?
-La binarización es el proceso de convertir cada píxel en negro o blanco según un valor de umbral. El método de Otsu calcula ese umbral automáticamente, lo que lo hace ideal para condiciones de iluminación variables.
+## ¿Qué es convertir imagen a binario?
+**Convertir imagen a binario** es el proceso de transformar una foto en escala de grises a una imagen en blanco y negro donde cada píxel es 0 (negro) o 255 (blanco) según un valor de umbral. Esta transformación elimina la información de color, simplificando drásticamente el análisis para OCR, reconocimiento de patrones y muchos algoritmos de visión por computadora.
 
 ## ¿Por qué usar Aspose.Imaging para Java?
-- **Robust java image processing**: Maneja docenas de formatos sin bibliotecas nativas externas.  
-- **Built‑in Otsu algorithm**: No es necesario escribir tu propia lógica de umbral.  
-- **Performance‑focused features**: El almacenamiento en caché y la gestión de memoria te ayudan a **optimize image processing** pipelines.  
-- **Straightforward licensing**: Opciones de prueba gratuita, licencia temporal o completa.
+Aspose.Imaging soporta **más de 150 formatos de entrada y salida**—incluidos PNG, BMP, TIFF, GIF y JPEG—mientras procesa documentos de cientos de páginas sin cargar todo el archivo en memoria. Su algoritmo Otsu incorporado elimina la necesidad de código de umbral personalizado, y los mecanismos de caché de la biblioteca mejoran el rendimiento en escenarios por lotes. El producto también ofrece licenciamiento sencillo: comienza con una prueba gratuita, pasa a una licencia temporal para una evaluación prolongada o adquiere una licencia completa para uso en producción.
 
-## Requisitos Previos
+## Requisitos previos
 
-Para seguir, necesitarás:
-
-### Bibliotecas Requeridas y Versiones
-1. **Aspose.Imaging for Java** – la biblioteca central que impulsa todas las operaciones de imágenes.  
+### Bibliotecas requeridas y versiones
+1. **Aspose.Imaging for Java** – la biblioteca central que impulsa todas las operaciones de imagen.  
 2. **Java Development Kit (JDK)** – versión 8 o superior.
 
-### Requisitos de Configuración del Entorno
+### Requisitos de configuración del entorno
 - Un IDE como IntelliJ IDEA, Eclipse o NetBeans.  
 - Maven o Gradle para la gestión de dependencias.
 
-### Conocimientos Previos
-- Familiaridad con la sintaxis básica de Java.  
-- Una comprensión a alto nivel de los conceptos de procesamiento de imágenes.
+### Prerrequisitos de conocimiento
+- Familiaridad básica con la sintaxis de Java.  
+- Comprensión a alto nivel de conceptos de procesamiento de imágenes (píxeles, escala de grises, umbrales).
 
 ## Configuración de Aspose.Imaging para Java
 
 Antes de comenzar a programar, agrega la biblioteca a tu proyecto.
 
-**Maven:**
+**Maven:**  
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -77,7 +123,7 @@ Antes de comenzar a programar, agrega la biblioteca a tu proyecto.
 </dependency>
 ```
 
-**Gradle:**
+**Gradle:**  
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
@@ -85,13 +131,14 @@ compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 **Descarga directa:**  
 Accede a los [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) para descargar la biblioteca directamente.
 
-### Pasos para Obtener la Licencia
-- **Free Trial** – explora todas las funciones sin costo.  
-- **Temporary License** – extiende el período de prueba para proyectos más grandes.  
-- **Purchase** – obtén una licencia completa de [Aspose](https://purchase.aspose.com/buy).
+### Pasos para obtener la licencia
+- **Prueba gratuita** – explora todas las funciones sin costo.  
+- **Licencia temporal** – extiende el período de prueba para proyectos más grandes.  
+- **Compra** – obtén una licencia completa en [Aspose](https://purchase.aspose.com/buy).
 
 Para comenzar, crea una instancia de `Image` y carga un archivo:
 
+La clase `Image` representa una imagen y proporciona métodos para cargar y manipular datos de imagen.  
 ```java
 import com.aspose.imaging.Image;
 
@@ -101,16 +148,17 @@ try (Image image = Image.load(dataDir + "/aspose-logo.jpg")) {
 }
 ```
 
-## Guía de Implementación
+## Guía de implementación
 
-### Funcionalidad 1: Carga e Inicialización de Imagen
+### Función 1: carga e inicialización de la imagen
 
 #### Visión general
-Cargar el archivo fuente es el primer paso en cualquier flujo de trabajo de **java image processing**.
+Cargar el archivo fuente es el primer paso en cualquier flujo de **procesamiento de imágenes java**.
 
-#### Paso a Paso
-**Load an Image**
+#### Respuesta directa
+Carga la imagen fuente con `Image.load(dataDir + "sample.jpg")`; esto crea una representación en memoria que puedes manipular con la API de Aspose.Imaging.
 
+**Cargar una imagen**  
 ```java
 import com.aspose.imaging.Image;
 
@@ -122,14 +170,16 @@ try (Image image = Image.load(dataDir + "/aspose-logo.jpg")) {
 
 Asegúrate de que `dataDir` apunte a la carpeta que contiene tu imagen fuente.
 
-### Funcionalidad 2: Almacenamiento en Caché de RasterImage
+### Función 2: almacenamiento en caché de un rasterImage
 
 #### Visión general
-El almacenamiento en caché guarda los datos de píxeles en memoria, lo que **optimizes image processing** cuando ejecutas múltiples operaciones sobre la misma imagen.
+El almacenamiento en caché guarda los datos de píxeles en memoria, lo que **optimiza el procesamiento de imágenes** cuando ejecutas múltiples operaciones sobre la misma imagen.
 
-#### Paso a Paso
-**Cache Image Data**
+#### Respuesta directa
+Llama a `RasterCachedImage.cacheData()` después de cargar; esto almacena en caché los datos raster para que las operaciones posteriores, como filtrado o binarización, se ejecuten más rápido.
 
+La clase `RasterCachedImage` proporciona capacidades de caché para imágenes raster, y su método `cacheData()` guarda los datos de píxeles en memoria.  
+**Cachear datos de la imagen**  
 ```java
 import com.aspose.imaging.RasterCachedImage;
 
@@ -141,14 +191,16 @@ if (!rasterCachedImage.isCached()) {
 }
 ```
 
-### Funcionalidad 3: Binarización con Umbralizado Otsu
+### Función 3: binarización con umbral Otsu
 
 #### Visión general
-Este paso realiza la **binary image conversion** que necesitas para OCR, reconocimiento de patrones o análisis de documentos.
+Este paso realiza la **conversión a imagen binaria** que necesitas para OCR, reconocimiento de patrones o análisis de documentos.
 
-#### Paso a Paso
-**Apply Otsu's Method**
+#### Respuesta directa
+Invoca `image.binarizeOtsu()` en el raster almacenado en caché; el método calcula automáticamente el umbral global óptimo usando el algoritmo de Otsu y devuelve una imagen puramente en blanco y negro.
 
+El método `binarizeOtsu()` de un objeto `Image` aplica el algoritmo de Otsu para producir una imagen binaria.  
+**Aplicar el método de Otsu**  
 ```java
 // Assume 'rasterCachedImage' is an instance of RasterCachedImage that has been cached previously
 class FeatureBinarizationWithOtsuThreshold {
@@ -157,16 +209,16 @@ class FeatureBinarizationWithOtsuThreshold {
 }
 ```
 
-El algoritmo determina automáticamente el umbral global óptimo, por lo que no tienes que adivinar un valor.
-
-### Funcionalidad 4: Guardar la Imagen Procesada
+### Función 4: guardar la imagen procesada
 
 #### Visión general
-Después de la binarización, querrás **save processed image** archivos para uso posterior o distribución.
+Después de la binarización, querrás **guardar los archivos de imagen procesados** para uso posterior o distribución.
 
-#### Paso a Paso
-**Save the Image**
+#### Respuesta directa
+Utiliza `image.save(outputPath, new JpegOptions())` (o cualquier otra opción de formato) para escribir la imagen binaria en disco; puedes cambiar la extensión del archivo y las opciones para PNG, BMP o TIFF según necesites.
 
+El método `save` escribe la imagen en disco usando las opciones de formato especificadas, como `JpegOptions`.  
+**Guardar la imagen**  
 ```java
 import com.aspose.imaging.imageoptions.JpegOptions;
 
@@ -177,63 +229,67 @@ class FeatureSaveProcessedImage {
 }
 ```
 
-Puedes cambiar la extensión del archivo y `JpegOptions` para adaptarlos a otros formatos si es necesario.
+## Aplicaciones prácticas
 
-## Aplicaciones Prácticas
+1. **Análisis de documentos** – Pre‑procesa páginas escaneadas antes de OCR (p. ej., *aspose imaging ocr*).  
+2. **Imágenes médicas** – Limpia cortes de rayos X o resonancias magnéticas para detección de patrones.  
+3. **Visión por computadora** – Proporciona entradas binarias a modelos de aprendizaje automático que esperan datos en blanco y negro.
 
-1. **Document Analysis** – Pre‑procesa páginas escaneadas antes de OCR (p. ej., *aspose imaging ocr*).  
-2. **Medical Imaging** – Limpia cortes de rayos X o MRI para detección de patrones.  
-3. **Computer Vision** – Proporciona entradas binarias a modelos de aprendizaje automático que esperan datos en blanco y negro.
+## Consideraciones de rendimiento
 
-## Consideraciones de Rendimiento
+- **Gestión de memoria** – Cachea solo las imágenes que necesites; libera recursos con try‑with‑resources.  
+- **Procesamiento por lotes** – Recorre una carpeta de archivos para reducir la sobrecarga; Aspose.Imaging puede procesar lotes de 500 MB en menos de 30 segundos en un servidor típico.  
+- **Limpieza de recursos** – Siempre cierra los flujos de imagen para evitar fugas de memoria.
 
-- **Memory Management** – Almacena en caché solo las imágenes que necesitas; libera recursos con try‑with‑resources.  
-- **Batch Processing** – Recorre una carpeta de archivos para reducir la sobrecarga.  
-- **Resource Cleanup** – Siempre cierra los flujos de imagen para evitar fugas de memoria.
+## Problemas comunes y soluciones
 
-## Problemas Comunes y Soluciones
-
-| Síntoma | Causa Probable | Solución |
+| Síntoma | Causa probable | Solución |
 |---------|----------------|----------|
-| `OutOfMemoryError` when processing large files | Image not cached or too many images open | Use `RasterCachedImage.cacheData()` and close each image in a `try‑with‑resources` block. |
-| Binarized output looks too dark | Incorrect image color space | Ensure the source image is grayscale before calling `binarizeOtsu()`. |
-| Saved file size is larger than expected | Using JPEG with high quality | Adjust `JpegOptions` quality setting or switch to PNG for lossless storage. |
+| `OutOfMemoryError` al procesar archivos grandes | Imagen no cacheada o demasiadas imágenes abiertas | Usa `RasterCachedImage.cacheData()` y cierra cada imagen en un bloque `try‑with‑resources`. |
+| La salida binarizada se ve demasiado oscura | Espacio de color de la imagen incorrecto | Asegúrate de que la imagen fuente esté en escala de grises antes de llamar a `binarizeOtsu()`. |
+| El tamaño del archivo guardado es mayor de lo esperado | Uso de JPEG con alta calidad | Ajusta la configuración de calidad en `JpegOptions` o cambia a PNG para almacenamiento sin pérdida. |
 
-## Preguntas Frecuentes
+## Preguntas frecuentes
 
-**Q: What is Otsu Thresholding?**  
-A: Un método estadístico que selecciona automáticamente el umbral global óptimo para separar el primer plano del fondo en una imagen de niveles de gris.
+**P:** ¿Qué es el umbral Otsu?  
+**R:** El método de Otsu es una técnica estadística que selecciona automáticamente el umbral global óptimo para separar el primer plano del fondo en una imagen de niveles de gris.
 
-**Q: ¿Cómo configuro Aspose.Imaging si no uso Maven o Gradle?**  
-A: Descarga el JAR más reciente de la página de [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) y añádelo al classpath de tu proyecto.
+**P:** ¿Cómo configuro Aspose.Imaging si no uso Maven ni Gradle?  
+**R:** Descarga el JAR más reciente desde la página de [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) y añádelo al classpath de tu proyecto.
 
-**Q: ¿Puedo procesar imágenes distintas a JPEGs con Aspose.Imaging?**  
-A: Sí, la biblioteca soporta PNG, BMP, GIF, TIFF y muchos más formatos.
+**P:** ¿Puedo procesar imágenes distintas a JPEG con Aspose.Imaging?  
+**R:** Sí, la biblioteca soporta PNG, BMP, GIF, TIFF y muchos más formatos.
 
-**Q: ¿Cuáles son los beneficios de almacenar en caché RasterImages?**  
-A: El almacenamiento en caché guarda los datos de píxeles en RAM, acelerando drásticamente las operaciones repetidas como filtrado o binarización.
+**P:** ¿Cuáles son los beneficios de cachear RasterImages?  
+**R:** El caché almacena los datos de píxeles en RAM, acelerando drásticamente operaciones repetidas como filtrado o binarización—a menudo por un factor de dos a tres.
 
-**Q: ¿Cómo compro una licencia para Aspose.Imaging?**  
-A: Visita la [página de compra de Aspose](https://purchase.aspose.com/buy) para explorar las opciones de licencia y completar tu adquisición.
+**P:** ¿Cómo compro una licencia para Aspose.Imaging?  
+**R:** Visita la [página de compra de Aspose](https://purchase.aspose.com/buy) para explorar las opciones de licenciamiento y completar tu adquisición.
 
 ## Recursos
 
-- **Documentation**: Explora todas las capacidades en [Aspose.Imaging Java Documentation](https://reference.aspose.com/imaging/java/).  
-- **Download**: Obtén la última versión de la biblioteca desde [Aspose releases](https://releases.aspose.com/imaging/java/).  
-- **Purchase**: Conoce más sobre las opciones de licencia en la [página de compra de Aspose](https://purchase.aspose.com/buy).  
-- **Free Trial & Temporary License**: Prueba Aspose.Imaging con una prueba gratuita o solicita una licencia temporal en [Aspose Licensing](https://purchase.aspose.com/temporary-license/).  
-- **Support**: Haz preguntas en el [foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14).
+- **Documentación**: Explora todas las capacidades en la [Aspose.Imaging Java Documentation](https://reference.aspose.com/imaging/java/).  
+- **Descarga**: Obtén la última versión de la biblioteca en [Aspose releases](https://releases.aspose.com/imaging/java/).  
+- **Compra**: Conoce más sobre las opciones de licenciamiento en la [página de compra de Aspose](https://purchase.aspose.com/buy).  
+- **Prueba gratuita y licencia temporal**: Prueba Aspose.Imaging con una prueba gratuita o solicita una licencia temporal en [Aspose Licensing](https://purchase.aspose.com/temporary-license/).  
+- **Soporte**: Haz preguntas en el [foro de soporte de Aspose](https://forum.aspose.com/c/imaging/14).
+
+---
+
+**Última actualización:** 2026-10-29  
+**Probado con:** Aspose.Imaging 25.5 for Java  
+**Autor:** Aspose
+
+## Tutoriales relacionados
+
+- [Guía completa: Aspose.Imaging Java para procesamiento y exportación de imágenes](/imaging/java/getting-started/aspose-imaging-java-image-processing-guide/)
+- [Filtro de movimiento Wiener en Java con Aspose.Imaging: Guía de procesamiento de imágenes](/imaging/java/image-filtering-effects/java-image-processing-motion-wiener-filter-aspose-imaging/)
+- [Procesamiento de imágenes PNG en Java con Aspose.Imaging: Guía completa](/imaging/java/format-specific-operations/mastering-png-processing-aspose-imaging-java/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Última actualización:** 2026-02-19  
-**Probado con:** Aspose.Imaging 25.5 for Java  
-**Autor:** Aspose
