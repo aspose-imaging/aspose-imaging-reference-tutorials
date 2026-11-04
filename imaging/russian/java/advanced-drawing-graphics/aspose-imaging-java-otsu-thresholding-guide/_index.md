@@ -1,90 +1,136 @@
 ---
-date: '2026-02-19'
-description: Узнайте, как бинаризовать изображение с помощью Aspose.Imaging для Java.
-  Пошаговая обработка изображений на Java, преобразование в бинарное изображение и
-  сохранение обработанного изображения.
+date: '2026-11-04'
+description: Узнайте, как бинаризовать изображения с пороговой обработкой Otsu, используя
+  Aspose Imaging for Java. Пошаговое руководство по обработке изображений в Java,
+  бинарному преобразованию и сохранению результатов.
 keywords:
-- Aspose.Imaging for Java
-- Image Binarization in Java
-- Otsu Thresholding Technique
-- Java Image Processing with Aspose
-- Advanced Drawing & Graphics
-title: 'Как бинаризовать изображение в Java с помощью Aspose.Imaging: руководство
-  по пороговому преобразованию Оцу'
+- aspose imaging java
+- image binarization java
+- otsu thresholding java
+- java image processing tutorial
+lastmod: '2026-11-04'
+og_description: Освойте Aspose Imaging for Java для бинаризации изображений с пороговой
+  обработкой Otsu. В этом руководстве рассматриваются загрузка, кэширование, преобразование
+  и сохранение бинарных изображений.
+og_image_alt: Tutorial showing Otsu thresholding and binary image conversion using
+  Aspose Imaging for Java
+og_title: Бинаризация изображений с Otsu с помощью Aspose Imaging for Java
+schemas:
+- author: Aspose
+  dateModified: '2026-11-04'
+  description: Learn how to binarize images with Otsu thresholding using Aspose Imaging
+    for Java. Step‑by‑step guide for Java image processing, binary conversion, and
+    saving results.
+  headline: Binarize images with Otsu using Aspose Imaging for Java
+  type: TechArticle
+- description: Learn how to binarize images with Otsu thresholding using Aspose Imaging
+    for Java. Step‑by‑step guide for Java image processing, binary conversion, and
+    saving results.
+  name: Binarize images with Otsu using Aspose Imaging for Java
+  steps:
+  - name: '**Document analysis** – Pre‑process scanned pages before OCR (e.g., *aspose
+      imaging ocr*).'
+    text: '**Document analysis** – Pre‑process scanned pages before OCR (e.g., *aspose
+      imaging ocr*).'
+  - name: '**Medical imaging** – Clean up X‑ray or MRI slices for pattern detection.'
+    text: '**Medical imaging** – Clean up X‑ray or MRI slices for pattern detection.'
+  - name: '**Computer vision** – Provide binary inputs to machine‑learning models
+      that expect black‑and‑white data.'
+    text: '**Computer vision** – Provide binary inputs to machine‑learning models
+      that expect black‑and‑white data.'
+  type: HowTo
+- questions:
+  - answer: Otsu’s method automatically selects the optimal global threshold that
+      separates foreground from background in a gray‑level image by minimizing intra‑class
+      variance.
+    question: What is Otsu Thresholding?
+  - answer: Download the latest JAR from the [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/)
+      page and add it to your project’s classpath.
+    question: How do I set up Aspose Imaging if I don’t use Maven or Gradle?
+  - answer: Yes, the library supports PNG, BMP, GIF, TIFF, and many more formats.
+    question: Can I process images other than JPEGs with Aspose Imaging?
+  - answer: Caching stores pixel data in RAM, dramatically speeding up repeated operations
+      such as filtering or binarization.
+    question: What are the benefits of caching RasterImages?
+  - answer: Visit [Aspose](https://purchase.aspose.com/buy) to explore licensing options
+      and complete your acquisition.
+    question: How do I purchase a license for Aspose Imaging?
+  type: FAQPage
+tags:
+- aspose imaging
+- java image processing
+- otsu thresholding
+- binary conversion
+title: Бинаризация изображений с Otsu с помощью Aspose Imaging for Java
 url: /ru/java/advanced-drawing-graphics/aspose-imaging-java-otsu-thresholding-guide/
 weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# Мастерская обработка изображений в Java: подробное руководство по Aspose.Imaging для Java
+
+# Бинаризация изображений с помощью Otsu в Aspose Imaging for Java
 
 ## Введение
 
-Если вам нужно **как бинаризовать изображение** эффективно для аналитики, хранения или конвейеров машинного обучения, вы попали по адресу. В современных приложениях преобразование цветного или градационного изображения в чистое бинарное может значительно уменьшить размер файла и упростить последующую обработку. Этот учебник проведёт вас через использование **Aspose.Imaging for Java** для загрузки, кэширования, применения пороговой обработки Otsu и, наконец, **сохранения обработанных изображений** — всё это с чистым и производительным кодом.
-
-Вы узнаете не только точные шаги, но и логику каждой операции, чтобы вы могли адаптировать подход к любому проекту обработки изображений на Java.
+Если вам нужно **бинаризовать изображения** эффективно для аналитики, хранения или конвейеров машинного обучения, вы попали в нужное место. **Aspose Imaging for Java** предоставляет готовый алгоритм пороговой обработки Otsu, который автоматически выбирает оптимальный порог, позволяя превратить любое градационное изображение в чистое чёрно‑белое всего несколькими строками кода. Это руководство объясняет каждый шаг, причины каждой операции и как адаптировать технику к вашим Java‑проектам.
 
 ## Быстрые ответы
-- **Что означает «бинаризовать изображение»?** Преобразование градационного изображения в чёрно‑белое (бинарное) с использованием порога.
-- **Какой алгоритм используется?** Глобальный метод пороговой обработки Оцу, который автоматически выбирает оптимальный порог.
-- **Нужна ли лицензия для пробного использования?** Достаточно бесплатной пробной или временной лицензии для разработки и тестирования.
-- **Можно ли обрабатывать форматы, отличные от JPEG?** Да — Aspose.Imaging поддерживает PNG, BMP, TIFF, GIF и многие другие.
+- **Что означает «бинаризовать изображение»?** Это преобразование каждого пикселя в чёрный или белый на основе порогового значения.  
+- **Какой алгоритм используется здесь?** Глобальный метод пороговой обработки Otsu, который автоматически выбирает оптимальный порог.  
+- **Нужна ли лицензия для пробного использования?** Достаточно бесплатной пробной или временной лицензии для разработки и тестирования.  
+- **Можно ли обрабатывать другие форматы, кроме JPEG?** Да — Aspose Imaging поддерживает PNG, BMP, TIFF, GIF и более 50 форматов.  
 - **Какая версия Java требуется?** JDK 8 или новее.
 
-## Что такое «как бинаризовать изображение»?
-Бинаризация — процесс преобразования каждого пикселя в чёрный или белый на основе порогового значения. Метод Оцу вычисляет этот порог автоматически, что делает его идеальным для условий с переменным освещением.
+## Что такое «бинаризация изображения»?
 
-## Почему стоит использовать Aspose.Imaging for Java?
-- **Надёжная обработка изображений на Java**: Поддерживает десятки форматов без внешних нативных библиотек.
-- **Встроенный алгоритм Оцу**: Нет необходимости писать собственную логику пороговой обработки.
-- **Фокус на производительности**: Кэширование и управление памятью помогают **оптимизировать конвейеры обработки изображений**.
-- **Простая лицензия**: Доступны бесплатная пробная, временная и полная лицензия.
+Бинаризация — процесс преобразования каждого пикселя в чёрный или белый на основе порогового значения. Метод Otsu вычисляет этот порог автоматически, что делает его идеальным для условий с переменным освещением. Полученное бинарное изображение содержит только два уровня интенсивности, что уменьшает размер файла, упрощает последующий анализ и часто повышает точность OCR или моделей компьютерного зрения, ожидающих контрастный ввод.
+
+## Как работает пороговая обработка Otsu?
+
+Алгоритм Otsu анализирует гистограмму градационного изображения, вычисляет внутриклассовую дисперсию для каждого возможного порога и выбирает порог, минимизирующий эту дисперсию. В результате получается один глобальный порог, который отделяет объект от фона с максимальным контрастом без ручной настройки.
+
+## Почему использовать Aspose Imaging for Java?
+
+Aspose Imaging for Java поддерживает **более 50 форматов ввода и вывода**, обрабатывает документы в сотни страниц без загрузки всего файла в память и включает встроенную реализацию Otsu, работающую за линейное время. Эти количественные возможности делают его готовым к использованию в производственных конвейерах с высоким пропускным способностью.
 
 ## Предварительные требования
 
-Чтобы следовать инструкциям, вам понадобится:
-
-### Необходимые библиотеки и версии
-1. **Aspose.Imaging for Java** — основной пакет, обеспечивающий все операции с изображениями.
-2. **Java Development Kit (JDK)** — версия 8 или выше.
-
-### Требования к настройке окружения
-- IDE, например IntelliJ IDEA, Eclipse или NetBeans.
-- Maven или Gradle для управления зависимостями.
+- **Aspose.Imaging for Java** — основная библиотека, обеспечивающая все операции с изображениями.  
+- **Java Development Kit (JDK)** — версия 8 или выше.  
+- IDE, например IntelliJ IDEA, Eclipse или NetBeans.  
+- Maven или Gradle для управления зависимостями.  
 
 ### Требования к знаниям
-- Знакомство с базовым синтаксисом Java.
-- Общее представление о концепциях обработки изображений.
+- Базовый синтаксис Java.  
+- Общее представление о концепциях обработки изображений (градации серого, гистограмма, формат пикселей).
 
-## Установка Aspose.Imaging for Java
+## Настройка Aspose Imaging for Java
 
-Прежде чем писать код, добавьте библиотеку в проект.
+Перед началом кодирования добавьте библиотеку в проект.
 
-**Maven:**
+**Maven:**  
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-imaging</artifactId>
     <version>25.5</version>
 </dependency>
-```
+```  
 
-**Gradle:**
+**Gradle:**  
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
-```
+```  
 
 **Прямое скачивание:**  
 Перейдите к [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) для загрузки библиотеки напрямую.
 
 ### Шаги получения лицензии
-- **Бесплатная пробная** — исследуйте все возможности без оплаты.  
-- **Временная лицензия** — продлите пробный период для более крупных проектов.  
-- **Покупка** — получите полную лицензию на сайте [Aspose](https://purchase.aspose.com/buy).
+- **Free Trial** — исследуйте все функции бесплатно.  
+- **Temporary License** — продлите пробный период для крупных проектов.  
+- **Purchase** — приобретите полную лицензию на сайте [Aspose](https://purchase.aspose.com/buy).
 
 Для начала создайте экземпляр `Image` и загрузите файл:
 
@@ -95,18 +141,19 @@ String dataDir = "YOUR_DOCUMENT_DIRECTORY";
 try (Image image = Image.load(dataDir + "/aspose-logo.jpg")) {
     // Image loaded successfully
 }
-```
+```  
 
 ## Руководство по реализации
 
-### Функция 1: Загрузка и инициализация изображения
+### Как бинаризовать изображение с помощью Aspose Imaging for Java?
 
-#### Обзор
-Загрузка исходного файла — первый шаг в любом **java image processing** рабочем процессе.
+Загрузите исходное изображение, кэшируйте его для быстрого повторного доступа, примените метод Otsu и, наконец, сохраните бинарный результат — всё в четырёх лаконичных шагах. Этот шаблон работает с любым поддерживаемым форматом и масштабируется для пакетной обработки.
 
-#### Пошагово
-**Загрузить изображение**
+### Функция 1: загрузка изображения и инициализация
 
+Класс `Image` — верхнеуровневый объект Aspose Imaging, представляющий один файл изображения в памяти. Загрузка файла — первый шаг любого Java‑конвейера обработки изображений.
+
+**Загрузка изображения**  
 ```java
 import com.aspose.imaging.Image;
 
@@ -114,18 +161,15 @@ String dataDir = "YOUR_DOCUMENT_DIRECTORY";
 try (Image image = Image.load(dataDir + "/aspose-logo.jpg")) {
     // The image is now loaded and ready for further manipulation.
 }
-```
+```  
 
-Убедитесь, что `dataDir` указывает на папку, содержащую ваше исходное изображение.
+Убедитесь, что `dataDir` указывает на папку, содержащую исходное изображение.
 
-### Функция 2: Кэширование RasterImage
+### Функция 2: кэширование RasterImage
 
-#### Обзор
-Кэширование сохраняет данные пикселей в памяти, что **оптимизирует обработку изображений**, когда вы выполняете несколько операций над одним и тем же изображением.
+`RasterCachedImage` кэширует пиксельные данные в ОЗУ, ускоряя последующие операции, такие как фильтрация или пороговая обработка.
 
-#### Пошагово
-**Кэшировать данные изображения**
-
+**Кешировать данные изображения**  
 ```java
 import com.aspose.imaging.RasterCachedImage;
 
@@ -135,34 +179,28 @@ if (!rasterCachedImage.isCached()) {
     // Cache the image data if it's not already cached
     rasterCachedImage.cacheData();
 }
-```
+```  
 
-### Функция 3: Бинаризация с пороговой обработкой Otsu
+### Функция 3: бинаризация с пороговой обработкой Otsu
 
-#### Обзор
-Этот шаг выполняет **преобразование в бинарное изображение**, необходимое для OCR, распознавания шаблонов или анализа документов.
+`binarizeOtsu()` — метод, запускающий алгоритм Otsu над кэшированным растровым изображением и возвращающий бинарное изображение.
 
-#### Пошагово
-**Применить метод Оцу**
-
+**Применить метод Otsu**  
 ```java
 // Assume 'rasterCachedImage' is an instance of RasterCachedImage that has been cached previously
 class FeatureBinarizationWithOtsuThreshold {
     // Binarize the image using Otsu Thresholding method
     rasterCachedImage.binarizeOtsu();
 }
-```
+```  
 
-Алгоритм автоматически определяет оптимальный глобальный порог, поэтому вам не придётся угадывать значение.
+Алгоритм автоматически определяет оптимальный глобальный порог, так что вам не придётся угадывать значение.
 
-### Функция 4: Сохранение обработанного изображения
+### Функция 4: сохранение обработанного изображения
 
-#### Обзор
-После бинаризации вы захотите **сохранить обработанные изображения** для дальнейшего использования или распространения.
+После бинаризации вам потребуется сохранить результат в формате, подходящем для дальнейшего использования.
 
-#### Пошагово
-**Сохранить изображение**
-
+**Сохранить изображение**  
 ```java
 import com.aspose.imaging.imageoptions.JpegOptions;
 
@@ -171,19 +209,19 @@ String outputDir = "YOUR_OUTPUT_DIRECTORY";
 class FeatureSaveProcessedImage {
     rasterCachedImage.save(outputDir + "/BinarizationWithOtsuThreshold_out.jpg");
 }
-```
+```  
 
-Вы можете изменить расширение файла и `JpegOptions`, чтобы использовать другие форматы при необходимости.
+При необходимости можно изменить расширение файла и параметры `JpegOptions` для других форматов.
 
 ## Практические применения
 
 1. **Анализ документов** — предварительная обработка отсканированных страниц перед OCR (например, *aspose imaging ocr*).  
-2. **Медицинская визуализация** — очистка снимков рентгена или МРТ для обнаружения шаблонов.  
-3. **Компьютерное зрение** — предоставление бинарных входных данных моделям машинного обучения, ожидающим чёрно‑белую информацию.
+2. **Медицинская визуализация** — очистка рентгеновских или МРТ‑срезов для обнаружения паттернов.  
+3. **Компьютерное зрение** — предоставление бинарных входов моделям машинного обучения, ожидающим чёрно‑белые данные.
 
 ## Соображения по производительности
 
-- **Управление памятью** — кэшируйте только необходимые изображения; освобождайте ресурсы с помощью `try‑with‑resources`.  
+- **Управление памятью** — кэшируйте только необходимые изображения; освобождайте ресурсы с помощью try‑with‑resources.  
 - **Пакетная обработка** — перебирайте файлы в папке, чтобы снизить накладные расходы.  
 - **Очистка ресурсов** — всегда закрывайте потоки изображений, чтобы избежать утечек памяти.
 
@@ -191,45 +229,48 @@ class FeatureSaveProcessedImage {
 
 | Симптом | Возможная причина | Решение |
 |---------|-------------------|---------|
-| `OutOfMemoryError` при обработке больших файлов | Изображение не закешировано или открыто слишком много изображений | Используйте `RasterCachedImage.cacheData()` и закрывайте каждое изображение в блоке `try‑with‑resources`. |
-| Бинаризованное изображение слишком тёмное | Неправильное цветовое пространство исходного изображения | Убедитесь, что исходное изображение в градациях серого перед вызовом `binarizeOtsu()`. |
-| Размер сохранённого файла больше ожидаемого | Используется JPEG с высоким качеством | Отрегулируйте параметр качества в `JpegOptions` или переключитесь на PNG для без потерь. |
+| `OutOfMemoryError` при обработке больших файлов | Изображение не кешировано или открыто слишком много изображений | Используйте `RasterCachedImage.cacheData()` и закрывайте каждое изображение в блоке `try‑with‑resources`. |
+| Бинаризованный вывод выглядит слишком тёмным | Неправильное цветовое пространство изображения | Убедитесь, что исходное изображение в градациях серого перед вызовом `binarizeOtsu()`. |
+| Размер сохранённого файла больше ожидаемого | Используется JPEG с высоким качеством | Отрегулируйте параметр качества `JpegOptions` или переключитесь на PNG для без потерь. |
 
 ## Часто задаваемые вопросы
 
-**В: Что такое пороговая обработка Оцу?**  
-О: Статистический метод, автоматически выбирающий оптимальный глобальный порог для разделения переднего плана и фона в градационном изображении.
+**Q: Что такое пороговая обработка Otsu?**  
+A: Метод Otsu автоматически выбирает оптимальный глобальный порог, который разделяет передний план и фон в изображении с градациями серого, минимизируя внутриклассовую дисперсию.
 
-**В: Как настроить Aspose.Imaging, если я не использую Maven или Gradle?**  
-О: Скачайте последнюю JAR‑файл с [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) и добавьте её в classpath вашего проекта.
+**Q: Как настроить Aspose Imaging, если я не использую Maven или Gradle?**  
+A: Скачайте последнюю JAR‑файл со страницы [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) и добавьте его в classpath вашего проекта.
 
-**В: Можно ли обрабатывать изображения, отличные от JPEG, с помощью Aspose.Imaging?**  
-О: Да, библиотека поддерживает PNG, BMP, GIF, TIFF и многие другие форматы.
+**Q: Можно ли обрабатывать изображения, отличные от JPEG, с помощью Aspose Imaging?**  
+A: Да, библиотека поддерживает PNG, BMP, GIF, TIFF и многие другие форматы.
 
-**В: Какие преимущества кэширования RasterImages?**  
-О: Кэширование сохраняет данные пикселей в ОЗУ, резко ускоряя повторяющиеся операции, такие как фильтрация или бинаризация.
+**Q: Каковы преимущества кэширования RasterImages?**  
+A: Кэширование сохраняет пиксельные данные в ОЗУ, значительно ускоряя повторные операции, такие как фильтрация или бинаризация.
 
-**В: Как приобрести лицензию для Aspose.Imaging?**  
-О: Перейдите на [страницу покупки Aspose](https://purchase.aspose.com/buy), чтобы изучить варианты лицензирования и завершить покупку.
+**Q: Как приобрести лицензию для Aspose Imaging?**  
+A: Посетите сайт [Aspose](https://purchase.aspose.com/buy) для изучения вариантов лицензирования и завершения покупки.
 
 ## Ресурсы
 
-- **Документация**: Изучите все возможности на странице [Aspose.Imaging Java Documentation](https://reference.aspose.com/imaging/java/).  
-- **Скачать**: Получите последнюю версию библиотеки с [Aspose releases](https://releases.aspose.com/imaging/java/).  
-- **Покупка**: Узнайте о вариантах лицензирования на [странице покупки Aspose](https://purchase.aspose.com/buy).  
-- **Бесплатная пробная версия и временная лицензия**: Попробуйте Aspose.Imaging бесплатно или запросите временную лицензию на [Aspose Licensing](https://purchase.aspose.com/temporary-license/).  
-- **Поддержка**: Задавайте вопросы на [форуме поддержки Aspose](https://forum.aspose.com/c/imaging/14).
+- **Документация**: Ознакомьтесь с полными возможностями на странице [Aspose.Imaging Java Documentation](https://reference.aspose.com/imaging/java/).  
+- **Скачать**: Получите последнюю версию библиотеки на [Aspose releases](https://releases.aspose.com/imaging/java/).  
+- **Приобрести**: Узнайте больше о вариантах лицензирования на [Aspose's purchase page](https://purchase.aspose.com/buy).  
+- **Бесплатная пробная версия и временная лицензия**: Попробуйте Aspose Imaging с бесплатной пробной версией или запросите временную лицензию на [Aspose Licensing](https://purchase.aspose.com/temporary-license/).  
+- **Поддержка**: Задавайте вопросы на [Aspose support forum](https://forum.aspose.com/c/imaging/14).
+
+**Последнее обновление:** 2026-11-04  
+**Тестировано с:** Aspose.Imaging 25.5 for Java  
+**Автор:** Aspose
+
+## Связанные руководства
+
+- [Бинаризация порогом Брэдли с Aspose.Imaging для Java: пошаговое руководство](/imaging/java/image-filtering-effects/bradley-threshold-binarization-aspose-imaging-java/)
+- [Полное руководство: Aspose.Imaging Java для обработки изображений и экспорта](/imaging/java/getting-started/aspose-imaging-java-image-processing-guide/)
+- [Загрузка и обработка изображений в Java с Aspose.Imaging – продвинутое руководство](/imaging/java/advanced-drawing-graphics/mastering-image-processing-java-aspose-imaging/)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Последнее обновление:** 2026-02-19  
-**Тестировано с:** Aspose.Imaging 25.5 for Java  
-**Автор:** Aspose

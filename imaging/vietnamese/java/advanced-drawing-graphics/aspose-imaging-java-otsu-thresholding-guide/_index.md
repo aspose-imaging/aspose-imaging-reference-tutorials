@@ -1,91 +1,137 @@
 ---
-date: '2026-02-19'
-description: Học cách chuyển đổi ảnh thành nhị phân bằng Aspose.Imaging cho Java.
-  Xử lý ảnh Java từng bước, chuyển đổi ảnh nhị phân và lưu các kỹ thuật ảnh đã xử
-  lý.
+date: '2026-11-04'
+description: Tìm hiểu cách biến ảnh thành nhị phân bằng ngưỡng Otsu sử dụng Aspose
+  Imaging for Java. Hướng dẫn chi tiết từng bước cho xử lý ảnh Java, chuyển đổi nhị
+  phân và lưu kết quả.
 keywords:
-- Aspose.Imaging for Java
-- Image Binarization in Java
-- Otsu Thresholding Technique
-- Java Image Processing with Aspose
-- Advanced Drawing & Graphics
-title: 'Cách Nhị Phân Hình Ảnh trong Java với Aspose.Imaging: Hướng Dẫn Ngưỡng Otsu'
+- aspose imaging java
+- image binarization java
+- otsu thresholding java
+- java image processing tutorial
+lastmod: '2026-11-04'
+og_description: Làm chủ Aspose Imaging for Java để biến ảnh thành nhị phân bằng ngưỡng
+  Otsu. Hướng dẫn này bao gồm tải lên, lưu trữ tạm, chuyển đổi và lưu ảnh nhị phân.
+og_image_alt: Tutorial showing Otsu thresholding and binary image conversion using
+  Aspose Imaging for Java
+og_title: Biến ảnh thành nhị phân bằng Otsu sử dụng Aspose Imaging for Java
+schemas:
+- author: Aspose
+  dateModified: '2026-11-04'
+  description: Learn how to binarize images with Otsu thresholding using Aspose Imaging
+    for Java. Step‑by‑step guide for Java image processing, binary conversion, and
+    saving results.
+  headline: Binarize images with Otsu using Aspose Imaging for Java
+  type: TechArticle
+- description: Learn how to binarize images with Otsu thresholding using Aspose Imaging
+    for Java. Step‑by‑step guide for Java image processing, binary conversion, and
+    saving results.
+  name: Binarize images with Otsu using Aspose Imaging for Java
+  steps:
+  - name: '**Document analysis** – Pre‑process scanned pages before OCR (e.g., *aspose
+      imaging ocr*).'
+    text: '**Document analysis** – Pre‑process scanned pages before OCR (e.g., *aspose
+      imaging ocr*).'
+  - name: '**Medical imaging** – Clean up X‑ray or MRI slices for pattern detection.'
+    text: '**Medical imaging** – Clean up X‑ray or MRI slices for pattern detection.'
+  - name: '**Computer vision** – Provide binary inputs to machine‑learning models
+      that expect black‑and‑white data.'
+    text: '**Computer vision** – Provide binary inputs to machine‑learning models
+      that expect black‑and‑white data.'
+  type: HowTo
+- questions:
+  - answer: Otsu’s method automatically selects the optimal global threshold that
+      separates foreground from background in a gray‑level image by minimizing intra‑class
+      variance.
+    question: What is Otsu Thresholding?
+  - answer: Download the latest JAR from the [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/)
+      page and add it to your project’s classpath.
+    question: How do I set up Aspose Imaging if I don’t use Maven or Gradle?
+  - answer: Yes, the library supports PNG, BMP, GIF, TIFF, and many more formats.
+    question: Can I process images other than JPEGs with Aspose Imaging?
+  - answer: Caching stores pixel data in RAM, dramatically speeding up repeated operations
+      such as filtering or binarization.
+    question: What are the benefits of caching RasterImages?
+  - answer: Visit [Aspose](https://purchase.aspose.com/buy) to explore licensing options
+      and complete your acquisition.
+    question: How do I purchase a license for Aspose Imaging?
+  type: FAQPage
+tags:
+- aspose imaging
+- java image processing
+- otsu thresholding
+- binary conversion
+title: Biến ảnh thành nhị phân bằng Otsu sử dụng Aspose Imaging for Java
 url: /vi/java/advanced-drawing-graphics/aspose-imaging-java-otsu-thresholding-guide/
 weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# Xử Lý Ảnh Chuyên Sâu trong Java: Hướng Dẫn Chi Tiết về Aspose.Imaging cho Java
+
+# Biến ảnh thành nhị phân bằng Otsu sử dụng Aspose Imaging cho Java
 
 ## Giới thiệu
 
-Nếu bạn cần **cách nhị phân hoá ảnh** một cách hiệu quả cho các quy trình phân tích, lưu trữ hoặc học máy, bạn đã đến đúng nơi. Trong các ứng dụng hiện đại, việc chuyển đổi một bức ảnh màu hoặc ảnh xám sang ảnh nhị phân sạch sẽ có thể giảm đáng kể kích thước tệp và đơn giản hoá các bước xử lý tiếp theo. Hướng dẫn này sẽ chỉ cho bạn cách sử dụng **Aspose.Imaging cho Java** để tải, cache, áp dụng ngưỡng Otsu, và cuối cùng **lưu ảnh đã xử lý** – tất cả trong khi giữ mã nguồn gọn gàng và hiệu năng cao.
-
-Bạn sẽ không chỉ biết các bước cụ thể mà còn hiểu lý do đằng sau mỗi thao tác, để có thể áp dụng phương pháp này vào bất kỳ dự án xử lý ảnh Java nào.
+Nếu bạn cần **binarize images** một cách hiệu quả cho phân tích, lưu trữ hoặc các pipeline máy học, bạn đang ở đúng nơi. **Aspose Imaging for Java** cung cấp thuật toán ngưỡng Otsu đã sẵn sàng, tự động chọn mức ngưỡng tối ưu, vì vậy bạn có thể chuyển bất kỳ ảnh xám nào thành ảnh đen‑trắng sạch sẽ chỉ với vài dòng mã. Hướng dẫn này giải thích từng bước, lý do đằng sau mỗi thao tác, và cách áp dụng kỹ thuật này vào dự án Java của bạn.
 
 ## Câu trả lời nhanh
-- **“binarize image” có nghĩa là gì?** Chuyển đổi một ảnh xám sang ảnh đen‑trắng (nhị phân) bằng cách sử dụng một ngưỡng.
-- **Thuật toán nào được dùng ở đây?** Phương pháp ngưỡng toàn cục của Otsu, tự động chọn ngưỡng tối ưu.
-- **Có cần giấy phép để thử không?** Một bản dùng thử miễn phí hoặc giấy phép tạm thời là đủ cho việc phát triển và thử nghiệm.
-- **Có thể xử lý các định dạng khác ngoài JPEG không?** Có – Aspose.Imaging hỗ trợ PNG, BMP, TIFF, GIF và nhiều định dạng khác.
-- **Yêu cầu phiên bản Java nào?** JDK 8 trở lên.
+- **What does “binarize image” mean?** Nó có nghĩa là chuyển mỗi pixel thành màu đen hoặc trắng dựa trên một giá trị ngưỡng.  
+- **Which algorithm is used here?** Phương pháp ngưỡng toàn cục của Otsu, tự động chọn mức ngưỡng tối ưu.  
+- **Do I need a license to try it?** Bạn có cần giấy phép để thử không? Một bản dùng thử miễn phí hoặc giấy phép tạm thời là đủ cho việc phát triển và thử nghiệm.  
+- **Can I process other formats besides JPEG?** Có – Aspose Imaging hỗ trợ PNG, BMP, TIFF, GIF và hơn 50 định dạng khác.  
+- **What Java version is required?** Phiên bản Java nào được yêu cầu? JDK 8 hoặc mới hơn.
 
-## “how to binarize image” là gì?
-Binarization là quá trình biến mỗi pixel thành màu đen hoặc trắng dựa trên một giá trị ngưỡng. Phương pháp Otsu tính toán ngưỡng này một cách tự động, rất phù hợp với các điều kiện ánh sáng đa dạng.
+## “Cách binarize image” là gì?
 
-## Tại sao nên dùng Aspose.Imaging cho Java?
-- **Xử lý ảnh java mạnh mẽ**: Hỗ trợ hàng chục định dạng mà không cần thư viện native bên ngoài.
-- **Thuật toán Otsu tích hợp**: Không cần tự viết logic ngưỡng.
-- **Các tính năng tối ưu hiệu năng**: Cache và quản lý bộ nhớ giúp **tối ưu hoá pipeline xử lý ảnh**.
-- **Giấy phép đơn giản**: Các tùy chọn dùng thử, tạm thời hoặc giấy phép đầy đủ.
+Binarization là quá trình chuyển mỗi pixel thành màu đen hoặc trắng dựa trên một giá trị ngưỡng. Phương pháp Otsu tính toán ngưỡng này một cách tự động, làm cho nó phù hợp với các điều kiện ánh sáng đa dạng. Ảnh nhị phân kết quả chỉ chứa hai mức độ cường độ, giúp giảm kích thước tệp, đơn giản hoá việc phân tích downstream, và thường cải thiện độ chính xác của OCR hoặc các mô hình computer‑vision yêu cầu đầu vào độ tương phản cao.
+
+## Otsu thresholding hoạt động như thế nào?
+
+Thuật toán Otsu xem xét histogram của ảnh xám, tính toán phương sai nội lớp cho mọi ngưỡng khả dĩ, và chọn ngưỡng giảm thiểu phương sai này nhất. Kết quả là một mức ngưỡng toàn cục duy nhất tách foreground khỏi background với độ tương phản tối đa, không cần tinh chỉnh thủ công.
+
+## Tại sao nên sử dụng Aspose Imaging cho Java?
+
+Aspose Imaging cho Java hỗ trợ **hơn 50 định dạng đầu vào và đầu ra**, xử lý tài liệu hàng trăm trang mà không cần tải toàn bộ tệp vào bộ nhớ, và bao gồm triển khai Otsu tích hợp chạy trong thời gian tuyến tính. Những khả năng định lượng này khiến nó trở thành lựa chọn sẵn sàng cho các pipeline ảnh có lưu lượng cao.
 
 ## Yêu cầu trước
 
-Để làm theo, bạn cần:
+- **Aspose.Imaging for Java** – thư viện lõi cung cấp mọi thao tác ảnh.  
+- **Java Development Kit (JDK)** – phiên bản 8 hoặc cao hơn.  
+- Một IDE như IntelliJ IDEA, Eclipse, hoặc NetBeans.  
+- Maven hoặc Gradle để quản lý phụ thuộc.  
 
-### Thư viện và phiên bản bắt buộc
-1. **Aspose.Imaging cho Java** – thư viện cốt lõi thực hiện mọi thao tác ảnh.
-2. **Java Development Kit (JDK)** – phiên bản 8 hoặc cao hơn.
+### Kiến thức yêu cầu
+- Cú pháp Java cơ bản.  
+- Hiểu biết cấp cao về các khái niệm xử lý ảnh (grayscale, histogram, pixel format).
 
-### Yêu cầu thiết lập môi trường
-- Một IDE như IntelliJ IDEA, Eclipse hoặc NetBeans.
-- Maven hoặc Gradle để quản lý phụ thuộc.
+## Cài đặt Aspose Imaging cho Java
 
-### Kiến thức nền
-- Quen thuộc với cú pháp Java cơ bản.
-- Hiểu biết ở mức cao về các khái niệm xử lý ảnh.
+Trước khi bắt đầu viết mã, hãy thêm thư viện vào dự án của bạn.
 
-## Cài đặt Aspose.Imaging cho Java
-
-Trước khi viết mã, hãy thêm thư viện vào dự án của bạn.
-
-**Maven:**
+**Maven:**  
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
     <artifactId>aspose-imaging</artifactId>
     <version>25.5</version>
 </dependency>
-```
+```  
 
-**Gradle:**
+**Gradle:**  
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
-```
+```  
 
-**Tải trực tiếp:**  
+**Direct download:**  
 Truy cập [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) để tải thư viện trực tiếp.
 
 ### Các bước lấy giấy phép
-- **Dùng thử miễn phí** – khám phá mọi tính năng mà không tốn phí.  
-- **Giấy phép tạm thời** – kéo dài thời gian dùng thử cho các dự án lớn hơn.  
-- **Mua bản đầy đủ** – mua giấy phép toàn diện từ [Aspose](https://purchase.aspose.com/buy).
+- **Free Trial** – khám phá tất cả tính năng mà không tốn phí.  
+- **Temporary License** – kéo dài thời gian dùng thử cho các dự án lớn hơn.  
+- **Purchase** – mua giấy phép đầy đủ từ [Aspose](https://purchase.aspose.com/buy).
 
-Để bắt đầu, tạo một đối tượng `Image` và tải tệp:
+Để bắt đầu, tạo một thể hiện `Image` và tải tệp:
 
 ```java
 import com.aspose.imaging.Image;
@@ -94,18 +140,19 @@ String dataDir = "YOUR_DOCUMENT_DIRECTORY";
 try (Image image = Image.load(dataDir + "/aspose-logo.jpg")) {
     // Image loaded successfully
 }
-```
+```  
 
 ## Hướng dẫn triển khai
 
-### Tính năng 1: Tải ảnh và khởi tạo
+### Cách binarize một ảnh bằng Aspose Imaging cho Java?
 
-#### Tổng quan
-Việc tải tệp nguồn là bước đầu tiên trong bất kỳ quy trình **java image processing** nào.
+Tải ảnh nguồn, lưu vào cache để truy cập nhanh, áp dụng phương pháp Otsu, và cuối cùng lưu kết quả nhị phân—tất cả trong bốn bước ngắn gọn. Mô hình này hoạt động cho bất kỳ định dạng hỗ trợ nào và mở rộng cho xử lý batch.
 
-#### Các bước chi tiết
-**Tải một ảnh**
+### Tính năng 1: tải ảnh và khởi tạo
 
+Lớp `Image` là đối tượng cấp cao nhất của Aspose Imaging đại diện cho một tệp ảnh duy nhất trong bộ nhớ. Việc tải tệp là bước đầu tiên trong bất kỳ quy trình xử lý ảnh Java nào.
+
+**Load an Image**  
 ```java
 import com.aspose.imaging.Image;
 
@@ -113,18 +160,15 @@ String dataDir = "YOUR_DOCUMENT_DIRECTORY";
 try (Image image = Image.load(dataDir + "/aspose-logo.jpg")) {
     // The image is now loaded and ready for further manipulation.
 }
-```
+```  
 
 Đảm bảo `dataDir` trỏ tới thư mục chứa ảnh nguồn của bạn.
 
-### Tính năng 2: Cache RasterImage
+### Tính năng 2: lưu trữ rasterImage trong bộ nhớ cache
 
-#### Tổng quan
-Cache lưu trữ dữ liệu pixel trong bộ nhớ, **tối ưu hoá xử lý ảnh** khi bạn thực hiện nhiều thao tác trên cùng một ảnh.
+`RasterCachedImage` lưu dữ liệu pixel trong RAM, giúp tăng tốc các thao tác tiếp theo như lọc hoặc ngưỡng.
 
-#### Các bước chi tiết
-**Cache dữ liệu ảnh**
-
+**Cache Image Data**  
 ```java
 import com.aspose.imaging.RasterCachedImage;
 
@@ -134,34 +178,28 @@ if (!rasterCachedImage.isCached()) {
     // Cache the image data if it's not already cached
     rasterCachedImage.cacheData();
 }
-```
+```  
 
-### Tính năng 3: Nhị phân hoá bằng Otsu Thresholding
+### Tính năng 3: nhị phân hoá bằng ngưỡng Otsu
 
-#### Tổng quan
-Bước này thực hiện **chuyển đổi ảnh nhị phân** mà bạn cần cho OCR, nhận dạng mẫu hoặc phân tích tài liệu.
+`binarizeOtsu()` là phương thức chạy thuật toán Otsu trên raster image đã được cache và trả về ảnh nhị phân.
 
-#### Các bước chi tiết
-**Áp dụng phương pháp Otsu**
-
+**Apply Otsu's Method**  
 ```java
 // Assume 'rasterCachedImage' is an instance of RasterCachedImage that has been cached previously
 class FeatureBinarizationWithOtsuThreshold {
     // Binarize the image using Otsu Thresholding method
     rasterCachedImage.binarizeOtsu();
 }
-```
+```  
 
 Thuật toán tự động xác định ngưỡng toàn cục tối ưu, vì vậy bạn không cần đoán giá trị.
 
-### Tính năng 4: Lưu ảnh đã xử lý
+### Tính năng 4: lưu ảnh đã xử lý
 
-#### Tổng quan
-Sau khi nhị phân hoá, bạn sẽ muốn **lưu ảnh đã xử lý** để sử dụng hoặc phân phối sau này.
+Sau khi nhị phân hoá, bạn sẽ muốn lưu kết quả ở định dạng phù hợp với việc tiêu thụ downstream.
 
-#### Các bước chi tiết
-**Lưu ảnh**
-
+**Save the Image**  
 ```java
 import com.aspose.imaging.imageoptions.JpegOptions;
 
@@ -170,65 +208,68 @@ String outputDir = "YOUR_OUTPUT_DIRECTORY";
 class FeatureSaveProcessedImage {
     rasterCachedImage.save(outputDir + "/BinarizationWithOtsuThreshold_out.jpg");
 }
-```
+```  
 
 Bạn có thể thay đổi phần mở rộng tệp và `JpegOptions` để phù hợp với các định dạng khác nếu cần.
 
-## Ứng dụng thực tiễn
+## Ứng dụng thực tế
 
-1. **Phân tích tài liệu** – Tiền xử lý các trang quét trước OCR (ví dụ: *aspose imaging ocr*).  
-2. **Y tế** – Làm sạch các lát cắt X‑ray hoặc MRI để phát hiện mẫu.  
-3. **Thị giác máy tính** – Cung cấp dữ liệu nhị phân cho các mô hình học máy yêu cầu dữ liệu đen‑trắng.
+1. **Document analysis** – Tiền xử lý các trang quét trước OCR (ví dụ, *aspose imaging ocr*).  
+2. **Medical imaging** – Làm sạch các lát X‑ray hoặc MRI để phát hiện mẫu.  
+3. **Computer vision** – Cung cấp đầu vào nhị phân cho các mô hình máy học yêu cầu dữ liệu đen‑trắng.
 
-## Các lưu ý về hiệu năng
+## Các cân nhắc về hiệu năng
 
-- **Quản lý bộ nhớ** – Chỉ cache những ảnh cần thiết; giải phóng tài nguyên bằng `try‑with‑resources`.  
-- **Xử lý hàng loạt** – Lặp qua một thư mục các tệp để giảm overhead.  
-- **Dọn dẹp tài nguyên** – Luôn đóng luồng ảnh để tránh rò rỉ bộ nhớ.
+- **Memory management** – Chỉ cache những ảnh bạn cần; giải phóng tài nguyên bằng try‑with‑resources.  
+- **Batch processing** – Lặp qua thư mục các tệp để giảm overhead.  
+- **Resource cleanup** – Luôn đóng luồng ảnh để tránh rò rỉ bộ nhớ.
 
 ## Các vấn đề thường gặp và giải pháp
 
-| Triệu chứng | Nguyên nhân khả dĩ | Giải pháp |
-|------------|--------------------|-----------|
-| `OutOfMemoryError` khi xử lý tệp lớn | Ảnh không được cache hoặc mở quá nhiều ảnh cùng lúc | Sử dụng `RasterCachedImage.cacheData()` và đóng mỗi ảnh trong khối `try‑with‑resources`. |
-| Kết quả nhị phân quá tối | Không đúng không gian màu của ảnh | Đảm bảo ảnh nguồn ở dạng grayscale trước khi gọi `binarizeOtsu()`. |
-| Kích thước tệp lưu lớn hơn mong đợi | Dùng JPEG với chất lượng cao | Điều chỉnh thuộc tính chất lượng trong `JpegOptions` hoặc chuyển sang PNG để lưu không mất dữ liệu. |
+| Triệu chứng | Nguyên nhân có thể | Cách khắc phục |
+|------------|--------------------|----------------|
+| `OutOfMemoryError` khi xử lý tệp lớn | Hình ảnh không được lưu trong bộ nhớ cache hoặc mở quá nhiều hình ảnh | Sử dụng `RasterCachedImage.cacheData()` và đóng mỗi ảnh trong khối `try‑with‑resources`. |
+| Kết quả nhị phân quá tối | Không gian màu của ảnh không đúng | Đảm bảo ảnh nguồn ở dạng grayscale trước khi gọi `binarizeOtsu()`. |
+| Kích thước tệp lưu lớn hơn mong đợi | Sử dụng JPEG với chất lượng cao | Điều chỉnh thiết lập chất lượng của `JpegOptions` hoặc chuyển sang PNG để lưu không mất dữ liệu. |
 
 ## Câu hỏi thường gặp
 
-**Hỏi: Otsu Thresholding là gì?**  
-Đáp: Một phương pháp thống kê tự động chọn ngưỡng toàn cục tối ưu để tách nền khỏi đối tượng trong ảnh mức xám.
+**Q: What is Otsu Thresholding?**  
+A: Phương pháp Otsu tự động chọn ngưỡng toàn cục tối ưu tách foreground khỏi background trong ảnh mức xám bằng cách giảm thiểu phương sai nội lớp.
 
-**Hỏi: Làm sao thiết lập Aspose.Imaging nếu không dùng Maven hoặc Gradle?**  
-Đáp: Tải JAR mới nhất từ trang [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) và thêm vào classpath của dự án.
+**Q: How do I set up Aspose Imaging if I don’t use Maven or Gradle?**  
+A: Tải JAR mới nhất từ trang [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) và thêm vào classpath của dự án.
 
-**Hỏi: Có thể xử lý các định dạng ảnh khác ngoài JPEG không?**  
-Đáp: Có, thư viện hỗ trợ PNG, BMP, GIF, TIFF và nhiều định dạng khác.
+**Q: Can I process images other than JPEGs with Aspose Imaging?**  
+A: Có, thư viện hỗ trợ PNG, BMP, GIF, TIFF và nhiều định dạng khác.
 
-**Hỏi: Lợi ích của việc cache RasterImages là gì?**  
-Đáp: Cache lưu trữ dữ liệu pixel trong RAM, tăng tốc đáng kể các thao tác lặp lại như lọc hoặc nhị phân hoá.
+**Q: What are the benefits of caching RasterImages?**  
+A: Caching lưu dữ liệu pixel trong RAM, tăng tốc đáng kể các thao tác lặp lại như lọc hoặc nhị phân hoá.
 
-**Hỏi: Làm sao mua giấy phép cho Aspose.Imaging?**  
-Đáp: Truy cập [trang mua của Aspose](https://purchase.aspose.com/buy) để xem các tùy chọn giấy phép và hoàn tất giao dịch.
+**Q: How do I purchase a license for Aspose Imaging?**  
+A: Truy cập [Aspose](https://purchase.aspose.com/buy) để khám phá các tùy chọn giấy phép và hoàn tất mua hàng.
 
 ## Tài nguyên
 
-- **Tài liệu**: Khám phá toàn bộ khả năng tại [Aspose.Imaging Java Documentation](https://reference.aspose.com/imaging/java/).  
-- **Tải về**: Nhận phiên bản thư viện mới nhất từ [Aspose releases](https://releases.aspose.com/imaging/java/).  
-- **Mua giấy phép**: Tìm hiểu các tùy chọn giấy phép trên [trang mua của Aspose](https://purchase.aspose.com/buy).  
-- **Dùng thử & Giấy phép tạm thời**: Thử Aspose.Imaging miễn phí hoặc yêu cầu giấy phép tạm thời tại [Aspose Licensing](https://purchase.aspose.com/temporary-license/).  
-- **Hỗ trợ**: Đặt câu hỏi trên [diễn đàn hỗ trợ Aspose](https://forum.aspose.com/c/imaging/14).
+- **Documentation**: Khám phá đầy đủ khả năng tại [Aspose.Imaging Java Documentation](https://reference.aspose.com/imaging/java/).  
+- **Download**: Tải phiên bản thư viện mới nhất từ [Aspose releases](https://releases.aspose.com/imaging/java/).  
+- **Purchase**: Tìm hiểu thêm về các tùy chọn giấy phép trên [Aspose's purchase page](https://purchase.aspose.com/buy).  
+- **Free trial & temporary license**: Thử Aspose Imaging với bản dùng thử miễn phí hoặc yêu cầu giấy phép tạm thời tại [Aspose Licensing](https://purchase.aspose.com/temporary-license/).  
+- **Support**: Đặt câu hỏi trên [Aspose support forum](https://forum.aspose.com/c/imaging/14).
+
+**Last Updated:** 2026-11-04  
+**Tested With:** Aspose.Imaging 25.5 for Java  
+**Author:** Aspose
+
+## Hướng dẫn liên quan
+
+- [Bradley Threshold Binarization with Aspose.Imaging for Java: Step‑By‑Step Guide](/imaging/java/image-filtering-effects/bradley-threshold-binarization-aspose-imaging-java/)  
+- [Comprehensive Guide: Aspose.Imaging Java for Image Processing & Exporting](/imaging/java/getting-started/aspose-imaging-java-image-processing-guide/)  
+- [Load and Process Images in Java with Aspose.Imaging – Advanced Guide](/imaging/java/advanced-drawing-graphics/mastering-image-processing-java-aspose-imaging/)
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Cập nhật lần cuối:** 2026-02-19  
-**Kiểm thử với:** Aspose.Imaging 25.5 cho Java  
-**Tác giả:** Aspose
