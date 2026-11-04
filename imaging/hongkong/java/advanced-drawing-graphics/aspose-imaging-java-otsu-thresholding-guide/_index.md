@@ -1,67 +1,112 @@
 ---
-date: '2026-02-19'
-description: 學習如何使用 Aspose.Imaging for Java 進行影像二值化。一步一步的 Java 圖像處理、二值圖像轉換及保存處理後圖像的技巧。
+date: '2026-11-04'
+description: 了解如何使用 Aspose Imaging for Java 透過 Otsu thresholding 將圖像二值化。提供 Java image
+  processing、binary conversion 以及儲存結果的逐步指南。
 keywords:
-- Aspose.Imaging for Java
-- Image Binarization in Java
-- Otsu Thresholding Technique
-- Java Image Processing with Aspose
-- Advanced Drawing & Graphics
-title: 如何在 Java 中使用 Aspose.Imaging 進行圖像二值化：Otsu 閾值法指南
+- aspose imaging java
+- image binarization java
+- otsu thresholding java
+- java image processing tutorial
+lastmod: '2026-11-04'
+og_description: 精通 Aspose Imaging for Java，使用 Otsu thresholding 進行圖像二值化。本指南涵蓋 loading、caching、conversion、以及
+  saving binary images 的步驟。
+og_image_alt: Tutorial showing Otsu thresholding and binary image conversion using
+  Aspose Imaging for Java
+og_title: 使用 Aspose Imaging for Java 的 Otsu 進行圖像二值化
+schemas:
+- author: Aspose
+  dateModified: '2026-11-04'
+  description: Learn how to binarize images with Otsu thresholding using Aspose Imaging
+    for Java. Step‑by‑step guide for Java image processing, binary conversion, and
+    saving results.
+  headline: Binarize images with Otsu using Aspose Imaging for Java
+  type: TechArticle
+- description: Learn how to binarize images with Otsu thresholding using Aspose Imaging
+    for Java. Step‑by‑step guide for Java image processing, binary conversion, and
+    saving results.
+  name: Binarize images with Otsu using Aspose Imaging for Java
+  steps:
+  - name: '**Document analysis** – Pre‑process scanned pages before OCR (e.g., *aspose
+      imaging ocr*).'
+    text: '**Document analysis** – Pre‑process scanned pages before OCR (e.g., *aspose
+      imaging ocr*).'
+  - name: '**Medical imaging** – Clean up X‑ray or MRI slices for pattern detection.'
+    text: '**Medical imaging** – Clean up X‑ray or MRI slices for pattern detection.'
+  - name: '**Computer vision** – Provide binary inputs to machine‑learning models
+      that expect black‑and‑white data.'
+    text: '**Computer vision** – Provide binary inputs to machine‑learning models
+      that expect black‑and‑white data.'
+  type: HowTo
+- questions:
+  - answer: Otsu’s method automatically selects the optimal global threshold that
+      separates foreground from background in a gray‑level image by minimizing intra‑class
+      variance.
+    question: What is Otsu Thresholding?
+  - answer: Download the latest JAR from the [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/)
+      page and add it to your project’s classpath.
+    question: How do I set up Aspose Imaging if I don’t use Maven or Gradle?
+  - answer: Yes, the library supports PNG, BMP, GIF, TIFF, and many more formats.
+    question: Can I process images other than JPEGs with Aspose Imaging?
+  - answer: Caching stores pixel data in RAM, dramatically speeding up repeated operations
+      such as filtering or binarization.
+    question: What are the benefits of caching RasterImages?
+  - answer: Visit [Aspose](https://purchase.aspose.com/buy) to explore licensing options
+      and complete your acquisition.
+    question: How do I purchase a license for Aspose Imaging?
+  type: FAQPage
+tags:
+- aspose imaging
+- java image processing
+- otsu thresholding
+- binary conversion
+title: 使用 Aspose Imaging for Java 的 Otsu 進行圖像二值化
 url: /zh-hant/java/advanced-drawing-graphics/aspose-imaging-java-otsu-thresholding-guide/
 weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# 精通 Java 圖像處理：Aspose.Imaging for Java 深入指南
+
+# 使用 Aspose Imaging for Java 進行 Otsu 二值化圖像
 
 ## 介紹
 
-如果您需要有效地 **how to binarize image** 用於分析、儲存或機器學習流程，您來對地方了。在現代應用程式中，將彩色或灰階圖片轉換為乾淨的二值圖像可以大幅減少檔案大小，並簡化後續處理。本教學將帶您使用 **Aspose.Imaging for Java** 來載入、快取、套用 Otsu 閾值，最後 **save processed image** 檔案——同時保持程式碼簡潔且效能優異。
+如果您需要高效地 **二值化圖像** 以用於分析、儲存或機器學習流程，您來對地方了。**Aspose Imaging for Java** 提供即用的 Otsu 閾值演算法，會自動選取最佳截斷點，讓您只需幾行程式碼即可將任何灰階圖片轉換為乾淨的黑白圖像。本指南將說明每一步驟、每個操作背後的原因，並教您如何將此技術套用到自己的 Java 專案中。
 
-您不僅會學到完整步驟，還會了解每個操作背後的原理，讓您能將此方法套用到任何 Java 圖像處理專案。
-
-## 快速解答
-- **「binarize image」是什麼意思？** 使用閾值將灰階圖片轉換為黑白（二元）圖像。  
-- **此處使用哪種演算法？** Otsu 全域閾值方法，會自動選取最佳切割點。  
-- **試用是否需要授權？** 免費試用或臨時授權即可滿足開發與測試需求。  
-- **可以處理除 JPEG 之外的其他格式嗎？** 可以——Aspose.Imaging 支援 PNG、BMP、TIFF、GIF 等多種格式。  
+## 快速答覆
+- **什麼是「二值化圖像」？** 它是指根據閾值將每個像素轉換為黑色或白色。  
+- **使用哪種演算法？** Otsu 的全局閾值方法，會自動選取最佳截斷點。  
+- **需要授權才能試用嗎？** 免費試用或臨時授權已足以進行開發與測試。  
+- **可以處理 JPEG 以外的其他格式嗎？** 可以 — Aspose Imaging 支援 PNG、BMP、TIFF、GIF，以及超過 50 種格式。  
 - **需要哪個 Java 版本？** JDK 8 或更新版本。
 
-## 「how to binarize image」是什麼？
+## 什麼是「如何二值化圖像」？
 
-二值化是根據閾值將每個像素轉為黑或白的過程。Otsu 方法會自動計算此閾值，特別適合光線條件多變的情況。
+二值化是將每個像素根據閾值轉換為黑色或白色的過程。Otsu 方法會自動計算該閾值，適用於光照條件多變的情況。最終的二值圖像僅包含兩個強度等級，能減少檔案大小、簡化後續分析，且通常能提升 OCR 或電腦視覺模型在高對比度輸入下的準確度。
 
-## 為什麼選擇 Aspose.Imaging for Java？
+## Otsu 閾值化如何運作？
 
-- **Robust java image processing**：支援數十種格式，無需外部原生函式庫。  
-- **Built‑in Otsu algorithm**：不必自行撰寫閾值邏輯。  
-- **Performance‑focused features**：快取與記憶體管理協助您 **optimize image processing** 工作流程。  
-- **Straightforward licensing**：提供免費試用、臨時授權或完整授權選項。
+Otsu 演算法會檢查灰階圖像的直方圖，對每一可能的閾值計算類內變異，並選擇使此變異最小的閾值。結果是一個全局截斷點，能以最大對比度將前景與背景分離，且不需手動調整。
+
+## 為什麼使用 Aspose Imaging for Java？
+
+Aspose Imaging for Java 支援 **50+ 輸入與輸出格式**，可在不將整個檔案載入記憶體的情況下處理上百頁文件，且內建的 Otsu 實作以線性時間執行。這些量化能力使其成為高吞吐量影像管線的生產就緒選擇。
 
 ## 前置條件
 
-要跟著操作，您需要：
-
-### 必要的程式庫與版本
-1. **Aspose.Imaging for Java** – 提供所有圖像操作的核心程式庫。  
-2. **Java Development Kit (JDK)** – 版本 8 或以上。
-
-### 環境設定需求
-- 任一 IDE，例如 IntelliJ IDEA、Eclipse 或 NetBeans。  
-- 使用 Maven 或 Gradle 進行相依管理。
+- **Aspose.Imaging for Java** – 提供所有圖像操作的核心函式庫。  
+- **Java Development Kit (JDK)** – 版本 8 或以上。  
+- 支援 IntelliJ IDEA、Eclipse 或 NetBeans 等 IDE。  
+- 用於相依管理的 Maven 或 Gradle。  
 
 ### 知識前提
-- 熟悉基本的 Java 語法。  
-- 具備圖像處理概念的高階了解。
+- 基本的 Java 語法。  
+- 具備影像處理概念的高層次了解（灰階、直方圖、像素格式）。
 
-## 設定 Aspose.Imaging for Java
+## 設定 Aspose Imaging for Java
 
-在開始編寫程式碼前，先將程式庫加入您的專案。
+在開始編寫程式碼之前，先將函式庫加入您的專案。
 
 **Maven:**  
 ```xml
@@ -70,22 +115,22 @@ weight: 1
     <artifactId>aspose-imaging</artifactId>
     <version>25.5</version>
 </dependency>
-```
+```  
 
 **Gradle:**  
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
-```
+```  
 
-**直接下載:**  
-前往 [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) 下載程式庫。
+**Direct download:**  
+前往 [Aspose.Imaging for Java 版本](https://releases.aspose.com/imaging/java/) 直接下載函式庫。
 
 ### 取得授權步驟
-- **Free Trial** – 免費探索全部功能。  
-- **Temporary License** – 為較大型專案延長試用期限。  
+- **Free Trial** – 無償探索所有功能。  
+- **Temporary License** – 為較大型專案延長試用期。  
 - **Purchase** – 從 [Aspose](https://purchase.aspose.com/buy) 取得完整授權。
 
-開始時，建立 `Image` 實例並載入檔案：
+要開始，建立一個 `Image` 實例並載入檔案：
 
 ```java
 import com.aspose.imaging.Image;
@@ -94,18 +139,19 @@ String dataDir = "YOUR_DOCUMENT_DIRECTORY";
 try (Image image = Image.load(dataDir + "/aspose-logo.jpg")) {
     // Image loaded successfully
 }
-```
+```  
 
 ## 實作指南
 
+### 如何使用 Aspose Imaging for Java 進行圖像二值化？
+
+載入來源圖片，將其快取以加速重複存取，套用 Otsu 方法，最後儲存二值結果——共四個簡潔步驟。此模式適用於任何支援的格式，且可擴展至批次處理。
+
 ### 功能 1：圖像載入與初始化
 
-#### 概觀
-載入來源檔案是任何 **java image processing** 工作流程的第一步。
+`Image` 類別是 Aspose Imaging 的頂層物件，代表記憶體中的單一圖像檔案。載入檔案是任何 Java 影像處理工作流程的第一步。
 
-#### 步驟說明
-**載入圖像**
-
+**載入圖像**  
 ```java
 import com.aspose.imaging.Image;
 
@@ -113,18 +159,15 @@ String dataDir = "YOUR_DOCUMENT_DIRECTORY";
 try (Image image = Image.load(dataDir + "/aspose-logo.jpg")) {
     // The image is now loaded and ready for further manipulation.
 }
-```
+```  
 
 請確保 `dataDir` 指向包含來源圖片的資料夾。
 
-### 功能 2：快取 RasterImage
+### 功能 2：快取 rasterImage
 
-#### 概觀
-快取會將像素資料存於記憶體中，當對同一圖像執行多項操作時，可 **optimizes image processing**。
+`RasterCachedImage` 會將像素資料快取至 RAM，提升後續如過濾或閾值化等操作的速度。
 
-#### 步驟說明
-**快取圖像資料**
-
+**快取圖像資料**  
 ```java
 import com.aspose.imaging.RasterCachedImage;
 
@@ -134,34 +177,28 @@ if (!rasterCachedImage.isCached()) {
     // Cache the image data if it's not already cached
     rasterCachedImage.cacheData();
 }
-```
+```  
 
 ### 功能 3：使用 Otsu 閾值進行二值化
 
-#### 概觀
-此步驟執行您在 OCR、圖樣辨識或文件分析中所需的 **binary image conversion**。
+`binarizeOtsu()` 為在快取的 raster 圖像上執行 Otsu 演算法並回傳二值圖像的方法。
 
-#### 步驟說明
-**套用 Otsu 方法**
-
+**套用 Otsu 方法**  
 ```java
 // Assume 'rasterCachedImage' is an instance of RasterCachedImage that has been cached previously
 class FeatureBinarizationWithOtsuThreshold {
     // Binarize the image using Otsu Thresholding method
     rasterCachedImage.binarizeOtsu();
 }
-```
+```  
 
-演算法會自動決定最佳全域閾值，您不必自行猜測數值。
+演算法會自動決定最佳全局閾值，您無需自行猜測數值。
 
 ### 功能 4：儲存處理後的圖像
 
-#### 概觀
-二值化完成後，您會想 **save processed image** 檔案以供日後使用或分發。
+二值化完成後，您會希望以適合下游使用的格式持久化結果。
 
-#### 步驟說明
-**儲存圖像**
-
+**儲存圖像**  
 ```java
 import com.aspose.imaging.imageoptions.JpegOptions;
 
@@ -170,65 +207,69 @@ String outputDir = "YOUR_OUTPUT_DIRECTORY";
 class FeatureSaveProcessedImage {
     rasterCachedImage.save(outputDir + "/BinarizationWithOtsuThreshold_out.jpg");
 }
-```
+```  
 
-如有需要，可變更檔案副檔名與 `JpegOptions`，以支援其他格式。
+如有需要，可變更檔案副檔名與 `JpegOptions` 以支援其他格式。
 
 ## 實務應用
 
-1. **文件分析** – 在 OCR 前先前處理掃描頁面（例如 *aspose imaging ocr*）。  
-2. **醫學影像** – 清理 X 光或 MRI 影像切片以便偵測圖樣。  
-3. **電腦視覺** – 為期待黑白資料的機器學習模型提供二值化輸入。
+1. **文件分析** – 在 OCR 前先處理掃描頁面（例如 *aspose imaging ocr*）。  
+2. **醫學影像** – 清理 X 光或 MRI 切片以進行模式偵測。  
+3. **電腦視覺** – 為期望黑白資料的機器學習模型提供二值化輸入。
 
 ## 效能考量
 
-- **Memory Management** – 只快取必要的圖像，並使用 try‑with‑resources 釋放資源。  
-- **Batch Processing** – 迴圈處理資料夾內的檔案以降低開銷。  
-- **Resource Cleanup** – 始終關閉圖像串流，避免記憶體泄漏。
+- **記憶體管理** – 僅快取必要的圖像；使用 try‑with‑resources 釋放資源。  
+- **批次處理** – 迭代資料夾內的檔案以降低開銷。  
+- **資源清理** – 總是關閉圖像串流以避免記憶體洩漏。
 
 ## 常見問題與解決方案
 
-| 症狀 | 可能原因 | 解決方式 |
-|------|----------|----------|
-| `OutOfMemoryError` 在處理大型檔案時發生 | 圖像未快取或同時開啟過多圖像 | 使用 `RasterCachedImage.cacheData()`，並在 `try‑with‑resources` 區塊中關閉每個圖像。 |
+| 症狀 | 可能原因 | 解決方法 |
+|---------|--------------|-----|
+| `OutOfMemoryError` 在處理大型檔案時 | 圖像未快取或開啟過多圖像 | 使用 `RasterCachedImage.cacheData()` 並在 `try‑with‑resources` 區塊中關閉每個圖像。 |
 | 二值化輸出過暗 | 圖像色彩空間不正確 | 在呼叫 `binarizeOtsu()` 前確保來源圖像為灰階。 |
-| 儲存的檔案大小超出預期 | 使用高品質 JPEG | 調整 `JpegOptions` 的品質設定，或改用 PNG 以獲得無損儲存。 |
+| 儲存檔案大小超出預期 | 使用高品質 JPEG | 調整 `JpegOptions` 的品質設定，或改用 PNG 以獲得無損儲存。 |
 
 ## 常見問答
 
-**Q: 什麼是 Otsu 閾值法？**  
-A: 一種統計方法，會自動選取最佳全域閾值，以在灰階圖像中分離前景與背景。
+**Q: 什麼是 Otsu 閾值化？**  
+A: Otsu 方法會自動選取最佳全局閾值，透過最小化類內變異將灰階圖像的前景與背景分離。
 
-**Q: 若我不使用 Maven 或 Gradle，該如何設定 Aspose.Imaging？**  
-A: 從 [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) 下載最新 JAR，並將其加入專案的 classpath。
+**Q: 若不使用 Maven 或 Gradle，該如何設定 Aspose Imaging？**  
+A: 從 [Aspose.Imaging for Java 版本](https://releases.aspose.com/imaging/java/) 下載最新 JAR，並將其加入專案的 classpath。
 
-**Q: Aspose.Imaging 能處理 JPEG 以外的圖像嗎？**  
-A: 能，程式庫支援 PNG、BMP、GIF、TIFF 等多種格式。
+**Q: 可以使用 Aspose Imaging 處理非 JPEG 的圖像嗎？**  
+A: 可以，函式庫支援 PNG、BMP、GIF、TIFF 等多種格式。
 
 **Q: 快取 RasterImages 有什麼好處？**  
-A: 快取會將像素資料存於 RAM，顯著加速重複操作，如濾鏡或二值化。
+A: 快取將像素資料存於 RAM，能大幅加速重複操作，如過濾或二值化。
 
-**Q: 如何購買 Aspose.Imaging 的授權？**  
-A: 前往 [Aspose's purchasing page](https://purchase.aspose.com/buy) 探索授權方案並完成購買。
+**Q: 如何購買 Aspose Imaging 的授權？**  
+A: 前往 [Aspose](https://purchase.aspose.com/buy) 了解授權選項並完成購買。
 
 ## 資源
 
-- **Documentation**：在 [Aspose.Imaging Java Documentation](https://reference.aspose.com/imaging/java/) 了解完整功能。  
-- **Download**：從 [Aspose releases](https://releases.aspose.com/imaging/java/) 取得最新程式庫版本。  
-- **Purchase**：於 [Aspose's purchase page](https://purchase.aspose.com/buy) 瞭解授權選項。  
-- **Free Trial & Temporary License**：在 [Aspose Licensing](https://purchase.aspose.com/temporary-license/) 取得免費試用或申請臨時授權。  
-- **Support**：於 [Aspose support forum](https://forum.aspose.com/c/imaging/14) 提問。
+- **文件**：在 [Aspose.Imaging Java Documentation](https://reference.aspose.com/imaging/java/) 探索完整功能。  
+- **下載**：從 [Aspose releases](https://releases.aspose.com/imaging/java/) 取得最新函式庫版本。  
+- **購買**：在 [Aspose's purchase page](https://purchase.aspose.com/buy) 了解授權選項。  
+- **免費試用與臨時授權**：透過免費試用或在 [Aspose Licensing](https://purchase.aspose.com/temporary-license/) 申請臨時授權來試用 Aspose Imaging。  
+- **支援**：在 [Aspose support forum](https://forum.aspose.com/c/imaging/14) 提問。
+
+**最後更新：** 2026-11-04  
+**測試環境：** Aspose.Imaging 25.5 for Java  
+**作者：** Aspose
+
+## 相關教學
+
+- [使用 Aspose.Imaging for Java 的 Bradley 閾值二值化：逐步指南](/imaging/java/image-filtering-effects/bradley-threshold-binarization-aspose-imaging-java/)
+- [完整指南：Aspose.Imaging Java 圖像處理與匯出](/imaging/java/getting-started/aspose-imaging-java-image-processing-guide/)
+- [在 Java 中使用 Aspose.Imaging 載入與處理圖像 – 進階指南](/imaging/java/advanced-drawing-graphics/mastering-image-processing-java-aspose-imaging/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
----
-
-**Last Updated:** 2026-02-19  
-**Tested With:** Aspose.Imaging 25.5 for Java  
-**Author:** Aspose
