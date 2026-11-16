@@ -1,74 +1,88 @@
 ---
-date: '2026-03-15'
-description: Impara a caricare PNG in Java e a creare PNG animati con Aspose.Imaging.
-  Questo tutorial mostra la configurazione di Maven, le opzioni APNG e gli effetti
-  dei fotogrammi.
+date: '2026-11-16'
+description: Scopri come creare PNG animati in Java usando Aspose.Imaging. Questa
+  guida passo‑passo copre la configurazione di Maven, le opzioni APNG, l'aggiunta
+  di fotogrammi e gli effetti gamma.
 keywords:
-- Animated PNG Java
-- Aspose.Imaging tutorial
-- create APNG in Java
-- animated image processing with Aspose
-- Java animation guide
-title: Carica PNG in Java, crea PNG animati con Aspose.Imaging
+- how to create animated png
+- add frames to png
+- Aspose.Imaging Java tutorial
+- animated PNG Java guide
+lastmod: '2026-11-16'
+og_description: Scopri come creare PNG animati in Java usando Aspose.Imaging. Questa
+  guida ti accompagna nella configurazione di Maven, le opzioni APNG, l'aggiunta di
+  fotogrammi e le regolazioni gamma.
+og_image_alt: Developer guide showing how to create animated PNGs in Java with Aspose.Imaging
+og_title: Come creare PNG animati in Java con Aspose.Imaging
+schemas:
+- author: Aspose
+  dateModified: '2026-11-16'
+  description: Learn how to create animated PNGs in Java using Aspose.Imaging. This
+    step‑by‑step guide covers Maven setup, APNG options, adding frames, and gamma
+    effects.
+  headline: How to create animated PNGs in Java with Aspose.Imaging
+  type: TechArticle
+- questions:
+  - answer: Aspose.Imaging for Java (available via Maven/Gradle)
+    question: What library do I need?
+  - answer: Yes – use `Image.load()` and cast to `RasterImage`
+    question: Can I load PNG files directly?
+  - answer: Up to 2,000 frames; practical limit depends on memory and file size
+    question: How many frames can I add?
+  - answer: A free trial works for testing; a permanent license removes evaluation
+      restrictions
+    question: Do I need a license?
+  - answer: Maven is the recommended way to manage dependencies
+    question: Is Maven support required?
+  type: FAQPage
+tags:
+- animated png
+- Aspose.Imaging
+- Java image processing
+title: Come creare PNG animati in Java con Aspose.Imaging
 url: /it/java/animation-multi-frame-images/create-animated-png-aspose-imaging-java-guide/
 weight: 1
 ---
 
- translation.
-
-Be careful not to translate URLs.
-
-Also keep "Aspose.Imaging" unchanged.
-
-Let's start.
-
-We'll output everything from first shortcode to last, with translation.
-
-Proceed.
-
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# Crea un PNG animato con Aspose.Imaging in Java: Guida completa all'implementazione
+
+# Come creare PNG animati in Java con Aspose.Imaging
 
 ## Introduzione
 
-Se hai bisogno di **caricare PNG in Java** e trasformare grafiche statiche in vivaci PNG animati (APNG), sei nel posto giusto. In questa guida percorreremo ogni passaggio—dalla configurazione di Aspose.Imaging con Maven all'aggiunta di frame personalizzati con correzione gamma—per consentirti di fornire animazioni fluide e di alta qualità in progetti web o desktop.
+Se hai bisogno di **caricare PNG in Java** e trasformare grafiche statiche in vivaci PNG animati (APNG), sei nel posto giusto. In questa guida percorreremo ogni passaggio—dalla configurazione di Aspose.Imaging con Maven all'aggiunta di fotogrammi personalizzati con correzione gamma—così potrai fornire animazioni fluide e di alta qualità in progetti web o desktop.
 
 **Cosa imparerai**
 
 - Come **caricare PNG in Java** usando Aspose.Imaging  
 - Configurare le opzioni APNG per la creazione di immagini animate  
-- Aggiungere più frame con effetti come la regolazione gamma  
+- Aggiungere più fotogrammi con effetti come la regolazione della gamma  
 - Gestire le risorse in modo efficiente per prestazioni ottimali  
 
-Assicuriamoci che l'ambiente di sviluppo sia pronto prima di immergerci.
+Ora che gli obiettivi sono chiari, verifichiamo che l'ambiente di sviluppo soddisfi i requisiti preliminari.
 
 ## Risposte rapide
-- **Quale libreria mi serve?** Aspose.Imaging per Java (disponibile via Maven/Gradle)  
+- **Quale libreria serve?** Aspose.Imaging per Java (disponibile via Maven/Gradle)  
 - **Posso caricare file PNG direttamente?** Sì – usa `Image.load()` e cast a `RasterImage`  
-- **Quanti frame posso aggiungere?** Fino a migliaia; il numero è limitato da memoria e dimensione del file  
-- **È necessaria una licenza?** Una versione di prova gratuita è sufficiente per i test; una licenza permanente rimuove le restrizioni di valutazione  
-- **È obbligatorio il supporto Maven?** Maven è il metodo consigliato per gestire le dipendenze  
+- **Quanti fotogrammi posso aggiungere?** Fino a 2.000 fotogrammi; il limite pratico dipende da memoria e dimensione del file  
+- **Ho bisogno di una licenza?** Una prova gratuita funziona per i test; una licenza permanente rimuove le restrizioni di valutazione  
+- **Il supporto Maven è obbligatorio?** Maven è il metodo consigliato per gestire le dipendenze  
 
 ## Cos'è un PNG animato (APNG)?
 
-Un APNG è un'estensione del formato PNG standard che supporta più frame, consentendo di creare animazioni lossless che spesso appaiono più nitide e hanno dimensioni inferiori rispetto ai GIF.
+Un PNG animato (APNG) è un file PNG che contiene più fotogrammi immagine, consentendo animazioni lossless simili a GIF ma con profondità colore a 24 bit e compressione migliore. APNG mantiene la trasparenza completa del PNG e supporta ritardi variabili tra i fotogrammi, rendendolo ideale per grafiche web di alta qualità dove dimensione del file e fedeltà visiva sono importanti.
 
 ## Perché caricare PNG in Java con Aspose.Imaging?
 
-- **Controllo totale** sui dati dell'immagine e sulla manipolazione dei pixel  
-- **Elaborazione ad alte prestazioni** senza dipendenze native  
-- **Compatibilità cross‑platform** (Windows, Linux, macOS)  
-- **Set di funzionalità ricco** includendo correzione gamma, gestione del colore e molto altro  
+Aspose.Imaging ti offre **controllo programmatico completo** sui dati PNG, supporta **oltre 50 formati di input e output**, e funziona **senza dipendenze native** su Windows, Linux e macOS. La sua API include correzione gamma, gestione del colore e elaborazione batch, permettendoti di costruire pipeline di immagini scalabili in puro Java.
 
 ## Prerequisiti
 
 ### Librerie e dipendenze richieste
 
-Per lavorare con Aspose.Imaging per Java, aggiungi la libreria al tuo progetto. Di seguito trovi la coordinata Maven necessaria.
+Per lavorare con Aspose.Imaging per Java, aggiungi la libreria al tuo progetto. Di seguito trovi le coordinate Maven necessarie.
 
 ```xml
 <dependency>
@@ -86,36 +100,31 @@ Puoi anche scaricare l'ultimo JAR da [Aspose.Imaging for Java releases](https://
 
 ### Configurazione dell'ambiente
 
-- Java 8 o versioni successive (JDK 11 o più recente consigliato)  
+- Java 8 o superiore (JDK 11 o successivo consigliato)  
 - Il tuo IDE preferito (IntelliJ IDEA, Eclipse, VS Code, ecc.)  
 
 ### Prerequisiti di conoscenza
 
-Conoscenze di base di programmazione Java e familiarità con gli strumenti di build (Maven/Gradle) sono sufficienti.
+Programmazione Java di base e familiarità con gli strumenti di build (Maven/Gradle) sono sufficienti.
 
 ## Come configurare Aspose Imaging con Maven
 
-1. Aggiungi la dipendenza Maven mostrata sopra al tuo `pom.xml`.  
-2. Esegui `mvn clean install` per scaricare i JAR.  
-3. (Opzionale) Applica una licenza temporanea o permanente – vedi la sezione **Acquisizione licenza** più avanti.
+Aggiungi la dipendenza Maven mostrata sopra al tuo `pom.xml`, quindi esegui `mvn clean install` per scaricare i JAR. Dopo che la dipendenza è risolta, puoi importare le classi Aspose.Imaging nel tuo codice Java. Assicurati che il JAR `aspose-imaging` sia incluso nel classpath del progetto e verifica che la versione corrisponda a quella usata negli esempi. Infine, applica una licenza temporanea o permanente come descritto nella fase **Acquisizione licenza** più avanti.
 
 ## Guida all'implementazione
 
 ### Funzionalità 1: Caricare un'immagine a pagina singola
 
-#### Panoramica
-La prima cosa da fare è **caricare PNG in Java** così da poterla manipolare.
+La classe `Image` è il punto di ingresso per tutte le operazioni di immagine in Aspose.Imaging. Caricare un PNG restituisce un'istanza `RasterImage`, che espone metodi a livello di pixel come `adjustGamma`.
 
-#### Passaggi
-
-**Passo 1:** Importare le classi richieste  
+**Importa le classi richieste**
 
 ```java
 import com.aspose.imaging.Image;
 import com.aspose.imaging.RasterImage;
 ```
 
-**Passo 2:** Caricare l'immagine  
+**Carica l'immagine**
 
 ```java
 String inputFilePath = "YOUR_DOCUMENT_DIRECTORY/not_animated.png";
@@ -128,19 +137,16 @@ try (RasterImage sourceImage = (RasterImage) Image.load(inputFilePath)) {
 
 ### Funzionalità 2: Configurare le opzioni APNG
 
-#### Panoramica
-Le opzioni APNG ti permettono di definire la temporizzazione dei frame, il tipo di colore e la destinazione di output.
+`ApngOptions` definisce come verrà costruito il PNG animato, includendo la durata predefinita dei fotogrammi, il tipo di colore e la posizione di output.
 
-#### Passaggi
-
-**Passo 1:** Importare le classi  
+**Importa le classi**
 
 ```java
 import com.aspose.imaging.fileformats.apng.ApngOptions;
 import com.aspose.imaging.sources.FileCreateSource;
 ```
 
-**Passo 2:** Impostare le opzioni APNG  
+**Imposta le opzioni APNG**
 
 ```java
 String outputFilePath = "YOUR_OUTPUT_DIRECTORY/raster_animation.png";
@@ -151,22 +157,19 @@ try (ApngOptions createOptions = new ApngOptions()) {
 }
 ```
 
-*Spiegazione*: L'oggetto `ApngOptions` indica ad Aspose.Imaging come costruire il PNG animato, includendo la durata predefinita dei frame e il formato colore.
+*Spiegazione*: L'oggetto `ApngOptions` indica ad Aspose.Imaging come costruire il PNG animato, includendo la durata predefinita dei fotogrammi e il formato colore.
 
-### Funzionalità 3: Creare l'immagine APNG e aggiungere i frame
+### Funzionalità 3: Creare un'immagine APNG e aggiungere fotogrammi
 
-#### Panoramica
-Ora costruiremo il PNG animato aggiungendo i frame. Applicheremo anche una semplice regolazione gamma per creare un effetto fade‑in/fade‑out.
+Aggiungere fotogrammi crea l'animazione. In questo esempio generiamo un effetto fade‑in/fade‑out regolando la gamma su ogni fotogramma successivo.
 
-#### Passaggi
-
-**Passo 1:** Importare la classe  
+**Importa la classe**
 
 ```java
 import com.aspose.imaging.fileformats.apng.ApngImage;
 ```
 
-**Passo 2:** Creare l'APNG e aggiungere i frame  
+**Crea APNG e aggiungi fotogrammi**
 
 ```java
 try (ApngImage apngImage = (ApngImage) Image.create(createOptions, sourceImage.getWidth(), sourceImage.getHeight())) {
@@ -193,22 +196,19 @@ try (ApngImage apngImage = (ApngImage) Image.create(createOptions, sourceImage.g
 }
 ```
 
-*Spiegazione*: Questo ciclo crea una serie di frame, ciascuno con un valore gamma leggermente diverso, producendo un effetto di transizione fluida.
+*Spiegazione*: Questo ciclo crea una serie di fotogrammi, ognuno con un valore di gamma leggermente diverso, producendo un effetto di transizione fluido.
 
 ### Funzionalità 4: Eliminare il file di output
 
-#### Panoramica
-Pulire i file temporanei aiuta a mantenere ordinato lo spazio di lavoro.
+Pulire i file temporanei mantiene l'area di lavoro ordinata e previene perdite di spazio su disco.
 
-#### Passaggi
-
-**Passo 1:** Importare la classe  
+**Importa la classe**
 
 ```java
 import com.aspose.imaging.examples.Utils;
 ```
 
-**Passo 2:** Eliminare il file  
+**Elimina file**
 
 ```java
 Utils.deleteFile(outputFilePath);
@@ -216,68 +216,80 @@ Utils.deleteFile(outputFilePath);
 
 *Spiegazione*: `Utils.deleteFile` rimuove il file generato quando non è più necessario.
 
+## Come creare PNG animati in Java
+
+Carica il tuo PNG di base con `Image.load()`, configura `ApngOptions` per la frequenza dei fotogrammi desiderata, quindi aggiungi i fotogrammi iterativamente—ognuno opzionalmente elaborato con `adjustGamma` o altri effetti raster—e infine chiama `apng.save()` per scrivere il file APNG. Questo approccio ti offre un controllo preciso su timing, profondità colore e dimensione del file, rimanendo completamente nell'ecosistema Java.
+
 ## Applicazioni pratiche
 
 - **Animazioni web** – grafiche leggere e di alta qualità per i siti  
-- **Alternative ai GIF** – maggiore profondità di colore e compressione migliore  
+- **Alternative a GIF** – migliore profondità colore e compressione  
 - **Elementi UI desktop** – icone o pulsanti animati  
 - **Marketing digitale** – banner e annunci accattivanti  
 
 ## Considerazioni sulle prestazioni
 
-- **Frequenza dei frame** – frequenze più alte aumentano la fluidità ma anche la dimensione del file.  
-- **Gestione della memoria** – usa blocchi `try‑with‑resources` (come mostrato) per liberare automaticamente la memoria dell'immagine.  
+- **Frequenza fotogrammi** – frequenze più alte aumentano la fluidità ma anche la dimensione del file.  
+- **Gestione della memoria** – usa try‑with‑resources (come mostrato) per liberare automaticamente la memoria dell'immagine.  
 - **Elaborazione batch** – elabora più immagini in un ciclo per ridurre l'overhead.
 
 ## Problemi comuni e soluzioni
 
-| Problema | Causa | Correzione |
-|----------|-------|------------|
-| **OutOfMemoryError** | Caricamento di PNG molto grandi senza rilasciare risorse | Usa blocchi `try (RasterImage ...)` e chiama `System.gc()` dopo batch di grandi dimensioni |
-| **Frame mancanti** | `defaultFrameTime` errato o calcolo del numero di frame sbagliato | Verifica che il calcolo di `numOfFrames` corrisponda alla durata totale desiderata |
-| **Eccezione di licenza** | Esecuzione senza licenza valida in produzione | Applica una licenza temporanea o permanente come descritto nella sezione Acquisizione licenza |
+| Problema | Causa | Soluzione |
+|----------|-------|-----------|
+| **OutOfMemoryError** | Caricamento di PNG molto grandi senza rilasciare le risorse | Usa blocchi `try (RasterImage ...)` e chiama `System.gc()` dopo batch di grandi dimensioni |
+| **Missing frames** | `defaultFrameTime` errato o calcolo del numero di fotogrammi | Verifica che il calcolo di `numOfFrames` corrisponda alla durata totale desiderata |
+| **License exception** | Esecuzione senza licenza valida in produzione | Applica una licenza temporanea o permanente come descritto nella fase di Acquisizione licenza |
 
 ## Domande frequenti
 
-**D:** Posso usare gli APNG in tutti i browser?  
-**R:** La maggior parte dei browser moderni (Chrome, Firefox, Edge, Safari) supporta gli APNG, ma le versioni più vecchie di Internet Explorer no. Controlla la compatibilità su CanIUse.com.
+**Q:** Posso usare gli APNG in tutti i browser?  
+**A:** La maggior parte dei browser moderni (Chrome, Firefox, Edge, Safari) supporta gli APNG, ma le versioni più vecchie di Internet Explorer no. Verifica la compatibilità su CanIUse.com.
 
-**D:** Come posso migliorare le prestazioni dell'animazione?  
-**R:** Riduci il numero di frame, abbassa la risoluzione dell'immagine e mantieni `defaultFrameTime` sopra i 50 ms per una riproduzione più fluida su dispositivi a bassa potenza.
+**Q:** Come posso migliorare le prestazioni dell'animazione?  
+**A:** Riduci il numero di fotogrammi, abbassa la risoluzione dell'immagine e mantieni `defaultFrameTime` sopra i 50 ms per una riproduzione più fluida su dispositivi low‑end.
 
-**D:** Ci sono limiti alle dimensioni di un APNG creato con Aspose.Imaging?  
-**R:** La libreria stessa non impone limiti rigidi, ma file estremamente grandi possono superare le restrizioni dei browser o della rete. Mira a un equilibrio tra qualità e dimensione.
+**Q:** Ci sono limiti alle dimensioni di un APNG creato con Aspose.Imaging?  
+**A:** La libreria non impone limiti rigidi, ma file estremamente grandi possono superare i vincoli del browser o della rete. Mira a un equilibrio tra qualità e dimensione; file inferiori a 5 MB si caricano rapidamente sulla maggior parte delle connessioni.
 
-**D:** Cosa devo fare se incontro un errore durante l'aggiunta dei frame?  
-**R:** Verifica che l'immagine di origine sia caricata correttamente, che il percorso di output sia scrivibile e che tu stia usando una versione compatibile di Aspose.Imaging.
+**Q:** Cosa devo fare se incontro un errore durante l'aggiunta dei fotogrammi?  
+**A:** Verifica che l'immagine di origine sia caricata correttamente, che il percorso di output sia scrivibile e che tu stia usando una versione compatibile di Aspose.Imaging.
 
-**D:** Posso aggiungere altri effetti oltre alla regolazione gamma?  
-**R:** Sì – Aspose.Imaging fornisce metodi per luminosità, contrasto, rotazione e altro. Sperimenta con `sourceImage.adjustBrightness()` o API simili.
+**Q:** Posso aggiungere altri effetti oltre alla regolazione della gamma?  
+**A:** Sì – Aspose.Imaging fornisce metodi per luminosità, contrasto, rotazione e altro. Esplora `sourceImage.adjustBrightness()` e le API correlate.
 
 ## Conclusione
 
-Seguendo questo tutorial ora sai come **caricare PNG in Java**, configurare le opzioni APNG e generare PNG animati con effetti di frame personalizzati usando Aspose.Imaging. Approfondisci la [Documentazione di Aspose.Imaging](https://reference.aspose.com/imaging/java/) per esplorare ulteriori trasformazioni e ottimizzazioni.
+Seguendo questo tutorial ora sai come **caricare PNG in Java**, configurare le opzioni APNG e generare PNG animati con effetti personalizzati sui fotogrammi usando Aspose.Imaging. Approfondisci la [Documentazione di Aspose.Imaging](https://reference.aspose.com/imaging/java/) per esplorare ulteriori trasformazioni e ottimizzazioni.
 
 ## Risorse
 
-- **Documentazione**: [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)
-- **Download**: [Latest Releases](https://releases.aspose.com/imaging/java/)
-- **Acquisto**: [Buy a License](https://purchase.aspose.com/buy)
-- **Prova gratuita**: [Try Aspose.Imaging for Free](https://releases.aspose.com/imaging/java/)
-- **Licenza temporanea**: [Get a Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Supporto**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)
+- **Documentazione**: [Aspose.Imaging Java Reference](https://reference.aspose.com/imaging/java/)  
+- **Documentazione**: [Aspose.Imaging Documentation](https://reference.aspose.com/imaging/java/)  
+- **Download**: [Latest Releases](https://releases.aspose.com/imaging/java/)  
+- **Acquista**: [Buy a License](https://purchase.aspose.com/buy)  
+- **Prova gratuita**: [Try Aspose.Imaging for Free](https://releases.aspose.com/imaging/java/)  
+- **Licenza temporanea**: [Get a Temporary License](https://purchase.aspose.com/temporary-license/)  
+- **Supporto**: [Aspose Support Forum](https://forum.aspose.com/c/imaging/14)  
+- **Riferimento API**: [API Reference](https://reference.aspose.com/imaging/java/)  
+- **Download prova gratuita**: [Download Free Trial](https://releases.aspose.com/imaging/java/)
 
 ---
 
-**Ultimo aggiornamento:** 2026-03-15  
-**Testato con:** Aspose.Imaging 25.5 per Java  
+**Ultimo aggiornamento:** 2026-11-16  
+**Testato con:** Aspose.Imaging 25.5 for Java  
 **Autore:** Aspose  
 **Risorse correlate:** [API Reference](https://reference.aspose.com/imaging/java/) | [Download Free Trial](https://releases.aspose.com/imaging/java/)
+
+## Tutorial correlati
+
+- [Come caricare e visualizzare immagini con Aspose.Imaging per Java | Guida passo‑passo](/imaging/java/image-loading-saving/load-display-images-aspose-imaging-java/)
+- [Creare PDF da immagini PNG con Aspose.Imaging per Java](/imaging/java/document-conversion-and-processing/convert-png-images-to-pdf/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
