@@ -1,55 +1,104 @@
 ---
-date: '2026-02-19'
-description: Aspose.Imaging kullanarak Java’da görüntüyü nasıl yükleyeceğinizi, görüntü
-  formatını nasıl tanımlayacağınızı ve PNG olarak nasıl kaydedeceğinizi öğrenin. Maven
-  Aspose Imaging ile görüntü işleme süreçlerini optimize edin.
+date: '2026-11-16'
+description: Aspose.Imaging kullanarak Java'da PNG görüntüleri nasıl kaydedileceğini
+  öğrenin; yükleme, format tespiti ve verimli görüntü işleme için Maven entegrasyonu
+  konularını kapsar.
 keywords:
+- how to save png
+- load image java
+- java image manipulation
+- maven aspose imaging
+- image processing tutorial java
+lastmod: '2026-11-16'
+og_description: Java'da Aspose.Imaging kullanarak PNG görüntüleri nasıl kaydedilir.
+  Bu kapsamlı rehberde yükleme, format tespiti, Maven kurulumu ve toplu işleme öğrenin.
+og_image_alt: Guide to saving PNG images in Java with Aspose.Imaging library
+og_title: Java'da Aspose.Imaging ile PNG görüntüleri nasıl kaydedilir
+schemas:
+- author: Aspose
+  dateModified: '2026-11-16'
+  description: Learn how to save PNG images in Java using Aspose.Imaging, covering
+    loading, format detection, and Maven integration for efficient image processing.
+  headline: How to save PNG images in Java with Aspose.Imaging
+  type: TechArticle
+- description: Learn how to save PNG images in Java using Aspose.Imaging, covering
+    loading, format detection, and Maven integration for efficient image processing.
+  name: How to save PNG images in Java with Aspose.Imaging
+  steps:
+  - name: '**Leverage Java Streams** – Map each file path to a lambda that loads,
+      converts, and saves the image.'
+    text: '**Leverage Java Streams** – Map each file path to a lambda that loads,
+      converts, and saves the image.'
+  - name: '**Use ExecutorService** – Parallelise the workload across CPU cores for
+      faster throughput.'
+    text: '**Use ExecutorService** – Parallelise the workload across CPU cores for
+      faster throughput.'
+  - name: '**Dispose resources promptly** – The try‑with‑resources pattern shown above
+      prevents memory bloat, especially when handling high‑resolution images.'
+    text: '**Dispose resources promptly** – The try‑with‑resources pattern shown above
+      prevents memory bloat, especially when handling high‑resolution images.'
+  type: HowTo
+- questions:
+  - answer: A DIB (Device Independent Bitmap) stores raw bitmap data without compression,
+      primarily used on Windows platforms.
+    question: What is a DIB file format?
+  - answer: Yes—simply add the Maven or Gradle dependency and inject the library wherever
+      you need image services.
+    question: Can I use Aspose.Imaging with Spring Boot?
+  - answer: Process them in smaller tiles or lower the resolution before loading;
+      also ensure you dispose of each `Image` instance promptly.
+    question: How should I handle very large images?
+  - answer: Absolutely. Combine Aspose.Imaging with Java’s parallel streams or an
+      `ExecutorService` to process many files concurrently.
+    question: Is batch processing possible?
+  - answer: Forgetting to close image streams, ignoring format‑specific quirks (like
+      color profiles), and not handling IO exceptions can cause crashes or corrupted
+      output.
+    question: What are common pitfalls when working with image formats?
+  type: FAQPage
+tags:
+- save png
+- Aspose.Imaging
 - Java image processing
-- Aspose.Imaging tutorial
-- image manipulation in Java
-- load and save images in Java
-- advanced drawing & graphics
-title: Aspose.Imaging ile Java’da Görüntü Yükleme – Gelişmiş İşleme
+title: Java'da Aspose.Imaging ile PNG görüntüleri nasıl kaydedilir
 url: /tr/java/advanced-drawing-graphics/mastering-image-processing-java-aspose-imaging/
 weight: 1
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-
 {{< blocks/products/pf/main-container >}}
-
 {{< blocks/products/pf/tutorial-page-section >}}
-# Java'da Aspose.Imaging ile Görüntü İşleme Uzmanlığı
+
+# Java'da PNG Görüntülerini Aspose.Imaging ile Kaydetme
 
 ## Giriş
 
-Bugünün dijital çağında, görüntüleri verimli bir şekilde işlemek ve işlemek, web geliştirmeden makine‑öğrenme projelerine kadar geniş bir uygulama yelpazesi için kritik öneme sahiptir. **load image java** dosyalarına ihtiyaç duyan bir uygulama geliştiriyor olun ya da bir veri hattı için binlerce fotoğrafı dönüştürmeniz gerekiyor olsun, doğru kütüphane tüm farkı yaratır. Aspose.Imaging for Java, gereksiz kodları ortadan kaldırır ve düşük‑seviye piksel yönetimi yerine iş mantığına odaklanmanızı sağlar. Bu öğreticide bir görüntüyü nasıl yükleyeceğinizi, formatını nasıl tanımlayacağınızı ve PNG olarak nasıl kaydedeceğinizi öğrenecek; ayrıca gerçek‑dünya senaryolarında görüntü işleme optimizasyonu için ipuçları alacaksınız.
+Java'da PNG görüntülerini kaydetmek, web servisleri, veri‑akışı araçları ve masaüstü yardımcı programları için sıkça ihtiyaç duyulan bir gereksinimdir. Bu **png kaydetme** rehberinde Aspose.Imaging'in düşük seviyeli kod kalıplarını ortadan kaldırarak bir görüntüyü nasıl yükleyebileceğinizi, formatını nasıl tespit edeceğinizi ve sadece birkaç API çağrısıyla PNG dosyası olarak nasıl yazacağınızı öğreneceksiniz. Eğitim ayrıca Maven kurulumu, toplu‑işlem ipuçları ve performans en iyi uygulamalarını göstererek üretim‑hazır görüntü akışlarını hızlıca oluşturmanızı sağlar.
 
-### Hızlı Cevaplar
-- **Java'da bir görüntüyü nasıl yüklersiniz?** `Image.load(path)` metodunu Aspose.Imaging'den kullanın.  
-- **Hangi formata dönüştürebilirim?** PNG yaygın bir seçimdir; Aspose.Imaging BMP, JPEG, TIFF ve daha fazlasını destekler.  
-- **Maven bağımlılığına ihtiyacım var mı?** Evet—Aspose.Imaging artefaktını `pom.xml` dosyanıza ekleyin.  
-- **Görüntüleri toplu olarak işleyebilir miyim?** Kesinlikle; API'yi Java streams veya ExecutorService ile birleştirin.  
+### Hızlı yanıtlar
+- **Java'da bir görüntüyü nasıl yüklerim?** `Image.load(path)` çağırın – Aspose.Imaging formatı otomatik olarak algılar ve bir `Image` nesnesi döndürür.  
+- **Hangi formata dönüştürebilirim?** PNG varsayılandır; kütüphane ayrıca BMP, JPEG, TIFF ve 50+ diğer formatı da destekler.  
+- **Maven bağımlılığı gerekli mi?** Evet – `pom.xml` veya `build.gradle` dosyanıza Aspose.Imaging artefaktını ekleyin.  
+- **Görüntüleri toplu olarak işleyebilir miyim?** Kesinlikle; API'yi Java akışları veya paralel yürütme için bir `ExecutorService` ile birleştirin.  
 - **Üretim için hangi lisans gerekir?** Ticari bir Aspose.Imaging lisansı; değerlendirme için bir deneme sürümü mevcuttur.
 
-## “load image java” nedir ve neden önemlidir?
-Bir görüntüyü yüklemek, her görsel iş akışının ilk adımıdır. Aspose.Imaging ile **load image java** nesnelerini yüklediğinizde, kütüphane format algılamayı, bellek tahsis etmeyi ve kaynak temizliğini sizin için yönetir; bu da bellek sızıntıları veya bozuk piksel verileri gibi yaygın tuzakların önüne geçer.
+## Aspose.Imaging nedir ve neden önemlidir?
+Aspose.Imaging, yerel kütüphanelere ihtiyaç duymadan 100'den fazla görüntü formatını okuma, düzenleme ve yazma imkanı sunan bir Java kütüphanesidir. Format tespiti, bellek yönetimi ve meta veri işleme gibi karmaşık görevleri soyutlayarak bellek sızıntıları veya bozuk pikseller gibi yaygın sorunlardan kaçınmanızı sağlar.
 
-## Görüntü formatını neden tanımlamalıyız?
-Tam formatı (ör. BMP, JPEG, PNG) bilmek, en iyi işleme yolunu seçmenizi sağlar—ister kayıpsız sıkıştırma, renk‑alanı dönüşümü ister meta veri çıkarımı olsun. Aspose.Imaging, format tanımlamayı basitleştirir; bu, karışık tipte dosyaların aynı anda geldiği toplu hatlar için özellikle yararlıdır.
+## Neden görüntü formatını belirlemek gerekir?
+Tam görüntü formatını belirlemek, optimal işleme yolunu seçmenizi sağlar—PNG için kayıpsız sıkıştırma, JPEG için renk uzayı dönüşümü veya TIFF için çok‑sayfalı işleme gibi. Aspose.Imaging ile tek bir çağrıda `image.getFileFormat()` sorgulayabilir, karışık tip dosyaları işleyen toplu akışları hem güvenilir hem de hızlı hâle getirebilirsiniz.
 
 ## Önkoşullar
 
-Başlamadan önce şunların yüklü olduğundan emin olun:
-- Java Development Kit (JDK) yüklü.
+- Java Development Kit (JDK 8 veya daha yeni) yüklü.
 - IntelliJ IDEA veya Eclipse gibi bir IDE.
 - Bağımlılık yönetimi için Maven veya Gradle.
-- (Opsiyonel) Tam özellikli kullanım için bir Aspose.Imaging lisans dosyası.
+- (İsteğe bağlı) Sınırsız özellikler için bir Aspose.Imaging lisans dosyası.
 
-## Aspose.Imaging for Java Kurulumu
+## Aspose.Imaging'i Java için kurma
 
-### Maven Kurulumu
-Aşağıdaki bağımlılığı `pom.xml` dosyanıza ekleyin:
+### Maven kurulumu
+`pom.xml` dosyanıza aşağıdaki bağımlılığı ekleyin:
 ```xml
 <dependency>
     <groupId>com.aspose</groupId>
@@ -58,51 +107,41 @@ Aşağıdaki bağımlılığı `pom.xml` dosyanıza ekleyin:
 </dependency>
 ```
 
-### Gradle Kurulumu
-Bu satırı `build.gradle` dosyanıza ekleyin:
+### Gradle kurulumu
+`build.gradle` dosyanıza şu satırı ekleyin:
 ```gradle
 compile(group: 'com.aspose', name: 'aspose-imaging', version: '25.5')
 ```
 
-### Doğrudan İndirme
-Alternatif olarak, en son sürümü [Aspose.Imaging for Java releases](https://releases.aspose.com/imaging/java/) adresinden indirin.
+### Doğrudan indirme
+Alternatif olarak, en son sürümü [Aspose.Imaging Java sürümleri](https://releases.aspose.com/imaging/java/) adresinden indirebilirsiniz. Ayrıntılı API referansı için [Aspose.Imaging Java belgeleri](https://reference.aspose.com/imaging/java/) sayfasına bakın. Diğer sürümleri de [Aspose.Imaging Sürümleri](https://releases.aspose.com/imaging/java/) üzerinden keşfedebilirsiniz.
 
-#### Lisans Edinme
-- **Ücretsiz Deneme:** Aspose.Imaging'i deneme paketiyle test edin.  
-- **Geçici Lisans:** Tam özellikli değerlendirme için geçici bir lisans isteyin.  
-- **Satın Al:** Üretim kullanımı için bir abonelik satın alın.
+#### Lisans edinme
+- **Ücretsiz deneme:** Aspose.Imaging'i bir [deneme sürümü](https://releases.aspose.com/imaging/java/) ile test edin.  
+- **Geçici lisans:** [Geçici lisans isteyin](https://purchase.aspose.com/temporary-license/).  
+- **Satın alma:** [Aspose.Imaging satın alın](https://purchase.aspose.com/buy).
 
-#### Temel Başlatma
-```java
-import com.aspose.imaging.License;
+## Java'da bir görüntüyü nasıl yüklerim?
 
-License license = new License();
-license.setLicense("path/to/your/license/file.lic");
-```
+Görüntü dosyasını `Image.load(path)` ile yükleyin. Metod, formatı (BMP, JPEG, PNG vb.) otomatik olarak algılar ve üzerinde işlem yapabileceğiniz veya dönüştürebileceğiniz bir `Image` nesnesi döndürür. `try‑with‑resources` bloğu kullanmak, temel akışın kapatılmasını sağlayarak bellek sızıntılarını önler.
 
-## Uygulama Rehberi
-
-### Özellik 1: Görüntü Yükleme
-
-Görüntüleri doğru şekilde yüklemek, herhangi bir iş akışının temelidir. Aşağıda bir DIB (Device Independent Bitmap) dosyası yüklüyoruz.
-
-#### Adım 1 – Kaynak yolu tanımlayın
+### Adım 1 – Kaynak yolu tanımlama
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY" + "/sample.dib";
 ```
 
-#### Adım 2 – Otomatik kaynak yönetimiyle görüntüyü yükleyin
+### Adım 2 – Otomatik kaynak yönetimiyle görüntüyü yükleme
 ```java
 try (Image image = Image.load(dataDir)) {
     // The try‑with‑resources statement ensures that 'image' is closed automatically.
 }
 ```
 
-### Özellik 2: Dosya Formatını Tanımlama
+## Görüntü formatını nasıl belirlerim?
 
-Görüntü formatını tanımlamak, dosya tipine göre mantık dallandırmanıza olanak tanır.
+Yüklenmiş `Image` örneği üzerinde `image.getFileFormat()` çağırın. API, kesin formata göre dallanmanıza olanak tanıyan bir `FileFormat` enum'ı döndürür. Bu, dış kaynaklardan gelen karışık tip toplu dosyalarla çalışırken özellikle faydalıdır.
 
-#### Adım adım kod
+### Adım‑adım kod
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY" + "/sample.dib";
 try (Image image = Image.load(dataDir)) {
@@ -111,89 +150,97 @@ try (Image image = Image.load(dataDir)) {
 }
 ```
 
-### Özellik 3: Görüntüyü PNG Formatında Kaydetme
+## Java'da PNG görüntülerini nasıl kaydederim?
 
-PNG'ye dönüştürmek, web için hazır varlıklar için yaygın bir gereksinimdir.
+`image.save(outputPath, SaveFormat.Png)` çağrısıyla görüntüyü PNG dosyası olarak yazın. Kütüphane renk derinliği dönüşümünü ve sıkıştırmayı otomatik olarak yönetir, kayıpsız kaliteyle web‑hazır PNG'ler üretir. Büyük toplular için, çağrıyı paralel bir akışa sararak tüm CPU çekirdeklerini kullanın.
 
-#### Adım 1 – Kaynak ve hedef dizinleri ayarlayın
+### Adım 1 – Kaynak ve hedef dizinleri ayarlama
 ```java
 String dataDir = "YOUR_DOCUMENT_DIRECTORY" + "/sample.dib";
 String outputDir = "YOUR_OUTPUT_DIRECTORY";
 ```
 
-#### Adım 2 – Yükleyin ve PNG olarak kaydedin
+### Adım 2 – PNG olarak yükleme ve kaydetme
 ```java
 try (Image image = Image.load(dataDir)) {
     image.save(outputDir + "/sample.png", new PngOptions());
 }
 ```
 
-## Maven Aspose Imaging ile Görüntü İşlemeyi Optimize Etme
+## Maven Aspose.Imaging ile görüntü işleme optimizasyonu
 
-Maven kullanmak sadece bağımlılık yönetimini basitleştirmekle kalmaz, aynı zamanda Aspose.Imaging'in belirli bir sürümünü kilitlemenizi sağlar ve derlemeler arasında tutarlı davranışı garantiler. Bağımlılığı ekledikten sonra yerel deponuzu yenilemek için `mvn clean install` komutunu çalıştırmayı unutmayın.
+Maven, bağımlılık yönetimini basitleştirmenin yanı sıra belirli bir Aspose.Imaging sürümünü (ör. 25.5) kilitlemenizi sağlar. Tutarlı sürümleme, CI/CD akışları arasında aynı davranışı garantiler. Bağımlılığı ekledikten sonra yerel deponuzu yenilemek için `mvn clean install` komutunu çalıştırmayı unutmayın.
 
-## Toplu Görüntü İşleme İpuçları
+## Toplu görüntü işleme ipuçları
 
-Yüzlerce ya da binlerce dosyayı işlemeniz gerektiğinde:
+1. **Java Akışlarını Kullanma** – Her dosya yolunu, görüntüyü yükleyen, dönüştüren ve kaydeden bir lambda'ya eşleyin.  
+2. **ExecutorService Kullanma** – İş yükünü CPU çekirdekleri arasında paralelleştirerek daha yüksek verim elde edin.  
+3. **Kaynakları Hemen Serbest Bırakma** – Yukarıda gösterilen `try‑with‑resources` deseni, özellikle yüksek çözünürlüklü görüntülerle çalışırken bellek şişmesini önler.
 
-1. **Java Streams'i Kullanın** – Her dosya yolunu bir işleme lambda'sına eşleyin.  
-2. **ExecutorService'i Kullanın** – İş yükünü CPU çekirdekleri arasında paralel hale getirin.  
-3. **Kaynakları Hemen Serbest Bırakın** – Yukarıda gösterilen try‑with‑resources deseni bellek şişmesini önler.
+Bu uygulamalar, **görüntü işleme performansını artırmanıza** ve bellek kullanımını kontrol altında tutmanıza yardımcı olur.
 
-Bu uygulamalar, **görüntü işlemeyi optimize** etmenize ve bellek kullanımını kontrol altında tutmanıza yardımcı olur.
+## Pratik uygulama alanları
 
-## Pratik Uygulamalar
+- **Web geliştirme:** Kullanıcı tarafından yüklenen görüntüler için dinamik olarak küçük resimler veya filigranlar oluşturma.  
+- **Veri akışları:** Makine öğrenimi modellerine beslemeden önce heterojen görüntü setlerini tek tip PNG formatına dönüştürme.  
+- **Bilimsel araştırma:** Kayıpsız kaliteyi koruyarak büyük mikroskopi görüntü koleksiyonlarını işleme.
 
-1. **Web Geliştirme:** Kullanıcı tarafından yüklenen görüntüler için dinamik olarak küçük resimler veya filigranlar oluşturun.  
-2. **Veri İşleme Boru Hatları:** Aşağı akış araçlarının tek tip bir görüntü türünü kabul etmesini sağlamak için format dönüşümünü otomatikleştirin.  
-3. **Bilimsel Araştırma:** Analiz için büyük görüntü veri setlerini işleyin, Aspose.Imaging'in kayıpsız işleme avantajlarından faydalanın.
+## Performans değerlendirmeleri
 
-## Performans Düşünceleri
-
-- **Bellek Yönetimi:** Büyük görüntülerde her zaman try‑with‑resources kullanın veya açıkça `dispose()` metodunu çağırın.  
-- **Çözünürlük Ölçekleme:** Ağır manipülasyonlardan önce görüntü boyutlarını küçülterek CPU döngülerinden tasarruf edin.  
-- **Çoklu İş Parçacığı:** Kütüphaneyi Java'nın eşzamanlılık yardımcılarıyla birleştirerek toplu işler yapın.
-
-## Sonuç
-
-Aspose.Imaging kullanarak **load image java**, formatını tanımlamayı ve PNG olarak kaydetmeyi adım adım inceledik. Maven entegrasyonu, toplu iş ipuçları ve performans en iyi uygulamalarıyla artık Java'da sağlam görüntü işleme boru hatları oluşturmak için donanımlısınız. Tam API'yi keşfederek filigran ekleme, renk düzeltme ve meta veri manipülasyonu gibi gelişmiş özelliklerin kilidini açın.
+- **Bellek yönetimi:** Büyük görüntülerde her zaman `try‑with‑resources` kullanın veya `dispose()` metodunu açıkça çağırın.  
+- **Çözünürlük ölçekleme:** Yoğun işlemlerden önce boyutları küçültmek CPU döngülerini tasarruf ettirir.  
+- **Çoklu iş parçacığı:** Kütüphaneyi Java’nın eşzamanlılık araçlarıyla birleştirerek toplu görevlerde performansı artırın.
 
 ## Sıkça Sorulan Sorular
 
 **S: DIB dosya formatı nedir?**  
-C: DIB (Device Independent Bitmap), sıkıştırma olmadan bitmap verisi depolar ve çoğunlukla Windows platformlarında kullanılır.
+C: DIB (Device Independent Bitmap), sıkıştırma olmadan ham bitmap verisini depolar ve genellikle Windows platformlarında kullanılır.
 
 **S: Aspose.Imaging'i Spring Boot ile kullanabilir miyim?**  
-C: Evet—sadece Maven veya Gradle bağımlılığını ekleyin ve görüntü hizmetlerine ihtiyaç duyduğunuz yere kütüphaneyi enjekte edin.
+C: Evet—sadece Maven veya Gradle bağımlılığını ekleyin ve görüntü hizmetlerine ihtiyaç duyduğunuz her yerde kütüphaneyi enjekte edin.
 
 **S: Çok büyük görüntülerle nasıl başa çıkmalıyım?**  
-C: Yüklemeden önce daha küçük parçalar halinde işleyin veya çözünürlüğü düşürün; ayrıca her `Image` örneğini hızlıca serbest bırakın.
+C: Görüntüyü daha küçük parçalar halinde işleyin veya yüklemeden önce çözünürlüğü düşürün; ayrıca her `Image` örneğini hemen serbest bırakın.
 
 **S: Toplu işleme mümkün mü?**  
-C: Kesinlikle. Aspose.Imaging'i Java'nın paralel akışlarıyla veya bir `ExecutorService` ile birleştirerek birçok dosyayı aynı anda işleyin.
+C: Kesinlikle. Aspose.Imaging'i Java’nın paralel akışları veya bir `ExecutorService` ile birleştirerek birçok dosyayı aynı anda işleyebilirsiniz.
 
 **S: Görüntü formatlarıyla çalışırken yaygın tuzaklar nelerdir?**  
-C: Görüntü akışlarını kapatmayı unutmak, format‑spesifik özellikleri (renk profilleri gibi) göz ardı etmek ve IO istisnalarını ele almamak çöküşlere veya bozuk çıktılara neden olabilir.
+C: Görüntü akışlarını kapatmayı unutmak, format‑özel özellikleri (ör. renk profilleri) göz ardı etmek ve IO istisnalarını ele almamak, çöküşlere veya bozuk çıktılara yol açabilir.
 
-## Kaynaklar
-
-- **Dokümantasyon:** [Aspose.Imaging for Java](https://reference.aspose.com/imaging/java/)
-- **İndirme:** [Aspose.Imaging Releases](https://releases.aspose.com/imaging/java/)
-- **Satın Al:** [Buy Aspose.Imaging](https://purchase.aspose.com/buy)
-- **Ücretsiz Deneme:** [Try Aspose.Imaging](https://releases.aspose.com/imaging/java/)
-- **Geçici Lisans:** [Request Temporary License](https://purchase.aspose.com/temporary-license/)
-- **Destek:** [Aspose Forum](https://forum.aspose.com/c/imaging/14)
+Ek yardım için [Aspose Forum](https://forum.aspose.com/c/imaging/14) adresini ziyaret edin.
 
 ---
 
-**Son Güncelleme:** 2026-02-19  
-**Test Edilen Versiyon:** Aspose.Imaging 25.5 for Java  
+**Son Güncelleme:** 2026-11-16  
+**Test Edilen Sürüm:** Aspose.Imaging 25.5 for Java  
 **Yazar:** Aspose  
+
+
+
+
+
+
+
+
+
+```java
+import com.aspose.imaging.License;
+
+License license = new License();
+license.setLicense("path/to/your/license/file.lic");
+```
+
+## İlgili Eğitimler
+
+- [Java Görüntü İşleme Eğitimi: Aspose.Imaging ile JPEG'den PNG'ye Dönüştürme](/imaging/java/format-conversion-export/convert-jpeg-to-png-aspose-imaging-java/)
+- [Java'da PNG Görüntü İşleme: Kapsamlı Rehber](/imaging/java/format-specific-operations/mastering-png-processing-aspose-imaging-java/)
+- [Aspose.Imaging for Java: Görüntü Yükleme ve Kaydetme Eğitimi](/imaging/java/image-loading-saving/load-save-images-aspose-imaging-java/)
+
 
 {{< /blocks/products/pf/tutorial-page-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
